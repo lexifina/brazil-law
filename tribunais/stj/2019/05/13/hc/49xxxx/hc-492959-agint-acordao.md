@@ -1,0 +1,68 @@
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. INDEFERIMENTO DE LIMINAR NA ORIGEM. NÃO CABIMENTO. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Não se admite, em princípio, a impetração de habeas corpus contra decisão que denega pedido liminar em sede de writ impetrado na origem, sob pena de se configurar indevida supressão de instância (enunciado 691, da Súmula do STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação.
+II - Não se verifica a ocorrência de flagrante ilegalidade capaz de determinar o conhecimento da impetração, em afronta ao disposto na Súmula 691 do STF.
+Agravo regimental desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto por ELIAS DANIEL KISSLERS, em face de decisão por mim proferida às fls. 193-196, pela qual indeferi liminarmente o presente Habeas Corpus, por ter sido impetrado contra decisão de relator de writ originário.
+No presente agravo regimental, aduz o ora agravante que "De início, cumpre-nos salientar que a decisão agravada é genérica e, portanto, não enfrenta o caso concreto, inclusive, podendo ser lançada em qualquer caso que verse sobre habeas corpus que se insurge contra decisão que indefere liminar" (fl. 203).
+Alega que "o Agravante não possui condições de arcar com o valor da fiança arbitrada (R$ 15.000,00), pois recebe benefício previdenciário de auxílio-doenca acidentário, de valor mensal de R$ 1.555,85, conforme declaração do INSS anexa aos autos, não pode deixa-lo encarcerado por falta de condições financeiras" (fl. 209).
+Requer, ao final, o conhecimento e provimento do presente agravo regimental, para que seja concedida ordem de habeas corpus, com a revogação do decreto de prisão preventiva.
+O Ministério Público Federal manifestou-se às fls. 230-232 pela manutenção da decisão impugnada, e desprovimento do agravo regimental, em parecer assim ementado:
+"AGRAVO INTERNO. HABEAS CORPUS INDEFERIDO LIMINARMENTE. INCIDÊNCIA DA SÚMULA N  691/STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DESPROVIMENTO".
+Por manter o decisum, trago o feito ao Colegiado.
+É o breve relatório.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. INDEFERIMENTO DE LIMINAR NA ORIGEM. NÃO CABIMENTO. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Não se admite, em princípio, a impetração de habeas corpus contra decisão que denega pedido liminar em sede de writ impetrado na origem, sob pena de se configurar indevida supressão de instância (enunciado 691, da Súmula do STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação.
+II - Não se verifica a ocorrência de flagrante ilegalidade capaz de determinar o conhecimento da impetração, em afronta ao disposto na Súmula 691 do STF.
+Agravo regimental desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: O presente agravo regimental não merece prosperar.
+Presentes os requisitos de admissibilidade, conheço do agravo.
+Pretende o agravante a reforma da decisão que fez incidir para o caso o enunciado n. 691, da Súmula do Supremo Tribunal Federal, uma vez que o habeas corpus investiu contra denegação de liminar na origem.
+Contudo, não lhe assiste razão.
+Isso porque, como consignado na decisão agravada, o presente writ investe contra decisão proferida por em. Desembargador de Tribunal de Justiça que indeferiu o pedido liminar em habeas corpus impetrado na origem, no qual a Defesa alega que o juízo estabeleceu fiança no valor de quinze mil reais, o que seia incompatível com a capacidade financeira do paciente.
+Insta consignar que a jurisprudência desta eg. Corte há muito já se firmou no sentido de que, ressalvadas hipóteses excepcionais, descabe o instrumento heróico em situação como a presente, sob pena de ensejar supressão de instância.
+Sobre o tema, confiram-se os seguintes precedentes desta eg. Corte:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. SÚMULA 691/STF. NÃO COMPROVAÇÃO DE ILEGALIDADE OU TERATOLOGIA ALEGADA. AGRAVO DESPROVIDO.
+1. Esta Corte Superior firmou entendimento no sentido de não ser cabível habeas corpus contra decisão que indefere liminar, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade, a teor do disposto no enunciado da Súmula 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. Na hipótese, o Tribunal de origem indeferiu a liminar, pelo fundamento de que "policiais civis, por meio de investigações que evidenciaram o envolvimento do paciente e de [NOME] com o tráfico ilícito de drogas, chegaram à apreensão de grande quantidade e variedade de entorpecente (3.893 gramas de skunk, 18.450 porções de LSD, 2.884 comprimidos de Ecstasy), além de balança de precisão e anabolizantes, que estavam na posse do corréu [NOME], o qual, na oportunidade, declarou que conhecia o paciente, demonstrando profunda insatisfação com ele. Há notícia, ainda, de que [NOME] seria distribuidor de entorpecente, fazendo entregas ao paciente."
+3. As possíveis ilegalidades e teratologias aptas à mitigação da mencionada Súmula a justificar manifestação antecipada deste Superior Tribunal de Justiça não foram apontadas pela defesa.
+4. Agravo regimental desprovido" (AgRg no HC n. 400.708/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 27/9/2017).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. HC IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA 691/STF. EXECUÇÃO PROVISÓRIA DA PENA. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, salvo no caso de flagrante ilegalidade ou teratologia da decisão impugnada.
+2. A decisão atacada não se apresenta teratológica ou flagrantemente ilegal, porquanto o STF passou a admitir a execução provisória da pena, após o esgotamento das instâncias ordinárias, como no caso concreto.
+3. Agravo Regimental desprovido" (AgRg no HC n. 409.876/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 26/9/2017).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU PEDIDO LIMINAR. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. ÓBICE DA SÚMULA 691 DO STF. RECURSO NÃO PROVIDO.
+1. Nos termos do enunciado da Súmula n. 691 do Supremo Tribunal Federal, "não compete ao Supremo Tribunal Federal conhecer de "habeas corpus" impetrado contra decisão do relator que, em "habeas corpus" requerido a Tribunal Superior, indefere a liminar".
+2. O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha, que não escapa à pronta percepção do julgador, o que, todavia, não ocorre na hipótese, em que foram apontados elementos concretos que, ao menos à primeira vista, evidenciam a gravidade concreta do delito em tese cometido, a ensejar, por conseguinte, a necessidade de manutenção da custódia preventiva para a garantia da ordem pública.
+3. Não está evidenciada, de maneira patente, nenhuma delonga injustificada para o eventual oferecimento de denúncia, capaz de ensejar a superação da Súmula n. 691 do Supremo Tribunal Federal, haja vista que os autos do inquérito policial têm tido tramitação regular, conforme informações prestadas pelo Juiz de primeiro grau.
+4. Agravo regimental não provido" (AgRg no HC n. 404.872/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/9/2017).
+In casu, o agravante não trouxe qualquer argumento capaz de alterar a conclusão da decisão agravada, do seguinte teor:
+"Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra denegação de liminar. De fato, ressalvadas hipóteses excepcionais descabe o instrumento heróico em situação como a presente, sob pena de ensejar supressão de instância.
+A matéria, inclusive, já se encontra sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+Na hipótese, o writ impetrado na origem teve o pedido liminar indeferido sob os seguintes fundamentos, verbis:
+" ..
+Destaca-se, na hipótese, a necessidade da medida aplicada, diante imprescindibilidade de vinculação do investigado ao processo de origem, possibilitando a aplicação da lei penal, bem como a instrução criminal. Anote- se, ainda, que medida é adequada à gravidade e natureza do crime em questão, bem como às circunstâncias do fato e as condições pessoais do paciente.
+Em feitos que guardam semelhança com o presente, no tocante ao pedido de afastamento ou até mesmo redução do valor da fiança para fins de gozo do benefício da liberdade provisória, vem se adotando o posicionamento no sentido de que se faz necessária a comprovação inequívoca acerca da hipossuficiência econômica do paciente.
+Constitui ônus do impetrante demonstrar que o paciente não possui condições de arcar com o custo da fiança, não se prestando para tanto as simples declarações juntadas à inicial, como reiteradamente vem decidindo esta Corte (HC n  5011598-57.2013.404.0000, Turma, Juiz Federal Luiz Carlos Canalli, por unanimidade, juntado aos autos em 11/06/2013).
+Em que pese as alegações apresentadas pela defesa, no sentido que o paciente possui renda de aproximadamente R$ 1.500,00 decorrente de benefício previdenciário, bem observou a Magistrada de Primeiro Grau que o naciente foi nreso enauanto conduzia um veículo Tovota/Hilux. que reside em imóvel proprio avaliado em R$ 100.000,00, alem de portar, no momento de sua abordagem R$ 672,00 em espécie (cédulas verdadeiras), conforme documentação juntada ao auto de prisão em flagrante.
+Diante de tais circunstâncias descabe, na hipótese, a aplicação da norma prevista no art. 325, § 1Q, do Código de Processo Penal, bem como no art. 350 do mesmo Diploma Legal, na forma pretendida pela impetrante, em razão de não ter ficado comprovada a hipossuficiência econômica do investigado, à vista do posicionamento que vem sendo adotado por este Relator em casos tais, dos quais se colhe o seguinte precedente:
+ ..
+Portanto, no que se refere ao montante fixado a título de fiança, é necessário registrar que, assim como sua fixação em valor exacerbado pode tornar-se obstáculo à liberdade, também é certo que estabelecer fiança em montante irrisório, meramente simbólico, torna inócua sua função de garantia processual por meio da vinculação do afiançado ao juízo no qual está sendo processado, motivo pelo qual o valor deve ser considerável. Entender de modo diverso levaria à ineficácia da prestação jurisdicional em favor da coletividade, bem como desacreditaria a atuação do Poder Judiciário.
+Com efeito, no caso dos autos a fiança não foi arbitrada em valor que extrapole os limites legais. Considerando que o delito supostamente praticado pelo flagrado tem pena máxima de 12 anos de reclusão, é permitido ao juiz fixar a fiança em um patamar variável entre dez a duzentos salários mínimos (art. 325, II, do Código de Processo Penal).
+Assim, analisando a hipótese dos autos em cotejo com a fundamentação ora expressa, notadamente em sede de cognição sumária realizada no exame liminar de habeas corpus. não se verifica ilegalidade manifesta no montante arbitrado.
+Portanto, nada obstante as alegações deduzidas na petição inicial, verifica-se que resta caracterizada, pelo conjunto probatório juntado à ação de origem, a necessidade e a adequação da utilização da fiança como forma de estabelecer o vínculo entre o paciente e o processo criminal" (fls. 167-173).
+Na hipótese, portanto, não verifico a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido.
+Assim o entendimento do Pretório Excelso: HC nº 103570, Primeira Turma, Rel. Min. Marco Aurélio, Rel. p/ acórdão Min. Rosa Weber, DJe de 22/8/2014; HC nº 121828, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 25/6/2014; HC nº 123549 AgR, Segunda Turma, Rel.ª Min. Cármen Lúcia, DJe de 4/9/2014.
+No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC nº 392.348/RO, Sexta Turma, Rel. Ministro Nefi Cordeiro; HC nº 392.249/PR, Sexta Turma, Rel. Ministro Sebastião Reis Júnior; HC nº 392.316/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas; HC nº 391.936/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik; HCnº 392.187/SP, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura.
+Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente writ" (fls. 196-196).
+Na hipótese, repita-se, não vislumbro a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido, razão pela qual o não conhecimento do presente writ é medida que se impõe.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
