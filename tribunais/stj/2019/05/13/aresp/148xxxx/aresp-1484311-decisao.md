@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por INSTITUTO NACIONAL DO SEGURO SOCIAL, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea a, da CF/88 visa reformar acórdão proferido por TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+EMBARGOS À EXECUÇÃO SENTENÇA ULTRA PETITA RESTRIÇÃO AOS LIMITES DO PEDIDO APELAÇÃO EFICÁCIA PRECLUSIVA DA COISA JULGADA RECEBIMENTO DE BENEFÍCIO NO PERÍODO EM QUE HOUVE REMUNERAÇÃO.
+I - O embargado, em seus cálculos (fls. 308/310, apenso), estimou o valor da execução em R$36.357,73, atualizados até julho/2014. O Juízo a quo, por sua vez, acolheu os cálculos da Contadoria (fls. 67/71) que fixaram o valor da execução em R$40.636,99, atualizados até julho/2014. Assim sendo, caracterizada a hipótese de julgado ultra petita, a teor do disposto nos artigos 141, 282 e 492 do CPC/2015, declaro a nulidade da sentença em relação ao valor excedente.
+II- Consoante jurisprudência pacífica do C. Superior Tribunal de Justiça, somente é possível, na fase da execução, a invocação de fato impeditivo, modificativo ou extintivo da obrigação verificado em momento posterior ao trânsito em julgado da decisão de mérito proferida na fase de conhecimento, em razão da eficácia preclusiva da coisa julgada. Precedentes do C. STJ.
+III- De oficio, restrição da sentença aos limites do pedido.
+Apelação improvida.
+Quanto à primeira controvérsia, pela alínea a, alega violação do art. 46 da Lei n. 8.213/91, no que concerne direito à percepção de beneficio por incapacidade durante período em que o segurado trabalhou.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que o artigo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal" (AgInt no REsp n. 1685486/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 21/2/2019).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp n. 1675309/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/2/2018; AgRg no REsp n. 1351593/RS, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 12/3/2014; e AgRg no AREsp n. 197.224/SP, relatora Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), Quinta Turma, DJe de 20/11/2012.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
