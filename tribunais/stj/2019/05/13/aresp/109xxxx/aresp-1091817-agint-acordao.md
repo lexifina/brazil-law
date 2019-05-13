@@ -1,0 +1,62 @@
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIMINAR CONCEDIDA PARA SUSPENSÃO DA COBRANÇA DA TAXA DE PROCESSAMENTO DO PEDIDO DE PAGAMENTO (TPDP), PREVISTA NA LEI 7.947/2006 DO ESTADO DA PARAÍBA. APLICAÇÃO ANALÓGICA DA SÚMULA 735/STF. AGRAVO INTERNO DO ESTADO DA PARAÍBA DESPROVIDO.
+1. Inexiste a alegada violação do art. 535, II do CPC/1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2. Não cabe analisar no presente recurso a suposta ofensa ao direito federal, haja vista tratar-se o acórdão impugnado de deferimento de medida liminar.
+3. Isto porque a decisão é marcada pela precariedade, dado o juízo de cognição sumária inerente às tutelas de urgência. Não se tratando de pronunciamento definitivo, não se pode considerar ocorrida violação da legislação federal. Incide, assim, por aplicação analógica, a Súmula 735 do STF, segundo a qual não cabe recurso extraordinário contra acórdão que defere medida liminar. Precedentes: AgInt no AREsp. 235.368/MA, Rel. Min. REGINA HELENA COSTA, DJe 23.2.2017; REsp. 1.655.010/RJ, Rel. Min. HERMAN BENJAMIN, DJe 2.5.2017; AgRg no AREsp. 770.439/MT, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 3.3.2017; AgInt no AREsp. 886.909/RJ, Rel. Min. MARIA ISABEL GALLOTTI, DJe 28.11.2016; AgInt no AREsp. 698.557/BA, Rel. Min. ASSUSETE MAGALHÃES, DJe 27.9.2016.
+4. Agravo Interno do ESTADO DA PARAÍBA desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pelo ESTADO DA PARAÍBA em adversidade à decisão monocrática (fls. 422/428) que negou provimento ao Agravo em Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. LIMINAR CONCEDIDA PARA SUSPENSÃO DA COBRANÇA DA TAXA DE PROCESSAMENTO DO PEDIDO DE PAGAMENTO (TPDP), PREVISTA NA LEI 7.947/2006, DO ESTADO DA PARAÍBA. APLICAÇÃO ANALÓGICA DA SÚMULA 735/STF. ACÓRDÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL.USURPAÇÃO DA COMPETÊNCIA DA SUPREMA CORTE. AGRAVO EM RECURSO ESPECIAL DO ESTADO DA PARAÍBA A QUE SE NEGA PROVIMENTO, EM CONSONÂNCIA COM O PARECER MINISTERIAL.
+2. Na oportunidade, manteve-se o acórdão do egrégio TJ/PB, assim ementado:
+AGRAVO INTERNO EM MANDADO DE SEGURANÇA. LIMINAR. TRIBUTÁRIO. LEI QUE RESTAURA A VIGÊNCIA DE TAXA DECLARADA ANTERIORMENTE INCONSTITUCIONAL POR ESTA CORTE DE JUSTIÇA. DESPROVIMENTO.
+- Verificando o Magistrado a presença do fumus boni iuris e do periculum in mora, requisitos necessários á concessão da liminar seu deferimento é medida que se impõe (fls. 214).
+3. A parte agravante sustenta a ocorrência de omissão e que, no que diz respeito à incidência da súmula 735/STF, também não devem subsistir os fundamentos da decisão recorrida, tendo em vista os riscos e prejuízo que a medida poderá causar.
+4. Pugna, desse modo, a reconsideração da decisão ora atacada ou a apresentação do feito à Turma Julgadora.
+5. Às fls. 447 certificou-se o decurso de prazo para impugnação.
+6. É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIMINAR CONCEDIDA PARA SUSPENSÃO DA COBRANÇA DA TAXA DE PROCESSAMENTO DO PEDIDO DE PAGAMENTO (TPDP), PREVISTA NA LEI 7.947/2006 DO ESTADO DA PARAÍBA. APLICAÇÃO ANALÓGICA DA SÚMULA 735/STF. AGRAVO INTERNO DO ESTADO DA PARAÍBA DESPROVIDO.
+1. Inexiste a alegada violação do art. 535, II do CPC/1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2. Não cabe analisar no presente recurso a suposta ofensa ao direito federal, haja vista tratar-se o acórdão impugnado de deferimento de medida liminar.
+3. Isto porque a decisão é marcada pela precariedade, dado o juízo de cognição sumária inerente às tutelas de urgência. Não se tratando de pronunciamento definitivo, não se pode considerar ocorrida violação da legislação federal. Incide, assim, por aplicação analógica, a Súmula 735 do STF, segundo a qual não cabe recurso extraordinário contra acórdão que defere medida liminar. Precedentes: AgInt no AREsp. 235.368/MA, Rel. Min. REGINA HELENA COSTA, DJe 23.2.2017; REsp. 1.655.010/RJ, Rel. Min. HERMAN BENJAMIN, DJe 2.5.2017; AgRg no AREsp. 770.439/MT, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 3.3.2017; AgInt no AREsp. 886.909/RJ, Rel. Min. MARIA ISABEL GALLOTTI, DJe 28.11.2016; AgInt no AREsp. 698.557/BA, Rel. Min. ASSUSETE MAGALHÃES, DJe 27.9.2016.
+4. Agravo Interno do ESTADO DA PARAÍBA desprovido.
+VOTO
+1. Não obstante a irresignação da parte agravante, não foram trazidos argumentos capazes de desconstituir a decisão agravada.
+2. Inexiste a alegada violação do art. 535, II do CPC/1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Na verdade, a questão não foi decidida como objetivava a parte agravante, uma vez que foi aplicado entendimento diverso. É cediço, no STJ, que o juiz não fica obrigado a se manifestar sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu.
+3. Não cabe analisar no presente recurso a suposta ofensa ao direito federal, haja vista tratar-se o acórdão impugnado de deferimento de medida liminar
+4. Isto porque a decisão é marcada pela precariedade, dado o juízo de cognição sumária inerente às tutelas de urgência. Não se tratando de pronunciamento definitivo, não se pode considerar ocorrida violação da legislação federal. Incide, por aplicação analógica, a Súmula 735/STF, segundo a qual não cabe recurso extraordinário contra acórdão que defere medida liminar. Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AÇÃO CIVIL PÚBLICA. SERVIÇO DE TELEFONIA MÓVEL. RECURSO ESPECIAL CONTRA ACÓRDÃO QUE DEFERE OU INDEFERE MEDIDA LIMINAR OU ANTECIPAÇÃO DOS EFEITOS DA TUTELA. NÃO CABIMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 735/STF.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015 ao julgamento deste Agravo Interno.
+II - Não cabe recurso especial contra acórdão que defere ou indefere medida liminar ou antecipação dos efeitos da tutela, haja vista a natureza precária da decisão. Incidência, por analogia, da Súmula n. 735/STF.
+III - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno improvido (AgInt no AREsp. 235.368/MA, Rel. Min. REGINA HELENA COSTA, DJe 23.2.2017).
+
+PROCESSUAL CIVIL. TUTELA ANTECIPADA. REQUISITOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA 7/STJ. SÚMULA N. 735/STF. DECISÃO MANTIDA.
+1 O Recurso Especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, conforme dispõe a Súmula 7 do STJ.
+2. No caso concreto, a análise das razões apresentadas pela recorrente, quanto à presença dos requisitos autorizadores da concessão da liminar, demanda revolvimento de fatos e provas, vedado em Recurso Especial.
+3. A jurisprudência do STJ não admite a interposição de Recurso Especial com objetivo de discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado 735 da Súmula do STF.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido (REsp. 1.655.010/RJ, Rel. Min. HERMAN BENJAMIN, DJe 2.5.2017).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. TUTELA ANTECIPADA. REQUISITOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA 7/STJ. SÚMULA 735/STF. DECISÃO MANTIDA.
+(..).
+2. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula 7 do STJ.
+3. No caso concreto, a análise das razões apresentadas pelo recorrente, quanto à ausência dos requisitos autorizadores da concessão da liminar, demandaria o revolvimento de fatos e provas, o que é vedado em recurso especial.
+4. A jurisprudência do STJ não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado 735 da Súmula do STF. Precedentes.
+5. Agravo regimental a que se nega provimento (AgRg no AREsp. 770.439/MT, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 3.3.2017).
+
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ANTECIPAÇÃO DE TUTELA. REVISÃO NO STJ. IMPOSSIBILIDADE. SÚMULA 735 DO STF. SÚMULA 7 DO STJ. NÃO PROVIMENTO.
+(..).
+2. O STJ, em sintonia com o disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Precedentes.
+3. Ainda que cabível, em tese, o recurso especial, seria imprescindível o reexame do contexto fático e probatório dos autos para a verificação dos pressupostos ensejadores da tutela antecipada, providência inviável nesta instância em face da Súmula 7 do STJ, conforme a jurisprudência pacífica desta Corte.
+4. Agravo interno a que se nega provimento (AgInt no AREsp. 886.909/RJ, Rel. Min. MARIA ISABEL GALLOTTI, DJe 28.11.2016).
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO. ATUAÇÃO COMO PARTE. INTERVENÇÃO COMO FISCAL DA LEI. DESNECESSIDADE. PRECEDENTES DO STJ. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735/STF. AGRAVO INTERNO IMPROVIDO.
+(..).
+V. Na forma da jurisprudência, para análise dos critérios adotados pela instância ordinária que ensejaram a concessão da liminar ou da antecipação dos efeitos da tutela, é necessário o reexame dos elementos probatórios a fim de aferir a prova inequívoca que convença da verossimilhança da alegação, nos termos do art. 273 do CPC/73, o que não é possível em recurso especial, dado o óbice da Súmula 7 desta Corte (STJ, AgRg no AREsp. 350.694/RS, Rel. Min. HUMBERTO MARTINS, DJe de 18.9.2013).
+VI. Consoante reiterada jurisprudência desta Corte, não é cabível Recurso Especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa que, em liminar ou antecipação dos efeitos da tutela, é tratada, pelo Tribunal de origem, apenas sob juízo precário de mera verossimilhança, porquanto, em relação a tal matéria, somente haverá causa decidida em única ou última instância com o julgamento definitivo, atraindo, analogicamente, o enunciado da súmula 735 do STF: Não cabe recurso extraordinário contra acórdão que defere medida liminar (STJ, REsp. 765.375/MA, Rel. Min. TEORI ALBINO ZAVASCKI, DJU de 8.5.2006).
+VII. Agravo interno improvido (AgInt no AREsp. 698.557/BA, Rel. Min. ASSUSETE MAGALHÃES, DJe 27.9.2016).
+5. Com base nessas considerações, nega-se provimento ao Agravo Interno do ESTADO DA PARAÍBA.
+6. É como voto.
