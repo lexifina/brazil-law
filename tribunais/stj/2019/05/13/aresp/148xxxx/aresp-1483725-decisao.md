@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo apresentado por MUNICÍPIO DE SÃO PAULO, contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+MANDADO DE SEGURANÇA - MUNICÍPIO DE SÃO PAULO - PRELIMINARES DE INADEQUAÇÃO DA VIA ELEITA E FALTA DE INTERESSE DE AGIR REJEITADAS - LEI MUNICIPAL Nº 14256/06 E DECRETO MUNICIPAL Nº 46228/05 JULGADOS INCONSTITUCIONAIS PELO C ÓRGÃO ESPECIAL DESTE E TRIBUNAL DE JUSTIÇA - VALOR VENAL ENTENDIDO COMO AQUELE EM QUE O IMÓVEL SERIA NEGOCIADO À VISTA EM CONDIÇÕES NORMAIS DE MERCADO  SISTEMÁTICA QUE DELEGA SUA FIXAÇÃO PRÉVIA AO PODER EXECUTIVO - AFRONTA AO PRINCÍPIO DA LEGALIDADE INSCULPIDO NO ARTIGO 150 INCISO I DA CF/88 - PRECEDENTES DO C ÓRGÃO ESPECIAL - VIOLAÇÃO DE DIREITO LÍQUIDO E CERTO DEMONSTRADA - SEGURANÇA BEM CONCEDIDA - SENTENÇA MANTIDA - RECURSO OFICIAL (CONSIDERADO INTERPOSTO) E APELO DA MUNICIPALIDADE NÃO PROVIDOS COM OBSERVAÇÃO.
+É o relatório. Decido.
+Na espécie, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Nesse sentido: "É inviável, em recurso especial, a revisão de julgado que possui fundamentação exclusivamente constitucional para declarar devida a paridade de remuneração entre trabalhadores ativos e inativos, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgInt no REsp 1744165/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/02/2019, DJe 01/03/2019).
+Confiram-se ainda os seguintes precedentes: REsp 1757744/RS, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 07/02/2019, DJe 14/02/2019; e AgInt no REsp 1503220/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 04/12/2018, DJe 05/02/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
