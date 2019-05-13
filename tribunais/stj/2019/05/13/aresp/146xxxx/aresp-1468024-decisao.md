@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de São Paulo, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 183):
+MANDADO DE SEGURANÇA - IMUNIDADE TRIBUTÁRIA - IPTU - Entidade sindical de representação de categorias de trabalhadores - Benesse conferida pela Constituição Federal, artigo 150, VI, "c" - Dispensável pedido administrativo - Comprovado que o imóvel pertence ao sindicado e que é utilizado para as suas finalidades essenciais - Imunidade em relação ao IPTU - Sentença mantida - Recursos Improvidos.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 373, I, do CPC/2015 e 14 do CTN. Sustenta a indevida inversão do ônus da prova e a não comprovação dos requisitos constitucionais e legais para o gozo da imunidade tributária.
+O Ministério Público deixou de se manifestar por falta de interesse (fls. 286/288).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, a matéria pertinente ao art. 373, I, do CPC/2015 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, no presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "para efeito da imunidade tributária que a Constituição Federal lhes confere, não necessitam comprovar outros requisitos além daqueles que decorrem do próprio texto constitucional" (fl. 185), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+No mérito, o Tribunal de origem consignou que a recorrida comprovou os requisitos para fazer jus à imunidade. É o que se extrai do seguinte excerto (fls. 184/186):
+Trata-se de mandado de segurança Afirmando a impetrante gozar de imunidade tributária, por força de disposição constitucional, por se tratar de entidade sindical de representação de categorias de trabalhadores, e por isso requer o cancelamento do débito relativo ao imposto predial e territorial urbano, no tocante ao imóvel da entidade sindical (fls. 1/20) .
+(..)
+Os sindicatos estão submetidos à disciplina jurídica da CLT; têm função essencial de representação e de coordenação das correspondentes categorias ou profissões e estão proibidos de exercer atividade econômica (art. 564); só podem aplicar a receita da contribuição social em atividades assistenciais e educativas (art. 592); e estão submetidos a rigida disciplina sobre gestão financeira e à fiscalização dos órgãos do Ministério do Trabalho (artigos 548 usque 557) .
+Portanto, para efeito da imunidade tributária que a Constituição Federal lhes confere, não necessitam comprovar outros requisitos além daqueles que decorrem do próprio texto constitucional, quais sejam, a condição de entidade sindical de trabalhadores e a vinculação da matéria tributável às suas finalidades essenciais.
+O imóvel pertence ao sindicado, que nele mantém a sua sede, segundo o documento de fls. 25/47 , de modo que está sendo utilizado para as suas finalidades essenciais, como prescreve o texto constitucional para efeito da imunidade.
+Assim, alteração das conclusões adotadas pela Corte de origem, quanto ao cumprimento dos requisitos, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Por fim, observe-se que o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, restando prejudicada a análise do dissídio jurisprudencial.
+No mesmo sentido, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OFENSA AO ART. 535 DO CPC. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. FALTA DE PREQUESTIONAMENTO DO ART. 116, PARÁG. ÚNICO DO CTN. NULIDADE DA CDA. PRESCRIÇÃO E SOLIDARIEDADE. INVERSÃO DO JULGADO QUE DEMANDARIA INCURSÃO NA SEARA PROBATÓRIA DOS AUTOS. SÚMULA 7 DO STJ. ÓBICES QUE INVIABILIZAM O SEGUIMENTO DO RECURSO PELA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. O mesmo óbice imposto à admissão do Recurso Especial pela alínea a do permissivo constitucional - incidência da Súmula 7/STJ - obsta a análise recursal pela alínea c, restando o dissídio jurisprudencial prejudicado.
+5. Agravo Regimental desprovido.
+(AgRg no AREsp 206.773/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 01/03/2013)
+DIREITO CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. LOCAÇÃO. OFENSA AOS ARTS. 458, II, 463, II E 535, I E II, DO CPC. NÃO-OCORRÊNCIA. NOVAÇÃO. EXISTÊNCIA. AFERIÇÃO. EXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. EXIGÊNCIA DE DUPLA GARANTIA. PREVALÊNCIA DA FIANÇA, OFERTADA EM PRIMEIRO LUGAR. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Os embargos de declaração têm como objetivo sanar eventual obscuridade, contradição ou omissão existentes na decisão recorrida. Não há falar em afronta aos arts. 458, II, 463, II e 535, I e II, do CPC, quando o Tribunal de origem, como na espécie, pronuncia-se de forma clara e precisa sobre a questão posta nos autos, assentando-se em fundamentos suficientes para embasar a decisão.
+2. Tendo o Tribunal de origem firmado a compreensão no sentido de que não houve novação, rever tal entendimento demandaria a apreciação de cláusulas contratuais, bem como o reexame de matéria fático-probatória. Incidência das Súmulas 5 e 7/STJ.
+3. A caracterização de exigência de dupla garantia não importa em nulidade de ambas, devendo prevalecer a garantia originária.
+4. A inviabilidade de conhecimento do recurso especial pela alínea "a" do permissivo constitucional prejudica o exame do dissídio jurisprudencial.
+5. Agravo regimental improvido.
+(AgRg no Ag 853312/SP, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 18/12/2007, DJe 17/03/2008)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
