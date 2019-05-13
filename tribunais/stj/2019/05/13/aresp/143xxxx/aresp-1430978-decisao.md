@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e LUCIANA DOS SANTOS NUNES COUTO contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Plano de saúde. Legitimidade, e que em tese se aprecia, de pessoas jurídicas integrantes do mesmo grupo. Contratação com abrangência nacional e expressa alusão ao Sistema Nacional Unimed. Pretensão de cobertura e atendimento em hospital fora da rede credenciada da Unimed Belém/PA, situado na Capital de São Paulo, alegadamente integrante da respectiva rede da Central Nacional Unimed. Descabimento. Ausência de situação que se amolde ao enunciado da Súmula 99 deste Tribunal. Escolha livre por atendimento em hospital de ponta e expressamente excluído. Devido, porém, ressarcimento nos limites do que seria atendimento na rede credenciada. Sentença em parte revista. Recurso parcialmente provido" (e-STJ fl. 466).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 1.022 do Código de Processo Civil de 2015, ao fundamento de que o acórdão combatido incorreu em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios, e
+(ii) arts. 884 e 944 do Código Civil, 14, § 1º, I e II, e 20, § 1º, do Código de Defesa do Consumidor, 12, VI, e 35-C da Lei nº 9.656/1998, pois as despesas com o tratamento de saúde e os honorários médicos devem ser integralmente reembolsados, sob pena de enriquecimento ilícito do plano de saúde, porque houve falha na prestação do serviço e o atendimento foi feito em caráter de urgência/emergência.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+ Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+No que se refere ao reembolso das despesas médicas, o acórdão recorrido assim se pronunciou:
+"(..)
+Com efeito, desde a inicial o autor admitiu ter livremente procurado o Hospital Sírio Libanês (fls. 7, 4º parágrafo); há documento deste Hospital referindo recebimento do paciente por contato da família (fls. 40); o relatório médico da alta, a pedido, em Belém nada referiu sobre indicação, e emergencial, para atendimento no Sírio Libanês (fls. 37); este Hospital estava expressamente excluído (fls. 225/226) e, como se viu, outros credenciados havia, mesmo em São Paulo (fls. 258/259). Por isso, não há no caso subsunção aos termos da Súmula 99.
+Mas, em contrapartida, também não há razão para se negar qualquer ressarcimento ao autor, nem mesmo a previsão do artigo 12, VI, da Lei dos Planos de Saúde. Tem-se, realmente, hipótese de se evitar indevido proveito das rés se, afinal, não se discute que a moléstia do autor fosse coberta. Daí o ressarcimento nos limites do quanto seria pago para atendimento na rede, inclusive conforme os termos do artigo 16º do contrato. Tal importe se fixará em liquidação. E os juros incidirão da citação" (e-STJ fls. 471/472).
+Como se vê, o aresto afastou o reembolso integral, determinando a devolução do valor gasto nos limites do que teria sido pago se o atendimento fosse feito pela rede credenciada. Para tanto, levou em conta que o Hospital Sírio Libanês está expressamente excluído da cobertura do contrato firmado entre as partes e a escolha desse nosocômio não foi por indicação médica, mas por livre escolha dos recorrentes.
+Assim, a leitura atenta do acórdão permite concluir que os magistrados de origem decidiram em perfeita sintonia com a orientação jurisprudencial desta Corte Superior, como se vê no seguinte precedente:
+"AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL C/C RESSARCIMENTO DE DESPESAS MÉDICAS E COMPENSAÇÃO POR DANO MORAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚM. 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. PLANO DE SAÚDE. RECUSA INDEVIDA DE COBERTURA. ATENDIMENTO DE EMERGÊNCIA EM HOSPITAL NÃO CREDENCIADO. REEMBOLSO DEVIDO. REPETIÇÃO EM DOBRO DO INDÉBITO AFASTADA. DANO MORAL. VALOR. PROPORCIONALIDADE. JULGAMENTO: CPC/73.
+(..)
+2. O propósito recursal é dizer, primordialmente, sobre: (i) a obrigação de a recorrente reembolsar, em dobro, as despesas contraídas pela recorrida para tratamento de saúde de emergência em hospital não credenciado; e (ii) o valor arbitrado a título de compensação do dano moral.
+3. Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. A jurisprudência do STJ orienta que é devido o reembolso em situações excepcionais, tais como: inexistência de estabelecimento credenciado no local; paciente em situação de urgência ou emergência; e impossibilidade de utilização dos serviços próprios da operadora em razão de recusa injustificada.
+7. A obrigatória cobertura do atendimento em casos de urgência e emergência, como prevê o art. 35-C, I e II, da LPS, não implica, necessariamente, o seu custeamento integral pela operadora do plano de saúde, senão garante, salvo disposição em contrário, a restituição do que foi despendido pelo contratante, limitada, no mínimo, aos preços de serviços médicos e hospitalares praticados pelo respectivo produto, nos termos do art. 12, VI, daquela lei.
+8. No particular, a transferência da recorrida a hospital não credenciado, em outro estado, ainda que emergencial, implica-lhe o ônus financeiro de custear o pagamento das respectivas despesas, cabendo à operadora do plano de saúde o dever de reembolsar os valores nos limites do que foi estabelecido contratualmente.
+(..)
+11. Recurso especial conhecido em parte e, nessa extensão, parcialmente provido" (REsp 1.392.560/PE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 7/6/2018 - grifou-se).
+Incide, portanto, o entendimento cristalizado no enunciado nº 568 da Súmula do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, os honorários sucumbenciais devidos ao advogado da parte recorrida, fixados na origem em 10% (dez por cento), devem ser majorados para o patamar de 15% (quinze por cento) sobre o valor da condenação, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se. Intimem-se.
