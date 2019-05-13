@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 98147, de 15 de abril de 2019
+Assunto: Classificação de Mercadorias
+Código NCM: 9031.80.99
+Mercadoria: Dispositivo para verificação dimensional das peças laterais e central de para-choque de caminhão, projetado e montado exclusivamente para um molde específico, utilizado no processo de calibração da injetora a partir de simulação da montagem do para-choque, constituído de uma estrutura de tubos e perfis metálicos, apoiada por quatro rodízios, bases e postiços de apoio em alumínio, estojos em MDF contendo quatro calibradores Passa Não-passa, postiços, ferramentas auxiliares e um relógio comparador, medindo 2.780 x 1.040 x 1500 mm, pesando 585 kg.
+Dispositivos Legais: RGI 1 (textos da posição 90.31), RGI 6 (texto da subposição de 1o nível 9031.80) e RGC 1 (textos do item 9031.80.9 e do subitem 9031.80.99) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018, e alterações posteriores.
+[arquivo anexo: SC Cosit 98.147-2019.pdf]
