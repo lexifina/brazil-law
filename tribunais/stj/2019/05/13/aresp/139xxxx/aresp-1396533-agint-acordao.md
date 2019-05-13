@@ -1,0 +1,52 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAS. COMPROMISSO DE COMPRA E VENDA. ATO ILÍCITO CONFIGURADO. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, o Tribunal de origem, a partir do exame dos elementos de prova, afastou as alegações de falta de interesse de agir e de licitude da conduta, por entender que a parte recorrente teria deixado de cumprir a obrigação avençada de transferir para seu nome o imóvel em questão. Concluir de modo contrário implicaria reexame de matéria fática e interpretação do ajuste celebrado, o que é vedado em recurso especial.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: Trata-se de agravo interno (e-STJ fls. 467/476) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a agravante alega que "não se trata aqui de reexaminar a matéria fática colacionada aos autos, nem tampouco de reavaliar as provas documentais produzidas nos autos pela ora recorrente, mas tão somente de valorar as tais provas documentais produzidas em todas as instâncias inferiores suficientes e incontestes para elidir por completo o pleito do recorrido; uma vez que não pode ele pautar o direito invocado fundamentado em fato diverso do que foi estipulado pelas partes no "Compromisso de Compra e Venda"" (e-STJ fl. 473).
+Segundo argumenta, a falta de interesse de agir do recorrido ficou caracterizada "face ao pactuado no "Instrumento Particular de Compra e Venda", onde restou consignado que a escritura definitiva seria outorgada pelo recorrido quando "fosse pleiteada pela recorrente", ou seja, "nenhum prazo" foi fixado para tanto, preliminar suficiente para elidir o direito do recorrido; uma vez que o "contrato faz lei entre as partes", defeso impingir o cumprimento de obrigação baseado no "Instrumento Contratual" que não restou alí consignada" (e-STJ fl. 474).
+Reitera a alegação de ofensa aos arts. 187 e 188, I, do CC/2002, "o primeiro alusivo à ilicitude cometida pelo Município, verdadeira causadora dos alegados danos morais sofridos pelo recorrido; isto porque o débito pleiteado pelo Município já estava garantido pelo próprio imóvel, como exige a legislação tributária para viabilizar a interposição de "Embargos à Execução Fiscal", desta forma não poderia o Município ter levado a protesto a suposta dívida decorrente das taxas de IPTU", e o segundo em razão da "excludente de responsabilidade, uma vez que os atos praticados em legítima defesa ou no exercício regular de um direito , não são reputados ilícitos" (e-STJ fl. 474).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+O agravado apresentou contrarrazões requerendo o desprovimento do recurso, a aplicação da multa do art. 1.021, § 4º, do CPC/2015 e a condenação do agravante em multa por litigância de má-fé (e-STJ fls. 478/489).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAS. COMPROMISSO DE COMPRA E VENDA. ATO ILÍCITO CONFIGURADO. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, o Tribunal de origem, a partir do exame dos elementos de prova, afastou as alegações de falta de interesse de agir e de licitude da conduta, por entender que a parte recorrente teria deixado de cumprir a obrigação avençada de transferir para seu nome o imóvel em questão. Concluir de modo contrário implicaria reexame de matéria fática e interpretação do ajuste celebrado, o que é vedado em recurso especial.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 463/464):
+Trata-se de agravo nos próprios autos (art. 1.042 do CPC/2015) interposto contra decisão (e-STJ fls. 425/426) que inadmitiu o recurso especial em virtude da inexistência de violação dos arts. 267, VI, do CPC/1973 e 187 e 188 do CC/2002.
+O acórdão recorrido está assim ementado (e-STJ fl. 351):
+COMPROMISSO DE COMPRA E VENDA - TRANSFERÊNCIA DA PROPRIEDADE NÃO EFETUADA - DÉBITOS FISCAIS - PROTESTO E AJUIZAMENTO DE EXECUÇÃO FISCAL CONTRA O VENDEDOR - ATO ILÍCITO CONFIGURADO - REEMBOLSO DOS VALORES DE IPTU - DANO MORAL REDUZIDO - PRESCRIÇÃO AFASTADA - ASTREINTE MINORADA - GRATUIDADE PROCESSUAL CONCEDIDA - SENTENÇA REFORMADA EM PARTE - APELO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 363/365).
+Nas razões do recurso especial (e-STJ fls. 368/376), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(a) art. 267, VI, do CPC/1973, alegando falta de interesse de agir
+(b) arts. 187 e 188 do CC/2002, sustentando ausência do dever de indenizar.
+No agravo (e-STJ fls. 431/437), afirma a presença de todos os requisitos de admissibilidade do especial.
+A parte recorrida apresentou contraminuta (e-STJ fls. 448/452).
+É o relatório.
+Decido.
+Quanto ao interesse de agir, o TJSP assentou que (e-STJ fl. 352):
+Por exórdio, há interesse de agir da parte que vem em Juízo cobrar da outra o que avençaram no contrato; ou seja, combinado que a compradora transferiria para seu nome o imóvel em questão, e imitindo-se a Requerida na posse da coisa, deveria ela desde 1993 ter transferido a propriedade para seu nome, ou para terceiro, já que indicara ao vendedor que desejava alienar a coisa; por isso a outorga de mandato para que assim procedesse, evitando-se as restrições impostas ao Apelado.
+Rever tais conclusões demandaria nova incursão no conjunto probatório dos autos, providência vedada na instância especial, a teor da Súmula n. 7/STJ.
+O Tribunal de origem, à luz das provas dos autos, concluiu pela responsabilidade civil da parte recorrente e o seu dever de indenizar, nos seguintes termos (e-STJ fl. 353):
+O fato é que o Apelado quitou os valores de IPTU (fls. 41/68; 86/87 e 108/109) porque não poderia haver restrições em seu nome, em razão de sua atividade empresarial. Logo, ante a inquestionável negligência da Recorrente, deixando transcorrer mais de vinte anos sem que transferisse a propriedade do imóvel para seu nome, deve ser por ela reembolsado destas despesas; não se olvidando que a imissão na posse deflagrara a responsabilidade fiscal da compradora, e que pactuaram que tal obrigação seria dela.
+E também em razão desta mesma postura negligente causara danos ao Autor com a inserção de seu nome no rol da inadimplência, além de responder à Execução Fiscal, configurando, bem por isso, a responsabilidade da Apelante para a reparação dos prejuízos morais de aí advindos; não houve a prescrição, uma vez que as inscrições desabonadoras ocorreram no ano de 2013, data do aforamento da demanda.
+Assim, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula n. 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+No caso concreto, o Tribunal de origem examinou a prova dos autos e o contrato firmado entre as partes, para concluir que "há interesse de agir da parte que vem em Juízo cobrar da outra o que avençaram no contrato; ou seja, combinado que a compradora transferiria para seu nome o imóvel em questão, e imitindo-se a Requerida na posse da coisa, deveria ela desde 1993 ter transferido a propriedade para seu nome, ou para terceiro, já que indicara ao vendedor que desejava alienar a coisa; por isso a outorga de mandato para que assim procedesse, evitando-se as restrições impostas ao Apelado" (e-STJ fl. 352).
+Além disso, também com base no contexto fático-probatório dos autos e a partir do exame do ajuste, o Tribunal de origem reconheceu a responsabilidade da recorrente, estabelecendo que o recorrido, "ante a inquestionável negligência da Recorrente, deixando transcorrer mais de vinte anos sem que transferisse a propriedade do imóvel para seu nome, deve ser por ela reembolsado destas despesas; não se olvidando que a imissão na posse deflagrara a responsabilidade fiscal da compradora, e que pactuaram que tal obrigação seria dela". Salientou ainda que a recorrente "também em razão desta mesma postura negligente causara danos ao Autor com a inserção de seu nome no rol da inadimplência, além de responder à Execução Fiscal, configurando, bem por isso, a responsabilidade da Apelante para a reparação dos prejuízos morais de aí advindos" (e-STJ fl. 353).
+Entender de modo contrário demandaria nova análise do ajuste e dos demais elementos fáticos dos autos, inviável em recurso especial, ante o óbice das Súmulas n. 5 e 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015 e a sanção por litigância de má-fé porque não evidenciada, até o momento, conduta maliciosa ou temerária a justificar tal sanção.
+É como voto.
