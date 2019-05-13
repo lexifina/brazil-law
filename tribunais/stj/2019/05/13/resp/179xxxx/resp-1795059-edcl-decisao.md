@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por COMTINFER CONSTRUTORA E INCORPORADORA LTDA. contra a decisão que conheceu parcialmente do recurso especial e, nesta extensão, negou-lhe provimento (e-STJ fls. 969/972).
+A embargante afirma a existência de omissão no julgado no tocante ao fato de ter se considerado válido o adendo firmado entre as partes que prorrogou o prazo para a entrega do imóvel por mais 180 (cento e oitenta) dias, ou seja, em janeiro de 2014, e, ainda assim, fixar prazo distinto para a entrega (junho de 2013).
+Sustenta a inviabilidade de se afastar o aditivo livremente pactuado entre as partes, não havendo qualquer prova de que a parte embargada o assinou mediante coação.
+Apesar de devidamente intimada, a parte embargada não apresentou impugnação (e-STJ fl. 994).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Os aclaratórios merecem ser acolhidos apenas para esclarecimento.
+De acordo com a decisão embargada, a alteração do prazo para a entrega do imóvel na data em que requerida pela embargante encontra os óbices de que tratam as Súmulas nºs 5 e 7/STJ. Isso porque o tribunal de origem considerou que a previsão no aditivo de compensação no saldo devedor de multa de 2% (dois por cento) e 0,5% (meio por cento), por cada mês de atraso, calculados sobre o valor pago, importou em excessivo desequilíbrio à parte embargada.
+Eis a letra do acórdão na parte que interessa:
+"(..) Quanto ao adendo firmado, estendendo a carência por mais 180 dais, de um lado vale a constatação de que, realmente, se previu, como contrapartida a mais uma prorrogação do prazo de entrega da unidade, ademais já da carência original, a compensação por meio de desconto no saldo devedor de multa de 2% e mais 0,5% por cada mês subsequente ainda de atraso, mas, note-se, ambos os percentuais calculados sobre o valor pago pelos promissários, porém a menor parte do preço, porque a maior parte se daria justamente com o financiamento obtido ao final, dependente bem do término da construção, obtenção do habite-se e abertura de matrícula. Ou seja, já por aí se teria excessivo desequilíbrio ao consumidor, considerado o patamar comum de indenização por atraso na entrega da obra, à razão de 0,5% do valor do contrato" (e-STJ fl. 790).
+Como se vê, o entendimento acima sufragado depende, de fato, da revisão de provas e da reinterpretação de cláusula contratual.
+Registra-se que o tribunal local, em reforço de argumentação, caso considerada a validade do adendo, consignou que ainda assim não teria como seus efeitos serem produzidos em razão da embargante não ter demonstrado que a prorrogação do prazo de entrega foi ajustada em contrapartida do desconto da indenização se fazer no saldo devedor, conforme demonstra a leitura da seguinte passagem do voto condutor do acórdão:
+"(..) Mas, seja como for, posto admitida a validade do adendo, como esta Câmara já decidiu em precedente relativo ao mesmo empreendimento (Ap. civ. n. 1007962-79.2014.8.26.0224, rel. Des. Christine Santini, j. 11.08.2015), ponderou-se que a prorrogação se prendia justamente ao desconto da verba indenizatória a se fazer no saldo do preço, o que precisava ser demonstrado e, no caso, como no outro, não se demonstrou.
+Daí a fixação do prazo de entrega em junho de 2013, portanto considerada apenas a carência original. E assim definido o termo a quo para as consequências decorrentes do retardo da ré".
+Como se vê, por qualquer ângulo que se examine a questão, não há como afastar a conclusão da instância ordinária de que o adendo firmado entre as partes causou desequilíbrio contratual sem esbarrar nas Súmulas nºs 5 e 7/STJ.
+Ante o exposto, acolho os embargos de declaração sem efeitos infringentes, nos termos da fundamentação acima.
+Publique-se. Intimem-se.
