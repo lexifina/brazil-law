@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98164, de 15 de abril de 2019
+Assunto: Classificação de Mercadorias Código NCM: 9503.00.39 Mercadoria: Artigo para uso infantil, feito totalmente de chapas de papelão recortadas em formato de dinossauro contendo um assento, suportando até 40 kg, apresentado sem qualquer tipo de decoração para permitir que seja desenhado ou pintado livremente, denominado comercialmente "banco dinossauro ecoboard". Dispositivos Legais: RGI 1 c/c RGI 3 c) e RGC 1 da NCM constante da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016.
+[arquivo anexo: SC Cosit  98.164-2019.pdf]
