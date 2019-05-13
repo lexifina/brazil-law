@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra acórdão assim ementado:
+"AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO PESSOAL. PACTA SUNT SERVANDA. A tese concernente à imutabilidade dos contratos depois de firmados, em total obediência ao princípio da pacta sunt sen/anda, não merece acolhida. JUROS REMUNERATÓRIOS. LIMITAÇÃO. Prevalecem os
+juros contratados e/ou aplicados quando não verificada abusividade ou excessiva onerosidade, esta considerada a que supera a taxa média de mercado, uma vez que inexistente limitação constitucional dos juros, a partir da Emenda nº 40, e nem se admitindo a sua limitação com base na Lei de Usura. No caso concreto, entretanto, verificada abusividade, restam limitados os juros remuneratórios à taxa média de mercado vigente à época da contratação para operações da espécie. CAPITALIZAÇÃO. No contrato sub judice são aplicáveis as disposições da MP nº 1.963-17/2000, reeditada sob nº 2.170-36/2001, sendo possível a incidência da capitalização mensal, pois expressamente pactuada. DESCARACTERIZARÃO DA MORA. Evidenciada a cobrança abusiva relativamente a encargo relativo ao período da normalidade, resta configurada a hipótese de descaracterização da mora, consoante orientação emanada pelo Superior Tribunal de Justiça. INDEXADOR DA CORREÇÃO MONETÁRIA. A TR, porque instituída pela Lei n. 8.177/91, é índice oficial de correção monetária. CUMULAÇÃO DE JUROS REMUNERATÓRIOS E MORATÓRIOS. Ausente discussão a este respeito nos autos e não tendo o MM. Juízo de primeiro grau impedido a referida cumulação, carece a parte ré de interesse recursal, no ponto. REPETIÇÃO DE INDÉBITO. POSSIBILIDADE NA FORMA SIMPLES. A repetição ou compensação do indébito, na forma simples, independe de comprovação acerca do pagamento feito por erro, atento ao princípio que veda o enriquecimento sem causa do credor. SUCUMBÊNCIA. Embora o provimento parcial do segundo apelo, deve ser mantida a distribuição dos ônus da sucumbência, pois atende de maneira adequada ao decaimento de cada parte. NEGARAM PROVIMENTO AO PRIMEIRO APELO E DERAM PROVIMENTO, EM PARTE, AO SEGUNDO. UNÂNIME" (fl. 232, e-STJ).
+Os embargos declaratórios foram rejeitados (fl. 261, e-STJ).
+No recurso especial, o recorrente alega que houve violação dos arts. 535 do Código de Processo Civil de 1973, e 3º, 41 e 51 do Código de Defesa do Consumidor e do Decreto nº 22.626/1933. Sustenta, em suma, que a taxa de juros remuneratórios aplicada no contrato deve ser alterada.
+Não admitido o recurso na origem, vieram os autos conclusos a esta relatoria.
+Contraminuta às fls. 339-350 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+Inicialmente, quanto à apontada afronta ao art. 535 do CPC/1973, nota-se que o recorrente traz somente alegação genérica de negativa de prestação jurisdicional, não especificando qual a omissão do julgado impugnado e sua importância no desate da controvérsia.
+Assim, estando deficiente a fundamentação recursal, não há como conhecer da insurgência no tocante ao referido dispositivo legal, com base na Súmula nº 284/STF, aplicada por analogia.
+Ademais, no tocante aos juros aplicados ao caso concreto, não há reparo a fazer ao entendimento exarado na origem, haja vista estar em consonância com a orientação desta Corte.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO DE JUROS. MORA DO DEVEDOR. COMPENSAÇÃO DE HONORÁRIOS. QUESTÕES DECIDIDAS EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO NÃO PROVIDO.
+1. A decisão agravada está em conformidade com a jurisprudência consolidada desta Corte, firmada em sede de recursos especiais repetitivos (REsp 1.061.530/RS, REsp 973.827/RS e REsp 963.528/PR).
+2. A limitação dos juros remuneratórios somente se justifica quando verificada significativa discrepância entre a taxa média de mercado e aquela praticada pela instituição financeira, o que não é o caso dos autos. Admitida, por outro lado, a capitalização de juros, porquanto expressamente pactuada, afastando-se a descaracterização da mora do devedor, em razão da inexistência de encargo remuneratório abusivo.
+3. Na vigência do CPC/73, era permitida a compensação de honorários advocatícios 4. Agravo interno não provido"
+(AgInt no REsp 1.349.695/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/2/2019, DJe 15/3/2019).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO DE FINANCIAMENTO. JUROS REMUNERATÓRIOS. LIMITAÇÃO. OMISSÃO INEXISTENTE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, não subsiste a alegada ofensa ao art. 1.022 do CPC/2015, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição ou obscuridade.
+3. As instituições financeiras não se sujeitam à limitação dos juros remuneratórios que foi estipulada pela Lei de Usura (Decreto nº 22.626/1933), em consonância com a Súmula nº 596/STF, sendo também inaplicável o disposto no art. 591, c/c o art. 406, do Código Civil para esse fim, salvo nas hipóteses previstas em legislação específica. A redução dos juros dependerá de comprovação da onerosidade excessiva - capaz de colocar o consumidor em desvantagem exagerada - em cada caso concreto, tendo como parâmetro a taxa média de mercado para as operações equivalentes, de modo que a simples estipulação de juros remuneratórios superiores a 12% (doze por cento) ao ano, por si só, não indica abusividade, nos termos da Súmula nº 382/STJ. Precedente.
+4. Agravo interno não provido"
+(AgInt no AREsp 1.015.505/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/2/2019, DJe 21/2/2019).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
