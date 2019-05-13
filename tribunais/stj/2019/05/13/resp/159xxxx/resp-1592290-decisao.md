@@ -1,0 +1,55 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL contra acórdão prolatado, por unanimidade, pela 2ª Turma do Tribunal Regional Federal da 4ª Região, em julgamento de apelação e remessa oficial, assim ementado (fl. 379e):
+TRIBUTÁRIO. LEI Nº 9.964/2000. REFIS. EXCLUSÃO.
+Inexistindo prazo determinado, inviável se admitir como hipótese de exclusão do programa, o pagamento de prestação do parcelamento que foi calculada nos moldes previsto na legislação, por ser considerada de valor irrisório.
+Opostos embargos de declaração, foram rejeitados (fls. 401/404e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+I. Art. 535, II, do CPC - "O respeitável acórdão negou vigência ao art. 535, II, do CPC, ao deixar de analisar as omissões apontadas nos embargos declaratórios da União, em especial quanto às circunstâncias e fatos então aventados, em cotejo com a legislação enfocada" (fl. 412e); e
+II. Arts. 2º, § 4º, e 5º, II, da Lei nº 9.964/00, e 155 do CTN - "Logo, o REFIS constitui um programa de parcelamento de débitos fiscais e não um perdão de dívidas, razão porque se impõe ao contribuinte o adimplemento dos créditos tributários em parcelas aptas à amortização da dívida, não se podendo admitir como válidos pagamentos irrisórios" (fls. 418/419e).
+Com contrarrazões (fls. 442/452e), o recurso foi admitido (fl. 1592290 243e).
+O Ministério Público Federal manifestou-se, às fls. 473/477e, pelo desprovimento do Recurso Especial.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Não se pode conhecer a apontada violação ao art. 535 do Código de Processo Civil, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula n. 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AFASTAMENTO. AUSÊNCIA DE INÉRCIA DO CREDOR. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO NÃO COMPROVADO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+(AgRg no REsp 1.450.797/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/06/2014, DJe 11/06/2014).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. SÚMULA 284/STF. SERVIDOR PÚBLICO. PROFISSIONAL DA ÁREA DA SAÚDE. IMPOSSIBILIDADE DE ACUMULAÇÃO DE CARGOS. ACÓRDÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INCOMPATIBILIDADE DE HORÁRIOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ELEITA. SÚMULA 7/STJ. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC, a agravante não evidencia qualquer vício no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no AREsp 422.907/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 18/12/2013; AgRg no AREsp 75.356/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 21/10/2013.
+(AgRg no AREsp 318.883/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/06/2014, DJe 01/07/2014 - destaque meu).
+No que tange ao art. 155 do CTN, o qual é apenas citado, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, o que impede o conhecimento do recurso especial, incidindo, nesse ponto, o óbice da Súmula n. 284/STF.
+Outrossim, os argumentos da Recorrente são inidôneos a infirmar o fundamento adotado pela Corte de origem, porquanto ausente comando suficiente em tal dispositivo para alterar a mencionada conclusão, haja vista que disciplina relação jurídica diversa, o que confirma a aplicação do óbice sumular.
+Com efeito, considerando que a pretensão da Recorrente não é extraída dos artigos de lei federal apontados, revela-se incabível conhecer-se do recurso especial, incidindo, por analogia, a orientação contida na Súmula n. 284, do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUTORIZAÇÃO DE PESQUISA E LAVRA DE MINÉRIOS. PEDIDO PROTOCOLADO NO ÚLTIMO DIA DA LICENÇA ANTERIOR. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS CONSTANTES DOS AUTOS, SER DESARRAZOADO O INDEFERIMENTO DO REQUERIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ARTIGO 18, INCISO I, DO CÓDIGO DE MINERAÇÃO. DISPOSITIVO LEGAL QUE NÃO CONTEM COMANDO CAPAZ DE SUSTENTAR A TESE RECURSAL E INFIRMAR O JUÍZO FORMULADO PELO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+ ..
+2. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contem comando capaz de sustentar a tese recursal e infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, da orientação posta na Súmula 284/STF.
+3. Agravo regimental não provido.
+(AgRg no AREsp 385.170/GO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE. NÃO CONHECIMENTO DO ESPECIAL. SÚMULAS 282, 284, 356/STF E 7/STJ.
+ ..
+3. O fato de constar na Lei de Licitações a previsão de empreitada integral não infirma, de plano, os dizeres do acórdão no sentido de que não há empecilho à inclusão do fornecimento de imóvel. O conteúdo dos dispositivos mencionados no Especial não têm comando suficiente para alterar o acórdão. Incidência da Súmula 284/STF.
+4. Em relação ao índice de reajuste utilizado e à caracterização do ato ímprobo, o acórdão se amparou nas conclusões de laudo pericial e afastou o prejuízo ao Erário. Aplica-se a Súmula 7/STJ à espécie.
+Ressalto que o art. 11 da LIA nem sequer foi prequestionado, o que também sugere o óbice das Súmulas 282 e 356/STF.
+5. Agravo Regimental não provido.
+(AgRg no AREsp 229.402/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/03/2013, DJe 08/05/2013).
+Por outro lado, ao tratar da questão da exclusão da empresa do REFIS em virtude de critério arbitrado unicamente pela Receita Federal, o Tribunal de origem adotou fundamento constitucional suficiente para sustentar o acórdão recorrido, nos seguintes termos (fls. 373e):
+Enfim, a questão que se põe no exame do presente caso é de pura e simples legalidade. A parte autora, ao pagar as prestações mensais do parcelamento no percentual indicado pela lei sobre o faturamento está dentro da lei. Já a Receita Federal do Brasil (RFB), ao exigir que a parte autora pague as prestações sobre valor que ela mesma (a RFB) arbitrou, está fora da lei, ou seja, no terreno da arbitrariedade. Deve, pois, ser recordado à parte ré o que dispõe o inciso II do artigo 5º da Constituição Federal:
+II - Ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei.
+Apesar disso, a matéria não foi impugnada por meio de recurso extraordinário, circunstância que atrai o óbice da Súmula n. 126 desta Corte, segundo a qual "é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+Nesse sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. ANISTIA. REVISÃO. ESTABILIDADE EXTRAORDINÁRIA. DUPLA FUNDAMENTAÇÃO. RECURSO EXTRAORDINÁRIO NÃO INTERPOSTO. INCIDÊNCIA DA SÚMULA 126/STJ. ARTIGOS 54 DA LEI 9.784/99 E 143 da 8.112/90. SÚMULA 282/STF. REQUISITO TEMPORAL. AFERIÇÃO QUE DEMANDARIA O REEXAME DE PROVAS. SÚMULA 7/STJ. LEI 8.878/94. DETENTORA DE FUNÇÃO DE ASSESSORAMENTO SUPERIOR - FAS. INAPLICABILIDADE. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Em recurso especial não cabe invocar violação a norma constitucional.
+2. O Tribunal de origem, ao decidir a questão relativa à estabilidade extraordinária para ocupantes de função de confiança, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ.
+ ..
+(AgRg no AREsp 440.559/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/05/2014, DJe 16/05/2014).
+ADMINISTRATIVO E PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. NECESSIDADE DE APRESENTAÇÃO DE RECEITA MÉDICA ATUALIZADA EMITIDA POR MÉDICO VINCULADO AO SUS. ACÓRDÃO COM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. PROCESSUAL CIVIL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. Da simples leitura do acórdão recorrido observa-se que o Tribunal a quo decidiu a causa com base em argumentos constitucionais e infraconstitucionais. No entanto, o recorrente interpôs apenas o Recurso Especial, sem discutir a matéria constitucional, em Recurso Extraordinário, no excelso Supremo Tribunal Federal. Assim, aplica-se, na espécie, o teor da Súmula 126 deste colendo Superior Tribunal de Justiça, segundo a qual "é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+ ..
+(AgRg no REsp 1.421.283/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/05/2014, DJe 20/06/2014).
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
