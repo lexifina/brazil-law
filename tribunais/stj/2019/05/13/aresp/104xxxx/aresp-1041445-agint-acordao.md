@@ -1,0 +1,32 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 527 DO CPC/1973. PROVIMENTO DO AGRAVO DE INSTRUMENTO PELO TRIBUNAL DE ORIGEM. RELAÇÃO PROCESSUAL NÃO EFETIVADA. INEXISTÊNCIA DE CITAÇÃO. AUSÊNCIA DE OBRIGATORIEDADE DA INTIMAÇÃO DO AGRAVADO PARA OFERECER RESPOSTA AO RECURSO. AGRAVO INTERNO DO ENTE ESTATAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte Superior firmou entendimento segundo o qual não é obrigatória a intimação da parte contrária para apresentar contrarrazões ao Agravo de Instrumento que tenha por finalidade a concessão ou a revogação de medida liminar, na hipótese em que a relação processual ainda não foi efetivada pela citação (AgInt no RMS 49.705/PR, Rel. Min. GURGEL DE FARIA, DJe 6.2.2017; REsp. 1.583.092/RS, Rel. Min. HERMAN BENJAMIN, DJe 24.5.2016).
+2. Agravo interno do Ente Estatal a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pelo ESTADO DO ESPIRITO SANTO, contra decisão monocrática que negou provimento ao seu Agravo em Recurso Especial, nos termos da seguinte ementa:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 527 DO CPC/1973. PROVIMENTO DO AGRAVO DE INSTRUMENTO PELO TRIBUNAL DE ORIGEM. RELAÇÃO PROCESSUAL NÃO EFETIVADA. INEXISTÊNCIA DE CITAÇÃO. AUSÊNCIA DE OBRIGATORIEDADE DA INTIMAÇÃO DO AGRAVADO PARA OFERECER RESPOSTA AO RECURSO. AGRAVO EM RECURSO ESPECIAL DO ESTADO DO ESPÍRITO SANTO A QUE SE NEGA PROVIMENTO.
+2. Nas razões de seu Agravo Interno, a parte agravante, em suma, alega que a intimação do agravado para responder ao recurso é indispensável, sendo que, a ausência do ato nulifica o julgamento, em razão da quebra dos princípios do contraditório e do devido processo legal (fls. 191).
+3. Pugna, desse modo, pela reconsideração da decisão agravada ou para que o feito seja levado ao Órgão Colegiado, a fim de dar provimento ao seu Agravo Interno.
+4. É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 527 DO CPC/1973. PROVIMENTO DO AGRAVO DE INSTRUMENTO PELO TRIBUNAL DE ORIGEM. RELAÇÃO PROCESSUAL NÃO EFETIVADA. INEXISTÊNCIA DE CITAÇÃO. AUSÊNCIA DE OBRIGATORIEDADE DA INTIMAÇÃO DO AGRAVADO PARA OFERECER RESPOSTA AO RECURSO. AGRAVO INTERNO DO ENTE ESTATAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte Superior firmou entendimento segundo o qual não é obrigatória a intimação da parte contrária para apresentar contrarrazões ao Agravo de Instrumento que tenha por finalidade a concessão ou a revogação de medida liminar, na hipótese em que a relação processual ainda não foi efetivada pela citação (AgInt no RMS 49.705/PR, Rel. Min. GURGEL DE FARIA, DJe 6.2.2017; REsp. 1.583.092/RS, Rel. Min. HERMAN BENJAMIN, DJe 24.5.2016).
+2. Agravo interno do Ente Estatal a que se nega provimento.
+VOTO
+1. As alegações da parte agravante não são suficientes para a modificação da decisão agravada.
+2. Inicialmente, nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+3. No mais, o entendimento do acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, segundo a qual não é obrigatória a intimação da parte contrária para apresentar contrarrazões ao Agravo de Instrumento que tenha por finalidade a concessão ou a revogação de medida liminar, na hipótese em que a relação processual ainda não foi efetivada pela citação. Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ATO ATACADO: DECISÃO JUDICIAL. CONTRARRAZÕES. PRÉVIA INTIMAÇÃO. AUSÊNCIA. RELAÇÃO PROCESSUAL AINDA NÃO EFETIVADA. JULGAMENTO. POSSIBILIDADE.
+1. A impetração de writ contra decisão judicial é admitida somente nos casos de manifesta ilegalidade ou abuso de poder.
+2. Em tese, a ausência de oportunização do contraditório é causa de nulidade absoluta do julgado, o qual, porque violador de garantia constitucional, revela teratologia suficiente a autorizar a impetração do mandado de segurança.
+3. Hipótese em que, não efetivada a relação processual pela citação, a ausência de intimação da parte ex adversa para apresentar resposta ao agravo de instrumento não resulta em violação dos princípios do contraditório e da ampla defesa.
+4. Agravo interno não provido (AgInt no RMS 49.705/PR, Rel. Min. GURGEL DE FARIA, DJe 6.2.2017).
+
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PEDIDO LIMINAR. DESNECESSIDADE DE INTIMAÇÃO DA PARTE CONTRÁRIA ENQUANTO NÃO ANGULARIZADA A RELAÇÃO PROCESSUAL. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DO COTEJO ANALÍTICO.
+1. A apontada divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal.
+2. Conforme salientou o Tribunal de origem, não existe obrigatoriedade de intimação da parte agravada para apresentar contrarrazões, quando o Agravo de Instrumento tem por escopo a concessão ou a revogação de medida liminar concedida em Ação de Mandado de Segurança, porquanto a relação processual ainda não foi formada. Precedentes: AgRg na MC 16.996/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 1º/12/2010 e REsp 1046084/SP, Rel. Ministra Denise Arruda, Primeira Turma, DJe 5/3/2010.
+3. Recurso Especial não provido (REsp. 1.583.092/RS, Rel. Min. HERMAN BENJAMIN, DJe 24.5.2016).
+4. Ante o exposto, nega-se provimento ao Agravo Interno do Ente Estatal. É o voto.
