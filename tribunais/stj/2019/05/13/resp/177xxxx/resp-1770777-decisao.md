@@ -1,0 +1,83 @@
+EMENTA
+CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO CPC/73. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA DA OBRA. ART. 393 DO CC/03. CASO FORTUITO E/OU FORÇA MAIOR. MATÉRIA NÃO DEBATIDA NA INSTÂNCIA A QUO. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. LUCROS CESSANTES. TERMO FINAL DA MORA. ENTREGA DAS CHAVES. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. LUCROS CESSANTES. MORA CONFIGURADA. PRESUNÇÃO DE PREJUÍZO. PRECEDENTES. COMISSÃO DE CORRETAGEM E TAXA SATI. RESTITUIÇÃO. LEGITIMIDADE. OBRIGAÇÃO DE FAZER RECONHECIDA COM FASE NOS FATOS DA CAUSA. REFORMA. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+[NOME] e MARIA [NOME] (LUIZ E MARIA) ajuizaram ação de obrigação de fazer cumulada com indenização por danos morais e materiais contra GOLD ACRE EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA (GOLD ACRE).
+Em primeiro grau, o feito foi extinto, sem resolução do mérito (art. 267, I, do CPC/73), sendo os autores condenados ao pagamento das despesas processuais e honorários advocatícios fixado em R$ 1.000,00 (um mil reais).
+A Corte bandeirante, após anular de ofício a sentença, prejudicado o apelo, julgou parcialmente procedente os pedidos deduzidos na inicial para condenar a ré (1) ao pagamento de indenização no montante de 0,5% do valor do imóvel, conforme constante no compromisso de compra e venda, atualizado por cada mês de atraso; (2) à restituição dos valores desembolsados a título de assessoria e de intermediação; e, (3) entregar aos autores o veículo prometido ou valor equivalente de automóvel nas condições oferecidas à época.
+O aludido acórdão foi ementado nos seguintes termos:
+COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. Ação de obrigação de fazer cumulado com de indenização. Sentença que extinguiu o feito sem julgamento do mérito em razão da inépcia da inicial. Nulidade da sentença reconhecida. Possibilidade de julgamento da causa. Aplicação do artigo 515, § 3º do Código de Processo Civil. Interesse processual verificado. Atraso a ser apurado com a apreciação do mérito da causa. Ilegitimidade passiva das corrés quanto ao pedido de restituição da comissão de corretagem que deve z ser afastada. Discussão sobre a responsabilidade de seu pagamento. Inexistência de previsão expressa no contrato sobre a responsabilidade do adquirente. Taxas de assessoria imobiliária (SATI). Não comprovação do serviço prestado. Ausência de informação ao consumidor. Atraso verificado. Validade da cláusula de tolerância, mas abusiva a contagem em dias úteis porque ausente previsão no o quadro resumo ou em destaque no contrato. Lucros cessantes devidos. Danos morais. Inocorrência. Sentença anulada. Parcial procedência dos pedidos e o reconhecimento da sucumbência recíproca. Recurso prejudicado (e-STJ, fl. 415).
+Os embargos de declaração dos autores foram providos, a fim de sanar omissão quando aos lucros cessantes e o seu termo inicial, e parcialmente providos os da ré (e-STJ, fls. 449/452).
+Os segundos embargos opostos pelos autores, foram rejeitados (e-STJ, fls. 459/462).
+No recurso especial, interposto com fundamento no art. 1054, III, a e c, da Constituição Federal, GOLD ACRE alegou, a par de dissídio jurisprudencial, violação dos arts. 206, § 3º, IV, 389, 393, 402, 403, 416, 421,482, 733 do Código Civil, e 3º e 461, § 1º, do CPC/73.
+Sustentou, em suma, (1) a ocorrência de força maior como excludente de ilicitude; (2) o termo inicial da mora é a data de expedição do habite-se do empreendimento; (3) ausência de configuração dos lucros cessantes; (4) a ilegitimidade para restituição da comissão de corretagem e da taxa SATI; e, (5) a obrigação de fazer, consubstanciada na entrega de veículo, é obrigação impossível.
+Após apresentadas as contrarrazões, o recurso foi admitido na origem (e-STJ, fls. 581/590 e 742/744).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+(1) Da violação a dispositivo de lei federal
+A matéria contida no art. 393 do CC/02 - que trata da matéria referida ao caso fortuito e força maior -, tido por ofendido, não foi enfrentada pelo Tribunal de origem nem mesmo depois da oposição dos embargos de declaração.
+Assim, com base no que dispõe a Súmula nº 211 do STJ, o recurso especial não poderia ter sido analisado neste Tribunal Superior: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Cumpre ainda destacar que caberia à parte, nas razões do seu especial, alegar a violação do art. 535 do CPC/73, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+(2) Do termo final da mora (arts. 421, 482 e 884 do CC/02)
+A Corte de origem, no julgamento dos embargos de declaração, reconheceu que o termo final da mora é a data da efetiva entrega das chaves.
+A esse respeito, confira-se:
+Considerando que o prazo para que a ré entregasse a unidade se deu em novembro de 2011, entende-se que a partir de 01/12/2012 a indenização por lucros cessantes é devida, considerando esse o termo inicial para incidência do percentual de 0,5% por mês de atraso.
+Com relação ao termo final, ao contrário do que pretende a ré, não prevalece que esse se dá com a expedição do habite-se, que se trata de mera autorização administrativa. Desse modo, o termo final para fins de incidência da indenização por lucros cessantes deve ser fixado com fundamento na efetiva entrega da unidade aos adquirentes, que se dá com o recebimento das chaves (e-STJ, fls. 451, sem destaque no original).
+Assim, tendo sido reconhecido pela Corte local que o termo final da mora se daria com a efetiva entrega das chaves ao compromissário comprador, impossível rechaçar tais fundamentos sem adentrar no reexame dos fatos da causa, fazendo incidir, no ponto, o óbice contido nas Súmulas nº 5 e 7 desta Corte.
+Nesse sentido, veja-se o julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO INJUSTIFICADO NA ENTREGA DO IMÓVEL. 1. LUCROS CESSANTES. POSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ. 2. INEXISTÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. CONCLUSÃO FIRMADA COM BASE NA APRECIAÇÃO FÁTICO-PROBATÓRIA E DE CLÁUSULAS CONTRATUAIS. 3. ABUSIVIDADE DA CLÁUSULA DE TOLERÂNCIA E PRAZO FINAL DA MORA. APLICAÇÃO DO CDC AO CASO. REVISÃO. SÚMULAS 5 E 7/STJ. 4. AGRAVO IMPROVIDO.
+ ..
+2. Afastada a ocorrência de caso fortuito ou força maior e tendo concluído o Tribunal de origem pela mora contratual da promitente vendedora, com base no exame do contexto fático-probatório dos autos, rever tal premissa atrai a incidência das Súmulas n. 5 e 7 desta Corte.
+3. Reconhecida, da mesma forma, pela Corte local a abusividade da cláusula de tolerância, tendo como base o fato de que a relação existente entre a promitente vendedora e o promitente comprador se qualifica como de consumo, com a aplicação das regras do Código de Defesa do Consumidor, e que o termo final da mora se daria com a efetiva entrega das chaves ao compromissário comprador, impossível o acolhimento da alegação no sentido da validade da referida cláusula, ou mesmo do argumento de que o final da obrigação se daria com o habite-se sem incorrer nos já citados óbices.
+4. Agravo interno improvido.
+(AgInt no REsp 1661238/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 27/6/2017, DJe 2/8/2017).
+Desse modo, constatada a mora da recorrente, não há falar em enriquecimento sem causa da parte autora.
+(3) Dos lucros cessantes (arts. 389, 402 e 403 do CC/02)
+No que tange à condenação da recorrente ao pagamento de danos materiais (lucros cessantes), a Corte de origem reconheceu que houve atraso injustificado na entrega da obra, sendo devida a reparação pelo inadimplemento contratual, nos termos da fundamentação abaixo:
+Com efeito, ainda que se considere válida a cláusula de tolerância, persiste a mora por parte da ré, recaindo o prazo limite em novembro de 2011.
+Entretanto, mesmo com o adimplemento das parcelas devidas, bem como contratação do necessário financiamento bancário, ultrapassado o prazo de tolerância, não houve a entrega do imóvel.
+Com efeito, o descumprimento do contratado pela vendedora dá suporte ao dever de indenizar, pois antes de assumir a obrigação de entrega do imóvel, ela deveria ter efetuado o prévio planejamento das obras.
+Por certo, tenso sido prometida a conclusão da obra ao final do prazo determinado na avença, e não tendo sido cumprida a obrigação, superado inclusive, o prazo de tolerância, de rigor que a apelante responda pelos efeitos consequentes de sua mora.
+ .. .
+Os lucros cessantes, forma de recomposição patrimonial, consubstanciam-se no lucro frustrado, aquele provável, que era de se esperar, porque decorrente do curso normal das coisas. No caso concreto, o atraso na entrega do imóvel repercutiu negativamente no patrimônio dos autores, obstando-os de auferir rendimentos que legitimamente poderiam esperar.
+Não se entende que os lucros cessantes possam advir de situação hipotética, mas tratando-se de imóvel, normal seria a fruição do bem, seja cara fins de moradia, seja para gerar rendimentos por meio de locação (e-STJ, fls. 423).
+Tal entendimento se harmoniza à jurisprudência dominante desta Corte, no sentido de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, como é o caso dos autos, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente comprador.
+A propósito, confiram-se o precedente:
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. CURTO PERÍODO. MERO INADIMPLEMENTO CONTRATUAL. DANO MORAL AFASTADO. ENTREGA DE IMÓVEL EM CONFORMAÇÃO DISTINTA ÀQUELA ADQUIRIDA. DANO MORAL MANTIDO. LUCROS CESSANTES. PRESUNÇÃO.
+CABIMENTO.
+ .. .
+6. A ausência de entrega do imóvel na data acordada em contrato gera a presunção relativa da existência de danos materiais na modalidade lucros cessantes. Precedentes.
+7. Recurso especial conhecido e não provido.
+(REsp 1634751/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 14/02/2017, DJe 16/2/2017).
+Com igual entendimento, confiram-se os julgados: AgRg no AREsp 525.614/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta turma, DJe 25/8/2014, Resp 1.355.554/RJ, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 4/2/2013
+Aplicável, portanto, a Súmula nº 568 do STJ.
+(4) Da apontada ilegitimidade para restituição da comissão de corretagem e da taxa SATI.
+A Corte local afastou a apontada ilegitimidade passiva da recorrente nos termos da fundamentação abaixo:
+Quanto à alegação de que ilegítima para figurar no polo passivo quanto ao pedido de restituição da comissão de corretagem, sem razão a ré.
+Vale dizer que não se discute ser devido ou não o pagamento ao corretor ou empresa que efetivamente prestou o serviço. A questão versa sobre a quem recai a responsabilidade de arcar com o pagamento pelo referido serviço.
+Desse modo, não há falar em ilegitimidade passiva da ré, eis que, se aferida a sua responsabilidade para o pagamento do valor discutido, será ela a responsável pelo ressarcimento aos autores (e-STJ, fl. 419, sem destaque no original)
+Afastar o entendimento acima, encontra óbice no enunciado da Súmula nº 7 do STJ.
+(5) Da obrigação de fazer
+GOLD ACRE alegou que a obrigação de fazer, consubstanciada na entrega de veículo, é obrigação impossível.
+Quanto ao tema, o acórdão recorrido ressaltou que:
+O Código de Defesa do Consumidor é claro ao dispor, em seu Artigo 30 que toda informação ou publicidade, suficientemente precisa, veiculada por qualquer forma ou meio de comunicação com relação a produtos e serviços oferecidos ou apresentados, obriga o fornecedor que a fizer veicular ou dela se utilizar e integra o contrato que vier a ser celebrado.
+O documento acostado às fls. 58/59 dispõe de forma expressa o seguinte: " Os primeiros 150 clientes que adquirirem suas unidades ganham um carro zero km. Não é sorteio! Os 150 primeiros já têm um carro garantido!"
+Entretanto, apesar de terem sido os autores uns dos 150 primeiros a firmarem o compromisso de compra e venda da unidade, tiveram de aderir a regulamento que previu, dentre as condições para ganhar o veículo, a necessidade de estar rigorosamente em dia com todas as prestações, não podendo ser atrasado o pagamento de qualquer das prestações (fl. 107).
+Ora, entende-se que é razoável impor o adimplemento das prestações como requisito para ganhar o veículo, todavia, a impossibilidade de qualquer atraso das parcelas se mostra abusiva, vez que iguala casos de pequenos atrasos a de inadimplemento total.
+Além disso, considerando que o envio dos boletos era incumbência da ré, e aventada pelos adquirentes a hipótese de que o descumprimento do regulamento se deu pelo não envio oportuno do boleto para pagamento de uma prestações no valor de R$ 100,00, possível aferir a abusividade por ser reservado à ré o poder de controlar o cumprimento do regulamento por parte dos "ganhadores dos veículos".
+Na realidade, se houvesse previsão no sentido de que, se um dos 150 primeiros adquirentes descumprissem os requisitos do regulamento, o adquirente seguinte, que cumprisse todas as exigências, fizesse jus aos termos da promoção, não haveria que se falar em puro arbítrio da vendedora. Todavia, podendo a ré deixar de enviar os boletos, seria possível se aventar a hipótese até de não ter que entregar carro algum.
+E nesse contexto, considerando-se diabólica a produção de prova pelos autores no sentido de que não receberam o boleto e à luz do Código de Defesa do Consumidor, que permite a inversão do ônus da prova em casos que houver verossimilhança das alegações, entende-se que plausível a insurgência dos autores, sendo-lhes devido o carro prometido ou quantia equivalente (e-STJ, fls. 426/427)
+Como visto das razões acima, a Corte local reconheceu a obrigação da recorrente em entregar o bem (automóvel) prometido em propaganda feita a fim de atrair os consumidores, com base nas circunstâncias fáticas da causa, de modo que alterar o entendimento ali adotado encontra impedimento no enunciado das Súmula nº 5 e 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMPRA E VENDA DE IMÓVEL. 1. PRESCRIÇÃO. NÃO CARACTERIZADA. REVISÃO. SÚMULAS 5 E 7/STJ. 2. PRÉ-NEGÓCIO. VINCULAÇÃO COM O FORNECEDOR.
+PROPAGANDA ENGANOSA NÃO CARACTERIZADA. SÚMULAS 5 E 7 DO STJ. 3. DIVERGÊNCIA PREJUDICADA. 4. AGRAVO IMPROVIDO.
+1. A alteração do entendimento adotado pela Corte de origem, que afastou a ocorrência de prescrição considerando que não houve comportamento desidioso da parte autora e concluiu que não foi constatada a ocorrência de propaganda enganosa, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto nos enunciados n. 5 e 7 da Súmula deste Tribunal Superior.
+2. Se o Tribunal local concluiu com base no conjunto fático-probatório, impossível se torna o confronto entre o paradigma e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fática própria de cada julgamento, o que não é possível de ser feito nesta via excepcional, por força da Súmula 7 desta Corte.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.036.053/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 27/4/2017, DJe 15/5/2017).
+(6) Do dissídio jurisprudencial
+A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c, do permissivo constitucional. Precedente: AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO (Desembargador Convocado do TJ/BA), DJe 30/6/2010.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
