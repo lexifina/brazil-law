@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado à pena de 5 (cinco) anos e 3 (três) meses de reclusão, em regime inicialmente fechado, e ao pagamento de 12 (doze) dias-multa, pela prática do delito tipificado no art. 157, caput, do Código Penal, tendo em vista que subtraiu, para si, mediante grave ameaça, uma bolsa contendo a importância de R$ 1.200,00, um telefone celular, entre outros objetos, de propriedade da vítima [NOME] (e-STJ fls. 20/22).
+Interposta apelação, os desembargadores da Sétima Câmara de Direito Criminal do Tribunal de Justiça negaram provimento ao recurso defensivo (e-STJ fls. 32/41).
+No Superior Tribunal de Justiça, a Defensoria Pública aponta constrangimento ilegal decorrente da não compensação integral da agravante da reincidência com a atenuante da confissão espontânea.
+Sustenta que, apesar de o acusado ter confessado a prática delitiva, tendo a confissão sido utilizada na fundamentação da sentença condenatória, a atenuante não foi integralmente compensada com a agravante, apesar de serem igualmente preponderantes, conforme o disposto no art. 67 do Código Penal.
+Dessa forma, requer, liminarmente e no mérito, sejam integralmente compensadas atenuante e agravante (e-STJ fls. 1/16).
+O pedido liminar foi indeferido (e-STJ fl. 46).
+Os autos foram encaminhados ao Ministério Público Federal, que se manifestou pela denegação da ordem (e-STJ fls. 50/53).
+É, em síntese, o relatório.
+Objetiva a defesa, na presente impetração, a compensação integral da agravante da reincidência com a atenuante da confissão sob o argumento de que elas são igualmente preponderantes.
+Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Na espécie, o Juízo sentenciante assim realizou o cálculo dosimétrico (e-STJ fl. 22):
+Na fixação da pena, atento ao que dispõe o artigo 59 do Código Penal, deve a pena-base do roubo ser fixada no mínimo legal, eis que o que consta de sua folha pregressa será analisado na próxima fase, com sanção de quatro anos de reclusão e dez dias-multa.
+Na segunda fase de fixação de sanção, deveria ser a pena aumentada de um ano e seis meses, diante da dupla reincidência (crime da lei de armas e roubo), uma delas específica. Ocorre que compenso parcialmente, de três meses, o aumento referido, preponderante, com a atenuante da confissão, restando um ano e três meses da exasperação, perfazendo pena de cinco anos e três meses de reclusão e doze dias multa. (Grifei.)
+Tal decisão que foi mantida pelo Tribunal de Justiça nos seguintes termos (e-STJ fls. 38/40):
+A pena não comporta reparo.
+A pena base foi mantida no patamar mínimo e, na segunda fase, o réu foi beneficiado com a compensação parcial entre a reincidência e a atenuante da confissão espontânea.
+O réu é duplamente reincidente, ostentando condenação definitiva pela prática de idêntico crime e também por porte ilegal de arma  ..
+Ainda, nos termos do que dispõe o art. 67 do Código Penal, não seria caso de compensação, ainda que parcial, já que a circunstância agravante da reincidência prepondera sobre todas as atenuantes, inclusive sobre a confissão espontânea  ..
+Assim, considerando-se que este Relator adota o entendimento de que, em se tratando de dupla reincidência, o aumento deveria ser de 1/3 (um terço), sendo que, no caso em apreço, uma delas é inclusive específica, o que ensejaria aumento maior, e que não era caso de compensação entre ela e a atenuante da confissão espontânea, o acusado restou beneficiado, pelo que fica mantida a pena aplicada. (Grifei.)
+Na hipótese, as decisões antecedentes não se encontram em consonância com o entendimento jurisprudencial firmado por esta Corte, já que tais circunstâncias são consideradas igualmente preponderantes.
+Nesse sentido:
+HABEAS CORPUS. PENAL. ROUBO CIRCUNSTANCIADO. COMPENSAÇÃO DA AGRAVANTE DA REINCIDÊNCIA ESPECÍFICA COM A ATENUANTE DA CONFISSÃO ESPONTÂNEA. POSSIBILIDADE. PENA DEFINITIVA SUPERIOR A 4 (QUATRO) ANOS. RÉU REINCIDENTE. REGIME INICIAL FECHADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DE HABEAS CORPUS CONCEDIDA EM PARTE.
+1. Segundo orientação pacificada no Superior Tribunal de Justiça, firmada no julgamento do REsp n.º 1.341.370/MT, julgado sob o rito dos recursos repetitivos, a atenuante da confissão espontânea e a agravante da reincidência devem ser compensadas.
+2. Esta Corte fixou o entendimento de que, ainda que o Acusado seja reincidente específico, é possível a compensação integral da agravante da reincidência com a atenuante da confissão espontânea.
+ ..
+4. Ordem de habeas corpus parcialmente concedida para, reformando o acórdão impugnado, compensar a atenuante da confissão espontânea com a agravante da reincidência e, consequentemente, reduzir a reprimenda do Paciente para 5 (cinco) anos e 4 (quatro) meses de reclusão e 13 (treze) dias-multa, mantido o regime fechado para o inicial cumprimento da pena (HC 461.033/DF, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/11/2018, DJe 23/11/2018).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL.  .. . REINCIDÊNCIA. CONFISSÃO. COMPENSAÇÃO. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A questão atinente à compensação entre a reincidência e a confissão espontânea foi pacificada no julgamento dos EREsp n. 1.154.752/RS e do Recurso Especial Representativo de Controvérsia n. 1.341.370/MT. No primeiro, julgado em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal fixou o entendimento de que, observadas as peculiaridades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal".
+2. A Terceira Seção desta Corte Superior reafirmou seu posicionamento, ao julgar o HC n. 365.963/SP (DJe 23/11/2017) e admitiu a possibilidade de compensação entre a reincidência específica e a confissão.
+ ..
+4. Agravo regimental não provido (AgRg no REsp 1475884/RO, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 02/08/2018, DJe 09/08/2018).
+No entanto, há que se ressaltar que, no caso de multirreincidência, não cabe a compensação integral, senão vejamos:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  DOSIMETRIA DA PENA. ATENUANTE DA CONFISSÃO. AGRAVANTE DA MULTIRREINCIDÊNCIA. COMPENSAÇÃO PARCIAL.
+1. A jurisprudência desta Corte, no julgamento do EREsp n. 1.154.752/RS, apreciado sob o rito dos recursos repetitivos, em 23/5/2012, pacificou o entendimento de que a agravante da reincidência deve ser compensada com a atenuante da confissão espontânea, porquanto ambas envolvem a personalidade do agente, sendo, por consequência, igualmente preponderantes. Tal entendimento sofre alteração quando reconhecida a situação de réu multirreincidente, hipóteses nas quais, como regra, não será devida a compensação integral entre a confissão e a reincidência.
+2. Tratando-se de réu multirreincidente, cabível a compensação parcial da atenuante da confissão espontânea com a agravante da reincidência (AgRg no AREsp n. 713.657/DF, Ministro Nefi Cordeiro, Sexta Turma, DJe 23/4/2018).
+2. Agravo regimental improvido (AgRg no HC 464.632/SC, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/11/2018, DJe 12/12/2018).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  DOSIMETRIA. CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA. COMPENSAÇÃO INTEGRAL. IMPOSSIBILIDADE. MULTIRREINCIDÊNCIA. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte, no julgamento do EREsp n. 1.154.752/RS, apreciado sob o rito dos recursos repetitivos, em 23/5/2012, pacificou o entendimento de que a agravante da reincidência deve ser compensada com a atenuante da confissão espontânea, porquanto ambas envolvem a personalidade do agente, sendo, por consequência, igualmente preponderantes.
+2. Tal entendimento sofre alteração quando reconhecida a situação de réu multirreincidente, hipótese na qual, como regra, não será devida a compensação integral entre a confissão e a reincidência.
+3. Agravo regimental improvido (AgRg no HC 473.486/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/12/2018, DJe 19/12/2018).
+Passo, portanto, à readequação da reprimenda, mantidos os parâmetros adotados na origem, a fim de que seja considerada a igualdade de preponderância no cálculo da reprimenda, apesar da inviabilidade da compensação integral.
+Na primeira fase, mantenho a pena-base no mínimo legal - 4 anos de reclusão e 10 dias-multa.
+Na segunda etapa, diante da dupla reincidência do réu, as instâncias de origem realizaram a compensação em 3 meses, de um total de 1 ano e 6 meses de reclusão; entretanto, diante da igualdade de preponderância entre agravante e atenuante, as compenso em 9 meses, o que perfaz 4 anos e 9 meses de reclusão, mais 10 dias-multa.
+Na fase derradeira, ausentes causas de aumento e de diminuição, mantenho a sanção definitiva em 4 anos e 9 meses de reclusão, mais pagamento de 10 dias-multa.
+Ante o exposto, concedo a ordem de habeas corpus a fim de reconhecer a igualdade de preponderância entre a agravante da reincidência e a atenuante da confissão espontânea, ajustando a pena definitiva para 4 (quatro) anos e 9 (nove) meses de reclusão, além de 10 (dez) dias-multa, mantidos os demais termos do acórdão recorrido.
+Publique-se. Intimem-se.
