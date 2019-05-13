@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que é suscitante o JUÍZO DA 13ª VARA DO TRABALHO DE CURITIBA - PR, tendo como suscitado o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE CURITIBA - PR.
+Originariamente, [NOME] ajuizou na Justiça comum estadual ação de revisão de complementação de aposentadoria contra a COPEL DISTRIBUIÇÃO S.A e a FUNDAÇÃO COPEL DE PREVIDÊNCIA E ASSISTÊNCIA SOCIAL, defendendo que a complementação deve corresponder à soma das parcelas que constituem a remuneração mensal, quais sejam
+"(..) os salários, as horas extras, o adicional por tempo de serviço, as horas de sobreaviso, as diferenças decorrentes da dupla função, o adicional noturno simples e extra, o auxílio alimentação e os respectivos reflexos, bem como outras parcelas de cunho salarial, como o AC-DRT-192/3/84, que, igualmente, estão sujeitas ao desconto para a Previdência Social" (fl. 9 e-STJ - grifou-se).
+O Juízo suscitado declinou da competência para a Justiça trabalhista com base nos seguintes fundamentos:
+"Primeiramente, tem-se que, a competência em razão da matéria é determinada em decorrência da natureza da própria demanda, conforme a própria narrativa exordial e seus requerimentos. Em outras palavras, a competência é firmada em conformidade com os pedidos e as causas de pedir.
+Como antes exposto, a parte autora postula que os valores recebidos por ela do empregador a título de auxílio-alimentação sejam considerados como salário-de-contribuição e, por conseguinte, sejam considerados no cálculo do salário-de-benefício e RMI. Observe, ainda, que a condenação do empregador ao pagamento à Fundação dos reflexos provenientes do reconhecimento da natureza salarial do auxílio, inclusive, é um pedido expresso na peça inaugural:
+"A condenação da segunda ré para pagar ã primeira ré a contribuição que lhe cabe por força do Plano Complementar de Benefícios Previdenciários, bem como da parte autora, a fim de que a esta possa cumprir com a obrigação de suplementar os benefícios previdenciários da autora, "(cf. mov. 1.1 - fl. 11)
+Nesta toada, o que se verifica, em verdade, é que não se trata, tão-só, de um pedido de complementação de aposentadoria, mas também versa os pedidos autorias quanto a uma obrigação própria do empregador e não de entidade de previdência privada.
+Nesta toada, ao se analisar se há ou não a necessidade de integração, no cálculo da RMI, da verba salarial em voga, necessariamente se está a discutir:
+a)  se o auxílio-alimentação possui natureza salarial;
+b)  a obrigação do empregador de promover o recolhimento à Fundação dos reflexos das diferenças salariais decorrentes do reconhecimento da natureza salarial do auxílio-alimentação.
+Deste modo, a competência é da justiça especializada, nos termos do art. 114 da Constituição Federal, o qual estabelece que "compete a Justiça do Trabalho processar e julgar as ações da relação de trabalho (..)", como na espécie.
+(..)
+Registro, para que não haja dúvidas, que a hipótese versada nos autos não se coaduna com o entendimento sedimentado pelo Supremo Tribunal Federal, no julgamento dos recursos extraordinários nº 586453 e nº 583050, de que a Justiça Comum é a competente para apreciar e julgar lide entre beneficiário e entidade fechada de previdência complementar, na medida em que a competência da Justiça Comum se restringe à hipótese de complementação de aposentadoria vinculada a entidade de previdência privada, e nestes autos se postula, também, a condenação do empregador ao repasse dos reflexos provenientes do reconhecimento da natureza salarial, em especial, do auxílio-alimentação" (fls. 455/456 e-STJ).
+O Juízo laboral, por sua vez, suscitou o presente conflito sob o argumento de que, em decisão com repercussão geral prolatada em 20/2/2013 no RE nº 583.453, "(..) o plenário do C. STF estabeleceu a competência da Justiça Comum para julgar as demandas que versem sobre pedidos referentes à complementação de aposentadoria decorrente de planos mantidos por entidades de previdência privada".
+Ponderou, ainda, que
+"(..) considerando que a decisão prolatada pelo C. STF produz efeitos, ainda que haja relação erga omnes direta com o contrato de trabalho havido entre as partes, com fulcro no art. 485, IV, do CPC entendo que esta especializada não tem competência para processar a ação" (fl. 500 e-STJ).
+É o relatório.
+DECIDO.
+O conflito encontra-se configurado e deve ser dirimido.
+Registre-se, preliminarmente, que o presente incidente se apresenta pronto para julgamento, haja vista que são dispensáveis maiores esclarecimentos pelos juízos conflitantes e que a hipótese dos autos não se enquadra em nenhuma daquelas previstas no artigo 178 do Código de Processo Civil de 2015, dispensando-se também o parecer do Ministério Público Federal, a teor do que dispõe o parágrafo único do artigo 951 do CPC/2015.
+Considerando que a causa de pedir e o pedido, no caso, se remetem à adoção do "(..) correto critério de cálculo da complementação, qual seja aquele previsto no Plano Complementar da Fundação Copel (..)" (fl. 18 e-STJ - grifou-se), não se depende, para a solução da controvérsia, de nenhuma discussão envolvendo contrato de trabalho, acordo coletivo, vínculo empregatício, etc.
+Esta Corte, com base no entendimento firmado pelo Supremo Tribunal Federal no julgamento dos RE"s nºs 586.453/SE e 583.050/RS, já estabeleceu que
+"Compete à Justiça Comum o julgamento de ação objetivando a complementação de benefício previdenciário, pois a causa de pedir e o pedido se originam de contrato celebrado com entidade de previdência complementar, o qual possui natureza eminentemente civil, envolvendo apenas, de maneira reflexa, os aspectos da relação de trabalho" (AgRg no CC 139.479/RJ, Segunda Seção, Rel. Min. Marco Aurélio Bellizze, DJe 18/8/2016).
+Confiram-se ainda:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. BENEFÍCIOS DECORRENTES DE CONVENÇÃO COLETIVA DE TRABALHO. AUXÍLIO CESTA-ALIMENTAÇÃO. COMPLEMENTAÇÃO DE APOSENTADORIA. PEDIDO FEITO DIRETAMENTE À EX-EMPREGADORA. CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. AGRAVO DESPROVIDO.
+1. A competência ratione materiae, via de regra, é questão anterior a qualquer outro juízo sobre outras espécies de competência e, sendo determinada em função da natureza jurídica da pretensão deduzida, decorre diretamente do pedido e da causa de pedir deduzidos em juízo.
+2. No caso em análise, o pedido é o pagamento de auxílio cesta-alimentação a pensionista, viúva de ex-empregado da Caixa Econômica Federal, e a causa de pedir é o cumprimento de obrigação de complementação de aposentadoria, cuja relação jurídica supostamente une viúva do falecido empregado à ex-empregadora, Caixa Econômica Federal.
+3. O pedido não guarda a natureza trabalhista e a causa de pedir somente reflexa e, indiretamente, guarda pertinência com a relação de trabalho já extinta. Logo, não cuidando o caso de competência em função da pessoa, mas de competência em razão da matéria, é desimportante contra quem a ação é manejada.
+4. Consoante esclarecido na decisão embargada, a jurisprudência recente desta egrégia Corte está alinhada no sentido de que "compete à Justiça estadual julgar questão concernente a pedido de inclusão de auxílio de cesta-alimentação em complementação de aposentadoria de previdência privada".
+5. Agravo interno desprovido.
+(AgInt nos EDcl no CC 154.250/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Segunda Seção, julgado em 8/11/2017, DJe 13/11/2017)
+"AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. AUXÍLIO-ALIMENTAÇÃO. EXTENSÃO AO INATIVO. CONTROVÉRSIA DE NATUREZA CIVIL E NÃO TRABALHISTA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. O Supremo Tribunal Federal, no julgamento do RE nº 586.453/SE, reconheceu a repercussão geral da questão constitucional nele suscitada e consolidou entendimento no sentido da competência da Justiça Comum para o processamento de demandas ajuizadas contra entidades privadas de previdência nas quais se busca o complemento de aposentadoria.
+2. O Superior Tribunal de Justiça também solidificou a jurisprudência, inclusive em recurso especial representativo de controvérsia (REsp nº 1.207.071/RJ), no sentido de competir à Justiça Comum (estadual ou federal) o julgamento de ação relacionada à complementação de benefício previdenciário, pois a causa de pedir e o pedido se originam de contrato celebrado com entidade de previdência complementar, o qual possui natureza eminentemente civil, envolvendo tão somente, de maneira indireta, os aspectos da relação de trabalho.
+3. Agravo regimental não provido."
+(AgRg no CC 135.744/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 24/6/2015, DJe 3/8/2015)
+"RECURSO ESPECIAL PREVIDÊNCIA PRIVADA. COMPETÊNCIA. JUSTIÇA ESTADUAL. AUXÍLIO CESTA-ALIMENTAÇÃO. CONVENÇÃO COLETIVA DE TRABALHO. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. COMPLEMENTAÇÃO DE APOSENTADORIA INDEVIDA. EMBARGOS DE DECLARAÇÃO. MULTA. SÚMULA 98/STJ. RECURSO REPETITIVO.
+(..)
+2. Compete à Justiça Estadual processar e julgar litígios instaurados entre entidade de previdência privada e participante de seu plano de benefícios. Precedentes.
+(..)
+6. Recurso especial provido."
+(REsp 1.207.071/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 27/6/2012, DJe 8/8/2012)
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE CURITIBA - PR.
+Oficiem-se.
+Publique-se.
