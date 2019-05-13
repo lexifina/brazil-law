@@ -1,0 +1,50 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AO ART. 535 DO CPC/1973. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF (POR ANALOGIA). TRIBUTÁRIO. ACÓRDÃO RECORRIDO FULCRADO NOS LIMITES DO ARESTO PROFERIDO PELO STF (ADIN 2556). ENFOQUE CONSTITUCIONAL DA MATÉRIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+ Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. FGTS. MANDADO DE SEGURANÇA. ARTIGO 1º DA LEI COMPLEMENTAR Nº 110/2001. CONSTITUCIONALIDADE.
+1. O Supremo Tribunal Federal, no julgamento da Medida Cautelar em ADIN nº 2556, firmou sua posição no sentido da constitucionalidade das contribuições sociais gerais previstas na Lei Complementar nº 110/2001, obstando apenas a exigibilidade das novas contribuições no mesmo exercício financeiro em que instituídas.
+2. A Corte Especial deste Tribunal, na sessão realizada em 23 de junho de 2016, ao julgar o Incidente de Arguição de Inconstitucionalidade nº 5029170-55.2015.4.04.0000, rejeitou a arguição de inconstitucionalidade superveniente do artigo 1º da Lei Complementar nº 110/2001.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa aos arts. 1º, 3º, § 1º, 4º, II e III, e 9º, da LC 110/01; 20, §4º, 131, 285-A, 330, I, 458, II, e 535, II, do CPC/73.
+Sustenta, em síntese, a inexistência de relação jurídico-tributária que legitime a cobrança da contribuição social incidente sobre os montantes depositados a título de FGTS, instituída pelo art.1º da LC 110/2001, após a edição da EC 33/2001.
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 676/678, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O recurso não merece conhecimento quanto a apontada violação ao art. 535, II, do CPC, pois o recorrente quedou-se inerte quanto a demonstração das razões pelas quais teria esse sido violado pelo acórdão a quo. Incide, pois, o óbice da Súmula 284 do STF (por analogia), segundo o qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Sobre o tema, o seguinte precedente:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. FUNDAMENTOS INSUFICIENTES PARA REFORMAR A DECISÃO AGRAVADA. PREVIDENCIÁRIO E PROCESSUAL CIVIL. ART. 535 DO CPC. INDICAÇÃO GENÉRICA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. BENEFÍCIO PREVIDENCIÁRIO. VALORES RECEBIDOS DE BOA-FÉ. DECISÃO TRANSITADA EM JULGADO. AÇÃO RESCISÓRIA. DEVOLUÇÃO DOS VALORES. IMPOSSIBILIDADE. CARÁTER ALIMENTAR DA VERBA.  ..  2. Configura deficiência de fundamentação do recurso especial a alegação genérica de violação do art. 535 do CPC, sem particularização dos pontos em que o acórdão estaria, de fato, omisso, contraditório ou obscuro, incidindo, por analogia, a Súmula 284 do STF.  ..  (AgRg no Ag 819.624/AL, Relator Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), SEXTA TURMA, julgado em 10/4/2012, DJe 18/4/2012) (grifou-se)
+No que diz respeito à matéria de fundo, o Tribunal de origem entendeu que:
+O legislador, no artigo 1º, ao invés de majorar a multa rescisória de 40% sobre os depósitos vertidos ao Fundo, em caso de despedida sem justa causa, para 50%, optou por instituir uma nova contribuição social com destinação específica, no percentual de 10% sobre o valor dos depósitos.
+A contribuição social de que trata o artigo 2º supratranscrito, por sua vez, tem por base de cálculo a folha de salários, uma vez que incide sobre a remuneração devida pelo empregador ao empregado, acrescida dos valores descritos no artigo 15 da Lei nº 8.036/90.
+Note-se que as contribuições em questão não possuem a mesma destinação da tradicional contribuição ao FGTS, pois foram criadas para possibilitar o pagamento da correção monetária das contas vinculadas do FGTS, diante dos expurgos do Plano Verão (janeiro de 1989, no percentual de 16,74%) e do Plano Collor (abril de 1990, no percentual de 44,08%), de modo a recompor o próprio Fundo.
+Trata-se, pois, de contribuições sociais gerais, a teor do disposto no artigo 149 da Constituição Federal.
+A Lei Complementar nº 110/2001 já foi, inclusive, objeto de exame pelo Supremo Tribunal Federal nos autos da Medida Cautelar interposta incidentalmente na Ação Direta de Inconstitucionalidade nº 2556-2, cuja ementa conta com o seguinte teor:
+ ..
+Como se vê, o Supremo Tribunal Federal sinalizou no sentido da constitucionalidade das exações, obstando apenas, cautelarmente, a exigibilidade das novas contribuições no mesmo exercício financeiro em que instituídas.
+Outrossim, este Tribunal Regional da 4ª Região já se debruçou sobre o tema da inconstitucionalidade superveniente do artigo 1º da Lei Complementar nº 110/2001 por perda da finalidade para a qual a contribuição foi criada, ao julgar, em 23 de junho de 2016, o Incidente de Arguição de Inconstitucionalidade nº 5029170-55.2015.4.04.0000.
+Naquele julgamento, a Corte Especial, por maioria de votos, decidiu pela constitucionalidade do dispositivo legal. (grifou-se)
+Na hipótese vertente, aludindo ao julgamento da ADI 2556-2, proferido pelo Supremo Tribunal Federal, o Tribunal de origem reputou constitucional as exações e o próprio Tribunal a quo entendeu constitucional o art. 1º da LC 110/2001.
+Por conseguinte, verifica-se que o acórdão recorrido ampara-se nos limites traçados no julgamento do citado julgado do STF. Assim, eventual ofensa, caso existente, ocorre no plano constitucional, motivo pelo qual é inviável a rediscussão do tema pela via especial.
+Ressalte-se que não compete a este Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na Constituição Federal, nem tampouco uniformizar a interpretação de matéria constitucional.
+A corroborar esse entendimento, destacam-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTÁRIO. FUNRURAL. DISCUSSÃO SOBRE A COMPROVAÇÃO ACERCA DA CONDIÇÃO DE PRODUTOR RURAL (PESSOA FÍSICA) EMPREGADOR. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. ACÓRDÃO RECORRIDO FULCRADO NOS LIMITES DO ARESTO PROFERIDO NO RE 363.852/MG. ENFOQUE CONSTITUCIONAL DA MATÉRIA.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. Não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na CF/88, nem tampouco uniformizar a interpretação de matéria constitucional.
+3. Agravo regimental não provido.
+(AgRg no REsp 1424470/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/03/2014, DJe 02/04/2014)
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. EMPREGADOR RURAL PESSOA FÍSICA. CONTROVÉRSIA SOLUCIONADA À LUZ DO TEXTO CONSTITUCIONAL PELO ACÓRDÃO RECORRIDO. AGRAVO NÃO PROVIDO.
+1. O acórdão recorrido solucionou a controvérsia posta nos autos, relacionada à contribuição previdenciária devida por empregador rural pessoa física, sob o enfoque eminentemente constitucional, o que não enseja abertura da via especial.
+2. Agravo regimental não provido.
+(AgRg no AREsp 74.601/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 06/08/2013, DJe 15/08/2013)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CONTRIBUIÇÃO INCIDENTE SOBRE A COMERCIALIZAÇÃO DOS PRODUTOS RURAIS. EMPREGADOR PESSOA FÍSICA. LEI 8.212/1991, ART. 25. ACÓRDÃO ASSENTADO NA DECLARAÇÃO DE INCONSTITUCIONALIDADE PROFERIDA NO RE 363.852/MG. REVISÃO NA VIA ELEITA. DESCABIMENTO.
+1. No acórdão proferido pelo TRF da 4ª Região restou consagrado o entendimento de que a contribuição previdenciária prevista no art. 25 da Lei 8.212/1991, em relação aos empregadores rurais pessoas físicas, foi declarada inconstitucional pelo STF, por ocasião do julgamento do RE 363.852/MG, razão pela qual foi reconhecida indevida a sua exigibilidade, ainda que sob a égide da Lei 10.256/2001.
+2. É inadmissível o recurso especial interposto contra acórdão que se assenta em fundamentação constitucional.
+3. Agravo regimental não provido.
+(AgRg no REsp 1340469/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 07/05/2013, DJe 13/05/2013)
+PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ERRO MATERIAL. EXISTÊNCIA. ISENÇÃO DE CUSTAS. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. REPERCUSSÃO GERAL RECONHECIDA PELO STF. SOBRESTAMENTO DO FEITO NO STJ. DESNECESSIDADE. EMBARGOS ACOLHIDOS EM PARTE.
+ ..
+3. Não compete ao Superior Tribunal de Justiça, na via do recurso especial, o exame de suposta afronta a dispositivos constitucionais, ainda que para efeito de prequestionamento, por se tratar de matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.  ..  6. Embargos de declaração acolhidos para corrigir o erro material e, atribuindo-lhes efeitos infringentes, reconhecer a isenção do INSS quanto ao pagamento das custas processuais. (EDcl no AgRg no REsp 1329053/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 17/12/2013, DJe 07/02/2014)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
