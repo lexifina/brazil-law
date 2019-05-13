@@ -1,0 +1,3 @@
+DECISÃO
+Cuida-se o presente agravo em recurso especial de matéria relativa às diferenças de correção monetária em depósitos de caderneta de poupança decorrentes da implementação dos planos econômicos Cruzado, Bresser, Verão e [NOME] e II, a qual foi objeto de acordo coletivo homologado pelo Supremo Tribunal Federal, nos autos da Arguição de Descumprimento de Preceito Fundamental (ADPF) n.º 165, Relator o Ministro Ricardo Lewandowski, DJ n.º 45 do dia 09/03/2018.
+Em razão da manifestação dos requerentes acerca do seu possível interesse no acordo homologado pelo Supremo Tribunal Federal, defiro a prorrogação do prazo por 15 dias, para que se manifestem acerca do interesse em aderir ao acordo realizado pelo STF.
