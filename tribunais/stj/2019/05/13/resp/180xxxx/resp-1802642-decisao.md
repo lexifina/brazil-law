@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial, interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o réu/recorrente foi condenado pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), à penas de 1 ano e 8 meses de reclusão, em regime inicial fechado, e pagamento de 166 dias-multa, conforme a sentença às fls. 286/302.
+Irresignada a defesa interpôs recurso de apelação, pretendendo a absolvição ou a desclassificação da conduta, ou ainda o abrandamento do regime e a substituição da pena.
+O recurso foi desprovido nos termos do acórdão assim ementado (fl. 379):
+APELAÇÃO - Tráfico de entorpecentes - Recurso da defesa - Absolvição - Improcedência - Materialidade e autoria demonstradas - Réus surpreendidos com 10 flaconetes contendo cocaína (2,34g), 36 pedras de crack (ll,10g) e 03 tabletes e 01 porção de maconha (30,90g) - Firmes e coerentes depoimentos dos policiais militares - Validade - Condenação de rigor - Desclassificação para uso - Impossibilidade - Circunstâncias fáticas revelam à traficância - Dosimetria da pena - Penas-base no mínimo legal, posteriormente reduzidas em 2/3 pela regra do §4º do art 33 da Lei 11343/06 - Substituição penal - Inaplicabilidade - Medida não é socialmente recomendada ao caso - Regime inicial fechado - Manutenção - Tráfico de cocaína e crack - Drogas altamente nocivas e de grande lesividade à Saúde Pública - Recursos não providos.
+No recurso especial a defesa alega violação dos arts. 33, § 2º, e 44, § 2º, do Código Penal - CP.
+Sustenta que não há fundamentação idônea para a fixação de regime mais gravoso do que o previsto para a quantidade da pena, bem como estão presentes os requisitos para a substituição da pena.
+Requer a fixação do regime aberto e a conversão da pena.
+Contrarrazões às fls. 438/459. Admitido parcialmente o recurso às fls. 462/463, o Ministério Público Federal opina pelo parcial provimento do recurso às fls. 472/473.
+É o relatório. Decido.
+O recurso é tempestivo e a matéria foi prequestionada.
+A irresignação merece parcial provimento.
+No tocante ao regime de pena, ainda que as circunstâncias judiciais tenham sido consideradas favoráveis e o recorrente seja primário, a quantidade das drogas apreendidas justificada a segregação inicial em regime mais gravoso e o indeferimento da substituição da pena corporal.
+No caso, considerando o quantum da pena aplicada - 1 ano e 8 meses de reclusão - e constatada a gravidade concreta da conduta do recorrente, evidenciada pela variedade e natureza das drogas apreendidas (2,34 g de cocaína, 11,10 de crack, 30,90 g de maconha), é correta a imposição do regime inicial semiaberto, consoante a jurisprudência desta Corte. A corroborar esse raciocínio:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. INDÍCIOS DE DEDICAÇÃO À ATIVIDADE CRIMINOSA. RECURSO NÃO PROVIDO.
+1. O § 4º do artigo 33 da Lei 11.343/2006 dispõe que as penas poderão ser reduzidas de um sexto a dois terços, desde que: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades criminosas; e d) não integre organização criminosa.
+ ..
+REGIME MAIS GRAVOSO DE CUMPRIMENTO DA PENA. NATUREZA E QUANTIDADE DOS ENTORPECENTES. POSSIBILIDADE.
+1. Admite-se a fixação de regime mais gravoso para o início do cumprimento da pena privativa de liberdade imposta em razão da quantidade e natureza dos entorpecentes apreendidos.
+2. Agravo regimental não provido (AgRg no HC 440.008/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/6/2018).
+PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. IMPOSIÇÃO DO REGIME INICIAL FECHADO E NEGATIVA DE SUBSTITUIÇÃO DAS PENAS. FUNDAMENTO COM BASE NA QUANTIDADE E NATUREZA DA DROGA APREENDIDA (128 PINOS DE COCAÍNA). FIXAÇÃO DO REGIME FECHADO. CONDENAÇÃO NÃO SUPERIOR A 4 ANOS. RÉU PRIMÁRIO. PENA-BASE NO MÍNIMO. FUNDAMENTO CONCRETO PARA A FIXAÇÃO DO REGIME MAIS GRAVOSO - O SEMIABERTO - E NÃO O FECHADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Nos termos do entendimento firmado pelo STJ, a natureza, a variedade e a quantidade da substância entorpecente constituem fundamento idôneo para justificar a imposição do regime mais severo e para o indeferimento da substituição das penas. Precedentes.
+3. Todavia, embora válido o fundamento para o recrudescimento do regime prisional, não se justifica a imposição do regime inicial fechado, ao réu primário, condenado à pena reclusiva não superior a 4 anos - 2 anos e 6 meses - cuja pena-base foi estabelecida no mínimo legal. Precedentes.
+4.  ..
+5. Habeas corpus não conhecido, mas concedida a ordem, de ofício, para estabelecer o regime semiaberto para o cumprimento da pena reclusiva (HC 367.301/SP, Rel. Min. NEFI CORDEIRO, QUINTA TURMA, DJe de 17/10/2016).
+Em relação à substituição da pena privativa de liberdade por restritivas de direitos, inviável a pretensão recursal, em virtude da quantidade e natureza das drogas apreendidas, a qual é circunstância apta a indeferir a pleiteada substituição da pena corporal. Veja-se a jurisprudência desta Corte.
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. DOSIMETRIA. REGIME INICIAL SEMIABERTO. CIRCUNSTÂNCIAS DESFAVORÁVEIS (NATUREZA E DIVERSIDADE DE DROGAS). SUBSTITUIÇÃO DA PENA CORPORAL. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Com efeito, o art. 42 da Lei 11.343/2006, determina que, na fixação da reprimenda, além das circunstâncias previstas no art. 59 do Código Penal, sejam também consideradas, com preponderância, a natureza e a quantidade da substância ou do produto, haja vista que, no tráfico de entorpecentes, tais fatores são relevantes, tendo a finalidade de conferir isonomia aos infratores.
+III - No presente caso, a natureza e a diversidade de drogas apreendidas foram consideradas na terceira fase da dosimetria, impedindo a incidência da redutora contida no art. 33, § 4º, da Lei n.11.343/06, em seu grau máximo. Tais circunstâncias impedem a fixação do regime aberto, sendo aplicável o regime mais gravoso sequente, qual seja, o semiaberto. Precedentes.
+IV - De igual modo, referidas circunstâncias (natureza e diversidade de drogas) não recomendam a substituição da pena privativa de liberdade por penas restritivas de direitos. Precedentes.
+Habeas corpus não conhecido (HC 408.530/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 16/10/2017).
+Diante do exposto, com fundamento na Súmula n. 568/STJ, dou parcial provimento ao recurso especial para fixar o regime semiaberto.
+Publique-se. Intimem-se.
