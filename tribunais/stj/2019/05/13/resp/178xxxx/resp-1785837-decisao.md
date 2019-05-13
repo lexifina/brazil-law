@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que negou provimento ao agravo em execução.
+Nas razões recursais, aponta a defesa violação dos arts. 52, 127 e 196, § 2º, da Lei de Execução Penal, 158 do CP e 50, §§ 1º e 2º, da Lei 11.343/2006.
+Menciona que é entendimento pacificado nos tribunais superiores, que a ausência de laudo pericial, para qualquer fim, inclusive para o reconhecimento de falta disciplinar de natureza grave, não permite que substância apontada como entorpecente seja reconhecida como droga (fl. 145).
+Ressalta que, ao ter mantido a decisão agravada em todos os seus termos, notadamente na perda de um terço dos dias remidos e fixação de novo termo inicial para individualização executória, o fazendo sem a indispensável comprovação pericial da conduta, o acórdão violou o disposto no art. 127, da Lei de Execução Penal (fl. 147).
+Requer, assim, o provimento do recurso, reformando-se o acórdão recorrido, para que não seja homologada a imputação como falta grave, afastando todas as consequências advindas da decisão agravada (fl. 148).
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+DECIDO.
+A controvérsia posta em debate cinge-se em torno da prescindibilidade do laudo toxicológico para comprovação da posse de substância entorpecente.
+Acerca da questão, o Tribunal de origem utilizou-se dos seguintes argumentos (fls. 122-124):
+Pois bem. Compulsando os autos verifico que razão não assiste ao agravante quanto a alegação de que laudo toxicológico da substância apreendida é imprescindível para a aferição da materialidade da infração disciplinar grave. Isso porque à falta grave restou devidamente comprovada, tanto a materialidade quanto a autoria, pela própria confissão do sentenciado no PAD (termo de declarações à fl. 59-TJ) e na audiência de justificação (midia a fl.9v-TJ).
+Nesse contexto, incumbe registrar que o exame pericial não é considerado imprescindível para a caracterização da falta grave ora debatida, vez que há outros elementos nos autos capazes de comprovar sua autoria e materialidade, mormente a confissão supracitada, que se encontra em harmonia com o Histórico de Ocorrência Interna de fl. 19-TJ.
+Destaco, ademais, a independência entre a ação penal e a execução da pena. Assim, a efetiva prática do crime tipificado no art. 28 da Lei n. 11.343/2006 ficará a cargo da Justiça Criminal, no deslinde de eventual processo de conhecimento.
+ ..  Portanto, restando evidenciado que o reeducando trazia consigo droga que seria destinada para consumo próprio ou tráfico de entorpecentes, imperioso o reconhecimento da infração disciplinar, nos termos do art. 52 da LEP, que determina que a prática de fato previsto como crime doloso - in casu, o art. 28 ou o art. 33 da Lei n. 11.34312006 - constitui falta grave. Assim, constatando-se que agiu com acerto o MM. Juiz a quo, não há que se falar em reforma da decisão primeva.
+Por derradeiro, no tocante ao requerimento de justiça gratuita, vislumbra-se que o apenado está assistido pela Defensoria Pública, o que pressupõe que já é beneficiário da aludida gratuidade.
+Ademais, cumpre registrar que não há que se falar em custas processuais em recurso de agravo de execução penal.
+Diante do exposto, NEGO PROVIMENTO ao recurso, mantendo incólume a decisão guerreada.
+Trata-se de hipótese em que encontrada, na posse do apenado, no curso da execução penal, substância semelhante à maconha.
+Embora não tenha sido periciada a substância apreendida - ausente, portanto, laudo de constatação de substância entorpecente -, o Juízo das execuções concluiu pela prática de falta grave, determinando a regressão ao regime fechado, bem como a interrupção de prazos para a concessão de futuros benefícios e a perda de 1/5 dos dias remidos.
+É certo que na comprovação da materialidade e da tipicidade dos crimes dos arts. 33 e 35 da Lei 11.343/06 é essencial que se elabore exame toxicológico laboratorial demonstrando, em laudo pericial definitivo, a natureza entorpecente da substância apreendida.
+O caso em tela, porém, diz respeito à posse de drogas para consumo próprio, previsto no art. 28 da Lei 11.343/2006, cujo art. 50, § 1º, determina que, para efeito da lavratura do auto de prisão em flagrante e estabelecimento da materialidade do delito, é suficiente o laudo de constatação da natureza e quantidade da droga, firmado por perito oficial ou, na falta deste, por pessoa idônea.
+Nessa linha de raciocínio, tem entendido esta Corte que a imprescindibilidade do exame toxicológico para a efetiva comprovação da materialidade estende-se aos casos de cometimento de falta disciplinar de natureza grave por posse de entorpecente. Nesse sentido:
+HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE FALTA DISCIPLINAR DE NATUREZA GRAVE. POSSE DE ENTORPECENTES. DELITO QUE DEIXA VESTÍGIOS. MATERIALIDADE. NECESSIDADE DE LAUDO TOXICOLÓGICO. AUSÊNCIA. CONSTRANGIMENTO ILEGAL CONFIGURADO. ORDEM CONCEDIDA.
+1. Mostra-se imprescindível o exame toxicológico laboratorial para que se comprove a natureza entorpecente da substância em laudo definitivo cuja ausência gera nulidade absoluta, pois que afeta o interesse público e diz respeito à própria prestação jurisdicional.
+2. Há de se aplicar o mesmo entendimento, da necessidade do exame toxicológico, aos casos de cometimento de falta disciplinar de natureza grave, por posse de "drogas", delito que deixa vestígios, para comprovação da materialidade delitiva. Precedentes desta Corte.
+3. Ordem concedida a fim de declarar nula a decisão do Juízo das Execuções Criminais, que reconheceu a prática da falta grave sem a juntada do exame de constatação da substância apreendida. (HC 406.154/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017).
+AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. POSSE DE ENTORPECENTES. LAUDO TOXICOLÓGICO. IMPRESCINDIBILIDADE. INSURGÊNCIA DESPROVIDA.
+1. A jurisprudência do STJ firmou "a orientação no sentido da imprescindibilidade do laudo toxicológico para comprovar a materialidade da infração disciplinar e a natureza da substância encontrada com o apenado no interior de estabelecimento prisional" (HC n. 373.648/MG, Rel. Min. JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/2/2017, DJe 24/2/2017).
+3. Agravo regimental desprovido. (AgRg no HC 448.115/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/04/2019, DJe 07/05/2019).
+Na hipótese, ante a ausência de laudo toxicológico para o reconhecimento da falta grave, deve-se afastar a imposição de falta disciplinar de natureza grave por posse de drogas.
+Ante o exposto, dou provimento ao recurso especial para anular a decisão que reconheceu a prática de falta grave e as consequências dela decorrentes.
+Publique-se.
+Intimem-se.
