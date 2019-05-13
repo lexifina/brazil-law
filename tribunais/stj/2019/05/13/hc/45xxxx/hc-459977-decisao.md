@@ -1,0 +1,38 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO. NULIDADE. OITIVA DOS RÉUS COMO PRIMEIRO ATO DA AUDIÊNCIA. ART. 400 DO CPP. INSTRUÇÃO ENCERRADA POSTERIORMENTE À PUBLICAÇÃO DA ATA DE JULGAMENTO DO HC N. 127.900/AM DO STF. INTERROGATÓRIO. NECESSIDADE DE ALEGAÇÃO OPORTUNA. PRECLUSÃO. PRECEDENTE.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] contra ato coator proferido pela Primeira Câmara Criminal do Tribunal de Justiça de Minas Gerais, que, nos autos do Processo n. 1.0024.16.062605-7/001, manteve o paciente condenado à pena de 9 anos de reclusão, em regime fechado, e 664 dias-multa, à razão mínima, pela prática de condutas descritas nos arts. 33 da Lei n. 11.343/2006 e 14 da Lei n. 10.826/2003.
+O impetrante alega, em síntese, que o art. 400 do Código de Processo Penal prevê, expressamente, que o interrogatório do réu é o último ato da audiência de instrução e julgamento. No ponto, afirma não haver falar em ausência de demonstração de prejuízo para o paciente, pois a ofensa a um princípio constitucional torna a nulidade absoluta.
+Pede a nulidade da Ação Penal n. 1.0024.16.062605-7/002 (0626057-38.2016.8.13.0024) desde a audiência de instrução e julgamento por ofensa ao art. 400 do Código de Processo Penal (fls. 3/19).
+Informações prestadas pela origem às fls. 97/125.
+O Ministério Público Federal opina pelo não conhecimento do writ, mas pugna pela concessão da ordem de ofício para declarar a nulidade da ação penal desde a audiência de instrução (fls. 130/137).
+É o relatório.
+A concessão de habeas corpus é medida excepcional, que exige a demonstração de prova pré-constituída embasando suas alegações.
+In casu, a impetração pretende a nulidade da ação penal desde a audiência de instrução, em razão da oitiva do paciente antes da oitiva das testemunhas, em inversão da ordem definida no art. 400 do Código de Processo Penal.
+A questão foi suscitada por ocasião do julgamento da apelação e o Tribunal local a decidiu pelos seguintes fundamentos (fls. 34/35):
+Primeiramente, analiso a preliminar suscitada nas razões recursais, atinente à ocorrência de nulidade da instrução por ofenda ao disposto no art. 400 do Código de Processo Penal.
+Sustentam os apelantes que seus interrogatórios deveriam ter sido os últimos atos da audiência de instrução.
+Razão não lhes assiste.
+Como cediço, tratando-se de tráfico de drogas, a instuição criminal está disciplinada na Lei n. 11.343/06 e, especificamente quanto à audiência de instrução e julgamento, no seu art. 57, verbis:
+"Na audiência de instrução e julgamento, após o interrogatório do acusado e a inquirição das testemunhas, será dada a palavra, sucessivamente, ao representante do Ministério Público e ao defensor do acusado, para sustentação oral, pelo prazo de 20 (vinte) minutos para cada um, prorrogável por mais 10 (dez), a critério do juiz. Parágrafo único. Após proceder ao interrogatório, o juiz indagará das partes se restou algum fato para ser esclarecido, formulando as perguntas correspondentes se o entender pertinente e relevante.
+Retira-se do dispositivo acima transcrito que o interrogatório do acusado será o primeiro ato da audiência, sendo inquiridas as testemunhas posteriormente.
+Na hipótese, esse desencadear de atos processuais foi regularmente observado, conforme se vê do termos de audiência de fl. 131.
+Ora, ao contrário do que querem fazer crer os apelantes, em face do princípio da especialidade, não há como se aplicar as regras do procedimento comum quando o rito legalmente estipulado para a espécie for o especial, dotado de suas peculiaridades.
+Aplicar-se-á o comum apenas subsidiariamente, de forma a integrar o diploma especial, nas hipóteses de omissão ou lacuna legislativas.
+Colhe-se entendimento do STJ:
+O Supremo Tribunal Federal assentou, no julgamento do HC n. 127.900/AM, que o rito previsto no art. 400 do Código de Processo Penal, com redação dada pela Lei n. 11.719/2008, prevalece sobre as disposições regidas por leis especiais, por ser essa posterior e mais benéfica e por melhor assegurar a efetividade do contraditório e da ampla defesa.
+No entanto, em atenção ao princípio da segurança jurídica, ressalvou a incidência da orientação aos feitos com instrução já encerrada na data da publicação do julgado (3/8/2016).
+Em suporte: AgRg no AREsp n. 1.024.408/SP, da minha relatoria, Sexta Turma, DJe 6/6/2018; e AgRg no REsp n. 1.543.600/RS, Ministro Jorge Mussi, Quinta Turma, DJe 24/8/2018.
+In casu, a despeito de a audiência de instrução e julgamento ter ocorrido em data posterior (8/6/2016) à publicação da ata de julgamento do HC n. 127.900/AM (11/3/2016), nos termos da mais recente jurisprudência, a defesa não se manifestou oportunamente pela nulidade, o que torna preclusa a alegação, conforme termos da jurisprudência mais recente deste Tribunal Superior:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ENTRADA NO DOMICÍLIO DO PACIENTE SEM AUTORIZAÇÃO JUDICIAL. HIPÓTESE DE FLAGRANTE EM CRIME PERMANENTE. DESNECESSIDADE DE MANDADO DE BUSCA E APREENSÃO OU AUTORIZAÇÃO. (ART. 5º, XI, DA CF). INVERSÃO DA ORDEM DO INTERROGATÓRIO. ÚLTIMO ATO DA INSTRUÇÃO. APLICAÇÃO DO ART. 400 DO CPP. ADOÇÃO DO RITO PREVISTO EM LEGISLAÇÃO ESPECIAL. MATÉRIA JULGADA PELO STF. HC N. 127.900/AM. INTERROGATÓRIO OCORRIDO APÓS 11/3/2016. AUSÊNCIA DE CÓPIA DA AUDIÊNCIA QUE DEMONSTRE POSSÍVEL AFERIÇÃO DA IMPUGNAÇÃO. DOCUMENTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. PREJUÍZO NÃO DEMONSTRADO.
+1. Considerando a presença de indicativos concretos na suspeita de tráfico de entorpecentes, em razão de suposto depósito das drogas, não há falar em violação de domicílio por ausência de ordem judicial para a busca.
+2. Esta Corte Superior de Justiça, acompanhando o entendimento firmado pela Suprema Corte no julgamento do HC n. 127.900/AM, de relatoria do Ministro Dias Toffoli, firmou compreensão no sentido de que o rito processual para o interrogatório, previsto no art. 400 do CPP, deve ser aplicado a todos os procedimentos regidos por leis especiais, porquanto a Lei n. 11.719/2008, que deu nova redação ao art. 400 do CP, prepondera sobre as disposições em sentido contrário previstas em lei especial, por se tratar de lei posterior mais benéfica ao acusado (HC n. 390.707/SC, Sexta Turma, Ministro Nefi Cordeiro, DJe 24/11/2017).
+3. Os efeitos da decisão foram modulados para se aplicar a nova compreensão somente aos processos, cuja instrução criminal não tenha se encerrado até a publicação da ata do julgamento do HC n. 127.900/AM (11/3/2016), sob pena de ofensa ao princípio da segurança jurídica, consubstanciado no art. 5º, XXXVI, da Constituição Federal.
+4. In casu, consta da sentença que a audiência de instrução e julgamento foi realizada em 6/6/2016 e, na ocasião, o acusado foi interrogado antes da oitiva das testemunhas. O interrogatório judicial, portanto, foi o primeiro ato a ser praticado na audiência de instrução e julgamento ocorrida em data posterior à publicação do julgado do Pretório Excelso.
+5. Ocorre que, também de acordo com jurisprudência desta Corte de Justiça, para que se reconheça nulidade pela inversão da ordem de interrogatório, é necessário que o inconformismo da defesa tenha sido manifestado tempestivamente, ou seja, na própria audiência em que realizado o ato, sob pena de preclusão. Dado não comprovado nestes autos.
+6. Ordem denegada.
+(HC n. 426.272/DF, da minha relatoria, Sexta Turma, DJe 19/3/2019 - grifo nosso)
+Assim, não há como se conceder a ordem, tendo em conta a ausência de alegação oportuna da nulidade, conforme consta no relatado na sentença (fl. 70), motivo pelo qual entendo preclusa a questão.
+Ante o exposto, denego a ordem.
+Publique-se.
