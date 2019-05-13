@@ -1,0 +1,41 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CÓDIGO BUZAID. OCORRÊNCIA. OMISSÃO E CONTRADIÇÃO NÃO SANADAS. INOVAÇÃO RECURSAL NÃO VERIFICADA. AGRAVO INTERNO DA CEF DESPROVIDO.
+1. Constatados vícios de omissão, contradição ou obscuridade no julgado - expressamente suscitados pelo Recorrente em sede de Embargos de Declaração, e cuja elucidação é indispensável ao deslinde da controvérsia -, impõe-se a manifestação do órgão julgador, sob pena de nulidade do julgado.
+2. Na vertente hipótese, a leitura atenta dos autos revela a ocorrência de vício integrativo do Aresto que apreciou os Embargos Aclaratórios. Isso porque não foram sanadas as contradições atinentes ao fato de que a Certidão da Dívida Ativa contempla tão somente a pessoa jurídica executada, sem qualquer referência ao sócio, ora agravado, assim como ao fato de que houve regular encerramento da falência, homologado por sentença transitada em julgado.
+3. Como consequência, verifica-se ser essencial para a inteira prestação jurisdicional que o órgão julgador a quo aprecie os pontos indicados nos Aclaratórios, sanando os vícios em referência. Todavia, ao rejeitar os Aclaratórios, de fato, incorreu-se em violação do art. 535, I do CPC, o que resulta em declaração de nulidade do acórdão de Aclaratórios da Corte Regional.
+4. Ademais, não há que se falar em inovação recursal se o vício integrativo alegado exsurge em segundo grau por ocasião do julgamento do Agravo de Instrumento.
+5. Agravo Interno da CEF desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pela CAIXA ECONÔMICA FEDERAL em face de decisão monocrática de minha lavra, assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC/1973 CONFIGURADA. OMISSÃO E CONTRADIÇÃO OCORRIDAS NO ACÓRDÃO DE ORIGEM E NÃO SANADAS PELO TRIBUNAL DE ORIGEM NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL PROVIDO PARA, ANULANDO O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO, DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM, A FIM DE QUE SUPRA O VÍCIO INDICADO (fls. 703).
+2. Sustenta, em suma, que tais argumentos não constam da inicial do Agravo de Instrumento, no que a parte inovou após o primeiro enfrentamento das razões lançadas na peça que inaugura o procedimento, medida rechaçada pela jurisprudência desse STJ (fls. 712).
+3. Impugnação apresentada às fls. 725/730.
+4. É o relatório.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CÓDIGO BUZAID. OCORRÊNCIA. OMISSÃO E CONTRADIÇÃO NÃO SANADAS. INOVAÇÃO RECURSAL NÃO VERIFICADA. AGRAVO INTERNO DA CEF DESPROVIDO.
+1. Constatados vícios de omissão, contradição ou obscuridade no julgado - expressamente suscitados pelo Recorrente em sede de Embargos de Declaração, e cuja elucidação é indispensável ao deslinde da controvérsia -, impõe-se a manifestação do órgão julgador, sob pena de nulidade do julgado.
+2. Na vertente hipótese, a leitura atenta dos autos revela a ocorrência de vício integrativo do Aresto que apreciou os Embargos Aclaratórios. Isso porque não foram sanadas as contradições atinentes ao fato de que a Certidão da Dívida Ativa contempla tão somente a pessoa jurídica executada, sem qualquer referência ao sócio, ora agravado, assim como ao fato de que houve regular encerramento da falência, homologado por sentença transitada em julgado.
+3. Como consequência, verifica-se ser essencial para a inteira prestação jurisdicional que o órgão julgador a quo aprecie os pontos indicados nos Aclaratórios, sanando os vícios em referência. Todavia, ao rejeitar os Aclaratórios, de fato, incorreu-se em violação do art. 535, I do CPC, o que resulta em declaração de nulidade do acórdão de Aclaratórios da Corte Regional.
+4. Ademais, não há que se falar em inovação recursal se o vício integrativo alegado exsurge em segundo grau por ocasião do julgamento do Agravo de Instrumento.
+5. Agravo Interno da CEF desprovido.
+VOTO
+1. A irresignação não merece prosperar.
+2. A decisão monocrática ora agravada deu provimento ao Recurso Especial dos Particulares, sob os seguintes fundamentos:
+(..)
+7. Prefacialmente, é bem verdade que, por um lado, o Julgador não é obrigado a se debruçar sobre todas as teses levantadas pelas partes, respondendo, um a um, os argumentos nelas deduzidos, estando vinculado apenas ao imperativo constitucional da fundamentação suficiente para a efetiva solução da controvérsia.
+8. Lado outro, dúvida não há de que, constatados vícios de omissão, contradição ou obscuridade no julgado - expressamente ventilados pelo Recorrente em sede de Embargos de Declaração, e cuja elucidação é indispensável ao deslinde da controvérsia -, impõe-se a manifestação do órgão julgador, sob pena de nulidade do julgado.
+9. Na vertente hipótese, a leitura atenta dos autos revela a ocorrência de omissão do Aresto que apreciou os Embargos Aclaratórios. Isso porque não foram sanadas as contradições atinentes ao fato de que a Certidão da Dívida Ativa contempla tão somente a pessoa jurídica executada - CONTERMA CONSTRUTORA INDUSTRIAL E TERMOTÉCNICA LTDA, sem qualquer referência ao sócio [NOME], ora recorrente, assim como ao fato de que houve regular encerramento da falência, homologado por sentença transitada em julgado.
+10. Como consequência, verifica-se essencial para a inteira prestação jurisdicional que o órgão julgador a quo aprecie os pontos indicados nos Aclaratórios, sanando os vícios em referência. Todavia, ao rejeitar os Aclaratórios, de fato, incorreu em violação do art. 535, I do CPC, o que resulta em declaração de nulidade do acórdão de aclaratórios da Corte Regional.
+11. Por ter o acórdão recorrido deixado de sanar os vícios constatados no acórdão de fls. 435/441, e tendo a parte recorrente alegado violação do art. 535 do CPC/1973, merece prosperar o presente recurso para anular o acórdão proferido nos Embargos de Declaração, determinando-se o retorno dos autos ao Tribunal de origem para completa prestação jurisdicional (fls. 705/706).
+3. Para infirmar tal decisão, sustenta a parte agravante que os pontos ditos por omissos não foram objeto do Agravo de Instrumento interposto, motivo pela qual se configuraria inovação recursal. No entanto, tal argumentação não encontra respaldo nos autos.
+4. Da leitura atenta dos autos, denota-se que a contradição alegada - o fato de que a CDA contempla somente a pessoa jurídica, e não o sócio executado - surgiu por ocasião do julgamento do Agravo de Instrumento. Confira-se a ementa do aresto:
+EXECUÇÃO FISCAL. AGRAVO. ARTIGO 557, § 1.º CPC. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. RESPONSABILIDADE DO SÓCIO. NÃO CABIMENTO.
+I - A exceção de pré-exeeutividade é cabível apenas quando o título executivo contiver defeito formal ou nulidade imediatamente perceptível, não podendo substituir os embargos à execução, única sede em que é possível a produção de provas e a apreciação de questões de alta indagação, assegurado o contraditório pleno e a instrução completa, sendo inadequada a via processual eleita.
+II - Não se pode, em exceção de pré-executividade, excluir do pólo passivo o sócio que figure como responsável na certidão de dívida ativa, pois é dele o ônus de afastar a presunção relativa de certeza do título.
+III - A notícia de falência da empresa, com desaparecimento de bens da massa, é mais do que suficiente para a inclusão dos sócios no pólo passivo, mesmo que não seja aplicado os artigos 134 e 135 do CTN à execução fiscal do FGTS, por não se tratar de crédito de natureza tributária.
+IV - Agravo a que se nega provimento (fls. 441).
+5. Assim, não há que se falar em inovação recursal se o vício integrativo alegado exsurge em segundo grau por ocasião do julgamento do Agravo de Instrumento.
+6. Ante o exposto, nega-se provimento ao Agravo Interno da CEF. É como voto.
