@@ -1,0 +1,35 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTA OFENSA AOS ARTIGOS 11, 489 e 1.022 DO CPC/2015. NÃO CARCATERIZADA. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial da USINA SANTO ANTÔNIO interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+RECURSOS DE APELAÇÃO EM AÇÃO ORDINÁRIA. MEIO AMBIENTE. REGULARIDADE DA APLICAÇÃO DE MULTA AMBIENTAL.
+Auto de Infração e Imposição de Penalidade e Multa, com base na violação da Lei Estadual nº 977/76, regulamentada pelo Decreto Estadual nº 8.468/76, com alterações posteriores que se encontram plenamente em vigor. Precedentes. Dano ambiental incontroverso. Aplicação de multa diante da extensão da queimada e dos reflexos à saúde da população próxima. Ausência de ilegalidade no exercício da
+discricionariedade administrativa para aplicação de multa. Inexistente ilegalidade no enquadramento da conduta e cominação da multa no AIIPM, ao contrário, ato administrativo que atendeu aos requisitos de sua validade. Sentença mantida Recurso desprovido
+Os embargos de declaração foram rejeitados. Nas razões do recurso especial, a recorrente aponta violação aos artigos 489, §1º, IV, 1.022, II, e 11 do CPC, alegando que o acórdão do Tribunal de origem deixou de se manifestar acerca do argumento de que a queima tratada nos autos foi autorizada por órgão estadual competente.
+Não houve contrarrazões.
+Sobreveio juízo negativo de admissibilidade à consideração de que: a) os argumentos expedidos não são suficientes para infirmar as conclusões do acórdão; b) não ficou evidenciado o suposto maltrato às normas legais enunciadas; c) rever a posição da Truma Julgadora importaria em ofensa à Súmula 7/STJ; e d) o posicionamento alcançado pelos julgadores não traduz desrespeito à legislação enfocada a ponto de permitir que seja o recurso alçado à instância superior.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Foi apresentada contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Antes de mais nada, é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preenchido os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A insurgência não merece prosperar.
+No recurso especial, a recorrente aponta ofensa aos artigos 489, §1º, IV, 1.022, II, e 11 do CPC, alegando que o acórdão do Tribunal de origem deixou de se manifestar acerca do argumento de que a queima noticiada no auto de infração foi autorizada pelo órgão competente, conforme Protocolo 3728C486C5 junto à CETESB.
+Ocorre que no caso, bem ou mal, certo ou errado, a Corte de origem decidiu a controvérsia de modo integral e suficiente ao concluir que:
+(..) Compulsando os autos, verifica-se que o Auto de Infração e Imposição de Penalidade de Multa demonstra claramente a ocorrência de infração ambiental promovida pela particular, por ter-se beneficiado da queima da palha de cana-de-açúcar ocorrida.|
+Neste sentido, ausente qualquer irregularidade na tipificação da conduta e aplicação da pena. Isto porque plenamente em vigor a Lei Estadual 997/76, regulamentada pelo Decreto Estadual 8.468/76.
+Ademais, a ocorrência do dano ambiental é incontroversa.
+É cediço que muito embora a queimada de cana-de-açúcar cause inegável impacto ambiental, a atividade por si só não é ilícita, desde que realizada dentro dos limites estabelecidos em lei e norma regulamentadora, notadamente, da Lei nº 11.241/2002 que estabeleceu critério idêntico do Decreto Federal nº 2.661/98 para a eliminação gradativa da queimada da palha de cana de açúcar e Decreto Estadual nº 47.700/2003 que regulamentou o procedimento de referida queima.
+No entanto, compulsando os autos, verifica-se a irregularidade da queima da palha de cana-de-açúcar uma vez que não houve autorização do órgão competente.
+Cumpre ainda ressaltar que a conduta da autuada que ensejou a aplicação da multa, origina-se do fato de ter se beneficiado da queima da palha de cana-de-açúcar, uma vez que incontroversa a colheita da cana e o envio para o processamento imediatamente nos dias subsequentes. (destaquei)
+Verifica-se que o Tribunal de origem enfrentou a matéria posta em debate na medida necessária para o deslinde da lide, destacando, inclusive, que não houve autorização do órgão competente para a queima da palha da cana-de-açúcar.
+Cumpre asseverar que cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia (EDcl no AgRg no AREsp 195.246/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 04/02/2014).
+Outrossim, na linha da jurisprudência desta Corte, se os fundamentos do Acórdão se mostram insuficientes ou incorretos na opinião da recorrente, não quer dizer que eles não existam. Não se pode confundir vício na fundamentação com juízo diverso do esperado pela parte, motivo pelo qual não resta caracterizada ofensa aos artigos apontados como violados pela parte. Citam-se julgados desta Corte na mesma linha de consideração:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. ACÓRDÃO BASEADO EM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL MATÉRIA INSUSCETÍVEL DE SER EXAMINADA EM RECURSO ESPECIAL.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos. (..)
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1630265/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 06/12/2016)
+AGRAVO INTERNO. RECURSO ESPECIAL. OFENSA AO ART. 489, § 1º, V, DONOVO CPC/15. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO DEMONSTRADA (..)
+(..) III. Não há que se falar em nulidade da decisão ora agravada, por afronta ao art. 489 do CPC/2015, "quando o julgador decidiu de forma fundamentada, identificando de forma clara e objetiva as teses adotadas, e ainda amparado em precedentes que se ajustam ao caso concreto" (STJ, AgInt no REsp 1.624.685/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 16/12/2016). (AgInt no AREsp 1105862/BA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 07/11/2017, DJe 14/11/2017)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
