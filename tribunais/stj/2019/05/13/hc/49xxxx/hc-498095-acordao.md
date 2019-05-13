@@ -1,0 +1,55 @@
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO. ROUBO MAJORADO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+3. A prisão preventiva está adequadamente motivada com base em elementos concretos extraídos dos autos, diante do modus operandi da suposta conduta criminosa, indicando a periculosidade do paciente que, em concurso de agentes e mediante grave ameaça perpetrada com simulação de porte de arma de fogo, abordou vítimas para subtrair-lhe pertences. Ante a negativa da vítima em possuir bens de valor, o agente desferiu-lhe soco no rosto e subtraiu seu celular.
+4. Segundo reiterada jurisprudência desta Corte, a periculosidade do agente, evidenciada no modus operandi do delito, é fundamento idôneo para justificar a prisão preventiva, tendo como escopo o resguardo da ordem pública, como ocorreu na espécie.
+5. Habeas corpus não conhecido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de VICTOR RODRIGUES SANTOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Na origem, constata-se prisão em flagrante do paciente, convertida em preventiva, e denúncia pela suposta prática do delito previsto no art. 157, § 2º, II, do Código Penal.
+Inconformada, a defesa impetrou prévio writ no Tribunal de origem, que denegou a ordem.
+Neste habeas corpus, alega a defesa ausência de elementos concretos para a custódia cautelar. Destaca que a gravidade abstrata do delito não constitui fundamento idôneo e ser desproporcional a adoção da medida extrema, sobretudo por ser o paciente primário, de bons antecedentes, ter residência e emprego fixo.
+Requer, assim, a concessão da ordem para que seja revogada a prisão preventiva e aplicada medidas alternativas do art. 319 do CPP.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal opinou pelo não conhecimento da ordem.
+É o relatório.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO. ROUBO MAJORADO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+3. A prisão preventiva está adequadamente motivada com base em elementos concretos extraídos dos autos, diante do modus operandi da suposta conduta criminosa, indicando a periculosidade do paciente que, em concurso de agentes e mediante grave ameaça perpetrada com simulação de porte de arma de fogo, abordou vítimas para subtrair-lhe pertences. Ante a negativa da vítima em possuir bens de valor, o agente desferiu-lhe soco no rosto e subtraiu seu celular.
+4. Segundo reiterada jurisprudência desta Corte, a periculosidade do agente, evidenciada no modus operandi do delito, é fundamento idôneo para justificar a prisão preventiva, tendo como escopo o resguardo da ordem pública, como ocorreu na espécie.
+5. Habeas corpus não conhecido.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Não se observa, nestes autos, flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No caso dos autos, a segregação cautelar do paciente foi decretada pelos seguintes fundamentos:
+".. ressaltando-se que a gravidade do delito descrito no auto de prisào em flagrante, de cuja espécie a sociedade encontra-se de tempos para cá à mercê, sobressaltada, bem como os sérios indícios de que os autuados foram o seu autor, o que revela periculosidade ensejadora da custódia em nome da ordem pública.
+(..)
+Assim, tendo-se em conta que a pena 7/i abstraio" cominada é superior a 04(quatro) anos, e ainda diante da sabida nocividade do delito, bem como da necessidade de apuração da vida pregressa e vínculos com o distrito da culpa, se acham presentes os requisitos legais exigidos - garantia da ordem pública, conveniência da instrução penal e o asseguramento de eventual aplicação da lei penal, de modo que CONVERTO a prisão em flagrante em PREVENTIVA, expedindo-se os necessários mandados de prisão, sem prejuízo de posterior análise quando da conclusão do regular inquérito policial. 3- Distribua-se livremente no primeiro dia útil."
+Como se vê, a prisão preventiva está adequadamente motivada com base em elementos concretos extraídos dos autos, diante do modus operandi da suposta conduta criminosa, indicando a periculosidade do paciente que, em concurso de agentes e mediante grave ameaça perpetrada com simulação de porte de arma de fogo, abordou vítimas para subtrair-lhe pertences. Ante a negativa da vítima em possuir bens de valor, o agente desferiu-lhe soco no rosto e subtraiu seu celular.
+Segundo reiterada jurisprudência desta Corte, a periculosidade do agente, evidenciada no modus operandi do delito, é fundamento idôneo para justificar a prisão preventiva, tendo como escopo o resguardo da ordem pública, como ocorreu na espécie.
+Nesse sentido:
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. PERICULOSIDADE CONCRETA. MODUS OPERANDI. EVASÃO DO DISTRITO DA CULPA. RECORRENTE FORAGIDO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA E PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. RECURSO ORDINÁRIO DESPROVIDO.
+I - A prisão cautelar deve ser considerada exceção, já que, por meio desta medida, priva-se o réu de seu jus libertatis antes do pronunciamento condenatório definitivo, consubstanciado na sentença transitada em julgado. É por isso que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal. A prisão preventiva, portanto, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores. (HC n. 93.498/MS, SEGUNDA TURMA, Rel. Min. CELSO DE MELLO, DJe de 18/10/2012).
+II - No caso, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública e da aplicação da lei penal, notadamente se considerado o modus operandi da conduta em tese praticada, bem como a evasão do recorrente do distrito da culpa, encontrando-se foragido até o presente momento (precedentes).
+III - Condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+IV - Não é cabível a aplicação das medidas cautelares alternativas à prisão, in casu, haja vista estarem presentes os requisitos para a decretação da prisão preventiva, consoante determina o art. 282, § 6º, do Código de Processo Penal.
+Recurso ordinário desprovido" (RHC 68.156/PA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/04/2016, DJe 29/04/2016.)
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, [NOME] (CONSUMADOS E TENTADOS), EXTORSÃO, TENTATIVA DE LATROCÍNIO, FURTO QUALIFICADO E RECEPTAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE DO CRIME. MODUS OPERANDI DELITIVO. PERICULOSIDADE DO ACUSADO. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. FUNDAMENTAÇÃO IDÔNEA. OCORRÊNCIA. TESE DE LETARGIA PROCESSUAL. ACUSADO NÃO SEGREGADO. APRECIAÇÃO DA TEMÁTICA. IMPOSSIBILIDADE. ARGUMENTO DEFENSIVO NÃO APRESENTADO PERANTE O COLEGIADO ESTADUAL. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar, especialmente em elementos extraídos da conduta perpetrada pelo acusado, quais sejam, o modus operandi delitivo e a periculosidade do agente, cifrados em intrépida e audaz ação criminosa, dispondo de uma perniciosa influência intimidatória, demonstrando-se, assim, a necessidade da prisão para a garantia da ordem pública.
+2. Não estando o acusado segregado, eis que ausente do distrito da culpa, é inviável a apreciação da tese do excesso de prazo para quem nem preso está, acrescentando-se que a temática sequer fora apresentada perante o Colegiado de origem.
+3. Recurso parcialmente conhecido e, nessa extensão, negado provimento."
+(RHC 58.275/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 07/05/2015, DJe 15/05/2015.)
+Desse modo, não se verifica ilegalidade apta a justificar a concessão da ordem por esta Corte.
+Ante o exposto, não conheço do habeas corpus.
+É como voto.
