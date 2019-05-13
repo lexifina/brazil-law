@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de conflito negativo de competência envolvendo o Juízo Federal da 5ª Vara Especializada de Execuções Fiscais da Seção Judiciária do Estado de São Paulo, suscitante, e o Juízo Federal da 7ª Vara da Seção Judiciária do Distrito Federal, suscitado, relativamente ao julgamento de ação anulatória ajuizada por Tim Celular S.A. em desfavor da Fazenda Nacional.
+Em caráter preliminar, verifica-se que a ação cautelar antecedeu o feito executivo, sendo que o art. 109, § 2º, da Constituição da República faculta ao contribuinte intentar ação contra a União na Justiça Federal do Distrito Federal (juízo universal). Posteriormente, a parte propôs ação anulatória por dependência à cautelar.
+Lado outro, parece-me inviável a reunião dos processos (ação anulatória e execução fiscal) no Juízo Federal Especializado, porque este não deteria, segundo provimento da Corregedoria, competência para as ações ordinárias em geral.
+Ilustrativamente:
+PROCESSO CIVIL. CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. AÇÃO ANULATÓRIA AJUIZADA ANTERIORMENTE. CONEXÃO. NORMA DE ORGANIZAÇÃO JUDICIÁRIA. EXISTÊNCIA DE VARA ESPECIALIZADA PARA JULGAR EXECUÇÕES FISCAIS. REUNIÃO DOS PROCESSOS. IMPOSSIBILIDADE. SUSPENSÃO DA EXECUÇÃO. GARANTIA DO JUÍZO. NECESSIDADE.
+1. Cuida-se de conflito negativo de competência instaurado entre o juízo da 4a Vara Federal de Santos/SP, suscitante, e o juízo da 1a Vara Federal e Juizado Especial Cível de Foz do Iguaçu/PR, suscitado, nos autos de execução fiscal movida pela União Federal. Discute-se a possibilidade de serem reunidas execução fiscal e ação anulatória de débito precedentemente ajuizada, quando o juízo em que tramita esta última não é vara especializada em execução fiscal, nos termos consignados em norma de organização judiciária.
+2. Em tese, é possível a conexão entre a ação anulatória e a execução fiscal, em virtude da relação de prejudicialidade existente entre tais demandas, recomendando-se o simultaneus processus. Precedentes.
+3. Entretanto, nem sempre o reconhecimento da conexão resultará na reunião dos feitos. A modificação da competência pela conexão apenas será possível nos casos em que a competência for relativa e desde que observados os requisitos dos §§ 1º e 2º do art. 292 do CPC.
+4. A existência de vara especializada em razão da matéria contempla hipótese de competência absoluta, sendo, portanto, improrrogável, nos termos do art. 91 c/c 102 do CPC. Dessarte, seja porque a conexão não possibilita a modificação da competência absoluta, seja porque é vedada a cumulação em juízo incompetente para apreciar uma das demandas, não é possível a reunião dos feitos no caso em análise, devendo ambas as ações tramitarem separadamente.
+5. Embora não seja permitida a reunião dos processos, havendo prejudicialidade entre a execução fiscal e a ação anulatória, cumpre ao juízo em que tramita o processo executivo decidir pela suspensão da execução, caso verifique que o débito está devidamente garantido, nos termos do art. 9º da Lei 6.830/80.
+6. Conflito conhecido para declarar a competência do juízo suscitado.
+(CC 106.041/SP, Rel. Min. CASTRO MEIRA, PRIMEIRA SEÇÃO, julgado em 28/10/2009, DJe 9/11/2009)
+Ante o exposto, considerando o teor do art. 955 do CPC/2015, designo o Juízo suscitado para a apreciação das medidas urgentes relacionadas à ação anulatória, até ulterior deliberação.
+Após a expedição de ofício, dê-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
