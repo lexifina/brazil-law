@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de [NOME] ALVES DA SILVA, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0004848-62.2017.8.26.0510).
+Infere-se dos autos que o paciente foi condenado, em primeiro grau, a 5 anos de reclusão, em regime inicialmente fechado, pela prática do delito de tráfico de drogas (art. 33, caput, da Lei n. 11.343/06).
+Em apelação da defesa, foi aplicada a minorante do §4º da Lei de Drogas e reduzida a pena para 3 anos e 4 meses de reclusão, em regime inicial semiaberto.
+No presente writ, a impetrante sustenta, em síntese, que o ora paciente preenche todos os requisitos para a fixação do regime aberto e substituição da pena por restritivas de direitos.
+Indeferido o pedido de liminar e dispensadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ (fl. 87).
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do ora paciente, capaz de justificar a concessão da ordem de ofício.
+No caso, a sentença condenatória fixou o regime fechado e o Tribunal a quo o semiaberto, sob os seguintes fundamentos:
+ ..
+Desta forma, em conformidade com o posicionamento que tem prevalecido na Corte Suprema e na Superiora, é preciso modificar o regime prisional imposto. Consequentemente, revendo posicionamento anterior e cedendo à orientação jurisprudencial dos Tribunais Superiores, fixo o regime inicial semiaberto para a execução da pena privativa de liberdade, levando em consideração, especialmente, a variedade e quantidade significativa de entorpecente apreendido.
+Pelos mesmos motivos, não se mostra socialmente adequada a substituição da pena privativa de liberdade por restritivas de direitos, pois demasiadamente branda diante das características do caso em apreço, especialmente a grande quantidade de droga apreendida, já referida no parágrafo anterior.(fl. 76).
+Embora a pena não tenha ultrapassado 4 anos, o regime semiaberto mostra-se mais adequado à maior gravidade do delito, evidenciada pela quantidade, natureza e variedade de drogas apreendidas - "trazia consigo 62 eppendorfs contendo cocaína, com peso líquido aproximado de 13,7g, e 09 porções de maconha, com peso liquido de aproximadamente 156,10g, bem como guardava e tinha em depósito outras 39 porções de maconha, totalizando aproximadamente 2.877,8g" (fl. 71). Tais elementos afastam ainda a possibilidade de substituição da pena por restritivas de direitos.
+Quanto ao tema, os seguintes julgados:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. PENA INFERIOR A 4 ANOS. PENA-BASE NO MÍNIMO LEGAL. REGIME FECHADO. GRAVIDADE CONCRETA DO DELITO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. POSSIBILIDADE DE FIXAÇÃO DE REGIME PRISIONAL INTERMEDIÁRIO.  ..  ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+In casu, em razão de as circunstâncias judiciais serem favoráveis (art. 59 do Código penal - CP), de a pena-base ter sido fixada no mínimo legal e de a pena aplicada ser inferior a 4 anos (art. 33, § 2º, alínea "c", do CP), caberia a fixação do regime inicial aberto. Todavia, a diversidade, natureza e variedade dos entorpecentes (art. 42 da Lei n. 11.343/06) - 59 pinos de cocaína (37,8 gramas), 13 pacotes plásticos que continham pinos de plástico de crack (234,5 gramas), 1.297 papelotes plásticos de maconha (3,942 gramas) e 19 embalagens plásticas de maconha (3.030 gramas) - é fundamentação idônea para justificar a imposição do regime inicial mais gravoso, mas que, no caso é o semiaberto, de acordo com o disposto no § 3º do art. 33 do CP e em consonância com a jurisprudência desta Quinta Turma.
+ ..
+Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial semiaberto, bem como determinar que o Juízo das Execuções considere a possibilidade da detração.
+(HC 384.990/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 04/09/2017)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. PACIENTE CONDENADO À PENA DE 2 ANOS E 6 MESES DE RECLUSÃO. PLEITO DE AUMENTO DA FRAÇÃO REDUTORA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. NOCIVIDADE DA DROGA APREENDIDA QUE JUSTIFICA A FRAÇÃO INTERMEDIÁRIA (1/2) UTILIZADA. REGIME PRISIONAL FECHADO. PENA INFERIOR A 4 ANOS. QUANTIDADE E QUALIDADE DA DROGA. POSSIBILIDADE DE FIXAÇÃO DE REGIME INTERMEDIÁRIO. SUBSTITUIÇÃO DA PENA. CIRCUNSTÂNCIAS DO CASO CONCRETO QUE NÃO RECOMENDAM O BENEFÍCIO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+- Para a imposição de regime prisional mais gravoso do que a pena comporta, é necessária fundamentação específica, com base em elementos concretos extraídos dos autos. Inteligência das Súmulas 440/STJ e 718 e 719 do STF.
+- Nos termos do entendimento firmado por esta Corte Superior de Justiça, a quantidade, a natureza e a variedade da droga apreendida constituem fundamento idôneo a justificar a imposição do regime mais severo. Na hipótese, o acórdão recorrido fundamentou a necessidade do regime fechado com base na quantidade e na nocividade da droga apreendida.
+- Embora válido o fundamento para o recrudescimento do regime prisional, não se justifica a imposição do regime inicial fechado, ao réu primário, condenado à pena reclusiva não superior a 4 anos (pena de 2 anos e 6 meses de reclusão), cuja pena-base foi estabelecida no mínimo legal, fazendo jus o paciente ao regime intermediário, qual seja, o semiaberto. Precedentes desta Corte.
+- Ainda que o quantum de pena fixado seja inferior a 4 (quatro) anos, a quantidade e a nocividade do entorpecente apreendido não recomendam a substituição da pena privativa de liberdade por penas restritivas de direitos. Precedentes.
+- Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial semiaberto.
+(HC 309.921/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/04/2016, DJe 13/04/2016)
+PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. DOSIMETRIA. IMPOSIÇÃO DO REGIME INICIAL FECHADO E NEGATIVA DE SUBSTITUIÇÃO DAS PENAS NATUREZA. PREVISÕES LEGAIS DECLARADAS INCONSTITUCIONAIS PELO STF. FUNDAMENTO TAMBÉM COM BASE NA QUANTIDADE E NATUREZA DA DROGA APREENDIDA (99 INVÓLUCROS CONTENDO APROXIMADAMENTE 20 GRAMAS DE COCAÍNA). FIXAÇÃO DO REGIME FECHADO. CONDENAÇÃO NÃO SUPERIOR A 4 ANOS. RÉU PRIMÁRIO. PENA-BASE NO MÍNIMO. FUNDAMENTO CONCRETO PARA A FIXAÇÃO DO REGIME MAIS GRAVOSO - O SEMIABERTO - E NÃO O FECHADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. Nos termos do entendimento firmado pelo STJ, a quantidade, a natureza e a variedade da droga apreendida constituem fundamento idôneo a justificar tanto a imposição do regime mais severo, quanto o indeferimento da substituição das penas, inexistindo, portanto, ilegalidade a ser sanada. Precedentes.
+4. Embora válido o fundamento para o recrudescimento do regime prisional, não se justifica a imposição do regime inicial fechado, ao réu primário, condenado à pena reclusiva não superior a 4 anos - 2 anos e 6 meses - cuja pena-base foi estabelecida no mínimo legal, fazendo jus o paciente ao regime semiaberto.
+5. Habeas corpus não conhecido. Ordem concedida de ofício para estabelecer o regime semiaberto para o cumprimento da pena reclusiva.
+(HC 338.541/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/11/2015, DJe 07/12/2015).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
