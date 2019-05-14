@@ -1,0 +1,101 @@
+EMENTA
+TRIBUTÁRIO. REGIME ESPECIAL DE REINTEGRAÇÃO DE VALORES TRIBUTÁRIOS PARA AS EMPRESAS EXPORTADORAS - REINTEGRA. PERCENTUAL DETERMINANTE PARA O CÁLCULO DO BENEFÍCIO FISCAL. DELEGAÇÃO LEGISLATIVA AO PODER EXECUTIVO. CRITÉRIO TEMPORAL. POSSIBILIDADE.
+1. O crédito do REINTEGRA é benefício fiscal, caracterizado por transferência financeira a entidade privada para o custeio de atividade econômica setorial, daí por que se trata de espécie de subvenção econômica.
+2. O art. 22, § 1º, da Lei n. 13.043/2014 determina que o Poder Executivo estabeleça o fator percentual de cálculo do valor do crédito, o qual pode variar entre 0,1% e 3%, tendo o art. 2º, § 7º, do Decreto n. 8.415/2015 (já modificado pelos Decretos n. 8.543/2015, n. 9.148/2017 e n. 9.393/2018) estabelecido fatores (percentuais) a serem observados em determinados períodos de tempo.
+3. O decreto regulamentar não extrapola os limites da delegação, que autoriza a variação do percentual conforme a necessidade apurada pelo Poder Executivo.
+4. O fim buscado pelo legislador com o REINTEGRA depende de estudo administrativo para especificação do momento em que as exportações necessitam do estímulo por meio da subvenção, qual deve ser a sua medida e quais bens merecem maior ou menor incentivo, daí a previsão legal de aceitação da diferenciação das alíquotas por espécies de bem.
+5. O critério temporal, entre outros, é relevante para a dinâmica própria do mercado de exportação, e sua estipulação decorre da discricionariedade técnica que é exigida do regulamento.
+6. A fixação de percentuais variáveis, por períodos, não extrapola o comando do art. 22, § 1º, da Lei n. 13.043/2014.
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de recurso especial interposto por VANCOUROS INDÚSTRIA E COMÉRCIO DE COUROS LTDA. e INDÚSTRIA E COMÉRCIO DE COUROS BRITALI LTDA. contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+MANDADO DE SEGURANÇA. REINTEGRA. DECRETO 8.415, DE 2015. REDUÇÃO DA ALÍQUOTA DE 3% PARA 1%. PRINCÍPIOS DA ANTERIORIDADE NONAGESIMAL. INAPLICABILIDADE.
+Tratando-se o REINTEGRA de benefício fiscal representativo de medida de política econômica do Estado, sua revisão ou revogação não está adstrita à observância das regras de anterioridade tributária previstas na Constituição Federal. Desse modo, inexiste vício no Decreto n. 8.415, de 2015, que reduz o percentual de crédito sobre a receita das exportação de 3% para 1%.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação dos arts. 9º, 97, 99 e 110 do Código Tributário Nacional e do art. 22, § 1º, da Lei n. 13.043/2014, sustentando (e-STJ fls. 1.085/1.090):
+4. Ocorre, Excelências, que contrariando a legislação e os motivos que levaram à instituição do REINTEGRA, em flagrante abuso de poder regulamentar, ofendendo aos princípios constitucionais da legalidade e da anterioridade, em 27 de fevereiro de 2015 foi publicado o Decreto n. 8.415, o qual ilegalmente limitou direito legalmente instituído, ao estabelecer restrição ao crédito passível de recuperação pautada em critério temporal, em detrimento ao critério legalmente estabelecido.
+Assim, conforme demonstrado pela impetração originária, Excelências, as limitações incluídas no parágrafo 7º do art. 2º do Decreto n. 8.415/2015 estão em desacordo com a lei instituidora do REINTEGRA, e, portanto, deveriam ser afastadas, sendo permitido o percentual de crédito definido pelo caput do art. 2º, nos termos legalmente estabelecidos, vedada qualquer inovação regulamentar ao ordenamento pátrio, sendo este o objeto da impetração originária.
+ ..
+12. Apesar de a única possibilidade de diferenciação dos percentuais prevista em lei ser em função da natureza do bem exportado, o que se entende plenamente justificável pela diferente carga tributária incidente no Brasil sobre cada produto, o Poder Executivo deturpou referida previsão, criando limitadores ao crédito que estão em desacordo com a lei instituidora.
+Isto porque o art. 2º, parágrafo 7º, do Decreto n. 8.415/2015 (atual regulamento do REINTEGRA) criou um critério temporal para diferenciação do percentual de recuperação de créditos tributários - o que não se coaduna com a sistemática prevista na Lei n. 13.043/2014.
+ ..
+13. Como se pode notar, o Poder Executivo, de forma incompatível com a legislação de regência, deturpa o conceito do REINTEGRA (restituição de resíduos tributários da cadeira produtiva) em virtude da situação macroeconômica brasileira, vinculando o montante passível de recuperação pelos contribuintes ao fluxo de caixa do governo federal:
+Alega, ainda, inobservância do princípio da anterioriedade tributária (e-STJ fls. 1.096/1.097):
+18. Como é sabido, a norma que revoga benefício fiscal, ou mesmo a norma que o limita, tal como a previsão do art. 2º, parágrafo 7º, do Decreto n. 8.415/2015, e sua redação original e inovação pelo advento do Decreto 8.543/2015, que reduziu o crédito na forma em que anteriormente previsto, configura aumento indireto de imposto, portanto, sujeita-se assim ao princípio da anterioridade tributária, sendo aplicável o disposto nos artigos 150 e 195 da Constituição Federal de 1988, que disciplinam:
+ ..
+Ora, a qualidade do crédito passível de recuperação pelo REINTEGRA está atrelada à previsão do § 5º do artigo 22 da Lei n. 13.043/2014, que prevê que os valores devolvidos correspondem à Contribuição para o Programa de Integração Social (PIS/Pasep) e à Contribuição para Financiamento da Seguridade Social (COFINS):
+ ..
+Considerando-se que o crédito apurado no âmbito do REINTEGRA afeta diretamente os valores de PIS/Pasep e COFINS, a redução do seu percentual de fato configura aumento indireto dos referidos tributos, e portanto deve obrigatoriamente respeitar a anterioridade nonagesimal aplicável às contribuições em comento - o que não ocorreu na prática, já que o Decreto n. 8.415/2015 foi publicado em 27 de fevereiro de 2015, e o novo percentual de 1% foi aplicado a partir de 1º de março de 2015 (apenas dois dias após a sua publicação), com sucessiva publicação do Decreto n. 8.543/2015, publicado em 22 de outubro de 2015, com aplicação do novo percentual de 0,1% a partir de 1º de dezembro de 2015.
+Contrarrazões apresentadas pela FAZENDA NACIONAL, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento, pontuando: "o que houve foi uma modificação num incentivo fiscal, consistente em um crédito que pode ser compensado com tributos diversos ou ressarcido em espécie. Assim, a redução, especificamente, desse beneficio fiscal é questão vinculada à política econômica, cuja alteração não depende de submissão ao princípio da anterioridade, ainda que, reflexamente, possa acarretar aumento da carga fiscal. Reitera-se, aqui, o precedente acima transcrito desse Colendo STF no sentido de que "a revisão ou extinção de um benefício fiscal, que por se tratar de política econômica que pode ser revista a qualquer momento pelo Estado, não está restrita à observância dos princípios constitucionais da anterioridade e da irretroatividade" (Al 783509 AgR/SP, Min. RICARDO LEWANDOWSKI, Primeira Turma, julgado em 19/10/2010)" (e-STJ fl. 1.154).
+Recursos especial e extraordinário admitidos na origem.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. REGIME ESPECIAL DE REINTEGRAÇÃO DE VALORES TRIBUTÁRIOS PARA AS EMPRESAS EXPORTADORAS - REINTEGRA. PERCENTUAL DETERMINANTE PARA O CÁLCULO DO BENEFÍCIO FISCAL. DELEGAÇÃO LEGISLATIVA AO PODER EXECUTIVO. CRITÉRIO TEMPORAL. POSSIBILIDADE.
+1. O crédito do REINTEGRA é benefício fiscal, caracterizado por transferência financeira a entidade privada para o custeio de atividade econômica setorial, daí por que se trata de espécie de subvenção econômica.
+2. O art. 22, § 1º, da Lei n. 13.043/2014 determina que o Poder Executivo estabeleça o fator percentual de cálculo do valor do crédito, o qual pode variar entre 0,1% e 3%, tendo o art. 2º, § 7º, do Decreto n. 8.415/2015 (já modificado pelos Decretos n. 8.543/2015, n. 9.148/2017 e n. 9.393/2018) estabelecido fatores (percentuais) a serem observados em determinados períodos de tempo.
+3. O decreto regulamentar não extrapola os limites da delegação, que autoriza a variação do percentual conforme a necessidade apurada pelo Poder Executivo.
+4. O fim buscado pelo legislador com o REINTEGRA depende de estudo administrativo para especificação do momento em que as exportações necessitam do estímulo por meio da subvenção, qual deve ser a sua medida e quais bens merecem maior ou menor incentivo, daí a previsão legal de aceitação da diferenciação das alíquotas por espécies de bem.
+5. O critério temporal, entre outros, é relevante para a dinâmica própria do mercado de exportação, e sua estipulação decorre da discricionariedade técnica que é exigida do regulamento.
+6. A fixação de percentuais variáveis, por períodos, não extrapola o comando do art. 22, § 1º, da Lei n. 13.043/2014.
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 1.019/1.022):
+O caso cinge-se em definir se o princípio da anterioridade nonagesimal (CF, art. 150, III, "c") incide sobre norma que reduz benefício fiscal.
+Pois bem. O art. 22 da Lei nº 13.043, de 2014, instituiu o REINTEGRA (Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras), o qual prevê que a pessoa jurídica poderá apurar crédito, mediante a aplicação de percentual estabelecido pelo Poder Executivo, sobre a receita auferida com a exportação de determinados bens. Ainda, esse dispositivo previu que esse percentual poderia variar entre 0,1% e 3% (§1º daquele dispositivo).
+No entanto, em 27-02-2015, por meio do Decreto nº 8.415, de 2015, aquele percentual foi delimitado em 1% para o período de 1º de março de 2015 a 31 de dezembro de 2016, entrando em vigor na data de sua publicação, mas produzindo efeitos a partir de 14-11-2014. Confira-se:
+Art. 2º A pessoa jurídica que exporte os bens de que trata o art. 5º poderá apurar crédito, mediante a aplicação do percentual de 3% (três por cento), sobre a receita auferida com a exportação desses bens para o exterior.
+ ..
+§ 7º O percentual de que trata o caput será de:
+I - 1% (um por cento), entre 1º de março de 2015 e 31 de dezembro de 2016;
+ ..
+Art. 10. Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 14 de novembro de 2014.
+Atualmente, com a publicação do Decreto nº 8.543, de 2015, o percentual de 1% foi restringido ao período de 1º de março de 2015 a 30 de novembro de 2015 (Decreto nº 8.415, de 2015, art. 1º).
+Como se observa, o REINTEGRA é um benefício fiscal que objetiva restituir parcela do resíduo tributário remanescente na cadeia de produção de bens exportados, representando, portanto, medida de política econômica adotada pelo Estado. Diante disso, não incide o princípio da anterioridade nonagesimal, porquanto, consoante jurisprudência de longa data do Supremo Tribunal Federal, os postulados da anterioridade anual e da anterioridade nonagesimal estão circunscritos às hipóteses de instituição e majoração de tributos (AgR-AgR ARE nº 682.631, 1ª Turma, Relator Min. Roberto Barroso, DJe-082 de 02-05-2014), o que não é caso dos autos.
+Ademais, em relação a impossibilidade de incidência do princípio da anterioridade sobre a redução ou a revogação de benefício fiscal representativo de medida de política econômica, já se manifestou o Supremo Tribunal Federal:
+ ..
+Por outro lado, é certo que o princípio da anterioridade aplica-se também às hipóteses de extinção ou redução de isenções (Código Tributário Nacional, art. 104), conforme defende parte expressiva da doutrina (AMARO, Luciano. Direito Tributário Brasileiro, 10ª ed., São Paulo, Saraiva, 2004, p. 123 e 277-79; SCHOUEIRI, Luís Eduardo. Direito Tributário. 3ª ed., São Paulo, Saraiva, 2013, p. 652-56; TORRES, Ricardo Lobo. Tratado de Direito Constitucional, Financeiro e Tributário, vol. II. Rio de Janeiro, Renovar, 2005, p. 561), mas não é disso que se cuida no caso dos autos, que versa sobre créditos presumidos.
+Portanto, por não se qualificar a redução de benefício fiscal como instituição ou majoração de tributos, nem como isenção propriamente dita, não se subsume a limitação imposta pelo art. 150, III, "c" da CF, ao art. 2º, §7º, I do Decreto nº 8.415, de 2015.
+Ademais, não há falar em surpresa ao contribuinte pela fixação do percentual de crédito em 1% pelo Decreto nº 8.415, de 2015, porquanto a Lei nº 13.043, de 2014, já previa que aquele percentual poderia variar de 0,1% a 3%, de acordo com a discricionariedade do Poder Executivo.
+Impõe-se, pois, a reforma da sentença para denegar o presente mandado de segurança.
+Ante o exposto, voto por dar provimento à apelação e à remessa necessária. (Grifos acrescidos).
+A sociedade empresária, então, opôs embargos de declaração, alegando que "o acórdão incorre em omissão, na medida em que se restringe à análise da aplicação do princípio da anterioridade nonagesimal quando da revogação de benefício, pedido este sucessivo declinado em exordial, tido por prejudicado na medida em que houve julgamento pela integral procedência do pedido principal originário" (e-STJ fl. 1.040).
+Todavia, o recurso integrativo foi rejeitado, sem acréscimo.
+Pois bem.
+O recurso não pode ser conhecido quanto à pretensão relacionada ao princípio da anterioridade, uma vez que o acórdão recorrido, na parte, tem fundamentação constitucional, cuja revisão não compete a este Tribunal Superior, nos termos do art. 105, III, da Constituição Federal.
+Quanto ao critério temporal do regulamento, convém anotar, de início, que o trecho do acórdão "não há falar em surpresa ao contribuinte pela fixação do percentual de crédito em 1% pelo Decreto nº 8.415, de 2015, porquanto a Lei nº 13.043, de 2014, já previa que aquele percentual poderia variar de 0,1% a 3%, de acordo com a discricionariedade do Poder Executivo" é suficiente ao prequestionamento da matéria, vinculada à tese de violação do art. 99 do CTN e do art. 22, § 1º, da Lei n. 13.043/2014.
+De fato, a controvérsia submetida a julgamento consiste em saber se é possível o decreto regulamentador estabelecer a alíquota de cálculo do crédito por período de tempo, e não por espécie de bem exportado, como, em tese, autorizaria a lei.
+O art. 22 da Lei n. 13.043/2014 dispõe:
+Art. 22. No âmbito do Reintegra, a pessoa jurídica que exporte os bens de que trata o art. 23 poderá apurar crédito, mediante a aplicação de percentual estabelecido pelo Poder Executivo, sobre a receita auferida com a exportação desses bens para o exterior.
+§ 1º O percentual referido no caput poderá variar entre 0,1% (um décimo por cento) e 3% (três por cento), admitindo-se diferenciação por bem. (Grifos acrescidos).
+Por sua vez, o art. 2º, § 7º, do Decreto n. 8.415/2015 (já modificado pelos Decretos n. 8.543/2015, n. 9.148/2017 e n. 9.393/2018) estabeleceu:
+§ 7º. O percentual de que trata o caput será de:
+I - 1% (um por cento), entre 1º de março de 2015 e 31 de dezembro de 2016;
+I - 1% (um por cento), entre 1º de março de 2015 e 30 de novembro de 2015; (Redação dada pelo Decreto nº 8.543, de 2015)
+II - 2% (dois por cento), entre 1º de janeiro de 2017 e 31 de dezembro de 2017; e
+II - 0,1% (um décimo por cento), entre 1º de dezembro de 2015 e 31 de dezembro de 2016; (Redação dada pelo Decreto nº 8.543, de 2015)
+II - 0,1% (um décimo por cento), entre 1º de dezembro de 2015 e 31 de dezembro de 2016; e (Redação dada pelo Decreto nº 9.148, de 2017)
+II - um décimo por cento, entre 1º de dezembro de 2015 e 31 de dezembro de 2016; (Redação dada pelo Decreto nº 9.393, de 2018)
+III - 3% (três por cento), entre 1º de janeiro de 2018 e 31 de dezembro de 2018.
+III - 2% (dois por cento), entre 1º de janeiro de 2017 e 31 de dezembro de 2017; e (Redação dada pelo Decreto nº 8.543, de 2015)
+III - 2% (dois por cento), entre 1º de janeiro de 2017 e 31 de dezembro de 2018. (Redação dada pelo Decreto nº 9.148, de 2017)
+III - dois por cento, entre 1º de janeiro de 2017 e 31 de maio de 2018; e (Redação dada pelo Decreto nº 9.393, de 2018)
+IV - 3% (três por cento), entre 1º de janeiro de 2018 e 31 de dezembro de 2018. (Incluído pelo Decreto nº 8.543, de 2015 e revogado pelo Decreto nº 9.148, de 2017)
+IV - um décimo por cento, a partir de 1º de junho de 2018 (Redação dada pelo Decreto nº 9.393, de 2018)
+§ 8º Ato do Poder Executivo poderá rever as alíquotas de que trata o § 7º, observada a evolução macroeconômica do país.
+Para registro, semelhante técnica já previa o art. 2º da Lei n. 12.546/2011, que determinava: "o Poder Executivo poderá fixar o percentual de que trata o § 1º entre zero e 3% (três por cento), bem como poderá diferenciar o percentual aplicável por setor econômico e tipo de atividade exercida."
+Percebe-se que o legislador delegou ao Poder Executivo a estipulação de percentual variável para determinação do valor do crédito do benefício fiscal e, concomitantemente, previu a possibilidade de a variação se dar por espécie de bem.
+Não se trata, pois, de delegação para fixação de alíquota de tributo, mas de fator para o cálculo do benefício fiscal, que tem por fim "anular", parcialmente ou integralmente, o resíduo tributário remanescente na cadeia de produção de bens exportados, como dispõe o art. 21 da Lei n. 13.043/2014.
+O crédito do REINTEGRA é benefício fiscal, caracterizado por transferência financeira a entidade privada para o custeio de atividade econômica setorial, daí porque se trata de espécie de subvenção econômica. Por isso, a expressão "devolver resíduo tributário", constante do art. 21, não se refere aos tributos efetivamente recolhidos.
+Nesse contexto, atento ao comando legal, penso que o decreto regulamentar não extrapola os limites da delegação, visto que o benefício tem por objeto "proporcionar às empresas exportadoras igualdade de condições em ambiente de competição cada vez mais acirrada, dentro de um cenário de crise econômica mundial" (exposição de motivos da MP n. 651/2004).
+É que o fim buscado pelo legislador com o REINTEGRA realmente depende de estudo administrativo para especificação do momento em que as exportações necessitam do estímulo por meio da subvenção, qual deve ser a sua medida e quais bens merecem maior ou menor incentivo, daí a previsão legal de aceitação da diferenciação das alíquotas por espécies de bem.
+Ao lado da expressa autorização legal, convém observar que a dinâmica própria do mercado de exportação é determinada por fatores diversos, como consumo mundial ou do mercado-alvo, estratégia mercadológica, ondas de consumo, barreiras comerciais etc., e o critério temporal é um deles.
+Assim, nem sempre as exportações necessitam de incentivo uniforme, por prazo certo e em valor previamente determinado, pois as regras do mercado internacional não ficam dependentes das diversas condicionantes a que estão submetidos os produtores-exportadores brasileiros.
+A fixação do critério temporal decorre, pois, da discricionariedade técnica que é exigida do regulamento.
+Nessa linha, a estipulação de percentuais variáveis, por períodos de tempo, não extrapola o comando do art. 22, § 1º, da Lei n. 13.043/2014, que, na verdade, autoriza a variação do percentual conforme necessidade apurada pelo Poder Executivo.
+Ante o exposto, conheço, em parte, do recurso especial e NEGO-LHE PROVIMENTO.
+É como voto.
