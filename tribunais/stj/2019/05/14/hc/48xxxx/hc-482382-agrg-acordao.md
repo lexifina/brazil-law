@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR DUAS RESTRITIVAS DE DIREITOS. PRETENSÃO DE CONVERSÃO DA PENA CORPORAL EM UMA PENA SUBSTITUTIVA E MULTA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Nos termos da jurisprudência consolidada por esta Corte Superior, Não se mostra socialmente recomendável a aplicação de uma nova pena de multa, em caráter substitutivo, no caso de o preceito secundário do tipo penal possuir previsão de multa cumulada com a pena privativa de liberdade, devendo-se privilegiar a incidência de duas medidas restritivas de direitos nessa hipótese." (HC 470.920/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 15/10/2018).
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática de fls. 448-451 que concedeu o habeas corpus apenas para garantir à paciente, ora agravante, o direito de que não seja executada provisoriamente a pena restritiva de direitos até o trânsito em julgado da sentença condenatória.
+Alega a defesa, em síntese, que o Verbete Sumular de n. 171/STJ não mais se aplica desde a revogação da antiga Lei de Drogas (Lei 6.368/76), no que toca à substituição da pena corporal por multa.
+Nessa seara, aduz que, diante da ausência de fundamentação concreta e válida, torna-se imperativa a solução mais favorável à paciente, vale dizer, a substituição da pena de reclusão por uma restritiva de direitos e uma multa, até porque, nos termos do inc. I do art. 59 do CP, todas as circunstâncias judiciais foram valoradas em favor da paciente (fl. 460).
+Requer, assim, o provimento do recurso para fins de reforma da decisão atacada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão agravada foi assim fundamentada (fls. 449-451):
+Conforme relatado, a defesa busca a substituição da pena privativa de liberdade por uma restritiva de direitos e multa, em lugar de duas penas restritivas de direitos.
+Quanto ao ponto, o magistrado sentenciante assim se pronunciou (fl. 165):
+SUBSTITUO a pena privativa de liberdade imposta por duas restritivas de direitos, quais sejam, prestação de serviços à comunidade, à razão de 01 (uma) hora por dia de condenação, além da prestação pecuniária no valor de 01 (um) salário mínimo, relegando-se a designação das instituições beneficiadas para a execução penal.
+A Corte de origem, em sede de apelação, não se manifestou a respeito do tema. Opostos embargos de declaração, o Tribunal a quo entendeu que (fls. 292/293, com destaque):
+O embargante, inicialmente, sustenta omissão em relação ao pleito defensivo no que tange à adequação da pena substitutiva. De fato, a decisão ora embargada, em virtude de possível equívoco de compreensão, não conheceu do recurso no ponto, pelo que deve ser sanada a omissão.
+Entretanto, ainda que possua razão quanto à necessidade de analisar a tese ignorada no acórdão combatido, no mérito, a questão deve ser afastada.
+A escolha das penas restritivas de direito, em substituição às reprimendas corporais, encontra-se na esfera de discricionariedade do Magistrado sentenciante, motivo pelo qual não comporta ao Acusado escolher aquela que mais lhe convém.
+(..)
+Desta forma, inviável o acolhimento da pretensão defensiva, pelo que se mantém a sentença inalterada no ponto.
+Da leitura dos excertos supratranscritos, constata-se que a Corte estadual manteve a substituição da pena corporal por duas restritivas de direito, quais sejam, prestação de serviços à comunidade e prestação pecuniária, além da pena de multa já prevista na cominação do próprio tipo penal.
+Com efeito, nos termos do enunciado da Súmula n. 171/STJ, cominadas cumulativamente, em lei especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa.
+Na hipótese, o preceito secundário do art. 33 da Lei 11.343/06 prevê a aplicação de pena privativa de liberdade e multa cumulativamente, inexistindo constrangimento ilegal a ser sanado, portanto. Veja-se, a propósito:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PENAL E PROCESSO PENAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR DUAS RESTRITIVAS DE DIREITOS. PRETENSÃO DE CONVERSÃO DA PENA CORPORAL EM UMA PENA SUBSTITUTIVA E MULTA. IMPOSSIBILIDADE. PRETENSÃO DEDUZIDA EM DESACORDO COM A SÚMULA 171 DESTA CORTE. RECURSO ESPECIAL IMPROVIDO.
+1. Em se tratando de delito previsto em lei especial, constando do preceito secundário do tipo a cominação cumulativa de pena privativa de liberdade com pena pecuniária, inviável a substituição da pena corporal por multa. Inteligência da Súmula 171 do STJ.
+2. Agravo regimental improvido." (AgRg no REsp 1750730/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/8/2018, DJe 28/8/2018.)
+No que se refere ao pedido de suspensão da execução da pena restritiva de direitos até o trânsito em julgado da condenação, tem-se a confirmação do deferimento liminar.
+A Sexta Turma desta Corte, ao apreciar os EDcl no REsp 1.484.413/DF e no REsp 1.484.415/DF, na sessão de 3/3/2016, adotou orientação, fixada pelo Pleno do Supremo Tribunal Federal (HC 126.292/MG, de 17/2/2016), de que a execução provisória da condenação penal, na ausência de recursos com efeito suspensivo, não viola o princípio constitucional da presunção da inocência.
+Entretanto, ao analisar o caso em apreço, consta que a pena privativa de liberdade foi substituída por pena restritiva de direitos, qual seja, a prestação de serviços à comunidade.
+Referente ao assunto, ressalvada pessoal compreensão diversa, a Terceira Seção, no julgamento do REsp 1.619.087/SC, na sessão de 14/6/2017, adotou orientação quanto à impossibilidade de execução provisória de pena restritiva de direitos, de modo que esta só poderá ser executada após trânsito em julgado da sentença penal condenatória, nos estritos termos do art. 147 da Lei de Execução Penal.
+Ante o exposto, concedo o habeas corpus apenas para garantir ao paciente o direito de que não seja executada provisoriamente a pena restritiva de direitos até o trânsito em julgado da sentença condenatória.
+Como se vê, a decisão agravada não merece reparos, porquanto proferida em consonância com o entendimento consolidado por esta Corte, no sentido de que Não se mostra socialmente recomendável a aplicação de uma nova pena de multa, em caráter substitutivo, no caso de o preceito secundário do tipo penal possuir previsão de multa cumulada com a pena privativa de liberdade, devendo-se privilegiar a incidência de duas medidas restritivas de direitos nessa hipótese (HC 470.920/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 15/10/2018). No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT INDEFERIDO LIMINARMENTE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. ESCOLHA FUNDAMENTADA DO MAGISTRADO. AUSÊNCIA DE DIREITO DE ESCOLHA PELO RÉU. AUSÊNCIA DE RISCO À LIBERDADE DE LOCOMOÇÃO POR ATO ILEGAL. POSSIBILIDADE DE CUMULAÇÃO DE DUAS PENAS RESTRITIVAS DE DIREITO COM A MULTA PREVISTA CUMULATIVAMENTE. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência consolidada por esta Corte Superior, não existe direito subjetivo do réu em optar, na substituição da pena privativa de liberdade por restritiva de direitos, se prefere a duas penas restritivas de direito ou uma restritiva de direitos e uma multa.
+Desse modo, não há falar em constrangimento ilegal que gere risco a liberdade de locomoção do paciente que justifique a concessão da ordem de habeas corpus de ofício.
+2. "Não se mostra socialmente recomendável a aplicação de uma nova pena de multa, em caráter substitutivo, no caso de o preceito secundário do tipo penal possuir previsão de multa cumulada com a pena privativa de liberdade, devendo-se privilegiar a incidência de duas medidas restritivas de direitos nessa hipótese." (HC 470.920/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 15/10/2018) 3. Agravo Regimental desprovido. (AgRg no HC 456.224/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/03/2019, DJe 01/04/2019).
+Dessarte, nada a ser alterado na decisão monocrática agravada, que deve ser mantida por seus próprios fundamentos.
+Ante o exposto, voto por negar provimento ao agravo regimental.
