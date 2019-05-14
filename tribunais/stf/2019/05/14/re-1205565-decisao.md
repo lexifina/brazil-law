@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Distrito Federal. Aparelhado o recurso na afronta ao art. 150, § 7º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O Tribunal de origem aplicou o entendimento firmado por esta Suprema Corte no julgamento do RE 593.849-RG (Tema 201/STF), cuja tese dispõe: “É devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços – ICMS pago a mais no regime de substituição tributária para a frente se a base de cálculo efetiva da operação for inferior à presumida”.
+    Insurge-se a parte recorrente contra a forma de restituição determinada pelo acórdão recorrido, arguindo que “o Supremo Tribunal Federal não definiu como seria feita a devolução do que recolhido a maior, antes e unicamente que a restituição deveria ser operada”.
+    Não prospera o recurso, porquanto o Plenário desta Casa, ao apreciar os embargos de declaração manejados no citado paradigma, firmou entendimento segundo o qual “A análise da matéria submetida à sistemática da repercussão geral possui caráter geral e amplo, de modo a não ser missão da Corte Constitucional resolver detalhes subsidiários ou sucessivos da lide, notadamente aqueles de estatura infraconstitucional”. A ementa restou assim redigida:
+    “EMBARGOS DECLARATÓRIOS EM RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA. ESCRITURAÇÃO FISCAL. COMPENSAÇÃO COM DÉBITOS RECOLHIDOS POR TERCEIROS. 1. Inexiste omissão da decisão quanto ao pedido, dado que o acórdão comporta comando suficiente para a satisfação executiva da pretensão da parte Embargante. 2. Há compreensão iterativa do STF segundo a qual questões relativas ao critério de compensação tributária encontram-se no âmbito infraconstitucional. Precedentes: AI-AgR 617806, de relatoria do Ministro Joaquim Barbosa, Segunda Turma, DJe 22.06.2012; RE-ED 327677, de relatoria do ministro Gilmar Mendes, Segunda Turma, DJ 26.05.2006. 3. A análise da matéria submetida à sistemática da repercussão geral possui caráter geral e amplo, de modo a não ser missão da Corte Constitucional resolver detalhes subsidiários ou sucessivos da lide, notadamente aqueles de estatura infraconstitucional. Precedente: RE-QO 593.995, de relatoria do Ministro Joaquim Barbosa, Tribunal Pleno, DJe 17.06.2014. 4. Embargos de declaração rejeitados.” (RE 593.849-ED, Rel. Min. Edson Fachin, Tribunal Pleno, DJe 21.11.2017)
+    De mais a mais, compreensão diversa do entendimento adotado pelo Tribunal de origem demandaria o revolvimento da moldura fática delineada no acórdão recorrido, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279/STF.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal.
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de maio de 2019.
+Ministra Rosa Weber
+Relatora
