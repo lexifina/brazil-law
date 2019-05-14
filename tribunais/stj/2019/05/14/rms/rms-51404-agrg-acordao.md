@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. APROPRIAÇÃO INDÉBITA. NÃO OCORRÊNCIA DA PRESCRIÇÃO. TESE NÃO APRECIADA PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. INQUÉRITO POLICIAL. ARQUIVAMENTO A PEDIDO DO MINISTÉRIO PÚBLICO. PEDIDO DE DESARQUIVAMENTO PELO OFENDIDO. IMPOSSIBILIDADE. AÇÃO PENAL PÚBLICA INCONDICIONADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A tese de não ocorrência da prescrição não foi tratada no acórdão que não conheceu do mandado de segurança na instância a quo. Assim, não há como se conhecer da impetração nesse ponto, diante da manifesta incompetência desta Corte Superior de Justiça para apreciar originariamente a matéria, sob pena de supressão de instância. Precedentes.
+2. Esta Corte entende ser incabível a impetração de mandado de segurança por parte da vítima contra decisão que determina o arquivamento de inquérito policial, seja por considerá-la desprovida de conteúdo jurisdicional, seja devido ao fato de que o titular da ação penal pública incondicionada é o Ministério Público, não sendo cabível o eventual oferecimento de ação penal privada subsidiária sem a prova de sua inércia. Precedentes.
+4. Permitir reexame judicial quanto ao mérito do pedido de arquivamento do inquérito policial, por via recursal ou autônoma, importa em violação, por meio transverso, da prerrogativa do Ministério Público, o qual, na condição de titular da ação penal, é quem deve se manifestar acerca da existência ou não de elementos capazes de sustentar a persecução penal.
+5. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Trata-se de agravo regimental interposto por [NOME] E PLASTICOS LTDA, nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça, contra decisão unipessoal desta relatoria (e-STJ fls. 899-902) que negou provimento ao recurso ordinário em mandado de segurança.
+De acordo com os autos, a recorrente postulou a instauração de inquérito policial para apurar a prática de crimes contra seu patrimônio (e-STJ fls. 109-126). Encerrada a investigação, os autos foram remetidos ao Ministério Público, que se manifestou pelo arquivamento (e-STJ fls 647-652). O juiz acolheu a pretensão ministerial (e-STJ fl. 653).
+O pedido de reconsideração não foi acolhido pelo Juiz de primeiro grau, que, outrossim, determinou a remessa de cópia dos autos para a Promotoria de Repressão aos Crimes de Sonegação Fiscal para análise de eventual prática de crime contra a ordem tributária (e-STJ fls. 687-688).
+O mandado de segurança se sustenta na tese de que o crime de apropriação indébita não estaria prescrito. Do writ não se conheceu em razão do óbice contido no enunciado 268 da Súmula do Supremo Tribunal Federal (e-STJ fls. 832-838).
+Neste regimental, o agravante reapresenta os argumentos anteriormente aduzidos, no sentido de que o mandado de segurança não teria se insurgido contra o arquivamento do inquérito policial e sim contra a declaração da prescrição antecipada ou virtual proferida pelo Juiz de primeiro grau, de forma que seria cabível o mandamus.
+Afirma que o decisum agravado teria equivocadamente deixado de apreciar as alegações a respeito da prescrição antecipada.
+Pretende, ao final, ver reconsiderada a decisão monocrática ou, subsidiariamente, que o presente feito seja levado à apreciação do colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (RELATOR): Atendidos os pressupostos formais, passa-se à análise do mérito da questão.
+De início, importante destacar que o Juiz de primeiro grau, ao contrário do que alega a agravante, não declarou a prescrição com base na pena hipotética e sim determinou o arquivamento do inquérito policial adotando como razões de decidir os termos do requerimento ministerial (ausência de dolo, precariedade do substrato probatório a lastrear a persecutio criminis e a ocorrência da prescrição com base na pena máxima em abstrato).
+Ocorre que, como o Tribunal a quo nem sequer conheceu do mandado de segurança, a tese relacionada à não ocorrência de prescrição deixou de ser apreciada e, portanto, não há como conhecer da impetração nesse ponto, diante da manifesta incompetência desta Corte Superior de Justiça (art. 105, inciso II, alínea a, da Constituição da República) para apreciar originariamente a matéria, sob pena de supressão de instância.
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ADMINISTRATIVO. CONCURSO PÚBLICO. TESTE DE APTIDÃO FÍSICA. PREVISÃO EM LEI. CRITÉRIOS OBJETIVOS. POSSIBILIDADE. ALEGAÇÃO NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+III - É firme o entendimento nesta Corte segundo o qual "é vedada, no julgamento de recurso ordinário em mandado de segurança, a apreciação de matéria não abordada pelo Tribunal de origem, sob pena de supressão de instância" (RMS 31.400/TO, 6ªT., Rel. Min. Maria Thereza De Assis Moura, DJe 27/8/2012). Precedentes.
+ ..
+VI - Agravo Interno improvido.
+(AgInt nos EDcl no RMS 56.200/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 07/08/2018, DJe DE 14/08/2018; sem grifos no original)
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. QUEBRA DE SIGILO TELEMÁTICO. ORDEM JUDICIAL DETERMINANDO A PRESTAÇÃO DE INFORMAÇÕES RELATIVAS A CONTA DE USUÁRIO DO APLICATIVO FACEBOOK. DESCUMPRIMENTO.
+FIXAÇÃO DE MULTA. POSSIBILIDADE. ACÓRDÃO RECORRIDO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. FUNDAMENTOS NÃO INFIRMADOS. VALOR EXACERBADO. NÃO OCORRÊNCIA. EXECUÇÃO. TEMA NÃO ENFRENTADO. SUPRESSÃO DE INSTÂNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+ ..
+4. A questão relativa à impossibilidade de execução da sanção em sede de inquérito policial não foi apreciada pelo acórdão regional, não tendo o recorrente sequer se insurgido na via aclaratória, daí porque não pode ser examinada nesta oportunidade sobre pena de supressão de instância.
+5. Recurso ordinário a que se nega provimento.
+(RMS 54.444/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 12/09/2017, DJe 13/10/2017)
+No caso destes autos, como já destacado, o Parquet estadual pediu o arquivamento do Inquérito n. 0091132-71.2012.8.26.0050 (e-STJ 647-652) porque não foram constatados indícios mínimos de materialidade e de autoria, de modo a justificar a persecução criminal.
+Esta Corte entende ser incabível a impetração de mandado de segurança por parte da vítima contra decisão que determina o arquivamento de inquérito policial, seja por considerá-la desprovida de conteúdo jurisdicional, seja devido ao fato de que o titular da ação penal pública incondicionada é o Ministério Público, não sendo cabível o eventual oferecimento de ação penal privada subsidiária sem a prova de sua inércia.
+Nessa esteira, não cabe a discussão em torno do mérito da conclusão do titular da ação penal pública incondicionada acerca da existência ou não de suporte probatório para o oferecimento de denúncia.
+Isso porque o pedido de arquivamento é previamente avaliado pela autoridade judicial, que pode homologar a solicitação ou, entendendo de modo diverso, submeter a questão ao Procurador-Geral para que tome uma das providências listadas no art. 28 do Código de Processo Penal.
+Permitir reexame judicial quanto ao mérito do pedido de arquivamento do inquérito policial, por via recursal ou autônoma, importa em violação, por meio transverso, da prerrogativa do Ministério Público, o qual, na condição de titular da ação penal, é que deve se manifestar acerca da existência ou não de elementos capazes de sustentar a persecução penal.
+A propósito, confiram-se os seguintes julgados:
+PROCESSO PENAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PEDIDO DE DESARQUIVAMENTO DE INQUÉRITO POLICIAL FORMULADO PELO OFENDIDO. IMPOSSIBILIDADE. PRECEDENTES. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Esta Corte Superior firmou o entendimento de que "a vítima de crime de ação penal pública incondicionada não tem direito líquido e certo de impedir o arquivamento do inquérito ou peças de informação" (MS 21.081/DF, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 17/6/2015, DJe 4/8/2015).
+2. Não cabe mandado de segurança para impugnar decisão judicial que, acolhendo pedido do Ministério Público, determina o arquivamento de peças de informação, ante a ausência de lastro probatório mínimo que autorize a deflagração da ação penal.
+3. "O mérito da suficiência de suporte probatório para a instauração da ação penal é juízo exclusivo do órgão acusatório, ainda que por reexame no efeito devolutivo ministerial (art. 28 do CPP), não cabendo do arquivamento do inquérito policial recursos judiciais, que tenderiam a indevidamente forçar o início da ação penal - prerrogativa exclusiva do constitucional representante social da acusação penal" (RMS 15.169/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/11/2014, DJe 18/12/2014).
+4. Recurso ordinário em mandado de segurança a que se nega provimento.
+(RMS 38.486/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe de 15/4/2016, sem grifos no original.)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. IMPEDIMENTO DO AGENTE MINISTERIAL. NÃO CONFIGURAÇÃO. INQUÉRITO POLICIAL. ARQUIVAMENTO. NÃO CABIMENTO DE RECURSOS. LICITUDE DA DECISÃO.
+1. As causas de impedimento e suspeição são taxativas, de interpretação restrita, nelas não se inserindo a atuação do juiz ou agente ministerial que teve no processo decisões reformadas.
+2. O mérito da suficiência de suporte probatório para a instauração da ação penal é juízo exclusivo do órgão acusatório, ainda que por reexame no efeito devolutivo ministerial (art. 28 do CPP), não cabendo do arquivamento do inquérito policial recursos judiciais, que tenderiam a indevidamente forçar o início da ação penal - prerrogativa exclusiva do constitucional representante social da acusação penal.
+3. Não há ilegalidade no arquivamento de inquérito policial justificado na falta de suficiente suporte probatório.
+4. Negado provimento ao recurso ordinário em mandado de segurança.
+(RMS 15.169/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/11/2014, DJe de 18/12/2014; sem grifos no original.)
+Diante do exposto, nego provimento ao agravo regimental.
+É o voto.
