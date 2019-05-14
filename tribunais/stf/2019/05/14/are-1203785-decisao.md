@@ -1,0 +1,22 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 1ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO - SERVIDOR - PORTADORA DE NEOPLASIA MALIGNA - ISENÇÃO DO IMPOSTO DE RENDA E PARCIAL CONTRIBUIÇÃO PROVIDENCIÁRIA - DECRETO DE EXTINÇÃO - ILEGITIMIDADE PASSIVA - IRRESIGNAÇÃO - CABIMENTO.
+    O objetivo da norma do artigo 6°, inciso XI, da Lei n° 7.713/88, é a diminuição dos encargos financeiros relativos a acompanhamento médico, exames e medicamentos suportados por aqueles acometidos pelas doenças ali indicadas, situação em que se enquadra a autora. Aplicabilidade do disposto no § 21 do art. 40 da CF (redação conferida pela EC 47/05). Norma de auto - aplicabilidade e que dispensa regulamentação.
+    Legitimidade do Estado na ação de restituição do imposto de renda retido na fonte proposta por seus servidores (art. 157, I, da CF e Súmula 447, do STJ).
+    Provas dos autos que retratam de forma precisa e inequívoca ser a autora portadora de doença abrangida nos termos da lei vigente.
+    Decisão reformada”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II; 40, §§ 18 E 21; 150, § 6º; e 151, II, todos da CF. Sustenta que: (i) o requisito de maior valia para o reconhecimento da pretendida isenção não fora atendido; (ii) a isenção pretendida não é de caráter geral, mas depende de requisitos para a sua concessão; (iii) o estado de saúde atual da autora não se enquadra no conceito médico pericial de portadora de neoplasia maligna; (iv) a parte autora tenta socorrer-se do Poder Judiciário a fim de obter isenção.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “´[…]
+    No entanto, o recurso não merece trânsito.
+    Com efeito, ao que se infere, os argumentos expendidos não são suficientes para infirmar as conclusões do v. Acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada.
+    Inadmito, pois, o recurso extraordinário com fundamento no art. 1.030, inciso V, do Código de Processo Civil”.
+    A pretensão recursal não merece prosperar. O Tribunal de origem, com apoio na legislação infraconstitucional e no acervo fático e probatório, decidiu que a parte ora recorrida faz jus à isenção do Imposto de Renda e da contribuição previdenciária, haja vista ser portadora de doença incapacitante.
+    Para dissentir das conclusões do acórdão recorrido, seria imprescindível o reexame da legislação infraconstitucional aplicável (Lei nº 7.713/1988) e do acervo probatório dos autos, providência vedada nesta fase processual. A hipótese atrai a incidência da Súmula 279/STF. Nesse sentido, confiram-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICOPROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279/STF. 1. Não é possível, em recurso extraordinário, reexaminar a legislação infraconstitucional aplicada ao caso, bem como analisar o acervo fático-probatório dos autos. 2. Agravo regimental desprovido.” (RE 660.911-AgR, Rel. Min. Ayres Britto).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ISENÇÃO DE IMPOSTO DE RENDA. PORTADOR DE MOLÉSTIA GRAVE. DECLARAÇÃO DE INCONSTITUCIONALIDADE. INOCORRÊNCIA. NECESSIDADE DE REEXAME DE PROVAS E DA LEGISLAÇÃO CORRELATA. O acórdão recorrido consignou expressamente o atendimento aos requisitos necessários para a contribuinte usufruir do benefício fiscal concedido em favor de portadores de moléstias graves. Dessa forma, o acolhimento da pretensão demandaria o reexame das provas e da legislação infraconstitucional pertinente. Mostram-se aplicáveis ao caso as Súmulas 279/STF e 280/STF. Agravo regimental a que se nega provimento.” (ARE 785.110-AgR, de minha relatoria)
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 14 de maio de 2019.
+Ministro Luís Roberto Barroso
+Relator
