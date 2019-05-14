@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes fundamentos:
+    RECURSOS OFICIAL E DE APELAÇÃO AÇÃO DE PROCEDIMENTO ORDINÁRIO DIREITO TRIBUTÁRIO E ADMINISTRATIVO - IMPOSTO DE RENDA RETIDO NA FONTE E CONRIBUIÇÃO PREVIDENCIÁRIA - MOLÉSTIA GRAVE - PRETENSÃO À ISENÇÃO - POSSIBILIDADE PRETENSÃO À RESTITUIÇÃO DOS VALORES INDEVIDAMENTE DESCONTADOS - POSSIBILIDADE. 1. Preliminarmente, legitimidade passiva da Fazenda Pública do Estado de São Paulo, reconhecida. 2. No mérito, a parte autora, portadora de doença grave, faz jus à isenção do Imposto de Renda Retido na Fonte e parcial da Contribuição Previdenciária, incidentes sobre os respectivos proventos de aposentadoria. 3. Moléstia grave da parte autora (Cardiopatia Grave CID 125), comprovada por meio de prova documental. 4. Aplicação dos artigos 40, § 21, da CF e 6º, inciso XIV, da Lei Federal n° 7.713/88. 5. Incidência dos juros de mora, nos termos do artigo 1º- F da Lei 9.494/97, na redação da Lei Federal nº 11.960/09, a partir da citação. 6. Incidência de correção monetária pelo IPCAE, desde os descontos indevidos (julho de 2.014). 7. Ação de procedimento ordinário, julgada procedente. 8. Sentença, ratificada, inclusive, com relação aos encargos da condenação e os ônus decorrentes da sucumbência. 9. Recursos oficial e de apelação, apresentado pela parte ré, desprovidos.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par disso, o acórdão impugnado revela a interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 14 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
