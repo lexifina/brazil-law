@@ -1,0 +1,2 @@
+Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para autorizar, nas hipóteses que especifica, a aplicação de medida protetiva de urgência, pela autoridade judicial ou policial, à mulher em situação de violência doméstica e familiar, ou a seus dependentes, e para determinar o registro da medida protetiva de urgência em banco de dados mantido pelo Conselho Nacional de Justiça.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
