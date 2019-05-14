@@ -1,1 +1,3 @@
 Art. 6º Os banheiros de uso público existentes ou a construir em parques, praças, jardins e espaços livres públicos deverão ser acessíveis e dispor, pelo menos, de um sanitário e um lavatório que atendam às especificações das normas técnicas da ABNT.
+§ 1º Os eventos organizados em espaços públicos e privados em que haja instalação de banheiros químicos deverão contar com unidades acessíveis a pessoas com deficiência ou com mobilidade reduzida.
+§ 2º O número mínimo de banheiros químicos acessíveis corresponderá a 10% (dez por cento) do total, garantindo-se pelo menos 1 (uma) unidade acessível caso a aplicação do percentual resulte em fração inferior a 1 (um).
