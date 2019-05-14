@@ -1,0 +1,2 @@
+Art. 38-A. O juiz competente providenciará o registro da medida protetiva de urgência.
+Parágrafo único. As medidas protetivas de urgência serão registradas em banco de dados mantido e regulamentado pelo Conselho Nacional de Justiça, garantido o acesso do Ministério Público, da Defensoria Pública e dos órgãos de segurança pública e de assistência social, com vistas à fiscalização e à efetividade das medidas protetivas.
