@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. LITISCONSÓRCIO NA ORIGEM. AGRAVO CONTRA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. PRAZO EM DOBRO INAPLICÁVEL. INTEMPESTIVIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. O Agravo Interno não se sustenta.
+2. A jurisprudência do STJ é sólida no sentido de que o prazo em dobro previsto no art. 229 do CPC/2015 não se aplica ao Agravo interposto contra a decisão que nega seguimento a Recurso Especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer, já que não se pode presumir que o recorrente que teve seu Apelo Nobre inadmitido pelo Tribunal de origem irá necessariamente agravar.
+3. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão monocrática exarada pela Presidência do STJ que julgou intempestivo o Recurso Especial interposto pelo Agravante nos seguintes termos (fls. 1071-1072, e-STJ):
+"(..) Mediante análise dos autos, a parte Recorrente foi intimada da decisão agravada em 29/06/2018, sendo o agravo somente interposto em 08/08/2018.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c.c. os arts. 1.003, § 5.º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Cumpre esclarecer que "A prerrogativa processual do prazo em dobro, prevista no art. 229 do CPC/2015, correspondente ao art. 191 do CPC/1973, não se aplica ao agravo interposto contra a decisão que nega seguimento a recurso especial, tendo em vista que o autor dessa irresignação é o único que possui interesse e legitimidade para recorrer" (AgInt no AREsp 1247527/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/06/2018, DJe 28/06/2018). (..)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso"
+O agravante defende, em suma, que ele e a outra parte, cujos patronos são distintos, interpuseram Recurso Especial e que, por isso, "ambos os recorrentes têm interesse em interpor seus respectivos Agravos" (fls. 1078-1081, e-STJ).
+Contrarrazões às fls. 1085-1087, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos retornaram a este Gabinete em 7.2.2019.
+O Agravo Interno não se sustenta.
+A jurisprudência do STJ é sólida no sentido de que o prazo em dobro previsto no art. 229 do CPC/2015 não se aplica ao Agravo interposto contra a decisão que nega seguimento a Recurso Especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer, já que não se pode presumir que o recorrente que teve seu Apelo Nobre inadmitido pelo Tribunal de origem irá necessariamente agravar. Vejam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO INTEMPESTIVO. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO NCPC. LITISCONSORTES DIFERENTES. PRAZO EM DOBRO. INAPLICABILIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. ART. 932, PARÁGRAFO ÚNICO, DO NCPC. ABERTURA DE PRAZO. DESCABIMENTO. SANEAMENTO DE VÍCIOS FORMAIS SOMENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A orientação jurisprudencial do STJ é no sentido de que o benefício do prazo em dobro previsto no art. 229 do NCPC, deixa de incidir quando apenas um dos litisconsortes interpõe recurso, devendo o prazo recursal ser contado de forma simples.
+3. O prazo em dobro previsto no art. 229 do NCPC não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer. Precedentes de ambas as Turmas que compõem a Segunda Seção.
+4. O agravo em recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do seu art. 1.003, § 6º, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a demonstração quando da sua interposição. Entendimento da Corte Especial.
+5. O prazo conferido pelo parágrafo único do art. 932 do NCPC somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou de comprovação da tempestividade.
+6. Agravo interno não provido. (AgInt no AREsp 1277253/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/09/2018, DJe 27/09/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. INTEMPESTIVIDADE. LITISCONSÓRCIO NA ORIGEM. APENAS UMA DAS PARTES MANEJOU APELAÇÃO. PRAZO NA FORMA SIMPLES. AGRAVO CONTRA DECISÃO DE INADMISSIBILIDADE DO ESPECIAL. PRAZO EM DOBRO. INAPLICABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo orientação firmada neste Sodalício, o prazo em dobro do art. 191 do CPC/73 deixa de existir quando apenas uma das partes maneja o recurso de apelação, de modo que, a partir de então, o prazo recursal passa a ser contado na forma simples. Precedente.
+2. A prerrogativa processual do prazo em dobro, prevista no art. 229 do CPC/2015, correspondente ao art. 191 do CPC/1973, não se aplica ao agravo interposto contra a decisão que nega seguimento a recurso especial, tendo em vista que o autor dessa irresignação é o único que possui interesse e legitimidade para recorrer. Precedentes.
+3. Agravo interno não provido. (AgInt no AREsp 1262057/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/09/2018, DJe 27/09/2018)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. ART. 229 DO CPC/2015. INAPLICABILIDADE. RECURSO ESPECIAL. REPRESENTAÇÃO PROCESSUAL. INSTRUMENTO PROCURATÓRIO. AUSÊNCIA. SÚMULA 115 DO STJ.
+INCIDÊNCIA.
+1. O prazo em dobro previsto no art. 229 do CPC/2015, correspondente ao art. 191 do CPC/1973, não se aplica para o Agravo interposto contra a decisão que nega seguimento a Recurso Especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer (AgInt no AREsp 1184810/MT, Rel. Ministro MAURO Campbell Marques, Segunda Turma, DJe 24/04/2018).
+(..) 6. Hipótese em que a recorrente não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento que confere poderes à subscritora do recurso especial.
+7. Agravo interno desprovido. (AgInt no AREsp 1210753/PA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 04/10/2018, DJe 07/11/2018)
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
