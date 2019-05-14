@@ -1,0 +1,28 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro.
+    Opostos Embargos de Declaração, foram rejeitados.
+    No apelo extremo, com fundamento no art. 102, III, da Constituição Federal, a parte recorrente alega ter o acórdão recorrido violado dispositivos constitucionais.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Quanto à alegação de afronta ao artigo 5º, LIV e LV, da Constituição Federal, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Efetivamente, o Tribunal de origem, com base na legislação ordinária de regência (Lei Municipal 2.039/2002) e no conteúdo fático-probatório constante dos autos, deu parcial provimento ao recurso de apelação apenas para reduzir o valor da verba compensatória e alterar o índice de juros incidentes ao caso, mantendo a sentença quanto aos demais pontos. A propósito, veja-se a ementa do julgado (fl. 49, Vol. 17):
+    “AÇÃO CIVIL PÚBLICA. AUSÊNCIA DE ILUMINAÇÃO PÚBLICA. AUMENTO DA CRIMINALIDADE. SEGURANÇA PÚBLICA.
+    Ação civil pública proposta pelo MP contra o Município em razão das representações feitas pelos moradores do 4º Distrito de Maricá quanto à ausência de iluminação pública.
+    1- A quantidade de reclamações encaminhadas ao MP demonstra que a Urbe não vem prestando o serviço a contento.
+    2- Indubitável a precariedade da prestação do serviço de iluminação pública, que é essencial, eis que se relaciona com a segurança pública. Além disso, é uma atribuição da Municipalidade, nos termos do art. 149-A, da CRFB, o qual, inclusive, permite a instituição da contribuição para o custeio do serviço.
+    3- Não há violação ao princípio da separação dos poderes quando o Judiciário determina o cumprimento da Lei.
+    4- A tese de que deve ser observada a reserva do possível também não prospera. A jurisprudência entende que não se pode invocar tal princípio para justificar o inadimplemento de direito fundamental, que, no caso dos autos, é a segurança pública.
+    5- Quanto ao montante fixado a título de verba compensatória coletiva, assiste razão ao apelante, pois tem por objetivo compensar o dano sofrido, sem, contudo, servir de fonte de enriquecimento sem causa, sob pena de causar novo dano.
+    6- No que tange aos juros, merece guarida o inconformismo, eis que devem incidir a partir da citação, nos termos do art. 1º-F da Lei nº 9.494/97, com a alteração dada pela Lei nº 11.960/2009.
+    Recurso parcialmente provido.”
+    Verifica-se, desse modo, que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    De outro lado, a solução dessa controvérsia, depende, ainda, da análise de legislação local, o que é incabível em recurso extraordinário, conforme consubstanciado na Súmula 280/STF: Por ofensa a direito local não cabe recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 14 de maio de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
