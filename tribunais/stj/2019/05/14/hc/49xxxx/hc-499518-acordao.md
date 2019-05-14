@@ -1,0 +1,35 @@
+EMENTA
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DA SENTENÇA. REFORMA DA CONDENAÇÃO EM GRAU DE APELAÇÃO. REDUÇÃO DA PENA PARA 1 ANO, 11 MESES E 10 DIAS DE RECLUSÃO, EM REGIME INICIAL SEMIABERTO. GUIA DE EXECUÇÃO PROVISÓRIA. COMPATIBILIZAÇÃO DA SEGREGAÇÃO CAUTELAR AO REGIME IMPOSTO. CABIMENTO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Hipótese na qual a sentença condenatória foi reformada pela Corte a quo para reduzir a pena do paciente para o patamar de 1 ano, 11 meses e 10 dias de reclusão, em regime inicial semiaberto. Não obstante, foi mantida a segregação cautelar, mais gravosa do que a pena imposta.
+3. Segundo o princípio da homogeneidade, corolário do princípio da proporcionalidade, não se afigura legítima a custódia cautelar quando sua imposição se revelar mais severa que a própria pena imposta ao final do processo em caso de condenação" (HC n. 281.854/RJ, Relator Ministro MARCO AURELIO BELLIZZE, Quinta Turma, julgado em 17/12/2013, DJe de 19/12/2013).
+4. Desse modo, em razão da imposição do regime semiaberto na condenação, faz-se necessário compatibilizar a manutenção da custódia cautelar com o aludido modo de execução, tudo a fim de não prejudicar o condenado. Precedentes. (RHC n. 74.600/MG, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 20/10/2016, DJe 26/10/2016)
+5. Ordem não conhecida, mas concedida de ofício para, ratificando a liminar, determinar a expedição da guia de execução provisória, assegurando ao paciente o recolhimento em estabelecimento penal compatível, bem como os benefícios da execução.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido e conceder "Habeas Corpus" de ofício, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de habeas corpus com pedido de liminar impetrado em benefício de TIAGO HENRIQUE DE OLIVEIRA LOPES contra acórdão da 5ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná (Apelação n. 0001294-94.2018.8.16.0112).
+Extrai-se dos autos que o paciente foi condenado à pena 9 anos, 8 meses e 20 dias de reclusão, em regime inicial fechado, pela prática do delito tipificado no art. 33 c/c 40, inciso V, da Lei n. 11.343/2006.
+Interposta apelação, o Tribunal a quo deu parcial provimento ao recurso da defesa para reduzir a pena para 1 ano, 11 meses e 10 dias de reclusão, em regime inicialmente semiaberto. O acórdão recebeu a seguinte ementa (e-STJ fls. 8/20):
+APELAÇÃO CRIME- TRÁFICO DE DROGAS - SENTENÇA CONDENATÓRIA - RECURSO PELO RÉU - PEDIDO DE GRATUIDADE DE JUSTIÇA - NÃO CONHECIMENTO DO APELO NESSE PONTO - MATÉRIA AFETA AO JUÍZO DA EXECUÇÃO - PEDIDO DE ABSOLVIÇÃO POR SUPOSTA INSUFICIÊNCIA DE PROVAS - DESCABIMENTO - CONJUNTO FÁTICO-PROBATÓRIO QUE NÃO DEIXA DÚVIDA QUANTO À PRÁTICA DA TRAFICÂNCIA - CONFISSÃO CORROBORADA PELOS DEPOIMENTOS DOS POLICIAIS QUE EFETUARAM O FLAGRANTE, INCLUSIVE NO TOCANTE À INTERESTADUALIDADE - DOSIMETRIA DA PENA - REDUÇÃO DE OFÍCIO DE QUANTUM DE AUMENTO NA PRIMEIRA FASE - PEDIDO DE APLICAÇÃO DA CAUSA DE REDUÇÃO DA PENA PREVISTA NO §4º DO ART. 33 DA LEI Nº 11.343/2006 - INEXISTÊNCIA DE BIS IN IDEM - ACOLHIMENTO POR FUNDAMENTO JURÍDICO DIVERSO - QUANTIDADE DA DROGA QUE, POR SI SÓ, NÃO SERVE PARA CONCLUIR QUE O RÉU INTEGRA ORGANIZAÇÃO CRIMINOSA OU SE DEDICA A ATIVIDADE CRIMINOSA - RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO NA PARTE CONHECIDA. COM ALTERAÇÕES DE OFÍCIO.
+No presente writ a defesa alega que, a despeito do abrandamento do regime, o paciente foi mantido preso preventivamente, de modo que a segregação seria desproporcional. Insurge-se porque a prisão cautelar não admite temperamento para ajustar-se a regime imposto no provimento jurisdicional diverso do fechado (e-STJ fl. 5).
+Pleiteia a revogação da prisão, ou a adequação do regime prisional àquele fixado no acórdão.
+A liminar foi deferida às e-STJ fls. 25/27.
+Informações às e-STJ fls. 34/92.
+O Ministério Público Federal opinou pela concessão da ordem (e-STJ fl. 94).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, a jurisprudência desta Corte Superior firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Nesse sentido, encontram-se, por exemplo, estes julgados: HC n. 313.318/RS, Quinta Turma, Rel. Min. FELIX FISCHER, julgamento em 7/5/2015, DJ de 21/5/2015; HC n. 321.436/SP, Sexta Turma, Rel. Min. MARIA THEREZA DE ASSIS MOURA, julgado em 19/5/2015, DJ de 27/5/2015.
+No entanto, nada impede que, de ofício, este Tribunal Superior constate a existência de ilegalidade flagrante, circunstância que ora passo a examinar.
+No caso, a sentença condenatória foi reformada pela Corte a quo para reduzir a pena do paciente para o patamar de 1 ano, 11 meses e 10 dias de reclusão, em regime inicial semiaberto. Não obstante, foi mantida a segregação cautelar, mais gravosa do que a pena imposta.
+Ora, Segundo o princípio da homogeneidade, corolário do princípio da proporcionalidade, não se afigura legítima a custódia cautelar quando sua imposição se revelar mais severa que a própria pena imposta ao final do processo em caso de condenação (HC n. 281.854/RJ, Relator Ministro MARCO AURELIO BELLIZZE, Quinta Turma, julgado em 17/12/2013, DJe de 19/12/2013).
+No mesmo sentido, nos termos do enunciado n. 716 da Súmula do Supremo Tribunal, Admite-se a progressão de regime de cumprimento da pena ou a aplicação imediata de regime menos severo nela determinada, antes do trânsito em julgado da sentença condenatória..
+Ainda, em razão da imposição do regime semiaberto na condenação, faz-se necessário compatibilizar a manutenção da custódia cautelar com o aludido modo de execução, tudo a fim de não prejudicar o condenado. Precedentes (RHC n. 74.600/MG, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 20/10/2016, DJe 26/10/2016).
+Mencione-se, aliás, que conforme se verifica das informações prestadas às e-STJ fls. 34/92, o paciente obteve a progressão para o regime aberto, robustecendo as razões de concessão da ordem.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício para, ratificando a liminar, determinar a expedição da guia de execução provisória, assegurando ao paciente o recolhimento em estabelecimento penal compatível, bem como os benefícios da execução.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
