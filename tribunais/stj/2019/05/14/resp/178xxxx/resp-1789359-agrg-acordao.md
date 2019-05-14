@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. DOSIMETRIA. PENA-BASE. GRAVIDADE DAS LESÕES. TENTATIVA. ITER CRIMINIS PERCORRIDO. BIS IN IDEM. INOCORRÊNCIA. RECURSO DESPROVIDO.
+1. A fixação da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelada às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+2. No caso, a pena-base foi majorada em 1/3 (2 anos), pois a vítima sofreu lesão corporal de natureza grave - incapacidade para as funções habituais, perigo de vida causado pelas lesões internas e debilidade permanente -, não havendo que se falar em violação do art. 59 do Código Penal.
+3. A redução da pena pela tentativa deve observar o estágio do iter criminis já percorrido pelo agente. Quanto mais perto da consumação, menor vai ser a fração redutora, pois maior reprovabilidade merece sua conduta.
+4. Não há que se falar em bis in idem, em face da valoração negativa das consequências do delito, com o real grau de violação que o bem efetivamente sofreu, e o quantum escolhido devido a causa de diminuição relativa à modalidade tentada, aqui considerado o iter criminis percorrido.
+5. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental contra decisão provendo, em parte, recurso especial, tão somente para, reconhecida a atenuante da confissão espontânea, reduzir a pena de FÁBIO MARINHEIRO DE LIMA para 4 (quatro) anos, 5 (cinco) meses e 10 (dez) dias de reclusão, em regime semiaberto, por infração ao art. 121, caput, c/c art. 14, II, ambos do Código Penal.
+Nas razões do regimental, sustenta, mais uma vez, violação da regra do ne bis in idem em prejuízo do recorrente, ao argumento de que a decisão valeu-se das lesões corporais de natureza grave suportadas pela vítima para majorar a pena na primeira fase da dosimetria e, concomitantemente, manter no patamar mínimo o redutor da tentativa.
+Aduz que a especialidade impõe que, no caso concreto, o critério da lesão grave somente pode ser utilizado na terceira fase da dosimetria.
+Pugna, ao final, pela reconsideração da decisão, ou seja o feito submetido à apreciação do órgão Colegiado, reduzindo-se a pena com o afastamento do aumento da primeira fase da dosimetria.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça.
+O julgador deve aplicar de forma justa e fundamentada a reprimenda. O quantum deverá ser necessário e suficiente à reprovação, atendendo-se, ainda, ao princípio da proporcionalidade.
+A fixação da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelada às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+De acordo com o art. 59 do Código Penal, a pena-base será fixada pelo juiz "atendendo à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, aos motivos, às circunstâncias e consequências do crime, bem como ao comportamento da vítima".
+No caso, veja o que disse o Magistrado, ao fixar a pena-base do recorrente (e-STJ fl. 554):
+Na análise das chamadas "circunstâncias judiciais", previstas no artigo 59 do Código Penal, considerando, a culpabilidade do réu, as circunstâncias e, em especial, as conseqüências do delito em relação à vítima Karoline, a qual sofreu lesão corporal de natureza grave, pela incapacidade para as funções habituais por mais de 30 dias, pelo perigo de vida ocasionado pelas lesões internas (perfuração da artéria ilíaca comum) e pela debilidade permanente do membro inferior, fixo a pena base do delito de tentativa de homicídio em relação a ela em 8 anos de reclusão.
+Como se pode observar, a pena-base foi majorada em 1/3 (2 anos), pois a vítima sofreu lesão corporal de natureza grave - incapacidade para as funções habituais, perigo de vida causado pelas lesões internas e debilidade permanente -, não havendo que se falar em violação do art. 59 do Código Penal.
+Inexiste ilegalidade, também, no quantum aplicado em razão da tentativa - 1/3 (um terço) -, "considerando a extensão das lesões praticadas, lesões de natureza grave" (e-STJ fl. 554).
+A redução da pena pela tentativa deve observar o estágio do iter criminis já percorrido pelo agente. Quanto mais perto da consumação, menor vai ser a fração redutora, pois maior reprovabilidade merece sua conduta.
+Nesta etapa da dosimetria, não se leva em consideração o resultado efetivamente produzido pela prática criminosa, até porque o início dos atos executórios não exige que o bem jurídico tutelado seja efetivamente atingido. Ressalte-se, por exemplo, a tentativa branca, na qual a vítima não é sequer atingida e nem vem a sofrer ferimentos, saindo, portanto, ilesa.
+Dessa forma, não há que se falar em bis in idem, em face da valoração negativa das consequências do delito, com o real grau de violação que o bem efetivamente sofreu, e o quantum escolhido devido a causa de diminuição relativa à modalidade tentada, aqui considerado o iter criminis percorrido.
+Nesse sentido:
+PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO PRIVILEGIADO TENTADO. 1) VIOLAÇÃO AO ART. 217 DO CÓDIGO DE PROCESSO PENAL - CPP. INOCORRÊNCIA. PREJUÍZO NÃO DEMONSTRADO. 2) VIOLAÇÃO AO ART. 564, III, K, DO CPP. PREJUÍZO NÃO DEMONSTRADO. 3) VIOLAÇÃO AO ART. 59 DO CÓDIGO PENAL - CP. CULPABILIDADE. CONSEQUÊNCIAS DO CRIME. EXASPERAÇÃO IDÔNEA. 4) VIOLAÇÃO AO ART. 61, II, F, DO CP. ÓBICE DO REVOLVIMENTO FÁTICO-PROBATÓRIO, CONFORME SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. 5) VIOLAÇÃO AO ART. 121, § 1º, DO CP. QUANTUM DE REDUÇÃO JUSTIFICADO. PREDISPOSIÇÃO DO ACUSADO. 6) AGRAVO DESPROVIDO.
+1. Conforme art. 217 do CPP, o acusado pode ser retirado da audiência em razão de sério constrangimento no depoimento do ofendido. No caso em tela, foi adotada a justificativa do constrangimento e não ficou demonstrado qualquer prejuízo do ofendido na adoção do procedimento.
+2. Para o reconhecimento de nulidade nos termos do quesitos, deve-se haver demonstração do prejuízo, conforme art. 563 do CPP. Ademais, a alegação da referida nulidade deve ser feita em Plenário, sob pena de preclusão.
+3. A desvaloração de circunstância judicial que acarreta exasperação da pena-base deve estar fundada em elementos concretos, não inerentes ao tipo penal.
+3.1. In casu, o desvalor da culpabilidade foi justificado nos 15 golpes de faca efetuados contra diversas partes do corpo da vítima. Cabível rechaçar a ocorrência de bis in idem em relação ao montante de redução pela tentativa que está amparado no iter criminis percorrido.
+3.2. O desvalor das consequências do delito foi justificado no fato da vítima ter ficado afastada de suas atividades habituais por mais de 30 dias.
+4. A agravante do art. 61, II, f, do CP, foi aplicada porque o cometimento do delito decorreu da relação do acusado com a vítima, sua ex-esposa. Entender de modo diverso demandaria o reexame fático-probatório, providência vedada pelo enunciado n. 7 da Súmula do Superior Tribunal de Justiça - STJ.
+5. O quantum de redução da pena no mínimo legal em razão da aplicação do art. 121, § 1º, do CP, ficou justificado de forma idônea na predisposição do acusado que trazia consigo uma faca utilizada no cometimento do delito.
+6. Agravo regimental desprovido. (AgRg no AREsp 1238514/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 12/02/2019, DJe 21/02/2019)
+RECURSO ESPECIAL. PENAL E PROCESSO PENAL. HOMICÍDIO. NULIDADES. NÃO CONFIGURAÇÃO. PREJUÍZO. NÃO DEMONSTRADO. PRINCÍPIO DO PAS DE NULLITÉ SANS GRIEF. DOSIMETRIA. VIOLAÇÃO DO ART. 59 DO CP. CONSEQUÊNCIAS DO DELITO. DEBILIDADE PERMANENTE. FUNDAMENTAÇÃO IDÔNEA. ESCOLHA DA FRAÇÃO DA TENTATIVA. FUNDAMENTO IDÔNEO.
+1. A anulação de ato processual depende da demonstração de efetivo prejuízo, nos termos do artigo 563 do Estatuto Processual Repressivo, não logrando êxito a defesa na respectiva comprovação, apenas suscitando genericamente teses sem o devido suporte na concretude dos fatos, deve ser aplicado o princípio pas de nullité sans grief.
+2. Em se tratando de crime tentado, não haverá bis in idem na consideração negativa do vetor consequências do delito a análise da real ofensa produzida ao bem jurídico tutelado. Assim, há coerência na majoração da pena de um delito de tentativa de homicídio que provocou na vítima lesões permanentes, isto porque, em se tratando de tentativa, a vítima poderia sair inclusive ilesa.
+3. No que diz respeito à escolha da fração redutora em razão da tentativa, essa deve ser feita de forma inversamente proporcional ao iter criminis percorrido.
+4. Recurso especial a que se nega provimento. (REsp n. 1.660.508/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 10/10/2017, DJe 24/11/2017)
+Ressalte-se, ainda, que, concluindo as instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, pela aplicação da fração no valor de 1/3 (um terço), a modificação deste patamar demanda incursão no conjunto fático-probatório dos autos, procedimento vedado em recurso especial, a teor da Súmula n. 7/STJ.
+Diante do exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
