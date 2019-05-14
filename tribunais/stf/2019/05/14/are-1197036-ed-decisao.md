@@ -1,0 +1,15 @@
+DECISÃO: Reconsidero a decisão por mim proferida nestes autos, ficando prejudicado, em consequência, o exame do recurso contra ela interposto.
+    Passo, desse modo, a apreciar o recurso extraordinário interposto por Lindomar Paulus.
+    O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “AGRAVO INTERNO. MANDADO DE INJUNÇÃO. POLICIAIS MILITARES. ADICIONAL NOTURNO. QUESTÃO DEFINIDA NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO Nº 70074064734 NO IRDR Nº 70069445039 QUE RECONHECEU A INEXISTÊNCIA DO DIREITO À GRATIFICAÇÃO NOTURNA AOS POLICIAIS MILITARES. APLICAÇÃO DE MULTA NA FORMA DO ART. 1.021, § 4º, DO CPC.
+    1. A decisão monocrática recorrida que indeferiu o adicional noturno é insuscetível de reforma, pois calcada no julgamento dos Embargos de Declaração nº 70074064734 e no Incidente de Resolução de Demandas Repetitivas nº 70069445039, decisões nas quais o Colendo Órgão Especial desta Corte consagrou o entendimento de que o art. 46, inc. I, da Constituição Estadual é formal e materialmente inconstitucional. Dessa forma, uma vez reconhecida a inconstitucionalidade do art. 46, inc. I, da Constituição Estadual, e disso advindo a inexistência do direito à gratificação noturna aos policiais militares estaduais, é evidente que a hipótese era mesmo de improcedência liminar do Mandado de Injunção nos exatos termos da douta decisão monocrática ora hostilizada.
+    2. Diante da improcedência do agravo interno por votação unânime, cabível a aplicação da multa prevista no art. 1.021, § 4º, do CPC, a qual fixo em 1% sobre o valor da causa, a ser revertida ao Fundo de Reaparelhamento do Poder Judiciário, na forma do art. 97, do CPC.
+    AGRAVO INTERNO DESPROVIDO. UNÂNIME.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 970.823-RG/RS, Rel. Min. MARCO AURÉLIO, Tema nº 1.038/RG, reconheceu existente a repercussão geral da questão constitucional nele suscitada, que coincide, em todos os seus aspectos, com a mesma controvérsia jurídica ora versada na presente causa, fazendo-o em acórdão assim ementado:
+    “ADICIONAL NOTURNO – CONSTITUIÇÃO FEDERAL – POLICIAL MILITAR – SIMETRIA – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL – CONFIGURAÇÃO. Possui repercussão geral controvérsia alusiva a reconhecimento de adicional noturno constante da legislação civil a servidores militares estaduais, sem previsão expressa do direito na Constituição Federal.”
+    Isso significa que se impõe, quanto ao Tema nº 1.038/RG, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 14 de maio de 2019.
+Ministro CELSO DE MELLO
+Relator
