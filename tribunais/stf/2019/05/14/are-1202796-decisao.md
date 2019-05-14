@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da 7ª Turma Recursal da Seção Judiciária do Rio de Janeiro – Tribunal Regional Federal da 2ª Região, assim ementado (eDOC 1, p. 102):
+    “ADMINISTRATIVO - SERVIDOR PÚBLICO CIVIL - APOSENTADO - UFRJ - VPNI - VANTAGEM PECUNIÁRIA INDIVIDUAL - SUPRESSÃO - PRESCRIÇÃO BIENAL DO CÓDIGO CIVIL - NÃO APLICAÇÃO - ALEGAÇÃO DE REESTRUTURAÇÃO DO SISTEMA REMUNERATÓRIO - NÃO COMPROVAÇÃO DE REDUÇÃO DOS PROVENTOS - AUSENCIA DE DIREITO ADQUIRIDO A REGIME JURIDICO - RECURSO DA UFRJ CONHECIDO E PROVIDO - SENTENÇA REFORMADA.”
+    Os embargos de declaração foram rejeitados (eDOC 1, p. 118-119).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 5º, LV, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma “Como se observa no art. 12, § 5º, da Lei 8.270/91, não há nada na lei que limite temporalmente a percepção dessa VPNI pelo servidor aposentado, nem nada que autorize a administração a suprimi-la do dia para a noite sem nenhuma justificativa para tal procedimento.” (eDOC 1, p. 131).
+    O Vice-Gestor das Turmas Recursais da Seção Judiciária do Rio de Janeiro inadmitiu o recurso extraordinário em virtude de haver necessidade de reexame do conjunto fático-probatório dos autos (eDOC 1, p. 212).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento do recurso inominado, asseverou (eDOC 1, p. 104-107):
+    “Com efeito, a base legal para o pagamento da VPNI em tela seria o artigo 12, § 5º da lei 8.270/91, que tratou do reajuste dos servidores públicos e não foi revogada.
+    (…)
+    A ré alega, ás fl.s 53 e seguintes, que tais valores foram absorvidos a partir da folha de janeiro de 2014 de modo que não haveria decréscimo ou perdas para o servidor.
+    Com efeito, confrontando os contracheques de fl.s 60 e 59, percebe-se a supressão da VPNI em março de 2015, sem que, porém, tenha havido uma redução nos subsídios do autor. O juízo na sentença determinou que fossem restabelecidos os valores da VPNI nos termos em que paga em fevereiro de 2014 (ou seja, R$ 262,42- fls. 58) restituindo diferenças indevidamente reduzidas a partir de março. A questão é que não se percebe tais reduções nos contracheques juntados às fl.s 58 e seguintes! A União alega que tais reajustes foram absorvidos por reajustes da Lei 12.772/12 que tratou da reestruturação dos planos de carreira do serviço publico.
+    No contracheque de jan/2015 (fl.s 16) o valor desta VPNI é apontado como R$262,42, ou seja, o mesmo percebido em fevereiro de 2014 pelo contracheque de fls. 158. Pelo contracheque de fl.s 17, em fevereiro de 2015 o autor percebeu, o valor de R$8.075,47. Em maio de 2015, quando já não mais consta aquela rubrica, o autor percebeu R$8.335,47 (fls. 18). Ou seja, não se vê uma perda remuneratória, em que pese a supressão da rubrica que teria sido absorvida por outros valores. O mesmo se repete nos meses subsequentes.
+    Neste sentido, todos os Tribunais Superiores, há muito já fixaram a tese de que inexiste direito adquirido do servidor público a regime jurídico, sob pela da Administração Publica jamais poder reestruturar as carreiras e quadros. O limite para tais reestruturações, inclusive com reflexos remuneratórios, é a irredutibilidade salarial, que, inclusive encontra respaldo na Constituição Federal.
+    (…)
+    Portanto, considerada a dita VPNI como verba transitória e não comprovado que o autor sofreu perda remuneratória com sua supressão; muito ao revés, os contracheques por ele juntados indicam que o valor de seus subsídios foram superiores nos meses subsequentes quando da supressão da rubrica, o que reforça a alegação da União de que tais valores foram incorporados ao seu subsidio pelo aumento de outras parcelas, tem-se por indevida a manutenção da mesma no contracheque do autor.
+    (…)
+    Assim, não demonstrado que restou violado o Principio da irredutibilidade salarial, não se verifica como manter a dita verba diante da demonstração de que tais valores teriam sido adsorvidos por outras verbas na medida em que não houve redução de proventos.”
+    Como se depreende desses fundamentos e daqueles do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. TRANSFORMAÇÃO DO CARGO DE PROCURADOR AUTÁRQUICO EM PROCURADOR FEDERAL. VANTAGEM NOMINALMENTE IDENTIFICADA – VPNI. ABSORÇÃO. IRREDUTIBILIDADE REMUNERATÓRIA. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO.” (RE 771.509-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 13.8.2015).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REENQUADRAMENTO. DECESSO REMUNERATÓRIO. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 732.599-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 14.6.2013).
+    Ademais, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional (ARE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, tema 660 da sistemática da RG).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC, em virtude da ausência de fixação de honorários pelo Tribunal de origem.
+    Publique-se.
+    Brasília, 14 de maio de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
