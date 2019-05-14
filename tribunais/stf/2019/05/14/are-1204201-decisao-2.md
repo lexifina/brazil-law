@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de Mato Grosso, salvo modificação quanto ao valor devido a título de multa, confirmou o entendimento do Juízo no tocante à procedência de pedido formulado em ação civil pública, considerada a existência de fraude em procedimento licitatório a configurar ato de improbidade administrativa. No extraordinário cujo trânsito busca alcançar, Adilson Moreira da Silva aponta a violação dos artigos 5º, inciso V, e 71, inciso VIII, da Constituição Federal. Alega inobservados, na aplicação das sanções, os princípios da razoabilidade e da proporcionalidade.
+    2. Eis a síntese do acórdão recorrido:
+    CONSTITUCIONAL E ADMINISTRATIVO — APELAÇÃO CÍVEL — AÇÃO CIVIL PÚBLICA — IMPROBIDADE ADMINISTRATIVA — PREJUDICIAIS DE CERCEAMENTO DE DEFESA E DE NULIDADE DO ATO SENTENCIAL — REJEITADAS — RECURSOS FINANCEIROS DA UNIÃO — TRANSFERÊNCIA AO ENTE PÚBLICO ESTADUAL—APURAÇÃO DE IRREGULARIDADES NA APLICAÇÃO — COMPETÊNCIA DISJUNTIVA — FISCALIZAÇÃO PELA CONTROLADORIA-GERAL DA UNIÃO — POSSIBILIDADE — APROVAÇÃO DO CERTAME PELO TCE — IRRELEVANCIA — PROCESSO LICITATÓRIO SIMULADO — PROPOSTAS FICTÍCIAS — EMPRESAS NÃO PARTICIPANTES DO CERTAME— COMPROVAÇÃO — DIRECIONAMENTO À PESSOA JURÍDICA VENCEDORA — AUSÊNCIA DE COMPETITIVIDADE — FRUSTRAÇÃO DA LICITAÇÃO—ENTREGA PARCIAL DO PRODUTO LICITADO— DANO AO ERÁRIO EXISTENTE — VIOLAÇÃO AOS PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA — DOLO DEMONSTRADO — JUNTADA DE DOCUMENTO EXISTENTE NOS AUTOS — VIABILIDADE — PENALIDADES — RESSARCIMENTO DO DANO AO ERÁRIO, PROIBIÇÃO DE CONTRATARCOM O PODER PÚBLICO, POR 5 ANOS E SUSPENSÃO DOS DIREITOS POLÍTICOS, POR 6 ANOS — MANUTENÇÃO — PAGAMENTO DE MULTA CIVIL — MINORAÇÃO DO VALOR — PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE — HONORÁRIOS ADVOCATICIOS EM FAVOR DO MINISTÉRIO PÚBLICO — IMPOSSIBILIDADE — SANÇÃO DE PERDA DA FUNÇÃO PÚBLICA — DESNECESSIDADE — RECURSOS DOS REQUERIDOS PARCIALMENTE PROVIDOS — APELO DO AUTOR — DESPROVIDO.
+    Não configura cerceamento de defesa a ausência de depoimento pessoal do Requerido, em razão de a Ação Civil Pública por Ato de Improbidade Administrativa versar sobre direitos indisponíveis.
+    Oportunizada a interposição de Apelo, deve ser afastada a alegação de cerceamento de defesa, por vício no ato de intimação de algum ato processual.
+    Em vista de o Julgador ser o destinatário da prova, o indeferimento do pedido de perícia técnica afasta a tese de cerceamento de defesa.
+    Mostra-se descabida a afirmativa de nulidade da sentença, quando há, no ato judicial, a indicação dos dispositivos legais violados e aqueles que serviram de fundamento para aplicação das penalidades, pela prática de ato ímprobo.
+    Tratando de recursos da União, transferidos ao ente público estadual, a fiscalização pode ser feita tanto pela Controladoria-Geral da União como pelo TCE ou por outro órgão estadual competente.
+    A aprovação ou rejeição do processo licitatório pelo TCE não afasta a possibilidade de condenação por ato de improbidade administrativa.
+    Comprovada a fraude no procedimento licitatório, com o direcionamento à empresa vencedora do certame, devem os envolvidos ser condenados pela prática de ato ímprobo, pois o fato, em si mesmo, tirou da Administração a chance de obter melhor proposta.
+    Havendo provas de que o produto licitado não foi entregue na quantidade estipulada no contrato, a ocorrência de dano ao erário é manifesta.
+    A realização de licitação simulada viola os princípios da Administração Pública.
+    As penalidades de ressarcimento integral do dano, proibição de contratar com o Poder Público, por 5 (cinco) anos, e suspensão dos direitos políticos, por 6 (seis) anos, devem mantidas por serem razoáveis e proporcionais ao ato ímprobo praticado.
+    A multa civil há de ser minorada para se ajustar ás circunstâncias concretas, observados os princípios da razoabilidade e da proporcionalidade.
+    A decisão impugnada mediante o extraordinário revela a análise do quadro fático e interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo formalizado por Adilson Moreira da Silva e o desprovejo.
+    4. Publiquem.
+Brasília, 14 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
