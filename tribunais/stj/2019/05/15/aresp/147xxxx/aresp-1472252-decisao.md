@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo (1042 do CPC/2015), interposto por D N DA SILVA COMÉRCIO DE FRANGOS E FRIOS ME, contra decisão que negou processamento a recurso especial, fundamentado no art. 105, inciso III, alínea a do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 79, e-STJ):
+CUMPRIMENTO DE SENTENÇA Imissão de posse Ação de reintegração de posse cujo deferimento de tutela antecipada transitou em julgado ante o não conhecimento do respectivo agravo de instrumento Sentença que julgou procedente a reintegração de posse ratificou a antecipação de tutela Recurso de apelação não recebido no efeito suspensivo CUMPRIMENTO DE SENTENÇA Pretensão da agravante da suspensão do feito de cumprimento provisório de sentença, até que a agravada venha a garantir previamente o Juízo com prestação de caução idônea, nos termos do art. 520, § 1º, V CPC/15 hipótese em que o eventual atendimento de tal pleito reabriria discussão já transitada em julgado sobre a ausência de efeito suspensivo no recurso de apelação - Desnecessidade da prestação de caução A propriedade foi consolidada pelo credor fiduciante, que regularmente alienou o imóvel em leilão, tendo a agravada adquirido tal imóvel - Aplicação "in casu" do pár. Único e "caput" do art. 30 da Lei nº 9.514/97, que, em seu bojo não exige qualquer espécie de caução como requisito para cumprimento da liminar, garantindo expressamente o cumprimento da liminar de reintegração de posse e, por outro lado, garante direito a perdas e danos em eventual alteração do comando legal Recurso não provido.
+RECURSO NÃO PROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, o ora agravante apontou violação ao artigo 520, incisos I e IV do Código de Processo Civil de 2015. Pugna pela concessão de efeito suspensivo em relação a r. decisão agravada, eis que foi concedida a imissão na posse da agravada no imóvel, sem determinação de prestar caução idônea nos termos do artigo 520, § 1º, inciso V, do Novo Código de Processo Civil. Assevera que tal medida não impede a alienação do imóvel com imediata transferência da posse a terceiros de boa-fé, entendendo, destarte, estar presente o risco de dano de dificílima reparação.
+Contrarrazões às fls. 105/111, e-STJ.
+O Tribunal de origem inadmitiu o recurso (fls. 112/113, e-STJ) pela ausência de demonstração de violação ao dispositivo arrolado, bem como pela incidência da Súmula 7/STJ.
+Daí o agravo (fls. 116/128, e-STJ), que busca o destrancamento da insurgência.
+É o relatório.
+Decide-se.
+A irresignação não merece prosperar.
+1. Da leitura do acórdão recorrido, extrai-se que a recorrente pautou seu recurso em suposta violação ao artigo 520, incisos I e IV do Código de Processo Civil de 2015, no entanto a decisão da Corte Estadual aplicou o disposto no artigo 30 da Lei n. 9.517/97.
+ É o que se extrai do excerto do acórdão (fls. 84/85, e-STJ):
+Assim, ao contrário da tese defendida pela agravante, não há que se falar em aplicação do regramento do artigo 520, § 1º, inciso V, do Novo Código de Processo Civil, eis que, aplica-se ao cumprimento da liminar de reintegração de posse o disposto no parágrafo único e caput do artigo 30 da Lei nº 9.514/97, que, em seu bojo não exige qualquer espécie de caução como requisito para cumprimento da liminar, garantindo expressamente o cumprimento da imissão na posse devida ao proprietário e, por outro lado, garante direito a perdas e danos em eventual alteração do comando legal, in verbis:
+(..)
+Destarte, não havendo previsão legal expressa acerca da necessidade de garantia do juízo, conforme pretende a agravante e, ainda, de que as controvérsias havidas entre a agravante e o Banco (credor fiduciário) serão resolvidas em perdas e danos em processo próprio, com todas as vênias, a liminar deve ser cumprida independentemente de qualquer exigência ou garantia.
+Da leitura do excerto do acórdão impugnado e das razões recursais, infere-se a dissonância entre as razões do apelo extremo e a fundamentação utilizada na decisão impugnada. Vale dizer, enquanto o Tribunal a quo fundamentou sua decisão na aplicação do disposto no artigo30 da Lei n. 9.517/97, a recorrente alegou violação ao artigo 520, incisos I e IV do Código de Processo Civil de 2015.
+Infere-se que o principal fundamento da decisão impugnada não fora atacado nas razões do apelo extremo, caracterizando, assim, a deficiência na fundamentação no recurso especial, incidindo, por analogia, os óbices das Súmulas 283 e 284 do STF, a saber:
+Súmula 283 - É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula 284 - É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Esta Corte firmou entendimento no sentido de que a discrepância entre as razões recursais e os fundamentos do acórdão recorrido obsta o conhecimento do recurso especial, ante a incidência, por analogia, do teor das Súmulas 283 e 284 do STF. Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO. FUNDAMENTOS DO JULGADO ATACADO. RAZÕES RECURSAIS. DISSOCIAÇÃO. SÚMULAS NºS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, CPC/2015. INAPLICABILIDADE. CÓDIGO DE PROCESSO CIVIL DE 2015. VIGÊNCIA. DECISÃO AGRAVADA. PUBLICAÇÃO ANTERIOR.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283 do Supremo Tribunal Federal.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão recorrido. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+3. O Enunciado Administrativo nº 7 do Superior Tribunal de Justiça deliberou que somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do Código de Processo Civil de 2015.
+4. Agravo interno não provido.
+(AgInt no AREsp 860.337/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/03/2017, DJe 28/03/2017; grifou-se)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DEMORA INJUSTIFICADA NA REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. RAZÕES DISSOCIADAS DA MATÉRIA TRATADA NO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. DEFEITO NA PRESTAÇÃO DO SERVIÇO. DANO MORAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. REVISÃO DO VALOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões deve ser afastada a alegada violação ao artigo 535 do Código de Processo Civil.
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+3. Não se conhece de recurso especial cujas razões estão dissociadas da matéria tratada pelo acórdão recorrido. Súmula 284/STF.
+4. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+5. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+6. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Enunciado 182 da Súmula do STJ).
+7. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 774.370/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe 23/11/2015; grifou-se)
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE DESPEJO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS REQUERIDOS.
+1. É inadmissível o recurso especial quando as razões apresentadas se mostrarem dissociadas da matéria tratada pela decisão recorrida, não sendo impugnados fundamentos do acórdão que, por si sós, são suficientes para manter o inteiro teor do decisum. Aplicação, por analogia, das Súmulas 283 e 284 do STF.
+2. A reforma do julgado quanto a conclusão de não ter sido configurado cerceamento de defesa, ante o indeferimento da prova testemunhal demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 921.974/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/08/2016, DJe 23/08/2016; grifou-se)
+Desta forma, considerando que as razões recursais apresentadas encontram-se dissociadas do fundamento adotado pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial (Súmula 284, STF) e a falta de impugnação específica do decisum (Súmula 283, STF), torna-se inviável o seguimento do recurso especial.
+2. Do exposto, nego provimento ao reclamo.
+Publique-se.
+Intimem-se.
