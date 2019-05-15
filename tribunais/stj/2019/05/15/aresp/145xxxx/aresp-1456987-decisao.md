@@ -1,0 +1,66 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVA PERICIAL. INCIDÊNCIA DA SÚMULA 7/STJ. FGTS. LEVANTAMENTO PARA PAGAMENTO DE PRESTAÇÕES EM ATRASO. POSSIBILIDADE. AGRAVO CONHECIDO PARA CONHECIMENTO PARCIAL DO RECURSO ESPECIAL E, NESSA PARTE, DAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, em desafio ao acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fl. 247):
+CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. PROVA PERICIAL. CERCEAMENTO DE DEFESA. AUSÊNCIA. CONTRATO REGIDO PELA LEI 9.514/97. ALIENAÇÃO FIDUCIÁRIA. SISTEMA DE AMORTIZAÇÃO CONSTANTE. ANATOCISMO. INOCORRÊNCIA. AMORTIZAÇÃO DA DÍVIDA COM RECURSOS DO FGTS. DESCABIMENTO. RESOLUÇÃO DO CONSELHO CURADOR DO FGTS.
+1. Convicto o magistrado da suficiência das provas existentes para o julgamento da lide, não há se falar em cerceamento de defesa, tampouco em prejuízo para a prestação jurisdicional, sobretudo porque a dilação probatória se constitui num meio auxiliar do juiz e não das partes. Precedente do Superior Tribunal de Justiça: AGRESP 200900420118, Relator Ministro SIDNEI BENETI - TERCEIRA TURMA, DJE 03/06/2013.
+2. O Sistema de Amortização Constante não pressupõe a capitalização de juros, pois como a prestação é recalculada e não reajustada, o valor da prestação será sempre suficiente para o pagamento da totalidade dos juros e, por isso, não haverá incorporação de juros ao capital. Na verdade, a sistemática do SAC mostra-se vantajosa para o mutuário, pois, com o regular pagamento das prestações, a liquidação da dívida será atingida ao final do prazo contratado.
+3. O contrato em discussão é regido pelas normas do SFH e do Conselho Curador do FGTS - CCFGTS, a quem compete estabelecer as normas e diretrizes do FGTS, de modo que devem ser respeitados os parâmetros por este fixados.
+4. De acordo com a Resolução 541 do CCFGTS, editada em 30/10/2007, ou seja, em data anterior à assinatura do contrato, para a utilização do FGTS para pagamento de parte das prestações decorrentes de financiamento no âmbito do SFH, o mutuário não poderá contar com mais de 03 (três) prestações em atraso. In casu, como a apelante está inadimplente desde março de março de 2012, conforme demonstrado na planilha de evolução do financiamento, não há que se falar no direito à amortização da dívida com recursos do FGTS.
+5. Apelação desprovida.
+Nas razões do recurso especial (e-STJ, fls. 251-259), a recorrente apontou violação aos arts. 357 do Código de Processo Civil de 2015; e 20, VI, da Lei n. 8.036/1990; bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a existência de cerceamento de defesa ante a falta de manifestação do juízo ante o pedido de realização da prova pericial de natureza contábil.
+Alegou que não lhe foi dada oportunidade de comprovar o cumprimento das exigências do art. 20 da Lei n. 8.036/1990. Argumentou que o rol de tal artigo é exemplificativo. Aduziu que poderia utilizar o FGTS para amortização do saldo devedor.
+Foram apresentadas contrarrazões (e-STJ, fls. 263-269).
+Juízo de admissibilidade negativo (e-STJ, fls. 282-284).
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 241-245):
+De fato, convicto o magistrado da suficiência das provas existentes para o julgamento da lide, não há se falar em cerceamento de defesa, tampouco em prejuízo para a prestação jurisdicional, sobretudo porque a dilação probatória se constitui num meio auxiliar do juiz e não das partes.
+(..)
+Insurge-se a apelante contra a improcedência do pedido de utilização dos recursos de sua conta vinculada do FGTS para amortizar a dívida do contrato de financiamento.
+De acordo com entendimento da Magistrada a quo, "a Resolução CCFGTS 541, de 30 de outubro de 2007, permite a utilização do FGTS para quitar no máximo três encargos em atraso, o que não é o caso da autora, que está inadimplente desde 2012".
+Com efeito, tendo em vista que o contrato em discussão é regido pelas normas do SFH e do Conselho Curador do FGTS - CCFGTS  1  , a quem compete estabelecer as normas e diretrizes do FGTS, devem ser respeitados os parâmetros por este fixados, de modo que está correto o entendimento no sentido da incidência do disposto na Resolução 541 do CCFGTS, editada em 30/10/2007, ou seja, em data anterior à assinatura do contrato, e da qual transcrevo o seguinte trecho, in verbis:
+Resolução CONSELHO CURADOR DO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO - Cons. FGTS nº 541 de 30.10.2007 Aprova alteração nas formas de utilização do FGTS para pagamento da parcela do preço de aquisição da moradia própria em fase de construção, para liquidação ou amortização extraordinária e para pagamento de parte das prestações decorrentes de financiamentos contratados no âmbito do Sistema Financeiro da Habitação - SFH.
+(..) 3. Estabelecer que a utilização do FGTS para pagamento de parte das prestações decorrentes de financiamento no âmbito do SFH obedecerá aos seguintes critérios, além daqueles definidos em Lei:
+(..) 3.6 para a utilização do FGTS nesta modalidade o mutuário não poderá contar com mais de 3 (três) prestações em atraso.
+(..)".
+Portanto, como a apelante está inadimplente com o pagamento das prestações desde março de 2012, conforme demonstrado na planilha de evolução do financiamento (fls. 77-84), não há que se falar no direito à amortização da dívida com recursos do FGTS.
+Em relação ao suposto cerceamento de defesa, não há como prosperar essa alegação, pois, de acordo com a jurisprudência do Superior Tribunal de Justiça, não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte quando devidamente demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se a presença de dados bastantes à formação do seu convencimento.
+Os princípios da livre admissibilidade da prova e da persuasão racional, nos termos do art. 130 do Código de Processo Civil de 1973 (correspondente ao art. 370 do CPC/2015), autorizam o julgador a determinar as provas que entende necessárias à solução da controvérsia, bem como o indeferimento daquelas que considerar prescindíveis ou meramente protelatórias.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. REEXAME DE PROVA. 1. Indeferida de forma fundamentada na sentença a produção de prova pericial e confirmada pelo Tribunal de origem no julgamento da apelação, não há falar em cerceamento de defesa, pois, nos termos do art. 130 do CPC, cabe ao órgão julgador determinar as provas necessárias, indeferindo as que não forem essenciais para o seu convencimento. 2. Por outro lado, a rediscussão acerca da necessidade de produção de provas demanda necessariamente novo exame do suporte fático-probatório carreado aos autos, o que se revela inviável em sede de recurso especial. 3. Resolvida integralmente a lide, a oposição de embargos declaratórios com intuito meramente infringente impõe que os mesmos sejam rejeitados, sem que isso importe violação ao art. 535 do CPC, pelo e. Tribunal a quo. 4. Agravo regimental a que se nega provimento. (AgRg no Ag n. 571.695/RS, Relatora a Ministra
+Denise Arruda, DJ de 2/5/2005).
+Sendo assim, para alterar o entendimento alcançado na Corte de origem e acolher a pretensão recursal a fim de concluir pela imprescindibilidade da produção da prova pericial requerida, seria necessário o reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, em virtude do óbice do enunciado n. 7 da Súmula desta Corte Superior.
+No que tange à possibilidade de amortização da dívida utilizando recursos do FGTS estando inadimplente, o acórdão recorrido julgou em desconformidade com o entendimento desta Corte.
+Ratificam esse entendimento os seguintes julgados:
+ADMINISTRATIVO. FGTS. LEVANTAMENTO PARA PAGAMENTO DE PRESTAÇÕES EM ATRASO DO SFH. REQUISITOS DO ART. 20, V DA LEI 8.036/90.
+1. As Leis 5.107/66 e 8.036/90 permitem a utilização do FGTS para pagamento de prestações em atraso do financiamento do SFH.
+2. O item VI, da Resolução 5, do Conselho Curador do FGTS, que cria obrigação ao mutuário de estar adimplente com as prestações do SFH para obter o benefício do saque da conta vinculada, é norma contra legem, que não encontra respaldo nas Leis 5.107/66 e 8.036/90.
+3. O art. 20, § 2º, da Lei 8.036/90, que conferiu ao Conselho Curador atribuição de disciplinar a hipótese do inciso V, do mesmo artigo, criou, ao mesmo tempo, duas diretrizes a serem observadas pelo Conselho, de beneficiamento dos trabalhadores de baixa renda e de preservação do equilíbrio financeiro do FGTS, sendo que nenhuma delas se coaduna com a obrigação prevista na citada resolução.
+4. Recurso especial improvido.
+(REsp 632.474/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 03/05/2005, DJ 06/06/2005, p. 273)
+ADMINISTRATIVO. FGTS. LIBERAÇÃO. CONSTRUÇÃO DE MORADIA. FINANCIAMENTO HABITACIONAL. SFH. ART. 20 DA LEI Nº 8.036/90. VIOLAÇÃO NÃO CONFIGURADA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+1. Ação de mutuários do SFH contra a CEF para obter liberação do saldo do FGTS para pagamento do débito remanescente relativo a mútuo para aquisição de materiais de construção. Sentença que admite a liberação dos depósitos, determinando o pagamento dos valores cobertos pelo seguro contratado. Acórdão que mantém aos termos em que se fundamentou a decisão singular. Recurso especial que alega violação do art. 20, VI da Lei nº 8.036/90 por aplicação retroativa da circular 295/2003 e divergência jurisprudencial.
+2. A interpretação do art. 20 da Lei nº 8.036/90 deve ser extensiva, de modo a alcançar uma das diversas finalidades sociais do Fundo de Garantia por Tempo de Serviço  FGTS. Incabível a pretensão de incidência de resolução que, ao invés de atender aos fins sociais da norma, restringe direitos onde nem mesmo a lei o faz.
+3. Viável a utilização do saldo da conta do Fundo de Garantia por Tempo de Serviço para a quitação de débito decorrente de financiamento imobiliário (aquisição de materiais de construção para concluir a moradia onde residem os mutuários), ainda que o mutuário se encontre em situação de inadimplemento, pois além de solucionar o problema habitacional do trabalhador, se coaduna com a finalidade social do referido Fundo.
+4. Dissídio pretoriano não demonstrado. Acórdão paradigma da divergência que se alinha com o entendimento manifestado pelo acórdão recorrido.
+5. Violação ao art. 20 da Lei nº 8.036/90 não-configurada.
+6. Recurso especial a que se nega provimento.
+(REsp 716.183/RS, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 05/04/2005, DJ 02/05/2005, p. 237)
+ADMINISTRATIVO. RECURSO ESPECIAL. FGTS. LIBERAÇÃO. AQUISIÇÃO DE MORADIA. ART. 20 DA LEI Nº 8.036/90 E 35 DO DECRETO 99.684/90.
+VIOLAÇÃO NÃO CONFIGURADA. PRECEDENTES.
+1. Agravo de instrumento em ação ordinária ajuizada por [NOME] contra a CAIXA ECONÔMICA FEDERAL  CEF objetivando alvará judicial para liberação dos valores constantes da conta do FGTS com o fim de proceder a amortização do saldo devedor de financiamento imobiliário. Acórdão que entendeu encontrarem-se presentes os requisitos necessários para a concessão da medida de urgência (antecipação de tutela), bem como ser perfeitamente aceitável e plausível, dentro do ordenamento jurídico pátrio, o pedido de levantamento do FGTS para pagamento de imóvel, mesmo fora do SFH.
+Recurso especial apontando violação dos preceitos normativos contidos nos arts. 20 da Lei nº 8.036/90 e 35 do Decreto nº 99.684/90, os quais prevêem as hipóteses de saque do FGTS. Alegação de que a lei não contempla hipótese de saque do FGTS para aquisição de imóvel que não se enquadre nas normas do SFH.
+2. Perfeitamente viável a utilização do saldo da conta do Fundo de Garantia por Tempo de Serviço para a aquisição de moradia, mesmo à margem do SFH, pois além de solucionar o problema habitacional do trabalhador, coaduna-se com a finalidade social do referido Fundo.
+Precedentes inúmeros.
+3.. Violação dos arts. 20 da Lei nº 8.036/90 e 35 do Decreto 99.684/90 não configurada.
+4. Recurso especial a que se nega provimento.
+(REsp 638.804/RS, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 17/02/2005, DJ 04/04/2005, p. 198)
+ADMINISTRATIVO - FGTS - LEVANTAMENTO PARA PAGAMENTO DE PRESTAÇÕES DO SFH.
+1. As Leis ns. 5.107/66 e 8.036/90 permitem a utilização do FGTS para pagamento de prestações em atraso do financiamento do SFH.
+2. Inexistência de óbice legal se satisfeitas as condições exigidas em lei.
+3. Recurso especial não conhecido.
+(REsp 241.759/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 07/11/2000, DJ 04/12/2000, p. 60)
+Ressalta-se, contudo, que para que seja viável o exercício da pretensão de utilização do saldo do FGTS, é indispensável que esteja comprovado perante a instância a quo o atendimento de todas as condições próprias, previstas em lei (art. 20, da Lei 8.036/90).
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento, a fim de afastar o entendimento de que, por estar inadimplente, não poderia utilizar os recursos do FGTS.
+Publique-se.
