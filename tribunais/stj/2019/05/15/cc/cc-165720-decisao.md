@@ -1,0 +1,17 @@
+DECISÃO
+Vistos etc.
+Trata-se de conflito positivo de competência, com pedido liminar, suscitado por R CARVALHO CONSTRUÇÕES E EMPREENDIMENTOS LTDA, em recuperação judicial, em face do JUÍZO DE DIREITO DA 5A VARA DOS FEITOS DE RELAÇÕES DE CONSUMO CÍVEIS E COMERCIAIS DE FEIRA DE SANTANA - BA, no qual tramita os autos da recuperação judicial, e do JUÍZO DA VARA DO TRABALHO DE CRUZ DAS ALMAS - BA, no qual tramita a reclamatória trabalhista 0000706-27.2013.5.05.0401 movida por [NOME].
+Afirmou a suscitante que, embora estivesse em trâmite perante o Juízo Comum sua recuperação judicial, o Juízo do Trabalho suscitado, após julgar procedente a reclamação, determinou o prosseguimento da execução com ordem de bloqueio de crédito via Bacen-Jud, além de RENAJUD.
+Ressaltou, ainda, que as questões tendentes a afetar o patrimônio da empresa recuperanda devem ser analisadas pelo Juízo Universal da recuperação.
+Requereu, assim, a concessão de medida liminar para determinar o sobrestamento da execução trabalhista indicada, bem como para designar, em caráter provisório, o Juízo da 5ª Vara dos Feitos de Relação de Consumo, Cíveis e Comerciais de Feira de Santana - BA, em que é processada a recuperação judicial, para decidir acerca das medidas urgentes, determinando-se a liberação dos valores bloqueados.
+Requereu, ao final, que seja declarada a competência do juízo da recuperação para decidir acerca de eventuais atos executórios contra a empresa recuperanda.
+É o relatório.
+Passo a decidir o pedido de liminar.
+Deferida a recuperação judicial (0012324-78.2011.8.05.0080), a competência do juízo do trabalho limita-se a liquidar o crédito trabalhista, que deverá, após, ser habilitado no juízo da recuperação.
+Assim, havendo o juízo do trabalho suscitado prosseguido com a execução movida por [NOME], faz-se necessária a suspensão da referida ação executiva.
+Ante o exposto, defiro o pedido liminar para determinar a suspensão de quaisquer atos constritivos eventualmente realizados contra R CARVALHO CONSTRUÇÕES E EMPREENDIMENTOS LTDA, em recuperação judicial, bem como que o JUÍZO DA VARA DO TRABALHO DE CRUZ DAS ALMAS - BA se abstenha de praticar novos atos constritivos na reclamatória 0000706-27.2013.5.05.0401 em relação à empresa suscitante, vedando, ainda, a movimentação e liberação de eventuais valores já constritos até que seja julgado por esta Corte o presente conflito de competência.
+Designo, outrossim, o JUÍZO DE DIREITO DA 5ª VARA DOS FEITOS DE RELAÇÕES DE CONSUMO CÍVEIS E COMERCIAIS DE FEIRA DE SANTANA - BA para, em caráter provisório, solucionar eventuais medidas urgentes que se fizerem necessárias, em especial aquelas relativas à prática de atos executórios contra a empresa ora suscitante.
+Comuniquem-se, com urgência, as autoridades judiciárias em conflito, oficiando para que prestem informações no prazo de 10 (dez) dias (CPC/2015, art. 954).
+Intime-se o Administrador Judicial, MANDEL ADVOCACIA, na pessoa do sócio representante, Dr. JULIO KAHAN MANDEL ([OAB]), com endereço à Rua General Jardim, nº 808, 5º andar, Higienópolis, São Paulo/SP ([CEP]), para que, no prazo de 10 (dez) dias, preste esclarecimentos sobre o andamento da recuperação judicial, bem como sobre os créditos do interessado, [NOME], reconhecidos na Reclamatória Trabalhista n.º 0000706-27.2013.5.05.0401 em trâmite na VARA DO TRABALHO DE CRUZ DAS ALMAS - BA.
+Após, dê-se vista ao Ministério Público Federal (RISTJ, arts. 64, V e XIII, e 198).
+Intimem-se.
