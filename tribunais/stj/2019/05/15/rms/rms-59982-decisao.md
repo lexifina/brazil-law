@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. POLICIAL MILITAR. EXCLUSÃO DA CORPORAÇÃO. SESSÃO SECRETA DE JULGAMENTO DO CONSELHO DE DISCIPLINA. AUSÊNCIA DE INTIMAÇÃO DO ACUSADO E DE SEU DEFENSOR. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. RECURSO PROVIDO.
+DECISÃO
+Trata-se de recurso ordinário interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 1.814):
+Mandado de segurança. Ex-soldado da Policia Militar, expulso da corporação em razão de conduta incompatível com a função. Pretensão de anular o Processo Administrativo Disciplinar, com reintegração no cargo. Inadmissibilidade. Ausência de direito líquido e certo amparável por mandado de segurança. Prevalência do mérito do ato administrativo. PAD que observou as garantias constitucionais à ampla defesa, ao contraditório e ao devido processo legal. Indeferimento da petição inicial e extinção do processo sem resolução do mérito (CPC, arts. 485, I, e 330, III). Segurança denegada nos termos do art. 6º, § 5º, da Lei n. 12.016/2009.
+Agravo interno não provido.
+A parte recorrente sustenta a ilegalidade da sanção que lhe foi aplicada pelo Comandante Geral da Polícia Militar, face a manifesta infração ao contraditório e ampla defesa, bem como ao princípio da publicidade, uma vez que nem ele nem o seu patrono foram intimados a participar da sessão de julgamento do Conselho de Disciplina, o qual reuniu-se secretamente.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 1.752.
+Parecer do Ministério Público Federal às fls. 1.828-1.830 opinando pelo provimento do recurso ordinário.
+É o relatório. Decido.
+O cerne da controvérsia reside na apontada violação aos princípios do contraditório, ampla defesa e publicidade decorrente da ausência de intimação do recorrente e seu patrono para participar de sessão de julgamento efetuado por Conselho de Disciplina.
+Quanto ao tema, registrou o Tribunal de origem que "ao contrário do que supôs o agravante, o Conselho de Disciplina não julga nem impõe pena, pois se trata de órgão instrutor, não decisório; cabe ao Conselho tão somente opinar sobre o processo administrativo e propor a solução que entender cabível" (fl. 1.816).
+Ocorre, porém, que consoante entendimento firmado por esta Corte Superior, é ilegal a ausência de intimação do indiciado/acusado e de seu defensor para acompanhamento da sessão secreta do Conselho de Disciplina.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. POLICIAL MILITAR. EXCLUSÃO DA CORPORAÇÃO. MANDAMUS IMPETRADO CONTRA ATO DO GOVERNADOR. COMPETÊNCIA DO TRIBUNAL DE JUSTIÇA ESTADUAL. SESSÃO SECRETA DE JULGAMENTO DO CONSELHO DE DISCIPLINA. AUSÊNCIA DE INTIMAÇÃO DO ACUSADO E DE SEU DEFENSOR. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. AGRAVO INTERNO NÃO PROVIDO.
+1. A competência da justiça estadual comum para apreciar e julgar originariamente o mandado de segurança decorre do que dispõe o art. 74, III, da Constituição do estado de São Paulo, que atribui ao Tribunal de Justiça processar e julgar originariamente mandamus impetrado contra ato do chefe do Poder Executivo estadual.
+2. É imprescindível a intimação do acusado e de seu defensor para acompanhamento da sessão secreta do Conselho de Disciplina que pode deliberar sobre a exclusão daquele dos quadros da Polícia Militar, em razão dos princípios do contraditório e da ampla defesa, assegurados pela Constituição Federal. Precedentes.
+3. Agravo interno não provido (AgInt no RMS 58.714/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 5/4/2019).
+RECURSO ORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. EXCLUSÃO DA CORPORAÇÃO. SESSÃO SECRETA DE JULGAMENTO DO CONSELHO DE DISCIPLINA. AUSÊNCIA DE INTIMAÇÃO DO ACUSADO E DE SEU DEFENSOR. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA.
+1. "É ilegal a ausência de intimação do acusado e de seu defensor para acompanhamento da sessão secreta do Conselho de Disciplina que deliberou sobre a exclusão daquele dos quadros da Polícia Militar, em razão dos princípios do contraditório e da ampla defesa, assegurados pela Constituição Federal" (RMS 19.141/GO, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 7.12.2009). No mesmo sentido: AgRg no RMS 25.414/PB, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 6.9.2012.
+2. Recurso Ordinário parcialmente provido, para reconhecer a nulidade do processo administrativo disciplinar (RMS 59.025/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 17/12/2018).
+ADMINISTRATIVO. POLICIAL MILITAR. EXCLUSÃO DA CORPORAÇÃO. SESSÃO SECRETA DE JULGAMENTO DO CONSELHO DE DISCIPLINA. AUSÊNCIA DE INTIMAÇÃO DO ACUSADO E DE SEU DEFENSOR. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA.
+1. Segundo entendimento desta Corte, é ilegal a ausência de intimação do acusado e de seu defensor para acompanhamento da sessão secreta do Conselho de Disciplina que deliberou sobre a exclusão daquele dos quadros da Polícia Militar, em razão dos princípios do contraditório e da ampla defesa, assegurados pela Constituição Federal. Precedentes.
+2. Agravo regimental improvido (AgRg no RMS 25.414/PB, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 6/9/2012).
+Tem-se, desse modo, que o recurso ordinário deve ser provido para conceder a segurança pleiteada e cassar o ato coator, determinando-se a realização de nova sessão secreta do Conselho de Disciplina com a devida intimação das partes.
+Com essas considerações, dou provimento ao recurso em mandado de segurança nos termos da fundamentação.
+Publique-se. Intimem-se.
