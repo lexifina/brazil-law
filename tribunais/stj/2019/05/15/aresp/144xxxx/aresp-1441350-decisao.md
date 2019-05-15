@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] de decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de Goiás.
+Sustenta a defesa, nas razões do recurso especial, violação do art. 26, § único do Código Penal, ao argumento de que "reconhecer o grau moderado da dependência toxicológica do acusado significa reputá-la nem leve, nem acentuada. Em outras palavras, é exatamente um grau intermediário. Nada mais lógico, pois, que a aplicação da minorante refletisse o grau de dependência do recorrente, o que não foi feito" (e-STJ, fl. 283). Aduz ainda que "fica evidente a conclusão deste STJ no sentido de que, em se tratando de dependência em grau moderado, o quantum de pena a ser diminuído deve corresponder ao patamar intermediário do intervalo previsto legalmente, isto é, 1/2. Isso porque a fração mínima deve ser aplicada nos casos em que semi - imputabilidade é reduzida, como assentado no julgado acima" (e-STJ, fl. 284).
+Requer, o provimento do recurso para que seja aplicada a causa de diminuição na fração intermediária de 1/2.
+Apresentadas as contrarrazões (e-STJ, fls. 289-292), o recurso foi inadmitido com fundamento na Súmula 83 do STJ (e-STJ, fls. 299-300). Daí este agravo (e-STJ, fls. 309-313).
+O Ministério Público Federal opinou pelo não provimento do agravo (e-STJ, fls. 331-335).
+É o relatório.
+Decido.
+A Corte de origem, sobre o tema, assim se manifestou:
+"Na sentença (fl. 173), a redução da pena, por essa causa, concretizou na "fração mínima de 1/3", por apurado, em laudo médico pericial, grau moderado de dependência do acusado ao crack, com redução da capacidade de determinar-se também moderada.
+Ora, como o patamar de abrandamento da pena levou em conta a capacidade de entendimento da conduta delituosa, embasado no grau de perturbação da saúde mental suportada pelo acusado (Grau Moderado), como "sendo inteiramente capaz de entender o caráter ilícito do fato e tendo reduzida sua capacidade de determinar-se de acordo com esse entendimento", inviabiliza aplicação de fração intermediária, já que devidamente justificada a escolha e achar-se em sintonia com a constatação da prova técnica elaborada.
+Portanto, mantida a pena privativa de liberdade estabelecida definitivamente em 3 anos, 6 meses e 20 dias de reclusão, como também o regime inicial aberto, além de 10 dias-multa" (e-STJ, fl. 266, grifou-se).
+Como é cediço, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+Como se vê, o acórdão combatido encontra-se devidamente alicerçado no Laudo Médico pericial, o qual concluiu ser o agravante "inteiramente capaz de entender o caráter ilícito do fato e tendo reduzida sua capacidade de determinar-se de acordo com esse entendimento" e manteve o patamar de 1/3 da causa de diminuição.
+Desse modo, não se verifica a suscitada negativa de vigência aos arts 26 do Código Penal.
+Ressalte-se que a reforma do acórdão recorrido, com o fito de alterar o quantum, tal como pleiteado pela defesa, demandaria necessariamente o reexame do caderno fático-probatório dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
