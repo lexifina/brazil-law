@@ -1,0 +1,55 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO NA ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. PEDIDO DE GRATUIDADE DE JUSTIÇA. AUSÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, MAS SEM EFEITOS INFRINGENTES.
+DECISÃO
+ELEUZA APARECIDA DOS SANTOS (ELEUZA) ajuizou ação de rescisão contratual contra BALI BRASÍLIA AUTOMÓVEIS LTDA. e outras (BALI e outras), pleiteando o rompimento de contrato de compra e venda de veículo e cédula de crédito bancário, a devolução de valores pagos e indenização por danos morais, em virtude de defeitos identificados no veículo.
+A ação foi julgada parcialmente procedente, tendo sido decretada a rescisão do contrato de compra e venda e do contrato bancário, condenando-as à imediata restituição do preço total pago (e-STJ, fls. 547/559).
+O Tribunal de origem deu provimento aos recursos de apelação interpostos por BALI e outras e negou provimento ao recurso adesivo interposto por ELEUZA em acórdão, assim ementado:
+DIREITO DO CONSUMIDOR. ILEGITIMIDADE PASSIVA. PRELIMINARES AFASTADAS. LAUDO. DETALHADO E FUNDAMENTADO. CONTRAPOSIÇÃO. PROVAS. AUSÊNCIA. MANTIDO. VEÍCULO PERICIADO. VÍCIOS NÃO CONFIGURADOS. ALTERAÇÃO DOS PARÂMETROS DE FÁBRICA. CAUSAS POSSÍVEIS DIVERSAS. ACIONAMENTO DA CONCESSIONÁRIA. DIVERSAS VEZES. VÍCIOS. VARIADOS. SANADOS. RESTITUIÇÃO DO PREÇO PAGO OU SUBSTITUIÇÃO DO VEÍCULO. ART. 18 DO CDC. APLICAÇÃO. IMPOSSIBILIDADE. DANO MORAL. MEROS ABORRECIMENTOS. NEXO CAUSAL. NÃO CONFIGURADO. AFASTADO. SUCUMBÊNCIA INVERTIDA.
+1. Comercialização de bem móvel e prestação de serviços de reparação mecânica por concessionária automobilística caracteriza relação entre fornecedor e consumidor, estando sob guarda do Código de Defesa do Consumidor.
+2. O laudo emitido por especialista com experiência e formação na área de mecânica de automóveis e de isenção não aquebrantada, elaborado considerando todas as circunstâncias apresentadas nos autos e pormenorizado em cada ponto controvertido questionado não pode ser contraposto sem provas.
+3. Vícios arguidos e não verificados em perícia ou simplesmente decorrentes de diversas causas possíveis e alheias às responsabilidades da fabricante e da concessionária, ou a ida reiterada ao representante em busca de reparo de diversos pequenos defeitos, que foram sanados, não constituem ilegalidade ou mereçam abrigo do art. 18 do CDC.
+4. Aborrecimentos e dissabores pelo acionamento da concessionária que não ofendam a segurança, a personalidade e que não provoquem dor, vergonha ou aflição física ou moral não consubstanciam o pedido por dano moral.
+5. Embora a ação tenha sido ajuizada quando em vigência o Código de Processo Civil de 1973, a sentença fora publicada quando o novo estatuto processualista já vigia.
+6. Nos termos do art. 85, §§ 2º e 11 do CPC/2015, o tribunal, ao julgar o recurso, deve fixar o valor dos honorários, levando em consideração o zelo profissional, o lugar do serviço, natureza e importância da causa, trabalho e tempo exigido do advogado.
+7. Recursos conhecidos. Preliminares rejeitadas. Apelos providos e recurso adesivo improvido. Em vista do trabalho adicional realizado em grau de recurso, foi invertida e fixada a verba honorária de sucumbência. Unânime (e-STJ, fls. 662/663).
+Os embargos de declaração opostos por ELEUZA foram parcialmente acolhidos, em acórdão assim ementado:
+EMBARGOS DECLARATÓRIOS. OBSCURIDADE. ESCLARECIMENTO. PARCIAL PROVIMENTO. MANUTENÇÃO DO ACÓRDÃO.
+1. Diante de dúvidas que importem na dificuldade de entendimento do embasamento e alcance da decisão, faz-se oportuno o esclarecimento do ponto controvertido.
+2. O aclaramento de questões que dêem margem à ambiguidade de interpretação, não determina necessariamente a modificação do acórdão, vez que não se alterou os seus fundamentos ou da decisão proferida.
+3. Embargos parcialmente providos. Unânime (e-STJ, fls. 709/718).
+Inconformada, ELEUZA interpôs recurso especial com base no art. 105, III, a e c, da CF, sustentando a ocorrência de violação dos arts. 8º, 18, 26 do CDC, 371, 479 do NCPC e divergência jurisprudencial, aduzindo, em síntese, que (1) o veículo adquirido apresentou vícios de qualidade; (2) a primeira reclamação fora protocolizada três dias após a retirada do veículo da concessionária, obstando o prazo decadencial para reclamação quanto ao vício do produto; (3) o prazo decadencial teria sido sucessivamente renovado, diante da aparição reiterada de defeitos; (4) o prazo decadencial inicia-se a partir da descoberta do vício oculto; (5) pela teoria da verossimilhança da prova, deve ser conferido valor à reclamação da compradora, que tinha melhores condições de aferir os defeitos do veículo, a despeito da prova pericial produzida; e (6) a conduta de BALI e outras gerou dano moral, tendo em vista ELEUZA ter sido compelida a retornar à concessionária diversas vezes para reparação dos defeitos.
+Não foram oferecidas contrarrazões.
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre ante a incidência das Súmulas nºs 7 e 83 do STJ.
+Contra essa decisão, ELEUZA interpôs o agravo em recurso especial, no qual foi refutada a aplicação dos referidos óbices.
+Não foram apresentadas contrarrazões ao agravo.
+O agravo foi conhecido mas não conhecido o recurso especial em decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO CONTRATUAL. PREQUESTIONAMENTO. AUSÊNCIA. VÍCIO DE QUALIDADE. NÃO COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. DANOS MORAIS. NÃO RECONHECIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 813).
+Nas razões destes aclaratórios, ELEUZA afirmou que há omissão na decisão no que se refere ao pedido de gratuidade de justiça formulado no bojo do recurso especial.
+Não foi apresentada impugnação (e-STJ, fl. 831).
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Da violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+ELEUZA afirmou que há omissão na decisão no que se refere ao pedido de gratuidade de justiça formulado no bojo do recurso especial.
+De fato, consta na petição do recurso especial o pedido de concessão da gratuidade de justiça.
+Nos termo do art. 99 do NCPC requerida a gratuidade de justiça em recurso, o recorrente estará dispensado de comprovar o recolhimento do preparo, sendo incumbência do relator a apreciação do pedido.
+Assim, considerando o pedido realizado no bojo do recurso e os documentos apresentado, defiro o pedido de gratuidade de justiça apenas para processamento do recurso especial.
+Cumpre esclarecer que a jurisprudência desta Corte já consolidou o entendimento que a concessão do benefício somente produzirá efeitos quanto aos atos processuais relacionados ao momento do pedido, ou posteriores a ele, não sendo admitida, portanto, sua retroatividade.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. AUSÊNCIA DOS REQUISITOS PARA CONCESSÃO DO EFEITO SUSPENSIVO PLEITEADO. 2. FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADA. 3. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. 4. GRATUIDADE DE JUSTIÇA. PEDIDO REALIZADO NO CURSO DA DEMANDA. DEFERIMENTO QUE NÃO POSSUI EFEITO RETROATIVO. 5. AGRAVO IMPROVIDO.
+1. A concessão de efeito suspensivo ao reclamo deve ser indeferida, pois somente será admitida em situações extremamente excepcionais, a saber: quando demonstrada a alta probabilidade de provimento do recurso especial, nos casos de dano de difícil reparação, ou quando o acórdão for contrário à jurisprudência pacífica desta Corte, o que não é o caso dos autos.
+2. Não ficou caracterizada a violação do art. 489 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. 3.
+Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (enunciado n. 211 da Súmula do STJ).
+3.1. Nos termos da jurisprudência desta Corte, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe 10/4/2017).
+4. Quanto ao pedido de concessão dos benefícios da assistência judiciária gratuita, embora a parte possa fazê-lo a qualquer tempo, tendo como justificativa sua condição econômico-financeira, não mudaria a conclusão a que chegou a Corte estadual. Isso porque, segundo o entendimento jurisprudencial do Superior Tribunal de Justiça, o qual continua sendo plenamente aplicado, a concessão do benefício somente produzirá efeitos quanto aos atos processuais relacionados ao momento do pedido, ou posteriores a ele, não sendo admitida, portanto, sua retroatividade.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.373.321/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/3/2019, DJe 28/3/2019)
+No caso dos autos, o pedido de gratuidade de justiça foi formulado após a fixação da sucumbência na origem, sendo indevido o seu afastamento.
+Nessas condições, ACOLHO os embargos de declaração, com efeitos infringentes, para conceder a gratuidade de justiça apenas para processamento do recurso especial, nos termos da fundamentação supra.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se
