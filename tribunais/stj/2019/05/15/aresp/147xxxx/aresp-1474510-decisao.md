@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por WMS SUPERMERCADOS DO BRASIL LTDA, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido por TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL EMBARGOS À EXECUÇÃO FISCAL AQUISIÇÃO DE SACOLAS PLÁSTICAS FITAS E ETIQUETAS POR SUPERMERCADO PRETENSÃO DE CREDITAMENTO DE ICMS IMPOSSIBILIDADE BENS QUE NÃO PODEM SER CONSIDERADOS IN SUMOS MULTA CARÁTER CONFISCA TÓRIO INOCORRÊNCIA PERCENTUAL DE 60% SOBRE O VALOR DO TRIBUTO QUE NÃO SE MOSTRA ABUSIVO PRECEDENTES DESTE TRIBUNAL DE JUSTIÇA E DESTA CÂMARA CÍVEL HONORÁRIOS ADVOCATÍCIOS FIXAÇÃO QUE DEVE OBEDECER AO DISPOSTO NO ARTIGO 85 §5º DO CPC
+APELAÇÃO 1 - PROVIDA
+APELAÇÃO 2 - DESPROVIDA.
+Quanto à primeira controvérsia, pela alínea a, alega violação dos arts. 19, 20, 21 e 33 da Lei Complementar 87/96, no que concerne ao aproveitamento de crédito de ICMS na aquisição de sacolas plásticas, fitas e etiquetas por supermercados.
+Quanto à segunda controvérsia, pela alínea a, sem indicar dispositivo de lei federal violado, a parte traz argumento no que concerne à necessidade do afastamento da multa por creditamento indevido de ICMS previamente à alteração do critério jurídico do lançamento tributário pela Fazenda Pública estadual.
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula 211/STJ, visto que é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Quanto à segunda controvérsia, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais os dispositivos legais que teriam sido violados, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "O acórdão recorrido firmou-se tão somente na ausência de preenchimento dos requisitos de admissibilidade necessários à análise do mérito recursal, em virtude  ..  do enunciado n.º 284 do Supremo Tribunal Federal, diante da ausência de indicação dos dispositivos legais sobre o qual recairia a controvérsia" (AgInt no RE nos EDcl no AgRg no AREsp n. 821.471/SP, relatora Ministra Laurita Vaz, Corte Especial, DJe de 15/12/2016).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
