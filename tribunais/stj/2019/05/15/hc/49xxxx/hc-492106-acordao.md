@@ -1,0 +1,53 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS, DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E DE PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. NECESSIDADE DA MEDIDA EXCEPCIONAL. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DOS DELITOS PRATICADOS PELA ORGANIZAÇÃO CRIMINOSA. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+1. O Superior Tribunal de Justiça firmou posicionamento segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal.
+2. In casu, o decreto preventivo se encontra devidamente fundamentado, tendo sido demonstradas, com base em elementos concretos, a gravidade do delito e a periculosidade do agente evidenciadas pelas circunstâncias do delito, em que há indícios de que o paciente integre organização criminosa bem estruturada com distribuição de tarefas, buscando a inserção de drogas em sistema prisional, tudo a indicar que a sua custódia cautelar se faz necessária para garantia da ordem pública.
+3. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, denegar a ordem nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] contra acórdão proferido pelo Tribunal de Justiça de São Paulo.
+Tem-se dos autos que o paciente e outros acusados foram denunciados pelo Ministério Público estadual pela suposta prática dos crimes de tráfico de drogas, associação para o tráfico de drogas, posse irregular de arma de fogo de uso permitido e porte ilegal de arma de fogo com numeração suprimida, sendo determinada a prisão preventiva de todos acusados, inclusive do ora paciente (fls. 53/55 - Processo n. 0002549-28.2018.8.26.0268).
+Irresignada, a defesa impetrou habeas corpus no Tribunal de Justiça que, por sua vez, denegou a ordem, mantendo a segregação cautelar dos acusados (fls. 74/80 - Habeas Corpus n. 2242648-50.2018.8.26.0000).
+Daí o presente writ, em que se alega constrangimento ilegal na prisão preventiva do paciente, defendendo-se, em breve síntese, que as decisões guerreadas se fundam em fatos abstratos, inexistindo, por conseguinte, qualquer fundamentação que atenda os ditames da lei. Nesse passo, existe inescusável constrangimento ilegal, já que o Paciente não foi preso em flagrante delito e também desconhece as outras pessoas envolvidas, com exceção de sua esposa [NOME] (fl. 5).
+Requer-se a concessão liminar da ordem para que seja relaxada a prisão do paciente, com a imediata expedição de alvará de soltura e favor deste (fl. 15).
+Em 11/2/2019, foi indeferida a liminar (fls. 86/88).
+Informações prestadas às fls. 93/101 e 102/127.
+O Ministério Público Federal emitiu parecer pela denegação da ordem (fls. 129/134).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Busca a impetração a revogação da prisão preventiva decretada em desfavor do paciente, pela suposta prática dos crimes de tráfico de drogas, associação para o tráfico de drogas, posse irregular de arma de fogo de uso permitido e porte ilegal de arma de fogo com numeração suprimida.
+Tem-se do decreto de prisão preventiva que (fls. 54/55):
+ ..  No mais, o pleito ministerial para prisão preventiva dos acusados comporta deferimento.
+Aos acusados é atribuído crime grave, cujas reprimendas, caso condenados, será fixadas em regime fechado. Além disso, as investigações demonstram que os réus agiam de forma conjunta, em atividade frequente, tendo montado uma verdadeira operação para venda de entorpecentes, com divisão de tarefas (e hierarquia) e de modo organizado.
+No caso corrente, os agentes demonstram grande temibilidade em concreto, ao se associarem para o cometimento de infração criminal grave, inclusive, com emprego de arma de fogo, ressalto.
+A materialidade é inconteste (com intensa investigação, contanto ainda com interceptações telefônicas). Os indícios de autoria são fortíssimos, já que, a droga foi apreendida na residência de alguns acusados - Paulo, [NOME] e Edileusa (o que agrava o caso, considerando que o princípio da inviolabilidade do lar os mantinha de certa forma protegidos de eventual persecução).
+Anoto, ainda, a audácia dos criminosos ao tentarem introduzir drogas dentro do sistema prisional, de acordo com as investigações, demonstrando absoluto desrespeito para com o sistema de justiça.
+Tudo indica que os acautelados são indivíduos que fazem do crime o seu meio de vida.
+É possível supor com base em dados concretos, portanto, que os réus, se em liberdade, permanecerão delinquindo. A medida é, portanto, imprescindível como forma de preservação da ordem pública. A necessidade de se prevenir a reprodução de novos delitos é também a motivação para custódia.
+A prisão preventiva justifica-se, ainda, para preservar a prova processual, garantido sua regular aquisição, conservação e veracidade, imune a qualquer ingerência nefasta dos agentes.
+ ..
+Assim, com a finalidade de garantir a ordem pública, em face da gravidade em abstrato e em concreto do fato, decreto a prisão preventiva dos pilhados.
+ ..
+O Tribunal de Justiça, por sua vez, pontuou que (fl. 79):
+ ..  a decisão de origem, mais que fundamentada cumpre absoluta e perfeitamente os requisitos legais, porque esclarece quais os fundamentos e justifcativas para a necessidade prisional.
+Que são aqui encampados e adotados.
+O Superior Tribunal de Justiça firmou posicionamento, segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal.
+Convém, ainda, ressaltar que, considerando os princípios da presunção da inocência e a excepcionalidade da prisão antecipada, a custódia cautelar somente deve persistir em casos em que não for possível a aplicação de medida cautelar diversa, de que cuida o art. 319 do Código de Processo Penal.
+Dos autos, tenho que o decreto preventivo se encontra devidamente fundamentado, tendo sido demonstradas, com base em elementos concretos, a gravidade do delito e a periculosidade do agente evidenciadas pelas circunstâncias do delito, em que há indícios que o paciente integre organização criminosa bem estruturada com distribuição de tarefas, buscando a inserção de drogas em sistema prisional, tudo a indicar que a sua custódia cautelar se faz necessária para garantia da ordem pública.
+Nesse sentido:
+HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. ALEGAÇÃO DE FALTA DE INDÍCIOS SUFICIENTES DE AUTORIA. NECESSIDADE DE ANÁLISE DE PROVAS. VIA INADEQUADA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. REITERAÇÃO DELITIVA. MOTIVAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. HABEAS CORPUS CONHECIDO EM PARTE E, NESSA EXTENSÃO, DENEGADA A ORDEM.
+1. Reconhecer a ausência, ou não de indícios suficientes de autoria acarretaria, inevitavelmente, aprofundado reexame do conjunto fático-probatório, impróprio na via do habeas corpus.
+2. O art. 312 do Código de Processo Penal apresenta como pressupostos da prisão preventiva o periculum libertatis e o fumus commissi delicti, este caracterizado pela prova da existência do crime e indício suficiente de autoria; aquele representado pela garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal.
+3. É válido o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto do fato delituoso, cifrada na quantidade de entorpecente apreendido - 389 g de maconha, bem como no fato de que a intenção do Paciente era entrar no estabelecimento prisional com a droga apreendida.
+4. A manutenção da prisão provisória encontra-se também fundamentada ante o risco concreto de reiteração delitiva. A jurisprudência da Suprema Corte é no sentido de que "a periculosidade do agente e a fundada probabilidade de reiteração criminosa constituem fundamentação idônea para a decretação da custódia preventiva" (HC n. 150.906 AgR, Ministro Roberto Barroso, Primeira Turma, DJe 25/4/2018).
+5. Habeas corpus conhecido em parte e, nessa extensão, denegada a ordem (HC n. 482.898/SP, Sexta Turma, Ministra Laurita Vaz, DJe 7/3/2019).
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. ARMA DE FOGO. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência à gravidade concreta da conduta imputada ao paciente, que, segundo o decreto prisional, foi preso em flagrante na posse de 632g (seiscentos e trinta e dois gramas) de maconha, duas balanças de precisão, celulares e duas armas de fogo municiadas - uma com 5 cartuchos íntegros, a outra com 4 cartuchos íntegros, além de 6 deflagrados e numeração raspada. Dessarte, está evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+3. Condições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (precedentes).
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+5. Ordem denegada (HC n. 478.464/SP, Sexta Turma, Ministro Antonio Saldanha Palheiro, DJe 8/3/2019)
+De mais a mais, o entendimento do Superior Tribunal de Justiça é no sentido de ser inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Ante o exposto, denego a ordem.
