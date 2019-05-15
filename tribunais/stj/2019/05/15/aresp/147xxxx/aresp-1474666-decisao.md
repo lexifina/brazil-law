@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo apresentado por R.R. SANTO ANDRE COMERCIO DE VEICULOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a e c da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+RESCISÃO CONTRATUAL. NÃO OBTENÇÃO DE FINANCIAMENTO JUNTO A INSTITUIÇÃO FINANCEIRA. PEDIDO DE DEVOLUÇÃO DO SINAL. CONTRATO RESOLVIDO SEM CULPA DAS PARTES. SINAL QUE DEVE SER INTEGRALMENTE DEVOLVIDO. CORREÇÃO E JUROS. AUSÊNCIA DE DANO MORAL. RECURSO PROVIDO EM PARTE.
+Em relação à primeira controvérsia, pela alínea a, alega violação dos arts. 418 e 492 do CC, aduzindo que, uma vez não completado o negócio de compra e venda de automóvel por culpa do recorrido, é de ser retido o sinal dado, trazendo os seguintes argumentos:
+Consoante se infere dos autos, temos que a compra e venda do veículo não foi concretizada em razão do adimplemento do preço, como era de obrigação do recorrido (fl. 107).
+De acordo com o contrato entre as partes, o recorrido pagou o valor de R$ 3.500,00 a título de sinal, comprometendo-se a pagar o preço dando seu veículo como entrada e o restante por meio de financiamento bancário (fl. 107).
+Ocorre que, conforme consta dos autos, o financiamento não foi aprovado por nenhuma das instituições financeiras consultadas e o recorrido não apresentou outra forma de pagamento, motivo pelo qual o negócio foi desfeito (fl.107).
+Ao decidir da forma impugnada, o E. Tribunal violou as disposições contidas nos artigos 492 e 418 do Código Civil (..) (fl. 107).
+Em relação à segunda controvérsia, pela alínea c, alega dissenso jurisprudencial, sem apontar o dispositivo objeto da divergência.
+É o relatório. Decido.
+Quanto à primeira controvérsia, incide, na espécie, o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Quanto à segunda controvérsia, incidente o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF" (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
