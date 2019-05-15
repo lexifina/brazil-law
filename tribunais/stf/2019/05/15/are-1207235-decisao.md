@@ -1,0 +1,24 @@
+Trata-se de agravo contra decisão em que se negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÃO. AÇÃO DECLARATÓRIA. Demanda extinta, sem resolução do mérito. Contrato de cessão remunerada. Existência de cláusula compromissória. Vinculação, de caráter obrigatório, entre as partes. Questões acerca da validade ou eficácia do compromisso arbitral que devem ser dirimidas, primeiramente, pelo Tribunal arbitral. Princípio kompetenz-kompetenz. Inteligência dos artigos 8°, parágrafo único, e 20 da Lei 9.307/96. Cláusula compromissória vazia. Irrelevância. Circunstância que não tem o condão de gerar a inviabilidade do pactuado entre as partes” (pág. 140 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, violação do art. 5°, XXXIV e XXXVI, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque, para divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos e de cláusulas contratuais – o que é vedado pelas Súmulas 279/STF e 454/STF–, bem como das normas infraconstitucionais aplicáveis ao caso, de modo que eventual ofensa à Constituição Federal seria indireta, o que inviabiliza o recurso. Nesse sentido, destaco os seguintes julgados desta Corte:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CLÁUSULA ARBITRAL. LEI 9.307/1996. CONTROVÉRSIA DE ÍNDOLE INFRACONTITUCIONAL. OFENSA REFLEXA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO’ (ARE 857.799-AgR/PR, Rel. Min. Luiz Fux, Primeira Turma).
+    “Ementa: Agravo regimental no recurso extraordinário com agravo. Direito civil e processual civil. Prequestionamento. Ausência. Convenção de arbitragem. Cláusula compromissória. Validade. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Cláusulas contratuais. Reexame. Impossibilidade.
+    1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF.
+    2. O recurso extraordinário não se presta para a análise da legislação infraconstitucional, tampouco do conjunto fático-probatório dos autos e das cláusulas do contrato celebrado entre as partes. Incidência das Súmulas nºs 636, 454 e 279/STF.
+    3. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC).
+    4. Inaplicável o art. 85, § 11, do CPC, haja vista que não houve condenação do agravante em honorários advocatícios pela Corte de origem” (ARE 1.059.810-AgR/SP, Rel. Min. Dias Toffoli, Segunda Turma).
+    "Ementa: Agravo regimental em recurso extraordinário. 2. Cláusula arbitral. 3. Alegação de ofensa ao princípio da inafastabilidade do acesso à Justiça. 4. Matéria infraconstitucional. 5. Ausência de prequestionamento. 6. Agravo regimental a que se nega provimento" (RE 598.754-AgR/DF, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Além disso, a jurisprudência deste Tribunal é no sentido de que não há falar em negativa de prestação jurisdicional se a parte se valeu dos meios recursais cabíveis e teve a jurisdição devidamente prestada por decisões fundamentadas, ainda que contrárias aos seus interesses. Com esse entendimento, cito o ARE 783.317-AgR/SC, da relatoria do Ministro Luiz Fux, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+    1. A prestação jurisdicional resta configurada com a prolação de decisão devidamente fundamentada, embora contrária aos interesses da parte. Nesse sentido, ARE 740.877-AgR/DF, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 4/6/2013.
+    2. A decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que a mesma se funde na tese suscitada pela parte. Precedente: AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    3. In casu, o acórdão recorrido assentou: PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. APOSENTADORIA POR INVALIDEZ. COISA JULGADA.
+    4. Agravo regimental DESPROVIDO”.
+    No mesmo sentido: RE 632.356-AgR/RS, de minha relatoria; ARE 805.300-AgR/BA, Rel. Min. Cármen Lúcia; AI 791.292-RG-QO/PE e ARE 740.877-AgR/DF, Rel. Min. Gilmar Mendes; e RE 591.961-AgR/RJ, Rel. Min. Rosa Weber.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 20% (vinte por cento) os honorários advocatícios anteriormente fixados pelo juízo de origem, observados os limites legais.
+    Publique-se.
+    Brasília, 15 de maio de 2019.
+Ministro Ricardo Lewandowski
+Relator
