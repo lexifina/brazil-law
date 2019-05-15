@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “Decisão da relatora que negou seguimento ao apelo do réu. Ação revisional de benefícios. Pretensão de servidor público estadual restrita à percepção das diferenças salariais decorrentes das perdas sofridas por ocasião do padrão monetário instituído pela Lei nº 8.880/1994. Sentença de improcedência. Recente posicionamento firmado pelo Supremo Tribunal Federal, em sede de repercussão geral, de que o direito a percentual decorrente do processo de liquidação, na remuneração do servidor, resultante da equivocada conversão do Cruzeiro Real em URV, não representa um aumento na remuneração do servidor público, mas um reconhecimento da ocorrência de indevido decréscimo no momento da conversão da moeda em relação àqueles que recebem seus vencimentos em momento anterior ao do término do mês trabalhado, tal como ocorre, por exemplo, no âmbito do Poder Legislativo e do Poder Judiciário por força do art. 168 da Constituição da República. Logo, o referido percentual deve ser incorporado à remuneração dos aludidos servidores, sem qualquer compensação ou abatimento em razão de aumentos remuneratórios supervenientes. Igual posicionamento emana do Superior Tribunal de Justiça, no regime de recursos repetitivos, quanto à obrigatoriedade de observância pela União, Estados, Distrito Federal e Municípios aos critérios previstos na Lei federal para a conversão em URV aos vencimentos e dos proventos de seus servidores. Obediência ao disposto no artigo 22 da Lei em referência. Autora que faz jus à reposição decorrente da conversão dos vencimentos em URV, incidente sobre valor original da remuneração recebida à época. Precedentes. Agravo interno que não apresenta elementos novos capazes de modificar a decisão monocrática recorrida, que se mantém. RECURSO A QUE SE NEGA PROVIMENTO. .” (eDOC 8, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, inciso XXXVI; 37, caput e XV, do texto constitucional. (eDOC 13, p.1)
+    Nas razões recursais, alega-se que a reestruturação da remuneração da carreira a que se vincula a recorrida em 2 de dezembro de 2009 fez cessar, deste então, qualquer defasagem que se pudesse cogitar.
+    Aponta inexistir direito adquirido à estrutura remuneratória anterior à reestruturação da carreira.
+    Destaca respeitada a irredutibilidade de vencimentos.
+    É o relatório.
+    Decido.
+    Verifico que a lide versa a controvérsia correspondente ao tema 5 da sistemática da repercussão geral, cujo paradigma é o RE-RG 561.836, rel. Min. Luiz Fux, Tribunal Pleno, DJe 10.2.2014.
+    Pelo exposto, determino a devolução dos autos ao Tribunal de origem, para exercício do juízo de adequação do acórdão recorrido ao decidido no RE-RG 561.836, rel. Min. Luiz Fux, Tribunal Pleno, DJe 10.2.2014. (art. 1.036 do Código de Processo Civil)
+    Publique-se.
+    Brasília, 15 de maio de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
