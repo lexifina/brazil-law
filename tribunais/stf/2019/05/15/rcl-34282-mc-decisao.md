@@ -1,0 +1,28 @@
+DECISÃO
+VERBETE VINCULANTE Nº 10 DA SÚMULA DO SUPREMO – INOBSERVÂNCIA – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Cemig Distribuição S. A. assevera haver a Sétima Turma do Tribunal Regional do Trabalho da 3ª Região, no processo nº 0000228-60.2014.5.03.0006, olvidado o verbete vinculante nº 10 da Súmula do Supremo, bem assim o decidido na arguição de descumprimento de preceito fundamental nº 324.
+    Segundo narra, o interessado, Deny Junio Vinicius Pereira, ajuizou ação contra si e AeC Centro de Contatos S. A., esta na condição de empregadora e prestadora de serviços, objetivando, considerado o princípio da isonomia, o recebimento de verbas trabalhistas levando em conta o que pago aos próprios empregados. Salienta improcedência dos pedidos formalizados. A sentença acabou reformada em sede de ordinário, no que reconhecida a ilicitude da terceirização verificada e atribuída a si responsabilidade subsidiária pelos créditos, surgindo daí o apontado desrespeito. Declaratórios foram desprovidos. Realça a protocolação de recurso de revista, inadmitido. Interposto agravo de instrumento, não houve êxito.
+    Sustenta contrariado o verbete vinculante nº 10, afirmando afastado, com alegada base na Constituição Federal e por órgão fracionário, o artigo 25, § 1º, da Lei nº 8.987/1995, a permitir a terceirização de atividades inerentes, acessórias ou complementares ao serviço concedido. Eis o teor da norma:
+    Art. 25. Incumbe à concessionária a execução do serviço concedido, cabendo-lhe responder por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, sem que a fiscalização exercida pelo órgão competente exclua ou atenue essa responsabilidade.
+    § 1º Sem prejuízo da responsabilidade a que se refere este artigo, a concessionária poderá contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço concedido, bem como a implementação de projetos associados.
+    [...]
+    Articula com a adequação da terceirização de tarefas inerentes ao serviço concedido, entre as quais se incluem, conforme destaca, eventual tarefa integrada à própria dinâmica produtiva. Frisa afastado o preceito, mesmo de forma implícita, considerados o princípio constitucional da isonomia, a indicar transgressão à cláusula de reserva de plenário. Tendo em conta o assentado na arguição de descumprimento de preceito fundamental nº 324, assinala a insuficiência do critério atinente à distinção entre atividades meio e fim, estando permitida a terceirização de mão de obra inclusive quanto à atividade alcançada pelo próprio objeto social.
+    Sob o ângulo do risco, alude à iminência da execução provisória.
+    Requer, em sede liminar, a suspensão do pronunciamento atacado e do curso do processo originário. Busca, alfim, a cassação do acórdão impugnado.
+    A conclusão do exame da arguição de descumprimento de preceito fundamental deu-se na sessão do Pleno de 30 de agosto de 2018, e a publicação da ata de julgamento, no dia imediato.
+    O acórdão reclamado foi formalizado em 5 de junho de 2014.
+    2. No tocante ao assentado na arguição de descumprimento de preceito fundamental nº 324, a jurisprudência do Tribunal sinaliza a inadequação de reclamação voltada à observância de paradigma quando a decisão questionada lhe for anterior. Confiram a seguinte ementa, a retratar a óptica do Pleno:
+    RECLAMAÇÃO. Inadmissibilidade. Alegação de ofensa à súmula vinculante nº 10. Decisão anterior à edição desta. Seguimento negado. Agravo improvido. Não cabe reclamação por ofensa a súmula vinculante editada após a decisão impugnada.
+    (Agravo regimental na reclamação nº 8.846, Pleno, relator o ministro Cezar Peluso, Diário da Justiça de 9 de abril de 2010)
+    Quanto ao arguido desrespeito ao verbete vinculante nº 10, notem, a partir da leitura dos fundamentos veiculados na decisão questionada, que o Tribunal Regional do Trabalho, a par de haver enquadrado as tarefas desempenhadas pelo interessado no âmbito das finalidades sociais da concessionária de serviço público, afastou, com base na isonomia, o artigo 25, § 1º, da Lei nº 8.987/1995, mediante o qual permitida a terceirização de “atividades inerentes, acessórias ou complementares ao serviço concedido”. Confiram o seguinte trecho do ato atacado:
+    [...]
+    Reconhecida a ilicitude da terceirização havida, corolário lógico é o reconhecimento ao trabalhador dos mesmos direitos assegurados aos empregados da tomadora de serviços, em razão da observância do princípio da isonomia. O tratamento isonômico tem expressa previsão no artigo 7.º, inciso XXXII, no artigo 460 da CLT e no artigo 12, alínea "a", da Lei no 6.019/74, aplicado analogicamente, assegurando ao trabalhador terceirizado a remuneração equivalente à percebida pelos empregados da mesma categoria da empresa tomadora.
+    [...]
+    Ao fazê-lo por meio de órgão fracionário, desconsiderou a cláusula de reserva de plenário. Descabe potencializar a distinção entre atividades meio e fim, podendo estar nestas incluídas aquelas inerentes ao objeto social da tomadora dos serviços, a Cemig Distribuição S.A.
+    3. Defiro a liminar para suspender, até o julgamento final desta reclamação, a eficácia do acórdão formalizado pela Sétima Turma do Tribunal Regional do Trabalho da 3ª Região no processo nº 0000228-60.2014.5.03.0006.
+    4. Citem o interessado e solicitem informações. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 15 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
