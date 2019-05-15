@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/1988, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AV. BRIGADEIRO, assim ementado:
+SERVIDOR PÚBLICO MUNICIPAL. LIMEIRA. ADICIONAIS AO VENCIMENTO. LEGISLAÇÃO MUNICIPAL QUE ESTABELECE INCIDÊNCIA DAS VANTAGENS SOBRE O VENCIMENTO (SALÁRIO-BASE). IMPOSSIBILIDADE DE AGREGAÇÃO DE ACRÉSCIMOS ÀS RESPECTIVAS BASES DE CÁLCULO. RECURSO DO RÉU PROVIDO; IMPROVIDO O ADESIVO DO AUTOR (fl. 237).
+Quanto à controvérsia, pela alínea a , alega violação do art. 64, § 1º, do CPC e 2º, caput e § 4º, da Lei n. 12.153/2009, no que concerne à argüição de incompetência absoluta do juízo de origem, trazendo os seguintes argumentos:
+  ..  o Recorrente pleiteou o reconhecimento da competência absoluta do sistema do Juizado Especial da Fazenda Pública, o que restou negado pela D. 7a Câmara de Direito Público do E. Tribunal de Justiça do Estado de São Paulo (fl. 227).
+  ..  equivocado o entendimento de que teria ocorrido omissão em relação à arguição de incompetência no transcurso do presente feito, a fim de perceber a verba honorária, uma vez que, em segundo grau de jurisdição, a parte recorrente vencida é condenada ao pagamento das custas processuais e dos honorários advocatícios (fl. 278).
+  ..  reitera-se, para afastar completamente as alegações do decisum, que a arguição de incompetência decorreu depois de outras decisões serem proferidas por este órgão jurisdicional, para evitar decisões contraditórias sobre a mesma matéria, não tendo sido formulada de forma maliciosa, mas com base no entendimento firmado em outros feitos (fl. 280).
+  ..  não cabe ao E. Tribunal de Justiça a quo a apreciação do recurso interposto pelo Recorrente, mas sim ao Colégio Recursal da 10a Circunscrição Judiciária -Limeira/SP, ainda que o feito não tenha tramitado pelo rito próprio desde o início (fl. 281).
+É o relatório. Decido.
+Quanto à controvérsia, na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
