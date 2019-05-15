@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. INAUGURAÇÃO DE NOVA INSTÂNCIA RECURSAL.
+I - A jurisprudência da Corte Especial do STJ: "os honorários recursais previstos no § 11 do art. 85 do CPC/2015 somente têm aplicação quando houver a instauração de novo grau recursal, e não a cada recurso interposto no mesmo grau de jurisdição (Enunciado n. 16 da ENFAM: "Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição"). Precedentes. A interposição de embargos de divergência não instaura nova instância recursal, visto tratar-se de mecanismo voltado à uniformização da jurisprudência interna do próprio Superior Tribunal de Justiça" (STJ, AgInt nos EAREsp n. 802.877/RS, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 9/5/2017). Nesse sentido: AgInt nos EAREsp n. 732.607/RS, Rel. Ministra Assusete Magalhães, Primeira Seção, julgado em 12/9/2018, DJe 20/9/2018.
+II - Por outro lado, recentemente, a Corte Especial do STJ, no julgamento do EAREsp n. 762.075/MT, em 19/12/2018, da Relatoria do Exmo. Min. Herman Benjamin, passou a considerar o cabimento de majoração de honorários advocatícios no caso de interposição de embargos de divergência.
+III - Assim, determino a majoração dos honorários recursais em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, no importe de 15% sobre o valor já arbitrado de honorários sucumbenciais, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+IV - Agravo interno provido para determinar a majoração dos honorários advocatícios.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, A Corte Especial, por unanimidade, dar provimento ao agravo determinando a majoração dos honorários advocatícios, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nancy Andrighi, Laurita Vaz, Maria Thereza de Assis Moura, Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Felix Fischer votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Humberto Martins
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno contra decisão que manteve a decisão monocrática de indeferimento liminar dos embargos de divergência.
+Opostos embargos de declaração, apontava a parte embargante a existência de omissão na decisão embargada. Em monocrática, rejeitou-se os embargos de declaração com fundamento na inexistência de omissão relativamente à majoração de honorários advocatícios.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O agravo merece provimento.
+A jurisprudência da Corte Especial do STJ "os honorários recursais previstos no § 11 do art. 85 do CPC/2015 somente têm aplicação quando houver a instauração de novo grau recursal, e não a cada recurso interposto no mesmo grau de jurisdição (Enunciado n. 16 da ENFAM: "Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição"). Precedentes. A interposição de embargos de divergência não instaura nova instância recursal, visto tratar-se de mecanismo voltado à uniformização da jurisprudência interna do próprio Superior Tribunal de Justiça" (STJ, AgInt nos EAREsp 802.877/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 9/5/2017). Nesse sentido: AgInt nos EAREsp 732.607/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 12/9/2018, DJe 20/9/2018.
+Por outro lado, recentemente, a Corte Especial do STJ, no julgamento do EAREsp n. 762.075/MT, em 19/12/2018, da Relatoria do Exmo. Min. Herman Benjamin, passou a considerar o cabimento de majoração de honorários advocatícios no caso de interposição de embargos de divergência.
+Assim, determino a majoração dos honorários recursais em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, no importe de 15% sobre o valor já arbitrado de honorários sucumbenciais, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Ante o exposto, dou provimento ao agravo interno para determinar a majoração dos honorários advocatícios.
+É o voto.
