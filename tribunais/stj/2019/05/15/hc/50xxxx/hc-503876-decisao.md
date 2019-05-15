@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCOS ALVES contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0000366-11.2017.8.26.0530).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 2 anos de reclusão, em regime inicial fechado, e multa, pela prática do crime previsto no art. 155, § 4º, incisos I e II, c/c o art. 14, inciso II, ambos do Código Penal (e-STJ fls. 13/17).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi parcialmente provido para afastar a qualificadora do rompimento de obstáculo e reduzir a pena-base para o patamar mínimo legal, razão pela qual a pena definitiva do paciente foi redimensionada para 1 ano e 4 meses de reclusão e multa, mantidos os demais termos da condenação (e-STJ fls. 19/23). Segue a ementa do acórdão:
+APELAÇÃO CRIMINAL - FURTO QUALIFICADO TENTADO - Crime praticado com rompimento de obstáculo e mediante escalada - Autoria e materialidade do delito bem demonstradas - Condenação devida - Qualificadora do rompimento de obstáculo, no entanto, afastada - Ausência de exame pericial - Pena mitigada - Necessidade - Regime prisional inicial fechado mantido - Recurso parcialmente provido.
+No presente mandamus (e-STJ fls. 3/10), a impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, pois manteve o regime inicial fechado, excessivamente mais gravoso que a pena de 1 ano e 4 meses de reclusão comporta, apenas com base na sua reincidência, sendo hipótese de aplicação do enunciado da Súmula n. 269/STJ.
+Ao final, liminarmente e no mérito, pede a concessão da ordem para que o regime prisional seja alterado para inicial semiaberto.
+O pedido liminar foi deferido (e-STJ fls. 29/31) para assegurar ao paciente o direito de aguardar, no regime semiaberto, o julgamento do presente habeas corpus.
+O Ministério Público Federal, por meio do parecer exarado às e-STJ fls. 58/59, opinou pela concessão da ordem, nos termos da seguinte ementa:
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS COM PEDIDO LIMINAR. FURTO. REGIME FECHADO ESTABELECIDO EM RAZÃO DA REINCIDÊNCIA. APLICAÇÃO DA SÚMULA 269/STJ. REGIME INICIAL SEMIABERTO. EXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+PARECER PELA CONCESSÃO DO MANDAMUS.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+Na espécie, verifico presente constrangimento ilegal apto a justificar a concessão da ordem de ofício.
+Afinal, embora o Tribunal a quo tenha reduzido a pena-base para o patamar mínimo legal, manteve o regime inicial fechado com fulcro na seguinte fundamentação (e-STJ fl. 23):
+O regime inicial fechado, estabelecido na origem, porém, merece ser preservado, porquanto o réu é comprovadamente reincidente (foi condenado anteriormente por roubo majorado tentado), a indicar maior periculosidade, visto que a condenação anterior e definitiva não foi suficiente para frear seus impulsos antissociais, de modo a não autorizar a imposição de regime prisional mais brando (cf. artigo 33, § 3º, do Código Penal).
+Dessa forma, extrai-se que o regime inicial fechado, excessivamente mais gravoso que a pena de 1 ano e 4 meses de reclusão comporta, baseou-se apenas na reincidência do paciente.
+Entretanto, a jurisprudência do Superior Tribunal de Justiça consolidou entendimento no sentido de ser admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais (Súmula n. 269/STJ).
+Em consequência, tratando-se de condenação que não excede 4 anos de reclusão e sendo favoráveis as circunstâncias judiciais, a reincidência do paciente somente justifica o regime semiaberto.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. ROUBO. DOSIMETRIA. CONFISSÃO PARCIAL UTILIZADA COMO ELEMENTO DE CONVICÇÃO PELO MAGISTRADO. REINCIDÊNCIA. COMPENSAÇÃO INTEGRAL. CIRCUNSTÂNCIAS IGUALMENTE PREPONDERANTES. ERESP N. 1.154.752/RS. SÚMULA N. 545 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. REGIME SEMIABERTO. SÚMULA N. 269 DO STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A confissão parcial do réu configura a atenuante do art. 65, III, d, do Código Penal - CP quando utilizada na formação da convicção do Magistrado. Nesse sentido: HC n. 337.662/RJ, Relator Ministro FELIX FISCHER, QUINTA TURMA, DJe 01/08/2016. Súmula n. 545 do Superior Tribunal de Justiça - STJ.
+3. Cabível o regime inicial semiaberto, nos termos do Enunciado n. 269 da Súmula desta Corte: É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais.
+Habeas corpus não conhecido, mas concedida a ordem, de ofício, para compensar a agravante da reincidência com a atenuante da confissão espontânea e fixar o regime inicial semiaberto. (HC 447.144/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/9/2018, DJe 2/10/2018)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTOS QUALIFICADOS. PENA-BASE NO MÍNIMO LEGAL. RÉU REINCIDENTE. PENA FINAL INFERIOR A 4 ANOS DE RECLUSÃO. REGIME PRISIONAL SEMIABERTO. ART. 33, § 2º, "B" E "C" DO CÓDIGO PENAL E ENUNCIADO N. 269 DA SÚMULA DO STJ. RECURSO IMPROVIDO.
+1. In casu, todas as circunstâncias judiciais foram valoradas positivamente, houve o reconhecimento da reincidência do réu e a pena final foi fixada em patamar inferior a 4 (quatro) anos de reclusão.
+2. Em tais hipóteses, em razão da reincidência do réu, o art. 33, § 2º, "b" e "c", do Código Penal e o enunciado n. 269 da Súmula desta Corte autorizam a fixação do regime inicial intermediário.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1380057/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 12/03/2019, DJe 21/03/2019)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do presente habeas corpus. Contudo, concedo a ordem, de ofício, para confirmar a liminar anteriormente deferida e fixar o regime inicial semiaberto.
+Publique-se.
+Intimem-se.
