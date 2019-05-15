@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos pelo MUNICÍPIO DO RECIFE, contra decisão por mim proferida, que, com fundamento no art. 255, § 4º, II, do RISTJ, negou provimento ao Recurso Especial (fls. 581/587e).
+Inconformada, sustenta a parte embargante que:
+"Diante disso, os ora embargados interpuseram recurso especial para este c. STJ, ao qual foi negado provimento por meio de decisão monocrática com dispositivo vazado nos seguintes termos:
+"Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais" (grifos acrescidos).
+Ocorre que ao assim se posicionar, com todo respeito, o decisum embargado padece de evidente erro material. Veja-se.
+Na esteira da jurisprudência desta c. Corte, "o erro material é o equívoco manifesto na decisão resultante de inexatidões materiais" (REsp nº 1.294.294/RS, rel. Min. Ricardo Villas Bôas Cueva, julgado em 06/05/2014, DJe 16/05/2014). Ou seja, para que ocorra o vício em comento, é preciso que se cometa lapso que salta aos olhos relativo a assunções imprecisas. E foi isso que se deu no presente caso.
+Por certo, a decisão monocrática deixou de fixar honorários recursais por crer que "na origem, não houve fixação de honorários sucumbenciais". Entretanto, conforme adiantado acima, a sentença prolatada pelo d. Juiz de planície estabeleceu condenação em honorários no montante de R$ 1.500 (mil e quinhentos reais). Observe-se:
+"Diante do exposto, julgo improcedentes os pedidos do Autor e extingo o feito com resolução do mérito, nos termos do inciso I, do art. 269 do CPC.
+Custas satisfeitas. Condeno o Autor no pagamento dos honorários advocatícios que fixo, por equidade, no valor de R$ 1.500 (um mil e quinhentos reais)" (grifamos).
+Ao que facilmente se nota, houve, sim, fixação de honorários sucumbenciais na origem. Vale dizer, do cotejo da decisão ora embargada com a passagem supratranscrita da sentença, vê-se, primu ictu oculi, o lapso cometido. Trata-se de inarredável inexatidão material cometida.
+Provavelmente, o MM. Ministro Relator cometeu o equívoco em comento em razão da ausência de fixação de honorários recursais pelo e. TJPE. Nada obstante, da constatação de que o Tribunal Local não majorou os honorários, não é possível concluir que jamais houve fixação de honorários nos autos ou mesmo que não seria aplicável o art. 85, § 11, do CPC/15.
+Nesse sentido, calha trazer à baila a lição deste e. Tribunal, ministrada no bojo do REsp nº 1.671.387/RS (relatoria do ministro Mauro Campbell, julgado em 24/10/2017, DJe 30/10/2017), segundo a qual é cabível a majoração dos honorários em sede de recurso especial quando o acórdão recorrido foi publicado na vigência do CPC/15 e a sentença, na do CPC/73" (fls. 547/548e).
+Por fim, requer o acolhimento do recurso.
+Os Embargos de Declaração merecem acolhida.
+De fato, a decisão embargada deixou de majorar os honorários sucumbenciais recursais, que foram fixados pela sentença de fls. 326/332e, consoante determinação do §11 do art. 85 do CPC/2015.
+Desse modo, acolho os presentes Embargos Declaratórios para fazer constar do dispositivo da decisão embargada o seguinte:
+"Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015".
+Ante o exposto, acolho os Embargos de Declaração para sanar a omissão indicada, mantendo-se, quanto ao mais, a decisão que negou provimento ao Recurso Especial.
+I.
