@@ -1,0 +1,32 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. CUMPRIMENTO DE SENTENÇA. MULTA. PAGAMENTO VOLUNTÁRIO DA DÍVIDA. DESCUMPRIMENTO. ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 83 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+ALZIRA DE OLIVEIRA DOS SANTOS e outros (ALZIRA E OUTROS) interpuseram agravo de instrumento contra decisão que, no cumprimento da sentença proferida na ação indenizatória por eles ajuizada contra SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS (SUL AMÉRICA), afastou a multa aplicada em face do descumprimento do pagamento voluntário da obrigação.
+O Tribunal de origem deu provimento ao aludido recurso em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. FASE DE CUMPRIMENTO DE SENTENÇA. ATOS PRATICADOS NA VIGÊNCIA DO ANTERIOR CPC. DEPÓSITO JUDICIAL COM FINALIDADE EXPRESSA DE GARANTIR O JUÍZO PARA OFERECIMENTO DE IMPUGNAÇÃO. PEDIDO PARA IMPEDIR QUALQUER LEVANTAMENTO DE QUANTIAS. PAGAMENTO VOLUNTÁRIO NÃO CONFIGURADO. MULTAS DO ART. 475- J DO CPC/15. APLICAÇÃO. VALORES QUE NÃO FICARAM DISPONÍVEIS AO EXEQUENTE. PRETENSÃO RESISTIDA. CONFIGURADA. PRECEDENTES, DECISÃO REFORMADA. RECURSO PROVIDO (e-STJ, fl. 285).
+Irresignada, a SUL AMÉRICA manejou recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, em que apontou a violação do art. 523, § 1º, do CPC/73, sustentando, em síntese, ser incabível a incidência da multa pelo não pagamento voluntário da obrigação no caso concreto.
+O Juízo Prévio de Admissibilidade negou seguimento ao apelo nobre ante a incidência da Súmula nº 83 do STJ.
+Irresignada, SUL AMÉRICA apresentou o presente agravo impugnando a incidência do aludido óbice sumular.
+Contraminuta apresentada (e-STJ, fls. 346/350).
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O entendimento esposado no acórdão recorrido se alinha com a orientação jurisprudencial assente nesta Corte Superior, que consagra o entendimento de que o fato de a impugnação ao cumprimento de sentença trazer como matéria de defesa a alegação de excesso de execução não afasta, a priori, o cabimento da multa prevista no art. 475-J do CPC/1973. Ainda que a impugnação esteja fundada no excesso de execução, é imprescindível que haja o pagamento da parte incontroversa pelo executado (valor sobre o qual não incidirá qualquer multa), prosseguindo-se o magistrado no exame apenas da parte controversa da dívida, a qual, sendo mantida ao final, deverá ser acrescida da multa de 10% (dez por cento) prevista no art. 475-J do CPC/1973 (AgInt no REsp nº 1.369.644/MG, Rel. Ministro MARCO BUZZI, Quarta Turma, DJe 22/6/2016).
+A propósito, confiram-se os seguintes julgados:
+AGRAVOS REGIMENTAIS NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. 1. REALIZAÇÃO DE DEPÓSITO DESTINADO À GARANTA DO JUÍZO E A VIABILIZAR A APRESENTAÇÃO DE IMPUGNAÇÃO. PAGAMENTO VOLUNTÁRIO DO DÉBITO RECONHECIDO JUDICIALMENTE. NÃO OCORRÊNCIA. MULTA DO ART. 475-J DO CPC. INCIDÊNCIA. PRECEDENTES DO STJ. 2. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE, ANTE A AUSÊNCIA DE PAGAMENTO VOLUNTÁRIO NO PRAZO DE QUINZE DIAS 3. AGRAVO REGIMENTAL IMPROVIDO E NÃO CONHECIDO O SEGUNDO.
+1. Segundo entendimento firmado no âmbito da jurisprudência desta Corte de Justiça, iniciado o cumprimento de sentença, com a intimação do advogado do executado para pagar voluntariamente a importância reconhecida no título executivo judicial nos quinze dias seguintes, a realização do depósito, a depender de sua finalidade, pode ou não ilidir a multa de 10% prevista no art. 475-J do CPC. Se o depósito tiver por propósito o pagamento do débito, inaplicável a aludida sanção, assim como descabido o arbitramento de honorários advocatícios. Se, todavia, o depósito tiver por escopo, única e exclusivamente, a garantia do juízo (também denominado de penhora automática), a viabilizar a apresentação de impugnação, desta data se inicia o prazo para a apresentação de sua defesa, sem, contudo, ilidir a multa do art. 475-J, CPC, ensejando, nesse caso, a fixação de honorários advocatícios (Nesse sentido: REsp 1446322/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/04/2015, DJe 04/05/2015)
+ ..
+3. Agravo regimental improvido e, em atenção à preclusão consumativa e ao princípio da unirrecorribilidade, não se conhece do segundo agravo regimental constante de fls. 899-904, erroneamente contraposto, conforme reconhecido pelo próprio insurgente.
+(AgRg nos EDcl no REsp nº 1.445.301/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 8/3/2016 - sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO TEMPESTIVOS. INTERRUPÇÃO DO PRAZO. ART. 538 DO CÓDIGO DE PROCESSO CIVIL. MULTA 475-J. DEPÓSITO. GARANTIA DO JUÍZO. MULTA. CABIMENTO. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. INCIDÊNCIA DA SÚMULA Nº 7/STJ.
+1.  .. .
+2. "A atitude do devedor, que promove o mero depósito judicial do quantum exequendo, com finalidade de permitir a oposição de impugnação ao cumprimento de sentença, não perfaz adimplemento voluntário da obrigação, autorizando o cômputo da sanção de 10% sobre o saldo devedor" (REsp 1.175.763/RS, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 21/6/2012, DJe de 5/10/2012).
+3.  .. .
+4. Agravo regimental não provido.
+(AgRg no AREsp nº 579.960/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 10/6/2015 - sem destaque no original)
+Nesse contexto, o apelo nobre, de fato, encontra obstáculo nos rigores contidos na Súmula nº 83 do STJ.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Inaplicável a majoração dos honorários advocatícios nos termos do art. 85, §11, do NCPC.
+Advirta-se, no entanto, que eventual recurso interposto contra esta decisão estará sujeito ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
