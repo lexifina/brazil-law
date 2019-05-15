@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo apresentado por BRASIL TELECOM S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas a e c, da CF/1988, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÕES CÍVEIS. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO COMINATÓRIA C/C INDENIZATÓRIA. BRASIL TELECOM/OI S.A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. DOBRA ACIONÁRIA. AÇÕES CELULAR CRT. PRESCRIÇÃO. DIVIDENDOS. COTAÇÃO E CRITÉRIOS DE CONVERSÃO DAS AÇÕES. JUROS DE MORA.
+I. Não se conhece do apelo no ponto em que manifesta a ausência de interesse recursal, o que se verifica, na hipótese, no tópico relativo aos dividendos.
+II. O prazo prescricional aplicável ao caso em estudo é o vintenário ou decenal, a teor do art.
+177 do Código Civil de 1916 c/c art. 205 do Código Civil de 2002, e observada a regra de transição disposta no art. 2.028 do diploma civil de 2002. O termo inicial de contagem do prazo, por sua vez, deve ser a data da cisão da companhia, nos casos de pedido relativo à dobra acionária.
+III. Consoante o teor da Súmula 371 do STJ, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização, inclusive quanto ao pedido de complementação de ações de telefonia celular. Hipótese em que o ajuizamento de ação anterior, relativa às ações de telefonia fixa, não faz coisa julgada com relação ao pedido de complementação de diferencial acionário de ações celular CRT formulado nesta demanda. Predecentes do STJ.
+IV. Nos termos do Protocolo de Incorporação de Ações e de Incorporações de Sociedades e Instrumento de Justificação celebrado em 04/12/2005, aprovado em AGE realizada em 22/02/2006, deve-se dividir o número de ações da empresa incorporada por 100 (cem) e multiplicar o resultado por 7,029441 (31/03/2006) considerando-se a incorporação da Celular CRT Participações S/A pela Vivo S/A, aplicando-se, então, a cotação das ações da empresa na data do trânsito em julgado.
+V. A incidência dos juros moratórios dá-se ex vi legis, conforme inteligência dos art. 394 e 395, ambos do diploma civil.
+Apelo da ré conhecido em parte e, nesta, parcialmente provido. Apelo da autora desprovido. Unânime (fls. 421/422).
+Quanto à primeira controvérsia, pela alínea a, alega a recorrente violação do art. 485, VI, do CPC, no que concerne à inexistência de interesse processual, trazendo os seguintes argumentos:
+Ao contrário do que afirma a parte Recorrida, esta recebeu sim, da Recorrente, ações da empresa Celular CRT Participações S/A em número idêntico às ações da CRT, quando da cisão da companhia, conforme comprovado no decorrer do processo (fls.460).
+Diante do exposto, inexiste interesse processual em demanda que visa indenização pelo valor das ações da empresa Celular CRT Participações S/A, baseada em não cumprimento que não existiu (fls.460).
+Aponta, ainda, divergência jurisprudencial.
+É o relatório. Decido.
+No que concerne à primeira controvérsia, incide, na espécie, o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Quanto ao dissídio jurisprudencial, aplica-se o óbice da Súmula n. 284/STF, pois, a despeito de ter sido apontada a alínea c do permissivo constitucional, a parte recorrente não indicou expressamente qual o acórdão tido por paradigma, o que impede eventual análise da divergência de interpretações.
+Confiram-se nesse sentido os seguintes precedentes: AgRg no AgRg no AREsp n. 1.019.207/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 1º/8/2017; AgRg no AREsp n. 545.856/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 19/2/2015; e AgRg no AREsp n. 431.782/MA, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2014.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
