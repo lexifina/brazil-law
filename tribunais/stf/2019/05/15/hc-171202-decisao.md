@@ -1,0 +1,25 @@
+Decisão:
+Ementa: Processual Penal. Habeas Corpus. Prisão preventiva. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 485.858, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que, em 06.08.2018, o paciente foi preso em flagrante pela suposta prática do crime de porte ilegal de arma de fogo de uso restrito. A prisão em flagrante foi convertida em preventiva.
+    3. A defesa impetrou habeas corpus no Tribunal de Justiça do Estado do Rio Grande do Sul. Denegada a ordem, sobreveio impetração de habeas corpus no Superior Tribunal de Justiça. O Relator, Ministro Joel Ilan Paciornik, indeferiu a liminar.
+    4. Neste habeas corpus, a defesa afirma, em síntese, que “até o presente não foi realizada audiência de instrução e julgamento ao passo que já se passaram 273 dias sem que o réu ao menos fosse ouvido, após 09 (nove) meses segregado não existe uma sentença, mesmo que condenatória (...)”.
+    5. Prossegue a impetração para alegar que “não há qualquer prova ou verossimilhança nos autos que indique que o paciente pudesse praticar qualquer ato atentatório à sociedade, mostrando-se extremamente escassos os fundamentos do decreto de prisão preventiva direcionado contra o paciente”; e que “O Paciente é réu PRIMÁRIO e não possui SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO”.
+    6. Com esses argumentos, a defesa requer “seja concedida a ordem, in limine litis, determinando-se a imediata expedição de alvará de soltura ao Paciente”; e, “Alternativamente [...] que seja substituída a prisão preventiva por outra medida cautelar prevista no art. 319 do Código de Processo Penal; DEVENDO SER CONHECIDO O EXESSO DE PRAZO PARA A FORMAÇAO DA CULPA”.
+    Decido.
+    7. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. A hipótese de que se trata não autoriza a superação do entendimento consolidado na Súmula 691/STF. As peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar a concessão da ordem de ofício, notadamente se se considerar, tal como assentou o Tribunal de origem, que o paciente “é multirreincidente em crimes dolosos, registrando em seu desfavor três sentenças penais condenatórias definitivas por delitos de roubo majorado, além de ter sido pronunciado em outro processo criminal”.
+    9. Ademais, o entendimento do Supremo Tribunal Federal é no sentido de que eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo).
+    10. No caso de que se trata, não verifico desídia ou injustificada demora por parte do Poder Judiciário que autorize o acolhimento da pretensão defensiva. Transcrevo, nesse sentido, as seguintes passagens do acórdão estadual:
+    “A autoridade impetrada, prestando as informações solicitadas por este Tribunal, pontuou que, em 27.8.2018, o Ministério Público ofereceu denúncia contra o paciente, dando-o como incurso nas sanções do art. 16, parágrafo único, inc. IV, da Lei nº 10.826/03 (combinado com art. 1º, parágrafo único, da Lei nº 13.497/17), incidindo, ainda, o disposto no art. 61, inc. I, do CP.
+    Em 29.8.2018, foi recebida a denúncia. Em seguida, em 12.9.2018, a defesa do paciente apresentou resposta à acusação.
+    Na data de 26.9.2018, foi determinada a regularização da representação processual do acusado nos autos.
+    A defesa peticionou nos autos, em 9.10.2018, postulando a juntada da procuração em audiência e para, desde já, ser cadastrado o procurador nos autos. Na oportunidade, requereu a revogação da prisão.
+    Sobreveio decisão em 17.10.2018, deferindo o petitório defensivo e determinando a juntada da carta precatória de citação.
+    No dia 20.11.2018, foi determinada vista ao Ministério Público para dizer sobre o pedido de liberdade formulado pela defesa do paciente, sendo a questão decidida em 23.11.2018, restando indeferida.
+    Em cotejando ao desenvolvimento dos atos processuais, conclui-se que o Magistrado tem observado o rito adequado, imprimindo a celeridade cabível à luz das circunstâncias do caso concreto. Por enquanto, não há que se falar em inércia ou má condução do processo, seja pelo Juízo, pelo Ministério Público ou pela Defesa, não se verificando constrangimento ilegal pelo período em que mantida a prisão preventiva”.
+    11. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 15 de maio de 2019.
+Ministro Luís Roberto Barroso
+Relator
