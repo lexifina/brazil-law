@@ -1,0 +1,9 @@
+DECISÃO
+Por meio de petição apresentada nos autos em epígrafe, requer a União o seguinte:
+(a) a anulação do acórdão em que julgada tese repetitiva (adiantamento de honorários periciais pela Fazenda Pública a que vinculado o Parquet autor da ação civil pública), pois, " d iante da ausência de representação e defesa da Fazenda Pública em juízo, forçosa é a conclusão de que o acórdão proferido pelo STJ no julgamento do REsp 1.253.844/SC não fez coisa julgada, estando evidenciada a nulidade absoluta por vício transrescisório, passível de ser suscitado a qualquer tempo" (fl. 5-e, grifei);
+(b) a revisão do entendimento firmado no repetitivo, pois " a  sistemática inaugurada pelo CPC de 2015 resolve a questão do adiantamento dos honorários periciais por entes e órgãos estatais quando a perícia (privada) for por estes requerida" (fl. 9-e).
+É caso de indeferir ambos os pedidos.
+Por um lado, a União, quando alega a ocorrência de "vício transrescisório" no caso concreto, está pretendendo, na realidade, a rescisão do acórdão do repetitivo na via inadequada e fora do prazo da ação rescisória, tendo em vista a apresentação do presente requerimento em 29/3/2017, mais de três anos após o seu trânsito em julgado, ocorrido em 25/11/2013.
+Por outro lado, a despeito da falta de legitimidade da requerente para propor revisão de tese (vide art. 256-T do Regimento Interno desta Corte), não se faz presente motivo para que esta Relatoria tome tal iniciativa, tendo em vista que o advento do novo Código de Processo Civil não alterou o entendimento em questão, consoante reiterado em recentes julgamentos desta Corte (v.g. AgInt no RMS 56.423/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 12/09/2018; RMS 55.476/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2017).
+Ante o exposto, INDEFIRO os pedidos formulados pela União.
+Publique-se. Intimem-se.
