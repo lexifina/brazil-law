@@ -1,0 +1,57 @@
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. SATÉLITE. INCIDÊNCIA DE ICMS. EMBARGOS DE DECLARAÇÃO. ANÁLISE DAS PRELIMINARES QUE IMPEDIRIAM O EXAME DO MÉRITO DO PEDIDO VEICULADO NO RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA. MATÉRIA NÃO IMPUGNADA. INCIDÊNCIA DA SÚMULA N. 284/STF. NÃO ATENDIMENTO DOS REQUISITOS CONSTANTES DO ART. 266 DO RISTJ.
+I - O presente feito decorre de ação que objetiva nulificar autos de infração decorrentes do não recolhimento do ICMS, sob a alegação de que a atividade de captação satelial não caracterizaria serviço de comunicação. Na sentença, julgou-se procedente o pedido. No Tribunal de Justiça do Estado do Rio de Janeiro, a sentença foi parcialmente reformada.
+II - No acórdão recorrido, quando da análise dos segundos embargos de declaração opostos, não foi apreciada a questão controvertida, sendo que cingiu seu exame à análise das preliminares que impediriam o exame do mérito do pedido veiculado no recurso especial, decidindo pelo seu afastamento.
+III - Assim, observa-se que obsta o conhecimento do presente recurso a incidência da Súmula n. 284/STF, por não constar a matéria impugnada do acórdão recorrido.
+IV - Com efeito, no acórdão paradigma é apresentada a questão do cabimento dos embargos de declaração com a finalidade de se obter a juntada das notas taquigráficas referentes ao quanto julgado pelo tribunal.
+V - Ocorre que tal matéria não foi nem de longe apreciada no acórdão recorrido, inexistindo, como é evidente, similitude fática entre os julgados em confronto.
+VI - Acrescento que, para sanar eventual omissão do acórdão, o caminho para o ora embargante seria invocar preliminar de falta de prestação jurisdicional em Recurso Extraordinário, não sendo a presente via dos Embargos de Divergência a adequada para isso.
+VII - Nesse contexto, não tendo o recorrente atendido aos requisitos constantes do art. 266 do RISTJ, de rigor sua inviabilidade.
+VIII - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, A Corte Especial, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nancy Andrighi, Laurita Vaz, Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Felix Fischer votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Maria Thereza de Assis Moura.
+Ausente, justificadamente, o Sr. Ministro Humberto Martins.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O presente feito decorre de ação que objetiva nulificar autos de infração decorrentes do não recolhimento do ICMS, sob a alegação de que a atividade de captação satelial não caracterizaria serviço de comunicação. À causa foi arbitrado o valor de R$ 581.835.529,37 (quinhentos e oitenta e um milhões, oitocentos e trinta e cinco mil, quinhentos e vinte e nove reais e trinta e sete centavos). Na sentença, julgou-se procedente o pedido. No Tribunal de Justiça do Estado do Rio de Janeiro, a sentença foi parcialmente reformada, nos seguintes termos ementados:
+APELAÇÃO CÍVEL. SATÉLITE. INCIDÊNCIA DE ICMS. Os satélites geoestacionários pertencentes a empresa autora são meros meios para que a comunicação se perfaça, e isoladamente, não realizam comunicação ou seja, apenas propagam sinais de comunicação, daí, não serem considerados como serviços de telecomunicações. A demandante não prestou fato imponível da exação prevista no art. 155, II da Constituição Federal, pois tal atividade melhor se enquadra na definição de serviço de valor adicionado previsto no art. 61 da Lei 9.472/97, na medida em que constituiu um serviço-meio, sem o qual a atividade- fim (telecomunicação) não se efetiva. Matéria de prova técnica e contratual que restou muito bem analisada e enfrentada pelo juízo monocrático. Pequena reforma da sentença apenas no que toca os honorários advocatícios. Fixação que deve levar em consideração o grau de zelo profissional, o lugar da prestação de serviço, a natureza e importância da causa, o trabalho realizado e o tempo exigido para o seu serviço. Causa complexa, na qual os volumosos autos compõe-se de ações conexas apensadas, que tratam de questão pouco discutida e conhecida, o que exige um maior empenho, pesquisa e atenção do causídico. Tema que aborda vários ramos do Direito, além da necessidade de conhecimento técnico específico, já que existem particularidades de domínio apenas de profissionais da área. Majoração a fim de proporcionar a devida contraprestação ao trabalho realizado. Fixação dos honorário advocatícios em 2% sobre o valor da causa em cada processo, em obediência ao que prevê o art. 20 e seus §§ 3o e 4o do CPC. Reforma parcial da sentença. RECURSOS CONHECIDOS. PROVIMENTO PARCIAL AO APELO DO AUTOR. DESPROVIMENTO DO RECURSO DO RÉU.
+Negou-se seguimento aos recursos especiais. Sobrevieram agravo nos próprios autos.
+Convertidos os agravos em recursos especiais.
+Sob a relatoria do Ministro Benedito Gonçalves, a Primeira Turma proferiu acórdão com a seguinte ementa:
+TRIBUTÁRIO. PROCESSUAL CIVIL. DISCUSSÃO ACERCA DA ICMS-COMUNICAÇÃO. PROVIMENTO DE CAPACIDADE SATELITAL. ADMISSIBILIDADE DO RECURSO ESPECIAL. REQUISITOS PREENCHIDOS.
+1. Hipótese em que o recurso especial cumpre os requisitos legais e constitucionais exigidos para a sua admissão, revelando-se a presença de questão de direito federal a ser solucionada pelo STJ.
+2. Recurso especial conhecido, afastando-se os óbices ao seu conhecimento.
+Opostos embargos de declaração, foram rejeitados.
+Novos embargos de declaração, com imposição de multa, nos termos da seguinte ementa:
+TRIBUTÁRIO E PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. VOTO-VISTA VENCEDOR QUE AFASTOU OS ÓBICES À ADMISSIBILIDADE DO ESPECIAL APELO DO ESTADO DO RIO DE JANEIRO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. CARÁTER INFRINGENTE E PROTELATÓRIO. APLICAÇÃO DA MULTA PREVISTA NO ARTIGO 1.026, § 2º, DO CPC/2015.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Na espécie, consoante consignado no julgamento dos anteriores aclaratórios, "o acórdão recorrido, nos termos do voto-vencedor, limitou-se a analisar os óbices à admissibilidade do recurso especial do Rio de Janeiro trazidos no voto (vencido) do Ministro Relator, para chegar a conclusão de afastamento desses obstáculos" (fl. 1406). Além disso, aduziu-se que, "apenas a título de obiter dictum, a menção ao Tema 827 da Repercussão Geral do STF, que versou sobre "o sentido e alcance da expressão "serviços de comunicação" prevista no art. 155, II, da Lei Maior e, consequentemente, a incidência, ou não, de ICMS sobre o valor pago a título de assinatura básica mensal pelo serviço de telefonia", conforme antes asseverado, é hipótese diferente do caso concreto, em que se discute fornecimento de capacidade satelital." (fl. 1.410).
+4. Considerando que os embargos declaratórios vertentes são os segundos opostos pela ora embargante, resta evidenciado o seu intuito infringente e protelatório, a ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+5. Embargos de declaração rejeitados, com imposição de multa.
+Opostos embargos de divergência pela Star One S.A., com fundamento no art. 1.043, I, do CPC/2015.
+Em suas razões, a parte recorrente sustentou a tese de que cabem embargos de declaração como instrumento recursal adequado para se pleitear a juntada das notas taquigráficas nos autos, promovendo a integração do acórdão embargado. Afirma, assim, que o acórdão recorrido está em dissonância com a jurisprudência apresentada no julgamento do Edcl no AgRg no REsp n. 1.388.497/PR, julgado pela Quinta Turma e abaixo ementado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NOTAS TAQUIGRÁFICAS. PARTE INTEGRANTE DO ACÓRDÃO. AUSÊNCIA DE JUNTADA. CABIMENTO DOS ACLARATÓRIOS PARA SANAR A OMISSÃO. ACLARATÓRIOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. Não obstante o teor do artigo 619 do Código de Processo Penal, que estabelece taxativamente as hipóteses de cabimento dos embargos de declaração, esta Corte Superior de Justiça os tem admitido com a finalidade de se obter a juntada das notas taquigráficas referentes ao julgado, atendendo, assim, ao disposto no caput dos artigos 100 e 103 do Regimento Interno deste Sodalício. Precedentes.
+2. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos, apenas para que, após revisadas e corrigidas pelos Ministros, proceda-se à juntada das notas taquigráficas, determinando-se, em ato contínuo, a republicação do acórdão, com a reabertura do prazo recursal.
+(EDcl no AgRg no REsp 1388497/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/4/2018, DJe 4/5/2018)
+Requereu o provimento dos embargos para fazer prevalecer o entendimento sufragado no acórdão paradigma e consequente reforma da decisão proferida pela Primeira Turma no acórdão recorrido.
+Às fls. 1.668-1.670, foi proferida decisão, com o seguinte dispositivo: "Ante o exposto, com fundamento no art. 34, XVIII, "a", do RI/STJ, não conheço dos embargos de divergência."
+Interposto agravo interno.
+Apresentada impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do Enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a esse ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+No presente caso, no acórdão recorrido, quando da análise dos segundos embargos de declaração opostos, não foi apreciada a questão controvertida, sendo que cingiu seu exame à análise das preliminares que impediriam o exame do mérito do pedido veiculado no recurso especial, decidindo pelo seu afastamento.
+Assim, observa-se que obsta o conhecimento do presente recurso a incidência da Súmula n. 284/STF, por não constar a matéria impugnada do acórdão recorrido.
+Com efeito, no acórdão paradigma é apresentada a questão do cabimento dos embargos de declaração com a finalidade de se obter a juntada das notas taquigráficas referentes ao quanto julgado pelo tribunal.
+Ocorre que tal matéria não foi nem de longe apreciada no acórdão recorrido, inexistindo, como é evidente, similitude fática entre os julgados em confronto.
+Acrescento que, para sanar eventual omissão do acórdão, o caminho para o ora embargante seria invocar preliminar de falta de prestação jurisdicional em Recurso Extraordinário, não sendo a presente via dos Embargos de Divergência a adequada para isso.
+Nesse contexto, não tendo o recorrente atendido aos requisitos constantes do art. 266 do RISTJ, de rigor sua inviabilidade.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
