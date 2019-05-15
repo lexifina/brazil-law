@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] e WILLIAN DE CARVALHO - presos cautelarmente em 4/11/2018 por suposta infração ao art. 157, § 2º, inciso II, do Código Penal - contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.19.024880-7/000), que denegou a ordem pleiteada nos termos da seguinte ementa (e-STJ fl. 13):
+EMENTA: "HABEAS CORPUS" - ROUBO MAJORADO - EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA - INOCORRÊNCIA - TRAMITAÇÃO REGULAR DO PROCESSO - CONTAGEM GLOBAL DO PRAZO - INSTRUÇÃO PRÓXIMA DE SE ENCERRAR - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO - ORDEM DENEGADA. - Conforme o princípio da razoável duração do processo, previsto no art. 5o, inc. LXXVIII, da Constituição da República, o reconhecimento do excesso de prazo é medida excepcional, somente admitida nas hipóteses em que as circunstâncias do caso concreto possibilitem tal conclusão. Logo, é necessário que a contagem dos prazos seja considerada de forma global, observando todo o procedimento prévio e posterior à denúncia até o término da instrução, e não o prazo para a concretização de cada ato ou diligência isolada. - Incabível a tese de constrangimento ilegal decorrente de excesso de prazo quando o feito tramita regularmente e a instrução se encontra próxima de se encerrar.
+Na presente impetração (e-STJ fls. 3/12), a defesa alega, em síntese, a existência de constrangimento ilegal diante do excesso de prazo para a formação da culpa, ressaltando que os pacientes estão presos desde 4/11/2018 e ainda não se tem o encerramento da instrução criminal.
+Diante disso, requer, em liminar e no mérito, a relaxamento da prisão preventiva dos pacientes, mediante a expedição de alvará de soltura.
+O pleito urgente foi indeferido (e-STJ fls. 153/155).
+Prestadas as informações (e-STJ fl. 168), o Ministério Público Federal manifestou-se pela prejudicialidade da impetração (e-STJ fls. 225/228).
+É o relatório. Decido.
+Consoante as informações prestadas pelo Juiz a quo, em 24/4/2019 foi relaxada a prisão preventiva dos réus, ora pacientes, expedindo-se os respectivos alvarás de soltura (e-STJ fl. 168).
+Assim, fica sem objeto o pedido contido na inicial, em que a defesa se insurgia contra a custódia cautelar dos pacientes.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique. Intimem-se.
