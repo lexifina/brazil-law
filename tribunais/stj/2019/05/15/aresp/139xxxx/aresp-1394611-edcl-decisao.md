@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão monocrática, da minha lavra, que reconsiderou a decisão que não conheceu do agravo, para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento.
+Nos presentes embargos, o embargante afirma ter havido "inarredável contradição ao caso concreto". Afirma que a "a contradição ora apontada consubstancia-se no fato de a decisão agravada ter um único fundamento, sendo o agravo logicamente direcionado a este único fundamento, não havendo que se falar em impugnação específica a todos os fundamentos utilizados". No mais, reitera os termos do recurso especial e, por fim, afirma que "a sentença de pronúncia nos moldes atuais fere ainda o dispositivo constitucional que exige a fundamentação das decisões judiciais".
+É o relatório. Decido.
+Os aclaratórios não merecem acolhimento.
+Como é cediço, os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado na decisão, que negou provimento ao recurso especial, não viabiliza a oposição dos aclaratórios.
+Na hipótese dos autos, o embargante afirma, em síntese, que há contradição com o caso concreto e que impugnou todos os fundamentos utilizados, afirmando, por fim, que a decisão de pronúncia fere dispositivo constitucional. Contudo, não há nos autos decisão de pronúncia, porquanto se trata de condenação por roubo. Ademais, consta da decisão embargada que "o agravo é cabível, tempestivo e impugnou os fundamentos da decisão agravada". Dessarte, não é possível entender em que consiste a contradição apontada pelo embargante.
+A propósito:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS. INOCORRENCIA. I - OS EMBARGOS OPOSTOS SE ACHAM CONFUSOS E NÃO DEDUZEM O PEDIDO DE QUE SE PRETENDE DECLARAR. II - NA VERDADE NÃO ATENDE E NEM OBEDECE OS REQUISITOS MINIMOS INDISPENSAVEIS SEQUER PARA O CONHECIMENTO DOS EMBARGOS. III - EMBARGOS REJEITADOS. (EDcl no HC 2.497/GO, Rel. Ministro PEDRO ACIOLI, SEXTA TURMA, julgado em 29/11/1994, DJ 06/02/1995, p. 1371)
+Ante o exposto, rejeito os embargos.
+Publique-se.
