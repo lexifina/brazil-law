@@ -1,0 +1,38 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. VALORES INDEVIDAMENTE RETIDOS. PRECLUSÃO. INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. IMPOSSIBILIDADE. CONHECE-SE DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DO SERVIDOR.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por HENRIQUE WASILEWSKI, com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO. POLÍTICA SALARIAL REAJUSTES. EXECUÇÃO DE SENTENÇA. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DE OUTROS RECURSOS. ARTIGO 538 DO CPC. PRECATÓRIO. INSURGÊNCIA RELATIVA À CONTRIBUIÇÃO PREVIDENCIÁRIA. INEXISTÊNCIA DE MANIFESTAÇÃO NO PRAZO DE CINCO DIAS. ATO 013/2012-P, EMITIDO PELA PRESIDÊNCIA DO TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL. PRECLUSÃO CONFIGURADA.
+- Os embargos de declaração tempestivamente opostos interrompem o prazo para a interposição de outros recursos. Inteligência do art. 538 do CPC.
+- Inadmissível a reabertura da discussão, se a parte credora não se insurgiu oportunamente, a contar da intimação do pagamento do precatório.
+- Recurso provido (fls. 126).
+2. Os Embargos de Declaração opostos (fls. 140/145) foram rejeitados por unanimidade (fls. 147/152).
+3. Em suas razões recursais sustenta a parte agravante violação dos arts. 535, I, II, 2o., 467, 473, 474 do CPC/1973; 884, 885, 313, 320 do CC/2002, aos seguintes fundamentos: (a) a despeito da oposição dos Embargos de Declaração, o acórdão recorrido foi omisso quanto aos dispositivos violados; (b) cerceamento do direito de ação e violação à coisa julgada, uma vez que não ocorreu a preclusão do requerimento de devolução dos valores indevidamente retidos; (c) enriquecimento ilícito do Ente público, em virtude da extinção do feito, independentemente do efetivo pagamento da dívida; e (d) impossibilidade de extinção da execução em face da ausência de quitação integral do débito.
+4. O Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 177/185), sobrevindo interposição de Agravo (fls. 187/196).
+5. É o relatório.
+6. Cinge-se a questão controvertida em verificar se ocorreu a preclusão pela parte agravante para manifestar-se sobre a devolução dos valores retidos indevidamente a título de contribuição previdenciária.
+7. Inicialmente, cumpre asseverar que não há a apontada contrariedade ao art. 535 do CPC/1973, tendo em vista que a lide foi solvida nos limites necessários, com a devida fundamentação e coerência, ainda que sob ótica diversa da almejada pela parte agravante. O Tribunal de origem apreciou, fundamentadamente, a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Ademais, julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada. Precedentes desta Corte: AgInt no REsp. 1.589.707, Rel. Min. MARIA ISABEL GALLOTTI, DJe 14.3.2017; AgInt no REsp. 1.598.299/SC, Rel. Min. FRANCISCO FALCÃO, DJe 16.3.2017; AgInt no REsp. 1.543.061/RS, Rel. Min. FRANCISCO FALCÃO, DJe 16.3.2017; AgInt no REsp. 1.596.392/SC, Rel. Min. HERMAN BENJAMIN, DJe 6.3.2017.
+8. No mérito, o Tribunal de origem concluiu que:
+O artigo 46 do Ato 013/2012 da Presidência deste Tribunal de Justiça, estabelece que será de cinco dias, a contar da intimação do pagamento do precatório ao credor, o prazo para apontar eventual incorreção, restando preclusas as questões não suscitadas em tal prazo:
+(..).
+No caso dos autos, verifica-se que foi comunicado ao juízo de origem o depósito do valor do precatório 93957 em 4.1.2013 (fl. 72).
+Em 11.1.2013 foi disponibilizada a Nota de Expediente 1030/2013-SPP, noticiando o pagamento do precatório 93.957 e a possibilidade de levantamento dos valores (fl. 5).
+Conforme consulta ao sistema informatizado desta Corte, é possível verificar que em 29/08/2013 os autos foram retirados em carga pelo procurador da parte autora.
+Note-se que a insurgência quanto à contribuição previdenciária foi apresentada tão somente em 19.9.2013 (fl. 74), quando decorrido o prazo de cinco dias para manifestação da parte, seja administrativamente, seja em Juízo.
+Portanto, não tendo havido oportuna inconformidade a respeito, precluiu o prazo para insurgência em relação ao valor depositado (fls. 133).
+9. Da leitura dos excertos acima transcritos depreende-se que a Corte de origem acolheu a ocorrência da preclusão à luz dos elementos fático-probatórios constantes dos autos.
+10. Dessa forma, desconstituir a conclusão do acórdão recorrido implicaria, necessariamente, incursão no acervo fático-probatório dos autos, o que, no entanto, é vedado na via Especial. A esse propósito:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. JUROS MORATÓRIOS. PERÍODO COMPREENDIDO ENTRE A ELABORAÇÃO DE CÁLCULOS E A EXPEDIÇÃO DA RESPECTIVA ORDEM DE PAGAMENTO. PRECLUSÃO. ALTERAÇÃO DAS CONCLUSÕES DA CORTE DE ORIGEM QUE ENCONTRA ÓBICE NA SÚMULA 7/STJ. AGRAVO INTERNO DOS SERVIDORES A QUE SE NEGA PROVIMENTO.
+1. O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário 579.431/RS, de relatoria do Ministro MARCO AURÉLIO, sob o regime da repercussão geral, consolidou o entendimento de que incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição de pequeno valor - RPV ou do precatório.
+2. Contudo, no caso dos autos, a Corte de origem expressamente indeferiu a pretensão recursal em virtude da ocorrência da preclusão, pois, em 7.1.2008, foi proferida decisão que reconheceu ser indevida a incidência de juros entre a data da elaboração do cálculo e a expedição do precatório (fls. 74), a parte exequente foi intimada dessa decisão em 23.1.2008 (fls. 75), contra ela não se insurgindo (fl. 75).
+3. A alteração dessas conclusões, na forma pretendida, demandaria necessariamente a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+4. Agravo Interno dos Servidores a que se nega provimento (AgInt no REsp. 1.473.860/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 22.2.2019).
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. SERVIDOR PÚBLICO. REAJUSTE. 11,98%. LIMITAÇÃO TEMPORAL. EXECUÇÃO DE SENTENÇA. PRECLUSÃO. REVISÃO. SÚMULA 7/STJ.
+1. Não se configura a ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+(..).
+3. O Tribunal de origem consignou: verifico que o julgamento embargado partiu de premissa equivocada, pois a limitação do percentual de 11,98% com a MP 1.535/1996, bem como com as Leis Federais 10.769/2003 e 11.344/2006 não foi alegada pelo BACEN em momento oportuno (fl. 112, e-STJ). É inviável, portanto, modificar o disposto no acórdão recorrido, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se o óbice da Súmula 7/STJ.
+4. Agravo Interno não provido (AgInt no REsp. 1.765.762/RS, Rel. Min. HERMAN BENJAMIN, DJe 11.3.2019).
+11. Prejudicada a análise das demais questões suscitadas, por subjacentes à questão meritória.
+12. Ante o exposto, conhece-se do Agravo para negar provimento ao Recurso Especial do Servidor.
+13. Publique-se.
+14. Intimações necessárias.
