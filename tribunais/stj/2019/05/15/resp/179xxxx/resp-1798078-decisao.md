@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fulcro no art. 105, III, "a", da Constituição Federal, contra acórdão do respectivo Tribunal de Justiça, assim ementado:
+"RECURSO EM SENTIDO ESTRITO. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO TENTADO. NULIDADE POSTERIOR À PRONÚNCIA. LEITURA DAS OCORRÊNCIAS POLICIAIS DO RÉU. ARGUMENTO DE AUTORIDADE. PRELIMINAR ACOLHIDA.
+Nulidade posterior à pronúncia. Esta Câmara vem entendendo que o rol do artigo 478 do Código de Processo Penal não é, necessariamente, taxativo, ampliando a sua esfera de incidência a casos nos quais, a despeito de não estarem expressamente previstos na legislação, se extraiam argumentos que não se valham da prova dos autos e que possam, mesmo assim, influenciar no livre convencimento dos jurados. Na espécie, a defesa consignou em ata que a agente ministerial, no debate, leu as ocorrências policiais do réu, uma por uma, e, ao final, concluiu que o acusado é "pessoa nefasta", "perniciosa à vida social" e "faz do crime o seu meio de subsistência". Argumentação que não possui outro intento que não alcançar a influência negativa dos jurados. A Promotora, em ata, admitiu ter lido a maioria desses registros, sob a justificativa de que estaria debatendo a reincidência e os vetores do artigo 59 do Código Penal. Além de a reincidência exigir condenação transitada em julgado e a Súmula nº 444 do Superior Tribunal de Justiça dispor que "é vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena - base", a discussão atinente à dosimetria da pena deve ser resguardada ao Juiz-Presidente (e não, obviamente, ao Conselho de Sentença). A postura das partes no processo penal deve adotar preceitos éticos, justificando que, quando se julga, deve ser observado o processo penal do fato, não o famigerado processo penal do autor. Vício que, além de apontado tempestivamente durante os debates, traz prejuízo à defesa. Determinação de realização de novo julgamento pelo Tribunal do Júri.
+APELAÇÃO DA DEFESA PROVIDA, POR MAIORIA.
+APELAÇÃO DO MINISTÉRIO PÚBLICO PREJUDICADA."
+(e-STJ, fl. 701).
+O recorrente alega, em síntese, que "as disposições do artigo 478, inciso I, do Código de Processo Penal, por restringirem o direito ao contraditório das partes, devem ser interpretados restritivamente, na medida em que cerceiam a dialeticidade que se espera do debate entre acusação e defesa" (e-STJ, fl. 726).
+"Assim, a decisão recorrida, ao declarar a nulidade do julgamento e determinar sua renovação, contrariou o artigo 478, inciso I, do Código de Processo Penal, motivo pelo qual deve ser provido o presente recurso, para que se mantenha a condenação imposta pelo Conselho de Sentença" (e-STJ, fl. 729).
+Contrarrazões apresentadas às fls. 737-741 (e-STJ).
+O Ministério Público Federal manifestou-se às fls. 765-769 (e-STJ).
+É o relatório.
+A pretensão recursal não merece acolhimento.
+Decido.
+O art. 478 do Código de Processo Penal dispõe o seguinte:
+"Art. 478. Durante os debates as partes não poderão, sob pena de nulidade, fazer referências: (Redação dada pela Lei nº 11.689, de 2008)
+I - à decisão de pronúncia, às decisões posteriores que julgaram admissível a acusação ou à determinação do uso de algemas como argumento de autoridade que beneficiem ou prejudiquem o acusado; (Incluído pela Lei nº 11.689, de 2008)
+II - ao silêncio do acusado ou à ausência de interrogatório por falta de requerimento, em seu prejuízo. (Incluído pela Lei nº 11.689, de 2008)" (grifou-se)
+Inicialmente, cumpre registrar que, de acordo com a jurisprudência desta Corte, "a finalidade do óbice previsto na norma inserta no art. 478, I, do Código de Processo Penal é evitar a leitura de certas peças como argumento de autoridade durante os debates na sessão plenária do Tribunal do Júri" (AgRg no REsp 1717600/MS, Rel. O Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/08/2018, DJe 21/08/2018).
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, INCISO IV, DO CP). TRIBUNAL DO JÚRI. CONDENAÇÃO. PROLAÇÃO DE OFENSAS PESSOAIS ENTRE DEFESA E ACUSAÇÃO. NULIDADE DO JULGAMENTO. ARGUMENTO DE AUTORIDADE. INOCORRÊNCIA. ROL TAXATIVO. AUSÊNCIA DE PREJUÍZO.
+1. O art. 478 do CPP descreve as hipóteses que configuram nulidade processual pela utilização de certas decisões como argumento de autoridade, sendo que a prolação de ofensas pessoais recíprocas entre o Defensor e o Promotor de Justiça não se adequam a tais hipóteses, não havendo que se falar em ofensa à ampla defesa e, consequentemente, em nulidade.
+2. Nessa toada, a Corte de origem concluiu em harmonia com o entendimento deste Sodalício no sentido de que o rol previsto no art. 478 do Código de Processo Penal é taxativo, não comportando interpretações ampliativas.
+(..)
+4. Agravo regimental não provido."
+(AgRg no AREsp 561.900/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/04/2018, DJe 04/05/2018)
+Assim, quando nos debates orais essas referências são utilizadas como argumento de autoridade para prejudicar ou beneficiar o réu, deve ser reconhecida a nulidade prevista no inciso I do art. 478 do CPP, oportunamente arguida pela parte.
+A propósito, confiram-se os seguintes julgados:
+" ..
+1. Não se acolhe nulidade se não resta demonstrado, concretamente, em que medida o modelo de disposição de cátedra adotado no Tribunal do Júri importou em prejuízo para a defesa, não bastando, para tanto, meras ilações genéricas decorrentes da própria condenação em si.
+2. As referências nos debates do Tribunal do Júri não acarretam, necessariamente, a nulidade do julgamento, até porque as informações são de franco acesso aos jurados, nos termos do artigo 480 do Código de Processo Penal, somente eivando de nulidade o julgamento se expressamente vedadas na norma e forem feitas como argumento de autoridade que beneficiem ou prejudiquem o acusado.
+Omissis.
+6. Recurso parcialmente provido." (REsp 1.596.509/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/06/2016, DJe 14/06/2016)
+" ..
+1. A pretensão recursal se revela dissonante do entendimento consolidado nesta Corte Superior no sentido de que "a simples menção ou mesmo leitura da sentença de pronúncia não implica, obrigatoriamente, a nulidade do julgamento, até mesmo pelo fato de os jurados possuírem amplo acesso aos autos. Nesse contexto, somente resta configurada a ofensa ao art. 478, I, do Código de Processo Penal se as referências forem feitas como argumento de autoridade que beneficie ou prejudique o acusado" (AgRg nos EAREsp 300.837/SP, Rel. Ministro GURGEL DE FARIA, Terceira Seção, julgado em 22/04/2015, DJe 05/05/2015).
+2. No presente caso, como consignado pela instância ordinária, a decisão de pronúncia, na qual o Magistrado em análise perfunctória e superficial, rechaçou a possibilidade de absolvição sumária, com fulcro no artigo 415, IV, do Código de Ritos, não efetuou qualquer contaminação no julgamento dos jurados, pois ausente qualquer juízo de certeza ou excesso de linguagem. Assim, verifica-se que a entrega de cópias da pronúncia, nos termos da previsão inserta no artigo 472 do CPP, não pode ser tida como prejudicial ao acusado, uma vez que não atingiu o ânimo dos jurados.
+Omissis.
+5. Agravo regimental improvido." (AgRg no REsp 1.373.007/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/05/2016, DJe 01/06/2016)
+No caso em apreço, o acórdão recorrido anulou a decisão do Conselho de Sentença, com base nos seguintes fundamentos:
+"Entendo que são insuficientes as justificativas apresentadas pela agente ministerial para afastar a tese defensiva. A leitura dos registros criminais do acusado, um por um, teve, nitidamente, o objetivo único e exclusivo de persuadir os jurados a decidirem pela sua condenação por crime doloso contra a vida.
+Ora, ler as ocorrências policiais do denunciado e, após, concluir, perante o Conselho de Sentença, que o réu é "pessoa nefasta", "perniciosa à vida social" e "faz do crime o seu meio de subsistência" não possui outro intento que não alcançar a influência negativa dos jurados.
+Argumentar, como fez a acusação, que a leitura das ocorrências policiais visava somente "debater a reincidência" é salientemente improcedente, pois certamente a agente ministerial possui conhecimento de que a reincidência exige condenação transitada em julgado.
+Ademais, mesmo que a Promotora tenha lido os registros para fins de "demonstrar a personalidade do acusado", certamente é do seu conhecimento, também, o enunciado da Súmula nº 444 do Superior Tribunal de Justiça, segundo o qual "é vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base".
+De toda a sorte, mesmo admitida a hipótese de que a leitura das ocorrências policiais do denunciado visava efetivamente trabalhar questões ligadas ao apenamento do réu, a discussão atinente à dosimetria da pena deve ser resguardada ao Juiz-Presidente (e não, obviamente, ao Conselho de Sentença)."
+Da leitura do trecho supra transcrito, vê-se a toda evidência que a il. Promotora de Justiça não se ateve à mera leitura dos antecedentes criminais do réu, tendo se utilizado deles como argumento de autoridade, com o intuito de denegrir a personalidade do acusado, influenciando, assim, a decisão dos jurados.
+Ante o exposto, com fundamento no art. 34, VIII, "b", do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
