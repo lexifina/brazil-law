@@ -1,0 +1,27 @@
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE PLANO DE SAÚDE COLETIVO. ENTIDADE DE AUTOGESTÃO, SEM FINS LUCRATIVOS. JULGAMENTO REALIZADO PELA CORTE DE ORIGEM À LUZ DO CDC. PRECEDENTE DA SEGUNDA SEÇÃO DO STJ. NECESSIDADE DE RETORNO DOS AUTOS PARA NOVA ANÁLISE. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso interposto por Fundação Sabesp de Seguridade Social - Sabesprev, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 311):
+Ação de obrigação de fazer Plano de Saúde Sentença de procedência Insurgência da requerida Não acolhimento Aplicação do Código de Defesa do Consumidor Norma principiológica Direito do empregado aposentado de ser mantido nas mesmas condições assistenciais do plano vigente no contrato de trabalho Inteligência dos Artigos 30 e 31 da Lei 9.656/98 Garantia de continuidade do contrato em idênticas condições de assistência Irrelevância da administração por autogestão Impossibilidade de imposição da autora em plano de inativos Enunciado n. 36 desta. E. 3ª Câmara de Direito Privado Valor do prêmio que será calculado pela soma do valor pago pela empregadora e o valor pago pelos empregados na ativa Recurso não provido.
+Nega-se provimento ao recurso.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 424-429).
+Nas razões do recurso especial (e-STJ, fls. 320-336), a recorrente alegou violação aos arts. 30 e 31 da Lei n. 9.656/1998; 4º, XI, da Lei 9.961/2000; 3º, § 2º, do CDC; e 927, IV, do CPC/2015.
+Sustentou, em síntese, a possibilidade de contrato de plano de saúde diferenciado para ativos e inativos, desde que mantidas as condições de cobertura vigentes à época do contrato de trabalho. Ressaltou que não há vedação legal na criação de planos distintos para empregados e ex-empregados.
+Discorreu sobre a competência da Agência Nacional de Saúde Suplementar (ANS) para a fixação de critérios, responsabilidades, obrigações e normas de procedimento para garantia dos direitos assegurados nos arts. 30 e 31 da Lei 9.656/1998.
+Salientou que a Lei n. 9.656/1998, em nenhum momento, "vedou a criação de novos planos de assistência à saúde para os ativos e inativos, mas apenas determinou que fosse assegurado aos ex-empregados o direito à condição de beneficiário em plano que mantivesse a mesma cobertura assistencial dos ativos" (e-STJ, fl. 332).
+Asseverou a inaplicabilidade do Código de Defesa do Consumidor à hipótese, afirmando que é entidade fechada de previdência privada, sem fins lucrativos, de autogestão e autossustentável. Postulou a anulação do acórdão recorrido para que o caso seja analisado sem a aplicação das normas consumeristas.
+As contrarrazões foram apresentadas às fls. 434-462 (e-STJ).
+Juízo positivo de admissibilidade (e-STJ, fls. 468-469).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que se refere à aplicação do Código de Defesa do Consumidor, verifica-se que o acórdão recorrido está em dissonância ao entendimento da Segunda Seção desta Corte no sentido de afastar a incidência da legislação consumerista sobre os serviços prestados pelas operadoras fechadas de planos privados de assistência à saúde sob o sistema de autogestão, sem fins lucrativos.
+Confira-se:
+RECURSO ESPECIAL. ASSISTÊNCIA PRIVADA À SAÚDE. PLANOS DE SAÚDE DE AUTOGESTÃO. FORMA PECULIAR DE CONSTITUIÇÃO E ADMINISTRAÇÃO. PRODUTO NÃO OFERECIDO AO MERCADO DE CONSUMO. INEXISTÊNCIA DE FINALIDADE LUCRATIVA. RELAÇÃO DE CONSUMO NÃO CONFIGURADA. NÃO INCIDÊNCIA DO CDC.
+1. A operadora de planos privados de assistência à saúde, na modalidade de autogestão, é pessoa jurídica de direito privado sem finalidades lucrativas que, vinculada ou não à entidade pública ou privada, opera plano de assistência à saúde com exclusividade para um público determinado de beneficiários.
+2. A constituição dos planos sob a modalidade de autogestão diferencia, sensivelmente, essas pessoas jurídicas quanto à administração, forma de associação, obtenção e repartição de receitas, diverso dos contratos firmados com empresas que exploram essa atividade no mercado e visam ao lucro.
+3. Não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo.
+4. Recurso especial não provido
+(REsp n. 1.285.483/PB, Relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 22/6/2016, DJe 16/8/2016)
+No caso, depreende-se que o Tribunal de origem reconheceu a aplicação do Código de Defesa do Consumidor para consignar a impossibilidade de inclusão da recorrida em plano criado para os empregados inativos, é imprescindível a reapreciação da questão sob outra perspectiva, de modo que a prestação jurisdicional seja dada de forma completa.
+Diante do exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem a fim de que reaprecie a apelação interposta pela ora recorrente, como entender de direito, superada a aplicação do Código de Defesa do Consumidor à hipótese.
+Publique-se.
