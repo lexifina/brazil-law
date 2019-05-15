@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “APELAÇÃO CRIMINAL - Furto qualificado e corrupção de menor - Recursos ministerial e defensivo - Furtos - Absolvição – Impossibilidade - Materialidade e autoria comprovadas pela segura prova oral e documental - Validade das palavras das vítimas e dos agentes públicos - Apreensão da "res furtiva" em poder da ré - Delitos perpetrados em continuidade delitiva - Corrupção de menor - Crime formal, que independe da comprovação de prévia condição de corrompido do menor - Inteligência da Súmula 500 do STJ- PENAS - Circunstâncias judiciais altamente desfavoráveis que autorizam a majoração das penas-base - Afastamento da primariedade como circunstância atenuante – Ausência de previsão legal - Manutenção do aumento de 2/3 pela continuidade delitiva - Fixação do regime fechado - Cabimento – Circunstâncias judiciais negativas - Inteligência do art. 33, §3°, do CP – Inúmeros crimes praticados em continuidade delitiva - Regime mais brando que seria inócuo no caso concreto - Expedição de mandado de prisão - Imediato início do resgate da expiação - Precedente do STF – Recurso defensivo desprovido e provimento ao apelo ministerial com determinação de expedição de mandado de prisão” (fl. 182, vol. 2).
+    Os embargos de declaração opostos foram rejeitados (fls. 228-231, vol. 2).
+    2. No recurso extraordinário, a agravante alega ter o Tribunal de origem contrariado o caput e o inc. XXXV do art. 5º da Constituição da República.
+    3. O recurso extraordinário foi inadmitido pela incidência das Súmulas ns. 279 e 284 do Supremo Tribunal Federal (fls. 45-46, vol. 3).
+    No agravo, a agravante assevera divergir o acórdão “das posições do C. STF sobre a matéria posta, ensejando a total necessidade de admitir o recurso” (fl. 71, vol. 3).
+    Assinala que, “para fundamentar a materialidade e autoria de todos os delitos descritos, a r. decisão fez menção ao depoimento das vítimas, mas não adentrou ao fato de que, os depoimentos das vítimas em Juízo, em comparação com os depoimentos em sede policial guardam enormes contradições, tanto no reconhecimento, como na elaboração do boletim de ocorrências, sendo que as filmagens mencionadas nunca foram encartadas aos autos, embora fornecidas a autoridade policial” (fl. 72, vol. 3).
+    Ressalta a primariedade e os bons antecedentes e alega a impossibilidade de exasperação da “pena da forma como posta na decisão de primeira instância, que deve ser reformada para o mínimo legal” (fl. 88, vol. 3).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à agravante.
+    5. O agravo não pode ter seguimento porque a agravante não impugnou os fundamentos da decisão agravada, os quais, por esse motivo, subsistem.
+    Este Supremo Tribunal assentou ser incabível o agravo no qual não se infirmam os fundamentos da decisão agravada. Confiram-se, por exemplo, os julgados a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSO PENAL. CRIMES TRIBUTÁRIOS. SONEGAÇÃO FISCAL. LEI N. 10.684/2003. PARCELAMENTO DOS DÉBITOS EXTENSÍVEL ÀS PESSOAS FÍSICAS. SUSPENSÃO DA PRETENSÃO PUNITIVA E DA PRESCRIÇÃO. INCABÍVEL O RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 418.110-AgR, de minha relatoria, Segunda Turma, DJe 5.5.2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DO TRIBUNAL DE ORIGEM QUE INADMITE RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - É deficiente a fundamentação do agravo cujas razões não atacam especificadamente todos os fundamentos da decisão do Tribunal de origem que não admite o recurso extraordinário. Incidência da Súmula 287/STF. II - Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC” (ARE n. 1.106.864-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 3.9.2018).
+    Nada há a prover quanto às alegações da agravante.
+    6. Pelo exposto, nego seguimento ao recurso extraordinário com agravo (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de maio de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
