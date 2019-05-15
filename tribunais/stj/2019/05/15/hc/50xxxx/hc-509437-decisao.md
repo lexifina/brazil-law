@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado pela Defensoria Pública em favor de [NOME], contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 0058638-80.2017.8.26.0050.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 5 (cinco) anos de reclusão, em regime fechado, mais pagmento de 500 (quinhentos) dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/06 (fls. 27-31).
+Inconformada, a defesa interpôs recurso de apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo consoante voto condutor do v. acórdão de fls. 32-40.
+Dai o presente writ, onde a impetrante alega, em síntese, a ocorrência de constrangimento ilegal na utilização de uma condenação posterior aos fatos para caracterizar maus antecedentes, bem como na negativa de aplicação da causa especial de diminuição do § 4º do art. 33 da Lei de Drogas, pois, considerando apenas a quantidade de drogas o v. acórdão impugnado presumiu que o paciente se dedicava com frequência à prática de tráfico. Sustenta, ainda, constrangimento na fixação do regime mais gravoso e na negativa de substituição da pena corporal.
+Requer, liminarmente, a concessão da ordem para que o paciente aguarde em liberdade o julgamento do presente writ. No mérito, pugna pela aplicação da causa especial de diminuição do § 4º do art. 33 da Lei n. 11.343/06, com consequente fixação do regime aberto e substituição da pena corporal por restritiva de direitos. Subsidiariamente, a fixação do regime semiaberto, caso seja mantida a pena fixada em primeira instância.
+É o breve relatório.
+Decido.
+Inicialmente, insta consignar que a Primeira Turma do col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente (v.g.: HC 109.956/PR, Rel. Min. Marco Aurélio, DJe de 11/9/2012; RHC 121.399/SP, Rel. Min. Dias Toffoli, DJe de 1º/8/2014 e RHC 117.268/SP, Rel. Min. Rosa Weber, DJe de 13/5/2014).
+As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado (v.g.: HC 284.176/RJ, Quinta Turma, Rel. Min. Laurita Vaz, DJe de 2/9/2014; HC 297.931/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 28/8/2014; HC 293.528/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 4/9/2014 e HC 253.802/MG, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 4/6/2014).
+Portanto, não se admite mais a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento da impetração.
+Entretanto, no caso de flagrante ilegalidade apta a gerar constrangimento ilegal, a jurisprudência recomenda a concessão da ordem de ofício.
+Na hipótese, compulsando os autos, denota-se que o pedido liminar se confunde com o próprio mérito da impetração, não restando configurada, de plano, flagrante ilegalidade, a ensejar o deferimento da medida de urgência.
+Assim, nos limites da cognição in limine, ausentes os indícios para a configuração do fumus boni iuris, a quaestio deverá ser apreciada pelo Colegiado, após uma verificação mais detalhada dos dados constantes dos autos.
+Denego, pois, a liminar.
+Solicitem-se, com urgência e via telegrama, informações atualizadas e pormenorizadas à autoridade tida por coatora.
+Após, vista dos autos ao Ministério Público Federal.
+P. e I.
