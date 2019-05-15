@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WESLLEY LIMA DE ANDRADE contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação Criminal n. 0006612-91.2012.8.26.0176.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 5 anos e 6 meses de reclusão, em regime inicial semiaberto, e 13 dias-multa, além do pagamento de indenização à vítima por danos materiais, em razão da prática do delito previsto no art. 157, § 2º, I e II, do Código Penal (fls. 9/18).
+Inconformada, a defesa apelou e o Tribunal a quo proveu parcialmente o recurso, apenas para afastar a condenação à indenização para a reparação dos danos materiais (fls. 19/23).
+No presente mandamus (e-STJ fls. 3/6), a defesa sustenta haver constrangimento ilegal na fixação da pena, na terceira fase da dosimetria, em fração superior a 1/3, pois a fundamentação foi baseada apenas em critério matemático, referente ao número de majorantes presentes no caso. Aponta ser aplicável ao caso o enunciado n. 443 da Súmula desta Corte.
+Dessa forma, pede, liminarmente e no mérito, a redução da pena aplicada ao paciente.
+O pedido liminar foi indeferido pelo Ministro Presidente (e-STJ fl. 27).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ ou pela denegação da ordem (fls. 42/49), nos termos da seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO DUPLAMENTE MAJORADO. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. PEDIDO DE READEQUAÇÃO DA PENA. TERCEIRA FASE. IMPOSSIBILIDADE. ELEVAÇÃO EM FRAÇÃO SUPERIOR AO MÍNIMO. INCIDÊNCIA DE DUAS MAJORANTES. PECULIARIDADES CONCRETAS DO CRIME. EM TAIS CONDIÇÕES, CONCLUSÃO PELO AFASTAMENTO DO ENUNCIADO N. 443/STJ. PELO NÃO CONHECIMENTO DO WRIT. CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+1. A jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Não houve violação ao princípio da proporcionalidade no julgamento do Tribunal local. A majoração na fase derradeira foi correta, posto que o crime foi empreendido pelos agentes com o uso da arma, mediante concurso de agentes e com recursos que impossibilitou a defesa da vítima. Em tais condições, entende-se pelo afastamento do enunciado sumular n. 443 dessa Corte Superior.
+3. Parecer do MINISTÉRIO PÚBLICO FEDERAL pelo não conhecimento do writ ou, caso conhecido, no mérito, pela denegação da ordem.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+Na espécie, verifico presente constrangimento ilegal apto a justificar a concessão da ordem, de ofício.
+A defesa se insurge contra o quantum de incremento punitivo aplicado na terceira fase da dosimetria da pena do paciente, o qual teria levado em consideração apenas o critério quantitativo do número das causas de aumento.
+Extrai-se da sentença a seguinte fundamentação para majorar a reprimenda na fração de 3/8 (e-STJ fl. 16):
+ ..
+No terceiro estágio, conforme disposto no art. 68, parágrafo único, do Código Penal, reconheço as causas de aumento previstas no § 2o, incisos I e II, do art. 157 do Código Penal, consistentes no emprego de arma e concurso de agentes, aumentando a pena em 3/8 (três oitavos), totalizando 05 (cinco) anos e 06 (seis) meses de reclusão, além do pagamento de 13 (treze) dias-multa.
+E a Corte local assim justificou a manutenção da fração adotada na sentença (e-STJ fl. 22):
+ ..
+Em relação às penas, na primeira fase da dosimetria, foram fixadas
+no patamar mínimo. Na segunda fase, impendendo reconhecer, conforme iterativa jurisprudência, que ao acusado não aproveita sua redução aquém do piso mínimo, em razão da incidência da atenuante da menoridade relativa, reconhecida em primeira instância. O crime de roubo foi duplamente qualificado, de modo que admite o acréscimo de três oitavos (3/8), adotado por esta Colenda Câmara, diante de duas causas especiais de aumento, finalizando-as em cinco (05) anos e seis (06) meses de reclusão e pagamento de treze (13) dias-multa. Preserva-se o regime prisional intermediário, ante a ausência de recurso do órgão acusatório pleiteando o mais gravoso.
+ ..
+Com efeito, o Superior Tribunal de Justiça firmou o entendimento de que o critério para a exasperação da pena, em razão das causas de aumento no crime de roubo, não deve ser apenas matemático, mas subjetivo, a ser evidenciado pelas circunstâncias do caso concreto. O referido entendimento foi expresso no enunciado n. 443 da Súmula desta Corte, segundo o qual:
+O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+Conforme se observa das transcrições acima, as instâncias ordinárias aumentaram a pena, na terceira fase da dosimetria, deixando de evidenciar de que forma a conduta do paciente desbordou para um comportamento mais grave, o que justificaria a majoração da pena em fração superior ao mínimo de 1/3.
+Limitar-se a mencionar objetivamente o concurso de agentes e o emprego de arma de fogo não é suficiente para fundamentar a reprimenda em 3/8.
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO NA VIA ELEITA. ROUBOS MAJORADOS TENTADO E CONSUMADO. DOSIMETRIA. PEDIDO DE ABSOLVIÇÃO. ESTADO DE NECESSIDADE OU INEXIGIBILIDADE DE CONDUTA DIVERSA. INVERSÃO DO JULGADO. NECESSIDADE DE REEXAME DE PROVAS. INVIABILIDADE NA VIA ELEITA. EXASPERAÇÃO DAS PENAS-BASE. CIRCUNSTÂNCIAS DO DELITO. VALOR E NATUREZA DO BEM. IMPOSSIBILIDADE DE VALORAÇÃO NEGATIVA. BEM QUE FOI RESTITUÍDO À VITIMA. REDIMENSIONAMENTO DAS PENAS-BASE. PEDIDO DE APLICAÇÃO DA SÚMULA N. 443/STJ. RECONHECIMENTO. FUNDAMENTAÇÃO INIDÔNEA NA UTILIZAÇÃO DA FRAÇÃO DE 3/8. REDUÇÃO PARA 1/3. REGIME SEMIABERTO. PENA SUPERIOR A 4 ANOS E INFERIOR A 8 ANOS. PENAS-BASE ARBITRADAS NO MÍNIMO. POSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. Sabe-se que a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+ ..
+5. "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" - enunciado n. 443 da Súmula desta Corte.
+6. Na hipótese, o aumento das penas em fração superior a 1/3 ocorreu em razão da quantidade de majorantes, sem a indicação de fundamentação concreta, a evidenciar a necessidade de aplicação da fração mínima.
+ ..
+9. Habeas corpus não conhecido. Ordem concedida, de ofício, para redimensionar a pena do paciente e fixar o regime semiaberto. (HC 418.147/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 12/12/2017, DJe 18/12/2017)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA DA PENA. TERCEIRA FASE. EXASPERAÇÃO DA PENA EM PATAMAR SUPERIOR AO MÍNIMO LEGAL SEM FUNDAMENTAÇÃO CONCRETA. SÚMULA N. 443 DO STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+O Superior Tribunal de Justiça consagrou o entendimento de que o recrudescimento da pena na terceira fase da dosimetria alusiva ao delito de roubo circunstanciado em fração mais elevada que 1/3 (um terço) demanda fundamentação concreta, não se afigurando idônea a simples menção ao número de majorantes. Inteligência da Súmula n. 443 desta Corte.
+In casu, tanto o Juiz sentenciante quanto o Tribunal de origem utilizaram tão só do critério matemático para fundamentar o aumento, na terceira fase da dosimetria, no patamar de 3/8, sem referência a elementos concretos dos autos a autorizar a exasperação da pena em patamar superior ao mínimo. Com efeito, limitaram-se a mencionar objetivamente o concurso de agentes e o emprego de arma de fogo, o que não consubstancia fundamentação idônea para a majoração da reprimenda em 3/8 (três oitavos). Precedentes.
+Agravo regimental a que se nega provimento. (AgRg no HC 321.043/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 10/11/2016, DJe 21/11/2016).
+Dessa forma, a fração das majorantes deve ser redimensionada para 1/3.
+Passo, portanto, ao ajuste da reprimenda.
+Mantida a pena-base no mínimo, esta permanece inalterada na segunda fase, apesar da presença da menoridade relativa, em razão incidência da Súmula 231/STJ.
+Na ultima etapa, redimensiono o aumento em razão do concurso de agentes e do uso de arma de fogo para a fração de 1/3. A pena definitiva do paciente resulta em 5 anos e 4 meses de reclusão e 13 dias-multa.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para reduzir a pena do paciente ao novo patamar de 5 anos e 4 meses de reclusão e 13 dias-multa, mantidos os demais termos do acórdão.
+Publique-se. Intime-se.
