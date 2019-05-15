@@ -1,0 +1,11 @@
+Decisão: Trata-se de recurso ordinário interposto contra acórdão do Tribunal de Justiça de São Paulo que denegou a ordem em mandado de segurança, nos termos da seguinte ementa:
+    “MANDADO DE SEGURANÇA IMPETRADO OBJETIVANDO A NOMEAÇÃO DE CANDIDATOS APÓS APROVAÇÃO EM CONCURSO PÚBLICO CARGO DE OFICIAL ADMINISTRATIVO PADRÃO 1-A DA POLÍCIA MILITAR DO ESTADO DE SÃO PAULO HIPÓTESE DE CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS OFERTADAS EM EDITAL DECORRIDO O PRAZO DE VALIDADE DO CERTAME SEM NOMEAÇÃO Informações prestadas pela autoridade apontada como coatora que indicam que os gastos do Governo do Estado de São Paulo com pessoal já se aproximam do limite prudencial indicado pela Lei de Responsabilidade Fiscal Edição do Decreto nº 61.466/2015, vedando novas nomeações, visando adequar as contas do Estado ao cenário da crise político-econômica nacional que levou à diminuição na arrecadação de tributos Precedente do C. Supremo Tribunal Federal no RE Nº 598.099/MS Situação excepcional e imprevisível não constatada Hipótese em que, na verdade, constata-se a oposição entre o interesse público na boa gestão das contas públicas em face do direito subjetivo dos candidatos à nomeação Tribunal de Contas do Estado de São Paulo que já alertou o Governo Estadual para que adotasse medidas com o intuito de que não seja ultrapassado, no exercício de 2017, o limite legal permitido Art. 22, parágrafo único, inciso IV, da Lei Complementar nº 101/2000 Demonstração, nos autos, de que o montante despendido com pessoal impossibilita o Estado de contratar novos servidores Supremacia do interesse público constatada Necessidade de se proteger o orçamento público e viabilizar as gestões futuras Direito líquido e certo ausente. Ordem denegada”.
+    Decido.
+    Cumpre registrar que a Constituição Federal estabelece que competirá ao STF julgar, em recurso ordinário, o habeas corpus, o mandado de segurança, o habeas data e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão; e o crime político.
+    Ocorre que, no caso dos autos, a decisão impugnada foi proferida pelo TJSP, motivo pelo qual, incabível o presente recurso.
+    Ante o exposto, não conheço do recurso ordinário.
+    Publique-se.
+    Brasília, 15 de maio de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
