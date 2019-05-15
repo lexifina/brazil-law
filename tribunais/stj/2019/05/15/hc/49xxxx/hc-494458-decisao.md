@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, substituto de recurso especial, impetrado de próprio punho e em benefício próprio por WELLINGTON FAGUNDES DE SOUZA, apontando como autoridade coatora o eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se da petição inicial que o impetrante/paciente requer a revisão do reconhecimento de 4 faltas graves cometidas nos meses de julho, setembro e dezembro de 2016, conforme se extrai da fl. 1.
+Das informações prestadas pelo Tribunal de origem extrai-se que foram cometidas faltas nos dias 16/7/2016, 19/9/2016, 25/9/2016 e 28/12/2016, as quais foram objeto de diferentes processos administrativos disciplinares, reconhecidas por diferentes decisões proferidas pelo d. Juízo das execuções (fls. 42-43, 49-50, 56-57 e 65-71, respectivamente), e contra todas a Defesa interpôs um agravo em execução diferente, a saber, 7006481-45.2017.8.26.0071 (fls. 44-48), 7006482-30.2017.8.26.0071 (fls. 51-55), 7006480-60.2017.8.26.0071 (fls. 58-62) e 7006483-15.2017.8.26.0071 (fls. 65-71), respectivamente.
+No presente habeas corpus, o impetrante/paciente alega, em síntese, que houve injustiça, sustentando que os funcionários do presídio poderiam resolver a situação de forma menos gravosa para o paciente.
+Sustenta que desobediência "não chega a ser um desacato ou uma "agressão" desobedecer as normas da unidade não chega a ser um desacato" (fl. 2 - sic) sustentando que poderia ser aplicado um "castigo" (fl. 2) ou considerar uma falta média.
+Requer a apreciação para afastar as faltas graves.
+Não houve pedido liminar.
+Informações prestadas às fls. 20-37 e 41-79.
+O Ministério Público Federal, à fl. 81, manifestou-se pelo não conhecimento do writ.
+Instada a se manifestar, a i. Defensoria Pública Estadual, às fls. 87-89, aduz que "o paciente impetrou, de próprio punho, o presente habeas corpus solicitando, ao que parece, reforma da decisão que lhe condenou por falta de natureza grave, e perda de 1/6 dos dias remidos, reinício do prazo para progressão de regime e regressão ao regime fechado", que, no caso, seria a última a ser reconhecida, alegando que não foram ouvidas testemunhas e que a decisão se pautou somente nos depoimentos dos funcionários, solicitando, assim, que "seja concedida a ordem de ofício, conforme requerida na inicial, para absolver o paciente da falta ou desclassificá-la para de natureza média".
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. No caso, incabível o presente mandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Do que se depreende dos autos, o impetrante/paciente pretende a revisão dos atos que reconheceram 4 faltas graves em processos distintos, contra as quais a Defesa na origem se insurgiu interpondo agravos em execução também distintos.
+O pedido não comporta acolhimento.
+Na hipótese, o impetrante/paciente alega injustiça nas decisões que reconheceram as 4 (quatro) faltas graves, citando, claramente, que foram as dos meses de julho, setembro e dezembro (fl. 1), assim como, inclusive, alude à possibilidade de "unificação das faltas".
+Destarte, muito embora a Defensoria Pública tenha feito alusão que a presente impetração foi ajuizada referindo-se à última infração disciplinar, não é o que consta da petição inicial e irresignação do impetrante/paciente.
+Logo, caberá à defesa do paciente, se for o caso, impugnar os fundamentos de cada acórdão em separado, pois para cada ato coator deve ser impetrado um habeas corpus, sendo inviável a apreciação de mais de um ato coator em uma única impetração (v.g. HC n. 389631/SP, Rel. Min. Reynaldo Soares da Fonseca, DJe de 08/03/2017), ainda que para fins de economia processual ou de celeridade.
+Por outro lado, ainda que assim não fosse, é cediço que no habeas corpus, dada a possibilidade de impetração por qualquer pessoa, não é exigido que a petição inicial preencha requisitos pré-determinados ou esteja de acordo com o tecnicismo jurídico. Contudo, tal circunstância não impede o indeferimento do mandamus quando da leitura da exordial não é possível extrair a pretensão objetivada.
+No caso, é inviável a compreensão da controvérsia, bem como do pedido, nos termos postos na petição, ao que se conclui, desta forma, pela impossibilidade de constatação do possível constrangimento ilegal sofrido pelo paciente, considerando que a inicial não apresenta pedido adequado e não impugna qualquer decisão judicial ou acórdão, sendo genérica quanto às decisões das 4 (quatro) infrações disciplinares aludidas.
+Ora, firmou-se no âmbito desta eg. Corte a orientação segundo a qual constitui ônus do impetrante possibilitar o devido exame da controvérsia, por meio de inicial com mínima adequação, instruída com os documentos necessários ao devido exame da quaestio, sob pena de não conhecimento do mandamus.
+Neste sentido, os seguintes precedentes:
+"PROCESSUAL PENAL. HABEAS CORPUS. PETIÇÃO INICIAL ININTELIGÍVEL. INÉPCIA. IMPOSSIBILIDADE DE COMPREENSÃO. AUSÊNCIA DE PEDIDO.
+No habeas corpus, dado a possibilidade de impetração por qualquer pessoa, não é exigido que a petição inicial preencha requisitos pré-determinados ou esteja de acordo com o tecnicismo jurídico.
+Contudo, tal circunstância não impede o indeferimento do mandamus quando da leitura da exordial não é possível extrair qualquer raciocínio lógico ou concluir qual a pretensão objetivada com a impetração. (Precedentes do STJ).
+Habeas corpus não-conhecido." (HC 145.648/PE,Quinta Turma, de minha relatoria, DJe 14/06/2010)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO-CABIMENTO (RESSALVADO O ENTENDIMENTO PESSOAL DA RELATORA). TRÁFICO DE INFLUÊNCIA. ATIPICIDADE DA CONDUTA. REAVALIAÇÃO DOS ELEMENTOS DE AUTORIA E MATERIALIDADE. VIA ELEITA INADEQUADA. DELITO QUE, DE QUALQUER FORMA, CONSUMA-SE COM A MERA PRÁTICA DE SUAS ELEMENTARES. IMPOSSIBILIDADE DE SE ANALISAR PEDIDO E FUNDAMENTO ININTELIGÍVEIS. AUSÊNCIA DE PATENTE CONSTRANGIMENTO ILEGAL QUE PERMITA A CONCESSÃO DE ORDEM EX OFFICIO. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
+ ..
+5. Não se pode analisar fundamento ininteligível, cujo constrangimento ilegal não seja de possível compreensão e conclusão não corresponda com o pedido formulado na inicial.
+6. Ausência de constrangimento ilegal que imponha a concessão de ordem de ofício.
+7. Ordem de habeas corpus não conhecida." (HC 202.519/DF, Quinta Turma, Rel. Min. Laurita Vaz, DJe 03/02/2014)
+Ante o exposto, não conheço do habeas corpus.
+[NOME]
