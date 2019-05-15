@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por REVITA ENGENHARIA S.A contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, assim ementado:
+AGRAVO DE INSTRUMENTO AÇÃO DE RITO ORDINÁRIO PEDIDO DE TUTELA DE REMOÇÃO DE ILÍCITO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR PERDAS E DANOS CLÁUSULA 5 TERMO ADITIVO INEXISTÊNCIA TEORIA DOS ATOS PRÓPRIOS RECURSO CONHECIDO E PROVIDO.
+1. A questão posta está ligada à interpretação da cláusula 53 -que trata da retirada de materiais do imóvel e que prevê, mesmo após a compra e venda do referido imóvel, o direito de retirar material existente no bem em epígrafe, pelo prazo e quantidades a serem estabelecidos em aditivo contratual, cuja formalização se dará após estudos técnicos que serão realizados no imóvel.
+2. Não obstante tenha sido juntado, aos autos o laudo técnico de estudo do solo pela recorrida, verifico que não houve a confecção do termo aditivo que as partes se obrigaram a fazer, além disso, " o recorrente iniciou e prosseguiu, até determinação judicial em contrário, com a retirada de materiais no imóvel descrito na inicial.
+3. A conduta da agravada denuncia um comportamento contraditório, traindo a" chamada Teoria dos Atos Próprios, não podendo "se beneficiar de atos incoerentes e antagônicos.
+4. A agravada em permitir à retirada de materiais, sem a existência de termo aditivo, fez nascer a crença no agravante de que poderia fazê-lo, conforme a boa-fé objetiva que deve permear a interpretação dos contratos (arts. 113 e 422, ambos do Código Civil).
+5. Recurso conhecido e provido.
+É o relatório. Decido.
+Na espécie, incide, por analogia, o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, tendo em vista sua natureza precária e provisória, cuja reversão é possível a qualquer momento pela instância a quo.
+Nesse sentido: "A jurisprudência desta Corte é firme no sentido de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita a modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito"" (AgInt no AREsp n. 1.351.487/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 17/12/2018).
+Confira-se ainda o seguinte precedente: AgInt no AREsp n. 1.321.705/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
