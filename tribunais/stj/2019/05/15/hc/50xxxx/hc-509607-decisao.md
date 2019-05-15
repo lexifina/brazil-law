@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JEAN CARLOS DE JESUS RIBEIRO - preso cautelarmente por suposta infração aos arts. 33 e 35 da Lei n. 11.343/2006 - contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 0370007-43.2019.8.13.0000).
+Na presente impetração, a defesa alega, em síntese, não estarem presentes os requisitos autorizadores da medida constritiva cautelar previstos no art. 312 do CPP, asseverando que o paciente é mero usuário de drogas.
+Sublinha ser o paciente tecnicamente primário, detentor de bons antecedentes, além de possuir residência fixa e trabalho lícito.
+Defende que, no caso de eventual condenação, fará jus ao regime prisional mais brando, porquanto não é criminoso contumaz e nem integra organização criminosa.
+Diante disso, requer a revogação da prisão preventiva do paciente.
+É o relatório. Decido.
+O presente mandamus não merece ser conhecido, por instrução deficitária.
+O rito do habeas corpus, em razão da necessária celeridade, pressupõe a apresentação de prova pré-constituída do direito alegado, sob pena de não conhecimento da ordem.
+Diante disso, o impetrante deve demonstrar, de maneira inequívoca, por meio de documentos, a existência do constrangimento ilegal imposto ao paciente. Nesse sentido, confiram-se os precedentes desta Corte:
+ ..  4. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal, ônus do qual não se desincumbiu a defesa.  ..  (HC 355.769/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 04/08/2016, DJe 09/08/2016, grifo nosso)
+ ..  3. Não tendo sido juntado aos autos o decreto preventivo, fica inviável a comprovação da alegada ausência de fundamentos. 4. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto. 5. Agravo regimental desprovido. (AgRg no HC 359.225/SP, minha relatoria, QUINTA TURMA, julgado em 28/06/2016, DJe 01/08/2016, grifo nosso).
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. 1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Súmula n.º 182 desta Corte). 2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado. 3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso. 4. Agravo regimental desprovido (AgRg no RHC 48.939/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 23/4/2015).
+No particular, este habeas corpus, apesar de impetrado por advogado, não está instruído com a documentação necessária à compreensão da controvérsia e ao exame da plausibilidade do pedido.
+Com efeito, não foi trazido aos autos cópia do acórdão ora impugnado.
+Ausente a prova pré-constituída do direito alegado, o não conhecimento do mandamus é medida que se impõe.
+Ante o exposto, não conheço do mandamus.
+Publique-se. Intimem-se.
