@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por SEVERINO GOMES DA SILVA contra acórdão do Tribunal de Justiça do Estado de Pernambuco no julgamento do HC n. 0004491-75.2018.817.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 17/1/2016 por ter supostamente praticado o delito tipificado no art. 121, § 2º, inciso I, c/c art. 14, inciso II, por duas vezes, e art. 129, caput, ambos do Código Penal (homicídios qualificados tentados e lesão corporal). Referida custódia foi convertida em preventiva. Sobreveio sentença condenando o paciente à pena de 17 anos e 4 meses de reclusão em regime inicial fechado, vedado o direito de recorrer em liberdade.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO E LESÃO CORPORAL. CONDENAÇÃO PELO PLENÁRIO DO JÚRI. RÉU QUE JÁ ESTEVE PRESO DURANTE A INSTRUÇÃO PROCESSUAL. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTOS PARA RENOVAÇÃO DA PRISÃO CAUTELAR. ORDEM DENEGADA.
+1. A prisão preventiva demanda uma série de requisitos legais constantes dos arts. 311 a 316 do CPP. Em síntese, para que haja o decreto preventivo faz-se necessária a demonstração dos requisitos de prova da materialidade e indícios de autoria, o que, no presente caso, foram analisados pelo plenário do júri e sopesados pelo Juízo de primeiro grau.
+2. Inocorrência de constrangimento ilegal.
+3. Ordem denegada (fl. 331).
+No presente recurso, alega que a custódia cautelar decorre de flagrante forjado; que inexistem indícios suficientes de autoria delitiva e que as provas carreadas aos autos da ação penal são falsas.
+Ressalta as circunstâncias pessoais favoráveis do recorrente e aponta suficiência, no caso concreto, da aplicação de medidas cautelares alternativas ao cárcere. Assevera ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva, ainda que mediante imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+Inicialmente, convém ressaltar que a jurisprudência do Superior Tribunal de Justiça é remansosa no sentido de que a homologação da prisão em flagrante e sua conversão em preventiva tornam superado o argumento de irregularidades na prisão em flagrante, diante da produção de novo título a justificar a segregação. Nesse sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O NARCOTRÁFICO. RECEPTAÇÃO. EXCESSO DE PRAZO NA CONVERSÃO DO FLAGRANTE. AVENTADA NULIDADE DA SEGREGAÇÃO. TESE SUPERADA. SUPERVENIÊNCIA DE DECRETO DE PRISÃO PREVENTIVA. PRETENDIDA REVOGAÇÃO DA CUSTÓDIA ANTECIPADA. CONSIDERÁVEL QUANTIDADE E VARIEDADE DOS ESTUPEFACIENTES APREENDIDOS. NATUREZA ALTAMENTE LESIVA DE UMA DAS SUBSTÂNCIAS. GRAVIDADE. NECESSIDADE DE ACAUTELAMENTO DA ORDEM PÚBLICA. SEGREGAÇÃO JUSTIFICADA E NECESSÁRIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. COAÇÃO ILEGAL NÃO DEMONSTRADA.
+1. A tese da ilegalidade da prisão em flagrante do recorrente encontra-se superada, tendo em vista a superveniência de novo título a embasar a sua custódia cautelar, qual seja, o decreto de prisão preventiva.
+ ..
+5. Recurso improvido (RHC 37.891/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 5/2/2014).
+Noutro ponto, é certo que as questões relativas à nulidade das provas e ausência de indícios suficiente de autoria não foram submetidas à análise do Tribunal de origem. Dessa forma, inexistindo manifestação sobre os temas no aresto ora em análise, é inviável a análise direta por esta Corte Superior, sob pena de se incidir em indevida supressão de instância.
+Nesse sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. MOTIVO FÚTIL E RECURSO QUE IMPOSSIBILITOU A DEFESA DO OFENDIDO. DECRETO DE PRISÃO PREVENTIVA. POSTERIOR REVOGAÇÃO. SUPERVENIÊNCIA DE JULGAMENTO PELO TRIBUNAL DO JÚRI. CONSTRIÇÃO CAUTELAR DECRETADA NA SENTENÇA. PROIBIÇÃO DO APELO EM LIBERDADE. ALEGAÇÕES DE INSUFICIÊNCIA DE PROVAS E NULIDADE POR AUSÊNCIA DE INTIMAÇÃO PESSOAL DO DEFENSOR DATIVO. SUPRESSÃO DE INSTÂNCIA. CIRCUNSTÂNCIAS DO CRIME. GRAVIDADE EXCESSIVA. PERICULOSIDADE DO RECORRENTE. GARANTIA DA ORDEM PÚBLICA. FUGA DO DISTRITO DA CULPA. APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. CUSTÓDIA JUSTIFICADA E NECESSÁRIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO PARCIALMENTE CONHECIDO E, NA EXTENSÃO, IMPROVIDO.
+1. As alegações de insuficiência de provas de autoria e de existência de nulidade por ausência de intimação pessoal do defensor dativo da pauta de julgamento do habeas corpus na origem não podem ser analisadas nesta Corte, sob pena de incidir-se em indevida supressão de instância.
+2. Embora a preventiva tenha sido revogada em momento anterior, permitindo ao réu que por algum período respondesse ao feito em liberdade, não há ilegalidade na ordem de prisão decretada na sentença, negando-se o direito de o condenado recorrer em liberdade, quando demonstrado, com base em fatores concretos supervenientes, que a segregação se mostra necessária para acautelar o meio social.
+3. Caso em que o recorrente foi condenado ao cumprimento da pena de 12 (doze) anos e 6 (seis) meses de reclusão, pela prática de homicídio duplamente qualificado porque, motivado por desentendimento ocorrido em uma partida de sinuca e por ciúmes de sua mulher, atacou a vítima violentamente, desferindo golpes de madeira até levá-la à morte.
+4. Ausente constrangimento ilegal quando a custódia cautelar está devidamente justificada na garantia da ordem pública, em razão da gravidade efetiva do delito praticado e da periculosidade social dos envolvidos, bem demonstradas pelas circunstâncias em que ocorridos os fatos criminosos e pelos motivos que em tese os determinaram.
+5. A fuga do distrito da culpa, comprovadamente demonstrada nos autos, é motivo que reforça a necessidade de manutenção da custódia preventiva, também como forma de garantir aplicação da lei penal.
+6. Condições pessoais favoráveis não têm o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a necessidade da custódia, como ocorre in casu.
+7. Recurso parcialmente conhecido e, na extensão, improvido (RHC 94.003/GO, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/5/2018, DJe 28/5/2018).
+Quanto à manutenção da prisão preventiva, vê-se que os motivos ensejadores da custódia foram apreciados por esta colenda Corte Superior por ocasião do julgamento do RHC 79.845/PE, no qual foi considerada idônea a fundamentação adotada para justificar a imposição da medida extrema.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento do recurso nesse ponto. No mesmo sentido:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. REITERAÇÃO DE PEDIDO FORMULADO NO RHC N. 42.510/RJ.
+MANIFESTAÇÃO DO COLEGIADO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O presente recurso é mera reiteração do pedido já formulado e decidido, nos autos do RHC n. 42.510/RJ, pela col. Quinta Turma.
+II - Observa-se do termo de recebimento e autuação que ambos os processos possuem o mesmo número de origem, além de aduzirem os mesmos argumentos e formularem idênticos pedidos.
+Agravo regimental desprovido (AgRg no RHC 42.638/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/12/2014).
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente recurso ordinário em habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se.
