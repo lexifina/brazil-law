@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo apresentado por LPS BRASILIA- CONSULTORIA DE IMOVEIS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas a e c, da CF/1988, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado:
+EMBARGOS DE DECLARAÇÃO. DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. ILEGITIMIDADE PASSIVA. MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO. OMISSÃO. INEXISTÊNCIA.REDISCUSSÃO DE MÉRITO. IMPOSSIBILIDADE. EMBARGOS CONHECIDOS E NÃO PROVIDOS.
+Quanto à controvérsia, pela alínea a, alega violação dos arts. 265 e 403 do CC, no que concerne à ilegitimidade passiva da recorrente, trazendo os seguintes argumentos:
+O v. Acórdão manteve a condenação solidária estabelecida na v. Sentença, a qual determinou às empresas Requeridas a emissão de carta de quitação, a baixa da hipoteca e o pagamento de indenização por danos morais, referente a hipotética quitação do contrato de promessa de compra e venda de bem imóvel pela compradora (fl. 490).
+Há uma congruência lógica entre a ilegitimidade da parte pela ausência da titularidade na relação jurídica de direito material e a impossibilidade jurídica do pedido. A LPS Brasília - por não possuir a titularidade alguma na relação jurídica de direito material - encontra-se em situação de grave injustiça, estando compelida a cumprir obrigação impossível por força de Decisão Judicial, pois não tem legitimidade para fornecer carta de quitação, tampouco para baixar a hipoteca, ambas obrigações personalíssimas e de titularidade exclusiva de terceiros, os quais a LPS não exerce qualquer ingerência (fl. 491).
+Quanto à segunda controvérsia, pela alínea "c", a parte não traz argumento pertinente à tese.
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula 211/STJ, visto que é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Quanto à segunda controvérsia, na espécie, não foi comprovada a divergência jurisprudencial, uma vez que não cumpridos os requisitos legais do art. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nesse sentido, os seguintes julgados: AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018; AgInt no REsp 1.696.707/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 12/3/2018; e AgRg no REsp 1.683.470/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 31/10/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
