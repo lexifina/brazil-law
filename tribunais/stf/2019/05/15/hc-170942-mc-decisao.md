@@ -1,0 +1,23 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Segunda Vara Federal da Seção Judiciária do Pará, Subseção de Marabá/PA, no processo nº 6834-63.2015.4.01.3901, converteu em preventiva a prisão em flagrante do paciente, ocorrida no dia 20 de dezembro de 2015, ante o suposto cometimento das infrações previstas nos artigos 33, combinado com o 40, incisos I, V e VII (tráfico de entorpecentes com causas de aumento alusivas à internacionalidade e interestadualidade e por financiar a prática do delito), da Lei nº 11.343/2006 e 333 (corrupção ativa) do Código Penal. Destacou haver prova da materialidade e indícios de autoria, reportando-se à quantidade de substâncias apreendidas – 46 tabletes de cocaína –, à confissão do paciente e aos depoimentos das testemunhas. Frisou indispensável a custódia para garantir a ordem pública, a instrução criminal e a aplicação de lei penal.
+    Condenou-o, no processo-crime nº 000593-39.2016.4.01.3901, a 8 anos e 1 mês de reclusão, em regime inicial de cumprimento fechado, e ao pagamento de 116 dias-multa, em virtude do cometimento dos delitos versados nos artigos 33, cabeça, da Lei de Drogas e 333 do Código Penal.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 497.504/PA. O Relator indeferiu a liminar.
+    Os impetrantes dizem ser o caso de superação do verbete nº 691 da Súmula do Supremo. Sustentam a ausência de fundamentação do ato que implicou a negativa do direito de recorrer em liberdade. Ressaltam ofensa ao artigo 387, § 1º, do Código de Processo Penal. Asseveram o excesso de prazo da custódia, a perdurar por mais de 3 anos, sem que analisada a apelação interposta pela defesa.
+    Requerem, no campo precário e efêmero, a revogação da preventiva, com expedição de alvará de soltura. No mérito, buscam a confirmação da providência.
+    Consulta ao sítio do Tribunal Regional Federal da 1ª Região, em 14 de maio de 2019, revelou estar pendente de exame a apelação da defesa.
+    A fase é apreciação da medida de urgência.
+    2. A prisão em flagrante e a gradação do tráfico de entorpecentes, considerada a quantidade de substância encontrada – 46 tabletes de cocaína –, demonstra estar em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a custódia mostrou-se viável, ante a periculosidade, ao menos sinalizada. O Juízo, na sentença, deixou de manifestar-se acerca do direito do paciente de recorrer solto, em violação do princípio constitucional alusivo à motivação das decisões judiciais – artigo 93, inciso IX, da Constituição Federal.
+    A superveniência de sentença penal condenatória não afasta a natureza preventiva da custódia. O artigo 283, cabeça, do Código de Processo Penal, ao versar os títulos prisionais provisórios, contempla o flagrante, a temporária e a preventiva, revelando que as prisões decorrentes de pronúncia e de sentença penal condenatória recorrível integram a última. O artigo 387, § 1º, denomina, expressamente, preventiva a custódia oriunda de condenação não transitada em julgado.
+    O paciente está preso, sem culpa formada, desde 20 de dezembro de 2015, ou seja, há 3 anos, 4 meses e 24 dias. Surge o excesso de prazo. A preventiva deve ser balizada no tempo. Privar da liberdade, por prazo desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo – ante a apelação protocolada pela defesa – viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do pronunciamento por meio do qual implementada, em execução provisória da sanção, ignorando-se garantia constitucional.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre preso por motivo diverso da custódia preventiva formalizada no processo nº 6834-63.2015.4.01.3901, da Segunda Vara Federal da Seção Judiciária do Pará, Subseção de Marabá/PA. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar possível transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. O curso deste habeas não prejudica o de nº 497.504/PA, em tramitação no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Antonio Saldanha Palheiro.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 15 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
