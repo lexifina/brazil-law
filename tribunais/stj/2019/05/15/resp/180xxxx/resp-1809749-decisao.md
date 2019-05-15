@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com amparo no art. 105, III, a, da Constituição Federal, contra aresto do Tribunal de Justiça local que deu provimento ao agravo em execução defensivo para conceder indulto à recorrida, nos termos do art. 1º, I e II, a e h, do Decreto n. 9.370/2018.
+Sustenta o recorrente que o Tribunal de origem contrariou os termos do decreto presidencial, porquanto, a despeito da ausência de previsão no referido instrumento normativo, estendeu seus efeitos para alcançar condenada por crime de tráfico de drogas que se encontrava em liberdade, cumprindo pena restritiva de direito consistente na prestação de serviços à comunidade.
+Assevera que, de acordo com o texto do Decreto n. 9.370/2018, a vontade do Presidente da República se limitou à concessão de indulto às condenadas presas, ou seja, cumprindo pena privativa de liberdade, sendo descabida, portanto, a extensão do benefício para aquelas submetidas a penas alternativas.
+Requer, desse modo, o provimento do inconformismo para que seja revogada a concessão do indulto à recorrida (e-STJ fls. 71-81).
+Contrarrazoada a insurgência (e-STJ fls. 88-92), após o juízo prévio de admissibilidade (e-STJ fls. 94-98), os autos ascenderam ao Superior Tribunal de Justiça.
+O Ministério Público Federal, na condição de custos legis, manifestou-se pelo provimento do recurso (e-STJ fl. 137).
+É o relatório.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+Acerca do tema em discussão, o voto condutor do acórdão exarado pelo Tribunal de origem orientou-se da seguinte maneira (e-STJ fls. 62-63):
+Na espécie, no que tange aos requisitos ao Decreto n. 9.370/2018, verifico que a agravante se encaixa no que dispõe o artigo 1º, inciso I e II, alíneas "a" e "h da norma presidencial.
+Isso porque, de acordo com os dados do Processo de Execução Criminal n. 149202-0, a agravante implementou, de forma cumulativa, ate o dia 13 de maio de 2018, as condições exigidas a concessão da benesse, visto que, vem cumprindo sua pena sem notícia de prática de infrações disciplinares, bem como possui um filho com menos de doze anos de idade (fl. 06). Ainda, foi condenada à pena de 02 anos e 11 meses de reclusão - ou seja, não superior a oito anos, como necessário -, além de a condenação ser por crime sem violência ou grave ameaça à pessoa, já tendo cumprido mais de um quarto da reprimenda.
+Ainda, no que se refere ao motivo pelo qual o pedido defensivo foi indeferido, o decreto especial, de 12 de abril de 2017, não trouxe vedação expressa à possibilidade jurídica de indulto para pena restritiva de direitos, como fez, a título cie exemplificação, o Decreto n. 8.940/2016, não cabendo, pois, interpretação em prejuízo da reeducanda.
+Ademais, a expressão "mulheres presas" contida no artigo 1º do referido decreto deve ser interpretada de maneira abrangente para compreender também as mulheres condenadas.
+No caso, deve incidir os princípios da proporcionalidade e da dignidade humana, uma vez que diante de casos mais graves o decreto trouxe a possibilidade de concessão do indulto, muito maiores razões hão para que ele incida igualmente sobre aquelas pessoas condenadas por penas privativas de liberdade substituídas por restritivas de direitos.
+Nesse sentido, já julgou esta Colenda 3a Câmara Criminal:
+ ..
+Pelo exposto, voto por dar provimento ao agravo defensivo, para o fim de conceder ó indulto à apenada, nos termos do artigo 1º, inciso I e II, alíneas "a" e "h do Decreto 9.370/2018. (Original sem destaques)
+Como visto, segundo os fundamentos do acórdão recorrido, o Decreto n. 9.370/2018 não teria consignado a proibição do indulto a condenadas submetidas ao cumprimento de penas restritivas de direitos.
+Contudo, a leitura do dispositivo utilizado para amparar a concessão do benefício penal permite concluir em sentido diverso.
+Com efeito, assim como exposto no recurso ministerial, o decreto presidencial transmite a certeza de que o indulto especial do Dia das Mães concedido no ano de 2018 alcançou apenas mulheres presas, isto é, que naquela oportunidade estivessem sob privação de liberdade.
+É o que se extrai do art. 1º, I e II, a e h, do Decreto n. 9.370/2018:
+Art. 1º O indulto especial será concedido às mulheres presas, nacionais ou estrangeiras, que, até o dia 13 de maio de 2018, atendam, de forma cumulativa, aos seguintes requisitos:
+I - não tenham sido punidas com a prática de falta grave, nos últimos doze meses; e
+II - se enquadrem, no mínimo, em uma das seguintes hipóteses:
+a) mães condenadas à pena privativa de liberdade por crime cometido sem violência ou grave ameaça, que possuam filhos de até doze anos de idade ou de qualquer idade se pessoa com deficiência, nos termos da Lei nº 13.146, de 6 de julho de 2015 - Estatuto da Pessoa com Deficiência , que comprovadamente necessite de seus cuidados, desde que cumprido um sexto da pena;
+ ..
+h) condenadas à pena privativa de liberdade não superior a oito anos por crime cometido sem violência ou grave ameaça, desde que cumprido um quarto da pena, se não reincidentes; (Destaques acrescidos)
+Portanto, constata-se que, para conseguir enquadrar a recorrida nas hipóteses elencadas pelo decreto presidencial, o Tribunal a quo desenvolveu interpretação ampliativa da norma, contrariando, assim, a jurisprudência desta Corte Superior segundo a qual a aplicação do benefício de indulto deve seguir exatamente os critérios estabelecidos pelo Presidência da República no respectivo ato de concessão, sob pena de usurpação da competência privativa disposta no art. 84, XII, da Constituição e, ainda, ofensa ao princípio da separação entre os Poderes.
+Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. DECRETO PRESIDENCIAL N. 8.940/2016. INDULTO. RECONVERSÃO DAS PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DE LIBERDADE PARA CONCESSÃO DO BENEFÍCIO. INVIABILIDADE. ART.181 DA LEP E ART. 44, § 4º, DO CP. NÃO CONFIGURAÇÃO. AUSÊNCIA DE PREVISÃO LEGAL PARA A RECONVERSÃO. INVIABILIDADE TÃO-SOMENTE PARA A CONCESSÃO DE INDULTO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimento orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Por absoluta disposição literal do art. 1º do Decreto n. 8.940/2016, não é possível a concessão de indulto aos condenados à pena privativa de liberdade que tenha sido substituída por penas restritivas de direitos.
+III - O Presidente da República, no exercício do seu poder discricionário conferido constitucionalmente, optou por não contemplar os condenados à pena privativa de liberdade substituída por restritivas de direitos com a concessão do indulto no Decreto n. 8.940/2016, de forma que não há que se atribuir interpretação ampliativa.
+IV - A reconversão da pena restritiva de direitos em pena privativa de liberdade, unicamente para fins de concessão do indulto, não encontra respaldo no ordenamento jurídico pátrio.
+V - Isso porque, a reconversão das penas restritivas de direitos em privativa de liberdade somente deve ocorrer nas hipóteses previstas no art. 181 da LEP e no art. 44, § 4º, do CP, dentre as quais não se inclui a concessão de indulto.
+Habeas corpus não conhecido.
+(HC 414.181/DF, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/11/2017, DJe 06/12/2017)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO DE PENA RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. VEDAÇÃO CONTIDA NO ART. 1º DO DECRETO N. 8.940/16. AGRAVO DESPROVIDO.
+1. O indulto de pena restritiva de direitos é vedado pelo art. 1º do Decreto n. 8.940/16, não cabendo ao Poder Judiciário realizar interpretação ampliativa. Precedente: HC 414.181/DF, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 06/12/2017. Agravo desprovido.
+(AgRg no HC 417.628/DF, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 06/02/2018, DJe 19/02/2018)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. INDULTO. DECRETO N. 8.940/2016. PENAS RESTRITIVAS DE DIREITOS. VEDAÇÃO EXPRESSA. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo de recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. Para a concessão de indulto devem ser observados, tão somente, os requisitos elencados no decreto presidencial respectivo, não competindo ao juiz criar novas regras ou estabelecer outras condições além daquelas já previstas na referida norma. Tal proceder ofenderia o princípio da legalidade, por se tratar de competência exclusivamente do Presidente da República a tarefa de estabelecer os limites para a concessão das benesses.
+3. Dispõe o art. 1º do Decreto n. 8.940, de 22 de dezembro de 2016: "Art. 1º O indulto será concedido às pessoas, nacionais e estrangeiras condenadas à pena privativa de liberdade, não substituída por restritiva de direitos ou multa, que tenham até 25 de dezembro de 2016 cumprido as condições previstas neste decreto".
+4. Portanto, o Presidente da República optou por não contemplar os condenados à pena privativa de liberdade substituída por restritivas de direitos com a concessão do indulto, de forma que não há que se atribuir interpretação ampliativa.
+5. Nesse diapasão, consolidou-se nesta Corte Superior de Justiça entendimento no sentido de que a reconversão das penas restritivas de direitos em sanção privativa de liberdade, unicamente para fins de concessão do indulto, não encontra respaldo no ordenamento jurídico pátrio.
+6. Inexistência, portanto, de constrangimento ilegal, a justificar a concessão da ordem de ofício.
+7. Habeas corpus não conhecido.
+(HC 422.303/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/12/2017, DJe 12/12/2017)
+E, a contrario sensu:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDULTO. DECRETO PRESIDENCIAL 8.380/14. CRIME DE TRÁFICO DE DROGAS PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVA DE DIREITOS. POSSIBILIDADE. TRÁFICO PRIVILEGIADO. AFASTAMENTO DO CARÁTER HEDIONDO PELO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. Nos termos da jurisprudência deste Superior Tribunal de Justiça, a interpretação extensiva das restrições contidas no decreto concessivo de comutação de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, preenchidos os requisitos estabelecidos na norma legal para a concessão da comutação, o benefício deve ser concedido por meio de sentença - a qual possui natureza meramente declaratória -, sob pena de ofensa ao princípio da legalidade. Precedentes.
+2. O Plenário da Supremo Tribunal Federal, ao julgar o HC n. 118.533/MS, adotou novo posicionamento no sentido de que o tráfico de entorpecentes privilegiado não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos.
+3. Agravo regimental improvido.
+(AgInt no AREsp 861.682/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/12/2016, DJe 16/12/2016)
+Dessarte, estando o acórdão recorrido dissonante da jurisprudência desta Corte Superior, merece acolhimento o inconformismo do recorrente, nos termos da Súmula n. 568/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial para revogar o indulto concedido à recorrida nestes autos.
+
+Publique-se. Intimem-se.
