@@ -1,0 +1,37 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Ministério Público do Estado de Goiás contra decisão do Tribunal de Justiça local que não admitiu o recurso especial com amparo na Súmula 7/STJ (e-STJ, fls. 326-327).
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com base na alínea "a" do permissivo constitucional em oposição a acórdão assim ementado (e-STJ, fl. 257):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA - CONTRATAÇÃO DE SERVIÇOS ADVOCATÍCIOS. LICITAÇÃO. INEXIGIBILIDADE. INVIABILIDADE DE COMPETIÇÃO. SENTENÇA REFORMADA.
+1. A despeito de imperar a necessidade de realização de procedimento licitatório pelos entes públicos, a Lei de Licitações, prevê, excepcionalmente em prestígio à atuação discricionária do administrador, hipóteses de inexigibilidade elencadas em seu art. 25, nas quais há permissão para contratação direta, para alcançar o objetivo desejado pela Administração Pública. 2. A natureza intelectual e singular dos serviços de consultoria e assessoria jurídica bem como, a relação de confiança entre o contratante e contratado legitimam a inexigibilidade de licitação para contratação de serviços jurídicos. Precedentes dos Tribunais Superiores e deste Sodalício.
+3. A inviabilidade de competição encontra fundamento no artigo 34, VI, do Estatuto referido estatuto da Ordem dos Advogados do Brasil (Lei nº 8.906/1994) e no artigo 33 do Código de Ética e Disciplina da categoria, eis que não permitem aos advogados a disputa pela captação de clientes, sendo tal atitude considerada infração disciplinar. 4. APELO CONHECIDO E PROVIDO. SENTENÇA REFORMADA.
+Sem embargos de declaração.
+Alega a parte insurgente, nas razões do especial (e-STJ, fls. 266-277), violação do disposto nos arts. 13 e 25 da Lei n. 8.666/1993 e 34, VI, da Lei n. 8.906/1994, pois é ilegal a contratação direta, sem a realização de licitação, de serviços ordinários e rotineiros de assessoria jurídica, em razão da ausência de demonstração da singularidade ou notória especialização exigidas por lei.
+Argumenta que "o TJGO não demonstrou a singularidade dos serviços contratados pelo Município de Alto Horizonte-GO ou a notória especialização dos respectivos profissionais que justifiquem o afastamento do tratamento isonômico" (e-STJ, fl. 273).
+Contrarrazões às e-STJ, fls. 287-303.
+É o relatório.
+A irresignação merece prosperar.
+Com efeito, o acórdão de origem destoa da jurisprudência do STJ que se firmou no sentido de que a contratação de serviços advocatícios pelos entes públicos submete-se, via de regra, ao processo licitatório, salvo comprovação das exceções legais, ou seja, quando for o caso de serviço de natureza singular a ser realizado por profissional com notória especialização.
+A título ilustrativo, trago os seguintes precedentes sobre o tema:
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATAÇÃO DE ADVOGADO PARTICULAR SEM PROCEDIMENTO LICITATÓRIO. ATOS ÍMPROBOS COMPROVADOS NA ORIGEM. REQUISITOS PARA A DISPENSA DE LICITAÇÃO. SÚMULA 7/STJ.
+1. "A notória especialização jurídica é aquela de caráter absolutamente extraordinário e incontestável, que fala por si. É posição excepcional, que põe o profissional no ápice de sua carreira e do reconhecimento, espontâneo, no mundo do Direito, mesmo que regional, seja pela longa e profunda dedicação a um tema, seja pela publicação de obras e exercício da atividade docente em instituições de prestígio. A especialidade do serviço técnico está associada à singularidade, envolvendo serviço específico que reclame conhecimento peculiar do seu executor e ausência de outros profissionais capacitados no mercado, daí decorrendo a inviabilidade da competição." (REsp 448.442/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/09/2010).
+2. Na hipótese dos autos, rever o entendimento da origem de que não foram demonstrados os requisitos necessário à regular dispensa do procedimento licitatório demandaria o reexame de provas, o que é vedado nessa Corte de Justiça, ante a incidência da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.026.225/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 5/6/2018, DJe 8/6/2018 - grifos acrescidos)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. LICITAÇÃO. INEXIGIBILIDADE. CONTRATAÇÃO DE ADVOGADO POR MUNICÍPIO. NOTÓRIA ESPECIALIDADE. SINGULARIDADE DO SERVIÇO. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DO FEITO. REEXAME. SÚMULA 7/STJ.
+1. A contratação direta de advogado pela Administração Pública é condicionada ao preenchimento dos requisitos de inexigibilidade de licitação previstos na Lei n. 8.666/1990, quais sejam: a singularidade do objeto contratado e a notória especialidade do profissional escolhido.
+2. Tendo a Corte de origem concluído pela singularidade do serviço prestado e pela notória especialização do contratado, impossível afastar tal conclusão sem incorrer na reanálise do conteúdo probatório do caso em questão. Incidência da Súmula 7/STJ.
+Precedentes: AgInt no AgRg no REsp 1.330.842/MG, Rel. p/ Acórdão Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 19/12/2017; AgInt no REsp 1.459.772/MG, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 9/3/2018; AgInt no REsp 1.335.762/PB, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 5/2/2018.
+3. Agravo interno não provido.
+(AgInt no REsp 1.600.264/GO, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 11/9/2018, DJe 17/9/2018 - grifos acrescidos ).
+ADMINISTRATIVO. IMPROBIDADE. INEXIGIBILIDADE DE LICITAÇÃO. CONTRATAÇÃO DE ESCRITÓRIO DE ADVOCACIA. EXCEPCIONALIDADE NÃO CONFIGURADA. SÚMULA 7 DO STJ. APLICAÇÃO.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Não há falar em afronta ao art. 557 do CPC/1973, em virtude de o recurso ter sido decidido monocraticamente pelo relator, quando, em sede de agravo interno, este é reapreciado pelo órgão colegiado do Tribunal. Precedentes.
+3. A jurisprudência de ambas as Turmas que compõem a Seção de Direito Público deste Tribunal Superior firmou-se no sentido de serem imprescindíveis à contratação de advogado com inexigibilidade de licitação os requisitos da singularidade do serviço e da inviabilidade da competição.
+4. Hipótese em que a Corte de origem não vislumbrou tais pressupostos a autorizar a contratação dos serviços sem o respectivo procedimento licitatório, sendo certo que, na hipótese, o acolhimento da pretensão recursal para modificar tal entendimento implicaria necessariamente o reexame do conjunto fático-probatório, impossível na via estreita do recurso especial, a teor do disposto na Súmula 7 do STJ.
+5. Exame do dissídio jurisprudencial prejudicado, à vista da aplicação da Súmula 7 desta Corte.
+6. Agravo interno desprovido.
+(AgInt no REsp 1.335.762/PB, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 30/11/2017, DJe 5/2/2018 - grifos acrescidos).
+Ante o exposto, com fulcro na Súmula 568/STJ e no art. 932, V, do CPC/2015, c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de restabelecer a sentença.
+Publique-se. Intimem-se.
