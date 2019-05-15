@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - RUA DA GLÓRIA, assim ementado:
+APELAÇÃO CRIMES CONTRA A ORDEM TRIBUTÁRIA RECURSO DO RÉU ABSOLVIÇÃO POR FRAGILIDADE PROBATÓRIA IMPOSSIBILIDADE AUTORIA C MATERIALIDADE DEMONSTRADAS ATENUAÇÃO DAS PENAS IMPOSSIBILIDADE SANÇÃO PENAL SEM IRREGULARIDADES RECURSO DO MINISTÉRIO PÚBLICO CONDENAÇÃO DOS DEMAIS RÉUS NOS TERMOS DA DENÚNCIA IMPOSSIBILIDADE FRAGILIDADE PROBATÓRIA NÃO PROVIMENTO AOS RECURSOS
+Quanto à controvérsia, alega violação ao art. 12, inciso I, da Lei n. 8.137/1990, no que concerne ao afastamento do aumento de pena decorrente da aplicação do referido dispositivo legal, trazendo os seguintes argumentos:
+No entanto, tal acórdão merece reparo porque vai de encontro à decisões proferidas há tempos por outro tribunal. A divergência jurisprudencial é manifesta. Daí este recurso especial (fls.8169).
+2.1 Primeiro, porque o valor de R 7.260.335,47 supostamente sonegado, apontado na denúncia, diz respeito aos tributos, acrescidos de juros e multa. E para a análise relativa ao aumento da pena há de se considerar só o valor do tributo que, no caso em tela, é de mais ou menos de 60% daquele, chegando a R$ 4.129.528,26 (cf. fls. 73) (fls.8170).
+2.2 Segundo e mais importante, porque, ainda que considerados os R$ 7.260.335,47, tal valor não é suficiente para embasar o aumento da pena. (fls.8170).
+A despeito da subjetividade da matéria, da manifesta relatividade em se afirmar qual valor pode ser considerado grande sonegação tributária ou não, o TRF da 4a Região ascendeu uma luz no fim do túnel que tem orientado boa parte das decisões sobre o assunto (fls.8170).
+Para ele, só pode ser considerado "alto valor" sonegado capaz de embasar o aumento de pena previsto no art. 12, I, da Lei n. 8.137/90, aquele superior a R$ 10.000.000,00. O acórdão recorrido, contudo, ignorou isso e manteve o aumento da pena do recorrente por sonegação em valor muito abaixo daquele parâmetro. O conflito é manifesto  ..  (fls. 8169/8170).
+Para justificar a sua alegação, trouxe como acórdão paradigma a Ap. Crim. 2002.70.04.007988-0, oriunda do TRF-4, Relator. Des. Paulo Afonso Brum Vaz, Dje de 12/8/2010 (fls.8171).
+É o relatório. Decido.
+Na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que inexistente a necessária identidade jurídica e/ou similitude fática entre o acórdão recorrido e o(s) paradigma(s) indicado(s).
+Nesse sentido, o STJ fixou que "o conhecimento da divergência jurisprudencial reclama a existência de similitude fático-jurídica entre o acórdão recorrido e os paradigmas submetidos a confronto" (EDcl no Resp n. 1.254.636/ES, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 23/4/2015).
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp n. 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; e AgRg no REsp n. 1.500.980/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/3/2015).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
