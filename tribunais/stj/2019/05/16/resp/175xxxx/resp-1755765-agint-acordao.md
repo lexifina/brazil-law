@@ -1,0 +1,60 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. EMBARGOS À EXECUÇÃO. FALECIMENTO DO AUTOR NO CURSO DO PROCESSO DE CONHECIMENTO. HABILITAÇÃO DOS SUCESSORES NO PROCESSO DE EXECUÇÃO. POSSIBILIDADE.
+1. Não se configurou a ofensa ao art. 1.022 do Novo Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. No julgamento do AgRg na ExeMS 115/DF, da relatoria do Ministro Luiz Fux, a Primeira Seção assentou que a morte do autor da ação mandamental, em data anterior ao término do processo de conhecimento, conduz à habilitação dos seus herdeiros na fase de execução, e não à extinção do processo satisfativo.
+3. No caso dos autos, não se trata de sucessão de partes no Mandado de Segurança, mas de mera habilitação dos herdeiros na fase de execução mandamental, como consignou o Tribunal de origem.
+4. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria (Presidente) e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pelo Estado do Amazonas contra decisão de minha lavra, assim ementada (e-STJ fls. 424-426):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. ADICIONAL POR TEMPO DE SERVIÇO. MANDADO DE SEGURANÇA. FALECIMENTO DO AUTOR NO CURSO DO PROCESSO DE CONHECIMENTO. HABILITAÇÃO DOS SUCESSORES NO PROCESSO DE EXECUÇÃO. POSSIBILIDADE. RECURSO ESPECIAL NÃO PROVIDO.
+O agravante pugna inicialmente pelo retorno dos autos ao Tribunal de origem sustentando que houve sim violação do artigo 1.022 do CPC/2015, pois o acórdão foi omisso quanto aos pontos suscitados nos embargos de declaração.
+No mérito, reitera os argumentos do recurso especial no sentido de, "em que pese haver posicionamento contrário do STJ, não há como negar que a mais alta Corte de Justiça Brasileira tem posicionamento francamente divergente. Tal fato conduz, no mínimo, a uma necessidade de rediscussão do tema no âmbito desta E. Corte Federal" (e-STJ fl. 437).
+Transcorreu in albis o prazo para impugnação (certidão de e-STJ fl. 444).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. EMBARGOS À EXECUÇÃO. FALECIMENTO DO AUTOR NO CURSO DO PROCESSO DE CONHECIMENTO. HABILITAÇÃO DOS SUCESSORES NO PROCESSO DE EXECUÇÃO. POSSIBILIDADE.
+1. Não se configurou a ofensa ao art. 1.022 do Novo Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. No julgamento do AgRg na ExeMS 115/DF, da relatoria do Ministro Luiz Fux, a Primeira Seção assentou que a morte do autor da ação mandamental, em data anterior ao término do processo de conhecimento, conduz à habilitação dos seus herdeiros na fase de execução, e não à extinção do processo satisfativo.
+3. No caso dos autos, não se trata de sucessão de partes no Mandado de Segurança, mas de mera habilitação dos herdeiros na fase de execução mandamental, como consignou o Tribunal de origem.
+4. Agravo interno não provido.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O recurso não merece prosperar.
+Na origem, trata-se de execução de acórdão proferido em Mandado de Segurança impetrado por Policial Civil estadual, que concedeu a ordem para assegurar a atualização do adicional por tempo de serviço - quinquenio - na proporção de 20%.
+No recurso especial, o recorrente alega, preliminarmente, violação do art. 1.022, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes para o deslinde da controvérsia.
+No mérito, sustenta ofensa ao art. 485, IX, do Novo Código de Processo Civil, sob o argumento de que "como não havia ocorrido o trânsito em julgado à época da demonstração do falecimento do impetrante, deve-se ver reformada a decisão anteriormente expedida no sentido de ver-se julgada a ação sem resolução do mérito, tendo em vista o Mandado de Segurança ser dotado de efeitos personalíssimos e com o falecimento do autor, perde-se então um dos pressupostos das condições da ação" (e-STJ fl. 401).
+Da alegada violação do art. 1.022 do CPC/2015
+O recorrente pugna pela devolução dos autos à origem, argumentando que o acórdão recorrido, não obstante a oposição de embargos de declaração, foi omisso.
+Ocorre que o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Consoante jurisprudência do STJ, não há falar em violação do art. 1.022 do CPC/2015 quando o acórdão recorrido adota fundamentação suficiente para dirimir a controvérsia, não sendo necessária a manifestação expressa sobre todos os argumentos apresentados pelos demandantes.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSÃO. AUSÊNCIA DE VÍCIOS. MERCADORIA DESTINADA À ZONA FRANCA DE MANAUS. EQUIPARAÇÃO À EXPORTAÇÃO. CONTRIBUINTE ENQUADRADO NESSA SITUAÇÃO. EXTENSÃO DO BENEFÍCIO FISCAL DO "REINTEGRA". POSSIBILIDADE. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, DO CPC/15. CABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+III - A venda de mercadorias destinadas à Zona Franca de Manaus equivale à exportação de produto brasileiro para o exterior, para efeitos fiscais, nos termos do Decreto-lei n. 288/67. Por conseguinte, o contribuinte enquadrado nessas condições faz jus ao benefício fiscal instituído pelo programa REINTEGRA.
+IV - Preenchidos os requisitos legais exigidos, impõe-se a majoração dos honorários anteriormente fixados em 10% sobre o valor da causa para 12% (doze por cento).
+V - Recurso especial improvido. (REsp 1.679.681/SC, Relatora Ministra Regina Helena Costa, Primeira Turma, DJe 28/2/2019)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIOS. TETOS CONSTITUCIONAIS. AUSÊNCIA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Não se configura a ofensa ao art. 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. O Tribunal a quo deverá ter apreciado a matéria controvertida ao menos implicitamente para que o Recurso Especial possa ser analisado pelo STJ. A exigência de prequestionamento da questão continua incólume mesmo com a vigência do novo diploma processual. Além disso, o art. 1.025 do CPC exige que o acórdão reprochado contenha erro, omissão, contradição ou obscuridade, o que não é o caso dos autos.
+3. A indicada afronta ao art. 104 da Lei 8.078/1990 não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+4. O acórdão recorrido, em consonância com o entendimento firmado pelo STJ, entendeu pela inaplicabilidade do artigo 103 da Lei 8.213/1991 aos pedidos de revisão com base nos valores dos tetos estabelecidos pelas Emendas Constitucionais 20/1998 e 41/2003, porquanto representam mero aumento da prestação previdenciária, e não revisão de benefício.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1.779.174/RS, Relator Ministro Herman Benjamin, Segunda Turma, DJe 12/3/2019)
+No mérito, no julgamento do AgRg na ExeMS 115/DF, da relatoria do Ministro Luiz Fux, a Primeira Seção assentou o entendimento de que a morte do autor da ação mandamental, em data anterior ao término do processo de conhecimento, conduz à habilitação dos seus herdeiros na fase de execução e não a extinção do processo satisfativo.
+No caso dos autos, não se trata de sucessão de partes no mandado de segurança, mas de mera habilitação dos herdeiros na fase de execução mandamental.
+Nesse sentido, cito recentes julgados desta Corte Superior:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 NÃO CONFIGURADA. EMBARGOS À EXECUÇÃO. FALECIMENTO DO AUTOR NO CURSO DA PROCESSO DE CONHECIMENTO. HABILITAÇÃO DOS SUCESSORES NO PROCESSO DE EXECUÇÃO. POSSIBILIDADE.
+1. Não se configurou a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. No julgamento do AgRg na ExeMS 115/DF, da relatoria do Ministro Luiz Fux, a Primeira Seção assentou que a morte do autor da ação mandamental, em data anterior ao término do processo de conhecimento, conduz à habilitação dos seus herdeiros na fase de execução, e não à extinção do processo satisfativo.
+3. No caso dos autos, não se trata de sucessão de partes no Mandado de Segurança, mas de mera habilitação dos herdeiros na fase de execução mandamental, como consignou o Tribunal de origem.
+4. Agravo Regimental não provido. (AgRg no REsp 1.422.568/CE, Relator Ministro Herman Benjamin, Segunda Turma, DJe 14/8/2014, RDDP vol. 139 p. 142)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXTENSÃO DE VANTAGENS A INATIVOS. EMBARGOS À EXECUÇÃO. FALECIMENTO DE UM DOS AUTORES NO CURSO DA PROCESSO DE CONHECIMENTO HABILITAÇÃO DOS SUCESSORES NO PROCESSO DE EXECUÇÃO.
+1. Agravo regimental no qual se sustenta a inexistência do título judicial e a ilegitimidade ativa do sucessor ante a morte do autor no curso do processo de conhecimento, pois a habilitação ocorrera apenas após o acórdão que ora se busca executar.
+2. Nos termos do que foi assentado pela Primeira Seção no julgamento do AgRg na ExeMS 115/DF, da relatoria do Ministro Luiz Fux, DJe de DJe 14/08/2009 "A morte do impetrante em data anterior ao término do processo, implica a habilitação dos herdeiros na fase de execução e não a extinção do processo satisfativo, uma vez que, nos termos do art. 43, do CPC, "ocorrendo a morte de qualquer das partes, dar-se-á a substituição pelo seu espólio ou pelos seus sucessores, observado o disposto no art. 265"". Desse modo, " ..  o único requisito para habilitação de herdeiros, no caso em que o impetrante tenha deixado bens, é que se façam representar por meio do espólio, desde que não finalizado o processo de inventário, não importando se a data do óbito ocorreu antes ou depois do trânsito em julgado do acórdão exeqüendo".
+3. Agravo regimental não provido.
+(AgRg no AREsp 15.297/SE, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 14/05/2012).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
