@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Colegiado de origem denegou a segurança, assentando o direito do segurado ao recebimento das parcelas atrasadas de prestação previdenciário concedida judicialmente, até a data da implantação do benefício mais vantajoso deferido administrativamente. No extraordinário, o recorrente aponta violados os artigos 5º, cabeça, incisos II e XXXVI, 97, 194, 195, § 5º, 201, cabeça, parágrafos 1º, 2º e 11, da Constituição Federal. Sustenta afronta aos princípios da solidariedade e da isonomia, à preservação do valor real dos benefícios, à segurança jurídica, ao ato jurídico perfeito, ao princípio da seletividade e à manutenção do equilíbrio financeiro e atuarial. Diz ter a decisão implicado a desaposentação.
+    Eis os fundamentos do acórdão recorrido:
+     [...]
+    Esta Segunda Turma Recursal entende que é possível o recebimento de benefício concedido administrativamente e o pagamento de atrasados de benefício concedido judicialmente (5024700-64.2014.404.7000).
+    A Turma Regional de Uniformização possui entendimento no mesmo sentido:
+    PEDIDO DE UNIFORMIZAÇÃO REGIONAL. PREVIDENCIÁRIO. BENEFÍCIO CONCEDIDO ADMINISTRATIVAMENTE. MAIS VANTAJOSO. EXECUÇÃO DE PARCELAS ATRASADAS DO BENEFÍCIO POSTULADO EM JUÍZO. POSSIBILIDADE. INCIDENTE CONHECIDO E PROVIDO. 1. Uniformização da matéria no sentido de que é permitido ao segurado continuar percebendo o benefício deferido no âmbito administrativo, por lhe ser mais vantajoso, sem necessidade de renunciar às parcelas atrasadas, referentes ao benefício reconhecido judicialmente. 2. Precedentes do Tribunal Regional Federal da 4ª Região: Embargos Infringentes n. 2009.04.00.038899-6/RS; Agravo de Instrumento n. 0005509-06.2013.404.0000; Agravo de Instrumento n. 0005938-70.2013.404.0000; Apelação/Reexame Necessário n. 0014380- 69.2011.404.9999; e Embargos Infringentes n. 0001227-38.2008.404.7100. 3. Incidente conhecido e provido. (IUJEF 00028830220094047195, Relator Leonardo Castanho Mendes, Relator para acórdão João Batista Lazzari, D.E. 28/01/2014).
+    Também o TRF da 4ª Região já pacificou entendimento neste mesmo sentido. Vejamos:
+    AGRAVO DE INSTRUMENTO. PREVIENCIÁRIO. EXECUÇÃO DE SENTENÇA. PERCEPÇÃO DO BENEFÍCIO CONCEDIDO ADMINISTRATIVAMENTE NO CURSO DA AÇÃO, MAIS VANTAJOSO, E EXECUÇÃO DAS PARCELAS ATRASADAS DO BENEFÍCIO POSTULADO EM JUÍZO. POSSIBILIDADE. A Terceira Seção deste Tribunal, que, por ocasião do julgamento dos Embargos Infringentes no Agravo de Instrumento n° 2009.04.00.038899-6/RS, pacificou o entendimento segundo o qual é possível a manutenção do benefício concedido administrativamente no curso da ação e, concomitantemente, a execução das parcelas do benefício postulado na via judicial até a data da implementação administrativa.(TRF da 4ª Região. 6ª Turma. Relatora Vânia Hack de Almeida. Agravo de Instrumento 5001128- 25.2017.404.0000, julgado em 19.04.2017)
+    Deste modo, tem-se que é direito do impetrante a execução das parcelas vencidas do benefício previdenciário deferido judicialmente.
+    [...]
+    O acórdão impugnado mediante o extraordinário revela análise do quadro fático e interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência deste Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 16 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
