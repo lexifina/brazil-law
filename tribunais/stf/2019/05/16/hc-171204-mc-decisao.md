@@ -1,0 +1,32 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. SUSPENSÃO DO EXERCÍCIO DE FUNÇÃO PÚBLICA. REDUÇÃO DE VENCIMENTOS. AUSÊNCIA DE RISCO À LIBERDADE DE LOCOMOÇÃO. CASO CONCRETO. INADEQUAÇÃO DA VIA ELEITA. PRECEDENTES DO STF. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AUSÊNCIA DE ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+    I – Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+    II – ‘A jurisprudência do Supremo Tribunal Federal é no sentido de que o 'afastamento do cargo não pode ser questionado na via do ‘habeas corpus’ por não afetar nem acarretar restrição ou privação da liberdade de locomoção' (HC 107.423-AgR, de minha relatoria).’ (STF, HC n. 150.059/SP, Primeira Turma, Rel. Min. Marco Aurélio, Rel. p/ o Acórdão: Min. Roberto Barroso, DJe de 19/06/2018).
+    III – A Defesa limitou-se a reprisar os argumentos do ‘habeas corpus’, o que atrai a Súmula n. 182 desta Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+    Agravo regimental desprovido.”
+    (HC 502.070-AgRg/SP, Rel. Min. FELIX FISCHER – grifei)
+    Busca-se, cautelarmente, na presente sede processual, seja concedida “(...) ordem judicial liminar para resguardar o ‘status dignitatis’ do Paciente, uma vez que o ‘Habeas Corpus’ nº 2264936-89.2018.8.26.0000 não foi conhecido pelo Egrégio Tribunal de Justiça do Estado de São Paulo, perpetuando, assim, o ilegal afastamento da função pública e, constrangimento indireto à liberdade de locomoção” (grifei).
+    O exame do contexto delineado nos presentes autos parece descaracterizar, ao menos em juízo de estrita delibação, a plausibilidade jurídica da pretensão deduzida pela parte impetrante.
+    Como se sabe, a ação de “habeas corpus” destina-se, unicamente, a amparar a imediata liberdade de locomoção física das pessoas, revelando-se estranha à sua específica finalidade jurídico-constitucional qualquer pretensão que vise a desconstituir atos que não se mostrem ofensivos, ainda que potencialmente, ao direito de ir, de vir e de permanecer das pessoas.
+    É por tal razão que o Supremo Tribunal Federal, atento à destinação constitucional do “habeas corpus”, não tem conhecido do remédio heroico quando utilizado, como no caso, em situações de que não resulte qualquer possibilidade de ofensa ao “jus manendi, ambulandi, eundi ultro citroque” (RTJ 116/523 – RTJ 141/159, v.g.).
+    A ação de “habeas corpus”, portanto, enquanto remédio jurídico- -constitucional revestido de finalidade específica, não pode ser utilizada como sucedâneo de outras ações judiciais, notadamente naquelas hipóteses em que o direito-fim (ou direito-escopo, na feliz expressão de PEDRO LESSA) não se identifica – tal como neste caso ocorre – com a própria liberdade de locomoção física.
+    É que entendimento diverso conduziria, necessariamente, à descaracterização desse instrumento tutelar da liberdade de locomoção física. Não se pode desconhecer que, com a cessação da doutrina brasileira do “habeas corpus”, motivada pela Reforma Constitucional de 1926, restaurou-se, em nosso sistema jurídico, a função clássica desse remédio heroico.
+    É de observar que, em situações como a ora em análise, na qual o único pedido resume-se à pretendida recondução ao cargo de Diretor Presidente da COTIAPREV, esta Corte, em diversos precedentes, sequer tem conhecido da ação de “habeas corpus”, por entendê-la processualmente inadequada para o fim pleiteado (HC 76.605/SP, Rel. Min. SEPÚLVEDA PERTENCE – HC 84.326-AgR/PE, Rel. Min. ELLEN GRACIE – HC 99.829/RJ, Rel. Min. GILMAR MENDES – HC 107.423-AgR/TO, Rel. Min. ROBERTO BARROSO – HC 110.537-AgR/DF, Rel. Min. ROBERTO BARROSO – HC 125.958-AgR/SC, Rel. Min. CELSO DE MELLO – RHC 84.326-AgR/PE, Rel. Min. ELLEN GRACIE, v.g.):
+    “I. – O afastamento do paciente do cargo de Prefeito Municipal não autoriza a impetração de ‘habeas corpus’, porquanto não põe em risco a sua liberdade de locomoção.  É que o ‘habeas corpus’ visa a proteger a liberdade de locomoção, por ilegalidade ou abuso de poder, não podendo ser utilizado para proteção de direitos outros.
+    II. – ‘H.C.’ não conhecido.”
+    (HC 84.816/PI, Rel. Min. CARLOS VELLOSO – grifei)
+    “PROCESSUAL PENAL. ‘HABEAS CORPUS’. AFASTAMENTO CAUTELAR DO CARGO DE CONSELHEIRO DO TRIBUNAL DE CONTAS. INADEQUAÇÃO DA VIA ELEITA.”
+    (HC 146.459/DF, Rel. Min. ROBERTO BARROSO – grifei)
+    “PROCESSUAL PENAL. ‘HABEAS CORPUS’. SÚMULA 691/STF. ASSOCIAÇÃO CRIMINOSA; CORRUPÇÃO PASSIVA; USURPAÇÃO DE FUNÇÃO PÚBLICA QUALIFICADA PELO AUFERIMENTO DE VANTAGEM. INADEQUAÇÃO DA VIA ELEITA.
+    …...................................................................................................
+    3. A jurisprudência do Supremo Tribunal Federal é no sentido de que o ‘afastamento do cargo não pode ser questionado na via do ‘habeas corpus’ por não afetar nem acarretar restrição ou privação da liberdade de locomoção’ (HC 107.423-AgR, de minha relatoria).
+    …...................................................................................................
+    5. ‘Habeas Corpus’ não conhecido.”
+    (HC 150.059/SP, Red. p/ o acórdão Min. ROBERTO BARROSO – grifei)
+    Esse entendimento apoia-se no fato de que o remédio constitucional do “habeas corpus” – considerada a sua específica destinação tutelar (proteção e amparo ao “jus manendi, ambulandi, eundi ultro citroque”) – tem por finalidade defender, em sede jurisdicional, “única e diretamente, a liberdade de locomoção. Ele se destina à estreita tutela da imediata liberdade física de ir e vir dos indivíduos (...)” (RTJ 66/396 – RTJ 177/1206-1207 – RT 338/99 – RT 423/327 – RF 213/390 – RF 222/336 – RF 230/280, v.g.), de tal modo que referida ação constitucional revelar-se-á inadmissível em situações de que não resulte qualquer possibilidade de ofensa à liberdade de locomoção física (RTJ 116/523 – RTJ 141/159, v.g.).
+    Sendo assim, em face das razões expostas, e sem prejuízo de ulterior análise da adequação do meio processual ora utilizado, indefiro o pedido de medida liminar.
+    2. Ouça-se a douta Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 16 de maio de 2019.
+Ministro CELSO DE MELLO
+Relator
