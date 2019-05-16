@@ -1,0 +1,56 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 489, § 1º, III, IV, V E VI, DO CPC. INEXISTÊNCIA.
+1. Não merece prosperar a tese de violação do art. 489, § 1º, III, IV, V e VI, do CPC, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. O fato de o Tribunal a quo haver decidido a lide de forma contrária à pretensão defendida pela parte insurgente, já que elegeu os fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado por Viação Princesa da Serra Ltda. - EPP contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+A agravante sustenta violação do art. 489, § 1º, III, IV, V e VI, do CPC, pois o acórdão de origem incorreu em vícios de fundamentação.
+Argumenta que, ao analisar a alegação de afronta aos arts. 186 e 927 do Código Civil, a decisão agravada reconheceu que o Tribunal de origem não se pronunciou sobre argumento deduzido pela ora agravante, o que demonstra a violação do art. 489, § 1º, IV, do CPC, por ausência de fundamentação.
+Sem impugnação da parte agravada.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): A pretensão recursal não merece êxito, na medida em que a parte interessada não trouxe argumentos aptos à alteração do posicionamento anteriormente firmado.
+Segundo consignado na decisão agravada, não merece prosperar a tese de violação do art. 489 do CPC, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada, conforme se depreende do seguinte excerto do mencionado acórdão (e-STJ, fls. 1.010/1.013):
+O MM. Juiz a quo julgou improcedente o pedido fundamentando que "não parece crível que de 1993 - data da lei - a 2005 ano inicial da cobrança não tenha o autor calculado, no custo do serviço, as gratuidades concedidas por lei, com o escopo de avaliar se a renovação do contrato de serviço público com o Município lhe seria vantajosa" não havendo que se falar em parte hipossuficiente.
+A decisão monocrática fez adequada aplicação do direito à espécie dos autos e merece ser adotada na forma regimental.
+Não podemos esquecer o estado de crise por que passa o país, inclusive, e principalmente, os entes municipais.
+Todavia, na hipótese presente, o reembolso em favor das concessionárias de suas despesas deve ser feito via valor tarifário e não em cobrança exagerada e até surpreendente.
+O Magistrado trouxe à tona decisão exarada no Proc. nº 2009.227.03777, envolvendo as mesmas partes, e lá foi dito que o contrato de concessão teve início em 29/03/76, e, em 28/05/84, entrou em vigor a Lei Municipal nº 1.365, que, em seu art. 48, previa descontos para os estudantes.
+Depois, em 25/03/93, veio a Lei Municipal nº 1.626, que alterou o dispositivo acima, estabelecendo as gratuidades.
+O contrato de concessão foi renovado em 1997 e a apelante assumiu o compromisso que estava estabelecido nas leis, inclusive quanto às gratuidades.
+Como foi dito, não pode o Município ser compelido a pagar o que não está previsto em seu orçamento, e houve omissão da entidade transportadora em fazer constar de sua planilha de custos os gastos com as gratuidades, o que seria de sua responsabilidade.
+A jurisprudência do STJ está consolidada no sentido de que os benefícios em favor dos idosos, previstos no art. 40, I e II, da Lei nº 10.741/2003 (Estatuto do Idoso), independe da criação de fonte de custeio, "porque não se trata de benefício da seguridade social (art. 195, §5º, da CF), mas de questão relacionada à execução de contrato de concessão de serviço público (art. 35 da Lei 9.074/95) - e foi devidamente regulamentada pelo Decreto nº 5.934/2006" (Precedentes AC 2004.38.02.005799-3/MG; AC 2004.34.00.024700-7/DF).
+Via de consequência, o mesmo raciocínio se aplica às hipóteses de gratuidade para estudantes, que é um benefício amparado pela legislação.
+Constou, ainda, em Julgado do Tribunal Superior que:
+ ..
+Logo, caberia à concessionária levar o problema à Administração, inclusive com o lançamento do prejuízo nas tarifas, que seria o modo correto de atuar, até para evitar o acúmulo da despesa.
+De fato, existe a necessidade de se manter o equilíbrio financeiro dos custos com a receita, mas, nos termos do contrato de concessão, a remuneração a ser obtida pela transportadora é mediante o recebimento da tarifa paga pelos passageiros.
+Nas razões de decidir dos embargos de declaração, acrescentou aquela Corte que (e-STJ, fls. 1.045/1.046):
+O Aresto foi claro ao mencionar que a prestação de serviço de transporte gratuito de alunos deve ter seu custo carreado à tarifa, sendo caso de eventualmente se discutir em ação própria possível o desequilíbrio financeiro ocasionado pela defasagem tarifária.
+Foi trazida jurisprudência do STJ a respeito e a menção dela se destinar a idosos não altera a finalidade por se tratar de julgamento analógico à presente.
+Nos termos do contrato de concessão, a remuneração a ser obtida pela transportadora é mediante o recebimento de tarifa de modo que a presente ação não tinha condições de prosperar ante à omissão da recorrente em levar o problema à Municipalidade, ou mesmo ao Judiciário, para depois pretender receber vultosa condenação do ente público em ação de cobrança.
+Essa matéria de direito apreciada pela Câmara, sendo desnecessária a fundamentação a respeito de documentos trazidos com base em quantitativo transportado e mesmo de ações envolvendo outras empresas de ônibus.
+Finalmente, são inaplicáveis ao caso presente os dispositivos legais prequestionados.
+Como visto, a Corte a quo resolveu a controvérsia acerca do custeio referente ao pagamento pelos serviços de transportes de alunos da rede pública. Para tanto, utilizou-se de fundamentos divergentes dos argumentos apontados pela agravante, o que não significa ausência de fundamentação. Pelo contrário, o que se verifica do excerto alhures destacado é que aquela Corte teve o cuidado de pormenorizar suas justificativas, elucidando bem a questão e o posicionamento tomado.
+O fato de não ter analisado a alegação de ofensa aos arts. 186 e 927 do Código Civil, como já dito, não retrata deficiência quanto à fundamentação, mas somente que os argumentos eleitos pelo acórdão foram suficientes para a conclusão do julgado, sendo aqueles dispositivos legais irrelevantes para solucionar a questão. Tal entendimento foi, inclusive, destacado pelo Tribunal de origem ao consignar que tais dispositivos são inaplicáveis ao caso dos autos.
+Ademais, uma análise do art. 489, § 1º, IV, do CPC revela que tal dispositivo, como bem apontado nas razões deste agravo, considera deficiente a fundamentação da decisão judicial quando não forem enfrentados argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+Ora, quedou-se a agravante de demonstrar de que modo a análise da suposta violação dos arts. 186 e 927 do Código Civil seria capaz de modificar o julgamento proferido pela Corte a quo, limitando-se a sustentar que esses artigos não foram examinados, o que evidencia, em verdade, a deficiência quanto à demonstração de seus posicionamentos.
+Sendo assim, não há que se falar em omissão, obscuridade, contradição ou erro material do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL DO ESTADO. SERVIDOR PÚBLICO. DOENÇA OCUPACIONAL. PENSÃO MENSAL AFASTADA. ACÓRDÃO RECORRIDO FUNDADO EM MATÉRIA CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 126/STJ. DANO MATERIAL. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Não há violação dos arts. 489, § 1º, VI, e 1.022, parágrafo único, II, do CPC de 2015, pois há fundamentação suficiente para amparar o acórdão recorrido.
+2. Firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário, ocasionando a preclusão de uma das questões e o consequente não conhecimento do recurso. Aplicação da Súmula 126 do STJ.
+3. O Tribunal de origem, com base nas provas existentes, entendeu não haver comprovação do dano material. A inversão do julgado nos moldes pretendidos pela recorrente demanda revolvimento das provas, o que encontra óbice na Súmula 7/STJ.
+4. Recurso Especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1.707.574/SE, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 7/12/2017, DJe 19/12/2017)
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO NO ACÓRDÃO RECORRIDO. INEXISTENTE. ACÓRDÃO QUE ENFRENTOU TODAS AS QUESTÕES NECESSÁRIAS. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Conforme pacífico entendimento desta Corte, o órgão julgador não é obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A determinação contida no art. 489 do CPC/2015 "veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+II - A corte de origem analisando o contexto fático-probatório dos autos concluiu (fl. 270): "Neste caso, ainda que houvesse buracos no asfalto e ainda que a pista apresentasse irregularidades, é certo que o acidente que vitimou fatalmente  ..  somente ocorreu por culpa do motociclista que invadiu a contramão da via em alta velocidade".
+III - Para alterar tais conclusões seria necessário o reexame fático-probatório, vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual: " pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido
+(AgInt no AREsp 1.037.131/SP, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/11/2017, DJe 22/11/2017 - grifos acrescidos)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
