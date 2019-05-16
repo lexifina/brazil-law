@@ -1,0 +1,25 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Vinicius Adriano Cassamasimo Ramos, em favor de Gabriel de Oliveira Leite e Felipe Pereira dos Santos, contra decisão monocrática de Ministro Relator do STJ, nos autos do HC 509.641/SP.
+    Colho o relatório da decisão impugnada:
+    “Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Gabriel de Oliveira Leite e Felipe Pereira dos Santos, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo.
+    Tem-se dos autos que os pacientes foram presos em flagrante, tendo o Juízo de Direito do Plantão Judiciário de Itapetininga/SP convertido a prisão em flagrante em preventiva, pela suposta prática dos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/2006 (fls. 69/71 – Processo n. 1500683-35.2019.8.26.0571).
+    Ao apontar ilegalidade na prisão preventiva, porque carente de fundamentação concreta, a defesa impetrou habeas corpus com pedido de liminar, tendo o Tribunal de Justiça indeferido a medida urgente (fls. 18/22 – Habeas Corpus n. 2102340-27.2019.8.26.0000).
+    Tem-se o presente writ, reiterando a insurgência, no qual requer a concessão liminar da ordem para revogar a prisão preventiva por ausência de fundamentação idônea ou, subsidiariamente, a revogação da prisão preventiva com imposição de duas medidas cautelares diversas da prisão.
+    É o relatório.” (eDOC 9)
+    No STJ, o habeas corpus não foi conhecido, porque a matéria nele ventilada não teria sido apreciada pelo TJSP.
+    Nesta Corte, o impetrante sustenta que falta ao decreto prisional fundamentação.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo Tribunal de Justiça nem pelo Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em dupla supressão de instância.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, inciso XXXV, CF), a aplicação desse entendimento jurisprudencial pode ser afastada na ocorrência de patente constrangimento ilegal ou abuso de poder, o que não verifico no presente caso.
+    Na espécie, os pacientes foram presos em flagrante, no dia 9.5.2019, na posse 19,34 gramas de maconha. (eDOC 3, p. 34-35)
+    Na audiência de custódia, a prisão em flagrante foi convertida em preventiva nos seguintes termos:
+    “Havendo prova da existência do crime e indícios suficientes de autoria, a manutenção dos acusados no cárcere é medida que se impõe a fim de se garantir a ordem pública, máxime perante a sociedade local e diante da situação atual do País, em que tanto se discute a questão da impunidade, sendo prematura a liberação sem a dissipação dos efeitos da conduta perpetrada. Vale citar: “... o conceito de ordem pública não se limita só a prevenir a reprodução de fatos criminosos, mas também a acautelar o meio social e a própria credibilidade da justiça em face da gravidade do crime e de sua repercussão... “ (Processo Penal – ed. Atlas – Julio Fabrini Mirabete). Observo que Gabriel tem antecedente criminal referente ao mesmo delito. É circunstância que deve ser considerada apesar que ainda não há trânsito em julgado. O depoimentos dos captores foi coerente e uniforme, não havendo razão para que eles inventassem a versão, principalmente pelos antecedentes de Gabriel. Droga recolhida em quantidade e guardada em uma caixa que indicam tráfico. Achado com Felipe material para embalo que também indicam prática desse crime. Tratase de crime hediondo com consequências prejudiciais à sociedade. Desta feita, observadas as disposições do art. 312 do Código de Processo Penal, com a redação dada pela Lei 12.403/11, converto a prisão em flagrante em prisão preventiva, com fulcro no art. 310 do Código de Processo Penal, ressalvando, por ora, a inadequação das medidas cautelares diversas da prisão ante o acima exposto.” (eDOC 3, p. 48)
+    Vê-se, portanto, que a medida extrema lastreou-se em elementos concretos colhidos nos próprios autos, razão por que a constrição da liberdade do acusado se harmoniza com a jurisprudência do STF, sobretudo porque pesa contra Gabriel uma condenação por tráfico em 31.1.2019, com trânsito em julgado para o Ministério Público em 5.2.2019. Praticou o crime objeto deste writ em 9.5.2019. (eDOC 3, p. 38) Felipe foi condenado por tráfico em 12.9.2013, à pena de 1 ano e 11 meses. É, portanto, em tese, reincidente. (eDOC 3, p. 43)
+    A esse respeito, esta Corte tem considerado legítimos os decretos prisionais consubstanciados no modus operandi do delito e na possibilidade concreta de reiteração delitiva, de modo que não há constrangimento ilegal a autorizar o conhecimento do presente writ. Precedente: HC 141.170-AgR/SP, Rel. Min. Dias Toffoli.
+    Nesse contexto, entendo, também, que as medidas cautelares alternativas diversas da prisão, previstas na Lei 12.403/2011, não se mostram suficientes a acautelar o meio social.
+    Ante o exposto, nego seguimento ao habeas corpus.
+    Publique-se. Comunique-se.
+    Brasília, 16 de maio de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
