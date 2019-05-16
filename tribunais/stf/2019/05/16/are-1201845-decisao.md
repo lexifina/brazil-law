@@ -1,0 +1,51 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 1, p. 188):
+    “EMENTA: REEXAME NECESSÁRIO E APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA - PREJUDICIAL DE MÉRITO - PRESCRIÇÃO - AFASTADA - MÉRITO - PROGRESSÃO HORIZONTAL - SERVIDOR DO MUNICÍPIO DE IPIAÇU - LEI N. 667/1991 - CUMPRIMENTO DO REQUISITO TEMPORAL - AVALIAÇÃO DE DESEMPENHO - OMISSÃO DA ADMINISTRAÇÃO - DIREITO RECONHECIDO - SENTENÇA MANTIDA.
+    - Conforme enunciado da Súmula n. 85 do Superior Tribunal de Justiça, em se tratando de parcelas de trato sucessivo, a prescrição atinge somente aquelas vencidas antes do quinquênio anterior ao ajuizamento da ação, não havendo que se falar em perecimento do fundo de direito porque ausente negativa da Administração.
+    - Sendo responsabilidade do poder público proceder à avaliação de desempenho do servidor, não pode este ser prejudicado pela desídia da Administração, devendo-lhe ser reconhecido o direito à progressão horizontal, se preencheu os demais requisitos previstos na lei.
+    - Recurso não provido. Reexame necessário prejudicado.”
+    No recurso extraordinário, com fundamento no art. 102, III, a e b, do permissivo constitucional, aponta-se ofensa aos arts. 2º; e 173, § 1º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que é (eDOC 1, p. 269):
+    “forçoso concluir que se a Lei Municipal que previu a promoção na carreira dos servidores públicos não fixou prazo nem sanção para que o Chefe do Executivo promovesse ato visando implementar tal direito, mesmo diante da sua omissão, é vedado o, suprimento pelo Judiciário.
+    Isso porque, a interferência jurisdicional no exercício das competências da Administração Pública deve ocorrer com máxima cautela e sempre dotada de critérios técnicos, que evidenciem que a atuação do agente público está afastada dos princípios que devem reger os atos administrativos, o que não se vislumbra no presente caso.”
+    A 1ª Vice-Presidência do TJ/MG inadmitiu o recurso extraordinário em virtude de incidir na hipótese as Súmulas 280, 283 e 284 do STF (eDOC 1, p. 277-279).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou que (eDOC 1, p. 192-195):
+    “No mérito, insta consignar que, malgrado alegue o autor que é efetivo no serviço público desde o ano de 1999, o Termo de Posse e a Declaração colacionados às fls. 91/92 noticiam que sua posse no cargo de Auxiliar de Serviços Gerais, em caráter efetivo, somente ocorreu em 01/11/2001.
+    Assim, acredita-se que o período anterior, constante dos contracheques de fls. 08/16, diz respeito apenas à contratação. Feita essa consideração, verifica-se que no âmbito do Município de Ipiaçu, a Lei nº 667/1991, que dispõe sobre o Quadro de Pessoal e o Plano de Carreira da Prefeitura Municipal, preconiza:
+    "Art. 21 -A progressão do servidor público, dar-se-á em linha horizontal, por antiguidade em elevação da letra imediatamente superior a cada 03 (três) anos correntes e efetivos de serviços prestados no âmbito Municipal, e em linha vertical, com elevação ao nível imediatamente superior por merecimento.
+    (...)
+    Parágrafo 4° - A avaliação de que trata o parágrafo anterior, será efetuada, por comissão designada pelo Prefeito Municipal, seguindo critérios normativos baixados em regulamento, onde serão considerados:
+    I - assiduidade;
+    II - pontualidade;
+    III - disciplina;
+    IV - eficiência;
+    V - iniciativa;
+    VI - aptidão;
+    VII - elevação do Nível de Escolaridade;
+    VIII - aprimoramento profissional através de cursos específicos.
+    Parágrafo 5° - Não interromperá a contagem de interstício aquisitivo o exercício de cargo em comissão.
+    Art. 22 - Não se fará jus a progressão horizontal o servidor que houver sofrido, no período a ser computado, pena disciplinar de suspensão.
+    Art. 23 - A progressão horizontal será apurada através de boletim individual e será regulamentada por decreto." (sic)
+    Depreende-se que, para a concessão de progressão horizontal, exige-se do servidor apenas o cumprimento do prazo de 03 (três) anos correntes de efetivo serviço prestado ao Município.
+    Ademais, nos termos do art. 22, para que faça jus à progressão horizontal, não pode o servidor ter sofrido, no período relacionado, pena disciplinar de suspensão.
+    Volvendo aos autos, verifica-se que o requerente tomou posse no cargo público, em caráter efetivo, em 01 de novembro de 2001, e, conquanto tenha solicitado à Prefeitura Municipal o fornecimento de cópia "do termo de posse, histórico de afastamento do serviço e boletim individual de eventuais punições disciplinares" (fls. 47/48), não houve resposta por parte do ente público.
+    De se pontuar que, por meio da decisão de fls. 56/57, o Exmo. Juiz singular, deferiu o pedido formulado pelo autor, às fls. 54/55, para que o Município fosse compelido a exibir referida documentação, sob pena de se admitir como verdadeiros os fatos alegados. Ainda assim, o ente público apenas apresentou cópia do termo de posse, à fl. 91.
+    Desse modo, não há provas de que tenha o requerente sofrido pena de suspensão, o que poderia obstar a concessão do benefício.
+    No que tange à necessidade de realização de boletim individual (art. 23), que também pode ser considerada avaliação de desempenho, trata-se de dever imposto à Administração, não ao servidor, pelo que não depende de sua solicitação.
+    Com efeito, a inércia do Município em proceder à avaliação de desempenho do servidor, para fins de progressão horizontal, não pode servir de empecilho à efetivação do direito pretendido.
+    Em assim sendo, deve se reconhecer que, ausente a avaliação de desempenho, há que se observar a implementação temporal para concessão de tal direito.
+    Desta feita, em não havendo provas de que tenha o servidor sofrido punição disciplinar, e, estando comprovado que preencheu o requisito temporal previsto na lei, é de se reconhecer seu direito à progressão horizontal.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, e o exame da legislação local aplicável à espécie (Lei Municipal 667/1991), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO.  SERVIDOR  PÚBLICO.  PROGRESSÃO  FUNCIONAL. OFENSA A DIREITO LOCAL. QUESTÃO INFRACONSTITUCIONAL. 1. É infraconstitucional a questão sobre  progressão  funcional, perante os termos da legislação local que a disciplina. Aplicação da Súmula 280/STF. Precedentes. 2. Agravo regimental a que se nega provimento.” (ARE 905.171-AgR, de minha relatoria, Primeira Turma, DJe 17.11.2015)
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO HORIZONTAL. PLANO DE CARREIRA. LEI COMPLEMENTAR MUNICIPAL Nº 35/2002. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 07.3.2014.” (ARE 898.774-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 14.10.2015)
+    Ademais, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que não viola o princípio da separação dos poderes o exame da legalidade e abusividade dos atos administrativos pelo Poder Judiciário. Nesse sentido:
+    "AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. NÃO OCORRÊNCIA. SÚMULA 279/STF. Hipótese em que, para dissentir da conclusão firmada pelo Tribunal de origem, seria necessário reexaminar os fatos e provas constantes dos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. É firme no Supremo Tribunal Federal o entendimento de que não afronta o princípio da separação dos Poderes o controle exercido pelo Poder Judiciário sobre atos administrativos tidos por abusivos ou ilegais. Precedentes. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento." (AI 410.544-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 17/3/2015).
+    Ressalte-se, ainda, que para interposição do recurso extraordinário com fundamento no art. 102, III, b, da Constituição Federal, é indispensável a declaração formal de inconstitucionalidade de tratado ou lei federal pelo plenário ou órgão especial do tribunal de origem, o que não se observa no caso concreto. Nesse sentido:
+    “Embargos de declaração nos embargos de declaração no agravo regimental no recurso extraordinário. Recurso extraordinário. Cabimento pela alínea b do inciso III do art. 102 da CF. Juizados especiais. Necessidade de afastamento da norma infraconstitucional sob fundamento de contrariedade à Constituição Federal. Não ocorrência. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Para que se abra a via do recurso extraordinário pelo art. 102, inciso III, alínea b, da Constituição, é necessário que a turma recursal haja afastado a aplicabilidade da norma infraconstitucional sob fundamento de contrariedade à Constituição Federal, o que não ocorreu no caso dos autos. 2. O acórdão objeto do recurso extraordinário interposto pela União foi proferido por Turma Recursal de Juizado Especial Federal, donde não cabe falar em incidente de inconstitucionalidade julgado pelo Plenário ou órgão especial. 3. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o exame de ofensa reflexa à Constituição. 4. Embargos de declaração acolhidos, em parte, para prestar esclarecimentos, sem efeitos infringentes.” (RE n. 574.503-AgR-ED-ED, Relator o Ministro Dias Toffoli, Primeira Turma, Dje 3.4.2014).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC e majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os limites dos §§ 2º e 3º do artigo 85, §11, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 16 de maio de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
