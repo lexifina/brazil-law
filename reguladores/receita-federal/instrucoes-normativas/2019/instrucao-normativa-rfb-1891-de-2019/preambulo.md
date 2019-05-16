@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1891, de 14 de maio de 2019
+Dispõe sobre o parcelamento de débitos perante a Secretaria Especial da Receita Federal do Brasil de que tratam os arts. 10 a 13 e 14 a 14-F da Lei nº 10.522, de 19 de julho de 2002.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e com base no disposto nos arts. 10, 10-A, 11, 12, 13 e 14 a 14-F da Lei nº 10.522, de 19 de julho de 2002, resolve:

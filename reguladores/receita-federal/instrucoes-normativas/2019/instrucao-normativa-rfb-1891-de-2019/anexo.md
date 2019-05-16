@@ -1,0 +1,9 @@
+ANEXO I - REQUERIMENTO DE PARCELAMENTO DE DÉBITOS PERANTE A RFB
+Anexo I
+[arquivo anexo: Anexo I.pdf]
+ANEXO II - REQUERIMENTO DE PARCELAMENTO DE DÉBITOS PERANTE A RFB (Requerente Estado, Distrito Federal ou Município)
+Anexo II
+[arquivo anexo: Anexo II.pdf]
+ANEXO III - AUTORIZAÇÃO PARA DÉBITO EM CONTA CORRENTE DE PRESTAÇÕES DO PARCELAMENTO
+Anexo III
+[arquivo anexo: Anexo III.pdf]
