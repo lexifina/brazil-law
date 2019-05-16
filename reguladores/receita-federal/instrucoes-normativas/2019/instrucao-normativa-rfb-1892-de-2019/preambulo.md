@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1892, de 14 de maio de 2019
+Altera a Instrução Normativa RFB nº 1.836, de 3 de outubro de 2018, que dispõe sobre a Declaração do Imposto sobre a Renda Retido na Fonte relativa ao ano-calendário de 2018 e a situações especiais ocorridas em 2019 (Dirf 2019) e sobre o Programa Gerador da Dirf 2019 (PGD Dirf 2019).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
