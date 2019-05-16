@@ -1,0 +1,22 @@
+Trata-se de recurso extraordinário interposto contra acórdão de cuja ementa destaca-se:
+    “CAPITALIZAÇÃO DE JUROS. IMPOSSIBILIDADE DE APLICAÇÃO DA MP 2.170. No caso concreto trata-se de contrato de financiamento firmado já na vigência do Novo Código Civil. Assim, havendo autorização expressa em lei, a incidência da capitalização dos juros remuneratórios contratados não vai afastada, sendo, entretanto, permitida apenas em periodicidade anual” (pág. 19 do documento eletrônico 2).
+    Neste RE, fundado no art. 102, III, a e b, da Constituição, sustentou-se, em suma, a validade da capitalização mensal de juros, sob o argumento de que a Medida Provisória 2.170/2001 preencheu os requisitos do art. 62 da Lei Maior.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem, além de julgar que a Medida Provisória 2.170/2001 não preencheu os requisitos de relevância e urgência previstos no art. 62 da Constituição Federal, também afastou a capitalização mensal de juros sob o seguinte fundamento:
+    “[...] parece no mínimo estranho a inserção do art. 5° na indigitada MP, pois a matéria referente a capitalização em nada se relaciona com o assunto tratado na Medida Provisória, que versa sobre a administração dos recursos do Tesouro Nacional.
+    Desse modo, entendo imprudente a interpretação de que o artigo supracitado teria aplicação em qualquer operação financeira, tendo em vista que, como já dito, a referida MP disciplina a administração dos recursos do Tesouro Nacional”.
+    O recorrente, todavia, não impugnou esse fundamento, suficiente para manutenção do acórdão recorrido, referente ao âmbito de aplicação da referida medida provisória. Com efeito, no recurso extraordinário, defendeu-se tão somente a constitucionalidade da capitalização de juros à luz do art. 62 da Constituição Federal.
+    Nesse contexto, incide, na espécie, a Súmula 283/STF, tendo em vista a deficiência na fundamentação do recurso extraordinário. Nesse sentido, destaco os seguintes julgados deste Tribunal:
+     “Ementa: AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NA ALÍNEA ‘A’ DO INCISO III DO ARTIGO 102 DA CONSTITUIÇÃO FEDERAL. CAPITALIZAÇÃO MENSAL DE JUROS. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE. SÚMULA 283 DO STF. PRECEDENTES.
+    O Tribunal de origem afastou a capitalização mensal dos juros com base também em fundamento infraconstitucional, suficiente para a manutenção do acórdão recorrido. Pelo que incide o princípio da Súmula 283 do STF. Precedente: RE 252.626-ED, da relatoria da ministra Ellen Gracie, entre outros.
+     Agravo regimental manifestamente infundado, ao qual se nega provimento.
+    Condenação da parte agravante a pagar à parteagravada multa de 1% (um por cento) do valor atualizado da causa,ficando a interposição de qualquer outro recurso condicionada aodepósito do respectivo valor. Isso com lastro no § 2º do art.557 do Código de Processo Civil” (RE 544.804-AgR/RS, Rel. Min. Ayres Britto).
+    “1. RECURSO. Embargos de declaração. Caráter infringente. Embargos recebidos como agravo. Agravo de Instrumento. Inadmissibilidade. Intempestividade. Comprovação de que o recurso foi interposto no prazo legal. Decisão agravada. Reconsideração. Provada sua tempestividade, deve ser apreciado o recurso.
+    2. RECURSO. Extraordinário. Inadmissibilidade. Contrato com instituição financeira. Juros e capitalização mensal. Aplicação da MP nº 1.963-17/00 e da Lei nº 9.298/96. Alegação de ofensa ao art. 48, XIII, da Constituição Federal. Agravo regimental improvido. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.
+    3. RECURSO. Extraordinário. Inadmissibilidade. Acórdão recorrido que se valeu de fundamentos infraconstitucionais suficientes para manutenção do julgado. Aplicação da Súmula 283. Agravo regimental improvido. É inadmissível recurso extraordinário quando a decisão recorrida está assentada em mais de um fundamento suficiente e o recurso não abrangeu a todos” (AI 539.702-ED/RS, Rel. Min. Cezar Peluso).
+    No mesmo sentido, cito as seguintes decisões, entre outras: RE 967.475/RS, Rel. Min. Rosa Weber; RE 1.114.841/RS, de minha relatoria; ARE 988.658/SE, Rel. Min. Alexandre de Moraes; e ARE 1.125.261/BA, Rel. Min. Luiz Fux.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF)
+    Publique-se.
+    Brasília, 16 de maio de 2019
+Ministro Ricardo Lewandowski
+Relator
