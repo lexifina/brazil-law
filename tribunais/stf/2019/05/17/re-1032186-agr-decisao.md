@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo interno cujo objeto é decisão que negou seguimento ao recurso, sob o fundamento de que “a solução da controvérsia pressupõe, necessariamente, a análise da legislação infraconstitucional aplicada e o reexame dos fatos e do material probatório contantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário”.
+    A parte agravante sustenta que “a premissa ou fundamentação adotada pela C. Turma não foi lastreada, de forma alguma, no suporte fático probatório da demanda, mas sim, apenas e tão-somente, em objeção de caráter estritamente jurídico/constitucional, qual seja, no fato do benefício ter sido concedido e mantido com base na sistemática de cálculo anterior à CF/1988”.
+    Assiste razão ao agravante.
+    O Plenário do Supremo Tribunal Federal (STF), ao examinar o mérito do RE 564.354, Relª. Minª. Cármen Lúcia, sob a sistemática da repercussão geral (Tema 76), entendeu ser possível a aplicação imediata do art. 14 da Emenda Constitucional nº 20/1998 e do art. 5º da Emenda Constitucional nº 41/2003 àqueles que percebem seus benefícios com base em limitador anterior, levando-se em conta os salários-de-contribuição que foram utilizados para os cálculos iniciais.
+    Acresce que a jurisprudência do STF afirma positivamente pela aplicação imediata dos mencionados tetos, inclusive aos benefícios concedidos anteriormente ao advento da Constituição Federal de 1988. Vejam-se, nessa linha: RE 959.061-AgR, Rel. Min. Edson Fachin; RE 1.105.261-AgR, Rel. Min. Ricardo Lewandowski; RE 1.054.294-AgR, Rel. Min. Gilmar Mendes, assim ementado:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Previdenciário. 3. Reajuste de benefício anterior à CF/88. Emendas Constitucionais 20/1998 e 41/2003. Tema 76. Aplicação imediata. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Negativa de provimento ao agravo regimental.”
+    O acórdão recorrido, ao assentar que não se aplicam à hipótese dos autos os efeitos do julgamento do RE 564.354, uma vez que “o benefício titularizado pelo autor fora concedido em 01.01.1986, ou seja, anteriormente ao advento da Constituição da República de 1988” (Evento 2, fl. 87), divergiu do entendimento do STF.
+    Diante do exposto, reconsidero a decisão agravada e, com base no art. 21, § 2º, do RI/STF, dou parcial provimento ao recurso tão somente para determinar o retorno dos autos ao Tribunal de origem para que julgue novamente o processo, aplicando-se o entendimento do STF firmado no julgamento do RE 564.354-RG.
+    Publique-se.
+          Brasília, 17 de maio de 2019.
+Ministro Luís Roberto Barroso
+Relator
