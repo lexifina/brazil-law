@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo interno cujo objeto é decisão que negou provimento ao recurso pelos seguintes fundamentos: (i) “o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal, consolidada na Súmula Vinculante 33”; (ii) incide, no caso, a Súmula 279/STF.
+    A parte agravante alega que “a decisão agravada não pode subsistir, pois a análise dos autos revela que a matéria discutida neste caso visa a contagem de tempo diferenciada aos servidores públicos que exercem atividades insalubres, para fins de aposentadoria especial. Desta forma, a questão tratada nestes autos é a mesma daquela veiculada no RE n. 1.014.286 – TEMA 942 […] Tal fato revela a existência de adequação temática entre o caso dos autos e o paradigma da sistemática da repercussão geral narrado, já que tratam sobre a possibilidade ou não de aplicação das regras do regime geral de previdência social para a averbação do tempo de serviço prestado em atividades insalubres, com conversão do tempo especial em comum, mediante contagem diferenciada”.
+    Assiste razão ao agravante.
+    O Supremo Tribunal Federal, nos autos do RE 1.014.286-RG, sob a relatoria do Ministro Luiz Fux (Tema 942), reconheceu a existência da repercussão geral da controvérsia. Veja-se a ementa do referido paradigma:
+    “RECURSO EXTRAORDINÁRIO. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO. ARTIGO 40, § 4º, III, DA CONSTITUIÇÃO FEDERAL. PEDIDO DE AVERBAÇÃO DE TEMPO DE SERVIÇO PRESTADO EM ATIVIDADES EXERCIDAS SOB CONDIÇÕES ESPECIAIS QUE PREJUDIQUEM A SAÚDE OU A INTEGRIDADE FÍSICA DO SERVIDOR, COM CONVERSÃO DO TEMPO ESPECIAL EM COMUM, MEDIANTE CONTAGEM DIFERENCIADA, PARA OBTENÇÃO DE OUTROS BENEFÍCIOS PREVIDENCIÁRIOS. QUESTÃO NÃO ABRANGIDA PELO ENUNCIADO DA SÚMULA VINCULANTE 33. REITERAÇÃO DA CONTROVÉRSIA EM MÚLTIPLOS PROCESSOS. IMPACTO DA DECISÃO NO EQUILÍBRIO FINANCEIRO E ATUARIAL DA PREVIDÊNCIA PÚBLICA. RECONHECIDA A EXISTÊNCIA DE REPERCUSSÃO GERAL”.
+    Diante do exposto, reconsidero a decisão agravada e determino a devolução dos autos ao Tribunal de origem, a fim de que seja observada a sistemática da repercussão geral (Tema 942). Julgo prejudicado o agravo interno.
+    Publique-se.
+          Brasília, 17 de maio de 2019.
+Ministro Luís Roberto Barroso
+Relator
