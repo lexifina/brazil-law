@@ -1,0 +1,30 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. INDEFERIMENTO DE TUTELA ANTECIPADA. DECISÃO AGRAVADA NÃO TERATOLÓGICA. AUSÊNCIA DE RAZÕES PARA CONCESSÃO DA LIMINAR EM SEDE DE AGRAVO DE INSTRUMENTO. RISCO DE SUPRESSÃO DE INSTÂNCIA.
+    1. Apenas em casos de decisão teratológica, com abuso de poder ou em flagrante descompasso com a Constituição, a Lei ou com a orientação consolidada de Tribunal Superior ou deste Tribunal, seria justificável sua reforma pelo órgão ad quem, em agravo de instrumento, o que não é o caso. Precedentes desta Corte (AG 2010.02.01.017607-0, Sexta Turma Especializada, Rel. Des. Fed. GUILHERME COUTO, E/DJF2R 14/02/2011; AG 2010.02.01.007779-1 Sétima Turma Especializada, Rel. Des. Fed. José Antônio Lisboa Neiva, E-DJF2R 01/02/2011).
+    2. Não é possível o deferimento da tutela provisória recursal quando demandar análise exauriente do objeto da ação originária, sob pena de supressão de instância e malferimento do Princípio do Juiz Natural.
+    3. Recurso do contribuinte improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5°, II, LIV e LV, da CF. Sustenta, em síntese, a existência dos requisitos para concessão de liminar, a fim de sustar protesto de certidão de dívida ativa.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “Não deve ser admitido o recurso, data venia.
+    Inicialmente, quanto à alegada ofensa ao art. 5º, LIV e LV, da CF, o STF já rejeitou a existência de repercussão geral da matéria (RE 848826 RG / DF; Tema 339 - AI 791292 QO-RG / PE; Tema 660 - ARE 748.371 RG / MT, e Tema 424 - ARE 639.228).
+    De todo modo, a violação constitucional alegada é eminentemente reflexa, e não é apta a fundamentar a admissibilidade do recurso extraordinário. De fato, alegar ofensa a diversos dispositivos e princípios constitucionais, quando isto pressuponha, para que acatado, reexaminar os fatos e, só assim, perquirir a correção ou não do julgado, torna inviável a via extrema.
+    Em outras palavras, os citados artigos da Constituição Federal apenas suportariam a admissibilidade do recurso se, dos próprios termos do julgado, e independentemente do revolvimento e completo reexame de fatos, houvesse ofensa ao seu teor. Não é o caso.
+    Diz o verbete n.º 279 da súmula do STF: "Para simples reexame de prova não cabe recurso extraordinário". Ou seja, a premissa que o recurso diz equivocada deve ser demonstrada no corpo inequívoco do acórdão atacado, à luz das premissas de fato por ele vislumbradas.
+    In casu, da análise dos autos, verifica-se que o órgão julgador decidiu a controvérsia após análise dos fatos, sendo certo que, para se chegar à conclusão diversa, seria imprescindível reexaminar todo o conjunto fático-probatório dos autos, o que, como visto, é vedado.
+    Aplica-se ainda, à hipótese, a Súmula n.º 636/STF (‘Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida’).
+    Nada há, portanto, no acórdão impugnado que contrarie, in abstracto, os dispositivos constitucionais alegadamente violados. Note-se, ainda, que nem o julgado faz referência ou debate tais dispositivos, e isto mostra que eles não estão em jogo, no caso. Incide, no caso, também o verbete n.º 282 da súmula do Supremo Tribunal Federal ("É inadmissível recurso extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada").
+    De todo modo, verifica-se que o acórdão recorrido orientou-se exatamente no sentido da jurisprudência do Supremo Tribunal Federal sobre o tema, como se verifica a seguir:
+    […]
+    Por conseguinte, aplica-se também ao caso o Enunciado n.º 286 da Súmula de Jurisprudência do Supremo Tribunal Federal (‘Não se conhece do recurso extraordinário fundado em divergência jurisprudencial, quando a orientação do plenário do Supremo Tribunal Federal já se firmou no mesmo sentido da decisão recorrida.’).
+    Assim, não se vislumbra qualquer violação direta aos dispositivos constitucionais, à luz dos pressupostos de fato considerados pelo acórdão.
+    Do exposto, INADMITO o recurso.”
+    O agravo não pode ser conhecido. A petição recursal não impugnou os fundamentos da decisão ora agravada, limitando-se a sustentar a violação aos princípios da legalidade, ampla defesa, contraditório e devido processo legal, bem como a inaplicabilidade da Súmula 286/STF. Nesses casos, é inadmissível o agravo, conforme a orientação desta Corte. Veja-se, nesse sentido, a seguinte passagem da ementa do ARE 695.632-AgR/SP, julgado sob a relatoria do Ministro Luiz Fux:
+    “1. O princípio da dialeticidade recursal impõe ao recorrente o ônus de evidenciar os motivos de fato e de direito suficientes à reforma da decisão objurgada, trazendo à baila novas argumentações capazes de infirmar todos os fundamentos do decisum que se pretende modificar, sob pena de vê-lo mantido por seus próprios fundamentos.
+    2. O agravo de instrumento é inadmissível quando a sua fundamentação não impugna especificamente a decisão agravada. Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia. (súmula 287/STF).
+    3. Precedentes desta Corte: AI 841690 AgR, Relator: Min. Ricardo Lewandowski, DJe- 01/08/2011; RE 550505 AgR, Relator: Min. Gilmar Mendes, DJe- 24/02/2011; AI 786044 AgR, Relatora: Min. Ellen Gracie, DJe- 25/06/2010.”
+    Diante do exposto, com base no art. 932, III, do CPC/2015 e no art. 21, § 1º, do RI/STF, não conheço do recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 18 de maio de 2019.
+Ministro Luís Roberto Barroso
+Relator
