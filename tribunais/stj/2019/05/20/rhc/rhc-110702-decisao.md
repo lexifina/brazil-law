@@ -1,0 +1,26 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. DROGAS. PRISÃO CAUTELAR. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA. MANIFESTA ILEGALIDADE. PARECER ACOLHIDO. LIMINAR CONFIRMADA.
+Recurso provido.
+DECISÃO
+Ao que foi dito na decisão de fls. 81/83, acrescento estas palavras da Subprocuradora-Geral da República Mônica Nicida Garcia (fls. 116/119 - grifo nosso):
+ ..
+Tem razão a defesa quando aponta constrangimento ilegal no decreto prisional, já que ausente fundamentação concreta que indique a necessidade da medida extrema. Com efeito, não assinalou o Magistrado, minimamente, os indícios que o levaram a considerar o periculum libertatis e a necessidade de garantir a ordem pública.
+Como se constata, de plano, do decreto prisional transcrito no relatório, a custódia cautelar, em que pese a digressão doutrinária acerca da prisão preventiva e dos seus requisitos, ressente-se ele de motivação concreta.
+Esse o quadro, constatando-se que decisão que decretou a prisão preventiva é efetivamente genérica, limitando-se à menção aos requisitos legais da custódia cautelar, silente quanto a elementos minimamente concretos que justificassem a medida, é de rigor a sua revogação.
+O acórdão impugnado, ao destacar a quantidade e a quantidade de droga como justificantes da custódia cautelar, tentou, indevidamente, suprir deficiência do decreto prisional.
+A jurisprudência desse eg. STJ é firme e correta, ao assinalar a impossibilidade de que, no exame de ato ilegal, possa a instância revisora suprir-lhe o vício. Confiram-se:
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO INSUFICIENTE. HABEAS CORPUS CONCEDIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juízo de primeiro grau apontou de modo genérico a presença dos vetores contidos na lei de regência, sem indicar motivação suficiente para justificar a necessidade de colocar a paciente cautelarmente privada de sua liberdade.
+3. A jurisprudência desta Corte Superior é firme em assinalar que os fundamentos acrescidos pelo Tribunal a quo não se prestam a suprir a ausente motivação do Juízo singular, sob pena de, em ação constitucional concebida para a tutela da liberdade humana, legitimar-se o vício do ato constritivo ao direito de locomoção do réu.
+4. Habeas corpus concedido para, confirmada a liminar, cassar a decisão que decretou a prisão preventiva da paciente, ressalvada a possibilidade de nova decretação da custódia cautelar se efetivamente demonstrada a sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do CPP.
+(HC 449.285/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/06/2018, DJe 18/06/2018)
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. OPERAÇÃO QUEIMA-TOTAL. CONTRABANDO E FORMAÇÃO DE QUADRILHA. PRISÃO PREVENTIVA. JUÍZO FEDERAL NÃO APRESENTOU DE FORMA INDIVIDUALIZADA COMO A LIBERDADE DO PACIENTE PODERIA COLOCAR EM RISCO A INSTRUÇÃO CRIMINAL, A ORDEM PÚBLICA E, TAMPOUCO, TROUXESSE RISCO À ORDEM ECONÔMICA. FUNDAMENTOS ACRESCIDOS PELA CORTE FEDERAL. RECURSO EXCLUSIVO DA DEFESA. CONSTRANGIMENTO ILEGAL. OCORRÊNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. POSSIBILIDADE.
+1. A despeito de o Juízo federal tecer importantes considerações a respeito da operação criminal, não pontuou este de forma individualizada como a liberdade do ora paciente poderia colocar em risco a instrução criminal, a ordem pública e, tampouco, trouxesse risco à ordem econômica.
+2. Não cabe ao Tribunal de origem, em ação exclusiva da defesa, acrescentar fundamentos para justificar a manutenção da custódia, devendo cingir-se à análise dos argumentos lançados pelo Magistrado singular (RHC n. 75.559/MG, Sexta Turma, Ministro Antonio Saldanha Palheiro, DJe 30/5/2017).
+3. Ordem concedida, confirmando-se a liminar deferida, para substituir a prisão preventiva do paciente pelas seguintes medidas cautelares alternativas: a) comparecimento mensal em juízo para informar e justificar suas atividades (art. 319, I, do CPP); e b) proibição de ausentar-se do respectivo domicílio, sem prévia autorização do juízo (art. 319, IV, CPP).
+(HC 423.835/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/02/2018, DJe 26/02/2018)
+Nesse sentido, é de se confirmar, na íntegra, a decisão monocrática concessiva da liminar.
+Realmente, vê-se dos autos que a motivação adotada para decretar a prisão do recorrente é genérica e não se presta a justificar a medida extrema.
+Assim, acolhendo a opinião ministerial, confirmo a decisão liminar e dou provimento ao recurso para revogar a prisão preventiva de [NOME], se por outra razão não estiver preso e ressalvada a possibilidade de haver decretação de prisão e aplicação de medidas cautelares diversas no Juízo processante, caso se apresente motivo concreto para tanto, com a advertência de que deve permanecer no distrito da culpa, atendendo aos chamamentos judiciais.
+Publique-se.
