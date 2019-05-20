@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra decisão monocrática de e-STJ fls. 283/285, que não conheceu do recurso especial, em razão da ausência de prequestionamento.
+Em seu agravo regimental (e-STJ fls. 290/298), a parte recorrente alega que houve o prequestionamento da tese levantada em seu recurso especial.
+É o relatório.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+Discute-se no presente recurso acerca da possibilidade da aplicação, no âmbito da legislação penal militar, do art. 16 do CP (arrependimento posterior), à vista do disposto no art. 12 do mesmo diploma legal.
+Segundo o art. 12 do CP, as regras gerais deste Código aplicam-se aos fatos incriminados por lei especial, se esta não dispuser de modo diverso.
+Dispõe o art. 16 do CP que, nos crimes cometidos sem violência ou grave ameaça à pessoa, reparado o dano ou restituída a coisa, até o recebimento da denúncia ou da queixa, por ato voluntário do agente, a pena será reduzida de um a dois terços.
+Pela leitura do CPM, verifica-se que o arrependimento posterior, previsto no art. 16 do CP, não está na legislação penal militar, devendo ser aplicado ao caso em tela, com diminuição obrigatória da pena imposta ao acusado, como feito pela Corte de origem.
+O art. 12 do CP, como visto acima, estabelece que a parte geral do Código Penal é aplicada a toda legislação especial, salvo quando esta trouxer disposição em sentido contrário, tal como ocorre no presente caso.
+Assim, se o Código Penal Militar, que é lei especial, não prevê o instituto do arrependimento posterior, não há porque deixar de aplicá-lo aos condenados por crime militar.
+É que os benefícios contidos nos artigos 72, inciso III, alínea "b", e 303, §4º, do Código Penal Militar não caracterizam o instituto do arrependimento posterior (causa de diminuição), previsto no art. 16 do CP. Explico.
+A atenuante do art. 72, inciso III, aliena "b", do CPM também encontra-se prevista de forma idêntica no art. 65, inciso III, alínea "b", do CP, não se constituindo em obstáculo à aplicação do art. 16 do CP aos crimes militares.
+Quanto ao benefício contido no art. 303, §4º, do CPM, este é de aplicabilidade exclusiva ao crime de peculato culposo, não se estendendo, portanto, ao crime de peculato-furto pelo qual fora condenado o recorrido.
+Assim, como não consta na legislação penal o instituto do arrependimento posterior, causa de diminuição da pena, este deve ser aplicado aos crimes militares, prevalecendo a norma de caráter geral por ser a mais benéfica ao condenado.
+Nessa linha, o seguinte julgado da Suprema Corte:
+HABEAS CORPUS. CÓDIGO PENAL MILITAR, ART. 303, PAR. 2. DECISÃO DO STM QUE AFASTA A APLICAÇÃO DO ART. 16 DO CÓDIGO PENAL, NO ÂMBITO DO CPM, EM FACE DO PRINCÍPIO DA ESPECIALIDADE. 2. CÓDIGO PENAL,ART. 16. SUA APLICAÇÃO A FATOS INCRIMINADOS POR LEI ESPECIAL, SE ESTA NÃO DISPUSER DE MODO DIVERSO (CÓDIGO PENAL, ART. 12). 3. O ARREPENDIMENTO POSTERIOR (CP, ART. 16) NÃO ESTA PREVISTO NA LEGISLAÇÃO PENAL MILITAR. OS BENEFÍCIOS PREVISTOS NO CÓDIGO PENAL MILITAR (ARTS. 72, III, LETRA "B", E 240, PAR. 2.) NÃO CARACTERIZAM O ARREPENDIMENTO POSTERIOR A QUE SE REFERE O ART. 16 DO CÓDIGO PENAL. 4. O ARREPENDIMENTO POSTERIOR (CP, ART. 16) E CAUSA DE DIMINUIÇÃO DA PENA E NÃO MERA ATENUANTE. 5. HABEAS CORPUS DEFERIDO, PARA QUE, ANULADO O ACÓRDÃO, NO PONTO, NOVA DECISÃO SE PROFIRA, TENDO EM CONTA O ART. 16 DO CÓDIGO PENAL. (HC 71782, Relator(a): Min. NÉRI DA SILVEIRA, Segunda Turma, julgado em 26/04/1995, DJ 30-06-1995 PP-20517 EMENT VOL-01793-02 PP-00217)
+Ante o exposto, reconsidero a decisão agravada às e-STJ fls. 283/285 e, com fundamento no art. 932, inciso VIII, do CPC, c/c o art. 255, §4º, inciso II, do RISTJ, conheço e nego provimento ao recurso especial.
+Publique-se. Intimem-se.
