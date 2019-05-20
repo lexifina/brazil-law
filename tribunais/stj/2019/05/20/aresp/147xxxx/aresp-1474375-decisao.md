@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] [NOME] COMERCIO E INDUSTRIA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+CARTÃO DE CRÉDITO. Ação de cobrança. 1. Pessoa jurídica. Juntada de atos constitutivos. Desnecessidade. Inexistência de fundada dúvida acerca da regularidade da representação. 2. Comprovação do débito feita mediante a juntada das faturas comprovam a relação jurídica entre elas. Recurso não provido.
+Alega violação do art. 485, VI, do CPC, no que concerne à ilegitimidade do recorrido em razão da inexistência de vínculo obrigacional entre as partes, trazendo os seguintes argumentos:
+Esta "Ata de Assembleia e Incorporação" não vincula a [NOME] ao Banco Bradesco Cartões S/A, CNPJ 59.438.325/0001-01, assim, qual o motivo para que esta pessoa jurídica venha cobrar a Recorrente  (fl. 168).
+Se a referida ata não vincula as partes, somente um contrato escrito poderia fazê-lo. Todavia, como não existe este documento juntado aos autos, o Recorrido é parte ilegítima para quaisquer cobranças contra a [NOME] [NOME] (fl. 168).
+COMO CONSEQUÊNCIA LÓGICA, DEVERIA TER SIDO DECLARADA A INEXISTÊNCIA DE RELAÇÃO OBRIGACIONAL ENTRE A [NOME] [NOME] E O AUTOR DE CNPJ 59.438.325/0001-01 NA R. SENTENÇA E NO V. ACÓRDÃO (fl. 168).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Ainda que assim não fosse, é certo que, segundo o art. 75, VIII, do Código de Processo Civil, as pessoas jurídicas serão representadas em juízo, ativa e passivamente, por quem os respectivos estatutos designarem ou, não os designando, por seus diretores, mas não menos certo é que, inexistindo fundada dúvida acerca da regularidade da sua representação processual, não há que se considerar imprescindível a juntada aos autos de seus atos constitutivos (fl. 158).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"" (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EREsp n. 1.698.730/SP, relator Ministro Raul Araújo, Segunda Seção, DJe de 18/12/2018; e AgRg nos EAREsp n. 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
