@@ -1,0 +1,1 @@
+Art. 55-D. Ficam anistiadas as devoluções, as cobranças ou as transferências ao Tesouro Nacional que tenham como causa as doações ou contribuições feitas em anos anteriores por servidores públicos que exerçam função ou cargo público de livre nomeação e exoneração, desde que filiados a partido político.
