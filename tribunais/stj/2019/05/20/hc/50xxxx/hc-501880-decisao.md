@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], em face de acórdão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Consta dos autos que ao paciente foi deferido o pedido de progressão ao regime aberto pelo Juízo das Execuções, tomando por data-base o dia em que o apenado preencheu os requisitos legais para o regime intermediário.
+Interposto agravo em execução pelo Ministério Público, a Corte de origem deu provimento ao reclamo ministerial para cassar a decisão anterior, adotando como marco inicial a data da decisão concessiva do regime semiaberto.
+No presente writ, a Defensoria Pública sustenta, em síntese, que o atual entendimento sobre o tema é que a data base para a progressão ao regime aberto deve ser a data em que o sentenciado preencheu o lapso temporal para a progressão ao regime semiaberto, independentemente da data da decisão judicial que deferiu o benefício, tendo em vista seu caráter declaratório. Colacionou, nesse sentido, julgado desta Corte Superior.
+Requer, liminarmente, a suspensão dos efeitos do acórdão, e no mérito, a concessão da ordem para restabelecer a decisão do Juízo das Execuções, com a progressão de regime prisional ao aberto.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela concessão da ordem (fls. 117/118).
+É o relatório.
+DECIDO.
+A Corte de origem deu provimento ao reclamo ministerial para cassar a decisão anterior, que havia concedido o regime aberto ao paciente, adotando como marco inicial a data da decisão concessiva do regime semiaberto. Eis os fundamentos do voto de Relatoria, integrante do r. acórdão (fls. 110/115):
+Verifico que [NOME] cumpria pena em regime fechado (fls. 8/9).
+No dia 1º/FEV/2018, o Juiz da execução deferiu o pedido de [NOME], relativo à progressão para o regime semiaberto.
+Depois, homologou o cálculo da pena e considerou a data-base para a progressão ao regime aberto, o dia em que ele cumpriu o requisito objetivo para tanto e não a data em que foi concedida a progressão para o regime intermediário (fls. 62/63 e 71).
+O Magistrado não agiu com acerto, pois se fosse considerado o momento em que [NOME] atingiu o lapso necessário para a obtenção do regime aberto, iria ocorrer a denominada progressão por saltos, que não é admitida pelo nosso ordenamento jurídico. Ademais, os requisitos subjetivos podem mudar nesse período, até porque, nesse interstício, o réu pode cometer falta grave ou voltar a delinquir.
+ ..
+Aliás, o enunciado da Súmula 491 do Superior Tribunal de Justiça, dispõe que "é inadmissível a chamada progressão per saltum de regime prisional".
+Nestas condições, DOU PROVIMENTO ao recurso ministerial, para cassar a decisão guerreada.
+Verifica-se que o acórdão impugnado entendeu ser incabível a alteração da data-base para o dia em que o reeducando atingiu o requisito objetivo, mas sim, para quando efetivamente foi transferido para o novo regime.
+Quanto ao tema, sabe-se que, anteriormente, prevalecia na Sexta Turma desta Corte o entendimento de que a data-base para obtenção de nova progressão de regime prisional seria a data em que o beneficiário efetivamente passasse a cumprir a pena em outro regime.
+Entretanto, tal posicionamento foi modificado, passando-se a considerar como data-base para subsequente progressão de regime, aquela em que o reeducando preencheu os requisitos do art. 112 da Lei de Execução Penal e não aquela em que o Juízo das Execuções deferiu o benefício (HC 369.774/RS, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/11/2016, DJe 7/12/2016).
+Aliás, nesse sentido, de fato, já decidiu o Excelso Supremo Tribunal Federal:
+Habeas Corpus. 2. Execução Penal. Progressão de regime. Data-base. 3. Nos termos da jurisprudência do STF, obsta o conhecimento do habeas corpus a falta de exaurimento da jurisdição decorrente de ato coator consubstanciado em decisão monocrática proferida pelo relator e não desafiada por agravo regimental. Todavia, em casos de manifesto constrangimento ilegal, tal óbice deve ser superado. 4. Na execução da pena, o marco para a progressão de regime será a data em que o apenado preencher os requisitos legais (art. 112, LEP), e não a do início do cumprimento da reprimenda no regime anterior. 5. A decisão que defere a progressão de regime tem natureza declaratória, e não constitutiva. 6. Deve ser aplicada a mesma lógica utilizada para a regressão de regime em faltas graves (art. 118, LEP), em que a data-base é a da prática do fato, e não da decisão posterior que reconhece a falta. 7. Constrangimento ilegal reconhecido, ordem concedida. (HC 115254, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 15/12/2015, PROCESSO ELETRÔNICO DJe-036 DIVULG 25-2-2016 PUBLIC 26-2-2016.)
+Colhe-se do julgado que a natureza da decisão concessiva da progressão de regime é declaratória, e não constitutiva, razão pela qual o tempo em que o apenado fica no aguardo da análise do pedido será computado para fins de contagem do requisito objetivo temporal, sendo, pois, considerada, como termo a quo, a data em que o apenado teria direito, e não a data do efetivo ingresso no regime anterior.
+A nova concepção, a par de constituir, ainda que indiretamente, ofensa ao sistema progressivo, na medida em que passa a possibilitar a progressão per saltum, até então vedada, conforme Súmula 491/STJ, promove tratamento mais justo e mais digno ao apenado, que não mais será punido com a mora e a ineficiência do Estado.
+A propósito, também o seguinte precedente:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROGRESSÃO DE REGIME. MARCO INICIAL. DATA DA EFETIVA DO PREENCHIMENTO DOS REQUISITOS DO ART. 112 DA LEP. PRECEDENTE DO STF. AGRAVO PROVIDO.
+1. Revisão da jurisprudência da Quinta Turma desta Corte Superior, para adequar-se ao posicionamento firmado pelo Supremo Tribunal Federal no HC 115.254, Rel. Ministro GILMAR MENDES, SEGUNDA TURMA, julgado em 15/12/2015, DJe 26/2/2016, no sentido de que a data inicial para a progressão de regime deve ser aquela em que o apenado preencheu os requisitos do art. 112 da Lei de Execução Penal, e não a data da efetiva inserção do reeducando no atual regime.
+2. Aplica-se à progressão de regime, por analogia, o regramento da LEP sobre a regressão de regime em caso de falta grave (art. 118), que estabelece como data-base a prática do fato, e não da decisão posterior que reconhece a infração.
+3. É de se considerar a necessidade de que os direitos sejam declarados à época adequada, de modo a evitar que a inércia estatal cause prejuízo ao condenado.
+4. Agravo regimental a que se dá provimento. (AgRg no Resp n. 1.582.285/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 24/8/2016.)
+Ante o exposto, concedo o habeas corpus para restabelecer a decisão do Juízo das Execuções, com a progressão de regime prisional ao aberto.
+Comunique-se.
+Publique-se.
+Intimem-se.
