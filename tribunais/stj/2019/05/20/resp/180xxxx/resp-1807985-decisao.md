@@ -1,0 +1,31 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AGRAVO DE INSTRUMENTO. DECISÃO AFASTOU, EM SEDE DE CUMPRIMENTO DE SENTENÇA, A DISCUSSÃO ACERCA DA PRESCRIÇÃO DA PRETENSÃO INDENIZATÓRIA DA PARTE AUTORA E MANTEVE A CONDENAÇÃO DA RÉ AO PAGAMENTO DE MULTA E DE HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONFIGURADA. OCORRÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. VÍCIO NÃO CORRIGIDO NO JULGAMENTO DOS ACLARATÓRIOS. ANULAÇÃO DO ACÓRDÃO ESTADUAL QUE JULGOU OS EMBARGOS DE DECLARAÇÃO. RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+BRASIL KIRIN LOGÍSTICA E DISTRIBUIÇÃO LTDA (BRASIL KIRIN) interpôs agravo de instrumento contra decisão que, nos autos de ação indenizatória em fase de cumprimento de sentença, ajuizada por EDINILSON ROBERTO DE MORAES (EDNILSON), aplicou a multa e os honorários advocatícios no percentual de 10% , previsto no art. 523, § 1º, do NCPC, em virtude da ausência de deposito do valor considerado incontroverso pela executada.
+Ao jugar o agravo, a Corte bandeirante negou-lhe provimento, em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA FASE DE CUMPRIMENTO DE SENTENÇA ALEGAÇÃO DE PRESCRIÇÃO IMPOSSIBILIDADE EXCETO EM SE TRATANDO DE PRESCRIÇÃO SUPERVENIENTE À SENTENÇA - APLICAÇÃO DE MULTA E HONORÁRIOS ADVOCATÍCIOS DE 10% - AUSÊNCIA DE PAGAMENTO DA PARCELA CONSIDERADA INCONTROVERSA - ART. 523, §1º, DO CPC DECISÃO MANTIDA - AGRAVO NÃO PROVIDO, PREJUDICADO OS ACLARATÓRIOS (e-STJ, fl. 1.625).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 1.635/1.636 e 1.653/1.655).
+No recurso especial, interposto com esteio no art. 105, III, a e c, da Constituição Federal, BRASIL KIRIN alegou, a par de dissídio jurisprudencial, violação dos arts. 489, § 1º, IV, e VI, 507, 520, § 2º, 523, caput, e § 1º, e 1022 do NCPC; 177 do CC/16; 189, 193, 206, § 3º, V, 307 do CC/02. Sustentou, em suma (1) a existência de omissão e falta de fundamentação no acórdão, pois a corte de origem não enfrentou os fundamentos absolutamente relevantes aduzidos no agravo de instrumento, capazes de infirmar a conclusão jurídica conferida à causa; e, (2) não há falar em prescrição, pois não participou da fase de conhecimento e tampouco figurou como devedora no título executivo; e, (3) não há falar em mora sem que haja valor líquido, tão menos antes de o devedor sequer saber qual o valor devido.
+Após apresentadas as contrarrazões, o recurso foi admitido na origem. (e-STJ, fls. 1.776/1.781).
+É o relatório.
+DECIDO.
+O recurso comporta parcial acolhimento.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada omissão e falta de fundamentação (arts. 489, § 1º e 1022 do NCPC)
+BRASIL KIRIN alegou que o acórdão deixou de analisar questões indispensáveis para o desate da controvérsia, notadamente quanto à sua ilegitimidade passiva, pois não participou da fase de conhecimento da ação indenizatória e a ocorrência da prescrição da pretensão do autor, que só buscou reparação indenizatória quando transcorridos mais de 18 anos do evento alegadamente lesivo. ,
+E o Tribunal a quo, embora instado por meio da oposição de embargos de declaração em duas oportunidades, cingiu-se a afastar a possibilidade de reconhecimento da prescrição na fase de cumprimento de sentença e a manter a cobrança de multa de 10% e de honorários advocatícios, nos termos da fundamentação, abaixo:
+Em sede de impugnação ao título judicial, é admitida a alegação de prescrição superveniente à sentença.
+A prescrição anterior, não arguida na fase de conhecimento, insere-se no conceito de oportunidade de defesa perdida, e a força da coisa julgada emergente da sentença veda sua pronúncia na fase de cumprimento.
+Estando o feito em sede de cumprimento de sentença, a única prescrição que pode ser alegada pela parte ou conhecida de ofício pelo juízo é àquela superveniente à sentença.
+Quanto à condenação ao pagamento da multa de 10% e também de honorários advocatícios fixados no §1º do artigo 523 do CPC, de rigor, porquanto não providenciou o pagamento sobre a parcela considerada incontroversa.
+Ante o exposto, nego provimento ao recurso, prejudicado os aclaratórios (e-STJ, fl. 1626).
+Assim, tendo BRASIL KIRIN apresentado o presente recurso por ofensa ao art. 1.022 do NCPC e, em face da relevância da questão suscitada e da ausência de seu enfrentamento, tem-se por indispensável o debate acerca de tal ponto pelo Tribunal de origem, de modo que a prestação jurisdicional seja efetuada de forma completa. Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. PROVA PERICIAL. MOMENTO DE IMPUGNAÇÃO AO PERITO. PRECLUSÃO. NÃO OCORRÊNCIA.  .. . OMISSÕES RELEVANTES NO JULGADO (CPC, ART. 535). OCORRÊNCIA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.  ..
+8. Constatando-se violação ao art. 535, II, do CPC, por omissões acerca de questões nevrálgicas para a completa prestação jurisdicional, deve-se anular o v. acórdão recorrido para que, novamente, sejam julgados os embargos de declaração, sanando-se as omissões existentes e relevantes.
+9. Recurso especial parcialmente provido.
+(REsp nº 1.175.317/RJ, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe 26/3/2014).
+É medida de rigor, portanto, o retorno dos autos à Corte de origem para que sane a omissão aqui reconhecida, como entender de direito.
+Nessas condições, DOU PROVIMENTO ao recurso especial, para anular o acórdão proferido nos embargos de declaração opostos e determinar o retorno dos autos ao Tribunal de origem para que analise a questão trazida nos embargos de declaração (e-STJ, fls. 1.638/1.644), como entender de direito.
+Adverte-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao possível cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º, e 1.026, § 2º).
+Publique-se. Intimem-se.
