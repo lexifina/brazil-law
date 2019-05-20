@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PUBLIC EMPLOYEES" RETIREMENT SYSTEM OF MISSISSIPPI (SISTEMA DE APOSENTADORIA DOS FUNCIONÁRIOS PÚBLICOS DO MISSISSIPPI) à decisão que determinou a devolução dos autos sem cumprimento à Justiça rogante sem prejuízo da reapresentação da carta rogatória (fls. 366-369).
+O embargante sustenta que a decisão embargada é omissa, pois "não se manifestou sobre a existência de personalidade jurídica própria da interessada, uma vez que a existência de ação penal do sócio, réu denunciado pelo crime de corrupção, não é obstáculo a obrigação da pessoa jurídica de colaborar com o Poder Judiciário" (fl. 374).
+MPJ Consultoria Comercial EIRELI (fls. 378-382) e o Banco Bradesco S.A. (fls. 386 e 389) apresentaram impugnação aos embargos de declaração.
+Após nova vista, o Ministério Público Federal opinou pela rejeição dos declaratórios. Asseverou que é "claro que não se nega que a empresa tem personalidade jurídica própria, argumento que teria maior sentido se fosse o caso de discutir a responsabilidade patrimonial da empresa por ato do sócio. Mas aqui se cuida de produção de prova incriminatória do único sócio administrador da empresa e, mais ainda, as provas que foi possível apurar na "Operação Zelotes" são aquelas que estão juntadas na citada Ação Penal n. 0037645-54.2015.4.01.3400 e que, aliás, são objeto de outros dois pedidos de cooperação (CR 13.558/US e CR 13.559/US)" (fl. 396).
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cabe salientar que os arts. 378 e 380, II, do Código de Processo Civil explicitam que a ninguém é dado eximir-se do dever de colaborar com o Poder Judiciário e que incumbe ao terceiro, em relação a qualquer causa, exibir coisa ou documento que esteja em seu poder.
+Em princípio, o interessado que pugna pela incidência de cláusula de sigilo não pode eximir-se de colaborar com a Justiça, devendo responder aos questionamentos nos limites da ciência acerca dos fatos, observado o direito de abster-se de eventual autoincriminação (art. 379 do CPC).
+Esclareça-se ainda que o mero pedido de intimação para fornecimento de documentos não contraria o princípio nemo tenetur se detegere, como já decidido pela Corte Especial:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA CARTA ROGATÓRIA. ART.
+1.022, I, II E III, DO CPC/2015. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. PEDIDO DE APRESENTAÇÃO DE DOCUMENTOS. CONCESSÃO DE EXEQUATUR. GARANTIA CONTRA A AUTOINCRIMINAÇÃO PRESERVADA.
+ ..
+4. A intimação para fornecimento de documentos solicitados pela Justiça estrangeira não caracteriza, por si só, violação da garantia contra a autoincriminação e a concessão de exequatur não acarreta prejuízo aos direitos da parte.
+5. Ninguém pode eximir-se de colaborar com o Poder Judiciário, mas a parte tem o direito de não produzir prova contra si.
+6. Embargos de declaração rejeitados. (EDcl no AgInt na CR n. 10.604/EX, de minha relatoria, DJe de 13/12/2018.)
+Todavia, o Ministério Público Federal informou o seguinte (fl. 363):
+O interessado foi investigado na "Operação Zelotes" e figura como réu na Ação Penal n. 0037645-54.2015.4.01.3400, da 10ª Vara Criminal Federal do Distrito Federal". Portanto, "não obstante o princípio geral de que ninguém se exime do dever do colaborar com o Poder Judiciário para o descobrimento da verdade (CPC art. 378), o interessado está acobertado pelo direito de não produzir prova contra si próprio (CPC art. 404-III).
+Além disso, as provas que foram apuradas no "Operação Zelotes" são aquelas que estão juntadas na citada Ação Penal nº 0037645- 54.2015.4.01.3400 e que, aliás, são objeto de dois outros pedidos de cooperação (CR 13.558/US e CR 13.559/US).
+Assim, o órgão ministerial opinou pela devolução da presente carta rogatória à origem, reportando-se à manifestação na CR n. 13.520/US, para que se informe ao Juízo rogante que a prova que foi possível apurar é aquela que foi juntada aos autos da Ação Penal n. 0037645-54.2015.4.01.3400, da 10ª Vara Criminal Federal do Distrito Federal.
+Portanto, não padecendo a decisão embargada dos vícios que autorizariam a oposição dos presentes embargos (obscuridade, contradição, omissão ou erro material), inexiste irregularidade sanável nesta via.
+Ante o exposto, rejeito os embargos de declaração.
+Com fundamento no art. 216-X do RISTJ, determino a devolução dos autos à Justiça rogante após o trânsito em julgado, por intermédio da autoridade central competente.
