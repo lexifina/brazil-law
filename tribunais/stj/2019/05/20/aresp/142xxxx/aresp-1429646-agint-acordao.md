@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 20, §§ 3º E 4º, DO CPC/1973. MAJORAÇÃO DE HONORÁRIOS. EXCEPCIONALIDADE. NÃO OCORRÊNCIA. SÚMULA 7/STJ.
+1. A orientação da jurisprudência do Superior Tribunal de Justiça é no sentido de que, para o arbitramento da verba honorária, o julgador, na apreciação subjetiva, pode utilizar-se de percentuais sobre o valor da causa ou da condenação, ou mesmo de um valor fixo, não se restringindo aos percentuais previstos no § 3º do art. 20 do CPC/1973.
+2. O arbitramento da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática, insuscetível de reexame na via especial nos termos da Súmula 7/STJ, que assim orienta: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. Excepcionalmente, entretanto, entende-se cabível a readequação dos honorários se o valor fixado foi claramente irrisório ou exorbitante (v.g. REsp 1.387.248/SC, Corte Especial, Rel. Min. Paulo de Tarso Sanseverino, julgado em 7/5/2014, DJe 19/5/2014 - repetitivo), o que não ocorreu no caso dos autos.
+4. Vale frisar que, por ocasião do julgamento do AgRg no AREsp 532.550/RJ, realizado pela Segunda Turma na assentada de 2/10/2014, convencionou-se que a desproporção entre o valor da causa e o valor arbitrado a título de honorários advocatícios não denota, necessariamente, irrisoriedade ou exorbitância da verba honorária, que deve se pautar na análise da efetiva complexidade da causa e do trabalho desenvolvido pelo causídico no patrocínio dos interesses de seu cliente.
+5. A Corte Especial, ao julgar o EREsp 1.527.430/SC (acórdão por mim lavrado, DJe 17/4/2018) decidiu pela não adoção de um parâmetro objetivo para aferição da irrisoriedade dos honorários sucumbenciais, afastando a pretensão de que fosse fixado em 1% do valor da causa.
+6. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado pela Fazenda Nacional contra decisão que conheceu do agravo para não conhecer do recurso especial, mantendo o valor da condenação na verba honorária.
+Em suas razões, a parte agravante repisa os argumentos anteriormente expendidos, entendendo irrisórios os honorários advocatícios arbitrados. Afirma que não seria caso de aplicação da Súmula 7/STJ, uma vez que a matéria não dependeria de revolvimento probatório. Aponta, ainda, a existência de precedentes nos quais teriam ocorrido a majoração de honorários fixados na origem.
+Impugnação dos contribuintes às e-STJ, fls. 451-454.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): O presente recurso não merece prosperar.
+Quanto à fixação dos honorários advocatícios, a orientação da jurisprudência do Superior Tribunal de Justiça é no sentido de que, para o arbitramento da referida verba, o julgador, na sua apreciação subjetiva, pode utilizar-se de percentuais sobre o valor da causa ou da condenação, ou mesmo de um valor fixo, não se restringindo aos percentuais previstos nos §§ 3º e 4º do art. 20 do CPC/1973.
+Ademais, o arbitramento da verba honorária, na instância ordinária, é matéria de ordem fática, insuscetível de reexame na via especial, nos termos da Súmula 7/STJ, que assim orienta: "A pretensão de simples reexame de prova não enseja recurso especial."
+Excepcionalmente, entretanto, entende-se cabível a readequação dos honorários se o valor fixado foi claramente irrisório ou exorbitante (v.g. REsp 1.387.248/SC, Corte Especial, Rel. Min. Paulo de Tarso Sanseverino, julgado em 7/5/2014, DJe 19/5/2014 - repetitivo).
+Por ocasião do julgamento do AgRg no AREsp 532.550/RJ, realizado pela Segunda Turma na assentada de 2/10/2014, convencionou-se que a desproporção entre o valor da causa e o valor arbitrado a título de honorários advocatícios não denota, necessariamente, irrisoriedade ou exorbitância da verba honorária, a qual deve se pautar na análise da efetiva complexidade da causa e do trabalho desenvolvido pelo causídico no patrocínio dos interesses de seu cliente.
+Como já consignado anteriormente, na hipótese dos autos, o Tribunal de origem limitou-se a arbitrar a verba honorária em R$ 3.000,00 (três mil reais), sem adentrar em detalhes do caso concreto, o que não possibilitou a abertura da via recursal devido ao óbice da Súmula 7/STJ.
+No aspecto, o seguinte trecho do voto condutor dos embargos de declaração (e-STJ, fl. 190):
+E, como consignado na decisão agravada, não obstante tenha sido atribuído à causa o valor de R$ 2.424.227,15 (dois milhões, quatrocentos e vinte e quatro mil duzentos e vinte e sete reais e quinze centavos), e sem desmerecer o trabalho do profissional, não se trata de causa de grande complexidade a justificar a fixação dos honorários em montante superior a R$ 3.000,00 (três mil reais), valor que se harmoniza com os princípios da proporcionalidade e razoabilidade, nos termos do artigo 20, parágrafo 4º, do Código de Processo Civil.
+Vale frisar, ainda, que, muito embora o STJ possua precedentes que consideraram irrisórios honorários advocatícios fixados em percentual inferior a 1% do valor da causa, tais precedentes não estabeleceram um limite objetivo sobre o tema, que devem continuar sendo analisados caso a caso.
+A Corte Especial, em julgado recente (EREsp 1.527.430/SC, acórdão por mim lavrado, DJe 17/4/2018), decidiu pela não adoção de um parâmetro objetivo para aferição da irrisoriedade dos honorários sucumbenciais, afastando o pleito de que fosse fixada referida verba em 1% do valor da causa.
+Logo, inafastável a aplicação ao caso da vedação da Súmula 7/STJ.
+Não havendo, pois, nova motivação hábil para alterar o entendimento anteriormente exarado, mantenho a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
