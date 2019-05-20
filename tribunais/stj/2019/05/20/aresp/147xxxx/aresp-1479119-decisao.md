@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME], MÁQUINAS E SUPRIMENTOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/1988, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. PLANO QUE PREVIU A SUSPENSÃO DA EXIGIBILIDADE DAS GARANTIAS REAIS E FIDEJUSSÓRIAS. VIOLAÇÃO DOS ARTIGOS 49, § 1º E 50, § 1º DA LEI 11.101/2005. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO (fls. 375).
+Alega violação aos arts. 35, I, a; 59, segunda parte; e 61, § 2º, da Lei n. 11.101/2005 e negativa de vigência ao art. 166 do CC, no que pertine à ilegalidade do afastamento da "disposição de suspensão da exigibilidade das garantias até eventual convolação da recuperação judicial em falência, inclusive perante os devedores solidários, prevista no plano de recuperação" (fls. 388), mesmo tendo sido reconhecido pelo acórdão recorrido a novação estabelecida pela Lei n. 11.101/2005.
+Quanto à violação dos arts. 35, I, a; 59, segunda parte; e 61, § 2º, da Lei n. 11.101/2005, aduz o agravante:
+ ..  em que pese ter sido reconhecido que as garantias foram mantidas, o Tribunal de Justiça de São Paulo afastou a cláusula de suspensão da exigibilidade destas mesmas garantias, declarando nulo aquilo que foi acordado com a maioria dos credores presentes na assembleia geral de credores (fls. 389).
+Já quanto à negativa de vigência ao art. 166 do CC, argumenta que "foi reconhecida a nulidade da cláusula acordada entre a Recorrente e a maioria dos seus credores, mesmo que nenhuma das hipóteses de nulidade do negócio jurídico tenha ocorrido" (fls. 389).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 5 do STJ ("A simples interpretação de cláusula contratual não enseja recurso especial"), uma vez que a pretensão recursal demanda reexame de cláusulas contratuais.
+Nesse sentido: "E mesmo se superado tal obstáculo, constata-se que a controvérsia foi dirimida pelo Tribunal a quo com base na análise e interpretação de cláusulas contratuais, fato esse que impede o exame da questão por esta Corte, em face da vedação prevista na Súmula n. 5/STJ" (AgInt no AREsp n. 1.298.442/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no REsp n. 1.476.562/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 22/3/2019; AgInt nos EDcl no AREsp n. 1.278.998/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/3/2019; AgInt no AREsp n. 1.297.507/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/2/2019; e AgInt no REsp n. 1.768.401/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
