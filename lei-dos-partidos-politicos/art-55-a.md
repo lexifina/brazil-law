@@ -1,0 +1,1 @@
+Art. 55-A. Os partidos que não tenham observado a aplicação de recursos prevista no inciso V do caput do art. 44 desta Lei nos exercícios anteriores a 2019, e que tenham utilizado esses recursos no financiamento das candidaturas femininas até as eleições de 2018, não poderão ter suas contas rejeitadas ou sofrer qualquer outra penalidade.

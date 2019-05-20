@@ -1,0 +1,1 @@
+Art. 55-B. Os partidos que, nos termos da legislação anterior, ainda possuam saldo em conta bancária específica conforme o disposto no § 5º-A do art. 44 desta Lei poderão utilizá-lo na criação e na manutenção de programas de promoção e difusão da participação política das mulheres até o exercício de 2020, como forma de compensação.
