@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE. OMISSÃO. INEXISTÊNCIA. LEI LOCAL. TEOR E VIGÊNCIA. PROVA. SUFICIÊNCIA. TEMPO MÁXIMO DE ATENDIMENTO. CUMPRIMENTO IMPOSSÍVEL. GRAU DE RECALCITRÂNCIA DO OBRIGADO. MULTA. VALOR. PROPORCIONALIDADE. SÚMULA 7/STJ.
+1. Inexiste a omissão alegada, porquanto o acórdão expôs clara e especificamente seu posicionamento sobre a não incidência dos efeitos da declaração incidental de inconstitucionalidade de lei em feito diverso sobre a presente ação.
+2. O acolhimento das alegações recursais sobre a insuficiência dos documentos para provar o teor e vigência da lei local, a impossibilidade de cumprimento do tempo de atendimento estabelecido em lei e a desproporcionalidade da astreinte fixada esbarram no óbice da Súmula 7/STJ. Somente com o exame direto dos fatos e provas seria possível reverter as conclusões da instância ordinária.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado por Banco Bradesco S.A. contra decisão que conheceu em parte do recurso especial e, nessa extensão, deu-lhe provimento em parte, somente para afastar a multa por embargos indevidamente tidos como protelatórios (e-STJ, fls. 1.374-1.387).
+A parte insurgente aduz, em suma: i) nulidade por omissão quanto à inconstitucionalidade da lei ensejadora da multa em decisão transitada em julgado anteriormente; e ii) não incidência da Súmula 7/STJ (A pretensão de simples reexame de prova não enseja recurso especial) quanto à necessidade de comprovação da vigência das leis locais, de impossibilidade de cumprimento do tempo máximo fixado em lei e irrazoabilidade da multa e prazo de cumprimento da ordem fixados.
+Requer, assim, a submissão do feito ao colegiado.
+Impugnação às fls. 1.430-1.439 (e-STJ).
+Processo com prioridade legal (art. 12, § 2º, VII, do CPC/2015, combinado com as Metas 2/CNJ/2019 - "Identificar e julgar, até 31/12/2019, pelo menos, 99% dos processos distribuídos até 31/12/2014 e 95% dos distribuídos em 2015" - e 6/CNJ/2019 - "Identificar e julgar até 31/12/2019 80% dos recursos oriundos de ações coletivas distribuídos a partir de 1º/1/2015").
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): Conforme constou na decisão agravada, a Corte local asseverou seu entendimento, correto ou não, quanto à não incidência dos efeitos da declaração incidental de inconstitucionalidade das leis subjacentes ao caso no presente feito, nos seguintes termos (e-STJ, fls. 1.375-1.376):
+O reconhecimento incidenter tantum da inconstitucionalidade das leis em outro processo fica restrito a ele, por se tratar de controle difuso de constitucionalidade, e não produz efeitos erga omnes nem alcança outros processos, como quer o embargante.
+Nenhum reparo à decisão monocrática, portanto, quanto à inexistência da omissão alegada.
+Em relação à prova da vigência das leis locais, a parte agravante não infirma o fundamento da decisão singular de que a análise da suficiência probatória dos documentos demandaria exame direto desses registros. Conforme consignou o acórdão recorrido, no trecho transcrito na decisão monocrática (e-STJ, fl. 1.378):
+No caso em apreço, são prescindíveis tais comprovações, tendo em conta as cópias das leis trazidas com a petição inicial (f. 37-39) e a ausência de alegação fundamentada de que não estariam em vigor.
+A mera suscitação de dúvida, em contestação, a respeito do teor e da vigência das leis pelo réu não é suficiente para obstar o exercício da pretensão do autor.
+Assim, contrariar a conclusão da origem em relação à suficiência das cópias de leis juntadas na inicial para provar seu teor e vigência, nos termos da alegação recursal, esbarra no óbice da Súmula 7/STJ (A pretensão de simples reexame de prova não enseja recurso especial).
+No que tange à impossibilidade de cumprimento do tempo máximo fixado pela lei, o acórdão asseverou ser irrelevante a providência, posto que, objetivamente, foi comprovada a violação do prazo de espera. Isso porque a obrigação legal existia desde 2000, tendo havido tempo suficiente para afastar os óbices práticos alegados pelo banco, que deveria ter tomado as providências necessárias em termos de adaptação física e de pessoal. Consigna o acórdão, conforme registra a decisão singular, que nem mesmo passado mais de ano da concessão de tutela antecipada a entidade mobilizou-se para cumprir as imposições normativas, cuja ação civil pública apenas buscou efetivar.
+Nesse passo, tanto essa alegação quanto a de irrazoabilidade da multa incorrem, também, no óbice da Súmula 7/STJ, conforme aplicado pela decisão monocrática. A parte interessada não demonstra de que modo a mera análise de lei afastaria a conclusão da instância ordinária sobre os fatos.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
