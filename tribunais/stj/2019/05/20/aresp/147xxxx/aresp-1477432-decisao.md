@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por AMARILDO PIRES DA SILVEIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/1988, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+EMBARGOS À EXECUÇÃO CONFISSÃO DE DÍVIDA CASO CONCRETO MATÉRIA DE FATO ALEGAÇÃO DE SUCUMBÊNCIA RECÍPROCA PEDIDO DE REDIMENSIONAMENTO DOS ÔNUS SUCUMBENCIAIS APELO DESPROVIDO
+Quanto à controvérsia, pela alínea a, alega violação do art. 86 do CPC no que concerne à redistribuição dos honorários sucumbenciais em razão da sucumbência recíproca, trazendo os seguintes argumentos:
+Dessa forma, houve o acolhimento de parcela significativa dos Embargos à Execução, não havendo que se falar em decaimento mínimo (fls.129).
+É o relatório. Decido.
+Na espécie, ficou assim decidido pelo acórdão recorrido:
+Todavia, analisando detidamente o caso concreto, entendo correto o reconhecimento de sucumbência mínima do exequente.
+É que, compulsando os elementos apresentados, não se consegue verificar expressivo decaimento do embargado, porquanto ausente qualquer indicação acerca do montante a ser deduzido da execução em razão do parcial provimento dos embargos, o que não se pode simplesmente presumir (fls. 119).
+Portanto, no que concerne ao recurso, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, esta restringe-se aos casos em que fixadas na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível, em recurso especial, a revisão dos valores fixados a título de honorários advocatícios e astreintes, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ. Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância das importâncias arbitradas, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos" (AgInt no AREsp 1.340.926/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 28/2/2019).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1280289/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/3/2019, DJe de 21/3/2019; AgInt no AREsp 1.316.077/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/2/2019; AgInt no AREsp 1.341.142/RS, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/2/2019; e REsp 1.771.668/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 17/12/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
