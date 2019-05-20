@@ -1,0 +1,106 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. INTUITO PROTELATÓRIO. INCIDÊNCIA DA MULTA DO ART. 1.026, § 2º, DO NCPC. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+DECISÃO
+ANA GUIMARÃES (ANA) promoveu ação de adimplemento de obrigação sobre a dobra acionária e participação em ações de empresas incorporadas pela Telepar S.A. contra a OI S.A. - EM RECUPERAÇÃO JUDICIAL (OI), objetivando o recebimento de diferencial acionário.
+Em primeira instância, o pedido foi julgado procedente para condenar a OI a complementar a subscrição das ações, a prover a dobra acionária e a pagar indenização correspondente aos dividendos, bonificações, juros sobre capital próprio, assim como outras vantagens legais geradas pela diferença de quantidade de ações subscritas.
+A apelação interposta pela OI foi parcialmente provida pelo Tribunal de origem, nos seguintes termos:
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE ADIMPLEMENTO DE OBRIGAÇÃO SOBRE A DOBRA ACIONÁRIA E PARTICIPAÇÃO EM AÇÕES DE EMPRESAS INCORPORADAS.
+1. PRELIMINAR DE ILEGITIMIDADE PASSIVA. REJEIÇÃO. BRASIL TELECOM S.A. QUE FIGURA COMO SUCESSORA DA TELEPAR EM TODOS OS DIREITOS E OBRIGAÇÕES.
+2. PRELIMINAR DE FALTA DE INTERESSE DE AGIR QUANTO AO PEDIDO DE EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. INOCORRENCIA. DESNECESSIDADE DE PRÉVIO REQUERIMENTO ADMINISTRATIVO E DE COMPROVANTE DE PAGAMENTO DA TAXA DE CUSTO DO SERVIÇO.
+3. PRESCRIÇÃO. ART. 177 DO CC/1916 E ARTS. 205 E 2.028 DO CC/2002. PRAZO DECENÁRIO. PEDIDOS NÃO ALACANÇADOS PELOS EFEITOS DA PRESCRIÇÃO.
+4. DOBRA ACIONÁRIA. CISÃO DA TELEPAR FIXA EM TELEPAR CELULAR. DIREITO DOS ACIONISTAS AO MESMO NÚMERO E TIPO DE AÇÕES DE QUE ERAM TITULARES NA EMPRESA DE TELEFONIA FIXA.
+5. PARTICIPAÇÃO ACIONARIA NAS EMPRESAS INCORPORADAS PELA TELEPAR. ADMISSIBILIDADE. DIREITO DOS ACIONISTAS DA TELEPAR À SUBSCRIÇÃO DE AÇÕES DAS EMPRESAS INCORPORADAS.
+6. INDENIZAÇÃO. DIREITO A DIVIDENDOS, BONIFICAÇÕES E JUROS SOBRE CAPITAL PRÓPRIO. DECORRÊNCIA LÓGICA DO RECONHECIMENTO DO DIREITO À SUBSCRIÇÃO ACIONÁRIA.
+7. GRUPAMENTO DE AÇÕES. CÁLCULO DE CONVERSÃO DAS AÇÕES QUE DEVE OBSERVAR, NA FASE, DE LIQUIDAÇÃO, O GRUPAMENTO ACIONÁRIO. PROVIMENTO PARCIAL DO RECURSO.
+8. JUROS DE MORA. INCIDÊNCIA A PARTIR DA CITAÇÃO. ARTIGOS 397, PARÁGRAFO ÚNICO, DO CC E 219 DO CPC.
+1. A Brasil Telecom S.A., na condição de sucessora legal da Telepar, em razão do processo de privatização, detém legitimidade para: a) responder pela complementação acionária decorrente de contrato de participação financeira celebrado entre adquirente de linha telefônica e a antecessora incorporada; (b) responder pela dobra acionária no que tange às ações da Telepar Celular S.A., em decorrência da cisão parcial da companhia em móvel e fixa.
+2. Não há que se falar em falta de interesse de agir, quanto ao pedido de exibição incidental de documentos, ante a desnecessidade, na ação ordinária, do esgotamento da via administrativa e da prova do recolhimento da respectiva taxa, sob pena de ofensa ao princípio constitucional do livre acesso ao Poder Judiciário, insculpido no art. 5.º, XXXV da CF.
+3. Consoante entendimento assentado pelo STJ, em sede de recurso repetitivo, "nas demandas em que se discute o direito à complementação de ações em face do descumprimento de contrato de participação financeira firmado com sociedade anônima, a pretensão é de natureza pessoal e prescreve nos prazos previstos no artigo 177 do Código Civil revogado e artigos 205 e 2.028 do Novo Código Civil" (REsp. 1.033.241 -RS - Rel.
+Min. Aldir Passarinho Junior - DJe 05.11.08).
+4. A dobra acionária constitui direito dos acionistas da sociedade de telefonia fixa - Telepar S.A., de receber idêntico número e tipo de ações da sociedade de telefonia móvel - Telepar Celular S.A., por força da cisão parcial da Telepar fixa em Telepar móvel.
+5. Em razão da incorporação, pela Telepar, de diversas concessionárias de serviços de telecomunicação, é direito dos acionistas da Telepar a participação acionária nas empresas incorporadas.
+6. É devida indenização a título de dividendos, bonificações e juros sobre capital próprio, ao adquirente de linha telefônica, como decorrência lógica do reconhecimento do direito à subscrição acionária.
+7. Impõe-se a observância, na fase de liquidação da sentença que reconheceu o direito à conversão das ações em indenização, das operações de grupamento de ações, a fim de que não se promova o enriquecimento sem causa e o desequilibrio das relações societárias.
+8. Os juros de mora, à luz do disposto nos art. 397, parágrafo único, do CC e art. 219 do CPC, em se tratando de inadimplemento contratual, incidem a partir da citação.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO, POR MAIORIA DE VOTOS (e-STJ, fls. 514/516).
+Os embargos de declaração opostos pela OI foram rejeitados (e-STJ, fls. 558/563).
+Irresignada, a OI interpôs recurso especial, com fundamento no art. 105, III, alíneas a e c, da CF, sustentando dissídio jurisprudencial e violação dos arts. 535, II, 267, VI, do CPC/73, e 100, § 1º, da Lei nº 6.404/76.
+O apelo especial foi admitido na origem.
+Em decisão monocrática de minha lavra provi parcialmente o recurso especial para afastar a determinação de exibição de documentos que não tenham sido objeto de prévio requerimento administrativo e de pagamento do custo respectivo, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO CPC/73. AÇÃO DE ADIMPLEMENTO CONTRATUAL. EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. LEGITIMIDADE PASSIVA. RECONHECIMENTO. PRECEDENTE. CONTRATO DE PRESTAÇÃO DE SERVIÇO DE TELEFONIA. PRÉVIO REQUERIMENTO ADMINISTRATIVO E DE PAGAMENTO DE TAXA. RECURSO ESPECIAL PARCIALMENTE PROVIDO (e-STJ, fl. 937 - com destaques no original).
+Nestes aclaratórios, a OI alegou falta de interesse de agir implicando na extinção do processo, nos termos do art. 485, VI, do NCPC.
+Não houve impugnação ao recurso (e-STJ, fl. 955).
+Intimada, a OI insistiu no julgamento do seu recurso (e-STJ, fls. 961/967).
+É o relatório.
+DECIDO.
+O atual inconformismo não merece prosperar.
+De plano vale pontuar que a disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O acórdão recorrido não foi obscuro, omisso, contraditório e tampouco apresentou erro material, tendo concluído (1) ausência de violação do art. 535, II, do CPC/1973; e, (2) quanto a ilegitimidade passiva ad causam, o Tribunal de origem reconheceu a responsabilidade da empresa para arcar com a complementação acionária, estando seu posicionamento em conformidade com a jurisprudência da Segunda Seção desta Corte no sentido de que a sucessora é parte legítima para figurar no feito, respondendo pelas obrigações decorrentes do contrato de participação financeira da empresa sucedida com a parte autora; (3) em relação ao interesse de agir, a Segunda Seção desta Corte consolidou o entendimento de que nas ações em que se postula a obtenção de documentos com dados societários, para a caracterização do interesse de agir, é necessário o requerimento formal na via administrativa, além do comprovante de pagamento da taxa de serviço, quando a empresa o exigir (art. 100, § 1º, da Lei n. 6.404/1976) e que o entendimento da Súmula nº 389 do STJ, também é aplicável nas hipóteses de exibição incidental de documentos, sendo que o Tribunal de origem concluiu pela inaplicabilidade da citada Súmula para as demandas que contenham pedido incidental de documentos.
+Nesse sentido, confira-se o que ficou decidido no agravo em recurso especial:
+(1) Da alegada negativa de prestação jurisdicional violação do art. 535, II, do CPC/73)
+Não se verifica, no caso, a alegada vulneração do referido dispositivo legal, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas na medida necessária para o deslinde da controvérsia, notadamente quanto a ilegitimidade passiva e ao pedido de complementação de ações em razão da incorporação, não havendo falar em negativa de prestação jurisdicional.
+Desse modo, não há falar em deficiência de fundamentação da decisão pelo não acolhimento de teses ventiladas pela recorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+(2) Da ilegitimidade passiva ad causam
+Quanto ao tema, o Tribunal de origem reconheceu a responsabilidade da empresa para arcar com a complementação acionária.
+Tal posicionamento está em conformidade com a jurisprudência da Segunda Seção desta Corte no sentido de que a sucessora ser parte legítima para figurar no feito, respondendo pelas obrigações decorrentes do contrato de participação financeira da empresa sucedida com a parte autora.
+A propósito:
+RECURSO ESPECIAL REPETITIVO. CIVIL, EMPRESARIAL E PROCESSUAL CIVIL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. RETRIBUIÇÃO EM AÇÕES DA TELEBRAS. AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. LEGITIMIDADE PASSIVA DAS COMPANHIAS RESULTANTES DA CISÃO.
+1. Teses já firmadas pela Segunda Seção na vigência do art. 543-C do CPC/1973:
+1.1. A Brasil Telecom S/A, como sucessora por incorporação da Companhia Riograndense de Telecomunicações (CRT), tem legitimidade passiva para responder pela complementação acionária decorrente de contrato de participação financeira, celebrado entre adquirente de linha telefônica e a incorporada. (REsp 1.034.255/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe 11/05/2010).
+1.2. Legitimidade passiva da Brasil Telecom S/A para responder pelos atos praticados pela Telesc, quanto a credores cujo título não tiver sido constituído até o ato de incorporação, independentemente de se referir a obrigações anteriores, ante a sucessão empresarial. (REsp 1.322.624/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, DJe 25/06/2013).
+2. Nova tese acerca da legitimidade passiva, para os fins do art. 1.040 do CPC/2015: Legitimidade passiva da TELEBRAS, bem como das companhias cindendas (ou sucessoras destas), para a ação de complementação de ações, na hipótese em que as ações originárias tenham sido emitidas pela TELEBRAS.
+3. Síntese das teses firmadas, para os fins do art. 1.040 do CPC/2015: A legitimidade passiva para a demanda por complementação de ações é definida de acordo com as seguintes hipóteses:
+3.1. Contrato de participação financeira celebrado com companhia independente não controlada pela TELEBRAS (ex.: CRT S/A): legitimidade passiva da companhia independente, ou da sucessora desta (ex.: OI S/A);
+3.2. Contrato de participação financeira celebrado com companhia local controlada pela TELEBRAS (ex.: TELESC S/A), e emissão originária de ações pela controlada: legitimidade passiva da TELEBRAS, bem como das companhias cindendas (ou sucessoras destas);
+3.3. Contrato de participação financeira celebrado com companhia local controlada pela TELEBRAS, e emissão de ações pela TELEBRAS: legitimidade passiva da TELEBRAS, bem como das companhias cindendas (ou sucessoras destas).
+4. Caso concreto: 4.1. Inocorrência de omissão ou contradição no acórdão recorrido, tendo o Tribunal de origem fundamentado adequadamente o entendimento pela legitimidade passiva das companhias ora recorrentes. 4.2. Inviabilidade de se contrastar o entendimento do Tribunal de origem, firmado com base na radiografia do contrato trazida aos autos pela parte autora, no sentido de que as ações originárias tenham sido emitidas pela TELEBRAS. Óbice da Súmula 7/STJ. 4.3. Aplicação da tese 3.3 ao caso concreto, rejeitando-se as preliminares de ilegitimidade passiva suscitadas por cada uma das recorrentes.
+5. RECURSOS ESPECIAIS DESPROVIDOS (REsp 1.651.814/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Segunda Seção, DJe 1º/8/2018, Tema 910/STJ)
+(3) Do interesse de agir
+A Segunda Seção desta Corte, quando do julgamento do Recurso Especial nº 982.133/RS (Rel. Ministro ALDIR PASSARINHO JUNIOR, DJe 22.9.08), processado nos moldes do art. 543-C, do CPC, consolidou o entendimento de que nas ações em que se postula a obtenção de documentos com dados societários, para a caracterização do interesse de agir, é necessário o requerimento formal na via administrativa, além do comprovante de pagamento da taxa de serviço, quando a empresa o exigir (art. 100, § 1º, da Lei n. 6.404/1976), nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. FORNECIMENTO DE DOCUMENTOS COM DADOS SOCIETÁRIOS. RECUSA. RECURSO À COMISSÃO DE VALORES MOBILIÁRIOS. LEI N. 6.404/1976, ART. 100, § 1º. AUSÊNCIA DO COMPROVANTE DE RECOLHIMENTO DA "TAXA DE SERVIÇO". RECURSO ESPECIAL REPETITIVO. LEI N. 11.672/2008. RESOLUÇÃO/STJ N. 8, DE 07.08.2008. APLICAÇÃO.
+I. Falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não logra demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo, 1º da Lei 6.404/1976.
+II. Julgamento afetado à 2a. Seção com base no Procedimento da Lei n. 11.672/2008 e Resolução/STJ n. 8/2008 (Lei de Recursos Repetitivos).
+III. Recurso especial não conhecido.
+Em igual sentido:
+PROCESSO CIVIL. BRASIL TELECOM S/A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. REQUERIMENTO ADMINISTRATIVO PRÉVIO. NECESSIDADE. COBRANÇA DA TAXA DE SERVIÇO. LEGALIDADE. ART. 100, § 1º, DA LEI N. 6.404/1976. COBRANÇA DISPENSADA. ARGUMENTAÇÃO RECURSAL. INEXISTÊNCIA DE CORRELAÇÃO COM O DECIDIDO. INCIDÊNCIA DAS SÚMULAS N. 283 E 284 DO STF.
+1. Em ação de exibição de documento, carece de interesse de agir a parte que não demonstra ter apresentado requerimento administrativo para a obtenção de documentos nem comprova o pagamento da taxa de serviço quando exigido pela empresa com base no art. 100, § 1º, da Lei n. 6.404/1976.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no AREsp 401.887/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, DJe 15/4/14)
+Registre-se, por oportuno, que o entendimento do enunciado 389, da Súmula do STJ, também é aplicável nas hipóteses de exibição incidental de documentos, conforme se verifica dos seguintes precedentes, verbis:
+AGRAVO REGIMENTAL NA PETIÇÃO. RECURSO ESPECIAL RETIDO. RECURSO ESPECIAL RETIDO. ART. 542, § 3º, DO CPC PRETENSÃO AO REGULAR PROCESSAMENTO. EXIBIÇÃO INCIDENTAL DE CONTRATO DE PRESTAÇÃO DE SERVIÇO DE TELEFONIA COM CLÁUSULA DE PARTICIPAÇÃO FINANCEIRA. NÃO PAGAMENTO DO CUSTO DO SERVIÇO. SÚMULA 389/STJ.
+ ..
+3. A plausibilidade do direito invocado encontra-se no fato de a questão tratada no recurso especial já ter sido objeto de julgamento pelo Superior Tribunal de Justiça, que tem se posicionado no sentido de ser aplicável o entendimento da Súmula 389/STJ aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira.
+4. Agravo regimental não provido, com aplicação de multa.
+(AgRg na Pet 10.183/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 10/12/13)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. SUBSCRIÇÃO DE AÇÕES. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE INTERESSE DE AGIR. TESE FIRMADA SOB O RITO DOS RECURSOS REPETITIVOS. PRETENSÃO INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. MANUTENÇÃO INTEGRAL DA DECISÃO AGRAVADA.
+ ..
+3. A Segunda Seção desta Corte, quando do julgamento do Recurso Especial nº 982.133/RS (Rel. Ministro ALDIR PASSARINHO JUNIOR, DJe 22.9.08), processado nos moldes do art. 543-C do CPC, consolidou o entendimento de que, nas ações em que se postula a obtenção de documentos com dados societários, para a caracterização do interesse de agir, é necessário o requerimento formal na via administrativa, além do comprovante de pagamento da taxa de serviço, quando a empresa o exigir (art. 100, § 1º, da Lei n. 6.404/1976) 4. Agravo regimental não provido.
+(EDcl no REsp 1.422.940/PR, de minha relatoria, Terceira Turma, DJe 18/6/2015)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DEMANDA ORDINÁRIA DE COMPLEMENTAÇÃO DE SUBSCRIÇÃO DE AÇÕES. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AQUISIÇÃO DE LINHA TELEFÔNICA. EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE PAGAMENTO DO CUSTO DO SERVIÇO. CARÊNCIA DE AÇÃO POR FALTA DE INTERESSE DE AGIR.
+1. De acordo com o entendimento firmado no julgamento do Recurso Especial 982133/RS, afetado à Segunda Seção, com base no procedimento da Lei de Recursos Repetitivos, "falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não lograr demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo 1º da Lei 6.404/1976". Súmula 389 do Superior Tribunal de Justiça (STJ).
+2. O entendimento da Súmula 389 do STJ aplica-se aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira. Precedentes.
+3. Caso em que a parte autora não fez a prévia solicitação administrativa.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 812.092/PR, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 27/5/2016)
+Ademais, esse entendimento não se restringe ao processo cautelar porque, conforme ensina Theotônio Negrão, "a exibição de documentos pode ser requerida em sede de cautelar, e incidentalmente na ação principal" (Código de Processo Civil e legislação processual em vigor, Editora Saraiva, 42ª edição, página 898).
+No caso em apreço, o Tribunal de origem concluiu pela inaplicabilidade da Súmula nº 389 desta Corte as demandas que contenham pedido incidental de documentos.
+Nessas condições, DOU PARCIAL PROVIMENTO ao recurso especial para afastar a determinação de exibição dos documentos que não tenham sido objeto de prévio requerimento administrado e de pagamento do custo respectivo (e-STJ, fls. 937/945 - com destaques no original).
+Vale salientar que os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Assim, considerando anterior advertência quanto à aplicabilidade das normas do NCPC, inclusive no que tange ao cabimento de multa, uma vez verificada a rejeição dos presentes aclaratórios com pretensão de efeito infringentes, postergando a efetividade da prestação jurisdicional, condeno a OI, ao pagamento da multa de 2% sobre o valor atualizado da causa em favor de ANA, nos termos do art 1.026, § 2º, do NCPC, observada a suspensão da exigibilidade dos ônus sucumbencias, a teor do art. 98, § 3º, do mesmo diploma legal.
+Nessas condições, REJEITO os embargos de declaração, com aplicação de multa.
+Publique-se. Intimem-se.
