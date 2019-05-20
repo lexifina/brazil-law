@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de DIEGO PARANHOS DOS SANTOS contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que o paciente foi condenado à pena de 7 anos, 2 meses e 18 dias de reclusão, a ser cumprida em regime inicial fechado, e ao pagamento de 30 dias-multa, como incurso nas sanções do art. 157, § 2º, I e II, duas vezes, na forma do art. 71, ambos do Código Penal (e-STJ, fls. 18-21).
+Irresignada, a defesa apelou ao Colegiado de origem, que deu parcial provimento ao recurso apenas para reduzir o aumento da pena na terceira fase da dosimetria a 3/8 e, por isso, estabelecer a reprimenda em 7 anos de reclusão e 28 dias-multa (e-STJ, fls. 42-62).
+Neste writ, a Defensoria Pública estadual sustenta, em síntese, que: a) "a maior periculosidade evidenciada pelo uso de arma de fogo, conforme descrito no acórdão ora atacado, já foi valorada pelo legislador ao prever a ameaça como causa de aumento de pena"; b) "a determinação do regime inicial de cumprimento da pena, na verdade, como o próprio Código Penal prescreve, far-se-á com observância dos critérios previstos no art. 59"; c) "o Paciente é primário e possui bons antecedentes, conforme demonstra sua FAC, tendo sua pena-base sido fixada no mínimo legal" (e-STJ, fls. 3-9).
+Pugna, assim, pela concessão da ordem a fim de estabelecer o regime prisional semiaberto para o início do desconto da sanção corporal.
+Indeferido pedido liminar (e-STJ, fl. 65), a Subprocuradoria-Geral da República manifestou-se pelo não conhecimento do mandamus ou pela denegação da ordem (e-STJ, fls. 70-73).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Está inscrito no acórdão ao impugnado:
+"1ª E 2ª FASES: Mantida a valoração pelos maus antecedentes como já citado, recrudesce-se a reprimenda em 1/8 (um oitavo), que passa a ser de 04 (QUATRO) ANOS E 06 (SEIS) MESES DE RECLUSÃO E 11 (ONZE) DIAS-MULTA, no valor estabelecido na sentença, inexistindo atenuantes e agravantes a serem analisadas.
+3ª FASE: Em razão das majorantes previstas nos incisos I e II, §2º, do artigo 157 do Código Penal, e, reduzida a elevação de 3/8 (três oitavos) para 1/3 (um terço) fixo-a em 06 (SEIS) ANOS DE RECLUSÃO E 14 (QUATORZE) DIAS-MULTA, no mesmo valor.
+Por fim, atenta às disposições do artigo 71 do Código Penal, exaspero a resposta penal de, apenas, um dos crimes, por serem iguais, em 1/6 (um sexto) pela continuidade delitiva, aquietando-a, definitivamente, em 07 (SETE) ANOS DE RECLUSÃO E 28 (VINTE E OITO) DIAS-MULTA (artigo 72 do Código Penal), de igual valor.
+No tocante à fixação do regime prisional, mantém-se o FECHADO, porque apesar da quantidade da sanção, a Juíza de 1ª Instância decidiu pela imposição do mais gravoso ao valorar a qualidade da pena e seu caráter preventivo: (..) Estabeleço o regime fechado para início do cumprimento da pena, por entender ser o necessário para a reprovação e prevenção do crime, o qual foi cometido mediante violência e grave ameaça. (..) (item 000180).
+Neste sentido a Súmula 381 desta Corte de Justiça: "O emprego da arma de fogo na prática de roubo, vinculada à maneira de agir do acusado no caso concreto, constitui fundamento idôneo para a imposição de regime inicial fechado, mesma na hipótese de a pena-base haver sido fixada no mínimo legal" (e-STJ, fls. 60-61).
+Com efeito, razão não assiste ao impetrante quanto ao pleito de fixação de meio prisional menos severo ao paciente.
+Isso porque, estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do CP, admite-se a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu.
+A seguir, parcialmente, ementas de acórdãos desta Corte versando a respeito da matéria e que respaldam essa solução:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO (ARTIGO 157, § 2º, INCISO I, DO CÓDIGO PENAL). REGIME INICIAL FECHADO FIXADO COM BASE EM CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. MANUTENÇÃO JUSTIFICADA. CONSTRANGIMENTO NÃO EVIDENCIADO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que a escolha do sistema prisional não está atrelada, de modo absoluto, ao quantum de pena firmada, devendo-se considerar as demais circunstâncias do caso concreto.
+2. Com efeito, não é possível constatar flagrante ilegalidade na imposição do regime inicial fechado ao paciente, pois, embora a sua pena tenha sido fixada em patamar inferior a 8 (oito) anos de reclusão, a existência de circunstância judicial desfavorável, a exemplo dos maus antecedentes, indica que o modo mais gravoso de execução mostra-se adequado na espécie.
+ ..
+2. Agravo regimental improvido."
+(AgRg no HC 326.343/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/11/2015, DJe 25/11/2015, grifou-se.)
+"HABEAS CORPUS. ART. 1º, II, DA LEI N. 8.137/1990, POR QUATRO VEZES, NA FORMA DO ART. 71 DO CP. PRIMEIRA FASE DA DOSIMETRIA. CULPABILIDADE DESFAVORÁVEL. ELEMENTOS CONCRETOS INDICADOS PELO JULGADOR. WRIT DENEGADO.
+1. A revisão da dosimetria da pena no habeas corpus somente é permitida nas hipóteses de falta de fundamentação concreta ou quando a sanção aplicada é notoriamente desproporcional e irrazoável diante do crime cometido.
+2. A vetorial culpabilidade, analisada como maior grau de censurabilidade da conduta, deve ser mantida quando o acórdão registra a maneira articulada do réu para cometer a sonegação fiscal, pois ele, de forma engenhosa, criou uma empresa formalmente integrada por sócios que, em verdade, não compunham a sociedade empresarial, com a intenção preordenada de lesar o erário. Tal reprovabilidade não é inerente ao tipo penal, pois a fraude fiscal prescinde da criação de empresa de fachada. É inviável a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos ao réu primário e condenado a reprimenda inferior a 4 anos de reclusão quando há registro de circunstância judicial desfavorável (culpabilidade), consoante o teor dos arts. 33, § 3º e 44, III, ambos do CP.
+ ..
+6. Habeas corpus denegado."
+(HC 335.245/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/12/2015, DJe 11/12/2015, grifou-se.)
+No caso, malgrado a primariedade do réu e o fato dele ter sido condenado ao cumprimento de pena superior a 4 anos e inferior a 8 anos de reclusão, os seus maus antecedentes implicaram fixação da básica acima do piso legal, devendo ser mantido o regime prisional fechado, conforme a dicção do art. 33, §§ 2º e 3º, do CP.
+Ante o exposto, não conheço do writ.
+Publique-se. Intimem-se.
