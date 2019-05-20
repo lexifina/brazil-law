@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por FAZENDA DO ESTADO DE SÃO PAULO em face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado (e-STJ fl. 699):
+RECURSOS OFICIAL E DE APELAÇÃO - AÇÃO DE PROCEDIMENTO ORDINÁRIO - DIREITO ADMINISTRATIVO - CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO E CONSERVAÇÃO DE ELEVADORES - PRETENSÃO À NULIDADE DO PROCESSO ADMINISTRATIVO E DA RESPECTIVA MULTA PECUNIÁRIA - CERCEAMENTO DE DEFESA - POSSIBILIDADE. 1. Preliminarmente, interesse processual, reconhecido. 2. No mérito, a parte autora postulou e justificou a pertinência quanto à produção de prova pericial e testemunhal. 3. Controvérsia fática, plenamente estabelecida nos autos do processo administrativo. 4. O encerramento do processo administrativo, nestas condições, é prematuro e acarretou o alegado cerceamento da atividade probatória da parte autora. 5. Nulidade do processo administrativo e da respectiva multa pecuniária, reconhecida. 6. Incidência de correção monetária, de acordo com o IPCA, desde o adimplemento da multa pecuniária e juros de 0,5% ao mês, a partir da citação, a título de observação. 7. Ação de procedimento ordinário, julgada procedente. 8. Sentença, ratificada, inclusive, com relação aos ônus decorrentes da sucumbência. 9. Recursos oficial e de apelação, apresentado pela parte ré, desprovidos, com observação.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta violação aos arts. 1.022, do CPC/2015, 78, I, e 87, II, da Lei nº 8.666/93 e Lei 11.960/09.
+Em síntese, aduz que o Tribunal de origem: a) deixou de enfrentar todas as questões suscitadas nos embargos de declaração; b) afastou a sanção aplicada por entender que houve violação a ampla defesa, mas não afastou as condutas da recorrida; c) determinou a aplicação do IPCA-E no período anterior a 25/03/2015, contrariamente à tese fixada no Tema 810 do STF.
+A inadmissão do recurso especial se fez à consideração de que: i) quanto aos juros moratórios e correção monetária inerentes à Lei nº 11.960/2009, julgou-se prejudicado o recurso devido ao julgamento definitivo do tema em sede de repetitivo - Tema 905; ii) não se verificou a apontada ofensa ao art. 1022 do CPC/2015 porquanto todas questões foram apreciadas; iii) rever o entendimento adotado demandaria revolvimento do acervo fático-probatório, inviável nos termos da Súmula 7/STJ.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente agravo não pode ser conhecido, pois "compete ao agravante, em sede de agravo regimental, infirmar especificamente os fundamentos da decisão agravada, nos termos da Súmula 182/STJ, sendo insuficiente repetir as mesmas razões expendidas no recurso especial"(AgRg nos EREsp 443.065/PR, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 20/09/2010).
+Da leitura da decisão de inadmissibilidade observa-se que o Tribunal de origem concluiu que inexiste violação ao artigo 1022 do CPC/2015, bem como incide o óbice da Súmula 7/STJ por demandar reexame de provas.
+Contudo, do exame do agravo interposto, observa-se que a agravante furtou-se de impugnar especificamente o fundamento de inadmissibilidade - Súmula 7/STJ, limitando-se a repisar as razões já apresentadas no apelo especial e a alegar que não há pretensão de reexame de provas.
+A afirmação de que "a matéria é unicamente de direito" revela combate não específico e inapto a reformar a decisão agravada, porque compete à parte agravante demonstrar de que forma a violação aos artigos suscitada nas razões recursais não depende de reanálise do conjunto fático-probatório dos autos.
+Assim, o agravo em recurso especial carece de fundamentação, não se conhecendo do agravo que não tenha atacado específica e suficientemente os fundamentos da decisão de inadmissibilidade.
+A jurisprudência do STJ é assente no sentido de que impugnação à fundamentação contida na decisão agravada deve ser específica e suficientemente fundamentada e atacar todos os pontos do decisum.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PROVAS. REEXAME INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Decisão que nega seguimento a recurso especial invocando a incidência da Súmula nº 7/STJ. Fundamento inatacado. Repetição das razões do recurso especial. Nas razões do agravo regimental, devem ser expressamente impugnados os fundamentos lançados na decisão hostilizada. Incidência da Súmula 182 do Superior Tribunal de Justiça.
+ ..
+3. Agravo regimental não provido.
+(AgRg no REsp 688.656/MG, Rel. Min. RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 07/02/2012)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO OBJETIVA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA E REPETIÇÃO, COM PEQUENOS ACRÉSCIMOS, DO ARRAZOADO EXPENDIDO NO RECURSO ESPECIAL. SÚMULA 182/STJ CORRETAMENTE APLICADA PELA DECISÃO AGRAVADA. RECURSO IMPROVIDO.
+1. "Se a agravante se limita a repetir, ipsis literis, as razões do especial, sem demonstrar qualquer peculiaridade que diferenciasse a hipótese em exame das demais situações que levaram à aplicação dos verbetes citados pelo magistrado a quo quando da inadmissão do recurso especial, é incidente a Súmula n. 182 do Superior Tribunal de Justiça  .. ." (AgRg no Ag 1005201/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/08/2008, DJe 24/09/2008) 2. Ademais, incabível qualquer discussão a respeito de multa cominatória em ação de exibição de documentos pela incidência da Súmula 372 desta Corte.
+3. Agravo regimental improvido.
+(AgRg no Ag 1.139.882/SP, Rel. Min. LUIS FELIPE SALOMÃO, Quarta Turma, DJe 10/05/2010)
+Ademais, é entendimento consolidado no âmbito do STJ segundo o qual o Tribunal de origem não usurpa competência desta Corte ao adentrar no mérito do recurso especial ainda no juízo prévio de admissibilidade, por constituir atribuição do Tribunal examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+ ..
+2. Nos termos da Súmula 123/STJ, é possível ao Tribunal de origem, em exame de admissibilidade, analisar o mérito do recurso especial sem que isso configure usurpação de competência. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 229.193/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/02/2013, DJe 26/02/2013)
+Por fim, é dever do agravante demonstrar o desacerto do magistrado ao fundamentar a decisão impugnada, atacando especificamente e em sua totalidade o seu conteúdo, o que não ocorreu na espécie, uma vez que as razões apresentadas contra a decisão de inadmissibilidade do recurso especial têm conteúdo genérico.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
