@@ -1,0 +1,24 @@
+DECISÃO
+    Trata-se de Recurso Extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 78, Vol. 1):
+    “AGRAVO DE INSTRUMENTO - Precatório Necessidade de complementação por insuficiência decorrente de pagamento com atraso - Diferenças apuradas - Determinação de expedição de ofício requisitório complementar viável, para além de já coberta pela preclusão. RECURSO NÃO PROVIDO.
+    Viável a expedição de ofício requisitório complementar, para pagamento de diferenças apuradas por erro material,inexatidão de cálculo, ou por pagamento feito com atraso,que não pode ser revista, inclusive pela ocorrência da preclusão temporal.”
+    Nas razões recursais, com fundamento no art. 102, III, a, da Constituição Federal, a parte recorrente aponta violação ao art. 5º, II e XXIV; e 100, da CF/1988 e ao que foi decidido na ADI 2924.
+    Em contrarrazões, alega-se a ausência de prequestionamento da matéria, e, no mérito, postula seja negado provimento ao apelo extremo (fls. 138-143, Vol. 1).
+    Em juízo retratação, o Tribunal de origem entendeu não se aplicar, ao caso, o Tema 266 (RE 605.481) da repercussão geral, em acórdão assim ementado (fls. 5-7, Vol. 2):
+    “AGRAVO DE INSTRUMENTO - Recurso Extraordinário - Juízo de retratação - Ausência de requisitos para o depósito prioritário de precatório - Devolução à Turma Julgadora, pela Presidência da Seção de Direito Público, em face do julgamento, pelo C. STF, do RE nº 605.481/SP - Não aplicação no caso em tela. DECISÃO NÃO RETRATADA.”
+    É o relatório. Decido.
+    Os pressupostos gerais de recorribilidade do extraordinário encontram-se preenchidos e a matéria recursal apresenta-se devidamente prequestionada. Passo ao exame do mérito do apelo.
+    O recurso merece ser provido.
+    Efetivamente, o Tema 266, em que se discute “à luz do art. 100 e parágrafos, da Constituição Federal, a necessidade, ou não, da citação da Fazenda Pública para expedição de precatório complementar” não se enquadra na presente controvérsia.
+    Ademais, conforme entendimento consagrado no SUPREMO TRIBUNAL FEDERAL, será necessária a expedição de precatório complementar ou suplementar apenas quando houver erro material, inexatidão aritmética ou substituição de índices por força de lei.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “CONSTITUCIONAL. PRECATÓRIO. CRÉDITO COMPLEMENTAR: NOVO PRECATÓRIO. Regimento Interno do Tribunal de Justiça do Estado de São Paulo, inciso V do art. 336. CF, art. 100. Interpretação conforme sem redução do texto. I. - Dispõe o inciso V do art. 336 do Regimento Interno do Tribunal de Justiça do Estado de São Paulo que ‘para pagamentos complementares serão utilizados os mesmos precatórios satisfeitos parcialmente até o seu integral cumprimento’. Interpretação conforme, sem redução do texto, para o fim de ficar assentado que "pagamentos complementares", referidos no citado preceito regimental, são somente aqueles decorrentes de erro material e inexatidão aritmética, contidos no precatório original, bem assim da substituição, por força de lei, do índice aplicado. II. - ADI julgada procedente, em parte.” (ADI 2924, Rel. Min. CARLOS VELLOS, Tribunal Pleno, DJe de 6/9/2007)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. FINANCEIRO. PRECATÓRIOS. COMPLEMENTAÇÃO DE PRECATÓRIO ORIGINAL. NÃO CONFIGURAÇÃO DAS HIPÓTESES PERMISSIVAS. NECESSIDADE DE EXPEDIÇÃO DE NOVO PRECATÓRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - A complementação de precatório original apenas pode ocorrer em três hipóteses: a) erro material; b) inexatidão aritmética; c) substituição do índice aplicado ao caso, por força normativa. ADI 2.024/SP, Rel. Min. Carlos Velloso. II - A não verificação de uma das hipóteses permissivas enseja a expedição de novo precatório, observada a vedação do § 8º do art. 100 da CF/1988. III - Agravo regimental a que se nega provimento.” (ARE 722.803/SP-AgR, Segunda Turma, Rel. Min. RICARDO LEWANDOWSKI, DJe de 15/8/2014)
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. SALDO REMANESCENTE. PRECATÓRIO COMPLEMENTAR. IMPOSSIBILIDADE. NECESSIDADE DE EXPEDIÇÃO DE NOVO PRECATÓRIO. PRECEDENTES. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AGRAVO INTERNO DESPROVIDO. (RE 1.065.086-AgR/SP, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 6/9/2018)
+     O acórdão recorrido divergiu da orientação deste Tribunal, razão pela qual merece reforma.
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, DOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO, de modo a determinar a expedição de novo precatório e o cancelamento do ofício encaminhado ao DEPRE.
+    Publique-se.
+    Brasília, 20 de maio de 2019.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
