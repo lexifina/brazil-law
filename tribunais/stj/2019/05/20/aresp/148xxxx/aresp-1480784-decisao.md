@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo apresentado por ESTADO DO RIO GRANDE DO NORTE, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, III, "a", da CF de 1988, visa reformar acórdão proferido por TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE, assim ementado:
+PROCESSUAL CIVIL RECLAMAÇÃO ALEGAÇÃO DE DESCUMPRIMENTO DE ACÓRDÃO DESTE TRIBUNAL, PROFERIDO EM MANDADO DE SEGURANÇA DECISÃO CONCESSÃO DE APOSENTADORIA ESPECIAL À IMPETRANTE. IMPLANTAÇÃO DE PROVENTOS PROPORCIONAIS À SERVIDORA INGRESSO NO SERVIÇO PÚBLICO ANTERIOR ÀS EC Nº 20/98 E Nº 41/03 LABOR ININTERRUPTO EM CONDIÇÕES INSALUBRES, QUE IMPOSSIBILITARIA A APOSENTAÇÃO COM INTEGRALIDADE DE PROVENTOS, EM CASO DE INTERPRETAÇÃO DIVERSA. LEI COMPLEMENTAR REGULAMENTADORA DA APOSENTADORIA ESPECIAL DOS SERVIDORES PÚBLICOS, NOS CASOS DO ART. 40, § 4º DA CONSTITUIÇÃO FEDERAL, AINDA NÃO EDITADA. NÃO APLICAÇÃO DO ART 67, CAPUT DA LCE Nº 308/05 À PRESENTE SITUAÇÃO PRECEDENTES DESTA CORTE PROCEDÊNCIA DA RECLAMAÇÃO.
+Alega violação arts. 502, 503, 504-1, 505, 507 do CPC, no que concerne à violação à coisa julgada, trazendo os seguintes argumentos:
+A decisão sob vergasta, ao dar procedência à reclamação formulada, produziu um julgamento suplementar, concedendo um direito que não havia sido sequer apreciado na decisão de origem, contrariando, de pronto, os arts. 505 e 507 do novo Código de Processo Civil. (fls.72).
+Não sobejam dúvidas de que a decisão vergastada afronta as disposições do novo CPC relativas à coisa julgada material - arts. 502, 503, 504-1, 505 e 507 -, não cabendo ao e. Tribunal "a quo" exercer função de suplementar decisão quando já exaurida a sua competência jurisdicional (ofensa aos arts. 505 e 507, NCPC). (fls.76).
+É o relatório. Decido.
+Na espécie, incide o óbice das Súmulas 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
