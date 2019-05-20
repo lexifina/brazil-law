@@ -1,0 +1,18 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. EFEITOS FUNCIONAIS RETROATIVOS. AUSÊNCIA DE VÍCIOS DO ART. 1.022 DO CÓDIGO FUX. EMBARGOS DO PARTICULAR REJEITADOS.
+1. Cuida-se de Embargos de Declaração opostos por WILSOMAR DE DEUS FERREIRA em face da decisão que negou provimento do Recurso Ordinário, assim ementado:
+ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO NOMEADO. INEXISTÊNCIA DE DIREITO A EFEITOS FINANCEIROS RETROATIVOS. RECURSO ORDINÁRIO DESPROVIDO.
+2. Afirma a parte embargante que a decisão embargada padece de contradição quanto à alegação de que não apreciou a lide sob o prisma da tese de ser o acórdão regional extra petita, visto que este analisou o pleito sob o prisma de pedido de remuneração retroativa, enquanto que o pedido envolve, tão somente, efeitos retroativos em face à mera evolução da carreira e tempo de serviço.
+3. É o relatório.
+4. Os Embargos não merecem acolhimento, pois a decisão embargada não padece de qualquer dos vícios elencados no art. 1.022 do CPC, porquanto decidiu toda a questão posta em debate, com a devida fundamentação, coerência e clareza, nos limites necessários ao deslinde do feito.
+5. Cabe salientar que a questão tida por omissa constou nos precedentes colacionados no decisum embargado, de onde se extrai que os candidatos tardiamente nomeados não têm direito à indenização, tampouco à retroação dos efeitos funcionais.
+6. Confira-se, no mesmo sentido, o seguinte precedente:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. NOMEAÇÃO TARDIA. PRETENSÃO INDENIZATÓRIO. REMUNERAÇÃO ATRASADA. PROGRESSÃO FUNCIONAL. DESCABIMENTO. REPERCUSSÃO GERAL. RE 724.347/DF. RE 629.392/MT. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. SÚMULA 284/STF.
+1. Na hipótese de posse em cargo público determinada por decisão judicial, o servidor não faz jus a indenização, sob fundamento de que deveria ter sido investido em momento anterior, salvo situação de arbitrariedade flagrante (RE 724.347/DF, Relator p/ Acórdão: Min. Roberto Barroso, Tribunal Pleno, julgado em 26.2.2015, DJe-088 Divulg 12.5.2015, Public 13-05-2015).
+2. A nomeação tardia de candidatos aprovados em concurso público, por meio de ato judicial, à qual atribuída eficácia retroativa, não gera direito às promoções ou progressões funcionais que alcançariam houvesse ocorrido, a tempo e modo, a nomeação (RE 629.392/MT, rel. Ministro Marco Aurélio, julgado em 8.6.2017, Informativo 868/STF).
+3. Não há similitude fático-jurídica entre o acórdão impugnado, no capítulo concernente à inversão do ônus da sucumbência da ação, com atenção ao §§ 2o. e 3o. do art. 85 do CPC/2015, e o paradigma que trata de condenação em honorários recusais (§ 11 do mesmo preceito legal). Embora se insiram dentro da mesma ótica genérica do custeio do processo, referem-se a espécies distintas e devidas em razão de hipóteses específicas. Inteligência da Súmula 284/STF.
+4. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (AREsp 1.153.274/BA, Rel. Min. MAURO CAMPBELL MARQUES, DJe 11.10.2017).
+7. Ressalte-se, por último, que os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+8. Pelo exposto, rejeitam-se os Embargos Declaratórios do Particular.
+9. Publique-se.
+10. Intimações necessárias.
