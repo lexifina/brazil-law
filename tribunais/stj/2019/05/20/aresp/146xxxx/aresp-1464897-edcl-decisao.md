@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SERDAN IMPLEMENTOS RODOVIARIOS LTDA em face da decisão que não conheceu do agravo em razão da ausência de impugnação específica dos fundamentos de inadmissão do recurso especial.
+Em suas razões, sustenta a parte embargante, em síntese, que "no caso em tela, este juízo proferiu decisão de forma equivocada, uma vez determinou a majoração dos honorários sucumbências outrora arbitrados, sem no entanto observar que no Acordão este não fora arbitrado e sim definido valor certo" (fls. 829/830).
+Alega, ainda, que "os honorários fixados já se encontram no seu teto máximo e ainda correspondem ao trabalho desempenhado nos autos pelos patronos da embargada, pelo que se verifica que os honorários outrora fixados se mostram adequados ao ordenamento jurídico vigente, pelo que não merecem qualquer reparo" (fls. 830/831).
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Os embargos não comportam acolhimento.
+Conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Ademais, o novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+No caso, o Tribunal de origem consignou que os honorários advocatícios sucumbenciais foram fixados "no valor equivalente ao total do depósito aqui realizado com fulcro no artigo 968, inciso II do CPC, devidamente corrigido e com juro" (fl. 573). Por sua vez, o autor da ação rescisória recolheu a título de depósito judicial às fls. 19/20 o valor de R$ 4.283,02 (quatro mil duzentos e oitenta e três reais e dois centavos).
+Veja que os honorários advocatícios, apesar de fixados no mesmo valor do depósito prévio para o ajuizamento da ação rescisória, com este não se confunde, já que possuem finalidades e destinatários distintos.
+Portanto, presentes os requisitos acima delineados, correta a majoração dos honorários recursais nesta instância superior.
+Ressalte-se que os honorários recursais foram majorados em desfavor da parte Recorrente no importe de 15% sobre o montante já arbitrado, nos termos do § 11 do art. 85 do Código de Processo Civil. Não se trata de substituir os honorários sucumbenciais já fixados na origem. Os honorários sucumbenciais fixados nas instâncias ordinárias apenas servirão como base de cálculo sobre a qual incidirão os 15% ora majorados.
+Por fim, não há se falar em fixação dos honorários no teto máximo, uma vez que não alcançado o valor máximo previsto nos §§ 2º e 3º do art. 85 do CPC.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
