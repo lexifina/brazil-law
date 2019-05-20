@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo apresentado por NATALIE STEFANE SANTANA NASCIMENTO MORIALE, contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+APELAÇÃO E REEXAME NECESSÁRIO - MANDADO DE SEGURANÇA - Município de Nova Luzitânia - Candidata aprovada em primeiro lugar para ocupar única vaga de Farmacêutica (Concurso Público nº 001/2013) - Posse negada - Quadro excepcional, superveniente, imprevisto e grave atrelado ao desajuste orçamentário e à necessidade de atenção à responsabilidade fiscal - Pretensão à posse forçada na via judicial - Inviabilidade - Precedente desta C. 1ª Câmara de Direito Público em sintonia ao julgado pelo E. STF, no RE 588.099/MS (repercussão geral) - Inviabilidade, ademais, de dilação probatória na via mandamental - Sentença de procedência reformada para a improcedência da demanda - Ordem cassada - RECURSO VOLUNTÁRIO E REEXAME NECESSÁRIO PROVIDOS.
+É o relatório. Decido.
+Na espécie, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Nesse sentido: "É inviável, em recurso especial, a revisão de julgado que possui fundamentação exclusivamente constitucional para declarar devida a paridade de remuneração entre trabalhadores ativos e inativos, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgInt no REsp 1744165/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/02/2019, DJe 01/03/2019).
+Confiram-se ainda os seguintes precedentes: REsp 1757744/RS, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 07/02/2019, DJe 14/02/2019; e AgInt no REsp 1503220/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 04/12/2018, DJe 05/02/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
