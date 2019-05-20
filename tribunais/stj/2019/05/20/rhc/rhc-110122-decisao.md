@@ -1,0 +1,9 @@
+DECISÃO
+WENDEL GARCIA LIMA, recorrente neste recurso ordinário em habeas corpus, deduzido de própio punho, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que, no Agravo em Execução n. 7004693-84.2016.8.26.0344, reconheceu a prática de falta grave, bem como determinou a perda de 1/3 dos dias remidos e a elaboração de novo cálculo de pena para fins de progressão de regime.
+Inicialmente, cumpre registrar que, embora conste da inicial "recurso ordinário constitucional", trata-se, na verdade, de habeas corpus, haja vista que a petição inicial foi protocolada diretamente nesta Corte Superior, sem que tenha havido, portanto, juízo de admissibilidade pela Corte estadual e posterior envio a este Tribunal.
+No entanto, ainda que este recurso ordinário seja recebido como habeas corpus, não há como processá-lo. Isso porque observo, de pronto, que o feito está deficientemente instruído, pois o impetrante/recorrente não anexou aos autos cópia da decisão proferida pelo Juízo de primeiro grau e do acórdão ora impugnado, além de outros elementos que se fizessem necessários ao exame da suposta ilegalidade, o que impossibilita a compreensão do caso.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+É cogente ao impetrante apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, não conheço do recurso em habeas corpus.
+Por não estar o paciente assistido por advogado, neste writ impetrado de próprio punho, intime-se a Defensoria Pública do Estado de são Paulo, para eventuais providências que entender cabíveis.
+Publique-se e intimem-se.
