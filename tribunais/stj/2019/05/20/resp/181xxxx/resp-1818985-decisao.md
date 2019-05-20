@@ -1,0 +1,19 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS DE TERCEIROS. RECONHECIMENTO DE ERRO MATERIAL EM SENTENÇA PROFERIDA EM PROCESSO DIVERSO E DECLARAÇÃO DE ILEGITIMIDADE ATIVA DO EMBARGANTE. CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL.
+DECISÃO
+Os autos noticiam que METALURGICA SILVEIRA EIRELI (METALURGICA) opôs embargos de terceiro contra AMIGÃO AUTO PEÇAS LTDA (AMIGÃO), para que a indisponibilidade do imóvel registrado na matrícula nº 2.180 recaia somente sobre o lote com testada para a Av. Chancelar Osvaldo Aranha, nºs 161 e 171.
+O processo foi extinto sem resolução do mérito, por ilegitimidade ativa
+A sentença foi mantida em apelação, cujo acórdão encontra-se assim ementado:
+APELAÇÕES CÍVEIS - EMBARGOS DE TERCEIRO - RECURSO DO EMBARGANTE: PRETENSÃO DE LEVANTAMENTO DA ORDEM DE INDISPONIBILIDADE QUE GRAVA IMÓVEL - SIMULAÇÃO DE NEGÓCIOS JURÍDICOS RECONHECIDA NA AÇÃO PRINCIPAL VINCULADA AO PRESENTE FEITO, INCLUSIVE EM RELAÇÃO AO EMBARGANTE - NULIDADE DECLARADA PELO SENTENCIANTE, COM EFEITOS DECLARATÓRIOS EX TUNC - TODOS OS NEGÓCIOS JURÍDICOS ENVOLVIDOS NAS SIMULAÇÕES DECLARADAS NÃO PRODUZIRAM QUALQUER EFEITO JURÍDICO EM RELAÇÃO À MATRÍCULA IMOBILIÁRIA N. 2.180, JUNTO AO 1º OFÍCIO DESTA CAPITAL - VALIDADE DA ORDEM DE INDISPONIBILIDADE DO IMÓVEL DECLARADA JUDICIALMENTE COM FIM DE RESGUARDAR O RESULTADO ÚTIL DO PROCESSO - RETORNO DO IMÓVEL AO STATUS JURÍDICO QUO ANTE, OU SEJA, A SEU VERDADEIRO PROPRIETÁRIO RECONHECIMENTO DE ERRO MATERIAL POR PARTE DO PROLATOR DA SENTENÇA - POSSIBILIDADE - MATÉRIA CONHECÍVEL EX OFFICIO A QUALQUER TEMPO E GRAU DE JURISDIÇÃO, CONSTITUINDO UM ACLARAMENTO NECESSÁRIO AO CONTEÚDO DISPOSITIVO SENTENCIAL RECONHECIMENTO DA ILEGITIMIDADE ATIVA DO EMBARGANTE -
+RECURSO DO EMBARGADO: IMPUGNAÇÃO AO VALOR DA CAUSA - AUSÊNCIA DE CUNHO ECONÔMICO IMEDIATO A SER OBTIDO PELO EMBARGANTE - MANUTENÇÃO DA SENTENÇA DE EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO - INTELIGÊNCIA DOS ARTS. 354, 485 VI C/C ART. 17 CPC - RECURSOS IMPROVIDOS - UNÂNIME (e-STJ, fl. 356/357).
+Contra esse julgado a METALURGICA manejou recurso especial, fundamentado na alínea a do permissivo constitucional, alegando violação dos arts. 494, I, 506 e 674, todos do NCPC, por ter sofrido prejuízo patrimonial em decorrência de processo judicial que não fez parte, além de inexistir o apontado erro material, considerando ao final ser o legítimo proprietário do imóvel ilegalmente bloqueado.
+Foram apresentadas contrarrazões.
+O juízo prévio de admissibilidade inadmitiu o apelo nobre, ante a incidência da Súmula nº 7 do STJ, além do erro material constatado poder ser corrigido de ofício, ainda que já se tenha operado o trânsito em julgado.
+Irresignada, a METALURGICA apresentou o correspondente agravo, refutando os fundamentos da decisão agravada.
+Contraminutado, os autos subiram para esta Corte Superior.
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Cinge-se a pretensão recursal na impossibilidade de se reconhecer o suposto erro material de sentença prolatada em processo diverso, do qual não se fez parte, e por consequência dessa correção, declarar a ilegitimidade do autor da ação.
+Considerando que o agravo merece conhecimento e tendo em vista as razões contidas no recurso especial subjacente, CONVERTO o agravo em recurso especial, para melhor análise da controvérsia.
+Publique-se. Intime-se.
