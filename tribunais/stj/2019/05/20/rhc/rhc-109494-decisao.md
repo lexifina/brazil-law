@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por [NOME] [NOME] [NOME] FERREIRA em face do acórdão do Tribunal de Justiça de Minas Gerais que denegou writ de origem, assim ementado (fl. 141):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO CONSUMADO E TENTADO. CONSTRANGIMENTO ILEGAL. INOCORRÊNCIA. PRISÃO PREVENTIVA FUNDAMENTADA. PRESENÇA DOS REQUISITOS PREVISTOS NO ARTIGO 312 DO CPP. PACIENTE REINCIDENTE. REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE DE MANUTENÇÃO DO AGENTE NO CÁRCERE. ORDEM DENEGADA.
+- Estando devidamente fundamentada a decisão que determinou a prisão preventiva, demonstrada a necessidade de garantia da ordem pública,bem como o risco de reiteração criminosa, notadamente tratando-se de paciente ser reincidente, a segregação cautelar se impõe.
+- Ordem denegada.
+Consta dos autos denúncia pela prática dos crimes tipificados nos arts. 121, § 2º, I, 121, § 2º, I, c/c o 14, II, todos do CP.
+A recorrente busca a revogação da prisão preventiva, sob o argumento de estarem ausentes os requisitos ensejadores da segregação cautelar, bem como por ser desproporcional em comparação com futuro regime a ser fixado, sendo possível a aplicação de medidas alternativas.
+Salienta, ainda, que não há contemporaneidade, pois os fatos ocorreram em 24/5/2016, expirado o prazo da prisão temporária, decretada em 18/6/2016 e cumprida no dia 15/10/2016, não houve pedido de conversão em preventiva e já era de conhecimento do parquet a reincidência.
+Nesse sentido, requer o provimento do recurso para revogar a custódia ou impor cautelares diversas.
+A liminar foi indeferida.
+As informações solicitadas constam dos autos.
+O Ministério Público manifestou-se pelo não provimento do recurso.
+Na origem, ação penal n. 0053335-84.2016.8.13.0114, remeteu-se o processo em 25/4/2019 ao Tribunal a quo para análise do recurso em sentido estrito, conforme informações processuais disponíveis em 15/5/2019.
+É o relatório.
+DECIDO.
+A matéria relativa à desproporcionalidade não foi objeto de análise do Tribunal de origem, conforme cópia de acórdão de fls. 140/145. Então, esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+Por outro lado, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+O decreto prisional está assim fundamentado (fls. 51-52):
+ .. .No caso em exame, observo que o pedido de decretação da prisão preventiva encontra-se fundamentado na garantia da ordem pública, considerando a vida pregressa da acusada e sua reincidência criminosa; que pode ser verificada na CAC (ff. 162/165) da acusada, a qual ostenta registros 02 (duas) condenações criminais, com trânsito em julgado, sendo uma também por homicídio e outra por tráfico de drogas.
+Verifica-se que a acusada envolve-se reiteradamente em práticas criminosas, situação concreta que justifica a decretação da prisão preventiva com fundamento na garantia da ordem pública.
+Acrescento que a gravidade em concreto das condutas descritas na denúncia (facadas e agressões) também justificam a decretação da prisão preventiva da acusada com fundamento na garantia da ordem pública. Dessa forma, acolho os termos da manifestação ministerial retro, DECRETO A PRISÃO PREVENTIVA da denunciada [NOME], o que faço por garantia da ordem pública, consoante o autorizado pelo art. 312, c/c art. 313,1, ambos do Código de Processo Penal.  .. .
+Como já adiantado no exame da liminar, foi apontada a reiteração delitiva, explicitada na referência às circunstâncias fáticas, pois o pedido de decretação da prisão preventiva encontra-se fundamentado na garantia da ordem pública, considerando a vida pregressa da acusada e sua reincidência criminosa; que pode ser verificada na CAC (ff. 162/165) da acusada, a qual ostenta registros 02 (duas) condenações criminais, com trânsito em julgado, sendo uma também por homicídio e outra por tráfico de drogas, razão, portanto, apta a ensejar a constrição.
+Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+No tocante à falta de contemporaneidade, constou no acórdão (fls. 143/144):
+Quanto à alegação do impetrante de que não ocorrera fato novo apto a justificar a prisão preventiva, tenho que não merece prosperar.
+Conforme se verifica dos autos, os delitos sobre os quais versam os presentes autos ocorreram em 24 de maio de 2016, sendo, em tese, cometidos pela paciente, a qual estava em cumprimento de pena pelo delito de homicídio.
+A prisão temporária foi decretada, sendo iniciada na data de 15/10/2016, ocasião em que a paciente foi presa em flagrante pelo crime de tráfico.
+Em virtude da condenação pelo último delito, a paciente esteve presa a partir de 04/09/2017.
+Por ocasião da entrega do relatório policial, datado de 27/03/17, referente aos crimes ora imputados à paciente, o representante do MP requereu novas diligências. A denúncia foi recebida em 30 de julho de 2018. O Parquet requereu a prisão preventiva, a qual foi decretada em 17 de setembro de 2018 e cumprida em 26 de setembro de 2018.
+Assim, a meu ver, com o oferecimento da denúncia, após serem reunidos os elementos de provas necessários e verificada a configuração dos requisitos da custódia cautelar, a mesma foi pleiteada e decretada.
+Destarte, a prisão cautelar se sustenta com clareza em um dos motivos da preventiva, qual seja a garantia da ordem pública, para evitar a reiteração de práticas delituosas.
+Frise-se que a decisão que decretou a prisão preventiva encontra respaldo nos requisitos do art. 312 do CPP, não havendo que se falar em ausência de fundamentação.
+A moderna posição do direito processual penal traz como pressuposto para a decretação e manutenção da prisão cautelar o periculum libertatis, ou seja, é necessário que haja um perigo na liberdade do imputado a justificar sua prisão. Neste caso, deve restar provado que há perigo social se o imputado permanecer em liberdade, bem como para o curso do processo, e, ainda, que há provas do cometimento do delito. No caso dos autos, todas as condições acima mencionadas encontram-se presentes.
+Ações como a, em tese, praticada pela agente atentam contra a ordem pública, que deve ser protegida e garantida pelo Estado. A custódia provisória busca acautelar a sociedade que pode ser vitimada por condutas por ela praticadas.
+Portanto, não acredito estar havendo nos presentes autos nenhuma ilegalidade na prisão, eis que se encontra devidamente sustentada tanto nas circunstâncias do crime quanto nos motivos da prisão preventiva.
+Consoante trecho anterior desta decisão, o decreto tem motivação na reiteração delitiva, o fato da paciente de forma constante envolver-se com crimes, seja através da vida pregressa, seja através da reincidência, de modo que é possível verificar estar presente a necessária atualidade da medida, pois, como esclareceu o acórdão e constou na manifestação do parquet acolhida pelo Juízo de 1º Grau (fls. 107/109), quando do cumprimento do mandado de prisão temporária em 15/10/2016, após os fatos, houve prisão em flagrante pela prática de tráfico de drogas.
+Além disso, após o término da prisão temporária, nova prisão ocorreu em 4/9/2017 para dar continuidade à execução penal em andamento pela prática de homicídio qualificado (fl. 94).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
