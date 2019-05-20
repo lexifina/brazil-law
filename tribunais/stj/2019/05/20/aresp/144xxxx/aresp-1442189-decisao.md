@@ -1,0 +1,78 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO PELO CONCURSO DE PESSOAS. PLEITO DE ABSOLVIÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. PRINCÍPIO DA INSIGNIFICÂNCIA. VIOLÊNCIA E GRAVE AMEAÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO SUFICIENTE DA DECISÃO RECORRIDA. INCIDÊNCIA ANALÓGICA DAS SÚMULAS 283 E 284, AMBAS DO STF. DESCLASSIFICAÇÃO. NECESSIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por JOSE [NOME] DI LICOSA contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (fls. 380-388):
+"RECURSO DE APELAÇÃO DEFENSIVO - ROUBO MAJORADO PELO CONCURSO DE PESSOAS - CONDENAÇÃO MANTIDA - ELEMENTOS DE CONVICÇÃO SUFICIENTES - AFASTAMENTO DA MAJORANTE - INCABÍVEL - DESCLASSIFICAÇÃO PARA DELITO DE FAVORECIMENTO TENTADO - TESE NÃO ACOLHIDA - PRINCÍPIO DA INSIGNIFICÂNCIA - INAPLICÁVEL - PREQUESTIONAMENTO - COM O PARECER, RECURSO CONHECIDO E DESPROVIDO.
+Exsurgindo do caderno processual elementos de convicção consistentes e seguros acerca da materialidade, autoria e comportamento doloso imputados a ambos os réus, voltados ao cometimento do roubo, não há falar em absolvição, tampouco em desclassificação.
+Descabe a incidência do denominado princípio da insignificância, justamente por versar sobre roubo, ou seja, crime que não se limita à subtração de bens materiais, mas também, ao endereçamento de grave ameaça ou violência contra as vítimas, com seqüelas emocionais e psicológicas traumáticas.Tratando-se de delito complexo, em que há ofensa a bens jurídicos diversos (o patrimônio e a integridade da pessoa), se apresenta inviável a afirmação do desinteresse estatal à sua repressão.
+Realçando o caso comunhão de propósitos, conjugação de esforços, distribuição de tarefas, em busca de proveito comum, estabelecidas entres os réus, como sói acontecer em situações desse jaez, impossibilitado se afigura o afastamento da majorante alusiva ao concurso de agentes.
+Não há falar em desclassificação para favorecimento, mesmo porque o conluio dos apelantes visava justamente a prática do roubo.Além disso, o crime de favorecimento limita-se ao auxílio ao criminoso, e não ao cometimento do delito.
+É assente na jurisprudência que, se o julgador aprecia integralmente as matérias que lhe são submetidas, se torna despicienda a manifestação expressa acerca de dispositivos legais utilizados pelas partes como sustentáculo às suas pretensões.
+Com o parecer, recurso conhecido e improvido."
+Opostos embargos de declaração, estes foram acolhidos para afastar a determinação que pretendia o início da execução provisória da pena (fls. 419-423).
+Nas razões do recurso especial, a Defesa sustenta violação aos artigos 348 do Código Penal e 155 do Código de Processo Penal, pleiteia, pois, a absolvição por insuficiência de provas ou o reconhecimento da atipicidade da conduta pelo princípio da insignificância ou a desclassificação do delito para o crime de favorecimento pessoal tentado.
+Apresentadas as contrarrazões (fls. 452-458), sobreveio juízo negativo de admissibilidade fundado na incidência das Súmulas 7 e 83, ambas do STJ (fls. 460-463).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão.
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 513-517).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Consta dos autos que o insurgente foi condenado, como incurso nas sanções dos artigos 157, §2º, inciso III, do Código Penal, às penas de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto, e de e 13 (treze) dias-multa.
+O eg. Tribunal de origem negou provimento ao recurso defensivo.
+Nas razões recursais, inicialmente, busca o insurgente a absolvição ou desclassificação.
+Quanto ao pleito de absolvição do delito de roubo, asseverou a Corte de origem (fls. 383-384):
+"Materialidade consubstanciada nos boletins de ocorrência estampados às fls. 19-23, auto de apreensão às fls. 28-30, auto de avaliação à fl. 31, auto de entrega à fl. 32, laudo pericial de exame cm objeto (peso dc guidão dc bicicleta) às fls. 66-70 e laudo pericial de vistoria em veículo às fls. 144-147, tornando despiciendas considerações adicionais.
+De igual sorte, dúvida alguma remanesce quanto à autoria e ao comportamento doloso imputados, voltados à subtração em tela.
+ ..
+Face outra, não ha como dizer que [NOME] não participara do roubo, pois, se assim não o desejasse, se tudo não decorresse de prévio conluio, nada impediria que, deparando-se com o comportamento de seu colega, dali se afastasse prontamente, até porque estava pilotando a motocicleta. Emerge, sim, que, concretizada a subtração, seguiram ambos juntos, exteriorizando a comunhão de propósitos, a conjugação de esforços, a distribuição de tarefas, em busca de proveito comum, como sói acontecer em situações desse jaez."
+Ora, está assentado nesta Corte que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos da Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Na hipótese, de fato, entender de modo contrário ao estabelecido pelas instâncias ordinárias, como pretende a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência inviável nesta instância.
+Ilustrativamente:
+"REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL, INVASÃO DE DOMICÍLIO E PORTE DE ARMA. PRINCÍPIO DA CONSUNÇÃO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL DITO POR VIOLADO. INCIDÊNCIA DA SÚMULA 284/STF. ABSOLVIÇÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. POLICIAL MILITAR FORA DE SERVIÇO. UTILIZAÇÃO DE ARMA DE FOGO PARTICULAR. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. CARACTERIZAÇÃO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. MOTIVO, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO CONCRETA. IDONEIDADE. PERDA DO CARGO PÚBLICO. DECISÃO FUNDAMENTADA. RECURSO IMPROVIDO.  ..
+2. Reconhecida a materialidade e a autoria do delito, a pretensão de ser absolvido em recurso especial esbarra no óbice da Súmula 7/STJ.
+ ..
+6. Agravo regimental a que se nega provimento" (AgRg no AREsp n. 564.054/MT, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 20/09/2017).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME MILITAR. LESÃO CORPORAL LEVE COMETIDA NO EXERCÍCIO DA FUNÇÃO. ART. 209 DO CPM. PLEITO DE ABSOLVIÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7, STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula 7, STJ.
+2. Agravo regimental não provido" (AgRg no REsp n. 1.424.206/SC, Quinta Turma, Rel. Min. Moura Ribeiro, DJe de 13/05/2014, grifei).
+O voto condutor assim se posicionou quanto ao pedido de aplicação do princípio da insignificância, verbis (fls. 384-385):
+"Nada obstante os argumentos expendidos, o caso presente não comporta incidência do denominado princípio da insignificância, justamente por versar sobre roubo, ou seja, crime que não se limita à subtração de bens materiais, mas também, ao endereçamento de grave ameaça ou violência contra as vítimas, com sequelas emocionais e psicológicas traumáticas.
+Exsurge do encaderno processual que o réu Lucas, para produzir o constrangimento, chegou a efetuar forte tapa no rosto da vítima.
+Diante desse cenário, clarividente a grave ameaça e a violência empregadas, o que afasta a insignificância e, por corolário, impede a desclassificação postulada."
+Esses fundamentos destacados, os quais, per se, sustentam o decisum impugnado, não foram especificamente atacados pela insurgente, razão pela qual o recurso não pode ser conhecido, pela aplicação, por analogia, do Enunciado n. 283 da Súmula do c. Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, cito os precedentes desta Corte:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MEDIDA CAUTELAR DE SEQUESTRO/ARRESTO. VIOLAÇÃO AO ART. 4º, CAPUT, DA LEI Nº 9.6113/98 E AO ART. 617 DO CÓDIGO DE PROCESSO PENAL. VIOLAÇÃO DO ART. 2º DO CPP E DO ART. 91, § 1º E 2º, DO CP. VIOLAÇÃO DO ART. 125 DO CÓDIGO DE PROCESSO PENAL. NEGATIVA DE VIGÊNCIA AO ART. 136 DO CÓDIGO DE PROCESSO PENAL. CONTRARIEDADE OU NEGATIVA DE VIGÊNCIA AO ART. 282, II, CÓDIGO DE PROCESSO PENAL. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. NÃO ABRANGÊNCIA DOS FUNDAMENTOS SUFICIENTES ENCAMPADOS NO RECURSO. SÚMULA N. 283/STF. RECURSO NÃO PROVIDO.
+ ..
+II - Não foram infirmados os fundamentos do acórdão, que, por si só, sustentam o decisum impugnado, razão pela qual, o recurso não pode ser conhecido, nos termos em que aduz a Súmula 283 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Agravo regimental a que se nega provimento" (AgRg no REsp n. 1.669.112/RS, Quinta Turma, de minha relatoria, DJe de 18/12/2017).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO SUFICIENTE DA DECISÃO RECORRIDA. SÚMULA N. 283 DO STF. ROUBO TENTADO. DESCLASSIFICAÇÃO PARA LATROCÍNIO TENTADO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.
+1. Em observância ao princípio da dialeticidade recursal, é dever do recorrente impugnar todos os fundamentos que sejam, por si sós, suficientes para manter a decisão recorrida, sob pena de incidência da Súmula 283 do STF.
+ ..
+3. Agravo regimental desprovido" (AgRg no REsp n. 1.675.268/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 22/09/2017).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE RESPONSABILIDADE. PREFEITA MUNICIPAL. FRAUDE À LICITAÇÃO. NULIDADE POR NÃO REALIZAÇÃO DE NOVO INTERROGATÓRIO APÓS A ALTERAÇÃO DO NOVO CPP. MOTIVAÇÃO SUFICIENTE. NÃO IMPUGNAÇÃO. SÚMULA 283/STF. PRINCÍPIO DA CONSUNÇÃO. BIS IN IDEM. SÚMULA 211/STJ. CRIMES DE FRAUDE À LICITAÇÃO E DESVIO DE VERBA PÚBLICA. SUBSUNÇÃO. INEXISTÊNCIA. ATIPICIDADE DO FATO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INVIABILIDADE. IMPROVIMENTO.
+1. Tratando-se de motivação suficiente, por si só, para manter o acórdão recorrido, não tendo o recurso a ele abrangido, incide, por analogia, a Súmula n. 283 do STF, segundo a qual É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+ ..
+6. Agravo regimental improvido" (AgRg no AREsp n. 621.601/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 05/04/2018).
+É que, no puctum salliens, o v. acórdão utilizou como razão para não aplicar o princípio da bagatela o fato do delito ter ocorrido por meio de violência e grave ameaça à vitima.
+Ora, o recorrente não se insurge especificamente contra tal motivação nas razões do apelo extremo - lastreando o reclamo apenas no fato de que se deve aplicar o princípio da insignificância em razão do pequeno valor da res furtiva, além da ausência do dano moral ou psicológico ao ofendido -, o que evidencia a deficiência na fundamentação do recurso no ponto, atraindo, dessa forma, a Súmula 284/STF.
+A propósito:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. RECURSO MANIFESTAMENTE INADMISSÍVEL. DEFICIÊNCIA DAS RAZOES RECURSAIS. SÚMULA 284/STF. AUTORIA E MATERIALIDADE. SUFICIÊNCIA PROBATÓRIA. REEXAME DE PROVA. SÚMULA 7/STJ. DOLO ESPECÍFICO. INEXIGÊNCIA. SUSPENSÃO DA AÇÃO NA PENDÊNCIA DE DISCUSSÃO JUDICIAL DO DÉBITO TRIBUTÁRIO. INDEPENDÊNCIA DAS ESFERAS. TERMO INICIAL DA PRESCRIÇÃO. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO.
+ ..
+2. A ausência de indicação, especificamente em relação a cada tese ou questão, em que consistiria a alegada violação ou negativa de vigência da lei federal, inviabiliza a compreensão da controvérsia em face da deficiência da fundamentação do apelo raro, nos termos do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+ ..
+7. Agravo regimental desprovido" (AgRg no REsp n. 1.504.695/RS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe 11/12/2015).
+Referente à alegada ausência de concurso de pessoas e ao pleito de desclassificação para o delito de favorecimento pessoal na forma tentada, trago à baila os fundamentos lançados no v. acórdão vergastado, verbis (fls. 386-387):
+"Consoante salientado alhures, o caso realça a comunhão de propósitos, a conjugação de esforços, a distribuição de tarefas, cm busca de proveito comum, estabelecidas entres os réus, como sói acontecer em situações desse jaez, a impossibilitar o afastamento da majorante em tela.
+ ..
+De igual sorte, não há falar em desclassificação para favorecimento, mesmo porque o conluio dos apelantes visava justamente a prática do roubo. Além disso, o crime de favorecimento limita-se ao auxílio ao criminoso, e não ao cometimento do delito."
+Da análise dos autos, verifico que o eg. Tribunal de origem declinou, de forma explícita, as razões - baseado nas provas carreadas aos autos - pelas quais concluiu pela condenação do insurgente quanto ao delito de roubo consumado em concurso de pessoas.
+Dessa forma, verifico que via eleita não é cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, porquanto é defeso em virtude do que preceitua a Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA O CRIME DO ART. 28 DA LEI N. 11.343/06. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. REINCIDÊNCIA. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO MANTIDO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A análise da tese recursal, no sentido de desclassificar o crime previsto no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas) para a conduta tipificada no art. 28 da mesma lei (posse de substância entorpecente para uso próprio) demanda necessária incursão na seara probatória, vedada no âmbito do recurso especial, nos termos da Súmula 7 desta Corte. 2. Admite-se a imposição do regime inicial fechado ao réu reincidente condenado à pena reclusiva superior a 4 anos, nos termos do art. 33, § 2º, alínea b, do Código Penal.
+3. Agravo regimental improvido" (AgRg no AREsp n. 1.012.231/CE, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 07/04/2017).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PEDIDO DE DESCLASSIFICAÇÃO PARA USO DE ENTORPECENTES. INVIABILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULAS 7/STJ.
+1. A alteração do julgado, no sentido de desclassificar a conduta do acusado do art. 33 para o art. 28 da Lei n. 11.343/2006, implicaria o aprofundado reexame do material fático-probatório dos autos, providência inviável nesta sede recursal, a teor do que dispõe o enunciado da Súmula 7/STJ.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 854.530/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 08/05/2017).
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+P. e I.
