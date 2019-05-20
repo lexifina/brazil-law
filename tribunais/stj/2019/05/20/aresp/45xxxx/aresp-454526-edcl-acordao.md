@@ -1,0 +1,65 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INAPLICABILIDADE DOS ÓBICES DA SÚMULA 7 E 182 DO STJ. EXECUÇÃO FISCAL. PENHORA INCIDENTE SOBRE O FATURAMENTO DA EMPRESA. NÃO EQUIPARAÇÃO À PENHORA DE DINHEIRO. NECESSIDADE DE COMPROVAÇÃO DE INEXISTÊNCIA DE OUTROS BENS PARA GARANTIA DA EXECUÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CÓDIGO FUX. EMBARGOS DE DECLARAÇÃO DA FAZENDA DO ESTADO DE SÃO PAULO REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado.
+2. Na hipótese dos autos, não se constata a presença de qualquer eiva a macular o acórdão embargado, que, de forma clara, reconheceu a inexistência de óbice ao conhecimento do Agravo e provimento do Apelo Nobre, ao afastar o óbice da Súmula 7/STJ, devidamente impugnada pela contribuinte, por reconhecer que a pretensão recursal é de se reconhecer que a penhora sobre o faturamento da empresa somente é cabível quando frustrada a tentativa de apreensão de outros bens relacionados na Lei 6.830/1980, sendo que o Tribunal de origem firmou posicionamento em sentido diametralmente oposto, ao considerar que, nos termos do art. 655, I do CPC, o dinheiro, em espécie ou em depósito ou aplicação financeira, continua ocupando o topo na ordem de preferência para sujeição à penhora (fls. 935).
+3. Ademais, o acórdão embargado seguiu entendimento jurisprudencial consolidado nesta Corte Superior, segundo o qual a penhora sobre o faturamento da empresa não equivale a dinheiro, mas sim à medida excepcional, devendo ser observados certos requisitos para o seu deferimento, quais sejam: inexistência de bens do devedor; no entanto, se os possuir, que sejam de difícil alienação ou insuficientes a saldar o crédito demandado; nomeação de administrador para apresentação de plano de pagamento; e que o percentual fixado sobre o faturamento não inviabilize o exercício da atividade empresarial. Precedentes: REsp. 1.675.404/RJ, Rel. Min. HERMAN BENJAMIN, DJe 14.9.2017; AgRg no AREsp. 518.189/SP, Rel. Min. HUMBERTO MARTINS, DJe 28.10.2014; AgRg no REsp. 919.833/RJ, Rel. Min. HUMBERTO MARTINS, DJe 15.4.2011.
+
+4. Não se constatando a presença de quaisquer dos vícios elencados no art. 1.022 do Código Fux, a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, os quais não podem ser ampliados.
+5. Embargos de Declaração da Fazenda do Estado de São Paulo rejeitados.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Embargos de Declaração opostos pela FAZENDA DO ESTADO DE SÃO PAULO contra acórdão proferido por esta egrégia Primeira Turma, assim ementado:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA INCIDENTE SOBRE O FATURAMENTO DA EMPRESA. NÃO EQUIPARAÇÃO À PENHORA DE DINHEIRO. NECESSIDADE DE COMPROVAÇÃO DE INEXISTÊNCIA DE OUTROS BENS PARA GARANTIA DA EXECUÇÃO. AGRAVO INTERNO DA FAZENDA DO ESTADO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. Segundo entendimento jurisprudencial consolidado nesta Corte Superior, a penhora sobre o faturamento da empresa não equivale a dinheiro, mas sim à medida excepcional, devendo ser observados certos requisitos para o seu deferimento, quais sejam: inexistência de bens do devedor; no entanto, se os possuir, que sejam de difícil alienação ou insuficientes a saldar o crédito demandado; nomeação de administrador para apresentação de plano de pagamento; e que o percentual fixado sobre o faturamento não inviabilize o exercício da atividade empresarial. Precedentes: REsp. 1.675.404/RJ, Rel. Min. HERMAN BENJAMIN, DJe 14.9.2017; AgRg no AREsp. 518.189/SP, Rel. Min. HUMBERTO MARTINS, DJe 28.10.2014; AgRg no REsp. 919.833/RJ, Rel. Min. HUMBERTO MARTINS, DJe 15.4.2011.
+2. Na hipótese dos autos, afasta-se o óbice da Súmula 7/STJ, notadamente porque o que se defende nas razões do Apelo Nobre é a possibilidade de penhora sobre o faturamento da empresa somente quando frustrada a tentativa de apreensão de outros bens relacionados na Lei 6.830/1980, sendo que o Tribunal de origem firmou posicionamento em sentido diametralmente oposto, ao considerar que, nos termos do art. 655, I do CPC, o dinheiro, em espécie ou em depósito ou aplicação financeira, continua ocupando o Superior Tribunal de Justiça topo na ordem de preferência para sujeição à penhora (fls. 935), e, com esses fundamentos, autorizou a penhora de 10% incidente sobre o faturamento da empresa, desconsiderando a existência de outros bens suficientes à garantia da execução.
+3. Agravo Interno da FAZENDA DO ESTADO DE SÃO PAULO a que se nega provimento. (fls. 1.085).
+2. Em suas razões, a parte embargante sustenta que o acórdão embargado padece de omissão, porquanto não apreciou a incidência da Súmula 182/STJ a obstar o conhecimento do Agravo Interno.
+3. A parte embargada apresentou Impugnação (fls. 1.111/1.114).
+4. É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INAPLICABILIDADE DOS ÓBICES DA SÚMULA 7 E 182 DO STJ. EXECUÇÃO FISCAL. PENHORA INCIDENTE SOBRE O FATURAMENTO DA EMPRESA. NÃO EQUIPARAÇÃO À PENHORA DE DINHEIRO. NECESSIDADE DE COMPROVAÇÃO DE INEXISTÊNCIA DE OUTROS BENS PARA GARANTIA DA EXECUÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CÓDIGO FUX. EMBARGOS DE DECLARAÇÃO DA FAZENDA DO ESTADO DE SÃO PAULO REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado.
+2. Na hipótese dos autos, não se constata a presença de qualquer eiva a macular o acórdão embargado, que, de forma clara, reconheceu a inexistência de óbice ao conhecimento do Agravo e provimento do Apelo Nobre, ao afastar o óbice da Súmula 7/STJ, devidamente impugnada pela contribuinte, por reconhecer que a pretensão recursal é de se reconhecer que a penhora sobre o faturamento da empresa somente é cabível quando frustrada a tentativa de apreensão de outros bens relacionados na Lei 6.830/1980, sendo que o Tribunal de origem firmou posicionamento em sentido diametralmente oposto, ao considerar que, nos termos do art. 655, I do CPC, o dinheiro, em espécie ou em depósito ou aplicação financeira, continua ocupando o topo na ordem de preferência para sujeição à penhora (fls. 935).
+3. Ademais, o acórdão embargado seguiu entendimento jurisprudencial consolidado nesta Corte Superior, segundo o qual a penhora sobre o faturamento da empresa não equivale a dinheiro, mas sim à medida excepcional, devendo ser observados certos requisitos para o seu deferimento, quais sejam: inexistência de bens do devedor; no entanto, se os possuir, que sejam de difícil alienação ou insuficientes a saldar o crédito demandado; nomeação de administrador para apresentação de plano de pagamento; e que o percentual fixado sobre o faturamento não inviabilize o exercício da atividade empresarial. Precedentes: REsp. 1.675.404/RJ, Rel. Min. HERMAN BENJAMIN, DJe 14.9.2017; AgRg no AREsp. 518.189/SP, Rel. Min. HUMBERTO MARTINS, DJe 28.10.2014; AgRg no REsp. 919.833/RJ, Rel. Min. HUMBERTO MARTINS, DJe 15.4.2011.
+
+4. Não se constatando a presença de quaisquer dos vícios elencados no art. 1.022 do Código Fux, a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, os quais não podem ser ampliados.
+5. Embargos de Declaração da Fazenda do Estado de São Paulo rejeitados.
+EDcl no AgInt no AgInt no AGRAVO EM RECURSO ESPECIAL Nº 454.526 - SP (2013/0414667-0)
+
+RELATOR
+:
+MINISTRO NAPOLEÃO NUNES MAIA FILHO
+EMBARGANTE
+:
+FAZENDA DO ESTADO DE SÃO PAULO
+PROCURADOR
+:
+[NOME] E [NOME] - [OAB]
+EMBARGADO
+:
+[NOME] E [NOME]
+ADVOGADOS
+:
+[NOME] E [NOME] - [OAB]
+
+FABIO LAGO MEIRELLES E OUTRO(S) - [OAB]
+VOTO
+1. De início, cumpre esclarecer que o art. 1.022 do Código Fux é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição ou omissão.
+2. Destarte, infere-se que, não obstante pacífica a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum em casos nos quais eivado de obscuridade, contradição ou omissão.
+3. Com efeito, os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+4. Ressalte-se, por oportuno, que esta Corte admite a atribuição de efeitos infringentes a Embargos de Declaração apenas quando o reconhecimento da existência de eventual omissão, contradição ou obscuridade acarretar, invariavelmente, a modificação do julgado, o que não se verifica na hipótese em tela. A respeito, confira-se:
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL E ADMINISTRATIVO. ANISTIA. PORTARIA. EFEITOS RETROATIVOS. PAGAMENTO. VIOLAÇÃO AO ART. 535 DO CPC. OMISSÕES. INEXISTÊNCIA. EFEITOS INFRINGENTES. INVIABILIDADE. MATÉRIA CONSTITUCIONAL. ANÁLISE. DESNECESSIDADE.
+1. A obtenção de efeitos infringentes, como pretende a embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja conseqüência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+2. No caso, inexiste qualquer vício a ser sanado. Da simples leitura do acórdão ora embargado, depreende-se, inequivocamente, que todas as questões apontadas como não enfrentadas foram, clara e explicitamente, abordadas.
+3. A solução da controvérsia posta à apreciação desta Superior Tribunal carece da análise dos dispositivos constitucionais apontados pela Embargante, na medida em que se funda exclusivamente na interpretação da legislação infraconstitucional, mormente na Lei 1.533/51 - Lei do Mandado de Segurança e na Lei 10.559/02 - Lei das Anistias.
+4. Embargos de Declaração rejeitados (EDcl no MS 11.621/DF, Rel. Min. LAURITA VAZ, DJU 23.10.2006).
+5. No presente recurso, busca a parte embargante a reapreciação do mérito da causa, não sendo esse, como visto, o escopo dos Aclaratórios.
+6. Com efeito, na hipótese dos autos não se constata a presença de qualquer eiva a macular o acórdão embargado, que, de forma clara, reconheceu a inexistência de óbice ao conhecimento do Agravo e provimento do Apelo Nobre, ao afastar o óbice da Súmula 7/STJ, devidamente impugnada pela contribuinte, por reconhecer que a pretensão recursal é de se reconhecer que a penhora sobre o faturamento da empresa somente é cabível quando frustrada a tentativa de apreensão de outros bens relacionados na Lei 6.830/1980, sendo que o Tribunal de origem firmou posicionamento em sentido diametralmente oposto, ao considerar que, nos termos do art. 655, I do CPC, o dinheiro, em espécie ou em depósito ou aplicação financeira, continua ocupando o topo na ordem de preferência para sujeição à penhora (fls. 935), e, com esses fundamentos, autorizou a penhora de 10% incidente sobre o faturamento da empresa, desconsiderando a existência de outros bens suficientes à garantia da execução.
+7. Ademais, o acórdão embargado seguiu entendimento jurisprudencial consolidado nesta Corte Superior, segundo o qual a penhora sobre o faturamento da empresa não equivale a dinheiro, mas sim à medida excepcional, devendo ser observados certos requisitos para o seu deferimento, quais sejam: inexistência de bens do devedor; no entanto, se os possuir, que sejam de difícil alienação ou insuficientes a saldar o crédito demandado; nomeação de administrador para apresentação de plano de pagamento; e que o percentual fixado sobre o faturamento não inviabilize o exercício da atividade empresarial. Precedentes: REsp. 1.675.404/RJ, Rel. Min. HERMAN BENJAMIN, DJe 14.9.2017; AgRg no AREsp. 518.189/SP, Rel. Min. HUMBERTO MARTINS, DJe 28.10.2014; AgRg no REsp. 919.833/RJ, Rel. Min. HUMBERTO MARTINS, DJe 15.4.2011.
+
+8. Como se vê, quanto ao ponto em que a parte ora embargante alega a ocorrência de omissão, o acórdão fora específico e claro ao afastar a assertiva.
+9. Com base nessas considerações, rejeitam-se os Embargos de Declaração da Fazenda do Estado de São Paulo.
+10. É o voto.
