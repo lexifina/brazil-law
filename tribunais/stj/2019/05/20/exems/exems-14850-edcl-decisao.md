@@ -1,0 +1,10 @@
+DECISÃO
+VIRGILIO ANTONIO RIBEIRO DE OLIVEIRA FILHO opõe embargos de declaração contra a decisão de fl. 741, que extinguiu o processo em razão do adimplemento da obrigação.
+Assinala o embargante que houve erro material no decisum, na medida em que ainda pende de exame a divergência estabelecida sobre o valor controvertido e que somente a quantia incontroversa é que foi objeto de pagamento. Por isso, requer seja sanado o erro, com o prosseguimento da execução.
+Com razão o embargante. De fato, no caso, somente o valor incontroverso foi objeto de pagamento. Ainda pende o exame sobre os valores restantes, os quais são objeto de divergência entre as partes. Por esse motivo, acolho os embargos de declaração, a fim de tornar sem efeito a decisão de fl. 741.
+Levando-se em consideração que o único aspecto levantado pela União diz respeito ao índice de correção monetária adotado, passo ao exame da impugnação apresentada.
+Embora o entendimento desta Corte haja pacificado o entendimento de que o índice aplicável é aquele que foi utilizado na planilha produzida pela Contadoria Judicial, há que se observar o que foi decidido pelo STF, no do RE n. 870.947/SE, que determinou o sobrestamento na aplicação do índice IPCA-e.
+Entretanto, como no caso já houve a determinação de pagamento dos valores corrigidos pela TR, deve a diferença existente, que é objeto de controvérsia, ficar bloqueada e permanecer em conta vinculada até que se julgue, em definitivo, o tema pelo STF. Após o julgamento, se a tese for favorável ao exequente, então os valores poderão ser levantados por ele. Caso contrário, deverão retornar os cofres públicos.
+Ante o exposto, julgo parcialmente procedente a impugnação apresentada pela União, tão somente para determinar que os valores correspondentes à diferença entre os índices permaneçam bloqueados em conta vinculada, até que o STF dirima a questão.
+Apesar desse resultado, não verifico, no momento, a existência de situação que justifique a fixação de honorários sucumbenciais, porquanto o objeto da controvérsia se encontra sobrestado pelo STF.
+Publique-se e cumpra-se.
