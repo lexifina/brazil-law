@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de obrigação de fazer c/c danos morais, fundada na indevida negativa de fornecimento do medicamento para realização do tratamento prescrito.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. É abusiva a recusa da operadora do plano de saúde de arcar com a cobertura do medicamento prescrito pelo médico para o tratamento do beneficiário, sendo ele off label, de uso domiciliar, ou ainda, não previsto em rol da ANS, e, portanto, experimental, mesmo se tratando de instituições sem fins lucrativos e que operam por autogestão.
+6. Admite-se a fixação do valor da causa por estimativa, quando não for possível a determinação exata da expressão econômica da demanda, estando sujeito a posterior adequação ao valor apurado na sentença ou no procedimento de liquidação. Precedentes.
+7. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+8. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 24/01/2019.
+Concluso ao gabinete em: 10/05/2019.
+Ação: de obrigação de fazer c/c danos morais com pedido de antecipação de tutela para fornecimento do medicamento para tratamento de neoplasia maligna de cólon metastático, ajuizada por CLAUDETE LACERDA PINTO BRAGA, em face da agravante, fundada na indevida negativa de fornecimento do medicamento para realização do tratamento prescrito.
+Sentença: julgou procedentes os pedidos para determinar que a agravante forneça a agravada o medicamento prescrito, tornando definitiva a liminar concedida, além de condená-la ao pagamento de R$ 10.000,00, a título de indenização por danos morais.
+Acórdão: negou provimento à apelação interposta pela agravante e deu parcial provimento à apelação interposta pela agravada, nos termos da seguinte ementa:
+PLANO DE SAÚDE. NEGATIVA DE COBERTURA. Sentença de Procedência. Apelo de ambas as partes.
+1. Medicamento Keytruda, para tratamento de neoplasia maligna de cólon metastático para pulmão. Irrelevância da alegação que se trata de medicamento experimental ou procedimento não constante do Rol da ANS. Aplicação da Súmula nº 102 do TJSP. Precedentes. 2. Danos morais. Conduta que agravou momento delicado na vida da autora e conturbou o tratamento de doença grave. Indenização bem fixada pela r. sentença.3. Fixação do valor da causa por estimativa. Possibilidade. 4. Fixação dos honorários por apreciação equitativa. Valor da causa elevado que poderia ensejar honorários incompatíveis com o trabalho desenvolvido no processo, que tramita a aproximadamente 7 meses sem grande complexidade que os justifiquem. 5. Sentença alterada. Recurso da requerida desprovido e recurso da autora parcialmente provido.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação do art. 1.022, II, do CPC/15, do art. 10, I, da Lei 9.656/98 e dos arts. 186, 188, I e 927, do CC/02.
+Afirma haver omissão quanto à questão envolvendo a exclusão da obrigação dos planos de saúde de cobrirem custos com medicamento experimental.
+Sustenta que não seria obrigada a fornecer medicamentos experimentais (off label), fora das indicações da bula. Assevera que a recusa do fornecimento do medicamento não seria capaz de gerar dano moral e que a indenização deveria ser afastada ou, subsidiariamente, ter o seu valor reduzido. Por fim, requereu a redução do valor da causa para R$ 30.000,00, pois a ação não teria conteúdo econômico imediatamente aferível.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da obrigação dos planos de saúde de cobrirem custos com medicamento experimental (e-STJ, fl. 213), de maneira que os embargos de declaração opostos pelo agravante de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que quanto à necessidade de redução do valor da causa, o agravante não alega violação a qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à abusividade na recusa do fornecimento do medicamento, à ocorrência de danos morais, além da adequação do valor da causa, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Do valor da indenização
+Ademais, quanto ao valor arbitrado a título de danos morais, a jurisprudência do STJ é pacífica no sentido de que a sua modificação somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo. Precedentes: REsp 1.668.302/RS, minha relatoria, 3ª Turma, DJe de 22/06/2017; AgInt no AREsp 1.036.187/PE, 4ª Turma, DJe de 01/08/2017; AgInt no AREsp 962.044/DF, 3ª Turma, DJe de 30/11/2016.
+- Da Súmula 568/STJ
+Ainda que assim não fosse, as duas Turmas de Direito Privado do STJ entendem que é abusiva a recusa da operadora do plano de saúde de arcar com a cobertura do medicamento prescrito pelo médico para o tratamento do beneficiário, sendo ele off label, de uso domiciliar, ou ainda, não previsto em rol da ANS, e, portanto, experimental, mesmo se tratando de instituições sem fins lucrativos e que operam por autogestão. (AgInt no REsp 1712056/SP, 4ª Turma, DJe de 18/12/2018; REsp 1769557/CE, 3ª Turma, DJe de 21/11/2018; REsp 1.721.705/SP, 3ª Turma, DJe de 06/09/2018; e REsp 1729566/SP, 4ª Turma, DJe de 30/10/2018).
+Além disso, as duas Turmas de Direito Privado do STJ entendem também pela possibilidade de fixação do valor da causa por estimativa, quando não for possível a determinação exata da expressão econômica da demanda, estando sujeito a posterior adequação ao valor apurado na sentença ou no procedimento de liquidação (AgInt no REsp 1698699/PR, 3ª Turma, DJe de 23/02/2018; e REsp 1712504/PR, 4ª Turma, DJe de 14/06/2018).
+Na hipótese, o Tribunal de origem decidiu que, havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental (e-STJ, fl. 213), bem como que seria possível a fixação do valor da causa por estimativa (e-STJ, fl. 217), em consonância com o entendimento dominante sobre o tema nesta Corte. Aplica-se, portanto, a Súmula 568/STJ no particular.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro, por equidade, os honorários fixados anteriormente em R$ 4.500,00 (e-STJ, fl. 220) para R$ 5.000,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
