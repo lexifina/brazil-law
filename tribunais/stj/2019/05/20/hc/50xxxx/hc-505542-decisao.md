@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de OTÁVIO [NOME] [NOME], contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi denunciado e teve a prisão preventiva decretada pela suposta prática do crime previsto no art. 157, § 2º-A, I c.c., §2º, II e V, do Código Penal (fl. 51).
+Irresignada, a defesa impetrou habeas corpus junto ao eg. Tribunal a quo, pugnando pela revogação da prisão preventiva. A ordem foi denegada,em v. acórdão às fls. 54-58, cuja ementa transcrevo oportunamente, verbis:
+"HABEAS CORPUS - ROUBO MAJORADO PELO CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO - ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO CAUTELAR INOCORRÊNCIA. Decisão suficientemente embasada nos requisitos do artigo 312. Código de Processo Penal, acrescida dos indícios de autoria e materialidade delitiva. ORDEM DENEGADA" (fl. 55).
+Daí o presente writ, no qual sustenta o impetrante, em linhas gerais, que o paciente estaria sofrendo constrangimento ilegal em razão da ausência de fundamentação idônea do r. decisum do Juízo de primeira instância que determinou sua segregação cautelar, baseada unicamente na gravidade abstrata do delito.
+Pondera que o paciente ostentaria condições pessoais favoráveis.
+Sustenta, por fim, a ausência dos requisitos ensejadores da prisão preventiva.
+Requer, ao final, a revogação da prisão preventiva do paciente.
+A liminar foi indeferida às fls. 65-67.
+As informações foram prestadas às fls. 71-79.
+O Ministério Público Federal manifestou-se, às fls. 81-85, pelo não conhecimento ou pela Denegação da ordem, em parecer que restou assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ROUBO TRIPLAMENTE MAJORADO. PRISÃO PREVENTIVA. CONSTRANGIMENTO ILEGAL NÃO OCORRÊNCIA. DECISÃO DEVIDAMENTE FUNDAMENTADA. ART. 312 DO CÓDIGO DE PROCESSO PENAL. PRESENÇA DOS PRESSUPOSTOS AUTORIZADORES. NECESSIDADE DA PRISÃO CAUTELAR PARA GARANTIR A ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL GRAV1DADE CONCRETA. PELO NÃO CONHECIMENTO OU PELA DENEGAÇÃO DA ORDEM" (fl. 81).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Insta consignar, inicialmente, que a segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal. A prisão preventiva, portanto, enquanto medida de natureza cautelar e excepcional, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem tampouco permite complementação de sua fundamentação pelas instâncias superiores.
+Nesse sentido é a sedimentada jurisprudência desta eg. Corte: AgRg no RHC n. 47.220/MG, Quinta Turma, Relª. Minª. Regina Helena Costa, DJe de 29/8/2014;  RHC n. 36.642/RJ, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 29/8/2014; HC n. 296.276/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 27/8/2014; RHC n. 48.014/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 26/8/2014.
+Na hipótese, a r. decisão impugnada está fundamentada nos seguintes termos, in verbis:
+"Por fim, de rigor seja decretada a prisão preventiva do acusado [NOME].
+É que há prova da existência dos crimes e indícios suficientes de autoria, tanto que a denúncia está sendo recebida.
+Dessa forma, seja decretada a prisão preventiva do acusado para garantia da ordem pública.
+Tem-se que o acusado está sendo denunciado pela prática de grave crime de roubo, praticado juntamente com outros seis indivíduos não identificados, com emprego de violência exercida com arma de fogo e mediante restrição de liberdade da vítima. Cumpre ressaltar, ainda, que o crime em questão é daqueles que diuturnamente fomenta a crescente intranqüilidade social.
+Nesse diapasão, faz-se necessária a custódia cautelar para o resguardo da ordem pública.
+Outrossim, importante frisar que, a vítima ainda efetuou o reconhecimento pessoal do acusado, conforme juntada às págs. 15.
+Desse modo, a medida extrema é conveniente para essa fase processual a fim de garantir, também, que a vitima possa realizar o reconhecimento pessoal em audiência." (fl. 52-grifei).
+Da leitura do trecho acima colacionado, tenho que o r. decisum que determinou a prisão preventiva do ora paciente encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que denotam sua periculosidade, notadamente se considerado o modus operandi pelo qual o delito foi, em tese, praticado, consistente em roubo cometido "juntamente com outros seis indivíduos não identificados, com emprego de violência exercida com arma de fogo e mediante restrição de liberdade da vítima".
+Cito, a fim de corroborar tal entendimento, os seguintes precedentes deste Superior Tribunal de Justiça:
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. No caso, o recorrente praticou o crime de roubo em concurso de agentes e, durante a fuga com o veículo da vítima, ocorreu perseguição policial e os autores, dirigindo de forma imprudente, chegaram a furar um bloqueio policial, oportunidade em que houve disparos de arma de fogo, colocando em risco a vida de terceiros e dos policiais.
+3. O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa, evidenciada pelo modus operandi com que o crime fora praticado, como ocorreu nestes autos.
+4. Recurso ordinário em habeas corpus desprovido" (RHC n. 84.648/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 27/11/2017, grifei).
+"PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO MAJORADO. CORRUPÇÃO DE MENOR. EXCESSO DE PRAZO. TEMA NÃO ENFRENTADO NA ORIGEM. NEGATIVA DE AUTORIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. FUNDAMENTAÇÃO CONCRETA. MODUS OPERANDI. FUGA. PARTICIPAÇÃO DE MENOR. ILEGALIDADE. AUSÊNCIA. APLICAÇÃO DE MEDIDAS ALTERNATIVAS À PRISÃO. INSUFICIÊNCIA À GARANTIA DA ORDEM PÚBLICA. HABEAS CORPUS DENEGADO.
+1. Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância.
+2. Apresentada fundamentação concreta para a decretação da prisão preventiva, consistente na fuga do acusado e no modus operandi do delito, pois o crime foi cometido, diante do uso de arma de fogo, o que, por si só, basta para embasar a decretação da custódia cautelar no resguardo da instrução criminal, além do mais agiu em concurso de agentes (corrupção de menor), não há que se falar em ilegalidade do decreto de prisão preventiva.
+3. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. Precedentes.
+4. Habeas corpus denegado" (HC n. 415.625/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 04/12/2017, grifei).
+Por fim, importante ressaltar que condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Pelo exposto, não conheço do presente habeas corpus.
+P.I.
