@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS. AUSÊNCIA. HONORÁRIOS RECURSAIS. DISPENSA DO TRABALHO ADICIONAL.
+1. Ação de obrigação de fazer com pedido de indenização por danos morais, fundada na negativa de fornecimento de materiais para realização de procedimento cirúrgico de urgência.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, os fundamentos por ela utilizados, não deve ser conhecido.
+3. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba.
+4.Agravo interno no agravo em recurso especial não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+Cuida-se de agravo interposto por [NOME] contra decisão unipessoal que não conheceu do agravo em recurso especial que interpusera.
+Ação: de obrigação de fazer com pedido de indenização por danos morais, ajuizada por MARCELO HENRIQUE PENHALBEL MORAES, em face da agravante, fundada na negativa de fornecimento de materiais para realização de procedimento cirúrgico de urgência.
+Acórdão: negou provimento à apelação interposta pela agravante e deu parcial provimento à apelação interposta pela agravada, apenas para excluir a condenação do agravado ao pagamento de honorários advocatícios, bem como para condenar a agravante ao pagamento total das despesas processuais, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. Ação de obrigação de fazer cumulada com pedido de compensação por danos morais. Plano de Saúde. Protelação na liberação de material necessário a realização de cirurgia - Cranioplastia. Sentença de procedência que confirmou a tutela antecipada e condenou a ré no pagamento de danos morais no valor de R$20.000,00, no pagamento de metade das custas processuais e no pagamento de honorários advocatícios no percentual de 10% da condenação, condenando a parte autora no pagamento de honorários no valor de R$2.000,00. Reforma parcial. Falha na prestação de serviço. Demora injustificada no fornecimento de material necessário a realização de cirurgia de urgência. Cirurgia agendada, inicialmente para 28/11/14, o pedido foi feito em 24/11/14 e o material só foi liberado quase um mês após 23/12/14, sem qualquer justificativa plausível, mesmo assim em razão de antecipação dos efeitos da tutela. Dano moral configurado. Demora no fornecimento do material que atrasou, sobremaneira, a realização da cirurgia trazendo insegurança ao autor quanto à possibilidade de contrair nova doença e de ter uma recuperação mais adequada e rápida. Condenação da autora em honorários advocatícios sucumbenciais em razão da sucumbência reciproca. Não cabimento. As normas processuais que trazem reflexo no direito material sancionando a causalidade nascida sob a égide de norma revogada tem aplicabilidade de norma do direito material, "tempus regit actum", devendo ser aplicada nesses casos a norma em vigor quando da propositura da ação, do oferecimento da contestação, reconvenção, ou da interposição de recurso. Primeiro recurso desprovido. Segundo recurso parcialmente provido.
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pela agravante devido à ausência de demonstração consistente da inaplicabilidade dos óbices das Súmulas 5 e 7/STJ.
+Razões do agravo: Nas razões do presente recurso, a agravante apresenta as seguintes argumentações:
+a) que a Súmula 182/STJ seria inaplicável;
+b) que "a reavaliação de dados explicitamente delineados na decisão recorrida não implica o reexame de fatos e provas, muito menos interpretação de cláusulas contratuais" (e-STJ, fl. 748);
+c) que não discute a situação contratual, mas "a impossibilidade de vinculação de plano de autogestão aos índices de reajuste da ANS, bem como a legitimidade da nova forma de custeio adotada" (e-STJ, fl. 748); e
+d) que a demanda não seria complexa, dispendiosa ou demorada, bem como que não haveriam elementos capazes de comprovar a necessidade de majoração dos honorários advocatícios, os quais deveriam ser minorados.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS. AUSÊNCIA. HONORÁRIOS RECURSAIS. DISPENSA DO TRABALHO ADICIONAL.
+1. Ação de obrigação de fazer com pedido de indenização por danos morais, fundada na negativa de fornecimento de materiais para realização de procedimento cirúrgico de urgência.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, os fundamentos por ela utilizados, não deve ser conhecido.
+3. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba.
+4.Agravo interno no agravo em recurso especial não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+A decisão agravada não conheceu do agravo em recurso especial interposto pela agravante devido à ausência de demonstração consistente da inaplicabilidade dos óbices das Súmulas 5 e 7/STJ.
+Veja-se o que constou na decisão (e-STJ, fls. 740/741):
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base neste(s) fundamento(s): Súmula 5/STJ (quanto à prática de ato ilícito consistente na demora no fornecimento de material cirúrgico), Súmula 7/STJ (quanto à prática de ato ilícito consistente na demora no fornecimento de material cirúrgico) e Súmula 83/STJ.
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do(s) seguinte(s) óbices: Súmula 5/STJ (quanto à prática de ato ilícito consistente na demora no fornecimento de material cirúrgico) e Súmula 7/STJ (quanto à prática de ato ilícito consistente na demora no fornecimento de material cirúrgico).
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em 2% os honorários fixados anteriormente.
+Da análise das razões do agravo em recurso especial, verifica-se que, de fato, a agravante não sustentou, de maneira consistente, a inaplicabilidade dos óbices das Súmulas 5 e 7/STJ.
+Quanto à Súmula 5/STJ, limitou-se a argumentar, genericamente, que "não interpôs recurso especial para buscar a simples interpretação de cláusula contratual, distinguindo-se a interpretação da lei da interpretação do contrato" (e-STJ, fl. 711). Da mesma forma, quanto à Súmula 7/STJ, apenas consignou que "o único objetivo do Recurso Especial interposto é analisar os dispositivos de lei federal apontados como violados, bem como a valoração da prova constante no acordão recorrido" (e-STJ, fl. 713).
+Assim sendo, a ausência de impugnação específica e consistente dos fundamentos utilizados pelo Tribunal de origem para negar seguimento ao recurso especial importa no não conhecimento do agravo em recurso especial, ante a aplicação da Súmula 182/STJ, como acertadamente asseverou a decisão agravada.
+No que se refere aos honorários recursais, o percentual em que foram fixados está em consonância com o disposto no art. 85, §2º, 3º e 11, do CPC/15, cabendo ressaltar que as duas Turmas de Direito Privado do STJ entendem que é dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba. Nesse sentido: AgInt no EREsp n. 1539725/DF, Segunda Seção, DJe de 19/10/2017.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
