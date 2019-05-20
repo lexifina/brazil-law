@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (fls. 437-445 e-STJ), assim ementado:
+Apelação cível. Plano de saúde individual. Ação declaratória de nulidade de cláusula contratual. Sentença de improcedência. Inconformismo do autor.
+Código de Defesa do Consumidor. Aplicabilidade. Artigos 2º e 3º da Lei nº 8.078/1990. Súmulas nº 100 deste Egrégio Tribunal de Justiça e nº 608 do Colendo Superior Tribunal de Justiça.
+Reajuste por mudança de faixa etária, inclusive a partir dos 60 anos. Possibilidade no caso concreto. Tese firmada no recurso especial nº 1.568.244/RJ, submetido à sistemática dos chamados recursos repetitivos. Superação da Súmula nº 91 deste Egrégio Tribunal de Justiça do Estado de São Paulo.
+Requisitos: previsão contratual, observância das normas expedidas pelos órgãos governamentais reguladores e não serem aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso.
+Hipótese dos autos. Contrato antigo e não adaptado, firmado antes da entrada em vigor da Lei nº 9.656/1998. Contudo, inexistência de qualquer base atuarial idônea para justificar o reajuste. Ausência de efetivação do direito básico de informação adequada e clara ao consumidor. Artigo 6º, III, da Lei nº 8.078/1990. Abusividade do percentual utilizado para reajuste do presente caso. Artigo 51, IV c.c. § 1º, III, da Lei nº 8.078/1990. Parte autora submetida a desvantagem exagerada, que se mostra excessivamente onerosa para o consumidor, mormente em uma economia com inflação estabilizada.
+Sentença reformada. Recurso provido em parte para declarar a abusividade do índice de reajuste por mudança de faixa etária objeto dos autos, devendo ter apuração de percentual adequado e razoável em fase de liquidação de sentença, bem como para condenar a parte ré a devolver à parte autora as diferenças pagas em excesso, com readequação dos encargos sucumbenciais.
+Opostos embargos declaratórios (fls. 447-461 e-STJ), restaram desacolhidos na origem (fls. 462-469 e-STJ).
+Nas razões do especial (fls. 472-490 e-STJ), o insurgente alega violação aos artigos 932, inc. Vm "b" e 1.040, inc. II, do CPC/15, porquanto não teria sido respeitado o entendimento firmado por este STJ no julgamento do REsp n. 1.568.244/RJ, submetido à sistemática dos recursos repetitivos (Tema 952).
+Apresentadas contrarrazões (fls. 235-246 e-STJ), o apelo extremo foi admitido na origem.
+É o relatório.
+Decide-se.
+A pretensão recursal não comporta conhecimento.
+1. Conforme entendimento firmado no julgamento do Recurso Especial n. 1.568.244/RJ (Tema 952), submetido à sistemática de recursos repetitivos, "se for reconhecida a abusividade do aumento praticado pela operadora de plano de saúde em virtude da alteração de faixa etária do usuário, para não haver desequilíbrio contratual, faz-se necessária, nos termos do art. 51, § 2º, do CDC, a apuração de percentual adequado e razoável de majoração da mensalidade em virtude da inserção do consumidor na nova faixa de risco, o que deverá ser feito por meio de cálculos atuariais na fase de cumprimento de sentença" (REsp 1568244/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 14/12/2016, DJe 19/12/2016).
+No caso, o Tribunal de origem aplicou, integralmente, o entendimento firmado no julgamento citado, reconhecendo a abusividade, a partir da análise do caso concreto, de acordo com os parâmetros fixados por esta Corte Superior, e remetendo à liquidação de sentença para apuração de índice adequado à hipótese.
+Ademais, análise da tese da insurgente, de que não haveria abusividade no caso concreto, encontra óbice nas Súmulas 5 e 7/STJ.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, não se conhece do recurso especial. Em atenção ao disposto no art. 85, §11, do CPC/15, deixa-se de majorar os honorários, eis que já fixados no patamar máximo pela origem.
+Publique-se.
+Intimem-se.
