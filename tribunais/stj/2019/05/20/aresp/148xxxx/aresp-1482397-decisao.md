@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim ementado:
+PENAL E PROCESSUAL PENAL APELAÇÃO CRIMINAL TRÁFICO DE DROGAS ABSOLUTÓRIO IMPOSSIBILIDADE CONJUNTO PROBATÓRIO ROBUSTO E HARMÔNICO COM OS ELEMENTOS INQUISITORIAIS DOSIMETRIA PENA-BASE EXASPERAÇÃO FUNDAMENTADA NO ART 42 DA LEI DE DROGAS AUSÊNCIA DE ILEGALIDADE CAUSA DE DIMINUIÇÃO DO TRÁFICO PRIVILEGIADO NÃO PREENCHIMENTO REQUISITOS ALEGAÇÃO DE HIPOSSUFICIÊNCIA PARA O AFASTAMENTO DA MULTA AUSÊNCIA DE RESPALDO NO ORDENAMENTO JURÍDICO APELO CONHECIDO E NÃO PROVIDO.
+1 - Havendo testemunhos e outro elementos probatórios que corroboram o auto de prisão em flagrante e as suas circunstâncias, não há como afastar a materialidade e autoria delitiva, tampouco entender que haveria fragilidade apta a aplicação do princípio do in dubio pro reo.
+2 - O art. 42 da Lei de drogas prevê a necessidade de ponderar a quantidade e natureza da droga com preponderância em relação às circunstâncias judiciais previstas do art. 59 do CP.
+3 - A aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/06, demanda a observância cumulativa de 04 (quatro) requisitos que o acusado deve satisfazer: (1) seja primário, (2) tenha bons antecedentes, (3) não se dedique às atividades criminosas e (4) não integre organização criminosa.
+4 - A grande quantidade de droga e seu potencial viciante podem ser usados como indicativos de que a recorrente se dedica a atividade criminosa, não estando preenchidos, portanto, todos os requisitos legais, sendo inaplicável a causa especial de diminuição da pena.
+5 - A multa faz parte do preceito secundário do tipo, razão pela qual possui força cogente e o seu afastamento importa em violação ao princípio da legalidade.
+6 - Recurso conhecido e não provido.
+Quanto à controvérsia, alega violação do art. 33, § 4º, da Lei n. 11.343/06, no que concerne à aplicação da minorante prevista no mencionado dispositivo, trazendo os seguintes argumentos:
+No caso, o v. acórdão do Egrégio Tribunal Justiça de Alagoas, apesar do indiscutível saber jurídico de seus integrantes, ofendeu o disposto no §4º do art. 33 da Lei 11.343/06, ao negar o reconhecimento dessa causa de diminuição de pena (apesar da presença de todos os requisitos legais). (fls. 261).
+É o relatório. Decido.
+O Tribunal de origem, ao examinar a controvérsia, fundamentou da seguinte maneira:
+22 - Ultrapassados esses pontos, constata-se que o apelante atacou o fato de não ter sido agraciado com a causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/06, alegando que não foi comprovado que esta se dedicaria a atividades criminosas do tráfico ou membro de organização criminosa.
+ ..
+24 - De uma leitura da legislação em espeque, percebe-se que para que o réu, faça jus ao beneficio da referida redução, necessário se faz o preenchimento de 04 (quatro) requisitos cumulativos: (1) seja primário, (2) tenha bons antecedentes, (3) não se dedique às ou, atividades criminosas e (4) não integre organização criminosa.
+25 - Ocorre que, a grande quantidade de droga de alto poder viciante, como a que foi apreendida em poder do apelante, bem demonstram que o réu se dedica a atividade criminosa, devendo ser afastada a aplicação da causa especial de diminuição da pena, pelo não preenchimento dos requisitos legais, consoante jurisprudência pacífica do Superior Tribunal de Justiça:
+ ..
+26 - Afastada a aplicação do art. 33, § 4º, da Lei de Drogas, mantenho a pena definitiva nos termos em que fixados no julgado atacado. (fls. 250/252)
+Assim, na espécie, verificar a aplicação da redutora prevista no art. 33, § 4º, da Lei n. 11.343/06 demanda, para tanto, o revolvimento do conjunto fático-probatório constante nos autos, o que atrai a incidência do óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no Resp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e Resp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, Dje de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
