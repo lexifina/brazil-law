@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por LPS BRASIL CONSULTORIA DE IMÓVEIS S/A contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. AÇÃO DECLARATÓRIA. MULTA PROCON. ART. 57 DO CDC. PRELIMINAR DE CERCEAMENTO DE DEFESA AFASTADA. AUSÊNCIA DE DEMONSTRAÇÃO DE VÍCIO NO PROCEDIMENTO ADMINISTRATIVO. PRINCÍPIO DA LEGALIDADE. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO.
+1. Não há se falar em nulidade da sentença por cerceamento de defesa, eis que configurada a preclusão lógica, e considerando que é ônus da parte autora comprovar os fatos constitutivos do seu direito, a teor do que dispõe o art. 373, inciso I, do CPC/15. Ainda, não se caracteriza o cerceamento de defesa alegado, na medida em que o julgador é o destinatário da prova, competindo a ele a análise daquelas que entender pertinentes e necessárias para formação de sua convicção, sendo que, na espécie, a prova dos autos é suficiente para o deslinde do feito.
+2. Hipótese dos autos em que não há demonstração de vício de ilegalidade ou inobservância do direito ao contraditório e da ampla defesa no processo administrativo que culminou com a aplicação de multa pelo PROCON.
+3. Vedação ao Poder Judiciário de adentrar no mérito administrativo, devendo restringir-se à legalidade do ato.
+4. O PROCON é parte legítima para aplicar multa por infração ao Código de Defesa do Consumidor, ante o Poder de Polícia que lhe é conferido.
+5. Arbitramento de multa do art. 57 do Código de Defesa do Consumidor sem que constatada ofensa à razoabilidade e à proporcionalidade.
+6. Honorários advocatícios arbitrados no patamar de 20% sobre o valor atribuído à causa, cujo percentual, embora se enquadre nos parâmetros do art. 85, §3º, I, do CPC (entre 10% e 20% para valores até 200 salários mínimos), mostra-se excessivo, considerando a natureza da causa e o trabalho despendido, motivo pelo qual vão reduzidos para 10% sobre a mesma base de cálculo.
+7. Sentença de improcedência mantida. PRELIMINAR AFASTADA. APELAÇÃO PARCIALMENTE PROVIDA.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais os incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
