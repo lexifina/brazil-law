@@ -1,0 +1,51 @@
+EMENTA
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-DOENÇA. ARTS. 59 E 42 DA LEI 8.213/1991. RECONHECIMENTO, PELAS INSTÂNCIAS ORDINÁRIAS, DA AUSÊNCIA DE REDUÇÃO DA CAPACIDADE LABORAL DA SEGURADA, AINDA QUE TEMPORÁRIA. REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO NÃO PREENCHIDOS. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. As instâncias ordinárias, soberanas na análise fático-probatória da causa, julgaram improcedente o pedido inicial, tendo em vista que o laudo médico-pericial foi incisivo ao afirmar que, inobstante a autora seja portadora da Síndrome de Sj gren, atualmente não lhe falta a capacidade laborativa, nem mesmo limitação temporária de suas faculdades.
+2. Assim, não preenchidos os requisitos para a concessão de quaisquer dos benefícios pleiteados, impossível acolher a pretensão autoral.
+3. Agravo Interno do Particular a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto por [NOME] COSTA BUENO em face da decisão de fls. 129/132 que negou provimento ao seu Agravo em Recurso Especial, nos termos da seguinte ementa:
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. PEDIDO DE APOSENTADORIA POR INVALIDEZ OU PELA CONCESSÃO DE AUXÍLIO-DOENÇA. REQUISITOS LEGAIS PARA QUAISQUER DOS PLEITOS NÃO PREENCHIDOS. NECESSIDADE DE REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO DA PARTE SEGURADA A QUE SE NEGA PROVIMENTO.
+2. Sustenta a parte agravante que não houve a correta valoração das provas carreadas aos autos, argumentando que o laudo associado das condições pessoais da Segurada comprovam o preenchimento dos requisitos para a concessão do benefício.
+3. É o relatório.
+EMENTA
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-DOENÇA. ARTS. 59 E 42 DA LEI 8.213/1991. RECONHECIMENTO, PELAS INSTÂNCIAS ORDINÁRIAS, DA AUSÊNCIA DE REDUÇÃO DA CAPACIDADE LABORAL DA SEGURADA, AINDA QUE TEMPORÁRIA. REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO NÃO PREENCHIDOS. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. As instâncias ordinárias, soberanas na análise fático-probatória da causa, julgaram improcedente o pedido inicial, tendo em vista que o laudo médico-pericial foi incisivo ao afirmar que, inobstante a autora seja portadora da Síndrome de Sj gren, atualmente não lhe falta a capacidade laborativa, nem mesmo limitação temporária de suas faculdades.
+2. Assim, não preenchidos os requisitos para a concessão de quaisquer dos benefícios pleiteados, impossível acolher a pretensão autoral.
+3. Agravo Interno do Particular a que se nega provimento.
+VOTO
+1. A Lei 8.213/1991, que dispõe sobre os benefícios da Previdência Social, preceitua em seu art. 42 que:
+Art. 42 - A aposentadoria por invalidez, uma vez cumprida, quando for o caso, a carência exigida, será devida ao segurado que, estando ou não em gozo de auxílio-doença, for considerado incapaz e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência, e ser-lhe-á paga enquanto permanecer nesta condição.
+2. Nesses termos, para a concessão da aposentadoria por invalidez, faz-se necessário que o Segurado, após cumprida a carência, seja considerado incapaz para o trabalho e insuscetível de reabilitação em atividade que lhe garanta subsistência.
+3. Do mesmo modo, a Lei 8.213/1991 preceitua em seu art. 59 o seguinte:
+Art. 59. O auxílio-doença será devido ao segurado que, havendo cumprido, quando for o caso, o período de carência exigido nesta Lei, ficar incapacitado para o seu trabalho ou para a sua atividade habitual por mais de 15 (quinze) dias consecutivos.
+Parágrafo único. Não será devido auxílio-doença ao segurado que se filiar ao Regime Geral de Previdência Social já portador da doença ou da lesão invocada como causa para o benefício, salvo quando a incapacidade sobrevier por motivo de progressão ou agravamento dessa doença ou lesão.
+4. Assim, para que seja concedido o auxílio-doença é necessário que o Segurado, após cumprida a carência, seja considerado incapaz temporariamente para o trabalho.
+5. No presente caso, as instâncias ordinárias, soberanas na análise fático-probatória da causa, julgaram improcedente o pedido inicial, tendo em vista que o laudo médico-pericial foi incisivo ao afirmar que, inobstante a autora seja portadora da Síndrome de Sj gren, atualmente não lhe falta a capacidade laborativa, nem mesmo limitação. A propósito:
+Com efeito, a perícia respondeu a todos os quesitos, abordando as matérias indagadas pelas partes, de forma suficiente à correta apreciação do pedido formulado na inicial.
+Dessa forma, não preenchendo a demandante os requisitos necessários à concessão do benefício de aposentadoria por invalidez, tampouco do auxílio-doença ou benefício assistencial, vez que o laudo foi categórico quanto à inexistência de incapacidade para o trabalho ou mesmo de limitação, a improcedência do pedido é de rigor.
+Assim, a peça técnica apresentada pelo Sr. [NOME], profissional de confiança do Juiz e equidistante das partes, foi conclusiva no sentido da inexistência de incapacidade da autora, a qual não apresentou qualquer elemento que pudesse desconstituí-la ou mesmo laudo de assistente técnico contrapondo-se às conclusões do expert (fls. 90).
+6. Assim, não preenchidos os requisitos para a concessão de quaisquer dos benefícios pleiteados, impossível acolher a pretensão autoral.
+7. Ademais, a alteração dessa conclusão, na forma pretendida, demandaria necessariamente a incursão no acervo fático-probatório dos autos, a fim de verificar se a autora encontra-se incapacitada para o trabalho. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial. A propósito, os seguintes julgados:
+PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. NEXO CAUSAL E REDUÇÃO DA CAPACIDADE LABORAL NÃO RECONHECIDOS. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. O auxílio-doença é concedido, nos termos do art. 59 da Lei 8.213/91, ao segurado, que, após cumprida a carência, seja considerado incapaz temporariamente para o trabalho.
+2. O Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, ao negar provimento à apelação, entendeu descabida a concessão do auxílio-doença, diante da ausência de redução da capacidade laborativa.
+3. Modificar o acórdão recorrido, como pretende o recorrente, no sentido de reconhecer a redução da capacidade laboral, demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte em vista do óbice da Súmula 7/STJ.
+Agravo regimental improvido (AgRg no AREsp. 663.480/SP, Rel. Min. HUMBERTO MARTINS, DJe 26.8.2015).
+
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO POR INCAPACIDADE. REQUISITOS. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A questão recursal gira em torno do preenchimento dos requisitos para obtenção de um benefício previdenciário por incapacidade, observando-se os artigos 42 e 59 da Lei 8.213/1991.
+2. O acórdão proferido pelo Tribunal a quo concluiu, com base na prova produzida nos autos, que os requisitos necessários à concessão do benefício aposentadoria por invalidez ou auxílio-doença não foram preenchidos.
+3. Destarte, alterar a premissa fixada pelo Tribunal a quo encontra óbice na Súmula 7/STJ.
+4. Agravo regimental não provido (AgRg no AREsp. 576.698/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 2.12.2014).
+
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. OFENSA. CONTRADITÓRIO E AMPLA DEFESA. IMPOSSIBILIDADE DE ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO SÚMULAS 282 E 356/STF. AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ. NÃO CONFIGURADA A INCAPACIDADE LABORAL. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE EXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. No tocante à análise de suposta violação de dispositivos constitucionais, frise-se que é de competência exclusiva do Pretório Excelso, conforme prevê o art. 102, inciso III, da Carta Magna, pela via do recurso extraordinário, sendo defeso a esta Corte fazê-lo, ainda que para fins de prequestionamento.
+2. Verifica-se que a Corte de origem não analisou, ainda que implicitamente, os arts. 186, da Lei 8.112/90; 20, I e II, § 2º, 60; 62; 89, § único, "a", 93, todos da Lei n. 8.213/91; 76 a 79 e 136 do Decreto n. 3.048/99; Decreto 6.042/07; 30, III, 200, da IN 118/05; 199, § 3º, I e II, 201 e 207, da IN n. 20/07; Súmulas 25 e 26 da Advocacia Geral da União; 10 e 11, da Resolução 1488/98 do Conselho Federal de Medicina; 130, 133, II, 245, 333, incisos, parágrafo único, 436,454, todos do Código de Processo Civil. Desse modo, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal. Incidência das Súmulas 282 e 356/STF.
+3. A alegação de violação dos arts. 25, 26, 42, 43 e 59, todos da Lei n. 8.213/91, não pode ser revista sem que se proceda ao reexame do material fático-probatório dos autos, pois seria necessário avaliar o conjunto das provas dos autos para saber se o recorrente possui os requisitos necessários para a concessão do auxílio-doença ou aposentadoria por invalidez. Incidência da Súmula 7/STJ.
+4. Não pode ser conhecido o presente recurso pela alínea "c" do permissivo constitucional quando o recorrente não realiza o necessário cotejo analítico, bem como não apresenta, adequadamente, o dissídio jurisprudencial. Apesar da transcrição de ementa, não foram demonstradas as circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma.
+Agravo regimental improvido (AgRg no REsp. 1.490.851/SP, Rel. Min. HUMBERTO MARTINS, DJe 5.12.2014).
+8. Ante o exposto, nega-se provimento ao Agravo Interno do Particular.
