@@ -1,0 +1,89 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. É dever do recorrente indicar qual dispositivo legal entende por violado, quando da interposição do recurso pela alínea "a" do permissivo constitucional. Descumprida essa exigência é imperiosa a aplicação da Súmula 284 do STF.
+2. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por BV FINANCEIRA SA CRÉDITO FINANCIAMENTO E INVESTIMENTO, em face de decisão monocrática, da lavra deste signatário (fls. 834-839, e-STJ), que negou provimento ao agravo em recurso especial.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou, a seu turno, acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+Apelação. Ação de rescisão de contrato c/c indenizatória. Compra de veículo automotor mediante contrato de financiamento. Não entrega de documento necessário à regularização do veículo junto ao órgão de trânsito. Contratos coligados. Rescisão do contrato e devolução dos valores pagos na forma simples. Reforma parcial da sentença.
+1. Se a agência não disponibiliza a documentação necessária para que o comprador efetua a regularização do veículo junto ao órgão de trânsito, é certo que é de sua responsabilidade o fato de o mesmo ter ficado parado e, com isso, ter sofrido danos decorrentes do período de inércia, uma vez que a autora se viu impedida de circular com o mesmo.
+2. Se o financiamento não foi pré-contratado pela autora numa agência bancária de sua confiança, mas disponibilizado nas dependências da agência de veículos, na presença de representante da agência vendedora, os réus atuaram em verdadeira parceria comercial, posto que, ao oferecer o produto do financiador, atua como preposto seu, atraindo a responsabilidade para a entidade financiadora, que assume os riscos de tê-lo encarregado para venda de seu produto.
+3. Configuração da atividade comercial em cadeia de consumo, que caracteriza a responsabilidade solidária (art. 7º, parágrafo único, do CDC). Incidência também dos arts. 18 e 34, ambos do CDC. Aplicação extensiva do art. 34 do CDC. Valor dado de entrada que não foi integralmente deduzido na contratação do financiamento. Falha na prestação do serviço.
+4. Declarado rescindido o negócio, por vício na prestação do serviço, deve a devolução dos valores pagos ser realizada na forma simples, posto não se tratar de pagamento indevido.
+5. Dano moral corretamente arbitrado em R$ 8.000,00 (oito mil reais) ante à postura abusiva e desrespeitosa da empresa, sendo justo e adequado ao caso, que deve levar em conta os critérios sugeridos pela doutrina e pela jurisprudência, em vista de casos análogos e em observância ao seu aspecto compensador ao que se atribui até mesmo um componente punitivo, em vista das circunstâncias do caso concreto.
+6. Provimento parcial do recurso da financeira e desprovimento do apelo da agência.
+Não foram opostos embargos de declaração.
+Nas razões de recurso especial (fls. 760-772, e-STJ), apontou a insurgente violação do artigo 944, caput e parágrafo único, do Código Civil. Sustentou, em síntese: (i) ser parte ilegítima para figurar no pólo passivo da demanda; e (ii) a necessidade de reduzir a indenização arbitrada a título de danos morais, pois fixada em patamar exorbitante, diante das circunstâncias do caso.
+Contrarrazões às fls. 785-787, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, decisão contra a qual a insurgente interpôs agravo, objetivando a desobstrução do reclamo na origem.
+Em decisão monocrática, este signatário negou provimento ao agravo em recurso especial por entender aplicáveis as Súmulas 7 do STJ e 284 do STF.
+No presente agravo interno (fls. 841-847, e-STJ), a insurgente reitera o argumento de que é parte ilegítima e que atendeu os requisitos necessários ao processamento do recurso especial. Pleiteia, por fim, a reforma da decisão atacada.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. É dever do recorrente indicar qual dispositivo legal entende por violado, quando da interposição do recurso pela alínea "a" do permissivo constitucional. Descumprida essa exigência é imperiosa a aplicação da Súmula 284 do STF.
+2. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, uma vez que os argumentos tecidos pelo recorrente são incapazes de ilidir os fundamentos da decisão agravada, razão pela qual deve ser mantida.
+1. Inicialmente, destaca-se que o recurso especial possui fundamentação vinculada, razão pela qual o efeito devolutivo opera-se tão-somente nos termos do que foi impugnado.
+Assim, a ausência de indicação expressa de dispositivos legais tidos por vulnerados, ou sobre os quais recairia interpretação pretoriana divergente, não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+Com efeito, "O recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal. Se a divergência não é notória, e nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula n. 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional" (AgInt no REsp 1680099/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/12/2017, DJe 02/02/2018).
+Nesse sentido, destacam-se, ainda, os seguintes precedentes:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ART. 535, II, DO CPC. NÃO OCORRÊNCIA. DANOS MORAIS. REEXAME DE MATÉRIA DE FATO. INCIDÊNCIA DO ENUNCIADO 7 DA SÚMULA DO STJ. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA Nº 284 DO STF.  ..
+3. A ausência de indicação do dispositivo legal tido por violado atrai o óbice de que trata o verbete n. 284, da Súmula do STF.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 723.635/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/08/2015, DJe 10/08/2015)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL OBJETO DA DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. O conhecimento do recurso especial, pela alínea c do permissivo constitucional, exige a indicação de qual dispositivo legal teria sido objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Precedentes do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1119408/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 06/02/2018, DJe 14/02/2018)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL - CONTRATO DE PARTICIPAÇÃO FINANCEIRA - TELEFONIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.  ..
+2. A falta de indicação do dispositivo legal ao qual se entende ter sido dada interpretação divergente, viabilizador do recurso especial pelo dissídio jurisprudencial, atrai a incidência da Súmula n. 284/STF.
+3. Agravo interno desprovido.
+(AgInt no REsp 1599674/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/04/2018, DJe 20/04/2018)  grifou-se
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CAPITALIZAÇÃO MENSAL DE JUROS. MATÉRIA VENTILADA NAS RAZÕES RECURSAIS. INADMISSIBILIDADE DO RECURSO QUANTO A ESSA MATÉRIA. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI FEDERAL QUE TERIAM SIDO VIOLADOS. DEFICIÊNCIA RECURSAL. APLICAÇÃO DA SÚMULA 284/STF. COTEJO ANALÍTICO POR MEIO DE JULGADOS QUE NÃO APRECIARAM A MESMA REALIDADE FÁTICA, SOB A MESMA ÓTICA. AGRAVO INTERNO DESPROVIDO.
+1. A Jurisprudência do STJ está assentada na impossibilidade de conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, quando não indicado o dispositivo de lei supostamente violado ou que tenha recebido interpretação divergente pelo julgado impugnado. Incidência da Súmula 284/STF. Precedente.
+2. Embora a parte insurgente alegue que a divergência jurisprudencial esteja devidamente demonstrada, ela, na verdade, não ocorre. Isso porque, somando-se ao fato de inexistência de indicação de dispositivos de lei violados (aplicação da Súmula 284/STF), percebe-se que o cotejo analítico formulado não se detém sobre acórdãos que apreciaram a mesma questão, com a mesma realidade fática.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1643634/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/06/2018, DJe 29/06/2018)  grifou-se
+No caso em tela, tal providência não foi atendida pela insurgente, a qual, em seu apelo nobre, não indica qual o dispositivo legal teria sido violado, no tocante à tese de ilegitimidade passiva ad causam da instituição financeira.
+Dessa forma, diante de toda a argumentação ora apresentada, é de rigor a incidência do enunciado sumular n. 284 do Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+2. No mais, quanto à tese de exorbitância dos valores fixados a título de danos morais, incide o enunciado da Súmula n. 7 do STJ no que tange ao exame da pretensão voltada à redução da verba indenizatória fixada em R$ 8.000,00 (oito mil reais).
+Não obstante o grau de subjetivismo que envolve o tema, uma vez que não existem critérios predeterminados para a quantificação do dano moral, esta Corte Superior tem reiteradamente se pronunciado no sentido de que a indenização deve ser suficiente a restaurar o bem estar da vítima, desestimular o ofensor em repetir a falta, não podendo, ainda, constituir enriquecimento sem causa ao ofendido.
+Com a apreciação reiterada de casos semelhantes, concluiu-se que a intervenção desta Corte ficaria limitada aos casos em que o quantum fosse irrisório ou excessivo, diante do quadro fático delimitado em primeiro e segundo graus de jurisdição.
+Assim, se o arbitramento do valor da compensação por danos morais foi realizado com moderação, proporcionalmente ao grau de culpa, ao nível sócio-econômico do recorrido e, ainda, ao porte econômico do recorrente, orientando-se o juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com razoabilidade, fazendo uso de sua experiência e do bom senso, atento à realidade da vida e às peculiaridades de cada caso, o STJ tem por coerente a prestação jurisdicional fornecida (RESP 259.816/RJ, Rel. Min. Sálvio de Figueiredo Teixeira, DJ de 27/11/2000).
+No caso em tela, a Corte local, ao considerar os critérios acima estabelecidos, reputou adequado o arbitramento da indenização em R$ 8.000,00 (oito mil reais), valor este que não refoge à razoabilidade, consoante denota o seguinte trecho do acórdão recorrido (fl. 758, e-STJ):
+O dano moral foi corretamente arbitrado e advém da postura abusiva e desrespeitosa da empresa, impondo o arbitramento de valor indenizatório justo e adequado ao caso, que deve levar em conta os critérios sugeridos pela doutrina e pela jurisprudência, em vista de casos análogos e em observância ao seu aspecto compensador ao que se atribui até mesmo um componente punitivo, em vista das circunstâncias do caso concreto.
+Da sentença extrai-se o seguinte excerto (fl. 424, e-STJ):
+Quanto ao dano moral, para que se possa cogitar em indenização por dano moral, é necessário que o ofendido demonstre de forma cabal que o ato tido como causador do dano tenha ultrapassado a esfera daquilo que deixa de ser razoável, aquilo que o homem-médio aceita como fato comum à sociedade.
+O magistrado para conceder reparação por dano moral deve estar convencido da efetiva ofensa à dignidade - consubstanciada na violação às integridades física, psíquica e moral - não devendo tratar-se de mera frustração ou dissabor devido ao risco de banalização do instituto.
+In casu, tenho que, de fato, ter frustrada a expectativa de utilizar de veículo adquirido e que vinha sendo pago, ultrapassa a esfera do mero aborrecimento, razão pela qual arbitro a compensação por danos morais em R$ 8.000,00 (quatro mil reais), valor que vem sendo praticado neste foro em caso análogo. Confira-se:  ..
+Na hipótese, o valor arbitrado pelas instâncias ordinárias, de fato, consideradas as circunstâncias fáticas, não destoa daqueles reputados razoáveis e proporcionais por esta Corte, de modo a não haver justificativa para afastamento do óbice inserto na Súmula 7 do STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE DAR C/C INDENIZATÓRIA. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. DEMORA EXCESSIVA NA ENTREGA DE VEÍCULO ZERO QUILÔMETRO. DANOS MORAIS CARACTERIZADOS. REVISÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 7 DO STJ. DISTRIBUIÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.  ..
+3. A jurisprudência desta Corte é firme no sentido de que a redução ou majoração do quantum indenizatório é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula n. 7 do STJ. Proporcionalidade e razoabilidade observadas no caso dos autos.  ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1320339/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/11/2018, DJe 07/12/2018)  grifou-se
+ Indenização por danos morais: R$ 10.000,00 - dez mil reais
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. CONTRATO DE SEGURO. AUTOMÓVEL SINISTRADO ENCAMINHADO À CONCESSIONÁRIA PARA CONSERTO. DEMORA INJUSTIFICADA NO REPARO DO AUTOMÓVEL. TEMPO ALÉM DO RAZOÁVEL. DANO MORAL CARACTERIZADO. AUSÊNCIA DE MERO ABORRECIMENTO. VALOR ARBITRADO PROPORCIONAL AO DANO. RECURSO NÃO PROVIDO.
+1. No caso em exame, as instâncias ordinárias concluíram, com base na interpretação do acervo fático-probatório dos autos, configurado o dano moral em razão de a concessionária haver demorado, de forma injustificada, tempo muito superior ao razoável para efetuar o conserto em veículo sinistrado, de modo que apenas após quatro meses da data de entrega do automóvel acidentado na concessionária e diante de muita insistência do consumidor é que foi iniciada a execução do serviço. A reforma do julgado encontra óbice na Súmula 7/STJ.
+2. É possível a intervenção desta Corte de Justiça para reduzir ou aumentar o valor indenizatório do dano moral apenas nos casos em que o quantum arbitrado pelo acórdão recorrido se mostrar irrisório ou exorbitante, situação que não se faz presente no caso em tela, diante da sua fixação em R$ 20.000,00.
+3. Agravo interno não provido.
+(AgRg no AREsp 572.875/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/08/2015, DJe 16/09/2015)
+ Indenização por danos morais: R$ 20.000,00 - vinte mil reais
+Dessa forma, para modificar as conclusões consignadas no acórdão impugnado e concluir estar exorbitante o quantum indenizatório como quer a parte recorrente, seria necessária a incursão no conjunto fático-probatório das provas e nos elementos de convicção dos autos, o que é vedado em sede de recurso especial (Súmula nº 7 do STJ).
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. MAJORAÇÃO DA INDENIZAÇÃO. INVIABILIDADE. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. DIVERGÊNCIA NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. O valor fixado a título de indenização por danos morais só pode ser revisto em recurso especial quando irrisório ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+3. O STJ firmou entendimento de ser incabível a análise do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características, sempre haverá distinção no aspecto subjetivo.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1349749/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 06/11/2018, DJe 21/11/2018)
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
