@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “DIREITO PÚBLICO - SERVIDOR ESTADUAL (EMPREGADO PÚBLICO) - PROCURADOR AUTÁRQUICO - PRETENSÃO AO RECEBIMENTO DE HONORÁRIOS ADVOCATÍCIOS APÓS APOSENTADORIA - SENTENÇA DE IMPROCEDÊNCIA - APELAÇÃO DO AUTOR – DESPROVIMENTO - Vantagem funcional estendida aos procuradores autárquicos pela L.C.E. nº 1.077/08, conforme a situação pessoal e funcional de cada um - Legislação que garante o recebimento dos honorários aos servidores em atividade não gera automaticamente direito à percepção após aposentadoria - Aposentadoria de servidor celetista que rompe o vínculo funcional com a Administração Pública Estadual e impede o recebimento de vantagem funcional - Benefício previdenciário restrito àquele previsto no regime geral de previdência social para o qual houve contribuição - Vedada a criação de sistema previdenciário híbrido e necessária observância ao princípio da isonomia - Precedentes - Sentença de improcedência mantida - Recurso desprovido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, LIII, e 114, I, da CF.
+    O recurso extraordinário é inadmissível, uma vez que os preceitos constitucionais tidos por violados não foram objeto de análise pelo Tribunal de origem. Tampouco foram opostos embargos de declaração para suprir eventual omissão, de modo que o recurso carece de prequestionamento (Súmulas 282 e 356/STF).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+                Brasília, 20 de maio de 2019.
+Ministro Luís Roberto Barroso
+Relator
