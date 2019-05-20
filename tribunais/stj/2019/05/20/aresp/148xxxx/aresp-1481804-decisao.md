@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo apresentado por EMPREENDIMENTOS IMOBILIÁRIOS AMAZONAS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas a e c, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. PRELIMINAR. REITERAÇÃO DE ALEGAÇÕES ANTERIORES. NÃO IMPUGNAÇÃO DA SENTENÇA. NÃO VERIFICAÇÃO. REGULARIDADE FORMAL. CONSTATAÇÃO. ADMISSÃO. CHEQUE. ALEGAÇÃO DE AGIOTAGEM. AUSÊNCIA DE INDÍCIOS. MP 2172-32. INVERSÃO DO ÔNUS DA PROVA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AUTONOMIA E ABSTRAÇÃO. DESVINCULAÇÃO DO NEGÓCIO JURÍDICO ORIGINÁRIO. EXAME DA CAUSA DEBENDI DESCABIMENTO (fls. 175).
+Quanto à primeira controvérsia, pela alínea a, alega violação do art. 1.022 do CPC/2015.
+Quanto à segunda controvérsia, pela alínea a, sustenta afronta aos arts. 11 e 489, I, II, III e § 1º, do IV, do CPC, argumentando que "não foram explicitados os motivos pelos quais, diante da considerações lançadas pela ora Recorrente enquanto embragante, foi afastado o requerimento de inversão dos ônus da prova" (fls. 222).
+Quanto à terceira controvérsia, pela alínea c, suscita divergência jurisprudencial no que concerne à nulidade do acórdão recorrido por ausência de fundamentação, colacionando, como acórdão paradigma, o REsp n. 841.823/MS, DJe de 9/11/2017 (fls. 224).
+É o relatório.
+Decido.
+No tocante à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais os incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Doutra banda, quanto à segunda controvérsia, aplica-se o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+No que concerne à terceira controvérsia, não foi comprovado o dissídio jurisprudencial, uma vez que inexistente a necessária similitude fática entre o acórdão recorrido e o paradigma indicado.
+Nesse sentido, o STJ fixou que: "O conhecimento da divergência jurisprudencial reclama a existência de similitude fático-jurídica entre o acórdão recorrido e os paradigmas submetidos a confronto" (EDcl no Resp n. 1.254.636/ES, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 23/4/2015).
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp n. 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; e AgRg no REsp n. 1.500.980/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/3/2015).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
