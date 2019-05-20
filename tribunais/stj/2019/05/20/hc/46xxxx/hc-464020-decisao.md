@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ALBERTO JOSE CHEROBINI, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 0129716-46.2018.8.21.7000).
+Infere-se dos autos que o paciente foi preso em flagrante, em 04/10/2017, pela prática, em tese, do delito previsto no art. 121, § 2.º, incs. I e VI do Código Penal (homicídio qualificado). A prisão foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem em acórdão assim ementado:
+RECURSO EM SENTIDO ESTRITO. CRIMES CONTRA A VIDA. HOMICÍDIO QUALIFICADO. LEGÍTIMA DEFESA NÃO COMPROVADA. AUSÊNCIA DE ANIMUS NECANDI NÃO DEMONSTRADA. PROVA DE MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA. QUALIFICADORA DO MOTIVO TORPE AFASTADA. INVIABILIDADE DE ACUSAÇÃO EM RELAÇÃO À QUALIFICADORA DO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR.
+1. A existência do fato restou demonstrada e há suficientes indícios de autoria. Nesta primeira fase processual indaga- se da viabilidade acusatória, a sinalizar que a decisão de pronúncia não é juízo de mérito, mas de admissibilidade. No caso em tela, o réu teria matado a vítima mediante golpe de faca. Testemunhas presenciais que confirmam a autoria.
+2. A partir da análise das provas colacionadas aos autos, inexiste certeza acerca da situação de legítima defesa, na medida em que a vítima não estava armada e teria sido o réu quem iniciou as agressões. Ademais, conforme vereda probatória, o acusado, após o primeiro embate corporal, optou por não ir embora, regressando ao local armado com uma faca que teria utilizado para ceifar a vida da vítima. Exdudente de ilicitude não demonstrada cabalmente.
+3. Tampouco é possível desclassificar a conduta do acusado, vez que não demonstrada, estreme de dúvida, a ausência de animus necandi na conduta. Instrumento de relevante poder letal e local da lesão (golpe que atingiu artéria femoral) que podem indicar o dolo de matar, mormente em contexto de ameaças anteriores e de diversos golpes supostamente desfechados pelo réu e, em maioria, defendidos pela vítima.
+4. Com relação à qualificadora do motivo torpe, deve ser afastada. A denúncia sequer descreve, suficientemente, a motivação, mencionando apenas que o crime foi cometido "em face de desavenças pessoais com a vítima", sem especificar, contudo, em que consistiam tais desavenças, não sendo possível aferir se a motivação era mesmo vil, ignóbil, desprezível. Princípio da correlação que impede o reconhecimento da qualificadora fora dos limites impostos pela denúncia.
+5. Quanto à qualificadora do recurso que dificultou a defesa da vítima, ponto específico do recurso da acusação, inviável sua submissão aos jurados. Embora a vítima estivesse desarmada, tal circunstância não é suficiente para o reconhecimento da qualificadora, não sendo possível atribuir o fato ao acusado. Ademais, o réu teria atingido o ofendido com uma faca em contexto de luta corporal em que o ofendido supostamente se defendia com um capacete.
+6. Inviável a concessão de liberdade provisória. Crime recentemente cometido em pacata comunidade, em plena via pública, à luz do dia, na presença de vizinhos do local. Abalo à ordem pública que recomenda, ao menos por ora, a manutenção da segregação cautelar. Prisão recentemente considerada fundamentada pelo Colegiado nos autos do Habeas Corpus nº [CPF]. RECURSO DA ACUSAÇÃO DESPROVIDO.
+RECURSO DEFENSIVO PARCIALMENTE PROVIDO. (fls. 57/58).
+No presente mandamus, ressalta a ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal. Assevera que o decreto prisional está fundado exclusivamente na gravidade abstrata do delito, considerando que a gravidade concreta restou afastada pela exclusão das qualificadoras na pronúncia.
+Alega excesso de prazo na formação da culpa, considerando que a prisão preventiva perdura por mais de 10 meses.
+Invoca o caráter excepcional da prisão, apontando que eventual condenação não ultrapassará 8 anos de prisão, representando, a custódia atual, punição antecipada. Argumenta que não há indícios de periculosidade do paciente, afirmando que se trata de hipótese de legítima defesa, eis que teria sofrido agressão injusta.
+Requer, assim, em liminar e no mérito, a expedição de alvará de soltura, coma revogação da custódia.
+Indeferida a liminar (fls. 72/74) e informações prestadas (fls. 80/83, 85/134 e 158/203), o Ministério Público Federal opinou pela denegação da ordem (fls. 205/211).
+É o relatório.
+Decido.
+O presente habeas corpus está prejudicado.
+Isso porque, de acordo com informações obtidas na página eletrônica da Corte Estadual, verificou-se que, em 19/12/2018, nos autos da Ação Penal n. 0001905-91.2017.8.21.0096 , foi concedida liberdade provisória ao ora paciente.
+Desse modo, constata-se a perda superveniente do objeto do presente writ.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
