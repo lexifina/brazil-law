@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO ORDINÁRIA,. PENSÃO POR MORTE. LIMITAÇÃO. FEPASA. É ilegal a limitação efetuada pela Fazenda Estadual ao pagar as beneficiárias de pensão por morte 80% do valor que o falecido servidor percebia quando em vida. Redação do art. 40, § 5º da Constituição Federal, norma de aplicabilidade imediata, que prescinde de lei regulamentadora. A limitação prevista na referida norma constitucional é a pertinente ao teto constitucional, que trata de tema diverso, coarctar o valor total do benefício a título diverso. Precedentes. Remessa necessária e recursos voluntários da Fazenda e dos autores desprovidos.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, § 7º, da CF.
+    O recurso não merece acolhida, tendo em vista que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 543-A, § 2º, do CPC.
+    Como já registrado por este Tribunal, “a simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    Ainda que assim não fosse, nota-se que o Tribunal de origem, com base na legislação infraconstitucional, decidiu:
+    “A Lei 1.386/51 e o Decreto 35.530/59 não tratam deste assunto – regramento do teto constitucional. Ao limitar a pensão em 80%, laboraram em flagrante inconstitucionalidade e foram repelidas pelo ordenamento no momento em que a Constituição Federal de 1988 foi promulgada, pelo fenômeno da não recepção.
+    A propósito disso, note-se que as leis em questão não haveriam de ser consideradas constitucionais somente em virtude da promulgação da Emenda Constitucional nº 41/03, notadamente a nova redação do § 7º do art. 40, já que o nosso ordenamento não admite a chamada ‘constitucionalidade superveniente’, conforme decidido pelo Supremo Tribunal Federa [...]”
+    Para dissentir desse entendimento, faz-se necessária a análise da legislação local aplicada ao caso, procedimento vedado neste momento processual nos termos da Súmula 280/STF. Nesse sentido, cito o seguinte precedente: ARE 1.109.429, Rel. Min. Ricardo Lewandowski.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 20 de maio de 2019.
+Ministro Luís Roberto Barroso
+Relator
