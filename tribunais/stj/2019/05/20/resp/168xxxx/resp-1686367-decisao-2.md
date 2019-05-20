@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo MUNICÍPIO DE FLORESTA, com fulcro nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. CONDENAÇÃO DA FAZENDA PÚBLICA. DIFERENÇAS A TÍTULO DE VALOR MÍNIMO ANUAL POR ALUNO - VMAA. COMPLEMENTAÇÃO DOS RECURSOS. FUNDEF. FUNDEB. LEI 9.424/96. HONORÁRIOS.
+Caso em que a União fora condenada a repassar verbas, relativas às diferenças de FUNDEF, no montante correspondente ao quinquênio anterior à propositura da ação, de acordo com o Valor Mínimo Anual por Aluno - VMAA, nos termos do art. 6º da Lei n. 9.424/1996.
+2. A União invoca a existência de tramitação de ações civis no STF, nas quais se discute o VMAA, no âmbito do FUNDEF. A circunstância, porém, não repercute para o deslinde da presente ação, à míngua de qualquer ordem vinculativa da Corte Superior para ações que tratem da mesma matéria, tal qual a presente.
+3. Sem razão também a apelante quando suscita a ilegitimidade da exequente, porque não teria sido o Município o autor do processo na fase de cognição, mas sim a AMUPE (Associação Municipalista de Pernambuco). Ora, tal questão somente poderia ser levantada na fase de conhecimento do processo, como de fato o foi. Destarte, resolvida a questão no momento oportuno, não cabe nova arguição da matéria no processo de execução;
+4. O caso em exame trata de mera execução individualizada de uma sentença coletiva, ou seja, a pretensão fora deduzida pela Associação Municipalista de Pernambuco - AMUPE, entretanto, somente os municípios individualmente considerados é que podem dar cumprimento ao julgado, executando o comando da sentença que adotou, para o cálculo do VMAA, a sistemática prevista na Lei nº 9.424/96.
+5. A matéria relativa à criação do FUNDEB e à extinção de qualquer direito relativo ao FUNDEF, deveria ter sido arguida, e não foi, no processo de conhecimento, estando, portanto, preclusa.
+6. Não se revela necessária a existência de uma fase de liquidação para a apuração da dívida. É que, a natureza da ação ajuizada permite a liquidação por simples cálculos aritméticos, dado que a sentença, devidamente confirmada em grau de recurso, já estabeleceu qual o lapso temporal que abrange o crédito da municipalidade.
+7. Relativamente à possibilidade de retenção dos valores a serem percebidos pelo município, a título de honorários contratuais, esta Corte Regional vem reconhecendo ser direito do advogado tal retenção, se requerida, mediante a juntada do contrato, antes da expedição do requisitório, com arrimo no art. art. 22, parágrafo 4º, da Lei 8.906/94, o que efetivamente ocorreu na hipótese em testilha.
+8. O MM. Juízo a quo fixou os honorários advocatícios em 5% sobre o valor da causa, que fora fixada em R$ 1.000,00 (mil reais).
+9. Diante do valor irrisório fixado, a verba honorária deve ser majorada para R$ 2.000,00 (dois mil reais).
+10. Apelação da União improvida e apelação do Município parcialmente provida, para fixar a condenação em honorários advocatícios em R$ 2.000,00 (dois mil reais)" (fls. 1.358/1.359e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. PRETENSÃO A REJULGAMENTO. IMPOSSIBILIDADE.
+1. Os embargos de declaração têm sua abrangência limitada aos casos de omissão, obscuridade, contradição ou erro material;
+2. Entendendo haver erro no julgamento, cabe às partes se valerem das vias recursais próprias, uma vez que os embargos declaratórios não constituem meio idôneo para correção de eventual error in judicando;
+3. Cabe ao órgão julgador enfrentar a questão posta em juízo, sendo desnecessário o pronunciamento expresso acerca dos dispositivos apontados pelas partes;
+4. O órgão julgador não é obrigado a se pronunciar sobre todos os argumentos da parte, podendo deixar de analisar alguns quando a apreciação dos demais der ensejo à formação do seu convencimento;
+5. Embargos de declaração improvidos" (fl. 1.404e).
+Nas razões do Recurso Especial, a parte recorrente aponta, além de divergência jurisprudencial, a ofensa aos arts. 20, §§ 3º e 4º, do CPC/73, e 85, §3º, do CPC/2015, ao argumento de que "uma vez que os honorários advocatícios foram fixados no patamar de R$ 2.000,00 (dois mil reais), o que, em termos práticos, representa 0,059% sobre o valor da condenação homologado e chancelado pelo Tribunal a quo, percentual que, diante da sua patente irrisoriedade, é hábil, inclusive, de afastar o óbice imposto pela Súmula 7/STJ" (fl. 1.417e).
+Requer, ao final, o provimento do recurso.
+Contrarrazões a fls. 1.541/1.546e.
+O recurso foi admitido pelo Tribunal a quo (fl. 1.549e).
+Sem razão a parte recorrente.
+Na origem, "cuida-se de embargos à execução ajuizados em face de cumprimento de sentença em que a UNIÃO FEDERAL foi condenada a pagar as diferenças devidas e não repassadas a título de complementação da transferência dos recursos do FUNDEF, em razão da fixação do Valor Mínimo Anual Por Aluno se encontrar em desacordo e aquém do previsto na Lei Federal 9.424/1996" (fl. 1.249e).
+A sentença julgou improcedente o pedido (fls. 1.249/1.258e).
+O acórdão recorrido, por sua vez, negou provimento à Apelação Cível da União e deu parcial provimento ao recurso do Município, no que interessa:
+"No que se refere ao apelo do Município, da análise dos autos verifica-se que os honorários sucumbenciais foram fixados em 5% sobre o valor da causa, que é de R$ 1.000,00, representando a ínfima quantia de R$ 50,00 (cinquenta reais).
+A fixação de honorários advocatícios em embargos à execução deve ser feita com vistas voltadas para a natureza da postulação e a inexistência da eficácia condenatória da sentença. In casu, a verba honorária fixada em R$ 2.000,00 (dois mil reais).
+Diante do exposto, nego provimento à apelação da União e dou parcial provimento ao apelo do Município para fixara verba honorária em R$ 2.000,00 (dois mil reais)" (fls. 1.353/1.356e).
+Com efeito, consabido é que, em princípio, descabe ao Superior Tribunal de Justiça revisar valores de sucumbência, fixados nas instâncias ordinárias, tendo em conta que eles são arbitrados em consideração àquilo que se desenvolveu no processo e mediante juízo de equidade, circunstâncias que não podem ser reavaliadas nesta Corte, nos termos da Súmula 7/STJ.
+Todavia, consoante a jurisprudência desta Corte, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos, em que os honorários de advogado foram fixados em R$ 2.000,00 (dois mil reais), nos Embargos à Execução que possuem o valor da causa de R$ 1.000,00 (mil reais).
+Dessarte, não configurada a excepcionalidade exigida pela jurisprudência desta Corte, não se mostra possível a majoração dos honorários advocatícios pleiteada pelo recorrente.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
