@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO, COM PEDIDO DE REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO POR PERDAS E DANOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. CHAMAMENTO AO PROCESSO. INEXISTÊNCIA DE OUTROS DEVEDORES. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de rescisão de contrato, com pedido de reintegração de posse e indenização por perdas e danos.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação do art. 1.022 do CPC.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Alterar o decidido no acórdão impugnado, no que se refere à inexistência de outros devedores - condição necessária para a intervenção de terceiro na modalidade chamamento ao processo -, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+5. Agravo conhecido. Recurso especial não conhecido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por NILBERTO PAULINO DE SOUSA e ROSEMARY SOARES DE CAMPOS SOUSA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 25/10/2018.
+Concluso ao gabinete em: 12/02/2019.
+Ação: rescisão de contrato, com pedido de reintegração de posse e indenização por perdas e danos ajuizada pelos agravados em face dos agravantes.
+Sentença: julgou parcialmente procedentes os pedidos "inicialmente formulados, afastando o pretendido chamamento processual pela promessa de fato de terceiro, reconhecendo parcial inadimplemento por parte dos réus, mantendo o negócio jurídico sob discussão, mas condenando a parte ré em perdas e danos, referentes ao valor total prometido, subtraído o valor atribuído à obrigação de dar coisa certa, sem prejuízo de exigi-las, caso ainda pendentes, e o valor de RS 30.000,00 (trinta mil reais), reconhecido pelos autores como efetivamente pago pelos réus, valor este a ser apurado em fase própria de liquidação de sentença, e corrigido monetariamente a partir do termo fixado contratualmente, acrescido de juros de mora na proporção de 1% (um por cento) a partir da citação." (e-STJ, fl. 85).
+Acórdão: negou provimento à apelação dos agravantes, nos termos da seguinte ementa:
+CHAMAMENTO AO PROCESSO. CASO EM QUE, NO COMPROMISSO DE COMPRA E VENDA FIRMADO ENTRE AS PARTES, CONSIGNOU-SE QUE PARCELA DO PREÇO SERIA PAGA POR TERCEIRO, QUE NÃO FIGUROU COMO PARTE NA AVENÇA. INADMISSIBILIDADE DA PRETENDIDA INTERVENÇÃO, UMA VEZ QUE AUSENTES QUAISQUER DAS HIPÓTESES DO ART. 130 DO NCPC.
+HIPÓTESE QUE ENCERRA PROMESSA DE FATO DE TERCEIRO, QUE NÃO INDUZ SOLIDARIEDADE ENTRE ESSE E O PROMITENTE. SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+COMPROMISSO DE COMPRA E VENDA. INADIMPLEMENTO DOS ADQUIRENTES. MM. JUÍZO QUE DEFERIU A MANUTENÇÃO DO CONTRATO POR FORÇA DO ADIMPLEMENTO SUBSTANCIAL, PELOS RÉUS, DA OBRIGAÇÃO ASSUMIDA, CONDENANDO-OS AO PAGAMENTO DO SALDO DO PREÇO. AUSÊNCIA DE IMPUGNAÇÃO DAS PARTES NESSE TOCANTE. RÉUS QUE SE INSURGEM TÃO-SOMENTE QUANTO AO VALOR DA DÍVIDA, ADUZINDO QUE O MAGISTRADO NÃO HAVERIA CONSIDERADO O PAGAMENTO DA QUANTIA DE R$ 18.700,00, COMPROVADA NOS AUTOS. PEDIDO DE ABATIMENTO DESSE VALOR DO SALDO DEVEDOR.
+INADMISSIBILIDADE. CASO EM QUE, POR ORA, NÃO SE LOGROU COMPROVAR QUE TAIS VALORES JÁ NÃO INTEGRASSEM A QUANTIA DE R$ 30.000,00 QUE OS AUTORES CONFESSARAM HAVER RECEBIDO. MATÉRIA QUE SERÁ MAIS BEM APURADA NA FASE DE LIQUIDAÇÃO. SENTENÇA MANTIDA. RECURSO IMPROVIDO. (e-STJ, fl. 175)
+Embargos de Declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: sustenta violação dos artigos 357, I, 115, I, 370, 355, I, 493, 7º, 139, 9º, 10 e 1.022 do CPC/2015, sob o fundamento de que, ao julgar antecipadamente a lide, o Juízo de primeiro grau incorreu em ofensa ao princípio do contraditório e da ampla defesa. Aduz, outrossim, ser necessário o chamamento ao processo do Sr. [NOME], a quem as agravantes atribuem a responsabilidade pela complementação do valor devido.
+ RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015;
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos supostos pontos omissos e contraditórios, tendo, inclusive, feito remissão ao acórdão recorrido quanto à desnecessidade de chamamento ao processo para a hipótese (e-STJ, fl. 213), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos artigos indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+ Ademais, ainda que assim não fosse, o Tribunal recorrido consignou que o contrato de compromisso de compra e venda foi firmado apenas entre as partes deste processo, somente a elas obrigando, por força do princípio da relatividade negocial. Destacou, ainda, inexistir no contrato qualquer referência de obrigação solidária pelo Sr, Mesaque, que sequer assinou o instrumento contratual (e-STJ, fl. 177).
+Destarte, alterar o decidido no acórdão impugnado, no que se refere à inexistência de outros devedores - condição necessária para a intervenção de terceiro na modalidade chamamento ao processo -, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% sobre o valor da causa (e-STJ fl. 179) para 13%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
