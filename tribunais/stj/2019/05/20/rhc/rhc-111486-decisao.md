@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME] em face do TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL que denegou o writ de origem, por acórdão assim ementado (fl. 110):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. A paciente foi presa sua residência, na posse de porções de cocaína e um tijolo de maconha. O flagrante foi homologado em 08/01/19, sendo decretada a prisão preventiva em audiência de custódia realizada no dia 09/01/19. Consta que o Ministério Público ofertou denúncia contra a paciente, dando-a com incursa nas sanções do art. 33, caput , da Lei 11.343/06. A exordial acusatória foi recebida pela autoridade judiciária em 21/02/19.
+O fato envolve variedade e quantidade expressiva de drogas (porções de cocaína, com peso aproximado de 6,70 gramas e um tijolo de maconha, com peso de 350 gramas), o que indica maior envolvimento com o comércio ilícito e justificando a manutenção de sua custódia prévia, decretada por decisão fundamentada.
+Liminar cassada. Voto vencido.
+AUSENTE CONSTRANGIMENTO ILEGAL.
+ORDEM DENEGADA, POR MAIORIA.
+A recorrente foi presa preventivamente pela prática do crime tipificado no art. 33 da Lei 11.343/2006.
+Nas razões recursais, a recorrente pede o restabelecimento da liberdade provisória concedida em sede liminar no writ de origem, aduzindo que permaneceu solta desde 8/3/2019, sem que tenha descumprido quaisquer das condições impostas para sua liberdade.
+Aponta ausência de fundamentação do decreto prisional, bem como dos requisitos autorizadores da prisão preventiva. Alega que ostenta condições pessoais favoráveis e pede a substituição da custódia por medidas cautelares alternativas à prisão, argumentando que, caso sobrevenha decisão condenatória, fará jus ao regime mais brando para o cumprimento da pena.
+Indeferida a liminar e, prestadas as informações, manifestou-se o Ministério Público Federal pelo desprovimento do recurso.
+Na origem, o processo n. 0000011-97.2019.8.21.0100 encontra-se na fase de apresentação de alegações finais, conforme informações processuais eletrônicas do site do Tribunal a quo consultadas em 15/5/2019.
+É o relatório.
+DECIDO.
+Nas razões recursais, a recorrente pede o restabelecimento da liberdade provisória concedida em sede liminar no writ de origem, aduzindo que permaneceu solta desde 8/3/2019, sem que tenha descumprido quaisquer das condições impostas para sua liberdade. Aponta ausência de fundamentação do decreto prisional, bem como dos requisitos autorizadores da prisão preventiva. Alega que ostenta condições pessoais favoráveis e pede a substituição da custódia por medidas cautelares alternativas à prisão, argumentando que, caso sobrevenha decisão condenatória, fará jus ao regime mais brando para o cumprimento da pena.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão de prisão preventiva restou assim fundamentada (fls. 63/66):
+ ..
+De outra parte, passo a analisar a necessidade ou não de conversão da prisão em flagrante em prisão preventiva. O Ministério Público manifestou-se, previamente (fls. 25/27), pela decretação da prisão preventiva da acusada.
+É nítido que a indiciada estava portando as drogas para fins de tráfico, já que apreendida com ela grande quantidade de drogas (350 gramas de maconha e 6,70 gramas de cocaína).
+O pedido merece ser deferido.
+Para a superveniência do decreto de prisão preventiva, impõe-se uma tríplice análise: primeiro deve-se examinar se a capitulação, em tese, do delito, admite a segregação provisória (art. 313 do CPP); segundo, imperiosa é a prova da materialidade do fato e de indícios suficientes quanto à sua autoria; e, terceiro, necessária é a presença de pelo menos uma das condições estabelecidas no artigo 312 do Código de Processo Penal.
+Veja-se que a materialidade e os indícios de autoria estão demonstradas no auto de prisão em flagrante, registro de ocorrência, auto de apreensão (fls. 07, 19/20), bem como nas declarações prestadas pelos policiais.
+As circunstâncias apontam que a acusada estava em casa e acionou a Brigada Militar por ter sido furtada - uma TV - sendo que ao chegar, a Polícia Militar fez uma busca no local e encontrou as drogas, momento em que [NOME] afirmou serem de sua propriedade.
+Além disso, verifica-se que a flagrada, na data de 07/11/2018, teve sua casa objeto de busca e apreensão por suspeitas de seu envolvimento com o tráfico de drogas. Na ocasião, [NOME] foi presa na residência de [NOME], já que havia mandado de prisão preventiva contra a mesma, pelos crimes de tráfico de entorpecentes e homicídio.
+Ainda, mister ressaltar que o crime de tráfico é de extrema gravidade, pois, em tese, cometido em pacato Município, gerando insegurança social na comunidade a partir do momento em que a suposta autora do fato se apresenta em liberdade. A medida segregadora de prisão cautelar, no presente caso, traduz uma benesse à sociedade.
+Em face do contexto fático evidenciado, patente a necessidade da segregação preventiva, pois, por ora, o risco de dano irreparável por uma prisão supostamente injusta é significativamente menor do que o risco ao interesse coletivo.
+Por fim, consigno que [NOME] já esteve aos cuidados da rede de apoio do Município de Giruá, sendo que a mesma perdeu a guarda de seus dois filhos menores, sendo entregues aos genitores, em razão da situação de negligência e já pelas notícias de suposto tráfico de drogas (processo de nº 100/5.18.0000104-3).
+Ante o exposto, CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA DE [NOME] DE OLIVEIRA AMORIM  .. .
+
+Como se vê, o decreto prisional apresenta fundamento idôneo, evidenciado na quantidade de drogas apreendidas (350 gramas de maconha e 6,70 gramas de cocaína).
+Pacífico é o entendimento nesta Corte Superior de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Destaque-se, por fim, que a desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela sentença, não cabendo, na via eleita, a antecipação dessa análise. A esse respeito: AgRg no RHC 77.138/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017 e HC 360.342/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.
+Deste modo, não restou constatada e comprovada ilegalidade no decreto de preventiva.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
