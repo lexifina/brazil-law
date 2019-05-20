@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – TRIBUTÁRIO – CONTRIBUIÇÃO SOCIAL – FUNRURAL – SUB-ROGAÇÃO – ARTIGO 30, INCISO IV, DA LEI Nº 8.212/1991 – PRECEDENTE – REPERCUSSÃO GERAL – RECURSO EXTRAORDINÁRIO Nº 718.874 –SEGUIMENTO – NEGATIVA.
+    1. O Colegiado de origem, reformando o entendimento do Juízo, assentou a obrigação da recorrente, na condição de responsável tributário, de reter e recolher a contribuição social versada no artigo 25 da Lei nº 8.212/1991, devida por empregadores rurais pessoas naturais. Eis a síntese do ato atacado:
+    CONTRIBUIÇÃO SOCIAL. EMPREGADOR RURAL PESSOA FÍSICA. RECEITA BRUTA DA PRODUÇÃO. FOLHA DE SALÁRIOS. LEI Nº 10.256, DE 2001. VALIDADE RECONHECIDA PELO STF. JUÍZO DE RETRATAÇÃO. Cabe retratar o acórdão com base no assentado pelo Supremo Tribunal Federal em sede de repercussão geral, que reconheceu a constitucionalidade formal e material da contribuição social do empregador rural pessoa física, instituída pela Lei nº 10.256, de 2001, incidente sobre a receita bruta proveniente da comercialização da sua produção (RE 718.874, Rel. para Acórdão Min. Alexandre de Moraes, Tribunal Pleno, julgado em 30-03-2017) .
+    No extraordinário, a recorrente alega não ter a Lei nº 10.256/2001 replicado o artigo 30, inciso IV, da Lei nº 8.212/1991, no qual prevista a sub-rogação em debate, declarado inconstitucional pelo Pleno no julgamento, sob a sistemática da repercussão geral, do recurso extraordinário nº 596.177, relator o ministro Ricardo Lewandowski, e objeto da Resolução do Senado Federal nº 15/2017.
+    2. A decisão impugnada está em consonância com o entendimento firmado pelo Pleno no exame do recurso extraordinário nº 718.874, redator do acórdão o ministro Alexandre de Moraes, revelador do Tema nº 669 da repercussão geral. Confiram a ementa:
+    TRIBUTÁRIO. EC 20/98. NOVA REDAÇÃO AO ARTIGO 195, I DA CF. POSSIBILIDADE DE EDIÇÃO DE LEI ORDINÁRIA PARA INSTITUIÇÃO DE CONTRIBUIÇÃO DE EMPREGADORES RURAIS PESSOAS FÍSICAS INCIDENTE SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. CONSTITUCIONALIDADE DA LEI 10.256/2001.
+    1.A declaração incidental de inconstitucionalidade no julgamento do RE 596.177 aplica-se, por força do regime de repercussão geral, a todos os casos idênticos para aquela determinada situação, não retirando do ordenamento jurídico, entretanto, o texto legal do artigo 25, que, manteve vigência e eficácia para as demais hipóteses.
+    2.A Lei 10.256, de 9 de julho de 2001 alterou o artigo 25 da Lei 8.212/91, reintroduziu o empregador rural como sujeito passivo da contribuição, com a alíquota de 2% da receita bruta proveniente da comercialização da sua produção; espécie da base de cálculo receita, autorizada pelo novo texto da EC 20/98.
+    3. Recurso extraordinário provido, com afirmação de tese segundo a qual É constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/01, incidente sobre a receita bruta obtida com a comercialização de sua produção.
+    O Tribunal, ao julgar declaratórios formalizados em face do referido pronunciamento, assentou, em síntese:
+    PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO. IMPOSSIBILIDADE DE REDISCUSSÃO DE QUESTÕES DECIDIDAS PARA OBTENÇÃO DE CARÁTER INFRINGENTE. INAPLICABILIDADE DA RESOLUÇÃO 15/2017 DO SENADO FEDERAL QUE NÃO TRATA DA LEI 10.256/2001. NÃO CABIMENTO DE MODULAÇÃO DE EFEITOS PELA AUSÊNCIA DOS REQUISITOS LEGAIS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+    1. Não existentes obscuridades, omissões ou contradições, são incabíveis Embargos de Declaração com a finalidade específica de obtenção de efeitos modificativos do julgamento.
+    2. A inexistência de qualquer declaração de inconstitucionalidade incidental pelo Supremo Tribunal Federal no presente julgamento não autoriza a aplicação do artigo 52, X da Constituição Federal pelo Senado Federal.
+    3. A Resolução do Senado Federal 15/2017 não se aplica a Lei nº 10.256/2001 e não produz qualquer efeito em relação ao decidido no RE 718.874/RS.
+    4. A inexistência de alteração de jurisprudência dominante torna incabível a modulação de efeitos do julgamento. Precedentes.
+    5. Embargos de Declaração rejeitados.
+    (Embargos de declaração no recurso extraordinário nº 718.874, relator o ministro Alexandre de Moraes, Pleno, acórdão veiculado no Diário da Justiça de 12 de setembro de 2018).
+     Sob a óptica da ilustrada maioria, da qual divergi, a declaração de inconstitucionalidade do artigo 30, inciso IV, da Lei nº 8.212/1991 – assim como dos incisos I e II do artigo 25 – no extraordinário de nº 596.177 teria alcançado apenas a situação dos empregadores rurais pessoas naturais, mantendo-se o preceito hígido com relação aos segurados especiais, no que aproveitada a regra não replicada pela Lei nº 10.256/2001.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 20 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
