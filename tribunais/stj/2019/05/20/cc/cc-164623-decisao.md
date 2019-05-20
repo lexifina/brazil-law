@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito de competência suscitado por Rápido Brasília Transportes e Turismo Ltda - massa falida e Empresa Santo Antônio Transporte e Turismo - massa falida, com pedido de liminar, em face do Juízo de Direito da Vara de Falências e Recuperações de Brasília/DF e do Tribunal Regional do Trabalho da 10ª Região.
+Afirmam as suscitantes terem sido decretadas as falências em 9.6.2015 e16.32016, pelo Juízo de Direito da Vara de Falências e Recuperações de Brasília/DF, sendo que, não obstante, o Juízo da 19ª Vara do Trabalho de Brasília/DF, "em cumprimento ao que decidiu o TRT da 10ª Região em sede de Agravo de Petição, expediu ofício ao Juízo da Vara de Falência do Distrito Federal, bem como a Caixa Econômica Federal, determinando a transferência de valores que estão vinculados a este último juízo".
+Alegam que o "entendimento esposado pelo TRT da 10ª Região é que a constrição judicial anterior à decretação da falência não pode ser alcançada pelos efeitos desta última, uma vez que o bem constrito não comporia o rol de bens da falida, não havendo falar em transferência desse crédito para conta vinculada a processo falimentar cujo desfecho foi posterior à penhora".
+Liminar deferida às fls. 29/31, informações dos Juízos suscitados às fls. 33/35 e 38/41. Parecer do Ministério Público Federal às fls. 43/47 opinando pelo conhecimento do conflito, declarando-se competente o Juízo da falência.
+Eis os fundamentos pelos quais deferi a liminar:
+Assim postos os fatos, verifico que a questão discutida nos autos já foi, reiteradamente, decidida por esta Corte que entendeu que, "com a edição da Lei. 11.101/05, respeitadas as especificidades da falência e da recuperação judicial, é competente o juízo universal para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais (..)", (CC 110941/SP, Rel. Ministra NANCY ANDRIGHI, Segunda Seção, DJe 1º/10/2010).
+Desse modo, pois, decretada a falência, a execução dos julgados, mesmo trabalhistas, terá início ou prosseguimento no juízo falimentar, mesmo que já se tenha efetuado a penhora em data anterior e, caso efetuada a alienação no juízo trabalhista, o seu produto será incorporado à massa, a fim de processar-se o concurso no juízo falimentar.
+Nesse sentido são, dentre outros, os seguintes acórdãos:
+CONFLITO DE COMPETÊNCIA. JUÍZES VINCULADOS A TRIBUNAIS DIVERSOS. COMPETÊNCIA DO JUÍZO FALIMENTAR PARA A PRÁTICA DE ATOS QUE IMPLIQUEM RESTRIÇÃO PATRIMONIAL.
+1. Conflito de competência suscitado em 21.10.2013 Autos conclusos ao Gabinete em 04.02.2013, após resposta dos ofícios enviados e parecer do MPF.
+2. Discute-se a competência para a prática de atos de execução determinados pelo juízo trabalhista, tendo em vista a falência da empresa executada.
+3. O patrimônio da sociedade empresária não pode ser afetado por decisões prolatadas por juízo diverso daquele em que tramita seu processo de falência. Precedentes.
+4. A jurisprudência desta egrégia Corte é firme no sentido de que, decretada a falência, as execuções contra a falida não podem prosseguir, mesmo havendo penhora anterior (EDcl nos EDcl no AgRg no CC 109.541/PE, Rel. Min. PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe 16/04/2012).
+5. Conflito conhecido, para declarar a competência do JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP.
+(CC 130.994/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 13/08/2014, DJe 19/08/2014)
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. JUÍZO FALIMENTAR E JUSTIÇA DO TRABALHO. EXECUÇÃO TRABALHISTA. ARREMATAÇÃO. REMESSA DO PRODUTO AO JUÍZO UNIVERSAL DA FALÊNCIA.
+1. Decretada a quebra, a Justiça do Trabalho é competente para definir o crédito trabalhista, que será, então, habilitado no juízo universal e atrativo da falência; excepcionalmente, porém, se os bens já estiverem em praça, a arrematação terá curso, mas o produto será transferido para o juízo falimentar. Precedentes.
+2. Eventual pedido de não repetição dos valores levantados na execução trabalhista deve ser formulado perante o juízo competente, na espécie, o juízo falimentar.
+3. Agravo regimental desprovido.
+(AgRg no CC 95.001/BA, Rel. Ministro FERNANDO GONÇALVES, SEGUNDA SEÇÃO, julgado em 22/04/2009, DJe 29/04/2009)
+No presente caso está comprovado que as empresas suscitantes tiveram sua falência decretada, tendo o Tribunal Regional do Trabalho da 10ª Região determinado o prosseguimento da execução, ao fundamento de que os valores foram amealhados antes do decreto de falência, não existindo, pois, óbice para a utilização deles na quitação do débito (fl. 17/22).
+O Juízo da 19ª Vara do Trabalho de Brasília/DF manifestou-se afirmando que, in verbis:
+Em atenção ao Ofício expedido no Conflito de Competência nº. 164.623 - DF (2019/0083262-6), informo que, em 15/2/2016 o juízo da 6a Vara do Trabalho de Brasília procedeu à transferência de R$ 379.864,81 para conta vinculada ao processo nº 0047700-96.2009.5.10.0019, em trâmite neste juízo.
+Em 23/8/2017, nos autos da reclamação trabalhista, determinou-se a transferência daquele montante para conta de titularidade da Massa Falida de Empresa Santo Antônio Transporte e Turismo Ltda e vinculada ao processo nº. 2016.01.1.025176-2, em trâmite no juízo falimentar. Contra essa decisão, o exequente interpôs agravo de petição.
+Por meio do acórdão proferido pela 3a Turma do Tribunal Regional do Trabalho da Décima Região, em 28/2/2018, foi dado parcial provimento ao recurso da parte autora, para determinar que o valor bloqueado nos autos fosse utilizado para pagamento do crédito do autor.
+Em cumprimento da referida decisão, com trânsito em julgado em 21/3/2018, este juízo solicitou a restitução da quantia transferida ao juízo de falências, por meio de ofício expedido em 3/5/2018, para o qual não houve resposta até a presente data.
+Por fim, informo que não há nestes autos nenhum outro valor ou bem constrito, nem procedimentos em curso para investigação patrimonial dos executados.
+Desse modo, fica claro que não mais subsiste decisão que caracterize conflito de competência, tendo ele perdido seu objeto.
+Em face do exposto, revogo a liminar, e julgo prejudicado, por perda superveniente do objeto, o presente conflito de competência.
+Intimem-se.
