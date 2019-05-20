@@ -1,0 +1,8 @@
+DECISÃO
+A despeito da inércia do exequente, depreende-se dos autos que o valor executado corresponde ao valor nominal da portaria de anistia (fl. 497). Em razão disso, não há falar em excesso de execução, o que foi reconhecido, inclusive, pela União.
+Desse modo, determino a expedição de precatório em montante correspondente ao requerido pelo exequente (R$ 195.841,48 - cento e noventa e cinco mil, oitocentos e quarenta e um reais e quarenta e oito centavos), com destaque do percentual relativo aos honorários de advogado (20% - vinte por cento).
+Quanto à petição apresentada pela União (fls. 480 e seguintes), cumpre registrar que, conforme orientação da Primeira Seção/STJ, "eventual suspensão do pagamento fica condicionada à demonstração de efetiva instauração de procedimento destinado a anular ou revogar o ato de concessão da anistia" (AgInt na ExeMS 23.200/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 13/06/2018, DJe 19/06/2018), o que não foi comprovado na petição referida, razão pela qual não há óbice ao prosseguimento da execução.
+Ressalte-se que, caso a União pretenda a concessão de efeito suspensivo ao respectivo recurso extraordinário, a fim de afastar os efeitos do acórdão que restabeleceu os efeitos da portaria anistiadora e, consequentemente, sobrestar a presente execução, tal medida (acautelatória) deve ser pleiteada naqueles autos. Não obtida tal medida, impõe-se o prosseguimento da presente execução, inclusive no que se refere à imediata expedição da ordem de pagamento.
+Desse modo, indefiro o pedido de sobrestamento.
+Remetam-se os autos à Coordenadoria de Execução Judicial para as providências cabíveis.
+Publique-se. Intimem-se.
