@@ -1,0 +1,21 @@
+DECISÃO
+MANDADO DE INJUNÇÃO – DESAPOSENTAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Dr. William Akerman Gomes prestou as seguintes informações:
+    Edgar Fontoura Filho, aposentado, impetrou mandado de injunção em face do Congresso Nacional e do Presidente da República, contra ato omissivo consistente na ausência de regulamentação do artigo 201, § 11, da Constituição Federal.
+    Sustenta que os trabalhadores aposentados que continuam trabalhando têm direito a uma contraprestação às contribuições vertidas após a aposentadoria. Requer, alfim, a atribuição de efeito mandamental à injunção para autorizar o recálculo do benefício de aposentadoria pelo Instituto Nacional do Seguro Social, ou, sucessivamente, permitir a desaposentação, com a possibilidade de novo pedido de aposentadoria, ou a restituição dos valores de contribuição previdenciária pagos após a obtenção do benefício.
+    Em 3 de maio deste ano, Vossa Excelência viabilizou a apresentação de emenda à inicial, protocolada em 16 de maio seguinte, na qual indicados como impetrados os Presidentes da República, da Câmara dos Deputados e do Senado Federal.
+    2. Recebo o aditamento. Retifiquem a autuação.
+    3. O pedido formulado em mandado de injunção será deferido quando necessário ao exercício dos direitos, das liberdades constitucionais ou das prerrogativas inerentes à nacionalidade, à soberania e à cidadania.
+    O Supremo, nos recursos extraordinários nº 381.367, 827.833 e 661.256 – Tema nº 503 do repertório de repercussão geral –, assentou, por maioria de votos, inexistir no ordenamento jurídico previsão autorizando o cancelamento de aposentadoria já consolidada para alcançar outra mais vantajosa.
+    A óptica revelada sinaliza, no que diz respeito à chamada desaposentação, não haver disposição constitucional pendente de disciplina legal. Constituindo opção conferida ao legislador ordinário, que poderá concedê-la ou impedi-la, a impetração não merece conhecimento.
+    As sínteses a seguir elucidam o entendimento fixado:
+    AGRAVO INTERNO EM MANDADO DE INJUNÇÃO. SEGURADO DO REGIME GERAL DE PREVIDÊNCIA SOCIAL. DESAPOSENTAÇÃO. AUSÊNCIA DE DEVER CONSTITUCIONAL DE LEGISLAR SOBRE O TEMA. PRECEDENTES. 1. À míngua de direito subjetivo constitucionalmente assegurado à desaposentação, consoante assentado em precedentes desta Suprema Corte, não há falar em inércia legislativa na sua regulamentação e, portanto, não há campo para a concessão da ordem injuncional pretendida. 2. Inaplicável o art. 85, § 11, do CPC/2015, por se tratar de recurso interposto em mandado de injunção (arts. 14 da Lei nº 13.300/2016 e 25 da Lei 12.016/2009). 3. Agravo interno conhecido e não provido, com aplicação, no caso de votação unânime, da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 5% (cinco por cento) sobre o valor atualizado da causa.
+    (Agravo regimental no mandado de injunção nº 6.658, relatora a ministra Rosa Weber, Pleno, acórdão publicado no Diário da Justiça eletrônico de 13 de junho de 2017)
+    Direito constitucional e previdenciário. Agravo interno em mandado de injunção. desaposentação. 1. Não há preceito constitucional que proclame categoricamente um direito à desaposentação, que se alega pendente de regulamentação (REs 381.367, 661.256 e 827.833), o que impossibilita o conhecimento do writ, nos termos da jurisprudência desta Corte. 2. Agravo a que se nega provimento por manifesta improcedência, com aplicação de multa de 5% (cinco por cento) do valor corrigido da causa, ficando a interposição de qualquer recurso condicionada ao prévio depósito do referido valor, em caso de decisão unânime (CPC, art. 1.021, §§ 4º e 5º).
+    (Agravo regimental no mandado de injunção nº 6.648, relator o ministro Luís Roberto Barroso, Pleno, acórdão veiculado no Diário da Justiça eletrônico de 18 de abril de 2017)
+    Sendo requisitos do mandado de injunção a existência de dever constitucional de legislar e o reconhecimento de direito subjetivo à legislação, mostra-se incabível a impetração.
+    4. Nego seguimento ao pedido, com base nos artigos 6º da Lei nº 13.300/2016 e 21, § 1º, do Regimento Interno do Supremo.
+    5. Publiquem.
+Brasília, 20 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
