@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. INCIDÊNCIA DA SÚMULA N. 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ABSOLVIÇÃO CRIMINAL. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da Súmula n. 568, desta Corte, o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema (AgRg no AREsp 1360738/DF, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018).
+2. Rever o entendimento da Corte de Origem para absolver o agravante por insuficiência de provas demanda o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+ Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de agravo regimental interposto contra decisão de fls. 2266/2270, em que neguei provimento ao recurso especial em razão da aplicação da Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+O agravante sustenta a não incidência da Súmula n. 568/STJ, pois ausente entendimento dominante acerca do tema e a absolvição criminal por insuficiência probatória, porquanto possível a revaloração das provas delimitadas no acórdão recorrido.
+Pleiteia, assim, a reconsideração da decisão ou a submissão do recurso ao órgão colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+O recurso não merece provimento.
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático.
+De início, "nos termos da Súmula n. 568, desta Corte, o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema" (AgRg no AREsp 1360738/DF, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018).
+Portanto, em razão dos diversos julgados citados na decisão monocrática, incide, ao caso, o teor da Súmula n. 568/STJ.
+No que tange ao pedido de absolvição criminal por ausência de provas, não há razões para alterar a decisão agravada, que ora mantenho, in verbis (2268/2270):
+O Tribunal de origem, com base no acervo probatório, concluiu pela manutenção da édito condenatório, mediante fundamentação que se segue (fls. 2040/2051):
+A materialidade delitiva restou devidamente comprovada através do boletim de ocorrência de fls. 04/05, auto de tomada de letra autêntica de fls. 33/35 e laudo pericial de fls. 53/82 que atestou a convergência entre a identidade gráfica do acusado e a que se encontra no preenchimento dos cheques, dos canhotos apresentados e microfilmagem de cheques das fls. 382/431, 433/1134 e 1138/1285.
+A autoria, de igual forma, deflui das provas constantes nos autos, especialmente pela prova oral.
+(..)
+Na verdade, a análise das provas constantes nos autos remete ao raciocínio de que o réu, de fato, alterou fraudulentamente os valores dos cheques que lhe eram entregues por [NOME]. O modus operandi por ele empregado foi muito bem esclarecido pela Juíza a quo:
+(..)
+É incontroverso que o apelante possuía estrita confiança da vítima e, bem por isso, administrava transações bancárias, negócios imobiliários, além de outros bens materiais, tudo sem qualquer tipo de prestação de contas, até porque os fatos somente vieram á tona após o acidente sofrido pela vítima, quando os familiares desta foram até sua residência e ali localizaram o canhoto do cheque n. 091002, da vultosa quantia de R$ 10.000,00, datado do dia 21 de setembro de 2012 (fl. 155), o que causou estranheza, motivo pelo qual foram até a gerente do banco em que a vítima era correntista e constataram que o cheque referente ao canhoto supracitado estava preenchido no valor de R$ 15.000,00 e nominado diretamente ao acusado.
+Nesse tópico, há de se prestigiar o empenho demonstrado pela Juíza sentenciante Dra. [NOME] ao descrever pormenorizadamente o extenso número de cheques que foram objeto de investigação, descrevendo os valores originalmente lançados nos canhotos e os valores efetivamente descontados pelo acusado, por espantosas 292 (duzentos e noventa e duas vezes), ao longo dos anos de 2007 até 2012 e, ao final, concluiu que os prejuízos sofridos pela vítima resultaram na vultosa quantia de 588.750,00 (quinhentos e oitenta e oito mil, setecentos e cinqüenta reais), sem correção (fls. 1385/1392).
+Diante de todo o exposto, não há como se sustentar a existência de dúvidas acerca do elemento subjetivo do tipo penal, sendo certo que o acusado, livre e conscientemente, fraudou mais de 200 (duzentos) cheques emitidos pela vítima [NOME], fazendo constar nas cártulas valores a maior do que o real, com o nítido propósito de obter vantagem ilícita em prejuízo alheio, o que se concretizou por extenso lapso temporal, causando à vítima enorme prejuízo econômico.
+(..)
+Em tempo, esclareço que eventual de maternidade socioafetiva entre o apelante e a vítima - apurado nos autos n. 0000052-98.2011.8.24.0023, perante a 1a Vara da Família da Capital - não pode servir para afastar o dolo do agente, o qual, inclusive utilizou-se desta estreita relação havida com a vítima para fraudá-la, por extenso lapso temporal, o que causa repulsa ainda maior do que a inerente ao crime de estelionato.
+E, a título de informação, valido consignar que a vítima à época dos fatos era pessoa idosa, com idade muito superior a 60 (sessenta) anos, de modo que a isenção de pena que alude o art. 181, inc. I, do Código Penal não poderia ser aplicada ao caso concreto, ante expressa vedação legal disposta no art. 183, inc. III, do referido Diploma Legal.
+Rever o entendimento da Corte de Origem para absolver o agravante por insuficiência de provas demanda o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 07/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ESTELIONATO. ART. 171 DO CÓDIGO PENAL. DIREITO DE RETENÇÃO DE VALORES SUPOSTAMENTE DEVIDOS PELA VÍTIMA. INCIDÊNCIA DA SÚMULA N.º 283 DO SUPREMO TRIBUNAL FEDERAL. MATÉRIA NÃO IMPUGNADA. PRECLUSÃO. PROVA DE AUTORIA E MATERIALIDADE. REEXAME DO CONTEÚDO FÁTICO. IMPOSSIBILIDADE. VERBETE SUMULAR N.º 07 DESTA CORTE SUPERIOR. AGRAVO REGIMENTAL DESPROVIDO. 1. A propósito da alegação de afronta aos arts. 397, caput e parágrafo único, 450, 664 e 681, todos do Código Civil - suposto direito do Réu à retenção de valores que lhe seriam devidos pela Vítima, a título de honorários advocatícios -, veiculada nas razões do apelo nobre e não conhecida ante a incidência da Súmula n.º 283/STF, não houve irresignação e, portanto, forçoso reconhecer a preclusão. 2. A inversão do julgado, no sentido de se concluir que não há prova de autoria e materialidade do crime de estelionato, demandaria o reexame de todo o conjunto fático-probatório acostado aos autos, o que encontra óbice na Súmula n.º 7/STJ. 3. Agravo regimental desprovido. (AgRg no AREsp 1355733/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 23/10/2018, DJe 13/11/2018 - Grifo Nosso).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
