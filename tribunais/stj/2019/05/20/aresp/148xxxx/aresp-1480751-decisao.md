@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por ULTRA SOM SERVICOS MEDICOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas a e c da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS, assim ementado:
+APELAÇÕES. DIREITO CIVIL E PROCESSUAL CIVIL. INTEMPESTIVIDADE E ILEGITIMIDADE PASSIVA DO PLANO DE SAÚDE. PRELIMINARES REJEITADAS. DANOS MORAL E MATERIAL CONFIGURADOS. FALHA NA PRESTAÇÃO DO SERVIÇO. RESPONSABILIDADE SOLIDÁRIA DAS EMPRESAS INTEGRANTES DA CADEIA DE FORNECEDORES. ARTIGO 7º, PARÁGRAFO ÚNICO DO CDC. SUCUMBÊNCIA. ÔNUS DA PARTE VENCIDA. ADEQUAÇÃO AOS LIMITES LEGAIS. SENTENÇA MANTIDA.
+1. Considerando a formação de litisconsórcio com diferentes procuradores, bem ainda a suspensão do prazo no período do recesso forense, 20/12/2012 a 06/01/2013, as apelações são tempestivas.
+2. Como é incontroversa a natureza consumerista do pacto firmado entre as partes, tanto o hospital que prestou o atendimento diretamente como o plano de saúde respondem pelos danos causados por defeitos relativos à prestação do serviço, independentemente da existência de culpa, nos termos do artigo 14 do CDC.
+3. Apelações desprovidas, em consonância com o Ministério Público.
+Tanto em relação à primeira controvérsia, pela alínea a, como em relação à segunda controvérsia, pela alínea c, o recorrente não aponta o dispositivo legal violado ou objeto de interpretação divergente.
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Impossível o conhecimento do recurso pela alínea a. Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp n. 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/6/2018).
+Quanto à segunda controvérsia, não foi comprovada a divergência jurisprudencial, uma vez que não cumpridos os requisitos legais do art. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nesse sentido, os seguintes julgados: AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018; AgInt no REsp 1.696.707/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 12/3/2018; e AgRg no REsp 1.683.470/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 31/10/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
