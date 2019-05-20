@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo apresentado pela COOPERATIVA DE CRÉDITO, POUPANÇA E INVESTIMENTO VALE DO PIQUIRI ABCD - SICREDI VALE DO PIQUIRI ABCD PR/SP contra a decisão que não admitiu seu recurso especial, fundamentado no art. 105, inciso III, alínea a, da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - CONTRATOS DE EMPRÉSTIMO - COMISSÃO DE PERMANÊNCIA - IMPOSSIBILIDADE DE CUMULAÇÃO COM OUTROS ENCARGOS MORATÓRIOS - EXEGESE DA SÚMULA Nº 472 DO STJ - SENTENÇA MANTIDA - HONORÁRIOS RECURSAIS - INCIDÊNCIA RECURSO CONHECIDO E NÃO PROVIDO
+Quanto à controvérsia dos autos, alega violação do art. 489 do Código de Processo Civil, trazendo os seguintes argumentos:
+IV. DA VIOLAÇÃO À LEI FEDERAL - ART. 489 DO CÓDIGO DE PROCESSO CIVIL
+O V. Acórdão manteve a sentença de primeiro grau que determinou a incidência tão somente da comissão de permanência e majorou os honorários recursais em desfavor da Cooperativa de 10% (dez por cento) para 11% (onze por cento) sobre o valor da causa.
+Extrai-se do v. acórdão, ter sido mantido o entendimento no sentido de haver unicamente a incidência de comissão de permanência, vedando a cumulação com outros encargos, tais como, juros moratórios, juros remuneratórios, multa moratória e correção monetária.
+Isto pois, com o devido respeito, mas o v. acórdão simplesmente reproduziu a sentença proferida pelo magistrado "a quo". Ou seja, não houve a verdadeira análise do caso concreto.
+Nesse ponto, o artigo 489 do CPC/2015 dispõe:
+ ..
+Pois bem.
+Houve clara violação do mencionado dispositivo, visto que o v. acórdão deixou de realizar a efetiva análise do caso concreto, tendo unicamente reestabelecido as razões já dispostas na r. sentença.
+Afinal, conforme exaustivamente exposto, não houve a incidência de comissão de permanência cumulada com outros encargos.
+EM VERDADE, EXISTE PREVISÃO CONTRATUAL DA COMISSÃO DE PERMANÊNCIA CUMULADA COM OUTROS ENCARGOS, NO ENTANTO OS CÁLCULOS QUE INSTRUÍRAM O PROCESSO EXECUTIVO QUE MOTIVOU OS EMBARGOS, NÃO FIZERAM INCIDIR A COMISSÃO DE PERMANÊNCIA.
+O que se busca demonstrar, é que não houve cumulação dos encargos com a comissão de permanência, justamente por incidir apenas os demais encargos.
+ ..
+Contudo, consoante delineado, apesar de constar a previsão da cumulação, os cálculos não aplicaram qualquer índice de correção, tampouco aplicou-se a comissão de permanência.
+Em relação ao contrato de empréstimo nº A60830117-5, a memória de cálculo de fl. 66/69 é bem clara em discriminar a incidência apenas de juros contratuais remuneratórios de 4% ao mês, juros moratórios de 1% ao mês e multa moratória de 2%, não havendo a cumulação da comissão de permanência com outros encargos.
+ ..
+Aliás, se realmente tivesse havido a incidência da alegada comissão de permanência, O QUE NÃO ACONTECEU NO CASO EM COMENTO, aí sim estaria correto a r. sentença apelada, mantida incólume pelo v. acórdão, já que os juros incidentes no respectivo cálculo seriam bem maiores, e com a aplicação de 95,1545% para fins de inadimplência.
+Da mesma forma, Excelência, os únicos encargos que incidiram sobre a CCB nº A60830291-0 (fl. 70) referem-se a juros contratuais remuneratórios de 3,65%, juros moratórios de 1% ao mês e multa moratório de 2%, também previstas no cálculo e no título, respectivamente.
+ ..
+Fato é que não houve a incidência de comissão de permanência, tendo sido atualizados os débitos unicamente pelos seguintes encargos: correção monetária, encargos moratórios, juros remuneratórios e multa moratória. (fls. 692/695).
+É o relatório.
+ Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois nas razões do recurso especial não se particularizou o parágrafo/inciso/alínea sobre o qual recairia a referida ofensa ao art. 489 do CPC, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já consignou que "o recurso especial não é um menu onde a parte recorrente coloca à disposição do julgador diversos dispositivos legais para que esse escolha, a seu juízo, qual deles tenha sofrido violação. Compete à parte recorrente indicar de forma clara e precisa qual o dispositivo legal (artigo, parágrafo, inciso, alínea) que entende ter sofrido violação, sob pena de, não o fazendo, ver negado seguimento ao seu apelo extremo em virtude da incidência, por analogia, da Súmula 284/STF" (AgRg no AREsp 583.401/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 25/3/2015).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 1.229.292/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 4/9/2018; AgInt no AgRg no AREsp n. 801.901/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1º/12/2017; AgInt nos EDcl no AREsp n. 875.399/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º/8/2017; AgRg no Ag n. 341.240/SP, relator Ministro Massami Uyeda, Quarta Turma, DJ de 6/8/2007, p. 493; e AgRg no REsp n. 695.304/RJ, relator Ministro Francisco Falcão, Primeira Turma, DJ de 5/9/2005, p. 263.
+Ademais, também incide o óbice da Súmula n. 5 do STJ ("A simples interpretação de cláusula contratual não enseja recurso especial"), uma vez que a pretensão recursal demanda reexame de cláusulas contratuais.
+Nesse sentido: "E mesmo se superado tal obstáculo, constata-se que a controvérsia foi dirimida pelo Tribunal a quo com base na análise e interpretação de cláusulas contratuais, fato esse que impede o exame da questão por esta Corte, em face da vedação prevista na Súmula n. 5/STJ" (AgInt no AREsp n. 1.298.442/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no REsp n. 1.476.562/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 22/3/2019; AgInt nos EDcl no AREsp n. 1.278.998/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/3/2019; AgInt no AREsp n. 1.297.507/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/2/2019; e AgInt no REsp n. 1.768.401/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
