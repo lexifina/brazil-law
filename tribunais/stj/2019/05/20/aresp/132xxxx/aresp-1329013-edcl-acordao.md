@@ -1,0 +1,49 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. RECURSO QUE NÃO INFIRMOU, DE FORMA ESPECÍFICA, OS FUNDAMENTOS DO DECISUM COMBATIDO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ. OMISSÃO. AUSÊNCIA. INÍCIO DE CUMPRIMENTO DE PENA. DESARRAZOADA OPOSIÇÃO REITERADA DE EMBARGOS. MATÉRIA CONSTITUCIONAL. STF.
+1. Em essência, a oposição de embargos de declaração almeja o aprimoramento da prestação jurisdicional, por meio da modificação de julgado que se apresenta omisso, contraditório, obscuro ou com erro material (art. 619 do CPP).
+2. A insurgência não merece prosperar, haja vista o ora embargante não ter atacado de forma específica os fundamentos da decisão agravada, incidindo, no caso, a Súmula 182/STJ.
+3. A violação de preceitos, de dispositivos ou de princípios constitucionais revela-se quaestio afeta à competência do Supremo Tribunal Federal, provocado pela via do extraordinário; motivo pelo qual não se pode conhecer do recurso especial nesse aspecto, em função do disposto no art. 105, III, da Constituição Federal.
+4. A conduta delitiva (estelionato) imputada ao embargante extrapola a normalidade - no estelionato, para a obtenção da vantagem indevida, o acusado falsificou e utilizou vários documentos públicos consistentes em carteira de identidade, CPF, título de eleitor e carteira de reservista, fazendo passar por outra pessoa (fl. 1.388) - e o montante de prejuízo gerado às vítimas, ou seja, R$ 99.396,29 (noventa e nove mil, trezentos e noventa e seis reais e vinte e nove centavos), fundamentam maior rigor para início de cumprimento de pena.
+5. A questão tratada nos autos foi decidida e fundamentada à luz da legislação federal. Inexiste, portanto, vício consistente em omissão, contradição, obscuridade ou erro material (art. 619 do CPP).
+6. Nítido o caráter protelatório dos embargos de declaração, sendo o segundo recurso dessa natureza manifestado pelo embargante, ambos rejeitados, com determinação de comunicação ao Juízo de primeiro grau para que dê início imediato à execução das penas, independentemente da publicação do presente acórdão.
+7. Embargos de declaração rejeitados com a determinação de início da execução da pena imposta ao embargante.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com determinação nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de novos embargos de declaração opostos por [NOME] ao acórdão da Sexta Turma deste Superior Tribunal, que rejeitou os seus embargos de declaração (fls. 1.524/1.529).
+Esta, a ementa do acórdão embargado (fl. 1.524):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. RECURSO QUE NÃO INFIRMOU, DE FORMA ESPECÍFICA, OS FUNDAMENTOS DO DECISUM COMBATIDO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ. OMISSÃO. AUSÊNCIA.
+1. Em essência, a oposição de embargos de declaração almeja o aprimoramento da prestação jurisdicional, por meio da modificação de julgado que se apresenta omisso, contraditório, obscuro ou com erro material (art. 619 do CPP).
+2. A insurgência não merece prosperar, haja vista o ora embargante não ter atacado, de forma específica, os fundamentos da decisão agravada, incidindo, no caso, a Súmula 182/STJ.
+3. A questão tratada nos autos foi decidida e fundamentada à luz da legislação federal. Inexiste, portanto, vício consistente em omissão, contradição, obscuridade ou erro material (art. 619 do CPP).
+4. Embargos de declaração rejeitados.
+Nas razões dos embargos de declaração, sustenta o embargante suposta omissão e contradição, porque o decisum recorrido não enfrentou as teses ofertadas pela defesa técnica, o que fere os arts. 5º, LV, e 93, IX, ambos da Constituição da República, em razão de evidente cerceamento da defesa (fl. 1.534).
+Aduz que a fundamentação tem implicação substancial e não meramente formal, de maneira que o julgamento deve exteriorizar a base fundamental da decisão (fl. 1.534).
+Por fim, requer o esclarecimento das omissões, bem como (fl. 1.535):
+ ..  a) Portais razões, requero Embargante, com fulcro no art. 619, do Código Processo Penal, dignem-se V. Exa. receber e acolher estes Embargos de Declaração, para o fim de se suprir a OMISSÃO ora apontada, devendo ser reformado o ref. Acórdão após posterior motivação e fundamentação do Min. Relator e ao final de reformar o Acórdão proferido por esta Sexta Turma Cf .1527-1529), dando PROVIMENTO ao Agravo Regimental.
+b) A intimação da parte adversa para que apresente manifestação aos embargos, considerando que possui natureza com efeito modificativo;
+c) que todas as intimações/publicações sejam necessariamente feitas em nome do advogado [NOME], inscrito na OAB/MS sob nº 20.579.
+ ..
+Dispensou-se a oitiva da parte contrária.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Ab initio, a violação dos arts. 5º, LV, e 93, IX, ambos da Constituição da República, revela-se quaestio afeta à competência do Supremo Tribunal Federal, provocado pela via do extraordinário; motivo pelo qual não se pode conhecer do recurso, nesse aspecto, em função do disposto no art. 105, III, da Constituição Federal.
+Confira-se julgado em consonância: AgRg no REsp n. 1.055.431/SC, Ministro Og Fernandes, Sexta Turma, DJe 9/11/2009.
+Superado esse aspecto, em necessária síntese, a oposição de embargos de declaração almeja o aprimoramento da prestação jurisdicional por meio da modificação de julgado que se apresenta omisso, contraditório, obscuro ou com erro material (art. 619 do CPP).
+No caso, não se evidencia a alegada violação do art. 619 do Código de Processo Penal, porquanto o fornecimento da prestação jurisdicional se ajustou à pretensão deduzida, conforme se depreende da análise do decisum embargado.
+Extrai-se das razões da insurgência que o deslinde da controvérsia se contrapôs à pretensão do embargante. Portanto, por via oblíqua, ou seja, por intermédio de embargos de declaração, com nítidos contornos infringentes, postula-se novo julgamento da demanda e, consequentemente, a inversão do decisum.
+O Superior Tribunal de Justiça manifestou-se sobre o tema nos seguintes termos:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCLASSIFICAÇÃO DE FURTO CONSUMADO PARA TENTADO. IMPOSSIBILIDADE. DESNECESSIDADE DA POSSE TRANQÜILA DA RES FURTIVA. AUSÊNCIA DE OMISSÃO. EMBARGOS REJEITADOS.
+1. Inexistindo quaisquer dos vícios mencionados no artigo 619 do Código de Processo Penal, incabíveis os embargos de declaração.
+ ..
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp n. 1.095.727/RS, Ministro Haroldo Rodrigues (Desembargador convocado do TJ/CE), Sexta Turma, DJe 29/3/2010)
+De mais a mais, ao examinar as laudas (fls. 1.515/1.518 e 1.532/1.535) ofertadas pela parte embargante, denota-se que a defesa técnica não impugnou, de forma específica, os fundamentos da decisão agravada, incidindo, no caso, a Súmula 182/STJ.
+Inclusive, mesmo que tal óbice fosse afastado, no mérito, o recurso especial interposto, outrossim, não mereceria provimento, ou seja, o regime fechado foi fixado, pelo Tribunal de origem, de maneira adequada ao se referir à gravidade da conduta do ora embargante (fl. 1.391).
+Melhor esclarecendo, a conduta delitiva (estelionato) imputada ao embargante extrapola a normalidade - para a obtenção da vantagem indevida, o acusado falsificou e utilizou vários documentos públicos consistentes em carteira de identidade, CPF, título de eleitor e carteira de reservista, fazendo passar por outra pessoa (fl. 1.388) - e o montante de prejuízo gerado às vítimas, ou seja, R$ 99.396,29 (noventa e nove mil, trezentos e noventa e seis reais e vinte e nove centavos), inegavelmente, fundamentam maior rigor para início de cumprimento de pena em desfavor do embargante (fls. 1.208/1.246; 1.373/1.394 e 1.418/1.422).
+Logo, a meu ver, nítida a intenção do embargante em protelar a prestação jurisdicional. Consequentemente, em decorrência da desarrazoada oposição de reiterados embargos de declaração, determino o início da execução da pena imposta ao embargante, nos termos da jurisprudência deste Superior Tribunal, in verbis: a partir do julgamento pela egrégia Sexta Turma dos EDcl no REsp n. 1.484.415/DF, a orientação jurisprudencial segundo a qual é possível o imediato início do cumprimento provisório da pena após o exaurimento das instâncias ordinárias, inclusive com restrição da liberdade do condenado, por ser os recursos extraordinários desprovidos de efeito suspensivo, sem que isso implique violação do princípio da não culpabilidade (AgRg no HC n. 485.449/PB, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 21/3/2019).
+Em termos diversos, repita-se, nítido o caráter protelatório dos presentes embargos de declaração, sendo o segundo recurso dessa natureza manifestado pela parte embargante, ambos rejeitados, logo, cabível a determinação de comunicação ao Juízo de primeiro grau para que dê início imediato à execução das penas, independentemente da publicação do presente acórdão.
+Desse modo, inexistindo elementos capazes de alterar os fundamentos da decisão embargada, subsiste incólume o entendimento nela firmado, não merecendo prosperar os presentes embargos.
+Por fim, a questão tratada nos autos foi decidida e fundamentada à luz da legislação federal. Inexiste, portanto, vício consistente em omissão, contradição, obscuridade ou erro material (art. 619 do CPP).
+Em face do exposto, rejeito os embargos de declaração com a determinação de início da execução da pena imposta ao embargante.
