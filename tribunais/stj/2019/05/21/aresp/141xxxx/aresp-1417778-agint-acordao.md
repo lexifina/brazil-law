@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA CUMULADA COM REPARAÇÃO POR DANOS MORAIS. TRIBUNAL A QUO CONCLUIU RESPONSABILIDADE CIVIL DO AGRAVANTE PELA INSCRIÇÃO INDEVIDA DA AGRAVADA NO CADASTRO DE INADIMPLENTES. MODIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA E ANÁLISE DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. REDUÇÃO DO QUANTUM INDENIZATÓRIO. VALOR DENTRO DOS PARÂMETROS DE RAZOABILIDADE. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, com arrimo no acervo fático-probatório carreado aos autos, concluiu que havia cláusula expressa no contrato de locação atribuindo ao agravante (locatário) a responsabilidade pelo pagamento da conta de energia elétrica do imóvel e, por tal razão, deve responder pelos danos decorrentes da inscrição do nome da ora agravada (locadora) em cadastro de proteção ao crédito decorrente do inadimplemento das referidas contas. A pretensão de alterar tal entendimento, quanto à responsabilidade do ora agravante pelo pagamento e aludida inscrição, demandaria o reexame de matéria fático-probatória e análise de cláusulas contratuais, inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+2. O entendimento desta Corte Superior é de que a revisão do valor do dano moral em sede de recurso especial, via de regra, atrai a Súmula 7/STJ, a qual somente é relativizada quando fixada em valores exorbitantes ou irrisórios, o que não é o caso dos autos.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Marco Buzzi (Presidente) e Luis Felipe Salomão votaram com o Sr. Ministro Relator. Ausente o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno (fls. 262-276), interposto por MUNICÍPIO DE CAXIAS, contra decisão (fls. 252-256) desta relatoria, que conheceu do agravo para não conhecer do recurso especial sob os seguintes fundamentos:
+a) quanto aos arts. 186 e 927 do Código Civil, sob o fundamento de que a pretensão posta no apelo especial demandaria revolvimento de matéria fático-probatória e análise de cláusulas contratuais, inviável nesta sede recursal, conforme preconizam as Súmulas 7 e 5 do STJ;
+b) no tocante à alegada violação ao art. 944 do Código Civil, sob o argumento de que a pretensão de alterar o quantum indenizatório esbarraria no óbice da Súmula 7/STJ, por entender que o valor arbitrado não se mostrava excessivo.
+Nas razões do agravo interno, MUNICÍPIO DE CAXIAS afirma que, "(..) pelo contrário do que fora apontado na decisão agravada, o Agravante objetiva demonstrar o comportamento inadequado do Tribunal local, vez que o mesmo incorreu em error in iudicando ao não mostrar-se omisso na valoração provas existentes nos autos e manter incólume a decisão judicial que imputou ao Recorrente a reparação de dano sobre o qual este não é responsável (..)".
+Alega, também, "(..) que por meio do apelo especial não se pretende a reincursão no acervo fático probatório, mediante a análise detalhada de documentos, testemunhas, contratos, perícias, dentre outros (..)".
+Aduz, ainda, que "(..) se pretende, em verdade, que ocorra uma (re)definição jurídica diversa aos fatos expressamente mencionados no acórdão, em especial pelo fato do Acórdão local ter ignorado a existência de elementos objetivos que demonstram a ausência de responsabilidade do Município de Caxias no evento, afora a impropriedade da condenação por dano moral em patamar desproporcional e desarrazoado (..)"
+Ao final, pleiteia a reconsideração da decisão agravada ou, se mantida, seja o presente feito levado a julgamento perante a eg. Quarta Turma.
+Sem impugnação, vide certidão à fl. 277.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+O recurso em apreço não merece prosperar, uma vez que o agravante não apresentou argumentos jurídicos aptos a motivar a modificação da decisão agravada.
+Na detida análise das razões recursais, verifica-se que o agravante aponta ofensa aos arts. 186 e 927 do CC, sob o argumento de que não detinha a responsabilidade pelos pagamentos das faturas de energia elétrica, o que afastaria o dever de indenizar. O TJ-MA, à luz do acervo fático-probatório, concluiu ser incontroverso que a agravante celebrou contrato no qual se responsabilizava pelo pagamento das contas de água e luz. Com efeito, a ausência do referido pagamento e a inscrição indevida da agravada no cadastro de inadimplentes enseja dano moral in re ipsa. Decalca-se trecho do v. acórdão local (fls. 158-159):
+"É incontroverso que o Município Apelante celebrou contrato tendo por objeto a locação de imóvel da Apelada, tendo se- comprometido, no item 2 da cláusula 9a do instrumento, a "pagar pontualmente as contas de consumo de água, luz (..)" (fl. 10).
+Ocorre que, apesar de responsável pelo pagamento desses serviços, o Apélanté deixou de honrar a sua obrigação. A dívida com a CEMAR, que chegou a ser de mais de R$ 6 mil (principal), ficou em R$ 1.553,55 (referentes a juros de atraso e multa contratuais), conforme a própria Apelada admitiu em petição de fl.71.
+Este fato - pagamento do principal - é superveniente à propositura da demanda, mas deveria ter sido levado em conta pelo Juízo ao prolatar a sentença, como determina o art. 493 do CPC/2015.
+Ainda assim, em razão da impontualidade do Apelante, o nome da Apelada foi inscrito pela CEMAR no cadastro de maus pagadores do SPC, fato que inquestionavelmente acarreta dano moral in re ipsa." (grifou-se)
+Dessa forma, infere-se que a pretensão do agravante, no sentido de modificar a conclusão lançada no Tribunal de origem, sob alegada ofensa ao dispositivo mencionado, ensejaria o reexame do acervo fático-probatório e análise das cláusulas contratuais, o que é inviável em estreita via de recurso especial, conforme o disposto nas Súmulas 7 e 5, ambas do STJ. Corroborando esse entendimento, confiram-se os seguintes precedentes:
+"AGRAVO INTERNO. COBRANÇA. SEGURO DE VIDA EM GRUPO. INDENIZAÇÃO. COBERTURA SECURITÁRIA. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+(..)
+2. A alteração do conteúdo decisório emanado da instância origem demandaria reincursão nos elementos fático-probatórios constantes do presente processo, bem como interpretação de cláusulas contratuais, o que não se admite na via do recurso especial ante o óbice das Súmulas 5 e 7/STJ.
+(..)
+4. Agravo interno não provido."
+(AgInt no AREsp 1.328.303/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/12/2018, DJe de 11/12/2018 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA E ACIDENTES PESSOAIS EM GRUPO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REVELIA. PRESUNÇÃO RELATIVA DE VERACIDADE DOS FATOS ALEGADOS NA INICIAL. DECISÃO MANTIDA.
+(..)
+2. O recurso especial não comporta exame de questões que impliquem interpretação de cláusula contratual ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp 1.340.807/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/11/2018, DJe de 16/11/2018 - grifou-se)
+Por sua vez, tampouco merece reparos a decisão vergastada quanto à pretensão de reduzir o valor da indenização a título de danos morais (violação ao art. 944, parágrafo único, do Código Civil). Com efeito, a uníssona jurisprudência desta eg. Corte firmou-se no sentido de que a pretensão de alterar o valor da indenização a título de danos morais esbarra no óbice da Súmula 7/STJ, afastando-a, excepcionalmente, caso o quantum se mostrar irrisório ou exorbitante. O TJ-MA, sopesando os fatos narrados, assim concluiu sobre o quantum indenizatório (fl. 159):
+"Impõe-se, portanto, a manutenção da sentença na parte em que condenou o Apelante ao pagamento de danos morais, os quais foram arbitrados em R$,5 mil (dentro dos parâmetros adotados por este Tribunal em casos do jaez), devendo, contudo, ser alterado o decisum para que o decreto condenatório referente ao "pagamento ,das contas de energia elétrica vinculadas ao imóvel desc.rito no contrato de locação de fls. 10-14, apenas durante o período de, vigência do contrato" seja alterado para constar a condenação do Apelante ao pagamento da importância de R$ 1.553,55 (um mil quinhentos e cinquenta e três reais e - cinquenta e cinco centavos)." (grifou-se)
+Na espécie, o quantum foi estabelecido em R$ 5.000,00 (cinco mil reais), valor que não é exorbitante, não havendo excepcionalidade para afastar a incidência da referida Súmula.
+Com essas considerações, tem-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
