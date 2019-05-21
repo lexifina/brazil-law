@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve sentença de procedência em ação de usucapião, assim ementado (eDOC 2, p. 155):
+    “Usucapião. Requisitos comprovados. Posse pacifica não prejudicada pela existência de ação discriminatória da qual inexiste prova de que dela tivessem ciência os autores. Alegação de domínio público feita pela Fazenda que, por ser excludente do direito dos autores, deveria ser demonstrada nos termos do art. 333, II, do CPC. Sentença mantida. Recurso improvido.”
+    No recurso extraordinário, com fundamento do art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 183, § 3º; e 191, parágrafo único, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, a impossibilidade de usucapião de bem público, caracterizado por terra devoluta em fase de demarcação em ação discriminatória própria (eDOC 2, p. 181/184).
+    É o relatório. Decido.
+    Inicialmente, quando do julgamento da apelação, o Tribunal de origem asseverou que (eDOC 2, p. 156):
+    “Não há dúvida de que os autores preenchem os requisitos para a prescrição aquisitiva, o que se pode verificar da documentação que acompanha a petição inicial e aditamento, bem como da própria manifestação da Fazenda do Estado em que só se questiona a ausência de posse pacífica por conta de ação discriminatória ajuizada em 1957, da qual, contudo, não há nenhuma prova de que tivessem os requerentes qualquer ciência inequívoca do litígio.
+    A questão principal que se coloca, no caso, diz respeito à possibilidade da prescrição aquisitiva por conta da alegação da Fazenda de estar situada a área usucapienda em terras pertencentes ao Estado de São Paulo, e, por isso, de domínio público e insuscetível de usucapião.
+    Partindo da Fazenda a alegação de estar o imóvel usucapiendo em área de domínio público, a partir da qual pretendia desconstituir o direito dos autores, estava incumbida de provar a assertiva, nos termos do art. 333, II, do . Código de Processo Civil. E, não o tendo feito, não pode subsistir a alegação de impossibilidade da usucapião ao fundamento de tratar-se de área de domínio público.
+    Nem se pode considerar como prova bastante as afirmativas do Centro de Engenharia e Cadastro Imobiliário da Procuradoria Geral do Estado de São Paulo e da Fundação Instituto de Terras do Estado de São Paulo (ITESP), visto que, apesar da seriedade que possam ter, não se afastam da parcialidade que é própria de quem procura defender os interesses da Fazenda nos litígios judiciais. E, como dito, tal afirmação, por ser excludente do direito dos autores, deveria ser comprovada pelo ônus disposto no art. 333, II, do Código de Processo Civil.”
+    Como se depreende desses fundamentos e daqueles que constam da ementa do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo, quanto ao preenchimento dos requisitos legais para caracterização de terras devolutas, demandaria o reexame dos fatos e provas constantes dos autos, o que encontra óbice na Súmula 279 do STF.
+    Nesse sentido: ARE 682.218-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJE 26.3.2014; RE 607.681-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 22.2.2011; ARE 1.037.201, Rel. Min. Luís Roberto Barroso, Dje 2.5.2017; ARE 1.033.658, Rel. Min. Rosa Weber, DJe 28.3.2017.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 21 de maio de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
