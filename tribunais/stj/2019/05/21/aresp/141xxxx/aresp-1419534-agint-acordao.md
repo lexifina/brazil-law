@@ -1,0 +1,62 @@
+EMENTA
+ADMINISTRATIVO. CONCURSO PÚBLICO. ADMISSÃO AO CURSO DE HABILITAÇÃO DE OFICIAIS NA ÁREA DE SERVIÇO SOCIAL. EXIGÊNCIA EDITALÍCIA. ESTATURA MÍNIMA. MATÉRIA EMINENTEMENTE CONSTITUCIONAL. ANÁLISE DE DIREITO LOCAL. SÚMULA 280 DO STF.
+I - Na origem, cuida-se de mandado de segurança objetivando o direito prosseguir nas demais fases do concurso público para provimento de cargos efetivos do Quadro de Oficiais Bombeiros Militares do Distrito Federal, na especialidade Serviço Social, eis que fora eliminada do certame por não possuir altura mínima. Na sentença, concedeu-se a segurança. No Tribunal de Justiça do Distrito Federal e Territórios, a sentença foi mantida.
+II - Cinge-se a controvérsia acerca da possibilidade ou não de se exigir altura mínima no concurso para admissão e provimento do Quadro de Oficiais Bombeiros Militares do Distrito Federal, na especialidade Serviço Social.
+III - Assim, concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, se tem inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+IV - Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal. No mesmo sentido: REsp 1696948/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2017, DJe 19/12/2017.
+V - Outrossim, o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, Lei n. 7.479/1986, o que implica na inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 do STF, que assim dispõe: "por ofensa a direito local não cabe recurso extraordinário". Nesse sentido: AgInt no REsp 1324535/DF, 2012/0105475-2, Rel. Min. Og Fernandes, Segunda Turma, julgado em 25/04/2017, DJe 03/05/2017.
+VI - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, cuida-se de mandado de segurança ajuizado por [NOME] em face do Distrito Federal, objetivando o direito prosseguir nas demais fases do concurso público para provimento de cargos efetivos do Quadro de Oficiais Bombeiros Militares do Distrito Federal, na especialidade Serviço Social, eis que fora eliminada do certame por não possuir altura mínima. À causa foi arbitrado o valor de R$ 1.000,00 (mil reais). Na sentença, concedeu-se a segurança. No Tribunal de Justiça do Distrito Federal e Territórios, a sentença foi mantida, nos termos assim ementados (fl. 560):
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. ADMISSÃO AO CURSO DE HABILITAÇÃO DE OFICIAIS NA ÁREA DE SERVIÇO SOCIAL. EXIGÊNCIA EDITALÍCIA. ESTATURA MÍNIMA. OFENSA AO PRINCÍPIO DA RAZOABILIDADE.
+1. O artigo 37,I, da Constituição Federal confere ao legislador ordinário o poder de estabelecer critérios para investidura em cargo, emprego ou função pública que atendam as atribuições específicas de cada cargo.
+2. Nada obsta que se estabeleça altura mínima para o desempenho do cargo público, desde que tal limitação esteja em consonância com a natureza e as atribuições do cargo que se pretende prover, em conformidade com o princípio da razoabilidade.
+3. A restrição imposta pela Administração Pública não se mostra necessária à obtenção dos fins almejados pelo Estado na ocupação na área de Serviço Social, cujo exercício pode ser desempenhado com sucesso sem que se exija determinado padrão físico.
+4. O Órgão Especial deste Eg. Tribunal reconheceu a inconstitucionalidade de interpretação que aplique o § 2o, do artigo 11, da Lei 7.479/96 aos candidatos a médicos e capelães, por ofensa aos princípios da isonomia e da razoabilidade - artigo 5o, caput, e artigo 37, da Constituição Federal.
+5. Nulidade da regra editalícia que fixa limite mínimo de altura reconhecida.
+6. Recurso e remessa necessária desprovidos.
+Naquela decisão, tendo como pano de fundo entendimento manifestado pelo Tribunal Local em situações semelhantes, foi decidido que a restrição imposta pela Administração Distrital, qual seja, altura mínima, não se mostra necessária à obtenção dos fins almejados pelo Estado na ocupação na área de Serviço Social, cujo exercício pode ser desempenhado com sucesso sem que se exija determinado padrão físico.
+Interposto recurso especial fundado no art. 105, III, a, da Constituição Federal por violação ao art. 11, §2º, da Lei n. 7.479/1986.
+Sustentou, em síntese, que o a exigência "altura mínima" encontra-se prevista no art. 11, §2º, da Lei n. 7.479/1986, não havendo distinção entre as especialidades do Quadro de Oficiais Bombeiros-QOB. Assim, todos os integrantes do QOB estão sujeitos à ordem normativa, sem distinção.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido (fls. 602-617).
+O recurso especial foi inadmitido com base na Súmula 280/STF.
+Sobreveio agravo nos próprios autos.
+O Ministério Público opinou pelo desprovimento recursal, nos termos do parecer de fls. 738-741, que guarda a seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. Mandado de segurança. Concurso público. Limite mínimo de altura. Candidata reprovada. Segurança concedida. Recurso especial interposto contra acórdão que negou provimento ao recurso de apelação do DE Agravo em recurso especial. Razões de agravo que não lograram demonstrar os requisitos de admissibilidade pelo especial. O Tribunal de origem decidiu a controvérsia à luz da Lei n.º 7.479/86 - Estatuto dos Bombeiros Militares do Corpo de Bombeiros do Distrito Federal. Legislação local. Súmula 280/STF. Ainda que esse óbice pudesse ser superado, ao que se tem, a Corte de origem considerou desarrazoada e desproporcional a previsão de limite mínimo de altura para o exercício do cargo almejado pela Agravada: Oficial Bombeiro Militar - Especialidade Serviço Social, tendo consignado, ainda, que foi reconhecida a inconstitucionalidade "de interpretação que aplique o § 2o, do artigo 11, da Lei 7.479/96 aos candidatos a médicos e capelães, por ofensa aos princípios da isonomia e da razoabilidade - artigo 5", caput, e artigo 37, da Constituição Federal", o que evidencia a natureza constitucional da fundamentação, inviável de modificação em recurso especial, sob pena de usurpação de competência do STF. Agravo em recurso especial que não deve ser provido.
+No STJ, foi proferida decisão com o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial".
+Interposto agravo interno contra essa decisão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, inciso III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Cinge-se a controvérsia acerca da possibilidade ou não de se exigir altura mínima no concurso para admissão e provimento do Quadro de Oficiais Bombeiros Militares do Distrito Federal, na especialidade Serviço Social.
+Constata-se que o acórdão combatido valeu-se de argumentos de natureza eminentemente constitucional, transbordando os lindes específicos do recurso especial, senão vejamos:
+Infere-se dos autos, em especial do documento acostado à ID 3186783 fls. 1/2, que a autora foi eliminada do certame no exame biométrico (4a fase) por possuir 1,54 m de altura, tendo, assim, descumprido requisito disposto no edital (Edital, conforme item 4.1, XII - 3186784 - Pág. 6), que prevê altura mínima de 1,55 m para mulheres.
+Vejamos.
+O artigo 37,1, da Constituição Federal confere ao legislador ordinário o poder de estabelecer critérios para investidura em cargo, emprego ou função pública que atendam as atribuições específicas de cada cargo, verbis:
+(..)
+Nesse contexto, o Estatuto do Corpo de Bombeiros Militar do Distrito Federal (Lei nº 7.479/86) estabeleceu o critério da estatura mínima como requisito para ingresso na Corporação Militar, nos seguintes termos:
+Assim, concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, se tem inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+No mesmo sentido, destaco o seguinte precedente:
+ADMINISTRATIVO E CONSTITUCIONAL. GUARDA CIVIL MUNICIPAL DE SERTÃOZINHO. APOSENTADORIA ESPECIAL. ACÓRDÃO COM FUNDAMENTOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. ANÁLISE DO TEMPO DE SERVIÇO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Trata-se de ação em que busca o recorrente desconstituir acórdão que reconheceu a contagem por tempo de serviço para fins de concessão da aposentadoria especial. 2. A questão debatida nos autos foi resolvida pelo Tribunal de origem à luz de fundamentos eminentemente constitucionais, de modo que a análise da questão ora controvertida escapa à competência do Superior Tribunal de Justiça em Recurso Especial.
+3. Assim, eventual ofensa à legislação ocorre no plano constitucional, motivo pelo qual é inviável a rediscussão do tema em Recurso Especial. Nesse sentido: AgRg no REsp 1.197.535/ES, Relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 8/10/2013; REsp 1.651.086/CE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 20/4/2017, e REsp 1.671.595/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 2 7/6/2017, DJe 30/6/2017.
+4. No que tange à análise da ausência de contribuição mínima para a aposentadoria, a instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial.
+5. Recurso Especial não conhecido.
+(REsp 1696948/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2017, DJe 19/12/2017)
+Outrossim, o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, Lei n. 7.479/1986, o que implica na inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 do STF, que assim dispõe: "por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONCURSO PÚBLICO. POLÍCIA MILITAR DO DISTRITO FEDERAL. LEI N. 7.289/84. MATÉRIA LOCAL. SÚMULA 280/STF.
+1. No tocante à apontada ofensa ao art. 11, caput, da Lei n. 7.479/86, que disciplina o Estatuto dos Bombeiros-Militares do Distrito Federal, anote-se que o Superior Tribunal de Justiça firmou a orientação de que as leis de aplicação restrita ao Distrito Federal, a exemplo da norma em questão, embora publicadas pelo Congresso Nacional, são de natureza local.
+2. Aplicável à hipótese, portanto, por analogia, a Súmula 280 do Supremo Tribunal Federal, in verbis: "Por ofensa a direito local, não cabe o recurso extraordinário".
+3. Agravo interno a que se nega provimento.
+( AgInt no REsp 1324535 / DF, 2012/0105475-2, Rel. Min. Og Fernandes, Segunda Turma, julgado em 25/04/2017, DJe 03/05/2017)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
