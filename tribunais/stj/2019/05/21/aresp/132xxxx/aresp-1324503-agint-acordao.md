@@ -1,0 +1,98 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INADIMPLEMENTO CONTRATUAL. ACORDO HOMOLOGADO JUDICIALMENTE. ALIENAÇÃO FIDUCIÁRIA. VEÍCULO AUTOMOTOR. BAIXA DE GRAVAME. DEMORA. DANO MORAL NÃO CONFIGURADO.
+1. A jurisprudência do STJ firmou o entendimento no sentido de que o simples atraso em baixar gravame de alienação fiduciária no registro de veículo automotor não é apto a gerar dano moral in re ipsa, sendo indispensável demonstrar a presença de efetivas consequências que ultrapassem os aborrecimentos normais vinculados ao descumprimento contratual.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Marco Buzzi (Presidente), Luis Felipe Salomão e Raul Araújo votaram com a Sra. Ministra Relatora.
+Ausente o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: [NOME] interpõe agravo interno contra a decisão de fls. 430/436, que conheceu do agravo e deu provimento ao recurso especial interposto pela instituição financeira.
+Sustenta a agravante que a decisão agravada está em dissonância com recentes julgados desta Corte que, em casos análogos, entendeu que o descumprimento de acordo judicial com o atraso na baixa do gravame de alienação fiduciária configura dano moral in re ipsa.
+Afirma que "mesmo tratando-se de danos morais in re ipsa, importante referir que a recorrente demonstrou os danos sofridos por meio de testemunha ouvida em audiência de instrução" (fl. 464).
+Argumenta que ficou caracterizada a atitude ilícita da instituição financeira, que manteve o gravame do veículo por prazo superior ao determinado em resolução do CONTRAN.
+Assevera, ademais, que "buscou de todas as formas possíveis compelir o banco a cumprir com sua obrigação, peticionando nos autos da ação revisional, porém, o banco não cumpriu com sua obrigação e o veículo permaneceu alienado ao banco por tempo muito superior ao acordado entre as partes" (fl. 468).
+Intimada para se manifestar acerca da interposição do recurso, a parte contrária não apresentou impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INADIMPLEMENTO CONTRATUAL. ACORDO HOMOLOGADO JUDICIALMENTE. ALIENAÇÃO FIDUCIÁRIA. VEÍCULO AUTOMOTOR. BAIXA DE GRAVAME. DEMORA. DANO MORAL NÃO CONFIGURADO.
+1. A jurisprudência do STJ firmou o entendimento no sentido de que o simples atraso em baixar gravame de alienação fiduciária no registro de veículo automotor não é apto a gerar dano moral in re ipsa, sendo indispensável demonstrar a presença de efetivas consequências que ultrapassem os aborrecimentos normais vinculados ao descumprimento contratual.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O recurso não prospera.
+Transcrevo, por oportuno, os fundamentos da decisão agravada (fls. 430/436):
+BV Financeira S/A Crédito Financiamento e Investimento interpõe agravo interno contra a decisão de fls. 411/414, em que neguei provimento ao agravo em recurso especial.
+Afirma a agravante que não incide, à hipótese dos autos, o óbice da Súmula n. 7 do STJ.
+Argumenta que "somente há dever de indenizar em circunstâncias excepcionais, capazes de causar sofrimento, dor, constrangimento, angústia ou desconforto espiritual a ponto de violar, de forma anormal, o direito de personalidade do indivíduo" (fl. 422).
+Alega, ademais, que a jurisprudência desta Corte já decidiu que a demora na liberação de gravame junto ao órgão de trânsito competente não configura dano moral.
+Intimada para se manifestar acerca da interposição do recurso, a parte contrária não apresentou impugnação.
+Diante dos fundamentos expostos nas razões do agravo interno, reconsidero a decisão ora agravada e passo à análise do recurso.
+Trata-se de agravo manifestado por BV Financeira S/A Crédito Financiamento e Investimento contra decisão que negou seguimento a recurso especial, no qual se alega negativa de vigência do art. 373, I, do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fls. 219/220):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. INTERESSE DE AGIR. DESCUMPRIMENTO DE TRANSAÇÃO JUDICIAL. MANUTENÇÃO DO GRAVAME DE ALIENAÇÃO FIDUCIÁRIA. DANO MORAL CARACTERIZADO. QUANTUM INDENIZATÓRIO.
+Da norma processual aplicável ao feito
+1. No caso em exame a decisão recorrida foi publicada após a data de 17/03/2016, logo, não se aplica a anterior legislação processual civil, de acordo com enunciado do STJ quanto à incidência do atual Código de Processo Civil de 2015 para as questões processuais definidas após aquele termo. Assim, em se tratando de norma processual, há a imediata incidência no caso dos autos da legislação vigente, na forma do art. 1.046 do diploma processual precitado.
+Mérito do recurso em exame
+2. No presente feito restou devidamente comprovado o descumprimento de acordo judicial para a baixa de gravame de alienação fiduciária, a teor do que estabelece o art. 373, I, da novel legislação processual.
+3. Demonstrada a conduta negligente da empresa-ré no cumprimento de ajuste judicial em prazo razoável, na medida em que não comprovou a baixa do gravame, esta deve ser responsabilizada pela violação do acordo entabulado, conduta abusiva na qual assumiu o risco de causar lesão a parte autora, mesmo os de ordem extrapatrimonial. daí ensejando o dever de indenizar. Descumprimento do prazo de dez dias fixados pelo CONTRAN, que regula a baixa deste tipo de gravame.
+4. No que tange à prova do dano moral, por se tratar de lesão imaterial, desnecessária a demonstração do prejuízo, na medida em que possui natureza compensatória, minimizando de forma indireta as conseqüências da conduta da ré, decorrendo aquele do próprio fato. Conduta ilícita da demandada que faz presumir os prejuízos alegados pela parte autora, é o denominado dano moral puro.
+5. O valor a ser arbitrado a título de indenização por dano imaterial deve levar em conta o princípio da proporcionalidade, bem como as condições da ofendida, a capacidade econômica do ofensor, além da reprovabilidade da conduta ilícita praticada. Por fim, há que se ter presente que o ressarcimento do dano não se transforme em ganho desmesurado, importando em enriquecimento ilícito.
+6. Juros moratórios devidos desde a data do evento danoso, de acordo com a Súmula n. 54 do Superior Tribunal de Justiça, a base de 1% ao mês, na forma do artigo 406, do Código Civil, em consonância com o disposto no artigo 161, § 1º do Código Tributário Nacional. Vencido o Des. Jorge André Pereira Gailhard e a Desa. [NOME] quanto ao termo inicial dos juros de mora.
+7. Correção monetária que incide a partir do arbitramento da indenização. Súmula nº. 362 do STJ.
+8. No presente feito não há falar em litigância de má-fé por parte do autor, na medida em que não se verifica a ocorrência precisa de quaisquer das hipóteses constantes no artigo 80 da novel legislação processual.
+9. Desse modo, sem a caracterização de conduta processual temerária descabe a condenação da parte a pena de litigância de má-fé, reconhecida em primeiro grau, a qual se afasta nesta instância. Dado provimento ao apelo, vencido o Des. Jorge André Pereira Gailhard e a Desa. [NOME] quanto aos juros de mora.
+Sustenta a agravante, em síntese, que não ficou configurado ato ilícito ensejador de indenização por danos morais.
+Assim posta a questão, passo a decidir.
+Verifico que o Tribunal de origem consignou que o atraso no cancelamento do gravame configurou conduta ilícita da instituição financeira, ensejadora de indenização por danos morais, conforme se extrai dos seguintes excertos (fls. 223/227):
+(..)
+Preambularmente, é oportuno destacar que restou devidamente comprovado o descumprimento de acordo para a liberação do gravame de alienação fiduciária.
+Com efeito, vislumbra-se que no acordo homologado a demandada se comprometeu a liberar o gravame de alienação fiduciária no prazo de 40 (quarenta) dias úteis contados a partir do levantamento integral dos valores depositados judicialmente (fl. 17/19). Registre-se que, consoante os documentos juntados aos autos, a nota de expediente dando ciência à demandada acerca da homologação do acordo foi disponibilizada em 11/09/2013.
+Na mesma data, a parte ré foi intimada acerca da liberação do alvará à disposição no cartório, consoante se denota do teor da nota de expediente acostada à fl. 25 dos autos.
+O alvará foi retirado pelo procurador do réu na data de 02/10/2013, sendo que no dia 27/11/2013, o demandado peticionou naqueles autos informando que o alvará deveria ser eletrônico, postulando a devolução de uma das vias e nova expedição de alvará automatizado (fl. 260 do processo nº 087/1.09.0003424-1 dos autos em apenso).
+Em dezembro de 2013 o réu foi intimado para regularizar a representação processual, sendo que em 23/07/2014 foi disponibilizada nova nota de expediente dando ciência novamente acerca do alvará.
+Ressalta-se, ainda, que a postulante tentou resolver a questão naqueles autos (fls. 273/275 do apenso), contudo, o Magistrado a quo entendeu por determinar o arquivamento com baixa e deu vista ao autor para "requerer o que entender de direito" (fl. 297).
+Assim, até 01/09/2014 (fl. 96), fato incontroverso, passados aproximadamente onze meses da primeira retirada do alvará pelo procurador do réu, a demandada ainda não tinha efetuado a liberação do gravame, impossibilitando que a autora tivesse a livre disponibilidade de seu bem.
+A par disso, a demandada não demonstrou a liberação do gravame em tempo hábil, ônus que lhe impunha, a teor do que estabelece o artigo 373, II, da novel legislação processual.
+Dessa forma, demonstrada a conduta negligente da empresa-ré no cumprimento de ajuste judicial em prazo razoável, esta deve ser responsabilizada pela violação do acordo entabulado, conduta abusiva na qual assumiu o risco de causar lesão a parte autora, mesmo os de ordem extrapatrimonial, daí ensejando o dever de indenizar.
+A esse respeito consigne-se que o descumprimento do ajuste acordado mediante livre manifestação de vontade entre as partes e homologado judicialmente se trata de fato grave, quanto mais se esta importa em restrição à livre disposição dos poderes inerentes à propriedade.
+(..)
+Desse modo, a conduta ilícita praticada pela parte demandada, não procedendo ao cancelamento do gravame a que se comprometera, em tempo hábil, demonstra o desrespeito a transação judicial feita, ficando evidenciado o nexo causal entre a atitude adotada e o prejuízo de ordem moral ocasionado, o qual foi descrito na exordial, devendo este ser reparado na forma dos dispositivos legais precitados.
+(..)
+Observo, todavia, que a jurisprudência do STJ já decidiu que o simples atraso em baixar gravame de alienação fiduciária no registro do veículo automotor não é apto a gerar dano moral in re ipsa, sendo indispensável demonstrar a presença de efetivas consequências que ultrapassem os aborrecimentos normais vinculados ao descumprimento contratual, o que não ocorreu na espécie. A propósito, confiram-se:
+DIREITO CIVIL E PROCESSUAL CIVIL. INADIMPLEMENTO CONTRATUAL. ACORDO HOMOLOGADO JUDICIALMENTE. ALIENAÇÃO FIDUCIÁRIA. VEÍCULO AUTOMOTOR. BAIXA DE GRAVAME. DEMORA. DANO MORAL. NÃO CARACTERIZAÇÃO.
+1. Considera-se deficiente a fundamentação do recurso especial que alega ofensa ao art. 535 do CPC e não demonstra, clara e objetivamente, qual ponto omisso, contraditório ou obscuro do acórdão recorrido não foi sanado no julgamento dos embargos de declaração.
+2. O inadimplemento contratual gera, ordinariamente, os efeitos estabelecidos no art. 389 do Código Civil, segundo o qual, "não cumprida a obrigação, responde o devedor por perdas e danos mais juros e atualização monetária segundo índices oficiais regularmente estabelecidos, e honorários de advogado".
+3. Somente haverá indenização por danos morais se, além do descumprimento do contrato, ficar demonstrada circunstância especial capaz de atingir os direitos de personalidade, o que não se confunde com o mero dissabor.
+4. O simples atraso em baixar gravame de alienação fiduciária no registro do veículo automotor não é apto a gerar, in re ipsa, dano moral, sendo indispensável demonstrar a presença de efetivas consequências que ultrapassem os aborrecimentos normais vinculados a descumprimento contratual. Nessa linha: REsp n. 1.653.865/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23.5.2017, DJe 31.5.2017.
+5. Recurso especial parcialmente conhecido e desprovido.
+(REsp 1.599.224/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 16.8.2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PRINCÍPIO DA CAUSALIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211. BAIXA DE GRAVAME. DEMORA. DANO MORAL. NÃO CARACTERIZAÇÃO. AGRAVO NÃO PROVIDO.
+1. Não enseja interposição de recurso especial matéria que não tenha sido ventilada no v. aresto atacado e sobre a qual, embora tenham sido opostos os embargos declaratórios competentes, o órgão julgador não se pronunciou e a parte interessada não alegou ofensa ao art. 535 do Código de Processo Civil de 1973. Incidência da Súmula 211 do Superior Tribunal de Justiça.
+2. O atraso da baixa de gravame de alienação fiduciária, por si só, não caracteriza dano moral, sendo necessária a demonstração de circunstâncias que agravem a situação da parte.
+3. Não tendo sido reconhecida pela Corte de origem nenhuma situação gravosa excepcional pela qual tenha passado o recorrente, além da demora na regularização da documentação do veículo decorrente da modalidade de negócio firmado pelas partes, fica afastada a ocorrência de dano moral.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.344.667/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 20.11.2018)
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AUSÊNCIA. FINANCIAMENTO DE VEÍCULO COM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. ACORDO. QUITAÇÃO DO CONTRATO. DEMORA NA LIBERAÇÃO DO GRAVAME SOBRE O BEM JUNTO AO ÓRGÃO DE TRÂNSITO COMPETENTE. DANO MORAL NÃO CARACTERIZADO.
+1. Ausentes os vícios do art. 1.022 do CPC/2015, é de rigor a rejeição dos embargos de declaração.
+2. A configuração do dano moral pressupõe uma grave agressão ou atentado a direito da personalidade, capaz de provocar sofrimentos e humilhações intensos, descompondo o equilíbrio psicológico do indivíduo por um período de tempo desarrazoado.
+3. Desse modo, ausentes circunstâncias excepcionais devidamente comprovadas, a simples demora da instituição financeira em, quitado o contrato, providenciar a liberação do gravame de alienação fiduciária sobre o veículo junto ao órgão de trânsito competente não enseja, por si só, dano moral indenizável.
+4. Recurso especial não provido.
+(REsp 1.653.865/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 31.5.2017)
+Dessa forma, não tendo sido demonstrada a presença de efetivas consequências, e circunstâncias excepcionais devidamente comprovadas, que ultrapassem os aborrecimentos normais vinculados ao descumprimento do ajuste, deve ser afastada a indenização por danos morais.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para julgar improcedentes os pedidos contidos na inicial. Condeno a parte autora ao pagamento das custas processuais e dos honorários advocatícios, que fixo em R$ 1.000,00 (um mil reais), considerando-se suspensa a exigibilidade em caso de deferimento da assistência judiciária gratuita.
+Intimem-se.
+Com efeito, reitero que a jurisprudência desta Corte já decidiu que o simples atraso em baixar gravame de alienação fiduciária no registro do veículo automotor não é apto a gerar dano moral in re ipsa, sendo indispensável demonstrar a presença de efetivas consequências que ultrapassem os aborrecimentos normais vinculados ao descumprimento contratual, o que não ocorreu na espécie. Nesse sentido, cito os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. ABORDAGEM EXPRESSA DA MATÉRIA. MERA IRRESIGNAÇÃO. CERCEAMENTO DE DEFESA.
+FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF. RESPONSABILIDADE CIVIL. GRAVAME DE VEÍCULO. DEMORA NA LIBERAÇÃO. DANO MORAL. INEXISTÊNCIA. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola o artigo 1.022 do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação expressa e suficiente para a resolução da causa, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta.
+3. A inviabilidade da produção da prova testemunhal por força da exposição genérica dos fatos, fundamento autônomo e suficiente para a manutenção do acórdão quanto ao cerceamento de defesa, não foi alvo de irresignação no recurso especial, circunstância que atrai a aplicação da Súmula nº 283/STF.
+4. É firme a orientação do Superior Tribunal de Justiça no sentido de que a simples demora da instituição financeira em providenciar a liberação do gravame sobre veículo não resulta em dano moral indenizável. Precedentes.
+5. Na hipótese, os magistrados da instância ordinária decidiram em perfeita consonância com a jurisprudência desta Corte, circunstância que atrai a incidência da Súmula nº 568/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.328.572/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 1º.3.2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, a demora da instituição financeira em promover a exclusão do gravame de veículo alienado fiduciariamente, por si só, não se revela suficiente para configurar dano moral indenizável.
+2. Agravo interno desprovido.
+(AgInt no REsp 1.675.040/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 25.10.2018)
+No presente caso, não foi comprovada a presença de efetivas consequências e circunstâncias excepcionais que ultrapassem os aborrecimentos normais vinculados ao descumprimento do ajuste, de modo que não há que se falar em indenização por danos morais.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
