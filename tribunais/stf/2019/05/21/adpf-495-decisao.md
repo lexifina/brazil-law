@@ -1,0 +1,17 @@
+DECISÃO
+ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. INGRESSO DE AMICUS CURIAE. PERTINÊNCIA TEMÁTICA. REQUERIMENTO DEFERIDO. PROVIDÊNCIAS PROCESSUAIS.
+Relatório
+    1. Sindicato dos Servidores Públicos e Pensionistas da Secretaria da Administração do Estado do Piauí – SINSPESA/PI requereu o ingresso na presente arguição de descumprimento de preceito fundamental como amicus curiae.
+    2. Na espécie vertente, questiona-se a validade constitucional de decisões judiciais do Juizado Especial da Fazenda Pública da Comarca de Teresina/PI e das Turmas Recursais do Piauí pelas quais reconhecido aos servidores públicos estaduais direito adquirido a determinada forma de cálculo de adicional por tempo de serviço, em alegada inobservância à Lei Complementar estadual n. 33/2003, pela qual teria sido extinguido referido benefício.
+    O autor alega que o reconhecimento judicial de direito adquirido a regime jurídico remuneratório representa afronta à independência entre os Poderes da República e interfere na atribuição constitucional do chefe do Poder Executivo para exercer a direção superior da Administração Pública estadual.
+    No art. 3º do Estatuto do Sindicato postulante se estabelece, entre as finalidades da instituição, “pugnar pela unificação dos esforços de todos os servidores públicos, civis e pensionistas da Secretaria da Administração do Estado do Piauí em prol de suas legítimas reivindicações” e “representar coletivamente os servidores públicos e pensionistas da Secretaria Estadual da Administração perante as autoridades administrativistas e judiciárias”.
+    3. No julgamento da Medida Cautelar na Ação Direta de Inconstitucionalidade n. 1.157, DJ 17.11.2006, o Ministro Celso de Mello ressaltou que “o requisito da pertinência temática (...) se traduz na relação de congruência que necessariamente deve existir entre os objetivos estatutários ou as finalidades institucionais da entidade autora e o conteúdo material da norma questionada em sede de controle abstrato”.
+    4. Ao examinar a Questão de Ordem na Ação Direta de Inconstitucionalidade n. 2.187, este Supremo Tribunal decidiu:
+    “É de exigir-se, em ação direta de inconstitucionalidade, a apresentação, pelo proponente, de instrumento de procuração ao advogado subscritor da inicial, com poderes específicos para atacar a norma impugnada” (Relator o Ministro Octavio Gallotti, Plenário, DJ 12.12.2003).
+    5. Reconhecidas a relevância da matéria e a representatividade do postulante, patrocinado por procuradores habilitados especificamente para essa finalidade, e a pertinência temática, admito o ingresso na presente ação como amicus curiae (§ 2º do art. 7º da Lei n. 9.868/1999) de Sindicato dos Servidores Públicos e Pensionistas da Secretaria da Administração do Estado do Piauí – SINSPESA/PI, observando-se, quanto à sustentação oral, o § 3º do art. 131 do Regimento Interno do Supremo Tribunal Federal (alterado pela Emenda Regimental n. 15/2004).
+    6. Pelo exposto, defiro o ingresso na presente arguição como amicus curiae de Sindicato dos Servidores Públicos e Pensionistas da Secretaria da Administração do Estado do Piauí – SINSPESA/PI.
+    7. À Secretaria Judiciária deste Supremo Tribunal para proceder à inclusão de Sindicato dos Servidores Públicos e Pensionistas da Secretaria da Administração do Estado do Piauí – SINSPESA/PI e de seus representantes legais na presente ação e adotar as providências cabíveis.
+    Publique-se.
+    Brasília, 21 de maio de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
