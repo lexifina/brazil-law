@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. DEMOLITÓRIA. Ribeirão Preto. Pretensão de desfazimento de construção clandestina e ilegal. Torre de retransmissão de sinais de telefonia celular em edifício. Construção que se deu sem aprovação municipal. Lei Estadual n° 10.995/2001 e Lei Complementar Municipal n° 1.246/2001 que não ferem o princípio da competência legislativa que é concorrente. Preservada a competência municipal sobre questões urbanísticas e paisagísticas. Obra o realizada sem autorização da autoridade competente. Obrigação de demolir imposta ao proprietário e ao dono da estação. Sentença confirmada. Recurso não provido.” (eDOC 3, p. 103)
+    Opostos embargos de declaração, estes não foram providos. (eDOC 4, p. 21)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a e c, da Constituição Federal, aponta-se violação aos arts. 21; 22; e 93, IX, do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão estaria desprovido de necessária fundamentação. (eDOC 4, p. 33)
+    Além disso, arguiu-se que teria violado a competência material e legislativa da União para tratar de telecomunicações, de modo que a lei local não poderia prevalecer diante das disposições das Leis 9.472/1997, 11.934/2011, e 13.116/2015. (eDOC 4, p. 35)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Preliminarmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    Cumpre registrar que o acórdão recorrido está devidamente fundamentado, sendo pacífico o entendimento desta Corte no sentido de ser desnecessário o enfrentamento específico de todos os argumentos trazidos pelo recorrente. Assim, não há que se falar em violação ao art. 93, IX, do texto constitucional.
+    Saliente-se, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, no tema 339, nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão . 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. (AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010).”
+    Na espécie, verifico que o Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Estadual 10.995/2001 e Lei Municipal 1.246/2001), consignou que o recorrente teria edificado antena de telefonia móvel celular sem licenciamento e contrariamente às regras de uso e ocupação do solo. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Serviços de telecomunicações são regulados pela lei federal, todavia, edificações, ainda que destinadas àqueles serviços, estão sujeitas a lei municipal, notadamente porque a legislação local não cria restrições às telecomunicações, mas sim preserva a segurança local quando às edificações.
+    Portanto, pelo que se colhe a licença edilícia e de funcionamento, obviamente se prende à exigência do Município, pois a ele cabe disciplinar esse assunto, que é de interesse local. Note-se que o laudo pericial, às fls. 174, menciona que as obras para construção da antena de telefonia móvel celular já se encontravam concluídas, com todo o equipamento instalado e em funcionamento. Há, portanto, edificação, que não pode ficar à margem das regras de liso e ocupação do solo.” (eDOC 3, p. 108)
+    Por outro lado, o acórdão recorrido está de acordo com o entendimento desta Corte de que a disciplina sobre instalação de torres de telefonia se insere na competência dos municípios para legislar sobre assuntos de interesse local. Nesse sentido, cito precedentes de ambas as Turmas:
+    “DIREITO CONSTITUCIONAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. LICENCIAMENTO E INSTALAÇÃO DE TORRES DE TELEFONIA. ESTAÇÃO DE RÁDIO BASE. COMPETÊNCIA MUNICIPAL. PRECEDENTES.” (RE 989.025-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 19.4.2017).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. INSTALAÇÃO DE TORRES DE TELEFONIA CELULAR. COMPETÊNCIA LEGISLATIVA MUNICIPAL PARA DISCIPLINAR O USO E OCUPAÇÃO DO SOLO URBANO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 632.006AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 1.12.2014).
+    Na mesma linha, menciono as decisões nos RE 1.093.981, rel. Min. Luiz Fux; RE 872.351, rel. Min. Dias Toffoli; e ARE 1.089.155, rel. Min. Ricardo Lewandowski.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de maio de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
