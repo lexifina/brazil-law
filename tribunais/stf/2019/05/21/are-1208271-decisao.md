@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IPTU. ALÍQUOTA. PROGRESSIVIDADE. FUNÇÃO SOCIAL DO IMÓVEL. TERRENO NÃO EDIFICADO EM CONDOMÍNIO FECHADO. REQUISITOS LEGAIS E FÁTICOS. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “EMENTA - RECUSO INOMINADO - AÇÃO DECLARATÓRIA C/C ANULATÓRIA DE DÉBITO FISCAL C/C REPETIÇÃO DE INDÉBITO C/C ANTECIPAÇÃO DE TUTELA - SENTENÇA IMPROCEDENTE - ALÍQUOTA PROGRESSIVA DE IPTU - TERRENO NÃO EDIFICADO LOCALIZADO EM CONDOMÍNIO FECHADO - LEGALIDADE - RECURSO DESPROVIDO.”
+    Nas razões do apelo extremo, o contribuinte sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 156, § 1º, I e II, da Constituição Federal. Questiona a incidência da alíquota majorada, asseverando que o imóvel cumpre sua função social, e que o terreno, por estar em condomínio fechado, não é atendido por melhoramentos públicos.
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    Divergir das razões do acórdão recorrido, para reconhecer a função social do imóvel a fim de reduzir a alíquota do IPTU, demandaria o reexame da legislação infraconstitucional aplicável à espécie (Código Tributário Nacional, Lei 10.257/2001, e Lei Complementar municipal 71/2003), o que se revela inviável em sede de recurso extraordinário por configurar ofensa indireta à Constituição Federal, bem como o incursionamento no contexto fático-probatório engendrado nos autos, o que também não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe à discussão eminentemente de direito, face ao óbice erigido pela Súmula 279 do STF.
+    Nesse sentido: ARE 909.695, Rel. Min. Roberto Barroso, DJe de 10/9/2015; RE 775.104, Rel. Min. Cármen Lúcia, DJe de 2/10/2014; ARE 775.095, Rel. Min. Ricardo Lewandowski; DJe de 28/3/2014; RE 774.971, Rel. Min. Teori Zavascki, DJe de 21/2/2014; e AI 754.161, Rel. Min. Joaquim Barbosa, DJe de 29/11/2011.
+    Por fim, observo que o agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do STF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal (artigo 85, § 11, do CPC/2015), ficando suspensa sua exigibilidade, nos termos do artigo 98, § 3º, do referido código.
+    Publique-se.
+    Brasília, 21 de maio de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
