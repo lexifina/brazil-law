@@ -1,0 +1,19 @@
+DECISÃO
+RECLAMAÇÃO – MEDIDA CAUTELAR NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE Nº 3.395-6 – DESRESPEITO – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    O Município de Campo Belo/MG afirma haver o Tribunal de Justiça do Estado de Minas Gerais, no processo nº 0030909-21.2015.8.13.0112, desrespeitado a liminar deferida na ação direta de inconstitucionalidade nº 3.395.
+    Segundo narra, ao apreciar apelação, o Tribunal reclamado veio a declarar a incompetência da Justiça comum para o processamento de certa demanda ante a natureza celetista do vínculo mantido com o interessado, Marcos Vinicius Corrêa. Destaca estarem os próprios servidores regidos mediante liame estatutário, levando em conta a Lei Complementar local nº 4/1991. Argumenta que o contrato temporário detém caráter administrativo, considerado o disposto nos artigos 229 e 230 do citado diploma. Diz em jogo, na origem, o pagamento de verbas decorrentes do regime estatutário.
+    Conforme discorre, o Supremo, ao implementar a medida acauteladora no processo objetivo, suspendeu, no tocante ao artigo 114, inciso I, da Constituição Federal, na redação conferida pela Emenda de nº 45/2004, interpretação que inclua, na competência da Justiça trabalhista, causas instauradas entre o Poder Público e os servidores, concernentes à relação de cunho estatutário.
+    Sob o ângulo do risco, alude à remessa do caso a órgão incompetente, cujos atos serão nulos.
+    Requer, no campo precário e efêmero, a suspensão do processo originário. Busca, alfim, a cassação do pronunciamento impugnado.
+    2. A liminar deferida na ação direta de inconstitucionalidade nº 3.395 ficou restrita ao afastamento de interpretação do inciso I do artigo 114 da Lei Maior, na redação dada pela Emenda de nº 45/2004, que implique admissão da competência da Justiça do Trabalho para examinar questões atinentes a regime especial, de caráter jurídico-administrativo.
+    A leitura do acórdão reclamado revela que, ao declinar da competência para apreciar a demanda, o Tribunal de Justiça teve presente a regência celetista do vínculo mantido entre o interessado e o Município. Vejam a seguinte ementa:
+    APELAÇÃO. RECLAMAÇÃO TRABALHISTA. MUNICÍPIO DE CAMPO BELO. SERVIDOR CONTRATADO SOB O REGIME CELETISTA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. JURISPRUDÊNCIA DO STJ. SUSCITAR A (sic) ACOLHER PRELIMINAR, DE OFÍCIO. Consoante posicionamento emanado pelo col. STJ, a competência para julgar as causas instauradas entre o poder público e os servidores a ele vinculados sob o regime celetista é da Justiça do Trabalho.
+    (Apelação Cível nº 0030909-21.2015.8.13.0112, Primeira Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, relator o desembargador Armando Freire, acórdão publicado em 27 de novembro de 2018)
+    Diversamente do veiculado, segundo se extrai das peças que instruem a reclamação, o interessado busca, na origem, o pagamento de adicional por tempo de serviço, previsto no artigo 67 da Lei Complementar local nº 4/1991 – o estatuto dos servidores municipais. Não há a arguida violação do decidido no processo objetivo. Define-se a competência conforme a ação proposta. Se a causa de pedir é a relação de natureza celetista, pretendendo-se parcelas trabalhistas, a análise do tema cabe à Justiça do Trabalho, e não à comum. De outro modo, compete a esta – como ocorre no caso concreto – dirimir controvérsia considerada causa de pedir respaldada sob o ângulo estatutário.
+    3. Defiro a liminar para suspender, até o julgamento final desta reclamação, a eficácia do acórdão formalizado pelo Tribunal de Justiça do Estado de Minas Gerais no processo nº 0030909-21.2015.8.13.0112.
+    4. Citem o interessado e solicitem informações. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 21 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
