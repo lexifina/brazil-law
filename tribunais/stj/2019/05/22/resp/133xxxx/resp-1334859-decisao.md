@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fulcro na(s) alínea(s) "a" do permissivo constitucional, contra acórdão do Tribunal Regional da 5ª Região, assim ementado (e-STJ fl. 341):
+PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. EX-FERROVIÁRIO DA RFFSA. LEIS NºS 8.186/1991 E 10.478/2002. HORAS EXTRAS E ADICIONAL NOTURNO. IMPOSSIBILIDADE DE INCLUSÃO NO CÁLCULO DA COMPLEMENTAÇÃO.
+1. Busca-se a complementação da aposentadoria de ex-ferroviário, de forma que a importância recebida pelo Autor corresponda à totalidade dos estipêndios do pessoal da ativa, nos termos das Leis nºs 8.186/1991 e 10.478/2002.
+2. No cálculo da complementação da aposentadoria de ex-ferroviário, não devem ser incluídos o adicional noturno e as horas extras, em face do fato de que tal exercício se dá em caráter transitório e é peculiar, tão-somente, aos ferroviários que se encontram em atividade, não tendo sido, assim, atendidos, pelo Autor -Apelante, os requisitos das Leis nºs 8.186/1991 e 10.478/2002. Precedentes dos TRF"s da 3" e da 5" Regiões e do STJ. Apelação improvida.
+Nas suas razões, o recorrente aponta violação dos seguintes dispositivos legais: 535, II, do CPC/1973, 2º, caput e parágrafo único, da Lei n. 8.186/1991, c/c o art. 1º da Lei n. 10.259/2001 e 28, I, da Lei n. 8.212/1991.
+Aduz nulidade por negativa de prestação jurisdicional e, no mérito, defende a natureza remuneratória do adicional noturno e das horas extras habituais, os quais, por isso, devem integrar a base de cálculo da complementação das aposentadorias dos ferroviários.
+Contrarrazões às e-STJ fls. 399/408.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 412.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Estabelecida tal premissa, destaco que o Superior Tribunal de Justiça firmou o entendimento de que não há violação ao art. 535, II, do CPC/1973, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1340652/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/11/2015, DJe 13/11/2015).
+Acerca do tema, conferir, ainda: REsp 1388789/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/12/2015, DJe 04/03/2016, e AgRg no REsp 1545862/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 10/11/2015, DJe 18/11/2015.
+No caso, o julgado recorrido decidiu de forma suficientemente fundamentada sobre o cabimento das horas extras e do adicional noturno para fins de cálculo da complementação de aposentadoria, assunto(s) em relação ao(s) qual(quais) se alegou ter havido omissão e consequente ofensa àquele preceito legal.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie (AgRg no AREsp 163417/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/09/2014).
+No mais, o Tribunal a quo, no aresto combatido, ao assentar o caráter transitório das horas extras e do adicional noturno e afastar a inclusão desses adicionais no cálculo da complementação da aposentadoria do recorrente, decidiu em consonância com a orientação firmada nesta Corte, como demonstram os seguintes precedentes:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ADMINISTRATIVO. ADICIONAIS (NOTURNO E INSALUBRIDADE) E HORA EXTRA. INCORPORAÇÃO AOS PROVENTOS DE APOSENTADORIA. SÚMULAS NºS 83/STJ E 280/STF. PRECEDENTES.
+1. Esta Corte Superior de Justiça possui entendimento firmado em que o adicional noturno, o adicional de insalubridade e as horas extras têm natureza propter laborem, pois são devidos aos servidores enquanto exercerem atividades no período noturno, sob exposição a agentes nocivos à saúde e além do horário normal, razão pela qual não podem ser incorporados aos proventos de aposentadoria, limitados à remuneração do cargo efetivo. Precedentes.
+2. "Por ofensa a direito local não cabe recurso extraordinário." (Súmula do STF, Enunciado nº 280).
+3. Agravo regimental improvido.
+(AgRg no REsp 1238043/SP, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, julgado em 14/04/2011, DJe 10/05/2011)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. HORAS EXTRAS. INCORPORAÇÃO. IMPOSSIBILIDADE. NATUREZA PROPTER LABOREM. SUPRESSÃO DE VANTAGEM. DECADÊNCIA AFASTADA.
+APLICAÇÃO RETROATIVA DA LEI Nº 9.784/99. PRECEDENTES.
+1. As horas extras têm natureza propter laborem, pois são devidas aos servidores enquanto exercerem atividades além do horário normal, razão pela qual não podem ser incorporadas à remumeração do servidor ou aos seus proventos de aposentadoria. Precedentes.
+2. De acordo com a jurisprudência firmada nesta Corte Superior de Justiça, pode a Administração rever seus próprios atos no prazo decadencial previsto na Lei Federal nº 9.784, de 1º/2/99.
+3. A colenda Corte Especial, no julgamento do MS 9.112/DF, firmou entendimento no sentido de que os atos administrativos praticados anteriormente ao advento da mencionada Lei estão sujeitos ao prazo decadencial qüinqüenal contado da sua entrada em vigor. Ressalva desta Relatora.
+4. Agravo regimental improvido.
+(AgRg no REsp 943.050/PA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/09/2010, DJe 11/10/2010)
+Com isso, há ensejo para aplicar o enunciado da Súmula 83 do STJ à espécie.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
