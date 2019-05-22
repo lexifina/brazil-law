@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284/STF. AFRONTA À INSTRUÇÃO NORMATIVA. IMPOSSIBILIDADE. VIOLAÇÃO À SÚMULA 532/STJ. IMPOSSIBILIDADE. SÚMULA 518/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por BENEDITO RIBEIRO DA SILVA contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o seu recurso especial manejado em face do acórdão, assim ementado:
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C.C. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS Contrato bancário de cartão de crédito consignado e saque mediante utilização do cartão Pretensão fundada na negativa de celebração do contrato e indevida utilização da margem consignável - Improcedência Contratação devidamente demonstrada, inclusive com comprovação do depósito do montante do empréstimo na conta corrente do autor Ausência de ilegalidade na contratação e de prática de ato ilícito do banco Precedentes jurisprudenciais Recurso improvido.(e-STJ fl. 189)
+Os embargos opostos foram rejeitados. (e-STJ fls. 211/215)
+Em suas razões recursais, a recorrente aponta violação aos artigos 6º, II, III, 14, 39, 42, parágrafo único, 51 e 52, do Código de Defesa do Consumidor; 145, 147, 167, 168, 169, 171, 182, 186 e 927 do Código Civil. Afirma, ainda, violada a Súmula 532 do STJ e a Instrução Normativa INSS/PRES nº 28 de 2008. Por fim, aponta divergência jurisprudencial.
+Contrarrazões ao recurso especial apresentadas, às fls. 406/421 e-STJ, sobreveio juízo negativo de admissibilidade do Tribunal de origem, às fls. 422/424 e-STJ, o que ensejou a interposição do presente agravo.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, registre-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ.
+A pretensão recursal não merece prosperar.
+Com efeito, a agravante não desenvolveu argumentação jurídica clara e congruente apta a demostrar de que forma os dispositivos de lei federal apontados foram ofendidos. A simples referência aos dispositivos legais, sem a necessária argumentação que sustente a alegada violação à lei federal, não é suficiente para o conhecimento do recurso especial. A deficiência na fundamentação do recurso especial atrai, por analogia, o óbice da Súmula 284 do eg. Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A ausência de correta especificação, clara e objetiva, sobre a alegada violação dos dispositivos tidos por violados, bem como a falta de arrazoado jurídico impugnativo congruente com os fundamentos do acórdão que embasam o especial, caracterizam argumentação deficiente a impossibilitar a compreensão exata da controvérsia, atraindo a incidência da Súmula 284/STF.
+2. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. Incidência das Súmulas 282/STF e 356/STF.
+3. O Tribunal de origem consigna a inexistência de concorrência desleal na espécie, tampouco a comprovação da titularidade da patente questionada; sem falar que os produtos comercializados pelas partes são de gêneros diferentes. A reforma do aresto, neste aspecto, demanda inegável necessidade de reexame de matéria probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 758.156/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2016, DJe 02/02/2017. g.n.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO MONITÓRIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Na interposição de recurso especial, com fundamento na alínea a do permissivo constitucional, não basta a simples menção da norma federal tida por violada, sendo necessária a demonstração clara e precisa da ofensa em que teria incorrido o v. aresto hostilizado, sob pena de incidência da Súmula 284 do eg. STF.
+2. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula 211/STJ).
+3. É pacífico o entendimento desta Corte de que a aplicação do art. 6º, VIII, do CDC depende da análise, pelas instâncias ordinárias, da verossimilhança da alegação e da demonstração de hipossuficiência do consumidor, cujo reexame é vedado na via estreita do recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 614.529/ES, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/06/2015, DJe 03/08/2015) (grifou-se)
+Em relação à alegada violação à Instrução Normativa INSS/PRES nº 28 de 2008, impende salientar que a suposta violação a texto normativo de Resoluções ou Circulares não viabiliza a abertura desta instância excepcional, posto não se enquadrarem no conceito de lei federal para fins de autorização da interposição do recurso especial.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANUTENÇÃO EM PLANO DE SAÚDE. EX-FUNCIONÁRIO. 1. VIOLAÇÃO AO ART. 535 DO CPC/1973. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INEXISTÊNCIA. 2. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS LEGAIS TIDOS COMO VIOLADOS. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 3. AFRONTA A RESOLUÇÕES. ANÁLISE. IMPOSSIBILIDADE. NÃO INCLUSÃO NO CONCEITO DE LEI FEDERAL. 4. PLANO DE SAÚDE COLETIVO. APOSENTADORIA DO BENEFICIÁRIO. MANUTENÇÃO DAS MESMAS CONDIÇÕES DE ASSISTÊNCIA MÉDICA E DE VALORES DE CONTRIBUIÇÃO. INTERPRETAÇÃO DO ART. 31 DA LEI 9.656/98. VERBETE SUMULAR N. 83/STJ. 5. AGRAVO IMPROVIDO.
+ ..  3. Não é possível a interposição do recurso especial sob a alegação de violação à resolução, portaria, circulares e demais atos normativos de hierarquia inferior a Decreto, por não revestirem o conceito de lei federal.  ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 949.122/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2016, DJe 07/11/2016).
+No tocante à ofensa ao enunciado da Súmula 532/STF, é pacífico nesta Corte Superior que verbetes sumulares não se equiparam às leis federais para a finalidade disposta no art. 105, III, da Constituição Federal, de forma que não basta, para a admissão do recurso, a ofensa apontada.
+ Cumpre asseverar, inclusive, que este entendimento foi consubstanciado na Súmula 518/STJ que recebeu a seguinte redação: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Por fim, observo, por oportuno, que o dissídio jurisprudencial não foi devidamente comprovado conforme estabelecido nos arts. 1.029, § 1º, do CPC/15, do CPC, e 255, §§ 1º e 2º, do RISTJ. Não houve o devido cotejo analítico de modo a demonstrar a identidade fática e jurídica entre a hipótese dos autos e os acórdãos paradigmas, sendo certo que a simples transcrição de ementas e excertos de decisões não é suficiente para a comprovação do dissídio.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Considerando o disposto no § 11 do art. 85 do CPC/2015, majoro os honorários advocatícios, originalmente fixados em 10% (e-STJ, fl. 135), para 12% do valor da causa, observada a suspensão da sua exigibilidade em virtude da concessão da assistência judiciária gratuita.
+Intimem-se.
