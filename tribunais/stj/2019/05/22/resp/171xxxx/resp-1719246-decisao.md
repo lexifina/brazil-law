@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. VIOLAÇÃO DO ART. 489, DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ANÁLISE DE EVENTUAL OFENSA A DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. IMPOSSIBILIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, "a", da CF/1988, contra acórdão prolatado pela 3ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (fls. 254-255, e-STJ):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. TÉCNICO JUDICIÁRIO. ANALISTA JUDICIÁRIO - EXECUÇÃO DE MANDADOS. DESVIO DE FUNÇÃO NÃO CONFIGURADO. MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA.
+1. O Superior Tribunal de Justiça possui entendimento no sentido de que, reconhecido o desvio de função, o servidor faz jus às diferenças salariais dele decorrentes.
+2. No caso, não restou demonstrado o alegado desvio de função.
+3. Manutenção da sentença de improcedência.
+Opostos embargos de declaração, foram rejeitados (fls. 275-277, e-STJ).
+A recorrente em suas razões alega violação dos arts. 1º, 6º, 139, I, 369, 370, 378, 489, § 1º, IV e V, do CPC de 2015; 4º da Lei n. 8.112/1990; 884 e 889 do Código Civil de 2002; 5º e 37, caput, da CF/1988, e Sumula 378 do STJ, argumentando, em síntese, que (i) há evidente cerceamento de defesa quando o magistrado indefere a oitiva de testemunha e, ao sentenciar, desacolhe a tese do requerente sob o fundamento de que este não produziu prova suficiente; (ii) a decisão recorrida é nula, porquanto o acórdão recorrido manteve a sentença que afastou o reconhecimento do desvio funciona e deixou de apresentar análise e fundamentação adequadas para dar o caso por julgado, não havendo qualquer referência à análise fática dos autos, limitando-se a argumentações genéricas; e (iii) o desvio de função relatado tem como marco temporal inicial a Portaria n. 1/2010, assinada pelo Juiz Eleitoral da 128ª Zona. A referida Portaria é ato administrativo, portanto, é dotado de legalidade e veracidade, fazendo as vezes de reconhecimento tácito do direito da autora.
+Ao final, requer o provimento do recurso, para anular o acórdão em razão das violações dos dispositivos apontados, reconhecer o desvio de função e o direito do autor às diferenças remuneratórias entre os cargos, nos termos dos pedidos da inicial.
+Contrarrazões oferecidas às fls. 341-358, e-STJ.
+Juízo positivo de admissibilidade às fls. 399, e-STJ.
+É o relatório. Passo a decidir.
+Cuida-se, na origem, de ação ordinária contra a UNIÃO, pretendendo o reconhecimento de desvio funcional entre os cargos de "Técnico Judiciário " e "Analista Judiciário - Execução de Mandados", bem como a condenação da ré ao pagamento das diferenças remuneratórias, e gratificação da especialidade - GAE - acrescidas de correção monetária e juros de mora.
+De início, em relação à alegada violação do artigo 489, § 1º, inciso IV e V, do Código de Processo Civil de 2015, não merece ser acolhida, porquanto o Tribunal de origem apreciou a controvérsia com fundamentação suficiente, embora contrária aos interesses da recorrente. Ademais, conforme entendimento pacífico desta Corte, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+Em relação à suposta ofensa aos arts. 1º, 6º, 139, I, 369, 370, 378, do CPC de 2015; 4º da Lei n. 8.112/1990; 884 e 889 do Código Civil de 2002, impõe-se o não conhecimento do recurso. É pacífico nesta Corte Superior que a indicação de dispositivos tido por violado sem que esses tenham sido debatidos pelo Tribunal de origem, apesar da oposição dos embargos de declaração, obsta o conhecimento do recurso especial pela ausência de prequestionamento. Aplicável, assim, o enunciado da Súmula 211 do STJ.
+A propósito, confira:
+PROCESSUAL CIVIL E ADMINISTRATIVO. ARTS. 4º E 5º DO DECRETO-LEI 4.657/1942, 126 E 127 do CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ
+1. A alegação de afronta aos arts. 4º e 5º do Decreto-Lei 4.657/1942, 126 e 127 do CPC/1973, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo Tribunal a quo. Incide a Súmula 211/STJ porque, para que se tenha por atendido o requisito do prequestionamento, é indispensável também a emissão de juízo de valor sobre a matéria.
+2. A jurisprudência do STJ é firme no sentido de ser inadmissível o prequestionamento ficto, ou seja, não considera prequestionada a matéria pela simples oposição de Embargos Declaratórios.
+3. Caberia à parte recorrente, no caso de recusa do Tribunal de origem de analisar matéria relevante para o deslinde da controvérisa, suscitar no Recurso Especial a tese de violação do art. 535 do CPC/1973, o que não ocorreu.
+4. Agravo Interno não provido.
+(AgInt no AREsp 931.837/PB, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 07/3/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. JUÍZO DE RETRATAÇÃO. ART. 1.040, II, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+LEGITIMIDADE DA IMPETRANTE PARA REQUERER A RESTITUÍÇÃO/COMPENSAÇÃO DO TRIBUTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AÇÃO AJUIZADA DEPOIS DA VIGÊNCIA DA LEI COMPLEMENTAR N. 118/05. PRESCRIÇÃO QUINQUENAL. INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E COFINS. NÃO CABIMENTO. TESE FIXADA EM REPERCUSSÃO GERAL. TEMA N. 69/STF.
+ ..
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+ ..
+VII - Agravo conhecido e recurso especial conhecido em parte e parcialmente provido, em juízo de retratação, nos termos do art.
+1.040, II, do CPC de 2015.
+(Ag 1359424/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 17/04/2018)
+TRIBUTÁRIO. PROCESSUAL CIVIL. IMPOSTO DE RENDA. ARTS. 467, 468 E 471 DO CPC/73. PREQUESTIONAMENTO FICTO. DESCABIMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DESATENDIDAS AS EXIGÊNCIA DOS ARTS. 541, PARÁGRAFO ÚNICO, DO CPC E 255, §§ 1º E 2º, DO RISTJ.
+1. A mera oposição de embargos declaratórios não é suficiente para atender ao requisito do prequestionamento, sendo indispensável o efetivo exame da questão pelo Tribunal de origem. Com efeito, esta Corte Superior aceita o prequestionamento explícito e implícito, contudo, não admite o chamado "prequestionamento ficto", que se daria com a mera oposição de aclaratórios, sem que o Tribunal de origem tenha efetivamente emitido juízo de valor sobre as teses debatidas.
+2. Revela-se incabível o conhecimento do recurso especial fundado na alínea "c" do permissivo constitucional quando o recorrente não procede ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa. Além disso, não se conhece do recurso especial interposto pela alínea "c" do permissivo constitucional na hipótese em que o recorrente não junta cópia do paradigma mencionado, nem cita o repositório oficial, autorizado ou credenciado em que fora publicado. Inobservância das exigências dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1248586/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 10/09/2018)
+Além disso, nos termos do art. 105, inciso III, da Constituição de 1988, o recurso especial é destinado tão somente à uniformização da interpretação do direito federal, não sendo, assim, a via adequada para a análise de eventual ofensa a dispositivos constitucionais, cuja competência pertence ao Supremo Tribunal Federal. Por tal motivo, não se conhece do apelo especial no tocante à alegação de violação do artigo 5º e 37, caput, da CF/1988.
+No mais, a Corte de origem, ao analisar a controvérsia, assentou o julgado nos seguintes fundamentos, razão pela qual transcrevo naquilo que interessa ao ponto (fls. 223, e-STJ):
+ ..
+Contudo, da mesma forma que a sentença, entendo que no caso concreto, não está demonstrado o desvio de função.
+Não basta para a caracterização do desvio, todavia, o mero exercício eventual de funções estranhas ao cargo. Necessário se mostra que o servidor permanentemente exerça funções inerentes a outro cargo. O exercício eventual e esporádico de outras atividades, além daquelas expressamente previstas para o cargo do servidor, não gera direito à indenização.
+Assim, para afastar o entendimento a que chegou a Corte local seria necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em apelo excepcional por óbice da Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ.
+Majorar em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, § 3º, CPC/2015).
+Publique-se. Intimem-se.
