@@ -1,0 +1,44 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO - FNDE, contra acórdão prolatado, por unanimidade, pela 3ª Turma do Tribunal Regional Federal da 5ª Região no julgamento de apelação, assim ementado (fls. 350/356e):
+PROCESSUAL CIVIL. ADMINISTRATIVO. FIES. SATISFAÇÃO DA PRETENSÃO AUTORAL NA ESFERA ADMINISTRATIVA. RECONHECIMENTO DO PEDIDO. EXTINÇÃO DO PROCESSO NOS TERMOS DO ART. 487, III, "A", DO CPC. DESPESAS E HONORÁRIOS DE SUCUMBÊNCIA. ÔNUS DA PARTE QUE RECONHECE (ART. 90 DO CPC). APELAÇÕES IMPROVIDAS.
+1. Ação por meio da qual persegue a parte autora provimento judicial que determine à parte ré a adoção das medidas necessárias para o aditamento de seu contrato de financiamento estudantil - FIES, referente ao 2º semestre de 2016 e seguintes, possibilitando a continuidade de seus estudos com a garantia de matrícula e manutenção da inscrição junto ao Programa, até a conclusão do curso de graduação, sem a cobrança de dívidas referentes aos semestres que foram aditados.
+2. Afastada a preliminar de ilegitimidade suscitada pelo Banco do Brasil, por ser parte legítima para ocupar, juntamente com o FNDE, o polo passivo do feito, porquanto o contrato de financiamento estudantil foi celebrado com a parte autora por ambas as instituições, cabendo a elas a responsabilidade de manter regularizados os registros de dados necessários à execução e cumprimento das cláusulas do acordo celebrado.
+3. Depreende-se, da análise dos autos, que, antes da prolação da sentença, o próprio FNDE anexou petição, informando acerca da satisfação da pretensão autoral na esfera administrativa, o que implica em reconhecimento do pedido e consequente extinção do processo com resolução do mérito, nos termos do art. 487, III, "a", do CPC.
+4. Ao satisfazer a pretensão deduzida somente após o ajuizamento da ação, e, portanto, tendo dado causa à instauração da demanda, o FNDE deve arcar com o pagamento das despesas e dos honorários advocatícios, sendo o se impõe por força do disposto no art. 90 do CPC.
+5. Apelações improvidas.
+Opostos embargos de declaração, foram rejeitados (fls. 390/393e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 3º, I e II, da Lei n. 10.260/2001; 3º, I, da Lei n. 9.394/1996 e 5º, caput, 37, caput e 206, I, da Constituição da República.
+Alega que "não há qualquer ato praticado pelo FNDE que possa ser tido por violador à norma jurídica, gozando a postura adotada pelo ente federal da presunção de veracidade e legitimidade dos atos administrativos o que exige robusta prova em sentido contrário para ser infirmada" (fls. 400/410e).
+Sustenta que a Recorrida não comprovou "falha técnica no sistema do FIES, sendo ônus dela comprovar tal circunstância" (fls. 400/410e).
+Acrescenta que "expirado o prazo para a realização dos aditamentos do contrato, a justificar a impossibilidade de a estudante realiza-la no SisFIES, autora especialmente considerando a ausência de óbices operacionais capaz de ensejar excepcional e individual prorrogação de prazo por parte", ficando sujeito à suspensão.
+Aponta que "em razão do não aditamento referente ao período de 2016.2 , aplica-se ao caso a suspensão do prazo de utilização do financiamento, relativamente aos semestres indicados, nos termos do que dispõe o contrato firmado" (fls. 400/410e).
+Sem contrarrazões (fl. 424e), o recurso foi admitido (fl. 435e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Nas razões recursais, a parte recorrente sustenta que a matéria deveria ser analisada com a violação aos arts. 3º, I e II, da Lei n. 10.260/2001; 3º, I, da Lei n. 9.394/1996, sendo tal alegação inidônea a infirmar os fundamentos adotados pela Corte de origem, quais sejam, (a) que a satisfação da pretensão autoral na esfera administrativa, informada pelo próprio FNDE por meio de petição anexada aos autos, implica em reconhecimento do pedido e consequente extinção do processo com resolução do mérito, nos termos do art. 487, III, "a", do CPC; (b) que, ao satisfazer a pretensão deduzida somente após o ajuizamento da ação, e, portanto, tendo dado causa à instauração da demanda, o FNDE deve arcar com o pagamento das despesas e dos honorários advocatícios, sendo o se impõe por força do disposto no art. 90 do CPC, porquanto ausente comando suficiente nos dispositivos apontados para alterar a mencionada conclusão, razão pela qual o recurso não merece prosperar nesse ponto.
+Com efeito, incide, por analogia, a orientação contida na Súmula 284 do Supremo Tribunal Federal, segundo a qual: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUTORIZAÇÃO DE PESQUISA E LAVRA DE MINÉRIOS. PEDIDO PROTOCOLADO NO ÚLTIMO DIA DA LICENÇA ANTERIOR. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS CONSTANTES DOS AUTOS, SER DESARRAZOADO O INDEFERIMENTO DO REQUERIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ARTIGO 18, INCISO I, DO CÓDIGO DE MINERAÇÃO. DISPOSITIVO LEGAL QUE NÃO CONTEM COMANDO CAPAZ DE SUSTENTAR A TESE RECURSAL E INFIRMAR O JUÍZO FORMULADO PELO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+(..)
+2. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contem comando capaz de sustentar a tese recursal e infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, da orientação posta na Súmula 284/STF.
+3. Agravo regimental não provido.
+(AgRg no AREsp 385.170/GO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE. NÃO CONHECIMENTO DO ESPECIAL. SÚMULAS 282, 284, 356/STF E 7/STJ.
+(..)
+3. O fato de constar na Lei de Licitações a previsão de empreitada integral não infirma, de plano, os dizeres do acórdão no sentido de que não há empecilho à inclusão do fornecimento de imóvel. O conteúdo dos dispositivos mencionados no Especial não tem comando suficiente para alterar o acórdão. Incidência da Súmula 284/STF.
+4. Em relação ao índice de reajuste utilizado e à caracterização do ato ímprobo, o acórdão se amparou nas conclusões de laudo pericial e afastou o prejuízo ao Erário. Aplica-se a Súmula 7/STJ à espécie.
+Ressalto que o art. 11 da LIA nem sequer foi prequestionado, o que também sugere o óbice das Súmulas 282 e 356/STF.
+5. Agravo Regimental não provido.
+(AgRg no AREsp 229.402/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/03/2013, DJe 08/05/2013, destaque meu).
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar possível ofensa a norma constitucional, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+Dessa forma, a presente insurgência não pode ser conhecida no que tange à alegada violação aos arts. 5º, caput, 37, caput e 206, I, da Constituição da República.
+A respeito do tema, o precedente:
+PROCESSO CIVIL - EMBARGOS DE DECLARAÇÃO - EMBARGOS DE DIVERGÊNCIA - AUSÊNCIA DE VÍCIOS DO ART. 535 DO CPC - PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS - IMPOSSIBILIDADE.
+1. Não compete ao STJ intervir em matéria de competência do STF, tampouco para prequestionar questão constitucional, sob pena de violar a rígida distribuição de competência recursal disposta na Lei Maior.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.054.064/PA, Rel. Ministra ELIANA CALMON, CORTE ESPECIAL, julgado em 17/04/2013, DJe 02/05/2013).
+In casu, impossibilitada a majoração de honorários nos termos do art. 85, § 11, do Código de Processo Civil de 2015, porquanto não houve anterior fixação de verba honorária.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
