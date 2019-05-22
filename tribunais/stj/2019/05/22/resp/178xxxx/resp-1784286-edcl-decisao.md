@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos contra decisão que não conheceu do Recurso Especial (fls. 509-513, e-STJ).
+A embargante aduz:
+Dessa forma, sendo certo que o tema ora em debate possui entendimento divergente neste Tribunal Superior, inclusive nesta C. Segunda Turma, o Recurso Especial merece ser conhecido pelas alíneas "a" e "c" do permissivo constitucional, afastando-se a aplicação da mencionada súmula. (fl. 518, e-STJ)
+É o relatório.
+Decido
+Os autos foram recebidos neste Gabinete em 23.4.2019.
+Em se tratando de recurso de fundamentação vinculada, o conhecimento dos Aclaratórios pressupõe que a parte alegue a existência de pelo menos um dos vícios previstos no art. 1.022 do CPC/2015.
+ In casu, a embargante se insurge contra a decisão que não conheceu do seu Recurso Especial, sob a alegação de que inaplicável o óbice da Súmula 83 do STJ, porquanto a matéria em debate possui entendimento divergente no Superior Tribunal de Justiça.
+Em relação ao ponto abordado pela embargante, ficou consignado no acórdão embargado (fls. 511-512, e-STJ):
+Não configurada a violação do art. 46, § 4º, do CPC/2015 porquanto o Tribunal de origem decidiu em consonância com a jurisprudência do STJ de que, em Mandado de Segurança, a competência é absoluta e fixada em razão da qualificação da autoridade apontada como coatora e de sua sede funcional, sendo incabível a sua impetração contra autoridades com sedes funcionais diversas que não se encontram submetidas à jurisdição do mesmo foro federal.
+Por fim, não caracteriza a violação do art. 114 do CPC/2015. O entendimento das Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça firmou-se no sentido de que as atividades referentes à tributação, à fiscalização, à arrecadação, à cobrança e ao recolhimento das contribuições sociais vinculadas ao INSS (art. 2º da Lei 11.457/2007), bem como as contribuições destinadas a terceiros e fundos, tais como SESI, SENAI, SESC, SENAC, SEBRAE, INCRA, APEX, ABDI, consoante expressa previsão contida no art. 3º da referida norma, foram transferidas à Secretaria da Receita Federal do Brasil, órgão da União, cuja representação, após os prazos estipulados no seu art. 16, ficou a cargo exclusivo da Procuradoria-Geral da Fazenda Nacional para eventual questionamento quanto à exigibilidade das contribuições, ainda que em demandas que têm por objetivo a restituição de indébito tributário.
+(..)
+Assim, não há que se falar na exigência de formação de litisconsórcio passivo necessário entre a União e as entidades destinatárias das contribuições a terceiros, como decidido na instância ordinária. Incidência da Súmula 83 do STJ.
+Com efeito, com o advento da Lei 11.457/2007, as atividades referentes à tributação, à fiscalização, à arrecadação, à cobrança e ao recolhimento das contribuições sociais vinculadas ao INSS (art. 2º), bem como as contribuições destinadas a terceiros e fundos, tais como SESI, SENAI, SESC, SENAC, SEBRAE, INCRA, APEX, ABDI, consoante expressa previsão contida no art. 3º, foram transferidas à Secretaria da Receita Federal do Brasil, órgão da União, cuja representação, após os prazos estipulados no seu art. 16, ficou a cargo exclusivo da Procuradoria-Geral da Fazenda Nacional para eventual questionamento quanto à exigibilidade das contribuições, ainda que em demandas que têm por objetivo a restituição de indébito tributário.
+Ademais, revelam-se improcedentes os Embargos Declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 1.022 do CPC/2015).
+Diante do exposto, rejeito os Embargos de Declaração.
+É como voto.
