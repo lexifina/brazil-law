@@ -1,0 +1,27 @@
+Decisão
+    Trata-se de conflito negativo de competência entre o Juízo de Direito da 2ª Vara da Comarca de Serrana-SP e o Tribunal Superior do Trabalho (TST) suscitado em sede de ação trabalhista proposta por Eliana de Campos Queluz em face do Município de Serrana-SP, com objetivo de discutir a cobrança de indenização decorrente de relação de trabalho, tais como aviso-prévio, horas extras, adicional de insalubridade, entre outras.
+    A ação foi originalmente proposta junto à Vara Única do Trabalho de Cravinhos-SP, cuja magistrada declarou a incompetência da Justiça do Trabalho para apreciar a demanda. Essa decisão foi mantida pelo TST sob o fundamento de que a controvérsia sobre a validade ou eficácia de vínculo de natureza jurídico-administrativa deve ser apreciada pela justiça comum.
+    Após receber os autos, o Juízo de Direito da Comarca de Serrana-SP suscitou o presente conflito negativo de competência sob os seguintes fundamentos:
+    “Contudo, em que pese o entendimento dos nobres Ministros, entendo que a matéria versada nos presentes autos é de competência exclusiva da Justiça especializada, pelos motivos que passo a expor.
+    Conforme documentos que a este acompanha, a Sra. Maria foi aprovada em processo seletivo da Prefeitura local para ocupar o cargo de Agente Comunitário de Saúde, em cujo edital havia previsão expressa quanto à submissão dos aprovados às normas da CLT.
+    O art. 198, § 5º, da CF, na sua redação dada pela EC 63/10, transfere ao legislador federal ordinário a regulamentação da atividade do agente comunitário de saúde e do agente de combate à edemias. O art. 8º, da Lei 11.350/06, em atendimento à disposição constitucional, preceitua o respeito à legislação trabalhista quando ausentes normas editadas pelo ente público contratante em sentido contrário. E no caso não há.”
+    É o relatório. Decido.
+    Segundo dispõe o art. 102, I, o, da Constituição Federal, compete ao SUPREMO TRIBUNAL FEDERAL, precipuamente, a guarda da Constituição, cabendo-lhe:
+    “I - processar e julgar, originariamente:
+    (…)
+    o) os conflitos de competência entre o Superior Tribunal de Justiça e quaisquer tribunais, entre Tribunais Superiores, ou entre estes e qualquer outro tribunal.”
+    A presente hipótese faz surgir conflito passível de análise por esta CORTE, pois “compete a este Supremo Tribunal dirimir conflitos de competência instaurados entre juízes de primeiro grau e o Tribunal Superior do Trabalho” (CC 7.899/MG, Rel. Min. CÁRMEN LÚCIA, DJe de 12/2/2016).
+    Verifico, então, que tem razão a autoridade suscitante do presente conflito negativo de competência, na medida em que o entendimento emanado do Juízo da Comarca de Serrana-SP está em consonância com a orientação firmada pelo Plenário desta CORTE no julgamento do CC 7.950/RN, no sentido de que compete à Justiça do Trabalho o julgamento de ações que envolvam prestações de natureza trabalhista. Eis a ementa desse julgado:
+    “COMPETÊNCIA – CONFLITO. Envolvendo o conflito de competência o Tribunal Superior do Trabalho e Tribunal de Justiça, incumbe ao Supremo apreciá-lo.
+    CONFLITO DE COMPETÊNCIA – JUSTIÇA COMUM VERSUS JUSTIÇA DO TRABALHO. A definição da competência decorre da ação ajuizada. Tendo como causa de pedir relação jurídica regida pela Consolidação das Leis do Trabalho e pleito de reconhecimento do direito a verbas nela previstas, cabe à Justiça do Trabalho julgá-la.” (CC 7.950/RN, Rel. Min. MARCO AURÉLIO, Pleno, DJe de 1º/8/2017).
+    No mesmo sentido, menciono as seguintes decisões monocráticas envolvendo casos semelhantes: CC 7.999/PI, Rel. Min. EDSON FACHIN, DJe de 14/11/2017; CC 8.000/PI, Rel. Min. LUIZ FUX, DJe de 6/11/2017; CC 8.001/PI, Rel. Min. ROSA WEBER, DJe de 5/12/2017, e, de minha relatoria, CC 8.057 (DJe de 1º/2/2019) e CC 8.002 (DJe de 20/2/2018).
+    A discussão subjacente ao presente Conflito de Competência envolve demanda ajuizada por agente comunitário de saúde, oriunda de vínculo jurídico formado com base na Lei Federal 11.350/2006, que regulamenta o art. 198, §§ 4º e 5º, da Constituição Federal. Tal lei, em seu artigo 8º, dispõe que os agentes comunitários de saúde serão regidos pela Consolidação das Leis do Trabalho, salvo se lei local dispuser de forma diversa.
+    Assim, não havendo notícia da existência de lei local disciplinando a relação entre o Município de Serrana-SP e a categoria de agente comunitário de saúde,  prevalece o  regime celetista, conforme previsto na  lei acima mencionada, motivo pelo qual o caso atrai a  competência  da justiça  especializada. Nesse sentido, cito decisões de minha relatoria proferidas na Rcl 29.983 (DJe de 11/4/2018) e na Rcl 21.215 (DJe de 9/5/2018).
+     Diante do exposto, com base no art. 955, parágrafo único, inciso I, do Código de Processo Civil, conheço do presente conflito, reconhecendo a competência da Justiça do Trabalho para processar e julgar a causa, determinando, por conseguinte, a remessa dos presentes autos ao Tribunal Superior do Trabalho.
+    Comunique-se, com urgência, transmitindo-se cópia desta decisão ao Tribunal Superior do Trabalho e ao Juízo de Direito da Comarca de Serrana-SP.
+    Nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 22 de maio de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
