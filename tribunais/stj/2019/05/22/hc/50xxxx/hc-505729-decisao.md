@@ -1,0 +1,29 @@
+DECISÃO
+CREMILSO ESTEVO DA SILVA - preso em flagrante por suposta prática do delito do art. 33 da Lei n. 11.343/2006 - alega sofrer constrangimento ilegal diante do acórdão do Tribunal de Justiça do Estado de São Paulo no HC n. 2059156-21.2019.8.26.0000.
+A defesa alega: "a quantidade de drogas que policiais disseram ter sido apreendida com o indiciado não é tão grande a ponto de impor obstáculo à concessão da liberdade provisória ou outra medida cautelar diferenciada da prisão" (fl. 4).
+Requer a concessão da liberdade ao paciente ou a substituição do cárcere por medidas cautelares diversas.
+Deferida a medida liminar às fls. 102-104 e prestadas as informações (fls. 109-114 e 121-129), o Ministério Público Federal, em parecer do Subprocurador-Geral da República [NOME], às fls. 115-119, opinou pela "concessão da ordem, de ofício, para determinar o relaxamento da prisão cautelar do paciente, sob a imposição de medidas cautelares diversas".
+Decido.
+I. Contextualização
+O réu foi preso em flagrante por suposta prática do delito do art. 33 da Lei n. 11.343/2006. A custódia foi convolada em preventiva pelo Magistrado de primeira instância com base nos seguintes fundamentos (fls. 50-51, grifos no original):
+ ..
+A segregação cautelar se faz necessária.
+Como visto, o autuado já era conhecido dos meios policiais e havia delações específicas de que ele praticava o tráfico na residência.
+Após as buscas realizadas pela polícia, com auxílio de cão farejador, localizaram 57 porções de maconha e porção de cocaína.
+Não bastasse isso, também foram localizados petrechos demonstrando que o local também servia para preparação e embalo de entorpecentes (microtubos vazios, pratos e peneiras com resquícios de cocaína, fitas e plásticos para embalo da droga).
+Diante de tudo isso, temos que a conduta do autuado não é isolada e que fazia do tráfico sua atividade habitual.
+Ademais, diferentemente do que alegou a Defesa, depreende-se da fl. 27 que o autuado é reincidente.
+Portanto, a prisão é a única forma de garantir a ordem pública (art. 312, CPP), evitando-se o cometimento de novos delitos.
+Demais disso, a liberdade provisória é incompatível com a gravidade natural do crime de tráfico.
+Irresignada, a defesa impetrou prévio habeas corpus perante o Tribunal local, que denegou a ordem.
+II. Preventiva
+A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+A seu turno, a custódia preventiva somente se sustenta quando, presentes os requisitos constantes do art. 312 do CPP, se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão.
+Embora o decisum proferido em audiência de custódia haja destacado: "o autuado já era conhecido dos meios policiais  ..  a quantidade de droga apreendida: 56,2 g de maconha e 3.30 g de cocaína  e que fazia do tráfico sua atividade habitual  e que é  reincidente" (fls. 50-51), entendo que não se mostram tais razões bastantes, em juízo de proporcionalidade, para embasar a cautela pessoal mais extremada. A uma, porque a quantidade de drogas encontradas não é elevada a ponto de, por si só, demonstrar acentuada reprovabilidade na conduta; a duas, porque a reincidência invocada diz respeito ao crime positivado no art. 28 da Lei de Drogas, o que, a par de sugerir adição às drogas, não denota maior periculosidade a justificar o emprego da cautela máxima.
+Apesar da reprovabilidade social do comportamento atribuído ao investigado - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sanção penal -, reconheço ser suficiente e adequada, no caso, a substituição da prisão preventiva por outras medidas cautelares a ela alternativas.
+É plenamente possível que, embora presentes os motivos ou os requisitos que tornariam cabível a prisão preventiva, o juiz - à luz do princípio da proporcionalidade e das novas alternativas fornecidas pela Lei n. 12.403/2011 - considere a opção por uma ou mais das medidas indicadas no art. 319 do Código de Processo Penal, o meio suficiente e adequado para obter o mesmo resultado - a proteção do bem jurídico sob ameaça - de forma menos gravosa.
+Tal opção judicial produzirá efeito cautelar semelhante, qual seja: evitar a prática de novos crimes, de maneira a proteger a ordem pública - sem a necessidade de suprimir, de modo absoluto, a liberdade de locomoção do acusado. Notadamente porque o delito a ele atribuído não envolveu violência ou grave ameaça contra pessoa.
+III. Dispositivo
+À vista do exposto, concedo a ordem, confirmada a liminar, para substituir a prisão preventiva do paciente pelas seguintes medidas cautelares, com fulcro no art. 319, I, IV e V, do CPP: a) comparecimento periódico em juízo, sempre que for intimado para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço e justificar suas atividades; b) proibição de ausentar-se da Comarca, quando a permanência seja conveniente ou necessária para a investigação ou instrução; c) recolhimento domiciliar noturno (das 20h de um dia às 6h do dia seguinte), sem prejuízo de imposição de outras medidas que o prudente arbítrio do Juiz natural da causa entender cabíveis e adequadas.
+Alerte-se ao agente que a violação das medidas cautelares importará o restabelecimento da prisão preventiva, que poderá ser novamente aplicada se sobrevier situação que configure a exigência da cautelar mais gravosa.
+Publique-se e intimem-se.
