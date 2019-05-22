@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. EMPRÉSTIMO. CONTRATAÇÃO COMPROVADA. REVISÃO DO JULGADO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+[NOME] ajuizou ação de conhecimento em desfavor de Banco Cetelem S.A., postulando a declaração de inexigibilidade de débito c/c repetição de indébito e a condenação do requerido ao pagamento de indenização por danos morais, ao argumento de que a instituição financeira efetuou descontos indevidos em seu benefício previdenciário em decorrência de contrato de empréstimo que não celebrou nem recebeu o montante da suposta contratação.
+O Magistrado de primeiro grau julgou parcialmente procedentes os pedidos para declarar inexistente a dívida, determinar a devolução, de forma simples, dos descontos efetuados no benefício previdenciário da autora e condenar o réu ao pagamento de indenização no valor de R$ 500,00 (quinhentos reais) a título de danos morais.
+Interposta apelação por ambas as partes, a Quarta Câmara Cível do Tribunal de Justiça do Estado do Mato Grosso do Sul deu provimento ao recurso da casa bancária para julgar improcedentes os pedidos da exordial e julgou prejudicada a apelação da autora, nos termos do acórdão assim ementado (e-STJ, fl. 602):
+Recurso de Banco Cetelem S/A: APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - CONTRATAÇÃO VÁLIDA DEMONSTRADA PELA INSTITUIÇÃO FINANCEIRA - DEMONSTRAÇÃO DE DISPONIBILIDADE DOS RECURSOS EM CONTA DE TITULARIDADE DO CONSUMIDOR - RECURSO CONHECIDO E PROVIDO.
+Demonstrada a contratação válida e que a autora desfrutou do valor objeto do empréstimo, descontados em benefício previdenciário de aposentado, a improcedência dos pedidos iniciais é medida que se impõe.
+Recurso de Izabel Alves de [NOME]: APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - CONTRATAÇÃO VÁLIDA DEMONSTRADA PELA INSTITUIÇÃO FINANCEIRA - DEMONSTRAÇÃO DE DISPONIBILIDADE DOS RECURSOS EM CONTA DE TITULARIDADE DO CONSUMIDOR - RECURSO PREJUDICADO.
+Demonstrada a contratação válida e que a autora desfrutou do valor objeto do empréstimo, descontados em benefício previdenciário de aposentado, resta prejudicado o recurso da autora.
+Irresignada, a demandante interpôs recurso especial, fundamentado na alínea a do permissivo constitucional, apontando violação aos arts. 6º da Lei n. 10.820/2003; 373, II, 489, II, § 1º e seus incisos IV e VI, e 1.022, II, do CPC/2015; e 14, § 3º, do CDC.
+Sustentou, em síntese, a ocorrência de negativa de prestação jurisdicional e que a parte recorrida não comprovou a regularidade da contratação do empréstimo, assim como não demonstrou o recebimento dos valores pela ora recorrente.
+Contrarrazões às fls. 681-686 (e-STJ).
+O Tribunal de origem inadmitiu o processamento do recurso especial, o que levou a insurgente à interposição do presente agravo.
+Contraminuta às fls. 726-733 (e-STJ).
+Brevemente relatado, decido.
+Quanto à negativa de prestação jurisdicional, constata-se que não ficou caracterizada, pois a insurgente não especificou como o acórdão de origem teria se negado a enfrentar questões por ela aduzidas, tampouco discorreu sobre as matérias que entende por omissas.
+Note-se que, nas razões do recurso especial, a recorrente se limitou a asseverar que o Tribunal de origem deixou de se manifestar sobre os pontos trazidos nos embargos de declaração, sem, contudo, expor e demonstrar quais seriam tais questões.
+Desse modo, este Tribunal Superior tem orientação firmada no sentido de ser "imperiosa a demonstração de maneira clara e expressa das questões sobre as quais o Tribunal de origem teria se mantido silente, sob pena de inadmissibilidade do apelo nobre por afronta ao art. 535, inc. II, do CPC, a teor do que dispõe a Súmula 284/STF" (AgRg no AREsp n. 488.270/RS, Relator o Ministro Og Fernandes, DJe 1º/9/2014).
+No que diz respeito à existência e à validade do negócio jurídico firmado entre os litigantes, o Tribunal estadual, soberano na análise do acervo fático-probatório dos autos, concluiu que o banco recorrido logrou demonstrar que houve a contratação do empréstimo, assim como a disponibilização do crédito em favor da autora (fls. 609-610, e-STJ - grifo no original):
+Na hipótese, o banco comprovou a contratação e a disponibilização de empréstimo em favor da autora.
+Com efeito, trouxe aos autos cópia do contrato de empréstimo (f. 370/373), assinado pela requerente e instruído com cópias dos documentos pessoais (f. 375/379), bem como comprovou por meio de "documento de crédito TED" (f. 365) a "liberação de operação de crédito", na [CONTA], agência 681, banco 237, em 1/6/2015, no valor de R$ 1.774,77.
+(..)
+Assim, demonstrada a contratação do empréstimo, bem como a disponibilização do valor em conta de titularidade da autora, comporta reforma sentença que parcialmente procedente os pedidos iniciais.
+Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, o que não se admite em âmbito de recurso especial, dado o óbice da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos patronos da parte recorrida em 1% (um por cento) sobre valor atualizado da causa, observada a gratuidade de justiça deferida à recorrente.
+Publique-se.
