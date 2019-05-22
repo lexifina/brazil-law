@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Embargos de Divergência interpostos contra acórdão da Primeira Turma do STJ assim ementado:
+DIREITO ADMINISTRATIVO. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. SERVIDORES DA FUNDAÇÃO NACIONAL DE SAÚDE. INDENIZAÇÃO DE CAMPO. LEIS N. 8.216/91 E N. 8.270/91. REAJUSTE ATRELADO AO VALOR DA DIÁRIA. ALTERAÇÃO PROMOVIDA PELO DECRETO N. 5.554/2005. MAJORAÇÃO POR MEIO DE ADICIONAL GENÉRICO. REPERCUSSÃO NO CALCULO DA INDENIZAÇÃO DE CAMPO. RECURSO DESPROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - Cuida-se, na espécie, de ação ordinária proposta por servidores da Fundação Nacional de Saúde - FUNASA, buscando o reajuste do valor da indenização de campo, prevista na Lei n. 8.216/91, de modo que passe a representar o percentual de 46,87% do valor da diária.
+III - Ao estender o adicional de 50% aos deslocamentos para todas as cidades com menos de 200.000 habitantes, excluindo a restrição anteriormente prevista no Decreto n. 3643/2000, o Decreto n. 5.554/05, ainda que indiretamente, majorou o valor das diárias, não observando, contudo, a equivalência de 46,87% entre elas e a indenização de campo, conforme previsto no art. 15 da Lei n. 8.270/91.
+IV - Com a ampliação no pagamento do adicional de 50% aos "demais deslocamentos", a norma regulamentadora não cuidou apenas de adequar o valor da diária à realidade econômica da localidade visitada, tendo, sobretudo, elevado o valor da verba, por meio de adicional totalmente genérico, porquanto pago indistintamente a todos os deslocamentos que não restaram contemplados com percentuais maiores.
+V - Recurso especial improvido.
+A embargante aponta divergência com arestos da Segunda Turma, pretendendo a prevalência da tese exposta no acórdão da referida Segunda Turma, no sentido de que a fixação de percentual variável, de adicional ao pagamento de diária, para adequação à realidade econômica da localidade visitada, não tem a faculdade de reajustar a indenização de campo.
+Aponta divergência do aresto acima mencionado com o entendimento da Segunda Turma (REsp 1.475.168, Rel. Ministro Mauro Campbell, DJe 8/10/2014). Transcrevo a ementa do acórdão paradigma:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. SERVIDORES DA FUNASA. INDENIZAÇÃO DE CAMPO. REAJUSTAMENTO DE 46,87%. ART. 15 DA LEI 8.270/1991. REAJUSTE DAS DIÁRIAS PELO DECRETO 5.554/2005. NATUREZA DISTINTA. INEXISTÊNCIA DE AUMENTO LINEAR. PRECEDENTES DA SEGUNDA TURMA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Segunda Turma do STJ no julgamento do AgRg no REsp 1.283.707/PB, da relatoria do Min. Humberto Martins, decidiu que "a fixação de percentual variável, de adicional ao pagamento de diária, para adequação à realidade econômica da localidade visitada não tem a faculdade de reajustar a referida indenização e, por conseguinte, não viola o art. 15 da Lei n. 8.270/91. Aliás, a controvérsia fica claramente diferenciada quando se visualiza que a Terceira Seção já demarcou a natureza jurídica distinta entre "diária" e "adicional de localidade". Precedente: AgRg na Pet 7.148/GO, Rel. Min. Arnaldo Esteves Lima, Terceira Seção, DJe 2.9.2009" (julgado em 18/12/2012, DJe 08/02/2013).
+2. No mesmo sentido: AgRg no AREsp 498017/PB, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/06/2014, DJe 17/06/2014; REsp 1.264.429/PB, Rel. Ministra Eliana Calmon, Rel. p/ Acórdão Ministro Humberto Martins, Segunda Turma, julgado em 05/11/2013, DJe 20/02/2014.
+3. Incidência da Súmula 83/STJ.
+4. Agravo regimental não provido.
+É o relatório.
+Decido.
+Considero, neste juízo preliminar, presentes os requisitos para conhecimento do recurso, sem prejuízo da possibilidade de conclusão em sentido contrário posteriormente na cognição definitiva. Assim, admito os Embargos de Divergência, nos termos do art. 267 do RI/STJ.
+Vista à parte embargada para, querendo, impugnar o recurso. Após, vista ao Ministério Público Federal.
+Publique-se.
+Intimem-se.
