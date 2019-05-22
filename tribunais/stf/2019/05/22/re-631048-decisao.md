@@ -1,0 +1,12 @@
+Vistos etc.
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho que negou provimento a agravo de instrumento manejado de decisão pela qual negado seguimento a recurso de revista. A eminente Ministra Ellen Gracie, por decisão monocrática, negou seguimento ao recurso extraordinário, forte na ausência de negativa de prestação jurisdicional, na inviabilidade de análise da legislação infraconstitucional, em sede extraordinária, e na inexistência de ofensa direta à Constituição Federal.
+    A Primeira Turma desta Suprema Corte, ao julgamento de agravo regimental, afastou o óbice à admissibilidade do recurso extraordinário levantado na decisão monocrática, a fim de permitir novo exame das razões recursais, à constatação de que a matéria nele versada não se restringe ao cabimento de recurso da competência de outro Tribunal, mas antes diz com o escopo da legitimação processual do sindicato, à luz do art. 8º, III, da Constituição da República.
+    Consoante decidido pela Turma, passo novo exame das razões do apelo extremo.
+    Verifico que a matéria relativa à legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses, coletivos ou individuais, dos integrantes da categoria que representam, restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 883.642-RG, verbis:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ART. 8º, III, DA LEI MAIOR. SINDICATO. LEGITIMIDADE. SUBSTITUTO PROCESSUAL. EXECUÇÃO DE SENTENÇA. DESNECESSIDADE DE AUTORIZAÇÃO. EXISTÊNCIA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA. I – Repercussão geral reconhecida e reafirmada a jurisprudência do Supremo Tribunal Federal no sentido da ampla legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos”. (RE 883642 RG, Relator(a): Min. Ministro Presidente, REPERCUSSÃO GERAL - MÉRITO DJe 26.6.2015)
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos nos arts. 1.036 a 1.040 do CPC/2015.
+    Devolvam-se os autos à Corte de origem.
+    Publique-se.
+    Brasília, 22 de maio de 2019.
+Ministra Rosa Weber
+Relatora
