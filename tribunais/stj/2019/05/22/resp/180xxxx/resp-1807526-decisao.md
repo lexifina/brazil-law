@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por COMPANHIA IMOBILIÁRIA DE BRASÍLIA TERRACAP, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"COBRANÇA. PREÇO PÚBLICO. TERRACAP. CONCESSÃO DE DIREITO REAL DE USO. DÍVIDA LÍQUIDA AJUSTADA EM INSTRUMENTO PÚBLICO. PRESCRIÇÃO QÜINQÜENAL PREVISTA NO CÓDIGO CIVIL.
+Prescreve em cinco anos - Cód. Civil 206, § 5º, I - a pretensão condenatória ao pagamento de preço público devido pela concessão de direito real de uso, ajustado pelas partes em instrumento público que encerra dívida líquida. Prescrição consumada" (fl. 341e).
+Alega-se, nas razões do Recurso Especial, ofensa ao artigo 205 do Código Civil, sob a tese de que a natureza da contraprestação firmada entre as partes é de preço público, razão pela qual a prescrição é decenal.
+Requer, ao final, o provimento do Recurso Especial, de modo a se reformar o acórdão recorrido, afastando-se a prescrição reconhecida, equivocadamente.
+Sem contrarrazões (fl. 373e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 378/379e).
+Com razão a parte recorrente.
+Na origem, trata-se de Ação de Cobrança ajuizada pela parte ora recorrente, com o objetivo de compelir as partes rés ao pagamento de 38 parcelas de taxa mensal de concessão em razão do contrato de concessão de direito real de uso de imóvel.
+Julgada procedente a demanda, recorreram os réus, tendo sido provido o recurso para declarar prescrita a pretensão autoral.
+Daí a interposição do presente Recurso Especial.
+Acerca do prazo prescricional, manifestou-se o Tribunal de origem:
+"Senhor Presidente, entendo que a tese que foi firmada nesse repetitivo, sobretudo, foi de que não se aplicaria ao contrato de concessão de direito real de uso aquele Decreto 20.910/32 e que se aplicaria, sim, o Código Civil. E, com o devido respeito, dever-se-ia ficar aí. Todavia, resolveu-se indicar o dispositivo do Código Civil sem atentar, data vênia, que, no mesmo dispositivo, em um dos seus parágrafos, há previsão expressa do prazo de cinco anos no caso de contrato que firme obrigação líquida, com data certa para pagamento, e voltaríamos para o prazo de cinco anos, mas com outra fundamentação legal. Essa é a jurisprudência que está se firmando ou que já está firmada, não sei se de um modo geral, no Tribunal, mas já há muitos precedentes nossos. Nesta 4 a Turma Cível, se não me falha a memória, é tranqüilo, de que são cinco anos não com base no Decreto 20.910/32, mas, sim, com base no Código Civil.
+No caso, a última prestação vencida data do ano de 2007, não obstante a demanda foi proposta somente em 2013, quando já superado o qüinqüênio prescricional" (fl. 351e).
+Contudo, tal entendimento merece reforma. Isso porque a jurisprudência desta Corte se firmou no sentido de que, em se tratando de ação de cobrança de taxa de ocupação de uso em razão de ter sido celebrado contrato de direito real de uso com a Administração Pública, o prazo prescricional é de dez anos, nos termos do artigo 205 do Código Civil, tendo em vista que se trata de preço público.
+Nesse sentido:
+"ADMINISTRATIVO. COBRANÇA. TERRACAP. CONTRATO DE CONCESSÃO DE DIREITO REAL DE USO. CONTRAPRESTAÇÃO. NATUREZA JURÍDICA DE PREÇO PÚBLICO. PRESCRIÇÃO. ART. 205 DO CÓDIGO CIVIL DE 2002.
+1. A jurisprudência do STJ firmou o entendimento de que a contraprestação de direito real de uso é preço público; portanto, o prazo prescricional é de dez anos, conforme prevê o art. 205 do Código Civil.
+2. "A contraprestação pela concessão do direito real de uso detém natureza jurídica de preço público; assim, a prescrição é regida pelas normas de Direito Civil, ou seja, prazo de 20 anos, nos termos do CC/1916, ou de 10 anos, consoante o CC/2002, observando-se a regra de transição prevista no art. 2.028 do CC/2002" (AgRg no REsp 1.426.927/DF, Rel. Ministro Humberto Martins, Segunda Turma, DJe 15/8/2014).
+3. Recurso especial a que se nega provimento" (STJ, REsp 1.695.671/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/10/2017).
+"ADMINISTRATIVO. DIREITO CIVIL. RECURSO ESPECIAL. CONTRATO DE CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO. COBRANÇA DE PARCELAS INADIMPLIDAS. NATUREZA JURÍDICA DA CONTRAPRESTAÇÃO. PREÇO PÚBLICO. PRAZO PRESCRICIONAL. DEZ ANOS. PRECEDENTES.
+1. De acordo com a jurisprudência do STJ, nas demandas que visam à cobrança de remuneração pactuada em contrato de concessão de direito real de uso sobre imóvel público, o prazo prescricional da pretensão é decenal, nos termos do art. 205 do Código Civil, por se tratar de valores cuja natureza jurídica é a de preço público. Precedentes: AgRg no REsp 1.429.724/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 19/11/2015 e AgRg no REsp 1.428.576/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe 19/11/2015.
+2. Recurso especial a que se dá provimento" (STJ, REsp 1.601.386/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 17/03/2017).
+"ADMINISTRATIVO. COBRANÇA. TERRACAP. CONTRATO DE CONCESSÃO DE DIREITO REAL DE USO. CONTRAPRESTAÇÃO. NATUREZA JURÍDICA DE PREÇO PÚBLICO. PRESCRIÇÃO. ART. 205 DO CÓDIGO CIVIL DE 2002.
+1. A jurisprudência desta Corte é no sentido de que, em se tratando de ação de cobrança de taxa de ocupação em virtude de celebração de contrato de direito real de uso com a Administração Pública, o prazo prescricional é o previsto no art. 205 do Código Civil, isto é, de dez anos, uma vez que se trata de preço público. Precedentes: AgRg no REsp 1426927/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 07/08/2014, DJe 15/08/2014; AgRg no REsp 1207622/DF, Rel.
+Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/02/2011, DJe 16/03/2011.
+2. Agravo regimental não provido" (STJ, AgRg no REsp 1.429.724/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 19/11/2015).
+Assim, tendo em vista que a demanda foi ajuizada em 08/04/2013, objetivando a cobrança de prestações inadimplidas entre fevereiro de 2004 e julho de 2007 (fl. 351e), afasta-se a prescrição da pretensão autoral por todo o período pleiteado.
+Destarte, aplica-se, ao caso, entendimento consolidado na Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial para restabelecer a sentença (fls. 301/307e).
+I.
