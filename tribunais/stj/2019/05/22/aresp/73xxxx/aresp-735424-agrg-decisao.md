@@ -1,0 +1,39 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO MONOCRÁTICA AGRAVADA. DECISÃO QUE NEGA SEGUIMENTO AO APELO NOBRE COM FUNDAMENTO NO ART. 543, § 7o., I DO CPC/1973. NÃO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL. ENTENDIMENTO FIRMADO PELA CORTE ESPECIAL. QO NO AG 1.154.599/SP, CE, REL. MIN. CESAR ASFOR ROCHA, DJE 12.05.2011. PRINCÍPIO DA FUNGIBILIDADE. AGRAVO REGIMENTAL DO CONDOMÍNIO PROVIDO, PARA DETERMINAR A REMESSA DOS AUTOS AO TRIBUNAL DE ORIGEM, A FIM DE QUE EXAMINE O AGRAVO EM RECURSO ESPECIAL COMO AGRAVO REGIMENTAL.
+1. Trata-se de Agravo Regimental no Agravo em Recurso Especial interposto pelo CONDOMÍNIO EDIFÍCIO TAQUARUÇU contra decisão monocrática que não conheceu do seu Agravo, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO DECISUM AGRAVADO. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO (1.251/1.252).
+2. Nas razões de seu Agravo Regimental, a parte agravante aduz, em suma, que teria impugnado adequadamente os fundamentos da decisão que inadmitiu o Apelo Nobre na origem, inclusive quanto à incidência da Súmula 7/STJ e à demonstração do dissídio jurisprudencial.
+3. Pugna, desse modo, pela reconsideração da decisão agravada, ou para que o feito seja levado ao Órgão Colegiado, a fim de dar provimento ao seu Agravo Interno.
+4. A parte agravada apresentou sua impugnação (fls. 1.264/1.271).
+5. É o relatório.
+6. Em face das razões de fls. 1.255/1.258, reconsidera-se a decisão monocrática de fls. 1.251/1.252 e passa-se a nova análise do Agravo em Recurso Especial.
+7. Inicialmente, nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+8. No mais, percebe-se que a decisão de inadmissibilidade do Recurso Especial na origem se baseou na aplicação da tese firmada no julgamento do REsp. 1.339.313/RJ, Rel. Min. BENEDITO GONÇALVES, DJe 21.10.2013, Tema 565, sob o regime previsto no art. 543-C, § 7o., I do CPC/1973 (fls. 1.118).
+9. Esta Corte Superior pacificou o entendimento, no julgamento da Questão de Ordem no Ag 1.154.599/SP, de que não cabe Agravo em Recurso Especial contra decisão que nega seguimento ao Apelo Nobre com base no art. 543-C, § 7o., I do CPC/1973. Eis a ementa do acórdão paradigma:
+QUESTÃO DE ORDEM. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CABIMENTO. EXEGESE DOS ARTS. 543 E 544 DO CPC.AGRAVO NÃO CONHECIDO.
+1. Não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543, parág. 7o., inciso I do CPC.
+2. Agravo não conhecido (QO no Ag 1.154.599/SP, CE, Rel. Min. CESAR ASFOR ROCHA, DJe 12.5.2011).
+10. No caso de eventual erro do Tribunal a quo no juízo de admissibilidade do Apelo Raro, cabe Agravo Regimental perante o próprio órgão de origem.
+11. Contudo, em aplicação do princípio da fungibilidade, a Primeira Turma desta Corte adota o entendimento de que, em caso de negativa de seguimento do Recurso Especial com fundamento no art. 543-C, § 7o., I do CPC/1973, os autos deverão ser remetidos à Corte de origem para que receba o Agravo em Recurso Especial como Agravo Regimental, dando-lhe o destino cabível. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA EXARADA COM BASE NO ART. 543-C, § 7o., I DO CPC. AGRAVO DO ART. 544 DO CPC. NÃO CABIMENTO. MATÉRIA PACIFICADA PELA CORTE ESPECIAL (QO NO AG 1.154.599/SP).
+1. Na espécie, o Tribunal a quo inadmitiu o recurso especial, tendo em vista o julgamento pelo STJ do REsp. 1.114.938/AL, submetido ao rito do art. 543-C do CPC.
+2. A Corte Especial do Superior Tribunal de Justiça, quando do julgamento da Questão de Ordem no agravo de instrumento 1.154.599/SP, de relatoria do Min. César Asfor Rocha, consolidou entendimento de que não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543, § 7o., inciso I do CPC. Precedentes: (..).
+3. Independente da data em que foi protocolizado, a interposição do agravo em recurso especial não constitui erro grosseiro, estando autorizada sua conversão em agravo regimental. Precedente: AgRg no AREsp. 400.546/PR, Rel. Min. ARI PARGENDLER, Primeira Turma, DJe 4.12.2013.
+4. Agravo regimental não provido (AgRg no AREsp. 275.545/CE, Rel. Min. BENEDITO GONÇALVES, DJe 16.9.2014).
+
+PROCESSO CIVIL. RECURSO ESPECIAL. ART. 543, § 7o. DO CÓDIGO DE PROCESSO CIVIL.
+A Corte Especial do Superior Tribunal de Justiça decidiu que não cabe o agravo de que trata o art. 544 do Código de Processo Civil contra decisão que, com base no art. 543-C, § 7o., inciso I do aludido diploma legal, nega seguimento a recurso especial (QO no Ag 1.154.599, SP, DJe, 12.5.2011).
+A interposição do aludido recurso, independentemente da data em que protocolizado, não constitui erro grosseiro, autorizada sua conversão em agravo regimental conforme decidido pela Primeira Turma na sessão de 6 de agosto de 2013, ao julgar o AREsp. 63.256, BA. Agravo regimental desprovido (AgRg no AREsp. 400.546/PR, Rel. Min. ARI PARGENDLER, DJe 4.12.2013).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO BASEADO EM RECURSO REPETITIVO. DESPACHO DENEGATÓRIO DO RECURSO ESPECIAL. ART. 543-C, § 7o., I DO CPC. AGRAVO. NÃO CABIMENTO. QUESTÃO DE ORDEM 1.154.599/SP. DEVOLUÇÃO DOS AUTOS À ORIGEM COMO AGRAVO INTERNO.
+1. Ao apreciar a Questão de Ordem no Ag 1.154.599/SP, Rel. Min. CESAR ASFOR ROCHA, DJe 12.5.2011, a Corte Especial deste Tribunal assentou que não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543, § 7o., inciso I do CPC. Precedentes:(..).
+2. Ademais, a compreensão firmada por este STJ é a de que a única impugnação cabível contra esse despacho denegatório seria o agravo interno na origem, razão pela qual se tem determinado a remessa dos autos aos Tribunais a quo para a apreciação do recurso. A propósito: (..).
+3. Agravo regimental a que se nega provimento (AgRg no AREsp. 296.524/CE, Rel. Min. SÉRGIO KUKINA, DJe 16.8.2013).
+
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. APLICAÇÃO DO ART. 543-C, § 7o., I DO CPC, PELO TRIBUNAL A QUO. RECURSO CABÍVEL. AGRAVO REGIMENTAL. PRECEDENTE DA CORTE ESPECIAL. PRINCÍPIOS DA EFETIVIDADE, CELERIDADE E DA FUNGIBILIDADE RECURSAL. APLICAÇÃO. AGRAVO REGIMENTAL NÃO CONHECIDO. RETORNO DOS AUTOS À ORIGEM PARA JULGAMENTO DO AGRAVO EM RECURSO ESPECIAL COMO AGRAVO REGIMENTAL.
+1. É incabível agravo interposto contra decisão que nega seguimento ao recurso especial com espeque no artigo 543-C, § 7o., I do CPC (Questão de Ordem no Ag 1.154.599-SP) (AgRg no AREsp 227.654/RS, Rel. Min. BENEDITO GONÇALVES, Primeira Turma, DJe 14.5.13).
+2. Tendo em vista os princípios da efetividade, celeridade e fungibilidade recursal, o agravo em recurso especial deve retornar ao Tribunal de origem a fim de que seja julgado como agravo regimental contra a decisão de inadmissibilidade do recurso especial.
+3. Agravo regimental não conhecido. Retorno dos autos ao Tribunal de origem para que este julgue o agravo em recurso especial como agravo regimental da maneira que entender de direito (AgRg no AREsp. 80.081/BA, Rel. Min. ARNALDO ESTEVES LIMA, DJe 28.5.2014).
+12. Ante o exposto, dá-se provimento ao Agravo Regimental do Condomínio para, em juízo de reconsideração da decisão agravada, determinar a remessa dos autos ao Tribunal de origem, para que aprecie o Agravo em Recurso Especial como Agravo Regimental, conforme entender de direito.
+13. Publique-se.
+14. Intimações necessárias.
