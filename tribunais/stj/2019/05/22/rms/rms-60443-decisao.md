@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de Recurso em Mandado de Segurança, interposto por [NOME], contra acórdão do Tribunal do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. OFICIAL ESCREVENTE DO QUADRO DE PESSOAL DOS SERVIÇOS AUXILIARES DA JUSTIÇA DO 1º GRAU. PEDIDO DE REMOÇÃO PARA ACOMPANHAMENTO DE CÔNJUGE. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. O direito líquido e certo é aquele que se mostra inequívoco, sem necessidade de dilação probatória, exigindo-se para sua configuração a comprovação dos pressupostos fáticos adequados à regra jurídica.
+2. A impetrante teve indeferido o pedido administrativo de remoção da comarca de Sobradinho para a comarca de Santa Maria, a fim de acompanhamento do cônjuge servidor militar.
+3. O ato coator (acordão do COMAG) manteve o indeferimento do pedido com base no lapso temporal exigido por lei, bem como sob o fundamento de que a remoção "..fará com que o número de processos ativos por servidor aumente em Sobradinho e diminua em Santa Maria, quando esta Comarca já possui índices mais favoráveis", isto é, também por questão de interesse público.
+4. Como já foi dito em diversos julgados desta Corte, a jurisprudência do Supremo Tribunal Federal orienta-se no sentido de assegurar a proteção da entidade familiar, o que não impede, que na análise de cada caso concreto, seja afastado o direito à remoção pleiteada pelo servidor em virtude da situação não se alinhar ao respectivo entendimento jurisprudencial.
+5. Na situação dos autos, a ruptura familiar não se deu em virtude de ato de ofício da Administração Pública, pois a teor dos autos a impetrante tomou posse no cargo em 31.01.2018 e efetuou requerimento administrativo de remoção para acompanhamento do cônjuge, o qual já integrava a Brigada Militar.
+6. Aplicação da Lei nº 9.426/1991, que deu nova redação à letra "b" do § 4º do art. 13 da Lei nº 7.305/79, dispondo que: "b) Será defeso conceder remoção ou cedência, antes de o servidor completar dois (02) anos de efetivo exercício no cargo para o qual foi nomeado", não havendo violação a direito líquido e certo da impetrante, pois esta não implementou o interstício temporal necessário para a remoção. A nomeação da impetrante ocorreu em 31.01.2018, tendo efetuado o requerimento administrativo quando possuía menos de um mês de efetivo exercício da função.
+7. No âmbito do Poder Judiciário, há legislação específica, cuja aplicação é obrigatória no caso em exame, por força do princípio da legalidade, e prioritária em relação ao invocado artigo 157 da Lei Complementar nº 10.990/97 (Estatuto dos Servidores Militares da Brigada Militar), com base no princípio da autonomia entre os Poderes.
+8. Precedentes do STF e do TJ/RS.
+SEGURANÇA DENEGADA" (fls. 137/138e).
+Inconformada, sustenta a ora recorrente que:
+"É bem verdade que o disposto pela lei estadual nº 7.305/79 tutela de forma genérica os serviços auxiliares a justiça de primeiro grau, no entanto, em razão das circunstâncias fáticas, para o presente caso, deve ser aplicado o artigo 157, da lei estadual 10.990/97 (Estatuto dos Militares Estaduais).
+(..)
+A lei estadual 7.305/79 (aquela que fundamenta a respeitável decisão do relator a quo) é ordinária, ao passo que a lei estadual 10.990/97 (a que a apelante pretende ver aplicada) é complementar. Negar diferença entre as duas normas é um equívoco, que levado ao seu extremo, nos faria crer que a Constituição Federal possui o mesmo peso que uma lei ordinária estadual.
+Por certo a administração pública deve respeitar o princípio da legalidade, no entanto, ao contrário ao que foi exposto no acórdão, atendê-lo, neste caso em específico, significa aplicar a lei estadual 10.990/97 em detrimento da lei estadual 7.305/79, visto que se tratam de regras hierarquicamente distintas e que aparentemente tratam, ao menos em parte, da mesma matéria.
+(..)
+Outro tópico que deve ser destacado, é que a lei estadual nº 7.305/79 pretende tratar, de forma geral, sobre todos os serviços auxiliares da justiça de primeiro grau. Em sentido contrário, a lei estadual 10.990/97, abre uma área específica, qual seja, ao cônjuge de servidor militar, que sendo servidor estadual, requeira remoção.
+(..)
+O artigo 157 da Lei Estadual 10.990/97, prevê a garantia de um direito aos servidores casados com militares estaduais. E a sua aplicação se encontra condicionada a um rol taxativo de exigências. Se trata de um exemplo de ato administrativo vinculado, visto que ele apresenta três requisitos que devem ser cumpridos pelo servidor, e ao fim dá um comando para a administração pública.
+(..)
+O primeiro ponto a ser cumprido é ser cônjuge de servidor militar. A impetrante o é desde o dia 25/07/2016, conforme documentação já anexada aos autos.
+O segundo é a necessidade de ser servidor estadual, que já foi demonstrado pela nomeação e atual lotação da impetrante.
+(..)
+Por fim, ressalta-se que o artigo 157, lei estadual 10.990/97, deve ser analisado à luz ao artigo 226 da Constituição Federal que confere especial proteção à família, pois entende que que é ela a célula base do tecido social brasileiro" (fls. 209/218e).
+Recurso contrarrazoado (fls. 324/331e)
+Parecer do MPF, a fls. 350/355e, pelo improvimento do recurso.
+De início, e para a certeza das coisas, é esta a letra do acórdão combatido, transcrito no que interessa à espécie:
+"A impetrante teve indeferido o pedido administrativo de remoção da comarca de Sobradinho para a comarca de Santa Maria, a fim de acompanhamento do cônjuge servidor militar.
+A questão em julgamento relaciona-se com o conteúdo do regime jurídico ao qual a demandante está submetida, ou seja, com o conjunto de direito e deveres que regulam a relação entre as partes.
+(..)
+O artigo 814, caput, da Lei Estadual nº 5.256/66, que dispõe sobre a reforma do Código de Organização Judiciária do Estado do Rio Grande do Sul, prevê que: " Será removida ou designada para a sede onde residir o marido, a funcionária pública casada com servidor da Justiça, sem prejuízo de quaisquer direitos e vantagens."
+Por sua vez, o artigo 157 da Lei Complementar nº 10.990/97, que dispõe sobre o Estatuto dos Servidores Militares da Brigada Militar do Estado do Rio Grande do Sul, no que tange à remoção para acompanhamento de cônjuge, estabelece:
+Art. 157 - O cônjuge do servidor militar, sendo servidor estadual, será, se o requerer, removido ou designado para a sede do município onde servir o servidor militar, sem prejuízo de qualquer dos seus direitos, passando, se necessário, a condição de adido ou posto a disposição de qualquer órgão do serviço público estadual.
+Igualmente é importante referir a regra prevista no art. 13, § 4º, "b", da Lei 7.305/79 (que "Dispõe sobre os Serviços Auxiliares da Justiça de 1º Grau), com a redação conferida pelo artigo 15 da Lei Estadual nº 8.638/88:
+Art. 13 - O recrutamento para prover os cargos dos Serviços Auxiliares da Justiça de 1º Grau será geral, para realização de concurso público, ou preferencial, para prova de habilitação.
+..
+"§ 3.º - O Conselho da Magistratura poderá autorizar a realização, em qualquer comarca do Estado, de concursos locais, com recrutamento geral, obedecidas as normas baixadas pelo mesmo Conselho.
+§ 4.º - No caso do parágrafo anterior:
+..
+b) será defeso conceder remoção, cedência ou qualquer outra forma de movimentação funcional, antes de o servidor completar três (3) anos de efetivo exercício no cargo para o qual foi nomeado.
+(grifei)
+Posteriormente, ao menos a partir de informação que consta no site da Assembleia Legislativa do Estado, houve a edição da Lei nº 9.426/1991 e que deu nova redação à letra "b" do § 4º do art. 13 da Lei nº 7.305/79, dispondo que: " b) Será defeso conceder remoção ou cedência, antes de o servidor completar dois (02) anos de efetivo exercício no cargo para o qual foi nomeado ." É sabido que a Administração Pública submete-se à legalidade (art. 37, caput, da CF), constituindo-se parâmetro normativo importante para salvaguardar o Estado de Direito, por meio da compreensão de primazia da lei e reserva legal.
+(..)
+Os elementos dos autos demonstram que a impetrante exerce o cargo de Oficial Escrevente do Quadro de Pessoal dos Serviços Auxiliares da Justiça do 1º Grau na comarca de Sobradinho (fls. 26/29) e é casada (certidão da fl. 19) com [NOME], servidor militar estadual, lotado no 2º Batalhão de Operações Especiais de Santa Maria (declaração da fl. 24).
+O requerimento administrativo de remoção efetuado pela impetrante (fl. 31) ensejou a instauração do Expediente nº 0010- 18/000097-4. No parecer à Corregedora-Geral (fls. 33/35), o Juiz- Corregedor opinou pelo indeferimento da remoção para acompanhamento de cônjuge, pois ausente prazo mínimo de permanência na Comarca e o interesse da Administração.
+(..)
+A questão da remoção de servidor público, como destacado no item anterior, para acompanhamento do cônjuge, sem embargo da legislação estatutária aplicável, também deve ser analisada pelo prisma constitucional, pois o artigo 226 da CF materializa a proteção da entidade familiar, nos seguintes termos:
+(..)
+Como já foi dito em diversos julgados desta Corte, a jurisprudência do Supremo Tribunal Federal orienta-se no sentido de assegurar a proteção da entidade familiar, o que não impede, que na análise de cada caso concreto, seja afastado o direito à remoção pleiteada pelo servidor em virtude da situação não se alinhar ao respectivo entendimento jurisprudencial ou descumprimento de outro requisito normativo.
+A ora impetrante destacou em sua petição inicial que a remoção, no caso concreto, é vinculada, por força da incidência do artigo 157 da Lei Complementar nº 10.990/97. Mas, como já aludido, a própria concepção de vinculação do ato administrativo de remoção não pode restringir-se a um único dispositivo legal, mas deverá materializar-se de modo conjunto com princípios e regras constitucionais, além de outros requisitos aplicáveis da legislação própria do regime jurídico dos servidores públicos ao qual esteja vinculada.
+(..)
+No caso em exame, a parte impetrante é casada com [NOME] desde 27/07/2016, conforme certidão de casamento de fl. 20 dos autos eletrônicos. O cônjuge da ora impetrante, por sua vez, pertence aos Quadros da Brigada Militar desde 29.01.2016 (fl. 25), sendo que, após prestar concurso público para o Cargo Público de Oficial Escrevente, [NOME], foi aprovada no concurso público e nomeada por meio do Boletim nº 42.021/2018, de 25/01/2018, tomando posse em 31.01.2018.
+No entanto, em 20.02.2018, ou seja, em pouco tempo após tomar posse, a ora impetrante requereu sua remoção da Comarca de Sobradinho para a Comarca de Santa Maria, a fim de acompanhar cônjuge servidor militar. Na fl. 34 (fl. 58 dos autos eletrônicos do 2º Grau) dos autos consta o parecer elaborado pelo Juiz Corregedor, [NOME], mencionando a circunstância de a impetrante requerer sua remoção quando não tinha sequer um mês de carreira quando realizado o pedido.
+(..)
+Também importaria desconsiderar a circunstância segundo a qual a ora impetrante, quando prestou concurso, e, inclusive assumiu na Comarca de Sobradinho, desde o início soube de tal circunstância. Não houve nenhum ato de surpresa por parte da Administração.
+(..)
+Aplica-se aqui a citada Lei nº 9.426/1991, que deu nova redação à letra "b" do § 4º do art. 13 da Lei nº 7.305/79, dispondo que: "b) Será defeso conceder remoção ou cedência, antes de o servidor completar dois (02) anos de efetivo exercício no cargo para o qual foi nomeado ", de modo que, em sede de mandado de segurança, não há demonstração de violação a direito líquido e certo da impetrante decorrente do indeferimento pelo ato coator, uma vez que esta não implementou o interstício temporal necessário para a remoção, tendo sido nomeada, como já referido, em 31.01.2018, e efetuado o requerimento administrativo quando possuía menos de um mês de efetivo exercício da função. Ainda que exista alguma discrepância no prazo utilizado pela decisão administrativa, o fato normativo relevante é a existência de um lapso temporal mínimo a ser cumprido para possibilitar a remoção do servidor público aprovado no concurso, período a evidência não cumprido.
+Ou seja, no âmbito do Poder Judiciário, há legislação específica, cuja aplicação é obrigatória no caso em exame, por força do princípio da legalidade, impondo-se a conjugação do artigo 157 da Lei Complementar nº 10.990/97 (Estatuto dos Servidores Militares da Brigada Militar) com o aludido dispositivo, até mesmo como materialização da autonomia do Poder Judiciário para fixar o conteúdo do regime jurídico dos servidores públicos do seu Quadro de Pessoal.
+Tais elementos, analisados em conjunto, afastam o alegado direito líquido e certo à remoção, pois não demonstrada a prática ato de ilegal ou abusivo pela autoridade apontada como coatora" (fls. 144/162e).
+Com efeito, ao que se tem dos autos, a ora recorrente, casada desde 25/07/2016, além de estar em estágio probatório, de vez que tomou posse em 25/01/2018, entrando em exercício em 31/01/2018, na Comarca de Sobradinho, não pode alegar que teria sido surpreendida pela lotação diferente da do seu marido (Comarca de Santa Maria).
+Ademais, na condição de servidora do Poder Judiciário do Estado do Rio Grande do Sul, deve ser-lhe aplicada a Lei Estadual 7.305/79, em detrimento da legislação militar, de vez que, no caso, prevalece a lei especial que regulamenta a vida funcional da recorrente.
+A propósito, em caso análogo:
+"RECURSO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDORA PÚBLICA ESTADUAL. PEDIDO DE REMOÇÃO PARA ACOMPANHAR O CÔNJUGE E A FAMÍLIA. POSSE RECENTE, SITUAÇÃO INADEQUADA À LEGISLAÇÃO PERTINENTE. PRECEDENTES.
+A recorrente é servidora da Justiça Estadual, que em seu regramento exige para a primeira remoção o tempo mínimo de dois anos. No mês seguinte à sua nomeação no respectivo cargo, este assumido quando já pré-existente a situação familiar em outra comarca, a impetrante requereu sua remoção. Inviabilidade.
+Hipótese que não se enquadra nos ditames legais pertinentes.
+Precedentes análogos.
+Recurso desprovido" (STJ, RMS 19.122/RS, Rel. Ministro JOSÉ ARNALDO DA FONSECA, QUINTA TURMA, DJU de 01/08/2005).
+Ainda, no mesmo sentido:
+"ADMINISTRATIVO - SERVIDOR PÚBLICO ESTADUAL - REMOÇÃO PARA ACOMPANHAR CÔNJUGE - INDEFERIMENTO - REQUISITOS NÃO PREENCHIDOS - SITUAÇÃO QUE NÃO SE ADEQUA À HIPÓTESE LEGAL - INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO.
+I - A remoção prevista nos arts. 814 do Código de Organização Judiciária do Estado do Rio Grande do Sul (Lei 5.256/66) e 58 do Estatuto dos Servidores Públicos do Estado do Rio Grande do Sul (Lei Complementar 10.098/94) exige para sua efetivação que o cônjuge do servidor requerente pertença aos quadros do Poder Judiciário Estadual, bem como tenha o mesmo sido transferido de sede no interesse da Administração.
+II  O indeferimento da remoção pleiteada por servidora da justiça estadual cujo cônjuge, militar das Forças Armadas, não restou deslocado ex officio, não ofende qualquer direito líquido e certo.
+Ademais, a servidora ao aceitar nomeação e posse na Comarca de Campo Novo-RS, enquanto residia com seu marido em Cruz Alta-RS, deu causa ao próprio afastamento do lar.
+III - Recurso conhecido, mas desprovido" (STJ, RMS 15.957/RS, Rel. Ministro GILSON DIPP, QUINTA TURMA, DJU de 24/05/2004).
+Demais disso, como bem constou do acórdão combatido, "o art. 236 da Constituição Federal, que estabelece as bases da proteção à família, não possui caráter absoluto, devendo ser interpretado de acordo com as peculiaridades de cada caso" (STJ, RMS 36.097/SP, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 06/12/2012).
+Ante o exposto, nego provimento ao recurso. Prejudicado o pedido de concessão de medida liminar.
+I.
