@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIOS DE INTEGRAÇÃO. NÃO OCORRÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+2. Hipótese em que o acórdão embargado não contém o vício apontado pela parte embargante, uma vez que houve manifestação, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, apontando entendimento jurisprudencial que supera o firmado no REsp n. 953.519/SP e analisando os dispositivos legais pertinentes.
+3. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de embargos de declaração opostos por BRAZILIAN PET FOODS LICENSEE LTDA. contra acórdão da Primeira Turma assim ementado:
+TRIBUTÁRIO. TABELA DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - TIPI. ALIMENTOS PARA CÃES E GATOS. ACONDICIONAMENTO PARA VENDA A RETALHO. ENQUADRAMENTO. ESPECIFICIDADE.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+2. "Os produtos industrializados pela contribuinte - alimentos para cães e gatos, acondicionados para venda a retalho - têm enquadramento próprio e específico na Tabela do Imposto sobre Produtos Industrializados - TIPI (Código 2309.10.00), razão pela qual é inadequada a sua inclusão no código genérico (2309.90.10), de caráter residual. Não há como considerar específico um código que se refere a diversos tipos de animais em relação a um outro que se refere somente a cães e gatos. O fato de o alimento ser completo é irrelevante." (REsp 1225283/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/09/2013, DJe 17/09/2013).
+3. Agravo interno desprovido.
+A parte embargante alega, em síntese, que há omissão no acórdão recorrido em apreciar os fundamentos trazidos pela embargante em seu agravo interno, especialmente quanto ao entendimento jurisprudencial acerca da matéria, doutrina dominante e dispositivos legais.
+Aduz que o entendimento firmado no REsp n. 1.087.925/PR não é vinculante, não podendo ser utilizado como fundamento único de decidir. Requer, ainda, a aplicação de precedente firmado no REsp n. 953.519/SP.
+Impugnação apresentada às e-STJ fls. 600/603.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIOS DE INTEGRAÇÃO. NÃO OCORRÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+2. Hipótese em que o acórdão embargado não contém o vício apontado pela parte embargante, uma vez que houve manifestação, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, apontando entendimento jurisprudencial que supera o firmado no REsp n. 953.519/SP e analisando os dispositivos legais pertinentes.
+3. Embargos de declaração rejeitados.
+
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observo não haver vício de integração a ser sanado.
+A Primeira Turma se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, inclusive em relação às quais o recorrente alega omissão, senão vejamos (e-STJ fls. 582/584):
+Como afirmado no decisum ora agravado, desde o julgamento do REsp n. 1.087.925/PR, de relatoria do Ministro TEORI ALBINO ZAVASCKI, esta Corte, tratando de questão idêntica, superou antigo posicionamento firmado no REsp n. 953.519/SP (Rel. Ministro LUIZ FUX), para consolidar o entendimento segundo o qual os produtos industrializados (alimentos para cães e gatos, acondicionados para venda a retalho) "têm enquadramento próprio e específico na Tabela do Imposto sobre Produtos Industrializados - TIPI (Código 2309.10.00), razão pela qual é inadequada a sua inclusão em código genérico, de caráter residual".
+Este entendimento tem sido reiterado nos julgados posteriores sobre a matéria, como se verifica dos seguintes precedentes da turmas que compõem a Primeira Seção:
+PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO AO ART. 535, DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. TABELA DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - TIPI. ALIMENTOS PARA CÃES E GATOS ACONDICIONADOS PARA VENDA A RETALHO. ENQUADRAMENTO ESPECÍFICO NO CÓDIGO 2309.10.00. ALÍQUOTA DE 10%. INDIFERENTE SEREM ALIMENTOS COMPOSTOS COMPLETOS POR SE TRATAR O CÓDIGO 2309.90.10 DE ENQUADRAMENTO RESIDUAL.
+1. Não merece conhecimento o recurso especial que aponta violação ao art. 535, do CPC, sem, na própria peça, individualizar o erro, a obscuridade, a contradição ou a omissão ocorridas no acórdão proferido pela Corte de Origem, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. Os produtos industrializados pela contribuinte - alimentos para cães e gatos, acondicionados para venda a retalho - têm enquadramento próprio e específico na Tabela do Imposto sobre Produtos Industrializados - TIPI (Código 2309.10.00), razão pela qual é inadequada a sua inclusão no código genérico (2309.90.10), de caráter residual. Não há como considerar específico um código que se refere a diversos tipos de animais em relação a um outro que se refere somente a cães e gatos. O fato de o alimento ser completo é irrelevante. Precedentes: REsp 1087925 / PR, Primeira Turma, Rel. Min. Teori Albino Zavascki, julgado em 21.06.2011; REsp 1121947 / SC, Primeira Turma, Rel. Min. Napoleão Nunes Maia Filho, Rel. p/acórdão Min. Benedito Gonçalves, julgado em 02.10.2012.
+3. O código específico para os alimentos para cães e gatos, completos ou não, é o código 2309.10.00, se acondicionados para venda a retalho, e 23.09.90.90, se não acondicionados para venda a retalho, ambos sujeitos à alíquota de 10% (dez por cento). Superado o entendimento jurisprudencial em sentido contrário contido nos precedentes: AgRg no REsp 1307904 / SP, Segunda Turma, julgado em 02.10.2012 (retificado pelos EDcl no AgRg no REsp 1307904 / SP, Segunda Turma, julgados em 20.11.2012); AgRg no REsp 1136948 / RS, Primeira Turma, Rel. Min. Luiz Fux, julgado em 04.03.2010; e REsp 953.519/SP, Primeira Turma, Rel. Min. Luiz Fux, julgado em 02.12.2008.
+4. Recurso especial parcialmente conhecido e, nessa parte, provido.
+(REsp 1225283/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/09/2013, DJe 17/09/2013). (Grifos acrescidos).
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. IPI. RAÇÕES PARA CÃES E GATOS. EMBALAGENS SUPERIORES A 10 QUILOS. CORRETA CLASSIFICAÇÃO NA TIPI. ENQUADRAMENTO PRÓPRIO E ESPECÍFICO. IMPOSSIBILIDADE DE CLASSIFICAÇÃO EM SUBPOSIÇÃO MAIS GENÉRICA E RESIDUAL. PRECEDENTE DA PRIMEIRA TURMA. RECURSO ESPECIAL PROVIDO, DIVERGINDO DO SR. MINISTRO RELATOR.
+(REsp 1121947/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 02/10/2012, DJe 09/11/2012). (Grifos acrescidos).
+Na hipótese dos autos, a Corte Regional, em desacordo com esse entendimento, promoveu nova classificação dos produtos industrializados pela autora (ração para cães e gatos), para enquadrá-los em subitem mais genérico em violação dos parâmetros estabelecidos pelas regras gerais de interpretação (RGI) do sistema harmonizado de nomenclatura comum, em especial a regra n. 3-A, que estabelece que, quando pareça que a mercadoria pode classificar-se em duas ou mais posições por aplicação da regra 2-B ou por qualquer outra razão, a posição mais específica prevalecerá sobre as mais genéricas.
+Extrai-se dos precedentes acima colacionados que consolidaram a jurisprudência desta Corte, que a correta classificação dos produtos industrializados pela recorrente é aquela feita pela Receita (2309.10.00), reservando-se o Código NCM 2309.90.10 às rações destinadas a outros tipos de animais diversos de cães e gatos.
+Com efeito, os fundamentos do acórdão pousam sobre entendimento jurisprudencial, colacionando-se acórdãos de ambas Turmas da Primeira Seção afastando o posicionamento firmado no REsp n. 953.519/SP, e analisando os dispositivos legais pertinentes, não havendo omissão, contradição ou obscuridade a ser sanada.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
