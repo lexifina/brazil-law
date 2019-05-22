@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de São Paulo contra decisão que inadmitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 141):
+APELAÇÃO em MANDADO DE SEGURANÇA ITBI Município de São Paulo Alegada irregularidade na exigência do imposto Procedência, eis que a legislação municipal que embasa a cobrança foi declarada inconstitucional pelo Órgão Especial deste E. Tribunal de Justiça Sentença mantida RECURSO IMPROVIDO.
+Opostos embargos de declaração, foram estes rejeitados (fls. 149/154).
+Nas razões do recurso especial, o recorrente aponta violação aos arts. 38 e 97 do CTN. Sustenta, em síntese, que, "observando o disposto no artigo 38 do Código Tributário Nacional que estabelece que a base de cálculo do imposto será o valor venal dos bens ou direitos onerosamente transmitidos. Vale dizer não alterada e nem majora a base de cálculo do imposto, que continua a ser o valor venal do imóvel. A Administração disponibiliza ao contribuinte, com base em elementos objetivos e concretos existentes em seus cadastros, qual o valor venal no momento, isto tudo respeitado o devido processo legal, mediante possibilidade de avaliação especial, caso discorde o interessado do referido valor apontado. Frise-se a possibilidade do contribuinte requerer a avaliação especial antes do fato gerador e obter da administração a indicação do valor venal do bem. O procedimento adotado pelo Fisco encontra total amparo na lei e não configura aumento ilegal do imposto por majoração de sua base de cálculo" (fls.158/159).
+Parecer do Ministério Público Federal, às fls. 249/252, pelo desprovimento do agravo.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A presente irresignação não prospera.
+De início, relativamente à apontada ofensa ao art. 97 do CTN, esta Corte já se manifestou no sentido de que a matéria não pode ser invocada em recurso especial, porquanto o preceito infraconstitucional é mera reprodução de dispositivo da Constituição Federal. A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO AO SENAR. CONTROVÉRSIA SOBRE O FATO GERADOR. ART. 97 DO CTN. MATÉRIA DE NATUREZA CONSTITUCIONAL.
+1. O art. 97, inciso IV, do Código Tributário Nacional - CTN encontra respaldo no art. 150, inciso I, da Constituição Federal e sua norma possui natureza eminentemente constitucional. Nessa linha, o recurso especial, no qual se defende violação ao princípio constitucional da legalidade tributária, não pode ser conhecido.
+Precedentes: AgRg no AREsp 417.936/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 03/11/2014; AgRg no AREsp 507.664/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 22/10/2014; AgRg no REsp 1454339/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 20/10/2014; AgRg no REsp 1421060/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/04/2014.
+2. Agravo regimental não provido.
+(AgRg no REsp 1428741/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 12/2/2015, DJe 23/2/2015)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO SAT. ALEGADA VIOLAÇÃO AO ARTIGO 535 DO CPC. NÃO CARACTERIZADA. ARTIGO 97 DO CTN. MATÉRIA DE CUNHO CONSTITUCIONAL. INVIABILIDADE DE APRECIAÇÃO NESTA VIA RECURSAL. PRECEDENTES. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS TIDOS POR VIOLADOS. APLICAÇÃO DAS SÚMULAS 282 E 356/STF. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. A análise da violação dos artigos 97 e 110 do Código Tributário Nacional, por reproduzirem princípios encartados em normas da Constituição da República, não é admitida na via especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Precedentes: REsp 828.935/PR, Rel. Ministro Castro Meira, Segunda Turma, DJ 29/8/2006; e AgRg nos EDcl no REsp 1.098.218/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9/11/2009.
+3. O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF, por analogia).
+4. Agravo regimental não provido.
+(AgRg no REsp 1454339/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/10/2014, DJe 20/10/2014)
+Por outro lado, ao decidir a questão, o Tribunal a quo valeu-se da interpretação das regras contidas na Lei Municipal 11.154/91 para decidir a controvérsia, como se pode depreender do seguinte excerto (fls. 143/144):
+(..)
+Ora, o "valor venal de referência" contido no preceito do artigo 7º-A da Lei Municipal nº 11.154/91 serve tão somente como parâmetro de verificação da compatibilidade da base de cálculo obtida a partir do preço declarado de venda do imóvel; não pode se prestando à prévia fixação do montante tributável.
+Ademais, segundo a disposição do artigo 7º- B da legislação municipal acima referida, o contribuinte deve se submeter à base de cálculo do imposto divulgada pela Secretaria Municipal de Finanças, facultada a possibilidade de impugnação, o que claramente desconsidera princípios estabelecidos no Código Tributário Nacional.
+Isso porque, no regime de tributação definido no Código Tributário Nacional, o ITBI está sujeito ao lançamento por homologação, no qual o contribuinte declara o valor da operação que sofrerá a incidência. De maneira que não é lícito ao sujeito ativo definir previamente a base de cálculo da exação, atribuindo ao contribuinte a obrigação de impugná-la, característica dos impostos submetidos ao lançamento de ofício.
+Dessa maneira, reconhecida a inconstitucionalidade dos artigos 12, 7º-A e 7º-B da Lei nº 11.154, 30 de dezembro de 1991, estes últimos acrescentados pela Lei nº 14.125, de 29 de dezembro de 2005 e 14.256/2006 do Município de São Paulo, deve ser mantida r. sentença.
+Posto isso, verifica-se que, nas razões de recurso especial interposto, conquanto o ora agravante aponte ofensa à legislação federal, o inconformismo funda-se, em verdade, na aplicação da legislação municipal (Lei 11.154/91). Assim, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Nesse sentido, confiram-se:
+TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO INTER VIVOS DE BENS IMÓVEIS. BASE DE CÁLCULO. DIREITO LOCAL. SÚMULA 280/STF.
+1. Não há como se analisar tese recursal que demanda o exame de legislação local - Decreto Municipal n. 46.228/05 e a Lei Municipal n. 11.154/91 -, nos termos da Súmula 280/STF.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 715.456/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/08/2015, DJe 04/09/2015)
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ITBI. BASE DE CÁLCULO. A DESPEITO DA ALEGAÇÃO DE AFRONTA A NORMAS FEDERAIS (ARTS. 38 E 148 DO CTN) NAS RAZÕES RECURSAIS, A CONTROVÉRSIA FOI DECIDIDA PELA CORTE ESTADUAL À LUZ DA INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL (DECRETO MUNICIPAL 46.228/2005; LEI MUNICIPAL 11.154/91; ALTERAÇÕES LEGISLATIVAS MUNICIPAIS). CONTUDO, É VEDADA A APRECIAÇÃO DE LITÍGIO DECIDIDO COM BASE EM DIREITO LOCAL, NA VIA DO RECURSO ESPECIAL. SÚMULA 280/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É inviável a reforma do julgado atacado em Recurso Especial quando sua fundamentação está baseada na interpretação de legislação local. Incidência da Súmula 280/STF.
+2. Agravo Regimental do MUNICÍPIO DE SÃO PAULO a que se nega provimento.
+(AgRg no AREsp 718.754/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/08/2015, DJe 04/09/2015)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
