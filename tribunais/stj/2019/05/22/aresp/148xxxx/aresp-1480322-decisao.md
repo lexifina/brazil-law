@@ -1,0 +1,48 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. INSCRIÇÃO EM CADASTRO DE PROTEÇÃO AO CRÉDITO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. VALOR. EXORBITÂNCIA. ALTERAÇÃO. POSSIBILIDADE.
+1. Ação declaratória de inexistência de débito cumulada com compensação por danos morais em decorrência de inscrição indevida em cadastro de proteção ao crédito.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada.
+5. Valor da compensação pelo dano moral reduzido para R$ 5.000,00 (cinco mil reais).
+6. Agravo conhecido. Recurso especial parcialmente conhecido e provido.
+DECISÃO
+Cuida-se de agravo interposto por BANCO PAN S.A., contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 23/07/2018.
+Concluso ao gabinete em: 16/05/2019.
+Ação: declaratória de inexistência de débito cumulada com compensação por dano moral, ajuizada por [NOME], em face do agravante, devido a inscrição indevida em cadastro de inadimplentes.
+Sentença: julgou parcialmente procedente o pedido, para condenar o agravante ao pagamento R$ 24.885,70 (vinte e quatro mil, oitocentos e oitenta e cinco reais e setenta centavos), a título de danos morais.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+DIREITO DO CONSUMIDOR. INDENIZATÓRIA. NEGATIVAÇÃO. MANUTENÇÃO INDEVIDA. DÍVIDA PAGA. DANO MORAL. OCORRÊNCIA. CONDENAÇÃO. PROPORCIONALIDADE. RAZOABILIDADE. MANUTENÇÃO.
+I - Há falha na prestação de serviço se o Banco dá quitação ao pagamento integral do mútuo celebrado com consumidor e, meses depois, protesta tal dívida em cartório, ignorando a comprovação do pagamento, o que caracteriza o dano moral indenizável.
+II - A anotação indevida do nome do consumidor em entidades de preservação do crédito causa injusta lesão à honra e a idoneidade financeira, constituindo motivo eficaz para gerar descrédito contra a pessoa atingida, caracterizando dano não patrimonial.
+III - O montante da condenação a título de dano moral deve ter relação com o alcance estimado do sofrimento provocado pelo ato injusto, e com a condição econômica das partes, de forma a não gerar o enriquecimento sem causa ou não provocar no ofensor, impacto capaz de inibir a conduta reprovável.
+RECURSO NÃO PROVIDO. (e-STJ, fls. 113).
+Embargos de declaração: interpostos pelo agravante, foram rejeitados.
+Novos embargos de declaração: interpostos pelo agravante, nos quais alega ilegitimidade passiva, foram rejeitados, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO. PRELIMINAR DE ILEGITIMIDADE PASSIVA DO BANCO. REJEITADA.
+OMISSÃO. INOCORRÊNCIA. MATÉRIA OBJETO DOS EMBARGOS DECLARATÓRIOS EXPRESSAMENTE APRECIADA NO ACÓRDÃO. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE EM SEDE DE EMBARGOS DE DECLARAÇÃO. EMBARGOS REJEITADOS.
+1. Inicialmente, embora a alegação de ilegitimidade passiva ad causam não tenha sido anteriormente ventilada - hipótese que implicaria na rejeição do recurso - calha reconhecer que a jurisprudência dominante do Superior Tribunal de Justiça adota o entendimento de que deve o Tribunal apreciar as matérias de ordem pública, ainda que suscitadas tão-somente em sede de embargos de declaração.
+2. No caso, contudo, não há que se falar em ilegitimidade passiva da acionada, vez que a negativação reclamada na exordial fora perpetrada pelo Banco Panamericano S/A, conforme se pode aferir dos documentos de fls. 17 e 29, restando rejeitada a prefacial.
+3. No mérito, após detida análise das razões recursais, vejo que não assiste razão ao embargante, posto que, analisando a contestação e a apelação apresentadas pelo réu, não existe qualquer alegação de que a negativação reclamada e objeto deste processo não corresponde ao contrato firmado entre o autor e o Banco Pan, muito menos que existem negativações outras e anteriores à perpetrada pelo Banco, não havendo que se falar em omissão daquilo que não fora suscitado, e consequentemente, apreciado.
+4. Não se verifica na decisão embargada omissão a ensejar a interposição dos presentes declaratórios, sendo forçoso concluir que o embargante, a pretexto de esclarecer e completar o julgamento anterior, na realidade, pretende a rediscussão do julgado, pela estreita via dos embargos declaratórios, com reapreciação do que restou decidido, o que não se pode admitir.
+5. As questões trazidas à lume pelo embargante traduzem mero inconformismo com a prestação jurisdicional dada ao caso concreto, que deve ser dirimido nas vias próprias, não sendo os embargos de declaração o recurso apropriado para este fim. (e-STJ, fls. 164/165)
+Recurso especial: alega violação dos arts. 17, 371 e 485 do CPC/15; e 884 e 944 do CC, bem como dissídio jurisprudencial. Sustenta ser parte ilegítima para figurar no polo passivo, visto que o contrato entre as partes possui número diverso do indicado na petição inicial. Insurge-se contra o valor fixado a título de compensação por dano moral, alegando sua exorbitância.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 17, 371 e 485 do CPC/15, indicados como violados. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, nesta hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas
+Quanto à alegação de ilegitimidade passiva do agravante, assim se manifestou o Tribunal de origem:
+"Inicialmente, embora a alegação de ilegitimidade passiva ad causam não tenha sido anteriormente ventilada - hipótese que implicaria na rejeição do recurso - calha reconhecer que a jurisprudência dominante do Superior Tribunal de Justiça adota o entendimento de que deve o Tribunal apreciar as matérias de ordem pública, ainda que suscitadas tão-somente em sede de embargos de declaração.
+No caso, contudo, não há que se falar em ilegitimidade passiva da acionada, vez que a negativação reclamada na exordial fora perpetrada pelo Banco Panamericano S/A, conforme se pode aferir dos documentos de fls. 17 e 29, restando rejeitada a prefacial.
+No mérito, após detida análise das razões recursais, vejo que não assiste razão ao embargante, posto que, analisando a contestação e a apelação apresentadas pelo réu, não existe qualquer alegação de que a negativação reclamada e objeto deste processo não corresponde ao contrato firmado entre o autor e o Banco Pan, muito menos que existem negativações outras e anteriores à perpetrada pelo Banco, não havendo que se falar em omissão daquilo que não fora suscitado, e consequentemente, apreciado." (e-STJ, fls. 116)
+Dessa forma, alterar o decidido no acórdão impugnado, no que se refere a legitimidade passiva do agravante, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Do valor da compensação por dano moral por inscrição indevida em cadastros de proteção ao crédito
+Ao julgar o recurso de apelação interposto pelo agravante, o TJ/BA manteve o valor de R$ 24.885,70 (vinte e quatro mil, oitocentos e oitenta e cinco reais e setenta centavos), fixados em sentença, para compensar o dano moral decorrente de inscrição indevida em cadastro de proteção ao crédito, reputando o valor como razoável e proporcional à espécie.
+Nesse contexto, a jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada. Nesse sentido: AgInt no AREsp 840.135/RS, 3ª Turma, DJe de 06/09/2016, e AgInt no AREsp 866.899/SC, 4ª Turma, DJe de 21/09/2016. Salvo essas hipóteses, incide a Súmula 7 do STJ, impedindo o conhecimento do recurso.
+A fundamentação do acórdão recorrido para manter o valor da compensação pelo dano moral foi baseada na existência de cobrança indevida e de inscrição ilegítima do nome do agravado nos órgãos de proteção ao crédito, mas não foram traçadas quaisquer notas adicionais que justificassem uma compensação por danos morais no montante de R$ 24.885,70 (vinte e quatro mil, oitocentos e oitenta e cinco reais e setenta centavos).
+O STJ, em hipóteses similares, considerando os critérios da proporcionalidade e razoabilidade, além das especificidades da situação concreta, definiu como compensação os valores de R$ 5.000,00 (AgInt no ARESP 1248366/DF, 3ª Turma, DJe de 18/06/2018; AgInt no ARESP 1166504/RS, 4ª Turma, DJe de 22/05/2018), R$ 4.000,00 (AgInt no REsp 1717886/RS, 3ª Turma, DJe de 30/05/2018; AgInt no REsp 1531600/RS, 3ª Turma, DJe de 18/05/2018); R$ 3.000,00 (AgInt no ARESP 1150482/RS, 3ª Turma, DJe de 11/06/2018; AgInt no REsp 1722805/RS, 3ª Turma, DJe de 28/05/2018); e R$ 2.000,00 (AgInt no REsp 1715542, 4ª Turma, DJe de 21/06/2018; AgInt no ARESP 1224021/RS, 4ª Turma, DJe de 18/06/2018; AgInt no ARESP 959225/RJ, 3ª Turma, DJe de 27/03/2017; AgRg no ARESp 548208/RS, 4ª Turma, DJe de 01/10/2014).
+Logo, o acórdão merece reforma.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para fixar o valor de R$ 5.000,00 (cinco mil reais) para a compensação a título de dano moral na espécie.
+Publique-se. Intimem-se.
