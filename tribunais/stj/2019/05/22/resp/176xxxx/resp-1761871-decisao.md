@@ -1,0 +1,38 @@
+EMENTA
+ADMINISTRATIVO. RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. ART. 11 DA LEI N. 8.429/92. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE CONSIGNA A AUSÊNCIA DE CULPA OU DOLO E MÁ-FÉ. NÃO CARACTERIZAÇÃO DO ATO ÍMPROBO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado de Ceará com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJ/CE, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. CONTRATAÇÃO DE SERVIÇOS E COMPRAS DE PEQUENO VALOR DE EMPRESA PERTENCENTE A SERVIDOR DO ENTE PÚBLICO.NÃO COMPROVAÇÃO DE DOLO. APELAÇÃO CONHECIDA E NÃO PROVIDA.
+1. Para a configuração do ilícito administrativo e a concretização da improbidade, ainda que presente manifesta irregularidade ou ilegalidade, é necessário que haja o dolo, a má-fé, bem assim a desonestidade ou imoralidade no trato da coisa pública.
+No apelo especial (fls. 255-267), o Estado recorrente alega violação do art. 11 da Lei 8.429/92 e divergência jurisprudencial. Argumenta que os atos praticados pelos agentes públicos (ex prefeito e servidores comissionados), contrariam os princípios da legalidade e moralidade, configurando atos ímprobos, por isso deve-se dar prosseguimento a Ação Civil Pública.
+Sem contrarrazões.
+Decisão de admissibilidade às fls. 273-275.
+Parecer do MPF às fls. 298-304, pelo provimento do Recurso Especial.
+É o relatório. Passo a decidir.
+A insurgência não merece prosperar.
+No caso dos autos, o tribunal de origem manteve a sentença que rejeitou a ação civil pública, afirmando que não ficaram comprovados atos de improbidade administrativa, pelos seguintes fundamentos (fls. 227-230) :
+"Verificando atentamente os autos, observo que não há o que modificar na ilustre sentença de piso.
+Para a configuração do ilícito administrativo e a concretização da improbidade, ainda que presente manifesta irregularidade ou ilegalidade, é necessário que haja o dolo, a má-fé, bem assim a desonestidade ou imoralidade no trato da coisa pública.
+Em que pese a irregularidade praticada, no caso, a contratação de empresa de servidor que exerce cargo de confiança no Município, por si só, não comprova ato de improbidade administrativa.
+Fazendo uma análise dos documentos trazidos, constato que os valores despendidos nas compras efetuadas na empresa Joel Santos de Sousa-ME, servidor municipal, totalizam soma inferior a R$ 5.000,00 (cinco mil reais), havendo fundamento para a dispensa de licitação, vez que não alcançam o mínimo exigido na Lei das Licitações, nº 8.666/93.
+Acrescente-se a isso, que não há dúvidas de que o material comprado foi entregue.
+Ademais, analisando-se os valores, não há como se concluir com exatidão e certeza, que os requeridos se locupletaram de alguma forma da negociação, vez que não se tratam de verbas vultosas.
+ ..
+Além disso, por oportuno, cumpre destacar que o elemento subjetivo, para fins de caracterização de ato de improbidade administrativa, reside na vontade consciente e dirigida ao fim de vulnerar as regras da boa gestão e aos predicados éticos de responsabilidade que orientam a Administração Pública.
+Verifico nos autos que, embora os requeridos, tenham agido de forma não ética, não há comprovação nos autos de que houve dolo, má-fé ou desonestidade.
+Ademais, em que pese a revelia de parte dos requeridos, há de se frisar que esta é relativa,dizendo respeito somente aos fatos, não ao direito, restando ao autor o dever de comprovar a má-fé e dolo imputados ao recorridos, o que não aconteceu na espécie."
+Na hipótese, foi com base no conjunto fático e probatório constante dos autos, que as instâncias ordinárias afastaram a prática de ato de improbidade administrativa previsto nos arts. 10 e 11 da Lei 8.429/92, diante da ausência de culpa ou dolo e má-fé, desvio, apropriação ou existência de qualquer elemento subjetivo a ensejar enquadramento na Lei de Improbidade Administrativa. A reversão do entendimento exarado no acórdão exige o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. ATO ÍMPROBO. ELEMENTO SUBJETIVO. DOLO NÃO CARACTERIZADO. PRECEDENTES.
+1. Trata-se de ação civil pública, por improbidade administrativa, em que busca o Ministério Público do Estado de Sergipe a condenação do recorrido, nas penalidades da Lei 8.429/92, por ter contratado sem concurso público, no período de 1º de setembro a 31 de outubro de 2002, uma senhora para prestação de serviço de limpeza, no Município de Carira/SE.
+2. O Tribunal de origem reformou a sentença de primeiro grau e afastou a improbidade administrativa, uma vez que não ficou demonstrado que a conduta do recorrido, qual seja, a contratação de um comissionado, sem concurso público, configurasse, dolo, má-fé, desvio, apropriação ou existência de qualquer elemento subjetivo a ensejar enquadramento no art. 11 da Lei 8.429/92, configurando, no presente caso, mera irregularidade.
+3. As considerações feitas pelo Tribunal de origem afastam a prática do ato de improbidade administrativa por violação de princípios da administração pública, uma vez que não foi constatado o elemento subjetivo do dolo na conduta do agente, mesmo na modalidade genérica, o que não permite o reconhecimento de ato de improbidade previsto no art. 11 da Lei 8.429/92.
+ ..
+5. Demais disso, concluir diversamente do Tribunal de origem para concluir pela ocorrência de dolo na conduta do recorrido demandaria análise de matéria fático-probatória, o que é vedado pela Súmula 7 desta Corte.
+Agravo interno improvido (AgInt no AREsp 813040/SE, Rel. Min. Humberto Martins, Segunda Turma, DJe 25/08/2016, grifo nosso).
+ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA POR IMPROBIDADE ADMINISTRATIVA. ART. 11 DA LEI N. 8.429/92. AUSÊNCIA DO ELEMENTO SUBJETIVO (DOLO). NÃO CARACTERIZAÇÃO DO ATO IMPROBO. PRECEDENTES. TRIBUNAL DE ORIGEM QUE CONSIGNA A AUSÊNCIA DE DOLO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. No tocante ao enquadramento da conduta no art. 11, caput, da Lei 8.429/92, esta Corte Superior possui entendimento uníssono segundo o qual, para que seja reconhecida a tipificação da conduta como incurso nas previsões da Lei de Improbidade Administrativa, é necessária a demonstração do elemento subjetivo, consubstanciado pelo dolo para o tipo previsto no art. 11 da aludida legislação. Precedentes: AgRg no AREsp 630605 / MG, Rel. Min. Og Fernades, Segunda Turma, DJe 19/06/2015; REsp 1504791 / SP, Rel. Min. Marga Tessler (Juíza Federal Convocada do TRF 4ª Região), Primeira Turma, DJe 16/04/2015.
+2. O Tribunal a quo ao entender pela necessidade da demonstração do elemento subjetivo (dolo) para o enquadramento no art. 11, caput, da Lei 8.429/92, decidiu em conformidade com a jurisprudência desta Corte. Além do mais, foi com base no conjunto fático e probatório constante dos autos, que o Tribunal de Origem afastou a prática de ato de improbidade administrativa previsto no art. 11, caput, da lei 8.429/92, diante da ausência do elemento subjetivo (dolo). Assim, a reversão do entendimento exarado no acórdão exige o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ. Precedentes: AgRg no REsp 1433585 / SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 16/03/2015.
+3. Agravo regimental não provido (AgRg no AREsp 627294/DF, Rel. Min. Benedito Gonçalves, Primeira Turma, Dje 07/10/2015, grifo nosso).
+Ante o exposto, nego provimento ao Recurso Especial.
+Publique-se. Intimem-se.
