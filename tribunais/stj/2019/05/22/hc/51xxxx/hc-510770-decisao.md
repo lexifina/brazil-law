@@ -1,0 +1,17 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO TENTADO. REGIME PRISIONAL SEMIABERTO. DETRAÇÃO. RÉU REINCIDENTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], no qual se aponta constrangimento ilegal decorrente do julgamento pelo Tribunal de Justiça de São Paulo da Apelação n. 0073133-66.2016.8.26.0050, que indeferiu o recurso defensivo, mantida a condenação do paciente em 1 ano e 4 meses de reclusão, em regime semiaberto, pelo crime do art. 155, § 4º, II, c/c o art. 14, II, todos do Código Penal. Eis a ementa do acórdão (fl. 30):
+Apelação Criminal Furto qualificado ("destreza") tentado Recurso defensivo visando (i) a substituição da pena privativa de liberdade por restritivas de direitos; (ii) a fixação do regime aberto para o cumprimento desta reprimenda corporal; e (iii) a aplicação do instituto da detração penal Autoria, dolo e materialidade bem demonstrados Penas e regime prisional corretamente fixados Manutenção do regime inicial semiaberto, nos termos do artigo 33, § 2º, "c", do Código Penal Substituição da pena corporal por restritivas de direitos que não é socialmente recomendável ("ex vi" do 3º do art. 44 do Cód. Penal), por tratar-se o apelante de reincidente, condenado anteriormente pela prática de roubo qualificado Detração penal, para o fim de progressão a regime mais favorável, que deve ser decidida pelo r. juízo competente das Execuções Penais, eis que indispensável a verificação dos requisitos objetivos e subjetivos correspondentes Recurso desprovido.
+Daí o presente writ, em que se alega constrangimento ilegal na fixação do regime prisional.
+Aduz-se que o MM. Juízo "a quo" recusou-se a aplicar o disposto no art. 387, § 2º, do Código de Processo Penal, por considerar que tal aplicação só caberia ao Juiz da execução. Tal argumento foi mantido pelo v. acórdão, que ignorou o período de prisão cautelar do paciente ao determinar a manutenção do regime prisional intermediário (fl. 4).
+Pleiteia-se, assim, a concessão da ordem de habeas corpus em favor do paciente, tornando definitiva a decisão liminar para que lhe seja concedido o regime prisional aberto, diante do disposto no art. 387, § 2º, do Código de Processo Penal (fl.8).
+É o relatório.
+No caso, de acordo com a jurisprudência do Superior Tribunal de Justiça, inexiste evidência de constrangimento ilegal.
+Em primeiro lugar, porque, tratando-se de réu reincidente, embora seja a pena inferior a 4 anos, escorreita a fixação do regime semiaberto, conforme reiterados precedentes desta Corte.
+Com efeito, mesmo se descontado o período de sua prisão preventiva, seria mantido o regime estabelecido, a evidenciar a ausência de interesse-utilidade da impetração (AgRg no HC n. 424.470/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/12/2017). E, de minha lavra, o HC n. 459.284/SP (DJe 3/10/2018).
+Em segundo lugar, porque, fixada pena privativa de liberdade que não supera 4 anos de reclusão, a detração do tempo de custódia cautelar não repercute no regime prisional, especialmente em razão de seu agravamento ter se dado com base na reincidência do réu (HC n. 460.701/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 11/10/2018).
+Na mesma linha, da Quinta Turma, confiram-se estes outros julgados: HC n. 444.116/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 25/6/2018; e HC n. 443.419/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/6/2018.
+Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se.
