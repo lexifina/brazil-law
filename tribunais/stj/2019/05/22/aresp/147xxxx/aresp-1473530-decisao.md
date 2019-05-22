@@ -1,0 +1,48 @@
+EMENTA
+ARRENDAMENTO RURAL. AGRAVO EM RECURSO ESPECIAL. MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE DESPEJO E DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL FUNDAMENTADA NÃO CONFIGURADA. TEORIA DO ADIMPLEMENTO SUBSTANCIAL. REDISTRIBUIÇÃO DOS ÔNUS DA SUCUMBÊNCIA. PRETENSÃO RECURSAL QUE SOB O FUNDAMENTO DE VIOLAÇÃO AOS PRECEITOS INDICADOS, ESTÁ OBSTADA PELAS SÚMULAS NºS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NESSA EXTENSÃO NEGAR-LHE PROVIMENTO.
+DECISÃO
+AGROPECUÁRIA G5 LTDA. (AGROPECUÁRIA G5) ajuizou ação de despejo cumulada com cobrança contra PRINCESA S.A. (PRINCESA), tendo por objeto contrato de arrendamento rural celebrado com a empresa MARQUESA S.A (MARQUESA), que por meio de instrumento particular cedeu seus direitos à PRINCESA, ratificando todas as cláusulas contratuais.
+A sentença de parcial procedência do pedido foi parcialmente reformada pelo Tribunal estadual conforme acórdão assim ementado:
+Arrendamento rural. Ação de despejo por falta de pagamento cumulada com cobrança. Instrumento particular de confissão de dívida e promessa de pagamento que foi parcialmente inadimplida. Ré que efetuou diversos depósitos em datas aleatórias, sem observar o modo e prazo convencionados. Grau de inadimplência, considerada a universalidade do negócio, que não justifica o despejo. Aplicabilidade da teoria do adimplemento substancial para preservar o contrato, considerando os critérios quantitativos e qualitativos exigíveis para tal. Valor da causa que deve ser atualizado até a data do depósito parcial feito pela ré; o valor da condenação é a diferença entre valor obtido e o depósito efetuado, que deve ser atualizado desde a data do depósito até o efetivo pagamento. Sucumbência recíproca corretamente reconhecida. Sentença parcialmente reformada. Recurso provido em parte (e-STJ, fl. 227).
+Os embargos de declaração foram parcialmente acolhidos para sanar omissão relativa aos juros de mora incidentes sobre a condenação (e-STJ, fls. 264/270).
+AGROPECUÁRIA G5 interpôs recurso especial com base no art. 105, III, a, da CF, sob a alegação de violação dos arts. 85, 86, 489, 1022, I e II do NCPC pelos seguintes fundamentos (1) negativa de prestação jurisdicional; (2) não se aplica a teoria do adimplemento substancial, pois a recorrida vinha deixando de cumprir suas obrigações há longo tempo; (3) a sucumbência deve ser custeada pela recorrida, pois a recorrente não decaiu em nada.
+Foram ofertadas aos contrarrazões (e-STJ, fls. 294/303).
+O Tribunal de origem inadmitiu o apelo nobre por (1) não se verificar os vícios apontados no acórdão recorrido; (2) não ter sido demonstrada a infringência dos preceitos arrolados; (3) incidir a Súmula nº 7 do STJ.
+AGROPECUÁRIA G5 ingressou com agravo em recurso especial sustentando que (1) ficou evidenciada a violação dos artigos indicados no recurso e os vícios do acórdão recorrido; (2) não se aplica a Súmula nº 7 do STJ.
+Foi apresentada contraminuta (e-STJ, fls. 333/344).
+É o relatório.
+DECIDO
+A irresignação não merece prosperar.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada negativa de prestação jurisdicional fundamentada
+Segundo diz a petição recursal os vícios de omissão e obscuridade dizem respeito à (1) ausência dos requisitos permissivos à aplicação da teoria do adimplemento substancial; (2) distribuição dos encargos da sucumbência.
+Na verdade, tais questões foram examinadas pelo Tribunal estadual que assim firmou:
+Na espécie dos autos, a autora, ora apelante, ajuizou a presente ação objetivando o despejo da ré de sua propriedade, bem como a cobrança de prestações inadimplidas amparadas no termo de confissão de dívida assumido pela arrendatária em virtude de contrato de arrendamento rural existente entre as partes, com período determinado de 01.10.2007 a 01.10.2023.
+Em primeiro lugar, importante que se esclareça os termos desta confissão de dívida assumida pela ré, de caráter bastante peculiar.
+As partes firmaram um aditamento contratual em 01.09.2015, em que acordaram que o pagamento do último ano de arrendamento (agosto de 2022 a setembro de 2013) seria antecipado, o que ocorreu em 24.07.2015; e os nove meses do penúltimo ano (novembro de 2021 a julho de 2022) deveriam ser pagos conjuntamente com as parcelas mensais de junho a agosto de 2015, até 15.09.2015. (fls. 19) Posteriormente, em 24.04.2016, a ré assinou o instrumento particular de confissão de dívida e promessa de pagamento em razão de débitos em aberto de R$482.021,61 ("valor em atraso"); as partes concordaram em somar ao "valor em atraso" os arrendamentos relativos aos meses de fevereiro a maio de 2016, totalizando a dívida em R$691.170,25, a serem pagos em quatro parcelas de R$172.792,56. Mas a ré já teria pago a primeira parcela mais R$122.287,16 da segunda parcela, confessando a dívida, portanto, do valor de R$396.090,53. (fls. 21/26).
+O referido montante deveria ser pago no modo e prazo acordados no Anexo I da confissão (fls. 26), o que incontroversamente não foi feito, eis que a própria ré-apelada na mesma esteira do que afirmou a autora na inicial demonstra que efetuou vários depósitos em datas aleatórias. (fls. 78)
+Daí porque a autora apontou débito remanescente da confissão de dívida inadimplida de R$292.026,49, conforme memória de cálculo de fls. 03, que não foi impugnado especificamente pela ré.
+(..)
+Sobre o adimplemento substancial, é entendimento do Colendo Superior Tribunal de Justiça que, ressalva a hipótese de evidente relevância do descumprimento contratual, o julgamento sobre a aplicação da mencionada teoria não se prende ao exclusivo exame do critério quantitativo, devendo ser considerados outros elementos que envolvem a contratação, em exame qualitativo que, ademais, não pode descurar dos interesses do credor, sob pena de afetar o equilíbrio contratual e inviabilizar a manutenção do negócio.
+(REsp 1581505/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/08/2016, DJe 28/09/2016).
+No mesmo julgado, o STJ estabeleceu requisitos para a aplicação do instituto:
+"A aplicação da Teoria do Adimplemento Substancial exigiria, para a hipótese, o preenchimento dos seguintes requisitos: a) a existência de expectativas legítimas geradas pelo comportamento das partes; b) o pagamento faltante há de ser ínfimo em se considerando o total do negócio; c) deve ser possível a conservação da eficácia do negócio sem prejuízo ao direito do credor de pleitear a quantia devida pelos meios ordinários (critérios adotados no REsp 76.362/MT, QUARTA TURMA, j.Em 11/12/1995, DJ 01/04/1996, p. 9917).".
+Pois bem.
+No caso concreto, como se viu no início deste voto, tratou-se de uma confissão de dívida envolvendo prestações futuras em conjunto com prestações presentes.
+Pela memória de cálculo da autora, de um total de R$1.138.891,34, a ré teria depositado R$957.098,09.
+Nesta ação, a autora está cobrando a diferença mais os encargos da mora, totalizando R$292.026,49.
+No curso do processo, a ré depositou mais R$156.862,23 que reputou como correto para saldar a dívida (fls.
+122/123), além de antecipar à autora, por mera liberalidade, as prestações referentes a junho de 2017 a maio de 2018 (fls. 124).
+Considerando a universalidade dos valores envolvidos, sem levar em conta os encargos da mora, temos que a ré- apelada pagou parte considerável da confissão de dívida, que é a origem do inadimplemento ora discutido, denotando aproximadamente mais de 90% do valor original da confissão.
+O critério quantitativo, portanto, restou preenchido com suficiente razoabilidade.
+Analisando o aspecto qualitativo, verifica-se desde já se tratar de um vultuoso contrato de arrendamento rural de mais de 1.000 hectares destinados à atividade comercial da arrendatária, há mais de 10 anos. E ao que consta dos autos, a parte ré não demonstra conduta de inadimplência contumaz.
+(..)
+E finalmente, vemos também que a preservação do contrato não impedirá o credor, ora apelante, de perseguir o valor em aberto.
+Portanto, não há elementos que infirmem o reconhecimento do adimplemento substancial a fim de que seja afastada a resolução do contrato com despejo da arrendatária.
+(..)
+A sucumbência recíproca foi corretamente reconhecida, uma vez que houve decaimento parcial da autora em relação ao pedido de despejo (e-STJ, fls. 228/234).
+Como se vê, a matéria reclamada e necessária à elucidação da lide foi examinada pelo Tribunal estadual ainda que de forma contrária aos interesses da recorrente, salientando-se que o juiz não está obrigado a emitir pronunciamento a cada um dos artigos de lei que a parte entende aplicável ao caso, mas sim, a apresentar os fundamentos das conclusões assumidas. E isso foi feito, não se cogitando de omissões ou falta de fundamentação.
+Noutro passo, verifica-se do excerto acima transcrito, a revisão das conclusões assumidas pelo Tribunal estadual à luz dos fundamentos deduzidos no recurso especial está obstada pelas Súmulas nºs 5 e 7 do STJ.
+Nessas condições, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e nessa extensão NEGAR-LHE PROVIMENTO.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § º do NCPC).
+Publique-se. Intimem-se.
