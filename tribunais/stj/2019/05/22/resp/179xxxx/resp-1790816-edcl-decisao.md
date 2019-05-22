@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos contra decisão monocrática que negou seguimento ao Recurso Especial.
+A parte embargante alega:
+E o pedido principal do recurso especial consiste na aplicação da "lei processual vigente ao tempo da prolação do acórdão embargado, no que se refere aos honorários advocaticios de sucumbência, qual seja, o artigo 85, § 3o, da Lei nº 13.105, de 16 de março de 2015 (novo Código de Processo Civil)", conforme se denota às e-STJ Fl. 260.
+Assim, a pretensão principal dos autores deduzida no recurso especial é pela aplicação do CPC/2015 no que se refere à fixação da verba honorária, tendo em vista que, conforme salientado no recurso especial às e-STJ Fl. 255:
+(..)
+Nem se olvide, em arremate, do posicionamento recentemente firmado pelo C. STJ no sentido de que a sucumbência se rege pela lei vigente à data da deliberação que a impõe ou a modifica, de maneira que, na hipótese de provimento recursal com a modificação da sucumbência, face a determinação legal de que a norma processual é aplicável imediatamente aos processos em curso, incidirá o novo CPC, independentemente de o reclamo ter sido manejado sob a égide do diploma processual civil revogado. Senão, vejamos:
+(..)
+Mais recentemente, contudo, no julgamento conjunto dos Agravos Internos interpostos no REsp 1.481.917/RS e no AREsp 829.107/RJ, a Quarta Turma debruçou-se novamente na análise da temática, tendo concluído, ao final, que o marco temporal para aplicação das novas regras de honorários advocatícios sucumbenciais trazidas pela CPC de 2015 seria a data em que é imposta a sucumbência, seja ela em primeiro grau, na sentença, ou, depois, em algum acórdão que a modifique.
+Vencido o Ministro Luis Felipe Salomão, entenderam os demais Ministros integrantes da Quarta Turma, acompanhando o voto do Ministro Marco Buzzi, que "a sucumbência rege-se pela lei vigente à data da deliberação que a impõe ou a modifica", de maneira que, "na hipótese de provimento recursal com a modificação da sucumbência, face a determinação legal de que a norma processual é aplicável imediatamente aos processos em curso, incidirá o novo CPC, independentemente de o reclamo ter sido manejado sob a égide do diploma processual civil revogado". (DESTACAMOS).
+(STJ - Aglnt nos Emb. Div. em RESP 1.539.725/DF, Segunda Seção; Rel. Ministro Antonio Carlos Ferreira, j. 09/08/2017, DJe: 19/10/2017).
+O entendimento assentado pelo STJ reflete exatamente o ocorrido no caso ora em tela, tendo em vista que a sentença de improcedência foi tornada pública e recorrida ainda na vigência do CPC/73, com honorários de sucumbência fixados em favor do procurador do Estado também pelos critérios do CPC/73.
+O recurso de apelação interposto pelos autores só veio a ser julgado já na vigência do CPC/2015, tendo sido parcialmente provido, julgando o pedido procedente, havendo a inversão da sucumbência, para que os honorários fossem fixados em favor do patrono dos autores.
+Todavia, em vez de o acórdão proferido pelo TJSP fixar os honorários pela lei vigente á data da deliberação que modificou a sucumbência (qual seja, o CPC/2015), a sua fixação se deu conforme as regras do diploma processual revogado (CPC/73), afrontando, desta forma, os artigos 14, 85, § 3o, 493, 1.022, I e 1.046 do CPC/2015.
+Por fim, a título de argumentação, observe-se que, no recurso especial, os autores não estão a pretender a fixação de honorários recursais nos termos do CPC. 85, § 11, não havendo que se falar na aplicação do Enunciado Administrativo nº 07 do Superior Tribunal de Justiça, na medida em que tal enunciado trata apenas da fixação dos honorários sucumbenciais recursais, o que não se relaciona com o objeto do presente recurso.
+Requer, ao final, o acolhimento dos Embargos.
+Não houve impugnação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16.4.2019.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Conforme sólida jurisprudência do STJ, o marco temporal processual aplicável ao arbitramento dos honorários é a data da prolação da sentença ou decisão que originou a verba sucumbencial. Vejam-se alguns precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRECEDENTES.
+IMPUGNAÇÃO DO VALOR FIXADO A TÍTULO DE VERBA HONORÁRIA. MAJORAÇÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+(..) 2. Esta Corte firmou a compreensão de que "a regra processual aplicável, no que tange à condenação em honorários advocatícios sucumbenciais, é aquela vigente na data da prolatação da sentença. Em razão de sua natureza material, afasta-se a aplicação imediata da nova norma." (REsp 1.686.733/PE, Segunda Turma, Rel. Ministro Og Fernandes, julgado em 03/04/2018, DJe 09/04/2018).
+3. Nesse contexto, sobrepõe-se o entendimento consolidado neste Tribunal, no sentido de que salvo as hipóteses excepcionais de valor excessivo ou irrisório, não se conhece de recurso especial cujo objetivo é rediscutir o montante da verba honorária fixada pelas instâncias de origem, a teor do enunciado nº 7, da Súmula do STJ.
+4. Agravo interno não provido. (AgInt no REsp 1686339/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 11/12/2018).
+AGRAVO INTERNO EM AGRAVO NO RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ACOLHIMENTO. RECONHECIMENTO DA ILIQUIDEZ DO TÍTULO. EXTINÇÃO DO CUMPRIMENTO. DETERMINAÇÃO. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. LEI NOVA. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA. AGRAVO INTERNO DESPROVIDO.
+(..) 3. A sentença, como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+4. Agravo interno não provido. (AgInt no AREsp 1299452/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 23/11/2018).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. DIREITO INTERTEMPORAL. REGIME JURÍDICO APLICÁVEL. PROPOSITURA DA AÇÃO SOB A ÉGIDE DO ESTATUTO PROCESSUAL CIVIL DE 1973. PROLAÇÃO DE SENTENÇA QUANDO EM VIGOR O CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE DA NOVEL LEGISLAÇÃO. NECESSIDADE DE ARBITRAMENTO DA VERBA HONORÁRIA SUCUMBENCIAL À LUZ DO ART. 85 DA LEI N. 13.105/2015. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(..)
+II - Consoante o entendimento desta Corte, a sentença é o marco para delimitação do regime jurídico aplicável à fixação de honorários advocatícios, revelando-se incorreto seu arbitramento, com fundamento no CPC de 1973, posteriormente à 18.03.2016 (data da entrada em vigor da novel legislação).
+III - Inviabilizado, in casu, o arbitramento dos honorários advocatícios de sucumbência, com base no art. 85 do Código de Processo Civil de 2015, sob pena de restar configurada a supressão de grau de jurisdição e desvirtuar a competência precípua desta Corte em grau recursal (uniformização da interpretação da legislação federal), mediante a fixação de honorários de sucumbência casuisticamente e não apenas nas hipóteses de irrisoriedade e exorbitância no seu arbitramento.
+IV - Necessidade de reforma do acórdão recorrido, a fim de que seja procedido novo julgamento da apelação, com análise dos honorários advocatícios de sucumbência, respeitadas as peculiaridades do caso concreto, com base no estatuto processual civil de 2015.
+V - Recurso Especial parcialmente provido. (REsp 1647246/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 19/12/2017).
+No caso em apreço, verifica-se que a prolação da sentença ocorreu em 3.2.2016 (fl. 167, e-STJ), quando ainda não estava em vigor o novo CPC. Portanto, o arbitramento da verba honorária deve ser feito à luz dos critérios estabelecidos no art. 20 do CPC/1973.
+Destaca-se que o Recurso Especial dos ora embargantes não discute a fixação de honorários recursais. Desse modo, não há como aplicar o entendimento firmado no julgamento do REsp 1.539.725/DF.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que a reiteração será considerada expediente protelatório sujeito à multa do Código de Processo Civil.
+Publique-se.
+Intimem-se.
