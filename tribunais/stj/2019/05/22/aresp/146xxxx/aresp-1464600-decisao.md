@@ -1,0 +1,53 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto por Scjohnson Distribuição Ltda., com base no art. 105, III, "a", da CF/1988, em oposição a acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul ementado nos seguintes termos (e-STJ, fl. 196):
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. ICMS. ALÍQUOTA DE 25% SOBRE ODORIZADORES/DESODORIZADORES DE AMBIENTES E AUTOMOTIVOS. CABIMENTO. PRODUTOS ELENCADOS NA TABELA DE INCIDÊNCIA DO IPI - TIPI COMO PERFUMARIA.
+1. O item XI do Apêndice I da seção I do RICMS é claro ao dispor que são considerados itens de perfumaria e cosméticos aqueles previstos nas posições 3303, 3304, 3305 e 3307 da NBM/SH-NCM. Assim, a alíquota aplicável às operações envolvendo a circulação de desodorizadores/odorizadores é aquela prevista no art. 27 I, do RICMS, que define ser de 25% (vinte e cinco por cento) quando se tratar de mercadorias relacionadas no Apêndice I, Seção I; (Redação dada pelo art. 1º (Alteração 4589) do Decreto 52.836, de 29/12/15. (DOE 30/12/15) - Efeitos a partir de 01/01/16).
+2. Ainda, a nota nº 4, do Capítulo 33, da Tabela de Incidência do IPI - TIPI arrola, de modo exemplificativo, quais são os itens de perfumaria, considerando estes quaisquer produtos que, mesmo não destinados ao uso tópico, exalem perfume, tal como é o caso dos odorizadores/desodorizadores automotivos e de ambiente. Portanto, descabe a aplicação da alíquota genérica de 17% (atualmente 18%) para o caso em tela. Sentença mantida.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 218-225).
+Alega a recorrente a existência de violação do conteúdo do art. 1.022, I e II, do CPC/2015, apontando a existência de omissão e contradição no acórdão recorrido.
+Nessa esteira, pugna pela decretação da nulidade do acórdão atacado pela indevida rejeição dos declaratórios.
+A negativa de admissibilidade teve por fundamento a ausência de óbice a ser sanado.
+É o relatório.
+O provimento do recurso especial por contrariedade ao art. 1.022 do CPC/2015 pressupõe que sejam demonstrados, fundamentadamente, entre outros, os seguintes motivos: (a) a questão supostamente omitida foi tratada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuida de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) houve interposição de aclaratórios para indicar à Corte local a necessidade de sanear a omissão; (c) a tese omitida é fundamental à conclusão do julgado e, se examinada, poderia levar à sua anulação ou reforma; (d) não há outro fundamento autônomo, suficiente para manter o acórdão. Esses requisitos são cumulativos e devem ser abordados de maneira fundamentada na petição recursal, sob pena de não se conhecer da alegação por deficiência de fundamentação, dada a generalidade dos argumentos apresentados.
+Com efeito, quanto à tese de violação do disposto no art. 1.022, I, do CPC/2015, a parte recorrente limitou-se a indicar a necessidade de abordagem de alguns pontos pela Corte de origem, sem especificá-los, nem justificar, nas razões do apelo, a importância do enfrentamento do tema para a correta solução do litígio.
+Logo, a suscitada violação do conteúdo do art. 1.022, I, do CPC/2015 foi deduzida de modo genérico, o que justifica a aplicação da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A esse respeito, destaco os seguintes precedentes:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO DE INSTRUMENTO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DOS AUTORES.
+1. Incide o óbice enunciado na Súmula 284/STF se o recurso especial alega de forma genérica violação ao artigo 535 do CPC/73, equivalente ao artigo 1022 do CPC/15, sem explicitar como o acórdão que decidiu os embargos de declaração furtou-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. A ausência de intimação da parte contrária em acórdão que julga prejudicados embargos de declaração não enseja anulação do julgamento. Em obediência ao princípio da instrumentalidade das formas, não se deve pronunciar a nulidade se inexistirem prejuízos às partes. Precedentes.
+3. Inviável discutir, em sede de recurso especial, matéria que não foi debatida e decidida pela última instância estadual, mas apenas mencionada no acórdão recorrido.
+Incidência da Súmula 211/STJ.
+4. Agravo interno desprovido.
+(AgInt no Ag 1.215.937/PA, Rel. Min. MARCO BUZZI, QUARTA TURMA, julgado em 17/11/2016, DJe 25/11/2016)
+Já quanto à suposta ofensa ao art. 1.022, II, do CPC/2015, a empresa recorrente aponta a existência de contradição nos seguintes pontos (e-STJ, fls. 236-239):
+(A) DA VIOLAÇÃO DO ARTIGO 1.072, INCISO I - CONTRADIÇÃO - PRODUTOS OBJETOS DA AÇÃO NÃO ESTÃO LISTADOS NO APÊNDICE I - SEÇÃO I - ITEM XI.
+28. Com todas as vênias, diversamente do fundamento do v. acórdão, a Recorrente em momento algum afirmou que os desodorizadores e odorizadores de ambientes "foram listados de forma equivocada no Apêndice I, Seção I, item XI, do RICMS-RS".
+29. O que a Recorrente vem tentando desde o primeiro momento demonstrar, é que os desodorizadores e odorizadores de ambientes e automotivos, produtos objeto da lide não foram listados no Apêndice I, Seção I, item XI, do RICMS-RS, classificados no NCM nº. 33.07, ou seja, não estão listados na tabela de perfumaria.
+30. Tanto é assim, que na própria r. sentença que julgou o mérito, reconheceu que, os desodorizadores e odorizadores de ambientes e automotivos, não são perfumes ou cosméticos, conforme trecho abaixo transcrito:
+ ..
+(B) DA CONTRADIÇÃO - NOTA Nº. 4 DO CAPÍTULO 33 DA TABELA DE INCIDÊNCIA DO IPI - TIPI.
+32. No fundamento do v. acórdão, o i. julgador aduziu que "a nota nº 4 do Capítulo 33 da Tabela de incidência do IPI - TIPI arrola, de modo exemplicativo, os itens de perfumaria, considerando estes quaisquer produtos que, mesmo não destinados ao uso tópico, exalem perfume. "
+33. No entanto, com todas as vênias, é possível constatar mais uma contradição, tendo em vista que a redação da nota é completamente diversa, senão vejamos:
+ ..
+(C) DEFINIÇÃO TÉCNICA E LEGAL DOS COSMÉTICOS E PERFUME - COMPETÊNCIA PARA CLASSIFICAÇÃO DE PRODUTOS - ANVISA - RECONHECIMENTO NO V. ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO.
+36. Verifica-se que no v. acórdão, o i. Relator reconheceu a competência da ANVISA, para classificar os produtos, que por meio da RDC n. 7 de 2015, estabeleceu os conceitos de perfumes e cosméticos, vejamos:
+ ..
+38. É importante frisar, que a ANVISA, agência que detém a competência própria, classificou os neutralizadores/eliminadores de odores e os odorizadores/aromatizantes de ambientes como produtos de limpeza, os quais ainda podem ter em sua formulação substâncias de efeito odorífero, sem que, havendo tal característica, seja descaracterizada a sua qualidade de produto saneante, tornando-o produto de perfumaria e ou cosmético.
+39. Quando a norma proferida pelo agente regulador do setor identifica o produto, descrevendo-o, indicando suas propriedades, e classificando-o, não cabe ao intérprete ignorar qualquer dos traços distintivos por ela utilizados, sob pena de se estar infringindo a norma (Lei) e, assim, sujeito às consequências legais advindas.
+Ocorre que a contradição que dá ensejo aos embargos de declaração é a interna, ou seja, aquela que se verifica entre as premissas ou entre estas e a conclusão do julgado, e não a alegada contradição entre a fundamentação da decisão impugnada e outros parâmetros dos autos, como no caso em tela.
+No aspecto:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. REAJUSTE DE 28,86%. PRESCRIÇÃO DA EXECUÇÃO. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA.
+1. No tocante a contagem do prazo prescricional, não cabe falar em ofensa ao art. 535 do CPC. Isso porque, nos termos da jurisprudência do Superior Tribunal de Justiça, a contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado - por exemplo, a incompatibilidade entre a fundamentação e o dispositivo da própria decisão. Em outras palavras, o parâmetro da contrariedade não pode ser externo, como outro acórdão, ato normativo ou prova. Confiram-se, a propósito, os seguintes precedentes: EDcl no REsp 1.200.563/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/9/2012; EDcl no AgRg no AREsp 18.784/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 17/3/2012; e EDcl no AgRg no REsp 1.224.347/SC, Rel. Ministro Hamilton Carvalhido, Primeira Turma, DJe 6/12/2011.
+2. O acórdão recorrido encontra-se em sintonia com a jurisprudência pacífica desta Corte, no sentido de que "o ajuizamento da execução coletiva interrompe o prazo da prescrição da pretensão executória" (AREsp 103.572/RN, Rel. Ministro Cesar Asfor Rocha, DJe 04/05/2012). Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.348.521/RS, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/9/2016, DJe 23/9/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. SERVIDOR PÚBLICO FEDERAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. REINTEGRAÇÃO. OFENSA AO ART. 557 DO CPC/1973. INOCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DO FEITO. REVISÃO. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação ao art. 557 do CPC/1973 alegada pela parte agravante, tendo em vista que a questão suscitada encontra óbice na Súmula 7/STJ, sendo o recurso especial, por conseguinte, manifestamente inadmissível. Ainda que assim não fosse, é de se ressaltar que fica superada eventual ofensa ao referido dispositivo legal, pelo julgamento colegiado do agravo regimental interposto contra a decisão singular do Relator. Precedentes.
+2. Inexiste violação aos arts. 458, II e 535, II, do CPC/1973, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que o embasam.
+ ..
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1.595.272/SC, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 2/6/2016, DJe 8/6/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
