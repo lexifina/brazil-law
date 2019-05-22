@@ -1,0 +1,11 @@
+DECISÃO
+JOSÉ MARCELO TRINDADE JÚNIOR, por meio da petição de fls. 698-750, pede a extensão da decisão de fls. 677-684, a fim de diminuir a reprimenda a ele fixada pelas instâncias de origem.
+Decido.
+Verifico a possibilidade de estender ao requerente os efeitos da decisão de fls. 677-684, pois, afastada a valoração negativa dos antecedentes pela Corte de origem, a sua nova sanção (5 anos, 2 meses e 15 dias de reclusão) foi estabelecida com os mesmos fundamentos adotados para o paciente na sentença penal condenatória confirmada em segundo grau.
+Conforme assinalei na decisão de fls. 677-684, as instâncias de originárias, ao fundamentarem os motivos do crime, apenas consignaram serem injustificáveis quaisquer que sejam eles. Portanto, não trouxeram qualquer fundamentação que permita aferir a negatividade da referida circunstância judicial, de forma que deve ser afastada tal vetorial.
+Na segunda fase, o quantum de redução relativo à atenuante da confissão espontânea também se mostrou desproporcional. A pena do requerente também foi reduzida em 9 meses de reclusão, o que representa em torno de 1/9 de diminuição, sem que haja sido apontado nenhum elemento concreto que efetivamente justificasse o porquê da escolha de tal fração.
+Por fim, na terceira etapa, não houve fundamentação idônea para aplicar o redutor mínimo ao crime privilegiado, porquanto nem o Magistrado nem a Corte revisora apontaram a relevância social ou moral da motivação do ato criminoso, o grau emotivo do réu ou mesmo a intensidade da injusta provocação do ofendido, de maneira que deve ser adotado o maior patamar de redução previsto no art. 121, § 1º, do Código Penal.
+Apoiado nessas premissas, observo que está configurada a hipótese disciplinada pelo art. 580 do CPP, pois o requerente está em idêntica situação fática e processual do paciente (mesma pena e mesmos fundamentos adotados para a dosimetria).
+À vista do exposto, defiro o pedido de extensão formulado às fls. 698-750, para também reduzir a reprimenda do requerente a 4 anos, 7 meses e 10 dias de reclusão, em regime semiaberto, nos termos do art. 33, § 2º, "b", do Código Penal.
+Publique-se e intimem-se.
+Em seguida, voltem-me conclusos para análise do agravo regimental interposto pelo paciente.
