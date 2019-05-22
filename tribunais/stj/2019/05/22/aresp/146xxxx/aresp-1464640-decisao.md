@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. ALEGAÇÃO DE DECISÃO CONTRÁRIA À PROVA DOS AUTOS. CONSELHO DE SENTENÇA QUE ACOLHE UMA DAS TESES APRESENTADAS EM JUÍZO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra a decisão que inadmitiu o recurso especial apresentado, com fundamento na alínea a do permissivo constitucional, contra o acórdão do Tribunal de Justiça de Minas Gerais na Apelação Criminal n. 1.0105.16.083682-8/001, assim ementado (fl. 556):
+APELAÇÃO CRIMINAL - HOMICÍDIO QUALIFICADO - TRIBUNAL DO JÚRI - DECISÃO CONTRÁRIA À PROVA DOS AUTOS - INOCORRÊNCIA - MANUTENÇÃO DA DECISÃO - REDUÇÃO DA PENA - INVIABILIDADE - RECURSO NÃO PROVIDO.
+I - Demonstrado que o veredicto popular se encontra em perfeita consonância com o contexto probatório, é inviável promover a sua cassação, sob a alegação de ser a decisão dos jurados manifestamente contrária à prova dos autos, pois a sujeição do réu a novo julgamento somente se justificaria se a decisão do Conselho de Sentença destoasse das provas de tal forma que sua manutenção seria inconcebível, sob pena de ver afrontada a soberania constitucional do Júri popular. Inteligência da Súmula 28 das Câmaras Criminais do TJMG.
+II - Se os jurados acolheram uma das teses possíveis ao caso, de acordo com sua intima convicção, não há que se falar que a decisão é contrária a prova dos autos.
+V.V. EMENTA: APELAÇÃO CRIMINAL - JÚRI - CONDENAÇÃO - MANUTENÇÃO - INEXISTÊNCIA DE CONTRARIEDADE À PROVA DOS AUTOS - REDUÇÃO DA PENA-BASE - NECESSIDADE - VALORAÇÃO DESPROPORCIONAL.
+Opostos embargos de declaração (fls. 570/583), estes foram rejeitados (fls. 619/622).
+Nas razões do recurso especial (fls. 626/634), a defesa aponta violação dos arts. 155, 593, III, d, e 564, IV, do Código de Processo Civil e 121, § 2º, I e IV, do Código penal. Alega, em suma, que o recorrente foi condenado apenas com base em declarações prestadas em sede policial, notadamente na palavra da vítima, que afirmou ter sido coagido pelos policias (fl. 629) e que as qualificadoras reconhecidas são manifestamente contrárias a prova dos autos (idem). Sustenta que da análise de todos os depoimentos, tanto das testemunhas, da vítima, como do acusado, percebe-se que não há indícios mínimos que comprovem a autoria em relação ao crime tratado, ressaltando que não foi reconhecido sequer uma única vez, motivo pelo qual a decisão de condenação está divorciada das provas coligidas (fl. 631).
+Apresentadas as contrarrazões (fls. 639/641), o recurso especial foi inadmitido pela Corte de origem por aplicação da Súmula 7/STJ (fls. 643/646). Contra tal decisão foi interposto o agravo em análise (fls. 649/654), com contraminuta ofertada às fls. 656/657.
+O Ministério Público Federal opina pelo não conhecimento do agravo e, se conhecido, pelo seu desprovimento (fls. 669/671).
+É o relatório.
+O recorrente sustenta, em suma, que o Conselho de Sentença teria decidido de forma manifestamente contrária às provas dos autos, alegando que, da análise de todos os depoimentos, tanto das testemunhas, da vítima, como do acusado, percebe-se que não há indícios mínimos que comprovem a autoria em relação ao crime tratado, ressaltando que não foi reconhecido sequer uma única vez, motivo pelo qual a decisão de condenação está divorciada das provas coligidas (fl. 631).
+O Tribunal a quo concluiu que, após detida análise do conteúdo probatório,  ..  a decisão dos jurados encontra sólidos fundamentos nas provas erigidas ao longo da instrução (fl. 559). Asseverou que a decisão do Conselho de Sentença encontra amparo nas provas colhidas nas duas fases de persecução penal, sendo certo que o Colendo Júri adotou a tese sustentada pela acusação (fl. 562).
+Verifica-se que, para o Colegiado, as provas coligidas nos autos foram suficientes para formar a convicção dos jurados, que tão somente optaram pela versão acusatória, a qual lhes pareceu mais verossímil que a tese sustentada pela defesa.
+Evidentemente que a revisão do veredicto dado pelo Júri popular, o qual foi confirmado pelo Tribunal de origem, demandaria, necessariamente, incursão no acervo fático-probatório dos autos, procedimento inviável em sede especial, a teor da Súmula 7/STJ.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. TRIBUNAL DO JÚRI. ALEGAÇÃO DE QUE A DECISÃO DOS JURADOS É MANIFESTAMENTE CONTRÁRIA ÀS PROVAS DOS AUTOS. ANULAÇÃO DO JULGADO. NECESSIDADE DE ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. O acolhimento da tese de julgamento contrário às provas dos autos, porquanto não comprovada a autoria do delito, demandaria o confronto do veredicto do Conselho de Sentença com os fatos e provas dos autos, o que esbarra no óbice da Súmula 7/STJ.
+2. Agravo regimental improvido.
+(AgRg no AREsp n. 1.160.087/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/5/2018)
+Ante o exposto, com fundamento no art. 253, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
