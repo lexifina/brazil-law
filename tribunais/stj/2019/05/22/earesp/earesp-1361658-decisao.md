@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL,- INSS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 263):
+PREVIDENCIÁRIO. REVISÃO. DIREITO AO MELHOR BENEFÍCIO. DECADÊNCIA. PRESCRIÇÃO. BENEFÍCIO ORIGINÁRIO E BENEFÍCIO DERIVADO. NOVOS TETOS. JUROS E CORREÇÃO MONETÁRIA. LEI 11.960/2009. CRITÉRIOS DE ATUALIZAÇÃO. DIFERIMENTO PARA A FASE PRÓPRIA (EXECUÇÃO).
+1. É garantido o direito ao melhor benefício, nos termos do artigo 122 da Lei 8.213/91, quando já preenchidos todos os requisitos antes do requerimento administrativo.
+2. O prazo decadencial para o beneficiário de pensão por morte requerer a revisão do benefício originário somente tem seu início no momento do óbito do titular, uma vez que antes dessa data não tinha legitimidade para discutir tais questões.
+3. Mantenho a sentença que reconheceu a prescrição das parcelas vencidas pelo quinquênio anterior ao ajuizamento da ACP nº 0004911-28.2011.4.03.6183.
+4. Os valores não pagos em vida ao segurado podem ser pagos aos dependentes, na forma do artigo 112 da Lei 8.213/91.
+5. Deliberação sobre índices de correção monetária e taxas de juros diferida para a fase de cumprimento de sentença, a iniciar-se com a observância dos critérios da Lei nº 11.960/2009, de modo a racionalizar o andamento do processo, permitindo-se a expedição de precatório pelo valor incontroverso, enquanto pendente, no Supremo Tribunal Federal, decisão sobre o tema com caráter geral e vinculante. Precedentes do STJ e do TRF da 4a Região.
+Opostos embargos de declaração, foram rejeitados (fl. 293)
+Nas razões do recurso especial, o recorrente aponta violação aos arts. 74, 75, 79, 103 e 112 da Lei 8.213/918 e 196 do CC, sustentando a ocorrência da decadência ao direito de revisão do benefício concedido há mais de 10 (dez) anos.
+Aduz que "a parte autora somente teria pretensão de revisar a renda da sua pensão se o valor inicial que lhe foi pago pela Autarquia, de acordo com o artigo 75 da Lei 8.213/91, não correspondesse à última renda mensal paga a título de aposentadoria ao de cujus. E como não é este caso - a autora quer revisar a renda mensal da aposentadoria do instituidor - a pretensão por ela deduzida foi alcançada pela decadência, pois já se passaram mais de 10 anos entre o recebimento da primeira prestação da aposentadoria originária e o ajuizamento desta ação" (fl. 306).
+Sem contrarrazões.
+A irresignação comporta acolhida.
+Cinge-se a controvérsia ao termo inicial da decadência para fins de revisão da pensão por morte, na hipótese em que a pretensão perpassa pela alteração da RMI do benefício originário (aposentadoria do segurado instituidor da pensão por morte).
+Na espécie, o Tribunal de origem afastou a reclamada decadência, adotando as seguintes razões de decidir (fl. 255):
+Decadência
+Com relação à decadência na revisão de benefício com base nos valores dos tetos estabelecidos pela Emendas 20/98 e 41/03, o disposto no artigo 103 da Lei 8213/91 não se aplica, pois não cuida de alteração do ato de concessão do benefício, mas de readequação do valor da prestação a partir da entrada em vigor dos novos tetos. Ou seja, a pretensão não implica a afetação de um ato jurídico aperfeiçoado no passado.
+Desta forma, não há decadência porquanto não se trata de revisão do ato de concessão, e sim de reajustes posteriores.
+Entretanto, o Tribunal de origem destoou da compreensão consolidada na Primeira Seção desta Corte, na assentada de 27/2/2019, julgando o EREsp 1.605.554/PR, relatora para acórdão a Ministra Assusete Magalhães, que firmou o entendimento no sentido de que o termo inicial do prazo decadencial para revisão do benefício originário da pensão por morte é a data de concessão daquele, não a da pensão.
+No caso, verifica-se que o direito de revisão do benefício originário foi atingido pela decadência, tendo em vista que da data de sua concessão, em 03/07/1991 (fl. 173), à data da propositura da ação, em 18/09/2015 (fl.1), transcorreram mais de 10 (dez) anos.
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial, nos termos da fundamentação supra para reconhecer a decadência do direito de revisão do benefício originário. Invertidos os ônus sucumbenciais, devendo-se observar o disposto no § 3º do art. 98 do CPC/2015, em razão da gratuidade de justiça.
+Publique-se.
