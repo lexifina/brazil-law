@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu seu Recurso Especial interposto contra acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. EXECUÇÃO. DESCONTO DOS VALORES REFERENTES AO PERÍODO EM QUE HOUVE RECOLHIMENTO PREVIDENCIÁRIO. TÍTULO EXECUTIVO QUE NÃO PREVÊ A COMPENSAÇÃO. VIOLAÇÃO DA COISA JULGADA. JUSTIÇA GRATUITA. BASE DE CÁLCULOS DOS HONORÁRIOS.
+- O título exequendo diz respeito à concessão do benefício de auxílio-doença, com DIB em 21/07/2015 (dia seguinte ao da cessação do último auxílio-doença), no valor correspondente a 91% do salário de benefício. Juros de mora e correção monetária na forma prevista no Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal em vigor na data da presente decisão (Provimento COGE/TRF3 nº 64, de 28 de abril 2005, e Resolução nº 267/2013), sem prejuízo da aplicação da legislação superveniente. Verba honorária fixada em 10% sobre o valor das parcelas vencidas até a data desta sentença (Súmula 111 do STJ). Concedida antecipação de tutela.
+- Conforme extrato CNIS, há anotação de recolhimentos como contribuinte individual, no período de 01/08/2015 a 31/12/2016. Portanto, há recolhimento de contribuições previdenciárias em concomitância com a concessão do benefício por incapacidade - DIB em 21/07/2015.
+- No entanto, apesar de conhecida, a questão não foi debatida pela Autarquia no processo de conhecimento.
+- Decisão proferida em sede de recurso representativo de controvérsia, pelo Colendo Superior Tribunal de Justiça (REsp 1.235.513/AL), que pacificou a questão no sentido de que nos embargos à execução, a compensação só pode ser alegada se não pôde ser objeto no processo de conhecimento. Se a compensação baseia-se em fato que já era passível de ser invocado no processo cognitivo, estará a matéria protegida pela coisa julgada.
+- Concedida a Assistência Judiciária na ação de conhecimento, essa condição se estende aos embargos à execução, conforme pacificado pela E. 3ª Seção desta Corte.
+- O valor atrasado a ser recebido pelo autor a título de benefício previdenciário, por si só, não é suficiente para infirmar a declaração de pobreza prestada.
+- Uma vez mantida a decisão agravada, a base de cálculo dos honorários permanece inalterada.
+Prejudicado pedido de alteração dos honorários, bem como o pedido de condenação da parte exequente nos ônus da sucumbência.
+- Agravo de instrumento improvido" (fls. 238/239e).
+Sustenta a parte ora agravante, nas razões do Recurso Especial, fundamentado na alínea a do permissivo constitucional, contrariedade aos arts. 42, 46, 59, 60 e 63, da Lei 8.213/91, 884 e 885, do Código Civil.
+Sem contrarrazões, o Recurso Especial foi inadmitido, na origem, advindo o presente Agravo.
+Não foi apresentada contraminuta.
+A parte agravante, em suas razões, afirma:
+"Não há aplicação da Súmula 83 do Colendo STJ, tendo em vista que tal Súmula é para ser aplicada ao recurso especial pela divergência e o INSS apenas interpôs o recurso pela alínea "a".
+(..)
+Consoante a melhor doutrina, o direito de recurso se configura como extensão do direito de ação, inafastável o paralelo entre os requisitos necessários ao exercício do direito de ação (condições da ação) e requisitos necessários ao julgamento do recurso; vale dizer, assim como o exercício do direito de ação está condicionado à existência de certos requisitos, cuja ausência impede o conhecimento do mérito, o exercício do direito de recurso também deverá observar certas condições, sem as quais não será apreciado.
+"A atividade através da qual o juiz ou Tribunal verifica se encontram-se ou não preenchidos tais requisitos é denominada juízo de admissibilidade dos recursos. Presentes tais requisitos, o órgão poderá, então, apreciar a pretensão recursal, dando ou negando provimento ao recurso. Ao fazê-lo, realiza o juízo de mérito do recurso."
+Com efeito, distintos os juízos de admissibilidade do recurso e o juízo de mérito.
+O primeiro se antepõe ao segundo; levando, aquele, ao conhecimento ou não conhecimento do recurso, ao passo que este acarretará o provimento ou desprovimento do mesmo.
+Frise-se, a ausência de requisitos leva a inadmissibilidade do recurso, não sendo sequer apreciado seu mérito.
+Deve-se, assim, verificar-se, primeiro, se o recurso é admissível, para, depois, verificar-se se o mesmo é fundado ([NOME] nke).
+Dessa forma, o juízo de admissibilidade do recurso limita-se a verificação da presença dos requisitos necessários ao seu conhecimento.
+Acresce destacar que, especificamente no que tange ao Recurso Especial com fulcro na letra "a" do permissivo constitucional (como se dá no presente caso), a doutrina ente pelo cabimento deste recurso sempre que o Recorrente alegue a violação de lei federal ou a divergência jurisprudencial.
+Assim, é suficiente para ultrapassar o juízo de admissibilidade em se tratando de Recurso Especial interposto com fundamento na letra "a" do permissivo constitucional, que se alegue adequadamente a violação à lei federal, nele prequestionado.
+Nesse sentido é a opinião de [NOME], [NOME], [NOME] e [NOME].
+No mesmo diapasão é a decisão proferida pelo Supremo Tribunal Federal, manifestando expressa distinção entre juízo de admissibilidade de recurso e juízo de mérito, a seguir transcrita:
+(..)
+claro no sentido de que basta a adequada alegação de violação a dispositivo constitucional para se ultrapassar o juízo de admissibilidade do recurso.
+Assim, mutatis mutandi, é cabível (juízo de admissibilidade) o Recurso Especial toda vez que se alegue um dos motivos previstos pela lei para a interposição do recurso.
+No caso dos autos, como se infere do exame de suas razões de recurso, o ente previdenciário alegou violação a dispositivo de lei federal devidamente prequestionado no aresto recorrido.
+Como corolário, o recurso interposto deveria ter sido admitido e processado, determinando-se sua remessa ao Superior Tribunal de Justiça, uma vez que cumpridos todos os demais requisitos legais para tanto.
+Assim, reitere-se, restando demonstrado o cabimento do recurso, impõe-se a reforma da r. decisão agravada" (fls. 261/263e).
+Do exame dos autos, verifica-se que a decisão agravada, para inadmitir o Recurso Especial, teve como um dos fundamentos a convergência do entendimento do acórdão recorrido com a jurisprudência deste Superior Tribunal de Justiça, quanto a "não ser possível, em sede de execução, alegar matéria que não fora oportunamente suscitada e discutida no processo de conhecimento, em razão da preclusão e da coisa julgada".
+A parte agravante, todavia, deixou de infirmar, especificamente e adequadamente, o fundamento de que o acórdão recorrido converge para o entendimento pacificado nesta Corte, limitando-se a ratificar as razões do Recurso Especial.
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Tal entendimento, inclusive, está consolidado na Súmula 182/STJ, segundo a qual o recorrente deve infirmar, especificamente, os fundamentos da decisão impugnada, mostrando-se inadmissível o Agravo que não se insurge contra todos eles.
+Ressalto que, "fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ" (STJ, AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, DJe de 26/06/2013), com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, o que não ocorreu, no caso.
+A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO GENÉRICA DO FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE. INSUFICIÊNCIA. INCIDÊNCIA DO ART. 544, § 4º, I, DO CPC. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE.
+(..)
+2. Não se conhece do agravo em recurso especial que deixa de atacar especificamente e suficientemente os fundamentos da decisão de inadmissibilidade. Incidência do art. 544, § 4º, I, do CPC.
+3. Tendo a decisão de inadmissibilidade decidido que o acórdão recorrido estaria em sintonia com a jurisprudência do STJ (Súmula 83/STJ), compete à agravante demonstrar que o entendimento adotado pelo acórdão encontra-se em descompasso com o atual entendimento do STJ, trazendo para tanto precedentes do STJ favoráveis à sua tese recursal, ou que os precedentes invocados na decisão de inadmissibilidade não se aplicariam ao casu, por versarem sobre situações diversas, sendo insuficiente a mera alegação de que os precedentes invocados pela decisão de inadmissibilidade não formariam a jurisprudência uníssona do STJ e que o óbice da Súmula 83/STJ não se aplica aos recursos especiais interposto com base na alínea "a" do permissivo constitucional. Nesse sentido: AgRg no AREsp 293.726/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 13/08/2013, DJe 26/08/2013.
+(..)
+6. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento" (STJ, EDcl no AREsp 527.100/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/08/2014).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação de todos os fundamentos da decisão denegatória da subida do recurso especial para que seja conhecido o respectivo agravo. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+2. Inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Precedentes.
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 630.126/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 24/09/2015).
+Em face do exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
