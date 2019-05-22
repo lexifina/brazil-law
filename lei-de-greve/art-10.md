@@ -8,5 +8,5 @@ VI - captação e tratamento de esgoto e lixo;
 VII - telecomunicações;
 VIII - guarda, uso e controle de substâncias radioativas, equipamentos e materiais nucleares;
 IX - processamento de dados ligados a serviços essenciais;
-X - controle de tráfego aéreo e navegação aérea; e
+X - controle de tráfego aéreo;
 XI compensação bancária.
