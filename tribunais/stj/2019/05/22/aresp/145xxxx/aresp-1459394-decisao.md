@@ -1,0 +1,33 @@
+EMENTA
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. CONSTITUIÇÃO DE NOVO PROCURADOR SEM RESSALVA. REVOGAÇÃO TÁCITA DO INSTRUMENTO ANTERIOR. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa aos dispositivos tidos por malferidos.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 76):
+AGRAVO. REVOGAÇÃO TÁCITA DE MANDATO PELA OUTORGA DE PROCURAÇÃO A NOVOS PROCURADORES. AUSÊNCIA DE RESSALVA.
+Solidado está no col. STJ o entendimento de que "a constituição de novo procurador nos autos, sem que haja ressalva em sentido contrário, acarreta revogação tácita dos mandatos anteriores" (REsp 1.442.494 -Rel. Ministro SÉRGIO KUKINA, j 10-06-2014).
+A apuração de suposta infringência de norma do Código de Ética e Disciplina da Ordem dos Advogados do Brasil é atribuição da própria entidade de classe, não repercutindo no deslinde do processo.
+Não provimento do agravo regimental.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação dos artigos 620, 655, X, 656 e 672 do CPC/2015, 682 do CC/2002, 185-A, 202 e 203 do CTN, 52 da Lei n. 6.404/1976, 2º da Lei n. 6.385/1976, 11 da Lei n. 6.830/1980, 11 do Código de Ética e Disciplina da OAB e 33, parágrafo único, do Estatuto da OAB, sob os seguintes argumentos: (a) a resilição unilateral de contrato de mandato deve ser precedida de notificação à outra parte. Assim, "não é razoável ou lógico, exigir que o mandatário se abstenha da prática dos atos e negócios que objetivaram o contrato de mandato, sem que o mesmo tenha ciência absoluta da cassação dos poderes que lhe foram outorgados. Dessa forma, a produção dos efeitos da revogação só é considerada após a notificação do mandatário, provada por meio inequívoco" (fl. 101); (b) "aceitação de contrato de prestação de serviços profissionais para demandar nos autos do processo que já tenha advogado constituído constituí infração ética" (fl. 102).
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Evidencia-se que os artigos 620, 655, X, 656 e 672 do CPC/2015, 185-A, 202 e 203 do CTN, 52 da Lei n. 6.404/1976 e 2º da Lei n. 6.385/1976 (e as teses a eles vinculadas) não foram apreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+O STJ possui entendimento assente no sentido de que a constituição de novo procurador nos autos, sem qualquer ressalva, leva à revogação tácita do instrumento anterior.
+Confiram-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO QUE, AO APRECIAR AGRAVO DE INSTRUMENTO, MANTEVE DECISÃO DO JUÍZO DE PRIMEIRO GRAU DENEGATÓRIA DO PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA JURISDICIONAL, FORMULADO EM "AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE COISA JULGADA", ESTA FUNDAMENTADA NA SUPOSTA REVOGAÇÃO TÁCITA DA PROCURAÇÃO OUTORGADA AO ADVOGADO QUE FOI INTIMADO DA SENTENÇA PROFERIDA NA ANTERIOR AÇÃO INDENIZATÓRIA. PARTICULARIDADES DO CASO QUE AFASTAM A VEROSSIMILHANÇA DAS ALEGAÇÕES VEICULADAS NA EXORDIAL. RECURSO ESPECIAL DESPROVIDO.
+1 - A jurisprudência do Superior Tribunal de Justiça é orientada no sentido de que a constituição de novo procurador nos autos, sem que haja ressalva em sentido contrário, acarreta revogação tácita dos mandatos anteriores (a título de exemplo, leiam-se: HC 76.277/MS, Rel. Ministro Og Fernandes, Sexta Turma, DJe 26/11/2012; HC 114.698/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Quinta Turma, DJe 15/12/2008; AgRg no REsp 178.544/SP, Rel. Ministro Nilson Naves, Corte Especial, DJ 4/12/2000; REsp 222.215/PR, Rel. Ministro Felix Fischer, Quinta Turma, DJ 21/2/2000).
+(..)
+3 - Recurso especial desprovido. (REsp 1442494/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 10/6/2014, DJe 27/8/2014).
+PROCESSUAL CIVIL. OUTORGA DE DOIS MANDATOS EM MOMENTOS DIVERSOS. INEXISTÊNCIA DE RESSALVA DA PROCURAÇÃO ANTERIOR. REVOGAÇÃO TÁCITA.
+1. Há revogação tácita de mandato com a constituição de novo procurador sem ressalva do instrumento procuratório anterior.
+2. É inexistente o recurso ou a ação quando o advogado subscritor não tem procuração e/ou substabelecimento nos autos.
+3. Recurso ordinário provido. (RMS 23.672/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/6/2011, DJe 21/6/2011).
+No caso dos autos, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que "acertado, pois, o decisum alvejado ao reconhecer a revogação tácita da procuração inicialmente outorgada aos [NOME] e [NOME], ante a juntada de novo instrumento de mandato aos autos, constituindo-se Procurador o Advogado [NOME], faltante reserva alguma quanto a poderes anteriormente conferidos" (fl. 78).
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+No que diz respeito à alegação de ofensa aos artigos 11 da Lei n. 6.830/1980, 11 do Código de Ética e Disciplina da OAB e 33, parágrafo único, do Estatuto da OAB, o acórdão recorrido consignou o seguinte (fl. 79):
+"a sindicância de suposta infração ao Código de Ética e Disciplina da Ordem dos Advogados do Brasil cabe à correspondente entidade de classe, não repercutindo no processo."
+Ocorre que a recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
