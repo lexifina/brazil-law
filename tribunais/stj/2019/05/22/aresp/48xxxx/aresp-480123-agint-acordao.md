@@ -1,0 +1,52 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. PENHORA DE APARTAMENTO. IMPUGNAÇÃO DE AVALIAÇÃO JUDICIAL. INEXISTÊNCIA DE VÍCIO QUE MACULE O LAUDO APRESENTADO PELO PERITO JUDICIAL. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não configura ofensa aos arts. 165, 458 e 535 do CPC/73 o fato de o col. Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. O v. acórdão recorrido está fundamentado na ausência de vício ou erro a pôr em dúvida o minucioso exame técnico realizado pelo perito judicial, uma vez demonstrado que o laudo foi elaborado com base no valor do imóvel, mediante pesquisa de mercado, e de acordo com suas características peculiares, sobretudo o estado precário de conservação, inexistindo indício ou elemento hábil para realização de nova perícia.
+3. A reforma do julgado demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo interno a que se nega provimento.
+
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Luis Felipe Salomão votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno, interposto por GRUPO OK CONSTRUÇÕES E EMPREENDIMENTOS LTDA, contra decisão que conheceu do agravo para negar provimento ao recurso especial da agravante, sob os seguintes fundamentos: a) ausência de ofensa aos arts. 165, 458 e 535 do CPC/73; e b) incidência da Súmula 7 do STJ.
+A agravante sustenta que não busca o revolvimento de matéria fático-probatória, já que, após acurada análise dos autos, depreende-se que a decisão vergastada negou, de forma expressa, vigência a dispositivos de Lei Federal (arts. 165, 458, 535, 683 e 684 do CPC/73), decidindo, ainda, de forma divergente à interpretação dada por outros Tribunais da Federação.
+Embora devidamente intimado, o agravado não apresentou impugnação (e-STJ, fl. 454).
+É o relatório.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+A parte agravante não logrou êxito em desconstituir os fundamentos da decisão agravada.
+Na origem, trata-se de agravo de instrumento interposto por GRUPO OK CONSTRUÇÕES E EMPREENDIMENTOS LTDA contra decisão que, nos autos da ação de cobrança promovida pelo CONDOMÍNIO EDIFÍCIO MANHATTAN"S PLACE, em fase de cumprimento de sentença, homologou o laudo elaborado pelo perito judicial, o qual avaliou o imóvel penhorado no valor de R$ 735.500,00 (setecentos e trinta e cinco mil e quinhentos reais).
+A agravante alegou, em suma, a nulidade da decisão, porque desprovida de fundamentação  há divergência entre a avaliação efetuada pelo perito judicial e a prática imobiliária  , requerendo nova avaliação, nos termos do art. 683 do CPC/73.
+O eg. Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso, nos termos da seguinte fundamentação:
+"A insurgência do agravante não encontra qualquer respaldo fático, na medida em que os critérios utilizados pelo perito judicial para avaliação do imóvel se encontram em perfeita consonância com as normas de avaliação de imóveis urbanos.
+Determinada a realização de perícia, veio aos autos o laudo judicial de fls. 135/214, concluindo o perito, através do método comparativo direto, que o valor do imóvel é de R$ 735.500,00, para agosto de 2012.
+Instadas as partes a se manifestarem, o agravante impugnou o laudo (fls. 235/236) afirmando que o valor correto segundo sua avaliação seria de R$1.047.304,00 mediante a utilização de método mais adequado ao comportamento atual do mercado e às características da propriedade.
+Requereu, ao final, em decorrência da discrepância entre a avaliação do perito e as duas avaliações apresentadas pelo executado, a intimação do perito judicial para que confrontasse os dois laudos e esclarecesse o motivo da diferença.
+O perito judicial apresentou sua manifestação a fls. 266/269 informando que "valeu-se de Normas Técnicas vigentes à época da elaboração de seu trabalho e que para a conclusão do valor do imóvel considerou todas as suas características peculiaridades, bem como o seu estado de conservação apresentado à época da vistoria, tendo sido aplicado o fato de depreciação (referência (f) - estado da Edificação: Necessitando de Reparos Importantes) devido ao seu estado de conservação, conforme demonstram as fotos anexadas ao seu laudo, podendo ser observados vários pontos de infiltração, como tetos e paredes descascando, nos banheiros, dormitórios, portas danificadas, local onde se localizava a churrasqueira sem acabamento, piso rústico, terraço da cobertura com paredes e piso necessitando de revestimento e pintura, etc."
+Deste modo inexistem razões hábeis para modificar o concluído, na medida em que não há qualquer indício ou elemento hábil para realização de nova perícia.
+Ademais, utilizou-se o perito do método comparativo, o qual toma por base o valor médio de mercado de imóveis na região.
+Como bem destacou o expert a fls. 166, "O Método Comparativo Direto adotado no presente trabalho consiste em estabelecer o valor do imóvel mediante uma pesquisa de mercado, utilizando-se para tal, de elementos com características semelhantes ao do imóvel em estudo, no tocante à área construída, localização, características construtivas, uso, estado de conservação, etc. Uma vez obedecidas as condições acima, o valor de mercado procurado estará ajustado à realidade dos preços vigentes na região estudada."
+Importante ressaltar que competia ao agravante demonstrar de forma cabal a ocorrência de qualquer irregularidade no laudo pericial, já que meras críticas ou presunções são insuscetíveis de debelar o minucioso exame técnico realizado pelo perito judicial.
+O laudo revela-se suficientemente fundamentado em critérios técnicos, inexistindo motivos hábeis para que seja determinada a realização de nova perícia.
+Ante o exposto, pelo meu voto, NEGO PROVIMENTO ao recurso, nos termos acima alinhavados." (e-STJ, fls. 317/319 - grifou-se)
+Seguiram-se embargos de declaração, alegando falta de fundamentação (ofensa aos arts. 165 e 458 do CPC/73) e necessidade de nova avaliação, nos termos dos arts. 683 e 684 do CPC/73, sob o argumento de que a forma utilizada pelo perito judicial é discrepante do real valor de mercado.
+Embora rejeitados os embargos de declaração, não se evidencia negativa de prestação jurisdicional, tendo em vista que o Tribunal de origem, embora não tenha examinado individualmente cada um dos argumentos suscitados pela agravante, adotou fundamentação suficiente, decidindo integralmente a controvérsia, sendo desnecessária a referência expressa aos dispositivos legais indicados pela parte.
+No que tange à violação dos arts. 683 e 684 do CPC/73, a argumentação da agravante não traz fundamentação concreta a remover os fundamentos do acórdão recorrido, o qual está amparado na ausência de vício ou erro a pôr em dúvida o minucioso exame técnico realizado pelo perito judicial, uma vez demonstrado que o laudo foi elaborado com base no valor do imóvel, mediante pesquisa de mercado, e de acordo com suas características peculiares, sobretudo o estado precário de conservação, inexistindo indício ou elemento hábil para realização de nova perícia.
+Desse modo, o acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesses termos, o reconhecimento por esta Corte da observância de normas técnicas de elaboração de laudo de avaliação e de desnecessidade de realização de nova avaliação, como propugnado, demandaria o reexame do acervo fático-probatório coligido nos autos, o que é vedado a teor da Súmula 7/STJ.
+Nesse sentido, confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). EXECUÇÃO. AVALIAÇÃO DO BEM FEITA POR OFICIAL DE JUSTIÇA. FÉ PÚBLICA. INEXISTÊNCIA DE DEMONSTRAÇÃO DE PRESSUPOSTOS PARA ELABORAÇÃO DE NOVO LAUDO. REVISÃO. MATÉRIA FÁTICA E PROBATÓRIA. SÚMULA 7 DO STJ.
+1. A inversão do que foi decidido pelo Tribunal de origem no tocante à desnecessidade de nova avaliação do imóvel objeto da execução, ante a ausência de efetiva demonstração de razões fundadas, demandaria necessariamente o reexame do acervo fático-probatório contido nos autos, providência que desafia a Súmula 7 do STJ.
+2. AGRAVO INTERNO DESPROVIDO."
+(AgInt no AREsp 996.254/GO, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/04/2017, DJe de 12/05/2017 - grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HASTA PÚBLICA. SUPOSTA NECESSIDADE DE REAVALIAÇÃO DO BEM. REVISÃO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. No presente caso, o Tribunal de origem amparou-se nos elementos fático-probatórios dos autos para concluir acerca da desnecessidade de reavaliação do bem levado a hasta pública. A revisão desse entendimento exigiria o reexame do contexto fático-probatório, o que é vedado em sede de recurso especial, nos termos da Súmula nº 7/STJ.
+2. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 635.839/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe de 10/11/2015 - grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PENHORA. NOVA AVALIAÇÃO DO BEM. ART. 683 DO CPC. HIPÓTESES. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Para prevalecer a pretensão em sentido contrário à conclusão do tribunal de origem, que entendeu inexistir fundada dúvida acerca do valor atribuído ao bem e que não se enquadram, na espécie, as hipóteses autorizadoras de nova avaliação, mister se faz a revisão do conjunto fático-probatório dos autos, o que, como já decidido, é inviabilizado, nesta instância superior, pela Súmula nº 7 desta Corte.
+2. Agravo regimental não provido."
+(AgRg no AREsp 240.320/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/02/2013, DJe de 04/03/2013 - grifou-se)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
