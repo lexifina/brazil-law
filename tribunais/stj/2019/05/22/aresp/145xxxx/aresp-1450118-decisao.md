@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto pela FUND. DE APOIO A PESQUISA E EXTENSAO S.J. RIO PRETO contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 191):
+Ação Rescisória. Alegação de ofensa ao artigo 12 da Lei n 8.429/92 de 02 de junho de 1992. Efetivamente identificada violação a norma jurídica. Aplicação da pena se deu em desacordo com a legislação vigente. Admissibilidade da rescisão, ainda que parcial. Ação rescisória parcialmente procedente.
+Embargos de declaração rejeitados (e-STJ fls. 226/229).
+No especial obstaculizado, a parte ora agravante aponta violação do art. 1.022 do Código de Processo Civil/2015 e sustenta que o Tribunal de origem não se manifestou sobre pontos essenciais à solução da controvérsia, em especial, acerca dos demais temas apresentados na ação rescisória.
+Depois de contra-arrazoado (e-STJ fls. 246/259), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que: (I) inexiste ofensa ao art. 1.022 do Código de Processo Civil/2015; (II) incide a Súmula n. 7 do STJ (e-STJ fls. 260/262).
+Na presente irresignação, o agravante alega, em resumo, que o recurso obstado atende aos pressupostos de admissibilidade e, ao final, reitera os argumentos anteriormente expendidos.
+Contraminuta às e-STJ fls. 277/291.
+Em parecer (e-STJ fls. 302/307), o Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial.
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Considerado isso, verifico que a irresignação recursal não merece prosperar.
+Quanto à alegada ofensa ao art. 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como se confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.  ..  (REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017).
+In casu, a Corte de origem julgou parcialmente procedente a ação rescisória, para reduzir a penalidade de proibição de contratar com o Poder Público (ou dele receber qualquer espécie de benefício) no prazo de 3 (três) anos, nos termos do que preceitua o art. 12, III, da Lei n. 8.429/92.
+Contudo, em relação aos demais temas da rescisória, afirmou que "apreciou toda a matéria vertida pelo embargante, pronunciando-se com clareza e suficiente fundamentação sobre a controvérsia trazida à prestação jurisdicional e o motivo que levou a manutenção, no ponto alegado omisso, do acórdão rescindendo" (e-STJ fl. 228).
+Ademais, apontou que "não se reconhece, portanto, nenhuma omissão de ponto fundamental anotando-se, por oportuno, que os embargos de declaração não se prestam à rediscussão de temas, à luz dos argumentos reinvocados, alegadamente relevantes para a solução da quaestio juris, na busca de decisão que seja favorável ao embargante" (e-STJ fl. 229).
+Assim, não há que se falar em ofensa ao dispositivo invocado.
+Reporto-me, também, ao bem lançado parecer ministerial, às e-STJ fls. 302/307.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
