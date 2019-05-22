@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de carta rogatória por meio da qual a Justiça portuguesa solicita que se proceda à intimação do interessado de sentença que o condenou pelo crime de abuso de confiança fiscal.
+A intimação prévia foi recebida por terceiro, conforme os documentos postais de fls. 19-20. Transcorreu in albis o prazo para apresentar impugnação (fl. 21).
+A Defensoria Pública da União, na qualidade de curadora especial, apresentou impugnação às fls. 26-28 e requereu que o interessado seja intimado por oficial de justiça.
+O Ministério Público Federal opinou pela concessão da ordem (fl. 30).
+É o relatório. Decido.
+Apesar de a intimação prévia ser procedimento preliminar da concessão do exequatur, os autos serão remetidos ao juízo federal competente para o cumprimento da diligência objeto da rogatória, nos termos do art. 216-V do RISTJ. A parte interessada ainda terá oportunidades para, caso queira, manifestar seu inconformismo.
+No mais, o objeto da presente carta rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, concedo o exequatur.
+Assim, remeta-se a comissão à Justiça Federal, à Seção Judiciária do Estado de Minas Gerais, para as providências cabíveis.
+Cumpra-se a diligência em 60 dias.
+Após, devolvam-se os autos ao STJ para que sejam enviados ao país de origem por meio da autoridade central competente.
+Publique-se. Intimem-se.
