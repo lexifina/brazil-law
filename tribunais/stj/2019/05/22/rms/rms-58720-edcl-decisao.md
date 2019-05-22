@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. PROCESSO ADMINISTRATIVO DISCIPLINAR. DECADÊNCIA DO DIREITO DE IMPETRAÇÃO DO MANDADO DE SEGURANÇA. OMISSÃO NA DECISÃO EMBARGADA. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração no recurso ordinário em mandado de segurança opostos por [NOME] em face de decisão assim ementada:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. PROCESSO ADMINISTRATIVO DISCIPLINAR. NULIDADE DE ATO ADMINISTRATIVO SANCIONADOR. TERMO INICIAL DO PRAZO DECADENCIAL. APRESENTAÇÃO DE PEDIDO DE REVISÃO. INTERRUPÇÃO DO PRAZO. SÚM. N. 430/STF. NÃO OCORRÊNCIA. RECURSO ORDINÁRIO NÃO PROVIDO.
+Nas razões dos aclaratórios, aduz a parte ora Embargante que houve omissão da decisão embargada quanto ao argumento de não ocorrência de decadência do direito de impetração do mandado de segurança já que "o ato que motivou a interposição do Mandado de Segurança foi o da lavra do impetrado que julgou improcedente a revisão administrativa do recorrente". Sustenta, ainda, que "a revisão administrativa de fato ocorreu com a manutenção da punição imposta, assim o mandado de segurança voltou-se com a decisão revisional do Governador, fls.51, publicada em 24/10/2017 , enquanto que o ajuizamento do mandado de segurança se verificou em 20/02/2018, logo não fluíram 120 dias entre a publicação do ato guerreado e a impetração do mandado de segurança" (e-STJ fl. 1778).
+Pede, assim, o acolhimento dos aclaratórios com efeitos infringentes.
+É o relatório. Decido.
+Incide o Enunciado Administrativo n. 3/STJ: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Não há a omissão suscitada nos aclaratórios.
+Isso porque a decisão ora embargada expôs, de forma fundamentada, as premissas nas quais se assentou a conclusão de houve a decadência do mandado de segurança. Senão vejamos:
+De todo modo, o instrumento apresentado para a revisão de processo administrativo disciplinar não é capaz de interromper o prazo decadencial do mandado de segurança. Isso porque impetração do mandado de segurança não depende, em regra, do esgotamento das vias administrativas.
+Como exceção, observa-se a Súm. n. 430/STF, que vincula a interrupção do mandado de segurança ao exame de um recurso administrativo com efeito suspensivo. Cabe mencionar que o enunciado sumular se sustenta a partir das regras próprias do mandado de segurança. Afinal, nos termos do art. 5º, I, da Lei n. 12.016/2009, não cabe mandado de segurança quando do ato coator caiba recurso administrativo com efeito suspensivo, independentemente de caução.
+A irresignação administrativa do recorrente não teve efeito suspensivo à decisão administrativa disciplinar. Por essa razão, a incidência da Súm. n. 430/STF, declarada pelo Tribunal de origem, não deve ser reformada.
+Senão vejamos ainda o seguinte precedente prolatado em caso semelhante ao presente:
+PROCESSUAL CIVIL. PROCESSO ADMINISTRATIVO DISCIPLINAR. POLICIAL MILITAR. PENA DE EXPULSÃO. DATA DA CIÊNCIA DO ATO IMPUGNADO. PEDIDO DE REVISÃO NA ESFERA ADMINISTRATIVA QUE NÃO SUSPENDE NEM INTERROMPE A DECADÊNCIA. RECONHECIDA A DECADÊNCIA DO DIREITO DE IMPETRAR O MANDADO DE SEGURANÇA.
+1. Trata-se de Mandado de Segurança em que se alega que a existência de pedido de revisão administrativa do ato que expulsou o impetrante do corpo da Polícia Militar do Estado de São Paulo suspende o prazo decadencial para a impetração do mandamus.
+2. O prazo de 120 (cento e vinte) dias para impetração do Mandado de Segurança tem início na data em que o impetrante toma ciência do fato impugnado, nos termos do art. 23 da Lei 12.016/2009.
+3. O pedido de reconsideração ou o recurso administrativo destituído de efeito suspensivo não têm o condão de suspender ou interromper o curso do prazo decadencial, conforme a Súmula 430/STF: "Pedido de reconsideração na via administrativa não interrompe o prazo para o mandado de segurança". Precedentes: AgInt no RMS 56.025/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 26/09/2018; AgInt no RMS 48.480/MA, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 25/06/2018; AgRg no RMS 42.870/MT, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 26/11/2014.
+4. In casu, o ato de expulsão do impetrado foi publicado no dia 8.2.2017, sendo esse o termo inicial para a contagem do lapso decadencial de 120 dias previsto no art. 23 da Lei 12.016/2009. Como o Mandado de Segurança foi manejado apenas em 12.1.2018, um anos após a ciência do ato impugnado, ocorreu a consumação do prazo decadencial para a impetração do writ, não se cogitando da interrupção do prazo em virtude da interposição do recurso administrativo.
+5. Recurso Ordinário não provido.
+(RMS 58.712/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/12/2018, DJe 05/02/2019)
+Assim, não há falar em omissão na decisão embargada.
+Ante o exposto, REJEITO os EMBARGOS DE DECLARAÇÃO.
+Publique-se. Intimem-se.
