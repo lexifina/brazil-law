@@ -1,0 +1,35 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ, fls. 180-181):
+AGRAVO INTERNO EM AMS - REAJUSTE DE BENEFICIO PREVIDENCIÁRIO - ATO OMISSIVO CONTINUADO - DECADÊNCIA AFASTADA - EXISTÊNCIA DE PROVA PRÉ-CONSTITUÍDA NOS AUTOS - DIREITO LÍQUIDO E CERTO CONFIGURADO - RAZÕES INSUFICIENTES AO JUÍZO DE RETRATAÇÃO.
+I - A decisão agravada deu provimento à apelação interposta pela Impetrante para conceder a segurança em ação que postulava a complementação do valor do benefício de pensão por morte de ex-ferroviário, de acordo como disposto na Lei nº 8.186/91;
+II - Não se operou a decadência do direito de impetrar, mandado de segurança, sendo inaplicável ao caso a jurisprudência equivocadamente colacionada pelo Agravante, uma vez que se refere especificamente a casos de suspensão ou cessação de benefícios previdenciários. Tratando-se, na hipótese, de reajuste de benefício previdenciário de trato sucessivo, que se encontra ativo, onde a lesão ao direito postulado ocorre a cada pagamento mensal efetuado, o prazo para a impetração renova-se continuamente, afastando assim o instituto da decadência, de que trata o art. 18 da Lei 1.533/51. Precedente do STF;
+III - Não procede a alegação de que a certeza e a liquidez do direito postulado não foram comprovados de plano. Ao contrário, foram acostados aos autos, pela Impetrante, copias dos contracheques da sua pensão e da aposentadoria recebida por um paradigma, além de uma tabela referente a reajustes (fls. 15/19), que comprovam a defasagem do benefício alegada na inicial. Assim, observando-se que há nos autos prova pré-constituída do direito pleiteado, não há que se falar em afronta ao disposto no art. 10 da Lei do Mandado de Segurança;
+IV - As razões expendidas neste agravo interno não são suficientes ao juízo positivo de retratação, uma vez que não trouxeram alegações que pudessem convencer este Relator em sentido contrário ao decidido, tratando-se, na verdade, de uma mera repetição dos argumentos expostos na contestação. Por outro lado, a decisão recorrida está bem fundamentada, não merecendo, portanto, qualquer reparo;
+V - Agravo Interno desprovido.
+Os embargos de declaração da União foram rejeitados (e-STJ, fls. 194-201).
+O agravo interno da União foi igualmente improvido (e-STJ, fls. 216-224).
+Os embargos de declaração opostos pela União em desfavor ao acórdão que julgou o agravo interno por ela apresentado foram improvidos (e-STJ, fls. 237-241).
+Sustenta o recorrente, em síntese, ofensa ao art. 18 da Lei n. 1.533/1951, ao não ter o Tribunal de origem reconhecido a ocorrência de decadência. Defende que o ato de concessão da pensão, ou de adicional a título de complementação, é ato único de efeitos permanentes, pois se concede uma nova pensão ou uma nova complementação a cada mês em que se pagam os proventos, mas há apenas uma concessão, datada de 1984, que produz efeitos permanentes.
+Parecer do Ministério Público Federal opinando pelo não provimento do recurso especial, se conhecido (às e-STJ, fls. 280-283).
+É o relatório.
+O recurso não merece provimento.
+No caso em questão, o insurgente alega que o ato administrativo impugnado é único, de efeito permanente, ocorrido em 1984. Portanto, alega que estaria decaído o direito de impetrar o mandado de segurança.
+Entretanto, o acórdão recorrido não merece reparo. A jurisprudência desta Corte é firme no sentido de que o ato de reajustar em valor inferior ou não reajustar benefício configura conduta omissiva ilegal da administração, que envolve obrigação de trato sucessivo. Assim, o prazo decadencial estabelecido pela Lei do Mandado de Segurança se renova de forma continuada mês a mês.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PREJUDICIAL DE DECADÊNCIA. NÃO OCORRÊNCIA. RELAÇÃO DE TRATO SUCESSIVO. LEI LOCAL. NATUREZA JURÍDICA. EXAME. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO REGIMENTAL IMPROVIDO.
+I. De acordo com a jurisprudência, "em se tratando de impetração contra ato omissivo da Administração, que envolve obrigação de trato sucessivo, o prazo para o ajuizamento da ação mandamental se renova mês a mês" (STJ, AgRg no AREsp 333.890/CE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 29/10/2013). Em igual sentido: "Tratando-se de ato omissivo da Administração Pública, de forma continuada, consistente na ausência do pagamento de reajuste, benefício ou vantagem que o servidor entende devido, o prazo decadencial para impetrar o Mandado de Segurança se renova a cada mês. Assim, a relação envolve prestação de trato sucessivo, pois não houve a negativa do próprio direito reclamado pelo impetrante, afastada a decadência, nos termos da Súmula 85 desta Corte" (STJ, AgRg no REsp 1.338.443/PE, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 25/03/2013).
+II. Na hipótese dos autos, o recorrente entende que o prazo para impetrar o Mandado de Segurança não se renovaria mensalmente, porquanto a legislação local, que concedera os reajustes, teria caráter de norma de efeitos concretos. Contudo, aferir se a Lei Estadual 9.703/2012 seria lei de efeitos concretos é providência vedada, em sede de Recurso Especial, ante o óbice da Súmula 280/STF.
+III. Agravo Regimental improvido.
+(AgRg no AREsp 593.738/PB, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 20/8/2015, DJe 3/9/2015)
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. DECADÊNCIA AFASTADA. ATO OMISSIVO CONTINUADO. PRESTAÇÃO DE TRATO SUCESSIVO. SÚMULA 83 DO STJ.
+A jurisprudência desta Corte firmou entendimento segundo o qual não se verifica a decadência para a impetração do mandado de segurança quando há conduta omissiva ilegal da Administração, uma vez que o prazo estabelecido pelo art. 18 da Lei n. 1.533/51 renova-se de forma continuada. Trata-se, portanto, de relações de trato sucessivo. Incidência da Súmula 83/STJ.
+Agravo regimental improvido.
+(AgRg no AREsp 243.070/CE, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 7/2/2013, DJe 19/2/2013)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO. APOSENTADORIA POR INVALIDEZ. VALOR DO BENEFÍCIO. REVISÃO. MANDADO DE SEGURANÇA. PRESTAÇÃO DE TRATO SUCESSIVO. DECADÊNCIA NÃO CONFIGURADA.
+1. Hipótese em que a agravada impetrou Mandado de Segurança com o fim de receber o valor correto da sua aposentadoria por invalidez, que está sendo paga abaixo do valor estabelecido pelo Tribunal de Contas Estadual.
+2. Em se cuidando de ato omissivo continuado, que envolve obrigação de trato sucessivo, o prazo para o ajuizamento da ação mandamental renova-se mês a mês, não havendo falar em decadência do direito à impetração.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 42.160/GO, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/2/2012, DJe 6/3/2012)
+ Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
