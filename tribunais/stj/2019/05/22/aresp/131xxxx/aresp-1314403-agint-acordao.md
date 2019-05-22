@@ -1,0 +1,70 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. FUNDAMENTO INATACADO. SÚMULA 283/STF.
+1. "É assente no STJ que rever a conclusão adotada pelo Tribunal de origem, quanto ao princípio da causalidade ou à sucumbência recíproca, implica o revolvimento do contexto fático-probatório, o que é inviável em Recurso Especial, em virtude do óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (REsp 1.760.160/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 21/11/2018).
+2. A Corte de origem afirmou que seria incabível a condenação em honorários sucumbenciais ante a incidência dos arts. 3º, § 3º, e 8º do CPC/2015, que tratam, respectivamente, sobre o princípio da solução consensual de conflitos e sobre os princípios da proporcionalidade e razoabilidade. O referido fundamento não foi impugnado pela parte recorrente, fazendo incidir a Súmula 283/STF.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado pelo Estado de Minas Gerais contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões, a parte insurgente repisa os argumentos anteriormente expendidos, apontando que seria cabível a condenação da empresa contribuinte em honorários advocatícios, uma vez que teria dado causa à demanda. Assevera, assim, que a empresa, ao não pagar o débito, deu ensejo à instauração do executivo fiscal e, por isso, deveria arcar com o pagamento dos honorários, em razão do princípio da causalidade ou da sucumbência.
+Aduz, ainda, que a jurisprudência do STJ é assente no sentido de que os honorários advocatícios são devidos pela parte executada na hipótese de extinção da execução fiscal em decorrência do pagamento extrajudicial do quantum, após ajuizada a ação e mesmo antes de promovida a citação, tendo em vista o princípio da causalidade.
+No mais, alega que não se aplicaria ao caso o óbice da Súmula 7/STJ, na medida em que os fatos e provas estariam todos delineados no acórdão recorrido.
+Assim, protesta pela reconsideração da decisão agravada.
+Impugnação às e-STJ, fls. 323-352.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): O presente recurso não merece prosperar.
+Como consignado anteriormente, o Tribunal de origem concluiu que o próprio Estado de Minas Gerais teria dado causa à demanda, uma vez que estaria em curso, no exato momento do ajuizamento da execução fiscal, tratativas administrativas de satisfação do débito. Também apontou que, diante da pretensão da empresa contribuinte em satisfazer a obrigação tributária extrajudicialmente haveria evidente inutilidade da execução fiscal, de modo que o seu ajuizamento teria como único fim perceber honorários advocatícios.
+Para se chegar à solução diversa, no sentido de que seria necessário o ajuizamento da execução fiscal para a satisfação do crédito tributário, reconhecendo a existência da sucumbência, seria necessária a incursão na seara fático-probatória, inviável, na via eleita, a teor da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO AO ART. 5º DA LINDB. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. PRÁTICA ABUSIVA. VALOR DA MULTA. VERIFICAÇÃO DE CRITÉRIOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. NORMA LOCAL. SÚMULA 280/STF. PORTARIA PROCON. ATO NORMATIVO NÃO INSERIDO NO CONCEITO DE LEI FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O STJ não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes ou apenas citada no acórdão, mas sim que a respeito tenha havido efetivo debate no acórdão recorrido.
+3. O recurso especial não é, em razão da Súmula 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa.
+4. O exame da matéria demandaria a análise de legislação local, o que é inviável nesta via, nos termos da Súmula 280/STF.
+5. O entendimento jurisprudencial consolidado no STJ é no sentido que os atos normativos internos, tais como os atos normativos, as resoluções, portarias, regimentos internos não se inserem no conceito de lei federal, não sendo possível a sua apreciação pela via do recurso especial.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.145.530/SP, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/10/2017, DJe 31/10/2017)
+Ademais, também é assente no STJ que rever a conclusão adotada pelo Tribunal a quo quanto ao princípio da causalidade também implica o revolvimento do contexto fático-probatório.
+Em caso análogos:
+PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 535 DO CPC/1973. INOCORRÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS E ÔNUS DA SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. NECESSIDADE DE REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. A pretensão da ora recorrente é inverter a distribuição dos ônus sucumbenciais, aplicando o princípio da causalidade. Afirma que quem deu causa à propositura da Medida Cautelar foi a parte recorrida.
+5. Ao dirimir a controvérsia, a Corte de origem consignou, de forma expressa, que "não foi a União que deu causa ao ajuizamento do feito quando recusou, acertadamente, a carta de fiança apresentada".
+6. É assente no STJ que rever a conclusão adotada pelo Tribunal de origem, quanto ao princípio da causalidade ou à sucumbência recíproca, implica o revolvimento do contexto fático-probatório, o que é inviável em Recurso Especial, em virtude do óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.760.160/RJ, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/9/2018, DJe 21/11/2018)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. CONDENAÇÃO DA EXEQUENTE AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 07/12/2017, que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Trata-se, na origem de Agravo de Instrumento, interposto em face de decisão que julgara extinta execução fiscal, por suspensão da exigibilidade dos créditos tributários, sem fixação de verba honorária.
+III. O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "restou comprovado o erro do contribuinte, que informou códigos de receita diversos para o tributo declarado em DCTF e compensado em DCOMP, conforme documentos juntados, pelo que se afasta a possibilidade de condenação da exequente em verba honorária", e que, "ainda que venha a prevalecer a extinção determinada na origem, a PFN não poderia ser condenada em verba honorária, por não ter dado causa às inscrições", de modo que, em razão do princípio da causalidade, não haveria motivo para a condenação do Fazenda Nacional ao pagamento de honorários sucumbenciais. Assim, a modificação das conclusões a que chegou a Instância a quo - de modo a acolher a tese da parte ora recorrente, em sentido contrário - demandaria, inarredavelmente, o revolvimento do acervo probatório dos autos, o que é inviável, em sede de Recurso Especial, em face da Súmula 7 desta Corte.
+IV. Agravo interno improvido.
+(AgInt no REsp 1.572.352/SP, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 15/5/2018)
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMBARGOS. HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO ART. 147, § 2º, DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE.
+1. A configuração do prequestionamento pressupõe debate e decisão prévios pelo colegiado, ou seja, emissão de juízo sobre o tema. Se o Tribunal de origem não adotou entendimento a respeito do fato veiculado nas razões recursais, inviabilizada fica a análise sobre a violação dos preceitos evocados pelo recorrente.
+2. O Tribunal de origem não analisou, ainda que implicitamente, o art. 147, § 2º, do Código Tributário Nacional. Desse modo, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal. Incide ao caso, mutatis mutandis, o disposto nos enunciados de números 282 e 356 do STF.
+3. Segundo o princípio da causalidade, aquele que der causa à instauração da demanda ou do incidente processual deve arcar com as despesas deles decorrentes. Assim, com fundamento na causalidade, o Tribunal a quo entendeu por condenar a recorrente a arcar com os ônus sucumbenciais.
+4. Não cabe a esta Corte rever entendimento adotado pelo Tribunal de origem quanto ao princípio da causalidade, porquanto demandaria o revolvimento do contexto fático-probatório dos autos, inviável em recurso especial, nos termos da Súmula 7/STJ.
+5. Fica prejudicada a análise do recurso especial no que tange à alínea "c" do permissivo constitucional, porquanto a ausência de prequestionamento do dispositivo legal tido como violado e a incidência da Súmula 7/STJ impossibilitam a demonstração da similitude fática entre os arestos paradigmas e a decisão que se quer infirmar. Precedentes.
+Agravo regimental improvido.
+(AgRg no REsp 1.506.945/PR, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, DJe 24/3/2015)
+Ainda que superado tal óbice, o recurso também não deveria ser conhecido nesse ponto ante a aplicação da Súmula 283 do STF, tal como consignado pelo juízo de admissibilidade.
+O acórdão recorrido também fundamentou a impossibilidade de condenação em honorários sucumbenciais por entender serem aplicáveis os arts. 3º, § 3º, e 8º do CPC/2015, que tratam, respectivamente, sobre o princípio da solução consensual de conflitos e sobre os princípios da proporcionalidade e da razoabilidade.
+No ponto (e-STJ, fl. 254):
+ ..  desnecessária a fixação de honorários advocatícios no presente caso, face a evidente inutilidade da presente execução fiscal, o que vai ao encontro, inclusive, do espírito do novo CPC/15 que expressamente determina ser incumbência dos juízes, advogados, defensores públicos e membros do Ministério Público estimularem métodos de solução consensual de conflitos (art. 3º, § 3º, CPC/15), bem como impõe ao juiz, quando da aplicação do ordenamento jurídico, atender, dentre outras coisas, aos fins sociais e à proporcionalidade e razoabilidade (art. 8º do CPC/15), não se mostrando proporcional e ou razoável o arbitramento de honorários em favor da Procuradoria do Estado em 10% do valor da causa, o que corresponderia a R$235.758,30 (duzentos e trinta e cinco mil setecentos e cinquenta e oito reais e trinta centavos), quando a execução fiscal foi proposta açodadamente, quando em curso tratativas objetivando a solução da Pendência, visando, portanto a ação, ao que tudo indica, a condenação da parte à verba honorária em valores vultuosos, considerando o quantum em deliberação.
+Contudo, esse fundamento não foi devidamente combatido na peça de recurso especial, o que atrai a aplicação da Súmula 283/STF.
+Confiram-se os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. SINDICATO. SUBSTITUIÇÃO PROCESSUAL. LEGITIMIDADE EXTRAORDINÁRIA RECONHECIDA. DISCUSSÃO SOBRE INTERESSE DE TODA A CATEGORIA REPRESENTADA. ENTENDIMENTO PACÍFICO DESTE STJ. SÚMULA 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS. INAFASTABILIDADE DA SÚMULA 283/STF. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+ ..
+2. Por sua vez, a ausência de impugnação de todos os fundamentos, suficientes por si sós, de manter o acórdão atrai a aplicação da Súmula 283/STF ao Recurso Especial em apreço.
+3. Agravo Interno da UNIÃO a que se nega provimento.
+(AgInt no REsp 1.560.040/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 1/4/2019, DJe 10/4/2019)
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. PRAZO PRESCRICIONAL. NÃO DEMONSTRAÇÃO DA REALIZAÇÃO DA COMPENSAÇÃO E, PORTANTO, DA SUSPENSÃO DO PRAZO. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA 283/STF. NECESSIDADE DE REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+ ..
+2. A Corte de origem afirmou que não houve comprovação acerca da efetiva realização do pedido de compensação, nem tampouco da sua glosa pela autoridade fiscal, de forma que não foi demonstrada a alegada suspensão do prazo prescricional. Referido fundamento não foi impugnado pela recorrente, fazendo incidir a Súmula 283/STF.
+3. Para a revisão da conclusão da Corte de origem a respeito da ocorrência ou não da compensação e, por conseguinte, da suspensão do prazo prescricional, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado a esta Corte em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no REsp 1.221.397/PR, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/2/2014, DJe 24/2/2014)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
