@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. AÇÃO ANULATÓRIA. AFERIÇÃO INDIRETA DE BASE DE CÁLCULO. REGULARIDADE FORMAL E SUBSTANCIAL DO PROCEDIMENTO. PREVALÊNCIA DO LAUDO DO ASSISTENTE TÉCNICO. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O decisum embargado aplicou a Súmula 7/STJ, tendo em vista que, para modificar o entendimento firmado no acórdão recorrido - aferindo se as conclusões do laudo pericial prevalecem sobre as notificações fiscais de lançamento de débito -, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial.
+2. Os argumentos suscitados pela parte embargante não dizem respeito aos vícios de omissão, obscuridade ou contradição, mas a supostos erros de julgamento ou apreciação na causa, o que evidencia nítido intento de rediscussão do mérito.
+3. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022, II, do CPC/2015, ressaltando que os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem para o prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário. Precedentes do STJ.
+4. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ, com a seguinte ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. AÇÃO ANULATÓRIA. AFERIÇÃO INDIRETA DE BASE DE CÁLCULO. REGULARIDADE FORMAL E SUBSTANCIAL DO PROCEDIMENTO. PREVALÊNCIA DO LAUDO DO ASSISTENTE TÉCNICO. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Constata-se que não se configura a ofensa ao art. 535 do CPC/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+3. Hipótese em que o Tribunal de origem, com base nos elementos de convicção dos autos, concluiu que a aferição indireta da base de cálculo seguiu as premissas de utilização, adotando uma sistemática compatível com a razoabilidade e proporcionalidade.
+4. É certo que o ordenamento jurídico brasileiro adotou o princípio do livre convencimento motivado do julgador, em que o juiz pode fazer uso de outros meios para formar sua convicção. O magistrado não se encontra adstrito ao laudo pericial quando da apreciação e valoração das alegações e das provas existentes nos autos, podendo decidir contrário a ele quando houver nos autos outros elementos que assim o convençam, como ocorre no presente caso.
+5. Para modificar o entendimento firmado no acórdão recorrido - aferindo se as conclusões do laudo pericial prevalecem sobre as notificações fiscais de lançamento de débito -, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme a Súmula 7/STJ.
+6. Agravo Interno não provido.
+A embargante alega que houve omissão, contradição e obscuridade no acórdão objurgado. Insurge-se contra a aplicação da Súmula 7/STJ. Aduz a imprestabilidade da aferição indireta realizada, sob o argumento de que "existem documentos hábeis para quantificar o valor eventualmente devido pela Embargante com a precisão requerida e não por aferição indireta" (fl. 8047, e-STJ).
+Defende (fls. 8028-8048, e-STJ):
+Omisso, portanto, o v. aresto recorrido vez que deixou de analisar como poderia o Tribunal de origem ter respondido satisfatoriamente aos embargos de declaração da ora Embargante se não refutou o argumento acerca da impossibilidade de reunir, no exíguo prazo determinado pela ora agravada, os documentos solicitados, nos idos de 1996, que se encontravam espalhados por diversos canteiros de obras na época possuídos pela Embargante nos mais distantes rincões do País.
+(..)
+Igualmente, foi omisso acerca da alegação suscitada desde a origem sobre a diferença de 44% (quarenta e quatro por cento) encontrada a mais pelo Perito Judicial, fruto da análise documentação possuída e disponibilizada pela Embargante, demonstrando, portanto, que as bases adotadas pela fiscalização não se sustentavam (..)
+A fiscalização da Embargada, para imputar o valor tido como devido pela Embargante, adotou elementos que, conforme posteriormente verificados pela perícia, se apresentavam dissociados da realidade, motivo dos abusivos lançamentos.
+(..)
+Repita-se, existem documentos hábeis para quantificar o valor eventualmente devido pela Embargante com a precisão requerida e não por aferição indireta.
+Não foi apresentada impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 26.3.2019.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+O decisum embargado aplicou a Súmula 7/STJ, tendo em vista que, para modificar o entendimento firmado no acórdão recorrido - aferindo se as conclusões do laudo pericial prevalecem sobre as notificações fiscais de lançamento de débito -, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial.
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão, contradição ou obscuridade no decisum embargado. As alegações da parte embargante denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Além disso, é de conhecimento geral que os Aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais. Com esse entendimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. Incabíveis embargos de declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+4. Embargos de declaração rejeitados. (EDcl no AgRg no Ag 936.404/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/09/2008, DJe 14/10/2008).
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito à multa prevista no Código de Processo Civil.
+É como voto.
