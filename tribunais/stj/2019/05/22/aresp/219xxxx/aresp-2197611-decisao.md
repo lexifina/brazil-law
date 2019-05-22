@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. INCORPORAÇÃO DE QUINTOS. INEXIGIBILIDADE DO TÍTULO. ATUALIZAÇÃO MONETÁRIA.
+1. O título executivo (ação coletiva nº 2006.70.0013563-3) transitou em julgado na data de 08/12/2010. Por sua vez, a decisão do STF proferida no RE 638115, que entendeu pela inexistência do direito de incorporação dos quintos no período de abril de 1998 a setembro de 2001, foi proferida em 18/03/2015. Logo, é inaplicável ao caso o disposto no art. 535, § 5º, do NCPC, eis que a decisão proferida pelo STF é posterior ao trânsito em julgado do título executivo.
+2. A validade jurídico-constitucional da correção monetária e dos juros moratórios incidentes sobre as condenações impostas à Fazenda Pública, nos termos previstos pelo art. 1º-F da Lei 9.494/97, com a redação da Lei 11.960/2009, foi objeto de debate no STF, em sede de repercussão geral, suscitada no RE 870.947. Na sessão de 20/09/2017, o Plenário do STF proferiu julgamento aprovando a tese de repercussão geral de nº 810, reconhecendo a inconstitucionalidade da atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança.
+Os Embargos de Declaração foram rejeitados nos seguintes termos (fl. 154, e-STJ):
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. TEMA 810/STF. CORREÇÃO MONETÁRIA. RE 638115. TEMA 395. QUINTOS. INEXIBILIDADE DO TÍTULO. PREQUESTIONAMENTO. OMISSÃO. INOCORRÊNCIA.
+1. No caso dos autos não se veri ca nenhum dos vícios previstos no artigo 1.022 do CPC de 2015 a justi car a interposição de embargos declaratórios.
+2. A discussão referente à inexigibilidade do título executivo já se encontra preclusa. A matéria foi debatida nos autos da ação mandamental que veio a constituir o título executivo (Mandado de Segurança Coletivo nº 2006.70.00.013563-3) e encontra-se preclusa.
+3. O Supremo Tribunal Federal, na decisão proferida no Recurso Extraordinário n.º 870.947, reconheceu a existência de repercussão geral da questão atinente ao regime de atualização monetária e juros moratórios incidentes sobre condenações judiciais impostas à Fazenda Pública (art. 1º-F da Lei n.º 9.494/97, com a redação dada pela Lei n.º 11.960/09).
+4. O pronunciamento do STF é vinculante, devendo ser adotado a orientação que, ao  nal, prevaleceu na matéria, sendo de se ressaltar que a e cácia de decisão proferida pela Suprema Corte tem como termo inicial o momento em que se tornou público o seu conteúdo (art. 1.040 do CPC), não sendo exigível, para a observância da tese jurídica nela estabelecida, que se opere o trânsito em julgado.
+5. Embargos declaratórios improvidos.
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 489, § 1º, IV, 535, 1.022, 1.035, § 5º, e 1.057 do CPC/2015; 741, II, parágrafo único, do CPC/1973; 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009.
+Contrarrazões apresentadas às fls. 317-355, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21.2.2019.
+Verifica-se que a matéria tratada nos autos teve sua repercussão geral reconhecida pelo Plenário do Supremo Tribunal Federal no julgamento do RE 870.947/SE (Tema 810 - Validade da correção monetária e dos juros moratórios incidentes sobre as condenações impostas à Fazenda Pública, conforme previstos no art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009).
+Em recente decisão, o STF deferiu efeito suspensivo aos Embargos de Declaração, impossibilitando a imediata aplicação do decisum embargado antes da análise pela Suprema Corte do pleito de modulação dos efeitos do posicionamento estabelecido.
+Vejamos:
+Desse modo, a imediata aplicação do decisum embargado pelas instâncias a quo, antes da apreciação por esta Suprema Corte do pleito de modulação dos efeitos da orientação estabelecida, pode realmente dar ensejo à realização de pagamento de consideráveis valores, em tese, a maior pela Fazenda Pública, ocasionando grave prejuízo às já combalidas finanças públicas. Ex positis, DEFIRO excepcionalmente efeito suspensivo aos embargos de declaração opostos pelos entes federativos estaduais, com fundamento no artigo 1.026, §1º, do CPC/2015 c/c o artigo 21, V, do RISTF. (ED, Relator(a): Min. LUIZ FUX, julgado em 24/09/2018, publicado em processo eletrônico DJe-204 Divulg 25/09/2018 PUblic 26/09/2018).
+Embora a jurisprudência do STJ tenha firmado o entendimento de ser desnecessário aguardar o trânsito em julgado para adoção do paradigma firmado em recurso repetitivo ou de repercussão geral, deve ser respeitado o efeito suspensivo atribuído pelo STF às causas relacionadas ao supracitado Recurso Extraordinário em face da possibilidade de modificação do julgado. Nesse sentido: REsp 1.771.610/AL, Relator Ministro Herman Benjamin, DJe 20/11/2018.
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC/1973 ou 1.039 a 1.041 do CPC/2015, após a publicação do acórdão proferido no referido Recurso Extraordinário:
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Supremo Tribunal Federal; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da tese firmada no julgamento da matéria com repercussão geral reconhecida.
+Publique-se.
+Intimem-se.
