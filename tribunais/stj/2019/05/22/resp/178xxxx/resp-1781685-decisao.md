@@ -1,0 +1,54 @@
+DECISÃO
+O Ministério Público do Distrito Federal e Territórios interpõe recurso especial contra acórdão que, ao apreciar apelação, reduziu para 6 (seis) anos e 8 (oito) meses de reclusão, mais 50 (cinquenta) dias-multa, a pena imposta a RAPHAEL RIBEIRO DE OLIVEIRA, condenado por infração ao art. 157, §2º, I e II, do Código Penal, nos termos da seguinte ementa (e-STJ fls. 293/294):
+PENAL E PROCESSUAL PENAL. [NOME] PELO EMPREGO DE ARMA E CONCURSO DE PESSOAS. PRELIMINARES DE INÉPCIA DA DENÚNCIA E NULIDADE DO AUTO DE RECONHECIMENTO DE PESSOA. REJEIÇÃO. MATERIALIDADE E AUTORIA COMPROVADAS. CONDENAÇÕES MANTIDAS. DOSIMETRIA. CIRCUNSTÂNCIAS DO CRIME. CAUSA DE AUMENTO. EXCLUSÃO. CONTINUIDADE DELITIVA. QUATRO CRIMES. FRAÇÃO DE 1/4 MANTIDA. REGIME SEMIABERTO MANTIDO. PENA PECUNIÁRIA REDUZIDA.
+1. Preenchidos os requisitos previstos no art. 41 do Código de Processo Penal, não há que se falar em inépcia da denúncia, sobretudo se ao denunciado foi possibilitado o exercício do contraditório e da ampla defesa, sendo rejeitada essa preliminar.
+2. Rejeita-se a preliminar de nulidade do auto de reconhecimento de pessoa, pois não houve a ausência das formalidades nele previstas quanto ao reconhecimento de pessoa, nem afasta a credibilidade da palavra dos lesados, especialmente quando corroborada por outros meios probatórios, uma vez que feito o reconhecimento por fotografia do réu por um dos lesados, este foi ratificado pelo reconhecimento pessoal por dois outros lesados.
+3. Mantém-se a condenação do réu pelos quatro crimes de roubo circunstanciado, pois comprovado que, mediante emprego de arma de fogo e em concurso de pessoas, subtraiu os objetos pertencentes a quatro lesados.
+4. Afasta-se a análise desfavorável das circunstâncias do crime quando, existentes duas ou mais causas de aumento, o juiz utilizar uma para agravar a pena-base e as demais como majorantes.
+5. Conforme entendimento pacificado na doutrina e na jurisprudência, a majoração da pena do crime continuado deve levar em conta o número de infrações praticadas pelo réu, sendo mantida a fração de 1/4 para 4 crimes.
+6. Mantém-se o regime inicial semiaberto para o cumprimento da pena privativa de liberdade por ser a reprimenda superior a 4 e não exceder a 8 anos, o réu primário e todas as circunstâncias judiciais favoráveis (alínea b do § 2o e § 3o do art. 33 do CP).
+7. Reduz-se a pena pecuniária em razão da natureza do delito, da situação econômica do apelante e para guardar certa proporção com a pena privativa de liberdade.
+8. Recurso conhecido, rejeitadas as preliminares e parcialmente provido.
+Nas razões do especial, fulcrado na alínea "a" do permissivo constitucional, alega o representante do Parquet afronta ao art. 59 do Código Penal.
+Sustenta a possibilidade de, reconhecidas duas causas de aumento de pena no crime de roubo, é possível utilizar uma delas, na primeira fase da dosimetria, para fundamentar o aumento da pena-base, e a outra na terceira fase.
+Pugna, ao final, pelo provimento do recurso, restabelecendo-se o aumento na pena-base decorrente da valoração negativa das circunstâncias do crime.
+Contrarrazões às e-STJ fls. 365/374 e 375/384.
+Manifestação ministerial, nesta instância, pelo provimento do recurso, em parecer assim ementado (e-STJ fl. 390):
+PENAL E PROCESSUAL PENAL. ROUBO CIRCUNSTANCIADO (ART.157, §2º, INCS. I E V, CPB). DOSIMETRIA. DISCRICIONARIEDADE DO MAGISTRADO. MOTIVAÇÃO IDÔNEA. EXASPERAÇÃO DA PENA-BASE PELA INCIDÊNCIA DE DUAS MAJORANTES. ILEGALIDADE INEXISTENTE. OBEDIÊNCIA AOS PRINCÍPIOS DA PROPORCIONALIDADE E DA INDIVIDUALIZAÇÃO DA PENA. PRECEDENTES DO STJ. VIOLAÇÃO AO ART. 59 DO CP CARACTERIZADA. PARECER PELO PROVIMENTO DO RECURSO, PARA QUE SEJA RESTABELECIDO O AUMENTO DA PENA-BASE PELA INCIDÊNCIA DE DUAS CAUSAS DE AUMENTO DE PENA.
+É o relatório.
+Decido.
+O recurso é tempestivo e a matéria foi devidamente prequestionada.
+São estes, no que interessa, os fundamentos do acórdão recorrido (e-STJ fls. 304/306):
+d) Do pedido de redução da pena fixada
+Razão assiste parcialmente à Defesa.
+Na primeira fase, o Juiz Sentenciante valorou desfavoravelmente as circunstâncias do crime elevou a pena-base em 8 meses pela circunstância, nos seguintes termos:
+".. As circunstâncias do delito patrimonial se revestem de excepcional gravidade, uma vez que a subtração foi praticada com emprego de arma e concurso de agentes. A fim de evitar o bis in idem, tendo em vista que tais circunstâncias são também majorantes do delito de roubo, utilizo apenas uma delas (emprego de arma) nesta fase, enquanto a outra (concurso de agentes) será valorada negativamente como majorante na terceira fase (fls. 175-176)."
+No que concerne a causas de diminuição ou de aumento da pena, o legislador fixou o quantum da diminuição e do aumento a serem considerados na terceira fase da concentração da pena.
+Sabe-se que, entre circunstâncias judiciais ou legais, qualificadoras e causas de aumento de pena há profunda diferença, pois naquelas (circunstâncias judiciais e legais) a lei não determina o aumento, enquanto nas qualificadoras o legislador fixou novo mínimo e novo máximo e, por último, nas causas de aumento, a lei especifica o montante a ser adotado pelo julgador.
+Com efeito, o parágrafo único do art. 68 do Código Penal dispõe que:
+No concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Como se percebe da transcrição supra, em caso de concurso de causas de aumento da pena prevista na parte especial do Código Penal, o réu possui direito previsto em lei de ter a pena majorada uma só vez, o que impede a transposição de uma das causas de aumento da pena para agravar o castigo penal na primeira fase ou pena-base.
+Conforme já enfatizado, não obstante decisões das Cortes superiores, trata-se de direito inalienável do apenado que não comporta interpretação extensiva para prejudicá-lo, uma vez que é direito ou benefício com previsão legal.
+Assim, havendo duas ou mais causas de aumento, não se pode utilizar uma delas para agravar a pena-base e as demais como majorantes, sob pena de ofensa ao art. 68 do Código Penal, mormente ao seu parágrafo único. (sem grifos no original)
+Portanto, afasta-se a análise desfavorável das circunstâncias do crime.
+Na segunda fase, ausentes atenuantes e agravantes, o Juiz Sentenciante manteve a pena fixada.
+Na terceira fase, ausentes causas de diminuição e presente as de aumento previstas nos incisos I e II do § 2º do art. 157 do Código Penal, majorou-se corretamente a pena em 1/3 (16 meses), mínimo legal.
+Em seguida, reconhecido o concurso formal entre os quatro crimes, procedeu-se acertadamente o aumento em 1/4 (16 meses, por serem quatro o número de lesados).
+Com razão o Ministério Público.
+É firme a jurisprudência deste Superior Tribunal de Justiça no sentido de ser possível o emprego das causas de aumento sobejantes - vale dizer, das não empregadas na terceira fase - do roubo praticado com mais de uma circunstância majorante, para motivar a exasperação da pena-base, vedado apenas o bis in idem.
+Sobre o tema:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. ART. 157, § 2º, I E II, DO CP. DOSIMETRIA. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 59 DO CP. CIRCUNSTÂNCIAS DO CRIME. VALORAÇÃO NEGATIVA. USO DE MAJORANTE SOBEJANTE COMO FUNDAMENTO PARA EXASPERAR A PENA-BASE. POSSIBILIDADE. AGRAVO IMPROVIDO.
+1. Admite-se a valoração de majorantes sobejantes, não utilizadas para aumentar a pena na terceira fase da dosimetria, como circunstância judicial do art. 59 do Código Penal.
+2. Na espécie, foram duas causas de aumento reconhecidas, sendo uma delas o emprego de arma - utilizada para justificar o aumento da pena-base, como circunstâncias do crime, e a outra, o concurso de agentes - para caracterizar a majorante do roubo e aumentar a sanção na terceira fase da dosimetria.
+3. Em se tratando de duas circunstâncias distintas, não há falar em bis in idem.
+4. Agravo regimental improvido. (AgRg no REsp 1770694/AL, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/05/2019, DJe 14/05/2019)
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. ROUBO CIRCUNSTANCIADO. ART. 157, § 2º, I E II, DO CP. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS DO CRIME. VALORAÇÃO NEGATIVA. USO DE UMA DAS CAUSAS DE AUMENTO COMO FUNDAMENTO PARA EXASPERAR A PENA-BASE. POSSIBILIDADE. PRECEDENTES.
+1. O julgamento monocrático do agravo em recurso especial, com esteio em óbices processuais e na jurisprudência dominante desta Corte, tem respaldo nas disposições do Código de Processo Civil e do RISTJ.
+2. A teor da jurisprudência desta Corte, é possível a utilização, nos casos em que há mais de uma causa de aumento da pena no crime de roubo, a utilização de uma delas para a primeira fase, para fins de majoração da pena-base, e as outras para exasperar a reprimenda na terceira etapa da dosimetria da pena, desde que não seja pelo mesmo motivo, respeitando-se o percentual legal máximo previsto pela incidência das majorantes. Precedentes.
+3. Na espécie, foram duas causas de aumento reconhecidas, sendo uma delas - concurso de agentes - utilizada para justificar o aumento da pena-base, como circunstâncias do crime, e a outra - emprego de arma - para caracterizar a majorante do roubo e aumentar a sanção na terceira fase da dosimetria. Em se tratando de duas circunstâncias distintas, não há falar em bis in idem, encontrando-se válida a motivação adotada pelo Magistrado sentenciante.
+4. Agravo regimental improvido. (AgRg no AREsp 1251918/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/05/2018, DJe 11/05/2018)
+No caso, reconhecidas duas causas de aumento, impõe-se utilizar uma delas (emprego de arma) para valorar negativamente as circunstâncias do crime, justificando o aumento da pena-base, e a outra - concurso de agentes -, para caracterizar a majorante do roubo e aumentar a sanção na terceira fase da dosimetria, conforme havia sido feito em 1º grau de jurisdição.
+Assim, restabeleço a sanção imposta na sentença que condenou o recorrido a pena de 7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão, mais 80 (oitenta) dias-multa.
+Mantenho o regime prisional semiaberto e os demais termos do acórdão recorrido.
+Diante do exposto, com fulcro no no art. 932, VIII, do CPC, c/c art. 255, §4º, III, do RISTJ, dou provimento ao recurso especial, para, majorada a pena-base, devido à valoração negativa das circunstâncias do crime, restabelecer a pena imposta na sentença que condenou RAPHAEL RIBEIRO DE OLIVEIRA a cumprir 7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão, mais 80 (oitenta) dias-multa.
+Publique-se. Intimem-se.
