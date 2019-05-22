@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fulcro na alínea "a" do permissivo constitucional, e que desafia acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 515):
+AGRAVO LEGAL EM AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. JEFS, EXCEÇÃO LEGALMENTE PREVISTA. DIREITO INDIVIDUAL.
+A ação em que o MPF busca tutelar direito individual de cidadão certo, ainda que nominada como ação coletiva, não se reveste das características que o legislador pretendeu excluir da competência dos Juizados Especiais.
+Agravo improvido.
+O recorrente aponta, além de divergência jurisprudencial, violação dos arts. 3o, § 1º, I, e 6o, I, da Lei n. 10.259/2001.
+Defende que a ação civil pública, ainda que esteja restrita à tutela de direito individual homogêneo de uma única pessoa (fornecimento de medicamentos), não pode tramitar no Juizado Especial Federal, mas na Justiça Federal comum.
+Sem contrarrazões.
+Parecer ministerial pelo provimento do recurso especial.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Acerca da hipótese, esta Corte consolidou jurisprudência no sentido de que "é possível submeter ao rito dos Juizados Especiais, as causas que envolvem fornecimento de medicamentos, cujo valor seja de até 60 salários mínimos, ajuizadas pelo Ministério Público em favor de pessoa determinada" (AgRg no AREsp 374.299/MG, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, julgado em 27/10/2016, DJe 21/11/2016).
+Em casos análogos, confiram-se precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTO. AÇÃO CIVIL PÚBLICA, AJUIZADA PELO MINISTÉRIO PÚBLICO FEDERAL. ATUAÇÃO COMO SUBSTITUTO PROCESSUAL DE DETERMINADA PESSOA. VALOR DA CAUSA INFERIOR A 60 SALÁRIOS MÍNIMOS. COMPETÊNCIA DO JUIZADO ESPECIAL FEDERAL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Hipótese em que o Ministério Público Federal atua como substituto processual de pessoa determinada, em ação ajuizada contra a União, o Estado do Paraná e o Município de Umuarama/PR, de valor inferior a sessenta salários-mínimos, objetivando a condenação dos réus ao fornecimento gratuito de medicamento.
+II. Nos termos da jurisprudência do Superior Tribunal de Justiça (a) "as causas relacionadas a fornecimento de medicamentos até 60 salários mínimos submetem-se ao rito dos Juizados Especiais, não sendo a necessidade de perícia argumento hábil a afastar a referida competência" (STJ, AgRg no REsp 1.469.836/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 09/03/2015); (b) "a exceção à competência dos Juizados Especiais Federais prevista no art. 3º, § 1º, I, da Lei 10.259/2001 se refere apenas às ações coletivas para tutelar direitos individuais homogêneos, e não às ações propostas individualmente pelo próprios titulares" (STJ, CC 83.676/MG, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, DJU de 10/09/2007);
+e (c) "Não há óbice para que os Juizados Especiais procedam ao julgamento de ação que visa o fornecimento de medicamentos/tratamento médico, quando o Ministério Público atua como substituto processual de cidadão idoso enfermo" (STJ, REsp 1.409.706/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 21/11/2013).
+III. Agravo Regimental improvido.
+(AgRg no REsp 1.354.068/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/06/2015, DJe 01/07/2015).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTO. VALOR ATÉ 60 (SESSENTA) SALÁRIOS MÍNIMOS. AÇÃO CIVIL PÚBLICA PROPOSTA PELO MINISTÉRIO PÚBLICO. RECONHECIMENTO DE DIREITO INDIVIDUAL. COMPETÊNCIA DOS JUIZADOS ESPECIAIS FEDERAIS. PRECEDENTES STJ. AGRAVO NÃO PROVIDO.
+1. A orientação deste Superior Tribunal é no sentido de que as causas relacionadas a fornecimento de medicamentos até 60 (sessenta) salários mínimos submetem-se ao rito dos Juizados Especiais, não constituindo obstáculo ao exercício dessa competência a eventual necessidade de produção de prova técnica.
+2. "Não há óbice para que os Juizados Especiais procedam ao julgamento de ação que visa o fornecimento de medicamentos/tratamento médico, quando o Ministério Público atua como substituto processual de cidadão idoso enfermo" (REsp 1.409.706/MG, Primeira Turma, Rel. Min. BENEDITO GONÇALVES, DJe 21/11/13).
+3. Agravo regimental não provido.
+(AgRg no REsp 1.198.286/SC, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 04/02/2014, DJe 24/02/2014).
+Vejam-se, ainda: AgRg no REsp 1.469.836/MG, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, julgado em 03/03/2015, DJe 09/03/2015; REsp 1.409.706/MG, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, julgado em 07/11/2013, DJe 21/11/2013; AgRg no REsp 1.222.345/SC, Rel. Ministro HAMILTON CARVALHIDO, Primeira Turma, julgado em 08/02/2011, DJe 18/02/2011.
+Incide, no ponto, a Súmula 83 do STJ, que também é aplicável aos recursos especiais interpostos apenas pela alínea "a" do permissivo constitutional: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida."
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
