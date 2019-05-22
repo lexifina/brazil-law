@@ -1,0 +1,27 @@
+DECISÃO
+[NOME] alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação n. [CPF].
+Nesta Corte, a defesa sustenta, em resumo, a ocorrência de reformatio in pejus, porquanto o Tribunal estadual, ao julgar recurso exclusivo da defesa, deixou de "aplicar a minorante da tentativa, que havia sido reconhecida em sua fração máxima (2/3) pelo juízo de primeiro grau" (fl. 4).
+Requer, liminarmente, a suspensão da "decisão do Tribunal a quo até o julgamento do mérito do presente writ" (fl. 7, grifei). No mérito, pleiteia a aplicação da "minorante da tentativa, reconhecida pelo Juízo de primeiro grau em sua fração máxima" (fl. 8).
+Indeferida a liminar (fls. 47-48) e prestadas as informações (fls. 61-93 e 95-132), veio o parecer do Ministério Público Federal, que opinou pelo não conhecimento do writ (fls. 140-145).
+Decido.
+Extrai-se dos autos que o paciente foi condenado, em primeiro grau, à pena de 1 ano, 10 meses e 20 dias de reclusão, em regime aberto, mais multa, pela prática do delito previsto no art. 157, § 2º, I, art. 61, "h", c/c o art. 14, II, todos do Código Penal.
+A Corte de origem deu parcial provimento à apelação defensiva a fim de afastar a agravante da do art. 61, "h", do CP e tornar a reprimenda do réu definitiva em 5 anos e 4 meses de reclusão, mantido o regime inicial aberto.
+De fato, o Juiz de primeiro grau reconheceu que o delito de roubo ocorreu na modalidade tentada, "pois sequer houve a entrega do celular ao réu ou o saque de qualquer importância nos caixas eletrônicos pelas vítimas" (fl. 20). Por tal razão, fez incidir o redutor de 2/3, pelo iter criminis percorrido, na terceira fase da dosimetria do paciente (fl. 21).
+A Corte estadual, em que pese o recurso exclusivo da defesa - que, inclusive, não abordou a temática da tentativa -, ao redimensionar a pena aplicada, deixou de aplicar a referida fração de 2/3, o que ensejou um apenamento final de 5 anos e 4 meses de reclusão. Confira-se (fls. 34-35):
+A basilar foi fixada no mínimo legal.
+Pela agravante do art. 61, inc. II, "h", do CP, foram acrescidos 03 (três) meses de pena.
+Contudo, a meu sentir, deve ser afastada a referida agravante, visto que a vítima do assalto é a mãe do menor.
+Pela majorante do emprego de arma, correta a exasperação de 1/3 de pena.
+Assim, diante do redimensionamento retro, altero a pena carcerária para 05 anos e 04 meses de reclusão.
+O regime é o aberto (ausente recurso da acusação).
+Inviável a substituição.
+Pena de multa fixada no mínimo legal.
+Faço lembrar que a proibição da reformatio in pejus, derivação da regra mais ampla do favor rei (LOZZI, Gilberto. Favor rei e processo penale, Milano, Giuffr , 1968, p. 115), traduz-se na vedação a que, em recurso interposto exclusivamente pelo acusado, o Tribunal a quo agrave a situação do recorrente, em relação à decisão impugnada, aceita pelo acusador.
+O verdadeiro fundamento do princípio em estudo reside em uma opção de política criminal do processo penal praticado hodiernamente, mais voltado à proteção do inocente do que à punição do acusado. Em verdade, antes do interesse do Estado em punir o infrator, encontra-se o interesse, do mesmo Estado, em tutelar a liberdade individual daquele que se encontra na posição de acusado.
+Sob tal orientação finalística da atividade punitiva do Estado, e certo de que o direito de defesa encontra na possibilidade de recorrer uma de suas principais expressões, " ..  a proibição da reformatio in peius se perfila como indispensável premissa para dar efetividade ao direito" (MONTAGNA, Mariangela. Divieto di reformatio in peius e appello incidentale, IN: A. Gaito, (org.). Le impugnazioni penali, Torino: Utet, 1998, p. 377), pois a finalidade da impugnação é precisamente a de eliminar ou amenizar um precedente provimento que se mostre, ou se afirme, injusto manter.
+Deveras, não pudesse o acusado, por temer o agravamento de sua situação penal e processual, livremente exercitar a sua defesa, "com os meios e recursos a ela inerentes" (Constituição Federal, art. 5º, LV), ficaria tal direito esvaziado, gerando o trânsito em julgado de uma sentença que, ao menos para ele, como destinatário do comando judicial, materializou uma iniquidade.
+Nesse contexto, uma vez que o Tribunal, a quem se devolveu o conhecimento da causa por força de recurso exclusivo da defesa, agravou a situação penal do paciente - ao afastar a redução da pena pela tentativa reconhecida pelo Juiz sentenciante -, entendo caracterizado o aventado constrangimento ilegal de que estaria sendo vítima o paciente nesse ponto, por ofensa ao princípio do ne reformatio in pejus.
+Reconhecida a ilegalidade, passo a redimensionar a pena.
+A partir dos critérios adotados pelas instâncias ordinárias, verifico que a pena-base foi fixada no mínimo legal, em 4 anos de reclusão. A corte estadual afastou a agravante prevista no art. 61, II, "h", do Código Penal, razão pela qual a pena permaneceu inalterada na segunda etapa. Na terceira fase, a pena foi acrescida de 1/3, pela majorante do emprego de arma, o que resulta em 5 anos e 4 meses de reclusão, mais 11 dias multa. Por fim, reconhecida a ilegalidade, deve ser restabelecida a redução de 2/3 pela tentativa, o que torna a pena definitivamente estabelecida em 1 ano, 9 meses e 10 dias de reclusão, mais 8 dias-multa.
+À vista do exposto, concedo a ordem para restabelecer a redução da pena relativa à tentativa e redimensionar a sanção para 1 ano, 9 meses e 10 dias de reclusão, mais 8 dias-multa.
+Publique-se e intimem-se.
