@@ -1,0 +1,23 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que não conheceu o HC n. 2014375-11.2019.8.26.0000.
+Busca-se, por meio deste writ, seja fixado ao paciente o regime inicial aberto, nos autos do processo em que foi condenado à reprimenda de 1 ano e 8 meses de reclusão, mais multa, pela prática do crime previsto no art. 33, caput e § 4º, da Lei n. 11.343/2006. Pugna, ainda, pela substituição da pena privativa de liberdade por restritivas de direitos.
+A liminar foi deferida a fim de assegurar que o paciente aguarde em regime aberto o julgamento final deste writ.
+Ante a suficiente instrução dos autos, as informações foram dispensadas.
+O Ministério Público Federal opinou pela concessão da ordem.
+Decido.
+ O Tribunal de origem, ao não conhecer o habeas corpus lá impetrado, assim fundamentou (fl. 228):
+O não conhecimento da impetração é medida de rigor.
+Em que pese o direito ao acesso à Justiça (art. 5º, inciso XXXV, da Constituição Federal), esta via é inadequada para a apreciação da matéria que se pretende.
+O habeas corpus tem sido utilizado indiscriminadamente, olvidando se tratar de medida estreita que não se presta a substituir recurso próprio ou ação cabível, não podendo se confundir o writ com sucedâneo recursal, sob pena de desvirtuar sua razão de existência jurídico-constitucional.
+Desta forma, o pleito é inviável nos estreitos limites do remédio constitucional, pois, existe, recurso próprio para o caso concreto.
+No entanto, o eventual reconhecimento da ausência de fundamentação concreta para a imposição do regime inicial mais gravoso poderá, sim, ocasionar reflexos imediatos na própria liberdade de locomoção da paciente, de maneira que se mostra passível a análise, em habeas corpus, da alegação de que seria possível a fixação do regime aberto, notadamente porque se trata de matéria exclusivamente de direito e que não demanda o exame aprofundado de provas, tampouco dilação fático-probatória.
+Não se está, pelo que indicam os autos, a discutir o acerto ou desacerto da condenação, mas os critérios objetivos que justificam ou não a imposição do regime mais gravoso.
+Verifico que o Juiz sentenciante entendeu devida a imposição do regime inicial fechado pois é "justificável não só ante a latente gravidade do crime, fomentador de tantas outras práticas ilícitas como também pelo fato de os demais regimes não se mostraram adequados para ressocialização do agente, ainda mais se levado em conta o fato de que o acusado já se envolveu com a prática de tráfico enquanto menor e estava em cumprimento de liberdade assistida quando novamente foi preso" (fl. 203).
+Entretanto, o paciente era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes, teve a pena-base fixada no mínimo legal, foi condenado a reprimenda inferior a 4 anos de reclusão e foi agraciado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 - a qual visa, justamente, a beneficiar o "traficante ocasional".
+Além disso, o acusado foi preso em flagrante em 17/8/2018, portanto há mais de 8 meses e, ao que tudo indica, permanece custodiado desde então. Ademais, registro que já houve o trânsito em julgado da condenação para ambas as partes, de maneira que não há mais a possibilidade de haver o aumento da reprimenda imposta ao acusado.
+Assim, embora a pretendida imposição de regime inicial mais brando não haja sido analisada pelo Tribunal de origem - o que, a rigor, evidenciaria a inadmissível supressão de instância -, entendo que, de maneira excepcional e somente para este caso concreto, em razão de todas as peculiaridades apontadas anteriormente, é o caso de concessão da ordem.
+Pelas mesmas razões, concluo que a substituição da pena é medida socialmente recomendada.
+Diante da favorabilidade das circunstâncias previstas no art. 59 do Código Penal - tanto que a pena-base foi fixada no mínimo legal -, constato a violação do art. 44, III, do Código Penal, de modo que deve ser substituída a reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser definidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem para, confirmada a liminar anteriormente deferida, fixar à paciente o regime inicial aberto de cumprimento de pena e determinar a sua substituição por duas medidas restritivas de direitos, que deverão ser estabelecidas pelo Juízo da Execução.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
