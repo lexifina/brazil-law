@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Embargos de Divergência interpostos pela União contra acórdão da Primeira Turma do STJ assim ementado:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. SERVIDORES PÚBLICOS. AFASTAMENTO DA SÚMULA 343/STF. PRECEDENTES. AUDITOR FISCAL. REAJUSTE DE 28,86%. INCIDÊNCIA SOBRE A RAV DE FORMA INTEGRAL. RECURSO ESPECIAL REPETITIVO 1.318.315/AL, REL. MIN. MAURO CAMPBELL MARQUES, DJE 30.9.2013. IRRESIGNAÇÃO INTERNA QUE PLEITEIA O SOBRESTAMENTO DO PRESENTE FEITO ATÉ O JULGAMENTO FINAL DOS ERESP 1.436.501/AL. NO MÉRITO, APONTA SER INAPLICÁVEL O ENTENDIMENTO SUPERVENIENTE POR SE TRATAR DE AÇÃO RESCISÓRIA NA ORIGEM. ENTENDIMENTO CONSOLIDADO DESTA PRIMEIRA TURMA QUE RECOMENDA A MANUTENÇÃO DO TRÂMITE DO PRESENTE RECURSO. DECISÃO AGRAVADA FUNDAMENTADA EM PRECEDENTES IDÊNTICOS, QUE FIRMARAM POSIÇÃO PELA APLICABILIDADE DO REAJUSTE DE 28,86% SOBRE A RAV, MESMO QUE SE TRATE DE AÇÃO RESCISÓRIA, NA ORIGEM. PRECEDENTES: AGRG NO RESP 1.432.778/AL, REL. MIN. HERMAN BENJAMIN, DJE 25.9.2014; AGRG NO AGRG NO RESP 1.387.421/AL, REL. MIN. HUMBERTO MARTINS, DJE 15.5.2014; E AGRG NO RESP 1.095.437/DF, REL. MIN. ASSUSETE MAGALHÃES, DJE 8.5.2014. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. A Primeira Turma deste STJ possui firme entendimento, segundo o qual a mera existência de Embargos de Divergência pendentes de julgamento, referentes à mesma matéria, não tem o condão de sobrestar a tramitação de Recurso Especial e/ou Agravo.
+2. Decisão fundada em precedentes específicos, relativos à mesma matéria e à mesma fase processual, a demonstrar o firme posicionamento desta Corte Superior.
+3. Agravo Interno da UNIÃO a que se nega provimento.
+A parte embargante aponta divergência com aresto da Segunda Turma (AgInt no AREsp 943.246/RS, Rel. Ministro Francisco Falcão, DJe de 28/08/2017), "em questão idêntica, atraiu a aplicação da Súmula 343 do Supremo Tribunal Federal, entendendo que não é cabível ação rescisória por violação de literal dispositivo de lei quando a matéria era controvertida nos Tribunais à época do julgamento, ainda que, posteriormente, venha a ser pacificada por meio de recurso especial repetitivo em sentido diverso".
+Transcreve-se o acórdão paradigma:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. INCIDÊNCIA DO PERCENTUAL DE 28,86% SOBRE A GEFA. MATÉRIA CONTROVERTIDA NOS TRIBUNAIS. AÇÃO RESCISÓRIA. DESCABIMENTO. SÚMULA 343/STF.
+I - Se a decisão judicial foi proferida com amparo na jurisprudência do STJ vigente na época, ainda que posteriormente tal entendimento seja modificado, não há como se afirmar que a decisão impugna tenha violado literal disposição de lei.
+II - Incide à situação em análise o disposto no enunciado n. 343 da Súmula do STF a qual dispõe que "não cabe ação rescisória por ofensa a literal dispositivo de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais".
+III - Agravo interno improvido" (STJ, AgInt no AREsp 943.246/RS, Rel.
+Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 28/08/2017).
+Para tanto, afirma, ainda, a embargante:
+ ..  o fato de o Superior Tribunal de Justiça ter firmado, em sede de repetitivo, entendimento diverso do constante do acórdão transitado em julgado ora rescindendo, não possibilita o ajuizamento de ação rescisória, vez que não se passa de controvérsia sobre a correta interpretação a ser dada às Leis que regulamentaram os vencimentos dos auditores fiscais e a existência de reajuste, ou não, sobre a base de cálculo da retribuição adicional variável- RAV.
+Entretanto, como dito, a Primeira Turma manteve a decisão monocrática que deu provimento ao recurso especial da [NOME], ao argumento de que não se aplica ao caso em tela o teor do referido item sumular.
+Neste sentido, asseverou a Primeira Turma que, estando o acórdão rescindendo em dissonância com o entendimento firmado pela Primeira Seção desta Corte, no julgamento do recurso especial 1.318.315/AL, representativo de controvérsia, deveria ser acolhida a pretensão deduzida na ação rescisória, sem "maiores digressões".
+Por outro lado, a Segunda Turma, ao julgar o AgInt no AREsp 943.246/RS, Rel. Ministro FRANCISCO FALCÃO, DJe de 28/08/2017, em questão idêntica, atraiu a aplicação da Súmula 343 do Supremo Tribunal Federal, entendendo que não é cabível ação rescisória por violação de literal dispositivo de lei quando a matéria era controvertida nos Tribunais à época do julgamento, ainda que, posteriormente, venha a ser pacificada por meio de recurso especial repetitivo em sentido diverso.
+É o relatório.
+Decido.
+O Recurso de Embargos de Divergência tem por objetivo uniformizar a jurisprudência interna do Superior Tribunal de Justiça ou do Supremo Tribunal Federal.
+Considero, neste juízo preliminar, presentes os requisitos para conhecimento do recurso, sem prejuízo da possibilidade de conclusão em sentido contrário posteriormente na cognição definitiva. Assim, admito os Embargos de Divergência, nos termos do art. 267 do RI/STJ.
+Vista à parte embargada para, querendo, impugnar o recurso. Após, vista ao Ministério Público Federal.
+Publique-se.
+Intimem-se.
