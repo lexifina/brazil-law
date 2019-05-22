@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. APOSENTADORIA ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DE EXERCÍCIO DE ATIVIDADE DE RISCO. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚM. N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] em face de decisão do Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso contra acórdão assim ementado (e-STJ fl. 388):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO PROCEDIMENTO COMUM - OBRIGAÇÃO DE FAZER - SERVIDORA PÚBLICA - BENEFÍCIO PREVIDENCIÁRIO - APOSENTADORIA ESPECIAL - NÃO COMPROVAÇÃO DOS REQUISITOS LEGAIS.
+1. A aposentadoria especial é direito do servidor público (art. 40, § 4º, CF). Ausência de lei regulamentadora de caráter nacional. Aplicação supletiva do art. 57 da Lei nº 8.213/91.
+2. Cirurgiã-Dentista Municipal. Laudo técnico que atesta a ausência de condições nocivas de trabalho.
+3. A percepção de adicional de insalubridade ou periculosidade não é, por si só, suficiente para reconhecer o direito à aposentadoria especial. Precedentes do STF e desta Corte. Pedido improcedente. Sentença mantida. Recurso desprovido.
+Os declaratórios apresentados na origem foram rejeitados.
+No especial, a recorrente sustenta violação dos arts 57 e 58 da Lei n. 8.213/1991, por entender ter direito à aposentadoria especial consequente do exercício de atividades sob condições que prejudicam a saúde e a integridade física. Aduz ter indicado meios de prova estabelecido por lei para tanto.
+Apresentadas contrarrazões às e-STJ fls. 449/458.
+A decisão agravada negou seguimento ao especial sob a compreensão de que ofensas à Constituição Federal e análise de questão fático-probatória não são cabíveis em recurso especial.
+Nas razões do agravo, a recorrente assevera que o objeto do especial se relaciona à violação de dispositivo legal infraconstitucional e não depende de exame probatório para ser provido.
+Ofertada contraminuta às e-STJ fls. 478/481.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+O Tribunal de origem reconhece à concessão de aposentadoria especial aos servidores cuja atividade se caracteriza como de risco à integridade física com base em fundamentos constitucionais. Contudo, declarou que a ora recorrente não comprovou o exercício de atividade em condições que prejudiquem a saúde ou a integridade física, de modo que não é possível a concessão do benefício requerido. Confira-se (e-STJ fl. 389/391):
+Com efeito, o artigo 40, § 4º, III, da Constituição Federal assegura a concessão de aposentadoria especial aos servidores que exercem suas atividades em condições que prejudiquem a saúde ou a integridade física, nos termos definidos em leis complementares.
+Cuida-se de direito subjetivo estabelecido em norma de eficácia limitada, cuja aplicação depende de edição de lei complementar. O Colendo STF já enunciou seu entendimento de que a omissão legislativa na regulamentação do supracitado artigo da Constituição Federal deve ser suprida mediante a aplicação das normas do Regime Geral de Previdência Social previstas na Lei nº 8.213/91 e no Decreto nº 3.048/99 (AgRg no MI nº 5450, Rel. Min. Teori Zavascki, j. 17.10.2013).
+E, segundo dispõe a Súmula Vinculante nº 33 do C. STF, "aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III da Constituição Federal, até a edição de lei complementar especifica".
+ ..
+Portanto, para ter direito à aposentadoria especial, além do requisito temporal, é preciso que o segurado comprove tempo de trabalho permanente, não ocasional nem intermitente, em condições especiais que prejudiquem a saúde ou a integridade física durante o período mínimo estabelecido na lei. Assim como também está obrigado a comprovar a exposição aos agentes nocivos, químicos, físicos, biológicos ou associação de agentes prejudiciais à saúde ou à integridade física, pelo período exigido para concessão do benefício.
+Esses agentes prejudiciais são definidos pelo Poder Executivo e a comprovação se faz com base em Laudo Técnico das Condições Ambientais do Trabalhador (LTCAT) expedido por médico do trabalho ou engenheiro de segurança do trabalho, de que conste informação sobre a existência de tecnologia de proteção coletiva ou individual que diminua a intensidade do agente agressivo a limites de tolerância. Além da apresentação de Perfil Profissiográfico Previdenciário (PPP) abrangendo as atividades desenvolvidas pelo trabalhador (art. 58 da Lei ns 8.213/91).
+No caso vertente, o laudo técnico concluiu pela ausência de exposição da apelante a agentes nocivos à saúde. Dessa maneira, em que pese ser respeitáveis os argumentos invocados pela apelante, não estão presentes os requisitos legais para concessão da aposentadoria especial.
+Assim sendo, o provimento do recurso especial quanto à concessão de aposentadoria especial ao ora recorrente depende de exame probatório dos autos com o fim de aferir a natureza da atividade exercida pelo ora recorrente. Essa tarefa não é possível nos termos da Súm. n. 7/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
