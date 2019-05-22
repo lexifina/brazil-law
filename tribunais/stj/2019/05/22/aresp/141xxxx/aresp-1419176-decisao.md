@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/73). NEGÓCIOS JURÍDICOS BANCÁRIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. REVISÃO DE CONTRATO. JUROS REMUNERATÓRIOS. DECISÃO DA CORTE DE ORIGEM EM CONFRONTO COM A JURISPRUDÊNCIA CONSOLIDADA DESTE STJ. A SIMPLES PACTUAÇÃO DE TAXA DE JUROS REMUNERATÓRIOS SUPERIOR À TAXA MÉDIA DO MERCADO NÃO DENOTA, POR SI SÓ, ABUSIVIDADE (ORIENTAÇÃO DO RESP N.º 1.061.530/RS, SUBMETIDO AO ART. 543-C DO CPC/73). AFASTADA TAMBÉM A DESCARACTERIZAÇÃO DA MORA DO DEVEDOR.
+AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por BANCO BRADESCO FINANCIAMENTOS S.A contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que inadmitiu o seu recurso especial manejado em face do acórdão, assim ementado:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE NULIDADE CONTRATUAL C/C PEDIDO DE INDENIZAÇÃO DE DANOS MORAIS. JUROS REMUNERATÓRIOS. TAXA. LIMITAÇÃO.
+Os juros remuneratórios podem ser convencionados em percentuais superiores a 12% ao ano desde que não destoem da taxa média de mercado nas operações da espécie divulgada pelo Banco Central, BACEN, como ditou o e. STJ no julgamento do REsp 1.112.879/PR representativo de controvérsia. - Circunstâncias dos autos em que se impõe manter a sentença que limitou os juros à taxa média de mercado.
+MORA. DESCARACTERIZAÇÃO. REQUISITOS.
+O inadimplemento de obrigação no vencimento constitui a mora que não se descaracteriza pelo o ajuizamento da ação revisional ou excesso nos encargos da inadimplência. É o reconhecimento de que as cláusulas de encargos da normalidade contratual (juros remuneratórios e capitalização) são abusivas que autorizam a descaracterização da mora. Recurso Especial Repetitivo nº 1.061.530/RS. - Reconhecida tese de irregularidade nos encargos da normalidade contratual impõe-se afastar a mora. - Circunstância dos autos em que se impõe manter a sentença.
+RECURSO DESPROVIDO.(e-STJ fl. 145)
+Os embargos de declaração foram rejeitados.(e-STJ fls. 172/179)
+Em suas razões recursais, além de dissídio jurisprudencial, a recorrente aponta violação aos artigos 489, II, e 1.022, II, do Código de Processo Civil; 394, 395, 397 e 586 do Código Civil, e 4º, V e IX, da Lei 4.595/64. Sustenta: (i) a nulidade do acórdão recorrido, diante da omissão frente aos dispositivos legais suscitados nos aclaratórios; (ii) que os juros não estão sujeitos à limitação por legislação infraconstitucional, podendo ser livremente pactuados entre o tomador e a instituição financeira; (iii) que não há discrepância entre os juros de mercado e os pactuados nos contratados em análise, e (iv) que diante da legalidade dos juros remuneratórios pactuados , não há como se descaracterizar a mora.
+Ausentes as contrarrazões ao recurso especial, sobreveio juízo negativo de admissibilidade do Tribunal de origem, às fls. 226/240 e-STJ, o que ensejou a interposição do presente agravo.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, registre-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ.
+Apresenta-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, não havendo a demonstração clara dos pontos do acórdão que se apresentam omissos, contraditórios ou obscuros.
+ Aplica-se, assim, o óbice da Súmula 284/STF. Nesse sentido: AgRg no Ag 1.130.264/SP, 6ª Turma, Rel. Min. Vasco Della Giustina (Desembargador Convocado do TJ/RS), DJe de 01/07/2011; REsp 1.253.231/SC, 2ª Turma, Rel. Min. Castro Meira, DJe de 03/11/2011; REsp 1.268.469/SP, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 27/02/2012; e REsp 1.190.865/MG, 3ª Turma, Rel. Min. Massami Uyeda, DJe de 01/03/2012.
+A pretensão recursal merece parcial provimento.
+Com efeito, após longos anos de debate em torno do relevante tema dos contratos bancários, este Superior Tribunal de Justiça consolidou o seguinte entendimento no tocante aos juros remuneratórios:
+2. JUROS COMPENSATÓRIOS:
+2.1 Ausência de juntada do contrato ou ausência de pactuação: não juntado o contrato ou "ausente a fixação da taxa no contrato, o juiz deve limitar os juros à média de mercado nas operações da espécie, divulgada pelo Bacen, salvo se a taxa cobrada for mais vantajosa para o cliente." (REsp n.º 1.080.507/RJ e REsp n.º 1.112.879/PR, submetido o art. 543-C do CPC/73).
+2.2 Possibilidade de pactuação de taxa superior a 12% ao ano: "a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade" (Súmula 382/STJ).
+2.3 Ausência de abusividade pela simples pactuação de taxa superior à média do mercado: a simples pactuação de taxa de juros remuneratórios superior à taxa média do mercado não denota, por si só, abusividade (voto condutor do REsp n.º 1.061.530/RS, submetido ao art. 543-C do CPC/73).
+2.4 Possibilidade, diante de eventual abusividade no caso concreto, de revisão da taxa de juros para a média do mercado: "em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados." (REsp n.º 1.112.879/PR, submetido o art. 543-C do CPC/73).
+2.5 Possibilidade de cobrança no período de inadimplência "os juros remuneratórios, não cumuláveis com a comissão de permanência, são devidos no período de inadimplência, à taxa média de mercado estipulada pelo Banco Central do Brasil, limitada ao percentual contratado" (Súmula 296/STJ).
+3. MORA:
+3.1 Não descaracterização pelo reconhecimento da abusividade de encargos do período de inadimplência ou pelo simples ajuizamento de ação revisional: "não descaracteriza a mora o ajuizamento isolado de ação revisional, nem mesmo quando o reconhecimento de abusividade incidir sobre os encargos inerentes ao período de inadimplência contratual." (REsp n.º 1.061.530, submetido ao art. 543-C do CPC/73).
+3.2 Descaracterização com o reconhecimento da abusividade de encargos do período da normalidade contratual: "o reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descarateriza a mora." (REsp n.º 1.061.530, submetido ao art. 543-C do CPC/73).
+Na hipótese, verifico que o Tribunal de origem entendeu pela abusividade da taxa de juros remuneratórios pela sua simples pactuação superior à média do mercado divulgada pelo BACEN.
+Observe-se a seguinte passagem do acórdão recorrido:
+No entanto, como fundamentado, autoriza-se a revisão para equilíbrio da relação contratual obstando que os juros remuneratórios excedam a taxa média de mercado; e cabe transcrever da sentença em aditamento:
+(..) Analisando o contrato de nº. 737182547, verifico que foi aplicada taxa anual de 28,32% (fl. 71v), o que se mostra abusivo, pois a taxa média de mercado para os contratos de empréstimo consignado para beneficiários do INSS no período (janeiro de 2013) era de 27,2% ao ano.
+Do mesmo modo, abusivos os juros do contrato nº. 785439064, pois foram fixados em 28,63% a. a., patamar superior à média do Bacen que, em março de 2013, estabelecia que os juros remuneratórios na modalidade eram de 27,8% a.a.
+Assim, a sentença aplicou a medida de direito adequada ao caso concreto.(e-STJ fl. 155)
+Entretanto, basta a leitura do item 2.3 acima para afastar a limitação imposta no aresto reclamado.
+Dessa forma, no caso dos autos, não restou demonstrada a abusividade dos encargos do período da normalidade contratual, devendo ser afastada a descaracterização da mora da devedora/recorrida, a teor do item 3.2 acima
+Ante o exposto, com base no art. 932, inciso V, "b", do CPC/2015 c/c a Súmula 568/STJ, conheço do agravo para, desde logo, dar parcial provimento ao recurso especial para: (a) afastar a limitação dos juros remuneratórios, e (b) afastar a descaracterização da mora do devedor.
+Redistribuo o ônus sucumbencial, ficando esse a cargo da parte aqui recorrida em sua totalidade, devendo-se observar a suspensão de sua exigibilidade em caso de a parte ser beneficiária da gratuidade de justiça.
+Intimem-se.
