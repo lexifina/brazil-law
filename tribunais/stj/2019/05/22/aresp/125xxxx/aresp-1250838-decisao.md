@@ -1,0 +1,26 @@
+DECISÃO
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. ALEGAÇÕES GENÉRICAS DE INCONFORMISMO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO DA FAZENDA DO ESTADO DE SÃO PAULO NÃO CONHECIDO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pelo FAZENDA DO ESTADO DE SÃO PAULO em face de acórdão de lavra do TJ/SP, assim ementado:
+Apelação - Ação Declaratória de Inexigibilidade de Débito Tributário com pedido de tutela antecipada de sustação de protesto c/c Indenização por Dano Moral - Cobrança de IPVA - Alienação de veículo - Venda comprovada documentalmente - A responsabilidade pelos débitos deve ser mantida até a data da alienação, quando possível a identificação do comprador do veículo ou, em caso negativo, até a data da efetiva comunicação de venda ao órgão de trânsito - Inteligência dos artigos 123, §1º, 134 e 257, caput e §7º do CTB - Dano Moral - Cabimento - Protesto e Inscrição no CADIN - Montante fixado em R$ 5.000,00 - Valor adequado - Verba honorária arbitrada em R$ 1.500,00 - Possibilidade - Observância aos princípios da razoabilidade e proporcionalidade - Descabimento de redução - Precedentes do E. STJ e deste Egrégio Tribunal de Justiça - Sentença de procedência mantida - Recurso improvido (fls. 144).
+2. Aponta, nas razões de seu Apelo inadmitido, ofensa aos arts. 927 e 945 do Código Civil, bem como aos arts. 20 e 730 do Código Buzaid.
+3. É o relatório.
+4. O Tribunal de origem negou seguimento ao Recurso Especial aviado com fundamento em Recurso Especial Repetitivo e na incidência da Súmula 7/STJ.
+5. Como é sabido, o Agravo tem por escopo desconstituir a decisão denegatória de Recurso Especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos, autônomos ou não, nela lançados, com o fito de demonstrar o seu desacerto, sob pena de incorrer na Súmula 182/STJ.
+6. Não cumpre o dever de dialeticidade a parte recorrente que aduz alegações genéricas de inconformismo sem demonstrar de forma clara e objetiva a incorreção da decisão impugnada.
+7. Na espécie, limitou-se a parte agravante a alegar suposta usurpação de competência desta Corte Superior pelo Tribunal de origem, sem, contudo, infirmar os fundamentos utilizados pela decisão recorrida. Incidência da Súmula 182/STJ. No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA DO PRESIDENTE DO STJ. PRECEDENTES. EXAME DE MÉRITO DO RECURSO ESPECIAL PELA CORTE DE ORIGEM. POSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. Compete ao Presidente do STJ, entre outras atribuições, negar provimento a recursos intempestivos, prejudicados, defeituosos em sua formação, manifestamente inadmissíveis ou contrários a matéria sumulada, julgada em recurso representativo de controvérsia ou consolidada por jurisprudência pacificada pelo Tribunal.
+2. A emissão de juízo sobre o mérito do recurso especial pelo Tribunal de origem, por ocasião do exame provisório de admissibilidade, não implica usurpação da competência do Superior Tribunal de Justiça.
+3. Ao deixar a parte recorrente de impugnar a inadequação dos fundamentos deduzidos na decisão agravada, impõe-se a aplicação da Súmula 182 do STJ.
+4. Agravo interno a que se nega provimento (AgInt no AREsp. 1.238.938/SP, Rel. Min. MARIA ISABEL GALLOTTI, DJe 6.12.2018).
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE OBJETIVA. RELAÇÃO DE CONSUMO. PRESTAÇÃO DE SERVIÇO POSTAL. NÃO COMPROVAÇÃO DO CONTEÚDO EXTRAVIADO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DO PARTICULAR DESPROVIDO.
+1. O Tribunal de origem inadmitiu o Recurso Especial alegando a incidência da Súmula 7/STJ, diante da necessidade de revolvimento de matéria fático-probatória.
+2. Consoante se depreende da petição de fls. 305/312, o agravante apenas afirmou o descabimento de análise de mérito pela Corte a quo no juízo de admissibilidade. Deixou, portanto, de se manifestar acerca dos motivos que levaram ao juízo negativo de admissibilidade do Apelo Nobre.
+3. Verifica-se, assim, que a parte recorrente não desconstituiu os fundamentos que impediram o processamento do Recurso Especial.
+4. Desse modo, perfeitamente aplicável ao caso a Súmula 182 do STJ, segundo a qual é inviável o Agravo do art. 545 do CPC/1973 que deixa de atacar especificamente os fundamentos da decisão agravada.
+5. Ademais, é assente a jurisprudência do STJ de que não há usurpação de competência do Superior Tribunal de Justiça quando a Corte de origem, por ocasião do juízo de admissibilidade, analisa o mérito do Recurso Especial, porquanto constitui atribuição do Tribunal a quo, nessa fase processual, examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia, a teor da Súmula 123 do STJ.
+6. Agravo Regimental do particular desprovido (AgRg no AREsp. 570.216/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 5.4.2017).
+8. Ante o exposto, não se conhece o Agravo em Recurso Especial da FAZENDA DO ESTADO DE SÃO PAULO.
+9. Por fim, nos termos do que dispõe o art. 85, § 11 do Código Fux, fixam-se os honorários recursais em 1%, que deverá ser acrescido ao montante total.
+10. Publique-se. Intimações necessárias.
