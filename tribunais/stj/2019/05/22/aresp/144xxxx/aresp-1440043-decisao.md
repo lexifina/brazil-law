@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. AÇÕES INDENIZATÓRIAS. CONEXÃO. INEXISTÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por Autolog Transportes Logística e Armazenagem Eireli. contra a decisão que negou seguimento ao recurso especial.
+Consta dos autos que [NOME] e outra interpuseram agravo de instrumento contra decisão que, em ação de indenização por danos materiais e morais, por eles ajuizadas contra a ora agravante, em decorrência de acidente de veículo, reconheceu a conexão da ação inicial com outras distribuídas na Comarca de Salinas/MG.
+Ao julgar o recurso, a Quinta Vara Cível do Tribunal de Justiça do Estado de São Paulo deu provimento ao recurso do autor em acórdão assim ementado (e-STJ, fl. 49):
+AGRAVO DE INSTRUMENTO. ACIDENTE DE VEÍCULO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. COMPETÊNCIA. 1. Na ação de indenização decorrente de acidente de veículo o autor tem a opção de ajuizar a ação no foro do lugar do fato ou do seu domicílio. Inteligência do artigo 53, V do CPC. 2. Inviável a aplicação de honorários em razão do agravo de instrumento em comento. Inteligência do art. 85, § 11, do CPC. Decisão reformada. Recurso provido em parte.
+Opostos embargos de declaração, estes foram rejeitados.
+Irresignada, a ora agravante interpôs recurso especial (art.105, III, a, da CF), sustentando, em síntese, que "há flagrante conexão da demanda, distribuída na Comarca de São Paulo/SP, com aquelas que já tramitam há alguns anos na Comarca de Salinas/MG, notadamente por terem a mesma natureza indenizatória, a mesma causa de pedir e as mesmas partes nos polos passivos" (e-STJ, fl. 84).
+Contrarrazões às fls. 96-105 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Contraminuta não apresentada (e-STJ, fl. 410).
+Brevemente relatado, decido.
+O cerne da questão é saber qual o juízo competente para processar e julgar a ação indenizatória ajuizada pelos ora agravados.
+No caso dos autos, "trata-se de ação de reparação de danos materiais e morais decorrente de um grave acidente de veículo em que a genitora e a avó dos autores estavam em um micro-ônibus, quando o condutor de uma carreta que transportava um reboque perdeu a direção em uma curva na BR-251, atingindo o referido micro-ônibus na contramão de direção. E deste acidente, a genitora e a avó dos agravantes vieram a óbito. O requerido motorista da carreta, [NOME], era empregado da ré Autolog Transportes Logística e Armazéns, empresa esta que estava prestando serviços à corré Iveco Latin America, pretendendo os autores a condenação dos três requeridos" (e-STJ, fl. 51).
+A ação foi ajuizada na comarca de São Paulo/SP, onde residem os demandantes, e o acidente ocorreu na BR-251, com competência jurisdicional na Cormaca de Salinas/MG.
+Sobre o tema, a jurisprudência desta Corte entende que "é competente o juízo do foro do domicílio do autor ou do local do fato para a ação de reparação de dano sofrido em razão de acidente de veículos. Isso porque a regra geral do foro do domicílio do réu não seria suficiente para atender às necessidades decorrentes de lides relacionadas aos acidentes de trânsito, dado que muitas vezes a vítima haveria de ajuizar a demanda em comarcas distantes de seu domicilio ou mesmo do local do fato" (EDcl no AgRg no Ag 1.366.967/MG, Rel. Ministro Marco Buzzi, Rel. p/ Acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/04/2017, DJe 26/05/2017).
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. EXCEÇÃO DE INCOMPETÊNCIA. AJUIZAMENTO DA AÇÃO NO FORO DE DOMICÍLIO DO AUTOR. POSSIBILIDADE. ARTIGO 100, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 952.851/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/03/2017, DJe 15/03/2017)
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AÇÃO DE REPARAÇÃO DE DANOS DECORRENTES DE ACIDENTE FERROVIÁRIO. COMPETÊNCIA. FACULDADE DO AUTOR NA ESCOLHA DO FORO. ELEIÇÃO DO FORO DO DOMICÍLIO DO RÉU ADEQUADA. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+I - Assiste ao autor, vítima do dano sofrido em razão de delito ou acidente de veículo, a faculdade de ajuizar a ação indenizatória no foro do domicílio do réu (regra geral contida no art. 94 do CPC) ou, ainda, no foro do seu próprio domicílio ou do local do fato, nos termos do parágrafo único do artigo 100 do CPC.
+II - A Agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantem por seus próprios fundamentos.
+Agravo improvido.
+(AgRg no Ag 1090232/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 16/04/2009, DJe 06/05/2009)
+Ademais, a remessa do feito para a Comarca de Salinas-MG implicaria enorme sacrifício para os autores se defenderem, uma vez que teriam de fazê-lo em outra unidade da federação.
+A propósito:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. ACIDENTE DE TRÂNSITO. AÇÕES INDENIZATÓRIAS. CONEXÃO. INEXISTÊNCIA. INCONVENIÊNCIA DA MEDIDA.
+1. Não se afigura razoável a reunião de duas ações indenizatórias decorrentes de uma mesma relação jurídica de direito material (acidente de trânsito) se os autores estão em comarcas que distam quase 03 mil quilômetros entre si e se as pretensões de cada um são diferentes.
+2. O art. 103 do CPC se limita a instituir requisitos mínimos de conexão, cabendo ao Juiz, conforme os elementos presentes em cada caso, aquilatar se a adoção da medida se mostra aconselhável e consentânea com a finalidade do instituto, que, em última análise, se presta a colaborar com a efetividade da justiça e a pacificação social.
+3. O critério fundamental a ser sopesado pelo julgador nessa avaliação situa-se em torno da verificação da conveniência da reunião dos processos.
+4. A mera possibilidade de juízos divergentes sobre uma mesma questão jurídica não configura, por si só, conexão entre as demandas em que foi suscitada. A prolação de decisões conflitantes, embora indesejável, é evento previsível, cujos efeitos o sistema procura minimizar com os instrumentos da uniformização de jurisprudência (CPC, art. 476), dos embargos de divergência (CPC, art. 546) e da afetação do julgamento a órgão colegiado uniformizador (CPC, art. 555, § 1º), dando ensejo, inclusive, à edição de súmulas (CPC, art. 479) e à fixação de precedente destinado a dar tratamento jurídico uniforme aos casos semelhantes.
+5. A despeito da inexistência de previsão no art. 103 do CPC, a identidade de partes constitui elemento de extrema importância, a ser levado em consideração pelo julgador ao decidir se a conexão é de fato oportuna. O reconhecimento de conexão entre ações que, apesar de possuírem uma mesma relação jurídica de direito material, tenham apenas identidade parcial de partes, pode, conforme o caso, impor sérios entraves ao regular desenvolvimento dessas ações, inclusive em detrimento dos próprios interessados. Por outro lado, é possível imaginar situações em que a conexão de ações com identidade apenas parcial de partes será benéfica, por agilizar e baratear a instrução, bem como por possibilitar a prolação de uma única decisão, válida para todos. Dessa forma, o juízo quanto à conveniência da conexão deve ser feito de forma casuística, a partir das circunstâncias presentes em cada caso, contemplando inclusive a identidade de partes.
+6. Conflito não conhecido.
+(CC 113.130/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 24/11/2010, DJe 03/12/2010)
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
