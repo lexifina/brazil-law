@@ -1,0 +1,17 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Terceira Vara Criminal da Comarca de Marília/SP, ao receber a denúncia no processo nº 1500992-58.2019.8.26.0344, converteu em preventiva a prisão temporária do paciente, ocorrida no dia 1º de março de 2019, e de outros três cidadãos, considerado o suposto cometimento das infrações previstas nos artigos 157, § 2º, inciso II (roubo com causa de aumento alusiva ao concurso de agentes), combinado com o 14, inciso II (tentativa), 155, § 4º, inciso IV (furto qualificado por concurso de pessoas) e 288, parágrafo único (associação criminosa com causa de aumento decorrente do emprego de arma e da participação de adolescente), na forma do 69, do Código Penal. Destacou o desassossego da comunidade local, dizendo tratar-se de pessoa contumaz na prática de delitos contra o patrimônio. Concluiu necessária a custódia para garantir a ordem pública.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 504.815/SP, indeferido liminarmente pelo Relator.
+     O impetrante sustenta a insubsistência dos fundamentos do ato por meio do qual implementada a prisão, afirmando-o lastreado na gravidade abstrata dos crimes. Realça a primariedade do paciente. Sublinha viável a aplicação de cautelar substitutiva.
+    Requer, no campo precário e efêmero, a expedição de alvará de soltura. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, realizada em 20 de maio de 2019, revelou haver audiência de instrução e julgamento designada para 1º de julho de 2019.
+    A fase é de exame da medida de urgência.
+    2. A análise da decisão que implicou a preventiva do paciente mostra haver sido considerada a imputação. Inexiste a prisão automática tendo em conta a infração supostamente cometida, levando à inversão da ordem do processo-crime, que direciona, ante o princípio da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. A materialidade do delito e os indícios de autoria são, por si sós, elementos neutros, insuficientes a respaldarem o argumento referente à preservação da ordem pública. Esta fica vinculada à observância da legislação em vigor, devendo a custódia cautelar basear-se no artigo 312 do Código de Processo Penal. O combate à delinquência não há de fazer-se a ferro e fogo, mas mediante política criminal normativa. Quanto a alusão à contumácia delitiva, deve ser indicado dado concreto, individualizado, a demonstrar a indispensabilidade da prisão. Fora isso é a suposição do excepcional, do extravagante, o que não a justifica. Tem-se a insubsistência das premissas lançadas.
+    3. Defiro a liminar. Expeçam o contramandado de prisão, ou, se já ocorrido o fenômeno, o alvará de soltura, a ser implementado com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da custódia preventiva formalizada no processo nº 1500992-58.2019.8.26.0344, da Terceira Vara Criminal da Comarca de Marília/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 22 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
