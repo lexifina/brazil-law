@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+EMENTA PREVIDENCIÁRIO. REVISÃO DO VALOR INICIAL DE APOSENTADORIA. PRETENSÃO À MAJORAÇÃO DO TETO DOS SALÁRIOS DE CONTRIBUIÇÃO. DIB ANTERIOR À VIGÊNCIA DA CF/88. INEXISTÊNCIA DE DIREITO À ADEQUAÇÃO AOS NOVOS TETOS PREVISTOS NAS EMENDAS CONSTITUCIONAIS 20/98 E 41/2003.
+1. Caso em que se pretende a revisão do valor do salário de benefício relativo à aposentadoria concedido em 12.08.1985, a fim de se adequar o valor da renda mensal inicial aos tetos limites introduzidos nas EC 20/98 e EC 41/2003, respectivamente;
+2. Considerando que a DIB, no caso, remonta a período anterior à promulgação da Constituição Federal de 1988, o cálculo da renda mensal inicial se dera nos moldes da legislação então vigente, não incidindo, portanto, os limites de teto introduzidos pela Lei nº 8.213/91 (10 salários mínimos), situação que somente atingira aqueles concedidos durante o período do "buraco negro" e posteriormente a sua edição. Daí, inexistindo redução do valor da aposentadoria, quando da respectiva concessão, consequentemente, não há direito à aplicação dos novos limites previstos nas emendas constitucionais elencadas (20/98 e 41/2003);
+3. Apelação improvida.
+No presente recurso especial, o recorrente aponta violação dos arts. 1.010 e 1.013 do CPC/2015.
+Sustenta, em síntese, que o Tribunal de origem utilizou fundamento inovador para negar provimento a apelação interposta pelo recorrente. Alega que o recorrido não se utilizou da tese de que a Lei n. 8.213/91 não se aplica ao benefício do recorrente, violando o princípio da não surpresa.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Sobre a alegada violação dos arts. 1.010 e 1.013 do CPC/2015, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos Enunciados Sumulares n. 282 e 356 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+Ainda que assim não fosse, não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1486330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/2/2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2/6/2015; EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio De Noronha, CORTE ESPECIAL, DJe 27/5/2015.
+Dessarte, como se observa de forma clara, se trata apenas de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
