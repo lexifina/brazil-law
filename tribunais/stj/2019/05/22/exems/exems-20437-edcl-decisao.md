@@ -1,0 +1,19 @@
+DECISÃO
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Trata-se de embargos de declaração por meio dos quais se sustenta que há vícios na decisão embargada.
+A embargante reitera a necessidade de sobrestamento do feito, em razão do efeito suspensivo concedido nos embargos de declaração no RE 870.947/SE.
+Requer sejam acolhidos os embargos.
+É o relatório. Passo a decidir.
+O tema apresentado pela União foi enfrentado na decisão de fls. 2.690/2.691, nos seguintes termos:
+Às fls. 2.682 e seguintes, a União argumenta, em síntese, que está pendente de análise o pedido de modulação dos efeitos da declaração de inconstitucionalidade do artigo 1º-F da Lei 9.494/97, no que tange à correção monetária das condenações impostas à Fazenda Pública, nos autos do RE 870.947/SE, motivo pelo qual se impõe o sobrestamento do presente feito.
+A despeito disso, depreende-se dos autos que a decisão de fl. 2.671 deferiu o pedido de expedição de precatório "em montante correspondente ao indicado pela União".
+Por oportuno, transcrevem-se os cálculos apresentados pela União (fl. 2.662):
+Conforme se verifica no Parecer anexo, PARECER TÉCNICO Nº 393-C/2018- DCP/PGU/AGU ao analisar a conta de liquidação do exequente, no montante de R$ 701.879,37 (setecentos e um mil, oitocentos e setenta e nove reais e trinta e sete centavos) atualizada até junho/2017, entende-se que ela não deva proceder, pelas razões dispostas a seguir:
+a) Os cálculos em agosto/2013 deveriam ser proporcionais a 3 dias, tendo em vista a inexigibilidade dos valores anteriores à data de impetração (28/08/2013), dada à irretroatividade da ordem concedida em mandado de segurança.
+b) A correção monetária a partir de abril/2015, foi aplicada com base na variação do IPCAE, quando o correto seria com base na variação da TR, conforme o disposto no art. 5º da Lei nº 11.960/2009.
+c) Não foram abatidas da Gratificação Natalina do exercício de 2013, a parcela adiantada em jan/2013, no valor de R$ 9.725,50, bem como a parcela proporcional paga em ago/2013, no valor de R$ 2.188,29, conforme demonstradas nas fichas financeiras anexas ao TÉCNICO Nº 393-C/2018-DCP/PGU/AGU.
+Como se verifica, utilizou-se a TR para fins de correção monetária, razão pela qual não se justifica o pedido ora formulado pela União.
+Cumpre registrar que, conforme entendimento jurisprudencial e doutrinário, uma das importantes funções do princípio da boa-fé objetiva é impedir que a parte exerça o seu direito de forma abusiva. Ressalte-se que "a jurisprudência desta Corte, com base no princípio da boa fé objetiva, tem consagrado a proibição do venire contra factum proprium" (REsp 876.682/PR, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 5.8.2010), ou seja, "o princípio da boa-fé objetiva proíbe que a parte assuma comportamentos contraditórios no desenvolvimento da relação processual, o que resulta na vedação do venire contra factum proprium, aplicável também ao direito processual" (AgRg no REsp 1.280.482/SC, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 13.4.2012).
+Desse modo, não há vício na decisão ora embargada, de modo que a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC. Nesse sentido: EDcl no AgRg no Ag 538.371/PR, 3ª Turma, Rel. Min. Nancy Andrighi, DJ de 24.5.2004; EDcl no AgRg no REsp 550.972/PR, 1ª Turma, Rel. Min. Luiz Fux, DJ de 24.5.2004.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
