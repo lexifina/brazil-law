@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Agravo Interno interposto contra decisão monocrática que negou provimento ao Recurso Especial do Município de São Paulo (fls. 416-418, e-STJ).
+O agravante alega, em preliminar, questão de ordem pública atinente à incompetência absoluta da Justiça Estadual para julgar causa referente à cobrança de contribuições sindicais de servidores públicos, conforme entendimento firmado pelo STJ no julgamento do CC 138.378/MA. No mérito, sustenta a não incidência de contribuições sindicais sobre vencimentos dos servidores públicos estatutários, a ilegitimidade ativa da confederação ora agravada para cobrar contribuição sindical e a inaplicabilidade do art. 600 da CLT para atualização dos débitos relativos à contribuição sindical, porquanto o referido dispositivo legal não foi recepcionado pela Constituição Federal de 1988. Por fim, defende a redução dos honorários advocatícios fixados em 10% sobre o valor da condenação, pois representariam quantia exorbitante.
+Pleiteia a reforma do decisum agravado pela Turma julgadora.
+Impugnação às fls. 452-460, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 6.2.2019.
+Diante da argumentação trazida pelo agravante, reconsidero a decisão ora agravada.
+Verifico que a discussão se encontra com repercussão geral reconhecida pelo Supremo Tribunal Federal (Tema 994, RE 1.089.282/AM), conforme ementa ora transcrita:
+DIREITO DO TRABALHO. DISCUSSÃO SOBRE COMPETÊNCIA. ART. 114, III, DA CR/88. ADI 3395/MC. CONTRIBUIÇÃO SINDICAL.
+Possui repercussão geral a discussão sobre competência, da Justiça Comum ou do Trabalho, quando o objeto da demanda disser respeito à representação sindical e conflitos sindicais, incluídas as ações de cobrança de contribuições sindicais, em relação a servidores públicos regidos pelo regime estatutário.
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC e 1040 e seguintes do CPC/2015, conforme o caso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO EM FACE DE DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. PENDÊNCIA DE JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA, NO QUAL SE DISCUTE QUESTÃO IDÊNTICA. PROVIDÊNCIA QUE NÃO ENSEJA PREJUÍZO A NENHUMA DAS PARTES. NECESSIDADE DE SE OBSERVAR OS OBJETIVOS DA LEI 11.672/2008.
+(..)
+4. Além disso, em razão das modificações inseridas no Código de Processo Civil pelas Leis 11.418/2006 e 11.672/2008 (que incluíram os arts. 543-B e 543-C, respectivamente), não há óbice para que o Relator, levando em consideração razões de economia processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias. Nesse contexto, se há nos autos recurso extraordinário sobrestado em razão do reconhecimento de repercussão geral no âmbito do STF e/ou recurso especial cuja questão central esteja pendente de julgamento em recurso representativo da controvérsia no âmbito desta Corte (caso dos autos), é possível ao Relator determinar que o recurso especial seja apreciado apenas após exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário, na forma do art. 543-B, § 3º, do CPC, e/ou após cumprido o disposto no art. 543-C, § 7º, do CPC. É oportuno registrar que providência similar é adotada no âmbito do Supremo Tribunal Federal.
+5. Entendimento em sentido contrário para que a suspensão ocorra sempre no âmbito do Superior Tribunal de Justiça implica esvaziar um dos objetivos da Lei 11.672/2008, qual seja, "criar mecanismo que amenize o problema representado pelo excesso de demanda" deste Tribunal. Assim, deve ser "dada oportunidade de retratação aos Tribunais de origem, devendo ser retomado o trâmite do recurso, caso a decisão recorrida seja mantida", sendo que tal solução "inspira-se no procedimento previsto na Lei nº 11.418/06 que criou mecanismo simplificando o julgamento de recursos múltiplos, fundados em idêntica matéria, no Supremo Tribunal Federal", conforme constou expressamente das justificativas do respectivo Projeto de Lei (PL 1.213/2007).
+6. Agravo regimental não conhecido (AgRg no AREsp 153829/PI, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 23/05/2012).
+Pelo exposto, torno sem efeito a decisão de fls. 416-418, e-STJ, e determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC e 1040 e seguintes do CPC/2015, após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
