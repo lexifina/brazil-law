@@ -1,0 +1,65 @@
+EMENTA
+TERCEIROS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RECURSO INFUNDADO. NÍTIDO CARÁTER PROTELATÓRIO. DESVIRTUAMENTO DO CÂNONE DA AMPLA DEFESA. ABUSO DE DIREITO. EMBARGOS NÃO CONHECIDOS. DETERMINAÇÃO DE BAIXA DOS AUTOS À ORIGEM.
+1. A recorribilidade vazia, infundada, tão somente com nítido intuito protelatório, configura abuso do direito de recorrer e não é admissível em nosso ordenamento jurídico, notadamente em respeito aos postulados da lealdade e da boa-fé processual, além de configurar desvirtuamento do próprio cânone da ampla defesa.
+2. Não obstante na esfera penal não ser viável a fixação de multa por litigância de má-fé, é cabível a baixa dos autos à origem, independentemente da publicação do acórdão recorrido e da certificação do trânsito em julgado.
+3. Embargos de declaração não conhecidos, com a determinação de imediata baixa dos autos à origem, independentemente da publicação deste acórdão e da eventual interposição de outro recurso, devendo a Coordenadoria de Recursos Extraordinários certificar o trânsito em julgado.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça: por unanimidade, não conhecer dos embargos de declaração, com a determinação de imediata baixa dos autos à origem, independentemente da publicação do acórdão, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Felix Fischer, Francisco Falcão, Nancy Andrighi e Laurita Vaz votaram com a Sra. Ministra Relatora.
+Ausentes, justificadamente, os Srs. Ministros Humberto Martins e Herman Benjamin.
+RELATÓRIO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+Em terceira oposição, [NOME] se contrapõe ao acórdão prolatado pela Corte Especial que rejeitou os anteriores aclaratórios opostos contra aresto que negou provimento ao agravo regimental, que, por sua vez, foi aviado contra decisão de negativa de seguimento do recurso extraordinário. Confiram-se as ementas dos quatro julgados:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. VIOLAÇÃO DO PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. VIOLAÇÃO DO ART. 5º, LIV e LV, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+1. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF). Assim, eventual ofensa ao texto constitucional, ainda que existente, dar-se-ia de forma indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+2. "Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito" (RE-RG 956.302, Rel. Min. EDSON FACHIN, julgado em 19/5/2016, publicado em 16/6/2016 - Tema 895/STF).
+3. O Plenário Virtual da Suprema Corte já decidiu, nos autos do ARE-RG 748.371/MT, que não possui repercussão geral a matéria relativa à suposta violação dos princípios constitucionais do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender da análise preliminar da adequada aplicação das normas infraconstitucionais (Tema 660/STF).
+Agravo regimental improvido. (fls. 1.282/1.283)
+EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 619 DO CPP. TEMA APRECIADO CONFORME JURISPRUDÊNCIA CONSOLIDADA. PREQUESTIONAMENTO INVIÁVEL.
+1. Inexistentes as eivas do art. 619 do CPP, o recurso de embargos não se afigura meio idôneo para o reexame da matéria decidida, sobretudo quando a decisão está alicerçada em vasto entendimento consolidado pela Jurisprudência desta Corte.
+2. Assim, estando a decisão firme em seu núcleo de fundamentação, é de se ter por desnecessária a ampliação da controvérsia por meio da extensão de tema por ela abrangido, notadamente porque a decisão de negativa do recurso extraordinário restou alicerçada no entendimento da Suprema Corte.
+3. Embargos rejeitados. (fl. 1.318)
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO EMBARGADO. REEXAME DA QUESTÃO JULGADA. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. O cabimento dos embargos de declaração em matéria criminal está disciplinado no artigo 619 do Código de Processo Penal, sendo que a inexistência dos vícios ali consagrados importam no desacolhimento da pretensão aclaratória.
+2. Inviável o acolhimento da via sob o pretexto de ocorrência de omissão na decisão embargada quanto ao tema da usurpação de competência, notadamente quando é nítida a pretensão de discutir matéria já suficientemente apreciada e decidida conforme a previsão do Código de Processo Civil em seu artigo 1.030, inciso I.
+3. Embargos de declaração rejeitados. (fl. 1.355)
+Em seus terceiros embargos declaratórios consecutivos, às fls. 1.366/1.370, a parte embargante reitera a alegada omissão, aduzindo, para tanto, que a decisão anterior não se propôs a responder sobre a usurpação de competência do Supremo Tribunal Federal.
+Por isso, entende que não foi apreciado o fundamento da via aclaratória e que haveria necessidade de sanar o mencionado vício de omissão com o encaminhamento do feito ao Supremo Tribunal Federal.
+Impugnação aos embargos apresentados (fls. 1.382/1.385).
+É o relatório.
+EMENTA
+TERCEIROS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RECURSO INFUNDADO. NÍTIDO CARÁTER PROTELATÓRIO. DESVIRTUAMENTO DO CÂNONE DA AMPLA DEFESA. ABUSO DE DIREITO. EMBARGOS NÃO CONHECIDOS. DETERMINAÇÃO DE BAIXA DOS AUTOS À ORIGEM.
+1. A recorribilidade vazia, infundada, tão somente com nítido intuito protelatório, configura abuso do direito de recorrer e não é admissível em nosso ordenamento jurídico, notadamente em respeito aos postulados da lealdade e da boa-fé processual, além de configurar desvirtuamento do próprio cânone da ampla defesa.
+2. Não obstante na esfera penal não ser viável a fixação de multa por litigância de má-fé, é cabível a baixa dos autos à origem, independentemente da publicação do acórdão recorrido e da certificação do trânsito em julgado.
+3. Embargos de declaração não conhecidos, com a determinação de imediata baixa dos autos à origem, independentemente da publicação deste acórdão e da eventual interposição de outro recurso, devendo a Coordenadoria de Recursos Extraordinários certificar o trânsito em julgado.
+
+VOTO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+Os novos aclaratórios não comportam conhecimento.
+De fato, verifica-se que esta colenda Corte Especial decidiu, expressamente, a questão alegadamente omitida, senão vejamos (fls. 1.359/1.360):
+Com efeito, muito embora não se tenha enfrentado o tema específico da competência do Supremo Tribunal Federal, não era o caso de fazê-lo, porquanto o aresto embargado deixou claro que mantinha a negativa de seguimento do apelo extraordinário a partir do próprio entendimento consagrado em sede de repercussão geral pelo Supremo Tribunal Federal, o que evidentemente confere ao juízo negativo de admissibilidade proferido a adequação com o artigo 1.030, inciso I, do Código de Processo Civil/2015.
+Por fim, destaque-se que, nos termos da jurisprudência desta Corte, "os embargos de declaração somente são cabíveis quando presente, ao menos, uma das hipóteses previstas no art. 619 do Código de Processo Penal", salientando-se que o "órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão". (EDcl no AgRg no Ag 1.308.898/RS, Rel. Min. SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 15/02/2012).
+O que se constata, em verdade, é que o embargante busca, a todo custo, adequar o posicionamento do órgão julgador competente ao seu entendimento pessoal a respeito da matéria, função imprestável aos embargos de declaração.
+Ademais, observa-se que a parte embargante opõe pela terceira vez os aclaratórios não com o intuito de corrigir eventual omissão, contradição ou obscuridade porventura existentes no julgado, mas, sim, de protelar ao máximo possível o trânsito em julgado perante este Tribunal Superior, para tumultuar e impedir o fim natural do processo.
+Entretanto, denota-se que a recorribilidade vazia, infundada, como in casu, tão somente com nítido intuito protelatório, configura abuso do direito de recorrer e não é admissível em nosso ordenamento jurídico, notadamente em respeito aos postulados da lealdade e boa-fé processual, além de configurar desvirtuamento do próprio cânone da ampla defesa.
+Em casos como o presente, impõe-se ao Poder Judiciário a adoção de providências necessárias à manutenção da ordem no processo e da efetividade da tutela jurisdicional.
+Nesse contexto, muito embora na esfera penal não seja viável a fixação de multa por litigância de má-fé, é cabível a baixa dos autos à origem, independentemente da publicação do acórdão recorrido e da certificação do trânsito em julgado da condenação. A propósito, vejam-se estes precedentes:
+EMBARGOS DE DECLARAÇÃO MANIFESTAMENTE PROTELATÓRIOS. AUSÊNCIA DE AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. USO ABUSIVO DOS EMBARGOS DE DECLARAÇÃO. POSSIBILIDADE DE SE IMPOR O IMEDIATO CUMPRIMENTO DO JULGADO. PRECEDENTES.
+1. Inadmissível a reiteração de embargos declaratórios, quando não houver na decisão embargada ambiguidade, obscuridade, contradição nem omissão a ser sanada.
+2. Havendo a nítida finalidade, por parte da defesa, de prolongar, prorrogar, enfim, protrair o trânsito em julgado da condenação, é de rigor, segundo a jurisprudência, a determinação da imediata execução da sentença.
+3. Embargos de declaração dos quais não se conheceu, com determinação de se dar imediato início à execução da pena imposta aos acusados, independentemente da publicação do acórdão e da interposição de eventual recurso.
+(EDcl nos EDcl no AgRg no AG n. 1.141.088/RS, Rel. Min. CELSO LIMONGI, SEXTA TURMA, DJe 4/4/2011)
+EMBARGOS DE DECLARAÇÃO. PRAZO PARA INTERPOSIÇÃO DO AGRAVO PENAL. 5 DIAS. PRETENSÃO DE REDISCUTIR MATÉRIA SUFICIENTEMENTE FUNDAMENTADA. INTUITO PROCRASTINATÓRIO. EMBARGOS NÃO CONHECIDOS. CIÊNCIA IMEDIATA AO TRIBUNAL DE ORIGEM PARA DETERMINAR O CUMPRIMENTO DO JULGADO.
+1. Conforme dispõe o art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado, o que não se verifica na hipótese.
+2. Não existe a alegada contradição no decisum impugnado, conforme já claramente explicitado nos embargos anteriormente opostos, restando, pois, evidente o caráter protelatório do presente recurso.
+3. Embargos de declaração rejeitados. Diante do propósito protelatório revelado pelo Embargante, podendo até mesmo provocar a extinção da punibilidade estatal pela ocorrência da prescrição, mostra-se imperioso dar-se imediata ciência do decidido aos órgãos judiciais das instâncias ordinárias, a fim de que se dê cumprimento, imediatamente, ao acórdão vergastado, independentemente de eventual interposição de qualquer outro recurso. Precedentes desta Corte e de ambas as Turmas do Excelso Supremo Tribunal Federal.
+(EDcl nos EDcl no AgRg nos EDcl no Ag 1.112.715/ MT, Rel. Min. LAURITA VAZ, QUINTA TURMA, DJe 6/12/2010)
+No mesmo sentido, também já decidiu o Supremo Tribunal Federal:
+HABEAS CORPUS. CONDENAÇÃO SEM TRÂNSITO EM JULGADO. INÍCIO DA EXECUÇÃO DA PENA. POSSIBILIDADE QUANDO EVIDENCIADO O PROPÓSITO PROTELATÓRIO. ORDEM DENEGADA COM A CASSAÇÃO DA LIMINAR CONCEDIDA.
+1. Os julgamentos já ocorridos nos autos da ação penal de origem, todos contrários à defesa, não recomendam a manutenção da liminar concedida no início do processo.
+2. A questão debatida pelo paciente nos autos originários já foi incisivamente resolvida em acórdãos que aplicaram a jurisprudência sedimentada, além de súmulas do Supremo Tribunal Federal.
+3. O paciente já teve inúmeras oportunidades de discutir a decisão condenatória, já exaustivamente confirmada, o que deixa patente a intenção da defesa de retardar o trânsito em julgado da condenação, por meio da interposição de sucessivos e infindáveis recursos.
+4. Ordem denegada, com revogação da liminar e autorização para a execução imediata e definitiva da pena.
+(HC n. 88.500/RS, Rel. Min. JOAQUIM BARBOSA, SEGUNDA TURMA, DJe 18/12/2009)
+Ante o exposto, não conheço dos embargos de declaração opostos pela terceira vez consecutiva. Outrossim, tendo em conta a pretensão manifestamente procrastinatória, determino a imediata baixa dos autos à origem, independentemente da publicação deste acórdão e da eventual interposição de outro recurso, devendo a Coordenadoria de Recursos Extraordinários certificar o trânsito em julgado.
+É como voto.
