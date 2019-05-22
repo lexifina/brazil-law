@@ -1,0 +1,31 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA, contra acórdão prolatado, por unanimidade, pela 6ª Turma do Tribunal Regional Federal da 1ª Região no julgamento de apelação, assim ementado (fls. 241/248e):
+ADMINISTRATIVO E AMBIENTAL. INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS (IBAMA).CRIADOR AMADORISTA DE PASSERIFORMES. LICENCIAMENTO ANUAL.EMISSÃO DE GUIA PARA PAGAMENTO DE TAXA CONDICIONADA AO RECOLHIMENTO DE DÉBITOS PROVENIENTES DE AUTUAÇÃO ANTERIOR. INADMISSIBILIDADE.
+1. Não encontra respaldo no ordenamento jurídico brasileiro a atitude do Ibama de condicionar o exercício do seu poder de polícia ao pagamento de débitos decorrentes de autuações administrativas, procedimento que constitui forma indireta de cobrança, repelido pela jurisprudência.Precedente.
+2. Sentença confirmada.
+3. Desprovidas a apelação e a remessa oficial, tida por interposta.
+Opostos embargos de declaração, foram rejeitados (fls. 258/262e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 38, 70, 72, XI, da Lei n.9.605/1998 e art. 4º, I e IV, da Lei n. 6.938/81, alegando-se, em síntese, que "na ação, o ora recorrido, pretende obter a emissão de guia para o pagamento da taxa de licenciamento anual, não obstante a existência de débitos de multas administrativas. Argumenta o demandante ser ilegal a negativa de prestação de serviço por parte da Autarquia. Sucede que referido bloqueio visa a apurar a forma irregular e lesiva ao meio ambiente com que tem agido a parte autora na degradação ambiental e florestal, sendo impensável, nestes casos, que a empresa venha a ser agraciada com serviços que lhe permitam persistir na continuidade delitiva, sobretudo porque a legislação ambiental assim não permite" (fls.269/270e).
+Sem contrarrazões, o recurso foi inadmitido (fls. 281/282e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 308e).
+O Ministério Público Federal manifestou-se às fls. 301/306e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, b, e 255, II, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No caso, verifico que o acórdão recorrido adotou entendimento consolidado nesta Corte, segundo o qual é vedado ao IBAMA condicionar o exercício de seu poder de polícia ao pagamento de débitos administrativos, procedimento que constitui forma indireta de cobrança de débito.
+Nesse sentido:
+PROCESSUAL CIVIL E AMBIENTAL. IBAMA. UTILIZAÇÃO DE SANÇÃO ADMINISTRATIVA COMO FORMA DE COERÇÃO PARA PAGAMENTO DE MULTA. AUSÊNCIA DE PREVISÃO LEGAL. JURISPRUDÊNCIA DOMINANTE DO STJ.
+1. O acórdão recorrido está em consonância com a jurisprudência do STJ firmada no sentido de que não tem respaldo legal a exigência do Ibama de condicionar a retirada do bloqueio da empresa no sistema Documento de Origem Florestal  DOF/SISFLORA ao pagamento de multa, por infração à legislação ambiental. Exceção feita na hipótese em que o sujeito continua a infringir as normas vigentes, situação não comprovada nos autos.
+2. Recursos Especiais do Ministério Público Federal e do Ibama não providos.
+(REsp 1676464/PA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/08/2018, DJe 20/11/2018)
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. ICMS. MANDADO DE SEGURANÇA. APREENSÃO DE MERCADORIAS. EXISTÊNCIA DE DÉBITOS COM A FAZENDA PÚBLICA. PRINCÍPIO DO LIVRE EXERCÍCIO DE ATIVIDADE ECONÔMICA. ARTIGO 170, PARÁGRAFO ÚNICO, DA CONSTITUIÇÃO FEDERAL.
+SÚMULA N.º 547 DO STF.
+1. O Poder Público atua com desvio de poder ao apreender equipamentos industriais a serem utilizados na produção da recorrente, sob a argumentação de inadimplemento do diferencial de alíquota do ICMS. (artigo 170, parágrafo único, da Carta Magna).
+2. A sanção, que por via oblíqua objetive o pagamento de tributo, gerando a restrição ao direito de livre comércio, é coibida pelos Tribunais Superiores através de inúmeros verbetes sumulares, a saber: a) "é inadmissível a interdição de estabelecimento como meio coercitivo para cobrança de tributo" (Súmula n.º 70/STF); b) "é inadmissível a apreensão de mercadorias como meio coercitivo para pagamento de tributos" (Súmula n.º 323/STF); c) "não é lícito a autoridade proibir que o contribuinte em débito adquira estampilhas, despache mercadorias nas alfândegas e exerça suas atividades profissionais" (Súmula n.º 547/STF); e d) "É ilegal condicionar a renovação da licença de veículo ao pagamento de multa, da qual o infrator não foi notificado" (Súmula n.º 127/STJ).
+3. Destarte, é defeso à administração impedir ou cercear a atividade profissional do contribuinte, para compeli-lo ao pagamento de débito, uma vez que este procedimento redundaria no bloqueio de atividades lícitas, mercê de representar hipótese da autotutela, medida excepcional ante o monopólio da jurisdição nas mãos do Estado-Juiz.
+4. Recurso especial provido.
+(REsp 899.664/AL, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 11/12/2007, DJe 08/05/2008)
+In casu, impossibilitada a majoração de honorários nos termos do art. 85, § 11, do Código de Processo Civil de 2015, porquanto não houve anterior fixação de verba honorária.
+Isto posto, com fundamento nos arts. 932, IV, do Código de Processo Civil de 2015 e 34, XVIII, b, e 255, II, ambos do RISTJ, NEGO PROVIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
