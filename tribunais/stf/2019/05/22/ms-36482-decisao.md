@@ -1,0 +1,23 @@
+DECISÃO
+COMPETÊNCIA – MANDADO DE SEGURANÇA – AUTORIDADE COATORA – TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO – DECLINAÇÃO.
+    1. O assessor Dr. William Akerman Gomes prestou as seguintes informações:
+    Eduardo Luiz Rocha Cubas, juiz federal, impetrou mandado de segurança, apontando como autoridade coatora o Conselho Nacional de Justiça, por não ter conhecido do pedido formulado no procedimento de controle administrativo nº 0003125-39.2019.2.00.0000, a versar arguida ilegalidade da exclusão do concurso de remoção promovido pelo Tribunal Regional Federal da 1ª Região. Indica como litisconsortes passivos necessários os juízes federais Cristiano Mirando de Santana e Cristiane Pederzolli Rentzsch, os quais foram removidos e serão alcançados pelos efeitos de eventual deferimento da segurança.
+    Relata a formalização, pela Advocacia-Geral da União, de reclamação disciplinar, na qual imputada a prática de condutas ilícitas. Destaca ter sido afastado do cargo, em 27 de setembro de 2018, por decisão do Corregedor Nacional de Justiça, posteriormente referendada pelo Plenário do Conselho, em sessão de julgamento realizada no dia 9 de outubro seguinte.
+    Diz impetrado o mandado de segurança nº 36.269 e implementada, por Vossa Excelência, a medida acauteladora, no que assegurado o retorno às funções jurisdicionais.
+    Assevera haver sido impedido de participar da remoção aberta por meio do Edital ASMAG/JF nº 6/2019, em razão da pendência do processo administrativo disciplinar no Conselho.
+    Conforme narra, formalizada a reclamação nº 34.489/DF, ante alegado descumprimento da liminar deferida no mandado de segurança nº 36.269, Vossa Excelência negou-lhe seguimento, assentando que “a irresignação veiculada no mandado de segurança está direcionada contra ato do Conselho Nacional de Justiça. Eventual inconformismo decorrente da atuação do Tribunal Regional Federal da 1ª Região deve ser buscado na via apropriada”.
+    Aduz ter, a seguir, deflagrado, no Conselho, procedimento de controle administrativo, cujo pedido não foi conhecido sob o argumento da judicialização da matéria por meio da citada reclamação.
+    Sustenta equivocada a exclusão do concurso de remoção pelo Tribunal Regional Federal, aludindo ao princípio da não culpabilidade e ao artigo 15, § 3º, da Resolução CNJ nº 135/2011, o qual, segundo afirma, deve prevalecer sobre o artigo 29 da Resolução CJF nº 1/2008. Sublinha a impossibilidade de a instauração de processo administrativo constituir óbice à participação no procedimento de remoção, ressaltando ser o magistrado mais antigo apto a concorrer.
+    Sob o ângulo do risco, assinala a aprovação da remoção dos juízes federais apontados como litisconsortes, com menos tempo de antiguidade. Pretende, liminarmente, a participação no processo de provimento mediante remoção aberto por meio do Edital de Remoção ASMAG/JF nº 006/2019. No mérito, postula a confirmação da tutela provisória, com o deferimento da ordem.
+    2. Apesar de indicar o Conselho Nacional de Justiça como impetrado e afirmar insurgir-se em face do pronunciamento por meio do qual não conhecido o pleito veiculado no procedimento de controle administrativo nº 0000197-18.2019.2.00.0000, o impetrante formulou pedido voltado contra ato do Tribunal Regional Federal da 1ª Região.
+    Não busca pronunciamento judicial visando invalidação da decisão do Conselho – a qual alega equivocada –, mas pretende seja assegurada a participação no concurso de remoção aberto, por aquele Tribunal, com o Edital ASMAG/JF nº 6/2019.
+    Conforme fiz ver na reclamação nº 34.489/DF, o “inconformismo decorrente da atuação do Tribunal Regional Federal da 1ª Região deve ser buscado na via apropriada” e perante o órgão jurisdicional competente.
+    A competência originária do Supremo para exame de mandado de segurança está circunscrita aos casos em que apontados, como autoridade coatora, o Presidente da República, a Mesa do Senado ou a da Câmara, o Procurador-Geral da República, o Tribunal de Contas da União ou o próprio Supremo – artigo 102, inciso I, alínea “d”, da Constituição Federal.
+    Nos termos do verbete nº 624 da Súmula do Supremo, não lhe cabe conhecer originariamente de mandado de segurança contra atos de outros tribunais.
+    Cumpre ao próprio Tribunal Regional Federal o julgamento desta impetração, a teor do artigo 108, inciso I, alínea “c”, da Lei Maior.
+    3. Ante o quadro, declino da competência para o Tribunal Regional Federal da 1ª Região.
+    4. Com o trânsito em julgado desta decisão, remetam-lhe o processo, retificando, antes, a autuação.
+    5. Publiquem.
+Brasília, 22 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
