@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por GRACIELA MARCELA GODOS VALIENTE, em face do acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (fls. 72/73):
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS (APROXIMADAMENTE 1 KG DE COCAÍNA). PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS DEVIDAMENTE DEMONSTRADOS. INVIABILIDADE DA SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR OUTRAS MEDIDAS CAUTELARES. ORDEM DENEGADA.
+I. O fumus comissi delicti está presente, diante da materialidade e indícios de autoria do crime previsto no artigo 33 da Lei 11.343/2006, confirmados pelo auto de prisão em flagrante.
+II. O periculum libertatis é indiscutível e foi devidamente registrado na decisão que converteu a prisão em flagrante em preventiva, em face da quantidade de droga apreendida (aproximadamente um quilo de cocaína), bem como o fato de ser a paciente nacional do Peru, sem vínculo com o Brasil.
+III. O magistério jurisprudencial do Superior Tribunal de Justiça recomenda a manutenção da prisão preventiva do paciente, uma vez que: "O Juízo de primeiro grau apontou concretamente a presença dos vetores contidos no art. 312 do Código de Processo Penal, evidenciada pela natureza e pela quantidade da droga apreendida, a saber, 287 pinos de cocaína (quase meio quilo)" (STJ - RHC 64.269/MG, DJe de 07/12/2015).
+IV. O Superior Tribunal de Justiça tem mantido a prisão preventiva de estrangeiro, sem vínculo com o Brasil, por tráfico internacional de drogas, pelo risco de evasão, por ser "motivação suficiente a embasar a manutenção da custódia cautelar, ordenada também para garantir a instrução criminal e a aplicação da lei penal" STJ - RHC 48473/MS, DJe de 01/08/2014).
+V. Inviável a aplicação de medidas cautelares diversas da prisão, quando demonstrada a presença dos pressupostos da prisão preventiva, consoante determina o artigo 282, § 6º, do Código de Processo Penal.
+VI. Ordem denegada.
+A recorrente foi presa em flagrante pela prática, em tese, do delito tipificado no artigo 33, c/c o art. 40, inciso I, da Lei 11.343/2006.
+Neste recurso, busca-se a revogação da prisão preventiva ou a aplicação de medidas alternativas, com a alegação de ausência dos requisitos autorizadores da segregação cautelar.
+O parecer do Ministério Público é no sentido de desprover o recurso (fls. 123/127).
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que decretou a prisão preventiva assim dispôs (fl. 34):
+Quanto ao cabimento em tese da prisão preventiva, observo que se trata de crimes dolosos, ambos punidos com pena máxima superior a quatro anos de reclusão, de modo que resta satisfeito o requisito do inciso I do art. 313. Ainda que, no caso concreto, haja indícios de que a prisão preventiva seria cabível para garantia de aplicação da lei penal, o CPP somente a admite "se se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão" (art. 310, inciso II). É o que passo a investigar.
+Considero que as medidas cautelares distintas da prisão preventiva não são suficientes para a garantia da ordem pública, em especial porque a sua aplicação implica a residência no Brasil.
+Quanto ao requisito previsto no art. 312 do CPP, a jurisprudência do STJ se firmou no sentido de que "é válida a prisão preventiva para aplicação da lei penal, no caso de estrangeiro que não demonstre vínculo com o Brasil" (RHC 81.897/SP, Rei. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe de 05/04/2017). Na hipótese dos autos, a flagranteada vive e trabalha em Lima e, conforme se infere do IPL em anexo, não possui qualquer conexão com o Brasil. Assim é que, na espécie, é forçoso concluir-se que, a fim de se garantir a aplicação da lei penal, a decretação da prisão preventiva é medida que se impõe.
+Ante o exposto, HOMOLOGO A PRISÃO EM FLAGRANTE de GRACIELA MARCELA GODOS VALIENTE e a CONVERTO EM PRISÃO PREVENTIVA.
+Como se observa, consta da decisão de prisão que a paciente vive e trabalha em Lima, no Peru, não possuindo qualquer conexão com o Brasil, razão pela qual a segregação cautelar é medida que se impõe.
+Todavia, a Sexta Turma desta Corte tem compreendido que a mera condição de estrangeiro do paciente e a ausência de domicílio no Brasil não justificam, por si só, a custódia cautelar, uma vez que para a sua decretação, é imprescindível que haja motivação idônea, fundada em elementos concretos, o que não é o caso dos presentes autos. Nesses termos:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. UTILIZAÇÃO DO REMÉDIO CONSTITUCIONAL COMO SUCEDÂNEO DE RECURSO. NÃO CONHECIMENTO DO WRIT. HOMICÍDIO. ART. 121, CAPUT, § 2º, I, IV E V, DO CÓDIGO PENAL. PRISÃO PREVENTIVA, FUNDAMENTADA EM ELEMENTOS CONCRETOS. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E AMEAÇA À APLICAÇÃO DA LEI PENAL. PACIENTE ESTRANGEIRO, SEM VÍNCULO COM O PAÍS. AÇÕES QUE DIFICULTAM OU CRIAM EMBARAÇOS PARA A INSTRUÇÃO CRIMINAL. ORDEM NÃO CONHECIDA.
+ ..
+V. A simples condição de estrangeiro do paciente e a inexistência de domicílio no Brasil não legitimam, por si só, a custódia cautelar, que requer motivação idônea, com base em elementos concretos, para a sua decretação (HC 240.157/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ Acórdão Ministra ASSUSETE MAGALHÃES, SEXTA TURMA, julgado em 07/02/2013, DJe 27/05/2013)
+Ante o exposto, dou provimento ao recurso em habeas corpus, para a soltura da paciente GRACIELA MARCELA GODOS VALIENTE, o que não impede nova e fundamentada decisão de necessária cautelar penal, inclusive menos gravosa do que a prisão processual.
+Comunique-se.
+Publique-se.
+Intimem-se.
