@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal Regional Federal da 2ª Região cuja ementa é a seguinte:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PROCESSO CIVIL. PENHORA DE IMÓVEL RURAL. PARCERIA AGRÍCOLA. ALIENAÇÃO FIDUCIÁRIA. DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO AGRAVO DE INSTRUMENTO DO CONTRIBUINTE. DECISÃO REFORMADA.
+1. A sociedade empresária Executada no processo de execução fiscal subjacente, Usina Outeiro S/A, celebrou contrato de parceria agrícola com a Usina Sapucaia Ltda, que, por sua vez, firmou contrato de alienação fiduciária com a empresa OLAM BRASIL (Agravante). O objeto dessa alienação consistiu em produção de cana de açúcar cultivada no imóvel penhorado na execução fiscal.
+2. A Agravante (OLAM BRASIL LTDA, credora fiduciária) pretende a reforma da decisão interlocutória de primeira instância a fim de que o futuro arrematante do imóvel seja obrigado a respeitar a garantia constituída na alienação fiduciária, consistente em 250.577 toneladas métricas de cana de açúcar cultivadas no imóvel rural penhorado.
+3. A decisão proferida pelo juízo de primeira instância, corretamente, asseverou que a cana de açúcar produzida no imóvel não foi objeto da penhora determinado nos autos da execução fiscal, e que a Agravante OLAM Brasil Ltda não faz parte do processo de execução, de modo que não há falar em violação a direito subjetivo.
+4. Agravo de instrumento da União Federal/Fazenda Nacional provido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa ao arts. 489, § 1º, IV, 1.022, II, do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas, quais sejam:
+(a) a ausência de interesse recursal da Recorrida na hipótese, em vista da ausência de prejuízo jurídico direto e indireto da União acaso o pedido da Recorrente fosse deferido, eis que a lavoura alienada a Recorrente pela Usina do Outeiro não restou penhorada na execução fiscal originária. Assim, o recurso da Recorrida revela-se sem utilidade, uma vez que a decisão recorrida não tem o condão de atingir o direito da União Federal, o que não foi observado pelo v. acórdão objeto dos embargos.
+(b) a questão da inequívoca legitimidade da Recorrente para ingressar nos autos da ação originária para o fim de defender o seu patrimônio, conforme dispõe a lei processual que garante ao terceiro interessado o direito de valer-se de recurso de terceiro interessado para livrar-se de efeitos do ato judicial que acaba por atingir seus direitos; bem como
+(c) a questão demonstrada, da existência do Contrato de Alienação Fiduciária da Cana de Açúcar favorecendo a Recorrente, devidamente registrado na matrícula do imóvel objeto da constrição na ação originária e, portanto, oponível a terceiros até que seja integralmente cumprida a obrigação, porque não possui limitação de safra, e, portanto, porque inexiste limitação temporal quanto a referida garantia.
+No mérito, alega violação ao art. 966 do CPC/2015. Sustenta, em síntese, que "embora não seja parte na ação de execução fiscal originária, possui legitimidade para ingressar nos autos da ação originária para o fim de defender o seu patrimônio".
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 458/460, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A despeito do que constou do acórdão de fl. 404 e seguintes, verifica-se que o Tribunal de origem não se pronunciou de forma adequada sobre as seguintes alegações:
+A questão demonstrada, da existência do Contrato de Alienação Fiduciária da Cana de Açúcar favorecendo a Recorrente, devidamente registrado na matrícula do imóvel objeto da constrição na ação originária e, portanto, oponível a terceiros até que seja integralmente cumprida a obrigação, porque não possui limitação de safra, e, portanto, porque inexiste limitação temporal quanto a referida garantia.
+Cumpre registrar que tais alegações foram suscitadas no momento oportuno e reiteradas em sede de embargos de declaração, as quais foram rejeitados pelo acórdão de fls. 404/408, persistindo a omissão destacada.
+Para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese de direito suscitada, ou seja, a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356 do STF e Súmula 211/STJ).
+Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1.022 do CPC/2015. Verificada tal ofensa, em sede de recurso especial, impõe-se, em regra, a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão.
+No mesmo sentido, destacam-se:
+PROCESSUAL CIVIL. ART. 535 DO CPC. APELAÇÃO. SUPOSTA INTEMPESTIVIDADE. OMISSÃO CONFIGURADA.
+1. Apesar de provocada pela via dos embargos declaratórios, a Corte de origem não se pronunciou efetivamente sobre a tese articulada em torno da ocorrência de julgamento extra petita e de reformatio in pejus consistentes na redução da alíquota do ITCD sem que houvesse apelação do contribuinte, mas apenas do Fisco Estadual.
+2. Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada, prejudicada a análise dos demais tópicos.
+3. Recurso especial provido.
+(REsp 1.187.583/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 17.5.2010)
+PROCESSUAL CIVIL. AUSÊNCIA DE MANIFESTAÇÃO PELO TRIBUNAL A QUO. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA.
+1. Caracteriza-se ofensa ao art. 535 do Código de Processo Civil se o Tribunal de origem deixar de pronunciar-se acerca de matéria veiculada pela parte sobre a qual era imprescindível manifestação expressa. Determinação de retorno dos autos para que se profira nova decisão nos Embargos de Declaração.
+3. Embargos Declaratórios acolhidos com efeitos infringentes.
+(EDcl no AgRg no REsp 1.137.175/RJ, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 6.4.2010)
+Assim, merece ser provido o presente recurso, a fim de anular o aresto proferido no julgamento dos embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ e a Súmula 568/STJ, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
