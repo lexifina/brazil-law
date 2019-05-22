@@ -1,0 +1,21 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO FISCAL. ALIENAÇÃO DO BEM OCORRIDA ANTES DA VIGÊNCIA DA LC 118/2005. CONFIGURADA A OFENSA AO ART. 535 DO CPC/1973. OMISSÃO DO ACÓRDÃO RECORRIDO SOBRE QUESTÕES FUNDAMENTAIS PARA A DEMANDA. RECURSO ESPECIAL DO ESTADO DE MINAS GERAIS PROVIDO PARA, ANULANDO O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO, DETERMINAR O RETORNO DOS AUTOS À CORTE A QUO, A FIM DE QUE SUPRA O VÍCIO INDICADO.
+1. Trata-se de Recurso Especial interposto pelo ESTADO DE MINAS GERAIS, com fundamento no art. 105, III, a da CF/1988, contra o acórdão proferido pelo egrégio Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+EMBARGOS DE TERCEIRO. PENHORA EFETUADA SOBRE BEM COM RESERVA DE DOMÍNIO. IMPOSSIBILIDADE. DESCONSTITUIÇÃO DA PENHORA. NECESSIDADE.
+- Ocorrendo a penhora sobre bem gravado com reserva de domínio, afigura-se legítimo ao real proprietário, como terceiro interessado, opor embargos em face do exequente.
+- A penhora não pode recair sobre o bem que possui reserva de domínio em favor de terceiro, uma vez que sua propriedade não pertence ao executado (fls. 84).
+2. Aos Embargos de Declaração opostos, foi negado provimento.
+3. Nas razões do Apelo Nobre, a parte recorrente aponta violação dos arts. 535, II do CPC/1973 e 185 do CTN, asseverando que os embargos de terceiro foram propostos pelo suposto titular do domínio (constituído por contrato de financiamento com reserva de domínio em 2010) para desconstituir penhora levada a efeito em 2013, para satisfação de crédito tributário inscrito em dívida ativa em 1998 e cujo devedor fora citado na execução fiscal em 1999 (no caso importa mais esta última data, por ser aquela considerada no art. 185 do CTN na redação anterior à LC 118/05) (fls. 113).
+4. Apresentadas Contrarrazões (fls. 138/145), o recurso fora admitido na origem (fls. 147/148).
+5. É o breve relatório.
+6. Quanto à alegação de violação do art. 535, II do CPC/1973, por vícios de omissão não supridos pelo Tribunal de origem, adianta-se que a irresignação merece prosperar.
+7. Prefacialmente, é bem verdade que, por um lado, o Julgador não é obrigado a se debruçar sobre todas as teses levantadas pelas partes, respondendo, um a um, aos argumentos nelas deduzidos, estando vinculado apenas ao imperativo constitucional da fundamentação suficiente para a efetiva solução da controvérsia.
+8. Lado outro, dúvida não há de que, constatados vícios de omissão, contradição ou obscuridade - expressamente ventilados pela parte recorrente em sede de Embargos de Declaração, cuja elucidação é indispensável ao deslinde da controvérsia -, impõe-se a manifestação do órgão julgador, sob pena de nulidade do julgado.
+9. Na vertente hipótese, o Tribunal Regional não se manifestou acerca da tese de que o art. 185 do CTN, na sua anterior redação, exigia, para a presunção de fraude à execução, que a alienação do bem se realizasse após a citação do devedor, sendo desnecessária a discussão acerca da má-fé ou não do adquirente.
+10. Irresignada, a parte recorrente apresentou Aclaratórios para suprir tal omissão.
+11. Todavia, a leitura atenta dos autos revela a ocorrência de omissão do Aresto que apreciou os Embargos Aclaratórios, porquanto não houve qualquer manifestação acerca do tema, que se mostra de suma importância para o deslinde da controvérsia.
+12. Como consequência, verifica-se essencial para a inteira prestação jurisdicional que o órgão julgador a quo aprecie os pontos indicados nos Aclaratórios, sanando os vícios em referência. A rejeição dos Aclaratórios acarretou violação do art. 535 do CPC/1973, o que resulta em declaração de nulidade do acórdão de Aclaratórios da Corte estadual.
+13. Assim, tendo a parte recorrente alegado violação do art. 535 do CPC/1973, merece prosperar o presente recurso para anular o acórdão proferido nos Embargos de Declaração, determinando-se o retorno dos autos ao Tribunal de origem para a completa prestação jurisdicional.
+14. Diante dessas considerações, dá-se provimento ao Recurso Especial do ESTADO DE MINAS GERAIS, para anular o Acórdão proferido nos Embargos de Declaração e determinar o retorno dos autos ao Tribunal de Justiça do Estado de Minas Gerais, a fim de que sejam sanados os vícios acima explicitados, como entender de direito.
+15. Publique-se.
+16. Intimações necessárias.
