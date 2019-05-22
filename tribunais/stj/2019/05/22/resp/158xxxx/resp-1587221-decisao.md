@@ -1,0 +1,47 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional, com amparo na alínea "a" do permissivo constitucional, contra acórdão oriundo do TRF da 3ª Região assim ementado (e-STJ, fl. 381):
+DIREITO PROCESSUAL CIVIL - CONSTITUCIONAL - TRIBUTÁRIO - APELAÇÃO CÍVEL - SISTEMA INTEGRADO DE PAGAMENTO DE IMPOSTOS E CONTRIBUIÇÕES DAS MICROEMPRESAS E DAS EMPRESAS DE PEQUENO PORTE - SIMPLES - OPÇÃO - VEDAÇÃO DO ART.9º, INC. XIII, DA LEI Nº 9.317/96 - EXCEÇÃO - LEI 10.034/00 -
+1 - A Lei n.º 9.317/96 tem o escopo de incentivar as atividades das pessoas jurídicas, consistentes em microempresas e empresas de pequeno porte, com a adequação da carga tributária, mais simplificada. A mens legis do óbice desses profissionais acima relacionados reside no fato que dispensam uma tutela diferenciada, mais fomentadora, do Estado.
+2 - Esse sistema de tributação, ao simplificar os mecanismos contábeis vinculados às obrigações fiscais das pequenas e microempresas, estabeleceu como condição para que a empresa usufrua do beneficio, além do critério quantitativo vinculado à sua receita bruta, um outro critério, qualitativo, relacionado a sua atividade econômica.
+3 - A Lei n.º 10.034/00, pelo art. 1.º, excetuou as restrições do art. 9.º da Lei n.º 9.317/96 as seguintes atividades: creches, pré-escolas e estabelecimentos de ensino fundamental. A Lei n.º 10.684/03 manteve regra da lei anterior.
+4 - Compulsando os autos, verifica-se que a autora desenvolve atividades de prestação de serviços mediante funcionamento de creches, pré-escola e ensino fundamental apenas a partir da alteração de contrato social, de 23/10/2002, às fls.86/87, pelo contrato social de 1/11/1974 (fls.61/62), o ramo explorado era prestação de serviços mediante funcionamento de cursos técnicos profissionalizantes de 2º grau, cursos supletivos de 1º e 2º grau, cursos supletivos prolissionalizantes de 2º grau e de cursos preparatórios para vestibulares.
+5 - O direito da autora à opção pelo sistema tributário SIMPLES deve ser reconhecido a partir da alteração contratual de 23/10/2002, uma vez que a sua atividade passou a ser exclusivamente relacionada ao tipo de prestação de serviço expressamente indicado na Lei nº 10.034/00, conforme a cláusula 1ª da alteração contratual (creches, pré-escola e ensino fundamental -11.86).
+6 - Dada a sucumbência recíproca, responderá cada parte com honorários de seus patronos, consoante artigo 21 do Código de Processo Civil, que fixo em R$ 1.200,00.
+7 - Apelação e remessa oficial parcialmente providas.
+Os embargos de declaração opostos pela União foram rejeitados.
+Em suas razões, a recorrente levanta prefacial de ofensa ao art. 535, II, do CPC/1973, ao argumento de que o Tribunal de origem não enfrentou a questão suscitada na via declaratória.
+No mérito, acusa violação dos arts. 128 e 460 do CPC/1973.
+Aduz, em síntese, a existência de julgamento extra petita pela Corte a quo, pois a parte autora não teria requerido na petição inicial que lhe fosse declarado o direito ao regime do SIMPLES, com fundamento na Lei n. 10.034/2000.
+Contrarrazões recursais apresentadas às e-STJ, fls. 409-411.
+Admitido o recurso especial na origem (e-STJ, fls. 413-415), subiram os autos a esta Corte.
+É o relatório.
+Inicialmente, no tocante à suposta ofensa ao art. 535 do CPC/1973, a parte insurgente se limitou a afirmar que o Tribunal a quo não poderia ter se recusado a pronunciar acerca das questões suscitadas nos aclaratórios, sem, contudo, apontar precisamente de que modo as omissões poderiam influenciar no julgamento do acórdão combatido e o porquê da deficiência de fundamentação, o que impede o conhecimento do apelo nobre quanto à alegada afronta aos citados dispositivos do Código de Ritos.
+Assim, é incabível o apelo especial nos casos em que a arguição é genérica, por incidir a Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia."
+A título de ilustração, confiram-se:
+PROCESSUAL. TRIBUTÁRIO. VIOLAÇÃO DO ARTIGO 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. NULIDADE DAS CDAs. SÚMULA 07/STJ. DECOTE DE EXCESSO DE EXECUÇÃO. POSSIBILIDADE. SELIC. LEGALIDADE. CARÁTER CONFISCATÓRIO DE MULTA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE. VERIFICAÇÃO DE SUCUMBÊNCIA, SE MÍNIMA OU RECÍPROCA, NA VIA ESPECIAL. INVIABILIDADE. SÚMULA 07/STJ.
+1. Alegações genéricas de afronta ao artigo 535 do CPC, sem apontar efetivamente as omissões e motivos pelos quais o Tribunal de origem deveria manifestar-se sobre elas, não bastam à abertura da via especial pela alínea "a" do permissivo da Constituição da República, nos termos da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. A investigação acerca do preenchimento dos requisitos formais da CDA que aparelha a execução fiscal demanda, necessariamente, a revisão do substrato fático-probatório contido nos autos, providência que não se coaduna com a via eleita, conforme vedação expressa da Súmula 7/STJ.
+3. Constatada a cobrança de valores indevidos, é possível a mera alteração da CDA, já que bastam cálculos aritméticos para tanto, com a diminuição respectiva, não induzindo sua nulidade. Precedentes.
+4. A apuração do caráter confiscatório da multa tributária depende da interpretação da norma prevista no artigo 150, V, da Constituição Federal, o que refoge ao âmbito do recurso especial.
+5. É devida a Taxa Selic nos cálculos dos débitos dos contribuintes para com a Fazenda Pública Federal.
+6. Mostra-se inviável, no âmbito de recurso especial, aferir o quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, pois demanda análise de matéria fática, procedimento obstado, nos termos da Súmula 07/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+7. A recorrente não observou, no tocante à interposição do apelo pela alínea "c" do permissivo constitucional, as formalidades indispensáveis ao conhecimento do especial, porquanto não procedeu ao indispensável cotejo analítico no intuito de demonstrar que os arestos confrontados partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+8. Agravo regimental não provido
+(AgRg no Ag 1.354.461/PR, Rel. Min. CASTRO MEIRA, DJe 14/2/2010)
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL - AGRAVO DE INSTRUMENTO - RESCISÓRIA - PERÍCIA - SUBIDA DE RECURSO ESPECIAL - AGRAVO REGIMENTAL PROVIDO.
+1. Ausência de peças. Quanto à viabilidade de conhecimento do agravo, mesmo com peças faltantes, tenho de ser acolhida essa tese. Na espécie, não se identifica a ausência total da peça, mas, tão somente, de algumas partes. Ante a possibilidade de entendimento da controvérsia, concordo que é de ser afastado esse obstáculo.
+2. Deficiência de fundamentação do art. 535, CPC. É de ser reconhecida a deficiência de fundamentação, ao estilo do que dispõe a Súmula 284/STF. A matéria não admite conhecimento. O caráter genérico das alegações reforça essa compreensão.
+3. Súmula 7/STJ e prequestionamento dos arts.130 e 330, CPC. Quanto a este óbice, entendo ser superável, especialmente pela decisão aqui já proferida, na ocasião em que se admitiu a eficácia suspensiva à cautelar. É de todo razoável que suba o especial e, em seu ambiente específico, sejam apreciadas essas questões de ordem procedimental. A relevância do interesse público e a total ineficácia de sua proteção ante o êxito de questões de técnica processual sobre as questões de fundo autorizam o provimento do agravo. Agravo regimental provido, para determinar a subida do recurso especial.
+(AgRg no Ag 934.704/SP, Rel. Min. ELIANA CALMON, Rel. p/ acórdão Ministro HUMBERTO MARTINS, DJe 20/8/2009)
+Portanto, o recurso especial não pode ser conhecido quanto à alegada ofensa ao art. 535, II, do CPC/1973.
+No mérito, o apelo extremo também não enseja conhecimento, pois a pretensão da insurgente contraria as premissas fáticas em que foi assentado o aresto combatido, o que atrai o enunciado da Súmula 7/STJ.
+Como visto, o Tribunal regional concluiu, por sua leitura e análise, que, na petição inicial da contribuinte, foi pleiteada a anulação do ato que a excluiu do SIMPLES, o que fora avaliado de acordo com os documentos constantes dos autos, à luz da legislação aplicável à espécie, o que não configura o reclamado julgamento extra petita.
+Nessa senda, qualquer tentativa de desconstituir tais premissas de fato, firmadas na origem demandaria a análise das provas dos autos, providência obstada pela Súmula 7/STJ:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANO MATERIAL E MORAL CONFIGURADOS. REDUÇÃO. REEXAME. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A análise das razões recursais e a reforma do aresto hostilizado, com a desconstituição de suas premissas demandaria reexame do conjunto fático-probatório dos autos, o que esbarra nas Súmula 7 do STJ.
+2. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 557.686/RJ, Rel. Min. LUIS FELIPE SALOMÃO, DJe 16/9/2014 - grifos acrescidos)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
