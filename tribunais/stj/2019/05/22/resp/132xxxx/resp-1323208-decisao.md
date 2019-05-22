@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado:
+QUESTÃO DE ORDEM. REJEIÇÃO. ERRO MATERIAL. NÃO CONFIGURAÇÃO.
+I- O pedido deduzido na inicial refere-se à exclusão do ICMS da base de cálculo do PIS. O Acórdão proferido pela E. Quarta Turma tratou de assunto diverso (inconstitucionalidade dos Decretos 2.445/88 e 2.449/88).
+II- Não obstante o erro cometido seja evidente, o fato é que o mesmo não corresponde ao modelo legal previsto no art. 463, inc. I, do CPC.
+III- Havendo alteração do critério adotado no julgamento, há de ser afastada a hipótese de erro ou inexatidão material
+IV- Questão de Ordem rejeitada.
+A parte recorrente alega violação dos arts. 2º, 128, 458, 460 e 463 do CPC/1973, sustentando, em síntese, que (e-STJ fl. 613):
+restando evidente o equívoco cometido pelo E. TRF, que apreciou matéria diversa daquela discutida no presente feito, está-se diante de ERRO MATERIAL, que deve ser corrigido.
+Observe-se que tais equívocos de ordem material têm sido cometidos, com freqüência pelo E. Tribunal, provavelmente em decorrência do acúmulo de processos e, em tais casos, tem sido determinada a subida dos autos à superior instância para correção do julgado, em face do erro material.
+Todavia, no caso em tela, fato é que os autos subiram novamente à segunda instância para julgamento da QUESTÃO DE ORDEM suscitada, a qual foi rejeitada por maioria, mantendo-se o v. acórdão que se encontra divorciado das razões debatidas nos autos e do pedido formulado pela parte.
+Contrarrazões apresentadas pela PROQUIGEL INDÚSTRIA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA. e OUTROS, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (e-STJ fls. 364/378).
+Inadmitido na origem, o recurso especial foi processado por força de decisão do Min. Francisco Falcão no AREsp 144.333/SP (e-STJ fls. 693/694).
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 595/598):
+Trata-se de questão de ordem suscitada pelo E. Desembargador Federal Relator da Apelação Cível nº 94.03.045976-0.
+O exame dos autos revela que, no dia 13/3/96, a E. Quarta Turma, por unanimidade, negou provimento à remessa oficial e à apelação interposta pelos autores, nos termos do voto do E. Relator, Desembargador Federal Souza Pires (fls. 342/355).
+O V. Acórdão transitou em julgado em 15/8/96 (fls. 356).
+Encaminhados os autos à primeira instância, a MMa Juíza a quo determinou que a parte vencedora apresentasse memória de cálculos.
+A CEF apresentou os cálculos referentes à verba de sucumbência (fls. 361), tendo sido determinada a citação das autoras para pagarem ou nomearem bens à penhora (fls. 362).
+As autoras apresentaram memória de cálculos a fls. 363/366.
+A fls. 403, assim se manifestou a União:
+" A presente ação foi proposta com o fim de ver afastada a inclusão do ICMS na base de cálculo do PIS, bem como a repetir os valores já pagos, julgada procedente em primeira instância e pela qual o MM. Juiz a quo houve por bem excluir a CEF da lide, condenando a autora ao pagamento de honorários do que houve recurso para o E. Tribunal Regional Federal.
+Os autos do processo subiram à 2ª instância, onde, equivocadamente, com fundamento na declaração de inconstitucionalidade dos Decretos-leis 2445/88 e 2449/88feita pelo C. STF, foi mantida a decisão de primeira instância. Acresça-se o fato de que mencionada decisão indica como juízo remetente a 5º Vara Federal e não a 1ª Vara Federal (fls. 342, 344 e 354), negando provimento à remessa de oficio, determinando a baixa dos autos para que se efetivasse o julgado a quo.
+Restando evidente o equivoco cometido pelo E. TRF que apreciou matéria diversa da discutida neste feito, está-se diante de erro material que deve ser corrigido..
+Tratando-se de erro material, tal equívoco pode ser corrigido até de oficio, tanto pelo juízo singular, quanto pelo tribunal, ou ainda, a requerimento das partes como está sendo no caso presente.. " (fls. 403/404).
+Diante dessa petição, a E. Juíza de primeiro grau  entendendo que tal pleito deveria ser deduzido perante o TRF  , determinou a remessa dos autos a esta Corte, no dia 31/3/00 (fls. 415).
+Dessa forma  e cinco anos após o trânsito em julgado  o E. Relator apresentou a presente questão de ordem, votando no sentido de que seja anulada a súmula de julgamento, retornando os autos ao seu Gabinete, para que novo relatório e voto sejam trazidos à apreciação do colegiado.
+Não comungo data maxima venia do mesmo entendimento.
+De fato, a ação foi proposta por Proquigel Indústria e Comércio de Produtos Químicos Ltda. e outros em face da Caixa Econômica Federal e da União, visando a exclusão do ICMS da base de cálculo do PIS. O Acórdão proferido pela E. Quarta Turma, em 13/3/96, efetivamente, tratou de assunto diverso (inconstitucionalidade dos Decretos 2.445/88 e 2.449/88).
+Não obstante o erro cometido seja evidente, o fato é que o mesmo não corresponde ao modelo legal previsto no art. 463, inc. I, do CPC.
+São bastante elucidativos os ensinamentos de [NOME] sobre essa questão, ao afirmar: "E claro que há casos de erro evidente que, no entanto, resvalam para alteração do critério adotado no julgamento e, dessa forma, não se afeiçoam ao conceitomais restrito de "inexatidão material". Dai por que parece quando menos duvidosa a conceituação do "erro material" a partir de sua notoriedade ou evidência nos autos. O que parece ser determinante na configuração do "erro material", conforme já demonstrado, é o respectivo objeto, e não o grau de dificuldade para a respectiva constatação. O problema parece ser menos de cognição em profundidade que em extensão - se é que se pode tratar a matéria por esse ângulo. "
+E prossegue o E. Professor, dando exemplos sobre o tema: "se após a prolação da sentença, por exemplo, o juiz constata que proferiu sentença com base em direito pouco antes revogado, poder-se-á qualificar esse erro de "evidente", mas, nem por isso, de erro "material". De forma análoga, se o juiz julga com base em confissão que reputa existente nos autos, mas que lá não está, poder-se-á dizer que o erro é evidente, e mais uma vez não corresponde ao modelo do inciso I do art. 463 do CPC" (in "Ação Rescisória", Malheiros Editores, 2005, p. 61-62)
+Por fim, assevera o E. Autor que "tratando-se autenticamente de "erro material", não deveria haver desconstituição da decisão pelo próprio magistrado. A bem da verdade, a decisão deve prevalecer tal como editada, porque não se altera o julgamento, mas apenas se retifica o veícido pelo qual a vontade contida na sentença se expressou. Daí por que a correção pode e deve ser feita inclusive de oficio, e não há razão que justifique sequer a abertura do contraditório. " (ob cit., p. 56)
+Ex abundantia, acrescento que, com a prolação do Acórdão de fls. 342/355 e seu respectivo trânsito em julgado, exauriu-se a jurisdição desse Tribunal, não havendo alternativa senão deixar absolutamente incólume o que foi julgado até agora.
+Pois bem.
+O julgamento extra petita, que deixou de ser objeto de recurso a tempo e modo próprios, não se qualifica como erro ou inexatidão material, mas um erro de percepção do órgão julgador cujo saneamento deveria ter sido buscado pela parte interessada, por meio de recurso adequado.
+Conquanto as sempre perseguidas eficiência, celeridade e economia processual autorizem a ponderação sobre o dever de correção, de ofício, do erro crasso de julgamento, o que, como no caso, poderia ser feito ao pretexto da ocorrência de inexatidão material, as normas de processo não permitem essa conclusão no caso concreto dos autos.
+A respeito:
+PROCESSO CIVIL - CONTRIBUIÇÃO PREVIDENCIÁRIA DE INATIVOS E PENSIONISTAS- LEI ESTADUAL N. 12.398/98 - ADIN 2.1893 - SUSPENSÃO DO PROCESSO - INEXISTÊNCIA DE BASE LEGAL - EMBARGOS DE DECLARAÇÃO - MULTA - CABIMENTO.
+1. A concessão de medida cautelar em ação direta de inconstitucionalidade, no mesmo sentido da decisão recorrida, não é motivo suficiente para a decretação da suspensão do processo.
+2. Erro material é o reconhecido primu ictu oculi, consistente em equívocos materiais sem conteúdo decisório propriamente dito, como a troca de uma legislação por outra, a consideração de data inexistente no processo ou uma inexatidão numérica; e não, aquele que decorre de juízo de valor ou de aplicação de uma norma jurídica sobre o(s) fato(s) do processo.
+3. Inexiste erro material quando o Tribunal considera que determinada legislação não está abrangida por ação direta de inconstitucionalidade. O error in judicando não é sanável nos termos do art. 463, I, do CPC.
+4. A oposição de único embargo de declaração, mesmo que fora das hipóteses de cabimento, com pretensão ao prequestionamento da matéria, mormente quando surgida no próprio acórdão embargado, não autoriza a imputação da sanção do art. 538, parágrafo único, do CPC.
+5. Recurso especial provido em parte, unicamente para excluir a multa do art. 538, parágrafo único, do CPC.
+(REsp 1.021.841/PR, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 07/10/2008, DJe 04/11/2008).
+A propósito, o Supremo Tribunal Federal afirma que "erro material é aquele objetivo, facilmente perceptível, que constitui equívoco evidente a incidir sobre palavras, números, datas etc., em virtude de falha na redação ou digitação, e que se revela em flagrante descompasso com o contexto no qual se insere" (STF, Pet 6694, Rel. Min. DIAS TOFFOLI, Segunda Turma, julgado em 07/08/2018).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
