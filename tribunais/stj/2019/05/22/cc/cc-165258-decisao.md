@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Tribunal de Justiça de São Paulo, suscitante, e o Tribunal Regional Federal da 3ª Região, em processo ajuizado pela parte interessada, em que pugna pela concessão de auxílio-doença e sua conversão em aposentadoria por invalidez.
+A ação foi ajuizada perante a 2ª Vara Cível da Comarca de Araras/SP, que julgou extinto o processo, sem análise de mérito.
+Em sede recursal, o TRF da 3ª Região declinou da competência ao fundamento de que a incapacidade da interessada é decorrente de acidente de trabalho.
+Encaminhado os autos ao TJSP, este suscitou o presente conflito de competência. Fundamentou sua decisão no fato do juízo de 1º instância sentenciar o feito no exercício da competência federal delegada e por se tratar de contribuinte individual, o qual não estaria sujeito à concessão de benefício acidentário.
+É o relatório, decido.
+Registro, inicialmente, que, segundo se infere da inicial, a postulação deduzida pela parte autora é de concessão de benefício por incapacidade decorrente de acidente de trabalho.
+De fato, a inicial relata que as lesões que acometem a segurada são decorrentes da sua atividade laboral.
+Contudo, a própria inicial qualifica a interessada como contribuinte individual, que não faz jus a benefício acidentário.
+Nesse sentido, in verbis:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO PREVIDENCIÁRIA. BENEFÍCIO POR INCAPACIDADE. SEGURADO CONTRIBUINTE INDIVIDUAL. LEGISLAÇÃO ACIDENTÁRIA EXCLUDENTE. NATUREZA PREVIDENCIÁRIA DO BENEFÍCIO. INTELIGÊNCIA DO ARTIGO 19 DA LEI 8.213/1991. COMPETÊNCIA DA JUSTIÇA FEDERAL. JUÍZO SUSCITADO.
+1. No caso, tramita ação previdenciária em que ser requer a condenação do INSS ao pagamento de benefício previdenciário por incapacidade, em que o autor ostenta a qualidade de segurado contribuinte individual.
+2. O segurado contribuinte individual integra o rol dos segurados obrigatórios do Regime Geral de Previdência Social. O artigo 12, V, da Lei 8.212/1991 e o artigo 9º, V, do Decreto 3.048/1999, com a redação dada pela Lei 9.876/1999, elencam quem são os segurados contribuintes individuais. São igualmente segurados contribuintes individuais, o médico-residente, por força da Lei 6.932/1981 com a redação dada pela Lei 12.514/2011; o cônjuge ou companheiro do produtor que participe da atividade rural por este explorada; o bolsista da Fundação Habitacional do Exército, contratado em conformidade com a Lei 6.855/1980 e o árbitro de competições desportivas e seus auxiliares que atuem em conformidade com a Lei 9.615/1998.
+2. Consoante artigo 19 da Lei 8.213/1991, somente os segurados empregados, incluídos os temporários, os segurados trabalhadores avulsos e os segurados especiais fazem jus aos benefícios previdenciários por acidente do trabalho. O ordenamento jurídico fez incluir o segurado empregado doméstico no rol do artigo 19, em observância à Emenda Constitucional 72 e à Lei Complementar 150/2015.
+3. O artigo 109, I, da Constituição Federal de 1988, ao excetuar da competência federal as causas de acidente do trabalho, abarcou tão somente as lides estritamente acidentárias, movidas pelo segurado contra o INSS.
+4. O acidente sofrido por trabalhador classificado pela lei previdenciária como segurado contribuinte individual, por expressa determinação legal, não configura acidente do trabalho, não ensejando, portanto, a concessão de benefício acidentário, apenas previdenciário, sob a jurisdição da Justiça Federal.
+5. Conflito negativo de competência conhecido para declarar a competência da Justiça Federal.
+(CC 140.943/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/02/2017, DJe 16/02/2017)
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUXÍLIO-ACIDENTE. BENEFÍCIO INDEVIDO AO TRABALHADOR AUTÔNOMO. PROVIMENTO NEGADO.
+1. Nos termos do art. 18, I, § 1º, da Lei n. 8.213/91, com a redação dada pela LC n. 150/2015, "somente poderão beneficiar-se do auxílio-acidente os segurados incluídos nos incisos I, II, VI e VII do art. 11 desta lei", ou seja, o segurado empregado, o empregado doméstico, o trabalhador avulso e o segurado especial, não figurando nesse rol o trabalhador autônomo, atualmente classificado como contribuinte individual pela Lei n. 9.876/1999.
+2. Os trabalhadores autônomos assumem os riscos de sua atividade e, como não recolhem contribuições para custear o acidente de trabalho, não fazem jus ao auxílio-acidente. Precedente da Terceira Seção.
+3. Agravo regimental não provido.
+(AgRg no REsp 1171779/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/11/2015, DJe 25/11/2015)
+Assim, se tem que, a princípio o relato de que houve acidente de trabalho, de fato, no presente processo, não induz de forma automática que se trate de questão acidentária, tal como definida no art. 109, I, da CF/88; constituindo, na verdade, um simples relato de como se deu a doença.
+Sendo esse o panorama do feito, caberá à Justiça Federal julgar a demanda, porquanto é ela que detém a competência para julgar feito cuja a inicial pugna pela concessão de benefício previdenciário à segurado classificado como contribuinte individual.
+Ante o exposto, com base no art. 955, parágrafo único, inciso I, do CPC/15, conheço do presente conflito para declarar competente para a causa a Justiça Federal, e, sendo assim, determino o encaminhamento do feito ao Tribunal Regional Federal da 3ª Região.
+Publique-se. Intimem-se.
