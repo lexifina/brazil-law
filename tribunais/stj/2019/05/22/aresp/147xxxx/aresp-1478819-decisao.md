@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE OMISSÕES. EXECUÇÃO. NULIDADE DE TÍTULO JUDICIAL POR INCONSTITUCIONALIDADE DE LEI MUNICIPAL. ANÁLISE DE DIREITO LOCAL EM RECURSO ESPECIAL. IMPOSSIBILIDADE. SÚM. N. 280/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por Município de São Paulo em face de decisão do Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso contra acórdão assim ementado (e-STJ fl. 232):
+EXECUÇÃO POR TÍTULO JUDICIAL - Impugnação ao cumprimento de sentença. Inexigibilidade do título judicial. Decisão transitada em julgado com posterior reconhecimento de inconstitucionalidade das leis adotadas como parâmetro para o cálculo da remuneração dos autores, bem como em razão da edição da Súmula Vinculante nº 42, do C. STF. Decisão agravada que acolheu parcialmente a impugnação da executada. Reforma. Impugnação improcedente. Precedentes.
+RECURSO PROVIDO.
+Os embargos de declaração apresentados na origem foram rejeitados.
+Nas razões do especial, o recorrente sustenta, além da divergência jurisprudencial, violação do art. 1.022, II, do CPC/2015, pois o acórdão a quo deve ser anulado por não ter se manifestado sobre omissão quanto à "utilização de fundamentação equivocada", pois está fundamentado a partir do exame de constitucionalidade da LM n. 10.722/1989. Assevera, também, malversação do art. 741, parágrafo único, do CPC/1973, pois a inexigibilidade do título judicial deve ser declarado porque o art. 4º da LM n. 11.722/1995 foi considerado inconstitucional na AI n. 0411307-37.2010.8.26.0000 e em face da edição da SV n. 42/STF.
+Apresentadas contrarrazões às e-STJ fls. 341/352.
+A decisão agravada negou seguimento ao especial sob a compreensão de que não há omissões no acordão a quo, de que não é possível a revisão de provas em recurso especial, e de que não houve demonstração da divergência jurisprudencial.
+Nas razões do agravo, o recorrente defende as omissões elencadas no especial, a análise do especial independente de matéria fática e a devida exposição da divergência jurisprudencial.
+Ofertada contraminuta às e-STJ fls. 363/365.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Quanto à violação do art. 1.022, II, do CPC/2015, o Tribunal de origem declarou a inconstitucionalidade de parte da LM n. 11.732/2005 que determinavam a retroatividade das normas declaradas inconstitucionais em Incidente de Arguição de Inconstitucionalidade.
+Verifica-se que inexiste a alegada ofensa ao art. 1.022 do CPC/2015, pois conforme depreende-se dos autos, o Tribunal de origem, de modo fundamentado, tratou da questão relacionada à fundamentação a partir da LM n. 11.732/2005, resolvendo, portanto, de modo integral a controvérsia posta.
+Portanto, na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIO DE INTEGRAÇÃO. OCORRÊNCIA. RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA. FUNDAMENTAÇÃO CONSTITUCIONAL. EXAME. INVIABILIDADE.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+ ..
+4. Não há violação do art. 535 do CPC/1973 quado o órgão judicial externa fundamentação adequada, coerente e suficiente à conclusão do acórdão.
+5. Acórdão recorrido com fundamentação constitucional, cuja revisão não é adequada em recurso especial, nos termos do art. 105, III, da CF/1988.
+6. Embargos de declaração acolhidos, com efeito modificativo, para anular o acórdão embargado, conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento
+(STJ, EDcl no AgInt no AREsp 1.108.135/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 28/06/2018).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REAJUSTE DE BENEFÍCIO PREVIDENCIÁRIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. ACÓRDÃO DE ÍNDOLE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MULTA DO ARTIGO 1.021, §4º, DO CPC/2015. EXCLUSÃO. INADMISSIBILIDADE OU IMPROCEDÊNCIA DO AGRAVO INTERNO INTERPOSTO NA ORIGEM. NÃO VERIFICAÇÃO. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. IMPOSIÇÃO DE MULTA. EXCLUSÃO. PROPÓSITO DE PREQUESTIONAMENTO. SÚMULA 98/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+1. O acórdão recorrido apreciou fundamentadamente a controvérsia dos autos, decidindo, apenas, de forma contrária à pretensão do recorrente, não havendo, portanto, omissão ensejadora de oposição de embargos de declaração, pelo que, deve ser rejeitada a alegação de violação ao artigo 1.022 do CPC/2015.
+ ..
+6. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido" (STJ, REsp 1.672.822/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 30/06/2017)
+Quanto à violação do art. 741, parágrafo único, do CPC/1973, o Tribunal de origem declarou que o título judicial não possui máculas porque está fundamentada na LM n. 11.732/2005 que, com exceção das normas que determinavam a retroatividade de normas declaradas inconstitucionais, não se enquadra nas hipóteses excepcionalíssimas do art. 741 do CPC/1973. A propósito, confira-se (e-STJ fls. 238/241):
+Ora, ao analisar o dispositivo em que se funda a impugnação apresentada pela municipalidade (artigo 741, do CPC/ 73), para o pleiteado reconhecimento de inexigibilidade do título judicial exequendo, constata-se a necessidade de declaração de inconstitucionalidade pelo Excelso Pretório da lei em que ele está lastreado.
+No entanto, na hipótese em questão, somente os dispositivos que estabeleciam a retroatividade da Lei Municipal 11.732/05 foram declarados inconstitucionais, não havendo pronunciamento do Supremo Tribunal a respeito das leis Municipais nº 10.688/ 88 e nº 10.722/89, nas quais também se baseia a pretensão veiculada.
+Sem olvidar, ainda, que a edição da Súmula Vinculante nº 42, ocorrida em 12.03.2015, se deu em data posterior ao trânsito em julgado do título exequendo.
+Assim, o posicionamento ora adotado não representa, por óbvio, violação à Constituição Federal nem à referida Súmula Vinculante, tampouco ao que restou decidido no julgamento da Arguição de Inconstitucionalidade nº 0411307-37.2010.8.26.0000.
+ ..
+Portanto, não pode prevalecer a mitigação estabelecida na r. decisão agravada, sob pena de desrespeito à coisa julgada, sem a ocorrência de qualquer das hipóteses excepcionalíssimas anteriormente previstas no artigo 741, do Código de Processo Civil/73.
+Dessa forma, o provimento do recurso especial, quanto à violação do art. 741, parágrafo único, do CPC/1973, depende da interpretação de direito local com o fim de aferir se as normas municipais são contrárias a disposições constitucionais e à decisão do próprio TJSP em sede de Incidente de Arguição de Inconstitucionalidade. Ocorre que essa tarefa não é possível nos termos da Súm. n. 280/STF.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
