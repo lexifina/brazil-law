@@ -1,0 +1,14 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    CELG Distribuição S. A. – CELG D afirma haver o Órgão Especial do Tribunal Superior do Trabalho, no processo nº 0010656-53.2015.5.18.0005, usurpado a competência do Supremo ao deixar de remeter-lhe o agravo protocolado contra a decisão que implicou a negativa de seguimento ao extraordinário por si formalizado.
+    Segundo narra, interpôs, no curso de determinada ação trabalhista, recurso extraordinário. Realça a inadmissão deste e a manutenção do entendimento em sede de agravo interno. Sustenta caber a este Tribunal a apreciação de agravo voltado ao destrancamento de extraordinário, considerado o artigo 1.042 do Código de Processo Civil. Cita o verbete nº 727 da Súmula do Supremo. Acrescenta não versar o extraordinário o atendimento a pressupostos de admissibilidade de recurso da competência de Tribunal diverso, mas a problemática da validade da adesão a programa de desligamento voluntário, com a discriminação das parcelas pagas em termo de transação, o recebimento da indenização correspondente, bem assim a quitação de todas as verbas devidas em virtude do contrato de trabalho extinto.
+    Diz da transgressão ao artigo 7º, inciso XXVI, da Constituição Federal. Conforme argumenta, ao aderir ao programa de desligamento, o interessado conferiu plena quitação, considerado o contrato de trabalho extinto, relativamente às parcelas especificadas, a revelar ato jurídico perfeito. Menciona o decidido no recurso extraordinário nº 590.415, relator o ministro Luís Roberto Barroso.
+    Requer, em sede liminar, a suspensão da tramitação do caso na origem. Requer, alfim, a cassação do ato impugnado, reconhecendo-se a satisfação total das verbas decorrentes do contrato de trabalho firmado com o interessado tendo em vista adesão ao programa de demissão voluntária.
+    O Presidente, ministro Dias Toffoli, em 6 de novembro de 2018, desproveu o agravo nº 1.172.267, voltado à sequência do extraordinário, por entender ausente ofensa direta à Constituição Federal e pertinentes os verbetes nº 282 e 356 da Súmula do Supremo.
+    2. Este processo somente serve à sobrecarga da máquina judiciária, hoje suportada pelo Tribunal, que se encontra, no tocante à celeridade processual, inviabilizado. A análise das peças e a leitura da decisão proferida pelo Presidente no recurso extraordinário com agravo nº 1.172.267 revelam ausente a apontada usurpação da competência do Supremo. Ao contrário do que alegado na inicial, protocolado agravo ante a inadmissão do extraordinário, foi remetido ao Supremo, tendo o Presidente o desprovido em virtude da falta de transgressão direta a dispositivo constitucional.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 23 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
