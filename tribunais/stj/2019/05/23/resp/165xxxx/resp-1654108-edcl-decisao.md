@@ -1,0 +1,57 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO NA ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. TERMO INICIAL DA PENSÃO POR MORTE. INCIDÊNCIA DOS JUROS DE MORA. ACÓRDÃO FIXOU O TERMO INICIAL DE ACORDO COM A SÚMULA Nº 54 DO STJ, SEM RECURSO DAS PARTES. OMISSÃO NÃO CONFIGURADA. RESTABELECIMENTO DA SUCUMBÊNCIA FIXADA NA ORIGEM. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS
+DECISÃO
+ADRIANA SILVEIRO DA [NOME] e EDVALDO [NOME] (ADRIANA e EDVALDO) ajuizaram ação de indenização por danos morais e materiais contra CLIMED CLINICA MEDICA DE BOITUVA S/C LTDA (CLIMED), HOSPITAL SÃO LUIZ LTDA. (HOSPITAL) e FUNDAÇÃO LUIZ JOAO LABRONICI (FUNDAÇÃO) afirmando que a autora passou por complicações na gestação e, em decorrência de erro médico, sua filha veio a óbito.
+Em primeiro grau, a ação foi extinta em relação à CLIMED e parcialmente procedente em relação ao HOSPITAL e ao médico Francisco que foram condenados ao pagamento de R$ 83.000,00 (oitenta e três mil reais) à título de danos morais e a pensão de 2/3 do salário mínimo entre os 16 e 25 anos da vítima. O pedido de indenização por danos estéticos foi julgado improcedente.
+As partes apelaram.
+O Tribunal de origem deu parcial provimento ao recursos das partes em acórdão, assim ementado:
+Indenização por danos materiais, morais e estéticos. Morte de recém-nascida no parto. Responsabilidade objetiva do hospital em relação à conduta de seus funcionários. Inversão do ônus da prova corretamente aplicada (art. 6o, VII, do CDC). Culpa do médico caracterizada. Decisão embasada no laudo do perito do juízo. Danos morais fixados em R$ 83.000,00 (equivalente a 200 salários mínimos). Manutenção. Correção monetária da data da sentença e juros de mora incidentes a partir do evento danoso (Súmula 54 do STJ). Pensão mensal. Não cabimento. Situação de expectativa de direito que obsta a indenização por dano hipotético. Inaplicabilidade da Súmula 491 do STF ao caso concreto. Legitimidade da empresa prestadora de plano de saúde, responsável solidária pela má prestação de serviço de médico por ela credenciado. Precedentes do STJ. Pedido de indenização por danos estéticos rejeitados, consequentemente, também o de custeio de procedimentos para atenuação das alegadas lesões físicas na primeira autora. Sucumbência recíproca. Despesas processuais rateadas na proporção de 50% para os autores e 50% para os réus, respondendo cada parte pelos honorários advocatícios dos respectivos advogados. Sentença reformada em parte. Agravo retido improvido. Apelações dos réus parcialmente providas. Recurso adesivo dos autores parcialmente provido (e-STJ, fl. 1.013).
+Os embargos de declaração opostos pelas partes foram rejeitados (e-STJ, fls. 1.050/1.059).
+Irresignadas, as partes interpuseram recurso especial com fulcro no art. 105, III, a e c, da CF.
+ADRIANA e EDVALDO sustentaram a necessidade de majoração dos danos morais e restabelecimento da pensão mensal vitalícia, nos termos dos arts. 186, 927 e 944, do CC/02.
+CLIMED alegou ofensa aos arts. 159, 932, III, e 1.056 do CC/02, porque é parte ilegítima para a demanda e que inexiste o dever de indenizar.
+A FUNDAÇÃO asseverou a infringência aos arts. (1) 535 do CPC/73 e da existência de omissão em relação à sua ilegitimidade; (2) 267, VI, do CPC/73 e da ausência de responsabilidade porque apenas cedeu o espaço para que a CLIMED pudesse prestar o serviço médico-hospitalar; e, (3) 267, VI, do CPC/73 e 188 do CC/02 no que se refere à inexistência de comprovação do dano porque nenhum preposto do nosocômio teve participação no evento.
+As partes apresentaram petição informando a realização de acordo no que se refere à condenação ao pagamento de indenização por danos morais, tendo sido ressaltando que as demais matérias deveriam ser julgadas (e-STJ, fls. 1.222/1.234).
+Em decisão de minha relatoria o recurso especial da CLIMED foi julgado prejudicado em virtude do acordo realizado entre as partes (e-STJ, fl. 1.238).
+ADRIANA e EDVALDO opuseram embargos de declaração afirmando que os recursos especiais interpostos não estão prejudicados e que há necessidade de julgamento das demais matérias.
+Os aclaratórios foram acolhidos para determinar que a perda do objeto dos recurso especiais está restrita ao pleito de indenização por danos morais.
+O recurso especial interposto por ADRIANA e EDVALDO foi parcialmente provido em decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. RECURSO INTERPOSTO POR ADRIANA SILVEIRO DA [NOME] E EDVALDO [NOME]. AÇÃO DE INDENIZAÇÃO. MORTE DE RECÉM-NASCIDO. INDENIZAÇÃO POR DANOS MORAIS. PERDA DO OBJETO. PAGAMENTO JÁ REALIZADO EM VIRTUDE DE ACORDO ENTRE AS PARTES. PENSIONAMENTO MENSAL. MORTE DE FILHO MENOR. PENSÃO. DEPENDÊNCIA ECONÔMICA PRESUMIDA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, PROVIDO (e-STJ, fl. 1.293)
+Nas razões do presente aclaratório, ADRIANA e EDVALDO afirmaram a existência de omissão quanto (1) termo inicial da pensão mensal; (2) incidência dos juros de mora, nos termo da Súmula nº 54 do STJ; e, (3) fixação dos ônus sucumbenciais.
+Não houve impugnação (e-STJ, fl. 1.317).
+É o relatório.
+DECIDO.
+A irresignação merece parcial provimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Da violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+ADRIANA e EDVALDO afirmaram a existência de omissão quanto (1) termo inicial da pensão mensal; (2) incidência dos juros de mora, nos termo da Súmula nº 54 do STJ; e, (3) fixação dos ônus sucumbenciais.
+(1) Do termo inicial da pensão por morte
+Constou na decisão que ADRIANA e EDVALDO têm o direito ao pagamento da pensão mensal vitalícia no valor de 2/3 do salário salário mínimo até a data em que a vítima completaria 25 (vinte e cinco) anos de idade e, a partir daí, reduzido para 1/3 do salário até a data em que a vítima completaria 65 (sessenta e cinco) anos.
+Com efeito, segundo a jurisprudência desta Corte, é devido o pensionamento aos pais, pela morte de filho, equivalente a 2/3 do salário mínimo ou do valor de sua remuneração, desde os 14 até os 25 anos de idade e, a partir daí, reduzido para 1/3 até a data em que a vítima completaria 65 anos.
+Nesse sentido, confiram-se os seguintes precedentes:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. MORTE. FILHO MENOR DE IDADE. JUROS DE MORA. TERMO INICIAL. EVENTO DANOSO. SÚMULA 54/STJ. INCIDÊNCIA. PENSIONAMENTO.
+1. Em caso de responsabilidade extracontratual, os juros moratórios são devidos desde o evento danoso. Incidência da Súmula 54/STJ.
+2. No caso de morte de filho menor, os pais terão direito a pensionamento de 2/3 do salário percebido (ou do salário mínimo, caso não exercesse trabalho remunerado) até a data em que a vítima completaria 25 (vinte e cinco) anos de idade e, a partir daí, reduzido para 1/3 do salário até a data em que a vítima completaria 65 (sessenta e cinco) anos. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.325.246/SC, Rel. Ministro OG FERNANDES, Segunda Turma, j. 22/9/2015, DJe 14/10/2015)
+RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO COM MORTE. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS PROPOSTA PELOS PAIS DA VÍTIMA. RECURSO ESPECIAL DOS AUTORES. 1. MAJORAÇÃO DO VALOR DA INDENIZAÇÃO POR DANOS MORAIS. POSSIBILIDADE. 2. PENSIONAMENTO. TERMO FINAL. 3. RESPONSABILIDADE EXTRACONTRATUAL. JUROS MORATÓRIOS. TERMO INICIAL. DATA DO EVENTO DANOSO. SÚMULA 54/STJ. RECURSO ESPECIAL DO RÉU. 4. INDEPENDÊNCIA DAS ESFERAS CRIMINAL E CIVIL. 5. PROVIMENTO DO RECURSO DOS AUTORES.
+1. Trata-se de ação de indenização por danos materiais e morais decorrentes do falecimento de filho dos autores, vítima de acidente de trânsito causado por culpa do réu, caso em que a condenação por danos morais deve ser majorada, observando-se os princípios da proporcionalidade e da razoabilidade.
+2. Segundo a jurisprudência deste Tribunal, é devido o pensionamento aos pais, pela morte de filho, nos casos de família de baixa renda, equivalente a 2/3 do salário mínimo ou do valor de sua remuneração, desde os 14 até os 25 anos de idade e, a partir daí, reduzido para 1/3 até a data correspondente à expectativa média de vida da vítima, segundo tabela do IBGE na data do óbito ou até o falecimento dos beneficiários, o que ocorrer primeiro. No caso, tendo os recorrentes formulado pedido para que o valor seja pago até a data em que o filho completaria 65 (sessenta e cinco) anos, o recurso deve ser provido nesta extensão, sob pena de julgamento ultra petita.
+3. Na hipótese de responsabilidade extracontratual, os juros de mora são devidos desde a data do evento danoso (óbito), nos termos da Súmula 54 deste Tribunal.
+ ..
+5. Recurso especial dos autores provido e improvido o do réu. (REsp nº. 1.421.460/PR, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe de 26/6/2015.)
+Acolho os embargos de declaração quanto ao ponto.
+(2) Do juros de mora
+Quanto ao termo inicial dos juros de mora, a conclusão do Tribunal a quo está em harmonia com a jurisprudência desta Corte, firmada no sentido de que os juros moratórios, em caso de responsabilidade extracontratual, devem incidir a partir da data do evento danoso, nos termos da Súmula nº 54 do STJ.
+Não houve recurso das partes quanto ao ponto, motivo pelo qual não há omissão a ser reconhecida.
+(3) Da sucumbência
+No que se refere ao ônus sucumbenciais, assiste razão à ADRIANA e EDVALDO.
+O Tribunal de origem havia fixado a sucumbência recíproca em virtude do afastamento da condenação por danos materiais (pensão por morte).
+Contudo, o recurso especial dos embargantes foi provido para determinar o pagamento da pensão por morte, nos termos já indicados no tópico 1 da presente decisão.
+Assim, é medida de rigor o restabelecimento dos ônus sucumbenciais ficados na sentença no percentual de 15% sobre o valor total da condenação por danos morais.
+Nessas condições, ACOLHO PARCIALMENTE os embargos de declaração, com efeitos infringentes, para fixar o termo inicial do pagamento da pensão por morte e restabelecer os ônus sucumbenciais fixados na sentença, nos termos da fundamentação supra.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se
