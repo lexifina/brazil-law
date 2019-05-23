@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+    “DIREITO ADMINISTRATIVO. SINDICÂNCIA. AMPLA DEFESA E CONTRADITÓRIO. PREPARATIVO PARA PAD.
+    A Jurisprudência desta Corte e do STJ é pacífica no sentido de que a sindicância instaurada com caráter meramente investigatório ou preparatório de um processo administrativo disciplinar prescinde da observância das garantias do contraditório e da ampla defesa.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, caput, LIV, LV; e 37, da CF.
+    A decisão agravada negou seguimento ao recurso por entender que incide, no caso, a Súmula 279/STF.
+    O recurso não merece ser provido. Em se tratando de supostas ofensas aos princípios do contraditório e da ampla defesa, o que se permite discutir nesta sede, em linha de princípio, é apenas a eventual inobservância ao núcleo de tais preceitos, seja em razão da absoluta inexistência de oportunidade para o seu respectivo exercício, seja em decorrência da manifesta insuficiência dos instrumentos existentes para garantir o seu cumprimento.
+    Na hipótese, o Tribunal de origem concluiu, com base nas provas dos autos, que não se pode falar em violação aos princípios constitucionais da ampla defesa e do contraditório. Veja-se o seguinte trecho do voto condutor do acórdão recorrido:
+    “E sendo a sindicância, no caso, procedimento meramente instrutório e que não aplicou nenhuma penalidade, não há falar em nulidade pelo fato de a impetrante ter sido ouvida no início. Ou seja, é irrelevante o momento em que foi ouvida autora (se foi no início, meio ou fim da sindicância), porque não se tratava, naquele momento, de exercer o direito de defesa.
+    Quanto à alegação de que o procedimento investigatório apurou condutas e sua a autoria e serviu de elemento de interligação com o PAD, motivo pelo qual deveria ter participado da instrução, também não procede. Dizer que a sindicância apurou condutas, não é diferente de dizer que apurou fatos, o que é substancialmente diferente de um procedimento que busca imputar consequências pré-estabelecidas a fatos já investigados.
+    Evidentemente, uma vez instaurado o PAD, deverá a Administração assegurar o exercício de mais ampla defesa à impetrante e oportunizar-lhe o direito de produzir as provas que entender de direito.”
+    Ademais, o acórdão do Tribunal de origem está alinhado com a jurisprudência do Supremo Tribunal Federal no sentido de que a sindicância é mero procedimento preparatório ao processo administrativo disciplinar. A propósito, segue a ementa do RMS 26.274-AgR, julgado sob a relatoria do Ministro Dias Toffoli:
+    “Agravo regimental em recurso ordinário em mandado de segurança. Servidor público. Demissão. Sindicância e processo administrativo. Ampla defesa e contraditório. Ausência de violação. Impossibilidade de reexame do conjunto fático probatório. Agravo regimental a que se nega provimento.
+    1. Esta Corte já pacificou o entendimento de que a sindicância é procedimento preparatório ao processo administrativo disciplinar, não cabendo alegar, em seu decorrer, a violação dos princípios do contraditório e da ampla defesa.
+    2. O debate acerca da ilicitude das provas utilizadas no procedimento administrativo, da inobservância do princípio da publicidade e do excesso de poder na apuração dos fatos necessariamente implica o revolvimento do conjunto fático probatório relativo ao desenvolvimento do processo administrativo e da penalidade imposta. Impossibilidade de dilação probatória na via mandamental, pois inconciliável com seu rito. Ausência de direito líquido e certo.
+    3. Agravo regimental a que nega provimento.”
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 23 de maio de 2019.
+Ministro Luís Roberto Barroso
+Relator
