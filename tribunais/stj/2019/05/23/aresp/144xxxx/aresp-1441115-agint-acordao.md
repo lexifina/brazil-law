@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. IMPUGNAÇÃO GENÉRICA DA SÚMULA Nº 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DO JUÍZO NEGATIVO DE ADMISSIBILIDADE RECURSAL.
+1. A Corte a quo negou admissibilidade ao recurso especial por entender que o acórdão recorrido se manifestou no mesmo sentido da jurisprudência do STJ, consubstanciada no REsp 727.340/RS, Relator Ministro Teori Albino Zavascki, Primeira Turma, julgado em 15/12/2009, DJe 02/02/2010. Da análise das razões do agravo de fls. 324-332 e-STJ, verifica-se que a agravante não impugnou de forma específica o fundamento da decisão agravada relativo à conformidade entre o acórdão e a jurisprudência do STJ consubstanciada no paradigma colacionado.
+2. É cediço nesta Corte que a impugnação de fundamento que aplica a Súmula nº 83 do do STJ pressupõe a demonstração, a cargo da agravante, de que a jurisprudência atual do STJ não estaria no sentido do acórdão recorrido ou de que os precedentes citados não seriam aplicáveis a hipótese dos autos em razão de distinguishing, o que não ocorreu na hipótese, atraindo a incidência do art. 932, III, do CPC/2015. Ressalte-se a impossibilidade de utilização do agravo interno para veicular inovação recursal, eis que a esse respeito já se consumou a preclusão.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Francisco Falcão, Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Assusete Magalhães.
+RELATÓRIO
+O SENHOR MINISTRO MAURO CAMPBELL MARQUES (Relator): Cuida-se de agravo interno manejado por SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL SENAI para submeter ao crivo do órgão colegiado decisão de minha lavra resumida da seguinte forma:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO AGRAVADA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+A agravante insurge-se contra a decisão agravada alegando que consta da petição de agravo fundamentação suficiente para infirmar a decisão denegatória de admissibilidade do recurso especial, notadamente quanto à jurisprudência do STJ em relação à incidência da multa moratória prevista nos arts. 35 da Lei nº 8.212/1991 e 61, § § 1º e 2º, da Lei nº 9.430/1996. Colaciona precedente recente do STJ que reconheceu a incidência de multa moratória aos débitos destinados ao SENAI (REsp nº 1.633.279).
+Requer a reconsideração da decisão agravada ou a submissão do feito a julgamento perante a Turma.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. IMPUGNAÇÃO GENÉRICA DA SÚMULA Nº 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DO JUÍZO NEGATIVO DE ADMISSIBILIDADE RECURSAL.
+1. A Corte a quo negou admissibilidade ao recurso especial por entender que o acórdão recorrido se manifestou no mesmo sentido da jurisprudência do STJ, consubstanciada no REsp 727.340/RS, Relator Ministro Teori Albino Zavascki, Primeira Turma, julgado em 15/12/2009, DJe 02/02/2010. Da análise das razões do agravo de fls. 324-332 e-STJ, verifica-se que a agravante não impugnou de forma específica o fundamento da decisão agravada relativo à conformidade entre o acórdão e a jurisprudência do STJ consubstanciada no paradigma colacionado.
+2. É cediço nesta Corte que a impugnação de fundamento que aplica a Súmula nº 83 do do STJ pressupõe a demonstração, a cargo da agravante, de que a jurisprudência atual do STJ não estaria no sentido do acórdão recorrido ou de que os precedentes citados não seriam aplicáveis a hipótese dos autos em razão de distinguishing, o que não ocorreu na hipótese, atraindo a incidência do art. 932, III, do CPC/2015. Ressalte-se a impossibilidade de utilização do agravo interno para veicular inovação recursal, eis que a esse respeito já se consumou a preclusão.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO MAURO CAMPBELL MARQUES (Relator): Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece acolhida.
+A Corte a quo negou admissibilidade ao recurso especial por entender que o acórdão recorrido se manifestou no mesmo sentido da jurisprudência do STJ, consubstanciada no REsp 727.340/RS, Relator Ministro Teori Albino Zavascki, Primeira Turma, julgado em 15/12/2009, DJe 02/02/2010.
+Da análise das razões do agravo de fls. 324-332 e-STJ, verifica-se que a agravante não impugnou de forma específica o fundamento da decisão agravada relativo à conformidade entre o acórdão e a jurisprudência do STJ consubstanciada no paradigma colacionado.
+É cediço nesta Corte que a impugnação de fundamento que aplica a jurisprudência do STJ pressupõe a demonstração, a cargo da agravante, de que a jurisprudência atual do STJ não estaria no sentido do acórdão recorrido ou de que os precedentes citados não seriam aplicáveis a hipótese dos autos em razão de distinguishing, o que não ocorreu na hipótese, atraindo a incidência do art. 932, III, do CPC/2015.
+Ressalte-se a impossibilidade de utilização do agravo interno para veicular inovação recursal, eis que a esse respeito já se consumou a preclusão.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
