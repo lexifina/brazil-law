@@ -1,0 +1,7 @@
+DECISÃO
+ A questão objeto do especial interposto foi decidida pelo Supremo Tribunal Federal no julgamento do RE 669.367/RJ, em repercussão geral, sendo estabelecido o entendimento de que a desistência em mandado de segurança é prerrogativa de quem o impetra, podendo ocorrer a qualquer tempo antes do trânsito em julgado, sem a anuência da parte contrária e independentemente de já ter havido decisão de mérito, desfavorável ou favorável ao impetrante.
+Nesse contexto, reconheço que a existência de recurso extraordinário que trata do mérito da matéria acima identificada é prejudicial à análise do recurso especial de mesmo objeto, razão pela qual determino o sobrestamento do julgamento do REsp nos termos do art. 1.031, § 2º, do CPC/2015.
+Ocorre que, já julgada a questão pelo Pretório Excelso, os autos deverão retornar ao Tribunal de origem, para que lá seja realizado o juízo de conformação com o precedente obrigatório da Suprema Corte.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO o sobrestamento do julgamento deste recurso até a realização do juízo de conformação pela Corte de origem com o precedente do STF, bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência seja realizada.
+Publique-se. Intimem-se.
