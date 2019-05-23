@@ -1,0 +1,17 @@
+DECISÃO
+NICOLAU DOS SANTOS NETTO interpõe recurso ordinário contra acórdão do Tribunal Regional Federal da 3ª Região, que não conheceu do MS n. 2005.03.00.045621-0.
+O recorrente busca a declaração de "superveniente prescrição das referidas ações penais n. 0001248-63.2000.4.03.6181  ..  e 0001198-37.200.4.03.61.81" (fl. 1.339). Afirma que a matéria, de ordem pública, pode ser reconhecida em qualquer fase do processo. Ademais, as causas previstas para a interrupção do lapso temporal são taxativas; o acórdão que confirma a sentença condenatória não tem o mesmo efeito, nem mesmo quanto altera a reprimenda ou promova a desclassificação do crime.
+Requer a declaração do direito líquido e certo de ter enfrentada e julgada a prescrição.
+O Ministério Público Federal opinou pelo não conhecimento do recurso.
+Decido.
+Na origem, trata-se de mandado de segurança contra o julgamento da apelação interposta na Ação Penal n. 2000.61.81.001248-1, sob a alegação de nulidade do processo, em razão de impedimento ou suspeição do Juiz.
+A parte impetrou o remédio constitucional contra ato jurisdicional do próprio Tribunal, mas o órgão é incompetente para reverter seus próprios julgados. Outrossim, não havia direito líquido e certo a embasar a pretensão, uma vez que a suspeição e o impedimento do Juiz haviam sido rechaçados no julgamento da apelação, oportunidade em que a Corte assinalou que "os fatos apurados no processo n. 2003.03.00.265344-4 não apresentam qualquer relação com aqueles apurados no feito em epígrafe" e "não há provas  ..  de que a sentença condenatória de primeiro grau prolatada nestes autos tenha sido dada por prevaricação, concussão ou corrupção do Juiz, pelo que não há que se falar em nulidade deste processo ou de impedimento do magistrado" (fl. 1.265).
+O aresto recorrido não padece de nenhuma ilegalidade.
+O mandado de segurança era manifestamente incabível, pois acórdão proferido pelos órgãos fracionários dos Tribunais deve ser impugnado perante os Tribunais Superiores.
+Além do mais: "Salvo em hipóteses excepcionais de ato teratológico ou flagrante ilegalidade, não se admite a impetração de mandado de segurança como sucedâneo de recurso contra ato jurisdicional  .. , consoante o teor do verbete sumular n.º 267 do STF: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição"" (AgInt no RMS n. 60.054/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 9/4/2019).
+Por fim, é inadmissível a inovação das razões de pedir e do pedido após o não conhecimento do mandado de segurança, na fase do julgamento dos aclaratórios ou de agravo regimental.
+O insurgente não havia requerido na petição inicial a extinção da punibilidade pela ocorrência da prescrição e, portanto, inovou o pedido em embargos de declaração, o que não se admite. O recurso integrativo serve, tão somente, para a correção dos vícios assinalados no art. 619 do CPP.
+Ademais, a pretensão não pode ser analisada em mandado de segurança, instrumento previsto na Constituição para a tutela de direitos líquidos e certos violados ou ameaçados, não amparados por habeas corpus.
+Transitada em julgado a condenação, a autoridade competente para resolver o incidente é o Juiz das Execuções, conforme o art. 66, II, da LEP, principalmente porque no autos do mandado de segurança não há dados seguros para análise da controvérsia.
+À vista do exposto, nego provimento ao recurso ordinário.
+Publique-se e intimem-se.
