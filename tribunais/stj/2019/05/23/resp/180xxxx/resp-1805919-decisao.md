@@ -1,0 +1,38 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA NA VIGÊNCIA DO NCPC. AÇÃO DECLARATÓRIA CUMULADA COM PEDIDO DE INDENIZAÇÃO. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. DESISTÊNCIA DO NEGÓCIO POR INICIATIVA DO ADQUIRENTE. RESTITUIÇÃO DOS VALORES PAGOS. JUROS MORATÓRIOS. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO DA DECISÃO. PRECEDENTES. ACÓRDÃO EM DESACORDO COM A JURISPRUDÊNCIA DOMINANTE DESTA CORTE. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+[NOME] ([NOME]) ajuizou ação de indenização por danos morais c/c declaratória de nulidade de cláusulas c/c reembolso integral de parcelas adimplidas contra LIVING CEDRO EMPREENDIMENTOS IMOBILIÁRIOS LTDA (LIVING CEDRO).
+Narrou que firmou com a ré contrato de promessa de compra e venda de imóvel em construção, tendo pago, além do sinal do negócio e parcelas reajustáveis, a quantia de R$ 126.319,15. Porém, em virtude de dificuldades financeiras, se viu obrigado a rescindir a avença, tendo a ré lhe restituído apenas 50% dos valores pagos.
+Em primeiro grau, o pedido foi julgado procedente em parte, a fim de (1) condenar a parte ré a restituir 80% (oitenta por cento) dos valores que lhes foram pagos, devidamente corrigidos e acrescidos de juros moratórios de 12% (doze por cento) ao ano, contados da citação por se tratar de relação contratual, sem incluir neste percentual sinal dado em pagamento e a comissão de corretagem; e, (2) fixar a sucumbência recíproca (e-STJ, fls. 184/188).
+A Corte fluminense negou provimento ao apelo de LIVING CEDRO, em acórdão ao seguir ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/C RESTITUIÇÃO DE PARCELAS ADIMPLIDAS E COMPENSATÓRIA POR DANOS MORAIS. IMÓVEL RESIDENCIAL. PROMESSA DE COMPRA E VENDA. DISTRATO MOTIVADO PELO ADQUIRENTE. SENTENÇA DE PROCEDÊNCIA PARCIAL. IRRESIGNAÇÃO DA PARTE RÉ. MANUTENÇÃO DO DECISUM.
+1 - O termo de distrato firmado entre as partes não obsta verificar a existência de cláusulas abusivas no pacto primitivo (promessa de venda e compra de unidade autônoma condominial), tampouco no próprio distrato, vez que se tratando de relação de consumo, e revelando-se abusivas as referidas cláusulas, legítima é a pretensão de invalidá-las, com base no artigo 51, inciso IV, do Código de Defesa do Consumidor.
+2 - A ampla e geral quitação firmada em distrato não afasta a possibilidade de revisão dos seus termos, assim como, o direito de ação é direito fundamental, garantido constitucionalmente (artigo 5º, inciso XXXV, da Carta Magna), portanto, qualquer clausula que disponha sobre renúncia a tal direito é abusiva.
+3 -O percentual de retenção em favor do promitente vendedor que não deu causa à rescisão do contrato, destina-se à cobertura de eventuais custos operacionais/administrativos suportados pelo desfazimento do negócio. No caso em comento, a percentagem de retenção de 20% (vinte por cento) fixado pelo Juízo de piso afigura-se razoável.
+Precedente.
+4 - Incidência dos juros moratórios sobre a restituição devida desde a citação, por se tratar de relação contratual.
+5 - Não há que se falar em majoração dos honorários advocatícios, a título de sucumbência recursal, nos termos do artigo 85, §§ 12 e 11, da Lei dos Ritos, vez que não houve condenação pretérita, da parte ré - apelante, na instância a quo.
+6 - DESPROVIMENTO DO RECURSO (e-STJ, fl. 289).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 301/305).
+No recurso especial, interposto com fundamento no art. 105, III, a e c, da Constituição federal, LIVING CEDRO alegou que o acórdão recorrido dissentiu do entendimento firmado no bojo do Resp n. 1.211.323/MS (Rel. Ministro Luis Felipe Salomão, Quarta Turma, j. 1º/10/2015, DJe. 20/101/2015), no qual ficou reconhecido que, nos casos de desfazimento de contrato de promessa de compra e venda de imóvel por iniciativa do promitente comprador, os juros moratórios serão computados a partir do trânsito em julgado da decisão.
+Após apresentadas as contrarrazões, o recurso foi admitido na origem (e-STJ, fls. 364/367).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Do termo inicial dos juros de mora (dissídio)
+A Corte de origem, ao manter a sentença que condenou LIVING CEDRO à restituição de 80% das quantias pagas, a partir da citação, por se tratar de relação contratual, divergiu do entendimento firmado nesta Corte, segundo o qual, na hipótese de resolução do compromisso de compra e venda de imóvel por iniciativa do promitente comprador, por impossibilidade econômica do adquirente em adimplir o contrato, os juros de mora relativos à restituição das parcelas pagas devem incidir a partir da data do trânsito em julgado da decisão, porquanto inexiste mora anterior do promitente vendedor.
+A esse respeito, confiram-se os precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. IMÓVEL COMERCIAL. RESCISÃO POR INICIATIVA DO PROMITENTE COMPRADOR. AUSÊNCIA DE CULPA DO VENDEDOR. RESTITUIÇÃO DAS PARCELAS PAGAS. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese de resolução do compromisso de compra e venda de imóvel por iniciativa do promitente comprador, por impossibilidade econômica do adquirente em adimplir o contrato, os juros de mora relativos à restituição das parcelas pagas devem incidir a partir da data do trânsito em julgado da decisão, porquanto inexiste mora anterior do promitente vendedor. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgRg nos EDcl no AREsp 1.387.058/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 21/3/2019, DJe 2/4/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES. COMPRA E VENDA DE IMÓVEL. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO DA DECISÃO. INOVAÇÃO RECURSAL. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+ .. .
+2. O acórdão recorrido decidiu em sintonia com a jurisprudência do Superior Tribunal de Justiça no sentido de que, em caso de rescisão do contrato de compromisso de compra e venda de imóvel por desistência dos adquirentes, na qual os autores pretendem a restituição das parcelas pagas de maneira diversa da cláusula penal pactuada, o termo inicial dos juros moratórios é o trânsito em julgado da decisão condenatória. Precedentes.  .. .
+6. Agravo interno não provido.
+(AgInt no AREsp 1.296.227/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 10/12/2018, DJe 14/12/2018).
+Assim, estando o acórdão recorrido em desacordo com a jurisprudência dominante desta Corte, incide, no ponto, a Súmula nº 568 do STJ, segundo a qual, o relator, monocraticamente e no Superior Tribunal de Justiça poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Nessas condições, DOU PROVIMENTO ao recurso especial, a fim de determinar que os juros moratórios sobre os valores a serem restituídos à parte autora incidam a partir do trânsito em julgado da decisão.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
