@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE QUANTIAS. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. IMPOSSIBILIDADE DE ANÁLISE MERITÓRIA. SÚMULAS 283 E 284 DO STF. RECURSO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. A Corte de origem consignou no acórdão que a recorrente apenas alegou sua ilegitimidade processual, sem nenhum destaque relacionado à exigibilidade das quantias referentes a comissão de corretagem e a taxa SATI, sendo, por isso, impossível a análise meritória das verbas. Todavia, tais fundamentos autônomos e suficientes para a manutenção do acórdão recorrido não foram rebatidos pelo recorrente em seu apelo especial. Desse modo, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido nesse ponto, o que denota a deficiência da fundamentação recursal, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto por CONSTRUTORA COZMAN LTDA., sob a vigência do Novo Código de Processo Civil, contra decisão deste relator, que negou provimento ao agravo em recurso especial, com base nos seguintes fundamentos:
+a) ausência de violação ao art. 1.022 do Código de Processo Civil, uma vez que embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente; e,
+b) Súmulas 283 e 284 do STF no que se refere aos fundamentos do acórdão acerca da comissão de corretagem.
+Inconformada, a parte ora agravante, em apertada síntese, sustenta que "a Agravante comprovou que não foi analisada a existência do contrato autônomo de corretagem juntado à inicial, que é fato essencial ao deslinde da controvérsia, que se cinge à legalidade ou não de tal cobrança e exige o retorno dos autos ao E. Tribunal para decisão completa."
+Além disso, alega que "a Agravante transcreveu o mesmo trecho do v. acórdão que consta da r. decisão impugnada para comprovar que, em todas as suas peças processuais, defendeu a legalidade da cobrança da corretagem. Também comprovou a Agravante que a falta de análise do mérito da ação, após reconhecida sua legitimidade, viola frontalmente o disposto no artigo 141 do Código de Processo Civil, que prevê a fixação dos limites da lide pelo autor da ação, e não pelo réu, como fez o E. Tribunal" (fls. 278-286).
+Não foram apresentadas contrarrazões ao agravo interno (fl. 289).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE QUANTIAS. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. IMPOSSIBILIDADE DE ANÁLISE MERITÓRIA. SÚMULAS 283 E 284 DO STF. RECURSO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. A Corte de origem consignou no acórdão que a recorrente apenas alegou sua ilegitimidade processual, sem nenhum destaque relacionado à exigibilidade das quantias referentes a comissão de corretagem e a taxa SATI, sendo, por isso, impossível a análise meritória das verbas. Todavia, tais fundamentos autônomos e suficientes para a manutenção do acórdão recorrido não foram rebatidos pelo recorrente em seu apelo especial. Desse modo, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido nesse ponto, o que denota a deficiência da fundamentação recursal, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. Agravo interno não provido.
+
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. A irresignação não merece ser conhecida.
+Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3. De outra parte, acerca da comissão de corretagem, a Corte de origem consignou (fls. 191-192) - grifamos:
+Nada, depois, autoriza modificar a devolução das verbas de assessoria imobiliária. Aliás, no que toca a este pleito, observa-se que a recorrente apenas formulada a sua ilegitimidade processual, sem nenhum destaque relacionado à exigibilidade das quantias. Por isso, impossível a análise meritória das verbas, mantendo-se a devolução dos valores à luz da jurisprudência recentemente editada pelo C. STJ: "Legitimidade passiva "ad causam" da incorporadora, na condição de promitente vendedora, para responder pela restituição ao consumidor dos valores pagos a título de comissão de corretagem e de taxa de assessoria técnico imobiliária, nas demandas em que se alega prática abusiva na transferência desses encargos ao consumidor" (Tema 939, STJ).
+Todavia, tais fundamentos autônomos e suficientes para a manutenção do acórdão recorrido não foram rebatidos pelo recorrente em seu apelo especial. Desse modo, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido nesse ponto, o que denota a deficiência da fundamentação recursal, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+4. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
