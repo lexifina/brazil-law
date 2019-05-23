@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão que inadmitiu recurso especial, fundado na alínea "a" do permissivo constitucional e que desafia acórdão do Tribunal de Justiça de São Paulo assim ementado:
+EXECUÇÃO FISCAL. Embargos à penhora. A penhora sobre o faturamento é admitida desde que: a) comprovada a inexistência de outros bens passíveis de garantir a execução, ou, sejam os indicados de difícil alienação; b) nomeação de administrador (arts. 678 e 719, caput do CPC), ao qual incumbirá a apresentação das formas de administração e pagamento; c) fixação de percentual que não inviabilize a atividade econômica. Recusa do encargo de depositário pelo representante legal da sociedade executada. Possibilidade. Súmula 319 STJ. Recurso provido em parte.
+Nas razões do especial, alega violação dos arts. 21, parágrafo único, e 535 do CPC/1973, sustentando as seguintes teses:
+a) existência de negativa de prestação jurisdicional, tendo em vista suposta omissão do Tribunal de origem quanto ao enfrentamento da tese relativa à distribuição dos ônus sucumbenciais;
+b) no mérito, defende ter decaído da parte mínima dos pedidos formulados nos embargos à penhora opostos pela empresa agravada, razão pela qual pleiteia a redistribuição do ônus de sucumbência.
+Sem contrarrazões ao recurso especial, este foi inadmitido, ante a aplicação da Súmula 7 do STJ; fundamento com o qual não concorda a agravante.
+Contraminuta não apresentada, conforme certidão de e-STJ fl. 212.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Feita essa consideração, cabe ressaltar que o recurso especial se originou de embargos opostos pela agravada à penhora realizada nos autos da execução fiscal movida em seu desfavor pela Fazenda estadual.
+Em primeiro grau de jurisdição, o Juízo da 1ª Vara Cível da Comarca de Presidente Prudente/SP julgou improcedente o pedido, condenando a agravada ao pagamento das custas, despesas processuais e honorários advocatícios, sendo estes fixados em 10% sobre o valor da causa.
+Irresignada, a empresa interpôs apelação, que foi parcialmente provida pelo TJ/SP, a fim de revogar a nomeação de seu representante legal como depositário do percentual do faturamento penhorado. Ao fim, reconheceu a sucumbência recíproca entre as partes, devendo os encargos da sucumbência ser divididos igualmente na forma do art. 21 do CPC/1973.
+Os embargos de declaração opostos pelo agravante foram rejeitados.
+Pois bem.
+a) Negativa de prestação jurisdicional
+Não há violação do art. 535 do CPC/1973 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+Da leitura do acórdão integrativo, constata-se que o Tribunal de origem foi expresso ao ratificar que a Fazenda estadual não decaiu de parte mínima do pedido, na medida em que, dos dois pontos requeridos no recurso de apelação interposto pela empresa agravada, um deles foi acolhido, o que evidencia a reciprocidade na sucumbência.
+Desse modo, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+b) Distribuição dos ônus sucumbenciais
+Com efeito, a revisão do acórdão recorrido quanto à distribuição dos ônus sucumbenciais, com o propósito de verificar a proporção de decaimento de cada uma das partes, pressupõe reexame do contexto-fático probatório dos autos, o que é inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+A propósito, vide:
+TRIBUTÁRIO. PROCESSUAL CIVIL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF.AGRAVO REGIMENTAL. COMPLEMENTAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. SUCUMBÊNCIA MÍNIMA. AFERIÇÃO. SÚMULA 7/STJ.
+ ..
+3. Quanto à distribuição dos ônus sucumbenciais, aferir, no caso, a proporção do decaimento de cada parte de modo a se concluir pela ocorrência de sucumbência recíproca ou mínima exigiria nova análise de aspectos fáticos da causa, providência vedada em recurso especial (Súmula 7/STJ). Precedentes: AgRg no AREsp 455.873/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 25/3/2014, DJe 31/3/2014; AgRg nos EDcl no REsp 1384837/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 5/12/2013, DJe 6/3/2014; AgRg no REsp 1248624/PR, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 19/11/2013, DJe 6/12/2013); e AgRg no Ag 1428990/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 03/9/2013, DJe 11/9/2013.
+ ..  (AgRg no AREsp 664.122/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 23/02/2016, DJe 29/02/2016).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ART. 535, II, DO CPC. PRESTAÇÃO JURISDICIONAL ADEQUADA. CONTRATAÇÃO DE SERVIÇOS SEM LICITAÇÃO. EFETIVA PRESTAÇÃO DOS SERVIÇOS. OBRIGAÇÃO DE PAGAMENTO. VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. HONORÁRIOS DE ADVOGADO. SUCUMBÊNCIA RECÍPROCA. REVISÃO DO ENTENDIMENTO DO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+II. A alegação de ofensa ao art. 21, parágrafo único, do CPC, quando tem por objetivo rediscutir a distribuição de honorários advocatícios, encontra óbice na Súmula 7/STJ. Com efeito, "a revisão da distribuição dos ônus sucumbenciais, com o intuito de perquirir eventual decaimento mínimo, questão que envolve ampla análise de questões de fato e de prova, consoante as peculiaridades de cada caso concreto, o que é inadmissível na estreita via do especial, nos termos da Súmula 7/STJ" (STJ, AgRg no AREsp 35.924/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/04/2012).
+ ..  (AgRg no AREsp 423.717/PI, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/09/2015, DJe 28/09/2015).
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO (art. 253, parágrafo único, II, "a" e "b", do RISTJ).
+Publique-se. Intimem-se.
