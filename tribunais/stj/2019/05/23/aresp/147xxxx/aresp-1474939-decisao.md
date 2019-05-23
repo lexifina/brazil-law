@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME], contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, III, "a", da CF/1988, que visa reformar acórdão proferido por TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado:
+Apelação Cível - Ação de Cobrança - Conversão da URV - Servidora Municipal de Capela/SE Diferenças salariais decorrentes da conversão da URV em Real - Vencimentos - Reajustes - 11,98% - Auxiliar de serviços gerais - Data do efetivo pagamento - Inexistência de indicação - Ausência de provas da data do pagamento dos vencimentos, ônus que lhes competia - Inteligência do art. 373, inciso I do CPC - Reforma da sentença - Recurso conhecido e provido - Decisão unânime.
+Quanto à primeira controvérsia, pela alínea a, alega violação , no que concerne possibilidade de inversão do ônus da prova, trazendo os seguintes argumentos:
+Ora, [NOME], o caso em tela versa sobre o reajuste que deveria ter sido aplicado na conversão da moeda no ano de 1994. É de prejuízo irreparável obrigar a Recorrente que tenha em mãos documento com mais de 24 anos e em decorrência da falta deste documento não inverter o ônus da prova, julgando improcedente a demanda. Este foi o entendimento do Douto Tribunal de Justiça de Sergipe (fl. 490).
+É o relatório. Decido.
+Incide, na espécie, o óbice das Súmulas 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
