@@ -1,0 +1,49 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional, com base na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TRF da 4ª Região assim ementado (e-STJ, fl. 168):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. PRESCRIÇÃO. CRÉDITO PRESUMIDO DE ICMS. BASE DE CÁLCULO DO IRPJ, CSLL, PIS E COFINS. EXCLUSÃO. SUBVENÇÕES FISCAIS. PRINCÍPIO DA COERÊNCIA.
+1. O prazo de cinco anos para a restituição ou compensação do crédito tributário começa a fluir, no caso de tributo lançado por homologação, na data do pagamento antecipado, nos termos do art. 150, §1º, do CTN, e art. 3º, da LC 118/05.
+2. As subvenções fiscais não podem criar incompatibilidades com as normas de tributação. A coerência que deve nortear o sistema tributário não permite que a mesma materialidade que outorgue subvenção fiscal autorize a incidência de uma norma de tributação.
+3. Os créditos presumidos de ICMS não podem ser considerados receita tributável para fins de incidência do IRPJ, da CSL, do PIS e da COFINS, porque constituem subvenção para investimento e não devem ser computados na determinação do lucro real, nos termos do §2º do art. 38 do DL nº 1.598/77.
+Os embargos de declaração opostos na sequência foram rejeitados.
+A recorrente, além de omissão no aresto impugnado, insurge-se contra a exclusão dos créditos presumidos de ICMS da base de cálculo do PIS, da COFINS, do IRPJ e da CSLL.
+O apelo nobre foi admitido na origem.
+É o relatório.
+inicialmente, não se conhece da alegação de negativa de prestação jurisdicional quando o recorrente deixa de especificar os vícios que inquinam o acórdão impugnado, valendo-se de argumentos imprecisos de que persiste a omissão que deu ensejo aos embargos de declaração.
+Com efeito, cumpre à parte fundamentar, de maneira particularizada, a indispensabilidade da análise da matéria por ele indicada para a solução da controvérsia, o que não ocorreu na espécie.
+Colho o seguinte ensinamento:
+O provimento do recurso especial por contrariedade ao art. 535, II, do CPC pressupõe que sejam demonstrados, fundamentadamente, entre outros, os seguintes motivos: (a) a questão supostamente omitida foi tratada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuida de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) houve interposição de aclaratórios para indicar à Corte local a necessidade de sanear a omissão; (c) a tese omitida é fundamental à conclusão do julgado e, se examinada, poderia levar à sua anulação ou reforma; e (d) não há outro fundamento autônomo, suficiente para manter o acórdão. Esses requisitos são cumulativos e devem ser abordados de maneira fundamentada na petição recursal, sob pena de não se conhecer da alegativa por deficiência de fundamentação, dada a generalidade dos argumentos apresentados.
+(AgRg no AREsp 338.675/BA, Rel. Min. CASTRO MEIRA, SEGUNDA TURMA, DJe 19/9/2013)
+Aplica-se, portanto, ao ponto, o óbice constante da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. FORNECIMENTO DE ÁGUA. ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF, POR ANALOGIA. AÇÃO DE INDENIZAÇÃO. OCORRÊNCIA DE DANOS MORAIS. CONCLUSÃO DO TRIBUNAL DE ORIGEM. ÓBICE DA SÚMULA 7/STJ. REVISÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE NA ESPÉCIE. SÚMULA 7/STJ.
+1. Não se pode conhecer da apontada violação ao artigo 535 do CPC, pois as alegações que fundamentaram a pretensa ofensa são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros ou sobre os quais tenha ocorrido erro material. Incide, no caso, a Súmula 284 do Supremo Tribunal Federal, por analogia.
+ ..
+(AgRg no AREsp 469.263/RJ, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/3/2014, DJe 21/3/2014)
+ADMINISTRATIVO. PROCESSUAL CIVIL. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. LEI DE RESPONSABILIDADE FISCAL NÃO PREQUESTIONADA. SÚMULA 211/STJ. ACÓRDÃO RECORRIDO FUNDAMENTADO NA INTERPRETAÇÃO DE LEI LOCAL E EM PRECEITOS CONSTITUCIONAIS. INVIABILIDADE DE MODIFICAÇÃO. SÚMULA 280/STF.
+1. A alegação genérica de violação do artigo 535 do Código de Processo Civil, sem explicitar os pontos em que teria sido omisso o acórdão recorrido e sem argumentação sobre o tema nas razões recursais, atrai a aplicação do disposto na Súmula 284/STF.
+ ..
+(AgRg no AREsp 455.248/MA, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 11/3/2014, DJe 18/3/2014)
+Passo seguinte, a Segunda Turma possuía entendimento de que " ..  o crédito presumido do ICMS, ao configurar diminuição de custos e despesas, aumenta indiretamente o lucro tributável e, portanto, deve compor a base de cálculo do IRPJ e da CSLL" (AgRg nos EDcl no REsp 1.465.870/SC, Rel. Min. Herman Benjamin, Segunda Turma, DJe 31/3/2015).
+Entretanto, a Primeira Seção, ao apreciar os EREsp 1.517.492/PR, posicionou-se pela "inviabilidade de inclusão do crédito presumido de ICMS nas bases de cálculo do IRPJ e do CSLL, porquanto entendimento contrário sufragaria a possibilidade de a União retirar, por via oblíqua, o incentivo fiscal que o Estado-membro, no exercício de sua competência tributária, outorgou".
+Outrossim, é firme o entendimento desta Corte Superior segundo o qual o crédito presumido de ICMS não integra a base de cálculo da contribuição ao PIS e da COFINS.
+Vale conferir:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ILEGITIMIDADE DA INCLUSÃO DE CRÉDITO PRESUMIDO DE ICMS NAS BASES DE CÁLCULO DO IRPJ E DA CSLL. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. A Primeira Seção desta Corte, no julgamento do EREsp 1.517.492/PR, decidiu pela não inclusão do crédito presumido de ICMS nas bases de cálculo do IRPJ e da CSLL, ao fundamento de que a incidência de tributo federal sobre o incentivo fiscal de ICMS ofenderia o princípio federativo.
+2. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+(AgInt no REsp 1.725.131/SC, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/2/2019, REPDJe 26/2/2019, DJe 25/2/2019)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CRÉDITO PRESUMIDO DE ICMS. INCLUSÃO NA BASE DE CÁLCULO DO IRPJ E DA CSLL. IMPOSSIBILIDADE. FATO SUPERVENIENTE. [NOME] 160/2017. INADMISSÃO.
+1. A Primeira Turma desta Corte firmou entendimento no sentido da não inclusão do crédito presumido de ICMS na base de cálculo do IRPJ e da CSLL. Nesse sentido: AgInt no REsp 1.517.492/PR, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 20/10/2016; AgInt no REsp 1.604.141/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 6/12/2016; AgInt no REsp 1.605.896/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 29/3/2017.
+2. A Primeira Turma, no julgamento do AgInt no REsp 1306878-RS, relativamente à alegação de fato superveniente, à entrada em vigor da LC 160/2017, decidiu que a invocação de legislação superveniente, no âmbito do recurso especial, não é admitida porque essa espécie recursal tem causa de pedir vinculada à fundamentação adotada no acórdão recorrido, não podendo ser ampliada por fatos supervenientes ao julgamento do Tribunal de origem, além do que, "ainda que examinado, não ensejaria o acolhimento da tese fazendária, pois a superveniência de lei, determinando a qualificação do incentivo fiscal estadual como subvenção de investimentos, não tem aptidão para alterar a conclusão de que a tributação federal do crédito presumido de ICMS representa violação ao princípio federativo".
+Ademais, o julgamento da Primeira apoiou-se em pronunciamento do Pleno do Supremo Tribunal Federal, no regime da repercussão geral, de modo que não há obrigatoriedade de observância do art. 97 da CF/1988. (AgInt no REsp 1.306.878-RS, Rel. Ministro GURGEL DE FARIA, Primeira Turma, julgado em 25/10/2018, acórdão pendente de publicação).
+3. Agravo interno não provido.
+(AgInt no REsp 1.726.562/RS, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 13/12/2018, DJe 19/12/2018)
+TRIBUTÁRIO E PROCESSUAL CIVIL. IMPOSSIBILIDADE DE CARACTERIZAÇÃO DO CRÉDITO PRESUMIDO DO ICMS COMO RECEITA. AUSÊNCIA DE OMISSÃO. ART. 1.022, II. DO CPC. FALTA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Não se configurou a ofensa ao art. 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada.
+2. A indicada afronta aos arts. 97 e 111 do CTN não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. A jurisprudência do STJ firmou-se no sentido de que o crédito presumido referente ao ICMS não tem natureza de receita ou faturamento, razão pela qual não pode ser incluído na base de cálculo do PIS e da Cofins.
+4. Em recente julgamento, a Primeira Seção do STJ, ao apreciar o EREsp 1.517.492/PR, relatora para o acórdão Ministra Regina Helena Costa, ratificou o entendimento "segundo o qual o valor de ICMS não se incorpora ao patrimônio do contribuinte, constituindo mero ingresso de caixa, cujo destino final são os cofres públicos."
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.664.791/SC, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/3/2018, DJe 14/11/2018)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ e a Súmula 568/STJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
