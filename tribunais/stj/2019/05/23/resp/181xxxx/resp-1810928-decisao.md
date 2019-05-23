@@ -1,0 +1,36 @@
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO MONITÓRIA. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. PREENCHIMENTOS DOS REQUISITOS LEGAIS. AUSÊNCIA DE PRÉVIA CONDENAÇÃO DO RECORRENTE AO PAGAMENTO DE TAL VERBA. EXCLUSÃO. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+BANCO DO BRASIL S.A. - BANCO MÚLTIPLO (BANCO) ajuizou ação monitória em desfavor de [NOME] ([NOME]) e GERVÁSIO TADEU DA [NOME] (GERVÁSIO), cujos pedidos foram julgados procedentes para constituir o título executivo judicial no valor de RS 65.275,84 (sessenta e cinco mil, duzentos e setenta e cinco reais e oitenta e quatro centavos), bem como condenar [NOME] nas custas, despesas processuais e honorários advocatícios arbitrados em 15% sobre o valor atualizado do débito (e-STJ, fls. 204/207).
+Inconformado, GERVÁSIO interpôs apelação, que foi desprovida pela Corte a quo em acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - CONTRATO DE ABERTURA DE CRÉDITO RURAL - RÉU NÃO LOCALIZADO NO ENDEREÇO DO CONTRATO - CITAÇÃO POR EDITAL - VALIDADE - DILIGÊNCIAS REALIZADAS PARA LOCALIZAÇÃO DO RÉU - DESNECESSIDADE DE ESGOTAMENTO ABSOLUTO DE TODOS OS MEIOS POSSÍVEIS PARA SUA LOCALIZAÇÃO - CONTESTAÇÃO POR NEGATIVA GERAL DO CURADOR ESPECIAL - REJEIÇÃO - GRATUIDADE JUDICIÁRIA - AUSÊNCIA DE PROVAS DA HIPOSSUFICIÊNCIA FINANCEIRA DA PARTE - CONDENAÇÃO AOS ÔNUS SUCUMBENCIAIS MANTIDA.
+Restando comprovado nos autos que o Autor diligenciou para efetuar a citação do Réu, através de consultas pelos sistemas Infojud e Bacenjud e não tendo obtido sucesso em localizá-lo, é válida a citação por edital, sendo desnecessário o esgotamento absoluto de todos os meios possíveis de localização da parte.
+A prova documental acostada aos autos é suficiente para comprovar o direito vindicado na ação, sobretudo à míngua de qualquer indício quanto à existência de fato impeditivo, modificativo ou extintivo do direito do Autor.
+Não se presume a hipossuficiência financeira quando a Defensoria Pública atua como mera curadora especial, face à revelia do devedor citado por edital. Precedentes do STJ. (e-STJ, fl. 242).
+Os embargos de declaração opostos por GERVÁSIO foram rejeitados (e-STJ, fls. 272/276).
+Irresignado, GERVÁSIO interpôs recurso especial com fundamento na alínea a do permissivo constitucional, apontando a afronta do art. 85, §§ 2º e 11, do NCPC, e art. 884 do Código Civil, por reputar que seria incabível a fixação dos honorários advocatícios recursais sem que o recorrente houvesse sido condenado ao seu pagamento em primeira instância, de modo que, acaso mantida a verba adicional, estaria configurada uma situação jurídica mais gravosa do que aquela que lhe foi imposta pela sentença, em afronta ao princípio non reformatio in pejus.
+Em juízo de admissibilidade, a Terceira Vice-Presidência do Tribunal estadual admitiu o referido apelo nobre (e-STJ, fls. 301/303).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+No que se refere aos honorários advocatícios recursais, a Corte de origem decidiu em desconformidade com a orientação deste Tribunal Superior, que se posiciona no sentido de que somente são devidos quando preenchidos cumulativamente os requisitos legais, entre os quais se insere a prévia condenação ao pagamento de tal verba em seu desfavor.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, DO CPC. AGRAVO CONHECIDO E RECURSO ESPECIAL PROVIDO PARA RESTABELECER A SENTENÇA. NÃO PROVIMENTO.
+1. Esta Corte Superior tem manifestado o entendimento de que a "majoração dos honorários advocatícios, nos termos do § 11 do artigo 85 do CPC/2015, se dará quando se apresentarem simultaneamente as seguintes situações: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o CPC/2015; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado, e c) condenação em honorários advocatícios desde o tribunal de origem no feito em que interposto o recurso.
+Precedentes" (AgInt no AREsp 1283540/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/12/2018, DJe 14/12/2018).
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1.745.960/MS, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 02/04/2019, DJe 8/4/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. DANO MORAL. PLANO DE SAÚDE. CIRURGIA DE EMERGÊNCIA. PROCEDIMENTO CONTRATADO. PACIENTE IDOSA COM LESÃO ÓSSEA. AUTORIZAÇÃO. DEMORA DEMASIADA. ANGÚSTIA E AFLIÇÃO PSICOLÓGICA. RECONHECIMENTO. SÚMULA Nº 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA. HONORÁRIOS. MAJORAÇÃO. POSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É firme a orientação do Superior Tribunal de Justiça no sentido de que a negativa injustificada em autorizar a cobertura financeira de tratamento médico de urgência agrava a situação de aflição psicológica e de angústia do beneficiário. Precedentes.
+3. Na hipótese, os magistrados da instância ordinária decidiram em perfeita consonância com a jurisprudência desta Corte, circunstância que atrai a incidência da Súmula nº 568/STJ.
+4. A majoração dos honorários advocatícios, nos termos do § 11 do artigo 85 do CPC/2015, se dará quando se apresentarem simultaneamente as seguintes situações: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o CPC/2015; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado, e c) condenação em honorários advocatícios desde o tribunal de origem no feito em que interposto o recurso. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.283.540/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 10/12/2018, DJe 14/12/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS RECURSAIS. ART. 85, § 11º, DO CPC. DISPOSITIVO LEGAL QUE CONDICIONA O ARBITRAMENTO DESTES À FIXAÇÃO EM MOMENTO ANTERIOR DE HONORÁRIOS SUCUMBENCIAIS, POIS APENAS PREVÊ A MAJORAÇÃO. RECURSO INTERPOSTO CONTRA ACÓRDÃO PROFERIDO EM JULGAMENTO DE AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE ARBITRAMENTO, TENDO EM VISTA QUE NESTA ESPÉCIE DE RECURSO NÃO SÃO ARBITRADOS HONORÁRIOS EM DESFAVOR DO SUCUMBENTE.
+AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt no REsp 1.727.123/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 3/12/2018, DJe 7/12/2018)
+Nessas condições, DOU PROVIMENTO ao recurso especial a fim de decotar a condenação do ora recorrente ao pagamento de honorários advocatícios recursais.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
+Publique-se. Intimem-se.
