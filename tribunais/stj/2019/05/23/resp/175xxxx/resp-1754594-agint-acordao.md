@@ -1,0 +1,60 @@
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. [NOME]. IMPORTAÇÃO. LEI N. 10.865/2004, ART. 8º, § 21. INCONSTITUCIONALIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DOS ENUNCIADOS SUMULARES N. 282 E 356 DO STF. MATÉRIA DE ÍNDOLE EMINENTEMENTE CONSTITUCIONAL.
+I - O presente feito decorre de mandado de segurança objetivando "a Declaração Incidental da Inconstitucionalidade do §1º-A do art. 15 da Lei n. 10.865/04, na redação que lhe foi dada pela Lei n. 13.137/2015, esta, por sua vez, fruto da conversão da MP 668/2015, para fins de reconhecer seu direito líquido e certo de se creditar nas operações futuras e, se reconheça o mesmo direito em relação as aquisições passadas, concretizadas desde 01/04/2012, quando passou a existir o descompasso entre o crédito e o débito de [NOME]-Importação e a [NOME] - Interna, permitindo que todo o diferencial seja lançado, na forma escritural e devidamente corrigido monetariamente, em sua conta gráfica do PIS e da [NOME]". Na sentença, denegou-se a segurança. No Tribunal Regional Federal da 4ª Região, a sentença foi mantida.
+II - Sobre a alegada violação do art. 98 do CTN, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo do dispositivo legal, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos Enunciados Sumulares n. 282 e 356 do STF.
+III - Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+IV - Ademais, a questão controvertida foi decidida sob fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial.
+V - Assim, concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, tem-se inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+VI - Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal. Nesse sentido: AgInt no REsp n. 1.571.518/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 28/8/2018, DJe 20/9/2018.
+VII - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O presente feito decorre de mandado de segurança objetivando "a DECLARAÇÃO INCIDENTAL DA INCONSTITUCIONALIDADE do §1º-A do art. 15 da Lei n. 10.865/04, na redação que lhe foi dada pela Lei n. 13.137/2015, esta, por sua vez, fruto da conversão da MP 668/2015, para fins de reconhecer seu direito líquido e certo de se creditar nas operações futuras e, se reconheça o mesmo direito em relação as aquisições passadas, concretizadas desde 01/04/2012, quando passou a existir o descompasso entre o crédito e o débito de [NOME]-Importação e a [NOME] - Interna, permitindo que todo o diferencial seja lançado, na forma escritural e devidamente corrigido monetariamente, em sua conta gráfica do PIS e da [NOME]".
+À causa foi arbitrado o valor de R$ 10.000,00 (dez mil reais).
+Na sentença, denegou-se a segurança. No Tribunal Regional Federal da 4ª Região, a sentença foi mantida, nos termos assim ementados:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. ADICIONAL DE [NOME] - IMPORTAÇÃO. LEI Nº 10.865/2004, ART. 8º, § 21. INCONSTITUCIONALIDADE. INOCORRÊNCIA. OFENSA AOS PRINCÍPIOS DA ISONOMIA E DA NÃO-CUMULATIVIDADE. INEXISTÊNCIA.
+1. A [NOME]-Importação encontra fundamento de validade no art. 195, IV, da Constituição, não lhe sendo aplicável o disposto em seu § 9º, o qual se refere às contribuições do inc. I do citado art. 195.
+2 . O adicional à [NOME]-Importação, previsto no art. 8º, § 21, da Lei nº 10.865, de 2004, não viola o princípio da isonomia, na medida em que todos os importadores estão submetidos às mesmas regras. Não há como pretender equiparação entre importadores e os comerciantes que adquirem produtos em território nacional.
+3. O adicional à [NOME]-Importação não afronta o disposto no art. 149 nem viola o §2 do art. 195 da Constituição Federal, porquanto esse dispositivo outorgou ao legislador ordinário a competência para definir os segmentos da atividade econômica aos quais será aplicada a não-cumulatividade.
+4. Não ocorre violação ao princípio da não-cumulatividade, pela falta de direito à dedução de crédito adicional no âmbito do regime não-cumulativo da [NOME].
+Interposto recurso especial com fundamento no art. 105, III, a, da Constituição Federal por violação das Leis n. 10.637/2002 e 10.833/2003, bem como do Acordo Internacional de Livre Comércio (GATT) e do art. 98 do CTN.
+Sustentou, em síntese, que a elevação da alíquota de PIS/CONFINS sobre as importações, sem o correspondente direito ao creditamento, é ilegal e inconstitucional requerendo, ao final, que lhe seja reconhecido o direito de se creditar do mesmo percentual exigido a título de [NOME]-Importação nas aquisições do exterior dos produtos listados no Anexo I da Lei 12.546/2011, independentemente da sua destinação no mercado interno.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+No STJ, foi proferida decisão com o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial."
+Interposto agravo interno contra essa decisão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do Enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a esse ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Sobre a alegada violação do art. 98 do CTN, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo do dispositivo legal, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos Enunciados Sumulares n. 282 e 356 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+Ademais, a questão controvertida foi decidida sob fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial.
+Assim, concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, tem-se inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+A propósito, confiram-se trechos do julgado recorrido, os quais corroboram o referido entendimento, ipsi litteris:
+Em outras palavras, por se tratar de mera majoração de alíquota, não se está diante da criação de nova fonte de custeio da seguridade além daquelas já estabelecidas pelo art. 195, da CF, após o advento da EC nº 42/2003, não havendo qualquer violação ao disposto no art. 195, § 4º, c/c o art. 154, inc. I, da Constituição Federal
+(..)
+Relativamente à alegação de inconstitucionalidade do adicional da [NOME] - importação por negativa ao princípio da não cumulatividade - art. 195, § 12, Constituição Federal, deve-se ressaltar que o princípio constitucional da não cumulatividade é inerente aos impostos que incidem nas diversas etapas do ciclo produtivo e visa evitar a ocorrência do chamado efeito "cascata", decorrente da incidência de imposto sobre imposto.
+(..)
+Depreende-se do dispositivo constitucional, que não serão automaticamente beneficiados pelo regime da não cumulatividade das contribuições ao PIS/[NOME] todos os setores da atividade econômica, mas apenas aqueles definidos pelo legislador ordinário.
+(..)
+Do mesmo modo, o art. 8º, § 21, Lei 10.865 não viola o princípio da isonomia, na medida em que todos os importadores estão submetidos às mesmas regras. Não há como pretender equiparação entre importadores e os comerciantes que adquirem produtos em território nacional. E o adicional da [NOME]-Importação equivale à contribuição adicional incidente sobre a receita bruta, que substituiu a contribuição social exigida no mercado interno, razão pela qual o valor pago a esse título não pode gerar crédito de [NOME].
+Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+No mesmo sentido, destaco os seguintes precedentes:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. [NOME]. IMPORTAÇÃO. MAJORAÇÃO DA ALÍQUOTA. LEI 10.865/2004. INTERPRETAÇÃO CONFORME O ART. 195, § 12 DA CF/1988. MATÉRIA DE ÍNDOLE EMINENTEMENTE CONSTITUCIONAL. AGRAVO INTERNO DA CONTRIBUINTE DESPROVIDO.
+1. A controvérsia reside na análise da majoração da alíquota da [NOME]-Importação, pelos arts. 8o., § 21, e 15, § 3o. da Lei 10.865/2004, interpretando-os em conformidade com o art. 195, § 12 da CF/1988, ou seja, matéria de índole eminentemente constitucional. Logo, inviável o debate em sede de Recurso Especial. Precedentes: AgInt no REsp. 1.622.902/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 13.3.2017; AgRg no REsp. 1.476.197/SC, Rel. Min. HUMBERTO MARTINS, DJe 16.10.2015.
+2. Agravo Interno da Contribuinte desprovido.
+(AgInt no REsp 1556537/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 7/11/2017, DJe 20/11/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. [NOME]-IMPORTAÇÃO. ACÓRDÃO COM APOIO EM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. RECURSO ESPECIAL. INVIABILIDADE.
+1. Por força do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça, por meio do recurso especial, a revisão de acórdão cuja conclusão deriva de fundamentação constitucional.
+2. Hipótese em que o recurso especial não pode ser conhecido, uma vez que o Tribunal Regional Federal da 4ª Região, ao decidir pela constitucionalidade do § 21 do art. 8º da Lei n. 10.865/2004 e, consequentemente, pela inexistência do direito a créditos de [NOME] com relação à alíquota majorada com 1%, apoiou-se em fundamentação eminentemente constitucional.
+3. Agravo interno não provido.
+(AgInt no REsp 1571518/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 28/8/2018, DJe 20/9/2018)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
