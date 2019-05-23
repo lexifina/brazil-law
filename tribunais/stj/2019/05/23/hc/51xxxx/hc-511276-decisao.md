@@ -1,0 +1,14 @@
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. CRIME DE HOMICÍDIO. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU MEDIDA DE URGÊNCIA EM MANDAMUS ORIGINÁRIO. SÚMULA 691/STF. APLICABILIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. TERATOLOGIA OU ILEGALIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] e [NOME] - presos desde 28/1/2019 pela suposta prática do delito de roubo majorado em concurso de agentes (art. 157, § 2º, II, do Código Penal) -, em que se aponta como autoridade coatora o Desembargador Relator da Nona Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que indeferiu o pedido liminar em writ ali impetrado (Habeas Corpus n. 2078316-32.201.8.26.0000/SP), mantendo a prisão preventiva decretada pelo Juízo de Direito da 2ª Vara Criminal da comarca de Campinas/SP (Autos n. 1500269-09.2019.8.26.0548/SP).
+Alega a impetrante, em síntese, que o constrangimento ilegal decorre de decisão que, mediante fundamentação inidônea - pois apoiada somente na gravidade abstrata do delito -, decretou a prisão preventiva dos pacientes, apesar dos predicados que eles ostentam e da ausência dos requisitos previstos no art. 312, caput, do Código de Processo Penal (fls. 3/13).
+Postula, ao final, a concessão liminar da ordem para que, superada a Súmula 691/STF, seja relaxada a prisão cautelar imposta.
+É o relatório.
+Ab initio, as Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no Enunciado n. 691 da Súmula do Supremo Tribunal, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Todavia, no presente caso, o Relator do prévio mandamus, ao avaliar o pedido então apresentado na origem, simplesmente constatou a ausência dos pressupostos autorizadores da medida liminar requerida. Além disso, entendeu que era satisfativa a pretensão, solicitando informações com urgência ao Juízo singular. E nisso não há nenhum constrangimento ilegal.
+Diante da inadmissível supressão de instância, convém aguardar o trâmite regular do habeas corpus na origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+Ante o exposto, inexistindo a excepcionalidade necessária ao abrandamento do enunciado da Súmula 691/STF, com fundamento nos arts. 38 da Lei n. 8.038/1990 e 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
