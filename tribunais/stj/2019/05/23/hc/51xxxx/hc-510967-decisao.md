@@ -1,0 +1,14 @@
+DECISÃO
+GILDACIO ANDERSON FERREIRA FERNANDES alega sofrer coação ilegal em decorrência de decisão de Desembargador do Tribunal de Justiça do Estado do Rio Grande do Norte (Autos n. 0802734-92.2019.8.20.0000).
+O paciente assinala que a Comarca de Currais Novos não dispõe de local adequado para o cumprimento de sua pena, questionada por meio de revisão criminal. Requer "a suspensão da decisão que determinou monitoramento eletrônico" (fl. 23), uma vez que não poderá cumprir as regras e condições impostas pelo Juiz, em razão de sua profissão, que exige constantes viagens.
+Decido.
+É inviável o conhecimento do writ, uma vez que se volta contra decisão singular de Desembargador do Tribunal de origem, contra a qual seria cabível agravo regimental. Ilustrativamente: "A provocação recursal da jurisdição de Corte Superior exige o prévio esgotamento da instância a quo" (AgRg no HC 321.098/RS, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 28/5/2015).
+Cito, ainda, precedente do Supremo Tribunal Federal, o "habeas corpus não pode ser utilizado em substituição ao agravo regimental cabível na origem. Inadequação da via eleita. Precedentes" (HC n. 132.351, Rel. p/ acórdão, Min. Roberto Barroso, 1ª T., Dje 18/5/2018, destaquei).
+Nem sequer de ofício é possível conceder a ordem.
+O apenado cumpre penas que totalizam 5 anos de reclusão, no regime semiaberto. Em 2/5/2019, por motivos não esclarecidos na decisão de fl. 41, o Juiz determinou sua monitoração eletrônica, a sinalizar o regime semiaberto em prisão domiciliar. Não houve menção à falta de unidade prisional adequada ou ao cumprimento prévio das disposições da Súmula Vinculante n. 56.
+Apesar da concessão do benefício, o paciente pretende escolher como e quando ira executar as sentenças transitadas em julgado, o que não possui nenhum respaldo legal. Incabível noticiar o ajuizamento de revisão criminal, porquanto esta não tem o condão de suspender a eficácia das condenações definitivas.
+Em verdade, o condenado deveria estar recolhido em penitenciária industrial ou agrícola (ou local adaptado para tal finalidade). Somente depois de cumprir 1/6 de sua reprimenda poderia pleitear o trabalho externo, a depender do mérito carcerário. A benevolência do Juiz da VEC (regime domiciliar) não pode ser confundida com impunidade ou com permissão de escolha da execução penal, ao seu capricho e conveniência.
+Assim, revela-se manifestamente incabível a impetração deste habeas corpus e a pretensão de suspender o monitoramento eletrônico por motivo de viagens.
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+Por não estar o paciente assistido por advogado, intime-se a Defensoria Pública do Estado respectivo, para eventuais providências que entender cabíveis.
