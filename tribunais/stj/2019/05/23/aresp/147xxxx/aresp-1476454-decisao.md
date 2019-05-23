@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea a, da CF, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+CONCURSO PÚBLICO - SOLDADO DA POLÍCIA MILITAR DE 2 CLASSE - AVALIAÇÃO PSICOLÓGICA - POSSIBILIDADE - PREVISÃO CONSTANTE DE LEI - CRITÉRIOS E PARÂMETROS CONSTANTES DO EDITAL - CANDIDATO REPROVADO NESTA FASE DO CERTAME - LICITUDE DA EXIGÊNCIA DA AVALIAÇÃO RECONHECIDA - POSSIBILIDADE DE RECURSO ASSEGURADA E DE CONHECIMENTO DAS RAZÕES DA INAPTIDÃO POR MEIO DE ENTREVISTA DEVOLUTIVA - REGULARIDADE DA AVALIAÇÃO RECONHECIDA - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+Alega violação ao art. 927, II, do CPC/2015, no que concerne à aplicação do enunciado de Súmula Vinculante n. 44, trazendo os seguintes argumentos:
+No entanto, o Tribunal a quo, ao negar provimento ao apelo, DEIXOU DE OBSERVAR o enunciado da já referida SÚMULA VINCULANTE 44/STF (aprovada em 08/04/2015), a qual prescreve que somente a Lei pode sujeitar o candidato a cargo público ao exame psicológico, o que significa que o Egrégio Tribunal de Justiça Bandeirante NEGOU VIGÊNCIA ao quanto estatuído no ARTIGO 927, inciso II do CPC (fls.226).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, relativo à legalidade do edital em razão da existência da Lei n. 10.123/68, que prevê a exigência de exame psicotécnico, tal qual se extrai do seguinte trecho do acórdão recorrido:
+Em matéria de concurso público, compete ao Poder Judiciário, em princípio, a verificação de questões pertinentes à legalidade do edital e ao cumprimento das suas normas pela comissão responsável, não podendo, em regra, sob pena de substituir a comissão organizadora, reavaliar os critérios utilizados para a seleção dos candidatos.
+No caso concreto, a exigência de avaliação psicológica está prevista na Lei Complementar Estadual LCE nº 697/92 e Decreto Estadual nº 41.113/96 (em especial art. 3º, § 1º, 2º) como uma das fases do concurso de ingresso, com caráter eliminatório (art. 3º, § 3º).
+Além disso, o artigo 36, da Lei nº 10.123/1968 (Lei Orgânica da Polícia) ainda dispõe que:
+"Artigo 36 - São requisitos gerais para matrícula nos cursos de formação ou nomeação para as carreiras policiais, além das estabelecidas especificamente para cada uma:
+(..) VI - possuir temperamento adequado ao exercício da função policial, apurado em exame psicotécnico" (fl. 189).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EREsp n. 1.698.730/SP, relator Ministro Raul Araújo, Segunda Seção, DJe de 18/12/2018; e AgRg nos EAREsp n. 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
