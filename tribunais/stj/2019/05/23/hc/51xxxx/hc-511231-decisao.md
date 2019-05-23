@@ -1,0 +1,39 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA O DELITO DO ART. 28 DA LEI N. 11.343/2006. REEXAME DE FATOS E PROVAS. INADEQUAÇÃO DA VIA ELEITA. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. ACUSADO QUE SE DEDICAVA ÀS ATIVIDADES CRIMINOSAS. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de Mato Grosso do Sul.
+Narram os autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime semiaberto, e 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa recorreu, tendo o Tribunal de Justiça negado provimento ao apelo defensivo (fls. 409/415 - Apelação criminal n. 0001109-74.2017.8.12.0024).
+Daí a presente impetração, em que se requer a desclassificação da imputação inicial para o art. 28 da Lei n. 11.343/2006, mormente porque o que temos é basicamente a apreensão de uma quantidade ínfima de drogas, aliada aos depoimentos de policiais que não tinham conhecimento sobre a existência de tráfico de drogas na residência (fl. 10). Aduz-se, assim, que não há provas suficientes para a comprovação de que o paciente realmente estava praticando a traficância (fl. 10).
+Além disso, pugna-se pelo reconhecimento do tráfico privilegiado, ao argumento, em síntese, de que não há provas capazes de demonstrar que o paciente se dedicava efetivamente a prática de atividades criminosas, pelo contrário, é primário, e analisando isoladamente sua conduta, denota-se que não é de alta periculosidade (fl. 13).
+Ao final, requer-se a concessão da ordem para desclassificar a conduta do paciente para a prevista no art. 28 da Lei n. 11.343/2006, ou, subsidiariamente, seja reconhecida a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+É o relatório.
+Busca a impetrante a desclassificação para o tipo do art. 28 da Lei n. 11.343/2006, bem como a incidência da redutora do § 4º do art. 33 da Lei n. 11.343/2006.
+Tem-se que a análise do pedido de desclassificação para o tipo do art. 28 da Lei n. 11.343/2006, segundo a jurisprudência desta Corte, demandaria, necessariamente, exame do acervo fático-probatório, o que não se coaduna com a via estreita do habeas corpus.
+Quanto ao tráfico privilegiado, o Tribunal de Justiça pontuou o seguinte (fls. 413/414 - grifo nosso):
+As circunstâncias em que a substância foi apreendida indicam seguramente a destinação mercantil, pois ao ser abordado o apelante portava, além da droga apreendida, materiais próprios da venda de drogas. Tal fato, aliado às demais provas acima analisadas, impede a pretendida desclassificação.
+Da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/06.
+No que se refere à pena aplicada, o apelante pretende o reconhecimento da causa de diminuição do tráfico eventual.
+Para a incidência da causa especial de redução de pena prevista no § 4º do artigo 33 da Lei nº 11.343/06 é imprescindível a demonstração da presença cumulada dos requisitos da primariedade, bons antecedentes, não dedicação a atividades criminosas e de não integrar organização criminosa.
+Tal benefício foi instituído por questões de política criminal, a fim de propiciar mais rápida ressocialização a quem ainda não está envolvido em maior profundidade com o mundo do crime, o pequeno traficante, o que não é o caso verificado nestes autos.
+A sentença afastou a aplicação da benesse ao argumento de que "a causa de diminuição em comento tem por escopo beneficiar os traficantes de "primeira viagem", que seduzidos pela oferta do dinheiro fácil, acabam ingressando na vida criminosa transportando vez ou outra pequenas quantidades de droga capazes de lhes assegurar a própria subsistência, o que não se trata do caso em apreço, pois fazia da "traficância" sua "profissão"." (F. 293).
+De fato, é impossível, no caso destes autos, o reconhecimento do tráfico privilegiado, previsto pelo § 4º do artigo 33 da Lei nº 11.343/06, ante a ausência de um de seus requisitos. Como se sabe, para possibilitar o reconhecimento do mesmo, exige-se prova da primariedade, bons antecedentes, não dedicação a atividades criminosas e de não integrar organização criminosa, de forma cumulada.
+Neste caso ficou provado que a substância entorpecente era comercializada em residência conhecida como "boca de fumo", local onde a droga é distribuída a usuários em pequenas quantidades, de forma constante e repetitiva. Essa circunstância caracteriza o que a lei denomina de "dedicação a atividade criminosa", pois é um meio de vida daqueles que praticam tal espécie de comércio, e não uma eventual participação em um episódio esporádico.
+Nesse sentido esta egrégia Corte já teve oportunidade de decidir:
+ ..
+A minorante prevista pelo § 4º do artigo 33 da Lei nº 11.343/06 foi instituída por questões de política criminal, a fim de propiciar mais rápida ressocialização a quem ainda não está envolvido em maior profundidade com o mundo do crime, o que não é o caso verificado nestes autos diante da habitualidade do tráfico.
+Sendo assim, não faz jus ao beneficio quem pratica o comércio de drogas nas chamadas "bocas de fumo", local em que a droga é distribuída rotineiramente, normalmente em pequenas quantidades, a qualquer hora do dia ou da noite, atividade que se desenvolve durante muito tempo. Não fosse a extensão temporal, a habitualidade, a rotina e a constância, o local jamais atingiria o status, a fama de "boca de fumo". Tal atividade contrapõe-se ao comércio esporádico, eventual, daí ser prova inconteste de que aquele que ali milita faz de tal comércio um meio de vida ou, nos termos legais, dedica-se a atividade criminosa.
+Referida circunstância, aliada aos demais elementos acima analisados, impedem o reconhecimento do tráfico ocasional, de forma que fica rejeitada a pretensão.
+Observo que as instâncias ordinárias pautaram-se em dados concretos para afirmar que o paciente se dedicava a atividades criminosas, razão pela qual, inadmissível a concessão da causa de diminuição da pena.
+Nesse cenário, este Superior Tribunal firmou entendimento segundo o qual, em observância ao disposto no art. 33, § 4º, da Lei n. 11.343/2006, havendo demonstração de que o paciente se dedica à atividade criminosa, mostra-se inaplicável a minorante em questão. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. ACUSADO QUE SE DEDICA À ATIVIDADE CRIMINOSA. AFERIÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. REGIME PRISIONAL FECHADO. FUNDAMENTAÇÃO CONCRETA.
+1. De acordo com o art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+2. A Corte local deixou de aplicar a minorante respeitando os critérios legais estabelecidos pelo art. 33, § 4º, da Lei n. 11.343/2006 e, ainda, com observância aos pormenores da situação concreta, que demonstraram que o acusado dedica-se à atividade criminosa.
+3. Desconstituir os fundamentos adotados pelas instâncias ordinárias demanda ampla incursão no acervo fático-probatório dos autos, tarefa para a qual não se presta o habeas corpus.
+ ..
+6. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 481.931/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/4/2019)
+Ademais, alcançar conclusão inversa, na forma pretendida, demandaria necessariamente ampla incursão no exame de fatos e provas, providência inviável na via estreita do habeas corpus.
+Ante o exposto, indefiro liminarmente o writ (art. 210 do RISTJ).
+Publique-se.
