@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] - condenado à pena de 8 anos, 6 meses e 10 dias de reclusão, em regime inicial fechado, pelo crime tipificado no artigo 33, caput, da Lei n. 11.343/2006 c/c artigo 29 do Código Penal - apontando como autoridade coatora o Tribunal de Justiça do Estado do Paraná.
+Na presente oportunidade, a defesa alega excesso de prazo no processamento e julgamento do recurso de apelação, sintetizando seus argumentos (e-STJ fl. 2):
+(..) Insatisfeito com a r. sentença, fora interposto, tempestivamente, recurso de apelação em 26 de janeiro de 2015. O recurso fora recebido em 11 de fevereiro de 2015. Em 26 de junho de 2015 os autos foram encaminhados ao TJPR para processamento do recurso, no entanto, em juízo de deliberação e considerando que a defesa do PACIENTE optou em apresentar as razões recursais na forma do artigo 600, § 4º do CPP, em 11 de junho de 2018 fora determinado que baixasse os autos para apresentação das razões recursais. A defesa apresentou as razões em 03 de julho de 2018 as razões recursais e em 13 de julho de 2018 as contrarrazões recursais. Ocorre que os autos encontram-se parados desde então, ou seja, desde a data da apresentação das contrarrazões não houve nenhuma movimentação, sendo que a autoridade coatora deveria ter remetidos os autos para o juízo ad quem para o processamento. Outrossim, somente a titulo de esclarecimento o presente feito encontra-se em andamento há quase 4 anos e 7 meses sem uma decisão definitiva.
+Diante disso, pede, em liminar e no mérito, a revogação da prisão preventiva ou a substituição por qualquer das cautelares previstas no art. 319 do CPP.
+Indeferida a liminar (e-STJ fls. 87/89) e prestadas as informações (e-STJ fls. 94/186), o Ministério Público Federal manifestou-se pela prejudicialidade do mandamus (e-STJ fl. 188).
+É o relatório, decido.
+Consoante informações prestadas pela apontada autoridade coatora, a 3ª Câmara Criminal do Tribunal de Justiça, em 3/5/2019, julgou as apelações interpostas.
+Nesse contexto, fica sem objeto o pedido contido na inicial que questionava justamente a demora no julgamento da apelação.
+Ante o exposto, com base no art. 34, incisos XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente mandamus.
+Intimem-se.
