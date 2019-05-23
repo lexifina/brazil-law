@@ -1,0 +1,13 @@
+DECISÃO
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROVIMENTO DO RECURSO ESPECIAL DA CONTRIBUINTE PARA DISPENSAR DE PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS PELA LEI 13.043/2014. AGRAVO REGIMENTAL DA FAZENDA NACIONAL PREJUDICADO.
+1. Trata-se de Agravo Regimental interposto pela FAZENDA NACIONAL em adversidade à decisão que deu parcial provimento ao Recurso Especial de iniciativa de WHITE MARTINS GASES INDUSSTRIAIS LTDA., nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. REFIS. DESISTÊNCIA DA AÇÃO. PROCESSUAL CIVIL. ART. 535, II, DO CPC: ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ART. 6o., § 1o. DA LEI 11.941/09: DISPENSADO DOS HONORÁRIOS APENAS O SUJEITO PASSIVO QUE DESISTIR DE AÇÃO JUDICIAL VOLTADA A RESTABELECER SUA OPÇÃO OU A SUA REINCLUSÃO EM OUTROS PARCELAMENTOS. ART. 20, 4o., DO CPC: HONORÁRIOS DE SUCUMBÊNCIA FIXADOS EM DESFAVOR DO CONTRIBUINTE EM PATAMAR EXCESSIVO, RAZÃO PELA QUAL É POSSÍVEL SUA REVISÃO. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL (fls. 714).
+2. A parte agravante sustenta que a redução da verba honorária fixada na origem encontra óbice na Súmula 7/STJ, visto que não há como comprovar, de plano, que o montante controvertido apresenta-se manifestamente exorbitante.
+3. Pugna, desse modo, pela reconsideração da decisão agravada ou para que o feito seja levado à Turma competente para julgamento.
+4. Às fls. 740/746, a contribuinte apresentou impugnação, defendendo o afastamento da condenação em honorários advocatícios, visto que a Lei 13.496/2017 dispôs sobre a dispensa integral da verba honorária em todas as ações judiciais incluídas no parcelamento instituído pela Lei 11.941/2009.
+5. É o relatório.
+6. Ao apreciar o Agravo Regimental de iniciativa de WHITE MARTINS GASES INDUSTRIAIS LTDA, dei provimento ao recurso, sob o fundamento de que, a teor do art. 38 da Lei 13.043/2014, não serão devidos honorários advocatícios, bem como qualquer sucumbência, em todas as ações judiciais que, direta ou indiretamente, vierem a ser extintas em decorrência de adesão aos parcelamentos previstos na Lei 11.941/2009, inclusive nas reaberturas de prazo a que tal norma alude. Naquele decisum, considerou-se que essa norma alcança os feitos em curso, nos termos do art. 462 do CPC/1973 (art. 493 do Código FUX).
+7. Logo, diante da reconsideração da decisão de fls. 714/718, para afastar a condenação em honorários de sucumbência, resta prejudicado, por perda do objeto, o presente Agravo Regimental em que se discute apenas a impossibilidade de redução da verba honorária em virtude do óbice da Súmula 7/STJ.
+8. Pelas considerações expostas, julga-se prejudicado o Agravo Regimental interposto pela FAZENDA NACIONAL.
+9. Publique-se.
+10. Intimações necessárias.
