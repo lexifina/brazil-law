@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado por IZOLINA MOREIRA MACEDO e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+APELAÇÃO - AÇÃO ORDINÁRIA - APOSENTADOS E PENSIONISTAS DA ANTIGA FEPASA - COMPLEMENTAÇÃO DE APOSENTADORIA E PENSÃO - PRETENSÃO OBJETIVANDO A IMPLEMENTAÇÃO DA DIFERENÇA EXISTENTE NO SALÁRIO DOS EMPREGADOS ATIVOS DA CPTM - PRESCRIÇÃO DE FUNDO DO DIREITO AFASTADA - SÚMULA Nº 85 DO STJ - CONTRATO COLETIVO DE TRABALHO - LEIS NºS 1386/51 1974/52 E 9343/96 - ADMISSIBILIDADE SENTENÇA REFORMADA - RECURSO PROVIDO.
+Alega violação ao art. 85, §§ 3º e 4º, do CPC, no que concerne à aplicação dos critérios legais para fixação de honorários nas demandas contra a Fazenda Pública, trazendo os seguintes argumentos:
+Com a devida venha, o v. acórdão prolatado com relação aos honorários sucumbenciais, afrontou literalmente o § 3º e § 4º do art. 85, do NCPC, considerando o grau de zelo profissional, a natureza e a importância da causa, o trabalho e o tempo despendido (fl. 293).
+O valor fixado para os honorários advocatícios deferidos nos autos deve ser considerado aviltante e vergonhoso. Ora, honorários não são GORJETA, trata-se de verba de caráter alimentar, tendo em vista o trabalho despendido pelo advogado! Inadmissível suportar e aceitar honorários deferidos no importe de R$ 1.000,00, cujo valor da causa é de R 659.160,00, sendo certo que a execução, na pior das hipóteses, ultrapassará facilmente a casa de R 500.000,00 (QUINHENTOS MIL REAIS)! (fl. 294).
+De fato, o valor arbitrado não observa a inteligência do artigo 85 do NCPC em qualquer de seus parágrafos, mormente ao despeito do trabalho de outrem e quando o estado de direito é voltado à dignidade da pessoa humana. bem como, voltado a valorização do trabalho pela ordem econômica (fl. 295).
+É o relatório. Decido.
+Na espécie, incide o óbice das Súmulas 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
