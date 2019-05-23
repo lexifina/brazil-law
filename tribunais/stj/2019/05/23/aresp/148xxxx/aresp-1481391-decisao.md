@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo interposto por VENÍCIO EDUARDO GONÇALVES, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial interposto pelo recorrente, com base nos seguintes fundamentos: i) não demonstração da violação ao art. 886, VI, do CPC; ii) incidência da Súmula 7/STJ, quanto à alínea "a" do permissivo constitucional; e iii) dissídio jurisprudencial não demonstrado na forma exigida pelo art. 1029, §1º, do CPC.
+No agravo em recurso especial interposto pelo agravante, observa-se que ele defende que o clichê utilizado pelo juízo a quo importa na violação do disposto no artigo 489, §1º, do CPC; que a análise do mérito pela decisão agravada, constitui-se em usurpação de competência desta Corte; que não se pretende o reexame de fatos e provas, mas a interpretação de dispositivo de lei; e que o dissídio jurisprudencial foi devidamente demonstrado.
+No entanto, da leitura das razões recursais, verifica-se que o recorrente não tece quaisquer considerações acerca do fundamento da decisão estadual relativo à ausência de demonstração da violação do art. 886, VI, do CPC pelo Tribunal de origem.
+No mais, tem-se que o recorrente para rebater o empeço atinente à aplicação da Sumula 7 desta Corte, limita-se a aduzir que não se pretende o reexame de fatos e provas, mas a interpretação de dispositivos de lei federal, argumento que não é capaz de afastar a aplicação do referido óbice.
+Desse modo, não havendo a impugnação consistente de todos os fundamentos da decisão recorrida, aplicável se torna a Súmula 182 desta Corte.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ .
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% (doze) por cento (e-STJ fl. 139) para 15% (quinze) por cento.
+Previno a parte recorrente que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
