@@ -1,0 +1,26 @@
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO QUE CONTÉM FUNDAMENTO CONSTITUCIONAL SUFICIENTE À MANUTENÇÃO DO QUE DECIDIDO. NÃO IMPUGNAÇÃO POR MEIO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA 211/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 361/362):
+DIREITO PROCESSUAL CIVIL. ADMINISTRATIVO. POSSIBILIDADE DE INSCRIÇÃO DE TÉCNICO DE FARMÁCIA NO CONSELHO REGIONAL DE FARMÁCIA COMO RESPONSÁVEL TÉCNICO POR DROGARIA. IMPOSSIBILIDADE. LEI 13.021/2014. OBRIGATORIEDADE DE ASSISTÊNCIA TÉCNICA DE FARMACÊUTICO. AUTORIZAÇÃO, NO CASO ESPECÍFICO, POR DECISÕES TRANSITADAS EM JULGADO. APELAÇÃO E REMESSA OFICIAL DESPROVIDAS.
+1. Pretendem os impetrantes, técnicos em farmácia, garantir sua responsabilidade técnica por drogarias, afastando o cancelamento de seus registros perante o conselho impetrado ou a negativa de renovação ou concessão de licenças.
+2. A partir da vigência da Lei 13.021/2014, farmácias e drogarias passaram a ter o dever legal de manutenção de farmacêutico em seus quadros, em tempo integral.
+3. No entanto, relativamente à hipótese vertente, tanto as inscrições dos apelados junto ao Conselho Regional de Farmácia/CRF-SP, como a possibilidade de serem responsáveis técnicos pelas drogarias de sua propriedade, foram autorizadas por força de decisões judiciais transitadas em julgado proferidas por este Tribunal Regional Federal nos Mandados de Segurança n." 2000.61.00.036269-5 e 2000.61.00.036270-1, e pelo Superior Tribunal de Justiça, no REsp 929.847 e REsp n" 1.123.091/SP.
+4.Em que pese o disposto no artigo 6º, I, da Lei 13.021/2014 exigir a presença de farmacêutico durante todo o horário de funcionamento, impõe-se interpretação sistemática resguardando o direito garantido à apelada por decisões transitadas em julgado, em obediência ao artigo 5", XXXVI, da Constituição Federal, e art. 6º da Lei de Introdução às Normas do Direito Brasileiro, sob pena de violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada.
+5. Apelação e remessa oficial desprovidas.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação dos artigos 505, I, do CPC/2015 e 2º, 3º, parágrafo único, I e II, 5º e 6º, I, II, III e IV, da Lei n. 13.021/2014 e dissídio jurisprudencial, sob os seguintes argumentos: (a) relativização da coisa julgada em decorrência de lei superveniente. Assim, após a edição da Lei n. 13.021/2014, o técnico em farmácia não pode assumir a responsabilidade técnica de Drogaria.
+Sem contrarrazões.
+Parecer do MPF às fls. 483-488.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+O acórdão recorrido ao solucionar a controvérsia referente à possibilidade do técnico de farmácia inscrever-se no Conselho de Farmácia respectivo, assim como está autorizado a assumir responsabilidade técnica por drogaria, independentemente da excepcionalidade da hipótese, em virtude da inexistência de vedação legal para tanto, adotou fundamentação constitucional que se mostra suficiente à solução do litígio.
+No caso, decidiu-se pelo não acolhimento da pretensão com fundamento no art. 5º, XXXVI, da CF/1988. Ocorre que o recorrente não interpôs recurso extraordinário ao tempo e modo, circunstância que conduz ao não conhecimento recurso especial. Incide ao caso a Súmula 126/STJ.
+Evidencia-se que o artigo 505, I, do CPC/2015 (e a tese a ele vinculada) não foi apreciado pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+No que diz respeito à alegação de ofensa aos artigos 2º, 3º, parágrafo único, I e II, 5º e 6º, I, II, III e IV, da Lei n. 13.021/2014 e dissídio jurisprudencial, o acórdão recorrido consignou o seguinte (fl. 359):
+"Ademais, tendo havido julgamento definitivo de mérito da lide, não é mais possível examinar novamente a questão, nos termos do art. 487 c/c art. 502, da Lei 13.105/2015, em atendimento ao escopo social do processo".
+Ocorre que o recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+O alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, sobretudo a similitude fática, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
