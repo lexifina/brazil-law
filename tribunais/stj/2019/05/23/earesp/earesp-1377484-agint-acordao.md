@@ -1,0 +1,58 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUSTIÇA GRATUITA. ADVOGADO APOSENTADO. NECESSIDADE. NÃO COMPROVAÇÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A verificação da procedência dos argumentos expendidos no recurso especial exigiria, por parte desta Corte, o reexame de matéria fática, procedimento vedado pela Súmula nº 7/STJ.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator):
+Trata-se de agravo interno interposto por MURILLO CÉSAR BRANDÃO GUELPELI contra a decisão (fls. 280/281 e-STJ) que conheceu do agravo para não conhecer do recurso especial em virtude da incidência da Súmula nº 7/STJ.
+Nas razões do presente recurso, o agravante sustenta que faz jus ao benefício da justiça gratuita, tendo em vista "a realidade contida nas provas exigidas" (fl. 347 e-STJ).
+ Afirma que comprovada
+"(..) a hipossuficiência financeira do agravante no processo, supra, da mesma maneira que ficou provado recentemente ao mesmo relator [NOME], no processo Agravo de Instrumento Cível 0029277-032016.8.19.0000. Em que o nobre magistrado deferiu os benefícios da GJ ao agravante com fulcro no artigo 17,X, da Lei Estadual 3.350/99" (fl. 348 e-STJ).
+Ao final, requer a reforma da decisão atacada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUSTIÇA GRATUITA. ADVOGADO APOSENTADO. NECESSIDADE. NÃO COMPROVAÇÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A verificação da procedência dos argumentos expendidos no recurso especial exigiria, por parte desta Corte, o reexame de matéria fática, procedimento vedado pela Súmula nº 7/STJ.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No tocante ao pedido de justiça gratuita, as conclusões da Corte local decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, conforme se observa do seguinte trecho:
+"(..)
+A decisão monocrática de fls. 10/14 manteve o indeferimento do pedido de gratuidade de justiça, que já havia sido negado mais de uma vez no processo principal, mantendo, ainda, o parcelamento das custas. Assim, ao contrário do que afirma o recorrente, inexiste qualquer violação ao princípio do devido processo legal e da ampla defesa.
+Na mencionada decisão, bem como nas razões de decidir dos embargos de declaração de fls. 24/25, foram apontados de forma clara e correta os motivos pelos quais se confirma que o agravante não faz jus ao benefício perseguido, o que reflete justamente o entendimento do Colegiado no presente voto.
+Com efeito, os documentos juntados no recurso confirmam que o agravante possui patrimônio que não condiz com a alegação de hipossuficiente. O agravante, advogado atuante, é proprietário de 05 (cinco) imóveis, sendo 04 (quatro) residenciais e 01(um) comercial, além disso, afirma que tem rendimento de R$ 1.171,16, porém, só o financiamento de seu veículo é de R$ 709,61 por mês. Portanto, não há verossimilhança na alegada ausência de possibilidade de pagar as custas do processo, o que, aliás, o agravante já vem fazendo no feito principal" (fl. 59 e-STJ).
+Dessa forma, rever o entendimento do acórdão impugnado implicaria o reexame do contexto fático-probatório, procedimento inadmissível em recurso especial, nos termos da Súmula nº 7/STJ.
+A propósito:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA, FORMULADO PELA UNIÃO, CONTRA PENSIONISTA DE SERVIDOR PÚBLICO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. REQUERIMENTO DE JUSTIÇA GRATUITA INDEFERIDO, NA ORIGEM, COM BASE NOS FATOS E PROVAS DOS AUTOS. REEXAME, NESTA CORTE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 03/08/2017, que, por sua vez, julgou recurso interposto contra decisão que inadmitira Recurso Especial, manejado de acórdão publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Agravo de Instrumento, interposto por pensionista de servidor público federal, contra decisão que - nos autos de Cumprimento de Sentença, formulado contra a UNIÃO - indeferira a concessão dos benefícios da assistência judiciária à ora agravante, já na vigência do CPC/2015, ao entendimento de que "a presunção de veracidade da declaração de hipossuficiência não é absoluta, devendo ser sopesada com as demais provas existentes nos autos, podendo o juiz exigir a comprovação da situação de miserabilidade para analisar o pleito de assistência judiciária gratuita".
+III. Não há falar, na hipótese, em violação ao art. 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. Ainda sob a égide do CPC/73, "este Superior Tribunal posiciona-se no sentido de que a declaração de pobreza, com o intuito de obtenção dos benefícios da justiça gratuita, goza de presunção relativa, admitindo-se prova em contrário (AgRg no AREsp 259.304/PR, Relator Ministro Herman Benjamin, Segunda Turma, DJe 31/05/2013)" (STJ, AgInt no AREsp 870.424/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 08/06/2016).
+V. Na forma da jurisprudência do STJ, "o magistrado pode indeferir ou revogar o benefício, havendo fundadas razões acerca da condição econômico-financeira da parte ou, ainda, determinar que esta comprove tal condição, haja vista a declaração de hipossuficiência de rendas deter presunção relativa de veracidade, admitindo prova em sentido contrário" (STJ, AgRg no AREsp 363.687/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 01/07/2015).
+VI. Outrossim, "embora seja certo que o Novo CPC estabelece, em seu art. 99, que o pedido de reconhecimento do direito personalíssimo à gratuidade de justiça pode ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em recurso - estabelecendo uma presunção de veracidade e de boa-fé por parte do requerente -, acolhe, no parágrafo 2º, a jurisprudência consolidada do STJ, no sentido de que o juiz pode indeferir a benesse, de ofício, contanto que, antes de indeferir o pedido, propicie à parte requerente a comprovação do preenchimento dos pressupostos legais. Ademais, o CPC/2015 não revogou o art. 5º, caput, da Lei 1.060/1950, que prevê que o juiz deve indeferir, de ofício, o pedido de gratuidade da justiça, caso tenha fundadas razões" (STJ, REsp 1.584.130/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 17/08/2016).
+VII. Tendo o Tribunal de origem, soberano na apreciação de fatos e provas, mantido a decisão de 1º Grau, que indeferira o pedido de assistência judiciária, haja vista que as provas e circunstâncias da causa são incompatíveis com a alegada necessidade do benefício, revela-se inviável o reexame de tal conclusão, ante o óbice contido na Súmula 7/STJ. A propósito: STJ, AgInt no AREsp 871.303/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 21/06/2016.
+VIII. Agravo interno improvido".
+(AgInt no AREsp 1.104.835/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 27/02/2018, DJe 09/03/2018)
+"RESPONSABILIDADE CIVIL. DANOS MORAIS. PROCESSUAL CIVIL. REVOGAÇÃO DA GRATUIDADE DA JUSTIÇA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ.
+I - A Corte de origem, ao analisar o conjunto fático-probatório dos autos, chegou à seguinte conclusão: "No caso dos autos verifica-se que o autor é servidor público e não trouxe qualquer indicativo de que não possui, no momento, condições de arcar com os valores que são executados. Não há sequer cópia do holerite e outros documentos que permitam verificar o presente estado de miserabilidade. Aliás, não trouxe documento algum nesse sentido. Assim, quer seja pela demonstração da superação do estado de miserabilidade do autor, quer pela ausência de prova do estado de miserabilidade, a decisão merece ser mantida" (fl. 166).
+II - O STJ possui jurisprudência firmada no sentido de que rever o entendimento do tribunal de origem, fundado no desatendimento aos requisitos necessários à concessão de assistência judiciária gratuita, demandaria o revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+III - Agravo interno improvido".
+(AgInt no AREsp 1.176.640/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/05/2018, DJe 15/05/2018)
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. SERVIDORES BENEFICIÁRIOS DA JUSTIÇA GRATUITA. SUSPENSÃO DO PROCESSO, ENQUANTO DURAR O ESTADO DE MISERABILIDADE. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. REVISÃO DO ESTADO DE MISERABILIDADE. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 15/08/2017, que, por sua vez, julgou recurso interposto contra decisão que inadmitira o Recurso Especial, publicada na vigência do CPC/2015.
+II. Não há falar, na hipótese, em violação ao art. 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que o voto condutor do acórdão recorrido apreciou fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+III. Rever a conclusão do Tribunal de origem, em relação à alegada alteração do estado de miserabilidade dos autores - pensionistas de ex-servidores públicos -, é pretensão inviável, na via recursal eleita, ante o óbice da Súmula 7 do STJ. Nesse sentido: STJ, AgRg no AREsp 672.816/PA, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 01/06/2015; AgRg no REsp 1.413.182/AC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 11/05/2015.
+(..)
+V. Agravo interno improvido".
+(AgInt no AREsp 1.126.577/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/04/2018, DJe 10/04/2018)
+Ademais, a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que "a declaração de pobreza que tenha por fim o benefício da assistência judiciária gratuita tem presunção relativa de veracidade, podendo ser afastada fundamentadamente" (AgRg no REsp 1.271.959/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/9/2015, DJe 23/9/2015).
+Assim, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
