@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por FAZENDA DO ESTADO DE SÃO PAULO, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, III, "a", da CF de 1988, visa reformar acórdão proferido por TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO INTERNO DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO INTERPOSTO EM RAZÃO DA ILEGITIMIDADE RECURSAL AGRAVO INTERNO INTERPOSTO PELA PESSOA JURÍDICA INTERESSADA PRETENSÃO DE REDISCUTIR A MATÉRIA E DESSE MODO NÃO SOFRER OS EFEITOS DA PRECLUSÃO DECORRENTE DA NÃO INTERPOSIÇÃO DE RECURSO NO MOMENTO OPORTUNO INADMISSIBILIDADE DECISÃO MANTIDA RECURSO NÃO PROVIDO.
+Quanto à primeira controvérsia, alega violação arts. 188, 277, 282, §§ 1º e 2º, e 317 do CPC, no que concerne princípio da instrumentalidade das formas (erro material), trazendo os seguintes argumentos:
+Há que se ressaltar, no entanto, que, se o IAM SPE (Instituto de Assistência Médica ao Servidor Público Estadual) figurou como parte, isso decorreu de mero erro material, de forma que, ao não conhecer referido recurso, sob este único fundamento, se está procedendo em descompasso com o Princípio da I nstru mental idade das formas. (fls.47).
+Quanto à segunda controvérsia, no que concerne à prescrição, a parte não traz argumento pertinente à tese.
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice das Súmulas 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp n. 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/6/2018).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
