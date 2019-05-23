@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Agência Nacional de Telecomunicações (ANATEL) com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 190):
+ADMINISTRATIVO. EXECUÇÃO FISCAL. DÍVIDA ATIVA. DISTRATO SOCIAL. PESSOA JURÍDICA EXTINTA À ÉPOCA DA PROPOSITURA DA AÇÃO.
+1. Extingue-se sem resolução de mérito a execução fiscal ajuizada em face de pessoa jurídica extinta, ante a ausência de pressuposto processual subjetivo indispensável à existência da relação processual.
+2. Hipótese em que não há indícios suficientes de dissolução irregular da empresa executada.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1022 do CPC/2015.
+A parte recorrente aponta violação ao art. 1022 do CPC/2015. Sustenta que o Tribunal de origem não se manifestou sobre questões relevantes para o deslinde da controvérsia, concernentes à circunstância de que a parte executada "revestia a condição de empresária individual" (fl. 213) e que, "ainda que se presuma a inexistência de bens em relação à pessoa jurídica, remanesce a possibilidade da busca de patrimônio pertencente à pessoa natural, ante a ausência de separação patrimonial entre ambas." (fl. 213).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A insurgência não prospera.
+A parte recorrente, nas razões dos embargos de declaração, apontou que (fl. 195):
+Na hipótese em comento, em que pese a extinção da pessoa jurídica - meses antes do ajuizamento da execução fiscal - observa-se, pela leitura do contrato social, que a executada revestia a condição de empresária individual - consoante se percebe pela documentação anexa (Evento 45 dos autos originários, em anexo). Embora a sociedade fosse, incialmente, uma sociedade por quotas de responsabilidade limitada, os demais sócios se retiraram, permanecendo a redirecionada como única socia de sociedade empresarial unipessoal.
+Nesta condição, permanece o interesse no prosseguimento da execução, contra a pessoa natural, tendo em vista a ausência de separação patrimonial por se tratar de empresa individual.
+O Tribunal de origem, por sua vez, rejeitou os aclaratórios, sob os seguintes fundamentos (fl. 170):
+ São cabíveis embargos de declaração quando houver na decisão judicial a necessidade de se esclarecer obscuridade ou eliminar contradição ou para suprir omissão de ponto ou questão sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento (art. 1.022 CPC/15).
+ No caso em tela, a decisão embargada enfrentou a questão de forma clara e suficientemente fundamentada. Entendimento contrário ao defendido pelo recorrente não se confunde com necessidade de suprir omissão, não se prestando os embargos de declaração para rediscussão do julgado. Ainda, a alegação de que permanece interesse no prosseguimento da execução contra a pessoa natural, tendo em vista tratar-se de empresa individual, configura inovação em sede recursal.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "a alegação de que permanece interesse no prosseguimento da execução contra a pessoa natural, tendo em vista tratar-se de empresa individual, configura inovação em sede recursal. " (fl. 170), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
