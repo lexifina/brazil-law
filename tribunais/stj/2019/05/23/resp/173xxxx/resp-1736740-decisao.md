@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo (art. 1042 do CPC/15), interposto por GAFISA SPE-85 EMPREENDIMENTOS IMOBILIÁRIOS LTDA em face de decisão que não admitiu o recurso especial.
+O apelo nobre, de sua vez, fundamentado no art. 105, III, "a", da Constituição Federal, foi interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado:
+Apelação cível. Contrato. Compra e venda de imóvel. Atraso na entrega. Restituição do valor pago. Danos morais minorados.
+Recurso parcialmente provido.
+O atraso na conclusão e entrega da obra, por tempo superior ao razoável, frustra as expectativas do consumidor, que adquiriu o imóvel e nele depositou suas economias, ensejando dano moral.
+O quantum indenizatório deve respeitar os princípios da razoabilidade e da proporcionalidade, aplicados ao caso concreto.
+Opostos embargos de declaração duas vezes, foram ambos rejeitados.
+Em suas razões de recurso especial (fls.814/823, e-STJ), a recorrente apontou violação aos artigos: a) 489, § 1º incisos IV e V; 927, inciso V e 1022, parágrafo único e inciso II, todos do CPC ante a existência de omissões no acórdão recorrido; b) 186, 402 e 403, do Código Civil e 373, I, do novo Código de Processo Civil, 48, § 2º, da Lei 4.591/64, 1º da Lei nº 4.864/65, 93, IX, da CF/1988, 402 e 403 do Código Civil, aduzindo o não cabimento de indenização por lucros cessantes e danos morais; c) 186 c/c 927 e 944, todos do Código Civil, aduzindo o não cabimento de indenização por "danos emergentes"; d) ocorrência de bis in idem e violação aos artigos 944, 927 e 186 do Código Civil.
+Em sede de juízo provisório de admissibilidade, o Tribunal local admitiu o recurso especial, ascendendo os autos a esta Corte.
+É o relatório.
+Decido.
+O inconformismo merece prosperar no que diz respeito à aventada negativa de prestação jurisdicional.
+1. Quanto à ofensa ao artigo 1022 do Novo Código de Processo Civil, calcada no fato de o Tribunal de origem, não obstante a existência de omissão no acórdão, ter rejeitado os embargos de declaração, razão assiste à recorrente, conforme será exposto.
+Com efeito, a recorrente requereu, em sede de embargos de declaração, por duas vezes, que a Corte de origem se pronunciasse sobre a impossibilidade de se condenar a recorrente ao pagamento de indenização por lucros cessantes e ressarcimento de aluguéis com relação ao mesmo período, sob pena de um inadmissível bis in idem.
+Contudo, da leitura do acórdão que julgou os embargos de declaração opostos pela ora recorrente, verica-se que, de fato, tal questão suscitada nos aclaratórios não foi devidamente analisada pelo Tribunal de piso.
+Esta Corte tem entendimento no sentido de que deve ser acolhida a preliminar de ofensa ao artigo 1022 do Novo Código de Processo Civil, quando houver deficiência na prestação jurisdicional realizada na origem, em razão de omissão a respeito de pontos relevantes para o deslinde do feito.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. ART. 535 DO CPC. VIOLAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NULIDADE DO ACÓRDÃO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. 1. Os embargos declaratórios são cabíveis para a modificação do julgado que se apresenta omisso, contraditório ou obscuro, bem como para sanar eventual erro material no julgado.  ..  3. Havendo deficiência na prestação jurisdicional realizada no Tribunal de origem, é de acolher a preliminar de violação do art. 535 do CPC para determinar o retorno dos autos para que sejam sanadas as omissões apontadas. Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao recurso especial de SCHAEFFLER BRASIL LTDA., e determinar o retorno dos autos ao Tribunal de origem para que se manifeste sobre a matéria articulada nos embargos de declaração. (EDcl no AgRg no REsp 1462226/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/10/2014, DJe 24/10/2014)  grifou-se
+Desta forma, considerando que a referida tese foi posta à apreciação do Tribunal a quo, sem que houvesse, contudo, quando do julgamento dos embargos declaratórios, pronunciamento judicial a respeito, devem ser devolvidos os autos ao Tribunal de origem a fim de que profira novo julgamento, sanando a omissão apontada.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, dou parcial provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração (fls. 596/599 e 612/615, e-STJ) e determinar a devolução dos autos ao Tribunal de origem a fim de que profira novo julgamento, com enfrentamento do ponto tido por omisso.
+Julgo prejudicadas as demais questões ventiladas no recurso especial.
+Publique-se. Intimem-se.
