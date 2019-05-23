@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do NCPC) interposto por EMPRESA AUTO VIAÇÃO PROGRESSO S/A contra decisão que não admitiu recurso especial manejado com base nas alíneas "a" e "c" do permissivo constitucional.
+O apelo nobre desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fls. 382-383, e-STJ):
+DIREITO CIVIL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. TRANSPORTE INTERESTADUAL DE PASSAGEIROS. ACIDENTE DE ÔNIBUS. RESPONSABILIDADE CIVIL OBJETIVA. FORTUITO INTERNO. DANOS MORAIS E MATERIAIS COMPROVADOS. APELO IMPROVIDO. UNANIMIDADE.
+I - Em se tratando de hipótese de responsabilidade civil objetiva, cumpre verificar tão somente a existência da conduta, do dano e do nexo de causalidade para que reste configurado o dever indenizatório na espécie dos autos.
+II - Resta incontroverso nos autos a ocorrência do sinistro e a debilidade permanente sofrida pela Apelada, conforme se verifica da farta documentação constante dos autos, consistente em atestados médicos (fls. 25/27), notícias jornalísticas (fls. 32/40), fotografias da Apelada com as sequelas (fls. 41/48). Ademais os exames de lesão corporal (fls. 140 e 141) comprovam que a Apelada sofreu "lesão corto contusa em braço direito, apresentando múltiplas escoriações e hematomas sem fraturas", "resultou debilidade permanente no membro superior direito" e "resultou deformidade permanente no braço direito e cicatricial do mesmo".
+III - O acidente de trânsito caracteriza-se como fortuito interno inerente a atividade desempenhada pelo prestador de serviço, razão pela qual descabe alegação de exclusão da responsabilidade quando de sua ocorrência por culpa de terceiros. Precedentes do STF.
+IV - Após analisar o conjunto probatório constante dos autos, atentando para as circunstâncias específicas do evento, para a situação patrimonial das partes (condição econômico-financeira), para a gravidade da repercussão da ofensa, percebe-se que o juízo monocrático tratou a matéria com a devida cautela, arbitrando a indenização no valor de R$ R$ 40.550,00 (quarenta mil e quinhentos e cinquenta reais), montante que se mostra justo e dentro dos parâmetros utilizados por esta Corte de Justiça.
+V - Apelo improvido à unanimidade.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (fls. 394-405, e-STJ), a insurgente apontou violação aos arts. 884, 927 e 944 do Código Civil, além da existência de divergência jurisprudencial em relação ao quantum indenizatório.
+Sustentou, em síntese, que o valor arbitrado na instância ordinária a título de indenização é exacerbado, configurando o enriquecimento sem causa da parte recorrida.
+Contrarrazões (fls. 418-425, e-STJ).
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 427-430, e-STJ), dando ensejo à interposição do presente agravo (fls. 432-437, e-STJ).
+Contraminuta sustentando o acerto do decisum hostilizado (fls. 441-454, e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Não há se falar em violação aos arts. 884, 927 e 944 do Código Civil, porquanto é pacífico nesta Corte que, em sede de recurso especial, a revisão do valor indenizatório apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, cumpre ressaltar que não é cabível examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ. Precedentes: REsp 686050/RJ, 1ª Turma, MIn. Luiz Fux, DJ de 27.06.2005; AgRg no Ag 605927/BA, Min. Denise Arruda, DJ de 04.04.2005; REsp 734.741/MG, Min. Teori Albino Zavascki, DJ de 27.03.2006.
+2. Igualmente, o apelo não comporta a análise de divergência jurisprudencial no que diz respeito à reavaliação do quantum fixado a título de danos morais, uma vez que se verifica a impossibilidade de, relativamente ao acórdão confrontado, estabelecer-se juízo de valor acerca da relevância e semelhança dos pressupostos fáticos inerentes a cada uma das situações retratadas nos acórdãos confrontados que acabaram por determinar a aplicação do direito à espécie.
+Cada caso reveste-se de peculiaridades que lhes são muito próprias, tais como circunstâncias em que o fato ocorreu, condições do ofensor e do ofendido, além do grau de repercussão do fato no âmbito moral da vítima.
+Dessa forma, os acórdãos sempre serão distintos quanto ao aspecto subjetivo, não obstante as semelhanças externas e objetivas. Ademais, como já ressaltado alhures, no presente caso não se vislumbra nenhuma excepcionalidade capaz de ensejar revisão do valor arbitrado a título de reparação por danos morais pelo STJ. Nesse sentido: EREsp 472790/MA, Rel. Min. José Delgado, Corte Especial, DJ 13/03/2006 e AgRg no REsp 1136524/DF, Rel. Min. João Otávio de Noronha, Quarta Turma, DJe 31/03/2011.
+3. Do exposto, com fulcro no art. 932 do NCPC e na Súmula 568 do STJ, nega-se provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
