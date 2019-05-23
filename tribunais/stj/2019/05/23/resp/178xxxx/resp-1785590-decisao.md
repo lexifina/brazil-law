@@ -1,0 +1,6 @@
+DECISÃO
+O Superior Tribunal de Justiça, nos autos dos REsps 1.761.874/SC, 1.766.553/SC e 1.751.667/RS, todos de Relatoria da Ministra Assusete Magalhães, por intermédio de votação eletrônica realizada pela Primeira Seção, em 18/12/2018, submeteu ao rito do recurso especial repetitivo a tese da fixação do termo inicial da prescrição quinquenal, para recebimento de valores reconhecidos judicialmente, em ação individual, cujo pedido coincide com aquele anteriormente formulado em ação civil pública, correspondente ao Tema 1005 dos repetitivos.
+A admissão de recurso especial como representativo da controvérsia impõe que os recursos interpostos na Corte de origem, que tratem da mesma questão central, fiquem suspensos até o pronunciamento definitivo deste Tribunal. Posteriormente, tais recursos devem ser apreciados na forma prevista nos artigos 1.039 e 1.040 do CPC/2015.
+Assim, determino a devolução dos autos ao Tribunal de origem, com baixa da distribuição, para que, após publicados os acórdãos relativos aos recursos representativos da controvérsia, o recurso especial: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; (ou) 2) seja novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
