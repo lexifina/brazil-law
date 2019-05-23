@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOSE BENEDITO LOPES DE FARIA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2150837-09.2018.8.26.0000).
+Extrai-se dos autos que, no ano de 1999, o paciente foi "denunciado por corrupção ativa, ao oferecer vantagem ao carcereiro da cadeia local para facilitar sua fuga. O processo ficou suspenso até 07/02/2018, aguardando cumprimento de mandado de prisão preventiva, decretada por ocasião da fuga do réu da cadeia local. O processo foi suspenso (artigo 366 do CPP) e o réu citado por edital. Foi determinada a colheita antecipada de provas e as testemunhas arroladas tanto pela acusação como pela defesa foram ouvidas. O mandado de prisão foi cumprido em 12/12/2017 e o réu citado em 07/02/2018" (e-STJ fl. 27).
+Inconformada, a defesa impetrou prévio habeas corpus, tendo o Tribunal de origem denegado a ordem, nos termos da seguinte ementa (e-STJ fl. 16):
+"Habeas corpus" hostilizando a prisão preventiva. 1. Prisão cautelar que se mostra necessária para garantia da aplicação da lei penal 2. Ausência de constrangimento ilegal por excesso de prazo na formação da culpa. Circunstâncias do caso que, sopesadas à luz do princípio da razoabilidade, não descortinam um quadro de antijuridicidade da manutenção da prisão provisória. Ordem denegada.
+Nas razões do presente writ, o impetrante sustenta, em linhas gerais, que a prisão preventiva do paciente foi amparada em fundamentação abstrata, com base em fuga perpetrada há quase 20 anos.
+Narra que o paciente estava em cumprimento de pena, em regime semiaberto, na cidade de Uberlândia/MG, pelo cometimento de outro delito, quando, ao se apresentar para dormir, foi informado de que havia mandado de prisão em seu desfavor, por ordem do Juízo da Comarca de Garça/SP (e-STJ fl. 5).
+Alega que o paciente "já cumpriu mais de 4 anos em regime fechado e ao receber o benefício da progressão para o regime semiaberto, continuou se apresentando e cumprindo com as condições a ele impostas durante vários meses e principalmente SEM FUGIR ou COMETER DELITOS", justificando, ainda, que "o fato de o réu ter fugido há quase 20 anos, não permite presumir que ele voltará a fazê-lo" (e-STJ fl. 6).
+Assere que a decisão que deferiu a progressão para o regime semiaberto consignou que o paciente tem atestado de boa conduta, não havendo notícia de nenhum acontecimento que maculasse o cumprimento da pena (e-STJ fl. 9).
+Aduz que, antes da regressão de regime, o paciente vinha trabalhando e estudando, sem colocar em risco a aplicação da Lei Penal, argumentando, por fim, que, na prolação da sentença, possivelmente será reconhecida a prescrição diante da pena em concreto (e-STJ fl. 10).
+Requer, inclusive liminarmente, a revogação da prisão preventiva, com expedição de alvará de soltura em favor do paciente, a fim de que responda o processo em liberdade.
+O pedido liminar foi por mim indeferido (e-STJ fls. 34/36).
+Informações prestadas (e-STJ fls. 40/42 e 44/54).
+Parecer ministerial pela denegação da ordem (e-STJ fls. 57/62).
+É, em síntese, o relatório.
+Conforme informações extraídas do sítio eletrônico do Tribunal de origem, em 10/5/2019, nos autos da Ação Penal n. 0010482-45.2007.8.26.0201, objeto da presente impetração, foi proferida sentença para julgar improcedente a denúncia e absolver o paciente da imputação da prática do delito descrito no art. 333, parágrafo único, do Código Penal, com fundamento no art. 386, VII, do Código de Processo Penal. Foi determinada a expedição do competente alvará de soltura em favor do paciente, com relação a esse processo.
+Desse modo, é patente que a impetração está prejudicada, por perda superveniente de objeto.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
