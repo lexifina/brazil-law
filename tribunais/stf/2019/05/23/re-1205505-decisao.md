@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO - PRECATÓRIO - EXECUÇÃO DE SENTENÇA - Sentença que extinguiu a execução, com fundamento no art. 924, II, do CPC, e manteve o cálculo nos termos da Lei n.° 11.960/09 e da Súmula Vinculante n° 17 - Apelação dos exequentes - Sentença reformada - Inviabilidade de aplicação do disposto na Lei n.° 11.960/09 e da Súmula Vinculante 17 em execução de sentença que transitou em julgado em data muito anterior - Precatório judicial também expedido em momento anterior – Respeito às garantias constitucionais do direito adquirido, do ato jurídico perfeito e da coisa julgada – Precedentes - Determinado o prosseguimento da execução e a apuração de eventual saldo remanescente Recurso de apelação provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 100, § 5º, da CF. Defende a aplicação dos juros e da correção monetária nos termos estabelecidos pelo art. 1º-F da Lei nº 9.494/1997, alterado pela Lei nº 11.960/2009.
+    O Plenário Virtual do Supremo Tribunal Federal (STF), no julgamento do RE 1.169.289-RG (Tema 1.037), Rel. Min. Marco Aurélio, reconheceu a existência de repercussão geral da matéria quanto à incidência de juros de mora no período compreendido entre a data da expedição do precatório ou da requisição de pequeno valor (RPV) e o efetivo pagamento, tendo em vista a redação dada pela EC nº 62/2009 ao art. 100, § 12, da Constituição Federal.
+    Quanto à questão sobre os juros e correção monetária, o STF, nos autos do RE 870.947 (Tema 810), Rel. Min. Luiz Fux, reconheceu a existência de repercussão geral da matéria – constitucionalidade da aplicação dos critérios de correção monetária relativos à caderneta de poupança (Taxa Referencial TR) sobre os débitos da Fazenda Pública, conforme determina o art. 1º-F da Lei nº 9.494/1997, com a redação dada pela Lei nº 11.960/2009.
+    Cabe lembrar que o mencionado paradigma ainda não transitou em julgado.
+    Diante do exposto, com base no art. com base no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos ao Tribunal de origem, a fim de que seja observada a sistemática da repercussão geral (Temas 810 e 1.037).
+    Publique-se.
+          Brasília, 23 de maio de 2019.
+Ministro Luís Roberto Barroso
+Relator
