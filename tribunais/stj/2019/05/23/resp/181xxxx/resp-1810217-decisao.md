@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], fundamentado nas alíneas a e c do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que negou provimento à apelação defensiva para manter-lhe a condenação pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Consta nos autos que o recorrente foi denunciado pela prática do crime de tráfico de drogas, uma vez que, no dia 7/10/2017, foi flagrado enquanto trazia consigo, para entrega ao consumo de terceiros, 20 (vinte) porções de cocaína, com peso aproximado de 15,4g (quinze gramas e quatro decigramas) - e-STJ fls. 80-81.
+Julgada procedente a ação penal, o Juízo de primeiro grau condenou [NOME] à pena de 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, sob regime inicial fechado, e multa de 680 (seiscentos e oitenta) dias-multa, à proporção de 1/30 (um trigésimo) do salário mínimo vigente à época do fato (e-STJ fls. 163-165).
+A sentença penal condenatória foi integralmente mantida pelo Tribunal de origem (e-STJ fls. 244-251).
+Opostos embargos de declaração pela defesa (e-STJ fls. 273-276), esses foram rejeitados (e-STJ fls. 280-285).
+Nas razões do recurso especial, a defesa alega violação do art. 61, I, do Código Penal e art. 28 da Lei n. 11.343/2006 (e-STJ fls. 292-302). Sustenta, em síntese, que a condenação pretérita, transitada em julgado, pelo crime de posse ilegal de drogas para consumo pessoal não tem o condão de configurar a reincidência. Sob esse prisma, busca o afastamento da agravante reconhecida no segundo estágio da dosimétrico, com consequentes reflexos na fixação da pena e do regime prisional inicial.
+ Requer, ao final, o provimento da pretensão recursal para reformar o acórdão impugnado.
+Contrarrazoada a insurgência (e-STJ fls. 322-329), após o juízo prévio de admissibilidade (e-STJ fl. 332), os autos ascenderam ao Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal, na condição de custos legis, ofertou parecer pelo provimento do recurso especial (e-STJ fls. 341-343).
+É o relatório.
+Em consulta processual realizada à base de dados desta Corte Superior, verifica-se que a defesa técnica impetrou o HC n. 499.663/SP em favor do ora recorrente, cuja causa de pedir e pedido são idênticos ao objeto deste recurso especial. A ordem de habeas corpus foi concedida, de ofício, para afastar a reincidência reconhecida pela instância ordinária, com o consequente redimensionamento de pena, tendo a decisão respectiva sido publicada no DJe em 20/5/2019.
+Assim, por se tratar a pretensão recursal em exame de "reiteração" ao quanto já decidido, deflui-se como prejudicada a análise deste recurso especial, permeado pela preclusão pro judicato e pelo princípio da unirrecorribilidade recursal.
+Nesse sentido, ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. ART. 544, § 4º, II, ALÍNEA "B", DO CÓDIGO DE PROCESSO CIVIL, C.C. O ART. 3º DO CÓDIGO DE PROCESSO PENAL. POSSIBILIDADE. AGRAVO EM RECURSO ESPECIAL PREJUDICADO PELO JULGAMENTO DO HC N. 277.396/SP. REITERAÇÃO DO PEDIDO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A prolação de decisão monocrática pelo ministro relator está autorizada pelo art. 544, § 4º, II, alínea "b", do Código de Processo Civil, c.c. o art. 3º do Código de Processo Penal, não devendo prosperar a tese de cerceamento de defesa ou ofensa ao princípio da colegialidade. Ademais, os temas sempre poderão ser levados ao colegiado com a interposição do agravo regimental.
+2. Os pedidos expostos no agravo em recurso especial estão prejudicados, uma vez que se trata de reiteração do exposto no habeas corpus n. 277.396/SP, de relatoria do Ministro MARCO AURÉLIO BELLIZZE.
+3. Agravo regimental improvido.
+(AgRg no AREsp 530.727/SP, Rel. Ministro WALTER DE ALMEIDA GUILHERME (DESEMBARGADOR CONVOCADO DO TJ/SP), QUINTA TURMA, julgado em 25/11/2014, DJe 03/12/2014)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLEITOS DE ALTERAÇÃO DA PENA E DO REGIME. MATÉRIA APRECIADA NO HABEAS CORPUS Nº 405.010/SP. ORDEM DENEGADA. AGRAVO EM RECURSO ESPECIAL PREJUDICADO. EXISTÊNCIA DE PEDIDO DISTINTO. NÃO OCORRÊNCIA.  ..
+1. Em consulta aos assentos eletrônicos desta Corte Superior de Justiça, constata-se o julgamento do HC nº 405.010/SP, também de minha relatoria, publicado em 15.02.2018, impetrado em favor do ora recorrente, e com causa de pedir idêntica à posta no apelo nobre, onde se denegou a ordem. Assim, verifica-se ter se esvaído o objeto do agravo em recurso especial, diante da efetiva prestação jurisdicional por esta Corte quanto a matéria tratada no recurso especial.  ..
+(AgRg no AREsp 1266945/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/06/2018, DJe 02/08/2018)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. AGRAVO EM RECURSO ESPECIAL. MESMO OBJETO DE HABEAS CORPUS JÁ JULGADO. REITERAÇÃO DE PEDIDOS. IMPOSSIBILIDADE. ANÁLISE PREJUDICADA. AGRAVO IMPROVIDO.  ..
+2. Encontra-se prejudicado o agravo em recurso especial que teve seu objeto inteiramente julgado em sede de habeas corpus, não se mostrando razoável o julgamento do mesmo objeto em duplicidade.  ..
+(EDcl no AREsp 156.602/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/08/2017, DJe 28/08/2017)
+Ante o exposto, com fulcro no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julga-se prejudicado o recurso especial.
+Publique-se. Intimem-se.
