@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 1.276):
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. PRESTAÇÃO DE SERVIÇOS MÉDICOS E HOSPITALARES. CORREÇÃO DA TABELA DO SUS. PLANO REAL. DUPLICIDADE DE PAGAMENTO. INOCORRÊNCIA. HONORÁRIOS AD VOC ATÍ CIOS. DEVOLUÇÃO. DESCABIMENTO. VALORES CONTROVERTIDOS. SUCUMBÊNCIA RECÍPROCA.
+Inexistindo comprovação da realização de qualquer pagamento pela União em favor da exequente em outra ação, não há se falar em cobrança em duplicidade. Além disso, a coisa julgada em relação à referida lide, foi afastada na fase de conhecimento, tendo ela assumido o risco de não se beneficiar da ação coletiva, ao optar pela ação individual, devendo o pagamento em dobro ser evitado naquela demanda.
+Conquanto tenha havido concordância com algumas das insurgências da parte adversa, tal manifestação foi motivada pela oposição de embargos de devedor, em decorrência de ter sido pleiteado execução em excesso. Logo, há sucumbência da embargada, a ser considerada na fixação da verba honorária.
+Os embargos de declaração opostos foram parcialmente acolhidos apenas para fins de prequestionamento.
+A recorrente aponta violação dos arts. 20, §§ 3º e 4º, 535, I e II, e 741, V, do Código de Processo Civil/1973, dos arts. 876 e 884 do Código Civil/2002 e do art. 1º-D da Lei n. 9.494/1997.
+Sustenta, preliminarmente, negativa de prestação jurisdicional, pois o Tribunal de origem não se manifestou sobre os documentos acostados aos autos pela executada, os quais comprovam o efetivo pagamento à ora recorrida das diferenças relativas ao mês de junho de 1994, decorrente da equivocada conversão da tabela do SUS.
+Afirma que a FBH atua como substituta processual da ora recorrida na ação coletiva que tramita na 17ª Vara Federal do Distrito Federal, já em fase de execução, com objeto idêntico ao da presente demanda, razão pela qual a condenação da União ao pagamento desses mesmos valores configura bis in idem e acarreta o enriquecimento sem causa da parte adversa.
+Por fim, alega que os honorários advocatícios fixados na sentença apresentam caráter provisório e não podem ser cumulados com a verba advocatícia arbitrada nos embargos, condenação esta que deve abranger as duas ações.
+Contrarrazões apresentadas.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Considerado isso, observo que o Superior Tribunal de Justiça firmou o entendimento de que não há violação do art. 535, II, do CPC/1973, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1.340.652/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 13/11/2015).
+Acerca do tema, conferir, ainda: REsp 1.388.789/RJ, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe 04/03/2016, e AgRg no REsp 1.545.862/RJ, Rel. Ministro OG FERNANDES, Segunda Turma, DJe 18/11/2015.
+No caso, o Tribunal a quo decidiu de forma suficientemente fundamentada sobre o tema apontado como olvidado (e-STJ fl. 1.273).
+Aliás, ao referir-se ao suposto pagamento em duplicidade, o julgado recorrido, reportando-se à sentença, expressamente consignou o seguinte (e-STJ fl. 1.273):
+No tocante à alegação de cobrança em duplicidade de valores, é irretocável a sentença, pois não houve comprovação da realização de qualquer pagamento em favor da Sociedade Beneficente Lar da Fraternidade Hospital Regional de Chapecó na ação n.º 95.00.06459-6, não servindo o documento anexado às razões de apelação, para afastar a condenação imposta pela sentença exequenda (já transitada em julgado), por inconclusivo.
+Ademais, a coisa julgada em relação à referida lide, foi ainda afastada na fase de conhecimento, tendo o embargado assumido o risco de não se beneficiar da ação coletiva, ao optar pela ação individual, devendo o pagamento em dobro ser evitado naquela lide da qual o embargado optou por não participar ao ajuizar a ação ordinária que deu origem ao seu título.
+Nessa quadra, dissentir da conclusão a que chegou a Corte de origem implica inevitável revolver de aspectos fático-probatórios, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. ICMS. DECADÊNCIA. AUSÊNCIA DE AÇÕES QUE CONFIGUREM INDUSTRIALIZAÇÃO. APROVEITAMENTO INDEVIDO. AUSÊNCIA DE PAGAMENTO. ART. 173, I, DO CTN. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1.  ..
+3. Para modificar o entendimento firmado no acórdão recorrido, verificando se deixou de haver pagamento ou se este se realizou a menor, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7/STJ.
+4. Conforme se observa no acórdão acima transcrito, o Tribunal local foi expresso ao afirmar que a recorrente não comprovou, de acordo com os requisitos exigidos na legislação, a efetiva frustração da entrega da mercadoria. Sem a efetiva prova da devolução de mercadoria, não foi possível autorizar o creditamento pleiteado.
+Sendo assim, ressalto que, novamente, não é possível rever o posicionamento traçado na origem, já que, para isso, seria preciso analisar o acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+5.  ..
+6. Agravo Interno não provido.
+(AgInt no REsp 1.535.946/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/03/2017, DJe 19/04/2017).
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DESISTÊNCIA PARA ADESÃO A PARCELAMENTO. HONORÁRIOS. CABIMENTO. TRIBUNAL DE ORIGEM AFIRMA PAGAMENTO NA ESFERA ADMINISTRATIVA. REVER O ENTENDIMENTO. NECESSIDADE DE ANÁLISE FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os honorários sucumbenciais são, em regra, devidos quando o contribuinte desiste dos embargos à execução, ainda que por conta de parcelamento realizado nos termos de legislação local.
+2. "In casu, a instância a quo firmou o entendimento de que referidos honorários já haviam sido pagos nas vias administrativas.
+Infirmar tal conclusão, a fim de acolher a pretensão do recorrente, demandaria revolvimento do acervo fático-probatório, inviável em recurso especial, nos termos da Súmula 7/STJ" (AgRg no AREsp 284.573/MG, Rel. Min. ELIANA CALMON, Segunda Turma, DJe 29/5/13).
+3. Agravo regimental não provido.
+(AgRg no AREsp 276.020/MG, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 17/10/2013, DJe 30/10/2013).
+Por fim, o acórdão recorrido não divergiu da jurisprudência pacífica do STJ no sentido de que os embargos à execução constituem ação autônoma e, por conseguinte, é possível a cumulação da condenação em honorários advocatícios arbitrados na ação de execução com aqueles arbitrados em embargos à execução, observado o limite percentual de 20% (art. 20, § 3º, do CPC) na soma das duas verbas (AgRg no REsp 1.559.922/RS, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, julgado em 24/11/2015, DJe 1º/12/2015).
+No mesmo sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. CUMULAÇÃO COM OS ARBITRADOS NOS EMBARGOS. POSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o CPC/15 ao presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - É possível a cumulação dos honorários advocatícios fixados na execução com aqueles arbitrados nos embargos, desde que a soma das condenações não ultrapasse o limite máximo de 20% (vinte por cento) estabelecido no art. 20, § 3º, do Código de Processo Civil.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1.679.078/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/10/2017, DJe 30/10/2017).
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. MULTA AMBIENTAL. ART. 397 DO CÓDIGO DE PROCESSO CIVIL. ART. 1º DA LEI 9.873/1999. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ANÁLISE DOS REQUISITOS DA CDA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A alegação de afronta ao art. 397 do Código de Processo Civil e ao art. 1º da Lei 9.873/1999, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo Tribunal a quo. Incide a Súmula 211/STJ.
+2. Para que se configure prequestionamento implícito, é necessário que o Tribunal a quo emita juízo de valor a respeito da aplicação da norma federal ao caso concreto - o que não ocorreu.
+3. A aferição dos requisitos essenciais à validade da CDA demanda, em regra, reexame do conjunto fático-probatório dos autos, o que é inviável em Recurso Especial ante o óbice da Súmula 7/STJ.
+4. A jurisprudência do STJ é pacífica no sentido de ser possível cumular os honorários advocatícios fixados em Execução com os arbitrados em Embargos do Devedor, por constituírem ações autônomas, devendo-se observar o limite máximo de 20% (art. 20, § 3º, do CPC) na soma das duas verbas.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1.446.378/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/11/2014, DJe 04/12/2014).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
