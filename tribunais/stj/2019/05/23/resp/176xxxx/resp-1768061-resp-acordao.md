@@ -1,0 +1,69 @@
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DA MÁCULA APONTADA. PACÍFICA JURISPRUDÊNCIA DO STJ. ICMS DEVE COMPOR AS BASES DE CÁLCULO DO IRPJ E DA CSLL APURADOS PELO LUCRO PRESUMIDO.
+I - Na origem, trata-se de mandado de segurança, com pedido liminar, visando ao reconhecimento do direito à exclusão dos valores correspondentes ao ICMS da base de cálculo do IRPJ e da CSLL apurados pelo lucro presumido, e à consequente compensação dos valores recolhidos a maior no quinquênio anterior à impetração. Na sentença se concedeu a segurança. No Tribunal a quo, a sentença foi reformada.
+II - Sobre a alegada violação do art. 1.022 do CPC/2015, por suposta omissão pelo Tribunal de origem da análise da questão, acerca da exclusão do ICMS da base de cálculo do IRPJ e CSLL, tenho que não assiste razão ao recorrente.
+III - Verifica-se a inexistência da mácula apontada, tendo em vista que, da análise do referido questionamento em confronto com o acórdão hostilizado, não se cogita da ocorrência de omissão, contradição, obscuridade ou mesmo erro material, mas mera tentativa de reiterar fundamento jurídico já exposto pelo recorrente e devidamente afastado pelo julgador.
+IV - A oposição de embargos de declaração, com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia. No mesmo diapasão, destacam-se: AgInt no AREsp n. 960.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2016, DJe 19/12/2016 AgInt no REsp n. 1.498.690/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/3/2017, DJe 20/3/2017.
+V - A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que o ICMS deve compor as bases de cálculo do IRPJ e da CSLL apurados pelo lucro presumido. Nesse sentido, confiram-se: AgRg no REsp n. 1.495.699/CE, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 16/6/2015, DJe 26/6/2015 AgRg no REsp n. 1.449.523/RS, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 3/6/2014, DJe 12/6/2014.
+VI - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto por SUR-ENGENHARIA MAQUINAS E INSTALACOES INDUSTRIAIS LTDA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+TRIBUTÁRIO. INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO IRPJ E DA CSLL. AFERIÇÃO DA BASE DE CÁLCULO COM BASE NO LUCRO PRESUMIDO. CABIMENTO.
+1. Desde que estejam presentes determinados requisitos, a aferição do imposto de renda da pessoa jurídica, com base no lucro presumido, constitui-se em opção do contribuinte e consiste na aplicação de um percetual de 8% sobre a receita bruta, sem necessidade de observância dos procedimentos contábeis estabelecidos na legislação comercial e na legislação fiscal, e sem a necessidade de comprovação efetiva das deduções.
+2. Diferente é o caso da apuração com base no lucro real, em que as deduções todas devem ser comprovadas, inclusive a dedução do valor efetivo do ICMS.
+3. Quando se arbitra o lucro presumido como um percentual da receita bruta, presume-se que já foram consideradas, nessa fórmula, todas as possíveis deduções da receita bruta, como os impostos incidentes sobre as vendas (dentre os quais se inclui o ICMS), o custo das mercadorias ou serviços vendidos, as despesas administrativas, as despesas financeiras etc.
+4. Caso se admitisse a dedução do ICMS da receita bruta, para fins de aferição da base de cálculo do imposto de renda da pessoa jurídica, pelo critério do lucro presumido, ter-se-ia a dupla contagem da mesma dedução, o que implicaria na desfiguração do sistema de aferição do imposto de renda com base no chamado lucro presumido, pois o transformaria em um sistema misto.
+5. O mesmo raciocínio é válido, mutatis mutandis, para a aferição de sua contribuição social sobre o lucro líquido, com base no lucro presumido.
+6. Assim, não é cabível a exclusão do ICMS da base de cálculo do IRPJ e da CSLL, no caso de empresas tributadas pelo lucro presumido.
+Foram rejeitados os embargos declaratórios opostos pelo contribuinte.
+Inicialmente, o recorrente suscita contrariedade ao art. 1.022 do CPC/2015, aduzindo que o Tribunal de origem, a despeito da oposição dos aclaratórios, não se manifestou sobre a necessidade de exclusão do ICMS da base de cálculo do IRPJ e da CSLL.
+No recurso especial, o recorrente aponta violação dos arts. 43, do Código Tributário Nacional e 15 e 20, ambos da Lei n. 9.249/1995.
+Sustenta, em síntese, que é indevida a inclusão do ICMS na base de cálculo do IRPJ e da CSLL, ainda que a empresa tenha optado pela sistemática de apuração baseada no lucro presumido, tendo em vista que o aludido imposto estadual não compõe o conceito de receita bruta.
+A decisão monocrática tem o seguinte dispositivo:"Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial. ".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, inciso III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Sobre a alegada violação do art. 1.022 do CPC/2015, por suposta omissão pelo Tribunal de origem da análise da questão acerca da exclusão do ICMS da base de cálculo do IRPJ e CSLL, tenho que não assiste razão ao recorrente.
+Na hipótese dos autos, verifica-se a inexistência da mácula apontada, tendo em vista que, da análise do referido questionamento em confronto com o acórdão hostilizado, não se cogita da ocorrência de omissão, contradição, obscuridade ou mesmo erro material, mas mera tentativa de reiterar fundamento jurídico já exposto pelo recorrente e devidamente afastado pelo julgador.
+Nesse panorama, a oposição de embargos de declaração, com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia.
+No mesmo diapasão, destacam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. AUSÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há violação do art. 535, inc. II, do CPC/1973 quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+2. O Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal.
+3. A ausência de impugnação de fundamento autônomo apto, por si só, para manter o acórdão recorrido, atrai o disposto na Súmula n. 283/STF.
+4. A simples alegação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira eles foram violados pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula n. 284/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp 960.685/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/12/2016, DJe 19/12/2016).
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OFENSA AO ART. 535 DO CPC. REQUISITOS PARA RECONHECER A OMISSÃO. QUESTÃO NÃO RELEVANTE. AUSÊNCIA DE OMISSÃO. ART. 485, V, DO CPC/73. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. ARTIGO NÃO INDICADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. DECISÃO MANTIDA.
+1. Para configurar omissão, é necessária a presença cumulativa dos seguintes requisitos: a) o Tribunal de origem não tenha se pronunciado sobre o tema; b) tenham sido opostos embargos de declaração; c) tenha sido a questão levantada nas razões ou contrarrazões do agravo de instrumento ou da apelação; e d) seja relevante para o deslinde da controvérsia.
+2. Ausente relevância, à luz do caso concreto, da matéria tida por não apreciada, afasta-se a alegada omissão.
+3. A suposta violação ao art. 485, V, do CPC/73, por violação a literal dispositivo de lei, exige seja declinado no recurso especial especificamente qual o artigo de lei que supostamente daria azo à rescisória, sob pena de deficiência na fundamentação, a ensejar a incidência da Súmula nº 284/STF.
+4. Agravo interno não provido.
+(AgInt no REsp 1.498.690/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/3/2017, DJe 20/3/2017).
+Por outro lado, a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que o ICMS deve compor as bases de cálculo do IRPJ e da CSLL apurados pelo lucro presumido. Nesse sentido, confiram-se:
+TRIBUTÁRIO. ICMS. INCLUSÃO NA BASE DE CÁLCULO DO IRPJ E DA CSLL. EMPRESA SUJEITA À TRIBUTAÇÃO PELO LUCRO PRESUMIDO. LEGALIDADE. ORIENTAÇÃO CONSOLIDADA NO ÂMBITO DA SEGUNDA TURMA DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Na forma da jurisprudência, "a Segunda Turma desta Corte possui o entendimento firmado de que o ICMS deve compor as bases de cálculo do IRPJ e da CSLL apurados pelo lucro presumido. Para afastar tal incidência, a opção do contribuinte deve ser pelo regime de tributação com base no lucro real, situação permitida nos termos do art. 41 da Lei n. 8.981/95 e art. 344 do RIR/99" (STJ, AgRg no REsp 1.495.699/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 26/06/2015).
+II. Agravo Regimental improvido.
+(AgRg no REsp 1522729/RN, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/09/2015, DJe 16/09/2015)
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. IRPJ E CSLL. EMPRESA OPTANTE PELO LUCRO PRESUMIDO. BASE DE CÁLCULO. ICMS. INCLUSÃO. CONCEITO DE RECEITA BRUTA E FATURAMENTO. MATÉRIA CONSTITUCIONAL.
+1. A Segunda Turma desta Corte possui o entendimento firmado de que o ICMS deve compor as bases de cálculo do IRPJ e da CSLL apurados pelo lucro presumido. Para afastar tal incidência, a opção do contribuinte deve ser pelo regime de tributação com base no lucro real, situação permitida nos termos do art. 41 da Lei n. 8.981/95 e art. 344 do RIR/99.
+2. "Segundo a jurisprudência majoritária desta Corte, a discussão referente ao conceito de faturamento e receita bruta, notadamente no que se refere à definição da base de cálculo, implica análise de matéria constitucional, o que é vedado nesta Corte Superior, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgRg no REsp 1.505.664/SC, Rel. Min. Humberto Martins, Segunda Turma, DJe 9/3/2015).
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1495699/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 16/06/2015, DJe 26/06/2015)
+TRIBUTÁRIO E PROCESSUAL CIVIL. DECISÃO QUE SE FIRMA EM JURISPRUDÊNCIA ESCASSA, PORÉM DOMINANTE. VIOLAÇÃO DO ART. 557 DO CPC. NÃO OCORRÊNCIA. PRINCÍPIO DA COLEGIALIDADE. PRESERVAÇÃO POR OCASIÃO DO JULGAMENTO DO AGRAVO REGIMENTAL. EXCLUSÃO DE CRÉDITOS DE ICMS DA BASE DE CÁLCULO DO IRPJ E DA CSLL. IMPOSSIBILIDADE.
+1. A configuração de jurisprudência dominante constante do art. 557 do CPC prescinde de que todos os órgãos competentes em um mesmo Tribunal tenham proferido decisão a respeito do tema. Isso porque essa norma é inspirada nos princípios da economia processual e da razoável duração do processo e tem por finalidade a celeridade na solução dos litígios. Assim, se o Relator conhece orientação de seu órgão colegiado, desnecessário submeter-lhe, sempre e reiteradamente, a mesma controvérsia. Vide AgRg no REsp 1423160/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/3/2014, DJe 15/4/2014.
+2. A eventual nulidade da decisão monocrática calcada no artigo 557 do CPC fica superada com a reapreciação do recurso pelo órgão colegiado, na via de agravo regimental.
+3. Nos termos da jurisprudência do STJ, nas empresas optantes pelo lucro presumido, a inclusão do ICMS na base de cálculo do IRPJ e CSLL não se reveste de ilegalidade, pois o cálculo de tais exação se efetivam sobre a "receita bruta" da entidade, compreendido o ICMS na sua composição.
+Agravo regimental improvido.
+(AgRg no REsp 1449523/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 03/06/2014, DJe 12/06/2014).
+Ante o exposto, não havendo razões para modificar a decisão recorrida, conheço dos embargos como agravo interno e, nesta parte, nego provimento.
+É o voto.
