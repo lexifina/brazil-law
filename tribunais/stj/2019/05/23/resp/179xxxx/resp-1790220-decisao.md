@@ -1,0 +1,61 @@
+DECISÃO
+GUILHERME PEREIRA DOS SANTOS e ROBERTO DOS SANTOS PACHECO interpõem recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais na Apelação n. 1.0024.17.044760-1/001.
+Depreende-se dos autos que os recorrentes foram condenados, em primeira instância, às penas de 1 ano, 9 meses e 10 dias de reclusão, no regime aberto, mais multa (Guilherme), e 2 anos, 2 meses e 20 dias de reclusão, no regime semiaberto, mais multa (Roberto), pela prática de tentativa de furto qualificado - art. 155, §§ 1º e 4º, I, II e IV, c/c o art. 14, II, ambos do Código Penal (fls. 202-218).
+O Tribunal local negou provimento aos recursos defensivos e manteve a sentença condenatória em todos os seus termos (fls. 300-318).
+Nas razões do especial (fls. 322-327), alega a defesa que o acórdão recorrido violou os arts. 155, § 4º, I, do CP e 158 do CPP, devido à manutenção da qualificadora do rompimento de obstáculo, sob o argumento de que "quando é possível a realização da perícia, o que ocorre no presente caso, e esta não se realizou por inércia do Poder Público, outros meios de prova NÃO poderão ser utilizados para suprir o laudo pericial" (fl. 326).
+Requer a reforma do acórdão impugnado, a fim de que seja afastada a qualificadora descrita no art. 155, § 4º, I, do Código Penal, com a consequente redução das reprimendas impostas.
+Apresentadas as contrarrazões (fls. 332-335) e admitido o recurso especial na origem (fls. 337-340), o Ministério Público Federal opinou pelo seu não conhecimento (fls. 351-355).
+Decido.
+O recurso é tempestivo e preenche os demais requisitos da admissibilidade, motivos pelos quais conheço do especial e passo à análise da impugnação.
+I. Rompimento de obstáculo
+O Magistrado de primeira instância condenou os acusados sob os seguintes fundamentos (fls. 208-212, grifei):
+ ..
+As qualificadoras presentes nos incisos I e IV, § 4º, do art. 155, do CP, estão comprovadas por meio dos depoimentos judiciais, prestados pelas testemunhas, que demonstram claramente o rompimento do obstáculo para tentar a subtração dos bens.
+Saliento que a ausência de laudo pericial não afasta a caracterização da referida qualificadora, prevista no inciso I, do art. 155, do Código Penal, quando existentes outros meios aptos a comprovar o rompimento de obstáculo, como ocorre, in casu, diante dos depoimentos das testemunhas.
+ ..
+Ora, a respeito do concurso de pessoas, a prova dos autos é estreme de dúvidas, eis que, diante do depoimento das testemunhas e dos demais elementos probatórios, é evidente o vínculo psicológico existente entre os réus, que agiram com propósitos idênticos, coexistindo o conhecimento da conduta delituosa e a vontade delitiva voltada a um fim COMUM.
+ ..
+A qualificadora presente no inciso II, § 4º, do art. 155 do CP, qual seja, "escalada", restou configurada, eis que os relatos das testemunhas foram uníssonos, atestando que os acusados escalaram o muro da residência da vítima.
+Saliento que a ausência de laudo pericial não afasta a caracterização da referida qualificadora, prevista no inciso II, do art. 155, do Código Penal, quando existentes outros meios aptos a comprovar a escalada, como ocorre, in casu, diante dos depoimentos das testemunhas.
+Portanto, restou caracterizado que os acusados pularam o muro da residência da vítima.
+Desta forma, a propósito da pretensão defensiva de decote da qualificadora concernente à "escalada" (art. 155, § 4º, inciso II, do CP), entendo-a impertinente.
+Lado outro, está presente a causa de aumento de pena, prevista no § 1º, do art. 155, do Código Penal, uma vez que o delito foi cometido durante o repouso noturno, conforme se verifica no boletim de ocorrência (fls. 15/20).
+O Tribunal de origem, ao manter a sentença condenatória, assentou (fl. 313, destaquei):
+ ..
+No tocante à qualificadora concernente ao rompimento de obstáculo e escalada, entendo que agiu adequadamente o digno magistrado de primeira instância ao reconhecê-la. Isso porque, não obstante a ausência de laudo pericial, há outros meios de prova que indicam a atuação dos agentes.
+O depoimento das testemunhas é firme no sentido de que os apelantes tentaram arrombar o portão da garagem do imóvel, que ficou danificado.
+ ..
+E sendo assim, certo é que o reconhecimento das qualificadoras no presente caso é medida de rigor.
+Tendo em vista que a sentença reconheceu a qualificadora relativa à escalada, entendo que a qualificadora referente ao rompimento de obstáculo deveria ser ensejar a exasperação da pena na primeira fase de sua dosimetria, sendo considerada circunstância desfavorável ao réu.
+Ocorre que o juízo, ainda que tenha reconhecido as presentes qualificadoras, manteve a pena base no mínimo legal, bem como não procedeu ao incremento da pena em qualquer etapa, razão pela qual mantenho a fixação da pena base tal como fixado pelo juízo, sob pena de reformatio in pejus.
+Na espécie, não houve a realização de exame pericial, seja direto, seja indireto (art. 158 do CPP), embora a autoridade policial haja requisitado a elaboração do laudo (fls. 58-59).
+Sobre a matéria, no julgamento do REsp n. 1.320.298/MG, a Sexta Turma do STJ examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer-se a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste. Na oportunidade, empreendi análise mais aprofundada do tema, com proposta de modificação de entendimento predominante na Corte.
+Levado o referido recurso a julgamento, meu voto não foi acolhido pela Sexta Turma, e ficou como relator para o acórdão o Ministro Nefi Cordeiro, que consignou o posicionamento da maioria de que "o reconhecimento da qualificadora da escalada, prevista no art. 155, § 4º, II, do Código Penal, exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo" (REsp n. 1.320.298/MG, Rel. Ministro Rogerio Schietti, Rel. p/ acórdão Ministro Nefi Cordeiro, 6ª T., DJe 23/2/2016)
+Em relação à qualificadora de rompimento de obstáculo, a Sexta Turma deste Tribunal Superior também conclui pela imprescindibilidade, em regra, da sua comprovação por laudo pericial, admitida, excepcionalmente, a realização de exame indireto ou a sua complementação por outros meios de prova quando não subsistirem os vestígios materiais ou não forem estes suficientes para a confecção do laudo.
+A partir de então, com a ressalva de meu entendimento pessoal, aderi à orientação da Sexta Turma, a fim de reconhecer, como regra, a indispensabilidade da realização de exame pericial para constatação do rompimento de obstáculo.
+Ilustrativamente:
+ ..
+2. Para a incidência da qualificadora de rompimento de obstáculos, que deixa vestígios, é imprescindível a comprovação por laudo pericial, a teor dos arts. 158 e 171 do Código de Processo Penal.
+3. A substituição do laudo pericial por outros meios de prova somente se mostra apropriada se o delito não deixar vestígios, se estes tiverem desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo, o que não foi demonstrado na hipótese vertente, tendo em vista que a não realização do exame se deu em virtude de falha atribuível unicamente ao aparato estatal.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de afastar a qualificadora e reduzir a reprimenda do paciente para 1 (um) ano de reclusão, mais 10 dias-multa, mantida a substituição da pena privativa de liberdade por restritiva de direito, consistente na prestação de serviços à comunidade, nos termos do acórdão. (HC n. 350.223/DF, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 15/4/2016, destaquei)
+ ..
+- A jurisprudência desta Corte de Justiça é pacífica quanto à necessidade de realização de exame pericial para o reconhecimento da qualificadora do rompimento de obstáculo, prevista no art. 155, § 4º, I, do Código Penal, sendo possível a sua substituição por outros meios probatórios somente quando a infração não deixar vestígio ou se o corpo de delito houver desaparecido, a teor do disposto nos arts. 158 e 167 do Código de Processo Penal (AgRg no AgRg no REsp 1.419.093/DF, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 10/3/2015, DJe 26/3/2015).
+Agravo regimental desprovido. (AgRg no REsp n. 1.337.425/DF, Rel. Ministro Ericson Maranho (Desembargador convocado do TJ/SP), 6ª T., DJe 17/9/2015, grifei)
+No mesmo sentido, os seguintes julgados da Quinta Turma do Superior Tribunal de Justiça:
+ ..
+2. A jurisprudência desta Corte entende que, para reconhecimento da qualificadora do rompimento de obstáculo, é imprescindível a realização de exame pericial, sendo possível a sua substituição por outros meios probatórios somente se não existirem ou tenham desaparecido os vestígios, ou se as circunstâncias do crime não permitirem a confecção do laudo.
+3. No caso em análise, as instâncias ordinárias, ao apreciarem a questão, não apresentaram justificativas para a não realização da perícia. Dessa forma, ainda que existentes nos autos outros elementos aptos a comprovar o rompimento de obstáculo, entende esta Corte pela não incidência da qualificadora, sob pena de violação do art. 158 do Código de Processo Penal.
+4. Agravo regimental improvido. (AgRg no REsp n. 1.577.337/RS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 16/3/2016, destaquei)
+ ..
+1. Ressalvado o entendimento pessoal do relator, a jurisprudência desta Corte de Justiça é pacífica quanto à necessidade de realização de exame pericial para o reconhecimento da qualificadora do rompimento de obstáculo, prevista no art. 155, § 4º, I, do Código Penal, sendo possível a sua substituição por outros meios probatórios somente quando a infração não deixar vestígio ou se o corpo de delito houver desaparecido, a teor do disposto nos arts. 158 e 167 do Código de Processo Penal.
+2. No caso, o laudo pericial não foi realizado em virtude do desaparecimento do cadeado destruído, o que justifica a consideração dos depoimentos testemunhais como prova para a incidência da referida qualificadora.
+3. Agravo regimental a que se nega provimento. (AgRg no AgRg no REsp n. 1.419.093/DF, Rel. Ministro Gurgel de Faria, 5ª T., DJe 26/3/2015, grifei)
+Na hipótese, é incontroverso que não foi realizado exame pericial com vistas a atestar o rompimento do obstáculo. E, tanto o Magistrado sentenciante quanto o Tribunal local, não indicaram o desaparecimento dos vestígios do crime ou mesmo a impropriedade do local do delito para a realização da perícia.
+Destarte, a ausência do laudo pericial direto não pode ser ilidida pela prova testemunhal nem pelo exame indireto, motivo por que deve ser afastada a incidência da referida qualificadora.
+Todavia, conforme bem destacado no parecer do Ministério Público Federal, "o reconhecimento da presente ilegalidade em nada alterará a pena imposta ao recorrente, haja vista a presença de outras duas qualificadoras (escalada e concurso de pessoas) bem como em razão da pena já ter sido fixada no mínimo legal" (fl. 354, grifo no original).
+II. Execução imediata da pena
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial, a fim de reformar o acórdão impugnado e afastar a incidência da qualificadora do rompimento de obstáculo, sem alteração nas reprimendas determinadas na origem.
+Determino o envio de cópia dos autos ao Juízo da condenação para a imediata execução das penas impostas caso os agentes não as estejam cumprindo atualmente.
+Publique-se e intimem-se.
