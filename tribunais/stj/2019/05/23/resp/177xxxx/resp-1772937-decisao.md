@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. APOSENTADORIA POR IDADE RURAL. COMPROVAÇÃO DA ATIVIDADE RURÍCOLA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 284, e-STJ):
+PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. REGIME DE ECONOMIA FAMILIAR. REQUISITOS LEGAIS. PREENCHIMENTO. INÍCIO DE PROVA MATERIAL. COMPLEMENTAÇÃO POR PROVA TESTEMUNHAL.
+1. O trabalhador rural que preencher os requisitos previstos nos artigos 11, VII, 48, § 1º, e 142, da Lei nº 8.213/91, faz jus à concessão do benefício da aposentadoria rural por idade.
+2. Caso em que comprovados o implemento da idade mínima (sessenta anos para o homem e de cinquenta e cinco anos para a mulher) e o exercício de atividade rural, ainda que de forma descontínua, por tempo igual ao número de meses correspondentes à carência exigida para o benefício.
+3. Considera-se demonstrado o exercício de atividade rural havendo início de prova material complementada por prova testemunhal idônea, sendo dispensável o recolhimento de contribuições para fins de concessão do benefício.
+Embargos de declaração rejeitados.
+A parte recorrente alega violação do artigo 1.022 do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito da tese de que o tempo de serviço rural não pode ser reconhecido sem início de prova material, o que não se supera com a apresentação de documentos extemporâneos ao período de carência, mantendo-se omisso quanto ao disposto no artigo 55, § 3º, da Lei 8.213/1991.
+Quanto à questão de fundo, sustenta ofensa aos artigos 11, VII e § 1º, e 55, § 3º, da Lei 8.213/1991, bem como divergência em relação a precedentes do STJ (AgRg no REsp 1.308.744 - MS, AgRg no REsp 1162807/RS, AR 3.994/SP, REsp 1586653/PR) e à Súmula 149/STJ, sob os seguintes argumentos: (a) a Segunda Turma do STJ, no julgamento do REsp 1.304.479/SP, de relatoria do Ministro Herman Benjamin, submetido ao rito do art. 543-C do CPC/1973, firmou a compreensão de que, apesar de o trabalho urbano de um dos membros do grupo familiar não descaracterizar, por si só, os demais integrantes como segurados especiais, a extensão de prova material em nome de um integrante do núcleo familiar a outro não é possível quando aquele passa a exercer trabalho incompatível com o labor rurícola, como o de natureza urbana; (b) conforme assentado nos Temas 297 e 554/STJ, a prova exclusivamente testemunhal não basta à comprovação da atividade rurícola, regra também aplicável aos trabalhadores rurais diaristas, com a ressalva que quanto a estes admite-se mitigação, mediante a apresentação de reduzida prova material desde que complementada por idônea e robusta prova testemunhal; e (c) embora tenho sido apontada prova material do tempo de serviço, verifica-se que ela é absolutamente extemporânea ao período que pretendido para averbação, o que equivale a dizer que inexiste prova para o período.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 344, e-STJ.
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No que diz respeito à questão de fundo, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que a prova documental apresentada atende ao requisito legal e foi complementada por precisa e convincente prova testemunhal, de modo a demonstrar a atividade rural desenvolvida pela segurada.
+É o que se verifica da fundamentação do voto condutor:
+ Como início de prova material do labor rurícola, contam dos autos os seguintes documentos:
+a) certidão de casamento, datada de 21-1-1975;
+b) certidões de nascimento de filhos, com anotação de trabalho rural em nome do marido da autora, datadas de 22-11-1977, 24-12-1981, 10-10-1988 e 22-4-1983;
+c) cadastros de lojas, com anotação da profissão de lavradora em nome da autora, datadas de 6-8-2003 e 28-9-2007;
+d) certidão eleitoral, com anotação da profissão de lavradora em nome da autora;
+e) declaração da Escola Municipal de Lunardelli, onde consta a profissão da autora como de lavradora, datada de 20-5-2013.
+Na audiência de instrução e julgamento realizada em 28 de abril de 2015, às 09h30min, foram inquiridas as testemunhas Edeval Valentim e [NOME], as quais confirmaram o exercício de atividades rurais pela autora, em regime de economia familiar, no período de carência. Afirmaram que a autora sempre trabalhou com agricultura.
+No caso, os documentos juntados aos autos constituem início razoável de prova material, não se exigindo prova documental plena da atividade rural em relação a todos os anos integrantes do período correspondente à carência, mas início de prova material, conforme fundamentação precedente. A prova testemunhal, por sua vez, é precisa e convincente do labor rural da autora em regime de economia familiar, no período de carência legalmente exigido.
+Assim, tem-se que a revisão da conclulsão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, §3º, CPC/2015).
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
