@@ -1,0 +1,12 @@
+DECISÃO
+O paciente acoima de ilegal acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 1.0000.19.021526-9/000, em que foi mantida sua prisão preventiva.
+Requer, liminarmente e no mérito, a concessão do direito de recorrer em liberdade da sentença que o condenou pela incursão nos arts. 157, § 2º, I, 329 e 304, c.c o art. 297, todos do Código Penal.
+Afirma que "os fundamentos utilizados pelo Juízo primevo e pelo Tribunal a quo não encontram respaldo técnico-processual-penal capazes a afastar a presunção de inocência da qual ainda goza o Recorrente" (fl. 112).
+Não concedida a medida liminar e prestadas as informações, foram os autos ao Ministério Público Federal, que pugnou pelo não provimento do recurso.
+Decido.
+Na hipótese, o Juízo de primeiro grau, ao converter a prisão em flagrante, salientou "autuado é reincidente específico, ostentando condenações por roubo majorado e homicídio qualificado, encontrando-se, inclusive, em cumprimento de pena, em gozo de prisão domiciliar, benefício que lhe foi concedido em 28/09/12" (fl. 41).
+Ao manter a segregação cautelar na sentença condenatória, apontou que "o acusado estava em fuga da unidade prisional que foi colocado em liberdade neste tão somente pelo excesso de prazo, reitera condutas graves e que já estava condenado por uso de documentos falsos, o que demonstra clara intenção de se furtar à aplicação da lei penal" (fl. 12).
+A Corte de origem, por sua vez, ao minudenciar o risco de reiteração delitiva, salientou que "a necessidade da prisão cautelar de [NOME] pela sua propensão à prática delitiva, pois, conforme se depreende da CAC de ordem 10 e FAC de ordem 11, o paciente ostenta três condenações transitadas em julgado pelo cometimento dos crimes de homicídio qualificado, roubo majorado, falsificação de documento público e uso de documento falso" (fl. 97, destaquei).
+A esse respeito, urge consignar também que a jurisprudência desta Corte Superior é firme ao asseverar que " i nquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva" (RHC n. 68550/RN, Rel. Min. Sebastião Reis Júnior, 6ª T., DJe 31/3/2016, grifei).
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, nego provimento ao recurso.
+Publique-se e intimem-se.
