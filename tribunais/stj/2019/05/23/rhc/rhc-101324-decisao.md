@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] e PABLO RONE DA SILVA ALKIMIM contra acórdão do Tribunal de Justiça do Estado de Minas Gerais no julgamento do HC n. 1.0000.18.046017-2/000.
+Extrai-se dos autos que os recorrentes foram presos em flagrante em 21/4/2018 por terem supostamente praticado o delito tipificado no art. 157, § 2º, inciso II e § 2º-A do Código Penal (roubo qualificado). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado, in verbis:
+HABEAS CORPUS - ROUBO MAJORADO - RELAXAMENTO DAS PRISÕES PREVENTIVAS - AUSÊNCIA DE NOTA DE CULPA E CIÊNCIA DAS GARANTIAS CONSTITUCIONAIS - MERA IRREGULARIDADE - REVOGAÇÃO DAS PRISÕES PREVENTIVAS - IMPOSSIBILIDADE - DECISÃO FUNDAMENTADA - PRESENÇA DOS REQUISITOS AUTORIZADORES DAS CUSTÓDIAS CAUTELARES DOS PACIENTES - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL - ORDEM DENEGADA. 1- Eventuais ausências da nota de culpa e ciência das garantias constitucionais se tratam de meras irregularidades, não possuindo o condão de nulificar o APFD lavrado em desfavor dos pacientes. 2- Não merece ser acolhida a alegação de ausência de fundamentação, se o il. Magistrado a quo converte as prisões em flagrante dos pacientes em preventiva, ressaltando a necessidade da medida extrema para a garantia da ordem pública, após destacar a presença de prova da materialidade do crime e indícios suficientes de sua autoria. 3- A manutenção das custódias cautelares dos autuados mostra-se necessária para a garantia da ordem pública, especialmente tratando-se de delito doloso e em razão do modus operandi que envolveu a empreitada criminosa.
+V.V. I. A doutrina e a jurisprudência entendem que toda e qualquer espécie de prisão, antes do trânsito em julgado da sentença condenatória, tem natureza cautelar, o que significa dizer, deve estar devidamente comprovada a necessidade de tal restrição da liberdade. II. Se a decisão que contém a decretação da medida extrema não demonstra a periculosidade, em concreto, das ações, em tese, delitivas levadas a cabo pelo paciente, deve ser cassada, para que se veja restabelecida a liberdade do increpado (fl. 130).
+No presente recurso, preliminarmente, sustenta haver nulidade processual decorrente da ausência de nota de culpa e ciência das garantias constitucionais, nos termos do art. 306, § 2º, do Código de Processo Penal.
+Alega ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal - CPP. Aponta que a imposição da custódia cautelar não estaria suficientemente justificada e pautada exclusivamente na gravidade abstrata do delito. Invoca o princípio da presunção de inocência.
+Pondera que a manutenção da custódia cautelar seria desproporcionalmente severa, à luz dos enunciados da Súmula 440 do Superior Tribunal de Justiça e das Súmulas 718 e 719 do Supremo Tribunal Federal.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva para que os recorrentes aguardem em liberdade o trânsito em julgado de eventual condenação.
+A liminar foi indeferida às fls. 170/172. O Ministério Público Federal opinou pelo desprovimento do recurso às fls. 178/184.
+É o relatório.
+Decido.
+Inicialmente, convém ressaltar que a jurisprudência do Superior Tribunal de Justiça é remansosa no sentido de que a homologação da prisão em flagrante e sua conversão em preventiva tornam superado o argumento de irregularidades na prisão em flagrante, diante da produção de novo título a justificar a segregação. Nesse sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. LATROCÍNIO E TENTATIVA DE HOMICÍDIO QUALIFICADO. INÉPCIA DA DENÚNCIA E ILEGALIDADE DA PRISÃO PREVENTIVA. FALTA DE PROVA PRÉ-CONSTITUÍDA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. VIA INADEQUADA. SEGREGAÇÃO FUNDADA NO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL. CUSTÓDIA FUNDAMENTADA E NECESSÁRIA. COAÇÃO ILEGAL NÃO DEMONSTRADA.
+ ..
+NULIDADE DO AUTO DE PRISÃO EM FLAGRANTE. CONVERSÃO DA CUSTÓDIA EM PREVENTIVA. EIVA SUPERADA.
+1. Pacificou-se neste Sodalício o entendimento de que eventuais nulidades no auto de prisão em flagrante restam superadas com a conversão da custódia em preventiva, já que a segregação encontra-se, agora, justificada em outro título. Precedentes.
+2. Recurso desprovido (RHC 95.717/PI, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 22/05/2018, DJe 30/05/2018).
+De resto, observo que o recurso está prejudicado.
+Isso porque, em consulta ao andamento processual no sítio eletrônico do Tribunal de origem, verifica-se que na Ação Penal n. 0010170-42.2018.8.13.0267, de que aqui se cuida, em 8/11/2018, sobreveio a prolatação de sentença condenando os recorrentes. Todavia, não é possível aferir o teor do julgado.
+Consta, ainda, que foi expedido alvará de soltura em favor dos apenados no dia 19/11/2018.
+Dessa forma, inegável a perda superveniente do objeto do recurso.
+Ante o exposto, nos termos do art. 34, inciso XVIII, alínea a, do RISTJ, não conheço do recurso.
+Publique-se. Intimem-se.
