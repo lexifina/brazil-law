@@ -1,0 +1,23 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PRÁTICA DE INFRAÇÃO ENQUANTO PORTADOR DE PERMISSÃO PARA DIRIGIR. ALEGAÇÃO DE OFENSA AO ART. 6o. LINDB. CARÁTER CONSTITUCIONAL. AGRAVO EM RECURSO ESPECIAL DO DETRAN/SP A QUE SE NEGA PROVIMENTO, CONFORME PARECER DO MINISTÉRIO PÚBLICO FEDERAL.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo DEPARTAMENTO ESTADUAL DE TRÂNSITO DO ESTADO DE SÃO PAULO - DETRAN SP, com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão do egrégio TJSP, assim ementado:
+Mandado de Segurança - Prática de infração enquanto portador de permissão para dirigir - Infração passou a ser considerada como de natureza leve - Resolução 453/13 do CONTRAN - Retroatividade da norma mais benéfica - Expedição da CNH definitiva - Possibilidade - Sentença mantida - Recursos desprovidos (fls. 106).
+2. Em seu Apelo Especial, sustenta a parte recorrente violação do art. 6o., § 1o. da LINDB. Defende, em síntese, a ocorrência de ato jurídico perfeito, como o caso da infração de trânsito lavrada em desfavor do recorrido.
+3. Seguiu-se parecer do Ministério Público Federal pelo desprovimento do Agravo em Recurso Especial.
+4. É o relatório.
+5. A irresignação não merece prosperar.
+6. Com efeito, é pacífico o entendimento desta Corte Superior que, em sede de Recurso Especial, não cabe a análise da matéria contida no art. 6o. da Lei de Introdução às Normas do Direito Brasileiro (LINDB) - ato jurídico perfeito, direito adquirido e coisa julgada - pois possui caráter eminentemente constitucional, art. 5o., XXXVI da CF. Precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. COMPLEMENTAÇÃO DE APOSENTADORIA. ACÓRDÃO RECORRIDO QUE POSSUI FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. FALTA DE COMPROVAÇÃO DA INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO CONTRA A DECISÃO QUE NÃO ADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ.DESCABE A ESTA CORTE ANALISAR A EXISTÊNCIA DE DIREITO ADQUIRIDO COM BASE NO ART. 6o. DA LICC EM FACE DE SUA NATUREZA CONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O acórdão do Tribunal de origem fundou-se em matéria constitucional e infraconstitucional e a ora agravante não comprovou a interposição de Agravo de Instrumento contra a decisão que não admitiu o Recurso Extraordinário, o que atrai a incidência da Súmula 126/STJ que preceitua é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.
+2. Fundado o acórdão impugnado também em matéria constitucional, é obrigatória a juntada da certidão que comprova a interposição de Agravo de Instrumento no STF contra a decisão que negou seguimento ao Recurso Extraordinário, como condição de admissibilidade do Recurso Especial.
+3. É ônus do agravante formar o instrumento com as peças obrigatórias e as facultativas, essenciais ao deslinde da controvérsia, sob pena do recurso não ser conhecido.
+4. A análise do instituto do direito adquirido, apesar de também estar previsto em legislação infraconstitucional, não pode ser enfrentada em Recurso Especial em face de sua natureza eminentemente constitucional.
+5. Agravo Regimental a que se nega provimento (AgRg no Ag 1.306.065/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 21.9.2015).
+
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AUSÊNCIA DE OMISSÕES. COMPLEMENTAÇÃO DE APOSENTADORIA. LEGITIMIDADE DO ESTADO DE SÃO PAULO. EXAME DE DIREITO LOCAL. SÚMULA N. 280/STF. VIOLAÇÃO DE DIREITO ADQUIRIDO. QUESTÃO DE NATUREZA CONSTITUCIONAL. INVIABILIDADE EM RECURSO ESPECIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há falar em violação do art. 535, inc. II, do CPC quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+2. A análise da pretensão recursal implicaria interpretação de norma local, insuscetível de análise em sede de recurso especial, nos termos da Súmula n. 280/STF.
+3. Mesmo quando suscitado violação de dispositivos da Lei de Introdução às Normas do Direito Brasileiro, a natureza constitucional das questões atinentes à não observação de coisa julgada, de ato jurídico perfeito e de direito adquirido as impede de serem analisadas em recurso especial.
+4. Agravo regimental não provido (AgRg no AREsp. 723.466/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 31.8.2015).
+7. Diante dessas considerações, nega-se provimento ao Agravo em Recurso Especial do DETRAN/SP.
+8. Publique-se. Intimações necessárias.
