@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Agravo de Execução n. 9000038-58.2018.8.26.0637).
+De acordo com os autos, o Juízo da Vara de Execuções Penais deferiu o pedido de indulto formulado em favor do paciente, com fundamento no art. 1º, I do Decreto Presidencial n.º 8.615/2015 (fls. 25/27).
+Interposto agravo em execução pelo Ministério Público, o Tribunal de origem deu provimento ao recurso (fls. 51/53).
+Neste habeas corpus, a impetrante alega que o paciente sofre constrangimento ilegal, uma vez que o fundamento utilizado para obstaculizar o indulto - a natureza hedionda do crime - não subsiste, porquanto contrária a jurisprudência.
+Informa que o STF entende que o tráfico privilegiado de entorpecentes deve receber tratamento distinto daquele atribuído aos crimes hediondos e equiparados, uma vez que é crime menos grave ou com menor reprovação.
+Afirma que preencheu todos os requisitos necessários para a concessão da benesse, de acordo com o Decreto n.º 8.615/15.
+Requer a concessão da ordem constitucional para que seja deferido o indulto ao paciente, nos termos do art. 1º, IV, do Decreto n.º 8.615/15.
+Pedido liminar indeferido às fls. 59/60.
+Informações prestadas às fls. 62/66, 70/74, 75/90 e 93/101.
+Manifestação do Ministério Público Federal às fls. 104/105.
+É o relatório.
+Inicialmente, cumpre atestar a inadequação de via eleita para a insurgência do impetrante contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento.
+Entretanto, o caso será, excepcionalmente, examinado a fim de afastar ilegalidade evidente, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Embora esta Corte Superior de Justiça tenha firmado entendimento, em julgamento de recurso especial representativo da controvérsia, no sentido de que "a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 não afasta a hediondez do crime de tráfico de drogas, uma vez que a sua incidência não decorre do reconhecimento de uma menor gravidade da conduta praticada e tampouco da existência de uma figura privilegiada do crime" (REsp 1.329.088/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 13/03/2013, DJe 26/04/2013), é imperioso ressaltar que o Supremo Tribunal Federal, no julgamento do HC 118.533/MS, sob a relatoria do em. Ministro Ricardo Lewandowski, decidiu que o delito de tráfico privilegiado não tem caráter hediondo.
+Ainda que a referida decisão do Pretório Excelso seja desprovida de efeito vinculante, reflete o posicionamento da maioria do Plenário do Órgão legitimado a interpretar a Constituição Federal, razão pela qual passou a ser adotado também neste Superior Tribunal de Justiça, com o cancelamento, inclusive, do enunciado n. 512/STJ, conforme se infere dos seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PACIENTE CONDENADO POR TRÁFICO PRIVILEGIADO E POR TRÁFICO PREVISTO NO CAPUT DO ART. 33 DA LEI N. 11.343/2006. REINCIDÊNCIA ESPECÍFICA AFASTADA. LIVRAMENTO CONDICIONAL PASSÍVEL DE SER CONCEDIDO.
+1. Após o Supremo Tribunal Federal julgar o HC n. 118.533/MS, afastando o caráter hediondo do tráfico de drogas praticado na forma do art. 33, § 4º, da Lei n. 11.343/2006, a Terceira Seção desta Corte, no julgamento da Pet n. 11.796/DF, determinou a revisão do entendimento consolidado no julgamento do Recurso Especial n.
+1.329.088/RS, admitido como representativo de controvérsia, a fim de acolher a tese segundo a qual o tráfico ilícito de drogas na sua forma privilegiada (art. 33, § 4º, da Lei n. 11.343/2006) não é crime equiparado a hediondo, com o consequente cancelamento do enunciado n. 512 da Súmula do Superior Tribunal de Justiça.
+2. Ademais, "esta Corte Superior de Justiça consolidou entendimento no sentido de afastar a reincidência específica em relação ao tráfico privilegiado e o tráfico previsto no caput do art. 33 da Lei de Drogas" (HC n. 471.013/SP, relator o Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16/10/2018).
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC 455.227/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 13/11/2018, DJe 26/11/2018)
+Ante o exposto, com fundamento no artigo 34, inciso XX, do Regimento Interno deste Superior Tribunal de Justiça, não se conhece do presente habeas corpus, concedendo-se, contudo, a ordem de ofício, nos termos do artigo 654, § 2º, do Código de Processo Penal, para afastar o caráter hediondo do crime previsto no art. 33, § 4º, da Lei n. 11.343/06, determinando-se nova análise do pedido de indulto, nos termos do Decreto Presidencial n.º 8.615/15.
+Publique-se. Intime-se.
