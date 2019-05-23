@@ -1,0 +1,112 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO POR DANOS MATERIAIS. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir pela inexistência de nexo de causalidade entre o dano sofrido pelo recorrente e a conduta da instituição financeira. Alterar esse entendimento é inviável em recurso especial.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 682/691) interposto por [NOME] contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial devido à incidência da Súmula n. 7 do STJ.
+Neste recurso, o agravante alega que não pretende o reexame de provas e afirma que ficou demonstrado que os "fatos incontroversos tiveram valoração jurídica equivocada, violando os artigos 186 e 927, ambos do Código Civil e 14 e 17, ambos do Código de Defesa do Consumidor, pois a existência ou não de fundos no dia 14/02/2011, não pode sequer ser considerada causa remota, pois ao agravante teria sido permitido reapresentar o cheque devolvido pela alínea 11 em momento oportuno (durante o prazo de 6 meses) em que houvesse saldo disponível para compensação da cártula, caso o Banco do Brasil houvesse cumprido as normas legais veiculadas nas Resoluções 2747 e 3972 do BACEN, bem como nos artigos 35 e 36 da Lei nº 7.357/85" (e-STJ fl. 687).
+Ao final, pede a reconsideração da decisão agravada ou a apreciação deste recurso pelo Colegiado.
+Houve impugnação (e-STJ fls. 698/699).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO POR DANOS MATERIAIS. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir pela inexistência de nexo de causalidade entre o dano sofrido pelo recorrente e a conduta da instituição financeira. Alterar esse entendimento é inviável em recurso especial.
+3. Agravo interno desprovido.
+
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.366.498 - DF (2018/0243139-0)
+
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+[NOME]
+ADVOGADOS
+:
+[NOME] - [OAB]
+
+NAYARA SOARES SANTANA E OUTRO(S) - [OAB]
+
+RODRIGO [NOME] DE MOURA - [OAB]
+AGRAVADO
+:
+BANCO DO BRASIL SA
+ADVOGADOS
+:
+[NOME] - [OAB]
+
+RAFAEL SGANZERLA DURAND E OUTRO(S) - [OAB]
+INTERES.
+:
+HYP ENTRETENIMENTOS LTDA
+INTERES.
+:
+[NOME]
+ADVOGADO
+:
+DEFENSORIA PÚBLICA DO DISTRITO FEDERAL
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 676/679):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por [NOME] contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 621/624).
+O acórdão recorrido está assim ementado (e-STJ fl. 438/428):
+CIVIL. PROCESSO CIVIL. APELAÇÃO. RECURSOS INTERPOSTO PELO AUTOR. INOVAÇÃO RECURSAL. CONHECIMENTO EM PARTE. RECURSO INTERPOSTO PELA CURADORIA DE AUSENTES. CITAÇÃO POR EDITAL. PUBLICAÇÃO EM DOIS JORNAIS DE GRANDE CIRCULAÇÃO NA MESMA DATA. NULIDADE. NÃO CONFIGURAÇÃO. AGRAVO RETIDO. CONHECIMENTO. INDEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL. CERCEAMENTO DE DEFESA. NÃO PROVIMENTO. REPARAÇÃO POR DANOS MATERIAIS. RESPONSABILIDADE SOLIDÁRIA. NÃO CARACTERIZAÇÃO. FATOS CONSTITUTIVOS DO DIREITO ALEGADO EM RELAÇÃO AO TERCEIRO REQUERIDO. CULPA EXCLUSIVA DE TERCEIROS. AUSÊNCIA DE NEXO DE CAUSALIDADE. AUTOR. DEMONSTRAÇÃO DOS FATOS CONSTITUTIVOS DE SEU DIREITO. PORTADOR DE CHEQUE EMITIDO PELOS REQUERIDOS. RECURSOS CONHECIDOS E NÃO PROVIDOS. SENTENÇA MANTIDA.
+1. Não se conhece de pedido recursal não submetido à análise do Juízo singular, por tratar-se de inovação cujo exame ensejaria supressão de instância. Tampouco merece conhecimento pedido relativo a matéria preclusa no curso da relação processual.
+2. Para a validade da citação por edital, exige-se, dentro outros requisitos, que a publicação seja realizada no intervalo máximo de 15 (quinze) dias, conforme art. 232, III, do CPC/73. Assim, conclui-se que não há determinação de intervalo mínimo entre uma publicação e outra em jornais de grande circulação, devendo ser observado o intervalo máximo .
+3. O magistrado é o destinatário das provas no processo e possui liberdade plena para sua apreciação, bem como para deferir ou não as diligências solicitadas. A dilação probatória é útil tão-somente ao convencimento do julgador, que não é obrigado a deferir produção de prova considerada inútil para tal fim ou meramente protelatória. Assim, caso o juiz entenda que os elementos constantes dos autos são suficientes à formação de sua convicção, poderá indeferir as provas reputadas impertinentes. Agravo retido conhecido e não provido.
+4. O fato de o banco requerido não ter cumprido com as resoluções acima elencadas, ao deixar de exigir boletim de ocorrência para a sustação do cheque dado como roubado, não é elemento suficiente ao autor para conseguir sua condenação ao pagamento da quantia estampada na cártula, sendo importante lembrar que o Banco demonstrou que na data de sua apresentação, a conta não possuía saldo para a quitação do cheque. Assim, aplicável à espécie o disposto no art. 14, §3º, II do CDC.
+5. Nos termos do artigo 373, I, do Código de Processo Civil, compete ao autor o ônus da prova dos fatos constitutivos do seu direito.
+6. O autor se desincumbiu de seu ônus probatório, pois demonstrou, através da cártula, possui como características a literalidade e a autonomia, que é credor da quantia de R$ 150.000,00 (cento e cinquenta mil reais) em razão de título emitido pelo segundo requerido, em nome da empresa Hyp Entretenimentos Ltda, primeira requerida.
+7. Recurso da Curadoria de Ausentes conhecido e recurso do autor parcialmente conhecido. Recursos não providos. Agravo retido conhecido e não provido. Sentença mantida.
+Os embargos de declaração foram conhecidos, tendo o acórdão a seguinte ementa (e-STJ fls. 501/502):
+EMBARGOS DE DECLARAÇÃO. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. OMISSÃO. VÍCIO EXISTENTE. INTEGRALIZAÇÃO. PERDA CHANCE. OCORRENTE. DANO MATERIAL. INEXISTENTE. CAUSALIDADE. AUSENTE. EMBARGOS CONHECIDOS E PROVIDOS. ACÓRDÃO INTEGRALIZADO.
+1. Omissão ocorrente, pois o acórdão deixou de analisar o argumento da parte quanto à perda de chance, que poderia levar à condenação do embargado ao pagamento de danos materiais.
+2. Integralização do acórdão.
+2.1. Perda de chance verificada, ante a possibilidade de o embargante autor apresentar o cheque posteriormente, caso o banco réu tivesse observado o regramento e exigido o boletim de ocorrência para sustação do cheque.
+2.2. A ocorrência de perda de chance não gera o dever de indenizar ante a ausência de causalidade.
+2.3. A ocorrência de ilícito não enseja indenização se não se verificarem presentes os demais requisitos indispensáveis à sua caracterização, quais sejam: o dano, a culpa e o nexo de causalidade ligando o ilícito ao efeito lesivo ocorrido. Inteligência dos artigos 186 e 927 do Código Civil.
+2.4. O que gerou o dano material foi o negócio mal sucedido entre o autor embargante e os dois primeiros réus; não podendo a causalidade ser atribuído ao banco réu embargado.
+3. Recurso conhecido e provido, sem efeitos infringentes.
+Acórdão integralizado
+Nas razões do recurso especial (e-STJ fls. 517/540), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou ofensa aos arts. 186 e 927 do CC/2002 e 14 e 17 do CDC, por entender não ser cabível a exclusão do Banco do Brasil da lide, vez que responsável pelos danos, devendo responder por sua reparação. Indicou precedentes.
+No agravo (e-STJ fls. 626/652), afirma a presença de todos os requisitos de admissibilidade do especial.
+Houve contraminuta (e-STJ fls. 658/663).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Analisando a responsabilidade do Banco do Brasil, os julgadores assim consideraram (e-STJ fls. 454/455):
+Depreende-se, assim, que a responsabilidade civil do terceiro requerido é objetiva, fundada no risco da atividade por ela desenvolvida, não se fazendo necessário perquirir acerca da existência de culpa, "sua ocorrência é irrelevante e sua aferição desnecessária, pois não há interferência na responsabilização" (ALMEIDA, João Batista de. Manual de direito do consumidor. São Paulo: Saraiva, 2003, p. 61).
+Em tais casos, para a reparação de danos, basta a comprovação do nexo de causalidade entre o defeito do serviço e o evento danoso experimentado pela parte.
+Entretanto, o fato de o banco requerido não ter cumprido com as resoluções acima elencadas, ao deixar de exigir boletim de ocorrência para a sustação do cheque dado como roubado, não é elemento suficiente ao autor para conseguir sua condenação ao pagamento da quantia estampada na cártula, sendo importante lembrar que o Banco demonstrou que na data de sua apresentação, a conta possuía apenas a quantia de R$ 5,83 (cinco reais e oitenta e três centavos) de crédito (fls. 271).
+Assim, aplicável à espécie o parágrafo 3º, II, do mesmo artigo 14: O fornecedor de serviços só não será responsabilizado quando provar: (..) II - a culpa exclusiva do consumidor ou de terceiro.
+O autor ter deixado de receber o valor nominal do cheque emitido pela primeira requerida não se deveu ao fato de o cheque ter sido sustado de maneira irregular pelo Banco do Brasil pois, conforme ficou provado nos autos (fl 271), o saldo da conta corrente na data de apresentação do cheque era de R$ 5,83 (cinco reais e oitenta e três centavos). Assim, é fácil perceber se a cártula não tivesse sido sustada, teria sido devolvida por a conta estar sem fundos para o pagamento do cheque.
+O que se conclui é que mesmo que o Banco réu não tivesse cumprido a contra ordem de sustação do cheque, o autor experimentaria o prejuízo, pois não havia saldo suficiente para o pagamento da ordem.
+A condenação do Banco do Brasil somente seria possível se, ante a falha na prestação de serviço, a conta estivesse provida de saldo na data da apresentação e o cheque tivesse sido devolvido em razão da sustação.
+Assim, reputo que deve ser afastada a responsabilidade do Banco do Brasil.
+(..)
+Conclui-se, portanto, pela ausência de nexo de causalidade imediata entre a falha da instituição bancária e o dano sofrido pelo autor.
+Em embargos de declaração, complementaram (e-STJ fls. 508/510):
+Entretanto, por mais que tenha perdido a chance de reapresentar o cheque, ainda assim não resta demonstrado o nexo causal do prejuízo material experimentado com a conduta do terceiro requerido. Vislumbra-se a possibilidade de que a conduta tenha causado dano moral - que não é objeto desta ação - mas não dano material.
+(..)
+Entretanto, responsabilidade objetiva não significa responsabilidade incondicional, pois apesar de dispensar a perquirição da culpa, não exclui os outros pressupostos da responsabilidade civil, quais sejam, a ação ou omissão, o dano e a relação de causalidade entre ambos.
+A responsabilidade civil tem como premissa a ocorrência do ato ilícito, ou seja, do ato lesivo. Entretanto, a simples ocorrência de ilícito não enseja indenização se não se verificarem presentes os demais requisitos indispensáveis à sua caracterização, quais sejam: o dano, a culpa e o nexo de causalidade ligando o ilícito ao efeito lesivo ocorrido (artigos 186 e 927 do Código Civil). Ausente qualquer um desses pressupostos, a responsabilidade civil não emerge.
+Do mesmo modo, ainda que caracterizados o ilícito e o dano, se não restarem evidenciados o nexo de causalidade entre o ato e o efeito, o autor do ilícito não pode ser responsabilizado.
+(..)
+Nesse contexto, cabe verificar se existe relação de causalidade entre o dano que sofreu o apelante e a falta de exigência de boletim de ocorrência para sustação do cheque, em descumprimento às Resoluções Normativas 2747 e 3972 do Banco Central.
+É neste ponto em que verifico a quebra no nexo de causalidade, já que a ausência de atualização do cadastro dos réus e a falta de exigência de apresentação do boletim de ocorrência não são a causa direta do prejuízo sofrido pelo autor.
+Lembro, ainda, que tem razão o sentenciante quando aponta que:
+(..) de acordo com a narrativa apresentada pelo autor em sua inicial, no dia da emissão do cheque, o segundo autor teria lhe dito que não teria a quantia depositada na conta corrente, mas que haveria o recebimento de crédito. Ou seja, o requerente tinha consciência que, no momento da emissão do cheque, não haveria saldo suficiente para seu adimplemento.
+Ainda, outro fato que demonstra a ausência de saldo para o adimplemento do cheque trata-se da narrativa apresentada pelo autor de que já teria tomado conhecimento do golpe praticado pelo segundo réu no momento do recebimento da cártula, considerando a informação repassada pelo gerente do restaurante Shaya. Igualmente, o próprio autor narra ter buscado ressarcimento por vários meios, mas que todas as tentativas foram infrutíferas, oportunidade em que aceitou o recebimento da cártula.
+Conclui-se, pois, que o ato que gerou o dano material ao autor foi o negócio mal sucedido entabulado entre ele e os dois primeiros réus, não podendo ser atribuído ao Banco do Brasil o dano material apontado.
+Tendo a Turma julgadora assim decidido com base na análise dos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ, fundamento cabível para as alíneas "a" e "c" do permissivo constitucional.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Como delineado na decisão agravada, concluíram os julgadores que o ato que gerou o dano material ao agravante foi o negócio mal sucedido entabulado entre ele e os dois primeiros réus da demanda, não podendo ser atribuído ao Banco do Brasil o dano material apontado. Para chegar a tal entendimento, foi necessária a análise dos elementos de prova constantes dos autos, cujo reexame é inviável no âmbito desta Corte, nos termos da Súmula n. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
