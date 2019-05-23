@@ -1,0 +1,35 @@
+Decisão: Trata-se de habeas corpus impetrado por Jacier Rosa Dias, em seu próprio favor, contra decisão monocrática de Ministro Relator do STJ, nos autos do HC 509.700/RO.
+    Colho o relatório da decisão impugnada:
+    “Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em benefício de JACIER ROSA DIAS, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Rondônia.
+    Depreende-se dos autos que a Defesa impetrou o habeas corpus n. 0003612-64.2017.8.22.0000, o qual foi julgado ainda em 10/08/2017, ou seja, há quase dois anos, na época em que o paciente ainda estava sendo processado, "o qual objetivava o trancamento da ação penal de n. 0003398-65.2016.8.22.0014, manifestamente inepta, formal e materialmente, aduzindo, para tanto, os fundamentos fáticos e jurídicos doravante delineados" (fl. 4).
+    O v. acórdão restou assim ementado (fls. 83-91):
+    ‘Habeas Corpus. Trancamento de ação penal. Excepcionalidade. Ausência de elementos contrários. Alegação de justa causa. Necessidade de valoração do conjunto fático probatório. O trancamento da ação penal ocorre somente quando preenchidos os requisitos mínimos e contrários à convicção da denúncia, revelando-se temerária, pois a denúncia descreve de forma satisfatória e objetiva os elementos necessários à instauração da ação penal, em atenção ao disposto na regra legal. Ordem denegada.’
+    Em 30/08/2017, contudo, sobreveio a sentença que condenou o paciente como incurso no art. 1º, caput, da Lei n. 9.613/98 e no art. 180, caput, do Código Penal, na forma do art. 69 do Código Penal, às penas de 06 (seis) anos e 08 (oito) meses de reclusão e pagamento de 32 (trinta e dois) dias-multa (fl. 382).
+    Daí o presente habeas corpus, em que a Defesa sustenta, em suma, haver constrangimento ilegal, haja vista a denúncia não ter obedecido os ditames do art. 41 do CPP, não haver justa causa, assim como pela atipicidade das condutas naquela narradas.
+    Nesse sentido, alega: a) inépcia formal da acusatória em relação ao crime de receptação de bem imóvel; b) a imputação pelo delito de lavagem de capitais (art. 1º da Lei n. 9.613/98) se deu em total dissonância com a realidade dos fatos; c) houve o uso indevido das declarações "inverídicas" do delator; e d) excesso de acusação pelo mesmo fato (bis in idem).
+    Requer a concessão da ordem, inclusive LIMINARMENTE, para o ‘sobrestamento da marcha processual referente ao Paciente, nos autos da Ação Penal nº 0003398- 65.2016.8.22.0014, até que seja julgado o mérito do presente Habeas Corpus [...] No mérito, requer a concessão da ordem, em definitivo, a fim de que se determine o trancamento da ação penal nº 0003398- 65.2016.8.22.0014, reconhecendo-se a (i) inépcia formal e (ii) material da denúncia, vez que, além de não narrar os delitos com toas as suas circunstâncias, é totalmente desamparada de lastro probatório mínimo, haja vista que (iii) calcada, única e exclusivamente, nas palavras do delator, que são insofismavelmente desmentidas pela documentação anexa (prova pré- constituída) [...]
+    Por fim, requer sejam as futuras publicações e intimações realizadas em nome do impetrante, notadamente para fins de sustentação oral, sob pena de nulidade, nos termos do §1º do artigo 370 do Código de Processo" (fl. 80, grifei).
+    É o relatório“. (fls. 165-166)
+    No STJ, o habeas corpus não foi conhecido.
+    Nesta Corte, o impetrante reitera os pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo colegiado do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, inciso XXXV, CF), a aplicação desse entendimento jurisprudencial pode ser afastada na ocorrência de patente constrangimento ilegal ou abuso de poder, o que não verifico no presente caso.
+    É que, quando denunciada, o paciente buscou o reconhecimento da inépcia da denúncia no TJRO, por meio de habeas corpus, cuja ordem foi denegada em acórdão proferido em 10.8.2017. (fls. 205)
+    Em 14.5.2019, o paciente, depois de condenado, vai até o STJ para impugnar o acórdão proferido há quase dois anos. No ponto, registrou o Superior Tribunal:
+    “Ora, de plano, já se afasta o alegado periculum in mora, haja vista o transcurso de quase dois anos tanto do v. acórdão combatido quanto da sentença condenatória, que, aliás, é superveniente e incompatível com o título que se busca combater.
+    A superveniência da condenação não justifica mais a argumentação aqui utilizada, a qual se volta exclusivamente em face da denúncia e de seu recebimento. Assim, a sentença condenatória representa novo título, renovando-se, inclusive, a situação do paciente, que passa de réu a condenado.
+    Portanto é contra ela é que deve ter se manifestado o v. acórdão do eg. Tribunal de origem, e não em face de decisões interlocutórias, há muito, ultrapassadas e até mesmo abarcadas pelo fenômeno da preclusão.
+    Nesse sentido, esta Corte entende que "[…] importa reconhecer que o pedido de trancamento do processo por falta de justa causa para o exercício da ação penal e inépcia da denúncia restou prejudicado pela superveniência de sentença condenatória nos autos do processo-crime. Precedentes" (AgRg no HC 223.667/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 14/08/2018).
+    Em outras palavras, não existindo manifestação do eg. Tribunal em face do constrangimento ilegal (no caso, a condenação), esta Corte não possui competência para apreciar a impetração (art. 105, incisos I e II, da CF; e art. 13, incisos I e II, do RISTJ).
+    Igualmente, inexiste o interesse de agir, tendo em vista que o v. acórdão, já tão longínquo e ultrapassado pela sentença condenatória, não faria sentido estar causando tamanho constrangimento, há quase dois anos, e ainda depois da condenação, que, no caso concreto, tampouco foi recente”. (fls. 167-168)
+    Como bem pontuo o STJ, não é crível que a alegada ilegalidade haja sido percebida somente após dois anos de publicado o acórdão do TJRO, que tratou da regularidade da denúncia, e apenas depois de publicada a sentença condenatória.
+    A insurgência do paciente, nesta fase, deve ter como alvo a sentença, pois já escoado o prazo para se insurgir contra a denúncia.
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 23 de maio de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
