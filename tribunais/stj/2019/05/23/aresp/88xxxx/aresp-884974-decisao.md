@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA CRISTINA DA ROCHA MARTINS, em que pretende a admissão de recurso especial, que desafia acórdão assim ementado (e-STJ fl. 398):
+Ação declaratória de nulidade de lançamento tributário c/c obrigação de fazer.
+ITBI.
+Pleito de nulidade do lançamento do ITBI, a pretexto de que o ente municipal utilizara como base de cálculo o valor venal da unidade imobiliária erigida, quando, o correto, ao ver da autora, seria o valor de aquisição da fração ideal do terreno em que construída.
+Sentença de improcedência, à mingua de prova qualquer acerca da ilegalidade ou excesso de exação.
+Apelação da parte autora, a que se negou seguimento.
+Agravo inominado do § 1º, do artigo 557 do Código de Processo Civil, manejado pelo réu.
+A base de cálculo do ITBI é o valor venal dos bens ou direitos transmitidos (CTN, art. 38), correspondente ao respectivo de mercado, que não se vincula ao preço de sua aquisição apontado pelas partes no negócio jurídico celebrado, tanto mais porque o artigo 148 do Código Tributário Nacional autoriza à autoridade lançadora arbitrar o valor do tributo nas hipóteses em que se verifique omissão ou não mereçam fé as declarações ou esclarecimentos prestado pelo sujeito passivo do tributo.
+Lançamento tributário que, tal como todo ato administrativo, goza de presunção relativa de legitimidade e legalidade, cabendo ao interessado a prova em contrário.
+Autora que, contundo, não se desincumbira a contento do ônus da prova dos fatos constitutivos de seu direito -- CPC, art. 333, I --, em especial através de prova pericial -- cuja realização sequer foram postulada -- a fim de demonstrar ao menos, que a base de cálculo do ITBI objurgado fora a unidade imobiliária erguida, tal como se alega.
+Conjunto probatório que se limita a demonstrar que a base de cálculo da exação fora, de fato, fixada em R$ 442.993,14 (quatrocentos e quarenta e dois mil, novencentos e noventa e três reais e quatorze centavos), o que, só por si, ante a presunção de legitimidade e legalidade dos atos administrativos, não se afigura suficiente a crer que o fora de forma equivocada, nem, tampouco, que o arbitramento fora excessivo, à míngua de prova pericial que o demonstrasse.
+Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 415/419).
+No apelo nobre (e-STJ fls. 424/426), a recorrente apontou violação do art. 30 da Lei n. 4.591/1964 e do art. 110 do CTN. Sustentou, em síntese, a nulidade do lançamento do ITBI, pois, seguindo ela, o fisco teria indevidamente adotado como base de cálculo o valor de mercado de seu apartamento, quando deveria ter utilizado o valor da fração ideal do terreno adquirido, visto que o imóvel foi erguido por construtora contratada (por administração) pelos condôminos, cujos serviços estão sujeitos ao ISS.
+Contrarrazões às e-STJ fls. 781/787.
+O Tribunal de origem obstou o recurso especial com base na Súmula 282 do STF (e-STJ fls. 794/795), fundamento com o qual não concorda a agravante (e-STJ fls. 804/833).
+Contraminuta às e-STJ fls. 839/847.
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Feita essa consideração, verifico que o recurso especial em comento não merece ser mesmo admitido, pois, consoante assentado pela decisão a quo, os dispositivos de lei federal tido por violados, a despeito da oposição de embargos de declaração, não foram efetivamente apreciados pelo acórdão recorrido, carecendo o recurso especial do requisito do prequestionamento, nos termos da Súmula 211 do STJ.
+Não o bastante, a Corte estadual decidiu que a recorrente não conseguiu comprovar a incorreção da base de cálculo adotada pelo ato de lançamento, notadamente a alegada inclusão na base de cálculo do valor da construção do imóvel erguida no terreno. Vide:
+Malgrado seus esforços, não logrou a agravante demonstrar o desacerto da decisão agravada.
+É que de todo o conjunto probatório se recolhe tão somente que a base de cálculo da exação fora fixada em R$ 442.993,14 (quatrocentos e quarenta e dois mil, novecentos e noventa e três reais e quatorze centavos) (índice eletrônico 00149), o que, só por si, não autoriza a conclusão por que se bate a agravante, qual a de que incluído na monta sobre que calculado o ITBI, também o valor das benfeitorias soerguidas na fração ideal do terreno por si adquirida, e havida por construção própria, nem, tampouco, que o arbitramento fora excessivo.
+De outro modo, o lançamento tributário, como ato administrativo que é, goza de presunção relativa de legitimidade e legalidade, pelo que cabeira à parte autora a prova em contrário, mediante realização de perícia técnica, único meio idôneo de se demonstrar eventual equívoco na fixação e/ou aferição da base de cálculo da exação pela Municipalidade.
+Assim, como na hipótese, a autora não se desincumbira a contento do ônus da prova dos fatos constitutivos de seu direito -- CPC, art. 333, I --, em especial através de prova pericial -- cuja realização sequer fora postulada (índices eletrônicos 00190/00191) -- a fim de demonstrar, ao menos, que a base de cálculo do ITBI objurgado fora a unidade imobiliária erguida, tal como se alega, havida por construção própria, não assim o valor venal, ou não, da fração ideal adquirida, não cobra achegas quaisquer o julgado.
+Nesse contexto, tem-se que a revisão do acórdão recorrido pressupõe reexame de prova, providência inviável no âmbito do recurso especial, consoante veto contido na Súmula 7 do STJ.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Publique-se. Intimem-se.
