@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Norte confirmou o entendimento do Juízo quanto à extinção de processo sem resolução de mérito, por não constar o executado no título judicial. No extraordinário cujo trânsito busca alcançar, a recorrente aponta a violação dos artigos 1º, inciso III, 5º, cabeça, incisos V, X, XXXV, XLIX, LXXVIII, e parágrafos 1º, 2º, 3º, 37º, § 6º e 97 da Constituição Federal.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    EMENTA: PROCESSUAL CIVIL. APELAÇAO CÍVEL. LIQUIDAÇÃO DE TÍTULO JUDICIAL PARA FINS DE EXECUÇÃO CIVIL DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO POR CARÊNCIA DE AÇÃO ANTE A ILEGITIMIDADE PASSIVA AD CAUSAM. SENTENÇA PROFERIDA NO ÂMBITO PENAL QUE NÃO SE PRESTA A EMBASAR EXECUÇÃO NO CÍVEL. ILEGITIMIDADE DO ESTADO APELADO, VEZ QUE NÃO FIGUROU NA DEMANDA PENAL COMO PARTE PASSIVA. O HORIZONTE LEGITIMADOR SE EXAURE POR QUEM SE ENCONTRA CONDENADO NA SENTENÇA PENAL. LEGITIMADO PASSIVO NA DEMANDA EXECUTÓRIA É APENAS O CONDENADO/DEVEDOR RECONHECIDO COMO TAL NO TÍTULO EXECUTIVO. NÃO TENDO O ESTADO. APELADO ATUADO COMO PARTE, DA AÇÃO PENAL QUE ORIGINOU O TÍTULO JUDICIAL EMBASADOR DA PRESENTE EXECUÇÃO, SE AFIGURA ILEGÍTIMA SUA INTEGRAÇÃO NO PÓLO PASSIVO DA RELAÇÃO PROCESSUAL EM ANÁLISE. PRETENSÃO AUTORÁL QUE DEVE SER ALMEJADA PERANTE AS VIAS ORDINÁRIAS EM PROCESSO DE CONHECIMENTO. SENTENÇA QUE SE MANTEM PELOS PRÓPRIOS FUNDAMENTOS. CONHECIMENTO E DESPROVIMENTO DA APELAÇÃO CÍVEL.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso. Ora, nem como muito empenho seria dado concluir pela violação aos preceitos constitucionais indicados.
+    Acresce revelar o ato questionado interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter ao Supremo controvérsia que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    4. Conheço do agravo e o desprovejo.
+    5. Publiquem.
+Brasília, 24 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
