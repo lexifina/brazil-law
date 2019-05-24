@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 238):
+    “Anulação de ato administrativo — Intervenção do SINDICOM como assistente da Fazenda do Estado — Impossibilidade — Inteligência do art. 50 do CPC - Venda de combustível dentro da margem de erro permitida pela legislação que rege a matéria — Sentença de parcial procedência — Recurso desprovido. ”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fundamento no art. 102, III, a e d, do permissivo constitucional, aponta-se a violação dos arts. 5º, II; 18, caput; 23, I; 24, I e § 1º; 37, caput; e 155, II; todos da Carta da República.
+    Nas razões recursais, sustenta-se, em suma, que “O comando legal é incisivo ao determinar a cassação da eficácia da inscrição quando comprovada, no que interessa ao caso, a estocagem de combustível em desconformidade com as especificações estabelecidas pelo órgão competente.” (eDOC 2, p. 275)
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário com base nas Súmulas 282 e 356 do STF (eDOC 2, p. 308).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Quando do julgamento da apelação, o Tribunal de origem asseverou (eDOC 2, pp. 240-241):
+    “A Portaria CAT 28/05 editada com base na lei estadual nº 11.929/05, estabelece em seu artigo 1º a possibilidade de cancelamento da inscrição estadual de estabelecimento que revender derivados de petróleo em desacordo com as especificações estabelecidas pelo órgão regulador competente, e em seu artigo 2° dispõe que essa desconformidade deve ser comprovada por meio de laudo elaborado pela Agência Nacional de Petróleo ou por entidade por ela credenciada ou com ela conveniada.
+    (…)
+    Importante destacar, repita-se, que no caso em epígrafe, a questão envolve apenas divergência quanto condutividade do álcool alcoólico e não a adição de marcadores ou outros produtos que efetivamente alteram a qualidade do combustível, o que é inaceitável.
+    Não se pode desconsiderar que postos de combustíveis fazem reposições de estoque constantemente e a pequena margem de diferença no produto constante do tanque onde foi retirada a amostra pode dar ensejo à variação ocorrida.
+    Obtempere-se que o autor comercializa combustíveis distribuídos por empresa proveniente da cidade de Paulínia (f1s.115), não havendo indícios de dolo ou má-fé, ainda mais porque ausente o motivo ensejador de eventual deliberação locupletamento ilícito.”
+    Nesse passo, como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos e o exame da legislação local aplicável à espécie (Lei Estadual nº. 11.929/05), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido:
+    “EMENTA: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO DE NULIDADE DE ATO ADMINISTRATIVO. CASSAÇÃO DE INSCRIÇÃO ESTADUAL. COMERCIALIZAÇÃO DE COMBUSTÍVELADULTERADO. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280/STF. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTES DOS AUTOS. SÚMULA 279/STF. RECURSO MANIFESTAMENTE INADMISSÍVEL. IMPOSIÇÃO DE MULTA. 1. Dissentir da conclusão adotada pelo Tribunal de origem, implica análise da legislação infraconstitucional local (Súmula 280/STF), bem como no reexame dos fatos e do material probatório contantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário. Precedentes. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (ARE 1.004.135-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 10.2.2017).
+    “Ementa: PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE. SÚMULA 279/STF. ANÁLISE DE DIREITO LOCAL. SÚMULA 280/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE 585.119-ED-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 8.6.2014).
+    Ademais, na espécie, ressalta-se que a violação do princípio da legalidade demanda necessariamente a análise de atos normativos infraconstitucionais. Aplicável à espécie, portanto, a súmula 636 do STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Ante o exposto, nego provimento ao recurso, nos termos dos arts. 932, IV, a, do CPC, e 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 24 de maio de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
