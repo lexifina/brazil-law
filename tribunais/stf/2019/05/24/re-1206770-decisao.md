@@ -1,0 +1,25 @@
+Trata-se de recurso extraordinário interposto contra acórdão no qual se entendeu que incide contribuição previdenciária patronal sobre os valores pagos a título de férias usufruídas.
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação dos arts. 40, § 3°, e 201, § 11°, da mesma Carta, sob o argumento de que não incide contribuição previdenciária sobre parcela não incorporável aos proventos.
+    A pretensão recursal não merece acolhida.
+    Isso porque os dispositivos constitucionais suscitados pelo recorrente não foram prequestionados. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios opostos não tiveram o escopo de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356/STF. Nesse sentido, cito o ARE 772.836-AgR/PE, de relatoria do Ministro Dias Toffoli, cuja ementa segue transcrita:
+    “Agravo regimental em recurso extraordinário com agravo. Prequestionamento. Não ocorrência. Prequestionamento implícito. Inadmissibilidade. Incidência das Súmulas 282 e 356/STF. Procedimento de retenção de contribuição previdenciária. Fundo de Participação dos Municípios. Debate infraconstitucional. Afronta reflexa.
+    1. A Corte não admite a tese do chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal a quo, é necessária e indispensável a oposição de embargos de declaração, os quais devem trazer a discussão da matéria a ser prequestionada, a fim de possibilitar ao Tribunal de origem a apreciação do ponto sob o ângulo constitucional.
+    2. Para se ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar a controvérsia à luz da legislação infraconstitucional de regência (Leis nºs 8.212/91; 11.941/09; Decreto 3.048/99 e IN MPS/SRP nº 3/05). A ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extremo.
+    3. Agravo regimental não provido” (grifei).
+    Além disso, o Tribunal de origem dirimiu a questão dos autos tão somente com amparo na jurisprudência do Superior Tribunal de Justiça e na interpretação da Lei 8.212/1991, de modo que eventual afronta à Constituição Federal seria indireta, o que inviabiliza o recurso. Nesse sentido, menciono os seguintes precedentes deste Tribunal:
+    “Ementa: DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. NATUREZA JURÍDICA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. PRECEDENTES.
+    1. Nos termos da jurisprudência da Corte, a controvérsia relativa à natureza remuneratória ou indenizatória das verbas percebidas pelo contribuinte, para fins de incidência da contribuição previdenciária, demanda o reexame da legislação infraconstitucional.
+    2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE 968.110-AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma – grifei).
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. FÉRIAS.
+    1. A jurisprudência do Supremo entende ser infraconstitucional a discussão acerca da incidência de tributos baseada na natureza da verba.
+    2. Agravo regimental a que nega provimento” (RE 944.020-AgR/SC, Rel. Min. Edson Fachin, Primeira Turma – grifei).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. INCIDÊNCIA DE TRIBUTOS BASEADA NA NATUREZA JURÍDICA DA VERBA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. CARÁTER INFRACONSTITUCIONAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO COM APLICAÇÃO DE MULTA.
+    1. A jurisprudência do Supremo se consolidou no sentido de ser infraconstitucional a discussão acerca da incidência de tributos, notadamente contribuição previdenciária ou imposto de renda, baseada na natureza da verba.
+    2. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessária a análise da legislação infraconstitucional aplicável à espécie.
+    3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC” (RE 1.013.951-AgR/RS, Rel. Min. Edson Fachin, Segunda Turma – grifei).
+    No mesmo sentido, cito as seguintes decisões, entre outras: RE 1.188.066/RN, Rel. Min. Gilmar Mendes; ARE 1.181.961/RS, Rel. Min. Cármen Lúcia; RE 1.184.361/CE, Rel. Min Alexandre de Moraes; e ARE 1.164.650/SP, Rel. Min. Roberto Barroso.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com apoio no art. 85, § 11, do Código de Processo Civil, majoro os honorários em 20% (vinte por cento) do total da verba fixada a esse título, observados os limites legais.
+    Publique-se.
+    Brasília, 24 de maio de 2019.
+Ministro Ricardo Lewandowski
+Relator
