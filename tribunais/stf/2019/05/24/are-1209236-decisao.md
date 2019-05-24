@@ -1,0 +1,38 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Anameri Zambotto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “APELAÇÃO CRIMINAL. CRIMES CONTRA O PATRIMÔNIO. APROPRIAÇÃO INDÉBITA QUALIFICADA.
+    AUTORIA. DOLO. PROVA SUFICIENTE PARA A CONDENAÇÃO.
+    O conjunto probatório comprova com segurança que a ré teve a intenção de não repassar os valores que recebeu na condição de despachante contratada pelas vítimas, tomando-os para si, desviando a finalidade para a qual recebeu a quantia, não persistindo dúvidas quanto elemento ‘volitivo animus rem sibi habendi’.
+    INEXIGIBILIDADE DE CONDUTA DIVERSA NÃO CONFIGURADA.
+    Não há nos autos qualquer indício de fato anormal que, por si só, seja capaz de afastar a exigibilidade de comportamento conforme o direito.
+    PENA DE MULTA.
+    A pena de multa está expressamente prevista no artigo 5º, inciso XLVI, da Constituição Federal, não havendo falar, portanto, de sua inconstitucionalidade. Destarte, tratando-se de sanção cumulativa expressamente estabelecida no Código Penal, é de aplicação cogente. Ademais, inexiste previsão legal para a sua isenção pela falta de condições financeiras do réu. Precedente do STJ. Eventual impossibilidade de pagamento, em razão de estado de pobreza, deverá ser invocada no juízo da execução, não competindo tal análise ao juízo de conhecimento, até porque as condições financeiras do réu poderão ser alteradas até o momento da efetiva execução da reprimenda pecuniária. Não obstante, tratando-se de réu assistido pela Defensoria Pública, e, portanto, presumivelmente pobre, possível a fixação da pena de multa no mínimo legal.
+    APELAÇÃO DESPROVIDA.”
+    A parte ora agravante sustenta, no apelo extremo em questão, que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, XLV, XLVI, LIV e LV, e 93, IX, da Constituição da República.
+    Cabe referir, desde logo, que os temas concernentes às alegadas transgressões aos preceitos inscritos nos arts. 5º, LIV e LV, e 93, IX, da Constituição Federal, não se acham devidamente prequestionados.
+    E, como se sabe, ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368, Rel. Min. MOREIRA ALVES – RTJ 131/1391, Rel. Min. CELSO DE MELLO – RTJ 144/300, Rel. Min. MARCO AURÉLIO – RTJ 153/989, Rel. Min. CELSO DE MELLO), incidem as Súmulas 282 e 356 desta Corte.
+    Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelo recorrente, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+    A configuração jurídica do prequestionamento – que traduz elemento indispensável ao conhecimento do recurso extraordinário – decorre da oportuna formulação, em momento procedimentalmente adequado, do tema de direito constitucional positivo. Mais do que a satisfação dessa exigência, impõe-se que a matéria questionada tenha sido explicitamente ventilada na decisão recorrida (RTJ 98/754 – RTJ 116/451). Sem o cumulativo atendimento desses pressupostos, além de outros igualmente imprescindíveis, não se viabiliza o acesso à via recursal extraordinária, consoante tem proclamado a jurisprudência do Supremo Tribunal Federal (RTJ 159/977).
+    Impende registrar, de outro lado, que a jurisprudência do Supremo Tribunal Federal, a propósito da suposta ofensa ao art. 5º, XLV e XLVI, da Constituição, tem enfatizado que essa alegação pode configurar, quando muito, situação caracterizadora de ofensa meramente reflexa ao texto da Constituição, o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária:
+    “1. Embargos de declaração recebidos como agravo regimental.
+    2. Recurso extraordinário em matéria criminal: descabimento: questão relativa à individualização da pena decidida à luz da legislação ordinária pertinente: alegada violação do art. 5º, XLVI, da Constituição, que, se ocorresse, seria reflexa ou indireta: incidência do princípio da Súmula 636.
+    3. Decisão judicial: fundamentação (CF, art. 93, IX): exigência constitucional satisfeita.”
+    (AI 557.597-ED/MG, Rel. Min. SEPÚLVEDA PERTENCE – grifei)
+    “DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ART. 5º, XLV, XLVI, XLVII E LIV, DA CONSTITUIÇÃO DA REPÚBLICA. PENA DE MULTA. ALEGAÇÃO DE FALTA DE PROPORCIONALIDADE. CONTROVÉRSIA DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/1973.
+    1. O exame da alegada ofensa ao art. 5º, ‘caput’, XLV, XLVI, XLVII e LIV, da Constituição Federal, observada a estreita moldura com que devolvida a matéria à apreciação desta Suprema Corte, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária prevista no art. 102 da Magna Carta.
+    2. Não compete ao Poder Judiciário, com base nos princípios da isonomia e proporcionalidade, substituir-se ao Poder Legislativo na escolha das penas adequadas a diferentes condutas ilícitas. Precedentes.
+    3. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República.
+    4. Agravo interno conhecido e não provido.”
+    (RE 1.106.450-AgR/SC, Rel. Min. ROSA WEBER – grifei)
+    A espécie ora em exame não foge aos padrões acima mencionados, refletindo, por isso mesmo, possível situação de ofensa indireta às prescrições da Carta Política, circunstância essa que impede – como precedentemente já enfatizado – o próprio conhecimento do recurso extraordinário (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO).
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal de Justiça do Estado do Rio Grande do Sul, no julgamento da apelação, sustentou as suas conclusões em dispositivos de ordem meramente legal:
+    “Portanto, não há como prosperar o pedido de isenção da pena de multa, uma vez que se trata de sanção cumulativa expressamente estabelecida no Código Penal, sendo de aplicação cogente. Ademais, inexiste previsão legal para a sua isenção pela falta de condições financeiras do réu.
+    Aliás, assim já decidiu o STJ:
+    …...................................................................................................
+    Assim, eventual impossibilidade de pagamento, em razão de estado de pobreza, deverá ser invocada no juízo da execução, não competindo tal análise ao juízo do conhecimento, até porque as condições financeiras do réu poderão ser alteradas até o momento da efetiva execução da reprimenda pecuniária.
+    Por fim, no que pertine à substituição da pena privativa de liberdade, correto o sentenciante ao operar a substituição por duas penas restritivas de direitos consistentes em prestação de serviços à comunidade e prestação pecuniária, e não por apenas uma pena restritiva de direitos e multa, como pleiteado pela defesa, porquanto em sintonia com os critérios de necessidade e suficiência para reprovação e prevenção do crime.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 24 de maio de 2019.
+Ministro CELSO DE MELLO
+Relator
