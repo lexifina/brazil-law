@@ -1,0 +1,23 @@
+DECISÃO
+HABEAS CORPUS. PROCESSO PENAL. CRIMES DE DESACATO, LESÃO CORPORAL LEVE, RESISTÊNCIA E AMEAÇA PRATICADOS POR CIVIL CONTRA MILITARES DO EXÉRCITO, INTEGRANTES DA FORÇA DE PACIFICAÇÃO. ALEGAÇÃO DE INCOMPETÊNCIA DA JUSTIÇA MILITAR PARA JULGAR CIVIS. TEMA AFETADO AO PLENÁRIO (HC N. 112.848/RJ). LIMINAR DEFERIDA. AÇÃO PENAL NA ORIGEM SUSPENSA. SOBRESTAMENTO DO PRESENTE HABEAS CORPUS. PROVIDÊNCIAS PROCESSUAIS.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por Luiz Daniel Accioly Bastos, em benefício de Max Thalison Devino Barboza, contra acórdão do Superior Tribunal Militar pelo qual, em 2.6.2015, denegado o Habeas Corpus n. 86-56.2015.7.00.0000/RJ.
+    2. O paciente, civil, foi denunciado pela prática dos delitos de desacato, lesão corporal leve, resistência e ameaça (arts. 299, 209, 177 e 223 do Código Penal Militar) (fls. 3-5, e-doc. 3).
+    3. A defesa do paciente impetrou o Habeas Corpus n. 86-56.2015.7.00.0000/RJ no Superior Tribunal Militar, cujos requerimentos e pedidos foram assim resumidos pelo Superior Tribunal Militar:
+    “Segundo o entendimento do Impetrante, a denúncia não poderia ter sido recebida, uma vez que a autoridade judiciária militar da União não tem competência para processar e julgar o feito, tendo em vista que, em razão do postulado do Juiz Natural, a competência seria de um dos juízos criminais da Justiça Federal Comum da Seção Judiciária do Rio de Janeiro. (…)
+    Postula o Impetrante que seja concedida a ordem de habeas corpus para a decretação da nulidade da Ação Penal Militar n. 185-91.2014.7.01.0401, a que responde o Civil MAX THALISON DEVINO BARBOZA, perante o Juízo da 4ª Auditoria da 1ª CJM, pela prática, em tese, dos crimes previstos nos arts. 299, 209, 177 e 223, todos do CPM, sem prejuízo da renovação da persecutio criminis perante órgão judiciário competente da Justiça Federal Comum” (fls. 4-6, e-doc. 9).
+    Em 2.6.2015, o Superior Tribunal Militar denegou a ordem de habeas corpus pela falta de amparo legal (fls. 1-12, e-doc. 9).
+    4. Esse julgado é o objeto do presente habeas corpus, no qual o impetrante reitera a alegação de incompetência da Justiça Militar: “A função de policiamento ostensivo que vem sendo realizada pela ‘Força de Pacificação Maré’ a qual resultou na prisão do paciente, traduz típica atividade de segurança pública e, assim sendo, função atípica das Forças Armadas” (fl. 19, e-doc. 2).
+    Este o teor do requerimento e dos pedidos:
+    “a) Seja concedida, COM URGÊNCIA, a medida liminar para suspender, cautelarmente, até o final julgamento da presente ação de Habeas Corpus, o curso do Processo nº 0000185-91.2014.7.01.0401, instaurado, contra o paciente, perante o Juízo da 4ª Auditoria Militar da 1ª Circunscrição Judiciária Militar da Justiça Militar da União; b) seja conhecido o presente Habeas Corpus e no mérito provido para conceder a ordem em favor do paciente, confirmando, se for o caso, a liminar, para declarar nulo o procedimento penal instaurado contra o ora paciente perante a Justiça Militar da União (Processo nº 0000185-91.2014.7.01.0401 - 4ª Auditoria da 1ª CJM), desde a denúncia, inclusive, sem prejuízo da renovação da persecutio criminis perante órgão judiciário competente da Justiça Federal comum, contanto que ainda não consumada a prescrição penal da pretensão punitiva do Estado” (fl. 30, e-doc. 2).
+    O Ministro Dias Toffoli, então Relator, deferiu a medida liminar para suspender o andamento do Processo n. 0000185-91.2014.7.01.0401, em trâmite no juízo da Quarta Auditoria Militar da Primeira Circunscrição da Justiça Militar da União, requisitou informações à autoridade coatora e determinou a remessa dos autos à Procuradoria-Geral da República.
+    O Superior Tribunal Militar prestou as informações requisitadas (fls. 1-22, e-doc. 17).
+    A Procuradoria-Geral da República manifestou-se pelo não conhecimento do habeas e, se conhecido, pela denegação da ordem, com a revogação da liminar deferida (fls. 1-5, e-doc. 18).
+    Em 4.8.2015, o Ministro Dias Toffoli determinou o sobrestamento do feito na Secretaria do Tribunal até a conclusão do julgamento do habeas corpus n. 112.848/RJ, Relator o Ministro Ricardo Lewandowski.
+    Examinada a matéria posta à apreciação, DECIDO.
+    5. Consta do sítio do Superior Tribunal Militar que, em atenção à decisão liminar proferida pelo Ministro Dias Toffoli, a Ação Penal n. 0000185-91.2014.7.01.0401 está suspensa.
+    6. Pendente o julgamento do Habeas Corpus n. 112.848/RJ, mantenho a decisão de sobrestamento destes autos até o pronunciamento definitivo do Plenário do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 24 de maio de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
