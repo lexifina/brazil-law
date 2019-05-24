@@ -1,0 +1,25 @@
+Trata-se de habeas corpus com pedido de liminar impetrado pela Defensoria Pública da União em favor de Matheus Silva Alcântara contra acórdão do Superior Tribunal Militar - STM, proferido na Apelação 7000398-05.2018.7.00.0000, de relatoria do Ministro Artur Vidigal de Oliveira.
+    Consta da decisão ora atacada que o paciente foi absolvido em sentença “pela prática do delito previsto no art. 290, caput, do CPM” (pág. 37 do documento eletrônico 2).
+    Inconformado, o Ministério Público Militar apelou para o STM, que conheceu e proveu o recurso, em acórdão assim ementado:
+    “APELAÇÃO. MPM. POSSE DE ENTORPECENTE EM ÁREA SUJEITA À ADMINISTRAÇÃO MILITAR. ART. 290 DO CPM. PRINCÍPIOS DA INSIGNIFICÂNCIA E DA INTERVENÇÃO MÍNIMA. PRINCÍPIO DA SUBSIDIARIEDADE.
+    1. Não se aplicam os Princípios da Insignificância e da Intervenção Mínima nos crimes capitulados no art. 290 do CPM, pois a posse de drogas no interior de uma Organização Militar compromete a segurança e a integridade física de seus membros que, usualmente, portam armas letais.
+    2. O princípio da subsidiariedade não se aplica às situações tipificadas no art. 290 do CPM, fazendo-se necessária a intervenção do Direito Penal Militar quando a conduta estiver tipificada como crime, o que impede o tratamento somente na seara administrativa.
+    Recurso conhecido e provido. Decisão unânime” (pág. 37 do documento eletrônico 2).
+    É contra essa decisão que se insurge a impetrante neste habeas corpus.
+    Alega, em síntese, que “a exclusão/desincorporação já determinou o restabelecimento da ordem interna da Organização Militar e, em desdobramento, devidamente firmado a hierarquia e a disciplina militar” (pág. 8 da petição inicial).
+    Argumenta, ademais, que “[o] Supremo Tribunal Federal já admitiu também a aplicação do princípio da insignificância ao art. 290 do CPM, quando se tratar de ínfima quantidade de substância, destinada a uso próprio, ainda que encontrada dentro da Organização Militar” (pág. 20 da petição inicial).
+    Ao final, requer:
+    “01. - a concessão da ordem, […] para cassar o Acórdão da de 13/11/2018 do STM e, no consequente, revigorar a justa Sentença absolutória do colegiado de instância inicial, porque devidamente comprovado no caderno processual que este rapaz, há muito ‘cidadão civil’, além de já ter recebido a devida punição, no âmbito da Administração Militar, não teve dolo em sua conduta e, assim, não há ‘a intensidade’ necessária para o enquadramento no art. 290, Código Penal Militar, ao que deve ser aplicado o art. 439, ‘b’, Código de Processo Penal; adiante, tendo o fato como típico, antijurídico e culpável, pede-se a aplicação da ‘bagatela imprópria’, porque injusta a sanção contra este jovem rapaz, por já estar devidamente integrado ao meio social e civil, condenado à pena de 01 (um) ano de reclusão, que se mostra notavelmente desnecessária e inútil, vez que a ordem interna da Força terrestre, caracterizada em seus pilares da hierarquia e disciplina, foi restabelecida em sua integralidade, e assim, nada justifica o apenamento, tão somente se caracterizado como vingança/punição, sendo de rigor reconhecer a inutilidade/desnecessidade desta sanção, aplicando-se o art. 439, alínea ‘f’, do Código de Processo Penal Militar, extinguindo-se a punibilidade;
+    02. - na eventualidade de a ordem pleiteada não ser concedida de plano, monocraticamente, na forma do art. 192, caput, do Regimento Interno do Supremo Tribunal Federal - STF -, quer-se:
+    02.a. - a concessão da medida liminar para suspender o processo em trâmite até o julgamento final da presente impetração; e,
+    02.b. - em plenário, a confirmação da liminar e, no mérito, a concessão de ordem conforme expressa no item 01” (págs. 33-34 da petição inicial).
+    É o relatório necessário. Decido.
+    Destaco, inicialmente, que, embora o presente writ tenha sido impetrado em substituição a recurso extraordinário, não oponho óbice ao seu conhecimento, na linha do que tem decidido a Segunda Turma deste Supremo Tribunal. Nesse sentido, cito os seguintes precedentes: HC 126.791-ED/RJ, HC 126.614/SP e HC 126.808-AgR/PA, todos da relatoria do Ministro Dias Toffoli.
+    Anote-se, também, que o art. 192, caput, do Regimento Interno do Supremo Tribunal Federal faculta ao relator denegar ou conceder a ordem de habeas corpus, ainda que de ofício, quando a matéria for objeto de jurisprudência consolidada nesta Corte.
+    Por este motivo, passo ao exame do mérito desta impetração.
+    A orientação jurisprudencial desta Suprema Corte é firme no sentido de que “[a] tipologia de relação jurídica em ambiente castrense é incompatível com a figura da insignificância penal, pois, independentemente da quantidade ou mesmo da espécie de entorpecente sob a posse do agente, o certo é que não cabe distinguir entre adequação apenas formal e adequação real da conduta ao tipo penal incriminador” (HC 103.684/DF, Rel. Min. Ayres Britto).
+    Isso posto, denego a ordem (art. 192, caput, do RISTF). Fica prejudicada a análise do pleito cautelar.
+    Publique-se.
+    Brasília, 24 de maio de 2019.
+Ministro Ricardo Lewandowski
+      Relator
