@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXCEÇÃO DE SUSPEIÇÃO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quarta Região:
+    “EXCEÇÃO DE SUSPEIÇÃO. PARCIALIDADE DO MAGISTRADO A QUO. NÃO COMPROVAÇÃO. ARQUIVAMENTO. ARTIGO 314 DO CPC. 1. O fato de o juiz ser mantido pela Corregedoria da Justiça Federal na condução dos processos, mesmo após sua remoção para outra Subseção Judiciária, não caracteriza suspeita de parcialidade. 2. O artigo 314 do Código de Processo Civil estipula que se a exceção não tem fundamento legal, o tribunal determinará o seu arquivamento. 3. Exceção de suspeição arquivada” (e-doc. 28).
+    Os embargos de declaração opostos foram rejeitados.
+    2. Os agravantes apontam contrariedade ao inc. XXXVII do art. 5º da Constituição da República e suspeição do magistrado.
+    3. O recurso extraordinário foi inadmitido pela incidência das Súmulas ns. 279, 282 e 283 do Supremo Tribunal Federal e pela ausência de ofensa constitucional direta (e-doc. 102).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste aos agravantes.
+    5. A apreciação do pleito recursal demandaria o reexame da matéria fático-probatória e da legislação infraconstitucional aplicável ao processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Assim, por exemplo:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SUSPEIÇÃO DE JUIZ. EXCEÇÃO JULGADA IMPROCEDENTE. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULAS 279 E 636 DO STF. JULGAMENTO POR TURMA COMPOSTA POR JUÍZES CONVOCADOS. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DO JUIZ NATURAL. INEXISTÊNCIA. Para se chegar a conclusão diversa daquela a que se chegou no acórdão recorrido seria necessário o reexame das provas dos autos, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do Supremo Tribunal Federal. Nos termos da orientação firmada neste Tribunal (RE 597.133, rel. Min. Ricardo Lewandowski), não ofende o princípio constitucional do juiz natural o julgamento de recurso por órgão fracionário composto majoritariamente por juízes convocados. Agravo regimental a que se nega provimento” (ARE n. 815.344-AgR, Relator Ministro Joaquim Barbosa, Segunda Turma, DJe 26.10.2012).
+    “Impedimento e suspeição de desembargador, suspensão do processo até o julgamento das exceções, conexão da ação penal e valoração de prova acusatória não traduzida e sem autenticação: ofensa constitucional indireta e necessidade de reexame dos fatos e das provas dos autos (Súmula 279 do Supremo Tribunal Federal). (...) Imprescindível o reexame do conjunto probatório que permeia a lide para concluir de forma diversa do que assentado na instância antecedente: incidência da Súmula 279 do Supremo Tribunal. 7. Agravo regimental ao qual se nega provimento” (AI n. 747-AgR, de minha relatoria, Primeira Turma, DJe 25.6.2010).
+    Nada há a prover quanto às alegações dos agravantes.
+    6. Pelo exposto, nego provimento ao presente recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de maio de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
