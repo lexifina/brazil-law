@@ -1,0 +1,7 @@
+Trata-se de reclamação ajuizada em favor de Maria de Jesus Ribeiro da Silva Mendes e Elton Barros Coelho contra decisão do Ministro do Tribunal Superior Eleitoral Jorge Mussi que indeferiu medida cautelar na AC 0601930-68; e contra atos do Tribunal Regional Eleitoral do Estado de Tocantins - TRE-TO que determinaram a realização de novas eleições para o cargo de Prefeito do Município de Pugmil-TO, após a publicação do acórdão da Corte Regional “ou do acórdão de eventuais embargos de declaração que porventura vierem a ser opostos”, descumprindo o julgado desta Corte na ADI 5.525/DF (pág. 10 do documento eletrônico 7).
+    Em 20/11/2018, concedi medida cautelar para suspender os efeitos da Resolução 441/TRE-TO, de 14/12/2018, e determinar que a realização de eleição suplementar ocorra somente após decisão colegiada do Tribunal Superior Eleitoral em última ou única instância, independentemente do julgamento de eventuais embargos de declaração.
+    Para o prosseguimento da análise do mérito da presente ação reclamatória constitucional faz-se necessária a requisição de informações ao Ministro do Tribunal Superior Eleitoral relator do RESPE 1057-17/TO, sobre a existência de decisão colegiada da Corte eleitoral em última ou única instância, independentemente do julgamento de eventuais embargos de declaração.
+    Isso posto, requisitem-se informações.
+    Brasília, 24 de maio de 2019.
+Ministro Ricardo Lewandowski
+Relator
