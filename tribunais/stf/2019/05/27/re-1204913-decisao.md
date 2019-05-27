@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário interposto pelo Ministério Público Federal em face de acórdão assim ementado:
+    “HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVA DE DIREITO. EXECUÇÃO PROVISÓRIA. IMPOSSIBILIDADE. ART. 147 DA LEP. ENTENDIMENTO CONSOLIDADO PELA TERCEIRA SEÇÃO DESTA CORTE NO JULGAMENTO DO ERESP N. 1.619.087/SC. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA DE OFÍCIO.
+    1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+    2. A Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento do EREsp n. 1.619.087/SC, Rel. p/ acórdão o Ministro JORGE MUSSI, DJe de 24/8/2017, firmou entendimento no sentido da impossibilidade de execução da pena restritiva de direitos antes do trânsito em julgado da condenação. Posição recentemente mantida pelo colegiado, por expressiva maioria (HC n. 435.092-SP, Rel. p/ acórdão REYNALDO SOARES DA FONSECA, j. em 24.10.2018).
+    3. De igual forma, a Corte Especial deste Superior Tribunal de Justiça manteve o entendimento de que não cabe execução provisória antes do trânsito em julgado, nos termos do art. 147 da Lei de Execução Penal, consoante julgamento dos EDcl no AgRg no RE nos EDcl no AgRg no AREsp n. 971.249/SP, Rel. Min. Humberto Martins, DJe de 28/11/2017.
+    4. Habeas corpus não conhecido. Contudo, ordem concedida de ofício para, confirmando a liminar anteriormente deferida, suspender a execução provisória da pena restritiva de direito imposta ao paciente até o trânsito em julgado da condenação” (págs. 91-92 do documento eletrônico 2).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, violação dos arts. 5°, caput, e LVII, mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Superior Tribunal de Justiça, com base na interpretação da norma infraconstitucional aplicável ao caso (art. 147 da Lei de Execução Penal – LEP), rejeitou o pedido de execução provisória das penas restritivas de direito impostas ao ora recorrido.
+    Desse modo, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame da norma infraconstitucional pertinente (LEP), sendo certo que eventual ofensa à Constituição Federal, se ocorrente, seria indireta, o que inviabiliza o recurso extraordinário.
+     Isso posto, nego seguimento ao recurso (RISTF, art. 21, § 1°).
+    Publique-se.
+    Brasília, 27 de maio de 2019.
+Ministro Ricardo Lewandowski
+Relator
