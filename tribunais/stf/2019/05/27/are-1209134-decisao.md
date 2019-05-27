@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, ementado nos seguintes termos:
+          “DESAPROPRIAÇÃO - Valor das benfeitorias mantido, conforme apurado pelo “expert”, que bem justificou a classificação utilizada - Considerando que os expropriados não se valeram de assistente técnico, nada há para ser pago sob esse título - Afasta-se, de ofício, a condenação ao pagamento de honorários advocatícios, pois a indenização final não supera a oferta - Inteligência do art. 27, § 1º, do DL nº 3.365/1941 - A carta de adjudicação deve ser expedida, oportunamente, em nome do Estado de São Paulo, porquanto figura como Poder Concedente no Contrato de Parceria Público-Privada celebrado com a expropriante, devendo o bem a ele reverter, como já assentado por ocasião da fixação da legitimidade ativa “ad causam” neste feito. - Apelo parcialmente provido, afastada, de ofício, a condenação ao pagamento de honorários advocatícios.” (eDOC 5, p 126)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, XXIV, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que o valor fixado violaria o princípio da justa indenização, pois o laudo técnico teria transgredido normas técnicas de avaliação. (eDOC 5, p. 189)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou adequado o valor apurado para a indenização, conforme estabelecido pelo expert. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Quanto ao valor da indenização, prevalece o quantum apurado pelo expert, de confiança do Juízo e equidistante das partes.
+    No particular, a irresignação manifestada pela expropriante diz respeito ao valor das benfeitorias, em razão de sua classificação como “Galpão Padrão Médio”. Ocorre que o perito, em seu laudo definitivo (fls. 508/516), manteve os critérios adotados no laudo provisório (fls. 421/442), deste constando, expressamente, as justificativas da classificação utilizada, que prevalece e permanece”. (eDOC 5, p. 128)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. LAUDO PERICIAL. SÚMULA 279/STF.” (ARE 1047575 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 25.10.2018)
+    “Embargos de declaração no recurso extraordinário. Recurso interposto sob a égide do CPC/73. Conversão dos embargos declaratórios em agravo regimental. Administrativo. Desapropriação. Despesas com a área de reserva legal. Justa indenização. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Exploração de jazida mineral. Indenização. Não cabimento. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional, tampouco para o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 636 e 279/STF. 3. A jurisprudência firmada nesta Corte é no sentido de que não há direito à indenização pela perda do direito à exploração de jazida mineral, com exceção dos casos em que haja concessão da lavra. 4. Agravo regimental não provido.” (RE 857755 ED, Rel. Min. Dias Toffoli, Segunda Turma, DJe 12.9.2018)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 27 de maio de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
