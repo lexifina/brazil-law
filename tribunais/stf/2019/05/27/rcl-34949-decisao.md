@@ -1,0 +1,13 @@
+DECISÃO:
+    1. Trata-se de reclamação ajuizada para impugnar decisão que negou pedido liminar, proferida pelo Tribunal de Justiça de São Paulo na representação de inconstitucionalidade nº 2106763-30.2019.8.26.0000.
+    2. O Município narra haver ajuizado a referida ação, por meio do seu Prefeito, para impugnar o art. 42, I e II, da sua Lei Orgânica, dispositivo que “permite a membro e ao presidente de CPI, no âmbito do município de Iguape, a adoção individual de medidas restritivas que pressupoe deliberações colegiadas por força de disposição constitucional expressa e da consagrada jurisprudência do STF”. Afirma ter pedido a suspensão liminar do dispositivo “porquanto são praticados atos no âmbito da CPI criada pela Resolução 01/2019 da Câmara Municipal de Iguape com fundamento em flagrante norma municipal inconstitucional”. Sustenta haver violação ao princípio da colegialidade, em razão de vereador presidente de CPI ter iniciado uma sucessão de atos ilegais e abusivos, sem convocar os membros para reuniões e de forma isolada, em suposto desrespeito aos §§ 2º e 3º do art. 58 da Constituição Federal. Cita julgados do STF no MS 24.817 e MS 31.475.
+    3. É o relatório. Decido.
+    4. Dispenso as informações e a manifestação da Procuradoria-Geral da República, ante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único). Deixo de determinar a citação da parte beneficiária do ato reclamado, por ser manifesta a inviabilidade do pedido.
+    5. De acordo com os arts. 102, I, l, e 103-A, § 3º, da Constituição, a reclamação dirigida a esta Corte só é cabível quando se sustenta: (i) usurpação de sua competência; (ii) contrariedade a súmula vinculante; ou (iii) ofensa à autoridade de suas decisões, caso em que se exige que o pronunciamento tenha efeito vinculante ou tenha sido proferido em processo subjetivo no qual o reclamante figurou como parte (art. 988, II a IV, e § 5º, II, do CPC/2015).
+    6. Assim, a alegação de ofensa ao direito objetivo ou a precedente sem força vinculante não dá ensejo à propositura de reclamação. Confiram-se, dentre muitos outros, os seguintes precedentes: Rcl 4.381 AgR, Rel. Min. Celso de Mello; Rcl 4.119 AgR, Rel. Min. Cármen Lúcia; e Rcl 5.391 AgR, Rel. Min. Dias Toffoli.
+    7. No caso, o reclamante alega afronta ao art. 58 da Constituição e a julgados em mandado de segurança nos quais não figurou como parte. Inviável, portanto, o uso da reclamação.
+    8. Por todo o exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação. Sem honorários, porquanto não citada a parte interessada.
+    Publique-se.
+    Brasília, 27 de maio de 2019.
+Ministro Luís Roberto Barroso
+Relator
