@@ -1,0 +1,32 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO DE REINTEGRAÇÃO DE POSSE. DEFICIÊNCIA NA FUNDAMENTAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL. ARTIGO 1.035, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015 C/C ARTIGO 327, § 1º, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+    “Administrativo - ação de reintegração na posse - concessão federal de ‘potencial hídrico’ a empresa privada exclusivamente para a geração de energia elétrica - valor econômico de existência distinta em relação ao rio para o fim de aproveitamento ou exploração – bem jurídico incorpóreo insuscetível de engendrar disputa possessória estranha ao objeto contratado - Exegese lógica do art. 176 da Sexta Carta Republicana.
+    Causa de pedir concorrente – desapropriação primitiva de gleba para instalação de usina geradora - efeito translativo efêmero da titularidade dominial ao expropriante - inundação induzida que impõe mudança de espécie jurídica e de titularidade, desta feita com perda da propriedade sobre a área irreversivelmente submersa e sua conversão em bem de uso comum do povo – lineamento doutrinário que remonta a Lafayette.
+      Faixa justafluvial - posse dos ribeirinhos clausulada de servidão legal de trânsito destinada a resguardar o policiamento das margens e a multifuncionadidade das águas públicas.
+    Polícia das Construções — chácara de recreio categoriza-se como imóvel urbano — competência privativa do Município para ordenar demolição de edificações calcada no art. 30, inciso VII, da Sexta Carta Republicana - remoção ademais de aderências destinadas a assegurar a funcionalidade e o valor econômico dos imóveis de veraneio, passíveis , de permissão ou autorização de uso extraordinário de bem público pelo órgão competente - ingerência judiciária teratológica no mérito do ato administrativo in fieri - devido processo legal substantivo tolhido.
+    Terceira causa de pedir concorrente - bens de titularidade meta individual insuscetíveis de monetização entre privados – inaplicabilidade do conceito clássico de posse - ofensa à regra de liberdade e à principiologia do uso múltiplo das águas públicas enunciado nos artigos 1º, IV, e 13, parágrafo único, da Lei 9.433/97, de Gerenciamento dos Recursos hídricos - sentença de procedência reformada - recurso de apelação provido.” (Doc. 2, fl. 50)
+    Os embargos de declaração opostos foram desprovidos. (Doc. 2, 140)
+    Nas razões do apelo extremo, a agravante sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, II e LV, e 84 , IV, 183, § 3º, e 191, parágrafo único, da Constituição Federal. (Doc. 2, fl. 155)
+    O Tribunal a quo negou seguimento ao recurso extraordinário por não vislumbrar ofensa à Constituição Federal. (Doc. 2, fl. 188)
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    A preliminar de repercussão geral apresenta fundamentação deficiente. Não basta a simples afirmação genérica de que o tema tem repercussão geral; faz-se necessária a fundamentação adequada que supra as exigências do disposto no artigo 1.035, § 2º, do Código de Processo Civil e no artigo 327, § 1º, do Regimento Interno do STF.
+    In casu, a parte recorrente não demonstrou a existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa, ao asseverar apenas e tão somente o seguinte:
+    “No caso concreto, há um nítido caráter de repercussão geral porque o presente recurso objetiva discutir a correta interpretação dos arts. 5º, incisos II e LV e 84, inciso IV, ambos da Constituição Federal, os quais nortearão não só o caso concreto, mas também todos aqueles em que se discutir cerceamento de defesa.
+    A apreciação deste recurso suplanta o interesse particular da Recorrente e aproveita a todos os jurisdicionados, pois o que se busca é assegurar às partes o amplo exercício dos poderes e faculdades inerentes ao princípio do contraditório, constitucionalmente garantido, pelo que se requer o seu regular processamento.” (Doc. 2, fls. 155-156)
+    O Supremo Tribunal Federal, ao julgar a Questão de Ordem no Agravo de Instrumento 664.567, rel. min. Sepúlveda Pertence, DJ de 6/9/2007, fixou o seguinte entendimento:
+    “I. Questão de ordem. Recurso extraordinário, em matéria criminal e a exigência constitucional da repercussão geral.
+    (...)
+    II. Recurso extraordinário: repercussão geral: juízo de admissibilidade: competência.
+    1. Inclui-se no âmbito do juízo de admissibilidade - seja na origem, seja no Supremo Tribunal - verificar se o recorrente, em preliminar do recurso extraordinário, desenvolveu fundamentação especificamente voltada para a demonstração, no caso concreto, da existência de repercussão geral (C.Pr.Civil, art. 543-A, § 2º; RISTF, art. 327).
+    2. Cuida-se de requisito formal, ônus do recorrente, que, se dele não se desincumbir, impede a análise da efetiva existência da repercussão geral, esta sim sujeita ‘à apreciação exclusiva do Supremo Tribunal Federal’ (Art. 543-A, § 2º).
+    III. Recurso extraordinário: exigência de demonstração, na petição do RE, da repercussão geral da questão constitucional: termo inicial.
+    (...)
+    4. Assim sendo, a exigência da demonstração formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental n. 21, de 30 de abril de 2007.”
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do STF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao dobro do valor fixado pela origem (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 27 de maio de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
