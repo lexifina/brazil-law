@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÃO CRIMINAL (RECURSO DEFENSIVO) – ROUBO CIRCUNSTANCIADO PELO EMPREGO DE ARMA BRANCA – PRETENSÃO ABSOLUTÓRIA – IMPROCEDÊNCIA – CONJUNTO PROBATÓRIO SEGURO – PROVA ORAL E MATERIAL SUFICIENTE – NEGATIVA ISOLADA E INVEROSSÍMIL – SENTENÇA MANTIDA – EX OFFÍCIO – EXCLUSÃO DA CAUSA DE AUMENTO DE PENA PELO USO DE ARMA IMPRÓPRIA (ART. 157, § 2º, INCISO I, DO CÓDIGO PENAL) – LEI N. 13.654/2018 – NOVATIO LEGIS IN MELLIUS – RECURSO DESPROVIDO.
+    1 – O suporte fático e probatório, embasado nos elementos informativos colhidos na fase inquisitiva, corroborados pelas provas produzidas em juízo, é suficiente para ensejar a condenação, quando visto que, os elementos de convicção coligidos durante a persecução penal são firmes no sentido de confirmar a materialidade e a autoria do fato delituoso, de forma a subsidiar reforma na sentença para condenar o réu;
+    2 – Com o advento da Lei n. 13.654/2018, publicada em 24/14/2018, o inciso I, do § 2º, do art. 157, do Código Penal, foi expressamente revogado, não sendo mais possível a aplicação da causa de aumento, a não ser na hipótese do § 2º-A, do mesmo dispositivo, que passou a prever o termo específico ‘arma de fogo’. Em sendo o caso de utilização de outros tipos de arma ou objetos entendidos como armas impróprias, nada impede que, atento as circunstâncias do caso, incorra em valoração negativa na primeira fase de dosimetria da pena;
+    3 – Recurso a que, com o parecer, nego provimento. Ex ofFício, afasto a aplicação da forma circunstanciada do crime (inciso I, do § 2º, do art. 157, do CP), em razão da novel Lei n. 13.654/2018, reduzindo a pena no que competir” (pág. 60 do documento eletrônico 2).
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alega-se violação dos arts. 5°, caput e XXII; e 65, parágrafo único, da mesma Carta.
+    O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Cláudia Sampaio Marques, opinou pelo desprovimento do agravo (doc. eletrônico 10). Eis a ementa da referida peça opinativa:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ROUBO QUALIFICADO, CONSUMADO COM ARMA BRANCA. DESCLASSIFICAÇÃO PARA ROUBO SIMPLES. ALEGADA INCONSTITUCIONALIDADE FORMAL E MATERIAL DA LEI Nº 13.654/18. AUSÊNCIA DE PREQUESTIONAMENTO. PARECER PELO DESPROVIMENTO DO AGRAVO”.
+    Bem examinados os autos, entendo que a pretensão recursal não merece acolhida.
+    Isso porque, para verificar a procedência dos argumentos consignados no recurso extraordinário seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Nesse sentido, cito o ARE 1.176.106-AgR/MS, de relatoria do Ministro Gilmar Mendes:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Alegação de inconstitucionalidade formal do artigo 4° da Lei 13.654/2018. Reanálise de todos os documentos constantes do processo legislativo. 3. Impossibilidade em sede de recurso extraordinário. Súmula 279. 4. Agravo improvido”.
+    Na mesma linha, são as seguintes decisões: ARE 1.178.106-AgR/MS, Rel. Min. Gilmar Mendes; RE 1.179.057/MS, Rel. Min. Celso de Mello; ARE 1.181.263/MS, Rel. Min. Alexandre de Moraes.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 27 de maio de 2019.
+Ministro Ricardo Lewandowski
+Relator
