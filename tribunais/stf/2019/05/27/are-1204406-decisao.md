@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO INTER VIVOS DE BENS IMÓVEIS – ITBI. FATO GERADOR: REGISTRO DA TRANSFERÊNCIA EFETIVA DA PROPRIEDADE. PRECEDENTES. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Segunda Câmara Cível do Tribunal de Justiça da Bahia:
+    “APELAÇÃO E REEXAME NECESSÁRIO. DIREITO CONSTITUCIONAL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. ITIV/ITBI. RECOLHIMENTO ANTECIPADO. INADMISSIBILIDADE. FATO GERADOR. TRANSFERÊNCIA DA PROPRIEDADE IMOBILIÁRIA. INCOMPATIBILIDADE COM OS ELEMENTOS E REQUISITOS EXPLÍCITOS E IMPLÍCITOS NO ART. 150, § 7º DA CARTA MAGNA CIDADÃ. INCONSTITUCIONALIDADE DA COBRANÇA DO DISPOSITIVO DA LEI MUNICIPAL QUE LHE DÁ FUNDAMENTO. PRELIMINAR DE INCONSTITUCIONALIDADE. ACOLHIMENTO. NÃO COMPROVAÇÃO DA EFETIVA TRANSMISSÃO DO BEM, QUE SE PERFAZ COM O REGISTRO DE ESCRITURA PÚBLICA NO CARTÓRIO DE IMÓVEIS. RECONHECIMENTO INTRA PARTES. APELO NÃO PROVIDO. SENTENÇA INTEGRALMENTE EM REEXAME NECESSÁRIO” (fl. 13, e-doc. 2).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O agravante alega contrariados o § 7º do art. 150 e o inc. II do art. 156 da Constituição da República, com o argumento de que “o município de Salvador controverteu a questão da possibilidade de o Fisco Municipal antecipar apenas o momento de pagamento do ITBI (como autorizado pelo artigo 150, § 7º, da Constituição da República) sem pretender antecipar a própria ocorrência do fato gerador do imposto, que consabidamente não ocorre com a assinatura do contrato de compra e venda, mas apenas por ocasião do registro do título translativo no cartório imobiliário” (fl. 29, e-doc. 2).
+    Sustenta que “a circunstância de ser presumido o fato gerador, ou seja, da sua ‘apenas’ provável ocorrência no futuro, não constitui óbice à exigência do tributo, pois se trata de mecanismo instituído pela própria Constituição” (fl. 37, e-doc. 2).
+    Requer o provimento do presente recurso.
+    3. O recurso extraordinário foi inadmitido ao fundamento de o acórdão recorrido harmonizar-se com a jurisprudência do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao agravante.
+    5. O acórdão recorrido harmoniza-se com a jurisprudência do Supremo Tribunal Federal segundo a qual a transmissão do imóvel para fins de fato gerador do ITBI somente ocorre com o registro da transferência efetiva da propriedade no cartório de registro de imóveis. Assim, por exemplo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO SOBRE A TRANSMISSÃO DE BENS IMÓVEIS – ITBI. FATO GERADOR: REGISTRO DA TRANSFERÊNCIA EFETIVA DA PROPRIEDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 798.241-AgR, de minha relatoria, Segunda Turma, DJe 14.4.2014).
+    “Agravo regimental no agravo de instrumento. Imposto de transmissão intervivos de bens imóveis. ITBI. Momento da ocorrência do fato gerador. Compromisso de compra e venda. Registro do imóvel. 1. Está assente na Corte o entendimento de que o fato gerador do ITBI somente ocorre com a transferência efetiva da propriedade imobiliária, ou seja, mediante o registro no cartório competente. Precedentes. 2. Agravo regimental não provido” (AI n. 764.432-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 25.11.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSSIBILIDADE DE INCIDÊNCIA DO IMPOSTO SOBRE TRANSMISSÃO DE BENS IMÓVEIS (ITBI) SOBRE CONTRATOS DE PROMESSA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 666.096-AgR, de minha relatoria, Segunda Turma, DJe 21.11.2012).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. CONTRATO DE COMPROMISSO DE COMPRA E VENDA. NÃO-INCIDÊNCIA DO ITBI. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. A celebração de contrato de compromisso de compra e venda não gera obrigação ao pagamento do ITBI. Agravo regimental a que se nega provimento” (AI n. 603.309-AgR, Relator o Ministro Eros Grau, Segunda Turma, DJ 23.2.2007).
+    Nada há a prover quanto às alegações do agravante.
+    6. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de maio de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
