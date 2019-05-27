@@ -1,0 +1,37 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fl. 104, Vol. 1):
+    “ARROLAMENTO SUMÁRIO. EXPEDIÇÃO DO FORMAL DE PARTILHA. INEXISTÊNCIA DE PRÉVIA QUITAÇÃO DOS TRIBUTOS. POSSIBILIDADE. LANÇAMENTO ADMINISTRATIVO DO ITCD. ART. 659 DO CPC/2015. NATUREZA PROCESSUAL.
+    1. No arrolamento sumário, a partilha amigável será homologada por sentença, independentemente de prévia quitação do Imposto de Transmissão Causa Mortis – ITCD, conforme dispõe o art. 659, §2° do CPC/2015.
+    2. Nos termos do art. 659 e 662 do CPC/2015, no arrolamento sumário não serão apreciadas as questões relativas aos tributos devidos à Fazenda Pública, que deverá adotar procedimento administrativo próprio para lançamento do ITCD e de outros tributos porventura incidentes.
+    3. Por disciplinar matéria de natureza processual e não tributária, o disposto no art. 659 do CPC/2015 não afasta a incidência da legislação tributária (art. 192 do CTN) e nem ofende o art. 146 da Constituição Federal.
+    4. Recurso conhecido e desprovido.”
+    Opostos embargos de declaração, foram rejeitados (fl. 135, Vol. 1).
+    No apelo extremo, com fundamento no art. 102, III, “a”, da Constituição Federal, a parte recorrente alega ter o acórdão recorrido violado dispositivos constitucionais.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Além disso, o Juízo de origem, com base na legislação ordinária de regência (Código de Processo Civil e Código
+Tributário Nacional), negou provimento à apelação do Distrito Federal e manteve a sentença de homologação de partilha mediante os seguintes fundamentos, dentre outros (fls. 107-108, Vol. 1):
+    “O apelante insurge-se contra a sentença que determinou a expedição do formal de partilha independente da comprovação do pagamento do Imposto de Transmissão Causa Mortis ou Doação - ITCD.
+    Como procedimento alternativo ao do inventário ordinário, o CPC/2015 prevê dois procedimentos mais simples, rápidos e descomplicados, cuja ausência de formalismo permite solução mais célere da demanda: o arrolamento comum (art. 664 do CPC) e o arrolamento sumário (arts. 659 a 663), este último utilizado nos casos de partilha amigável, hipótese dos autos.
+    Sobre o procedimento do arrolamento sumário, o art. 659 do CPC estabelece:
+    "Art. 659. A partilha amigável, celebrada entre partes capazes, nos termos da lei, será homologada de plano pelo juiz, com observância dos arts. 660 a 663.
+    § 1°. O disposto neste artigo aplica-se, também, ao pedido de adjudicação, quando houver herdeiro único.
+    § 2°. Transitada em julgado a sentença de homologação de partilha ou de adjudicação, será lavrado o formal de partilha ou elaborada a carta de adjudicação e, em seguida, serão expedidos os alvarás referentes aos bens e às rendas por ele abrangidos, intimando-se o fisco para lançamento administrativo do imposto de transmissão e de outros tributos porventura incidentes, conforme dispuser a legislação tributária, nos termos do § 2° do art. 662." [grifo na transcrição].
+    Portanto, a homologação da partilha amigável não está condicionada à prova da quitação dos tributos relativos aos bens do Espólio.
+    Embora fosse uma exigência expressamente prevista no código anterior (art. 1.031, CPC/1973), o art. 659 do CPC/2015 deliberadamente a suprimiu, deslocando a fiscalização sobre o recolhimento dos tributos para a esfera administrativa.
+    Reflexo disso é a determinação de que a Fazenda Pública somente será intimada após o trânsito em julgado para providenciar o lançamento administrativo dos tributos devidos, não podendo discuti-los nos autos do arrolamento, conforme determina o art. 662, §2° do CPC/2015:
+    "Art. 662. No arrolamento, não serão conhecidas ou apreciadas questões relativas ao lançamento, ao pagamento ou à quitação de taxas judiciárias e de tributos incidentes sobre a transmissão da propriedade dos bens do espólio.
+    § 1°. A taxa judiciária, se devida, será calculada com base no valor atribuído pelos herdeiros, cabendo ao fisco, se apurar em processo administrativo valor diverso do estimado, exigir a eventual diferença pelos meios adequados ao lançamento de créditos tributários em geral.
+    § 2°. O imposto de transmissão será objeto de lançamento administrativo, conforme dispuser a legislação tributária, não ficando as autoridades fazendárias adstritas aos valores dos bens do espólio atribuídos pelos herdeiros." [grifo na transcrição].” (grifos no original)
+    Ao contrário do que afirma o apelante, essa nova sistemática não diminuiu as garantias da Fazenda Pública, uma vez que o registro do formal de partilha no Cartório de Imóveis depende do comprovante do recolhimento dos tributos devidos, nos termos do art. 143 da Lei de Registros Públicos, como ensina Humberto Theodoro Júnior:
+    (...)”
+    Trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 27 de maio de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
