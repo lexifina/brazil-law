@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARTS. 334-A, § 1º, I, E 330, NA FORMA DO ART. 69, TODOS DO CP. ABSOLVIÇÃO, EM SEGUNDO GRAU, DO CRIME DE DESOBEDIÊNCIA. ORDEM DE PARADA POR PARTE DE POLICIAIS MILITARES NO EXERCÍCIO DE ATIVIDADE OSTENSIVA. CONDUTA TÍPICA. PRECEDENTES. REVALORAÇÃO DA PROVA. NÃO INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte Superior já consolidou o entendimento de que "a desobediência de ordem de parada dada pela autoridade de trânsito ou por seus agentes, ou mesmo por policiais ou outros agentes públicos no exercício de atividades relacionadas ao trânsito, não constitui crime de desobediência, pois há previsão de sanção administrativa específica no art. 195 do Código de Trânsito Brasileiro, o qual não estabelece a possibilidade de cumulação de sanção penal".
+2. Recusar a ordem de parada por parte de policiais militares no exercício de atividade ostensiva, destinada à prevenção e à repressão de crimes, configura o tipo descrito no art. 330 do Código Penal.
+3. A decisão agravada alterou a conclusão do Colegiado a quo pela revaloração da moldura fática já delineada nos autos, o que foi demonstrado pela mera transcrição de trechos da sentença condenatória e do acórdão recorrido. Não incidência da Súmula n. 7 do STJ.
+4. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MILLOR FERNANDO DE OLIVEIRA interpõe agravo contra a decisão de fls. 286-289, na qual dei provimento ao recurso especial interposto pelo Ministério Público Federal, a fim de afastar a atipicidade considerada pelo Tribunal Regional Federal da 4ª Região e restabelecer a sentença condenatória.
+No regimental, a defesa sustenta, em síntese, que "a revisão do entendimento do Tribunal de origem, permissa venia, importou medida não autorizada na via eleita, pois demandou necessário revolvimento do material cognitivo produzido nos autos" (fl. 295).
+Pleiteia, ao final, a retratação do decisum agravado ou a submissão do feito a julgamento pela Sexta Turma.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARTS. 334-A, § 1º, I, E 330, NA FORMA DO ART. 69, TODOS DO CP. ABSOLVIÇÃO, EM SEGUNDO GRAU, DO CRIME DE DESOBEDIÊNCIA. ORDEM DE PARADA POR PARTE DE POLICIAIS MILITARES NO EXERCÍCIO DE ATIVIDADE OSTENSIVA. CONDUTA TÍPICA. PRECEDENTES. REVALORAÇÃO DA PROVA. NÃO INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte Superior já consolidou o entendimento de que "a desobediência de ordem de parada dada pela autoridade de trânsito ou por seus agentes, ou mesmo por policiais ou outros agentes públicos no exercício de atividades relacionadas ao trânsito, não constitui crime de desobediência, pois há previsão de sanção administrativa específica no art. 195 do Código de Trânsito Brasileiro, o qual não estabelece a possibilidade de cumulação de sanção penal".
+2. Recusar a ordem de parada por parte de policiais militares no exercício de atividade ostensiva, destinada à prevenção e à repressão de crimes, configura o tipo descrito no art. 330 do Código Penal.
+3. A decisão agravada alterou a conclusão do Colegiado a quo pela revaloração da moldura fática já delineada nos autos, o que foi demonstrado pela mera transcrição de trechos da sentença condenatória e do acórdão recorrido. Não incidência da Súmula n. 7 do STJ.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos do agravante, entendo que não lhe assiste razão.
+O réu foi condenado, em primeira instância, às penas de 2 anos de reclusão mais 15 dias de detenção, em regime inicial semiaberto, pela prática dos delitos dos arts. 334-A, § 1º, I, e 330, na forma do art. 69, todos do Código Penal, porque (fl. 4, grifei):
+ ..  na condução do veículo FIAT/Stilo, placas [PLACA], transportava aproximadamente 40 (quarenta) - quantidade informada pelo denunciado - caixas de cigarros contrabandeados do Paraguai.
+Na mesma oportunidade, o acusado desobedeceu ordem de parada emanada dos policiais militares, somente sendo preso em flagrante após 5 km de acompanhamento tático, quando foi possível realizar a abordagem.
+A Corte regional, ao absolver o acusado quanto ao crime de desobediência, asseverou (fl. 223, destaquei):
+Com efeito, embora o réu não tenha obedecido à ordem de parada, entendo que a ação visou evitar sua prisão em flagrante - porquanto em seu veículo havia cigarros de origem estrangeira, introduzidos irregularmente no país - configurando conduta atípica, realizada no exercício de autodefesa, que não merece reprimenda penal.
+Portanto, cumpre observar, nesses casos, a posição jurisprudencial que reconhece a atipicidade do ato de fuga, baseado no princípio da autodefesa.
+Conforme anteriormente consignado, o Colegiado decidiu pela atipicidade da conduta sob o argumento de que "é penalmente atípico o simples ato de não se submeter à fiscalização com o intuito de evitar a prisão" (fl. 224), sem considerar de especial relevo a ofensa gerada pela conduta.
+Sabe-se que este Tribunal Superior já consolidou o entendimento de que "a desobediência de ordem de parada dada pela autoridade de trânsito ou por seus agentes, ou mesmo por policiais ou outros agentes públicos no exercício de atividades relacionadas ao trânsito, não constitui crime de desobediência, pois há previsão de sanção administrativa específica no art. 195 do Código de Trânsito Brasileiro, o qual não estabelece a possibilidade de cumulação de sanção penal. Assim, em razão dos princípios da subsidiariedade do Direito Penal e da intervenção mínima, inviável a responsabilização da conduta na esfera criminal" (HC n. 369.082/SC, Rel. Ministro Felix Fischer, 5ª T., DJe 1º/8/2017, grifei).
+Contudo, o caso em testilha é diverso.
+Consta da sentença condenatória que o policial militar [NOME] estava na viatura caracterizada e o réu, ao perceber a chegada do veículo, "saiu em disparada, realizando manobras arriscadas e somente vindo a parar após cinco quilômetros de acompanhamento tático, já em estrada rural do Município de Pérola/PR" (fl. 144, grifei).
+Consignou, ainda, o Juízo singular que o agente de segurança pública asseverou: "o acusado falara que não poderia ser preso, pois estava respondendo processo criminal por fato análogo", e "ratificou seu depoimento prestado na fase policial, no que concerne à sucessiva desobediência às ordens de parada dirigidas ao acusado, não obstante estivesse com viatura caracterizada, com sinal luminoso ativado e sirene acionada" (fl. 144, destaquei).
+Em caso similar, já decidiu este Superior Tribunal:
+ ..
+III - No presente caso, contudo, a ordem de parada não foi dada pela autoridade de trânsito e nem por seus agentes, mas por policiais militares no exercício de atividade ostensiva, destinada à prevenção e à repressão de crimes, que foram acionados para fazer a abordagem do paciente, em razão de atividade suspeita por ela apresentada, conforme restou expressamente consignado no v. acórdão impugnado. Desta forma, não restou configurada a hipótese de incidência da regra contida no art. 195 do Código de Trânsito Brasileiro e, por conseguinte, do entendimento segundo o qual não seria possível a responsabilização criminal do paciente pelo delito de desobediência tipificado no art. 330 do Código Penal.
+ ..
+(HC n. 369.082/SC, Rel. Ministro Felix Fischer, 5ª T., DJe 1º/8/2017, grifei)
+Daí porque verifiquei a alegada violação do art. 330 do Código Penal, pois é claramente típica a conduta de desobediência praticada pelo agravante.
+Saliento que a alteração do entendimento do Colegiado a quo deu-se com base na revaloração da moldura fática já delineada nos autos, o que ficou demonstrado pela mera transcrição de trechos da sentença condenatória e do acórdão recorrido. Não incide no caso, portanto, a Súmula n. 7 dessa Corte Superior de Justiça.
+À vista do exposto, nego provimento ao agravo regimental.
