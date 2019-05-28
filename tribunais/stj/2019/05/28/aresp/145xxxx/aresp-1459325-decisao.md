@@ -1,0 +1,27 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BANCO J. SAFRA S.A. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE -5 REINTEGRAÇÃO DE POSSE EM FASE DE á CUMPRIMENTO DE SENTENÇA. CRÉDITO DECORRENTE DE VALOR RESIDUAL GARANTIDO (VRG) PAGO ANTECIPADAMENTE. TOGADO DE ORIGEM QUE REJEITA A IMPUGNAÇÃO. INCONFORMISMO DO BANCO.
+DIREITO INTERTEMPORAL. DECISÃO PUBLICADA EM 31-1-18. INCIDÊNCIA DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+INÉPCIA DA INICIAL. INACOLHIMENTO. BANCO QUE TEVE CONDIÇÕES DE IMPUGNAR O VALOR APRESENTADO NO CUMPRIMENTO DE SENTENÇA POR MEIO DE REMESSA À CONTADORIA JUDICIAL.
+CERCEAMENTO DE DEFESA. [NOME]. DESNECESSIDADE DE REALIZAÇÃO DE PERÍCIA. AUSÊNCIA DE OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E AMPLA DEFESA.
+EXCESSO DE EXECUÇÃO. PARCIAL AGASALHO. CREDORA QUE PAGOU, A TÍTULO DE VRG, SOMADO COM A ALIENAÇÃO DO VEÍCULO, O MONTANTE DE R$ 32.134,04 (TRINTA E DOIS MIL, CENTO E TRINTA E QUATRO REAIS E QUATRO CENTAVOS). SUBTRAÇÃO (DO VRG PACTUADO - R$ 31.210,20 (TRINTA E UM MIL, DUZENTOS E DEZ REAIS E VINTE CENTAVOS) - QUE REDUNDA EM UM SALDO CREDOR EM FAVOR DA AUTORA DE R$ 923,84 (NOVECENTOS E VINTE E TRÊS REAIS E OITENTA E QUATRO CENTAVOS).
+ATUALIZAÇÕES PERTINENTES QUE DEVEM SER INSERIDAS. ALTERAÇÃO PARCIAL DA INTERLOCUTÓRIA.
+ÔNUS DE SUCUMBÊNCIA. NECESSÁRIA RECALIBRAGEM FACE A MODIFICAÇÃO PARCIAL DO DECISÓRIO POR ESTE SODALÍCIO. DISTRIBUIÇÃO DAS CUSTAS PROCESSUAIS DE FORMA RECÍPROCA, FICANDO 30% (TRINTA POR CENTO) A ENCARGO DA IMPUGNANTE E 70% (SETENTA POR CENTO) SOB A RESPONSABILIDADE DO BANCO. VERBA HONORÁRIA.
+POSICIONAMENTO DESTE ÓRGÃO FRACIONÁRIO ATENTO AO RECURSO ESPECIAL REPETITIVO N. 1.134.186/RS, DE RELATORIA DO MINISTRO LUIS FELIPE SALOMÃO. FIXAÇÃO DO ESTIPÊNDIO EM PROL DOS PROCURADORES DO DEVEDOR. SUSPENSÃO DA EXIGIBILIDADE DA VERBA, NA FORMA DO ART. 98, § 3º, DO NCPC, EM RAZÃO DE A RECORRIDA SER BENEFICIÁRIA DA JUSTIÇA GRATUITA.
+HONORÁRIOS SUCUMBENCIAIS RECURSAIS. INTELIGÊNCIA DO ART. 85, §§ 1º E 11, DO CÓDIGO FUX. POSSIBILIDADE DE FIXAÇÃO DE OFÍCIO EM RAZÃO DAj EXISTÊNCIA DE CONDENAÇÃO AO PAGAMENTO DA VERBA PROFISSIONAL NA ORIGEM. ENTENDIMENTO SEDIMENTADO PELA "CORTE DA CIDADANIA".
+REBELDIA PARCIALMENTE ACOLHIDA.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 5º, inciso LV, da Constituição Federal.
+É o relatório. DECIDO.
+2. De início, consigne-se que na via especial não cabe a análise de afronta a dispositivo constitucional, ainda que com intuito de prequestionamento. Nesse sentido os seguintes precedentes: EDcl no REsp 680.385/RS, Rel. Ministro BARROS MONTEIRO, DJ 20.03.2006, REsp 1043700/TO, Rel. Ministro CASTRO MEIRA, DJe 05.09.2008; AgRg no REsp 977.900/PR, Rel. Ministra LAURITA VAZ, , DJe 08.09.2008.
+3. No mais, em relação às demais alegações da parte agravante, a particularização inequívoca dos normativos federais supostamente contrariados pelo Tribunal de origem é imprescindível quando da interposição do recurso especial fundado na alínea "a" do permissivo constitucional, cuidando o recorrente de demonstrar, mediante argumentação lógico-jurídica competente à questão controversa apresentada, de que maneira o acórdão impugnado teria ofendido a legislação mencionada.
+O não atendimento quanto à indicação do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinente, pela parte recorrente, a fim de demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Isso porque a controvérsia a ser tratada no recurso especial, sob a baliza da alínea "a" do art. 105, inc. III, da CFRB, respeita solver discussão quanto à contrariedade ou negativa de vigência perpetrada pelo tribunal a quo à legislação ou tratado federal em sua aplicação ao caso concreto. Incidência, no ponto, da Súmula 284/STF.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO À LEI FEDERAL. INCIDÊNCIA DAS SUMULAS 284/STF E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Cotejando as premissas do acórdão estadual, constata-se que a análise da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+2. A alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Incidência da Súmula 284-STF.
+3. Agravo interno não provido.
+(AgInt no AREsp 856.473/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/05/2016, DJe 01/06/2016)
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
