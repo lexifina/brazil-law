@@ -1,0 +1,23 @@
+DECISÃO
+AUTUAÇÃO – RETIFICAÇÃO.
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Unidade de Apuração de Crimes Praticados por Organizações Criminosas da Comarca de Florianópolis/SC, no processo nº 0007967-91.2017.8.24.0023, determinou a prisão preventiva das pacientes, ocorrida em 5 de julho de 2018, e de outras 43 pessoas, ante o alegado cometimento das infrações previstas nos artigos 35 (associação voltada ao tráfico) da Lei nº 11.343/2006, 2º (integrar organização criminosa) da Lei nº 12.850/2013, 14 (porte ilegal de arma de fogo de uso permitido) e 16 (porte ilegal de arma de fogo de uso restrito) da Lei nº 10.826/2003. Ressaltou a existência de materialidade e indícios de autoria. Concluiu imperiosa a custódia para garantir a ordem pública, levando em conta a necessidade de desarticular a atuação do grupo. Destacou conteúdo extraído de conversas obtidas por meio de interceptações telefônicas autorizadas judicialmente, frisando tratar-se de organização bem estruturada voltada ao tráfico de drogas. Realçou o envolvimento com a facção denominada Primeiro Comando da Capital (PCC). Afastou a imposição de medidas diversas, dizendo-as insuficientes.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas de nº 487.136/SC, inadmitido pela Quinta Turma.
+    Os impetrantes sustentam a insubsistência dos fundamentos do ato mediante o qual determinada a prisão preventiva, afirmando-o lastreado na gravidade abstrata do crime. Apontam a viabilidade da substituição por cautelares alternativas. Asseveram o excesso de prazo da custódia.
+    Requerem, no campo precário e efêmero, o afastamento da preventiva, com ou sem aplicação de medidas diversas, sem especificá-las. No mérito, buscam a confirmação da providência.
+    A Vara Criminal da Região Metropolitana de Florianópolis, por meio de certidão, informou o recebimento da denúncia, em desfavor das pacientes, no dia 5 de julho de 2018, com efetivação da prisão preventiva no mesmo dia.
+    Consulta ao sítio do Tribunal de Justiça, realizada em 27 de maio de 2019, revelou estar o processo-crime na fase de instrução.
+    Este habeas foi distribuído por prevenção, em virtude da vinculação com o de nº 169.915, impetrado em favor de corréu. Nesse processo, que se encontra aparelhado para exame, Vossa Excelência, em 29 de abril de 2019, acolheu o pedido de liminar para afastar a custódia, considerado o excesso de prazo.
+    A etapa é de apreciação da medida de urgência.
+    2. Retifiquem a autuação para fazer constar, como autoridade coatora, apenas o Superior Tribunal de Justiça.
+    3. O Juízo, ao determinar a prisão preventiva, destacou a existência de interceptações telefônicas nas quais indicada a participação das pacientes em grupo criminoso voltado ao tráfico de entorpecentes e ligado à facção Primeiro Comando da Capital (PCC). O quadro demonstra estar em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a medida mostrou-se viável, ante a periculosidade, ao menos sinalizada. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que as pacientes encontram-se presas, sem culpa formada, desde 5 de julho de 2018, ou seja, há 10 meses e 23 dias. Surge o excesso de prazo, considerada a prisão preventiva e o estágio do processo-crime, porquanto sequer proferida sentença. Privar da liberdade, por tempo desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do pronunciamento por meio do qual implementada, em execução antecipada da sanção, olvidando-se garantia constitucional.
+    4. Defiro a liminar. Expeçam alvarás de soltura a serem cumpridos com as cautelas próprias: caso as pacientes não estejam custodiadas por motivo diverso da prisão preventiva determinada no processo nº 0007967-91.2017.8.24.0023, da Unidade de Apuração de Crimes Praticados por organizações Criminosas da Comarca de Florianópolis/SC. Advirtam-nas da necessidade de permanecerem com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informarem possível transferência e de adotarem a postura que se aguarda das cidadãs integradas à sociedade.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 28 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
