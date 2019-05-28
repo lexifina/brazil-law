@@ -1,0 +1,21 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS CONCEDIDO LIMINARMENTE. CABIMENTO DO WRIT NAS HIPÓTESES DE MANIFESTA ILEGALIDADE. CONSTRANGIMENTO EVIDENCIADO NA IMPOSIÇÃO DE REGIME INICIAL MAIS GRAVOSO COM BASE NA NATUREZA MAIS NOCIVA DE DROGA QUE FOI APREENDIDA EM QUANTIDADE INEXPRESSIVA (3,5 G DE COCAÍNA). FALTA DE MANIFESTAÇÃO DO TRIBUNAL DE ORIGEM E DO PARQUET. POSSIBILIDADE. PREJUÍZO NÃO DEMONSTRADO.
+1. Embora não se admita, via de regra, a utilização do writ como substitutivo de recurso próprio, diante da verificação de evidente ilegalidade, faz-se possível a atuação desta Corte Superior para fazer sanar o constrangimento ilegal.
+2. Na espécie, configura evidente constrangimento ilegal a imposição ao ora agravado de regime mais gravoso do que o cabível em razão da sanção aplicada com base somente na natureza mais nociva de uma das drogas apreendidas - cocaína -, haja vista que a quantidade do dito entorpecente não é expressiva - 3,5 g.
+3. É imprescindível conferir maior celeridade ao habeas corpus a fim de se garantir a real efetividade da decisão judicial, sem a necessidade de se prolongar o flagrante constrangimento ilegal, sobretudo quando ele é perceptível já no primeiro olhar e afeta direta e imediatamente a liberdade de ir e vir do agravado. Não é perceptível, no caso, qual prejuízo teria o interesse público pela falta de manifestação do Tribunal a quo e do Parquet.
+4. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto pelo Ministério Público Federal contra a decisão de fls. 111/112, tomada nos termos desta ementa:
+HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME PRISIONAL. IMPOSIÇÃO DO FECHADO COM FUNDAMENTO NA NOCIVIDADE DA COCAÍNA. PEQUENA QUANTIDADE DO ENTORPECENTE (3,5 G). REPRIMENDA INFERIOR A 4 ANOS. ADEQUAÇÃO DO ABERTO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente.
+Aduz o agravante que esta Corte Superior não tem competência para apreciação de habeas corpus substitutivo de recurso próprio, que houve ofensa ao princípio do devido processo legal pela falta de notificação da autoridade tida como coatora para tomar ciência e prestar informações e que não foi observada a obrigatoriedade de vista ao Ministério Público Federal.
+Pretende a reconsideração da decisão hostilizada ou a apresentação do recurso em mesa, a fim de que não seja conhecido o habeas corpus ou seja denegada a ordem.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Não merece reparos a decisão ora agravada.
+No que diz respeito ao fato de se tratar de habeas corpus substitutivo de recurso próprio, há muito as Cortes Superiores firmaram o entendimento de que, embora não se admita, via de regra, a utilização do writ como sucedâneo do meio processual adequado, ressalvam-se as hipóteses excepcionais, isto é, aquelas em que configurada flagrante ilegalidade, como na espécie.
+Com efeito, configura evidente constrangimento ilegal a imposição ao ora agravado de regime mais gravoso do que o cabível em razão da sanção aplicada com base somente na natureza mais gravosa de uma das drogas apreendidas - cocaína -, haja vista que a quantidade do dito entorpecente não é expressiva - 3,5 g.
+Já no tocante à falta de prévia manifestação da autoridade apontada como coatora e do Ministério Público Federal, entendo que, em hipóteses como a presente, é imprescindível conferir maior celeridade ao writ a fim de garantir a real efetividade da decisão judicial, sem a necessidade de prolongar a evidente ilegalidade. E o inciso XX do art. 34 do nosso Regimento autoriza o Relator a decidir a impetração quando a decisão atacada confrontar súmula do Superior Tribunal de Justiça ou a jurisprudência dominante acerca do tema. Não percebo qual prejuízo teria o interesse público pela ausência de manifestação da Corte a quo ou do Parquet no caso em questão.
+Pelo exposto, nego provimento ao agravo regimental.
