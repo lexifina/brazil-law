@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] contra decisão liminar do Tribunal de Justiça do Estado de São Paulo (HC n. 2112038-57.2019.8.26.0000).
+Segundo consta dos autos, o paciente foi preso em flagrante no dia 21/5/2019 (prisão convertida em preventiva) pela suposta prática dos crimes previstos no art. 33 da Lei n. 11.343/2006 porque foi surpreendido na posse de 14 porções de maconha com peso total de 20g, além de R$ 36,00 (e-STJ fl. 50):
+A Defensoria Pública impetrou habeas corpus na Corte estadual alegando, em síntese, ausência de fundamentação idônea no decreto de prisão, asseverando que o paciente é primário e, em caso de condenação, faria jus ao redutor de pena previsto no §4º do art. 33 da Lei de Drogas (e-STJ fl. 58). O Relator da ação no Tribunal de origem, contudo, indeferiu a liminar.
+Na presente oportunidade, a Defensoria Pública afirma que a quantidade de droga apreendida não é elevada, o que afasta a gravidade concreta do crime e que, em eventual condenação, seria fixado regime diverso do fechado, face às suas condições subjetivas favoráveis.
+Diante disso, pede, liminarmente e no mérito, a revogação da prisão preventiva do paciente ou, subsidiariamente, a substituição por medidas cautelares diversas, expedindo-se o alvará de soltura, com superação da Súmula n. 691 da Corte Suprema.
+É o relatório, decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular, o que não se mostra presente na espécie.
+No caso, ao que parece, o Relator da ação originária não vislumbrou manifesta ilegalidade, motivo pelo qual indeferiu a liminar pleiteada, como se depreende do seguinte trecho da decisão monocrática (e-STJ fls. 59 e 60, grifei):
+Não se vislumbra primo ictu oculi qualquer mácula à liberdade de ir e vir de CHEIKH, o que desembocaria no lamentável constrangimento ilegal.
+(..)
+Isto porque se trata de circunstância ligada à pena em concreto, o que também ocorre com a fixação da reprimenda final, aplicando-se ou não a benesse prevista no artigo 33, parágrafo 4o, da Lei nº 11.343/06, e com a fixação do regime de cumprimento (sistema trifásico).
+Aliás, os fundamentos da prisão preventiva estão relacionados ao processo (necessidade de garantir a instrução penal), ao direito material (aplicação da lei penal) e à sociedade (garantia da ordem pública), os quais, se não afastados, não podem sucumbir perante circunstâncias "pessoais", salvo o artigo 318, do Código de Processo Penal, inaplicável aos autos.
+Cumpre ressaltar ainda que, segundo o Magistrado de primeiro grau, "Trata-se o autuado de indivíduo estrangeiro, sem documentos, e sem vínculo com o distrito da culpa" (e-STJ fl.51, grifei).
+A propósito, dispõe o art. 313, parágrafo único, do Código de Processo Penal, acrescentado pela Lei n. 12.403/2011, que "também será admitida a prisão preventiva quando houver dúvida sobre a identidade civil da pessoa ou quando esta não fornecer elementos suficientes para esclarecê-la, devendo o preso ser colocado imediatamente em liberdade após a identificação, salvo se outra hipótese recomendar a manutenção da medida".
+Assim, no caso, não se verifica manifesta ilegalidade que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte.
+Entendo, assim, que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar, no momento adequado, a argumentação da impetração e as provas juntadas ao mandamus originário.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a petição inicial do presente habeas corpus.
+Publique-se. Intimem-se.
