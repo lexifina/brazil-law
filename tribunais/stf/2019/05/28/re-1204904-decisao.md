@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Piauí, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA. CUMULAÇÃO DE CARGOS EFETIVO E TEMPORÁRIO. POSSIBILIDADE. COMPATIBILIDADE DE HORÁRIOS. NÃO COMPROVAÇÃO. RECURSO E REEXAME PROVIDOS. SEGURANÇA DENEGADA.” (eDOC 1, p. 178)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 37, XVI, do texto constitucional.
+    Nas razões recursais, alega-se violação ao princípio da legalidade e da isonomia, porquanto lhe foi negado a oportunidade de continuar no processo seletivo por falta de comprovação da compatibilidade de horários. (eDOC 1, p. 230)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, bem como interpretar cláusulas contidas em edital, consignou que o recorrente não teria comprovado os requisitos para a cumulação de cargos. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Todavia, compulsando os autos, constato que o impetrante/apelado não comprova de forma inequívoca a compatibilidade de horários para o exercício do cargo de Coordenador de Núcleo do Programa Segundo Tempo, regra voltada justamente aos casos de acumulação de cargos públicos prevista no art. 37, XVI, da CF. Inexiste nos autos discriminação exata dos horários de entrada e saída dos cargos, restando impossibilitada a análise e consequente conclusão acerca da compatibilidade de horários. Ademais, verifico que o cargo efetivo de Professor de Educação Física (Caraúbas do Piauí – PI – 40h / fls. 30) e o cargo temporário de Coordenador de Núcleo Física do Programa Segundo (Piracuruca – PI – 20h / fls. 18) compõe a estrutura administrativa de municípios diversos, o que comprova, por mais este fato, a incompatibilidade do exercício cumulativo pretendido.” (eDOC 1, p. 185)
+    Assim, divergir do entendimento firmado pelo Tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS. NATUREZA DOS CARGOS. ACÓRDÃO FUNDAMENTADO NO EDITAL DO CONCURSO E NO CONJUNTO FÁTICO-PROBATÓRIO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (ARE 884126 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 03.08.2015)
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS E COMPATIBILIDADE DE HORÁRIOS. SÚMULA 279/STF. PRECEDENTES. 1. A resolução da controvérsia demanda o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), procedimento inviável nesta fase recursal. Precedentes. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF) 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (ARE 1167235 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 13.05.2019)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 25 da Lei 12.016/2009.
+    Publique-se.
+    Brasília, 28 de maio de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
