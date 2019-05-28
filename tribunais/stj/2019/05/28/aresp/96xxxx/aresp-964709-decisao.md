@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão (e-STJ fls. 1.539/1.542) que inadmitiu recurso especial por incidência das Súmulas n. 5 e 7 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 1.345):
+APELAÇÃO CÍVEL E AGRAVO RETIDO. AÇÃO ORDINÁRIA DE COBRANÇA. AUTORA, ASSOCIAÇÃO COM FINS ASSISTENCIAIS, VOLTADOS À QUALIDADE DE VIDA DOS EMPREGADOS DA RÉ. CELEBRAÇÃO DE CONVÊNIO ENTRE AS LITIGANTES. ALEGAÇÃO DA DEMANDANTE DE QUE A DEMANDADA NÃO HONROU INTEGRALMENTE O CONTRATO, UMA VEZ QUE NO PERÍODO QUE ESPECIFICA DEIXOU DE ARCAR COM OS CUSTOS RELATIVOS À OPERACIONALIZAÇÃO DOS BENEFÍCIOS SOCIAIS. PRETENSÃO DEDUZIDA INVIÁVEL DE SER ACOLHIDA, ANTE A EXPRESSA VEDAÇÃO LEGAL DE A RÉ, SOCIEDADE DE ECONOMIA MISTA, INTEGRANTE DA ADMINISTRAÇÃO PÚBLICA INDIRETA, REPASSAR VALORES MONETÁRIOS À AUTORA. INTELIGÊNCIA DO ARTIGO 1º DO DECRETO Nº 99509, de 05.09.1990. ÓBICE AOS REPASSES DECLARADO EM DECISÕES DO COLENDO TRIBUNAL DE CONTAS DA UNIÃO - TCU, ÓRGÃO DE CONTROLE EXTERNO, NO EXERCÍCIO CONSTITUCIONAL DA FISCALIZAÇÃO CONTÁBIL, FINANCEIRA, ORÇAMENTÁRIA, OPERACIONAL E PATRIMONIAL DA UNIÃO E DAS ENTIDADES DA ADMINISTRAÇÃO DIRETA E INDIRETA. PEDIDO CORRETAMENTE JULGADO IMPROCEDENTE. EXISTÊNCIA NOS AUTOS DE AGRAVO RETIDO, CUJA APRECIAÇÃO NÃO FOI POSTULADA A ESTE TRIBUNAL. INCIDÊNCIA À ESPÉCIE DO ARTIGO 523, § 1º DO CÓDIGO DE PROCESSO CIVIL. AGRAVO RETIDO NÃO CONHECIDO. DESPROVIMENTO DA APELAÇÃO.
+O recurso especial (e-STJ fls. 1.421/1.447), fundamentado no art. 105, III, alíneas "a", da CF, apontou violação do art. 420 do CC/2002, suscitando inobservância do princípio da boa-fé objetiva.
+Sustentou que a obrigação de repasse de recursos foi estabelecida tanto no convênio - anulado pelo TCU - quanto no estatuto, devendo ser considerado válido até 2019, quando do cancelamento.
+Foram apresentadas contrarrazões (e-STJ fls. 1.497/1.515).
+O agravo (e-STJ fls. 1.569/1.592) refuta os fundamentos da decisão agravada e alega o cumprimento de todos os requisitos legais para o recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 1.621/1.642).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Na origem, trata-se de ação ajuizada pela recorrente para obter ressarcimento de despesas relativas aos custos de operação, benefícios sociais e assistenciais prestados segundo convênio firmado em 2002, que deixou de ser pago a partir de 2006.
+No especial, a recorrente afirma violação do princípio da boa-fé objetiva, aduzindo, em síntese, que o serviço foi prestado e as obrigações assumidas no convênio e no seu estatuto, devendo prevalecer o repasse até a efetiva suspensão em 2010. Aponta, para fundamentar sua tese, violação do art. 420 do CC/2002:
+Art. 420. Se no contrato for estipulado o direito de arrependimento para qualquer das partes, as arras ou sinal terão função unicamente indenizatória. Neste caso, quem as deu perdê-las-á em benefício da outra parte; e quem as recebeu devolvê-las-á, mais o equivalente. Em ambos os casos não haverá direito a indenização suplementar.
+A redação do dispositivos não possui carga normativa para justificar a tese proposta pela recorrente - violação da boa-fé objetiva -, tratando, em verdade, de arras.
+A dissonância entre a norma indicada e a tese proposta obsta o conhecimento do recurso, nos termos da Súmula n. 284/STF. Com a mesma orientação:
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONDENATÓRIA - COMPRA E VENDA DE IMÓVEL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+1. Na interposição do recurso especial, é dever da parte recorrente indicar como violado ou como objeto de interpretação divergente dispositivo de lei federal com conteúdo normativo conexo com a matéria discutida na irresignação, sob pena de a deficiência das razões recursais atrair o óbice da Súmula 284/STF. Precedentes.
+2. A imposição da multa, prevista no art. 1.021, § 4º, do CPC/15, não é aplicável em virtude do mero desprovimento do agravo interno, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorre no caso.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.041.235/ES, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/5/2018, DJe 30/5/2018 - grifei.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO CIVIL PÚBLICA. EXECUÇÃO PROVISÓRIA. REQUISITOS. INDICAÇÃO DE OFENSA A DISPOSITIVO LEGAL QUE NÃO GUARDA PERTINÊNCIA COM A FUNDAMENTAÇÃO TRAZIDA NO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA Nº 284 DO STF, POR ANALOGIA. SUSPENSÃO DO TRÂMITE PROCESSUAL. DECISÃO DE NATUREZA PROVISÓRIA. SÚMULA Nº 735 DO STF. RECURSO ESPECIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A fundamentação declinada pelo recorrente em suas razões recursais deve guardar pertinência temática com o conteúdo normativo dos dispositivos legais tidos por afrontados, sob pena de incidência da Súmula nº 284 do STF.
+3. A decisão prolatada em execução provisória de provimento tem caráter provisório, revelando-se incabível a interposição de recurso especial voltado contra decisum dessa natureza, nos moldes do enunciado da Súmula nº 735 do STF.
+4. Agravo interno não provido.
+(AgInt no REsp 1.713.655/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/5/2018, DJe 30/5/2018 - grifei.)
+Além disso, o Tribunal de origem não debateu a tese de violação da boa-fé objetiva, limitando-se a apontar que o TCU teria declarado a invalidade do convênio, o que inviabilizaria outros repasses financeiros (e-STJ fl. 1.353):
+Adentra-se ao recurso de Apelação cuja inadmissibilidade é suscitada pela ré.
+Data maxima venia, ao contrário do alegado pela demandada, a apelante revela, sim, sua insurgência sobre as questões jurídicas apreciadas pela douta sentença, apontando os pontos sobre os quais discorda, nada justificando, portanto, a pretendida inadmissibilidade, que ora se rejeita.
+No presente feito, a autora postula a condenação da ré ao pagamento de valor monetário decorrente da obrigação assumida pela demandada de, em observância ao Estatuto da demandante, em especial de seu artigo 11, II, b, arcar com os custos de operacionalização dos Benefícios Sociais e Assistenciais que administra. Sustenta que tal cobrança diz respeito ao período de janeiro de 2007 a junho de 2009, consoante quadro constante da inicial, mais especificamente de fls. 06/07.
+Conforme se vê de fls. 27/31, em 03.09.2002 as partes firmaram o "Convênio para Administração de Benefícios Sociais e Serviços Assistenciais", estabelecendo a Cláusula 6ª do documento em apreço que sua vigência seria de 05 (cinco) anos, sendo ressalvada às partes, a qualquer tempo, a sua denúncia, mediante aviso prévio, por escrito, de 60 (sessenta) dias.
+Alegou a ré, em sua contestação que, inicialmente, os motivos que ensejaram a suspensão do repasse de recursos à autora foram o descumprimento pela demandante, em 2007, da Cláusula 3ª do mencionado Convênio, consubstanciado na apresentação da previsão, relativa ao exercício seguinte, dos dispêndios com a administração, manutenção e operacionalização dos serviços previstos na Cláusula 13 do mesmo documento.
+Salientou, ainda, que a autora não cumpriu outro de seus deveres, qual seja, o de dar posse aos membros indicados pela demandada para integrarem o Conselho Deliberativo da demandante. Porém, independentemente dos fatos declinados como justificativas para a suspensão dos repasses financeiros da ré à autora, o Tribunal de Contas da União adotou posicionamento acerca do repasse de verbas à demandante, tanto por parte de Furnas Centrais Elétricas S/A quanto por parte da ora ré.
+Com efeito, já em 2007, no Acórdão 1891/2007, publicado em 14.09.2007, atinente ao Relatório do Segundo Monitoramento realizado pela Secretaria de Controle Externo do Rio de Janeiro - Secex-RJ em Furnas Centrais Elétricas S/A, consoante fls. 205/236, foi determinado no item 9.3.2.1 à aludida Secretaria:
+ ..
+No acórdão nº 1225/2008, publicado em 30.06.2008, tendo também por objeto o Relatório de Monitoramento realizado em Furnas Centrais Elétricas S/A, consignou o julgado (fls. 583/592):
+ ..
+Posteriormente, no acórdão nº 1901/2010, publicado em 11.08.2010, o qual tratou do monitoramento do acórdão nB 1225/2008, restou decidido pelo Tribunal de Contas da União - TCU:
+ ..
+A determinação do Tribunal de Contas da União - TCU tem suporte, sobretudo, no Decreto nº 99509, de 05.09.1990, que veda contribuições com recursos públicos em favor de clubes e associações de servidores ou empregados de órgãos e entidades da Administração Pública Federal. O artigo 1º da norma em apreço consigna:
+ ..
+Verifica-se, assim, que a ré, na condição de sociedade de economia mista, integrante da Administração Pública Indireta, efetuava as transferências financeiras à Caixa de Assistência com flagrante violação à vedação imposta pelo referido artigo 1º do Decreto nº 99509/1990.
+Frise-se que a regra em apreço enumera, no parágrafo 1º, as exceções quanto à incidência da proibição, sendo certo, entretanto, que os repasses que a demandada destinava à autora não integram as ressalvas relacionadas, daí se afigurarem manifestamente ilegais.
+Portanto, a discussão acerca do cumprimento do contrato, suporte da pretensão deduzida, perde seu objeto perante a questão maior, qual seja, a impossibilidade legal de a ré repassar recursos para a autora.
+Como consignado pela douta sentença,
+"Ao Tribunal de Contas da União (TCU), por previsão expressa na Constituição Federal, compete exercer a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e administração indireta, quanto à legalidade, à legitimidade e à economicidade e a fiscalização da aplicação das subvenções e da renúncia de receitas."
+Acrescentou, ainda, a digna prolatora:
+O TCU concluiu ao examinar a regularidade da intermediação da CAEFE na prestação de serviços aos empregados que os repasses financeiros feitos por FURNAS e posteriormente, pela Eletronuclear à CAEFE, ainda que lastreados em convênio, importavam em transferência de dinheiro público sem o devido amparo legal. Por conseguinte determinou a cessação de transferências de recursos financeiros à CAEFE, ratificando a decisão cautelar anterior. Neste cenário, o ajuizamento de ação de cobrança na qual se objetiva compelir a Eletronuclear ao pagamento de valores à CAEFE pela prestação dos serviços descritos no Estatuto sinaliza a clara tentativa de frustrar a efetividade da decisão do TCU."
+E concluiu:
+Ainda que a decisão do Tribunal de Contas não tenha efeito vinculativo ao Poder Judiciário, não cabe à Justiça Estadual rever ou reapreciar questões decididas no âmbito das atribuições federais do TCU."
+Nessa perspectiva, e à vista, principalmente, dos bem fundamentados acórdãos constantes dos autos, exarados pelo Tribunal de Contas da União, que com esmero evidenciaram a ilegalidade dos repasses da ré à autora, qualquer decisão desta Corte Estadual que delas divergisse importaria o absurdo estímulo do Poder Judiciário à infração ao direito positivo.
+Quanto á verba honorária, irreparável se afigura a douta sentença, ante a literalidade do artigo 20, § 3 do Código de Processo Civil.
+À vista do exposto, constata-se que o respeitável Juízo de primeiro grau conferiu adequada solução à demanda, devendo o julgado por ele prolatado ser integralmente confirmado.
+À conta de tais fundamentos, não se conhece do Agravo Retido e nega-se provimento à Apelação.
+Não tendo ocorrido debate sobre a tese de inobservância da boa-fé objetiva, inexiste prequestionamento, incidindo a Súmula n. 282/STF.
+Ante o exposto, CONHEÇO do agravo e NEGO-LHE PROVIMENTO.
+Publique-se e intimem-se.
