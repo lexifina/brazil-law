@@ -1,0 +1,42 @@
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. NEGATIVA DE PARTICIPAÇÃO NO DELITO E AUSÊNCIA DE PROVAS. INVIABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. FUNDAMENTOS CONCRETOS. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva é cabível mediante decisão devidamente fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. A negativa de participação no delito e ausência de provas, além de demandar profundo reexame dos fatos e das provas que permeiam o processo principal, não demonstram o constrangimento ilegal.
+3. No caso, a prisão cautelar foi decretada e mantida com motivação idônea, considerando-se, de um lado, as circunstâncias concretas do fato delituoso em análise, reveladoras, pelo modus operandi empregado, da real gravidade do crime (roubo perpetrado em concurso de agentes, em zona rural, com emprego de arma de fogo, contra diversas vítimas, incluindo um bebê que se encontrava na residência no momento do crime). Isso confere lastro de legitimidade à manutenção da medida extrema.
+4. Condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar sua necessidade, como na espécie, não se revelando suficientes as medidas previstas no art. 319 do Código de Processo Penal.
+5. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, denegar a ordem nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Paraná, que denegou a ordem no HC n. 0055556-39.2018.8.16.0000.
+Colhe-se dos autos que o ora paciente teve a prisão preventiva decretada no dia 17/12/2018, pela suposta prática do crime de roubo circunstanciado (fls. 247/251).
+Pleiteada a revogação da custódia cautelar, o Juízo singular indeferiu o pedido defensivo (fls. 276/278).
+Foi impetrado habeas corpus no Tribunal de origem, cuja ordem foi denegada nos termos da seguinte ementa (fl. 324):
+HABEAS CORPUS. ROUBO MAJORADO PELO CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO. DECRETO DE PRISÃO PREVENTIVA E INDEFERIMENTO DE PEDIDO DE REVOGAÇÃO DESSA MEDIDA. NÃO REALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA. COAÇÃO ILEGAL NÃO CARACTERIZADA. PACIENTE QUE TEVE SUA PRISÃO PREVENTIVA DECRETADA POR OCASIÃO DO RECEBIMENTO DA DENÚNCIA FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS DEMONSTRADOS. AUSÊNCIA DE PROVAS. IMPOSSIBILIDADE DE ANÁLISE DESSA TESE NA VIA ELEITA. CARÊNCIA DE FUNDAMENTAÇÃO DAS DECISÕES ATACADAS. IMPROCEDÊNCIA. PRESENÇA DOS REQUISITOS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL. DEMONSTRADA. GRAVIDADE CONCRETA DO DELITO. MEDIDAS CAUTELARES ALTERNATIVAS. DESCABIMENTO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. VIOLAÇÃO DO PRINCIPIO DA PROPORCIONALIDADE. TESE AFASTADA. ORDEM DENEGADA.
+Daí o presente mandamus, no qual os impetrantes alegam que não se encontram presentes os requisitos necessários para manutenção da prisão preventiva.
+Sustentam que a custódia cautelar está fundamentada na gravidade abstrata do delito, de forma genérica.
+Ressaltam as condições pessoais favoráveis do paciente.
+Argumentam que não há nos autos indícios de autoria e provas da participação do paciente no suposto crime em análise.
+Invocam o princípio constitucional da presunção de inocência.
+Requerem, assim, a concessão da ordem para que o paciente possa responder ao processo em liberdade.
+Em 5/2/2019, o pedido liminar foi por mim indeferido às fls. 341/342.
+Após as informações prestadas às fls. 346/351, o Ministério Público Federal opinou pelo não conhecimento do writ ou, no mérito, pela denegação da ordem (fls. 353/356).
+Após consulta realizada no portal do Tribunal estadual na internet, foi possível observar que não houve prolação de sentença.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Busca o paciente a revogação da prisão preventiva imposta, ao argumento da ausência de fundamentação para tanto.
+Diz a jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+Inicialmente, cabe ressaltar que, na via do habeas corpus, não há como se discutir a negativa de autoria e ausência de provas, pois demandaria o reexame aprofundado do conjunto fático-probatório que compõe o processo principal. O envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação penal, bastando, para justificar a prisão cautelar, haver indícios de autoria, o que, in casu, aconteceu.
+Na espécie, o Juízo de origem, ao decretar a prisão preventiva, assim fundamentou a sua decisão (fls. 247/251 - grifo nosso):
+ ..
+Analisando-se o pedido da Autoridade Policial reiterado pelo Ministério Público, entendo que os elementos até então coligidos dão conta da participação do representado na prática do crime de roubo, vez que as investigações não terminaram.
+Segundo consta, que depois de iniciada a busca pelos responsáveis, apurou-se a participação do representado [NOME], sendo que a arma registrada e de propriedade da vítima EVERTON ROOSEVELT BERNINI, subtraída no dia do roubo, foi localizada no interior do veículo GM/Corsa, cor prata, placas [PLACA], de propriedade do representado [NOME]. Assim sendo, da análise dos presentes autos e pelo que foi exposto, vislumbra-se que existem fortes indícios que demostram a participação do representado na prática do homicídio e da materialidade.
+ ..
+Na espécie, a prova de existência do crime está evidenciada através dos depoimentos colhidos e demais documentos acostados. Ainda, existem indícios fortes e suficientes de que os requeridos tenham cometido o ilícito em comento.
+ ..
+Ao indeferir o pedido de revogação da custódia cautelar, o Juízo singular destacou que a periculosidade do requerente resta evidenciada pelo modus operandi, visto que a conduta se deu mediante grave ameaça, em zona rural, perpetrada por agentes encapuzados, que subtraíram bens de valor considerável às vítimas (um veículo e uma arma de fogo de calibre 22) - (fl. 277).
+O Tribunal a quo, por sua vez, denegou a ordem de habeas corpus por entender que a decisão de primeiro grau examinou devidamente a necessidade da segregação cautelar, ressaltando que, de acordo com o que foi apurado na fase policial, para além do concurso de agentes, houve emprego de arma de fogo, não se podendo ignorar, ademais, que, nos termos da análise efetivada pelo d. Juízo impetrado, o crime foi cometido em zona rural, constando dos autos que a grave ameaça foi exercida não apenas contra vítimas, mas contra um bebê que estava na residência no momento dos fatos (fl. 332).
+Realmente, há motivação suficiente para a manutenção da prisão cautelar do paciente, levando-se em consideração a gravidade concreta do delito, evidenciada pelo modus operandi adotado na prática do suposto crime de roubo circunstanciado em questão. Não é outra a opinião do nobre parecerista (fls. 353/356). Isso confere lastro de legitimidade à manutenção da medida extrema.
+Sobre a possibilidade de se manter a prisão cautelar em razão da gravidade concreta do delito e do modus operandi empregado para a prática do crime de roubo, confiram-se, entre tantos, estes julgados: HC n. 339.233/SP, Ministro Ericson Maranho (Desembargador convocado do TJ/SP), Sexta Turma, DJe 18/2/2016; RHC n. 58.952/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 27/5/2016; e RHC n. 69.626/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 4/5/2016.
+Havendo, portanto, fatores concretos aptos a demonstrar a necessidade da prisão preventiva, não se mostram suficientes para o caso em análise as medidas previstas no art. 319 do Código de Processo Penal. Além do que eventuais condições pessoais favoráveis, nessas circunstâncias, não têm o condão de, isoladamente, revogar a custódia cautelar.
+Ante o exposto, denego a ordem.
