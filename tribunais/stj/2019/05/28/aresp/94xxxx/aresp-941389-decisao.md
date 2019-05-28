@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência das Súmulas n. 7 do STJ e 283 do STF (e-STJ fls. 401/404).
+O acórdão recorrido está assim ementado (e-STJ fl. 297):
+AGRAVO INOMINADO EM APELAÇÃO CÍVEL. AÇÃO DE PROCEDIMENTO COMUM SUMÁRIO. PEDIDO DE CONSTITUIÇÃO DE OBRIGAÇÃO DE FAZER, EM CUMULAÇÃO SUCESSIVA COM RESPONSABILIDADE CIVIL (DANOS MATERIAIS E MORAIS). SENTENÇA DE PARCIAL PROCEDÊNCIA QUE, TODAVIA, NÃO JULGA OS PEDIDOS DE MULTA COMINATÓRIA E DANO MORAL. MONOCRÁTICA QUE CASSA A SENTENÇA, POSTO QUE CITRA PETITA . INOMINADO. OMISSÃO DE JULGAMENTO. ERROR IN PROCEDENDO . VIOLAÇÃO DO DISPOSTO NOS ARTIGOS 2º, 128, 459 E 460 DO CÓDIGO DE PROCESSO CIVIL. PRECEDENTES DA INSTÂNCIA ESPECIAL E DESTA CORTE DE JUSTIÇA. IMPOSSIBILIDADE DE APLICAÇÃO DA TEORIA DA CAUSA MADURA (ART. 515, § 3º, CÓDIGO DE PROCESSO CIVIL). AGRAVO QUE NADA VEICULA DE NOVO, SEJA NO PLANO DOS FATOS, SEJA NA DIMENSÃO JURÍDICA, DE MODO QUE NÃO SE PRESTA A EMBASAR A REFORMA DE MONOCRÁTICA ISENTA DE ERROR IN JUDICANDO . RECURSO DESPROVIDO.
+Os embargos de declaração foram rejetiados (e-STJ fls. 376/379).
+No especial (e-STJ fls. 385/394), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 131, 334, I, e 535 do CPC/1973, por negativa de prestação jurisdicional. Acrescentou que não teria ficado comprovado nos autos a comercialização de qualquer produto com a marca da recorrida.
+Apontou afronta aos art. 515, §§ 1º, 2º, e 3º, do CPC/1973, sustentando, em síntese, que deveria ter sido aplicada a teoria da causa madura.
+No agravo (e-STJ fls. 412/424), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 428/431).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Não há falar em contrariedade aos arts. 131 e 535 do CPC/1973, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo.
+Quanto ao art. 515, §§ 1º, 2º, e 3º do CPC/1973, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 353):
+06. No mérito, como se vê, a agravante inaugura novos cap"tulos no Processo Civil, infelizmente, porém, nisso não logrando êxito, porquanto confunde requisito de validade de sentença com o próprio mérito da causa.
+07. A questão foi corretamente analisada e decidida pela monocrática, valendo ressaltar que não existe, na sentença, cap"tulo julgando o pedido de cominação de multa para o caso de descumprimento do julgado, nem decidindo a reparação a t"tulo de dano moral, em favor do 2º demandante, aqui 2º agravado.
+07. Assim, caem por terra os argumentos da recorrente, eis que não há falar-se na aplicação do disposto no art. 515, § 3º do Código de Processo Civil, que enuncia a Teoria da Causa Madura, pois o processo foi extinto com resolução do mérito e não houve julgamento integral.
+A decisão recorrida está em consonância com a jurisprudência desta Corte, pacífica ao afirmar que "a sentença proferida citra petita padece de error in procedendo. Se não suprida a falha mediante embargos de declaração, o caso é de anulação pelo tribunal, com devolução ao órgão a quo, para novo pronunciamento. De modo nenhum se pode entender que o art. 515, §3º, autorize o órgão ad quem, no julgamento da apelação, a "completar" a sentença de primeiro grau, acrescentando-lhe novo(s) capítulo(s). In casu, não há que se falar em interpretação extensiva ao artigo 515, § 3º, do CPC, quando nem sequer houve, na sentença, extinção do processo sem julgamento do mérito, requisito este essencial à aplicação do artigo 515, § 3º, da Lei Processual Civil" (STJ, REsp n. 756.844/SC, Relator Ministro JOSÉ ARNALDO DA FONSECA, QUINTA TURMA, DJU de 17/10/2005).
+Nesse mesmo sentido:
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO. SENTENÇA DECLARADA NULA EM DECORRÊNCIA DE ERROR IN PROCEDENDO. RETORNO DOS AUTOS AO PRIMEIRO GRAU DE JURISDIÇÃO. JULGAMENTO, DESDE LOGO, PELO TRIBUNAL. IMPOSSIBILIDADE.
+1. O error in procedendo ocorre quando há vício na atividade judicante e desrespeito às regras processuais, devendo o julgado ser anulado a fim de que outro seja proferido na instância de origem.
+2. É nula a sentença que não fundamenta o indeferimento de pedidos da inicial e deixa de manifestar-se acerca de perícia incontroversa presente nos autos.
+3. Para que o tribunal possa julgar desde logo o mérito da causa na apelação, é necessário que a sentença não apresente vício que lhe comprometa a validade. Havendo o vício, o órgão superior deverá anular a sentença e restituir os autos à instância inferior para que ali outra seja proferida.
+4. Recurso especial desprovido.
+(REsp n. 1236732/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 16/6/2011, DJe 24/6/2011.)
+Por fim, com o reconhecimento do error in procedendo o conteúdo do art. 334 do CPC/1973, não foi analisado pela Corte local. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
