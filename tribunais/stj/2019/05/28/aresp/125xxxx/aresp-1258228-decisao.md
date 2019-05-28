@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (2015). INSCRIÇÃO INDEVIDA EM CADASTRO DE PROTEÇÃO AO CRÉDITO. RECONHECIMENTO PELA INSTÂNCIA DE ORIGEM QUE INEXISTIAM INSCRIÇÕES ANTERIORES. ATRAÇÃO DO ENUNCIADO SUMULAR Nº 7. MINORAÇÃO DO QUANTUM INDENIZATÓRIO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284 DO STF.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra decisão que inadmitiu o recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 137):
+APELAÇÃO CÍVEL - INSCRIÇÃO INDEVIDA NOS CADASTROS DE PROTEÇÃO AO CRÉDITO - DÍVIDA INEXISTENTE - SÚMULA 385 DO STJ - INAPLICABILIDADE - DANO MORAL CONFIGURADO - COMPENSAÇÃO FIXADA EM VALOR RAZOÁVEL - MANUTENÇÃO.
+- Na inscrição indevida em cadastros de restrição ao crédito, o dano moral se configura " in re ipsa," ou seja, prescinde de prova.
+- Na fixação do quantum devido a título de danos morais, o Julgador deve pautar-se pelo bom senso, moderação e prudência, sem perder de vista que, por um lado, a indenização deve ser a mais completa possível e, por outro, ela não pode se tornar fonte de lucro.
+Inaplicável a Súmula 385 do STJ, uma vez que as negativações existentes em nome do autor são posteriores à questionada nos autos.
+Nas razões do recurso especial, a parte recorrente alega violação ao art. 927 do Código Civil "na medida em que condenou a recorrente no pagamento de indenização a titulo de danos morais quando não restaram configurados os requisitos ensejadores" (e-STJ, fl. 150). Alternativamente, busca pela minoração do valor fixado em sede de dano moral.
+Aduz, ainda, negativa de aplicação da súmula n. 385/STJ ao caso em tela, além de suscitar divergência jurisprudencial, pois "o recorrido juntou aos autos (fls. 14/16) documentos que consignam outras inscrições em seu nome por instituições variadas, havendo registros de cheques sem fundos, pendências perante bancos e operadoras de cartões de crédito, dentre outras. Frise-se: trata-se de três páginas de descrição de inserção do nome do recorrente nos órgãos de proteção ao crédito. Cediço que se descaracteriza o dano moral quando há inscrição negativa preexistente, conforme expresso na súmula supracitada" (e-STJ, fl. 152).
+Sem contrarrazões (e-STJ fl. 208), o Recurso Especial foi inadmitido pela Corte de origem, ensejando na interposição do presente agravo (e-STJ, fls. 221/224).
+É o relatório.
+Passo a decidir.
+A irresignação recursal não pode prosperar.
+Primeiramente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Extrai-se dos autos que o acórdão recorrido está em consonância com o entendimento pacificado desta Corte, consubstanciado no enunciado sumular 385/STJ, o qual afirma que, "da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento", pois, embasadas no contexto fático-probatório dos autos, a instância de origem reconheceu a existência de inscrições apenas posteriores à discutida nos autos.
+Assim verberou o Tribunal a quo (e-STJ, fls. 141/142):
+Pois bem. É de conhecimento geral que dano moral decorrente de inscrição indevida, assim entendida como aquela feita sem que haja dívida, somente se caracteriza se o nome do suposto devedor não tiver sido negativado anteriormente em razão de débito regular.
+Examinando a matéria, o Superior Tribunal de Justiça afastou a possibilidade de indenização nos casos em que exista prévia inscrição válida do nome do consumidor nos órgãos de restrição ao crédito.
+ ..
+No caso em julgamento, verifica-se que o Autor/Apelado, possui outras inscrições nos cadastros de restrição ao crédito, todavia, a ora em discussão precede todas as outras, conforme se infere das fls. 15, o que afasta a aplicação da Súmula 385 do STJ.
+ ..
+Desse modo, como os demais apontamentos são posteriores, a fixação dos danos morais é medida que se impõe, devendo ser mantida a sentença que assim entendeu.
+Destarte, rever o entendimento firmado pelo Tribunal de origem, para concluir-se da forma requerida pelo recorrente, demandaria a incursão no conjunto probatório dos autos, o que vedado por este Tribunal ante o óbice contido na Súmula 7 desta Corte.
+Ademais, o dano em questão é in re ipsa, não havendo necessidade de prova acerca dos abalos ocorridos com a indevida manutenção do nome do cadastrado no rol de maus pagadores.
+Quanto ao pedido de minoração do quantum indenizatório, é de se observar que a parte recorrente olvidou-se da indicação clara e inequívoca dos dispositivos de lei federal tidos por violados pelo acórdão impugnado, o que caracteriza deficiência na fundamentação recursal.
+Assim, diante da ausência de indicação de artigo infraconstitucional supostamente vergastado nas razões do recurso especial, observa-se que a fundamentação do recurso é deficiente, aplica-se, portanto, na espécie, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. PRELIMINAR. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCOMPREENSÃO DA CONTROVÉRSIA. SÚMULA 284 DO STF. ASTREINTES. VALOR FIXADO QUE ATENDE AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. RECURSO IMPROVIDO.
+1. A não indicação, quando da apresentação das razões recursais, dos dispositivos supostamente violados, faz incidir, à hipótese, o teor da Súmula 284 do STF. (..)
+4. Recurso especial não provido. (REsp 1.352.426/GO, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 18/05/2015, grifei)
+PROCESSUAL CIVIL. ADMINISTRATIVO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO.
+1. O STJ entende ser inviável o Recurso Especial, fundado na alínea a do permissivo constitucional, que não especifica quais normas legais foram violadas. Incide, na espécie, por analogia, o princípio contido na Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+2. No que toca ao apontado dissídio jurisprudencial, do mesmo modo verifico que o Recurso Especial não indica dispositivo de lei federal acerca do qual o Tribunal de origem teria adotado interpretação divergente daquela firmada por outros tribunais. Dessa forma, constata-se a deficiência da motivação. Aplica-se a Súmula 284/STF. 3. Recurso Especial não conhecido. (REsp: 1377145 RJ 2013/0116963-6, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/05/2013, DJe 22/05/2013)
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n. 7/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do Novo Código.
+Destarte, como o caso dos autos é proveniente de sentença condenatória cuja verba honorária foi fixada em 15% (quinze por cento) sobre o valor atualizado da condenação (e-STJ fl. 143), a majoração dos honorários para 17% (dezessete por cento) sobre o valor atualizado da condenação é medida adequada ao caso.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial e, com base no art. 85, § 11, do CPC, majoro os honorários de sucumbência para 17% (dezessete por cento) sobre o valor atualizado da condenação.
+Intimem-se.
