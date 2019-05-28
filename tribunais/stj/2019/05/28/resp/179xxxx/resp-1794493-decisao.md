@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. BUSCA E APREENSÃO. TEORIA DO ADIMPLEMENTO SUBSTANCIAL. APLICABILIDADE AO CASO CONCRETO. OBSERVÂNCIA DOS PRINCÍPIOS DA FUNÇÃO SOCIAL DO CONTRATO E DA BOA-FÉ CONTRATUAL. RECURSO CONHECIDO E IMPROVIDO. DECISÃO MANTIDA.
+1. Segundo a Teoria do Adimplemento Substancial, se já houve o cumprimento significativo do contrato, com a quitação de quase a totalidade das prestações, deve ser indeferida a retomada do bem objeto da ação, dispondo o credor da ação de cobrança para exigir eventual saldo devedor. Trata-se de uma forma restritiva do abuso do direito contratual à sua resolução e ao perdimento do bem objeto do contrato em favor do credor de pequena monta como meio de compelir o devedor a seu pagamento forçoso. Embora não prevista expressamente em lei, a teoria vem sendo aplicada em muitos casos, tendo como base o princípio da função social do contrato, da boa-fé objetiva, a vedação ao abuso de direito e ao enriquecimento sem causa.
+2. Na hipótese dos autos, é incontroverso o fato de que a devedora pagou 50 (cinquenta) das 60 (sessenta) prestações contratadas, o que equivale a 80% (oitenta por cento) das parcelas devidas, denotando a boa-fé contratual do contratante, razão pela qual deve ser mantida a decisão de primeira instância que aplicou a teoria do adimplemento substancial ao caso concreto.
+3. Recurso conhecido e improvido. Decisão mantida.
+Alega-se violação dos artigos 2º, § 2º, e 3º do Decreto-Lei 911/1969 sob o argumento de que não se aplica a Teoria do Adimplemento Substancial na hipótese vertente.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local manteve a decisão de primeira instância que indeferiu o pedido liminar de busca e apreensão de bem alienado fiduciariamente, mesmo diante da inadimplência do devedor fiduciante.
+Assim o fez sob o pálio da Teria do Adimplemento Substancial do contrato, porquanto "o devedor pagou 50 (cinquenta) das 60 (sessenta) prestações contratadas, o que equivale a 80% (oitenta por cento) das parcelas devidas, denotando a boa-fé contratual do mesmo" (e-STJ, fl. 79).
+Esta Corte Superior, todavia, tem entendimento diverso, dada a natureza do contrato de alienação fiduciária, cuja garantia tende a ensejar taxas mais atrativas.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DECRETO-LEI N. 911/1969. ALTERAÇÃO INTRODUZIDA PELA LEI N. 10.931/2004. PURGAÇÃO DA MORA. IMPOSSIBILIDADE. NECESSIDADE DE PAGAMENTO DO TOTAL DA DÍVIDA (PARCELAS VENCIDAS E VINCENDAS). TEORIA DO ADIMPLEMENTO SUBSTANCIAL. DESCABIMENTO. DECISÃO MANTIDA.
+1. "Nos contratos firmados na vigência da Lei n. 10.931/2004, compete ao devedor, no prazo de 5 (cinco) dias após a execução da liminar na ação de busca e apreensão, pagar a integralidade da dívida - entendida esta como os valores apresentados e comprovados pelo credor na inicial -, sob pena de consolidação da propriedade do bem móvel objeto de alienação fiduciária" (REsp n. 1.418.593/MS, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/5/2014, DJe 27/5/2014.). Precedente representativo da controvérsia (art. 543-C do CPC).
+2. A Segunda Seção do STJ, no julgamento do REsp n. 1.622.555/MG, firmou o entendimento de que não se aplica a teoria do adimplemento substancial para a alienação fiduciária regida pelo Decreto-Lei n. 911/1969.(REsp 1622555/MG, Relator para o Acórdão Ministro MARCO AURÉLIO BELLIZZE, DJe 16/3/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1698348/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 1º/3/2018, DJe 14/3/2018)
+Diante do exposto, conheço e dou provimento ao recurso especial para afastar como causa do indeferimento do pedido liminar a Teoria do Adimplemento Substancial e determinar à instância de origem que prossiga no julgamento do pedido liminar.
+Intimem-se.
