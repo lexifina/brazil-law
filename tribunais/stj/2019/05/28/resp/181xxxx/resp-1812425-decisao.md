@@ -1,0 +1,41 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por ITAU UNIBANCO S.A. e pelo MUNICÍPIO DE CORNÉLIO PROCÓPIO, contra acórdão prolatado, pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 413e):
+EMBARGOS À EXECUÇÃO FISCAL. LEGITIMIDADE DA EMPRESA ARRENDADORA PARA QUESTIONAR A INCONSTITUCIONALIDADE DA INCIDÊNCIA DO ISSQN SOBRE AS OPERAÇÕES DE ARRENDAMENTO MERCANTIL. INEXISTÊNCIA DE PEDIDO DE RESTITUIÇÃO. INAPLICABILIDADE DO ART. 166 DO CTN. PRELIMINAR AFASTADA. SENTENÇA QUE DECLARA, INCIDENTALMENTE, A INCONSTITUCIONALIDADE DE INCIDÊNCIA DO ISS SOBRE A OPERAÇÕES DE LEASING. NÃO CONFIGURAÇÃO DA PRESTAÇÃO DE SERVIÇO NOS CONTRATOS D ARRENDAMENTO MERCANTIL PRECEDENTE DO ÓRGÃO ESPECIAL (INCIDENTE DE INCONSTITUCIONALIDADE Nº 4218368/01). RECURSO CONHECIDO E NÃO PROVIDO.
+O tribunal de origem, em juízo de retratação, prolatou acórdão resumido na seguinte ementa (fl. 736e):
+
+JUÍZO DE RETRATAÇÃO - APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - OPERAÇÃO DE ARRENDAMENTO MERCANTIL (LEASING) - INCIDÊNCIA DE ISSQN - PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL NO ÂMBITO DE REPERCUSSÃO GERAL APLICÁVEL AO CASO DOS AUTOS - INEXISTÊNCIA DE RECURSO ESPECIAL QUE VERSE SOBRE A TESE CONSTANTE DO RECURSO ESPECIAL Nº 1.060.210/SC REPRESENTATIVO DE CONTROVÉRSIA - IMPOSSIBILIDADE DE EXERCÍCIO DE JUÍZO DE CONFORMIDADE - POSSIBILIDADE DE JULGAMENTO DAS DEMAIS MATÉRIAS VERSADAS NA PETIÇÃO INICIAL DOS EMBARGOS À EXECUÇÃO FISCAL (EXEGESE DO ARTIGO 1.013, § 2º DO CÓDIGO DE PROCESSO CIVIL DE 1973) - LEGITIMIDADE PASSIVA DA INSTITUIÇÃO ARRENDADORA - NECESSIDADE DE REVISÃO DA BASE DE CÁLCULO - "SPREAD" - MULTA MORATÓRIA DE 100% (CEM POR CENTO) SOBRE O VALOR DO IMPOSTO - NATUREZA CONFISCATÓRIA NÃO VERIFICADA - READEQUAÇÃO DOS ENCARGOS DA SUCUMBÊNCIA - ACÓRDÃO REFORMADO - APELAÇÃO PARCIALMENTE PROVIDA - EMBARGOS À EXECUÇÃO PARCIALMENTE PROVIDOS - RETRATAÇÃO PARCIALMENTE EXERCIDA.
+Opostos embargos de declaração, foram acolhidos parcialmente, sem efeito infringente (fl. 793/805e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, o MUNICÍPIO DE CORNÉLIO PROCÓPIO aponta ofensa a dispositivos legais, alegando, em síntese, a ilegitimidade ativa do RECORRIDO para argüir a não incidência do ISSQN sobre as operações de arrendamento mercantil.
+Com contrarrazões (fls. 597/620e), o recurso foi admitido (fl. 865/867e).
+Por sua vez, com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, ITAU UNIBANCO S.A. aponta ofensa a dispositivos legais, alegando, em síntese, que o tribunal de origem deixou de apreciar a matéria de ordem pública, qual seja, incompetência do Município de Cornélio Procópio para cobrar o ISS no presente caso.
+Sem contrarrazões, o recurso foi admitido (fl. 868e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Examino, inicialmente, o recurso especial do ITAU UNIBANCO S.A.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Observo que a parte Recorrida postulou, na instância ordinária, a apreciação de fato superveniente existente nos autos, envolvendo matéria de ordem pública, qual seja, pressuposto processual - ilegitimidade ativa do Município para tributar as operações de arrendamento mercantil autuadas, conforme entendimento proferido pelo E. STJ no conhecido REsp 1.060.210/SC.
+Afirma tratar-se de matéria de ordem pública, que deve ser conhecida de ofício ou a requerimento da parte, em qualquer tempo e grau de jurisdição, nos termos do § 3º do art. 485 do CPC/2015.
+Esta Corte adota o posicionamento segundo o qual não cabe ao STJ examinar questão não prequestionada, ainda que se trata de matéria de ordem pública. Contudo, a ausência de legitimidade ativa, por se tratar de uma das condições da ação, é matéria de ordem pública cognoscível a qualquer tempo e grau, sendo insuscetível de preclusão nas instâncias ordinárias (destaquei).
+Nessa linha:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO PARA A SEGURIDADE SOCIAL. LEGITIMIDADE DA AUTORA PARA PLEITEAR REPETIÇÃO DO INDÉBITO. QUESTÃO RELEVANTE NÃO APRECIADA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OCORRÊNCIA. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+ ..
+4. A jurisprudência do STJ entende que ausência de legitimidade ativa, por se tratar de uma das condições da ação, é matéria de ordem pública cognoscível a qualquer tempo e grau, sendo insuscetível de preclusão nas instâncias ordinárias.
+5. Recurso Especial provido.
+(REsp 1731214/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/05/2018, DJe 19/11/2018) destaquei.
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. OMISSÃO. EXISTÊNCIA. ILEGITIMIDADE ATIVA. MATÉRIA DE ORDEM PÚBLICA. SANEAMENTO DO VÍCIO NAS INSTÂNCIAS ORDINÁRIAS. POSSIBILIDADE. PRECEDENTES.
+1. A ausência de legitimidade ativa, por se tratar de uma das condições da ação, é matéria de ordem pública cognoscível a qualquer tempo e grau, sendo insuscetível de preclusão nas instâncias ordinárias. Precedentes do STJ.
+2. Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl no AgRg no AREsp 608.253/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/06/2017, DJe 21/06/2017).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ILEGITIMIDADE PASSIVA. MATÉRIA DE ORDEM PÚBLICA COGNOSCÍVEL A QUALQUER TEMPO NAS INSTÂNCIAS ORDINÁRIAS. OMISSÃO DO ART. 535 DO CPC. CONFIGURADA. RETORNO DOS AUTOS PARA APRECIAÇÃO DA MATÉRIA. NECESSIDADE. PREQUESTIONAMENTO DA MATÉRIA DE ORDEM PÚBLICA NAS INSTÂNCIAS EXTRAORDINÁRIAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de legitimidade ativa, por se tratar de uma das condições da ação, é matéria de ordem pública cognoscível a qualquer tempo e grau, sendo insuscetível de preclusão nas instâncias ordinárias.
+2. Em se tratando de matéria de ordem pública, pode ser alegada na instância ordinária, a qualquer tempo, como se verifica no caso em apreço em que foi ventilada nas razões dos aclaratórios.
+3. Esta Corte Superior entende que o requisito do prequestionamento deve ser observado, nas instâncias extraordinárias, mesmo no tocante às matérias de ordem pública.
+ ..
+(AgRg nos EDcl no AREsp 604.385/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/03/2016, DJe 07/03/2016).
+Posto isso, com fundamento no art. 932, III e IV e V, do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, CONHEÇO e DOU parcial provimento ao Recurso Especial de ITAU UNIBANCO S.A., determinando o retorno dos autos, a fim de que o tribunal de origem examine a pretensão do Recorrente, veiculada naquela instância, de ver reconhecida a ilegitimidade ativa do Município, ficando prejudicada a análise das demais questões, bem como do recurso especial do MUNICÍPIO DE CORNÉLIO PROCÓPIO, neste momento.
+Publique-se e intimem-se.
