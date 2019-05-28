@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de HELIO ADALBERTO PAULINO JUNIOR, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 0000241-13.2017.8.26.0540).
+Extrai-se dos autos que o paciente foi condenado pela prática do delito tipificado no art. 157, § 2º, inciso I, do Código Penal (roubo circunstanciado), à pena de 5 anos e 4 meses de reclusão em regime inicial fechado.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual negou provimento ao recurso nos termos do acórdão acostado às fls. 47/125.
+No presente mandamus, alega que deve ser afastada a causa de aumento de pena em razão do emprego de arma, tendo em vista que se tratava de simulacro de arma de fogo.
+Requer, assim, em liminar e no mérito, o afastamento do emprego de arma de fogo, refazendo a dosimetria nos termos do art. 157, caput, do Código Penal, sem qualquer aumento na terceira fase.
+Medida liminar indeferida conforme decisão de fls. 130/131. O Ministério Público Federal manifestou-se pela concessão da ordem (fls. 136/142).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Busca-se, na presente impetração, o afastamento da causa de aumento do emprego de arma por se cuidar de artefato de brinquedo.
+De fato, no caso dos autos, consta da própria denúncia que se tratava de simulacro de arma de fogo. Retira-se, ainda, da sentença, a informação de que o laudo pericial concluiu que se tratava de arma de brinquedo.
+Nessa ordem de idéias, na esteira do parecer ministerial, inviável o aumento da pena na terceira fase da dosimetria.
+Desde o cancelamento da Súmula n. 174 do STJ, é pacífica neste Corte Superior a orientação jurisprudencial de que o emprego de simulacro de arma de fogo não constitui motivo apto para a configuração da causa especial de aumento de pena prevista no art. 157, § 2º, I, do Código Penal, por ausência de maior risco para a integridade física da vítima, prestando-se, tão somente, para caracterizar a elementar "grave ameaça" do delito de roubo.
+Ilustrativamente:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO TENTADO. PENA-BASE. EXASPERAÇÃO FUNDAMENTADA NA UTILIZAÇÃO DE SIMULACRO DE ARMA DE FOGO. ILEGALIDADE. PENA QUE JÁ HAVIA SIDO RECONDUZIDA AO MÍNIMO LEGAL NA SEGUNDA FASE DA DOSIMETRIA. SÚMULA 231/STJ. DESNECESSIDADE DE REDIMENSIONAMENTO DA PENA. RÉUS PRIMÁRIOS, CONDENADOS A PENAS NÃO SUPERIORES A 4 ANOS E AFASTADA A ÚNICA CIRCUNSTÂNCIA JUDICIAL CONSIDERADA DESFAVORÁVEL. APLICAÇÃO DA SÚMULA 440/STJ. ADEQUAÇÃO DO REGIME PRISIONAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o uso de simulacro de arma de fogo não constitui motivo idôneo para exasperar ou majorar a pena no crime de roubo, prestando-se, tão somente, a caracterizar a grave ameaça, circunstância elementar do delito, razão pela qual a Súmula 174/STJ foi cancelada.
+3. No caso, as penas dos réus foram reconduzidas ao mínimo legal em virtude da existência de circunstância atenuante, razão pela qual, em face do óbice da Súmula 231/STJ, o reconhecimento de ilegalidade na exasperação da pena-base não enseja o redimensionamento das respectivas penas.
+4. "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito" (Súmula 440/STJ).
+5. Hipótese em que os pacientes, primários, foram condenados a pena privativa de liberdade não superior a 4 anos e a única circunstância judicial desfavorável foi reconhecida como inidônea, razão pela qual fazem jus ao regime inicial aberto.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime prisional aberto." (HC 326.778/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 10/12/2015).
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO SIMPLES. DOSIMETRIA. PENA-BASE. AUMENTO EM RAZÃO DE USO DE SIMULACRO DE ARMA DE FOGO. IMPOSSIBILIDADE. SÚMULA 174/STJ CANCELADA. ILEGALIDADE DEMONSTRADA. REPRIMENDA INICIAL REDUZIDA. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência desta Corte superior, desde o cancelamento da Súmula 174/STJ, não admite mais a exasperação da pena-base com fundamento em simulacro de arma de fogo, o qual é apto para caracterizar apenas a grave ameaça, circunstância inerente ao tipo penal de roubo.
+2. Agravo regimental improvido."
+(AgRg no HC 401.040/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 24/11/2017).
+Nesse contexto, de rigor o refazimento da dosimetria.
+Na primeira fase, fixada a pena-base ao mínimo legal, qual seja, 4 anos de reclusão, mais 10 dias-multa. Destaco, contudo, que a sanção final não será alterada, uma vez que, não obstante o reconhecimento da confissão espontânea, a reprimenda intermediária não pode restar em patamar inferior ao piso legal, em obediência à Súmula 231/STJ. Ademais, ausentes causas de aumento ou diminuição, a pena final será de 4 anos de reclusão, mais 10 dias-multa.
+Dessa forma, tendo em vista o quantum final da pena não ser superior a 4 anos de reclusão, a favorabilidade das circunstâncias judiciais, ante a pena-base no mínimo legal, e a primariedade do paciente, fixo o modo prisional aberto, em conformidade com o art. 33, § 2º, c, do CP.
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem de ofício para afastar a causa de aumento da pena referente ao emprego de arma fogo, ficando a reprimenda definitiva no patamar de 4 anos de reclusão, mais 10 dias-multa, e fixar o regime inicial aberto.
+Publique-se. Intimem-se.
