@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão de fls. 700-704 (e-STJ), a qual neguei provimento ao agravo em recurso especial.
+Em suas razões, os embargantes sustentam a existência de omissão quanto à apontada ofensa ao art. 1.080 do Código Civil, por se tratar de matéria apta a alterar a conclusão adotada conforme preceitua o art. 489, § 1º, IV, do Código de Processo Civil de 2015, que não constou do relatório da decisão ora embargada, sob o argumento de que "deixou-se de apreciar um dos pilares em que estão sustentadas as razões recursais" (e-STJ, fl. 709).
+Reiteram os argumentos já manifestados no recurso especial, no sentido de que "deve o sócio Sergio ser pessoalmente responsabilizado pelos atos praticados em nome da sociedade e contrários à lei, como o de falsificação de documento" (e-STJ, fl. 710).
+Alegam não haver má-fé na oposição dos presentes embargos de declaração, devendo-se observar que os autos em primeira instância não se encontram suspensos, o que afasta qualquer alegação de prejuízo aos embargados.
+Impugnação apresentada às fls. 714-717 (e-STJ), pelo não provimento dos presentes embargos de declaração.
+Assim posta a questão, passo a decidir.
+Não se verifica a omissão apontada, devendo-se manter a decisão recorrida pelos seus próprios fundamentos, ante a ausência dos pressupostos que dariam ensejo à oposição dos embargos de declaração: omissão, obscuridade ou contradição.
+Com efeito, o julgado embargado é claro em suas premissas e objetivo em suas conclusões, inexistindo vício a ser sanado. Apenas, a solução prestigiada não corresponde à desejada pelos ora embargantes, circunstância que não eiva a decisão de nulidade.
+Vale ressaltar que os embargos de declaração possuem regramento próprio, voltado à complementação ou declaração do verdadeiro sentido de uma decisão eventualmente omissa, contraditória ou obscura, não sendo dotados, em regra, de efeito modificativo.
+A decisão ora embargada foi clara ao pontuar que a Súmula 7 do STJ impede a desconstituição da conclusão a que chegou o Tribunal de origem, no sentido de reconhecer a ilegitimidade de [NOME] para figurar no polo passivo da demanda, eis que a presente ação visa apenas à declaração da falsidade documental e não da sua autoria, devendo, os ora embargantes, por meio de ação própria, ao se sentirem lesados, buscar a devida reparação indenizatória junto à empresa que fora beneficiada com termo de anuência para a exploração e comercialização de areia e diabásio, eis que os sócios são pessoalmente responsáveis pelos atos praticados em nome da empresa que sejam contrários à lei, de acordo com o art. 1.080 do Código Civil.
+O apontado vício, além de não existente, objetiva na verdade a rediscussão do que já foi decidido, o que extrapola os limites previstos para o recurso de embargos de declaração.
+O que se verifica, no presente caso, é apenas erro material, por não constar do relatório da decisão ora embargada o art. 1.080 do Código Civil de 2002, como dispositivo de lei apontado como violado pelos ora embargantes nas razões do recurso especial.
+Deve-se então alterar na decisão embargada o seguinte parágrafo contido à fl. 700 (e-STJ):
+"Nas razões de recurso especial, alegam os ora agravantes violação dos artigos 17 do Código de Processo Civil de 2015 e 1.080 do Código Civil de 2002".
+Em face do exposto, acolho em parte os embargos de declaração, apenas para sanar o erro material ora mencionado. No mais, mantida a decisão tal como proferida.
+Intimem-se.
