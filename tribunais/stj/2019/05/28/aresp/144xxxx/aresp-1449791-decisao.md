@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que o agravante foi condenado pela prática dos delitos previstos no art. 29, § 1º, III c/c § 4º, I, da Lei Federal n. 9.605/98 (crime ambiental) e art. 14 da Lei Federal n. 10.926/03 (porte ilegal de arma de fogo de uso permitido), à pena de 02 (dois) anos e 09 (nove) meses de reclusão, em regime inicial aberto, e ao pagamento de 25 (vinte e cinco) dias-multa, posteriormente, substituída por duas penas restritivas de direitos.
+Irresignada, a defesa interpôs recurso de apelação, que restou parcialmente provido para reconhecer a prescrição retroativa apenas com relação ao crime ambiental. O acórdão restou assim ementado:
+PENAL. PROCESSO PENAL. CRIMESCONTRA A FAUNA. PORTE ILEGAL DE ARMA DE FOGO.PRESCRIÇÃO. DEFICIÊNCIA DE DEFESA TÉCNICA. PREJUÍZO NÃO DEMONSTRADO.MATERIALIDADE E AUTORIA. DOSIMETRIA. RECURSO PARCIALMENTE PROVIDO.
+I - Prescrição consumada com relação ao crime do art. 29, §1º, III c/c §4º, I, da Lei nº 9.605/98. Extinção da punibilidade declarada.
+II - Réu regularmente defendido. Prejuízo não demonstrado. Incabível a nulidade do processo. Súmula n.º 523 do c. STF.
+III - Materialidade e autoria atestadas. Dosimetria mantida no mínimo legal.
+IV - Recurso defensivo parcialmente provido.
+Opostos embargos de declaração, restam acolhidos, sem efeitos modificativos, apenas para analisar eventual incidência da prescrição quanto ao delito de porte ilegal de arma de fogo de uso permitido.
+Em sede de recurso especial, a defesa aponta violação ao disposto nos arts. 109, V e 110, § 1º, ambos do Código Penal, art. 98 do Código de Processo Civil e o teor da Súmula n. 523/STF. Sustenta, em síntese, a ocorrência da prescrição retroativa quanto ao delito de porte ilegal de arma de fogo de uso permitido e, subsidiariamente, a concessão da gratuidade de justiça e a nulidade absoluta por deficiência na defesa que ocasionou prejuízo para o réu.
+A r. decisão agravada inadmitiu o recurso especial, haja vista o óbice contido na Súmula n. 07 desta Corte.
+Em agravo em recurso especial, a defesa alega que: "o que pleiteia a defesa não é ocupar o STJ com o reexame de matéria fática, mas que seja sanada a violação dos artigos supracitados" (fl. 523).
+Contraminuta às fls. 532/538.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 552/556).
+É o relatório. Decido.
+Atendidos os requisitos de admissibilidade e impugnado o fundamento da decisão agravada, conheço do agravo.
+Passo à análise do recurso especial.
+A irresignação não merece prosperar.
+De início, "o recebimento do aditamento é o marco interruptivo da prescrição quando há alteração substancial dos fatos anteriormente narrados denúncia, passando a descrever novo fato criminoso" (HC 273.811/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/04/2016, DJe 18/04/2016). A propósito:
+PENAL E PROCESSO PENAL. HABEAS CORPUS. 1. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO PRÓPRIO. NÃO CABIMENTO. 2. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. LAPSO NÃO IMPLEMENTADO. RECEBIMENTO DO ADITAMENTO. INCLUSÃO DE CRIME PARA CORRÉU. MARCO INTERRUPTIVO. ART. 117, § 1º, DO CP. 3. HABEAS CORPUS NÃO CONHECIDO. 1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. 2. Cuidando-se de aditamento para incluir novos crimes aos corréus, tem-se que o recebimento da referida peça é marco interruptivo para todos os denunciados, com relação a todos os crimes, nos termos do que consta do art. 117, § 1º, do Código Penal. Nesse encadeamento de ideias, não há se falar em prescrição, porquanto não implementado o lapso, entre o recebimento do aditamento à denúncia e a publicação da sentença condenatória, necessário ao reconhecimento da extinção da punibilidade. 3. Habeas corpus não conhecido. (HC 414.685/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/02/2018, DJe 27/02/2018 - Grifo Nosso).
+Consta dos autos que a peça acusatória que imputa ao agravante o delito de porte ilegal de arma de fogo de uso permitido foi recebida em 04/05/2011 (fl. 224), em razão de aditamento à denúncia oferecida pela prática de outros crimes.
+Nesse contexto, entre a data do recebimento do aditamento à denúncia (04/05/2011 - fl. 224) e a sentença condenatória (22/09/2014 - fl. 381), não houve o transcurso do prazo prescricional necessário ao reconhecimento da extinção da punibilidade.
+Quanto à alegação de nulidade, por violação à Súmula n. 523/STF, "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518/STJ) (AgInt no REsp 1696161/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/10/2018, DJe 31/10/2018).
+Quanto ao pedido de concessão da gratuidade de justiça, o recorrente limitou-se a declarar que não possui condições financeiras para arcar com as custas processuais. Assim, ante a ausência de elementos que permitam aferir a sua incapacidade financeira, indefiro o pedido de gratuidade.
+Ante o exposto, com fundamento na Súmula n. 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
