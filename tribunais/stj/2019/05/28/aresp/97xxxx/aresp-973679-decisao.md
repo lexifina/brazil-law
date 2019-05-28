@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu recurso especial por incidência da Súmula n. 7 do STJ e impossibilidade de análise de ofensa a dispositivos constitucionais em recurso especial (e-STJ fls. 396/403).
+O acórdão recorrido está assim ementado (e-STJ fl. 320):
+REPRESENTAÇÃO COMERCIAL. AGRAVO RETIDO. INÉPCIA DA INICIAL. REJEIÇÃO. PREENCHIDOS OS REQUISITOS DOS ARTS. 282 E 283 DO CPC. AGRAVO RETIDO. REVELIA. NÃO OCORRÊNCIA. APELAÇÃO CÍVEL. PRESCRIÇÃO. INOCORRÊNCIA. ARTIGO 44, PARÁGRAFO ÚNICO, DA LEI N. 4.886/1965. RESCISÃO PELO REPRESENTANTE POR JUSTA CAUSA EVIDENCIADA. LIMITAÇÃO INJUSTIFICADA DA ESFERA DE ATUAÇÃO DO REPRESENTANTE. ART. 36, I, DA LEI N. 4.886/65. CONDENAÇÃO AO PAGAMENTO DE COMISSÕES VENCIDAS. AUSÊNCIA DE PROVA DA REALIZAÇÃO DE VENDAS A EMBASAR O PLEITO CONDENATÓRIO. ÔNUS DA PARTE AUTORA. ART. 333, I, DO CPC.
+DERAM PARCIAL PROVIMENTO AO APELO E NEGARAM PROVIMENTO AOS AGRAVOS RETIDOS E AO RECURSO ADESIVO. UNÂNIME.
+Os embargos de declaração foram rejeitados (e-STJ fls. 354/360).
+No recurso especial (e-STJ fls. 373/379), fundamentado no art. 105, III, alínea "a", da CF, a recorrente apontou ofensa aos arts. 5º, LV e LIV, da CF, 31, 35 e 36 da Lei n. 4.886/1965, 131, 332 e 515, §§ 1º e 2º, do CPC/1973.
+Alegou afronta à garantia constitucional do devido processo legal e afirmou que "a recorrida não exercia a representação com exclusividade com relação à cliente FERRAMENTAS GERAIS, quer no que se refere à zona de atuação, quer no que se refere à pessoa da própria representada" (e-STJ fl. 377).
+Asseverou que "restou claro, assim que se, de forma direta, ou por meio de outro representante, os produtos da recorrente foram vendidos à cliente FERRAMENTAS GERAIS sem a intervenção da recorrida, tal fato não caracteriza a quebra do contratado entre as partes" (e-STJ fl. 377).
+Por derradeiro, afirmou ser incorreta a valoração dos elementos probatórios dos autos, pois a cliente Ferramentas Gerais não seria a fonte primordial dos rendimentos da representante.
+No agravo (e-STJ fls. 403/413), foram refutados os fundamentos da decisão agravada.
+Contraminuta apresentada (e-STJ fls. 416/422).
+É o relatório.
+Decido.
+Ofensa ao art. 5º, LV e LIV, da CF
+Não cabe falar em afronta ao citado artigo da Constituição pois é inviável a análise de ofensa a dispositivo constitucional em recurso especial, sob pena de usurpação da competência da Suprema Corte. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO AUTORAL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EXECUÇÃO PÚBLICA DE OBRAS MUSICAIS POR RÁDIO COMUNITÁRIA. DIREITOS AUTORAIS. ECAD. DEVER DE PAGAMENTO. ATIVIDADE NÃO LUCRATIVA. IRRELEVÂNCIA.
+1. A análise de suposta violação a dispositivos constitucionais é vedada em sede especial, sob pena de usurpação da competência atribuída pelo constituinte ao Supremo Tribunal Federal.
+2. Com efeito, resta pacificado no âmbito desta Corte Superior de Justiça que, a partir da entrada em vigor da Lei n.º 9.610/98, a ausência do intuito de lucro é questão irrelevante quando se trata do pagamento de direitos autorais. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1.619.402/SC, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/11/2017, DJe 23/11/2017.)
+Da responsabilidade pela rescisão contratual
+Assim entendeu o Tribunal de origem acerca da relação contratual mantida entre os litigantes (e-STJ fls. 330/332):
+Perquire-se, então, acerca da responsabilidade pela rescisão contratual.
+A parte ré, em contestação (fls. 190-205), alega que houve desídia da parte autora, representante comercial, no atendimento da cliente Ferramentas Gerais, o que levou a representada a atender diretamente tal empresa a partir de 2008.
+Ocorre que, conforme relatórios de comissão acostados pela parte autora (fls. 37-65), houve vendas efetuadas pela representante à Ferramentas Gerais após o período de 2008, o que corrobora a alegação inicial de que a representada assumiu diretamente as negociações com a referida cliente somente a partir de agosto de 2012.
+Salienta-se que a própria ré, em contestação (fls. 194-195), admite que realizou pagamentos a título de comissão para a parte autora até novembro de 2012, não impugnando especificamente os relatórios acostados pela parte autora. Ao revés, a parte ré admite que tais relatórios demonstram, de fato, as comissões percebidas, o que denota a existência de representação pela parte autora perante a Ferramentas Gerais após o período de 2008, devendo, por esses motivos, ser desconsiderado o documento de fl. 206. Frisa-se, em realidade, que, ao que tudo indica, os referidos relatórios foram confeccionados pela própria parte ré.
+Destaca-se, outrossim, que, da análise de tais relatórios, não se evidencia qualquer desídia da representante, uma vez que não se evidencia declínio acentuado no valor das vendas à cliente Ferramentas Gerais.
+Constatada, portanto, a retomada pela representada das negociações com a empresa Ferramentas Gerais nos moldes declinados na exordial, porquanto, como dito, não houve desídia da representante a justificar a medida, impõe-se examinar se tal fato constitui justa causa de rescisão pelo representante.
+Nos termos do art. 36, I, da Lei n.º 4.886/653, a redução de esfera de atividade do representante em desalinho com o contrato constitui causa de justo motivo para rescisão pelo próprio representante.
+No caso, de acordo com os relatórios de comissão (fls. 37-65 e 229-232), percebe-se que a cliente Ferramentas Gerais constituía fonte primordial dos rendimentos da parte autora no contrato de representação comercial.
+Como assinalado, o contrato de representação comercial foi firmado de forma verbal, o que, todavia, não retira validade da avença.
+Tendo em vista a conduta reiterada ao longo do tempo, verifica-se que o atendimento da cliente Ferramentas Gerais pela representante consubstanciava elemento essencial do contrato, sem o qual o faturamento da contratada se encontraria sensivelmente prejudicado.
+Diante de tal quadro, a supressão unilateral pela representada das vendas da representante à Ferramentas Gerais caracteriza alteração das bases do contrato que se enquadra à hipótese do art. 36, I, da Lei n.º 4.886/65. Ademais, não verificada qualquer razão para alteração na esfera de atividade do representante, uma vez que, como frisado, não ficou evidenciada hipótese de desídia, houve quebra do princípio da boa-fé objetiva pela representada, porquanto o seu ato contrariou o comportamento reiterado ao longo de toda a representação comercial.(..)
+Verificada, então, a justa causa de rescisão pelo representante, é cabível a condenação às indenizações legalmente previstas, conforme estabelecido pela sentença recorrida.
+Extrai-se do acórdão o reconhecimento da responsabilidade da agravante pela rescisão do contrato e pela inobservância dos princípios da boa-fé e da vedação ao comportamento contraditório.
+Verificar a existência da representação com exclusividade, conforme sustenta a agravante, demandaria inegável incursão no conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, ante o óbice da Súmula n. 7 desta Corte. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO NOS PRÓPRIOS AUTOS. RESCISÃO DE CONTRATO DE CREDENCIAMENTO DE REVENDA DE MARCA COM EXCLUSIVIDADE. OMISSÃO. INEXISTÊNCIA. RESPONSABILIDADE PELO DESCUMPRIMENTO DO CONTRATO. REEXAME DE CLÁUSULAS CONTRATUAIS E DE PROVAS. SÚMULAS 5 E 7 DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões ou contradições deve ser afastada a alegada violação ao art. 535, I e II, do Código de Processo Civil.
+2. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento. Precedentes.
+3. A conclusão do Tribunal local, no sentido de que o contrato entre as partes, de venda exclusiva de aparelhos de telefonia móvel, foi rescindido, em razão do não fornecimento de artigos à revendedora, após o cumprimento do requisito de notificação prévia da ré pela autora, livrando-a da cláusula de exclusividade, não se reexamina nesta instância especial, a teor dos enunciados n. 5 e 7, da Súmula do STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 36.345/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 2/10/2014, REPDJe 5/11/2014, DJe 15/10/2014.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. AUSÊNCIA DE COMPROVAÇÃO. CLÁUSULA CONTRATUAL DE EXCLUSIVIDADE DE REPRESENTAÇÃO. IMPOSSIBILIDADE DE REEXAME DE MATÉRIA PROBATÓRIA. SÚMULAS 5 E 7/STJ. RECURSO NÃO PROVIDO.
+1. O Tribunal de origem consigna que não há comprovação nos autos de que a recorrida tenha descumprido com o pagamento das faturas devidas à recorrente, bem como quanto à existência de previsão de exclusividade de representação dos produtos da marca da recorrente.
+A reforma do aresto, neste aspecto, demanda inegável necessidade de interpretação de cláusula contratual e reexame de matéria probatória, providências inviáveis de serem adotadas em sede de recurso especial, ante o óbice das Súmulas 5 e 7 desta Corte.
+2. Agravo interno não provido.
+(AgInt no REsp 1.453.898/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO EMPRESARIAL. AÇÃO DE INDENIZAÇÃO. ROMPIMENTO CONTRATUAL. DISTRIBUIÇÃO COMERCIAL. DESCUMPRIMENTO DE CLÁUSULA. PREVISÃO CONTRATUAL DE APLICAÇÃO DA LEI N. 4.886/65 (REPRESENTAÇÃO COMERCIAL). INCIDÊNCIA DAS SÚMULAS N. 5 E 7.
+1. O acórdão impugnado reconheceu o dever de indenizar não somente pelo rompimento da relação comercial depois da denúncia do contrato, mas também pelo descumprimento do avençado, reconhecendo a violação da área de exclusividade destinada à ora recorrida. Assim, estando a solução jurídica apresentada pelo acórdão consentânea com as premissas fáticas por ele reconhecidas, no sentido de que houve descumprimento contratual e que o pacto previa o pagamento de multa pela parte inadimplente, incidem as Súmulas 5 e 7 do STJ.
+2. Por outro lado, o acórdão recorrido firmou premissa fática segundo a qual os contratantes estabeleceram a incidência da Lei n.
+4.886/65, sendo certo que no art. 27, alínea "j", do mencionado diploma, há previsão de indenização em razão do rompimento do contrato. Assim, estando o dever de indenizar amparado na previsão contratual relativa à incidência da Lei n. 4.886/65, a conclusão do Tribunal a quo se torna infensa a reapreciação por esta Corte, por força das Súmulas 5 e 7.
+3. Ademais, o próprio STJ já reconheceu a operância do art. 27, alínea "j", da Lei n. 4.886/65, como parâmetro para o arbitramento de indenização decorrente de ruptura imotivada de contrato de representação comercial: REsp 734.119/RS, Rel. Ministro HÉLIO QUAGLIA BARBOSA, QUARTA TURMA, julgado em 19/06/2007; REsp 577.864/MG, Rel. Ministro ANTÔNIO DE PÁDUA RIBEIRO, TERCEIRA TURMA, julgado em 30/11/2004; REsp 38.912/SP, Rel. Ministro FONTES DE ALENCAR, QUARTA TURMA, julgado em 11/03/1996, DJ 24/06/1996.
+4. Agravo regimental não provido.
+(AgRg no AREsp 214.880/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 7/2/2013, DJe 20/2/2013.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
