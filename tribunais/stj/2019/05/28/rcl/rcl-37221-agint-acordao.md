@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO INTERNO. RECLAMAÇÃO. JUIZADO ESPECIAL. RESOLUÇÃO STJ 3/2016. COMPETÊNCIA DOS TRIBUNAIS ESTADUAIS. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. A Corte Especial, no julgamento da questão de ordem suscitada no AgRg na Rcl 18.506/SP, aprovou proposta que resultou na publicação da Res. STJ nº 3/2016, delegando aos Tribunais de Justiça a competência para o processamento e julgamento de reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal estadual e do Distrito Federal e a jurisprudência desta Corte.
+2. A presente reclamação foi autuada já na vigência da Res. STJ nº 3/2016, devendo, pois, ser remetida ao Tribunal de origem.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: [NOME] interpõe agravo interno em face de decisão proferida pela Presidência desta Corte, por meio da qual foi determinada a remessa dos autos para o Tribunal de Justiça do Estado de Minas Gerais.
+Aduz que a decisão agravada deve ser reformada, tendo em vista que com a publicação da Resolução de nº. 3/16 esta Corte "adentrou numa seara jurisdicional que não lhe compete, fazendo com que, através de ato administrativo - tomando lugar do legislador, especificamente do legislador constitucional -, dispusesse sobre competência de todos os Tribunais de Justiça Estaduais, Distritais, dos Territórios e Federais sem previsão legislativa e constitucional para tanto, situação em que se cria uma besta jurídica capaz de gerar reflexos nocivos aos jurisdicionados que busca a real e completa eficiência judicante através dos mecanismos processuais adequados. Fere, igualmente, a igualdade processual e a segurança jurídica".
+Afirma, ainda, que sob o "mesmo prisma, porém noutro enfoque, ou seja, analisando o feito pelo lado da inconstitucionalidade negativa, o STJ, quando repassa aos Tribunais a competência de dirimir dissídios jurisprudenciais de seus próprios julgados, deixa de aplicar o art. 105, I, f, da CR/88, a qual outorgou competência deste Tribunal para processar e julgar originariamente as reclamações a si endereçadas com a finalidade de manter hígido o seu entendimento jurisprudencial".
+O interessado, apesar de regularmente intimado, não apresentou impugnação (certidão de fl. 307).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECLAMAÇÃO. JUIZADO ESPECIAL. RESOLUÇÃO STJ 3/2016. COMPETÊNCIA DOS TRIBUNAIS ESTADUAIS. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. A Corte Especial, no julgamento da questão de ordem suscitada no AgRg na Rcl 18.506/SP, aprovou proposta que resultou na publicação da Res. STJ nº 3/2016, delegando aos Tribunais de Justiça a competência para o processamento e julgamento de reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal estadual e do Distrito Federal e a jurisprudência desta Corte.
+2. A presente reclamação foi autuada já na vigência da Res. STJ nº 3/2016, devendo, pois, ser remetida ao Tribunal de origem.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Eis o teor da decisão agravada:
+O art. 1º da Resolução STJ/GP n. 3 de 7 de abril de 2016 dispõe que é da competência dos tribunais de justiça estaduais o processamento e julgamento das reclamações "destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes".
+Ante o exposto, considerando que a reclamação foi ajuizada após a vigência da citada resolução, remetam-se os autos ao Tribunal de Justiça do Estado de Minas Gerais.
+De fato, a Corte Especial, no julgamento da questão de ordem suscitada no AgRg na Rcl 18.506/SP, aprovou proposta que resultou na publicação da Res. STJ nº 3/2016, delegando aos Tribunais de Justiça a competência para o processamento e julgamento de reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal estadual e do Distrito Federal e a jurisprudência desta Corte, e, assim, tendo sido a presente reclamação autuada já na vigência da Res. STJ nº 3/2016 (em 15.1.2019), deve ser ela remetida ao Tribunal de origem.
+Nesse sentido são os seguintes acórdãos desta Corte:
+AGRAVO INTERNO NA RECLAMAÇÃO - IMPUGNAÇÃO DE ATO ORIUNDO DE JUIZADO ESPECIAL - RESOLUÇÃO Nº 03/2016 - COMPETÊNICA DAS CÂMARAS REUNIDAS OU ÀS SEÇÕES ESPECIALIZADAS DOS RESPECTIVOS TRIBUNAIS DE JUSTIÇA - DELIBERAÇÃO MONOCRÁTICA QUE NÃO CONHECEU DA RECLAMAÇÃO E DETERMINOU A REMESSA DOS AUTOS AO TRIBUNAL DE ORIGEM. INSURGÊNCIA DO AUTOR.
+1. A Resolução n.º 12, de 14 de dezembro de 2009, que disciplinava o instituto da reclamação - instrumento processual vocacionado a dirimir divergência entre acórdão prolatado por turma recursal estadual e a orientação jurisprudencial consolidada por esta Excelsa Corte - foi revogada pela Resolução n.º 03, de 07 de abril de 2016, a qual, disciplinando a mesma matéria, atribuiu às Câmaras Reunidas ou às Seções Especializadas dos respectivos Tribunais de Justiça a competência para a execução de tal mister. Precedentes do STJ: AgRg na Rcl 14119 / SP, Rel. Min. Raul Araújo, DJe de 29/06/2016; AgRg na AR 5619 / PI, Rel. Min. Marco Aurélio Bellizze, Dje de 15/09/2016.
+2. Agravo interno desprovido.
+(AgInt na Rcl 33.758/RN, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 08/11/2017, DJe 17/11/2017)
+AGRAVO INTERNO NA RECLAMAÇÃO. JUIZADOS ESPECIAIS. REVOGAÇÃO DA RESOLUÇÃO N. 12/2009-STJ. NÃO CABIMENTO DA RECLAMAÇÃO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Com o advento da Emenda Regimental nº 22/STJ, de 16/03/2016, ficou revogada a Resolução/STJ nº 12/2009 que dispunha sobre o processamento, no Superior Tribunal de Justiça, das reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e a jurisprudência desta Corte.
+2. Agravo interno parcialmente provido, para determinar, excepcionalmente, a remessa dos autos ao eg. Tribunal de Justiça do Estado de Minas Gerais, para adoção das providências que entender cabíveis.
+(AgInt na Rcl 35.005/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 14/03/2018, DJe 16/03/2018)
+Por fim, cumpre destacar ser incabível, na via da reclamação, a análise da alegada inconstitucionalidade da Resolução n. 3/2016, tendo em vista a expressa previsão de cabimento de incidente de arguição de inconstitucionalidade de lei ou de ato normativo, constante do artigo 948 do Código de Processo Civil.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
