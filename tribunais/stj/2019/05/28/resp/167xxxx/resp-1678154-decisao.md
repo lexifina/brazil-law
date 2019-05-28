@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF contra acórdão do TJSP assim ementado (e-STJ fl. 462):
+APELAÇÃO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - SENTENÇA DE PROCEDÊNCIA - RECURSO - AGRAVO RETIDO REITERADO - DECADÊNCIA E PRESCRIÇÃO NÃO INCIDENTES NA PRESENTE DECLARATÓRIA, QUE IMPUGNA A ASSINATURA DO INSTRUMENTO OBJETO DE EXECUÇÃO - ARTIGO 4º, INCISO II, DO CPC/73 - O RECONHECIMENTO DE FALSIDADE NA ASSINATURA CONSIDERA O ATO INEXISTENTE, ISTO É, INCAPAZ DE GERAR EFEITOS JURÍDICOS E TAMPOUCO CONVALESCE COM O DECURSO DO TEMPO - ARTIGO 169 DO CÓDIGO CIVIL - LAUDO PERICIAL CATEGORICAMENTE CONCLUSIVO NO SENTIDO DE QUE A ASSINATURA DO CONTRATO NÃO PARTIU DO PUNHO DA REQUERENTE - SENTENÇA MANTIDA - RETIDO E APELO CONHECIDOS E DESPROVIDOS.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 473/475).
+O recorrente, em suas razões (e-STJ fls. 477/497), aduz divergência jurisprudencial e violação dos seguintes dispositivos legais:
+(a) arts. 178 e 179 do CC/2002, "para declarar a decadência/prescrição ao direito da recorrida diante da preclusão temporal do direito da mesma em discutir a validade de assinatura exarada por si em contrato do qual tinha inequívoca ciência desde o ano de 2005 (com a citação pessoal realizada em processo de execução do mesmo através de oficial de justiça), mas que só levou à efeito em 2014 (com o ajuizamento da ação declaratória), reconhecendo-se a ocorrência da decadência do art. 178, I e/ou II do Código Civil" (e-STJ fl. 496),
+(b) art. 85 do CPC/2015, requerendo a inversão ou a exclusão dos ônus da sucumbência.
+A recorrida, em contrarrazões (e-STJ fls. 501/510), pugna pelo desprovimento do recurso.
+O especial foi admitido pelo Tribunal de origem (e-STJ fls. 511/513).
+É o relatório.
+Decido.
+A Corte de origem entendeu que não corre a prescrição ou a decadência na hipótese de ação declaratória (e-STJ fl. 465):
+Contudo, a ele nega-se provimento, visto que a presente ação declaratória impugna a autenticidade da assinatura, conforme autorização legislativa consignada no artigo 4º, inciso II, do CPC/73 (correspondente ao artigo 19, inciso II, do NCPC), não recaindo sobre ela a decadência ou prescrição, especialmente se considerarmos que o reconhecimento da falsidade considera o ato inexistente, isto é, incapaz de gerar efeitos jurídicos e tampouco convalesce com o decurso do tempo, nos termos do artigo 169 do Código Civil, não interferindo em nada o fato de inexistir impugnação da demandante nos autos executórios.
+O entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ. Nesse sentido:
+A propósito do tema, em diversas oportunidades, o STJ reconheceu que ações declaratórias são imprescritíveis, salvo quando produzirem também efeitos de natureza constitutiva ou condenatória. Neste sentido, cito: (REsp n. 767.250/RJ, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 2/6/2009, DJe 10/6/2009), (AgRg no REsp n. 646.899/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/4/2009, DJe 17/6/2009), (REsp n. 436.931/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/12/2004, DJ 1º/2/2005, p. 538) e (REsp n. 1046497/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 24/8/2010, DJe 9/11/2010).
+Incide, portanto, a Súmula n. 83/STJ, como óbice ao recurso.
+Ao julgar procedente a ação declaratória, a sentença fixou os honorários nos seguintes termos (e-STJ fl. 405):
+Arcará a parte requerida com as verbas envolvendo despesas processuais corrigidas a partir do respectivo desembolso e honorários advocatícios que fixo em 10% (dez por cento) sobre o valor atualizado da causa, nos termos do artigo 85, parágrafo 2º, do Código de Processo Civil, corrigidos monetariamente a partir do ajuizamento da ação (Súmula 14 do STJ) e com incidência de juros moratórios de 1% (um por cento) ao mês desde o trânsito em julgado da sentença.
+Os honorários advocatícios sucumbenciais decorrem dos princípios da causalidade e da sucumbência e são fixados pelo juiz quando uma parte perde um processo judicial, surgindo para ela a obrigação de pagar uma quantia ao advogado da parte vencedora e estão previstos no art. 85 do CPC/2015, tendo como critérios de fixação, pelo juiz, os elementos presentes § 2º do mesmo dispositivo legal mencionado.
+O entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ. Nesse sentido:
+RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. PARCIAL PROVIMENTO. CONDENAÇÃO DA EMBARGADA AO PAGAMENTO DE HONORÁRIOS DE SUCUMBÊNCIA E DESPESAS PROCESSUAIS. HONORÁRIOS ADVOCATÍCIOS CONVENCIONAIS. GASTO EXTRAPROCESSUAL NÃO PREVISTO NO ART. 20 DO CPC/73. JULGAMENTO: CPC/73.
+1. Execução de título extrajudicial, da qual foi extraído este recurso especial, interposto em 10/09/2014 e atribuído ao gabinete em 25/08/2016.
+2. O propósito recursal é decidir se os honorários advocatícios contratuais devem ser incluídos no cálculo das despesas processuais, a cujo pagamento foi condenada a recorrida, com fulcro no art. 20 do CPC/73.
+3. O art. 20 do CPC/73, ao tratar do custo do processo, imputou ao vencido, com base nos princípios da causalidade e da sucumbência, a responsabilidade final pelo pagamento dos gastos endoprocessuais, ou seja, aqueles necessários à formação, desenvolvimento e extinção do processo.
+4. Os gastos extraprocessuais - aqueles realizados fora do processo -, ainda que assumidos em razão dele, não se incluem dentre aquelas despesas às quais faz alusão o art. 20 do CPC/73, motivo pelo qual nelas não estão contidos os honorários contratuais, convencionados entre o advogado e o seu cliente, mesmo quando este vence a demanda.
+5. Recurso especial conhecido em parte e, nessa extensão, desprovido.
+(REsp 1571818/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/10/2018, DJe 15/10/2018.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. EXIBIÇÃO DE DOCUMENTOS. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, pois o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. É cabível a condenação em honorários de sucumbência na cautelar de exibição de documentos, quando ficar caracterizada a pretensão resistida, tal como se dá na espécie. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1520444/MG, minha relatoria, QUARTA TURMA, julgado em 16/02/2017, DJe 23/02/2017.)
+Incide, portanto, a Súmula n. 83/STJ, como óbice ao recurso.
+Por fim, o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
