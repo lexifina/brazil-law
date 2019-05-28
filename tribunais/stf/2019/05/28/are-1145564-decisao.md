@@ -1,0 +1,41 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da Segunda Turma Recursal dos Juizados Especiais do Tribunal de Justiça do Estado da Bahia, assim ementado (eDOC 13):
+    APELAÇÃO. AÇÃO PENAL PÚBLICA INCONDICIONADA. DESACATO. PRELIMINARES AFASTADAS. MATERIALIDADE E AUTORIA DO DELITO DE DESACATO. DOLO SUBJETIVO CARACTERIZADO. INTENÇÃO DELIBERADA DE DESPRESTIGIAR E INTIMIDAR A FUNCIONÁRIA PÚBLICA. INCONFORMISMO COM O ATO FUNCIONAL PRATICADO. DOSIMETRIA DA PENA. OBSERVÂNCIA DOS CRITÉRIOS EXPOSTOS NO ART. 59 DO CPB. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+    Os embargos de declaração foram rejeitados.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, caput, IV, LIII. LIV, LV e §§ 1º, 2º e 3º, da Constituição Federal.
+    Alega nulidade da sentença por não ter apreciado as alegações referentes aos problemas de ordem técnica que impossibilitaram a consulta de parte dos depoimentos prestados em juízo, de modo que as provas ficaram inalcançáveis para os que não se fizeram presentes no momento da colheita, o que, por si só, torna a sentença e as alegações finais nulas.
+    Afirma que o juiz sentenciante não foi o mesmo que instruiu o processo e colheu as provas, não tendo ciência de todo o conteúdo dos depoimentos.
+    Aponta a nulidade de todos os atos processuais a partir do oferecimento da denúncia, por força da suspeição alegada pela Promotora de Justiça.
+    Aduz que a atipicidade da conduta descrita na denúncia por ausência de um dos elementos essenciais do tipo, ante a ausência de intenção de agir em desprestígio à administração pública e a seu agente.
+    Sustenta a inconstitucionalidade do tipo penal de desacato, tento em vista a incompatibilidade com os tratados internacionais de direitos humanos do qual o Brasil é signatário.
+    Assevera ser o caso de erro de tipo, pois o recorrente “desconhecida e foi levado a duvidar da função pública da suposta vítima ante as circunstâncias que se apresentavam naquele exato momento da sua vida.”
+    A Presidência da Turma Recursal inadmitiu o recurso por ausência de demonstração da repercussão geral.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De início, observo que o Tribunal de origem enfrentou as alegações de nulidade nos seguintes termos (eDOC 13):
+    “Inicialmente passo ao exame das NULIDADES ventiladas pelo apelante MAURÍCIO DUMET GUIMARÃES, de suposta impossibilidade de consulta de parte dos depoimentos prestados em juízo, colhidos em instrução realizada e lançada no evento nº 139, em razão de ocorrência de problemas de ordem técnica, alegando "ausência de continuidade do discurso da fala da Eminente Juíza e da suposta vítima entre o final do arquivo de áudio intitulado "DEPOIMENTO LUCI PARTE 2.mp3", e o arquivo de áudio denominado de "DEPOIMENTO LUCI FINAL.mp3."
+    Aduz ainda que o juiz prolator da sentença não participou da instrução, e, portanto, não teve acesso ao inteiro teor do depoimento da autora, que em sua parte final comprovaria a tese do apelante de que a Oficiala de Justiça não se identificou para ele.
+    Tal argumentação não merece prosperar. Um ato processual só pode ser reputado nulo quando se verificar que foi desatendida uma norma processual e, em conseqüência foi gerado prejuízo para as partes e, tratando-se de nulidade relativa, deve ser arguida no momento oportuno, com demonstração do efetivo prejuízo.
+    In casu, o apelante não cumpriu tal regramento, vez que somente arguiu este suposto vício no recurso de apelação, quando já operado o instituto da preclusão. Pontue-se que ultimada a instrução foram as partes intimadas para se manifestar e apresentar alegações finais, não tendo o ora apelante suscitado qualquer irregularidade técnica, efetuando, ao contrário extensa manifestação sobre a instrução realizada, motivo pelo qual figura insubsistente a alegação em fase recursal de suposta nulidade.
+    Ademais, não demonstrou o apelante o prejuízo advindo da alegada irregularidade, sendo aplicável ã situação a regra do art. 563 do Código de Processo Penal que estatui que "Nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa".
+    Rejeito ainda a preliminar nulidade por inobservância do Princípio da Identidade Física do Juiz, art.399, §2° do CPP. Tal princípio foi relativizado pela jurisprudência, restando pacífico a inexistência de nulidade na sentença proferida pelo juiz devidamente designado para o exercício de substituição em razão de férias do titular.
+    Nesse sentido é o entendimento do STJ:
+    […]
+    Igual sorte ampara a preliminar de nulidade dos atos processuais em face da suspeição alegada pelo próprio órgão ministerial suscitada pelo mesmo Apelante. A declaração de suspeição por razão de foro íntimo é um direito subjetivo dos juízes e por força do artigo 258 do CPP, também se estendem aos membros do Ministério Público, não sendo exigido, nem tampouco admissível o questionamento pelas partes das razões que motivaram tal decisão.
+    Ademais, os artigos 62 e 65 da Lei de Regência dos Juizados Especiais assim dispõe:
+    Art. 62. O processo perante o Juizado Especial orientar-se-á pelos critérios da oralidade, informalidade, economia processual e celeridade, objetivando, sempre que possível, a reparação dos danos sofridos pela vítima e a aplicação de pena não privativa de liberdade.
+    Art. 65. Os atos processuais serão válidos sempre que preencherem as finalidades para as quais foram realizados, atendidos os critérios indicados no art. 62 desta Lei.
+    § 1° Não se pronunciará qualquer nulidade sem que tenha havido prejuízo. (sublinhei)
+    O entendimento jurisprudencial é firme no sentido da irretroatividade dos efeitos da suspeição declarada por motivo superveniente, não resultando na nulidade de atos processuais anteriores. Nesse sentido:
+    […]”
+    Nessa linha, as alegadas violações constitucionais somente poderiam ser analisadas, in casu, por meio da interpretação da legislação processual penal aplicada à espécie, bem como do reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na súmula 279 do STF e por se tratar de ofensa meramente reflexa à CF.
+    Nesse sentido, a jurisprudência da Corte: ARE 1.041.942 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 20.10.2017; ARE 1.020.173 AgR, Rel. Min. ROBERTO BARROSO, DJe 01.08.2017; ARE 1.004.302 AgR, Rel. Min. DIAS TOFFOLI, DJe 26.05.2017.
+    No tocante ao erro de tipo e à atipicidade da conduta por ausência de dolo do recorrente, importa ressaltar que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, o que obsta o processamento do recurso extraordinário, em razão da vedação contida na Súmula 279 do STF.
+    Quanto à alegada inconstitucionalidade do crime atribuído ao recorrente, a Segunda Turma do Supremo Tribunal Federal considerou o tipo penal do desacato recepcionado pela Constituição Federal e compatível com a Convenção Americana sobre Direitos Humanos no julgamento do HC 141.949, Rel. Min. Gilmar Mendes, DJe 23.04.2018, assim ementado:
+    “Habeas corpus. 2. Crime de desacato a militar (art. 299 do Código Penal Militar). 3. Controle de constitucionalidade (arts. 1º; 5º, incisos IV, V e IX, e 220 da Constituição Federal) e de convencionalidade (art. 13 da Convenção Americana de Direitos Humanos (Pacto de São José da Costa Rica). 4. Alegada ofensa à liberdade de expressão e do pensamento que se rejeita. 5. Criminalização do desacato que se mostra compatível com o Estado Democrático de Direito. 6. Ordem denegada.” (HC 141.949, Rel. Min. GILMAR MENDES, Segunda Turma, julgado em 13.03.2018, DJe 23.04.2018)
+    Nesse contexto, assinalo que restei vencido na formação da tese. Nada obstante, cumpre levar a efeito a devida consideração da colegialidade.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de maio de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
