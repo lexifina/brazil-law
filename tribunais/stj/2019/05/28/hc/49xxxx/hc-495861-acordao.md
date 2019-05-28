@@ -1,0 +1,59 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DE DROGA APREENDIDA. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NO CASO. ORDEM DE HABEAS CORPUS DENEGADA.
+1. O Tribunal a quo, ao decretar a prisão preventiva do Paciente, destacou a grande quantidade de droga apreendida (750 gramas de maconha), além da possibilidade concreta de reiteração delitiva, pois o Paciente "é reincidente em roubo majorado" (fl. 115), o que justifica a segregação cautelar como garantia da ordem pública.
+2. A jurisprudência da Suprema Corte é no sentido de que "a periculosidade do agente e a reiteração delitiva demonstram a necessidade de se acautelar o meio social, para que seja resguardada a ordem pública, e constituem fundamento idôneo para a prisão preventiva" (HC 136.255, SEGUNDA TURMA, Rel. Min. RICARDO LEWANDOWSKI, DJe de 10/11/2016).
+3. Demonstrada pela Corte de origem, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não é possível a aplicação de nenhuma das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal.
+4. Ordem de habeas corpus denegada.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, denegar a ordem, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALCIDES ROBERTO DA SILVA CORREA contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido no Recurso em Sentido Estrito n.º 0369375-78.2018.8.21.7000.
+Consta dos autos que o Paciente foi preso em flagrante, em 30/09/2018, pela suposta prática dos crimes de tráfico ilícito de entorpecentes e porte ilegal de arma de fogo. O Juízo de primeira instância não homologou o flagrante e relaxou a prisão.
+Inconformado, o Ministério Público interpôs recurso em sentido estrito, que foi parcialmente provido pelo Tribunal de origem para decretar a prisão preventiva do Paciente, nos termos da seguinte ementa (fl. 112):
+"RECURSO EM SENTIDO ESTRITO. TRÁFICO DE DROGAS, PRISÃO EM FLAGRANTE. NÃO HOMOLOGAÇÃO. RECURSO MINISTERIAL. AUSÊNCIA DE DEFENSOR POR OCASIÃO DO FLAGRANTE. O flagrado não foi acompanhado por advogado quando da lavratura do flagrante, nem foi a Defensoria Pública devidamente informada da prisão. Logo, é caso de não homologação do flagrante, eis não foram observadas as formalidades legais. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PROVIMENTO PARCIAL DO RECURSO. No caso dos autos, em que se está diante de típico caso de envolvimento com o tráfico de drogas e porte ilegal de arma, a decretação da prisão preventiva se faz necessária para a garantia da ordem pública, conforme prevê o art. 312 do CPP. A liberdade do flagrado pode promover a reiteração da prática criminosa, sendo esse, inclusive, reincidente cm crime de roubo majorado, conforme se depreende dos elementos trazidos aos autos. RECURSO PARCIALMENTE PROVIDO. UNÂNIME."
+Neste writ, a Impetrante sustenta que não estão presentes os requisitos autorizadores da custódia cautelar.
+Aduz, ainda, que o acórdão foi omisso quanto à possibilidade de fixação de medidas cautelares diversas da prisão, as quais seriam cabíveis na espécie.
+Requer, em liminar e no mérito, seja cassado o acórdão impugnado.
+O pedido liminar foi indeferido nos termos da decisão de fls. 124-125.
+As informações da autoridade impetrada foram prestadas às fls. 130-134.
+O Ministério Público Federal manifestou-se às fls. 137-139, opinando pelo não conhecimento da impetração.
+É o relatório.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DE DROGA APREENDIDA. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NO CASO. ORDEM DE HABEAS CORPUS DENEGADA.
+1. O Tribunal a quo, ao decretar a prisão preventiva do Paciente, destacou a grande quantidade de droga apreendida (750 gramas de maconha), além da possibilidade concreta de reiteração delitiva, pois o Paciente "é reincidente em roubo majorado" (fl. 115), o que justifica a segregação cautelar como garantia da ordem pública.
+2. A jurisprudência da Suprema Corte é no sentido de que "a periculosidade do agente e a reiteração delitiva demonstram a necessidade de se acautelar o meio social, para que seja resguardada a ordem pública, e constituem fundamento idôneo para a prisão preventiva" (HC 136.255, SEGUNDA TURMA, Rel. Min. RICARDO LEWANDOWSKI, DJe de 10/11/2016).
+3. Demonstrada pela Corte de origem, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não é possível a aplicação de nenhuma das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal.
+4. Ordem de habeas corpus denegada.
+
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Consta dos autos que o Paciente foi preso em flagrante, em 30/09/2018, pela suposta prática dos crimes de tráfico ilícito de drogas e porte ilegal de arma de fogo. O Juízo de primeira instância não homologou o flagrante e relaxou a prisão.
+Inconformado, o Ministério Público interpôs recurso em sentido estrito, que foi parcialmente provido pelo Tribunal de origem para decretar a prisão preventiva do Paciente. Segue, por oportuno, o seguinte trecho do acórdão impugnado (fls. 114-116; sem grifos no original):
+" ..
+ALCIDES ROBERTO DA SILVA CORREA foi preso em flagrante em 30.09.2018, às 08h30min, na cidade do Rio Grande, em razão da suposta prática do delito de tráfico de drogas e porte ilegal de arma de fogo.
+Como se verifica dos autos, durante o patrulhamento de rotina, os policiais avistaram um indivíduo armado na via pública, tendo esse, ao ver a guarnição, empreendido fuga para o interior de uma residência, sendo perseguido e abordado. Ante de parar de correr, os policiais viram o momento em que o flagrado teria dispensado no chão a arma de fogo e um tijolo de maconha, pesando 750 gramas, do que resultou na prisão em flagrante.
+Na decisão de fl. 36, não foi homologado o flagrante, sendo relaxada a prisão.
+Entretanto, a expressiva quantidade de droga apreendida, além de arma de fogo, e as circunstâncias da prisão em flagrante indicam ser típico caso de envolvimento com o tráfico de drogas e com o porte ilegal de arma.
+Além disso, o flagrado não só é reincidente em roubo majorado, como a expressiva quantidade de droga, caso futuramente condenado, dificilmente impedirá que seja colocado em regime mais brando do que o fechado, assim como dificilmente será aplicada a minorante prevista no art. 33, § 4º, da Lei nº 11.343/06, pois a redutora da Lei de Drogas não é aplicável a réus reincidentes e que se dedicam à atividade criminosa.
+Não é usual que alguém flagrado na posse de 750 gramas de maconha seja considerado traficante eventual ou iniciante na atividade criminosa, pois, como se sabe pelas regras da experiência, alguém que está começando a atividade do narcotráfico não o faz com uma quantidade tão elevada de drogas.
+Concluo que a liberdade do acusado, no caso em questão, pode promover a reiteração na prática criminosa, o que se depreende da análise das circunstâncias da prisão em flagrante e dos depoimentos dos policiais.
+ .. ."
+O art. 312 do Código de Processo Penal apresenta como pressupostos da prisão preventiva o periculum libertatis e o fumus commissi delicti, este caracterizado pela prova da existência do crime e indício suficiente de autoria; aquele representado pela garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal.
+No caso, como se vê, o Tribunal de origem, ao decretar a prisão preventiva do Paciente, destacou a grande quantidade de droga apreendida (750 gramas de maconha), além da possibilidade concreta de reiteração delitiva, pois o Paciente "é reincidente em roubo majorado" (fl. 115), o que justifica a segregação cautelar como garantia da ordem pública.
+Exemplificativamente:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. DENEGADA A ORDEM.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. São idôneas as razões invocadas pelo Juízo de origem para fundamentar a ordem de prisão do réu, ante a gravidade concreta da conduta perpetrada, sobretudo em razão da quantidade de droga encontrada (cerca de 400 g de maconha).
+3. Por idênticos argumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da gravidade do delito supostamente cometido (art. 282, II, do Código de Processo Penal), a denotar particular periculosidade do acusado.
+4. Denegada a ordem"(HC 491.736/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 02/04/2019, DJe 08/04/2019, sem grifos no original.)
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS DA CUSTÓDIA CAUTELAR. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. GARANTIA DA ORDEM PÚBLICA. EXPRESSIVA QUANTIDADE DE DROGA. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+1. A prisão cautelar, como é cediço, é medida excepcional de privação de liberdade que somente poderá ser adotada quando as circunstâncias do caso concreto, devidamente fundamentadas no art. 312 do Código de Processo Penal, demonstrarem a sua imprescindibilidade.
+2. In casu, a prisão cautelar foi decretada e mantida pelas instâncias ordinárias, especialmente, para a garantia da ordem pública, em razão da quantidade de droga apreendida (4,490 kg de maconha) e do risco concreto de reiteração delitiva do agente, não havendo ilegalidade a ser suprida por esta Corte.
+3. Concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, em razão da expressiva quantidade de droga, não se afigura suficiente a fixação de medidas cautelares alternativas.
+4. Ordem denegada"(HC 485.081/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 12/03/2019, DJe 19/03/2019.)
+Ressalte-se, a propósito, que a jurisprudência da Suprema Corte também é no sentido de que "a periculosidade do agente e a reiteração delitiva demonstram a necessidade de se acautelar o meio social, para que seja resguardada a ordem pública, e constituem fundamento idôneo para a prisão preventiva" (HC 136.255, Segunda Turma, Rel. Min. RICARDO LEWANDOWSKI, DJe de 10/11/2016).
+Registre-se, por fim, que, demonstrada pela Corte de origem, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não se mostra possível a aplicação de nenhuma das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal. A propósito: RHC 82.573/CE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 13/08/2018; e RHC 99.532/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 15/08/2018.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+É o voto.
