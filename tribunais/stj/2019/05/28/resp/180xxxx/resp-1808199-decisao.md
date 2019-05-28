@@ -1,0 +1,65 @@
+EMENTA
+PENAL. RECURSO ESPECIAL. REJEIÇÃO DA DENÚNCIA. IMPORTAÇÃO DE SEMENTES DE CANNABIS SATIVA. ALEGADA VIOLAÇÃO AO ARTIGO 33, § 1º, INCISO I, DA LEI 11. 343/06. TIPICIDADE DA CONDUTA. SÚMULA 568/STJ. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal Regional Federal da 3ª Região, assim ementado (fl. 306):
+"HABEAS CORPUS. TRANCAMENTO DE AÇÃO PENAL ORDEM CONCEDIDA.
+1.0 paciente teve sua encomenda de 10 (dez) sementes de maconha retida nos Correios e foi chamado para prestar esclarecimento.
+2.Os impetrantes requerem o trancamento da Ação Penal ne 002458-64.2015.4.03.6104, em trâmite no Juízo da 5a Vara Federal de São Paulo, ao argumento de que o Juiz não pode substituir o titular da ação penal e, mesmo que pudesse, trata-se de conduta atípica.
+3.Considerado que a importação se deu em pequena quantidade, ausente o propósito comercial. Logo, não há que se falar em punição da conduta perpetrada pelo agente por ser atípica.
+4.Ordem concedida, a fim de trancar a ação penal nº 002458-64.2015.4.03.6104, tendo em vista a atipicidade material da conduta."
+Nas razões do recurso especial, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, o Parquet sustenta, além da divergência jurisprudencial, a violação ao art. 33, §1º, inciso I, da Lei n. 11.343/06, ao argumento de que a "importação de sementes de cannabis sativa linneu, ao tipo penal ali delimitado, considerando tratar-se de conduta atípica, para a qual não se aplica o principio da insignificância." (fl. 319).
+Busca demonstrar que o delito de tráfico de drogas não comporta a aplicação do princípio da bagatela, por se tratar de crime de perigo abstrato.
+Apresentadas as contrarrazões (fls. 342-351), o recurso foi admitido na origem e os autos ascenderam a esta eg. Corte de Justiça.
+O Ministério Público Federal apresentou parecer pelo provimento do recurso especial (fls. 368-375).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Consta dos autos que a denúncia foi recebida por considerar preenchidos os requisitos do art. 41 do Código de Processo Penal.
+Em segunda instância, o eg. Tribunal a quo concedeu a ordem de habeas corpus, imperado pela Defesa do ora recorrido, para trancar a ação penal, em razão da atipicidade material da conduta.
+Sobreveio o presente recurso especial, no qual, consoante relatado, pretende-se o destrancamento da ação penal.
+Pois bem.
+O v. acórdão impugnado está fundamentado nos seguintes termos (fls. 307-308, destaquei):
+"No caso, a denúncia imputou ao paciente a conduta de importar sementes de maconha em desacordo com as normas legais e regulamentares.
+Na hipótese, a importação se deu em pequena quantidade (dez sementes de maconha), o que demonstra que a conduta imputada ao paciente é inexpressiva e sem propósito comercial, bem como o são as suas consequências, não trazendo risco à saúde pública.
+Logo, não há que se falar em punição da conduta perpetrada pelo agente por ser atípica.
+ ..
+Diante da atipicidade da conduta imputada em decorrência da aplicação da teoria da bagatela, de rigor a rejeição da peça acusatória.
+Ante o exposto, CONCEDO A ORDEM, a fim de que seja trancada a ação penal ne 002458-64.2015.4.03.0000, tendo em vista a atipicidade material da conduta."
+Verifico que orientação adotada pelo eg. Tribunal a quo diverge daquela assentada nesta Corte, no sentido de que as sementes da planta cannabis sativa são consideradas matéria-prima para efeito de configuração de quaisquer uma das ações delituosas previstas no art. 33, § 1º, inciso I, da Lei 11.343/2006. Assim, a conduta ora em análise - importação de sementes de maconha - reveste-se, em princípio, de tipicidade e há a justa causa para a ação penal.
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. IMPORTAÇÃO DE SEMENTES DE CANNABIS SATIVA LINNEU. MATÉRIA-PRIMA PARA PRODUÇÃO DE DROGA. FATO TÍPICO. PRECEDENTES. PERIGO ABSTRATO OU PRESUMIDO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO DESPROVIDO.
+ ..
+2. A jurisprudência majoritária desta Corte é no sentido de que a importação clandestina de sementes de cannabis sativa linneu (maconha) configura o tipo penal descrito no art. 33, § 1º, I, da Lei n. 11.343/2006.
+3. Prevalece na Quinta Turma deste Superior Tribunal de Justiça a diretriz no sentido de que não se aplica o princípio da insignificância aos delitos de tráfico de drogas e de uso de substância entorpecente, por se tratar de crimes de perigo abstrato ou presumido, sendo irrelevante para esse específico fim a quantidade de sementes da droga apreendida. Precedentes.
+4. Agravo regimental desprovido." (AgRg no REsp 1733645/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 15/06/2018; grifei)
+"PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. IMPORTAÇÃO DE SEMENTES DE MACONHA. TIPICIDADE DA CONDUTA. VÍCIOS DO ART. 620 DO CPP. AUSÊNCIA.
+I - São cabíveis embargos de declaração quando, no acórdão embargado, houver ambiguidade, obscuridade, contradição ou omissão, a teor do disposto no art. 620 do Código de Processo Penal. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência.
+II - Não há, na hipótese, qualquer vício a ser sanado. A tese ministerial de que - "a conduta de importação de sementes não consiste na prática de tráfico de drogas por equiparação, previsto no art. 33, § 1º, I, da Lei de drogas", em observância "aos princípios da taxatividade e da reserva legal, corolários lógicos do princípio da legalidade" - foi rechaçada pelo órgão colegiado, ao entender que "a conduta ora em análise - importação de sementes de maconha - reveste-se, em princípio, de tipicidade e há a justa causa para a ação penal", tendo em vista que "a orientação adotada pelo eg. Tribunal a quo não diverge daquela assentada nesta Corte, no sentido de que as sementes da planta cannabis sativa são consideradas matéria-prima para efeito de configuração de quaisquer uma das ações delituosas previstas no art. 33, § 1º, inciso I, da Lei 11.343/2006". Nesse sentido: AgRg no REsp n. 1.650.876/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 30/8/2017.
+III - Em verdade, a parte embargante pretende a rediscussão, sob nova roupagem, da matéria já apreciada, providência vedada nos estreitos limites dos aclaratórios.
+IV - Inexistindo vícios no acórdão, não se revela possível rediscutir o entendimento adotado, sequer para fins de prequestionamento.
+Embargos de declaração rejeitados." (EDcl no AgRg no AREsp 973.163/SP, Quinta Turma, de minha relatoria, DJe 06/04/2018; grifei)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. IMPORTAÇÃO DE SEMENTES DE CANNABIS SATIVA LINEU. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REAPRECIAÇÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. MATÉRIA NÃO ARGUIDA EM RECURSO ESPECIAL. PRECLUSÃO CONSUMATIVA. SÚMULA 7 DO STJ. NÃO INCIDÊNCIA.
+1. O entendimento deste Superior Tribunal de Justiça é no sentido de que a importação clandestina de sementes de maconha, por si só, amolda-se ao tipo penal insculpido no artigo 33, § 1º, I, da Lei n. 11.343/2006.
+2. Não se aplica o princípio da insignificância aos delitos de tráfico de drogas e uso de substância entorpecente por se tratarem de crimes de perigo abstrato ou presumido.
+3. A pretensão de incidência do óbice da Súmula 7 do STJ configura inovação recursal de inviável apreciação em sede de agravo regimental em razão da preclusão consumativa, uma vez que não foi alvo de insurgência por meio de recurso especial 4. Não há necessidade de incursão em acervo de provas dos autos se o objeto do apelo nobre é a revisão de interpretação jurídica referente ao enquadramento penal da conduta.
+5. Agravo regimental desprovido." (AgRg no REsp 1639494/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 30/08/2017; grifei)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. IMPORTAÇÃO DE SEMENTES DE MACONHA. TIPICIDADE DA CONDUTA. AGRAVO IMPROVIDO.
+1. A decisão agravada está na mais absoluta consonância com a jurisprudência desta Casa Superior de Justiça, assentada no sentido de que configura delito de tráfico de drogas a importação de sementes de maconha, não sendo a hipótese caso de reconhecimento da atipicidade material em razão da quantidade importada.
+2. Assim, a decisão agravada deve ser mantida incólume por seus próprios termos.
+3. Agravo regimental improvido"(AgRg no AREsp n. 892.613/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 29/6/2016).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. IMPORTAÇÃO DE SEMENTES DE MACONHA. MATÉRIA-PRIMA PARA PRODUÇÃO DE DROGA TIPICIDADE DA CONDUTA. VIOLAÇÃO AO PRINCÍPIO DA INSIGNIFICÂNCIA. TESE NÃO ENFRENTADA PELA CORTE DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é assente no sentido de que a importação clandestina de sementes de maconha configura delito de tráfico de drogas, haja vista tratar-se de matéria-prima com condições e qualidades necessárias para resultarem em substância entorpecente.
+2. A suposta violação do princípio da insignificância não foi analisada pela Corte de origem, carecendo do indispensável requisito do prequestionamento, incindindo, portanto, na hipótese, as Súmulas 282 e 356 do STF.
+3. Agravo regimental não provido" (AgRg no AREsp n. 960.515/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 19/12/2016)
+"EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. LEGISLAÇÃO EXTRAVAGANTE. LEI N. 11.343/2006. TRÁFICO DE ENTORPECENTES. INTRODUÇÃO ILEGAL EM TERRITÓRIO NACIONAL DE INSUMO DE ENTORPECENTES. IMPORTAÇÃO CLANDESTINA DE SEMENTES DE CANNABIS SATIVA. MATÉRIA-PRIMA DESTINADA À PREPARAÇÃO DE SUBSTÂNCIA ENTORPECENTE. CONDUTA TÍPICA. RECEBIMENTO DA DENÚNCIA. PROSSEGUIMENTO DA AÇÃO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE EM RAZÃO DAS CIRCUNSTÂNCIAS DO DELITO. OBITER DICTUM. AUSÊNCIA DE OMISSÃO.
+1. Em essência, a oposição de embargos de declaração almeja o aprimoramento da prestação jurisdicional por meio da integração de julgado que se apresenta ambíguo, omisso, contraditório, obscuro ou com erro material (art. 619 do CPP).
+2. A importação clandestina de sementes de cannabis sativa linneu (maconha) configura o tipo penal descrito no art. 33, § 1º, I, da Lei n. 11.343/2006.
+3. A conduta do embargante atendeu tanto à tipicidade formal - pois constatada a subsunção do fato à norma incriminadora - quanto à subjetiva, visto que inegável o dolo do agente ao solicitar a importação clandestina das sementes de maconha, consequentemente há como reconhecer presente a tipicidade material, na medida em que o comportamento atribuído se mostrou suficiente para caracterizar o tráfico, nos termos do art. 33, § 1º, I, da Lei n. 11.343/2006.
+4. Não se aplica à espécie a Súmula 7/STJ, porquanto não se discutem fatos, mas, sim, sua classificação jurídica. Em termo diversos, dir-se-á, ainda, e com razão, que a função deste Superior Tribunal não é revolver provas, rediscutir matéria fática. No entanto, também seria suma injustiça aceitar os fatos com a errônea classificação jurídica dada pelas instâncias ordinárias, se a outra classificação, mesmo tendo como incontroversos os fatos, chegar a esta Corte Superior.
+5. As simples considerações feitas de passagem pelo Tribunal de origem, a título de obiter dictum, não revelam uma tese jurídica oportunamente suscitada e devidamente resolvida no acórdão a quo, na forma como exigido pelo conceito de causa decidida presente no art. 105, III, da Constituição da República, para autorizar a revisão da matéria por este Superior Tribunal.
+6. A jurisprudência desta Corte Superior considera que não se aplica o princípio da insignificância aos delitos de tráfico de drogas e uso de substância entorpecente, pois se trata de crimes de perigo abstrato ou presumido, sendo irrelevante para esse específico fim a quantidade de droga apreendida.
+7. A questão tratada nos autos foi decidida e fundamentada à luz da legislação federal. Inexiste, portanto, vício consistente em ambiguidade, omissão, contradição, obscuridade ou erro material (art. 619 do CPP).
+8. Embargos de declaração rejeitados" (EDcl no AgRg no REsp n. 1.442.224/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 22/9/2016).
+Dessa feita, estando o v. acórdão prolatado pelo eg. Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula n. 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 255, § 4º, inciso III, do Regimento Interno do STJ, dou provimento ao recurso especial, para determinar o recebimento da denúncia.
+P. e I.
