@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 1.426/1.428).
+O acórdão recorrido está assim ementado (e-STJ fls. 1.338/1.339):
+AGRAVO DE INSTRUMENTO - AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE - DEFERIMENTO LIMINAR PARA SUSTAÇÃO DE PROTESTO - PEDIDO DA RÉ PARA QUE SEJA PRESTADA CAUÇÃO PELA AUTORA - DECISÃO INDEFERINDO A CONTRACAUTELA - MANUTENÇÃO - ENTENDIMENTO DO ART. 300, § 1º, DO CPC/15 - EXIGÊNCIA DE CAUÇÃO QUE NECESSITA DEMONSTRAÇÃO DA POSSIBILIDADE DE PREJUÍZO À PARTE E NÃO DA PROBABILIDADE DO DIREITO EM SI - JUÍZO DISCRICIONÁRIO DO MAGISTRADO NO CASO CONCRETO - ENUNCIADO 497 DO FPPC QUE DELIMITA A EXIGÊNCIA DE CAUÇÃO ÀS HIPÓTESES DO ART. 520, IV, DO CPC - INOCORRÊNCIA NO CASO DE LEVANTAMENTO DE DEPÓSITO EM
+DINHEIRO, DA PRÁTICA DE ATOS QUE IMPORTEM TRANSFERÊNCIA DE POSSE OU ALIENAÇÃO DE PROPRIEDADE OU DE OUTRO DIREITO REAL - INEXISTÊNCIA DE DANO À AGRAVANTE - PROTESTO QUE, SE MANTIDO, IMPORTARÁ EM MAIORES DANOS À AGRAVADA, QUE ESTÁ EM RECUPERAÇÃO JUDICIAL, CUJOS BENS NÃO ESTÃO, DE TODO MODO, DISPONÍVEIS - RESP 1340236 DO STJ JULGADO COMO REPETITIVO - DISTINGUISHING COM O CASO EM COMENTO, NA FORMA DO ART. 489, § 12, VI, DO CPC/15 - SITUAÇÃO TRATADA NO RESP QUE IMPLICARIA NA IMPOSSIBILIDADE DE EXECUÇÃO DO TÍTULO CAMBIÁRIO EM RAZÃO DO PROTESTO - NO PRESENTE CASO, A AGRAVANTE JÁ AJUIZOU AÇÃO DE EXECUÇÃO, QUE SE ENCONTRA SUSPENSA EM RAZÃO DA RECUPERAÇÃO JUDICIAL - HIPÓTESES DIVERSAS, NÃO INCIDINDO O REPETITIVO À PRESENTE SITUAÇÃO - INEXIGIBILIDADE DA CAUÇÃO.
+RECURSO DESPROVIDO.
+As razões do recurso especial (e-STJ fls. 1.356/1.364), fundamentadas no art. 105, III, alíneas "a" e "c", da CF, versam sobre ofensa ao art. 300, § 1º, do CPC/2015, bem como dissídio jurisprudencial.
+Sustentou a necessidade de prestação de caução para que o título cambial protestado seja sustado, pois haveria grandes chances de a recorrida não poder honrar com sua dívida.
+No agravo (e-STJ fls. 1.436/1.440), afirma a presença de todos os requisitos de admissibilidade do especial.
+A agravada apresentou contraminuta (e-STJ fls. 1.448/1.454).
+É o relatório.
+Decido.
+O Tribunal de origem assim decidiu (e-STJ fls. 1.343/1.347):
+Basta para a concessão da tutela de urgência, portanto, a análise da probabilidade do direito e a averiguação de eventual perigo de dano ou de resultado útil ao processo, isso em juízo superficial e rarefeito de cognição. Já a caução será exigida no caso de o juiz averiguar, no caso concreto, a possibilidade de a parte contrária vir a sofrer danos com a concessão da medida.
+(..)
+para se constatar a necessidade ou não para a prestação da caução, independentemente da probabilidade do direito - requisito este necessário para a concessão da tutela de urgência em si - é preciso se averiguar a possibilidade de a medida resultar dano à parte contrária, o que depende da análise discricionária do magistrado.
+Aqui, portanto, os argumentos da agravante que tentam afastar a probabilidade do direito constatado pelo magistrado a quo, seriam relevantes caso estivesse questionando a medida cautelar em si, o que não é o caso.
+Questiona, como já dito, a necessidade de se prestar ou não caução, cuja análise deve ser específica com relação à possibilidade de a sustação do protesto lhe causar prejuízos.
+(..) E não vislumbro a possibilidade de prejuízo a ponto de determinar o oferecimento de caução no presente caso.
+Primeiro que, aqui, a sustação do protesto como medida de urgência não imporá o levantamento de depósito em dinheiro, transferência de posse ou alienação de propriedade ou de direitos reais, como dispõe o art. 520, IV, do CPC. Haverá tão somente a suspensão do protesto, cujos efeitos de sua manutenção são mais gravosos para a parte agravada do que para a agravante, isso é evidente.
+Além disso, no que concerne à incidência do REsp 1340236, do STJ ao caso, há de se fazer o distinguishing da decisão do repetitivo e o presente caso, em conformidade com o art. 489, § 1º, VI, do CPC/15.
+(..) essa situação analisada pelo REsp não se verifica no presente caso, porquanto a agravante já ajuizou a ação executiva e, não fosse isso, a ação está suspensa em virtude do processo de recuperação judicial, o que de todo modo altera a sorte da ora agravante.
+Trata-se, portanto, de hipóteses diversas, não se aplicando à presente situação o entendimento proferido pelo STJ.
+Assim, não se verifica qualquer possibilidade de dano que pudesse dar ensejo à prestação de caução pela apelada. - Grifei.
+No que se refere à necessidade de caução idônea para concessão da tutela de urgência, observa-se que o Tribunal de origem fundamentou sua decisão na desnecessidade dessa garantia.
+O STJ firmou entendimento de que a exigência de contracautela, no caso de de sustação de protesto, será determinada pelo prudente arbítrio do magistrado. Confira-se:
+SUSTAÇÃO DE PROTESTO EXTRAJUDICIAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. TUTELA CAUTELAR PARA SUSTAÇÃO DE PROTESTO CAMBIÁRIO. A TEOR DO ART. 17, § 1º, DA LEI N. 9.492/1997, A SUSTAÇÃO JUDICIAL DO PROTESTO IMPLICA QUE O TÍTULO SÓ PODERÁ SER PAGO, PROTESTADO OU RETIRADO DO CARTÓRIO COM AUTORIZAÇÃO JUDICIAL. MEDIDA QUE RESULTA EM RESTRIÇÃO A DIREITO DO CREDOR. NECESSIDADE DE OFERECIMENTO DE CONTRACAUTELA, PREVIAMENTE À EXPEDIÇÃO DE MANDADO OU OFÍCIO AO CARTÓRIO DE PROTESTO PARA SUSTAÇÃO DO PROTESTO.
+1. Para fins do art. 543-C do Código de Processo Civil: A legislação de regência estabelece que o documento hábil a protesto extrajudicial é aquele que caracteriza prova escrita de obrigação pecuniária líquida, certa e exigível. Portanto, a sustação de protesto de título, por representar restrição a direito do credor, exige prévio oferecimento de contracautela, a ser fixada conforme o prudente arbítrio do magistrado.
+2. Recurso especial não provido.
+(REsp 1340236/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/10/2015, DJe 26/10/2015.)
+Nesse contexto, a modificação das conclusões do acórdão recorrido - a fim de se afastar o entendimento de que a caução é desnecessária -, demandaria revolvimento de matéria de fato, vedado em recurso especial, a teor da Súmula n. 7/STJ. A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. NÚMERO DE REFERÊNCIA DIVERSO SOMENTE NA GUIA DE RECOLHIMENTO DA UNIÃO. DESERÇÃO AFASTADA. INSTRUMENTALIDADE DAS FORMAS E EFETIVIDADE DA TUTELA JURISDICIONAL. PRECEDENTES. 2.
+NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 3. AÇÃO CAUTELAR. AUSÊNCIA DE REQUISITOS AUTORIZADORES. PRESTAÇÃO DE CAUÇÃO.
+REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS.
+SÚMULA 7/STJ. 4. EMBARGOS ACOLHIDOS A FIM DE SANAR A OMISSÃO E CONHECER DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Os aclaratórios são cabíveis quando existir no julgado omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, situação que se observa na espécie. Omissão quanto ao entendimento proferido no julgamento do REsp 844.440/MS, pela Corte Especial do STJ. 2. Não ficou caracterizada a violação do art. 1.022 do CPC/2015 (535 do CPC/1973), uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. O Tribunal estadual concluiu, com base nos elementos de prova dos autos, pela possibilidade de concessão da antecipação da tutela requerida, ante a presença de demonstração do fumus boni iuris e do periculum in mora, assim como da necessidade da prestação da caução.
+No caso, rever tal entendimento demanda reexame do conjunto fático-probatório, a atrair o óbice da Súmula n. 7 do STJ.
+4. Embargos acolhidos a fim de sanar a omissão e conhecer do agravo para negar provimento ao recurso especial.
+(EDcl no AgInt no AREsp 826.690/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/12/2017, DJe 5/2/2018 - Grifei.)
+Ademais, no que se refere ao conhecimento do especial por divergência jurisprudencial, a fundamentação do aresto recorrido, lastreada em fatos e provas (incidência da Súmula 7/STJ) inviabiliza a demonstração da similitude fática, conforme entendimento desta Corte Superior. Nessa linha de entendimento:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PRESCRIÇÃO. ART. 205, § 5º, I, DO CÓDIGO CIVIL. CAUSA SUSPENSIVA. NÃO OCORRÊNCIA. PRELIMINAR AFASTADA. CONTRATO PARTICULAR DE PROMESSA DE COMPRA E VENDA. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não é cabível o provimento do especial para reconhecer a inadimplência dos agravados, haja vista o disposto nas Súmulas nºs 5 e 7 do Superior Tribunal de Justiça, pois o negócio jurídico firmado entre as partes contem cláusula com contendo condição suspensiva da dívida.
+2. Alterar o momento em que considerados exigíveis os valores objetos da cobrança e, por consequência, o marco inicial da prescrição, exigiria o vedado reexame de provas e de interpretação de cláusulas contratuais.
+3. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula 7/STJ. Isso porque não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo interno não provido.
+(AgInt no AREsp 1386774/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/4/2019, DJe 8/4/2019. - Grifei.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
