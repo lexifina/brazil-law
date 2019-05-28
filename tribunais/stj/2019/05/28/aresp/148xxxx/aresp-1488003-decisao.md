@@ -1,0 +1,28 @@
+DECISÃO
+1. Cuida-se de agravo interposto por TEOFOLO DE OLIVEIRA LIMA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AÇÃO REDIBITÓRIA. COMPRA VEÍCULO ZERO QUILÔMETRO. DEFEITO. TAMBOR DA LONA DE FREIO. TRAVADO COM UMIDADE. PERÍCIA. VÍCIO SANÁVEL. AUSÊNCIA DE PERIGO AO CONSUMIDOR. PEDIDO DE SUBSTITUIÇÃO DO AUTOMÓVEL. DESPROPORCIONAL. DANO MORAL. AUSENTE. RECURSOS CONHECIDOS E NÃO PROVIDO. SENTENÇA MANTIDA.
+1. Em que pese à perícia judicial ter constatado a possibilidade de vício na peça do automóvel adquirido pelo consumidor, restou demonstrado que tal defeito, além de ser facilmente sanável, não compromete o uso do bem ou a segurança do consumidor.
+2. Verificada a existência de defeito em uma peça que não afetou substancialmente a qualidade do bem, e que o defeito apresentado no automóvel do apelante não torna o bem impróprio para o uso, nem mesmo gera problemas na sua segurança, torna-se desarrazoada a invocação do pedido de substituição do bem estabelecida no inciso I do § 1º do art. 18.
+3. Caberia ao consumidor ter postulado a troca da peça viciada - cujo custo, segundo o laudo pericial, é de baixo valor - e não a substituição do veículo, pois essa medida é desproporcional em relação ao valor do bem e ao vício constatado de fácil reparação.
+4. Nem toda ordem de abalo psíquico ou perturbação emocional é apta a configurar dano moral, porque este não há de se confundir com os percalços, aborrecimentos e alterações momentâneas ou tênues do normal estado psicológico, sob pena de banalizar-se e desvirtuar-se a concepção e finalidade de tão destacado instituto jurídico.
+4.1. No caso em análise, ausente a comprovação de que o defeito alegado torna o bem impróprio para uso, não há violação do patrimônio imaterial do autor.
+5. Honorários majorados. Art. 85, §11, do CPC.
+6. Recurso conhecido e não provido. Sentença mantida.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 18, § 1º, inciso I, do CDC.
+Alega, em síntese, que "é incontroverso a existência de defeito de fabricação no veículo adquirido pelo Recorrente e, consequente, comprometimento do pleno uso do bem". Assim, faz juz à substituição do veículo por outro da mesma espécie e marca.
+É o relatório. DECIDO.
+2. Ao apreciar a controvérsia, o Tribunal de origem assim consignou:
+Ao analisar o parecer técnico emitido pelo perito judicial, é possível afirmar que existe o vício alegado pelo apelante em virtude do desgaste anormal da peça bem como da presença de material pastoso no tambor de freio traseiro, o que atrai a obrigação das apeladas em procederem com o devido reparo ou substituição da peça, independentemente do prazo estabelecido na garantia do fabricante.
+Contudo, o mesmo laudo concluiu que o referido defeito não influencia no funcionamento e segurança do veículo, de modo que não impede que o bem possa ser utilizado com relativa normalidade.
+Delineadas tais argumentações, é oportuna a leitura do artigo 18 do Código de Processo Civil:
+ .. .
+Como se observa, o dispositivo legal estabelece as opções de conduta do consumidor diante de hipóteses em que o vício de qualidade torne o bem impróprio ou inadequado ao consumo a que se destina ou lhe diminua o valor.
+No presente caso, de acordo com o que foi registrado pelo expert, o defeito apresentado no automóvel do apelante não torna o bem impróprio para o uso, nem mesmo gera problemas na sua segurança, o que torna desarrazoada a invocação da alternativa estabelecida no inciso I do § 1º do art. 18, como fez o apelante.
+Por essa razão, caberia ao autor-apelante ter postulado apenas a troca da peça viciada - cujo custo, segundo o laudo pericial, é de aproximadamente R$ 600,00 (seiscentos reais) - e não a substituição do veículo, pois essa medida é desproporcional em relação ao valor do bem e ao vício constatado, de fácil reparação.
+Em análise à exordial, percebe-se que o apelante realizou tão somente o pedido de troca do veículo, assim, tendo em vista que o magistrado está adstrito ao pedido da parte, a única solução adequada ao presente processo é a improcedência do pedido autoral no que diz respeito à substituição do automóvel, razão pela qual a sentença merece ser mantida.
+Nota-se que o acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e a parte recorrente não cuidou de impugnar todos eles, como seria de rigor.
+Assim, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. Ainda que assim não fosse, o acolhimento da pretensão recursal, a fim de verificar as alegações da parte agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
