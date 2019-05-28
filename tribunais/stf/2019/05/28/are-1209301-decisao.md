@@ -1,0 +1,22 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de Itaberá/SP contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “APELAÇÃO – Servidor Público – Prefeitura Municipal de Itaberá – Horas Extras – Base de cálculo – Arts. 131 e 132 da Lei Municipal nº 1.371/98 – Omissão legislativa – Pagamento do trabalho extraordinário que deve ser procedido sobre a integralidade da remuneração do servidor e não do salário base como sustentado pela Municipalidade – Inteligência dos arts. 7º, XVI, e 39, § 3º, da CF – Precedentes desta Corte – Sentença mantida – Recurso desprovido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 37, XIV, da Constituição da República.
+    Cabe registrar, desde logo, que o recurso extraordinário revela-se insuscetível de conhecimento eis que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 280/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impõe-se observar, ainda, que a questão ora em exame foi decidida com base no direito local (Lei municipal nº 1.371/98), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático- -probatórios e em interpretação de direito local:
+    “Dispõe os arts. 131 e 132 da Lei Municipal nº 1.371/98 que:
+    ‘O artigo 131: O funcionário público ocupante de cargo de provimento efetivo, quando convocado para trabalhar em horário diverso de seu expediente terá direito a gratificação por serviços extraordinários.’
+    ‘Art. 132: A gratificação será paga por hora de trabalho, prorrogando ou antecipando, que exceda ao período normal do expediente, acrescido de cinquenta por cento do valor da hora normal de trabalho.’
+    Pela transcrição dos aludidos dispositivos legais nota-se que há omissão quanto à base de cálculo para o pagamento das horas extras. No entanto, mesmo diante da omissão legislativa sobre a questão, o certo é que a tese sustentada pela apelante não merece guarida, considerando que a própria Constituição Federal no art. 7º, XVI c.c o art. 39, § 3º, determina que o pagamento das horas extraordinárias deve ser realizado sobre a remuneração normal do servidor, incluindo todas as vantagens por ele percebidas.
+    Ademais, a própria Municipalidade reconhece a lisura da pretensão do autor, tanto que a partir de abril de 2014 passou a resgatar o trabalho extraordinário de acordo com a remuneração do servidor, de molde a adequar-se às disposições constitucionais.”
+    Impende assinalar, finalmente, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.198.802/SP, Rel. Min. GILMAR MENDES – ARE 1.201.922/SP, Rel. Min. GILMAR MENDES – ARE 1.202.373/SP, Rel. Min. LUIZ FUX, v.g.).
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 28 de maio de 2019.
+Ministro CELSO DE MELLO
+Relator
