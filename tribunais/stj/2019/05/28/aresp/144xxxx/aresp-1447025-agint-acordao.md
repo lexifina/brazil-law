@@ -1,0 +1,45 @@
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. ACÓRDÃO FUNDAMENTADO EM MATÉRIA CONSTITUCIONAL. INCOMPETÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O Tribunal de origem utilizou apenas fundamentos constitucionais para dirimir a controvérsia, sendo vedado a esta Corte reformar a decisão do Juízo a quo, em recurso especial, sob pena de usurpação da competência recursal do Supremo Tribunal Federal.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão, Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+ESTADO DE MATO GROSSO DO SUL interpôs agravo interno contra decisão desta Relatoria assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO. ENSINO. RECUSA DE MATRICULA NA MODALIDADE EDUCAÇÃO PARA JOVENS E ADULTOS - EJA. MENOR DE 18 ANOS. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO A NORMA INFRACONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. SUMULAS 282 E 356/STF. ACÓRDÃO QUE DIRIMIU A CONTROVÉRSIA COM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Alega o agravante que: a) os dispositivos reputados como violados e a matéria a eles subjacentes foram devidamente prequestionados, uma vez que, além do voto condutor mencionar os preceptivos legais, no voto vencido o Desembargador deu ganho de causa ao Estado abordando expressamente o tema ora versado e os dispositivos reputados infringidos (arts. 37 e 38 da Lei de Diretrizes e Bases da Educação); e b) o acórdão exarado pelo Tribunal a quo enfrentou matéria constitucional para solver a lide, sobretudo o direito à educação e a dignidade da pessoa humana, porém a decisão contém outra parte de natureza manifestamente infraconstitucional, razão pela qual não deve subsistir a decisão atacada.
+Pugna pela reconsideração da decisão agravada ou apresentação deste agravo em mesa para apreciação e provimento do recurso especial.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. ACÓRDÃO FUNDAMENTADO EM MATÉRIA CONSTITUCIONAL. INCOMPETÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O Tribunal de origem utilizou apenas fundamentos constitucionais para dirimir a controvérsia, sendo vedado a esta Corte reformar a decisão do Juízo a quo, em recurso especial, sob pena de usurpação da competência recursal do Supremo Tribunal Federal.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A decisão recorrida decidiu pelo não conhecimento do recurso especial do agravante pelos seguintes fundamentos: a) não houve apreciação pelo Tribunal de origem sobre as teses esposadas no apelo especial, o que impossibilita o julgamento do recurso por ausência de prequestionamento; e b) o acórdão recorrido apoiou-se em fundamentação eminentemente constitucional, qual seja, o princípio da dignidade da pessoa humana e o direito à educação, para dirimir a controvérsia, o que afasta a possibilidade de revisão de suas premissas pelo Superior Tribunal de Justiça.
+Acerca do primeiro fundamento utilizado na decisão recorrida para não conhecer do recurso especial, qual seja, ausência de prequestionamento, verifica-se que o Tribunal de origem tratou expressamente dos dispositivos indicados como violados e da tese do recorrente nas razões do voto vencido.
+Porém, mantém-se o não conhecimento do recurso especial em decorrência do segundo fundamento utilizado pela decisão recorrida - por si só suficiente -, pois o acórdão do Tribunal possui fundamentação eminentemente constitucional.
+O Juízo a quo decidiu a controvérsia nos seguintes termos:
+(..) Trata-se de mandado de segurança com pedido de liminar impetrado pelo menor [NOME], representado por sua genitora [NOME], nascido em 14 de janeiro de 2002 (f. 8), com 16 (dezesseis) anos de idade à época da impetração do writ (fevereiro de 2018), que pretende permanecer matriculado no ensino médio da Educação de Jovens e Adultos - EJA.
+O ato coator (f. 9), consiste na negativa de matricula pela Diretora da Escola Estadual Abadia Faustino Inácio, que indeferiu a matrícula do infante pelo fato de não ter 18 (dezoito) anos de idade, fundamentado na Deliberação CEE/MS nº 9.090 de 15 de maio de 2009, Art. 9º.
+Não se nega que a dignidade da pessoa humana é fundamento da República Federativa do Brasil (art. 1º, inc. III, da CF) e dela resulta o mínimo existencial (educação, saúde e moradia).
+A Constituição Federal também garante, em seu art. 205, que "A educação, direito de todos e dever do Estado e da família, será promovida e incentivada com a colaboração da sociedade, visando ao pleno desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o trabalho." Já o art. 227 da Constituição Federal: "É dever da família, da sociedade e do Estado assegurar à criança, ao adolescente e ao jovem, com absoluta prioridade, o direito à vida, à saúde, à alimentação, à educação, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária, além de colocá-los a salvo de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão." De acordo com o inciso I, do art. 208, da Constituição Federal, e seu § 1º "o dever do Estado com a educação será efetivado mediante a garantia de educação básica obrigatória e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade, assegurada inclusive sua oferta gratuita para todos os que a ela não tiveram acesso na idade própria; sendo direito público subjetivo da pessoa o acesso à educação".
+A Constituição Federal, no art. 208, V, ainda dispõe que a "O dever do Estado com a educação será efetivado mediante a garantia de: (.) V - acesso aos níveis mais elevados do ensino, da pesquisa e da criação artística, segundo a capacidade de cada um", de modo que a passagem de um nível para o outro, no sistema de ensino, deve ser aferido com base na capacidade individual.
+A Resolução Estadual SED n. 2.317/2009 estatuiu:
+"III - Requisitos de Acesso Os Cursos de Educação de Jovens e Adultos, nas etapas do Ensino Fundamental e do Ensino Médio, destinar-se-ão aos candidatos maiores de 18 (dezoito) anos, quando do ato da sua matricula."
+Existe regulamentação estabelecendo como requisito para utilização do sistema de Educação de Jovens e Adultos - EJA a idade mínima de 18 (dezoito) anos.
+Nesse contexto, meu entendimento pessoal sobre o tema é no sentido de ser lícita a regulamentação que exige a idade mínima de 18 (dezoito) anos para a realização dos exames do Ensino Médio e 15 (quinze) anos para os Exames do Ensino Fundamental, no Sistema de Educação de Jovens e Adultos - EJA, consoante exposto acima.
+No caso dos autos, a etapa que a impetrante pretende suprir é a do ensino médio, que exige idade mínima de 18 (dezoito) anos para os exames conclusivos.
+Assim, presente o direito líquido e certo à matrícula no EJA para etapa do ensino médio, uma vez que não há previsão legal de limitação etária para ingresso no EJA, apenas para a realização do exame supletivo, que, como visto, para o Ensino Fundamental estão aptos os maiores de 15 anos e para o Ensino Médio os maiores de 18 anos.
+Aliás, é firme o posicionamento deste Tribunal nesse sentido: (..)
+Logo, deve ser mantida a sentença.
+Posto isso, com vênias ao nobre Relator, nego provimento à remessa necessária e ao recurso de apelação interposto pelo Estado de Mato Grosso do Sul.
+Observa-se que foram utilizados apenas fundamentos constitucionais para dirimir a controvérsia, sendo vedado a esta Corte reformar a decisão do Juízo a quo, em recurso especial, sob pena de usurpação da competência recursal do Supremo Tribunal Federal.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
