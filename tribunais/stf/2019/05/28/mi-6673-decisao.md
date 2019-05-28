@@ -1,0 +1,24 @@
+Decisão: Trata-se de mandado de injunção impetrado por Alexandre de Aquino Petri contra ato omissivo do Presidente da República.
+    O impetrante afirma que é servidor público federal do Ministério do Trabalho e Emprego e que é inconstitucional a omissão legislativa referente a edição de lei que vise a regulamentar o direito constitucional previsto no art. 37, XII, segundo o qual os vencimentos dos servidores ocupantes dos cargos do Poder Executivo deverão ser iguais ou superiores ao do Poder Legislativo e Judiciário.
+    Assim, requer a procedência da ação para:
+    “Seja julgado totalmente PROCEDENTE a ação constitucional, suprimindo a lacuna normativa e garantido a remuneração conforme artigos 37 e 39 da constituição e a conseqüente condenação da requerida ao enquadramento do autor à tabela remuneratória composta de vencimento e gratificações genéricas de Analista do poder legislativo; ou, caso não julgue possível, seja o autor enquadrado na tabela remuneratória de técnico do poder legislativo. Ou, caso também não julgue possível, que determine o cumprimento da constituição, estabelecendo que as proposta de aumento dos servidores do executivo deverão ter índices maiores que as do poder legislativo até que seja cumprido o que prever a constituição”.
+    A União requereu seu ingresso no feito (eDOC 14).
+    A Presidência da República apresentou informações (eDOC 16).
+    A Procuradoria-Geral da República manifesta-se pelo não conhecimento do mandado de injunção, em parecer ementado nos seguintes termos:
+    “CONSTITUCIONAL. ADMINISTRATIVO. MANDADO DE INJUNÇÃO. ISONOMIA E EQUIPARAÇÃO SALARIAL ENTRE AS CARREIRAS DOS PODERES DA REPÚBLICA. AUSÊNCIA DE OMISSÃO LEGISLATIVA. NÃO CONHECIMENTO DO WRIT. 1. Mandado de Injunção impetrado com o objetivo de suprir suposta omissão legislativa quanto à isonomia e equiparação salarial entre as carreiras dos Poderes da República. 2. Não há, na espécie, omissão constitucional apta a ensejar o cabimento do instrumento injuncional, tendo em vista que já existe lei regulamentando as carreiras e remunerações comparadas pela inicial. Não é o mandado de injunção via adequada para reivindicar isonomia de vencimentos já estabelecidos em lei. 3. Não cabe ao Poder Judiciário – que não tem função legislativa – aumentar vencimentos sob o fundamento de isonomia (Súmula Vinculante 37). ' Parecer pelo não conhecimento do mandado de injunção”.
+    Decido.
+    Conforme relatado, o impetrante – servidor público do Poder Executivo federal – pretende que sua remuneração seja equiparada à de servidores de outros Poderes que exercem função equivalente à sua, entendendo que estaria impedido de usufruir de tal direito à isonomia remuneratória pela ausência de norma regulamentadora do art. 37, inciso XII, da CF, que assim dispõe:
+    “XII - os vencimentos dos cargos do Poder Legislativo e do Poder Judiciário não poderão ser superiores aos pagos pelo Poder Executivo”.
+     Nos termos do artigo 5º, LXXI, da Constituição Federal, será concedido mandado de injunção “sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania”.
+    Assim, o mandado de injunção pressupõe a existência de preceito constitucional dependente de regulamentação por outra norma, de categoria infraconstitucional, e a demonstração, no caso concreto, da inviabilidade do exercício dos direitos e liberdades constitucionais por ausência da norma regulamentadora.
+    Após detida análise da inicial e dos documentos que a acompanham, não se verifica qualquer direito ou liberdade constitucionais obstados por mora legislativa.
+    Como bem salientado pela Procuradoria-Geral da República, não há omissão constitucional capaz de dar ensejo ao cabimento do mandado de injunção, tendo em vista a existência de lei que regulamenta a carreira do impetrante, a saber:
+    “Ocorre que não há, na hipótese, omissão constitucional apta a ensejar o cabimento do instrumento injuncional, tendo em vista que já existe lei regulamentando as carreiras e remunerações comparadas pela inicial e não é o mandado de injunção via adequada para reivindicar isonomia de vencimentos já estabelecidos em lei”.
+    Dessa forma, acaso o impetrante discorde dos termos da legislação de regência, por entendê-la em desacordo com a Constituição Federal, não será o mandado de injunção o instrumento hábil a socorrê-lo.
+    Além disso, nos termos da Súmula Vinculante 37 “Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia”.
+    Ante o exposto, nego seguimento ao mandado de injunção.
+    Publique-se.
+    Brasília, 28 de maio de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
