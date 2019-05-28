@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “ Ação declaratória de inconstitucionalidade por omissão. Propositura fundada na falta de edição de norma que estabeleça o percentual mínimo dos cargos em comissão a serem preenchidos por servidores públicos efetivos, como exige o art. 115, inciso V, da Constituição estadual. Omissão legislativa reconhecida pelas autoridades municipais. Quadro não descaracterizado pela abertura de procedimento administrativo destinado a preparar minuta de projeto de lei. Procedência decretada, com fixação de prazo de 180 dias para a edição do ato normativo, ficando no caso de a omissão persistir fixado o mínimo de 50%. Ação procedente." (pág. 14 do documento eletrônico 2).
+    Os embargos de declaração que se seguiram foram rejeitados.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação dos arts. 2º; e 37, V, da mesma Carta.
+    A Procuradoria-Geral da República manifestou-se em parecer assim ementado:
+    “Recurso extraordinário com agravo. Controle abstrato de constitucionalidade estadual. Nos termos da jurisprudência do STF, a legitimidade recursal no controle concentrado é paralela à legitimidade processual ativa. Recurso interposto pelo Município de São Bernardo do Campo, que não tem legitimidade para recorrer. Parecer por que seja negado seguimento ao agravo.” (documento eletrônico 8).
+    A pretensão recursal não merece acolhida.
+    Verifico que o presente recurso extraordinário, interposto pelo Município de São Bernardo do Campo, foi subscrito unicamente por procurador municipal, e não pelo Prefeito do Município.
+    Registro que esta Corte firmou orientação no sentido de que, no âmbito do controle abstrato estadual de constitucionalidade, a legitimidade para a propositura de ação e dos recursos pertinentes é do agente político que conduz o processo decisório, não do próprio ente público ou de sua procuradoria. Com esse entendimento, destaco o RE 831.936-AgR/SP, de relatoria do Ministro Celso de Mello, assim ementado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE AJUIZADA PERANTE TRIBUNAL DE JUSTIÇA ESTADUAL (CF, art. 125, § 2º) – RECURSO EXTRAORDINÁRIO INTERPOSTO, EM REFERIDO PROCESSO DE CONTROLE ABSTRATO, PELO PROCURADOR-GERAL DO MUNICÍPIO – DECISÃO DO RELATOR QUE NÃO CONHECEU DO MENCIONADO APELO EXTREMO – A QUESTÃO DA LEGITIMIDADE ATIVA (E RECURSAL) DO PRÓPRIO MUNICÍPIO E DE SEU PROCURADOR-GERAL, EM SEDE DE FISCALIZAÇÃO CONCENTRADA DE CONSTITUCIONALIDADE – RECURSO DE AGRAVO IMPROVIDO. AUSÊNCIA DE LEGITIMIDADE RECURSAL DO PROCURADOR-GERAL DO MUNICÍPIO EM SEDE DE CONTROLE NORMATIVO ABSTRATO. - É do Prefeito do Município, e não do próprio Município ou de seu Procurador-Geral, a legitimidade para fazer instaurar, mesmo em âmbito local (CF, art. 125, § 2º), o processo de fiscalização abstrata de constitucionalidade e, neste, interpor os recursos pertinentes, inclusive o próprio recurso extraordinário. Precedentes.”
+    No mesmo sentido, cito o ARE 981.575-AgR/RJ, de relatoria do Ministro Gilmar Mendes; e o RE 680.423-AgR/SP, de relatoria do Ministro Celso de Mello.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 28 de maio de 2019.
+Ministro Ricardo Lewandowski
+Relator
