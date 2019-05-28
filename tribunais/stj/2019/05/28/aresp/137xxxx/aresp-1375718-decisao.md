@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA DIALETICIDADE RECURSAL. REITERAÇÃO DAS RAZÕES DO RECURSO DE APELAÇÃO. IMPOSSIBILIDADE DE CONHECIMENTO.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME] em face de decisão que inadmitiu o seu recurso especial, este interposto em face de acórdão assim ementado:
+COMPRA E VENDA DE BEM MÓVEL RESTITUIÇÃO DE VALORES PAGOS DANOS MORAIS Autora celebrou contrato de compra e venda do veículo "Amarok" (placas [PLACA]) com o Requerido Edson Ausência de entrega do bem (contrato não aperfeiçoado) Posterior alienação daquele veículo ("Amarok") ao Requerido Lourival, com pagamento mediante a celebração de contrato de financiamento entre o Requerido Lourival e o Requerido Banco Entrega do bem ao Requerido Lourival (aperfeiçoamento do segundo contrato de compra e venda) Autora comprovou o pagamento do valor de R$ 100.000,00 em favor do Requerido Edson Demonstrada a conduta ilícita do Requerido Edson (recebeu o valor de R$ 100.000,00, mas não entregou o veículo para a Autora) Necessária a restituição do valor pago Caracterizado o dano moral Requeridos Lourival e Banco não são responsáveis pela conduta do Requerido Edson SENTENÇA DE PARCIAL PROCEDÊNCIA, para condenar o Requerido Edson à restituição da quantia de R$ 100.000,00 e ao pagamento de indenização por danos morais no valor de R$ 50.000,00 Valor da indenização por danos morais deve ser adequado para a penalização do Requerido Edson (para que evite a repetição do atentado), sem resultar em enriquecimento indevido da Autora (e é limitado ao valor indicado na petição inicial) RECURSO DO REQUERIDO EDSON PARCIALMENTE PROVIDO, para condenar ao pagamento de indenização por danos morais no valor de R$ 15.000,00, mantida a condenação à restituição do valor de R$ 100.000,00.
+Nas razões do recurso especial, o recorrente alega violação aos arts. 128 (CPC/73), correspondente ao art. 141 do CPC/2015, 458 (CPC/73), correspondente ao art. 489 do CPC/2015, e 460 (CPC/73), correspondente ao art. 492 do CPC/2015). Sustenta que a sentença proferida é extra petita. Renova, ainda, o pedido de assistência judiciária gratuita.
+Contrarrazões às fls. 204/207 (e-STJ).
+O recurso especial foi inadmitido ao fundamento de que a controvérsia foi desvendada em consonância com as normas legais, analisando as questões postas e fundamentando sua decisão, dentro dos limites em que proposta a ação (e-STJ, fl. 208).
+Em sede de agravo, a parte recorrente infirma o fundamento da decisão de inadmissibilidade.
+É o relatório.
+O recurso não comporta conhecimento.
+Com efeito, as razões do recurso especial não atacam o acórdão impugnado, mas impugnam a sentença proferida pelo juízo de primeiro grau. Da análise das razões recursais, verifica-se, inclusive, que a parte recorrente reproduz as razões aduzidas no recurso de apelação, utilizando-se do mesmo texto, não dialogando, portanto, com acórdão recorrido.
+O princípio da dialeticidade, que rege as normas sobre os recursos, exige que as razões do apelo nobre sejam elaboradas em consonância com os fundamentos do acórdão proferido pelo Tribunal de origem, sendo insuficientes alegações genéricas de violação a artigo de lei federal.
+Inviável, portanto, a pretensão da parte recorrente.
+Ante o exposto, com fundamento no art. 932, inc. III, do CPC/2015, conheço do agravo para não conhecer do recurso especial.
+Advirta-se que eventual recurso interposto contra este decisum está sujeito às normas do Novo Código de Processo Civil (cf. Enunciado Administrativo nº 3/STJ), inclusive no que tange à aplicação de multa (arts. 1.021, § 4º, e 1.026, § 2º, do CPC).
