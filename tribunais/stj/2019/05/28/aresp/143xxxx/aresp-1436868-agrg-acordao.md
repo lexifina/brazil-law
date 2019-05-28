@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO TARDIA DE ALGUNS DOS FUNDAMENTOS NÃO REBATIDOS OPORTUNAMENTE. EXISTÊNCIA DE OUTROS PONTOS INATACADOS. APLICAÇÃO DA SÚMULA 182/STJ TAMBÉM AO REGIMENTAL.
+1. Somente no regimental, a defesa traz argumentos defendendo a não incidência das Súmulas 7/STJ e 284/STF - o que deveria ter sido feito por ocasião das razões do agravo em recurso especial. Ainda assim, nada menciona acerca da falta de impugnação do fundamento da ausência de cotejo analítico acerca das divergências jurisprudenciais relatadas. Afirma, ainda, genericamente, que impugnou todos os fundamentos nos quais se assenta a decisão recorrida, sem apontar, contudo, qualquer trecho de seu arrazoado que comprove tal argumento. Por todas essas razões, também no agravo regimental tem incidência a Súmula 182/STJ.
+2. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática lançada às fls. 660/666, na qual não conheci do agravo em recurso especial por incidência da Súmula 182/STJ, assim ementada (fl. 652):
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APREENSÃO DE 58,6g E 11 PÉS DE MACONHA, ALÉM DE OUTROS UTENSÍLIOS E MAQUINÁRIO UTILIZADO PARA O CULTIVO E PREPARAÇÃO DA DROGA NA RESIDÊNCIA DO RÉU. DECISÃO AGRAVADA CALCADA EM DIVERSOS FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A ALGUNS DELES. IDENTIFICAÇÃO DE MERA REPRODUÇÃO DE TRECHOS CONTIDOS NAS RAZÕES DO ESPECIAL QUANTO A OUTROS PONTOS DA INADMISSÃO RECURSAL. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
+Em suas razões, a defesa afirma, de início, que, se em algum momento questões fáticas foram reportadas  .. , não as tornam questão de fundo do recurso que em nenhum momento buscou revê-las (fl. 664).
+Assegura que o agravo em recurso especial não busca impugnar somente um único fundamento em que se apoiou o ato decisório, pois foram vários (fl. 664), mas que, ainda assim, apresentou impugnação contra todos os fundamentos nos quais se assenta a decisão recorrida (fl. 664).
+Conclui, justificando que a reprodução de trechos do agravo não constitui falta, mais referências argumentativas pelas quais o julgador poderá cortejar o direito pleiteado e a prestação jurisdicional do Estado (fl. 665).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): De plano, observo que a insurreição em tela não atacou integralmente a decisão ora agravada, o que atrai, mais uma vez, o teor da Súmula 182/STJ ao caso.
+Na hipótese, o recurso especial foi inadmitido na origem (fls. 432/455) por incidência das Súmulas 7 e 83/STJ, bem como da Súmula 284/STF e por ausência de cotejo analítico quanto às divergências jurisprudenciais relatadas.
+Nas razões do agravo em recurso especial, todavia, a defesa deixou de rebater a incidência da Súmula 7/STJ em relação ao pleito desclassificatório e a aplicação das Súmulas 284/STF e 7/STJ quanto à apontada ilegalidade do laudo pericial, nada mencionando, também, acerca da ausência de cotejo analítico quanto às divergências jurisprudenciais afirmadas em seu arrazoado.
+De tal modo, monocraticamente não conheci da insurreição, dada a ausência de impugnação específica de todos os termos da decisão agravada.
+A defesa, então, ingressa agora com o presente regimental, alegando, tardiamente, que as questões propostas são de natureza processual, que para deslinde prescinde de reexame de prova (fl. 663). Acrescentando que, neste agravo regimental o agravante desanuvia dúvidas e apresenta fundamentos que repelem a incidência das súmulas 284/STF e 182/STJ (fl. 665).
+Ora, tal argumentação não satisfaz a exigência da impugnação específica dos termos da decisão ora atacada, uma vez que não houve integral defesa acerca da não incidência da Súmula 182/STJ à hipótese.
+Com efeito, somente agora no regimental, a defesa traz argumentos defendendo a não incidência das Súmulas 7/STJ e 284/STF - o que deveria ter sido feito por ocasião das razões do agravo em recurso especial. Ainda assim, nada menciona acerca da falta de impugnação do fundamento da ausência de cotejo analítico acerca das divergências jurisprudenciais relatadas.
+Assim, a mera afirmação genérica de que apresentou impugnação contra todos os fundamentos nos quais se assenta a decisão recorrida (fl. 664) - sem apontar qualquer trecho de seu arrazoado que comprove tal argumento -, não satisfaz a exigência da impugnação específica.
+Por todas essas razões, também o presente agravo regimental se mostra inviável ante a incidência da Súmula 182/STJ.
+Ante o exposto, não conheço do agravo regimental.
