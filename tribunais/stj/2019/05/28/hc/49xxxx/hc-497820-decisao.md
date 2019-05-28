@@ -1,0 +1,37 @@
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO DE DROGA. REGIME INICIAL FECHADO. ADEQUADO. QUANTIDADE E NATUREZA DOS ENTORPECENTES APREENDIDOS. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA E AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. WRIT PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADA A ORDEM.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido na Apelação n.º 1.0637.11.006665-0/002.
+Consta dos autos que o Paciente - denunciado pelo cometimento dos delitos previstos nos arts. 33 e 35 da Lei n.º 11.343/2006 - foi absolvido em primeira instância.
+Interposto recurso de apelação pelo Ministério Público estadual, o Tribunal de origem deu-lhe provimento para condenar o Acusado às penas de 8 (oito) anos de reclusão, em regime inicial fechado, mais pagamento de 1.200 (mil e duzentos) dias-multa, como incurso nos tipos descritos nos arts. 33 e 35 da Lei n.º 11.343/2006, em concurso material (fls. 39-60).
+Daí o presente habeas corpus, em que os Impetrantes alegam que o Paciente sofre constrangimento ilegal resultante da fixação do regime inicial mais gravoso para o cumprimento da reprimenda, uma vez que foram apreendidos 120g de cocaína e 144g de crack, que, segundo a Defesa, representam "uma pequena quantidade de substância entorpecente" (fl. 5). Sustentam, também, violação dos arts. 387, § 2.º, do Código de Processo Penal e 126, §§ 5.º e 7.º, da Lei de Execuções Penais, pois não foi realizada, pelo Tribunal estadual, a detração do período que o Paciente "ficou preso provisoriamente" (fl. 8) e "do período de remição referente aos estudos" (ibidem).
+Requer, liminarmente e no mérito, o estabelecimento do regime inicial semiaberto ao Paciente.
+Indeferido o pedido liminar (fls. 65-67), seguiu-se o pedido de reconsideração, que foi negado à fl. 130.
+As informações foram prestadas às fls. 72 e 135.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 143-148).
+Manifestação da Defesa às fls. 153-166.
+Petição do Paciente, em causa própria, na qual reitera o pleito de concessão da ordem ou, alternativamente, sob o fundamento de que, em 22/04/2019, inscreveu-se nos quadros da OAB/MG, busca o cumprimento da reprimenda, harmonizando-o com o "direito inerente aos advogados de serem presos em sala de Estado Maior antes de condenação penal definitiva" (fl. 176).
+É o relatório.
+Decido.
+Na hipótese dos autos, consignou-se no voto condutor o seguinte (fls. 52-53; sem grifos no original):
+"O regime carcerário será o inicial fechado em relação a este delito. É que, a meu ver, a natureza altamente lesiva assim como a imensa quantidade de droga apreendida devem ser sopesadas quando do estabelecimento do regime de cumprimento da pena corporal, pela interpretação conjunta dos arts. 33, § 3.º, do CP e 42 da Lei 11.343/06 (circunstância judicial específica e preponderante nos delitos afetos ao tráfico).
+Por oportuno, esclareço que o Pretório Excelso decidiu, ao julgar o habeas corpus n.º 111.840/ES, que a norma contida no § 1.º do art. 2.º da Lei n.º 8.072/1990 é inconstitucional. Considerou que ela viola o direito fundamental positivado no art. 5.º, XLVI, da Carta de 1988, não podendo, então, integrar o nosso Ordenamento.
+Conquanto entenda que o regime fechado para o início do cumprimento das sanções privativas de liberdade impostas em razão da prática de crimes hediondos, não fere, de nenhuma maneira, o Princípio da Individualização das Penas, curvo-me à decisão da Corte Constitucional (recorrendo às normas contidas no art. 33, do Código Penal, para fixar o regime para o início do cumprimento da sanção corporal), tendo em vista ser o Supremo Tribunal Federal o guardião da Constituição da República, devendo, então, os demais pretórios aceitar a forma como ele interpreta tal Diploma, a fim de prestigiar o Princípio da Segurança Jurídica."
+Como se vê, ao fixar o regime inicial fechado ao Paciente, o Tribunal de Justiça do Estado de Minas Gerais considerou a quantidade e a natureza das drogas apreendidas - 120g de cocaína e 144g de crack -, fundamentação que, pelo entendimento desta Corte Superior, é apta a justificar a decretação do regime prisional mais gravoso do que a pena permite.
+Ilustrativamente:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (ART. 33, § 4º, DA LEI N. 11.343/06). INAPLICABILIDADE. DEDICAÇÃO A ATIVIDADE CRIMINOSA UTILIZADA PARA AFASTAR A REDUTORA DO TRÁFICO PRIVILEGIADO, ALIADA A OUTROS ELEMENTOS. REEXAME MATÉRIA FÁTICO-PROBATÓRIA. PLEITO DE ABRANDAMENTO DO REGIME PRISIONAL. DESCABIMENTO. REGIME PRISIONAL FECHADO FIXADO COM BASE NA GRAVIDADE CONCRETA DO DELITO. QUANTIDADE E DIVERSIDADE DE DROGAS APREENDIDAS. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. AUSÊNCIAS DE REQUISITOS DO ART. 44, INCISO I, DO CÓDIGO PENAL. WRIT NÃO CONHECIDO.
+ ..
+IV - O regime inicial fechado foi determinado com base na quantidade, diversidade e nocividade das drogas apreendidas, ou seja, "75 eppendorfs de cocaína em pó, 09 porções de cocaína, sob a forma de crack, substância das mais nocivas à saúde e de poder altamente viciante além de 14 trouxinhas de maconha" (fl. 73), o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, b, e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/06.
+ .. ." (HC n.º 483.274/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 19/02/2019.)
+"PENAL E PROCESSUAL PENAL.  ..  REGIME INICIAL FECHADO. QUANTIDADE E VARIEDADE DOS ENTORPECENTES. RECRUDESCIMENTO JUSTIFICADO. RECURSO ESPECIAL IMPROVIDO.
+ ..
+5. Tendo o tribunal de origem, soberano na análise das provas dos autos, entendido que efetivamente demonstrada a autoria e a materialidade delitivas, a desconstituição do julgado demandaria revolvimento do contexto probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+6. É pacífico o entendimento nesta Corte Superior de que a quantidade e/ou a natureza da droga podem justificar a não aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/06 em fração inferior à máxima, quando evidenciarem a dedicação à atividade criminosa.
+7. A quantidade e variedade do entorpecente constitui fundamento idôneo para justificar, por si só, a fixação de regime penal mais gravoso.
+8. Recurso especial improvido." (REsp n.º 1.556.355/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 16/10/2018; sem grifos no original.)
+Assim, considerando a pena definitiva de 8 anos de reclusão, é cabível a fixação do regime inicial fechado.
+Quanto à detração da segregação cautelar, constato que o tema foi formulado em favor do Paciente no HC n.º 474.235/MG, o qual não foi conhecido, pois a matéria "não foi tratada no acórdão impugnado, motivo pelo qual o debate nesta Corte Superior implicaria indevida supressão de instância". Além disso, o feito veio desacompanhado da prova pré-constituída do alegado direito.
+Ad argumentantum tantum, o reflexo da detração de 200 (duzentos) dias não alcança sequer o requisito temporal de 1/6 (um sexto) da pena para a eventual progressão de regime.
+Ressalto, por fim, que o pleito de cumprimento provisório da pena em sala de Estado Maior deve ser formulado perante o Juízo das Execuções Criminais, sob pena de indevida supressão de instância.
+Ante o exposto, CONHEÇO EM PARTE do writ e, nessa extensão, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
