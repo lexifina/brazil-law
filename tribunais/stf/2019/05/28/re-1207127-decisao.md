@@ -1,0 +1,29 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Município de Jundiaí/SP contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “AGRAVO LEGAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. IPTU. IMÓVEL DE PROPRIEDADE DA CEF. RESPONSABILIDADE DO DEVEDOR FIDUCIANTE.
+    1. A análise da matrícula perante o 1º Cartório de Registro de Imóveis da Comarca de Jundiaí revela que a Caixa Econômica Federal é proprietária do imóvel que ensejou a cobrança do Imposto sobre a Propriedade Territorial Urbana e Taxa de Coleta de Lixo na condição de credora fiduciária.
+    2. Aplicável à espécie o disposto no art. 27, § 8º, da Lei nº 9.514/97, segundo o qual: Responde o fiduciante pelo pagamento dos impostos, taxas, contribuições condominiais e quaisquer outros encargos que recaiam ou venham a recair sobre o imóvel, cuja posse tenha sido transferida para o fiduciário, nos termos deste artigo, até a data em que o fiduciário vier a ser imitido na posse.
+    3. Tal previsão, ao atribuir ao devedor fiduciante a responsabilidade pelo pagamento de tributos que recaiam sobre o imóvel, quando no exercício da posse direta, constitui-se em exceção à regra exposta no art. 123 do CTN, que trata da ‘inoponibilidade de convenções particulares à Fazenda Pública que pretendam modificar a definição legal do sujeito passivo de obrigação tributária’.
+    4. Não há elementos novos capazes de alterar o entendimento externado na decisão monocrática.
+    5. Agravo legal improvido.”
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 146, III, “a”, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão ora impugnado, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento  em legislação infraconstitucional (Código Tributário Nacional e Lei nº 9.514/97), o que torna incognoscível o apelo extremo.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, apoiou as suas conclusões em dispositivos de ordem meramente legal:
+    “(...) aplicável à espécie o disposto no art. 27, § 8º, da Lei nº 9.514/97, segundo o qual: Responde o fiduciante pelo pagamento dos impostos, taxas, contribuições condominiais e quaisquer outros encargos que recaiam ou venham a recair sobre o imóvel, cuja posse tenha sido transferida para o fiduciário, nos termos deste artigo, até a data em que o fiduciário vier a ser imitido na posse.
+    Tal previsão, ao atribuir ao devedor fiduciante a responsabilidade pelo pagamento de tributos que recaiam sobre o imóvel, quando no exercício da posse direta, constitui-se em exceção à regra exposta no art. 123 do CTN, que trata da ‘inoponibilidade de convenções particulares à Fazenda Pública que pretendam modificar a definição legal do sujeito passivo de obrigação tributária’.
+    Nesse sentido, confira-se julgados desta Corte Regional:
+    …..................................................................................................
+    Portanto, patente a ilegitimidade da CEF para figurar no polo passivo da execução fiscal, sendo de rigor a manutenção da r. decisão de primeiro grau.”
+    Impõe-se observar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.095.319/SP, Rel. Min. ALEXANDRE DE MORAES – ARE 1.095.320/SP, Rel. Min. ROBERTO BARROSO, v.g.):
+    “DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. TRIBUTOS INCIDENTES SOBRE BEM IMÓVEL (IPTU E TAXAS MUNICIPAIS). EXCLUSÃO DA CAIXA ECONÔMICA FEDERAL (CREDORA FIDUCIÁRIA) DO POLO PASSIVO DO FEITO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve anterior condenação em honorários advocatícios.”
+    (ARE 991.704-AgR/SP, Rel. Min. ROSA WEBER)
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 28 de maio de 2019.
+Ministro CELSO DE MELLO
+Relator
