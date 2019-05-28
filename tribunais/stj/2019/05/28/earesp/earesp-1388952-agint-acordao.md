@@ -1,0 +1,40 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PREVIDÊNCIA PRIVADA. CESTA ALIMENTAÇÃO. ACÓRDÃO RESCINDENDO PROFERIDO QUANDO HAVIA DIVERGÊNCIA. AÇÃO RESCISÓRIA IMPROCEDENTE. PRECEDENTE DA CORTE ESPECIAL. SÚMULA Nº 83/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. "A pacificação da jurisprudência desta Corte em sentido contrário e posteriormente ao acórdão rescindendo não afasta a aplicação do enunciado n. 343 da Súmula do STF" (RESP 736650/MT, Relator Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, DJe 1/9/2014).
+3. Agravo interno a que se nega provimento.
+
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Marco Buzzi (Presidente), Luis Felipe Salomão e Raul Araújo votaram com a Sra. Ministra Relatora.
+Ausente o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão por meio da qual neguei provimento ao agravo em recurso especial.
+Em suas razões, o agravante sustentou que há precedentes recentes desta Corte em sentido contrário ao decidido, entendendo pelo cabimento da ação rescisória ainda quando o acórdão rescindendo tiver sido publicado antes da pacificação do tema discutido, de modo que incabível a aplicação das Súmulas nº 83/STJ e 343/STF.
+A parte agravada, regularmente intimada, pugnou pela manutenção da decisão recorrida.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PREVIDÊNCIA PRIVADA. CESTA ALIMENTAÇÃO. ACÓRDÃO RESCINDENDO PROFERIDO QUANDO HAVIA DIVERGÊNCIA. AÇÃO RESCISÓRIA IMPROCEDENTE. PRECEDENTE DA CORTE ESPECIAL. SÚMULA Nº 83/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. "A pacificação da jurisprudência desta Corte em sentido contrário e posteriormente ao acórdão rescindendo não afasta a aplicação do enunciado n. 343 da Súmula do STF" (RESP 736650/MT, Relator Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, DJe 1/9/2014).
+3. Agravo interno a que se nega provimento.
+
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os frágeis argumentos desenvolvidos pelo agravante não têm plausibilidade jurídica para infirmar a conclusão da decisão impugnada, visto que apenas reiterados os fundamentos utilizados no recurso especial, razão pela qual o presente recurso não merece prosperar.
+Quanto às alegações de que há órgãos fracionários decidindo de modo contrário ao precedente desta Corte Especial, destaco a referida discussão refoge aos limites dos presentes autos, cabendo à parte interessada utilizar dos meios que achar necessários para assegurar o seu direito, não servindo como justificativa para a sua não observância no processo em análise.
+Como salientado, é certo que a Segunda Seção, ao examinar o RESP 1.023.053/RS, em julgamento encerrado em 23.11.2011, alterando posicionamento anterior, afastou a inclusão do auxílio cesta-alimentação aos proventos de complementação de aposentadoria pagos por entidade fechada de previdência privada, em razão da vedação expressa do art. 3º da Lei Complementar 108/2001, em razão da prévia formação de fonte de custeio do plano de benefícios.
+Posteriormente, essa orientação foi ratificada pela Segunda Seção no julgamento do RESP 1.207.071/RS, submetido ao rito dos recursos repetitivos (CPC, art. 543-C), de que também fui a Relatora, em julgamento concluído em 27.6.2012, no sentido de que o auxílio alimentação ou qualquer designação que lhe seja atribuída - cesta, vale, cheque, entre outros - tem natureza indenizatória, tendo sido concebido com a finalidade de proporcionar a aquisição de gêneros alimentícios pelo trabalhador, na vigência do contrato de trabalho, motivo pelo qual o valor correspondente não se incorpora aos proventos de complementação de aposentadoria.
+No caso em exame, todavia, o acórdão rescindendo foi proferido muito antes disso, em 14/11/2007 (fl. 34 e-STJ), mediante acórdão publicado no dia 18/6/2008 (fl. 35 e-STJ), motivo pelo qual tem aplicação a orientação da Corte Especial deste Tribunal, no sentido de que não é admissível a ação rescisória, com fundamento no artigo 485, I, do CPC/73, quando o acórdão rescindendo estiver fundamentado em entendimento jurisprudencial admissível à época de sua prolação, visto que não se vislumbra, nesses casos, violação frontal e direta a literal dispositivo de lei ou interpretação teratológica.
+A ementa do referido julgado tem o seguinte teor:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. PRAZO DECADENCIAL. TERMO INICIAL. TRÂNSITO EM JULGADO DA ÚLTIMA DECISÃO PROFERIDA NOS AUTOS. ART. 495 DO CPC. SÚMULA N. 401/STJ. COISA JULGADA "POR CAPÍTULOS". INADMISSIBILIDADE. SFH. UTILIZAÇÃO DO IPC (84,32%) NO MÊS DE ABRIL DE 1990. ADOÇÃO DA TAXA REFERENCIAL (TR) COMO ÍNDICE DE ATUALIZAÇÃO MONETÁRIA (LEI N. 8.177/1991). VIOLAÇÃO DE LITERAL DISPOSIÇÃO DE LEI. ART. 485, V, DO CPC. SÚMULA N. 343/STF. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA.
+1. A violação do art. 535 do CPC não se configura na hipótese em que o Tribunal de origem, ainda que sucintamente, pronuncia-se sobre a questão controvertida nos autos, não incorrendo em omissão, contradição ou obscuridade.
+2. O prazo decadencial de 2 (dois) anos para a propositura da ação rescisória inicia com o trânsito em julgado da última decisão proferida no processo, que se aperfeiçoa com o exaurimento dos recursos cabíveis ou com o transcurso do prazo recursal, a teor do que dispõe a Súmula n. 401/STJ: "O prazo decadencial da ação rescisória só se inicia quando não for cabível qualquer recurso do último pronunciamento judicial".
+3. É incabível o trânsito em julgado de capítulos da sentença ou do acórdão em momentos distintos, a fim de evitar o tumulto processual decorrente de inúmeras coisas julgadas em um mesmo feito.
+4. A ação rescisória, fundada no art. 485, V, do CPC, pressupõe violação frontal e direta de literal disposição de lei, sendo certo, ainda, que a adoção pela decisão rescindenda de uma dentre as interpretações cabíveis não enseja a rescisão do decisum. Incidência da Súmula n. 343/STF: "Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais".
+5. No caso concreto, diversamente da atual jurisprudência, o acórdão rescindendo (transitado em julgado em 19/12/2001), embasado em uma das interpretações possíveis à época do julgamento (15/8/2000), decidiu pela aplicação do BTNf para a correção monetária do saldo devedor dos contratos do SFH no mês de março de 1990, no percentual de 41,28% (quarenta e um inteiros e vinte e oito centésimos percentuais), bem como pela impossibilidade de aplicação da TR nos contratos de financiamento habitacional celebrados antes da Lei n. 8.177, de 1º de março de 1991, sob pena de locupletamento.
+6. A pacificação da jurisprudência desta Corte em sentido contrário e posteriormente ao acórdão rescindendo não afasta a aplicação do enunciado n. 343 da Súmula do STF.
+7. Firmado o posicionamento deste Tribunal Superior quanto à interpretação de determinada norma infraconstitucional, torna-se cabível a ação rescisória contra julgado proferido em data posterior à pacificação, desde que contrário ao entendimento que se consolidou no STJ, afastando-se, em tal hipótese, a incidência do referido enunciado sumular.
+8. Recurso especial conhecido e parcialmente provido.
+(REsp 736.650/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, DJ 1/9/2014)
+Nesse contexto, reitero que o Tribunal de origem decidiu em consonância com o entendimento pacificado nesta Corte, razão pela qual o recurso especial igualmente esbarraria no óbice sumular nº 83, do STJ, aplicável aos recursos interpostos com base em ambas as alíneas (AgInt no AREsp 720.037/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 3/5/2016, DJe 11/5/2016).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
