@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. DETERMINAÇÃO ANTES DO ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. CONCESSÃO DA ORDEM, EM MENOR EXTENSÃO, APENAS PARA GARANTIR AO AGRAVANTE O DIREITO DE AGUARDAR EM LIBERDADE O ESGOTAMENTO DO SEGUNDO GRAU DE JURISDIÇÃO. DECISÃO EM CONSONÂNCIA COM O ENTENDIMENTO MAIS RECENTE DESTA CORTE, EM OBSERVÂNCIA À JURISPRUDÊNCIA DO STF.
+1. Deve ser mantida a decisão monocrática em que se concede a ordem de habeas corpus, mas em menor extensão, apenas para garantir o direito de aguardar em liberdade o esgotamento das instâncias ordinárias.
+2. O Superior Tribunal de Justiça, na linha do entendimento do Supremo Tribunal Federal, firmado no dia 5/10/2016 (ADC MC/DF n. 43 e ADC MC/DF n. 44), possui orientação no sentido de que é possível execução provisória da pena após o julgamento em segunda instância.
+3. Hipótese em que a liminar foi deferida, com fundamento em decisão monocrática da Ministra Cármen Lúcia, a qual entendeu que a execução provisória da pena, quando garantido o direito de recorrer em liberdade e sem recurso da acusação, configuraria reformatio in pejus (Habeas Corpus n. 163.580/PR, Ministra Cármen Lúcia, Primeira Turma, julgado em 16/10/2018).
+4. Ocorre que sobreveio o julgamento de agravos regimentais contra a referida decisão monocrática, tendo sido firmada a orientação, pelo Colegiado, no sentido de que a execução provisória da pena após o esgotamento das instâncias ordinárias, mesmo quando garantido o direito de recorrer em liberdade, não configuraria reformatio in pejus.
+5. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão de minha lavra, em que concedi a ordem em seu favor, mas em menor extensão, apenas para assegurar-lhe o direito de aguardar em liberdade o esgotamento do segundo grau de jurisdição. Eis a ementa (fl. 329):
+PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. DETERMINAÇÃO ANTES DO ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida em menor extensão.
+O agravante reitera os argumentos da impetração e alega, em síntese, que a liminar havia sido deferida para lhe garantir o direito de aguardar em liberdade o trânsito em julgado da condenação, tendo, na ocasião da análise do mérito da impetração, sido modificado o entendimento para possibilitar a execução provisória após o esgotamento das instâncias ordinárias.
+Postula, então, a reconsideração da decisão hostilizada, a fim de garantir a ele o direito de aguardar o trânsito em julgado da condenação em liberdade ou a submissão do julgamento do recurso à Sexta Turma deste Superior Tribunal, concedendo-se integralmente a ordem, nos termos requeridos.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Apesar da relevância dos argumentos do agravante, a decisão agravada deve ser mantida.
+De fato, na ocasião do deferimento da medida de urgência, concedi o pleito para garantir ao agravante o direito de aguardar em liberdade o trânsito em julgado da condenação, com fundamento em decisão monocrática da Ministra Cármen Lúcia, que assim entendeu:
+HABEAS CORPUS. PROCESSUAL PENAL. SENTENÇA PELA QUAL SE DETERMINA O CUMPRIMENTO DA PENA APÓS O TRÂNSITO EM JULGADO. AUSÊNCIA DE RECURSO DA ACUSAÇÃO. EXPEDIÇÃO DE MANDADO DE PRISÃO APÓS EXAURIMENTO DAS VIAS RECURSAIS ORDINÁRIAS. IMPOSSIBILIDADE. REFORMATIO IN PEJUS. ORDEM CONCEDIDA.
+(Habeas Corpus n. 163.580/PR, Ministra Cármen Lúcia, Primeira Turma, julgado em 16/10/2018)
+Ocorre que foram interpostos agravos regimentais contra a referida decisão, tendo o Colegiado firmado a orientação no sentido de que a execução provisória da pena após o esgotamento das instâncias ordinárias, mesmo quando garantido o direito de recorrer em liberdade, não configuraria reformatio in pejus.
+Confira-se a ementa redigida para o julgado em comento:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL HABEAS CORPUS. PROCESSUAL PENAL. SENTENÇA PELA QUAL SE DETERMINA O CUMPRIMENTO DA PENA APÓS O TRÂNSITO EM JULGADO. AUSÊNCIA DE RECURSO DA ACUSAÇÃO. EXPEDIÇÃO DE MANDADO DE PRISÃO APÓS EXAURIMENTO DAS VIAS RECURSAIS ORDINÁRIAS. AUSÊNCIA DE REFORMATIO IN PEJUS. ORIENTAÇÃO REAFIRMADA PELA SEGUNDA TURMA NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM HABEAS CORPUS N. 147.989 (RELATOR O MINISTRO GILMAR MENDES). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+Assim, tendo em vista a necessidade de uniformização da jurisprudência desta Corte com a do Supremo Tribunal Federal, última palavra quando se trata de questões constitucionais, não há como adotar entendimento diverso, sob pena de ofender a segurança jurídica.
+Em face do exposto, nego provimento ao agravo regimental.
