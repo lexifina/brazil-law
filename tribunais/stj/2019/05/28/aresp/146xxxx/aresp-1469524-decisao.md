@@ -1,0 +1,18 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MORUMBI BROKERS ADMINISTRACAO DE BENS E SERVICOS LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - PRESTAÇÃO DE SERVIÇO - Ré contratada para intermediar locação - Adulteração do contrato - Ausência de diligência na avaliação dos documentos apresentados pela locatária e fiadora - Indenização devida - Sentença mantida - Recurso desprovido.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 373, inciso II, do CPC de 2015; 186 do CC; 14, §§ 1º e 3º, do CDC, uma vez que não houve ato ilícito ou falha na prestação do serviço, sendo igualmente vítima de uma fraude.
+Diz que a prova pericial comprova o fato impeditivo do direito dos recorridos. Enfatiza que o julgamento teria sido contrário às provas dos autos.
+É o relatório. DECIDO.
+2. Ao apreciar a controvérsia e reconhecer o dever de indenizar, o Tribunal de origem assim consignou:
+Com efeito, a prova coligida no curso da lide converge para a narrativa que os autores deram aos fatos na inicial, sem embargo de haver sido contestada pela ré, que não se desincumbiu do ônus da prova, quanto à existência de fato impeditivo, modificativo ou extintivo do direito dos autores.
+De fato, a despeito das alegações da ré, esta deixou de atuar com as cautelas necessárias para o exercício do mandato da qual foi incumbida pelos autores, sendo certo que consta do contrato de locação previsão de remuneração para tal desiderato (fls. 36).
+Ora, com apenas uma simples consulta ao site do Tribunal de Justiça constatei que tanto a locatária, como a fiadora respondem a inúmeros processos referentes a relações locatícias.
+Os documentos que indicam a renda mensal da locatária apontam para insuficiência de recursos para manutenção da relação locatícia, uma vez que o valor auferido mensalmente é praticamente o mesmo daquele exigido para o aluguel, acrescido dos encargos; além disso, o documentos apresentado para a prestação da fiança conta com validade expirada ao tempo da assinatura do contrato.
+Conforme ponderou o magistrado sentenciante, somente estes elementos já são suficientes para fazer exsurgir a responsabilidade da parte ré quanto às perdas reclamadas na inicial.
+Ainda que reconhecidas como falsas as assinaturas da locatária e da fiadora, além de os selos terem sido objeto de furto, elementos que, para o homem médio, não se poderia exigir conduta diversa, o fato é que a requerida deixou de atuar com zelo quando da análise da documentação financeira da locatária, além do bem dado em garantia.
+Destarte, não se desincumbiu a ré apelante do ônus da prova quanto à existência de fato impeditivo, modificativo ou extintivo do direito da autora, conforme previsto no art. 373, II, do Código de Processo Civil.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, para afastar o dever de indenizar, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
