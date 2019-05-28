@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios (Agravo de Execução Penal n. 00086192020188070000) - fl. 11:
+PROCESSUAL PENAL. RECURSO DE AGRAVO EM EXECUÇÃO. ROUBO COM USO DE FACA E CONCURSO DE AGENTES. LEI 13.654/2018. REVOGAÇÃO. NOVATIO LEGIS IN MELLIUS. DOSIMETRIA. READEQUAÇÃO DA CAUSA DE AUMENTO PARA A TERCEIRA FASE. POSSIBILIDADE.
+1. A jurisprudência admite que existindo duas causas de aumento previstas no § 2º do artigo 157, do Código Penal é possível que uma delas seja considerada circunstância judicial desfavorável para aumentar a pena-base e a outra sirva como majorante na terceira fase.
+2. A Lei n. 13.654/18 promoveu uma revogação da causa de aumento do emprego de arma branca ou imprópria no delito de roubo. Embora tal circunstância não configure mais causa de aumento poderá ser utilizada para majoração da pena-base
+3. Existindo somente a causa de aumento prevista no § 2º, II, do artigo 157 do Código Penal, - concurso de agentes - esta deverá ser aplicada na terceira etapa da dosimetria.
+4. Recurso conhecido e não provido.
+Alega-se na impetração (fls. 6/7):
+A retroatividade da lei mais benéfica guarda previsão legal no parágrafo único do artigo 2º do Código Penal e o artigo 66, inciso I da Lei 7.210/84 impõe ao Juízo de execução aplicar aos casos julgados lei posterior que de qualquer modo favorecer o condenado.
+Por outro lado, refazer a dosimetria invertendo o que restou determinado pela sentença penal condenatória se consubstancia em afronta ao artigo 185 da Lei 7.210/84, que prevê a ocorrência de excesso de execução sempre que algum ato for praticado além dos limites fixados na sentença.
+A sentença condenatória não valorou o uso de arma branca na primeira fase da dosimetria e tão-pouco optou pela causa de aumento em razão do concurso de pessoas. A inversão realizada pelo Juízo da execução penal é ilegal, porquanto além de um simples cálculo aritmético, a dosimetria deve descrever a efetiva valoração da conduta do paciente, o que já se operou em uma sentença condenatória transitada em julgado.
+Deste modo, não cabe ao Juízo de execução penal modificar título condenatório transitado em julgado para fazer prevalecer o seu juízo particular de censura em detrimento daquele juízo que foi apurado no devido processo legal de conhecimento. O excesso é patente e na mesma medida da ofensa ao artigo 185 da Lei 7.210/84.
+Com efeito, o acórdão impugnado que endossou a nova dosimetria pelo Juízo de execução de pena, afronta também o princípio da intangibilidade da coisa julgada, protegida pelo artigo 5º, XXXVI, da Constituição Federal.
+Requer a concessão de ordem de habeas corpus, a fim de que seja cassado o acórdão atacado e determinada a retificação da conta de liquidação do paciente com o a correta dosimetria da pena.
+É o relatório.
+Na espécie, é inviável aferir a existência de aludida ilegalidade, pois a exordial não veio acompanhada de cópia da sentença condenatória.
+Como é cediço, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente, e por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado (STF - AgRg no HC n. 103.240/RS, Ministro Ayres Britto, Segunda Turma, DJe 29/3/2011; HC n. 107.350/RS, Ministra Cármen Lúcia, Primeira Turma, DJe 19/5/2011; STJ - HC n. 197.183/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 30/06/2011; STJ - HC n. 119.702/PE, Ministra Jane Silva (Desembargadora Convocada do TJ/MG), Sexta Turma, DJe 2/3/2009).
+Ante o exposto, nos termos do artigo 210 do RISTJ, indefiro liminarmente a petição inicial do habeas corpus.
+Publique-se.
