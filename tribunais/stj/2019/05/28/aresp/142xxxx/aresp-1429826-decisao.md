@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial por ausência de demonstração da violação dos dispositivos legais (e-STJ fl. 371).
+O acórdão recorrido foi assim ementado (e-STJ fls. 334/335):
+APELAÇÃO. CONTRATO DE FRANQUIA. CERCEAMENTO DE DEFESA. RESTITUIÇÃO DE ARRAS CONFIRMATÓRIAS. INADIMPLEMENTO CONTRATUAL QUE RESULTA EM PERDIMENTO DO VALOR. ART. 418 DO CÓDIGO CIVIL. QUEBRA DO CONTRATO POR CULPA EXCLUSIVA DO FRANQUEADO. INDENIZAÇÃO POR DANOS MORAIS. INDEVIDO.
+Não ocorreu cerceamento de defesa, na medida em que o julgamento antecipado é faculdade do Magistrado, segundo o princípio do livre convencimento e da motivada apreciação da prova, sem que isso importe em qualquer nulidade, sobretudo nos casos como dos autos em que a produção de outras provas revelava-se desnecessária para o desate do litígio.
+A quebra do contrato ocorreu por culpa exclusiva do autor, pois não deu cumprimento às diligências necessárias ao início de suas atividades, bem como não efetuou o pagamento nos termos contratuais, diante da sustação dos cheques emitidos e inadimplemento dos royalties e da verba de marketing, razão pela qual não merece acolhimento o pedido de restituição do valor pago a título de arras confirmatórias.
+Improcede o pedido de indenização por danos morais advindos da inexigibilidade dos títulos levados a protesto, haja vista que o contrato prevê expressamente o dever de pagamento de royalties e de verba de marketing, sendo que o autor não se desincumbiu de provar a quitação das referidas verbas, devidas durante a vigência contratual, limitando-se ao argumento de que não recebeu qualquer prestação de serviços da ré, daí porque não se verifica irregularidade nos protestos tirados.
+Não houve quebra de contrato por alegada infringência do dever de informação pela ré, pois, conforme constou na decisão proferida em agravo de instrumento interposto
+pelo autor, "Ao contrário do que foi sustentado, a proposta para aquisição do trailer junto à Araras Trailers contemplava sim a possibilidade de parcelamento do preço, que poderia ser feito em até dez vezes, conforme expressamente consta da mensagem que lhe foi encaminhada por correio eletrônico, tudo a indicar que houve, na verdade, arrependimento em relação ao negócio que foi celebrado".
+Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 353/357).
+Nas razões do recurso especial (e-STJ fls. 342/350), interposto com fundamento no art. 105, III, "a", da CF, a parte agravante alegou afronta aos arts. 5º, 7º, 9º, 10 e 370 do CPC/2015.
+Sustentou que no "Estado contemporâneo, deve haver efetiva participação das partes destinada a influenciar a formação da convicção judicial. Essa participação, aliás, consiste em condição de validade para a decisão judicial ser considerada legitimamente democrática." (e-STJ fl. 346).
+Afirmou que requereu a oitiva de testemunhas, de modo que a instrução processual não poderia ter sido encerrada prematuramente. Ainda:
+na atualidade, o contraditório - seja prévio, diferido ou eventual, cada um à sua maneira -, inclui o juiz no diálogo processual, garantindo às partes o poder de influência na construção do provimento judicial e proibindo a prolação de decisões surpresa, ainda quando se estiver diante de matérias que possam ser conhecidas de ofício pelo juiz (art. 10 do NCPC).
+Nestes termos, a não realização dessas provas, necessárias para dirimir o ponto controvertido, caracteriza cerceamento do direito de defesa, de modo a ferir o contraditório, a ampla defesa e o devido processo legal. (e-STJ fl. 348).
+No agravo (e-STJ fls. 374/376), afirma a presença dos requisitos de admissibilidade do especial.
+A agravada apresentou contraminuta (e-STJ fls. 379/384).
+É o relatório.
+Decido.
+O TJSP assim decidiu (e-STJ fl. 336):
+Inicialmente, afasto a alegação de cerceamento de defesa, na medida em que o julgamento antecipado é faculdade do Magistrado, segundo o princípio do livre convencimento e da motivada apreciação da prova, sem que isso importe em qualquer nulidade, sobretudo nos casos como dos autos em que a produção de outras provas revelava-se desnecessária para o desate do litígio.
+No que se refere ao suposto cerceamento de defesa por negativa de produção de prova testemunhal, modificar o entendimento do acórdão impugnado quanto à desnecessidade de novas provas, nesse caso, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. DÍVIDA LÍQUIDA. INCIDÊNCIA DO PRAZO PRESCRICIONAL QUINQUENAL. ART. 206, § 5º, I, DO CÓDIGO CIVIL. PRECEDENTE. 3. AGRAVO INTERNO DESPROVIDO.
+1. O indeferimento da produção da dilação probatória requerida não configura cerceamento do direito de defesa, uma vez que ficou claro no aresto impugnado que as provas produzidas nos autos são suficientes para o correto deslinde da controvérsia. Sendo o magistrado o destinatário da prova, compete a ele o exame acerca da necessidade ou não da produção do aporte requerido, sendo inviável rever as provas dos autos. Incidência da Súmula 7/STJ.
+2. Aplica-se a prescrição quinquenal, prevista no art. 206, § 5º, I, do Código Civil, às ações de cobrança em que se pretende o pagamento de dívida líquida constante de instrumento particular. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1215860/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/6/2018, DJe 29/6/2018.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA NÃO VERIFICADO. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. PLANO DE SAÚDE. INTERNAÇÃO DOMICILIAR. CLÁUSULA OBSTATIVA. ABUSIVIDADE. DECISÃO MANTIDA.
+1. "No sistema da persuasão racional, adotado pela legislação processual civil (artigos 130 e 131, CPC/1973 e 371, CPC/2015), o magistrado é livre para examinar o conjunto fático-probatório produzido nos autos para formar sua convicção, desde que indique de forma fundamentada os elementos de seu convencimento" (AgInt no AgRg no AREsp 717.723/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/3/2018, DJe 2/4/2018).
+2. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o Tribunal de origem concluiu ser desnecessária a produção de prova pericial. Alterar esse entendimento demandaria reexame de elementos de fato do processo, vedado em recurso especial.
+4. "A jurisprudência do STJ firmou-se no sentido de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura, motivo porque deve arcar com as despesas relativas ao tratamento médico domiciliar (home care). Precedentes" (AgInt no AREsp 1.181.543/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/6/2018, DJe 1º/8/2018).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1287403/SP, de minha relatoria, QUARTA TURMA, julgado em 18/10/2018, DJe 26/10/2018.)
+Da mesma forma, está pacificado no STJ o entendimento de que não configura cerceamento de defesa o julgamento da lide, devidamente fundamentado, sem a produção das provas tidas por desnecessárias pelo magistrado, uma vez que cabe a ele dirigir a instrução e deferir a produção das provas que considerar necessárias à formação do seu convencimento. Sobre o tema:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção das provas tidas por desnecessárias pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento.
+2. Rever o acórdão que afastou o cerceamento de defesa implicaria o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula nº 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 814.657/SC, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 6/10/2016, DJe 17/10/2016.)
+Consequentemente, a análise da imprescindibilidade das provas pretendidas pelo recorrente demandaria a revisão do contexto fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do  CPC/2015,  MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo, ficando suspensa a exigibilidade em virtude da gratuidade de justiça (art. 98, § 3º, do CPC/2015).
+Publique-se e intimem-se
