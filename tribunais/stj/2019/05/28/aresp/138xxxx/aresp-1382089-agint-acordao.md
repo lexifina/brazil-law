@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ARTIGO 1.003, § 6º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça declarando intempestivo o Agravo em Recurso Especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+2 A Corte Especial do STJ, no julgamento do AgInt no AREsp 957.821/MS, realizado na sessão de 20 de novembro de 2017, ao interpretar os artigos 932, parágrafo único, e 1.003, § 6º, do CPC de 2015, bem assim os princípios consagrados pelo novo Códex, firmou orientação de que o recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso", de maneira que fica inviabilizada a apresentação de documento hábil em momento posterior para demonstrar sua tempestividade.
+3. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes."
+RELATÓRIO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça declarando intempestivo o Agravo em Recurso Especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO - Execução de sentença - Servidores Municipais - Reajustes a que se refere o artigo 4º da Lei nº 11.722/95, referentes aos quadrimestres de março a junho de 1995 (9,51%) e de julho a outubro de 1995 (7,55%)- Decisão recorrida que declarou cumprida a Obrigação de Fazer - Alegação de que não houve o correto cumprimento da Obrigação de Fazer - Pretensão de afastamento da limitação legal de 40% prevista no § 3º do art. 4º da Lei nº 11.722/95 - Impossibilidade - Julgado exequendo que foi expresso ao assegurar aos autores os índices de reajustamento de seus vencimentos de 9,51% para o quadrimestre de março a junho de 1995 e de 7,55% para o quadrimestre de julho a outubro de 1995, com aplicação alternativa de percentuais inferiores aos índices integrais do IPC- FIPF para efeitos dos mencionados reajustes quadrimestrais, a fim de compatibilizá-los com o limite máximo de 40% da média das receitas correntes, na hipótese de sua integralidade superar esse patamar - Municipalidade que cumpriu a obrigação com aplicação dos índices que se harmonizam com o limite legal de 40% da média das receitas correntes cm atendimento à coisa julgada - Precedentes deste F. Tribunal - Decisão mantida - Recurso improvido.
+Cuidaram os autos, na origem, de Agravo de Instrumento em Embargos à Execução contra decisão que declarou cumprida a obrigação de fazer no feito principal. O acórdão negou provimento ao Agravo. O Recurso Especial foi inadmitido e o Agravo em REsp declarado intempestivo, advindo o Agravo Interno que ora se examina.
+A decisão da presidência do STJ está assim fundamentada:
+Trata-se de AGRAVO EM RECURSO ESPECIAL interposto contra decisão que inadmitiu recurso especial.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ nºs 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, a parte Recorrente foi intimada do acórdão recorrido em 25/05/2017, sendo o recurso especial interposto somente em 19/06/2017.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+A segunda-feira de Carnaval, a Quarta-Feira de Cinzas, os dias que precedem a Sexta-Feira da Paixão e o de Corpus Christi não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais, deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2o e 3o do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Os autos foram recebidos neste gabinete em 21 de fevereiro de 2019.
+No Agravo Interno, a parte insurgente pugna pela reconsideração da decisão agravada ou pelo provimento, pelo colegiado, do Agravo Interno. Alega basicamente:
+Contudo, é de fundamental importância, esclarecer e demonstrar que nos dias 15 e 16 de julho de 2017 o Tribunal de Justiça do Estado de São Paulo suspendeu os prazos processuais, conforme Provimento 2394/2016, publicado no DJE em 09/12/2016, conforme abaixo reproduzido e cópia que ora se junta (doe. 1).
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Conforme já disposto no decisum combatido:
+A propósito, nos termos do § 6ºdo art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+A Corte Especial do STJ, no julgamento do AgInt no AREsp 957.821/MS, realizado na sessão de 20 de novembro de 2017, ao interpretar os artigos 932, parágrafo único, e 1.003, § 6º, do CPC de 2015, bem assim os princípios consagrados pelo novo Códex, firmou orientação de que o recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso", de maneira que fica inviabilizada a apresentação de documento hábil em momento posterior para demonstrar sua tempestividade.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
