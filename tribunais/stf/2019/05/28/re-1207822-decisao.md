@@ -1,0 +1,25 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da 5ª Turma Recursal do Rio Grande do Sul, que condenou a parte ora recorrente ao pagamento de indenização por danos morais à parte recorrida. (eDOC 81)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, caput, II e XXXVI; 37, § 6º; e 225, § 3º, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, a inexistência de dano apto a ensejar a responsabilização do recorrente pelos danos morais supostamente suportados pela parte recorrida.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que a parte recorrente é responsável pelos danos suportados pela parte recorrida decorrentes de poluição ambiental vinculada à aplicação de agrotóxicos. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Alega, nas razões recursais, preliminarmente, nulidade da sentença por insuficiência de fundamentação. No mérito, aduz que foi realizada perícia no local (laudo pericial apresentado no evento de nº 46), sendo constatada a pequena distância entre a casa da recorrente e a lavoura de soja (que seria no máximo de 30 metros), na qual foram aplicados agrotóxicos. Sustenta que ficou comprovada nos autos a ocorrência do dano ambiental individual passível de indenização, decorrente da aplicação de agrotóxicos em lavoura de soja nas proximidades da residência da parte autora.
+    O Ministério Público Federal manifestou-se pela reforma da sentença em todos os casos conexos (evento 90 - PROMOÇÃO 1), com o julgamento de procedência do pedido da autora.
+    (...)
+    Caso dos autos
+    Uma vez que antiga residência do autor está localizada no máximo a 30 m (evento 90 - TABELA2), impõe-se a condenação da União ao pagamento de indenização por danos morais individuais, os quais ficam arbitrados em R$ 19.080,00 (equivalente a 20 salários mínimos na data deste voto).
+    Decisão
+    Pelo exposto, o voto é no sentido de dar provimento ao recurso da parte autora.” (eDOC 81, p. 1-19)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO CIVIL. PROCESSUAL CIVIL. DANOS AMBIENTAIS. RESPONSABILIDADE DA ADMINISTRAÇÃO. DANOS MORAIS. OBRIGAÇÃO DE FAZER. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AOS ARTS. 1º, IV, 5º, XXII E XXIII, 170, 186 E 225 DA CONSTITUIÇÃO DA REPÚBLICA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que foge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, sobretudo no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça. 4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação.” (ARE-AgR 1.169.948, Rel. Min. Rosa Weber, Primeira Turma, DJe 25.3.2019)
+    “Agravo regimental em recurso extraordinário. 2. Poluição da Baia de Guanabara. Multa imposta por autoridade municipal competente. 3. Enunciado das Súmulas 279 e 283 do STF. 4. Ausência de argumentos suficientes a infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (RE-AgR 495.694, de minha relatoria, DJe 17.11.2015)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. INDENIZAÇÃO POR DANOS MORAIS. NEXO DE CAUSALIDADE. SÚMULA 279 DO STF. 1. É inadmissível o extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, exija-se o reexame das provas dos autos. Incidência da Súmula 279 do STF. 2. Agravo regimental a que se nega provimento.” (ARE-AgR 909.388, Rel. Min. Edson Fachin, Primeira Turma, DJe 14.4.2016)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 28 de maio de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
