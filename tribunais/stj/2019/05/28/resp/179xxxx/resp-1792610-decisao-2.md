@@ -1,0 +1,25 @@
+DECISÃO
+1. Cuida-se de agravo interposto por AUREA APARECIDA COLACO DA SILVA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim ementado:
+RESOLUÇÃO CONTRATUAL C.C. DEVOLUÇÃO DE VALORES - Compromisso de compra e venda - Parcial procedência do pedido - Inconformismo da autora - Acolhimento em parte - Possibilidade de retenção de 10% do montante pago pelo compromissário comprador para ressarcimento dos gastos com a administração do empreendimento - Devolução de 90% da quantia paga - Abusividade da Taxa SATI - Nulidade da cobrança de deveres inerentes ao próprio contrato - Devolução simples determinada - Ausência de dano moral - Inadimplemento contratual que não gera automaticamente o dever de indenizar - Aplicação do disposto no art. 252 do RITJSP - Sentença reformada em parte - Recurso parcialmente provido.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 180, 187, 413, 924, 927, e 940 do Código Civil; artigos 51 e 53, do Código de Defesa do Consumidor.
+Alega que houve má-valoração das provas e que lhe fora causado dano moral por ações abusivas da parte recorrida após a resolução de contrato de compromisso de compra e venda de imóvel. Alega que atuou em plena boa-fé ao esperar obter acordo extrajudicial com a ré, que não poderia ter sido acuada pelas ações de negativação do seu nome ou constatar em editais que seu imóvel estava indo a Leilão. Argumenta que tais situações não correspondem a mero aborrecimento.
+Contrarrazões ao recurso especial às fls. 1001-1008.
+É o relatório.
+DECIDO.
+2. Os temas insertos nos arts. 180 e 924 do Código Civil, indicados como contrariados, não foram objeto de debate no acórdão recorrido, tampouco foram opostos embargos de declaração a fim de suprir eventual omissão. É entendimento assente neste Superior Tribunal de Justiça a exigência do prequestionamento dos dispositivos tidos por violados, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Outrossim, também não conheço da aduzida violação dos arts. 413 e 924 e 940 do Código Civil e 51 e 53 do Código Civil por falta de articulação de argumentos jurídicos a embasar tal assertiva, caracterizando deficiência de fundamentação, que impede a exata compreensão da controvérsia e obsta seu conhecimento. Inteligência da Súmula 284/STF a incidir neste ponto.
+4. Sobre a configuração de dano moral, assim se manifestou o tribunal de origem:
+Quanto ao pedido de compensação por danos morais, a jurisprudência tem entendimento predominante no sentido de que, salvo circunstância excepcional que coloque o contratante em situação de extraordinária angústia ou humilhação, o mero inadimplemento não é causa suficiente para reparação.
+De fato, o dissabor inerente à expectativa frustrada se insere no cotidiano do homem médio e, a princípio, não resulta em lesão à honra ou em violação à dignidade humana. A esse respeito:
+(..) No presente caso, não há qualquer fato extraordinário a ser considerado, nem a conduta da parte ré pode ser considerada como ofensiva à esfera de direitos da personalidade dos autores.
+Por fim, de se ver que não encontra amparo jurídico a resistência da parte autora em liberar a venda da unidade após a sua própria incapacidade de arcar com as parcelas contratuais.
+Em verdade, afigura-se contraditória seu comportamento, diante da inequívoca manifestação de desinteresse no prosseguimento do contrato, devendo ser aceito o processo de retomada do imóvel.
+(..)
+Em que pesem as alegações recursais, não há falar em omissão na apreciação do pedido de indenização por dano moral, já que consta expressamente a sua rejeição na r. sentença.
+Ainda que assim não fosse, não tem cabimento a indenização, uma vez que tal pretensão só se verifica em situações excepcionais de grande abalo psicológico, o que não se verificou no caso presente. Ademais, a jurisprudência já consolidou o entendimento de que o inadimplemento contratual não gera automaticamente o dano moral.
+Ora, a negativação do nome da autora decorreu do inadimplemento de duas prestações, inexistindo a alegada inexigibilidade. (fls. 347-348 e-STJ)
+O tribunal entendeu que não há situação nos autos que tivesse importado em danos morais a parte recorrente e que a negativação desta decorreu de efetivo inadimplemento de prestações contratuais.
+Alterar tais conclusões, para passar a afirmar houve má-valoração das provas e que houve ações abusivas da parte recorrida após a resolução de contrato de compromisso de compra e venda de imóvel que configuram danos morais, demanda nova incursão na seara fático-probatória, atividade não realizável nesta via especial. Incidência da súmulas 7/STJ.
+5. Ante o exposto, nego provimento ao agravo em recurso especial.
+Intimem-se. Publique-se.
