@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial pela incidência das Súmulas n. 5, 7 e 83 do STJ (e-STJ fls. 547/550).
+O acórdão recorrido está assim ementado (e-STJ fl. 436):
+RECURSO DE APELAÇÃO - OBRIGAÇÃO DE FAZER C/C DANOS MORAIS - PLANO DE SAÚDE - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - REEMBOLSO DE DESPESAS MÉDICO-HOSPITALARES - LIMITAÇÃO PREVISTA EM CONDIÇÕES GERAIS DO CONTRATO - DANO MORAL - NÃO CONFIGURADO - RECURSO PARCIALMENTE PROVIDO.
+1. Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde (Súmula 469 do STJ).
+2. A indicação de tratamento foi feita por médico regularmente inscrito no Conselho Regional competente e especialista na doença rara que acometeu o autor, sendo que o profissional, ao analisar o caso clínico apresentado, constatou ser necessária a realização de tratamento específico com urgência.
+3. A recusa da requerida causou ao autor aborrecimentos, no entanto, não na proporção e intensidade capazes de lhe causar sofrimento psíquico ou humilhação pessoal e muito menos ocasionaram vexame social que permitisse vislumbrar o advento do dano moral.
+Os embargos de declaração opostos (e-STJ fls. 448/453) foram rejeitados (e-STJ fls. 470/474).
+Nas razões do especial (e-STJ fls. 478/492), interposto com fundamento no art. 105, III, "a" e "c", da CF/1988, a recorrente alega, além de dissídio jurisprudencial, violação do art. 12, VI, da Lei n. 9.656/1998 sustentando, em síntese, a ausência de requisitos para reembolso das despesas do procedimento em questão, pois não há obrigatoriedade de reembolso de tratamento quando não prestado na rede conveniada e em situação de emergência/urgência.
+No agravo (e-STJ fls. 552/564), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 567/575).
+É o relatório.
+Decido.
+Segundo o entendimento consolidado nesta Corte, a operadora de plano de saúde somente estará obrigada a reembolsar integralmente as despesas efetuadas pelo segurado quando não existir estabelecimento credenciado no local, se houver recusa do hospital credenciado para a realização dos procedimentos necessários ou tratar-se de situações de caráter emergencial/urgente.
+Nesse sentido, os seguinte precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. DESPESAS REALIZADAS EM HOSPITAL NÃO CREDENCIADO. INEXISTÊNCIA DE HIPÓTESE DE EXCEPCIONALIDADE. SÚMULAS 5 E 7/STJ. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte entende que o reembolso das despesas efetuadas pela internação em hospital não conveniado é admitido apenas em casos especiais (inexistência de estabelecimento credenciado no local, recusa do hospital conveniado em receber o paciente, urgência da internação).
+2. No caso, não ficou demonstrada nenhuma hipótese de excepcionalidade. Para desconstituir a convicção formada pelas instâncias ordinárias a esse respeito, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como proceder à interpretação de cláusulas contratuais, o que é defeso a esta Corte Superior ante o teor das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 964.617/SC, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/11/2016, DJe 1/12/2016.)
+AGRAVO INTERNO EM AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - PLANO DE SAÚDE - REEMBOLSO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. INSURGÊNCIA DA OPERADORA DO PLANO DE SAÚDE.
+1. Reembolso de despesas efetuadas por usuário do plano de saúde com internação em hospital não conveniado. Artigo 12, inciso VI, da Lei 9.656/98. Ressarcimento admitido apenas em casos excepcionais: situação de urgência ou emergência, inexistência de estabelecimento credenciado no local e/ou impossibilidade de utilização dos serviços próprios da operadora em razão de recusa injustificada, entre outros.
+1.1 Acórdão estadual que, com base nas circunstâncias fáticas dos autos, considerou configuradas as referidas hipóteses. Necessário reexame do contexto fático-probatório dos autos e interpretação das cláusulas do contrato de plano de saúde para suplantar a cognição da instância ordinária. Incidência das Súmulas 5 e 7 desta Corte.
+2. Conforme pacífica jurisprudência do Superior Tribunal de Justiça, só é permitido modificar os honorários advocatícios arbitrados na origem se estes se mostrarem irrisórios ou exorbitantes, exigindo-se, ainda, que as instâncias ordinárias não tenham emitido concreto juízo de valor sobre o tema. Do contrário, o recurso especial queda obstado pelo texto cristalizado na Súmula n. 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AgRg no AREsp n. 476.411/CE, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 8/11/2016, DJe 18/11/2016.)
+RECURSO ESPECIAL. PLANO DE SAÚDE. [NOME]. ESTABELECIMENTO NÃO CONVENIADO PARA O PROCEDIMENTO EMERGENCIAL. REEMBOLSO DE VALORES. POSSIBILIDADE. PROVIMENTO.
+1.- O reembolso das despesas efetuadas pela internação em hospital não conveniado é exigível apenas em casos excepcionais (inexistência de estabelecimento credenciado no local, recusa do hospital conveniado de receber o paciente, urgência da internação etc). Reconhecida a situação de emergência pelas instâncias ordinárias possível o ressarcimento das despesas efetuadas. Precedentes das turmas integrantes da Segunda Seção.
+2.- Recurso Especial provido.
+(REsp n. 1.437.877/RJ, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 22/4/2014, DJe 2/6/2014.)
+
+No presente caso, o Tribunal de origem, amparado nas provas apresentadas nos autos, assim se manifestou sobre o presente caso, in verbis (e-STJ fls. 442/446):
+Desta forma, mostra-se abusiva a cláusula que exclua a responsabilidade do plano de saúde em suportar os custos de tratamento ou procedimento cirúrgico realizado em caráter de urgência, pois impõe ao consumidor desvantagem exagerada, nos termos do art. 51, IV, do Código de Defesa do Consumidor.
+Entrementes, apesar de ser reconhecida a aplicação da Lei n. 9.656/98 e das disposições da norma consumerista, que aliás, em seu art. 51, inciso IV, classifica como nulas de pleno direito as cláusulas relativas ao fornecimento de produtos e serviços que: "estabelecem obrigações consideradas iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada, ou sejam incompatíveis com a boa fé e equidade", é preciso que se observe, novamente, que a questão de exclusão de cobertura já restou superada e que a Lei 9.656/98, prevê em seu art. 12, inciso VI, que o reembolso deve ser efetuado "nos limites das obrigações contratuais, das despesas efetuadas pelo beneficiário com assistência à saúde, em casos de urgência ou emergência, quando não for possível a utilização dos serviços próprios".
+ ..
+Sendo assim, não há se falar em reembolso integral como pretende o apelante, porquanto apesar de a interpretação dos contratos deva se dar da forma mais favorável ao consumidor, fato é que as partes têm obrigação de observar a boa fé objetiva e respeito ao contrato, que, por sua vez, trouxe perfeitamente visível a previsão de que o pagamento seria de acordo com os valores de referência da tabela praticada pela Unimed, não havendo qualquer ilegalidade e/ou abusividade já que a previsão é clara, precisa e de fácil compreensão.
+ ..
+Diante do exposto, dou parcial provimento ao recurso, reformando a sentença para condenar a requerida ao reembolso das despesas médico-hospitalares apresentadas no feito, todavia limitado aos valores previstos na tabela da contratada vigente à época para os respectivos serviços, montante a ser atualizado pelo índice IGPM a contar de cada desembolso, acrescido de juros de mora de 1% ao mês a partir da citação.
+Dissentir dessas conclusões é inviável no âmbito do recurso especial, haja vista o teor da Súmula n. 7/STJ.
+De fato, em relação ao reembolso integral das despesas, "esta Corte firmou o entendimento de que a discussão acerca de eventual abusividade na limitação do reembolso de despesas médicas por tratamento realizado por médico e hospital não credenciados demanda a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, nos termos das Súmulas nºs 5 e 7, ambas do STJ" (AgRg no REsp n. 1.504.979/RJ, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 5/5/2016, DJe 13/5/2016).
+No mesmo sentido:
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AUTOR.
+1. Reembolso de despesas efetuadas por usuário do plano de saúde com internação em hospital não conveniado. Ressarcimento admitido apenas em casos excepcionais.
+1.1. Acórdão estadual que, com base nas circunstâncias fáticas dos autos, considerou configurada tal excepcionalidade, a ensejar o reembolso, limitando-o, contudo, às condições do contrato entabulado entre as partes. A alteração de tais conclusões demandaria o reexame do contexto fático-probatório dos autos e a interpretação das cláusulas do contrato de plano de saúde, providências estas vedadas em sede de recurso especial, a teor das Súmulas 5 e 7 do STJ.
+1.2. A discussão acerca da legalidade da cláusula contratual limitativa do reembolso das despesas médico-hospitalares, em razão de tratamento realizado em hospital não credenciado, reclama interpretação de cláusulas contratuais e o reexame dos fatos e provas dos autos, o que é vedado em razão dos óbices insertos nas Súmulas 5 e 7 de Tribunal Superior.
+2. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 441.482/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/3/2017, DJe 22/3/2017.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
