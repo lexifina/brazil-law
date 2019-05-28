@@ -1,0 +1,30 @@
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. QUANTUM DE AUMENTO. DISCRICIONARIEDADE VINCULADA DO MAGISTRADO. REVISÃO. VIA INADEQUADA. ORDEM DENEGADA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul na Apelação n.º 0005694-23.2017.8.12.0008.
+Consta dos autos que o Paciente foi condenado às penas de 7 (sete) anos de reclusão, em regime inicial fechado, e 700 (setecentos) dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n.º 11.343/2006.
+Contra a sentença a Defesa interpôs apelação, que foi desprovida pela Corte de origem (fls. 331-340).
+No presente writ, alega a Impetrante que " o  Paciente reconhece que ambas as circunstâncias judiciais tidas como desfavoráveis são legítimas, contudo, não se conforma com a exasperação em 02 (dois) anos acima do mínimo legal" (fl. 5).
+Requer, liminarmente e no mérito, a concessão da ordem a fim de que seja reduzida a pena imposta.
+Liminar indeferida pelo Ministro JOÃO OTÁVIO DE NORONHA (fls. 351-352).
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 354-358).
+É o relatório.
+Decido.
+O Juízo sentenciante fixou a pena-base acima do mínimo legal, em decisão ratificada pela Corte de origem, com base nos seguintes fundamentos (fl. 253; grifos diversos do original ):
+" ..
+Analisando as circunstâncias do artigo 59 do Código Penal, verifica-se que: a culpabilidade, ou seja, o grau de reprovabilidade não excede a normalidade da conduta prevista no tipo penal, de transportar substância entorpecente de uso proibido; os antecedentes lhe prejudicam, já que, às f. 51-75, o acusado possui condenação com trânsito em julgado em seu desfavor que, pelo transcurso do período depurador da reincidência, será utilizada nesta fase da dosimetria (Incidência 10 - f.63-64); não há elementos nos autos capazes de aferir sua conduta social ou sua personalidade, de modo que não lhe prejudicam; os motivos da prática da infração penal não lhe prejudicam, pois comuns à espécie, qual seja, a intenção de lucro fácil e rápido em situação de dificuldade financeira; as circunstâncias não destoam da normalidade; as consequências do crime são comuns à espécie; o comportamento da vítima, no caso toda a sociedade, em nada contribuem para a prática do delito. A quantidade da droga não merece valoração negativa. Contudo, a natureza da droga merece valoração negativa, uma vez que a substância apreendida é cocaína, substância altamente nociva, principalmente se comparada a outras, atentando-se, pois, para as diretrizes do artigo 59, do Código Penal e artigo 42, da Lei n. 11.343/2006.
+Assim sendo, na primeira fase, fixo a pena-base um pouco acima do mínimo legal, ou seja, em 07 (sete) anos de reclusão e 700 (setecentos) dias-multa."
+Inicialmente, cumpre consignar que, excetuados os casos de patente ilegalidade ou abuso de poder, é vedado, na via do habeas corpus, o amplo reexame das circunstâncias judiciais consideradas para a individualização da sanção penal, por demandar a análise de matéria fático-probatória.
+Como é sabido, o julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime. Especialmente quando considerar desfavoráveis as circunstâncias judiciais, deve o Magistrado declinar, motivadamente, as suas razões, pois a inobservância dessa regra ofende o preceito contido no art. 93, inciso IX, da Constituição da República.
+Desse modo, inexistindo ilegalidade patente na análise do art. 59 do Código Penal, o quantum de aumento a ser implementado em decorrência do reconhecimento das circunstâncias judiciais desfavoráveis fica adstrito à prudente discricionariedade do Juiz, não havendo como proceder ao seu redimensionamento na via estreita do habeas corpus. Assim, ressalvadas os casos de manifesta ilegalidade ou arbitrariedade, é inadmissível a revisão dos critérios adotados na dosimetria da pena por esta Corte Superior.
+Na hipótese, o aumento de 2 (um) anos de reclusão implementado à pena-base revela-se proporcional e fundamentado, considerando-se a motivação apresentada (natureza do entorpecente e maus antecedentes) e a pena abstratamente cominada para o crime previsto no art. 33, caput, da Lei n.º 11.343/2006: cinco a quinze anos de reclusão.
+Nesse sentido:
+" ..
+3. In casu, considerou o Tribunal de origem haver maior reprovabilidade da conduta tendo em vista a natureza e a quantidade de droga apreendida (tratando-se de 2.863 gramas de cocaína), o que motivou a elevação da pena-base em 2 anos. Na linha de precedentes desta Corte Superior, tal entendimento encontra-se dentro da discricionariedade vinculada do magistrado, não sendo devida a alteração da sanção inicial, na estreita via do writ, porquanto não configurada flagrante ilegalidade, em se considerando, sobretudo, as penas máxima e mínima cominadas em abstrato para o tipo penal em questão.  ..
+5. Agravo regimental improvido." (AgRg no HC 424.150/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 20/02/2018, DJe 26/02/2018; sem grifos no original.)
+" ..
+2. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+ ..
+5. Habeas corpus não conhecido." (HC 459.204/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/08/2018, DJe 29/08/2018; sem grifos no original.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
