@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO DE EXECUÇÃO. AGRAVO DE INSTRUMENTO. PENHORA SOBRE O FATURAMENTO DA EMPRESA. INEXISTÊNCIA DE BENS PENHORÁVEIS. DIMINUIÇÃO DO PERCENTUAL. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se na origem de agravo de instrumento interposto por CHEMICON S.A. INDÚSTRIAS QUÍMICAS (CHEMICON) contra a decisão que, em ação de cobrança, em fase de cumprimento de sentença, proposta por MSC MEDITERRANEAN SHIPPING COMPANY S.A. (MEDITERRANEAN), deferiu o pedido de penhora sobre 30% do faturamento da empresa executada.
+O Tribunal de origem deu-lhe parcial provimento, nos termos da seguinte ementa:
+CUMPRIMENTO DE SENTENÇA. Penhora sobre o faturamento da empresa executada. Medida excepcional que se justifica no presente caso. Não tendo sido localizados outros bens idôneos à garantia do cumprimento de sentença, é possível que a constrição recaia sobre o percentual de 10% do faturamento bruto da empresa executada, como forma de equacionar a questão do pagamento e a continuidade de suas atividades, amortizando-se a dívida, sem leva- la a bancarrota ou inatividade. RECURSO PROVIDO EM PARTE (e-STJ, fl. 291).
+Inconformado, ainda, CHEMICON interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação do art. 805 do NCPC, ao sustentar que possui bens passíveis de constrição, o que poderia ter sido constatado pelo oficial de justiça e que a penhora sobre o faturamento impedirá que a atividade econômica da recorrente se torne inviável, trazendo, inclusive, outras tantas dívidas.
+Ressaltou que não obstante o Tribunal bandeirante tenha reduzido a penhora de 30% para 10% do faturamento bruto da empresa, ainda se mostra elevado o percentual, diante de sua situação financeira grave pela qual passa. Subsidiariamente, requereu ao menos a redução para 3% do faturamento líquido mensal da empresa executada (e-STJ, fls.297/305).
+O apelo nobre não foi admitido. CHEMICON interpôs agravo em recurso especial (e-STJ, fls. 362/363 e 366/373).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da possibilidade da penhora sobre o faturamento da empresa e do quantum fixado pelo Tribunal de origem
+O Tribunal de origem, soberano na análise das provas, manifestou-se sobre as controvérsias da seguinte forma:
+Cuida-se de ação de cobrança, em fase de cumprimento de sentença, ajuizada por MSC MEDITERRANEAN SHIPPING COMPANY S/A contra CHEMICON S.A. INDÚSTRIAS QUÍMICAS, objetivando receber a quantia de R$ 90.325,95, decorrente do atraso na devolução dos contêineres (fls. 606, dos autos originários).
+Devidamente intimada, a devedora não efetuou o pagamento da dívida nem apresentou bens para garantia da execução.
+A credora requereu a penhora de contas e ou investimentos de titularidade da executada, via BACENJUD, bem como a pesquisa de bens por meio dos sistemas INFOJUD e RENAJUD.
+Restando negativas as tentativas de bloqueio via BACENJUD e infrutíferas as pesquisas de bens da executada, a exequente requereu a penhora do faturamento da empresa, até a efetiva quitação do débito exequendo.
+Sobreveio a decisão agravada que deferiu o pedido de penhora de 30% do faturamento mensal da empresa (fl. 31/32).
+Nesse contexto, respeitado entendimento em contrário, o recurso comporta parcial guarida.
+Quanto à possibilidade de penhora de faturamento, é de ser mantida a r. decisão. O artigo 835, X, do CPC, expressamente permite a penhora de percentual do faturamento da empresa devedora.
+A penhora do faturamento da empresa é medida excepcional que se justifica no presente caso, uma vez que não foram localizados bens para garantia da execução. Portanto, nada impede que a constrição recaia sobre o faturamento da executada, aliás, é a alternativa que resta ao credor.
+Assim, quanto ao pedido de exclusão da penhora de faturamento, a pretensão recursal não pode ser acolhida.
+Todavia, como forma de equacionar a questão do pagamento e a continuidade das atividades da empresa, admite-se a penhora de faturamento mensal da empresa em percentual razoável, amortizando-se a dívida, sem que a leve à bancarrota ou à sua inatividade.
+Diante desse quadro, é de se deferir o pedido de redução da penhora sobre o faturamento da empresa devedora para o percentual de 10% de seu faturamento bruto.
+Nessa linha: "É admissível proceder-se à penhora sobre faturamento da empresa, desde que: a) comprovada a inexistência de outros bens passíveis de garantir a execução ou sejam os indicados de difícil alienação; b) nomeação de administrador (arts. 678 e 719, caput, do CPC), ao qual incumbirá a apresentação das formas de administração e pagamento; c) fixação de percentual que não inviabilize a atividade
+econômica da empresa." (AgRg no REsp 768946/RJ, Rel. Min. Luiz Fux).
+Mesmo sentido: REsp 418.129, Rel. Min. Nancy Andrighi; RSTJ 56/338, 109/107, RT 801/1155, 839/202.
+Esta colenda 23ª Câmara de Direito Privado não destoa: "Execução - Penhora - Agravada que, citada, não realizou o pagamento da dívida, nem indicou bens à penhora - Diligências realizadas pela agravante que restaram infrutíferas - Caso em que foi deferido o bloqueio "on line", porém, não foi encontrado saldo positivo. Penhora - Faturamento da empresa - Admissibilidade em casos excepcionais - Devedora que permaneceu inerte em relação ao oferecimento de bens - Credora que não logrou localizar outros bens passíveis de penhora - Cabível a constrição de parte do faturamento da empresa agravada.
+Penhora - Incidência sobre faturamento da empresa agravada - Penhora de percentual elevado que pode resultar no comprometimento das obrigações fiscais, trabalhistas e previdenciárias da empresa, impedindo o seu funcionamento - Viável a estipulação do limite de 5% sobre o faturamento mensal - Caso em que deve ser cumprido o preceituado no art 655-A, §3º, do CPC, introduzido pela Lei 11.382/2006 - Depositário que há de submeter à aprovação judicial um esquema de efetivação da constrição e do pagamento - Agravo provido em parte" (TJSP, AI. 7.328.240-5, Rel. Des. José Marcos Marrone, j. 11/03/2009) (e-STJ, fls.
+Assim, para se chegar a conclusão diversa da que chegou o Eg. Tribunal local, seria inevitável o revolvimento do conteúdo fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, incindindo, na espécie, o óbice do enunciado da Súmula nº 7 do STJ, in verbis: A pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido, vejam-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PENHORA SOBRE FATURAMENTO DA EMPRESA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC E HONORÁRIOS RECURSAIS DO ART. 85, § 11º, DO NCPC. AGRAVO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. Em razão da improcedência do presente recurso, e da anterior advertência em relação à incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 1% sobre o valor atualizado da causa e a majoração dos honorários advocatícios em 2%, nos termos do art. 85, § 11º, do NCPC, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+4. Agravo interno não provido, com imposição de multa e majoração da verba honorária.
+(AgInt no AREsp 980.870/RS, de minha relatoria, Terceira Turma j. 21/3/2017, DJe 3/4/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE REPARAÇÃO DE DANOS. CUMPRIMENTO DE SENTENÇA. EMPRESA EXECUTADA.
+FATURAMENTO MENSAL. PENHORA. REDUÇÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever a conclusão do aresto impugnado acerca da razoabilidade da penhora no valor de 15% (quinze por cento) sobre o faturamento mensal da empresa encontra os óbices das Súmulas nºs 5 e 7 do Superior Tribunal de Justiça. 3. A incidência da Súmula nº 7/STJ obsta o seguimento do recurso por qualquer das alíneas do permissivo constitucional. Precedente.
+4. Agravo interno não provido.
+(AgInt no AREsp 1332766/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 18/3/2019, DJe 21/3/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO.
+OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Execução de título extrajudicial.
+2. Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração. 3. Alterar o decidido no acórdão impugnado, no que se refere à inexistência de outros bens passíveis de constrição, bem como no que tange ao preenchimento dos requisitos necessários à determinação de penhora sobre faturamento, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ. 4. A incidência da Súmula 7 desta Corte, acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do permissivo constitucional. Precedentes do STJ.
+5. Agravo não provido.
+(AgInt no AREsp 887.748/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 21/8/2018, DJe 23/8/2018)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
