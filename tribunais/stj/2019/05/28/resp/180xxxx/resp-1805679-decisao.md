@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+PLANO DE SAÚDE - Tratamento Quimioterápico com Antiangiogênico - Oclusão da veia central da retina no olho direito, associado a edema de mácula e hemorragia vítrea - Cobertura devida - Não excluindo o Plano de Saúde o tratamento da doença, não podem ser excluídos os procedimentos, medicamentos, equipamentos e materiais que forem necessários para a cura - Aplicação das Súmula 95 e 102 do TJSP - Dano Moral - Não caracterização - Controvérsia acerca da obrigatoriedade da cobertura - Recurso provido em parte.
+Nas razões do especial, aponta o recorrente existência de dissídio jurisprudencial, além de violação dos artigos 186 do Código Civil; 6º e 51 Lei 9.656/98. Alega que faz jus à reparação econômica por dano moral, dada injusta recusa de tratamento médico prescrito.
+Aduz que "não tem nada sobre o medicamento e ao procedimento que poderia ser interpretado como duvidoso, não cabendo nunca a exclusão" (fl. 249, e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Para a configuração do dano moral, há de existir uma consequência mais grave em virtude do ato que, em tese, tenha violado o direito da personalidade, provocando dor, sofrimento, abalo psicológico ou humilhação consideráveis à pessoa, e não quaisquer dissabores da vida.
+O Tribunal de origem assim se manifestou sobre a controvérsia (fl. 238, e-STJ):
+Quanto ao dano moral, este importa em violação a direitos da personalidade, que conforme [NOME] são "direitos sem os quais todos os outros direitos subjectivos perderiam todo o interesse para o indivíduo - o que eqüivale a dizer que, se eles não existissem, a pessoa não existiria como tal".
+Contudo, havendo controvérsia acerca da obrigatoriedade da cobertura, em especial pelo não atendimento das diretrizes da ANS , afasta-se a condenação, como tem sido o entendimento desta C. Câmara (..)
+Entende-se que a situação de fato, para gerar danos morais, deveria ter repercutido no patrimônio imaterial da autora de forma reflexa, o que não ficou demonstrado, conforme delineado pelo acórdão recorrido, sendo que a falha na prestação dos serviços por parte da ré significou, segundo o que consta dos autos, nada mais do que meros aborrecimentos e dissabores. Tem-se que as ocorrências narradas não geram, por si sós, dano à moral.
+Nesse contexto, verifica-se que rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
