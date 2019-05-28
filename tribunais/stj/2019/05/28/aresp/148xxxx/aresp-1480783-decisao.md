@@ -1,0 +1,36 @@
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por DEFENSORIA PÚBLICA DO ESTADO DA BAHIA, contra decisão que inadmitiu recurso especial em razão do óbice da Súmula 7/STJ (fls.232-245).
+Consta dos autos que a agravante foi condenada como incursa no artigo 157, § 2º, incisos I e II, combinado como art. 70, ambos do Código Penal, à pena privativa de liberdade definitiva em 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão (fls. 132/143).
+O eg. Tribunal de origem, negou provimento ao apelo defensivo nos termos da seguinte ementa (fl. 232):
+"APELAÇÃO CRIMINAL  . RÉ CONDENADA PELA PRÁTICA Do DELITO DESCRITO NO ART. 157, §.2º, INCISOS I E II, DO CÓDIGO PENAL BRASILEIRO  IMPOSSIBILIDADE DE ABSOLVIÇÃO  EXISTÊNCIA DE PROVAS SUFICIENTES. PARA A MANUTENÇÃO DA SENTENÇA CONDENATÓRIA  DOLO EVIDENCIADO  QUALIFICADORAS DEVIDAMENTE CONFIGURADAS E AMPARADAS PELO FARTO MANANCIAL PROBATÓRIO - PLEITO DE DESCLASSIFICAÇÃO DA CONDUTA PARA CONSTRANGIMENTO ILEGAL  INVIABILIDADE  CONDUTA PRATICADA QUE SE ADEQUA FORMAL E MATERIALMENTE AO DELITO DE ROUBO DUPLAMENTE QUALIFICADO  NÃO COMPROVAÇÃO DA INIMPUTABILIDADE OU DA SEMI-IMPUTABILIDADE DA ACUSADA  LAUDO PERICIAL NÃO REALIZADO  INEXISTÊNCIA DE PLEITO DA DEFESA NESSE SENTIDO - RECURSO IMPROVIDO.
+I  Ré condenada pela prática de roubo qualificado (art. 157, § 2º, incisos I e II, do Código Penal Brasileiro) apela da sentença buscando a sua absolvição, desclassificação para o delito de constrangimento ilegal, decote das qualificadoras e a aplicação do art. 26, caput ou parágrafo único, do Código Penal.
+II  Muito embora a Apelante teça considerações em contrário, na esteira da sentença recorrida, a sua efetiva participação na empreitada criminosa encontra-se perfeitamente comprovada através da prova testemunhal produzida nos autos, sendo apontada pela vítima como uma das pessoas que portavam facas e utilizavam para ameaçar os passageiros que estavam no interior do veículo no momento da prática delitiva.
+III - Seguramente, pode-se atribuir à apelante o status de co-autora do delito, havendo elementos concretos para tanto. Sua atuação é relevante e o exame dos fatos demonstra a clara divisão de tarefas ocorrida entre eles, possuindo também a apelante poder decisório quanto à atividade delitiva, a afastar a tese defendida de ausência de dolo.
+IV - Analisando a conduta da apelante, que subtraiu um aparelho celular e outros pertences de passageiros de um veículo de transporte alternativo, mediante grave ameaça com emprego de arma branca (uma faca do tipo peixeira, consoante Auto de Apreensão de fls. 16) e acompanhada de outro indivíduo, conforme prova dos autos, é possível concluir que se trata de uma conduta formal e materialmente típica, descrita no art. 157, § 2º, incisos I e II, do Código Penal brasileiro. Não há, por conseguinte, como acolher as teses sustentadas pela defesa e proceder a desclassificação dos fatos para o crime de constrangimento ilegal, muito menos o decote das qualificadoras, vez que nítida e definida a intenção da ré de subtrair os bens das vítimas, restando plenamente delineados todos os elementos do tipo penal descrito na denúncia.
+V - O uso preordenado de drogas não exime o agente de responder por seus atos, enquanto certo que o reconhecimento da inimputabilidade ou semi-imputabilidade depende de laudo pericial a ser realizado nos autos de incidente de insanidade mental, não requerido pela defesa ou reputado necessário pelo juízo de origem.
+RECURSO IMPROVIDO.
+Interposto recurso especial (fls. 253-261), com fundamento no art. 105, inciso III, alíneas a, da Constituição da República, a parte agravante alegou ofensa:
+i) ao art. 26 do Código Penal considerando a falta de capacidade de discernir da ora recorrente;
+ii) ao art. 386, VII, do Código de Processo Penal, pela inexistência de provas suficientes para a condenação da recorrente
+Apresentadas as contrarrazões (fls. 2145-2151), sobreveio juízo negativo de admissibilidade fundado no óbice da Súmula 7/STJ considerando que a "pretensão veiculada nas razões de irresignação excepcional, diz respeito à insuficiência de provas aptas para embasar o édito condenatório" (fl. 278).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 283-290).
+A d. Subprocuradoria-Geral da República, em seu d. parecer, manifestou-se pelo desprovimento do agravo (fls.317- 318).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência da Súmula 7/STJ.
+Na razões do agravo, o recorrente alegou, em síntese, que "o que se trata de per si é mera aferição da ocorrência de fato incontroverso que se consubstancia na equivocada valoração das provas dos autos" (fl. 289)
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Desse modo, a ausência de impugnação do fundamento empregado pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O Agravante não infirmou, especificamente, todos os fundamentos da decisão combatida, o que atrai a incidência da Súmula n. 182 desta Corte.
+2. Os Tribunais Superiores, em recentes decisões, firmaram o entendimento de que, após esgotadas as via recursais ordinárias, apenas casuísticos efeitos suspensivos concedidos aos recursos excepcionais impedirão a execução provisória.
+3. Agravo regimental improvido e deferida a execução provisória da pena, determinando o imediato cumprimento da condenação, delegando-se ao Tribunal local a execução de todos os atos preparatórios" (AgRg no AREsp 984.287/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/6/2017).
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
