@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.
+1. O aresto embargado contém fundamentação suficiente para demonstrar que, dada a especial eficácia vinculativa do acórdão proferido no REsp 1.141.990/PR (Rel. Min. Luiz Fux, DJe de 19/11/2010), submetido à sistemática prevista no art. 543-C do CPC/1973, posteriormente à 09/06/2005, consideram-se fraudulentas as alienações efetuadas pelo devedor fiscal após a inscrição do crédito tributário na dívida ativa.
+2. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+3. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão, Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de embargos de declaração (fls. 1.158/1.163) apresentados contra acórdão sintetizado na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. TRIBUTÁRIO. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO CARACTERIZADA. PRECEDENTES.
+1. A Primeira Seção/STJ, ao apreciar o REsp 1.141.990/PR (Rel. Min. Luiz Fux, DJe de 19.11.2010), aplicando a sistemática prevista no art. 543-C do CPC/1973, pacificou entendimento no sentido de que: 1) "A lei especial prevalece sobre a lei geral (lex specialis derrogat lex generalis), por isso que a Súmula n.º 375 do Egrégio STJ não se aplica às execuções fiscais"; 2) "a alienação efetivada antes da entrada em vigor da LC n.º 118/2005 (09.06.2005) presumia-se em fraude à execução se o negócio jurídico sucedesse a citação válida do devedor; posteriormente à 09.06.2005, consideram-se fraudulentas as alienações efetuadas pelo devedor fiscal após a inscrição do crédito tributário na dívida ativa"; 3) "a diferença de tratamento entre a fraude civil e a fraude fiscal justifica-se pelo fato de que, na primeira hipótese, afronta-se interesse privado, ao passo que, na segunda, interesse público, porquanto o recolhimento dos tributos serve à satisfação das necessidades coletivas".
+2. Agravo interno não provido.
+A embargante alega, em síntese, que: a) considerando que o Tribunal de origem destacou a excepcionalidade do caso concreto em relação ao entendimento firmado no REsp 1.141.990/PR para afastar a fraude à execução, "o recurso especial manejado pela União sim, desejava apenas rediscutir matéria de fato neste C. STJ" (fl. 1.160); e b) "a jurisprudência do Superior Tribunal de Justiça, sempre interpretou o instituto da fraude à execução de forma uníssona, no sentido de resguardar o adquirente ou cessionário de boa-fé, como no caso da embargante" (fl. 1.161).
+Requer sejam acolhidos os embargos.
+Não houve apresentação de impugnação pela embargada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.
+1. O aresto embargado contém fundamentação suficiente para demonstrar que, dada a especial eficácia vinculativa do acórdão proferido no REsp 1.141.990/PR (Rel. Min. Luiz Fux, DJe de 19/11/2010), submetido à sistemática prevista no art. 543-C do CPC/1973, posteriormente à 09/06/2005, consideram-se fraudulentas as alienações efetuadas pelo devedor fiscal após a inscrição do crédito tributário na dívida ativa.
+2. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+O recurso não merece prosperar.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Extrai-se do acórdão embargado (fls. 1.153/1.154):
+"Com efeito, em primeiro lugar, a questão debatida no apelo extremo manejado pela Fazenda Nacional é estritamente de direito, não ensejando o revolvimento da matéria de fato, que se mostra vedado em sede de recurso especial em razão do óbice contido na Súmula 7/STJ.
+(..)
+A propósito, verifica-se que, no caso, "o acórdão recorrido está em desacordo com a jurisprudência desta Corte no tocante à ocorrência de fraude à execução de bem alienado após a citação do devedor, mesmo no caso da existência de sucessivas alienações" (AgInt no AREsp 936.605/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/11/2016, DJe 23/11/2016). Isso porque "a Primeira Seção do STJ, no julgamento do REsp 1.141.990/PR, de relatoria do Ministro Luiz Fux, submetido ao rito dos recursos repetitivos (art. 543-C do CPC), sedimentou o entendimento da inaplicabilidade da Súmula 375/STJ às execuções fiscais e que a alienação efetivada antes da entrada em vigor da LC n. 118/2005 (09.06.2005) presumia-se em fraude à execução se o negócio jurídico sucedesse a citação válida do devedor; posteriormente à 09.06.2005, consideram-se fraudulentas as alienações efetuadas pelo devedor fiscal após a inscrição do crédito tributário na dívida ativa" (AgRg no REsp 1525041/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/08/2015, DJe 28/08/2015) (grifou-se)."
+Como se constata, o aresto embargado contém fundamentação suficiente para demonstrar que, dada a especial eficácia vinculativa do acórdão proferido no REsp 1.141.990/PR (Rel. Min. Luiz Fux, DJe de 19/11/2010), submetido à sistemática prevista no art. 543-C do CPC/1973, posteriormente à 09/06/2005, consideram-se fraudulentas as alienações efetuadas pelo devedor fiscal após a inscrição do crédito tributário na dívida ativa.
+Desse modo, a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Diante do exposto, rejeito os embargos de declaração.
+É o voto.
