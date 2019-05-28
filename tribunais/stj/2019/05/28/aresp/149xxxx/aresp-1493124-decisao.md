@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado do Paraná contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 447):
+APELAÇÃO CÍVEL - AÇÃO DE RESTITUIÇÃO DE VALORES - SERVIDORES PÚBLICOS - DESCONTO EM FOLHA DE DIAS DE FALTAS E/OU REVISÃO DE AUSÊNCIA - CHEFE DO CRE MARECHAL QUE RETEVE OS LIVROS PONTOS - AUSÊNCIA DE ATO PELA ADMINISTRAÇÃO PÚBLICA PARA ESCLARECER OS FATOS E JUSTIFICAR OS DESCONTOS EM FOLHA - SERVIDORES QUE TIVERAM O MÊS DE MAIO DE 2008 INTEIRO COMO FALTA - ARBITRARIEDADE RECONHECIDA - AGENDA DE MÉDICO JUNTADA AOS AUTOS COMPROVAM O COMPARECIMENTO DO SERVIDOR - DEMAIS PROVAS COLIGIDAS NOS AUTOS QUE DEMONSTRAM A INEXISTÊNCIA DE FALTA AO SERVIÇO - SENTENÇA DE PRIMEIRO REFORMADA COM INVERSÃO DOS ÔNUS DE SUCUMBÊNCIA - RECURSO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 543/552).
+A parte recorrente aponta violação aos arts. 371, 373, I, 489, § 1º, IV e 1.022, I e II, do CPC/15. Sustenta, em síntese: (I) tese de negativa de prestação jurisdicional e; (II) "com o devido respeito, ao deixar de apontar com precisão quais provas formaram seu convencimento de que as faltas anotadas foram indevidas em relação aos outros cinco Autores, e ainda, responder assim genericamente e deliberadamente se esquivando de enfrenar, decidir e fundamentar relevantes questões suscitadas pelo Estado do Paraná, capazes de infirmar (ainda que parcialmente) a conclusão tirada pelo v. acórdão recorrido, o egrégio Tribunal de Justiça Paranaense patentemente violou a norma do art. 1022, I e II, do CPCI2015, bem como negou vigência às normas que pretendeu interpretar e aplicar - os artigos 371 e 373, I, do CPCI2015.  ..  Como se vê, o v. acordão recorrido (e seu complemento) deliberadamente se recusou a enfrentar e decidir as questões pertinentemente suscitadas pelo Estado do Paraná - acerca da permanência dos ônus da prova de fato constitutivo do direito alegado na inicial com os Autores, da ausência de indicação de provas documentais ou equivalentes da ilegalidade dos descontos pelos demais Autores ([NOME], FAUSTINA VIEIRA VALOMIN, MARIA DO CARMO SANTANA DO VALE, MIRIAM APARECIDA S. DE MIRANDA e MARIA PORFIRIA MARTINS) -, as quais, diga-se de passagem, surgiram somente quando do julgamento do recurso de apelação e da reforma perpetrada na r. sentença, razão pela qual o seu enfrentamento/declaração pelo egrégio Tribunal de Justiça a quo era indeclinável, e sua deliberada recusa injustificável. " (fl. 592).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, I e II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, destaca-se do acórdão recorrido a seguinte fundamentação (fls. 451/454):
+Entretanto salta aos olhos que, os autores tiveram a partir de 2007, várias anotações a título de falta e/ou revisão de ausência, sem contudo, que fosse apresentado aos autos pelo Estado do Paraná o livro ponto que conforme informação constante nos autos fls. 224, ficaram retidas com o Sr. [NOME] unidade CRE, Marechal em Curitiba, veja-se in verbis :
+ ..
+Ademais sequer o Estado do Paraná juntou qualquer documento que comprovaria que as faltas existiram ou até mesmo os documentos que embasaram a revisão de ausência.
+Vale notar que não seria crível que todos os autores tiveram descontados em maio, junho de 2007, 20 dias de trabalho, sem que fosse tomada nenhuma sanção disciplinar contra os mesmos.
+Ademais, a ausência dos livros pontos ou documento correspondente prejudica a defesa dos recorrentes.
+Vale anotar que a administração Pública reconheceu parcialmente o direto dos recorrentes, conforme os próprios apelantes afirmam na sequência 1.13 projudi, que:
+ ..
+Note-se que, o teor do Decreto 8427, de 28/09/2010, em seu art. 2º possui a finalidade de que:
+ ..
+Vale ponderar que, os servidores não podem ser penalizados pelo o extravio dos livros pontos que o ente Público tinha o dever de guardar.
+Registra-se também que, a ausência dos livros pontos não gera a presunção de veracidade dos fatos alegados pelos autores, pois em regra, a presunção de veracidade dos fatos não se aplica contra a Fazenda Pública, dada a indisponibilidade do patrimônio público.
+Todavia, o autor [NOME], através dos documentos juntados às fls. 53/85 demonstrou cristalinamente que os descontos ocorreram de forma indevida, cita-se também a servidora [NOME], que no gozo de férias teve igualmente os dias descontados.
+É bom lembrar que, não cabe ao Poder Judiciário examinar a conveniência ou oportunidade da aplicação das sanções administrativas, cabendo, no entanto, examinar a legalidade, o que importa dizer que se é adequada o desconto dos valores referente as faltas, dentro dos contornos da razoabilidade e proporcionalidade.
+Ressalta que, a Administração Pública, em toda sua atividade, está adstrita ao princípio da legalidade, norma que constituiu diretriz básica da conduta de seus agentes, assim deve ser compelida ao pagamento aos servidores que tiveram os dias descontados a partir de maio de 2007, salvo se liquidação de sentença comprove que os dias foram pagos ou que os descontos foram devidos.
+Nesse contexto, o acolhimento da pretensão recursal, a fim de aferir o cabimento da inversão do ônus da prova esbarra no óbice da Súmula 7/STJ, por demandar incursão na seara fática.
+A propósito do tema, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. ENTENDIMENTO ESTADUAL NO SENTIDO DA AUSÊNCIA DE REQUISITOS ENSEJADORES DA INVERSÃO DO ÔNUS DA PROVA. CONCLUSÃO FUNDADA NA APRECIAÇÃO FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte firmou o entendimento de que a inversão do ônus da prova fica a critério do juiz, conforme apreciação dos aspectos de verossimilhança da alegação do consumidor e de sua hipossuficiência, conceitos intrinsecamente ligados ao conjunto fático-probatório dos autos delineado nas instâncias ordinárias, cujo reexame é vedado em especial, em função da aplicação da Súmula 7 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1196902/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/03/2018, DJe 04/04/2018)
+ADMINISTRATIVO. FORNECIMENTO DE ÁGUA. TROCA DO HIDRÔMETRO. FALHA NA MEDIÇÃO. LAUDO UNILATERAL. INEXIGIBILIDADE DO DÉBITO. INVERSÃO DO ÔNUS DA PROVA. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. O Tribunal de origem decidiu, com base nos elementos de convicção dos autos, pela inexigibilidade do débito cobrado e pela procedência da inversão do ônus da prova.
+3. Assim, insuscetível de revisão, nesta via recursal, o referido entendimento, por demandar reapreciação de matéria fática.
+Incidência da Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no AREsp 453.203/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 20/08/2015, DJe 01/09/2015)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
