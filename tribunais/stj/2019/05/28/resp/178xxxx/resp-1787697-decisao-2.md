@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por CLAUDIA BEZERRA DE SANTANA contra decisão que negou seguimento ao recurso especial, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+CIVIL E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. RESCISÃO UNILATERAL. INOBSERVÂNCIA DA OBRIGAÇÃO DE DISPONIBILIZAÇÃO DE PLANO DE SAÚDE NA MODALIDADE INDIVIDUAL. ABUSIVIDADE RECONHECIDA. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA DA PARTICIPANTE. ILICITUDE RECONHECIDA. DANOS MORAIS. NÃO CONFIGURAÇÃO.
+1. A Resolução n. 19 do Conselho de Saúde Suplementar - CONSU estabelece que as operadoras de assistência à saúde devem oferecer um plano na modalidade individual quando houver extinção da modalidade coletiva, sem a necessidade de cumprir novo prazo de carência.
+2. De acordo com o parágrafo único do artigo 17 da Resolução ANS nº 195/2009, é permitida a rescisão unilateral imotivada do contrato de plano de saúde coletivo, desde que obedecida a vigência do período de doze meses e mediante prévia notificação da parte contratante, com antecedência mínima de 60 (sessenta) dias.
+3. Evidenciado que, na hipótese dos autos, a rescisão imotivada do plano de saúde, embora reprovável, não teria o condão de acarretar abalo psicológico de grande relevância, tem-se por inviabilizado o acolhimento da pretensão indenizatória a título de danos morais, circunscrevendo-se os transtornos experimentados a meros aborrecimentos decorrentes do descumprimento contratual.
+4. Recurso de Apelação conhecido e parcialmente provido.
+Opostos embargos de declaração, esses foram rejeitados pelo Tribunal de origem.
+Nas razões do especial, aponta a agravante violação dos artigos 186 e 927 do Código Civil; e 35-C da Lei 9.656/98. Alega que faz jus à reparação econômica por dano moral, dada injusta interrupção de assistência médica por parte das recorridas.
+Aduz que, em razão dos atos ilícitos praticados pelas agravadas, ficou "evidente nexo de causalidade entre a rescisão unilateral indevida e a interrupção de cobertura pelas Recorridas, resta inconsteste o direito a reparação por danos morais" (fl. 393, e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+No tocante ao pleito de reparação econômica por danos morais, é assente que ao dever de indenizar impõe-se a presença dos requisitos exigidos para a responsabilização civil, nos termos em que estatuídos nos arts. 186, 187 e 927 do Código Civil.
+Para a configuração do dano moral, há de existir uma consequência mais grave em virtude do ato que, em tese, tenha violado o direito da personalidade, provocando dor, sofrimento, abalo psicológico ou humilhação consideráveis à pessoa, e não quaisquer dissabores da vida.
+O Tribunal de origem assim se manifestou sobre a controvérsia (fl. 351, e-STJ):
+No que se refere à indenização por danos morais, tenho que a pretensão recursal não merece prosperar.
+Com efeito, entendo que a rescisão imotivada do plano de saúde sem observar os requisitos necessários, embora reprovável, por si só, não se mostra apta a gerar danos de ordem moral.
+Nada obstante a autora preferisse, à época, o acompanhamento de seu médico ginecologista/obstetra, a rescisão do plano de saúde com a operadora AMIL não impediria a continuidade do acompanhamento da gestação, podendo a autora se valer do atendimento sem plano de saúde, ou buscando outro médico credenciado ao novo plano de saúde disponibilizado (UNIMED FESP).
+Ademais, consta dos autos que foi cumprida a liminar exarada em sede de antecipação de tutela, restabelecendo-se o contrato de plano de saúde firmado com a autora (fl. 64).
+Assim, não vislumbro demonstrados nos autos indícios de abalos psicológicos suficientes a justificar o reconhecimento do direito à indenização por danos morais em favor da autora, circunscrevendo-se os transtornos experimentados a meros aborrecimentos decorrentes do descumprimento contratual.
+Entende-se que a situação de fato, para gerar danos morais, deveria ter repercutido no patrimônio imaterial da autora de forma reflexa, o que não ficou demonstrado, conforme delineado pelo acórdão recorrido, sendo que a falha na prestação dos serviços por parte da ré significou, segundo o que consta dos autos, nada mais do que meros aborrecimentos e dissabores. Tem-se que as ocorrências narradas não geram, por si sós, dano à moral.
+Nesse contexto, verifica-se que rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Intimem-se.
