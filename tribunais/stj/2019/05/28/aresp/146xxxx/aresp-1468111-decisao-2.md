@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] e outros contra decisão que não admitiu recurso especial (fls. 1.022/1.023), este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 912):
+Ação civil pública - Pedido de obrigação de fazer e recuperação de áreas - Ação parcialmente procedente - Pedido formulado de acordo com o anterior Código Florestal embora já em vigor o novo Código - Arguição de inconstitucionalidade de dispositivos da Lei 12.651, de 2012, já na inicial, como forma de afastar as alterações que em tese contrariam os princípios da Constituição Federal - Rejeição acertada - Nova Lei Ambiental com aplicação imediata e sem restrições constitucionais - Recurso do MP improvido - Alegação de cumprimento das obrigações impostas na sentença - Recurso dos réus improvido diante da impossibilidade de se reconhecer nesta instância o cumprimento das obrigações, que dependem da apreciação do plano de recuperação perante o órgão ambiental - Recursos improvidos
+Opostos embargos declaratórios pela outra parte agravante, foram rejeitados (fls. 926/932).
+Nas razões do recurso especial, a parte aponta violação aos arts. 128 e 460 do CPC/73; e 489, § 1º, IV, e 1.022 do CPC/2015. Sustenta que: (I) o Tribunal de origem foi omisso; e (II) a pretensão do Ministério Público era a aplicação do Código Florestal revogado à hipótese, de modo que, ao decidir pelo descumprimento de normas do Novo Código Florestal, a sentença incorreu em julgamento extra petita, não havendo pedido no mesmo sentido do que restou decidido.
+Contrarrazões às fls. 1.010/1.014.
+Contraminuta ao agravo às fls. 1.078/1.080.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo não conhecimento do agravo e do recurso especial (fls. 1.093/1.101).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, nota-se que dois recursos especiais e dois agravos de conteúdos idênticos foram apresentados pela parte ora agravante. Desse modo, em atenção aos princípios da preclusão consumativa e da unirrecorribilidade, apenas o primeiro recurso especial (fls. 946/960) e o primeiro agravo (fls. 1.047/1.057) serão apreciados.
+Feita essa observação verifica-se que, na espécie, não houve oposição de embargos de declaração perante a Corte de origem pelo ora recorrente. Assim, ao indicar violação aos arts. 1.022 e 489 do [PLACA], revela-se manifesta a deficiência na fundamentação do recurso especial. Imperiosa, portanto, a incidência do óbice constante da Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.".
+Quanto à tese de que haveria julgamento extra petita, o Tribunal de origem assim dirimiu a controvérsia (fl. 920):
+Quanto aos recursos dos réus, inicialmente cabe dizer que a proposta de arguição de vício na r. sentença, seduz mas não convence.
+Com efeito, o fato de a decisão ter aplicado ao caso a nova legislação ambiental, não bem em consonância com o que foi pedido pelo autor da ação, não implica em qualquer julgamento extra petita, porque como é sabido, a parte se limita a dar os fatos e o juiz o direito.
+Esse princípio é ainda aplicado.
+Exposto o fato, o juiz aplicará o direito, ainda que não alegado o dispositivo legal ou alegado equivocadamente.
+Aplicação do princípio iura novit cúria, que se traduz no dever que o juiz tem de conhecer a norma jurídica e aplica-la por sua própria autoridade.
+Assim, se os fatos narrados na inicial estiverem em desacordo com o que prevê a nova legislação, que, aliás, favorece a parte, tem-se que o pedido se encontra devidamente apto a ser conhecido.
+No presente caso, nota-se que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, o de que, pela aplicação do princípio do iura novit curia, seria possível ao magistrado aplicar o direito aos fatos narrados, ainda que a fundamentação legal da peça exordial seja equivocada ou distinta.
+Esbarra-se, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
