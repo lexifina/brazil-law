@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED PAULISTANA SOC COOPERATIVA DE TRABALHO MÉDICO - em liquidação extrajudicial, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, em face de acórdão da seguinte forma ementado:
+AÇÃO DE COBRANÇA - NOTAS FISCAIS E COMPROVANTES DE GLOSA NÃO IMPUGNADOS PELA RÉ. JUROS E CORREÇÃO MONETÁRIA NÃO SÃO SUSPENSOS PELA DECRETAÇÃO DA LIQUIDAÇÃO EXTRAJUDICIAL, CONFORME ENTENDIMENTO DO STJ. SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+Nas razões do especial, aponta a parte recorrente existência de dissídio jurisprudencial, além de violação do artigo 18, alínea "d", da Lei n. 6.024/74. Alega que a fluência dos juros de mora devem ser suspensos em face da decretação de sua liquidação extrajudicial.
+O recurso foi admitido na origem, nos termos da decisão de fls. 13.277-13.278, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+No tocante aos juros, o entendimento desta Corte é no sentido de que, em regime de liquidação extrajudicial, não há fluência de juros enquanto não integralmente pago o passivo.
+Confiram-se, a propósito, os seguintes precedentes:
+PROCESSUAL CIVIL E COMERCIAL. CORRETORA DE VALORES. REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. SÚMULA N. 211/STJ. DL N. 7.661/1945. ART. 44, VI. APLICAÇÃO. CORREÇÃO MONETÁRIA. CABIMENTO. SÚMULA N. 43/STJ. ATO ILÍCITO ABSOLUTO E ATO ILÍCITO RELATIVO. JUROS DE MORA. CITAÇÃO.
+1. Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (Súmula n. 211/STJ).
+2. Decretado o regime de liquidação extrajudicial de corretora de valores, aplicável o disposto no art. 44, V, da antiga Lei de Falências (DL n. 7.661/1945) às vendas a termo de títulos e valores mobiliários, se tanto a comitente vendedora, atuando como intermediária, quanto a compradora deixam de efetuar o pagamento respectivo no tempo e na forma pactuados.
+3. "É entendimento consolidado da Corte que a evolução dos fatos econômicos tornou insustentável a não-incidência da correção monetária, sob pena de prestigiar-se o enriquecimento sem causa do devedor, constituindo-se ela imperativo econômico, jurídico e ético indispensável à plena realização dos danos e ao fiel e completo adimplemento das obrigações" (REsp n. 247.685/AC, relator Ministro Sálvio de Figueiredo Teixeira, DJ de 5.6.2000).
+4. O enunciado da Súmula n. 43/STJ refere-se tanto ao ato ilícito absoluto (extracontratual) quanto ao ato ilícito relativo (contratual). Precedentes.
+5. Conforme disposto no art. 18, alínea "d", da Lei n. 6.024/1974, decretada a liquidação extrajudicial da empresa, não há fluência de juros enquanto não integralmente pago o passivo. No caso, porém, não tendo havido recurso da parte interessada quanto ao ponto, deve ser mantido o entendimento adotado no acórdão recorrido, que determinou a incidência da norma contida no art. 219 do CPC e, como consequência, fixou a fluência dos juros moratórios desde a citação válida. 6. Recurso da primeira recorrente conhecido e parcialmente provido. Recurso da segunda recorrente parcialmente conhecido e desprovido.
+(REsp n. 887.131/RJ. Relator Ministro João Otávio de Noronha, Terceira Turma, DJe 14/10/2013)
+CIVIL. PROCESSUAL CIVIL. LIQUIDAÇÃO EXTRAJUDICIAL. AÇÃO DE PRESTAÇÃO DE CONTAS EM SEGUNDA FASE. JUROS MORATÓRIOS. SUSPENSÃO DA FLUÊNCIA. LEI N. 6.024/74. PROVIMENTO.
+1. Na liquidação extrajudicial, a exemplo do que ocorre durante o processamento da falência (Lei 11.101/2005, art. 124), os juros, sejam eles legais ou contratuais, têm sua fluência suspensa por força do art. 18, "d", da Lei n. 6.024/74.
+2. O motivo da suspensão da fluência dos juros é uma presunção legal, de caráter relativo, de que o ativo não é suficiente para o pagamento de todos os credores. Assim, após a satisfação do passivo aos credores habilitados, e havendo ativo que os suporte, serão pagos os juros contratuais e os legais vencidos durante o período do processamento da falência ou liquidação extrajudicial.
+3. Recurso especial conhecido e provido.
+(REsp 1102850/PE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 13.11.2014).
+Em face do exposto, dou provimento ao recurso especial, para declarar a suspensão da fluência dos juros moratórios a partir do decreto de liquidação extrajudicial da instituição recorrente, nos termos acima, ficando ressalvado o direito aos juros moratórios do período de liquidação caso sobejem recursos após a satisfação dos credores habilitados, observada a ordem do quadro geral dos credores do art. 26, § 4º, da Lei n. 6.024/74.
+Mantenho as verbas honorárias e de sucumbência conforme fixados na origem.
+Intimem-se.
