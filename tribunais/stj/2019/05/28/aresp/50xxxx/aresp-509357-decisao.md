@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo fundado no CPC/73, manejado por Cooperativa Vinícola Garibaldi Ltda., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 1.109):
+DIREITO TRIBUTÁRIO. IMPOSTOS. CAUTELAR. Inadequação do rito. Inocorrência. Oferecimento de precatório para garantia do crédito tributário. Inviabilidade, no caso concreto, diante da insuficiência da garantia. Preliminar rejeitada. Apelação do Estado provida. Apelação da autora prejudicada.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.128/1.131).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 535, 620, 673 e 682 do CPC/73 e 11 da Lei 6.830/80. Sustenta que: (I) a despeito dos embargos de declaração, o Tribunal de origem remanesceu omisso acerca da aplicação dos arts. 567, II, e 682 do CPC/73; 215, 286 a 290 do Código Civil e 100, §§ 13 e 14, da Constituição Federal; (II) "os bens (precatórios) ofertados na ação cautelar de caução devem ser aceitos pelo seu valor de face, sendo os mesmos suficientes para garantia dos débitos, principalmente pelo fato de que o intuito da ação é apenas renovar a CPD-EN e não ter o nome da cooperativa, ora Recorrente, incluído no CADIN/RS" (fl. 1.147).
+Contrarrazões às fls. 1.154/1.174.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, referente à insuficiência da garantia ofertada na ação cautelar de caução, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+O tribunal local deu provimento à apelação do Estado do Rio Grande do Sul para julgar improcedente a ação cautelar de caução de precatórios oferecidos para fins de garantia de futuras execuções fiscais, adotando os seguintes fundamentos quanto à insuficiência da garantia ofertada (fls. 1.112/1.113):
+No mérito, assiste razão ao Estado.
+A presente ação cautelar visa à indicação de parte de precatórios à garantia da dívida em cobrança administrativa, em resguardo à futura execução fiscal, garantindo-se a expedição de Certidão Positiva com Efeitos de Negativa e impedindo inscrição junto ao CADIN.
+A questão referente à possibilidade de nomeação à penhora
+dos créditos advindos de cessão de precatórios é matéria pacificada nesta Câmara, em consonância com o entendimento do STJ.
+Entretanto, no caso dos autos, não vislumbro presente a possibilidade de acolher a pretensão inicial, diante da insuficiência da garantia ofertada.
+As Escrituras Públicas de Cessão de Direitos Creditórios (fls. 30/5460) demonstram que a autora adquiriu parte dos créditos referentes aos Precatórios que elenca, pelo valor total de R$ 2.464.210,33, sendo deferida as respectivas habilitações da cessionária.
+A autora informa que o débito em fevereiro de 2012, importava em R$ 2.463.479,63.
+Diante desse quadro, a insuficiência da garantia oferecida exsurge cristalina, pois, obviamente, o valor de mercado do precatório corresponderá a valor bem inferior ao de face, tal como já adquirido pela adquirente/apelada.
+Assim, rejeito a preliminar e dou provimento ao apelo para julgar improcedente o pedido inicial, suportando a autora as despesas processuais e os honorários advocaticios fixados em R$ 1.000,00, corrigidos pelo IGP-M a contar desta data.
+Resta prejudicada a apelação da autora.
+A alteração das conclusões adotadas pela Corte de origem, de que a garantia oferecida, no caso, precatórios adquiridos por meio de cessão de direitos, seria insuficiente para tanto, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
