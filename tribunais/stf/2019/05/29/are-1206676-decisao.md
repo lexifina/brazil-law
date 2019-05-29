@@ -1,0 +1,22 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “REPARAÇÃO DE DANOS - ACIDENTE DE TRÂNSITO - VIATURA POLICIAL E VEÍCULO PARTICULAR - DIREITO DE REGRESSO - ART. 37, § 60, DA CF - POLICIAL MILITAR - Agente que conduzia a viatura pela contramão e com a sirene desligada - Colisão com veículo particular que estava na mão de direção - Sindicância que apurou a responsabilidade do miliciano pelo evento danoso - Culpa evidenciada do agente - Ação improcedente - Decisão reformada - Ressarcimento devido - Recurso provido ” (pág. 3 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 93, IX e 144, § 5°, § 7°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem assim decidiu a questão discutida nos autos:
+    “[...] De acordo com os documentos acostados aos autos, constata-se que o réu, ao atender à solicitação de um pedestre que se disse vítima de roubo, conduziu a viatura policial pela rua Cristóvão Colombo pela contramão, com a iluminação ligada mas sem acionar a sirene, vindo a colidir com o veículo Audi A6 de Sérgio Rosenthal, que dirigia na mão de direção, causando-lhe danos no montante de R$ 11.096,81, já indenizados ao particular, que celebrou acordo com a Fazenda Pública (fls. 47/59).
+    A sindicância instaurada concluiu pela responsabilidade do miliciano condutor da viatura pelo acidente ocorrido (fls. 29):
+    ‘7) Na Esfera Civil - não há responsabilidade a ser imputada aos milicianos uma vez que não houve danos na Viatura conforme Termos de Vistoria e Avaliação, não restando ônus ao Estado; porém quanto ao auto particular caberá a seu proprietário ou quem o represente questionar a reparação dos danos causados, uma vez que o Sd PM 812364-A BARROS, desta Unidade, deu causa ao acidente.’
+    Com efeito, é cediço que os veículos de socorro, ambulâncias e viaturas policiais gozam de preferência no trânsito, desde que preenchidas as condições estabelecidas no art. 29, VII, do CTB:
+    ‘- os veículos destinados a socorro de incêndio e salvamento, os de polícia, os de fiscalização e operação de trânsito e as ambulâncias, além de prioridade de trânsito, gozam de livre circulação, estacionamento e parada, quando em serviço de urgência e devidamente identificados por dispositivos regulamentares de alarme sonoro e iluminação vermelha intermitente, observadas as seguintes disposições:’
+    O próprio réu admitiu, quando prestou declarações na sindicância instaurada, não ter ligado a sirene da viatura (fls. 21): ,
+    ‘(...) Perguntado ao declarante se os sinais luminosos e sonoros da viatura estavam acionados no momento da colisão, respondeu que os sinais luminosos (giroflex) e faróis estavam e a sirene não.’
+    E nem se alegue que a ação do réu, visando proteger a sociedade, autorizava conduzir a viatura em perseguição ao meliante pela contramão e com a sirene desligada, pois o dano causado ao veículo particular foi muito maior que o bem jurídico que se buscava proteger. Tanto é que a vítima do roubo dispensou a elaboração de boletim de ocorrência (fls. 19).
+    O fato de estar chovendo no momento do acidente, condição confirmada pelos depoimentos de fls. 129/130, não foi causa determinante do evento danoso, sendo que o réu, em tal condição deveria ter sido ainda mais cauteloso ao dirigir.
+    Desta forma, a prova colacionada aos autos permite concluir que houve culpa do réu no acidente que causou danos ao veículo particular, culminando, dessa forma, na procedência da ação” (págs. 4-6 do documento eletrônico 3).
+    Observa-se, dessa forma, que para dissentir do acórdão recorrido e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório constante dos autos – o que é vedado pela Súmula 279/STF –, bem como seria imprescindível a interpretação da legislação infraconstitucional aplicável à espécie (Código de Trânsito Brasileiro), sendo certo que eventual ofensa à Constituição Federal seria indireta, o que inviabiliza o recurso.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) os honorários advocatícios anteriormente fixados pelo juízo de origem, observando-se que foi deferido o benefício da gratuidade de justiça ao recorrente.
+    Publique-se.
+    Brasília, 29 de maio de 2019.
+Ministro Ricardo Lewandowski
+Relator
