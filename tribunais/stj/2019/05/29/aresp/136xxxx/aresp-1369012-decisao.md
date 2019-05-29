@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. RESCISÃO CONTRATUAL. ENVIO DE COBRANÇA E RECEBIMENTO SEM RESSALVA APÓS A NOTIFICAÇÃO DA RESCISÃO. CONTRATO MANTIDO. REEXAME. SÚMULA 7/STJ. AFRONTA À RESOLUÇÃO. IMPOSSIBILIDADE. NÃO INCLUSÃO NO CONCEITO DE LEI FEDERAL.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A contra decisão do Tribunal de Justiça do Estado do Rio Grande do Norte que inadmitiu o seu recurso especial manejado em face do acórdão, assim ementado:
+EMENTA: APELAÇÃO CÍVEL. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. CONTRATO DE PRESTAÇÃO DE SERVIÇO MÉDICO-HOSPITALAR. RESCISÃO UNILATERAL. CLÁUSULA CONTRATUAL EXPRESSA. POSSIBILIDADE. NOTIFICAÇÃO PRÉVIA DA EXTINÇÃO. CONTINUIDADE DE COBRANÇAS DAS MENSALIDADES. RESTABELECIMENTO DO VÍNCULO CONTRATUAL. OBSERVÂNCIA AO PRINCÍPIO DA BOA -FÉ OBJETIVA. RECURSO CONHECIDO E DESPROVIDO.(e-STJ fl. 325)
+Os embargos opostos foram rejeitados. (e-STJ fls. 358/365)
+Em suas razões recursais, a recorrente aponta violação aos artigos 13, parágrafo único, II da Lei 9.656/98 e 17 da RN 195 da ANS. Sustenta, em síntese, a regularidade do cancelamento do contrato do plano de saúde coletivo. Refere que O fato de ter ocorrido o envio da fatura integral correspondente ao mês em que houve a comunicação da rescisão, não demonstra interesse em dar continuidade a relação contratual (..)
+Contrarrazões ao recurso especial apresentadas, às fls. 400/409 e-STJ, sobreveio juízo negativo de admissibilidade do Tribunal de origem, às fls. 416/417 e-STJ, o que ensejou a interposição do presente agravo.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, registre-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ.
+A Corte de origem, soberana na análise do conteúdo fático-probatório dos autos, referindo-se ao princípio da boa-fé objetiva, concluiu que o envio de cobrança, após a notificação de cancelamento do contrato, bem como o recebimento da mensalidade sem ressalva, caracterizou a renovação do contato do plano de saúde coletivo, conforme se extrai do seguinte excerto do acórdão combatido:
+Na hipótese, constata-se ser possível a rescisão unilateral do contrato por se tratar de um plano de saúde coletivo, tendo em vista a disposição contratual acima citada, desde que haja notificação prévia ao usuário, nos termos do artigo 17, parágrafo único, da Resolução nº 195/2009 expedida pela Agência Nacional de Saúde nº 195/2009, como ocorreu nos autos.
+Todavia, a despeito de evidenciada a ciência do beneficiário de plano de saúde coletivo acerca da rescisão do contrato, posteriormente, a operadora do plano continuou a emitir novos boletos de cobrança, fazendo crer que seguiria prestando os seus serviços, na medida em que exigiu a sua contraprestação, e, por conseguinte, elidiu a pretensão da apelante de descontinuar a renovação do liame contratual.
+Merece destaque trecho da fundamentação do magistrado exarado por ocasião da prolação da sentença hostilizada, que a seguir transcrevo:
+Considerando o entendimento firmado na corte superior, as operadoras de plano de saúde não estão vinculadas a renovação obrigatória do contrato. Ou seja, o plano de saúde coletivo pode se recusar a renovar. Acontece que, no caso em tela, não se trata de negativa de renovação, mas de rescisão unilateral da avença.
+É que, embora a parte ré tenha manifestado interesse em não prorrogar o contrato (fl. 23), de modo contraditório, enviou fatura de pagamento da prestação do serviço com data de vencimento em 04/05/2010, referente ao mês completo de maio de 2010. A atitude do réu gerou legítima expectativa ao autor de que o contrato fora prorrogado.
+Com isso, não é possível falar em direito a não prorrogação da avença, pois este não é o tema em destaque. Aqui, ocorreu a renovação tácita do contrato consubstanciada no pagamento da fatura do mês de maio de 2010.
+()" Desse modo, a cobrança das mensalidades, após notificar o cancelamento do contrato, associada ao recebimento sem ressalva dos valores pagos pela apelada, é ato contrário à intenção de rescisão contratual por parte da apelante, o que permite reconhecer a renovação do contrato em referência, com fundamento no princípio da boa -fé objetiva, cuja função é estabelecer um padrão ético de conduta para as partes nas relações obrigacionais.
+10 "(..) (e-STJ fls. 328/329)
+Dessa forma, para se infirmar a conclusão a conclusão do eg. Tribunal a quo, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento inviável na instância especial, a teor da Súmula nº 7 desta Corte.
+Em relação à alegada violação à Resolução 195 da ANS , impende salientar que a suposta violação a texto normativo de Resoluções ou Circulares não viabiliza a abertura desta instância excepcional, posto não se enquadrarem no conceito de lei federal para fins de autorização da interposição do recurso especial.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANUTENÇÃO EM PLANO DE SAÚDE. EX-FUNCIONÁRIO. 1. VIOLAÇÃO AO ART. 535 DO CPC/1973. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INEXISTÊNCIA. 2. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS LEGAIS TIDOS COMO VIOLADOS. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 3. AFRONTA A RESOLUÇÕES. ANÁLISE. IMPOSSIBILIDADE. NÃO INCLUSÃO NO CONCEITO DE LEI FEDERAL. 4. PLANO DE SAÚDE COLETIVO. APOSENTADORIA DO BENEFICIÁRIO. MANUTENÇÃO DAS MESMAS CONDIÇÕES DE ASSISTÊNCIA MÉDICA E DE VALORES DE CONTRIBUIÇÃO. INTERPRETAÇÃO DO ART. 31 DA LEI 9.656/98. VERBETE SUMULAR N. 83/STJ. 5. AGRAVO IMPROVIDO.
+ ..  3. Não é possível a interposição do recurso especial sob a alegação de violação à resolução, portaria, circulares e demais atos normativos de hierarquia inferior a Decreto, por não revestirem o conceito de lei federal.  ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 949.122/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2016, DJe 07/11/2016).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015 tendo em vista que o patamar fixado na origem encontra-se em seu limite máximo legal, consoante e-STJ fl. 99.
+Intimem-se.
