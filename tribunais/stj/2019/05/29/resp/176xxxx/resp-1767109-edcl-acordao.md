@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Hipótese em que o acórdão embargado concluiu: a) In casu, a sentença foi publicada em 28.10.2010 (fl. 352, e-STJ), antes do início da vigência do CPC/2015, o qual se deu na data de 18.3.2016, conforme o teor dos Enunciados Administrativos 2 e 3 do STJ; b) Neste ponto, o acórdão recorrido guarda consonância com o entendimento do STJ de não se aplicarem as regras do art. 85, §§ 1º, 2º e 3º, do CPC/2015, direcionadas ao arbitramento dos honorários advocatícios sucumbenciais, na hipótese em que a sentença tiver sido proferida na vigência do antigo diploma processual civil; c) O STJ pacificou a orientação de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, aos quais competem a cognição e a consideração das situações de natureza fática; d) Nesses casos, o STJ atua na revisão da verba honorária somente quando esta tratar de valor irrisório ou exorbitante, o que não se configura na presente hipótese. Assim, o reexame das razões de fato que conduziram o Tribunal de origem a tais conclusões significaria usurpação da competência das instâncias ordinárias. Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implica o reexame da matéria fático-probatória, o que é obstado a este Tribunal Superior, conforme determina a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial." .
+2. A solução integral da divergência, com motivação suficiente, não caracteriza violação ao art. 1.022 do CPC/2015.
+3. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+4. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão da Segunda Turma do STJ cuja ementa é a seguinte:
+PROCESSUAL CIVIL. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. ENUNCIADOS ADMINISTRATIVOS 2 E 3 DO STJ. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VALOR ARBITRADO NA SENTENÇA SOB A ÉGIDE DO CPC/1973. REVISÃO. IMPOSSIBILIDADE. IRRISORIEDADE NÃO CARACTERIZADA. INCIDÊNCIA DA SÚMULA 7 DO STJ. HONORÁRIOS SUCUMBENCIAIS RECURSAIS. SÚMULA ADMINISTRATIVA 7/STJ. MAJORAÇÃO NA FASE RECURSAL. CABIMENTO. INCLUSIVE NA HIPÓTESE DE INÉRCIA DA PARTE RECORRIDA. OBSERVÂNCIA DOS LIMITES DO §11 DO ART. 85 DO CPC/2015.
+1. Constata-se que o Tribunal de origem não alterou o quantum dos honorários advocatícios sucumbenciais, fixados em sentença no montante de R$ 2.500 (dois mil e quinhentos reais), mas tão somente inverteu a condenação, tendo em vista o provimento do recurso de Apelação.
+2. In casu, a sentença foi publicada em 28.10.2010 (fl. 352, e-STJ), antes do início da vigência do CPC/2015, o qual se deu na data de 18.3.2016, conforme o teor dos Enunciados Administrativos 2 e 3 do STJ.
+3. Neste ponto, o acórdão recorrido guarda consonância com o entendimento do STJ de não se aplicarem as regras do art. 85, §§ 1º, 2º e 3º, do CPC/2015, direcionadas ao arbitramento dos honorários advocatícios sucumbenciais, na hipótese em que a sentença tiver sido proferida na vigência do antigo diploma processual civil.
+4. O STJ pacificou a orientação de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, aos quais competem a cognição e a consideração das situações de natureza fática.
+5. Nesses casos, esta Corte Superior atua na revisão da verba honorária somente quando esta tratar de valor irrisório ou exorbitante, o que não se configura na presente hipótese. Assim, o reexame das razões de fato que conduziram o Tribunal de origem a tais conclusões significaria usurpação da competência das instâncias ordinárias. Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implica o reexame da matéria fático-probatória, o que é obstado a este Tribunal Superior, conforme determina a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+6. Todavia, assiste razão aos recorrentes quanto ao que estabelece o art. 85, § 11, do CPC/2015 e a Súmula Administrativa 7 do STJ, que disciplina a aplicação do mencionado dispositivo legal diante do direito intertemporal: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do novo CPC".
+7. No caso específico do autos, trata-se de processo eletrônico, no qual se constata que a publicação do acórdão recorrido foi em 12.12.2017 (fl. 437, e-STJ).
+8. Segundo orientação do STJ, "(..) a interposição de recurso sob a égide da nova lei processual possibilita a majoração dos honorários advocatícios, mesmo quando não apresentadas contrarrazões, nos termos do art. 85, § 11, do CPC/2015". (AgInt no REsp 1.676.964/RO, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 1º/2/2018).
+9. Por conseguinte e diante das circunstâncias do caso, majora-se em 10% (dez por cento) os honorários fixados anteriormente.
+10. Ressalte-se que a majoração da verba sucumbencial deve se ater, por ocasião da liquidação de sentença, aos limites previstos nos §11 do art. 85 do CPC/2015.
+11. Recurso Especial parcialmente provido para majorar os honorários fixados anteriormente em 10% (dez por cento), nos termos do art. 85, § 11, do CPC/2015.
+A parte embargante sustenta:
+Ou seja, o v. acórdão recorrido foi omisso quanto: (i) à necessária aplicação do CPC/15 (diante dos julgamentos do E. TJ/SP e C. STJ sob a égide do CPC/15); (ii) quanto à visível irrisoriedade do valor de R$ 2.500,00 frente ao débito extinto (benefício econômico que coincide com o valor da causa) e (iii) subsidiariamente, ainda que se defenda a aplicação do CPC/73, o v. acórdão incorreu em omissão quanto ao pedido de readequação pautado nos parâmetros do art. 20, que também observavam o valor envolvido e que, repita-se, não foi apreciado por ocasião do v. acórdão embargado, com a devida vênia.
+Impugnação às fls. 617-620, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 6.2.2019.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Assim, verifico que o inconformismo da parte embargante busca emprestar efeitos infringentes, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é incabível nesta via recursal.
+Com efeito, os vícios elencados nas razões recursais não prosperam, porquanto a matéria foi integralmente analisada pela Segunda Turma.
+Não verifico na espécie sub judice qualquer omissão, contradição, obscuridade ou erro material no acórdão embargado, senão o intuito de rediscutir matéria já decidida, emprestando-lhe o efeito infringente.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Nesse sentido:
+EMBARGOS DECLARATÓRIOS EM RECURSO ESPECIAL (..) AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO. SIMPLES DESCONTENTAMENTO DOS EMBARGANTES COM A SOLUÇÃO DA CONTROVÉRSIA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+(..)
+4. O simples descontentamento da parte com a solução adotada não autoriza a oposição de Embargos Declaratórios, como tantas vezes afirmado pela jurisprudência desta Corte.
+5. Embargos Declaratórios rejeitados.
+(EDcl no REsp 1130545/RJ, Rel. Ministro Napoleão NUNES Maia Filho, Primeira Seção, DJe 5.8.2013, grifei)
+(..) VIOLAÇÃO. ARTIGO 535 DO CPC. NÃO OCORRÊNCIA.
+I - O simples descontentamento com o decisum não gera violação ao artigo 535 do CPC se o Tribunal decidiu satisfatoriamente a lide, ainda que contrário ao interesse da agravante. Os embargos de declaração não visam à reforma do julgado, mas tão-somente servem para sanar vícios, sem os quais não estará configurada a hipótese de cabimento dos aclaratórios. Pretendendo a alteração do julgado, deve o interessado se utilizar dos recursos cabíveis.
+(..)
+(AgRg no REsp 1140356/SP, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 24.8.2012, grifei)
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que a reiteração será considerada expediente protelatório sujeito à multa prevista no artigo 1.026, § 2º, do Código de Processo Civil.
+É como voto.
