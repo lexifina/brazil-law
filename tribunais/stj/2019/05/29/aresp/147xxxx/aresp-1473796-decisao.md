@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA. SENTENÇA QUE ACOLHEU PRELIMINAR DE ILEGITIMIDADE PASSIVA AD CAUSAM E EXTINGUIU O FEITO SEM RESOLUÇÃO DO MÉRITO EM RELAÇÃO AO RECORRENTE. IRRESIGNAÇÃO QUANTO AO VALOR FIXADO A TITULO DE HONORÁRIOS ADVOCATÍCIOS. VERBA INSUFICIENTE. APLICAÇÃO DO ART. 20, §§ 3º E 4º, DO CÓDIGO DE PROCESSO CIVIL DE 1973. REMUNERAÇÃO QUE IMPÕE MAJORAÇÃO.
+"Revela-se ínfimo o valor dos honorários advocatícios de sucumbência que não remuneram condignamente o advogado que dispendeu seus conhecimentos técnicos e seu tempo na ação." (TJSC, Apelação Cível n. 2011.038955-3, de Blumenau, rel. Des. João Batista Góes Ulysséa, Segunda Câmara de Direito Civil, j. 27-09-2012).
+RECURSO CONHECIDO E PROVIDO" (fl. 180 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+As razões do recurso especial alegam a violação dos arts. 14, 85, §§ 2º, 6º e 8º e 1.046 do Código de Processo Civil/2015.
+Sustentam que por ocasião do recurso de apelação deveriam ter sido aplicados os parâmetros do art. 85 do Código de Processo Civil/2015 para a majoração da verba de sucumbência.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Quanto à aplicação do Código de Processo Civil de 2015, o Plenário do Superior Tribunal de Justiça, em 9/3/2016, aprovou o Enunciado Administrativo nº 2, segundo o qual,
+"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+O mesmo entendimento é aplicado na jurisprudência desta Corte, a saber:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO IMPUGNADA PUBLICADA ANTES DA VIGÊNCIA DO NOVO CPC. APLICABILIDADE NA ESPÉCIE DO CPC DE 1973. PRINCÍPIO DO TEMPUS REGIT ACTUM. FALHA NA REPRESENTAÇÃO PROCESSUAL DO ADVOGADO SUBSCRITOR DO RECURSO ESPECIAL. SÚMULA 115/STJ. INAPLICABILIDADE DOS ARTS 13 E 37 DO CPC/73 NA INSTÂNCIA ESPECIAL. PRECEDENTES.
+1. Observando o disposto na Lei n. 810/1.949 c/c Lei Complementar 95/1.998, a vigência do novo Código de Processo Civil, instituído pela Lei n. 13.105, de 16 de março de 2015, iniciou-se em 18 de março de 2016 (Enunciado Administrativo n. 1, aprovado pelo Plenário do Superior Tribunal de Justiça em 2/3/2016).
+2. Em homenagem ao princípio tempus regit actum, o Superior Tribunal de Justiça consolidou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência da exata compreensão dos fundamentos do provimento jurisdicional que pretende combater. Precedentes.
+3. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+4. "Nos recursos tempestivos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016), não caberá a abertura de prazo prevista no art. 932, parágrafo único, c/c o art. 1.029, § 3º, do novo CPC. (Enunciado Administrativo n. 5, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+5. Na espécie, o agravo regimental impugna decisão publicada na vigência do CPC de 1973, sendo exigidos, pois, os requisitos de admissibilidade na forma prevista naquele código de ritos, com as interpretações dadas, até então, pela jurisprudência desta Corte e não cabendo a abertura de prazo para seja sanado vício ou complementada a documentação exigível.
+6. "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" (Súmula 115/STJ).
+7. Consoante iterativa jurisprudência, os arts. 13 e 37 do CPC não têm aplicação nesta instância.
+8. O entendimento jurisprudencial deste Superior Tribunal determina que cabe ao recorrente demonstrar a regularidade na capacidade postulatória, ainda que o mandato esteja constituído nos autos da ação principal. Precedentes.
+9. Agravo regimental não provido" (AgRg no AREsp 814.494/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/4/2016, DJe 18/4/2016).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AUSÊNCIA DE PROCURAÇÃO. PRECEDENTES DO STF E STJ. INCIDÊNCIA DA SÚMULA N.115/STJ.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - É entendimento assente neste Tribunal Superior, consolidado inclusive no enunciado sumular n. 115, que: "na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+III - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Regimental improvido" (AgRg no REsp 1.555.008/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 12/4/2016, DJe 19/4/2016).
+Especificamente acerca da fixação da verba honorária, também já se decidiu:
+"AGRAVO INTERNO. DECISÃO QUE DEU PROVIMENTO AO RECURSO ESPECIAL. APELO FUNDADO NO CPC/73 PROCEDÊNCIA DO PEDIDO AUTORAL. FIXAÇÃO DA VERBA HONORÁRIA. CRITÉRIOS DO NOVO CPC/2015. INAPLICABILIDADE. ENUNCIADO ADMINISTRATIVO 7/STJ. MAJORAÇÃO. INDEFERIMENTO. PRECEDENTE DO STJ.
+1. O acórdão recorrido (fls. 184/195) foi publicado na vigência do CPC/73. Desse modo, as alterações relativas ao cálculo dos honorários advocatícios introduzidas pelo novo CPC/2015 não têm aplicação ao caso dos autos, em observância à regra de direito intertemporal prevista no artigo 14 da nova Lei Adjetiva Civil.
+2. Nessa diretriz, a propósito, o Plenário do STJ, na sessão realizada no dia 9 de março de 2016, aprovou o Enunciado Administrativo n. 7/STJ, segundo o qual "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC)." 3. Consequentemente, não há falar na observância dos critérios tarifados que vêm estabelecidos no artigo 85, §§ 2º e 3º, do novo CPC/2015.
+4. Segundo o entendimento consolidado pela Primeira Seção do Superior Tribunal de Justiça, em julgamento pelo rito previsto artigo no artigo 543-C do Código de Processo Civil, "vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade." (REsp nº 1.155.125/MG, Relator Ministro Castro Meira, DJe de 06/04/2010).
+5. A verba honorária foi estipulada pela decisão ora agravada de forma adequada e razoável, além de observar os critérios delineados pela jurisprudência do Superior Tribunal de Justiça, não se mostrando possível a majoração pleiteada pela ora agravante.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.325.649/AP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/06/2016, DJe 30/06/2016)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRECEDENTE. IMPUGNAÇÃO DO VALOR FIXADO A TÍTULO DE VERBA HONORÁRIA. MAJORAÇÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O recorrente alega que não há falar em direito adquirido a fim de conclamar incida o Novo Código de Processo Civil apenas às demandas ajuizadas após a sua entrada em vigor (conforme decidido pelo Tribunal a quo), porquanto, consoante estabelecido no artigo 14 do NCPC, o novel diploma normativo processual incidirá imediatamente aos processos em curso.
+2. A jurisprudência desta Corte tem entendido que o marco temporal que deve ser utilizado para determinar o regramento jurídico aplicável para fixar os honorários advocatícios é a data da prolação da sentença, que, no caso, foi na vigência do Código de Processo Civil de 1973. Precedente: REsp 1.636.124/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/12/2016, DJe 27/04/2017.
+3. Nesse contexto, sobrepõe-se o entendimento consolidado neste Tribunal, no sentido de que salvo as hipóteses excepcionais de valor excessivo ou irrisório, não se conhece de recurso especial cujo objetivo é rediscutir o montante da verba honorária fixada pelas instâncias de origem, a teor do enunciado nº 7, da Súmula do STJ.
+4. Agravo interno não provido."
+(AgInt no REsp 1.657.177/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/08/2017, DJe 23/08/2017)
+Na hipótese, o acórdão estava decidindo a respeito de sentença publicada na vigência do Código de 1973. Desse modo, como a legislação aplicável é aquela determinada pela data da publicação do provimento impugnado, este era o ordenamento jurídico a ser considerado, como ocorreu na espécie.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista a ausência de condenação em honorários nas instâncias ordinárias.
+Publique-se.
+Intimem-se.
