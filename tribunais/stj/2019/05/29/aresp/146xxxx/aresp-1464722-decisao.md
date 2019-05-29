@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO PARA IMPUGNAÇÃO À PENHORA. EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO. AUSÊNCIA DOS REQUISITOS PARA CONCESSÃO DE EFEITO SUSPENSIVO AO RECLAMO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por SILVIO FERRAZ PIRES e MARIA CANDIDA QUEIROZ PIRES contra a decisão de fls. 162-163 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 115, e-STJ):
+EMBARGOS À EXECUÇÃO. Oposição de embargos à execução para impugnar penhora. Sentença que indeferiu a inicial e julgou extinto o processo sem apreciação do mérito Arts. 485, I c.c. 330, III do CPC. Pretensão dos embargantes de reforma.
+DESCABIMENTO: Erro grosseiro. Impossibilidade de aplicação do princípio da fungibilidade.
+Oposição de novos embargos à execução no lugar de apresentação de petição de impugnação à penhora. Sentença mantida.
+RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 125-129, e-STJ).
+Nas razões do recurso especial (fls. 132-149, e-STJ), os recorrentes alegaram que o acórdão impugnado incorreu em violação dos arts. 277, 283, 525, § 1º e 917, II, do Código de Processo Civil de 2015.
+Sustentaram, em síntese, que a apresentação do recurso de embargos à execução no lugar do recurso de impugnação à penhora revela mero equivoco processual. Assim, em observância aos princípios da instrumentalidade das formas, do contraditório e da ampla defesa, descabida a extinção do presente feito, pois os embargos à execução apresentados deveriam ter sido recebidos como impugnação à penhora e, como tal, apreciados, pois o recurso atingiria sua finalidade e não haveria prejuízos às partes. Pleiteiam a concessão de efeito suspensivo ao reclamo, ante a possibilidade de dano grave ou de difícil reparação.
+Em juízo de admissibilidade, a Corte de origem negou o processamento do recurso especial pelos seguintes fundamentos: a) não houve demonstração das vulnerações legais suscitadas; e b) aplicação da Súmula 7/STJ para revisão das conclusões estaduais.
+Irresignados (fls. 187-204, e-STJ), aduzem os agravantes que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Contraminuta às fls.209-218 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preliminarmente, a concessão de efeito suspensivo ao reclamo deve ser indeferida, pois somente será admitida em situações extremamente excepcionais, a saber: quando demonstrada a alta probabilidade de provimento do recurso especial, nos casos de dano de difícil reparação, ou quando o acórdão for contrário à jurisprudência pacífica desta Corte, o que não é o caso dos autos.
+No que tange à alegada fungibilidade recursal, conforme a jurisprudência desta Corte superior, somente é possível aplicar o princípio da fungibilidade recursal "quando houver dúvida objetiva sobre qual o recurso a ser interposto; quando o dispositivo legal for ambíguo; quando houver divergência doutrinária ou jurisprudencial quanto à classificação do ato processual recorrido e a forma de atacá-lo" (AgInt no RO nos EDcl no AgRg no RE nos EDcl no AgRg no AREsp 617.933/SP, Rel. Ministro Humberto Martins, Corte Especial, julgado em 05/10/2016, DJe 14/10/2016).
+Na hipótese ora em análise, o Tribunal de origem, ao dirimir a controvérsia, concluiu pela inaplicabilidade do princípio da instrumentalidade das formas, ante a constatação de erro grosseiro cometido pelos recorrentes e extinguiu o feito sem julgamento do mérito, manifestando-se nos termos a seguir transcritos (e-STJ, fls. 116-117, sem grifos no original):
+O recurso não merece provimento.
+Os apelantes ajuizaram embargos à execução alegando excesso de execução e abusividade da penhora.
+O Juízo de primeira instância concedeu o prazo de quinze dias para os embargantes esclarecerem o pedido inicial, considerando que já haviam sido opostos embargos à execução no processo nº 0002609-59.2010.8.26.0404 e que eventual impugnação à penhora não se confunde com embargos à execução, além de que a impugnação à penhora deveria ter sido apresentada nos autos da execução (fl. 67).
+Os embargantes, então, apresentaram a petição de fls. 70/71 pleiteando o aproveitamento da petição denominada "embargos à execução" no processo físico nº 0004217-29.2009.8.26.0404 como "impugnação ao cumprimento de sentença impugnação à penhora".
+Observa-se que se trata de erro grosseiro, sendo descabida a aplicação do princípio da fungibilidade ao caso porque já haviam sido apresentados embargos à execução, tendo os apelantes apresentado outros, sendo de rigor o indeferimento da inicial. A impugnação à penhora deveria ter sido apresentada nos autos da execução, não sendo possível o aproveitamento do ato praticado.
+Pelo mesmo motivo, o princípio da instrumentalidade não pode ser aplicado, uma vez que nestes segundos embargos, que agora os apelantes querem que sejam recebidos como impugnação à penhora, há apenas repetição de matéria que já foi julgada nos primeiros embargos.
+Nem mesmos os esclarecimentos determinados pelo Juízo foram prestados.
+Não tendo sido atendida a decisão de emenda, cabia mesmo o indeferimento da inicial.
+Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria necessariamente o revolvimento do acervo fático-probatório dos autos, o que não se admite em âmbito de recurso especial, dado o óbice da Súmula 7/STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
