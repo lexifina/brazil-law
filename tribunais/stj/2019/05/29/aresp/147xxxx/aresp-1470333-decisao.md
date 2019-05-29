@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL - contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"AGRAVO DE INSTRUMENTO. ADIMPLEMENTO CONTRATUAL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE DETERMINOU A EXIBIÇÃO DO CONTRATO DE É, PARTICIPAÇÃO FINANCEIRA. RECURSO DA EMPRESA DE TELEFONIA.
+SUSTENTADA A INCONSISTÊNCIA DO PEDIDO DE E EXIBIÇÃO DE DOCUMENTOS. FATO DEVIDAMENTE ESCLARECIDO NO TÍTULO EXECUTIVO. OBSERVÂNCIA À COISA JULGADA. NÃO CONHECIMENTO.
+ALEGADA A SUFICIÊNCIA DA RADIOGRAFIA E A DESNECESSIDADE DO CONTRATO. PACTO IMPRESCINDÍVEL PARA A FASE DE CUMPRIMENTO DE SENTENÇA. OPERADORA QUE DEVERÁ APRESENTAR O INSTRUMENTO CONTRATUAL NA ORIGEM, SOB PENA DE PRESUNÇÃO RELATIVA DE VERACIDADE.
+DESOBEDIÊNCIA. COMINAÇÃO QUE NÃO SE APLICA AO CASO CONCRETO. NÃO EXIBIÇÃO DO PACTO QUE RESULTA NA APLICAÇÃO DO ART. 524, § 5º, DO CPC/2015. MEDIDA PROCESSUAL ADEQUADA À ESPÉCIE. DECISUM REFORMADO.
+RECURSO CONHECIDO E PROVIDO EM PARTE" (e-STJ fl. 533).
+No recurso especial, foi alegado, além de dissídio jurisprudencial, violação dos artigos 373, I, 398, 399, III, 400, 425, inciso V, e 524 do Código de Processo Civil de 2015, sob o argumento de ser impossível a apresentação do documento requerido, devendo ser reconhecida a validade da radiografia do contrato de participação financeira apresentada, pois possui o mesmo valor probatório do contrato.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Quanto à validade da radiografia, as conclusões da Corte local acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode aferir da leitura dos fundamentos do julgado atacado, ora colacionados na parte que interessa:
+"No tocante à suficiência da radiografia e à suscitada desnecessidade de exibição do contrato, sabe-se que o extrato acionário consiste em documento apto a instruir parte da ação de conhecimento nas demandas de adimplemento contratual, porquanto trazem informações necessárias à instrução do processo, como o montante capitalizado pela companhia, o nome do acionista e a data de emissão das ações, dentre outros dados.
+Contudo para possibilitar o exato cumprimento do título executivo é imprescindível a exibição do pacto de participação financeira, pois somente este comprova o real valor investido na contratação e o tipo de negociação celebrada, a fim de possibilitar a aplicação das particularidades de cada regime contratual.
+Não são raras as situações em que existem dissonâncias entre as informações apresentadas nos referidos documentos, constatadas quando ambos fazem parte do conteúdo probatório anexado aos autos.
+Ademais, o contrato de participação financeira é documento comum às partes, e a radiografia juntada pela empresa de telefonia constitui instrumento unilateral, que apesar de estar em conformidade com a legislação que regula a matéria, não não se mostra apta a sanar a completude da discussão.
+Por conseguinte, este Colegiado sedimentou o entendimento de que é legítima a aplicação dos efeitos da presunção de veracidade pela não apresentação do contrato, quando instada judicialmente a operadora de telefonia a fazê-lo, na forma dos arts. 400 e 524, §§ 4º e 5º, ambos do Código Fux. Ademais, tratando-se de concessionária de serviço público, a agravada tem o dever de guarda e zelo de todos os documentos oriundos da celebração, dentre os quais se inclui o contrato de participação financeira.
+(..) Convém destacar, ainda, que uma das principais divergências das partes consiste em aferir o valor investido na celebração em questão, o que exige a apresentação do pacto firmado entre os litigantes.
+(..) No caso em análise, verifica-se que a autora pleiteou na exordial do procedimento ordinário e reiterou no pedido que ensejou a decisão agravada, a exibição da avença, fato que motivou o pronunciamento judicial atacado pela agravante. Nesse sentido, agiu com acerto o magistrado de primeira instância, pois impossível o conhecimento das reais circunstâncias em que o negócio foi entabulado, assim como o efetivo valor integralizado na participação financeira, e o regime contratual pactuado, sem a exibição do contrato firmado entre as partes.
+Destaca-se, contudo, que a presunção de veracidade aplica-se tão somente sobre os fatos que se pretendem comprovar através da exibição do contrato, respeitando-se os limites da coisa julgada, cujo cômputo será alvo de debate no curso do procedimento executivo, em respeito ao contraditório e à o ampla defesa" (e-STJ fls. 536-538).
+Ao contrário do ora sustentado, o acolhimento da pretensão recursal, nos termos em que posta, demandaria o reexame de matéria fática e das demais provas constantes dos autos, o que é inviável em recurso especial, consoante óbice da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do CPC/2015, haja vista que estes não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
