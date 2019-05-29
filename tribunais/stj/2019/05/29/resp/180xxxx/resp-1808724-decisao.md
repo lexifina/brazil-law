@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que negou provimento ao apelo ministerial, assim ementado:
+Apelação. Furto qualificado. Insignifícância.Ocorrência.
+1. Conjunto probatório fornece certeza quanto à autoria e materialidade delitiva.
+2. Tipicidade formal pelo exato enquadramento das condutas à norma, mas ausente a tipicidade material por irrelevância penal das condutas dos agentes.
+3. Fragmentariedade e intervenção mínima do Estado como cerne da aplicação do Direito Penal.
+4. Atipicidade material das condutas, por força da incidência do princípio da insignifícância.
+5. Furto no qual os acusados subtraíram bebidas alcoólicas,avaliadas em R$209,70, quantia que pode ser considerada insignificante.
+Recurso não provido.
+Sustenta o Ministério Público divergência jurisprudencial quanto à interpretação dada ao art. 155 do CP.
+Aduz que esta Corte tem adotado o entendimento da impossibilidade de incidência do princípio da insignificância às hipóteses de furto de bem com valor superior a 10 % do salário mínimo vigente à época do fato delituoso.
+Requer o provimento do recurso, a fim de que seja cassado o acórdão para condenar os recorridos como incursos no art. 155, §4º, IV, do Código Penal.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+DECIDO.
+Os recorridos foram absolvidos da prática do crime de furto qualificado pelo concurso de pessoas.
+Interposta apelação ministerial, foi mantida a absolvição nos seguintes termos (fls. 244-248):
+Consta da denúncia que no dia 14 de outubro de 2016, por volta das 14h45min, no estabelecimento comercial situado na Avenida Rio Branco, nº 456, República, Comarca de São Paulo, [NOME] e [NOME], em comunhão de vontade e unidade de desígnios, subtraíram, para ambos, cinco unidades de cerveja Skol Beats, avaliadas em R$24,95 (vinte e quatro reais e noventa e cinco centavos), cinco unidades de Skol, avaliadas em R$26,25 (vinte e seis reais e vinte e cinco centavos), duas garrafas de aperitivo Gol, avaliadas em R$67,00 (sessenta e sete reais), duas garrafas de aperitivo Agave, avaliadas em R$91,50 (noventa e um reais e cinqüenta centavos), pertencentes à sociedade empresária CIA. Brasileira de Distribuição.
+O conjunto probatório fornece certeza quanto à autoria e materialidade delitiva.
+Mas, ainda que formalmente encartável o fato ao tipo penal, não se justifica a condenação como expressão de verdadeira Justiça material.
+Com efeito, verifica-se a atipicidade material das condutas, em razão da incidência do princípio da insignifícância.
+(..)
+Nesta seara, conquanto seja patente a existência da tipicidade formal no caso vertente, pelo exato enquadramento das condutas à norma, não está presente a tipicidade material por irrelevância penal da conduta dos agentes, sendo estas atípicas. Isto porque não se deve perder de vista a fragmentariedade e a intervenção mínima do Estado como cerne da aplicação do Direito Penal.
+Para a aplicação do princípio em tela, a jurisprudência do Supremo Tribunal Federal consagrou alguns requisitos que devem ser concomitantemente preenchidos pela hipótese do caso, quais sejam: i) conduta minimamente ofensiva; ii) ausência de periculosidade social da ação; iii) reduzido grau de reprovabilidade do comportamento e iv) lesão jurídica inexpressiva.
+(..)
+Com efeito, verifico que estão presentes todos os mencionados requisitos, de modo que a aplicação do princípio da insignifícância é medida que se impõe.
+No caso vertente, das condutas não se depreende violência ou grave ameaça contra a pessoa, bem como há insignifícância econômica, uma vez que os bens subtraídos (bebidas alcoólicas) foram avaliados em R$ 209,70 (duzentos e nove reais e setenta centavos), conforme auto de avaliação à fl. 09.
+Destarte, inexiste proporcionalidade entre o desvalor das condutas dos agentes, que é mínimo, e a drasticidade da resposta penal a ser imposta, qual seja, a constrição da liberdade dos indivíduos.
+Não bastasse o exposto, é importante ressaltar que a incidência do principio da insignifícância está jungida às circunstâncias objetivas do fato, sendo irrelevantes os elementos de cunho subjetivo, inerentes ao agente, tais como antecedentes e reincidência. A impossibilidade de qualquer interpretação em sentido diverso é patente, do contrário estaria se consagrando direito penal do autor, incompatível com o atual Estado Democrático de Direito.
+De qualquer sorte, os acusados são primários (fls. 137/138).
+Logo, no caso vertente, a subtração é de coisa de pouca significância e o dano de pouca monta, de modo que o tipo penal não se integra.
+Sedimentou-se nesta Corte a orientação no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzidíssimo grau de reprovabilidade do comportamento e d) inexpressividade da lesão jurídica provocada.
+No caso, a conduta do recorrido consistiu na apropriação de bens avaliados em R$ 209,70 - o que representava cerca de 23% do salário mínimo vigente à época dos fatos -, em detrimento do estabelecimento comercial (Supermercado Extra).
+É cediço que a subsidiariedade do direito penal não permite tornar o processo criminal instrumento de repressão moral, de condutas reprováveis mas sem efetivo dano. A falta de interesse estatal pelo reflexo social da conduta, por relevante dado à esfera de direitos da vítima, torna inaceitável a intervenção estatal-criminal.
+Na espécie, o baixo valor da res furtiva apropriado de vítima com capacidade financeira proporcionalmente relevante - Supermercado Extra - enseja dano não relevante e, considerando a primariedade da acusado, verifico que nenhum interesse social existe na onerosa intervenção estatal. Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS CONTRA ACÓRDÃO DE APELAÇÃO. SUCEDÂNEO RECURSAL. IMPROPRIEDADE. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. FLAGRANTE ILEGALIDADE. EXISTÊNCIA. IMPETRAÇÃO NÃO CONHECIDA. CONCEDIDA A ORDEM EX OFFICIO.
+ ..
+2. Consoante entendimento jurisprudencial, o "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentaridade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material. (..) Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público" (HC n.º 84.412- 0/SP, STF, Min. Celso de Mello, DJU 19.11.2004).
+3. No caso, o paciente subtraiu 2 frascos de desodorante e 2 de sabonete líquido, bens avaliados em R$ 57,60 (equivalente a cerca de 12% do salário mínimo da época) que foram devolvidos, sem prejuízo material para a vítima, uma drogaria.
+4. Reconhece-se, então, o caráter bagatelar do comportamento imputado, não havendo falar em afetação do bem jurídico patrimônio.
+5. Flagrante ilegalidade detectada.
+6. Impetração não conhecida, mas concedida a ordem, ex officio, para, reconhecendo a atipicidade material da conduta, cassar a condenação proferida na Ação Penal n.º 050.09.026564-5, controle nº 493/09, da 11ª Vara Criminal da Comarca de São Paulo/SP. (HC 237.720/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/08/2014, DJe 18/08/2014)
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS PRODUTOS DO GÊNERO ALIMENTÍCIO. BENS AVALIADOS EM R$ 88,00, CERCA DE 12,97% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA. RÉU PRIMÁRIO. PRINCÍPIO DA INSIGNIFICÂNCIA. INCIDÊNCIA. ORDEM CONCEDIDA.
+ ..
+2. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada.
+3. Em razão da coisa que se tentou furtar (gênero alimentício), seu diminuto valor (R$ 88,00), que à época representava 12,97% do salário mínimo, praticado por agente primário, com restituição à vítima, um supermercado, com proporcionalmente relevante capacidade financeira, admite-se a insignificância, reconhecendo-se a atipicidade material da conduta.
+4. Habeas corpus não conhecido, porém, de ofício, concedida a ordem para, reconhecer a atipicidade da conduta e restabelecer a sentença de 1º grau, proferida na ação penal nº 0095646-78.2013.8.19.0001 (HC 311.647/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/04/2016, DJe 19/04/2016).
+Ressalte-se, ainda, que o delito de furto qualificado pelo concurso de agentes não afasta, por si só, a incidência do princípio da insignificância, quando verificada a mínima ofensividade da conduta por eles perpetrada. Nesse sentido:
+PENAL. RECURSO ESPECIAL. TENTATIVA DE FURTO QUALIFICADO. CONCURSO DE AGENTES. PRINCÍPIO DA INSIGNIFICÂNCIA. POSSIBILIDADE. 4 OVOS DE PÁSCOA. BENS RESTITUÍDOS. INEXISTÊNCIA DE PREJUÍZO À VÍTIMA. RECURSO IMPROVIDO. 1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a mínima ofensividade da conduta do agente; nenhuma periculosidade social da ação; o reduzidíssimo grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada. 2. A tentativa de subtração de 4 ovos de páscoa, restituídos ao estabelecimento comercial, aliada ao fato de ser a ré primária e ostentar bons antecedentes, permite a incidência princípio da insignificância, pois nenhum interesse social existe na onerosa intervenção estatal. 3. O delito de furto qualificado pelo concurso de agentes não afasta, por si só, a incidência do princípio da insignificância, quando verificada a mínima ofensividade da conduta por eles perpetrada. 4. Recurso especial improvido. (REsp 1659536 / SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/08/2018, DJe 17/08/2018)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
