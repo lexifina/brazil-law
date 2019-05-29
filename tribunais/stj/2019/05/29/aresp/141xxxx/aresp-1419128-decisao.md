@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO DO JUIZ. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por SONIA ALVES TOLEDO de decisão do Tribunal de Justiça do Estado do Mato Grosso que negou seguimento ao seu recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão assim ementado (e-STJ, fl. 279):
+APELAÇÃO CÍVEL - AÇÃO DE REINTEGRAÇÃO DE POSSE - PROGRAMA MINHA CASA MINHA VIDA - IMÓVEL NÃO OCUPADO PELA AUTORA/CONTEMPLADA, MESMO NOTIFICADA - TRANSFERÊNCIA PARA OUTRO PRETENDENTE CONSTANTE NO CADASTRO DE RESERVA - POSSE JUSTA E AUSÊNCIA DE ESBULHO ARTIGO 561 DO CPC REQUISITOS NÃO COMPROVADOS - AÇÃO IMPROCEDENTE SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+O acolhimento do pedido de reintegração de posse exige o preenchimento dos requisitos descritos no artigo 561. do CPC, em especial a posse anterior pelo autor e a esbulho do réu.
+Nas razões do recurso especial, a parte recorrente apontou violação dos arts. 5º, 6º, 9º e 10º do Código de Processo Civil. Sustentou o cerceamento de defesa, alegando que "o processo foi julgado antecipadamente, não permitindo a Recorrente fazer prova testemunhal em Juízo, via audiência de instrução e julgamento, uma vez que a oitiva das testemunhas seria de suma importância para corroborar com as demais provas carreadas pela Recorrente aos autos." (e-STJ, fl. 135).
+É o relatório.
+Passo a decidir.
+Primeiramente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que diz respeito ao cerceamento de defesa, o Tribunal de origem assim se manifestou (e-STJ, fl. 126):
+Também não procede a alegação de violação ao artigo 10 do CPC, pois pão se trata de decisão surpresa nem houve afronta aos príncipios do contraditório e ampla defesa.
+Ao contrário, à não inovou; foi prolatada à luz dos elementos jurídicos .e fáticos constantes nos autos e submetidos ao crivo "dó contraditório.
+E é totalmente desnecessária a prova oral; diante da documentação fornecida pela Secretaria Municipal de Habitação, responsável pelo Programa Minha Casa Minha Vida." .
+Quanto à alegação de cerceamento de defesa, verifica-se que o Superior Tribunal de Justiça firmou entendimento no sentido de que a avaliação da alegada insuficiência dos elementos probatórios e da necessidade de produção de outras provas submete-se ao princípio do livre convencimento do juiz bem como demandaria a incursão em aspectos fático-probatórios dos autos, inviável, portanto, em recurso especial, razão pela qual o acolhimento da irresignação esbarra no óbice previsto na Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO. COMPRA E VENDA. ALEGAÇÃO GENÉRICA DE OFENSA AO ART. 535 DO CPC/1973. INCIDÊNCIA DA SÚMULA 284/STF. CERCEAMENTO DE DEFESA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. VIOLAÇÃO AOS ARTS. 186, 402, 476 E 1.228 DO CÓDIGO CIVIL E AO ART. 267, VI, DO CÓDIGO DE PROCESSO CIVIL DE 1973. TEMA NÃO PREQUESTIONADO. SÚMULA 282/STF. LITIGÂNCIA DE MÁ-FÉ. NECESSIDADE DE REEXAME DE PROVA. ÓBICE DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro.
+Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. Não há falar em cerceamento de defesa em razão da valoração promovida pelo magistrado das provas coligidas nos autos, porquanto no nosso sistema processual o magistrado é o destinatário da prova, cabendo-lhe, por força do art. 131 do Código de Processo Civil, apreciar livremente as provas apresentadas, devendo apenas fundamentar os motivos que lhe formaram o convencimento.
+3. No caso, é inviável fazer análise quanto à necessidade de produção de prova testemunhal e pericial, haja vista demandar a incursão nos elementos fático-probatórios dos autos. Incidência da Súmula 7/STJ.
+4. As questões amparadas no conteúdo dos arts. 186, 402, 476 e 1.228 do Código Civil e do art. 267, VI, do CPC/1973 não foram apreciadas pelo Tribunal a quo, tampouco foram alvo dos embargos declaratórios opostos para sanar eventual omissão. Dessa forma, tais matérias não merecem ser conhecidas por esta Corte, ante a ausência do indispensável prequestionamento. Aplica-se, por analogia, o óbice da Súmula 282 do STF.
+5. A condenação por litigância de má-fé foi imposta pelo Tribunal local a partir dos elementos fáticos e peculiares concernentes à lide examinada, de forma que a revisão do seu entendimento em sede de recurso especial esbarra no óbice da Súmula 7/STJ. Precedentes.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1397216/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/11/2017, DJe 27/11/2017) - gn
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA. VÍCIO DE CONSTRUÇÃO. DECADÊNCIA. FRAGILIDADE DA OBRA. REEXAME. MATÉRIA DE PROVA. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. JULGAMENTO EXTRA PETITA. NÃO CONFIGURAÇÃO. SENTENÇA ILÍQUIDA. PEDIDO CERTO. POSSIBILIDADE. DANO MORAL. VALOR ARBITRADO. RAZOABILIDADE 1. Não é possível o conhecimento de recurso especial quando visa reformar entendimento do Tribunal local que, baseado na prova pericial produzida, concluiu que os vícios de construção eram relativos à fragilidade da obra.
+Alterar essa conclusão demandaria reexame de fatos e provas, o que atrai a incidência da Súmula nº 7/STJ.
+2. Não configura cerceamento de defesa o julgamento da causa sem a produção de prova quando o tribunal de origem considerar substancialmente instruído o feito, declarando a existência de provas suficientes para seu convencimento. Rever tal conclusão acarreta a incidência da Súmula nº 7/STJ.
+3. Não se pode falar em julgamento extra petita, pois o órgão julgador não afrontou os limites objetivos da pretensão inicial, tampouco concedeu providência jurisdicional diversa da requerida, tendo sido respeitado o princípio da congruência.
+4. A circunstância de o autor haver formulado pedido certo não impede que o magistrado remeta as partes para a liquidação de sentença, se estiver diante de um quadro probatório insuficiente.
+5. O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa. Assim, afastando-se a incidência da Súmula nº 7/STJ, somente comporta revisão por este Tribunal quando irrisória ou exorbitante, o que não ocorreu na hipótese dos autos, em que arbitrado em R$ 15.000,00 (quinze mil reais).
+6. Agravo interno não provido. (AgInt no AREsp 889.302/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/09/2017, DJe 04/10/2017) - gn
+Assim sendo, o não conhecimento do recurso é medida que se impõe.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por conseguinte, considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, majoro os honorários de sucumbência para 13% do valor da causa, observado o benefício da gratuidade de justiça concedido na origem.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Intimem-se.
