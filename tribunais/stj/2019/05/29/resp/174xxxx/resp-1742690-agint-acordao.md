@@ -1,0 +1,125 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AGRAVO INTERNO QUE NÃO IMPUGNA TODOS OS FUNDAMENTOS DO DECISUM. CONCORDÂNCIA EXPRESSA DA PARTE RECORRENTE COM O CAPÍTULO AUTÔNOMO NÃO IMPUGNADO. POSSIBILIDADE DE EXAME DO MÉRITO DA IRRESIGNAÇÃO. NÃO APLICAÇÃO DA SÚMULA N. 182/STJ. HONORÁRIOS ADVOCATÍCIOS. VALOR ADEQUADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Afasta-se a incidência da Súmula n. 182/STJ quando, embora o Agravo Interno não impugne todos os fundamentos da decisão recorrida, a parte recorrente manifesta, expressamente, a concordância com a solução alcançada pelo julgador, desde que o capítulo em relação ao qual a desistência foi manifestada seja independente e não interfira na análise do mérito da irresignação.
+III - In casu, rever o entendimento do Tribunal de origem, que reconheceu como adequado o valor fixado a título de honorários advocatícios, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+IV - A Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Gurgel de Faria votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Trata-se de Agravo Interno interposto pela FAZENDA NACIONAL contra a decisão que não conheceu do Recurso Especial, fundamentada na:
+I) Incidência, por analogia, da Súmula n. 284, do Supremo Tribunal Federal, por alegação genérica de violação ao art. 535 do Código de Processo Civil de 1973;
+II) Inviabilidade de apreciação da apontada violação ao art. 535 do CPC/73, porquanto o Recurso Especial se encontra regido pelo Código de Processo Civil de 2015; e
+III) Aplicação da Súmula n. 07, do Superior Tribunal de Justiça, tendo em vista ser inviável o reexame de matéria fática em sede de recurso especial.
+Sustenta a Agravante, em síntese, o seguinte (fl. 311e):
+De início, registre-se que a Fazenda Nacional se conforma com a parte da decisão ora recorrida que entendeu inexistir violação do art. 535 do CPC/73, deixando de interpor recurso quanto a esse ponto e exercendo o direito de interposição de recurso parcial quanto aos demais pontos da decisão. Nessa linha, cumpre-nos ainda ressaltar que a autonomia desse ponto do RESP frente às demais questões tratadas no recurso não prejudica o exame das mesmas.
+Quanto ao mérito recursal, de fato, a Fazenda Nacional não desconhece nem desconsidera a jurisprudência do STJ indicada pelo relator. Não obstante, com a devida vênia e respeito, o presente caso guarda particularidade que também é reconhecida pela jurisprudência do STJ e que justifica o provimento deste agravo interno.
+Isso porque, no caso, o tribunal de origem manteve os honorários fixados na sentença em R$ 2.000,00 (mil e quinhentos reais), valor esse irrisório e aviltante se comparado ao valor atribuído à causa originária, cujo valor da execução, em março de 2010, era superior a R$ 1.783.502,76. Os honorários foram fixados em reduzidos valores, representando menos de 1% (um por cento) do valor da causa.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 321/336e.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AGRAVO INTERNO QUE NÃO IMPUGNA TODOS OS FUNDAMENTOS DO DECISUM. CONCORDÂNCIA EXPRESSA DA PARTE RECORRENTE COM O CAPÍTULO AUTÔNOMO NÃO IMPUGNADO. POSSIBILIDADE DE EXAME DO MÉRITO DA IRRESIGNAÇÃO. NÃO APLICAÇÃO DA SÚMULA N. 182/STJ. HONORÁRIOS ADVOCATÍCIOS. VALOR ADEQUADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Afasta-se a incidência da Súmula n. 182/STJ quando, embora o Agravo Interno não impugne todos os fundamentos da decisão recorrida, a parte recorrente manifesta, expressamente, a concordância com a solução alcançada pelo julgador, desde que o capítulo em relação ao qual a desistência foi manifestada seja independente e não interfira na análise do mérito da irresignação.
+III - In casu, rever o entendimento do Tribunal de origem, que reconheceu como adequado o valor fixado a título de honorários advocatícios, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+IV - A Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+
+AgInt no RECURSO ESPECIAL Nº 1.742.690 - SP (2018/0120797-0)
+
+RELATORA
+:
+MINISTRA REGINA HELENA COSTA
+AGRAVANTE
+:
+FAZENDA NACIONAL
+AGRAVADO
+:
+EMPRESA MARÍTIMA E [NOME]
+ADVOGADOS
+:
+[NOME] - [OAB]
+
+MARCOS JUNIOR JAROSZUK - [OAB]
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Registro que a jurisprudência desta Corte adota o entendimento, segundo o qual se revela admissível o recurso que não impugne todos os fundamentos, caso a parte recorrente manifeste, expressamente, a concordância com a solução alcançada pelo julgador, e desde que o capítulo em relação ao qual a desistência foi requerida seja independente e não interfira na análise do mérito da irresignação. Nesse sentido: EDcl no AgRg no Ag 1.314.528/RS, 1ªT., Rel. Min. Napoleão Nunes Maia Filho, DJe 08.04.2014; EDcl no AgRg no REsp 1.366.716/PE, 2ªT., Rel. Ministra Diva Malerbi - Desembargadora Convocada do TRF 3ª Região, DJe 16.05.2016 e AgRg nos EDcl no AREsp 288.778/RS, Rel. Min. Sérgio Kukina, DJe de 26.08.2016.
+O presente caso amolda-se ao entendimento acima consignado, porquanto manifestada a concordância com parte autônoma e independente da decisão, qual seja, a incidência, por analogia, da Súmula n. 284/STF.
+De outra sorte, não assiste razão à Agravante quanto ao outro fundamento da decisão agravada.
+Em regra, a reavaliação do critério de apreciação equitativa adotada pelo Tribunal de origem para a fixação da verba honorária esbarra no óbice da Súmula 7/STJ, ressalvadas apenas as hipóteses excepcionais de valor irrisório ou excessivo.
+O Tribunal de origem, após minucioso exame dos elementos fáticos e probatórios contidos nos autos, reconheceu como adequado o valor fixado a título de honorários advocatícios, nos seguintes termos (fls. 219/224e):
+Do caso dos autos. A decisão agravada abordou a matéria discutida pela agravante nos seguintes termos:
+Trata-se de apelações interpostas por Empresa Marítima e [NOME]. e pela União contra a sentença de fls. 37/40, que extinguiu a execução em decorrência da prescrição e condenou a empresa embargada ao pagamento de honorários advocatícios, fixados em R$ 2.000,00 (dois mil reais).
+Alega a empresa embargada, em síntese, que não há falar em prescrição, uma vez que a demora na citação decorreu de motivos inerentes ao Poder Judiciário (fls. 58/70).
+Alega a União, em síntese, que devem ser fixados os honorários advocatícios "sobre o valor objeto dos respectivos embargos à execução (10% sobre R$ 1.783.502,76)" (fls. 97/98).
+Foram apresentadas contrarrazões (fls. 80/82v. e 121/125).
+Decido.
+Prescrição. Interrupção. Demora na citação. Motivos inerentes aos mecanismos da Justiça. Eficácia. A prescrição consiste na perda da faculdade de intentar demanda para a reparação de direito lesado em virtude do seu não -exercício no prazo legal. Na medida em que a parte se desincumbe desse ônus no prazo legal, não pode ser sancionada na hipótese de a demora da citação for debitada a motivos inerentes ao mecanismo do Poder Judiciário, conforme a Súmula n. 106 do Superior Tribunal de .Justiça:
+Proposta a ação no prazo .fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da prescrição ou decadência.
+Esse entendimento é também aplicável às execuções fiscais, afastando-se a prescrição intercorrente quando a demora na citação for atribuível ao próprio mecanismo do Poder Judiciário:
+TRIBUTÁRIO - PROCESSO CIVIL - EXECUÇÃO FISCAL - PRESCRIÇÃO - CITAÇÃO TARDIA - AUSÊNCIA DE MORA DO CREDOR - SÚMULA 106 DO STJ - DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+I. A perda da pretensão tributária pelo decurso de tempo depende da inércia do credor, que não se verifica quando a demora na citação do executado decorre unicamente do aparelho judiciário. Inteligência da Súmula 106/STJ.
+2. Divergência jurisprudencial prejudicada.
+3. Recurso especial provido.
+(STJ, Resp n. I.069.883 -PR, Rel. Min. Eliana Calmon, j. 09.12.08) TRIBUTÁRIO - PROCESSUAL CIVIL - DEMORA NA CITAÇÃO - MECANISMO JUDICIÁRIO - PRESCRIÇÃO NÃO CARACTERIZADA - SÚMULAS 106 E 07/ST.1.
+I. Embora a jurisprudência do STJ seja no sentido de que, em execução fiscal, o despacho que ordenar a citação não interrompe a prescrição, uma vez que somente a citação pesscial teria esse efeito, não é menos correto afirmar que, se a ação foi proposta dentro do prazo e a demora ha citação deu-se por motivos inerentes ao mecanismo judiciário, não se deve decretar a prescrição, mormente quando a empresa não atualizou o endereço junto ao cadastro do CNRI(Sítmula 106/STI) 2. (..) Agravo regimental improvido.
+(STJ, AGResp n. 982.024 -RS, Rel. Min. Humberto Martins, j. 22.04.08) Não é o que se sucede, porém, quando a demora da citação ocorrer em virtude de ónus processuais inerentes ao autor, como por exemplo quando se deixa de juntar com a petição inicial documento indispensável à propositura da ação, falta de procuração, não indicação do endereço da parte, demora no recolhimento de custas ou efetivação de depósito
+(NEGRÃO, Theotonio, Código de Processo Civil e legislação processual em vigor, 40" ed., São Paulo, Saraiva, 2008, p. 334, nota 18 ao art. 219).
+Honorários advocatícios. Ação declaratória. Apreciação equitativa. A .fixação dos honorários advocatícios consoante apreciação equitativa do Juízo, prevista no 4º do art. 20 do Código de Processo Civil, contempla a possibilidade de arbitramento tomando-se como base o valor da condenação, o valor da causa ou mesmo em valor fixo, em especial nos casos de natureza declaratória. Nesse sentido, em julgamento de recurso especial repetitivo (CPC, art. 543-C), o Superior Tribunal de Justiça firmou entendimento:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC E RESOLUÇÃO STJ N." 08/2008. AÇÃO ORDINÁRIA. DECLARAÇÃO DO DIREITO À COMPENSAÇÃO DO INDÉBITO TRIBUTÁRIO.
+HONORÁRIOS. ART. 20, §§ 3º E 4º, DO CPC. CRITÉRIO DE EQUIDADE. I. Vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade. 2. Nas demandas de cunho declaratório, até por inexistir condenação pecuniária que possa servir de base de cálculo, os honorários devem ser fixados com referência no valor da causa ou em montante fixo. 3. Precedentes de ambas as Turmas de Direito Público e da Primeira Seção. 4. Tratando-se de ação ordinária promovida pelo contribuinte porá obter a declaração judicial de seu direito à compensação tributária segundo os critérios definidos na sentença - não havendo condenação em valor certo, já que o procedimento deverá ser efetivado perante a autoridade administrativa e sob os seus cuidados -, devem ser fixados os honorários de acordo com a apreciação equitativa do juiz, não se impondo a adoção do valor da causa ou da condenação, seja porque a Fazenda Pública foi vencida, seja porque a demanda ostenta feição nitidamente declaratória. 5. Recurso especial não provido.
+Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ n." 08/2008. (STJ, REsp n. 1.155.125, Rel. MM. Castro Meira, j. 10.03.10) Do caso dos autos. A sentença não merece reforma. A sentença transitou em julgado em 03,12.04 07. 497 dos autos em apenso).
+Em 06.12.04 a embargada deu início à execução dos honorários advocatícios, mas requereu prazo de 90 (noventa) dias para "decidir sobre a restituição ou compensação do principal" (fls. 423/428).
+Em 18.03.09 a empresa requereu a titularidade do crédito em favor de Maersk do Brasil Ltda., para promover a compensação (fls. 550/552) e, após manifestação em sentido contrário por parte da União (fls.
+638/643), requereu a execução do principal em 19.11.09 (fls. 680/687), mas deixou de apresentar as necessárias cópias para instrução da contrafé. Regularmente intimada (fl. 700), a embargada juntou os documentos em 22.02.10 (fl. 701), tendo a citação sido realizada em 11.03.10 (fl. 707v.).
+Verifica-se, portanto, que decorreu o prazo prescricional de 5 (cinco) anos em decorrência da inércia da parte, não sendo atribuível a demora atribuível ao próprio mecanismo do Poder Judiciário, de modo que a sentença que extinguiu a execução deve ser mantida.
+Inexistindo motivo a ensejar conclusão diversa, os honorários advocatícios devem ser fixados em R$ 2.000,00 (dois mil reais), à vista do disposto no art. 20, § 4º, do Código de Processo Civil e dos padrões usualmente aceitos pela jurisprudência (STJ, [NOME] no AI n. 1.297.055, Rd Min. Mauro Campbell Marques, j. 10.08.10; ED na AR n. 3.754, Rel. Min. Benedito Gonçalves, j. 27.05.09; TRF da 3" Região, AC n. 0008814-50.2003.4.03.6119, Rd Des. Fed. [NOME], j. 21.05.12; AC n. 0021762-42.2007.4.03.6100, Rel. DeS. Fed. [NOME], f 23.04.12).
+Ante o exposto, NEGO PROVIMENTO às apelações, com fundamento no art. 557 do Código de Processo Civil.
+ ..
+A agravante não traz subsídios que infirmem a aplicação do art. 557 do Código de Processo Civil. O recurso deve comprovar que a decisão recorrida se encontra incompatível com o entendimento dominante deste Tribunal ou dos Tribunais Superiores, o que não foi demonstrado..
+No caso, consideradas as circunstâncias abstraídas no acórdão recorrido, não se vislumbrou excepcionalidade a justificar a revisão do quantum fixado, o que ensejou a aplicação da Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. OFENSA AO ART. 535/CPC. INEXISTÊNCIA. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. ACÓRDÃO ALICERÇADO EM FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. RECONVENÇÃO. NECESSIDADE DE A PRETENSÃO SER CONEXA COM A DO AUTOR. PRECEDENTES. PERÍCIA. REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. FUNDAMENTO BASILAR NÃO ATACADO. SÚMULA 283/STF. SUCUMBÊNCIA. AFERIÇÃO. SÚMULA 7/STJ.
+(..)
+8. Mostra-se inviável a aferição do grau de sucumbência entre as partes, para fins de distribuição da condenação nos honorários advocatícios, tendo em vista a necessidade de revisão do contexto fático-probatório dos autos, providência defesa em recurso especial, ante o enunciado da Súmula 7/STJ.
+9. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1038925/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 01/03/2016, DJe 08/03/2016).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. RESTITUIÇÃO DE INDÉBITO PELO IMPORTADOR. PIS/COFINS-IMPORTAÇÃO. OPERAÇÕES POR CONTA E ORDEM DE TERCEIROS. IMPOSSIBILIDADE. ART. 18 DA LEI Nº 10.865/04. LIMITES SUBJETIVOS DO PROVIMENTO MANDAMENTAL. REVOLVIMENTO DO TÍTULO EXECUTIVO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. EMBARGOS À EXECUÇÃO. AÇÃO AUTÔNOMA. REVISÃO DO QUANTUM. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+(..)
+5. No caso dos autos, os honorários foram fixados em 1% sobre o valor do excesso de execução, percentual que não representa valor exorbitante para fins de revisão em sede de recurso especial. É cediço nesta Corte que, salvo as hipóteses excepcionais de valor excessivo ou irrisório, não se conhece de recurso especial cujo objetivo é rediscutir o montante da verba honorária fixada pelas instâncias de origem, a teor do enunciado n. 7, da Súmula do STJ.
+6. Agravo regimental não provido.
+(AgRg no REsp 1573681/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/03/2016, DJe 10/03/2016).
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+I. Trata-se de Agravo Regimental ou interno, interposto em 05/05/2016, contra decisão publicada em 13/04/2016.
+II. De acordo com o art. 546, I, do CPC/73, os Embargos de Divergência somente são admissíveis quando os acórdãos cotejados forem proferidos no mesmo grau de cognição, ou seja, ambos no juízo de admissibilidade ou no juízo de mérito, o que não ocorre, no caso. Incidência da Súmula 315/STJ.
+III. Nos termos da jurisprudência desta Corte, "se o acórdão embargado decidiu com base na Súmula 7 do Superior Tribunal de Justiça, falta aos embargos de divergência o pressuposto básico para a sua admissibilidade, é dizer, discrepância entre julgados a respeito da mesma questão jurídica. Se o acórdão embargado andou mal, qualificando como questão de fato uma questão de direito, o equívoco só poderia ser corrigido no âmbito de embargos de declaração pelo próprio órgão que julgou o recurso especial" (STJ, AgRg nos EREsp 1.439.639/RS, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF/1ª Região), PRIMEIRA SEÇÃO, DJe de 01/12/2015). Em igual sentido: STJ, AgRg nos EAREsp 556.927/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 18/11/2015; STJ, AgRg nos EREsp 1.430.103/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 15/12/2015; ERESP 737.331/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 09/11/2015.
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016, destaque meu).
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt nos EREsp 1.120.356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016, destaque meu).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPETRAÇÃO DE MANDADO DE SEGURANÇA. COMPETÊNCIA ORIGINÁRIA. PRIMEIRO GRAU DE JURISDIÇÃO. DENEGAÇÃO. INTERPOSIÇÃO DE APELAÇÃO. DESPROVIMENTO. IMPUGNAÇÃO POR VIA DE RECURSO ORDINÁRIO. DESCABIMENTO MANIFESTO. HIPÓTESE INADEQUADA. RECORRIBILIDADE. RECURSO ESPECIAL. NÃO CONHECIMENTO. IMPOSSIBILIDADE. DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. JURISPRUDÊNCIA SEDIMENTADA. AGRAVO INTERNO. CARÁTER DE MANIFESTA IMPROCEDÊNCIA. COMINAÇÃO DE MULTA.
+1. A denegação do mandado de segurança mediante julgamento proferido originariamente por Tribunal de Justiça ou por Tribunal Regional Federal desafia recurso ordinário, na forma do art. 105, inciso II, alínea "b", da Constituição da República.
+2. No entanto, quando impetrada a ação de mandado de segurança em primeiro grau de jurisdição e instada a competência do Tribunal local apenas por via de apelação, o acórdão respectivo desafia recurso especial, conforme o disposto no art. 105, inciso III, da Constituição da República.
+3. Dessa forma, a interposição do recurso ordinário no lugar do recurso especial constitui erro grosseiro e descaracteriza a dúvida objetiva. Precedentes.
+4. O agravo interno que se volta contra essa compreensão sedimentada na jurisprudência e que se esteia em pretensão deduzida contra texto expresso de lei enquadra-se como manifestamente improcedente, porque apresenta razões sem nenhuma chance de êxito.
+5. A multa aludida no art. 1.021, §§ 4.º e 5.º, do CPC/2015, não se aplica em qualquer hipótese de inadmissibilidade ou de improcedência, mas apenas em situações que se revelam qualificadas como de manifesta inviabilidade de conhecimento do agravo interno ou de impossibilidade de acolhimento das razões recursais porque inexoravelmente infundadas.
+6. Agravo interno não provido, com a condenação do agravante ao pagamento de multa de cinco por cento sobre o valor atualizado da causa, em razão do reconhecimento do caráter de manifesta improcedência, a interposição de qualquer outro recurso ficando condicionada ao depósito prévio do valor da multa.
+(AgInt no RMS 51.042/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/03/2017, DJe 03/04/2017, destaque meu).
+No caso, apesar do improvimento do Agravo Interno, não se configura a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
