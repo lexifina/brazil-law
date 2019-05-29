@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo contra inadmissão de recurso especial interposto por TRANSPORTES COLETIVOS TREVO S.A. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. COLISÃO TRASEIRA ENTRE COLETIVO E AUTOMÓVEL. MUDANÇA DE PISTA. CULPA EXCLUSIVA DO CONDUTOR DO AUTOMÓVEL NÃO COMPROVADA. SENTENÇA RATIFICADA.
+O exame do conjunto probatório conforta a conclusão no sentido de que o acidente ocorreu por culpa exclusiva do condutor do coletivo, que realizou manobra de troca de pista sem tomar os cuidados necessários para a segurança do trânsito e sem se certificar que trafegava um veículo na pista na qual pretendia ingressar. Incidência do disposto nos artigos 34 e 35 do CTB. APELAÇÃO IMPROVIDA" (fl. 184 e-STJ).
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a agravante alegou violação dos artigos 373 e 1.022 do Código de Processo Civil de 2015; 186, 187 e 927 do Código Civil; 34 e 36 do Código de Trânsito.
+Sustentou, preliminarmente, a nulidade do acórdão por negativa de prestação jurisdicional, pois o tribunal de origem deixou de se manifestar sobre a quebra do nexo de causalidade, bem como a respeito da inviabilidade fática da dinâmica do acidente reconhecida na sentença.
+No mérito, aduziu que, se o veículo do recorrido estava sobre a calçada, seria necessário que o coletivo invadisse a referida área para a ocorrência de colisão. Destacou, ainda, que se o veículo do recorrido estivesse parado no momento do acidente, não poderia colidir com a parte traseira do ônibus.
+Com contrarrazões, o recurso foi inadmitido (fls. 285-292 e-STJ).
+É o relatório. DECIDO.
+A insurgência não merece prosperar.
+Importante registrar, preliminarmente, que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+No que tange à suposta negativa de prestação jurisdicional, verifica-se que os julgadores da instância ordinária motivaram adequadamente a sua decisão, solucionando a controvérsia com a aplicação do direito que entenderam cabível à hipótese. Não há falar, portanto, em nulidade do acórdão apenas pelo fato de os magistrados terem decidido em sentido contrário à pretensão da parte.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. OMISSÃO NÃO CONSTATADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos declaratórios prevista no art. 1022 do CPC.
+3. Embargos de declaração rejeitados" (EDcl no AgInt no AREsp 874.797/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 9/8/2016).
+Oportuno ressaltar, no ponto, a substancial fundamentação adotada no acórdão para imputar à agravante o dever de reparar os danos decorrentes do acidente de trânsito:
+"(..)
+Ao contrário, o conjunto probatório carreado ao feito restou devidamente examinado, sendo inarredável a conclusão quanto à culpa do embargante, não havendo falar em ausência de nexo causal, Em arremate, evitando tautologia, incorporo ao presente como razões de decidir, no que interessa, excerto da fundamentação expendida no aresto embargado:
+(..) tendo presente o detido exame da prova produzida pelo juízo a quo, especialmente o fato de que foi perante esse que se escrutinou a prova oral, analisada de forma pormenorizada, para evitar tautologia, incorporo seus termos como razões de decidir:
+(..)
+No caso dos autos, contudo, não logrou a parte ré/reconvinte demonstrar a alegada culpa da vítima ou ainda caso fortuito ou de força maior.
+Veja-se que, embora alegue em sua defesa, que o acidente se deu porque o autor teria ingressado de marcha ré na pista sem atentar para o fluxo de veículos que trafegavam na Avenida Juca Batista, tanto que bateu na lateral direita traseira do coletivo, não trouxe aos autos prova que corroborasse tal afirmação.
+Ao revés, a prova testemunhal colhida nos autos dá maior amparo à versão apresentada pelo autor.
+Veja-se que, ainda que o motorista do coletivo - cujo interesse no deslinde do feito é evidente, e a testemunha [NOME], tenham dito que, no momento da colisão, o autor estava em movimento, manobrando de marcha ré, contradizem-se no que diz com o local onde ocorreu o acidente.
+Enquanto o motorista afirma que trafegava pela pista da direita, quando o autor saiu de ré do estacionamento da lancheria (calçada), a testemunha [NOME] - que se encontrava no interior do coletivo - sustenta que o ônibus estaria na pista central da avenida e o autor já teria ingressado na pista da direita, quando ocorreu a colisão (vide depoimentos no CD em anexo).
+No entanto, todas as demais testemunhas, presenciais ao fato, foram unânimes em dizer que o autor estava parado, ainda encima da calçada (estacionamento da lancheria), apenas aguardando que o ônibus passasse para ingressar na via, quando teria sido abalroado pelo coletivo que, de forma brusca, teria trocado de pista - central p/ direita - para atender a um passageiro que aguardava na parada de ônibus localizada logo após a lancheria, deixando com que sua traseira colidisse no veículo do autor.
+Ou seja, da prova colhida nos autos, é possível concluir-se que a culpa pelo acidente foi do motorista do coletivo que não teria agido com a devida cautela ao trocar de pista, desatentando para o fato de havia um veículo parado entre a calçada e a via, aguardando para ingressar na via.
+Com isso, a procedência da ação nos termos em que postulado na inicial é a medida que se impõe.
+(-) Acrescento que, efetivamente, da análise do conjunto probatório, é possível extrair que o acidente ocorreu por culpa exclusiva do condutor do coletivo, que realizou manobra de troca de pista sem tomar os cuidados necessários para a segurança do trânsito e sem se certificar que trafegava um veículo na pista na qual pretendia ingressar.
+Nestas circunstâncias, não há como alterar o desate dado ao caso.
+Ao realizar a infeliz manobra, o motorista do ônibus violou o disposto nos artigos 34 e 35 do Código de Transito Brasileiro, in verbis:
+"Art. 34. O condutor que queira executar uma manobra deverá certificar-se de que pode executá-la sem perigo para os demais usuários da via que o seguem, precedem ou vão cruzar com ele, considerando sua posição, sua direção e sua velocidade."
+"Art. 35. Antes de iniciar qualquer manobra que implique um deslocamento lateral, o condutor deverá indicar seu propósito de forma clara e com a devida antecedência, por meio da luz indicadora de direção de seu veículo, ou fazendo gesto convencional de braço.
+Parágrafo único. Entende-se por deslocamento lateral a transposição de faixas, movimentos de conversão à direita, à esquerda e retornos."
+Dessa forma, como nada foi alegado concretamente e considerando ainda que restou provada a existência de culpa exclusiva do condutor do coletivo, deve ser mantida a procedência da reconvenção.
+(..)
+O simples fato do posicionamento adotado pelos julgadores não confortar a pretensão da recorrente não referenda a oposição dos aclaratórios" (fls. 237-239 e-STJ).
+Conforme se extrai da leitura dos excertos acima transcritos, a matéria supostamente omissa - nexo de causalidade e dinâmica do acidente - foi abordada na medida necessária para o deslinde da controvérsia e com valoração expressa das provas - testemunhas.
+Dessa forma, não se há falar em violação ao art. 1.022 do Código de Processo Civil de 2015, pois, ao contrário do que tenta fazer crer a agravante, a via declaratória não se presta a obrigar o tribunal a reapreciar teses sob o ponto de vista pretendido pela parte recorrente.
+Confira-se:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. OMISSÃO NÃO CONSTATADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos declaratórios prevista no art. 1022 do CPC.
+3. Embargos de declaração rejeitados" (EDcl no AgInt no AREsp 874.797/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 9/8/2016).
+No mais, a despeito das alegações da recorrente, rever as conclusões das instâncias ordinárias acerca da quebra do nexo de causalidade e da culpa no evento demandaria o reexame de matéria fática e das demais provas dos autos, o que é absolutamente inviável nesta via recursal, consoante o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. ACIDENTE DE TRÂNSITO. NEXO CAUSAL. CULPA EXCLUSIVA OU CONCORRENTE DA VÍTIMA. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. DANOS MORAIS E MATERIAIS. VALOR EXORBITANTE. IMPOSSIBILIDADE DE REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+(..)
+2. O Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, entendeu que houve dano moral e material em decorrência de acidente de trânsito, ocasionando, inclusive, lesões graves, fixando indenização.
+3. É pacífico nesta Corte o entendimento no sentido de que afastar a ocorrência dos danos morais e/ou morais importa no revolvimento do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+4. É pacífico, também, o entendimento no sentido de que a fixação dos valores referentes a danos morais e materiais cabe às instâncias ordinárias, uma vez que resulta de apreciação de critérios da razoabilidade e da proporcionalidade do valor fixado, compatível com a extensão do dano causado, razão pela qual insuscetível de revisão em recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça. Agravo interno improvido" (AgInt no AREsp 893.015/BA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 13/6/2016).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista que já foram fixados na origem no percentual máximo.
+Publique-se. Intimem-se.
