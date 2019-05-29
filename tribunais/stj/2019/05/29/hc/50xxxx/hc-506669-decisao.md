@@ -1,0 +1,12 @@
+DECISÃO
+MICHEL ADRIANO FRANCISCO DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0002285-40.2017.8.26.0302).
+Consta dos autos que o paciente foi condenado às penas de 5 anos e 10 meses de reclusão, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, e de 2 meses e 10 dias de detenção, pelo cometimento do delito descrito no art. 329 do Código Penal.
+Busca-se, por meio deste writ, a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, a fixação de regime inicial mais brando de cumprimento de pena e a substituição da reprimenda privativa de liberdade por restritiva de direitos.
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pela denegação da ordem.
+Decido.
+No que tange à pretendida aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, verifico que não há como ser reconhecida a incidência do redutor em favor do paciente, haja vista a vedação expressa da concessão desse benefício aos acusados reincidentes. E, consoante salientou a Corte estadual, "Michel, de acordo com a certidão de objeto e pé de fls. 359/361, é realmente reincidente" (fl. 79).
+Consequentemente, "Levando-se em consideração o quantum de pena aplicado e a reincidência, faz-se de rigor a manutenção do regime fechado, sendo inviável a substituição por restritivas de direito, em vista do não preenchimento dos requisitos estabelecidos pelo artigo 44, do Código Penal" (fl. 80), nos termos em que asseverado pela Corte de origem.
+Registro, por oportuno, que o paciente, além de ser reincidente, ostenta circunstâncias judiciais desfavoráveis (tanto que a sua pena-base foi fixada acima do mínimo legal) e foi condenado a reprimenda superior a 4 anos de reclusão, circunstâncias que evidenciam ser o regime inicial fechado o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33, § 2º, "a", e § 3º, do Código Penal.
+Pelos mesmos motivos, fica mantida a negativa de substituição da pena privativa de liberdade por restritiva de direitos, em razão da ausência de cumprimento do requisito objetivo previsto no art. 44, I, do Código Penal (sanção superior a 4 anos de reclusão).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego o ordem.
+Publique-se e intimem-se.
