@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO COLETIVA. EXECUÇÃO. PRESCRIÇÃO. LIQUIDAÇÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF, APLICADAS POR ANALOGIA. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. In casu, o Tribunal de origem consignou: "É sabido que o título executivo judicial transitado em julgado só pode ser executado quando tenha se tornado líquido, não correndo o prazo prescricional enquanto o credor promove as diligências para viabilizar a execução. Assim, não há que se argumentar a respeito da decisão proferida pelo Superior Tribunal de Justiça, nos moldes do art. 543-C do CPC, ao apreciar o REsp nº 1.388.000/PR (Tema 877), julgado em 26.08.2015, uma vez que o leading case não apresenta consonância com o abordado nos presentes autos. (..) Assim, não há dúvida que o prazo prescricional para se promover a execução de condenação alcançada, em ação individual, se inicia com o trânsito em julgado do correspondente decreto condenatório porquanto tal questão é pacifica , contudo, quando se trata da iniciativa para executar condenação oriunda de ação coletiva, promovida no regime de substituição processual, sem que os substituídos sejam informados sobre a propositura da ação, não se pode admitir tal termo a quo, sob pena de violação da mens legis e de literalmente cercear o direito dos interessados" (fl. 23-26, e-STJ).
+2. Não obstante as razões explicitadas pela instância a quo, ao interpor o recurso, a Fazenda não atacou os argumentos da decisão, os quais, por serem aptos, por si sós, para manter o decisum combatido, permitem que se apliquem na espécie, por analogia, os óbices das Súmulas 283 e 284 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. Ademais, observa-se que a instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Dr(a) SOLANGE SAMPAIO CLEMENTE FRANÇA, pelas partes: RECORRIDO: ELIZABETH TEIXEIRA DE OLIVEIRA E OUTROS"
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO. AÇÃO COLETIVA EM FASE DE EXECUÇÃO. Preliminar. Prevenção. Objetos distintos. Não reconhecimento. Mérito. Decisão vergastada que rechaçou a alegação de prescrição da pretensão executiva. Título judicial de mandado de segurança coletivo impetrado pelo Sindicato dos Trabalhadores Públicos da Saúde - SINDSAÚDE, na qualidade de substituto processual dos servidores. Prescrição.
+Inocorrência. Não corre a prescrição enquanto não iniciadas diligências necessárias à liquidação do crédito resultante de sentença proferida em ação coletiva promovida no regime de substituição processual.
+Inaplicabilidade do julgamento proferido pelo STJ no REsp 1.388.000/PR (tema 877) por se tratar de "leading case" diverso. Decisão mantida. Recurso não provido.
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 1º do Decreto 20.910/1932 e 3º do Decreto-Lei 4.597/1942. Argumenta: a) "o título condenatório transitou em julgado em 10/6/08 (fl. 391 dos autos físicos), e a execução foi promovida em 04/11/14 (e-fl. 01), quando já decorridos mais de cinco anos daquela data, pelo que o crédito executado é inexigível", e b) "não há que se falar em obrigatoriedade, mesmo se tratando de execução de ação coletiva, de dar ciência do título executivo aos eventuais interessados por meio de publicação em edital, considerando que o art. 94 do CDC não faz essa exigência, conforme entendimento do Egr. STJ alcançado em sede de RECURSO REPETITIVO" (Tema 877) (fls. 29-37, e-STJ).
+Contrarrazões apresentadas às fls. 40-62, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 3.12.2018.
+A irresignação não merece prosperar.
+Ao decidir a lide, o Tribunal de origem lançou os seguintes fundamentos (fls. 23-26, e-STJ):
+É sabido que o título executivo judicial transitado em julgado só pode ser executado quando tenha se tornado líquido, não correndo o prazo prescricional enquanto o credor promove as diligências para viabilizar a execução.
+Assim, não há que se argumentar a respeito da decisão proferida pelo Superior Tribunal de Justiça, nos moldes do art. 543-C do CPC, ao apreciar o REsp nº 1.388.000/PR (Tema 877), julgado em 26.08.2015, uma vez que o leading case não apresenta consonância com o abordado nos presentes autos.
+(..)
+Assim, não há dúvida que o prazo prescricional para se promover a execução de condenação alcançada, em ação individual, se inicia com o trânsito em julgado do correspondente decreto condenatório porquanto tal questão é pacifica , contudo, quando se trata da iniciativa para executar condenação oriunda de ação coletiva, promovida no regime de substituição processual, sem que os substituídos sejam informados sobre a propositura da ação, não se pode admitir tal termo a quo, sob pena de violação da mens legis e de literalmente cercear o direito dos interessados.
+Não obstante as razões explicitadas pela instância a quo, ao interpor o recurso, a recorrente não atacou as alegações acima mencionadas, as quais sendo aptas, por si sós, para manter o decisum combatido, permitem que se apliquem na espécie, por analogia, os óbices das Súmulas 283 e 284 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Nessa esteira:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA - SÚMULA N. 284 DO STF - AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, a parte aponta negativa de vigência ao art. 458 do CPC, porém, limita-se a atacar, em suas razões recursais, a excessividade do quantum fixado a título de dano moral. Assim, a deficiência da fundamentação do apelo extremo não permite a exata compreensão da controvérsia, estando escorreita sua inadmissibilidade.
+2. A ausência de indicação expressa do ponto do decisum que confronta os dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 41.941/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 29/05/2013).
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. ART. 407 DO CÓDIGO CIVIL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. ART. 406 DO CÓDIGO CIVIL. JUROS MORATÓRIOS. TAXA LEGAL. FUNDAMENTO NÃO ATACADO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+ 2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. Embargos de declaração acolhidos parcialmente para sanar omissão apontada, sem, entretanto, emprestar-lhes efeito modificativo. (EDcl no AgRg no Ag 1089538/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 09/09/2011).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REVISIONAL. COMISSÃO DE PERMANÊNCIA E TAXA DE ABERTURA DE CRÉDITO. DECISÃO MANTIDA. RAZÕES DESASSOCIADAS DOS FUNDAMENTOS DA ADOTADOS PELA DECISÃO IMPUGNADA. INCIDÊNCIA DA SÚMULA 284 DO STF.
+(..)
+3. O agravante que, em sede de agravo, se aventura em alegações outras que não seja a impugnação, de forma clara e específica, dos fundamentos adotados na decisão monocrática terá sua argumentação considerada deficiente por razões desassociadas, o que enseja a aplicação da inteligência da Súmula 284 do STF, caso dos autos.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1357144/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 29/04/2013).
+Ademais, observa-se que a instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Assim, afasta-se a idéia de simples valoração da prova, concluindo tratar-se de pura análise do conteúdo fático-probatório dos autos, o que, como é cediço, é vedado na estreita via do Recurso Especial, por força da Súmula 7 do STJ, conforme já acima mencionado.
+Portanto, o Recurso Especial interposto não merece trânsito, haja vista que os argumentos sub examine implicam nova análise do conjunto fático-probatório carreado aos autos, providência que o Recurso Especial não comporta.
+Ante o exposto, não conheço do Recurso Especial.
+É como voto.
