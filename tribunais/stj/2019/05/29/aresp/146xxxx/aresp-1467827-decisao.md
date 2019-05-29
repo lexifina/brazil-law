@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. EXCESSO DE EXECUÇÃO NÃO COMPROVADO. SÚMULAS N. 7 DO STJ. 3. FUNDAMENTO NÃO ATACADO. SÚMULA N. 283 DO STF. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por Caixa de Previdência dos Funcionários do Banco do Brasil desafiando decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, manejado, por sua vez, contra acórdão assim ementado (e-STJ, fl. 681):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. IMPROCEDENTE. HOMOLOGAÇÃO DO LAUDO PERICIAL ALEGAÇÃO DE INCORREÇÕES NOS CÁLCULOS APRESENTADOS DISSOCIADAS DO CONTEXTO DOS AUTOS. DECISÃO AGRAVADA RATIFICADA. PRECEDENTE. LITIGÂNCIA DE MÁ-FÉ INOCORRENTE. AGRAVO IMPROVIDO.
+Os aclaratórios opostos foram rejeitados (e-STJ, fls. 753-757).
+Nas razões do recurso especial, a recorrente alegou negativa de prestação jurisdicional quanto à violação da coisa julgada ante a homologação do cálculo pericial.
+Foram apresentadas contrarrazões (e-STJ, fls. 793-798).
+O Tribunal local inadmitiu o processamento do recurso especial pela ausência de ofensa ao art. 1.022 do NCPC.
+Irresignada, a recorrente interpõe agravo refutando o óbice apontado pela Corte estadual.
+Contraminuta às fls. 793-798 (e-STJ).
+Brevemente relatado, decido.
+De início, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No mais, não se reconhece a apontada violação do art. 1.022 do Novo Código de Processo Civil, pois, de um lado, não existia omissão a ser suprida; de outro, foram apropriados e legítimos os fundamentos que sustentaram a conclusão alcançada pelo acórdão local, não se podendo a ele atribuir o vício de omissão apenas porque resolveu a celeuma em sentido contrário ao postulado pela parte.
+De acordo com a jurisprudência desta Casa, o magistrado não está obrigado a se manifestar acerca de todos os argumentos assinalados pelas partes, notadamente quando já houver decidido a controvérsia com base em outras justificativas.
+O Tribunal estadual concluiu pela homologação dos cálculos do laudo pericial mantendo a improcedência da impugnação ao cumprimento de sentença. Asseverou que os cálculos do perito foram devidamente discriminados, com demonstração da forma de cálculo e que não ficou comprovado o excesso de execução.
+A decisão foi assim fundamentada (e-STJ, fls. 683-686):
+Antes de apreciar o cálculo realizado pelo perito, necessário sejam analisadas as alegações do impugnante, que dizem respeito a forma do cálculo realizado e encargos que entende devam ser incluídos.
+No tocante a pretensão de inclusão de juros destinados ao Fundo de Quitação por Morte e Fundo de Liquidez, incabível o acolhimento.
+Ocorre que a ação foi julgada unicamente com base nas alegações das partes, na medida em que a demandada não juntou qualquer contrato.
+Diante disso, a sentença explicitou os encargos incidentes e a forma de cálculo. Não pode a parte autora, portanto, pretender a inclusão de parcelas não consideradas na sentença exequenda.
+Quanto a alegação de que o recálculo das prestações está em desacordo com a sentença, afirmação repetida quando impugna o laudo pericial, igualmente merece ser rechaçada.
+Veja-se que a sentença determinou os encargos que devam incidir. A parte autora, por outro lado, já havia efetuado o pagamento da totalidade do débito (o que a impugnante, somente nas últimas manifestações, acabou por reconhecer, pois antes afirmava a existência de débito remanescente).
+o cálculo do valor que deveria ter sido pago, de acordo com a sentença, e aquele que foi efetivamente pago pelo autor, consoante comprovantes de pagamento juntados aos autos. Portanto, correto o cálculo apresentado, nesse aspecto, inclusive quando aplica, sobre a diferença encontrada os encargos determinados na sentença.
+Outrossim, a questão referente a suposta aplicação de juros de 6% ao ano, trazida na inicial, restou esvaziada, pois o cálculo ora em análise é o realizado pelo perito, que utilizou os índices determinados na decisão judicial em comparação com os efetivamente aplicados nas parcelas pagas.
+Por fim, no tocante aos honorários advocatícios, os impugnados reconheceram expressamente que houve equívoco na data considerada como início de fluência dos juros moratórios. Ademais, o valor trazido pelo perito, na folha 611, inclui juros a partir de 22.05.2017, como postulado pelo impugnante (fl. 613 verso), e não restou impugnado nesse aspecto. O laudo pericial de folhas 611/619, portanto, merece ser homologado, na medida em que rigorosamente de acordo com o decidido na sentença, sendo as duas últimas manifestações - específicas em relação ao laudo em questão - essencialmente genéricas, não apontando qualquer desconformidade específica.
+Deixo de condenar o impugnante às penas de litigância de má-fé, que não se caracteriza pelo desacolhimento das alegações.
+Por fim, em conformidade com o despacho irrecorrido de folha 419, seriam incabíveis honorários caso não apresentada impugnação.
+Todavia, apresentada esta, cabível a incidência de honorários advocatícios para a fase de cumprimento de sentença, tal como requerido pelos credores, e que ainda não foram fixados.
+Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em razão da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ademais, a recorrente limita-se a reiterar as alegações do agravo de instrumento, originalmente interposto na origem, bem como dos embargos de declaração, sem impugnar as razões adotadas pelo acórdão recorrido quanto à ausência de comprovação do excesso de execução. Portanto, é inevitável o reconhecimento do óbice da Súmula 283/STF, segundo o qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
