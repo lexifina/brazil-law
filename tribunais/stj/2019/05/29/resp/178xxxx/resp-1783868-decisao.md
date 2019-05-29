@@ -1,0 +1,38 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA C/C RESTITUIÇÃO DE VALORES. DECISÃO INTERLOCUTÓRIA QUE DECLAROU DE OFÍCIO A INCOMPETÊNCIA DO JUÍZO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+RECORRIBILIDADE IMEDIATA POR AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AO ART. 1.015, III, DO CPC/2015. INTERPRETAÇÃO EXTENSIVA OU ANALOGIA. IMPOSSIBILIDADE. TAXATIVIDADE MITIGADA. MODULAÇÃO.
+1. Ação declaratória c/c restituição de valores.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A Corte Especial do STJ, por ocasião do julgamento dos recursos especiais nº 1.696.396/MT e 1.704.520/MT, submetidos ao rito dos repetitivos, de um lado vedou a possibilidade de uso da interpretação extensiva e da analogia para alargar as hipóteses de cabimento do agravo de instrumento e de, outro lado, estabeleceu que a incidência da tese da taxatividade mitigada, segundo a qual se admite a interposição do agravo quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, apenas se aplicará às decisões interlocutórias proferidas após a publicação do acórdão que fixou a tese, a saber, 19/12/2018.
+4. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+DECISÃO
+Cuida-se de recurso especial interposto por CHUBB SEGUROS BRASIL S.A, com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Recurso Especial interposto em: 15/06/2018.
+Concluso ao gabinete em: 11/12/2018.
+Ação: cautelar de protesto interruptivo de prescrição, ajuizada pela recorrente, em face de RUBIN TRANSPORTES LTDA, na qual alega - em síntese - que a ré foi contratada para transportar carga da segurada da demandante, da cidade de Sapezal/MT para Porto Velho/RO, e pelo que consta do dossiê de regulação de sinistro, e demais documentos, no dia 07/02/2017, quando o motorista estava transitando pela Rodovia MT 235, sentido Campo Novo a Sapezal, a aproximadamente 25 km da cidade de Sapezal, ao desviar de buracos na pista, o semirreboque saiu da pista, causando o tombamento de parte da mercadoria que estava sendo transportada.
+Afirma a demandante que, no devido momento, apresentará sua reclamação administrativa, objetivando a resolução extrajudicial dessa pendência e, até mesmo, judicialmente, se necessário for.
+Por derradeiro, aduz que necessita manter em vigor seu direito de pleitear em juízo, se necessário, a reparação dos danos sofridos por exclusiva responsabilidade da requerida. Dessa forma, considerando o termo final do prazo prescricional de direito de cobrança judicial, por cautela, não resta à requerente outra alternativa que não a interrupção judicial e imediata do seu fluxo.
+Decisão interlocutória: reconheceu de ofício de incompetência relativa e ante a ausência de justificativa para propositura de ação em comarca diversa do domicílio da ré, determinou a redistribuição dos autos para aquela Comarca.
+Decisão unipessoal do Relator: não conheceu do agravo de instrumento interposto pela recorrente.
+Acórdão: negou provimento ao agravo interno interposto pela recorrente, nos termos da seguinte ementa:
+COMPETÊNCIA - Agravo de instrumento - Hipótese não prevista no rol do artigo 1015 do Código de Processo Civil, não se podendo interpretar a norma de forma contrária ao seu sentido (contra legem), restando mantido o entendimento de que não era cabível agravo de instrumento na hipótese em exame - Decisão mantida - Agravo interno desprovido. (e-STJ, fl. 270)
+Recurso especial: alega violação dos arts. 46, 53, 65 e 1.015, III, do CPC/15, bem como dissídio jurisprudencial. Sustenta que:
+i) a decisão interlocutória objeto do recurso de agravo de instrumento se enquadra, por interpretação extensiva, na hipótese de cabimento do art. 1.015, III, do CPC/15; e
+ii) à impossibilidade de reconhecimento de ofício de incompetência territorial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca não decidiu acerca dos argumentos invocados pela recorrente em seu recurso especial quanto ao arts. 46, 53, 65, todos do CPC/15 (referentes à impossibilidade de reconhecimento de ofício de incompetência territorial), o que inviabiliza o seu julgamento. Aplica-se, portanto, a Súmula 282/STF.
+Ressalta-se que eventual alegação de ser de ordem pública os temas insertos nos dispositivos legais mencionados não torna indispensável o devido prequestionamento. Nesse sentir: AgInt no AREsp 1.021.641/MG (3ª Turma, DJe 19/05/2017) e AgInt no AREsp 613.606/PR (4ª Turma, DJe 17/05/2017).
+- Da aplicação do tema repetitivo 988
+De antemão, é preciso lembrar que a Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento dos recursos especiais representativos da controvérsia nº 1.696.396/MT e 1.704.520/MT, submetidos ao rito dos repetitivos, ambos com acórdãos publicados no DJe de 19/12/2018, pronunciou-se expressamente pela impossibilidade de uso da interpretação extensiva e da analogia para alargar as hipóteses de cabimento do recurso de agravo de instrumento.
+Sobre essa questão, aliás, anote-se ter havido unanimidade da Corte Especial deste Superior Tribunal de Justiça, na medida em que os e. Ministros que foram contrários à tese vencedora - taxatividade mitigada - filiaram-se ao entendimento de que o rol do art. 1.015 do CPC/15 era de taxatividade irrestrita, negando, consequentemente, a possibilidade de interpretação extensiva ou de uso da analogia.
+De outro lado, anote-se que a tese jurídica da taxatividade mitigada, segundo a qual se admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, apenas se aplicará às decisões interlocutórias proferidas após a publicação do acórdão que fixou a tese, a saber, 19/12/2018.
+Realizadas essas considerações preliminares, verifica-se, na hipótese em exame, que a decisão interlocutória proferida em 1º grau de jurisdição, em 08/02/2018 (e-STJ, fl. 229), refere-se ao reconhecimento de ofício de incompetência relativa e ante a ausência de justificativa para propositura de ação em comarca diversa do domicílio da demandada, com a determinação de redistribuição dos autos para aquela Comarca.
+Sustenta a recorrente, na hipótese, que teria havido violação ao art. 1.015, III (rejeição da alegação de convenção de arbitragem), na medida em que essa regra se aplicaria, por interpretação extensiva, às hipóteses relacionadas à competência, o que, como se verifica, foi expressamente vedado por ocasião da fixação da tese repetitiva 988.
+Anote-se, ademais, que também não se aplica a tese jurídica da taxatividade mitigada à hipótese, na medida em que a decisão interlocutória impugnada foi proferida antes da publicação do acórdão que fixou a tese.
+Por fim, a fundamentação acima reproduzida evidentemente afasta a existência do alegado dissídio jurisprudencial, tendo a Corte Especial dissipado as divergências ao fixar as teses acima enunciadas.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO, com fundamento no art. 932, III, e IV, "b", do CPC/15, ressalvada a possibilidade de a recorrente discutir a questão objeto da decisão interlocutória no recurso de apelação ou em suas contrarrazões.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno às partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, ambos do CPC/15.
+Publique-se. Intimem-se.
