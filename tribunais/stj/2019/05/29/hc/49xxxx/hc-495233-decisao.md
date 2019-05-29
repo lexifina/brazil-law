@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de RICARDO DO CARMO DE MORAES contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Agravo em Execução n. 9002159-11.2017.8.26.0050.
+Extrai-se dos autos que o Juízo das Execuções indeferiu pedido de unificação de penas do paciente, porquanto solicitada a inclusão de penas extintas pelo cumprimento (fl. 25).
+Irresignado, o impetrante interpôs agravo em execução perante o Tribunal de origem, que negou provimento ao recurso, em acórdão assim ementado:
+AGRAVO EM EXECUÇÃO PENAL UNIFICAÇÃO DE PENAS - Condenação superveniente, quando já se encontravam extintas as execuções criminais anteriores - Impossibilidade de unificação - Termo inicial de cumprimento que, considerada a detração, deve corresponder ao término da pena anterior - Decisão de primeira instância que se revela escorreita - Recurso desprovido (fl. 5).
+Daí o presente writ, no qual o impetrante alega estar o paciente sofrendo constrangimento ilegal em razão da ausência de unificação de todas as suas condenações. Afirma que no cálculo dos benefícios prisionais deve ser realizado com base nas guias de recolhimento de 1 a 5, "unificadas, para todos os fins, nos exatos termos do artigo 75, do Código Penal" (fl. 2).
+Requer a unificação das penas relativas às execuções de 1 a 5.
+Sem pedido de liminar. As instâncias ordinárias prestaram as informações necessárias (fls. 23/53 e 54/76).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fl. 78).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+No caso dos autos, o impetrante busca a unificação das penas de todas as execuções, para fins do limite trintenário estabelecido no art. 75 do Código Penal, bem como para a obtenção dos benefícios prisionais.
+O Juízo das Execuções informou que o paciente cumpre a pena total de 24 anos, resultante da soma de uma condenação pelo delito de tráfico e uma por crime comum (fl. 25) e indeferiu o pedido de unificação do impetrante, argumentando que quatro condenações (guias de recolhimento de 01 a 04) haviam sido extintas pelo cumprimento da pena (fl. 28). Por sua vez, a Corte estadual negou provimento ao agravo interposto pelo impetrante, mantendo o entendimento do Juízo de primeiro grau, nos termos da seguinte fundamentação:
+Sustenta o agravante, em síntese, que foi condenado em cinco oportunidades, sendo a última condenação decorrente de fato perpetrado em 11/09/2014, quando cumpria sua pena unificada relativa às execuções criminais 1 a 4. Sublinha que, embora a guia de recolhimento atinente à execução criminal 5 decorra de sentença condenatória proferida em 29/08/2015, tendo sido preso em flagrante por tais fatos em 11/09/2014, o MM. Juízo a quo deixou de proceder à devida unificação, sendo certo que houve extinção das penas relativas às execuções pretéritas em 22/09/2016.
+Requer, assim, diante da importância da unificação perseguida para fins de contagem de benefícios e de tempo máximo de cumprimento, que sejam suas penas unificadas, para todos os fins, nos termos do art. 75, do CP, contentando-se, alternativamente, que seja considerado como termo inicial a data da prisão respectiva (f Is. 22/23vº).
+(..)
+Não se descura do fato de que o processo de execução deve corresponder ao conjunto de condenações do sentenciado, merecendo as respectivas adequações, aliás, como determina o artigo 111, da Lei de Execução Penal.
+Ocorre que, no presente caso, de acordo com a informação prestada às fls. 18, corroborada pela folha de antecedestes colacionada às fls. 32/44, bem como por pesquisa ao site deste E. Tribunal de Justiça, verifica-se que a execução criminal nº 5, ora em cumprimento, só resultou no cadastramento do processo de execução respectivo em 28/07/2016, quando já se encontravam extintas, pois, as execuções criminais anteriores (1 a 4), cujas penas restaram cumpridas em 24/04/2016.
+Com isso não há como se falar em unificação da presente execução às demais, uma vez que, ainda que se refira ela a delito perpetrado em momento anterior, só adveio quando já se encontravam extintas as demais execuções.
+(..)
+Assim, inviável a unificação de penas pretendidas, revelando-se o cálculo de penas elaborado escorreito (fls. 6/8).
+Não assiste razão ao impetrante, pois para efeito de aplicação do limite de 30 anos de cumprimento da pena privativa de liberdade, somam-se as reprimendas das execuções vigentes. Desse modo, ainda que a nova condenação seja referente a delito praticado durante a vigência de execuções que, posteriormente, foram extintas pelo integral cumprimento das penas, não há falar em unificação de penas.
+Nesse sentido, cito precedente:
+RECURSO ESPECIAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. UNIFICAÇÃO DE PENAS. IMPOSSIBILIDADE. EXECUÇÃO ANTERIOR JÁ EXTINTA. RECURSO ESPECIAL PROVIDO.
+1. Da leitura do disposto no parágrafo único do art. 111 da Lei de Execução Penal, é possível inferir que o legislador condicionou a unificação de penas à superveniência de nova condenação durante a execução de reprimendas anteriores. Assim, se a nova condenação, posterior, sobrevier quando o apenado já estiver em liberdade, pelo integral cumprimento das penas anteriores, não há que falar em unificação de penas.
+2. No caso, o término do cumprimento das primeiras penas impostas ao recorrido ocorreu em 16/1/2009 e a nova condenação sobreveio apenas em 1º/7/2010, quando já extinta, portanto, a execução das penas privativas de liberdade impostas em relação aos processos anteriores.
+3. Havendo um lapso entre o integral cumprimento das penas anteriores e o início do cumprimento da reprimenda superveniente, não há como se acolher o pedido de unificação de penas formulado em favor do ora recorrido.
+4. Recurso especial provido para cassar o acórdão impugnado e determinar o início do cumprimento da pena oriunda da condenação de Cocalzinho/GO (REsp 1464159/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 04/08/2015).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
