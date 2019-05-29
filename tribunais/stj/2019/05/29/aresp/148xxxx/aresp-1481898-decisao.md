@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. LEGITIMIDADE DO MANDADO DE SEGURANÇA COLETIVO. ABRANGÊNCIA DA CATEGORIA. FUNDAMENTO CONSTITUCIONAL. EXAME EM RECURSO ESPECIAL. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por Estado de São Paulo e São Paulo Previdência - SPPREV em face de decisão do Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso contra acórdão assim ementado (e-STJ fl. 284):
+AÇÃO ORDINÁRIA DE COBRANÇA - Pretensão ao recebimento de valores, relativos ao ALE, no período imprescrito, vantagem esta incorporada por força de ação mandamental - Conquanto diverso, hoje, o entendimento da E. Câmara acerca da matéria, e mais, embora não se possa falar na existência de coisa julgada que pudesse vincular a decisão, no presente caso, é certo que não se afigura razoável pudesse prevalecer, quanto a período anterior àquele em que o órgão colegiado, em outros tempos, reconheceu o direito à incorporação do ALE, orientação atual - Reexame necessário e apelação da autarquia improvidos - Recurso dos autores parcialmente provido.
+Os embargos de declaração apresentados na origem foram rejeitados.
+Nas razões do especial, o recorrente sustenta violação do art. 2º-A, parágrafo único, da Lei n. 9.494/1997, pois não é possível considerar que o julgado proferido no mandado de segurança alcance a parte ora recorrida, eis que não houve comprovação de condição de filiada à Associação à época da impetração da demanda coletiva.
+Apresentadas contrarrazões às e-STJ fl. 221/239.
+A decisão agravada negou seguimento ao especial sob a compreensão de que o provimento das teses recursais depende de exame probatório dos autos.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque o exame de suas pretensões não depende de exame probatório dos autos.
+Ofertada contraminuta às e-STJ fls. 290/296.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Sobre a violação do 2º-A, parágrafo único, da Lei n. 9.494/1997, o Tribunal de origem decidiu a controvérsia quanto à legitimidade da associação para a impetração de um mandado de segurança capaz de abranger toda a categoria (inclusive a parte ora recorrida) à luz de fundamentos constitucionais. Veja-se o seguinte trecho (e-STJ fl. 177):
+De fato, o STF decidiu, no julgamento do RE nº 573.232/SC, em 14/05/2014, relatado pelo Min. Marco Aurélio, que, em ações propostas por entidades associativas, apenas os associados que tenham dado autorização expressa para sua propositura poderão executar o título judicial. Ocorre que, no julgamento, reconheceu-se expressamente que o entendimento não abrange as hipóteses de mandado de segurança coletivo. Igualmente o precedente RE 612.043/RG/PR não cuida de ação mandamental, mas de ações coletivas, quando então a regra constitucional aplicável é a do art. 5º, inc. XXL da CF/1988.
+Deve-se asseverar, ainda, que no julgamento do RE 193.382/SP, cuio entendimento foi confirmado no julgamento da repercussão geral do RE 573.232-1/SC, decidiu-se iustamente que a impetração de mandado de segurança coletivo por associação não exige a expressa autorização, por se enquadrar em hipótese normativa diversa do inciso XXI do art. 5º da Constituição, ou seja, aplica-se o inciso LXX, alínea "b", do mesmo dispositivo constitucional, in verbis:
+Presente a fundamentação eminentemente constitucional no ponto, afasta-se a possibilidade de revisão pelo Superior Tribunal de Justiça. Ganham relevância, exemplificativamente, os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. IMUNIDADE. ENTIDADE FILANTRÓPICA. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO DA MATÉRIA EM RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+2. O acórdão recorrido tem como fundamento matéria eminentemente constitucional. Sendo assim, destaco a inviabilidade da discussão em Recurso Especial acerca de suposta ofensa a matéria constitucional, porquanto seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição.
+ ..
+4. Recurso Especial não conhecido.
+(REsp 1779961/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/12/2018, DJe 06/03/2019)
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL. PROFESSOR. DISTRIBUIÇÃO DA CARGA HORÁRIA UTILIZANDO COMO PARÂMETRO A HORA ATIVIDADE. ACÓRDÃO RECORRIDO COM FUNDAMENTO CONSTITUCIONAL E EM LEGISLAÇÃO DO ESTADO. CPC/2015. RECURSO EXTRAORDINÁRIO INTERPOSTO NOS AUTOS. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE NESTA CORTE. EMBARGOS DE DECLARAÇÃO. OMISSÃO.
+ ..
+III - Todavia, no caso dos autos, inexiste prejudicialidade do recurso extraordinário em relação ao especial, e sim a impossibilidade de conhecimento do recurso especial. Isso porque, apesar de estar em discussão a aplicação da Lei Federal n. 11.738/2008, o Tribunal de origem decidiu a controvérsia sob fundamento exclusivamente constitucional, declarando a inconstitucionalidade do art. 2º, § 4º, da Lei n. 11.738/08, o que afasta a competência do Superior Tribunal de Justiça, sob pena de usurpação da competência do Supremo Tribunal Federal. Assim, não é o caso de sobrestamento do recurso especial.
+IV - Embargos de declaração parcialmente acolhidos, sem efeitos modificativos, nos termos da fundamentação.
+(EDcl no AgInt no REsp 1632654/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/12/2018, DJe 12/12/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
