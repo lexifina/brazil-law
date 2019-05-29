@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que negou provimento ao apelo defensivo.
+Sustenta o recorrente violação do art. 155, caput, do Código Penal, além do dissídio jurisprudencial, sob a alegação de atipicidade material da conduta consistente na tentativa de furto de dois enxaguatórios bucais da marca Colgate, avaliados em R$34,00. Registra que o bem foi restituído à vítima, a qual não suportou prejuízo penalmente significativo.
+Requer, assim, a reforma o acórdão recorrido, a fim de que seja aplicado o princípio da insignificância, absolvendo-se o recorrente nos termos do art. 386, III, do CPP.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo não conhecimento do recurso, e, no mérito, pelo seu improvimento.
+É o relatório.
+DECIDO.
+A controvérsia posta em debate restringe-se à incidência do princípio da insignificância.
+O Tribunal paulista exarou a seguinte fundamentação para afastar a aplicação do referido princípio (fls. 281-283):
+ ..  IV- Pretende o combativo defensor a aplicação do princípio da insignificância ao caso sub examine, argumentando que o valor da res furtivae é ínfimo (avaliada em R$ 38,00 - fls. 15) e que a empresa vítima não teve prejuízo, pois recuperou os produtos furtados.
+Todavia, o furto de bagatela só alcança bem de valor inexpressivo, cuja identidade há de ser realizada à vista de um conjunto de considerações e não de maneira isolada, com a óptica voltada exclusivamente ao preço da res furtivae. Em outras palavras, o princípio da insignificância, como causa supra legal de exclusão da tipicidade, é um instrumento posto à disposição dos operadores do direito que conduz à descriminalização de conduta formalmente típica, mas que não atinge com relevância jurídica os bens protegidos pelo direito penal. Esse princípio vale-se, principalmente, da tendência à intervenção mínima do direito penal e da necessidade de proporcionalizar a pena prevista para o caso à gravidade da conduta criminosa. A insignificância, assim, deve ser alcançada à vista de todas as circunstâncias que envolveram o ilícito, inclusive aspectos subjetivos:
+ ..  Nessa linha de interpretação, na hipótese sub examine não há enquadramento da conduta do réu naquilo que se considera bagatela, pois o acusado já foi o condenado por furto (por duas vezes - fls. 133 e 134) e ainda responde a outro processo por esse crime (fls. 181), o que revela sua propensão à prática de ilícito dessa natureza. Tudo a afastar a adoção do princípio da insignificância penal.
+Aliás, sobre esses tópicos (autoria e tipicidade), o julgamento de 1º grau analisou na integralidade e com superioridade os argumentos trazidos pelo recorrente (fls. 238/241).
+A sentença deve, por isso, ser mantida pelos próprios fundamentos, nos moldes do artigo 252 do Regimento Interno deste Tribunal.
+Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores, a saber: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzidíssimo grau de reprovabilidade do comportamento e d) inexpressividade da lesão jurídica provocada.
+Deste modo, o irrisório valor da tentativa de furto de dois enxaguatórios bucais da marca Colgate, avaliados em R$ 34,00 - o que representa cerca de 3,86% do salário mínimo vigente à época dos fatos -, permite fazer incidir o princípio da insignificância, ainda que verificada a reincidência do réu, apta a ensejar a atipicidade material. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. AFASTAMENTO. IMPOSSIBILIDADE. VALOR DA RES FURTIVA IRRISÓRIO. AGRAVO NÃO PROVIDO.
+1. Em casos excepcionais, este Tribunal tem admitido a incidência do princípio da insignificância mesmo nas hipóteses em que reincidente o réu e cometido o delito em sua forma qualificada, quando demonstrada a mínima ofensividade da conduta.
+2. O irrisório valor subtraído pelo réu (R$ 30,00) evidencia a reduzida ofensividade penal e social da conduta, motivo pelo qual deve ser mantida a decisão agravada.
+3. Agravo regimental não provido (AgRg no AREsp 1103145/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 3/8/2017, DJe 10/8/2017).
+PROCESSUAL E PENAL. HABEAS CORPUS. FURTO. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. REINCIDÊNCIA. EMPECILHO. AFASTAMENTO. FLAGRANTE ILEGALIDADE. EXISTÊNCIA. ATENUANTE DA CONFISSÃO ESPONTÂNEA A SER COMPENSADA COM AGRAVANTE DA REINCIDÊNCIA. MATÉRIA PREJUDICADA. TEMA SUSCITADO NÃO DECIDIDO NO ACÓRDÃO ATACADO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. IMPETRAÇÃO NÃO CONHECIDA. CONCEDIDA A ORDEM EX OFFICIO.
+ ..
+3. No caso, o Paciente subtraiu da vítima duas camisetas avaliadas em R$ 39,00 (trinta e nove reais), montante que à época dos fatos (janeiro de 2014) equivalia a pouco mais de 5% do salário mínimo então vigente - R$ 724,00 (setecentos e vinte e quatro reais) -, sendo certo que os bens foram devolvidos à vítima.
+4. Reconhece-se, então, o caráter bagatelar do comportamento imputado, não havendo falar em afetação do bem jurídico tutelado (patrimônio).
+5. Não é empecilho à aplicação do princípio da insignificância, no caso concreto, o fato de o Paciente ser reincidente (uma sentença condenatória), tendo em vista as circunstâncias particulares que permitem concluir que estão presentes os vetores acima mencionados. Flagrante ilegalidade detectada.
+ ..  (HC 321197 / RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/05/2015, DJe 24/06/2015).
+Ante o exposto, dou provimento ao recurso especial para absolver o recorrente pela incidência do princípio da insignificância.
+Publique-se.
+Intimem-se.
