@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INDEFERIMENTO DO PEDIDO DE GRATUIDADE DE JUSTIÇA. PREMISSA DE QUE NÃO FOI DEMONSTRADA A HIPOSSUFICIÊNCIA FINANCEIRA DOS REQUERENTES. PRETENSÃO DE REVISÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME] MALGERO LIMA e [NOME] [NOME] LIMA em face de decisão que não admitiu o recurso especial fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Agravo de Instrumento. Embargos à execução. Decisão que rejeitou embargos de declaração opostos contra decisão que indeferiu pedido de justiça gratuita. Inconformismo. Peculiaridades do caso que elidem a presunção formada com a declaração de pobreza. Indícios de que os agravantes possuem condições de arcar com o pagamento das custas e despesas processuais. Decisão mantida. Agravo não provido." (e-STJ fl. 261)
+Nas razões do recurso especial, os recorrentes alegam a violação do art. 98 do Código de Processo Civil de 2015, ao argumento, em síntese, de que lhes deveriam ter sido deferidos os benefícios da gratuidade de justiça ou ao menos o diferimento do pagamento das custas processuais, pois "os recorrentes são pessoas físicas, notoriamente hipossuficientes e proprietários de empresa que se encontra em recuperação judicial, a qual está apurando prejuízos de elevada monta, conforme se corrobora com os balancetes juntados aos autos" (e-STJ fl. 274).
+Contrarrazões às fls. 306-311.
+Sobreveio juízo de admissibilidade do Tribunal de origem (e-STJ fls. 312-315), que inadmitiu o recurso especial, por considerar que incide o óbice da Súmula 7 deste Superior Tribunal de Justiça.
+É o breve relatório.
+Passo a decidir.
+A pretensão recursal não merece acolhida, pois a decisão de admissibilidade está correta ao indicar que o teor da Súmula 7/STJ obsta o conhecimento do recurso especial.
+Com efeito, a Corte estadual, após analisar os elementos de convicção acostados aos autos, manteve a decisão na qual foram indeferidos os benefícios da gratuidade de justiça. Confiram-se os seguintes trechos dos acórdãos nos quais foram apreciados o agravo de instrumento e os embargos de declaração interpostos pelos ora recorrentes:
+" ..  não se pode discordar do entendimento da magistrada "a quo", ao não ver nos elementos produzidos nos autos que os embargantes, ora agravantes, ostentem o figurino de hipossuficiente.
+À margem a discussão sobre o quanto envolvido em empréstimo pelo qual, na condição de garantes, estão sendo executados, o fato é que são empresários e, naturalmente, o que circunda de patrimônio pessoal em torno da sociedade garantida e no particular de suas pessoas físicas, nem aqui cogitadas, sobra para não vê-los hipossuficientes o que eles têm de recebíveis, mensalmente.
+[NOME], como observado nos autos da ação execução, recebe proventos mensais de aposentadoria da ordem de R$ 4.248,54. E [NOME], pró-labore mensal de R$ 5.000,00, conforme documentos que esta última juntara aos autos dos Embargos de Devedor.
+Com isso, por oportuno, é de se observar que, em traço objetivo de definição de pessoa necessitada, a Defensoria Pública do Estado de São Paulo confere a condição para "a pessoa natural que integre núcleo familiar, cuja renda mensal bruta não ultrapasse o valor total de 3 (três) salários mínimos", o que hoje eqüivale a R$ 2.800,00.
+Portanto, não ostentam o perfil de pessoa necessitada para alcançarem o benefício da gratuidade." (e-STJ fls. 264-265)
+"Não se ignora, é verdade, que o fato da sociedade se encontrar em dificuldades poderia acarretar a hipossuficiência alegada, mas a prova existente nos autos foi suficiente à comprovação da capacidade econômica.
+ ..
+E, neste ponto, os embargos merecem acolhimento para somente fazer constar da decisão que, não obstante possível o diferimento, nos termos do art. 52 da Lei Estadual n8 11.608/2003, este depende da comprovação, por meio idôneo, da momentânea impossibilidade financeira do seu recolhimento e esta inexiste nos autos.
+Ao contrário, a renda percebida pelos embargantes, aliado ao fato de que tiveram oportunidade para a juntada, aos autos principais, das respectivas declarações de Imposto de Renda, sem prejuízo de outros documentos, juntaram ao feito somente aqueles que entendiam pertinentes à demonstração de hipossuficiência, sem a intenção de demonstrar as suas reais situações econômico financeiras." (e-STJ fl. 301)
+Em vista disso, a reforma do acórdão recorrido é inviável, eis que, para se elidir a conclusão a que chegou o Tribunal de origem quanto à ausência de demonstração da hipossuficiência financeira dos recorrentes, bem como para se aferir a comprovação da alegada impossibilidade de recebimento de pró-labore, em face das dificuldades financeiras da empresa, seria necessário reexaminar o conjunto fático-probatório constante dos autos, o que é vedado na via do recurso especial.
+Sobre o tema, confira-se a jurisprudência desta Corte Superior, mutatis mutandis:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. GRATUIDADE DA JUSTIÇA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA. POSSIBILIDADE DE O JUIZ DENEGAR O PEDIDO DE OFÍCIO, EXCEPCIONALMENTE. CONJUNTO FÁTICO-PROBATÓRIO DESTES AUTOS QUE ILIDE ESSA PRESUNÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo se falar em negativa de prestação jurisdicional.
+2. A modificação do acórdão recorrido (que manteve a decisão de indeferimento do pedido da parte recorrente de concessão da gratuidade da justiça, porquanto não demonstrada a condição de hipossuficiência) demandaria necessariamente o revolvimento dos fatos e das provas dos autos, atraindo, assim, o óbice disposto na Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1173534/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/02/2018, DJe 06/03/2018, g.n.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. IMPUGNAÇÃO. PROVA DA CAPACIDADE DO BENEFICIÁRIO. ÔNUS DO IMPUGNANTE. APLICAÇÃO DAS SÚMULAS NºS 7 E 83/STJ. RECURSO NÃO PROVIDO.
+1. O Tribunal de origem, apreciando as peculiaridades fáticas da causa, deferiu o benefício da assistência judiciária gratuita. A modificação de tal entendimento lançado no v. acórdão recorrido, como ora perseguida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+2. Além disso, na hipótese de impugnação do deferimento da assistência judiciária gratuita, cabe ao impugnante comprovar a ausência dos requisitos legais para a concessão do benefício, ônus do qual não se incumbiu a parte ora agravante, segundo assentado pelo acórdão recorrido. Incidência da Súmula 83 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1023791/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/03/2017, DJe 29/03/2017, g.n.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ARTS. 649, IV e X, do CPC/73, 1º DA LEI Nº 8.009/90 E 3º DA LEI Nº 10.741/03. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DAS SÚMULAS NºS 282 E 356 DO STF. CONCESSÃO DA JUSTIÇA GRATUITA. INDEFERIMENTO. FUNDAMENTO CONSTITUCIONAL NÃO IMPUGNADO. SÚMULA Nº 126 DO STJ. HIPOSSUFICIÊNCIA PRESUNÇÃO AFASTADA COM APOIO NO SUPORTE FÁTICO CONSTANTE DOS AUTOS . SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. Rever os fundamentos do acórdão estadual acerca da ausência da alegada hipossuficiência da recorrente, na via especial, está obstado pela Súmula nº 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 905.341/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/03/2017, DJe 03/04/2017, g.n.)
+Ante o exposto, com base no art. 253, inciso II, alínea "a", do Regimento Interno deste Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
