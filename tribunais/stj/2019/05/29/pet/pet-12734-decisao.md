@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. TUTELA PROVISÓRIA EM AÇÃO RESCISÓRIA. ARTS. 300 DO CPC/2015 E 288 DO RISTJ. PROBABILIDADE DO DIREITO E PERIGO DE DANO OU RISCO AO RESULTADO ÚTIL DO PROCESSO. COMPROVAÇÃO. AUSÊNCIA. PEDIDO INDEFERIDO.
+DECISÃO
+Trata-se de petição na qual a requerente, UBS BRASIL CORRETORA DE CAMBIO, TITULOS E VALORES MOBILIARIOS S.A, postula atribuição de efeito suspensivo a recurso especial interposto (fls. 128/137) em face de acórdão proferido pelo TRF3 (fl. 106).
+No recurso especial a requerente postula a anulação do acórdão proferido pelo TRF3 por ofensa ao art. 1.022, I, do CPC/2015, apontando a ocorrência de "nítida contradição".
+Na presente petição, em que veicula o pedido de atribuição de efeito suspensivo ao recurso especial, a requerente sustenta, quanto ao perigo da demora, que: "Por óbvio, o prosseguimento das cobranças com a realização de atos constritivos do patrimônio da Requerente lhe trará prejuízos econômicos imediatos" (fl. 4).
+Por outro lado, no que diz respeito à probabilidade do direito alegado, a requerente alega que (fl. 10):
+Assim, considerando que o v. acórdão reformou a sentença apenas para que a base de cálculo da contribuição para o PIS da ora Requerente, a partir de 2000, fosse aquela prevista no artigo 3.º da Lei nº 9.715/98 3 , qual seja, a receita bruta oriunda da venda de mercadorias e da prestação de serviços, resulta notória a contradição da sua parte dispositiva ao prover o apelo fazendário, que se limitou a defender a aplicabilidade da base de cálculo prevista no art. 72, V, do ADCT.
+É o relatório. Passo a decidir.
+A pretensão de tutela provisória subdivide-se em tutela de urgência ou tutela de evidência e encontra-se prevista no Livro V do Novo Código de Processo Civil - arts. 294 e seguintes do CPC/2015.
+A tutela de urgência poderá ser de natureza "cautelar" ou "antecipada", sendo possível sua concessão em caráter antecedente ou incidental, nos termos do art. 294, parágrafo único, CPC/2015.
+A tutela de urgência, cautelar ou antecipada, poderá ser concedida "liminarmente ou após justificação prévia" e depende da comprovação de "elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo" (art. 300, CPC/2015 - Livro V, Título II). A tutela de urgência de natureza antecipada depende ainda de um requisito negativo, a inexistência de "perigo de irreversibilidade dos efeitos da decisão" (art. 300, § 5º, CPC/2015).
+Na presente petição, a requerente pretende obter tutela provisória de urgência para atribuir efeito suspensivo ao recurso especial, obstando os efeitos do acórdão prolatado pelo TRF3 (fl. 106).
+Contudo, a requerente deixou de justificar e indicar especificamente o perigo concreto de dano ou de risco ao resultado útil do processo capazes de autorizar o deferimento de tutela de urgência antecipada. Por outro lado, a narrativa jurídica também deixa de apontar a probabilidade do direito, ao afirmar que o "apelo fazendário se limitou a defender a aplicabilidade da base de cálculo prevista no art. 72, V, do ADCT", quando o acórdão do TRF3 não apenas julgou o recurso de apelação, mas também a remessa oficial (fl. 107, item 8 da ementa).
+Portanto, em juízo de cognição sumária, não se constata a presença da "probabilidade do direito" invocado e o "perigo de dano ou o risco ao resultado útil do processo", devendo prevalecer, por ora, o acórdão proferido pelo TRF3.
+Ante o exposto, indefiro o pedido de tutela requerido.
+Publique-se. Intimem-se.
