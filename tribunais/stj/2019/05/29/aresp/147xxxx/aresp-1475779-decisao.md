@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por CAMPAGRO COMÉRCIO DE PRODUTOS AGROPECUÁRIOS LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO INTERNO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - PENHORA SOBRE FATURAMENTO - AGRAVANTE - ALEGAÇÃO DE AFRONTA À ORDEM LEGAL - JUÍZO A QUO - OBSERVÂNCIA - ATIVOS FINANCEIROS - CONSTRIÇÃO - FRUSTRAÇÃO - ARRESTO - CONCRETIZAÇÃO - MERCADORIAS PERECÍVEIS - VENDA ANTECIPADA - NÃO IMPLEMENTAÇÃO EM RAZÃO DE ACORDO ENTABULADO ENTRE AS PARTES - CRÉDITO REMANESCENTE - AGRAVANTE - INDICAÇÃO DE IMÓVEIS - BENS QUE POSSUEM RESTRIÇÕES - EXECUÇÃO - ATO QUE SE PROCESSA NO INTERESSE DO CREDOR. SUBSTITUIÇÃO DA PENHORA - PEDIDO - INTERPRETAÇÃO DO CONJUNTO DA POSTULAÇÃO - ART. 322, §2º, DO CPC - PEDIDO NÃO ANALISADO PELO MAGISTRADO - INVIABILIDADE DE ANÁLISE RECURSAL - SUPRESSÃO DE INSTÂNCIA - PEDIDO ALTERNATIVO - PENHORA SOBRE O FATURAMENTO - REDUÇÃO DO PERCENTUAL PARA 5% - IMPOSSIBILIDADE - ATIVIDADES EMPRESARIAIS - PREJU ZO - NÃO DEMONSTRAÇÃO - DECISÃO COMBATIDA - MANUTENÇÃO. AGRAVO NÃO NÃO PROVIDO"(e-STJ fl. 623).
+Nas razões do especial, além divergência jurisprudencial, a agravante alega violação dos arts. 805, 835, X, e 866, § 1º, do Código de Processo Civil de 2015.
+Sustenta que a penhora de faturamento deve recair em caráter excepcional e somente quando não tiver outros bens penhoráveis ou se, tendo-os, esses forem de difícil alienação ou insuficientes para saldar o crédito executado.
+Aduz que a ordem preferencial de penhora não foi observada, visto que a única medida adotada pela recorrida no presente feito foi a tentativa de penhora de dinheiro, não tendo esta perquirido qualquer outra modalidade de penhora.
+Por fim, argumenta que a penhora deveria ser limitada ao percentual de 5% (cinco por cento).
+Sem as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+De início, verifica-se que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Na hipótese em tela, o tribunal local concluiu pela possibilidade da penhora sobre o faturamento da empresa recorrente nos seguintes termos:
+"Quanto ao mérito, a ordem legal da penhora foi observada pelo juízo a quo. Não apenas se tentou a constrição em dinheiro como também a agravada não procedeu à venda antecipada dos bens arrestados em razão de acordo subsequente, entabulado pelas partes.
+Note-se que, ajuizada a demanda, ante o risco de insolvência da agravante, deferiu-se tutela provisória de urgência para o arresto de bens. Posteriormente, o magistrado autorizou a venda antecipada (fls. 292). Antes da efetivação do ato, as partes noticiaram acordo, homologado (fls. 530). A ação prosseguiu pelo saldo remanescente apenas contra a pessoa jurídica, ora agravante (figuram também no polo passivo pessoas físicas). Foram infrutíferas as tentativas de penhora de ativos (fls. 556/558 e 580), fato que ensejou o pedido objeto do recurso. Prescreve o art. 866 do CPC: (..).
+(..) A ordem de penhora está de conformidade com o sobredito o dispositivo legal e obedece ainda ao disposto no art. 835. Além disso, se por um lado vigora o princípio da menor onerosidade ao devedor (art. 805 do CPC), por outro não se o pode olvidar que a execução se realiza no interesse do credor (art. 797 do CPC). Ademais, sobre os imóveis nominados no agravo pendem restrições (alienação fiduciária, hipoteca ou penhora - fls. 46/70), fato que elide a liquidez e a alegação de afronta à ordem legal da penhora.
+(..) Quanto ao percentual da constrição sobre o faturamento,observe-se novamente o que dispõe o §1º do sobredito art. 866 do CPC: (..).
+(..) Ao contrário do que exalta a agravante, o magistrado o determinou a expedição de mandado de penhora nos termos em que sugerido pelo administrador judicial, entre 20% e 30% (fls. 598), margem que não comprometerá o desempenho das atividades (fls. 595). Frise-se, não houve omissão do julgador de origem e tampouco afronta ao sobredito dispositivo legal. Apenas se delimitará o percentual à luz da real situação financeira da empresa, conforme sugerido pelo administrador. Ainda que assim não fosse, a agravante não comprovou a necessidade de redução para 5%, conforme pleito alternativo"(e-STJ fls. 624-626).
+Como visto, rever o posicionamento adotado na origem, sobre a preservação ou não da viabilidade financeira da recorrente frente à penhora do faturamento, é providência que exigiria o vedado reexame do acervo probatório (Súmula nº 7/STJ).
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. PENHORA DE FATURAMENTO DA EMPRESA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 211/STJ).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, para alterar a conclusão do Tribunal de origem de que a penhora sobre o faturamento mensal não compromete a atividade da recorrente, seria necessária nova análise da prova dos autos, inviável em recurso especial.
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 1.325.859/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 17/10/2018).
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA AGRAVANTE.
+1. Possibilidade de o Tribunal de origem, no exercício do juízo de admissibilidade, denegar o processamento do apelo extremo com fundamento na ausência de contrariedade ou negativa de vigência à lei federal, sem incorrer em usurpação de competência do STJ.
+Incidência da Súmula 123/STJ.
+2. O acórdão estadual está em consonância com a jurisprudência desta Corte Superior, no sentido de que " ..  a penhora sobre o faturamento de empresa é admitida em casos em que se mostre necessária e adequada, desde que observados, cumulativamente, os seguintes requisitos: I) inexistência de bens passíveis de garantir a execução ou que sejam de difícil alienação; II) nomeação de administrador (CPC/73, art. 655-A, § 3º); e III) fixação de percentual que não inviabilize a atividade empresarial" (REsp 1545817/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/04/2016, DJe 27/05/2016). Aplicação do óbice da Súmula 83/STJ.
+3. A revisão da conclusão das instâncias ordinárias acerca do percentual de penhora do faturamento da empresa executada, bem como sobre eventual ofensa ao princípio da menor onerosidade ao devedor, demandaria, inevitavelmente, a revisão dos fatos discutidos na lide, providência descabida na estreita via do recurso especial, incidindo o óbice da Súmula 07 do STJ.
+4. Agravo interno desprovido"
+(AgInt no AREsp 977.842/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/5/2018, DJe 25/5/2018).
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional. Nesse sentido:
+"Recurso Especial. Civil. Responsabilidade civil. Cirurgião e anestesiologista. Recurso com fundamento nas alíneas "a" e "c" do art. 105, III, da CF. Reexame fático-probatório. Súmula 07/STJ. Incidência.
+(..)
+- O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a", quanto pela "c" do permissivo constitucional.
+Recurso especial não conhecido" (REsp 765.505/SC, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 7/3/2006, DJ 20/3/2006).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de fixar os honorários recursais, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
