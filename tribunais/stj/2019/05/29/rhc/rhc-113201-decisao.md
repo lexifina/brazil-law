@@ -1,0 +1,15 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. DIREITO PENAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO TENTADO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE AO RECORRENTE.
+Petição inicial indeferida liminarmente.
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME] - preso preventivamente, desde 20/4/2018, pela prática, em tese, dos crimes descritos no art. 121, § 2º, II, III e IV, do Código Penal e no art. 121, § 2º, II, III e IV, c/c 14, II, ambos do Código Penal e art. 14 e 16, parágrafo único, IV, ambos da Lei n. 10.826/2003 - contra acórdão do Tribunal de Justiça de Roraima, que denegou a ordem ali impetrada (Habeas Corpus n. 9000057-82.2019.8.23.0000/RR), mantendo a prisão imposta pelo Juízo de Direito da 2ª Vara do Tribunal do Júri e da Justiça Militar da comarca de Boa Vista - RR (autos n. 0810249-04.2018.8.23.0010/RR).
+Esta, a ementa do acórdão impugnado (fl. 69):
+HABEAS CORPUS - HOMICÍDIO DUPLAMENTE QUALIFICADO - PRISÃO PREVENTIVA DECRETADA EM SENTENÇA DE PRONÚNCIA - 1) ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO - MERA REMISSÃO À DECISÃO ORIGINAL DE DECRETAÇÃO DE SEGREGAÇÃO CAUTELAR - INCONSISTÊNCIA - POSICIONAMENTO DO STJ SOBRE A LEGALIDADE DA REFERÊNCIA PELO JUIZ DA PRONÚNCIA À DECISÃO PRIMITIVA DA PRISÃO. 2) ARGUMENTAÇÃO DE NÃO MAIS SUBSISTIREM OS REQUISITOS DA PRISÃO PREVENTIVA IMPROCEDÊNCIA - PACIENTE QUE É INVESTIGADO POR OUTRO HOMICÍDIO QUALIFICADO EM PROCEDIMENTO CRIMINAL DISTINTO NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA - SUBSTITUIÇÃO DA PRISÃO POR MEDIDAS CAUTELARES ALTERNATIVAS - IMPOSSIBILIDADE - ORDEM DENEGADA.
+Alega o recorrente, em síntese, que o constrangimento ilegal decorre de decisão que, mediante fundamentação inidônea - pois apoiada somente na gravidade abstrata do delito -, decretou a sua prisão preventiva, apesar dos predicados que ostenta e da ausência dos requisitos previstos no art. 312, caput, do Código de Processo Penal (fls. 78/85).
+Postula, então, o conhecimento e o provimento liminar do recurso, a fim de que seja revogada a prisão preventiva imposta ou substituída por medidas alternativas à prisão.
+É o relatório.
+O presente recurso deve ser indeferido liminarmente.
+Isso porque o recorrente não se desincumbiu do ônus de instruir suficientemente o habeas corpus com a cópia do decisum que determinou a prisão do recorrente prolatada pelo Juízo de Direito da 2ª Vara do Tribunal do Júri e da Justiça Militar da comarca de Boa Vista - RR, além da folha de antecedentes, peças essenciais para a verificação da verossimilhança das alegações e que poderiam dar suporte à premissa da defesa.
+Nesse sentido: HC n. 155.877/PB, Ministra Laurita Vaz, Quinta Turma, DJe 2/2/2012; HC n. 211.459/PB, Ministro Jorge Mussi, Quinta Turma, DJe 19/12/2011; e HC n. 187.273/PE, da minha relatoria, Sexta Turma, DJe 1º/2/2012.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro in limine o pedido.
+Publique-se.
