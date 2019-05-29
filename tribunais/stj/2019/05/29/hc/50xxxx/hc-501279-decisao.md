@@ -1,0 +1,20 @@
+DECISÃO
+MARLON ROOSEVELT SANTOS DO NASCIMENTO e WEVERSON FELIX DA SILVA alegam sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, na Apelação Criminal n. 0067474-10.2016.8.19.0038.
+Requer a defesa a modificação do regime inicial imposto aos pacientes, em razão da ausência de justificativa idônea para a fixação da modalidade fechada.
+Indeferida a liminar (fls. 52-54) e prestadas as informações (fls. 58-63), veio parecer do Ministério Público Federal, que opinou pelo não conhecimento do writ (fls. 67-74).
+Decido.
+ A Corte estadual deu provimento ao apelo da acusação, a fim de fixar o regime fechado para início do cumprimento das penas dos réus, porquanto "a conduta empreendida pelos apelados revelou ousadia e traduziu o descompromisso com a vida em sociedade, sendo certo de que a fixação em regime que não seja o fechado, de certa forma, não deixa de simbolizar uma forma de impunidade" (fl. 47).
+Quanto à almejada modificação do regime inicial para o semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+No caso, verifico que a Corte estadual não apontou nenhum elemento dos autos (como o modus operandi e indicação de número excessivo de agentes, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso. Nesse sentido, entendo que os elementos apresentados são relativos à gravidade em abstrato do crie de roubo e não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+Esse, aliás, é o entendimento consolidado nas Súmulas n. 440 do STJ, 718 e 719 do STF.
+Nesse sentido, confira-se o seguinte julgado desta Corte de Justiça:
+ ..
+7. Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+8. O Tribunal local não apontou nenhum elemento dos autos (como o modus operandi, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso.
+9. O paciente, primário, sem registro de circunstância judicial desfavorável e condenado a 6 anos e 10 meses de reclusão, deve cumprir a pena em regime inicial semiaberto, a teor do art. 33, § 2º, "b", e § 3º, do CP.
+10. Ordem não conhecida. Habeas corpus concedido, de ofício, para, na terceira fase da dosimetria do crime de quadrilha ou bando (atual delito de associação criminosa), reduzir à metade o aumento de pena procedido em razão da majorante do parágrafo único do art. 288 do Código Penal, nos termos da Lei n. 12.850/2013, tornando a reprimenda do paciente definitivamente estabelecida em 6 anos e 10 meses de reclusão, a ser cumprida em regime semiaberto.
+(HC n. 217.000/BA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 29/8/2016)
+Assim sendo, os pacientes primários, sem registro de circunstância judicial desfavorável e condenados à 5 anos e 4 meses de reclusão, deve cumprir a pena em regime inicial semiaberto, a teor do art. 33, § 2º,"b", e § 3º, do CP.
+À vista do exposto, concedo a ordem, a fim de fixar o regime semiaberto aos pacientes.
+Publique-se e intimem-se.
