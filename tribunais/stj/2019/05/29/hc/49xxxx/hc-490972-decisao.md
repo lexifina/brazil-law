@@ -1,0 +1,32 @@
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES E REINCIDÊNCIA. VALORAÇÃO DE REGISTROS CRIMINAIS DISTINTOS. BIS IN IDEM NÃO EVIDENCIADO. UTILIZAÇÃO DA REINCIDÊNCIA COMO AGRAVANTE E PARA AFASTAR A MINORANTE PREVISTA NO § 4.º DO ART. 33 DA LEI DE DROGAS. POSSIBILIDADE. ORDEM DENEGADA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DANIEL COSTA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n.º 0006399-07.2015.8.26.0168.
+Consta dos autos que o Paciente foi condenado às penas de 7 (sete) anos de reclusão e 700 (setecentos) dias-multa como incurso no art. 33, caput, da Lei n.º 11.343/2006, e de 1 (um) ano, 4 (quatro) meses e 24 (vinte e quatro) dias de detenção, e 14 (catorze) dias-multa, pela prática do delito capitulado no art. 12 da Lei n.º 10.826/2003, fixado o regime inicial fechado.
+Inconformado, o Sentenciado interpôs recurso de apelação, que foi provido parcialmente pelo Tribunal de origem tão somente para, "com relação ao delito de posse irregular de arma de fogo de uso permitido, fixar o regime inicial semiaberto" (fl. 42).
+Neste writ, o Impetrante, pelo que se depreende da confusa petição inicial, alega vício na dosimetria, pois a reincidência foi utilizada para aumentar a reprimenda como circunstância judicial e agravante e, ao final, para afastar a aplicação da minorante do tráfico privilegiado, o que caracterizaria bis in idem.
+Requer-se, liminarmente e no mérito, a redução da pena.
+O pedido liminar foi indeferido (fls. 55-58).
+As informações foram prestadas (fls. 21-48).
+O Ministério Público Federal, em parecer de fls. 65-68, opinou pelo não conhecimento do habeas corpus.
+É o relatório. Decido.
+O Tribunal de origem, ao dosar as penas do Paciente, manifestou-se nos seguintes termos (fls. 39-40; sem grifos no original.):
+" ..
+As penas também não comportam reparos: base fixada em 1/5 (um quinto) acima do mínimo legal para o delito do tráfico ilícito de entorpecentes, em razão das circunstâncias judiciais referentes aos maus antecedentes (certidões de fls. 23/24, 29/30 e 33/34 do apenso próprio, e cf. folha de antecedentes de fls. 01/12 do mesmo apenso processos nº 2849/2007; 8927/2010 e 1022/2011), considerando, em especial, a quantidade e a natureza das drogas apreendidas, in casu, - 1.656,65g (mil seiscentos e cinquenta e seis gramas e sessenta e cinco centigramas) de maconha e 36,08g de cocaína na forma de pedras de crack -, de reconhecido poder viciador e letal, a atrair a incidência do artigo 42 da Lei n.º 11.343/06, aumentada, em seguida, de 1/6 (um sexto), em razão da reincidência (certidão de fls. 25/26, e cf. folha de antecedentes supracitada processo nº 5858/2010).
+E, por ser reincidente (certidão de fls. 25/26), o apelante não faz jus à causa especial de diminuição de pena prevista no artigo 33, § 4º, da Lei nº 11.343/06.
+Com relação ao delito previsto no artigo 12 da Lei nº 10.826/03, a base foi fixada também em 1/5 (um quinto) acima do mínimo legal, em razão das circunstâncias judiciais desfavoráveis apontadas pelo Magistrado singular (maus antecedentes já referidos), e acrescida de mais 1/6 (um sexto) pela agravante da reincidência supramencionada.
+ .. ."
+Como se vê, o Tribunal local referiu-se a registros criminais distintos para majorar a reprimenda na primeira fase (maus antecedentes) e na segunda fase (reincidência), de modo que não se verifica ofensa ao enunciado da Súmula n.º 241 do Superior Tribunal de Justiça, pois compreende esta Corte que " i nexiste bis in idem na majoração da pena-base por maus antecedentes, na primeira fase dosimétrica, e pela reincidência, como agravante, desde que as anotações criminais sejam diversas" (HC 418.706/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/03/2018, DJe 14/03/2018.).
+Ademais, não há ilegalidade na utilização da reincidência como agravante e, simultaneamente, para afastar a aplicação da minorante do tráfico privilegiado.
+A propósito, cito os seguintes precedentes:
+"Recurso em habeas corpus. Penal e Processual Penal. Tráfico transnacional de drogas. Artigo 33, caput, c/c o art. 40, I, da Lei nº 11.343/2006. Pena. Dosimetria. Apelação exclusiva do Ministério Público. Devolução, ao tribunal ad quem, do conhecimento de toda a matéria, nos limites do recurso. Inexistência de reformatio in pejus. Reincidência. Reconhecimento como agravante e para o afastamento da incidência da diminuição de pena do art. 33, § 4º, da Lei nº 11.343/2006. Admissibilidade. Bis in idem. Não ocorrência. Recurso não provido.
+1. Dentro dos limites da matéria impugnada na apelação do Ministério Público, o conhecimento do tribunal ad quem é o maior possível, razão por que o redimensionamento da pena não importa em reformatio in pejus.
+2. A reincidência constitui circunstância agravante (art. 61, I, CP) a ser obrigatoriamente considerada na segunda fase da dosimetria da pena (art. 68, CP), ao passo que a primariedade constitui inafastável requisito de natureza subjetiva para a aplicação da causa de diminuição de pena descrita no art. 33, § 4º, da Lei nº 11.343/06.
+3. Não havendo dupla valoração negativa da reincidência, mas, sim, estrita observância das regras legalmente aplicáveis à espécie, não há que se falar em bis in idem.
+4. Recurso não provido." (STF, RHC 121.598, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, publicado em 21/11/2014, sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. REINCIDÊNCIA. CONSIDERAÇÃO COMO AGRAVANTE E COMO IMPEDITIVO DE APLICAÇÃO DA MINORANTE DO ART. 33, § 4.º, DA LEI N.º 11.343/2006. BIS IN IDEM. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A reincidência, específica ou não, não se compatibiliza com a causa especial de diminuição de pena prevista § 4.º do art. 33 da Lei n.º 11.343/2006, dado que necessário, dentre outros requisitos, seja o agente primário. Tal óbice e a exasperação da pena, na segunda fase, não importam em bis in idem, mas em consequências jurídico-legais distintas de um mesmo instituto. Precedentes.
+3. Agravo regimental desprovido." (AgRg no HC 468.578/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/02/2019, DJe 11/03/2019; sem grifos no original.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
