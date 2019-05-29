@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] ROSA, em face de acórdão do TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL, assim ementado (fl. 426):
+TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO AO TRÁFICO. PROVA. CHAMARA DE CORRÉU. VALOR. CONDENAÇÕES MANTIDAS.
+O corréu, ao ser interrogado, admitiu que, na ocasião, transportava drogas, para serem entregues a usuários. E afirmou que o fazia a mando do outro acusado e como forma de lhe pagar uma dívida. Esta chamada de corréu tem valor condenatório, pois foi feita em conjunto com a confissão de envolvimento, também, nos dois eventos delituosos citados na denúncia. E, ainda, não se revelou nenhum motivo escuso para a imputação ao outro dos delitos em comento. Ou seja, está provado que os apelantes traficavam drogas na ocasião e o faziam de forma associada.
+DECISÃO: Apelos defensivos desprovidos. Unânime.
+Consta dos autos que o paciente foi condenado, em sentença confirmada pela Corte a quo, como incurso nas sanções dos arts. 33, caput, e 35, caput, ambos da Lei 11.343/06, à pena de 17 anos e 6 meses de reclusão, em regime fechado, além de 1850 dias-multa.
+Neste writ, alega a impetrante a ausência de fundamentação concreta para a negativação das vetoriais da conduta social e das circunstâncias do crime, bem como requer, no tocante ao vetor dos antecedentes, seja revista a fração de aumento aplicada para a exasperação.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+É o relatório.
+DECIDO.
+Quanto às penas, as instâncias ordinárias manifestaram-se nos seguintes termos:
+Sentença (fls. 325/327):
+( ) Relativamente aos antecedentes, ostenta o réu três condenações transitadas em julgado, consoante atesta a certidão das fls. 178/182, consubstanciando, pois, uma delas como maus antecedentes, eis que o trânsito em julgado deu-se em 10/10/2017 (018/2.14.0004165-0). Os demais registros consubstanciam-se reincidência, a serem valorados, assim, na segunda fase do cálculo penal. Conduta social deve ser valorada negativamente, tendo em vista que o réu demonstra ter sua vida voltada ao cometimento de delitos, sendo estes praticados, inclusive, do local em que segregado. ( ) As circunstâncias são desfavoráveis, pois, como referido anteriormente, o crack é droga de alta lesividade para seus consumidores, causando dependência em curto período de tempo e de forma muito mais intensa do que outras drogas. (..) Assim, fixo a pena-base acima do mínimo: 10 anos de reclusão.
+(..)
+b) Associação para o tráfico - art. 35 da Lei 11.343/06.
+Considero as mesmas circunstâncias já analisadas anteriormente, a fim de se evitar repetições desnecessárias. Observadas as circunstâncias judiciais do art. 59 do Código Penal, e lembrando que a pena cominada ao delito é de 3 a 10 anos, fixo a pena-base em 5 anos de reclusão.
+Acórdão (fl. 432):
+No caso, como se vê da sentença, não houve erro ou abuso da autoridade judicial quando da fixação das penas dos apelantes. O Magistrado analisou corretamente as circunstâncias ligadas ao fato e as pessoais dos condenados, impondo a eles punições que entendeu adequadas para a situação. Nada a corrigir.
+Alega a impetrante que, além dos antecedentes, os julgadores consideraram como circunstâncias judiciais desfavoráveis ao paciente a conduta social e as circunstâncias do crime, gerando estas últimas um inidôneo acréscimo na pena-base, decorrente da valoração abstrata da conduta delitiva.
+Relativamente à conduta social do agente, esta Corte se orienta no sentido de que nem mesmo eventuais condenações anteriores transitadas em julgado são idôneas para se aferir como negativa a personalidade ou a conduta social do agente, na medida em que esta corresponde ao comportamento do réu no seu ambiente familiar e em sociedade, de modo que a sua valoração negativa exige concreta demonstração de desvio de natureza comportamental entre seus pares, não se prestando a tal a valoração negativa do vetor pelo fundamento de que o réu voltou a delinquir até mesmo enquanto encarcerado.
+Quanto às circunstâncias do crime, verifico que a desfavorável consideração da natureza de uma das drogas apreendidas (crack), deve, de fato, ser considerada para a exasperação da basilares, pois, a teor do art. 42 da Lei 11.343/06, tal fator deve preponderar sobre as vetoriais dispostas no art. 59 do Código Penal, notadamente, em situação como a dos presentes autos, em que foi o réu apreendido com 29g de cocaína, dois tabletes de maconha de aproximadamente 337g e 11 pedras médias de crack, que pesavam cerca de 120g (fl. 429).
+Aponto que o aumento operado na primeira fase de dosimetria da pena não se mostrou desarrazoado ou excessivo, sobretudo considerando-se que três circunstâncias judiciais foram desvaloradas, além do fato de que a pena mínima e máxima abstratamente cominadas aos delitos constantes dos arts. 33 e 35, ambos da Lei 11.343/06, prevêem, respectivamente, penas reclusivas que variam de 5 a 15 anos e de 3 a 10 anos de reclusão.
+Passo, portanto, ao redimensionamento das penas, mantendo o critério de proporcionalidade adotado pelas instâncias a quo.
+Afastada uma entre as três circunstâncias judiciais negativadas, fixo a pena-base do delito de tráfico em 8 anos e 4 meses de reclusão, além do pagamento de 735 dias-multa e, com relação ao delito de associação para o tráfico, fixo a básica em 4 anos e 4 meses de reclusão, bem como ao pagamento de 720 dias-multa.
+Na segunda fase, em razão da agravante da reincidência, fixo as sanções, respectivamente, em 9 anos, 8 meses e 20 dias de reclusão, além do pagamento de 855 dias-multa, e 5 anos e 20 dias de reclusão, mais 840 dias-multa, as quais torno definitivas, porquanto ausentes demais causas de oscilação das penas.
+Atento ao concurso material de crimes, concretizo as reprimendas em 14 anos, 9 meses e 10 dias de reclusão, além do pagamento de 1695 dias-multa.
+Ante o exposto, concedo o habeas corpus para fixar as penas do paciente em 14 anos, 9 meses e 10 dias de reclusão, além do pagamento de 1695 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se.
