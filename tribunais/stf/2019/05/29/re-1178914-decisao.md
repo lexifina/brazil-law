@@ -1,0 +1,33 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “Apelação. Repetição de indébito. Pretensão da FESP ao reconhecimento do excesso dos valores consignados, em razão da não observância da Lei Federal n° 11.960 a partir de 30 de junho de 2009, bem como pelo descumprimento da Súmula 17. Sentença de procedência que reconheceu o excesso no importe de R$ 17.324,88, fundada no equívoco da metodologia empregada pela Procuradoria estadual, porquanto desconsiderada a divisão do débito em dez prestações, em conformidade com o art. 78 do ADCT, e assim também não foram aplicadas as tabelas vigentes à época de cada depósito - Manutenção - Inobservância da Lei n.° 11.960/09 e da Súmula Vinculante 17, do STF - Ofensa à coisa julgada, ao ato jurídico perfeito e a segurança jurídica. Impossibilidade. Sentença confirmada. Apelo desprovido”. (eDOC 5, p. 26)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 33 do Ato das Disposições Constitucionais Transitórias.
+    Nas razões recursais, afirma-se, em síntese, que não incidiriam juros durante o parcelamento previsto no art. 33 do ADCT. (eDOC 5, p. 56)
+    A Presidência da Seção de Direito Público do Tribunal entendeu ser idêntica a controvérsia à julgada no RE-RG 590.751, paradigma do tema 132 da repercussão geral, e devolveu os autos ao órgão fracionário para juízo de adequação do art. 1.030, II, do CPC (eDOC 5, p. 76), porém este manteve sua decisão. (eDOC 5, p. 82)
+    O recorrente atravessou então nova petição de recurso extraordinário. (eDOC 5, p. 91)
+    Foi então realizado o juízo de admissibilidade, que deu seguimento ao primeiro recurso e o negou ao segundo. (eDOC 5, p. 155)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Colho o seguinte trecho da petição recursal:
+    “Portanto, o último depósito teve por objetivo quitar o precatório, já que a previsão legal, divisão do montante para pagamento em oito anos, se esgotou, não cabendo a incidência de juros no período.
+    O acórdão recorrido tanto violou os termos do artigo 33 do ADCT, que foi expresso em determinar a aplicação de juros sobre o saldo remanescente que guardava pagamento:
+    Sobre os juros, também não se vislumbra qualquer equívoco na conta elaborada em duas etapas, segundo os critérios estabelecidos pelo d. Juízo a quo.
+     Se, pela moratória, o devedor tem o benefício de exclusão dos juros até a data de vencimento da parcela anual, uma vez expirado o prazo sem o devido depósito, são acrescidos os ônus moratórios, contados a partir do inadimplemento. Outrossim, incidem os juros sobre o saldo em aberto, que foram corretamente apurados na segunda etapa dos cálculos da Contadoria.
+     Ou seja, o acórdão afastou expressamente a determinação do artigo 33 ADCT e, ao seu modo, determinou a aplicação de juros. Evidentemente, que deve ser reformado para garantir a correta aplicação de dispositivo constitucional”. (eDOC 5, p. 58)
+    Porém, o Tribunal de origem assim tratou o caso dos autos:
+    “Depreende-se dos cálculos que acompanharam a impugnação apresentada pela FESP (fls. 569/615), que a executada pretende rever o critério relativo aos índices aplicados na correção de todas as parcelas do precatório e não apenas da última, tendo em vista a Lei Federal 11.960/09 e da Súmula Vinculante n° 17.
+    Conforme a orientação desta E. Corte, as parcelas pagas conforme a decisão judicial transitada em julgado e o precatório expedido de igual modo não são alcançados por atos legislativos posteriores”. (eDOC 5, p. 30)
+    “Na verdade, o referido cálculo elaborado pelo contador judicial (f1. 620), reconheceu o excesso de R$ 17.324,88,sob o argumento de que houve equívoco na metodologia empregada pela Procuradoria Estadual, porquanto desconsiderada a divisão do débito em dez prestações, em conformidade com o art. 78 do ADCT; eis que inaplicadas as tabelas vigentes à época de cada depósito, critério adotado pela SECFP, mas não pela utilização dos parâmetro estabelecidos na Lei Federal 11.960/09 e na Súmula Vinculante 17, como pretendia a apelante.
+    Nesse sentido, os argumentos trazidos à baila pela apelante pretendendo a reforma da sentença, muito embora esta tivesse lhe favorecido (o que resultaria na inexistência de gravame), não se justificam. Até porque, todos os pagamentos foram feitos a partir de depósitos realizados pela própria apelante sobre demonstrativos de cálculos realizados por ela, a par da sua prévia concordância para a realização de seus levantamentos e que mesmo assim só foram feitos mediante autorização judicial”. (eDOC 5, p. 32)
+    Portanto, na espécie, não houve determinação de pagamento complementar, nem houve determinação de incidência de juros.
+    Registro, por outro lado, que o trecho transcrito nas razões recursais não se encontra no acórdão recorrido.
+    Vislumbra-se, portanto, a deficiência da fundamentação do recurso extraordinário, tendo em vista que suas razões estão dissociadas da matéria versada no acórdão impugnado. Desse modo, incide no caso a Súmula 284 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PROCESSO DEMARCATÓRIO DE TERRENO DE MARINHA. PRESCRIÇÃO. RECURSO EXTRAORDINÁRIO QUE NÃO ATACA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA 284/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 26.3.2013. Deficiência na fundamentação por ausência de ataque, nas razões do recurso extraordinário, aos fundamentos do acórdão recorrido. Aplicação da Súmula 284/STF. Agravo regimental conhecido e não provido”. (ARE 832317 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 18.2.2015)
+    “Processual civil. Agravo regimental no recurso extraordinário com agravo. Responsabilidade civil do Estado. Prazo prescricional. Alegação de violação ao art. 5º, caput, da Constituição Federal. Norma genérica, deficiência recursal. Súmula 284/STF. Alegação de violação aos princípios do devido processo legal, da ampla defesa e do contraditório. Ofensa reflexa. ARE 748.371-RG (rel. Min. Gilmar Mendes, tema 660). Análise de legislação infraconstitucional. Decreto 20.910/32 e Código Civil. Impossibilidade. Ofensa constitucional meramente reflexa. Agravo regimental a que se nega provimento”. (ARE 777390 AgR, rel. Min. Teori Zavascki, Segunda Turma, DJe 5.3.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de maio de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
