@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (eDOC 37, p. 15):
+    “MANDADO DE SEGURANÇA DESEMBARAÇO ADUANEIRO. DRAWBACK. CONSTATAÇÃO DE FRAUDE NA IMPORTAÇÃO. FALSIDADE IDEOLÓGICA CONSTATADA EM PERÍCIA. PENA DE PERDIMENTO APLICADA. DECISÃO LIMINAR AUTORIZOU A LIBERAÇÃO DA MERCADORIA. ATO IRREVERSÍVEL. CASSAÇÃO DA LIMINAR. DENEGAÇÃO DA SEGURANÇA. CONVERSAO DE PENA DE PERDIMENTO NA EXIGIBILIDADE DOS TRIBUTOS.
+    01. De acordo com a previsão do Decreto 4543/02, o despacho de importação é o procedimento mediante o qual é verificada a exatidão dos dados declarados pelo importador em relação à mercadoria importada, aos documentos apresentados e à legislação específica com vistas ao seu desembaraço aduaneiro.
+    02. Importadas as mercadorias, na fase de análise documental da Declaração de Importação foi aplicada pena de perdimento com a consequente impetração de mandado de segurança. Ao proferi a sentença o magistrado de primeira instancia concedeu a ordem, ratificando a liminar deferida, para assegurar a liberação das mercadorias importadas pela impetrante.
+    03. A Inspetora Chefe da Alfândega do Porto de Vitória-ES não autorizou a liberação das mercadorias importadas através da DI nº 98/0765992-2, sob o Regime Aduaneiro de Drawback, previsto no artigo 314 do Decreto nº 91.030/85, sob o fundamento de que havia irregularidade na assinatura aposta na fatura comercial apresentada à fiscalização.
+    04. Constatada a ocorrência de fraude em documento apresentado para fins de despacho aduaneiro não merece prosperar a alegação de mera irregularidade, uma vez que o laudo pericial confirmou a falsificação na assinatura aposta no documento apresentado à fiscalização aduaneira.
+    05. É aplicável a pena de perdimento da mercadoria estrangeira ou nacional, na importação ou na exportação, se qualquer documento necessário ao seu embarque ou desembaraço tiver sido falsificado ou adulterado, na forma do Decreto Lei 37 de 18 de novembro de 1966 c/c artigo 23, IV do Decreto Lei 1455 de 07 de abril de 1976. Por conseguinte, não restou configurado o ato tido como coator.
+    06. No presente caso, trata-se de ato - liberação de mercadoria-, que não permite sua reversão, já que, como afirmado pela impetrante na exordial, o “produto por ela importado se destina à embalagem da pasta eletrodica soderberg, de sua própria fabricação, para exportação”. Da mesma forma, pelo tempo decorrido, as embalagens certamente já foram utilizadas no processo industrial.
+    07. Por conseguinte, deve de ser acolhido o pleito da apelante para assegurar a conversão da pena de perdimento no pagamento do valor das mercadorias e dos impostos incidentes sobre a operação como se não tivesse sido concedido o benefício do drawback.
+    08. Remessa necessária e apelação conhecidas e providas.
+    09. Segurança denegada.”
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, II, 93, IX e 150, I e II, da Carta da República.
+    Sustenta, inicialmente, a nulidade do acórdão em virtude da ausência de fundamentação. Quanto ao mérito, aponta a inexistência de lei que preveja o fato gerador e a pena imposta e busca demonstrar que a divergência de assinatura no documento apresentado não descaracteriza, por si só, a importação e o benefício do regime de “draw back”.
+    O Vice-Presidente do TRF-2 inadmitiu o recurso sob o fundamento da incidência da Súmula 279 do STF (eDOC 43, p. 279).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Da análise das razões do acórdão impugnado depreende-se que o Colegiado de origem apreciou a matéria à luz do conjunto fático probatório dos autos e da legislação de regência da matéria. Desse modo, a controvérsia revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. Além disso há a vedação contida na Súmula 279 do STF.
+    Ademais, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses do recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão .
+    Ante o exposto, nego seguimento ao recurso, nos termos dos arts. 932, IV, b , do CPC e 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de maio de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
