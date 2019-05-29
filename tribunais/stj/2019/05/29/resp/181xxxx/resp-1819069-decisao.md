@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANO MORAL EM FASE DE CUMPRIMENTO DE SENTENÇA. TOGADA DE ORIGEM QUE, ENTRE OUTRAS DELIBERAÇÕES, LIMITOU O SALDO DA ASTREINTE EM R$ 400.000,00 (QUATROCENTOS MIL REAIS). INCONFORMISMO DO CREDOR. DIREITO INTERTEMPORAL. DECISÃO PUBLICADA EM 4-5-18. INCIDÊNCIA DO CÓDIGO DE PROCESSO CIVIL DE 2015. ALMEJADA REVOGAÇÃO DA DECISÃO QUE LIMITOU A MULTA DIÁRIA DE OFÍCIO. ACOLHIMENTO. SANÇÃO COMINATÓRIA DIÁRIA QUE CONSISTE EM MEIO COERCITIVO PARA IMPOR O DEVIDO ACATAMENTO DE ORDEM JUDICIAL DE FAZER OU NÃO FAZER, VISANDO CONFERIR EFETIVIDADE AO PROCESSO E À ORDEM JUDICIAL. INSTITUIÇÃO DE CRÉDITO QUE APOSTOU NA REVERSÃO DAS ORDENS JUDICIAIS EM SEDE RECURSAL, ASSUMINDO O RISCO DE TER QUE PAGAR OS VALORES EXECUTADOS. SOMATÓRIO DAS MULTAS QUE APARENTA SER EXCESSIVO, MAS, MESMO ASSIM, NÃO FOI SUFICIENTE PARA SUPERAR A RECALCITRÂNCIA DA EXECUTADA. CASO CONCRETO EM RESTOU EVIDENCIADO O NÍTIDO DESRESPEITO AOS COMANDOS JUDICIAIS E O PROPÓSITO TRANSGRESSOR DA RECORRIDA. EXERCÍCIO EFETIVO DA JURISDIÇÃO QUE É PRESSUPOSTO INARREDÁVEL AO ESTADO DEMOCRÁTICO DE DIREITO E A ELE DEVE SER DADA IMPORTÂNCIA ÍMPAR. CONDUTAS AFRONTOSAS DA FINANCEIRA, ALIADAS ÀS ESPECIFICIDADES DO CASO EM COMENTO, QUE REDUNDAM NA INVIABILIDADE DE LIMITAÇÃO DA PENALIDADE. INTERLOCUTÓRIA ALTERADA NESTA SEARA. HONORÁRIOS SUCUMBENCIAIS RECURSAIS. IMPOSSIBILIDADE DE FIXAÇÃO DE OFÍCIO EM RAZÃO DA NATUREZA JURÍDICA DA DECISÃO VERGASTADA E DA CONSEQÜENTE INEXISTÊNCIA DE FIXAÇÃO DA VERBA SUCUMBENCIAL NO PRIMEIRO GRAU. REBELDIA PROVIDA" (fls. 217/218 e-STJ).
+Em suas razões, além dissídio jurisprudencial, a agravante apontou violação dos arts. 8º, 489, § 1º, IV e VI, 537, § 1º, I, e 1.022, parágrafo único, II, do Código de Processo Civil de 2015.
+Sustentou, em síntese, que:
+(i) houve negativa de prestação jurisdicional e
+(ii) o valor fixado a título de multa diária pelo acórdão recorrido ultrapassa o valor do proveito econômico almejado pelo autor na ocasião do ajuizamento da ação, o que implica em enriquecimento sem causa do ora recorrido.
+Ao final, requereu a redução e limitação do valor da multa cominatória, no importe de R$ 27.120,00 (vinte e sete mil, cento e vinte reais), porque foi este o proveito econômico buscado pelo recorrido na fase de conhecimento.
+Com as contrarrazões (fls. 369/379 e-STJ) e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Verifica-se estarem presentes os pressupostos de admissibilidade do agravo.
+Por tal motivo, e por entender que a matéria merece melhor exame, dou provimento ao agravo para determinar a sua reautuação como recurso especial, nos termos do art. 34, inciso XVI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
