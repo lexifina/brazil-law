@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO BANCÁRIO. INÉPCIA DA INICIAL. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por BANCO DO BRASIL SA de decisão do Tribunal de Justiça do Estado do Paraná, que negou seguimento ao seu recurso especial, fundamentado na alínea "a" do permissivo constitucional, manejado contra acórdão assim ementado (e-STJ, fls. 499/500):
+APELAÇÃO CÍVEL. - REVISÃO DE CONTRATO BANCÁRIO DE ABERTURA DE CONTA CORRENTE - INÉPCIA DA INICIAL. NÃO VERIFICADA. COMPENSAÇÃO. POSSIBILIDADE. CLÁUSULAS CONTRATUAIS REVISADAS DE OFÍCIO. INOCORRÊNCIA. SUCUMBÊNCIA. ADEQUAÇÃO.
+01. Contendo a inicial todos os elementos essenciais capazes de formular a pretensão da autora e permitir o exercício do direito de defesa do réu, além de serem os pedidos formulados certos e lícitos, bem como por ter a autora demonstrado a relação negociai entre as partes, não há falar em inépcia da inicial.
+02. Admite-se a compensação entre crédito e débito, na forma do art. 368 do Código Civil ("Se duas pessoas forem ao mesmo tempo credor e devedor uma da outra, as duas obrigações extinguem-se, até onde se compensarem").
+03. Resta sedimentado por força da Súmula 381 do STJ que não é possível a revisão de cláusulas contratuais de ofício. Entretanto, o fato da autora não indicar o número da cláusula que pretende revisar não é óbice para o afastamento da abusividade impingida pela instituição financeira, desde que seja possível, na exordial, identificar o encargo sobre o qual pretende a revisão, como ocorre no caso em apreço. Apelação Cível parcialmente provida.
+Nas razões do recurso especial, o recorrente, alega violação dos arts. 324 e 330, III do Código de Processo Civil. Alega, em síntese, inépcia da inicial quanto à ausência de interesse de agir bem como na delimitação do objeto de pedir. Salienta que "o pedido dos autores pela revisão dos contratos atrelados à conta corrente, conforme reconhecido no acórdão recorrido, já é manifestamente genérico, considerando a existência de inúmeros contratos firmados ao longo de mais de vários anos de relação bancária, dentre os quais, muitos são objeto de Execução movida pelo Banco e Embargada pelos ora Recorridos" (e-STJ, fl. 534). Acrescenta que "A vedação ao pedido genérico é prevista no art. 324 que prevê que o pedido deve ser certo e determinado e no art. 330, § 1º, II que considera inepta a inicial que conter pedido genérico e/ou sem causa de pedir, o que, inclusive, caracteriza a falta de interesse processual, por isso, a ofensa aos artigos de lei supracitados" (e-STJ, fl. 536).
+Alega também que "certo é que o fato também revela a completa ausência do interesse de agir dos autores que não especificaram cláusulas e contratos que pretendem revisar em manifesta ofensa ao art. 330, III do CPC, devendo ser indeferida a petição inicial. (e-STJ, fl. 537).
+Contrarrazões não apresentadas (e-STJ, fl. 550).
+Sobreveio o juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ, fls. 552/554), o que ensejou a interposição do presente recurso.
+Em suas razões, os fundamentos da decisão agravada foram devidamente infirmados.
+É o breve relatório.
+Passo a decidir.
+Primeiramente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto à alegação de inépcia da inicial, assim se manifestou o Tribunal de origem no aresto combatido (e-STJ, fls. 552/554):
+Falta razão ao apelante no que diz respeito a preliminar de inépcia da inicial.
+Da análise da exordial de mov. 1.1, verifica-se que a autora formulou pedidos certos e lícitos, tendo em vista que requereram o afastamento da capitalização de juros, declarar nulas as tarifas cobradas de forma abusiva, afastar a cobrança de comissão de permanência com demais encargos, afastamento da mora, o ressarcimento dos valores cobrados de forma abusiva, bem como requereu a exibição dos contratos, o qual teria originado aludida cédula.
+Com efeito, tem-se que a inicial contém todos os elementos essenciais capazes de formular a pretensão da autora e permitir o exercício do direito de defesa do réu.
+Verifica-se que os fundamentos de fato e de direito restaram expostos na peça inicial, tendo a parte autora comprovado a relação contratual com a juntada de extratos (mov. 1.90).
+Assim, elidir as conclusões do acórdão recorrido para concluir de forma diversa para concluir que que "nem as partes, nem o r. Juiz da causa sabem quais contratos atrelados às contas correntes estão sendo revisados para, no minimo, possibilitar ao Banco a sua exibição, quanto mais, há possibilidade do r. Juízo proceder à revisão de contratos que desconhece" (e-STJ, fls. 535), como requer o recorrente nas razões do recurso especial, demandaria o o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. IRRESIGNAÇÃO SUBMETIDA AO NCPC. PASTILHAS CERÂMICAS DEFEITUOSAS APLICADAS EM REVESTIMENTO EXTERNO DE EDIFÍCIO. NECESSIDADE DE SUBSTITUIÇÃO. DANOS MATERIAIS E MORAIS. INÉPCIA DA PETIÇÃO INICIAL. DELIMITAÇÃO DO PEDIDO. LEGITIMIDADE ATIVA. VÍCIO REDIBITÓRIO. PRETENSÃO INDENIZATÓRIA QUE, APESAR DISSO, NÃO ESTÁ SUBMETIDA A PRAZO DECADENCIAL. PROVA DOS DANOS. QUANTUM INDENIZATÓRIO. DECISÃO MANTIDA.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Se o Tribunal de origem entendeu que a petição inicial foi instruída com os documentos essenciais à propositura da demanda, não é possível afirmar o contrário para reconhecer a inépcia da exordial sem violar a Súmula nº 7 do STJ.
+3. A possibilidade ou impossibilidade de julgamento com base em provas juntadas em momento processual inadequado constitui tema não prequestionado. Incidência das Súmulas nºs 282 e 356 do STF.
+(..)
+11. Agravo interno não provido, com aplicação de multa.
+(AgInt no REsp 1677308/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/03/2019, DJe 20/03/2019)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TELEMAR NORTE LESTE S/A. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INCIDÊNCIA DO CDC. REQUERIMENTOS ADMINISTRATIVOS. VALIDADE. INÉPCIA DA INICIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7/STJ. INTERESSE DE AGIR. ESGOTAMENTO DA VIA ADMINISTRATIVA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. Esta Corte possui jurisprudência firmada no sentido da incidência do Código de Defesa do Consumidor (CDC) no contrato em análise, visto que, acobertada pela relação societária, há, na presente controvérsia, clara relação de consumo. Precedentes.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, a análise das razões apresentadas pela agravante, quanto à invalidade dos requerimentos administrativos apresentados e à inépcia da inicial, demandaria revolvimento de fatos e provas, vedado em sede de recurso especial.
+5. A caracterização do interesse de agir, em ações que objetivam a exibição de documentos societários, exige prova do requerimento formal na via administrativa e comprovante de pagamento da taxa de serviço, quando a empresa o exigir (art. 100, § 1º, da Lei n.
+6.404/1976), conforme assentado por esta Corte em recurso submetido ao regime do art. 543-C do CPC/1973 (REsp n. 982.133/RS, Relator Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 10/9/2008, DJe 22/9/2008).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 964.479/RN, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/08/2018, DJe 05/09/2018; grifou-se)
+Destarte, inviável a pretensão do recorrente.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por conseguinte, considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, arbitro os honorários recursais em R$ 200,00 (duzentos reais), a serem suportados exclusivamente pela parte recorrente, em acréscimo àqueles que lhe cabem na sucumbência parcial
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Intimem-se.
