@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] KUCMANSKI, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de ANA [NOME] KUCMANSKI, o recurso especial não foi instruído com a guia de custas do Superior Tribunal de Justiça e o respectivo comprovante de pagamento, em razão do pedido de concessão de assistência judiciária gratuita (fl. 351).
+Apesar de a Parte recorrente requerer a benesse da justiça gratuita, a mera alegação, na petição recursal, de que não possui condições econômicas não é suficiente para o afastamento da deserção, devendo ser preenchidos os pressupostos legais para a concessão da gratuidade de justiça o que não ocorreu no caso concreto.
+Outrossim, percebeu-se, no tribunal de origem, que o pedido de concessão de gratuidade da justiça já havia sido indeferido pelo juízo a quo, e a parte limitou-se a renovar o pedido no Recurso Especial, sem juntar nenhum documento que comprove seu estado hipossuficiente.
+Indeferida novamente, a assistência judiciária gratuita, foi concedido prazo de 5 (cinco) dias para que a Parte pudesse colacionar aos autos a guia de custas e o respectivo comprovante de pagamento. Embora regularmente intimada (fl. 374), quedou-se inerte (fl. 376). Dessa forma, o recurso especial não foi devida e oportunamente preparado.
+Assim, incide na espécie o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
