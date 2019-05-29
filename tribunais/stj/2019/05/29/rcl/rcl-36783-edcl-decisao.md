@@ -1,0 +1,30 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. PRETENSÃO UNICAMENTE INFRINGENCIAL, SEM A INDICAÇÃO DE QUALQUER VÍCIO DE JULGAMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] em contrariedade à decisão monocrática, desta relatoria, que julgou procedente a subjacente reclamação para cassar a decisão que reconheceu a deserção do agravo interno interposto perante o Tribunal de Justiça do Estado do Rio de Janeiro, em atenção ao que ficou decidido pela Terceira Turma do STJ, por ocasião do julgamento do EDcl no AgRg no Agravo em Recurso Especial n. 621.944/RJ, determinando-se que o Tribunal de origem conheça do aludido agravo interno como entender de direito.
+O decisum recebeu a seguinte ementa:
+RECLAMAÇÃO CONSTITUCIONAL. GARANTIA DA AUTORIDADE DA DECISÃO PROFERIDA PELO STJ. ACÓRDÃO PROFERIDO PELA TERCEIRA TURMA DO STJ, EM EMBARGOS DE DECLARAÇÃO, QUE RECONHECE SER PRESUMIDO O DEFERIMENTO DO PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA NÃO ANALISADO OPORTUNAMENTE, INCLUSIVE NESSA INSTÂNCIA ESPECIAL. POSTERIOR DECISÃO DA TERCEIRA VICE-PRESIDÊNCIA DO TRIBUNAL DE ORIGEM QUE RECONHECEU A DESERÇÃO DE AGRAVO INTERNO. AFRONTA À AUTORIDADE DA DECISÃO EXARADA PELO STJ. CASSAÇÃO DA DECISÃO QUE RECONHECEU A DESERÇÃO DO AGRAVO INTERNO INTERPOSTO PERANTE O TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, CONSIDERANDO O DEFERIMENTO PRESUMIDO DA GRATUIDADE DE JUSTIÇA À RECLAMANTE NO JULGAMENTO DOS EDCL NO AGRG NO AGRAVO EM RECURSO ESPECIAL N. 621.944/RJ. NECESSIDADE. RECLAMAÇÃO PROCEDENTE.
+Em suas razões recursais, sustenta o embargante, em suma, que a parte adversa pretende cassar a decisão de indeferimento do seu recurso, sob o argumento de que teve a gratuidade de Justiça deferida, mesmo que tacitamente, o que não expressa a verdade.
+Para tanto, anota que:
+Às fls. 86 do processo principal, a Embargada teve indeferido o benefício da gratuidade de justiça, conforme decisão de fls. 568.
+Ao interpor o recurso de apelação, novamente teve indeferido o pedido de gratuidade, conforme decisão de fls. 569, determinando o juízo singular o recolhimento das custas sob pena de deserção.
+Com efeito, a Embargada promoveu o recolhimento das custas para processamento e julgamento do recurso, conforme fls. 570/571.
+Mantida a sentença, a Embargada interpôs Recurso Especial e Extraordinário, mais uma vez promovendo o recolhimento das custas, conforme fls. 572/573.
+Inadmitidos os recursos, a Embargada interpôs Agravo em Recurso Especial e Agravo em Recurso Extraordinário, cujo preparo já estava incluso no preparo do Recurso Especial e Extraordinário.
+Alega, ainda, que a decisão reclamada, na verdade, nada deliberou sobre o benefício da gratuidade de Justiça.
+Em conclusão, requer que os presentes embargos de declaração sejam recebidos com efeitos modificativos, acolhendo-os para que a reclamação seja julgada improcedente.
+A parte embargada apresentou impugnação (e-STJ, fls. 582-600).
+Brevemente relatado, decido.
+Das razões recursais, constata-se que o insurgente, sem indicar nenhum vício de julgamento na decisão embargada, atribuiu aos aclaratórios, declaradamente, propósito meramente infringencial, o que refoge, em absoluto, do perfil integrativo da presente via recursal.
+Consigna-se, a esse propósito, que a matéria ora deduzida foi expressamente abordada na decisão embargada, sendo certo que a mera discordância da parte quanto aos seus fundamentos não autoriza o manejo dos embargos de declaração.
+É, aliás, o que se verifica, claramente, de seus termos:
+No presente juízo de cognição exauriente, tem-se que a Terceira Vice-Presidência do TJ/RJ, ao não conhecer do agravo interno  interposto contra a decisão que negou seguimento ao recurso extraordinário, com fundamento no art. 1.030, I, do CPC/2015  , por reputá-lo deserto, contrariou, de fato, a autoridade da decisão proferida pelo STJ que reconheceu, ainda que de modo presumido, que a reclamante faz jus ao benefício da gratuidade de Justiça.
+Efetivamente, constata-se que a Terceira Turma do STJ, ao julgar os EDcl no AgRg no AREsp 621.944/RJ, instada a se manifestar sobre o pedido de gratuidade de justiça feito nesta instância especial (e-STJ, fls. 552-559 dos autos do AREsp n. 621.944/RJ), reconheceu, expressamente, que "se presume o deferimento do pedido de assistência judiciária gratuita não expressamente indeferido por decisão fundamentada, inclusive na instância especial" (e-STJ, fls. 699-700 dos autos do AREsp n. 621.944/RJ).
+ ..
+Do teor da decisão proferida pela Terceira Turma do STJ, constata-se que a questão relativa ao benefício da gratuidade de justiça foi, efetivamente, objeto de deliberação, reconhecendo-se, na oportunidade, que a então recorrente litiga, presumidamente, sob o pálio da justiça gratuita, já que o seu correlato pedido não foi oportunamente analisado.
+A informação trazida pela autoridade reclamada de que o pedido de gratuidade teria, na verdade, sido indeferido em primeira instância, não modifica o fato inquestionável de que o STJ, posteriormente, proferiu decisão  e aqui não se discute o seu acerto  em que se reconheceu que a então recorrente litiga, presumidamente, sob o pálio da justiça gratuita, operando-se, sobre ela, a preclusão.
+Pode-se concluir, assim, que a superveniente decisão proferida pela Terceira Vice-Presidência, que reputou deserto o agravo interno  interposto contra a decisão que negou seguimento ao recurso extraordinário, com fundamento no art. 1.030, I, do CPC/2015  , deixando de conhecê-lo, afrontou, reflexamente, a autoridade da decisão exarada pelo STJ acima delineada.
+Saliente-se, inclusive, que o questionamento ora aventado, acerca do alegado indeferimento do benefício da Justiça gratuita na origem, que reproduz as informações prestadas pela autoridade reputada reclamada, foi devidamente enfrentada, conforme se verifica do excerto acima transcrito em destaque.
+Não se antevê, assim, nenhum vício de julgamento.
+Em arremate, na esteira dos fundamentos acima delineados, rejeitos os embargos de declaração.
+Publique-se.
