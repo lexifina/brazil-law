@@ -1,0 +1,30 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “MANDADO DE SEGURANÇA. ADMINISTRATIVO. CONCURSO PÚBLICO. PRORROGAÇÃO DA VALIDADE DO CONCURSO. REQUISITOS DO EDITAL. SURGIMENTO DE NOVA VAGA DENTRO DA VALIDADE. ABERTURA DE NOVO CONCURSO DENTRO DA VALIDADE DO ANTERIOR. MESMO CARGO. REMESSA OFICIAL E APELAÇÃO IMPROVIDAS.
+    - Cinge-se a controvérsia na nomeação, posse e exercício do apelado, no cargo de Administrador do Núcleo Estadual da Saúde em São Paulo, vez que teria sido aprovado e estando classificando dentro das vagas estipuladas.
+    - A validade do concurso, conforme previsto no edital, era de dois anos. Com a prolação da decisão nos autos da ação civil pública o mesmo teve validade final estipulada em quatro anos.
+    - Considerando que a data de homologação do resultado final ocorreu em 13/04/2010, o prazo final de validade do concurso encerrou-se em 13/04/2014.
+    -Anoto que há entendimento consolidado tanto nesta E. Corte Regional, quanto no Colendo Superior Tribunal de Justiça, no sentido de que o edital é a lei do concurso, vinculando, aos seus estritos termos, tanto a Administração Pública quanto os candidatos nele inscritos.
+    -Dos documentos juntados aos autos, verifica-se que, dentro da validade do concurso, foram convocados os candidatos até a 11a posição, ocorre que este último candidato, na data de 03/04/2014, ou seja, antes do prazo final de validade do concurso, desistiu formalmente da vaga.
+    -Assim, assiste razão ao apelado, fazendo jus à nomeação ao cargo para o qual concorreu no concurso em questão.
+    -Outrossim, antes do vencimento do primeiro concurso, foi publicado novo edital (edital n° 4, de 18/04/2013), inclusive nomeando candidatos aprovados para o mesmo cargo do apelado, comprovando, portanto, o interesse da Administração no preenchimento de referidas vagas.
+    -Remessa oficial e apelação improvidas” (pág. 30 do documento eletrônico 2 – grifos lançados).
+    Os embargos de declaração que se seguiram, foram rejeitados (pág. 56 do documento eletrônico 2).
+    No RE fundado no art. 102, III, a, da Constituição, alegou-se violação do art. 37, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O entendimento firmado pelo Tribunal a quo está em harmonia com a jurisprudência desta Corte:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – CONCURSO PÚBLICO – NÃO PROVIMENTO DE TODOS OS CARGOS VAGOS INDICADOS NO INSTRUMENTO CONVOCATÓRIO DO CERTAME, EM DECORRÊNCIA DE DESISTÊNCIAS E/OU IMPEDIMENTOS – DIREITO SUBJETIVO À NOMEAÇÃO DE TANTOS CANDIDATOS CLASSIFICADOS EM POSIÇÃO SUBSEQUENTE À DO ÚLTIMO APROVADO DENTRO DO NÚMERO DE VAGAS QUANTOS FOREM OS DESISTENTES E/OU IMPEDIDOS – DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL – CONSEQUENTE INVIABILIDADE DO RECURSO QUE A IMPUGNA – SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO SUPORTE À DECISÃO RECORRIDA – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A INADMISSIBILIDADE DE CONDENAÇÃO EM VERBA HONORÁRIA, POR TRATAR-SE DE PROCESSO DE MANDADO DE SEGURANÇA (SÚMULA 512/STF E LEI Nº 12.016/2009, ART. 25) – AGRAVO INTERNO IMPROVIDO.” (ARE 865.055-AgR/PB, Rel. Min. Celso de Mello, Segunda Turma).
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. NOMEAÇÃO DE APROVADOS EM CONCURSO PÚBLICO. EXISTÊNCIA DE VAGAS PARA CARGO PÚBLICO COM LISTA DE APROVADOS EM CONCURSO VIGENTE: DIREITO ADQUIRIDO E EXPECTATIVA DE DIREITO. DIREITO SUBJETIVO À NOMEAÇÃO. RECUSA DA ADMINISTRAÇÃO EM PROVER CARGOS VAGOS: NECESSIDADE DE MOTIVAÇÃO. ARTIGOS 37, INCISOS II E IV, DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+    1. Os candidatos aprovados em concurso público têm direito subjetivo à nomeação para a posse que vier a ser dada nos cargos vagos existentes ou nos que vierem a vagar no prazo de validade do concurso .
+    2. A recusa da Administração Pública em prover cargos vagos quando existentes candidatos aprovados em concurso público deve ser motivada, e esta motivação é suscetível de apreciação pelo Poder Judiciário.
+    3. Recurso extraordinário ao qual se nega provimento (RE 227.480-AgR/RJ, Rel. Min. Menezes Direito, Primeira Turma).
+    Ressalto, ainda, que o direito à nomeação também se estende ao candidato aprovado fora do número de vagas previstas no edital, mas que passe a figurar entre as vagas em decorrência da desistência de candidatos classificados em colocação superior. Com esse entendimento, cito o seguinte julgado:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. CANDIDATO APROVADO FORA DAS VAGAS. DESISTÊNCIA DE CANDIDATO MELHOR APROVADO. DIREITO SUBJETIVO À NOMEAÇÃO. PRECEDENTES. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA.
+    1. O acórdão recorrido está alinhado com a jurisprudência desta Corte no sentido de que o direito à nomeação se estende ao candidato aprovado fora do número de vagas previstas no edital, mas que passe a figurar entre as vagas em decorrência da desistência de classificados em colocação superior. Precedente.
+    2. Inaplicável candidatos classificados em colocação superior o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 (ARE 1.058.317-AgR/MG, Rel. Min. Roberto Barroso, Primeira Turma).
+    No mesmo sentido, menciono as seguintes decisões, entre outras: ARE 734.049-AgR/PB, Relator o Ministro Teori Zavascki; RE 695.192/BA, Relatora a Ministra Cármen Lúcia; RE 718.192/BA e RE 708.653/BA, Relator o Ministro Luiz Fux; RE 715.433/BA e RE 643.674-AgR/AL, de minha relatoria; ARE 661.760-AgR/PB, Relator o Ministro Dias Toffoli.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Sem honorários advocatícios (Súmula 512/STF).
+    Publique-se.
+    Brasília, 29 de maio de 2019.
+Ministro Ricardo Lewandowski
+Relator
