@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 3, p. 70):
+    “MANDADO DE SEGURANÇA. TRIBUTÁRIO. PIS/COFINS. LEI N.º 11.196/2005. PROGRAMA DE INCLUSÃO DIGITAL. PRODUTOS DE INFORMÁTICA. ALÍQUOTA ZERO. MP N.º 690/2015. AUMENTO ALÍQUOTA. LEGALIDADE. 1. A Medida Provisória 690/2015, convertida na Lei n.º 13.241/2015, não está revogando uma isenção concedida por prazo certo e sob determinadas condições, mas simplesmente diante do aumento de uma alíquota que obedeceu a todos os critérios constitucionais exigidos, sendo, pois, inaplicável o disposto no artigo 178 do Código Tributário Nacional. 2. Não há confundir isenção fiscal com alíquota zero. Embora do ponto de vista prático gerem o mesmo resultado econômico, ou seja, o não recolhimento ou a não exigência da exação, do ponto de vista teórico-conceitual, são instituto absolutamente distintos.”
+    Os embargos de declaração foram rejeitados (eDOC 3, p. 98).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, caput e incisos I, XXXV, XXXVI, LV e LXIX e art. 93, IX, da Constituição Federal.
+    Nas razões recursais, sustenta-se a nulidade do acórdão a quo em virtude da negativa de prestação jurisdicional e busca demonstrar a impossibilidade de majoração de alíquota antes de findo o prazo certo e determinado normativamente estabelecido. Nesse sentido, assevera que (eDOC 3, p. 140):
+    “(...) há de ser equiparado à isenção o incentivo veiculado por lei para, por prazo definido, reduzir a “zero” o valor de uma alíquota, também para se assegurar os direitos dos contribuintes em vista de sua revogação, mormente porque ambas as hipóteses de não-incidência surtem os mesmos efeitos exoneratórios, devendo ser reformada a decisão, uma vez a violação frontal e direta ao Princípio da Segurança Jurídica e Direito Adquirido, previstos nos artigos 5º, incisos I, XXXVI e LXIX todos da CF/88.”
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    In casu, verifica-se que a discussão envolvendo a incidência da Lei n.º 13.241/2015 e a aplicação do disposto no artigo 178 do Código Tributário Nacional possui natureza infraconstitucional, configurando, quando muito, ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário.
+    Ademais, quanto à alegada afronta ao art. 93, IX, da CF, constata-se que o acórdão recorrido inequivocamente prestou jurisdição, e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde o Agravante.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “b”, do CPC c/c o art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de maio de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
