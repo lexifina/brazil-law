@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo de MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE - MPE contra decisão que não admitiu o seu recurso especial, interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal - CF, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE - TJRN.
+Consta dos autos que o agravado foi condenado pela prática do delito tipificado no artigo 121, § 2º, I e IV do Código Penal - CP, à pena de 18 anos de reclusão, em regime inicial fechado (fls. 240/242).
+Irresignada, a defesa interpôs recurso de apelação que foi provido para reduzir a pena ao patamar de 17 anos de reclusão. O acórdão ficou assim ementado:
+PENAL E PROCESSUAL PENAL. TRIBUNAL DO JÚRI. APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO (ART. 121, § 2o, I E IV DO CÓDIGO PENAL). PRELIMINAR SUSCITADA PELO APELANTE DE NULIDADE DO JULGAMENTO EM RAZÃO DA QUEBRA DE INCOMUNICABILIDADE DOS JURADOS. NÃO ACOLHIMENTO. AUSÊNCIA DE NULIDADE INSANÁVEL. MÉRITO: A) PRETENSA DIMINUIÇÃO DA PENA DIANTE DA VALORAÇÃO EQUIVOCADA DAS CIRCUNSTÂNCIAS JUDICIAIS DA CULPABILIDADE E CONSEQÜÊNCIAS DO CRIME. POSSIBILIDADE APENAS QUANTO AO REEXAME DA CIRCUNSTÂNCIA JUDICIAL DAS CONSEQÜÊNCIAS DO CRIME DIANTE DA FUNDAMENTAÇÃO INIDÔNEA PARA SUA NEGATIVAÇÃO. DIMINUIÇÃO DA PENA-BASE QUE SE IMPÕE. 2) PRETENDIDO RECONHECIMENTO DA CONFISSÃO QUALIFICADA. IMPOSSIBILIDADE. CONFISSÃO NÃO UTILIZADA COMO FUNDAMENTO PARA CONCLUSÃO CONDENATÓRIA. 3) REALIZAÇÃO DA DETRAÇÃO PENAL. IMPOSSIBILIDADE. MATÉRIA AFETA AO JUÍZO DE EXECUÇÃO PENAL. APELO CONHECIDO E PARCIALMENTE PROVIDO EM CONSONÂNCIA PARCIAL COM PARECER DA 5a PROCURADORIA DE JUSTIÇA EM SUBSTITUIÇÃO LEGAL À 2a PROCURADORIA DE JUSTIÇA (fls. 309/310).
+Embargos de declaração opostos pelo MPE foram rejeitados (fls. 345/351).
+Em sede de recurso especial, o MPE alegou violação aos artigos 617 e 381, I, II e III, ambos do Código de Processo Penal - CPP, porque o Tribunal de origem considerou inidônea a fundamentação utilizada na sentença para valorar negativamente circunstâncias do crime, sem considerar a situação concreta dos autos. Destaca que o delito ocorreu no âmbito doméstico, entre cônjuges, sendo presenciado pelo filho adolescente da vítima e do acusado.
+Requereu seja restaurada a pena da sentença.
+Contrarrazões (fls. 376/380).
+A r. decisão agravada não admitiu o recurso especial haja vista o óbice do revolvimento fático-probatório, conforme Súmula 7/STJ (fls. 384/386).
+Em agravo em recurso especial, o MPE refuta o referido óbice (fls. 389/392).
+Contraminuta às fls. 403/406.
+O Ministério Público Federal - MPF opinou pelo provimento do agravo em recurso especial e do recurso especial (fls. 429/439).
+É o relatório. Decido.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem reduziu a exasperação da pena-base por considerar equivocada a valoração negativa das consequências do delito constante na sentença, nos seguintes termos:
+É lição comezinha do Direito Penal que a negativação de qualquer circunstância prevista no art. 59 do mencionado diploma legal necessita obrigatoriamente de fundamentação concreta, justificando com segurança e coerência os motivos que provocaram a devida repulsa, não sendo aceito em nosso ordenamento jurídico a utilização de informações incertas e vagas.
+Inicialmente registre-se que a pena-base se afastou do mínimo legal em 01 (um) ano e 06 (seis) meses de reclusão, pelo fato de terem sido consideradas desfavoráveis as circunstâncias judiciais relativas à culpabilidade e conseqüências do crime.
+In casu, não há que se falar em constrangimento ilegal na exasperação da pena decorrente da culpabilidade acentuada do agente, porquanto a premeditação, ao contrário do dolo de ímpeto, está a apontar uma conduta mais censurável, diante do planejamento antecipado da ação criminosa, mostrando-se justificada, portanto, a elevação da pena-base sob esse argumento.
+Já quanto às conseqüências do crime, observo que o juiz a quo equivocou-se na fundamentação, diante da utilização das expressões "intuitivas" e "provavelmente", as quais expressam um juízo de probabilidade e incerteza, de sorte que não pode essa circunstância prejudicar o acusado na fixação da pena-base.
+Deste modo, com base nos critérios adotados pelo juízo a quo, reduzo a pena-base do crime insculpido no art. 121, § 2o , I e IV do CP para 12 (doze) anos e 09 (nove) meses (fls. 312/313).
+Por seu turno, na sentença constou o seguinte:
+Considerando a (culpabilidade  observo a grande censurabilidade da conduta do réu, na medida em que houve relevante grau de premeditação; (..) quanto às consequências foram desfavoráveis, uma vez que o crime foi praticado perante adolescente, filho da vítima e do acusado, sendo bastante intuitivas, diante de sua pouca idade, as seqüelas psicológicas decorrentes do fato que, provavelmente, perdurarão durante toda a sua vida; quanto ao comportamento da vítima, este foi normal, razão pela qual tal critério é considerado neutro, consoante jurisprudência do TJRN.
+A partir da análise de tais circunstâncias, e considerando que o Júri acatou a qualificadora prevista no art.121, §2º, inciso l, fixo a pena-base em 13 (treze) anos e 6 (seis) meses de reclusão (fl. 240).
+Neste tópico, assinalo que a dosimetria da pena somente pode ser revista em casos excepcionais de flagrante equívoco, porquanto deve ser respeitada a discricionariedade vinculada do julgador na análise dos fatos. Nesse sentido, cito precedentes:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE ROUBO CIRCUNSTANCIADO. ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE EM ÂMBITO DE RECURSO ESPECIAL. DOSIMETRIA DA PENA. REPRIMENDA BÁSICA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA.
+ ..
+2. A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+ ..
+5. Agravo regimental desprovido (AgRg no AREsp 864.464/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 30/05/2017).
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. USO DE DOCUMENTO PÚBLICO FALSO (CP, ART. 304 C/C 297). VIOLAÇÃO DO ART. 619 DO CPP. NÃO OCORRÊNCIA. ART. 59 DO CP. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. FUNDAMENTAÇÃO.
+ ..
+3. A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+ ..
+5. Agravo regimental não provido (AgRg no REsp 1538351/SE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 15/05/2017).
+Para ser idônea a exasperação da pena-base, as instâncias ordinárias devem justificá-la com elementos concretos, não inerentes ao tipo penal, que demonstrem a maior reprovabilidade da conduta. Cito precedente:
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. SENTENÇA CONDENATÓRIA. INTIMAÇÃO PESSOAL DO RÉU SOLTO. DESNECESSIDADE. FRAUDE CONTRA A RECEITA FEDERAL. DOSIMETRIA. FUNDAMENTAÇÃO. REGIME PRISIONAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME SEMIABERTO. PERDA DO CARGO PÚBLICO. FUNDAMENTAÇÃO VÁLIDA. VALOR DO DIA-MULTA. CONDIÇÃO SOCIOECONÔMICA DO RÉU. REEXAME DE PROVA.
+ ..
+2. A fixação da pena-base deve contar com fundamentação concreta, idônea e individualizada, nos termos do artigo 59 do Código Penal e da norma constitucional expressa no artigo 93, inciso IX da Constituição Federal, não bastando, para tanto, meras referências a termos genéricos como "culpabilidade intensa" ou a "exigibilidade de conduta diversa", "lucro fácil", "causando prejuízo à vítima", quando tais circunstâncias constituem elementares do próprio tipo penal.
+ ..
+6. Recurso parcialmente provido (REsp 1383921/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 25/06/2015).
+No caso dos autos, depreende-se da sentença que a valoração negativa das consequências do crime foi justificada concretamente, porquanto o filho adolescente do casal presenciou o pai matar a mãe, sendo inequívoca a existência de trauma maior do que aquele inerente a um filho que recebe notícia do assassinato de sua mãe. No mesmo sentido, cito precedente:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIME DE HOMICÍDIO QUALIFICADO. PLEITO DE APLICAÇÃO DE PRIVILÉGIO E DE AFASTAMENTO DE QUALIFICADORA. IMPOSSIBILIDADE. DECISÃO DOS JURADOS NÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. PRINCÍPIO DA SOBERANIA DOS VEREDITOS. REVISÃO DO JULGADO. VIA IMPRÓPRIA. DOSIMETRIA. CIRCUNSTÂNCIAS DO DELITO. RÉU QUE COMETEU O DELITO APÓS EMBRIAGAR-SE, COM A FARDA E A ARMA DA CORPORAÇÃO QUE INTEGRAVA E QUE EFETUOU PRÉVIO DISPARO PARA O ALTO ANTES DE DISPARAR ATIRAR CONTRA A VÍTIMA. FUNDAMENTO VÁLIDO. CONSEQUÊNCIAS. DELITO PRATICADO NA PRESENÇA DO FILHO DE 12 ANOS DA VÍTIMA. ESPECIAL GRAVOSIDADE DEMONSTRADA. CONFISSÃO ESPONTÂNEA. OCORRÊNCIA. RECONHECIMENTO OBRIGATÓRIO. PRESENÇA DE ILEGALIDADE FLAGRANTE. HC NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+4. Não obstante o fato de a vítima ter deixado filho não constitua, propriamente, circunstância incomum à espécie - homicídio - de sorte a justificar a exasperação da pena, o fato de o delito ter sido cometido na presença do filho da vítima, de 12 anos de idade, justifica a valoração negativa das consequências do delito, na medida em que exorbita das consequências inerentes ao delito praticado.
+ ..
+6. Habeas corpus não conhecido, mas concedida a ordem de ofício para reduzir as penas a 13 anos e 4 meses de reclusão (HC 302.557/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 09/02/2017).
+Ante o exposto, admito o agravo em recurso especial e, com fundamento na Súmula 568/STJ, dou provimento ao recurso especial para restabelecer a valoração negativa das consequências do crime, bem como a pena definitiva em 18 anos de reclusão.
+Publique-se.
+Intimem-se.
