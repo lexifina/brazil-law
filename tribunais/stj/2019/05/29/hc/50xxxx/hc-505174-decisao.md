@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0000075-21.2017.8.26.0559).
+Consta dos autos que o paciente, juntamente com outro corréu, foi condenado, em primeiro grau, a 3 anos e 4 meses de reclusão, em regime inicialmente fechado, pela prática do delito de tráfico de drogas (art. 33, § 4º, da Lei n. 11.343/06).
+Interposta apelação, pela defesa, o Tribunal a quo negou provimento ao recurso, com estes fundamentos:
+A base para ambos corréus foi fixada no mínimo legal de 05 anos de reclusão e pagamento de 500 dias-multa.
+Observo que foi apreendida grande quantidade de entorpecente. Sendo o crime de perigo contra a saúde pública, fica claro que tal quantidade poderia facilmente alcançar um enorme número de pessoas, circunstância que autorizaria exasperação da pena, principalmente em vista do disposto no artigo 42 da Lei 11.343/06, que afirma que a quantidade de entorpecente apreendido tem preponderância sobre o previsto no artigo 59 do Código Penal.
+ ..
+Desta forma, a pena base deveria ter sido fixada acima do mínimo legal. Contudo, ante a ausência de recurso ministerial, não há que se falar em modificação em prejuízo dos acusados. Sendo assim, a pena permanecerá no mínimo.
+Na segunda fase, quanto ao corréu [NOME], não há agravantes ou atenuantes, permanecendo a pena em 05 anos de reclusão e ao pagamento de 500 dias-multa. Quanto ao corréu Kilde, por ser reincidente específico, teve sua pena majorada em 1/5, perfazendo a pena em 6 anos de reclusão e pagamento de 600 dias-multa, o que mantenho dada a inexistência de recurso ministerial, vez que por ser reincidência específica o aumento deveria ser em um terço.
+Ainda nesta fase inviável reconhecer a confissão como quer a defesa, vez que não se deu de maneira completa e, ainda que parcial, não foi elemento de convicção, conforme ilustra o verbete 545 do Superior Tribunal de Justiça.
+Na terceira fase, quanto ao corréu [NOME], considerando que se trata de réu primário, sem antecedentes criminais e sem qualquer notícia de que integre organização criminosa, foi aplicado o redutor previsto no art. 33, §4º, da Lei nº 11.434/2006 em 1/3, diminuindo a pena para 3 anos e 4 meses de reclusão e pagamento de 333 dias-multa. Inviável seu afastamento por ausência de recurso ministerial. Pela quantidade e natureza das drogas inviável redutor no máximo.
+No que tange ao corréu Kilde, inviável a aplicação do redutor previsto no artigo 33, § 4º, da Lei nº 11.343/06.
+Não era o caso de concessão do redutor porque não preenchido requisito necessário ao reconhecimento da minorante, vez que o acusado é reincidente. Logo, devem permanecer as penas de 06 anos de reclusão e pagamento de 600 dias-multa.
+Inviável a substituição da pena ou a concessão de sursis ante a quantidade da reprimenda.
+O regime fechado impõe-se, não havendo que se falar em alteração do regime fechado para o intermediário como pretende a Defesa. Observo que foi apreendida considerável quantidade e variedade de entorpecentes. Sendo o crime de perigo contra a saúde pública fica claro que tal quantidade poderia facilmente alcançar um elevado número de pessoas, o que denota maior reprovabilidade em sua conduta, visto o maior ataque ao bem jurídico. No caso, a natureza das drogas apreendidas (cocaína e crack) também indica maior reprovabilidade, visto que tais entorpecentes possuem grande capacidade de viciar, como é notório e visto em toda a mídia. Assim em face do bem jurídico protegido, aliado ao artigo 42 da Lei nº 11.343/06, quanto maior a capacidade de viciar da droga, em abstrato, maior a reprovabilidade. Além disso, o réu Kilde é reincidente específico, o que indica a necessidade de regime mais gravoso para desestimulá-lo da senda do crime.
+Portanto, demonstraram periculosidade e culpabilidade acima da média, de forma que o regime fechado é o único que se mostra suficiente para atingir a função preventiva específica da pena, que é inibir a prática de novas ações delituosas, nos termos do artigo 33, § 3º, do Código Penal. Assim sendo, inviável a fixação de outro regime (fls. 33/35).
+Neste writ, os impetrantes sustentam que a quantidade e a natureza da droga podem, quanto ao § 4º do art. 33, influenciar no quantum de redução, sem impedir a sua aplicação (fl. 8).
+Alegam também que, aplicado o redutor previsto no artigo 33, § 4º, da referida Lei, mesmo que não seja em seu patamar máximo, possível a fixação de regime prisional menos gravoso e a substituição da pena privativa de liberdade por medidas restritivas de direitos (fl. 12).
+Requerem, assim, em liminar e no mérito, a aplicação da minorante do § 4º, a alteração do regime prisional e a substituição da pena.
+Indeferido o pedido liminar e prestadas as informações pela autoridade coatora, o Ministério Público Federal opinou pela denegação da ordem, nos termos da seguinte ementa:
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS COM PEDIDO LIMINAR. TRÁFICO DE ENTORPECENTES. TRÁFICO PRIVILEGIADO. INAPLICABILIDADE. QUANTIDADE E NATUREZA DA DROGA. REGIME FECHADO ESTABELECIDO MOTIVADAMENTE. GRAVIDADE CONCRETA DA CONDUTA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+PARECER PELA DENEGAÇÃO DA ORDEM (fl. 68).
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Por outro lado, está clara a falta de interesse processual dos impetrantes, porquanto o Tribunal a quo manteve a incidência da causa especial de redução da pena pretendida, ressaltando que pela quantidade e natureza das drogas inviável redutor no máximo (fl. 34).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
