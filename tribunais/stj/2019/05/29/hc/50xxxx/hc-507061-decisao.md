@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LEANDRO APARECIDO LOPES no qual aponta como autoridade coatora a 6ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo no julgamento do Agravo em Execução Penal n. 0008369-23.2018.8.26.0496, com a seguinte ementa (e-STJ fls. 57-61):
+UNIFICAÇÃO DE PENAS - Interrupção dos lapsos temporais para fins de benefícios - Nova condenação no curso da execução que interrompe o prazo, nos termos do art. 118, inciso II, da Lei de Execução Penal - Termo inicial - Data da última condenação ou respectivo trânsito em julgado.
+Agravo desprovido.
+Consta dos autos que, durante a Execução da Pena n. 0007462-48.2018.8.26.0496, em regime fechado, sobreveio nova condenação em regime semiaberto, no Processo n. 0007698-97.2018.8.26.0496, tendo o Juízo da Vara de Execução Criminal da Comarca de Ribeirão Preto determinado a unificação das penas, a serem cumpridas em regime fechado, e estabelecido a data do trânsito em julgado da nova condenação como termo a quo para concessão de benefícios de progressão prisional e para o livramento condicional (e-STJ fls. 21-53).
+O TJSP negou provimento ao agravo em execução penal (e-STJ fls. 57-61).
+Segundo a impetração (e-STJ fls. 3-11), o paciente sofreria constrangimento ilegal, em resumo, porque inexiste "previsão legal que sustente a interrupção dos lapsos" para benefícios da execução (e-STJ fl. 5).
+Requer, ao final, a concessão da ordem para que seja considerada a data da última prisão (16/7/2015) como marco inicial para o cômputo de benefícios carcerários.
+O pedido liminar foi indeferido (e-STJ fls. 66-67).
+As informações encontram-se às e-STJ fls. 69-108.
+Em parecer (e-STJ fls. 119-220), o Ministério Público Federal opinou pela concessão da ordem.
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do art. 105 da Constituição da República, circunstância que impede o seu conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça e do Supremo Tribunal Federal.
+A propósito, veja-se (destaques acrescidos):
+PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE NÃO CONHECEU DO HABEAS CORPUS. SUSTENTAÇÃO ORAL. INADMISSIBILIDADE. COAÇÃO ILEGAL. NÃO CONFIGURADA.  .. . AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+III - O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+IV - Depreende-se da análise do presente feito que a decisão ora combatida não revela a mencionada ilegalidade, sobretudo no que toca à exigência da prática de ato de ofício para a configuração do delito de corrupção passiva, encontrando-se em conformidade com o entendimento, tanto do Supremo Tribunal Federal, quanto desse Superior Tribunal de Justiça acerca do tema.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC 465.432/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/02/2019, DJe 21/02/2019)
+Entretanto, o constrangimento apontado na inicial será analisado a fim de que se verifique a existência de flagrante ilegalidade que justifique a atuação de ofício do Superior Tribunal de Justiça, com fundamento no art. 654, § 2º, do Código de Processo Penal.
+No que diz respeito à fixação do termo inicial para a obtenção de benefícios após a unificação de penas do reeducando, o TJSP manifestou-se neste sentido (e-STJ fls. 59-61):
+ ..
+A superveniência de nova condenação no curso da execução, além da regressão a regime mais grave, causa, ainda, o reinício da contagem dos prazos permissivos de novos benefícios, conforme determina o artigo 118, inciso II, da Lei nº 7.210/84.
+O mesmo se diga em relação ao artigo 111, parágrafo único, do mencionado diploma legal.
+ ..
+Destarte, a interrupção do lapso para fins de concessão de futuros benefícios é consequência lógica da unificação das penas resultante da nova condenação à pena privativa de liberdade, cujo montante apurado é que balizará o deferimento de eventuais benesses, contando, a partir da data da última condenação ou do trânsito em julgado do novo decreto condenatório, o início do cálculo respectivo.
+ ..
+Este Superior Tribunal possuía entendimento pacificado de que, com o advento de nova condenação no curso do resgate da pena, o cômputo do prazo para obtenção de benefícios da execução era interrompido, passando a ser calculado a partir do somatório das penas restantes e tendo como termo a quo a data do trânsito em julgado da última sentença condenatória.
+No entanto, a Terceira Seção, ao julgar o Recurso Especial n. 1.557.461/SC, sob relatoria do Ministro Rogério Schietti Cruz, julgado em 2/2/2018, passou a entender que "a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução".
+No mesmo sentido, cito o HC n. 381.248/MG, também julgado pela Terceira Seção. Dessa feita, o Excelentíssimo Sr. Ministro Sebastião Reis Júnior, relator para o acórdão, repetiu o entendimento firmado no julgado previamente citado, afirmando que diante da inexistência de previsão legal para a alteração da data-base para a concessão de futuros benefícios da execução, em razão da unificação de penas, a desconsideração do tempo de prisão antes do trânsito em julgado da nova condenação acarreta evidente excesso de execução.
+Ainda sobre o tema, vejam-se os seguintes julgados:
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. NOVA DATA-BASE PARA A CONCESSÃO DE BENEFÍCIOS. INEXISTÊNCIA DE PREVISÃO LEGAL. CONSTRANGIMENTO ILEGAL CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - Firmou-se nesta Corte, nos termos do entendimento do col. Pretório Excelso, orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Este Superior Tribunal de Justiça se posicionava no sentido de que a superveniência de nova condenação, no curso da execução da pena, determinava a unificação das reprimendas e a fixação de nova data-base para a concessão de benefícios, excetuados o livramento condicional, a comutação de pena e o indulto.
+III - A Terceira Seção desta Corte Superior de Justiça, em 22/2/2018, ao julgar o REsp n. 1.557.461/SC, de relatoria do Ministro Rogério Schietti Cruz, e o Habeas Corpus n. 381.248/MG, com Relator para o acórdão o Ministro Sebastião Reis Júnior, sedimentou o entendimento de que a alteração da data-base para a concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal.
+IV - O v. acórdão que modificou o termo a quo para a concessão de novos benefícios em face da unificação de penas, estabelecendo como novo marco a data do trânsito em julgado da última sentença condenatória, está em confronto com a nova orientação jurisprudencial firmada pela Terceira Seção desta Corte Superior de Justiça e, portanto, configura constrangimento ilegal.
+Habeas corpus não conhecido. Ordem concedida de ofício para afastar a fixação da data do trânsito em julgado da última sentença condenatória como novo marco para a obtenção de novos benefícios, como consequência da unificação das penas.
+(HC 442.454/ES, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/05/2018, DJe 24/05/2018 - grifos acrescidos).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. RECENTE ENTENDIMENTO FIRMADO PELA TERCEIRA SEÇÃO DESTA CORTE (HC 381.248/MG E REsp. 1.557.461/SC). AGRAVO REGIMENTAL DESPROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando e a regressão de regime prisional, se for o caso (arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal).
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução (REsp. 1.557.461/SC, Rel. Min. ROGÉRIO SCHIETTI CRUZ, Terceira Seção, j. 22/2/2018, DJe 15/3/2018).
+3. Agravo Regimental desprovido.
+(AgRg no REsp 1719880/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/04/2018, DJe 07/05/2018).
+Nesse contexto, merece reforma o acórdão impugnado para que seja fixada a data da última prisão como termo inicial para a concessão da progressão de regime prisional, excetuando-se o livramento condicional, o indulto e a comutação de penas.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno deste Superior Tribunal de Justiça, não se conhece do presente habeas corpus, concedendo-se, contudo, a ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para definir a data da última prisão do recorrente como marco inicial para cômputo de benefícios da execução penal.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
