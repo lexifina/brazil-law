@@ -1,0 +1,31 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Costa Sul Pescados Ltda., com amparo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão oriundo do Tribunal de Justiça do Estado de Santa Catarina assim ementado (e-STJ, fl. 250):
+APELAÇÃO CÍVEL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. APROPRIAÇÃO DE CRÉDITOS DESTACADOS EM DOCUMENTOS DECLARADOS INIDÔNEOS PELO FISCO. CONTRIBUINTE QUE NÃO DEMONSTROU A EFETIVA REALIZAÇÃO DAS OPERAÇÕES MERCANTIS. ILEGALIDADE DO CREDITAMENTO. ALEGADO EXCESSO DE EXECUÇÃO. DUPLA INCIDÊNCIA DA CORREÇÃO MONETÁRIA. IMPOSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. MINORAÇÃO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+A única forma de a empresa demonstrar a boa-fé na operação seria comprovando a operação de compra e venda. E mesmo sabendo disso, afinal a jurisprudência se manifesta nesse sentido desde a década de 1990, a ora embargante não trouxe aos autos, sequer, as notas fiscais compatíveis com as operações registradas no livro de entradas. Além do mais, não há como reconhecer o direito de a ora embargante produzir outras provas, na medida em que ela não trouxe no processo um mínimo de prova documental que pudesse convencer o Juízo de que a perícia contábil ou a inquirição de testemunhas fossem realmente necessárias.
+Em relação ao ICMS, o Estado de Santa Catarina passou a adotar, a partir da edição da Lei Estadual n. 10.297/1996, que alterou o art. 69 da Lei Estadual n. 5.983/81, a taxa Selic como fator de correção e de juros moratórios. É uníssono nesta Corte a legalidade da aplicação do referido fator aos débitos tributários. Não há, por isso, qualquer impedimento à aplicação da taxa Selic para o cálculo dos juros de mora incidentes sobre os débitos fiscais, desde que não cumulada com a correção monetária. Todavia, no recálculo realizado pelo Estado de Santa Catarina, os juros foram computados de acordo com a taxa Selic, e, ainda, assim, houve a atualização do débito questionado, o que é ilegal. Por isso, é prudente que sejam recalculados os juros demora e a correção monetária (vedada a cumulação da Selic com correção monetária).
+Os embargos de declaração opostos pela contribuinte foram rejeitados.
+Em suas razões, a recorrente acusa a violação dos arts. 130, 330, I, e 332 do CPC/1973; 3º da LEF; e 19 e 23 da LC n. 87/1996.
+Sustenta, em síntese, que "o acórdão recorrido incorreu em cerceamento de defesa ao não anular a sentença e autorizar a instrução probatória, em especial a produção de prova documental expressamente requerida na exordial, uma vez que a ora Recorrente apresentou evidentes indícios de que a empresa Comércio de Pescados Martins se encontrava regular antes e depois da publicação do Edital Declaratório n. 114/1993, como reconhecido na sentença e não impugnado pelo Estado Recorrido, e corroborado por documentos oficiais, representados por autorizações para impressão de notas fiscais, relatório de atividade regular da empresa e deferimento de baixa voluntária, tudo posteriormente àquele edital" (e-STJ, fl. 294).
+Contrarrazões recursais apresentadas às e-STJ, fls. 312-319.
+Admitido o recurso especial na origem (e-STJ, fls. 325-326), subiram os autos a esta Corte.
+É o relatório.
+O apelo extremo não enseja conhecimento, pois a pretensão da insurgente contraria as premissas fáticas em que foi assentado o aresto combatido, o que atrai o enunciado da Súmula 7/STJ.
+Como visto, o Tribunal regional concluiu, por sua leitura e análise, pela ausência de documentação que atestasse o quanto alegado pela empresa, bem como a necessidade de produção da prova requerida.
+É o que se infere do seguinte excerto do acórdão recorrido:
+Disse, ainda, que todas as notas fiscais glosadas tiveram sua emissão/impressão autorizada pelo Fisco, o que de certa forma serviria para validar as operações.
+No entanto, além de o documento de fl. 96 não ter atestado que o Edital Declaratório n. 114/1993 tenha sido revogado (a apelante nem sequer trouxe aos autos a publicação do edital no Diário Oficial), fato é que a única forma de a empresa demonstrar a boa-fé na operação, inclusive com a Com. Atac. Pesc. Barra Sul Ltda. e com a Com. Atac. de Pesc. Progresso Ltda., seria comprovando a operação de compra e venda.
+E mesmo sabendo disso, afinal a jurisprudência se manifesta nesse sentido desde a década de 1990, a ora embargante não trouxe aos autos, sequer, as notas fiscais compatíveis com as operações registradas no livro de entradas cujas cópias foram relacionadas às fls. 40-93.
+Tanto é que os argumentos, na inicial e no apelo, passaram longe de tal fato.
+Além do mais, não há como reconhecer o direito de a ora embargante produzir outras provas, na medida em que ela não trouxe aos autos um mínimo de prova documental que pudesse convencer o Juízo de que a perícia contábil ou a inquirição de testemunhas fossem realmente necessárias.
+Repita-se: exigia-se pouco. Apenas que as transações fossem de fato comprovadas.
+Daí que, deixando a apelante de trazer as notas fiscais compatíveis com as operações registradas no livro de entradas, inexiste a fiabilidade necessária para que o Juízo determine a produção das provas pericial e testemunhal. (e-STJ, fls. 256-257)
+Nessa senda, qualquer tentativa de desconstituir tais premissas de fato, firmadas na origem demandaria a análise das provas dos autos, providência obstada pela Súmula 7/STJ.
+No ponto:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANO MATERIAL E MORAL CONFIGURADOS. REDUÇÃO. REEXAME. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A análise das razões recursais e a reforma do aresto hostilizado, com a desconstituição de suas premissas demandaria reexame do conjunto fático-probatório dos autos, o que esbarra nas Súmula 7 do STJ.
+2. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 557.686/RJ, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 16/9/2014 - grifos acrescidos)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
