@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se, na origem, de agravo de instrumento interposto por Renova Energia S.A. contra decisão proferida pelo Juízo da 10ª Vara Cível de Brasília/DF que, nos autos do cumprimento de sentença n. 0028728-23.2016.8.07.0001, requerido por [NOME] e Projetos Ltda. em desfavor de Centrais Elétricas Sabiu S.A., acolheu o incidente de desconsideração da personalidade jurídica desta última e, em consequência, determinou a penhora via BACENJUD de ativos financeiros da agravante, no valor apontado pelo exequente de R$ 52.938,00 (cinquenta e dois mil, novecentos e trinta e oito reais).
+A Segunda Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios negou provimento ao inconformismo, em acórdão assim ementado (e-STJ, fl. 604):
+PROCESSUAL CIVIL E CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA.
+TEORIA MAIOR. CONFUSÃO PATRIMONIAL E ADMINISTRATIVA DEMONSTRADA.
+REQUISITOS PREENCHIDOS.
+1. Cuida-se de recurso de agravo de instrumento interposto contra decisão, proferida em fase de cumprimento de sentença, que deferiu o pedido de desconsideração da personalidade jurídica da executada, no intuito de atingir os bens da ora agravante.
+2. Por se tratar de medida excepcional, a desconsideração da personalidade jurídica somente tem cabimento quando evidenciados os pressupostos legais previstos no artigo 50 do Código Civil, quais sejam: o desvio de finalidade ou a confusão patrimonial 4. Restando comprovados aos autos a confusão patrimonial e administrativa existente entre as empresas pertencentes ao mesmo grupo econômico - que atuam no mesmo ramo empresarial, possuem os mesmos diretores e uma delas possui 99% do capital social da outra - correta a decisão do magistrado que desconsiderou a personalidade jurídica da executada.
+5. Recurso conhecido e desprovido.
+Nas razões do recurso especial, a recorrente alegou ofensa ao art. 50 do CC/2002. Aduziu não estarem presentes os pressupostos para a concessão da tutela antecipada, assim como ausentes os requisitos para a desconsideração da personalidade jurídica.
+Contrarrazões às fls. 702-710 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso sob o fundamento de incidir a Súmula 7/STJ.
+Inconformada, a recorrente apresenta agravo refutando o óbice apontado pela Corte estadual.
+Contraminuta às fls. 725-729 (e-STJ).
+Brevemente relatado, decido.
+Em relação à desconsideração da personalidade jurídica, o acórdão recorrido asseverou que há indícios de desvio de finalidade da pessoa jurídica ou confusão patrimonial capazes de autorizar a desconsideração a fim de se estender os efeitos da quebra ao sócio.
+Confira-se o seguinte trecho extraído do aresto combatido (e-STJ, fls. 602-610):
+Portanto, poderá haver o rompimento da proteção legal conferida por lei à agravante quando restar demonstrado o abuso dessa personalidade jurídica, por meio de desvio de finalidade ou por confusão patrimonial.
+Na hipótese, verifico que as empresas agravante e executada pertencem ao mesmo grupo econômico e possuem objetos sociais semelhantes, atuando no mesmo ramo empresarial, sendo a executada controlada indiretamente pela ora agravante (ID. 4375261 - Pág. 185/186), que possui 99% (noventa e nove por cento) do capital social da executada (ID. 4375261 - Pág. 59/62).
+Observo ainda que tanto a executada quanto a RENOVA ENERGIA S.A. possui em seus quadros de sócios e administradores os mesmos diretores - CRISTIANO CORREA DE BARROS e [NOME] (Num. 4375261 - Pág. 165/168).
+Dessa forma, não resta evidenciada a probabilidade do direito vindicado, pois, ao que tudo indica, há de fato uma confusão patrimonial e administrativa entre as empresas que autoriza o acolhimento do incidente suscitado.
+Vale ressaltar que a ora agravante exerce a gestão centralizada do grupo econômico se beneficiando dos lucros das empresas controladas, devendo, por isso, também ser responsabilizada por eventuais prejuízos causados.
+Da mesma forma, também não vislumbro risco de dano grave de difícil ou impossível reparação à agravante, pois a dívida cobrada nos autos é ínfima perante o capital social da empresa e, caso sejam encontrados ativos financeiros penhoráveis, estes não serão de plano expropriados, mostrando-se prudente a manutenção do decisório.
+(..)
+No particular, a confusão patrimonial e administrativa existente entre as empresas pertencentes ao grupo econômico em questão (executada e agravante) restou devidamente demonstrada em virtude dos seguintes fatos: as empresas agravante e executada pertencem ao mesmo grupo econômico e possuem a) objetos sociais semelhantes, atuando no mesmo ramo empresarial, sendo a executada controlada indiretamente pela ora agravante (ID. 4375261 - Pág. 185/186), que possui 99% (noventa e nove por cento) do capital social da executada (ID. 4375261 - Pág. 59/62); tanto a executada quanto a b) RENOVA ENERGIA S.A. possui em seus quadros de sócios e administradores os mesmos diretores - CRISTIANO CORREA DE BARROS e [NOME] (Num. 4375261 - Pág. 165/168) e a ora agravante exerce a gestão centralizada do grupo econômico se beneficiando dos c) lucros das empresas controladas, caso da executada, devendo, por isso, também ser responsabilizada por eventuais prejuízos causados.
+Dessa forma, verificando-se que a executada vem sendo utilizada como escudo para o cometimento de abusos, e não se encontram bens penhoráveis em seu patrimônio, correta a decisão guerreada, que desconsiderou a personalidade jurídica da executada, no intuito de atingir os bens da ora agravante.
+Constata-se, portanto, que, para infirmar as conclusões das instâncias ordinárias, seria imprescindível o reexame das provas carreadas aos autos, o que é inadmissível nesta instância extraordinária, consoante dispõe o Enunciado n. 7 da Súmula de jurisprudência desta Corte.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULOS EXTRAJUDICIAIS. PRETENSÃO DE AMPLIAÇÃO DO POLO PASSIVO COM BASE NO INSTITUTO DA DESCONSIDERAÇÃO DOS DEVEDORES. CONFUSÃO PATRIMONIAL E DE DESVIO DE FINALIDADE. REQUISITOS AFASTADOS PELA CORTE DE ORIGEM. SÚMULA 7/STJ.
+1. "A desconsideração da personalidade jurídica é admitida em situações excepcionais, devendo as instâncias ordinárias, fundamentadamente, concluir pela ocorrência do desvio de sua finalidade ou confusão patrimonial desta com a de seus sócios, requisitos sem os quais a medida torna-se incabível" (REsp n. 1.311.857/RJ, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/5/2014, DJe 2/6/2014).
+2. A revisão das conclusões alcançadas pela Corte estadual acerca da ausência dos requisitos para a desconsideração da personalidade jurídica exigiria o reexame de provas, providência vedada pelo óbice do enunciado sumula 7/STJ.
+3. AGRAVO INTERNO DESPROVIDO. (AgInt no REsp 1678562/SP, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, julgado em 08/04/2019, DJe 15/04/2019)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial
+Publique-se.
