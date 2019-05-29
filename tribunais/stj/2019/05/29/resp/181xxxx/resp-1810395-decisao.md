@@ -1,0 +1,8 @@
+DECISÃO
+Em 17/5/2019, proferi despacho nos seguintes termos:
+No presente recurso especial, o IBAMA busca a reversão da entrega de veículo a fiel depositário, enquanto não concluído o processo administrativo de apreensão por transporte ilegal de produto florestal. Os acórdãos recorridos são de 2011 e 2012, mas o recurso especial só veio concluso em 2019 porque o IBAMA recorreu da decisão que negara seguimento ao apelo com base na sistemática do repetitivo (o processo encontrava-se sobrestado até julho de 2018). Em razão da provável perda do objeto (pela conclusão do procedimento administrativo), intime-se o recorrente para que demonstre, no prazo de dez dias úteis, qual é o seu interesse no exame do recurso especial - sob pena de extinção do procedimento recursal.
+Por meio de petição assinada em 10/4/2018, o IBAMA reconheceu a perda superveniente do objeto do recurso especial. Veja-se:
+(..) por seu Procurador Federal com mandato ex lege que esta subscreve, vem respeitosamente à presença de V. Ex.ª, em atenção ao r. despacho de fls. 361 e-STJ, manifestar-se pela perda superveniente do objeto do presente recurso, tendo em vista a conclusão processo administrativo 02021.01121/2009- 01, no qual restou consignado que "se considere desproporcional a continuidade da aplicação da apreensão do veículo Mercedes Benz 1113 - placa [PLACA], ano 1986, pela primariedade de infrator", conforme comprova o documento em anexo.
+Ante o exposto, nos termos do art. 34, XI, do RISTJ, julgo prejudicado o recurso especial.
+No mais, proceda a Coordenadoria à correção da autuação, pois as partes nesse processo são apenas o IBAMA e o impetrante [NOME].
+Publique-se. Intimem-se.
