@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. DECRETAÇÃO DE OFÍCIO DA PRESCRIÇÃO. RAZÕES GENÉRICAS. FUNDAMENTO INATACADO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF.
+1. Trata-se de Recurso Especial interposto contra acórdão que decretou de ofício a prescrição do crédito tributário.
+2. O Tribunal de origem afastou a alegação de nulidade (na sentença que, em bloco, decretou a prescrição) com fulcro na ausência de demonstração de prejuízo sofrido pela exequente, ou, em outras palavras, na aplicação do princípio pas de nullité sans grief.
+3. Não há, efetivamente, como acolher a tese fazendária, uma vez que bastaria a ela provocar o órgão julgador, indicando e comprovando a data da constituição do crédito tributário (ou do ato que interrompeu a fluência do prazo prescricional) e a data da sentença do juízo de primeiro grau, atestando não haver decorridos cinco anos, ou, em outro aspecto, a ocorrência de uma das hipóteses de suspensão ou interrupção da prescrição (arts. 151 e/ou 174, parágrafo único, do CTN).
+4. Sucede que, conforme premissa consignada no acórdão hostilizado, e não impugnada pelo ente fazendário, não houve essa comprovação, ônus probatório que lhe tocava (art. 333 do CPC/1973), ou, por qualquer outro meio, demonstração de prejuízo. Essa ausência de ataque ao conteúdo do provimento jurisdicional atrai a incidência da Súmula 283/STF.
+5. Pela leitura das razões do apelo nobre, a indicação dos dispositivos legais apontados como infringidos evidencia que o ente público se limita a afirmar abstratamente que não houve prescrição, ou que o acórdão é nulo, sem que as premissas fáticas e jurídicas estabelecidas no acórdão recorrido demonstrem mínima plausibilidade de julgamento a seu favor. Assim, a deficiência nas razões recursais, pela excessiva generalidade, atrai a incidência da Súmula 284/STF.
+6. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a", da Constituição da República contra acórdão assim ementado:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA RECHAÇADA. POSSIBILIDADE DE JULGAMENTO EM BLOCO DE PROCESSOS IDÊNTICOS. APLICAÇÃO DOS ARTS. 458 E 249, §1º, DO CPC. RECONHECIMENTO DE OFÍCIO DA PRESCRIÇÃO, NOS MOLDES DO ART. 219, § 5º, DO CPC. NÃO COMPROVAÇÃO DE PARCELAMENTO DO DÉBITO (ART. 174, IV, DO CTN) OU QUALQUER OUTRA ESPÉCIE DE CONFISSÃO DA DÍVIDA PELO DEVEDOR, CASO EM QUE O ÔNUS DA PROVA INCUMBE AO AUTOR (ART. 333, I, DO CPC). INAPLICABILIDADE DA SÚMULA 106 DO STJ. PRESCRIÇÃO TOTAL DOS CRÉDITOS POR INÉRCIA DA FAZENDA PÚBLICA. MANUTENÇÃO DA SENTENÇA. REEXAME NECESSÁRIO: - SEM ACARRETAR OFENSA - VIOLAÇÃO AO ART. 475, I, DO CPC, DESNECESSÁRIO FAZÊ-LO, UMA VEZ QUE, ALÉM DA PROVADA AUSÊNCIA DE PREJUÍZO À PARTE, OS TEMAS OBJETO DO RECURSO VOLUNTÁRIO MANEJADO PELA FAZENDA PÚBLICA FORAM PLENA, CABAL E EXAUSTIVAMENTE EXAMINADOS. DOUTRINA E JURISPRUDÊNCIA. RECURSO CONHECIDO E NÃO PROVIDO.
+O recorrente alega violação do art. 458 do CPC/1973, do art. 174 do CTN e do art. 40 da Lei 6.830/1980.
+Não há contrarrazões.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 11 de março de 2019.
+O apelo foi interposto contra acórdão publicado na vigência do CPC/1973, razão pela qual o juízo de admissibilidade será feito com observância do disposto no Enunciado Administrativo 2/STJ.
+O recurso não ultrapassa a barreira do conhecimento.
+Com efeito, a tese de violação do art. 458 do CPC/1973 é construída com base na alegação de que a decisão judicial proferida em bloco, englobando múltiplas Execuções Fiscais, embaraça a defesa da Fazenda Pública.
+O argumento foi refutado com fulcro na ausência de demonstração de prejuízo sofrido pela exequente, ou, em outras palavras, na aplicação do princípio pas de nullité sans grief.
+Verifico, no ponto, que o núcleo do ato judicial recorrido consiste na decretação da prescrição, porque transcorrido prazo superior ao de cinco anos, contados da constituição do crédito tributário ou do ato que a interrompeu pela primeira vez.
+Não há, efetivamente, como acolher a tese fazendária, uma vez que bastaria a esta provocar o órgão julgador, indicando e comprovando a data da constituição do crédito tributário (ou do ato que interrompeu a fluência do prazo prescricional) e a data da sentença do juízo de primeiro grau, atestando não haver decorridos cinco anos, ou, em outro aspecto, a ocorrência de uma das hipóteses de suspensão ou interrupção da prescrição (arts. 151 e/ou 174, parágrafo único, do CTN).
+Sucede que, conforme premissa consignada no acórdão hostilizado, e não impugnada pelo ente fazendário, não houve essa comprovação, ônus probatório que lhe tocava (art. 333 do CPC/1973), ou, por qualquer outro meio, prova de prejuízo. Essa ausência de ataque ao conteúdo do provimento jurisdicional atrai a incidência da Súmula 283/STF.
+Note-se que, pela leitura das razões do apelo nobre, a indicação dos dispositivos legais apontados como infringidos evidencia que o ente público se limita a afirmar abstratamente que não houve prescrição, ou que o acórdão é nulo, sem que as premissas fáticas e jurídicas estabelecidas no acórdão recorrido demonstrem mínima plausibilidade de julgamento a seu favor.
+Assim, a deficiência nas razões recursais, pela excessiva generalidade, atrai a incidência da Súmula 284/STF.
+Com essas considerações, não conheço do Recurso Especial.
+Não houve arbitramento de verba honorária nas instâncias de origem, razão pela qual não incide o disposto no art. 85, § 11, do CPC.
+É como voto.
