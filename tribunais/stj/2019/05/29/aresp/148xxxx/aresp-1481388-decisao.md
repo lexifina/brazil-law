@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DESCONTO INDEVIDO EM BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. LITISPENDÊNCIA. PEDIDOS DIVERSOS. NÃO CONFIGURADA. CONEXÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
+DECISÃO
+JOSÉ ROSA (JOSÉ) ajuizou ação declaratória de inexistência de débito cumulada com pedido de indenização por danos morais e materiais contra BANCO BRADESCO S.A. (BANCO), alegando que nunca celebrou contrato com BANCO e que é indevido o desconto de R$ 41,08 (quarenta e um reais e oito centavos) efetuado em 6/3/2009 em seu benefício previdenciário.
+A sentença extinguiu o processo, sem resolução de mérito, nos termos do art. 485, V, do NCPC, em face do reconhecimento de litispendência (e-STJ, fls. 226/228).
+Interposta apelação por JOSÉ, o Tribunal de origem negou-lhe provimento, em acórdão assim ementado (e-STJ, fl. 289):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. LITISPENDÊNCIA. TRÍPLICE IDENTIDADE. DISCUSSÃO DOS DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO EM UMA ÚNICA AÇÃO. Tendo o autor optado por ajuizar uma demanda para cada desconto realizado em seu benefício previdenciário, todas com base em um mesmo contrato de cartão de crédito, fica caracterizada a litispendência, por veicularem todas as ações as mesmas partes, causa de pedir e pedido.
+Deve prevalecer tão somente a ação mais antiga, extinguindo-se todas as demais por litispendência, pois não é permitido ao autor buscar indenizações autônomas para cada desconto em folha, devendo fazer tudo em uma única ação.
+APELAÇÃO DESPROVIDA.
+Inconformado, JOSÉ interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, sustentando a ocorrência de violação dos arts. 131 e 337, §§ 1º, 2º e 3º, do NCPC, aduzindo, em síntese, que (1) não há litispendência entre a presente demanda e as demais por ele ajuizadas, tendo em vista que se referem a contratos diversos e descontos realizados em datas diferentes; e, (2) as circunstâncias dos autos não foram devidamente consideradas no julgamento.
+BANCO ofereceu contrarrazões (e-STJ, fls. 308/313).
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre ante a incidência da Súmula nº 7 do STJ. Dessa decisão, foi interposto o presente agravo, no qual foi impugnado o óbice aplicado.
+Foram apresentadas contrarrazões (e-STJ, fls. 330/335).
+É o relatório.
+DECIDO.
+O recurso comporta parcial acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) e (2) Da litispendência
+JOSÉ sustentou que as circunstâncias dos autos não foram devidamente apreciadas pelo Juízo.
+No entanto, verifica-se que o conteúdo normativo do art. 131 do NCPC, indicado como violado, não foi objeto de debate no Tribunal de origem, o que evidencia a ausência de prequestionamento, a atrair o óbice da Súmula nº 282 do STF.
+Quanto a litispendência, JOSÉ afirmou que não estaria caracterizada, haja vista que a presente ação e as demais cuidam de contratos diversos, bem como de pagamentos efetuados em datas diferentes.
+A esse respeito, o Tribunal de origem consignou que se trata do mesmo contrato, a despeito das numerações díspares, nos seguintes termos:
+Da análise dos autos, verifico pelo documento da fl. 18/19 do pdf que o apelante possui contrato de cartão de crédito com o Banco Bradesco S/A, com pagamento consignado no benefício previdenciário pago pelo INSS.
+O aludido documento, emitido pelo próprio INSS, traz diversas prestações mensais, no mesmo valor, mas com número de contrato diverso para cada prestação.
+Esses números de contrato, no entanto, todos se iniciam com os mesmos algarismos, são destinados ao pagamento de uma mesma instituição financeira, em meses seguidos e todos no mesmo valor.
+Isso realmente leva a crer, com forte carga de certeza, tal como consignado na sentença recorrida, que se trata das parcelas mensais para pagamento do empréstimo tomado a via um único cartão de crédito do banco apelado.
+Assim sendo, realmente há litispendência entre as diversas demandas protocoladas pelo apelante, pois havendo identidade de partes, causa de pedir e pedido, não lhe é lícito propor uma demanda para questionar cada desconto em seu benefício previdenciário.
+Dessa forma, está correta a sentença ao extinguir todas as demandas, por estarem litispendentes com a primeira (nº 5209553.17) (..) (e-STJ, fls. 284/285 - sem destaques no original).
+Nessa linha, a modificação do entendimento do acórdão recorrido, para concluir que os descontos decorreram de contratos diversos, implicaria reexame de fatos e provas, vedado em recurso especial, nos termos da Súmula nº 7 do STJ.
+Contudo, o Tribunal de origem atestou expressamente que cada demanda questionava um desconto no benefício previdenciário, ao afirmar que não seria lícito à parte "propor uma demanda para questionar cada desconto em seu benefício previdenciário" (e-STJ, fl. 285).
+Tal reconhecimento evidencia que os pedidos não são idênticos, afastando o instituto da litispendência, que pressupõe identidade de partes, causa de pedir e pedido. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. TÍTULO JUDICIAL. SENTENÇA PROFERIDA EM AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. LITISPENDÊNCIA. NÃO OCORRÊNCIA. PRESCRIÇÃO. AFASTAMENTO. COISA JULGADA. AFERIÇÃO. SÚMULA Nº 7/STJ. LITIGÂNCIA DE MÁ-FÉ. CONDENAÇÃO MANTIDA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos do § 1º do art. 301 do Código de Processo Civil de 1973, verifica-se a litispendência quando se reproduz ação anteriormente ajuizada, sendo certo que uma ação é idêntica à outra, segundo o disposto no § 2º do mesmo preceito legal, quando têm as mesmas partes, a mesma causa de pedir e o mesmo pedido. Hipótese não ocorrente na espécie.
+3. Não se verifica a prescrição de que tratava o art. 100, I, da Lei nº 4.215/1963 (antigo Estatuto da Ordem dos Advogados do Brasil) se no interregno verificado entre o encerramento dos serviços prestados e o ajuizamento da ação de arbitramento de honorários não transcorreu prazo superior a 5 (cinco) anos.
+4. O acolhimento da pretensão recursal no tocante à alegação de ofensa à coisa julgada e de ausência de título judicial capaz de garantir o prosseguimento da execução demandaria o reexame de matéria fática e das demais provas constantes dos autos, atraindo o óbice da Súmula nº 7/STJ.
+5. Hipótese em que a aplicação da pena de litigância de má-fé vem calcada não apenas na nítida intenção da agravante de se esquivar da obrigação que lhe foi imposta, suscitando teses jurídicas sem nenhum respaldo legal, mas também no seu comportamento malicioso.
+Manutenção da pena processual.
+6. Agravo interno não provido.
+(AgInt no REsp 1.418.133/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 27/2/2018, DJe 8/3/2018 - sem destaque no original)
+Assim, como as demandas têm em comum as partes e a causa de pedir - o mesmo contrato -, mas ostentam pedidos diversos, cada uma pleiteando a restituição de um desconto indevido, ocorrido em meses diversos, afasta-se a litispendência, configurando-se a conexão entre os processos.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, DAR-LHE PROVIMENTO, para afastar a litispendência e reconhecer a conexão entre esta ação declaratória e a Ação nº 5209553.17, determinando o prosseguimento da presente demanda e a reunião dos dois processos.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
