@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ADAILTON DE MIRANDA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 0011499-53.2015.8.26.0099).
+Narram os autos que o ora paciente foi condenado, em primeiro grau de jurisdição, como incurso no art. 28 da Lei n. 11.343/2006, tendo sido a ele aplicada uma advertência, pois trazia consigo e mantinha em depósito 4g (quatro gramas) de cocaína, dividida em 5 pinos, sem autorização e em desacordo com determinação legal ou regulamentar.
+Irresignada, apelou a acusação. Foi dado provimento ao recurso, condenando o paciente, como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 1 ano, 11 meses e 10 dias de reclusão no regime inicial fechado.
+Esta é a ementa do julgado (e-STJ fl. 35):
+TRÁFICO DE ENTORPECENTES - Materialidade e autoria demonstradas - Policiais que não tinham nenhuma razão para incriminar falsamente o réu - Condenação necessária.
+Recurso ministerial provido.
+No presente writ, o impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, pois aplicou o regime inicial fechado com base na gravidade abstrata do delito de tráfico.
+Afirma que é cabível o regime aberto.
+Ao final, liminarmente e no mérito, pede a concessão da ordem para que seja estabelecido o regime aberto, com a substituição da pena corporal por restritiva de direitos.
+A liminar foi deferida (e-STJ fls. 49/52).
+Os autos foram encaminhados ao Ministério Público Federal, que se manifestou pela concessão da ordem (e-STJ fls. 56/60).
+É, em síntese, o relatório.
+O Pleno do Supremo Tribunal Federal, no julgamento do HC n. 111.840/ES, por maioria de votos, declarou, incidentalmente, a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a nova redação dada pela Lei n. 11.464/2007, por ofender a garantia constitucional de individualização da pena (art. 5º, XLVI, da Constituição Federal). Afastou, dessa forma, a obrigatoriedade de imposição do regime inicial fechado para os condenados pela prática de crimes hediondos e dos demais delitos a eles equiparados.
+Em tal contexto, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+O Tribunal local assim se pronunciou a respeito do regime inicial para o seu cumprimento (e-STJ fls. 41/42):
+Quanto ao regime de cumprimento de pena, o fechado se mostra o adequado, de acordo com a determinação constante no artigo 2º, § 1º, da Lei 8.072/90, que regula os crimes hediondos, hipótese equiparada ao caso concreto.
+Embora a quantidade de pena aplicada permita a aplicação do regime intermediário para início de cumprimento de pena, tal regime não se mostra adequado ao caso concreto, observados os critérios norteadores do art. 59, do Código Penal.
+Com efeito, se não tem ele direito à liberdade provisória, fiança etc., não faria sentido que, condenado, pudesse receber pena alternativa, ou cumprir a reprimenda em outro regime.
+A respeito, tem-se que "O regime prisional inicial fechado é obrigatório aos condenados pelo crime de tráfico de drogas cometido após a publicação da Lei nº. 11.464/2007, que deu nova redação ao § 1º do art. 2º da Lei 8.072/90" (STJ, HC 207414, Relatora Ministra LAURITA VAZ, julgado 04-10-2011).
+Embora o Supremo Tribunal Federal (HC 111.840/ES) tenha declarado a inconstitucionalidade do § 1º do art. 2º da Lei 8.072/90, a. r. decisão não foi unânime e foi feita de forma incidental, não possuindo eficácia erga omnes e nem efeito vinculante.
+Ressalto que, na hipótese dos autos, a nocividade da droga (cocaína), imprime maior gravidade à empreitada criminosa. É sabido que a cocaína é substância entorpecente altamente nociva, que causa ao usuário rápida dependência química e efeito devastador à própria saúde e à sociedade. Tais circunstâncias evidenciam, realmente, uma culpabilidade exacerbada na conduta do acusado.
+Dessa forma, fixa-se o regime prisional fechado para desconto da reprimenda.
+Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do CP).
+Na espécie, vislumbro flagrante ilegalidade decorrente da imposição do regime inicial fechado fixado pelo Tribunal de origem, pois, embora presente circunstância judicial desfavorável (em razão da natureza da droga e da condenação pelo art. 28 da Lei n. 11.343/2006 - e-STJ fl. 41), as peculiaridades do caso, notadamente a ínfima quantidade de droga apreendida - 4g (quatro gramas) de cocaína - e a quantidade de pena - 1 ano, 11 meses e 10 dias de reclusão - justificam a aplicação do regime aberto.
+Por derradeiro, afastada a hediondez e a gravidade abstrata do crime como critério para obstar a substituição das penas e preenchidos os pressupostos previstos no art. 44 do Código Penal, resulta cabível a conversão das sanções privativas de liberdade em medidas restritivas de direitos, a serem definidas pelo respectivo Juízo das Execuções Criminais.
+Ante o exposto, concedo a ordem de habeas corpus para assegurar ao paciente o regime aberto para o cumprimento da pena, bem como para substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das Execuções Criminais.
+Publique-se. Intimem-se.
