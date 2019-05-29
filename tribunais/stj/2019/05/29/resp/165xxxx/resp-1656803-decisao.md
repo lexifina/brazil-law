@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fl. 5.009):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. MANDADO DE SEGURANÇA. EXCLUSÃO DE PARCELAMENTO. PEDIDO DE REINCLUSÃO. CAUSAS DE PEDIR DISTINTAS. SUBSISTÊNCIA DO INTERESSE DE AGIR. INCORPORAÇÃO DE EMPRESAS. DIRECIONAMENTO DA EXECUÇÃO FISCAL CONTRA A EMPRESA INCORPORADORA. ART. 132, CAPUT, DO CTN. CONTAS REFIS SEPARADAS. IMPOSSIBILIDADE. PROVIMENTO DA DEMANDA. PERDA DO OBJETO DO APELO DA FAZENDA NACIONAL NO QUE TANGE À INVERSÃO DO ÔNUS SUCUMBENCIAL.
+1. As ações ajuizadas pela autora (originária e mandado de segurança) possuem causas de pedir distintas, de modo que o interesse de agir, quanto a esta demanda, permanece hígido.
+2. Dada a incorporação das empresas e nos termos do artigo 132, caput, do Código Tributário Nacional, a empresa incorporadora passou a ser a responsável por todos os tributos devidos pelas empresas incorporadas, incluindo, evidentemente, os débitos parcelados no REFIS.
+3. Por conseguinte, quando a autora foi incluída no REFIS, por força de decisão proferida na Ação Ordinária nº 2008.70.00.000641-6, os débitos das duas empresas incorporadas, já sob a responsabilidade da empresa incorporadora Sociedade Educacional Expoente Ltda., também deviam ter sido reincluídos nesse regime especial de parcelamento, de modo que o inadimplemento deles não pode, agora, servir de motivo para que a autora seja novamente excluída do REFIS.
+4. Apelo da Fazenda Nacional, no tocante ao pedido de inversão dos honorários de sucumbência, não conhecido, tendo em vista a procedência da demanda.
+Os embargos de declaração opostos na sequência foram rejeitados.
+A recorrente aponta ofensa ao art. 1.022, II, do CPC/15, por omissão do aresto impugnado, bem como violação dos arts. 9º da Lei n. 9.964/00 e 141 e 492 do CPC/15, ao argumento de ocorrência de decisão extra petita quanto às empresas incorporadas.
+Contrarrazões apresentadas; apelo nobre admitido na origem.
+Brevemente relatado, decido.
+Inicialmente, não ocorre negativa de prestação jurisdicional, quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame, assim como não há que se confundir entre decisão contrária aos interesses da parte e inexistência de prestação jurisdicional.
+No caso, de omissão não há falar, visto que o acórdão recorrido bem solucionou a questão, no particular (e-STJ, fl. 5.006):
+2.1. Segundo revela a 25ª alteração de contrato social anexada no Evento 1, CONTRSOCIAL4, páginas 22 a 26, a Sociedade Educacional Espaço S/C Ltda. e a Gráfica e Editora Expoente Ltda. foram incorporadas em dezembro de 2000 pela Sociedade Educacional Expoente Ltda., ora autora, valendo salientar que, quando ocorreu esse ato de reorganização societária, as duas empresas incorporadas encontravam-se incluídas no REFIS.
+Nessas circunstâncias, e nos termos do artigo 132, caput, do Código Tributário Nacional, a empresa incorporadora passou a ser a responsável por todos os tributos devidos pelas empresas incorporadas, incluindo, evidentemente, os débitos parcelados no REFIS.
+Por conseguinte, quando a autora foi incluída no REFIS por força de decisão proferida na ação ordinária nº 2008.70.00.000641-6, os débitos das duas empresas incorporadas, já sob a responsabilidade da empresa incorporadora Sociedade Educacional Expoente Ltda., também deviam ter sido reincluídos nesse regime especial de parcelamento, de modo que o inadimplemento deles não pode, agora, servir de motivo para que a autora seja novamente excluída do REFIS.
+No mais, determinada a inclusão da incorporadora - aí incluindo débitos das incorporadas, com base nas razões de fato e de direito constantes dos autos -, a pretensão recursal que se limita a consignar que o aresto extrapolou os limites da petição inicial incide nos óbices das Súmulas 283 e 284 do STF e 7 do STJ.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
