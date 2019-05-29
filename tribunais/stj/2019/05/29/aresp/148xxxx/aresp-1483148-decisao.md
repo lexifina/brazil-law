@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por REGIMAURO MOREIRA PINTO contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Sustenta a defesa, nas razões do recurso especial, violação dos artigos 42 da Lei 11.343/06, e 59, caput, do Código Penal.
+Insurge-se com a majoração da pena-base quanto às circunstâncias, com fundamento na nocividade da droga apreendida - crack -, à alegação de que o aumento da reprimenda em 1 ano e 3 meses em razão de apenas uma circunstância judicial seria desproporcional.
+Apresentadas as contrarrazões (e-STJ, fls. 219-228), o recurso foi inadmitido com fundamento nas Súmulas 7 e 83, ambas do STJ (e-STJ, fls. 231-235). Daí este agravo (e-STJ, fls. 243-260).
+O Ministério Público Federal opinou pelo conhecimento do agravo para que seja inadmitido o recurso especial (e-STJ, fls. 292-297).
+É o relatório.
+Decido.
+O Tribunal a quo majorou a pena-base, com a seguinte fundamentação:
+"Nesse ponto, sustenta o apelante que a pena -base restou erroneamente fixada, tendo em vista que a negativação da circunstância judicial prevista no art. 42 da Lei 11.343/2006 acarretou aumento de pena, a qual deu-se de forma desproporcional e sem a devida fundamentação exigida por lei. Observa-se, ainda, que o mesmo argumento fora utilizado para a fixação do regime de cumprimento de pena, o que acarreta o possível bis in idem. (fls. 133).
+Infere-se que ao fixar a pena na primeira fase da dosimetria o magistrado sentenciante o fez sob os seguintes fundamentos (fls. 184-185):
+1º Fase: nada a considerar sobre as circunstâncias judiciais estabelecidas no art. 59 do CP. Todavia, há de se considerar a natureza da droga apreendida, com fulcro no art. 42 de Lei 11.343/06, pois consta no Laudo de Exame Toxicológico (fls. 81/85) que foi apreendida 35,7Ig (trinta e cinco vírgula setenta e uma gramas) de substância entorpecente do tipo "cocaína". Cumpre salientar que, no estado em que se encontrava (estado pétreo), a substância entorpecente é conhecida vulgarmente como "crack", extremamente nociva à saúde humana, possuindo alto poder vulnerante. Por essa razão, essa circunstância será levada em consideração nesta fase fixo a pena base em 06 (seis) anos e 03 (três) meses de reclusão, e 550 (quinhentos e cinquenta) dias -multa.
+Analisando o trecho acima transcrito, infere-se que o magistrado a quo considerou como negativa ao apelante as circunstâncias judiciais do artigo 42, da Lei 11.343/2006, qual seja, a natureza da droga, aumentando a pena-base 1 (um) ano e 03 (três) meses de reclusão, além de 50 dias-multa acima do mínimo legal.
+Mais uma vez, não há falar em alteração do decisorium.
+Preambularmente, anoto que, ao contrário do alegado pelo apelante, como se observa do excerto da sentença, não há que se falar em ausência de fundamentação para a negativação da circunstância judicial e para o aumento perpetrado.
+Ora! não existem dúvidas quanto a natureza deletéria da cocaína, altamente viciante e que afeta muito mais a saúde daqueles que a consomem quando comparada com a maconha ou outras drogas de menor potencial ofensivo, motivo pelo qual deve ser considerada como circunstância judicial negativa apta a influenciar a dosimetria da pena.
+Ademais, sabe-se que a análise das circunstâncias do art. 59 do Código Penal insere-se no âmbito da discricionariedade do magistrado, incluindo-se aqui aquelas previstas no artigo 42 da Lei de Drogas ante a sua especialidade, não estando o mesmo adstrito ou preso a padrões que assemelham-se a verdadeiras operações aritméticas, visto que a dosimetria da pena não se trata de operação rígida, mas sim, variável de acordo com cada caso e com o prudente juízo do magistrado.
+Não bastasse tal fato, o quantum de aumento se mostrou proporcional, diante da existência de uma circunstância judicial negativa. No caso, o sentenciante aplicou o patamar de 1/8 sobre a margem de discricionariedade para o tipo penal (10 anos), logo, utilizou-se de índice aceito jurisprudencial e doutrinariamente" (e-STJ, fls. 188-189).
+A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+In casu, o Tribunal de origem fundamentou expressamente a majoração da pena-base, considerando, em especial, a nocividade da droga apreendida - 35,71 gramas de crack -, nos termos do art. 42 da Lei n. 11.343/2006. Daí, não se mostra desproporcional ou desarrazoada, porquanto fundamentada a fração em elementos concretos e dentro do critério da discricionariedade vinculada do julgador.
+Assim, o acórdão recorrido está em consonância com a jurisprudência deste Tribunal. A esse respeito, os seguintes precedentes:
+" ..
+1. Em se tratando de crime de tráfico de drogas, é pacífico no âmbito deste Sodalício o entendimento no sentido de que, na fixação da reprimenda básica, o julgador deve valorar, com preponderância sobre as demais circunstâncias judiciais, a natureza e a quantidade do entorpecente apreendido, conforme o disposto no art. 42 da Lei n.º 11.343/2006. In casu, o acusado foi flagrado com considerável quantidade de cocaína, circunstância apta para exasperar a pena-base.
+ ..
+5.Agravo regimental a que se nega provimento."
+(AgRg no AREsp 961.500/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017).
+" ..
+1. A quantidade e a natureza da droga apreendida constituem fundamentos aptos a ensejar a exasperação da pena-base, por demonstrar maior reprovabilidade da conduta.
+ ..
+5. Agravo regimental improvido."
+(AgRg no AREsp 674.735/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/12/2016, DJe 19/12/2016).
+Ademais, considerando os limites máximo e mínimo previstos no preceito secundário do tipo do artigo 33, caput, da Lei 11.343/06 (mínimo de 5 anos e máximo de 15 anos), o aumento da pena-base em 1 (um) ano e 3 (três) meses em razão de 1 (uma) circunstância judicial devidamente fundamentada não se revela desproporcional ou excessivo, porquanto foi calculado conforme o critério de 1/8.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
