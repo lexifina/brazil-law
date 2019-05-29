@@ -1,0 +1,11 @@
+DECISÃO
+O recorrente acoima de ilegal acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 0391219-23.2019.8.13.0000, em que foi mantida sua prisão preventiva.
+O juízo singular condenou o recorrente "pela suposta prática do Crime de Tráfico de Drogas, na forma Majorada, previsto no art. 33 c/c art. 40, incisos V e VI, da Lei nº 11.343/06" (fl. 114), oportunidade em que foi mantida sua segregação cautelar. Irresignado, assere que "tanto a decisão de 1a instância, quanto a colegiada, são carentes de fundamentação, violando preceitos constitucional e infraconstitucional" (fl. 130).
+Decido.
+No caso vertente, o Juízo singular, ao prolatar a sentença condenatória, manteve a segregação cautelar do recorrente e dos corréus. Com efeito, ao homologar o flagrante e convertê-lo em prisão preventiva, havia sublinhado que, durante a abordagem policial, foram "encontrados no banco trazeiro, duas malas, uma mochila e um saco plástico contendo 80 tabletes de substância análoga a maconha, totalizando peso aproximado de 60 kg" (fl. 31, grifei).
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça, ao asseverar que "3. É válido o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto do fato delituoso, cifrada na quantidade de entorpecente que era transportada pelo Paciente e outro Corréu - quase 10 kg (dez quilos) de maconha" (HC n. 484.905/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 10/4/2019).
+No mesmo sentido:
+ ..
+III - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do paciente acarretaria risco à ordem pública, notadamente se considerada a quantidade e variedade de entorpecentes apreendidos em seu poder (31,218 quilos de maconha), circunstância indicativa de um maior desvalor da conduta em tese perpetrada, bem como da periculosidade concreta do agente, a revelar a indispensabilidade da imposição da medida extrema. Precedentes  ..  (HC n. 491.363/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 1º/3/2019, grifei).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o recurso.
+Publique-se e intimem-se.
