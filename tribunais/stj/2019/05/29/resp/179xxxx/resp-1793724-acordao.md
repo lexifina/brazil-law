@@ -1,0 +1,49 @@
+EMENTA
+ADMINISTRATIVO. SERVIDOR PÚBLICO. AUXÍLIO-TRANSPORTE. DESLOCAMENTO COM VEÍCULO PRÓPRIO DO SERVIDOR. POSSIBILIDADE. NECESSIDADE DE COMPROVAÇÃO. AUSÊNCIA DE RESPALDO LEGAL.
+1. O acórdão recorrido não merece reparo, uma vez que está em sintonia com a jurisprudência do STJ, segundo a qual o auxílio-transporte tem por fim o custeio de despesas realizadas pelos servidores públicos com transporte, mediante veículo próprio ou coletivo municipal, intermunicipal ou interestadual, relativas aos deslocamentos entre a residência e o local de trabalho e vice-versa.
+2. Não encontra respaldo na legislação vigente a necessidade de comprovação prévia das despesas relacionadas ao transporte do servidor, razão pela qual a Administração não pode proceder a tal exigência.
+3. Recurso Especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. AUXÍLIO TRANSPORTE.
+Nos termos da Súmula 120 deste TRF/4a Região, "o auxilio - transporte é devido a todos os servidores que façam uso de algum meio de transporte, seja público ou privado, para se deslocarem entre sua residência e o local de trabalho, conforme orientação já sedimentada pelo Superior Tribunal de Justiça, a partir de interpretação do art. 1º da MP n.º 2.165-36/2001." Mandado de segurança concedido.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa ao art. 1º da Medida Provisória 2.165-36/2001.
+Aduz, em suma, estarem presentes todos os requisitos de admissibilidade do recurso.
+Transcorreu, in albis, o prazo para apresentação de contrarrazões (fl. 183).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 1º.1.2019.
+O acórdão recorrido não merece reparo, uma vez que está em sintonia com a jurisprudência do STJ, segundo a qual o auxílio-transporte tem por fim o custeio de despesas realizadas pelos servidores públicos com transporte, mediante veículo próprio ou coletivo municipal, intermunicipal ou interestadual, relativas aos deslocamentos entre a residência e o local de trabalho e vice-versa.
+Não encontra respaldo na legislação vigente a necessidade de comprovação prévia das despesas relacionadas ao transporte do servidor, razão pela qual a Administração não pode proceder a tal exigência.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO FEDERAL. CONCESSÃO DE AUXÍLIO TRANSPORTE. UTILIZAÇÃO DE VEÍCULO PRÓPRIO. ART. 1º DA MP N. 2.165-36/2001. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DOMINANTE NESTE E.STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A orientação do Superior Tribunal de Justiça é no sentido de que o auxílio-transporte tem por fim o custeio de despesas realizadas pelos servidores públicos com transporte, através de veículo próprio ou coletivo municipal, intermunicipal ou interestadual, relativas aos deslocamentos entre a residência e o local de trabalho e vice-versa.
+2. Agravo interno não provido.
+(AgInt no AREsp 1124998/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 14/11/2017).
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO CIVIL. OFENSA AO ART. 535 DO CPC/1973. RAZÕES GENÉRICAS. SÚMULA 284/STF. MP 2.165-35/2001. AUXÍLIO-TRANSPORTE. DESLOCAMENTO COM VEÍCULO PRÓPRIO DO SERVIDOR. POSSIBILIDADE. PRECEDENTES DO STJ. ALEGAÇÃO DE ILEGITIMIDADE DO SINDICATO RECORRIDO. FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PEDIDO DE REDUÇÃO DA VERBA HONORÁRIA. SÚMULA 7/STJ.
+1. Não se conhece da suposta afronta ao artigo 535 do CPC/1973 (art. 1.022 do CPC/2015), pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em Embargos de Declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide na hipótese a Súmula 284/STF.
+2. O Tribunal de origem decidiu em consonância com a jurisprudência do STJ, o qual já manifestou entendimento de que o auxílio-transporte objetiva custear despesas realizadas pelos Servidores Públicos com transporte em veículo próprio ou coletivo municipal, intermunicipal ou interestadual, relativas aos deslocamentos de suas residências aos locais de trabalho.
+3. Quanto à alegação de ilegitimidade do sindicato recorrido, verifica-se que o acórdão recorrido, ao analisar a questão aventada, assim o fez utilizando-se principalmente de fundamentação constitucional, no caso aplicação do art. 8º, III, da CRFB. 4. No entanto, não houve interposição de Recurso Extraordinário no Supremo Tribunal Federal, o que inviabiliza a pretensão de análise do ponto, pelo STJ, em razão do óbice da Súmula 126/STJ: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+5. A indicada afronta ao art. 2º-A da Lei 9.494/1997 não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal e, quanto a este ponto, os Embargos de Declaração da parte recorrente foram silentes. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF.
+6. Não há falar em exorbitância no valor fixado a título de honorários advocatícios (10% sobre o valor da condenação). A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, obstado ao STJ, conforme sua Súmula 7.
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1665500/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 16/06/2017).
+ADMINISTRATIVO. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 NÃO CONFIGURADA. AUXÍLIO-TRANSPORTE. DESLOCAMENTO COM VEÍCULO PRÓPRIO DO SERVIDOR. POSSIBILIDADE. NECESSIDADE DE COMPROVAÇÃO. AUSÊNCIA DE RESPALDO LEGAL.
+1. Não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, tal como lhe foi apresentada.
+2. Não se trata de omissão, contradição ou obscuridade, tampouco correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses do agravante.
+3. O acórdão recorrido não merece reparo, uma vez que está em sintonia com a jurisprudência do STJ, segundo a qual o auxílio-transporte tem por fim o custeio de despesas realizadas pelos servidores públicos com transporte, mediante veículo próprio ou coletivo municipal, intermunicipal ou interestadual, relativas aos deslocamentos entre a residência e o local de trabalho e vice-versa.
+4. Não encontra respaldo na legislação vigente a necessidade de comprovação prévia das despesas relacionadas ao transporte do servidor, razão pela qual a Administração não pode proceder a tal exigência.
+5. Recurso Especial não provido.
+(REsp 1617987/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/12/2016, DJe 19/12/2016).
+PROCESSO CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AUXÍLIO-TRANSPORTE. VEÍCULO PRÓPRIO. POSSIBILIDADE. EXIGÊNCIA DE COMPROVAÇÃO PRÉVIA DA DESPESA. ORIENTAÇÃO NORMATIVA. INOVAÇÃO. DESNECESSIDADE.
+1. A jurisprudência do STJ consolidou-se no sentido de que o auxílio-transporte tem a finalidade de custear as despesas realizadas pelos servidores públicos com transporte para deslocamentos entre a residência e o local de trabalho, e vice-versa, sendo devido a quem utiliza veículo próprio ou coletivo.
+2. O art. 6º da Medida Provisória n. 2.165-36/2001 apenas exige que o servidor ateste a realização das despesas de deslocamento, presumindo a veracidade da declaração por ele firmada, sob pena de responsabilidade civil, criminal e administrativa.
+3. A Orientação Normativa DGP/IFRS, ao limitar a fruição do auxílio-transporte à comprovação prévia das despesas efetivamente realizadas com locomoção do servidor, extrapolou o poder de regulamentar a MP 2.165-36, estipulando exigência não prevista em lei. Precedente em caso análogo: AgInt no REsp 1.323.295/DF, Rel.
+Ministro Sérgio Kukina, Primeira Turma, julgado em 26/4/2016, DJe 11/5/2016.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1455539/RS, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 09/08/2016, DJe 18/08/2016)
+Diante do exposto, nego provimento ao Recurso Especial.
+Condeno a parte recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem, observando-se a concessão do benefício da Justiça Gratuita deferida nos autos.
+É como voto.
