@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. USO FORA DA BULA (OFF-LABEL) DE MEDICAMENTO. COBERTURA DE TRATAMENTO PRESCRITO PELO MÉDICO. INGERÊNCIA DA OPERADORA NA ATIVIDADE MÉDICA. IMPOSSIBILIDADE. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por [NOME] - Cooperativa Médica Ltda. contra decisão que não admitiu o processamento do recurso especial.
+Depreende-se dos autos que os pedidos formulados em ação de obrigação de fazer c/c indenização por danos morais ajuizada por [NOME] foram julgados parcialmente procedentes, tornando definitiva a liminar concedida, para obrigar a ora recorrente a fornecer à autora o medicamento Gemox (Gencitabina  Oxaliplatina), prescrito pelo seu médico-assistente, enquanto houvesse necessidade.
+Em seguida, o plano de saúde interpôs apelação, à qual a Quinta Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento em acórdão assim ementado (e-STJ, fl.156):
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. FORNECIMENTO DE MEDICAMENTO. TRATAMENTO QUIMIOTERÁPICO CONSIDERADO EXPERIMENTAL. COBERTURA DEVIDA.
+1. O contrato em análise foi avençado entre as partes com o objetivo de garantir o pagamento das despesas médicas e hospitalares para a hipótese de ocorrer a condição suspensiva prevista naquele pacto, consubstanciada no evento danoso à saúde.
+Outro elemento essencial desta espécie contratual é a boa -fé, na forma do art. 422 do Código Civil, caracterizada pela lealdade e clareza das informações prestadas pelas partes.
+2. Os planos ou seguros de saúde estão submetidos às disposições do Código de Defesa do Consumidor, enquanto relação de consumo atinente ao mercado de prestação de serviços médicos. Isto é o que se extrai da interpretação literal do art. 35 da Lei 9.656/98. Súmula n. 469 do STJ.
+3. Aplicáveis ao caso em exame as exigências mínimas previstas no plano - referência de que tratam os artigos 10 e 12 da legislação dos planos de saúde, que determina a obrigatoriedade de cobertura de tratamento qu i mioterá pico.
+4. Não cabe à demandada determinar o tipo de tratamento que será realizado pela parte autora, uma vez que esta decisão da alçada do médico que a acompanha.
+5. Descabida e injustificada a negativa securitária sob a alegação de que se trata de tratamento experimental, pois o que importa para a solução do litígio é a existência de cobertura securitária para a patologia apresentada, e não o fármaco necessário ou a forma como o tratamento deverá ser ministrado, ainda mais em se tratando de doença grave como o câncer.
+Negado provimento ao apelo.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 175-184).
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a recorrente alegou violação aos arts. 1º, § 1º, e 10, I e § 1º, da Lei n. 9.656/1998.
+Sustentou, em síntese, a ausência de cobertura contratual para o tratamento médico pleiteado pela autora, uma vez que não há obrigação de o plano de saúde fornecer medicamentos de uso off-label, ou seja, fora das indicações da bula registrada na Anvisa.
+Sem contrarrazões (e-STJ, fl. 199).
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou a insurgente à interposição do presente agravo.
+Sem contraminuta (e-STJ, fl. 221).
+Brevemente relatado, decido.
+Com efeito, no que diz respeito ao fato de o medicamento indicado ser de uso off-label, deve-se considerar que o médico do segurado é quem decidirá se a situação concreta de enfermidade do paciente está adequada ao tratamento conforme as indicações da bula/manual da Anvisa daquele específico remédio, tornando inviável que a operadora do plano se negue a cobrir o tratamento sob a justificativa de que a doença do paciente não está contida nas indicações da bula, haja vista que representaria inegável ingerência na ciência médica, em prejuízo do paciente enfermo.
+Nesse sentido:
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANOS DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AFASTADA. NEGATIVA DE FORNECIMENTO DE MEDICAÇÃO SOB O FUNDAMENTO DE SE TRATAR DE TRATAMENTO EXPERIMENTAL. ILEGALIDADE DA RESOLUÇÃO NORMATIVA DA ANS. USO FORA DA BULA (OFF LABEL). INGERÊNCIA DA OPERADORA NA ATIVIDADE MÉDICA. IMPOSSIBILIDADE. ROL DE PROCEDIMENTOS ANS. EXEMPLIFICATIVO. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS.
+1. Ação ajuizada em 06/08/14. Recurso especial interposto em 09/05/18 e concluso ao gabinete em 1º/10/18.
+2. Ação de obrigação de fazer, ajuizada devido à negativa de fornecimento da medicação Rituximabe - MabThera para tratar idosa com anemia hemolítica autoimune, na qual se requer seja compelida a operadora de plano de saúde a fornecer o tratamento conforme prescrição médica.
+3. O propósito recursal consiste em definir se a operadora de plano de saúde está autorizada a negar tratamento prescrito por médico, sob o fundamento de que sua utilização em favor do paciente está fora das indicações descritas na bula/manual registrado na ANVISA (uso off-label), ou porque não previsto no rol de procedimentos da ANS.
+4. Ausentes os vícios do art. 1.022, do CPC/15, rejeitam-se os embargos de declaração.
+5. A Lei 9.656/98 (Lei dos Planos de Saúde) estabelece que as operadoras de plano de saúde estão autorizadas a negar tratamento clínico ou cirúrgico experimental (art. 10, I).
+6. A Agência Nacional de Saúde Suplementar (ANS) editou a Resolução Normativa 338/2013, vigente ao tempo da demanda, disciplinando que consiste em tratamento experimental aquele que não possui as indicações descritas na bula/manual registrado na ANVISA (uso off-label).
+7. Quem decide se a situação concreta de enfermidade do paciente está adequada ao tratamento conforme as indicações da bula/manual da ANVISA daquele específico remédio é o profissional médico. Autorizar que a operadora negue a cobertura de tratamento sob a justificativa de que a doença do paciente não está contida nas indicações da bula representa inegável ingerência na ciência médica, em odioso e inaceitável prejuízo do paciente enfermo.
+8. O caráter experimental a que faz referência o art. 10, I, da Lei 9.656 diz respeito ao tratamento clínico ou cirúrgico incompatível com as normas de controle sanitário ou, ainda, aquele não reconhecido como eficaz pela comunidade científica.
+9. A ingerência da operadora, além de não ter fundamento na Lei 9.656/98, consiste em ação iníqua e abusiva na relação contratual, e coloca concretamente o consumidor em desvantagem exagerada (art. 51, IV, do CDC).
+10. O fato de o procedimento não constar do rol da ANS não afasta o dever de cobertura do plano de saúde, haja vista se tratar de rol meramente exemplificativo. Precedentes.
+11. A recorrida, aos 78 anos de idade, foi diagnosticada com anemia hemolítica autoimune, em 1 mês teve queda de hemoglobina de 2 pontos, apresentou importante intolerância à corticoterapia e sensibilidade gastrointestinal a tornar recomendável superar os tratamentos infrutíferos por meio da utilização do medicamento Rituximabe - MabThera, conforme devidamente registrado por médico assistente. Configurada a abusividade da negativa de cobertura do tratamento.
+12. Recurso especial conhecido e não provido, com majoração dos honorários advocatícios recursais. (REsp 1769557/CE, Rel. Min. Nancy Andrighi, Terceira Turma, julgado em 13/11/2018, DJe 21/11/2018 - sem grifo no original)
+Assim, conforme salientado pelo Ministro Luis Felipe Salomão, no voto condutor do AgInt no REsp 1.712.056/SP, DJe 18/12/2018, "desde que a indicação médica seja respaldada em evidências científicas (clínicas), e tenha sua comercialização autorizada pela Anvisa, mesmo que tal prescrição seja diversa daquela expressamente consignada na bula do medicamento, esta cobertura deverá ser autorizada, ficando o risco pelo seu uso sob a responsabilidade do profissional que o prescreveu".
+Desse modo, escorreito o entendimento das instâncias ordinárias ao confirmarem a tutela antecipada e condenarem a parte ora recorrente ao fornecimento da medicação prescrita pelo médico, porquanto em conformidade com a jurisprudência desta Corte.
+Incide, portanto, o enunciado da Súmula 83 do STJ.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
