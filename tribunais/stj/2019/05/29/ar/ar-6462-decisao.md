@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de ação rescisória, com pedido de tutela provisória de urgência, ajuizada por [NOME], com fundamento no art. 966, V, do Código de Processo Civil/2015, objetivando rescindir decisão monocrática proferida pelo e. Vice-Presidente do TJ/CE nos autos do processo n.º 0891318-98.2014.8.06.0001/50001.
+Aduz, em resumo, que pretende rescindir "(..) decisão monocrática da Relatora Rosilene Ferreira Tabosa Facundo, ao liberar a constrição das matrículas do imóvel - objeto da presente Ação, nos autos da Tutela - (..) o qual tramitou na 3ª Câmara de Direito Privado do Tribunal de Justiça do Estado do Ceará." Aduz, outrossim, que "(..) para se concluir que essa última decisão é estranha, totalmente alheia e indiferente a temas versadas nos Embargos Declaratórios (considerando pela Corte do TJ/CE intempestivo) e o recurso especial, respaldado na Súmula 211, do STJ, superada, pelo art. 1.025, do CPC, encampando verdadeira negativa de prestação jurisdicional."
+É o relatório.
+Decide-se.
+A presente recisória não merece conhecimento.
+1. Em que pesem os argumentos expendidos pelo autor, não se encontra entre as competências constitucionais atribuídas ao Superior Tribunal de Justiça, aquela destinada à rescisão de julgados proferidos pelos Juizados Especiais (conforme art. 105, I, e, da Constituição Federal).
+Com efeito, consoante o disposto no art. 105, I, "e", da Carta da República - que prevê a competência do STJ para julgamento de ação rescisória de seus próprios julgados -, é manifesta a incompetência absoluta do STJ para o processamento e julgamento da ação rescisória quando a pretensão veiculada é a de rescindir julgado de órgão de outro Tribunal, como na espécie, se pretende rescindir decisão monocrática proferida no âmbito do TJ/CE. Nesse sentido, confira-se: AgRg na AR 5.633/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 14/10/2015, DJe 22/10/2015; AgRg na AR 5.619/PI, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 09/09/2015, DJe 15/09/2015.
+2. Ante o exposto, indefiro liminarmente a petição inicial, nos termos do art. 485, I, c/c o art. 330, I, do CPC.
+Publique-se. Intimem-se.
