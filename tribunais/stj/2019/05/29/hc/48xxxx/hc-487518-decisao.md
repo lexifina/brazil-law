@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] no qual se aponta com autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado à pena de 1 ano e 10 meses de reclusão, em regime inicialmente semiaberto, e ao pagamento de 4 dias-multa, pela prática do delito tipificado no art. 157, § 2º, I e II, do Código Penal (e-STJ fls. 17/36), tendo em vista que (e-STJ fl. 13):
+ ..  na data de 27 de fevereiro de 2018, às 17h40min, na Rua Melo Freire, n o 3100, esquina com o viaduto Carlos Ferraci, Tatuapé, nesta cidade e comarca de São Paulo, [NOME] FRANCISCO GUIMARAES, qualificado a fls. 19, e MANOEL ROBERTO DA SILVA, qualificado a fls. 26, agindo em unidade de desígnios e identidade de propósitos, tentaram subtrair, para ambos, mediante grave ameaça exercida com emprego de arma de fogo, dinheiro e coisas alheias móveis pertencentes à vítima E.T.T.
+A defesa interpôs apelação postulando o abrandamento do regime prisional, no entanto, os desembargadores da 14ª Câmara de Direito Criminal do Tribunal de Justiça negaram provimento ao recurso defensivo (e-STJ fls. 38/44).
+No Superior Tribunal de Justiça, a Defensoria Pública aponta constrangimento ilegal decorrente da imposição do regime mais severo para início de cumprimento da sanção.
+Sustenta que o paciente é primário e portador de bons antecedentes, tanto que a pena-base foi fixada em seu mínimo legal, além de a sanção final ser inferior à 4 anos de reclusão; mesmo assim, as instâncias originárias estabeleceram o regime inicialmente fechado para cumprimento da reprimenda, em desacordo com o disposto no art. 33, § 2º, c, do Código Penal.
+Ressalta, também, que a gravidade abstrata do delito não constitui fundamento para a imposição do regime inicialmente mais gravoso, o que vai de encontro ao disposto nas Súmulas n. 718 e 719 do STF e 440 do STJ.
+Dessa forma, requer, liminarmente e no mérito, o abrandamento do regime prisional (e-STJ fls. 3/11).
+O pedido liminar foi indeferido (e-STJ fls. 48/49).
+Prestadas as informações (e-STJ fls. 53/65), os autos foram encaminhados ao Ministério Público Federal, que se manifestou pelo não conhecimento do writ (e-STJ fls. 71/74).
+É, em síntese, o relatório.
+Objetiva a defesa, na presente impetração, a alteração do regime prisional para o aberto sob o argumento de estarem preenchidos os requisitos necessários para o abrandamento, além de ausência de fundamentação idônea para a fixação do regime intermediário.
+Na espécie, o Juízo sentenciante assim se manifestou (e-STJ fls. 34/35):
+Fixo o regime inicial de cumprimento de pena privativa de liberdade na modalidade semiaberta, porquanto as circunstâncias do delito não permitem a imposição de regime mais brando. Deveras, os Réus usaram de subterfúgio para atrair a vítima, por meio de aplicativo. Ademais, aproveitaram-se de pessoa que trabalha na condução de veículo e por tal fato deve manter-se atenta com o exterior do veículo para em seu interior anunciar o roubo. Tais aspectos denotam maior envolvimento com a criminalidade, na medida em que o ato foi previamente planejado, o que exige maior reprovação. (Grifei.)
+Essa decisão foi mantida pelo Tribunal a quo, nos termos abaixo transcritos (e-STJ fls. 43/44):
+O regime semiaberto deve ser mantido.
+Registra-se que o regime fechado seria o mais adequado, na medida em que "tratando-se de crime de roubo qualificado, é correta a fixação do regime inicial fechado, mesmo se os réus forem primários e não houver prova da existência de maus antecedentes, pois devem-se levar em conta as circunstâncias do delito que, no caso, vem causando grande comoção social" (Julio Fabbrini Mirabete, in "Execução Penal", Ed. Atlas, 11ª edição, 2008, pág. 326).
+ ..
+O meio empregado para atrair a vítima (aplicativo) e o uso de arma de fogo municiada são circunstâncias que denotam a periculosidade dos agentes  ..  - Grifei.
+Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal).
+Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que aquele que permitir a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito, o que ocorreu na espécie.
+No caso dos autos, foram apontados elementos concretos a justificar a imposição do regime inicialmente mais gravoso, diante das circunstâncias e do modus operandi do delito, haja vista que os agentes, mediante violência e ameaça exercida com emprego de arma de fogo, utilizaram de aplicativo para atrair o motorista e anunciaram o roubo no interior do veículo, o que demonstra um maior desprezo ao bem juridicamente tutelado.
+ No mesmo sentido:
+PROCESSO PENAL. PENAL. AGRAVOS REGIMENTAIS NO RECURSO ESPECIAL. ROUBO MAJORADO. REGIME INICIAL DE CUMPRIMENTO DE PENA. PENA-BASE NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO MOTIVADO NO MODUS OPERANDI EMPREGADO. POSSIBILIDADE. CONDENADO À PENA INFERIOR A 4 ANOS DE RECLUSÃO. RÉUS PRIMÁRIOS. REGIME FECHADO. IMPOSSIBILIDADE. AGRAVOS REGIMENTAIS IMPROVIDOS.
+1. Nada obstante o fato de a pena-base ter sido imposta no piso legal, o estabelecimento do regime mais severo do que o indicado pelo quantum da reprimenda baseou-se na gravidade concreta do delito, evidenciada pelo seu modus operandi, que exige resposta estatal superior, dada a maior reprovabilidade da conduta, em atendimento ao princípio da individualização da pena (HC 331.132/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/08/2017, DJe 30/08/2017).
+2. Considerando que, embora fixada a pena no mínimo legal, foi estabelecido regime mais gravoso em razão do modus operandi empregado, que transborda ao normal do tipo  ..  fato que constitui fundamento idôneo ao recrudescimento do regime.
+3. Embora válido o fundamento para o agravamento do regime prisional, não se justifica a imposição do regime inicial fechado, aos réus primários, condenados a pena reclusiva não superior a 4 anos cuja pena-base foi estabelecida no mínimo legal, devendo ser mantido o regime semiaberto. Precedentes.
+4. Agravos regimentais improvidos (AgRg no AREsp 1128333/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/04/2018, DJe 11/05/2018, grifei).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. REGIME SEMIABERTO. POSSIBILIDADE. MODO MAIS GRAVOSO JUSTIFICADO. ILEGALIDADE INEXISTENTE. HABEAS CORPUS NÃO CONHECIDO. AGRAVO DESPROVIDO.
+ ..
+II - Em relação ao regime inicial de cumprimento de pena, conforme o disposto no artigo 33, parágrafo 3º, do Código Penal, a sua fixação pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+III - Na hipótese, o Tribunal de origem bem fundamentou a fixação do regime semiaberto, ante o modus operandi efetivado no crime. Assim, considerando a fundamentação concreta levada a efeito pela Corte de origem, o regime mais gravoso sequente, qual seja, o semiaberto, mostra-se adequado ao caso.
+Agravo regimental desprovido (AgRg no HC 479.092/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018. grifei).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
