@@ -1,0 +1,37 @@
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO DE INDENIZAÇÃO. EXISTÊNCIA DE DANO MORAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+MARIANA DA SILVA LEITE e MARIA EDUARDA DA SILVA LEITE (MARIANA e outra) ajuizaram ação de reparação de danos morais em desfavor de [NOME] (SÉRGIO), alegando que, no 17/7/2006, sofreram lesões por culpa exclusiva do réu.
+Na primeira instância, o pedido foi julgado parcialmente procedente para condenar o réu ao pagamento de R$ 8.000,00 (oito mil reais) para cada autora, com correção desde a publicação da sentença e juros desde a data do evento, por se tratar de responsabilidade por ilícito extracontratual. Em consequência, julgou extinto o processo com julgamento do mérito, nos termos do art. 487, I, do CPC.
+O Tribunal local negou provimento à apelação interposta por SÉRGIO nestes termos:
+APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. Trata-se de Ação de Indenização por Danos Morais em que as Autoras requerem a condenação do Réu, em razão de acidente de trânsito causado por conduta culposa do mesmo, que invadiu a pista de rolamento onde trafegava o carro das Autoras interceptando sua trajetória. Laudo Pericial que atesta a culpa do Réu na causa do acidente. Responsabilidade Civil Aquiliana. Comprovada conduta, culpa, nexo de causalidade e danos. Dano Moral In Re Ipsa. Valor arbitrado de R$ 8.000,00 para cada Autora que atende os princípios da proporcionalidade e razoabilidade considerando ainda o caráter pedagógico e reparatório. SENTENÇA DE PROCEDÊNCIA QUE SE MANTÉM. RECURSO DESPROVIDO.
+Irresignado, SÉRGIO interpôs recurso especial com fundamento no art. 105, III, a, da Constituição Federal, alegando violação aos artigos 375 do Código de Processo Civil e 186 do Código Civil, ao argumento de que o acidente não acarretou qualquer trauma nas recorridas e que, portanto, não há dano moral indenizável.
+O recurso especial foi inadmitido na origem ante a incidência da Súmula nº 7 do STJ (e-STJ, fls. 383/387).
+Não resignada, a ora agravante interpôs o presente recurso sustentando não se aplicar a aludida súmula.
+Foi apresentada a contraminuta por MARIANA e outra (e-STJ, fl. 408/412).
+É o relatório.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Cumpridos os requisitos de admissibilidade do agravo, CONHEÇO deste e passo à análise do recurso especial.
+Nas argumentações constantes do voto condutor, observa-se o seguinte trecho:
+Inicialmente, importa destacar que toda dinâmica do evento, ou seja, o acidente ocorrido com as Apeladas, assim como as lesões dele decorrentes, restaram devidamente comprovados por meio de prova documental carreada nos autos (index 000012) além do reconhecimento pelo Apelante, que não contestou este fato, restando a análise sobre a causalidade do evento, ou seja, se o Apelante foi responsável pela ocorrência do acidente, agindo culposamente.
+Compulsando os autos, temos que o laudo de perícia realizado no local do acidente, que instrui a petição inicial (000012), é objetivo e suficiente para constatação da culpa do Apelante, sendo sua conduta irregular fator determinante para que o acidente ocorresse. Seguem as conclusões do perito, esclarecendo que consta no laudo veículo V1, que se refere ao veículo do Apelante; e V2, que se refere ao veículo do Apelado:
+..
+Portanto, presentes todos elementos caracterizadores da responsabilidade civil aquiliana, cediço é o dever de reparar do Apelante, bastando apenas aferirmos se os danos causados pelo acidente são aptos a gerar mácula a direitos da personalidade capaz de fazer surgir dever de reparação por danos extrapatrimoniais.
+Por óbvio, que não é qualquer acidente de trânsito que gera dever de indenização por danos morais, porém, no caso em análise, este decorre "in re ipsa" da própria situação danosa experimentada pela Apelada, pois é inegável o abalo psicológico ocasionado pelas lesões graves, que geraram inclusive necessidade de internação, além do elevado grau de culpa do Apelante. Não se pode olvidar, no caso, a gama de dissabores e transtornos suportados em decorrência do fatídico, os quais ultrapassaram os limites de um simples aborrecimento ou casualidade (e-STJ, fls. 335/336).
+Por sua vez, a parte recorrente assevera no especial o que se segue:
+Ocorre que na hipótese, como se depreende dos documentos anexados na inicial, o acidente que a Parte Autora sofreu não acarretou nenhum trauma,. uma vez que os laudos apresentados apontam suspeita de politraumatismo, cujo diagnóstico foi dado no início do tratamento, quando deram entrada no hospital.
+Nota-se que não há elementos probatórios suficientes para demonstrar qualquer repercussão especial do fato sobre os direitos da personalidade; não havendo, portanto, evidência de lesão extrapatrimonial, embora os inegáveis aborrecimentos e contratempos decorrentes do acidente (e-STJ, fl. 360).
+Fica fácil observar, portanto, que a pretensão recursal é, na verdade, analisar a comprovação da existência do dano, em outros termos, rever a premissa de fato fixada pelo Tribunal de origem, o que é vedado no âmbito do recurso especial, conforme a Súmula nº 7 desta Corte.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA.
+ACIDENTE DE TRÂNSITO. PREMISSA FÁTICA ASSENTADA PELAS INSTÂNCIAS ORDINÁRIAS. CARACTERIZAÇÃO DE DANO MORAL IN RE IPSA. INDENIZAÇÃO POR DANOS MORAIS DEVIDOS. VALOR ARBITRADO. REDUÇÃO. ENUNCIADO N. 7 DA SÚMULA DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AGRAVO IMPROVIDO.
+1. O Tribunal de Justiça, analisando o conjunto fático-probatório dos autos, concluiu pela ocorrência do dano moral. Assim, não se mostra possível modificar esse entendimento na via do especial, em razão do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+2. O valor arbitrado na origem a título de reparação moral R$ 30.000,00 (trinta mil reais) respeita os parâmetros de proporcionalidade e de razoabilidade, sendo, portanto, caso de aplicação do enunciado n. 7 da Súmula desta Corte Superior.
+3. É pacífico nesta Corte o entendimento segundo o qual a incidência da Súmula 7/STJ inviabiliza o conhecimento do recurso especial, tanto pela alínea a quanto pela alínea c do permissivo constitucional.
+4. Agravo regimental improvido.
+(AgRg no AREsp 808.037/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 7/4/2016, DJe 14/4/2016)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c art. 253, parágrafo único, II, a, do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de SÉRGIO, nos termos do art. 85, § 11 do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
