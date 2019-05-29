@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 703/704, in verbis:
+Trata-se de recursos especiais (fls. 326/329 e 431/444) interpostos por [NOME] e [NOME] com fulcro no art. 105, inciso III, alíneas a e c, da Constituição da República, em face do v. aresto proferido pela 2ª Turma Especializada do Egrégio Tribunal Regional Federal da 2ª Região (fls. 299/316), que, à unanimidade, deu provimento ao recurso em sentido estrito manejado pelo Parquet.
+Eis a ementa do referido acórdão:
+DIREITO PENAL E PROCESSUAL PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. TRANCAMENTO DO PROCESSO PENAL. REQUISIÇÃO DE INFORMAÇÕES BANCÁRIAS EM PROCEDIMENTO ADMINISTRATIVO FISCAL. LEI COMPLEMENTAR 105-2001. PRESUNÇÃO DE CONSTITUCIONALIDADE DAS NORMAS. VALIDADE DOS ELEMENTOS QUE EMBASAM A DENÚNCIA.
+I - Se as informações bancárias obtidas pela Receita Federal, em regular procedimento administrativo fiscal que amparou a denúncia imputando aos recorridos a prática de crime contra a ordem tributária, deu-se nos moldes do art. 6º Lei Complementar 105-2001, que presume-se constitucional à míngua de uma decisão estável da Corte Suprema quanto ao tema, não há que falar em imprestabilidade da prova para fins de trancamento do respectivo processo da ação penal originária.
+II - Recurso em sentido estrito provido. (fl. 316)
+Aduzem os recorrentes que o Colendo Tribunal paulista violou o art. 157 do Código de Processo Penal, além de divergir da jurisprudência pátria, ao "determinar o prosseguimento da ação penal de piso, sob o fundamento de que não há que se falar em trancamento da ação penal penal uma vez que a obtenção de dados bancários sigilosos, sem autorização judicial, podem sim, dentro do processo administrativo, ser considerada válida" (fl. 435).
+Contrarrazões às fls. 539/572 e 613/647. (grifei)
+Ao final, o Parquet opinou pelo não conhecimento do recurso especial.
+É o relatório.
+Decido.
+Não assiste razão ao recorrente.
+É que o entendimento consignado pelo Tribunal de origem está de acordo com a orientação firmada no Superior Tribunal de Justiça, segundo a qual, independentemente de autorização judicial, "é possível a utilização de dados obtidos pela Secretaria da Receita Federal, em regular procedimento administrativo fiscal, para fins de instrução processual penal" (RHC n. 56.606/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 4/9/2018, DJe 11/9/2018).
+Confiram-se ainda:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSO PENAL. SONEGAÇÃO FISCAL. SIGILO BANCÁRIO. COMPARTILHAMENTO ENTRE RECEITA FEDERAL E MINISTÉRIO PÚBLICO. LEGALIDADE. PRECEDENTES DA SEXTA TURMA E DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE JUSTA CAUSA. NÃO OCORRÊNCIA. DENÚNCIA LASTREADA EM REPRESENTAÇÃO FISCAL PARA FINS PENAIS E DEPOIMENTOS. INÉPCIA DA DENÚNCIA. CONDUTA INDIVIDUALIZADA. NARRATIVA SUFICIENTE. VIABILIDADE DE AMPLA DEFESA. RECURSO DESPROVIDO.
+1. A Sexta Turma do Superior Tribunal de Justiça, no julgamento do HC n.º 422.473/SP, relatado pelo Ministro SEBASTIÃO REIS JÚNIOR, aderiu ao posicionamento do Supremo Tribunal Federal, no sentido de que os dados obtidos, em regular procedimento administrativo fiscal, pela Secretaria da Receita Federal do Brasil podem ser licitamente utilizados para fins de instrução criminal, sendo desnecessária prévia autorização judicial.
+2. Sendo constatada pelas instâncias ordinárias a existência de indícios de materialidade e autoria delitivas, não é possível o trancamento da ação penal pela via excepcional do habeas corpus.
+3. Hipótese em que a denúncia está em total conformidade com o disposto no art. 41 do Código de Processo Penal, porquanto demonstra, de forma clara e objetiva, o fato criminoso, com todas as suas circunstâncias, bem como o possível envolvimento do acusado no delito em tese, de forma suficiente para a deflagração da ação penal, bem como para o pleno exercício de sua defesa.
+4. Recurso desprovido.
+(RHC 101.459/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/10/2018, DJe 22/10/2018, grifei)
+HABEAS CORPUS. TRÂMITE CONCOMITANTE COM RECURSO EM HABEAS CORPUS. CONHECIMENTO DO WRIT. ESTÁGIO PROCESSUAL MAIS AVANÇADO. LIMINAR DEFERIDA. CRIME CONTRA A ORDEM TRIBUTÁRIA. TRANCAMENTO DA AÇÃO PENAL. ILICITUDE DA PROVA EMBASADORA DA DENÚNCIA. COMPARTILHAMENTO DOS DADOS BANCÁRIOS OBTIDOS PELA RECEITA FEDERAL COM O MINISTÉRIO PÚBLICO.
+1. Embora tenha chegado ao Superior Tribunal de Justiça o RHC n. 93.868, interposto pelos ora pacientes contra o mesmo acórdão atacado neste habeas corpus, o recurso, meio adequado para impugnar o julgado do Tribunal Regional Federal, estava em estágio processual menos avançado que o writ, o qual foi processado com medida liminar deferida.
+2. É imperiosa a necessidade de alinhamento da jurisprudência dos tribunais nacionais a fim de preservar a segurança jurídica, bem como afastar a excessiva litigiosidade na sociedade e a morosidade da Justiça.
+3. O entendimento de que é incabível o uso da chamada prova emprestada do procedimento fiscal em processo penal, tendo em vista que a obtenção da prova (a quebra do sigilo bancário) não conta com autorização judicial contraria a jurisprudência consolidada do Supremo Tribunal Federal de que é possível a utilização de dados obtidos pela Secretaria da Receita Federal, em regular procedimento administrativo fiscal, para fins de instrução processual penal.
+4. No caso, não há falar em ilicitude das provas que embasam a denúncia contra os pacientes, porquanto, assim como o sigilo é transferido, sem autorização judicial, da instituição financeira ao Fisco e deste à Advocacia-Geral da União, para cobrança do crédito tributário, também o é ao Ministério Público, sempre que, no curso de ação fiscal de que resulte lavratura de auto de infração de exigência de crédito de tributos e contribuições, se constate fato que configure, em tese, crime contra a ordem tributária (Precedentes do STF).
+5. Ordem denegada. Liminar cassada.
+(HC 422.473/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/03/2018, DJe 27/03/2018, grifei)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
