@@ -1,0 +1,24 @@
+EMENTA
+RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. 1. JUROS DE MORA. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO DA DECISÃO. 2. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por JJO Construtora e Incorporadora Ltda., com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 280):
+COMPROMISSO DE COMPRA E VENDA DE IMÓVEL - RESCISÃO CONTRATUAL - RESTITUIÇÃO DE VALORES - Autora que manifestou desinteresse no prosseguimento do negócio em razão de dificuldades financeiras - Possibilidade de rescisão do contrato com a restituição de valores pagos, com retenção de percentual em favor da vendedora - Súmula 01-TJSP - Ré apelante que invoca cláusula contratual que, na prática, reduz a restituição à quantia irrisória - Abusividade - Violação ao art. 51, II e IV do CDC - Consumidora em desvantagem exagerada e nítido óbice ao direito de reembolso das quantias pagas - Retenção em favor da ré fixada na sentença em 10% sobre os valores pagos, que se mostra razoável - Manutenção - Não demonstração de que a vendedora suportou prejuízo superior à compensação autorizada, nem que pagou as despesas descritas na cláusula cuja aplicação pretende - Sentença mantida com relação à resolução do contrato e à condenação da ré na restituição dos valores pagos - Reforma apenas quanto ao termo inicial dos juros de mora, que devem incidir a partir da prolação da sentença, momento em que a construtora teve ciência da obrigação que lhe foi imposta - RECURSO PARCIALMENTE PROVIDO.
+Nas razões do apelo especial, a recorrente alega, além da existência de divergência jurisprudencial, violação do art. 396 do Código Civil.
+Sustenta, em síntese, que o termo inicial dos juros de mora deve incidir a partir do trânsito em julgado da decisão, haja vista que antes não incorreu em mora.
+Contrarrazões às fls. 334-349 (e-STJ).
+O apelo extremo foi admitido na origem (fls. 350-351, e-STJ), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+Inicialmente, observa-se que, nas hipóteses em que a rescisão do contrato se dá em decorrência do inadimplemento dos promitentes compradores, este Superior Tribunal firmou o entendimento de que o termo inicial dos juros moratórios é a data do trânsito em julgado da decisão que determina a rescisão contratual, haja vista que não há mora em momento anterior.
+Confiram-se:
+AGRAVOS INTERNOS. RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AQUISIÇÃO DE UNIDADE HABITACIONAL. REGIME DA INCORPORAÇÃO IMOBILIÁRIA. RESOLUÇÃO JUDICIAL DO CONTRATO POR INICIATIVA DA CONSTRUTORA. INADIMPLEMENTO DO CONSUMIDOR. DIREITO À RESTITUIÇÃO IMEDIATA DAS PARCELAS. PAGAS. SÚMULA 543/STJ. JUROS DE MORA TERMO "A QUO". DATA DO TRÂNSITO EM JULGADO. JULGADOS DESTA CORTE. PRAZO DE 15 DIAS DO ART. 475-J DO CPC/1973. AUSÊNCIA DE SUSPENSÃO DE EFICÁCIA DA SENTENÇA.
+1. Controvérsia acerca do termo "a quo" dos juros de mora no âmbito do cumprimento de sentença que julgou procedente pedido de resolução do contrato em função do inadimplemento do promitente comprador.
+ ..
+4. Incidência de juros de mora a partir do trânsito em julgado, na linha da jurisprudência desta Corte Superior.
+5. Eficácia restitutória da resolução do contrato, aplicável em benefício das duas partes do contrato, como consequência imediata da desconstituição do vínculo contratual.
+6. Ausência de suspensão da eficácia da sentença durante o decurso do prazo de 15 dias previsto no art. 475-J do CPC/1973. 7. AGRAVOS INTERNOS DESPROVIDOS. (AgInt no REsp 1.596.064/RJ, Relator o Ministro Paulo de Tarso Sanseverino, DJe de 16/3/2017)
+DIREITO CIVIL. RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO. DENÚNCIA PELO COMPROMISSÁRIO COMPRADOR EM FACE DA INSUPORTABILIDADE NO PAGAMENTO DAS PRESTAÇÕES. POSSIBILIDADE. DEVOLUÇÃO PARCIAL DO VALORES PAGOS. TAXA DE OCUPAÇÃO DEVIDA POR TODO O PERÍODO DE POSSE SOBRE O IMÓVEL. ENTENDIMENTO ADOTADO PARA EVITAR O ENRIQUECIMENTO SEM CAUSA DO COMPRADOR. JUROS MORATÓRIOS. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO. RECURSO ESPECIAL PROVIDO.
+ ..  4. Na hipótese de resolução contratual do compromisso de compra e venda por desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios serão computados a partir do trânsito em julgado da decisão.
+5. Recurso especial provido. (REsp 1.211.323/MS, Relator o Ministro Luiz Felipe Salomão, DJe de 20/10/2015)
+Desse modo, tendo em vista que o acórdão recorrido adotou a data da prolação da sentença como o termo inicial dos juros de mora, torna-se imperiosa a sua reforma, para que seja considerada a data do trânsito em julgado da decisão.
+Ante o exposto, dou provimento ao recurso especial, a fim de fixar a data do trânsito em julgado da decisão como o termo inicial dos juros de mora.
+Publique-se.
