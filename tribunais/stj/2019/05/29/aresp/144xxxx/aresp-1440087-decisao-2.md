@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DE PROJETOS IMOBILIÁRIOS LTDA. e OUTRA contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO - Ação de Rescisão Contratual c.c. Devolução dos Valores Pagos - Instrumento Particular de Compra e Venda - Pleito ajuizado pela compradora sob alegação de que não mais possui interesse em manter o contrato - Sentença de parcial procedência - Inconformismo das rés, alegando que receberam a quantia destinada ao pagamento da taxa de comissão de corretagem, devendo ser abatida do valor a ser restituído à autora - Cabimento em parte - Incontroverso que dos valores constantes nos cheques emitidos pela compradora em favor da ré DIREÇÕES CONSULTORIA IMOBILIÁRIA, a título de sinal, a quantia de R$ 1.967,00 (hum mil, novecentos e sessenta e sete reais) foi destinada ao pagamento de parte da comissão de corretagem, devendo ser abatida do montante a ser restituído - Recursos parcialmente providos" (e-STJ fl. 282).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se violação dos arts. 319 e 320 do Código Civil, ao fundamento de que a autora não logrou comprovar nos autos o pagamento da quantia que pretende ver restituída.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+No que se refere à ofensa aos arts. 319 e 320 do Código Civil, verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ademais, o tribunal de origem, à luz da prova dos autos, concluiu que o pagamento de parte da comissão de corretagem é incontroverso, conforme se extrai da leitura do voto condutor, merecendo destaque o seguinte trecho:
+"(..)
+Respeitado o entendimento esposado pela Magistrada sentenciante, restou incontroverso nos autos, pois admitido pela própria autora nas peças inicial e réplica que dos valores constantes nos cheques emitidos em favor da ré DIREÇÕES CONSULTORIA IMOBILIÁRIA, a título de sinal, a quantia de R$ 1.967,00 (hum mil, novecentos e sessenta e sete reais) foi destinada ao pagamento de parte da comissão de corretagem (cfr. fls. 04, 10 e 189).
+Sinale-se, que embora a autora tenha emitido outro cheque no valor R$ 9.836,00 (nove mil, oitocentos e trinta e seis reais) (cfr. fls. 189), também em favor da imobiliária, este não poderia ser a título de intermediação, pois o "Instrumento Particular de Contrato de Prestação de Serviço", assinado pela autora e a ré DIREÇÕES CONSULTORIA IMOBILIÁRIA LTDA, apresenta o valor contratado de R$ 4.155,71 (quatro mil, cento e cinquenta e cinco reais e setenta e um centavos), dos quais a autora admite que pagou R$ 1.967,00 (um mil, novecentos e sessenta e sete reais) como acima apontado.
+Dessa forma, há que se concordar em parte com as rés, para reconhecer que a compradora quitou parte da taxa de comissão de corretagem, devendo ser abatida da verba a ser restituída para a compradora" (e-STJ fls. 285/286).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
