@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de WENDEL BARBOSA DA SILVA contra ato do Tribunal de Justiça do Estado de São Paulo (HC n. 2238059-15.2018.8.26.0000).
+O paciente foi condenado como incurso no art. 155, § 4º, I e IV e no art. 288, ambos do Código Penal (furto qualificado e associação criminosa), à pena de 7 anos e 6 meses de reclusão, em regime inicial fechado. Em sede de apelação, julgada em 10/11/2015, o paciente foi absolvido do delito previsto no art. 288 do Código Penal (associação criminosa), sendo reduzida a pena para 6 anos de reclusão. A defesa interpôs recurso especial, que foi inadmitido, tendo sido interposto agravo em recurso especial, AREsp 1171181/SP, de minha relatoria, no qual neguei provimento ao agravo para manter o regime fechado fixado pelas instâncias ordinárias para o início do cumprimento da pena do ora paciente em razão das circunstâncias judicias defavoráveis.
+O Tribunal de origem indeferiu liminarmente o habeas corpus originário impetrado pela defesa contra ato do Juízo de primeiro grau que negou a detração para fins de estabelecimento do regime inicial de pena (fls. 74/82).
+No presente mandamus, a defesa sustenta que as instâncias ordinárias condenaram o ora paciente em regime fechado sem considerar o tempo de prisão cautelar cumprido para fins de fixação do regime inicial de cumprimento de pena.
+Diz que inexiste processo de execução penal enquanto o custodiado não for efetivamente preso, de sorte que a questão não pode ser analisada senão pelo Juiz da instrução e não da execução.
+Requer, assim, em liminar e no mérito, a aplicação do instituto da detração penal para fixação de regime inicial do paciente.
+Liminar indeferida às fls. 99/100.
+Informações prestadas às fls. 105/197.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração, conforme parecer de fls. 213/214.
+É o relatório.
+Decido.
+Não há como conhecer do pedido nesta Corte Superior, uma vez que o presente mandamus atacada decisão monocrática do Desembargador, que não conheceu do writ. Não tendo o impetrante interposto o recurso cabível contra àquele julgado, inexiste manifestação do Colegiado Estadual sobre o mérito do pleito lá deduzido.
+Dessa forma, também fica esta Corte Superior impedida de pronunciar-se sobre o tema, sob pena de incorrer em indesejável supressão de instância. Nesse sentido:
+HABEAS CORPUS - EXECUÇÃO PENAL - AGRAVO EM EXECUÇÃO - DECISÃO MONOCRÁTICA DENEGATÓRIA, DO RELATOR NO TRIBUNAL A QUO - AGRAVO REGIMENTAL NÃO CONHECIDO, EM NOVA DECISÃO MONOCRÁTICA DO RELATOR - IMPOSSIBILIDADE - NECESSIDADE DE ESGOTAMENTO DA INSTÂNCIA ANTECEDENTE - HABEAS CORPUS CONHECIDO.
+1. O agravo regimental constitui o instrumento do qual a parte dispõe para submeter ao órgão colegiado a decisão monocrática proferida por um de seus membros.
+2. Tanto o Código de Processo Penal, no seu artigo 3º, quanto o Regimento Interno do Tribunal de Justiça do Rio Grande do Sul, no seu artigo 233, determinam que, caso não haja retratação por parte do relator - como ocorreu no caso em exame -, este deve submeter o agravo regimental ao colegiado respectivo, para fins, inclusive, de exaurimento de instância recursal, sem a qual o recurso especial estaria fadado à hipótese de não conhecimento.
+3. De fato, a provocação da jurisdição de Corte Superior exige o prévio exaurimento da instância antecedente, de modo que incorreta a decisão do relator, no Tribunal a quo, que não conheceu - em nova decisão monocrática - do agravo regimental interposto pela defesa.
+4. Habeas corpus não conhecido. Contudo, ordem concedida de ofício, a fim de que o agravo regimental interposto perante o Tribunal de origem seja submetido ao respectivo colegiado (HC 446.987/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 15/08/2018).
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE RELATOR. CRIMES DESCRITOS NO ART. 171, NA FORMA DO ART. 71, TODOS DO CÓDIGO PENAL, E ART. 2º DA LEI N. 12.850/2013. CONDENAÇÃO EM PRIMEIRA INSTÂNCIA. DOSIMETRIA DA PENA. PLEITO DE REDUÇÃO. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA.
+1. Ante o não esgotamento da instância antecedente, por meio da interposição do recurso cabível contra decisão monocrática de Desembargador Relator, não pode o Superior Tribunal de Justiça, subvertendo o sistema de organização judiciária, analisar diretamente questões não apreciadas pela Corte de origem, sob pena de indevida supressão de instância.
+2. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento (RCD no HC 447.287/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/05/2018, DJe 29/05/2018).
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
