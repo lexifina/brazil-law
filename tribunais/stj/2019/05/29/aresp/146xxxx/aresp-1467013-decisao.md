@@ -1,0 +1,58 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ACÓRDÃO RECORRIDO QUE SE AMPARA NOS FUNDAMENTOS DELINEADOS NA SENTENÇA. POSSIBILIDADE. FUNDAMENTAÇÃO PER RELATIONEM. SÚMULA 83/STJ. 2. ALEGAÇÃO DE PRÁTICA DE VENDA CASADA. NÃO COMPROVAÇÃO. SÚMULA 7/STJ. 3. RESTITUIÇÃO EM DOBRO. TRIBUNAL DE ORIGEM QUE AFIRMOU INEXISTIR A NECESSÁRIA MÁ-FÉ. ARGUMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 283/STF. 4. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o processamento do recurso especial.
+Compulsando os autos, verifica-se que a recorrente ajuizou ação declaratória, com pedido de antecipação de tutela, em desfavor de Caixa Econômica Federal, almejando: i) a restituição em dobro dos valores referentes aos serviços contratados provenientes de venda casada; ii) a revisão dos encargos cobrados no contrato de mútuo habitacional; e iii) a condenação da requerida ao pagamento de danos morais.
+O Juízo de primeiro grau julgou improcedentes os pedidos.
+Contra a sentença a autora interpôs apelação, a qual foi parcialmente provida pela Terceira Turma do Tribunal Regional Federal da 4ª Região para afastar a cobrança do seguro durante toda a execução do contrato.
+O acórdão está assim ementado (e-STJ, fl. 327):
+ADMINISTRATIVO. CONTRATOS BANCÁRIOS. REVISÃO CONTRATUAL. SEGURO CONTRA MORTE E INVALIDEZ PERMANENTE. VENDA CASADA. CAPITALIZAÇÃO DIÁRIA DOS JUROS. DESCARACTERIZAÇÃO DA MORA. REPETIÇÃO DO INDÉBITO. DANO MORAL NÃO COMPROVADO. SUCUMBÊNCIA RECÍPROCA.
+. É pacífico o entendimento jurisprudencial quanto à legalidade da exigência de seguro de vida e invalidez em contratos vinculados ao Sistema Financeiro da Habitação. In casu, embora os contratos objetos da demanda tragam cláusula de alienação fiduciária em garantia sobre imóvel, trata-se de mútuo ordinário, isto é, não há vinculação com o SFH. Sendo assim, não há norma legal que autorize a contratação obrigatória do seguro contra morte e invalidez permanente, de forma que a sua imposição como condição para assinatura do contrato configura venda casada, prática vedada pelo art. 39, inciso I, do Código de Defesa do Consumidor.
+. Se mostra plausível que se afastem os encargos da inadimplência, considerando que deve ser afastada a cobrança indevida do seguro, e observando que foi realizado o depósito judicial dos valores pelo autor, no que caracterizada a boa-fé.
+. É entendimento pacífico do Superior Tribunal de Justiça que somente é possível a limitação da taxa de juros remuneratórios quando comprovado que discrepantes em relação à taxa média de mercado para a operação contratada.
+. Determinada a repetição do indébito de forma simples.
+. Diante da sucumbência recíproca, forte no artigo 86 do Novo CPC, deverão as partes responder pela metade das custas e honorários advocatícios, estes fixados em 10% sobre o valor da causa, restando suspensa a execução em relação à autora, em razão da AJG.
+Os embargos de declaração opostos pela demandante foram acolhidos tão somente para efeito de prequestionamento.
+Interposto recurso especial por parte da insurgente, este relator deu-lhe provimento para, reconhecendo a existência de omissão no acórdão recorrido, determinar a devolução dos autos à Corte de origem a fim de sanar o vício detectado (e-STJ, fls. 451-456).
+O TRF da 4ª Região, atendendo à determinação supracitada, reapreciou os declaratórios opostos ao aresto combatido, acolhendo-os para sanar a omissão suscitada (e-STJ, fls. 471-476).
+Interposto novo recurso especial, com fundamento na alínea a do permissivo constitucional, a recorrente alegou, em suas razões, violação aos arts. 140, 141, 319, 489 e 492 do Código de Processo Civil; e 6º, 39 e 42 do Código de Defesa do Consumidor.
+Sustentou, em síntese, haver negativa de prestação jurisdicional no acórdão combatido, uma vez que o Tribunal de origem, ao reapreciar os declaratórios opostos, "mesmo usando parte do trecho da sentença de primeira instância, não explicou o fato de a sentença de origem ter entendido pela não caracterização da venda casada, plenamente debatida nos autos" (e-STJ, fl. 489).
+Ademais, defendeu a prática de venda casada pelo banco, sendo impositiva a devolução em dobro da importância paga em virtude da conduta abusiva da casa bancária.
+O Tribunal a quo não admitiu o recurso especial sob os fundamentos de incidência das Súmulas 5, 7, 83 e 211 do STJ e 282 e 356 do STF, levando a insurgente a interpor o presente agravo, no qual refuta tais óbices.
+Brevemente relatado, decido.
+De início, enfatiza-se que é admitido ao Tribunal de origem, no julgamento da apelação, utilizar, como razões de decidir, os fundamentos delineados na sentença (fundamentação per relationem), medida que não implica em negativa de prestação jurisdicional, não gerando nulidade do acórdão, seja por inexistência de omissão seja por não caracterizar deficiência na fundamentação.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. EMBARGOS MONITÓRIOS. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA.
+1. No julgamento da apelação, o Tribunal local pode adotar ou ratificar, como razões de decidir, os fundamentos da sentença, prática que não acarreta omissão, não implica ausência de fundamentação nem gera nulidade. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1075290/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/03/2018, DJe 20/03/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO. ADOÇÃO DOS FUNDAMENTOS DA SENTENÇA. POSSIBILIDADE. DANOS MATERIAIS E MORAIS. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1. Esta Corte já se posicionou no sentido de não ser desprovido de fundamento o julgado que ratifica as razões de decidir adotadas na sentença, transcritas no corpo do acórdão.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Rever as conclusões do acórdão recorrido acerca da ocorrência dos danos materiais e morais demandaria o reexame de matéria fático- probatória, o que é vedado em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+4. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar de modo preciso como teria ocorrido a violação legal. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+5. Agravo regimental não provido.
+(AgRg no AREsp 473.327/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/06/2016, DJe 20/06/2016)
+Na hipótese ora em foco, a Corte Regional - quanto à alegada ocorrência de venda casada, com a imposição do banco de contratação de consórcio, cheque especial e plano de previdência privada, em virtude da contratação de financiamento habitacional - corroborou, na íntegra, a sentença (e-STJ, fls. 473-474, sem grifo no original):
+Assim, acresço o seguinte trecho da sentença (Evento 35, SENT1) ao teor do voto embargado (Evento 5, VOTO2):
+"(..)
+Com referência aos demais contratos relacionados pela parte autora  plano de previdência privada (evento 21, CONTR4), consórcio imobiliário (evento 21, CONTR3) e outras taxas , inexistem elementos nos autos que demonstrem a vinculação de tais contratos com o financiamento imobiliário.
+(..)
+Não há qualquer elemento nos autos demonstrativo de que a ré condicionou a adesão ao consórcio e ao plano de previdência como forma de viabilizar o financiamento imobiliário.
+Por outro lado, deve-se distinguir, a natureza dos serviços/produtos ofertados em conjunto, se possuem naturezas distintas e autonomia em seu fornecimento.
+Com efeito, na linha da jurisprudência do Superior Tribunal de Justiça, os produtos ofertados devem possuir natureza distinta e usualmente comercializados em separado. Neste sentido, ter a conta na instituição bancária é requisito para o financiamento.
+Assim, cabe também afastar a arguição de venda casada pertinentemente à abertura de conta-corrente e respectivo cartão de crédito, isso porque a existência dessa conta foi definida em contrato como meio para recebimento do mútuo acordado e, também, como meio para pagamento (evento 1 - OUT5, p. 2).
+Ressalte-se, ainda, que a coação, para viciar a declaração, tem de incutir fundado temor de dano iminente e considerável, conforme dispõe o art. 151 do Código Civil.
+Ora, sendo a autora pessoa de pleno discernimento (advogada), não pode alegar a sua ignorância para realização do negócio, não apresentando qualquer elemento de que o acordado não fosse a vontade real das partes.
+Por óbvio que a CEF vai oferecer produtos aos usuários, é da sua natureza essencialmente econômica. A experiência comum demonstra que as instituições financeiras constantemente oferecem produtos aos clientes das agências no intuito de obter lucros ou atingir metas. Contudo, isto está dentro da normalidade do negócio jurídico. Acaso não houvesse interesse em contratar, poderia a demandante solicitar a sua exclusão, submetendo-se às regras estabelecidas por ocasião da contratação.
+Além disso, os contratos foram entabulados em janeiro de 2011, sendo que somente agora, num período de dificuldades financeiras, tomou forma a insurgência. Cabe salientar que ao negociar com a ré (e a instituição serviu aos seus propósitos), a requerente tinha pleno discernimento das condições, não podendo agora, sob o pretexto de vício de vontade desacompanhado de argumento plausíveis, requerer a nulidade do acordo.
+Neste contexto, não há fundamento legal ou fático para acolhimento dos pedidos vertidos na inicial, nada sendo provado acerca da existência de coação.
+Assim, a parceria para financiamento imobiliário com a demandada CAIXA não constitui circunstância apta a, por si só e independentemente de prova, evidenciar a ocorrência de venda casada. E esta prova, cujo ônus era da parte autora, nos termos do artigo 373, I, do CPC/2015, não foi concretizada nos autos. (..)"
+Assim, estando suficientes as razões de decidir da sentença para dirimir a matéria acerca da suposta ocorrência de venda casada, não há que se falar em negativa de prestação jurisdicional a adoção integral de tais fundamentos pelo TRF da 4ª Região.
+Desse modo, incide à espécie a Súmula 83/STJ.
+Ademais, concernente ao mérito da venda casada, não há como acolher a tese defendida pela demandante e modificar a conclusão exarada no aresto combatido - no sentido de não estar comprovada tal prática abusiva pela instituição financeira -, sem que se proceda ao imprescindível reexame do conjunto fático-probatório do feito, a ensejar a incidência da Súmula 7/STJ.
+No que se refere à pretensão de restituição em dobro dos valores pagos em decorrência de contratação de produtos por venda casada, a Corte de origem rechaçou esse pleito sob o fundamento de não estar demonstrada a má-fé imprescindível ao acolhimento do pedido.
+Ocorre que esse argumento constante do acórdão recorrido não foi impugnado nas razões do recurso especial, o que atrai a aplicação da Súmula 283/STF ao caso.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro a verba honorária em 2% sobre o valor da causa em favor dos advogados da parte recorrida, a serem custeados pela recorrente, suspensa a exigibilidade, porquanto beneficiária da gratuidade da justiça, consoante o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
