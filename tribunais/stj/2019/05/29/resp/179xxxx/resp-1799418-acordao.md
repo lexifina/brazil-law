@@ -1,0 +1,57 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RETIRADA DE RESTOS MORTAIS DE JAZIGO. VIOLAÇÃO DOS ARTS. 373, II, E 537, § 1º, I, DO CÓDIGO DE PROCESSO CIVIL/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não se conhece de Recurso Especial em relação à ofensa aos arts. 373, II, e 537, § 1º, I, do Código de Processo Civil/2015 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Incidência, por analogia, da Súmula 284/STF.
+2. O Tribunal de origem, com base no conjunto probatório dos autos, consignou que "Agravo de instrumento interposto pela Municipalidade de Americana contra r. decisão proferida pelo digno Juízo da 4ª Vara Cível da Comarca local (traslado de fls 38) em ação de obrigação de fazer, ajuizada por [NOME] que, em essência, concedeu tutela de urgência a fim de impedir a retirada dos restos mortais da avó da agravada, sepultada no lote nº 724, sob pena de multa de R$ 1.000,00 por dia de descumprimento, limitada a 90 dias. (..) Respeitadas as razões recursais, o recurso merece parcial provimento apenas para reduzir a multa cominatória a R$ 100,00. Com efeito, por ora, deve ser mantida a tutela de urgência no que se refere a impossibilidade de retirada dos restos mortais do jazigo. Isto porque, a suposta ausência de manutenção do local pela autora-agravada ainda não está devidamente esclarecida. E isso, mesmo levando-se em consideração o princípio da legitimidade do ato administrativo, pois o documento visto a fls 27 - Título de Concessão Perpétua de Sepultura - por enquanto, deve prevalecer. Também não se deve esquecer que caso não concedida a tutela de urgência os restos mortais da avó da parte agravada seriam destinados à incineração, fato notoriamente irreversível. Ante o exposto, pelo meu voto, dou provimento parcial ao agravo de instrumento para o fim de manter a multa cominatória no valor de R$ 100,00 (cem reais), limitada a noventa dias, por ser mais condizente com a questão discutida em Juízo" (fls. 154-155, e-STJ). A revisão desse entendimento implica reexame de matéria fático-probatória, o que atrai o óbice da Súmula 7/STJ.
+3. É sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas mediante cognição sumária e avaliação de verossimilhança. Logo, por não representarem pronunciamento definitivo a respeito do direito reclamado na demanda, são medidas suscetíveis de modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza instável de decisão desse jaez, o STF sumulou entendimento segundo o qual "não cabe recurso extraordinário contra acórdão que defere medida liminar" (Súmula 735 do STF).
+4. Portanto, o juízo de valor precário, emitido na concessão de medida liminar, não tem o condão de ensejar a violação da legislação federal, o que implica o não cabimento do Recurso Especial, nos termos da Súmula 735/STF.
+5. E ainda: é assente no STJ que, para análise dos critérios adotados pela instância ordinária que ensejaram a concessão ou não da liminar ou da antecipação dos efeitos da tutela, é imprescindível o reexame dos elementos probatórios a fim de aferir a "prova inequívoca que convença da verossimilhança da alegação", o que não é possível em Recurso Especial, dado o óbice da Súmula 7/STJ.
+6. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 154, e-STJ):
+TUTELA DE URGÊNCIA - Cemitério municipal - Retirada de restos mortais de jazigo - Inadmissibilidade - Munícipe que detém título de concessão perpétua de sepultura - Alegação do Município a respeito de abandono do local ainda não devidamente esclarecida - Manutenção da liminar para impedir a retirada dos restos mortais - Redução da multa cominatória - Agravo de instrumento parcialmente provido.
+Os Embargos de Declaração opostos pela Municipalidade foram rejeitados nos seguintes termos (fl. 180, e-STJ):
+EMBARGOS DE DECLARAÇÃO - Interposição fundada no artigo 1.022, incisos I e II, do Código de Processo Civil - Alegação de obscuridade - Alegação de contradição - Alegação de omissão - Caráter infringente - Prequestionamento - Não reconhecimento de vício que enseje declaração - Embargos rejeitados.
+Em seu apelo especial, o ente municipal aponta, além de divergência jurisprudencial, violação dos arts. 373, II, e 537, § 1º, I, do Código de Processo Civil/2015, sob o argumento de que "a recorrida não colaciona à exordial os documentos essenciais a comprovar as suas frágeis alegações, o que por si só tem o condão de rechaçar os pleitos iniciais na sua integralidade. Não há prova de que a concessão outorgada à recorrida antigamente possui validade e eficácia. Não há provas de que a recorrida realizou a manutenção, limpeza e conservação do jazigo ao longo dos anos desde o aludido sepultamento. Não há comprovação pela recorrida de que em tal jazigo estaria sepultada a sua avó" (fl. 163, e-STJ).
+Sem contrarrazões, conforme fl. 188, e-STJ.
+O Recurso Especial não foi admitido pelo Tribunal de origem (fls. 190-191, e-STJ).
+Por decisão proferida no AREsp 1.426.797/SP, determinei a conversão do Agravo ao presente recurso (fl. 212, e-STJ).
+O Ministério Público Federal, na pessoa do Subprocurador-Geral da República [NOME], opinou pelo não conhecimento do recurso (fls. 218-220, e-STJ). Eis a ementa do parecer ministerial:
+DIREITO PROCESSUAL CIVIL RECURSO ESPECIAL CONTRA DECISÃO LIMINAR CONFIRMADA PELA CORTE A QUO - NATUREZA PRECÁRIA DA DECISÃO. PASSÍVEL DE SER MODIFICADA A QUALQUER MOMENTO OU NA SENTENÇA DE MÉRITO - SUMULA Nº 735/STF APLICADA POR ANALOGIA - PRECEDENTE DO STJ
+- Parecer pela negativa de conhecimento do Recurso Especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 21.3.2019.
+Não merece prosperar a irresignação.
+O insurgente sustenta que os arts. 373, II, e 537, § 1º, I, do Código de Processo Civil/2015 foram violados, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF. Cito precedentes:
+PROCESSUAL CIVIL. (..) DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. (..)
+(..)
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+(..)
+(AgInt no REsp 1630011/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 30/03/2017, grifei).
+RECURSO ESPECIAL (..) VIOLAÇÃO DO ART. 535 DO CPC/1973, DO ART. 1.022 DO CPC/2015 E DOS ARTS. 151, III, E 174 DO CTN. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC/1973, ao art. 1.022 do CPC/2015 e aos arts. 151, III, e 174 do Código Tributário Nacional quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..)
+(REsp 1652761/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/04/2017).
+Por outro lado, o Tribunal a quo consignou (fls. 154-155, e-STJ):
+Agravo de instrumento interposto pela Municipalidade de Americana contra r. decisão proferida pelo digno Juízo da 4ª Vara Cível da Comarca local (traslado de fls 38) em ação de obrigação de fazer, ajuizada por [NOME] que, em essência, concedeu tutela de urgência a fim de impedir a retirada dos restos mortais da avó da agravada, sepultada no lote nº 724, sob pena de multa de R$ 1.000,00 por dia de descumprimento, limitada a 90 dias.
+Pedido de reforma sumariado na tese da extinção da concessão perpétua do jazigo em decorrência da falta de manutenção do local pela parte agravada (fls 1/14).
+Processamento com parcial liminar suspensiva, apenas para reduzir a multa cominatória a R$ 100,00 (fls 146/147).
+Não foram requisitadas informações ao digno Juízo a quo.
+Agravo não respondido (fls 151).
+É o relatório.
+Trata-se de ação de obrigação de fazer ajuizada por [NOME] em face do Município de Americana. O digno magistrado a quo concedeu tutela de urgência a fim de impedir a retirada dos restos mortais da avó da autora, sepultada no lote nº 724, sob pena de multa de R$ 1.000,00 por dia de descumprimento, limitada a 90 dias.
+Eis a decisão agravada.
+Respeitadas as razões recursais, o recurso merece parcial provimento apenas para reduzir a multa cominatória a R$ 100,00.
+Com efeito, por ora, deve ser mantida a tutela de urgência no que se refere a impossibilidade de retirada dos restos mortais do jazigo.
+Isto porque, a suposta ausência de manutenção do local pela autora-agravada ainda não está devidamente esclarecida. E isso, mesmo levando-se em consideração o princípio da legitimidade do ato administrativo, pois o documento visto a fls 27 - Título de Concessão Perpétua de Sepultura - por enquanto, deve prevalecer.
+Também não se deve esquecer que caso não concedida a tutela de urgência os restos mortais da avó da parte agravada seriam destinados à incineração, fato notoriamente irreversível.
+Ante o exposto, pelo meu voto, dou provimento parcial ao agravo de instrumento para o fim de manter a multa cominatória no valor de R$ 100,00 (cem reais), limitada a noventa dias, por ser mais condizente com a questão discutida em Juízo.
+Logo, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, pois inarredável a revisão do conjunto probatório dos autos. Aplica-se o óbice da Súmula 7/STJ.
+Além disso, é sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas mediante cognição sumária e avaliação de verossimilhança. Logo, por não representarem pronunciamento definitivo a respeito do direito reclamado na demanda, são medidas suscetíveis de modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza instável de decisão desse jaez, o STF sumulou entendimento segundo o qual "não cabe recurso extraordinário contra acórdão que defere medida liminar" (Súmula 735 do STF).
+Portanto, o juízo de valor precário, emitido na concessão de medida liminar, não tem o condão de ensejar a violação da legislação federal, o que implica o não cabimento do Recurso Especial, nos termos da referida Súmula 735/STF.
+E ainda, é assente neste Tribunal Superior que, para análise dos critérios adotados pela instância ordinária que ensejaram a concessão ou não da liminar ou da antecipação dos efeitos da tutela, é imprescindível o reexame dos elementos probatórios a fim de aferir a "prova inequívoca que convença da verossimilhança da alegação", o que não é possível em Recurso Especial, dado o óbice da Súmula 7/STJ.
+Por tudo isso, não conheço do Recurso Especial.
+É como voto.
