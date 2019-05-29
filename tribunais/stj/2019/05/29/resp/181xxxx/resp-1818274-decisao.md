@@ -1,0 +1,12 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Ministério Público do Estado de São Paulo contra decisão que inadmitiu o recurso especial ante a razoabilidade da decisão tomada em segunda instância.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com base na alínea "a" do permissivo constitucional contra acórdão assim ementado:
+APELAÇÃO. Ação civil pública movida pelo Ministério Público do Estado de São Paulo em face da proprietária de imóvel localizado às margens do Rio Pardo. Alegação de dano ambiental em área de preservação permanente consistente na ocupação irregular nas margens de curso d"água. Sentença que julgou os pedidos parcialmente procedentes para condenar a requerida a cumprir diversas obrigações, fixando como margem da APP cinco metros nos termos do artigo 61-A, §1º da Lei n. 12.651/2012.
+Apelo do Ministério Público requerendo a condenação da ré na integral recuperação da área de preservação permanente, considerada a faixa de,100 metros às margens do rio Pardo. Sem razão no caso concreto. Existência de termo de ajustamento de conduta homologado e cumprido. Ato jurídico perfeito. Ausência de prova ou indícios de sua violação. Falta de interesse. Extinção da ação. Conquanto tenha sido ajuizada a presente ação civil pública sem base em prova de que a ré tenha violado os termos de TAC anteriormente firmado, devidamente homologado pelo Conselho Superior do Ministério Público, verifica-se que é patente a falta de interesse do Ministério Público na propositura da presente ação, razão pela qual a inicial deve ser indeferida, extinguindo-se a ação sem exame do mérito. Reconhecimento, ex officio, da falta de interesse do autor, extinguindo-se a ação, prejudicado o recurso.
+O agravante aduz a violação dos arts. 7º, 8º, 141 489, I e II, 1.013, § 1º, e 1.022, I e II, do Código de Processo Civil/2015; 14, § 1º, da Lei n. 6.938/1981; e 1.228, § 1º, do Código Civil.
+Decido.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial, para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do apelo nobre, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
+Após o trânsito em julgado, enviem-se os autos ao Ministério Público Federal para oferecimento de parecer.
