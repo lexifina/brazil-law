@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de VALDEMIR MEDEIROS CAVALCANTE, apontando como autoridade coatora o Tribunal de Justiça de Pernambuco que indeferiu a liminar no writ de origem.
+Conforme informação de fls. 98/133, verifico que, em 12/2/2019, foi julgado o mérito do writ originário no sentido de denegar a ordem, por acórdão assim ementado (fls. 104/105):
+EMENTA: PROCESSUAL PENAL. HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO (ART.14, LEI Nº 10.826/2003). IMPOSSIBILIDADE DE DISCUSSÃO SOBRE INOCÊNCIA NA VIA ESTREITA DO MANDAMUS CONSTITUCIONAL. ALEGAÇÃO DE FALTA DE FUNDAMENTAÇÃO DO DECRETO DE PRISÃO PREVENTIVA. DEFICIÊNCIA DE INSTRUÇÃO. INCABIMENTO DE ANÁLISE DO PEDIDO POR AUSÊNCIA DE PROVA DOCUMENTAL. PLURALIDADE DE RÉUS (TRÊS). COMPLEXIDADE DO FEITO. RETARDO NA MARCHA PROCESSUAL PROVOCADO PELA DEFESA. DEMORA NA APRESENTAÇÃO DA DEFESA PRÉVIA. NOMEAÇÃO DO DEFENSOR PÚBLICO. ALEGAÇÃO DE EXCESSO DE PRAZO SUPERADA. COAÇÃO ILEGAL. INEXISTÊNCIA. INTELIGÊNCIA DA SÚMULA 64/STJ. WRIT CONHECIDO EM PARTE E, NESSA EXTENSÃO, DENEGADA A ORDEM. DECISÃO UNÂNIME.
+I - A via estreita do habeas corpus não comporta análise de mérito do processo de conhecimento, principalmente guando a pretensão deduzida no writ depende de exame aprofundado das provas produzidas, o que só é possível por ocasião da instrução criminal, o que impede o conhecimento do pedido, no particular à alegação de inocência. Precedente do STJ.
+II - Em sede de habeas corpus a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos documentais suficientes à análise de eventual ilegalidade flagrante no ato atacado. A ausência de cópia do decreto de prisão preventiva impede o conhecimento do pedido de fundamentação inidônea. Precedente do STJ.
+III - Por aplicação do Principio da Razoabilidade, mostra-se justificada eventual dilação de prazo para a conclusão da instrução processual tendo em vista restar configurada a complexidade do feito em face da pluralidade de réus mormente quando a própria defesa contribuiu para o retardo na marcha processual, em face da demora para apresentação de resposta à acusação.
+Inteligência da Súmula 64/STJ. Precedentes do S.T.J.
+IV - Writ conhecido em parte e, nessa extensão, denegada a ordem. Decisão unânime.
+O paciente foi preso em flagrante no dia 2/7/2018, que foi convertido em prisão preventiva e, denunciado pela prática do crime tipificado no art. 12 da Lei 10.826/2003.
+O impetrante aponta a existência de constrangimento ilegal, consubstanciado na ausência de comprovação da propriedade da arma apreendida, não havendo indícios suficientes de autoria.
+Aduz que o paciente não possui envolvimento com o tráfico de drogas e que ostenta condenação anterior que já cumpriu integralmente a pena, além disso, sustenta que não estão presentes os requisitos que autorizam a prisão preventiva. Requer a concessão da ordem, para que o paciente seja posto em liberdade.
+Indeferida a liminar e, prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento ou denegação do writ.
+É o relatório.
+DECIDO.
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Já no que tange aos requisitos da prisão preventiva, o Tribunal a quo assim se manifestou (fls. 122/124):
+ ..
+Quanto à alegação de falta de fundamentação da prisão preventiva merece destacar que, como visto alhures, a peça de ingresso não veio acompanhada de cópia do decreto prisional impugnado, razão pela qual foi determinada a juntada do aludido documento, ex vi do parágrafo único, do inciso II, do art. 303, do RITJPE.
+Ocorre que, conquanto tenha sido oportunizado que fosse sanada a mencionada omissão, verifica-se que a advogada postulante não fez a juntada da decisão que converteu a prisão em flagrante em preventiva, mas sim do posterior indeferimento de pedido de revogação da constrição cautelar (fls. 53), o que impede o conhecimento do mandamus, nesse particular, em face da impossibilidade de analisar os fundamentos que deram lastro à decretação da medida extrema, sendo certo que caberia à impetrante o ônus de instruir devidamente a impetração. Nesse sentido:
+ ..
+Como se vê, a Corte a quo não conheceu da impetração quanto aos requisitos da prisão preventiva pela instrução deficiente, haja vista que não foi juntada cópia da decisão que converteu o flagrante em prisão preventiva. Assim, a matéria não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+Outrossim, é pacífico o entendimento desta Corte Superior que o procedimento do habeas corpus não permite a dilação probatória, pois exige prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração (AgRg no HC n. 289076/SP - 5ª T. - unânime - Rel. Min. Regina Helena Costa - DJe 19/5/2014; AgRg no HC n. 291366/PE - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 29/5/2014; HC n. 269077/PE - 6ª T. - Rel. Min. Sebastião Reis Júnior - DJe 2/6/2014).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
