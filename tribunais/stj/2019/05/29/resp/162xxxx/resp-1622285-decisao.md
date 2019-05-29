@@ -1,0 +1,20 @@
+DECISÃO
+ PROCESSUAL CIVIL. RECURSO ESPECIAL. DELEGAÇÃO DE ATOS DO MAGISTRADO AO SERVIDOR. ACÓRDÃO FUNDADO EM MOTIVAÇÃO CONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. EXTINÇÃO DO PROCESSO. ABANDONO. INTIMAÇÃO PESSOAL DO AUTOR. SÚMULA 7/STJ. RECURSO ESPECIAL DO MUNICÍPIO DE BOA VISTA/RR NÃO CONHECIDO.
+1. Trata-se de Recurso Especial interposto por MUNICÍPIO DE BOA VISTA/RR em face de acórdão de lavra do TJ/RR, assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EXTINÇÃO POR ABANDONO. AUSÊNCIA DE PROCURADOR TITULAR NA RESPECTIVA PROCURADORIA FISCAL. SITUAÇÃO QUE NÃO SE AFIGURA APTA PARA SUSPENDER OU ALARGAR PRAZO PROCESSUAL. INTIMAÇÃO PARA DAR PROSSEGUIMENTO AO FEITO. ATO ORDINATÓRIO QUE PODE SER DELEGADO PELO MAGISTRADO. HOMENAGEM AO PRINCÍPIO DA DURAÇÃO RAZOÁVEL DO PROCESSO. PRESCRIÇÃO DO TÍTULO EXECUTIVO. QUESTÃO NÃO DECIDIDA PELO JUÍZO DE PRIMEIRO GRAU. AUSÊNCIA DE DIALETICIDADE RECURSAL. PONTO NÃO CONHECIDO DA APELAÇÃO. ARQUIVAMENTO PROVISÓRIO. MATÉRIA PREJUDICADA ANTE O NÃO PROVIMENTO DO RECURSO. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO NA PARTE CONHECIDA (fls. 284).
+2. Aponta ofensa ao art. 267, III, §1o. do Código Buzaid, bem como dissídio jurisprudencial. Sustenta, em suma, que a intimação não poderia ter sido expedida por servidor por meio de ato ordinatório e que não foi realizada intimação pessoal, conforme determinada a norma invocada.
+3. É o relatório.
+4. O Tribunal de origem examinou a questão com base em fundamentos de natureza infraconstitucional e de índole constitucional. Contudo, a matéria constitucional (duração razoável do processo e possibilidade de delegação de atos do magistrado aos servidores) não foi impugnada por meio de Recurso Extraordinário, circunstância que atraio óbice da Súmula 126 desta Corte, segundo a qual, é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.
+5. Ademais, a questão relativa à ocorrência ou não de intimação pessoal da parte recorrente demandaria reexame fático-probatório, o que é inviável em sede de Recurso Especial ante o teor da Súmula 7/STJ. No mesmo sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSO CIVIL. EXTINÇÃO DO PROCESSO. ABANDONO. INTIMAÇÃO PESSOAL DO AUTOR. SÚMULA 7 STJ.
+1. Inviabilidade de acolher a alegação da embargante de que não ocorreu a intimação pessoal, por demanda incursão pelas provas dos autos para esclarecimento do aresto recorrido. Incidência do óbice da súmula 7/STJ.
+2. Agravo interno não provido (AgInt no REsp. 1.611.501/RS, Rel. Min. LUIS FELIPE SALOMÃO, DJe 4.9.2017).
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. REGULARIDADE DA INTIMAÇÃO PESSOAL. MUDAR ENTENDIMENTO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Analisando as razões dos Embargos de Declaração opostos na origem, verifica-se que a matéria tida por omissa nem sequer foi aventada pela então embargante, razão pela qual não se pode falar em violação do art. 535 do CPC/1973.
+2. Ademais, o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, tal como lhe foi apresentada. 3. Quanto à questão de fundo, a insurgente sustenta que, "não tendo sido a União Federal intimada da r. sentença, deve o feito ser anulado desde a ocorrência do ato viciado (..)". 4. Ocorre que, ao revés do que foi alegado pela recorrente, o Tribunal de origem foi categórico ao afirmar que a União foi pessoalmente intimada da sentença.
+5. Nota-se que o caso assume claros contornos probatórios, uma vez que, para acolhimento da tese proposta pela recorrente, seria necessário reexame do contexto fático-probatório dos autos, o que não se admite em Recurso Especial, tendo em vista o óbice da Súmula 7/STJ.
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido (REsp. 1.692.338/SP, Rel. Min. HERMAN BENJAMIN, DJe 23.10.2017).
+6. Ante o exposto, não se conhece o Recurso Especial do MUNICÍPIO DE BOA VISTA/RR.
+7. Publique-se.
+8. Intimações necessárias.
