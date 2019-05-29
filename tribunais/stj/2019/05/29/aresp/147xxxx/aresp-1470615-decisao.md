@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015), interposto por UNIMED JOÃO PESSOA COOPERATIVA DE TRABALHO MÉDICO, em face de decisão acostada às fls. 299/300, e-STJ, que, em juízo prévio de admissibilidade, negou seguimento ao recurso especial manejado pela ora agravante.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, fora deduzido em desafio ao acórdão de fls. 237/254, e-STJ, proferido pelo Tribunal de Justiça do Estado da da Paraíba, assim ementado (fls. 242/243, e-STJ):
+APELAÇÃO. AÇÃO ORDINÁRIA DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. REALIZAÇÃO DE CIRURGIA OCULAR. ALEGAÇÃO DE AUSÊNCIA DE PREVISÃO CONTRATUAL. RELAÇÃO CONSUMERISTA. INTERPRETAÇÃO À LUZ DO ART. 51, IV, DO CÓDIGO DE DEFESA DO CONSUMIDOR. INEXISTÊNCIA DE PROVAS DEMONSTRANDO O FORNECIMENTO DE PRODUTOS SIMILAR. PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA. DIREITO À VIDA E À SAÚDE. GARANTIA CONSTITUCIONAL. APLICAÇÃO DA LEI Nº 9.656/98. POSSIBILIDADE. DANO MORAL. COMPROVAÇÃO. DEVER DE INDENIZAR. QUANTUM ARBITRADO EM PRIMEIRO GRAU. PROPORCIONALIDADE OBSERVADA. DESNECESSIDADE DE ADEQUAÇÃO. MANUTENÇÃO DO DECISUM. DESPROVIMENTO.
+- O reconhecimento da fundamentalidade do princípio constitucional da dignidade da pessoa humana impõe uma nova postura dos operadores do direito que devem, na aplicação das normas, assegurada a vida humana de forma integral e prioritária.
+- A teor das particularidades das relações contratuais de consumo, as avenças havidas entre fornecedor de serviço e consumidor não podem ser analisadas a partir do vetusto princípio do pacta sunt servanda, sendo de rigor a aplicação da boa-fé e da função social dos contratos, merecendo a pecha da nulidade absoluta a cláusula instituidora de obrigações abusivas a parte hipossuficiente.
+- É pacífico o entendimento do Superior Tribunal de Justiça no sentido de ser "abusiva a cláusula restritiva de direitos que exclui do plano de saúde o custeio de prótese em procedimento cirúrgico coberto pelo plano e necessária ao pleno restabelecimento da saúde do segurado, sendo indiferente, para tanto, se referido material é ou não importado" (Recurso Especial nº 1.046.355/RJ, Relator o Ministro Massami Uyeda, DJe de 5/8/2008). Incidência da Súmula 83/STJ.
+- A indenização por dano moral deve ser fixada com prudência, segundo o princípio da razoabilidade e de acordo com os critérios apontados pela doutrina, a fim de que não se converta em fonte de enriquecimento indevido.
+Opostos embargos de declaração (fls. 257/264, e-STJ), esses foram rejeitados (fls. 269/274, e-STJ).
+Em suas razões de recurso especial (fls. 278/286, e-STJ), a recorrente aponta violação ao artigo 489, § 1º, III, do CPC/15, ao argumento de que o acórdão recorrido, por não ter enfrentado a tese de que o procedimento solicitado não consta do rol da ANS, padece de nulidade, na medida em que contraditório e omisso, já que se sustenta em jurisprudência não aplicável ao caso dos autos, o que evidencia deficiência de fundamentação.
+Sem contrarrazões (fl. 291, e-STJ).
+Em juízo prévio de admissibilidade (fls. 299/300, e-STJ), a Corte de origem negou seguimento ao recurso especial, na medida em que o tema - procedimento não estar previsto no rol da ANS - foi efetivamente enfrentado por ocasião do julgamento da apelação.
+Inconformada, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 305/308, e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 317/321, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Efetivamente, não se verifica ofensa aos arts. 489, § 1º, III, do CPC/15, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018; AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018; AgInt nos EDcl no REsp 1647017/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 02/04/2018 .
+Alegou a parte recorrente que o acórdão impugnado, por não ter enfrentado a tese de que o procedimento solicitado não consta do rol da ANS, padece de nulidade, na medida em que contraditório e omisso, já que se sustenta em jurisprudência não aplicável ao caso dos autos, o que evidencia deficiência de fundamentação.
+No entanto, o Tribunal de origem se manifestou expressamente sobre a referida questão, consignando que (fls. 248/251, e-STJ):
+Em que pese a alegação da apelante de não cobertura da colocação do procedimento cirúrgico chamado de Crosslinking do Colágeno Corneano, tal fato não afasta a obrigação de custeio, pois sequer demonstrou que tratamento equivalente ao problema de saúde vivenciado pelo autor da demanda. Logo, revela-se descabida a negativa de cobertura de materiais eleitos elo médico como essenciais para o sucesso das intervenções cirúrgicas pelo plano de saúde.
+ ..
+Da leitura dos julgados acima, vê-se que é pacífico o entendimento no sentido de que o plano de saúde não pode se recusar a custear o fornecimento de material para a cirurgia quando coberta pelo contrato a patologia diagnosticada no beneficiário do plano. E isso ocorre mesmo quando se tratar de material importado, pois cabe ao médico definir qual é o melhor tratamento para o segurado.
+Como visto, a tese da insurgente foi apreciada pelo Tribunal a quo, ainda que em sentido contrário a sua pretensão recursal.
+Não há que se falar, portanto, em qualquer vício, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado. Afasta-se, portanto, a alegada violação aos artigos 489, § 1º, III, do CPC/15.
+2. Apenas a título de esclarecimentos, cumpre ressaltar que, no mérito - procedimento não previsto no rol da ANS -, a pretensão da recorrente não encontra guarida na jurisprudência desta Corte Superior, que se posiciona no sentido de que, estando a patologia coberta pelo plano, mostra-se abusiva a negativa de cobertura, ao argumento de que o procedimento não consta do supracitado rol.
+Neste sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. EXCLUSÃO DE COBERTURA DE PROCEDIMENTO MÉDICO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+ ..
+3. O plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para sua realização de acordo com o proposto pelo médico. O fato do procedimento não constar do rol da ANS não afasta o dever de cobertura do plano de saúde, tendo em vista que se trata de rol meramente exemplificativo.
+4. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+5. Agravo interno no recurso especial desprovido.
+(AgInt no AREsp 1345913/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/02/2019, DJe 27/02/2019)  grifou-se
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
