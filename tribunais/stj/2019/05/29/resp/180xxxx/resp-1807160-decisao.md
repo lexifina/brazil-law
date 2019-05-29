@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e OUTROS, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO PREVIDÊNCIA PRIVADA AÇÃO REVISIONAL DE SUPLEMENTAÇÃO DE APOSENTADORIA ILEGITIMIDADE PASSIVA DA PATROCINADORA Relação contratual mantida entre a entidade de previdência privada administradora do plano de benefícios e o participante não se confunde com a relação trabalhista que este mantém ou manteve com a patrocinadora INTERESSE DE AGIR Legítimo interesse dos autores em discutir os termos de sua contratação com a entidade de previdência privada PRESCRIÇÃO Não consumada Tratando-se de revisão de suplementação mensal, a prescrição atinge somente os benefícios pagos há mais de cinco anos (Súmula 291/STJ) Pedido de suplementação de sua aposentadoria, visando à aplicação ao benefício do reajuste incidente à Remuneração Mínima por Nível e [NOME] que não constitui programa de reajuste automático de salários, mas valor mínimo que pode ser pretendido pelo empregado de acordo com a região em que atua, o nível salarial de seu cargo ou função e o regime de trabalho ao qual está submetido Índice que não aproveita a todos os empregados indistintamente, motivo pelo qual não pode ser considerado como reajuste geral da categoria a ser estendido aos inativos Benefícios dos autores que deve ser corrigido de acordo com as previsões do regulamento Negado provimento" (fl. 778 e-STJ).
+Os recorrentes sustentam, além de dissídio jurisprudencial, violação dos arts. 6º DA Lei Complementar nº 108/2001, 41, § 2º, da Lei Complementar nº 109/2001, 41 e 60 do Regulamento Petros e 121 do Código Civil. AlegaM:
+(i) legitimidade passiva da Petrobrás, patrocinadora da Fundação Petros, ocorrência de solidariedade passiva;
+(ii) que possuem o direito de receber os reajustes iguais aos dos funcionários na ativa, sendo devida a incidência do [NOME] - Remuneração Mínima por Nível de Regime.
+Recurso respondido e admitido.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+Inicialmente, no tocante à ilegitimidade da Petrobrás, cumpre salientar que a Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp nº 1.370.191/RJ, submetido ao rito do art. 1.036 do Código de Processo Civil de 2015, firmou a tese de que "o patrocinador não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário" (grifou-se).
+A propósito:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. REVISÃO DE BENEFÍCIO. ILEGITIMIDADE. ENTIDADE PATROCINADORA. TESE DE REPETITIVO.
+1. Argumentação trazida somente no agravo interno configura inadmissível inovação recursal.
+2. O patrocinador não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma. (REsp 1370191/RJ, de minha relatoria, SEGUNDA SEÇÃO, julgado em 13/06/2018, DJe 01/08/2018) 3. Agravo interno não provido" (AgInt no AREsp 1.288.961/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/9/2018, DJe 21/9/2018).
+No mais, a Segunda Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial n.º 1.425.326/RS, da Relatoria do Min. Luis Felipe Salomão, processado sob o rito do art. 543-C do Código de Processo Civil/73, consolidou o entendimento acerca da impossibilidade de incorporação de abonos e vantagens concedidos aos funcionários em atividade aos proventos de complementação de aposentadoria em manutenção pagos por entidade de previdência privada.
+Destaca-se, ainda, que a jurisprudência do Superior Tribunal de Justiça entende que no regime de previdência privada não se admite a concessão de benefício algum, sem a formação da prévia fonte de custeio, de forma a evitar o desequilíbrio atuarial dos planos de benefícios.
+Nesse sentido:
+"AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REMUNERAÇÃO MÍNIMA POR NÍVEL E REGIME - [NOME]. CONCESSÃO AOS EMPREGADOS ATIVOS. CONVENÇÃO COLETIVA DE TRABALHO. EXTENSÃO AOS PROVENTOS COMPLEMENTARES. IMPOSSIBILIDADE. FONTE DE CUSTEIO. AUSÊNCIA.
+1. No regime de previdência privada, não se admite a concessão de benefício algum, sem a formação da prévia fonte de custeio, de forma a evitar o desequilíbrio atuarial dos planos de benefícios. Precedentes da Segunda Seção.
+3. É inviável a extensão aos proventos de complementação de aposentadoria da verba denominada Remuneração Mínima por Nível e Regime - [NOME], concedida aos empregados em atividade no patrocinador da entidade fechada de previdência privada, por ausência de prévia formação da reserva matemática.
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 1.017.916/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/3/2019, DJe 28/3/2019).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
