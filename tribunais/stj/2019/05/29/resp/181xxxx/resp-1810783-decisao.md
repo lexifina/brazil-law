@@ -1,0 +1,27 @@
+EMENTA
+RECURSO ESPECIAL. APLICAÇÃO DA MULTA POR LITIGÂNCIA DE MÁ-FÉ. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL IMPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por Banco Bradesco S.A., com fundamento no art. 105, III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal do Estado de Rondônia assim ementado (e-STJ, fl. 45):
+Agravo de instrumento. Multa por litigância de má-fé. Cabimento.
+Nas razões do recurso especial, o recorrente alega ofensa ao art. 80, VI do NCPC. Sustenta que todos os pedidos de desarquivamento, que constam dos autos, foram motivados por situações alheias à sua vontade e que não caberia a aplicação de multa por litigância de má-fé ao caso concreto.
+Não foram apresentadas contrarrazões (e-STJ, fl. 68).
+Juízo de admissibilidade positivo (e-STJ, fl. 70).
+Brevemente relatado, decido.
+O Tribunal estadual deixou assente que não havia razão para o recorrente provocar o Judiciário inúmeras vezes sem interesse comprovado, sendo cabível a multa por litigância de má-fé aplicada.
+A decisão foi assim fundamentada (e-STJ, fls. 42-45):
+Em juízo de cognição sumária, os requisitos autorizadores à concessão do efeito vindicado não foram preenchidos, dada a ausência de perigo de irreversibilidade da tutela, caso o processo tenha prosseguimento em seu curso.
+Isso porque ficou demonstrado que, em todas as cinco solicitações de desarquivamento feitas pelo agravante, foi comprovada a transferência do valor, legitimando a aplicação da multa por litigância de má-fé como já havia sido advertido.
+A propósito, o agravante após insistir na solicitação de desarquivamento dos autos e transferência dos valores que já havia sido realizada, foi advertido de que seria aplicada multa caso novo incidente fosse provocado.
+(..)
+Com a transcrição da decisão agravada, não é difícil compreender os motivos que levaram a magistrada a aplicar a multa por litigância de má-fé. Isso porque o saldo remanescente da conta judicial para a conta de titularidade do banco havia sido transferido em 2013, não havendo razão para provocar o judiciário inúmeras vezes, mesmo após tendo sido advertido de que lhe seria aplicada multa, caso fosse provocado novo incidente infundado.
+Por fim, o percentual aplicado, 9% sobre o valor da causa, no meu sentir, está dentro dos parâmetros da razoabilidade e proporcionalidade, mormente porque ficou demonstrado que, em todas as cinco solicitações de desarquivamento feitas pelo agravante, foi comprovada a transferência do valor.
+Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal quanto à aplicação da multa por litigância de má-fé, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em razão da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C DESPEJO C/C COBRANÇA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. 1. Ação declaratória c/c despejo c/c cobrança de alugueis e acessórios. 2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial. 3. Alterar o decidido no acórdão impugnado, no que se refere à não ocorrência de cerceamento de defesa (em razão do indeferimento de produção de provas inúteis à solução da controvérsia e da suficiência das provas constantes nos autos), à aplicação da multa contratual (tendo em vista o descumprimento pelo agravante do que fora pactuado), bem como ao reconhecimento de litigância de má-fé do agravante, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ. 4. Agravo interno não provido.
+(AgInt no AREsp n. 1.388.000/MS. Relatora Ministra Nancy Andrighi, Terceira Turma, DJe 15/5/2019).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO C/C DANOS MATERIAIS E MORAIS. EMPRÉSTIMO CONSIGNADO. COMPROVAÇÃO DO RECEBIMENTO DOS VALORES EM BENEFÍCIO DA PARTE. LITIGÂNCIA DE MÁ-FÉ. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.377.310/MS. Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 3/5/2019).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO, REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. LITIGÂNCIA DE MÁ-FÉ. MULTA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ). 2. Não há como afastar a incidência da Súmula nº 7/STJ para excluir a imposição de multa por litigância de má-fé quando tal providência demandar o reexame do contexto fático-probatório, como se verifica no caso dos autos. 3. Agravo interno não provido.
+(AgInt no AREsp n. 1.377.706/MS. Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 24/4/2019).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
