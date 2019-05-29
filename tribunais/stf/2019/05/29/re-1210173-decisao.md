@@ -1,0 +1,23 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “ACIDENTE DO TRABALHO - EMBARGOS À EXECUÇÃO - APELO DA AUTARQUIA - NÃO RECOLHIMENTO DO PORTE DE REMESSA E DE RETORNO - DESERÇÃO CARACTERIZADA - RECURSO ADESIVO - MESMO DESTINO DO PRINCIPAL - EXEGESE DO ART. 500, III DO CPC
+    Ausência de recolhimento de porte de remessa e de retorno dos autos configura deserção. Inteligência do artigo 511, capuz, do Código de Processo Civil. Exegese da Lei Estadual 11.608/2003.
+    O art. 500, inciso III do CPC dispõe que o recurso adesivo não será conhecido se o principal for declarado deserto.
+    Recursos não conhecidos” (pág. 10 do documento eletrônico 2).
+    Neste RE, interposto com base no art. 102, III, a e d, da Constituição Federal, alega-se, em suma, violação dos arts. 5°, XXXV e LV; e 93, IX, da mesma Carta.
+    Antes da remessa dos autos a esta Corte, a Presidência da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo, com base no julgamento do RE 594.116/SP (Tema 135 da Repercussão Geral) pelo Supremo Tribunal Federal, devolveu o processo ao órgão prolator do acórdão impugnado para o juízo de adequação, nos termos do art. 1.040, II, do Código de Processo Civil. Todavia, o referido órgão manteve o seu entendimento em acórdão assim ementado:
+    “ACIDENTE DO TRABALHO - EMBARGOS À EXECUÇÃO - APELO AUTÁRQUICO NÃO CONHECIDO - NÃO RECOLHIMENTO DO PORTE DE REMESSA E DE RETORNO - DESERÇÃO CARACTERIZADA - REEXAME DA MATÉRIA - ART.1040, II, DO CPC/15 - DECISÃO MANTIDA ” (pág. 99 do documento eletrônico 2).
+    Assim, como o órgão julgador se recusou a retratar-se, o recurso extraordinário foi admitido e remetido a este Tribunal, consoante o art. 1.041, caput, do CPC.
+    A pretensão recursal merece acolhida.
+    Esta Corte, ao julgar o RE 594.116-RG/SP (Tema 135), de relatoria do Ministro Edson Fachin, reconheceu a repercussão geral do tema em exame e assentou que a despesa com porte de remessa e retorno não se enquadra no conceito de taxa judiciária, uma vez que as custas dos serviços forenses se dividem em taxa judiciária e custas em sentido estrito, remunerado mediante tarifas ou preço público. Na ocasião, foi firmada a tese de que se aplica o § 1° do art. 511 do Código de Processo Civil para dispensa de porte de remessa e retorno ao exonerar o seu respectivo recolhimento por parte do INSS. O acórdão do referido precedente foi assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. DIREITO PROCESSUAL CIVIL. TAXA JUDICIÁRIA. PREPARO RECURSAL. PORTE DE REMESSA E RETORNO. ISENÇÃO. INSS. JUSTIÇA ESTADUAL.
+    1. A despesa com porte de remessa e retorno não se enquadra no conceito de taxa judiciária, uma vez que as custas dos serviços forenses se dividem em taxa judiciária e custas em sentido estrito. Precedente: AI-ED 309.883, de relatoria do Ministro Moreira Alves, Primeira Turma, DJ 14.06.2002.
+    2. O porte de remessa e retorno é típica despesa de um serviço postal, prestado por empresa pública monopolística e, assim, remunerado mediante tarifas ou preço público. Precedente: AI-QO 351.360, de relatoria do Ministro Sepúlveda Pertence, Primeira Turma, DJ 07.06.2002.
+    3. O art. 511 do Código de Processo Civil dispensa o recolhimento dessa despesa processual por parte do INSS, pois se trata de norma válida editada pela União, a quem compete dispor sobre as receitas públicas oriundas da prestação do serviço público postal.
+    4. A lei estadual, ora impugnada, apenas reproduziu o entendimento esposado no próprio CPC de que as despesas com o porte de remessa e retorno não se incluem no gênero taxa judiciária, de modo que não há vício de inconstitucionalidade no particular.
+    5. Verifica-se que o art. 2º, parágrafo único, II, in fine, da Lei paulista 11.608/2003, é inconstitucional, uma vez que o Conselho Superior da Magistratura, como órgão de nível estadual, não possui competência para tratar das despesas com o porte de remessa e retorno. Declaração incidental de inconstitucionalidade da expressão cujo valor será estabelecido por ato do Conselho Superior da Magistratura.
+    6. Recurso extraordinário a que se dá provimento, para cassar o acórdão recorrido e determinar o processamento da apelação no Tribunal de origem”.
+    Isso posto, dou provimento ao recurso (art. 21, § 1°, do RISTF) para, cassando-se o acórdão recorrido, determinar o retorno dos autos à origem a fim de que se proceda a novo julgamento do recurso de apelação, aplicando-se, ao caso, a diretriz fixada no julgamento do RE 594.116 RG/SP (Tema 135).
+    Publique-se.
+    Brasília, 29 de maio de 2019.
+Ministro Ricardo Lewandowski
+Relator
