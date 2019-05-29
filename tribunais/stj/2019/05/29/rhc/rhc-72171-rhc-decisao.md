@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.16.011964-0/000).
+Depreende-se dos autos que o recorrente foi preso cautelarmente e pronunciado pela prática da conduta descrita no art. 121, § 2º, I, do Código Penal.
+O recorrente foi internado para a realização de procedimento cirúrgico, que foi efetivado em 26 de janeiro de 2016.
+Recebida a alta médica, o réu foi recambiado ao presídio.
+Contra esse ato insurgiu-se a defesa.
+No entanto, em sessão de julgamento realizada em 31 de março de 2016, a Sétima Câmara Criminal denegou a ordem de habeas corpus.
+No Superior Tribunal de Justiça, sustenta o recorrente que o estabelecimento prisional não possui condições necessárias ao seu tratamento médico. Esclarece, outrossim, que se encontra em cela comum, situação que desrespeita determinação do Tribunal de Justiça no sentido de que permanecesse acautelado em cela apartada dos presos definitivos.
+Liminar indeferida às e-STJ fls. 168/169.
+Os embargos de declaração opostos pelo recorrente foram rejeitados (e-STJ fls. 313/315).
+Informações prestadas às e-STJ fls. 176/178 e 180/299.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso às e-STJ fls. 302/304.
+Informações atualizadas prestadas às e-STJ fls. 328/381.
+Decisão proferida às e-STJ fls. 384/385 julgando prejudicado o recurso ordinário em habeas corpus.
+Irresignado, o recorrente interpôs agravo regimental (e-STJ fls. 389/398), sustentando que não há prejudicialidade do recurso ordinário sob o argumento de que "a matéria objeto do presente recurso não se confunde com seu atual estado de saúde. Como sobejamente demonstrado no recurso ordinário em habeas corpus aviado, o Estado de Minas Gerais não possui, nos termos do quanto já decidido por este Colendo STJ, as celas especiais de que fala o art. 295, VII, do CPP" (e-STJ fl. 394), porquanto o agravante é portador de dois cursos superiores e o presídio não dispõe de celas especiais.
+Às e-STJ fls. 403/406 sobreveio decisão que não conheceu do agravo regimental por entender que a alegação de que o estabelecimento prisional não possui celas especiais não foi apreciada pela instância a quo, o que configura supressão de instância, bem como por entender que não mais interesse processual quanto ao pedido de prisão domiciliar.
+Contra o decisum foi manejado novo agravo regimental, no qual a defesa sustenta "que não há que se falar em supressão da instância ordinária, uma vez que o reconhecimento da inexistência de cela especial no complexo penitenciário [NOME] foi devidamente fomentado no habeas corpus, em embargos de declaração e, por fim, no recurso ordinário em habeas corpus , no qual se acostou documentos supervenientes e incontestes acerca do tema, cujo exame independe do benefício atualmente usufruído em virtude de seu estado de saúde e, por decorrência lógica, justifica seu interesse processual" (e-STJ fl. 423).
+É, em síntese, o relatório.
+Por meio da petição eletrônica 00258709/2019, protocolizada em 8/5/2019, a defesa noticia "em 19.11.2018, o recorrente foi processado e julgado pelo Tribunal do Júri, sendo condenado à pena privativa de liberdade de 17 (dezessete) anos e 6 (seis) meses de reclusão, com regime de cumprimento inicialmente fechado, nos autos da Ação Penal n. 338.11.006581-4. Na oportunidade, o MM. Juízo sentenciante determinou a imediata execução provisória da pena, encaminhando o recorrente ao Presídio Nelson [NOME]" e que "Contra esta determinação foi impetrado Habeas Corpus de nº 169588/MG perante o Supremo Tribunal Federal, no qual o Eminente Ministro Gilmar Mendes concedeu parcialmente a ordem para substituir a prisão do ora recorrente por prisão domiciliar, se por outro motivo não estiver preso, com monitoramento eletrônico, e, ainda, com a obrigação de comparecimento periódico em juízo para informar e justificar suas atividades, sem prejuízo da adoção de outras medidas cautelares dispostas no Código de Processo Penal (Doc. 01)" (e-STJ fl. 431).
+Tal o contexto, por não substir mais interesse neste feito, julgo prejudicado o agravo regimental de e-STJ fls. 411/424.
+Publique-se. Intimem-se.
