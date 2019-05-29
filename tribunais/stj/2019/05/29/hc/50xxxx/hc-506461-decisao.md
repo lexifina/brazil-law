@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus no qual se sustenta que o parágrafo único do art. 7º do Decreto n. 9.246/17 não veda a comutação da pena aos condenados que obtiveram esse benefício decorrente de decretos anteriores.
+O tema encontra-se pacificado nesta Corte no sentido de que o referido dispositivo veda, expressa e taxativamente, a concessão de comutação a quem já tenha obtido tal benefício por decretos anteriores, conforme se verifica dos seguintes julgados:
+HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO PRESIDENCIAL N.º 9.246/2017. FIXAÇÃO DE REQUISITOS. COMPETÊNCIA PRIVATIVA DO CHEFE DO PODER EXECUTIVO. VEDADO AO MAGISTRADO AMPLIAR OU RESTRINGIR TAIS HIPÓTESES. ART. 4.º, INCISO IV, DO REFERIDO DECRETO. DESCUMPRIMENTO DAS CONDIÇÕES DA PRISÃO DOMICILIAR MEDIANTE MONITORAMENTO ELETRÔNICO. AUSÊNCIA DE PREVISÃO DO PRAZO EM QUE A REFERIDA VIOLAÇÃO DEVA TER OCORRIDO. IMPOSSIBILIDADE DE CONCESSÃO DO BENEFÍCIO. ORDEM DE HABEAS CORPUS DENEGADA.
+1. A jurisprudência desta Corte é no sentido de que "para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República" (HC HC 456.119/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 15/10/2018).
+2. No caso, o Tribunal de origem cassou a decisão que concedeu o indulto ao Paciente por aplicação literal do disposto no art. 4.º, inciso IV, do Decreto n.º 9.246/2017, que não prevê um limite temporal para a vedação do benefício àqueles que tenham descumprido as condições fixadas para a prisão albergue domiciliar, com ou sem monitoração eletrônica.
+3. Ordem de habeas corpus denegada (HC 468.737/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 10/04/2019).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. COMUTAÇÃO DE PENA. DECRETO N. 9.246/2017. AGRAVANTE BENEFICIADO COM DECRETOS ANTERIORES. VEDAÇÃO EXPRESSA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE.
+1. A orientação jurisprudencial desta Corte consolidou-se no sentido de que "o Decreto n. 9.246/2017 veda, expressa e taxativamente, em seu art. 7º, parágrafo único, a concessão da comutação por ele instituída, a quem já tenha sido beneficiado por igual benesse processual decorrente de decretos anteriores" (AgRg no HC n. 466.918/MS, Ministro Nefi Cordeiro, Sexta Turma, DJe 6/11/2018).
+2. Agravo regimental improvido (AgRg no HC 482.113/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 2/4/2019).
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. COMUTAÇÃO DE PENAS. DECRETO N. 9.246/2017. LIVRAMENTO CONDICIONAL. DESCUMPRIMENTO DAS CONDIÇÕES ANTERIORMENTE IMPOSTAS. VEDAÇÃO DA BENESSE. ORDEM NÃO CONHECIDA.
+ ..
+2. O artigo 4º, IV, do Decreto Presidencial n. 9.246/2017 expressamente impede o deferimento da comutação da pena a quem tenha descumprido as condições anteriormente fixadas para o livramento condicional.
+3. Na espécie, o paciente descumpriu as condições do livramento condicional anteriormente deferido, conforme consignado no aresto impugnado, o que impede o deferimento da benesse.
+4. Habeas corpus não conhecido (HC 491.815/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 15/03/2019).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DO WRIT. COMUTAÇÃO DE PENA. DECRETO N. 9.246/2017. AGRAVANTE JÁ BENEFICIADA COM COMUTAÇÃO DECORRENTE DE DECRETO ANTERIOR. VEDAÇÃO EXPRESSA. ACÓRDÃO ALINHADO À JURISPRUDÊNCIA DESTA CORTE. INEVIDÊNCIA DE CONSTRANGIMENTO.
+1. Segundo o entendimento mais recente deste Superior Tribunal, o Decreto n. 9.246/2017 veda, expressa e taxativamente, em seu art. 7º, parágrafo único, a concessão da comutação por ele instituída, a quem já tenha sido beneficiado por igual benesse processual decorrente de decretos anteriores (AgRg no HC n. 466.918/MS, Ministro Nefi Cordeiro, Sexta Turma, DJe 6/11/2018).
+2. Agravo regimental improvido (AgRg no HC 477.726/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 4/2/2019).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO PENAL. COMUTAÇÃO. DECRETO N. 9.246/2015. AGRAVANTE JÁ BENEFICIADO POR COMUTAÇÃO DECORRENTE DE DECRETO ANTERIOR. REQUISITO OBJETIVO NÃO PREENCHIDO. AGRAVO DESPROVIDO.
+ ..
+II - O fato de o paciente ter sido beneficiado por comutação em Decreto anterior inviabiliza o acolhimento da pretensão defensiva, por se confrontar com o regramento previsto no Decreto Presidencial n. 9.246/2017, que, em seu art. 7º, parágrafo único, prevê, de forma expressa, que a comutação será concedida aos sentenciados que não tenham, até 25 de dezembro de 2017, obtido comutações decorrentes de Decretos anteriores. Precedentes.
+III - No caso, o agravante foi beneficiado com comutação pelo Decreto 8.615/2015, o que inviabiliza a concessão do benefício.
+Agravo regimental desprovido (AgRg no HC 466.863/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 5/12/2018).
+Ante o exposto, tendo em vista que o pedido da impetrante confronta a jurisprudência consolidada desta Corte, não conheço do habeas corpus, com fundamento no art. 34, XX, do Regimento Interno.
+Publique-se.
+Intimações necessárias.
