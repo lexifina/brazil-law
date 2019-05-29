@@ -1,0 +1,65 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO. INADIMPLEMENTO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. DISPOSITIVO DE LEI FEDERAL. AUSÊNCIA DE INDICAÇÃO. SÚMULA Nº 284/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola o artigo 1.022 do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação expressa e suficiente para a resolução da causa, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta.
+3. Não havendo nas razões de recurso especial indicação precisa de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal.
+4. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de agravo interno interposto por WONDERFOOL LANCHONETE LTDA. - EPP - e OUTROS contra a decisão desta relatoria que conheceu do agravo para não conhecer do recurso especial (fls. 284/288 e-STJ), integrada pela decisão de fls. 315/319 e-STJ, proferida nos embargos de declaração.
+Naquela oportunidade, concluiu-se que incidentes as Súmulas nº 7/STJ e nº 284/STF e que não houve contrariedade aos arts. 489 e 1.022 do Código de Processo Civil de 2015.
+Em suas razões (fls. 322/330 e-STJ), os agravantes insistem na alegação de negativa de prestação jurisdicional e afirmam que inaplicáveis as Súmulas nº 284/STF e nº 7/STJ.
+Sustentam que
+"(..) todos os dispositivos foram destacados, quais sejam art. 520 e seguintes, sendo exatamente desta forma que fundamentou o agravado seu pedido de cumprimento de sentença, ou seja, de forma genérica, sem o correto apontado do dispositivo legal, o que mostra-se indevido uma porque também é genérico e, duas porque foi com base no CPC/2015, quando deveria ser com base no CPC/1973 em razão da data da prolação da sentença que foi proferida sob a égide do antigo CPC/1973.
+Também indicou o agravante a violação ao art. 523, § 1º, que se refere a aplicação de multa e ainda a impossibilidade de o agravado requerer honorários advocatício com fundamento no NCPC/2015" (fl. 329 e-STJ).
+Ao final, requerem a reconsideração da decisão atacada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO. INADIMPLEMENTO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. DISPOSITIVO DE LEI FEDERAL. AUSÊNCIA DE INDICAÇÃO. SÚMULA Nº 284/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola o artigo 1.022 do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação expressa e suficiente para a resolução da causa, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta.
+3. Não havendo nas razões de recurso especial indicação precisa de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal.
+4. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator):
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ.
+A irresignação não merece prosperar.
+Trata-se, na origem, de discussão acerca da aplicabilidade das normas do Código de Processo Civil de 2015 no julgamento da ação de despejo por inadimplemento conjugada com cobrança, em fase de cumprimento de sentença, ajuizada por Oliva PS Administração de Bens Ltda. contra Wonderfool Lanchonete Ltda. e outros, ora agravantes.
+Conforme salientado na decisão atacada, no que tange à apontada ofensa aos arts. 489 e 1.022 do CPC/2015, o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO DO ATO DE APOSENTADORIA. PRESCRIÇÃO DO FUNDO DE DIREITO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/15. NÃO CARACTERIZADA. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. MATÉRIA INSUSCETÍVEL DE EXAME NA VIA ESPECIAL. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022 do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..)
+5. Agravo interno a que se nega provimento" (AgInt no REsp 1.654.518/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/6/2017, DJe 22/6/2017- grifou-se).
+Quanto ao mais, a decisão explicou com clareza que a não indicação precisa, nas razões do recurso especial, do dispositivo supostamente violado atrai o óbice da Súmula nº 284/STF, citando a jurisprudência nesse sentido:
+"PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. DISCUSSÃO ACERCA DO ALCANCE E LIMITES DA COISA JULGADA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF" (AgRg no REsp 919239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007).
+2. O Tribunal de origem consignou expressamente: "Verifico, no caso, a existência de coisa julgada, o que impede seja acolhido o pedido de repetição dos valores retidos a título de imposto de renda incidente sobre verbas trabalhistas. Conforme ata de audiência realizada na Justiça do Trabalho, anexada pela própria demandante, restou acordado, com homologação da juíza do trabalho, em relação ao imposto de renda que se busca a restituição, o seguinte (fls. 44 a 67)" (fl. 277, e-STJ).
+3. No presente caso, rever o entendimento da Corte a quo quanto aos limites da coisa julgada implica abrir o reexame do contexto fático-probatório dos autos. Incidência, na hipótese, da Súmula 7 do STJ. Precedentes do STJ.
+4. Recurso Especial não conhecido." (REsp 1.696.752/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2017, DJe 19/12/2017 - grifou-se)
+"ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDÃO ADMINISTRATIVA. PROCURAÇÃO ESPECÍFICA PARA RECONVENÇÃO. EXISTÊNCIA. VALIDADE DO NEGÓCIO JURÍDICO. REEXAME DA PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. ARTIGOS 104, 107, 219, 221, 944 E SEGUINTES DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. INCIDÊNCIA.
+1. Os poderes contidos na cláusula ad judicia implicam na outorga de mandato judicial para o foro em geral, compreendendo, assim, o poder de reconvir. Admissível a reconvenção, uma vez demonstrada a conexidade entre a ação e o pedido reconvencional. Inépcia da inicial da reconvenção afastada em face da admissão pela própria devedora do atraso havido no pagamento das prestações. Precedente: RESP n. 83752, Relator Ministro Barros Monteiro, DJ de 13.8.2001.
+2. No tocante à validade do negócio jurídico, a Corte de origem entendeu que, diante das provas coligidas aos autos, os atos jurídicos não foram firmados com a observância da autonomia da vontade das partes subscritoras. A análise da pretensão recursal, com a conseqüente reversão do entendimento do acórdão recorrido, exige, necessariamente, o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula n. 7 desta Corte Superior.
+3. Ademais, não se pode conhecer da violação aos arts. 104, 107, 219, 221 do CPC, pois as alegações que fundamentaram a pretensa ofensa são genéricas, sem discriminação precisa de como tais dispositivos foram violados. Incide, no caso, a Súmula n. 284 do Supremo Tribunal Federal, por analogia. O mesmo enunciado sumular se aplica à alegada violação dos artigos 944 e seguintes do CC, uma vez que não houve especificação ou fundamentação suficiente à comprovação de que os referidos dispositivos legais teriam sido violados.
+4. Recurso especial parcialmente conhecido e, nessa extensão, não provido."
+(REsp 975.680/PA, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/12/2010, DJe 03/02/2011 - grifou-se)
+"AGRAVO REGIMENTAL. INCIDÊNCIA DAS SÚMULAS NºS 287-STF E 7-STJ.
+- A expressão "e seguintes" após a indicação dos artigos tidos por afrontadas não é suficiente para o processamento deste apelo nobre, devendo a impugnação vir especificada.
+- Recurso deficiente quanto à sua fundamentação, não sendo possível a exata compreensão da controvérsia. Incidência da Súmula nº 287/STF.
+- Acórdão recorrido fundado em elementos fáticos que não podem ser revistos na estreita via do recurso especial. Incidência da Súmula nº 7 desta Corte.
+Agravo improvido."
+(AgRg no Ag 388.239/SP, Rel. Ministro BARROS MONTEIRO, QUARTA TURMA, julgado em 18/02/2003, DJ 07/04/2003 - grifou-se)
+"RECURSO ESPECIAL. ISS. ALEGATIVA DE VIOLAÇÃO AOS ARTIGOS 130 E 535 E SEGUINTES DO CPC E ARTIGOS 151, III, 174, 201 e 204, DO CTN, ARTIGOS 11, 12, "A" E "B" E 9º, §§ 1º E 3º, DO DECRETO- LEI 406/68. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO FUNDADO NOS FATOS CIRCUNSTANCIADOS DA LIDE. RECURSO ESPECIAL CONHECIDO APENAS QUANTO À ALUDIDA VULNERAÇÃO AO ARTIGO 151, III, DO CTN E QUANTO À MULTA DE QUE TRATA O PARÁGRAFO ÚNICO, DO ARTIGO 538, DO CPC E PROVIDO TÃO SÓ PARA RELEVAR A MULTA DE 1% APLICADA À RECORRENTE.
+1. Não se conhece de Recurso Especial quando os dispositivos legais que se entende por violados não foram debatidos pelo decisório impugnado. No caso, os artigos 130, 535, do CPC e 174, 201 e 204 do CTN não foram resolvidos pelo Aresto combatido. Por sua vez a expressão "e seguintes" utilizada pela parte em seqüência ao artigo 535, não serve para individuar e caracterizar os preceitos legais acusados configurando-se, destarte a deficiência de fundamentação recursal. Incidem, portanto, as Súmulas 282, 356 e 284, todas do colendo STF.
+2. No que diz respeito aos artigos 11, 12, "a" e "b" e 9º, §§ 1º e 3º, todos do Decreto-lei 406/68, o Aresto ao aplicá-los, tomou em consideração os fatos circunstanciados dos autos, de maneira que a investigação de sua suposta infringência, acarretaria necessariamente o reexame de matéria fática impossível na Instância Especial conforme verbete da Súmula 7/STJ.
+3. Inocorreu violação ao artigo 151, III, do CTN, tendo o decisum reclamado dado-lhe correta aplicação consoante a linha de entendimento deste Sodalício.
+4. Deve ser relevada a multa de 1%, de que trata o artigo 538, parágrafo único do CPC, posto que não devem ser considerados como protelatórios Embargos de Declaração interpostos de sentença monocrática, mormente quando se sabe que a parte ainda dispunha do direito à Apelação."
+(REsp 249.442/SP, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 15/08/2000, DJ 18/09/2000 - grifou-se)
+Registra-se, ainda, que rever as conclusões do acórdão, a fim de aferir a ofensa ao direito líquido e certo da executada, demandaria o reexame de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
