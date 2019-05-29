@@ -1,0 +1,26 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. RESCISÃO DO CONTRATO DE COMPRA E VENDA DE IMÓVEL SEM CULPA DA PROMITENTE VENDEDORA. JUROS MORATÓRIOS. TERMO INICIAL - DATA DO TRANSITO EM JULGADO DA DECISÃO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Cuida-se de recurso especial interposto por Beta 22 Incorporação SPE Ltda. contra o acórdão de fls. 216-224 (e-STJ), proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação Cível. Ação de resolução contratual c/c restituição de valores - promessa de compra e venda. Procedência parcial do pedido. Inconformismo por parte da ré. Acolhimento parcial. Juros de mora que devem incidir a partir da publicação da sentença  a partir deste momento, em que há decisão judicial resolvendo o contrato celebrado entre as partes e condenando a fornecedora a restituir ao consumidor percentual do valor por ele pago, surge obrigação líquida e certa, de modo que, a partir desta data é devida a incidência de juros de mora. Sucumbência recíproca  aplicação do artigo 86, caput, do CPC. Percentual fixado a título de honorários advocatícios a serem pagos pelos autores ao patrono da ré deve incidir sobre o valor correspondente ao decaimento do pedido (comissão de corretagem  20% dos valores pagos). Sentença parcialmente reformada. Recurso de apelação parcialmente provido.
+Nas razões do recurso especial (e-STJ, fls. 227-244), aponta a insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 394, 396 e 405 do Código Civil; e 240 do Código de Processo Civil de 2015. Sustenta, em síntese, que, na ação de resolução de contrato de compra e venda de imóvel, sem culpa da promitente vendedora, os juros de mora incidem a partir do trânsito em julgado da decisão.
+Sem contrarrazões (e-STJ, fl. 262).
+Admitido o processamento do recurso na origem (e-STJ, fls. 263-264), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+De fato, a jurisprudência desta Corte é no sentido de que os juros de mora incidem a partir do trânsito em julgado da decisão, no caso de resolução do contrato de compra e venda de imóvel sem culpa da promitente vendedora.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES. COMPRA E VENDA DE IMÓVEL. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO DA DECISÃO. INOVAÇÃO RECURSAL. INVIABILIDADE. PREQUESTIONAMENTO.
+AUSÊNCIA. SÚMULA Nº 282/STF. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O acórdão recorrido decidiu em sintonia com a jurisprudência do Superior Tribunal de Justiça no sentido de que, em caso de rescisão do contrato de compromisso de compra e venda de imóvel por desistência dos adquirentes, na qual os autores pretendem a restituição das parcelas pagas de maneira diversa da cláusula penal pactuada, o termo inicial dos juros moratórios é o trânsito em julgado da decisão condenatória. Precedentes. 3. É inviável a análise de tese não suscitada nas razões do recurso especial por se tratar de evidente inovação recursal. 4. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal. 5. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento. Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp 1296227/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/12/2018, DJe 14/12/2018);
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. COMPRA E VENDA DE IMÓVEL. RESCISÃO DE CONTRATO POR INICIATIVA DO PROMITENTE COMPRADOR. JUROS MORATÓRIOS. TERMO INICIAL. TRÂNSITO EM JULGADO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+(AgInt no REsp 1717920/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 03/12/2018, DJe 07/12/2018);
+AGRAVO REGIMENTAL. RECURSO ESPECIAL PROVIDO EM PARTE. EQUÍVOCO NO DISPOSITIVO. CORRETA FIXAÇÃO DO ÍNDICE DE CORREÇÃO MONETÁRIA. CONTRATO DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. UTILIZAÇÃO DE ÍNDICES DIFERENCIADOS. JUROS DE MORA. CONSECTÁRIOS. TERMO A QUO. TRÂNSITO EM JULGADO.
+1. No caso de rescisão de contrato de compra e venda de imóvel em construção, o índice de atualização monetária para corrigir as parcelas a serem devolvidas pela vendedora é o INCC, por estar vinculado ao contrato; após o ajuizamento da ação, o INPC.
+ 2. Na hipótese em que a rescisão contratual ocorre por iniciativa da promitente vendedora, em razão do inadimplemento das parcelas pactuadas pelo comprador, o termo inicial dos juros de mora é a data do trânsito em julgado, pois inexiste mora anterior.
+3. Agravo regimental provido em parte.
+(AgRg no REsp 1151282/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/08/2013, DJe 29/08/2013).
+Dessa forma, a decisão recorrida não refletiu o entendimento deste Tribunal, motivo pelo qual merece reforma.
+Diante do exposto, dou provimento ao recurso especial para fixar o termo inicial dos juros moratórios a partir da data do trânsito em julgado da decisão.
+Publique-se.
