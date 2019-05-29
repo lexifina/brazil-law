@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por OI S/A ao despacho de fls. 718.
+Sustenta a parte embargante que:
+5. No entanto, insta salientar que o presente recurso foi recebido sem qualquer objeção pela 1ª Vice-Presidência do Estado do Paraná e devidamente apreciado, inclusive, o recurso restou admitido por aquele e. Tribunal. Além disso, é certo que o recolhimento do preparo recurso especial em nenhum momento foi contestado pelos recorridos, ora embargados, logo, é evidente que o ato processual cumpriu a sua finalidade sem nenhum prejuízo as partes.
+6. Ressalta-se, ainda, que, antes de sua admissão, o o recurso especial ficou sobrestado durante quase 4 (quatro) anos e que, em 2015, momento da interposição e recolhimento do preparo do recurso especial, a embargante acostou as guias de recolhimento legíveis referentes ao preparo recursal, conforme os documentos ora acostados (doc. 2). Dessa forma, devido a esse grande lapso temporal, no momento em que o processo foi digitalizado, algumas folhas e, inclusive, os comprovantes de recolhimento do preparo, ficaram prejudicados.
+7. Assim, ao decidir pela não regularidade no preparo do presente recurso, este i. Ministro Presidente incorreu em manifesta omissão, pois deixou de observar que, à época da interposição e recolhimento do preparo do recurso especial, foram acostados os comprovantes legíveis referentes ao preparo recursal (doc. 2). E mesmo que assim não fosse, em que pese o recurso ter sido interposto na vigência do Código de Processo Civil de 1973, a embargante deveria ter sido intimada para comprovar o recolhimento do preparo do recurso, em atenção ao disposto no art. 1.007 do CPC/15 (fl. 722).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que se trata de um mero despacho oportunizando a regularização do vício pela parte, ou seja, não se está discutindo a ratio de inadmissão, razão pela qual descabida essa análise em sede de embargos, não tendo, sequer, decisão sobre o recurso ainda.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Após, retornem-me os autos conclusos para julgamento do recurso.
+Publique-se. Intimem-se.
