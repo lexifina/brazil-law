@@ -1,0 +1,44 @@
+EMENTA
+PREVIDENCIÁRIO. RECURSO ESPECIAL. AUXILIO-ACIDENTE. TERMO INICIAL DO BENEFÍCIO. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. DATA DA CITAÇÃO. PRECEDENTES. RECURSO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TJ/SP, assim ementado (fl. 224-225):
+Recurso de apelação interposto pelo INSS conhecido nos termos do art. 1007, par. 1º do CPC/2015.
+Recurso de apelação interposto pelo obreiro conhecido. Presença dos requisitos legais.
+Reexame necessário conhecido.
+Sentença ilíquida proferida contra o INSS. Súmula nº 423, do Supremo Tribunal Federal e Súmula nº 490, do Superior Tribunal de Justiça.
+Inteligência do art. 496, I do Código de Processo Civil CPC/2015.
+Acidentária. Motorista de Empilhadeira.
+Problemas na coluna e membros superiores (ombro esquerdo) e inferiores (joelhos). Laudo pericial que comprova a incapacidade parcial e permanente para o trabalho em relação à moléstia da coluna e do ombro esquerdo. Nexo de causalidade caracterizado. Direito ao auxílio-acidente.
+Termo inicial: data da liberação do laudo pericial nos autos digitais (11.06.2015 fl. 137), vedada acumulação com qualquer outro benefício decorrente da mesma moléstia.
+Valores atrasados: (i) deverão ser corrigidos monetariamente a partir do termo inicial pelo IGP-DI (Lei 9.711/98), até a conta de liquidação, a partir de quando deverá incidir o IPCA-E (Resp. 1.102.484/SP, 3ª Seção, Rel. Min. Arnaldo Esteves Lima, j. em 22.04.2009, DJ de 20.05.2009), e ainda no que couber, a decisão da ADI 4357 pelo STF; e, (ii) juros de mora são devidos a partir do termo inicial, de modo decrescente, mês a mês, observando- se a Lei 11.960/09, art. 5º.
+Honorários advocatícios fixados nos termos da Súmula 111 do STJ, no percentual de 15%. Manutenção.
+Recurso voluntários, do autor e do INSS, improvidos.
+Recurso oficial provido em parte.
+Embargos de declaração rejeitados.
+O recorrente sustenta ofensa aos artigos 219 do CPC/1973, bem como o disposto no art. 406 do CC/2002 e arts. 41-A e 86 da Lei n. 8.213/1991 e dissídio jurisprudencial, sob os seguintes argumentos: (a) na ausência de prévia postulação administrativa, a citação deve fixar o início dos benefícios acidentários.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 285-286.
+É o relatório. Passo a decidir.
+A irresignação merece prosperar.
+Verifica-se que a Corte de origem divergiu do entendimento pacificado nesta Corte, segundo o qual na ausência de prévio requerimento administrativo o benefício deve ser concedido a partir da citação, sendo que o laudo pericial serve, tão somente, para nortear o convencimento do Juízo quando à existência do pressuposto da incapacidade para a concessão do benefício. A propósito:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. O TERMO INICIAL DA APOSENTADORIA POR INVALIDEZ CORRESPONDE AO DIA SEGUINTE À CESSAÇÃO DO BENEFÍCIO ANTERIORMENTE CONCEDIDO OU DO PRÉVIO REQUERIMENTO ADMINISTRATIVO. SUBSIDIARIAMENTE, QUANDO AUSENTES AS CONDIÇÕES ANTERIORES, O MARCO INICIAL PARA PAGAMENTO SERÁ A DATA DA CITAÇÃO. NÃO HAVENDO QUE SE FALAR EM FIXAÇÃO DO TERMO INICIAL DO BENEFÍCIO NA DATA DE REALIZAÇÃO DA PERÍCIA. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL DA SEGURADA PROVIDO.
+1. No caso dos autos, o Tribunal de origem fixou o termo inicial da aposentadoria por invalidez na data da realização da segunda perícia (20.9.2010), ao fundamento de que somente neste momento é que se tornou inequívoca a incapacidade total da Segurada, a despeito de a sentença já ter reconhecido à autora o direito à aposentadoria por invalidez.
+2. Tal entendimento destoa da orientação jurisprudencial consolidada por esta Corte afirmando que a comprovação extemporânea de situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do Segurado.
+3. Dessa forma, o laudo pericial apenas norteia o livre convencimento do Juiz e serve tão somente para constatar alguma incapacidade ou mal surgidos anteriormente à propositura da ação, portanto, não serve como parâmetro para fixar termo inicial de aquisição de direitos.
+4. Recurso Especial da Segurada provido para restabelecer o termo inicial do benefício como fixado na sentença (REsp 1559324/SP, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 4/2/2019, grifei).
+PREVIDENCIÁRIO. RECURSO ESPECIAL. BENEFÍCIO PREVIDENCIÁRIO POR INCAPACIDADE. AUXÍLIO-DOENÇA. O LAUDO PERICIAL NÃO PODE SER UTILIZADO PARA FIXAR O MARCO INICIAL DA AQUISIÇÃO DE DIREITO A BENEFÍCIOS PREVIDENCIÁRIOS DECORRENTES DE MOLÉSTIA INCAPACITANTE. TERMO INICIAL: DATA DA CITAÇÃO NA AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. RECURSO ESPECIAL DO SEGURADO PROVIDO.
+1. O benefício de auxílio-doença, concedido judicialmente, deve ser concedido a partir da data do requerimento administrativo e, na sua ausência, na data da citação válida da Autarquia.
+2. É firme a orientação desta Corte de que o laudo pericial não pode ser utilizado como parâmetro para fixar o termo inicial de aquisição de direitos, servindo, tão somente, para nortear o convencimento do Juízo quando à existência do pressuposto da incapacidade para a concessão do benefício.
+3. Recurso Especial do Segurado provido para fixar o termo inicial do benefício na data do requerimento administrativo (REsp 1475373/SP, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 8/5/2018, grifei).
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. TERMO INICIAL DO PAGAMENTO DO BENEFÍCIO PREVIDENCIÁRIO. DATA DO REQUERIMENTO ADMINISTRATIVO. ENTENDIMENTO PACÍFICO DO STJ. ART. 103 DA LEI 8.213/91. PRESCRIÇÃO. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. FALTA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 282/STF.
+1. É assente o entendimento do STJ no sentido de que, na existência de requerimento administrativo, este deve ser o marco inicial para o pagamento do benefício discutido, sendo irrelevante que tenha a comprovação da implementação dos requisitos se verificado apenas em âmbito judicial.
+2. "Nos termos da jurisprudência do STJ, o benefício previdenciário de cunho acidental ou o decorrente de invalidez deve ser concedido a partir do requerimento administrativo e, na sua ausência, a partir da citação. A fixação do termo a quo a partir da juntada do laudo em juízo estimula o enriquecimento ilícito do INSS, visto que o benefício é devido justamente em razão de incapacidade anterior à própria ação judicial." (REsp 1.411.921/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/10/2013, DJe 25/10/2013).
+3. O Tribunal de origem não se manifestou sobre a alegação de que "..caso mantida a r. decisão agravada, esta deve ser complementada, a fim de declarar a prescrição das parcelas vencidas anteriormente ao qüinqüênio que antecede o ajuizamento da vertente ação, em atendimento aos artigos 103, parágrafo único, da Lei nº 8.213/91 e 193 do Código Civil." (fl. 246), tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+4. Agravo interno a que se nega provimento (AgInt no REsp 1601268/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 30/6/2016, grifei).
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. TERMO INICIAL DO BENEFÍCIO. CITAÇÃO VÁLIDA. MATÉRIA JÁ DECIDIDA SOB O RITO DO ART. 543-C DO CPC. ÓBICE DA SÚMULA 7/STJ AFASTADO.
+1. O tema relativo ao termo inicial de benefício proveniente de incapacidade laborativa já foi exaustivamente debatido nesta Corte, a qual, após oscilações, passou a rechaçar a fixação da Data de Início do Benefício - DIB a partir do laudo pericial, porquanto a prova técnica prestar-se-ia unicamente para nortear o convencimento do juízo quanto à pertinência do novo benefício, mas não para atestar o efetivo momento em que a moléstia incapacitante se instalou.
+2. Atualmente a questão já foi decidida nesta Corte sob o rito dos recursos repetitivos (art. 543-C do CPC), restando pacificada a jurisprudência no sentido que "A citação válida informa o litígio, constitui em mora a autarquia previdenciária federal e deve ser considerada como termo inicial para a implantação da aposentadoria por invalidez concedida na via judicial quando ausente a prévia postulação". (REsp 1.369.165/SP, Rel. Ministro BENEDITO GONÇALVES, Primeira Seção, DJe 7/3/2014).
+3. O juízo acerca do termo inicial do benefício, na espécie, não enseja reexame de prova, vedado pela Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp 760.911/RJ, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 10/11/2015, grifei).
+Ante o exposto, dou provimento ao recurso especial para determinar que o benefício concedido tenha como termo inicial a data da citação.
+Publique-se. Intimem-se.
