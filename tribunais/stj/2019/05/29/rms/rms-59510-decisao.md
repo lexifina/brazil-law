@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por RUDIMAR MACHADO CARDOSO - ME contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"AGRAVO INTERNO EM MANDADO DE SEGURANÇA. DIREITO PRIVADO NÃO ESPECIFICADO. REMÉDIO CONSTITUCIONAL IMPETRADO CONTRA DECISÃO QUE ACOLHEU PRELIMINAR DE INCOMPETÊNCIA DE JUÍZO ARGÜIDA EM CONTESTAÇÃO. LEI Nº 12.016/2009. PETIÇÃO INICIAL INDEFERIDA. MANUTENÇÃO DA DECISÃO RECORRIDA.
+Ao interpor o presente recurso, o agravante não trouxe aos autos qualquer elemento capaz de alterar a situação fática apresentada e, conseqüentemente, o posicionamento adotado em sede de decisão monocrática, razão pela qual a mantenho, em seus exatos termos.
+Ademais, reitero a ausência de demonstração de direito líquido e certo a ser amparado, tampouco de ato ilegal ou com abuso de poder capaz de ensejar dano irreparável ao impetrante, que leva ao não preenchimento dos requisitos exigidos pela Lei nº 12.016/09 e, por conseqüência, ao indeferimento da petição inicial.
+NEGARAM PROVIMENTO AO AGRAVO INTERNO. UNÂNIME" (fl. 258 e-STJ).
+Originariamente, a ora recorrente impetrou mandado de segurança contra decisão do Juízo de Direito da 2ª Vara Cível da Comarca de Capão da Canoa - RS que, apreciando preliminar apresentada em reconvenção de ação declaratória de rescisão contratual cumulada com nulidade e inexigibilidade de título de crédito, determinou a remessa dos autos para uma das varas da comarca de Sapucaia do Sul em virtude da existência de cláusula de eleição de foro no contrato rescindendo.
+A recorrente defende que
+"(..) na nova sistemática adotada pelo Código de Processo Civil não há nenhum recurso cabível contra a decisão ora atacada, uma vez que o rol taxativo existente no art. 1.015 do referido diploma legal, que discrimina os casos em que é possível a interposição de agravo de instrumento não contempla o presente caso, qual seja, de declinação de competência, motivo pelo qual o presente mandado de segurança se demonstra aplicável, nos termos do art. 5º, inciso [NOME] Constituição Federal" (fl. 301 e-STJ).
+No que tange à questão específica da competência, aduz ser equivocada a decisão que declinou da competência com base na cláusula contratual de eleição de foro, haja vista que o contrato não foi assinado pela COMPANHIA DE BEBIDAS DAS AMÉRICAS - AMBEV e que sequer foi dada à autora, ora recorrente, cópia do pactuado.
+Sustenta, ainda, que a cláusula é abusiva, pois, além de se tratar de contrato de adesão,
+"(..) a autora possui sede em Xangri-lá/RS e a Unimar em Osório/RS, sendo que a Ambev possui apenas filial em Sapucaia do Sul/RS, razão pela qual o objetivo da cláusula do foro de eleição é dificultar o exercício do direito de ação garantido constitucionalmente, pois, supostamente, seria necessário que a autora ingressasse com a ação em Sapucaia do Sul, distante aproximadamente 130 Km de Xangri-lá" (fl. 308 e-STJ).
+Ao final, com o reconhecimento do cabimento do presente mandamus, pugna pelo seu provimento e a declaração de competência do Juízo de Direito da 2ª Vara Cível da Comarca de Capão da Canoa - RS para julgar a ação em referência.
+O Ministério Público Federal, em seu parecer (fls. 341/346 e-STJ), opinou pelo não provimento do recurso ordinário.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Registre-se que à época da impetração do presente writ, esta Corte, em julgamento emblemático, já havia se posicionado no sentido de que
+"Apesar de não previsto expressamente no rol do art. 1.015 do CPC/2015, a decisão interlocutória relacionada à definição de competência continua desafiando recurso de agravo de instrumento, por uma interpretação analógica ou extensiva da norma contida no inciso III do art. 1.015 do CPC/2015, já que ambas possuem a mesma ratio -, qual seja, afastar o juízo incompetente para a causa, permitindo que o juízo natural e adequado julgue a demanda" (REsp 1.679.909/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/11/2017, DJe 1º/2/2018).
+Tal entendimento acabou definitivamente pacificado, conforme se pode constatar nos seguintes arestos:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO INTERLOCUTÓRIA QUE EXAMINA COMPETÊNCIA. CABIMENTO DE AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO ART. 1.015 DO CPC/2015 CONFIGURADA. TAXATIVIDADE MITIGADA. TEMA REPETITIVO N. 998. AGRAVO DESPROVIDO.
+1. Decisão atacada conheceu do agravo da parte ora agravada para dar provimento ao recurso especial, reconhecendo violação ao art. 1.015, III, do CPC/2015, determinando o retorno dos autos ao Tribunal Estadual para que continue no exame de agravo de instrumento, julgando-o como entender de direito.
+2. Tema Repetitivo n. 998: "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (REsp 1.696.396/MT, Rel. Ministra Nancy Andrighi, Corte Especial, DJe de 19/12/2018).
+3. A jurisprudência desta Corte firmou-se pelo cabimento do agravo de instrumento contra decisão interlocutória que decide sobre competência.
+4. Agravo interno desprovido"
+(AgInt no AREsp 1.370.605/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/3/2019, DJe 11/4/2019)
+"PROCESSUAL CIVIL. PREVIDENCIÁRIO. DECLÍNIO DE COMPETÊNCIA. IMPREVISÃO EXPRESSA DE POSSIBILIDADE DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO EM DESFAVOR DE DECISÃO INTERLOCUTÓRIA RELACIONADA A COMPETÊNCIA. VEDAÇÃO DA UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO RECURSAL DO AGRAVO DE INSTRUMENTO. WRIT DISTRIBUÍDO APÓS ESCOADO O PRAZO DECADENCIAL DE 120 DIAS, PREVISTO NO ART. 23 DA LEI N. 12.016/2009.
+I - Cumpre destacar inicialmente que a decisão impugnada no presente writ, qual seja, a decisão do Juízo da Vara Federal que declinou da competência para o Juizado Especial Federal, foi proferida no dia 16/6/2016 (fl. 64). Os autos foram então reautuados e redistribuídos apenas no dia 25/7/2016. II - Esses fatos são relevantes para esclarecer que o recorrente, ao contrário do afirmado em sua peça recursal, teve tempo hábil para interpor o competente agravo de instrumento contra a referida decisão.
+III - Em que pese o art. 1.015 do CPC/2015 não prever expressamente a interposição de agravo de instrumento em desfavor de decisão interlocutória relacionada a competência, o próprio recorrente considerou possível a utilização do recurso, sem contudo promover a sua interposição, conforme afirmado à fl. 185.
+IV - O Superior Tribunal de Justiça adotou o entendimento no sentido de que a decisão interlocutória sobre competência pode desafiar a interposição de agravo de instrumento, corroborando o entendimento de boa parte da doutrina. Nesse sentido: REsp n. 1.679.909/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/11/2017, DJe 1/2/2018 .
+V - O recorrente se utiliza do presente writ como sucedâneo recursal do agravo de instrumento, o que é vedado nos termos do art. 5º, II, da Lei n. 12.016/2009. Nesse sentido, colhe-se os seguintes precedentes: AgInt no MS n. 23.159/DF, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 29/11/2017, DJe 5/12/2017; RMS n. 54.969/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 10/10/2017, DJe 23/10/2017; AgInt no RMS n. 53.499/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 26/6/2018, DJe 1/8/2018.
+VI - O ato judicial impugnado foi proferido no dia 16/6/2016. Ocorre que o presente writ somente foi distribuído no dia 14/12/2016, conforme certidão de fl. 94, após escoado o prazo decadencial de 120 dias, previsto no art. 23 da Lei n. 12.016/2009.
+VII - Agravo interno improvido"
+(AgInt no RMS 55.990/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 5/2/2019, DJe 14/2/2019).
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HIPÓTESES DE CABIMENTO. INTERPRETAÇÃO ANALÓGICA OU EXTENSIVA DO INCISO III DO ART. 1.015 DO CPC/2015. RECURSO ESPECIAL A QUE SE DÁ PROVIMENTO.
+1. Conforme entendimento deste Órgão Julgador, "apesar de não previsto expressamente no rol do art. 1.015 do CPC/2015, a decisão interlocutória relacionada à definição de competência continua desafiando recurso de agravo de instrumento, por uma interpretação analógica ou extensiva da norma contida no inciso III do art. 1.015 do CPC/2015, já que ambas possuem a mesma ratio -, qual seja, afastar o juízo incompetente para a causa, permitindo que o juízo natural e adequado julgue a demanda" (REsp 1.679.909/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/11/2017, DJe de 1º/02/2018).
+2. Recurso especial a que se dá provimento, para reconhecer o cabimento do agravo de instrumento em face de decisão que declinou a competência para a apreciação da ação e determinar, por conseguinte, o regular prosseguimento do recurso aviado com o retorno dos autos à Corte de origem"
+(REsp 1.711.953/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 2/8/2018, DJe 10/8/2018).
+"PROCESSUAL CIVIL. DECISÃO QUE DECLINOU DA COMPETÊNCIA PARA UMA DAS VARAS DA JUSTIÇA FEDERAL. RECURSO DE AGRAVO DE INSTRUMENTO. CABIMENTO. ART. 1.015 DO CPC/2015. INTERPRETAÇÃO ANALÓGICA OU EXTENSIVA.
+1. O Superior Tribunal de Justiça já se posicionou no sentido de que "Apesar de não previsto expressamente no rol do art. 1.015 do CPC/2015, a decisão interlocutória relacionada à definição de competência continua desafiando recurso de agravo de instrumento, por uma interpretação analógica ou extensiva da norma contida no inciso III do art. 1.015 do CPC/2015, já que ambas possuem a mesma ratio -, qual seja, afastar o juízo incompetente para a causa, permitindo que o juízo natural e adequado julgue a demanda" (REsp 1.679.909/RS, Rel. MINISTRO LUÍS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14.11.17, DJe 1º/2/18).
+2. Recurso Especial provido para, afastando o não cabimento do Agravo de Instrumento, determinar ao Tribunal de origem que prossiga no julgamento"
+(REsp 1.707.652/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/05/2018, DJe 21/11/2018).
+Nesse contexto, em que se descarta qualquer dúvida objetiva acerca do cabimento do agravo de instrumento e que não foi demonstrada as excepcionais hipóteses de flagrante teratologia ou de manifesta abusividade na decisão impetrada, tem aplicação o entendimento jurisprudencial pacífico desta Corte, segundo o qual a via mandamental se mostra incabível quando o ato judicial questionado for passível de impugnação por recurso adequado, visto que o writ não pode ser utilizado como sucedâneo recursal.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. TERCEIRO PREJUDICADO. ATO JUDICIAL PASSÍVEL DE RECURSO. NÃO CABIMENTO DO WRIT.
+1. O mandado de segurança não pode ser utilizado como sucedâneo recursal, sendo descabido o seu manejo contra ato judicial recorrível.
+2. É entendimento do STJ que o enunciado da Súmula n. 202 socorre tão somente aquele que não teve condições de tomar ciência da decisão que lhe prejudicou, ficando impossibilitado de se utilizar do recurso cabível.
+3. Agravo interno não provido"
+(AgInt no RMS 53.499/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/6/2018, DJe 1º/8/2018).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. DECISÃO JUDICIAL RECORRÍVEL. DESCABIMENTO DO USO DO WRIT COMO SUCEDÂNEO RECURSAL. LESÃO DE GRAVE OU DE DIFÍCIL REPARAÇÃO. INEXISTÊNCIA. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+1. Não cabimento de mandado de segurança contra ato judicial passível de recurso ou correição, nem contra decisão judicial transitada em julgado.
+2. Alterar o entendimento do tribunal de origem quanto à inexistência de lesão grave ou de difícil reparação esbarra no óbice previsto no Enunciado n.º 07/STJ.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO DESPROVIDO"
+(AgInt nos EDcl no RMS 56.233/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 5/6/2018, DJe 8/6/2018).
+"MANDADO DE SEGURANÇA. ATO JURISDICIONAL. ABUSIVIDADE E TERATOLOGIA NÃO EVIDENCIADOS. INADEQUAÇÃO DA VIA MANDAMENTAL.
+1. O mandado de segurança não constitui via idônea a amparar a revisão de ato de natureza jurisdicional, salvo situação de absoluta excepcionalidade em que restar cabalmente evidenciado o caráter abusivo ou teratológico da medida impugnada.
+2. Hipótese em que a inicial do mandamus, além de não esclarecer satisfatoriamente em que consiste o erro material suscitado, não fornece os elementos necessários à conformação do direito líquido e certo do impetrante.
+3. Agravo regimental desprovido"
+(AgRg no MS 14.561/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe 10/8/2010 - grifou-se).
+"AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO. DIREITO PROCESSUAL CIVIL. MANDADO DE SEGURANÇA COMO SUCEDÂNEO DE RECURSO. INCABIMENTO. DECISÃO QUE EXTINGUIU A EXECUÇÃO FISCAL. INEXISTÊNCIA DE TERATOLOGIA. SÚMULA Nº 267/STF. AGRAVO IMPROVIDO.
+1. Não é cabível o mandado de segurança contra ato judicial passível de recurso, não sendo a hipótese em que, excepcionalmente, admite-se o remédio heróico, em face de evidente teratologia ou prejuízo irreparável. Incidência do enunciado nº 267 da Súmula do Supremo Tribunal Federal.
+2. Agravo regimental improvido"
+(AgRg no RMS 31.290/SP, Rel. Min. HAMILTON CARVALHIDO, DJe 5/5/2010 - grifou-se).
+Nessa linha dispõe na Súmula nº 267/STF: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se.
+Intimem-se.
