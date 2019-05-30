@@ -1,0 +1,24 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PROVISÓRIA. PENA RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. ENTENDIMENTO CONSOLIDADO PELA TERCEIRA SEÇÃO DESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Terceira Seção desta Corte Superior reafirmou, recentemente, o entendimento de ser impossível a execução provisória da pena restritiva de direitos antes do trânsito em julgado da sentença penal condenatória.
+2. Com efeito, o fato de haver decisões monocráticas ou de órgãos fracionários do Supremo Tribunal Federal - STF considerando que o entendimento firmado no Agravo em Recurso Especial n. 964.246/SP, submetido ao rito da repercussão geral, abrange também a execução provisória de penas restritivas de direitos, não enseja, data venia, a retratação das decisões da Terceira Seção sobre o tema. A diretriz firmada em repercussão geral não faz referência ao disposto no art. 147 da Lei de Execuções Penais - LEP, o qual se mantém hígido e não pode deixar de ser aplicado pelo Superior Tribunal de Justiça - STJ, sob pena de violação da cláusula de reserva de plenário. E a posição da Corte Especial desta instância superior manteve a constitucionalidade do referido dispositivo legal. (HC 500.638/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 7/5/2019, DJe 20/5/2019).
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, Jorge Mussi e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de agravo regimental interposto contra decisão de fls. 1227/1234, em que dei parcial provimento ao recurso especial apenas para suspender a execução da pena restritiva de direitos.
+O Ministério Público Federal pugna pela interpretação conforme à Constituição Federal - CF do art. 147 da Lei nº 7.210/1984, aos moldes da mais recente jurisprudência do Supremo Tribunal Federal - STF no que concerne à execução provisória da pena restritiva de direitos.
+Pleiteia, assim, a reconsideração da decisão ou a submissão do recurso ao órgão colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+O recurso não merece provimento.
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático.
+Conforme asseverei na decisão monocrática, a Terceira Seção desta Corte Superior reafirmou, recentemente, o entendimento de ser impossível a execução provisória da pena restritiva de direitos antes do trânsito em julgado da sentença penal condenatória.
+Eis a ementa do julgado:
+AGRAVOS REGIMENTAIS NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO PROVISÓRIA. PENA RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. SÚMULA VINCULANTE 24/STF. APLICABILIDADE DE FATOS PRATICADOS ANTERIORMENTE. POSSIBILIDADE. PRECEDENTES DA TERCEIRA SEÇÃO. AGRAVOS IMPROVIDOS. 1. É firme a jurisprudência do Superior Tribunal de Justiça quanto à aplicabilidade do entendimento consolidado na Súmula Vinculante 24/STF aos fatos praticados anteriormente à sua edição, por se tratar de mera consolidação de interpretação da lei. 2. Ressalvada compreensão pessoal diversa, a Terceira Seção, no julgamento do EResp 1.619.087/SC, na sessão de 14/06/2017, adotou a orientação em relação à impossibilidade de execução provisória da pena restritiva de direitos, sendo indispensável, em tais casos, o trânsito em julgado da sentença penal condenatória, nos termos do art. 147 da Lei de Execução Penal. 3. Tal entendimento foi reafirmado pela Terceira Seção desta Corte com o julgamento no AgRg no HC 435.092/SP. 4. Agravos regimentais improvidos. (AgRg nos EREsp 1699768/SP, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 13/3/2019, DJe 20/3/2019 - Grifo Nosso)
+Com efeito, o fato de haver decisões monocráticas ou de órgãos fracionários do Supremo Tribunal Federal considerando que o entendimento firmado no Agravo em Recurso Especial n. 964.246/SP, submetido ao rito da repercussão geral, abrange também a execução provisória de penas restritivas de direitos, não enseja, data venia, a retratação das decisões da Terceira Seção sobre o tema. A diretriz firmada em repercussão geral não faz referência ao disposto no art. 147 da Lei de Execuções Penais - LEP, o qual se mantém hígido e não pode deixar de ser aplicado pelo Superior Tribunal de Justiça - STJ, sob pena de violação da cláusula de reserva de plenário. E a posição da Corte Especial desta instância superior manteve a constitucionalidade do referido dispositivo legal. (HC 500.638/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 7/5/2019, DJe 20/5/2019)
+Ante o exposto, voto pelo desprovimento do agravo regimental.
