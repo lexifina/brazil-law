@@ -1,0 +1,10 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da Sétima Turma do Tribunal Regional Federal da Terceira Região, assim ementado: (eDOC 1, p. 208)
+    “CONSTITUCIONAL. PREVIDENCIÁRIO. ASSISTÊNCIA SOCIAL. BENEFÍCIO DE PRESTAÇÃO CONTINUADA AO IDOSO E À PESSOA PORTADORA DE DEFICIÊNCIA. ART. 203, V, DA CONSTITUIÇÃO FEDERAL. DECLARAÇÃO 'DE INCONSTITUCIONALIDADE DO § 3° DO ART. 20 DA LEI N° 8.742/93, SEM PRONÚNCIA DE NULIDADE. IMPOSSIBILIDADE DE APLICAÇÃO ISOLADA. ANÁLISE DA MISERABILIDADE EM CONJUNTO COM DEMAIS FATORES. AFASTADA SITUAÇÃO DE RISCO. PROGRAMAS SOCIAIS. FORNECIMENTO GRATUITO DE MEDICAMENTOS. AJUDA FINANCEIRA DA FAMÍLIA. MÍNIMO EXISTENCIAL GARANTIDO. BENEFÍCIO ASSISTENCIAL NÃO É VIA ALTERNATIVA AO IDOSO. HIPOSSUFICIÊNCIA ECONÔMICA NÃO DEMONSTRADA. RECURSO PROVIDO. SENTENÇA REFORMADA. AÇÃO JULGADA IMPROCEDENTE. INVERSÃO DAS VERBAS DE SUCUMBÊNCIA. DEVER DE PAGAMENTO SUSPENSO. REMESSA NECESSÁRIA NÃO CONHECIDA. GRATUIDADE. REVOGADA TUTELA ESPECÍFICA.”
+    A matéria discutida nestes autos já foi objeto de análise por esta Corte. O Supremo Tribunal Federal, no julgamento ARE-RG 865.645, da Rel. Min. Luiz Fux, entendeu pela inexistência de repercussão geral quanto à controvérsia acerca da análise do preenchimento dos requisitos para concessão de benefício assistencial previsto no artigo 203, V, da Constituição Federal (Tema 807). Na oportunidade, a ementa restou assim redigida:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. ARTIGO 203, V, DA CONSTITUIÇÃO FEDERAL. PREENCHIMENTO DOS REQUISITOS. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 279/STF. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática de repercussão geral, nos termos do art. 1.036 do CPC, combinado com o art. 328 do RISTF (Tema 807).
+    Publique-se.
+    Brasília, 30 de maio de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
