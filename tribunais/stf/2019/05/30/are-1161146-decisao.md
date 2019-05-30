@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Sergipe, assim ementado:
+    “DIREITO TRIBUTÁRIO – APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - EXTINÇÃO SEM JULGAMENTO DO MÉRITO - ATO DE OFÍCIO – O JUIZ A QUO ENTENDEU IRRISÓRIO O VALOR COBRADO, BASEANDO-SE NA LEI ESTADUAL Nº 7.795/2014 QUE INSTITUI PROCEDIMENTOS ADOTADOS, NO ÂMBITO DA PROCURADORIA GERAL DO ESTADO E DA SECRETARIA DE ESTADO DA FAZENDA, PARA CUMPRIMENTO DO PROGRAMA ESTADUAL DE REESTRUTURAÇÃO DA COBRANÇA DO CRÉDITO FISCAL, COM A DISPENSA DE PROPOSITURA OU DESISTÊNCIA DE AÇÕES JUDICIAIS E RECURSOS, COM A FIXAÇÃO DE PISO DE EXECUÇÃO E DE PROTESTO DE TÍTULO EXECUTIVO - INSURGÊNCIA DO ENTE ESTATAL – NÃO ACOLHIMENTO – DÉBITO INFERIOR AO ESTABELECIDO NA REFERIDA LEI ESTADUAL - MANUTENÇÃO DA SENTENÇA - APELO CONHECIDO E IMPROVIDO – UNÂNIME ”(eDOC 1, p. 137)
+    No recurso extraordinário, interposto com base no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 37, caput, e 93, IX, da Constituição Federal (eDOC 2, p. 12).
+    Nas razões recursais, sustenta-se, em síntese, que o Tribunal de origem interpretou equivocadamente a Lei estadual 7.795/2014, ao determinar a extinção da execução fiscal, “uma vez que o valor consolidado do débito da empresa ultrapassa em muito o piso legal ”.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, quanto à alegada deficiência na prestação jurisdicional, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art.  93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Constata-se que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação infraconstitucional aplicável à espécie, notadamente a Lei estadual 7.795/2014, de modo que o processamento do apelo extremo se encontra inviabilizado, tendo em vista a vedação contida na Súmula 280 do STF.
+    Veja-se, a esse respeito, o seguinte julgado:
+    “Agravo regimental em recurso extraordinário. 2. Extinção da execução fiscal. Falta de interesse de agir. Pequeno valor. Matéria infraconstitucional. 3. Agravo regimental a que se nega provimento.” (RE 524251 AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 15.10.2010)
+    Por fim, ressalto que esta Corte possui entendimento pacífico no sentido do não cabimento de recurso extraordinário quando a apontada violação do princípio da legalidade demandar a análise de atos normativos infraconstitucionais. Aplicável à espécie, portanto, a súmula 636 do STF: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Ante o exposto, nego seguimento ao recurso, nos termos dos arts. 932, IV, a e b , do CPC e 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de maio de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
