@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA E LEGAL — INVIABILIDADE — AGRAVO – DESPROVIMENTO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à concessão da segurança para anular ato de exclusão de candidato em fase de investigação social de concurso público, considerado o princípio da presunção de inocência. No extraordinário cujo trânsito busca alcançar, o recorrente alega violados os artigos 5º, cabeça, e 37, incisos I e II, e 39, §3º, da Constituição Federal. Afirma o não preenchimento dos requisitos para investidura em cargo público. Diz contrariado o princípio da isonomia.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    No caso, consoante referido na decisão monocrática hostilizada, depreende-se a participação do agravado, Sr. Tiago Quadros de Oliveira, no concurso público para provimento do cargo de soldado da Brigada Militar – edital DA/DRESA n° SD-B 01/2014 -; a aprovação nas quatro primeiras etapas, na 561ª posição (fls. 85-152), e a convocação para sindicância da vida pregressa (fls. 201-208).
+    E, depois da apresentação de defesa administrativa (fls. 175- 177), a eliminação no certame, consubstanciada no não atendimento aos itens 10.9 e 10.10 do edital, com base nos registros de ocorrências policiais n°s 3570/2007 e 5663/2011. (fls. 195-196).
+    Contudo, malgrado as ocorrências policiais, como indicativo da prática de transgressão na adolescência, há mais de cinco anos atrás, a apresentação dos antecedentes policiais (fl. 179); do alvará de folha corrida (fl. 181); das certidões negativas cíveis e criminais da Justiça Federal; Estadual; Eleitoral e militar (fls. 182-188), bem como a ausência de informação acerca de eventual propositora de ação penal, ou mesmo instauração de investigação criminal na época, a indicar a compatibilidade da conduta moral e social com a atividade militar.
+    Além do mais, a disposição pela Administração de meios legais, seguros e mais eficazes para zelar pela devida prestação do serviço, com vistas ao suprimento da aparente falta de êxito estatal na persecução penal, data vênia, não suprível por juízo, com vistas a evitar mácula irreparável no direito à presunção da inocência - art. 5º, LVII, da Constituição da República - e no livre acesso ao cargo público – art. 37, I, da C F6 -.
+    As razões do extraordinário partem de pressupostos estranhos à decisão impugnada, inviabilizando a respectiva análise. Em momento algum houve análise quanto aos critérios adotados pela banca examinadora, mas exame da legalidade.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
