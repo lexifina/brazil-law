@@ -1,0 +1,33 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE IRREGULAR DE MUNIÇÕES. PRISÃO PREVENTIVA ANTERIORMENTE RELAXADA POR EXCESSO DE PRAZO. SENTENÇA CONDENATÓRIA. INDEFERIMENTO DO DIREITO DE RECORRER EM LIBERDADE. INDICAÇÃO DE FATOS NOVOS. AUSÊNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. IMPOSSIBILIDADE DE O TRIBUNAL A QUO INOVAR A FUNDAMENTAÇÃO NO JULGAMENTO DO WRIT.
+1. Concedida liberdade provisória por excesso de prazo, nova segregação só se legitima na hipótese da superveniência de fatos inéditos e posteriores à soltura que a justifiquem. Precedentes.
+2. O paciente - solto durante boa parte da instrução criminal, em decorrência de excesso de prazo - teve negado o direito de recorrer em liberdade sem justificativa lastreada em fatos novos.
+3. Não é possível à Corte estadual inovar a fundamentação em sede de habeas corpus, a fim de justificar a necessidade da prisão para garantia de aplicação da lei penal - por estar o réu supostamente foragido.
+4. Ordem concedida a fim de garantir a liberdade ao paciente até o esgotamento das vias recursais ordinárias, salvo se por outro motivo estiver preso, sem prejuízo da imposição de medidas cautelares alternativas ou de nova decretação da prisão, caso demonstrada a necessidade.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, conceder a ordem nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de habeas corpus impetrado em benefício de [NOME] contra o acórdão proferido pelo Tribunal de Justiça do Pernambuco no HC n. 509233-5, cuja ordem foi denegada.
+No Processo n. 0076525-84.2014.8.17.0001, o Juízo de Direito da 16ª Vara Criminal da comarca de Recife/PE condenou o paciente à pena de 7 anos e 4 meses, em regime inicial semiaberto, e 643 dias-multa, por incurso nos crimes previstos no art. 33, caput, da Lei n. 11.343/2003, e art. 12 da Lei 10.826/2003, c/c o art. 69 do Código Penal. Na oportunidade, o Magistrado sentenciante negou ao condenado o direito de recorrer em liberdade.
+Aqui se alega que o paciente respondeu, solto, ao processo e a prisão foi decretada sem que fosse apresentada fundamentação idônea.
+Aduz-se que o paciente se encontra em gozo de liberdade provisória há praticamente 3 anos, sem registro de reiteração delitiva. Menciona-se que a superveniência de nova custódia preventiva é desarrazoada, sobretudo porque o decreto constritivo prolatado na sentença não faz referência a nenhum elemento contemporâneo.
+Requer-se, inclusive em caráter liminar, a expedição de salvo-conduto em favor do paciente.
+Em 20/2/2019, foi deferida medida liminar para determinar que o paciente aguarde em liberdade o esgotamento das instâncias ordinárias (fls. 192/193).
+Informações prestadas (fl. 202).
+Parecer do Ministério Público Federal opinando pelo não conhecimento da impetração (fls. 225/233).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Dispõe o art. 387, § 1º, do Código de Processo Penal, que, por ocasião da prolação da sentença, o magistrado deve decidir, de maneira fundamentada, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação interposta.
+Na espécie, eis o que disse o Juízo de origem para decretar a prisão cautelar do ora paciente (fl. 126):
+ ..
+Em observância ao art. 387, parágrafo único, do Código de Processo Penal, nego ao condenado o direito de recorrer em liberdade, uma vez que ele praticava o grave crime de tráfico de drogas, utilizando-se a própria residência. Logo, permitir que ele retorne para casa após a prolatação da sentença condenatória poderá colocar em risco a ordem pública (art. 312 do Código de Processo Penal).
+ ..
+O Tribunal local, no acórdão aqui impugnado, dispôs que as circunstâncias envolvendo o caso concreto repercutem na providência relativa à constrição da liberdade do paciente. Destacou que o mandado de prisão expedido por ocasião da sentença (22/5/2018), até a data do julgamento naquela Corte não havia sido cumprido, o que reforçaria a necessidade da custódia para garantia de aplicação da lei penal (fls. 177/178).
+De fato, o paciente fora flagrado na posse de grande e variada quantidade de drogas, além de munições e instrumentos utilizados no tráfico, como substâncias químicas, balanças, sacos plásticos e embaladoras (fl. 230).
+Contudo, diante do reconhecido excesso de prazo pelo Juízo singular, o acusado permaneceu em liberdade durante boa parte da instrução processual, por cerca de 3 anos.
+Dessa forma, revogada a prisão cautelar por excesso de prazo, nova segregação só se legitima na hipótese da superveniência de fatos inéditos e posteriores à soltura que a justifiquem (HC n. 274.389/MG, da minha relatoria, relator p/ acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 13/12/2016).
+Na espécie, não houve referência a fato superveniente ou desconhecido à época da decisão que concedeu ao paciente liberdade provisória.
+Reafirmo, portanto, que é defeso às instâncias ordinárias a imposição da medida cautelar extrema com fulcro em circunstâncias já conhecidas desde a prisão em flagrante, porquanto necessário o apontamento de fatos novos que, por sua contemporaneidade, possam, assim, fundamentar a constrição da liberdade do réu (HC n. 405.855/RS, Sexta Turma, DJe 19/12/2017).
+Nessa mesma linha, o HC n. 434.724/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/5/2018; RHC n. 33.803/CE, Ministro Ericson Maranho (Desembargador convocado do TJ/SP), Sexta turma, DJe 11/3/2015; e HC n. 303.609/SP, Ministro Jorge Mussi, Quinta Turma, DJe 15/12/2014.
+Outrossim, quanto à necessidade da prisão para garantia de aplicação da lei penal - por supostamente estar o réu foragido -, tem-se que essa argumentação foi lançada somente pelo Tribunal a quo a fim de justificar a manutenção da segregação provisória. Contudo, é assente nesta Corte Superior que não é possível, no julgamento de habeas corpus, acrescentar novos fundamentos à decisão de primeiro grau que decretou custódia com base em motivação inidônea (RHC n. 81.510/RJ, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 31/8/2017).
+Ante o exposto, concedo a ordem a fim de garantir a liberdade ao paciente até o esgotamento das vias recursais ordinárias, salvo se por outro motivo estiver preso, sem prejuízo da imposição de medidas cautelares alternativas ou de nova decretação da prisão, caso demonstrada a necessidade.
