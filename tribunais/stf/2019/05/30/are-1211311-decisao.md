@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+    “ADMINISTRATIVO. ATRIBUIÇÃO DE EFEITO SUSPENSIVO AO RECURSO. EFEITO SUSPENSIVO OPE LEGIS. SUSPENSÃO DO PROCESSO. NÃO CABIMENTO. GRATIFICAÇÃO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA – GATA – LEI DISTRITAL Nº 5.008/12. INCORPORAÇÃO. ÓBICE. ENUNCIADO Nº 339, DA SÚMULA DO STF. PRETENDIDA APLICAÇÃO DO VALOR DA HORA DE TRABALHO DO REGIME DE 20 HORAS SEMANAIS AOS SERVIDORES QUE DESEMPENHAM SUAS FUNÇÕES NO REGIME DE 40 HORAS SEMANAIS. IMPOSSIBILIDADE.” (eDOC 2, p. 71)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 2º; 5º, II; e 37 do texto constitucional.
+    Nas razões recursais, alega o recorrente que não teriam sido implementadas as vantagens previstas na Lei Distrital. Afirma também que a remuneração dos servidores com carga semanal de 40 horas deve corresponder ao dobro da remuneração dos ocupantes do mesmo cargo cuja carga é de 20 horas. (eDOC 2, p. 88)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Distrital 5.008/2012) e o conjunto probatório constante dos autos, consignou que a gratificação pleiteada teria sido extinta sem decesso remuneratório. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Com efeito, uma vez extinta a GATA, seu pagamento passou a ser realizado como Vantagem Pessoal Nominalmente Identificada – VPNI, assim como preconizou a Lei Distrital nº 5.008/12.
+    Por outro lado, a pretensão de que seu valor seja considerado no cálculo das demais parcelas remuneratórias não encontra amparo na citada norma jurídica, nem se revela possível ante a orientação emanada do Enunciado nº 339, da Súmula do STF, segundo o qual, ‘não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia’.” (eDOC 2, p. 73)
+    Quanto à desproporcionalidade entre a remuneração da jornada de vinte e a de quarenta horas, o Tribunal de origem, ainda examinando a mesma legislação infraconstitucional aplicável à espécie e o conjunto probatório constante dos autos, consignou o seguinte:
+    “O mesmo fundamento se presta para afastar a pretendida extensão à recorrente, por via transversa, do regime remuneratório instituído para os servidores que exercem jornada horária diversa.
+    Além disso, não vislumbrada a ilegalidade no pagamento de seus vencimentos por parte do demandado, revela-se obstado falar em direito ao recebimento dos reflexos financeiros que adviriam da procedência do pleito autoral.”. (eDOC 2, p. 73)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO ESPECIAL. INCORPORAÇÃO. LEIS 3.270/1979 E 3.419/1981 DO ESTADO DO ESPÍRITO SANTO. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO”. (ARE 1.033.421 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 27.10.2017)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Delegado de Polícia do Espírito Santo. Gratificação de chefia. Incorporação 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmulas 279 e 280 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento”. (ARE 1.053.105 AgR, rel. Min. Gilmar Mendes, Segunda Turma, DJe 9.4.2018)
+    Incide também no caso a Súmula 636, segundo a qual não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF) e majoro o valor da verba honorária fixada pela origem (eDOC 2, p. 75) em 10%, observados os limites previstos nos parágrafos 2º e 3º do art. 85 do CPC.
+    Publique-se.
+    Brasília, 30 de maio de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
