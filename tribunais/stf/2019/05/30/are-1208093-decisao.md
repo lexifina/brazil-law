@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Quinta Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio de Janeiro, assim ementado (eDOC 1, p. 137):
+    “CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. EMPREGADO PÚBLICO. SERVIDOR PÚBLICO. VANTAGENS RELATIVAS AO PERÍODO CELETISTA, ANTES DA CONVERSÃO EM REGIME ESTATUTÁRIO. JUSTIÇA FEDERAL. INCOMPETÊNCIA. JUSTIÇA DO TRABALHO. COMPETÊNCIA. STF. STJ. RECURSO DESPROVIDO. 1. COGNOSCIBILIDADE Cabe recurso contra sentença terminativa fundada em incompetência da Justiça Federal, por haver aí possível “negativa de jurisdição” (art. 5º, Lei n. 10.259/01; TRRJ 18). 2. MÉRITO RECURSAL 2. 1. Ao determinar conteúdo e alcance da norma do art. 109, I, e art. 114, I, CRFB, o STF concluiu que é da Justiça do Trabalho a competência para processar e julgar causas cuja pretensão consista na percepção de vantagens relativas ao regime celetista, antes da conversão em estatutário (Rcl 15863 AgR, T1, 24-11-2014) (RE 583619 AgR, T2, DJe 13-10-2011). No mesmo sentido, STJ 97: “Compete à justiça do trabalho processar e julgar reclamação de servidor público relativamente a vantagens trabalhistas anteriores à instituição do regime jurídico único”.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta ofensa ao art. 5º, XXXV e LX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “na hipótese de dúvida quanto à competência da Justiça Federal para julgar o presente feito, poderá o magistrado declinar da competência para justiça especializada.” (eDOC 1, p. 186).
+    É o relatório. Decido.
+    Esta Corte já decidiu a matéria sob a sistemática de repercussão geral, concluindo pela ausência de repercussão geral do tema 895 (Ofensa ao princípio da inafastabilidade de jurisdição na hipótese em que há óbice processual intransponível ao julgamento de mérito). Eis a ementa do RE 956.302-RG, de minha relatoria, Plenário Virtual, DJe 16.06.2016:
+    PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, combinado com o art. 328 do RISTF.
+    Publique-se.
+    Brasília, 30 de maio de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
