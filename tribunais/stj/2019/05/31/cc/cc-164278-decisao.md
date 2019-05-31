@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Conflito de Competência, instaurado entre o JUÍZO DE DIREITO DA 7ª VARA MISTA DE SOUSA/PB e o JUÍZO DE DIREITO DA 2ª VARA DE FAMÍLIA E SUCESSÕES DO FORO REGIONAL I - SANTANA - SÃO PAULO/SP, em requerimento de expedição de Alvará Judicial, para levantamento de saldo proveniente de contas vinculadas de PIS/PASEP e FGTS, pertencente ao espólio de [NOME], que tem como interessados os herdeiros [NOME], [NOME] de [NOME] e [NOME].
+O requerimento foi ajuizado perante o Juízo de Direito da 2ª Vara de Família e Sucessões do Foro Regional I de Santana - São Paulo/SP, que, considerando o último domicílio constante do assento de óbito do de cujus ser em Sousa/PB, declinou da competência e determinou a redistribuição dos autos "a uma das Varas da Comarca de Sousa, Estado da Paraíba, com as cautelas de praxe e as homenagens deste Juízo" (fl. 32e).
+Por sua vez, o Juízo de Direito da 7ª Vara Mista de Sousa/PB suscitou o presente Conflito, ao fundamento de que "a tramitação do processo no juízo suscitado homenageia o princípio do acesso à jurisdição, uma vez que é naquele foro que os autores têm domicílio" (fl. 42e).
+Assiste razão ao Juízo suscitante.
+Com efeito, a Súmula 33/STJ enuncia que "a incompetência relativa não pode ser declarada de ofício".
+Nesse sentido:
+"CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. DOMICÍLIO DO DEVEDOR. COMPETÊNCIA TERRITORIAL. INCOMPETÊNCIA RELATIVA NÃO PODE SER DECLARADA DE OFICIO. SÚMULA 33/STJ. AUSÊNCIA DE EXCEÇÃO DE INCOMPETÊNCIA. SÚMULA 58/STJ.
+1. O foro competente para o ajuizamento da execução fiscal será o domicílio do réu, consoante a disposição contida no artigo 578, caput, do Código de Processo Civil. Por se tratar de competência relativa, a competência territorial não pode ser declarada ex officio pelo Juízo. Esse entendimento se consolidou com a Súmula 33 do Superior tribunal de Justiça, in verbis: "A incompetência relativa não pode ser declarada de oficio."
+2. Na hipótese de execução fiscal proposta fora do domicílio do devedor, compete exclusivamente ao executado se valer da exceção de incompetência, para afastar a competência de Juízo relativamente incompetente.
+3. Ademais, a posterior mudança de domicílio do executado não influi para fins de alteração de competência, conforme teor da Súmula 58 do Superior Tribunal de Justiça, in verbis: "Proposta a execução fiscal, a posterior mudança de domicilio do executado não desloca a competência já fixada."
+4. Conflito de competência conhecido para declarar a competência do Juízo Federal de Sinop - SJ/MT, o suscitado" (STJ, CC 101.222/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 23/03/2009).
+"PROCESSO CIVIL - AGRAVO REGIMENTAL - EXECUÇÃO FISCAL - CONFLITO NEGATIVO DE COMPETÊNCIA - NÃO-LOCALIZAÇÃO DE PESSOA JURÍDICA EXECUTADA NO ENDEREÇO INDICADO - DECLINAÇÃO DA COMPETÊNCIA PARA O ENDEREÇO DO SÓCIO RESPONSÁVEL - IMPOSSIBILIDADE - COMPETÊNCIA TERRITORIAL SÓ ARGÜIDA POR MEIO DE EXCEÇÃO - PRECEDENTES.
+1. Na linha dos precedentes desta Corte, a competência se estabelece no momento da propositura da ação. (arts. 87 e 578 do CPC).
+2. Não há distinção a ser feita apenas por se tratar de execução fiscal movida em face de pessoa jurídica não encontrada no endereço indicado para citação.
+3. Não pode a execução ser redirecionada de ofício ou a requerimento da exeqüente para o domicílio de representante legal da executada.
+4. Competência territorial, que é relativa, só se altera com ação declinatória de foro (art. 112 CPC) a ser movida pelo executado. Leitura dos verbetes 33 e 58 do STJ.
+5. Permanece competente o juízo suscitado, onde a ação foi inicialmente proposta.
+Agravo regimental improvido" (STJ, AgRg no CC 33.052/SP, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, DJU de 02/10/2006).
+"CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. REDIRECIONAMENTO CONTRA SÓCIO-GERENTE. MUDANÇA DE FORO. ARGÜIÇÃO DE OFÍCIO. IMPOSSIBILIDADE.
+1. A competência territorial é relativa, sendo defeso ao órgão julgador declarar sua incompetência de ofício, que só poderá ser reconhecida por meio de exceção oposta pelo réu/executado, a teor do que preceitua o enunciado da Súmula 33/STJ.
+2. A competência é determinada no momento em que se propõe a ação, sendo irrelevante qualquer modificação posterior no estado de fato ou de direito, ressalvadas as situações que envolvem alteração da competência em razão da matéria ou em razão da hierarquia.
+3. O redirecionamento da execução contra sócio-gerente da pessoa jurídica executada não é causa suficiente para alterar-se a competência territorial fixada com a propositura da ação, a menos que a parte interessada tenha manejado o incidente de exceção, que, julgado procedente, afastará a perpetuatio jurisdictiones.
+4. Conflito conhecido para declarar competente o Juízo Federal da 5.ª Vara da Seção Judiciária do Estado do Espírito Santo, o suscitado" (STJ, CC 41.288/SP, Rel. Ministro CASTRO MEIRA, PRIMEIRA SEÇÃO, DJU de 23/08/2004).
+Ante o exposto, com fundamento no art. 955, parágrafo único, inciso I, do CPC/2015, conheço do conflito e declaro a competência do Juízo de Direito da 2ª Vara de Família e Sucessões do Foro Regional I de Santana - São Paulo/SP, o suscitado, em consonância com os precedentes desta Corte a respeito da matéria.
+I.
