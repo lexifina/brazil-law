@@ -1,0 +1,46 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo manejado por EDER JOFRE PAULINO em face da decisão que inadmitiu recurso especial interposto contra acórdão do eg. Tribunal de Justiça do Estado do Mato Grosso do Sul.
+Consta dos autos que o juízo singular condenou o agravante como incurso nas sanções do art. 33, caput e § 4º, c/c art. 40, inc. V, da Lei nº 11.343/2006, à pena de 3 (três) anos e 6 (seis) meses de reclusão, em regime semiaberto, além de 350 (trezentos e cinquenta) dias-multa (fls. 128-139).
+O eg. Tribunal a quo deu provimento ao apelo ministerial para decotar a minorante prevista no art. 33, § 4º, da Lei de Drogas e redimensionar a pena para 6 (seis) anos e 6 (seis) meses de reclusão, em regime fechado, além de 650 (seiscentos e cinquenta) dias-multa.
+ O v. acórdão foi ementado nos seguintes termos (fl. 241):
+"APELAÇÃO CRIMINAL - INSURGÊNCIA DO MINISTÉRIO PÚBLICO - TRÁFICO DE DROGAS (ART. 33, CAPUT, E §4º, DA LEI Nº 11.343/06) - PLEITO PELO AFASTAMENTO DO TRÁFICO OCASIONAL. CIRCUNSTÂNCIAS DO CASO CONCRETO INDICANDO DEDICAÇÃO A ATIVIDADES CRIMINOSAS E INTEGRAÇÃO A ORGANIZAÇÃO CRIMINOSA - TRANSPORTE DE ENORME QUANTIDADE DE COCAÍNA EM VEÍCULO ESPECIALMENTE PREPARADO PARA TAL FIM - REDUTORA EXCLUÍDA. PENA - REGIME INICIAL DE CUMPRIMENTO - RECLUSÃO INFERIOR A OITO ANOS - AGENTE PRIMÁRIO - CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL - ART. 33, § 3o, DO CP - REGIME FECHADO IMPOSITIVO.
+I - Para o reconhecimento do tráfico ocasional (§ 4o do artigo 33 da Lei nº 11.343/06) exige-se prova da primariedade, bons antecedentes, não dedicação a atividades criminosas e de não integrar organização criminosa, de forma cumulada. Constitui prova de dedicação a atividade criminosa e de integrar organização criminosa, a impedir a concessão da redutora, o transporte de grande quantidade de substância entorpecente (228 Kg) de cocaína, em veículo especialmente preparado para tal fim.
+II - Em atenção ao disposto pelo artigo 33, § 3o, do Código Penal, inobstante a primariedade, o condenado a pena superior a quatro anos de reclusão, deve iniciar o cumprimento no regime fechado sempre que contra si milita circunstância judicial desfavorável, além de dedicar-se a atividades criminosas e compor organização dedicada ao tráfico de enorme quantidade de cocaína destinada a outros Estados da Federação.
+III - Recurso a que, em parte com o parecer, dá-se provimento"
+Interposto recurso especial, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, a defesa alegou, sem apontar qualquer dispositivo de lei federal supostamente violado, que não há provas a embasar a condenação, o que atrairia a absolvição por insuficiência de elementos a lastrear certeza para a proclamação de um édito condenatório.
+Acrescenta, outrossim, que em caso de manutenção da condenação, deve ser restabelecida a minorante do tráfico privilegiado, como bem aplicado pela sentença do Juízo de piso, com adequação do regime prisional e substituição da pena privativa de liberdade por restritiva de direitos.
+Quanto à dosimetria da pena, pugna pela maior diminuição da pena em virtude da confissão espontânea, bem como seja a pena-base fixada no mínimo legal, considerando aquela atenuante para fixar a pena intermediária abaixo do mínimo legal.
+Sustenta, ainda, haver divergência jurisprudencial, apontando como paradigma o acórdão do habeas corpus nº 197.691/RJ, julgado pela Sexta Turma da Corte Superior.
+Por fim, pugna pelo provimento do apelo nobre, para que a condenação seja anulada, dada a ausência de provas ou, de forma subsidiária, seja a pena base fixada no mínimo legal, diminuída aquém do mínimo legal na segunda fase em virtude da atenuante da confissão espontânea, com reconhecimento do privilégio em seu patamar máximo, e, por conseguinte, adequação do regime prisional e substituição da pena corporal por restritiva de direitos.
+Apresentadas as contrarrazões (fls. 580-589) sobreveio juízo negativo de admissibilidade fundado: i) na aplicação da Súmula 7/STJ, pois a análise do acórdão recorrido implicaria em revolvimento de matéria fático-probatória; ii) na incidência da Súmula 83/STJ, pois o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 605-652).
+A d. Subprocuradoria-Geral da República apresentou parecer pelo não conhecimento do agravo em recurso especial (fl. 1038).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+O recurso especial foi inadmitido na origem em razão da incidência das Súmulas n. 83 e 7, ambas do STJ (fls. 592-599).
+Neste agravo, a Defesa, no entanto, olvidou-se de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+No caso, deveria o agravante comprovar, por meio da indicação de precedentes desta Corte Superior, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, e ainda, demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que não ocorreu.
+Ao que se têm, a defesa apenas repisou os fundamentos do apelo nobre não admitido sem, contudo, infirmar os fundamentos da decisão negativa de admissibilidade.
+Oportuna a manifestação da d. Subprocuradoria Geral da República que, em seu parecer, asseverou, in verbis (fl. 1.038):
+"Todavia, a defesa apenas sustenta que não está discutindo o elenco probatório e as circunstâncias em que se deram os fatos, mas sim, questão de direito (fls. 622). Quanto à Súmula 83/STJ, não tece nenhuma argumentação. No mais, apenas reitera as razões do apelo especial.
+Com efeito, a decisão impugnada não foi adequadamente impugnada, razão pela qual permanece incólume.
+Daí, pelo não conhecimento do agravo"
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre obsta o conhecimento do agravo, nos termos do artigo 932, inciso III do CPC, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O Agravante não infirmou, especificamente, todos os fundamentos da decisão combatida, o que atrai a incidência da Súmula n. 182 desta Corte.
+2. Os Tribunais Superiores, em recentes decisões, firmaram o entendimento de que, após esgotadas as via recursais ordinárias, apenas casuísticos efeitos suspensivos concedidos aos recursos excepcionais impedirão a execução provisória.
+3. Agravo regimental improvido e deferida a execução provisória da pena, determinando o imediato cumprimento da condenação, delegando-se ao Tribunal local a execução de todos os atos preparatórios" (AgRg no AREsp n. 984.287/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/06/2017).
+Ademais, no que diz respeito à impugnação da aplicação do óbice da Súmula 83/STJ:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão de admissibilidade impede o conhecimento do respectivo agravo, nos termos do que dispõe a Súmula 182/STJ.
+2. E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos.
+3. Agravo regimental a que se nega provimento" (AgRg no AREsp n. 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 01/08/2017).
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
