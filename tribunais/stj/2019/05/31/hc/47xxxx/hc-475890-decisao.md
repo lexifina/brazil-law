@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JUNIOR RAMOS LUZ, em face de acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado (fl. 66):
+AGRAVO EM EXECUÇÃO. IRRESIGNAÇÃO DEFENSIVA. COMETIMENTO DE NOVO DELITO DURANTE O CUMPRIMENTO DA PENA. PRESO EM FLAGRANTE. FALTA GRAVE CONFIGURADA BIS IN IDEM NÃO CONFIGURADO. DECISÃO MANTIDA.
+O art. 52 da LEP prevê como falta de natureza grave a "prática de fato previsto como crime doloso". Na hipótese, o acusado estava foragido do monitoramento eletrônico quando cometeu novo crime e fora preso em flagrante. Assim, correto o reconhecimento da falta grave pelo magistrado singular. Desnecessária a existência de sentença condenatória com trânsito em julgado do cometimento de novo delito para a configuração da falta disciplinar. Precedentes desta e. Corte. Mantido o reconhecimento da falta grave e, por conseguinte, alteração da data-base, ficando esta limitada apenas á futura progressão de regime.
+À UNANIMIDADE, NEGARAM PROVIMENTO AO AGRAVO EM EXECUÇÃO.
+
+Consta dos autos que o juízo das execuções reconheceu a prática de falta grave pelo paciente, em razão do cometimento de novo crime no curso da execução e aplicou-lhe os consectários legais.
+Interposto agravo em execução defensivo, o Tribunal a quo negou provimento.
+Sustenta a Defensoria Pública que não se pode reconhecer a falta grave, tendo em vista que não há sentença condenatória transitada em julgado pelos novos delitos cometidos, violando-se, assim, o princípio da presunção de inocência.
+Defende também a impossibilidade de alteração da data-base para fins de progressão de regime do reeducando.
+Requer, liminarmente e no mérito, que seja cassado o acórdão combatido, afastando o reconhecimento da falta grave e demais consectários legais.
+Indeferida a liminar (fl. 83) e prestadas as informações (fls. 88/112), manifestou-se o Ministério Público Federal pela denegação da ordem (fls. 115/121).
+É o relatório.
+DECIDO.
+O Tribunal de origem negou provimento ao agravo, mantendo a decisão de primeiro grau que reconheceu a falta grave e aplicou os consectários legais, em acórdão assim ementado (fl. 66):
+"AGRAVO EM EXECUÇÃO. IRRESIGNAÇÃO DEFENSIVA. COMETIMENTO DE NOVO DELITO DURANTE O CUMPRIMENTO DA PENA. PRESO EM FLAGRANTE. FALTA GRAVE CONFIGURADA. BIS IN IDEM NÃO CONFIGURADO. DECISÃO MANTIDA.
+O art. 52 da LEP prevê como falta de natureza grave a "prática de fato previsto como crime doloso". Na hipótese, o acusado estava foragido do monitoramento eletrônico quando cometeu novo crime e fora preso em flagrante. Assim, correto o reconhecimento da falta grave pelo magistrado singular. Desnecessária a existência de sentença condenatória com trânsito em julgado do cometimento de novo delito para a configuração da flata disciplinar. Precedentes desta e. Corte. Mantido o reconhecimento da falta grave e, por conseguinte, alteração da data-base, ficando esta limitada apenas à futura progressão do regime.
+À UNANIMIDADE, NEGARAM PROVIMENTO AO AGRAVO EM EXECUÇÃO."
+A jurisprudência deste Superior Tribunal de Justiça, no julgamento do REsp 1.336.561/RS, representativo de controvérsia, consolidou o entendimento no sentido de que o reconhecimento da falta grave, consistente na prática de fato definido como crime doloso, prescinde de condenação com trânsito em julgado relativamente a este novo delito (Súmula 526/STJ). Por oportuno, confira-se a ementa do referido julgado:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ARTIGO 543-C DO CPC. EXECUÇÃO PENAL. FALTA GRAVE. FATO DEFINIDO COMO CRIME DOLOSO. TRÂNSITO EM JULGADO DA SENTENÇA PENAL CONDENATÓRIA. DESNECESSIDADE.
+1. O reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato.
+2. Recurso especial representativo de controvérsia provido para afastar a nulidade proclamada e reconhecer a prática de falta grave independentemente do trânsito em julgado de sentença penal condenatória. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/2008.
+(REsp 1336561/RS, Rel. Ministra LAURITA VAZ, Rel. p/ Acórdão Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 25/9/2013, DJe 01/4/2014).
+Ante o reconhecimento da prática das faltas disciplinares de natureza grave, verifica-se que as instâncias ordinárias determinaram a alteração da data-base e a perda de dias remidos, nos exatos termos do entendimento da Terceira Seção desta Corte, no julgamento do Recurso Especial n. 1.364.192/RS, sob o rito de recurso repetitivo (CPC, art. 543-C), consolidado nas Súmulas 441, 535 e 534 do STJ. Neste sentido:
+HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE CRIME DOLOSO. FALTA GRAVE. APURAÇÃO MEDIANTE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. EXIGÊNCIA OBSERVADA. PRESCINDIBILIDADE DE CONDENAÇÃO COM TRÂNSITO EM JULGADO. SÚMULA N. 526 DO STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. Conforme se extrai da documentação acostada ao writ, houve realização do devido procedimento administrativo disciplinar para apuração da falta grave imputada ao paciente. Desse modo, restou plenamente observado o entendimento consagrado na Súmula n. 533 do Superior Tribunal de Justiça - STJ, segundo a qual a instauração de PAD é imprescindível para o reconhecimento da falta grave.
+2. Consoante a jurisprudência iterativa desta Corte, a prática de crime doloso no curso da execução da pena permite o reconhecimento da falta disciplinar de natureza grave e a incidência de seus corolários, antes que sobrevenha o trânsito em julgado da ação penal ensejadora da infração disciplinar. Nesse sentido, a inteligência da Súmula n. 526 do STJ. Habeas corpus não conhecido.
+(HC 359.022/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/09/2016, DJe 10/10/2016)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. PRÁTICA DE NOVO CRIME DOLOSO NO CURSO DA EXECUÇÃO DA PENA. RECONHECIMENTO DE FALTA GRAVE. REGRESSÃO DE REGIME. NOVO MARCO PARA BENEFÍCIOS - EXCETO LIVRAMENTO CONDICIONAL, COMUTAÇÃO E INDULTO. PERDA DOS DIAS REMIDOS NO PERCENTUAL MÁXIMO. POSSIBILIDADE. TRÂNSITO EM JULGADO DE SENTENÇA PENAL CONDENATÓRIA. DESNECESSIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Esta Corte de Justiça firmou entendimento no sentido de que, a teor do art. 118, I, da LEP, o reeducando que comete fato definido como crime doloso no curso da execução penal, comete falta grave, nos termos do art. 52 da mesma lei.
+III - São consectários do reconhecimento da prática de falta grave a regressão do regime prisional, o estabelecimento de novo marco para benefícios da execução - exceto livramento condicional, comutação e indulto -, bem como a perda dos dias remidos, independente do trânsito em julgado de eventual sentença penal condenatória referente ao delito cometido no curso da execução.
+IV - A natureza especialmente grave da falta disciplinar - prática de roubos majorados pelo emprego de arma - justifica a adoção do percentual máximo de perda dos dias remidos (art. 127, da LEP).
+Habeas corpus não conhecido.
+(HC 399.472/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/10/2017, DJe 30/10/2017)
+Dessa forma, portanto, o acórdão do Tribunal de origem está em consonância com a jurisprudência desta Corte.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
