@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que negou provimento ao apelo defensivo.
+Aponta violação do art. 593, III, d, do Código de Processo Penal, ao argumento de que a sentença proferida no primeiro plenário de julgamento se deu sob o crivo de falsidade do elenco probatório, pois as testemunhas confessaram a verdade no segundo julgamento por terem sofrido COAÇÃO MORAL para que calassem a verdade no primeiro julgamento e ludibriassem as partes para condenar pessoa diversa da culpada (fl. 1.195).
+Ressalta os termos proferidos no voto vencido, no sentido de que os fundamentos do presente recurso são, quanto nos atos, diversos do inconformismo anterior, aparelhado pelo Ministério Público", sendo que assim "a vedação contida na parte final do parágrafo 12, do artigo 593, do Código de Processo Penal não tem o condão de autorizar o não conhecimento do inconformismo (fl. 1.189).
+Requer, assim, o provimento do recurso especial, a fim de submeter o recorrente a novo julgamento.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo improvimento do recurso.
+É o relatório.
+DECISÃO.
+Pretende o recorrente, com a interposição do recurso especial, a anulação do julgamento proferido em segundo Júri - por ter sido a decisão contrária à prova dos autos, uma vez que as testemunhas sofreram coação moral.
+Manifestou-se o Tribunal de origem, quanto à questão, nos seguintes termos (fls. 1.112-1.114):
+O apelo não merece ser conhecido.
+No caso dos autos, como se extrai notadamente do documentado a fls. 574, o réu sujeitou-se a um primeiro julgamento, ocasião em que absolvido dos delitos previstos no artigo 121, § 2º, incisos II, III e IV e artigo 211, ambos do Código Penal. O Ministério Público não se resignou, e apelou pleiteando fosse o réu submetido a novo julgamento, sob o fundamento de que a decisão dos jurados fora manifestamente contrária à prova dos autos, porquanto autenticados, no seu sentir, o intento homicida e a autoria delitiva (fls. 593/599).
+Assim é que sobreveio decisão deste C. Tribunal de Justiça, a determinar fosse o réu submetido a novo julgamento perante o Tribunal do Júri (fls. 693/697).
+Submetido a novo julgamento, o réu foi condenado à pena de 13 (treze) anos, 01 (um) mês e 15 (quinze) dias de reclusão, em regime inicial fechado, além de 11 (onze) dias-multa, no valor mínimo legal, por incurso nos artigos 121, § 2º, inciso IV, e 211, ambos do Código Penal (882/885).
+Contra essa decisão é que ora se insurge o recorrente.
+No entanto, o recurso não deve seguir porque obstaculizado seu conhecimento. É que, consoante dispõe o artigo 593, inciso III, alínea "d" e § 3º do Código de Processo Penal, não se admite, depois de submetido o réu a outro julgamento por glosado o primeiro contrário à prova dos autos, novo recurso sob o mesmo fundamento. A jurisprudência, como se depreende do aresto abaixo transcrito, é uníssona nesse sentido:
+ ..  E a questão não é diversa quando o primeiro apelo fora engendrado pela parte contrária. Nesse sentido: RJTJSP, 23/475, 30/406,38/283, RT 672/310.
+Ante o exposto, NÃO SE CONHECE do apelo.
+Expeça-se mandado de prisão.
+Na espécie, concluiu o Tribunal a quo pela impossibilidade de se anular o segundo julgamento do Tribunal do Júri, com base no mesmo fundamento: julgamento contrário à prova dos autos, nos termos do art. 593, § 3º, do Código de Processo Penal.
+Assim, extrai-se que o acórdão recorrido não destoa do entendimento desta Corte, que se firmou no sentido de que a diversidade dos fatos alegados ou da titularidade do recorrente não são fatores suficientes para flexibilizar a vedação expressa no § 3º do art. 593 do Código de Processo Penal, isso porque, a proibição prevista no referido dispositivo é absoluta e representa verdadeiro pressuposto recursal negativo objetivo, inserido na legislação processual penal pátria com a importante missão de preservar os veredictos do júri e impedir que os litígios se eternizem, pela reiterada interposição de recursos. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS INSUFICIENTES PARA REFORMAR A DECISÃO AGRAVADA. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. CABIMENTO, POR ESTE MOTIVO, DE UM ÚNICO APELO. VEDAÇÃO DO ART. 593, § 3º, DO CPP. PRESSUPOSTO PROCESSUAL NEGATIVO OBJETIVO. AGRAVO REGIMENTAL IMPROVIDO.
+1. O agravante não apresentou argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, razão que enseja a negativa de provimento ao agravo regimental.
+2. A diversidade dos fatos alegados ou da titularidade do recorrente não são fatores suficientes para flexibilizar a vedação expressa no § 3º do art. 593 do Código de Processo Penal. Isso porque a proibição prevista no referido dispositivo é absoluta e representa verdadeiro pressuposto recursal negativo objetivo, inserido na legislação processual penal pátria com a importante missão de preservar os veredictos do júri e impedir que os litígios se eternizem, pela reiterada interposição de recursos.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp 317.372/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 5/8/2014, DJe 14/8/2014).
+No mesmo sentido:
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. HOMICÍDIO. SEGUNDA APELAÇÃO. RECURSO DA DEFESA E POSTERIOR RECURSO MINISTERIAL. DECISÃO CONTRÁRIA À PROVA DOS AUTOS. SUBMISSÃO A NOVO JÚRI. NULIDADE. VEDAÇÃO DO ART. 593, § 3º, DO CPP. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..  2. O Código de Processo Penal prevê no art. 593, § 3º, vedação expressa da admissão de nova apelação contra o veredicto popular, se por idêntico fundamento promoveu-se a anulação de julgamento anterior, de modo a se evitar a prorrogação infindável do litígio, pela reiterada interposição de recurso.
+3. Ainda que diversas as teses alegadas, fundando-se ambas as apelações na mesma alínea - decisão dos jurados manifestamente contrária à prova dos autos (art. 593, III, d, do CPP) - o segundo recurso encontra óbice no art. 593, § 3º, do CPP, o qual não pode ser flexibilizado pelo Tribunal de origem.
+4. Habeas corpus não conhecido, ordem concedida de ofício para declarar a nulidade da decisão que deu provimento à segunda apelação, submetendo o paciente, por duas vezes, a novo julgamento perante o Tribunal do Júri por entender que a decisão dos jurados foi manifestamente contrária à prova dos autos (HC 109.777/PI, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/10/2015, DJe 16/11/2015).
+RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DECISÃO DOS JURADOS CONSIDERADA MANIFESTAMENTE CONTRÁRIA ÀS PROVAS DOS AUTOS. SUBMISSÃO A NOVO JÚRI. INVIABILIDADE DE INTERPOSIÇÃO DE SEGUNDO APELO COM BASE EM IDÊNTICO FUNDAMENTO. VEDAÇÃO DO ART. 593, § 3º, DO CPP.
+A vedação trazida pelo § 3º do art. 593 é de natureza lógica.
+Anulada a decisão do Tribunal Popular, em sede de apelação, por ser considerada manifestamente contrária à prova dos autos, não se pode admitir um segundo apelo, após novo julgamento pelo Júri, com espeque no mesmo fundamento.
+Agravo regimental desprovido (AgRg no AREsp 734.253/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 03/03/2016, DJe 14/03/2016).
+Estando, portanto, o acórdão recorrido em conformidade com o entendimento firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ, a obstar o processamento do recurso especial, inclusive, aos recursos interpostos com fundamento na alínea "a" do permissivo constitucional.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+Intimem-se.
