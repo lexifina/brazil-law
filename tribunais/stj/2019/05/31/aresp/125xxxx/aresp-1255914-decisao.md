@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNICOBA INDUSTRIA E COMERCIO LTDA (fls.1.419/1.431), doravante UNICOBA, contra decisão exarada pela il. Presidência do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação indenizatória proposta por UNICOBA em desfavor de TP-LINK TECNOLOGIA DO BRASIL LTDA.
+O il. Magistrado extinguiu o feito sem resolução do mérito (sentença às fls. 511/514).
+Diante disso, UNICOBA interpôs apelação, a qual foi em parte provida pelo eg. TJ-SP, nos termos do v. acórdão, assim ementado (fl. 595):
+"APELAÇÃO Reparação de danos fundada em Contrato de Distribuição e Representação Comercial - CLÁUSULA COMPROMISSÓRIA - ARBITRAGEM - Ação julgada extinta, sem julgamento do mérito (Artigo 267, VII, do CPC) - Cláusula de compromisso arbitral - Aplicação da Lei nº 9.307/96 (que dispõe sobre arbitragem) - Controvérsia que não pode ser submetida ao Poder Judiciário, considerando que as partes livremente pactuaram que todas as questões deverão ser negociadas amigavelmente por ambas as partes, com direito, caso não haja acordo, o caso deve ser submetido à Comissão Internacional de Arbitragem - Contrato de Adesão - Afastado - Pleito de minoração dos honorários - Acolhimento- Sentença parcialmente reformada - RECURSO PARCIALMENTE PROVIDO".
+Os embargos de declaração opostos (fls. 611/616) foram rejeitados (acórdão às fls. 625/630).
+Inconformado, UNICOBA interpôs recurso especial (fls. 1.278/1.300), com fulcro no art. 105, inciso III, alíneas "a" e "c", da CF/88, no qual alega, além da divergência jurisprudencial, violação dos arts. 4º, 20, 32, inciso I, e 33 da Lei n.º 9.307/96; e dos arts. 462 e 474 do CC/02.
+Como dito, o apelo nobre foi inadmitido às fls. 1.361/1.362.
+Irresignado, UNICOBA manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Foi apresentada contraminuta (fls. 1.437/1.441).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No apelo nobre que pretende trânsito, sustenta o recorrente a violação dos arts. 20, 32, inciso I, e 33 da Lei n.º 9.307/96 e do art. 474 do CC/02, ao argumento de que o contrato firmado entre as partes não estaria vigente e, portanto, não seria possível invocar a cláusula arbitral nele prevista. Afirma que essa cláusula seria patológica, de modo que a jurisdição estatal teria competência para analisá-la. O recurso, contudo, não merece prosperar. Isso porque o eg. TJ-SP, mediante análise soberana das provas existentes nos autos, concluiu pela validade da cláusula compromissória e, assim, ratificou a extinção do feito sem resolução de mérito.
+Para fins demonstrativos, colacionam-se os seguintes trechos do v. acórdão objurgado (fls. 598/601):
+"A i. julgadora de Piso deu correto deslinde a controvérsia ao reconhecer a extinção do feito pela Convenção de Arbitragem (fls.92 e 99) conforme cláusulas dos contratos acostados aos autos, pois as partes livremente firmaram a cláusula compromissória, elegendo para a solução de eventuais desacertos, a Câmara Internacional de Arbitragem de Hong Kong.
+Ainda consoante consta na "cláusula 13.1- Quaisquer questões relativas ao contrato que não puderem ser resolvidas expressamente ou implicitamente pelas disposições contidas no Contrato em si serão regidas: a.) pela Convenção das Nações Unidas sobre Contratos para a Venda Internacional de Mercadorias (CISG) e, b.) Se essas questões não foram abrangidas na CISG, por referência a lei do país onde a vendedora possui sua sede".
+Ademais, não há de se falar em nulidade da cláusula estipulada da convenção de arbitragem, conforme dispõe o art. 4º. Parágrafo 2º. da Lei 9.307/96, pois o que firmaram os litigantes não consiste em contrato de adesão.
+(..)
+Colhe-se dos autos, que o contrato de representação comercial, objeto da lide em exame, foi celebrado no Brasil, por uma empresa brasileira e outra Chinesa, estabelecendo a cláusula arbitral, que eventuais conflitos deveriam ser dirimidos pelo direito chinês, por árbitros da Câmara de Comercio Internacional da China. Trata-se no caso de contrato internacional, com características que não correspondem aos contratos internos, firmados para produzir efeitos dentro do país. Em decorrência desta peculiaridade, a hipótese dos autos deve receber tratamento jurídico próprio, em observância às regras estabelecidas pelo Protocolo de Genebra de 1923.
+Pelo referido Protocolo, a existência de cláusula de compromisso arbitral determina às partes obrigação de submeter os conflitos advindos destes contratos ao juízo arbitral, afastando a solução judicial.
+Nos contratos internacionais ganha relevo, a aplicação dos princípios gerais de direito internacional em detrimento da normatização específica de cada país, justificando no caso "sub judice" a análise da cláusula arbitral convencionada entre as partes em conformidade com o Protocolo de Genebra de 1923
+(..)
+De mais a mais, a inserção de cláusula arbitral nos contratos internacionais é uma prática frequente, razão maior até para afastar a irresignação da autora, pois é condição essencial para a celebração da avença, exatamente o caso dos autos em questão.
+A solução do conflito representa em última análise uma manifestação de vontade das partes, vinculada a observação do princípio da boa fé, ( que deve sempre permear a relação comercial havida entre as partes) quanto ao que foi pactuado, sob pena da empresa brasileira responder por ato desleal face ao descumprimento da regra livremente estipulada em contrato."
+Nesse cenário, para se alterar o entendimento ora transcrito, quanto à validade da cláusula compromissória, seria necessária a revisão de matéria fático-probatória, o que é inadmissível em sede de recurso especial, nos termos da Súmula 7/STJ.
+Outrossim, melhor sorte não socorre ao recurso no que diz respeito ao art. 4º da Lei n.º 9.307/96 e ao art. 462 do CC/02. Sob as mencionadas violações, afirma-se que o contrato, no qual contém a cláusula arbitral, não seria o objeto da demanda proposta pelo recorrente. Ressalta ainda que o eg. Tribunal estadual, em homenagem à boa-fé objetiva, deveria considerar o contrato preliminar firmado entre as partes, mas pendente de assinatura.
+Ocorre que a análise da lide sob o prisma desses artigos não constou das razões da apelação (fls. 534/562) nem nos embargos de declaração (fls. 611/616), sendo suscitado apenas no recurso especial, quando operada a preclusão, porquanto vedada a inovação de teses em sede recursal, configurando, desse modo, apenas o pós-questionamento. Nessa mesma toada, convém destacar:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INOVAÇÃO DE ARGUMENTOS. PREQUESTIONAMENTO. INVIABILIDADE. SÚMULA 211/STJ. PREPARO POSTERIOR À INTERPOSIÇÃO DO RECURSO ESPECIAL. DESERÇÃO. PRECEDENTES DO STJ. LITIGANTE DE MÁ-FÉ. CARACTERIZAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. A pretensão de ver analisados argumentos não veiculados anteriormente, mas trazidos somente agora, sem sede de agravo interno, não configura prequestionamento, e sim pós-questionamento. Incidência da Súmula 211/STJ.
+(..)
+4. Agravo interno não provido."
+(AgInt nos EDcl no AREsp 1.165.982/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/6/2018, DJe de 29/6/2018 - grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 535 DO CPC. OMISSÃO. INEXISTÊNCIA. PROVA. ÔNUS. INVERSÃO. INOCORRÊNCIA. REEXAME. SÚMULAS NºS 7/STJ E 284/STF. RELAÇÃO DE CONSUMO. PÓS-QUESTIONAMENTO. INADMISSIBILIDADE.
+1. Não viola o artigo 535 do Código de Processo Civil nem importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+(..)
+3. As questões agitadas apenas em sede de embargos de declaração são inadequadas para provocar o prequestionamento, senão inadmissível tentativa de pós-questionamento.
+4. Agravo regimental não provido."
+(AgRg no AREsp 589.275/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2015, DJe de 27/10/2015 - grifou-se)
+Por fim, ressalta-se que a incidência do Verbete n. 7 da Súmula do STJ, na questão controversa apresentada, também impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa. Corrobora essa conclusão o precedente a seguir:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR VÍCIOS DE CONSTRUÇÃO. ACÓRDÃO RECORRIDO QUE CONCLUIU PELA EXISTÊNCIA DE PREJUÍZOS DE ORDEM ESTÉTICA, DE SAÚDE E ESTRUTURAIS. PRETENSÃO DE AFASTAMENTO DA CONDENAÇÃO POR DANOS MORAIS. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA 7/STJ. RECURSO DESPROVIDO.
+1.
+(..)
+2. Desse modo, a verificação de ofensa aos dispositivos legais invocados encontra óbice na Súmula 7 do STJ, uma vez que a revisão da conclusão do julgado não prescindiria do reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial.
+3. Segundo a iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, devido à ausência de identidade entre as bases fáticas do acórdão recorrido com os paradigmas colacionados, que são próprias de cada caso.
+4. Agravo interno a que se nega provimento."
+(AgInt no REsp 1778099/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/04/2019, DJe 09/04/2019, grifou-se)
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, de R$ 50.000,00 (cinquenta mil reais) para R$ 55.000,00 (cinquenta e cinco mil reais).
+Publique-se.
