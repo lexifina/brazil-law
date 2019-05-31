@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por LOURENI MENDES E OUTROS, com fulcro nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"ADMINISTRATIVO. AMBIENTAL. AÇÃO CIVIL PÚBLICA. PESCA PREDATÓRIA DE ARRASTO DENTRO DAS TRÊS MILHAS MARÍTIMAS. DANO AMBIENTAL. QUANTUM INDENIZATÓRIO. PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. CONDENAÇÃO SOLIDÁRIA. CUMULAÇÃO DA OBRIGAÇÃO DE PAGAR COM OBRIGAÇÃO DE FAZER. UTILIZAÇÃO DO DISPOSITIVO EXCLUSOR DE TARTARUGAS. TERMO INICIAL DE JUROS MORATÓRIOS (EVENTO DANOSO) E CORREÇÃO MONETÁRIA (DATA DA FIXAÇÃO). MULTA DIÁRIA. HONORÁRIOS ADVOCATÍCIOS.
+1. Manutenção da sentença de origem que condenou os réus infratores ao pagamento de indenização e de danos morais coletivos, decorrentes da prática de dano ambiental por pesca predatória realizada com redes de arrasto de fundo, a menos de três milhas da costa do Rio Grande do Sul.
+2. A indenização fixada é razoável e proporcional para atender ao caráter reparatório, punitivo e pedagógico desta condenação, considerando que há reincidência dos réus.
+3. As indenizações contemplam os danos praticados por ambas embarcações e há solidariedade entre os réus para arcar com o pagamento porque a pesca, neste caso, foi realizada através de parelha dessas embarcações com uma rede.
+4. É possível a cumulação da condenação de pagar indenização com obrigação de fazer (art. 3º da Lei nº 7.347/85).
+5. As normas que regem a utilização do Dispositivo Exclusor de Tartarugas obrigam apenas as embarcações permissionadas para a pesca de camarões, o que não é o caso dos autos.
+6. É necessária a educação ambiental dos profissionais da pesca, a fim de que tenham conhecimento das conseqüências da prática da pesca ilegal, bem como evitar condutas como dificultar a fiscalização e não demonstrar o menor cuidado com o meio ambiente.
+7. O montante indenizatório deve ser atualizado a contar da decisão que o arbitrou (Súmula 362 do STJ), cabendo a incidência de juros de mora a partir do evento danoso (Súmula 54 do STJ).
+8. A multa (astreintes) não tem caráter de pena, mas medida coercitiva para constranger ao cumprimento da obrigação. Valor da multa diária reduzido para R$ 1.000,00.
+9. Os fatos praticados pelos réus não caracterizam improbidade administrativa, razão por que não se aplicam as disposições da Lei de Improbidade (Lei nº 8.429/92).
+10. A isenção do autor (IBAMA) quanto aos honorários advocatícios na ação civil pública (art. 18 da Lei nº 7.347/85) não se estende ao réu.
+11. O objetivo da publicação da sentença em jornal é dar publicidade a possíveis interessados na execução da sentença, principalmente quando se trata de ação coletiva para a defesa de interesses individuais homogêneos. A relevância da causa não demanda maior repercussão.
+12. Apelações parcialmente providas" (fls. 1.032/1.033e).
+O acórdão em questão foi objeto de Embargos de Declaração, parcialmente providos, nos seguintes termos:
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. HIPÓTESES DE CABIMENTO. IMPOSSIBILIDADE DE REDISCUSSÃO DOS FUNDAMENTOS DO ACÓRDÃO EMBARGADO.
+1. Os embargos de declaração são cabíveis para o suprimento de omissão, saneamento de contradição ou esclarecimento de obscuridade no julgamento embargado.
+A jurisprudência também os admite para a correção de erro material e para fins de prequestionamento.
+2. Os embargos declaratórios não se prestam à reforma do julgado proferido, nem substituem os recursos previstos na legislação processual para que a parte inconformada com o julgamento possa buscar sua revisão ou reforma.
+3. Embargos declaratórios parcialmente providos apenas para fins de prequestionamento" (fl. 1.108e).
+Apontam os recorrentes, nas razões do Recurso Especial, ofensa aos arts. 373, I, do CPC/2015, argumentando, em síntese, que "não existiu nexo de causalidade entre os atos praticados e os danos supostamente causados, uma vez que estes não restaram demonstrados com a produção de qualquer prova pelo IBAMA, conforme disposição encontrada no artigo 373, inciso I, do atual CPC" (fl. 1.073e).
+Asseveram que "não existe dano moral ao ambiente, tampouco ofensa aos mares ou mesmo agressão moral a uma coletividade ou um grupo de pessoas não identificadas" (fl.1.074e); que "o valor imputado aos Recorrentes está despido de qualquer elemento ou parâmetro, sendo abusivo e ilegal, não podendo consequentemente subsistir" (fl. 1.075e); e que "na avaliação dos serviços profissionais, além da sua excelência, deve se analisar o trabalho e o tempo gasto, tendo neste caso a 2ª Turma do Tribunal Regional Federal da 4ª Região se equivocado quanto ao arbitramento, atribuindo uma verba vultosa em relação ao trabalho desenvolvido pelos procuradores do Recorrido" (fl. 1.075e).
+Requerem, ao final, o provimento do recurso.
+O Tribunal de origem admitiu o Recurso Especial (fl. 1.168e).
+A irresignação não merece prosperar.
+Quanto ao art. 373, I, do CPC/2015, concluiu o Tribunal Regional Federal da 4ª Região estar "devidamente comprovado nos autos que as embarcações dos réus encontravam-se realizando pesca de arrasto há menos de 3 milhas náuticas da costa, o que motivou a autuação pela prática do ilícito previsto no art. 34 da Lei nº 9.605/98 e no art. 19 do Decreto nº 3.179/99" (fl. 1.025e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+No que se refere às alegações de inexistência de dano moral ambiental coletivo, de suposta exorbitância do quantum arbitrado e dos honorários advocatícios, verifica-se que a parte recorrente não indicou, com precisão e objetividade, de forma clara e individualizada, como lhe competia, os dispositivos legais que porventura tenham sido malferidos pelo Tribunal de origem, o que caracteriza ausência de técnica própria indispensável à apreciação do Recurso Especial.
+Diante desse quadro, tem incidência, por analogia, a Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
