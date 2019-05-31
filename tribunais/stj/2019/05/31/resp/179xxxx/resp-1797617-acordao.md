@@ -1,0 +1,90 @@
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. PRECLUSÃO. AFRONTA À COISA JULGADA. OMISSÃO. INEXISTÊNCIA. FUNDAMENTO AUTÔNOMO NÃO ATACADO. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULAS 283 E 284 DO STF. DESCABIMENTO DE HONORÁRIOS RECURSAIS. AUSÊNCIA DE HONORÁRIOS NA ORIGEM.
+1. Inicialmente, constata-se que não se configura a ofensa ao art. 535 do Código de Processo Civil/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. No enfrentamento da matéria, o Tribunal de origem lançou o seguinte arrazoado (fls. 296-297, e-STJ): "Segundo consta, a Fazenda Estadual interpôs agravo de instrumento objetivando a rediscussão com relação à forma de cálculo determinada pelo magistrado a quo, em virtude de incorreções na aplicação dos juros compensatórios. Conforme se verifica dos documentos de fls. 18/149 dos autos, há decisão já transitada em julgado, sendo este o título judicial que se executa no feito principal. Na decisão atacada, constou expressamente que "No que diz respeito aos juros compensatórios, com razão a parte exequente, posto que há decisão transitada em julgado proferida no curso da execução determinando a fluência de referidos juros durante o parcelamento (vide acórdão de fls.597/602, e que foi mantido pelas instâncias superiores). Quanto a este tema, portanto, mostra-se devida a sua incidência, sob pena de ofensa ao acórdão supra referido". Qualquer discussão relativa à forma de cálculo dos juros compensatórios deveria ter sido realizada no momento oportuno e através do recurso adequado, o que não ocorreu. Trata-se de situação onde se operou a preclusão. Além disso, no caso em exame, há coisa julgada, que não pode ser alterada, sob pena de violação do art. 5º, XXXVI, da Constituição Federal".
+3. A fundamentação utilizada pelo Tribunal a quo para firmar seu convencimento não foi inteiramente atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 283 e 284 do STF, ante a ausência de impugnação de fundamento autônomo e a deficiência na motivação.
+4. O art. 85, § 11, do CPC/2015, ao prescrever que "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal", estabeleceu uma condição para que ocorra a condenação em honorários recursais, que é justamente a condenação prévia pela instância inferior em honorários sucumbenciais.
+5. In casu, o Tribunal de origem não fixou honorários sucumbenciais, não sendo cabível, portanto, tal majoração.
+6. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Og Fernandes e Francisco Falcão."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - Execução de Sentença em Ação de Desapropriação - Parcelamento - Determinação de envio dos autos ao contador judicial - Observância dos parâmetros indicados na sentença e no v. Acórdão - Preclusão - Ocorrência - Afronta à coisa julgada - Recurso improvido.
+Os Embargos de Declaração foram rejeitados.
+Aponta a parte recorrente, em Recurso Especial, violação, em preliminar, do art. 535 do CPC/1973; e, no mérito, dos art. 475-N, inciso I, 475-J, 475-B e 710 do CPC/1973.
+Contrarrazões às fls. 331-341, e-STJ.
+À fl. 382, e-STJ, foi dado provimento ao Agravo e determinada sua conversão em Recurso Especial, sem prejuízo de exame posterior mais profundo da admissibilidade.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos ingressaram neste Gabinete em 19.3.2019.
+Inicialmente, constato que não se configura a ofensa ao art. 535 do Código de Processo Civil/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Dessarte, como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+Ressalte-se que a mera insatisfação com o conteúdo da decisão embargada não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 535 do CPC/1973. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. (TRIBUTÁRIO. AGRAVO REGIMENTAL. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. LEI 9.316/96. ACÓRDÃO RECORRIDO FUNDADO EM MATÉRIA CONSTITUCIONAL. IMPROPRIEDADE DA VIA ELEITA).
+1. O inconformismo, que tem como real escopo a pretensão de reformar o decisum, não há como prosperar, porquanto inocorrentes as hipóteses de omissão, contradição, obscuridade ou erro material, sendo inviável a revisão em sede de embargos de declaração, em face dos estreitos limites do art. 535 do CPC.
+2. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão.
+3. A pretensão de revisão do julgado, em manifesta pretensão infringente, revela-se inadmissível, em sede de embargos
+(..)
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 824.309/RJ, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe 11/05/2009, grifei).
+No enfrentamento da matéria, o Tribunal de origem lançou o seguinte arrazoado (fls. 296-297, e-STJ):
+Segundo consta, a Fazenda Estadual interpôs agravo de instrumento objetivando a rediscussão com relação à forma de cálculo determinada pelo magistrado a quo, em virtude de incorreções na aplicação dos juros compensatórios.
+Conforme se verifica dos documentos de fls. 18/149 dos autos, há decisão já transitada em julgado, sendo este o título judicial que se executa no feito principal.
+Na decisão atacada, constou expressamente que "No que diz respeito aos juros compensatórios, com razão a parte exequente, posto que há decisão transitada em julgado proferida no curso da execução determinando a fluência de referidos juros durante o parcelamento (vide acórdão de fls.597/602, e que foi mantido pelas instâncias superiores). Quanto a este tema, portanto, mostra-se devida a sua incidência, sob pena de ofensa ao acórdão supra referido".
+Qualquer discussão relativa à forma de cálculo dos juros compensatórios deveria ter sido realizada no momento oportuno e através do recurso adequado, o que não ocorreu.
+Trata-se de situação onde se operou a preclusão.
+Além disso, no caso em exame, há coisa julgada, que não pode ser alterada, sob pena de violação do art. 5º, XXXVI, da Constituição Federal.
+A fundamentação utilizada pelo Tribunal a quo para firmar seu convencimento não foi inteiramente atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite adotar na espécie, por analogia, os óbices das Súmulas 283 e 284 do STF, ante a ausência de impugnação de fundamento autônomo e a deficiência na motivação
+Nesse sentido, confiram-se os julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO CONFIGURADA. PEDIDO GENÉRICO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF.
+1. Hipótese em que se acolhem os aclaratórios para sanar a contradição apontada quanto ao pedido genérico.
+2. A fundamentação utilizada pelo Tribunal a quo para firmar seu convencimento não foi inteiramente atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. Embargos de Declaração acolhidos, sem efeito infringente, apenas para sanar contradição e integrar o julgado.
+(EDcl no REsp 1.617.381/RJ, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 22/5/2018)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS N. 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A orientação jurisprudencial do STJ declarou que os servidores integrantes de associação coletiva serão beneficiados por título proferido em mandado de segurança coletivo independentemente da existência de lista de servidores na petição inicial
+2. Não se conhece do recurso especial, quando a parte deixa de impugnar de forma suficiente fundamento autônomo, que por si só é capaz de manter o julgado (Súmula 283/STF), bem como quando a deficiência de fundamentação não permitir a compreensão da controvérsia (Súmula 284/STF).
+3. Agravo interno não provido.
+(AgInt no AREsp 1.206.856/SP, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 24/05/2018)
+O Superior Tribunal de Justiça editou a Súmula Administrativa 7, que disciplina a incidência do art. 85, §11, do CPC diante do direito intertemporal:
+Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do novo CPC.
+Assim, é preciso verificar a data em que publicado o acórdão recorrido para determinar a aplicabilidade do § 11 do art. 85 do CPC/2015.
+No caso específico do autos, trata-se de processo eletrônico, no qual se nota que a publicação do acórdão recorrido foi depois de 18.3.2016.
+Contudo, o art. 85, §§ 1º e 11, do Código de Processo Civil/2015 assim dispõe:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+§ 1º São devidos honorários advocatícios na reconvenção, no cumprimento de sentença, provisório ou definitivo, na execução, resistida ou não, e nos recursos interpostos, cumulativamente.
+(..)
+§ 11. O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento. (grifei)
+Como se vê, o art. 85, § 11, do CPC/2015, ao prescrever que "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal", estabeleceu uma condição para que ocorra a condenação em honorários recursais, que é justamente a condenação prévia pela instância inferior em honorários sucumbenciais.
+In casu, o Tribunal de origem não fixou honorários sucumbenciais, razão pela qual são indevidos os honorários recursais ora pleiteados.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PREMISSA EQUIVOCADA. CABIMENTO. ATRIBUIÇÃO DE EFEITOS INFRINGENTES.
+1. Na esteira da jurisprudência do STJ, cabem Embargos de Declaração para os fins ordinários (correção dos vícios de omissão, obscuridade ou contradição) e, em caráter excepcional, para adequar o julgamento à orientação firmada no julgamento de recursos repetitivos ou superação de premissa equivocada (esta última a situação do caso concreto).
+2. Hipótese em que o acórdão embargado acolheu os Embargos de Declaração da União para determinar a aplicabilidade do § 11 do art. 85 do CPC/2015 e majorar "em 5% os honorários advocatícios (fixados pela instância de origem em R$ 800,00 (oitocentos reias) (fl 689, e-STJ), considerando que a atuação recursal da embargante consistiu unicamente na apresentação de contrarrazões".
+3. De fato, o art. 85, § 11, do CPC/2015, ao prescrever que "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal", estabeleceu uma condição para que ocorra a condenação em honorários recursais, que é justamente a condenação prévia pela instância inferior em honorários sucumbenciais.
+4. In casu, ao julgar o Agravo de Instrumento interposto pela União, o Tribunal de origem não fixou honorários sucumbenciais, não sendo cabível, portanto, tal majoração.
+5. Embargos de Declaração acolhidos, com efeitos modificativos, para reconhecer a inaplicabilidade do art. 85, § 11, do CPC/2015 à hipótese em exame.
+(EDcl nos EDcl no REsp 1.644.080/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. CONSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA. INDENIZAÇÃO. PRETENSÃO DE CONSIDERAÇÃO DO IMÓVEL COMO RURAL. INFLUÊNCIA NO VALOR INDENIZATÓRIO. VIOLAÇÃO A NORMATIVOS FEDERAIS. PRESTAÇÃO JURISDICIONAL INCOMPLETA. RAZÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE INTERESSE RECURSAL. ACÓRDÃO FUNDAMENTADO NO MESMO SENTIDO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE DE REVISÃO DO ACERVO PROBATÓRIO. SÚMULA 07/STJ.
+1. A alegação de ausência de prestação jurisdicional adequada e, por via de consequência, de violação ao art. 1.022, inciso II, e ao art. 489, § 1.º, inciso VI, do CPC/2015, exige do recorrente a indicação de qual o texto legal, as normas jurídicas e as teses recursais não foram objeto de análise nem de emissão de juízo de valor pelo Tribunal da origem, pena de a preliminar carecer de fundamentação pertinente. Inteligência da Súmula 284/STF.
+2. Ausente o interesse na pretensão de reforma de acórdão que adota o mesmo fundamento preconizado como razão recursal.
+3. Não é cognoscível o recurso especial para o exame da justeza da indenização arbitrada em ação de constituição de servidão administrativa quando a verificação disso exigir a revisão e a reinterpretação dos critérios e da metodologia utilizados nos laudos do assistente técnico e do perito judicial. Inteligência da Súmula 07/STJ.
+4. Não cabem honorários recursais na hipótese de inexistência de condenação prévia em honorários sucumbenciais principais, quando, por exemplo, houver a estipulação de sucumbência recíproca. Inteligência do art. 85, § 11, do CPC/2015.
+5. Recurso especial não conhecido.
+(REsp 1.697.387/RO, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 18/12/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO ORDINÁRIA DE CUMPRIMENTO DE CLÁUSULA CONTRATUAL. TRAMITAÇÃO REGULAR. DETERMINAÇÃO DE DILIGÊNCIA EM FASE DECISÓRIA. ÔNUS PROBATÓRIO DISTRIBUÍDO A AUTARQUIA FEDERAL. VIOLAÇÃO A NORMATIVOS FEDERAIS. PRESTAÇÃO JURISDICIONAL INCOMPLETA. DESCARACTERIZAÇÃO. INOVAÇÃO RECURSAL. TESE INCAPAZ DE INFIRMAR A CONCLUSÃO ADOTADA PELO JULGADOR. MERO JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. JURISPRUDÊNCIA DO STJ. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DESCABIMENTO DE HONORÁRIOS RECURSAIS. QUESTÃO INTERLOCUTÓRIA. AUSÊNCIA DE HONORÁRIOS NA ORIGEM.
+1. Não há violação ao art. 1.022 do CPC/2015 na hipótese da ausência de enfrentamento de ponto ou questão surgida apenas em embargos de declaração, e que não eram de conhecimento de ofício do juiz, assim como em se tratando de tese incapaz de infirmar a conclusão adotada pelo julgador. Precedentes.
+2. Não cumpre o requisito do prequestionamento o recurso especial para salvaguardar a higidez de norma de direito federal não examinada pela origem, que tampouco, a título de prequestionamento implícito, confrontou as respectivas teses jurídicas. Óbice da Súmula 211/STJ.
+3. Não cabe a majoração de honorários recursais, com fundamento no art. 85, § 11, do CPC/2015, em recurso especial interposto contra acórdão de julgamento de agravo de instrumento que não ponha termo à demanda nem, portanto, fixe sucumbência na origem.
+4. Recurso especial conhecido em parte e, nessa extensão, não provido.
+(REsp 1.688.566/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 18/12/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. AÇÃO CAUTELAR. PRODUÇÃO ANTECIPADA DE PROVAS. PRETENSÃO RESISTIDA. CONDENAÇÃO DO REQUERIDO AO PAGAMENTO DOS ÔNUS SUCUMBENCIAIS. POSSIBILIDADE. HONORÁRIOS RECURSAIS. CABIMENTO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. "É cabível a condenação do réu, em ação cautelar de produção antecipada de provas, se vencido, ao pagamento dos ônus sucumbenciais quando caracterizada a resistência à pretensão autoral" (AgRg no AREsp n. 513.903/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/8/2015, DJe 16/9/2015).
+3. "5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso. (..) 10. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba" (AgInt nos EREsp n. 1.539.725/DF, Relator Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 9/8/2017, DJe 19/10/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.161.606/SC, Rel. Min. ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 19/12/2017)
+Por tudo isso, não conheço do Recurso Especial.
+É como voto.
