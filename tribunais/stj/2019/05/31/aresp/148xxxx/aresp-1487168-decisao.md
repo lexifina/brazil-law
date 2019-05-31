@@ -1,0 +1,34 @@
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ITBI. IMUNIDADE. MANDADO DE SEGURANÇA NÃO CONHECIDO NA ORIGEM. SÚMULAS N. 211 DO STJ E 283 E 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de HTL Participações LTDA, fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO CÍVEL - Mandado de Segurança ITBI - Município de São Paulo - Pretensão de isenção tributária em razão da desincorporação de bens imóveis do capital social de empresas Insurgência contra sentença denegatória da segurança em razão da necessidade de produção de provas - Ausência de prova pré-constituída Imprescindível a dilação probatória para dirimir a questão - Inadequação da via processual eleita Sentença extintiva sem resolução do mérito mantida - Recurso não provido.
+Opostos embargos de declaração, foram eles rejeitados.
+No recurso especial, a recorrente alega violação do art. 36 do CTN, pleiteando o reconhecimento da imunidade do ITBI na operação, sustentando que a extinção de pessoa jurídica também é evento societário apto a afastar a incidência do tributo.
+Houve contrarrazões (e-STJ fls. 364/367).
+Sobreveio juízo negativo de admissibilidade pela incidência da Súmula n. 7/STJ.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Não houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo à análise do recurso especial.
+Trata-se, na origem, de mandado de segurança impetrado pela ora recorrente para ver reconhecido direito à imunidade tributária.
+A insurgência não merece prosperar.
+A Corte de origem extinguiu o feito sem resolução de mérito dada a necessidade de dilação probatória a fim de reconhecer o direito pleiteado, inviabilizando a análise do tema pela via mandamental.
+Dessa feita, evidente que o mérito da demanda não foi analisado pelo acórdão vergastado, carecendo o ponto de necessário prequestionamento a despeito da oposição de declaratórios e atraindo o óbice da Súmula n. 211/STJ.
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ARTS. 267, VI E 295, II DO CPC/1973: PREQUESTIONAMENTO AUSENTE. SÚMULA 211/STJ. AUSÊNCIA DE CITAÇÃO DO EXECUTADO. COMPARECIMENTO ESPONTÂNEO, NÃO HAVENDO, POIS, NULIDADE. AGRAVO REGIMENTAL DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO. 1. Inexistiu o prequestionamento da matéria relativa aos arts. 267, VI e 295, II do CPC, ou seja, sobre eles não se manifestou o Tribunal de origem, de modo que não consta no acórdão recorrido qualquer menção a respeito de sua disciplina normativa. O prequestionamento, como requisito de admissibilidade para a abertura da instância especial, é admitido não só na forma explícita, mas, também, implícita, o que não dispensa, nos dois casos, o necessário debate da matéria controvertida, o que não ocorreu. Portanto, incide, no caso, o enunciado 211 da Súmula de jurisprudência desta Corte.
+2. No mais, o Tribunal de origem concluiu que, no tocante à citação do executado, releva ressaltar que este compareceu espontaneamente ao processo, com o que a alegada inexistência desse ato foi suprida, não havendo, pois, que se falar em nulidade. Tal entendimento encontra-se em consonância com o entendimento consolidado nesta Corte Superior, segundo o qual não se reconhece a nulidade da citação na hipótese se houver comparecimento espontâneo do réu.
+Precedentes: AgInt nos EDcl no AREsp. 919.785/SP, Rel. Min. MARCO BUZZI, DJe 12.11.2018; RHC 101.956/MG, Rel. Min. FELIX FISCHER, DJe 3.10.2018.
+3. Agravo Regimental da Contribuinte a que se nega provimento.
+(AgRg no AREsp 409.510/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/03/2019, DJe 01/04/2019)
+No mais, o feito não foi conhecido na origem em virtude da necessidade de produção de provas, o que não foi rebatido no presente apelo, em desatenção ao ônus da dialeticidade, mantendo incólume o decisium recorrido e tornando incompreensível a controvérsia posta. Incidem as Súmulas n. 283 e 284 do STF, aplicadas por analogia por esse Tribunal Superior.
+Exemplificativamente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. REGIME DO SIMPLES. EMPRESA DE CONSTRUÇÃO CIVIL. ART. 9º DA LEI 9.317/1996. ACÓRDÃO RECORRIDO FUNDAMENTADO EM PRECEDENTES DO STJ. RECURSO ESPECIAL QUE NÃO INFIRMA A APLICABILIDADE DOS PRECEDENTES. SÚMULA 83/STJ. DEFICIÊNCIA DE MOTIVAÇÃO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO STF. 1. O acórdão recorrido fundamentou seu decisum em precedentes do STJ que embasariam a decisão prolatada. De acordo com os arestos colacionados, somente com a introdução do § 4º no art. 9º da Lei 9.317/1996 é que as empresas de construção civil em geral passaram a não mais poder optar pelo regime do SIMPLES.
+2. Da leitura atenta do Recurso Especial e do Agravo interposto contra a inadmissibilidade na origem, não se extrai da insurgência qualquer decisão mais recente do STJ capaz de infirmar o fundamento jurisprudencial adotado pelo Tribunal a quo, tampouco demonstração mínima de que a orientação jurisprudencial do STJ acerca do tema é outra ou de que não esteja pacificada no mesmo sentido do acórdão impugnado.
+3. Limitou-se a parte a afirmar que a vedação ao SIMPLES para as empresas de construção civil já constava da redação original da Lei 9.317/1996 e que a jurisprudência era apenas da Primeira Turma do STJ, sem qualquer comprovação do sustentado ou mesmo demonstração eventual de que os precedentes citados não se aplicam ao caso dos autos, por versarem sobre situação diversa.
+4. Nessas circunstâncias, não se pode conhecer do recurso por força da Súmula 83/STJ e da deficiência de motivação (Súmulas 283 e 284 do STF), uma vez que a recorrente deixou de rebater específica e adequadamente fundamento utilizado pelo Tribunal de origem para firmar seu convencimento. Precedentes do STJ.
+5. Recurso Especial não conhecido.
+(REsp 1703097/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/12/2017, DJe 19/12/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
