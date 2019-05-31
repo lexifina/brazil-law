@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por OI S.A. em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"SUBSCRIÇÃO DE AÇÕES. TELEFONIA. CUMPRIMENTO DE SENTENÇA. INTERLOCUTÓRIO QUE ACOLHEU EM PARTE A IMPUGNAÇÃO E HOMOLOGOU OS CÁLCULOS ELABORADOS PELO PERITO. RECURSO DA EXECUTADA. VALOR PATRIMONIAL DA AÇÃO. DISPONIBILIZAÇÃO DE BALANCETES TRIMESTRAIS PELA EMPRESA EMISSORA. RESPEITO À COISA JULGADA.
+Não encontra óbice na coisa julgada a utilização de Valor Patrimonial da Ação referente a mês anterior ao da integralização. do capital, quando se tratar de valor equivalente ào daquela data, haja vista a publicação de balancetes trimestrais pela Telebrás na época da integralização do capital pelo acionista.
+OFENSA À COISA JULGADA. COTAÇÃO DAS AÇÕES. INOBSERVÂNCIA DOS PARÂMETROS ESTABELECIDOS NO TÍTULO EXEQUENDO.
+O cumprimento de sentença deve orientar-se pelo título que o fundamenta, sob pena de ofensa à coisa julgada.
+AGRAVO PARCIALMENTE PROVIDO." (fl. 35)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a ora agravante aponta violação aos arts. 502, 503, 508 e 1022 do Código de Processo Civil de 2015, sustentando, em síntese, omissão no acórdão recorrido, ofensa à coisa julgada pois foi utilizado o valor patrimonial anterior à data da integralização do contrato e "a utilização do VPA divulgado no mês da inteqralização, no caso dos autos, o VPA divulgado pela Telebrás e aprovado em setembro de 1990 (Cr$4,448), e para contrato firmado em novembro/1989, aplica-se o VPA de dezembro/1989 (Cr$1,501)" (fl. 80-101).
+Não foram apresentadas contrarrazões.
+É o relatório.
+De início, não se vislumbra a alegada violação ao art. 1022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste qualquer omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide. Impende ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994).
+Ademais, no tocante ao valor patrimonial da ação, o eg. Tribunal de origem consignou:
+"Outrossim, é notório que, a época, a Telebrás publicava balancetes trimestrais em vez de mensais.
+Com isso em mente, extrai-se da planilha confeccionada pela Corregedoria-Geral de Justiça, precisamente na aba intitulada "VPA - Telebrás", que os Valores Patrimoniais das Ações concernente aos meses de junho, julho e agosto de 1990 são iguais (Cr$ 3,1020) e o mesmo acontece quanto aos meses de setembro, outubro e novembro de 1989 (NCz$ 0,6020), o que sugere que o balancete divulgado pela companhia que embasou os VPAs é referente a tais meses.
+Por oportuno, esclarece-se que não encontra óbice na coisa julgada a utilização de Valor Patrimonial da Ação referente a mês anterior ao da integralização do capital, quando se tratar de valor equivalente ao daquela data, haja vista a publicação de balancetes trimestrais pela Telebrás na época da integralização do capital pelo acionista.
+Logo, constata-se que o expert fez uso dos índices corretos para fundamentar o cálculo das indenizações (fls. 322 e 325 do anexo II), de modo que se rechaça o argumento da agravante." (fl. 50)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
