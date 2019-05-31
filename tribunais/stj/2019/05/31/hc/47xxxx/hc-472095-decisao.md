@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de AIDA [NOME], em face de acórdão do Tribunal de Justiça de São Paulo que denegou writ de origem, assim ementado (fl. 154):
+HABEAS CORPUS. Trancamento da ação penal. Inépcia da denúncia. Inocorrência. Inicial acusatória que descreve os fatos de forma clara e objetiva. Ausência de justa causa. Não ocorrência. Ausência de prova pré-constituída e inequívoca.
+Ordem denegada.
+Extrai-se dos autos que a recorrente foi denunciada pela prática do crime previsto no art. 339, caput, do Código Penal.
+Sustenta a defesa, em síntese, que a denúncia não possui os requisitos mínimos capazes de demonstrar a autoria do crime imputado à paciente, ao que requer o trancamento da ação a que responde pela prática do crime de denunciação caluniosa.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+DECIDO.
+Consoante relatado, afirma o impetrante, em síntese, inépcia da inicial acusatória, por se tratar de denúncia genérica, vaga, e falta de justa causa, em razão da ausência de prova da autoria da paciente na prática do crime de denunciação caluniosa.
+Ao analisar o writ originário, o Tribunal de Justiça de São Paulo afastou as teses defensivas por entender que embora a inicial acusatória seja sucinta, ela descreve de forma objetiva e clara o fato imputado à paciente, narrando que ela atribuiu a prática do crime de falsidade ideológica à pessoa que sabia inocente e indicando o modo pelo qual ela deu início à instauração de inquérito policial. (fl. 155).
+Acerca dos fatos delituosos, assim descreve a inicial acusatória (fls. 56/57):
+Consta dos inclusos autos de Inquérito Policial que, no dia 26 de março de 2014, por volta das 17h20min, nas dependências da Delegacia de Policia de São Roque, nesta cidade e comarca de São Roque/SP, AIDA MARTINS FORMIGA, identificado a fls 585/586, deu causa à instauração de investigação policial contra MARIA [NOME] (fls. 15), imputando-lhe crime de que a sabia inocente
+Conforme a apurado, na data dos fatos, AÍDA procurou a Delegacia de Policia de São Roque e registrou o boletim de ocorrência de nº 1011/2014, versando sobre a prática de eventual delito de falsidade ideológica, praticado, em tese, por MARIA [NOME].
+Diante da notitia criminis, a I. Autoridade Policial instaurou Inquérito Policial para fins de elucidação do fato.
+Ocorre que após as investigações encetadas pela Polícia Judiciária, aquilatou-se que AÍDA, professora do Estado de São Paulo, a fim de satisfazer pretensão própria, imputou falsamente a MARIA [NOME], Dirigente Regional de Ensino da Região de São Roque, o crime previsto no art 299 do Código Penal, alegando que esta produziu documento ideologicamente falso.
+Diante do exposto, DENUNCIO a Vossa Excelência AÍDA MARTINS [NOME] como incursa no art. 339, "caput". do Código Penal e requeiro que, recebida e autuada esta, instaure-se o devido processo legal, nos moldes dos arts. 396 e seguintes do Estatuto Processual Penal, citando-se a denunciada para apresentação de resposta escrita e prosseguindo-se nos demais termos do processo a fim de que, julgada, venha a ser condenada pela infração que cometeu, ouvindo-se, oportunamente, as testemunhas a seguir arroladas.
+Extrai-se da inicial acusatória que a paciente foi denunciada pela prática de denunciação caluniosa, porque a fim de satisfazer pretensão própria, imputou falsamente a MARIA [NOME], Dirigente Regional de Ensino da Região de São Roque, o crime previsto no art 299 do Código Penal, alegando que esta produziu documento ideologicamente falso. (fls. 56).
+Conta ainda na inicial acusatória que no dia dos fatos AÍDA procurou a Delegacia de Policia de São Roque e registrou o boletim de ocorrência de nº 1011/2014, versando sobre a prática de eventual delito de falsidade ideológica, praticado, em tese, por MARIA [NOME] (fl. 15), imputando-lhe crime de que a sabia inocente. (fl. 56).
+Assim, conforme se observa da narrativa acusatória, encontra-se presente a necessária indicação do fato delituoso imputado à paciente, de modo que não se verifica a presença de quaisquer das situações que ensejam o trancamento da ação penal, restando devidamente demonstrado haver indícios mínimos de materialidade e autoria da imputação de denunciação caluniosa.
+Com efeito, não há generalidade na denúncia acima transcrita, que, embora de forma sucinta, individualiza a conduta da paciente, permitindo o pleno exercício da ampla defesa, em conformidade com o art. 41 do CPP.
+Vale ressaltar, ainda, que a jurisprudência desta Corte é firme no sentido de que digressões sobre a justa causa para a ação penal, imiscuindo-se no exame das teses de fragilidade probatória e de ausência de indícios de autoria e materialidade, demandam inexoravelmente revolvimento de matéria fático-probatória, não condizente com a via angusta do recurso ordinário em habeas corpus, devendo, pois, ser avaliada a quaestio pelo Juízo a quo por ocasião da prolação da sentença, após a devida e regular instrução criminal, sob o crivo do contraditório (RHC 56.155/MT, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/5/2017, DJe 24/5/2017).
+Ante o exposto, denego o habeas corpus.
+Comuniquem-se.
+Publique-se.
+Intimem-se.
