@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado por DDP PARTICIPACOES S/A, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" e alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL CONTRIBUIÇÕES PREVIDENCIÁRIAS CDA INDICAÇÃO DA NATUREZA E DISCRIMINAÇÃO DOS DÉBITOS POR COMPETÊNCIA DESNECESSIDADE RECURSO PROVIDO
+Alega violação do art. 2º, § 5º, III, da LEF e do art. 202, III, do CTN, no que concerne aos requisitos da CDA, trazendo o(s) seguinte(s) argumento(s):
+Com efeito, tratando-se de apuração de diferenças entre o que foi declarado pelo contribuinte e aquilo que foi efetivamente pago, não há como perquirir eventual cobrança indevida de exação já quitada, na medida em que, não há no título executivo indicação das contribuições exigidas e valor de cada uma delas. Por esta razão, é que os diplomas acima citados exigem a indicação da natureza do débito e o valor cobrado em cada uma delas (fl. 220).
+É o relatório. Decido.
+Na espécie, verifica-se que a pretensão da parte agravante, de ver reconhecida a violação de dispositivo de lei federal, exige o revolvimento do contexto fático-probatório dos autos, o que inviabiliza o conhecimento do presente apelo ante o óbice da Súmula 7/STJ.
+Consigne-se, ainda, quanto à alegação de existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a" e obstaculizada pelo enunciado da Súmula n. 7/STJ, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "Ademais, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso." AgInt no AREsp n. 1.312.148/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/9/2018.
+Confiram-se ainda os seguintes precedentes: AgInt no AgInt no REsp n. 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; AgInt no AREsp n. 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018; AgRg no AREsp n. 695.443/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 25/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
