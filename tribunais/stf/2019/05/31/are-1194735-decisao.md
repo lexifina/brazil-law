@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL –AGRAVO DESPROVIDO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à improcedência do pedido de indenização por férias prêmio não usufruídas. No extraordinário cujo trânsito busca alcançar, os recorrentes alegam a violação do artigo 5º, cabeça e inciso XXXVI, da Constituição Federal.
+    2. Colho da sentença expressamente mantida os seguintes trechos:
+    A Constituição do Estado de Minas Gerais, em sua redação original, estabelecia a possibilidade de conversão, em espécie, das férias-prêmio adquiridas ao longo da carreira, seja por servidor efetivo ou mesmo temporário, uma vez que o legislador não os discriminou, não podendo o intérprete fazê-lo, sob pena de violação aos princípios da separação dos poderes e da legalidade (art. 2º e art. 37, caput, CF/88). Assim dispunha o inciso II, do artigo 31, da Constituição do Estado:
+    Art. 31 - O Estado assegurará ao servidor civil (...)
+    II - férias-prêmio, com duração de 3 (três) meses, adquiridas a cada período de 5 (cinco) anos de efetivo exercício no serviço público do Estado de Minas Gerais, admitida a sua conversão em espécie, paga a título de indenização, quando da aposentadoria, ou a contagem em dobro das não gozadas para esse mesmo fim e para a percepção de adicionais por tempo de serviço.
+    Entretanto, posteriormente, no artigo 117 do Ato das Disposições Constitucionais transitórias da Constituição do Estado de Minas Gerais, com redação dada pela Emenda Constitucional n. 57, modificou-se o regramento acima, vedando a conversão das férias-prêmio em espécie após 29.02.2004, in verbis:
+    Art. 117 - Fica assegurado ao servidor público civil e ao militar, quando de sua aposentadoria, o direito de converter em espécie as férias-prêmio adquiridas até 29 de fevereiro de 2004 e não gozadas.
+    § 1º - Ao detentor, exclusivamente, de cargo em comissão declarado de livre nomeação e exoneração ou de função pública não estável fica assegurada a conversão em espécie das férias-prêmio adquiridas até 29 de fevereiro de 2004 e não gozadas, a título de indenização, por motivo de exoneração, desde que não seja reconduzido ao serviço público estadual no prazo de noventa dias contados da data da exoneração.
+    § 2º - Para a conversão em espécie de que trata o § 1º, a base de cálculo será a média ponderada dos vencimentos dos cargos ocupados pelo servidor no período a que se referir o benefício.
+    § 3º - Para fins do disposto no § 1º, só serão computadas as férias-prêmio decorrentes de serviço público estadual prestado no próprio Poder em que houver ocorrido a exoneração. (destacamos).
+    Pela leitura do dispositivo, foi assegurado ao servidor público a conversão em espécie somente daquelas férias adquiridas até 29.02.2004.
+    No entanto, consoante recente decisão proferida pelo plenário do Supremo Tribunal Federal, em sede de Repercussão Geral, aquela Excelsa Corte reafirmou sua jurisprudência no sentido de ser devida a indenização de férias não gozadas por força da Administração, mesmo após fevereiro de 2004, sob pena de enriquecimento injusto pelo Poder Público, nos termos da seguinte ementa:
+    […]
+    Todavia, no caso especifico da parte autora, o seu vínculo com a administração estadual foi declarado nulo por força da decisão exarada pelo Supremo Tribunal Federal (STF) na Ação Direta de Inconstitucionalidade (ADI) nº 4876/DF, que considerou inconstitucional a efetivação realizada pela LC/MG Nº 100/2007 em ofensa ao previsto no art. 37, §2º da CF/88:
+    […]
+    Assim, ante o reconhecimento da nulidade do seu vínculo com o ente estatal, a parte autora apenas faz jus ao saldo de salário e a indenização do FGTS, consoante dispõe a Súmula 363 do Tribunal Superior do Trabalho (TST): A contratação de servidor público, após a CF/1988, sem prévia aprovação em concurso público, encontra óbice no respectivo art. 37, II e § 2º, somente lhe conferindo direito ao pagamento da contraprestação pactuada, em relação ao número de horas trabalhadas, respeitado o valor da hora do salário mínimo, e dos valores referentes aos depósitos do FGTS.
+    À toda evidência, somente pelo exame do quadro fático seria dado concluir de forma diversa, o que é vedado em sede extraordinária. A par desse aspecto, não houve debate prévio sobre os dispositivos indicados no extraordinário, esbarrando o recurso no óbice do verbete 256 da Súmula do Supremo.
+    3. Desprovejo o agravo. Fixo os honorários recursais no patamar de 5% do valor da causa, nos termos do artigo 85, § 11, do citado diploma legal. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 31 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
