@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. IMPROBIDADE ADMINISTRATIVA. RESSARCIMENTO AO ERÁRIO. IMPRESCRITIBILIDADE. AUSÊNCIA DE QUAISQUER DOS VÍCIOS PREVISTOS NO ART. 1022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] em face de decisão assim ementada:
+ADMINISTRATIVO. PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 2/STJ. IMPROBIDADE ADMINISTRATIVA. RESSARCIMENTO AO ERÁRIO. IMPRESCRITIBILIDADE. PRECEDENTES DO STJ. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+Nas razões dos aclaratórios, aduz a parte ora Embargante que "a decisão foi contraditória quanto a determinação de retorno dos autos ao Juízo de primeira instância para fins de prosseguimento na apuração de eventual dano ao erário enquanto o prosseguimento correto, acredita-se, seria o retorno dos autos ao Tribunal de Origem para verificação da prescrição da pretensão punitiva do Estado, já que a sentença proferida em primeiro grau julgou improcedente a demanda por outro fundamento, sendo que a questão da prescrição só foi aventada em segundo grau. Além disso, deverá ser observado ainda o pedido realizado pelo próprio Ministério Público solicitando o retorno dos autos ao Tribunal de Origem para verificação da prescrição, o que foi ignorado pela decisão proferida que determinou o retorno dos autos ao primeiro grau"(e-STJ fl. 688).
+Pede, assim, o acolhimento dos aclaratórios.
+A impugnação aos embargos de declaração foi juntada às e-STJ fls. 694/697.
+Em 28/9/2016, determinei o sobrestamento do feito até deliberação definitiva pelo Supremo Tribunal Federal acerca do tema de repercussão geral nº 897 - prescritibilidade da pretensão de ressarcimento ao erário em face de agentes públicos por ato de improbidade administrativa (e-STJ fls. 701/702).
+Os autos vieram conclusos tendo em vista a apreciação pelo Supremo Tribunal Federal do referido tema de repercussão geral.
+É o relatório. Decido.
+Incide o Enunciado administrativo n. 3/STJ: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Em 8/8/2018, o Supremo Tribunal Federal julgou o tema de repercussão geral n. 897, declarando a imprescritibilidade da pretensão estatal de ressarcimento dos danos decorrentes de improbidade administrativa.
+Senão vejamos:
+DIREITO CONSTITUCIONAL. DIREITO ADMINISTRATIVO. RESSARCIMENTO AO ERÁRIO. IMPRESCRITIBILIDADE. SENTIDO E ALCANCE DO ART. 37, § 5 º, DA CONSTITUIÇÃO.
+ 1. A prescrição é instituto que milita em favor da estabilização das relações sociais.
+2. Há, no entanto, uma série de exceções explícitas no texto constitucional, como a prática dos crimes de racismo (art. 5º, XLII, CRFB) e da ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático (art. 5º, XLIV, CRFB).
+3. O texto constitucional é expresso (art. 37, § 5º, CRFB) ao prever que a lei estabelecerá os prazos de prescrição para ilícitos na esfera cível ou penal, aqui entendidas em sentido amplo, que gerem prejuízo ao erário e sejam praticados por qualquer agente.
+4. A Constituição, no mesmo dispositivo (art. 37, § 5º, CRFB) decota de tal comando para o Legislador as ações cíveis de ressarcimento ao erário, tornando-as, assim, imprescritíveis.
+5. São, portanto, imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na Lei de Improbidade Administrativa.
+6. Parcial provimento do recurso extraordinário para (i) afastar a prescrição da sanção de ressarcimento e (ii) determinar que o tribunal recorrido, superada a preliminar de mérito pela imprescritibilidade das ações de ressarcimento por improbidade administrativa, aprecie o mérito apenas quanto à pretensão de ressarcimento. (RE 852475, Relator(a): Min. ALEXANDRE DE MORAES, Relator(a) p/ Acórdão: Min. EDSON FACHIN, Tribunal Pleno, julgado em 08/08/2018, PROCESSO ELETRÔNICO DJe-058 DIVULG 22-03-2019 PUBLIC 25-03-2019)
+Pois bem.
+ Dispõe o art. 1022, do novo Código de Processo Civil, que cabem embargos de declaração para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, por fim, corrigir erro material.
+No caso em concreto, não há falar na presença de quaisquer dos vícios previstos no art. 1022 do CPC/2015.
+No caso em concreto, a decisão ora embargada analisou o pleito do Ministério Público Estadual de que, na petição inicial (e-STJ fl. 5), consta a necessidade de ressarcimento ao erário do dano causado, no valor estimado em R$ 1.039.832,17 (um milhão, trinta e nove mil, oitocentos e trinta e dois reais e dezessete centavos). Senão vejamos:
+No que tange à controvérsia suscitada no mérito do recurso especial - imprescritibilidade do pedido de reparação dos eventuais danos causados ao erário público - o acórdão recorrido foi fundamentado nos seguintes termos (e-STJ fl. 591):
+Deste modo, ultrapassado o prazo prescricional para ajuizar a demanda contra o réu [NOME], a pretensão punitiva do Estado resta fulminada, nos termos do art. 23, I, da Lei n. 8.429/92, razão pela qual se mantém a sentença de primeiro grau que julgou improcedente o pedido inicial, sob fundamento diverso, nos termos do art. 269, IV, do CPC.
+Importante lembrar que por se tratar de matéria de ordem pública não sujeita à preclusão consumativa, é permitido ao juiz ou ao Tribunal declarar a prescrição no momento do julgamento do recurso, ainda que a questão não tenha sido objeto do reclamo e de análise na sentença, proferida depois da vigência da nova redação dada ao § 5 o do art. 219 do CPC.
+Por fim, à vista do reconhecimento de ofício da prescrição, resta prejudicada a análise do recurso interposto pelo autor.
+Conforme bem destacado pelo Ministério Público Federal (e-STJ fl. 671), verifica-se que, na petição inicial (e-STJ fl. 5), consta a necessidade de ressarcimento ao erário do dano causado, no valor estimado em R$ 1.039.832,17 (um milhão, trinta e nove mil, oitocentos e trinta e dois reais e dezessete centavos). Ao contrário do afirmado no acórdão recorrido, tal pretensão é imprescritível, conforme precedentes a seguir:  ..
+Assim, de fato, é necessária instrução processual a fim de que, sob o regime do contraditório e da ampla defesa, seja analisado se efetivamente ocorreu o alegado dano ao erário. Por essa razão, entendeu-se pela necessidade de envio dos autos ao Juízo de piso.
+Portanto, ausentes os vícios previstos no art. 1022 do CPC/2015, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
