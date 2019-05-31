@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo.
+Consta dos autos que o paciente foi condenado pela prática dos delitos de "associação" e de "tráfico de drogas", à pena de 28 anos, 1 mês e 15 dias de reclusão, em regime inicial fechado.
+Inconformada, a defesa apelou perante o TJES, que negou provimento ao recurso em 17/02/2016, conforme se vê da ementa às fls. 358-361 (-STJ).
+Neste writ, alega o impetrante que "O excesso na majoração da pena base, por ocasião da dosimetria, verdadeiro bis in idem, como por exemplo, no dimensionamento acima do mínimo legal, com base no art. 59 do CP, condenação dos artigos 33, 35 e inc. V do art. 40 da Lei 11.343/06, mais a reincidência, mesmo tendo ultrapassado o período depurador e, que portanto não poderia ter contra si, condições pessoais desfavoráveis." (e-STJ, fl. 4).
+Aduz que "Ou seja, Exas., alem dos tipos penais, fora reconhecidas, para cada tipo as circunstancias judiciais do art. 59 do CP, num verdadeiro "bis in iden", 06 (seis) das 08 (oito) circunstancias judiciais, tanto no art. 33, como no artigo 35, também no aumento de pena de em relação ao inciso V, do art. 40 do diploma legal, mais a reincidência, ultrapassado o período depurador. Situação que fere a jurisprudência do STJ - Superior Tribunal de Justiça que entende ser possível o reconhecimento de maus antecedentes, mas não a reincidência, como também a jurisprudência do STF - Supremo Tribunal Federal que entende não caber mais nem a reincidência e, nem maus antecedentes." (e-STJ, fl. 5).
+Requer, assim, "seja reconhecido erro in judicando ao se fazer a dosimetria das penas em relação as circunstancias judiciais por três vezes, seja no art. 33, art. 35 e inc. V do art. 40 da lei 11.343/06 e também a reincidência após o período depurador, devendo ser redimensionada a pena no mínimo legal; Seja reconhecido que não pode os delitos em tela serem gravados com o instituto da reincidência; Que seja redimensionada com base na proporcionalidade e razoabilidade as penas aplicadas ao paciente já que foram demasiadamente exasperadas sem um exame criminológico ou de vida pregressa" (e-STJ fls. 17-18).
+Liminar indeferida (e-STJ, fls. 402-403).
+Informações prestadas (e-STJ, fls. 409-415).
+Solicitado tanto ao impetrante quanto ao Tribunal de origem a cópia integral do acórdão impugnado, não foi ele apresentado.
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 417-421).
+É o relatório.
+Decido.
+Razão assiste ao Ministério Público Federal. Com efeito, "a pretensão do impetrante consiste na revisão da dosimetria arbitrada pelas instâncias ordinárias. Contudo, verifica-se que a instrução do presente habeas corpus se mostra deficiente por não ter sido juntada aos autos a cópia do acórdão ora combatido, constando, tão somente, às fls. 358/361 a transcrição da ementa do referido julgado." (e-STJ, fl. 421)
+Em suma, é deficiente a instrução do habeas corpus cuja inicial não vem acompanhada de prova pré-constituída do direito alegado.
+Cumpre ao impetrante demonstrar a existência de constrangimento à liberdade de locomoção do paciente em decorrência de ato judicial revestido de ilegalidade ou abuso de poder (CR, art. 5º, LXVIII).
+E esta Corte possui entendimento pacificado no sentido de que a ausência de peças essenciais à comprovação da ilegalidade apontada, obsta a análise da plausibilidade do pedido formulado (HC 239.465/RJ, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 19/8/2014; HC 297.267/SP, Rel. Ministra MARILZA MAYNARD, Sexta Turma, julgado em 26/8/2014; AgRg no HC 295.835/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 18/6/2014).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
