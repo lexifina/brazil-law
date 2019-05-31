@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto por OI S.A. em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. PEDIDO DE NÃO LIBERAÇÃO DE VALORES DEPOSITADOS NOS AUTOS. IMPOSSIBILIDADE. VALOR INCONTROVERSO DEPOSITADO ANTES DE 21/06/2016. ALEGAÇÃO DE ERRO DO VPA UTILIZADO NO CÁLCULO. IMPOSSIBILIDADE. CÁLCULO HOMOLOGADO ATENDEU OS PARÂMETROS IMPOSTOS EM DECISÃO TRANSITADA EM JULGADO. MODIFICAÇÃO QUE ATENTARIA CONTRA A COISA JULGADA. ARTS. 467, CPC, E 5º, XXXVI, CF. ALEGAÇÃO DE INCIDÊNCIA DE JUROS SOBRE JUROS. CÁLCULOS ELABORADOS PELA CONTADORIA. ARTIGO 354 DO CC/02. NÃO RESTOU DEMONSTRADA A ALEGADA PRÁTICA DE ANATOCISMO. MANTIDA A DECISÃO. NEGADO PROVIMENTO AO RECURSO. UNÂNIME." (fl. 456)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a ora agravante aponta violação ao art. 1022, II, do Código de Processo Civil de 2015, sustentando, em síntese, existência de omissão no acórdão recorrido quanto aos critérios definidos pelo Juízo da recuperação judicial para levantamento de valores depositados.
+Apresentada contrarrazões às fls. 541-548.
+É o relatório.
+Consoante se extrai dos autos, verifica-se que o Tribunal a quo não se manifestou sobre a alegação da recorrente, suscitada no agravo de instrumento e embargos de declaração, quanto aos critérios estabelecidos pelo Juízo da recuperação judicial para levantamento dos valores depositados, pois "a impugnação ao cumprimento de sentença ainda não transitou em julgado, visto que a sentença que julgou o incidente de impugnação foi proferida em 13.7.2017, restando publicada em 24.7.2017. Desta forma, o trânsito em julgado se dará posteriormente ao ajuizamento da recuperação judicial, devendo, portanto, se sujeitar a tal." (fls. 473)
+No entanto, não houve enfrentamento do tema, restando, portanto, omisso o acórdão recorrido, o que impõe o reconhecimento da alegada violação ao art. 1022 do CPC/2015.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar o retorno dos autos à Corte de origem para que se pronuncie sobre o ponto omisso, nos termos da fundamentação acima.
+Publique-se.
