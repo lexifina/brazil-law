@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão exarado pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS).
+Cuidam os autos, na origem, de "ação de repetição de indébito com pedido cautelar de exibição de documentos" contra BANCO DO BRASIL S.A.
+O il. Magistrado julgou improcedente o pedido (sentença às fls. 55/67).
+Diante disso, [NOME] interpôs apelação, a qual foi desprovida pelo eg. TJ-RS, nos termos do v. acórdão, assim ementado (fl. 132):
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA DE CRÉDITO RURAL. CAPITALIZAÇÃO MENSAL. PLANO COLLOR I. REPETIÇÃO DE INDÉBITO. IMPOSSIBILIDADE JURÍDICA DO PEDIDO AFASTADA. POSSIBILIDADE DE REVISÃO DE CONTRATOS DE CRÉDITO RURAL QUITADO.
+Julgamento em conformidade com recente Súmula editada por este Tribunal, julgada em 21/04/2011, pela sessão da 4a. Turma Cível, disponibilizada no DJ nº 4576, de 04/05/2011.
+PRESCRIÇÃO. PRAZO TRIENAL.
+Tratando-se de ação que visa à repetição de quantia paga indevidamente, ou seja, que versa sobre eventual direito pessoal constituído na vigência do Código Civil de 1916, de se aplicar o prazo prescricional de 20 anos previsto no artigo 177 daquele diploma, observada a regra de transição prevista no artigo 2028 do Código Civil de 2002.
+No caso concreto, porque não transcorrido mais da metade do prazo vintenário entre a data do vencimento do contrato e a data de vigência do novo Código Civil (11-01-2003), aplica-se o prazo prescricional de 3 anos previsto no artigo 206, §3º, IV, do CC/2002, a ser contado a partir da entrada em vigor de tal diploma legal. Ajuizamento da ação que se deu quando há muito transcorrido o prazo trienal.
+Pretensão prescrita. Sentença de improcedência da ação mantida, porém por fundamento diverso.
+APELO DESPROVIDO. UNÂNIME."
+Inconformado, [NOME] manejou o presente recurso especial, com fulcro no art. 105, inciso III, alíneas "a" e "c", da CF/88, no qual alega, além da divergência jurisprudencial, violação do art. 177 do CC/1916 e dos arts. 189, 205 e 2.028 do CC/02.
+Não foram apresentadas contrarrazões (certidão de fl. 184).
+É o relatório. Decido.
+O presente recurso especial cuida cuida do prazo prescricional e do termo inicial quanto à pretensão de repetição de indébito fundada cédulas de crédito rural. O eg. TJ-RS entendeu que a, na vigência do Código Civil de 1916, incidia o prazo vintenário, na forma do art. 177 desse diploma. Ressaltou que, no caso, quando do ajuizamento da presente ação - em 01/03/2010 - havia transcorrido menos da metade da prescrição de 20 (vinte) anos, razão pela qual aplicou o prazo do Código Civil de 2002, na forma do art. 2.028. Diante disso, concluiu que a pretensão estaria prescrita, pois transcorrera mais de 3 (três) anos. Para fins demonstrativos, colacionam-se os seguintes trechos do v. acórdão estadual (fl. 135):
+"Registra-se, quanto ao prazo prescricional, que a presente demanda visa à repetição de quantia paga indevidamente, ou seja, versa sobre eventual direito pessoal constituído na vigência do Código Civil de 1916, sendo aplicável o prazo prescricional de 20 anos, previsto no artigo 177 daquele diploma.
+Todavia, de acordo com a regra de transição contida no art.
+2.028 do novo Código Civil, serão aplicáveis os prazos do Código Civil de 1916 quando esses tiverem sido reduzidos pelo Novo Código Civil e, se na data da entrada em vigor do novo diploma legal (11-01-2003), já houver transcorrido mais da metade do tempo estabelecido no Código Revogado.
+E, quando não transcorrido mais da metade do prazo vintenário entre a data do vencimento do contrato e a data de vigência do novo Código Civil, aplica-se o prazo prescricional de 3 anos, previsto no artigo 206, §3º, IV, do CC/2002, a contar da entrada em vigor de tal diploma legal, ou seja, janeiro de 2003, conforme entendimento pacificado deste Órgão Fracionário:
+(..)
+Neste sentido, observada as datas de vencimento das Cédulas Rurais Pignoratícias nº 88/00309-4 e 88/00310-8, ambas em 31-07-1994, afere-se que quando do ajuizamento da presente ação (01-03-2010), já havia transcorrido prazo superior a 3 anos, importando no reconhecimento da prescrição da pretensão."
+Com efeito, sobre o tema, este Sodalício firmou orientação, pelo rito do art. 543-C do CPC/73, no sentido de que "A pretensão de repetição de indébito de contrato de cédula de crédito rural prescreve no prazo de vinte anos, sob a égide do art. 177 do Código Civil de 1916, e de três anos, sob o amparo do art. 206, § 3º, IV, do Código Civil de 2002, observada a norma de transição do art. 2.028 desse último Diploma Legal"; 1.2. - "O termo inicial da prescrição da pretensão de repetição de indébito de contrato de cédula de crédito rural é a data da efetiva lesão, ou seja, do pagamento" (REsp 1361730/RS, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 28/10/2016).
+Ressalta-se, ainda, que o efetivo prejuízo não ocorre com a instituição do Plano Collor em 1990, mas desde o vencimento da cédula (AgInt no REsp 1401554/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/02/2019, DJe 12/02/2019).
+Dessa forma, o recurso não merece prosperar, pois o v. acórdão estadual está em consonância com a jurisprudência desta eg. Corte superior, incidindo à espécie a Súmula 83/STJ, aplicável aos recursos interpostos pela alínea "a" e "c" do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RI-STJ, nego provimento ao recurso especial.
+Publique-se.
