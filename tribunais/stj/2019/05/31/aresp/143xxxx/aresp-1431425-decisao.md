@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo, interposto por MARIA LUISA CORREDOR LOPEZ, por meio do qual se impugna acórdão, promanado do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. DISSOLUÇÃO IRREGULAR DA SOCIEDADE. REDIRECIONAMENTO. EXCEÇÃO DE PRÉ EXECUTIVIDADE. REJEIÇÃO. IRRESIGNAÇÃO. ALTERAÇÃO CONTRATUAL RETIRANDO A RECORRENTE DA SOCIEDADE.
+- O redirecionamento da execução fiscal para os representantes da pessoa jurídica somente deve ocorrer diante da prática de ato ou fato eivado de excesso de poderes ou com infração de lei, contrato social ou estatutos, nos termos do art. 135, III do CTN.
+- Hipótese em que o redirecionamento foi requerido após a recorrente ter se retirado da sociedade, não havendo indícios de que tenha agido com excesso de poderes, infração de lei ou ao estatuto.
+RECURSO PROVIDO" (fl. 58e).
+Embargos de Declaração rejeitados (fls. 85/87e).
+No Recurso Especial, interposto com base na alínea a do permissivo constitucional, alega-se violação ao disposto no art. 85, § 3º, do CPC/2015.
+Sustenta-se, em síntese, o seguinte:
+"5. Inobstante o brilhantismo, o v. acórdão recorrido incorreu em violação ao art. 85, § 3º do CPC/20151, quanto ao arbitramento dos honorários advocatícios, uma vez que fundamentou o aludido arbitramento com base no art. 20, §4º do CPC/1973, dispositivo já revogado pelo art. 1.046 do CPC/2015.
+6. A partir da vigência do CPC/2015, em 29.03.2016, a condenação em honorários advocatícios, nas causas em que a Fazenda Pública for parte, passou a ser regida pelo art. 85, § 3º do CPC/2015.
+7. É importante destacar que a sucumbência rege-se pela lei vigente à data da deliberação que a impõe ou a modifica. O aludido pronunciamento não se confunde com a sentença "strito sensu", notadamente porque na hipótese de provimento recursal, face à determinação legal de que a norma processual é aplicável imediatamente aos processos em curso (CPC/2015, art. 143), incidirá o novel diploma normativo.
+8. É inequívoco, desta forma, que o acórdão recorrido negou vigência ao art. 85, § 3º do CPC/2015. Nesse sentido, o e. STJ já teve a oportunidade de examinar caso análogo, conforme ementa a seguir transcrita:
+(..)
+9. Ressalte-se que, "in casu", o agravo de instrumento foi interposto já sob a égide do CPC/2015 (cf. fls. 2/16), contra decisão proferida em embargos de declaração (cf. fls. 2/3 e 5 - Anexo) que haviam sido rejeitados (frise-se, sem a devida análise dos argumentos suscitados pela recorrente), também na vigência do CPC/2015.
+10. Destaque-se trecho do voto do Min. RAUL ARAÚJO que esclarece a questão, sob a ótica da impositiva segurança jurídica, apontando que se deve adotar a data de publicação da última decisão objeto do recurso, que no presente caso se deu em 10.05.2016 (cf. fls. 5). Confira-se:
+(..)
+10. Necessária, portanto, é a fixação dos honorários sucumbenciais na forma do art. 85, § 3º do CPC/2015, tendo em vista que (i) a última decisão publicada objeto do recurso (cf. fls. 5 - Anexo); (ii) o agravo de instrumento interposto (cf. fls. 2/16); e (iii) o acórdão modificativo do direito (cf. fls. 59/66) se deram sob a vigência do CPC/2015" (fls. 93/95e).
+Requer-se, por fim, "que esse recurso especial (seja) conhecido e provido, de modo que os horários sucumbenciais sejam fixados na forma do art. 85, §3º do CPC/2015" (fl. 95e).
+Contrarrazões às fls. 102/105e.
+Recurso Especial inadmitido (fls. 108/110e), com base nas Súmulas 7 e 83/STJ, o que ensejou a interposição de Agravo (fls. 119/126e).
+Contraminuta às fls. 132/136e.
+O presente recurso merece prosperar.
+Assiste razão à recorrente quando sustenta que, tendo sido os honorários de sucumbência fixados já na vigência do CPC/2015 (em 14/09/2016), o arbitramento de seu montante deveria observar o quanto disposto no novo diploma legal, não mais no revogado CPC/73.
+Dessarte, para a jurisprudência consagrada neste STJ, o importante não é a data do ajuizamento da ação ou da prolação da sentença, quando ausente, dessa, condenação em honorários, mas a data em que prolatada a decisão que efetivamente impõe a condenação na referida verba honorária.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. CPC/1973. CONDENAÇÃO IMPOSTA À FAZENDA PÚBLICA. BASE DE CÁLCULO. VALOR DA CAUSA. POSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ reconhece que os honorários advocatícios devem ser regidos pela regra vigente à época da sentença. Precedentes. A sucumbência definida na sentença não foi reformada pelo Tribunal "a quo" e nem pelo STJ, razão pela qual os honorários advocatícios sucumbenciais devem ser definidos a partir dos critérios do CPC/1973.
+2. Durante à vigência do art. 20, § 4º, do CPC/1973, as condenações ao pagamento de honorários advocatícios sucumbenciais impostas à Fazenda Pública deveriam ser fixadas a partir da apreciação equitativa do juiz. Dessa forma, para fins de definição adequada do valor desses honorários, a base de cálculo poderia se determinada em razão do valor da causa. Precedentes.
+3. Agravo interno não provido" (STJ, AgInt no REsp 1.695.078/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 03/10/2018).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AMBOS OS PEDIDOS ACOLHIDOS. SENTENÇA PROLATADA NA VIGÊNCIA DO CPC/73. INAPLICABILIDADE DO CPC/2015. APLICAÇÃO DO ART. 20, § 4º, DO CPC/73. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM 10% SOBRE O VALOR DA CONDENAÇÃO A TÍTULO DE DANOS MORAIS. AGRAVO INTERNO DESPROVIDO.
+1. O Ministro Relator está autorizado a julgar recurso por decisão singular quando o v. acórdão estadual estiver em confronto com a jurisprudência dominante do eg. STJ, sendo que a possibilidade de julgamento monocrático não foi eliminada com o advento do Código de Processo Civil de 2015, conforme se verifica no art. 932, III, IV e V, do CPC/2015 e na Súmula 568/STJ. Ademais, eventual mácula fica superada com o julgamento colegiado do recurso pelo eg. órgão competente.
+2. Conforme recentes precedentes desta eg. Corte, a legislação aplicável no tocante à fixação de honorários advocatícios sucumbenciais é aquela vigente à época da sentença que fixou a condenação. Precedentes: EDcl na MC 17.411/DF, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 20/11/2017, DJe de 27/11/2017; e REsp 1.465.535/SP, Rel. MINISTRO LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/6/2016, DJe de 22/8/2016.
+3. No caso, a parte ora agravada foi condenada a cumprir a obrigação de fazer - autorização para realização de procedimento médico - e a pagar indenização a título de danos morais. Nessa senda, apenas a condenação em danos morais possui conteúdo econômico, motivo pelo qual os honorários advocatícios sucumbenciais devem ser fixados quanto a essa condenação.
+4. Agravo interno desprovido" (STJ, AgInt nos EDcl no AgRg nos EDcl no AREsp 253.475/RS, Rel. Ministro LÁZARO GUIMARÃES, QUARTA TURMA, DJe de 21/08/2018).
+Como a decisão que efetivamente impôs a condenação em honorários de sucumbência, no caso, foi o acórdão recorrido, prolatado em 14/09/2016, tem-se que é o caso, portanto, de aplicação do novo CPC/2015.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do Agravo para dar provimento ao Recurso Especial, de modo a fixar honorários advocatícios em favor da ora recorrente, no percentual mínimo estipulado no art. 85, § 3º, I a V, do CPC/2015, a ser apurado em execução de sentença.
+I.
