@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL PROTOCOLADO APÓS O PRAZO PREVISTO NO ART. 1.003, § 5º, DO CPC DE 2015. DECISÃO MANTIDA.
+1. O prazo para interposição do recurso especial é de 15 (quinze) dias úteis, conforme os arts. 219 e 1.003, § 5º, do CPC de 2015.
+2. A existência de recesso forense e suspensão de prazos processuais nos Tribunais não se presume público e notório em âmbito nacional, razão pela qual a ausência de expediente forense deve ser comprovada por documento idôneo.
+3. Agravo interno a que se nega provimento.
+
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Luis Felipe Salomão e Raul Araújo votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno manifestado por Caixa de Assistência dos Servidores do Estado de Mato Grosso do Sul em face da seguinte decisão, de lavra da presidência desta Corte:
+Vistos, etc.
+Trata-se de RECURSO ESPECIAL interposto com fulcro no art. 105, inciso III, da Constituição Federal, contra acórdão proferido pelo Tribunal de origem.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verifica-se que a parte Recorrente foi intimada do acórdão recorrido em 09/04/2018, sendo o recurso especial interposto somente em 02/05/2018.
+Dessa forma, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5.º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6.º do art. 1.003 do mesmo diploma legal, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Veja-se que a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi, não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos § § 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do recurso.
+Publique-se. Intimem-se.
+Alega "que a demonstração dos DIAS DE FERIADOS LOCAIS, foram devidamente comprovados nos autos, conforme se pode verificar e constatar da juntada da PORTARIA Nº 8/2018, emitida pelo Desembargador Vice-Presidente no exercício da Presidência do Tribunal de Justiça do Estado de Mato Grosso do Sul, ad referendum do Conselho Superior da Magistratura, que divulgou a relação de feriados e estabelece os pontos facultativos para o exercício de 2018" (e-STJ, fl. 693).
+Pede o provimento do recurso que, embora intimada a parte contrária, não foi respondido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL PROTOCOLADO APÓS O PRAZO PREVISTO NO ART. 1.003, § 5º, DO CPC DE 2015. DECISÃO MANTIDA.
+1. O prazo para interposição do recurso especial é de 15 (quinze) dias úteis, conforme os arts. 219 e 1.003, § 5º, do CPC de 2015.
+2. A existência de recesso forense e suspensão de prazos processuais nos Tribunais não se presume público e notório em âmbito nacional, razão pela qual a ausência de expediente forense deve ser comprovada por documento idôneo.
+3. Agravo interno a que se nega provimento.
+
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O inconformismo não merece acolhida.
+A recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS COM PEDIDO DE TUTELA DE URGÊNCIA. DISPONIBILIZAÇÃO DE APARELHO DE VENTILAÇÃO POSITIVA - BIPAP. PACIENTE PORTADOR DE SÍNDROME DA APNÉIA OBSTRUTIVA DO SONO GRAVE. NEGATIVA DE COBERTURA. ILEGALIDADE. IMPRESCINDIBILIDADE DO TRATAMENTO PARA A PRESERVAÇÃO DA SAÚDE DO PACIENTE. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. CLÁUSULA CONTRATUAL INTERPRETADA DE MANEIRA MAIS FAVORÁVEL AO CONSUMIDOR. SENTENÇA MANTIDA. FIXAÇÃO DE HONORÁRIO RECURSAL. RECURSO NÃO PROVIDO.
+Deve ser mantida a sentença que julgou parcialmente procedentes os pedidos para condenar a CASSEMS Caixa de Assistência dos Servidores do Estado de Mato Grosso do Sul na obrigação de fazer, consistente no custeio do tratamento de ventilação por pressão positiva contínua, por meio do uso do aparelho "BIPAP", conforme indicação médica.
+As pessoas jurídicas de direito privado que operam planos de assistência à saúde mediante serviços de forma continuada e remunerada, subsumem-se no conceito de fornecedores, e, assim sendo, os contratos por elas firmados devem se submeter às regras do Código de Defesa do Consumidor.
+O art. 47 do Código de Defesa do Consumidor dispõe que as cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor, não se mostrando razoável a vedação à cobertura do aparelho BIPAP apenas em razão do tratamento não estar vinculado a ato cirúrgico, isto porque, no caso em questão, a doença do autor pode acarretar risco à sua vida e o uso do equipamento se mostra suficiente e adequado para evitar complicações.
+Dispõe o art. 85, §11, do CPC de 2015, que "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento", razão pela qual fixo os honorários recursais em 5% sobre o valor atualizado da causa, cujo montante deverá ser acrescido ao valor fixado em sentença.
+Esta Corte tem firme posicionamento no sentido de que a comprovação de feriado local deve ser feita com documento idôneo, não servindo cópia de página da rede mundial de computadores, como no caso dos autos (e-STJ, fl. 536), porquanto carente de fé-pública.
+A propósito:
+TRIBUTÁRIO. ISS. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO CPC/73. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO, SEGUNDO A DATA DE DISPONIBILIZAÇÃO DA DECISÃO AGRAVADA, INDICADA PELO TRIBUNAL DE ORIGEM. ALEGAÇÃO DE ERRO, QUANTO À DATA CERTIFICADA. COMPROVAÇÃO MEDIANTE NOVA CERTIDÃO, A SER JUNTADA NO ATO DE INTERPOSIÇÃO DO RESPECTIVO RECURSO. NÃO OCORRÊNCIA.
+I - Ainda que o presente julgamento ocorra quando já em vigor o Código de Processo Civil de 2015, como o acórdão sobre o qual foi interposto o recurso especial foi publicado sob a égide da legislação processual civil anterior, quanto ao cabimento, aos demais pressupostos de admissibilidade e ao processamento do recurso, aplicam-se as regras do Código de Processo Civil de 1973, diante do fenômeno da ultra-atividade e do enunciado administrativo n. 2 do Superior Tribunal de Justiça.
+II - De acordo com a jurisprudência desta Corte firmada sob a vigência do CPC/73, é possível a comprovação de feriados ou de recesso forense no âmbito dos Tribunais locais em agravo regimental, na primeira oportunidade em que couber à parte falar nos autos, e desde que por documento hábil para tal ato. Precedentes: AgInt no AREsp 861.825/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 16/2/2017, DJe 21/2/2017; AgInt no AREsp 885.801/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 27/9/2016, DJe 30/9/2016 e AgInt no AREsp 833.792/PR, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Segunda Turma, julgado em 14/6/2016, DJe 22/6/2016.
+III - No caso dos autos, a parte agravante não procedeu à juntada de documento apto a comprovar a tempestividade do agravo em recurso especial, limitando-se a alegar a existência de erro na certidão de publicação emitida pelo Tribunal de origem.
+IV - A jurisprudência desta Corte é de que "deve prevalecer a data de publicação informada pela certidão de lavra da Corte local, para o fim de aferir a tempestividade do recurso, pois é dotada de fé pública, a qual não pode ser contestada por cópia de diário oficial ou extrato de andamento eletrônico". (AgInt no AREsp 927.130/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/9/2018, DJe 17/9/2018).
+V - Assim, entende-se que "eventual erro na certidão do Tribunal de origem, quanto à data de disponibilização da decisão agravada, deveria ter sido sanado mediante nova certidão, emitida na origem, apontando e corrigindo o suposto vício, para instruir o respectivo recurso, no caso, o agravo em recurso especial". (AgInt no AREsp 1.095.715/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 23/10/2017). Outros julgados: AgInt no AREsp 1.146.705/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 14/8/2018, DJe 17/8/2018 e AgInt no AREsp 1.095.715/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 10/10/2017, DJe 23/10/2017.
+VI - Agravo interno improvido.
+(AgInt no AgInt no AREsp 1282050/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 4/12/2018, DJe 10/12/2018)
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
