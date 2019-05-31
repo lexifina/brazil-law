@@ -1,0 +1,17 @@
+DECISÃO: A parte ora recorrente, ao deduzir o presente recurso extraordinário, sustentou que o acórdão confirmado em sede de juízo de retratação pela 8ª Turma Recursal Fazendária dos Juizados Especiais Federais de São Paulo teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o apelo extremo em questão revela-se inviável.
+    É que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no RE 610.223- -RG/SP, Rel. Min. ELLEN GRACIE, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “EXTENSÃO AOS APOSENTADOS E PENSIONISTAS DA ANTIGA FEPASA DE VANTAGENS SALARIAIS CONCEDIDAS AOS FERROVIÁRIOS EM ATIVIDADE COM BASE EM ACORDO COLETIVO. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora recorrente.
+    Impende assinalar, por oportuno, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.069.643/SP, Rel. Min. ROSA WEBER – ARE 1.138.164/SP, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Concessão de vantagens aos funcionários em atividade na CTPM por meio de acordo coletivo. Extensão aos pensionistas e servidores inativos da extinta FEPASA. Ausência de repercussão geral da matéria. Questão adstrita ao âmbito infraconstitucional. Precedentes.
+    1. O Plenário desta Corte, no exame do RE nº 610.223/SP, Relatora a Ministra Ellen Gracie, concluiu pela ausência de repercussão geral do tema relativo ao direito de pensionistas e servidores inativos da extinta FEPASA à extensão de vantagens salariais concedidas em dissídios e acordos coletivos aos ferroviários em atividade na CTPM.
+    2. Agravo regimental não provido.”
+    (ARE 778.111-AgR/SP, Rel. Min. DIAS TOFFOLI)
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 31 de maio de 2019.
+Ministro CELSO DE MELLO
+Relator
