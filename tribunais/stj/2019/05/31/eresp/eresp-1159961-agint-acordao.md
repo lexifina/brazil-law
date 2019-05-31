@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. ACÓRDÃO EMBARGADO QUE CONCLUIU PELA AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO NO ACÓRDÃO ESTADUAL. ALEGADA DIVERGÊNCIA JURISPRUDENCIAL. CASUÍSMO. MANIFESTA INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. EMBARGOS LIMINARMENTE INDEFERIDOS. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N.º 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente os embargos de divergência, porque "a parte embargante pretende comprovar a existência de dissídio de interpretação acerca dos vícios previstos no art. 535 do Código de Processo Civil de 1973, o que, nos termos da jurisprudência pacificada desta Corte, é incabível em sede de embargos de divergência, em razão das situações fáticos-processuais diferenciadas".
+2. Hipótese em que não foi impugnado tal fundamento no agravo interno. Incidência do Verbete Sumular n.º 182 desta Corte: "É inviável o agravo do art. 545 do Código de Processo Civil que deixa de atacar especificamente os fundamentos da decisão agravada." No mesmo diapasão, o art. 932, inciso III, c.c. o art. 1.021, § 1.º, ambos do Código de Processo Civil.
+3. Agravo interno não conhecido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Felix Fischer, Francisco Falcão, Nancy Andrighi, Humberto Martins, Maria Thereza de Assis Moura, Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves e Raul Araújo votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo interno interposto por ELMAR [NOME] e OUTRO contra decisão do Ministro Presidente desta Corte que indeferiu liminarmente os embargos de divergência, os quais, por sua vez, foram opostos contra acórdão da SEGUNDA TURMA, relatado pelo Ministro OG FERNANDES, assim ementado:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. ART. 10 DA LEI 8.429/1992. CONTRATO DE GESTÃO FIRMADO PELO INSTITUTO CANDANGO DE SOLIDARIEDADE E A NOVACAP. VIOLAÇÃO DO ART. 535 DO CPC. AUSÊNCIA. OFENSA AO ART. 47 DO CPC/1973. LITISCONSÓRCIO NECESSÁRIO. REVISÃO DA CONCLUSÃO ADOTADA PELA CORTE LOCAL. INVIABILIDADE. REEXAME DO CONTEXTO FÁTICO. SÚMULA 7/STJ. DISPENSA DE LICITAÇÃO, ART. 24, XXVI, DA LEI N. 8.666/1993. HIPÓTESE NÃO ENQUADRADA NO OBJETO DO CONTRATO DE GESTÃO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. AUSÊNCIA DE LESÃO AO ERÁRIO. SÚMULA 7/STJ.
+1. Não ocorre contrariedade ao art. 535, II, do CPC, quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame, assim como não há que se confundir entre decisão contrária aos interesses da parte e inexistência de prestação jurisdicional.
+2. Quanto à aventada violação do art. 5º, LV, da CF/1988, é certo que dela não se pode conhecer, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Inviável o acolhimento da pretensão recursal, com base em alegação de legitimidade passiva em ação de improbidade, para concluir no sentido da obrigatoriedade na formação de litisconsórcio. Ao rediscutir os pressupostos fáticos da questão jurídica já assentados no acórdão, os recorrentes pretendem o simples reexame da prova o que não enseja recurso especial, por força do óbice contido na Súmula 7/STJ.
+4. Segundo o acórdão impugnado, a prestação de serviços de limpeza não se enquadraria no objeto do contrato de gestão celebrado com o ICS, inviabilizando, por conta disso, a dispensa de licitação prevista no art. 24, XXVI, da Lei n. 8.666/1993. A ausência de combate do ponto atrai a incidência da Súmula 283/STF.
+5. O argumento de que o Instituto Candango de Solidariedade - ICS não teria repassado ao Distrito Federal o valor cobrado em razão da subcontratação, não tendo havido, assim, lesão ao erário, contraria pressuposto de fato adotado pela Corte local, a qual reconheceu ter sido imposta onerosidade à Administração no curso do aludido contrato de gestão. Incidência da Súmula 7/STJ.
+6. Tais razões não apresentam pertinência lógica com a apontada violação do art. 12 da Lei 8.429/1992, circunstância que atrai a Súmula 284/STF, segundo a qual a admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica.
+7. Recurso especial parcialmente conhecido e, nessa extensão, improvido."
+Ainda foram opostos embargos de declaração, que foram rejeitados consoante a seguinte ementa:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIOS DO ART. 1.022 DO CPC/2015. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não ocorre na hipótese em apreço.
+2. Não há vício de fundamentação quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+3. Não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Embargos de declaração rejeitados."
+Os Embargantes insurgem-se contra o acórdão embargado, alegando divergência com outros julgados, ponderando que "os vv. acórdãos paradigmas, ao decidirem questão idêntica à presente, manifestaram-se pela plena aplicabilidade do citado artigo 535/73, prestigiando o entendimento de que cabe ao Relator do recurso no Tribunal a quo extirpar os vícios pendentes e que são importantes ao desfecho da controvérsia, ou seja, sanar o defeito apontado" (fls. 643-644).
+O Ministro Presidente desta Corte proferiu a decisão de fls. 661-663, indeferindo liminarmente os embargos de divergência, considerando que "a parte embargante pretende comprovar a existência de dissídio de interpretação acerca dos vícios previstos no art. 535 do Código de Processo Civil de 1973, o que, nos termos da jurisprudência pacificada desta Corte, é incabível em sede de embargos de divergência, em razão das situações fáticos-processuais diferenciadas".
+Inconformados, interpõem o presente agravo interno, em que reiteram a arguida divergência jurisprudencial, discorrendo acerca dos alegados vícios dos julgamentos pretéritos, notadamente as omissões apontadas. Alegam que "a divergência jurisprudencial acerca das teses sustentadas pela defesa foi suficientemente demonstrada. A ausência do inteiro teor dos acórdãos paradigmas, portanto, não obsta a admissibilidade do Recurso Especial se a discrepância de entendimentos pretorianos for notória, sendo suficiente, nesse caso, a transcrição dos trechos onde ela se manifesta e a referência segura aos acórdãos em confronto" (fl. 692). Requerem, pois, o provimento do agravo interno.
+O Ministério Público do Distrito Federal e Territórios ofereceu impugnação à fl. 703.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. ACÓRDÃO EMBARGADO QUE CONCLUIU PELA AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO NO ACÓRDÃO ESTADUAL. ALEGADA DIVERGÊNCIA JURISPRUDENCIAL. CASUÍSMO. MANIFESTA INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. EMBARGOS LIMINARMENTE INDEFERIDOS. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N.º 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente os embargos de divergência, porque "a parte embargante pretende comprovar a existência de dissídio de interpretação acerca dos vícios previstos no art. 535 do Código de Processo Civil de 1973, o que, nos termos da jurisprudência pacificada desta Corte, é incabível em sede de embargos de divergência, em razão das situações fáticos-processuais diferenciadas".
+2. Hipótese em que não foi impugnado tal fundamento no agravo interno. Incidência do Verbete Sumular n.º 182 desta Corte: "É inviável o agravo do art. 545 do Código de Processo Civil que deixa de atacar especificamente os fundamentos da decisão agravada." No mesmo diapasão, o art. 932, inciso III, c.c. o art. 1.021, § 1.º, ambos do Código de Processo Civil.
+3. Agravo interno não conhecido.
+
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Não há como conhecer do agravo interno, uma vez que os Agravantes não infirmaram o único fundamento da decisão que indeferiu liminarmente os embargos de divergência, qual seja, "a parte embargante pretende comprovar a existência de dissídio de interpretação acerca dos vícios previstos no art. 535 do Código de Processo Civil de 1973, o que, nos termos da jurisprudência pacificada desta Corte, é incabível em sede de embargos de divergência, em razão das situações fáticos-processuais diferenciadas".
+O que fizeram foi reiterar, nas extensas razões, os alegados vícios dos julgamentos pretéritos, notadamente as omissões apontadas, insistindo na arguida divergência.
+Aplica-se, mutatis mutandis, o óbice da Súmula n.º 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+No mesmo diapasão, é a literalidade do novo Código de Processo Civil:
+"Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;"
+"Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1.º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada."
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É o voto.
