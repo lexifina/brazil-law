@@ -1,0 +1,18 @@
+Trata-se de segundos embargos de declaração opostos em favor de Ana Grasiella Moreira Figueiredo Magalhães, no qual contém requerimento de análise em caráter de urgência tendo em vista a realização de eleição suplementar no município de Iguaba Grande/RJ no próximo domingo (2/6/2019).
+    A embargante alega que, ao julgar o recurso de agravo regimental e os primeiros embargos de declaração, a “Turma limitou-se a cassar as liminares concedidas de forma genérica, porém, deixou de se mencionar quanto a manutenção do cargo até o referido trânsito em julgado e/ou com a publicação daquele acórdão […]” (pág.. 6 do documento eletrônico 53).
+    E requer, por fim:
+    “a) que sejam os Embargos de Declaração recebidos, por tempestivos e analisados em caráter de urgência, em virtude da eleição ser domingo, 02/06/2019;
+    b) que sejam conhecidos e acolhidos sendo aclarados os pontos contraditórios e ausentes da decisão;
+    c) que ao final, uma vez elaborada a reanálise, que seja efetivamente reconhecida a omissão, como também, a contradição da decisão, ora vergastada, para que sejam acolhidos os embargos opostos e, por conseguinte, suspensa a eficácia da decisão pelo risco de dano grave e difícil reparação, na forma do artigo 1026, parágrafo primeiro, do CPC, bem como a suspensão da eleição suplementar, mantendo a requerente até o trânsito em julgado do recurso extraordinário, com base na garantia constitucional do sufrágio universal e da soberania popular” (pág. 7 do documento eletrônico 53).
+    É o relatório. Decido.
+    Preliminarmente, observo, na espécie, que, nos termos do art. 337, § 2°, do Regimento Interno do Supremo Tribunal Federal, compete à Turma a análise de embargos declaratórios opostos contra acórdão proferido pelo colegiado.
+    Contudo, em homenagem ao princípio da inafastabilidade da jurisdição e em atenção à segurança jurídica, em razão do pleito suplementar que se avizinha, examino, em caráter de urgência, a possibilidade de concessão de medida cautelar para suspender a realização da eleição suplementar marcada para o próximo domingo.
+    Pois bem. A concessão de liminar exige a verificação dos requisitos legais do fumus boni iuris e do periculum in mora para sua concretização.
+    No presente caso, não antevejo a presença da fumaça do bom direito, seja porque esta Suprema Corte possui inúmeros precedentes sobre a vedação do exercício de um terceiro mandato de chefia do Poder Executivo por membros do mesmo grupo familiar, seja pelo que foi decidido na ADI 5.525/DF, no sentido de que “a decisão de última ou única instância da Justiça Eleitoral que importe o indeferimento do registro, a cassação do diploma ou a perda do mandato de candidato eleito em pleito majoritário, em regra, será executada imediatamente, independentemente do julgamento dos embargos de declaração”.
+    Quanto ao periculum in mora, verifico, in casu, a sua reversibilidade, uma vez que, até a presente data, já houve o transcurso de mais da metade do período do mandato de Prefeito, que teve início em 1°/1/2017.
+    Ademais, a Justiça Eleitoral já realizou todos as aquisições e dispêndios devidos, bem como cumpriu todo o cronograma necessário à realização da eleição, bem como já cumpriu o cronograma necessário à organização do pleito, após autorização desta Suprema Corte, de modo que a suspensão de véspera acarretaria elevado prejuízo aos cofres públicos.
+    Isso posto, em razão da inexistência do fumus boni iuris e diante do periculum in mora reverso, indefiro a liminar, sem prejuízo da análise das razões recursais pelo colegiado.
+    Publique-se.
+    Brasília, 31 de maio de 2019.
+Ministro Ricardo Lewandowski
+Relator
