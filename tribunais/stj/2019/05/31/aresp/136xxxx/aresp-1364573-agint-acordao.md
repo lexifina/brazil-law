@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTO INATACADO. SÚMULA 182/STJ.
+1. Tratam os autos, na origem, de Ação visando à percepção de adicional de insalubridade. A sentença concedeu o pleito limitando-o ao período efetivamente trabalhado. O acórdão deu parcial provimento ao apelo e à Remessa Necessária, excluindo as parcelas retroativas e fixando a insalubridade ao menor subsídio da categoria. Os Embargos de Declaração foram improvidos, com aplicação de multa por seu caráter protelatório. Advieram Recurso Especial, não admitido; Agravo em REsp, não conhecido; e o Agravo Interno que ora se cuida.
+2. A presidência do STJ entendeu que o Agravo em Recurso Especial não logrou afastar as premissas integrantes do juízo de admissibilidade, confirmando-o
+3. No que tange à iliquidez do julgado, o Tribunal desde o acórdão afirmou que bastam cálculos aritméticos a serem obtidos na execução, não carecendo da fase liquidatória para tal desiderato. Assim, para que o Superior Tribunal de Justiça possa desconstituir tal premissa, terá primeiro que analisar se a complexidade dos cálculos torna ilíquida a execução, impondo-se in casu a Súmula 7/STJ, que reserva as instâncias ordinárias a soberania na análise das provas, conforme dispôs o juízo de admissibilidade e confirmou a decisão presidencial do STJ.
+4. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Trata-se de Agravo Interno em Agravo em Recurso Especial interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do Agravo em Recurso Especial em virtude de impugnação deficiente à decisão recorrida assim resumida:
+Mediante análise dos autos, a decisão agravada inadmitiu o recurso especial, considerando: ausência de obscuridade/contradição/omissão/ erro, Súmula 7/STJ e Súmula 83/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: ausência de obscuridade/contradição/omissão/erro e Súmula 7/STJ.
+Como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+(..)
+Ante o exposto, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos previa fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85. § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos § § 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça. (fls. 235/236, e-STJ).
+Tratam os autos, na origem, de Ação visando à percepção de adicional de insalubridade. A sentença concedeu o pleito limitando-o ao período efetivamente trabalhado. O acórdão deu parcial provimento ao apelo e à Remessa Necessária, excluindo as parcelas retroativas e fixando a insalubridade ao menor subsídio da categoria. Os Embargos de Declaração foram improvidos, com aplicação de multa por seu caráter protelatório. Advieram Recurso Especial, não admitido; Agravo em Resp, não conhecido; e o Agravo Interno que ora se cuida.
+O agravante afirma que houve divergência jurisprudencial e sustenta que o que se requer não é a análise das circunstâncias fáticas do caso concreto, mas apenas a correta aplicação dos dispositivos legais, os quais foram malferidos pelo Judiciário local. Alega que, em situação idêntica, o Superior Tribunal de Justiça decidiu monocraticamente nos exatos termos ora pleiteados nos autos do Agravo em Recurso Especial 1.334.711 - AL, Rel. Min. Mauro Campbell Marques, DJe 09.08.2018, e complementa:
+Logo, o recurso especial deve ser provido para, considerando a obrigação ilíquida, fixar a data da citação do Estado como termo inicial dos juros moratórios.
+No caso dos autos, a matéria objeto do presente recurso é a violação aos artigos 1.022; 1.026, § 2o e 240 do Código de Processo Civil de 2015 e artigo 405 do Código Civil Brasileiro.
+E segundo o entendimento desta Egrégia Corte, acima transcrito, não devem ser considerados protelatórios os primeiros e únicos Embargos de Declaração interpostos, mormente quando o órgão jurisdicional, ao julgá-lo, termina por analisar as questões nele suscitadas. Exatamente a hipótese dos presentes autos, mostrando-se, por conseguinte, impertinente a condenação do recorrente em multa.
+Ademais, trata-se de valores que ensejam um cálculo para apuração de diferenças vencimentais, de fato, o Estado não estava em mora, apenas pagou de modo contrário ao entendimento firmado posteriormente pelo TJ de Alagoas, devendo tal diferença ser apurada, o que afasta de igual modo o caráter líquido da obrigação.
+(..)
+Pelas razões acima expendidas, vem o Estado de Alagoas requerer desse Colendo Superior Tribunal de Justiça que seja admitido o presente RECURSO ESPECIAL e reconhecida a violação os artigos 1.022 e 1.026, § 2º e art. 240 do Código de Processo Civil e 405 do Código Civil, dando provimento ao presente recurso no sentido de reformar o Acórdão recorrido para excluir a aplicação da multa de 2% (dois por cento) sobre o valor da causa, cominada pela Corte local, bem como determinar que os juros contem da citação e não do suposto inadimplemento. (fls. 423/437, e-STJ).
+A presidência do STJ entendeu que o Agravo em Recurso Especial não logrou afastar as premissas integrantes do juízo de admissibilidade, confirmando-o. Por sua vez, a inadmissibilidade do REsp se baseou nos seguintes pontos:
+Cumpre notar, de pronto, o preenchimento dos requisitos genéricos, e subjetivos de admissibilidade do recurso especial, porquanto comprovadas a tempestividade, o cabimento, a regularidade formal, legitimidade das partes, o interesse de agir e a inexistência de fato impeditivo ou extintivo do poder de recorrer. Além disso, nos termos do art. 1.007, § 1º, do Código de Processo Civil, o recorrente está isento de preparo, por se tratar de fazenda pública estadual.
+(..)
+Nesse ínterim, entender de modo contrário, levaria o Superior Tribunal de Justiça a analisar fatos e provas, conduta incompatível com a natureza excepcional do recurso especial, que não se presta ao novo julgamento da causa. É o que afirma a Súmula n.º 7 do STJ: Súmula n.º 7 - A pretensão de simples reexame de prova não enseja recurso especial.
+Por essa razão, a alegada violação aos arts. 1.022 e 1.026, § 2º, ambos do Código de Processo Civil, esbarra na referida súmula.
+Da mesma forma, em relação à suposta ofensa aos arts. 240 do novo Código de Processo Civil e 405 do Código Civil, apesar dos apontamentos lançados em sede de recurso especial, esses colidem com o entendimento da Corte Superior, o qual indica que, as sentenças que necessitem apenas de cálculo aritmético, como é o caso dos autos, são consideradas líquidas, devendo, portanto, incidir a correção e o juros desde o inadimplemento.
+(..)
+Diante do exposto e do posicionamento do Superior Tribunal de Justiça, o pleito recursal deve ser inadmitido nos termos da Súmula 83 do STJ, já mencionada.
+Nessa linha de pensamento, o Tribunal de origem poderá inadmitir, de plano, o recurso especial no qual o acórdão atacado esteja conforme a jurisprudência do colendo Superior Tribunal de Justiça.
+A par de tais considerações, portanto, entendo que os requisitos essenciais do artigo 105, inciso III, alínea "a", da Constituição Federal, não se encontram devidamente preenchidos.
+Diante do exposto, inadmito o recurso especial.
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Os autos foram recebidos neste gabinete em 5 de dezembro de 2018.
+A irresignação não merece prosperar. Os Embargos de Declaração assim resumiram o pedido:
+(..)
+C) o acolhimento dos presentes Embargos de Declaração para suprir a obscuridade identificada, bem assim as devidas aplicações atinentes ao tema da afronta aos artigos legais e constitucionais acima identificados, emprestando-lhes, em consequência, efeito infringente para fins de reformar a decisão tomada por este Colegiado, reconhecendo, pelas razões apresentadas, a iliquidez da obrigação objeto deste processo, com a consequente fixação do termo inicial dos juros moratórios a partir da citação. (fls. 391-396, e-STJ).
+No que tange à iliquidez do julgado, o Tribunal desde o acórdão afirmou que bastam cálculos aritméticos a serem obtidos na execução, não carecendo da fase liquidatória para tal desiderato. Assim, para que o Superior Tribunal de Justiça possa desconstituir tal premissa, terá primeiro que analisar se a complexidade dos cálculos torna ilíquida a execução, impondo-se in casu a Súmula 7/STJ, que reserva às instâncias ordinárias a soberania na análise das provas, conforme dispôs o juízo de admissibilidade e confirmou a decisão presidencial do STJ.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
