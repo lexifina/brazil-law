@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ERNANE [NOME] DA [NOME], devidamente assistido pela Defensoria Pública do Estado de Sergipe, contra decisão proferida pelo Tribunal de Justiça daquela unidade federativa que não admitiu recurso especial interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial acostado às e-STJ fls. 579/580, in verbis:
+Trata-se de agravo em recurso especial interposto por [NOME] insurgindo-se contra acórdão proferido pela Câmara Criminal do Tribunal de Justiça do Estado de Sergipe que negou provimento a recurso em sentido estrito apresentado pelo ora recorrente objetivando a absolvição do acusado, a correção de erro material e o afastamento da qualificadora em razão do gênero, em acórdão assim ementado (e-STJ fl. 480):
+RECURSO EM SENTIDO ESTRITO - HOMICÍDIO QUALIFICADO (ART. 121, §2º, III E VI, DO CP) - SENTENÇA DE PRONÚNCIA - INDÍCIOS SUFICIENTES DE AUTORIA E PROVA DA MATERIALIDADE DELITIVA - PRESENTES OS REQUISITOS DO ART. 413 DO CPP - PLEITO SUBSIDIÁRIO DE AFASTAMENTO DA QUALIFICADORA DO INCISO VI (CONTRA MULHER POR RAZÕES DA CONDIÇÃO DO SEXO FEMININO) - NECESSIDADE DE INTERPRETAÇÃO DO ACERVO PROBATÓRIO NÃO ADMITIDA NESTA FASE PROCESSUAL SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI (ART. 5o, XXXVIII, ALÍNEA "D", DA CF) - MANUTENÇÃO INTEGRAL DO DECISUM - RECURSO CONHECIDO E IMPROVIDO - UNÂNIME.
+Contra essa decisão, [NOME] interpôs recurso especial (e-STJ fls. 488-503) com fundamento no art. 105, III, "a" e "c" da CRFB, alegando violação ao artigo 121, §2º do Código Penal Brasileiro, já que ausentes indícios da motivação do crime e dissídio jurisprudencial entre a decisão recorrida e decisão da Primeira Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul.
+O recurso foi inadmitido, em razão de a análise da questão exigir revolvimento do conjunto fático-probatório, atraindo a incidência da Súmula nº 7/STJ (e-STJ fls. 518-22).
+Inconformado, o recorrente interpôs agravo sustentando que não pretende retorno à apreciação da prova produzida, mas a análise da questão de direito (e-STJ fls. 530-44).
+Contrarrazões às e-STJ fls. 506/514.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 579/581).
+É o relatório.
+Decido.
+Preenchidos os pressupostos objetivos e subjetivos de admissibilidade do agravo, dele conheço.
+Analisando pormenorizadamente os argumentos constantes do recurso especial interposto e após realizar seu cotejo com os fundamentos presentes no acórdão proferido pelo Tribunal de origem, tenho que o recurso especial não ultrapassa sequer seu juízo de admissibilidade.
+É que o voto condutor do acórdão recorrido lastrou a possibilidade de manutenção da qualificadora constante da pronúncia em fundamentação constitucional (princípio da soberania dos veredictos emanados pelo Tribunal do Júri - art. 5º, XXXVIII, c, IX, da Constituição da República - e-STJ fl. 483), e o recorrente não cuidou de interpor o indispensável recurso extraordinário dessa parte.
+Assim, o óbice da Súmula n. 126/STJ apresenta-se insuperável, porque existente fundamento incólume, suficiente por si só para manter a autoridade do acórdão recorrido:
+E inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.
+Nesse sentido, precedentes de ambas as Turmas componentes da Terceira Seção deste Tribunal Superior:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 366, 396 E 397, TODOS DO CPP. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" (Súmula 126/STJ).
+2. Agravo regimental a que se nega provimento. (AgInt no AREsp 1130866/AP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 07/11/2017, DJe 13/11/2017, grifei.)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO EXTRAORDINÁRIO NÃO INTERPOSTO. SÚMULA N. 126/STJ. ART. 273, § 1º-B, DO CÓDIGO PENAL. SUBSTÂNCIA FINE TOX. REGISTRO NA ANVISA. CRIME DE PERIGO ABSTRATO. INEXISTÊNCIA. PREJUÍZO À SAÚDE HUMANA. INEXISTÊNCIA. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 07 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Amparado o acórdão recorrido em fundamento constitucional e infraconstitucional e a parte não interpõe recurso extraordinário, mostra-se aplicável o enunciado da Súmula n. 126 desta Corte.
+ ..
+3. Agravo regimental desprovido. (AgRg no REsp 1587824/PE, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/11/2017, DJe 01/12/2017, grifei.)
+Ademais, tem-se que o acórdão recorrido está em pleno alinho com a jurisprudência desta Corte Superior de que somente devem ser excluídas da sentença de pronúncia aquelas manifestamente improcedentes ou sem nenhum amparo nos elementos dos autos, sob pena de usurpação da competência constitucional do Tribunal do Júri.
+Dado o contexto, reconhecido pelo Tribunal a quo de que a qualificadora tem suporte nos elementos fático-probatórios dos autos (e-STJ fl. 483), o seu decote demanda imprescindível reexame de prova, o que é defeso em recurso especial, em virtude do que preceitua a Súmula n. 7, acima mencionada.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 121, § 2º, II E III, DO CP. DECISÃO DE PRONÚNCIA. DECOTE DE QUALIFICADORAS. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar se, ao final da primeira fase do procedimento escalonado do juri, há provas ou não para pronunciar, impronunciar, desclassificar ou absolver sumariamente o acusado, bem como verificar se, por ocasião da decisão de pronúncia, eventual qualificadora se mostra improcedente ou descabida. Incidência do enunciado 7 da Súmula deste STJ.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 636.030/BA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/03/2016, DJe 09/03/2016.)
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
