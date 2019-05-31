@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial manejado por Universal Componentes da Amazonia Ltda. e outros, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 666):
+TRIBUTÁRIO. TAXA DE UTILIZAÇÃO DO SISTEMA INTEGRADO DE COMÉRCIO EXTERIOR. REAJUSTE.
+É ilegal o reajuste da taxa de utilização do sistema integrado de comércio exterior (SISCOMEX) determinado pela Portaria do Ministro da Fazenda 257/2011 em valor superior à variação do INPC entre jan.1999 e abr.2011 (131,60%). Precedentes do Supremo Tribunal Federal e deste Tribunal.
+Opostos embargos declaratórios, foram rejeitados (fls. 757/759).
+A parte recorrente aponta violação ao art. 97 do CTN. Sustenta, em resumo, que deve ser reconhecida a afronta ao princípio da legalidade tributária, tendo em vista que "somente lei em sentido estrito é instrumento hábil para a criação e majoração de tributos, não havendo permissão constitucional e legal para excepcionar-se essa regra ao majorar a alíquota da Taxa de Utilização do SISCOMEX" (fl. 740).
+Recurso extraordinário (fls. 701/721).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Nos termos do art. 1.031, § 2º, do CPC/2015, é possível que o relator, no STJ, entenda que a apreciação do recurso extraordinário se revela prejudicial à análise do recurso especial e, nesse caso, por decisão irrecorrível, remeta os autos à Suprema Corte para que julgue primeiro o apelo extraordinário.
+Na lição de Arruda Alvim, Araken de Assis e Eduardo Arruda Alvim, na sua obra Comentários ao Código de Processo Civil (2. ed, São Paulo: Editora Revista dos Tribunais, 2012, p. 1.255), "A prejudicialidade do julgamento do recurso extraordinário em face do especial depende do fato de o julgamento do extraordinário ser condição para o útil julgamento do recurso especial".
+Tenho que, salvo melhor juízo, a hipótese dos autos se subsume à norma em comento. Isso porque o correto deslinde da discussão travada no apelo raro, qual seja, a legalidade do reajuste da Taxa de Utilização do Siscomex, dependerá necessariamente da manutenção ou não do entendimento sufragado no acórdão recorrido quanto à constitucionalidade do art. 3º, § 2º, da Lei 9.716/98, que permite que o reajuste anual da Taxa de Utilização do Siscomex seja feito por ato do Ministro de Estado da Fazenda, matéria que, diante da fundamentação eminentemente constitucional adotada pela Corte a quo (fls. 668/680), desafiou a interposição de recurso extraordinário (fls. 701/721), o qual restou admitido nos presentes autos (fls. 784/785).
+Assim, tenho que o recurso especial deve ser sobrestado (1.031, § 2º, do CPC/2015), visto que a matéria objeto do extraordinário lhes é prejudicial.
+Diante do exposto, com fundamento no art. 1.031, § 2º, do CPC/2015, determino a remessa dos autos ao Supremo Tribunal Federal.
+Publique-se.
