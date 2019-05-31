@@ -1,0 +1,23 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. ARTIGO 166 DO CTN. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por Magazine Luiza S/A em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, cuja ementa assim estabelece:
+EXECUÇÃO FISCAL  ICMS  Embargos à execução  Inconstitucional idade da Lei Estadual 6.556/89, no tocante à elevação da alíquota do ICMS de 17% para 18% - Precedentes do STF  Para a restituição dos valores pagos indevidamente é necessária comprovação da não ocorrência de repasse ao contribuinte - art. 166 CTN  Súmula 546 STF - Multa devida nos ternos do artigo 527, II, j, do RICMS, sem caráter confiscatório  Sentença de improcedência confirmada  Recurso desprovido.
+Nas razões de recurso especial, fundamentando no artigo 105, III, alínea c, do permissivo constitucional, o recorrente alega dissídio jurisprudencial quanto à aplicação do artigo 166 do CTN em execuções fiscais.
+Transcorreu in albis o prazo para a apresentação de contrarrazões ao recurso especial.
+Em decisão interlocutória, o Tribunal de origem admitiu o processamento do recurso especial.
+É o relatório. Passo a decidir.
+A pretensão do recorrente não merece prosperar.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ:  Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC .
+Deveras, a interposição do recurso especial pela alínea "c" do permissivo constitucional também exige que o recorrente cumpra o disposto nos arts. 1.029, § 1º, do CPC/2015, e, 255, § 1º, a, e § 2º, do RISTJ.
+Assim, considera-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial, quando o recorrente não demonstrar o suposto dissídio pretoriano por meio: (a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; (b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; (c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma; (d) a indicação dos dispositivos de lei federal com interpretação divergente entre os Tribunais.
+Na hipótese examinada, verifica-se que a ora recorrente limitou-se a transcrever a trechos dos julgados paradigmas, sem, no entanto, apontar os fatores que assemelham os casos, não atendendo aos requisitos estabelecidos pelos dispositivos legais supramencionados, restando ausente adequado cotejo analítico e a similitude fática entre os julgados mencionados.
+No que se refere à interposição do recurso especial pela alínea c do permissivo constitucional, está consolidado nesta Corte o entendimento de que o conhecimento do recurso impõe a demonstração efetiva do dissídio entre o aresto impugnado e o acórdão paradigma, no qual se deverá explicitar as circunstâncias que identifiquem ou assemelhem os casos confrontados, com pronunciamentos judiciais diametralmente opostos.
+Assim, é descabido o recurso interposto pela alínea "c" do inciso III do art. 105 da Constituição Federal. Nesse mesmo sentido, confira o seguinte julgado:
+AGRAVO REGIMENTAL EM AGRAVO. RECURSO ESPECIAL. ALÍNEA "C". DISSÍDIO JURISPRUDENCIAL. FALTA COTEJO ANALÍTICO. DECISÃO PELA INADMISSIBILIDADE DO RECURSO MANTIDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Para a admissibilidade do recurso especial, na hipótese da alínea "c" do permissivo constitucional, é imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, mediante o cotejo dos fundamentos da decisão recorrida com o acórdão paradigma, a fim de demonstrar a divergência jurisprudencial existente (arts. 541 do CPC e 255 do RISTJ).
+2. O recurso revela-se manifestamente inadmissível e procrastinatório, devendo ser aplicada a multa prevista no art. 557, § 2º, do CPC.
+3. Agravo regimental não provido com aplicação de multa.
+(AgRg no AREsp 733.241/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 28/08/2015)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
