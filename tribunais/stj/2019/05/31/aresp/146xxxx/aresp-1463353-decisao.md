@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por BANCO BRADESCO S/A contra decisão que negou seguimento ao recurso especial, interposto com fulcro na alínea "a" do permissivo constitucional, o qual visa reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 347, e-STJ):
+NEGÓCIO FIDUCIÁRIO. Venda e compra de bem imóvel, com cláusula fiduciária. Demanda de devedores, fiduciantes (suposta nulidade de procedimento de consolidação da propriedade; abordagem consignatória). Sentença |de parcial procedência. Recurso do réu. Desprovimento.
+Opostos embargos de declaração, os quais foram rejeitados pelo julgado de fls. 364/366, e-STJ.
+Nas razões do recurso especial (fls. 369/374, e-STJ), o ora agravante aponta a violação do art. 26 da Lei 9.514/1997, defendendo, em síntese, a inocorrência de purgação da mora, logo, deve ser reconhecida a rescisão da avença e a consolidação da propriedade em seu nome. Requer, por fim, que seja afastada a condenação em honorários sucumbenciais, ou, alternativamente a redução do valor, sob pena de afronta ao art. 85, § 2º, do CPC/15.
+Contrarrazões às fls. 378/385, e-STJ.
+Em juízo de admissibilidade (fls. 387/388, e-STJ), negou-se seguimento ao recurso especial ante a ausência de comprovação da afronta à lei federal e incidência da Súmula 7/STJ.
+Nas razões do agravo (fls. 391/393, e-STJ), a parte, buscando destrancar o processamento da insurgência, refutou os fundamentos apontados.
+Contraminuta às fls. 396/398, e-STJ.
+É o relatório.
+Decido.
+1. Cinge-se a controvérsia acerca da afronta ao art. 26 da Lei 9.514/1997, defendendo, em síntese, a inocorrência de purgação da mora, logo, deve ser reconhecida a rescisão da avença e a consolidação da propriedade em seu nome.
+A Corte de origem, ao julgar a apelação do ora agravante, adotou a seguinte fundamentação:
+Apoiado na preceituação do artigo 34, do Decreto-Lei 70/66, andou bem o magistrado da causa ao aferir, abusiva, a impossibilidade de purgação da mora até a data de assinatura do auto de arrematação.
+Diante da natureza comutativa de direitos e obrigações, interessando a ambas as partes o aperfeiçoamento do vínculo, a purgação da mora é consectário jurídico, ademais em perfeita sintonia com princípios de boa-fé e da função social do contrato.
+Honorária de sucumbência, à alíquota de dez por cento do valor da causa, patamar mínimo, também nada a alterar (artigo 85, §2º, do Código de Processo Civil).
+Da leitura acima, verifica-se que o Tribunal a quo não se manifestou acerca da incidência do art. 26 da Lei 9.514/1997, embora provocada pela via dos embargos de declaração. Nesse contexto, imperiosa a aplicação do óbice contido na Súmula 211/STJ, ante a ausência do requisito do prequestionamento.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. [NOME] AO PLANO DENOMINADO REG/REPLAN. PREVISÃO DE CÁLCULO DE SUPLEMENTAÇÃO VINCULADO AOS PROVENTOS DECORRENTES DE BENEFÍCIO CONCEDIDO PELO INSS. POSSIBILIDADE DE REDUÇÃO DOS VALORES RECEBIDOS PELOS INATIVOS. ARTS. 112, 143, 421, 422, 423, 424 E 478 DO CÓDIGO CIVIL NÃO PREQUESTIONADOS. REVISÃO DO JULGADO QUE IMPORTA REEXAME DE PROVAS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. RECURSO DESPROVIDO.
+1. Esta Corte não reconhece o prequestionamento apenas pela interposição de embargos de declaração, entendimento esse consolidado na Súmula 211 desta Corte: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo." Persistindo a omissão, é necessária a interposição do recurso especial por afronta ao art. 1.022 do CPC/2015, sob pena de subsistir o óbice da ausência de prequestionamento.
+ ..
+4. Agravo interno improvido.
+(AgInt no AREsp 1259205/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/02/2019, DJe 13/03/2019)
+É importante ressaltar que o prequestionamento resta caracterizado quando é possível extrair do acórdão a quo pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Ilustrativamente:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. IMÓVEL. ATRASO. DANO MORAL. DANO MATERIAL. MULTA. INADIMPLEMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE FUNDAMENTAÇÃO ADEQUADA. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. VERIFICAÇÃO. PRETENSÃO RECURSAL QUE EXIGE O REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INCIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE PONTO RESPONDIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. APLICAÇÃO. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento expresso sobre as teses jurídicas em torno do dispositivo legal tido como violado, o qual tenha sido objeto de formulação nas razões de apelação, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm. 211/STJ).
+ ..
+5. Agravo Interno não provido.
+(AgInt nos EDcl no AREsp 1047576/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/02/2019, DJe 13/02/2019)
+2. Uma vez mantido o aresto originário, resta prejudicado o pedido de exclusão dos honorários sucumbenciais.
+Além disso, observa-se ser imperiosa a rejeição do pleito de redução dos honorários sucumbenciais.
+Isso porque, o art. 85, § 2º, do CPC/15 dispõe que a verba honorária sucumbencial deve ser fixada no patamar de dez a vinte por cento do valor da condenação, do proveito econômico ou valor atualizado da causa, o que foi devidamente obedecido pela Corte estadual.
+A propósito, precedente da Segunda Seção do STJ:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. JUÍZO DE EQUIDADE NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. NOVAS REGRAS: CPC/2015, ART. 85, §§ 2º E 8º. REGRA GERAL OBRIGATÓRIA (ART. 85, § 2º). REGRA SUBSIDIÁRIA (ART. 85, § 8º). PRIMEIRO RECURSO ESPECIAL PROVIDO. SEGUNDO RECURSO ESPECIAL DESPROVIDO.
+1. O novo Código de Processo Civil - CPC/2015 promoveu expressivas mudanças na disciplina da fixação dos honorários advocatícios sucumbenciais na sentença de condenação do vencido.
+2. Dentre as alterações, reduziu, visivelmente, a subjetividade do julgador, restringindo as hipóteses nas quais cabe a fixação dos honorários de sucumbência por equidade, pois: a) enquanto, no CPC/1973, a atribuição equitativa era possível: (a.I) nas causas de pequeno valor; (a.II) nas de valor inestimável; (a.III) naquelas em que não houvesse condenação ou fosse vencida a Fazenda Pública; e (a.IV) nas execuções, embargadas ou não (art. 20, § 4º); b) no CPC/2015 tais hipóteses são restritas às causas: (b.I) em que o proveito econômico for inestimável ou irrisório ou, ainda, quando (b.II) o valor da causa for muito baixo (art. 85, § 8º).
+3. Com isso, o CPC/2015 tornou mais objetivo o processo de determinação da verba sucumbencial, introduzindo, na conjugação dos §§ 2º e 8º do art. 85, ordem decrescente de preferência de critérios (ordem de vocação) para fixação da base de cálculo dos honorários, na qual a subsunção do caso concreto a uma das hipóteses legais prévias impede o avanço para outra categoria.
+4. Tem-se, então, a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art.
+85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+5. A expressiva redação legal impõe concluir: (5.1) que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa; (5.2) que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo.
+6. Primeiro recurso especial provido para fixar os honorários advocatícios sucumbenciais em 10% (dez por cento) sobre o proveito econômico obtido. Segundo recurso especial desprovido.
+(REsp 1746072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, DJe 29/03/2019)
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nego provimento ao agravo e, com base no art. 85, § 11, do CPC/15, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, em favor do patrono da parte agravada.
+Publique-se.
+Intimem-se.
