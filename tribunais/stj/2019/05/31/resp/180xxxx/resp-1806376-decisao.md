@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por EVERTON HERCULANO SANCHES, com amparo nas alíneas "a" e "c", do permissivo constitucional, contra acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 57, e-STJ):
+AGRAVO PROCESSO CIVIL. DECLÍNIO DE COMPETÊNCIA. DECISÃO. IRRECORRÍVEL. ROL DO ARTIGO 1.015 DO CPC. TAXATIVO. INTERPRETAÇÃO EXTENSIVA. NÃO CABIMENTO. AGRAVO DE INSTRUMENTO. NÃO CONHECIMENTO.
+1. O sistema de recorribilildade do Novo Código de Processo Civil impôs a taxatividade do rol de decisões agraváveis, o que desautoriza a interpretação extensiva das hipóteses de cabimento do agravo de instrumento previstas no artigo 1.015 do diploma adjetivo.
+2. A decisão que declina a competência para processar e julgar a demanda não é passível de recurso, pois não se enquadra no rol taxativo previsto artigo 1.015 do Código de Processo Civil, o que inviabiliza o conhecimento do agravo de instrumento pela falta de pressuposto objetivo de admissibilidade.
+3. Recurso conhecido e desprovido.
+Em suas razões de recurso especial (fls. 58/62, e-STJ), o recorrente aponta, além de dissídio jurisprudencial, ofensa aos artigo 1.015 do Código de Processo Civil/15. Sustenta, em síntese, que é cabível a interposição de agravo de instrumento contra decisões que versem sobre competência.
+Sem contrarrazões (fl. 86, e-STJ), e após juízo positivo de admissibilidade (fls. 87/88, e-STJ), os autos ascenderam a esta Corte Superior de Justiça.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. A Quarta Turma do Superior Tribunal de Justiça firmou o entendimento no sentido de que "apesar de não previsto expressamente no rol do art. 1.015 do CPC/2015, a decisão interlocutória relacionada à definição de competência continua desafiando recurso de agravo de instrumento, por uma interpretação analógica ou extensiva da norma contida no inciso III do art. 1.015 do CPC/2015, já que ambas possuem a mesma ratio -, qual seja, afastar o juízo incompetente para a causa, permitindo que o juízo natural e adequado julgue a demanda" (REsp 1679909/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/11/2017, DJe 01/02/2018).
+Nesse sentido:
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HIPÓTESES DE CABIMENTO. INTERPRETAÇÃO ANALÓGICA OU EXTENSIVA DO INCISO III DO ART. 1.015 DO CPC/2015. RECURSO ESPECIAL A QUE SE DÁ PROVIMENTO.
+1. Conforme entendimento deste Órgão Julgador, "apesar de não previsto expressamente no rol do art. 1.015 do CPC/2015, a decisão interlocutória relacionada à definição de competência continua desafiando recurso de agravo de instrumento, por uma interpretação analógica ou extensiva da norma contida no inciso III do art. 1.015 do CPC/2015, já que ambas possuem a mesma ratio -, qual seja, afastar o juízo incompetente para a causa, permitindo que o juízo natural e adequado julgue a demanda" (REsp 1.679.909/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/11/2017, DJe de 1º/02/2018).
+2. Recurso especial a que se dá provimento, para reconhecer o cabimento do agravo de instrumento em face de decisão que declinou a competência para a apreciação da ação e determinar, por conseguinte, o regular prosseguimento do recurso aviado com o retorno dos autos à Corte de origem.
+(REsp 1711953/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 02/08/2018, DJe 10/08/2018)
+PROCESSUAL CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DECISÃO SOBRE COMPETÊNCIA. AGRAVO DE INSTRUMENTO. ROL TAXATIVO. APLICAÇÃO DO ART. 1.015 DO CPC/2015. NÃO CABIMENTO.
+1. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, e a parte recorrente deixa de indicar violação do art. 1.022 do CPC/2015, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo". Precedentes.
+2. A controvérsia acerca de a decisão interlocutória relacionada à definição de competência desafiar o recurso de Agravo de Instrumento em razão da interpretação extensiva ou analógica do inciso III do art. 1.015 do CPC/2015 foi afetada ao rito do art. 1.036 do CPC/2015. A discussão é objeto do ProAfR no REsp 1.704.520/MT.
+3. A Corte Especial, embora tenha afetado o tema ao julgamento pelo rito repetitivo, expressamente decidiu pela não suspensão dos demais processos, modulando os efeitos do inciso II do art. 1.037 do CPC/2015.
+4. A interpretação do art. 1.015 do CPC/2015 deve ser, em regra, restritiva, não sendo possível o alargamento das hipóteses para contemplar situações não previstas taxativamente na lista estabelecida para o cabimento do Agravo de Instrumento.
+5. As decisões relativas à competência, temática discutida nos presentes autos, estão fora do rol taxativo do art. 1.015 do CPC/2015, não se enquadrando nas hipóteses dos incisos II e XIII.
+6. A legislação processual civil dispõe de outros mecanismos para que a parte discuta a matéria da competência. Não há, portanto, qualquer prejuízo ao direito de defesa da parte recorrente.
+7. Recurso Especial parcialmente conhecido e, nessa parte, improvido.
+(REsp 1730436/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/05/2018, DJe 19/11/2018)
+Assim, evidenciado o descompasso entre o acórdão recorrido e a jurisprudência deste órgão colegiado, impõe-se a reforma do entendimento assentado pelo Tribunal de origem.
+2. Ante o exposto, com amparo no art. 932 do NCPC e na Súmula 568 do STJ, dou provimento ao recurso especial, para cassar o acórdão recorrido e a decisão monocrática de fls. 32-34, determinando o retorno dos autos ao Tribunal de origem, para que aprecie o agravo de instrumento quanto à questão relacionada com a competência para processar e julgar a presente lide.
+Publique-se.
+Intimem-se.
