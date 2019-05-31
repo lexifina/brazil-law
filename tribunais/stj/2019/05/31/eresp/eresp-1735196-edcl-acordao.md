@@ -1,0 +1,58 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. SERVIDOR PÚBLICO. REAJUSTE DE 3,17% AOS SERVIDORES FEDERAIS E PENSIONISTAS. EXECUÇÃO INDIVIDUAL DE AÇÃO COLETIVA. NECESSIDADE DE LIQUIDAÇÃO DA SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PREQUESTIONAMENTO PARA FINS DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INVIABILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que a liquidação é ainda fase do processo de cognição; desse modo, só é possível iniciar a execução quando o título, certo pelo trânsito em julgado da sentença de conhecimento, apresentar-se também líquido.
+3. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+4. Sob pena de invasão da competência do STF, descabe analisar questão constitucional em Recurso Especial, ainda que para viabilizar a interposição de Recurso Extraordinário.
+5. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ, com a seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. REAJUSTE DE 3,17% AOS SERVIDORES FEDERAIS E PENSIONISTAS. EXECUÇÃO INDIVIDUAL DE AÇÃO COLETIVA. NECESSIDADE DE LIQUIDAÇÃO DA SENTENÇA. OFENSA AO ART. 535 DO CPC/1973 NÃO CARACTERIZADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Constato que não se configurou a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. A jurisprudência do Superior Tribunal de Justiça é no sentido de que a liquidação é ainda fase do processo de cognição; desse modo, só é possível iniciar a execução quando o título, certo pelo trânsito em julgado da sentença de conhecimento, apresentar-se também líquido.
+5. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+Em síntese, a embargante alega violação ao devido processo legal e à coisa julgada:
+ O Sindicato ora Embargante oportunizou aos substituídos que tiveram créditos liquidados e reconhecidos no Parecer Técnico nº 8581C/2009DCP/PGU/AGU a opção da individualização da execução com renuncia aos créditos excedentes aqueles apurados e lançados no Parecer Técnico nº 8581C/2009DCP/PGU/AGU do Departamento de Cálculos e Perícias da Procuradoria Geral da União, que contém os valores liquidados pela Universidade Embargante no curso dos Embargos à Execução coletiva conforme fls.1146/1604 dos Embargos a Execução nº 2006.51.01.015199-0.
+Portanto na Execução autônoma individualizada da sentença coletiva, foram traçados os seus limites objetivo, amparada estritamente na liquidação ofertada pela UFRJ, diante do valor reconhecido expressamente no parecer técnico nº 8581C/2009-DCP/PGU/AGU do Departamento de Cálculos e Perícias da Procuradoria Geral da União já com a devida limitação temporal.
+O acórdão guerreado carece de pronunciamento acerca do objeto da execução deflagrada, devendo o mesmo ter aclarada sua origem em valores apurados no Parecer Técnico nº 8581C/2009- DCP/PGU/AGU com expresso reconhecimento expresso da Autarquia Embargada, durante a tramitação da execução coletiva.
+Não houve impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 8.2.2019.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Na hipótese dos autos, o acórdão embargado consignou:
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Observo que o Tribunal local não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados.
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fls. 410-411):
+A presente execução deve ser extinta por fundamento diverso do constante no decisum a quo, pois ausente uma condição da ação executiva, qual seja, a liquidação da sentença condenatória genérica proferida nos autos da Ação Coletiva nº 99.0063635-0.
+Inicialmente, cumpre rechaçar a questão de litispendência levantada pela sentença a quo (fl. 276- autos virtuais), vez que os Autores renunciaram expressamente a execução coletiva, optando pelo processo executivo individual conforme os termos declaratórios de fls. 249/253 dos autos virtuais.
+Consequentemente, os substituídos nesta ação estão excluídos no caso de procedência dos Embargos à Execução nº 2006.51.01.015199-0, ainda pendente de recurso, cujo decisum impediu a continuação do executivo coletivo entendendo pela necessidade de limitação litisconsorcial e eventual resultado deste feito não repercutirá na esfera jurídica dos Exequentes desta demanda, pois elegeram a execução individualizada como forma de obter seus benefícios.
+Entretanto, a pretensão recursal não deve prosperar por motivo diverso.
+Com efeito, a obrigação de liquidar a sentença decorre, também, do disposto nos artigos 97 e 98, do Código de Defesa do Consumidor:
+Art. 97. A liquidação e a execução de sentença poderão ser promovidas pela vítima e seus sucessores, assim como pelos legitimados de que trata o art. 82.
+Art. 98. A execução poderá ser coletiva, sendo promovida pelos legitimados de que trata o art. 82, abrangendo as vítimas cujas indenizações já tiveram sido fixadas em sentença de liquidação, sem prejuízo do ajuizamento de outras execuções.
+§ 1º A execução coletiva far-se-á com base em certidão das sentenças de liquidação, da qual deverá constar a ocorrência ou não do trânsito em julgado.
+2º E competente para a execução o juízo:
+I - da liquidação da sentença ou da ação condenatória, no caso de execução individual;
+II - da ação condenatória, quando coletiva a execução."(Grifei)
+ No caso, pretende o Exequente, ora Apelante, a Execução com base nos termos da supracitada Ação Coletiva, já transitada em julgado.
+Contudo, conforme já mencionado, em sede de processo coletivo, em que a sentença condenatória é necessariamente genérica, mostra-se imprescindível, para apuração de um valor líquido e exigível, a realização de processo de liquidação, com induvidoso respeito ao Contraditório e Ampla Defesa, em que o Ente Público executado possa contribuir de forma efetiva, não sendo razoável transferir para o âmbito dos Embargos à Execução a possibilidade de impugnação dos critérios de cálculo unilateralmente adotados
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2.6.2010.
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. As alegações da embargante denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Além disso, é de conhecimento geral que os aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais. Com esse entendimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. Incabíveis embargos de declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+4. Embargos de declaração rejeitados. (EDcl no AgRg no Ag 936.404/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/09/2008, DJe 14/10/2008)
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito à multa prevista no Código de Processo Civil.
+É como voto.
