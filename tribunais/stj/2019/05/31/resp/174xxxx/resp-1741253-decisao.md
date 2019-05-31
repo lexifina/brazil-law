@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por JEAN FERREIRA FRAGA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Depreende-se dos autos que o recorrente foi condenado à pena de 4 (quatro) anos e 4 (quatro) meses de reclusão, a ser cumprida inicialmente no regime intermediário, e ao pagamento de 600 (seiscentos) dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, tendo em vista que foi surpreendido na posse de 16 (dezesseis) pedras de crack (sem especificação da quantidade em peso líquido), além da quantia de R$ 619,00 (seiscentos e dezenove reais) em cédulas trocadas (e-STJ fls. 204/216).
+Interposta apelação, os desembargadores da Segunda Câmara Criminal deram parcial provimento ao recurso defensivo a fim de redimensionar a multa para 433 (quatrocentos e trinta e três) dias-multa, mantidos os demais termos da sentença (e-STJ fls. 297/309).
+Recebeu o acórdão esta ementa (e-STJ fls. 301/302):
+APELAÇÃO CRIME. DELITO DE ENTORPECENTES. TRÁFICO DE DROGAS. MATERIALIDADE. AUTORIA. CARACTERIZAÇÃO. PALAVRA DOS POLICIAIS. PROVA VÁLIDA. INIDONEIDADE NÃO DEMONSTRADA. APELO DEFENSIVO.
+Comprovada a materialidade e a autoria do delito de tráfico de drogas, inviável a absolvição pretendida. Para afastar-se a presumida idoneidade dos policiais (ou ao menos suscitar dúvida), é preciso que se constatem importantes divergências em seus relatos, ou que esteja demonstrada alguma desavença com o réu, séria o bastante para torná-los suspeitos, pois seria incoerente presumir que referidos agentes, cuja função é justamente manter a ordem e o bem estar social, teriam algum interesse em prejudicar inocentes. O tráfico de drogas é tipo múltiplo de conteúdo variado, havendo diversos verbos nucleares que o caracterizam; portanto, o flagrante do ato da venda é dispensável para sua configuração, quando restar evidente que a destinação dos entorpecentes é a comercialização - como no caso restou comprovado.
+PEDIDO DE DESCLASSIFICAÇÃO PARA O DELITO DO ART. 28 DA LEI Nº 11.343/06. INVIABILIDADE. Não pode ser acolhido o pedido de desclassificação do delito de tráfico para aquele previsto no art. 28 da Lei nº 11.343/06, formulado pelo réu, porque a prova dos autos demonstra que o referido réu praticava o tráfico de drogas e não era mero usuário.
+PENA-BASE. MANUTENÇÃO. PECULIARIDADES DO CASO. Caso dos autos em que, embora revista a análise dos vetores do art. 59 do CP, mantém-se a pena-base como fixada na sentença, verificando-se que a culpabilidade e a conduta social são desfavoráveis, porquanto o réu foi preso em flagrante, em outro processo, por comercializar pedras de crack, sendo solto provisoriamente, voltando a praticar o tráfico de drogas poucos dias depois, revelando que a conduta social, e não a personalidade como discorreu a Juíza de 1º Grau, e a culpabilidade devem ser avaliadas de forma desfavorável, sendo mantida a basilar.
+CONFISSÃO. INAPLICABILIDADE. AUSÊNCIA DOS REQUISITOS. MINORANTE. PEDIDO DE APLICAÇÃO NO PATAMAR MÁXIMO. DESCABIMENTO. Não há falar em aplicação da minorante prevista no art. 33, § 4º, da Lei nº 11.343/06 no patamar máximo, pois, diante da natureza da droga - crack - a redutora já foi aplicada em patamar superior ao que seria devido, mantendo-se a fração intermediária, pois ausente recurso do Ministério Público.
+MULTA. REDUÇÃO. Pena de multa reduzida para guardar proporcionalidade em relação à carcerária.
+SUBSTITUIÇÃO DA PENA. DESCABIMENTO. Não há falar em substituição da pena privativa de liberdade, pois ausentes os requisitos previstos no art. 44 do CP.
+APELO PARCIALMENTE PROVIDO. UNÂNIME.
+Nas razões do recurso especial, a defesa aponta, além de divergência jurisprudencial, contrariedade aos arts. 59 do Código Penal e 33, § 4º, da Lei de Drogas.
+Sustenta ausência de fundamentos capazes de justificarem a valoração negativa referente à culpabilidade, à conduta social e às consequências do delito na primeira fase do cálculo dosimétrico.
+Por fim, assevera que, apesar de preenchidos todos os requisitos para a concessão do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, ele não foi aplicado em grau máximo com fundamento, apenas, na natureza da droga apreendida, fundamento que não justifica a negativa do reconhecimento da fração de 2/3 (dois terços).
+Requer, assim, a correção da dosimetria da pena aplicada ao recorrente.
+Contrarrazões às e-STJ fls. 337/341.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial (e-STJ fls. 363/367).
+É o relatório.
+Decido.
+O recurso está prejudicado ante a perda de objeto.
+Com efeito, constato que foi impetrado o Habeas Corpus n. 436.163/RS, de minha relatoria, referente à mesma ação penal originária (0347121-48.2017.8.21.7000), cujo pedido é idêntico ao deduzido neste recurso (a correção da dosimetria da pena aplicada ao recorrente).
+Naquele processo, concedi, parcialmente, a ordem de habeas corpus a fim de afastar a circunstância judicial referente às consequências do crime, readequar a reprimenda definitiva para 4 (quatro) anos de reclusão mais 400 (qutrocentos) dias-multa, bem como para estabelecer o regime semiaberto para início de cumprimento da sanção.
+Essa decisão foi publicada no DJe de 23/8/2018, tendo os autos sido arquivados.
+Ante o exposto, julgo prejudicado o recurso especial, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
