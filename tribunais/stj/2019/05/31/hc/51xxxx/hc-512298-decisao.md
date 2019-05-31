@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de WILSON DE JESUS LOPES na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTICA DO ESTADO DE SÃO PAULO - HC n. 2107521-09.2019.8.26.0000, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Consta dos autos que o paciente foi denunciado como incurso nos artigos 35, caput, c.c 40, VI, da Lei n. 11.343/06, e preso preventivamente em 24/08/2018.
+Alega que se estaria diante de flagrante ilegalidade passível de afastar o óbice contido no verbete 691 da Súmula do Supremo Tribunal Federal, ante a inexistência de fundamentação idônea para justificar o decreto da segregação cautelar, reputando não atendidos os requisitos autorizadores da preventiva, previstos no art. 312 do Código de Processo Penal.
+Aduz que não teria sido demonstrado, com base em elementos concretos, como a liberdade do acusado poderia oferecer risco à ordem pública, ao bom andamento da instrução criminal ou à aplicação da lei penal.
+Acrescenta estar configurado o excesso de prazo na sua prisão, uma vez decorridos 9 meses de sua segregação sem que houvesse o início da instrução criminal.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva do paciente, expedindo-se alvará de soltura em seu favor.
+É o relatório.
+Este Superior Tribunal de Justiça, "na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem" (AgRg no HC 417.895/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (e-STJ, fl. 1.172/1.173):
+" ..
+De acordo com a denúncia reproduzida às fls. 327/354, o paciente e outras onze pessoas, todos sob comando de [NOME] dos Santos Neves, entre março e setembro de 2018, associaram-se para a prática de tráfico de entorpecentes em Cordeirópolis, delitos que contaram com o envolvimento de diversos adolescentes aliciados por traficantes.
+Descreve a peça acusatória, inclusive com base em interceptações telefônicas autorizadas judicialmente, que "Wilson, vulgo "Cabelo", estava abaixo de [NOME] na organização. Ele cuidava de assuntos internos da associação, sendo responsável pela manutenção da "disciplina" dos demais integrantes. Ele também providenciava a entrega de drogas a seus subordinados (foi, inclusive, preso em flagrante executando referida tarefa)"
+A d. Autoridade Judicial apontada como coatora decretou a prisão preventiva do paciente, nos seguintes termos (e-SAJ):
+ ..
+"Além disso, o fato de se reunirem em mais de três pessoas para a prática de tráfico de entorpecentes, inclusive aliciando adolescentes para a nefasta mercancia, confere maior reprovabilidade à conduta e demonstra a maior gravidade em concreto da ação criminosa, justificando a segregação cautelar a fim de garantir a ordem pública.
+"Acrescente-se que membros do grupo utilizavam-se de métodos violentos e cruéis para intimidar a vítima a pagar a dívida contraída com o consumo de entorpecentes, ameaçando-a de morte e dizendo que iriam "retirar seus olhos", chegando o cúmulo de invadirem sua residência por duas vezes, demonstrando total desprezo pela vida humana e garantias individuais. ..
+De resto, a questão relativa ao excesso de prazo na formação da culpa deve ser examinada à luz do princípio da razoabilidade, o que só será possível oportunamente, quando do julgamento do writ, instruído com os informes de estilo.
+Destarte, indefiro a liminar postulada."
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária, para manter, ao menos por ora, a constrição cautelar do paciente.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Pelo exposto, indefere-se liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
