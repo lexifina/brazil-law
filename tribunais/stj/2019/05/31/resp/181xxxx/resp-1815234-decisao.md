@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto com fulcro no art. 105, inciso III, alínea "a", da Constituição Federal.
+Consta dos autos que o Juízo da Vara de Execuções Criminais, diante da nova condenação imposta ao recorrente, unificou as penas e fixou a data do trânsito em julgado da nova condenação como data-base para a contagem do prazo para obtenção de benefícios prisionais, tanto para progressão de regime quanto para livramento condicional (fls. 504/507).
+Interposto agravo em execução pela defesa, o Tribunal de origem negou provimento ao recurso. Eis a ementa do julgado (fls. 646):
+RECURSO DE AGRAVO EM EXECUÇÃO. IRRESIGNAÇÃO CONTRA A DECISÃO QUE FIXOU A DATA DO TRÂNSITO EM JULGADO DA ÚLTIMA CONDENAÇÃO, PARA A ACUSAÇÃO, COMO TERMO INICIAL PARA A CONTAGEM DOS BENEFÍCIOS DA EXECUÇÃO PENAL, INCLUINDO O LIVRAMENTO CONDICIONAL. INSURGÊNCIA NÃO ACOLHIDA. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO, NO CURSO DA EXECUÇÃO, QUE INTERROMPE O PRAZO PARA A OBTENÇÃO DOS BENEFÍCIOS. DECISÃO AMPARADA NA JURISPRUDÊNCIA CONSOLIDADA DO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA.
+RECURSO CONHECIDO E DESPROVIDO.
+Diante disso, a Defesa interpôs recurso especial alegando violação aos arts. 112 e 118 da Lei n. 7.210/84 (Lei de Execução Penal - LEP) e aos arts. 83 e 84 do Código Penal - CP.
+Sustenta que, a despeito de não haver previsão legal, o Tribunal de origem manteve a decisão do Juízo da Execução que fixou a data do trânsito em julgado da condenação superveniente como data-base para a progressão de regime e para o livramento condicional, desconsiderando todo o período que o sentenciado esteve preso, em clara afronta aos dispositivos legais apontados.
+Alega que a data-base para a concessão de novos beneficios execucionais conta-se do dia do início do cumprimento da pena e não do trânsito em julgado da nova condenação.
+Aduz que inexiste previsão legal para a interrupção do prazo para a concessão do livramento condicional. Invoca ao Enunciado de n. 441 da Súmula do STJ.
+Requer seja conhecido e provido o recurso especial para determinar que seja considerada como data-base para a progressão de regime o dia da última prisão do apenado e, para fins de livramento condicional, o início do cumprimento da pena ou da primeira prisão.
+Contrarrazões às fls. 686/689.
+Decisão de admissibilidade às fls. 691/695.
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 716/717).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+O voto condutor assim se posicionou quanto à controvérsia, no que importa, verbis (fls. 645/654):
+O recorrente insurge-se contra a r. decisão, que unificou as penas que lhe foram impostas, mantendo como data-base para a contagem dos benefícios executórios a data do trânsito em julgado da última sentença condenatória.
+Segundo consta dos autos, o d. Magistrado, com acerto, considerou a data do trânsito em julgado da última condenação como base inicial de contagem do prazo necessário para a obtenção dos benefícios executórios.
+É inegável que, com a realização da soma ou a unificação das penas nos termos do artigo 111 e seguintes da Lei de Execuções Penais, os prazos dos referidos benefícios passam a ter novo marco inicial.
+Sobre o assunto, esta Corte de Justiça tem orientação consolidada no sentido de que o termo inicial para contagem dos benefícios previstos na Lei de Execução Penal deve ser aferido do trânsito em julgado da última condenação:
+ ..
+Com relação ao livramento condicional, a discussão se resume em verificar se o apenado que, durante o curso da execução penal, recebe outra condenação, tem a data-base para a concessão do benefício em questão mantida como sendo a do início do cumprimento da pena, ou se o lapso temporal se interrompe, passando a ser considerado o dia do trânsito em julgado da nova condenação.
+ ..
+Contudo, remanesceu a dúvida acerca das novas condenações criminais com trânsito em julgado, as quais, frise-se, não se confundem com as sanções disciplinares de natureza administrativa, sem prejuízo do disposto no art. 52 da Lei de Execução Penal.
+Nessa toada, ganha importância o fato de que o próprio Superior Tribunal de Justiça, mesmo após a edição da Súmula nº 441, já se posicionou no sentido de que o trânsito em julgado de nova sentença condenatória constitui, de fato, nova data-base a ser considerada para a concessão de livramento condicional.
+ ..
+Assim, verifica-se o acerto da decisão vergastada, na medida em que, na hipótese de superveniência de nova condenação durante a execução penal, a data-base para a concessão das futuras benesses, incluindo o livramento condicional, deve ser a do trânsito em julgado para a acusação da última decisão condenatória, não sendo o caso, portanto, de aplicação da Súmula nº 441 do STJ.
+O entendimento do Tribunal a quo, de fato, encontra-se em desacordo ao desta Corte que, por intermédio da sua Terceira Seção, em julgamento (REsp 1.557.461/SC, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, DJe 15/3/2018), alterou seu entendimento para estabelecer como marco inicial para a concessão de benefícios, após a unificação das penas, a data da última prisão do apenado. Veja-se a ementa:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido (REsp 1557461, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 15/3/2018).
+Assim, deve ser provido o recurso, para determinar que a data base para o cálculo de aquisição de futuros benefícios é a data da última prisão e não a do trânsito em julgado da ultima condenação.
+Diante do exposto, com fundamento no Enunciado n. 568 da Súmula do STJ, dou provimento ao recurso especial para cassar o acórdão objurgado e determinar que a data base para o cálculo de aquisição de futuros benefícios prisionais é a data da última prisão e não a do trânsito em julgado da ultima condenação.
+Publique-se. Intimem-se.
