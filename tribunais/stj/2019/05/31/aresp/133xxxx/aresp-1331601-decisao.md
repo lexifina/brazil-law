@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por ILAINE KREIMEIER contra decisão que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 117):
+EMENTA- AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA EM AÇÃO DE INDENIZAÇÃO ADMINISTRAÇÃO PÚBLICA - CONTRATAÇÃO TEMPORÁRIA - FGTS DEVIDO EM RELAÇÃO AOS PERÍODOS LABORADOS COMO PROFESSOR CONVOCADO - RECURSO DESPROVIDO.
+No especial obstaculizado, a ora agravante, além de divergência jurisprudencial, apontou violação dos arts. 323 e 514 do CPC/2015, sustentando que a condenação deve englobar também o pagamento das prestações vincendas até o trânsito em julgado da sentença, e não até o ajuizamento a demanda, cabendo ao credor apenas demonstrar que o vencimento de obrigações tem a mesma relação jurídica já julgada.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 200/203).
+Na presente irresignação, o agravante alega que o recurso obstado atende aos pressupostos para sua admissão (e-STJ fls. 209/2015).
+Contraminuta às e-STJ fls. 221/226.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Dito isso, observa-se que o apelo nobre se insurge contra julgado do Tribunal de origem, o qual manteve a decisão do juízo de primeira instância que acolheu impugnação do Estado de que o valor calculado pelo exequente extrapola os limites do julgado ao seguinte fundamento (e-STJ fls. 120/121):
+Com efeito, a agravante atuou como professora contratada no período compreendido entre fevereiro/1992 e dezembro/2005 (conforme se depreende do acórdão exarado nos autos 0009949-86.2010.8.12.002).
+Observada a prescrição qüinqüenal dos débitos, o período exigível é mesmo o compreendido entre dezembro/2000 e dezembro/2005, no entanto, a agravante utilizou-se do interstício de janeiro/2001 a abril/2016, conforme analisou-se na decisão agravada.
+Confira-se: "Ante o contido nos acórdãos f. 118/187 - o cálculo de f. 05/14 a tanto não se conforma, porque conjugando-se a planilha apresentada pelo executado e os dados de seu relatório, verifica-se que: "os cálculos apresentados pelo exequente estão com os valores superiores em relação aos cálculos elaborados por esta Unidade e restam correções a serem providenciadas, a fim de expurgar os excessos praticados nos cálculos do Exequente, a saber: O período da condenação foi de jan/2001 à abril/2016. Correção monetária pelo índice INPC (IBGE) após pelo índice TR. Nesta Especializada: O período da condenação foi de dezembro/2000 até dezembro/2005. Correção monetária apenas pelo índice TR".
+Logo, deve ser mantida íntegra a decisão que acolheu a impugnação apresentada pelo Estado de Mato Grosso do Sul.
+Para análise das alegações da parte recorrente seria necessária análisar a matéria fático-probatória - interpretação dos comandos do título exequendo -, providência que esbarra no óbice da Súmula 7 desta Corte. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. INEXISTÊNCIA. EMBARGOS À EXECUÇÃO. PENSÃO. BASE DE CÁLCULO. PARCELAS DETERMINADAS PELO TÍTULO EXECUTIVO. REVISÃO DA COISA JULGADA. IMPOSSIBILIDADE.
+INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+III. No caso, o Tribunal de origem, à luz do contexto fático dos autos, concluiu que a inclusão do valor das horas extras e do adicional noturno, na base de cálculo da pensão, não viola a coisa julgada, estando em consonância com o título exequendo. Assim, verificar, nos termos em que restou decidida a ação que originou o título executivo judicial, se houve ou não violação à coisa julgada, demandaria o reexame do acervo fático-probatório dos autos, o que é incabível, em sede de Recurso Especial, a teor da Súmula 7 do STJ. Precedentes do STJ.
+IV. Agravo Regimental improvido.
+(AgRg no REsp 1572187/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 12/04/2016, DJe 19/04/2016)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO ACÓRDÃO RECORRIDO. NÃO-OCORRÊNCIA. COMPLEMENTAÇÃO DE PENSÃO. EX-FERROVIÁRIO. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. OFENSA À COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS E FATOS. SÚMULA 7/STJ.
+ ..
+3. No caso, rever a interpretação dada pela Corte de origem ao título executivo judicial, a fim de aferir possível violação à coisa julgada, exigirá o revolvimento do acervo fático-probatório dos autos, o que é inadmissível na via especial, ante o óbice da Súmula 7/STJ. A propósito: AgRg no AREsp 30.281/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 02/06/2014; AgRg no AREsp 149.713/PR, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 3/10/2012; AgRg no AREsp 224.394, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 19/12/2012; AgRg no REsp 1.208.502/AL, Rel Ministro Teori Albino Zavascki, Primeira Turma, DJe 9/8/2011.
+4. Agravo regimental não provido.
+(AgRg no AREsp 535.028/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/08/2015, DJe 28/08/2015)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
