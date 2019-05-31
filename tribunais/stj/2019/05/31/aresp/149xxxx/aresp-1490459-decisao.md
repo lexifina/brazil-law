@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo apresentado por MUNICÍPIO DE SÃO PAULO, contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+APELAÇÃO CÍVEL - Mandado de segurança ITBI - Município de São Paulo Imóvel adquirido através de compromisso de compra e venda - Cabimento do recolhimento do imposto com base no valor da transação ou o valor venal do bem Impossibilidade de aplicação da Lei nº 11.154/91 com redação dada pela Lei nº 14.256/2006 e Decreto Municipal 51.627/2010 - Base de Cálculo apurada segundo coleta de amostras de transações e ofertas de venda de imóveis pelo Poder Executivo - Majoração de tributo sem exame do Poder Legislativo Impossibilidade - Violação do princípio da legalidade em matéria tributária consagrado no artigo 150, inciso I da Constituição Federal e 97, inciso IV do Código Tributário Nacional Sentença mantida Recursos oficial e voluntário do Município não providos.
+É o relatório. Decido.
+Na espécie, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Nesse sentido: "É inviável, em recurso especial, a revisão de julgado que possui fundamentação exclusivamente constitucional para declarar devida a paridade de remuneração entre trabalhadores ativos e inativos, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgInt no REsp n. 1.744.165/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019).
+Confiram-se ainda os seguintes precedentes: REsp n. 1.757.744/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/2/2019; e AgInt no REsp n. 1.503.220/SC, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 5/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
