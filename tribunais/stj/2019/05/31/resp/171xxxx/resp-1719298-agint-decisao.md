@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. MAJORAÇÃO. NECESSIDADE. INCIDÊNCIA DA REGRA CONSTANTE DO ARTIGO 85, § 2º, DO CPC/2015.
+1. Embargos à execução em razão de inadimplemento em contrato de compra e venda.
+2 Com a ressalva do meu entendimento, a 2ª Seção definiu que quanto à fixação dos honorários de sucumbência, temos a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedente da 2ª Seção.
+3. Decisão de e-STJ fls. 312/313 reconsiderada. Recurso especial provido para majorar os honorários de sucumbência em favor da agravante para 10% sobre o valor do proveito econômico obtido .
+DECISÃO
+Em face das razões de e-STJ fls. 330/347, reconsidero a decisão de e-STJ fl. 312/313, e passo a novo exame do recurso especial interposto por [NOME] - ME, contra decisão que negou provimento ao recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 22/08/2017.
+Concluso ao gabinete em: 24/08/2018.
+Ação: embargos à execução opostos pelo recorrente em face de ARI JOSE ZANINI - ME, tendo como objeto contrato particular de compra e venda.
+Sentença: julgou procedente os embargos à execução e fixou honorários, por equidade, em R$600,00.
+Acórdão: julgou parcialmente procedente, apenas para majorar os honorários advocatícios, por equidade, para R$ 2.500,00 (dois mil e quinhentos reais), nos termo da seguinte ementa:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO.
+CONTRATO PARTICULAR DE COMPRA E VENDA COM RESERVA DE DOMÍNIO. EXEQÜIBILIDADE DO CONTRATO.
+Constitui título executivo extrajudicial hábil o contrato de compra e venda quando presentes os requisitos de certeza, liquidez, exigibilidade e assinatura do devedor e de duas testemunhas, conforme os artigos 783 e 784, inciso III, ambos do Novo Código de Processo Civil. Ausente um dos requisitos, não há como conhecer como título executivo extrajudicial.
+Honorários advocatícios majorados para patamar mais adequado aos valores em discussão.
+NEGARAM PROVIMENTO AO APELO DO EXEQUENTE E DERAM PARCIAL PROVIMENTO AO RECURSO DO EXECUTADO.
+Embargos de Declaração: opostos pelo recorrente, foram acolhidos sem efeitos infringentes.
+Recurso especial: alega violação do art. 85, §2º do CPC, bem como dissídio jurisprudencial. Sustenta que os honorários advocatícios arbitrados são irrisórios, tendo em vista o proveito econômico obtido com a sentença de procedência dos embargos no valor de R$147.429,12.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da Jurisprudência do STJ.
+- Da orientação consolidada pelo Superior Tribunal de Justiça
+Cuida-se de embargos à execução opostos pelo recorrente em face de ARI JOSE ZANINI - ME.
+O juízo de primeiro grau julgou procedente os embargos à execução e fixou honorários, por equidade, em R$600,00.
+O recorrente interpôs apelação requerendo a majoração dos referidos honorários, alegando que deveriam alcançar, no mínimo, 10% do valor da causa, consoante o disposto no art. 85,§2º do CPC.
+O acórdão recorrido, por sua vez, julgou parcialmente procedente, apenas para majorar os honorários advocatícios, por equidade, para R$ 2.500,00 .
+A 2ª Seção do STJ, por ocasião do julgamento do REsp 1.746.072/PR, em 13/02/2019, uniformizou o entendimento desta Corte acerca da fixação dos honorários advocatícios sucumbenciais na sentença de condenação do vencido para o CPC/2015, nos termos da seguinte ementa:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. JUÍZO DE EQUIDADE NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. NOVAS REGRAS: CPC/2015, ART. 85, §§ 2º E 8º. REGRA GERAL OBRIGATÓRIA (ART. 85, § 2º). REGRA SUBSIDIÁRIA (ART. 85, § 8º). PRIMEIRO RECURSO ESPECIAL PROVIDO. SEGUNDO RECURSO ESPECIAL DESPROVIDO.
+1. O novo Código de Processo Civil - CPC/2015 promoveu expressivas mudanças na disciplina da fixação dos honorários advocatícios sucumbenciais na sentença de condenação do vencido.
+2. Dentre as alterações, reduziu, visivelmente, a subjetividade do julgador, restringindo as hipóteses nas quais cabe a fixação dos honorários de sucumbência por equidade, pois: a) enquanto, no CPC/1973, a atribuição equitativa era possível: (a.I) nas causas de pequeno valor; (a.II) nas de valor inestimável; (a.III) naquelas em que não houvesse condenação ou fosse vencida a Fazenda Pública; e (a.IV) nas execuções, embargadas ou não (art. 20, § 4º); b) no CPC/2015 tais hipóteses são restritas às causas: (b.I) em que o proveito econômico for inestimável ou irrisório ou, ainda, quando (b.II) o valor da causa for muito baixo (art. 85, § 8º).
+3. Com isso, o CPC/2015 tornou mais objetivo o processo de determinação da verba sucumbencial, introduzindo, na conjugação dos §§ 2º e 8º do art. 85, ordem decrescente de preferência de critérios (ordem de vocação) para fixação da base de cálculo dos honorários, na qual a subsunção do caso concreto a uma das hipóteses legais prévias impede o avanço para outra categoria.
+4. Tem-se, então, a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+5. A expressiva redação legal impõe concluir: (5.1) que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa; (5.2) que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo.
+6. (..)
+Logo, o acórdão divergiu do entendimento atual do STJ, e nesse ponto específico, ressalvado o entendimento desta Relatora, há de ser reformado, a fim de que a situação do vencedor adeque-se ao entendimento firmado pela 2ª Seção no referido julgamento.
+Forte nessas razões, RECONSIDERO a decisão de e-STJ fls. 312/313, e com fundamento no art. 932, V, "a" do CPC/15, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para fixar os honorários de sucumbência em favor da agravante em 10% sobre o valor do proveito econômico obtido.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC/15.
+Publique-se. Intimem-se.
