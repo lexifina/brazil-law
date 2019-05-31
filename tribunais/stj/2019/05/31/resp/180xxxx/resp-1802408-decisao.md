@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por NOSSA SAÚDE OPERADORA DE PLANOS PRIVADOS DE ASSISTÊNCIA A SAÚDE LTDA com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"AGRAVO DE INSTRUMENTO - PLANO DE SAÚDE - CESSÃO DA INTEGRALIDADE DA CARTEIRA DE CLIENTES RESPONSABILIDADE DA CESSIONÁRIA PELAS OBRIGAÇÕES ANTERIORMENTE ASSUMIDAS PERANTE OS BENEFICIÁRIOS - INCLUSÃO NO POLO PASSIVO DO CUMPRIMENTO DE SENTENÇA - POSSIBILIDADE - DECISÃO MANTIDA - RECURSO CONHECIDO A QUE SE NEGA PROVIMENTO.
+- Aquele que adquire a integralidade dos bônus de uma carteira de clientes, adquire também, de consequência, os ônus correspondentes a tais clientes." (fl. 466)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, o recorrente aponta violação aos arts. 133, 134, 135, 136, 137, 513, §5º, 1022, I e II, do Código de Processo Civil de 2015; 50, 1142, 1143, 1144, 1145, 1146, 1147 e 1148 do Código Civil de 2002 e divergência jurisprudencial, sustentando, em síntese, (a) existência de omissão no acórdão recorrido, (b) não foi observado o procedimento para desconsideração da personalidade jurídica e substituição processual e, (c) não estão presentes, na hipótese, os requisitos para aplicação do instituto da sucessão empresarial.
+Apresentada contrarrazões às fls. 530-550.
+Em seguida, foi apresentado pedido de atribuição de efeito suspensivo ao recurso especial. (fls. 568-575)
+É o relatório.
+Consoante se extrai dos autos, verifica-se que o Tribunal a quo não se manifestou sobre as alegações da recorrente, suscitadas em agravo interno e embargos de declaração, quanto aos requisitos para sucessão empresarial previstos nos arts. 133, 134, 135, 136 e 137 do CPC/2015 e arts. 50, 1142, 1143, 1144, 1145 1146, 1147 e 1148 do Código Civil de 2002, "quais sejam: confusão entre sócios; mesma atividade econômica e desenvolvimento das atividades em local único, não bastando a mera aquisição PARCIAL da carteira de beneficiários, que sequer incluía o nome da exequente, para superar os requisitos antes mencionados", bem como quanto à incidência do art. 513, §5º do CPC/2015, pois "a demanda da embargada se iniciou em 2006, tendo a NOSSA SAÚDE comprado a carteira de clientes somente em 2010, além de ter tomado conhecimento da ação em 2017" (fl. 476).
+No entanto, não houve enfrentamento dos temas, restando, portanto, omisso o acórdão recorrido, o que impõe o reconhecimento da alegada violação ao art. 1022, II, do CPC/2015.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar o retorno dos autos à Corte de origem para que se pronuncie sobre os pontos omissos, nos termos da fundamentação acima.
+Prejudicada a análise do pedido de efeito suspensivo ao recurso especial às fls. 568-575.
+Publique-se.
