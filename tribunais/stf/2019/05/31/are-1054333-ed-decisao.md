@@ -1,0 +1,15 @@
+Decisão (ref. Petição 16.861/2019): Em 30.5.2018, reconsiderei a decisão agravada para, em face do tema 635 da repercussão geral, determinar a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF (eDOC 40). Consequentemente, julguei prejudicados os recursos decorrentes da decisão então guerreada (eDOCs 23, 28, e 35).
+    Em 12.6.2018, Santina Campagnholo apresentou perante o Tribunal de origem petição com o título “Chamamento do feito à ordem: Necessidade de nova remessa dos autos ao Supremo Tribunal Federal para julgamento dos embargos de declaração” (eDOC 46, pp. 1-6), cuja petição recursal encontra-se nos autos no mesmo documento eletrônico, pp. 7-14.
+    O Juízo de origem devolveu os autos ao STF, para análise dos referidos embargos de declaração (eDOC 46, p. 19).
+    Na petição recursal, alega-se que, “...considerando o labor exercido por este causídico referente a fase recursal, o qual apresentou contrarrazões ao recurso extraordinário, contrarrazões ao recurso de agravo de instrumento e contrarrazões ao recurso de agravo interno, imperioso que seja ressalvado que a reconsideração da decisão agravada com o julgamento pela prejudicialidade dos recursos do Estado recorrente não afeta os honorários advocatícios fixados em sede de embargos de declaração, os quais podem ser devidamente cobrados no momento oportuno.” Além disso, a peticionante requer que a as intimações sejam realizadas exclusivamente em nome do advogado José Sérgio da Silva Cristóvam, OAB/SC 16.298.
+    É o relatório. Decido.
+    Com efeito, a jurisprudência do Plenário desta Corte tem se orientado no sentido de ser incabível recurso contra ato que aplica a sistemática da repercussão geral. Nesse sentido, confiram-se: AI-AgR 778.643, Rel. Min. Cezar Peluso (Presidente), Plenário, DJe 07.12.2011, AI-AgR 775.139, Rel. Min. Cezar Peluso (Presidente), Plenário, DJe 19.12.2011 e MS-AgR 28.982, Rel. Min. Gilmar Mendes, Plenário, DJe 15.10.2010.
+    Quanto aos honorários, observo que não há o que deferir, visto que a decisão proferida no recurso extraordinário (eDOC 22) foi reconsiderada e, em consequência, os recursos dela decorrentes foram julgados prejudicados. Assim, não persistem as decisões prolatadas nos recursos decorrentes do ato decisório retratado. Além disso, a devolução dos autos ao Tribunal de origem para aplicação da sistemática da repercussão geral não enseja a fixação de honorários advocatícios, visto que o caso concreto não foi apreciado nesta Corte.
+    Ante o exposto, não conheço do recurso, por ser manifestamente inadmissível, nos termos do art. 21, §1º, RISTF.
+    À Secretaria para proceder à retificação da autuação, fazendo constar como advogado da peticionante José Sérgio da Silva Cristóvam (eDOC 2 e eDOC 46, p. 14).
+    Após, determino a baixa imediata dos autos.
+    Publique-se.
+    Brasília, 31 de maio de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
