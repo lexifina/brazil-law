@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Exceção de suspeição. Ação penal. Incidente não subscrito conjuntamente pelos excipientes e não instruído com procuração com poderes especiais, na forma do artigo 98 do CPP. Súmula 89 deste Eg. Tribunal de Justiça. Exceção não conhecida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 93, IX, da CF. Afirma que, “ao realizar uma aproximação entre o dispositivo supramencionado e a decisão que não conheceu a exceção de suspeição oposta pelos ora Recorrentes, fica evidente que a decisão do juízo a quo carece de fundamentação”.
+    O recurso é inadmissível, tendo em vista que a parte recorrente se limita a postulara análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual (Súmula 279/STF). Nessa linha, vejam-se o AI 815.344-AgR, Rel. Min. Joaquim Barbosa; e o ARE 746.620-AgR, Rel. Min. Luiz Fux, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. EXCEÇÃO DE IMPEDIMENTO E SUSPEIÇÃO. JUIZ EXCEPTO. IMPARCIALIDADE. COMPROVAÇÃO. ADOÇÃO NAS RAZÕES DE DECIDIR DOS ARGUMENTOS EXPENDIDOS PELO PARQUET. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE Nº 748.371. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. MULTA DO ARTIGO 557, § 2º, DO CPC/1973. APLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.”
+    Quanto à alegação de ofensa ao art. 93, IX, da CF, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se o AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 31 de maio de 2019.
+Ministro Luís Roberto Barroso
+Relator
