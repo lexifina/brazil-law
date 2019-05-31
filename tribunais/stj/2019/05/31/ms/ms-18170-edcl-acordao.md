@@ -1,0 +1,96 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSÃO. AUSÊNCIA DE VÍCIOS. CORREÇÃO MONETÁRIA E JUROS DE MORA. CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+III - Conforme entendimento da 1ª Seção, firmado nos autos dos Mandados de Segurança ns. 21.975/DF, 21.999/DF e 22.221/DF, da relatoria do Ministro Napoleão Nunes Maia Filho, julgado em 10.04.2019, merece acolhimento o pleito para pagamento dos valores retroativos com correção monetária e juros de mora, mesmo na via mandamental, passando a adotar a tese firmada com repercussão geral pelo Supremo Tribunal Federal.
+IV - Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Napoleão Nunes Maia Filho, Og Fernandes, Benedito Gonçalves, Assusete Magalhães, Sérgio Kukina e Gurgel de Faria votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+A UNIÃO opõe segundos embargos de declaração contra o acórdão proferido anteriormente que, por unanimidade, rejeitou os aclaratórios (fls. 252/253e), cuja ementa transcrevo:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE ANÁLISE. TESE NÃO VENTILADA. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. OMISSÃO. AUSÊNCIA DE VÍCIOS.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - A tese relativa à inafastabilidade do rito do art. 730 do Código de Processo Civil e à violação ao art. 100 da Constituição Federal, foi apresentada apenas quando da interposição dos embargos de declaração, o que configura inadmissível inovação recursal.
+III - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejara oposição de embargos de declaração.
+IV - A jurisprudência desta Corte é firme no sentido de que os Embargos de Declaração em Mandado de Segurança, ainda que opostos com o objetivo de prequestionamento visando à interposição do apelo extraordinário, não podem ser acolhidos quando inexistentes omissão,contradição ou obscuridade na decisão recorrida
+V - Embargos de declaração rejeitados.
+Sustenta, em síntese, que o acórdão padece de omissão, porquanto necessário o pronunciamento acerca da impossibilidade de cobrança de juros moratórios e correção monetária não previstos da portaria de anistia.
+Impugnação às fls. 271/278e.
+Os embargos foram opostos tempestivamente.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSÃO. AUSÊNCIA DE VÍCIOS. CORREÇÃO MONETÁRIA E JUROS DE MORA. CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+III - Conforme entendimento da 1ª Seção, firmado nos autos dos Mandados de Segurança ns. 21.975/DF, 21.999/DF e 22.221/DF, da relatoria do Ministro Napoleão Nunes Maia Filho, julgado em 10.04.2019, merece acolhimento o pleito para pagamento dos valores retroativos com correção monetária e juros de mora, mesmo na via mandamental, passando a adotar a tese firmada com repercussão geral pelo Supremo Tribunal Federal.
+IV - Embargos de declaração rejeitados.
+
+EDcl nos EDcl no MANDADO DE SEGURANÇA Nº 18.170 - DF (2012/0028849-9)
+
+RELATORA
+:
+MINISTRA REGINA HELENA COSTA
+EMBARGANTE
+:
+UNIÃO
+PROCURADOR
+:
+ADVOCACIA-GERAL DA UNIÃO - AGU
+EMBARGADO
+:
+[NOME]
+ADVOGADO
+:
+[NOME] E [NOME] - [OAB]
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Nesse sentido, confira-se a doutrina de Nelson Nery Junior e [NOME]:
+Não enfrentamento, pela decisão, de todos os argumentos possíveis de infirmar a conclusão do julgador. Para que se possa ser considerada fundamentada a decisão, o juiz deverá examinar todos os argumentos trazidos pelas partes que sejam capazes, por si sós e em tese, de infirmar a conclusão que embasou a decisão. Havendo omissão do juiz, que deixou de analisar fundamento constante da alegação da parte, terá havido omissão suscetível de correção pela via dos embargos de declaração. Não é mais possível, de lege lata, rejeitarem-se, por exemplo, embargos de declaração, ao argumento de que o juiz não está obrigado a pronunciar-se sobre todos os pontos da causa. Pela regra estatuída no texto normativo ora comentado, o juiz deverá pronunciar-se sobre todos os pontos levantados pelas partes, que sejam capazes de alterar a conclusão adotada na decisão.
+(Código de Processo Civil Comentado, São Paulo, Revista dos Tribunais, 2016, p. 1.249-1.250, destaque no original).
+Esposando tal entendimento, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art.
+489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+3. No caso, entendeu-se pela ocorrência de litispendência entre o presente mandamus e a ação ordinária n. 0027812-80.2013.4.01.3400, com base em jurisprudência desta Corte Superior acerca da possibilidade de litispendência entre Mandado de Segurança e Ação Ordinária, na ocasião em que as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas.
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+(EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. FAIXA DE DOMÍNIO DE RODOVIA SOB CONCESSÃO. COBRANÇA EM DESFAVOR DE CONCESSIONÁRIA DE SERVIÇO DE TELEFONIA. POSSIBILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A prescrição trazida pelo art. 489 do CPC/2015, na esteira interpretativa sufragada no Superior Tribunal de Justiça, significa que o julgador deve enfrentar apenas as questões capazes de infirmar a conclusão adotada na decisão recorrida, hipótese aqui não verificada (EDcl no MS n. 21315/DF, Primeira Seção, DJe 15/06/2016).
+3. A Primeira Seção desta Corte firmou o entendimento de que o poder concedente, com respaldo no art. 11 da Lei n. 8.987/1995 (Lei de Concessões e Permissões), pode autorizar a concessionária a efetuar cobrança pela utilização de faixas de domínio de rodovia, mesmo de outra concessionária de serviços públicos, desde que haja previsão no contrato de concessão da rodovia, como verificado na hipótese.
+4. A Primeira Turma desta Corte tem reconhecido o caráter manifestamente inadmissível ou improcedente do agravo interno, a ensejar a aplicação da sanção prevista no art. 1.021, § 4º, do CPC/2015 quando a decisão agravada está fundamentada em precedente julgado sob o regime da repercussão geral, sob o rito dos recursos repetitivos ou com base em jurisprudência pacífica de ambas as Turmas da 1ª Seção.
+5. Agravo interno desprovido, com aplicação de multa.
+(AgInt no AREsp 1079824/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 06/02/2018, DJe 07/03/2018)
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO NO ACÓRDÃO RECORRIDO. INEXISTENTE. ACÓRDÃO QUE ENFRENTOU TODAS AS QUESTÕES NECESSÁRIAS. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Conforme pacífico entendimento desta Corte, o órgão julgador não é obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A determinação contida no art. 489 do CPC/2015 "veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+II - A corte de origem analisando o contexto fático-probatório dos autos concluiu (fl. 270): "Neste caso, ainda que houvesse buracos no asfalto e ainda que a pista apresentasse irregularidades, é certo que o acidente que vitimou fatalmente  ..  somente ocorreu por culpa do motociclista que invadiu a contramão da via em alta velocidade".
+III - Para alterar tais conclusões seria necessário o reexame fático-probatório, vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual: " pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido
+(AgInt no AREsp 1037131/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/11/2017, DJe 22/11/2017).
+No caso, não restam configuradas nenhuma das hipóteses previstas no art. 1.022 do Código de Processo Civil, razão pela qual se impõe a rejeição dos embargos declaratórios.
+Com efeito, depreende-se da leitura da decisão que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável à hipótese.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v.g. Corte Especial, EDcl no AgRg nos EREsp 1431157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 11041181/SP, Rel. Min. Napoleão Nunes, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1334203/PR, Rel. Min. Assusete Magalhães, DJe de 24.06.2016).
+Assim, não verifico, no caso, a existência de vício a ensejar a declaração do julgado ou sua revisão mediante embargos de declaração.
+Ainda, merece acolhimento o pleito para pagamento dos valores retroativos com correção monetária e juros de mora, mesmo na via mandamental, conforme novo entendimento da 1ª Seção, firmado nos autos dos Mandados de Segurança ns. 21.975/DF, 21.999/DF e 22.221/DF, da relatoria do Ministro Napoleão Nunes Maia Filho, julgado em 10.04.2019, passando a adotar a tese firmada com repercussão geral pelo Supremo Tribunal Federal:
+Embargos de declaração no recurso extraordinário. Decisão condenatória. Silêncio quanto à incidência dos consectários legais. Embargos de declaração acolhidos para se prestarem esclarecimentos.
+1. Negado provimento ao recurso extraordinário, o acórdão recorrido encontra-se confirmado em toda sua extensão, inclusive naquela que não foi expressamente abordada por esta Corte.
+2. Havendo condenação da instância inferior ao pagamento de juros de mora e correção monetária, uma vez mantido o acórdão recorrido, também está reconhecido o direito ao percebimento de tais valores, ainda que a respeito do tema não se tenha pronunciado expressamente o STF.
+3. Os juros de mora e a correção monetária constituem consectários legais da condenação, de modo que incidem independentemente de expresso pronunciamento judicial.
+4. Embargos de declaração acolhidos apenas para esclarecer que os valores retroativos previstos nas portarias de anistia deverão ser acrescidos de juros moratórios e de correção monetária.
+(RE 553710 ED, Relator(a): Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 01/08/2018, PROCESSO ELETRÔNICO DJe-174 DIVULG 23-08-2018 PUBLIC 24-08-2018 - destaques meus).
+Na mesma linha:
+ADMINISTRATIVO. ANISTIA. JUROS E CORREÇÃO MONETÁRIA. MANDADO DE SEGURANÇA. JURISPRUDÊNCIA DESTA CORTE PELA IMPOSSIBILIDADE DE DEFERIMENTO EM MANDADO DE SEGURANÇA. ENTENDIMENTO CONTRÁRIO AO DO SUPREMO TRIBUNAL FEDERAL.
+I - Segundo a Jurisprudência desta Corte o mandado de segurança não se presta à pretensão referente a juros e correção monetária, sendo que, caso assim se admitisse, o feito assemelhar-se-ia à ação de cobrança, objetivo divorciado do mandado de segurança, conforme o teor da Súmula n. 269/STF. (EDcl no MS 15.074/DF, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 12/12/2018, DJe 19/12/2018; AgInt no MS 24.302/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 12/12/2018, DJe 14/12/2018).
+II - Recentemente, entretanto, aquela Corte, em recursos ordinários de mandado de segurança, tem entendido que os valores retroativos previstos nas portaria de anistia devem ser acrescidos de juros moratórios e correção monetária, por serem consectários legais da condenação, e por isso, incidiriam independentemente de pronunciamento judicial expresso. Essa questão, aliás, restou esclarecida e ratificada pelo Plenário da Corte no recentíssimo julgamento dos embargos de declaração opostos nos autos do RE 553.710/DF, Rel. Min. Dias Toffoli, Tribunal Pleno, Dje 24.08.2018. Nesse sentido: RMS 35057 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 12/11/2018, PROCESSO ELETRÔNICO DJe-254 DIVULG 28-11-2018 PUBLIC 29-11-2018; RE 1098162 AgR-segundo, Relator(a): Min. CELSO DE MELLO, Segunda Turma, julgado em 05/10/2018, PROCESSO ELETRÔNICO DJe-231 DIVULG 29-10-2018 PUBLIC 30-10-2018.
+III - Agravo interno provido, para determinar a incidência de juros e correção monetária na condenação.
+(AgInt no MS 23.087/DF, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 27/03/2019, DJe 01/04/2019).
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Isto posto, REJEITO OS EMBARGOS DE DECLARAÇÃO.
