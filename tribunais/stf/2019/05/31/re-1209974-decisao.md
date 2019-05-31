@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal Regional Federal da 2ª Região confirmou, com pequeno ajuste em relação aos honorários advocatícios, o entendimento do Juízo quanto à procedência do pedido de ressarcimento pelo cessionário ao cedente de valores pagos a servidor cedido. No extraordinário, o recorrente afirma violados os artigos 5º, inciso XXXVI, e 37, cabeça, da Constituição Federal. Diz inobservados os princípios da legalidade e do ato jurídico perfeito, ante a ausência de previsão, na legislação de regência vigente à época, para o pagamento pretendido.
+    2. Eis a síntese do acórdão recorrido:
+    ADMINISTRATIVO. SERVIDOR PÚBLICO. CESSÃO PARA ÓRGÃO FEDERAL. ÔNUS DO CESSIONÁRIO. RESSARCIMENTO AO CEDENTE. DECRETO 4.050/2001. DIREITO AO REEMBOLSO. GARANTIA. ARTIGO 93, CAPUT E INCISO I, PARÁGRAFOS 1° E 3°, DA LEI N° 8.112/1990. REDUÇÃO. HONORÁRIOS ADVOCATÍCIOS. APRECIAÇÃO EQUITATIVA DO ART. 20 § 4° CPC. FAZENDA PÚBLICA. 1. Boa -fé objetiva quando da cessão do funcionário. Convênio prevendo o reembolso das despesas trabalhistas. Descumprimento do contrato pelo IBAMA invocando argumentos não constantes no convênio. 2. Os valores pagos a título de remuneração de servidor cedido à autarquia federal para o exercício de cargo em comissão ou função de confiança, devem ser reembolsados pelo cessionário, face o disposto no artigo 93, parágrafo 1°, da Lei n° 8.112/90. 3. Redução do montante arbitrado a título de honorários advocatícios a título de 5% do valor da causa. Honorários sucumbenciais devem ser arbitrados consoante apreciação equitativa do juiz (art. 20, § 4°, do CPC). Fazenda Pública. 4. Recurso e Remessa Necessária parcialmente providos.
+    A decisão impugnada mediante o extraordinário revela a análise do quadro fático e interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 31 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
