@@ -1,0 +1,24 @@
+Decisão: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por Wilamis Sérgio dos Santos, contra decisão proferida pelo Juízo da 1ª Vara Cível e Criminal da Comarca de Propriá, que teria afrontado o quanto decidido pelo STF na ADI 1.127.
+    Consta dos autos que o reclamante foi preso preventivamente pela suposta prática dos delitos descritos nos arts. art.171, caput, c/c §3º, na forma do art. 69; art. 171, caput, c/c §3º, c/c art. 14, II, do CP, na forma do art. 69 (duas vezes); e art. 288, caput, todos do Código Penal.
+    Na presente reclamação, a defesa aponta violação ao entendimento firmado pelo STF na ADI n. 1.127.
+    Afirma que o acusado está detido em local diverso daquele descrito na Lei 8.906/94 (Estatuto dos Advogados).
+    Por fim, requer a concessão de medida liminar para que seja submetido imediatamente ao regime de prisão domiciliar, em obediência ao decidido pelo STF na ADI n. 1.127. No mérito, pede pela confirmação da liminar.
+    É o breve relatório.
+    Passo a decidir.
+    O Supremo Tribunal Federal tem jurisprudência firmada no sentido de que a prisão especial prevista pelo art. 7º, inciso V, da Lei n. 8.906/94 (Estatuto dos Advogados), constitui direito público subjetivo de titularidade de todos os advogados, decorrente de prerrogativa profissional (HC n. 81.632/SP, Rel. Min. Carlos Velloso, DJ 21.3.2003). Nesse sentido, transcrevo trecho da ementa do HC n. 72.465/SP, Rel. Min. Celso de Mello, DJ 24.11.1995:
+    “O advogado tem o insuprimível direito, uma vez efetivada a sua prisão, e até o trânsito em julgado da decisão penal condenatória, de ser recolhido a sala de Estado-Maior, com instalações e comodidades condignas (Lei n. 8.906/94, art. 7., V). Trata-se de prerrogativa de ordem profissional que não pode deixar de ser respeitada, muito embora cesse com o trânsito em julgado da condenação penal. Doutrina e jurisprudência.
+    O recolhimento do Advogado a prisão especial constitui direito público subjetivo outorgado a esse profissional do Direito pelo ordenamento positivo brasileiro, não cabendo opor-lhe quaisquer embaraços, desde que a decisão penal condenatória ainda não se tenha qualificado pela nota da irrecorribilidade.
+    A inexistência, na comarca, de estabelecimento adequado ao recolhimento prisional do Advogado, antes de consumado o trânsito em julgado da condenação penal, confere-lhe o direito de beneficiar-se do regime de prisão domiciliar”.
+    No julgamento da ADI n. 1.127/DF, Redator p/ o acórdão Min. Ricardo Lewandowski (17.5.2006), o Tribunal teve a oportunidade de afirmar a constitucionalidade do inciso V do art. 7º do Estatuto dos Advogados, declarando a inconstitucionalidade apenas da expressão assim reconhecidas pela OAB, por considerar que a administração de estabelecimentos prisionais constitui prerrogativa indelegável do Estado.
+    Anoto, ainda, que algumas decisões monocráticas, em sede de reclamação, haviam concedido medidas liminares para assegurar a autoridade dessa decisão proferida na ADI n. 1.127/DF, reconhecendo aos advogados reclamantes o direito à prisão domiciliar, uma vez comprovada a inexistência de salas de Estado-Maior.
+    No entanto, o Plenário desta Corte adotou, em sessão realizada no dia 18.3.2015, por maioria, entendimento diverso daquele anteriormente aplicado, consignando que, diante da ausência de estabelecimentos definidos como Salas de Estado-Maior no país, será utilizado para o fim de prisão preventiva de advogados ambiente separado, sem grades, localizado em unidades prisionais ou em batalhões da Polícia Militar, que tenha instalações e comodidades adequadas à higiene e à segurança.
+    No presente caso, a Corregedoria da Polícia Militar do Estado de Sergipe informou o seguinte:
+    “Cumprimentando-o cordialmente, venho através do presente informar a Vossa Senhoria, que o PRESMIL (Presídio Militar) não atende os requisitos de Sala de Estado Maior, onde possa segregar Advogados.
+    Em tempo, informo-vos que, por ser um prédio antigo, sua estrutura necessita de reforma urgente, para que seja garantia o mínimo de salubridade, segurança, higiene aos nossos Policiais Militares que ali se encontram segregado pela Justiça”. (eDOC 14)
+    Diante dos trechos acima transcritos, verifico contrariedade ao entendimento firmado por esta Corte, haja vista o réu estar detido em local inapropriado e sem perspectiva de remoção para recinto equiparado a Sala de Estado Maior.
+    Ante o exposto, nos termos do artigo 161, parágrafo único, do RISTF, julgo procedente a presente reclamação a fim de determinar que o acusado seja colocado em prisão domiciliar até que seja disponibilizado local compatível com a Sala de Estado Maior.
+    Publique-se.
+    Brasília, 31 de maio de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
