@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de agravo interposto por TG SJDI 11 EMPREENDIMENTOS IMOBILIÁRIOS LTDA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial interposto pela recorrente, com base nos seguintes fundamentos: i) não demonstração da violação dos arts. 393, 421, 408, 482, 722, 724, 725 do CC e art. 3º, do CPC; ii) aplicação da Súmula 7/STJ; e iii) ausência de similitude fática entre os acórdãos recorrido e os paradigmas colacionados.
+Da leitura do agravo em recurso especial, observa-se que a agravante alega genericamente que não se pretende o reexame de fatos e provas, oportunidade em que reprisa as razões do recurso especial, deixando de trazer quaisquer argumentos para impugnar os empeços relativos à ausência de demonstração de violação dos dispositivos de lei e à falta de similitude fática.
+No mais, quanto aos argumentos trazidos para afastar a aplicação da Súmula 7/STJ, tem-se que esses não são capazes de infirmar tal óbice, visto que não demonstra de forma categórica, porque alterar o entendimento do Tribunal de origem acerca das questões deduzidas no acórdão recorrido, não demandariam o reexame de fatos e provas.
+Desse modo, não havendo a impugnação de todos os fundamentos da decisão recorrida, aplicável se torna a Súmula 182 desta Corte.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% (dez) por cento do valor atualizado da condenação (e-STJ fl. 220) para 12% (doze) por cento.
+Previno a parte recorrente que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
