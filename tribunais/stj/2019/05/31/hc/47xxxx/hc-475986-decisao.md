@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] [NOME] ALVES, apontando como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul que negou provimento ao agravo em execução por acórdão assim ementado (fl. 115):
+AGRAVO EM EXECUÇÃO (ARTIGO 197, DA LEP) FALTA GRAVE (SUBVERSÃO À ORDEM E A DISCIPLINA). ARTIGO 50, INCISO I. DA LEP APLICAÇÃO DOS CONSECTÁRIOS LEGAIS. ALTERAÇÃO DA DATA-BASE E PERDA DE DIAS REMIDOS. INCONFORMISMO DEFENSIVO.
+A prática de falta grave pelo apenado, consistente em fuga, restou bem configurada. Havendo infringência ao artigo 50, inciso II, da LEP, impõe-se o reconhecimento da falta grave, bem como impositiva a aplicação dos consectários legais, in casu, a alteração da data-base, mas apenas para futura progressão e a perda de até 1/3 dos dias remidos, com base no artigo 127 da LEP. No caso, foi estabelecido o patamar de 1/6, o qual se mostra adequado e suficiente.
+AGRAVO PARCIALMENTE PROVIDO.
+Consta dos autos que o Juízo das Execuções homologou o procedimento administrativo para reconhecer a prática de falta grave pelo paciente (fl. 70).
+ Irresignada, a Defesa interpôs agravo em execução, ao qual a Corte estadual deu parcial provimento apenas para limitar a alteração da data-base à futura progressão de regime (fls. 115-122).
+No presente, a Defensoria Pública sustenta a não configuração da falta grave em razão da ausência de provas. Aduz também acerca da desproporcionalidade das sanções aplicadas.
+Subsidiariamente, argui a ilegalidade na alteração da data-base em decorrência do cometimento de falta grave, defendendo que a mudança somente é possível quando há condenação por prática de crime posterior ao início da execução da pena.
+Por fim, invoca o art. 127 da LEP e arts. 5º, XLVI e 93, IX, ambos da Constituição Federal, para defender a ausência de fundamentação para a decretação da perda de 1/6 dos dias remidos.
+Requer, liminarmente, a suspensão da decisão do Tribunal até o julgamento do mérito deste writ, e no mérito, a concessão da ordem para cassar em definitivo a decisão ora impugnada.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal ofertou parecer, às fls. 249-258, manifestando-se pelo não conhecimento parcial do writ, e nessa extensão, pela denegação da ordem.
+É o relatório.
+DECIDO.
+O ponto nodal da impetração consiste em verificar se há ilegalidade na manutenção da decisão do Juízo de 1º grau que homologou a prática de falta grave e determinou a alteração da data-base e a perda dos dias do reeducando na fração de 1/6.
+Concernente à configuração da falta grave cometida pelo paciente, o acórdão traz as seguintes considerações (fls. 113-116):
+ ..
+O apenado [NOME] cumpre uma pena total de 12 (doze) anos de reclusão, estando aguardando definição de regime, tendo iniciado o cumprimento de sua reprimenda em 15SET2014, com previsão de término para 22JUL2026.
+Sobreveio notícia de que o apenado, em 270UT2015, teria se envolvido em uma briga no presídio. Realizada a audiência de justificação, o apenado disse que um amigo seu estaria envolvido no desentendimento, de maneira que ele teria tentado intervir para separar a briga (fl. 36).
+O magistrado a quo entendeu que a participação do apenado na briga restou bem caracterizada, sendo que o boletim de atendimento indica que ele teria sido um dos agressores, razão pela qual reconheceu a prática de falta grave, aplicando os consectários legais de alteração da data-base e de perda de 1/6 de dias remidos, deixando de determinar a regressão de regime. Contra esta decisão se insurge a defesa, assistindo- Ihe parcial razão.
+Correto o magistrado a quo, ao reconhecer a prática de falta grave, eis que a justificativa apresentada pela apenado não se mostra suficiente para afastar o envolvimento dele na briga, tendo agredido a vítima com socos e pontapés, sendo impositivo o reconhecimento da falta grave.
+A atitude do apenado demonstra sua total falta de comprometimento em cumprir o dever jurídico que lhe foi imposto, assim, muito bem reconhecida a prática de falta grave, por infringência ao disposto no artigo 50, inciso I, da LEP, razão pela qual se mostra imperativa a aplicação dos consectários legais.
+Como se vê, o Tribunal estadual entendeu estar configurada a falta grave haja vista que a participação do apenado na briga restou bem caracterizada, sendo que o boletim de atendimento indica que ele teria sido um dos agressores (fl. 117).
+Do Termo de Ocorrência 549/ASD/2015 há maior detalhamento da conduta, constando no relato do policial militar responsável pela ocorrência que o apenado [NOME] [NOME] ALVES (Jonny), quando se encontrava neste PCPA, trabalhando na cozinha geral, agrediu com socos e pontapés, juntamente com outros presos, o apenado Lucas no interior do alojamento da cozinha (fl. 20).
+Dispõe o art. 50 e o art. 39 da Lei de Execuções Penais:
+Art. 50. Comete falta grave o condenado à pena privativa de liberdade que:
+I - incitar ou participar de movimento para subverter a ordem ou a disciplina;
+II - fugir;
+III - possuir, indevidamente, instrumento capaz de ofender a integridade física de outrem;
+IV - provocar acidente de trabalho;
+V - descumprir, no regime aberto, as condições impostas;
+VI - inobservar os deveres previstos nos incisos II e V, do artigo 39, desta Lei.
+VII - tiver em sua posse, utilizar ou fornecer aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo. (Incluído pela Lei nº 11.466, de 2007)
+Parágrafo único. O disposto neste artigo aplica-se, no que couber, ao preso provisório.
+Art. 39. Constituem deveres do condenado:
+ ..
+II - obediência ao servidor e respeito a qualquer pessoa com quem deva relacionar-se;
+ ..
+Conforme se conclui da leitura dos fatos constantes dos autos, bem como dos dispositivos de lei acima transcritos, a conduta praticada pelo apenado é passível de se enquadrar no inciso I e VI do art. 50 da Lei de Execuções Penais, pelo que não há que se reconhecer, pela via eleita, o constrangimento ilegal aventado.
+Ademais, se as instâncias ordinárias concluíram que os atos praticados no interior do estabelecimento prisional configuraram falta grave, com suficiência das provas colhidas, em especial o depoimento do agente público responsável pela ocorrência, tem-se que o reequadramento da infração, ou mesmo a absolvição do apenado, demandaria revolvimento do conjunto fático-probatório, providência incompatível com a estreita via do writ. Vejamos:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. PROCESSO ADMINISTRATIVO DISCIPLINAR. NULIDADES. CERCEAMENTO DE DEFESA DECORRENTE DA AUSÊNCIA DE CITAÇÃO E DE INVERSÃO PROCEDIMENTAL. SUPRESSÃO DE INSTÂNCIA. OBSERVÂNCIA DA AMPLA DEFESA ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. FORMALIDADES LEGAIS E PRESENÇA DO DEFENSOR. AUDIÊNCIA DO SENTENCIADO EM JUÍZO. PRESCINDIBILIDADE. OITIVA REALIZADA NA SEARA ADMINISTRATIVA, ACOMPANHADA PELA DEFESA TÉCNICA. PREJUÍZO PROCESSUAL NÃO DEMONSTRADO. SANÇÃO COLETIVA. NÃO OCORRÊNCIA. PRETENDIDO RECONHECIMENTO DA ATIPICIDADE OU DESCLASSIFICAÇÃO DA CONDUTA. INVIABILIDADE. ADEQUAÇÃO TÍPICA. IMPOSSIBILIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+6. Se as instâncias ordinárias concluíram que os atos praticados no interior do estabelecimento prisional configuram falta grave, exsurgindo da moldura fática delineada no acórdão vergastado, em tese, acertada adequação típica, a desclassificação para falta média ou leve ou o reconhecimento da atipicidade das condutas demandaria revolvimento do conjunto fático-probatório, insuscetível de ser realizado na via estreita do writ.
+7. Decisão monocrática mantida por seus próprios fundamentos.
+8. Agravo regimental improvido.
+(AgRg no HC 390.311/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/02/2018, DJe 15/02/2018)
+EXECUÇÃO PENAL. HABEAS CORPUS. (1) FALTA GRAVE. HOMOLOGAÇÃO FUNDAMENTADA APÓS REGULAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. INCABÍVEL REEXAME. ANÁLISE APROFUNDADA DO CONJUNTO FÁTICO-PROBATÓRIO. VIA INADEQUADA. (2) OITIVA JUDICIAL DO SENTENCIADO ANTES DA HOMOLOGAÇÃO DA FALTA GRAVE. DESNECESSIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. (3) WRIT NÃO CONHECIDO.
+1. A aplicação da falta grave deu-se mediante regular procedimento administrativo disciplinar - PAD, com rito próprio previsto na Lei de Execução Penal, sendo reconhecida a sua prática fundamentadamente, conforme entenderam as instâncias ordinárias. O reexame da questão é incabível na via estreita do habeas corpus, dada a necessidade de incursão na seara fático-probatória do caso. Precedente.
+2. Nos termos da jurisprudência desta Corte, é desnecessária nova oitiva do sentenciado em juízo antes da homologação da falta grave se ele teve a oportunidade de se manifestar no âmbito do procedimento administrativo instaurado para apurar a infração disciplinar, acompanhado da defesa técnica. Precedentes.
+3. Habeas corpus não conhecido.
+(HC 320.865/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/05/2015, DJe 02/06/2015)
+Concernente à aplicação dos consectários legais do reconhecimento da falta grave, quais sejam, a alteração da data-base para concessão de benefícios executivos e a perda dos dias remidos, a Corte estadual estabeleceu (fls. 118-120):
+Outrossim, se mostra devida a alteração da data-base quando o apenado comete falta grave, medida legal e compatível com a sistemática da Execução Penal. A fixação de nova data-base tem por objetivo dificultar a concessão de futuros benefícios ao reeducando, o qual demonstrou não ser merecedor daqueles anteriormente deferidos. Autorizar a imediata concessão de benesses, sem fixar novo marco para a contagem do pressuposto objetivo, seria forma de tolerar conduta não condizente com a finalidade maior da Lei de Execução Penal, a ressocialização do apenado.
+Por outro lado, é preciso dizer que a modificação da data- base deve ocorrer tão somente para fins de nova progressão de regime, excetuando-se, portanto, os benefícios do livramento condicional, do indulto e da comutação. Tal conclusão decorre do disposto nas Súmulas nQ 441, 534 e 535, todas do Superior Tribunal de Justiça.
+ ..
+Portanto, o apenado que comete falta grave deverá reiniciar a contagem do tempo exigido, mas apenas para a concessão de futura progressão de regime, a partir da data da falta (270UT2015).
+Por fim, é cediço que o cometimento de falta grave autoriza a perda de até 1/3 dos dias remidos, com fulcro no artigo 127 da LEP (Lei n.º 7.210/84).
+Ante o reconhecimento da prática das faltas disciplinares de natureza grave, verifica-se que as instâncias ordinárias determinaram a alteração da data-base e a perda de dias remidos, nos exatos termos do entendimento da Terceira Seção desta Corte, no julgamento do Recurso Especial n. 1.364.192/RS, sob o rito de recurso repetitivo (CPC, art. 543-C), consolidado nas Súmulas 441, 535 e 534 do STJ. Neste sentido:
+HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE CRIME DOLOSO. FALTA GRAVE. APURAÇÃO MEDIANTE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. EXIGÊNCIA OBSERVADA. PRESCINDIBILIDADE DE CONDENAÇÃO COM TRÂNSITO EM JULGADO. SÚMULA N. 526 DO STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. Conforme se extrai da documentação acostada ao writ, houve realização do devido procedimento administrativo disciplinar para apuração da falta grave imputada ao paciente. Desse modo, restou plenamente observado o entendimento consagrado na Súmula n. 533 do Superior Tribunal de Justiça - STJ, segundo a qual a instauração de PAD é imprescindível para o reconhecimento da falta grave.
+2. Consoante a jurisprudência iterativa desta Corte, a prática de crime doloso no curso da execução da pena permite o reconhecimento da falta disciplinar de natureza grave e a incidência de seus corolários, antes que sobrevenha o trânsito em julgado da ação penal ensejadora da infração disciplinar. Nesse sentido, a inteligência da Súmula n. 526 do STJ. Habeas corpus não conhecido.
+(HC 359.022/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/09/2016, DJe 10/10/2016)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. PRÁTICA DE NOVO CRIME DOLOSO NO CURSO DA EXECUÇÃO DA PENA. RECONHECIMENTO DE FALTA GRAVE. REGRESSÃO DE REGIME. NOVO MARCO PARA BENEFÍCIOS - EXCETO LIVRAMENTO CONDICIONAL, COMUTAÇÃO E INDULTO. PERDA DOS DIAS REMIDOS NO PERCENTUAL MÁXIMO. POSSIBILIDADE. TRÂNSITO EM JULGADO DE SENTENÇA PENAL CONDENATÓRIA. DESNECESSIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Esta Corte de Justiça firmou entendimento no sentido de que, a teor do art. 118, I, da LEP, o reeducando que comete fato definido como crime doloso no curso da execução penal, comete falta grave, nos termos do art. 52 da mesma lei.
+III - São consectários do reconhecimento da prática de falta grave a regressão do regime prisional, o estabelecimento de novo marco para benefícios da execução - exceto livramento condicional, comutação e indulto -, bem como a perda dos dias remidos, independente do trânsito em julgado de eventual sentença penal condenatória referente ao delito cometido no curso da execução.
+IV - A natureza especialmente grave da falta disciplinar - prática de roubos majorados pelo emprego de arma - justifica a adoção do percentual máximo de perda dos dias remidos (art. 127, da LEP).
+Habeas corpus não conhecido.
+(HC 399.472/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/10/2017, DJe 30/10/2017)
+Logo, ao manter os consectários legais impostos pelo Juízo das Execuções, o acórdão recorrido está em consonância com o entendimento firmado pelo Superior Tribunal de Justiça. Ressalta-se, por oportuno, que a alteração da data-base não se opera com relação aos benefícios do livramento condicional, indulto e comutação de penas, conforme pontuado pela Corte estadual.
+No tocante à aplicação da perda dos dias remidos, foi determinada fração inferior ao grau máximo de 1/3 determinado pelo art. 127 da Lei de Execuções Penais, isto é, decretou-se a perda de 1/6.
+Com o advento da Lei n. 12.433, de 29/6/2011, foi dada nova redação ao art. 127 da Lei de Execuções Penais, que passou a dispor que o cometimento de falta grave não mais acarretaria a perda da integralidade do tempo remido, somente podendo atingir o limite de 1/3.
+No que respeita ao quantum a ser fixado pelo juízo das execuções penais, conquanto lhe caiba certa dose de discricionariedade, devem ser levados em conta os critérios estabelecidos no art. 57 da novel legislação, quais sejam: a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão. Contudo, no presente caso, encontra-se razoável a determinação da perda de 1/6 dos dias remidos.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
