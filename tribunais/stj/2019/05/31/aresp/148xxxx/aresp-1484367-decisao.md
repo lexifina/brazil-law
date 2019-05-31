@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo apresentado pelo MUNICÍPIO DE VITÓRIA, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim ementado:
+REMESSA NECESSÁRIA - APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - CONDENAÇÃO EM CUSTAS INTEGRAIS - IMPOSSIBILIDADE - RECURSO VOLUNTÁRIO PROVIDO - PRESCRIÇÃO - DESPACHO ANTERIOR À LC 118/2005 - APLICAÇÃO DA REDAÇÃO ORIGINAL DO ART. 174, PARÁGRAFO ÚNICO, INCISO I - DEMORA NA CITAÇÃO - SÚMULA 106 DO STJ - CULPA EXCLUSIVA DO JUDICIÁRIO - INOCORRÊNCIA - SENTENÇA MANTIDA NOS DEMAIS TERMOS.
+1. É firme o entendimento deste Egrégio Tribunal de Justiça no sentido de que a Fazenda Pública está isenta do pagamento das custas processuais remanescentes, devendo ressarcir, caso seja vencida, a parte contrária apenas as custas iniciais eventualmente adiantadas.
+2. Recurso voluntário provido.
+3. Conforme determina o art. 174 do CTN, a ação para a cobrança do crédito tributário prescreve em cinco anos, contados da sua I constituição definitiva. Porém, o prazo prescricional será interrompido pela citação pessoal do devedor, quando o despacho citatório for proferido antes da entrada em vigor da Lei Complementar n. 118/2005, aplicando-se a antiga redação do art. 174, parágrafo único, inciso I do CTN. Precedentes do STJ.
+4. Não se aplica a Súmula 106 do STJ, quando verificado que a demora na citação não se deu por culpa exclusivamente do Poder Judiciário.
+Quanto à controvérsia, alega violação do art. 174, I, do CTN e da Súmula n. 106 do STJ, no que concerne à prescrição da ação de execução fiscal, trazendo o seguinte argumento:
+(..) é evidente que a demora na citação do executado ocorreu por culpa exclusiva do poder judiciário estadual, e, portanto, não se pode imputar à Fazenda as consequências de um ato que ela não deu causa (a demora na citação), mesmo porque, ao contrário, estar-se-ia premiando a morosidade na prestação do serviço judiciário (fl. 191).
+É o relatório. Decido.
+No que concerne ao recurso de apresentado, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ademais, não é cabível o recurso especial por ofensa a enunciado de súmula dos tribunais.
+Assim, incide o óbice da Súmula 518 do STJ: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Nesse sentido: AgInt no REsp 1.532.990/MT, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/02/2019; AgInt no REsp 1724930/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22/08/2018; AgRg no AREsp 741.903/DF, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 04/12/2015; e AgRg no AREsp 10.529/DF, Rel. Ministro Newton Trisotto (Desembargador Convocado do TJ/SC), Quinta Turma, DJe 18/05/2015.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
