@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de agravo interposto pela CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial interposto pela recorrente, aplicando a Súmula 83/STJ, em razão de que o entendimento do Tribunal de origem estaria em consonância com a jurisprudência desta Corte, segundo a qual a alteração jurisprudencial quanto à inviabilidade de inclusão do auxílio cesta-alimentação nos proventos de complementação de aposentadoria pagos por entidade fechada de previdência privada posterior à manifestação transitada em julgado não autoriza o manejo da ação rescisória.
+No entanto, da leitura do agravo em recurso especial, observa-se que não houve a demonstração consistente da inaplicabilidade da Súmula 83 desta Corte, limitando-se a agravante a colacionar julgado que, além de não ser contemporâneo aos citados na decisão agravada, não apresenta qualquer similitude fática com a questão jurídica decidida pelo Tribunal de origem.
+Desse modo, deixando a recorrente de impugnar os fundamentos da decisão recorrida, aplicável se torna a Súmula 182 desta Corte.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 3.000,00 (três mil reais) para R$ 3.500,00 (três mil e quinhentos reais).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ .
+Publique-se. Intimem-se.
