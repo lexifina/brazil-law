@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo apresentado por MARIO [NOME] e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Ação de indenização por danos materiais e morais, envolvendo adquirentes de imóvel em construção. Falência da vendedora. Associação de condôminos prosseguira com a obra. Autores, devidamente notificados, não aderiram à associação. Pretensão indenizatória sem suporte.
+Improcedência da ação em condições de prevalecer. Apelo desprovido.
+Quanto à controvérsia, alega violação ao art. 63, § 1º, da Lei n. 4.591/64, trazendo o(s) seguinte(s) argumento(s):
+Conforme demonstrado acima, é fato incontroverso que os Recorrentes aderiram à retomada do empreendimento na Assembleia Geral Extraordinária realizada em 26 de junho de 1998 (fls. 52/63).
+Ainda que assim não fosse, evidente do documento de folha 587, cujo trecho é novamente transcrito abaixo, que a adesão se daria de forma automática, e a falta de pagamento de 3 (três) parcelas consecutivas do custo de construção implicaria, obrigatoriamente, no leilão extrajudicial da unidade.
+ ..
+Ocorre, Excelências, que ao invés de comercializar a unidade na forma prevista em Lei, e até mesmo na ata da assembleia à qual os Recorrentes aderiram à retomada das obras, os Recorridos optaram pela realização de cessão fraudulenta, subvertendo a verdade dos fatos e prestando falsa declaração ao 11º Tabelião de Notas de São Paulo/SP, por escritura de 13 de março de 2012, procedendo a alienação dos direitos e obrigações decorrentes do contrato de compromisso de venda e compra do apartamento 33, do Bloco 2, que foram sub-rogados pelos Recorridos e ao final pela Construtora, conforme Registros 50, 51 e 52, Matrícula nº 109.884, do 8º Registro de Imóveis de São Paulo (Fls. 128/261).
+ ..
+Vejam, Excelências, que os Recorrentes têm ciência que, respeitado o rito previsto na Lei 4.591/64, os Recorridos não se sub-rogariam nos direitos e obrigações da falida Encol no que tange a obrigatoriedade de devolver aos Recorrentes os valores pagos devidamente atualizados.
+Contudo, ante ao evidente desrespeito aos ditames previstos para a alienação do imóvel em leilão extrajudicial, evidente a nulidade da cessão no que tange aos Recorrentes, e consequente o dever de indenizar dos Recorridos (fls. 914, 915 e 916).
+É o relatório. Decido.
+Verifica-se que a fundamentação do acórdão recorrido recai sobre as seguintes premissas fáticas (fl. 897):
+Destarte, não existe nos autos nenhuma documentação que corrobore a alegação dos recorrentes de que aderiram ao condomínio de obras por ocasião da retomada, ficando evidenciado que os autores não atenderam à notificação para adesão, evitando, assim, a transferência da respectiva unidade.
+A associação de condôminos observou o devido processo legal, uma vez que os apelantes deixaram de levar em consideração que o direito de aquisição da unidade pelo valor correspondente deveria ser resguardado, tendo o polo ativo optado pela omissão, logo, não poderia o polo passivo ficar à mercê de quem não demonstrara interesse em prosseguir com as obras e resguardar os direitos de compromissário comprador junto à construtora falida.
+Com efeito, não bastava dizer que seria aderente e teria interesse na retomada das obras, mas sim, deveria ocorrer o cumprimento regular das obrigações pertinentes, no entanto, os recorrentes não observaram o necessário, de acordo com a análise das notificações de págs. 43/44 e 48/49, além do pagamento aprovado em assembleia geral.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
