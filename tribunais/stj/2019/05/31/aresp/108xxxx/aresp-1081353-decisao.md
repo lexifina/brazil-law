@@ -1,0 +1,69 @@
+DECISÃO
+
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Apelação. Ação de indenização por danos morais e materiais. Compra e venda venda de veículo automotor usado. Vício redibitório não configurado. Autor que comprou o bem no estado em que se encontrava. Veículo com mais de dez anos e cento e dez mil quilômetros. Pretensão improcedente. Sentença mantida por seus próprios fundamentos, ora reproduzidos (art. 252 do RITJSP). Precedentes do STJ e STF. Apelo a que se nega provimento." (e-STJ, fl. 269)
+Nas razões do recurso especial, o agravante alega violação aos arts. 14, 18 e 30 do Código de Defesa do Consumidor, 147, 249, 422, 441, 442, 186 e 927 do Código Civil de 2002 e divergência jurisprudencial, sustentando, em síntese, (a) que adquiriu veículo seminovo de grande valor comercial na concessionária da fabricante, o qual apresentou vários defeitos graves que o levaram a buscar reparos perante o vendedor, que nada fez, (b) que consertou o veículo às suas expensas, gastando um valor de R$ 22.000,00 (vinte e dois mil reais), (c) que é parte hipossuficiente quanto a vícios ocultos mecânicos apesar de ter trabalhado no ramo de comércio de veículos, devendo ser considerada consumidor, (d) que a prova pericial restou prejudicada e se perdeu por responsabilidade da agravada, sendo seu ônus produzi-la, (e) que a tentativa de venda do veículo a terceiros revela que o veículo estava imprestável ao uso mesmo depois das reclamações e supostas revisões, (f) que a prova testemunhal deveria ter sido considerada mesmo tratando-se de pessoa pertencente ao mercado de automóvel e (g) que a responsabilidade é objetiva mesmo se tratando de veículo usado.
+É o relatório. Decido.
+O recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Inicialmente, observa-se que a agravante alega violações a prova testemunhal e pericial, responsabilidade objetiva da agravada e que deveria ser enquadrada como consumidora mas não indica qual ou quais dispositivos entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. QUEIMA DE CANA DE AÇÚCAR - REEXAME DE PROVA. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reforma do julgado quanto à ocorrência ou não do dano, que gerou a obrigação de indenizar, demanda inegável necessidade de incursão nas provas constantes dos autos, o que é vedado em sede de recurso especial. Incidência do óbice da Súmula 7 desta Corte.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o enunciado da Súmula 284/STF.
+3. A admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano a violação do dispositivo legal pela decisão recorrida, a fim de demonstrar a vulneração existente, o que não ocorreu na hipótese da alegada violação ao art.
+38, § 4º, da Lei 12.651/12.
+4. Agravo regimental não provido". (AgRg no AREsp 721.287/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 27/08/2015)
+Nas razões recursais, o agravante apontou violação aos artigos 30 do CDC e 147, 249, 422 do CC/02 entretanto, não desenvolveu argumentação que evidenciasse as ofensas, tornando patente a falha de fundamentação do apelo especial, circunstância que atrai a incidência do nº 284 da Súmula do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. RECURSO QUE DEIXA DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO QUE NEGOU PROVIMENTO AO AGRAVO DE INSTRUMENTO. SÚMULA Nº 182/STJ. EMBARGOS DE DECLARAÇÃO.RECORRENTE QUE NÃO DEFINE NEM DEMONSTRA EM QUE CONSISTE A OMISSÃO. SÚMULA Nº 284/STF. ARTIGOS 496 E 513 DO CÓDIGO DE PROCESSO CIVIL. NÃO DEMONSTRAÇÃO DA VIOLAÇÃO DOS DISPOSITIVOS DE LEIS FEDERAIS. SÚMULA Nº 284/STF. AGRAVO IMPROVIDO.
+1. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (Súmula do STJ, Enunciado nº 182).
+2. "É possível o juízo de admissibilidade adentrar o mérito do recurso, na medida em que o exame da sua admissibilidade, pela alínea "a", em face dos seus pressupostos constitucionais, envolve o próprio mérito da controvérsia." (AgRgAg nº 228.787/RJ, Relator Ministro Sálvio de Figueiredo Teixeira, in DJ 4/9/2000).
+3. Em tema de violação do artigo 535 do Código de Processo Civil, a não indicação expressa das questões apontadas como omitidas vicia a motivação do recurso especial, inviabilizando o seu conhecimento.Incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+4. Ao apontar a violação dos artigos 496, inciso I, e 513 do Código de Processo Civil, nas razões do recurso especial, a agravante não define nem demonstra no que consistiu a alegada violação dos dispositivos legais, deixando de explicitar, de forma clara e precisa, a negativa de vigência de lei federal, atraindo a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+5. Agravo regimental improvido."
+(AgRg no Ag 1292758/MG, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, julgado em 18/05/2010, DJe 04/06/2010)
+Ademais, no tocante ao pleito indenizatório, tem-se que a Corte de origem afirmou que a parte agravante não possuiria legitimidade para pleitear devolução dos valores gastos, pois não teria os desembolsado, in verbis:
+"Por fim, de qualquer forma, vale registrar que o autor não tem sequer legitimidade para pleitear a devolução dos vinte mil reais gastos com o reparo do carro, pois não foi ele quem desembolsou esse montante, mas sim a sua empresa" (fl. 26). (e-STJ, fl. 275)
+A ausência de legitimidade da agravante não foi objeto de impugnação e é suficiente, por si só, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência por analogia da Súmula 283 do Supremo Tribunal de Justiça.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Ainda que assim não fosse, com relação aos arts. 441, 443, 186 e 927 do CC/02, o Tribunal de origem concluiu, diante do contexto fático-probatório dos autos, que os defeitos apresentados pelo veículo não se caracterizam como vícios ocultos, mas sim como desgastes naturais de um carro comprado após mais de 7 anos e com alta quilometragem, in verbis:
+"Consigna-se apenas que, corretamente, que a sentença assentou o seguinte:
+(..)
+Na verdade, não se pode esperar que um automóvel com tanto tempo de uso apresente as mesmas características de um novo, de maneira que tendo sido permitida ao requerente a vistoria do bem antes da compra, ocasião em que ele deveria se por a par das condições do veículo, não cabe depois pretender responsabilizar a vendedora por defeito que não se define como vício oculto, mas como desgaste natural do carro.
+Importante distinguir vício oculto de defeito não verificável, pois em se tratando de veículo usado, natural que certos componentes sofram desgaste decorrente da utilização e tenham a vida útil ligada ao tempo de uso, como correias, filtros, escapamento e etc., podendo ser apuradas, por ocasião da aquisição, as condições de tais peças, sendo que se o adquirente não o faz, o caracteriza-se a não verificação insuscetível de reparo.
+(..)
+Perfeita a conclusão. O veiculo adquirido pelo apelante havia sido fabricado mais de sete anos antes e contava com quilometragem muito alta na ocasião da compra (mais de cento e dez mil quilômetros).
+É normal que veiculo com este tempo de uso apresente defeitos ou necessidade maior de gastos para sua manutenção.
+O bem era de vultoso valor e, independentemente do insucesso na área de atuação, o apelante atuava no ramo de comércio de veículos.
+Certamente ao fazer investimento deste porte deveria ter sido mais cauteloso. Não é crivei esperar de um veiculo com a idade e quilometragem informados o mesmo desempenho de um veiculo O km." (e-STJ, fls. 272/276)
+A modificação de tais entendimentos lançados no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Nesse mesmo sentido:
+"AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. COMPRA E VENDA DE RETROESCAVADEIRA. VÍCIO OCULTO. RESCISÃO CONTRATUAL. DANOS EMERGENTES. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação do artigo 535 do Código de Processo Civil de 1973.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+3. Agravo interno a que se nega provimento."
+(AgRg no Ag 1178554/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/09/2016, DJe 20/09/2016)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. VENDA DE VEÍCULO COMO NOVO. VÍCIOS OCULTOS. CONSTATAÇÃO. MATÉRIA FÁTICO-PROBATÓRIA. REVISÃO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A Corte de origem, mediante o exame dos elementos informativos da demanda, concluiu que o consumidor adquiriu da recorrente veículo como se novo fosse, mas posteriormente constatou a existência de vícios até então ocultos decorrentes de acidente anterior à venda, tais como monobloco torto e reparo precário da lateral, assoalho e coluna central, razão pela qual teve suas expectativas frustradas, fazendo jus a indenização por danos morais e materiais.
+2. Infirmar as conclusões do julgado, para concluir pela inexistência de responsabilidade da revendedora de veículos, demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra vedação na Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 925.560/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/12/2016, DJe 07/02/2017)
+Por fim, a incidência da Súmula 7/STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio - por ser inviável a aferição de similitude fática entre os julgados -, e impede o seguimento do presente recurso pela alínea "c" do permissivo constitucional.
+Nessa linha, observam-se os seguintes precedentes:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - ALEGADA NÃO COMPROVAÇÃO DA CAUSA PARA EMISSÃO DE DUPLICATAS - SENTENÇA E ACÓRDÃO QUE RECONHECERAM A VALIDADE DOS TÍTULOS - DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DO DEMANDANTE.
+1. Demonstrado que o acolhimento das razões do recurso especial torna imprescindível o reexame do conjunto fático-probatório dos autos, incide o enunciado nº 7 da Súmula do STJ.
+2. A incidência do enunciado nº 7 da Súmula do STJ impede o conhecimento do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. O dissídio jurisprudencial deve ser minuciosamente demonstrado por meio do cotejo analítico entre o acórdão recorrido e os acórdãos apontados como paradigmas, procedimento não observado pela parte insurgente.
+4. Agravo regimental desprovido." (AgRg no REsp 1137530/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/06/2014, DJe 24/06/2014)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INCLUSÃO INDEVIDA NO CADASTRO . REVISÃO DO VALOR. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+2. Segundo a jurisprudência desta Corte, o óbice da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 486.941/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/05/2014, DJe 12/06/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
