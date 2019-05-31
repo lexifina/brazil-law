@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FAZENDA PÚBLICA. JUROS DE MORA NO PERÍODO COMPREENDIDO ENTRE A DATA DA HOMOLOGAÇÃO DA CONTA DE LIQUIDAÇÃO E A EXPEDIÇÃO DO PRECATÓRIO OU RPV. INCIDÊNCIA. QUESTÃO DE ORDEM ACOLHIDA PARA ADEQUAÇÃO DO TEMA REPETITIVO 291/STJ À NOVA ORIENTAÇÃO FIXADA PELO STF EM REPERCUSSÃO GERAL (QO NO RESP N. 1.665.599/RS).
+1. Caso em que a União se insurge contra decisão que deu provimento ao recurso especial da servidora a fim de determinar a incidência de juros de mora no período compreendido entre a data da homologação da conta de liquidação e a expedição do precatório.
+2. A Corte Especial do STJ, em observância à redação conferida ao tema pelo STF no RE n. 579.431/RS, acolheu a Questão de Ordem no sentido de dar nova redação ao enunciado do Tema 291/ST: Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório (QO no REsp 1.665.599/RS, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 2/4/2019).
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria (Presidente) e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES: Trata-se de agravo interno interposto pela UNIÃO contra decisão de fls. 606/607, que deu provimento ao recurso especial da servidora para determinar a incidência de juros de mora no período compreendido entre a data da homologação da conta de liquidação e a expedição do precatório.
+A UNIÃO defende que se deva sobrestar o presente feito até a decisão definitiva do Supremo Tribunal Federal até que o STF julgue o pedido de modulação no julgamento do RE 579.431/RS. Requer, ainda, que se aguarde o julgamento da Questão de Ordem no Recurso Especial 1.665.599/RS, com a finalidade de adequação do Tema Repetitivo n. 291/STJ, julgado no Resp 1.143.677/RS, à nova orientação fixada pelo STF.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FAZENDA PÚBLICA. JUROS DE MORA NO PERÍODO COMPREENDIDO ENTRE A DATA DA HOMOLOGAÇÃO DA CONTA DE LIQUIDAÇÃO E A EXPEDIÇÃO DO PRECATÓRIO OU RPV. INCIDÊNCIA. QUESTÃO DE ORDEM ACOLHIDA PARA ADEQUAÇÃO DO TEMA REPETITIVO 291/STJ À NOVA ORIENTAÇÃO FIXADA PELO STF EM REPERCUSSÃO GERAL (QO NO RESP N. 1.665.599/RS).
+1. Caso em que a União se insurge contra decisão que deu provimento ao recurso especial da servidora a fim de determinar a incidência de juros de mora no período compreendido entre a data da homologação da conta de liquidação e a expedição do precatório.
+2. A Corte Especial do STJ, em observância à redação conferida ao tema pelo STF no RE n. 579.431/RS, acolheu a Questão de Ordem no sentido de dar nova redação ao enunciado do Tema 291/ST: Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório (QO no REsp 1.665.599/RS, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 2/4/2019).
+3. Agravo interno não provido.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES: O recurso não merece provimento.
+O Supremo Tribunal Federal, em regime de repercussão geral no julgamento do RE n. 579.431/RS, Rel. Min. Marco Aurélio, definiu que incidem juros de mora no período compreendido entre a data de elaboração de cálculos e a expedição da requisição de pequeno valor ou precatório.
+Confira-se a ementa do julgado:
+JUROS DA MORA - FAZENDA PÚBLICA - DÍVIDA - REQUISIÇÃO OU PRECATÓRIO. Incidem juros da mora entre a data da realização dos cálculos e a da requisição ou do precatório
+Registra-se que o RE n. 579.431/RS não sofreu qualquer modulação nos efeitos do seu julgamento, tendo transitado em julgado em 16/08/2018, in verbis:
+EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. PRECATÓRIO COMPLEMENTAR. CABIMENTO DOS JUROS DE MORA ENTRE A HOMOLOGAÇÃO DO CÁLCULO E A INSCRIÇÃO DO PRECATÓRIO. ENTENDIMENTO DA SUPREMA CORTE EM SEDE DE REPERCUSSÃO GERAL NO RE 579.431/RS. TRÂNSITO EM JULGADO NO STF SEM MODULAÇÃO DE EFEITOS. DECLARATÓRIOS ACOLHIDOS. APELO NOBRE DO INSS IMPROVIDO.
+1. O Supremo Tribunal Federal, em sede de repercussão geral, decidiu no julgamento do RE 579.431/RS que incidem juros de mora entre a data da realização dos cálculos e a da requisição ou do precatório.
+2. No caso sob apreciação, ocorreu em 16/08/2018 o trânsito em julgado do referido precedente vinculativo na Suprema Corte, sem que houvesse a modulação de efeitos quanto à controvérsia nele solucionada.
+3. Embargos declaratórios acolhidos, com efeito modificativo, para se negar provimento ao recurso especial do INSS. (EDcl nos EDcl no AgRg no REsp 1.120.063/RS, Rel. Min. Jorge Mussi, Quinta Turma, julgado em 06/11/2018, DJe 19/12/2018-grifo nosso)
+Cabe anotar, por fim, que a Corte Especial do STJ, nos autos do Recurso Especial n. 1.665.599/RS, acolheu a Questão de Ordem no sentido de dar nova redação ao enunciado do Tema 291/STJ, nos seguintes termos: "Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório". O referido julgado está assim ementado:
+QUESTÃO DE ORDEM. REVISÃO DE ENTENDIMENTO CONSOLIDADO EM TEMA REPETITIVO. TEMA 291/STJ. TERMO FINAL DA INCIDÊNCIA DOS JUROS MORATÓRIOS CONTRA A FAZENDA PÚBLICA. ENTENDIMENTO FIXADO PELO STF, EM REPERCUSSÃO GERAL, TEMA 96/STF, QUE SOLUCIONA, DE FORMA SUFICIENTE, A CONTROVÉRSIA POSTA EM DISCUSSÃO. ADEQUAÇÃO DO TEMA REPETITIVO 291/STJ À NOVA ORIENTAÇÃO FIXADA PELO STF EM REPERCUSSÃO GERAL. TEMA 96/STF. QUESTÃO DE ORDEM ACOLHIDA, PARA DAR NOVA REDAÇÃO AO TEMA 291. PARECER FAVORÁVEL DO MPF.
+1. Esta Corte Especial, por ocasião do julgamento do REsp 1.143.677/RS (DJe 4.2.2010), sob a Relatoria do ilustre Ministro LUIZ FUX, fixou a tese (Tema Repetitivo 291/STJ) no sentido de que não incidem juros moratórios entre a elaboração dos cálculos e o efetivo pagamento da Requisição de Pequeno Valor-RPV. Transcorridos aproximadamente sete anos, o Supremo Tribunal Federal, em 19.4.2017, julgou o Recurso Extraordinário 579.431/RS, sob a relatoria do ilustre Ministro MARCO AURÉLIO (DJe 30.6.2017), com Repercussão Geral reconhecida, quando fixou a tese de que incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório (Tema 96/STF da Repercussão Geral). As duas orientações são claramente oposta, como se vê sem esforço. A partícula não no início do Tema Repetitivo 291/STJ não deixa margem à dúvida.
+2. Considerando os princípios da segurança jurídica, da proteção da confiança e da isonomia, nos termos do art. 927, §4o. do Código Fux, é patente e evidente a necessidade de revisão do entendimento consolidado no enunciado de Tema Repetitivo 291/STJ, a fim de adequá-lo à nova orientação fixada pelo egrégio Supremo Tribunal Federal quando do julgamento do RE 579.431/RS (Repercussão Geral - Tema 96/STF).
+3. Nova redação que se dá ao enunciado de Tema Repetitivo 291/STJ: incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório.
+4. Questão de ordem acolhida a fim de dar nova redação ao Tema 291/STJ, em conformidade com Parecer favorável do MPF e em estrita observância da redação conferida ao tema pelo STF.
+(QO no REsp 1.665.599/RS, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 2/4/2019)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
