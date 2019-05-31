@@ -1,0 +1,64 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANOS MORAIS. NÃO CABE ANALISAR VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL EM SEDE DE RECURSO ESPECIAL. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CERCEAMENTO DE DEFESA. SÚMULA 283 E 356 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
+DECISÃO
+MICROPOR USINAGEM DE PRECISÃO LTDA. (MICROPOR) ajuizou ação declaratória de inexistência de débito c/c danos morais contra [NOME] [NOME] SERVIÇOS DE PINTURA TÉCNICA LTDA. ([NOME] [NOME]), que foi julgada parcialmente procedente. A reconvenção foi julgada improcedente.
+Os embargos de declaração interpostos foram rejeitados. (e-STJ fls. 536/537)
+A apelação interposta por [NOME] não foi provida pelo Tribunal de origem, nos termos da seguinte ementa:
+Apelação. Julgamento simultâneo. Declaratórias de Inexigibilidade de débito cumuladas com danos morais. Caule lares de sustação de protesto. Duplicatas. Preliminar. Cerceamento de defesa. Inocorrência. Prova pericial suficiente a formar o convencimento do
+julgador de modo a propiciar cognição exauriente da controvérsia. Perícia química. Preclusão. Inconformismo amplamente analisado c a matéria exaurida nos autos do agravo de instrumento nº 0321452.81.2009.8.26.0000, onde se colheu improvimento. Recurso especial. Seguimento negado. Novo agravo restou não conhecido (fls. 396/415;495/506).
+Apelação. Procedência. Declaratórias de inexigibilidade de debito cumulada com danos morais. Procedência parcial. Cautelares de sustação de protesto. Duplicatas. Procedência. Reconvenção. Improcedência. Prestígio. Insurgência. Prestação de serviço defeituoso. Prova pericial Idônea. Rescisão contratual. Cabimento. Inadimplemento insatisfatório do ajuste pela ré. Apelante que não se desvencilhou do ônus da prova  artigo 333, inciso II, do CPC. Títulos inexigíveis. Sentenças inalteradas. Recursos desprovidos. (e-STJ fls. 602)
+Os embargos de declaração interpostos foram rejeitados. (e-STJ 602)
+Inconformada, [NOME] [NOME] interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 1.022, inc. I, 370, 479, 480 e 438 do NCPC, e 5º, inc. LV, da CF, ao sustentar que (1) houve contradição no acórdão recorrido, pois fundamentou que a ora recorrente não se desincumbiu de seu ônus, mas indeferiu a realização da perícia no solo; (2) não pode ser admitida prova parcialmente produzida pelo Sr. [NOME] que não fez ensaio ou analise do solo; (3) a produção de perícia laboratorial do solo era necessária; (4) o laudo pericial apresentado pelo expert do juízo está eivado de vícios; devendo ser realizada nova perícia; e (5) houve cerceamento de defesa com o indeferimento da produção da prova pericial, da oitiva das testemunhas e do representante legal.
+O apelo nobre não foi admitido em virtude (i) de não caber analise de violação à Constituição em sede de recurso especial; (ii) da ausência de negativa de prestação jurisdicional; e (ii) da incidência da súmula 7 do STJ.
+Nas razões do presente agravo em recurso especial, [NOME] sustentou que (a) houve ofensa reflexa à Constituição; (b) houve contradição no acórdão; e (c) a matéria é de direito.
+Foi apresentada impugnação (e-STJ, fls. 671/678).
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+(1) Da ofensa a dispositivo Constitucional
+Inicialmente cumpre esclarecer que não é possível a análise de eventual ofensa a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal.
+A propósito, veja-se o precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. PREPARO. AUSÊNCIA DE RECOLHIMENTO. DESERÇÃO. SÚMULA Nº 187/STJ.
+1.Compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável discutir, nesta seara, a violação de dispositivos constitucionais, matéria afeta à competência do STF (art. 102, III, da Carta Magna).
+2.Não viola o artigo 535 do Código de Processo Civil nem importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+3. Incide, por analogia, a Súmula nº 284/STF quando o recorrente deixa de indicar o dispositivo de lei federal que teria sido violado pelo Tribunal de origem.
+4. O recorrente deve comprovar, no momento da interposição do recurso especial, o pagamento das custas judiciais e do porte de remessa e retorno dos autos, sob pena de deserção, ainda que o recurso tenha por objeto a gratuidade da justiça, pois a concessão de tal benefício não tem efeito retroativo. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no AREsp 803.183/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 5/4/2016, DJe 12/4/2016 - sem destaque no original)
+(1) Da alegada negativa de prestação jurisdicional
+No julgamento da apelação, o Tribunal de origem assim consignou:
+A priori, no tocante à arguição de cerceamento de defesa mercê da necessidade de realização de perícia química, o inconformismo da apelante já foi amplamente analisado e a matéria exaurida nos autos do agravo de instrumento nº 0321452.81.2009.8.26.0000, onde se colheu improvimento. Negou-se seguimento ao recurso especial e, agravada a r. decisão, o protesto não foi conhecido (fls. 396/415,495/506).
+(..)
+Inquestionável e minudente expediente técnico concluiu que:
+"Assim,-visando à apuração da tese da -- ré, procedeu-se, na oportunidade da vistoria, à inspeção no piso do galpão em questão (vide fotografias 9, 13, 16 e 20) sendo que não foram encontrados na interface da massa epóxi e do substrato de concreto quaisquer contaminantes que indiquem a presença de contaminantes referentes a hidrocarbonetos: óleos e graxas (fotos 18121).
+Desta feita, mesmo que exista contaminação por óleos e graxas no subsolo do galpão, não há indícios de que os supostos contaminantes tivessem percolado pelo substrato (base) de concreto provocando reação junto à massa epóxi. Da mesma forma, consequentemente, há indícios suficientes para afirmar por níveis de estanqueidade (baixa porosidade) da base de concreto a fim de se evitarem percolações advindas do subsolo.
+Por outro lado, nas inspeções elaboradas na oportunidade da vistoria, constatou-se que, no interior das saliências ("bolhas") do piso do galpão, existe a presença de água (fotos 10/12 E 14/15)
+A água encontrada no interior das saliências e na interface epóxi/substrato constitui o fato gerador destas patologias, pois, além de sua concentração implicar nestas aludidas saliências ("bolhas"), tem como efeito colateral a perda de aderência na interface entre o substrato de concreto e a massa epóxi que, em função da reação água/massa epóxi, resulta na cura ("secagem") inadequada da massa epóxi (anexo III, figura 2 e foto 22) e tem origem na execução (lançamento) precipitada da massa epóxi sobre o substrato de concreto ("base"), conforme se expõe na descrição de causas e consequências de dois possíveis fatores apresentados na Tabela 4." (fls. 300/303).
+Nessa toada, demonstrada - a contento - eiva a conspurcar o negócio jurídico que originou o saque dos títulos - as argumentações deduzidas merecem ser rechaçadas.
+No mais, considerada a culpa da ré no inadimplemento insatisfatório do ajuste, se exterioriza plausível a rescisão contratual, nos moldes elencados do r. decisum. (e-STJ Fl. 604/606)
+Verifica-se que o tribunal de origem analisou as questões que lhe pareceram necessárias à solução da causa, tendo fundamentado que o pedido de produção de perícia química foi analisado nos autos do agravo de instrumento 0321452.81.2009.8.26.000, que foi improvido. Negou-se seguimento ao recurso especial interposto e, agravada a decisão, o recurso não foi conhecido.
+ Também fundamentou, com base no conjunto fático probatório, que a rescisão contratual se deu por culpa da ré.
+Assim, houve manifestação sobre o tema, só que de forma contrária à pretensão da recorrente, o que não caracteriza nenhum dos vícios do art. 1.022 do NCPC.
+(2/5) Do cerceamento de defesa
+Conforme transcrição de trecho do acórdão recorrido acima transcrito, o Tribunal de origem fundamentou que a questão referente à produção de perícia química no solo foi analisada nos autos do agravo de instrumento 0321452.81.2009.8.26.000, que foi julgado improvido.
+Nas razões do especial, a recorrente não impugnou referido fundamento, limitando-se, em suma, a sustentar que a perícia do solo é necessária, pois o laudo pericial apresentado pelo expert do juízo está eivado de vícios. Assim, incidente, por analogia, o óbice do enunciado da Súmula nº 283 do Supremo Tribunal Federal: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito:
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE DESPEJO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS REQUERIDOS.
+1. É inadmissível o recurso especial quando as razões apresentadas se mostrarem dissociadas da matéria tratada pela decisão recorrida, não sendo impugnados fundamentos do acórdão que, por si sós, são suficientes para manter o inteiro teor do decisum. Aplicação, por analogia, das Súmulas 283 e 284 do STF.
+2. A reforma do julgado quanto a conclusão de não ter sido configurado cerceamento de defesa, ante o indeferimento da prova testemunhal demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 921.974/PR, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 18/8/2016, DJe 23/8/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTOS NÃO ATACADOS. SÚMULA Nº 283/STF. REEXAME DE PROVAS E DO CONTRATO FIRMADO ENTRE AS PARTES. SÚMULAS NºS 5 E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A ausência de impugnação dos fundamentos do aresto recorrido enseja a incidência, por analogia, da Súmula nº 283 do Supremo Tribunal Federal.
+3. Tendo o tribunal de origem decidido a causa com base na análise do contrato firmado entre as partes e nos elementos fático-probatórios dos autos, alterar sua conclusão atrai a incidência das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 833.798/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 9/8/2016, DJe 16/8/2016)
+A questão referente à oitiva de testemunhas e do representante legal não foi objeto de análise pelo tribunal de origem, tampouco foram opostos embargos de declaração, a esse respeito, estando ausente o indispensável debate prévio.
+Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional.
+Inafastável assim, por analogia, a incidência das Súmulas nº 282 e 356 do STF: É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada; O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para CONHECER EM PARTE o recurso especial e, nessa extensão, NEGAR PROVIMENTO.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de [NOME] [NOME], nos termos do art. 85, § 11, do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
