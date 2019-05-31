@@ -1,0 +1,26 @@
+Decisão:
+Ementa: Penal. Habeas corpus. Estelionato. Uso de documento falso. Regime inicial. Substituição da pena privativa de liberdade por restritiva de direitos. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 512.273, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 3 anos e 4 meses de reclusão, em regime inicial semiaberto, e 33 dias-multa, pela prática do crime previsto no art. 171, caput, c/c o art. 14, II, em concurso material com o art. 304, todos do Código Penal.
+    3. A defesa apelou. O Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso.
+    4. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 512.273, Min. Reynaldo Soares Da Fonseca, indeferiu a medida cautelar.
+    5. Neste habeas corpus, a parte impetrante sustenta, em síntese, que “o paciente possui a seu favor todas as demais circunstâncias judiciais de que trata o art. 59 do Código Penal. Não há qualquer prova nos autos que possua personalidade desvirtuada, sua culpabilidade não ultrapassou as raias da normalidade, não havendo nada que permita a fixação em regime mais gravoso”; bem como afirma que “presentes estão os requisitos para a substituição da pena privativa de liberdade pelas alternativas”.
+    6. A defesa requer a concessão da ordem a fim “fixar o regime inicial aberto e a substituir a pena privativa de liberdade por restritiva de direitos”.
+    Decido.
+    7. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. A hipótese de que se trata não autoriza a superação da Súmula 691/STF.
+    9. É certo: “A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719/STF). Mas o fato é que, na hipótese de que se cuida, o juízo de origem, ao fixar o regime inicial semiaberto, fez expressa referência à presença de circunstâncias judiciais desfavoráveis. O que autoriza a fixação de regime prisional mais severo, nos termos do art. 33, § 3º, do CP.
+    10. Da mesma forma, as instâncias antecedentes concluíram que a conversão da reprimenda, no caso, não se mostra recomendável em razão das circunstâncias judiciais desfavoráveis. De modo que não verifico situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o acolhimento da pretensão defensiva. Transcrevo, nesse sentido, as seguintes passagens da sentença condenatória:
+    “[...] A culpabilidade situa-se bem acima da média inerente aos delitos. A prova revela que o réu estava envolvido em grandioso esquema de fraudes pela internet, valendo-se dos conhecimentos de que detentor por conta de sua atividade (programador de sistemas) para auferir vantagens ilícitas, em prejuízo de número indeterminado de pessoas. A prova também indica uma constância impressionante na prática delitiva, bastando leitura dos inúmeros diálogos mantidos pelo réu em grupos de whatshap, ostentando o réu papel de destaque e liderança nos ilícitos. A personalidade se mostra voltada à prática de crimes, cabendo registrar que, colocado em liberdade nestes autos, voltou a delinquir, sendo condenado por violação ao artigo 289, § 1º, do Código Penal (v. certidão em apenso fls. 35). A conduta social se mostra também reprovável.
+    Tendo tudo isso em conta, dobro a pena base de cada um dos delitos: 2 (dois) anos de reclusão e 20 (vinte) dias-multa pelo delito de estelionato tentado e 2 (dois) anos de reclusão e 20 (vinte) dias-multa pelo delito de uso de documento particular falso.
+    Não há atenuantes ou agravantes.
+    No que se refere ao delito de estelionato tentado, tendo em conta o iter percorrido pelo réu, reduzo a pena em um terço, a totalizar 1 (um) ano e 4 (quatro) meses de reclusão, bem como 13 (treze) dias-multa.
+    As penas são somadas por conta do concurso material de infrações penais, totalizando 3 (três) anos e 4 (quatro) meses de reclusão, bem como 33 (trinta e três) dias-multa, no valor unitário mínimo legal.
+    Reputando como manifestamente desfavoráveis as circunstâncias judiciais do artigo 59 do Código Penal, entendendo também como insuficiente à reprovação e prevenção de delitos, reputo como não recomendável a substituição da pena privativa de liberdade por restritivas de direito (artigo 44, III, CP) ou mesmo a suspensão condicional da pena (artigo 77, II, do CP).
+    Pelas mesmas razões, mas observado que o réu não ostenta a condição de reincidente criminal, fixo o regime semiaberto para cumprimento da pena privativa de liberdade.
+    […].” (Negrito acrescentado)
+    11.  Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 31 de maio de 2019.
+Ministro Luís Roberto Barroso
+Relator
