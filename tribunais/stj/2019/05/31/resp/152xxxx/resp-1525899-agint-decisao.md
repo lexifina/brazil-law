@@ -1,0 +1,9 @@
+DECISÃO
+Tratam os presentes autos de demanda relativa a diferenças de correção monetária referente à expurgos inflacionários em depósitos de caderneta de poupança em fase de execução.
+O recurso especial é interposto por [NOME] - ESPÓLIO e OUTROS, em face de acórdão do eg. Tribunal Regional Federal da 1ª Região, assim ementado:
+"CIVIL E PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. CADERNETA DE POUPANÇA. ATUALIZAÇÃO. EMBARGOS À EXECUÇÃO. CORREÇÃO MONETÁRIA. JUROS. VIOLAÇÃO DE LITERAL DISPOSIÇÃO DE LEI. VIGÊNCIA DO NOVO CÓDIGO CIVIL. APLICAÇÃO DO ART. 406. PRELIMINARES REJEITADAS." (fls. 903/904)
+Em 28 de novembro de 2018, em Questão de Ordem nos autos do Resp 1.361.869/SP, a Segunda Seção do Superior Tribunal de Justiça deliberou, com base em decisão prolatada pelo em. Ministro Gilmar Mendes, nos autos do RE 632.212, na data de 6 de novembro de 2018, pela suspensão de todos os processos, individuais ou coletivos, seja na fase de conhecimento ou execução, que versassem sobre a cobrança de diferenças de correção monetária em depósitos de poupança decorrentes de expurgos, pelo prazo de 24 meses a contar de 5.2.2018, determinando o encaminhamento às instâncias de origem de todos os processos relacionados ao tema que estivessem nesta Corte, com a devida baixa.
+Foi, então, determinada, às fls. 1051/1052, o retorno dos autos ao eg. Tribunal de origem, decisão, contra a qual os recorrentes se insurgem no presente recurso.
+Com efeito, em decisão publicada na data de 12 de abril do corrente ano, o em. Ministro Gilmar Mendes reconsiderou a determinação de suspensão dos processos, em fase de execução, liquidação e/ou cumprimento de sentença, que versam sobre controvérsias relativas a diferenças de correção monetária em depósitos de poupanças.
+Em face da fundamentação exposta, reconsidero a decisão de fls. 1051/1052. Após, voltem os autos conclusos para julgamento por esta Relatoria.
+Publique-se. Cumpra-se.
