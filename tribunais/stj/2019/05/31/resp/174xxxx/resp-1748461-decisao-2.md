@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. ACIDENTE FERROVIÁRIO. MORTE DA VÍTIMA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DANO MORAL. ALTERAÇÃO DO VALOR FIXADO. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. FALTA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Ação de reparação de danos em razão de acidente ferroviário que causou a morte da vítima. Compensação por danos morais arbitrada em cem salários mínimos.
+2. A ausência de decisão acerca dos argumentos invocados pela recorrente em suas razões recursais, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A alteração do valor fixado a título de compensação por danos morais somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Recurso especial não conhecido.
+DECISÃO
+Cuida-se de recurso especial interposto por COMPANHIA PAULISTA DE TRENS METROPOLITANOS - CPTM, com fundamento na(s) alínea(s) "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 05/09/2017.
+Concluso ao gabinete em: 22/06/2018.
+Ação: reparação de danos, ajuizada por [NOME], AMANDA [NOME] DA [NOME] e MARIA ANUNCIADA [NOME] DA [NOME], em face da recorrente, em razão de acidente ferroviário que causou a morte do marido e pai dos recorridos.
+Sentença: julgou improcedente o pedido.
+Acórdão: deu parcial provimento à apelação interposta pelos recorridos, para, considerada a culpa concorrente, condenar a recorrente ao pagamento de metade de R$ 784,00 por mês, acrescida da metade do décimo terceiro salário anual, na porcentagem de 50% para companheira, até quando completar 75 anos, e 25% para a filha, até atingir 25 anos, excluído o filho, pois atingiu maioridade por ocasião do sinistro e não comprovou dependência econômica da vítima; as pensões mensais são devidas desde a data do acidente e a recorrente constituirá capital com renda para assegurar o cumprimento da obrigação com a pensão; além disso, condenar ao pagamento de cem salários mínimos, para cada recorrido, a título de compensação por danos morais, nos termos da seguinte ementa:
+Responsabilidade civil. Acidente ferroviário. Atropelamento e morte de pedestre em travessia de linha férrea. Responsabilidade civil. Natureza. É objetiva a responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviço público, seja em relação a terceiros usuários do serviço, seja em relação a não-usuários. Culpa concorrente. Em face da imprudência da vítima, que se utilizou de caminho inadequado para transpor a via férrea, impõe-se o reconhecimento da culpa concorrente, circunstância mitigadora da responsabilidade indenizatória da ré. Recurso parcialmente provido.
+Embargos de Declaração: opostos pela recorrente, foram acolhidos, para esclarecer que o valor da compensação por danos morais deve ter como referência o salário mínimo vigente na data de seu arbitramento.
+Recurso especial: alega violação dos arts. 533, §2º, e 475-Q, §2º, do CPC/15 e 944, parágrafo único, e 945 do CC/02, bem como dissídio jurisprudencial. Sustenta que é dispensável a constituição de capital garantidor, por se tratar de ente paraestatal, bastando inscrever os recorridos em sua folha de pagamento. Insurge-se contra o valor arbitrado a título de compensação por danos morais, pleiteando sua redução, porquanto reconhecida a culpa concorrente da vítima.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da interposição de embargos de declaração, não decidiu acerca dos argumentos invocados pela recorrente em seu recurso especial quanto aos arts. 533, §2º, e 475-Q, §2º, do CPC/15, o que inviabiliza o seu julgamento. Aplica-se, na hipótese, a Súmula 211/STJ.
+Ressalto, por oportuno, que referidos argumentos sequer foram ventilados nos embargos de declaração, caracterizando verdadeira inovação das teses de defesa em sede de recurso especial.
+- Do pedido de revisão do valor da compensação por danos morais
+Verifica-se que a compensação por danos morais foi fixada em 2º grau de jurisdição em cem salários mínimos, para cada recorrido, considerado o salário mínimo vigente na data de seu arbitramento. A jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo, porquanto se trata de morte decorrente de acidente ferroviário.
+- Da divergência jurisprudencial
+Em relação à alegada dispensabilidade da constituição de capital garantidor, entre os acórdãos trazidos à colação não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, a ausência de prequestionamento do tema que se supõe divergente, qual seja, dispensabilidade da constituição de capital garantidor, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Por fim, quanto à compensação por danos morais, a incidência da Súmula 7 desta Corte impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ fl. 713) para 11% em desfavor da recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
