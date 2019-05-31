@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. EXECUÇÃO AUTÔNOMA DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. POSSIBILIDADE. SÚMULA VINCULANTE 47. EXPEDIÇÃO DE RPV. VALOR INCONTROVERSO. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+    Decisão: Trata-se recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    "PROCESSUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO DE SENTENÇA.' DESAPROPRIAÇÃO. EXPEDIÇÃO DE RPV. VALOR INCONTROVERSO. INDENIZAÇÃO DAS BENFEITORIAS E HONORÁRIOS ADVOCATÍCIOS. INDENIZAÇÃO POR TERRA NUA E COBERTURA VEGETAL. PAGAMENTO EM TDA.
+    I - Cuida-se de agravo de instrumento contra decisão que, em execução de sentença proferida em sede de ação de desapropriação, determinou a expedição de RPV para o pagamento do valor incontroverso relativo à indenização das benfeitorias e aos honorários advocatícios sucumbenciais.
+    II - No caso, o valor total da execução supera o teto de 60 (sessenta) salários mínimos fixados pela Lei n° 10.259/2001. No entanto, da análise das contas que foram homologadas pela sentença, verifica-se sem dificuldade que o valor total da execução a ser pago em dinheiro não supera os vinte e cinco mil reais, sendo o restante relativo à indenização por terrá nua e cobertura vegetal, a ser pago em Títulos da Dívida Agrária - TDA.
+    III - Na hipótese em tela, mostra-se apropriada a expedição de RPV, pois não caberia se computar parcela da execução que não será paga em dinheiro.
+    IV - Agravo de instrumento improvido." (Doc. 1, fl. 47)
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 100, § 8º, da Constitucional Federal.
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    O Tribunal de origem não divergiu do entendimento firmado pelo Plenário do Supremo Tribunal Federal que, no julgamento do RE 564.132, redatora para o acórdão min. Carmem Lúcia, DJe de 10/02/2015, Tema 18 da repercussão geral, decidiu pela possibilidade de fracionar o valor das execuções, satisfeitas por precatórios, para pagamento dos honorários advocatícios sucumbenciais através de Requisição de Pequeno Valor, por constituírem estes direito autônomo do patrono da parte e possuírem caráter alimentar.
+    Esse entendimento foi consolidado na Súmula Vinculante 47, a qual possui a seguinte redação:
+    “Os honorários advocatícios incluídos na condenação ou destacados do montante principal devido ao credor consubstanciam verba de natureza alimentar cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza.”
+    Demais disso, o acórdão recorrido fundou-se no entendimento de ser apropriada a expedição de RPV, por entender que não seria viável somar ao valor total da execução parcela que não será paga em dinheiro.
+    As razões do recurso extraordinário, no entanto, veicularam apenas argumentação no sentido de que o valor total da execução supera o limite fixado na Lei 10.259/2001.
+    Assevere-se que a parte recorrente tem o dever de impugnar os fundamentos da decisão recorrida, sob pena de não ter sua pretensão examinada, por vedação expressa dos enunciados das Súmulas 283 e 284 do STF, que dispõem, respectivamente, in verbis: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles” e “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”. Nesse sentido:
+    “AGRAVO – OBJETO. Visando o agravo a fulminar a decisão que se ataca, as razões devem estar direcionadas de modo a infirmá-la. O silêncio em torno dos fundamentos consignados é de molde, por si só, a levar à manutenção do que assentado. Diante do descompasso entre o acórdão impugnado e as razões do extraordinário, este transparece como sendo meramente protelatório.” (ARE 846.515-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 10/11/2015)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Razões recursais dissociadas dos fundamentos do acórdão recorrido. Incidência do Enunciado 284 da Súmula do STF. 3. Argumentos incapazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.” (ARE 906.883-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 15/10/2015)
+    Por fim, observo que o presente recurso foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015.
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 932, VIII, do Código de Processo Civil/2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 31 de maio de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
