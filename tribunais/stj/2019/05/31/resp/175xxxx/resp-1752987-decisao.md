@@ -1,0 +1,30 @@
+DECISÃO
+
+Trata-se de recurso especial interposto por GARGEL - GURUPI ARMAZÉNS GERAIS E LTDA. E OUTROS, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Eg. Tribunal Regional Federal da 1ª Região, assim ementado:
+"PROCESSUAL CIVIL. AÇÃO DE DEPÓSITO. PRESCRIÇÃO ART. 11, § 1º, DECRETO Nº 1.10211903 RECONHECIDA.
+- Entendimento da 6a Turma e do eg. Superior Tribunal de Justiça, o qual adoto, no sentido de que o prazo prescricional da ação de depósito para devolução de mercadoria posta em armazém geral é de 03 (três) meses, consoante o previsto no art. 11, §1º, 2a parte, do Decreto nº. 1.102/1903, porque a legislação especial não foi revogada pelo Código Civil de 1916. (TRF 1" Região - 6a Turma - AC 0002915-92.1998.4.01.3600/MT - Relator: Desembargador Federal Jirair Aram Megueriam - e-DJF1 p.215 de 12/08/2011; STJ - REsp n. 302737/SP - Relator. Ministro Ruy Rosado De Aguiar - DJ de 18.03.2002, p. 256) - Posicionamento contrário da 5a Turma deste Tribunal, cujas decisões são de que o prazo prescricional da ação de depósito para devolução de mercadoria posta em armazém geral era de vinte anos, na previsão do art. 177 do Código Civil de 1916, posteriormente reduzido para 10 anos, consoante o art. 205 do Código Civil de 2002.
+- Pode-se ver às fls. 349/351 que a carta de cobrança relativa às perdas quantitativas pleiteadas nesta via é datada de 06.09.1994, ao passo que a presente ação fora ajuizada somente em 10.10.2002. Passados, portanto, mais de três meses da apuração do fato (dado concreto que se tem notícia nos autos) é que a CONAB resolveu ingressar com a ação.
+A ocorrência da prescrição é visível.
+- Apelação dos réus provida para reconhecer a prescrição e declarar extinto o processo, com julgamento de mérito, nos termos do art. 269, inciso IV, do CPC, com a inversão dos ônus sucumbenciais." (e-STJ, fl. 877)
+Opostos embargos infringentes, os mesmos foram desprovidos:
+"DIREITO CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE DEPÓSITO. CONAB. PRESCRIÇÃO TRIMESTRAL. APLICABILIDADE. SÚMULA 50 DA 3" SEÇÃO DESTE TRIBUNAL.
+I - A colenda Terceira Seção deste Tribunal, ao julgar o Incidente de Uniformização de Jurisprudência nº 0002915-92.1998.4.01.3600/MT, acompanhou o posicionamento do egrégio Superior Tribunal de Justiça sobre a matéria, ocasião em que sumulou entendimento neste Tribunal no sentido de que, "prescrevem em 3 (três) meses para a CONAB, o prazo para propositura da ação de depósito, contado a partir do dia em que a mercadoria foi ou deveria ser entregue (Decreto n. 1.102/1903, art. 11, in fine)". (Súmula nº 50 do TRF-1a Região) II - Embargos infringentes desprovidos. Acórdão embargado mantido." (e-STJ, fl. 963)
+Nas razões do recurso especial, a agravante alega violação aos arts. 85 do Código de Processo Civil de 2015, 20, § 3º e 4º do Código de Processo Civil de 1973 e divergência jurisprudencial, sustentando, em síntese, (a) que a verba honorária fixada em R$ 1.000,00 (mil reais) é irrisória, corresponde a menos de 1% do valor atribuído a causa e não é suficiente para recompensar o trabalho efetivamente realizado, a responsabilidade assumida pelo causídico e a natureza e importância da causa, que representa a quantia de R$ 115.241,54 (cento e quinze mil, duzentos e quarenta e um reais e cinquenta e quatro centavos), (b) que os parâmetros legais estabelecidos entre 10% e 20% sobre o valor da condenação, do proveito econômico ou valor atualizado da causa devem ser observados e (c) que o feito durou quinze anos e exigiu dedicação do profissional.
+Foram apresentadas contrarrazões às fls. 1.016/1.033.
+É o relatório. Passo a decidir.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Com relação à suposta violação aos arts. 85 do CPC/15 e 20, § º e 4º do CPC/73, tem-se que estes não se encontram contemplados no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foram objeto de embargos de declaração, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Ademais, tem-se que o conhecimento do recurso especial pela divergência também se encontra obstado pela ausência de prequestionamento, requisito exigido indistintamente nos recursos fundamentados nas alíneas "a" e "c".
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. PREQUESTIONAMENTO. AUSÊNCIA. AGRAVO NÃO PROVIDO.
+1. Os recursos especiais interpostos com base na alínea "c" do permissivo constitucional não dispensam o necessário prequestionamento da questão jurídica, o que não ocorreu no presente caso, pois é impossível haver divergência sobre determinada questão federal se o acórdão recorrido nem mesmo emitiu juízo de valor acerca da matéria jurídica.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1036444/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/08/2017, DJe 14/08/2017)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
