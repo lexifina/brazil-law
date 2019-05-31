@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ABSA AEROLINHAS BRASILEIRAS S/A contra decisão unipessoal desta relatoria, que deu parcial provimento a recurso especial da embargante, para limitar a indenização devida pelo transportador ao montante equivalente a 17 Direitos Especiais de Saque por quilograma (fl. 903/910).
+A embargante, alegando que "decaiu minimamente dos pedidos" (fl. 915), pleiteia a inversão da sucumbência em desfavor da embargada, além da majoração dos honorários advocatícios, nos termos dos arts. 85, § 11, e 86, parágrafo único do CPC/2015 (fls. 913/916).
+A embargada apresentou impugnação (fls. 920/924).
+É o relatório. Passo a decidir.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material, sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, não existe o vício aventado, porquanto o recurso especial foi provido apenas para o fim de limitar a indenização a que foi condenada a embargante, mantendo-se a procedência do pedido formulado na ação regressiva pela parte adversa, não havendo, pois, que se falar em honorários advocatícios em prol da embargante.
+Ademais, consoante assinalado na decisão embargada, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2 do Plenário do STJ).
+No caso, o recurso especial foi interposto ainda na vigência do CPC/1973. Nesses termos, e a teor da jurisprudência já firmada no Superior Tribunal de Justiça, é incabível a imposição dos honorários recursais previstos no art. 85, § 11, do CPC/2015.
+Há de ser observado o disposto no Enunciado 6 do Plenário do STJ, nos seguintes termos: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC".
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
