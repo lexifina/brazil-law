@@ -1,0 +1,37 @@
+EMENTA
+RECURSO ORDINÁRIO. ADMINISTRATIVO. SERVIDORA PÚBLICA. MANDADO DE SEGURANÇA. OFENSA AO TETO CONSTITUCIONAL. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Na origem, cuida-se de Mandado de Segurança impetrado por servidora pública municipal contra o ato 1.339/2016 do Presidente da Câmara Municipal de São Paulo, que negou provimento ao recurso administrativo manejado contra determinação de adequação de seus vencimentos ao teto constitucional (fl. 378, e-STJ).
+2. Consta dos autos que à recorrente foi concedido prazo para exercer sua defesa. O ato administrativo ora impugnado estaria portanto legitimado, não havendo mácula ao direito líquido e certo ao extenso procedimento administrativo pretendido.
+3. O servidor público não possui direito adquirido ao recebimento de vencimentos ou proventos acima do teto constitucional. Ressalte-se que o princípio da irredutibilidade de vencimentos não é violado quando a remuneração é reduzida para que seja respeitada a nova ordem constitucional consistente na observância do teto constitucional.
+4. Recurso Ordinário não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao recurso ordinário, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Ordinário interposto por [NOME], com fundamento no artigo 105, inciso II, alínea "b", da Constituição Federal, mediante o qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 378, e-STJ):
+MANDADO DE SEGURANÇA CORTE NA REMUNERAÇÃO DE SERVIDORA MUNICIPAL DEFESA PRÉVIA AO ATO ADMINISTRATIVO POSSIBILITADA E EXERCIDA PRETENSÃO À INSTAURAÇÃO DE REGULAR PROCEDIMENTO ADMINISTRATIVO MEDIANTE PORTARIA, COM FORMAÇÃO DE COMISSÃO PROCESSANTE, DEFESA PRÉVIA, PRODUÇÃO DE PROVAS, ALEGAÇÕES FINAIS E RECURSOS DESNECESSIDADE ATO ADMINISTRATIVO DECORRENTE DO PODER DE AUTOTUTELA DA ADMINISTRAÇÃO QUE VISA CORRIGIR INCONSITUCIONALIDADE NA REMUNERAÇÃO DOS SERVIDORES NORMA QUE FIXOU O TETO DOS SERVIDORES RECONHECIDA COMO DE EFICÁCIA IMEDIATA PELO STF INEXISTÊNCIA DE DIREITO ADQUIRIDO OU OFENSA À IRREDUTIBILIDADE DE VENCIMENTOS JÁ DECIDIDA EM SEDE DE REPERCUSSÃO GERAL (TEMA 257)  EVENTUAL IRREGULARIDADE NA ADEQUAÇÃO DOS PROVENTOS, ADEMAIS, QUE PODE SER IMPUGNADA POR DIVERSOS MEIOS ADMINISTRATIVOS E JUDICIAIS INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO NA ESPÉCIE SEGURANÇA DENEGADA.
+Em suas razões, alega que o processo administrativo deveria iniciar com publicação de portaria, nomeação de comissão processante e observar o contraditório e a ampla defesa, bem como os princípios da legalidade e da razoabilidade, além da forma estabelecida na Lei 9.784/1999, e que, no caso em tela, foi apenas editado o Ato da Mesa nº 1.339/2016, que estabeleceu os cortes nos vencimentos para adequação ao teto remuneratório constitucional (fl. 392, e-STJ).
+Decisão de admissibilidade proferida à fl. 520, e-STJ.
+Contrarrazões apresentadas às fls. 405-424, e-STJ.
+O representante do Ministério Público Federal opinou pelo indeferimento do pedido recursal (fls, 550-556, e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 7.2.2019.
+A irresignação não merece prosperar.
+Na origem, Cuida-se de Mandado de Segurança impetrado por servidora pública municipal contra o ato 1.339/2016 do Presidente da Câmara Municipal de São Paulo, que negou provimento ao recurso administrativo manejado contra determinação de adequação de seus vencimentos ao teto constitucional (fl. 378, e-STJ).
+Consta dos autos que à recorrente foi concedido prazo para exercer sua defesa, portanto o ato administrativo ora impugnado estaria legitimado, não havendo mácula ao direito líquido e certo ao extenso procedimento administrativo pretendido.
+Trago trecho do acórdão recorrido:
+Exigir a instauração de procedimento administrativo, nos moldes preconizados na legislação apontada pela impetrante, seria impor burocracia inútil à correção do ato, além de onerar em demasia a Administração Pública que teria que adotar o mesmo procedimento para a infinidade de servidores ativos e inativos de seu quadro, em igual situação.
+Ressalte-se que o Tema de Repercussão Geral 257, do STF (RE 606.358) já afastou a irredutibilidade de vencimentos bem como o direito adquirido quando se trata de adequação de remuneração ao teto constitucional.
+
+O servidor público não possui direito adquirido ao recebimento de vencimentos ou proventos acima do teto constitucional. Ressalte-se que o princípio da irredutibilidade de vencimentos não é violado quando a remuneração é reduzida para que seja respeitada a nova ordem constitucional consistente na observância do teto constitucional. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. VANTAGENS PESSOAIS E ADICIONAIS POR TEMPO DE SERVIÇO. AQUISIÇÃO ANTES DA EC 41/2003. TETO REMUNERATÓRIO. INCLUSÃO NO CÔMPUTO. PRECEDENTE DO STF. RE 606.358/SP. TEMA 257. REPERCUSSÃO GERAL. TRÂNSITO EM JULGADO. DESNECESSIDADE.
+1. O Supremo Tribunal Federal, apreciando o Tema 257 da repercussão geral, nos autos do RE 606.358/SP, fixou, por unanimidade, tese nos seguintes termos: "Computam-se para efeito de observância do teto remuneratório do art. 37, XI, da Constituição da República, também os valores percebidos anteriormente à vigência da Emenda Constitucional nº 41/2003 a título de vantagens pessoais pelo servidor público, dispensada a restituição dos valores recebidos em excesso e de boa-fé até o dia 18 de novembro de 2015." 2. A jurisprudência Do Superior Tribunal de Justiça é firme no sentido de "ser desnecessário aguardar o trânsito em julgado para a aplicação do paradigma firmado em sede de Recurso Repetitivo ou de Repercussão Geral" (AgRg nos EDcl no AREsp 706.557/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/10/2015, DJe 13/10/2015).
+3. Agravo interno a que se nega provimento.
+(AgInt no RMS 47.838/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 7/12/2016).
+RECURSO EXTRAORDINÁRIO. ACUMULAÇÃO DE SUBSÍDIOS. TETO CONSTITUCIONAL. EMENDA CONSTITUCIONAL 41/03. TEMA 480/STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DA SUPREMA CORTE.
+1. O STF, no julgamento de mérito do RE 609.381/GO, fixou a tese segundo a qual "o teto de retribuição estabelecido pela Emenda Constitucional 41/03 possui eficácia imediata, submetendo às referências de valor máximo nele discriminadas todas as verbas de natureza remuneratória percebidas pelos servidores públicos da União, Estados, Distrito Federal e Municípios, ainda que adquiridas de acordo com regime legal anterior. Os valores que ultrapassam os limites estabelecidos para cada nível federativo na Constituição Federal constituem excesso cujo pagamento não pode ser reclamado com amparo na garantia da irredutibilidade de vencimentos" (TEMA 480/STF).
+2. Hipótese em que o acórdão recorrido está em conformidade com a orientação firmada pelo STF.
+Agravo interno improvido.
+(AgInt no RE no AgInt nos EDcl no RMS 48.747/DF, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe 19/6/2018).
+Diante do exposto, nego provimento ao Recurso Ordinário.
+É como voto.
