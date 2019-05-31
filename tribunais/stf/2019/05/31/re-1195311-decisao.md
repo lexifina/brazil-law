@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA – SEGUIMENTO.
+    1. O Tribunal de Regional Federal da 5ª Região reformou o entendimento do Juízo para assentar a prescrição da pretensão de repasse pela União ao Município de recursos relativos ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e Valorização do Magistério (FUNDEF) necessários para atingir o Valor Mínimo Anual por Aluno. No extraordinário, o recorrente alega violação do artigo 5º, inciso XXI, da Constituição Federal. Discorre sobre a possibilidade de interrupção do lapso prescricional pela propositura de ação coletiva por associação de municípios.
+    2. Eis a síntese do acórdão recorrido:
+    ADMINISTRATIVO. COMPLEMENTAÇÃO DOS VALORES RECEBIDOS DO FUNDEF ENTRE 2002 E 2006. AÇÃO AJUIZADA EM 2014. PRESCRIÇÃO. INTERRUPÇÃO DO PRAZO POR DEMANDA COLETIVA EXTINTA SEM RESOLUÇÃO DO MÉRITO. IMPOSSIBILIDADE. AUSÊNCIA DE COMPROVAÇÃO DE QUE ERA ASSOCIADO À ÉPOCA DO AJUIZAMENTO DA AÇÃO COLETIVA. PROVIMENTO DA APELAÇÃO DA UNIÃO E DA REMESSA OFICIAL. APELAÇÃO DO MUNICÍPIO PREJUDICADA.
+    1. A pretensão deduzida em juízo em 2014 refere-se ao pagamento das diferenças de complementação do FUNDEF, decorrentes da suposta subestimação do valor mínimo nacional, que deve ser calculado conforme as disposições do art. 6º da Lei nº 9.424/96, referentes aos anos de 2002 a 2006.
+    2. Tratando-se de pretensão delimitada no tempo, cujo termo final seria 2006, é de ser reconhecida a prescrição quinquenal, nos termos do art. 1º do Decreto 20.910/32, uma vez que a ação foi ajuizada apenas em 2014.
+    3. A coletiva ajuizada pela APRECE - Associação dos Municípios e Prefeitos do Estado do Ceará não teve o condão de interromper a prescrição da pretensão do município, porquanto não restou comprovado que fosse filiado à referida associação ao tempo do ajuizamento da ação coletiva, nem tampouco que teria outorgado autorização para tanto. Entendimento de acordo com orientação emanada do Supremo Tribunal Federal no RE 573232, submetido à sistemática da repercussão geral.
+    4. Apelação da União e remessa oficial providas. Apelação do município prejudicada.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    O ato impugnado está em consonância com a jurisprudência do Tribunal. O Plenário, ao julgar o recurso extraordinário nº 573.232/SC, de minha relatoria, concluiu, sob o ângulo da repercussão geral, indispensável autorização expressa para legitimar a atuação de associação na defesa de direitos dos filiados, sendo a execução limitada àqueles referidos na inicial. Eis a síntese do pronunciamento publicado no Diário de Justiça de 19 de setembro de 2014:
+    REPRESENTAÇÃO – ASSOCIADOS – ARTIGO 5º, INCISO XXI, DA CONSTITUIÇÃO FEDERAL. ALCANCE. O disposto no artigo 5º, inciso XXI, da Carta da República encerra representação específica, não alcançando previsão genérica do estatuto da associação a revelar a defesa dos interesses dos associados.
+    TÍTULO EXECUTIVO JUDICIAL – ASSOCIAÇÃO – BENEFICIÁRIOS. As balizas subjetivas do título judicial, formalizado em ação proposta por associação, é definida pela representação no processo de conhecimento, presente a autorização expressa dos associados e a lista destes juntada à inicial.
+    3. Ante o exposto, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 31 de maio de 2019.
+Ministro MARCO AURÉLIO
+Relator
