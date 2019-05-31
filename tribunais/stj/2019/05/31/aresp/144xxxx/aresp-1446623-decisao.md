@@ -1,0 +1,13 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por JÚLIO CÉSAR GOES MACEDO em face de decisão do Tribunal Regional Federal da 4ª Região, que negou admissibilidade ao especial sob a compreensão de que
+o recurso não merece trânsito, porquanto a questão suscitada implica revolvimento do conjunto probatório, vedado em recurso especial, nos termos da Súmula nº 07 do Superior Tribunal de Justiça, que assim estabelece: a pretensão de simples reexame de prova não enseja recurso especial.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque
+a revalorização da prova constituem atribuir o devido valor jurídico a fato incontroverso sobejamente reconhecido nas instâncias ordinárias, prática francamente aceita em sede de recurso especial  .. . É exatamente este o objeto do presente recurso especial: que seja dado o correto enquadramento jurídico aos fatos reconhecidos, tanto no 1º quanto no 2º grau, acerca da existência e validade da conclusão do laudo pericial  .. . A prova pericial produzida à fls. (80), dos autos, comprova, sem margem à qualquer contradita, que o Autor é um alienado mental, em razão de grave doença mental  Esquizofrenia cf. perícia de fls. 80 , cuja eclosão ocorreu durante serviço militar, que o incapacita, inteira e definitivamente para todo e qualquer trabalho, seja os de natureza militar, seja os de natureza civis.
+Ofertada contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O acolhimento das proposições recursais, em detrimento da conclusão do Tribunal de origem quanto à validade da conclusão do laudo pericial, como insurgência que se funda na verificação das provas produzidas nos autos e sua valoração, demanda inafastável incursão no universo fático-probatório. Cediço é, porém, que não pode este Superior Tribunal de Justiça atuar como terceira instância revisora ou tribunal de apelação reiterada, a teor do verbete da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial" (cf. AgRg no REsp 1116290/SP, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe 03/08/2010; AgRg no AREsp 436.034/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 16/12/2013).
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
