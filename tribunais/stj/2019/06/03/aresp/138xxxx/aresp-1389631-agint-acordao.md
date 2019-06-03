@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VÍCIO NO ACÓRDÃO PROFERIDO PELO TRIBUNAL A QUO. INEXISTÊNCIA. DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. INDICAÇÃO. AUSÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. INOCORRÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado, a teor do disposto no art. 1.022 do CPC/2015, sendo certo que o acórdão proferido pelo Tribunal a quo não padece de nenhum desses vícios.
+2. Não se conhece de recurso especial que deixa de apontar o dispositivo legal violado no acórdão recorrido, incidindo na hipótese, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+3. Ressalvado o entendimento do relator, idêntica compreensão é aplicada ao apelo nobre interposto com fundamento em divergência pretoriana, na esteira do posicionamento da Corte Especial (AgRg no REsp n. 1.346.588/DF, Relator Min. ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+4. A divergência jurisprudencial deve ser demonstrada mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, nos termos dos arts. 255, § 1º, do RISTJ e 541, parágrafo único, do CPC/1973, o que não ocorre na situação sub examine.
+5. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por TODACARGA TRANSPORTES LTDA. contra decisão de e-STJ fls. 689/692 em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+A parte agravante alega que a decisão recorrida deve ser reformada porque efetivamente houve violação ao art. 1.022 do CPC/2015 e em razão da divergência notória entre o acórdão proferido pelo Tribunal a quo e os acórdãos indicados como paradigmas, o que torna irrelevante a indicação do dispositivo legal tido por violado.
+Decurso do prazo para impugnação (e-STJ fl. 716).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VÍCIO NO ACÓRDÃO PROFERIDO PELO TRIBUNAL A QUO. INEXISTÊNCIA. DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. INDICAÇÃO. AUSÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. INOCORRÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado, a teor do disposto no art. 1.022 do CPC/2015, sendo certo que o acórdão proferido pelo Tribunal a quo não padece de nenhum desses vícios.
+2. Não se conhece de recurso especial que deixa de apontar o dispositivo legal violado no acórdão recorrido, incidindo na hipótese, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+3. Ressalvado o entendimento do relator, idêntica compreensão é aplicada ao apelo nobre interposto com fundamento em divergência pretoriana, na esteira do posicionamento da Corte Especial (AgRg no REsp n. 1.346.588/DF, Relator Min. ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+4. A divergência jurisprudencial deve ser demonstrada mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, nos termos dos arts. 255, § 1º, do RISTJ e 541, parágrafo único, do CPC/1973, o que não ocorre na situação sub examine.
+5. Agravo interno desprovido.
+VOTO
+EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Salvo melhor juízo, a decisão recorrida deve ser mantida.
+Inexiste violação ao art. 1.022 do CPC/2015, tendo em vista que não se vislumbra nenhum equivoco ou deficiência na fundamentação contida no acórdão proferido pelo Tribunal a quo, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento. Portanto, não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+E, quanto à questão de mérito, ressalvo meu entendimento de que a jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp n. 1.346.588/DF, relator Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+Na espécie, o recorrente não se desincumbiu de indicar o(s) dispositivo(s) de lei federal supostamente violado(s) em razão do dissídio. Assim, em respeito à orientação firmada pela Corte Especial deste Tribunal, também ajusta-se à hipótese a aplicação do contido na Súmula 284 do STF. A propósito, confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. PROVA DISCURSIVA. ALEGAÇÃO DE INADEQUAÇÃO AO CONTEÚDO DO EDITAL. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO SUPOSTAMENTE APLICADO DE MODO DIVERGENTE. SÚMULA 284/STF. INTERPRETAÇÃO DE CLÁSULA DO EDITAL. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 5 E 7/STJ.
+1. O Tribunal de origem não apreciou a controvérsia sob o enfoque do dispositivo legal apontado como violado (artigo 19, XIII, do Decreto 6.944/99), tampouco foram opostos embargos declaratórios para suprir eventual omissão neste aspecto. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Também no recurso especial lastreado na alegada existência de divergência pretoriana se exige do recorrente a precisa indicação do dispositivo de lei federal que se afirma violado, sob pena de incidência da Súmula 284/STF. Precedentes: AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe 17/3/2014; AgRg no REsp 1.527.274/MG, Rel.ª Ministra Regina Helena Costa, Primeira Turma, DJe 23/9/2015; AgRg no AREsp 736.813/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 22/9/2015; AgRg no Ag 1.088.576/RS, Rel.ª Ministra Maria Isabel Gallotti, DJe 26/8/2015.
+ ..
+4. Agravo regimental a que se nega provimento (AgRg no AREsp n. 770.014/SC, relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 03/02/2016).
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. APOSENTADORIA. RURAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+Observa-se grave defeito de fundamentação no apelo especial, uma vez que o agravante não particulariza quais os preceitos legais infraconstitucionais estariam supostamente afrontados. Assim, seu recurso não pode ser conhecido nem pela alínea "a" e tampouco pela alínea "c" do permissivo constitucional, porquanto, ao indicar a divergência jurisprudencial sem a demonstração do dispositivo de lei violado, caracterizadas estão a alegação genérica e a deficiência de fundamentação recursal. Agravo regimental improvido (AgRg no AREsp n. 821.869/SP, relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 24/02/2016).
+Por fim, a eventual apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional) mostra-se inviável quando o recorrente não realiza o cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação. Nesse sentido: AgRg no REsp 1.558.877/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016; AgRg no AREsp 752.892/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015.
+No presente caso, a parte recorrente não cumpriu os pressupostos específicos necessários à configuração do dissenso jurisprudencial, preconizados pelo art. 541, parágrafo único, do CPC, e pelo art. 255, §§ 1º e 2º, do RISTJ.
+Por último, deixo de aplicar a sanção prevista art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
