@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5º, XXXVI, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada neste Supremo Tribunal Federal, cristalizado no enunciado da Súmula Vinculante nº 17, no sentido de que, “Durante o período previsto no parágrafo 1º do art. 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos”, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. CARÁTER PROTELATÓRIO. IMPOSIÇÃO DE MULTA. 1. O acórdão embargado está em conformidade com a jurisprudência desta Corte, que afasta a incidência de juros moratórios no período previsto no art. 100, § 1º (atual § 5º), da Constituição Federal. Desse modo, não foi possível à parte embargante desincumbir-se do ônus da demonstração analítica da divergência jurisprudencial, essencial para viabilizar o conhecimento dos seus embargos 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários de sucumbência. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (RE 602444 AgR-EDv-AgR, Relator(a): Min. Roberto Barroso, Tribunal Pleno, julgado em 12.11.2018, PROCESSO ELETRÔNICO DJe-250 DIVULG 22.11.2018 PUBLIC 23.11.2018)
+    "AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. PRECATÓRIO. PAGAMENTO FORA DO PRAZO CONSTITUCIONAL PREVISTO NO ARTIGO 100, § 5º, DA CONSTITUIÇÃO DA REPÚBLICA DE 1988. INCIDÊNCIA DE JUROS MORATÓRIOS SOMENTE A PARTIR DO PRIMEIRO DIA DO EXERCÍCIO FINANCEIRO SEGUINTE AO QUE O PRECATÓRIO DEVERIA SER PAGO. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.” (RE 1184702 AgR, Relator(a): Min. Luiz Fux, Primeira Turma, julgado em 29.3.2019, PROCESSO ELETRÔNICO DJe-071 DIVULG 05.4.2019 PUBLIC 08.4.2019)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 03 de junho de 2019.
+Ministra Rosa Weber
+Relatora
