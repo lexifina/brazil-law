@@ -1,0 +1,61 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Sindicato Nacional dos Docentes das Instituições de Ensino Superior, com amparo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 1ª Região assim ementado (e-STJ, fls. 266-267):
+ADMINISTRATIVO E PROCESSUAL CIVIL. ART. 523, § 1º. AGRAVO RETIDO. UNIVERSIDADE FEDERAL DE JUIZ DE FORA. LEGITIMIDADE PASSIVA AD CAUSAM. SECRETÁRIA DE RECURSOS HUMANOS DA FUB. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE ESTÍMULO À DOCÊNCIA - GED. LEI N. 9.678/98. MP N. 208/04, CONVERTIDA NA LEI N. 11.087/05. MORA. REGULAMENTAÇÃO. DEVOLUÇÃO DOS VALORES PERCEBIDOS DE BOA-FÉ POR SERVIDORES PÚBLICOS PAGOS POR EQUÍVOCO DA ADMINISTRAÇÃO. APELAÇÃO E REMESSA OFICIAL IMPROVIDAS.
+1. Não se conhece do agravo retido quando não reiterado nas razões ou nas contrarrazões da apelação (CPC, art. 523, § 1º).
+2. Não prospera a alegação de ilegitimidade passiva autoridade coatora. A Fundação Universidade de Brasília - FUB possui autonomia administrativa e financeira, com personalidade jurídica própria, sendo, assim, a Secretaria de Recursos Humanos da FUB desta instituição é competente para praticar ou corrigir o ato impugnado, pois responde de forma plena sobre as questões inerentes a seus servidores, tanto é que o ato guerreado foi praticado pela indigitada autoridade coatora.
+3. A Gratificação de Estímulo à Docência - GED fora criada com a edição da Lei n. 9.678/98, sendo devida aos servidores ocupantes de cargos efetivos de Magistério Superior no total de máximo de 140 pontos.
+4. Após a edição da Lei 11.087/2005, que deu nova redação ao art. 1º, caput, e § 1º, da Lei 9.678/98, a pontuação máxima da Gratificação de Estímulo à Docência - GED fora majorada para o total de 175 (cento e setenta e cinco) pontos.
+5. O art. 23 da Lei 11.087/05 condicionou o pagamento no limite individual de 175 (cento e setenta e cinco) pontos somente após o Poder Executivo estabelecer os moldes que serão realizadas as avaliações do corpo docente.
+6. Considerando que a administração pública encontra-se vinculada ao princípio da legalidade, infere-se que, apesar da norma prever a majoração dos pontos, ela somente poderá ser levada a cabo mediante o cumprimento das condições específicas.
+7. Com efeito, no momento em que o Poder Executivo se abstém de adotar as medidas afetas à sua esfera de competência, no sentido de regulamentar a forma de pontuação que deva incidir sobre Gratificação de Estímulo à Docência - GED, não cabe ao órgão judicante suprir tal inércia.
+8. O entendimento deste Tribunal e do colendo Superior Tribunal de Justiça, quanto à devolução dos valores percebidos de boa-fé por servidores públicos, nos casos que resultarem de equívoco da Administração e para os quais não houve participação do beneficiário, é no sentido de que não há necessidade de ressarcimento.
+9. Agravo retido não conhecido. Apelação e remessa oficial a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 282-289).
+Sustenta o insurgente, em preambular, a nulidade do acórdão impugnado, por suposta persistência das omissões apontadas nos embargos declaratórios, configurando-se violação do disposto nos arts. 458, II, e 535, II, do CPC/1973.
+Declara que o acórdão recorrido foi omisso ao não se pronunciar acerca da mora administrativa e da segurança jurídica dos administrados.
+Alega, no mérito, que, não havendo a normatização com relação às avaliações previstas na Lei n. 11.087/2005, os educadores fazem jus à pontuação máxima, evidenciando que o pagamento da Gratificação de Estímulo à Docência - GED encontra-se desvinculado da atuação específica de ensino, tornando-a uma gratificação decorrente do cargo de magistério.
+Pondera que a mora ilegal da administração em regulamentar as avaliações não pode operar contra o próprio destinatário do direito a ser regulamentado, mas deve orientar seus efeitos contra o órgão a quem incumbido o dever de legislar, impondo a pontuação máxima como forma de cessar a omissão.
+Afirma ainda inexistir vedação ao recebimento da GED em valores que ultrapassem o percentual de 60% da pontuação máxima.
+Finaliza, defendendo que a recorrida deu interpretação equivocada ao parágrafo único do art. 1º da Lei n. 11.807/2005, de modo que o correto seria o pagamento de forma integral da gratificação.
+Contrarrazões às e-STJ, fls. 332-341, propugnando pela negativa de seguimento ao recurso especial ou, subsidiariamente, pelo não provimento.
+Parecer do Ministério Público Federal oficiando pelo improvimento do recurso especial (e-STJ, fls. 413-423).
+É o relatório.
+O recurso não merece conhecimento.
+Verifico que o recorrente aponta como violado o disposto nos arts. 458, II, e 535, II, do CPC/2015 e no parágrafo único do art. 1º da Lei n. 11.807/2005, mas não expõe claramente como o acórdão combatido teria afrontado esses dispositivos.
+A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica.
+Em relação à suposta omissão, o insurgente se limitou a afirmar de forma genérica a ofensa ao referido normativo, sem demonstrar a efetiva relevância dos temas tidos por omissos - da mora administrativa e da segurança jurídica dos administrados - para fins de novo julgamento pela Corte de origem.
+Quanto ao mérito, nem sequer foram indicados quais dispositivos da Lei n. 11.807/2005 teriam sido violados, fazendo o recorrente referência apenas à interpretação errada a preceito inexistente: "parágrafo único do artigo primeiro da Lei n. 11.807/05" (e-STJ, fl. 305).
+Mesmo considerando que se tratou de mero erro material, pois na verdade se quis fazer referência ao art. 2º da lei, as razões recursais não apontaram, de forma específica, como o dispositivo teria sido ofendido.
+Sendo assim, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia, nos termos da Súmula 284/STF.
+Esse é o entendimento desta Corte Superior, conforme explicitam os seguintes acórdãos:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. ÔNUS DA PROVA DE PAGAMENTO. FUNDAMENTAÇÃO DEFICIENTE DO ACÓRDÃO RECORRIDO. PRESUNÇÃO DE LIQUIDEZ E CERTEZA DA CDA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC/73, a parte recorrente não evidenciou qualquer vício, no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 1.001.267/PB, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/8/2017, DJe 24/8/2017)
+ADMINISTRATIVO. POLICIAL MILITAR. PROCEDIMENTO DISCIPLINAR. EXPULSÃO. CONSELHO DISCIPLINAR. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO. REEXAME DE FATOS. INVIABILIDADE. SÚMULA 7/STJ. ATIVIDADE DE CONSULTORIA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO ADOTADO PELA CORTE DE ORIGEM. SÚMULA 283/STF. SÚMULA 284/STF. HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DA FAZENDA PÚBLICA. EXIGIBILIDADE SUSPENSA (ART. 12 DA LEI N. 1.060/50). ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+1. Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp 579.011/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/6/2017, DJe 3/8/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACP. PRETENSÃO DE REGULARIZAÇÕES FUNDIÁRIA E URBANÍSTICA, COM REASSENTAMENTO DE MORADORES, REALIZAÇÃO DE OBRAS DE INFRAESTRUTURA E REPARAÇÃO DE DANOS AMBIENTAIS. IRRESIGNAÇÃO INTERNA APRESENTADA CONTRA DECISÃO QUE NEGOU PROVIMENTO AO ARESP, FORTE NA AUSÊNCIA DE NULIDADE DO ACÓRDÃO DOS ACLARATÓRIOS, NA HARMONIA ENTRE O JULGADO RECORRIDO E A JURISPRUDÊNCIA DOS TRIBUNAIS SUPERIORES E NA AUSÊNCIA DE REALIZAÇÃO DO NECESSÁRIO COTEJO ANALÍTICO, NO TOCANTE À DIVERGÊNCIA JURISPRUDENCIAL ALEGADA. AGRAVO INTERNO DO ESTADO DO RIO GRANDE DO SUL A QUE SE NEGA PROVIMENTO.
+1. Para o acolhimento da alegação de nulidade do acórdão dos Aclaratórios deve a parte recorrente demonstrar a relevância da omissão, o prejuízo jurídico experimentado, dentre outros requisitos (AgRg no AREsp. 237.587/SP, Rel. Min. CASTRO MEIRA, DJe 6.12.2012), elementos não constantes do Apelo Raro, da parte agravante.
+ ..
+4. Agravo Interno do Estado do Rio Grande do Sul a que se nega provimento.
+(AgInt no AREsp 608.721/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/2/2018, DJe 9/3/2018)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEI ESTADUAL N. 4.620/05. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. PREJUÍZOS DECORRENTES DE ERRÔNEA CONVERSÃO DE VENCIMENTOS EM URV. MARCO INICIAL DO PRAZO PRESCRICIONAL. REESTRUTURAÇÃO DA CARREIRA. INCIDÊNCIA DA SÚMULA N. 83/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AGRAVO INTERNO CONTRA DECISÃO FUNDAMENTADA NAS SÚMULAS 83 E 568/STJ (PRECEDENTE JULGADO SOB O REGIME DA REPERCUSSÃO GERAL, SOB O RITO DOS RECURSOS REPETITIVOS OU QUANDO HÁ JURISPRUDÊNCIA PACIFICADA SOBRE O TEMA). MANIFESTA IMPROCEDÊNCIA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. CABIMENTO.
+ ..
+III - A jurisprudência desta Corte considera deficiente a fundamentação do recurso que não aponta o dispositivo de lei federal violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+(AgInt no AgInt no REsp 1.662.353/RJ, Rel. Min. REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/8/2017, DJe 28/8/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA 284/STF. INCIDÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. PROVAS. REEXAME. IMPOSSIBILIDADE.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+2. A matéria referente aos artigos tidos por violados não foi objeto de análise pelo acórdão recorrido, nos termos do enfoque trazido pela ora agravante. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado. Incidência das Súmulas 211/STJ e 282/STF.
+3. Para que fosse possível a revisão do acórdão recorrido, bem como a análise das pretensões recursais, seria imprescindível o reexame da Resolução n. 3/11 da ora agravada, do contrato firmado entre as partes e de todo o substrato fático-probatório constante dos autos.
+Todavia, tais providências são defesas em sede de recurso especial, ante o que preceituam as Súmulas 5 e 7/STJ, sendo certo, ainda, que o entendimento desta Corte é no sentido de que resoluções não são atos normativos equiparados ao conceito de lei federal.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 732.546/MA, de minha relatoria, SEGUNDA TURMA, julgado em 27/10/2015, DJe 12/11/2015)
+Ante o exposto, com fulcro no art. 932,III, do CPC/2015, c/c art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
