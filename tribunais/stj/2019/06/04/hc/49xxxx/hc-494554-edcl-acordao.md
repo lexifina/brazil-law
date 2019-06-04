@@ -1,0 +1,54 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRINCÍPIO DA CELERIDADE E ECONOMIA PROCESSUAL. PRISÃO PREVENTIVA. EXTORSÃO. AUTORIA E MATERIALIDADE DELITIVA. REEXAME FÁTICO-PROBATÓRIO. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA E FUGA. MEDIDAS CAUTELARES. INADEQUAÇÃO. WRIT DENEGADO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Embargos de declaração recebidos como agravo regimental, em homenagem ao princípio da celeridade e economia processual.
+2. A decisão agravada deve ser mantida por seus próprios fundamentos, pois em sintonia com a jurisprudência desta Corte Superior.
+3. No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+4. Apresentada fundamentação concreta, evidenciada na reiteração delitiva, tendo em vista as evidência indicativas de reiterada extorsões por parte do acusado e na fuga do paciente, que, mesmo com mandado de prisão temporária contra ele expedido não foi localizado em endereço algum,  ..  havendo indicações de que o réu esconde-se para frustrar a futura aplicação da lei penal, que também é um motivo autorizador de sua prisão preventiva além da reiteração de conduta delituosa, não se verifica manifesta ilegalidade.
+5. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+6. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, receber os embargos de declaração como agravo regimental e lhe negar provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de embargos de declaração opostos por [NOME] à decisão de fls. 522-524 que denegou o habeas corpus.
+Sustenta o embargante, em síntese, que a decisão embargada precisa ser sanada, por haver contradição quando há afirmação de que não é possível aferir autoria e materialidade em habeas corpus, mas consta análise de elementos dos autos para concluir que existe reiteração delitiva.
+Assevera, também, omissões, por não existir manifestação acerca dos predicados pessoais favoráveis e do parecer do Parquet estadual favorável à revogação da prisão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Sustenta o embargante que há contradição quando verifica-se afirmação de que não é possível aferir autoria e materialidade em habeas corpus, mas consta análise de elementos dos autos para concluir que existe reiteração delitiva, bem como omissões, por não existir manifestação acerca dos predicados pessoais favoráveis e do parecer do parquet estadual favorável à revogação da prisão.
+Em respeito ao princípio da fungibilidade, da instrumentalidade das formas, da ampla defesa e da efetividade do processo, inexistindo propósito de sanar vício, mas de modificar a decisão, recebo os embargos de declaração como agravo regimental, considerando também o fato de terem sido opostos dentro do quinquídio legal. Nesse sentido: EDcl nos EAREsp 556.384/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 11/04/2018, DJe 07/05/2018; EDcl nos EAREsp 761.274/PR, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 06/04/2016, DJe 06/05/2016.
+A decisão agravada denegou o habeas corpus pelos seguintes fundamentos (fls. 522-524):
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo que denegou o writ de origem, por acórdão assim ementado (fl. 37):
+HABEAS CORPUS - Liberdade provisória - Presença dos pressupostos autorizadores da segregação cautelar - Requisitos exigidos para responder ao processo em liberdade não comprovados - Ordem denegada.
+O paciente responde pela prática do crime tipificado no art. 158 do Código Penal.
+O impetrante busca a revogação da prisão preventiva ou a aplicação de medidas alternativas, sob o argumento de que não há indícios de autoria e materialidade, bem como por não haver fundamentação idônea para determinar a prisão.
+Nesse sentido, requer a concessão do habeas corpus para revogar a custódia ou impor cautelares diversas.
+A liminar foi indeferida.
+As informações solicitadas constam dos autos.
+O Ministério Público manifestou-se pelo não conhecimento.
+Na origem, a ação penal n. 0017188-41.2015.8.26.0564 está em fase de instrução com audiência designada para o dia 12/8/2019, conforme informações processuais eletrônicas disponíveis em 23/4/2019.
+É o relatório.
+DECIDO.
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Por outro lado, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+As decisões que indeferiram os pedidos de revogação da prisão preventiva estão assim fundamentadas (fls. 73-74 e 297-298):
+ .. . De modo as evidência indicativas de reiterada extorsões por parte do acusado autorizam a manutenção da decisão de fls. 102/104.
+ ..
+Desta forma, INDEFIRO o pedido formulado e mantenho a prisão preventiva do acusado  ..
+ ..  É certo que permanecem integros os motivos autorizadores da custódia od acusado.
+Há evidência a indicar que o acusado reiteradamente praticou delitos de extorsão, sendo este mais um dentre outras condutas delitivas.
+Além disso, é certo que mesmo com mandado de prisão temporária contra ele expedido não foi localizado em endereço algum (vide relatório de fls. 47).
+No momento, aguarda-se o cumprimento de diversas precatórios expedidas visando a citação e intimação do réu (fls. 152/157), havendo indicações de que o réu esconde-se para frustrar a futura aplicação da lei penal, que também é um motivo autorizador de sua prisão preventiva além da reiteração de conduta delituosa.
+Assim, por ainda estarem presente os motivos autorizadores de sua prisão preventiva, indefiro o pedido.  ..
+Como já adiantado no exame da liminar, a manutenção da segregação tem fundamento na reiteração delitiva e na fuga, evidenciadas nas circunstâncias fáticas, haja vista a referência a repetidas extorsões praticadas pelo paciente, bem como ao fato de que, decretada a prisão temporária em 30/6/2015 (fl. 139) e convertida em preventiva no dia 31/7/2015 (fls. 173/174), o paciente ainda furta-se à aplicação da lei penal, razões, portanto, aptas a ensejarem a constrição.
+Esta Corte também tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+É pacífico o entendimento desta Corte Superior, que a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal. Confira-se: RHC n. 52.178/DF - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe 2/12/2014; HC n. 289636/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 46439/PR - 5ª T. - unânime - Rel. Min. Marco Aurélio Bellizze - DJe 2/5/2014; HC n. 261383/MG - 5ª T. - Rel. Min. Laurita Vaz - DJe 3/4/2014; HC n. 189212/MG - 6ª T. - unânime - Rel. Min. Marilza Maynard - Des. convocada do TJSE - DJe 12/12/2013. Em igual sentido a jurisprudência do Supremo Tribunal Federal, v.g.: HC n. 120794/MG - 1ª T. - Rel. Min. Luiz Fux - DJe 8/5/2014; HC n. 115045/SP - 1ª T. - Min. Rosa Weber - DJe 23/4/2013; HC n. 111691/SP - 2ª T. - unânime Rel. Min. Gilmar Mendes - DJe 20/11/2012; HC n. 112738/SP - 2ª T. - unânime - Rel. Min. Ricardo Lewandowski - DJe 21/11/2012.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego o habeas corpus.
+Assim, não vislumbro motivo para conclusão diversa, pois a decisão agravada encontra-se em sintonia com a jurisprudência desta Corte Superior.
+Cumpre ressaltar, por oportuno, que, para a decretação da prisão preventiva, é necessária a indicação de indícios de autoria e de materialidade do delito, o que foi realizado no decreto prisional, sendo que, assim como demonstrado, no procedimento do habeas corpus não se permite a produção de provas, razão pela qual a questão referente à suficiência ou robustez do material probatório colhido deve ser reservada à instrução processual.
+No mesmo sentido, mostra-se incabível o exame da alegação referente à não ocorrência da fuga do acusado, porquanto demanda revolvimento de prova, razão pela qual essa questão não foi apreciada na decisão agravada, a qual se limitou a apreciar a idoneidade da fundamentação utilizada para decretação da custódia cautelar.
+Além disso, os predicados pessoais, por si, não tem o condão de afastar a custódia cautelar, especialmente por haver fundamentação concreta para a justificar, assim como demonstrado no ponto referente à inadequação das medidas alternativas, pois, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+Por fim, inexiste obrigatoriedade em se apreciar os motivos lançados no parecer ministerial na instância de origem, favorável à pretensão do embargante, como condição sine qua non para valorar a justificação da prisão.
+Ante o exposto, voto por receber os embargos de declaração como agravo regimental, ao qual se nega provimento.
