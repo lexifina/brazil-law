@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+EMBARGOS À EXECUÇÃO EXTRAJUDICIAL. PRELIMINAR DE ILEGITIMIDADE PASSIVA AFASTADA. LIQUIDEZ DO TITULO EXECUTIVO. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS. CÓPIA DO CONTRATO. IMPOSSIBILIDADE DE ANÁLISE DAS ALEGAÇÕES DA APELAÇÃO.
+I - A renúncia tácita decorre de circunstâncias explícitas, que revelem de modo inequívoco a intenção da renúncia da solidariedade pelo credor. A execução movida contra todos os devedores, de forma conjunta, não implica, em absoluto, renúncia a solidariedade passiva.
+II - Da narrativa da própria embargante, ora apelante, depreende-se que a inicial da execução foi instruída com a nota promissória e a cópia do contrato que a originou.
+Verifica-se, ainda, cópia do demonstrativo de débito atualizado, sendo forçoso concluir que os documentos coligidos aos autos são suficientes ao ajuizamento da ação executiva, não havendo que se falar em iliquidez.
+III - É ônus da apelante juntar os embargos as cópias dos documentos essenciais ao julgamento do recurso interposto, sob pena de restar inviabilizada a apreciação dos fundamentos do recurso de elação.
+IV - Apelação não provida.
+A recorrente sustenta que o acórdão estadual é omisso; quando da interposição dos embargos à execução, em 1991, a redação das normas processuais de regência não exigiam a instrução da inicial com cópias do processo de execução; previamente à exigência desses documentos, necessário seria a intimação da parte para emendar a inicial.
+Não se vislumbra ofensa ao art. 535 do Código de Processo Civil, pois a Corte de origem tratou do tema da separação dos processos e seu reflexo, em sede de embargos declaratórios, in verbis (fls. 197/198 e-STJ):
+O aresto impugnado concluiu que "será ônus da apelante juntar aos embargos as cópias dos documentos essenciais ao julgamento do recurso interposto, sob pena de restar inviabilizada a apreciação dos fundamentos do recurso de apelação".
+Para tanto, considerou que os embargos à execução possuem natureza jurídica de ação autônoma, razão pela qual deveriam preencher as condições da ação, e, ainda, os requisitos capitulados nos arts. 282 e 283 da Lei Adjetiva Civil.
+Partindo "de tais premissas, assentou o entendimento de que, não tendo a parte embargante, ora apelante, juntado aos autos cópia da nota promissória e do contrato (Escritura de Confissão e Consolidação de Dívida e outros pactos) da execução impugnada, imprescindíveis ao exame de questões deduzidas no recurso, esta Corte Recursal resta impossibilitada de formar um juízo de convencimento e proceder ao julgamento do feito nas questões referentes à atualização monetária e taxas de juros a serem aplicadas à espécie.
+(..)
+Note-se que o aresto impugnado concluiu que, em sede de embargos à execução, em havendo o oferecimento de recurso de apelação, uma vez desapensados os autos dos embargos do feito executivo, caberia ao apelante o ônus de juntar aos embargos as cópias necessárias à devida compreensão das questões suscitadas no recurso de apelação.
+Com efeito, o Tribunal de origem entendeu que era obrigação da parte juntar os documentos quando da interposição da apelação, independentemente de intimação para tanto.
+Mas desapensados os autos, cabia a intimação da parte para corrigir o vício, de modo que não se pode exigir que se antecipe e pratique o ato. Sendo assim, de acordo com a jurisprudência desta Corte, o magistrado não poderia deixar de examinar os pontos da apelação que demandavam o exame direto dos títulos que instruem a execução, sem oportunizar formalmente a emenda da inicial. Nesse sentido:
+RECURSO ESPECIAL - AÇÃO DE BUSCA E APREENSÃO - DETERMINAÇÃO DE EMENDA À INICIAL A FIM DE QUE FOSSE APRESENTADO O TÍTULO ORIGINAL DA CÉDULA DE CRÉDITO BANCÁRIO - PROVIDÊNCIA NÃO ATENDIDA SEM CONSISTENTE DEMONSTRAÇÃO DA INVIABILIDADE PARA TANTO - TRIBUNAL A QUO QUE MANTEVE A SENTENÇA DE INDEFERIMENTO DA PETIÇÃO INICIAL, NOS TERMOS DO ART. 267, INC. I, DO CPC, POR AFIRMAR QUE A CÓPIA DO CONTRATO DE FINANCIAMENTO É INÁBIL PARA EMBASAR A DEMANDA. INSURGÊNCIA DA CASA BANCÁRIA.
+Hipótese: Controvérsia acerca da necessidade de apresentação do título original do contrato de financiamento com garantia fiduciária (cédula de crédito bancário) para instruir a ação de busca e apreensão.
+ ..
+Desta forma, quer por força do não-preenchimento dos requisitos exigidos nos arts. 282 e 283 do CPC, quer pela verificação de defeitos e irregularidades capazes de dificultar o julgamento de mérito, o indeferimento da petição inicial, após a concessão de prévia oportunidade de emenda pelo autor (art. 284, CPC), é medida que se impõe. Precedentes.
+3. Recurso especial desprovido.
+(REsp 1277394/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/02/2016, DJe 28/03/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E EMPRESARIAL. VIOLAÇÃO À LEI 6.015/1973 E À MP 2.200-2/2002. OFENSA GENÉRICA. SÚMULA 284/STF. ARTS. 154 E 365 DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. PEÇA OBRIGATÓRIA (ART. 29, § 3º, DA LEI 10.931/2004). AUSÊNCIA. NÃO ATENDIMENTO DE EMENDA DA INICIAL PARA JUNTADA DE ORIGINAL DE TÍTULO EXECUTIVO EXTRAJUDICIAL. EXTINÇÃO DO PROCESSO. PROVIMENTO NEGADO. (..)
+3. A jurisprudência desta Corte Superior é firme no sentido de que cabe ao Juízo, quando a parte instrui a inicial com cópia autenticada do título executivo, abrir prazo para que emende a inicial juntando o título original. Tendo o demandante deixado transcorrer in albis o prazo para colacionar a via original da cédula de crédito, é cabível ao magistrado, então, julgar extinto o feito.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 605.423/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/09/2015, DJe 01/10/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. PETIÇÃO INICIAL. DEMONSTRAÇÃO DE HIPÓTESE AUTORIZADORA DE RECLAMAÇÃO PERANTE O STJ. AUSÊNCIA. EMENDA À INICIAL. DEFICIÊNCIA MANTIDA. INDEFERIMENTO DA PETIÇÃO, COM A EXTINÇÃO DO PROCESSO, SEM A RESOLUÇÃO DO MÉRITO. AGRAVO IMPROVIDO. (..)
+2. Determinada a emenda da peça de início, na forma do art. 284 da lei processual, se o autor da ação não corrige a deficiência, impõe-se seja indeferida, extinguindo-se o processo sem a resolução do mérito. Inteligência da regra dos arts. 295, I e parágrafo único, II, c.c. art. 267, I, do CPC.
+3. Agravo regimental a que se nega provimento.
+(AgRg na Rcl 11.074/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 13/08/2014, DJe 26/08/2014)
+Em face do exposto, dou provimento ao recurso especial para anular o acórdão de embargos declaratórios, e determinar que a embargante seja intimada para juntar os títulos em que se funda a execução.
+Intimem-se.
