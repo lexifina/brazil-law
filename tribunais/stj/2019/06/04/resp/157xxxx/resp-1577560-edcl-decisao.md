@@ -1,0 +1,15 @@
+EMENTA
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+DECISÃO
+Trata-se de segundos embargos de declaração opostos contra decisão, assim ementada (fls. 1.297-1.298):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 545 DO CPC/1973. AUSÊNCIA. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 28,86%. EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA. ACORDO EXTRAJUDICIAL ANTERIOR À MEDIDA PROVISÓRIA 2.169/2001. DISPENSA DE HOMOLOGAÇÃO JUDICIAL EXECUÇÃO DE SENTENÇA COLETIVA. AUSÊNCIA DE AÇÃO INDIVIDUAL. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. RECURSO NÃO PROVIDO.
+Os embargantes argumentam que a violação à coisa julgada foi devidamente suscitada em sede de apelação e "não configura inovação recursal" (fl. 1.323). Requer, ao final, o acolhimento dos embargos de declaração a fim de que se proceda a "análise da violação à coisa julgada apontada em sede de recurso especial" (fl. 1.328).
+Impugnação às fls. 1.333-1.336.
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Cabe anotar que os embargantes desde da origem se insurgem contra sentença que, em sede de embargos à execução, extinguiu a execução em relação aos autores que firmaram acordo administrativo sobre diferenças relativas ao reajuste de 28,86%. O Tribunal a quo manteve a sentença ao fundamento de que o acordo administrativo celebrado nos termos da Medida Provisória n. 1.704/1998 deve ser prestigiado, e constitui ato jurídico perfeito, gerador de efeitos, independentemente de homologação judicial, a qual só é exigida quando o servidor tiver ação em curso.
+No julgamento dos primeiros aclaratórios firmou-se entendimento no sentido de que "acerca de violação à julgada, constata-se que o recurso não merece ser conhecido, haja vista que não foi mencionada referida tese no recurso de apelação, mas apenas em sede de embargos de declaração, caracterizando, assim, inovação recursal". No presente recurso os embargantes insistem que a violação à coisa julgada foi devidamente suscitada em sede de apelação e "não configura inovação recursal" (fl. 1.323).
+Com efeito, a matéria trazida nos segundos embargos de declaração está relacionada à qualidade do julgado e não a eventual omissão, obscuridade ou contradição a ser suprida. Procura o embargante, por via reflexa, discutir novamente a questões já decididas. Consoante jurisprudência do STJ, os aclaratórios "não podem conduzir a novo julgamento, com a reapreciação do que ficou decidido" (EDcl nos EREsp 1.106.999/SC, Rel. Ministro Moura Ribeiro, Segunda Seção, DJe 24/5/2019).
+Dessa forma, inexistentes as hipóteses do artigo 1.022 do Código de Processo Civil/2015, os embargos de declaração não merecem conhecimento.
+Ante o exposto, não conheço dos embargos de declaração.
+Publique-se. Intimem-se.
