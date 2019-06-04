@@ -1,0 +1,36 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BRUNA GIUDICE RIBEIRO E OUTRO, contra decisão denegatória do seguimento de recurso especial, por sua vez manejado com amparo na alínea "c" do permissivo constitucional, objetivando a reforma de acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado:
+APELAÇÕES CÍVEIS - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - SERVIÇO DE COMPRA PARCELADA PELA INTERNET - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - FALHA NA PRESTAÇÃO DO SERVIÇO EVIDENCIADA - PARTE REQUERIDA QUE NÃO SE DESINCUMBIU DO ÔNUS DE COMPROVAR O PARCELAMENTO CONVENCIONADO - CONFIGURAÇÃO DO DANO MORAL - MANUTENÇÃO DO VALRO ARBITRADO EM R$ 1000,00 - RECURSOS CONHECIDOS E DESPROVIDOS - DECISÃO UNÂNIME.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte suscita divergência jurisprudencial na interpretação dos arts. 186, 187 e 927 do CC, afirmando que realizou compra parcelada pela internet, a qual, em razão de falha na prestação dos serviços, foi cobrada em parcela única, ou seja, sem o parcelamento. Colaciona arestos do Tribunal de Justiça do Estado de Sergipe de casos semelhantes em que a mesma situação ensejou condenação em danos morais no montante de R$ 5.000,00, alegando ainda não ser o caso aplicação da Súmula 7/STJ.
+O recurso recebeu crivo negativo de admissibilidade na origem (fls. 315-318), decisão contra a qual foi interposto o presente agravo (fls. 324-329).
+É o relatório. Decido.
+2. Inicialmente, conheço do agravo tendo em vista o preenchimento dos requisitos de admissibilidade, a saber, a tempestividade, adequada representação processual e impugnação específica de todos os fundamentos da decisão agravada.
+O recurso não merece prosperar, pois, não restou aperfeiçoado o apontado dissídio jurisprudencial, uma vez que os paradigmas colacionados são todos oriundos do mesmo Tribunal prolator do acórdão recorrido (Sumula 13/STJ).
+Com efeito, a admissibilidade do recurso especial fundado na alínea "c" do permissivo constitucional requer a demonstração de que Tribunais distintos tenham dado interpretação divergente a um mesmo tema ou a uma mesma questão.
+Veja-se:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANO MORAL. PROTESTO INDEVIDO. DANO IN RE IPSA. DIVERGÊNCIA JURISPRUDENCIAL. ACÓRDÃO DO MESMO TRIBUNAL. SÚMULA N. 13/STJ.
+1. Nos casos de protesto indevido de título de crédito, o dano extrapatrimonial é considerado in re ipsa.
+2. A admissibilidade de recurso especial fundado na alínea "c" do permissivo constitucional pressupõe que tribunais distintos tenham interpretado o mesmo tema de maneira divergente. Súmula n. 13/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 392.460/SP, TERCEIRA TURMA, Rel. Ministro JOÃO OTÁVIO DE NORONHA, julgado em 1/4/2014, DJe 8/4/2014)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE POSSIBILIDADE DE SE COMPENSAR TRIBUTOS DE ESPÉCIES DIVERSAS. RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA ENTRE JULGADOS DO MESMO TRIBUNAL. SÚMULA 13 DO STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O recurso não comporta provimento, isso porque o recorrente não realizou o necessário cotejo analítico entre o acórdão recorrido e o paradigma conforme previsto pelo art. 541, parág. único do CPC, e art. 255, §§ 1o. e 2o. do Regimento Interno desta Corte.
+2. Além disso, o acórdão transcrito e indicado como paradigma é oriundo do mesmo Tribunal, o que atrai a incidência da Súmula 13/STJ, segundo a qual a divergência entre julgados do mesmo Tribunal não enseja Recurso Especial.
+3. Agravo Regimental a que se nega provimento.
+(AgRg no AREsp 435.938/RS, PRIMEIRA TURMA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, julgado em 18/3/2014, DJe 27/3/2014)
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO.  ..  DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO.
+1. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+2. À caracterização do dissídio jurisprudencial, nos termos dos artigos 541, parágrafo único, do Código de Processo Civil e 255, parágrafos 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça, é necessária a demonstração da similitude de panorama de fato e da divergência na interpretação do direito entre os acórdãos confrontados.
+3. "A divergência entre julgados do mesmo tribunal não enseja recurso especial" (Súmula 13/STJ).
+4. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1.193.892/RS, QUARTA TURMA, Rel. Ministra MARIA ISABEL GALLOTTI, julgado em 18/2/2014, DJe 14/3/2014)
+Em suma, a citação de julgados da lavra do próprio Tribunal prolator da decisão impugnada, caso dos autos, não se mostra servil para a configuração de dissídio interpretativo, pelo que, na espécie, incide o óbice da Súmula 13/STJ.
+3. Não fosse isso, destaca-se que quanto ao pleito de redução do montante da condenação em danos morais, mister destacar que o Tribunal a quo manteve a condenação em R$ 1.000,00 (mil reais).
+O Superior Tribunal de Justiça firmou orientação no sentido de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou o caráter irrisório da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+A respeito do tema, salientou o eminente Ministro ALDIR PASSARINHO JUNIOR: "A intromissão do Superior Tribunal de Justiça na revisão do dano moral somente deve ocorrer em casos em que a razoabilidade for abandonada, denotando um valor indenizatório abusivo, a ponto de implicar enriquecimento indevido, ou irrisório, a ponto de tornar inócua a compensação pela ofensa efetivamente causada" (REsp 879.460/AC, Quarta Turma, DJe de 26/4/2010).
+No caso vertente, entende-se ser razoável o quantum fixado pela instância ordinária, a título de danos morais, correspondente a R$ 1.000,00 (mil reais). Dessa forma, não há que se falar em condenação desproporcional com relação à extensão do dano, máxime porque fixada dentro de parâmetros razoáveis. Em suma, impõe-se a manutenção do valor arbitrado, a fim de atender aos princípios da proporcionalidade e da razoabilidade, evitando-se o indesejado enriquecimento sem causa, sem, contudo, ignorar o caráter preventivo e pedagógico inerente ao instituto da responsabilidade civil.
+Por fim, impõe-se anotar que a incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.086.048/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 21/06/2011, DJe de 13/09/2011; EDcl no Ag 984.901/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/03/2010, DJe de 05/04/2010; AgRg no REsp 1.030.586/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 30/05/2008, DJe de 23/06/2008.
+4. Ante o exposto, com fulcro nos fundamentos acima aduzidos, nego provimento ao recurso.
+Publique-se. Intimem-se.
