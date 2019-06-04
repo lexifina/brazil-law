@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos em face da decisão de fls. 419/423 e-STJ, que deu parcial provimento ao agravo em recurso especial, nos seguintes termos:
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+REEXAME DO ART. 1.040, II, DO NOVO CPC. AÇÃO REVISIONAL DE CONTRATO C/C REPETIÇÃO DE INDÉBITO. PLANO DE SAÚDE. MUDANÇA DE FAIXA ETÁRIA. REAJUSTE DAS MENSALIDADES. PRESCRIÇÃO TRIENAL. RECURSO REPETITIVO. REPOSICIONAMENTO.
+ACÓRDÃO REFORMADO. O Superior Tribunal de Justiça, ao julgar o Recurso Especial nº 1360.969-RS, datado de 19/09/2016, pacificou a divergência que existia sobre a matéria, proclamando que "cuidando-se de pretensão de nulidade de cláusula de reajuste prevista em contrato de plano ou seguro de assistência à saúde ainda vigente, com a consequente repetição do indébito, a ação ajuizada está fundada no enriquecimento sem causa e, por isso, o prazo prescricional é o trienal de que trata o art. 206, § 3º, IV, do Código Civil de 2002." Destarte, impõe-se o acolhimento da prescrição trienal para atender à orientação do Colendo STJ.
+(..)
+No que se refere à prescrição, a Corte de origem assim manifestou seu entendimento:
+De inicio, cumpre realçar que, na ocasião do julgamento da Apelação nº 1.0024.14.281912-7/002, tendo em vista a controvérsia existente nos Tribunais Superiores, inclusive no próprio STJ, adotava o entendimento de que o prazo prescricional relativo à pretensão de discussão de cláusulas dos contratos de plano de saúde c/c repetição do indébito era quinquenal nos termos do art. 27 do Código de Defesa do Consumidor.
+Todavia, considerando que a Segunda Seção do STJ, ao julgar o Recurso Especial nº 1360.969 -RS, datado de 19/09/2016, pacificou a divergência que existia sobre a matéria, proclamando que "cuidando-se de pretensão de nulidade de cláusula de reajuste prevista em contrato de plano ou seguro de assistência à saúde ainda vigente, com a consequente repetição do indébito, a ação ajuizada está fundada no enriquecimento sem causa e, por isso, o prazo prescricional é o trienal de que trata o art. 206, § 3º, IV, do Código Civil de 2002", em reposicionamento, passo a adotar essa nova orientação jurisprudencial do Superior Tribunal de Justiça.
+Feitas tais considerações, analisando o caso concreto, infere-se que o autor-apelante questionou o reajuste das mensalidades do plano de saúde a partir de 26/10/2002.
+(..)
+Sendo assim, o autor-apelante poderia propor a ação até de janeiro de 2006, mas o feito só foi distribuído em 08/10/2014, pelo que não resta dúvida quanto à ocorrência da prescrição.
+(..)
+O exame da petição inicial, contudo, revela que o autor requer a revisão da cláusula que estabeleceu o reajuste por faixa etária, alegando sua excessiva onerosidade. A Corte de origem olvidou que se trata de relação de trato sucessivo, situação expressamente contemplada no acórdão que pacificou a questão, proferido no rito dos recursos especiais repetitivos:
+(..)
+2. Nas relações jurídicas de trato sucessivo, quando não estiver sendo negado o próprio fundo de direito, pode o contratante, durante a vigência do contrato, a qualquer tempo, requerer a revisão de cláusula contratual que considere abusiva ou ilegal, seja com base em nulidade absoluta ou relativa. Porém, sua pretensão condenatória de repetição do indébito terá que se sujeitar à prescrição das parcelas vencidas no período anterior à data da propositura da ação, conforme o prazo prescricional aplicável.
+(..)
+(REsp 1.360.969/RS, Relator p/ Acórdão Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, DJe 19/9/2016)
+Com efeito, no caso dos autos, por se tratar de relação de trato sucessivo, a prescrição trienal não atinge o fundo de direito, mas sim a exigibilidade das parcelas pagas a mais de três anos do ajuizamento da ação. Portanto, persiste a pretensão do autor quanto a mensalidades não fulminadas pela prescrição, de sorte que o processo deverá retornar ao juízo singular de origem para o exame do pedido inicial, superado o tema ora analisado.
+A parte embargante sustenta que a decisão é omissa no que tange a nova fixação de honorários em face do provimento do recurso especial, além da suscitada incorreção dos honorários fixados pelas instâncias ordinárias.
+Sem razão, contudo.
+Por óbvio, não há de se fixar honorários no caso dos autos, em que se deu provimento ao próprio recurso especial para anular o acórdão que julgou a apelação, afastando a prescrição quanto às parcelas não atingidas pelo prazo trienal. Deverá haver novo pronunciamento pela Corte de origem quanto ao mérito da apelação, o que ensejará, assim, alteração dos ônus sucumbenciais fixados na sentença. Não é caso, outrossim, de aplicação do art. 85, § 11, do CPC, não se cogitando da majoração de honorários que ainda serão fixados na instância de origem.
+À luz do exposto, rejeito os embargos declaratórios.
+Intimem-se.
