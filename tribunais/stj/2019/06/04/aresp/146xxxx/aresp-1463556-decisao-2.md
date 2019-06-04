@@ -1,0 +1,42 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ANTONIO CARLOS MARTINS DE CASTRO - ESPÓLIO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim ementado:
+PROCESSO CIVIL. APELAÇÕES. CONSUMIDOR. PLANO DE SAÚDE.
+AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE DANOS MORAIS.
+PACIENTE COM CÂNCER DE PULMÃO. NECESSIDADE DE REALIZAÇÃO DE EXAMES. NEGATIVA INDEVIDA DO PLANO DE SAÚDE. DANO MORAL CONFIGURADO. VALOR DA INDENIZAÇÃO RAZOÁVEL E PROPORCIONAL.
+SENTENÇA MANTIDA.
+[NOME] casu, o magistrado condenou a promovida a pagar ao espólio do demandante uma indenização no valor de R$ 10.000,00 (dez mil reais) a título de danos morais.
+A seguradora apelou da decisão, alegando, preliminarmente, sua ilegitimidade passiva, vez que o promovente era usuário da Central Nacional Unimed. No mérito, defende a ausência de comprovação dos danos morais sofridos, requerendo a redução da indenização. A parte adversa, em seu recurso, requer a majoração da condenação em danos morais.
+II. A jurisprudência deste Sodalício tem entendido pela legitimidade das pessoas jurídicas pertencentes à Unimed, independentemente de qual delas se encontra no contrato de plano de saúde, porquanto todas integram o mesmo grupo econômico.
+Tratando-se a Unimed de uma rede de cooperativas de âmbito nacional, não há o que se falar em ilegitimidade passiva ad causam da UNIMED de Fortaleza (CE). É de se rejeitar, portanto, a alegação da promovida, no sentido de que é parte ilegítima para estar na presente demanda.
+III. Nos casos em que o Plano de Saúde nega a cobertura de tratamentos aos seus segurados, é devida a condenação em danos morais, em razão de todo o sofrimento psicológico acrescentado ao segurado que, por já estar doente, com toda certeza, encontra-se fragilizado. Tendo em vista a ausência de critério legal orientador para a fixação do quantum indenizatório, o Superior Tribunal de Justiça assentou a necessidade de observância dos princípios da razoabilidade e da proporcionalidade, motivo pelo qual a indenização por danos morais arbitrada na decisão recorrida deve ser mantida, vez que razoável e suficiente para compensar o dano sofrido e atender o caráter pedagógico da medida.
+IV. Apelações conhecidas e improvidas.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial (fls. 537/549), aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 489, § 1º, VI, 1.022 e 1.025 do, CPC de 2015, 186 e 944, do CC.
+Alega ter havido omissão no acórdão que apreciou os embargos de declaração, pois não tratou das ponderações da parte agravante em relação à ínfima indenização.
+No mais, diz que os danos morais foram fixados de forma irrisória (R$ 10.000,00 - dez mil reais), pugnando pela sua majoração.
+É o relatório. DECIDO.
+2. Não há falar em violação aos arts. 1.022 e 1.025, do CPC/2015, pois o Egrégio Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes. Além disso, basta ao órgão julgador que decline as razões jurídicas que embasaram a decisão, não sendo exigível que se reporte de modo específico a determinados preceitos legais.
+3. Também não se verifica a alegada vulneração do artigo 489 do Código de Processo Civil de 2015, por ausência de fundamentação no acórdão, o qual apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas.
+O teor do acórdão recorrido resulta de exercício lógico, ficando mantida a pertinência entre os fundamentos e a conclusão. Ao contrário, verifica-se mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o eventual provimento do recurso nessa parte.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO DE DANOS MORAIS. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. VIOLAÇÃO DO ART. 489, § 1º, IV E VI, DO CPC/2015. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. Indicação do dispositivo legal violado. Ausente. Súmula 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+ .. .
+3. Inexiste afronta ao art. 489, § 1º, IV, do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+4. A ausência de decisão acerca dos argumentos invocados pelo agravante em suas razões recursais, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O recurso especial não pode ser conhecido quando a indicação expressa do dispositivo legal violado está ausente.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1665837/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/06/2017, DJe 23/06/2017) - g.n.
+4. Por fim, quanto ao pedido de majoração do quantum indenizatório, ressalta-se que nos termos da jurisprudência consolidada nesta Corte Superior, em regra, não é cabível, nesta via especial, o reexame do valor reparatório, em razão de que tal providência depende da reavaliação de fatos e provas (Súmula n. 7/STJ).
+Desse modo, a revisão do valor da indenização somente é possível quando exorbitante ou insignificante a importância arbitrada, em flagrante violação dos princípios da razoabilidade e da proporcionalidade. Precedentes: REsp 686.050/RJ, 1ª Turma, Min. Luiz Fux, DJ de 27.06.2005; AgRg no Ag 605927/BA, Min. Denise Arruda, DJ de 04.04.2005; REsp 734.741/MG, Min. Teori Albino Zavascki, DJ de 27.03.2006.
+Na espécie, verifico que o valor fixado na origem não se mostra desproporcional aos danos sofridos, uma vez que a quantia fixada em R$ 10.000,00 (dez mil reais) foi arbitrada dentro dos critérios de razoabilidade e proporcionalidade.
+Nesse contexto, fica evidente que, para o acolhimento da tese da parte recorrente, seria imprescindível exceder os fundamentos colacionados no acórdão recorrido e adentrar no exame das provas. Todavia, é inviável essa referida prática em recurso especial, em razão do óbice da Súmula 7/STJ.
+5. Ademais, importante frisar, em relação à alegada divergência jurisprudencial relacionada aos danos morais, a impossibilidade de estabelecer juízo de valor acerca da semelhança dos pressupostos fáticos dos acórdãos confrontados, pois, tratando-se de dano moral, cada caso tem peculiaridades próprias - circunstâncias em que o fato ocorreu, condições do ofensor e do ofendido, grau de repercussão do fato no âmbito moral da vítima -, as quais determinam a aplicação do direito à espécie.
+Dessa forma, ainda que haja grande semelhança nas características externas e objetivas, os acórdãos, no aspecto subjetivo, são distintos, tornando incabível a análise do recurso com base no dissídio. A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. INEXISTÊNCIA DE SIMILITUDE FÁTICA ENTRE O ACÓRDÃO E OS PARADIGMAS TRAZIDOS A CONFRONTO. VALOR ESTABELECIDO PARA REPARAÇÃO DE DANO MORAL. IMPOSSIBILIDADE DE EXAME. EMBARGOS DE DIVERGÊNCIA NÃO-CONHECIDOS.
+1. Trata-se de embargos de divergência que impugna acórdão proferido pela Terceira Turma que, entendendo excessiva a importância de 1.500 salários mínimos atribuídos à reparação de danos morais, reduziu esse valor para R$ 5.000,00 (cinco mil reais).
+2. A via dos embargos de divergência, por sua própria natureza, exige a perfeita correspondência entre as situações fáticas que foram apreciadas. De tal maneira, no que se refere à valoração de dano moral, a demonstração de identidade dos fatos ocorridos e julgados é de dificílima caracterização. Até porque, embora procure se estabelecer um parâmetro de valor indenizatório, o quantum que atenda ao objetivo reparatório tutelado pelo direito, precisa, caso a caso, ser definido.
+3. Não se verifica, na hipótese dos autos, diversidade de tratamento jurídico aplicado a situações inteiramente idênticas, o que afasta o indicado dissenso pretoriano.
+4. Embargos de divergência não-conhecidos." (Corte Especial, EREsp n. 472.790/MA, relator Ministro José Delgado, DJ de 13.3.2006.)
+6. Ante o exposto, nego provimento ao agravo de ANTONIO CARLOS MARTINS DE CASTRO - ESPÓLIO.
+Publique-se. Intimem-se.
