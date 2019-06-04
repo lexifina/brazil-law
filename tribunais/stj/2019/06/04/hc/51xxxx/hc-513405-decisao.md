@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ERIVAN CAIO OLIVEIRA PEREIRA DA SILVA, contra o indeferimento de idêntica medida na origem.
+Sustenta o impetrante que não há fundamentação concreta e idônea na decisão que decretou a prisão preventiva do paciente.
+Aduz, para tanto, que "inexiste suporte idôneo para justificar a segregação cautelar aflitiva, esfera jurisdicional esta em que se consagra como dogma a privação da liberdade como mecanismo insuperável para persecução processual penal, diversamente do que foi operado na respeitável decisão monocrática, onde se extrai conjecturas e correlação com a gravidade em abstrato do próprio tipo penal, sendo clara a presunção de culpabilidade apenas por ter sido processado pelo mesmo delito, tudo a transformar a segregação cautelar em antecipação de teórica tutela penal condenatória" (fl. 8).
+Postula, ao final, a superação do enunciado 691 da Súmula do c. STF para que seja revogada a prisão decretada em desfavor do paciente.
+É o relatório.
+Decido.
+Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra denegação de liminar. De fato, ressalvadas hipóteses excepcionais descabe o instrumento heróico em situação como a presente, sob pena de ensejar supressão de instância.
+A matéria, inclusive, já se encontra sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+Na hipótese, o writ impetrado na origem teve o pedido liminar indeferido sob os seguintes fundamentos, verbis:
+" ..
+A liminar em sede de habeas corpus só deve ser deferida em casos excepcionais, em que o constrangimento ilegal estiver demonstrado de forma insofismável, o que não é a hipótese presente.
+A r. decisão combatida, que converteu o flagrante em prisão preventiva, aponta que a materialidade é inconteste, defluindo do auto de constatação prévia acerca da natureza da substância apreendida (31 eppendorfs contendo cocaína, com peso de 25,66 gramas e 57 porções de maconha, pesando 72,21 gramas), juntamente com a conduta do paciente, quantidade das substâncias e o depoimento das testemunhas, constituem importantes indícios de que as drogas a ele pertenciam e se destinavam ao tráfico, e a autoria decorre dos depoimentos dos policiais militares que em cumprimento a mandados de busca, flagraram o paciente mantendo em depósito os entorpecentes acima mencionados, todos devidamente embalados para a venda, bem como com ele foi apreendida a quantia de R$94,00 (noventa e quatro reais) em notas variadas (fls. 62/63).
+Nela, o juízo a quo fez menção ainda ao fato de que a prisão em flagrante decorreu de cumprimento de mandado de busca, e tal circunstância evidencia a reiteração da prática delitiva, sendo a manutenção da prisão provisória a única medida cabível.
+Como se vê, a decisão está fundamentada e se baseou em dados concretos da conduta do paciente.
+Nesse quadro, os indícios de autoria estão presentes, não havendo falar, nesta fase de cognição, em concessão de liminar, sendo que o pedido de revogação da prisão preventiva do paciente demanda a análise de circunstâncias e documentos em profundidade, não admitida nesta fase processual.
+No mais, anote-se que bons antecedentes ou residência fixa e ocupação lícita do paciente, em tese, são circunstâncias que, por si sós, não inviabilizam a custódia cautelar.
+Destarte, ausentes os elementos justificadores da medida, INDEFIRO a liminar requerida" (fls. 15-16).
+In casu, portanto, não verifico a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido
+Assim o entendimento do Pretório Excelso: HC nº 103570, Primeira Turma, Rel. Min. Marco Aurélio, Rel. p/ acórdão Min. Rosa Weber, DJe de 22/8/2014; HC nº 121828, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 25/6/2014; HC nº 123549 AgR, Segunda Turma, Rel.ª Min. Cármen Lúcia, DJe de 4/9/2014.
+No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC nº 392.348/RO, Sexta Turma, Rel. Ministro Nefi Cordeiro; HC nº 392.249/PR, Sexta Turma, Rel. Ministro Sebastião Reis Júnior; HC nº 392.316/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas; HC nº 391.936/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik; HCnº 392.187/SP, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura
+Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. e I.
