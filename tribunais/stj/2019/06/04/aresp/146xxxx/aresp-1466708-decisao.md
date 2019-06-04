@@ -1,0 +1,22 @@
+DECISÃO
+[NOME] agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n. 0003001-56.2018.8.21.7000.
+O Tribunal de origem manteve a condenação do ora agravante pela prática dos delitos dos arts. 12 e 15 da Lei n. 10.826/2003. A pena definitiva é de 3 anos de reclusão e 1 ano de detenção, mais 10 dias-multa, em regime inicial aberto. A reprimenda privativa de liberdade foi substituída por restritivas de direitos.
+Nas razões do recurso especial, a defesa alegou violação dos arts. 157, caput e § 1º, 386, II, do Código de Processo Penal. Argumentou, em síntese, a nulidade da prova da materialidade, haja vista a "ausência de fundadas razões para o ingresso forçado no domicílio  ..  sem mandado judicial" (fl. 320). Apontou dissídio jurisprudencial e indicou, como paradigma, o REsp n. 1.630.667/RJ.
+Requer o provimento do recurso, para que seja reconhecida a absolvição do recorrente.
+O especial não foi admitido na origem, o que motivou a interposição deste agravo em recurso especial.
+O Ministério Público Federal, às fls. 439-445, em parecer da Subprocuradora-Geral da República [NOME], opinou pelo não provimento do recurso.
+Decido.
+I. Violação de domicílio
+A defesa alega a nulidade da prova, ao argumento de que "a forma como se deu a abordagem é manifestamente ilegal, porquanto o ingresso forçado na residência do recorrente ocorreu desamparado de fundadas razões que identificassem previamente a ocorrência, no interior do domicílio, de situação de flagrante delito" (fls. 320-321).
+Sobre a invasão de domicílio, o Tribunal de origem explicitou (fl. 298):
+ ..
+3. No tocante à alegada violação de domicílio, não há ilicitude há declarar, notadamente por se tratar a posse de arma de fogo de delito permanente.
+Fazia-se, pois, desnecessário mandado de busca e apreensão, diante dos indícios e fundada suspeita da prática delituosa, para o que se considera os depoimentos dos policiais militares, no sentido de que avistaram veículo suspeito sendo conduzido pelo acusado, este efetuou dois disparos ante a aproximação da viatura policial, tento, após, empreendido fuga. Em perseguição, obtiveram êxito em abordá-lo já no pátio de sua residência, tendo sido localizada munição no interior do veículo. Ato contínuo, [NOME] autorizou que os agentes adentrassem no interior da casa, quando apreendidas armas e munição.
+Com efeito, o art. 5º, XI, da Constituição Federal consagrou o direito fundamental relativo à inviolabilidade domiciliar ao dispor que "a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial".
+A inviolabilidade de sua morada é uma das expressões do direito à privacidade do indivíduo, o qual, na companhia de seu grupo familiar, espera ter o seu espaço de intimidade preservado contra devassas indiscriminadas e arbitrárias, perpetradas sem os cuidados e os limites que a excepcionalidade da ressalva a tal franquia constitucional exige.
+O ingresso em moradia alheia depende, para sua validade e sua regularidade, da existência de fundadas razões (justa causa) que sinalizem para a possibilidade de mitigação do direito fundamental em questão. É dizer, somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência é que se mostra possível sacrificar o direito à inviolabilidade do domicílio.
+ Essa é a hipótese dos autos, pois, consoante o trecho acima transcrito, a entrada no domicílio, além de autorizada pelo investigado, foi antecedida de perseguição decorrente de disparos efetuados pelo acusado ao perceber a aproximação da guarnição. Vale ressaltar que a defesa, nas razões do recurso especial, não contesta, de forma objetiva, a ocorrência de tais fatos.
+Não há que se falar em dissídio jurisprudencial à vista da ausência de similitude fática. O julgado paradigma trata de suspeita de tráfico mediante denúncia anônima. In casu, a justa causa está embasada pelos disparos de arma de fogo contra os policiais, pela perseguição e pela autorização do acusado para o ingresso na residência.
+II. Dispositivo
+À vista do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se e intimem-se.
