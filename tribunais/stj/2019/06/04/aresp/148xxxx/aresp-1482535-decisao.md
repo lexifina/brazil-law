@@ -1,0 +1,39 @@
+DECISÃO
+1. Cuida-se de agravo interposto por TELEMAR NORTE LESTE S.A. - EM RECUPERACAO JUDICIAL contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado:
+APELAÇÕES CÍVEIS - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS C/C REPETIÇÃO DE INDÉBITO - FALHA NA PRESTAÇÃO DE SERVIÇO DE INTERNET E TELEFONE FIXO RESPONSABILIDADE OBJETIVA - RELAÇÃO SUBMETIDA ÀS DISPOSIÇÕES DO CÓDIGO DE DEFESA DO CONSUMIDOR - COBRANÇA POR SERVIÇO NÃO UTILIZADO PEDIDO DE CANCELAMENTO DO SERVIÇO ATRAVÉS DE PROTOCOLO DEMANDADA QUE NÃO SE DESINCUMBIU DO SEU ÔNUS - ART. 373, II DO CPC - RESTITUIÇÃO DOS VALORES DE FORMA SIMPLES - DANO MORAL CONFIGURADO CANCELAMENTO DA LINHA FIXA E INSCRIÇÃO PERANTE O SERASA - MAJORAÇÃO DO MONTANTE ARBITRADO DE R$3.000,00 (TRÊS MIL REAIS) PARA R$8.000,00 (OITO MIL REAIS) - HONORÁRIOS ADVOCATÍCIOS - APLICAÇÃO DA REGRA CONTIDA NO ARTIGO 86, PARÁGRAFO ÚNICO DO CPC - SUCUMBÊNCIA MÍNIMA DA AUTORA - ÔNUS QUE DEVE SER SUPORTADO PELO DEMANDADO EM SUA TOTALIDADE - APELO DA DEMANADA IMPROVIDO - RECURSO DA AUTORA PARCIALMENTE PROVIDO - UNÂNIME.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 186, 927, 884 e 944, do CC.
+Defende o não cabimento dos danos morais e aduz que a quantum indenizatório foi fixado em valor excessivo (R$8.000,00 - oito mil reais), pugnando pela sua redução.
+É o relatório. DECIDO.
+2. Ao reconhecer o cabimento dos danos morais, o Tribunal de origem assim consignou:
+É, portanto, inconteste o direito da empresa autora em ter declarada a inexistência de débitos, diante da falha na prestação do serviço ofertado pela requerida, como também, tem direito a autora a ser indenizada moralmente, uma vez que cobrada indevidamente, bem como diante do prejuízo que foi causado em virtude da suspensão da linha telefônica, pois se trata de empresa que depende do serviço telefônico para facilitar a sua comunicação com os clientes, nas tratativas comerciais.
+Ademais, patente a repercussão negativa para a imagem da empresa ora acionante, em razão da sua inscrição perante ao SERASA (fls. 79).
+Saliente-se, ainda, a existência de Súmula nº227 do STJ, segundo a qual, "A pessoa jurídica pode sofrer dano moral".
+Assim, sobrevindo, em razão de ato ilícito, risco à reputação, desprestígio comercial ou dano à imagem da demandante, configura-se o dano moral, passível de indenização.
+Com efeito, o Tribunal local reconheceu a prática de dano moral. Assim, a modificação desse entendimento demandaria o reexame de matéria fático-probatória, inviável no recurso especial (Súmula n. 7/STJ).
+Ademais, o entendimento desta Corte é no sentido de que, não sendo legítima a inscrição do nome da pessoa em órgãos de proteção ao crédito, presume-se o dano: "Nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica" (REsp n. 1.059.663/MS, Relatora Ministra NANCY ANDRIGHI, DJe 17/12/2008).
+Sobre o tema:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544, CPC) - AÇÃO DE INDENIZAÇÃO POR DANO MORAL - INSCRIÇÃO INDEVIDA EM CADASTRO DE PROTEÇÃO AO CRÉDITO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO.
+IRRESIGNAÇÃO DA RÉ.
+1. Violação aos arts. 165, 458 e 535, do Código de Processo Civil, não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia.
+2. O dano moral decorrente da inscrição irregular em cadastros de inadimplente configura-se in re ipsa, ou seja, é presumido e não carece de prova. Precedentes do STJ.
+3. O valor arbitrado (R$ 4.000,00) é condizente com o dano sofrido e razoável, tendo sido, ademais, fixado de acordo com as circunstâncias fáticas do caso em concreto, incidindo, na hipótese, o óbice insculpido na Súmula 07 do STJ.
+4. Relativamente à irresignação dos honorários de sucumbência, incide, na espécie, o Enunciado n.º 282, da Súmula do STF, ante a ausência de prequestionamento, constituindo a súplica, no caso, em indevida inovação recursal.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 258.371/PE, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/3/2013, DJe 4/4/2013.)
+3. Por outro lado, em relação ao valor indenizatório arbitrado, somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização fixada a título de dano moral, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar sua revisão. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. EMPRÉSTIMO FRAUDULENTO. TERCEIRO. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. DANO MORAL. VALOR DA CONDENAÇÃO.
+1. "A inscrição indevida do nome da autora em cadastro negativo de crédito, a par de dispensar a prova objetiva do dano moral, que se presume, é geradora de responsabilidade civil para a instituição bancária, desinfluente a circunstância de que a abertura de conta se deu com base em documentos furtados e para tanto utilizados por terceiro." (REsp 659.760/MG, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 04/04/2006, DJ 29/05/2006 p. 252)
+2. A quantia fixada não se revela excessiva, considerando-se os parâmetros adotados por este Tribunal Superior, que preleciona ser razoável a condenação em valor equivalente a até 50 (cinqüenta) salários mínimos por indenização decorrente de inscrição indevida em órgãos de proteção ao crédito. Precedentes.
+3. Recurso a que se nega provimento (AgRg no AREsp 18.444/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 4/10/2011, DJe 7/10/2011).
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INDENIZAÇÃO POR DANO MORAL. CONTRATAÇÃO DE FINANCIAMENTO POR TERCEIRO IMPOSTOR EM NOME DO AUTOR. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. REVISÃO DO VALOR.
+1. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+2. Agravo regimental a que se nega provimento (AgRg no Ag 1.352.427/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 23/8/2011, DJe 30/8/2011 - indenização mantida em cinquenta salários mínimos).
+RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. INSCRIÇÃO INDEVIDA EM CADASTROS DE INADIMPLENTES. CONTRATO DE FINANCIAMENTO FIRMADO POR TERCEIRO, COM USO DE DOCUMENTAÇÃO FURTADA DO AUTOR. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 07/STJ. LITIGÂNCIA DE MÁ-FÉ (CPC, ART. 17, VII). AFASTAMENTO. DANOS MORAIS. QUANTUM INDENIZATÓRIO. REDUÇÃO.
+(..)
+5. O valor arbitrado a título de reparação por danos morais está sujeito ao controle do Superior Tribunal de Justiça, desde que ínfimo ou exagerado, o que ocorre no presente caso, em que fixado em 300 (trezentos) salários mínimos.
+6. Quantia reduzida para 50 (cinqüenta) salários mínimos, corrigidos a partir desta data, em atenção às peculiaridades do caso em concreto e ao primado da razoabilidade.
+7. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO. (REsp 983.597/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 7/12/2010, DJe 6/9/2011).
+Na espécie, o Tribunal a quo, consideradas as peculiaridades do caso em questão, fixou a indenização em R$ 8.000,00 (oito mil reais), quantia que não se afigura excessiva, tampouco discrepante a ponto de ensejar a intervenção deste Superior Tribunal.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
