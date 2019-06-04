@@ -1,0 +1,24 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REGIME ABERTO. PRISÃO ALBERGUE DOMICILIAR COM MONITORAMENTO ELETRÔNICO. TRIBUNAL DE JUSTIÇA AFIRMA A EXISTÊNCIA DE UNIDADE PRISIONAL COMPATÍVEL. AUSÊNCIA DE ILEGALIDADE.
+Writ liminarmente indeferido.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], pela Defensoria Pública do Rio de Janeiro, contra acórdão proferido pelo Tribunal de Justiça local no Agravo em Execução n. 0234691-24.2018.8.19.0001 que cassou a prisão domiciliar sob monitoramento eletrônico, nos termos da seguinte ementa (fl. ):
+EXECUÇÃO PENAL. PRISÃO ALBERGUE DOMICILIAR, COM MONITORAMENTO ELETRÔNICO. CONCESSÃO. IRRESIGNAÇÃO MINISTERIAL. REFORMA. CABIMENTO.
+Não se encontrando o condenado em nenhuma das situações contempladas no artigo 117 da Lei de Execução Penal, não faz ele jus ao benefício de cumprir sua pena em prisão albergue domiciliar.
+Cabe ressaltar que, sendo a enumeração do citado dispositivo legal taxativa, e não exemplificativa, é vedado ao julgador estender o mencionado beneficio à hipótese que o legislador não contemplou.
+Ademais, o regime aberto, embora seja uma forma mais branda e progressiva da execução da pena, não é um prêmio e exige sacrifícios que longe estão de serem diferentes daqueles que são suportados diariamente pela infinita maioria dos brasileiros ordeiros, que se deslocam, por vezes, por várias horas, para desempenhar suas atividades laborativas.
+Por fim, como bem lançado nas razões recursais, existem, no Estado do Rio de Janeiro, unidades prisionais próprias para o cumprimento da pena no regime aberto, sendo, portanto, indevido o deferimento do benefício em tela. PROVIMENTO DO RECURSO "
+Narram os autos que o paciente, em cumprimento de pena definitiva, obteve a progressão ao regime aberto, na modalidade prisão albergue domiciliar, com monitoramento eletrônico.
+O Tribunal de Justiça fluminense cassou a decisão na parte que estabeleceu a prisão domiciliar, determinando o cumprimento da pena em casa de albergado. Em razão disso, a defesa aponta na presente impetração constrangimento ilegal, argumentando que a única casa de albergado existente no estado do Rio de Janeiro encontra-se com a quantidade de egressos bem acima da capacidade, motivo pelo qual o Juízo da Execução deferiu o cumprimento da pena em regime domiciliar com monitoramento eletrônico.
+Acrescenta que, o juízo executivo  ..  optou por escolher aqueles que não conseguiram comprovar residência, aos demais, àqueles que comprovaram  ..  foi concedido regime aberto, na modalidade prisão albergue domiciliar, no sistema de monitoramento eletrônico, em respeito ao princípio da isonomia, ou seja, tratamento igual aos apenados na mesma situação (fl. 8).
+Pede a concessão de liminar para que seja recolhido o ofício expedido pela autoridade coatora à Vara de Execuções Penais até o julgamento deste feito. No mérito, pede o reconhecimento do direito do paciente de permanecer em prisão albergue domiciliar, com monitoramento eletrônico.
+É o relatório.
+O Superior Tribunal de Justiça não tem mais admitido a utilização do habeas corpus como sucedâneo do meio processual adequado, seja o recurso ou a revisão criminal, salvo em situações excepcionais.
+No caso, inexiste evidência de constrangimento ilegal capaz de justificar o conhecimento deste writ substitutivo de recurso especial.
+Com efeito, o Tribunal de Justiça fluminense cassou a decisão do juízo da execução, na parte que concedia a prisão domiciliar, com monitoramento, e determinou o seu cumprimento em umas das Casas de Albergado, afirmando que existem no Estado do Rio de Janeiro, unidades prisionais próprias para o cumprimento da pena no regime aberto, revelando-se, portanto, indevido o deferimento do benefício em tela (fl.67).
+Tal compreensão vai ao encontro do entendimento do Superior Tribunal de Justiça de que, em casos específicos do Rio de Janeiro, embora não seja possível discutir a controvérsia em sede de habeas corpus, é indevida a concessão de prisão albergue domiciliar em hipótese na qual a Corte Estadual informa que o Estado dispõe de instituição compatível com o cumprimento da pena em regime aberto. (AgRg no HC n. 357.899/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 2/3/2017).
+No mesmo sentido, confira-se: HC n. 287.248/RJ, Ministra Marilza Maynard (Desembargadora convocada do TJ/SE), Sexta Turma, DJe 21/8/2014;
+Ademais, ressalto que o caso dos autos não se amolda à Súmula Vinculante 56 e ao Recurso Especial repetitivo n. 1.710.674/MG, uma vez que a Corte estadual assentou afirmou a existência de unidades prisionais próprias para o cumprimento da pena no regime em que o paciente se encontra.
+Dessa forma, estando o acórdão do Tribunal de Justiça local em conformidade com a jurisprudência do Superior Tribunal de Justiça, não há falar em constrangimento ou flagrante ilegalidade.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
