@@ -1,0 +1,43 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS E PENA FIXADA ABAIXO DE 8 ANOS. REGIME PRISIONAL FECHADO IMPOSTO SEM MOTIVAÇÃO CONCRETA. OFENSA AOS ART. 33, § 2º, b, e § 3º, do CP E À SÚMULA 440/STJ. AGRAVO NÃO PROVIDO.
+1. Malgrado a fixação da pena-base no mínimo legal e a primariedade do réu não conduzam, necessariamente, à fixação do regime prisional menos severo, os fundamentos genéricos utilizados pelo TJSP não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), bem como na Súmula n. 440/STJ.
+2. No caso em exame, verifica-se a primariedade do réu, as circunstâncias judiciais favoravelmente valoradas e a pena fixada em patamar superior a 4 anos e inferior a 8 anos de reclusão, sem que tenha sido declinado fundamento concreto para o recrudescimento do meio prisional, devendo, portanto, a reprimenda ser cumprida, desde logo, em regime semiaberto, conforme o disposto no art. 33, §§ 2º, alínea "b", e 3º, do Código Penal.
+3. Agravo regimental não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer e Jorge Mussi votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental em habeas corpus interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão que não conheceu do writ, mas concedeu a ordem, de ofício, com o fim de estabelecer o regime prisional semiaberto ao paciente (e-STJ, fls. 36-39).
+Em razões, o agravante sustenta, em síntese, que o Tribunal de origem justificou a necessidade de fixação do regime fechado para o cumprimento da pena, uma vez que "o paciente roubou duas mulheres, em concurso de pessoas e com emprego de simulacro de arma de fogo" (e-STJ, fl. 48).
+Afirma, ainda, que "A simulação de estar armado infunde um temor muito maior no ofendido, o que, sem dúvida, transborda as circunstâncias normais do crime e justifica o agravamento do regime prisional." (e-STJ, fl. 48).
+Pugna, assim, pela reconsideração do decisum ou a sua submissão ao colegiado, para o provimento do agravo a fim de restabelecer regime fechado para o cumprimento da pena.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS E PENA FIXADA ABAIXO DE 8 ANOS. REGIME PRISIONAL FECHADO IMPOSTO SEM MOTIVAÇÃO CONCRETA. OFENSA AOS ART. 33, § 2º, b, e § 3º, do CP E À SÚMULA 440/STJ. AGRAVO NÃO PROVIDO.
+1. Malgrado a fixação da pena-base no mínimo legal e a primariedade do réu não conduzam, necessariamente, à fixação do regime prisional menos severo, os fundamentos genéricos utilizados pelo TJSP não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), bem como na Súmula n. 440/STJ.
+2. No caso em exame, verifica-se a primariedade do réu, as circunstâncias judiciais favoravelmente valoradas e a pena fixada em patamar superior a 4 anos e inferior a 8 anos de reclusão, sem que tenha sido declinado fundamento concreto para o recrudescimento do meio prisional, devendo, portanto, a reprimenda ser cumprida, desde logo, em regime semiaberto, conforme o disposto no art. 33, §§ 2º, alínea "b", e 3º, do Código Penal.
+3. Agravo regimental não provido.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Não obstante os argumentos expendidos pelo agravante, estes não têm o condão de infirmar os fundamentos insertos na decisão agravada.
+Com efeito, malgrado a fixação da pena-base no mínimo legal e a primariedade do réu não conduzam, necessariamente, à fixação do regime prisional menos severo, os fundamentos genéricos utilizados pelo TJSP não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), bem como na Súmula n. 440/STJ.
+A seguir, parcialmente transcritas, ementas de acórdãos desta Corte versando a respeito da matéria e que respaldam essa solução:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. ROUBO MAJORADO. CAUSAS DE AUMENTO. FRAÇÃO DE 3/8. FUNDAMENTAÇÃO GENÉRICA. SÚMULA N. 443 DO STJ. REGIME INICIAL. PENA-BASE NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. ENUNCIADO N. 440 DA SÚMULA DO STJ E N. 718 E 719 DO STF. CONSTRANGIMENTO ILEGAL VERIFICADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. Na segunda fase da dosimetria, a pena foi aumentada em 3/8, exclusivamente com fundamento no número de majorantes (art. 157, § 2º, I e II, do Código Penal), em desrespeito ao enunciado n. 443 da Súmula do Superior Tribunal de Justiça - STJ.
+3. É firme neste Tribunal a orientação de que é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais do art. 59 do Código Penal - CP. Nesse sentido, foi elaborado o enunciado n. 440 da Súmula desta Corte, que prevê: fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+4. Reconhecidas as circunstâncias judiciais favoráveis e a primariedade do réu, a quem foi imposta reprimenda definitiva inferior a 8 anos de reclusão, cabível a imposição do regime semiaberto para iniciar o cumprimento da sanção corporal, à luz do art. 33, §§ 2º e 3º, do Código Penal.
+Habeas corpus não conhecido, mas concedida a ordem, de ofício, para reduzir, à fração de 1/3, o aumento da pena do paciente, decorrente das majorantes do art. 157, § 2º, I e II, do Código Penal, e fixar o regime inicial semiaberto."
+(HC 381.782/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/02/2017, DJe 24/02/2017, grifou-se).
+"HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. ROUBO. PENA-BASE FIXADA NO MÍNIMO LEGAL. PENA DE RECLUSÃO DE 4 ANOS. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA PARA A FIXAÇÃO DE REGIME INICIAL FECHADO. ENUNCIADOS N. 440 DA SÚMULA DO STJ E N. 718 E 719 DA SÚMULA DO STF. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+- Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito (enunciado n. 440 da Súmula do STJ) e, no mesmo sentido, os enunciados n. 718 e 719 da Súmula do STF.
+- No caso dos autos, após a pena-base ter sido fixada no mínimo legal, em razão da ausência de circunstâncias judiciais desfavoráveis, e a pena final ter sido estabelecida em 4 anos de reclusão, o regime inicial mais gravoso foi fixado sem fundamentação idônea, baseada apenas em elementos inerentes ao próprio tipo penal, e no fato de o paciente estar preso por outro processo, ainda em curso, fundamento igualmente inidôneo. Incidem, ao caso, assim, os referidos enunciados sumulares.
+- Habeas corpus não conhecido. Concessão da ordem, de ofício, para fixar regime inicial aberto."
+(HC 381.444/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/02/2017, DJe 21/02/2017, grifou-se).
+No caso, o réu é primário, as circunstâncias judiciais foram favoravelmente valoradas e a pena foi fixada em patamar superior a 4 anos e inferior a 8 anos de reclusão, sem que tenha sido declinado fundamento concreto para o recrudescimento do meio prisional, devendo, portanto, a reprimenda ser cumprida, desde logo, em regime semiaberto, conforme o disposto no art. 33, §§ 2º, alínea "b", e 3º, do Código Penal.
+Ante o exposto, nego provimento ao agravo.
+É o voto.
