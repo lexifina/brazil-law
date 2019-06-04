@@ -1,0 +1,132 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] GUINDASTES E MÁQUINAS OPERATRIZES LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO DE JANEIRO assim ementado:
+Agravo de instrumento. Exceção de incompetência. Obrigação de fazer e indenizatória. Contrato de reparo e entrega de equipamento de dezoito toneladas. Invocação de descumprimento do prazo de entrega e reparos de máquina danificada.
+Decisão proferida em 16/03/16 em exceção de incompetência declinando da competência em favor de uma das Varas Cíveis do Foro de Guaratinguetá/SP, onde se localiza a sede da empresa agravada.
+Contrato entre empresas. Inexistência de relação de consumo. Agravo. Via processual adequada. Incidente oposto na vigência do CPC/73. Incidência do art. 14 do CPC/15. Respeito aos atos processuais já praticados e às situações jurídicas já consolidadas.
+Nota fiscal de compra e venda que indica o endereço da sede, na Comarca de Guaratinguetá/SP.
+Existência de escritório administrativo no Rio de Janeiro que resultou em citação e intimação positivas, tendo a preposta que participou da diligência afirmado deter poderes para o ato.
+Oposição da exceção que esclareceu que a divisão administrativa tem finalidade específica de comercialização de equipamentos sem natureza de filial.
+Demanda que se destina a exigir o cumprimento forçado da obrigação, conforme regra inserta no art.
+100, inciso IV, alínea d, do C.P.C./73, regra processual repetida no novo C.P.C., art. 53, inciso III, alínea d.
+Acolhimento da pretensão recursal alternativa de declínio em favor do local onde deve ser cumprida a obrigação, no caso, a entrega da coisa.
+Provimento parcial do recurso, para acolher o pedido alternativo e determinar a remessa dos autos principais para a Comarca de Nova Friburgo, neste Estado, local do Foro de situação da excepta agravante.
+Os embargos de declaração foram rejeitados (fls. 130-135).
+Nas razões do recurso especial (fls. 149-176), a recorrente aponta violação do art. 1.022, I e II, do CPC/2015, por entender que:
+(..) o C. órgão julgador não se debruçou sobre o ponto nodal que ensejou o recurso, repita-se: o momento de escolha do juízo competente, pela parte Autora, ora Recorrida, para a apreciação da demanda é quando da distribuição da petição inicial, qualquer alteração do foro em momento posterior se dará em razão da oferta, pela Ré, ora Recorrente, de exceção de incompetência ou, em se tratando de competência absoluta, de declaração de officio pelo magistrado (o que não é o caso).
+Acrescenta o acórdão recorrido "(..) incorreu em contradição, tendo em vista que a proposição de justificativa de ausência de afronta ao princípio do juízo natural não possui relação de causa e consequência (..)".
+Alega ofensa ao art. 1.015 do CPC/2015, sob o argumento de que o acolhimento da exceção de incompetência não poderia ser impugnada por meio de agravo de instrumento, pois não consta do rol do referido artigo do CPC/2015, o que também contraria o art. 14 do mesmo Código, pois se trata de decisão publicada já na vigência do novo CPC.
+Sustenta que, de acordo com o art. 1.017, I, do CPC/2015, existe determinação no sentido de que deve ser juntado aos autos documento comprobatório da intimação das partes e da tempestividade do recurso, como condição de admissibilidade do agravo de instrumento, o que não ocorreu no caso.
+Aduz que, equivocadamente, "(..) o r. acórdão colacionou o entendimento segundo o qual a exceção de incompetência foi apresentada na vigência do CPC/1973, devendo ser por essa lei integralmente regida, inclusive quanto ao recurso cabível da decisão proferida no incidente (..)".
+Informa que há afronta aos arts. 43 e 53, III, "a", do CPC/2015, uma vez que é competente o foro da sede para ação em que for ré a pessoa jurídica, somente sendo competente o foro da filial pelas as obrigações por ela contraídas, o que não ocorreu na presente hipótese.
+Assim, assevera que deverá prevalecer a regra segundo a qual as ações fundadas em direito pessoal serão ajuizadas no domicílio do réu.
+Argumenta, ainda, que é "(..) manifestamente ilegal a tentativa de alteração da competência formulada, de forma intempestiva e incorreta, pela Recorrida, a qual foi acolhida no r. acórdão".
+Sem contrarrazões. Certidão à fl. 186.
+É o relatório.
+DECIDO.
+2. Inicialmente, ao analisar as decisões proferidas na origem, verifico que não há violação do art. 1.022 do CPC/2015, pois o Tribunal a quo dirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma clara e fundamentada.
+No caso, o julgamento do feito apenas se revelou contrário aos interesses da parte recorrente, circunstância que não configura omissão, nem contradição ou obscuridade, tampouco erro material.
+Na hipótese dos autos, a Corte de origem, ao analisar os aclaratórios, manifestou-se nos seguintes termos (fls. 132-133):
+Como já destacado no acórdão embargado, a decisão foi proferida em incidente de exceção de incompetência, sendo irrelevante o critério, eis que a impugnação foi apresentada na vigência do CPC/73, incidindo o art. 14 do novo Código que determina o respeito aos atos processuais já praticados e as situações jurídicas já consolidadas.
+Quanto ao acolhimento do pedido alternativo, a demanda se destina a exigir o cumprimento forçado da obrigação, consistente na entrega do equipamento, no caso, a Comarca de Nova Friburgo, neste Estado, foro de sede da excepta-agravante, conforme regra inserta no art. 100, inciso IV, alínea d, do CPC/73, regra processual repetida no novo CPC/15, art. 53, inciso III, alínea d.
+Analisando o excerto acima colacionado, observa-se que as questões atinentes à escolha do juízo competente foram devidamente analisadas pela instância de origem. Inexiste, pois, omissão no aresto que, embora em desconformidade com os interesses da parte recorrente, desata a questão jurídica posta em juízo, circunstância que não revela nenhuma irregularidade no julgamento a quo.
+Ademais, impende destacar que os embargos de declaração não constituem meio idôneo a sanar eventual error in judicando, não lhes sendo atribuível efeitos infringentes caso não haja, de fato, omissão, obscuridade ou contradição, conforme pontua jurisprudência desta Corte:
+PROCESSUAL CIVIL. ADMINISTRATIVO E TRIBUTÁRIO. PRECATÓRIO.
+PRECLUSÃO. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. PRETENSÃO DE EFEITOS INFRINGENTES. VIA INADEQUADA.
+I - Os embargos de declaração somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+II - O recurso de embargos de declaração não é via adequada para corrigir suposto erro de julgamento, ainda que demonstrado, não lhes sendo atribuível eficácia infringente se ausentes omissão, obscuridade ou contradição (art. 535 do CPC). Nesse sentido: EDcl nos EDcl no REsp 1.109.298/RS, Rel. Ministro Castro Meira, Rel. p/ Acórdão Ministro Herman Benjamin, Segunda Turma, DJe 6/11/2013; EDcl no AgRg nos EAg 1.118.017/RJ, Rel. Ministro Castro Meira, Corte Especial, DJe 14/5/2012; EDcl no AgRg nos EAg 1.229.612/DF, Rel.
+Ministro Castro Meira, Corte Especial, DJe 13/6/2012 e EDcl nos EDcl no MS 14.117/DF, Rel. Ministro Napoleão Nunes Maia Filho, Terceira Seção, DJe 1º/8/2011.
+III - Considerando o desiderato revelado de conferir caráter infringente aos presentes aclaratórios em decorrência de alegado erro de julgamento, sem a comprovação de omissão ou contradição, merecem rejeição os embargos de declaração.
+IV - Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 963.313/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 13/06/2017, DJe 23/06/2017)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. PRETENSÃO DE EFEITOS INFRINGENTES. VIA INADEQUADA.
+1. No sistema do CPC/1973, os Embargos de Declaração eram cabíveis nas hipóteses legais de omissão, contradição ou obscuridade (art. 535), tendo a jurisprudência entendido possível serem oferecidos também para que fosse apontada a existência de erro material. No CPC/2015, estes continuam a ser os casos de interposição do recurso (art. 1.022).
+2. O recurso de Embargos de Declaração não é via adequada para corrigir suposto erro de julgamento, ainda que demonstrado, não lhes sendo atribuível eficácia infringente se ausentes omissão, obscuridade ou contradição (art. 535 do CPC). Nesse sentido: EDcl nos EDcl no REsp 1.109.298/RS, Rel. Ministro Castro Meira, Rel. p/ Acórdão Ministro Herman Benjamin, Segunda Turma, DJe 6/11/2013; EDcl no AgRg nos EAg 1.118.017/RJ, Rel. Ministro Castro Meira, Corte Especial, DJe 14/5/2012; EDcl no AgRg nos EAg 1.229.612/DF, Rel. Ministro Castro Meira, Corte Especial, DJe 13/6/2012 e EDcl nos EDcl no MS 14.117/DF, Rel. Ministro Napoleão Nunes Maia Filho, Terceira Seção, DJe 1º/8/2011.
+3. Considerando o desiderato revelado de conferir caráter infringente aos presentes aclaratórios em decorrência de alegado erro de julgamento, sem a comprovação de omissão ou contradição, merecem rejeição os Embargos de Declaração.
+4. Embargos de Declaração rejeitados.
+(EDcl no REsp 1641373/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/05/2017, DJe 17/05/2017)
+3. Quanto à questão de fundo, a irresignação também não prospera.
+Violação dos arts. 14, 1.015 e 1.017 do CPC/2015
+Verifico que, em suas razões recursais, a insurgente argumenta que houve ofensa ao art. 1.015 do CPC/2015, uma vez que o acolhimento da exceção de incompetência não poderia ser impugnada por meio de agravo de instrumento, pois tal situação não encontraria previsão no taxativo rol do referido artigo do CPC/2015.
+Pondera, ainda, que o novo CPC, ao contrário do que ficou consignado no aresto hostilizado, deveria ser aplicado ao caso dos autos, afastando-se a incidência do já revogado Código de Ritos.
+Ao analisar o ponto ora em apreço, a Corte local afirmou (fl. 100):
+Inicialmente, quanto à preliminar invocada em contraminuta, tem-se que o agravo é a via processual adequada para a impugnação da decisão que acolheu a exceção de incompetência, eis que o incidente foi oposto na vigência do CPC/73, incidindo o art. 14 do novo Código que determina o respeito aos atos processuais já praticados e as situações jurídicas já consolidadas.
+Assim, resta evidente que a decisão proferida em 16/03/16 pode ser revista em agravo, até porque era o recurso adequado para a reforma da decisão proferida em incidente, como no caso vertente.
+ Ciente disso, vale salientar que o STJ, de acordo com o posicionamento firmado no Enunciado Administrativo nº 2, entende que "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Veja-se que na presente hipótese, constou do acórdão recorrido a moldura fática de que a decisão que ensejou a interposição do agravo de instrumento teria sido proferida em 16.3.2016, sem fazer, contudo, referência à data de publicação do referido decisum, a qual, frise-se, seria o efetivo marco temporal definidor da legislação aplicável à espécie.
+Independente disso, é importante esclarecer que, mesmo que se reconheça a efetiva aplicação das regras do CPC/2015, a irresignação não prosperaria.
+Isso porque esta Corte Superior já se manifestou no sentido de que, apesar de não previsto expressamente no rol do art. 1.015 do CPC/2015, "a decisão interlocutória relacionada à definição de competência continua desafiando recurso de agravo de instrumento, por uma interpretação analógica ou extensiva da norma contida no inciso III do art. 1.015 do CPC/2015, já que ambas possuem a mesma ratio -, qual seja, afastar o juízo incompetente para a causa, permitindo que o juízo natural e adequado julgue a demanda" (REsp 1.679.909/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/11/2017, DJe 01/02/2018).
+A propósito, colaciono a ementa do referido julgado:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. APLICAÇÃO IMEDIATA DAS NORMAS PROCESSUAIS. TEMPUS REGIT ACTUM. RECURSO CABÍVEL. ENUNCIADO ADMINISTRATIVO N. 1 DO STJ. EXCEÇÃO DE INCOMPETÊNCIA COM FUNDAMENTO NO CPC/1973. DECISÃO SOB A ÉGIDE DO CPC/2015. AGRAVO DE INSTRUMENTO NÃO CONHECIDO PELA CORTE DE ORIGEM. DIREITO PROCESSUAL ADQUIRIDO.
+RECURSO CABÍVEL. NORMA PROCESSUAL DE REGÊNCIA. MARCO DE DEFINIÇÃO.
+PUBLICAÇÃO DA DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPRETAÇÃO ANALÓGICA OU EXTENSIVA DO INCISO III DO ART. 1.015 DO CPC/2015.
+1. É pacífico nesta Corte Superior o entendimento de que as normas de caráter processual têm aplicação imediata aos processos em curso, não podendo ser aplicadas retroativamente (tempus regit actum), tendo o princípio sido positivado no art. 14 do novo CPC, devendo-se respeitar, não obstante, o direito adquirido, o ato jurídico perfeito e a coisa julgada.
+2. No que toca ao recurso cabível e à forma de sua interposição, o STJ consolidou o entendimento de que, em regra, a lei regente é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência da exata compreensão dos fundamentos do provimento jurisdicional que pretende combater. Enunciado Administrativo n. 1 do STJ.
+3. No presente caso, os recorrentes opuseram exceção de incompetência com fundamento no Código revogado, tendo o incidente sido resolvido, de forma contrária à pretensão dos autores, já sob a égide do novo Código de Processo Civil, em seguida interposto agravo de instrumento não conhecido pelo Tribunal a quo.
+4. A publicação da decisão interlocutória que dirimir a exceptio será o marco de definição da norma processual de regência do recurso a ser interposto, evitando-se, assim, qualquer tipo de tumulto processual.
+5. Apesar de não previsto expressamente no rol do art. 1.015 do CPC/2015, a decisão interlocutória relacionada à definição de competência continua desafiando recurso de agravo de instrumento, por uma interpretação analógica ou extensiva da norma contida no inciso III do art. 1.015 do CPC/2015, já que ambas possuem a mesma ratio -, qual seja, afastar o juízo incompetente para a causa, permitindo que o juízo natural e adequado julgue a demanda.
+6. Recurso Especial provido.
+(REsp 1679909/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/11/2017, DJe 01/02/2018)
+Ainda nesse mesmo sentido:
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HIPÓTESES DE CABIMENTO. INTERPRETAÇÃO ANALÓGICA OU EXTENSIVA DO INCISO III DO ART. 1.015 DO CPC/2015. RECURSO ESPECIAL A QUE SE DÁ PROVIMENTO.
+1. Conforme entendimento deste Órgão Julgador, "apesar de não previsto expressamente no rol do art. 1.015 do CPC/2015, a decisão interlocutória relacionada à definição de competência continua desafiando recurso de agravo de instrumento, por uma interpretação analógica ou extensiva da norma contida no inciso III do art. 1.015 do CPC/2015, já que ambas possuem a mesma ratio -, qual seja, afastar o juízo incompetente para a causa, permitindo que o juízo natural e adequado julgue a demanda" (REsp 1.679.909/RS, Rel.
+Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/11/2017, DJe de 1º/02/2018).
+2. Recurso especial a que se dá provimento, para reconhecer o cabimento do agravo de instrumento em face de decisão que declinou a competência para a apreciação da ação e determinar, por conseguinte, o regular prosseguimento do recurso aviado com o retorno dos autos à Corte de origem.
+(REsp 1711953/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 02/08/2018, DJe 10/08/2018)
+Por oportuno, vale citar o magistério de Fredie Didier Jr., segundo o qual "A interpretação extensiva na hipótese de cabimento de agravo de instrumento prevista no inciso III do art. 1.015 é plenamente aceitável. É preciso interpretar o inciso III do art. 1.015 do CPC para abranger as decisões interlocutórias sobre competência" (Didier Jr., Fredie. Curso de direito processual civil: introdução ao direito processual civil, parte geral e processo de conhecimento. 19. ed. Salvador. Ed. Jus Podivm, 2017. p 268).
+Pois tais razões, considera-se perfeitamente cabível a interposição de agravo de instrumento no caso ora em apreço.
+Especificamente em relação à suposta contrariedade ao art. 1.017 do CPC/2015, destaca-se que, para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Na presente hipótese, verifica-se que o referido dispositivo legal, em que pese a oposição de embargos de declaração, não foi objeto de debate na instância de origem. Diante disso, conclui-se pela incidência da Súmula 211/STJ ao vertente ponto, ante a falta do necessário prequestionamento.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SUPLEMENTAÇÃO DE APOSENTADORIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211.DEFICIÊNCIA DE FUNDAMENTAÇÃO. SUMULA 284. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Incidência na espécie da Súmula 211/STJ.
+(..)
+5. Agravo interno não provido.
+(AgInt no AREsp 213.811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/04/2017, DJe 03/05/2017)
+PREQUESTIONAMENTO. AUSÊNCIA. ALEGADA OFENSA AOS ARTS. 131 E 333, I, DO CPC/1973. VALORAÇÃO DAS PROVAS PELO MAGISTRADO. LIVRE CONVENCIMENTO MOTIVADO.
+1. O acórdão impugnado por meio do recurso especial foi proferido sob a égide do CPC/1973, motivo pelo qual o juízo que se realizará a respeito do acerto ou desacerto do decidido será, quanto ao aspecto processual, exclusivamente orientado por essa normatividade. É que a aplicabilidade imediata assegurada à norma processual não implica a possibilidade da revisão dos atos já praticados pelo juiz, tampouco a desconstituição de situações jurídicas consolidadas sob a vigência da lei processual revogada (art. 14 do CPC/2015). Aplica-se o Enunciado Administrativo 2 do STJ.
+2. Não há como apreciar o mérito da controvérsia, porquanto a simples oposição de embargos de declaração, sem que a matéria tenha sido efetivamente discutida e decidida pela Corte a quo, não é suficiente para caracterizar o requisito do prequestionamento.
+Aplica-se, no ponto, a Súmula 211 desta Corte Superior.
+3. Não há que se falar em contrariedade aos arts. 131 e 333, I, do CPC/1973 em razão da valoração promovida pelo magistrado das provas coligidas nos autos, porquanto no nosso sistema processual aquele é o destinatário destas; cabe-lhe, por força do art. 131 do CPC/1973, apreciar o acervo fático-probatório livremente indicando os motivos que lhe formaram o convencimento.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 125.932/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+4. Violação dos arts. 43 e 53, III, "a", do CPC/2015
+Em recurso especial, a recorrente alega que os arts. 43 e 53, III, "a", do CPC/2015 foram contrariados, uma vez que o foro competente para julgamento da ação em que pessoa jurídica for ré é o da sua sede, sendo competente o foro da filial apenas para as obrigações por ela contraídas, o que não teria sido observada no caso.
+Desse modo, salienta que deveria prevalecer a regra segundo a qual as ações fundadas em direito pessoal serão ajuizadas no domicílio do réu.
+Argumenta, ainda, que a recorrida não comprovou que teria sido realizado qualquer ato que justificasse a acolhimento da exceção, em vez da regra, no tocante à definição da competência, porquanto as obrigações objeto da ação principal foram efetivadas na sede da Recorrente, ou seja, Guaratinguetá/SP.
+O Tribunal de origem, por sua vez, ao dirimir a controvérsia que lhe foi apresentada, manifestou-se nos seguintes termos (fls. 100-102):
+Quanto ao mérito do recurso, o fato de a agravada contar com escritório administrativo na Comarca do Rio de Janeiro, por si só, não tem o condão de legitimar o ajuizamento da demanda no local de tal divisão empresarial, embora a citação e a intimação tenham sido frutíferas naquele local onde há preposto com poderes de recebimento de mandato (fls. 818/818).
+A excipiente agravada opôs o incidente esclarecendo que tal divisão administrativa tem a finalidade específica distinta da comercialização de equipamentos, sem natureza de filial, argumento verossímil, tanto que a autora agravante não comprova que firmou o contrato com este escritório, possuindo a nota fiscal de compra e venda o endereço da sede, na Comarca de Guaratinguetá/SP.
+Em consulta ao site da empresa agravada, não se verifica qualquer indicação de filial na cidade do Rio de Janeiro, o que robustece a tese de que o escritório apontado pela agravante não é sucursal ou se destina a comercializar equipamentos.
+Inobstante, a regra de fixação de competência estabelecida no CPC vigente na data da propositura da demanda não foi obsevada, sendo que a demanda se destina a exigir o cumprimento forçado da obrigação, consistente na entrega do equipamento, no caso, a Comarca de Nova Friburgo, neste Estado, foro de sede da excepta-agravante, conforme regra inserta no art. 100, inciso IV, alínea d, do CPC/73, regra processual repetida no novo CPC/15, art. 53, inciso III, alínea d.
+(..)
+Resta evidente que o acolhimento da pretensão alternativa decorre da regra de competência vigente e não representa burla ao princípio do Juiz natural de qualquer espécie, até porque a existência do Escritório administrativo no Rio de Janeiro resultou em citação e intimação positivas, tendo a preposta afirmado que detinha poderes para o ato, conforme se verifica às fls. 817/818 dos autos principais, sendo que apenas com a oposição da exceção de incompetência, restou afastada a caracterização de sucursal.
+Por tais fundamentos, dá-se parcial provimento ao recurso, para acolher o pedido alternativo da excipiente agravante e determinar a remessa dos autos principais para a Comarca de Nova Friburgo.
+Analisando as razões emanadas do aresto hostilizado, verifica-se que a Corte local, lastreada nas peculiaridades fáticas dos autos, entendeu que o juízo competente para enfrentamento da demanda seria a Comarca de Nova Friburgo, uma vez que este seria o lugar onde a obrigação deveria ser cumprida.
+Diante disso, assevero que o acolhimento da pretensão contida no apelo nobre, na forma propugnada pela parte recorrente, excederia as razões colacionadas no aresto objurgado, demandando reincursão no acervo fático-probatório dos autos, o que não se admite nesta estreita via recursal, tendo em vista o óbice da Súmula 7/STJ.
+Nessa esteira (grifamos):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE INCOMPETÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. LOCAL DE CUMPRIMENTO DA OBRIGAÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. 1. A rejeição dos embargos de declaração, quando ausente vício de omissão, contradição ou obscuridade a ser sanado, não caracteriza negativa de prestação jurisdicional.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo não provido.
+(AgInt no AREsp 743.755/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/03/2017, DJe 24/03/2017)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO INDENIZATÓRIA - EXCEÇÃO DE INCOMPETÊNCIA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO AGRAVO - INSURGÊNCIA DA EMPRESA.
+1. Rever a conclusão do Tribunal a quo acerca da fixação da competência, a qual foi fixada levando em conta a comprovação do domicílio do autor da ação, demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 688.992/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/02/2016, DJe 16/02/2016)
+Ademais, é cediço o entendimento de que é competente o foro do local onde a obrigação deve ser satisfeita, para a ação em que se lhe exigir o cumprimento, na forma do art. 53, III, "d", do CPC/2015, como bem salientou o Sodalício estadual.
+Nessa linha:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EXCEÇÃO DE INCOMPETÊNCIA. AÇÃO DE COBRANÇA. DESCUMPRIMENTO CONTRATUAL.
+SATISFAÇÃO DA OBRIGAÇÃO. LOCAL. INDEFINIÇÃO. CONTRATO VERBAL. ARTIGO 327 DO CÓDIGO CIVIL. DOMICÍLIO DO DEVEDOR. 1. A ação de cobrança decorrente de descumprimento contratual deve ser proposta no local onde a obrigação deveria ser cumprida, haja vista o disposto no art. 100, IV, "d", do Código de Processo Civil de 1973. Precedentes.
+2. A existência de contrato verbal não afasta a incidência da norma contida no art. 100, IV, "d", do Código de Processo Civil de 1973.
+Precedentes.
+3. Na hipótese de indefinição quanto ao local de cumprimento da obrigação, deve incidir a presunção legal do art. 327 do Código Civil, isto é, o domicílio do devedor.
+4. Não existe vedação legal para o julgamento do recurso especial singularmente quando interposto com fundamento em dissídio jurisprudencial.
+5. Agravo interno não provido.
+(AgInt no REsp 1648397/TO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/09/2017, DJe 10/10/2017)
+PROCESSUAL CIVIL. HONORÁRIOS DE CORRETAGEM. AÇÃO DE COBRANÇA. FORO COMPETENTE. REGRA ESPECIAL. ART. 100, IV, "D", DO CPC. RECURSO ESPECIAL. SÚMULAS N. 284/STF E 83/STJ.
+1. Não se conhece de recurso especial que deixa de impugnar o fundamento balizador do aresto recorrido.
+2. O foro do lugar em que a obrigação deve ser satisfeita é o competente para processar e julgar não apenas a ação em que se exige seu cumprimento como a demanda em que se pleiteia indenização por inadimplemento. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1396052/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 21/05/2015, DJe 26/05/2015)
+5. Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
