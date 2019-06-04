@@ -1,0 +1,30 @@
+DECISÃO
+[NOME] agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Tocantins (Apelação Criminal n. 0007731-30.2017.8.27.0000).
+Depreende-se dos autos que o réu foi condenado, em primeiro grau, a 10 anos e 5 meses de reclusão, em regime inicial fechado, mais multa, pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O Tribunal de origem deu parcial provimento ao recurso defensivo a fim de reduzir a pena-base e tornar a sanção definitiva em 5 anos e 1 mês de reclusão, em regime fechado, mais multa.
+Os embargos de declaração foram providos e a reprimenda atenuada para 5 anos de reclusão, em regime fechado, mais multa.
+Nas razões do especial, busca a defesa a diminuição da pena-base ao mínimo legal, a incidência da minorante prevista no art. 33, §4º, da Lei de Drogas e a fixação do regime aberto.
+O especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal local, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo parcial provimento do especial.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivos pelos quais passo à análise do especial.
+I. Pena-base
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+Contudo, não se pode olvidar que, tratando-se de crime previsto na Lei de Drogas - como ocorre na espécie -, o juiz deve considerar, ainda, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+No caso, o Juiz sentenciante, ao fixar a sanção básica acima do mínimo legal, asseverou: "a culpabilidade é grave, pois o réu recebeu a proposta de cometer o crime de alguém que nunca viu e, por conseguinte efetuou o transporte de substâncias entorpecentes de plano" (fl. 98), fundamentos idôneos a justificar a majoração da reprimenda-base e a afastar, por conseguinte, o apontado constrangimento ilegal do qual estaria sendo vítima.
+Por tais razões, mantenho inalterada a pena-base a ele imposta (a qual foi estabelecida no patamar de 7 anos e 6 meses de reclusão e pagamento de 800 dias-multa).
+II. Fração da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da redutora nela prevista mas deixa de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+No caso, a instância ordinária - dentro do seu livre convencimento motivado - fundamentou, com base em argumento idôneo e específico dos autos, o porquê da redução no patamar de 1/6, e fez menção à quantidade de drogas apreendidas (20,75 kg de maconha), motivo pelo qual não há nenhum ajuste a ser feito na reprimenda a ele imposta.
+Relembro, por oportuno, que o juiz, ao reconhecer a presença dos quatro requisitos necessários ao reconhecimento da benesse em questão, não está obrigado a aplicar o patamar máximo de redução de pena, já que possui plena discricionariedade para, à luz das peculiaridades do caso concreto, efetivar a diminuição no quantum que entenda suficiente e necessário para a prevenção e a repressão do delito perpetrado, tal como ocorreu nesses autos.
+Portanto, em razão de todas essas considerações, não identifico a apontada violação do art. 33, § 4º, da Lei n. 11.343/2006.
+III. Regime de cumprimento da pena
+Diante do insucesso das teses anteriores, deve ser mantido o regime fechado para cumprimento da condenação. Isso porque, o agravante, apesar de condenado à sanção inferior a 8 anos, tem circunstância judicial desfavorável (tanto que a reprimenda-base foi fixada acima do mínimo legal).
+IV. Execução provisória da pena
+Por fim, ante o esgotamento das instâncias ordinárias - como no caso -, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena após prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+V. Dispositivo
+À vista do exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Determino o envio de cópia dos autos ao Juízo da condenação para que encaminhe a guia de recolhimento ao juízo da VEC, com o intuito de dar início a execução da pena imposta ao ora agravante. A determinação deverá ser desconsiderada, caso o réu cumpra, atualmente, a reprimenda.
+Publique-se e intimem-se.
