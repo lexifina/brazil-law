@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Logos Logística e Transportes Planejados Ltda. contra decisão que inadmitiu o recurso especial.
+Impugnados os fundamentos da decisão combatida, conheço do agravo e passo a examinar o apelo nobre.
+O recurso não comporta conhecimento.
+A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. INFRAÇÃO AMBIENTAL. QUEIMA DE PALHA DE CANA-DE-AÇÚCAR. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA SIDO VIOLADO OU QUE TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE, PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. LEI ESTADUAL 997/76 E DECRETO ESTADUAL 8.468/76. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 22/02/2018, que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Embargos à Execução Fiscal, opostos pela parte agravante em face da Fazenda do Estado de São Paulo, alegando a irregularidade do auto de infração ambiental, lavrado pela queima de palha de cana-de-açúcar, em desacordo com a legislação que rege a matéria. O acórdão do Tribunal de origem manteve a sentença que julgara improcedentes os Embargos à Execução.
+III. A falta de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado ou aos quais teria atribuído interpretação divergente consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 17/03/2014; AgRg no AREsp 732.546/MA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 12/11/2015.
+IV. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação da legislação local (Lei estadual 997/76 e Decreto estadual 8.468/76). Logo, a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF. No mesmo sentido: STJ, AgRg no AREsp 853.343/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/04/2016; AgInt no AREsp 935.121/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 17/10/2016.
+V. Agravo interno improvido.
+(AgInt no AREsp 1.237.785/SP, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 19/9/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
