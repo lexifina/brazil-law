@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], devidamente assistida pela Defensoria Pública do Estado do Amazonas, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça daquela unidade federativa.
+Extrai-se dos autos que a ora recorrente foi, em primeiro grau de jurisdição, condenada à pena de 2 anos e 6 meses de reclusão, em regime inicial aberto, como incursa no crime previsto no art. 304, caput, c/c o art. 71, ambos do Código Penal (e-STJ fls. 70/81).
+Irresignada, a defesa interpôs recurso de apelação, ao qual o Tribunal de origem negou provimento. De ofício, no entanto, a Corte a quo reconheceu a atenuante da confissão espontânea, deixando, no entanto, de redimensionar a reprimenda diante do disposto no enunciado 231 da Súmula de Jurisprudência deste Tribunal Superior. Eis a ementa do acórdão (e-STJ fls. 115/116):
+PENAL E PROCESSO PENAL. APELAÇÃO CRIMINAL. USO DE DOCUMENTO FALSO. CRIME CONTINUADO. AUTORIA E MATERIALIDADE, REGULARMENTE, COMPROVADAS. DECLARAÇÕES PRESTADAS PERANTE A AUTORIDADE POLICIAL, CORROBORADAS PELOS DEPOIMENTOS DAS TESTEMUNHAS DE ACUSAÇÃO, COLHIDOS PELO DOUTO JUÍZO A QUO, SOB O CRIVO DO CONTRADITÓRIO E DA AMPLA DEFESA. CONFISSÃO EXTRAJUDICIAL DA RÉ. EXAME PERICIAL. PRESCINDIBILIDADE. COMPROVAÇÃO DA FALSIDADE POR OUTROS MEIOS DE PROVA. PRECEDENTES DO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA. DE OFÍCIO, RECONHECIMENTO DA CIRCUNSTÂNCIA ATENUANTE DA CONFISSÃO ESPONTÂNEA. PENA-BASE NO MÍNIMO LEGAL. DIMINUIÇÃO DA REPRIMENDA. IMPOSSIBILIDADE. SÚMULA N.a 231 DO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA. REPRIMENDA FIXADA EM QUANTUM NECESSÁRIO E SUFICIENTE. APELAÇÃO CRIMINAL CONHECIDA E DESPROVIDA. DE OFÍCIO, RECONHECIDA A ATENUANTE DA CONFISSÃO ESPONTÂNEA.
+1. A materialidade do delito e a autoria de uso de documento falso encontram-se devidamente comprovadas, diante do Auto de Exibição e Apreensão, da prova testemunhai e da confissão extrajudicial da Apelante, no sentido de que fez uso dos atestados médicos, conseguidos por intermédio de terceiro.
+2. Dessarte, a ausência de perícia não acarreta, por si só, na atipicidade da prática do crime de uso de documento falso, quando a falsidade pode ser verificada por outros meios de prova, conforme ocorreu no presente caso. Precedentes do colendo Superior Tribunal de Justiça.
+3. Nesse ínterim, à luz dos elementos fáticos-probatórios, como bem ponderou o douto Juízo a cjuo, caracterizado o crime continuado, em razão das circunstâncias de tempo, lugar e maneira de execução, haja vista o uso dos atestados médicos, de forma reiterada, pela Apelante, como um desdobramento da conduta inicial.
+4. Lado outro, deve ser reconhecida a atenuante da confissão espontânea, prevista no art. 65, inciso EI, alínea "d", do Código Penal, pois a confissão extrajudicial da Apelante foi utilizada para fundamentar a condenação.
+5. Nada obstante, apesar de reconhecida a presença da atenuante da confissão, deixa-se de aplicá-la, em observância à Súmula n.º 231 do colendo Superior Tribunal de Justiça, que veda a redução da pena-base para patamar abaixo do mínimo legal.
+6. Apelação Criminal CONHECIDA E DESPROVIDA. DE OFÍCIO, RECONHECIDA A ATENUANTE DA CONFISSÃO ESPONTÂNEA.
+Daí o recurso especial, no qual a defesa alega, em síntese, que o Tribunal a quo, no acórdão recorrido, contrariou o disposto nos arts. 158 e 386, VII, ambos do Código de Processo Penal.
+Afirma que a ausência de realização da prova pericial deve dar ensejo à absolvição da ora recorrente dada a ausência de materialidade delitiva (e-STJ fls. 148/154).
+Contrarrazões às e-STJ fls. 158/162.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do recurso (e-STJ fls. 177/183).
+É o relatório.
+Decido.
+Preenchidos os pressupostos objetivos e subjetivos de admissibilidade do recurso especial, dele conheço.
+Adentrando-se propriamente no mérito da questão que nos é posta a julgamento, tenho que o entendimento desta Corte Superior fixou-se no sentido de que "a ausência de perícia não acarreta, por si só, nulidade do feito, pois se mostra desnecessária a realização de exame pericial quando a falsidade pode ser verificada por outros meios de prova" (HC 169.068/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 5/2/2016).
+Nesse sentido, precedentes de ambas as Turmas da Terceira Seção deste Tribunal Superior:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. INCIDENTE DE FALSIDADE DOCUMENTAL. PROVA PERICIAL. DESNECESSIDADE. OUTROS MEIOS PROBATÓRIOS. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DOMINANTE DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo a orientação do Superior Tribunal de Justiça, "A ausência de perícia não acarreta, por si só, nulidade do feito, pois se mostra desnecessária a realização de exame pericial quando a falsidade pode ser verificada por outros meios de prova, conforme ocorreu no presente caso" (HC n. 169.068/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 5/2/2016).
+2. Na espécie, o Tribunal de origem concluiu pela desnecessidade da produção de prova pericial para a declaração de falsidade documental, uma vez que há, nos autos, outros elementos probatórios capazes de demonstrar a inautenticidade do mencionado documento.
+3. Agravo regimental não provido.
+(AgRg no AREsp 875.722/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/11/2017, DJe 13/11/2017)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. ART. 304 DO CÓDIGO PENAL. EXAME PERICIAL. AUSÊNCIA. COMPROVAÇÃO DA FALSIDADE POR OUTROS MEIOS DE PROVA. POSSIBILIDADE. MODIFICAÇÃO QUE IMPLICA REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de perícia não acarreta, por si só, nulidade do feito, pois se mostra desnecessária a realização de exame pericial quando a falsidade pode ser verificada por outros meios de prova, conforme ocorreu no presente caso (HC 169.068/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 5.2.2016).
+2. Restando configurado o delito, concluir de forma diversa demandaria o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial, a teor do enunciado n. 7 da Súmula desta Corte.
+Agravo regimental desprovido.
+(AgRg no AREsp 1040096/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 18/04/2017, DJe 28/04/2017)
+In casu, sendo salientado pelo Tribunal de origem que a prolação da decisão condenatória tem respaldo em elementos probatórios outros (e-STJ fls. 122/126), inexiste respaldo ao pleito absolutório.
+Assim sendo, por não destoar da pacífica orientação deste Tribunal Superior, não merece reparo o acórdão proferido pela Corte a quo.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
