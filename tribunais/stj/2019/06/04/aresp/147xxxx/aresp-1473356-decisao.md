@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por PAN ARRENDAMENTO MERCANTIL S.A, de decisão que inadmitiu recurso especial fundado no art. 105, III, "c", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AÇÃO DE OBRIGAÇÃO DE FAZER. FASE DE CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO OFERTADA PELO AGRAVANTE PARCIALMENTE ACOLHIDA. MULTA DIÁRIA REDUZIDA, NOS TERMOS DO ARTIGO 537, §1% do NCPC, PARA R$ 10.000,00 (DEZ MIL REAIS). PRETENSÃO RECURSAL DE AFASTAMENTO INTEGRAL DAS "ASTREINTES". SISTEMÁTICA PROCESSUAL ESTABELECIDA A PARTIR DA LEI 11.232/2005 QUE TORNOU DESNECESSÁRIA A INTIMAÇÃO PESSOAL DO DEVEDOR QUE POSSUI ADVOGADO CONSTITUÍDO NOS AUTOS, PARA CUMPRIMENTO DA OBRIGAÇÃO DE FAZER. SUFICIÊNCIA DA INTIMAÇÃO VIA DIÁRIO OFICIAL. PRECEDENTES DO C. STJ. DECISÃO MANTIDA. RECURSO DESPROVIDO"
+Em suas razões recursais, parte recorrente apontou a existência de dissídio jurisprudencial quanto à necessidade de intimação pessoal para cumprimento da obrigação na forma da Súmula 410 do STJ. Pleiteia, por isso, o afastamento das astreintes.
+Contrarrazões apresentadas.
+É o relatório. Passo a decidir.
+O Tribunal de origem, ao julgar o agravo de instrumento, consignou que o entendimento da Súmula nº 410 continua vigente apenas para casos em que a executividade da obrigação de fazer tenha se constituído sob o regime processual anterior à vigência da Lei nº 11.232/2005. E, acrescentou: "À luz de tal posicionamento, era mesmo suficiente a intimação do agravante para cumprimento da obrigação através de seu patrono constituído nos autos, via imprensa oficial" (fls. 85-90).
+Como se vê dos excertos acima transcritos, o acórdão recorrido destoa da jurisprudência desta Corte. Logo, está configurado o dissídio interpretativo a respeito da aplicabilidade da Súmula 410/STJ, que tem a seguinte redação:
+ "A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer."
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. DESCUMPRIMENTO. MULTA DIÁRIA. INTIMAÇÃO PESSOAL. AUSÊNCIA. SÚMULA N. 410-STJ.
+1. "A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer." Entendimento compendiado na Súmula n. 410, editada em 25.11.2009, anos após a entrada em vigor da Lei 11.232/2005, o qual continua válido em face do ordenamento jurídico em vigor. Esclarecimento do decidido pela 2ª Seção no EAg 857.758-RS. (REsp 1349790/RJ, de minha relatoria, SEGUNDA SEÇÃO, DJe 27/2/2014).
+2. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1360577/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/04/2015, DJe 27/04/2015, grifou-se)
+"PROCESSUAL CIVIL. ASTREINTES. DESCUMPRIMENTO DE DETERMINAÇÃO JUDICIAL EM TUTELA ANTECIPADA DE DEPOSITAR NUMERÁRIO DISPONÍVEL EM CONTA-CORRENTE NO EXTERIOR NA CONTA-CORRENTE DA EX-CÔNJUGE. OBRIGAÇÃO DE FAZER PESSOAL. TERMO INICIAL DA COBRANÇA DA MULTA. INTIMAÇÃO PESSOAL DO DEVEDOR. PRECEDENTES. SÚMULA Nº 410 DO STJ. RECURSO ESPECIAL PROVIDO.
+1. A jurisprudência desta egrégia Corte Superior tem entendimento consolidado de que somente é possível a exigência da astreinte da obrigação de fazer por descumprimento da ordem judicial, quando a parte a ela obrigada for intimada pessoalmente, não sendo suficiente a realizada no seu patrono. Precedentes.
+2. Incidência da Súmula nº 410 desta Corte que dispõe que a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer.
+3. Recurso especial provido."
+(REsp 1371847/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 28/04/2015, DJe 12/05/2015)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INOCORRÊNCIA. ART. 24 E § 1º, DA LEI N. 8.906/1974. SÚMULAS 282/STF E 211/STJ. MULTA DO ART. 461 DO CPC EM AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. INVIABILIDADE. ASTREINTES. COISA JULGADA. NÃO FORMAÇÃO. MULTA. INTIMAÇÃO PESSOAL. NECESSIDADE. AGRAVO NÃO PROVIDO.
+1. A matéria referente ao art. 24 e § 1º, da Lei n. 8.906/1974 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. É entendimento pacífico no âmbito desta Corte Superior de que não se admite a fixação de astreintes em ação de exibição de documentos, nos termos da súmula 372/STJ; bem como de que a multa cominatória prevista no art. 461 do CPC não se reveste da imutabilidade da coisa julgada, sendo insuscetível de preclusão. Precedentes.
+3. Tratando-se de astreintes fixadas em obrigação de fazer, sua incidência tem início com a intimação pessoal do devedor para cumprimento da obrigação, conforme preceituado na Súmula 410 do Superior Tribunal de Justiça. Precedentes.
+4. Agravo regimental não provido."
+(AgRg no AREsp 511.348/PA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/06/2015, DJe 26/06/2015)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. OBRIGAÇÃO DE FAZER. ASTREINTES. TERMO INICIAL DA INCIDÊNCIA. INTIMAÇÃO PESSOAL DO DEVEDOR. PRECEDENTES DO STJ. RECURSO EMINENTEMENTE PROCRASTINATÓRIO. IMPROVIMENTO COM APLICAÇÃO DE MULTA. ART. 557, § 2º, DO CPC.
+I. Firmou-se a jurisprudência do Superior Tribunal de Justiça, em reiterados precedentes, no sentido de que tratando-se de multa em obrigação de fazer, o dies a quo da incidência da multa diária inicia com a intimação pessoal do devedor para cumprimento da obrigação.
+II. Embargos declaratórios recebidos como agravo regimental a que se nega provimento, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 557, § 2º, do CPC, ficando a interposição de novos recursos sujeita ao prévio recolhimento da penalidade imposta.
+(AgRg no Ag 1189289/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, DJe de 28/04/2010)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de que as astreintes sejam fixadas apenas a partir da intimação pessoal do devedor para cumprir a obrigação.
+Publique-se.
