@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO CRIMINAL - CRIME CONTRA O PATRIMÔNIO - FURTO SIMPLES (CP ART 155 CAPUT CP) - SENTENÇA CONDENATÓRIA - RECURSO DA DEFESA - APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS - TENTATIVA - ALMEJADO RECONHECIMENTO - NÃO ACOLHIMENTO - DOSIMETRIA - PENA-BASE - VETOR DE ANTECEDENTES CRIMINAIS - REANÁLISE - POSSIBILIDADE - REDIMENSIONAMENTO DA PENA - NECESSIDADE - RECURSO PROVIDO SENTENÇA PARCIALMENTE REFORMADA.
+Quanto à controvérsia, alega violação do art. 155 do Código Penal, no que concerne ao dissídio jurisprudencial no que tange a aplicação do princípio da insignificância em razão do ínfimo valor da coisa tida como furtada e a primariedade do autor.
+Para justificar a sua alegação trouxe como acórdão paradigma o: Aglnt no Número Registro: 2016/0130255-1 REsp 1.599.578 / RS MATÉRIA CRIMINAL Números Origem: 00038711320138210005 00521300013404 521300013404 [CPF] [CPF] EM MESA JULGADO: 07/06/2016 Relatora Exma. Sra. Ministra MARIA THEREZA DE ASSIS MOURA Presidente da Sessão Exmo. Sr. Ministro ROGERIO SCHIETTI CRUZ Subprocurador -Geral da República Exmo. Sr. Dr. ROBERTO LUIS OPPERMANN THOME. (fls. 268).
+É o relatório. Decido.
+No que concerne ao recurso de apresentado, na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que inexistente a necessária identidade jurídica e/ou similitude fática entre o acórdão recorrido e o(s) paradigma(s) indicado(s).
+Nesse sentido, o STJ fixou que "o conhecimento da divergência jurisprudencial reclama a existência de similitude fático-jurídica entre o acórdão recorrido e os paradigmas submetidos a confronto" (EDcl no Resp n. 1.254.636/ES, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 23/4/2015).
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp n. 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; e AgRg no REsp n. 1.500.980/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/3/2015).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
