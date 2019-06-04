@@ -1,6 +1,6 @@
 Art. 40. Os serviços poderão ser interrompidos pelo prestador nas seguintes hipóteses:
 I - situações de emergência que atinjam a segurança de pessoas e bens;
-II - necessidade de efetuar reparos, modificações ou melhorias de qualquer natureza nos sistemas, respeitados os padrões de qualidade e continuidade estabelecidos pela regulação do serviço;
+II - necessidade de efetuar reparos, modificações ou melhorias de qualquer natureza nos sistemas;
 III - negativa do usuário em permitir a instalação de dispositivo de leitura de água consumida, após ter sido previamente notificado a respeito;
 IV - manipulação indevida de qualquer tubulação, medidor ou outra instalação do prestador, por parte do usuário; e
 V - inadimplemento do usuário do serviço de abastecimento de água, do pagamento das tarifas, após ter sido formalmente notificado.
