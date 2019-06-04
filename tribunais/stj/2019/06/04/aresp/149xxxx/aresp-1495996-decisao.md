@@ -1,0 +1,39 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE USO RESTRITO COM NUMERAÇÃO SUPRIMIDA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+ Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu o seu recurso especial manejado em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado da Bahia.
+Consta dos autos que o agravante foi condenado como incuso nas sanções do artigo 16 da Lei 10.826/2003 à pena de 03 (três) anos de reclusão, em regime aberto, e ao pagamento de 10 (dez) dias-multa, sendo substituída a pena privativa de liberdade por pena restritivas de direito (fls. 265-266).
+O eg. Tribunal a quo, por unanimidade, negou provimento ao recurso de apelação da Defesa, em decisão assim ementada:
+"APELAÇÃO CRIMINAL. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO COM NUMERAÇÃO SUPRI- MIDA. MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADOS. APELANTE PRESO EM FLAGRANTE NA POSSE DA ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. VALIDADE DOS DEPOIMENTOS DOS POLI- CIAIS QUE EFETUARAM A PRISÃO EM FLAGRANTE. DOSIMETRIA. PENA APLICADA NO MÍNIMO LEGAL. SUBSTITUÍDA POR PENA DE RESTRIÇÃO DE DIREITO. SENTENÇA ESCORREITA. RECURSO IMPROVIDO." (fl. 380)
+Nas razões do recurso especial (fls. 398-416), com fulcro no artigo 105, inciso III, alínea a, a parte recorrente sustenta violação aos artigos 155 e 386, inciso VII do Código Penal, ante a ausência de prova para o édito condenatório, pois as testemunhas ouvidas foram apenas os policias que efetuaram a prisão em flagrante e, mais, "o crime de porte de arma de fogo é um crime de perigo abstrato, de modo que inexistiu lesão ou perigo de lesão a qualquer bem jurídico tutelado pelo Direito Penal." (fl. 425)
+Apresentadas as contrarrazões (fls. 455-464), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ, quanto a alegação da ausência de provas, pois a análise do acórdão recorrido implicaria em revolvimento de matéria fático-probatória e da Súmula 83/STJ, acerca da violação ao artigo 155 do Códgo de Processo Penal, visto que a orientação do Tribunal encontra-se no mesmo sentido da decisão da origem recorrida (fls. 477-478).
+Nas razões do agravo (fls. 493-502), postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão.
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 545-550).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Como relatado, o recurso especial foi inadmitido na origem em razão da incidência das Súmulas 7 e 83, ambas do STJ..
+Neste agravo, a Defesa, no entanto, deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+In casu, a parte limitou-se a asseverar o que segue:
+"As matérias ventiladas em sede de Recurso Especial, notadamente a violação aos art. 155 e 386, VII, do Código de Processo Penal, versam sobrem questão de direito, sendo desnecessário, pois, o reexame do acervo probatório.
+Inicialmente, em relação à violação do art. 386, VII, bem como o art. 155, ambos do Código de Processo Penal, a leitura das razões de recurso especial revela que o Enunciado nº 07 da Súmula deste Superior Tribunal de Justiça não incide sobre as espécies.
+Verifica-se patente violação ao art. 386, VII, do CPP, visto que o embasamento fático para a prolação do édito condenatório se restringiu, tão somente, aos depoimentos dos policiais militares responsáveis pela prisão do recorrente." (fl. 496)
+E, ainda, quanto a Súmula 83/STJ:
+"Outrossim, no que tange à súmula nº 83 invocada pela d. desembargadora, os recentes julgados invocados como paradigma pelo recorrente obedecem todas as regras estabelecidas pelo art. 255, do RISTJ, demonstrando decisões controversas dos tribunais sobre a questão, o que determina a admissão do Recurso Especial, a fim de que o Superior Tribunal de Justiça possa examinar o tema e pacificar a jurisprudência.
+Ademais, a jurisprudência do STJ não está pacificada no mesmo sentido da decisão recorrida, como equivocadamente entendeu o r. despacho de inadmissão." (fl. 501)
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, e, ainda, ter comprovado, por meio da indicação de precedentes contemporâneos ou supervenientes desta Corte Superior, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, o que não ocorreu.
+Com efeito: " ..  esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+Desse modo, a ausência de impugnação dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre obsta o conhecimento do agravo, nos termos do artigo 932, inciso III, do CPC, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE FIXAÇÃO DE REGIME INICIAL DE PENA MAIS BRANDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, especificamente não enfrentou de maneira adequada a incidência da Súmula 284 do STF.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido" (AgInt no AREsp n. 1.140.814/SP, Quinta Turma, de minha relatoria, DJe de 16/02/2018).
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ.
+1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos." (AgRg no AREsp n. 1.074.077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/12/2017).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+Ante o exposto, nos termos do art. 253, parágrafo único, inciso I, do RISTJ, não conheço do agravo.
+P.I.
