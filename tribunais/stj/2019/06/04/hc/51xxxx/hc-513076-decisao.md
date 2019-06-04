@@ -1,0 +1,21 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS (172g DE MACONHA). PRISÃO PREVENTIVA. LEGALIDADE. REITERAÇÃO DELITIVA. 7 CONDENAÇÕES ANTERIORES COM TRÂNSITO EM JULGADO. IMPETRAÇÃO CONTRA DECISÃO QUE INDEFERIU PEDIDO LIMINAR NA ORIGEM. AUSÊNCIA DE ILEGALIDADE MANIFESTA. APLICAÇÃO DA SÚMULA 691/STF.
+Petição inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo.
+Tem-se dos autos que o paciente foi preso em flagrante, tendo o Juízo de Direito da 1ª Vara da comarca de Osvaldo Cruz/SP convertido a prisão em flagrante em preventiva, pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006 (fls. 20/23, Processo n. 1500621-02.2019.8.26.0407).
+Ao apontar ilegalidade na prisão preventiva, porque carente de fundamentação concreta, a defesa impetrou habeas corpus com pedido de liminar, tendo o Tribunal de Justiça indeferido a medida urgente (fls. 17/19 - Habeas Corpus n. 2114973-70.2019.8.26.0000).
+Tem-se o presente writ, reiterando a insurgência, no qual se requer a concessão liminar da ordem para revogar a prisão preventiva por ausência de fundamentação idônea ou, subsidiariamente, a revogação da prisão preventiva com imposição de medidas cautelares diversas da prisão.
+É o relatório.
+As Turmas integrantes da Terceira Seção desta Corte, na esteira do preceituado na Súmula 691/STF, têm entendimento pacificado de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar em ação de igual natureza, ajuizada nos Tribunais de segundo grau.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Ao decretar a prisão preventiva, o Juiz de piso teceu os seguintes fundamentos (fl. 23 - grifo nosso):
+ ..
+Nesse sentido, leva-se em conta não apenas a nefasta natureza do crime (tráfico de entorpecente, equiparado aos hediondos e especialmente reprovado pela Constituição Federal), como também sua concreta gravidade, representada pelas específicas nuances do caso concreto, quais sejam, a quantidade da droga apreendida e sua destinação a mercancia, que sinalizam inequívoca aptidão da conduta para desestabilizar a ordem social no contexto desta região. Essa conduta, além do mais, pode indicar a inserção do autuado em meio criminoso de maior dimensão, a recomendar a persistência da segregação cautelar como forma de acautelamento da sociedade, mormente ao ter em conta, diante da ausência de demonstração de atividade econômica lícita, a relevante possibilidade de reiteração em caso de imediata liberação. Ademais, os antecedentes criminais do increpado (fls. 55/58), evidenciam que, em liberdade, o averiguado voltará a praticar novos delitos, causando grande distúrbio à ordem pública. A conveniência da instrução criminal também está comprovada porque o acusado poderá influir nos depoimentos que venham a ser prestados por testemunhas presenciais do fato. Tal contexto denota que as outras medidas cautelares diversas da prisão serão inócuas no caso telado, ou seja, inadequadas e insuficientes para gravidade do caso, diante do referido contexto. Necessário, por fim, acautelar ao meio social, bem como a preservar minimamente a credibilidade da Justiça.
+Deste modo, necessária a prisão preventiva, sendo inviável a soltura ou a fixação de medidas cautelares.
+ ..
+Ora, pelo que consta dos autos, a prisão preventiva do paciente foi fundamentada, também, em seus antecedentes criminais, visto que consta contra ele 7 condenações com trânsito em julgado, sendo duas pelo delito de furto e cinco pelo delito de posse de droga para uso pessoal, o que, a meu ver, a priori, justifica a manutenção da prisão cautelar.
+De mais a mais, o Relator do prévio writ indeferiu a liminar afastando qualquer ilegalidade flagrante na prisão preventiva do paciente.
+Convém, portanto, aguardar o trâmite regular do habeas corpus impetrado da origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
