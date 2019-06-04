@@ -1,0 +1,69 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] KRETZER, contra decisão denegatória do seguimento de recurso especial, por sua vez manejado com amparo na alínea "a" e "c" do permissivo constitucional, objetivando a reforma de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+APELAÇÕES CÍVEIS. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DE TUTELA E INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DA UNIMED E DA CELOS EM AUTORIZAR MEDICAMENTO PRESCRITO PELO MÉDICO AO ARGUMENTO DE QUE A MEDICAÇÃO POSSUI CARÁTER EXPERIMENTAL. SENTENÇA DE PROCEDÊNCIA. RECURSO DAS RÉS. PRELIMINAR DE ILEGITIMIDADE PASSIVA AD CAUSAM DA UNIMED. AFASTADA. MÉRITO. ALEGAÇÃO DE AUSÊNCIA DE COBERTURA PARA TRATAMENTO EXPERIMENTAL. [NOME]. AUTORA QUE APRESENTOU DIAGNÓSTICO DE EDEMA MACULAR DE OLHO ESQUERDO. INDICAÇÃO DE TRATAMENTO COM O USO DE MEDICAMENTO ESPECÍFICO COM O INTUITO DE TRATAR A DOENÇA. EXISTÊNCIA DE COBERTURA CONTRATADA PARA O TRATAMENTO NA ÁREA DE OFTALMOLOGIA. NEGATIVA INJUSTIFICADA. DISPOSIÇÕES CONTRATUAIS INTERPRETADAS DE MANEIRA MAIS FAVORÁVEL AO ADERENTE (ART. 423 DO CÓDIGO CIVIL). PREVALÊNCIA AO BEM MAIOR A SER TUTELADO. GARANTIA DA INTEGRIDADE FÍSICA DA PACIENTE. COBERTURA DEVIDA. DANO MORAL NÃO CONSTATADO. INDENIZAÇÃO AFASTADA. SENTENÇA PARCIALMENTE REFORMADA REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Contra a decisão foram manejados embargos de declaração (fls. 312-330), os quais foram rejeitados (fls. 335-344).
+Nas razões do recurso especial, além de dissídio jurisprudencial (REp nº 1.651.289/SP), a parte suscita violações aos arts. 186 e 927 do CC, art. 6º, VI do CDC, afirmando que a recusa injustificada de cobertura de procedimento médico ou fornecimento de medicamento por operadora de plano de saúde, caracteriza abalo moral a ensejar reparação a título de indenização.
+O recurso recebeu crivo negativo de admissibilidade na origem (fls. 398-400), decisão contra a qual foi interposto o presente agravo (fls. 402-407).
+É o relatório. Decido.
+2. Preliminarmente, conheço do recurso ante a demonstração da divergência jurisprudencial.
+Com efeito, o acórdão vergastado merece ser reformado, pois a matéria não é nova nesta Corte, que sedimentou entendimento no sentido de que a recusa injustificada de cobertura médica a associado de Plano de Saúde configura abuso de direito e descumprimento de norma contratual, capazes de gerar dano moral indenizável.
+À guisa de exemplo, os seguintes julgados:
+CIVIL E PROCESSUAL. RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. NEGATIVA. PROCEDIMENTO DE URGÊNCIA. DANO MORAL. CABIMENTO. RECURSO PROVIDO.
+I. A recusa da cobertura de procedimento médico-cirúrgico por parte de prestadora de plano de saúde enseja dano moral quando aquela se mostra ilegítima e abusiva, e do fato resulta abalo que extrapola o plano do mero dissabor.
+II. Caso em que a situação do autor era grave e o risco de sequelas evidente, ante a amputação, por necrose, já ocorrida em outro membro, que necessitava urgente de tratamento preventivo para restabelecer a adequada circulação.
+II. Recuso especial conhecido e provido.
+(REsp 1167525/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 22/03/2011, DJe 28/03/2011)
+PLANO DE SAÚDE. RECUSA INJUSTIFICADA DE PROCEDER INTERNAÇÃO EM UTI. COMA. DESCUMPRIMENTO DE NORMA CONTRATUAL A GERAR DANO MORAL INDENIZÁVEL. RECURSO ESPECIAL PROVIDO.
+1. A recusa injustificada para a internação de associado de Plano de Saúde, em estado de coma, configura abuso de direito e descumprimento de norma contratual, capaz de gerar dano moral indenizável.
+2. A angústia experimentada pelo esposo e filhos da paciente, em face do medo de óbito, o temor em não conseguir obter o numerário necessário ás despesas de sua internação, acarretando a venda de bem imóvel familiar, caracterizam situações que vão além de mero aborrecimento e desconforto.
+3. As cláusulas restritivas ao direito do consumidor devem ser interpretadas da forma mais benéfica a este, não sendo razoável a seguradora se recusar a prestar a cobertura solicitada, principalmente existindo o risco de morte.
+4. Recurso especial provido.
+(REsp 907.655/ES, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/12/2010, DJe 09/12/2010)
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. DIREITO CIVIL E DO CONSUMIDOR. RESPONSABILIDADE CIVIL. PLANO DE SAÚDE. NEGATIVA ILEGAL DE COBERTURA. DANO MORAL. CABIMENTO.
+1. A agravante não trouxe argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, razão que enseja a negativa de provimento ao agravo regimental.
+2. Conquanto geralmente nos contratos o mero inadimplemento contratual não enseja o direito ao ressarcimento dos danos morais, a jurisprudência desta Corte é assente no sentido de que, considerada injusta a recusa de cobertura de seguro de saúde, é devida a indenização pelo agravamento da situação de aflição psicológica e de angústia no espírito do assegurado. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1100359/MT, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), TERCEIRA TURMA, julgado em 23/11/2010, DJe 03/12/2010)
+AGRAVO REGIMENTAL. PLANO DE SAÚDE. PROCEDIMENTO CIRÚRGICO. RECUSA DA COBERTURA. INDENIZAÇÃO POR DANO MORAL. CABIMENTO.
+I - Em determinadas situações, a recusa à cobertura médica pode ensejar reparação a título de dano moral, por revelar comportamento abusivo por parte da operadora do plano de saúde que extrapola o simples descumprimento de cláusula contratual ou a esfera do mero aborrecimento, agravando a situação de aflição psicológica e de angústia no espírito do segurado, já combalido pela própria doença.
+Precedentes.
+II - Em casos que tais, o comportamento abusivo por parte da operadora do plano de saúde se caracteriza pela injusta recusa, não sendo determinante se esta ocorreu antes ou depois da realização da cirurgia, embora tal fato possa ser considerado na análise das circunstâncias objetivas e subjetivas que determinam a fixação do quantum reparatório.
+III - Agravo Regimental improvido.
+(AgRg no Ag 884.832/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 26/10/2010, DJe 09/11/2010)
+Civil e Consumidor. Recurso Especial. Ação de reparação por danos materiais e compensação por danos morais. Embargos de declaração.
+Omissão, contradição ou obscuridade. Inexistência. Negativa ilegal de cobertura, pelo plano de saúde, a atendimento médico de emergência. Configuração de danos morais.
+- Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+- Conquanto a jurisprudência do STJ seja no sentido de que o mero inadimplemento contratual não ocasiona danos morais, esse entendimento deve ser excepcionado nas hipóteses em que da própria descrição das circunstâncias que perfazem o ilícito material é possível se verificar consequências de cunho psicológico que são resultado direto do inadimplemento.
+- A recusa indevida à cobertura médica ocasiona danos morais, pois agrava o contexto de aflição psicológica e de angústia sofrido pelo segurado.
+- Neste processo, a infundada recusa na cobertura do plano de saúde ocorreu após a realização dos procedimentos médicos necessários, ou seja, o paciente teve seu atendimento médico realizado e, durante o período de recuperação cirúrgica, a cobertura foi negada.
+- Essa particularidade, todavia, não ilide o reconhecimento dos danos morais, pois, de acordo com o conjunto fático dos autos, a segurada foi submetida a elevado sofrimento psicológico, depois de um procedimento cirúrgico de emergência.
+Recurso especial conhecido e parcialmente provido.
+(REsp 1072308/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/05/2010, DJe 10/06/2010)
+3. No caso em tela, o Tribunal de origem, reformou a sentença e afastou a condenação por danos morais, por entender que não fixou caracterizado abalo aos direitos de personalidade da parte agravante, nos seguintes termos (fls. 303-306):
+Os documentos juntados aos autos comprovam que a autora foi diagnosticada com edema macular em olho esquerdo, CID H53.3, sua acuidade visual é de 20/30 e necessita da medicação Lucentis para aplicação de 3 injeções mensais e manutenção a cada 2 meses, a critério do médico assistente (fl. 23).
+No caso em tela, evidente que a paciente nunca imaginou que as rés iriam negar o tratamento de que necessita e previsto no contrato firmado, sob o argumento de que a medicação indicada é experimental ou o medicamento não preenche as diretrizes da ANS.
+O direito subjetivo assegurado no contrato de plano de saúde não pode ser exercido de forma a subtrair do negócio sua finalidade precípua. Assim, se há previsão contratual de assistência à saúde na área de oftalmologia, inclusive com a realização de procedimentos cirúrgicos, não é legítimo condicionar a realização de determinado procedimentos a determinadas diretrizes, que nunca foram esclarecidas à contratante.
+Se a autora firmou contrato de prestação de serviços médicos hospitalares que previa a cobertura para a enfermidade que apresenta, ela acreditava que os desdobramentos necessários e essenciais a esse tratamento, estariam incluídos na cobertura contratada, pois o objetivo principal de quem contrata plano de saúde é sentir-se "coberto" e assegurado em eventuais fatalidades relacionadas à saúde.
+Ora se a assistência médica na área da oftalmologia está coberto pelo plano de saúde que contratou, o medicamento indicado pelo médico assistente para o tratamento de doença oftalmológica deve ser autorizado e não há como acolher a tese de que se refere a tratamento experimental e por isso, não merece cobertura.
+Com efeito, havendo plano de saúde contratado que abrange a possibilidade de tratamento para as enfermidades apresentadas, não há razão que justifique a negativa da utilização do medicamento que assegure o tratamento da patologia que acomete o autor e pode melhorar sua qualidade de vida.
+(..)
+Então, não cabe às rés escolher qual a melhor maneira de se realizar o tratamento, pois possuem a obrigação contratual de autorizarem e de custearem o tratamento médico indicado.
+Assim, ficou plenamente comprovada a abusividade e a ilegalidade da negativa das rés em fornecer o medicamento que poderá tratar a doença apresentada pela autora e amenizar o sofrimento decorrente dos desdobramentos dessa doença.
+Por fim, observado também que o tratamento solicitado não está inserido nas hipóteses de exclusão de cobertura indicadas pelo contrato em causa (fls. 123-124).
+(..)
+Embora em alguns casos de negativa de cobertura este Tribunal de Justiça tenha decidido pela ocorrência de abalo psicológico, no caso em tela, não parece que a autora tenha sofrido algum dano de forma a legitimar a indenização imposta.
+Verifica-se que, não obstante a negativa de cobertura datada de 18-9-2013 (fl. 27), em 6-11-2013, ou seja, em menos de dois meses, foi concedida a antecipação de tutela com a determinação de que as rés providenciassem a autorização para o tratamento da autora com a utilização da medicação Lucentis prescrita pelo médico assistente (fls. 43-45).
+(..)
+Nesse contexto, não se nega que a autora tenha ficado insatisfeita com os serviços prestados pelas rés e tenha experimentado sentimentos de desconforto e descontentamento, contudo, não se constata a ocorrência de abalo psicológico a justificar o pedido indenizatório.
+Portanto, afasta-se a indenização por danos morais.
+ g.n
+Todavia, entendo que pelas premissas fáticas delineadas pelo acórdão vergastado, a recusa do plano de saúde em autorizar o tratamento de moléstia grave a idoso, qual seja, endema macular no olho esquerdo tendente a acarretar-lhe cegueira, afigura-se injustificada e gera o direito à indenização por dano moral.
+É de destacar, ainda, que o Código de Defesa do Consumidor estabelece normas de ordem pública e interesse social, consagrando, em seu artigo 4º, os princípios da boa-fé objetiva, eqüidade, assim como coíbe o abuso de direito que, no caso, restou configurado.
+Efetivamente, a seguradora não poderia, absolutamente, se recusar a prestar a cobertura solicitada.
+Dessa forma, o descumprimento de norma contratual que não inflige dano moral é aquele que apenas causa desconforto ou aborrecimento superficial, como é exemplo a ocorrência de pequeno atraso na realização de uma cirurgia de rotina.
+O aborrecimento e a angústia diante da impossibilidade de tratamento médico, capaz de leva-lo à completa cegueira, configuram conseqüência moral indenizável, configurando muito mais que uma reação aos incômodos naturais dos embates normais presentes no cotidiano de um indivíduo.
+Na hipótese vertente, o próprio acórdão reconheceu que a recorrida deveria ter prestado os serviços médicos a que se propôs no contrato, por estarem cobertos pelo plano de saúde.
+O descumprimento do contrato, em face da urgência da situação, trouxe, portanto, conseqüências que ultrapassaram o simples desconforto e mal-estar, agravando sobremaneira o equilíbrio emocional e psicológico do recorrente, já afetado em face do risco de cegueira.
+A sentença, a seu turno, registrou a existência de abalo moral indenizável, condenando a recorrida ao pagamento de R$ 10.000,00 (dez mil reais) a título de indenização, valor este que entendo razoável e proporcional para o caso em tela, sendo restabelecidos os seus efeitos.
+4. Ante o exposto, conheço do agravo e dou provimento ao recurso especial para restaurar a sentença no tocante aos valores arbitrados a título de indenização por danos morais. Tendo em vista a reforma do julgado e, em observância ao art. 85, § 11 do CPC, bem como ao julgamento do EDcl no AgInt no REsp 1573573/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/04/2017, DJe 08/05/2017, condeno o recorrido aos ônus sucumbenciais e verba honorária a qual fixo em 15% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
