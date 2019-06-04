@@ -1,0 +1,84 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO PREVIDENCIÁRIO. OMISSÃO. INEXISTÊNCIA. ERRO DE TIPO. AUSÊNCIA DE DOLO. SÚMULA 7/STJ. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. VALOR DA PENA DE MULTA. FIXAÇÃO COM BASE NA SITUAÇÃO ECONOMICA DA RÉ. ALTERAÇÃO DO JULGADO. REEXAME DE PROVAS. AGRAVO NÃO PROVIDO.
+1. É incabível sustentação oral em sede de agravo regimental, a teor do disposto no art. 159 do Regimento Interno do Superior Tribunal de Justiça.
+2. Não compete ao Superior Tribunal de Justiça o enfrentamento de suposta ofensa a dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. O aresto impugnado rechaçou as teses da acusada tanto em relação ao erro de tipo quanto à dosimetria da pena. Desse modo, não lhe assiste razão, no que toca à existência de omissão no acórdão objurgado, haja vista que as questões foram suficientemente apreciadas.
+4. No que se refere à suscitada negativa de vigência ao art. 20 do Código Penal, sob o argumento de que não agiu com dolo, tendo incidido em erro de tipo, melhor sorte não socorre à recorrente. Isso porque, consoante apurado pelo Tribunal de origem, repita-se, "as Provas produzidas nos autos são conclusivas quanto ao conhecimento da Ré, ora Apelante, sobre a inserção de vínculos laborais fictícios em sua Carteira de Trabalho e da Previdência Social (CTPS), que instruiu o Requerimento de concessão de Aposentadoria por Tempo de Contribuição, sendo que a inserção de tais vínculos fora realizado por Servidora do INSS, conforme Laudo Grafotécnico da Polícia Federal. Sua condição de universitária à época, a grande experiência como Comerciária e o teor do Interrogatório que prestou, em Juízo, elidem a alegação de desconhecimento da ilicitude ou Erro de Tipo" (e-STJ, fl. 290). Nesse contexto, a alteração do julgado a fim reconhecer que a ré não agiu com dolo, demandaria necessariamente o reexame dos elementos fáticos e probatórios dos autos, providência inviável nesta via especial, a teor do que dispõe a Súmula 7/STJ.
+5. Foram apresentados elementos concretos, que não são inerentes ao tipo penal, afim de valorar negativamente a culpabilidade, notadamente o valor e o longo tempo que a ré recebeu o benefício indevidamente.
+6. Do mesmo modo, quanto às circunstâncias do crime, o acórdão pontuou que a fraudadora, além de apresentar documentos falsos, utilizou-se de terceira pessoa para auxilia-la no cometimento do delito, o que denota um maior grau de reprovabilidade da conduta.
+7 No que toca ao pedido de redução da pena de multa, cumpre observar que essa foi fixada pelas instâncias ordinárias, levando-se em conta "a atual situação econômica da ré", de modo que a alteração do julgado quanto ao ponto também encontra óbice na Súmula 7 desta Corte, haja vista a necessidade de incursão no arcabouço fático e probatório dos autos.
+8. Agravo regimental a que se nega provimento.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer e Jorge Mussi votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de agravo regimental interposto por [NOME] contra decisão de minha Relatoria que, fundamentada no art. 255, § 4º, I, do Regimento Interno do STJ, não conheceu do recurso especial.
+A agravante alega, inicialmente, violação ao artigo 5º, LV, da Constituição da República, pois "entende ser o caso de se conferir ao artigo 159 do RISTJ interpretação conforme ao referido dispositivo constitucional, permitindo à defesa a realização de sustentação oral quando do julgamento do presente agravo, mediante a prévia intimação pessoal" (e-STJ, fl. 357).
+Reitera os argumentos expendidos no apelo nobre, no sentido de que o acórdão recorrido negou vigência ao art. 619 do CPP e que houve exacerbação da pena-base, sem a apresentação de fundamentação idônea para tanto.
+Afirma, ainda, a inaplicabilidade do óbice da Súmula 7/STJ à espécie.
+Requer a reconsideração da decisão agravada ou a submissão do feito à Turma Julgadora.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO PREVIDENCIÁRIO. OMISSÃO. INEXISTÊNCIA. ERRO DE TIPO. AUSÊNCIA DE DOLO. SÚMULA 7/STJ. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. VALOR DA PENA DE MULTA. FIXAÇÃO COM BASE NA SITUAÇÃO ECONOMICA DA RÉ. ALTERAÇÃO DO JULGADO. REEXAME DE PROVAS. AGRAVO NÃO PROVIDO.
+1. É incabível sustentação oral em sede de agravo regimental, a teor do disposto no art. 159 do Regimento Interno do Superior Tribunal de Justiça.
+2. Não compete ao Superior Tribunal de Justiça o enfrentamento de suposta ofensa a dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. O aresto impugnado rechaçou as teses da acusada tanto em relação ao erro de tipo quanto à dosimetria da pena. Desse modo, não lhe assiste razão, no que toca à existência de omissão no acórdão objurgado, haja vista que as questões foram suficientemente apreciadas.
+4. No que se refere à suscitada negativa de vigência ao art. 20 do Código Penal, sob o argumento de que não agiu com dolo, tendo incidido em erro de tipo, melhor sorte não socorre à recorrente. Isso porque, consoante apurado pelo Tribunal de origem, repita-se, "as Provas produzidas nos autos são conclusivas quanto ao conhecimento da Ré, ora Apelante, sobre a inserção de vínculos laborais fictícios em sua Carteira de Trabalho e da Previdência Social (CTPS), que instruiu o Requerimento de concessão de Aposentadoria por Tempo de Contribuição, sendo que a inserção de tais vínculos fora realizado por Servidora do INSS, conforme Laudo Grafotécnico da Polícia Federal. Sua condição de universitária à época, a grande experiência como Comerciária e o teor do Interrogatório que prestou, em Juízo, elidem a alegação de desconhecimento da ilicitude ou Erro de Tipo" (e-STJ, fl. 290). Nesse contexto, a alteração do julgado a fim reconhecer que a ré não agiu com dolo, demandaria necessariamente o reexame dos elementos fáticos e probatórios dos autos, providência inviável nesta via especial, a teor do que dispõe a Súmula 7/STJ.
+5. Foram apresentados elementos concretos, que não são inerentes ao tipo penal, afim de valorar negativamente a culpabilidade, notadamente o valor e o longo tempo que a ré recebeu o benefício indevidamente.
+6. Do mesmo modo, quanto às circunstâncias do crime, o acórdão pontuou que a fraudadora, além de apresentar documentos falsos, utilizou-se de terceira pessoa para auxilia-la no cometimento do delito, o que denota um maior grau de reprovabilidade da conduta.
+7 No que toca ao pedido de redução da pena de multa, cumpre observar que essa foi fixada pelas instâncias ordinárias, levando-se em conta "a atual situação econômica da ré", de modo que a alteração do julgado quanto ao ponto também encontra óbice na Súmula 7 desta Corte, haja vista a necessidade de incursão no arcabouço fático e probatório dos autos.
+8. Agravo regimental a que se nega provimento.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A pretensão não merece êxito, na medida em que o agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+Inicialmente, cumpre registrar que, a despeito irresignação manifestada pela agravante, não cabe sustentação oral em sede de agravo regimental, a teor do disposto no art. 159 do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido:
+" ..
+5. Nos termos do artigo 159, inciso IV, do Regimento Interno do Superior Tribunal de Justiça, não se admite sustentação oral no julgamento do agravo regimental, razão pela qual se afigura improcedente o pleito de intimação da defesa para a respectiva sessão. Precedentes.
+6. Agravo a que se nega provimento."
+(AgRg nos EDv nos EAREsp 1171143/SP, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 10/04/2019, DJe 22/04/2019)
+Além disso, não compete ao Superior Tribunal de Justiça o enfrentamento de suposta ofensa a dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal.
+A propósito:
+" ..
+1. "Refoge à competência do Superior Tribunal de Justiça apreciar suposta ofensa à matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal". (EDcl nos EDcl no AgRg no AREsp 48.918/SP, Rel. Min. ADILSON VIEIRA MACABU (DESEMBARGADOR CONVOCADO DO TJ/RJ), QUINTA TURMA, DJe 25/05/2012)
+Omissis.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1.238.180/SE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/04/2018, DJe 16/04/2018).
+Quanto ao mais, conforme consignado na decisão agravada, não se verifica a apontada omissão no acórdão impugnado. Com efeito, o Tribunal a quo examinou expressamente as questões tidas por omissas, tendo, por ocasião do julgamento dos embargos de declaração, consignado o seguinte:
+"No caso, o Acórdão examinou, expressamente, a Autoria, para afastar a alegação da Defesa de Erro de Tipo, e a Dosimetria da Pena, para mantê-la em face de sua adequação e proporcionalidade, verbis:
+"As Provas produzidas nos autos são conclusivas quanto ao conhecimento da Ré, ora Apelante, sobre a inserção de vínculos laborais fictícios em sua Carteira de Trabalho e da Previdência Social (CTPS), que instruiu o Requerimento de concessão de Aposentadoria por Tempo de Contribuição, sendo que a inserção de tais vínculos fora realizado por Servidora do INSS, conforme Laudo Grafotécnico da Polícia Federal.
+Sua condição de universitária à época, a grande experiência como Comerciária e o teor do Interrogatório que prestou, em Juízo, elidem a alegação de desconhecimento da ilicitude ou Erro de Tipo. (..)
+Vê-se que houve valoração negativa da Culpabilidade e das Circunstâncias previstas no artigo 59 do Código Penal, a resultar na Pena-Base de 02 (dois) anos e 06 (seis) meses, reduzida para 02 (dois) anos, em face da Atenuante da Confissão, e, após, majorada em 1/3, em razão da Causa de Aumento do Estelionato Qualificado, que culminou na Pena Definitiva de 02 (dois) anos e 08 (oito) meses de Reclusão. A Dosimetria revela-se razoável, proporcional e consentânea com os elementos nos autos, inclusive com relação à Multa fixada conforme o artigo 49 e seguintes do Código Penal."
+Assim, não se verifica(m) o(s) apontado(s) Vício(s) aclaratório(s), na temática versada no Julgado." (e-STJ, fls. 290-291)
+Consoante se observa, o aresto impugnado rechaçou as teses da acusada tanto em relação ao erro de tipo quanto à dosimetria da pena. Desse modo, não lhe assiste razão, no que toca à existência de omissão no acórdão objurgado, haja vista que as questões foram suficientemente apreciadas.
+No que se refere à suscitada negativa de vigência ao art. 20 do Código Penal, sob o argumento de que não agiu com dolo, tendo incidido em erro de tipo, melhor sorte não socorre à recorrente. Isso porque, consoante apurado pelo Tribunal de origem, repita-se, "as Provas produzidas nos autos são conclusivas quanto ao conhecimento da Ré, ora Apelante, sobre a inserção de vínculos laborais fictícios em sua Carteira de Trabalho e da Previdência Social (CTPS), que instruiu o Requerimento de concessão de Aposentadoria por Tempo de Contribuição, sendo que a inserção de tais vínculos fora realizado por Servidora do INSS, conforme Laudo Grafotécnico da Polícia Federal. Sua condição de universitária à época, a grande experiência como Comerciária e o teor do Interrogatório que prestou, em Juízo, elidem a alegação de desconhecimento da ilicitude ou Erro de Tipo" (e-STJ, fl. 290).
+Nesse contexto, a alteração do julgado a fim reconhecer que a ré não agiu com dolo, demandaria necessariamente o reexame dos elementos fáticos e probatórios dos autos, providência inviável nesta via especial, a teor do que dispõe a Súmula 7/STJ.
+A corroborar esse entendimento:
+"PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DENUNCIAÇÃO CRIMINOSA. ALEGAÇÃO DE AUSÊNCIA DE DOLO E ERRO DE TIPO. CONJUNTO PROBATÓRIO. SÚMULA 7/STJ. DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE. IMUNIDADE DO ADVOGADO NÃO ABSOLUTA.
+1. Após análise do conjunto probatório, o entendimento da instância ordinária foi de ter o agravante agido com dolo, ao dar causa à instauração de investigação policial contra um indivíduo, imputando-lhe crime de que o sabia inocente. Aplicação da Súmula 7/STJ quanto à alegação de erro de tipo.
+2. Não há falar em ilegalidade na dosimetria.
+3. Embargos de declaração rejeitados."
+(EDcl no AgRg no AREsp 557.271/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/08/2015, DJe 25/08/2015)
+Por fim, no que toca à dosimetria da pena, a Corte de origem ratificou a sentença de primeiro grau de jurisdição que assim decidiu:
+"Primeira fase: análise das circunstâncias judiciais:
+A - Culpabilidade:
+(..)
+No caso sub examine, verifica-se que a ré, de forma voluntária e consciente, obteve para si, mediante fraude, benefício previdenciário indevido, na modalidade de aposentadoria por tempo de contribuição. Sobre sua conduta, portanto, máxime levando em conta o valor auferido pela ré, bem assim o longo período em que a mesma passou recebendo um benefício indevido (de 13/11/1998 a 31/10/2009), o que causou um prejuízo aos cofres públicos num montante superior a cem mil reais, entendo que a culpabilidade assumiu grau intenso.
+(..)
+F - Circunstâncias:
+As circunstâncias a que se refere o art. 59 do CPP são aquelas relacionadas ao cometimento do fato havido por delituoso, ou seja, são peculiaridades, particularidades, detalhes e/ou nuanças observadas ao derredor da conduta, que podem ser sopesadas ou não em desfavor daquele que age. Muitas das circunstâncias observadas já estão previstas como agravantes, atenuantes, causas de aumento ou de diminuição de pena. Portanto, a consideração de determinada circunstância nesta primeira fase é residual, ou seja, somente deve ser considerada aquela circunstância que, mais adiante, não esteja prevista como apta a ser sopesada na segunda e na terceira fase. Com estes esclarecimentos, volto-me ao caso em apreço para pontificar que vislumbrei particularidades circunstanciais no cometimento do ilícito a serem sopesadas em desfavor do réu, máxime o fato de ter ela apresentado documentação adulterada ao posto do INSS, quando do requerimento para concessão do benefício de aposentadoria por tempo de contribuição, além de ter "contratado" terceiro para auxiliá-la na fraude.
+(..)
+3.1.2. Aplicação da pena de multa: critério bifásico:
+Primeira fase: fixação da quantidade de dias-multa:
+Tendo em conta a análise já traçada acerca das circunstâncias judiciais previstas no art. 59 do CPB, bem como as considerações tecidas acerca das atenuantes e agravantes genéricas, causas de aumento e diminuição de pena, fixo, entre os limites de 10 a 360 (art. 49 do CPB), a quantidade de 120 (cento e vinte) dias-multa a serem pagos pela ré.
+Segunda fase: fixação do valor do dia-multa:
+Levando em conta a atual situação econômica da ré, determino como valor do dia multa, dentre os limites de um trigésimo do salário mínimo vigente no tempo do fato delituoso até cinco vezes esse salário (§ 1º do art. 49 do CPB), o de 1/30 (um trigésimo) do salário mínimo. Pena de multa definitiva:
+Com essa operação, portanto, a multa a ser paga pelo réu é de 4 (quatro) salários mínimos vigentes na época da consumação do crime, valor este sobre o qual deve incidir a correção monetária oficial até a data do efetivo pagamento (art. 49, § 2º, do CPB)."" (e-STJ, fl. 135-140, grifou-se)
+Da leitura do excerto supra transcrito, verifica-se que foram apresentados elementos concretos, que não são inerentes ao tipo penal, afim de valorar negativamente a culpabilidade, notadamente o valor e o longo tempo que a ré recebeu o benefício indevidamente.
+Do mesmo modo, quanto às circunstâncias do crime, o acórdão pontuou que a fraudadora, além de apresentar documentos falsos, utilizou-se de terceira pessoa para auxilia-la no cometimento do delito, o que denota um maior grau de reprovabilidade da conduta.
+Por fim, no que toca ao pedido de redução da pena de multa, cumpre observar que essa foi fixada pelas instâncias ordinárias, levando-se em conta "a atual situação econômica da ré", de modo que a alteração do julgado quanto ao ponto também encontra óbice na Súmula 7 desta Corte, haja vista a necessidade de incursão no arcabouço fático e probatório dos autos.
+Ante o exposto nego provimento ao agravo regimental.
+É o voto.
