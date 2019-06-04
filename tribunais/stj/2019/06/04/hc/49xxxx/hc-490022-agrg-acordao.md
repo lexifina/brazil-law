@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. EXECUÇÃO PROVISÓRIA DE PENAS RESTRITIVAS DE DIREITOS. ENTENDIMENTO REAFIRMADO NO AGRG NO HC N. 435.092/SP. CONSTRANGIMENTO ILEGAL MANIFESTO.
+1. Deve ser mantida a decisão monocrática que concedeu a ordem para suspender, até o trânsito em julgado da sentença condenatória, a execução da pena restritiva de direitos imposta ao agravado.
+2. A Terceira Seção do Superior Tribunal de Justiça, em sessão realizada no dia 24/10/2018, por maioria de votos, no julgamento do AgRg no HC n. 435.092/SP, reafirmou seu entendimento no sentido da impossibilidade de execução provisória das penas restritivas de direitos, devendo-se aguardar, portanto, o trânsito em julgado da condenação, nos termos do art. 147 da LEP.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto pelo Ministério Público Federal contra decisão monocrática de minha lavra, em que concedi a ordem impetrada em favor de [NOME], com a seguinte ementa (fl. 589):
+HABEAS CORPUS. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. DETERMINAÇÃO DE EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. ENTENDIMENTO FIRMADO PELA TERCEIRA SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. CONSTRANGIMENTO ILEGAL. CONFIGURAÇÃO.
+Ordem concedida, confirmando a liminar, nos termos do dispositivo.
+Nesta via, o agravante sustenta que, conforme a orientação jurisprudencial do Supremo Tribunal Federal, a execução provisória de qualquer espécie de sanção penal não viola preceitos constitucionais, sendo inteiramente compatível com a Constituição da República.
+Aduz que, firmada a responsabilidade criminal pelas instâncias ordinárias, e verificando-se a sucessiva interposição de recursos meramente protelatórios, não há de ser obstado o início da execução da pena imposta, seja ela privativa de liberdade, seja ela restritiva de direitos (fls. 596/597).
+Argumenta que não há obstaculização para a execução provisória da reprimenda, pois a fundamentação aplicável à pena privativa de liberdade é extensível à restritiva de direitos (fl. 603).
+Requer, assim, a reconsideração da decisão impugnada ou que seja dado provimento ao presente agravo.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Não obstante as alegações do agravante, não lhe assiste razão, devendo a decisão monocrática ser mantida pelos seus próprios fundamentos.
+A decisão foi clara ao afirmar que (fls. 589/592):
+ ..
+Isso porque, por ocasião do julgamento dos EREsp n. 1.619.087/SC, de relatoria do Ministro Jorge Mussi (DJe 24/8/2017), a Terceira Seção desta Corte Superior de Justiça concluiu pela impossibilidade de execução da pena restritiva de direitos antes do trânsito em julgado da condenação (AgRg no HC n. 435.092/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 8/3/2018).
+Esse entendimento foi reafirmado pela Terceira Seção do Superior Tribunal de Justiça, em acórdão assim ementado:
+ ..
+Nessa linha, em conformidade com o voto que proferi durante os debates que compuseram o julgado acima, entendo que não é possível o início da execução da reprimenda quando se trata de pena restritiva de direitos, pois não há um pronunciamento definitivo do Supremo Tribunal Federal sobre a questão específica. Assim, deve prevalecer a aplicação literal daquilo que prevê o art. 147 da Lei de Execução Penal.
+ ..
+Faz-se mister frisar que, no julgamento do AgRg no HC n. 435.092/SP, realizado em 24/10/2018, publicado no DJe em 26/11/2018, a Terceira Seção reafirmou seu posicionamento no sentido de que o fato de haver decisões monocráticas ou de órgãos fracionários do Supremo Tribunal Federal considerando que o entendimento firmado no Agravo em Recurso Especial n. 964.246/SP, submetido ao rito da repercussão geral, abrange também a execução provisória de penas restritivas de direitos, não enseja, data venia, a retratação do julgado. A diretriz firmada em repercussão geral não faz referência ao disposto no art. 147 da Lei de Execuções Penais, o qual se mantém hígido e não pode deixar de ser aplicado pelo Superior Tribunal de Justiça, sob pena de violação da cláusula de reserva de plenário.
+A propósito, confiram-se os recentes precedentes desta Corte:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO (ART. 14, LEI N. 10.826/03). PRETENSÃO DE CONVERSÃO DA PENA CORPORAL EM UMA PENA SUBSTITUTIVA E MULTA. IMPOSSIBILIDADE. PRETENSÃO DEDUZIDA EM DESACORDO COM A SÚMULA 171 DESTA CORTE SUPERIOR. FUNDAMENTAÇÃO IDÔNEA. DISCRICIONARIEDADE. EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. INVIABILIDADE. AUSÊNCIA DE TRÂNSITO EM JULGADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, nos termos do entendimento firmado pela Primeira Turma do col. Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A decisão está em consonância com a orientação jurisprudencial desta Corte de Justiça, segundo a qual "se ao tipo penal é cominada pena de multa cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação da multa substitutiva prevista no art. 44, § 2º, 2ª parte do Código Penal" (AgRg no HC n. 415.618/SC, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 04/06/2018).
+III - A inteligência da Súmula nº 171 desta Corte Superior, que assim dispõe: "Cominadas cumulativamente, em Lei Especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa."
+IV - "A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal" (HC n. 126.292/SP, Tribunal Pleno, Rel. Min. Teori Zavascki, DJe de 17/5/2016).
+V - Entretanto, no caso das penas restritivas de direitos, este Tribunal manteve o entendimento de que não cabe execução provisória antes do trânsito em julgado da condenação, nos termos do art. 147 da Lei de Execução Penal. Esta Quinta Turma manifestou a mesma orientação no julgamento do AgRg no REsp n. 1.618.434/MG e do AREsp n. 971.249/SP.
+VI - A condenação ainda não transitou em julgado, o que impede o início da execução das penas substitutivas.
+Habeas corpus não conhecido. Ordem concedida de ofício para, confirmando a liminar (fls. 241-243), suspender a execução provisória das penas restritivas de direitos, até o trânsito em julgado da condenação.
+(HC n. 482.389/SC, Ministro Felix Fischer, Quinta Turma, DJe 13/2/2019)
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLEITO DE ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. INADMISSIBILIDADE. AGRAVOS IMPROVIDOS.
+1. Tendo a Corte de origem concluído pela existência de prova apta a amparar o édito condenatório, a desconstituição das premissas fáticas do acórdão demandaria incursão na seara probatória, inadmissível no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+2. Ressalvada compreensão pessoal diversa, a Terceira Seção, no julgamento do AgRg no HC 435.092/SP, na sessão de 24/10/2018, manteve a orientação firmada no EREsp 1.619.087/SC quanto à impossibilidade de execução provisória das penas restritivas de direito, sendo indispensável, em tais casos, o trânsito em julgado da sentença penal condenatória, nos termos do art. 147 da Lei de Execução Penal.
+3. Agravos regimentais improvidos.
+(AgRg no AREsp n. 1.289.339/CE, Ministro Nefi Cordeiro, Sexta Turma, DJe 4/2/2019)
+Com essas considerações, nego provimento ao agravo regimental.
