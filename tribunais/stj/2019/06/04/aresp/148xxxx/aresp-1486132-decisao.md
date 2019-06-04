@@ -1,0 +1,44 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MARIA APARECIDA GONCALVES, contra decisão que não admitiu o seu recurso especial, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+EMENTA: AGRAVO DE INSTRUMENTO  CUMPRIMENTO DE SENTENÇA - NULIDADE DE CITAÇÃO NO PROCESSO DE CONHECIMENTO - PRECLUSÃO. O vício de citação no processo de conhecimento deve ser alegado na primeira oportunidade em que a parte tem de se manifestar nos autos, e se não o faz, é porque aceita o ato como perfeito, verificando-se a preclusão, não apenas lógica, mas também consumativa, do seu direito de discutir a validade do seu chamamento.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 9º, 225 c/c 247 e 248 e 229, do CPC/1973, bem como dissídio jurisprudencial, defendendo a nulidade da citação; aduz, que a nulidade da citação é pressupostos de constituição e desenvolvimento válido e regular do processo, razão pela qual não se submete à preclusão nas instâncias ordinárias.
+DECIDO.
+2. Acerca da controvérsia, dispôs o acórdão recorrido:
+Os argumentos colocados na peça de interposição afastam-se do que consta do acórdão recorrido. A Turma Julgadora resolveu a irresignação a partir de certas premissas e o arrazoado constrói suas pretensões sobre bases diversas. Nesse sentido, é possível colher a seguinte passagem do julgado:
+"O processo já se encontra em fase de cumprimento de sentença, sendo determinada hasta pública do bem penhorado, conforme f. 137.
+A irregularidade de citação no processo de conhecimento deve ser arguida na primeira oportunidade de intervenção da parte nos autos, sob pena de preclusão.
+Conforme certidão de f. 89, em 26 de outubro de 2015 a Agravante foi intimada da penhora do imóvel localizado na rua [NOME], n. 40, Apto. 102, Uberaba, e do prazo para apresentação de embargos, sendo nomeada como depositária do bem constrito.
+Assim, desde outubro de 2015 a Agravante tem pleno conhecimento da existência do processo e da constrição do seu imóvel, tendo oportunidade de se manifestar nos autos para apresentar defesa e alegar a irregularidade de citação.
+Entretanto, apenas em 2017, quando designada hasta pública do bem penhorado, é que a Agravante decidiu comparecer aos autos.
+A Agravante teve oportunidades suficientes para alegar o suposto vicio, deixando de fazê-lo, o que acarreta a preclusão não apenas lógica, mas também consumativa do seu direito.
+Dessa forma, não se pode declarar a nulidade da citação do processo de conhecimento, por preclusão.
+Além disso, não é lícito à parte querer beneficiar-se da sua própria torpeza.
+Assim, não se pode admitir que a executada, que obteve ciência de uma possível irregularidade no processo, em 2015, permaneça inerte, deixando que o processo tenha seu curso normal, para apenas ao final da fase de cumprimento de sentença, em 2017, requerera anulação de todos os atos desde a fase de conhecimento." (fl. 311-312)
+Com efeito, o Tribunal de origem concluiu pela ausência irregularidade na citação, uma vez que a agravante teve oportunidades suficientes para alegar o vício, permanecendo inerte, deixando que o feito tivesse seu curso normal, e somente na fase de cumprimento de sentença requereu a nulidade de todos os atos da fase de conhecimento, sem levantar a questão no momento oportuno. Desse modo, a questão trazida pela parte, em que pese seu prévio conhecimento, fora propositadamente omitida e só suscitada no momento oportuno, traduz a estratégia rechaçada por esta Corte Superior ("nulidade de algibeira").
+3. Além disso, a decisão da Corte estadual encontra-se em harmonia com a jurisprudência sedimentada nesta Corte Superior, no sentido de que a alegação de nulidade, em razão de irregularidade na citação, deve ser suscitada pela parte na primeira oportunidade que tenha para falar nos autos, sob pena de preclusão.
+No sentido do acórdão, os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FRAUDE EM CONTRATO DE ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. LEGITIMIDADE PASSIVA. ANÁLISE. SÚMULA 7 DO STJ. NULIDADE ABSOLUTA. FALTA DE INTIMAÇÃO PARA APRESENTAÇÃO DE CONTRARRAZÕES À APELAÇÃO. PRECLUSÃO. MANEJO DA CHAMADA "NULIDADE DE ALGIBEIRA". IMPOSSIBILIDADE.
+1. A decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, ou para corrigir erro material, não servindo à rediscussão da matéria já julgada no recurso.
+3. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+4. A alegação de nulidade por suposta irregularidade na intimação deve ser suscitada pela parte interessada na primeira oportunidade que tenha para se manifestar nos autos, sob pena de preclusão.
+5. A questão trazida pela parte, em que pese seu prévio conhecimento, fora propositadamente omitida e só suscitada no momento tido por conveniente pela mesma, traduzindo-se em estratégia rechaçada por esta Corte Superior ("nulidade de algibeira").
+6. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 539.070/PE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/02/2017, DJe 21/02/2017)
+__________
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. FUNGIBILIDADE. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA DEFENSORIA PÚBLICA. NULIDADE. PRECLUSÃO.
+1. Inexistindo na decisão embargada quaisquer dos vícios elencados no art. 535 do CPC e manifesta a pretensão da parte embargante de rediscutir o julgamento embargado, devem os aclaratórios ser recebidos como agravo regimental, de forma a concretizar os princípios da celeridade e da economia processual.
+2. A nulidade absoluta do processo decorrente da ausência de intimação pessoal deve ser alegada no primeiro momento oportuno em que teve a parte para manifestar-se nos autos, sob pena de ocorrência da preclusão temporal.
+3. Embargos de declaração recebidos como agravo regimental, a que se nega provimento. (EDcl no REsp 1059147/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 09/03/2010, DJe 22/03/2010)
+__________
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NULIDADE. AUSÊNCIA DE INTIMAÇÃO DA SESSÃO DE JULGAMENTO. PRECLUSÃO TEMPORAL. ILEGITIMIDADE ATIVA. DECISÃO ANTERIOR DEFINITIVAMENTE JULGADA. PRECLUSÃO CONSUMATIVA. PARTE DO ACÓRDÃO NÃO UNÂNIME. SÚMULA 207/STJ. INCIDÊNCIA. AGRAVO IMPROVIDO. CRIME DE DISPENSA OU INEXIGILIDADE DE LICITAÇÃO FORA DAS HIPÓTESES LEGAIS.
+IMPRESCINDIBILIDADE DE DOLO ESPECÍFICO E DE DANO AO ERÁRIO. PRECEDENTES DO STJ. ATIPICIDADE. ABSOLVIÇÃO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A nulidade por ausência de intimação do advogado constituído para a sessão de julgamento deve ser alegada na primeira oportunidade.
+2. Sendo arguida nulidade no julgamento do recurso em sentido estrito apenas quando das razões de apelação, tem-se como consumada a preclusão temporal.
+3. A ilegitimidade do querelante para oferecer ação penal privada subsidiária da pública, por sido objeto de decisão anterior definitivamente julgada, encontra-se alcançada pela preclusão consumativa. 4. Nos termos da Súmula 207/STJ, É inadmissível recurso especial quando cabíveis embargos infringentes contra o acordão proferido no tribunal de origem. 5. Verificada flagrante ilegalidade, deve ser concedido habeas corpus de ofício, nos termos do art. 654, § 2º, do CPP.
+6. O Superior Tribunal de Justiça consolidou o entendimento de que, para a configuração do crime de dispensa ou inexigibilidade de licitação fora das hipóteses legais - art. 89 da Lei n. 8.666/93 -, exige-se a presença do dolo específico de causar dano ao erário e do efetivo prejuízo à Administração Pública. 7. Ausente a demonstração do elemento subjetivo específico e da ocorrência de resultado naturalístico, consistente no efetivo prejuízo ao erário, deve ser reconhecida a atipicidade da conduta.
+8. Agravo regimental improvido e habeas corpus concedido de ofício para, reconhecendo a atipicidade da conduta em relação ao crime previsto no art. 89 da Lei n. 8.666/93, absolver o recorrente, com fundamento no art. 386, III, do CPP. (AgInt no REsp 1582669/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 30/03/2017, DJe 07/04/2017)
+__________
+4. Estando, pois, o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior, o recurso especial não merece ser conhecido, ante a incidência da Súmula 83/STJ.
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
