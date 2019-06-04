@@ -1,0 +1,45 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos pelo Município de Penha contra decisão que deu provimento ao recurso especial interposto pela União para julgar improcedente ação anulatória ajuizada pela municipalidade com o propósito de desconstituir autuação fiscal referente a débitos de FGTS e contribuição social.
+O embargante sustenta que, ao aplicar os precedentes que reconheciam ser devido o recolhimento do FGTS e da contribuição social sobre as contratações temporárias irregulares realizadas pelo ente público, deixou de avaliar, no caso concreto, a nulidade das contratação firmadas pelo ora embargante.
+Explicita o seguinte (e-STJ, fl. 700):
+De fato, embora o Embargante não concordar com a decisão proferida, em sua totalidade, pois as sucessivas prorrogações contratuais não são motivos para a declaração do direito de FGTS e Contribuição Federal dos contratados por prazo determinado (temporários), cabe frisar que há situações diversas desta, ou seja, há inúmeros contratos listados no documento anexo ao evento "1", identificado como "OUT6, OUT7, OUT8, OUT9, OUT10 e OUT11", onde o prazo sequer ultrapassou mais de seis meses e não ocorreram sucessivas renovações.
+Desta forma, não é possível igualar os contratos onde ocorreram sucessivas prorrogações aos contratos que não foram renovados e não ultrapassou o prazo de seis meses, pois como na própria jurisprudência transcrita na decisão embargada há obrigação pelo recolhimento de FGTS aos servidores contratados desde que ocorram sucessivas renovações do contrato.
+Requer, portanto, o acolhimento dos embargos de declaração para que sejam supridas as omissões da decisão ora combatida.
+A União Federal apresentou impugnação às e-STJ, fls. 706-711.
+Decido.
+Assiste razão ao embargante.
+Há omissão da decisão embargada, porquanto o reconhecimento da improcedência da ação anulatória depende da efetiva constatação da existência de contratações temporárias irregulares pelo Município embargante.
+Contudo, o Tribunal recorrido não emitiu juízo de valor sobre a legalidade das contratações temporárias realizadas pelo Município de Penha, tendo se limitado a concluir pela impossibilidade de cobrança do FGTS e da contribuição social prevista na LC 110/2000, sob o fundamento de que os servidores temporários municipais se submetem ao regime estatutário e não ao celetista.
+A título elucidativo, confira-se a seguinte transcrição do aresto recorrido (e-STJ, fls. 589-590):
+Como se vê, os servidores temporários do Município de Penha são regidos pelo regime estatutário, e não pelo celetista, o que afasta a obrigação do ente público ao pagamento de verbas trabalhistas, tais como o FGTS e a contribuição social do artigo 2º da LC nº 110/2001.
+Sublinhe-se que eventual irregularidade na contratação temporária não modifica a natureza do vínculo administrativo para trabalhista.
+ ..
+Assim, ainda que o Município não tenha observado os requisitos legais que autorizam as contratações temporárias, tal conduta não descaracteriza a natureza administrativa do vínculo estabelecido com aqueles servidores, razão pela qual fica afastada a obrigatoriedade do recolhimento das contribuições para o FGTS e da contribuição prevista no artigo 2º da LC nº 110/2001.
+Com efeito, a premissa jurídica para a cobrança do FGTS e da respectiva contribuição social é o reconhecimento da existência de contratações temporárias irregulares pela Administração Pública, na linha dos precedentes citados pela decisão ora embargada.
+Nesse ponto, vejam-se os seguinte julgados do STJ:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SERVIDORA PÚBLICA. CONTRATAÇÃO REGULAR E PROVISÓRIA. RELAÇÃO JURÍDICA ADMINISTRATIVA. NULIDADE. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. DEPÓSITO DE FGTS. PRECEDENTES DO STJ.
+1. A desconstituição da premissa fática segundo a qual o contrato temporário celebrado é regular e que a autora foi contratada sob o regime jurídico-administrativo, ensejaria o reexame da matéria de prova, procedimento que em sede especial, encontra empeço na Súmula 7/STJ.
+2. O conceito de trabalhador extraído do regime celetista não se estende àqueles que mantêm com a Administração Pública uma relação de caráter jurídico-administrativo, razão pela qual a regra do art. 19-A da Lei 8.036/90, quanto ao pagamento do FGTS, não se aplicaria a estes últimos (AgRg no AREsp 96.557/MG, Rel. Min. ARNALDO ESTEVES LIMA, DJe 27.6.2012).
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1534812/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 23/06/2015, DJe 04/08/2015).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CONTRATAÇÃO A TÍTULO PRECÁRIO. FGTS. NATUREZA ADMINISTRATIVA. SUJEIÇÃO ÀS REGRAS DE DIREITO PÚBLICO. INAPLICABILIDADE DA CLT. INEXISTÊNCIA DE PREVISÃO LEGAL DO ALEGADO DIREITO AO FGTS. FALTA DE PREQUESTIONAMENTO. NÃO INDICAÇÃO DE OFENSA AO ART. 535 DO CPC. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTO DE ORDEM CONSTITUCIONAL E EM DIREITO LOCAL. DIREITO AO RECEBIMENTO DO FGTS NÃO RECONHECIDO. AGRAVO REGIMENTAL DA SERVIDORA DESPROVIDO.
+1. A questão referente aos arts. 4o. e 5o. da LICC e 19-A da Lei 8.036/90 não foi debatida pelo Tribunal de origem e, no Especial, não houve a indicação de ofensa ao art. 535 do CPC, o que levaria ao exame de possível omissão. Manifesta é, portanto, a ausência de prequestionamento, o que atrai a incidência da Súmula 211 do STJ.
+2. No caso, a questão controvertida foi dirimida não só sob fundamento constitucional, mas também com base na legislação local - Lei Estadual 10.254/90, de Minas Gerais, sendo impertinente, portanto, a impugnação deduzida em Recurso Especial, em razão dos contornos definidos pelo art. 105, III da Magna Carta e pela Súmula 280 do STF, aplicada por analogia.
+3. Apenas a título de esclarecimentos, ressalta-se que esta Corte consolidou a orientação de que os contratos temporários regulares submetidos a regime jurídico administrativo não promovem aos Servidores o direito a depósitos de FGTS. Precedentes: AgRg no REsp. 1.513.592/MG, Rel. Min. HERMAN BENJAMIN, DJe 11.9.2015 e AgRg no REsp. 1.534.812/MG, Rel. Min. SÉRGIO KUKINA, DJe 4.8.2015.
+4. Agravo Regimental da Servidora desprovido.
+(AgRg no AREsp 226.690/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/12/2016, DJe 06/02/2017).
+Destaco, ainda, o seguinte julgado de minha relatoria (sem destaques no original):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. DIREITO LOCAL. IMPOSSIBILIDADE DO EXAME. SÚMULA 280/STF. SERVIDOR PÚBLICO. CONTRATO TEMPORÁRIO DE TRABALHO. FGTS. NULIDADE DO VÍNCULO. ASPECTO FÁTICO NÃO EXAMINADO NA INSTÂNCIA INFERIOR. DEVOLUÇÃO DOS AUTOS.
+1. Por ofensa a direito local não cabe recurso extraordinário (Súmula 280/STF).
+2. É devido o depósito de FGTS na conta vinculada do trabalhador cujo contrato de trabalho seja declarado nulo nas hipóteses previstas no art. 37, § 2º, da CF/1988.
+3. Tal orientação incide, inclusive, sobre o caso de contratação temporária nula, assim considerada em decorrência da inobservância do seu caráter transitório e excepcional. Precedentes do STJ e do STF.
+4. Ausente, no acórdão recorrido, definição a respeito da regularidade, ou não, da contratação temporária, impõe-se a devolução dos autos à origem para que se manifeste a esse respeito e decida o feito à luz da jurisprudência das Cortes Superiores.
+5. "Com efeito, quando a aplicação do direito à espécie pressupõe o exame de matéria de fato, faz-se necessário o retorno dos autos ao Tribunal de origem, para ultimação do procedimento de subsunção das circunstâncias fáticas da causa às normas jurídicas incidentes, na espécie" (EDcl no REsp 1.308.581/PR, Rel. Min. Assusete Magalhães, Segunda Turma, julgado em 17/3/2016, DJe 29/3/2016).
+6. Recurso especial conhecido em parte e, nessa extensão, parcialmente provido.
+(REsp 1759181/MG, de minha relatoria, SEGUNDA TURMA, julgado em 04/12/2018, DJe 10/12/2018).
+Portanto, devem ser acolhidos os embargos de declaração, com efeitos infringentes, para reconhecer a incidência do FGTS e da contribuição social sobre as contratações temporárias irregulares realizadas pelo Município de Penha.
+Faz-se necessário, portanto, o retorno dos autos para a instância de origem, a fim de que decida a respeito da regularidade das contratações temporárias em debate e realize a adequada subsunção das circunstâncias fáticas da lide aos parâmetros jurídicos ora fixados.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para dar provimento em parte ao recurso especial da União.
+Determino o retorno dos autos para a instância de origem reexaminar a regularidade das contratações temporárias em questão e definir a incidência do FGTS e da contribuição social à luz das premissas jurídicas fixadas por esta Corte Superior.
+Em razão da necessidade de ser realizado novo julgamento, afasto a condenação do Município ao pagamento da verba honorária, a qual deverá ser fixada pelas instâncias ordinárias.
+Publique-se. Intimem-se.
