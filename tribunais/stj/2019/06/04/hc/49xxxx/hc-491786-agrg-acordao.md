@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PERDA DOS DIAS REMIDOS. FRAÇÃO DE 1/3 DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Deve ser mantida por seus próprios e jurídicos fundamentos a decisão monocrática que denegou a ordem.
+2. A perda dos dias remidos na fração de 1/3 encontra-se devidamente fundamentada na gravidade da conduta perpetrada pelo apenado, qual seja a prática de novo crime no curso da execução da pena. Precedentes.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática que denegou a ordem, pelos fundamentos sintetizados na seguinte ementa (fl. 225):
+HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE NOVO CRIME DOLOSO NO CURSO DA EXECUÇÃO PENAL. PERDA DE 1/3 DOS DIAS REMIDOS. SUPOSTA AUSÊNCIA DE FUNDAMENTAÇÃO. IMPROCEDÊNCIA. FUNDAMENTAÇÃO IDÔNEA (PRÁTICA DE NOVO CRIME). PRECEDENTES DESTA CORTE.
+Ordem denegada.
+Nas razões do regimental, reitera a Defensoria Pública que o Juízo de primeiro grau da 3ª Vara Criminal da comarca de Blumenau, ao reconhecer a suposta prática de novo delito, que ocasionou falta grave, aplicou a sanção ao agravante de perda de dias remidos na fração máxima de 1/3, sem qualquer fundamentação concreta e válida (fl. 233).
+Acrescenta que, desta forma, tem-se que a postura judicial adotada é genérica e impessoal, violando-se tanto o princípio da individualidade da pena, quanto, por analogia, diversas súmulas do e. STJ, que exigem fundamentação concreta para que a situação, no cumprimento da pena, de qualquer condenado seja alterada para prejudicá-lo (fl. 234).
+Requer, assim: a) a reconsideração desta decisão agravada, a fim de que seja concedida a ordem para DECLARAR a ilegalidade da fração de 1/3 referente à perda dos dias remidos para, desde logo, ADEQUÁ-LA para patamar inferior ou, subsidiariamente, ANULAR o acórdão, determinando-se ao juízo de piso que promova a adequação da sanção para aplicar fração inferior a 1/3, desta feita de forma fundamentada e com estrita observância aos arts. 127 e 57 da LEP e ao art. 93, IX, da CRFB/88; ou b) a remessa deste Agravo Regimental à apreciação da e. Turma, pugnando-se pela reforma da decisão monocrática, a fim de que seja concedida a ordem do habeas corpus (fls. 235/236).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Ao denegar a ordem asseverei que (fls. 141/142):
+Não assiste razão à impetrante.
+Com efeito, asseverou o Tribunal a quo (fls. 226/228):
+ ..  consta dos autos que o ora paciente fora preso preventivamente pela prática de novo crime (autos n. 0006889-73.2018.8.24.0008). Observa-se que, após a conclusão do procedimento administrativo disciplinar, o magistrado prolatou decisão homologatória, reconhecendo a prática de falta grave e justificando a regressão do regime prisional para o semiaberto, a perda de 1/3 (um terço) dos dias remidos, bem como a suspensão da execução da pena, por se encontrar preso preventivamente em autos diversos.
+In casu, a fundamentação utilizada pelo magistrado na decisão, embora sucinta, foi suficiente e idônea a justificar o patamar aplicado (1/3). No ponto, confira-se:
+ ..  Em consulta ao SAJ, verifico que nos autos n. 0006889-73.2018.8.24.0008 os autos estão em fase de instrução.
+Além disto, conforme análise dos autos verifica-se que o apenado não cumpriu as condições do regime aberto impostas na decisão de pp. 81-85, pois sequer compareceu ao cartório para realização da audiência admonitória onde seria cientificado das condições a serem cumpridas no resgate da pena em regime aberto.
+Dessa forma, fica evidenciado o desinteresse do apenado para com o cumprimento devido de sua reprimenda. Assim, tenho por caracterizada a falta grave.
+Ante o exposto, RECONHEÇO a falta grave cometida por [NOME] e determino a REGRESSÃO DEFINITIVA, do regime aberto para o semiaberto. DEIXO de fixar a data base, considerando que o apenado se encontra preso preventivamente em autos diversos.
+Ainda, diante da previsão do art. 127 da Lei de Execução Penal, com a redação que lhe foi dada pela Lei n. 12.433/2011, DECLARO a perda de 1/3 dos dias remidos (1/3 de 11 dias = 3 dias, ou seja, restam 8 dias), patamar esse que entendo adequado para que sejam atendidos os objetivos da reprimenda, tendo em vista a gravidade da falta noticiada (prática de novo crime hediondo) (p. 144 do processo originário).
+Com efeito, percebe-se que a togada justificou a eleição da fração no patamar máximo em decorrência da natureza grave da infração disciplinar praticada - cometimento de novo crime durante o cumprimento da pena em regime aberto, conforme pontuado no decisum, a saber, violação em tese ao art. 33, caput, da Lei n. 11.343/2006 -, quando deveria estar cumprindo as condições estabelecidas, o que de fato pode gerar uma sensação de impunidade ao reeducando.
+Logo, a escolha da fração foi fundamentada e revela-se apta a justificá-la, de sorte que não há falta em violação ao disposto no art. 57 da Lei n. 7.210/1984, tampouco ao art. 93, IX, da Carta Magna.
+Nesse aspecto, o aresto guarda consonância com a orientação jurisprudencial desta Corte, que tem admitido a perda dos dias remidos, na fração máxima, na hipótese de o apenado praticar novo crime no curso da execução.
+Sobre o tema, destaco:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. PRÁTICA DE FALTA DE NATUREZA ESPECIALMENTE GRAVE NO CURSO DA EXECUÇÃO PENAL. NOVO CRIME. REVOGAÇÃO DE 1/3 DOS DIAS REMIDOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. In casu, o Tribunal a quo apenas confirmou decisão, devidamente fundamentada, do Juízo das Execuções Criminais, que determinou a perda dos dias remidos no limite máximo (1/3), por se tratar de delito praticado no curso do cumprimento da pena, fato que demonstra reiteração criminosa.
+3. Não há que se falar, assim, em ausência de fundamentação e desproporcionalidade, pois, conforme ressaltado pelo Magistrado de origem, houve reiteração do paciente no que tange ao cometimento de crime, fato que, diante da natureza especialmente grave da falta praticada, justificou a perda dos dias remidos no percentual máximo previsto no art. 127 da LEP.
+4. Assim, não ficou configurada flagrante ilegalidade, hábil a ocasionar o deferimento, de ofício, da ordem postulada.
+5. Habeas Corpus não conhecido.
+(HC n. 465.032/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/12/2018)
+Pois bem. Mantenho a decisão agravada por seus próprios e jurídicos fundamentos.
+Como visto, não há falar em falta de fundamentação na hipótese em exame, porquanto o Juízo de primeiro grau justificou expressamente a perda dos dias remidos na fração de 1/3, ante a gravidade da conduta perpetrada pelo apenado, qual seja a prática de novo crime no curso da execução da pena.
+Ante o exposto, considerando que o agravante não apresentou nenhum elemento capaz de modificar a conclusão do julgado, nego provimento ao agravo regimental.
