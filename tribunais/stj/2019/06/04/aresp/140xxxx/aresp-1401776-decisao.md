@@ -1,0 +1,59 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME], contra decisão denegatória do seguimento de recurso especial, por sua vez manejado com amparo na alínea "a" e "c" do permissivo constitucional, objetivando a reforma de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+DESERÇÃO - Recurso de apelação versa sobre fixação de verba honorária em favor de Advogado constituído por beneficiário de gratuidade processual - Ausência de preparo recursal - Intimação para recolher em dobro - Desatendimento - Deserção - Caracterização - Recurso não conhecido.
+Nas razões do recurso especial, além de dissídio jurisprudencial, a parte suscita violações aos arts. 90, 98, § 1º, VIII, § 2º, 3º, 99, § 5º e 996 do CPC, afirmando inexistir deserção da apelação pois a parte tem interesse na reforma do julgado, sendo que o caso não se trata exclusivamente da fixação de honorários sucumbenciais, aptas a ensejar a aplicação do art. 99, § 5º do CPC; que a procedência do pleito autoral ensejaria a condenação da recorrida nos ônus da sucumbência, o que não teria sido observado no caso em tela.
+O recurso recebeu crivo negativo de admissibilidade na origem (fls. 174-176), decisão contra a qual foi interposto o presente agravo (fls. 178-183).
+É o relatório. Decido.
+2. Inicialmente, conheço do agravo tendo em vista o preenchimento dos requisitos de admissibilidade, a saber, a tempestividade, adequada representação processual e impugnação específica de todos os fundamentos da decisão agravada.
+Referente à matéria de fundo, a controvérsia cinge-se verificar se o deferimento do benefício da assistência judiciária gratuita à parte se estende ao ao seu patrono quando da interposição de recurso que trate exclusivamente sobre verba honorária.
+Tratando do tema, o Tribunal de origem registrou não ser possível essa extensão subjetiva, ao passo que o deferimento do benefício da gratuidade de justiça é deferida para a parte e não para o seu patrono, ao passo que, caso este entenda ser merecedor de tal benesse, deve requerer a sua concessão.
+Colaciona-se o que interessa:
+Feitas tais considerações, tendo a pretensão recursal contida na apelação de fls. 119/124, limitada, em suma, à fixação de verba honorária em favor de Advogado constituído por beneficiário da Justiça Gratuita, este Relator concedeu prazo de 05 (cinco) dias para o recolhimento em dobro do preparo, sob pena de deserção, nos termos do artigo 1.007, § 4º, do Novo Código de Processo Civil (cf. fls. 137/138).
+Regularmente intimado da decisão por meio do Diário da Justiça Eletrônico (DJE) do dia 10.10.2017, com publicação no primeiro dia útil seguinte (fl. 139), o apelante limitou-se a peticionar às fls. 141/143, reiterando os pedidos anteriormente deduzidos, sem, contudo, interpor qualquer recurso em face da decisão de fls. 137/138.
+Tendo em vista que os honorários pertencem ao Advogado, nos termos dos artigos 22 e 23 do Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB - LEI Nº 8.906, DE 4 DE JULHO DE 1994), e que o pedido de gratuidade de justiça é direito pessoal pertencente ao requerente (artigo 99 § 5º, CPC), evidente que a concessão de gratuidade para à parte não implica o não pagamento das custas para interposição de recurso que discuta exclusivamente o valor dos honorários devidos em função da sucumbência.
+Nos casos em que o próprio Advogado também não disponha de recursos financeiros para o necessário recolhimento, deverá requerer ele próprio, o pedido de gratuidade da justiça.
+Houve deferimento de justiça gratuita em Primeira Instância às fls. 17, mas por força do disposto previsto no artigo 99, § 5º, do atual Código de Processo Civil, passou-se a exigir o preparo do recurso que verse exclusivamente sobre honorários de sucumbência, como no caso, independentemente de o recurso estar em nome da parte beneficiária da Justiça Gratuita ou de seu Advogado, salvo se este demonstrar ter, também, direito à gratuidade, o que sequer foi cogitado.
+Assim, ante a ausência de preparo, restou caracterizada a deserção, pois a recorrente, intimada, não o supriu no quinquídio, em dobro (CPC/2015, artigo 99, § 5º, c.c. artigo 1.007, § 4º), o que torna a apelação manifestamente inadmissível.  g.n.
+Nesse ínterim, não merece reparos a decisão hostilizada, pois o acórdão recorrido julgou no mesmo sentido da jurisprudência desta Corte Superior.
+Confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. PREPARO. AUSÊNCIA. CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA. CUSTAS PROCESSUAIS. PAGAMENTO EM DOBRO. NÃO CUMPRIMENTO. DESERÇÃO. ACÓRDÃO EMBARGADO.
+NULIDADE.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Quando o recurso versar exclusivamente sobre honorários de sucumbência, o benefício da justiça gratuita concedido à parte autora não se estende ao advogado, a teor do art. 99, § 5º, do CPC/2015.
+3. A falta de comprovação do preparo no ato da interposição do recurso não gera a sua imediata deserção, que só ocorrerá depois de conferida ao interessado a oportunidade de providenciar o recolhimento em dobro ou, alternativamente, comprovar o status de hipossuficiência financeira, nos termos da Lei n. 1.060/1950, consoante o art. 1.007, § 4º, do novo estatuto processual.
+4. Considerando que o art. 1.007, § 3º, do mesmo diploma legal dispensa o recolhimento do porte de remessa e de retorno quando se tratar de autos eletrônicos, o julgamento do recurso especial foi convertido em diligência a fim de oportunizar à ora embargada o pagamento das custas processuais, não tendo sido cumprida a determinação desta Corte de Justiça, visto que o preparo se deu na sua forma simples, acarretando a deserção do apelo nobre.
+5. Embargos de declaração acolhidos, com efeitos infringentes, para anular o acórdão embargado e, com base no art. 255, § 4º, I, do RISTJ, não conhecer do recurso especial, por deserção.
+(EDcl no REsp 1644846/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 28/11/2017, DJe 16/02/2018)  g.n
+RECURSO ESPECIAL DO ESTADO DO PARANÁ. ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTO ONCOLÓGICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. IMPRESCINDIBILIDADE DO FÁRMACO DEMONSTRADA. REVISÃO.
+SÚMULA 7/STJ. RECURSO ESPECIAL DO PARTICULAR. REVISÃO DE HONORÁRIOS SUCUMBENCIAIS. AUSÊNCIA DE REGULARIZAÇÃO DO PREPARO APÓS INTIMAÇÃO NOS TERMOS DO ART. 1.007, §4º, DO CPC/2015. DESERÇÃO.
+(..)
+5. O art. 99, § 5º, do CPC/2015 preceitua que na hipótese em que o recurso que verse exclusivamente sobre valor de honorários de sucumbência fixados em favor do advogado de beneficiário de justiça gratuita, o recurso estará sujeito a preparo. In casu, foi proferido despacho determinando a intimação do recorrente, na pessoa de seu advogado, para realizar no prazo de 5 (cinco) dias, o recolhimento em dobro das custas processuais, conforme preceitua o disposto no art. 1.007, § 4º, do CPC/2015 (fl. 1.072, e-STJ). Ocorre que os autos voltaram conclusos sem manifestação da parte (fl. 1.075, e-STJ). Dessa forma, o reconhecimento da deserção é medida que se impõe.
+6. Recurso Especial do Estado do Paraná parcialmente conhecido e, nessa parte, não provido e Recurso Especial de [NOME] não conhecido.
+(REsp 1655741/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/06/2017, DJe 30/06/2017)  g.n
+No caso concreto, as razões recursais encontram óbice na Súmula 83 do STJ, que determina a pronta rejeição dos recursos a ele dirigidos, quando o entendimento adotado pelo e. Tribunal de origem estiver em conformidade com a jurisprudência aqui sedimentada, entendimento aplicável também aos recursos especiais fundados na alínea "a" do permissivo constitucional.
+3. Ademais é entendimento desta Corte Superior de Justiça que, não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento em dobro, sob pena de deserção, à luz do artigo 1.007, caput e § 4º, do CPC.
+Descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso, intimado para regularizar a situação, não o fazendo adequadamente, o recorrente deve ter seu recurso inadmitido com fundamento na deserção.
+Nesse sentido, os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO.
+IRREGULARIDADE. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. ART. 1007, § 4º, DO CPC/2015. NÃO ATENDIMENTO. APLICAÇÃO DA PENA DE DESERÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Agravo interno contra decisão da Presidência desta Corte que não conheceu do recurso, em razão de deserção.
+2. Em não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento em dobro, sob pena de deserção, à luz do artigo 1.007, caput e § 4º, do CPC.
+3. Descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso, intimado para efetuar o recolhimento em dobro e permanecendo inerte, o recorrente deve ter seu recurso inadmitido com fundamento na deserção. Incide, na espécie, o disposto na Súmula 187 deste Tribunal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1229342/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 16/08/2018, DJe 22/08/2018)  g.n
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO.
+IRREGULARIDADE. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. ART. 1007, § 4º, DO CPC/2015. NÃO ATENDIMENTO. APLICAÇÃO DA PENA DE DESERÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Agravo interno contra decisão da Presidência desta Corte que não conheceu do recurso, em razão de deserção.
+2. Em não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento em dobro, sob pena de deserção, à luz do artigo 1.007, caput e § 4º, do CPC.
+3. Descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso, intimado para efetuar o recolhimento em dobro e permanecendo inerte, o recorrente deve ter seu recurso inadmitido com fundamento na deserção. Incide, na espécie, o disposto na Súmula 187 deste Tribunal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1229342/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 16/08/2018, DJe 22/08/2018)  g.n
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. ART. 1004, § 4º, CPC/2015. NÃO ATENDIMENTO. APLICAÇÃO DA PENA DE DESERÇÃO.
+1. Ao recurso especial interposto contra acórdão publicado sob a égide do Código de Processo Civil de 2015, devem ser aplicadas, quanto ao preparo, as regras constantes do art. 1.007 do CPC.
+2. Não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento em dobro, sob pena de deserção (art. 1004, caput e § 4º, do CPC).
+3. Descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso e não atendendo a determinação legal de, após intimado, efetuar o recolhimento em dobro, é de rigor que à parte recorrente seja imposta a pena de deserção do recurso.
+4. Agravo interno não provido.
+(AgInt no AREsp 1142653/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/12/2017, DJe 13/12/2017)  g.n
+Portanto, descumprido a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso e não atendendo a determinação legal de, após intimado, efetuar o recolhimento em dobro, é de rigor que à parte recorrente seja imposta a pena de deserção do recurso.
+4. Ante o exposto, nego provimento ao agravo, nos termos da fundamentação disposta acima.
+Publique-se. Intimem-se.
