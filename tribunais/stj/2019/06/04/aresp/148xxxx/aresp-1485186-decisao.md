@@ -1,0 +1,32 @@
+DECISÃO
+1. Cuida-se de agravo interposto por COMERCIAL IMPORTAÇÃO E EXPORTAÇÃO CANTAREIRA LTDA - EM RECUPERAÇÃO JUDICIAL, contra decisão que não admitiu o seu recurso especial, fundamentado no art. 105, III, "a" e "c", manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+CUMPRIMENTO DE SENTENÇA Constituição do crédito após pedido de recuperação judicial Impossibilidade de suspensão da execução do crédito constituído Observância de que a recuperação judicial atinge apenas os credores existentes ao tempo da impetração do benefício Inteligência dos artigos 49 e 59 da Lei nº 11.101/2005 - Recurso não provido. (fl. 76)
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 6º, §3º, 47, 49, 59, 76 e 168, da Lei 11.101/2005. Sustenta, em síntese, "que o débito da presente demanda fora constituído antes da sentença que aprovou o plano recuperacional, e, no que pese o trânsito em julgado posterior, caberia a Recorrida habilitar o crédito da Recuperação Judicial, se já não foi habilitada pelo D. Administrador Judicial, incluindo o crédito na lista de credores quirografários, não sendo sustentável o entendimento de que o crédito se constituiria apenas com o trânsito em julgado da sentença." (fl. 88).
+Aduz, que não está a requerer a suspensão da execução com fulcro no art. 6º da Lei n. 11.101/2005, mas sim, em razão da novação do débito, podendo a execução ser retomada, se decretada a falência da empresa.
+Postula a reforma do acórdão estadual, a fim de reconhecer a impossibilidade de prosseguimento da execução, fora do juízo universal da recuperação judicial. É o breve relatório.
+DECIDO.
+2. Em relação aos arts. 6º, §3º, 47, 76 e 168, da Lei 11.101/2005, trazido como violados, observa-se que não foram objeto de debate no acórdão recorrido, tampouco foram opostos embargos de declaração a fim de suprir eventual omissão. É entendimento assente neste Superior Tribunal de Justiça a exigência do prequestionamento dos dispositivos tidos por violados, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. De outro lado, ao contrário do que afirma a agravante, o débito objeto da execução não havia sido constituído na data do pedido de recuperação judicial. É o que se extrai acórdão estadual:
+Com efeito, o plano de recuperação judicial implica novação dos créditos anteriores ao pedido, conforme prevê o artigo 59 da Lei nº 11.101/2005.
+O caput do artigo 49 da referida lei é claro ao dispor que "Estão sujeitos à recuperação todos os créditos existentes na data do pedido, ainda que não vencidos".
+Nesse contexto, nem todos os créditos contra a empresa estão sujeitos aos efeitos do plano de recuperação judicial, mas tão somente aqueles existentes na data do seu pedido.
+Pois bem.
+Trata-se o caso de ação ordinária ajuizada pela agravante julgada improcedente, cuja sentença foi mantida em grau de recurso (Apel. nº 4001164-72.2013.8.26.0002, j.
+15/06/2015 - fls. 229/232 dos autos principais).
+O trânsito em julgado operou-se em 02/10/2017, depois que o Recurso Especial interposto pela agravante resultou improvido (Agravo em Recurso Especial nº 971021/SP fls. 7/9 dos autos de cumprimento de sentença).
+Por sua vez, o pedido da agravante de recuperação judicial foi deferido em 2013, com plano de recuperação aprovado em 03/06/2014 (fls. 22/60 dos autos de cumprimento de sentença).
+Como se vê, o crédito da agravada ainda não havia sido constituído na data do pedido de recuperação judicial, razão pela qual não pode se sujeitar aos seus efeitos, já que a dívida ainda não era exigível.
+Deste modo, inviável a suspensão da ação em fase de cumprimento de sentença, nos termos dos artigos 49 e 59 da Lei 11.105/2005.
+ ..
+Por tais motivos, não havendo razões para que a execução do crédito constituído posteriormente ao pedido de recuperação judicial seja suspensa, o cumprimento de sentença deve prosseguir regularmente. (fl. 77-78)
+Em vista da moldura fática apurada pela Corte de origem, há óbice intransponível ao conhecimento do recurso especial, pois a eventual revisão do acórdão recorrido demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento dos elementos constantes nos autos - o que é vedado, em sede de recurso especial, nos termos dos enunciados de Súmula 5 e 7 deste Sodalício.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. SUSPENSÃO DA EXECUÇÃO FISCAL. IMPOSSIBILIDADE.ACÓRDÃO FUNDAMENTADO COM BASE NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Consoante a jurisprudência do STJ, embora o deferimento do processamento da recuperação judicial não tenha, por si só, o condão de suspender as execuções fiscais, nos termos do art. 6º, § 7º, da Lei n. 11.101/05, os atos judiciais que reduzam o patrimônio da empresa em recuperação judicial devem ser obstados enquanto mantida essa condição.
+2. Ocorre que, no caso dos autos, o Tribunal a quo consignou: "O plano de recuperação judicial ainda não foi aprovado pela assembléia de credores (cf. art. 35 da Lei nº 11.101, de 2005), de modo que longe estão de ser atendidos os requisitos estabelecidos pelo Superior Tribunal de Justiça para eventual suspensão dos atos executórios Acresce que a parte agravante não trouxe aos autos qualquer elemento a comprovar que a alienação dos imóveis poderá prejudicar a manutenção de suas atividades. Assim, porque não demonstrado que há plano de recuperação judicial aprovado e nem de que este tenha sido deferido após apresentação de certidão de regularidade fiscal pela sociedade empresária, não há motivo para reformar a decisão agravada, eis que se coaduna com a orientação do STJ. " (fl. 746, e-STJ).
+3. Assim, é evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Agravo Regimental não provido.
+(AgRg no REsp 1571394/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/03/2016, DJe 24/05/2016)
+___________
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
