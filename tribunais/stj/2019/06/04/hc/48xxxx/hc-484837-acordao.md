@@ -1,0 +1,86 @@
+EMENTA
+HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO CAUTELAR. FUNDAMENTOS IDÔNEOS. EXCESSO DE PRAZO PARA JULGAMENTO NÃO VERIFICADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+1. A aferição da razoabilidade da duração do processo não ocorre de forma meramente aritmética. Nessa perspectiva, não se verifica ilegalidade quando, embora constatada certa demora na tramitação do feito, posteriormente o processo esteve em constante movimentação, seguindo sua marcha dentro da normalidade, sem tributar, pois, aos órgãos estatais de indevida letargia.
+2. Não constatada mora estatal em processo penal em que a sucessão de atos processuais infirma a ideia de paralisação imprópria da ação penal ou de culpa do Estado, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+3. Ademais, embora o paciente esteja preso desde 23/9/2017, a custódia cautelar, no momento, não se revela desproporcional diante da pena em abstrato atribuída ao delito imputado na pronúncia.
+4. Ordem denegada, com recomendação de celeridade no julgamento da Ação Penal n. 027.2003.001.781-1, em trâmite na Vara Única da Comarca de Picuí - PB.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, denegar a ordem, com recomendação, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+[NOME] alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba no HC n. 0805605-70.2018.8.15.0000.
+O paciente foi denunciado por suposta prática do delito descrito no art. 121, § 2º, II e IV, do CP e está custodiado preventivamente desde 22/9/2017. O impetrante alega excesso de prazo na formação da culpa, porquanto o processo permaneceu paralisado pelo prazo de sete meses exclusivamente por inércia do judiciário.
+Requer, liminarmente, a expedição de alvará de soltura.
+Indeferida a liminar (fls. 66-67) e prestadas as informações (fls. 74-90), os autos foram ao Ministério Público Federal, que opinou pelo não conhecimento e, caso conhecida, pela denegação da ordem (fls. 92-99).
+EMENTA
+HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO CAUTELAR. FUNDAMENTOS IDÔNEOS. EXCESSO DE PRAZO PARA JULGAMENTO NÃO VERIFICADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+1. A aferição da razoabilidade da duração do processo não ocorre de forma meramente aritmética. Nessa perspectiva, não se verifica ilegalidade quando, embora constatada certa demora na tramitação do feito, posteriormente o processo esteve em constante movimentação, seguindo sua marcha dentro da normalidade, sem tributar, pois, aos órgãos estatais de indevida letargia.
+2. Não constatada mora estatal em processo penal em que a sucessão de atos processuais infirma a ideia de paralisação imprópria da ação penal ou de culpa do Estado, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+3. Ademais, embora o paciente esteja preso desde 23/9/2017, a custódia cautelar, no momento, não se revela desproporcional diante da pena em abstrato atribuída ao delito imputado na pronúncia.
+4. Ordem denegada, com recomendação de celeridade no julgamento da Ação Penal n. 027.2003.001.781-1, em trâmite na Vara Única da Comarca de Picuí - PB.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Contextualização
+Informam os autos (fls. 4-5):
+o paciente foi denunciado como incurso nas sanções do art. 121, § 2º, II e IV c/c art. 61, II, alínea "e", ambos do Código Penal, porque no dia 26/1/2003, por volta das 20h30m na gleba rural denominada "Posse do Bento", Município de Nova Palmeira/Paraíba, teria ceifado a vida de [NOME], seu próprio irmão, mediante disparo de revólver calibre 32, quando bebericavam cachaça no interior da residência da genitora de ambos.
+Após uma discussão sem importância, o paciente teria sacado a arma e efetivado certeiro disparo na cabeça da vítima, resultando por fim, na morte imediata do seu irmão, em virtude dos ferimentos sofridos.
+Após o suposto crime, FÁBIO retornou para a cidade de São Paulo e lá permaneceu trabalhando e morando, vez que já residia há anos na referida cidade.
+Todavia, havia um mandado de prisão expedido em 2003 pelo Juízo da comarca de Picuí/PB, em desfavor do acusado, sob argumento de que a conduta criminosa do paciente, estava dentre as passíveis de pena de reclusão.
+Pois bem, por encontrar-se em local incerto e não sabido, foi decretada a revelia do réu. Houve a oitiva das testemunhas arroladas pela acusação. Logo em seguida, o processo foi suspenso com base no artigo 366 do Código de Processo Penal.
+No dia 22/9/2017, o referido mandado de prisão foi cumprido na comarca de São Paulo.
+Assim, o paciente requereu sua liberdade provisória junto ao juízo a quo, esclarecendo estarem ausentes os requisitos para manutenção da custódia cautelar, enfatizando que possui residência fixa, emprego lícito, advogado constituído, o que propiciaria o regular andamento do feito, todavia, teve seu pedido de liberdade negado, com base na possibilidade de fuga do distrito da culpa.
+Tendo em vista o indeferimento pelo Digno Juízo da Vara Única da Comarca de Picuí, o paciente impetrou writ (HC n. 0801529- 03.2018.8.15.0000) perante o Egrégio Tribunal de Justiça do Estado da Paraíba, sendo denegada a ordem, sob argumento, de que, restou demonstrada a presença dos pressupostos, requisitos e fundamentos do artigo 312 do CPP.
+Por fim, o paciente impetrou novo habeas corpus (HC n. 0805605-70.2018.8.15.0000), alegando excesso de prazo, porque se encontrava preso preventivamente há mais de um ano e os autos originários estavam paralisados há mais de 6 meses, aguardando cumprimento de carta precatória, que sequer havia sido enviada para interrogatório do réu.
+Contudo, tal ordem foi denegada, pois o Tribunal de Justiça da Paraíba entendeu que o processo está tramitando regularmente e o paciente não demonstrou que a não conclusão do feito tenha se dado por inoperância do Juízo.
+Ante exposto, o paciente impetra o presente mandamus.
+O paciente - investigado por suposta prática do delito art. 121, § 2º, II e IV, do CP, contra o próprio irmão - está custodiado preventivamente desde 22/9/2017. O impetrante alega excesso de prazo na formação da culpa e que o processo permaneceu paralisado pelo prazo de sete meses exclusivamente em virtude de inércia do judiciário.
+Neste writ, o insurgente busca o direito de responder ao processo em liberdade, ao argumento de estar preso há mais de 435 dias (contagem na data da impetração do recurso ordinário, 12/12/2018), sem que haja sido submetido a julgamento pelo Tribunal do Júri.
+O objeto do presente pleito, portanto, cinge-se à análise de possível constrangimento ilegal por excesso de prazo para o julgamento em plenário de Júri.
+Razão não assiste à defesa.
+Insta consignar que a verificação da existência do excesso de prazo impõe a observância ao disposto no preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe: "A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação".
+Entretanto, a aferição da violação da garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa e sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+No caso em exame, depois de analisar as informações prestadas pelo Juízo de primeira instância, julgo não haver que se falar em constrangimento ilegal por excesso de prazo.
+Ressalte-se que, por ocasião do julgamento do habeas corpus impetrado pelo ora paciente, a Corte local concluiu (fls. 9-13, grifei):
+ ..
+A defesa se insurge na presente oportunidade contra suposto constrangimento ilegal decorrente de excesso de prazo da prisão preventiva, ao argumento de que o acusado está preso desde 22/09/2017, não tendo sido concluída a instrução da primeira fase do Júri, estando pendente o cumprimento de carta precatória expedida para o Estado de São Paulo, para interrogatório do réu, pelo que pugna o restabelecimento da liberdade ao paciente ou a imposição de medidas cautelares diversas.
+Não obstante, das informações prestadas pela autoridade coatora, observa-se que a conclusão da instrução criminal está pendente tão somente quanto ao ato de interrogatório do réu, preso no Estado de São Paulo, estando o juízo aguardando a devolução da precatória expedida em 14/04/2018 para dar regular continuidade à tramitação do feito.
+Assim, embora no caso concreto a soma aritmética dos prazos processuais ultrapasse o limite ideal de conclusão da instrução criminal, entendo não assistir razão ao impetrante, pois, o processo segue em prazo razoável e justificado, inexistindo demora excessiva a amparar a alegação de constrangimento ilegal, da qual tenha o Judiciário, ou mesmo a acusação, dado causa injustificadamente, de modo que não se pode falar em excesso de prazo.
+É que o tempo razoável de duração do processo criminal deve se lastrear pelas peculiaridades inerentes ao processo, notadamente a complexidade da causa, que envolve, neste caso, ao menos, a expedição de carta precatória para comarca de sabido congestionamento processual.
+Em casos tais, máxime em vista de sua natureza não peremptória, é imperiosa a flexibilização na contagem dos prazos, conforme o entendimento já sedimentado pelo SUPERIOR TRIBUNAL DE JUSTIÇA:
+ ..
+Diante de tais considerações, não vejo desproporcionalidade no tempo dispendido até porque a assertiva do excesso prazal, no procedimento penal, estando o réu preso, é um dos maiores martírios no âmbito criminal, vez que nem sempre é simples ou possível concluir os feitos dentro do horizonte temporal que se considera plausível e, destarte, justo.
+À vista disso, do fato de o processo ter tramitado regularmente e de não ter o paciente demonstrado que a não conclusão do feito tenha se dado por inoperância do Juízo, entendo não haver constrangimento ilegal no caso.
+Ante o exposto, DENEGO A ORDEM IMPETRADA, em harmonia com o parecer da Procuradoria de Justiça.
+O Magistrado de primeira instância, em suas informações, relatou (fls. 74-90, destaquei):
+1º) Que o paciente foi denunciado pela prática do crime previsto no art. 121, § 2º, II e IV, do Código Penal, sob acusação de ter ceifado a vida do próprio irmão, mediante disparo de arma de fogo, fato ocorrido em 26/1/2003;
+2º) Que a prisão do paciente foi decretada em 27/3/2003, quando do recebimento da denúncia, porém o cumprimento do mandado não foi possível, uma vez que o paciente evadiu-se do distrito da culpa e foi declarado em lugar incerto e não sabido;
+3º) Que o paciente foi citado por edital, tendo sido o processo suspenso na forma do art. 366 do CPP, determinando-se a produção antecipada de provas, remanescendo suspenso o processo desde então aguardando a captura do réu;
+4º) Que após transcorridos mais de 14 anos da prática do crime, a Secretaria de Administração Penitenciária de São Paulo informou, na data de 22/9/2017, a captura do paciente, tendo este Juízo, em 26/9/2017, determinado a intimação do paciente a apresentar resposta à acusação, com habilitação de advogado em 20/11/2017;
+5º) Que o advogado constituído pelo réu em 20/11/2017 limitou-se a formular pedido de revogação da prisão, razão por que determinou-se a intimação do referido causídico para apresentar resposta à acusação, a qual foi protocolada apenas em 25/01/2018, sem rol testemunhal, tendo sido mantida a prisão do réu e ordenada a expedição de carta precatória a fim de interrogar o réu na comarca de São Paulo;
+6º) Que a carta precatória foi expedida em 14/04/2018 e, ante a inexistência de informação de sua distribuição no Juízo deprecado e ausência de comprovação de envio, expediu-se nova carta precatória em 13/11/2018, a qual foi remetida ao Juízo deprecado na mesma data;
+7º) Que o Juízo deprecado informou o agendamento de interrogatório do réu para o dia 11/2/2019, o qual foi realizado, conforme consulta eletrônica ao site do TJSP que segue em anexo;
+8º) Que este Juízo determinou ao Cartório desta unidade judiciária que solicite a devolução da carta precatória com interrogatório do réu com a máxima urgência, a fim de abrir prazo às partes para suas considerações finais e subsequente conclusão dos autos para prolatação de decisão de pronúncia ou impronúncia do paciente;
+9º) Por fim, sustentamos a inexistência de motivos autorizadores para a revogação da prisão do paciente, eis que permaneceu evadido do distrito da culpa por quase 15 anos, havendo risco de ocorrer a prescrição da pretensão punitiva se o réu for solto, frustrando-se, por consequência, a aplicação da lei penal.
+O Ministério Público Federal, em parecer da Subprocuradora-Geral da República [NOME], opinou pelo não conhecimento e, caso conhecida, pela denegação da ordem (fls. 94-99, grifei):
+ ..
+No caso em tela, a prisão encontra-se amplamente justificada, mormente considerando que os elementos acostados aos autos indicam que o paciente, utilizando-se de arma de fogo, ceifou a vida de seu irmão durante uma discussão na casa da genitora. Consta que o paciente desferiu um único tiro certeiro na testa da vítima.
+A jurisprudência do STJ firmou entendimento no sentido de que a gravidade em concreto da conduta justifica a prisão cautelar para a garantia da ordem pública, conforme se verifica nos seguintes julgados:
+ ..
+Portanto, de acordo com a jurisprudência dessa Corte, é possível a manutenção da prisão preventiva em virtude da garantia da ordem pública, desde que fundada na gravidade em concreto da prática delituosa.
+Ademais, também é imprescindível a manutenção da constrição do paciente para a tutela da incolumidade física e psicológica das testemunhas, cujos depoimentos têm grande relevância para o esclarecimento dos fatos, restando, pois, justificada também a constrição para a conveniência da instrução processual.
+ ..
+É evidente, portanto, que nenhuma das medidas cautelares previstas no art. 319 do CPP se mostra suficiente para o caso em tela, mormente considerando que o paciente evadiu-se do distrito da culpa logo após os fatos e permaneceu foragido durante 14 anos, o que demonstra que não tem a intenção de colaborar com a Justiça, reforçando a convicção da necessidade da manutenção da decisão que decretou sua prisão cautelar.
+Por fim, não merece prosperar a alegação de excesso de prazo, tendo em vista que a ação penal originária permaneceu suspensa por quase 14 anos, na forma do artigo 366 do CPP, por culpa exclusiva do réu, que estava foragido. Após sua captura, conforme exposto, a ação penal retomou seu curso regular, encontrando-se em fase de instrução.
+Como se depreende dos autos, não há nenhuma comprovação de que o Juízo de primeiro grau, ou o Ministério Público, hajam atuado com desídia ou dado causa a qualquer atraso no andamento do processo.
+Destaque-se que, em determinado momento processual, a própria defesa contribuiu para o atraso na tramitação do feito (fl. 75, destaquei):
+"o então advogado constituído pelo réu em 20/11/2017 limitou-se a formular pedido de revogação da prisão, razão por que determinou-se a intimação do referido causídico para apresentar resposta à acusação, a qual foi protocolada apenas em 25/1/2018, sem rol testemunhal, tendo sido mantida a prisão do réu e ordenada a expedição de carta precatória a fim de interrogar o réu na comarca de São Paulo".
+Ademais, conforme informações prestadas pelo Magistrado de primeira instância, o interrogatório do insurgente já ocorreu no Juízo deprecado, o que possibilitará a conclusão da instrução criminal.
+Portanto, a custódia cautelar, no momento, não se revela irregular, haja vista a normal tramitação do feito, nem desproporcional, diante das penas em abstrato atribuídas ao delito imputado ao paciente na denúncia.
+Sabe-se que os prazos fixados na legislação para a prática de atos processuais servem apenas de parâmetro; não se pode deduzir o excesso apenas pela soma aritmética deles.
+É uníssona a jurisprudência desta Corte Superior no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando for a demora injustificável, de modo a impor a adoção de critérios de razoabilidade no exame de sua ocorrência.
+Além disso, não observada mora estatal em ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida. Nesse sentido: HC n. 446.382/RS, Rel. Ministro Nefi Cordeiro, 6ª T., julgado em 14/8/2018, DJe 27/8/2018; RHC n. 95.730/GO, Rel. Ministro Joel Ilan Paciornik, 5ª T., julgado em 19/6/2018, DJe 28/6/2018.
+II. Dispositivo
+À vista do exposto, denego a ordem.
+Expeça-se recomendação para que se imprima máxima celeridade ao julgamento pelo Tribunal do Júri, nos autos do Processo n. 027.2003.001.781-1, em trâmite na Vara Única da Comarca de Picuí - PB.
