@@ -1,0 +1,20 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. INTERRUPÇÃO NÃO PROGRAMADA DO FORNECIMENTO DE ENERGIA ELÉTRICA CAUSADO PELA RUPTURA DE CABOS SUBMARINOS, DANIFICADOS POR EMBARCAÇÕES QUE TRAFEGAM EM LOCAL PROIBIDO QUE PERDUROU POR SEIS DIAS. FATOS NOTÓRIOS OBJETO DE AÇÃO CIVIL PÚBLICA. PRETENSÃO AUTORAL DE COMPENSAÇÃO POR DANOS MORAIS QUE FOI ACOLHIDA, SENDO FIXADA A VERBA COMPENSATÓRIA EM R$ 600,00 (SEISCENTOS REAIS). RECURSO PRETENDENDO A MAJORAÇÃO DA VERBA COMPENSATÓRIA E DOS HONORÁRIOS DE SUCUMBÊNCIA. FATOS INCONTROVERSOS. RISCO DO EMPREENDIMENTO. CONSUMIDOR PRIVADO DO FORNECIMENTO DO SERVIÇO POR PERÍODO DE SEIS DIAS. DANO MORAL CONFIGURADO. SUMULA Nº 192 DESTA CORTE. VERBA COMPENSATÓRIA QUE SE MOSTRA MODESTA MERECENDO MAJORAÇÃO PARA R$ 2.500,00 (DOIS MIL E QUINHENTOS REAIS). SENTENÇA QUE QUE MERECE REFORMA NESTE CAPÍTULO. HONORÁRIOS ADVOCATÍCIOS ADEQUADAMENTE FIXADOS NA SENTENÇA. RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 1.022 do CPC de 2015; 944 do CC; 6º, inciso VI, do CDC.
+Alega que os danos morais foram fixados de forma irrisória (R$ 2.500,00 - dois mil e quinhentos reais), pedindo sua majoração.
+É o relatório. DECIDO.
+2. De início, observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3. No mais, em relação ao quantum fixado a título de danos morais, é pacífico nesta Corte que, em sede de recurso especial, a revisão da indenização por dano moral apenas é possível quando o valor arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ. Precedentes: REsp 686050/RJ, 1ª Turma, Min. Luiz Fux, DJ de 27.06.2005; AgRg no Ag 605927/BA, Min. Denise Arruda, DJ de 04.04.2005; REsp 734.741/MG, Min. Teori Albino Zavascki, DJ de 27.03.2006.
+No presente caso, entendo que a quantia fixada pelo Tribunal de origem, qual seja, R$ 2.500,00 (dois mil e quinhentos reais), encontra-se em consonância com os precedentes desta Corte, não ensejando a revisão em sede de recurso especial.
+A propósito:
+ADMINISTRATIVO. ENERGIA ELÉTRICA. AÇÃO INDENIZATÓRIA. INTERRUPÇÃO DE FORNECIMENTO. RESPONSABILIDADE. VALOR DO DANO MORAL. SÚMULA 7/STJ.
+1. Trata-se, originariamente, de ação de indenização por danos morais e materiais em razão de quedas de energia frequentes na comunidade de Laje Grande/PE, situada no Município de Pesqueira/PE.
+A concessionária foi condenada na origem ao pagamento de danos morais, arbitrados em R$ 2 mil.
+2. No que se refere à incidência da responsabilidade objetiva da concessionária, a análise da ocorrência entre o nexo de causalidade e o dano sofrido pelos agravados esbarra, em regra, no óbice da Súmula 7/STJ. Precedentes do STJ.
+3. A revisão do montante fixado a título de danos morais somente é possível quando o valor for exorbitante ou insignificante, em flagrante violação aos princípios da razoabilidade e da proporcionalidade, o que não é o caso dos autos. A verificação da razoabilidade do quantum indenizatório atrai o óbice da Súmula 7/STJ. Precedentes do STJ.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 258.834/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/02/2013, DJe 13/06/2013)
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
