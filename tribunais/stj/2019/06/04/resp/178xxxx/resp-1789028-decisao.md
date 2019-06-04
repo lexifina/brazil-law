@@ -1,0 +1,100 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. COMPRA E VENDA DE IMÓVEL NA PLANTA. INADIMPLEMENTO CONTRATUAL. ATRASO NA ENTREGA. DANO MORAL. NÃO CABIMENTO. MERO DISSABOR. PRECEDENTES. RESTITUIÇÃO. COMISSÃO DE CORRETAGEM. PRAZO PRESCRICIONAL TRIENAL. RECURSO ESPECIAL NÃO PROVIDO.
+1. A jurisprudência sedimentada no STJ é no sentido de que o mero inadimplemento contratual não se revela suficiente a ensejar dano de ordem moral hábil a perceber indenização, porquanto considerado como hipótese de dissabor do cotidiano, razão pela qual o entendimento da Corte de origem encontra-se em harmonia com o posicionamento adotado por esta Casa. Precedentes.
+2. Em julgamento de recurso repetitivo, a eg. Segunda Seção firmou o entendimento de que incide a prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem (art. 206, § 3º, IV, do CC) (REsp 1551956/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 06/09/2016).
+3. Recurso especial conhecido e provido, para afastar a condenação a título de indenização por danos morais, bem como o implemento do prazo prescricional da pretensão autoral de obtenção de restituição do valor pago a título de comissão de corretagem, ante a incidência do prazo prescricional trienal previsto no art. 206, § 3º, IV, do CC.
+4. Recurso especial conhecido e provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por PROJETO IMOBILIARIO RESIDENCIAL VIVER ZONA SUL SPE 62 LTDA - EM RECUPERAÇÃO JUDICIAL , com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO DE CONTRATO. COMPRA E VENDA. VIVER ZONA SUL. IMÓVEL. RESTITUIÇÃO DE VALOR. DANO MORAL. ATRASO NA ENTREGA DA OBRA. TAXAS CONDOMINIAIS. COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. DANO MORAL. QUANTUM INDENIZATÓRIO. HONORÁRIOS ADVOCATÍCIOS.
+RECURSO ADESIVO.
+PEDIDO DE SUSPENSÃO DA AÇÃO: Desacolhido o pedido de suspensão da ação em face do deferimento do pedido de recuperação judicial da empresa requerida, tendo em vista que não se trata de quantia líquida, mas conflito atinente a processo de conhecimento.
+RESCISÃO CONTRATUAL: Caracterizada a culpa da construtora pelo atraso na entrega da obra, isso foi reconhecido na sentença recorrida.
+Logo, ausência de interesse recursal da parte autora, não devendo o apelo ser conhecido no ponto.
+COMISSÃO DE CORRETAGEM: O caso dos autos não se trata de distrato ou de resolução por culpa do promitente comprador, mas de inadimplemento imputável de forma exclusiva à promitente vendedora, que deixou de entregar o imóvel no prazo estabelecido contratualmente, devendo esta suportar o ressarcimento pertinente, como forma de recompor o prejuízo da parte autora.
+TAXA CONDOMINIAL: Viável a restituição dos valores pagos pela parte autora a título de taxa condominial, haja vista a mora da empresa demandada, por culpa exclusiva. Devolução na forma simples.
+CONTRATAÇÃO DE PROFISSIONAIS: A contratação de credenciados e de expert em liberação de operações bancárias, a fim de viabilizar a concretização do negócio, ocorreu por arbítrio dos autores, não devendo a demandada ser responsabilizada à devolução da importância. Sentença mantida, no ponto.
+CLAUSULA DE TOLERANCIA: Resta válida a cláusula de tolerância que prevê a prorrogação da entrega do empreendimento em 180 dias, assim como observação a caso fortuito e força maior, pois redigida de acordo com o disposto no art. 54, §3º, do CDC. Abusividade que se rejeita. Respeitante aos itens 4.1 e 4.2, do contrato, houve, implicitamente, reconhecimento de abuso contratual na origem.
+INVERSÃO DO ÔNUS DA PROVA: Aplicável a regra consumerista possível a inversão do ônus da prova, mas com observação ao contexto probatório.
+DANO MATERIAL: A pretensão dos autores advém da intenção em quitar o financiamento com possível locação do imóvel adquirido, o que, sem dúvida, tem fim hipotético e, como tal, torna impossível o agasalho à pretensão.
+Sequer é possível concluir que o imóvel seria de fato locado, ou mesmo que o dinheiro aferido seria direcionado ao pagamento dasprestaçães.
+COMISSÃO CORRETAGEM. PRESCRIÇÃO: No caso em concreto, a rescisão contratual decorreu da culpa da construtora diante da demora na conclusão e entrega da obra, modo pelo qual o prazo de prescrição é o decenal, conforme exposto na sentença. Precedente deste colegiado.
+DEVOLUÇÃO DOS VALORES PAGOS: Reconhecido o atraso na conclusão da obra deve ser responsabilizada a requerida pela rescisão contratual e não o comprador do imóvel. Então, se a rescisão ocorreu por inadimplência da promitente -vendedora em não entregar o imóvel na data limite avençada, e diante da ausência da comprovação de qualquer fato excludente de sua responsabilidade, ônus que era seu, é incontroversa a responsabilidade da requerida decorrente da mora e seus encargos incidentes. Pedido de retenção de valores que se mostra equivocado, porquanto a situação deve retornar ao seu status quo ante.
+DANO MORAL. QUANTUM Demonstrado nos autos o prejuízo suportado pelos autores, já que a entrega do imóvel ocorreu quando decorrido aproximadamente um ano do tempo ajustado. A prova do dano é In re ipsa; e a demonstração de inexistência do prejuízo é da parte demandada (inciso II, do artigo 373, do CPC/15).
+O razoável é manter o valor do dano moral (R$ 10.000,00), para ambos autores, pois corresponde aos parâmetros que se adota no âmbito deste colegiado e do Tribunal de Justiça.
+Pedido de redução e majoração afastados.
+ÔNUS SUCUMBENCIAL: Mantida a distribuição do ônus sucumbencial, eis que o decaimento das partes isso autoriza.
+SUCUMBÊNCIA RECURSAL: Não havendo o provimento do apelo da construtora requerida, aplica-se a regra do § 11 do artigo 85 do Código de Processo Civil, no caso a sucumbência recursal.
+DERAM PARCIAL PROVIMENTO APELO DO AUTOR NILSON, NA PARTE CONHECIDA. NEGARAM PROVIMENTO AO APELO DA PARTE DEMANDADA. DERAM PARCIAL PROVIMENTO AO RECURSO ADESIVO DE KARINE.
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões recursais, aponta a parte recorrente além de dissídio jurisprudencial, ofensa ao disposto nos arts. 373, I, e 1.022, do CPC/2015; arts. 186, 206, §3º, IV e a 944, do Código Civil, defendendo a existência de omissões no acórdão estadual; o não cabimento de indenização por danos morais, em razão do atraso na entrega do imóvel, objeto da promessa de compra e venda firmado entre as partes; afirma que não consta da decisão recorrida, nenhuma menção aos suposos danos ou eventual prova produzida pela parte adversa.
+Afirma, ainda, que incide o prazo prescricional é trienal para a pretensão no que diz respeito a restituição de valor relativo à comissão de corretagem, .
+Transcorrido o prazo das contrarrazões (certidão de fls. 294), o recurso especial recebeu crivo positivo de admissibilidade na origem.
+É o breve relatório.
+DECIDO.
+2. De outro lado, a jurisprudência desta Corte firmou-se no sentido de que o simples descumprimento contratual, por si só, não é capaz de gerar danos morais. É necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade.
+Confira os precedentes nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. ATRASO NA ENTREGA DE IMÓVEL. MERO INADIMPLEMENTO CONTRATUAL NÃO GERA DANOS MORAIS INDENIZÁVEIS.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Nos termos do entendimento firmado por este Superior Tribunal de Justiça, o mero inadimplemento contratual, consubstanciado no atraso da entrega do imóvel, não gera, por si só, danos morais indenizáveis (REsp 1642314/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/3/2017, DJe 22/3/2017).
+3. Agravo interno a que se nega provimento.
+(AgRg no AREsp 737.158/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/08/2017, DJe 22/08/2017)
+___________
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. A jurisprudência do STJ tem entendido que, muito embora o simples atraso na entrega do imóvel não provoque danos morais indenizáveis, circunstâncias do caso concreto podem configurar a lesão extrapatrimonial. Precedentes.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual, ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. Na hipótese em questão, a Corte local, após analisar o contrato entabulado entre as partes e as provas constantes nos autos, concluiu que, além do atraso excessivo e injustificado na entrega do bem, outras peculiaridades fáticas do caso concreto foram capazes de provocar danos morais aos consumidores. A revisão de tal entendimento demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1647276/RO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/08/2017, DJe 29/08/2017)
+___________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. ATRASO NA ENTREGA DE IMÓVEL. CUMULAÇÃO DOS LUCROS CESSANTES COM CLÁUSULA PENAL. MATÉRIA SUBMETIDA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO DO FEITO. REGRAMENTO DIRIGIDO ÀS INSTÂNCIAS ORDINÁRIAS. DANO MORAL VERIFICADO NO CASO CONCRETO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. "A afetação de determinado recurso ao rito dos repetitivos, nos termos do art. 543-C do CPC, não implica a suspensão ou o sobrestamento das demais ações já em curso no Superior Tribunal de Justiça, mas, apenas, as em trâmite nas instâncias ordinárias" (AgRg na Rcl 27.689/MG, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/11/2015, DJe de 16/11/2015).
+2. No que tange ao dano moral, é entendimento desta Corte que, havendo descumprimento do prazo para entrega do imóvel objeto do compromisso de compra e venda, pode ser cabível a condenação em danos morais, de acordo com as peculiaridades do caso concreto.
+Precedentes.
+3. Na hipótese dos autos, o Tribunal de origem concluiu que os danos morais estão configurados, tendo em vista o atraso de mais de um ano na entrega do imóvel que se destinava à moradia da família do agravado. A alteração das premissas firmadas no aresto recorrido exige o reexame de matéria fático-probatória dos autos, o que atrai a incidência da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1078489/SE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/08/2017, DJe 29/08/2017)
+___________
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO DE COMPRA E VENDA - VÍCIOS NA AVENÇA. INADIMPLEMENTO CONTRATUAL - DANO MORAL - NÃO CABIMENTO - DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. A jurisprudência consolidada nesta Corte Superior permeia-se no sentido de que o mero inadimplemento contratual não se revela suficiente a ensejar dano de ordem moral hábil a perceber indenização, porquanto considerado como hipótese de dissabor do cotidiano, razão pela qual o entendimento perfilhado pela Corte de origem se coaduna com o posicionamento adotado por esta Casa. Incidência da Súmula 83/STJ. Precedentes. AgRg no REsp 1408540, REsp 1129881/RJ, REsp 876.527/RJ,.
+2. Ainda assim, a Corte Estadual com base na análise acurada dos autos concluiu que o caso vertente afasta-se de hipótese extraordinária autorizadora à indenização por danos extramateriais, derruir o entendimento exarado implicaria no revolvimento das matéria fática e probatória da demanda, o que incide no óbice da Súmula 7/STJ, em ambas alíneas.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 362.136/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 3/3/2016, DJe 14/3/2016.)
+___________
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. ENTREGA. ATRASO. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INEXISTÊNCIA. PRECEDENTES.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+2. Na hipótese dos autos, a construtora recorrida foi condenada ao pagamento de danos materiais e morais, sendo estes últimos fundamentados apenas na demora na entrega do imóvel, os quais não são, portanto, devidos.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 570.086/PE, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2015, DJe 27/10/2015.)
+___________
+3. Cabe ser analisado, portanto, se, no caso concreto, o descumprimento contratual ultrapassou o mero dissabor, devendo-se levar em conta, apenas, as premissas fáticas descritas no acórdão recorrido para que não incida a vedação contida no enunciado n. 7 da Súmula do STJ.
+No caso, o Tribunal local fixou o valor da indenização a título de danos morais no valor de R$ 10.000,00 dez mil reais). Para tanto, adotou fundamentação nos seguintes termos:
+Então, para que se possa falar em dano moral é preciso que a pessoa seja atingida em sua honra, sua reputação, sua personalidade, seu sentimento de dignidade, passe por dor, humilhação, constrangimentos, tenha os seus sentimentos violados.
+A responsabilidade civil é composta por pressupostos indissociáveis, quais sejam: o ato ilícito, o dano efetivo e o nexo de causalidade, conforme ensina Caio Mário da Silva Pereira:
+ ..
+Entretanto, evidenciado o atraso na entrega da obra (por volta de 12 meses) gera o dever de indenizar porquanto presumíveis o aborrecimento e incômodo sofridos pelos autores com o atraso na entrega, decorrendo daí dor e ofensa à honra, que devem ser indenizados.
+Destaco que, para que se configure o direito à indenização pleiteada, devem estar presentes os três pressupostos indispensáveis, é dizer, conduta ilícita, nexo causal e resultado danoso. No caso em tela, todos os elementos necessários à caracterização dos danos morais restaram demonstrados. O dano foi patente diante do descumprimento contratual pela requerida.
+Ademais, a parte autora se desincumbiu do encargo probatório que lhe cabia, porquanto, trouxe aos autos a prova do efetivo prejuízo experimentado em virtude do descumprimento do pacto entabulado entre ela e a demandada. Aliás, é reiterado no ambito deste colegiado o reconhecimento do dano moral, fato excepcional, quando há mora na entrega do imóvel em prazo superior a razoabilidade média do homem comum. Logo, não obstante a legalidade da cláusula de tolerância, a demora para conclusão do obra é cerca de um ano, o que revela o dano moral ocorrido.
+ ..
+Trata-se, portanto, do chamado dano in re ipsa, em que basta a comprovação do fato em si (o descumprimento grave e injustificado do contrato), para que dele se presuma a existência do dano.
+Na lição do Des. Sérgio Cavalieri Filho, na sua prestigiada obra doutrinária Programa de Responsabilidade Civil, 5º ed., Malheiros, 2004, p. 100/101, percebe-se da desnecessidade da prova do dano moral, eis que resulta do próprio ato ilícito praticado pelo agente ofensor:
+Entendemos, todavia, que por se tratar de algo imaterial ou ideal a prova do dano moral não pode ser feita através dos mesmos meios utilizados para a comprovação do dano material. Seria uma demasia, algo até impossível, exigir que a vítima comprove a dor, a tristeza ou a humilhação através de depoimentos, documentos ou perícia; não teria ela como demonstrar o descrédito, o repúdio ou o desprestígio através dos meios probatórios tradicionais, o que acabaria por ensejar o retorno à fase da irreparabilidade do dano moral em razão de fatores instrumentais.
+Neste ponto, a razão se coloca ao lado daqueles que entendem que o dano moral está ínsito na própria ofensa, decorre da gravidade do ilícito em si. Se a ofensa é grave e de repercussão, por si só justifica a concessão de uma satisfação de ordem pecuniária ao lesado. Em outras palavras, o dano moral existe in re ipsa; deriva inexoravelmente do próprio fato ofensivo, de tal modo que, provada a ofensa, ipso facto está demonstrado o dano moral à guisa de uma presunção natural, uma presunção hominis ou facti, que decorre das regras de experiência comum.
+É evidente o nexo de causalidade entre o agir da ré e os danos sofridos decorrente no atraso da entrega da obra que, inclusive, levou à rescisão do contrato. (fl. 1196-1198)  g.n.
+3.1. Nota-se que a Corte local deixou de apontar, concretamente, situação específica, desvinculada dos normais aborrecimentos da parte que não recebe o imóvel no prazo contratual, circunstância incapaz de gerar dor e sofrimento indenizável. Em tais condições, impõe-se o afastamento da indenização por danos morais.
+4. No que tange à prescrição, cumpre assinalar que em julgamento de recurso repetitivo, a eg. Segunda Seção firmou o entendimento de que incide a prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem (art. 206, § 3º, IV, do CC).
+Eis a ementa do repetitivo:
+RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL E DO CONSUMIDOR. INCORPORAÇÃO IMOBILIÁRIA. VENDA DE UNIDADES AUTÔNOMAS EM ESTANDE DE VENDAS. CORRETAGEM. SERVIÇO DE ASSESSORIA TÉCNICO-IMOBILIÁRIA (SATI). CLÁUSULA DE TRANSFERÊNCIA DA OBRIGAÇÃO AO CONSUMIDOR. PRESCRIÇÃO TRIENAL DA PRETENSÃO. ENRIQUECIMENTO SEM CAUSA.
+1. TESE PARA OS FINS DO ART. 1.040 DO CPC/2015: 1.1. Incidência da prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem ou de serviço de assistência técnico-imobiliária (SATI), ou atividade congênere (art. 206, § 3º, IV, CC).
+1.2. Aplicação do precedente da Segunda Seção no julgamento do Recurso Especial n. 1.360.969/RS, concluído na sessão de 10/08/2016, versando acerca de situação análoga.
+2. CASO CONCRETO: 2.1. Reconhecimento do implemento da prescrição trienal, tendo sido a demanda proposta mais de três anos depois da celebração do contrato.
+2.2. Prejudicadas as demais alegações constantes do recurso especial.
+3. RECURSO ESPECIAL PROVIDO.
+(REsp 1551956/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 06/09/2016)
+___________
+4.1. Sobre a prescrição, o Tribunal estadual consignou que "o Contrato de Compra e Venda em discussão foi firmado em 25/04/2008, ao passo que a ação restou ajuizada em 19/06/2013." (fl. 1192).
+Nesse passo, afastou a prescrição trienal sob o fundamento de incidir o prazo decenal previsto no art. 205 do Código Civil, sob o fundamento de que a rescisão contratual decorreu de culpa da construtora, devido a demora na conclusão na entrega da obra. Todavia, esse entendimento diverge da jurisprudência firmada neste Tribunal Superior, devendo ser reconhecida a incidência da prescrição trienal para obtenção da restituição do valor pago a título de comissão de corretagem.
+5. Ante o exposto, conheço do recurso especial para dar-lhe provimento, a fim de julgar improcedente o pedido de indenização por danos morais, bem como a reconhecer o implemento da prescrição da pretensão autoral de obtenção de restituição do valor pago a título de comissão de corretagem, ante a incidência do prazo prescricional trienal previsto no art. 206, § 3º, IV, do CC.
+6. Diante da sucumbência recíproca, fixo os honorários advocatícios em 10% (dez por cento) sobre o valor atualizado da condenação e distribuo a responsabilidade pelo pagamento dos ônus sucumbenciais na proporção de 50% (cinquenta por cento) para cada parte, devendo ser respeitada, se for o caso, a regra do artigo 98, § 3º, do Código de Processo Civil de 2015.
+7. Fica prejudicado a apontada ofensa ao arts. 1.022 do CPC/2015.
+Publique-se. Intimem-se.
