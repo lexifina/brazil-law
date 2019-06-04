@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo apresentado por ISADORA - TRANSPORTES LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO REDIBITÓRIA CUMULADA COM PERDAS E DANOS DECADÊNCIA. INCONFORMISMO DA PARTE DEMANDANTE DESPROVIMENTO. DOCUMENTAÇÃO CONSTANTE NOS AUTOS QUE NÃO SE REFERE AOS SUSCITADOS VÍCIOS NO PRODUTO. SENTENÇA CONFIRMADA. PROPOSITURA DA DEMANDA QUANDO JÁ DECORRIDOS MAIS DE 90 (NOVENTA) DIAS. HIPÓTESE DE ALEGADO VÍCIO, NÃO DE FATO, DO PRODUTO. RECURSO CONHECIDO E DESPROVIDO.
+Alega violação dos arts. 27 do CDC e; 205 e 206, § 3º, IX, do CC, no que concerne à aplicação do lapso prescricional de cinco anos para a pretensão do consumidor à reparação dos danos causados por defeito do serviço prestado, trazendo o(s) seguinte(s) argumento(s):
+O acórdão recorrido entendeu que o pleito da autora diz respeito a "vícios" do caminhão e não "fato do produto ou do serviço".
+Porém esta não é a realidade dos autos.
+Da simples leitura da petição inicial e contestação vê-se com clareza que o caso em exame não trata de vicio do produto, mas sim de má prestação do serviço, cujo prazo é prescricional de 5 (cinco) anos - lapso não superior na hipótese em comento.
+A recorrente adquiriu em 15/06/2010 da empresa recorrida um caminhão que não demorou para apresentar diversos problemas, dentre eles, o mais grave foi no motor.
+A recorrida, ao invés de trocá-lo, efetuou o recondicionamento em 25/06/2010, permanecendo, então, o mesmo motor, o qual até durou por algum tempo, porém em 07/06/2013 o veiculo começou a apresentar o mesmo problema e a empresa não quis mais realizar o conserto.
+Desta forma, os reparos feitos no motor do caminhão pela recorrida não foram suficientes para solucionar o problema, haja vista que o que deveria ter sido feito era a troca do motor por um novo.
+Como assim não agiu, evidente que estamos diante de um típico defeito de consumo, em razão do serviço defeituoso prestado pela recorrida.
+(..)
+Logo, em ação de indenização por fato de serviço, aplica-se a disposição do art. 27 do CDC que estatui: "prescreve em cinco anos a pretensão à reparação pelos danos causados por fato do produto ou do serviço prevista na Seção II deste Capitulo, iniciando-se a contagem do prazo a partir do conhecimento do dano e da sua autoria" (fls. 314/316).
+É o relatório. Decido.
+Na espécie, o Tribunal de origem decidiu a controvérsia com base nos seguintes fundamentos:
+Isso porque, ainda que se considerasse (ad argumentandum) que fosse o caso de vício oculto, que teria aparecido após o término da garantia (em junho de 2013), o documento que refere ao alegado vício é datado de 7.6.13, mas trata-se meramente da data de impressão de uma Ordem de Serviço muito anterior, de 23.05.12 (fl. 128).
+A única Nota Fiscal que não estaria fora do prazo decadencial de 90 (noventa) dias anteriores a propositura da demanda é a de fl. 155, (ainda que se aplique o Código de Defesa do Consumidor), datada de 23.4.13 (a ação foi proposta em 17.6.13). A Nota fiscal refere-se a serviço de eletricidade prestado no veículo, na Concessionária Volkswagen no Município de Itubiara-GO, no valor de R$ 464,30, quando o caminhão estava com 357.650 quilômetros rodados.
+Todavia, não se demonstra que os serviços representados na supracitada Nota Fiscal digam respeito aos problemas apontados na exordial (fl. 5), quais sejam: Vazamento do cubo de tração LD; Vazamento de água no radiador; Falha no painel; Recondicionamento completo do motor; Recondicionamento completo da turbina.
+Ademais, não justificariam a pretensão redibitória que poderia, quando muito, referir-se aos trabalhos executados e peças substituídas mais de um ano antes no motor (documento de fl. 128).
+Não se trata de "fato do produto ou do serviço". A ação redibitória diz respeito aos alegados "vícios" do caminhão. Logo, não se aplica o prazo prescricional de 5 (cinco) anos a que se refere o art. 27 do Código de Defesa do Consumidor (fl. 307).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
