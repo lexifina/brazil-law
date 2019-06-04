@@ -1,0 +1,50 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. APOSENTADORIA. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO. INEXISTENTE.
+I - Trata-se na inicial de ação rescisória objetivando desconstituir a decisão monocrática transitada em julgado proferida nos autos do REsp. n. 1.403.035/PE. Julgou-se improcedente o pedido.
+II - Trata-se de embargos de declaração opostos contra acórdão que desproveu agravo interno.
+III - Os aclaratórios somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+IV - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+V - Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do Sr. Ministro Relator." Os Srs. Ministros Herman Benjamin, Napoleão Nunes Maia Filho, Og Fernandes, Benedito Gonçalves, Assusete Magalhães, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O presente feito decorre do ajuizamento de ação rescisória por [NOME] em desfavor da União objetivando desconstituir a decisão monocrática transitada em julgado proferida nos autos do REsp. n. 1.403.035/PE, pela Ministra Regina Helena Costa.
+Na decisão rescindenda, deu-se provimento ao recurso especial da União para determinar a restituição ao erário dos valores pagos em decorrência de medida liminar concedida no Mandado de Segurança n. 0004529-52.1999.4.05.8300.
+Na petição inicial da presente ação rescisória, a parte autora descreve que impetrou o MS n. 0004529-52.1999.4.05.8300, no qual postulava o pagamento de complementação de aposentadoria de ferroviário, com base em isonomia em relação ao fixado na Lei n. 8.186/91. Após ter sido vencido no mérito da ação, a União ajuizou a Ação Ordinária n. 0003138-42.2011.4.05.8300 e demandou a devolução de valores pagos.
+Alega violação à literalidade da Lei n. 10.478/2002, a qual teria reconhecido o direito em debate desde abril de 2002. Alega erro de fato, uma vez que não teria havido decisão precária no mandado de segurança e, sim, julgamento de mérito. Ainda, alega que teria existido o cumprimento espontâneo pela União. Pede liminar para que seja determinada a limitação da devolução ao período anterior a 1º de abril de 2002, data na qual teria havido o reconhecimento legal do direito à complementação.
+O pedido liminar não foi concedido por meio da decisão às fls. 741-745.
+Às fls. 824-856, foi apresentado pedido de tutela provisória de urgência, na qual a parte requerente narra que a União tenha reconhecido a procedência parcial do pedido rescisório na contestação, quanto à necessidade de limitação da devolução da parcela de complementação à data de 1º/4/2002, nos termos da Lei n. 10.478/2002. Alega que, apesar disso, no dia 23 de março de 2017, a parte requerente foi intimada para efetuar o pagamento da quantia de R$ 2.101.228,69 (dois milhões, cento e um mil, duzentos e vinte e oito reais e sessenta e nove centavos), referente à integralidade dos valores recebidos pelo autor a título de complementação do tesouro, sob pena de incidência de multa de 10%, honorários advocatícios no mesmo percentual e penhora para satisfação do crédito.
+Diante das razões apresentadas no pedido de concessão da tutela provisória de urgência, a União foi intimada para prestar esclarecimentos acerca da " ..  não limitação do valor à data de 1º/4/2002, nos termos da Lei n. 10.478/2002, conforme a Nota n. 01382/2016/PCA/CGJCJ/CONJUR-MP/CGU/AGU, juntada às fls. 778-783" (fl. 859).
+Posteriormente, às fls. 891-892, foi proferida decisão pela qual o Pedido de Tutela Provisória de Urgência n. 136587/2017 foi indeferido, considerando que a União promoveu a retificação dos cálculos, no cumprimento de sentença, para limitar a cobrança dos valores pagos até 2002, nos termos da Nota n. 01382/2016/PCA /CGJCJ/CONJUR-MP/CGU/AGU.
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. ART. 485, INCISO V, DO CPC. AUSÊNCIA DE MANIFESTAÇÃO PELA DECISÃO RESCINDENDA ACERCA DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. FALTA DE ALEGAÇÃO OPORTUNA NOS AUTOS PRINCIPAIS DE QUE RESULTA INADMISSÍVEL INOVAÇÃO NA VIA RESCISÓRIA. PRECEDENTES.
+I - O presente feito decorre do ajuizamento de ação rescisória em desfavor da União, objetivando desconstituir a decisão monocrática transitada em julgado proferida nos autos do REsp. n. 1.403.035/PE, pela Ministra Regina Helena Costa.
+II - A parte autora, nesta ação rescisória, aponta que o acórdão rescindendo violou o art. 1º da Lei n. 10.478/2002, que reconheceu o direito à complementação da aposentadoria de ferroviários da Rede Ferroviária Federal S.A. - RFFSA a partir de 1º de abril de 2002. Ocorre que tal questão não foi suscitada oportunamente.
+III - Verifica-se dos autos que, no julgamento do Recurso Especial n. 1.403.035, esta Corte se limitou a decidir que é devida a restituição dos valores pagos por meio da medida liminar concedida no Mandado de Segurança n. 0004529-52.1999.4.05.8300. Nesse sentido, extrai-se o seguinte trecho da decisão, às fls. 672: "Com efeito, verifico que o acórdão recorrido contraria a jurisprudência desta Corte, segundo a qual é legítima a restituição ao Erário dos valores pagos a servidor público/pensionista em razão do cumprimento de decisão judicial, que venha a ser posteriormente reformada em segundo grau, conforme julgados da 1 a Seção desta Corte  .. ".
+IV - Destarte, não tendo tal ponto sido objeto de análise da decisão rescindenda, a matéria não pode ser discutida em ação rescisória. Nesse sentido, os seguintes precedentes: AR 715/SP, Rel.
+Ministro Nefi Cordeiro, Terceira Seção, julgado em 13/8/2014, DJe 22/8/2014; AR 3.570/RS, Rel. Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 14/5/2014, DJe 28/5/2014 e AR 4.697/PE, Rel. Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 28/10/2015, DJe 6/11/2015.
+V - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre o qual o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, Rel. Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre o qual o juiz de ofício ou a requerimento devia-se pronunciar, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
