@@ -1,0 +1,36 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fazem referência às circunstâncias fáticas justificadoras, destacando, além da quantidade e variedade de drogas encontradas (695,99 g de maconha, 29,22 g de cocaína e 9,23 g de crack), apreensão de uma balança de precisão e dinheiro em notas trocadas. Tudo a revelar a periculosidade in concreto do agente.
+3. Eventuais condições pessoais favoráveis não têm o condão de, por si sós, garantir a revogação da prisão preventiva.
+4. Recurso em habeas corpus improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso ordinário nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME] contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais, no HC n. 1.0000.18.145949-6/000.
+Consta dos autos que o Juízo de Direito da 4ª Vara Criminal da comarca de Juiz de Fora/MG converteu a prisão em flagrante do recorrente em preventiva, em 11/12/2018, pela prática, em tese, do crime de tráfico de drogas (fls. 22/24).
+Inconformada, a defesa impetrou habeas corpus na origem. A Primeira Câmara Criminal denegou a ordem nos termos da seguinte ementa (fl. 94):
+HABEAS CORPUS - TRÁFICO DE DROGAS - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - QUANTIDADE E VARIEDADE DE DROGAS - GRAVIDADE CONCRETA DO DELITO - PRISÃO PREVENTIVA - DECISÃO FUNDAMENTADA - PRESENTES OS REQUISITOS DOS ART. 312 E 313 DO CPP - INSUFICIÊNCIA DE OUTRAS MEDIDAS CAUTELARES NÃO PRISIONAIS - ART. 319, CPP - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO - ORDEM DENEGADA.
+- Evidenciado elementos aptos a demonstrar o fumus comissi delicti e o periculum libertatis, a segregação preventiva mostra-se necessária, mormente para garantia da ordem pública.
+- Apreensão de considerável quantidade e variedade de drogas (695,99g de maconha, 29,22g de cocaína e 9,23g de crack).
+- De acordo com posicionamento firmado pelo STJ, "as condições subjetivas favoráveis do recorrente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva".
+- Ordem denegada.
+Daí o presente recurso, no qual se alega que não se encontram presentes os requisitos necessários para manutenção da prisão preventiva.
+Sustenta-se que a custódia cautelar foi fundamentada na gravidade em abstrato do delito.
+Defende-se a possibilidade de ser fixado regime diverso do fechado em caso de condenação.
+Requer-se, assim, o provimento do recurso para que o recorrente possa responder ao processo em liberdade ou sejam aplicadas as medidas cautelares previstas no art. 319 do Código de Processo Penal.
+O pedido liminar foi por mim indeferido em 26/3/2019 às fls. 130/131.
+O Ministério Público Federal opinou, em parecer escrito pelo Subprocurador-Geral da República [NOME], pelo não provimento do recurso (fls. 134/136).
+Após consulta realizada ao portal da Corte local na internet, foi possível observar que o processo se encontra na fase de instrução processual.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): É certo que a prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema nos termos do art. 312 e seguintes do Código de Processo Penal.
+Na espécie, o Juízo de origem, ao converter a prisão em flagrante em preventiva, assim fundamentou sua decisão (fl. 24):
+ ..
+Além do mais, verifica-se da leitura do APF que os conduzidos foram presos diante de denúncia de tráfico de drogas quando os policiais encontraram com os mesmos significativa quantidade de droga, importância em dinheiro em notas trocadas, além de balança de precisão, o que serve ao fim de possibilitar a conclusão no sentido da presença inequívoca de indícios suficientes de autoria e provas em potencial da ocorrência, em tese, do tráfico de drogas, perpetrado pelos conduzidos, merecendo os três permanecerem acautelados, sobretudo à vista do grande potencial lesivo da significativa quantidade de droga apreendida droga apreendida, o que serviria ao fim de ameaçar a saúde pública, abalar a ordem pública e propiciar inegável e inevitável reiteração criminosa, impondo-se o acautelamento dos conduzidos, até mesmo para garantir a celeridade e efetividade da instrução criminal ao fim de propiciar a prestação jurisdicional desejada como resposta aos anseios sociais.
+O Tribunal mineiro, por sua vez, ao denegar a ordem, convalidou a custódia cautelar imposta ao recorrente (fls. 94/106).
+Ora, da análise dos trechos acima, observa-se que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fazem referência às circunstâncias fáticas justificadoras, destacando, além da quantidade e variedade de drogas encontradas (695,99 g de maconha, 29,22 g de cocaína e 9,23 g de crack), apreensão de uma balança de precisão e dinheiro em notas trocadas. Tudo a revelar a periculosidade in concreto do agente. E não é outra a opinião do parecerista, conforme se vê às fls. 134/136.
+Com efeito, não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos delituosos (HC n. 338.507/RJ, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 15/4/2016).  ..  Ora, a variedade, a natureza lesiva, a quantidade das substâncias entorpecentes apreendidas e as circunstâncias em que se deu a prisão em flagrante são fatores que, somados à forma como estava acondicionada grande parte da droga, indicam a dedicação à traficância, autorizando a preventiva (HC n. 299.410/SP, Ministro Jorge Mussi, Quinta Turma, DJe 25/9/2014).
+De mais a mais, não há como concluir que o recorrente terá fixado regime inicial menos gravoso. Tais temas serão apreciados em momento processual oportuno e não impedem a análise da constrição cautelar.
+Ademais, eventuais condições pessoais favoráveis não têm o condão de, por si sós, garantir a revogação da prisão preventiva. Há nos autos elementos hábeis a recomendar a manutenção de sua custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
