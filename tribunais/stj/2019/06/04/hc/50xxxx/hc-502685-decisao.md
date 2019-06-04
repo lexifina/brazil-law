@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso próprio, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, que deu provimento à apelação da defesa para reduzir as penas do paciente.
+O impetrante afirma que não foi apresentada fundamentação idônea na valoração negativa dos antecedentes e da personalidade do paciente, em ofensa ao art. 59 do Código Penal. Ainda alega a presença dos requisitos para a substituição da pena por medidas restritivas de direitos, nos termos do art. 44 do Código Penal.
+O Ministério Público Federal opinou pelo afastamento do desvalor da personalidade do paciente (fls. 88/101).
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do ora paciente, capaz de justificar a concessão da ordem de ofício.
+No caso, o paciente foi condenado pela prática de furtos consumado e tentado (art. 155, caput, e art. 155, caput, c.c. o art. 14, II, do Código Penal - CP), bem como pelo delito de falsa identidade (art. 307 do CP). As penas-base foram aumentadas em razão dos antecedentes e da personalidade do paciente.
+No que diz respeito à primeira circunstância acima mencionada, não há reparo a ser feito, pois fundamentada em condenação por delito praticado em 17/10/2015, transitada em julgado em 14/12/2016. Segundo a jurisprudência desta Corte superior, é devido o aumento da pena-base a título de maus antecedentes nos casos em que o trânsito em julgado da condenação, pela prática de delito anterior, ocorreu entre a data do cometimento do ilícito e a prolação da sentença (AgRg no HC 476.568/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/02/2019).
+Quanto à segunda circunstância, valorada negativamente com base em outra condenação pretérita, razão assiste ao impetrante. O atual entendimento desta QUINTA TURMA não admite "a utilização de condenações anteriores transitadas em julgado para se inferir como negativa a personalidade ou a conduta social do agente" (HC 366.639/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe de 5/4/2017).
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. ROUBO MAJORADO. DOSIMETRIA. PENA-BASE. PERSONALIDADE. ANOTAÇÕES CRIMINAIS. IMPOSSIBILIDADE. CONSEQUÊNCIAS DO DELITO. FUNDAMENTAÇÃO INIDÔNEA. PREJUÍZOS SOFRIDOS PELA VÍTIMA. NÃO RESTITUIÇÃO DOS BENS APREENDIDOS. ELEMENTAR DO TIPO. REDIMENSIONAMENTO DA PENA-BASE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+- Esta Quinta Turma decidiu que é inidônea a utilização de condenações anteriores transitadas em julgado para se inferir como negativa a personalidade ou a conduta social do agente (HC 366.639/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 28/3/2017, DJe 5/4/2017).
+- Hipótese em que se encontra evidenciado o constrangimento ilegal na exasperação da pena-base em razão da análise desfavorável da personalidade e das consequências do delito, utilizando-se, para tanto, de anotações criminais anteriores e de elementar do tipo penal. Pena-base reduzida proporcionalmente.
+- Habeas corpus não conhecido. Ordem concedida ex officio, apenas para reduzir a pena do paciente para 6 anos, 10 meses e 20 dias de reclusão e multa, mantidos os demais termos da condenação.
+(HC 334.478/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/12/2017, DJe 18/12/2017)
+Por último, mostra-se incabível a substituição das penas por medidas restritivas de direitos, tendo em vista a presença de antecedentes, nos termos do art. 44, III, do Código Penal. A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. DOSIMETRIA. ANOTAÇÃO CRIMINAL COM TRÂNSITO EM JULGADO POSTERIOR AO CRIME EM APURAÇÃO. MAUS ANTECEDENTES. POSSIBILIDADE. PENA REDIMENSIONADA. REGIME SEMIABERTO. ADEQUADO. MAUS ANTECEDENTES CONFIGURADOS (ART. 33, §§ 2º E 3º, DO CP). WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+VI - Inviável o pleito de substituição da pena privativa de liberdade por restritiva de direitos, em razão da falta de requisitos para concessão da benesse (maus antecedentes), nos termos do art. 44, inciso III, do Código Penal.
+Habeas Corpus não conhecido. Ordem concedida de ofício para redimensionar a pena do paciente para 3 (três) anos de reclusão e fixar o regime semiaberto para resgate da pena, mais pagamento de 10 (dez) dias-multa, mantidos os demais termos da condenação.
+(HC 462.100/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 25/09/2018, DJe 02/10/2018)
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício para afastar o desvalor da personalidade do paciente, fixando as penas em 1 ano, 4 meses e 10 dias de reclusão em regime aberto, mais 14 dias-multa, pela prática dos delitos de furto (art. 155, caput, e art. 155, caput, c.c. o art. 14, II, e 71, todos do Código Penal); e 3 meses e 15 dias de detenção em regime aberto, pelo prática do delito de falsa identidade (art. 307 do Código Penal).
+Publique-se.
+Intimações necessárias.
