@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 3º, 12, VI, 267, VI, 499, 535, II, e 593, II, do Código de Processo Civil de 1973, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 585):
+FRAUDE DA EXECUÇÃO - Decisão que a reconhece; e que, por isso, considera ineficaz a cessão das cotas sociais da devedora - Negócio firmado entre pessoas físicas - Ausência do interesse e legitimidade da pessoa jurídica para se voltar contra o decidido que, em última análise, a beneficia - Ausência de interesse e legitimidade que se dá também em relação à determinação de intimação às pessoas físicas para constituição de advogado - Agravo de instrumento não conhecido.
+A agravante opôs embargos de declaração que foram rejeitados, conforme a seguinte ementa (fl. 600):
+EMBARGOS DE DECLARAÇÃO - Omissões - Ausência - Caráter infringente - Rejeição.
+Sustenta a agravante que possui interesse e legitimidade quanto aos desdobramentos da ação.
+Afirma que está presente "o interesse, bem como a legitimidade da recorrente, pessoa jurídica, de não se ver representada, nos autos da demanda, por pessoas que nem mais compõem seu quadro societário" (fl. 626).
+Afirma, ademais, que a situação dos autos "não versa mais sobre a desconsideração da pessoa jurídica, mas sim sobre a decretação da fraude à execução, que tem impacto direto (e não reflexo) na representação legal - e, por consequência, processual -, da pessoa jurídica, o que não apenas a legitima para os recursos interpostos, como também é cristalino o seu interesse, nos termos dos artigos 3º, 12, inciso VI, 267, inciso VI e 499, todos do CPC" (fl. 627).
+Argumenta, por outro lado, que a decisão que reconheceu a fraude à execução é nula pois não foi devidamente fundamentada.
+Alega, por fim, que "a alteração havida no contrato social da empresa recorrente não fez diminuir o seu patrimônio, razão pela qual, de rigor seria a cassação da decisão do juiz de 1º grau" (fl. 635).
+Assim posta a questão, passo a decidir.
+Destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Inicialmente, em relação à suposta ofensa ao art. 535 do CPC/1973, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Além disso, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+No mérito, verifico que o Tribunal de origem entendeu que a empresa agravante não possui interesse e legitimidade para interpor recurso contra a decisão proferida no Juízo de origem, uma vez que a referida decisão beneficia a agravante, bem como afastou a alegação de falta de fundamentação da decisão, asseverando, também, que a ineficácia da alteração do quadro social da empresa agravante em razão do reconhecimento de que a transferência das cotas sociais configurou fraude à execução, surtirá o efeito de estender aos sócios retirantes a responsabilidade pelo pagamento da dívida em razão de decretação anterior da desconsideração da personalidade jurídica da empresa, sem nenhuma implicação no tocante à sua representação legal, conforme se extrai dos seguintes trechos (fls. 586/587 e 601/602):
+(..)
+A irresignação sequer merece ser conhecida.
+E isto porque não é possível reconhecer o interesse e a legitimidade da agravante para se voltar contra o que ficou decidido, posto que não sofrerá os efeitos da decisão atacada.
+O reconhecimento da ineficácia da composição do seu quadro societário interessa tão somente àqueles que firmaram o contrato de cessão das quotas sociais, pois são eles que poderão ter constritos seus bens para pagamento da dívida da agravante.
+Em última análise, é possível até reconhecer que a decisão beneficia a própria agravante, na medida em que estende às pessoas físicas que a compõem a responsabilidade pelo pagamento da dívida, responsabilidade que, inclusive, pode ser estendida também ao próprio cessionário.
+Em fecho, também não se reconhece o interesse e a legitimidade da agravante para obter esclarecimento acerca da determinação de intimação das pessoas físicas do sócios retirantes para constituição de advogado, pois isto também não lhe diz respeito.
+(..)
+Não se verifica as alegadas omissões, na medida em que no v. acórdão embargado, devidamente fundamentado, não se reconheceu a legitimidade da embargante para se voltar contra a decisão agravada, porque não sofrerá os seus efeitos, por isso que, não conhecido o agravo de instrumento, não se adentrou no exame das matérias deduzidas pela agravante.
+Cabe ressaltar que a ineficácia da alteração do quadro social da embargante em razão do reconhecimento de que a transferência das cotas sociais restou caracterizada como fraude da execução, como já salientado no v. acórdão embargado, surtirá o efeito de estender aos sócios retirantes a responsabilidade pelo pagamento da dívida em razão da decretação anterior da desconsideração da personalidade jurídica da embargante, sem nenhuma implicação no tocante à sua representação legal.
+De outra parte, descabida a análise, de ofício, pelo Tribunal, do acerto ou não de decisão que reconhece a ocorrência de fraude da execução, sob o pretexto de que se trata de matéria de ordem pública.
+Ausência de fundamentação na decisão agravada também não foi conhecida, de ofício, porque não verificado esse vício no presente caso.
+(..)
+Com efeito, observo que a agravante não impugnou, de forma específica, todos os fundamentos do julgado estadual, notadamente a questão de que a decisão proferida na origem beneficia a ora recorrente, o que faz incidir o óbice do enunciado n. 283 da Súmula do STF.
+Além disso, anoto que a desconstituição da conclusão do acórdão recorrido, na forma pretendida, demandaria o reexame do acervo fático dos autos, procedimento que, em sede de especial, encontra óbice, também, no enunciado n. 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
