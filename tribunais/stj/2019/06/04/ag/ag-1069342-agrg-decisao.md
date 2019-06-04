@@ -1,0 +1,19 @@
+DECISÃO
+Tendo em vista as razões do agravo interno, reconsidero a decisão proferida pelo então Relator convocado, Desembargador Carlos Fernando Mathias.
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Processual civil. Pressupostos de constituição e desenvolvimento válido do processo. Ausência de procuração em pedido de restituição de mercadorias vendidas à concordatária. Juntada posterior da procuração. Ausência superada. Recurso conhecido.
+Concordata preventiva (DL 7.661/45). Pedido de restituição de mercadorias (art. 76, § 2o). Gado vendido a frigorífico. Admissão, por notório, do fato de que o gado é imediatamente abatido e transformado em subprodutos. Notas fiscais de venda de subprodutos que podem se referir ao gado adquirido. Desnecessidade de prova da alienação, no caso, Sentença, todavia, acolhendo o pedido de restituição. Recurso provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, alega o ora agravante violação dos artigos 131, 333, 458 e 535 do Código de Processo Civil de 1973; 76, § 2º, 78, § 2º, e 166 do Decreto-Lei 7.661/1945; e à Súmula 495/STF.
+Não merece reforma a decisão agravada, a qual foi publicada antes da entrada em vigor da Lei 13.105/2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Com efeito, ao reformar a sentença que determinara a devolução das mercadorias ou o seu equivalente em dinheiro, consignou o Tribunal de origem:
+(..)
+3. O art. 76 do Decreto-lei nº 7.661/45 assegura, ao vendedor, o direito de pedir a restituição da mercadoria vendida ao falido ou ao concordatário, desde que tenha sido arrecadada. Por seu turno, o § 2o do mesmo dispositivo estende esse direito às coisas vendidas a crédito e entregues ao falido ou concordatário nos 15 dias anteriores ao requerimento da falência ou concordata, se ainda não alienadas pela massa.
+As cabeças de gado foram vendidas a crédito, pelo ora apelado à apelante, nos 15 dias anteriores ao requerimento de concordata. Assim, se não alienadas, tem o vendedor o direito de exigir a restituição das mesmas. E, nos termos da Súmula 495 do Supremo Tribunal Federal, é ônus do devedor a prova da alienação desses semoventes a terceiros.
+Ocorre que não se pode exigir, com rigor, essa prova no caso em exame. O gado foi vendido em pé e a um frigorífico que, como regra, não mantém os semoventes vivos, mas os abate, transformando-os em sub-produtos. E não é possível vincular tais sub-produtos ao gado vendido pelo requerente da restituição, observando-se inúmeras notas fiscais de venda de sub-produtos de gado bovino após a entrega daqueles cuja restituição é pedida e antes do requerimento da concordata.
+Impor a restituição do gado ou equivalente em dinheiro, quando, pela atividade do frigorífico, os semoventes já haviam sido abatidos e transformados em sub-produtos, cuja venda aparentemente ocorreu, será conferir tratamento privilegiado a quem não tinha o direito à restituição.
+Por tais razoes é que o recurso é provido para se julgar improcedente o pedido de restituição de mercadorias formulado por [NOME] na concordata preventiva de Frigorífico Pedra Bonita Ltda., devendo o crédito daquele ser incluído como quirografário, suportando o autor as despesas deste processo e honorários advocatícios, conforme arbitramento feito.
+Do transcrito, verifico que o Tribunal de origem manifestou-se de forma suficiente e motivada sobre o tema, o que afasta a apontada violação dos artigos 458 e 535 do Código de Processo Civil de 1973.
+Por outro lado, anoto que a revisão do julgado depende do reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, a teor da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo de instrumento.
+Intimem-se.
