@@ -1,0 +1,48 @@
+EMENTA
+RECURSO ESPECIAL. CIVIL. INADIMPLEMENTO. AUSÊNCIA. REEXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. RECURSO DEFICIENTEMENTE FUNDAMENTADO. SÚMULA Nº 283/STF.
+1. Derruir a conclusão a que chegou o Tribunal local, que, com base na análise do arcabouço fático-probatório e no exame das disposições contratuais, concluiu não estar caracterizado o inadimplemento do ora recorrido, demandaria revolvimento de fatos e provas, bem como a interpretação do instrumento contratual, o que encontra óbice nas súmulas 5 e 7 do STJ.
+2. O acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e o recorrente não cuidou de impugnar todos eles, como seria de rigor. Incidência da Súmula 283 do STF.
+3. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial fundado no art. 105, III, alínea "a", da Constituição Federal, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL - DIREITOS REAIS - CONTRATO DE COMPRA E VENDA DE IMÓVEL REGISTRADO EM NOME DE TERCEIROS - COMPRADOR QUE PROMOVE AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO C/C PEDIDO DE EXECUÇÃO DE CONTRATO E EXTINÇÃO DA OBRIGAÇÃO - VENDEDORA QUE AJUÍZA AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO POR PERDAS E DANOS - CLÁUSULA QUE PREVÊ O PAGAMENTO DA ÚLTIMA PARCELA DIANTE DO LEVANTAMENTO DOS ÔNUS SOBRE O IMÓVEL, PELA ALIENANTE CIRCUNSTÂNCIAS QUE APONTAM PARA O PROVÁVEL INADIMPLEMENTO CONTRATUAL DA VENDEDORA - IMÓVEL QUE AINDA ESTÁ REGISTRADO EM NOME DE TERCEIRO E COM AVERBAÇÃO DE PENHORA - CONSIGNAÇÃO DA ÚLTIMA PARCELA DO PREÇO, PELO COMPRADOR - POSSIBILIDADE - EXCEÇÃO DE CONTRATO NÃO CUMPRIDO, ARGUIDA PELA VENDEDORA - NÃO ACOLHIMENTO - REGULAR PAGAMENTO DE 75% DO CONTRATO - DEPÓSITO JUDICIAL DOS 25% RESTANTES - ADIMPLEMENTO DO COMPRADOR - CARACTERIZAÇÃO - CONDUTA DA ALIENANTE QUE PECA PELA BOA -FÉ, LEALDADE E COOPERAÇÃO - SENTENÇA DE PROCEDÊNCIA DA CONSIGNATÓRIA E CUMPRIMENTO DO CONTRATO - IMPROCEDÊNCIA DA AÇÃO DE RESCISÃO C/C REINTEGRAÇÃO DE POSSE - CONFIRMAÇÃO.
+1. A tutela do Poder Judiciário pode ser postulada não apenas quando já configurada a lesão ao direito da parte, mas também diante da ameaça de sua concretização (artigo 50, inc. XXXV, da Constituição Federal).
+2. Nada impede que o comprador, ante o provável inadimplemento do vendedor em transmitir-lhe a propriedade de imóvel ainda registrado em nome de terceiros, deposite judicialmente a última parcela do preço, para compelir o alienante à regularização do domínio.
+3. Peca pela boa-fé e cooperação contratual o alienante que exige o adimplemento integral do preço para só então regularizar o domínio do imóvel perante o Registro Imobiliário.
+4. A exceção de contrato não cumprido deve ser aplicada num contexto de boa-fé daquele que a invoca, tendo em vista, ainda, a proporção do adimplemento da outra parte, diante do cumprimento da integralidade da avença.
+RECURSO CONHECIDO E NÃO PROVIDO, POR MAIORIA.
+(fls. 331-333)
+Opostos embargos de declaração, foram rejeitados (fls. 378-385).
+A recorrente, nas razões do recurso especial, aponta ofensa ao art. 421 do Código Civil ao argumento de que: a) "no caso em tela, as partes definiram, no pleno gozo de sua liberdade de contratar, que os ônus existentes sobre os imóveis objetos da compra e venda deveriam ser liberados depois de quitado o preço, até o momento da lavratura da escritura pública de compra e venda ou seu registro no cartório de registro de imóveis competente" (fl. 398), de modo que referida disposição contratual deveria prevalecer sob pena de violação do princípio do pacta sunt servanda; b) por não haver inadimplemento de sua parte, não haveria como se reconhecer a exceção de contra não cumprido em benefício do recorrido.
+Contrarrazões às fls. 412-424.
+O recurso recebeu crivo positivo de admissibilidade na origem (fls. 428-431).
+É o relatório.
+DECIDO.
+2. Aduz a parte recorrente que "no caso em tela, as partes definiram, no pleno gozo de sua liberdade de contratar, que os ônus existentes sobre os imóveis objetos da compra e venda deveriam ser liberados depois de quitado o preço, até o momento da lavratura da escritura pública de compra e venda ou seu registro no cartório de registro de imóveis competente" (fl. 398), de modo que referida disposição contratual deveria prevalecer sob pena de violação do princípio do pacta sunt servanda.
+Em suma, aduz que a "sua obrigação consistia em liberar os imóveis de seus ônus depois de quitado o preço ajustado" (fl. 401).
+Nesse contexto, sustenta que, por não haver inadimplemento de sua parte, não haveria como se reconhecer a exceção de contra não cumprido em benefício do recorrido.
+A Corte de origem, não obstante, soberana na análise dos fatos e das provas e no exame das disposições contratuais, consignou que o levantamento dos ônus sobre o imóvel deveria ser comprovado por ocasião do pagamento da última parcela e não depois, verbis:
+Ao contrário do que sustenta a Apelante, a leitura da referida cláusula indica que o levantamento dos ônus sobre o imóvel deveria ser comprovado por ocasião do pagamento da última parcela, e não depois.
+(fl. 340)
+Nesse diapasão, entendeu a Corte de origem, ao contrário do que consignado pela parte ora recorrente, que o recorrido adimpliu com as obrigações que lhe competiam, notadamente tendo em vista que a última parcela foi depositada judicialmente, verbis:
+O promitente comprador, ora Apelado, adimpliu com as parcelas do contrato, sendo que a última foi depositada judicialmente, ante a sua suspeita de que, em razão do imóvel estar penhorado, seria impossível a apresentação das certidões negativas de praxe, pela promitente vendedora e, de consequência, impossível a transferência da propriedade.
+Ajuizou, portanto, ação de consignação em pagamento c/c obrigação de fazer e cobrança de cláusula penal, onde postulou o seguinte:
+ ..
+A decisão se mostra correta não apenas porque houve o adimplemento do contrato, por parte do promitente comprador, mas também porque restou caracterizada a recusa, por parte da alienante, em possibilitar a transferência da propriedade do imóvel, mediante a apresentação das certidões avençadas.
+(fls. 335-337)  g.n.
+Nesse contexto, derruir a conclusão a que chegou o Tribunal local, que, com base na análise do arcabouço fático-probatório e no exame das disposições contratuais, concluiu não estar caracterizado o inadimplemento do ora recorrido, demandaria revolvimento de fatos e provas, bem como a interpretação do instrumento contratual, o que encontra óbice nas súmulas 5 e 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO INJUSTIFICADO NA ENTREGA DO IMÓVEL. 1. LUCROS CESSANTES. POSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ. 2. INEXISTÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. CONCLUSÃO FIRMADA COM BASE NA APRECIAÇÃO FÁTICO-PROBATÓRIA E DE CLÁUSULAS CONTRATUAIS. 3. ABUSIVIDADE DA CLÁUSULA DE TOLERÂNCIA E PRAZO FINAL DA MORA. APLICAÇÃO DO CDC AO CASO. REVISÃO. SÚMULAS 5 E 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Consoante entendimento desta Corte, o atraso na entrega do imóvel enseja o pagamento de lucros cessantes, ante a impossibilidade de fruição do bem durante o tempo da mora.
+2. Afastada a ocorrência de caso fortuito ou força maior e tendo concluído o Tribunal de origem pela mora contratual da promitente vendedora, com base no exame do contexto fático-probatório dos autos, rever tal premissa atrai a incidência das Súmulas n. 5 e 7 desta Corte.
+3. Reconhecida, da mesma forma, pela Corte local a abusividade da cláusula de tolerância, tendo como base o fato de que a relação existente entre a promitente vendedora e o promitente comprador se qualifica como de consumo, com a aplicação das regras do Código de Defesa do Consumidor, e que o termo final da mora se daria com a efetiva entrega das chaves ao compromissário comprador, impossível o acolhimento da alegação no sentido da validade da referida cláusula, ou mesmo do argumento de que o final da obrigação se daria com o habite-se sem incorrer nos já citados óbices.
+4. Agravo interno improvido.
+(AgInt no REsp 1661238/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017)  g.n.
+3. Ademais, ainda que fosse possível superar os óbices apontados, impende consignar que o acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e o recorrente não cuidou de impugnar todos eles, como seria de rigor.
+Com efeito, além de afastar o inadimplemento do ora recorrido, a Corte de origem destacou que, ainda que inadimplemento houvesse, estaria caracterizado, na espécie, o adimplemento substancial, que afastaria o poder formativo de resolução do contrato, verbis:
+Ora, no presente caso, do valor total do contrato, R$ 500.000,00 (quinhentos mil reais), o Apelado adimpliu R$ 375.000,00 (trezentos e setenta e cinco mil reais), ou seja, o correspondente a 75% (setenta e cinco por cento), depositando em Juízo os 25% (vinte e cinco por cento) restantes.
+Ainda que se desconsiderasse o depósito judicialmente realizado, a espécie autorizaria, ainda, o reconhecimento do adimplemento substancial, tornando injustificável a rescisão do contrato, sob pena de prestígio indevido ao abuso de direito.
+(fls. 342-343)  g.n.
+A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Ante o exposto, com fulcro nos fundamentos acima aduzidos, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
