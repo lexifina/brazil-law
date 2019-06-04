@@ -1,0 +1,49 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+APELAÇÃO CÍVEL - DIREITO CONSTITUCIONAL - NULIDADE DA SENTENÇA POR VÍCIO CITRA PETITA - JULGAMENTO DE MÉRITO NA FORMA DO ART. 1.013, § 3º, II, DO CPC/15 - CONTRATAÇÃO TEMPORÁRIA - NULIDADE - DIREITO AO SALDO DE SALÁRIO E FGTS - ENTENDIMENTO DECORRENTE DO RE Nº 765.320/MG - PROCEDÊNCIA PARCIAL DO PEDIDO.
+- É nula, por vício citra petita, a sentença que, em ação de cobrança proposta em face de dois réus, não examinou a lide em relação a um deles (Estado de Minas Gerais).
+- Decretada a nulidade da sentença, mas estando o processo apto para julgamento de mérito, é possível ao Tribunal o seu enfrentamento, na forma do art. 1.013, § 3º, II, do CPC/15.
+- Na linha do entendimento do Excelso STF: " ..  a contratação por tempo determinado para atendimento de necessidade temporária de excepcional interesse público realizada em desconformidade com os preceitos do art. 37, IX, da Constituição Federal não gera quaisquer efeitos jurídicos válidos em relação aos servidores contratados, com exceção do direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/1990, ao levantamento dos depósitos efetuados no Fundo de Garantia do Tempo de Serviço - FGTS" (RE n. 765.320/MG, publicado em 23/09/2016, com repercussão geral reconhecida).
+- " ..  A aplicação do art. 19-A da Lei 8.036/1990 aos servidores contratados na forma do art. 37, IX, da CF/88, quando nula a contratação, não se restringe a demandas originadas de relação trabalhista" (ED no RE n. 765.320/MG, publicado em 21/09/2017).
+- Evidenciada a nulidade da contratação temporária celebrada entre o autor e a Fundação Hospitalar do Estado de Minas Gerais, impõe-se o reconhecimento do direito aos depósitos de FGTS, respeitada a prescrição qüinqüenal (Decreto nº 20.910/32).
+- Por outro lado, sendo regular a contratação administrativa que posteriormente foi firmada com o Estado, improcede o pedido de cobrança de verbas tipicamente celetistas em face deste ente público, por ausência de previsão legal ou contratual.
+- Nulidade da sentença decretada. Na forma do art. 1.013, § 3º, II, do CPC/15, rejeitaram preliminares e julgaram procedente em parte o pedido em face da FHEMIG e improcedente o pedido em face do Estado.
+Prejudicado o recurso.
+A insurgente aponta violação do disposto no art. 23, § 5º, da Lei n. 8.036/1990. Sustenta que o prazo de prescrição é trintenário, em razão da modulação dos efeitos da decisão proferida pelo STF no RE 709.212, publicada em 19/2/2015. Afirma que o prazo de 5 (cinco) anos apenas tem aplicação para os depósitos devidos e não realizados a partir da data do julgamento.
+Indica precedentes do TJPA e do TJCE para comprovar o dissenso pretoriano.
+Em observância ao disposto no art. 1.030, II, do CPC/2015, o colegiado, após a devolução do autos pela Primeira Vice-Presidência do TJMG, manteve o julgado, consignando que a hipótese distingue-se da situação examinada pelo STF no ARE 709.212/DF. Destacou que (e-STJ, fls. 460/461):
+Entretanto, a hipótese dos autos envolve relação de direito administrativo e subsome-se às disposições do Decreto n. 20.910/32, que sendo norma especial estabelece a incidência de prescrição quinquenal para as demandas em face Fazenda Pública, como já restou consignado no acórdão de f.304/313.
+Ora, o processo que deu ensejo ao ARE 709.212/DF adveio da Justiça Especializada do Trabalho e, nesse particular, não se assemelha às relações jurídico-administrativas cujos processos tramitam perante a Justiça Comum. Por conseguinte, com a devida vênia dos que entendem de maneira diversa, o julgamento em questão não tem a capacidade de alterar o prazo prescricional a ser adotado em face da Fazenda Pública no presente caso.
+Contrarrazões às e-STJ, fls. 409-424 e 476.
+É o relatório.
+O presente recurso merece prosperar em parte.
+O Supremo Tribunal Federal, no julgamento do ARE 709.212/DF, em repercussão geral, estabeleceu que, por força do art. 7º, XXIX, da CF/1988, não é trintenário, e sim quinquenal, o prazo prescricional para a cobrança de valores não depositados no FGTS.
+Impôs, contudo, efeitos prospectivos a essa solução, definindo o seguinte:
+Para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, aplica-se, desde logo, o prazo de cinco anos. Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão.
+A propósito:
+Recurso extraordinário. Direito do Trabalho. Fundo de Garantia por Tempo de Serviço (FGTS). Cobrança de valores não pagos. Prazo prescricional. Prescrição quinquenal. Art. 7º, XXIX, da Constituição. Superação de entendimento anterior sobre prescrição trintenária. Inconstitucionalidade dos arts. 23, § 5º, da Lei 8.036/1990 e 55 do Regulamento do FGTS aprovado pelo Decreto 99.684/1990. Segurança jurídica. Necessidade de modulação dos efeitos da decisão. Art. 27 da Lei 9.868/1999. Declaração de inconstitucionalidade com efeitos ex nunc. Recurso extraordinário a que se nega provimento.
+(ARE 709.212, Relator(a): Min. GILMAR MENDES, Tribunal Pleno, julgado em 13/11/2014, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-032 DIVULG 18/2/2015 PUBLIC 19/2/2015).
+Essa orientação, inclusive, já foi adotada pela Segunda Turma desta Corte Superior em situações semelhantes.
+Observem-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONTRATAÇÃO TEMPORÁRIA. RENOVAÇÕES SUCESSIVAS. FGTS. COBRANÇA DE DEPÓSITOS. PRESCRIÇÃO. PRAZO QUINQUENAL. TERMO INICIAL. JULGAMENTO PROFERIDO PELO STF NO ARE 709.212/DF. INOVAÇÃO PROCESSUAL. DESCABIMENTO DO EXAME. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO. NECESSIDADE.
+1. O STF, no julgamento do ARE 709.212/DF, em repercussão geral, estabeleceu que não é trintenário, e sim quinquenal, o prazo prescricional para a cobrança de valores não depositados no FGTS.
+Impôs, contudo, efeitos prospectivos à essa solução, definindo o seguinte: "Para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, aplica-se, desde logo, o prazo de cinco anos. Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão".
+2. Datado o contrato de trabalho, sucessivamente renovado, de 12/10/2000, conforme o acórdão recorrido, não se configurará a prescrição antes de 13/11/2019.
+3. A alegação pertinente à necessidade de observância do prazo bienal para o ajuizamento da ação trabalhista não foi trazida no recurso especial, mas apenas nos embargos de declaração opostos com a decisão monocrática. Sua apresentação a destempo configura inovação recursal.
+4. Conforme a orientação pacífica desta Corte Superior, matéria de ordem pública também deve cumprir o requisito do prequestionamento.
+Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1.526.220/MT, de minha relatoria, SEGUNDA TURMA, julgado em 10/10/2017, DJe 17/10/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. FGTS. NULIDADE DE CONTRATO POR AUSÊNCIA DE CONCURSO PÚBLICO. DIREITO AO LEVANTAMENTO DOS SALDOS FUNDIÁRIOS.
+1. O Superior Tribunal de Justiça realinhou sua jurisprudência para acompanhar o entendimento do Supremo Tribunal Federal, que, após o reconhecimento da constitucionalidade do art. 19-A da Lei n. 8.036/90 sob o regime da repercussão geral (RE 596.478/RR, Rel. Para acórdão Min. Dias Toffoli, DJe de 28.02.2013), reconheceu serem "extensíveis aos servidores contratados por prazo determinado (CF, art. 37, inciso IX) os direitos sociais previstos no art. 7º da Carta Política, inclusive o FGTS, desde que ocorram sucessivas renovações do contrato" (RE-AgR 752.206/MG, Rel. Min. Celso de Mello, DJe de 29.10.2013).
+2. Ressalte-se que o STJ já havia adotado entendimento semelhante no julgamento do REsp 1110848/RN, Rel. Ministro Luiz Fux, Primeira Seção, DJe 3/8/2009, submetido ao rito do art. 543-C do CPC.
+3. O termo inicial da prescrição deve observar o disposto no julgamento do ARE 709.212, em repercussão geral, qual seja, "para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, aplica-se, desde logo, o prazo de cinco anos.
+Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão" (ARE 709212, Relator: Min. Gilmar Mendes, Tribunal Pleno, julgado em 13/11/2014, Acórdão Eletrônico Repercussão Geral - mérito DJe-032 Divulg 18-02-2015 Public 19-02-2015).
+4. Recurso Especial provido.
+(REsp 1.606.616/MG, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/8/2016, DJe 9/9/2016)
+No caso, conforme o registro do aresto impugnado (e-STJ, fl. 376), a contratação questionada e tida por nula ocorreu no período compreendido entre 4/3/2005 e 30/4/2010. A ação, por sua vez, foi proposta em 28/11/2014 (e-STJ, fl. 382).
+O prazo prescricional, portanto, teve seu cômputo iniciado antes do julgamento do ARE 709.212/DF. Contando-se 5 (cinco) anos da manifestação da Corte Maior, ou 30 (trinta) anos do estabelecimento do vínculo de trabalho, não se verifica o esgotamento do lapso legal.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial para determinar a contagem do prazo prescricional de 5 (cinco) anos a partir 13/11/2014.
+Responderá a Fundação Hospitalar do Estado de Minas Gerais - FHEMIG pelo pagamento dos honorários advocatícios a serem fixados na liquidação de sentença, na forma do art. 85, § 4º, II, do CPC/2015.
+Publique-se. Intimem-se.
