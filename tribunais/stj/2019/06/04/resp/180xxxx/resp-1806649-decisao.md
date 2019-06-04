@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial, interposto por [NOME], com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 197, e-STJ):
+Cumprimento de sentença - Ação cominatória - Plano de saúde - Decisão agravada que rejeitou a impugnação apresentada pelo executado - Insurgência do plano de saúde - Multa reduzida de R$ 300.000,00 para o montante de R$ 30.000,00, que se mostra adequada aos moldes estabelecidos por esta Corte de Justiça - Recurso provido em parte.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, o recorrente aponta ofensa aos artigos 223, "caput", e 537, § 1º, do NCPC.
+Sustenta, em síntese, que "o recorrido não interpôs qualquer recurso contra a decisão que arbitrou as astreintes, e quedou-se inerte diante da decisão do Magistrado de piso, operando a preclusão temporal".
+Aduz "se trata de multa já consumada sem qualquer oposição ou justificativa suficiente para não ter praticado o ato correspondente ao inconformismo".
+Contrarrazões às fls. 272/282 (e-STJ).
+Após a decisão de admissão do recurso especial (fls. 285/287, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Depreende-se dos autos que o conteúdo normativo do artigo 223, caput, do NCPC, relacionado à tese de preclusão, não foi objeto de exame pelo acórdão recorrido, razão pela qual, incide, na espécie, o óbice inscrito na Súmula 211/STJ, ante a ausência de prequestionamento.
+Tampouco cabe falar em prequestionamento ficto face ao art. 1025 do NCPC.
+Nos termos da jurisprudência desta Casa, para se possibilitar a sua incidência, cabe a parte alegar, quando de suas razões do recurso especial, a necessária ofensa ao art. 1022 do NCPC de modo a permitir sanar eventual omissão através de novo julgamento dos aclaratórios, caso existente, o que não foi feito no presente feito.
+Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+Ademais, a jurisprudência desta Casa é iterativa no sentido de que a decisão que comina a multa não preclui nem faz coisa julgada material. Assim, é possível a modificação do valor dessa sanção até mesmo de ofício, a qualquer tempo, inclusive na fase de execução, quando irrisório ou exorbitante (AgInt no AREsp 1221517/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/10/2018, DJe 10/10/2018).
+2. Na espécie, a Corte local considerou que o montante arbitrado da multa se mostrou excessivo, razão pela qual as astreintes foram minoradas, consoante denotam os seguintes excertos do acórdão recorrido (fls. 198/199, e-STJ):
+A insurgência do agravante se refere exclusivamente ao valor da multa cominada em caso de descumprimento da ordem judicial.
+De se destacar que a r. sentença julgou procedente a demanda para compelir o agravante a substituir o processador externo do implante coclear, no prazo de cinco dias. Desse modo, verifica-se que o agravante foi intimado na data de 18/10/12017, mas, no entanto, o procedimento em questão apenas foi realizado em 27/12/2016, fato esse que torna devida a fixação das "astreintes", nos moldes do disposto no artigo 537 do Código de Processo Civil (..)
+(..) Desse modo, possível a aplicação da multa com o intuito de desestimular a requerida a descumprir a determinação judicial.
+Conquanto assim seja, constata-se que a multa estipulada pelo juízo a quo no importe diário de R$10.00,00, limitada a trinta dias, atingindo a importância de R$ 300.000,00, se mostra exacerbada e, por isso, comporta redução para o montante de R$ 30.000,00 (limite total), importância essa que se mostra adequada aos moldes estabelecidos por esta Corte de Justiça, vez que o objetivo da imposição de multa é, essencialmente, obrigar a parte a cumprir a decisão judicial.
+Nesse contexto, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado e o revolvimento das provas juntadas aos autos, o que, forçosamente, ensejaria rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Sobre o tema:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. MULTA DIÁRIA. VALOR TOTAL ACUMULADO DE R$ 20.000,00, APÓS MAIS DE DOIS ANOS DE DESCUMPRIMENTO DA DECISÃO JUDICIAL. MONTANTE QUE NÃO SE AFIGURA EXCESSIVO. IMPOSSIBILIDADE DE DIMINUIÇÃO DA QUANTIA SEM REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. AGRAVO INTERNO DA CONCESSIONÁRIA A QUE SE NEGA PROVIMENTO.
+1. O presente Recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no Código Fux (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+2. A apreciação dos critérios previstos no art. 537 do Código Fux, quanto ao seu enquadramento e quanto à correta fixação do valor, ensejaria nova análise dos fatos e provas da causa. Excepcionam-se dessa limitação apenas as hipóteses de valor irrisório ou exorbitante, que podem ser revistas em sede de Recurso Especial.
+3. No caso dos autos, o valor total acumulado da multa, na quantia de R$ 20.000,00 (referente a todo o período em que não foi cumprida a obrigação), não se mostra excessivo, mormente por terem decorrido mais de dois anos de descumprimento da decisão judicial, e considerando também que o valor originário (de R$ 118.400,00) já foi reduzido pelas instâncias ordinárias.
+4. Agravo Interno da Concessionária a que se nega provimento.
+(AgInt no AREsp 1269892/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/03/2019, DJe 26/03/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ASTREINTES. ENTENDIMENTO ESTADUAL NO SENTIDO DA NECESSIDADE DE REDUÇÃO DO VALOR EXECUTADO. MONTANTE DESPROPORCIONAL. CONCLUSÃO FUNDADA EM FATOS E PROVAS. SÚMULA 7/STJ. POSSIBILIDADE DE REVISÃO DA MULTA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que o art. 461 do Código de Processo Civil de 1973 (correspondente ao art. 537 do novo CPC) permite ao magistrado, de ofício ou a requerimento da parte, afastar ou alterar o valor da multa quando este se tornar insuficiente ou excessivo, mesmo depois de transitada em julgado a sentença, não havendo espaço para falar em preclusão ou em ofensa à coisa julgada (Súmula 83/STJ).
+2. A redução da multa foi feita com base na apreciação fático-probatória da causa, porquanto a segunda instância entendeu como elevada a quantia executada. Essa conclusão atrai a aplicação da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1354776/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/02/2019, DJe 13/03/2019)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. FASE DE CUMPRIMENTO DE SENTENÇA. ART. 475-L DO CÓDIGO DE PROCESSO CIVIL. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULAS N. 282 E 356 DO STF. MULTA DIÁRIA. REDUÇÃO PELO TRIBUNAL DE ORIGEM. POSSIBILIDADE. PROPORCIONALIDADE. SÚMULA N. 7 DO STJ.
+(..)
+2. A jurisprudência desta Corte entende que a multa prevista no art. 461, § 6º, do Código de Processo Civil, pode ser revista, de ofício ou a requerimento da parte, em qualquer momento, até mesmo após o trânsito em julgado da decisão, em sede de execução, quando se verificar que foi estabelecida fora dos parâmetros da razoabilidade ou quando se tornar exorbitante, podendo gerar enriquecimento indevido.
+3. Inviável a análise do recurso especial quando dependente de reexame de matéria fática da lide (Súmula n. 7 do STJ).
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 787.425/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/03/2016, DJe 21/03/2016)
+PROCESSUAL. EMBARGOS À EXECUÇÃO DE TÍTULO JUDICIAL. MULTA DIÁRIA PELO DESCUMPRIMENTO DA LIMINAR ANTECIPATÓRIA DE TUTELA. VALOR EXORBITANTE NÃO CONFIGURADO. REDUÇÃO DO QUANTUM. NÃO CABIMENTO. REEXAME NECESSÁRIO DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. O Tribunal de origem decidiu que o Estado de Santa Catarina desrespeitou as determinações judiciais e sobretudo desconsiderou a necessidade e a urgência do medicamento para o tratamento de saúde do ora agravado. Concluiu ainda que, no caso concreto, o valor cominado na sentença revelou-se exacerbado e reduziu o valor da multa cominatória.
+2. A intervenção do STJ, por meio do recurso especial, na fixação e no valor da multa por descumprimento de ordem judicial, limita-se aos casos em que o valor fixado é irrisório ou exagerado. Quando inexiste desproporcionalidade na fixação da multa cominatória pelo Tribunal a quo, como na espécie em análise, a revisão do acórdão esbarra no óbice da Súmula 7 deste Tribunal.
+3. Agravo regimental não provido.
+(AgRg no AREsp 335.250/SC, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 03/09/2013, DJe 11/09/2013)
+Importante consignar, ainda, que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido:
+(..) 7. Nesse contexto, em consonância com a judiciosa opinião estampada no parecer ministerial, incide a Súmula 07/STJ, o que também impede o exame da divergência jurisprudencial na medida em as peculiaridades do caso concreto, decisivas à solução conferida pela Corte de origem, não possuem identidade com os paradigmas trazidos à colação. 8. Recurso especial não conhecido ." (REsp 1.186.481/AC, Rel. Min. Castro Meira, 2ª Turma, julgado em 18.05.2010)
+3. Ante o exposto, nego provimento ao recurso especial, com amparo no artigo 932 do NCPC c/c súmula 568/STJ.
+Publique-se.
+Intimem-se.
