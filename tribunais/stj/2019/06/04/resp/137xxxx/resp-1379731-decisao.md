@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região assim ementado:
+TRIBUTÁRIO E PROCESSUAL CIVIL  ANTECIPAÇÃO DE TUTELA  DESEMBARAÇO ADUANEIRO  GÊNEROS ALIMENTÍCIOS  SUSPEITA DE OCULTAÇÃO DO VERDADEIRO IMPORTADOR (ART. 66, V, DA IN/SRF N. 206/2002)  SEGURO ADUANEIRO NO VALOR (ART. T DA IN/SRF N. 228/2002)  SEGUIMENTO NEGADO  AGRAVO INTERNO NÃO PROVIDO.
+1- A retenção da mercadoria somente se justifica se houver fundado receio de irregularidade na importação. A só alegação de existência de suspeita de ocultação do verdadeiro importador (art. 66, V, da INS/SRF 206/2002) não se justifica se ausente, nos termos de retenção da mercadoria, qualquer menção aos fatos que induziram tal ilação, sendo insuficiente, para a caracterização da irregularidade, a simples menção aos dispositivos supostamente violados.
+2- A internação de mercadoria apreendida em procedimento fiscalizatório é possível mediante apresentação de garantia (caução), tendo em vista o art. 7o da IN/SRF n. 228, de 21/10/2002, tanto mais quando em causa gêneros alimentícios, perecíveis portanto, que não podem ficaria mercê da aduana, que, sabe-se, nem sempre age com a presteza que o caso requer, salvo no seu exclusivo interesse.
+3- Agravo interno não provido.
+4- Peças liberadas pelo Relator, em 24/11/2009, para publicação do acórdão.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação dos arts. 273, 458 e 535 do CPC/1973; do art. 66 da IN/SRF n. 206/2002; do art. 7º da IN n. 228/2002; do art. 23 do DL n. 1.455/1976; do art. 1º da Lei n. 2.770/1956.
+Contrarrazões apresentadas por SILVESTRI IMPORTAÇÃO E EXPORTAÇÃO LTDA, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (e-STJ fls. 128/143).
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, importa mencionar que, à luz das Súmulas 7 do STJ e 735 do STF, o recurso especial não serve à pretensão de revisão de acórdão que decide a respeito dos requisitos necessários à antecipação dos efeitos da tutela (v.g.: AgInt no AREsp 1090207/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 16/04/2019; AgInt no REsp 1678341/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 08/05/2019).
+Na hipótese, o Tribunal Regional Federal da 1ª Região verificou não haver óbice à importação da mercadoria nem notícia de inadimplemento de tributo, ao em que a retenção, por isso, imporia "injustificável ônus de armazenagem  ..  não há ordem (irrestrita) de liberação das mercadorias e não há, portanto, prejuízos ao fisco que, eventualmente, na hipótese de sua liberação, estará amparado pela garantia prestada no seu valor intergral  ..  trata-se de gêneros alimentícios, perecíveis portanto, que não podem ficar à mercê da aduana, que, sabe-se, nem sempre age com a preteza que o caso requer, salvo no seu exclusivo interesse" (fl. 87).
+Nesse contexto, ao tempo em que não se verifica violação dos arts. 458 e 535 do CPC/1973, nota-se que o recurso encontra óbice nas Súmulas 7 do STJ e 735 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
