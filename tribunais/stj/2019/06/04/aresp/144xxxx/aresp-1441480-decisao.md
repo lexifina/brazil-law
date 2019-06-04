@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A., em face de acórdão assim ementado (fl. 368):
+APELAÇÃO CÍVEL. PLANO DE SAÚDE COLETIVO. CDC. RESCISÃO UNILATERAL DO CONTRATO. DISPONIBILIZAÇÃO DE PLANO DE SAÚDE NA MODALIDADE INDIVIDUAL OU FAMILIAR.
+1. Incide à hipótese a Lei n. 9.656/98, que dispõe sobre planos privados de assistência à saúde, além do Código de Defesa do Consumidor e Resoluções Normativas da Agência Nacional de Saúde Suplementar.
+2. É certo que assiste à operadora do plano de saúde o direito à rescisão unilateral do contrato coletivo de assistência à saúde, uma vez que o impedimento legal de assim fazê-lo, previsto no artigo 13, inciso II, Parágrafo Único, da Lei n. 9.656/98, aplica-se exclusivamente aos contratos individuais ou familiares.
+3. No entanto, dispõe o artigo 1º da Resolução nº 19 do Conselho de Saúde - CONSU, que "as operadoras de planos ou seguros de assistência à saúde, que administram ou operam planos coletivos empresariais ou por adesão para empresas que concedem esse beneficio a seus empregados, ou ex-empregados, deverão disponibilizar plano ou seguro de assistência à saúde na modalidade individual ou familiar ao universo de beneficiários, no caso de cancelamento desse beneficio, sem necessidade de cumprimento de novos prazos de carência." 4. Não constando prova de que a operadora tenha viabilizado a opção pelo produto individual ou familiar à segurada, mostra-se ilícita a pretensão de ruptura do contrato coletivo de assistência à saúde sem que tenha sido disponibilizado ao beneficiário plano ou seguro saúde individual ou familiar.
+5. Recurso conhecido e desprovido.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 408/414).
+Nas razões do especial, a ora agravante alega ofensa aos arts. 1.022 do Código de Processo Civil/2015; 13, parágrafo único, II, da Lei nº 9.656/98; e 478 do Código Civil, aduzindo, entre outros argumentos, omissão do Tribunal de origem, ao não se pronunciar sobre a arguição de que "não comercializa planos na modalidade individual no DF, bem como que não poderia então ofertá-lo à recorrida" (fl. 424); e sobre "a necessidade de esclarecimento acerca do valor do plano da autora" (fl. 424).
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento, passo a decidir.
+Assiste razão à recorrente.
+O acórdão recorrido efetivamente foi omisso, não abordando as questões supracitadas.
+Em face do exposto, prejudicada a análise dos demais pontos, conheço do agravo para, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dar provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, com vistas ao julgamento das questões postas em discussão desde a apelação.
+Intimem-se.
