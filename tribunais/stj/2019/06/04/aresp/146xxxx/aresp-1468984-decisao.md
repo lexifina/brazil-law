@@ -1,0 +1,19 @@
+DECISÃO
+[NOME] agrava de decisão que inadmitiu o recurso especial interposto, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás (Apelação n. 176710-71.2015.8.09.0146).
+Consta nos autos que o réu foi condenado a 2 anos de reclusão, em regime aberto, mais 10 dias-multa, pela prática do crime previsto no art. 14, caput, da Lei n. 10.826/2003, com substituição da reprimenda por restritivas de direitos.
+Nas razões do recurso especial, o recorrente busca a absolvição por atipicidade da conduta, ao argumento de que a arma de fogo era inapta a efetuar disparos e as munições estavam deflagradas (fls. 309-317).
+A insurgência foi inadmitida no juízo prévio de admissibilidade em virtude da incidência da Súmula n. 7 do STJ (fls. 333-334).
+No agravo em recurso especial, o agravante alega que não pretende a reapreciação do conjunto probatório dos autos (fls. 342-351).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial (fls. 367-368).
+Decido.
+A jurisprudência do Superior Tribunal de Justiça entende que o tipo penal descrito no art. 14, caput, da Lei n. 10.826/2003 é crime de perigo abstrato que presume a ocorrência de dano à segurança pública e prescinde, para sua caraterização, de resultado naturalístico à incolumidade física de outrem.
+A Corte estadual, soberana na análise das circunstâncias fáticas da causa, concluiu pela condenação do réu por porte ilegal de arma de fogo de uso permitido, nos seguintes termos (fls. 284-286, grifos no original):
+A materialidade do crime encontra-se comprovada pelo Termo de Exibição e Apreensão à fl. 15, pelo Boletim de ocorrência à f. 20, pelo Laudo pericial de eficácia e eficiência de munições de arma de fogo à f. 19, atestando o bom estado de conservação e funcionamento dos cartuchos e da espingarda apreendida, e pelos depoimentos colhidos durante a instrução processual.
+A autoria é incontroversa, pois, apesar de alegar em sua defesa que a espingarda não funcionava, o apelante confessou que portava a arma e os cartuchos.
+ ..
+A despeito das alegações da defesa de que a conduta do apelante é atípica, pois a arma e os cartuchos não apresentavam potencial lesivo atestado por perito, é importante destacar que o crime em exame tem adequação legal no artigo 14 da Lei 10.826/03, tratando-se de delito de mera conduta e de perigo abstrato, o qual não depende de lesão ou perigo concreto para sua caracterização, pois o objeto jurídico tutelado não é a incolumidade física, mas sim a segurança pública e a paz social, colocadas em risco com a simples posse ou porte de armas ou munições à deriva do controle estatal.
+De qualquer forma, o laudo pericial de eficácia e eficiência de munições de arma de fogo acostado à f. 19, atestou o bom estado de conservação e funcionamento dos cartuchos e da espingarda apreendida. E, apesar da confecção desta perícia, reitero que, por ser o delito de perigo abstrato e de mera conduta, basta a prática dos núcleos do tipo penal sem a devida autorização legal, sendo prescindível a realização de perícia.
+Pela leitura atenta do acórdão, verifico que, apesar de ser prescindível o laudo pericial para a configuração da materialidade do crime, o exame do armamento registrou o bom estado de conservação e funcionamento dos cartuchos e da espingarda apreendida. Desse modo, não há que se falar em atipicidade material na conduta do acusado.
+O acolhimento da pretensão recursal, a fim de absolver o recorrente, demandaria o revolvimento do arcabouço carreado aos autos, procedimento vedado nesta esfera, a teor da Súmula n. 7 do Superior Tribunal de Justiça.
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
