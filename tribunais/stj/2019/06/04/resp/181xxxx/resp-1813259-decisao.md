@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Município de São José do Rio Preto, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 327):
+Apelação. Embargos a execução fiscal. Imposto territorial urbano. Exercícios de 2007 a 2010. Alegação de nulidade dos lançamentos porque inexistentes, à época dos fatos geradores, as melhorias previstas no artigo 32, § 1º, do Código Tributário Nacional. Improcedência. Lotes situados em área de expansão urbana. Inteligência do artigo 32, § 2º, do diploma há pouco mencionado. Incidência do tributo. Recurso denegado.
+Não houve oposição de embargos de declaração.
+Alega o recorrente, além de dissídio jurisprudencial, a existência de violação do disposto no art. 32 do CTN ao argumento de que, "estando o Loteamento em questão inserido em "zona urbana" e sendo esta compreendida também por áreas urbanizáveis e por áreas de expansão urbana com destinação específica adequada à lei local, à luz do CTN, temos que não há necessidade de conjugar a existência de dois equipamentos construídos ou mantidos pelo poder público, afastando-se a necessidade da presença dos menos dois equipamentos do rol do § 12 do artigo 32, da mesma codificação" (e-STJ, fl. 341).
+Assevera que o Superior Tribunal de Justiça possui o entendimento de que "o § 2º do art. 32 do CTN permite sejam inseridos na zona urbana os imóveis "urbanizáveis ou de expansão urbana constantes de loteamentos aprovados pelos órgãos competentes, destinados à habitação, à indústria ou ao comércio" ainda que não beneficiados por no mínimo dois dos melhoramentos listados em seu § 1º" (e-STJ, fl. 342).
+Foram apresentadas contrarrazões às e-STJ, fls. 385-397 pelo contribuinte, em que assevera a incidência do óbice da Súmula 7/STJ.
+Admitido o recurso especial na origem (e-STJ, fls. 410-411), subiram os autos a esta Corte de Justiça.
+É o relatório.
+A jurisprudência desta Corte Superior pacificou-se no sentido de reputar desnecessários os melhoramentos mínimos previstos no art. 32, § 1º, do CTN, para a cobrança de IPTU sobre imóvel localizado em zona urbana ou de expansão urbana, assim declarada por lei municipal.
+Nesse sentido:
+TRIBUTÁRIO. IPTU. ÁREA URBANIZÁVEL OU DE EXPANSÃO URBANA. PREVISÃO EM LEI MUNICIPAL. ART. 32, § 2º, DO CTN. INEXIGIBILIDADE DOS MELHORAMENTOS PREVISTOS NO § 1º DO ART. 32 DO CTN.
+1. A existência de previsão em lei municipal de que a área é urbanizável ou de expansão urbana, nos termos do § 2º do art. 32 do CTN, afasta, para fins de incidência do IPTU, a exigência dos melhoramentos elencados no § 1º do mesmo dispositivo legal. Precedentes: AgRg nos EDcl no REsp n. 1.375.925/PE, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 15/5/2014, DJe 26/5/2014; AgRg no Ag n. 672.875/SP, Rel. Ministra Denise Arruda, Primeira Turma, DJ 14/11/2005; REsp n. 613.102/DF, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 10/10/2005.
+2. Recurso Especial não provido.
+(REsp n. 1.655.031/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 6/4/2017, DJe 25/4/2017.)
+Observa-se, a propósito, a Súmula 626/STJ: "A incidência do IPTU sobre imóvel situado em área considerada pela lei local como urbanizável ou de expansão urbana não está condicionada à existência dos melhoramentos elencados no art. 32, § 1º, do CTN."
+Nesse contexto, estando consignado no acórdão recorrido que "o terreno da embargante faz parte de loteamento situado em zona de expansão urbana, aprovado pelo Lei Municipal 7.032/98" (e-STJ, fl. 331), não há como se afastar a possibilidade de aplicação do IPTU, uma vez que § 2º do art. 32 do CTN dispensa, para fins de incidência do IPTU, a exigência dos melhoramentos elencados no § 1º do art. 32 do CTN.
+Ante o exposto, aplica-se à espécie a orientação fixada pela Súmula 568/STJ, com base na qual dou provimento ao recurso especial para restabelecer os termos da sentença que entendeu cabível a exação, com a inversão dos ônus sucumbenciais.
+Publique-se. Intimem-se.
