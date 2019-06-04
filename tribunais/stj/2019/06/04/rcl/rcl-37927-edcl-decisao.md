@@ -1,0 +1,12 @@
+DECISÃO
+Exto Elo Empreendimentos Imobiliários SPE Ltda opõe embargos de declaração em face de decisão por meio da qual não conheci da presente reclamação.
+Afirma haver omissão em relação à alegação de que o embargado teve ciência prévia e inequívoca da cobrança da comissão de corretagem, bem como de seu valor, informações constantes do documento "folha de análise de proposta".
+Conforme certidão de fl. 455, não foi aberta vista para impugnação aos embargos em razão de a parte embargada encontrar-se sem representação nos autos.
+Assim posta a questão, entendo não haver omissão na decisão embargada, tendo em vista que foi clara ao afirmar que os fundamentos do acórdão reclamado eram suficientes para demonstrar o acerto da aplicação do entendimento firmado no REsp n. 1.599.511/SP e no REsp n. 1.551.956/SP, notadamente em vista dos documentos analisados na demanda orignária, sendo de se destacar, novamente, o seguinte trecho do acórdão:
+(..)
+Neste contexto, o acórdão recorrido (fls. 286/289) está em perfeita sintonia com a orientação superior, ao concluir pela devolução da cobrança da comissão de corretagem, porque não consta no contrato celebrado com a construtora cláusula transferindo aos agravados a responsabilidade pelo pagamento da corretagem.
+Destaca-se o seguinte trecho do julgado: "No caso, entretanto, não consta no contrato celebrado com a construtora cláusula transferindo aos apelantes a responsabilidade pelo pagamento da corretagem. E, respeitado o entendimento do magistrado, os documentos de pgs. 33/39 não são suficientes para demonstrar que os consumidores anuíram de forma expressa e inequívoca com o pagamento da corretagem, pois consistem em mera planilha de valores, sem assinatura e obtida pela internet, recibos de pagamento nos quais sequer constam os nomes dos apelantes, assim como cheque emitido pelo coautor, que serve apenas para comprovar os pagamentos e não que houve concordância com as cobranças" (fl. 288). (grifo nosso)
+Assim, conforme, já entendeu esta Corte não "configura omissão o simples fato de o julgador não se manifestar sobre todos os argumentos levantados pela parte, uma vez que está obrigado apenas a resolver a questão que lhe foi submetida com base no seu livre convencimento (art. 131, CPC)" (EDcl nos EDcl no Resp 637.836/DF, Rel. Ministro Felix Fischer, Quinta Turma, DJ 22/5/06).
+Desse modo, verifico inexistir a alegada omissão, pretendendo a embargante, tão somente, a modificação da decisão por não se conformar com ela.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
