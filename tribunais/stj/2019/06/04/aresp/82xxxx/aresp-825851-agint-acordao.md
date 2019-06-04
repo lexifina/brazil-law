@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANO MORAL. PROGRAMA DE RÁDIO. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. REEXAME DE PROVAS.
+1. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, aferir a necessidade da produção probatória. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Luis Felipe Salomão e Raul Araújo votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por SISTEMA SUL DE RADIODIFUSÃO LTDA contra decisão que negou provimento ao seu agravo em recurso especial (fls. 1.219/1.233). A decisão agravada, para tanto, afastou a ocorrência de negativa de prestação jurisdicional de cerceamento de defesa e de ilegitimidade passiva, concluiu que a divergência jurisprudencial não foi comprovada nos moldes regimentalmente exigidos e, por fim, aplicou o óbice da Súmula 7/STJ quanto à pretensão de afastamento da responsabilidade indenizatória e à redução do valor fixado.
+O agravante insiste nos argumentos anteriormente expendidos no recurso especial acerca da ocorrência de cerceamento de defesa pelo julgamento antecipado da lide. Afirma que a produção de prova testemunhal ou do próprio depoimento do agravado é imprescindível ao deslinde da controvérsia, nos termos dos artigos 369 e 373, II, do Código de Processo Civil, uma vez que "demonstraria se tais fatos causaram repercussão na vida do Agravado, ou seja, se realmente houve consumação do dano moral que se busca reparar na ação indenizatória, ou até mesmo seria útil para atestar o grau de culpa do Agravado, LEVANDO-SE EM CONSIDERAÇÃO A PROVOCAÇÃO do mesmo" (fl. 1.279).
+Intimado, o agravado pugna pela manutenção da decisão agravada com imposição de multa e majoração da verba honorária (fl. 1.313/1.316).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANO MORAL. PROGRAMA DE RÁDIO. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. REEXAME DE PROVAS.
+1. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, aferir a necessidade da produção probatória. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Depreende-se dos autos que JOÃO SILVESTRE SOBRINHO propôs a ação de indenização por danos morais, cumulada com obrigação de não fazer, em face de SISTEMA SUL DE RADIODIFUSÃO LTDA., [NOME] ARAÚJO, WILSON DE OLIVEIRA e JORNAL ELETRÔNICO DO OGUNH , alegando que foi difamado pelos veículos de comunicação. Buscou que as partes se abstivessem de ofender sua imagem, direito de resposta e indenização por danos morais.
+O Juiz de primeiro grau julgou antecipadamente a lide, entendendo desnecessária a dilação probatória, e procedente o pleito do autor, condenando os demandados a conceder direito de resposta e ao pagamento de R$ 20.000,00 (vinte mil reais) a título de danos morais.
+O Tribunal de Justiça do Estado de São Paulo apenas reduziu o valor indenizatório para R$ 10.000,00 (dez mil reais), em acórdão assim ementado (fls. 824/825):
+IMPRENSA. AÇÃO DE INDENIZATÓRIA POR DANOS MORAIS CUMULADA COM OBRIGAÇÃO DE FAZER.
+I- Cerceamento de defesa. Suficiência dos elementos probatórios existentes nos autos, tornando prescindível a produção de outros elementos de convicção. Aplicação do disposto no art. 330, inciso 1, do CPC. Não reconhecimento da eiva.
+II- Alegação de falta de documento essencial ao ajuizamento da demanda. Inicial instruída com mídia gravada em CD. Transcrição, na petição inicial, dos trechos supostamente ofensivos. Impugnação genérica realizada pelos réus, tornando desnecessária a degravação do CD. Incidência do disposto no art. 383 do CPC. Vício não reconhecido.
+III- Ilegitimidade passiva. Responsabilidade da empresa jornalística que deriva do enunciado pela Súmula 221 do STJ. Corréu [NOME], pelo exame das matérias jornalísticas, que teve participação ativa nas ofensas dirigidas ao autor. Legitimidade dos referidos réus corretamente reconhecida. Alegação afastada.
+IV- Veiculações que atingiram a reputação profissional do autor como Advogado. Autor, inclusive, chamado de "ignóbil" numa das matérias. Dano moral configurado. Lesão, outrossim, que deriva do próprio fato (in re ipsa), dispensando maiores comprovações.
+V- Alegação de que os réus apenas responderam as ofensas a eles feitas pelo autor em inicial de ação intentada perante o Juizado Especial Cível. Autor, na referida ação, que não se manifestou em nome próprio, mas em nome daquele que representava na demanda. Ainda que assim não fosse, manifesta a desproporção entre a suposta ofensa praticada pelo autor e a resposta expendida pelos réus, notadamente quanto ao meio empregado. Inteligência do disposto no art. 5º, inciso V, da Constituição Federal.
+VI- Valor da indenização. Quantia de R$ 20.000,00 (vinte mil reais) que se exibe excessiva, especialmente diante da capacidade econômica das partes. Redução para R$ 10.000,00 que, na espécie, desponta como suficiente para reparar o dano e, ao mesmo tempo, punir os réus.
+Apelo dos réus, nesta parte, parcialmente provido, prejudicada a pretensão do autor em elevação o valor da indenização.
+APELO DOS RÉUS PARCIALMENTE PROVIDO, PREJUDICADO O RECURSO DO AUTOR.
+O Tribunal de origem, na oportunidade, afastou a ocorrência de cerceamento de defesa pelos seguintes fundamentos:
+2- Não se identifica, de saída, qualquer cerceamento de defesa. Ao equacionamento da demanda bastavam os elementos de convicção trazidos aos autos pelas partes, tornando absolutamente prescindível a produção de outras provas. Bem aplicado o permissivo contido no art. 330, inciso 1, do CPC, inexistindo, via de consequência, o vício arguido pelos réus em sede de preliminar.
+Tampouco há que se falar na ausência de documento essencial ao ajuizamento da ação. A inicial veio instruída com a mídia gravada em CD contendo a veiculação reputada como ofensiva, transcrevendo-se, inclusive, os trechos relacionados com a suposta ofensa (fls. 09/15). Referida exibição do CD, à luz do disposto no art. 383 do CPC, "faz prova dos fatos", sendo que a genérica impugnação formulada pelos réus a respeito não ostentava o condão de desconstituir a referida prova, não justificando também a realização da prova técnica prevista no par. único, do referido artigo.
+Conforme consignado na decisão agravada, esta Corte entende que não configura cerceamento de defesa o julgamento antecipado da lide quando o juízo embasa sua convicção em prova suficiente para fundamentar as suas conclusões expostas na sentença.
+Anoto, em vista da insistência do agravante quanto a necessidade de produção de prova testemunhal, que o magistrado é o destinatário da prova e a ele cabe a análise sobre a necessidade de sua produção. Por esse motivo, a adoção de entendimento diverso por este Superior Tribunal, quanto à suficiência de elementos para ensejar o julgamento antecipado da lide, esbarra no óbice da Súmula 7 do STJ. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E ESTÉTICOS. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. PROVA PERICIAL. SÚMULA 7 DO STJ. DECISÃO MANTIDA.
+1. "Na linha dos precedentes desta Corte, não configura cerceamento de defesa o julgamento da causa, sem a produção de prova pericial, quando o Tribunal de origem entender substancialmente instruído o feito, declarando a existência de provas suficientes para seu convencimento. Há de se considerar, nesses casos, o princípio do livre convencimento motivado do juiz que, em termos práticos, reporta à análise de matéria fática e à incidência da Súmula 07/STJ" (AgRg no REsp 1126477/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 14/05/2013, DJe 03/06/2013).
+2. No presente caso, a Corte local concluiu pela desnecessidade de prova pericial ante a suficiência das provas apresentadas nos autos.
+Desse modo, o acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+3. Agravo regimental de fls. 1.196-1.201 interposto por [NOME] não provido.
+(AgRg no AREsp 592.202/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 29.10.2014);
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO BANCÁRIO. CERCEAMENTO DE DEFESA. PERÍCIA TÉCNICA. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção de perícia considerada dispensável pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que entender necessária à formação do seu convencimento.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1082894/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 28.11.2017).
+O recurso, na realidade, não trouxe nenhum elemento ou argumento novo capaz de alterar a decisão agravada, que ora confirmo.
+Não verifico, por outro lado, abuso no exercício do direito de defesa a justificar aplicação de multa ao agravante e esclareço que "é incabível a majoração dos honorários em grau recursal, a teor do art. 85, §§ 11, do CPC, quando a instância especial fora inaugurada em momento anterior à vigência da nova norma" (AgInt nos EDcl nos EDcl no AREsp 366.050/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 29.10.2018).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
