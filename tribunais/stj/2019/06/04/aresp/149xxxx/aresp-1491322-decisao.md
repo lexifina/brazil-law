@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por AMARO & GOMES MOCOCA LTDA e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO REGIMENTAL - ASSISTÊNCIA JUDICIÁRIA - INDEFERIMENTO - AGRAVANTE PESSOA JURÍDICA QUE DEIXOU DE COMPROVAR A IMPOSSIBILIDADE DE ARCAR COM O PAGAMENTO DAS CUSTAS - DECISÃO QUE MERECE SER MANTIDA - RECURSO IMPROVIDO
+A parte alega violação do art. 99, §§ 2º e 3º, do CPC, no que concerne à concessão da benesse da gratuidade de justiça, trazendo os seguintes argumentos:
+Deste modo, não adentrando à seara dos fatos e provas, havendo, mínima dúvida quanto à condição financeira da parte, a legislação processual impõe o deferimento da Justiça Gratuita, conforme aduzido, neste recurso, não se podendo criar margens para interpretação da referida lei.
+Por todo o exposto Excelentíssimos Ministros, percebe-se que os recorrentes não têm, atualmente, condições financeiras de arcar com os custos do processo, sem que isto os prejudique e/ou o próprio andamento da empresa (fl. 266).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Destaque-se o seguinte trecho do acórdão recorrido:
+No presente recurso, após o decurso de prazo que lhe foi concedido para tal finalidade, juntou a agravante sua declaração de imposto de renda para demonstrar sua incapacidade financeira de arcar com as custas e despesas processuais, o que afigura-se insuficiente, pois além de ter sido juntada intempestivamente, não comprova a necessidade de obtenção da benesse legal conforme se observa pelos valores de receitas e despesas do período, correspondente, respectivamente, as importâncias de R$ 469.717,70 e 267.153,48 (fls. 11). Assim, não restou evidenciado que não teria, efetivamente, condições para tanto. Não trouxe, portanto, nada de novo para infirmar a fundamentação da decisão recorrida, ao contrário, produziu prova em sentido contrário (fl. 255).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
