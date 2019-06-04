@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DESAPROPRIAÇÃO. DECRETO EXPROPRIATÓRIO. CADUCIDADE. ACÓRDÃO RECORRIDO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. RECURSO A QUE SE NEGA SEGUIMENTO.
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA BIODIVERSIDADE - ICMBio, com arrimo na alínea "a" do permissivo constitucional, contra acórdão oriundo do TRF/5ª Região, cuja ementa está consignada nos seguintes termos, in verbis:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. CADUCIDADE DO DECRETO EXPROPRIATÓRIO.
+1. Hipótese em que o autor requer a anulação de procedimento de desapropriação por utilidade pública de imóvel rural de sua propriedade, alegando a caducidade do Decreto expropriatório, publicado do DOU em 28/05/2001;
+2. Tendo a declaração de utilidade pública sido efetuada através de Decreto que data de 28/05/2001, e o expropriante quedado inerte no sentido de concretizar a desapropriação ou ajuizar a respectiva ação judicial, é notório o decurso do prazo quinquenal de caducidade, nos termos do art. 10 do Decreto-lei nº. 3.365/41;
+3. Consumado, com sobras, o prazo de 5 anos e caduco o direito de que se cuida, é ilegal e abusiva a prática de qualquer ato administrativo tendente à desapropriação dos imóveis particulares por ele abrangidos, havendo um risco de submissão dos proprietários a constrangimentos indevidos caso se permita o prosseguimento do procedimento administrativo que visa, intempestivamente, a desapropriação;
+4. Ademais, não colhe o argumento do apelante de que os Decretos expropriatórios de áreas inseridas em unidades de conservação não se submeteriam ao prazo de caducidade de 5 anos, porquanto é evidente a obediência devida por qualquer Decreto à previsão normativa do art. 10 do Decreto-Lei nº. 3.365/41;
+5. Sem razão o apelante quando defende que o procedimento de expropriação teve início em 31/05/2005, uma vez que o que houve nessa data foi apenas um mero envio de memorando encaminhando cópias de documentos em processo administrativo no âmbito do IBAMA, para análise da viabilidade da aquisição do imóvel em questão, não se tratando, portanto, de ato concreto de desapropriação;
+6. Apelação e remessa oficial improvidas.
+Aclaratórios rejeitados às fls. 496-499.
+Na presente irresignação especial, o recorrente sustenta afronta aos arts. 10 do DL 3.365/41, 5º da Lei de Introdução ao Código Civil e 22, § 7º da Lei 9.985/2000. Para tanto afirma que o ato que declarou a utilidade pública das propriedades inseridas em unidades de conservação não é suscetível ao prazo quinquenal de caducidade consignado no art. 10 do Decreto-Lei nº 3.365/41.
+Contrarrazões apresentadas.
+Recurso admitido às fls. 547.
+É o relatório. Passo a decidir.
+O recurso em apreço não merece prosperar.
+Em relação ao tema trazido, o Tribunal a quo, adotou a seguinte fundamentação (fl. 459):
+O cerne da questão a ser aqui dirimida consiste em saber se o autor faz jus a que seja anulado de procedimento de desapropriação por utilidade pública de imóvel rural de sua propriedade, em virtude da caducidade do Decreto expropriatório, publicado do DOU em 28/05/2001.
+Entendo que a sentença não merece reparos.
+É que, tendo a declaração de utilidade pública sido efetuada através de Decreto que data de 28/05/2001, e o expropriante quedado inerte no sentido de concretizar a desapropriação ou ajuizar a respectiva ação judicial, é notório o decurso do prazo quinquenal de caducidade, nos termos do art. 10 do Decreto-lei nº. 3.365/41, verbis:
+Art. 10. A desapropriação deverá efetivar-se mediante acordo ou intentar-se judicialmente, dentro de cinco anos, contados da data da expedição do respectivo decreto e findos os quais este caducará.
+In casu, consumado, com sobras, o prazo de 5 anos e caduco o direito de que se cuida, é ilegal e abusiva a prática de qualquer ato administrativo tendente à desapropriação dos imóveis particulares por ele abrangidos, havendo um risco de submissão dos proprietários a constrangimentos indevidos caso se permita o prosseguimento do procedimento administrativo que visa, intempestivamente, a desapropriação.
+Ademais, não colhe o argumento do apelante de que os Decretos expropriatórios de áreas inseridas em unidades de conservação não se submeteriam ao prazo de caducidade de 5 anos, porquanto é evidente a obediência devida por qualquer Decreto à previsão normativa do art. 10 do Decreto-Lei nº. 3.365/41.
+Por derradeiro, tampouco assiste razão ao ora apelante quando defende que o procedimento de expropriação teve início em 31/05/2005, uma vez que, o que houve nessa data, foi apenas um mero envio de memorando encaminhando cópias de documentos em processo administrativo no âmbito do IBAMA, para análise da viabilidade da aquisição do imóvel em questão, não se tratando, portanto, de ato concreto de desapropriação.
+Os fundamentos do acórdão recorrido estão em consonância com o entendimento do STJ no sentido de que passado o prazo de cinco anos sem que o Poder Público tenha efetivado o ato expropriatório ou praticado qualquer esbulho possessório, resulta inequivocamente caduco o ato declaratório de utilidade pública.
+Vejamos o entendimento da Primeira Seção sobre o tema:
+EMBARGOS DE DIVERGÊNCIA. DIREITO ADMINISTRATIVO. DECLARAÇÃO DE UTILIDADE PÚBLICA PARA CRIAÇÃO DE PARQUE ECOLÓGICO. CADUCIDADE. DESAPROPRIAÇÃO INDIRETA. REQUISITOS. INCABIMENTO. REDUÇÃO DO DOMÍNIO ÚTIL E DO VALOR ECONÔMICO. INOCORRÊNCIA. LIMITAÇÕES IMPOSTAS PELO CÓDIGO FLORESTAL.
+1. Passado o prazo de cinco anos sem que o Poder Público tenha efetivado o ato expropriatório ou praticado qualquer esbulho possessório, resulta inequivocamente caduco o ato declaratório de utilidade pública por força do artigo 10 do Decreto-Lei nº 3.365, de 21 de junho de 1941. 2. A limitação ao direito de propriedade decorrente da declaração de utilidade pública de imóvel, para o fim de criação de parque estadual, não gera direito à indenização por desapropriação indireta quando não ultimado o desapossamento pelo Poder Público, tampouco indenização a outro título quando não comprovada a existência de prejuízo.
+3. Precedentes da Primeira Seção. 4. Embargos conhecidos e rejeitados. (EREsp 191656/SP, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA SEÇÃO, julgado em 23/06/2010, DJe 02/08/2010).
+No mesmo sentido, as seguintes monocráticas: REsp 1.781.924/AL, Rel. Min. Francisco Falcão, DJE de 13/02/2019; REsp 1.676.837/PE, Rel. Min. Napoleão Nunes Maia Filho, DJE de 26/06/2018; REsp 1.538.644/PR, Rel. Min. Mauro Campbell Marques, DJe de 07/08/2018.
+Isso posto, nego seguimento ao recurso especial.
+Publique-se. Intimem-se.
