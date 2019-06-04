@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, contra decisão por mim proferida, que, com fulcro no art. 34, XVIII, a, do RISTJ, não conheceu da Reclamação e julgou extinto o feito, sem resolução do mérito, na forma do art. 485, I e IV, do CPC/2015 (fls. 118/120e).
+Inconformada, sustenta a parte embargante que:
+"De fato, a hipótese em comento versa sobre ação civil pública ajuizada pelo Ministério Público em face de VIAÇÃO ANDORINHA LTDA, com base no inquérito civil n.º 416/2008, que demonstrou irregularidade na prestação do serviço público pela concessionária, consubstanciada no descumprimento da parada obrigatória para embarque e desembarque dos ônibus da linha 790 (Cascadura x Campo Grande), especialmente no ponto localizado na Estrada da Posse, em frente ao West Shopping.
+Entretanto, a decisão monocrática de não conhecimento da Reclamação, ao citar o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que veio a ser nela contrastado, fez menção a decisão diversa, como se infere do trecho ora destacado:
+"Trata-se de Reclamação formulada pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, contra acórdão proferido pela Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"Recurso inominado. Servidora Pública Estadual. Conversão dos vencimentos com base na URV (Unidade de Referência de Valor), nos termos da Lei nº 8.880/94. Diante da reestruturação da carreira a que pertence a servidora do Tribunal de Justiça, instituída pela Lei Complementar nº 795/95, se existissem eventuais diferenças devidas, seriam anteriores àquela Lei, estando há muito prescritas. Sentença que reconheceu a prescrição mantida. Recurso não provido" (fl. 209e).
+Como se vê, a decisão monocrática em questão (e-STJ fls. 118/120) contém patente erro material, consubstanciado na indicação equivocada do acórdão contrastado na Reclamação em análise, o que deve ser sanado, para que se evitem futuras contradições no caso em apreço.
+Não há dúvidas de que o equívoco material que ora se busca corrigir não tem o condão de interferir no conteúdo da decisão que o alberga.
+Além disso, poderia ser sanado de ofício ou a requerimento da parte, a qualquer tempo, mesmo depois do trânsito em julgado da decisão, conforme orientação cristalizada no Enunciado nº 360 do Fórum Permanente de Processualistas Civis" (fl. 130e).
+Por fim, requer o acolhimento do recurso.
+Os Embargos de Declaração merecem acolhida.
+Efetivamente, ocorreu um erro material na decisão embargada, quando da transcrição da ementa do acórdão impugnado.
+Assim sendo, os presentes Embargos de Declaração devem ser acolhidos para sanar o erro material, a fim de que a ementa seja transcrita da seguinte forma:
+"EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. CUMPRIMENTO DE ACÓRDÃO PROLATADO EM SEDE DE RECURSO ESPECIAL QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS PARA QUE SE REALIZE NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO INTERPOSTOS PELA PARTE AUTORA. ALEGAÇÃO DE OMISSÃO. INOCORRÊNCIA. MATÉRIA EXPRESSAMENTE EXAMINADA E DECIDIDA, CUJA REVISÃO DEPENDE DE NOVO SOPESO DE FATOS E PROVAS, INVIÁVEL DE PRODUZIR-SE EM SEDE MERAMENTE DECLARATÓRIA. PRETENSÃO DE CONCESSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. PREQUESTIONAMENTO EXPLÍCITO. DESNECESSIDADE. PRECEDENTE DO STJ. REJEIÇÃO DOS EMBARGOS" (fl. 108e).
+Ante o exposto, acolho os Embargos de Declaração para sanar o erro material indicado, mantendo-se, quanto ao mais, a decisão que não conheceu da Reclamação
+I.
