@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por São Paulo Nikkey Palace Hotel S.A., com amparo nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, publicado na vigência do CPC/1973, assim ementado (e-STJ, fls. 739-740):
+PRESCRIÇÃO PRONUNCIADA EM 1º GRAU - NÃO OCORRÊNCIA - reconhecimento da extinção da pretensão do apelante com relação às parcelas que medeiam agosto de 1993 e agosto de 2001 descabimento regra de transição do artigo 2.028 do CC/02 - prazo vintenário que se aplica às parcelas vencidas até janeiro de 1993 - prazo decenal - artigo 205 do Código Civil - termo inicial de contagem do prazo prescricional que é a data da entrada em vigor do referido codex - ação que foi ajuizada em 1º de agosto de 2011, portanto, antes do termo final da prescrição da prestação mais antiga - prescrição não consumada - reconhecimento da prescrição afastado.
+MATÉRIA PRELIMINAR - CERCEAMENTO DE DEFESA POR CONTA DE JULGAMENTO ANTECIPADO DA LIDE - não ocorrência dilação probatória desnecessária - alegação sobre a necessidade de demonstração do cotejo entre os percentuais de perdas de água do imóvel em questão e a cobrança efetuada no que se refere à tarifa de esgoto - exibição de laudo técnico pelo apelante que acentuou a desnecessidade da perícia inexistência de cerceamento de defesa preliminar rejeitada.
+PRESTAÇÃO DE SERVIÇO DE FORNECIMENTO DE ÁGUA E COLETA DE ESGOTO - AÇÃO DECLARATÓRIA CUMULADA COM PEDIDO DE RESTITUIÇÃO DE PAGAMENTOS INDEVIDOS - pretensão de cobrança proporcional da tarifa relativa à coleta de esgotos, considerando o que é efetivamente devolvido ao sistema - critério legal que determina a cobrança correspondente à água consumida - improcedência mantida - recurso provido em parte apenas para o fim de ser afastada a prescrição.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 766-771).
+Alega a recorrente a violação do art. 535, I e II, do CPC/1973, pois o Tribunal de origem foi omisso quanto às questões suscitadas em embargos de declaração.
+Aduz contrariedade ao art. 21 da Lei n. 9.433/1997, porquanto a SABESP, na cobrança da taxa de coleta de esgoto, deve observar o volume de resíduos lançados na rede de esgoto e não o volume de água consumido.
+Sustenta ofensa aos arts. 2º, 22, 39, V e X, 51, IV e X, do CDC, porque são vedadas a cobrança de serviço não prestado, as cláusulas abusivas e a manipulação unilateral e injustificada de preços.
+Aponta negativa de vigência aos arts. 6º, II, do CDC e 13 da Lei n. 8.987/1995, sob o argumento de proibição de tratamento não isonômico entre consumidores na mesma situação.
+Alega a existência de dissídio jurisprudencial, pois o acórdão de origem divergiu da conclusão adotada por acórdão de outro tribunal.
+Contrarrazões às e-STJ, fls. 841-860.
+É o relatório.
+A irresignação não merece acolhida.
+Quanto à alegada violação do art. 535 do CPC/1973, verifico que a parte insurgente não logrou êxito em demonstrar objetivamente os pontos omitidos pelo acórdão impugnado, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos.
+Tal circunstância atrai, portanto, a incidência da Súmula 284/STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+ADMINISTRATIVO. POLICIAL MILITAR. PROCEDIMENTO DISCIPLINAR. EXPULSÃO. CONSELHO DISCIPLINAR. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO. REEXAME DE FATOS. INVIABILIDADE. SÚMULA 7/STJ. ATIVIDADE DE CONSULTORIA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO ADOTADO PELA CORTE DE ORIGEM. SÚMULA 283/STF. SÚMULA 284/STF. HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DA FAZENDA PÚBLICA. EXIGIBILIDADE SUSPENSA (ART. 12 DA LEI N.º 1.060/50). ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+1. Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp 579.011/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/6/2017, DJe 3/8/2017)
+Outrossim, da tese recursal defendida pelo recorrente, dessume-se a presença do óbice descrito na Súmula 280/STF.
+Isso porque o Tribunal local estabeleceu que, por força do Decreto estadual n. 41.446/1996, é possível a cobrança da taxa de esgoto em correspondência com a quantidade de água consumida.
+Ademais, o disposto nos arts. 2º, 6º, 22, 39, V e X, 51, IV e X, do CDC e 13 da Lei n. 8.987/1995 não serviu de embasamento a qualquer juízo de valor emitido no aresto impugnado.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+Na hipótese dos autos, malgrado a oposição de embargos declaratórios, o Tribunal de origem não analisou a questão.
+Desse modo, não tendo sido apreciada pela Corte de origem, a despeito da oposição de embargos de declaração, aplicável à espécie o teor da Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Por fim, a divergência jurisprudencial apontada não foi comprovada nos moldes exigidos nos arts. 541, parágrafo único, do Código de Processo Civil de 1973 e 255, § 2º, do Regimento Interno do STJ, uma vez que a recorrente não realizou o necessário cotejo analítico entre a fundamentação contida no precedente invocado como paradigma e no aresto impugnado, nem demonstrou a similitude fática entre os casos apontados.
+No aspecto:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. COISA JULGADA. VIOLAÇÃO. MATÉRIA FÁTICA. REEXAME. CLÁUSULA CONTRATUAL. INTERPRETAÇÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. DEMAIS QUESTÕES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO NÃO REALIZADO. SIMILITUDE FÁTICA. NÃO EVIDENCIADA.
+1. A Corte de origem entendeu que houve efetivo descumprimento da sentença prolatada em ação civil pública, de modo que a revisão das conclusões do acórdão recorrido demandaria necessário revolvimento dos aspectos fáticos da lide, além de reanálise das cláusulas contratuais, o que é vedado nesta via recursal ante o disposto nas Súmulas nºs 5 e 7/STJ.
+2. O simples acolhimento dos aclaratórios na origem, sem que haja expresso pronunciamento, mesmo que implícito, a respeito das normas indicadas nos dispositivos legais indicados como malferidos no recurso especial, não é suficiente para fins de considerar prequestionada a matéria (Súmula nº 211/STJ).
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC/1973 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo interno não provido.
+(AgInt no AREsp 610.722/SP, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/6/2016, DJe 2/8/2016 - grifos acrescidos)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
