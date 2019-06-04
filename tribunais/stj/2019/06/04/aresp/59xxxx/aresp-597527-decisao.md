@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por POSTO DE GASOLINA RINGO LTDA contra a decisão que negou seguimento ao seu recurso especial, fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado em face de acórdão proferido pela Vigésima Oitava Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 210):
+AÇÃO MONITÓRIA. VENDA E COMPRA DE COMBUSTÍVEIS. Confissão de dívida. Composição firmada pelas partes que integram o quadro societário à época em que a dívida foi contraída que, em tese, configura regularidade. Obrigações consolidadas antes da alienação da empresa que não padecem de vícios na sua formação, carecendo de prova em contrário. Cumprimento do pacto constituído por bens pertencentes aos devedores que firmaram o acordo. Nulidade deste não caracterizada. Recurso desprovido.
+O agravante sustenta, nas razões de recurso especial, ofensa aos artigos 327 e 328 do Código de Processo Civil de 1973 e 884, § 3º, do Código Civil, alegando a necessidade de intimação da parte quanto aos documentos novos juntados e que a transação não aproveita e nem prejudica aos que nela não intervieram, desse modo, somente pode gerar efeitos em relação aos ex-sócios que subscreveram o acordo de confissão de dívida.
+Destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem manteve a homologação do acordo de confissão de dívida pelos seguintes fundamentos (fls. 211/212):
+Conquanto assim seja, ao contrário do afirmado pelo agravante, os ex-sócios são, em tese, partes legítimas para assinar o contrato de confissão de dívida, uma vez que participavam do quadro societário na época do fato gerador, máxime em se considerando que deram como garantia hipotecária imóveis que lhes pertenciam.
+Nesse linha de raciocínio, por certo se afigura válida a transação realizada em nome do agravante, tendo em vista que a alteração do contrato social foi efetuada em data posterior ao período em que a dívida foi contraída.
+Por todo o expendido, mostra-se, até prova em contrário, regular o negócio levado a efeito, sendo o caso de se manter a r. decisão recorrida.
+Conforme se verifica na transcrição supra, o acórdão recorrido não analisou as questões suscitadas, isto é, a necessidade de intimação da parte contrária e a vinculação pessoal dos ex-sócios, e não foram opostos embargos de declaração a fim de sanar eventual omissão quanto aos pontos.
+Carecem tais questões, portanto, de prequestionamento, incidindo as Súmulas 282 e 356 do STF.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
