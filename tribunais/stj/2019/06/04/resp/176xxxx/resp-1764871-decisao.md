@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fls. 252/253):
+PREVIDENCIÁRIO. ATIVIDADE ESPECIAL. RUÍDO. CONVERSÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO EM ESPECIAL. TERMO A QUO. CORREÇÃO MONETÁRIA. TUTELA ANTECIPADA. REMESSA OFICIAL. NÃO CONHECIMENTO.
+I- No que se refere à conversão do tempo de serviço especial em comum, a jurisprudência é pacífica no sentido de que deve ser aplicada a lei vigente à época em que exercido o trabalho, à luz do princípio tempus regit actum.
+II- Em se tratando do agente nocivo ruído, a atividade deve ser considerada especial se exposta a ruídos acima de 80 dB, nos termos do Decreto nº 53.831/64. No entanto, após 5/3/97, o limite foi elevado para 90 dB, conforme Decreto nº 2.172. A partir de 19/11/03 o referido limite foi reduzido para 85 dB, nos termos do Decreto nº 4.882/03.
+III- A documentação apresentada permite o reconhecimento da atividade especial em todo o período pleiteado.
+IV- Com relação à aposentadoria especial, houve o cumprimento dos requisitos previstos no art. 57 da Lei nº 8.213/91.
+V - O termo inicial de concessão da aposentadoria especial deve ser fixado a partir da data da citação, uma vez que, no processo administrativo, requerido em 30/5/07, a documentação apresentada não comprovava a sujeição aos agentes nocivos em todos os períodos pleiteados, não havendo prova suficiente para o deferimento do benefício. Somente com a juntada, nesta ação judicial, do PPP de lis. 96/97, datado de 10/8/08, foi possível o reconhecimento de toda a atividade especial e consequente concessão da aposentadoria especial.
+VI- A correção monetária deve incidir desde a data do vencimento de cada prestação e os juros moratórios a partir da citação, momento da constituição do réu em mora.
+VII- Também deve ser rejeitada a alegação de impossibilidade de antecipação dos efeitos da tutela.
+Conforme jurisprudência pacífica das C. Cortes Superiores é plenamente possível a concessão de tutela antecipada contra a Fazenda Pública, e também em desfavor do INSS. Ademais, não merece acolhida o argumento de que a medida é irreversível. A antecipação de tutela, nos casos de natureza previdenciária, tem por escopo a proteção de direitos fundamentais relevantes do segurado, de maior importância que a defesa de interesses de caráter econômico. Assim, cabível a concessão de antecipação de tutela em ações previdenciárias.
+VIII- O valor da condenação não excede a 1.000 (um mil) salários mínimos, motivo pelo qual a R. sentença não está sujeita ao duplo grau obrigatório.
+IX- Apelação do INSS improvida. Recurso adesivo improvido.
+Remessa oficial não conhecida. Tutela antecipada mantida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 269/280).
+Nas suas razões, o recorrente aponta violação dos arts. 49, I, b, 105 da Lei n. 8.213/1991, 52, I e II, e 58 do Decreto n. 3.048/1999, sob o argumento de que o benefício deve ser implantado na data do requerimento administrativo.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 316/318.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito esse esclarecimento, verifico que o acórdão recorrido consignou que os elementos necessários para a concessão do benefício foram trazidos após a propositura da ação. Por isso o marco inicial da concessão deve ser mantido na data da citação. (e-STJ fl. 249).
+No entanto, observa-se que o acórdão recorrido, ao fixar o termo inicial do benefício a partir da citação em hipótese em que houve pedido administrativo, destoou da orientação deste Tribunal.
+Com efeito, prevalece nesta Corte a orientação de que o "termo inicial do benefício deverá ser a partir da data do efetivo requerimento administrativo, observada a prescrição quinquenal, uma vez que é uníssona a orientação de que a formulação de requerimento administrativo suspende a contagem prescricional, cujo curso retomará com a decisão final da Administração sobre o pleito" (AgRg no REsp 1.362.580/RJ, relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 25/04/2017, DJe 08/05/2017). (Grifos acrescidos).
+Na esteira da aludida compreensão, a Primeira Seção ratificou o entendimento, esclarecendo que "a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria" (Pet n. 9.582/2015, relator Ministro Napoleão Nunes Maia Filho, DJe 16/09/2015).
+No mesmo sentido:
+PREVIDENCIÁRIO. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. APOSENTADORIA POR TEMPO DE SERVIÇO. TERMO INICIAL. DATA DO REQUERIMENTO ADMINISTRATIVO QUANDO JÁ PREENCHIDOS OS REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. COMPROVAÇÃO DO TEMPO ESPECIAL DURANTE A INSTRUÇÃO PROCESSUAL. IRRELEVÂNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - In casu, conforme asseverado pelo tribunal de origem, na data do requerimento administrativo o segurado já havia adquirido direito à aposentadoria por tempo de serviço, ainda que parte do tempo especial necessário para a concessão do benefício somente tenha sido reconhecido durante a instrução processual.
+III - A comprovação extemporânea do tempo de serviço especial não afasta o direito do segurado à concessão da aposentadoria por tempo de serviço na data do requerimento administrativo, quando preenchidos os requisitos para a concessão do benefício previdenciário.
+IV - Recurso Especial do segurado provido.
+(REsp 1.610.554/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 18/04/2017, DJe 02/05/2017) (Grifos acrescidos).
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. TERMO INICIAL DA CONCESSÃO DO BENEFÍCIO. REQUERIMENTO ADMINISTRATIVO.
+1. Hipótese em que o Tribunal local consignou: "conquanto o autor tenha formulado requerimento administrativo, o termo inicial deve ser fixado na data da citação (29/03/2010 - fl. 264), haja vista que apenas com a elaboração em juízo do laudo pericial de fls. 495/502 é que foi possível o reconhecimento dos períodos especiais requeridos e a concessão da aposentadoria especial" (fl. 625, e-STJ).
+2. A orientação jurisprudencial do Superior Tribunal de Justiça consolidou-se no sentido de que, havendo requerimento administrativo, como no caso, este é o marco inicial do benefício previdenciário. Incidência da Súmula 83 do STJ.
+3. A Primeira Seção do STJ, no julgamento da Pet 9.582/2015, Relator Ministro Napoleão Nunes Maia Filho, DJe 16.9.2015, consolidou o entendimento de que "a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria".
+4. Recurso Especial provido.
+(REsp 1.656.156/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/04/2017, DJe 02/05/2017) (Grifos acrescidos).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para fixar o termo a quo do benefício na data do requerimento administrativo.
+Publique-se. Intimem-se.
