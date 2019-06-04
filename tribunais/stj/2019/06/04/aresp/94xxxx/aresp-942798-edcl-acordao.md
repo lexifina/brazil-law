@@ -1,0 +1,27 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. EXCLUSÃO DA CONDENAÇÃO POR DANOS MORAIS. SUCUMBÊNCIA RECÍPROCA. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. OBSCURIDADE. EMBARGOS ACOLHIDOS.
+1. Os embargos de declaração são cabíveis quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+2. No caso, provido em parte o recurso especial, para excluir a condenação da embargada ao pagamento de danos morais, ficou configurada a sucumbência recíproca, devendo os ônus sucumbenciais serem distribuídos de forma equânime, para condenar as partes a suportarem igualmente as custas e despesas processuais (50% para cada), fixando-se os honorários advocatícios em favor dos advogados do autor e do réu, em 10% sobre o valor atualizado da condenação.
+3. Embargos de declaração acolhidos para afastar obscuridade.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Luis Felipe Salomão votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Trata-se de embargos de declaração opostos por [NOME] contra v. acórdão da Quarta Turma do Superior Tribunal de Justiça, desta Relatoria, assim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. FORTUITO INTERNO. RISCO INERENTE À ATIVIDADE. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. PRESCINDE DE COMPROVAÇÃO. DANO MORAL. INEXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL QUE JUSTIFIQUE A INDENIZAÇÃO. NÃO CABIMENTO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. O fortuito interno, entendido como o fato imprevisível e inevitável ocorrido no momento da realização do serviço ou da fabricação do produto, como é o caso de problemas na instalação das fundações do edifício, não exclui a responsabilidade do fornecedor, porque relaciona-se com a atividade e os riscos do empreendimento. Precedentes.
+2. O atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+3. Nos termos da jurisprudência do STJ, o mero inadimplemento contratual, consubstanciado no atraso da entrega do imóvel, não gera, por si só, danos morais indenizáveis. Precedentes.
+4. Agravo interno a que se dá parcial provimento, para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial, a fim de excluir a condenação por danos morais." (fl. 699)
+Nas razões dos embargos, a parte embargante sustenta a existência de obscuridade no acórdão embargado, alegando que, na leitura do trecho que trata sobre a distribuição dos ônus da sucumbência, "não é possível compreender exatamente como será distribuído o ônus de sucumbência, na medida em que a maior parte da condenação, relativa aos danos materiais, foi mantida e é ilíquida" (fl. 713).
+Requer sejam acolhidos os embargos de declaração para sanar a obscuridade apontada.
+Não foi apresenta impugnação (fl. 737).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Os embargos de declaração são cabíveis quanto houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo possível verificar, na espécie, a existência do vício apontado pelo embargante.
+No caso, tem-se que as instâncias ordinárias condenaram a parte ré, ora embargada, ao pagamento de custas e os honorários advocatícios, estes fixados em 10% do valor da condenação, em razão de sua sucumbência preponderante.
+No entanto, provido parcialmente o recurso especial interposto por PINHEIRO GUIMARÃES EMPREENDIMENTOS IMOBILIÁRIOS LTDA - ME, para excluir a condenação ao pagamento de indenização por danos morais, verificou-se a alteração da distribuição dos ônus da sucumbência, não estando clara, no acórdão embargado, a forma como serão distribuídos tais ônus, sendo necessário, portanto, o seu aclaramento.
+Com efeito, o afastamento da condenação ao pagamento de danos morais impõe o reconhecimento de sucumbência recíproca, devendo os ônus sucumbenciais serem distribuídos na proporção em que vencidas as partes. No contexto, portanto, tendo a parte autora formulado pedido inicial de condenação ao pagamento de danos morais e materiais, tem-se que, com o parcial provimento do recurso especial, cada parte saiu vencida em 50% (cinquenta por cento) da demanda.
+Nesse contexto, os presentes embargos devem ser acolhidos para sanar a obscuridade apontada, passando o texto que trata sobre os ônus sucumbenciais a ostentar a seguinte redação:
+"Assim, diante da configuração de sucumbência recíproca as partes, condeno, nos termos dos arts. 20, § 3º e 21 do CPC/1973, a repartirem as custas e despesas processuais pela metade e ao pagamento de honorários advocatícios, os quais fixo: (i) em favor do advogado do autor, em 10% sobre o valor atualizado da condenação; (ii) em favor do advogado do réu, em 10% sobre o valor atualizado da condenação. Deve ser observada a concessão da assistência judiciária gratuita na origem."
+Diante do exposto, acolhem-se os embargos declaratórios para sanar a obscuridade apontada, nos termos da fundamentação supra.
+É como voto.
