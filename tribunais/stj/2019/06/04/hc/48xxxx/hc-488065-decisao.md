@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CARLOS [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo de Execução Penal n. 0001533-29.2017.8.26.0509).
+Os autos dão conta de que o Juízo da Unidade Regional de Departamento Estadual de Execução Criminal da Comarca de Araçatuba - DEECRIM 2ª RAJ, considerando "que o fato típico conhecido por tráfico privilegiado possui natureza de crime comum", homologou o cálculo apresentado e, na sequência, deferiu o pedido de progressão ao regime aberto a partir de 16/7/2017, data na qual o sentenciado implementaria o requisito objetivo (e-STJ fls. 44/47).
+Irresignado, o Ministério Público interpôs recurso de agravo em execução perante o Tribunal de origem, que lhe deu provimento "para cassar a respeitável decisão de primeiro grau na parte que deferiu a CARLOS [NOME] DE [NOME] [NOME] a progressão ao regime aberto, e determinar que o cálculo para o cumprimento do requisito objetivo relativo à benesse seja feito com base no patamar previsto para os crimes hediondos e equiparados" (e-STJ fl. 22). Eis a ementa do mencionado acórdão (e-STJ fl. 16):
+AGRAVO EM EXECUÇÃO. PROGRESSÃO DE REGIME. ALEGAÇÃO DE AUSÊNCIA DO REQUISITO OBJETIVO. PLEITO DE RECONHECIMENTO DO CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES COMO EQUIPARADO A HEDIONDO.
+A aplicação do redutor previsto no art. 33, § 4º, da Lei nº 11.343/06 não retira o caráter hediondo do crime de tráfico ilícito de entorpecentes, por constituir mera causa especial de diminuição de pena, que não altera a tipicidade e a natureza do delito. Precedentes.
+O marco inicial para a contagem do lapso temporal para progressão de regime ao aberto é o do cumprimento dos requisitos para a progressão anterior, e não a da concessão pretérita. Natureza declaratória da decisão.
+Recurso parcialmente provido para cassar a decisão de deferimento de progressão de regime, devendo os cálculos ser refeitos com a incidência do patamar previsto para os crimes hediondos e equiparados.
+No presente writ, os impetrantes sustentam que o tráfico privilegiado não é delito equiparado a hediondo; portanto, as regras para progressão de regime se dão nos termos do art. 112 da Lei de Execução Penal.
+Por isso, requerem, inclusive liminarmente, "que seja reconhecido o crime cometido pelo paciente como tráfico privilegiado (art. 33, § 4º, da Lei de Drogas) para todos os fins, conforme aplicado na sentença condenatória e no entendimento do Supremo Tribunal Federal no julgamento do Habeas Corpus nº 118.533, cassando a absurda decisão do Tribunal de Justiça e determinando a expedição de contramandado de prisão" (e-STJ fl. 14).
+O pedido liminar foi deferido pelo Ministro João Otávio de Noronha (Presidente do Superior Tribunal de Justiça), "para estabelecer, até o julgamento final deste writ, o regime aberto para o início do cumprimento da pena, devendo as regras ser estabelecidas pelo Juízo das execuções penais" (e-STJ fls. 61/62).
+Foram prestadas as informações (e-STJ fls. 66/76 e 88/91).
+O Ministério Público Federal, ao se manifestar, opinou "pelo não conhecimento do habeas corpus, mas pela concessão da ordem de ofício" (e-STJ fls. 79/84).
+É, em síntese, o relatório.
+Consoante se verifica das informações prestadas pelo Juízo da 2ª Vara Criminal da Comarca de Fernandópolis/SP, "em 21 de janeiro de 2019 foi concedido indulto ao sentenciado, com base no inciso IV do artigo 1º do Decreto 9.246/17" (e-STJ fl. 90).
+Nessas circunstâncias, diante da alteração da realidade fática dos autos, é forçoso reconhecer a perda superveniente do objeto da presente impetração.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
