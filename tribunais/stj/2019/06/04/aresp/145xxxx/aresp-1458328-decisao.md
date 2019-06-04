@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 249, e-STJ):
+PLANO DE SAÚDE. Paciente portador de Psoríase. Indicação do medicamento "Ustekinumabe". Negativa de cobertura, sob o fundamento de ausência de previsão no rol de procedimentos da ANS. Inadmissibilidade. Tratamento médico devidamente prescrito pelo médico que acompanha o paciente para tratamento de sua moléstia, já que o paciente não teve êxito em outras terapêuticas. Súmula 102 deste E. Tribunal. Rol não exaustivo. Abusividade na recusa. Violação à finalidade precípua do contrato de assistência médica. Decisão mantida. Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 266/269, e-STJ).
+Nas razões do recurso especial, a parte agravante alega violação ao art. 10, § 4º, da Lei 9.656/98.
+Sustenta, em síntese, que o medicamento pleiteado não tem cobertura obrigatória no rol de procedimentos da ANS, razão pela qual não deve ser compelida a fornecê-lo.
+Foram apresentadas contrarrazões às fls. 290/295, e-STJ.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 302/303, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+A recorrente aduz que não teria a obrigação de fornecer o medicamento Ustekinumabe (Stelara), pelo fato de ele não possuir cobertura obrigatória no rol de procedimentos da ANS.
+O Tribunal de origem assim se manifestou sobre o tema (fls. 250/252, e-STJ):
+Cuida-se de ação em que se discute a necessidade de cobertura de medicamento prescrito ao apelado (fl. 23), USTEKINUMABE 45 mg, aplicável por via subcutânea (fl. 24).
+Não merecem prosperar as alegações da apelante, pois esta E. Corte já assentou entendimento no sentido de que é abusiva a recusa de cobertura fundada no fato do procedimento não estar previsto no rol de procedimento da ANS, à luz da Súmula 102, que dispõe:
+"Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS."
+Na verdade, aludida listagem trata da cobertura mínima obrigatória. In casu, deve ser assegurada a cobertura do tratamento médico pleiteado, sob pena de desequilíbrio da avença em desfavor do consumidor aderente, que ficaria privado de usufruir de qualquer procedimento moderno e eficaz, decorrente do avanço da medicina.
+Isto porque, o objeto do contrato de prestação de serviços médicos é, em última análise, garantir a vida e a saúde dos beneficiários e, sob tal aspecto deve ser analisada a medida combatida.
+A interpretação que a apelante pretende dar ao contrato restringe o direito da autora e viola o Código de Defesa do Consumidor quanto à interpretação mais favorável ao consumidor (art. 47). A recusa da ré impede a cobertura contratual para a doença e tolhe do paciente a possibilidade de obter tratamento médico adequado, afrontando o objetivo do contrato celebrado entre as partes, haja vista que o medicamento prescrito constitui modalidade de tratamento a doença coberta pelo instrumento contratual.
+Não se trata de impor cobertura irrestrita ao usuário, ou mesmo de conferir direitos além dos avençados, mas de garantir o tratamento necessitado, sobretudo em observância ao direito constitucionalmente garantido a uma vida digna, pois "se o contrato de plano de saúde prevê a cobertura de determinado tratamento, não podem ser excluídos os procedimentos imprescindíveis para o seu êxito" (AgRg no AREsp 35.266/PE, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 18/10/2011, DJe 07/11/2011).
+A exclusão imposta pela ré também ofende a regra do art. 51, § 1o, inc. I, da Lei nº 8.078/90, presumindo exagerada a vantagem do fornecedor que restringe direitos ou obrigações fundamentais inerentes à natureza do contrato, de tal modo a ameaçar seu objeto ou o equilíbrio contratual, e também porque o elenco dos procedimentos médicos instituído pela Agência Nacional de Saúde Suplementar (ANS) não é exaustivo.
+Neste diapasão, deve-se considerar o próprio objeto da avença travada entre em partes, bem como o princípio da função social do contrato e os deveres anexos decorrentes da boa-fé objetiva e a necessidade de tratamento médico adequado como forma de garantir a preservação da saúde do apelado.
+Nesse mesmo sentido, o Superior Tribunal de Justiça já decidiu que é permitido às operadoras de plano de saúde limitar a cobertura de determinadas doenças, de custeio não obrigatório, sendo-lhes vedado, contudo, limitar o procedimento e insumos médico-terapêuticos indicados por profissional habilitado na busca da cura.
+Assim:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. MODALIDADE DE AUTOGESTÃO. 1. INAPLICABILIDADE DO CDC. CIRCUNSTÂNCIA QUE NÃO AFASTA A FORMA VINCULANTE DO CONTRATO. BOA-FÉ OBJETIVA. DESCUMPRIMENTO. 2. RECUSA INDEVIDA DE FORNECIMENTO DE MEDICAMENTO PRESCRITO PELO MÉDICO ASSISTENTE. DANO MORAL CONFIGURADO. ALTERAÇÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 3. MONTANTE INDENIZATÓRIO. PLEITO DE REDUÇÃO. NÃO DEMONSTRADO O CARÁTER ABUSIVO NO VALOR FIXADO NAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. O fato de não ser aplicável a legislação consumerista aos contratos de plano de saúde sob a referida modalidade não atinge o princípio da força obrigatória do contrato, sendo imperiosa a incidência das regras do Código Civil em matéria contratual, tão rígidas quanto às da legislação consumerista, notadamente acerca da boa-fé objetiva e dos desdobramentos dela decorrentes. Precedentes.
+2. Compete ao profissional habilitado indicar a opção adequada para o tratamento da doença que acomete seu paciente, não incumbindo à seguradora discutir o procedimento, mas custear as despesas de acordo com a melhor técnica. Além disso, a jurisprudência do Superior Tribunal de Justiça reconhece a possibilidade de o plano de saúde estabelecer as doenças que terão cobertura, mas não o tipo de procedimento utilizado para o tratamento de cada uma delas.
+Precedentes.
+2.1. No que concerne à existência ou não de ato ilícito, o acolhimento do recurso demandaria a revisão da conclusão do acórdão recorrido mediante o reexame direto das provas, providência manifestamente proibida nesta instância, nos termos da Súmula 7 do STJ.
+3. Da mesma forma, em relação à fixação do valor indenizatório arbitrado a título de danos morais, não há como conhecer do recurso por incidência da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1765668/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/4/2019, DJe 6/5/2019)
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ABUSIVIDADE DE CLÁUSULA CONTRATUAL. RECONHECIMENTO. OBRIGAÇÃO DE COBERTURA DE "STENT". REAVALIAÇÃO. SÚMULA Nº 5 DO STJ. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7/STJ. FORNECIMENTO DE MATERIAL IMPRESCINDÍVEL AO TRATAMENTO MÉDICO. INCIDÊNCIA DA SÚMULA Nº 83/STJ. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice das Súmulas nº 5 e 7 do STJ.
+2. O entendimento dominante nesta Corte Superior é no sentido de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura e que é abusiva a cláusula contratual que exclui tratamento prescrito para garantir a saúde ou a vida do beneficiário. Incidência da Súmula nº 83 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 549.853/GO, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 11/11/2014, DJe 25/11/2014)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. EXCLUSÃO DE COBERTURA DE PROCEDIMENTO MÉDICO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer combinada com indenização por danos materiais e compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. O plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para sua realização de acordo com o proposto pelo médico. O fato do procedimento não constar do rol da ANS não afasta o dever de cobertura do plano de saúde, tendo em vista que se trata de rol meramente exemplificativo.
+4. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+5. Agravo interno no recurso especial desprovido.
+(AgInt no AREsp 1345913/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/2/2019, DJe 27/2/2019)
+Na hipótese, portanto, considerando que o acórdão recorrido está em consonância com a jurisprudência desta Corte acerca da matéria, incide o teor da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
