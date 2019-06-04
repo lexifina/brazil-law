@@ -1,0 +1,61 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama, com base no art. 105, III, da Constituição Federal, contra acórdão do TRF da 1ª Região assim ementado (e-STJ, fl. 188):
+ADMINISTRATIVO. AMBIENTAL. AUTO DE INFRAÇÃO. ATPF COM CAMPO EM BRANCO. MERA IRREGULARIDADE.
+1. A impetrante tinha autorização do IBAMA para transportar a madeira apreendida, que estava acompanhada, ainda, da competente nota fiscal, não constituindo os campos em branco da ATPF justificativa plausível para a autuação e a apreensão da madeira transportada, mas irregularidade sanável. Precedentes.
+2. Ademais, "no caso dos autos a omissão foi do próprio órgão e não do administrado. O brocardo jurídico citado pelo impetrado "a ninguém é dado alegar a própria torpeza", cabe a ele próprio e não à impetrante, uma vez que não pode o IBAMA transferir àquela as conseqüências pelo não preenchimento de campos da ATPF que lhe incumbia" (fl. 136).
+3. Não provimento da remessa oficial.
+Os embargos de declaração foram rejeitados, nos termos da decisão de e-STJ, fls. 203-207.
+O recorrente alega, nas razões do especial, a existência de contrariedade aos arts. 535, II, do CPC/1973; 70 da Lei n. 9.605/1998; e 32 do Decreto n. 3.179/1999.
+Sustenta que o Tribunal de origem incorreu em omissão, ao deixar de se pronunciar sobre questão essencial à solução da controvérsia.
+Assevera, de outra parte, que a atuação administrativa está assentada na legislação ambiental que determina o devido preenchimento da ATPF - Autorização para Transporte de Produto Florestal.
+Aduz que, "embora a responsabilidade pelo preenchimento dos campos fosse do Ibama, tal aferição é irrelevante para o caso concreto, pois a utilização de ATPF para realização de transporte de madeira, sem o devido preenchimento, independente de quem tinha tal atribuição, é que configura infração administrativa" (e-STJ, fl. 216).
+Argumenta que "a ATPF não preenchida seja pela empresa seja pelo IBAMA não tem validade alguma. Uma vez tendo aquela verificado que o documento não estava dotado de todos os requisitos que lhe conferem a validade, deveria ter se dirigido à autarquia para trocá-lo. Não o fez, no entanto, assumindo o risco pela sua conduta" (e-STJ, fl. 216).
+Sem contrarrazões (e-STJ, fl. 226).
+Parecer do Ministério Público Federal opinando pelo conhecimento do recurso especial e por seu improvimento (e-STJ, fls. 240-244).
+É o relatório.
+Registro, desde logo, que não merece prosperar a tese de violação do conteúdo do art. 535 do CPC/1973, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+É o que se depreende da leitura dos seguintes trechos do voto condutor do aresto impugnado (e-STJ, fl. 185):
+A Impetrante foi autuada com base nos artigos 70 e 46 da Lei 6.905/98 e art. 32 c/c 2º II, IV do Decreto 3.179/99, por transportar madeira com os campos 1 a 8 e 21 da ATPF n. 408540 em branco (fl. 25), ocasião em que foram apreendidos os bens descritos no Termos de Apreensão n. 324989 C e 324988 C (fls. 26/27).
+Efetivamente, a impetrante tinha autorização do IBAMA para transportar a madeira apreendida, que estava acompanhada, ainda, da competente nota fiscal, malgrado a ATPF contivesse vício formal perfeitamente sanável.
+Para o julgador, "no caso dos autos a omissão foi do próprio órgão e não do administrado. O brocardo jurídico citado pelo impetrado "a ninguém é dado alegar a própria torpeza" cabe a ele próprio e não à impetrante, uma vez que não pode o IBAMA transferir àquela as conseqüências pelo não preenchimento de campos da ATPF que lhe incumbia" (fl. 136).
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal de origem haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. SERVIDOR PÚBLICO FEDERAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. REINTEGRAÇÃO. OFENSA AO ART. 557 DO CPC/1973. INOCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DO FEITO. REVISÃO. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação ao art. 557 do CPC/1973 alegada pela parte agravante, tendo em vista que a questão suscitada encontra óbice na Súmula 7/STJ, sendo o recurso especial, por conseguinte, manifestamente inadmissível. Ainda que assim não fosse, é de se ressaltar que fica superada eventual ofensa ao referido dispositivo legal, pelo julgamento colegiado do agravo regimental interposto contra a decisão singular do Relator. Precedentes.
+2. Inexiste violação aos arts. 458, II e 535, II, do CPC/1973, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que o embasam.
+ ..
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1.595.272/SC, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 2/6/2016, DJe 8/6/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. INOCORRÊNCIA DA ALEGADA VIOLAÇÃO AOS ARTS. 535 E 458 DO CPC. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. RECURSO QUE SE FUNDA, TÃO SOMENTE, NESSA ALEGAÇÃO. AGRAVO REGIMENTAL DO ESTADO DO PARÁ A QUE SE NEGA PROVIMENTO.
+1. No caso, não há como acolher a alegada violação aos arts. 458, II e 535, II do CPC/73, visto que a lide foi resolvida com a devida fundamentação, ainda que sob ótica diversa daquela almejada pelo ora Recorrente. Todas as questões postas em debate foram efetivamente decididas, não tendo havido vício algum que justificasse o manejo dos Embargos Declaratórios.
+ ..
+3. Agravo Regimental do ESTADO DO PARÁ a que se nega provimento.
+(AgRg no AREsp 884.151/PA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/5/2016, DJe 13/6/2016)
+
+Por outro lado, a Corte local negou a pretensão do insurgente ao afirmar que, "efetivamente, a impetrante tinha autorização do IBAMA para transportar a madeira apreendida, que estava acompanhada, ainda, da competente nota fiscal, malgrado a ATPF contivesse vício formal perfeitamente sanável" (e-STJ, fl. 185).
+Verifica-se que o fundamento adotado pela instância de origem está em harmonia com a jurisprudência do Superior Tribunal de Justiça no sentido de que "o preenchimento incorreto de guias relativas ao recolhimento de tributos não constitui motivo suficiente para a aplicação de sanções administrativas, desde que não haja prejuízo para a Fazenda Pública" (REsp 985.174/MT, Primeira Turma, Rel. Min. Denise Arruda, DJe 12/3/2009).
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. IBAMA.INFRAÇÃO AMBIENTAL. AUTORIZAÇÃO PARA TRANSPORTE DE PRODUTO FLORESTAL (ATPF). ALEGADA IRREGULARIDADE. INFRAÇÃO. NÃO CONFIGURAÇÃO. AUSÊNCIA DE PREJUÍZO AO ENTE ESTATAL. PRECEDENTES STJ. AGRAVO IMPROVIDO.
+1. "Esta Corte tem adotado o entendimento de que o preenchimento incorreto de guias relativas ao recolhimento de tributos não constitui motivo suficiente para a aplicação de sanções administrativas, desde que não haja prejuízo para a Fazenda Pública" (REsp 985.174/MT, Primeira Turma, Rel. Min. DENISE ARRUDA, DJe 12/03/2009), compreensão essa cuja ratio é aplicável ao caso concreto.
+2. Agravo regimental não provido.
+(AgRg no Ag 1.429.031/MT, Rel. Min. ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 11/2/2014, DJe 19/2/2014)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AMBIENTAL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/1973. ATPF. DOCUMENTO EXPEDIDO ANTERIORMENTE À AUTUAÇÃO DO IBAMA. APRESENTAÇÃO POSTERIOR. MERA IRREGULARIDADE.
+1. Ausente omissão no aresto impugnado, mostra-se desnecessário o retorno do autos à origem. O mero inconformismo do recorrente com o decidido não autoriza a alegação de infringência ao art. 535 do Código de Processo Civil de 1973.
+2. O acórdão combatido não destoa do entendimento desta Corte Superior, em relação à ausência de prejuízo para a administração pública, na hipótese em que a ATPF, embora anteriormente expedida, não é apresentada no momento da autuação do agente ambiental, posto que a irregularidade é superável com a posterior apresentação do documento.
+3. Modificar as conclusões do aresto impugnado, como pretende a insurgência, no que toca à data de expedição da ATPF, é medida sabidamente vedada na via eleita, em razão do óbice da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.241.494/MT, de minha relatoria, SEGUNDA TURMA, julgado em 27/11/2018, DJe 3/12/2018)
+No mais, para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso e verificar que se encontra correta a atuação administrativa, como sustentado neste apelo, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável na via especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Sobre o tema:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INFRAÇÃO AMBIENTAL. PESCA ILEGAL. UTILIZAÇÃO DE REDE DE ARRASTO. ALEGADA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. MULTA. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA DESPROPORCIONALIDADE DA MULTA, APLICADA PELO IBAMA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+II. Na origem, trata-se de ação ordinária ajuizada por [NOME], a fim de obter a anulação do Auto de Infração n.153026D, lavrado pelo IBAMA, que lhe aplicou multa no valor de R$ 100.000,00 (cem mil reais), em razão de prática de pesca de arrasto, a menos de três milhas náuticas da costa. Pugna, subsidiariamente, pela redução da multa.
+III. Não há falar, na hipótese, em violação ao art. 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. O Tribunal de origem concluiu, à luz das provas dos autos, que, "no caso concreto a multa foi fixada pelo IBAMA no valor de R$100.000,00, mas esse valor foi reduzido na sentença para R$ 50.000,00. Ocorre que não há nos autos qualquer indicação de antecedentes em relação ao infrator. Ademais, considerando a documentação juntada com a apelação, especialmente a declaração de renda do mesmo, penso que o valor de R$ 5.000,00 já traria o efeito comportamental desejado para conferir o efeito dissuasório e punitivo adequado ao caso concreto, como aponta o parquet".
+V. Nesse contexto, a alteração do entendimento do Tribunal de origem, a fim de aferir a proporcionalidade da penalidade atribuída ao autor, e, assim, restabelecer o valor da multa originalmente aplicada, no patamar R$ 100.000,00 (cem mil reais) - como pretende o IBAMA -, ensejaria a incursão nos aspectos fático-probatórios dos autos, procedimento vedado, em sede de Recurso Especial, ante a incidência da Súmula 7 do STJ. Nesse sentido: STJ, AgInt no AREsp 1.044.250/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 30/06/2017; AgInt no REsp 1.634.320/ES, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 23/05/2017; AgRg no AREsp 683.812/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015.
+VI. Agravo interno improvido.
+(AgInt no REsp 1.698.400/SC, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 20/3/2018, DJe 23/3/2018)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
