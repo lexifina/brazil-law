@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por [NOME] GUTIERREZ - ESPÓLIO contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7/STJ (e-STJ fls. 579/582).
+O acórdão recorrido está assim ementado (e-STJ fl. 438):
+DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL. RESGATE DE INVESTIMENTOS APLICADOS EM FUNDOS DE RESPONSABILIDADE DAS INSTITUIÇÕES FINANCEIRAS RÉS. PRETENSÃO CONDENATÓRIA DE PAGAMENTO DAS IMPORTÂNCIAS INVESTIDAS PELO AUTOR. FALHA NA PRESTAÇÃO DOS SERVIÇOS. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS. RECURSOS DE APELAÇÃO CÍVEL INTERPOSTOS POR AMBAS AS PARTES. VÍCIO DO SERVIÇO CONFIGURADO. PRELIMINAR DE INÉPCIA DA INICIAL REJEITADA. GRUPO DE SENTENÇA QUE OBJETIVA ATENDER AO JURISDICIONADO QUE VÊ RESOLVIDO O SEU CONFLITO COM MAIOR RAPIDEZ, NÃO HAVENDO DE SE COGITAR EM AFRONTA AO PRINCÍPIO DO JUIZ NATURAL. CARÁTER CONSTITUTIVO DA SENTENÇA DE INTERDIÇÃO QUE CONSTITUI ESTADO NOVO AO INTERDITO E POSSUI EFEITOS MERAMENTE PROSPECTIVOS. AUSÊNCIA DE PROVA SUFICIENTE PARA DESCONSTITUIR O DIREITO DO AUTOR. AGRAVOS, COM FUNDAMENTO NO ARTIGO 557, § 1º, DO CÓDIGO DE PROCESSO CIVIL. ERROR IN PROCEDENDO OU ERROR IN JUDICANDO INEXISTENTES. MANUTENÇÃO DA DECISÃO. RECURSOS NÃO PROVIDOS.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 466/470).
+No recurso especial (e-STJ fls. 485/494), fundamentado no art. 105, III, "a" e "c", da CF, o agravante apontou ofensa ao art. 333 do CPC/1973. Sustentou em síntese, que, conforme demonstram as provas dos autos, era incapaz quando da outorga da procuração.
+No agravo (e-STJ fls. 622/626), afirma a presença de todos os requisitos de admissibilidade do especial.
+Sem contraminuta (e-STJ fl. 646).
+É o relatório.
+Decido.
+Da análise dos autos, verifica-se a pretensão do reexame do conjunto fático-probatório dos autos.
+Sobre o tema em debate, o Tribunal de origem assim se manifestou (e-STJ fls. 444/446):
+Quanto ao mérito, em que pese os argumentos expendidos pelo recorrente, de que a procuração outorgada é nula, e, de que o autor é pessoa interditada em decorrência da evolução do [NOME], tais argumentos não merece prosperar.
+De início, registrese que, no que se refere à interdição do Autor, doutrina e jurisprudência majoritárias apontam no sentido de que a sentença proferida naquele procedimento tem natureza constitutiva, ou seja, reconhece a incapacidade do interditando e produz efeitos prospectivos, e, com relação aos atos pretéritos, registra que sua anulação com base na referida incapacidade, demanda dilação probatória a ser realizada em ação própria.
+No caso em tela, as curadoras do Autor não apresentaram qualquer indicativo de que, ao tempo da assinatura da procuração, o mesmo ostentava quadro de incapacidade. Registre-se que a documentação que acompanha a apelação não se presta para tal fim, pois referente a período bastante posterior à assinatura da procuração, uma vez que o documento vergastado data de 25 de novembro de 2008, enquanto a sentença de interdição fora proferida em 15 de julho de 2011, ou seja, quase 3 (três) anos depois.
+O acórdão recorrido, com base nos elementos de prova, concluiu que não se verifica a alegada interdição do autor à época da assinatura da procuração, mormente quando a ação de interdição foi julgada em momento bastante superior à constituição da procuração. Dissentir dessa conclusão é inviável no âmbito do recurso especial, haja vista o impedimento da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
