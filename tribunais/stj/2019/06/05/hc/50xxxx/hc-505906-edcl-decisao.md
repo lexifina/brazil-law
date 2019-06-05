@@ -1,0 +1,24 @@
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. PENAL. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA.
+Embargos de declaração rejeitados.
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME], representado pela Defensoria Pública de São Paulo, à decisão assim resumida (fl. 58):
+HABEAS CORPUS IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. TRIBUNAL DE ORIGEM QUE CONSIDERA O ACÓRDÃO CONFIRMATÓRIO COMO MARCO INTERRUPTIVO, DIVERGINDO DA JURISPRUDÊNCIA CONSOLIDADA DO STJ. FLAGRANTE E MANIFESTA ILEGALIDADE.
+Ordem concedida liminarmente nos termos do dispositivo.
+Alega o embargante que ainda não há juízo de execuções competente, pois juízo de conhecimento, isto é, a 3ª Vara Criminal de São Vicente acaba de determinar a expedição de mandado de prisão, não tendo sido este ainda sequer expedido (fl. 79).
+Busca o reconhecimento de ofício da prescrição ou a determinação ao juízo de conhecimento que analise a ocorrência da prescrição, desconsiderando o acórdão confirmatório da condenação como marco interruptivo da prescrição (fl. 79).
+É o relatório.
+Não merece acolhida a pretensão do embargante.
+Inicialmente, trago à colação os seguintes trechos da decisão ora embargada:
+Mas, no caso dos autos, existe manifesta ilegalidade capaz de justificar o conhecimento deste writ substitutivo de recurso especial.
+Com efeito, ao que se observa do último acórdão dos embargos de declaração, o Tribunal de Justiça paulista afastou a prescrição da pretensão punitiva, tão somente por considerar que o acórdão confirmatório da condenação configura marco interruptivo do lapso prescricional.
+Por oportuno, anoto os seguintes trechos (fl. 52):
+Assim, se o embargante foi condenado à pena privativa de liberdade de 1 ano e 25 dias de reclusão, como fixado no V. acórdão embargado (fls. 300/308), o lapso prescricional é de 4 anos, nos termos do art. 109, V, c.c. art. 110, § 1º, ambos do Código Penal, e entre a publicação da r. sentença condenatória em 10/3/2014 - fl. 161 o julgamento do recurso de apelação por este Órgão Colegiado realizado em 9/11/2016 - fl. 226 - data a ser considerada também para fins de marco interruptivo de contagem do prazo para reconhecimento da prescrição da pretensão punitiva superveniente, e a data de hoje, não sc ultrapassou o lapso temporal sem que houvesse decisão definitiva com trânsito em julgado.
+Entretanto, essa compreensão vai de encontro ao entendimento consolidado e reiterado do Superior Tribunal de Justiça no sentido de que, nos termos do art. 117 do Código Penal, o prazo prescricional interrompe-se pela publicação da sentença ou acórdão condenatórios recorríveis. O acórdão que confirma a condenação, mas majora ou reduz a pena, não constitui novo marco interruptivo da prescrição. Precedentes: AgRg nos EDcl no AgRg no Ag 1.112.682/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1º/3/2016, DJe 9/3/2016; AgRg no AgRg no REsp n. 1.393.682/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 28/4/2015, DJe 6/5/2015; e HC n. 243.124/AM, Ministro Jorge Mussi, Quinta Turma, DJe 20/8/2012 (AgRg no RE nos EDcl no REsp n. 1.301.820/RJ, Ministro Humberto Martins, Corte Especial, DJe 24/11/2016 - grifo nosso).
+Dessa forma, considerando que o único fundamento que levou a Corte de Justiça a afastar a prescrição foi o acórdão confirmatório da condenação, tenho como evidenciada a manifesta ilegalidade.
+Entretanto, o trânsito em julgado decorrente da inércia da defesa impede que o Superior Tribunal de Justiça reforme o acórdão, ainda que em sede do presente writ, notadamente pela falta de competência para promover a revisão criminal, ainda que admitido como seu substitutivo.
+Todavia, não há como prevalecer o fundamento do Tribunal de Justiça paulista manifestamente contrário à jurisprudência desta Corte Superior, cabendo ao Juízo da execução analisar a ocorrência da prescrição, desconsiderando o acórdão confirmatório da condenação como marco interruptivo.
+Ao que se observa, os presentes embargos de declaração buscam, na verdade, rediscutir com intuito infringente questões já decididas pela decisão recorrida, providência incompatível com a via eleita, inexistindo vício - ambiguidade, obscuridade, contradição ou mesmo omissão - sobre o qual se devesse pronunciar em sede de embargos declaratórios, não se podendo atribuir-lhe o defeito de omissa só porque dispôs contrariamente às pretensões dos embargantes.
+Ademais, cumpre ressaltar que o magistrado não está obrigado a se pronunciar acerca de toda e qualquer alegação levantada pelas partes, mas apenas sobre aquelas consideradas suficientes para alterar a decisão, o que foi feito.
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se.
