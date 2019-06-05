@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial pela incidência da Súmula 7/STJ e ausência de demonstração do dissídio jurisprudencial.
+Nas razões do agravo, alega que o recurso não tem por escopo o reexame da prova puro e simples, mas, tão somente que, após um estudo global se possa firmar a convicção de que em um contexto geral, o tratamento processual que foi dado à casuística, traz em si mesmo espécie insanável de desobediência ao dispositivo de lei infraconstitucional (fl. 649).
+Reitera, no mais, as razões postas no recurso especial.
+Requer, assim, o provimento do agravo, para que seja admitido e provido o recurso especial.
+Apresentada a contraminuta, o Ministério Público Federal manifestou-se pelo manutenção da decisão impugnada, bem como pleiteia, às fls. 693/694, a execução provisória da pena.
+É o relatório.
+DECIDO.
+O agravante, de fato, não impugnou os fundamentos da decisão agravada.
+Com efeito, ao se insurgir contra a incidência da Súmula 7/STJ, embora tenha mencionado a referida súmula, olvidou-se que o óbice diz respeito ao pleito de absolvição, ao argumento de que a decisão dos jurados teria sido manifestamente contrária à prova dos autos - seja pela negativa de autoria, seja pela ausência de animus necandi - ou pela desclassificação do crime. Limitou-se, contudo, a afirmar que o recurso especial não visa à reapreciação do material cognitivo produzido nos autos, deixando de demonstrar, de forma clara e precisa, com o devido desenvolvimento argumentativo, a desnecessidade, na espécie, de revolvimento fático-probatório.
+Deixou, igualmente, de impugnar o óbice atinente à não demonstração do dissídio jurisprudencial.
+Vale lembrar que ao recorrente incumbe demonstrar o equívoco da decisão em face da qual se insurge, não bastando a impugnação genérica dos fundamentos da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada, nos termos do art. 932 do CPC, c/c art. 3º do CPP.
+Por fim, postula o Ministério Público Federal a execução provisória da pena.
+A Sexta Turma desta Corte, ao apreciar os EDcl no REsp 1.484.413/DF e no REsp 1.484.415/DF, na sessão de 3/3/2016, adotou a orientação firmada pelo Pleno do Supremo Tribunal Federal (HC 122.292/MG, de 17/2/2016) de que a execução provisória da condenação penal, na ausência de recursos com efeito suspensivo, não viola o princípio constitucional da presunção de inocência.
+Os fundamentos do voto condutor do acórdão no Supremo Tribunal Federal, de relatoria do Ministro Teori Zavascki, encontram-se sintetizados na seguinte ementa:
+CONSTITUCIONAL. HABEAS CORPUS. PRINCÍPIO CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA (CF, ART. 5º, LVII). SENTENÇA PENAL CONDENATÓRIA CONFIRMADA POR TRIBUNAL DE SEGUNDO GRAU DE JURISDIÇÃO. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE. 1. A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal. 2. Habeas corpus denegado (HC 126292, Rel. Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em 17/02/2016, PROCESSO ELETRÔNICO DJe-100 de 17-05-2016).
+O Pleno Supremo Tribunal Federal, apreciando medida cautelar nas Ações Declaratórias de Constitucionalidade 43 e 44 (DJE 11/10/2016), por maioria, reafirmou o entendimento da possibilidade de execução provisória da pena, na ausência de recurso com efeito suspensivo, confirmada, ainda, em repercussão geral (ARE 964246 RG, Rel. Min. TEORI ZAVASCKI, DJe 25/11/2016).
+Ressalto que esta Corte permanece cumprindo o precedente do Plenário da Suprema Corte, não obstante as fortes razões em contrário contidas em decisões da segunda turma daquela egrégia Corte - dispensada indicação casuística de necessidade da cautelar, pois assim não exigida pelo precedente aqui seguido.
+Aplicam-se, pois, os arts. 637 do CPP e 27, § 2º, da Lei 8.038/90, c/c a Súmula 267 do STJ, autorizando-se o imediato recolhimento do réu para o início do cumprimento da pena.
+Nesse sentido a orientação firmada pelo art. 9º, § 2º, da Resolução n. 113, de 20 de abril de 2010, do CNJ, de que, Estando o processo em grau de recurso, sem expedição de guia de recolhimento provisória, às Secretarias desses órgãos caberão expedi-la e remetê-la ao juízo competente.
+Ante o exposto, não conheço do agravo e defiro o pedido ministerial para determinar o imediato recolhimento do acusado à prisão, delegando-se ao Tribunal local a execução dos atos, a quem caberá a expedição de mandado de prisão e guia de recolhimento provisório.
+À Coordenadoria da Sexta Turma, para extração de cópia integral dos autos, a ser encaminhada ao Tribunal de origem.
+Publique-se.
+Intimem-se.
