@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por CYRELA BRAZIL REALTY S.A. EMPREENDIMENTOS E PARTICIPAÇÕES contra decisão que inadmitiu o recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 1.577):
+PROCESSO CIVIL - Ação de adjudicação Cumprimento de sentença - Insurgência contra decisão que rejeitou a impugnação e manteve pronunciamento anterior no sentido da inserção da agravante no polo passivo da execução, haja vista a ocorrência de sucessão empresarial - Ausência de suspensão ou interrupção do prazo para outros recursos Intempestividade - Recurso não conhecido.
+Opostos embargos de declaração, foram estes rejeitados (e-STJ, fls. 1.632/1.643).
+Nas razões do recurso especial, o recorrente alega violação aos arts. 523, 525 e 1.015 do Código de Processo Civil, além de suscitar divergência jurisprudencial, pois afirma que antes de interpor o agravo de instrumento foi necessária a discussão a respeito da legitimidade passiva da parte para que não houvesse supressão de instância, portanto, não há que se falar em preclusão, in verbis (e-STJ, fls. 1.591/1.592):
+ ..  transcorrido o prazo previsto no art. 523, sem o pagamento voluntário, inicia-se o prazo de 15 (quinze) dias para que o executado, independentemente de penhora ou nova intimação, apresente, nos próprios autos, sua impugnação, na qual poderá alegar, como no caso dos autos, sua ilegitimidade (inciso II, do texto legal mencionado).
+Assim, entendendo ser parte ilegítima para pagamento do débito exequendo, porque inexistente sucessão empresarial ou confusão patrimonial, tão logo teve ciência da referida decisão, a Recorrente apresentou a competente defesa, por meio de impugnação, conforme previsão legal.
+Não há, portanto, o que se falar que a Recorrente "preferiu apresentar impugnação nos autos de origem", na realidade, a impugnação era a manifestação legalmente cabível no caso da Recorrente, especialmente para defender sua ilegitimidade, ausência de relação com as partes, fatos e objetos da demanda.
+Aliás, vale a pena pontuar que o despacho intimando a parte para pagamento, como acima se verificou, é mero impulso oficial, sem conteúdo decisório (art. 206, §3º do CPC) e, portanto, irrecorrível. O próprio Tribunal de Justiça de São Paulo já decidiu neste sentido, no julgamento do Agravo de Instrumento n. 2023880- 65.2015.8.26.0000, de relatoria do Ilmo. Dr. Adilson de Araújo, realizado em 03/03/2015, que deixou de conhecer o recurso por falta de interesse recursal.
+ ..
+Ademais, se irregular fosse a insurgência (impugnação) da ora Recorrente contra a decisão supramencionada, a impugnação sequer seria apreciada pelo juízo a quo ou, ao menos, não constaria da decisão agravada que "trata-se de impugnação à fase de cumprimento de sentença invocando a parte impugnante sua ilegitimidade passiva", mas sim que se tratava de mero pedido de reconsideração, o que não aconteceu, posto que adequadamente manejada.
+E, caso fosse apresentado Agravo de Instrumento naquela oportunidade, haveria supressão de instância, acerca da ilegitimidade da Recorrente, já que os documentos e argumentos apresentados na impugnação ainda não haviam sido enfrentados no juízo de origem e, portanto, não poderia ser apreciada pelo E. Tribunal Paulista.
+ ..
+No mais, não conhecer o agravo interposto pela suposta alegação de intempestividade seria negar o direito constitucional de acesso à justiça da Recorrente, através do duplo grau de jurisdição, tornando a decisão de primeiro grau irrecorrível, quando é perfeitamente cabível a interposição de agravo de instrumento, como já mencionado.
+Assim, de rigor o provimento deste recurso especial para que sejam anulados os acórdãos proferidos pelo E. Tribunal de Justiça de São Paulo, determinando-se o conhecimento do Agravo de Instrumento, eis que tempestivo e cabível contra a decisão de rejeição do Impugnação.
+Apresentadas contrarrazões (e-STJ fls. 254/267), o Recurso Especial foi inadmitido pela Corte de origem, ensejando na interposição do presente agravo (e-STJ, fls. 274/283).
+É o relatório.
+Passo a decidir.
+Com efeito, diante da relevância da questão suscitada, merece provimento o agravo para melhor analisar o recurso especial interposto, procedendo-se à devida conversão.
+Ante o exposto, dou provimento ao agravo em recurso especial, procedendo-se à conversão.
+Intime-se.
