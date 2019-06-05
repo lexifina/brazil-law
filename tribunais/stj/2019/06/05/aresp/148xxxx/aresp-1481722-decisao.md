@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de Santa Catarina.
+Sustenta a defesa, nas razões do recurso especial, negativa de vigência ao artigo 33, § 4º, da Lei 11.343/06.
+Aduz que "considerando se tratar de quantidade razoavelmente baixa e exclusivamente de maconha, eventual reprimenda merece ser mitigada na terceira fase com o consequente reconhecimento da vigência ao § 4º, do art. 33 da Lei 11.343/2006, na forma dos artigos 42 da Lei 11.343/2006 e art. 59 do Código Penal" (e-STJ, fl. 481).
+Requer a aplicação da minorante do art. 33, § 4º, da Lei 11.343/06, "ainda que no patamar de metade" (e-STJ, fl. 482).
+Apresentadas contrarrazões (e-STJ, fls. 486-489).
+O recurso foi inadmitido com fundamento na Súmula 83 do STJ (e-STJ, fls. 491-496). Daí este agravo (e-STJ, fls. 499-511).
+O Ministério Público Federal opinou pelo conhecimento do agravo para que seja negado seguimento ao recurso especial (e-STJ, fls. 532-536).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem manteve o afastamento da minorante com os seguintes fundamentos:
+"Ainda, pugna o recorrente pela concessão da causa especial de diminuição da pena, prevista no artigo 33, § 4º, do mesmo Diploma Legal.
+O Juízo a quo, ao afastar a possibilidade de concessão da benesse, sustentou que: "além da interceptação telefônica, ficou demonstrado que o Réu reiteradamente praticava o tráfico ilícito de entorpecentes, o que demonstra sua dedicação à atividade criminosa". (fl. 338)
+Com razão o Magistrado de origem.
+Isto porque, conforme se extrai dos depoimentos prestados pelos Agentes Públicos, a Polícia Civil já havia recebido denúncias dando conta de que o apelante era responsável pela distribuição de substâncias ilícitas naquela localidade, bem como, durante a realização de campana, foi possível verificar movimentação característica do tráfico em sua residência.
+Soma-se a isso o fato de que a apreensão de grande quantidade de entorpecentes, conforme entendimento amplamente adotado pela doutrina e jurisprudência, traduz-se em sinal da dedicação à atividade criminosa.
+Para [NOME]: "se o indivíduo for flagrado com grande quantidade e variedade de drogas, tem-se aí forte indicativo de que se trata de agente dedicado a atividades criminosas, até mesmo porque não é normal que um traficante pequeno e eventual dê início às atividades de traficância com tamanha quantidade e diversidade de drogas". (Legislação criminal especial comentada: volume único - 6a edição - Salvador: JusPODIVM, 2018, p. 1037).
+No mesmo sentido, é a lição de Victor Gonçalves e [NOME]: "Salienta-se que a dedicação rotineira ao tráfico pode ser comprovada por diversas formas, como r..  pela quantidade elevada de drogas etc". (Legislação penal especial esquematizado - 3a edição - São Paulo: Saraiva, 2017, p. 109)
+Tal posicionamento não destoa daquele aplicado nesta Câmara Criminal, consoante se extrai da Apelação Criminal n. 0002650-51.2014.8.24.0045, de Palhoça, de Relatoria da Desembargadora Salete Silva Sommariva, julgada em 24/04/2018:
+APELAÇÃO CRIMINAL - TRÁFICO ILÍCITO DE ENTORPECENTES (LEI N. 11.343/06, ART. 33, CAPUT) - SENTENÇA CONDENATÓRIA - INSURGÊNCIA DEFENSIVA - PRETENSA ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA - INVIABILIDADE - MATERIALIDADE E AUTORIA COMPROVADAS - PALAVRAS DOS POLICIAIS FIRMES E COERENTES - CONDENAÇÃO MANTIDA - DOSIMETRIA - PLEITO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO - INVIABILIDADE - APREENSÃO DE ELEVADA QUANTIDADE DE "MACONHA" - INDICATIVO DE DEDICAÇÃO A ATIVIDADES CRIMINOSAS - RECURSO DESPROVIDO. (grifou-se)
+Desta forma, entende-se demonstrada a dedicação, do apelante, à atividade criminosa, o que inviabiliza a aplicação da redutora requerida" (e-STJ, fls. 461-463).
+Como é sabido, os requisitos legais para a incidência da causa especial de diminuição de pena do art. 33, § 4º, da Lei de Drogas são: agente reconhecidamente primário, com bons antecedentes e que não se dedique a atividades criminosas ou integre organização criminosa. Segundo decidido por esta Corte, o mencionado dispositivo legal tem como objetivo beneficiar, apenas, pequenos e eventuais traficantes, não alcançando aqueles que fazem do tráfico de drogas um meio de vida (AgRg no AREsp 648.408/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 5/10/2015; AgRg no REsp 1423806/SP; Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 20/8/2015).
+Tem-se decidido também que a quantidade de droga e as demais circunstâncias do art. 59 do CP devem servir de parâmetro para a definição do quantum de redução - de um sexto até dois terços - e para se constatar a dedicação do agente ao tráfico de entorpecentes ou de sua participação em organização criminosa, a fim de obstar a incidência do referido benefício legal (AgRg no AREsp 628.686/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 2/3/2015).
+Na hipótese dos autos, observa-se que, na esteira da jurisprudência desta Corte, o Tribunal de origem concluiu, motivadamente, pela dedicação do recorrente ao tráfico ilícito de entorpecentes levando em conta a expressiva quantidade de droga apreendida (1 kg de maconha, e-STJ, fl. 459), e as circunstâncias do cometimento do delito, considerando que os policiais civis receberam várias denúncias de que o agravante era responsável pela distribuição dos entorpecentes naquela localidade. Assim, a modificação desse entendimento - para acolher a pretensão de que ele não se dedica à atividade criminosa - exige o revolvimento do conteúdo fático-probatório, inadmissível em recurso especial (Súmula 7/STJ).
+Nesse sentido:
+" ..
+É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de averiguar os requisitos legais para incidência de eventuais causas de aumento ou diminuição de pena e o percentual a ser fixado. Óbice do enunciado nº 7 da Súmula desta Corte." (AgRg no AREsp 744.179/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 23/10/2015).
+" ..
+A decisão agravada está em absoluta conformidade com a massiva jurisprudência desta Corte, assentada no sentido de que aferir a dedicação a atividades criminosas, para o fim de negar ou deferir o redutor da pena previsto no art. 33, § 4º, da Lei de Drogas, demanda o revolvimento de fatos e provas o que é terminantemente vedado pela Súmula 7."
+(AgRg no AREsp 644.360/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 17/11/2015).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b" do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
