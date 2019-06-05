@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. FORNECIMENTO DE MEDICAMENTO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS DE FORMA CONJUNTA OU ISOLADA. ENTENDIMENTO DO STF EM REPERCUSSÃO GERAL. PRECEDENTES DO STJ. SÚMULA 568/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ESTADO DE PERNAMBUCO, em face de decisão proferida pelo Tribunal de Justiça de Pernambuco, que negou admissibilidade ao recurso especial manejado contra acórdão assim ementado:
+CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO. DIREITO HUMANO À SAÚDE. PRETENSÃO AO FORNECIMENTO DE MEDICAMENTOS (OMEPRAZOL 20MG, [NOME], [NOME], MONOCORDIL 20MG, ASPIRINA PREVENTE, [NOME], VASTARELI MR 35MG, RUSOVASTATINA 20MG). IMPETRANTE PORTADORA HIPERTENSÃO ARTERIAL SISTÊMICA, TRANSTORNO ANSIOSO E DOENÇA ARTERIAL CORONARIANA. MULTA DIÁRIA FIXADA EM VALOR RAZOÁVEL. AGRAVO NÃO PROVIDO DE FORMA INDISCREPANTE.
+Opostos embargos de declaração, foram rejeitados nos seguintes termos:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EXISTÊNCIA DE OMISSÃO. NECESSIDADE DE INTEGRAÇÃO DO ACÓRDÃO EMBARGADO SEM ATRIBUIÇÃO DE EFEITOS INFRINGENTES. PREQUESTIONAMENTO DA MATÉRIA SUSCITADA. DECISÃO UNÂNIME.
+Nas razões do recurso especial, a recorrente sustenta ofensa ao art. 264 do CC/2002, sustentando a existência de solidariedade da União quanto ao tema relacionado à fornecimento de medicação, razão pela qual requer a inclusão do ente político federal no pólo passivo da demanda.
+Apresentadas contrarrazões.
+A inadmissão do recurso especial se fez à consideração de que o acórdão recorrido adotou entendimento em consonância com a orientação firmada pelo STJ, a atrair o enunciado da Súmula 83/STJ.
+Nas razões do agravo, o agravante afasta o óbice apresentados na decisão.
+Contraminuta apresentada.
+É o relatório. Decido.
+Inicialmente, é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No tocante à suposta violação ao art. 264 do CC/2002, quanto à tese de inclusão da União no pólo passivo da demanda, em razão da solidariedade existente, ressalta-se que o entendimento desta Corte Superior firmou-se no sentido de que a União, Estados, Distrito Federal e Municípios são solidariamente responsáveis pelo fornecimento de medicamentos àqueles que necessitam de tratamento médico, podendo a demanda ser proposta isoladamente ou conjuntamente contra os entes políticos mencionados.
+Nesse sentido, os seguintes precedentes desta Corte Superior (grifo nosso):
+
+PROCESSUAL CIVIL E ADMINISTRATIVO - AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO - AUSÊNCIA DE PREQUESTIONAMENTO - SÚMULA 282/STF - FORNECIMENTO DE MEDICAMENTOS - RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS - LEGITIMIDADE PASSIVA - AGRAVO NÃO PROVIDO.  ..
+2. Esta Corte, em reiterados precedentes, tem reconhecido a responsabilidade solidária do entes federativos da União, Estados, Distrito Federal e Municípios no que concerne à garantia do direito à saúde. Ainda que determinado serviço seja prestado por uma das entidades federativas, ou instituições a elas vinculadas, nada impede que as outras sejam demandadas, de modo que todas elas (União, Estados, Município) têm, igualmente, legitimidade para figurarem no pólo passivo em causas que versem sobre o fornecimento de medicamentos.
+4. Agravo regimental não provido. (AgRg no Ag 909927/PE, 2ª Turma, Rel. Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), DJe 27.2.2013)
+ADMINISTRATIVO. DIREITO À SAÚDE. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS PELO FUNCIONAMENTO DO SISTEMA ÚNICO DE SAÚDE. LEGITIMIDADE PASSIVA AD CAUSAM DO ESTADO.
+1. O funcionamento do Sistema Único de Saúde é de responsabilidade solidária da União, dos Estados e dos Municípios, de modo que qualquer um desses entes tem legitimidade ad causam para figurar no polo passivo de demanda que objetiva a garantia do acesso a medicamentos para tratamento de problema de saúde. Precedentes.
+2. Agravo regimental não provido. (AgRg no REsp 1017055/RS, 2ª Turma, Rel. Ministro Castro Meira, DJe 18.9.2012)
+Ademais, o Supremo Tribunal Federal, no julgamento do RE 855178, apreciado sob o regime de repercussão geral, reafirmou a jurisprudência sobre a responsabilidade solidária dos entes federados no dever de prestar assistência à saúde em acórdão assim ementado (grifo nosso):
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. DIREITO À SAÚDE. TRATAMENTO MÉDICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA. O tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente. (RE 855178 RG, Rel. Min. LUIZ FUX, REPERCUSSÃO GERAL, julgado em 05/03/2015, PUBLIC 16-03-2015)
+Dessa forma, estando o acórdão de origem em conformidade com a jurisprudência desta Corte Superior, incide, ao caso, a Súmula 568/STJ segundo a qual: o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
