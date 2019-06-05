@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], em face de acórdão do Tribunal de Justiça do Ceará, assim ementado (fls. 830-831):
+PENAL E PROCESSO PENAL. APELAÇÃO. HOMICÍDIO QUALIFICADO E DISPARO DE ARMA DE FOGO. RECONHECIMENTO DE QUESTÃO DE ORDEM PÚBLICA.
+1. De início, necessário se faz extinguir a punibilidade do réu no tocante ao delito do art. 15 da Lei 10.826/2003, pois sendo o acusado maior de 70 (setenta) anos na data da sentença e tendo sido condenado à pena de 02 (dois) anos e 09 (nove) meses de reclusão em sentença publicada nos autos em 06/11/2014, com trânsito em julgado para a acusação, tem-se por operada a prescrição da pretensão punitiva na modalidade superveniente, conforme art. 109, IV e art. 115, todos do Código Penal. Ficam prejudicados os pedidos recursais referentes ao crime de disparo de arma de fogo, tendo em vista a prescrição apontada.
+NÃO CONHECIMENTO DAS ALEGAÇÕES RELATIVAS AO ART. 593, III, "D", DO CPP E ART. 593, III, "A" E "B" , DO CPP.
+2. Condenado à pena de 13 (treze) anos e 08 (oito) meses de reclusão, por violação ao art.
+121, § 2º, I e IV, o acusado sustenta que o veredicto do Conselho de Sentença é manifestamente contrário à prova dos autos, primeiro porque teria agido em legítima defesa e segundo porque as qualificadoras não restaram configuradas. Assim, requer a anulação do julgamento para que um novo seja realizado. Subsidiariamente, pede a reforma da dosimetria da sanção.
+3. Deixa-se de conhecer da apelação no que tange ao pedido de anulação do julgamento por manifesta contrariedade à prova dos autos (art. 593, III, d, do CPP). Diz-se isto porque, conforme se observa na ata de julgamento de fl. 707, a interposição do recurso se deu ao final da sessão, ocorrida no dia 06/11/2014, apenas com insurgência referente ao art. 593, III, "a", "b" e "c", do CPP. Da mesma forma, tem-se a petição de fls. 727/729, protocolada em 17/11/2014, que abrangeu apenas o art. 593, III, "a", "b" e "c", do CPP.
+4. Já as razões recursais, nas quais houve o acréscimo da fundamentação do apelo no tocante à manifesta contrariedade à prova dos autos, somente foram protocoladas em 11/04/2016 (fls.
+749/764), ou seja, fora do quinquídio legal para a interposição do recurso, o que, nos termos da jurisprudência desta Câmara Criminal impede seu conhecimento neste ponto.
+5. Também não merece conhecimento o recurso quanto às alíneas "a" e "b" do art. 593, III, do Código de Processo Penal, vez que se tratando de rito de motivação vinculada, cujas razões também delimitam o objeto do recurso e permitem o exercício do contraditório, o conhecimento dessa parte do apelo violaria o princípio da dialeticidade. Precedentes.
+ANÁLISE DO MÉRITO APELO APENAS NO QUE TANGE AO ART. 593, III, "C",
+DO CPP. NECESSIDADE DE REDIMENSIONAMENTO DA SANÇÃO.
+6. Adentrando na análise da dosimetria da pena, tem-se que o magistrado, ao fixar a pena-base do réu, entendeu como desfavoráveis os vetores da culpabilidade, dos motivos, das circunstâncias e das consequências do crime. Por isso, afastou a basilar em 02 (dois) anos do mínimo legal, que é de doze anos.
+7. Retira-se o traço negativo atribuído à culpabilidade e às circunstâncias do crime, pois os fundamentos utilizados pelo sentenciante mostraram-se inidôneos. Em giro diverso, mantém- se o desvalor atribuído aos motivos e às consequências do crime, pois a fundamentação apresentada pautou-se em elementos concretos do delito, que demonstraram extrapolação dos limites do tipo penal.
+8. De modo que, remanescendo desfavoráveis dois vetores do art. 59 do Código Penal, deve a basilar ser redimensionada ao patamar de 13 (treze) anos de reclusão, observando-se a mesma proporção aplicada em 1ª instância.
+9. Na 2ª fase da dosimetria, foram reconhecidas as atenuantes de confissão espontânea e senilidade, razão pela qual deve a sanção restar fixada, definitivamente, em 12 (doze) anos de reclusão, considerando o princípio da hierarquia das fases na dosimetria da pena.
+RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO. DE OFÍCIO, DECLARADA EXTINTA A PUNIBILIDADE DO RÉU QUANTO AO CRIME DO ART. 15 DA LEI 10.826/2003.
+Consta dos autos que o paciente foi condenado à pena de 13 anos e 8 meses de reclusão, pela prática do delito tipificado no art. 121, § 2º, I e IV, do Código Penal, e à pena de 2 anos e 9 meses de reclusão pelo delito tipificado no art. 15 da Lei 10.826/2003.
+Irresignada, a defesa interpôs apelação, oportunidade em que a Corte de origem conheceu parcialmente do recurso e deu-lhe parcial provimento, redimensionando a pena imposta para 12 anos de reclusão e, de ofício, declarando extinta a punibilidade do réu quanto ao delito previsto no art. 15 da Lei 10.826/2003, mantidas as demais disposições da sentença.
+Sustenta neste writ, em suma, constrangimento ilegal decorrente da determinação constante do dispositivo do acórdão no sentido do cumprimento da pena após o trânsito em julgado em segundo grau e violação ao princípio da non reformatio in pejus.
+Requer, no mérito, a alteração do início do cumprimento da pena para o término da tramitação da ação penal, possibilitando ao paciente o amplo direito de defesa e a consagração da presunção de inocência em liberdade (fls. 28/29).
+A liminar foi indeferida (fls. 848/580).
+As informações foram prestadas (fls. 854/859).
+O Ministério Público Federal opinou pelo não conhecimento do writ. (fls 861/866).
+É o relatório.
+DECIDO.
+A Sexta Turma desta Corte, ao apreciar os EDcl no REsp 1.484.413/DF e no REsp 1.484.415/DF, na sessão de 3/3/2016, adotou a orientação firmada pelo Pleno do Supremo Tribunal Federal (HC 122.292/MG, de 17/2/2016) no sentido de que a execução provisória da condenação penal, na ausência de recursos com efeito suspensivo, não viola o princípio constitucional da presunção de inocência.
+Os fundamentos do voto condutor do acórdão no Supremo Tribunal Federal, de relatoria do Ministro Teori Zavascki, encontram-se sintetizados na seguinte ementa:
+CONSTITUCIONAL. HABEAS CORPUS. PRINCÍPIO CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA (CF, ART. 5º, LVII). SENTENÇA PENAL CONDENATÓRIA CONFIRMADA POR TRIBUNAL DE SEGUNDO GRAU DE JURISDIÇÃO. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE. 1. A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal. 2. Habeas corpus denegado (HC 126292, Rel. Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em 17/02/2016, PROCESSO ELETRÔNICO DJe-100 de 17-05-2016).
+Em recente julgado, ocorrido em 5/10/2016, o Pleno do Supremo Tribunal Federal, apreciando medida cautelar nas Ações Declaratórias de Constitucionalidade 43 e 44, por maioria, reafirmou o entendimento da possibilidade de execução provisória da pena, na ausência de recurso com efeito suspensivo.
+Conquanto, recentemente, alguns ministros do Supremo Tribunal Federal tenham se pronunciado pela necessidade de fundamentação nas hipóteses em que o réu respondera ao processo em liberdade, não houve decisão do plenário nesse sentido, prevalecendo o entendimento acima esposado.
+Assim, exaurida a instância ordinária e, na pendência de recursos especial ou extraordinário, somente casuísticos efeitos suspensivos concedidos - por cautelar ou habeas corpus -, impedirão a execução provisória, ainda que concedido o direito de recorrer em liberdade até o trânsito em julgado da condenação.
+Ressalto que esta Corte permanece cumprindo a decisão mencionada do precedente do plenário da Suprema Corte, inobstante as fortes razões em contrário contidas em decisões da segunda turma daquela egrégia Corte - dispensada indicação casuística de necessidade da cautelar, pois assim não exigida pelo precedente aqui seguido.
+Consoante informações acostadas aos autos, verifica-se que as vias recursais ordinárias já foram exauridas.
+No que tange ao argumento de reformatio in pejus, conforme a jurisprudência dessa Corte Superior, a execução provisória da pena não caracteriza manifesta violação à coisa julgada, ainda que concedido o direito de recorrer em liberdade até o trânsito em julgado da sentença condenatória. Nesse sentido:
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. DESCUMPRIMENTO DE DECISÃO. NÃO OCORRÊNCIA. PRISÃO PREVENTIVA E EXECUÇÃO PROVISÓRIA DA PENA. TÍTULOS DIVERSOS. AGRAVO REGIMENTAL IMPROVIDO.
+1. No julgamento do HC n. 193.136/RJ. a Sexta Turma desta Corte garantiu ao réu o direito de recorrer em liberdade, porquanto não demonstrados os requisitos autorizadores da prisão preventiva, a teor dos arts. 312 e 313 do CPP.
+2. No caso dos autos, não há falar em descumprimento da mencionada decisão, pois embora tenham as instâncias ordinárias determinado o encarceramento do réu, antes do trânsito em julgado da condenação, o fizeram sob fundamento diverso, a saber: execução provisória da pena.
+3. A execução provisória da pena não caracteriza violação à coisa julgada ou reformatio in pejus, ainda que concedido o direito de recorrer em liberdade até o trânsito em julgado da sentença condenatória.
+4. Agravo regimental improvido.
+(AgRg na Rcl 36.053/RJ, Rei. Ministro NEFI CORDEIRO, TERCEIRA
+SEÇÃO, julgado cm 28/11/2018, DJc 05/12/2018)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
