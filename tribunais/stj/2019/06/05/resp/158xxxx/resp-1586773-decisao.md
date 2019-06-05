@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL C/C OBRIGAÇÃO DE FAZER. VIOLAÇÃO DO ART. 458, II, DO CPC/73. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação revisional c/c obrigação de fazer, fundada na abusividade dos valores cobrados a título de mensalidade do plano de saúde após sua aposentadoria.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 458, II, do CPC/73.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A jurisprudência desta Corte firmou-se no sentido de que a melhor interpretação a ser dada ao caput do art. 31 da Lei n. 9.656/98, ainda que com a nova redação dada pela Medida Provisória 1.801/99, é a de que deve ser assegurada ao aposentado a manutenção no plano de saúde coletivo, com as mesmas condições de assistência médica e de valores de contribuição, desde que assuma o pagamento integral desta, a qual poderá variar conforme as alterações promovidas no plano paradigma, sempre em paridade com o que a ex-empregadora tiver que custear. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+7. Recurso especial parcialmente conhecido e, nesta parte, provido.
+DECISÃO
+Cuida-se de recurso especial interposto por FORD MOTOR COMPANY BRASIL LTDA., fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 04/05/2015.
+Concluso ao gabinete em: 25/08/2016.
+Ação: revisional c/c obrigação de fazer com pedido de tutela antecipada para manutenção do plano de saúde, ajuizada por [NOME], em face da recorrente e de BRADESCO SAÚDE S/A, fundada na abusividade dos valores cobrados a título de mensalidade do plano de saúde após sua aposentadoria.
+Sentença: julgou procedente a ação, nos seguintes termos (e-STJ, fls. 286/287):
+Asseguro a [NOME] (e a seus dependentes - esposa/filho) o direito de manutenção no plano de saúde que mantinha antes da rescisão do contrato de trabalho, nas mesmas condições de cobertura assistencial, mediante pagamento integral da respectiva contribuição, em valor a ser calculado pela soma da importância que era descontada mensalmente do seu salário com a média do valor despendido pela ex-empregadora com seus funcionários ativos, nos últimos 12 meses anteriores ao desligamento do autor, sem prejuízo dos ajustes regularmente autorizados pela ANS.
+Acórdão: negou provimento às apelações interpostas pela recorrente e por BRADESCO SAÚDE S/A e não conheceu da apelação interposta pelo recorrido, nos termos da seguinte ementa:
+Seguro coletivo de saúde. Aposentado. Art. 31 da Lei 9.656/98. O empregado que preenche os requisitos do dispositivo tem o direito de, ao aposentar-se, ser mantido no plano de saúde coletivo, nas mesmas condições e com a mesma cobertura de que desfrutava quando na ativa, desde que arque com a parcela do prêmio que pagava, mais aquela que era suportada pela ex-empregadora. Precedentes do STJ. Valor referente ao prêmio que deverá ser apurado em fase de liquidação de sentença. Sentença de procedência mantida na forma do art. 252 do RITJSP. Apelações das rés desprovidas. Apelação do autor de que se não conhece.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 111, 113, 128, 131, 273, 333, I e II, 334, 368, 421, 422 e 458, II, 460 do CPC/73, dos arts. 30 e 31, da Lei 9.656/98, bem como divergência jurisprudencial.
+Alega haver omissão quanto aos documentos apresentados, os quais demonstrariam os valores corretos do pagamento mensal do plano e a inexistência de abusividade.
+Sustenta que teria cumprido as obrigações de manter o recorrido no plano de saúde mediante o pagamento integral e que os valores cobrados se referem somatória da quota patronal e quota do recorrido.
+Assevera que não poderia ser arbitrado novo valor como montante integral a ser apurado em liquidação de sentença, bem como que o pedido do recorrido se restringiu à revisão das mensalidades do plano de saúde.
+Admissibilidade: o recurso foi admitido na origem pelo TJ/SP.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/73
+- Da violação do art. 458, II, do CPC/73
+Devidamente analisadas e discutidas as questões de mérito, e devidamente fundamentado o acórdão recorrido (e-STJ, fls. 465/480), de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 458, II, do CPC/73.
+- Da fundamentação deficiente
+Os argumentos invocados pelo recorrente não demonstram como o acórdão recorrido violou os arts. 111, 113, 273, 333, I e II, 368, 421, 422, do CPC/73 e do arts. 30 da Lei 9.656/98, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 111, 113, 128, 131, 273, 333, I e II, 334, 368, 421, 422 e 458, II, 460 do CPC/73 e do art. 30 da Lei 9.656/98, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+- Da violação do art. 31 da Lei 9.656/98
+Quanto ao valor referente à mensalidade do plano de saúde que caberia ao recorrido suportar, o TJ/SP manteve a sentença que determinou o seguinte:
+Asseguro a [NOME] (e a seus dependentes - esposa/filho) o direito de manutenção no plano de saúde que mantinha antes da rescisão do contrato de trabalho, nas mesmas condições de cobertura assistencial, mediante pagamento integral da respectiva contribuição, em valor a ser calculado pela soma da importância que era descontada mensalmente do seu salário com a média do valor despendido pela ex-empregadora com seus funcionários ativos, nos últimos 12 meses anteriores ao desligamento do autor, sem prejuízo dos ajustes regularmente autorizados pela ANS. (e-STJ, fls.286/287)
+Todavia, esta Corte já firmou posicionamento no sentido de que "a melhor interpretação a ser dada ao caput do art. 31 da Lei nº 9.656/1998, ainda que com a nova redação dada pela Medida Provisória nº 1.801/1999, é de que deve ser assegurada ao aposentado a manutenção no plano de saúde coletivo, com as mesmas condições de assistência médica e de valores de contribuição, desde que assuma o seu pagamento integral, que poderá variar conforme as alterações promovidas no plano paradigma, sempre em paridade com o que a ex-empregadora tiver que custear". (AgRg no AREsp 686.472/SP, 3ª Turma, DJe de 28/08/2015).
+Nesse sentido: AgInt nos EDcl no AREsp 1073880/SP, 4ª Turma, DJe de 19/06/2017; AgInt no REsp 1568324/SP, 4ª Turma, DJe de 19/05/2017; AgInt no AREsp 990.391/SP, 3ª Turma,DJe de 10/04/2017; e, AgRg nos EDcl no REsp 1497784/SP, 3ª Turma, DJe de 24/08/2015.
+Assim, o acórdão do TJ/SP destoou do entendimento adotado pelo STJ em relação ao valor da mensalidade do plano de saúde que cabe ao recorrido suportar, na qual merece reforma apenas neste ponto.
+Forte nessas razões, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, apenas para estabelecer que o recorrido deverá assumir o pagamento integral do plano de saúde, que poderá variar conforme as alterações promovidas no plano paradigma, sempre em paridade com o que a ex-empregadora tiver que custear.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
