@@ -10,5 +10,6 @@ VII - remeter, no prazo legal, os autos do inquérito policial ao juiz e ao Mini
 I - qualificação da ofendida e do agressor;
 II - nome e idade dos dependentes;
 III - descrição sucinta do fato e das medidas protetivas solicitadas pela ofendida.
+IV - informação sobre a condição de a ofendida ser pessoa com deficiência e se da violência sofrida resultou deficiência ou agravamento de deficiência preexistente.
 § 2º A autoridade policial deverá anexar ao documento referido no § 1º o boletim de ocorrência e cópia de todos os documentos disponíveis em posse da ofendida.
 § 3º Serão admitidos como meios de prova os laudos ou prontuários médicos fornecidos por hospitais e postos de saúde.
