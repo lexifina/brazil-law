@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pela UNIÃO, contra decisão do Tribunal Regional Federal da 1ª Região, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"DIREITO ADMINISTRATIVO. TAXA DE OCUPAÇÃO DE IMÓVEL LOCALIZADO EM TERRENOS DE MARINHA E SEUS ACRESCIDOS. VÍCIO DE DEMARCAÇÃO DESSAS TERRAS CONFORME JURISPRUDÊNCIA DO STJ E DO STF.
+1. "Os terrenos de marinha e acrescidos não foram alcançados pela EC 46/2005. Historicamente, em razão da defesa nacional, e, modernamente, para defesa do meio ambiente, esses terrenos estiveram, e continuam, sob o domínio da União, como expressamente prevê a Constituição Federal (art. 20, VII)".
+2. Existe, portanto, terreno de marinha situado no continente, na costa marítima, e em volta das ilhas costeiras. A demarcação do terreno de marinha exige procedimento próprio previsto no decreto-lei 9.760 de 05.09.1946, sendo nulo o "convite" dos interessados somente por edital (art. 11), como decidiu o STF na ADIn 4.264-PE.
+3. Apelação da União/ré desprovida" (fl. 162e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais restaram rejeitados, nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. TAXA DE OCUPAÇÃO DE IMÓVEL LOCALIZADO EM TERRENO DE MARINHA E SEUS ACRESCIDOS. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE.
+1. Não existe omissão, contradição ou obscuridade no acórdão recorrido. A demanda foi julgada procedente pelo vício demarcatório e não por tratar-se apenas de terreno localizado em ilha costeira.
+2. O acórdão embargado não negou o direito de propriedade da União sobre terrenos de marinha/acrescidos, senão a inexigibilidade da taxa de ocupação/laudêmio em virtude de vício no procedimento demarcatório desse terreno, conforme a jurisprudência do STJ e STF.
+3. Embargos declaratórios da União/ré desprovidos" (fl. 175e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta ofensa ao art. 535, II, do CPC/73,"já que o e. TRF da 1ª Região não se Pronunciou a respeito da omissão que foi efetivamente apontada pela União (ausência de análise da eficácia ex nunc da decisão proferida nos autos da ADI 4264, nos termos do art. 11, §1º, da Lei n. 9.868/99, que em razão disso não atingiria as demarcações já realizadas e homologadas antes de 28.03.2011, motivo pelo qual impende ser anulado o referido julgamento a fim de que haja a sua efetiva apreciação" (fls. 181/182e).
+Alega, ainda, a contrariedade ao art. 11, § 1º, da Lei 9.868/99, pois "a medida cautelar concedida na ADI 4264-PE só produz efeitos a partir da data de publicação da Ata de julgamento (sessão 16/03/2011, publicada no Dje de 27/03/2011)" (fl. 184e) e que, "ainda que se aceite a atribuição de efeitos ex tunc à referida medida cautelar, o que se admite apenas para fins de argumentação, tal decisão faria revigorar o art. 11 do Decreto-lei 9.760/46, em sua redação original" (fl. 185e).
+Por fim, requer o provimento do Recurso Especial.
+O Recurso Especial foi inadmitido, pelo Tribunal de origem (fls. 236/237e), o que ensejou a interposição do presente Agravo (fls. 241/252e).
+A irresignação merece acolhida, em parte.
+Quanto ao tema relacionado ao procedimento demarcatório, o acórdão foi assim fundamentado:
+"Existe, portanto, terreno de marinha situado no continente, na costa marítima, e em volta das ilhas costeiras. A demarcação desse terreno exige procedimento próprio previsto no mencionado decreto-lei, sendo nulo o convite" dos interessados somente por edital (art. 11):
+(..)
+É irrelevante que a demarcação do terreno de marinha/acrescido tenha ocorrido antes da vigência da Lei 11.481/2007, que estabeleceu a intimação por edital. Nesse sentido é a jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça: (..)" (fl. 159e).
+Contra esse acórdão, a agravante opôs Embargos de Declaração, sustentando, em síntese, que:
+"Por fim, deixou de ser observado que, no caso, deve ser afastada a aplicação do quanto decidido pelo STF na ADI nº 4264 -PE.
+Isso porque, segundo a Lei 9.868/99, que regula o processo e julgamento da ADI e da ADC, a medida cautelar incidental é dotada de eficácia contra todos e de efeito ex nunc (art. 11, §1º). Assim, a suspensão realizada quanto à nova redação do art. 11 do Decreto-Lei 9.760/96 não atinge as demarcações já realizadas e homologadas antes dessa data, qual seja, 28/03/2011" (fls. 168/169e)
+No entanto, os Embargos de Declaração foram rejeitados, sem que tal questão fosse efetivamente apreciada.
+Assim, não tendo o Tribunal de origem emitido juízo de valor sobre o ponto, tem razão o recorrente, quando alega a existência de omissão no acórdão impugnado, tendo em vista que a questão sobre a qual a Corte de origem não se pronunciou é relevante e tem o condão, caso seja procedente, de alterar o julgamento, e, por conseguinte, a solução inicialmente dada à controvérsia.
+Destarte, resta configurada a violação ao art. 535 do CPC/73 e, assim, a negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.421.705/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/02/2014; REsp 900.238/BA, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJU de 07/05/2007; REsp 1.512.047/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2015.
+Ante o exposto, com fundamento no art. art. 253, parágrafo único, II, c, do RISTJ, conheço do Agravo e dou parcial provimento ao Recurso Especial, para anular o acórdão referente aos Embargos de Declaração, a fim de que o Tribunal de origem se pronuncie, de maneira motivada, com a análise das alegações da agravante.
+I.
