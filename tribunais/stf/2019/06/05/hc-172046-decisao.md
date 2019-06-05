@@ -1,0 +1,15 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 113.017, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso preventivamente, juntamente com outros corréus, pela suposta prática dos crimes previstos no art. 2º, II; art. 4º, I; e art. 12, I, da Lei 8.137/1990; e art. 288 do Código Penal. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de Pernambuco. Denegada a ordem, sobreveio a interposição de recurso ordinário em habeas corpus no Superior Tribunal de Justiça. O Relator, Ministro Antonio Saldanha Palheiro, indeferiu a medida cautelar.
+    3. Neste habeas corpus, a parte impetrante sustenta, em síntese, que “o juízo monocrático, fundamenta a necessidade da prisão cautelar sob o fundamento da garantia da ordem pública, conveniência da instrução criminal e aplicação da lei penal sem qualquer suporte fático e probatório suficiente para legitimar tão gravosa medida”.
+    4. A defesa requer a concessão da ordem a fim de que seja cassado o decreto preventivo.
+    Decido.
+    5. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    6. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As decisões das instâncias precedentes não são teratológicas ou patentemente desfundamentadas, notadamente se se considerar que a orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a necessidade de interromper a atuação de organização criminosa constitui fundamentação idônea para a decretação da custódia preventiva (HC 137.234, Rel. Min. Teori Zavascki; HC 136.298, Rel. Min. Ricardo Lewandowski; HC 136.935-AgR, Rel. Min. Dias Toffoli).
+    7. No caso, dou especial importância aos fundamentos adotados pelo juízo de origem no sentido de que o paciente e demais acusados, “(...) mesmo já respondendo a inúmeras ações penais por práticas similares em Estados diversos e cientes das inúmeras Notificações e Autos de Infração lavrados pela SEFAZ/PE, continuaram a seguir no mesmo sentido. Até agora nada os deteve para mudar o rumo das empresas que representam (…) , o que só será possível com a prisão dos mesmos, para, por ora, retirá-los do meio social onde exercem sua atividade criminosa com habitualidade e relativa tranquilidade, medida indispensável à garantia da ordem pública”.
+    8. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 05 de junho de 2019.
+Ministro Luís Roberto Barroso
+Relator
