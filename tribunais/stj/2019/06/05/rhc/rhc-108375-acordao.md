@@ -1,0 +1,52 @@
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. CRIMES DOS ARTS. 12, CAPUT, DA LEI N.º 10.826/2003 E 33, CAPUT, DA LEI N.º 11.343/2006. PRISÃO PREVENTIVA. REQUISITOS. RISCO CONCRETO DE REITERAÇÃO DELITIVA. ACUSADO QUE SE ENCONTRAVA FORAGIDO DO SISTEMA PENITENCIÁRIO. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. RECURSO DESPROVIDO.
+1. A custódia cautelar foi devidamente fundamentada, nos exatos termos do art. 312 do Código de Processo Penal, em razão do risco concreto de reiteração delitiva, tendo em vista que o Recorrente, segundo afirmado pelas instâncias ordinárias, já foi condenado à pena de 8 (oito) anos de reclusão pela prática do crime de tráfico ilícito de drogas, sendo "recalcitrante na prática de delitos".
+2. Ademais, foi demonstrada a necessidade da segregação provisória para assegurar a aplicação da lei penal, tendo em vista que o Acusado se encontrava foragido do sistema penitenciário.
+3. Recurso ordinário em habeas corpus desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao recurso ordinário, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ZACARIAS NASCIMENTO DOS SANTOS contra acórdão do Tribunal de Justiça do Estado do Piauí proferido no HC n.º 0709838-21.2018.8.18.000.
+O Recorrente - preso em flagrante delito, no dia 27/07/2018, convertida a prisão em preventiva - foi denunciado como incurso nos arts. 12, caput, da Lei n.º 10.826/2003 e 33, caput, da Lei n.º 11.343/2006.
+Segundo consta na denúncia (fl. 44):
+"Os Policiais Civis realizaram uma abordagem na residência do casal vindo a encontraram 09 (nove) munições não deflagradas, calibre 32, marca CBC, 03 (três) aparelhos celulares, 03 (três) relógios de marca Technos, 01 (uma) pulseira de cor dourada, a quantia de R$ 94,00 (noventa e quatro) reais, 01 (UMA) CARTEIRA NACIONAL DE HABILITAÇÃO. COM A FOTOGRAFIA RECORTADA NO NOME DE FRANCISCO ANASTACIO BORGES DE PAIVA (foto anexa), dentre outros objetos (Auto de Apresentação e Apreensão. juntado ao IP).
+O Denunciado foi preso em flagrante e levado a Delegacia local.
+Já no dia 28/08/2018, após tomar conhecimento que o Denunciado havia sido preso, o senhor [NOME], proprietário da residência na qual o Denunciado morava, foi até a Delegacia de Policia pegar a chave da casa que foi alugada para o Denunciado visando limpá-la. Ocorre que no momento em que realizava a faxina na residência, o senhor [NOME] subiu em cima da parede que divide a sala da cozinha e encontrou um buraco que continha algumas trouxas com droga e uma balança de precisão. De imediato o proprietário da residência se deslocou até a Delegacia e narrou o acontecido aos policias.
+Novamente Policiais Civis se deslocaram até a residência que era alugada ao Denunciado e lá foi encontrada escondida 03 (três) trouxas de COCAÍNA (Laudo de Constatação da Natureza e Quantidade da Droga Apreendida, aos fólios retro) e 01 (uma) balança de precisão."
+Inconformada com a segregação cautelar, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Nas razões deste recurso, sustenta-se que não se encontram presentes os requisitos da prisão preventiva previstos no art. 312 do Código de Processo Penal e que o decreto prisional está amparado em fundamentação genérica e abstrata.
+Requer-se, em liminar e no mérito, a expedição de alvará de soltura em favor do Recorrente.
+O pedido liminar foi indeferido nos termos da decisão de fls. 22-24.
+As informações foram prestadas às fls. 130-137.
+O Ministério Público Federal manifestou-se às fls. 139-141, opinando pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. CRIMES DOS ARTS. 12, CAPUT, DA LEI N.º 10.826/2003 E 33, CAPUT, DA LEI N.º 11.343/2006. PRISÃO PREVENTIVA. REQUISITOS. RISCO CONCRETO DE REITERAÇÃO DELITIVA. ACUSADO QUE SE ENCONTRAVA FORAGIDO DO SISTEMA PENITENCIÁRIO. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. RECURSO DESPROVIDO.
+1. A custódia cautelar foi devidamente fundamentada, nos exatos termos do art. 312 do Código de Processo Penal, em razão do risco concreto de reiteração delitiva, tendo em vista que o Recorrente, segundo afirmado pelas instâncias ordinárias, já foi condenado à pena de 8 (oito) anos de reclusão pela prática do crime de tráfico ilícito de drogas, sendo "recalcitrante na prática de delitos".
+2. Ademais, foi demonstrada a necessidade da segregação provisória para assegurar a aplicação da lei penal, tendo em vista que o Acusado se encontrava foragido do sistema penitenciário.
+3. Recurso ordinário em habeas corpus desprovido.
+
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O Juízo de primeiro grau, ao converter a prisão em flagrante em prisão preventiva, consignou que o Recorrente "estava foragido desde o ano de 2016, informação esta obtida da Penintenciaria [NOME], e que seu nome verdadeiro é ZACARIAS NASCIMENTO DOS SANTOS" (fl. 68).
+Ao prestar as informações solicitadas por esta Corte, esclareceu, ainda, que o Recorrente "é uma pessoa que já possui processo de execução penal (0022037-55.2016.8.18.0140) no qual o mesmo é condenado à pena de 8 anos de reclusão em regime inicialmente fechado, pela prática do crime de tráfico de drogas. Ademais, quando o réu foi preso em flagrante era foragido da Colônia Agrícola [NOME] César de Oliveira, conforme mandado de recaptura em anexo" (fl. 132).
+O Tribunal de origem, por sua vez, ao examinar a impetração originária, salientou que " a  garantia da ordem pública se faz necessária, por óbvio porque, como mencionado, o paciente é recalcitrante na prática de delitos. Destaque especial para o fato de que o mesmo estava foragido da aplicação da lei penal após empreender fuga da Penitenciária [NOME] César" (fl. 97; sem grifos no original).
+Como se vê, a custódia cautelar foi devidamente fundamentada, nos exatos termos do art. 312 do Código de Processo Penal, em razão do risco concreto de reiteração delitiva, tendo em vista que o Recorrente, segundo afirmado pelas instâncias ordinárias, já foi condenado à pena de 8 (oito) anos de reclusão pela prática do crime de tráfico ilícito de drogas, sendo "recalcitrante na prática de delitos".
+Ademais, foi demonstrada a necessidade da segregação provisória para assegurar a aplicação da lei penal, tendo em vista que o Acusado se encontrava foragido do sistema penitenciário.
+Por oportuno, confiram-se os seguintes julgados desta Corte Superior:
+"HABEAS CORPUS. RECEPTAÇÃO. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. REITERAÇÃO DELITIVA. FUNDAMENTO VÁLIDO. CONSTRANGIMENTO ILEGAL AUSENTE.
+1. O art. 387, § 1º, do Código de Processo Penal dispõe que o Juiz deve decidir, por ocasião da prolação da sentença, de maneira fundamentada, acerca da manutenção ou, se for o caso, da imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação interposta.
+2. Não há constrangimento ilegal quando a prisão preventiva está devidamente justificada na garantia da ordem pública, em razão da reiteração delitiva.
+3. In casu, as instâncias ordinárias afirmaram que o paciente está preso por outro crime (tráfico de drogas) praticado durante a instrução criminal do delito de receptação. Tal circunstância denota a imperiosidade da prisão preventiva, não havendo ilegalidade a ser suprida.
+4. Estando o paciente a cumprir pena em regime fechado pela prática de outro delito, incabível o pedido de adequação da prisão cautelar no regime semiaberto.
+5. Ordem denegada." (HC 490.826/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/04/2019, DJe 11/04/2019.)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO. PRISÃO PREVENTIVA. DEFICIÊNCIA DE INSTRUÇÃO. VÍTIMA POLICIAL MILITAR DA RESERVA. DELITO PRATICADO, EM TESE, EM COMPANHIA DE MENOR DE IDADE. GRAVIDADE CONCRETA. RECORRENTE OSTENTA MAUS ANTECEDENTES. FORAGIDO EM OUTRO PROCESSO. CONSTRANGIMENTO ILEGAL NÃO CONSTATADO. RECURSO DESPROVIDO.
+1. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico (art. 5º, LXI, LXV e LXVI, da CF). Assim, a medida, embora possível, deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, sendo vedadas considerações abstratas sobre a gravidade do crime.
+2. Hipótese na qual o magistrado singular vinculou parte da fundamentação para a conversão da prisão em flagrante em preventiva ao conteúdo de mídia de gravação da audiência de custódia, cuja transcrição não foi trazida aos autos. Tal circunstância inviabiliza o completo exame do constrangimento ilegal alegado.
+3. Não obstante, segundo se colhe das informações constantes dos autos, o recorrente é acusado de praticar, em companhia de um menor de idade, homicídio de um policial militar da reserva, circunstâncias que revestem o delito de especial gravidade e denotam a necessidade da segregação como forma de garantir a ordem pública. Reforçando tal conclusão, extrai-se que o recorrente responde a outros processos, indicando sua personalidade potencialmente perigosa. A necessidade da prisão é corroborada, ainda, pelo propósito de garantir a aplicação da lei penal, uma vez que, ao ser preso, o recorrente declarou falsamente sua identidade, uma vez que estava foragido do sistema prisional.
+4. Elementos que, em conjunto - e a despeito da deficiência de instrução dos autos - compõem um cenário que afasta a alegação de constrangimento ilegal da segregação.
+5. Recurso desprovido." (RHC 104.776/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/03/2019, DJe 25/03/2019; sem grifos no original.)
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário em habeas corpus.
+É como voto.
