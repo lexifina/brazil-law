@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REPARAÇÃO DE DANOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. JUROS DE MORA E DA CORREÇÃO MONETÁRIA. INCIDÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. ASSISTÊNCIA JUDICIÁRIA GRATUITA. COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA Nº 282 DO STF. JUROS DE MORA SOBRE INDENIZAÇÃO POR DANOS MORAIS. DESISTÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+[NOME] ([NOME]) ajuizou ação de reparação de danos contra TRANSTURISMO REI LTDA. (TRANSTURISMO), alegando que sofreu acidente dentro de ônibus coletivo da TRANSTURISMO, tendo sofrido traumas no joelho e na cabeça.
+TRANSTURISMO requereu a denunciação da NOBRE SEGURADORA DO BRASIL S.A. - EM LIQUIDAÇÃO (NOBRE) à lide, com fundamento em contrato de seguro.
+A sentença julgou improcedente o pedido (e-STJ, fls. 155/158).
+Interposta apelação por [NOME], o Tribunal de origem deu-lhe provimento, em acórdão assim ementado (e-STJ, fl. 193):
+Apelação Cível. Relação de consumo. Contrato de transporte coletivo. Sentença de improcedência. lrresignação da parte autora. Colisão com outro veículo. Lesão temporária de três dias. Prova mínima produzida pela autora quanto às alegações da exordial. Condição de passageira incontroversa. Apresentação de boletim de atendimento médico e de registro de ocorrência. Não apresentação de causa excludente da responsabilidade por parte da ré. Responsabilidade objetiva. Aplicação dos artigos 37, § 6º da CRFB e 14 do CDC. Enunciado sumular n. 187 do STF.
+Chamamento ao processo. Seguradora que responde de forma solidária nos limites da apólice. Cláusula de incolumidade. Falha na prestação do serviço. Ausência de dano material. Dano moral configurado.
+DÁ-SE PROVIMENTO PARCIAL AO RECURSO.
+Os embargos de declaração opostos por NOBRE foram parcialmente acolhidos (e-STJ, fls. 363/369).
+Inconformada, NOBRE interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação dos arts. 98, 99, §2º, 1.022 do NCPC, 18, d e f, da Lei nº 6.024/74, 407 do CC/02 e divergência jurisprudencial, aduzindo, em síntese, que (1) o acórdão recorrido foi omisso; (2) os juros de mora e a correção monetária contra sociedade em liquidação extrajudicial devem ser suspensos até que se mostre viável seu pagamento; (3) NOBRE tem direito à concessão do benefício da assistência judiciária gratuita, por estar em liquidação extrajudicial e comprovar recursos insuficientes para cobrir as custas processuais sem prejuízo dos credores; (4) antes de indeferir o benefício da assistência judiciária gratuita, o Juízo deveria ter oportunizado à NOBRE a juntada de novos documentos; (5) os juros de mora sobre indenização por danos morais incidem a partir da data do arbitramento.
+[NOME] ofereceu contrarrazões (e-STJ, fls. 456/460).
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre ante a ausência de ofensa ao art. 1.022 do NCPC e a incidência das Súmulas nºs 7 e 83 do STJ.
+Dessa decisão, foi interposto o presente agravo em recurso especial, no qual foi refutada a aplicação dos referidos óbices, bem como requerida a desistência do recurso especial quanto ao tópico relativo ao termo inicial dos juros de mora incidentes sobre a indenização por danos morais.
+Foram apresentadas contrarrazões (e-STJ, fls. 560/562).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da negativa de prestação jurisdicional
+Nos termos do art. 1.022 do NCPC, os embargos de declaração se destinam a suprir omissão, esclarecer obscuridade, eliminar contradição ou corrigir erro material existente no julgado, podendo ser-lhes atribuídos, excepcionalmente, efeitos infringentes quando algum desses vícios for reconhecido.
+No caso, não existe nenhum dos vícios do referido dispositivo legal, tendo a NOBRE apenas manifestado o inconformismo quanto ao entendimento delineado no acórdão embargado, revestindo-se a pretensão de caráter manifestamente infringente, o que não se coaduna com a medida integrativa dos embargos de declaração.
+Dessa forma, não houve a omissão aduzida pela NOBRE, pois as questões submetidas ao Tribunal de Justiça local foram fundamentadamente examinadas, não merecendo censura o acórdão que rejeitou os embargos em razão da inexistência dos vícios do art. 1.022 do NCPC.
+(2) Da suspensão dos juros de mora e da correção monetária
+NOBRE aduziu que os juros moratórios e a correção monetária permanecem suspensos até que seu pagamento mostre-se viável pela sociedade em liquidação extrajudicial.
+Todavia, o acórdão recorrido alinhou-se ao entendimento do STJ no sentido de que a suspensão das ações ajuizadas contra as entidades sob o regime de liquidação extrajudicial não alcança as ações de conhecimento, não impedindo a incidência de juros de mora e correção monetária.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A jurisprudência desta Corte firmou o entendimento de que a suspensão de ações ajuizadas em desfavor de entidades sob regime de liquidação extrajudicial não alcança as ações de conhecimento voltadas à obtenção de provimento judicial relativo à certeza e liquidez do crédito, bem assim que tal condição não impede a incidência de juros e correção monetária. Incidência da Súmula 83 do STJ.
+2. Preenchimento dos requisitos elencados no julgamento dos EDcl no AgInt no REsp 1.573.573/RJ, para fins de arbitramento de honorários advocatícios recursais, previstos art. 85, § 11, do NCPC.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.064.199/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 16/10/2018, DJe 23/10/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DO PROCESSO. AÇÃO DE CONHECIMENTO. INAPLICABILIDADE. FORMAÇÃO DO TÍTULO EXECUTIVO. AUSÊNCIA DE REPERCUSSÃO PATRIMONIAL. PEDIDO DE GRATUIDADE DA JUSTIÇA. ART. 98 DO CPC/2015. BENEFÍCIO DEFERIDO. SÚMULA 481/STJ. CIVIL. CONTRATO DE SEGURO. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE CIVIL. COBERTURA POR DANOS CORPORAIS OU PESSOAIS. DANOS MORAIS. ABRANGÊNCIA. AUSÊNCIA DE EXCLUSÃO EXPRESSA. SÚMULA 402/STJ. ACÓRDÃO IMPUGNADO QUE SE ENCONTRA EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. INCIDÊNCIA. ADEMAIS, SUBSISTE FUNDAMENTO APTO A MANTER A CONCLUSÃO DO ARESTO IMPUGNADO. SÚMULA 283/STF. ANALOGIA. AGRAVO DESPROVIDO, COM O INDEFERIMENTO DO PEDIDO DE SUSPENSÃO DO PROCESSO E DEFERIMENTO DO PEDIDO DE GRATUIDADE DE JUSTIÇA.
+(AgInt no AREsp 860.519/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 22/8/2017, DJe 6/9/2017)
+Ademais, eventual benefício em razão da liquidação extrajudicial da devedora deve ser arguida por ela no momento processual oportuno, qual seja, em eventual execução proposta contra si (AResp nº 1.144.550/RJ, Rel. Ministro Marco Aurélio Bellizze, in DJ 4/10/2017 e REsp nº 1.649.348/GO, Rel. Ministro Raul Araújo, in DJ 07/03/2017).
+Dessarte, não merece reforma o acórdão recorrido.
+(3) e (4) Do benefício da assistência judiciária gratuita
+O acórdão recorrido concluiu que NOBRE "não trouxe qualquer prova hábil a demonstrar o alegado estado de miserabilidade" (e-STJ, fl. 367).
+Nessa linha, alterar a conclusão do Tribunal a quo, para reconhecer que NOBRE demonstrou sua falta de condições de arcar com as custas processuais, ensejaria indevida incursão fático-probatória, em manifesta ofensa ao disposto na Súmula nº 7 do STJ.
+No que se refere à impossibilidade de indeferimento do benefício de plano, verifica-se que a questão não foi objeto de debate no Tribunal de origem, o que evidencia a ausência de prequestionamento, a atrair o óbice da Súmula nº 282 do STF, visto que os embargos de declaração opostos por NOBRE não deduziram tal alegação.
+(5) Do termo inicial dos juros moratórios sobre a indenização por danos morais
+O capítulo do recurso especial relativo ao termo inicial dos juros de mora sobre a indenização por danos morais foi objeto de expressa desistência no agravo em recurso especial, motivo pelo qual sua análise fica prejudicada.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
