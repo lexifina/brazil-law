@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Estado do Rio Grande do Sul, contra decisão de fls. 294/298, pela qual foi determinado o retorno dos autos ao Tribunal de origem do recurso especial da ora embargada, para que seja exercido o juízo de conformação do julgado recorrido com o entendimento do Superior Tribunal de Justiça, pacificado por meio de julgamento sob o rito dos recursos repetitivos, REsp 1.106.462/SP, Tema 183/STJ, o qual trata das hipóteses de incidência do ICMS no caso de venda a prazo e venda financiada por intermédio de instituição financeira ou por meio de cartão de crédito.
+Aponta o embargante que o referido precedente não seria aplicável ao caso concreto, no qual se enfrenta a incidência ou não de ICMS sobre taxa de administração cobrada pela operadora de cartão de crédito do vendedor contribuinte.
+Impugnação às fls. 302/305.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1022 do CPC/15, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão.
+Com efeito, extrai-se que a hipótese dos autos se amolda à enfrentada no REsp 1.106.462/SP, Tema 183/STJ. Tanto é assim, que a Primeira Turma, ao julgar o AgRg no REsp 1.375.913/DF, com amparo no precedente já mencionado, decidiu a celeuma acerca da incidência de ICMS sobre taxa de administração. (AgRg no REsp 1375913/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 27/02/2018, DJe 07/03/2018).
+Nesse caso, deve o Tribunal de origem, conforme explicitado na decisão ora embargada, rejulgar a apelação, com base no entendimento firmado no REsp 1.106.462/SP, Tema 183/STJ, para que, em seguida, seja negado seguimento ao recurso especial.
+Como se vê, não se observa a omissão no julgado embargado capaz de abrir pórtico para o cabimento dos embargos aclaratórios. Aliás, da própria fundamentação do recurso aclaratório apresentado pelo embargante, vê-se que sua intenção é apontar a existência de error in judicando, propósito esse incompatível com a via integrativa.
+Assim, inexistente qualquer obscuridade, contradição, erro material ou omissão no julgado embargado, conforme exige o art. 1.022 do Novo CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se.
