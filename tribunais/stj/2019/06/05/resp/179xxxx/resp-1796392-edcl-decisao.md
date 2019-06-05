@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CABIMENTO: OCORRÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA DE VÍCIO NA DECISÃO EMBARGADA. EMBARGOS REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração (fls. 138/153) apresentados contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. EXTINÇÃO PARCIAL DO CRÉDITO TRIBUTÁRIO. POSSIBILIDADE DE FIXAÇÃO DEFINITIVA DA VERBA HONORÁRIA NOS EMBARGOS DO DEVEDOR. PRETENSÃO DE NOVOS HONORÁRIOS NA EXECUÇÃO FISCAL. NÃO CABIMENTO. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+Os embargantes aduzem, em síntese, que: a) opostos embargos à execução, "lograram êxito em reduzir a execução em quase 95%", mas não foi fixada qualquer verba honorária no feito executivo propriamente dito, o que deveria ter sido feito, "considerando a vantagem econômica obtida" (fl. 141); b) "os julgados nos quais se lastrearam a decisão  ora embargada  são julgados que remontam ao antigo Código de Processo Civil, em que a regra de fixação era diferente, não existindo a clareza do "caput" do art. 85 do atual diploma" (fl. 142), resultando daí contradição; c) a decisão embargada omitiu-se em relação à incidência do art. 85, § 1º, do CPC/2015, "que dispõe acerca da autonomia das ações (execução fiscal e embargos à execução) e dos honorários" (fl. 142); d) obscuro o decisum, "porque mencionou que, ao fixar a verba honorária nos embargos à execução foram considerados pelo julgador ambos os processos (execução fiscal e embargos à execução), quando isso não existiu" (fl. 142); e) "totalmente possível a cumulação da condenação em honorários advocatícios arbitrados em sede dos embargos e na ação de execução, sendo cada um processo distinto que deve receber fixação de honorários de modo distinto" (fl. 143); e f) "mostra-se omissa a r. decisão, eis que não analisou o dissídio jurisprudencial apresentado" (fl. 149).
+Requerem sejam acolhidos os embargos.
+Não houve apresentação de impugnação pela embargada.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A decisão embargada não se ressente do vício arguido.
+Relativamente ao ponto abordado pelos embargantes, o decisum em foco registrou o seguinte (fls. 134/135):
+"(..) a Corte Especial deste Superior Tribunal de Justiça já se pronunciou diversas vezes acerca da possibilidade de cumulação dos honorários advocatícios fixados na execução fiscal e nos embargos à execução, podendo a sucumbência final ser determinada definitivamente pela sentença da última ação, desde que se estipule que o valor fixado atenda a ambas as demandas.
+(..)
+No presente caso, verifica-se que efetivamente o acórdão recorrido, ao arbitrar verba honorária única, levou em consideração ambas as demandas, execução fiscal e embargos à execução, com se percebe à fls. 26/27, o que permite concluir pela impossibilidade, no caso concreto, de cumulação, (..)
+Outrossim, para fins de comprovação do dissídio jurisprudencial, é necessária a demonstração tanto da similitude fática quanto da identidade jurídica entre o acórdão embargado e os paradigmas apontados, o que não se mostra ocorrente na hipótese vertente." (grifos no original)
+Como se constata, a decisão embargada contém fundamentação suficiente para demonstrar a possibilidade de cumulação dos honorários advocatícios fixados na execução fiscal e nos embargos à execução, à luz do art. 85, § 1º, do CPC/2015. Assim, ainda que os precedentes ali colacionados digam respeito ao CPC/1973, o entendimento, no sentido de que a sucumbência final pode ser determinada definitivamente pela sentença dos embargos do devedor, prevalece mesmo na vigência do novel diploma processual civil.
+Desse modo, a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Nesse sentido, o entendimento firmado sob a égide do CPC/1973, mas inteiramente aplicável ao caso em comento: EDcl no AgRg no Ag 538.371/PR, 3ª Turma, Rel. Min. Nancy Andrighi, DJ de 24.5.2004; EDcl no AgRg no REsp 550.972/PR, 1ª Turma, Rel. Min. Luiz Fux, DJ de 24.5.2004.
+Com efeito, os embargantes objetivam apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que é inviável em sede de embargos de declaração. Registre-se que os aclaratórios não se prestam a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso.
+Sobre o tema, os seguintes precedentes desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. INEXISTÊNCIA.
+1. "A contradição que dá ensejo aos embargos de declaração é a interna, ou seja, aquela que se verifica entre as premissas ou entre estas e a conclusão do julgado embargado" (EDcl nos EDcl no AgRg nos EDcl no REsp n. 790.903/RJ).
+2. Agravo regimental desprovido.
+(EDcl no AREsp 22.011/GO, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/04/2015, DJe 23/04/2015)
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada a controvérsia.
+2. O embargante, inconformado, busca com a oposição destes embargos declaratórios ver reapreciada e decidida a controvérsia de acordo com sua tese. Todavia, não é possível dar efeitos infringentes aos aclaratórios sem a demonstração de eventual vício ou teratologia. Embargos de declaração rejeitados.
+3. Não prosperam os aclaratórios quanto ao pretendido prequestionamento de dispositivos constitucionais, pois não cabe ao Superior Tribunal de Justiça examinar na via especial, a título de prequestionamento, eventual violação de dispositivo constitucional, por ser tarefa reservada pela Constituição da República ao Supremo Tribunal Federal.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 557.772/MG, 2ª Turma, Rel. Ministro Humberto Martins, DJe 03/02/2015)
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
