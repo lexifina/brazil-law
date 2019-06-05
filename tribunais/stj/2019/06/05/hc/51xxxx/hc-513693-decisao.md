@@ -1,0 +1,35 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE RECONHECIMENTO DE NULIDADE. DESCLASSIFICAÇÃO PARA O DELITO DO ART. 28 DA LEI N. 11.343/2006. IMPOSSIBILIDADE DE REEXAME APROFUNDADO DO ACERVO FÁTICO-PROBATÓRIO. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. EXISTÊNCIA. POSSIBILIDADE DE DETERMINAÇÃO DA EXECUÇÃO PROVISÓRIA DA PENA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro, que negou provimento à apelação defensiva, mantendo a sentença condenatória, com determinação da execução provisória da reprimenda imposta (Apelação Ciminal n. 0002475-05.2017.8.19.0041).
+Alega o impetrante constrangimento ilegal consistente em nulidade decorrente da ausência do laudo de constatação definitivo, bem como em que o paciente foi cerceado de produzir prova. Quanto ao cerceamento, aduz, em síntese (fl. 7):
+Por derradeiro, insta mencionar que os agentes policiais estiveram somente uma vez na residência do paciente, não conseguiram filmar nenhuma entrega efetiva de drogas por parte do mesmo, aliás, há depoimento da testemunha MARCELLO MARTINS DA ROCHA que depõem ao contrário da tese acusatória que se sagrou vencedora até agora nos julgados em comento (anexada aos presentes autos).
+Lado outro, as Câmeras de filmagem do paciente que filmavam toda movimentação em seu comercio, entrada e saída foram totalmente danificadas pelos agentes responsáveis pela operação ao invés de serem apreendidas e levadas aos autos pelos mesmos.
+Sustenta que o paciente é primário e possuidor de bons antecedentes, não estando presentes os requisitos para a prisão preventiva. Aponta não ser o caso de tráfico de drogas, já que a quantidade de entorpecentes apreendida não indica a traficância, mas sim a condição de usuário, requerendo o relaxamento da prisão.
+Além disso, afirma que foi interposto Recurso Especial, pendente de juízo de admissibilidade.
+Postula, ao final, a concessão da ordem para reconhecer a nulidade do procedimento e para que seja revogada a prisão preventiva.
+É o relatório.
+O presente writ não comporta processamento.
+De início, porque o Tribunal de origem ressaltou, ao julgar os Embargos de Declaração, a existência do laudo de constatação definitivo a embasar a condenação pelo tráfico de drogas, mencionando, além do indexador na origem, o fato de o próprio laudo definitivo apontar em seu corpo o número do laudo prévio.
+Ademais, a ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, restringindo-se a questões de direito que não demandem incursão no acervo probatório constante de ação penal.
+No caso, não se está diante da alegada manifesta ilegalidade. As questões apontadas pelo impetrante, pretendendo desclassificar a conduta de tráfico para a prevista no art. 28 da Lei n. 11.343/2006, bem como o alegado cerceamento de defesa, em que objetiva atribuir aos policiais a responsabilidade por danificar os equipamentos de filmagem do estabelecimento, demandariam, necessariamente, exame profundo do conjunto fático-probatório que deu ensejo à condenação na ação penal em questão, o que, como é sabido, não se coaduna com a via estreita do writ. A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADMISSIBILIDADE. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PEDIDO DE ABSOLVIÇÃO. PROFUNDO REEXAME DE PROVA. IMPOSSIBILIDADE.
+ ..
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça não têm mais admitido o habeas corpus como sucedâneo do meio processual adequado, seja o recurso ou a revisão criminal, salvo em situações excepcionais (HC n. 109.956/PR, Primeira Turma, Ministro Marco Aurélio, DJe 11/9/2012; HC n. 104.045/RJ, Primeira Turma, Ministra Rosa Weber, DJe 6/9/2012; HC n. 114.924/RJ, Ministro Dias Toffoli, DJe 28/8/2012; e HC n. 146.933/MS, Sexta Turma, Ministra Maria Thereza de Assis Moura, DJe 17/11/2011).
+2. Diz a jurisprudência também que o habeas corpus não é o instrumento processual adequado para a operação do revolvimento aprofundado de elementos probatórios. A impropriedade da via se avulta quando o objetivo colimado é o de justamente desconstituir o acervo probatório coligido em processo criminal, e exposto por meio de decisão judicial fundamentada como suficiente a amparar a condenação (HC n. 191.444/PB, Ministro Og Fernandes, Sexta Turma, DJe 19/9/2011).
+3. Quando manifesta a ilegalidade ou sendo teratológica a decisão apontada como coatora, situação verificada de plano, admite-se a impetração do mandamus diretamente nesta Corte para se evitar o constrangimento ilegal imposto ao paciente.
+4.  ..
+5.  ..
+6. Writ não conhecido. Ordem concedida de ofício, tão somente para afastar do cálculo da pena-base as consequências do crime, redimensionando-se a pena para 6 anos e 8 meses de reclusão, em regime inicial semiaberto, mantido, no mais, o acórdão impugnado.
+(HC n. 267.333/PE, de minha Relatoria, Sexta Turma, DJe 12/9/2013)
+Ressalte-se, ainda, que o crime de tráfico de drogas é tipo misto alternativo, bastando para a consumação que o agente pratique um dos vários verbos nucleares do caput do art. 33 da Lei n. 11.343/2006, de forma que, diversamente do que sustenta o impetrante, não há necessidade de que o agente seja flagrado entregando a droga. Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. MANDADO DE BUSCA E APREENSÃO. NULIDADE. NÃO OCORRÊNCIA. HIPÓTESE DE FLAGRANTE EM CRIMES PERMANENTES. DESNECESSIDADE DE MANDADO DE BUSCA E APREENSÃO OU AUTORIZAÇÃO. (ART. 5º, XI, CF). PRECEDENTES. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA A INFRAÇÃO PENAL SUI GENERIS DO ARTIGO 28 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. REVISÃO DE PROVAS. MERCANCIA. PRESCINDIBILIDADE. TIPO MISTO ALTERNATIVO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Inviável a reversão do julgado quanto à condenação do paciente pelo crime de tráfico de drogas, pois, para tanto, seria necessário o revolvimento das provas dos autos, providência não admitida na via estreita do mandamus.
+4. O crime de tráfico de drogas é tipo misto alternativo restando consumado quando o agente pratica um dos vários verbos nucleares inserido no artigo 33, caput, da Lei n. 11.343/2006, sendo a venda prescindível ao seu reconhecimento.
+5. Habeas Corpus não conhecido.
+(HC n. 382.306/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 10/2/2017)
+Por fim, este Superior Tribunal, na linha do entendimento do Supremo Tribunal Federal, firmado no dia 5/10/2016 (ADC MC/DF n. 43 e ADC MC/DF n. 44), possui orientação no sentido de que é possível a execução provisória da pena após o julgamento em segunda instância. E, a hipótese dos autos, diversamente do que afirma a defesa, não é de decretação de prisão preventiva, mas sim de execução provisória, após o julgamento em segunda instância, conforme se vê da leitura do acórdão de fls. 41/57.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o writ.
+Publique-se.
