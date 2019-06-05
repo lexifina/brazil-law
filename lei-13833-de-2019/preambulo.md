@@ -1,0 +1,2 @@
+Dispõe sobre a transferência, da União para o Distrito Federal, da Junta Comercial do Distrito Federal e das atividades de registro público de empresas mercantis e atividades afins no Distrito Federal; e altera a Lei nº 8.934, de 18 de novembro de 1994, que dispõe sobre o registro público de empresas mercantis e atividades afins.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
