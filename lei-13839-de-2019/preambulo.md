@@ -1,0 +1,2 @@
+Altera a Lei nº 11.346, de 15 de setembro de 2006, para prever, no conceito de segurança alimentar e nutricional, a ampliação das condições de acesso aos alimentos por meio das medidas que mitiguem o risco de escassez de água potável, bem como a formação de estoques reguladores e estratégicos de alimentos.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
