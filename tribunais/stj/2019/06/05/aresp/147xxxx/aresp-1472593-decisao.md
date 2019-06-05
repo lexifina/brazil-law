@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO MONITÓRIA. EMBARGOS À MONITÓRIA. AGRAVO QUE NÃO INFIRMA FUNDAMENTO DA DECISÃO AGRAVADA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+COOPERATIVA DE CRÉDITO, POUPANÇA E INVESTIMENTO UNIÃO PARANÁ/SÃO PAULO - SICREDI UNIÃO PR/SP (SICREDI) ajuizou ação monitória fundada em cédula de crédito bancário em desfavor de [NOME] ([NOME]), que opôs embargos à monitória, alegando vícios em cédula de crédito rural que deu origem à cédula de crédito bancário, notadamente quanto aos juros remuneratórios e à capitalização de juros, requerendo a prorrogação compulsória da dívida, por problemas relativos à lavoura.
+A sentença julgou parcialmente procedente o pedido, constituindo, de pleno direito, o título executivo judicial, com a obrigação imposta a [NOME] de pagar a quantia a ser apurada na fase de cumprimento de sentença, declarando a nulidade da cobrança de juros remuneratórios superiores à taxa anual de 12% e expurgando encargos da mora (e-STJ, fls. 326/337).
+Interpostas apelações por SICREDI e [NOME], o Tribunal de origem negou-lhes provimento, em acórdão assim ementado (e-STJ, fls. 461/462):
+Embargos à monitória - Cédula de crédito bancário e aditivo com garantia hipotecária.
+1. Assistência judiciária gratuita - Suficiência, num primeiro momento, da afirmação (de pessoa física) de inexistência de condições de suportabilidade das despesas processuais sem prejuízo próprio ou da família, para obtenção do benefício, que antes de tudo é direito fundamental do cidadão, assegurado pela Constituição da República - CPC, art. 99, § 3.º - Presunção de veracidade da afirmação de hipossuficiência que pode ser afastada quando existam nos autos elementos que evidenciem a falta dos pressupostos legais - CPC, art. 99, § 2.º - Hipótese dos autos, contudo, em que inexiste elemento capaz de afastar tal presunção - Concessão da benesse constitucional, a partir deste momento procedimental.
+2. Pretensão de reconhecimento da inaplicabilidade do Código de Defesa do Consumidor ao caso e de descabimento da inversão do ônus da prova - Questão resolvida em decisão anterior, sem que houvesse interposição de recurso a respeito - Preclusão temporal - CPC, art. 507.
+3. Título que ampara a ação monitória emitido para quitação de saldo devedor decorrente de crédito rural - Necessidade, então, de aplicação da legislação especial atinente ao crédito rural quanto à incidência dos encargos, sob pena de caracterização de desvio de finalidade - Precedentes desta Corte.
+4. Prorrogação do prazo para adimplemento da obrigação - Impossibilidade - Não preenchimento dos requisitos dispostos no artigo 14 da Lei n.º 4.829/1965, no artigo 5.º da Lei n.º 9.138/1995, no Capítulo 2, Seção 6, item 9, do Manual de Crédito Rural e na Resolução n.º 3.772/2009 do Banco Central do Brasil - Ausência de requerimento e recusa da instituição financeira - Requisito indispensável para o deferimento judicial desse benefício - Precedentes desta Corte de Justiça.
+5. Taxa de juros remuneratórios - Limitação em 12% ao ano - Possibilidade, por se tratar de crédito rural - Omissão do Conselho Monetário Nacional - Decreto-lei n.º 467/1967, art. 5.º, caput - Observância, portanto, da Lei de Usura (Decreto n.º 22.626/33) - Inaplicabilidade da súmula 596 do Supremo Tribunal Federal na espécie - Irrelevância, ademais, do fato de o crédito estar amparado em recursos não controlados.
+6. Descaracterização da mora - Possibilidade - Cobrança de encargos abusivos no período de normalidade contratual evidenciada - Entendimento firmado pelo Superior Tribunal de Justiça em incidente de recurso repetitivo no REsp 1061530-RS.
+7. Ônus sucumbenciais - Resultado do julgamento que não enseja sua redistribuição.
+8. Sucumbência recursal - Ocorrência de sucumbimento recíproco no âmbito recursal - Fixação da verba honorária recursal, considerando o êxito obtido pelas partes, individualmente, em grau recursal - CPC, art. 85, § 11.
+9. Benefício da gratuidade processual concedido à parte ré- embargante e recurso de apelação por ela interposto desprovido; apelação da autora-embargada parcialmente conhecida, e na parte conhecida, desprovida.
+Inconformado, [NOME] interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação do art. 14 da Lei nº 4.829/65 e divergência jurisprudencial, aduzindo, em síntese, que tem direito à prorrogação compulsória da dívida, em virtude da frustração de safra, não se exigindo prévio requerimento administrativo.
+SICREDI ofereceu contrarrazões (e-STJ, fls. 555/563).
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre ante a incidência das Súmulas nºs 7 e 83 do STJ. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Não foram apresentadas contrarrazões.
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da impugnação aos fundamentos da decisão agravada
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observa-se que o inconformismo não se dirigiu de forma específica contra todos os fundamentos da decisão agravada, pois [NOME] não infirmou, de forma arrazoada, a incidência da Súmula nº 83 do STJ.
+Como se sabe, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula nº 83 do STJ, deve o agravante não apenas mencionar que o referido enunciado deve ser afastado, mas indicar precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual (AgRg no AREsp nº 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+Nesse contexto, tendo sido apresentado em desacordo com os requisitos do art. 932, III, do NCPC, o recurso não se mostra viável.
+A propósito, cita-se o seguinte precedente:
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.  ..
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 27/5/2016)
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
