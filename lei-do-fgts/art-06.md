@@ -1,4 +1,4 @@
-Art. 6º Ao Ministério das Cidades, na qualidade de gestor da aplicação do FGTS, compete:
+Art. 6º Ao Ministério das Cidades, na qualidade de gestor da a.plicação do FGTS, compete:
 I - praticar todos os atos necessários à gestão da aplicação do Fundo, de acordo com as diretrizes e programas estabelecidos pelo Conselho Curador;
 II - expedir atos normativos relativos à alocação dos recursos para implementação dos programas aprovados pelo Conselho Curador;
 III - elaborar orçamentos anuais e planos plurianuais de aplicação dos recursos, discriminando-os por Unidade da Federação, submetendo-os até 31 de julho ao Conselho Curador do Fundo;
