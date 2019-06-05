@@ -1,0 +1,22 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. SUSPENSÃO CONDICIONAL DO PROCESSO. DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS DURANTE O PERÍODO DE PROVA. FATOS OCORRIDOS DURANTE SUA VIGÊNCIA. REVOGAÇÃO DO BENEFÍCIO, MESMO QUE ULTRAPASSADO O PRAZO LEGAL. POSSIBILIDADE. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA N. 1.498.034/RS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso em habeas corpus a que se nega seguimento.
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME] contra o acórdão proferido pelo Tribunal de Justiça de São Paulo, que denegou a ordem em writ ali impetrado (fls. 103/111 - Habeas Corpus Criminal n. 2031728-64.2019.8.26.000), mantendo decisão do Juízo de Direito da 2ª Vara Criminal da comarca de Bragança Paulista/SP, que revogou o benefício da suspensão processual concedido ao recorrente (fls. 141/143 - Ação Penal n. 3006783-97.2013.8.26.0099).
+No presente recurso, sustenta-se que, denunciado por estelionato, o recorrente aceitou a proposta de Suspensão Condicional do Processo pelo prazo de dois (2) anos, proposta essa homologada em 27 de julho de 2015. Em 30 de julho de 2018, embora superado o prazo acordado, o Representante do Ministério Público requereu a revogação do benefício, porque o Recorrente teria descumprido obrigação imposta e teria sido denunciado criminalmente no período de prova. Em 18 de setembro de 2018, a autoridade coatora deferiu o Pedido do Ministério Público. Não podia tê-lo deferido, todavia, uma vez que ultrapassado o período da Suspensão Condicional do Processo, já não era mais possível revogá-la, só restando à Autoridade Coatora a declaração da extinção da punibilidade do recorrente (fl. 121).
+Postula-se, então, a concessão liminar da ordem para cassar a decisão que revogou a suspensão condicional do processo, com a consequente declaração de extinção da punibilidade do recorrente (fl. 124).
+É o relatório.
+Busca o recurso cassar a revogação da suspensão processual concedida ao recorrente, ao argumento de que foi ultrapassado o período de prova.
+Inicialmente, tem-se que o Juízo de primeiro grau revogou o benefício aos seguintes fundamentos (fl. 142):
+O processo encontra-se formalmente perfeito.
+Ocorre que, no presente feito, após o término do período de prova, juntou- se F.A. e certidões atualizadas, constatando-se que o acusado sofreu denúncias por outros delitos, durante o lapso temporal, uma vez que o benefício foi aceito aos 27 de julho de 2015 e o réu processado aos 23/11/2015 (autos 0003411-63.2015.8.26.0022) e 08/04/2016 (autos 3008101-18.2013.8.26.0099), fatos que ensejam a revogação do benefício concedido.
+Dispõe, o artigo 89, § 3º: "A suspensão será revogada se, no curso do prazo, o beneficiário vier a ser processado por outro crime ou não efetuar, sem motivo justificado, a reparação do dano".
+ ..
+Pelo exposto, e considerando o mais que dos autos consta, REVOGO o benefício da suspensão processual concedida ao réu [NOME] [NOME], nos termos do Art. 89, § 4º da Lei n. 9.099/1995. Anote e comunique o necessário.
+Por sua vez, a Corte local denegou a ordem no writ ali impetrado, assentando que, tendo sido o paciente denunciado por outro delito durante o período de prova do sursis processual, correta a revogação do benefício, mesmo depois de ultrapassado o prazo legal, tornando inviável o almejado reconhecimento da extinção da punibilidade (fl. 110).
+Da análise dos autos, tem-se que a suspensão processual ocorreu em 27/7/2015 e o recorrente foi processado em 23/11/2015 e 8/4/2016.
+Então, quanto ao tema da pretensão mandamental, a Suprema Corte estabeleceu que o benefício da suspensão condicional do processo pode ser revogado após o período de prova, desde que os fatos que ensejaram a revogação tenham ocorrido antes do término deste período (STF: HC n. 103.706, Ministro Ricardo Lewandowski, Primeira Turma, DJe 30/11/2010).
+Ademais, esta Corte Superior, em julgamento representativo da controvérsia, firmou a seguinte tese: se descumpridas as condições impostas durante o período de prova da suspensão condicional do processo, o benefício poderá ser revogado, mesmo se já ultrapassado o prazo legal, desde que referente a fato ocorrido durante sua vigência (REsp n. 1.498.034/RS, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 2/12/2015).
+Conclui-se, então, que o recurso não evidenciou o alegado constrangimento, pois não ficou demonstrada a ilegalidade no acórdão ora hostilizado.
+Em razão disso, nego seguimento ao presente recurso em habeas corpus.
+Publique-se.
