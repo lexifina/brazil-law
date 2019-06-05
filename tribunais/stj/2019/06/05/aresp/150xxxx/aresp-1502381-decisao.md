@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu seu Recurso Especial interposto contra acórdão assim ementado:
+"DIREITO PROCESSUAL CIVIL. PREVIDENCIÁRIO. TEMPO DE LABOR RURAL E URBANO. APOSENTADORIA POR IDADE HÍBRIDA. REQUISITOS LEGAIS PREENCHIDOS.
+I - O trabalhador tem direito a se aposentar com as idades citadas no § 3º do art. 48 da Lei 8.213/1991, qual seja, 60 (sessenta) anos, se mulher, e 65 (sessenta e cinco) anos, se homem, desde que cumprida a carência prevista no art. 142 do referido texto legal, com a utilização de labor urbano ou rural, independentemente da predominância do labor exercido no período de carência ou no momento do requerimento administrativo ou, ainda, no implemento do requisito etário.
+II - Tempo de labor rural reconhecido em sentença, o qual somado ao tempo de labor urbano e contribuições previdenciárias supera a carência prevista para concessão do beneficio de aposentadoria por idade.
+III -A data de início do beneficio é, por força do inciso II, do artigo 49 combinado com o artigo 54, ambos da Lei nº 8.213/91, a data da entrada do requerimento e, na ausência deste ou em caso da não apresentação dos documentos quando do requerimento administrativo, será fixado na data da citação do INSS.
+IV - Os juros de mora são devidos a partir da citação na ordem de 6% (seis por cento) ao ano, até a entrada em vigor da Lei nº 10.406/02, após, à razão de 1% ao mês, consonante com o art. 406 do Código Civil e, a partir da vigência da Lei nº 11.960/2009 (art. 1º-F da Lei 9.494/1997), calculados nos termos deste diploma legal.
+V - A correção monetária deve ser aplicada em conformidade com a Lei n. 6.899/81 e legislação superveniente (conforme o Manual de Cálculos da Justiça Federal), observados os termos da decisão final no julgamento do RE n. 870.947, Rel. Min. Luiz Fux.
+VI - Os honorários advocatícios deverão ser fixados na liquidação do julgado, nos termos do inciso II, do § 4º, c.c. § 11, do artigo 85, do CPC/2015.
+VII - Apelação do autor provida" (fls. 123/124e).
+Opostos Embargos de Declaração, foram rejeitados, nestes termos:
+"PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO/OBSCURIDADE/CONTRADIÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1- Inexistência de obscuridade, contradição ou omissão na decisão embargada.
+2 - inadmissibilidade de reexame da causa por meio de embargos de declaração para conformar o julgado ao entendimento da parte embargante. Caráter nitidamente infringente.
+3 - Embargos de declaração rejeitados" (fl. 144e).
+Sustenta a parte ora agravante, nas razões do Recurso Especial, fundamentado na alínea a do permissivo constitucional, contrariedade aos arts. 2º, 141, 492 do CPC/2015, 25, II, 48, § 3º, 55, § 2º, 142 e 143 da Lei 8.213/91.
+Sem contrarrazões, o Recurso Especial foi inadmitido, na origem, advindo o presente Agravo.
+Não foi apresentada contraminuta.
+A parte agravante, em suas razões, afirma:
+"Trata-se de ação pela qual a parte Autora visa ao reconhecimento de tempo de serviço rural sem recolhimento das contribuições, cumulada com concessão de beneficio aposentadoria por idade.
+O E. Tribunal a quo reconheceu o trabalho rural do autor apenas até 1967, quando reconheceu que abandonou o campo, concedendo-se aposentadoria por idade nos termos do artigo 48, parágrafos 3º e 4º, da Lei 8.213/91.
+Foram opostos embargos declaratórios, porém estes também foram rejeitados.
+Inconformado, o Instituto interpôs Recurso Especial, com fundamento no artigo 105, inciso III, letra "a", da Constituição Federal, por violação aos artigos 48 e §§, e 143 da Lei 8.213/91, uma vez que o beneficio em questão somente deveria ser concedido ao trabalhador RURAL. E o autor é trabalhador URBANO desde 1967, pelo menos, tal como reconhece o V.
+Acórdão, que também destaca que o mesmo atingiu 65 anos de idade apenas em 1995.
+No entanto, o I. Doutor Desembargador Vice-Presidente do E. Tribunal Regional Federal da Terceira Região inadmitiu o Recurso Especial interposto, com base supostamente na Súmula 83 do Colendo STJ, citando, para tanto, julgados no mesmo sentido do Acórdão guerreado.
+Contudo, tal decisão não pode prosperar.
+Sem razão, no entanto.
+De fato, não estando a questão discutida nos autos pacificada nas instâncias extraordinárias, há que se admitir o recurso interposto e garantir, assim, a análise do mérito pelo juiz natural, no caso, o C. STJ, conforme competência fixada na Constituição Federal de 1988.
+Ainda, consoante a melhor doutrina, o direito de recurso se configura como extensão do direito de ação, inafastável o paralelo entre os requisitos necessários ao exercício do direito de ação (condições da ação) e requisitos necessários ao julgamento do recurso; vale dizer, assim como o exercício do direito de ação está condicionado à existência de certos requisitos, cuja ausência impede o conhecimento do mérito, o exercício do direito de recurso também deverá observar certas condições, sem as quais não será apreciado.
+"A atividade através da qual o juiz ou Tribunal verifica se encontram-se ou não preenchidos tais requisitos é denominada juízo de admissibilidade dos recursos. Presentes tais requisitos, o órgão poderá, então, apreciar a pretensão recursal, dando ou negando provimento ao recurso. Ao fazê-lo, realiza o juízo de mérito do recurso." Com efeito, distintos os juízos de admissibilidade do recurso e o juízo de mérito.
+O primeiro se antepõe ao segundo; levando, aquele, ao conhecimento ou não conhecimento do recurso, ao passo que este acarretará o provimento ou desprovimento do mesmo.
+Frise-se, a ausência de requisitos leva a inadmissibilidade do recurso, não sendo sequer apreciado seu. mérito.
+Deve-se, assim, verificar-se, primeiro, se o recurso é admissível, para, depois, verificar-se se o mesmo é fundado ([NOME] nke).
+Dessa forma, o juízo de admissibilidade do recurso limita-se a verificação da presença dos requisitos necessários ao seu conhecimento.
+Acresce destacar que, especificamente no que tange ao Recurso Especial com fulcro na letra "a" do permissivo constitucional (como se dá no presente caso), a doutrina ente pelo cabimento deste recurso sempre que o Recorrente alegue a violação de lei federal ou a divergência jurisprudencial.
+Assim, é suficiente para ultrapassar o juízo de admissibilidade em se tratando de Recurso Especial interposto com fundamento na letra "a" do permissivo constitucional, que se alegue adequadamente a violação à lei federal, nele prequestionado.
+Nesse sentido é a opinião de [NOME], [NOME], [NOME] e [NOME].
+No mesmo diapasão é a decisão proferida pelo Supremo Tribunal Federal, manifestando expressa distinção entre juízo de admissibilidade de recurso e juízo de mérito, a seguir transcrita:
+(..)
+Como se vê do teor da decisão acima transcrita, o posicionamento jurisprudencial é claro no sentido de que basta a adequada alegação de violação a dispositivo constitucional para se ultrapassar o juízo de admissibilidade do recurso.
+Assim, mutatis mutandis, é cabível (juízo de admissibilidade) o Recurso Especial toda vez que se alegue um dos motivos previstos pela lei para a interposição do recurso.
+No caso dos autos, como se infere do exame de suas razões de recurso, o ente previdenciário alegou violação a dispositivo de lei federal devidamente prequestionado no aresto recorrido.
+Como corolário, o recurso interposto deveria ter sido admitido e processado, determinando-se sua remessa ao Superior Tribunal de Justiça, uma vez que cumpridos todos os demais requisitos legais para tanto" (fls. 163/165e).
+Do exame dos autos, verifica-se que a decisão agravada, para inadmitir o Recurso Especial, teve como um dos fundamentos a convergência do entendimento do acórdão recorrido com a jurisprudência deste Superior Tribunal de Justiça, quanto à "firme a jurisprudência do Superior Tribunal de Justiça no sentido de que seja qual for a predominância do labor misto no período de carência ou o tipo de trabalho exercido no momento do implemento do requisito etário ou do requerimento administrativo, o trabalhador tem direito a se aposentar com as idades citadas no § 3º do art. 48 da Lei 8.213/1991, desde que cumprida a carência com a utilização de labor urbano ou rural" (fl. 158e).
+A parte agravante, todavia, deixou de infirmar, especificamente e adequadamente, o fundamento de que o acórdão recorrido converge para o entendimento pacificado nesta Corte, limitando-se a ratificar as razões do Recurso Especial.
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Tal entendimento, inclusive, está consolidado na Súmula 182/STJ, segundo a qual o recorrente deve infirmar, especificamente, os fundamentos da decisão impugnada, mostrando-se inadmissível o Agravo que não se insurge contra todos eles.
+Ressalto que, "fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ" (STJ, AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, DJe de 26/06/2013), com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, o que não ocorreu, no caso.
+A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO GENÉRICA DO FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE. INSUFICIÊNCIA. INCIDÊNCIA DO ART. 544, § 4º, I, DO CPC. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE.
+(..)
+2. Não se conhece do agravo em recurso especial que deixa de atacar especificamente e suficientemente os fundamentos da decisão de inadmissibilidade. Incidência do art. 544, § 4º, I, do CPC.
+3. Tendo a decisão de inadmissibilidade decidido que o acórdão recorrido estaria em sintonia com a jurisprudência do STJ (Súmula 83/STJ), compete à agravante demonstrar que o entendimento adotado pelo acórdão encontra-se em descompasso com o atual entendimento do STJ, trazendo para tanto precedentes do STJ favoráveis à sua tese recursal, ou que os precedentes invocados na decisão de inadmissibilidade não se aplicariam ao casu, por versarem sobre situações diversas, sendo insuficiente a mera alegação de que os precedentes invocados pela decisão de inadmissibilidade não formariam a jurisprudência uníssona do STJ e que o óbice da Súmula 83/STJ não se aplica aos recursos especiais interposto com base na alínea "a" do permissivo constitucional. Nesse sentido: AgRg no AREsp 293.726/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 13/08/2013, DJe 26/08/2013.
+(..)
+6. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento" (STJ, EDcl no AREsp 527.100/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/08/2014).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação de todos os fundamentos da decisão denegatória da subida do recurso especial para que seja conhecido o respectivo agravo. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+2. Inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Precedentes.
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 630.126/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 24/09/2015).
+Em face do exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
