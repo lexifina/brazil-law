@@ -1,0 +1,18 @@
+DECISÃO
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. TRABALHADOR RURAL. COMPROVAÇÃO DO TRABALHO EXERCIDO POR TODO O PERÍODO DE CARÊNCIA EXIGIDO COM BASE NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE DE REVOLVIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL DO INSS A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a de Recurso Especial interposto pelo INSS, com base na alínea a do art. 105, III, da Constituição Federal, interposto contra acórdão do Tribunal Regional Federal da 4a. Região que, confirmando a sentença, julgou procedente o pedido de concessão de aposentadoria rural.
+2. Em suas razões recursais, sustenta o recorrente, em síntese, não é possível o reconhecimento do tempo de trabalho com base, tão somente, em prova testemunhal. Não havendo prova de exercício de atividade rural no período que antecede o requerimento administrativo.
+3. É o relatório.
+4. Sustenta o recorrente, em preliminar, negativa de prestação jurisdicional. O inconformismo não prospera, porquanto a matéria em exame foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente. É de salientar que, tendo encontrado motivação suficiente para fundar a decisão, não fica o órgão julgador obrigado a responder, um a um, os questionamentos suscitados pelas partes.
+5. Quanto ao mais, no caso dos autos, conforme analisado pelo Tribunal a quo, a parte recorrida tem direito a receber o benefício da aposentadoria, tendo em vista que os documentos juntados aos autos acrescidos pela prova testemunhal são suficientes para demonstrar o exercício da atividade e o implemento dos demais requisitos legais, consignando válidos os documentos colacionados.
+6. Confira-se, a propósito, o seguinte trecho do acórdão recorrido:
+De se enfatizar que a alegação do apelante, no sentido de que os documentos juntados pela parte autora não demonstram o início de prova da atividade rural exercida, não merece prosperar.
+No pertinente à alegação do apelante de que a parte autora manteve vínculo com o Município de Itaiópolis até 1997 e, posteriormente, entre 01/09/2005 a 30/11/2009, tenho que tal fato não afasta o direito do autor à percepção da aposentadoria rural por idade.
+Veja-se que do documento colacionado ao evento 2 - OUT8 é possível verificar que o autor deteve vínculos urbanos antes do período de carência de 180 meses a contar da implementação do requisito etário e do pedido administrativo formulado, nos anos de 1994 e 1996.
+(..) É possível admitir o cômputo de períodos de labor rural intercalados para  ns de concessão de aposentadoria por idade rural, desde que demonstrada a condição de segurado especial no período imediatamente anterior ao requerimento administrativo ou implemento do requisito etário.
+Como se pode observar no caso presente, o acervo probatório indica que a parte autora efetivamente exerceu atividade rural no período correspondente à carência, fazendo jus ao benefício desde 04/12/2014 (data do requerimento).
+Dessarte, deve ser concedido à parte autora o benefício de aposentadoria por idade rural, desde 04/12/2014 (data do requerimento), impondo-se, assim, a ratificação da sentença.
+7. Nesses termos, inviável acolher as alegações trazidas pela Autarquia de que os documentos não são suficientes ou não são suficientes os testemunhos colhidos para a comprovação da atividade campesina, uma vez que demandaria o reexame das provas carreadas aos autos, atraindo a incidência da Súmula 7/STJ.
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
