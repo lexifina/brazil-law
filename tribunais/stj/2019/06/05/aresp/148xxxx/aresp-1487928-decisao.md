@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL A QUE SE NEGOU SEGUIMENTO EM VIRTUDE DA CONFORMIDADE DO ACÓRDÃO RECORRIDO COM O ENTENDIMENTO DESTE TRIBUNAL SUPERIOR FIRMADO EM JULGAMENTO DE RECURSO AFETADO AO RITO DOS RECURSOS REPETITIVOS. ART. 1.030, INC. I, AL. "B", DO CPC. PARTE DA DECISÃO QUE SOMENTE PODE SER ATACADA POR MEIO DE AGRAVO INTERNO. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE. ERRO GROSSEIRO, INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE. DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO.
+AGRAVO NÃO CONHECIDO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por BANCO GMAC S.A. contra decisão proferida pelo Tribunal de Justiça de Santa Catarina que inadmitiu seu recurso especial.
+É o relatório.
+Passo a decidir.
+O presente recurso não deve ser conhecido, ante a ausência de impugnação dos fundamentos da decisão agravada.
+O juízo negativo de admissibilidade está calcado na conformidade do acórdão recorrido com o entendimento deste Tribunal Superior firmado no julgamento do REsp 1.061.530/RS, afetado ao rito dos repetitivos, quanto à "limitação dos juros remuneratórios à taxa média de mercado" e "à caracterização da mora", motivo pelo qual negou seguimento ao recurso especial quanto a estas questões com fundamento no artigo 1.030, inciso I, alínea "b", do Código de Processo Civil; e na imprescindibilidade de revolvimento do acervo fático-probatório dos autos para que se pudesse apreciar a aplicação do princípio da causalidade à espécie, motivo pelo qual foi aplicada a Súmula 7/STJ.
+Nas razões do agravo, o recorrente afirma que teria sido "negado seguimento ao recurso especial sob o fundamento de que qualquer pretensão que objetivasse a modificação do acórdão recorrido, pressupõe a necessidade de análise de elementos fático-probatórios, ainda que o inconformismo estivesse fundado em divergência jurisprudencial". Assevera que para o julgamento de seu recurso "não será necessário compulsar o processo e as provas que estão nele encartadas", pois "todo o necessário para esse julgamento está disposto na sentença e nas decisões proferidas no TJSC". Sustenta que busca "a aplicação correta do entendimento do STJ ao caso em exame, já que está evidenciado que o Tribunal de Justiça de origem não aplicou corretamente o entendimento pacificado pelo STJ, mais precisamente aquele explicitado no acórdão proferido no Recurso Especial n.º 1.061.530".
+Tais razões, todavia, não impugnam o fundamento da decisão agravada.
+Inicialmente, destaco que o presente agravo somente pode ser parcialmente apreciado, tendo em vista que conforme dispõe o artigo 1.030 do Código de Processo Civil, em seus §§ 1º e 2º, a decisão que nega seguimento a recurso especial ante a sua conformidade com o entendimento deste Tribunal Superior exarado no regime de julgamento de recursos repetitivos deve ser atacada por meio de agravo interno. Transcrevo tal dispositivo:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+a) a recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou a recurso extraordinário interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral;
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+II - encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça exarado, conforme o caso, nos regimes de repercussão geral ou de recursos repetitivos;
+III - sobrestar o recurso que versar sobre controvérsia de caráter repetitivo ainda não decidida pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça, conforme se trate de matéria constitucional ou infraconstitucional;
+IV - selecionar o recurso como representativo de controvérsia constitucional ou infraconstitucional, nos termos do § 6º do art. 1.036;
+V - realizar o juízo de admissibilidade e, se positivo, remeter o feito ao Supremo Tribunal Federal ou ao Superior Tribunal de Justiça, desde que:
+a) o recurso ainda não tenha sido submetido ao regime de repercussão geral ou de julgamento de recursos repetitivos;
+b) o recurso tenha sido selecionado como representativo da controvérsia; ou
+c) o tribunal recorrido tenha refutado o juízo de retratação.
+§ 1º Da decisão de inadmissibilidade proferida com fundamento no inciso V caberá agravo ao tribunal superior, nos termos do art. 1.042. § 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Assim, descabida a interposição de agravo em recurso especial para atacar este capítulo da decisão agravada. Cumpre destacar que ante a existência de expressa disposição legal, firmou-se na jurisprudência desta Corte Superior o entendimento de que se trataria de erro grosseiro a utilização do agravo em recurso especial em tais casos, pois ausente dúvida razoável acerca de qual seria o recurso cabível, razão pela qual não se poderia falar na possibilidade de aplicação do princípio da fungibilidade recursal e conhecer as questões. Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO ART. 1.030, I, "b", DO CPC/2015. RECURSO CABÍVEL. AGRAVO INTERNO NO TRIBUNAL DE ORIGEM.
+1. De acordo com o art. 1.030, I, "b", §2º, do CPC/2015, cabe agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão em conformidade com tese firmada em sede de recurso repetitivo. A interposição de agravo em recurso especial constitui falha inescusável que impede a aplicação do princípio da fungibilidade recursal. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp 1153611/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/11/2017, DJe 01/12/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INADMITE RECURSO ESPECIAL FUNDAMENTADA EM REPETITIVO. APLICAÇÃO DO CPC/15. NÃO CABIMENTO DE AGRAVO EM RECURSO ESPECIAL. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE.
+1. Agravo em recurso especial que está sujeito às normas do CPC/15.
+2. Conforme determinação expressa contida no art. 1.030, I, "b", e §2º c/c 1.042, "caput", do CPC/15, é cabível agravo interno contra decisão na origem que nega seguimento ao recurso especial com base em recurso repetitivo.
+3. A interposição de agravo em recurso especial constitui erro grosseiro, porquanto inexiste dúvida objetiva, ante a expressa previsão legal do recurso adequado.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1126721/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/10/2017, DJe 07/11/2017)
+AGRAVO INTERNO NA RECLAMAÇÃO CONSTITUCIONAL (CF, ART. 105, I, f). DECISÃO RECLAMADA. INADMISSÃO DE RECURSO ESPECIAL, CONSOANTE O RITO DOS RECURSOS REPETITIVOS. ART. 1.040, I, DO CPC; ART. 543-C, § 7º, I, DO CPC/1973. AUSÊNCIA DE PREVISÃO LEGAL. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. O Código de Processo Civil atribuiu, com exclusividade, aos tribunais locais o juízo de admissibilidade do recurso especial nos casos em que o acórdão recorrido coincidir com a jurisprudência firmada no julgamento de recurso repetitivo, cabendo contra essa decisão apenas agravo interno.
+2. A previsão legal de que caberia agravo em recurso especial contra a decisão de inadmissão de recurso especial, sob o fundamento de que o acórdão recorrido coincide com a orientação desta Corte, foi revogada ainda durante a vacatio legis do novo Código de Processo Civil.
+3. Conforme o entendimento uníssono desta Corte, é manifestamente inadmissível a reclamação constitucional manejada em face de decisão que não conheceu de agravo em recurso especial movido contra acórdão de Tribunal local que, promovendo o juízo de adequação previsto no rito dos recursos repetitivos (art. 1.040, I, do CPC; art. 543-C, § 7º, I, do CPC/1973), nega seguimento a recurso especial ao constatar que o aresto recorrido coincide com a orientação consolidada por esta Corte sob o rito singular.
+4. Agravo interno não provido.
+(AgInt na Rcl 34.672/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 22/11/2017, DJe 27/11/2017)
+Destarte, a única questão que poderia ter sido impugnada por meio do presente recurso especial era a aplicação da Súmula 7/STJ.
+Todavia, em que pese o agravante apresente argumentação destinada a impugnar a aplicação deste enunciado, o que se observa é que esta se encontra manifestamente dissociada do contexto dos autos.
+O agravante argumenta como se o referido enunciado tivesse sido aplicado para obstar o conhecimento do recurso quanto às questões apreciadas no julgamento do REsp 1.061.530/RS, quanto à alegada divergência jurisprudencial, todavia, como dito, este enunciado foi aplicado para inadmitir o recurso especial quanto à aplicação do princípio da causalidade à espécie.
+Assim, não há uma única palavra destinada a impugnar a aplicação da Súmula 7/STJ nas razões do agravo.
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Intimem-se.
