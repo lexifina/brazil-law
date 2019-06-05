@@ -1,0 +1,16 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. TERMO INICIAL PARA A CONTAGEM DO LAPSO TEMPORAL. DATA EM QUE O APENADO TERIA DIREITO AO BENEFÍCIO, CUMPRINDO OS REQUISITOS LEGAIS (ART. 118 DA LEP). DECISÃO CONCESSIVA DE NATUREZA DECLARATÓRIA. CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem concedida liminarmente nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no Agravo em Execução Penal n. 0001642-14.2019.8.26.0496, que manteve a decisão de origem que, ao homologar o cálculo de pena, adotou como data-base para progressão ao regime aberto a data da sentença concessiva do regime semiaberto.
+Aduz a Defensoria Pública que a data para a nova progressão de regime seja o dia em que o sentenciado cumpriu o lapso do regime anterior, e não a data que reconheceu o preenchimento dos requisitos para o benefício (fl. 7).
+Acrescenta que, tendo a decisão que defere o benefício da progressão natureza meramente declaratória, reconhecendo situação jurídica preexistente, não se pode transferir ao sentenciado o ônus da morosidade da concessão do benefício, seja ela administrativa ou judicial (fl. 8).
+Requer, assim, a concessão de liminar para imediata retificação do cálculo até julgamento final deste writ. E no mérito, a concessão da ordem de habeas corpus para reconhecer a ilegalidade da decisão do E. Tribunal de Justiça de São Paulo, reformando a decisão recorrida a fim de se retificar o cálculo de liquidação de penas para que conste como data base para cálculo de progressão ao regime aberto a data em que o paciente cumpriu o requisito objetivo para a progressão ao regime semiaberto e não a data da decisão que concedeu o benefício (fl. 9).
+É o relatório.
+Busca a impetração que seja realizado novo cálculo de pena do paciente, considerando como data-base de concessão da progressão ao regime inicial aberto a data em que adimpliu o requisito objetivo para progressão ao regime semiaberto.
+De fato, após o julgamento proferido pelo Supremo Tribunal Federal no HC n. 115.254/SP, esta Corte Superior de Justiça, revendo o entendimento anterior, passou a entender que, na execução da pena, o marco para a progressão de regime será a data em que o apenado preencher os requisitos legais (art. 112, LEP), e não a do início do cumprimento da reprimenda no regime anterior. A decisão que defere a progressão de regime tem natureza declaratória, e não constitutiva. Deve ser aplicada a mesma lógica utilizada para a regressão de regime em faltas graves (art. 118, LEP), em que a data-base é a da prática do fato, e não da decisão posterior que reconhece a falta (HC n. 439.068/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 23/3/2018).
+Confira-se também: HC n. 309.087/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 9/2/2017.
+Pelo exposto, concedo liminarmente a ordem a fim de determinar a realização de novos cálculos da pena imposta ao paciente, considerando como data-base para a concessão de nova progressão de regime a data do adimplemento do requisito objetivo da última progressão concedida.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
