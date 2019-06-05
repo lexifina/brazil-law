@@ -1,0 +1,41 @@
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DOS ARTS. 1º DO CP; E 111 DA LEP. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. PLEITO DE ALTERAÇÃO DA DATA-BASE PARA BENEFÍCIOS. TRIBUNAL DE ORIGEM QUE DETERMINOU A DATA DO TRÂNSITO EM JULGADO DA NOVA CONDENAÇÃO. AUSÊNCIA DE RESPALDO LEGAL. ACÓRDÃO DA CORTE A QUO EM DISSONÂNCIA COM RECENTE ENTENDIMENTO DA TERCEIRA SEÇÃO DESTA CORTE. PREVALÊNCIA DO VOTO DO REVISOR DO AGRAVO EM EXECUÇÃO PENAL QUE SE IMPÕE.
+Recurso especial provido.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal de Justiça de Minas Gerais proferido no Agravo em Execução Penal n. 1.0686.14.018706-9/001 (fls. 122/129).
+AGRAVO EM EXECUÇÃO. UNIFICAÇÃO DE PENAS E FIXAÇÃO DE NOVO MARCO INICIAL PARA CÔMPUTO DO PRAZO PARA CONCESSÃO DE FUTUROS BENEFÍCIOS. PRELIMINAR: NULIDADE DA DECISÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO ACOLHIMENTO. MÉRITO: TERMO INICIAL PARA CONCESSÃO DE FUTUROS BENEFÍCIOS. DATA DÓ TRÂNSITÕ EM JULGADO DA NOVA CONDENAÇÃO. RECUSO DESPROVIDO.
+- A carência de fundamentação não pode ser confundida com argumentação concisa, sobretudo se a decisão hostilizada encontra motivação em dispositivos legais e entendimento jurisprudencial consolidado.
+- Unificadas as penas, o marco inicial para a concessão de futuros benefícios na execução passa a ser a data do trânsito em julgado da última condenação, independentemente se o crime foi praticado antes ou após o início do cumprimento da reprimenda.
+V.V.
+- É direito subjetivo do reeducando cumprir a pena privativa de liberdade de acordo com as atuais condições da sua execução, vedado o agravamento indevido da sua situação prisional.
+Opostos embargos infringentes (fls. 86/96), foram rejeitados (fls. 108/118).
+EMBARGOS INFRINGENTES - UNIFICAÇÃO DE PENAS - NOVO MARCO TEMPORAL PARA A CONCESSÃO DE BENEFICIOS - NECESSIDADE - DATA DO TRÂNSITO EM JULGADO DA ÚLTIMA CONDENAÇÃO - REJEITAR OS EMBARGOS. 1. Necessária é a fixação de novo marco temporal para a concessão dos benefícios da execução quando ocorre unificação de penas. 2. Observa-se assim a data do trânsito em julgado da última condenação e não a data da prisão do sentenciado ou da decisão de unificação. 3. Rejeitar os embargos.
+No presente recurso, é apontada a violação dos arts. 1º do Código Penal e 111 da Lei de Execução Penal, porquanto em face da unificação das penas impostas à recorrente, o acórdão objurgado entendeu pela manutenção do marco inicial para contagem dos prazos de novos benefícios da execução penal, como sendo a data do trânsito em julgado da última sentença penal condenatória (fl. 125).
+Sustenta que a Lei n. 7.210/84, é omissa no sentido de indicar o termo inicial para a concessão das benesses decorrentes da execução, sobretudo, em sede de unificação das penas, de sorte que, nessa situação, a questão deve ser sempre resolvida em favor do condenado.  ..  Em que pese o entendimento do egrégio TJMG, não considerar o tempo em que a recuperanda ficou presa antes da prolação da sentença condenatória, é desconsiderar tempo de efetivo cumprimento de pena (fl. 126).
+Pede o conhecimento e provimento do recurso para que seja reformado o combatido aresto, no sentido de ser considerada a data da última prisão como termo inicial para a contagem de benefícios carcerários.
+Decorrido o prazo sem o oferecimento de contrarrazões (fl. 132), o recurso especial foi admitido na origem (fls. 134/138).
+O Ministério Público Federal opina pelo provimento da insurgência (fls. 149/151).
+RECURSO ESPECIAL. EXECUÇÃO PENAL. NOVA CONDENAÇÃO NO CURSO DA EXECUÇÃO. UNIFICAÇÃO DA PENAS. TERMO INICIAL PARA A CONTAGEM DE BENEFÍCIOS. DATA DA ÚLTIMA PRISÃO. PROVIMENTO DO RECURSO.
+É o relatório.
+A pretensão recursal direciona-se no sentido de que seja reconhecida, como termo inicial para a obtenção de benefícios, a data da última prisão da recorrente.
+Extrai-se do voto condutor do combatido aresto o seguinte trecho (fls. 70/71 - grifo nosso):
+ ..
+No mérito, verifico que o inconformismo recursal gravita em torno da data fixada como termo inicial para cômputo do prazo para concessão de novos benefícios é mais uma vez, sem razão o agravante.
+Sobre o tema, registro que o Superior Tribunal de Justiça já sedimentou seu posicionamento no sentido de que o aporte, no curso da execução penal, de guia de execução para cumprimento de pena decorrente de nova condenação enseja a unificação das penas e a consequente interrupção do prazo para aferição de futuros benefícios execucionais, alterando-se o marco inicial para a data do trânsito em julgado da derradeira condenação.
+ ..
+Concessa venia, não há como fixar a data da última prisão como marco de início para cômputo do prazo para aquisição de futuros benefícios, pois tal postura contraria a lógica do procedimento de unificação das penas e o posicionamento firmado pela jurisprudência majoritária, mesmo porque se sobreveio outra condenação durante o cumprimento de pena, esta não pode ser simplesmente desprezada, sob pena de se violar o aspecto repressor da pena.
+ ..
+Portanto, não há falar em reforma da decisão agravada, pois, unificadas as penas, o marco inicial para a concessão de futuros benefícios na execução passa a ser a data do trânsito em julgado da última condenação, independentemente se o crime foi praticado antes ou após o início do cumprimento da reprimenda.
+ ..
+Com efeito, a Terceira Seção desta Corte, em recente julgado, firmou entendimento de que, sobrevindo condenação no curso da execução penal, seja por fato anterior ou posterior, a unificação das penas não acarreta a interrupção dos prazos para concessão de benefícios, em razão de configurar excesso de execução, notadamente por não encontrar respaldo legal.
+Nesse sentido:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido.
+(REsp n. 1.557.461/SC, Ministro Rogério Schietti Cruz, Terceira Seção, DJe 15/3/2018 - grifo nosso).
+Dessa forma, merece acolhimento a insurgência recursal.
+Ante o exposto, com fundamento, no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar a data da última prisão da recorrente, nos termos do voto do Revisor do Agravo em Execução Penal (fls. 71/83), como data-base para fins de obtenção de benefícios na execução penal.
+Publique-se.
