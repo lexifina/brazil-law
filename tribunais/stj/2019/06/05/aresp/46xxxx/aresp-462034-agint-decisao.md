@@ -1,0 +1,11 @@
+DECISÃO
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. POSSIBILIDADE DE A EMPRESA EM RECUPERAÇÃO SOFRER ATOS CONSTRITIVOS. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS (TEMA 987 - RESPS 1.694.316, 1.712.484 e 1.694.261). RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DOS ARTS. 1.040 E 1.041 DO CÓDIGO FUX.
+1. Trata-se de Agravo Interno interposto pela ORDENHADEIRAS SULINOX LTDA. em face de decisão que negou provimento ao Agravo em Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA. ALEGADA IMPENHORABILIDADE QUE NÃO FOI DEMONSTRADA PERANTE AS INSTÂNCIAS ORDINÁRIAS. AGRAVO DESPROVIDO.
+2. É o relatório.
+3. Com efeito, em 26.9.2016, ou seja, após a interposição do Recurso Especial, fora deferido o processamento de Recuperação Judicial à ora Agravante, razão pela qual esta postula, em seu Agravo Interno, sejam liberados todos os valores bloqueados de suas contas e de seu sócio.
+4. Todavia, a matéria referente à possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal, se encontra afetada à Primeira Seção do STJ como representativa da controvérsia e aguarda julgamento (TEMA 987 - REsps. 1.694.316, 1.712.484 e 1.694.261).
+5. A admissão de Recurso Especial, como representativo da controvérsia, impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.040 do Código Fux.
+6. Em face do exposto, torna-se sem efeito a decisão de fls. 153/155, julgando prejudicado o presente Agravo Interno. Determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos dos arts. 1.040 e 1.041 do Código Fux.
+7. Publique-se.
+8. Intimações necessárias.
