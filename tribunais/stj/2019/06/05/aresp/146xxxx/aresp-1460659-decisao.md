@@ -1,0 +1,11 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ICMS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL REJEITADA. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTO DE ORDEM CONSTITUCIONAL E EM DIREITO LOCAL. DESCABIMENTO DO APELO. AGRAVO DA FAZENDA DO ESTADO DE SÃO PAULO DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra acórdão de lavra do TJ/SP, assim ementado:
+ICMS. Importação. Inclusão de Adicional de Frete de Renovação da Marinha Mercante (AFRMM) na base de cálculo. Impossibilidade. EC 33/2001. Lei Complementar 114/2002. Lei Estadual 11.001/2001. Inexistência de regular processo legislativo para autorização da exigência ao tempo da ocorrência do fato gerador. Lei local que, embora posterior ã EC 33/2001, é anterior à Lei Complementar 114/2002. Ação ora julgada procedente. Recurso provido (fls. 3.440)
+2. Aponta, nas razões de seu Apelo inadmitido, ofensa aos arts. 1.022, II do Código Fux, 13, §1o., II, b, e V, e, da Lei Complementar 87/1996, 11 da Lei 10.893/2004 e artigo 6o. do Código Tributário Nacional.
+3. É o relatório.
+4. Primeiramente, a alegada violação do art. 1.022 do Código Fux não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+5. No mais, verifica-se que a questão controvertida foi dirimida pelo Tribunal de origem, essencialmente, sob fundamento constitucional e também com base na legislação local, sendo impertinente, portanto, a impugnação deduzida em Recurso Especial, em razão dos contornos definidos pelo art. 105, III da Magna Carta e pela Súmula 280/STF, aplicada por analogia. Precedentes: REsp. 1.671.593/SP, Min. HERMAN BENJAMIN, DJe 30.6.2017 e AgInt no AREsp. 947.038/SP, Min. OG FERNANDES, DJe 15.3.2017.
+6. Ante o exposto, nega-se provimento ao Agravo em Especial da FAZENDA DO ESTADO DE SÃO PAULO.
+7. Por fim, nos termos do que dispõe o art. 85, § 11 do Código Fux, fixam-se os honorários recursais em 1%, que deverá ser acrescido ao montante total.
+8. Publique-se. Intimações necessárias.
