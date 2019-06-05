@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] e outros contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 339):
+APELAÇÃO. APOSENTADOS E PENSIONISTAS DAS FERROVIAS ABSORVIDAS PELA FEPASA PLEITEIAM PAGAMENTO DE QUINQUÊNIO inexistência do direito reclamado adicional por tempo de serviço é concedido somente aos servidores públicos do Estado Sentença mantida.
+RECURSO NÃO PROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 388/392).
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 2º da Lei de Introdução às Normas do Direito Brasileiro e 492 e 1.022, II do CPC/2015. Sustenta, além de negativa de prestação jurisdicional, que "ao afirmar que o benefício pleiteado contempla os servidores públicos e que ferroviários não o seriam, o V. Julgado contrariou frontalmente o disposto em lei que se encontra em pleno (Lei Complementar nº 180, de 12/5/78 e Lei Complementar 1.123, de 1º/7/2010, que instituiu o sistema de administração de pessoal, artigo 205). E, dessa forma, negou vigência ao artigo 2º da Lei de Introdução ao Código Civil" (fl. 365).
+Alega a ocorrência de erro in judicando, pois "os Autores são servidores estatutários que não poderiam ser excluídos do benefício, pois, repita-se, o próprio Estado de São Paulo, através do artigo 205 da Lei Complementar nº 180, de 12/5/1978, atualizada até a Lei Complementar nº 1.123, de 1º de julho de 2010, que instituiu o sistema de administração dos servidores da Administração, incluiu os servidores celetistas que lhes prestam serviços, na definição de servidores públicos" (fl. 366).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, extrai-se do aresto recorrido a seguinte fundamentação (fls. 340/341):
+Os autores, aposentados ou pensionistas de ferroviários, ex-funcionários das antigas ferrovias estaduais que foram absorvidas pela FEPASA, recebem proventos pagos pelo INSS, complementados pela Fazenda Estadual.
+Segundo [NOME], servidores públicos em sentido amplo "são todos os agentes públicos que se vinculam à Administração, direta e indireta do Estado, sob regime jurídico (a) estatutário regular, geral ou pecuniário, ou (b) administrativo especial, ou (c) celetista (regido pela Consolidação das Leis do Trabalho CLT), de natureza profissional e empregatícia". 4 Por sua vez, o adicional por tempo de serviço insculpido no artigo 129 da Constituição Estadual é conferido ao servidor público estadual.
+Assim, destaque-se que os autores nunca foram funcionários ou servidores públicos, mas empregados celetistas, regidos pela Consolidação das Leis do Trabalho, submetidos ao estatuto dos ferroviários. Não se confunde com o servidor público celetista, vinculado em relação empregatícia com o Estado.
+A Fazenda do Estado complementa-lhes o valor da aposentadoria. No entanto, não lhe é permitido acrescentar valores, tais como o adicional por tempo de serviço (quinquênio), por não serem servidores públicos. Essa complementação pelo erário público não desnatura o regime a que esses aposentados/pensionistas se submetem.
+Outrossim, o adicional por tempo de serviço não está previsto no estatuto próprio da categoria, nem nas leis que regulamentam a complementação de aposentadorias e pensões, não vislumbrando o direito insculpido no artigo 129 da Constituição Estadual aos autores apelados.
+Neste sentido, voto do I. Desembargador Borelli Thomaz, verbis:
+Nesse contexto, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias e trazida nas razões recursais, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+A propósito, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO AO ART. 353 DO CPC/1973 NÃO CONFIGURADA. EX-FERROVIÁRIOS E PENSIONISTAS. ADICIONAL POR TEMPO DE SERVIÇO. QUINQUÊNIO. ART. 129 DA CONSTITUIÇÃO ESTADUAL. NORMA JURÍDICA LOCAL. SÚMULA 280/STF. ARTS. 460 DO CPC/1973 E 2º DA LINDB. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Cuida-se, na origem, de ação proposta por aposentados e pensionistas de ex-ferroviários que visam à condenação da Fazenda Estadual ao pagamento de adicional por tempo de serviço de acordo com os quinquênios trabalhados, além do recebimento dos atrasados de maneira atualizada.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+3. A Corte a quo decidiu a questão posta nos autos com amparo na legislação local, o que atrai o óbice da Súmula 280/STF, aplicável ao caso por analogia.
+4. Em relação aos arts. 460 do CPC/1973 e 2º da Lei de Introdução às Normas do Direito Brasileiro (LINDB), destaco que a Corte local não emitiu juízo de valor sobre os dispositivos legais. É necessária a efetiva discussão do tema pelo Tribunal a quo, ainda que em Embargos de Declaração. Incide, na espécie, a Súmula 211/STJ.
+5. Recurso Especial não conhecido.
+(REsp 1680872/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/09/2017, DJe 09/10/2017)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
