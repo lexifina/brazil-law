@@ -1,0 +1,13 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por ILDEFONSO DOS SANTOS FILHO e DORACI FERREIRA DOS SANTOS contra decisão proferida pelo Tribunal de Justiça de São Paulo que inadmitiu seu recurso especial.
+É o relatório.
+Passo a decidir.
+As razões apresentadas no agravo são suficientes para que se analise o recurso especial, motivo pelo qual passo a fazê-lo.
+ Nas razões deste apelo, os recorrentes alegam violação do artigo 85, § 1º e 11, do Código de Processo Civil. Asseveram que "o cabimento de honorários recursais está ligado à sucumbência da parte com o resultado do recurso (considerando-se recurso não como a peça recursal em si, mas sim com a instância recursal aberta pela interposição do recurso, o que compreender todos os atos processuais sucedâneos do recurso principal)". Assevera que a sucumbência em sede de agravo de instrumento "já justifica o arbitramento de honorários recursais, por conta da mudança de instância processual", argumentando que "teve de desenvolver atuação profissional específica com a interposição do recurso principal, consubstanciada no ato de acessar, estudar, desenvolver peças, protocolizar, acompanhar o andamento e receber as intimações processuais, como contraminutas, contrarrazões e impugnações aos recurso principais e seus respectivos recursos sucedâneos". Afirma que o Código de Processo Civil "não condiciona necessidade de anterior arbitramento para que se fale em majoração de honorários anteriormente fixados, porquanto o aludido dispositivo faz referência a coisa diversa (honorários advocatícios cognitivos arbitrados quando da prolação da sentença, ao contrário da hipótese de novo arbitramento prevista no Art. 85, §1º, CPC/15)". Assevera que haveria divergência jurisprudencial, apenas indicando o AgInt no AREsp 788.432/SP.
+Como se pode observar, trata-se de recurso que versa apenas sobre o valor dos honorários sucumbenciais.
+O direito à gratuidade da justiça é pessoal, assertiva que foi observada pelo Código de Processo Civil de 2015 ao dispor que este não se estende a litisconsorte ou a sucessor do beneficiário, nem aos patronos da parte.
+Com efeito, o § 5º do artigo 99 deste diploma, dispõe que nos recursos que versem exclusivamente sobre valor de honorários de sucumbência fixados em favor do advogado de beneficiário estarão sujeitos a preparo.
+Na espécie, considerando que o benefício lhes seria estendido, os patronos não efetuaram o devido recolhimento.
+Ante o exposto, nos termos do § 4.º, art. 1.007 do Código de Processo Civil, determino a intimação dos recorrentes para realizar, no prazo de 5 (cinco) dias, o recolhimento em dobro do preparo, sob pena de não conhecimento do recurso.
+Intimem-se.
