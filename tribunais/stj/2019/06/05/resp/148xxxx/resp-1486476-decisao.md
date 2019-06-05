@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial apresentado pela 43 S.A. GRÁFICA E EDITORA contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 598):
+TRIBUTÁRIO. FGTS. CONTRIBUIÇÕES SOCIAIS GERAIS. LEI COMPLEMENTAR 110/2001. CONSTITUCIONALIDADE. FINALIDADE ATINGIDA. PRESUNÇÃO. IMPOSSIBILIDADE.
+1. O Supremo Tribunal Federal, no julgamento da Medida Cautelar em ADIN nº 2556, firmou sua posição no sentido da constitucionalidade das contribuições sociais gerais previstas na LC 110/2001, obstando apenas a exigibilidade das novas contribuições no mesmo exercício financeiro em que instituídas.
+2. Ainda que as contribuições estejam atreladas a uma finalidade, não se afigura possível presumir que esta já tenha sido atingida.
+A recorrente interpôs, também, recurso extraordinário na origem (e-STJ fls. 612/627).
+Passo a decidir.
+A questão objeto do apelo extremo interposto na origem teve a repercussão geral reconhecida pelo Supremo Tribunal Federal na sessão do dia 03/09/2015, no julgamento do RE 878.313/SC, relator o Ministro Marco Aurélio, em julgamento assim ementado:
+CONTRIBUIÇÃO SOCIAL - ARTIGO 1º DA LEI COMPLEMENTAR Nº 110/2001 - FINALIDADE EXAURIDA - ARTIGOS 149 E 154, INCISO I, DA CARTA DE 1988 - ARGUIÇÃO DE INCONSTITUCIONALIDADE SUPERVENIENTE - RECURSO EXTRAORDINÁRIO - REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia relativa a saber se, constatado o exaurimento do objetivo - custeio dos expurgos inflacionários das contas vinculadas do Fundo de Garantia do Tempo de Serviço - em razão do qual foi instituída a contribuição social versada no artigo 1º da Lei Complementar nº 110, de 29 de junho de 2001, deve ser assentada a extinção do tributo ou admitida a perpetuação da cobrança ainda que o produto da arrecadação seja destinado a fim diverso do original.
+Nesse contexto, reconheço que a existência de recurso extraordinário que trata do mérito da matéria acima identificada é prejudicial à análise do recurso especial de mesmo objeto, razão pela qual os autos deverão retornar ao Tribunal de origem, para que lá seja realizado o juízo de conformação com o precedente obrigatório da Suprema Corte.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte, para que aqui possam ser analisadas as questões jurídicas suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO o sobrestamento do julgamento deste recurso até a realização do juízo de conformação pela Corte de origem com o precedente do STF, bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência seja realizada.
+Publique-se. Intimem-se.
