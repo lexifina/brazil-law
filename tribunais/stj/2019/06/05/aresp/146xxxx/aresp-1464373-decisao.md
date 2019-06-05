@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, em 16/04/2018, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"Acidente do Trabalho Acidente de trajeto - Lesão no membro inferior esquerdo - Auxílio-doença acidentário - Comprovado o nexo causal, o acidente de trabalho e as lesões do autor, a redundar na redução parcial e permanente da capacidade laborativa, em razão das sequelas do acidente, o benefício é devido Inteligência do art. 86 da Lei nº 8.213/91.
+Acidente do Trabalho - Restabelecimento do auxílio-doença e auxílio-acidente - Termo inicial - No caso concreto, da data da cessação administrativa e cessação do auxílio-doença, no término do processo de reabilitação, respectivamente.
+Débitos em atraso do INSS - Apreciação, na fase de conhecimento, de aspectos concernentes ao pagamento do precatório - Descabimento - Eventuais questões a esse respeito devem ser apreciadas na fase de execução.
+Processual Civil - Acidente do Trabalho Honorários Advocatícios, art. 85, incisos I e IV do § 2º e § 3º, do CPC/2015 - Fixação postergada para a fase da execução, por ausência de parâmetros.
+CONFERE-SE PARCIAL PROVIMENTO AO RECURSO OFICIAL E NEGA-SE PROVIMENTO AO DO INSS" (fl. 211e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 221/225e), os quais restaram rejeitados, nos seguintes termos:
+"Processual Civil - Embargos declaratórios - Descabimento - inteligência do artigo 1.022 do CPC - Inocorrência de omissão, contradição ou obscuridade. Efeitos infringentes ao recurso. Inadmissibilidade.
+Processual Civil - Embargos declaratórios. Prequestionamento Desnecessidade de menção aos dispositivos legais referidos pela parte em suas razões de recurso.
+EMBARGOS DECLARATÓRIOS DO INSS CONHECIDOS E REJEITADOS" (fl. 230e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 59 e 60 da Lei 8.213/91 sustentando que:
+"DO DIREITO - VIOLAÇÃO A DISPOSITIVOS DA LEGISLAÇÃO FEDERAL. DA VALORAÇÃO DA PROVA E DA VIOLAÇÃO DOS ARTIGOS 59 E 60, DA LEI 8.213/91.
+Como visto o v. acórdão confirmou a r. sentença recorrida para julgar procedente a ação, deferindo à parte autora auxílio-doença, por entender que é possível o reconhecimento da incapacidade laborativa de forma total e temporária da parte autora.
+Ocorre, no entanto, que há nos autos prova de que a parte autora retornou ao trabalho remunerado exercido, o que não dá azo ao recebimento do benefício acidentário deferido nos presentes autos, ou ao menos, impõe que seja determinada a suspensão do benefício nos períodos em que houve o exercício de atividade laborativa remunerada.
+Não pode o v. acórdão, sem elementos substanciais, para desprezar a prova existente nos autos de que a parte autora não se encontrava inapta para o trabalho, e, dessa forma, descabendo o auxílio-doença.
+Assim, inexistindo nos autos prova de que o autor apresentava qualquer lesão que o incapacitasse total e temporariamente ao exercício de seu trabalho, não há possibilidade de concessão de auxílio-doença.
+O v. acórdão contrariou o que restou comprovado nos autos, e acabou por reconhecer a existência de incapacidade laborativa após tal data, violando, pois, os arts. 59 e 60, da Lei n.º 8.213/91, que só admite a concessão de auxílio-doença quando houver incapacidade total e temporária para o trabalho.
+Vejamos o disposto na Lei nº 8.213/1991 acerca do benefício concedido à parte autora:
+"Art. 59. O auxílio-doença será devido ao segurado que, havendo cumprido, quando for o caso, o período de carência exigido nesta Lei, ficar incapacitado para o seu trabalho ou para a sua atividade habitual por mais de 15 (quinze) dias consecutivos.
+Parágrafo único. Não será devido auxílio-doença ao segurado que se filiar ao Regime Geral de Previdência Social já portador da doença ou da lesão invocada como causa para o benefício, salvo quando a incapacidade sobrevier por motivo de progressão ou agravamento dessa doença ou lesão.
+Art. 60. O auxílio-doença será devido ao segurado empregado a contar do décimo sexto dia do afastamento da atividade, e, no caso dos demais segurados, a contar da data do início da incapacidade e enquanto ele permanecer incapaz. (Redação dada pela Lei nº 9.876, de 26.11.99) "
+A prestação acidentária, assim, não pode ser paga nos períodos em que, após seu deferimento na via judicial, o autor efetivamente exerceu seus misteres profissionais, eis que isso viola flagrantemente o disposto nos artigos 59 e 60, da Lei n.º 8.213/91.
+Nesse caso, com o retorno do segurado ao trabalho, demonstra-se superada qualquer incapacidade laboral eventualmente existente, o que determina a cessação do auxílio-doença deferido nos presentes autos.
+Por todo o exposto, demonstrada a ausência de incapacidade laborativa, confia o INSS seja o v. acórdão reformado" (fls. 239/240e).
+Por fim, "demonstrada a violação aos arts. 59 e 60, da Lei n.º 8.213/91, requer seja o presente recurso especial admitido e, ao final, lhe seja dado provimento, julgando improcedente o pedido, ou ao menos, determinando que o benefício não é devido nos períodos em que comprovado o exercício de atividade laborativa remunerada" (fl. 240e).
+Contrarrazões a fls. 244/251e.
+Inadmitido o Recurso Especial (fl. 253e), foi interposto o presente Agravo (fls. 257/265e).
+Contraminuta a fls. 269/273e.
+A irresignação não merece conhecimento.
+Na origem, trata-se de Ação ordinária ajuizada pela parte ora recorrida, objetivando o restabelecimento do auxílio-doença acidentário, desde sua cessação.
+Julgada procedente a demanda, recorreu o réu, restando mantida a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Com efeito, a Corte de origem, ao analisar a controvérsia, asseverou que, "quanto à alegação do INSS, no sentido de que o autor retornou ao trabalho, pondere-se que o fato não constitui óbice ao restabelecimento/concessão do benefício pretendido nesta ação. O Estado-Juiz não pode desconhecer a realidade enfrentada pela maior parte da população, que temerosa de perder a fonte de seu sustento e de seus familiares, submete-se a toda sorte de condições adversas para manutenção do emprego, mesmo que isso signifique sacrifício da própria saúde. Também não merece vingar o inconformismo da autarquia quanto ao desconto do benefício durante atividade laborativa desempenhada após a lesão incapacitante, sendo desprovido seu apelo. Não se mostra plausível ter como indevido o benefício no período em que o segurado laborou mesmo incapacitado, enquanto aguardava decisão judicial sobre seu eventual direito ao benefício acidentário, isso porque o fez em prejuízo da própria saúde" (fl. 214e).
+Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor a ser arbitrado pelo magistrado, na liquidação do julgado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
