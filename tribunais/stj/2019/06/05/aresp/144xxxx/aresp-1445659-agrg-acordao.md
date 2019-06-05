@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. HOMICÍDIO. PRONÚNCIA. LEGÍTIMA DEFESA. REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N.º 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A revisão do entendimento alcançado pela instância ordinária, com o objetivo de concluir pela ocorrência da legítima defesa e subtrair a análise deste tema do Conselho de Sentença do Tribunal do Júri, exigiria o reexame do conjunto fático-probatório, o que não é possível no recurso especial, conforme o entendimento sedimentado na Súmula n.º 7 desta Corte Superior.
+2. Agravo regimental desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por [NOME] contra decisão na qual conheci de agravo em recurso especial para não conhecer do apelo nobre, nos termos da seguinte ementa (fl. 778):
+"AGRAVO EM RECURSO ESPECIAL. PENAL. HOMICÍDIO. PRONÚNCIA. LEGÍTIMA DEFESA. REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N.º 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL."
+Nas razões do agravo regimental, sustenta-se, em síntese, que não se aplica, ao caso, o óbice contido na Súmula n.º 7/STJ, pois "embora se tenha no caso hipótese clara de legítima defesa, o que exclui a antijuridicidade do comportamento e impõe a absolvição por inexistir crime, o magistrado de piso pronunciou o Agravante e o TJ-AL manteve em parte tal decisão, desafiando, pois, a interposição de recurso na instância especial" (fl. 797-798).
+Pleiteia-se, assim, o provimento do agravo regimental, a fim de que seja conhecido e provido o recurso especial defensivo.
+É o relatório.
+
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. HOMICÍDIO. PRONÚNCIA. LEGÍTIMA DEFESA. REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N.º 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A revisão do entendimento alcançado pela instância ordinária, com o objetivo de concluir pela ocorrência da legítima defesa e subtrair a análise deste tema do Conselho de Sentença do Tribunal do Júri, exigiria o reexame do conjunto fático-probatório, o que não é possível no recurso especial, conforme o entendimento sedimentado na Súmula n.º 7 desta Corte Superior.
+2. Agravo regimental desprovido.
+
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O recurso não comporta provimento.
+Com efeito, "em processo por crime doloso contra a vida, caso existam incertezas a respeito da dinâmica dos fatos, não é facultado ao juízo singular dirimi-las, visto que a competência para tanto é do juiz natural da causa, valer dizer, o Tribunal do Júri" (AgRg no AREsp 693.147/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/12/2015, DJe 11/12/2015).
+No caso, observa-se que a Corte estadual, após examinar o conjunto fático-probatório dos autos, concluiu fundamentadamente que não havia prova plena e inequívoca da legítima defesa alegada pelo Agravante, bem como que havia lastro indiciário mínimo capaz de subsidiar a análise da tese acusatória, razões pelas quais seria imprescindível o exame da controvérsia fática pelo Tribunal do Júri.
+A esse respeito, confira-se o seguinte excerto do aresto estadual:
+"De acordo com a versão defensiva, a vítima agrediu e ameaçou previamente o acusado, que pegou uma faca para se defender e mandou a vítima se afastar, mas mesmo assim ela partiu em sua direção quando, neste momento, foi golpeada.
+Sabe-se que no presente momento processual, o reconhecimento da legítima defesa, como quer o recorrente, demanda prova inquestionável de que os requisitos previstos no art. 25 do Código Penal estão inteiramente preenchidos.
+Com efeito, observa-se os documentos acostados junto ao laudo de exame de exumação (fls. 486/506) que a vítima morreu em decorrência de ferimento por arma branca em região epigástrica (acima do umbigo).
+O réu afirmou que houve gritos e agressões por parte da vítima, que a briga se deu logo cedo, e ele pediu várias vezes que Roterdan se afastasse, mostrando-lhe, inclusive a faca para impedir que as agressões continuassem.
+Acontece, porém, que nenhuma testemunha ou qualquer dos vizinhos do réu e da vítima afirmou ter ouvido os gritos e ameaças dessa suposta briga, pelo que não se pode ter certeza, ao menos nesse momento processual, de que a conduta do acusado realmente encontrava amparo na excludente de ilicitude da legítima defesa.
+Além disso, o réu afirmou que era amigo da vítima e que com ela não possuía qualquer desavença, mas todos os familiares do ofendido relataram que o réu e o ofendido possuíam uma intriga antiga referente a uma agressão feita pelo acusado contra o pai do ofendido e, mais recentemente, pelo fato de a vítima ter ido depor em juízo em processo desfavorável ao recorrente.
+Também não se pode esquecer que os familiares do ofendido relataram que o acusado havia feito ameaças a Roterdan e também ameaçava a pessoa de Mará, vizinha a quem tinha emprestado dinheiro e que litigava com o recorrente em processo judicial cível.
+Por fim, ainda que se acolhesse integralmente a versão defensiva apresentada pelo réu em seu interrogatório, também seria discutível se por parte dele não haveria excesso de legítima defesa, já que o próprio interrogado afirma que a vítima, apesar de supostamente ter a intenção de agredí-lo, não estava armada com qualquer objeto que pudesse causar no acusado risco e vida, como por exemplo faca, arma de fogo ou objetos que pudessem machucar o acusado.
+Em sendo assim, quando a legítima defesa não está cabalmente comprovada ao término da judicium accusationis, deve-se assegurar a decisão da causa pelo órgão constitucional e soberanamente competente para apreciação das alegações de mérito das partes, isto é, o Tribunal do Júri Popular.
+Portanto, não comprovados, de forma segura, os requisitos para a configuração da causa excludente de ilicitude perseguida, agiu bem o magistrado sentenciante ao pronunciar o recorrente a fim de submetê-lo a julgamento popular, em homenagem ao princípio do in dubio pro societate.
+É que a pronúncia, em verdade, representa mero juízo de admissibilidade, a permitir que a causa chegue a conhecimento do Júri. Somente aos jurados compete valorar definitivamente a prova, concluindo pela sua suficiência ou não, julgando, ao fim, a procedência ou não da pretensão condenatória dos crimes dolosos contra a vida e dos crimes a eles conexos.
+De mais a mais, o acolhimento, neste momento, da tese da legítima defesa encampada nas razões do recurso redundaria em inegável juízo prematuro, furtando, destarte, do Tribunal Popular sua competência originária de avaliar a presença ou não do elemento subjetivo especial do tipo doloso contra a vida, mesmo porque não comprovada de plano a versão defensiva." (fls. 704-706, sem grifos no original).
+Nesse contexto, a revisão do entendimento alcançado pela instância ordinária, com o objetivo de concluir pela ocorrência da legítima defesa neste momento processual, exigiria o reexame do conjunto fático-probatório, o que não é possível no recurso especial, conforme o entendimento sedimentado na Súmula n.º 7 desta Corte. Nesse sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DECISÃO DE PRONÚNCIA. ALEGAÇÃO DE LEGÍTIMA DEFESA. EXISTÊNCIA DE DUAS VERSÕES PARA OS FATOS. NECESSIDADE DE SUBMISSÃO AO TRIBUNAL DO JÚRI. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 7/STJ E 279/STF.
+1. Havendo elementos indiciários que subsidiem, com razoabilidade, as versões conflitantes acerca dos fatos imputados, a divergência deve ser solvida pelo Conselho de Sentença, evitando-se a indevida invasão da sua competência constitucional.
+2. "As alegações dos agravantes no sentido de que não há provas de materialidade e de indícios suficientes de autoria a embasar a decisão de pronúncia, ou de que tenham agido em legítima defesa, reclamam, necessariamente, incursão no acervo fático-probatório delineado nos autos, procedimento, enfatize-se, vedado pela Súmula n. 7 desta Corte, e que não se coaduna com os propósitos atribuídos à via eleita" (AgRg no AREsp n. 1.036.011/SP, relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/9/2018, DJe 10/9/2018).
+3. Agravo regimental desprovido." (AgRg nos EDcl no AREsp 1.383.234/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 12/03/2019, DJe de 21/03/2019; sem grifos no original.)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRONÚNCIA. HOMICÍDIO. TESE DE LEGÍTIMA DEFESA. IMPRONÚNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Para alterar a conclusão a que chegaram as instâncias ordinárias e decidir pelo reconhecimento das causas excludentes de ilicitude da legítima defesa, demandaria, necessariamente, revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ, que dispõe: "a pretensão de simples reexame de prova não enseja recurso especial."
+2. Agravo regimental não provido." (AgRg no AREsp 1.129.061/MA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/11/2017, DJe de 01/12/2017; sem grifos no original.)
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
