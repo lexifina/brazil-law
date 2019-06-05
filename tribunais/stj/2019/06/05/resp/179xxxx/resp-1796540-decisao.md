@@ -1,0 +1,34 @@
+EMENTA
+RECURSO ESPECIAL. PENAL. VIOLAÇÃO DOS ARTS. 1º DO CP; E 111 DA LEP. CRIMES DE LICITAÇÃO. MATÉRIA DE ORDEM PÚBLICA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA INTERCORRENTE. VERIFICAÇÃO. OCORRÊNCIA. ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO PRESCRICIONAL. JURISPRUDÊNCIA DO STJ. SENTENÇA COM DOSIMETRIA DA PENA IDÊNTICA AOS [NOME]. EXTENSÃO DOS EFEITOS DA DECISÃO QUE SE IMPÕE. APLICAÇÃO DO ART. 580 DO CPP.
+Recurso especial provido nos termos do dispositivo, com extensão de efeitos aos corréus.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com suporte na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de Rondônia nos Embargos de Declaração em Embargos de Declaração em Apelação Criminal n. 0048079-64.2009.8.22.0015.
+Embargos de Declaração. Apelação em ação penal. Direito penal e Processual Penal. Vícios do Art. 619 do CPP. Omissão. Matéria de ordem pública. Prescrição em concreto superveniente. Lapso temporal. Ausência. Acórdão. Sentença. Confirmação. Modificação. Ausência. Marco Interruptivo.
+1. Os embargos de declaração não se prestam a rediscutir o mérito da decisão embargada. Contudo, presente eventual vício, este deve ser sanado e passa a integrá-la.
+2. Nos termos do art. 117, IV, do Código Penal, o prazo prescricional interrompe-se pela publicação de acórdão condenatório recorrível, sendo que a confirmação da condenação, sem modificações, constitui novo marco interruptivo da prescrição, afastando-se a prescrição em concreto superveniente caso não transcorrido o lapso temporal correspondente à pena fixada. Precedentes do STF e STJ.
+3. Embargos acolhidos para sanar omissão, sem efeitos infringentes.
+Indica a recorrente a violação do art. 117 do Código Penal, asseverando que a matéria recursal veio à tona porque a decisão recorrida se possui entendimento de que a publicação do acórdão da apelação que manteve a sentença condenatória na integra constitui marco interruptivo da prescrição (fl. 1.138).
+Destaca que, considerando que a sentença foi publicada em 24/04/12014 e a pena aplicada foi de 2 anos, esta prescrita em 24/4/2018 (fl. 1.138).
+Pede o conhecimento e o provimento do recurso para que seja reconhecida a prescrição da pretensão punitiva.
+Oferecidas contrarrazões (fls. 1.143/1.153), o recurso especial foi admitido na origem (fl. 1.155).
+O Ministério Público Federal opina pelo provimento da insurgência (fls. 1.165/1.166).
+RECURSO ESPECIAL.PARECER PELO CONHECIMENTO E PROVIMENTO DO RECURSO. Firmou-se no âmbito de ambas as Turmas que compõem a Terceira Seção deste Tribunal Superior o entendimento no sentido de que o acórdão que apenas confirma o decreto condenatório, como na hipótese, não constitui marco interruptivo da prescrição. Parecer pelo provimento do recurso.
+É o relatório.
+Razão assiste à recorrente.
+Com efeito, consta dos autos que o Juízo de primeiro grau condenou [NOME] à pena privativa de liberdade de 2 anos de detenção, em regime aberto, substituída por duas restritivas de direitos, como incursa nas sanções do art. 90, caput, da Lei n. 8.666/1993, c/c o art. 29 do Código Penal.
+Verifica-se que o referido édito condenatório foi publicado em 24/4/2014 (fl. 947), com trânsito em julgado para a acusação, haja vista a não interposição de recurso de apelo pelo Ministério Público local, o que, por conseguinte, fez com que a prescrição passasse a ser regulada pela pena aplicada, nos termos do art. 110, § 1º, do Código Penal.
+O acórdão de fls. 1.053/1.062 confirmou a condenação perpetrada em primeira instância.
+Destaca-se, no ponto, que a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "O acórdão que confirma a condenação, mas majora ou reduz a pena, não constitui novo marco interruptivo da prescrição" (AgRg no RE nos EDcl no REsp n. 1.301.820/RJ, Corte Especial, Ministro Humberto Martins, DJe de 24/11/2016 - grifo nosso).
+A corroborar:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. LATROCÍNIO. TENTATIVA. ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA. INTERRUPÇÃO. IMPOSSIBILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. OCORRÊNCIA. EXTINÇÃO DA PUNIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - O Superior Tribunal de Justiça entende que " n os termos do art. 117 do Código Penal, o prazo prescricional interrompe-se pela publicação da sentença ou acórdão condenatórios recorríveis. O acórdão que confirma a condenação, mas majora ou reduz a pena, não constitui novo marco interruptivo da prescrição" (AgRg no RE nos EDcl no REsp n. 1.301.820/RJ, Corte Especial, Rel. Min. Humberto Martins, DJe de 24/11/2016). Precedentes.
+III - Na hipótese, a denúncia foi recebida em 27/06/2007, e a sentença foi publicada na data de 26/03/2008. Assim, desde a publicação da sentença condenatória, transcorreu o lapso para a configuração da prescrição, qual seja, de 10 (dez) anos, conforme disciplinado no artigo 109, inciso I, do Código Penal, computado pela metade em razão da menoridade relativa do paciente à data dos fatos, nos termos do art. 115, do mesmo dispositivo penal.
+Habeas corpus não conhecido. Ordem concedida de ofício, para, nos termos do art. 115 c/c o art. 109, inciso I, ambos do Código Penal, reconhecer a prescrição da pretensão punitiva estatal, e, consequentemente, declarar extinta a punibilidade do paciente, nos termos do art. 107, inciso IV, do Código Penal.
+(HC n. 479.941/SP, Ministro Felix Fischer, Quinta Turma, DJe 6/3/2019 - grifo nosso).
+De acordo com o art. 109, V, do Código Penal, como a reprimenda carcerária basilar não ultrapassou o limite de 2 anos de reclusão, a prescrição deveria ocorrer em 4 anos.
+Dessa forma, vencido o prazo prescricional em 24/4/2018 (4 anos após a publicação da sentença condenatória), com fundamento no art. 107, IV, c/c os arts. 109, V, 110, § 1º, e 115, parte final, todos do Código Penal, impõe-se o acolhimento da presente insurgência.
+Registre-se, por fim, que aos corréus [NOME] e [NOME] foi dosado o mesmo quantitativo de pena aplicado à recorrente (fls. 942 e 944).
+Portanto, pelas razões expostas na presente decisão e com suporte no art. 580 do Código de Processo Penal, devem seus efeitos ser estendidos aos referidos corréus.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para declarar extinta a punibilidade da recorrente pela prescrição da pretensão punitiva, com extensão de efeitos aos corréus [NOME] e [NOME].
+Publique-se.
