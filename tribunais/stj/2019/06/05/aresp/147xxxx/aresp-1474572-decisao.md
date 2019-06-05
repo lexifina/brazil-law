@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de [NOME] fundado nas alíneas "a" e "c" do permissivo constitucional interposto contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+PROCESSO CIVIL. ADMINISTRATIVO. APELAÇÃO. EMBARGOS À EXECUÇÃO. REAJUSTE DE 28,86%. ACORDO ADMINISTRATIVO. JUNTADA DE TERMO DE TRANSAÇÃO. DESNECESSIDADE. DOCUMENTO EXPEDIDO PELO SIAPE. PRESUNÇÃO DE VERACIADE. HONORÁRIOS ADVOCATÍCIOS.. RECURSO DESPROVIDO.
+1. Trata-se de Apelação interposta contra sentença que julgou procedentes os Embargos à Execução, "para declarar extinta a obrigação, resolvendo o mérito da causa na forma do art. 269,1, do CPC", tendo em vista a celebração de acordo para recebimento administrativo das parcelas referentes ao reajuste de 28,86%. A parte embargada foi condenada ao "pagamento de honorários advocatícios fixados em R$ 1.000,00 (mil reais), a teor do disposto no art. 20, § 4º, do Código de Processo Civil".
+2. Nos termos do § 2o do art. 7º da Medida Provisória n.º 2.169-43, de 24/08/2001, os documentos emitidos pelo Sistema Integrado de Administração de Pessoal - SIAPE acostados aos autos, atestando a realização de depósitos em referência ao percentual de 28,86%, - são suficientes para comprovar que o Embargado celebrou acordo administrativo para recebimento das diferenças relativas ao r. índice. Ainda que a Embargante não tenha apresentado o termo de acordo, tal fato não afasta a presunção de veracidade do documento emitido pelo SIAPE. Precedente desta Turma: (AC 0005719-76.2009.4.02.5101, Relator Des. Fed. [NOME], julgado em 20/09/2017).
+3. Não tendo sido afastada a presunção de veracidade da informação contida no SIAPE nem demonstrada a existência de quaisquer dos vícios passíveis de anulação do negócio jurídico, deve ser considerado válido o acordo firmado para recebimento administrativo do percentual de 28,86%, inexistindo, assim, diferenças a receber pelo Embargado, tal como informado pela Subsecretário de Cálculo Judicial da Seção Judiciária do Rio de Janeiro.
+4. Restando a Embargante vencedora quanto ao excesso de execução objeto dos presentes embargos, é legítima a condenação da parte embargada ao pagamento de honorários e, no caso, o valor fixado pelo juízo de primeiro grau (R$ 1.000,00) não se evidencia exorbitante, atendendo aos critérios do art. 20, §4º, do CPC/73, vigente à época da prolação da sentença recorrida.
+5. Apelação conhecida e desprovida.
+No recurso especial, a parte recorrente aponta, além da divergência jurisprudencial, violação do art. 1.022 do CPC/2015, aduzindo que não foram sanados os vícios apontados nos embargos de declaração, "Pois, a regra insculpida no Art. 95 do CDC é norma GENERALISTA, e embora incida também para as execuções contra a Fazenda Pública, a mesma é derrogada pelo Art. 535 do CPC pela especificidade. Os contracheques juntados provam que os substituídos são credores, posto que os valores percebidos mês à mês encontram-se a menor do que o TÍTULO EXECUTIVO JUDICIAL entendeu como devido. Merece reparo o v. acórdão de fls., na medida em que ocorreu escusável contradição por parte do ínclito tribunal a quo ao declarar que ocorreu a ausência de prévia liquidação da sentença condenatória genérica proferida nos autos da ação coletiva, da seguinte forma: "(..)É que se encontra ausente dos autos a prévia liquidação da sentença condenatória genérica proferida nos autos da ação coletiva, cuja necessidade decorre do comando do Artigo 97 e seu parágrafo único, do Código de Defesa do Consumidor.." (fls. 189/190 e-STJ)
+Não houve contrarrazões.
+Sobreveio juízo negativo de admissibilidade fundada na incidência das Súmulas 7 e 83/STJ, bem como na não demonstração do dissídio jurisprudencial.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Não houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Não conheço do agravo, por ausência de refutação da motivação utilizada no juízo de admissibilidade.
+Da análise da petição de agravo de fls. 214/219 e-STJ, verifica-se que a agravante não impugnou, de forma específica, os fundamento da decisão agravada.
+Dessa forma, não é possível conhecer do presente agravo, pois carece de fundamentação, atraindo as consequências previstas no art. 932, III, do CPC/2015, segundo o qual não se conhecerá do agravo que não tenha atacado específica e suficientemente todos os fundamentos da decisão agravada. A jurisprudência do STJ é assente no sentido de que a impugnação à fundamentação contida na decisão agravada deve ser específica e suficientemente fundamentada, não se admitindo impugnação genérica. In verbis:
+Art. 932. Incumbe ao relator:
+I - dirigir e ordenar o processo no tribunal, inclusive em relação à
+produção de prova, bem como, quando for o caso, homologar autocomposição
+das partes;
+II - apreciar o pedido de tutela provisória nos recursos e nos processos
+de competência originária do tribunal;
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha
+impugnado especificamente os fundamentos da decisão recorrida;
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, seus fundamentos não merece conhecimento, ante o óbice imposto pelo Súmula 182/STJ.
+2. A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada; é necessário que a contestação seja específica e suficientemente demonstrada.
+3. Sendo obstado o recurso especial no despacho de admissibilidade, pela aplicação da Súmula 83/STJ, incumbia à agravante demonstrar, no agravo de instrumento, que a orientação jurisprudencial não foi pacificada no mesmo sentido do acórdão recorrido, ou então comprovar que o precedente indicado, por constituir situação diversa, não teria aplicação ao caso dos autos, que rejeitou os primeiros embargos de declaração opostos pelo embargante.
+4. É pacífica a jurisprudência desta Corte no sentido de que o teor da Súmula 83/STJ aplica-se, também, aos recursos especiais interpostos com fundamento na alínea "a" do permissivo constitucional. Agravo regimental improvido. (AgRg no AREsp 389.962/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 03/10/2013, DJe 14/10/2013).
+Ressalte-se, também, que o caso atrai a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do artigo 545 do Código de Processo Civil que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
