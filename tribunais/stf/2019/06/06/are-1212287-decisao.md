@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário por ausência nos autos da procuração outorgada aos advogados da Petrobrás Distribuidora S.A..
+    A recorrente alega, em síntese, que o vício é sanável, segundo o teor do disposto no art. 13 do CPC/1973.
+    A pretensão não merece acolhida.
+    A jurisprudência desta Corte é firme no sentido de que, na vigência do Código de Processo Civil de 1973, o recurso interposto por advogado sem procuração nos autos constitui ato processual juridicamente inexistente. Nesse sentido, cito RE 684.839-AgR/RS, de relatoria do Ministro Ayres Britto, Plenário, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL. MATÉRIA PROCESSUAL. AUSÊNCIA DE PROCURAÇÃO OUTORGADA AO ADVOGADO SUBSCRITOR DO RECURSO EXTRAORDINÁRIO. RECURSO CONSIDERADO INEXISTENTE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO. 1. Nos termos da jurisprudência do Supremo Tribunal Federal, o recurso interposto por advogado sem procuração nos autos é de ser considerado inexistente. 2. Agravo regimental desprovido”.
+    Ressalte-se, ainda, que a regularidade da representação processual deve ser comprovada no ato da interposição do recurso, sendo inaplicável o art. 13 do CPC/1973 na instância extraordinária. Com esse entendimento, destaco o ARE 961.292-AgR/SP, de relatoria do Ministro Roberto Barroso, cuja ementa transcrevo a seguir:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO EXTRAORDINÁRIO E AGRAVO INTERNO ASSINADOS POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. RECURSO EXTRAORDINÁRIO INTERPOSTO NA VIGÊNCIA DO CPC/1973. NÃO CONHECIMENTO. PRECEDENTES. CARÁTER PROTELATÓRIO. IMPOSIÇÃO DE MULTA. 1. A jurisprudência desta Corte é firme no sentido de considerar inexistente o recurso interposto por advogado sem procuração nos autos na vigência do CPC/1973, não sendo aplicável a regra do art. 13 do CPC/1973. 2. É inadmissível o agravo interno no caso de ausência de procuração ao advogado que substabeleceu poderes ao subscritor da petição. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno não conhecido, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 6 de junho de 2019.
+Ministro Ricardo Lewandowski
+Relator
