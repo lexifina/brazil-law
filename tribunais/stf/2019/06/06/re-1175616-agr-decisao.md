@@ -1,0 +1,20 @@
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPORTAÇÃO. DESEMBARAÇO ADUANEIRO. CONDICIONAMENTO. PAGAMENTO DE DIFERENÇAS APURADAS POR ARBITRAMENTO DA AUTORIDADE FISCAL. TEMA 1.042 DA REPERCUSSÃO GERAL. RE 1.090.591. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO PREJUDICADO. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF).
+    DECISÃO: Trata-se de agravo interno interposto pela UNIÃO contra decisão de minha relatoria, assim ementada:
+    “RECURSO EXTRAORDINÁRIO TRIBUTÁRIO. IMPORTAÇÃO. DESEMBARAÇO ADUANEIRO. DECLARAÇÃO DE IMPORTAÇÃO. RECLASSIFICAÇÃO FISCAL DA MERCADORIA. RETENÇÃO DO BEM. EXIGÊNCIA DE DIFERENÇAS TRIBUTÁRIAS E MULTAS. FORMA INDIRETA DE COBRANÇA. PRINCÍPIOS DA LIVRE INICIATIVA E DO LIVRE EXERCÍCIO DE ATIVIDADE ECONÔMICA. PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. VIOLAÇÃO AO ARTIGO 93, IX, DA CF. INEXISTÊNCIA. RECURSO EXTRAORDINÁRIO DESPROVIDO.”
+    Inconformada com a decisão supra, a parte agravante interpõe o presente recurso, alegando, em síntese, que:
+    "O ponto nevrálgico é compreender que, para a jurisprudência mais atualizada do Supremo Tribunal Federal, a liberação da mercadoria importada está condicionada à comprovação, pelo importador, do preenchimento de TODOS os requisitos necessários à internação desses bens, entre eles o legítimo pagamento do tributo, cujo fato gerador surge no desembaraço aduaneiro.
+    No caso ora em exame, a condição prevista na legislação para a regular internação das mercadorias estrangeiras é o recolhimento da diferença de tributos devidos em face da reclassificação fiscal do bem importado, na forma da legislação aplicável
+    Assim, a não liberação da mercadoria importada não é expediente utilizado como meio coercitivo para pagamento de exação. A retenção combatida decorre, sim, da não implementação de condição necessária para prosseguimento do despacho de importação e internação das mercadorias importadas em território nacional, qual seja, o recolhimento da diferença de tributos e à multa devidos em face do ajuste do valor aduaneiro, na forma da legislação aplicável.
+    (...)
+    A não liberação da mercadoria, em hipóteses como a ora em exame, é medida indispensável para assegurar o pagamento das exações incidentes sobre a importação e, sobretudo, garantir a eficácia do controle do comércio exterior realizado pelo Estado, nos termos do mandamento expresso no art. 237 da CRFB. Tal medida encontra suporte constitucional e legal e não ofende o princípio da livre iniciativa, porquanto assegurado ao importador o desembaraço dos bens mediante prestação de garantia, com o prosseguimento do processo administrativo fiscal e obediência aos princípios do contraditório e da ampla defesa.
+    A inaplicabilidade da Súmula n. 323 aos tributos incidentes sobre a importação é, ademais, reconhecida por este Supremo Tribunal Federal, conforme se extrai do enunciado da Súmula n. 661.
+    (…)
+    Em suma, a interpretação da situação em exame à luz do art. 1º, IV, e do art. 170 e parágrafo único da CRFB, nos termos da Súmula 323 deste c. STF deve ser sopesada com os poderes atribuídos, também pela própria Constituição Federal, à fiscalização tributária, em especial no que tange ao comércio exterior, no art. 237 da Magna Carta.” (Grifos no original) (Doc. 5)
+    Reconsidero a decisão agravada, tornando-a sem efeito. Passo a nova análise do recurso.
+    A matéria versada no recurso extraordinário já foi submetida a exame por esta Corte na sistemática da repercussão geral (Tema 1.042, RE 1.009.591, rel. min. Marco Aurélio).
+    Ex positis, RECONSIDERO a decisão agravada, julgo PREJUDICADO o agravo interno e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a DEVOLUÇÃO do feito à origem.
+    Publique-se.
+    Brasília, 6 de junho de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
