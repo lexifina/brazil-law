@@ -1,0 +1,1 @@
+Art. 63-B. O juiz determinará a liberação total ou parcial dos bens, direitos e objeto de medidas assecuratórias quando comprovada a licitude de sua origem, mantendo-se a constrição dos bens, direitos e valores necessários e suficientes à reparação dos danos e ao pagamento de prestações pecuniárias, multas e custas decorrentes da infração penal.
