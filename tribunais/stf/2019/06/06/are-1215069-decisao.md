@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, caput, 150, II e IV, e 195, § 12º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O exame de eventual ofensa aos preceitos constitucionais indicados nas razões recursais (art. 5º da Lei Maior) demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo a não ocorrência de afronta aos arts. 150, II e IV, e 195, § 12º, da Constituição da República. Nesse sentido:
+    “EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DECLARATÓRIOS EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CRÉDITO PRÊMIO DE IPI. RESSARCIMENTO SOLICITADO NA VIA ADMINISTRATIVA. RESISTÊNCIA INJUSTIFICADA DA ADMINISTRAÇÃO TRIBUTÁRIA. ADIMPLEMENTO INTEMPESTIVO. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que há o direito à correção monetária dos créditos de IPI referentes aos valores não aproveitados na etapa seguinte da cadeia produtiva, desde que fique comprovada a estrita hipótese de resistência injustificada da Administração Tributária em realizar o pagamento tempestivamente. Precedentes. 2. A verificação, em concreto, da injustificada resistência do Fisco e da adequação dos termos da correção monetária cingem-se ao contencioso infraconstitucional. 3. Fixação de tese: ‘A mora injustificada ou irrazoável do fisco em restituir o valor devido ao contribuinte caracteriza a ‘resistência ilegítima’ autorizadora da incidência da correção monetária.’ 4. Embargos de divergência a que se dá provimento.” (RE 299605 AgR-ED-EDv, Relator(a): Min. Edson Fachin, Tribunal Pleno, julgado em 06.4.2016, ACÓRDÃO ELETRÔNICO DJe-126 DIVULG 17.6.2016 PUBLIC 20.6.2016)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 06 de junho de 2019.
+Ministra Rosa Weber
+Relatora
