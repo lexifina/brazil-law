@@ -1,0 +1,1 @@
+Art. 53-A. É dever da instituição de ensino, clubes e agremiações recreativas e de estabelecimentos congêneres assegurar medidas de conscientização, prevenção e enfrentamento ao uso ou dependência de drogas ilícitas.

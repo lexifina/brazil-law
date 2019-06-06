@@ -1,1 +1,1 @@
-Art. 50-A. A destruição de drogas apreendidas sem a ocorrência de prisão em flagrante será feita por incineração, no prazo máximo de 30 (trinta) dias contado da data da apreensão, guardando-se amostra necessária à realização do laudo definitivo, aplicando-se, no que couber, o procedimento dos §§ 3º a 5º do art. 50.
+Art. 50-A. A destruição das drogas apreendidas sem a ocorrência de prisão em flagrante será feita por incineração, no prazo máximo de 30 (trinta) dias contados da data da apreensão, guardando-se amostra necessária à realização do laudo definitivo.
