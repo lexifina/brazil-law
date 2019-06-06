@@ -1,0 +1,16 @@
+Solução de Consulta Cosit nº 168, de 31 de maio de 2019
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS
+EMENTA: NÃO CUMULATIVIDADE. CRÉDITOS. INSUMOS. SERVIÇO DE TRANSPORTE RODOVIÁRIO DE CARGAS. GASTOS COM SEGUROS E EMPLACAMENTO.
+Geram direito ao desconto de créditos da não cumulatividade da Cofins, na modalidade aquisição de insumos, os valores despendidos com pagamentos a pessoas jurídicas com seguro de cargas (RCTR-C e RCF-DC), seguro de veículos para transporte de cargas e com segurança automotiva de veículos de transporte de cargas (rastreamento/monitoramento), por se coadunarem com os critérios da essencialidade e relevância trazidos pelo Superior Tribunal de Justiça;
+Os valores pagos a pessoas jurídicas relativos à contratação de serviços de despachantes não se conceituam como insumos para efeitos do aproveitamento de créditos da Cofins, haja vista não serem abaracados pelos critérios da relevância e essencialidade;
+Os valores pagos a pessoas jurídicas relativos à aquisição e alteração de placas podem ser considerados insumos para fins de aproveitamento de créditos da Cofins, dado se tratarem de gastos abarcados pelos critérios da essencialidade e relevância, considerando-se a imprescindibilidade ou a importância do referido item para o desenvolvimento da atividade econômica desempenhada pela Consulente.
+SOLUÇÃO DE CONSULTA VINCULADA AO PARECER NORMATIVO COSIT Nº 5, DE 17 DE DEZEMBRO DE 2018, PUBLICADO NO DIÁRIO OFICIAL DA UNIÃO DE 18 DE DEZEMBRO DE 2018.
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 3º, II; Parecer Normativo Cosit/RFB nº 5, de 17 de dezembro de 2018.
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP EMENTA: NÃO CUMULATIVIDADE. CRÉDITOS. INSUMOS. SERVIÇO DE TRANSPORTE RODOVIÁRIO DE CARGAS. GASTOS COM SEGUROS E EMPLACAMENTO.
+Geram direito ao desconto de créditos da não cumulatividade da Contribuição para o PIS/Pasep, na modalidade aquisição de insumos, os valores despendidos com pagamentos a pessoas jurídicas com seguro de cargas (RCTR-C e RCF-DC), seguro de veículos para transporte de cargas e com segurança automotiva de veículos de transporte de cargas (rastreamento/monitoramento), por se coadunarem com os critérios da essencialidade e relevância trazidos pelo Superior Tribunal de Justiça;
+Os valores pagos a pessoas jurídicas relativos à contratação de serviços de despachantes não se conceituam como insumos para efeitos do aproveitamento de créditos da Contribuição para o PIS/Pasep, haja vista não serem abaracados pelos critérios da relevância e essencialidade;
+Os valores pagos a pessoas jurídicas relativos à aquisição e alteração de placas podem ser considerados insumos para fins de aproveitamento de créditos da Contribuição para o PIS/Pasep, dado se tratarem de gastos abarcados pelos critérios da essencialidade e relevância, considerando-se a imprescindibilidade ou a importância do referido item para o desenvolvimento da atividade econômica desempenhada pela Consulente.
+SOLUÇÃO DE CONSULTA VINCULADA AO PARECER NORMATIVO COSIT Nº 5, DE 17 DE DEZEMBRO DE 2018, PUBLICADO NO DIÁRIO OFICIAL DA UNIÃO DE 18 DE DEZEMBRO DE 2018.
+DISPOSITIVOS LEGAIS: Lei nº 10.637, de 2002, art. 3º, II; Parecer Normativo Cosit/RFB nº 5, de 17 de dezembro de 2018.
+.
+[arquivo anexo: SC Cosit nº 168-2019.pdf]
