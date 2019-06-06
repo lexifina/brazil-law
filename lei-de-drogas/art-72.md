@@ -1,1 +1,1 @@
-Art. 72. Encerrado o processo penal ou arquivado o inquérito policial, o juiz, de ofício, mediante representação do delegado de polícia ou a requerimento do Ministério Público, determinará a destruição das amostras guardadas para contraprova, certificando isso nos autos.
+Art. 72. Encerrado o processo criminal ou arquivado o inquérito policial, o juiz, de ofício, mediante representação da autoridade de polícia judiciária, ou a requerimento do Ministério Público, determinará a destruição das amostras guardadas para contraprova, certificando nos autos.

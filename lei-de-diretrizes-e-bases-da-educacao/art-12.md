@@ -9,3 +9,4 @@ VII - informar pai e mãe, conviventes ou não com seus filhos, e, se for o caso
 VIII - notificar ao Conselho Tutelar do Município a relação dos alunos que apresentem quantidade de faltas acima de 30% (trinta por cento) do percentual permitido em lei;
 IX - promover medidas de conscientização, de prevenção e de combate a todos os tipos de violência, especialmente a intimidação sistemática (bullying), no âmbito das escolas;
 X - estabelecer ações destinadas a promover a cultura de paz nas escolas.
+XI - promover ambiente escolar seguro, adotando estratégias de prevenção e enfrentamento ao uso ou dependência de drogas.
