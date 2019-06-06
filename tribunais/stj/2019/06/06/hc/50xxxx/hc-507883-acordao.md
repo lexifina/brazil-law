@@ -1,0 +1,90 @@
+EMENTA
+HABEAS CORPUS. JÚRI. HOMICÍDIO QUALIFICADO. DOSIMETRIA. AGRAVANTE NÃO ALEGADA NOS DEBATES. AUMENTO DA PENA NA SEGUNDA FASE DA DOSIMETRIA. IMPOSSIBILIDADE. INOBSERVÂNCIA DO ART. 492, I, "B", DO CÓDIGO DE PROCESSO PENAL. ORDEM CONCEDIDA.
+1. Com a reforma processual penal estabelecida pela Lei n. 11.689/2008, não há mais a exigência de que as atenuantes e as agravantes sejam quesitadas aos jurados; cabe ao Juiz sentenciante decidir pela sua aplicação.
+2. No procedimento especial do Tribunal do Júri, o reconhecimento das circunstâncias legais genéricas - sejam elas de natureza objetiva ou subjetiva - não fica ao livre arbítrio do julgador, uma vez que, segundo o art. 492, I, "b", do CPP, é indispensável que elas hajam sido objeto de debates em plenário. Precedentes do STJ.
+3. Na hipótese, não foi comprovada a menção à reincidência do ora paciente na sessão de julgamento. Assim, configura constrangimento ilegal a utilização da agravante, pelo Tribunal a quo, a fim de exasperar a reprimenda na segunda fase da dosimetria.
+4. Ordem concedida para excluir a agravante do art. 61, I, do CP e, portanto, redimensionar a pena.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, conceder a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+[NOME] alega sofrer coação ilegal no seu direito de locomoção em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação n. 0288515-90.2018.8.21.7000.
+O paciente foi condenado pelo Tribunal do Júri a 14 anos de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 121, § 2º, IV, do Código Penal. A Corte de origem deu parcial provimento ao recurso do órgão acusatório, para reconhecer a agravante do art. 61, I, do CP, e, assim, redimensionou a sanção para 16 anos.
+Neste writ, a Defensoria Pública aduz haver inobservância do art. 492, I, "b", do Código de Processo Penal, porquanto a reincidência não foi apontada em plenário.
+Requer a exclusão do acréscimo operado pelo Tribunal a quo.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 203-204).
+EMENTA
+HABEAS CORPUS. JÚRI. HOMICÍDIO QUALIFICADO. DOSIMETRIA. AGRAVANTE NÃO ALEGADA NOS DEBATES. AUMENTO DA PENA NA SEGUNDA FASE DA DOSIMETRIA. IMPOSSIBILIDADE. INOBSERVÂNCIA DO ART. 492, I, "B", DO CÓDIGO DE PROCESSO PENAL. ORDEM CONCEDIDA.
+1. Com a reforma processual penal estabelecida pela Lei n. 11.689/2008, não há mais a exigência de que as atenuantes e as agravantes sejam quesitadas aos jurados; cabe ao Juiz sentenciante decidir pela sua aplicação.
+2. No procedimento especial do Tribunal do Júri, o reconhecimento das circunstâncias legais genéricas - sejam elas de natureza objetiva ou subjetiva - não fica ao livre arbítrio do julgador, uma vez que, segundo o art. 492, I, "b", do CPP, é indispensável que elas hajam sido objeto de debates em plenário. Precedentes do STJ.
+3. Na hipótese, não foi comprovada a menção à reincidência do ora paciente na sessão de julgamento. Assim, configura constrangimento ilegal a utilização da agravante, pelo Tribunal a quo, a fim de exasperar a reprimenda na segunda fase da dosimetria.
+4. Ordem concedida para excluir a agravante do art. 61, I, do CP e, portanto, redimensionar a pena.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Contextualização
+O paciente e o corréu foram pronunciados pelas infrações tipificadas nos arts. 121, § 2º, IV, e 121, § 2º, IV, c/c o art. 14, II, todos do Código Penal.
+Na sessão de julgamento do Tribunal do Júri, não houve menção a nenhum evento que denotasse a recidiva criminosa do acusado, conforme observo da ata de julgamento (fl. 42):
+8. DEBATES:
+MINISTÉRIO PÚBLICO (Art. 476 caput).
+Encerrada a instrução a MM. Juíza-Presidente concedeu a palavra ao Ministério Público o qual, após ler os dispositivos da Lei Penal em que os réus se acham incursos, produziu a acusação, mostrou as provas usando da palavra das 10h40min às 12h52min, postulando a condenação nos termos da pronúncia.
+DEFESA (Arts. 476 § 3º)
+Finda a acusação usou da palavra A DEFESA das 13h54min às 16h26min postulando a absolvição, alegando insuficientes os elementos probatórios da autoria e, alternativamente, caso sejam condenados, seja afastada a qualificadora; quanto ao segundo fato, postula pela absolvição, sob alegação de insuficientes indícios de autoria e materialidade delitiva.
+RÉPLICA, TRÉPLICA E REINQUIRIÇÃO DE TESTEMUNHAS - Arts. 476, § 4º
+Iniciada a réplica às 16h32min até às 16h53min. Oportunizada a tréplica, iniciada às 16h53min até às 17h.
+O Conselho de Sentença condenou os agentes apenas pelo homicídio qualificado consumado. Ao individualizar a pena do ora insurgente, a Magistrada de primeiro grau reconheceu um antecedente criminal do agente e utilizou-o para exasperar a pena-base, mas não alterou a sanção na segunda etapa da dosimetria. Veja-se (fl. 53, destaquei):
+O réu registra mau antecedente, conforme consta na certidão de antecedentes das fls. 874/876 (condenação nos autos do processo nº 010/2.13.0017614-5). A conduta social e personalidade não foram auferidas no decorrer do processo. O motivo não restou esclarecido. No que pertine às circunstâncias, o conselho reconheceu que o fato se deu mediante recurso que dificultou a defesa do ofendido, o que serviu para qualificar o delito. Quanto ao comportamento da vítima, nada há no processo para desqualificar sua postura.
+Assim, diante das circunstâncias judiciais do artigo 59 do Código Penal, em sendo um vetor desfavorável (mau antecedente), fixo a pena-base pouco acima do mínimo legal, ou seja. 14 (quatorze) anos de reclusão.
+Não havendo outras circunstâncias atenuantes ou agravantes a serem ponderadas, resta a pena provisória em 14 (quatorze) anos de reclusão.
+O Tribunal estadual, por sua vez, deu parcial provimento à apelação ministerial e aplicou a agravante do art. 61, I, do CP, nos seguintes termos (fl. 177, grifei):
+O ponto do parcial provimento ao recurso ministerial está no reconhecimento da agravante da reincidência em relação a [NOME], como antecipado. Conforme a certidão de fls. 874/876, em 23 de abril de 2013, transitou em julgado a sentença que o condenou pelo crime de roubo (processo 010/2.11.0011341-7), o que, por óbvio, configura a referida agravante.
+Observo, por outro lado, que é possível manter o reconhecimento dos maus antecedentes em relação a este réu. Isto porque ele possui outra condenação, cuja sentença transitou em julgado em data posterior ao crime em comento, mas o fato criminoso é anterior.
+É o que vem decidindo, e concordo com o entendimento, o Superior Tribunal de Justiça.
+Mantendo a pena-base com o reconhecimento dos maus antecedentes, aumento em dois anos a citada pena em razão da reincidência. Resta a punição, definitivamente, fixada em dezesseis anos de reclusão.
+Diante disso, a defesa opôs embargos declaratórios, com o objetivo de afastar a reincidência, mas eles não foram conhecidos pelos motivos a seguir (fl. 193, destaquei):
+O autor pede, em seus embargos de declaração, o efeito infringente, para afastar do julgamento de segundo grau a agravante da reincidência. Além de a questão ser controversa e dependente de interpretação que fizer o julgador, não existe nenhuma prova que o representante do Ministério Público não fez referencia à agravante em plenário.
+A situação foi trazida pelo embargante apenas citando pedaços do relatório do acórdão. E quem disse que não houve referência à reincidência durante o debate  A presunção, porque há documentação a respeito, é que a questão foi mencionada. Portanto, não há omissão a aclarar.
+3. Assim, nos termos supra, não conheço dos embargos de declaração.
+Neste habeas corpus, a Defensoria Pública requer a exclusão da referida circunstância, uma vez que não foi alegada nos debates em plenário no Tribunal do Júri.
+II. Art. 492, I, "b", do Código de Processo Penal
+Com a reforma processual penal estabelecida pela Lei n. 11.689/2008, embora não haja mais a exigência de que as atenuantes e as agravantes sejam quesitadas aos jurados, o art. 492, I, "b", do CPP dispõe que, ao proferir a sentença, o magistrado "considerará as circunstâncias agravantes ou atenuantes alegadas nos debates" (destaquei).
+Dessa forma, cabe ao juiz presidente do Tribunal do Júri decidir pela aplicação das circunstâncias legais genéricas; todavia, esse reconhecimento não fica ao livre arbítrio do julgador, uma vez que, segundo o dispositivo legal mencionado, é indispensável que elas hajam sido objeto de debates em plenário.
+É dizer, se nenhuma das partes suscitou as referidas moduladoras nos debates orais, elas não poderão ser aplicadas na segunda fase da dosimetria da pena. Isso porque, ao reservar-se a definição da incidência das atenuantes e das agravantes unicamente ao magistrado - e, portanto, afastar a participação dos jurados nesse ponto -, buscou-se preservar a efetivação do contraditório no que tange a circunstâncias que poderão incidir no quantum da reprimenda.
+Veja-se, a propósito, a lição de Luiz Flávio Gomes, [NOME] e [NOME], in verbis:
+Observe-se que os jurados já não decidirão sobre atenuantes e agravantes. Não haverá quesitos aos jurados sobre esse ponto. As circunstâncias agravantes e atenuantes dizem respeito à aplicação da pena. Logo, cabe ao Juiz considerar as que foram alegadas nos debates. Aqui reside uma limitação ao Juiz; ele não pode levar em conta outras circunstâncias não alegadas, porque nesse caso não teria havido contraditório sobre elas. (GOMES, SANCHES e [NOME], Comentários à Reforma do Código de Processo Penal, 2008, p. 233, grifei)
+Registro que o Supremo Tribunal Federal tem um julgado, especificamente acerca da confissão espontânea, no qual entendeu que a atenuante é de ordem objetiva e deveria ser reconhecida pelo juiz presidente do Tribunal do Júri, ainda que não arguída na sessão plenária, em observância aos princípios da individualização da pena, da plenitude de defesa e da proporcionalidade. Veja-se:
+CONSTITUCIONAL, PENAL E PROCESSUAL PENAL. TRIBUNAL DO JÚRI. CONFISSÃO ESPONTÂNEA NÃO DEBATIDA NO PLENÁRIO. AUTODEFESA. PLENITUDE DE DEFESA. RECONHECIMENTO PELO MAGISTRADO DE OFÍCIO. POSSIBILIDADE. NATUREZA OBJETIVA DA ATENUANTE. DIREITO PÚBLICO SUBJETIVO DO RÉU. PRINCÍPIOS DA INDIVIDUALIZAÇÃO DA PENA E DA PROPORCIONALIDADE RESGUARDADOS. HARMONIZAÇÃO DO ART. 492, I, DO CÓDIGO DE PROCESSO PENAL, AOS ART. 65, III, D, DO CÓDIGO PENAL, E ART. 5º, XXXVIII, "A", e XLVI, DA CONSTITUIÇÃO DA REPÚBLICA.
+1. Pode o Juiz Presidente do Tribunal do Júri reconhecer a atenuante genérica atinente à confissão espontânea, ainda que não tenha sido debatida no plenário, quer em razão da sua natureza objetiva, quer em homenagem ao predicado da amplitude de defesa, consagrado no art. 5º, XXXVIII, "a", da Constituição da República.
+2. É direito público subjetivo do réu ter a pena reduzida, quando confessa espontaneamente o envolvimento no crime.
+3. A regra contida no art. 492, I, do Código de Processo Penal, deve ser interpretada em harmonia aos princípios constitucionais da individualização da pena e da proporcionalidade.
+4. Conceder a ordem.
+(HC n. 106.376/MG, Rel. Ministra Carmen Lúcia, 1ª T., DJe 1º/3/2011)
+Todavia, esse não é o entendimento mais atual e prevalente nesta Corte Superior, conforme se observa:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.
+JÚRI. DOSIMETRIA DA PENA. APLICAÇÃO DE AGRAVANTE. ART. 61, INCISO II, ALÍNEA F. JULGAMENTO REALIZADO NOS TERMOS DA LEI Nº 11.689/08.
+NECESSIDADE DE TER SIDO A TESE ALVO DOS DEBATES. AGRAVO DESPROVIDO.
+I - Com a reforma introduzida pela Lei nº 11.698/08 não há mais necessidade de submeter aos jurados quesitos acerca da existência de circunstâncias agravantes ou atenuantes.
+II - Não obstante, embora tenha sido transferido o exame da presença das referidas circunstâncias ao Juiz Presidente do Tribunal do Júri, elas somente serão consideradas na dosimetria da pena desde que suscitadas nos debates orais - como ocorreu na hipótese vertente - a teor do que prescreve o art. 492, inciso I, alínea b, do CPP.
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.546.080/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 14/9/2016, destaquei)
+ ..
+4. A alteração procedimental decorrente da Lei 11.689/2008 expurgou da cognitio dos jurados os quesitos relativos à agravantes e atenuantes, cabendo ao juiz presidente decidi-las por ocasião da fixação da pena, bastando que sejam alegados os fatos ensejadores das agravantes e atenuantes nos debates, salvo quando de forma concomitante configurarem qualificadoras (CP, art. 121, § 2º), caso em que deve constar desde o início na imputação e, posteriormente, na pronúncia e para então ser quesitada. É, pois, vedado ao órgão acusador suscitar na sessão de julgamento agravante correspondente à figura de qualificadora, como se constituísse fato diverso, sob pena de violação ao art. 483, V, e § 3º, II, do Código de Processo Penal.
+Nesse diapasão, o mesmo raciocínio, relativo às agravantes similares às qualificadoras de homicídio, aplica-se às circunstâncias judiciais, porquanto haveria verdadeira usurpação da competência funcional do conselho de sentença de decidir acerca das qualificadoras, escamoteadas de agravantes ou circunstâncias judiciais, bem como flagrante violação ao procedimento especial do Tribunal do Júri.
+ ..
+(HC n. 182.258/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 8/11/2016, grifei)
+ ..  DOSIMETRIA. CIRCUNSTÂNCIA JUDICIAL. VÍTIMA QUE CONTRIBUIU. ATENUANTE DA CONFISSÃO ESPONTÂNEA. INCIDÊNCIA. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. É condição sine qua non ao conhecimento do especial que tenham sido ventiladas, no contexto do acórdão objurgado, as teses jurídicas da formulação recursal, emitindo-se, sobre cada uma delas, juízo de valor, interpretando-se-lhes o sentido e a compreensão, em atenção ao disposto no artigo 105, inciso III, da Constituição Federal, que exige o prequestionamento por meio da apreciação da questão federal pelo Tribunal a quo, de modo a se evitar a supressão de instância. Súmulas 282/STF e 356/STF.
+2. Nos casos de julgamentos pelo Tribunal do Júri, o juiz só pode utilizar na dosimetria penal as agravantes e as atenuantes alegadas nos debates em plenário. Súmulas 568/STJ.
+ ..
+(AgInt no REsp n. 1.633.663/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 16/3/2017, destaquei)
+ ..
+1. Com a nova redação dada ao artigo 483 do CPP pela Lei 11.689/2008 não há mais obrigatoriedade de submeter aos jurados quesitos acerca da existência de circunstâncias agravantes ou atenuantes, sendo certo que, somente poderão ser consideradas pelo Juiz presidente, na formulação da dosimetria penal, as agravantes e atenuantes alegadas e debatidas em plenário, nos termos da regra constante do artigo 492, I, b, do CPP, circunstância não ocorrida na hipótese dos autos.
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 1.464.762/PE, Rel. Ministro Leopoldo de Arruda Raposo - Desembargador convocado do TJ/PE, 5ª T., DJe 29/6/2015, grifei)
+Observe-se que a jurisprudência do STJ não faz ressalvas acerca da aplicação do art. 492, I, "b", do CPP, compreensão endossada pela lição de Renato Brasileiro de Lima, o qual assevera que, mesmo em relação a circunstâncias objetivas - a exemplo da menoridade relativa do réu -, devem ser elas mencionadas nos debates:
+O art. 492, I, alínea "b", do CPP, deixa entrever que o juiz presidente só pode levar em consideração agravantes e atenuantes alegadas pelas partes durante os debates. Logo, se as partes não fizerem menção a tais circunstâncias nos debates, estará o juiz presidente impedido de levá-las em consideração. O referido dispositivo se aparta, portanto, do quanto previsto no art. 385 do CPP, o qual autoriza que o juiz reconheça agravantes, embora nenhuma tenha sido alegada. Destarte, se o art. 385 do CPP permite que qualquer outro órgão jurisdicional possa conhecer de oficio agravantes em sentido estrito, é certo que, no âmbito do Júri, ao juiz presidente só é permitido considerar as circunstâncias agravantes ou atenuantes alegadas nos debates, preservando-se, assim, o contraditório, a ampla defesa e o próprio sistema acusatório.
+Evidentemente, por ocasião da análise das agravantes ou atenuantes alegadas nos debates, deve o juiz presidente levar em consideração tanto a tese apresentada pela defesa técnica, quanto aquela apresentada pelo próprio acusado, no exercício de sua autodefesa. Assim, se o acusado, por ocasião de seu interrogatório, disser que era menor de 21 (vinte e um) anos à época do fato delituoso, significa dizer que a atenuante do art. 65, inciso I, do CP, foi alegada no debate, razão pela qual pode ser reconhecida pelo juiz em eventual sentença condenatória.
+(LIMA, Renato Brasileiro de. Manual de Processo Penal: volume único, Salvador: Ed. JusPodivm, 2017, p. 1.429-1430, destaquei)
+Na hipótese, verifico, da ata da sessão de julgamento, bem como dos memoriais acostados aos autos, que não houve menção à reincidência do ora paciente. A Magistrada de primeira instância, inclusive, não reconheceu essa agravante ao individualizar a pena do acusado. Todavia, o Tribunal a quo exasperou a reprimenda, na segunda fase da dosimetria, por identificar condenação com trânsito em julgado anterior aos fatos apurados.
+Desse modo, constato que a Corte local agiu em dissonância com a orientação do Superior Tribunal de Justiça e não observou os ditames do art. 492, I, "b", do Código de Processo Penal, motivo pelo qual afasto a agravante prevista no art. 61, I, do Código Penal e restabeleço a pena aplicada pela Juíza de primeiro grau - 14 anos de reclusão -, mantidos os demais termos fixados pelos Juízos ordinários.
+III. Dispositivo
+À vista do exposto, concedo o habeas corpus a fim de excluir a agravante da reincidência e, portanto, redimensionar a reprimenda para 14 anos de reclusão.
