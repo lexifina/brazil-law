@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO DOMICILIAR – ARTIGO 318-A, INCISO I, DO CÓDIGO DE PROCESSO PENAL – INADEQUAÇÃO.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Vara do Plantão da Comarca de Guaratinguetá/SP, no processo nº 0000397-49.2017.8.26.0621, converteu em preventiva a prisão em flagrante da paciente, ocorrida no dia 25 de maio de 2017, ante a suposta prática da infração prevista no artigo 157, § 3º, inciso I (roubo com causa de aumento por resultar lesão corporal grave), com redação anterior à Lei nº 13.654/2018, combinado com o 14, inciso II (modalidade tentada), do Código Penal. Ressaltou a materialidade e os indícios de autoria. Destacou os contornos do delito, cometido em estabelecimento comercial, mediante concurso de agentes e emprego de arma de fogo. Frisou indispensável a custódia para garantir a ordem pública e a aplicação da lei penal, reportando-se à gravidade do crime e ao fato de possuir outras condenações. Afastou a viabilidade de cautelar diversa, tendo-a como inadequada.
+    O Juízo da Primeira Vara Judicial da Comarca de Guaratinguetá/SP, em 6 de março de 2018, deixou de acolher o pedido de substituição da preventiva por prisão domiciliar, asseverando não comprovado tratar-se da única responsável pelos cuidados com os filhos menores.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 457.828/SP. A Sexta Turma indeferiu a ordem.
+    A Defensoria Pública do Estado de São Paulo alega a insubsistência dos fundamentos do ato por meio do qual determinada a custódia, afirmando-o lastreado na gravidade abstrata da imputação. Aduz a possibilidade de prisão domiciliar, aludindo à existência de filhos menores de 12 anos. Articula com a ofensa ao artigo 318, inciso V, do Código de Processo Penal. Realça o decidido pelo Supremo no habeas corpus coletivo nº 143.641. Sublinha as condições pessoais favoráveis da paciente – primariedade e residência fixa.
+    Requer, no campo precário e efêmero, seja revogada a preventiva e, sucessivamente, convertida a custódia em prisão domiciliar. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 4 de junho de 2019, revelou que a paciente foi condenada a 13 anos e 4 meses de reclusão, em regime inicial de cumprimento fechado, e ao pagamento de 6 dias-multa, em virtude do cometimento do crime descrito no artigo 157, § 3º, combinado com o 14, inciso II, do Código Penal. Negou o direito de recorrer em liberdade, afirmando persistirem os motivos ensejadores da preventiva.
+    A fase é de apreciação da medida de urgência.
+    2. A prisão em flagrante por tentativa de roubo, em estabelecimento comercial, mediante concurso de pessoas e emprego de arma de fogo, evidencia estar em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a custódia mostrou-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Quanto ao pedido sucessivo, a paciente comprovou ser mãe de Mikael Vitório Medeiros Alves e Michel Isak Medeiros Alves, nascidos, respectivamente, em 15 de dezembro de 2009 e 16 de outubro de 2011, hoje com 9 anos, 5 meses e 19 dias e 7 anos, 7 meses e 18 dias de idade. A existência de filhos menores não é suficiente, por si só, à substituição da preventiva pela prisão domiciliar. Surge ausente o requisito autorizador da medida, versado no artigo 318-A, inciso I, do Código de Processo Penal, incluído pela Lei nº 13.769/2018, considerada a tentativa de roubo mediante grave ameaça.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 6 de junho de 2019.
+Ministro MARCO AURÉLIO
+Relator
