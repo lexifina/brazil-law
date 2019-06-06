@@ -1,0 +1,31 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 5ª Região ementado nos seguintes termos (fl. 148, Vol. 2):
+    “PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO. LITISPENDÊNCIA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. ÔNUS DA SUCUMBÊNCIA. BENEFICIÁRIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. EXECUÇÃO SUSPENSA. APELAÇÃO PROVIDA.
+    1. Apelação interposta contra sentença que extinguiu o feito, sem resolução de mérito, com fundamento no art. 485, V, do CPC/2015, pela ocorrência da litispendência.
+    2. É possível arbitrar os honorários nos casos de ações movidas pelos beneficiários da assistência judiciária gratuita, mas fica a execução suspensa, por 5 (cinco) anos, enquanto perdurar a condição de necessidade, nos termos dos parágrafos 2º e 3º do art. 98 do CPC/2015
+    3. Precedentes: RE-AgR 514451, EROS GRAU, STF; EDcl nos EDcl no AgInt no REsp 1625650/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/11/2017, DJe 19/12/2017.
+    4. Deve a parte autora arcar com o ônus da sucumbência, considerando que deu causa ao ajuizamento da demanda e só requereu a extinção do feito após ter sido intimado para se manifestar sobre a litispendência.
+    5. Honorários advocatícios em favor da parte demandada fixados no valor de R$ 2.000,00 (dois mil reais), considerando que se trata de ação ajuizada em 14/12/2015, quando se encontrava em vigor o CPC/73.
+    6. Em razão da concessão da assistência judiciária gratuita, deverá permanecer suspensa a execução, enquanto permanecer a condição de necessidade, pelo prazo máximo de 5 (cinco) anos.
+    7. Apelação provida para condenar a parte demandante ao pagamento de honorários advocatícios, no valor de R$ 2.000,00 (dois mil reais), além das custas processuais, devendo a execução ficar suspensa enquanto permanecer a condição de necessidade, pelo prazo máximo de 5 (cinco) anos. (fl. 148, Vol. 2)
+    Opostos embargos de declaração questionando a constitucionalidade do recebimento dos honorários de sucumbência pelos advogados públicos, estes foram desprovidos (fl. 203, Vol. 2).
+    No apelo extremo, alega-se, com amparo no art. 102, “a”, da Constituição Federal, violação aos artigos 37, X e XI e aos parágrafos 1º e 3º, do art. 39 do texto constitucional.
+    Tece comentários à impossibilidade de recebimento de honorários advocatícios pelos advogados públicos, uma vez que os referidos agentes recebem seus vencimentos por subsídio.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Acresça-se que o Juízo de origem, com base no Código de Processo Civil de 1973, entendeu por devidos os honorários advocatícios. Nesse sentido, cite-se o seguinte trecho do voto condutor do acórdão recorrido Colho o seguinte trecho do dispositivo do acórdão impugnado (fls. 150-151, Vol. 2):
+    Necessitado, para o legislador, não é apenas o miserável, mas sim todo aquele cuja situação econômica não lhe permita pagar as custas do processo e os honorários de advogado, sem prejuízo do sustento próprio ou da família.
+    É possível se arbitrar os honorários em caso de sucumbente que é beneficiário de justiça gratuita, mas fica a respectiva execução suspensa, por 5 (cinco) anos, enquanto perdurar a condição de necessidade.
+    O CPC/2015 pacificou a questão ao prever a possibilidade de fixação de honorários advocatícios, nos parágrafos 2º e 3º do art. 98, in verbis:
+    (...)
+    Assim, deve-se condenar a parte demandante ao pagamento de honorários advocatícios em favor da parte demandada, no valor de R$ 2.000,00 (dois mil reais), considerando que se trata de ação ajuizada em 14/12/2015, quando se encontrava em vigor o CPC/73.
+    Trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 6 de junho de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
