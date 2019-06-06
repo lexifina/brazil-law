@@ -1,0 +1,1 @@
+Art. 67-A. Os gestores e entidades que recebam recursos públicos para execução das políticas sobre drogas deverão garantir o acesso às suas instalações, à documentação e a todos os elementos necessários à efetiva fiscalização pelos órgãos competentes.

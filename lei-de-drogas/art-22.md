@@ -5,3 +5,7 @@ III - definição de projeto terapêutico individualizado, orientado para a incl
 IV - atenção ao usuário ou dependente de drogas e aos respectivos familiares, sempre que possível, de forma multidisciplinar e por equipes multiprofissionais;
 V - observância das orientações e normas emanadas do Conad;
 VI - o alinhamento às diretrizes dos órgãos de controle social de políticas setoriais específicas.
+VII - estímulo à capacitação técnica e profissional;
+VIII - efetivação de políticas de reinserção social voltadas à educação continuada e ao trabalho;
+IX - observância do plano individual de atendimento na forma do art. 23-B desta Lei;
+X - orientação adequada ao usuário ou dependente de drogas quanto às consequências lesivas do uso de drogas, ainda que ocasional.
