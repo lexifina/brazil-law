@@ -1,0 +1,22 @@
+Vistos etc.
+    Aplicada a sistemática da repercussão geral e devolvido o recurso à origem para os fins previstos na sistemática da repercussão geral, considerado o ARE 1052570-RG, retornam os autos a esta Suprema Corte, observada pelo Tribunal de origem a distinção do precedente em relação à hipótese dos autos.
+    Aparelhado o recurso na afronta aos arts. 5º, XXXV, XXXVI e LV, e 37, XV, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Assiste razão.
+    De fato, a matéria versada no apelo extremo é distinta daquela tratada no paradigma indicado.
+    Assim, reconsidero a decisão pela qual aplicado o precedente acima e passo ao exame do recurso.
+    Transcrevo o inteiro teor da ementa do acórdão recorrido:
+    “ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DO SEGURO SOCIAL - GDASS. INTEGRALIDADE. ARTIGO 3º DA EMENDA CONSTITUCIONAL Nº 47/2005.
+    1. A Gratificação de Desempenho de Atividade do Seguro Social – GDASS possui natureza 'propter laborem' ou 'pro labore faciendo', assim entendida aquela que é satisfeita em virtude do efetivo exercício de uma atividade e de acordo com o desempenho nesse trabalho.
+    2. O fato de a referida gratificação alcançada à parte autora, após a aposentadoria, possuir valor menor do que a recebida na ativa não constitui violação à garantia constitucional da integralidade.”
+    O Tribunal de origem não divergiu da jurisprudência firmada no âmbito desta Suprema Corte, verbis:
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO PREVIDENCIÁRIO. APOSENTADORIA. PROVENTOS. INCORPORAÇÃO DA GRATIFICAÇÃO DE DESEMPENHO DA ATIVIDADE DO SEGURO SOCIAL – GDASS. INTEGRALIDADE. 1. A jurisprudência do STF tem entendimento firmado segundo o qual não há ofensa ao direito à integralidade a não incorporação aos proventos de aposentadoria do mesmo percentual da GDASS percebido pelo servidor em atividade. 2. Agravo regimental a que se nega provimento.” (RE 948.503-AgR, Rel. Min. Edson Fachin, Primeira Trurma, DJe 18.10.2016)
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PROVENTOS DE APOSENTADORIA. GRATIFICAÇÃO DE DESEMPENHO DA ATIVIDADE DO SEGURO SOCIAL – GDASS. INEXISTÊNCIA DE DIREITO AO RECEBIMENTO DA GRATIFICAÇÃO NA MESMA PONTUAÇÃO PAGA AO SERVIDOR PÚBLICO QUANDO EM ATIVIDADE. AUSÊNCIA DE OFENSA AO DIREITO À INTEGRALIDADE DE PROVENTOS. MAJORAÇÃO DE HONORÁRIOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Conforme a jurisprudência do Supremo Tribunal Federal, a incorporação da Gratificação de Desempenho da Atividade do Seguro Social – GDASS aos proventos de aposentadoria com redução da pontuação em relação àquela paga ao servidor público quando em atividade não viola o direito à integralidade assegurado pelo art. 3° da Emenda Constitucional 47/2005. II - Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC, observados os limites legais. III - Agravo regimental a que se nega provimento.” (RE 753.785-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 09.4.2018)
+    “EMENTA: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PENSÃO POR MORTE. INSTITUIDOR APOSENTADO ANTES DA EMENDA CONSTITUCIONAL Nº 41/2003, MAS FALECIDO APÓS SEU ADVENTO. DIREITO À PARIDADE MAS NÃO A INTEGRALIDADE. PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL (STF) EM REPERCUSSÃO GERAL. 1. O STF, no julgamento do RE 603.580-RG, Rel. Min. Ricardo Lewandowski, com repercussão geral reconhecida, firmou ntendimento no sentido de que “os pensionistas de servidor falecido posteriormente à EC n. 41/2003 têm direito à paridade com servidores em atividade (EC n. 41/2003, art. 7º), caso se enquadrem na regra de transição prevista no art. 3º da EC n 47/2005. Não tem, contudo, direito à integralidade (CF, art. 40, § 7º, inciso I)”. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios. 3. Agravo interno a que se nega provimento.” (RE 1173643-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 16.5.2019)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 07 de junho de 2019.
+Ministra Rosa Weber
+Relatora
