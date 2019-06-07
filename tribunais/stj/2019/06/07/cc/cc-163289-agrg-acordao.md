@@ -1,0 +1,39 @@
+EMENTA
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. TRANSFERÊNCIA E INCLUSÃO DE PRESO EM ESTABELECIMENTO PENAL FEDERAL DE SEGURANÇA MÁXIMA. RENOVAÇÃO. PERMANÊNCIA DOS MOTIVOS ENSEJADORES. DECISÃO FUNDAMENTADA. POSSIBILIDADE. AGRAVO IMPROVIDO.
+1. A Terceira Seção do STJ tem firme entendimento de que "não cabe ao Juízo Federal discutir as razões do Juízo Estadual, quando solicita a transferência de preso para estabelecimento prisional de segurança máxima, assim quando pede a renovação do prazo de permanência, porquanto este é o único habilitado a declarar a excepcionalidade da medida" (AgRg no CC n. 153.692/RJ, relator Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 22/2/2018, DJe 1º/3/2018).
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Felix Fischer, Laurita Vaz, Jorge Mussi, Sebastião Reis Júnior, Nefi Cordeiro, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro Rogerio Schietti [NOME].
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por [NOME] contra decisão que declarou a competência do Juízo Federal Corregedor da Penitenciária Federal em Mossoró e determinou a permanência do agravante no Sistema Penitenciário Federal (e-STJ fls. 70/73).
+Aduz que a decisão agravada deixou de tratar acerca dos "requisitos exigidos pela Lei e reconhecidos pela Jurisprudência desta Corte, no que tange ao pedido de renovação, se faziam presentes, mormente por se tratar de um pedido de renovação de permanência baseado na suposta persistência dos mesmos fundamentos ensejadores da transferência inicialmente deferida, a qual ocorreu há 10 anos" (e-STJ fls. 80/81).
+Alega que os motivos não permanecem e que há nulidade do feito ante a ausência de intimação do agravante para se manifestar nos autos.
+Requer, assim, "a reconsideração da decisão, e, caso mantida, requer o provimento do recurso para reformar a decisão agravada e determinar que o agravante retorne imediatamente a um estabelecimento prisional do Estado do Rio de Janeiro" (e-STJ fl. 91).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Insurge-se o agravante contra a decisão que declarou competente o Juízo Federal e determinou sua permanência no regime penitenciário federal.
+Alega que os motivos que ensejaram sua transferência não permanecem, de sorte que ele deveria retornar ao estabelecimento carcerário estadual.
+Ocorre que a jurisprudência desta Corte é firme no entendimento de que "não cabe ao Juízo Federal discutir as razões do Juízo Estadual, quando solicita a transferência de preso para estabelecimento prisional de segurança máxima, assim quando pede a renovação do prazo de permanência, porquanto este é o único habilitado a declarar a excepcionalidade da medida" (AgRg no CC n. 153.692/RJ, relator Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 22/2/2018, DJe 1º/3/2018).
+Sendo assim, a despeito das alegações da parte agravante, reputa-se correta a decisão combatida, razão por que se propõe, aqui, que seja mantida nos termos em que prolatada, a saber (e-STJ fls. 71/73):
+A Terceira Seção desta Corte firmou orientação de que "não cabe ao juízo federal a revisão dos critérios de necessidade expendidos pelo magistrado estadual que solicita transferência ou prorrogação do apenado a estabelecimento prisional de segurança máxima" (CC n. 139.087/RJ, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 23/9/2015, DJe de 2/10/2015).
+Nesse sentido:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. TRANSFERÊNCIA DE PRESO PARA PRESÍDIO FEDERAL. PRORROGAÇÃO DO PRAZO. POSSIBILIDADE. PREVALÊNCIA DA FUNDAMENTAÇÃO DO JUÍZO DE ORIGEM. RESSALVA DE ENTENDIMENTO. RECURSO A QUE SE NEGA PROVIMENTO.
+1. De acordo com o entendimento firmado pela Terceira Seção desta Corte, permanecendo os motivos que ensejaram a transferência do preso para o sistema federal, deve ser prorrogado o prazo nos termos do art.10, § 1º, da Lei nº 11.671/2008, não cabendo ao Juízo Federal discutir as razões do Juízo Estadual. Ressalva do entendimento da relatora.
+2. Agravo regimental a que se nega provimento. (AgRg no CC 149.962/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 08/02/2017, DJe 13/02/2017.)
+PENAL E PROCESSO PENAL. CONFLITO DE COMPETÊNCIA. 1. TRANSFERÊNCIA PARA PRESÍDIO FEDERAL. RENOVAÇÃO REJEITADA. CONFLITO SUSCITADO. ART. 10, § 5º, DA LEI N. 11.671/2008. 2. PERMANÊNCIA DAS RAZÕES. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. POSIÇÃO DE LIDERANÇA DO "COMANDO VERMELHO". MOTIVAÇÃO LEGAL. ARTS. 3º E 10, § 1º, DA LEI N. 11.671/2008. 3. IMPOSSIBILIDADE DE JUÍZO DE VALOR DO MAGISTRADO FEDERAL. MERA AFERIÇÃO DA LEGALIDADE DA MEDIDA. 4. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO FEDERAL.
+1. A rejeição da renovação de permanência do apenado em presídio federal autoriza seja suscitado conflito de competência, nos termos do art. 10, § 5º, da Lei n. 11.671/2008.
+2. Persistindo as razões que ensejaram a transferência do preso para o presídio federal de segurança máxima, como afirmado pelo Juízo de Direito da Vara de Execuções Penais do Estado do Rio de Janeiro/RJ, a renovação da permanência do apenado é providência indeclinável, como medida excepcional e adequada para resguardar a ordem pública. Incidência do art. 3º do Decreto 6.877/2009, que regulamenta a Lei supramencionada.
+3. Prevalece no Superior Tribunal de Justiça o entendimento no sentido de que, acaso devidamente motivado pelo Juízo estadual o pedido de manutenção do preso em presídio federal, não cabe ao Magistrado Federal exercer juízo de valor sobre a fundamentação apresentada, mas apenas aferir a legalidade da medida. Ressalva do ponto de vista do Relator.
+4. Conflito conhecido para declarar competente o Juízo Federal Corregedor da Penitenciária Federal de Mossoró - SJ/RN, ora suscitado, devendo o apenado permanecer cumprindo pena no presídio federal de segurança máxima. (CC 138.939/RJ, relator Ministro Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 26/08/2015, DJe 04/09/2015.)
+PENAL. CONFLITO DE COMPETÊNCIA. TRANSFERÊNCIA DE PRESO PARA O SISTEMA PENITENCIÁRIO FEDERAL. PEDIDO DE PRORROGAÇÃO DO PRAZO. POSSIBILIDADE. LEI N. 11.671/2008. NECESSIDADE DE FUNDADA MOTIVAÇÃO PELO JUÍZO DE ORIGEM. PERSISTÊNCIA DO MOTIVO ENSEJADOR DO PEDIDO DE TRANSFERÊNCIA ORIGINÁRIO. FUNDAMENTAÇÃO SUFICIENTE.
+1. Persistindo as razões e os fundamentos que ensejaram a transferência do preso para o presídio federal de segurança máxima, como afirmado pelo Juízo suscitante, notadamente em razão da periculosidade concreta do apenado, que desempenha função de liderança em facção criminosa, a renovação da permanência é providência indeclinável, como medida excepcional e adequada para resguardar a ordem pública (CC n. 120.929/RJ, Ministro Marco Aurélio Bellizze, Terceira Seção, DJe 16/8/2012).
+2. Conflito conhecido para declarar a competência do Juízo Federal Corregedor da Penitenciária Federal em Mossoró - SJ/RN, determinando a permanência do apenado [NOME] no Sistema Penitenciário Federal. (CC 138.260/RJ, relator Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 10/06/2015, DJe 03/08/2015.)
+Ante o exposto, conheço do conflito e declaro competente o Juízo suscitado (JUÍZO FEDERAL CORREGEDOR DA PENITENCIÁRIA FEDERAL EM MOSSORÓ) e determino a permanência do apenado RICARDO [NOME] [NOME] LOPES no Sistema Penitenciário Federal.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
