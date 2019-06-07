@@ -1,0 +1,26 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. CUSTAS PROCESSUAIS. INTERPRETAÇÃO DE LEI ESTADUAL. SÚMULA 280/STF. MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL PELO NÃO PROVIMENTO DO RECURSO. AGRAVO DO ESTADO DO PARANÁ DESPROVIDO.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto com fundamento na alínea a do art. 105, III da Constituição Federal, no qual o ESTADO DO PARANÁ se insurge contra acórdão proferido pelo TJPR, assim ementado:
+AGRAVO INOMINADO. DECISÃO DO RELATOR QUE NEGA PROVIMENTO AO RECURSO DE APELAÇÃO CÍVEL. FORNECIMENTO GRATUITO DE MEDICAMENTO. CONDENAÇÃO AO PAGAMENTO DE CUSTAS PROCESSUAIS. JULGAMENTO MONOCRÁTICO EM CONFORMIDADE COM A JURISPRUDÊNCIA PACÍFICA DESTA CORTE. CORRETA APLICAÇÃO DO ARTIGO 557, CAPUT DO CÓDIGO DE. PROCESSO CIVIL. RECURSO DESPROVIDO.
+O recorrente, através do recurso previsto capar do artigo 557, § 1o.. do Código de Processo Civil, deve demonstrar que em verdade seu recurso não é manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante do respectivo tribunal. do Supremo Tribunal Federal ou de Tribunal Superior. Não o fazendo, a decisão do relator - que apenas antecipou o
+entendimento do colegiado - prevalece (fls. 168).
+2. Em seu Apelo Nobre (fls. 179/184), sustenta o Recorrente, em suma, violação do art. 381 do CC, por entender que o Estado do Paraná não deve arcar com as custas processuais destinadas ao FUNJUS. Afirma, com base no instituto da confusão, que o Estado é credor e devedor ao mesmo tempo.
+3. Sobreveio juízo negativo de admissibilidade (fls. 196), o que ensejou a interposição do presente Agravo (fls. 200/204).
+4. O Ministério Público Federal, em parecer da lavra da ilustre Subprocuradora-Geral da República [NOME], manifestou-se pelo não provimento do Agravo em Recurso Especial.
+5. É o relato do essencial.
+6. A irresignação não merece prosperar.
+7. Com efeito, em relação à impossibilidade de o Estado do Paraná arcar com as custas processuais, embora o Recorrente tenha invocado legislação federal, o deslinde da controvérsia passa necessariamente pela análise de direito local - Lei 15.942/2008 do Estado do Paraná -, medida vedada na via estreita do Recurso Especial, a teor da Súmula 280 do STF, aplicável ao caso por analogia.
+8. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 535 NÃO VIOLADO. FORNECIMENTO DE MEDICAMENTOS. FUNDAMENTAÇÃO CONSTITUCIONAL. EXTRAPOLADA A ESTREITA VIA DO RECURSO ESPECIAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. CUSTAS PROCESSUAIS E TAXA DO FUNJUS. TRIBUNAL DE ORIGEM QUE SE BASEOU EM INTERPRETAÇÃO DE LEI ESTADUAL. IMPOSSIBILIDADE DE ANÁLISE. ÓBICE DA SÚMULA 280/STF. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1. O Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Quanto à necessidade do fármaco, observa-se que nesse ponto a fundamentação do acórdão local é predominantemente constitucional (direito à vida e à saúde) e, ainda, que o afastamento das conclusões adotadas pela Corte de origem, acerca da imprescindibilidade do medicamento, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. O exame da controvérsia acerca da existência de confusão entre os entes envolvidos no recolhimento de despesas processuais, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos da Lei Estadual 15.942/2008, pretensão insuscetível de ser apreciada em recurso especial, nos termos da Súmula 280/STF: Por ofensa a direito local não cabe recurso extraordinário.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 756.249/PR, Rel. Min. SÉRGIO KUKINA, DJe 29.9.2015).
+
+AGRAVO REGIMENTAL. ADMINISTRATIVO. PROCESSUAL CIVIL. FAZENDA PÚBICA MUNICIPAL. ISENÇÃO DE CUSTA. INICIAL. ANÁLISE DE MATÉRIA DE DIREITO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+Embora o recorrente alegue ter ocorrido violação de matéria infraconstitucional, qual seja, dos arts. 27 do CPC e 39, parágrafo único, da Lei 6.830/90, segundo se observa das razões da Corte de origem, ela apreciou a controvérsia com base na Lei Estadual 4.485/2001, que regulamenta o pagamento de custas iniciais. Assim, é impossível dar seguimento ao apelo especial, pois é imperativa a incidência, por analogia, da vedação prevista na Súmula 280 do STF, segundo a qual, por ofensa a direito local, não cabe recurso extraordinário.
+Agravo regimental improvido (AgRg no AREsp. 672.627/SE, Rel. Min. HUMBERTO MARTINS, DJe 1o.9.2015).
+
+PROCESSO CIVIL. RECURSO ESPECIAL. LEI LOCAL. Se a reforma do julgado demanda a interpretação de lei local, o recurso especial é inviável (STF, Súmula n 280). Agravo regimental não provido (AgRg no AREsp. 325.430/PE, Rel. Min. ARI PARGENDLER, DJe 3.6.2014).
+9. Ante do exposto, nega-se provimento ao Agravo do ESTADO DO PARANÁ.
+10. Publique-se. Intimações necessárias.
