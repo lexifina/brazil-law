@@ -1,0 +1,7 @@
+DECISÃO
+Neste habeas corpus, impetrado em favor de [NOME] - preso em flagrante pela suposta prática dos crimes tipificados nos arts. 296, § 1º, III, 328, parágrafo único, e 288, todos do Código Penal - sob alegação de constrangimento ilegal na prisão preventiva decretada no bojo da Ação Penal n. 0000648-63.2019.8.17.0810 (2ª Vara Criminal da comarca de Jaboatão dos Guararapes/PE), requer-se, inclusive em caráter liminar, seja concedida a liberdade ao paciente, ainda que mediante a aplicação de medidas cautelares diversas.
+É o relatório.
+Sucede que é inviável aferir a existência da aludida ilegalidade, pois a exordial não veio acompanhada da cópia da decisão que converteu a prisão em flagrante em preventiva.
+Como é cediço, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente, e por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado (STF - AgRg no HC 103.240/RS, Ministro Ayres Britto, Segunda Turma, DJe 29/3/2011; HC n. 107.350/RS, Ministra Cármen Lúcia, Primeira Turma, DJe 19/5/2011; STJ - HC n. 197.183/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 30/6/2011; STJ - HC n. 119.702/PE, Ministra Jane [NOME] (Desembargadora Convocada do TJ/MG), Sexta Turma, DJe 2/3/2009).
+Ante o exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique-se.
