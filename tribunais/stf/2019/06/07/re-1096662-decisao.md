@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA LEGAL – INTERPRETAÇÃO – INVIABILIDADE – PREQUESTIONAMENTO – AUSÊNCIA – SEGUIMENTO – NEGATIVA.
+    1. Colho do acórdão recorrido a síntese:
+    TRIBUTÁRIO. PROCESSUAL CIVIL. CONGRUÊNCIA DA SENTENÇA AOS LIMITES DA LIDE. CONTRIBUIÇÕES PREVIDENCIÁRIAS. IMUNIDADE. SUFICIÊNCIA DO PREENCHIMENTO DOS REQUISITOS MATERIAIS. CONTRIBUIÇÕES PATRONAIS. CONTRIBUIÇÃO DEVIDA PELOS EMPREGADOS. ALCANCE DA IMUNIDADE. REMESSA OFICIAL. ACOLHIMENTO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE.
+    1. A sentença decidiu a controvérsia de acordo com os fatos e os fundamentos jurídicos expostos pela parte, inexistindo violação aos arts. 128 e 460, do CPC. Embora a executada invoque o art. 150, § 2º, da Constituição Federal, a causa de pedir abrange o reconhecimento da imunidade tributária conferida às entidades beneficentes de assistência social.
+    2. O art. 195, § 7º, da CF, cuida de hipótese de imunidade, passível de esmiuçamento por lei ordinária.
+    3. Na ADIn nº 2.028, o STF suspendeu a eficácia do artigo 1º da Lei nº 9.732/1998, na parte que alterou a redação do artigo 55, inciso III, da Lei nº 8.212/1991, e acrescentou-lhe os §§ 3º, 4º e 5º, bem como dos artigos 4º, 5º e 7º do citado diploma legal.
+    4. Na Arguição de Inconstitucionalidade nº 2002.71.00.005645-6, esta Corte entendeu pela constitucionalidade da exigência dos requisitos específicos quanto à constituição e ao funcionamento das entidades beneficentes de assistência social previstos no art. 55 da Lei nº 8.212/1991 e alterações dadas pelos arts.5º da Lei nº 9.429/1996, 1º da Lei nº 9.528/1997 e 3º da MP nº 2.187/2001, para que a entidade assistencial faça jus à imunidade conferida pelo art. 195, § 7º, da CF/88.
+    5. Havendo prova de que a executada atende aos requisitos materiais elencados no art. 55 da Lei nº 8.212/1991, o fato de não dispor do Certificado de Entidade Beneficente de Assistência Social não constitui óbice ao reconhecimento do seu direito ao gozo da imunidade tributária, visto que se trata de fundação criada por lei municipal e mantida por recursos públicos, que presta serviços de saúde gratuitos à população.
+    6. O art. 195, parágrafo 7º, da CF, abrange apenas as contribuições patronais, que incidem sobre a remuneração dos empregados e contribuintes individuais. Não alcança, portanto, as contribuições devidas pelos empregados, que devem ser retidas e recolhidas pela entidade à Previdência Social.
+    7. Nos casos de acolhimento de exceção de pré-executividade em que o valor controvertido supera o limite legal de 60 salários mínimos, a sentença submete-se à remessa oficial.
+    No extraordinário, a União diz violado o artigo 97 da Constituição Federal, ante o afastamento, sem declaração de inconstitucionalidade do artigo 55, inciso II, da Lei nº 8.212/1991. Alegando a inaplicabilidade da imunidade de contribuições sociais a entidades de direito público, aponta ofensa aos artigos 3º, inciso I, e 195, cabeça e parágrafos 5º e 7º, da Lei Maior.
+    2. Ao dispensar a apresentação do Certificado de Entidade Beneficente de Assistência Social por pessoa jurídica de direito público, o Colegiado de origem limitou-se a elucidar o alcance do artigo 55, inciso II, da Lei nº 8.212/1991. Revelando o acórdão impugnado interpretação de normas estritamente legais, descabe a observância da cláusula de reserva de plenário. À mercê de articulação sobre a violência à Constituição Federal, pretende-se submeter à análise matéria que não se enquadra no inciso III do artigo 102 da Lei Maior.
+    A par disso, o que sustentado — a inaplicabilidade do artigo 195, § 7º, da Carta Política, a entidades de direito público — não foi enfrentado pelo Órgão julgador. A matéria foi articulada a partir dos embargos de declaração formalizados contra o acórdão recorrido, consistindo em inovação recursal. Pertinente o óbice do verbete nº 282 da Súmula do Supremo:
+    É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 7 de junho de 2019.
+Ministro MARCO AURÉLIO
+Relator
