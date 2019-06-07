@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de CRISTIANO DE LIMA PINHEIRO contra acórdão do Tribunal de Justiça do Estado do Mato Grosso.
+Consta dos autos que o paciente foi absolvido, em primeira instância, da prática do crime de posse irregular de munição de uso permitido.
+Irresignado, interpôs apelação perante o Tribunal de origem, o qual deu provimento ao recurso em acórdão assim ementado:
+ APELAÇÃO CRIMINAL - POSSE DE MUNIÇÃO DE USO PERMITIDO, EM DESACORDO COM DETERMINAÇÃO LEGAL OU REGULAMENTAR - RECURSO MINISTERIAL - PRETENDIDA CONDENAÇÃO - PROCEDENTE - AUTORIA E MATERIALIDADE COMPROVADAS - RECURSO PROVIDO.
+Não há que se falar em ausência de prova da existência do fato, uma vez que a materialidade restou demonstrada pelo auto de prisão em flagrante, auto de exibição e apreensão e pelo boletim de ocorrência, e a autoria é inconteste diante da confissão extrajudicial do apelado corroborada pelos depoimentos policiais. Ademais, o crime cometido classifica-se como de mera conduta e de perigo abstrato, não demandando resultado naturalístico ou efetivo perigo de lesão (fl. 270).
+No presente writ, sustenta a atipicidade da conduta em razão da inexistência de perigo concreto, uma vez que junto às munições não foi encontrada nenhuma arma.
+Afirma que o laudo técnico não comprovou a eficiência das munições para pronta utilização.
+Requer, assim, a concessão da ordem para absolver o paciente.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração, conforme parecer de fls. 339/342.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Inicialmente, no que diz respeito à eficácia da munição para efetuar disparos, verifica-se que o acórdão impugnado não se manifestou expressamente sobre o tema - apenas afirmando tratar-se de munições reais, próprias para utilização em arma de fogo - o que impede o conhecimento da matéria por esta Corte Superior, sob pena de incorrer em indevida supressão de instância.
+Quanto a tipicidade da conduta, o Tribunal de origem manifestou-se no seguinte sentido:
+Extrai-se dos autos que a guarnição da polícia militar foi acionada para averiguar a suposta ocorrência de um crime de furto e, ao chegar no local indicado pelas vítimas, encontraram o apelado o qual confessou ser o autor do crime de furto.
+Na residência do acusado foram encontradas 6 munições da marca CBC, calibre 12, todas intactas, sendo que o mesmo confessou que havia furtado as munições e as guardava em sua residência com intuito de trocar por drogas (p. 14).
+A tese de inexistência de prova de que o material apreendido se caracterizava realmente como munição não prospera, uma vez que o auto de exibição e apreensão de p. 13 constatou que o material apreendido tratava-se de munição, sendo suficiente para comprovar a materialidade do delito.
+Ademais, o laudo pericial de p. 213/221 concluiu que os objetos apreendidos são efetivamente cartuchos próprios dos utilizados para arma de fogo.
+Assim, comprovada a autoria e materialidade do delito, de rigor a condenação do apelado como incurso nas penas do art. 12 da Lei n. 10.826/03.
+Ressalte-se que o crime cometido (posse de munição de uso permitido e restrito, sem permissão legal) classifica-se como de mera conduta e de perigo abstrato, não demandando resultado naturalístico ou efetivo perigo de lesão (fls. 272/273).
+Desse modo, o TJMS não divergiu da jurisprudência consolidada nesta Corte Superior, no sentido de que o crime de posse de munição é crime de perigo abstrato e sua consumação independe da apreensão em conjunto de armamento.
+Nesse sentido:
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NÃO CONHECIMENTO. ..  POSSE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. TIPICIDADE MATERIAL DA CONDUTA. CRIME DE PERIGO ABSTRATO. LESÃO À SEGURANÇA PÚBLICA E À PAZ COLETIVA. COAÇÃO ILEGAL INEXISTENTE.
+1. Os crimes de perigo abstrato são os que prescindem de comprovação da existência de situação que tenha colocado em risco o bem jurídico tutelado, ou seja, não se exige a prova de perigo real, pois este é presumido pela norma, sendo suficiente a periculosidade da conduta, que é inerente à ação.
+2. As condutas punidas por meio dos delitos de perigo abstrato são as que perturbam não apenas a ordem pública, mas lesionam o direito à segurança, daí porque se justifica a presunção de ofensa ao bem jurídico.
+3. O simples fato de possuir ilegalmente munição de uso permitido caracteriza a conduta descrita no artigo 14 da Lei 10.826/2003, por se tratar de crime de perigo abstrato, cujo objeto imediato é a segurança coletiva.
+4. Ocorre que o Supremo Tribunal Federal, ao julgar o RHC 143.449/MS, evoluiu no sentido de admitir a incidência do princípio da insignificância nos casos de apreensão de pequena quantidade de munição, desde que as circunstâncias concretas do caso revelem a ausência de potencialidade lesiva da conduta. 5. Para fins de aplicação do princípio da insignificância, é imprescindível analisar os seguintes vetores: a) a mínima ofensividade da conduta do agente; b) a ausência de periculosidade social da ação; c) o reduzido grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada, tendo-se em conta sempre que o Direito Penal não deve se ocupar de condutas que, diante do desvalor do resultado produzido, não representem prejuízo relevante, seja ao titular do bem jurídico tutelado, seja à integridade da própria ordem social.
+6. Na espécie, o contexto em que apreendida a munição de uso permitido, qual seja, logo após a prática de dois roubos pelo paciente e pelo corréu, ocasiões em que ambos portavam armas de fogo ostensivamente, demonstra a potencialidade lesiva de sua conduta bem como a sua efetiva periculosidade, circunstâncias aptas a embasar a incidência do Direito Penal no caso concreto, preservando-se, assim, a ordem pública e social. Precedentes do STF e do STJ.
+7. Habeas corpus não conhecido (HC 490.237/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/03/2019).
+Ausente, portanto, qualquer constrangimento que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34,inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração.
+Publique-se.
