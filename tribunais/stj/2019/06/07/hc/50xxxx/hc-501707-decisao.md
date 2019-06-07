@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de ALLAN REIS TERRA SANTANA, contra v. acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, no writ n. 1.0000.19.013876-8/000.
+Depreende-se dos autos que o d. Juízo da Vara de Execuções Criminais homologou a falta grave praticada pelo paciente, consistente em deixar de retornar ao presídio no dia 14/6/2018, após o trabalho externo, determinando a regressão de regime, a alteração da data-base e a perda dos dias eventualmente remidos (fls. 11-12).
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal de origem, mas a ordem foi denegada, nos termos do v. acórdão assim ementado (fl. 13):
+"HABEAS CORPUS - EXECUÇÃO PENAL - APURAÇÃO DE FALTA GRAVE - REGRESSÃO CAUTELAR DE REGIME - MATÉRIA DE EXECUÇÃO - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO - ORDEM DENEGADA.
+- Diante da ausência de manifesto constrangimento ilegal, sanável de ofício, denega-se a ordem.
+- Ordem denegada."
+Daí o presente writ, em que o impetrante alega, em síntese, que o reconhecimento da prática de falta grave em razão de atraso na apresentação no presídio é medida desproporcional em relação à conduta praticada.
+Assere que "há, evidentemente, uma absurda diferença entre o atraso de menos de um dia e aquilo que se deve ser tomado como evasão ou tentativa de fuga. Equiparar as duas situações para efeito de penalização é rigorosamente injusto, inaceitável, porquanto agride frontalmente o princípio da proporcionalidade, também um dos pilares do direito penal" (fl. 5).
+Aduz que, "nesse cenário, o máximo a que se pode admitir é a aplicação da sanção média, como orienta a jurisprudência mais justa e sensata" (fl. 6).
+Requer, ao final, a concessão da ordem, inclusive liminarmente, para que seja cassada a decisão originária "restabelecendo ao paciente o direito imediato ao cumprimento de pena no regime a que foi condenado, o semi aberto, aplicando-se, inclusive, e evidentemente, a imediata recontagem de prazos para efeito de progressões outras" (fl. 7).
+O pedido liminar foi indeferido às fls. 24-25.
+Informações prestadas às fls. 29-54.
+O Ministério Público Federal, às fls. 63-67, manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Assim, incabível o presente mandamus, porquanto substitutivo de recurso ordinário.
+Em homenagem ao princípio da ampla defesa, no entanto, passa-se ao exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Como relatado, a controvérsia trazida no presente mandamus cinge-se na alegação da Defesa de que o reconhecimento da prática de falta grave em razão de atraso na apresentação no presídio é medida desproporcional em relação à conduta por ele praticada.
+Insta transcrever a seguir o que foi consignado pelo eg. Tribunal de origem no v. aresto ora combatido (fls. 15-19 - grifei):
+"Ab initio, ressalto que o habeas corpus, tecnicamente, não é o instrumento adequado para atacar decisões proferidas em sede de execução penal, haja vista a existência de recurso próprio para tal fim, qual seja, o agravo de execução.
+Não obstante, oportuno salientar que a Constituição da República prevê que o habeas corpus será concedido sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder (art. 5º, inc. LXVJJJ).
+O Código de Processo Penal recepciona tal preceito no art.647, (..).
+Nesse descortino, verifica-se que o código ainda impõe aos juizes e aos tribunais que expeçam, de ofício, ordem de habeas corpus quando, no curso do processo, verificarem que alguém sofre ou está na iminência de sofrer coação ilegal (art. 654, § 2º).
+Vê-se, portanto, que se trata de um remédio constitucional, ao qual são conferidas amplas facilidades e vantagens, não havendo formalidades, custas ou prazos, tampouco exigência de capacidade postulatória.
+De tal sorte, é imprescindível que a ordem de habeas corpus seja conhecida e, via de consequência, analisada a existência de ilegalidade ou abuso de poder no ato judicial impugnado .
+No entanto, a apreciação deve ser realizada nos estritos limites da legalidade ou não da coação na liberdade do paciente, não " sendo a via adequada para a análise de questões meritórias, ao que a competência é do Juizo de Primeiro Grau. (STF, HC n. 121.537, Min. Roberto Barroso; HC n. 111.670, Min. Cármen Lúcia; STJ, HC n. 277.152, Min. Jorge Mussi; HC n. 275.352, Min. Maria Thereza de Assis Moura).
+(..)
+Isto posto, conheço do habeas corpus.e passo a análise do mérito.
+Em análise persecutória dos autos, verifica-se que não existe qualquer ilegalidade a ser sanada pelo presente writ, uma vez que a regressão cautelar do regime prisional, sem a oitiva prévia do condenado, é possível, sendo esta somente exigida na regressão definitiva.
+(..).
+Volvendo ao caso dos autos, verifica-se o paciente foi condenado a uma pena de 05 anos de reclusão, em regime semiaberto, pela prática dos delitos previstos no art.33, caput, da Lei 11.343/06.
+Conforme informado pela autoridade coatora:
+"(..) O paciente supramencionado, em cumprimento de pena no regime semiaberto, deixou de retomar ao Presídio no dia 14/06/18 (ofício do í. Diretor do Presidio em anexo), razão pela qual foi lançada a fuga no sistema. Recebido o comunicado, foi designada audiência de justificação, na qual o apenado informou ao Juízo que deixou de retomar ao Presídio porque havia feito uso de substância entorpecente. (..)"
+A despeito dos argumentos sustentados pelo impetrante, não vislumbro qualquer constrangimento ilegal a ser sanado por meio do presente writ, porquanto, ao meu entendimento, é possível a regressão cautelar do regime prisional durante a apuração da falta grave, sendo certo que a oitiva do condenado somente será imprescindível para a regressão definitiva, se for o caso.
+Ressalta-se, por fim, que a matéria deve ser atacada por recurso próprio, não havendo dúvidas de que o Juízo da Execução detém maiores condições para analisar os requisitos que consubstanciam a concessão do pedido.
+Portanto, diante desse quadro, não verifico qualquer constrangimento ilegal evidente, passível de justificar a concessão do writ.
+Diante do exposto, DENEGO A ORDEM."
+Nota-se, do que foi asseverado pela eg. Corte local, que o tema acerca da legalidade ou proporcionalidade do reconhecimento da conduta imputada ao reeducando ser considerada como falta disciplinar de natureza grave não foi analisada pela instância ordinária, que conheceu do prévio habeas corpus e examinou o assunto apenas no que tange à determinação de regressão cautelar de regime.
+Assim, se o eg. Tribunal a quo não se manifestou acerca da questão suscitada no presente habeas corpus, fica impedida esta Corte Superior de proceder a sua análise, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido é o entendimento das Turmas que compõem a Terceira Seção desta eg. Corte de Justiça, in verbis:
+"HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NÃO CONHECIMENTO.  ..  CRIME CONTRA A ORDEM TRIBUTÁRIA. DOSIMETRIA DA PENA. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+1. O eg. Tribunal de origem, ao julgar o recurso de apelação, esteve adstrito a questões relacionadas à autoria e à materialidade do delito, nada tratando acerca da pena imposta.
+2. Assim, a redução da pena-base, objeto desta impetração, não foi debatida pelo Tribunal de origem, o que impede a sua análise diretamente por este Sodalício, sob o risco de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+3. Habeas corpus não conhecido" (HC n. 429.145/PE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 22/03/2018, grifei).
+"HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. MATÉRIA NÃO APRECIADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. CULPABILIDADE E PERSONALIDADE. FUNDAMENTOS IDÔNEOS. CONFISSÃO ESPONTÂNEA. RECONHECIMENTO. COMPENSAÇÃO COM A REINCIDÊNCIA. REGIME PRISIONAL FECHADO. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. RÉ REINCIDENTE. CONSTRANGIMENTO ILEGAL INEXISTENTE. PRISÃO DOMICILIAR. PLEITO NÃO SUBMETIDO À INSTÂNCIA ORDINÁRIA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE EXAME POR ESTA CORTE. ORDEM PARCIALMENTE CONCEDIDA.
+1. Não debatida a matéria na instância ordinária, não cabe a este Superior Tribunal de Justiça inaugurar o enfrentamento da tese, sob pena de indevida supressão de instância.
+ ..
+6. Ordem parcialmente concedida para reduzir as penas a 2 anos, 8 meses e 20 dias de reclusão e 12 dias-multa" (HC n. 400.229/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 08/03/2018, grifei).
+Contudo, noto que a ausência de manifestação do eg. Tribunal a quo configurou indevida negativa de prestação jurisdicional.
+Com efeito, tratando-se de questão relevante, devidamente suscitada no writ originário, e não apreciada pelo eg. Tribunal de origem, devem os autos serem remetidos àquela eg. Corte para que se manifeste acerca da quaestio.
+Esta Corte tem se posicionado no sentido de que, não obstante a previsão de recurso no ordenamento jurídico, é admissível a utilização do mandamus quando a pretensão não demanda, em princípio, revolvimento de matéria fático-probatória.
+Colaciono, a seguir, precedentes desta Corte Superior:
+"PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. AFASTAMENTO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI 11.343/2006. SUPRESSÃO DE INSTÂNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ORDEM PARCIALMENTE CONCEDIDA.
+ ..  IV - No que tange ao pedido de reconhecimento da minorante inserta no §4º do art. 33 da Lei 11.343/06, verifica-se do v. acórdão combatido que referida tese não foi apreciadas pelo Tribunal de origem, ficando impedida esta Corte de proceder a análise desta, sob pena de indevida supressão de instância (precedentes).
+V - Contudo, constata-se também que referida tese foi suscitada pela defesa, configurando a omissão do Tribunal a quo indevida negativa de prestação jurisdicional.
+Ordem parcialmente concedida para determinar ao eg. Tribunal de Justiça do Estado da Bahia, que, nos autos da Apelação Criminal n. 0303278-21.2013.8.05.0080, aprecie, como entender de direito, o pedido de reconhecimento da minorante inserta no §4º do art. 33 da Lei 11.343/06" (HC n. 363.003/BA, Quinta Turma, de minha relatoria, DJe de 21/03/2017, grifei).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DA DROGA UTILIZADA PARA MODULAR A FRAÇÃO DE REDUÇÃO. POSSIBILIDADE. REGIME PRISIONAL. TEMA NÃO DEBATIDO NA CORTE DE ORIGEM. SUPRESSÃO. FLAGRANTE ILEGALIDADE VERIFICADA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. FALTA DE PREENCHIMENTO DE REQUISITO OBJETIVO. MANIFESTA ILEGALIDADE PARCIALMENTE VERIFICADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. O tema relativo ao regime prisional não foi debatido pela Corte de origem, o que impossibilita a análise da questão diretamente por este Tribunal Superior, sob pena de indevida supressão de instância. Entretanto, tendo havido indevida negativa de prestação jurisdicional, pois, embora suscitado pela defesa tal ponto, a Corte estadual permaneceu silente, é cabível a concessão da ordem de ofício para determinar que o Tribunal a quo analise o pedido como entender de direito.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que a Corte de origem verifique a possibilidade de fixação do regime mais brando, nos termos do art. 33 do Código Penal" (HC n. 421.020/SP, Quinta Turma, Rel. Min. Ribeiro Dantas DJe de 16/02/2018, grifei).
+Ante o exposto, não conheço do habeas corpus. Entretanto, concedo a ordem, de ofício, para anular a decisão proferida nos autos do habeas corpus n. 1.0000.19.013876-8/000, determinando que sejam apreciadas pelo eg. Tribunal a quo, como entender de direito, todas as questões ali suscitadas.
+[NOME]
