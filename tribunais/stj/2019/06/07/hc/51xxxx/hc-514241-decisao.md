@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de THAIS MOREIRA DA ROCHA, na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - HC n. 2108017-38.2019.8.26.0000, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Depreende-se dos autos que a paciente encontra-se presa preventivamente, pela prática, em tese, do crime previsto no art. 33, caput, da Lei n. 11.343/06.
+Aduz a ocorrência de constrangimento ilegal sob o argumento de que a paciente se encontra presa desde 25 de novembro de 2018, sem que tenha sido encerrada a instrução criminal, a ponto de restar configurado o excesso de prazo de sua custódia cautelar, ressaltando que a defesa não teria contribuído para a demora na entrega da prestação jurisdicional.
+Destaca que a audiência de instrução e julgamento foi designada para 10.10.2019, o que resultará no recolhimento da paciente por quase 12 meses.
+Argumenta, por fim, a excepcionalidade da medida extrema, enfatizando que a acusado faria jus a substituição da preventiva por medidas cautelares descritas no art. 319 do CPP.
+Requer, liminarmente e no mérito, a concessão da ordem constitucional para que a paciente seja colocada em liberdade em virtude do apontado excesso de prazo.
+É o relatório.
+Este Superior Tribunal de Justiça, "na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem" (AgRg no HC 417.895/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, tendo em vista que a decisão objurgada não se mostrou teratológica, restando fundamentada a negativa do pleito liminar.
+Com efeito, o Desembargador Relator consignou que a liminar em habeas corpus "é cabível quando o constrangimento ilegal é manifesto e detectado de imediato, por meio do exame sumário da inicial e dos papéis que a instruem, o que não ocorre no presente caso em que se faz necessária análise cuidadosa de fatos concretos e documentos, adequada à ampla cognição da C. Câmara" (e-STJ fl. 47).
+Desta forma, não se constata qualquer vício na negativa do pleito liminar formulado no mandamus originário, tendo sido declinadas justificativas plausíveis para o indeferimento da cautela almejada, sendo certo que o revolvimento das questões nele aventadas e aqui reiteradas certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento do seu mérito.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
