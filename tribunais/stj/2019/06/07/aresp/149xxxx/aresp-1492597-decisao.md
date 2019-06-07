@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. QUESTÃO CONSTITUCIONAL PREJUDICIAL AO RECURSO ESPECIAL. ICMS NA BASE DE CÁLCULO DO PIS E DA COFINS. RE 574.706. PENDÊNCIA DE APRECIAÇÃO DO PEDIDO DE MODULAÇÃO DOS EFEITOS. AGRAVO CONHECIDO PARA DETERMINAR RETORNO DOS AUTOS À ORIGEM PARA SOBRESTAMENTO DO RECURSO ESPECIAL A FIM DE POSSIBILITAR O JUÍZO DE RETRATAÇÃO DE QUE TRATAM OS ARTS. 1.040 E SEGUINTES DO CPC/2015.
+DECISÃO
+Cuida-se de agravo manejado pela FAZENDA NACIONAL em face de decisão que negou admissibilidade ao recurso especial por entender que a controvérsia relativa à exclusão do ICMS da base de cálculo do PIS e da COFINS foi dirimida com enfoque eminentemente constitucional, impedindo sua revisão pelo STJ em sede de recurso especial.
+A agravante insurge-se contra a decisão agravada alegando desnecessidade de análise constitucional na hipótese, eis que o recurso especial veicula questão processual e infraconstitucional relativa à violação aos arts. art. 1.022, inciso II, e parágrafo único, inciso II, c/c o art. 489, § 1º, inciso V, do Código de Processo Civil, bem como à reforma do critério de cálculo definido pelo Tribunal a quo (ICMS destacado nas notas fiscais), por ofensa aos arts. 13, §1º, I, 19 e 20 da Lei Complementar 87, de 1996, ao art. 1º da Lei 10.637, 2002, ao art. 1º da Lei 10.833, de 2002, ao art. 2º da Lei 9.715, de 1998, aos arts. 2º e 3º da Lei 9.718, de 1998, e ao art. 2º da Lei Complementar 70, de 1991, cujos fundamentos seriam autônomos para fins de interposição de recurso especial.
+Requer o conhecimento e o provimento do agravo para que seja analisado o recurso especial.
+Contrarrazões às fls. 1.178-1.205 e-STJ.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou adequadamente os fundamentos da decisão agravada, razão pela qual conheço do agravo.
+Contudo, o recurso especial não merece exame no momento.
+É que esta Corte tem sobrestado os recursos cuja questão de fundo seja a exclusão do ICMS da base de cálculo do PIS e da COFINS, uma vez que o Supremo Tribunal Federal, no âmbito do RE nº 574.706/PR, julgado em sede de repercussão geral, adotou orientação no sentido de excluir os valores relativos ao ICMS da base de cálculo do PIS e da COFINS, entendimento diametralmente oposto àquele fixado por esta Corte no REsp. nº 1.144.469, julgado em sede de recurso especial repetitivo.
+Contudo, o RE nº 574.706/PR ainda não transitou em julgado, pois pende de embargos de declaração onde eventualmente o STF poderá decidir pela modulação dos efeitos da orientação ali adotada.
+Assim, a questão de fundo constitucional remanesce prejudicial ao presente recurso especial.
+Ante o exposto, conheço do agravo para DETERMINAR o retorno dos autos à origem para sobrestamento do recurso especial até o julgamento definitivo da questão constitucional (modulação dos efeitos) pelo Supremo Tribunal Federal, possibilitando, assim, o juízo de retratação de que tratam os arts. 1.040 e seguintes do CPC pela Corte de origem.
+Publique-se. Intimem-se.
