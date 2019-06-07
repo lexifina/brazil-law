@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por Agropecuária Bazan S/A, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+EMBARGOS À EXECUÇÃO FISCAL. MULTA AMBIENTAL. Supressão de vegetação em área de preservação permanente. Título formalmente perfeito. Presunção de legitimidade do ato administrativo não infirmada pelos elementos presentes nos autos. Prejudiciais afastada. Sentença mantida. Embargos improcedentes. Recurso desprovido.
+Na origem, foram ajuizados embargos à execução, com valor da causa de R$ 7.200,00, em maio de 2010 (fl. 12), tendo sido rejeitados, em sentença que se fundamentou no fato de que "o laudo pericial produzido a requerimento da parte embargante, a par da presunção de legalidade e veracidade da CDA, confirmou a infração ambiental e a necessidade de reflorestamento da área para cessação do dano, o que rechaça qualquer alegação do embargante" (fl. 190).
+Interposta apelação, o Tribunal de origem negou-lhe provimento, considerando que não havia autorização legal para a intervenção na área de preservação permanente para fins de supressão da vegetação nativa, afastando-se a alegação de que a propriedade já era despida de cobertura por vegetação nativa.
+Os embargos de declaração interpostos foram improvidos, com aplicação da multa processual prevista no art. 1.026, § 3º, do CPC/2015, sob o fundamento de que o embargante visava apenas à rediscussão do mérito e conferir efeito modificativo aos embargos.
+No presente recurso especial, o recorrente aponta a ofensa ao art. 924, II, do CPC/2015, alegando, em síntese, que o Tribunal de origem deveria ter considerado que houve o pagamento do débito.
+Indica, ainda, a ofensa ao art. 1.026, § 3º, do CPC/2015, sustentando, em resumo, que os embargos declaratórios não tiveram intuito protelatório, devendo ser afastada a aplicação da multa processual.
+É o relatório. Decido.
+Sobre a alegada ofensa ao art. 924, II, do CPC/2015, verifica-se que não foi analisada, pelo Tribunal de origem, a questão do pagamento ou parcelamento do débito, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos Enunciados Sumulares n. 282 e 356 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Ainda que fossem superados esses óbices, ad argumentandum tantum, verifica-se que a apreciação da efetiva ocorrência do pagamento ou do parcelamento do débito implicaria a apreciação de conjunto fático-probatório, o que escapa ao exame em sede de Recurso Especial, por força do Enunciado Sumular n. 7/STJ.
+Sobre a alegada ofensa ao art. 1.026, § 3º, do CPC/2015, não merece acolhimento o pleito recursal.
+Verifica-se que a interposição dos declaratórios não tinha o objetivo de suscitar o prequestionamento, mas de rediscutir o fato de que se trataria de vegetação do tipo gramíneas brachiaria que teria sido objeto de intervenção, bem assim quanto aos juros de mora fixados.
+Assim, não há mácula na imposição da multa processual, conforme fundamentado no acórdão recorrido, em que restou consignado o intuito meramente protelatório pela reiteração de alegações e de simples rediscussão do mérito.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento, com fundamento no art. 255, § 4º, I e II, do RISTJ.
+Publique-se. Intimem-se.
