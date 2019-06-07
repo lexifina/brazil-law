@@ -1,0 +1,22 @@
+DECISÃO: Reconsidero a decisão por mim proferida nestes autos, ficando prejudicado, em consequência, o exame do recurso de agravo interno contra ela interposto.
+    Passo, desse modo, a apreciar o apelo extremo deduzido pela parte ora recorrente.
+    O presente recurso extraordinário foi interposto pela Associação Nacional dos Contribuintes de Tributos contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 5ª Região, está assim ementado:
+    “PROCESSUAL CIVIL. MANDADO DE SEGURANÇA COLETIVO. ILEGITIMIDADE ATIVA. ASSOCIAÇÃO.
+    1. A matéria devolvida a este Tribunal versa acerca da ilegitimidade ativa para impetração de mandado de segurança coletivo.
+    2. Hipótese em que a impetrante, Associação Nacional de Contribuintes de Tributo, não defende qualquer interesse de categoria, coletividade ou classe.
+    Extrai-se do Estatuto da entidade que os fundadores são em sua quase totalidade (exceto um) advogados e que o seu objetivo é representar os interesses dos associados em questões, em âmbito administrativo ou judicial, atinentes a tributos de qualquer esfera federativa. Tal cenário evidencia, em verdade, o real propósito da apelante, a prestação de serviços advocatícios para contribuintes que, intentando impugnar cobrança tributária, a ela se associem.
+    3. Desse modo, faz-se necessário o reconhecimento da ilegitimidade ativa da Apelada para a propositura de mandado de segurança coletivo.
+    4. Apelação provida para reconhecer a ilegitimidade ativa da Apelada para a propositura de mandado de segurança coletivo.” (grifei)
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição Federal.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no AI 800.074-RG/SP, Rel. Min. GILMAR MENDES, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Com efeito, o Supremo Tribunal Federal recusará o apelo extremo sempre que se registrar hipótese, como sucede na espécie, na qual a controvérsia jurídica não se qualifique como tema revestido de repercussão geral.
+    A rejeição, em causa anterior (AI 800.074-RG/SP), do pretendido reconhecimento da existência de repercussão geral referente ao mesmo litígio ora renovado nesta sede recursal impede que se conheça do recurso extraordinário em questão, mesmo porque a repercussão geral supõe, necessariamente, apelo extremo cognoscível, situação de todo inocorrente no caso, eis que o julgamento da causa em análise depende de prévio exame concernente à aplicação de diplomas infraconstitucionais, a evidenciar, quando muito, a ocorrência de ofensa meramente reflexa ao texto da Constituição.
+    Cumpre destacar, ainda, o disposto no art. 326 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, que veicula regra no sentido de a decisão que proclama inexistente a repercussão geral, como aquela proferida no AI 800.074-RG/SP (em tudo aplicável ao presente caso), valer “para todos os recursos sobre questão idêntica”, tal como tem advertido o Plenário desta Corte Suprema (RE 659.109-RG-ED/BA, Rel. Min. LUIZ FUX), motivo pelo qual se mostra evidente a inadmissibilidade, na espécie, do recurso extraordinário em causa.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 07 de junho de 2019.
+Ministro CELSO DE MELLO
+Relator
