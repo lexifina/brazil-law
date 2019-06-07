@@ -1,0 +1,10 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONVERSÃO DOS VENCIMENTOS EM URV. RECURSO ESPECIAL QUE TEVE SEGUIMENTO NEGADO COM FUNDAMENTO NO ART. 1.040, I DO CÓDIGO FUX. AGRAVO INTERNO INTERPOSTO NA ORIGEM. AUSÊNCIA DE DEVOLUÇÃO RECURSAL AO STJ. DETERMINAÇÃO DE DEVOLUÇÃO DOS AUTOS À EGRÉGIA CORTE REGIONAL PARA PROSSEGUIMENTO DO FEITO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, com fundamento nas alíneas a e c do art. 105, inciso III da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+2. Por ocasião do juízo de admissibilidade, foi negado seguimento ao Recurso Especial da FAZENDA DO ESTADO DE SÃO PAULO, com fundamento no art. 543-C, § 7o., I do CPC/1973, atual art. 1.040, I do Código Fux, no que diz respeito à prescrição, bem como sobre a obrigatoriedade de incidência da Lei 8.880/1994 ao Distrito Federal, Estados e Municípios quando da conversão dos vencimentos em URV, sob o fundamento de que a decisão guerreada se ajusta ao quanto decidido no REsp. 1.101.726/SP, julgado de acordo com o regime dos recursos repetitivos.
+3. Em relação aos demais temas suscitados pela parte recorrente, a insurgência restou inadmitida ante a incidência da Súmula 7/STJ e ante a ausência de omissão no acórdão combatido.
+4. Diante do juízo negativo de admissibilidade, a FAZENDA DO ESTADO DE SÃO PAULO interpôs Agravo Interno (fls. 396/408), na forma do art. 1.030, § 2o. do Código Fux. A questão restou dirimida na forma da decisão acostada às fls. 421/430.
+5. É o relatório.
+6. Do que consta nos autos, verifica-se que após o juízo negativo de admissibilidade do Recurso Especial, a parte limitou-se à apresentação de Agravo Interno, na forma do art. 1.030, § 2o. do Código Fux, não tendo havido qualquer devolução recursal a esta Corte Superior.
+7. Ante o exposto, inexistindo irresignação recursal contra a decisão que inadmitiu o Recurso Especial a ser apreciada por esta Corte Superior, retornem os autos à egrégia Corte Regional para regular prosseguimento do feito.
+8. Publique-se. Intimações necessárias.
