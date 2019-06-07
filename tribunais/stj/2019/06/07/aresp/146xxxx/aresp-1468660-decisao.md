@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto pela Galvani Indústria, Comércio e Serviços S.A, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Embargos à execução fiscal. Multa por ausência de licença ambiental. Matéria atinente à competência das Câmaras Reservadas ao Meio Ambiente. Art. 4º da Resolução nº 623/13. Recurso não conhecido, determinando-se a redistribuição.
+Na origem, foram opostos embargos à execução fiscal, com valor da causa de R$ 50.397,00, em novembro de 2016 (fl. 44), que foram julgados improcedentes, por sentença, ao fundamento de que a licença expiraria em 24/10/2008 e o pedido de renovação dela se deu em 07/07/2008, fora do prazo estabelecido em lei. Ademais, os honorários advocatícios foram fixados, sob a égide do CPC/2015, em 10% sobre o valor atualizado da causa.
+Interposta apelação, o Tribunal de origem não conheceu do recurso, sob o fundamento de que a matéria discutida se insere no âmbito da competência das Câmaras Reservadas ao Meio Ambiente.
+No recurso especial, a recorrente aponta a violação do art. 2º da Lei n. 9.784/1999, aduzindo, em resumo, que o Tribunal de origem deveria ter considerado que, em atenção ao princípio da razoabilidade, não se o justifica a autuação, considerando que a recorrente, ao longo de quase 4 anos, tomou uma série de providências determinadas pelo próprio órgão ambiental licenciador em prosseguimento ao seu processo de licenciamento, razão pela qual não poderia ter sido surpreendida com a autuação ambiental.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com base no Enunciado Sumular n. 7/STJ.
+No presente agravo, a recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Considerando que a agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+O recurso especial não comporta seguimento.
+Sobre a alegada violação do art. 2º da Lei n. 9.784/1999, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo do dispositivo legal, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos Enunciados Sumulares n. 282 e 356 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+Ainda que fosse superado esse óbice, ad argumentandum tantum, verifica-se que a irresignação recursal implicaria o revolvimento do conjunto fático-probatório - acerca do fato de que a recorrente teria tomado providências determinadas pelo órgão ambiental licenciador para o prosseguimento ao seu processo de licenciamento -, sendo que, de qualquer modo, o recurso não comportaria seguimento com base no Enunciado Sumular n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. Com fundamento no art. 85, §11, do CPC/2015, majoro a condenação da verba honorária fixada na origem para 11% (onze por cento), sopesado, para a definição do quantum ora aplicado, o trabalho adicional realizado pelos advogados.
+Publique-se. Intimem-se.
