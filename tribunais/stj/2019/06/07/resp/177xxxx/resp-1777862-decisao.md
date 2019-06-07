@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. PROCESSUAL CIVIL, CONSTITUCIONAL E TRIBUTÁRIO. IMPOSTO DE RENDA. URV. MATÉRIAS NÃO APRECIADAS PELA CORTE DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 211/STJ E 282/STF. RECURSO ESPECIAL DO ESTADO DO RIO GRANDE DO SUL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pelo ESTADO DO RIO GRANDE DO SUL, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA. URV.
+1. Os autos não foram remetidos para reexame necessário, não merecendo ser conhecido o recurso neste ponto.
+2. O imposto de renda incidente sobre os benefícios pagos acumuladamente deve ser "calculado de acordo com as tabelas e alíquotas vigentes à época em que os valores deveriam ter sido adimplidos, observando a renda auferida mês a mês pelo segurado. Não é legítima a cobrança de IR com parâmetro no montante global pago extemporaneamente, devendo ser consideradas as parcelas pagas em atraso de forma separada do rendimento mensal da parte (REsp. 1.118.429/SP-MG, julgado pelo rito dos recursos repetitivos).
+3. Os honorários de sucumbência foram fixados em consonância com o disposto no art. 20, parágrafos 3o. e 4o. do CPC/1973, vigente na época que exarada a sentença, não havendo que se falar em redução de tal verba.
+RECURSO DE APELAÇÃO CONHECIDO EM PARTE E NEGADO PROVIMENTO NA PARTE QUE CONHECIDO. UNÂNIME (fls. 317).
+2. Nas razões do Recurso Especial (fls. 329/338), o ora recorrente sustenta violação dos arts. 3o., combinado com o 7o., §1o. da Lei 7.713/1988 e Lei 10.351/2010; 111 e 176 do CTN. Alega, para tanto, que os reajustes salariais relativos a cada mês de competência, por corresponder a salário do servidor, deve ser somado ao rendimento percebido naquele mesmo mês para fins de aplicação da tabela do imposto de renda (fls. 331).
+3. Sem contrarrazões (fls. 341), o recurso foi admitido na origem (fls. 344/351).
+4. É o relatório.
+5. Cuida-se, na origem, de ação de repetição de indébito contra o ESTADO DO RIO GRANDE DO SUL alegando, em síntese, que no caso dos autos, o tributo questionado (imposto de renda retido na fonte) foi retido pelo Estado do Rio Grande do Sul, sem repasse para a União.
+6. O Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos. Ressalte-se que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+7. A alegação de violação dos arts. 3o., combinado com o 7o., §1o. da Lei 7.713/1988 e Lei 12.350/2010; 111 e 176 do CTN não estão a comportar cognição, porquanto os mencionados dispositivos não foram objeto de debate pelo Tribunal de origem, impondo-se o não conhecimento do Recurso Especial, por ausência de prequestionamento; incidência das Súmulas 211/STJ e 282/STF.
+8. Caberia à parte recorrente ter interposto Embargos Declaratórios e exposto, nas razões do seu Apelo Raro, violação do art. 535 do CPC/1973 ou 1.022 do Código Fux, a fim de obter o pronunciamento da Corte local sobre o tema inserido nas razões do recurso, o que não ocorreu no caso concreto.
+9. Ressalte-se que, para atender ao requisito do prequestionamento, não basta que o dispositivo legal, supostamente violado, seja suscitado pelas partes interessadas, mas também se requer que seja objeto de debate pelo Órgão Colegiado competente, elemento indispensável para seguimento do Apelo Especial. Precedente: AgRg no Ag 1.417.806/PR, Rel. Min. ARNALDO ESTEVES LIMA, DJU 25.10.2011; AgRg no AREsp. 619.323/ES, Rel. Min. REGINA HELENA COSTA, DJe 6.3.2015.
+10. Incidem, portanto, as Súmulas 211/STJ e 282/STF.
+11. Ante o exposto, nega-se seguimento ao Recurso Especial do ESTADO DO RIO GRANDE DO SUL.
+12. Publique-se. Intimações necessárias.
