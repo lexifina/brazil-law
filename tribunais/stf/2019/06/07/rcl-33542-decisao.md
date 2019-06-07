@@ -1,0 +1,22 @@
+RECLAMAÇÃO. DESCUMPRIMENTO DAS DECISÕES EXARADAS NAS ADPF’s 395 E 444. CONDUÇÃO COERCITIVA. CONVERSÃO DE PRISÃO EM FLAGRANTE EM PREVENTIVA. AUSÊNCIA DE ESTRITA ADERÊNCIA. REVOGAÇÃO DA PRISÃO NA ORIGEM. PERDA DO OBJETO.
+    Vistos etc.
+    Trata-se de reclamação constitucional, com pedido de liminar, fundada nos artigos 102, inciso I, alínea l, da Constituição Federal, e 156 a 162 do RISTF, ajuizada por Bertholdo Dewes Neto contra ato do Juízo da 4ª Vara Federal Criminal de Macapá/AP, que teria descumprido decisão desta Corte exarada nos autos das ADPF’s 395 e 444.
+    Argumenta a Defesa do Reclamante, em síntese, o descumprimento de decisão desta Suprema Corte na ADPF 395 e na ADPF 444, que tratam de condução coercitiva de investigados e acusados. Sustenta “uma violação oblíqua ao que fora decidido” , pois “com a proibição da condução, ao invés de se optar pela tutela do direito fundamental à liberdade (art. 5º, caput, da CF/88), os agentes responsáveis pelo caso preferiram a via mais extrema e inadequada da prisão”. Requer, em medida liminar e no mérito, a revogação da prisão preventiva e, sucessivamente, a aplicação de medidas cautelares diversas da prisão.
+    Em 16.4.2019, indeferi o pedido liminar, face a sua natureza nitidamente satisfativa, e solicitei informações à autoridade reclamada, que foram juntadas no evento 28.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Edson Oliveira de Almeida, opina pela improcedência da reclamação.
+    É o relatório.
+    Decido.
+    A via estreita da reclamação constitucional (arts. 102, I, l, e 103-A, § 3º, da Constituição da República) pressupõe a ocorrência de usurpação de competência originária do Supremo Tribunal Federal, a desobediência à súmula vinculante ou o descumprimento de decisão desta Corte, proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que pertinente, nesta última hipótese, à mesma relação jurídica e às mesmas partes.
+    A aferição da presença dos pressupostos que autorizam seu manejo deve ser feita com devido rigor técnico (Rcl 6735 AgR, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe-168, p. 10.9.2010), não cabendo o alargamento de suas hipóteses de cabimento por obra de hermenêutica indevidamente ampliativa, sob pena de desvirtuamento da vocação dada pelo constituinte ao importante instituto da reclamação constitucional.
+    Baseada nestas premissas, a jurisprudência desta Corte exige, para o cabimento da reclamação constitucional, a estrita aderência entre ato reclamado e o conteúdo do paradigma de controle: Rcl 4.487/PR-AgR, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe-230 de 5.12.2011.
+    A presente reclamação invoca o descumprimento das decisões tomada por este Supremo Tribunal Federal nas ADPFs 395 e 444, que declararam “a incompatibilidade com a Constituição Federal da condução coercitiva de investigados ou de réus para interrogatório, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de ilicitude das provas obtidas, sem prejuízo da responsabilidade civil do Estado”.
+    Por seu turno, o ato impugnado resultou da conversão da prisão em flagrante em preventiva do reclamante, que estaria a criar embaraços à investigação e a destruir provas. Como bem pontuado pela PGR, “é evidente que o reclamante, a pretexto de uma 'violação oblíqua' ao que foi decidido na ADPF 395, pretende discutir os fundamentos da prisão preventiva contra si decretada, em uma nítida tentativa de trazer a questão diretamente à análise desse Pretório Excelso”, o que é absolutamente incompatível com a via eleita.
+    Não há, portanto, estrita aderência entre o ato reclamado e o conteúdo do paradigma de controle, a inviabilizar o cabimento da presente reclamação.
+    Além disso, a partir das informações prestadas pela autoridade coatora denoto ter sido revogada a prisão preventiva decretada contra o reclamante e substituída pela liberdade provisória vinculada ao recolhimento de fiança.
+    Logo, o transcurso do tempo produziu alteração no quadro processual originário, não estando mais o reclamante sujeito aos efeitos do ato reclamado, o que enseja a perda superveniente do objeto da presente ação constitucional.
+    Ante o exposto, forte no art. 21, IX, do RISTF, julgo prejudicada a reclamação, extinguindo o processo sem resolução de mérito.
+    Intimem-se.
+    Publique-se.
+    Brasília, 7 de junho de 2019.
+Ministra Rosa Weber
+Relatora
