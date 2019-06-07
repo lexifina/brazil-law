@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de KAMILA DE SENA SILVA apontando como autoridade coatora o Tribunal de Justiça do Estado de Goiás.
+Depreende-se dos autos que foi decretada a prisão preventiva da paciente pela suposta prática do crime de tráfico de entorpecentes, durante a operação policial denominada Operação Naftalina (e-STJ fls. 39/46).
+Segundo consta da referida decisão, a paciente e os demais réus seriam integrantes de organização criminosa voltada, principalmente, ao tráfico de entorpecentes, com ramificações no Estado de Goiás e em outros estados da Federação, sendo que (e-STJ fl. 40):
+KamiIa de Sena Silva sabia de toda participação do esposo [NOME] e sogro ([NOME]) no tráfico de entorpecentes, fornecendo a conta bancária, tanto particular como da empresa Tlgressy, para depósitos e movimentação financeira do dinheiro proveniente do tráfico de drogas. Por último, KAMILA viajou juntamente com [NOME] para a região de SÃO JOSE DOS QUATRO MARCOS/MT, onde negociaram uma carga de "COCAÍNA e PASTA BASE". Na viagem de volta para Cristalina/GO, KAMILA e [NOME] atuaram como "batedores" (pessoa que cuida da estrada) para PAULO PEREIRA PINTO e ALEX PEREIRA DIAS, os quais foram presos posteriormente pela POLÍCIA FEDERAL.
+Posteriormente, foi indeferido o pedido de revogação da prisão preventiva (e-STJ fls. 47/49).
+Irresignada, a defesa impetrou prévio writ perante o Tribunal de origem, que denegou a ordem em acórdão cuja ementa foi assim definida (e-STJ fl. 91):
+HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. TESES DE ILEGALIDADE DA PRISÃO, PREDICADOS PESSOAIS ABONADORES E COMINAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS. REITERAÇÃO DE PEDIDO. NÃO CONHECIMENTO. Não se conhece de temáticas idênticas a outras já analisadas e julgadas anteriormente, por constituir reiteração de pretensão liberatória, com os mesmos fundamentos. 2. EXCESSO DE PRAZO. COMPLEXIDADE DO FEITO. RAZOABILIDADE. Não configura coação ilegal a extrapolação do prazo previsto para a formação da culpa com fulcro no princípio da razoabilidade, em razão da complexidade do feito, com pluralidade de delitos e necessidade de expedição de carta precatória, mormente porque inexiste desídia da máquina judiciária. 3. PRETENSÃO DE BENEFÍCIOS CONCEDIDOS A CORRÉ. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. Ausentes nos autos elementos para apreciação segura de que a concessão de liberdade a corré não foi de caráter exclusivamente pessoal e de que é possível estendê-la à paciente, não há como analisar o pedido de extensão de benefícios. ORDEM DENEGADA.
+Neste writ, a defesa sustenta, em linhas gerais, a carência de fundamentação da decisão que decretou a prisão preventiva da paciente, bem como a desnecessidade de imposição da medida cautelar na hipótese.
+Pondera, nesse sentido, que a paciente possui circunstâncias pessoais favoráveis e que seriam cabíveis medidas cautelares diversas da prisão.
+Afirma, ademais, a existência de constrangimento ilegal por excesso de prazo para a formação da culpa.
+Requer, liminarmente, o relaxamento da prisão da paciente e, no mérito, a concessão da ordem para revogação da prisão preventiva.
+É o relatório.
+Verifico, ab initio, ser inviável o prosseguimento do writ.
+É que o impetrante não juntou aos autos cópia do inteiro teor do acórdão proferido pelo Tribunal de origem que denegou a ordem naquela Corte impetrada, peça imprescindível à exata compreensão da controvérsia.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente, providência da qual não se desincumbiu o impetrante.
+Nesse sentido, a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC 48.939/MG, Rel. Min. MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 23/4/2015, grifei.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC 54.626/SP, Rel. Min. ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, DJe 2/3/2015, grifei.)
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
