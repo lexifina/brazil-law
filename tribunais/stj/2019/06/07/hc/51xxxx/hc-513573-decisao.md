@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ADEVANDO PEREIRA DE MORAIS, em face da decisão do Tribunal de Justiça do Ceará.
+Consta dos autos que o paciente foi preso em flagrante em 2/11/2018 e teve sua prisão convertida em preventiva no dia 13/11/2018, sendo denunciado pela prática do crime descrito no art. 155, §1º, c/c § 4º, I e IV, c/c o art. 14, II, todos do Código Penal, em concurso material (art. 69 do CPB) com o delito do art. 2º da Lei de Organizações Criminosas (Lei 12.850/2013).
+Daí o presente writ, em que o impetrante sustenta, em síntese, a necessidade de superação da Súmula 691/STF, pois há flagrante ilegalidade no caso, em decorrência da ausência de fundamentação idônea para a prisão preventiva.
+Requer, liminarmente e no mérito, a concessão da ordem constitucional para que seja revogada a prisão preventiva ou, subsidiariamente, aplicação de medidas cautelares diversas da prisão.
+É o relatório.
+DECIDO.
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+A decisão do Tribunal de origem que indeferiu a liminar foi fundamentada nos seguintes termos (fl. 22):
+Desprovida de previsão legal específica, a liminar, em sede de habeas corpus, admitida pela doutrina e jurisprudência pátrias, reclama, por certo, a demonstração inequívoca dos requisitos cumulativos das medidas cautelares, a dizer, o periculum in mora e o fumus boni iuris, circunstâncias, a meu sentir, inocorrentes.
+Liminar indeferida.
+Solicitem-se informações à autoridade apontada como coatora.
+Com a resposta, remetam-se os autos à douta PGJ.
+Consta da decisão de indeferimento da liberdade provisória (fls. 75/76):
+Trata-se de Pedido de Revogação de Custódia Preventiva interposto em favor de ADEVANDO PEREIRA DE MORAES, ANDRÉ LUIS DE FARIA e DORVALINO SIMÃO DA SILVA, regularmente qualificados nos autos, incurso nas tenazes dos arts. 155, §1º e §4º, incisos I e IV; art. 14, inciso II, ambos do CP e art. 2º da Lei 12.850/13, em concurso material (art. 69 do CPB).
+Instado a manifestar-se, o Órgão Ministerial opinou pelo indeferimento da súplica, alegando que persistem os requisitos ensejadores do decreto preventivo, considerando a gravidade dos delitos e o modus operandi empregado pelos acusados.
+É um breve relatório. Decido.
+Inicialmente deve ser enfatizado que a legalidade da prisão dos suplicantes foi apreciada pela Vara de Audiências de Custódia, que converteu as prisões em flagrante em custódia preventiva, pelos motivos ali esposados, não sendo trazido à colação nenhum fato novo capaz de infirmar posicionamento anterior, persistindo, desta feita, os motivos que o norteou.
+Compulsando minudentemente os presentes fólios, verifica-se que os suplicantes foram presos em flagrante durante a tentativa de rompimento de barreiras para furtar um caixa eletrônico localizado em um estabelecimento comercial, tendo sido encontrado, em poder dos acusados, 05 (cinco) lanças térmicas utilizadas para cortar caixas eletrônicos. Consta ainda dos autos que os acusados supostamente compõem uma organização criminosa responsável por praticar diversos arrombamentos em caixas eletrônicos no Estado do Ceará, sendo as ações por eles praticadas precedidas de um planejamento, no qual há uma coordenação para definição de tarefas.
+Destarte, a manutenção da custódia preventiva, tendo em vista o encerramento da instrução processual.
+Ocorre, contudo, que muito embora tenha sido encerrada a colheita da prova oral, ainda está ocorrendo produção de provas por outros meios, considerando que alguns documentos relevantes estão sendo juntados aos autos.
+Ademais, conforme demonstrado, os requerentes além de terem praticado ilícitos de natureza grave (furto qualificado e integração de organização criminosa), são suspeitos de integrar organização criminosa, o que é uma situação que não podemos fechar os olhos, se fazendo adequada e justificada a manutenção de suas prisões, a bem da ordem pública e também para desestruturar a aludida organização evitando a arregimentação de novos membros.
+Consoante precedente do Supremo Tribunal Federal, "a necessidade de se interromper ou diminuir a atuação de de organização criminosa, enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva." (STF - HC 95.024/SP, 1.ªTurma, Rel. Min. CÁRMEN LÚCIA, DJe de 20/02/2009.) Constata-se, portanto, que a custódia provisória dos requerentes não está embasada tão-somente em meras suposições de risco à garantia da ordem pública ou na gravidade em abstrato dos delitos por eles praticados, mas na evidente periculosidade demonstrada pelos acusados.
+Quanto à possibilidade de aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do CPP, com a nova redação dada pela Lei 12.403/11, percebo que se mostram insuficientes no caso vertente, considerando o modus operandi utilizado pelos incriminados.
+Destarte, a manutenção da clausura dos incriminados é medida que se impõe para acautelar o meio social de suas maléficas ações, bem como para preservar a credibilidade do Poder Judiciário como instrumento da ordem pública.
+Diante do exposto, pelos fundamentos acima alinhados, considerando parecer ministerial, indefiro a presente postulação, mantendo o encarceramento provisório dos suplicantes, sob a forma de prisão preventiva, nos termos do art. 312 do Código de Processo Penal.
+Como se vê, consta da decisão que indeferiu o pedido de liberdade provisória fundamentação que, neste juízo inicial, deve ser considerada idônea, pois persistem os fundamentos do decreto de prisão preventiva, cujos fundamentos foram validados quando do julgamento do HC 490.290/CE, impetrado também em favor do ora paciente, já que a decisão aqui impugnada registrou que não sendo trazido à colação nenhum fato novo capaz de infirmar posicionamento anterior, persistindo, desta feita, os motivos que o norteou.
+Não se verifica, portanto, ilegalidade para justificar a mitigação do enunciado da Súmula n. 691 do STF.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
