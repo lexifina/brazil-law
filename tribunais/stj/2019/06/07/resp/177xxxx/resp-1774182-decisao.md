@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNICÍPIO DE SÃO JOSÉ DO RIO PRETO com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, o Município recorrente interpôs agravo de instrumento contra a decisão que declarou a ilegitimidade do ora recorrido para figurar na execução fiscal para a cobrança de IPTU no valor de R$ 1.269,86.
+O agravo foi improvido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, restando consignado, em síntese, que o ora recorrido comprovou a existência de contrato de compromisso de compra e venda com registro no cartório imobiliário, em data anterior ao fato gerador, o que implicava na exclusão da legitimidade do promitente vendedor.
+O referido acórdão foi assim ementado, in verbis:
+AGRAVO DE INSTRUMENTO - Execução Fiscal - IPTU - Exercícios de 2011, 2013, 2014 e 2015 - Exceção de pré-executividade acolhida - Pretensão à reforma da decisão - Inadmissibilidade - Ação proposta contra promitente vendedora e compromissário-comprador - Compromisso de venda e compra devidamente registrado no Cartório Imobiliário em 06/02/2009, data anterior aos fatos geradores - Ação que não deveria ter sido promovida contra a V.L.V. Empreendimentos Imobiliários Ltda. - Correta a extinção do feito com relação à coexecutada - Decisão agravada mantida - Agravo desprovido.
+Contra a decisão cuja ementa se encontra acima transcrita, MUNICÍPIO DE SÃO JOSÉ DO RIO PRETO interpôs o presente recurso especial, apontando violação aos arts. 34 do CTN e 1245 do código civil, sustentando, em síntese, que a transferência da responsabilidade pelo pagamento do IPTU somente é efetivada com a transferência de propriedade no cartório de imóveis, não sendo suficiente para tanto, o registro do contrato de compromisso de compra e venda.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça se encontra pacificada no sentido de que tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto o promitente vendedor que ainda possui a propriedade registrada no registro de imóveis, são contribuintes responsáveis pelo Pagamento do IPTU, sendo tal entendimento cristalizado no REsp 1.111.202/SP, julgado sob o rito dos recursos especiais repetitivos.
+Neste diapasão, confira-se :
+TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. LEGITIMIDADE PASSIVA DO POSSUIDOR (PROMITENTE COMPRADOR) E DO PROPRIETÁRIO (PROMITENTE VENDEDOR).
+1. Segundo o art. 34 do CTN, consideram-se contribuintes do IPTU o proprietário do imóvel, o titular do seu domínio útil ou o seu possuidor a qualquer título.
+2. A jurisprudência desta Corte Superior é no sentido de que tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU. Precedentes: RESP n.º 979.970/SP, Rel. Min.
+Luiz Fux, Primeira Turma, DJ de 18.6.2008; AgRg no REsp 1022614 / SP, Rel. Min. Humberto Martins, Segunda Turma, DJ de 17.4.2008; REsp 712.998/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJ 8.2.2008 ;
+REsp 759.279/RJ, Rel. Min. João Otávio de Noronha, Segunda Turma, DJ de 11.9.2007; REsp 868.826/RJ, Rel. Min. Castro Meira, Segunda Turma, DJ 1º.8.2007; REsp 793073/RS, Rel. Min. Castro Meira, Segunda Turma, DJ 20.2.2006.
+3. "Ao legislador municipal cabe eleger o sujeito passivo do tributo, contemplando qualquer das situações previstas no CTN.
+Definindo a lei como contribuinte o proprietário, o titular do domínio útil, ou o possuidor a qualquer título, pode a autoridade administrativa optar por um ou por outro visando a facilitar o procedimento de arrecadação" (REsp 475.078/SP, Rel. Min. Teori Albino Zavascki, DJ 27.9.2004).
+4. Recurso especial provido. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/08.
+(REsp 1111202/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 10/06/2009, DJe 18/06/2009)
+Ainda sobre o assunto, os seguintes precedentes:
+TRIBUTÁRIO. IPTU. PAGAMENTO. CONTRIBUINTES RESPONSÁVEIS. PROMITENTE COMPRADOR OU PROMITENTE VENDEDOR. ENTENDIMENTO DESTA CORTE. DIREITO REAL. CONTRATO DE COMPRA E VENDA REGISTRADO EM CARTÓRIO. APLICABILIDADE.
+I - A Primeira Seção do Superior Tribunal de Justiça, no julgamento do Tema 122, vinculado aos Recursos Especiais Repetitivos n.os 1.110.511/SP e 1.111.202/SP, da relatoria do Min. Mauro Campbell Marques, firmou entendimento no sentido de que tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu promitente vendedor (que tem a propriedade do imóvel registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU, podendo o legislador municipal eleger quaisquer deles.
+II - O art. 34 do Código Tributário Nacional, ao apontar como contribuinte do IPTU o possuidor a qualquer título, engloba também a relação de direito real advinda do contrato de promessa de compra e venda irretrável, senão vejamos: "Segundo o art. 34 do CTN, consideram-se contribuintes do IPTU o proprietário do imóvel, o titular do seu domínio útil ou o seu possuidor a qualquer título. Quando o CTN considera contribuinte do IPTU o possuidor a qualquer título, refere-se às hipóteses de relações de direito real, no qual se inclui o contrato de promessa de compra e venda irretratável. Assim, analisando-se o art. 34 do CTN, conclui-se que o proprietário do imóvel, na qualidade de promitente vendedor, é contribuinte do IPTU, cuja responsabilidade deve ser somada a do promitente comprador (possuidor do imóvel).
+III - Ressalte-se que essa orientação quanto à legitimidade aplica-se, inclusive, às hipóteses em que o contrato de compra e venda foi devidamente registrado em cartório. Neste sentido: REsp 1.576.319/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/05/2016; AgRg no REsp 1.519.072/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 02/02/2016.
+IV - Agravo interno improvido.
+(AgInt no REsp 1655107/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/06/2018, DJe 22/06/2018)
+TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU. PROPRIETÁRIO, PROMITENTE VENDEDOR OU PROMITENTE COMPRADOR. CONTRIBUINTES RESPONSÁVEIS.
+1. O STJ firmou posicionamento, em recurso repetitivo, segundo o qual consideram-se contribuintes do IPTU o proprietário do imóvel, o titular do seu domínio útil ou o seu possuidor a qualquer título.
+2. Assim sendo, tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU, podendo a autoridade administrativa optar por um ou por outro visando a facilitar o procedimento de arrecadação.
+3. Recurso Especial provido.
+(REsp 1717067/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/04/2018, DJe 25/05/2018)
+
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar a inclusão do ora recorrente no polo passivo da execução.
+Publique-se. Intimem-se.
