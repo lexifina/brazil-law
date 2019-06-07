@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO RECONSIDERADA. SUPRESSÃO DA RUBRICA "VPNI". POSSIBILIDADE. MANUTENÇÃO DO VALOR NOMINAL DOS PROVENTOS. DESNECESSIDADE DE PRÉVIO PROCESSO ADMINISTRATIVO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de Agravo interno interposto pela União, em face de decisão de minha lavra, assim ementada (e-STJ fl. 490):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. SUPRESSÃO DE VANTAGEM. PRÉVIO PROCESSO ADMINISTRATIVO. NECESSIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+Inconformada, a agravante argumenta a inexistência de direito adquirido a regime jurídico; é que a supressão de vantagem em razão do novo plano de carreira dispensa a instauração de procedimento administrativo.
+Com impugnação às fls. 336-353.
+É o relatório. Passo a decidir.
+Assiste razão a agravante.
+Com efeito, reconsidero a decisão de e-STJ fls. 490-491, tornando-a sem efeito, e passo a nova analise do Recurso Especial.
+Trata-se de recurso especial interposto com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 233):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. DNIT. SUPRESSÃO DE VPNI. VERBA DE CARÁTER TRANSITÓRIO. POSSIBILIDADE. RESTITUIÇÃO DE VALORES RECEBIDOS DE BOA-FÉ. VEDAÇÃO.
+1. É pacífico na jurisprudência o entendimento no sentido de que não há direito adquirido à manutenção de regime jurídico remuneratório, que pode ser modificado por meio de lei, desde que não implique decesso do montante global e nominal percebido pelo servidor público, em face da garantia constitucional de irredutibilidade. Comprovado nos autos que a absorção da vantagem recebida a título de VPNI não incorreu em decesso remuneratório nominal para o servidor, não há óbice à sua supressão, visto tratar-se de vantagem provisória.
+2. A jurisprudência dominante inclina-se no sentido de que o servidor público civil ou militar que, de presumida boa-fé, recebeu alguma vantagem financeira, em decorrência de errônea interpretação ou aplicação de norma legal pela Administração, sem ter influenciado ou interferido na sua concessão, está dispensado de devolver os valores tidos por indevidamente pagos àquele título. É que não se mostra razoável penalizar o servidor com o ônus da reposição de remuneração recebida a maior, de caráter alimentar, depois de incorporada ao seu patrimônio, se ele não concorreu direta ou indiretamente para o erro administrativo cometido.
+Embargos de declaração opostos parcialmente acolhidos, sem efeitos modificativos.
+No recurso especial, o recorrente alega violação ao art. 46 da Lei n. 8.112/1990; ao art. 56 da Lei n. 9.784/1999. Pugna, em síntese, pelo reconhecimento da nulidade da supressão do pagamento da VPNI sem qualquer aviso ou exercício de ampla defesa.
+Com contrarrazões.
+É o relatório. Decido.
+Com efeito, a jurisprudência fixada nesta Corte é no sentido de que é desnecessária a prévia abertura de processo administrativo para proceder à absorção da VPNI prevista em Lei, visto que não se trata de redução de vencimentos.
+Ainda, confiram-se recentes julgados deste e. STJ sobre a questão (grifos nossos):
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. SUPRESSÃO DE VPNI. VERBA DE CARÁTER TRANSITÓRIO. ABSORÇÃO. REVISÃO. POSSIBILIDADE. ART. 535 DO CPC. AUSÊNCIA DE VIOLAÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ.
+1. Não há direito adquirido à manutenção de regime jurídico remuneratório, que pode ser modificado por meio de lei, desde que não implique decesso do montante global e nominal percebido pelo servidor público, em face da garantia constitucional de irredutibilidade. Cessa a força vinculante da decisão judicial que reconhece o direito do trabalhador ou servidor a determinado acréscimo remuneratório no momento em que o referido percentual é incorporado superveniente e definitivamente aos seus ganhos.
+2 Consoante jurisprudência do STJ, com a absorção da Vantagem Pessoal Nominalmente Identificada (VPNI) decorrente de acréscimos remuneratórios da progressão da carreira, não há falar em violação ao princípio da irredutibilidade de vencimento.
+3. É desnecessária a prévia abertura de processo administrativo para proceder à absorção da VPNI prevista em Lei, porque não se trata de redução de vencimentos. Precedente: AgRg no REsp 1.370.740/RS, Relator Ministro Humberto Martins, Segunda Turma, DJe 28/6/2013.
+4. Aplicar posicionamento distinto do proferido pelo aresto confrontado implicaria, necessariamente, o reexame da matéria fático-probatória, o que é obstado a este Tribunal Superior, conforme determinado na Súmula 7/STJ. Esta Corte Superior atua na revisão da verba honorária somente quando esta tratar de valor irrisório ou exorbitante, o que não se configura neste caso. Assim, o reexame das razões de fato que conduziram a Corte de origem a tais conclusões significaria usurpação da competência das instâncias ordinárias.
+5. Recurso Especial não conhecido. (REsp 1759323/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 17/12/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. SUPRESSÃO DA RUBRICA "VANTAGEM INDIV. ART. 9º DA LEI 8.460/92". POSSIBILIDADE. MANUTENÇÃO DO VALOR NOMINAL DOS PROVENTOS. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO.
+1. Consoante jurisprudência do STJ, com a absorção da Vantagem Pessoal Nominalmente Identificada (VPNI) decorrente de acréscimos remuneratórios da progressão da carreira, não há falar em violação ao princípio da irredutibilidade de vencimento.
+2. É desnecessária a prévia abertura de processo administrativo para proceder à absorção da VPNI prevista em Lei, porque não se trata de redução de vencimentos. Precedente: AgRg no REsp 1.370.740/RS, Relator Ministro Humberto Martins, Segunda Turma, DJe 28/6/2013.
+3. Agravo interno não provido. (AgInt nos EDcl no REsp 1.591.370/PR, de minha relatoria, Primeira Turma, DJe 2/10/2018)
+Ante o exposto, dou provimento ao Agravo Interno, para reconsiderar a decisão agravada e-STJ fls. 490-491, tornando-a sem efeito, e em nova analise, nego provimento ao Recurso Especial.
+Publique-se. Intimem-se.
