@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. DISCUSSÃO SOBRE O TERMO INICIAL DO PRAZO QUINQUENAL. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado da Paraíba cuja ementa é a seguinte:
+PROCESSUAL CIVIL E TRIBUTÁRIO - Agravo Interno - Insurgência contra decisão que negou seguimento à apelação - Ação de Execução Fiscal - ICMS - Prescrição - Ajuizamento posterior à LC 118/2005 - Transcurso do prazo de cinco anos entre a constituição do crédito tributário e o despacho determinando a citação - Ocorrência da prescrição - Recurso em confronto com jurisprudências consolidadas no Superior Tribunal de Justiça e neste Tribunal - Monocrática - Manutenção - Desprovimento.
+- "A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp nº 999.901, RS (relator o Ministro Luiz Fux), processado sob o regime do art. 543-C do Código de Processo Civil, consolidou o entendimento de que a Lei Complementar nº 118/2005, que alterou o art. 174 do Código Tributário Nacional, aplica-se imediatamente aos processos em curso; no entanto, para que possa ter o efeito de interromper a prescrição, o despacho que ordena a citação deve ser posterior à entrada em vigor da lei (09 de junho de 2005). Agravo regimental não provido" (AgRg no AREsp 974/RS, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 05/03/2013, DJe 11/03/2013).
+- Impõe-se manter a sentença que reconheceu a prejudicial de mérito quando, do ajuizamento da ação, os créditos tributários já haviam sido alcançados pela prescrição quinquenal.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente alega violação ao art. 174, I, do CTN, asseverando que: a) não ocorrente a prescrição, "tendo em vista que o despacho citatório foi proferido antes do decurso do prazo quinquenal" (fl. 210); e b) "o crédito foi inscrito em dívida ativa em 09/12/2004 (..) e, em 01/09/2008 (..), foi determinada a citação do executado, interrompendo-se o prazo da prescrição" (fl. 211).
+Não houve apresentação de contrarrazões.
+O recurso foi inadmitido pela decisão de fls. 225/226, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Constou do acórdão recorrido o seguinte acerca do termo inicial do prazo prescricional (fls. 202/203):
+"Não se vislumbra, nas razões do presente agravo, fundamento suficiente a modificar a decisão monocrática, razão pela qual impõe-se transcrever aqueles mesmos fundamentos expostos, "in verbis":
+"(..)
+No caso em questão, o despacho que ordenou a citação da parte executada ocorreu em 01/09/2008 (fl. 06). Portanto, como o referido despacho foi proferido em data posterior à Lei Complementar nº 118/2005, tal ato processual tinha o condão de interromper a prescrição.
+No entanto, a constituição do crédito tributário referente ao ICMS se deu em 20/04/1999, com o lançamento em cadastro de dívida ativa, conforme se extrai da certidão de fl. 07.
+(..)
+Portanto, como o lançamento do crédito tributário em cadastro de dívida ativa se deu em 20/04/1999, e não em dezembro de 2004, como defendeu o recorrente, sendo esta a data da certidão.
+A ação foi ajuizada em 29/04/2008, quando já tinha transcorrido o período de cinco anos, ou seja, ocorrido a prescrição." (grifou-se)
+Nesse sentido, acolher a pretensão recursal, para efeito de concluir pela não ocorrência da prescrição, enseja o revolvimento da matéria de fato, providência interditada na via do recurso especial em razão do óbice contido na Súmula 7/STJ.
+A corroborar esse entendimento, confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. DÉBITO PARCIALMENTE PRESCRITO. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. TERMO INICIAL. VERIFICAÇÃO DA OCORRÊNCIA DA PRESCRIÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
+1. A Primeira Seção do STJ, no julgamento do REsp 1.120.295/SP, Rel. Min. Luiz Fux, submetido ao rito dos recursos repetitivos, nos termos do art. 543-C do CPC e da Resolução 8/2008 do STJ, consolidou entendimento segundo o qual a entrega de Declaração de Débitos e Créditos Tributários Federais - DCTF, de Guia de Informação e Apuração do ICMS - GIA, ou de outra declaração dessa natureza prevista em lei (dever instrumental adstrito aos tributos sujeitos a lançamento por homologação), é modo de constituição do crédito tributário.
+2. Contudo, no caso dos autos, o Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, consignou que não foi acostada aos autos a DCTF, motivo pelo qual se adotou a data do vencimento do débito como termo a quo para a contagem do prazo prescricional.
+3. Desconstituir o acórdão recorrido e acolher a pretensão da recorrente quanto à inocorrência da prescrição requer o reexame de fatos e provas, visto que a instância a quo utilizou elementos contidos nos autos para alcançar tal entendimento. Assim, a análise dessa questão demanda o reexame de provas, o que é inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ.
+4. Recurso Especial não conhecido.
+(REsp 1653122/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/03/2017, DJe 24/04/2017) (grifou-se)
+Diante do exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
