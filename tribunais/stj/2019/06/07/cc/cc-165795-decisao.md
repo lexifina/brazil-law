@@ -1,0 +1,22 @@
+DECISÃO
+CONFLITO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZO DE DIREITO E JUÍZO TRABALHISTA. RECLAMAÇÃO TRABALHISTA. VÍNCULO JURÍDICO-ADMINISTRATIVO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DE DIREITO ESTADUAL.
+1. Trata-se de Conflito de Competência negativo suscitado pelo JUÍZO DA VARA DO TRABALHO DE URUAÇU - GO e o JUÍZO DE DIREITO DA VARA DAS FAZENDAS PÚBLICAS DE NIQUELÂNDIA - GO, nos autos de Reclamação Trabalhista proposta em desfavor do MUNICÍPIO DE NIQUELÂNDIA/GO, que tem por objeto o recebimento de verbas trabalhistas.
+2. A ação foi originariamente proposta perante a Justiça Comum, que declinou da competência para a Justiça Laboral.
+3. Por sua vez, o JUÍZO DA VARA DO TRABALHO DE URUAÇU - GO declarou-se igualmente incompetente, suscitou o presente Conflito de Competência e determinou a remessa dos autos a este egrégio Tribunal Superior, ao argumento de que o STF tem entendido, ainda, que reconhecido que o vínculo atual entre o servidor e a Administração Pública é estatutário, compete à Justiça comum processar e julgar a causa. E mais, é a natureza jurídica do vínculo existente entre o trabalhador e o Poder Público, vigente ao tempo da propositura da ação, que define a competência jurisdicional para a solução da controvérsia, independentemente de o direito pleiteado ter se originado no período celetista (fls. 19).
+4. É o relatório.
+5. Conforme dessume-se dos autos, a parte autora reclama o recebimento de verbas trabalhistas supostamente não pagas pelo MUNICÍPIO DE NIQUELÂNDIA/GO.
+6. Inicialmente, cumpre observar que a determinação da competência para o processo e o julgamento das demandas envolvendo direitos decorrentes da relação de trabalho entre Servidores Públicos e a Administração Pública depende do vínculo estabelecido entre eles.
+7. Em face do advento da Emenda Constitucional 45, de 31.12.2004, a competência para conhecer das ações oriundas da relação de trabalho, abrangidos entes de Direito Público externo e da Administração Pública Direta e Indireta da União, dos Estados, do Distrito Federal e dos Municípios, passou a ser da Justiça do Trabalho.
+8. O STF, porém, ao analisar a questão nos autos da ADI 3.395/DF, em 5.4.2006, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da CF, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+9. Tem-se, pois, que, se o vínculo estabelecido entre o Poder Público e o Servidor for estatutário, a competência para a análise das controvérsias trabalhistas será da Justiça Comum (estadual ou federal), ao passo que, na hipótese de vínculo trabalhista, regido pela CLT, caberá à Justiça laboral o julgamento dos litígios daí advindos. Corroborando esse entendimento, os seguintes julgados desta Corte:
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. SERVIDOR PÚBLICO. REGIME CELETISTA. AÇÃO RECLAMATÓRIA. VERBAS TRABALHISTAS.
+1. A Justiça do Trabalho é competente para processar e julgar as reclamações trabalhistas propostas por servidores públicos municipais contratados sob o regime celetista, instituído por meio de legislação municipal própria. Precedentes.
+2. Agravo regimental não provido (AgRg no CC 114.820/SP, Primeira Seção, Rel. Min. CASTRO MEIRA, DJe 4.3.2011).
+
+CONFLITO NEGATIVO DE COMPETÊNCIA. SERVIDOR PÚBLICO MUNICIPAL. LEI MUNICIPAL 9/94. SUBMISSÃO AO REGIME CELETISTA. EXPRESSA DISPOSIÇÃO LEGAL. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. In casu, tanto a Lei Municipal 9/94, que dispõe sobre o Estatuto dos Servidores Públicos do Município, como o próprio contrato de trabalho firmado entre as partes dispõem expressamente que o regime jurídico dos servidores públicos do Município de Dom Cavati é o celetista, instituído por lei.
+2. Tendo em vista a expressa determinação legal e contratual de que o autor tem seu vínculo com a poder público regido pela CLT, a competência para processar e julgar a demanda em tela é da Justiça do Trabalho.
+3. Conflito conhecido para declarar a competência da Justiça do Trabalho para processar e julgar a ação (CC 1.082.284/MG, Terceira Seção, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 18.11.2010).
+10. Ante o exposto, conheço do Conflito para declarar a competência do JUÍZO DE DIREITO DA VARA DAS FAZENDAS PÚBLICAS DE NIQUELÂNDIA - GO.
+11. Publique-se.
+12. Intimem-se.
