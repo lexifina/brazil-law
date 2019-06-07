@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA DAS GRACAS LIRA, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, alínea a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA. AUSÊNCIA DE INCAPACIDADE. BENEFÍCIOS INDEVIDOS. APELAÇÃO DA PARTE AUTORA DESPROVIDA.
+- No tocante à incapacidade, o laudo pericial atestou que a autora sofre de hipertensão arterial e bronquite crônica, além de ter histórico médico de cirurgias pregressas (nefrectomia, histerectomia, biópsia pulmonar e facectomia ocular), sem sequelas ou limitações funcionais. O perito concluiu que a demandante está apta ao trabalho.
+- Cumpre asseverar que, embora o laudo pericial não vincule o Juiz, forçoso reconhecer que, em matéria de beneficio previdenciário por incapacidade, a prova pericial assume grande relevância na decisão. E, conforme já explicitado, o perito judicial foi categórico ao afirmar que a requerente não apresenta incapacidade para o trabalho, sequer temporária ou parcial.
+- Não comprovada a incapacidade da vindicante, são indevidos os benefícios pleiteados.
+- Apelação da parte autora desprovida.
+No recurso especial, a recorrente aponta violação aos arts. 42, 45 e 59 todos da Lei n. 8.213/91 e art. 465 do CPC/15.
+Sustenta que faz jus à benefício previdenciário de auxílio-doença ou aposentadoria por invalidez em razão de estar incapacitada para o trabalho. Argumenta que o Tribunal a quo improcedeu o pedido baseado apenas no laudo pericial, sem considerar que o perito não possui especialidade compatível com as patologiais apresentadas, cerceando, assim, seu direito de defesa.
+Alega que, para indeferir o benefício, as instâncias ordinárias se apegaram ao termo utilizado pelo perito de que a incapacidade seria apenas parcial, sem se atentar às demais provas juntadas aos autos; e sem apreciar o caráter social da recorrente, uma vez que possui idade avançada (64 anos) e é semi-analfabeta.
+Pugna, ao fim, pela reforma da sentença, para anular a decisão recorrida de forma a possibilitar nova perícia por médico especialista.
+Não foram apresentadas contrarrazões.
+O recurso especial foi inadmitido com base na Súmula n.7/STJ.
+No presente agravo, a recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Considerando que a agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Tenho que não assiste razão à recorrente.
+O Tribunal a quo, com base na perícia realizada, entendeu não estarem presentes os requisitos para a concessão de auxílio-doença/aposentadoria por invalidez, por ausência de incapacidade para o trabalho.
+Confira-se, in verbis (fls.141-142):
+No tocante à incapacidade, o laudo pericial atestou que a autora sofre de hipertensão arterial e bronquite crônica, além de ter histórico médico de cirurgias pregressas (nefrectomia, histerectomia, biópsia pulmonar e facectomia ocular), sem sequelas ou limitações funcionais. O perito concluiu que a demandante está apta ao trabalho.
+Cumpre asseverar que, embora o laudo pericial não vincule o Juiz, forçoso reconhecer que, em matéria de beneficio previdenciário por incapacidade, a prova pericial assume grande relevância na decisão. E, conforme já explicitado, o perito judicial foi categórico ao afirmar que a autora não apresenta incapacidade para o labor, sequer temporária ou parcial.
+Dessa forma, diante do conjunto probatório, considerado o princípio do livre convencimento motivado, concluo que o estado de coisas reinante não implica incapacidade laborativa da parte apelante, razão pela qual não faz jus ao estabelecimento do beneficio de auxilio-doença ou aposentadoria por invalidez. Não vislumbro motivos para discordar das conclusões do perito, profissional qualificado, imbuído de confiança pelo juízo em que foi requisitado, e que fundamentou suas conclusões de maneira criteriosa nos exames laboratoriais apresentados e clínico realizado.
+Sendo assim, verifico que a pretensão da recorrente, na verdade, é reverter a conclusão a que chegou o Tribunal a quo com base no conjunto probatório dos autos, no sentido de que não há invalidez. Entretanto, para isso, seria necessário revolvimento do conjunto fático probatório, o que é inviável em sede de recurso especial, ante o óbice constante da Súmula 7/STJ.
+Gize-se, por oportuno, que a alegada falta de especialidade de perito não foi objeto de decisão nas instâncias ordinárias, carecendo o recurso, no ponto, do necessário requisito de prequestionamento.
+E, ainda que assim não fosse, não ocorre cerceamento de defesa nas hipóteses em que o Juiz reputa suficientes as provas já colhidas durante a instrução.
+Isso porque o Magistrado não está obrigado a realizar outras provas com a finalidade de melhor esclarecer a tese defensiva do Réu, quando, dentro do seu livre convencimento motivado, tenha encontrado elementos probatórios suficientes para a sua convicção.
+Nesse sentido, in verbis:
+PROCESSO CIVIL E TRIBUTÁRIO. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. CERCEAMENTO DE DEFESA. MENÇÃO EXPRESSA À DESNECESSIDADE DE PRODUÇÃO DE PROVA. SÚMULA 7/STJ. GALVANOPLASTIA. PRESTAÇÃO DE SERVIÇO POR ENCOMENDA. INCIDÊNCIA DO ISSQN.
+1. Não se configura a alegada negativa de prestação jurisdicional, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. Registre-se que não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram.
+Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. A mera insatisfação com o conteúdo da decisão embargada não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas que foram trazidos à tutela jurisdicional no momento processual oportuno.
+3. O STJ possui entendimento de que o magistrado tem ampla liberdade para analisar a conveniência e a necessidade da produção de provas, podendo perfeitamente indeferir provas periciais, documentais, testemunhais e/ou proceder ao julgamento antecipado da lide, se considerar que há elementos nos autos suficientes para a formação da sua convicção quanto às questões de fato ou de direito vertidas no processo, sem que isso implique cerceamento do direito de defesa.
+4. Não há como analisar a tese defendida pela agravante quanto à produção de prova pericial, pois tal implicaria reexame dos aspectos fático-probatórios do caso em análise. (grifo nosso)
+5. A galvanoplastia, como serviço relativo a bens de terceiros, ainda que componha etapa intermediária no processo de industrialização do bem, sujeita-se ao ISSQN. Precedentes do STJ.
+6. Agravo Interno não provido.
+(AgInt no AgInt no AREsp 843.680/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 6/12/2016, DJe 13/12/2016).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXTINÇÃO DO PROCESSO EM DECISÃO DA PRIMEIRA INSTÂNCIA MANTIDA EM GRAU DE APELAÇÃO. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. REVISÃO. SÚMULA 7 DO STJ. PRECEDENTES DO STJ. DISSIDIO JURISPRUDENCIAL NÃO COMPROVADO. SÚMULA 284 DO STF.
+1. O STJ possui entendimento de que o magistrado tem ampla liberdade para analisar a conveniência e a necessidade da produção de provas, podendo proceder ao julgamento antecipado da lide, se considerar que há elementos nos autos suficientes para a formação da sua convicção quanto às questões de fato ou de direito vertidas no processo, sem que isso implique qualquer ofensa aos princípios do contraditório e da ampla defesa.
+2. Para uma análise em sentido contrário, que leve à modificação do julgado, revela-se indispensável a reapreciação do conjunto probatório existente no processo, o que é vedado em Recurso Especial, em virtude do preceituado na Súmula 7/STJ. (grifo nosso)
+3. Inadmissível o recurso especial que, fundamentado na existência de divergência jurisprudencial, limita-se à mera transcrição de ementas, sem mencionar as circunstâncias que identificam ou assemelham os casos confrontados, tampouco indica quais preceitos legais foram interpretados de modo dissentâneo, o que atrai a incidência da Súmula 284/STF.
+4. Agravo interno não provido.
+(AgInt no REsp 1440314/MS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 17/11/2016, DJe 29/11/2016).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conheço do recurso especial.
+Publique-se. Intimem-se.
