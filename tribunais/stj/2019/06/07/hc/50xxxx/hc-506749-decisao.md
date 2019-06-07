@@ -1,0 +1,21 @@
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU MEDIDA DE URGÊNCIA EM MANDAMUS ORIGINÁRIO. SÚMULA 691/STF. SUPERAÇÃO POR OCASIÃO DA ANÁLISE DA MEDIDA DE URGÊNCIA. SUPERVENIÊNCIA DE APRECIAÇÃO DO MÉRITO DA IMPETRAÇÃO ORIGINÁRIA. DENEGAÇÃO DA ORDEM. NECESSIDADE DE CONFIRMAÇÃO DA LIMINAR. CONCESSÃO DE ORDEM DE OFÍCIO. PACIENTE BENEFICIADO COM PROGRESSÃO AO REGIME ABERTO. FALTA DE CUMPRIMENTO, AO ARGUMENTO DE QUE O APENADO TERIA PRATICADO INFRAÇÃO DISCIPLINAR DE NATUREZA MÉDIA. IMPOSSIBILIDADE DE OBSTAR A CONCESSÃO DO BENEFÍCIO.
+Ordem concedida de ofício nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] - cumprindo pena de 6 anos e 2 meses de reclusão, em razão de condenação pelos crimes de roubo circunstanciado e corrupção de menores, tendo sido beneficiado com progressão ao regime aberto -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que indeferiu a liminar no writ ali impetrado, mantendo a conduta do Juízo de primeiro grau, que deixou de determinar a imediata soltura do paciente, em razão da existência de procedimento administrativo disciplinar para apuração de falta disciplinar de natureza média (PEC n. 0010203-43.2018.8.26.0502).
+Alegam os impetrantes, em síntese, que o paciente, já se encontra com direito a pedidos de benefícios, sendo o impetrado o pedido a progressão ao regime aberto junto ao juízo "a quo" inclusive tendo sido deferido, e não foi acatado pelo Diretor da Unidade Prisional na qual o paciente se encontra recolhido, inclusive com a anuência do Ministério Público, alegando que o Paciente cometeu falta de natureza supostamente "média", o que não pode de forma alguma deixar de cumprir a ordem de soltura devido a falta média, e sim uma falta grave, o qual não é o caso (fl. 4).
+Postulam, então, a concessão liminar da ordem para que, superado o Enunciado n. 691 da Súmula do Supremo Tribunal Federal, seja dado imediato cumprimento à decisão que concedeu a progressão ao regime aberto ao apenado.
+Em 30/4/2019, foi deferido o pedido liminar para determinar o cumprimento da decisão que concedeu a progressão de regime ao paciente (fls. 108/110).
+Prestadas informações pelo Juízo de primeiro grau e pela Corte de origem (fls. 121/122 e 129/138), o Ministério Público Federal opinou pela perda do objeto da impetração (fls. 141/143):
+EXECUÇÃO PENAL. Habeas corpus. Indeferimento de liminar em writ impetrado na origem. Descabimento. Subversão da ordem jurídico-processual. Súmula nº 691 do STF. Execução penal. Falta disciplinar de natureza média que não obsta a progressão de regime. Superveniente denegação da ordem no writ impetrado na origem. Perda do objeto que deve ser reconhecida.
+É o relatório.
+Busca a impetração o cumprimento da decisão que concedeu a progressão ao regime aberto, ao argumento de que a prática de falta disciplinar de natureza média não pode obstar a efetivação do benefício.
+Conforme consta dos autos, sobreveio o julgamento do mérito da impetração originária, tendo sido denegada a ordem (fls. 130/131).
+Assim, a liminar anteriormente deferida carece de confirmação.
+É que, do atento exame dos autos, verifica-se que não foi dado cumprimento à decisão que concedeu a progressão ao regime aberto ao paciente, ao argumento de que ele teria cometido falta disciplinar de natureza média, tendo o Magistrado singular informado que não há previsão para conclusão do procedimento (fl. 103).
+Ocorre que a prática de infração de natureza média não importa em regressão de regime prisional, infere-se daí a inexistência de óbice ao cumprimento da decisão que deferiu a progressão de regime.
+Ademais, não pode o apenado, beneficiado com a progressão de regime, aguardar indefinidamente a conclusão do procedimento apuratório de falta disciplinar média, configurando-se desproporcional a conduta de obstar a progressão prisional no presente caso.
+Em face do exposto, confirmando-se a medida liminar, concedo a ordem de habeas corpus de ofício para determinar o cumprimento da decisão que concedeu a progressão de regime ao paciente.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
