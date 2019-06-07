@@ -1,0 +1,31 @@
+DECISÃO
+Na origem, cuida-se de mandado de segurança impetrado por [NOME] contra ato do Gerente/Diretor do INSS no Estado de São Paulo, buscando tutela jurisdicional no sentido de lhe ser assegurada o direito de protocolizar requerimentos de benefícios, acompanhar processos, obter certidões (CNIS e outras) e ter vista de autos de processos administrativos em geral, dentro e fora da repartição, pelo prazo legal, tudo sem o sistema de agendamento, imposição de obtenção de senhas ou submissão à fila de espera.
+O Tribunal Regional Federal da 3ª Região negou provimento ao recurso de apelação da autarquia previdenciária, mantendo incólume a decisão monocrática de concessão parcial do mandamus (fls. 93-95), nos termos assim ementados (fl. 145):
+APELAÇÃO. MANDADO DE SEGURANÇA. EXIGÊNCIA DE PROTOCOLO DE PETIÇÕES E PRÉVIO AGENDAMENTO PARA ATENDIMENTO DE ADVOGADOS NAS AGÊNCIAS DO INSS. EXIGÊNCIA DE UMA SENHA POR ATENDIMENTO. AUSÊNCIA DE RAZOABILIDADE E PREVISÃO LEGAL. VIOLAÇÃO AO DIREITO DE PETIÇÃO E AO PRINCÍPIO DA EFICIÊNCIA. REMESSA OFICIAL E APELAÇÃO IMPROVIDAS.
+1. Discute-se nestes autos se houve violação das prerrogativas do advogado e abusividade no procedimento adotado nas agências do INSS para atendimento do apelado, mediante restrição de pedidos administrativos por senha, marcação de horário para protocolização e recebimento de requerimentos, bem como a impossibilidade de vista dos autos fora da repartição.
+2. Não pode a Administração Pública restringir a defesa dos interesses dos segurados, devidamente representados por procurador, limitando o número de requerimentos, sob pena de violação ao livre exercício da atividade profissional e das prerrogativas próprias da advocacia, previstas nos arts. 5º, inciso XIII e 133, da Constituição Federal, bem como no art. 7º, inciso VI, "c", da Lei n. 8.906/94.
+3. A exigência de senha para atendimento ao público não constitui, por si só, afronta às prerrogativas do advogado, por se tratar de medida de organização interna das agências.
+4. Contudo, a exigência de uma senha para cada procedimento requerido pelo mesmo advogado, além de violar direito líquido e certo do apelado, em prejuízo ao livre exercício da atividade profissional e ao direito de petição, não encontra respaldo legal, nem, tampouco, razoabilidade na medida imposta.
+4. Apelação improvida.
+Opostos embargos de declaração, foram eles rejeitados (fls. 165-172).
+O INSS interpõe recurso especial, com fundamento no artigo 105, inciso III, alínea a, da Constituição da República, alegando violação dos arts. 1º e 7º, VI, c, da Lei n. 8.906/1994, visto que, em apertada síntese, os direitos e prerrogativas inerentes ao exercício da advocacia não conferem ao advogado tratamento privilegiado em relação aos demais cidadãos, especialmente nos locais em que a atuação desse profissional não é obrigatória.
+Aponta violação do art. 3º da Lei n. 10.741/2003 (Estatuto do Idoso), e negativa de vigência ao art. 9º da Lei n. 7.853/1989, porquanto, resumidamente, o atendimento preferencial conferido aos advogados nas agências da Previdência Social, além de desrespeito aos demais segurados, prejudica especialmente idosos, deficientes, portadores de doenças parcialmente incapacitantes, lactantes, obesos e pessoas acompanhadas de criança de colo, que demandam acolhimento imediato e individualizado.
+Não foram ofertadas contrarrazões ao recurso especial.
+É o relatório. Decido.
+O recurso não merece prosperar, uma vez que o entendimento prestigiado pelo acórdão recorrido encontra-se em sintonia com a jurisprudência do STJ, no sentido de não ser legítima a fixação de restrições, pelo INSS, ao atendimento específico de advogados, com a limitação de número de requerimentos e ainda a exigência de prévio agendamento, circunstâncias que violariam o livre exercício profissional e as prerrogativas próprias da advocacia.
+A propósito, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. ADVOGADOS. INSS. ATENDIMENTO. AGENDAMENTO. HORA MARCADA. ESTATUTO DA ADVOCACIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se, na origem, de Mandado de Segurança impetrado por [NOME], advogada, ora agravada, contra ato do Instituto Nacional do Seguro Social - INSS, ora agravante, com o objetivo de lhe assegurar o direito de protocolizar mais de um requerimento de beneficios previdenciários ao mesmo tempo, independentemente de atendimento por hora marcada.
+2. O Juiz de primeiro grau denegou a segurança.
+3. O Tribunal a quo deu provimento à Apelação da ora agravada.
+4. Esclareça-se que o STF quando apreciou o Recurso Extraordinário 769.254/SP, afetado para a análise da existência de repercussão geral do Tema 741 (Validade da exigência do INSS de prévio agendamento para atendimento de advogados e da restrição a um único requerimento de benefício previdenciário por atendimento), entendeu pela sua inexistência por ser a matéria de cunho infraconstitucional.
+5. A Administração Pública não pode restringir o direito assegurado ao advogado pela Lei 8.906/1994, Estatuto da Advocacia, por razões de conveniência para o bom atendimento ao público.
+6. Como bem destacou o Tribunal de origem, somente a Lei poderá restringir os direitos dos advogados, que são indispensáveis à administração da justiça.
+7. Assim, os advogados devem ser atendidos, dentro do horário do expediente do Instituto Nacional do Seguro Social - INSS, diretamente pelo servidor, sem necessidade de agendamento pelo chamado "Atendimento por hora marcada".
+8. Agravo Interno não provido.
+(AgInt no AREsp 659.677/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/05/2017, DJe 17/05/2017).
+Nesse contexto também temos as seguintes decisões monocráticas: AREsp n. 978.910/SP, Rel. Ministro OG FERNANDES, DJe de 18.04.2018; REsp n. 1.71.284/SP, Rel. Ministro SÉRGIO KUKINA, DJe de 09.04.2018; AREsp n. 1.246.292/SP, Rel. Ministra ASSUSETE MAGALHÃES, DJe de 02.03.2018.
+ Observado que o entendimento aqui consignado, lastreado na jurisprudência, é prevalente no Superior Tribunal de Justiça, aplica-se o enunciado da Súmula n. 568/STJ, in verbis:
+O relator, monocraticamente e no STJ, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RI/STJ, nego provimento ao presente recurso especial.
+Publique-se. Intimem-se.
