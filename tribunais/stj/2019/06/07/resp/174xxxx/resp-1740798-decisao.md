@@ -1,0 +1,44 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela União, com amparo na alínea "a" do permissivo constitucional, contra acórdão assim ementado (e-STJ, fl. 519):
+ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. DESVIO DE FUNÇÃO. JUSTIÇA ELEITORAL. OFICIAL DE JUSTIÇA AD HOC. HABITUALIDADE NÃO CARACTERIZADA. AUSÊNCIA DE IRREGULARIDADE. HONORÁRIOS. REDUÇÃO.
+1. A teor da Súmula n. 378 do STJ, "reconhecido o desvio de função, o servidor faz jus às diferenças salariais decorrentes".
+2. Para a caracterização do desvio de função, necessária a comprovação do efetivo e habitual desempenho pelo servidor público de atribuições de cargo diverso, estranhas ao seu cargo originário, não configurando irregularidade o exercício eventual e esporádico de atividades de outro cargo.
+3. Não comprovado o desvio de função entre o cargo de Analista Judiciário - Sem Especialidade da Justiça Eleitoral e o de Analista Judiciário - Oficial de Justiça Avaliador.
+4. A designação, por portaria, como oficial de justiça ad hoc não é suficiente, por si só, para configurar o desvio de função, mormente diante do reduzido número de diligências efetivamente realizadas pela parte autora naquela condição, revelando atuação de forma esporádica, eventual.
+5. A Terceira Turma deste Regional possui entendimento no sentido de que os honorários advocatícios devem ser fixados em 10% sobre o valor da causa/condenação, desde que não configure valor exorbitante ou irrisório.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 546-552).
+A recorrente alega a existência de violação do art. 535 do CPC/1973, uma vez que o Tribunal de origem não se manifestou sobre os honorários advocatícios terem sido estabelecidos sem observância dos dispositivos do novo Código de Processo Civil.
+Aponta malferimento do art. 85, § 3º, II, do CPC/2015, os honorários advocatícios foram fixados abaixo do percentual legal.
+É o relatório.
+Não merece prosperar a tese de violação do art. 535 do CPC/1973, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela insurgente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+Registro, que, segundo o entendimento do Superior Tribunal de Justiça, a regra processual aplicável, no que tange à condenação em honorários advocatícios sucumbenciais, é aquela vigente na data da prolatação da sentença.
+Observe-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRECEDENTE. IMPUGNAÇÃO DO VALOR FIXADO A TÍTULO DE VERBA HONORÁRIA. MAJORAÇÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O recorrente alega que não há falar em direito adquirido a fim de conclamar incida o Novo Código de Processo Civil apenas às demandas ajuizadas após a sua entrada em vigor (conforme decidido pelo Tribunal a quo), porquanto, consoante estabelecido no artigo 14 do NCPC, o novel diploma normativo processual incidirá imediatamente aos processos em curso.
+2. A jurisprudência desta Corte tem entendido que o marco temporal que deve ser utilizado para determinar o regramento jurídico aplicável para fixar os honorários advocatícios é a data da prolação da sentença, que, no caso, foi na vigência do Código de Processo Civil de 1973. Precedente: REsp 1.636.124/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/12/2016, DJe 27/04/2017.
+3. Nesse contexto, sobrepõe-se o entendimento consolidado neste Tribunal, no sentido de que salvo as hipóteses excepcionais de valor excessivo ou irrisório, não se conhece de recurso especial cujo objetivo é rediscutir o montante da verba honorária fixada pelas instâncias de origem, a teor do enunciado nº 7, da Súmula do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1.657.177/PE, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 23/8/2017)
+Na hipótese, a sentença foi prolatada quando vigia o Código de Processo Civil de 2015. Dito isso, com razão a parte recorrente.
+A sentença, em observância ao que dispõe o art. 85, §§ 2º e 3º, I, do CPC, fixou os honorários advocatícios em 10% do valor atualizado da condenação.
+De outro lado, o Tribunal de origem reduziu o valor dos honorários de sucumbência para R$ 1.500,00 (mil e quinhentos reais), consignando que este quantum se mostra razoável.
+Contudo, o STJ já teve a oportunidade de se manifestar acerca da exegese do art. 85, §§ 2º e 3º, do novo código processual, consignado que deve ser observado, na fixação dos honorários de sucumbência, necessariamente o percentual sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, inclusive nas demandas julgadas improcedentes ou extintas sem resolução do mérito, à exceção do preceito contido no § 8º do art. 85 do CPC, o que não é o caso.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. SÚMULA Nº 7/STJ. NÃO INCIDÊNCIA. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE. LIMITES LEGAIS. NÃO OBSERVÂNCIA. VALOR IRRISÓRIO. MAJORAÇÃO. POSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Tribunal Superior de Justiça tem afastado o óbice da Súmula nº 7/STJ, para rever a verba honorária arbitrada nas instâncias ordinárias, quando verifica que o julgador se distanciou dos critérios legais e dos limites da razoabilidade para fixá-la em valor irrisório.
+3. O § 8º do art. 85 do CPC/2015 se aplica somente quando o valor da causa é muito baixo e, além disso, seja irrisório ou inestimável o proveito econômico experimentado. Caso contrário, os honorários advocatícios devem ser arbitrados a partir do valor da causa ou do proveito econômico experimentado, com obediência aos limites impostos pelo § 2º do art. 85 do CPC/2015, os quais se aplicam, inclusive, nas decisões de improcedência e quando houver julgamento sem resolução do mérito.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.187.650/SP, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 30/4/2018)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284/STF. TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AJUIZAMENTO DO FEITO EXECUTIVO APÓS ADESÃO A PARCELAMENTO, COM A EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO SUSPENSA. EXTINÇÃO DO FEITO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO ESTIMÁVEL. LIMITES E CRITÉRIOS DOS §§ 2º E 3º DO ART. 85 DO CPC/2015. APLICABILIDADE.
+1. "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (Súmula 284/STF).
+2. Na hipótese, a extinção da execução fiscal deu-se em decorrência do ajuizamento da demanda com a exigibilidade do crédito suspensa, nos termos do art. 151, VI, do CTN, tendo em vista a adesão da recorrente a programa de parcelamento.
+3. Assim, não havendo justa causa para a deflagração da execução fiscal, é possível estimar o proveito econômico experimentado pela parte executada que, nessa hipótese, corresponde ao valor do crédito cobrado. Em consequência, não incide a previsão contida no § 8º do art. 85 do CPC/2015, como entenderam as instâncias ordinárias, sendo imperativa a observância das regras previstas nos §§ 2º e 3º do referido dispositivo legal. Nesse sentido: REsp 1671930/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017.
+4. Recurso parcialmente conhecido e, nessa parte, provido.
+(REsp 1.657.288/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 2/10/2017)
+Dessa forma, verifica-se que a fixação, pelo Tribunal de origem, do valor dos honorários sem observância dos limites previstos nos referidos §§ 2º e 3º do art. 85 do CPC/2015 mostra-se inadequada.
+Assim, encontrando-se o acórdão recorrido em dissonância com o entendimento do STJ, o provimento do recurso especial é medida que se impõe.
+Ante o exposto, com fulcro no art. 932, V, do CPC, c/c o art. 255, § 4ª, III, do RISTJ, dou provimento ao recurso especial para determinar a devolução dos autos ao Tribunal de origem, de forma que a fixação dos honorários advocatícios observe estritamente o disposto nos incisos do § 3º do art. 85 do CPC/2015, majorando-os, posteriormente, em 1% (um por sento) sobre o valor a ser fixado (85, § 11, do CPC) pelo trabalho adicional realizado em recurso especial.
+Publique-se. Intimem-se.
