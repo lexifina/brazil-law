@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por IRAPURU TRANSPORTE LTDA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. HONORÁRIOS ADVOCATÍCIOS MODIFICADOS.
+Vencida a Fazenda Pública, os honorários advocatícios devem ser fixados de acordo com a apreciação equitativa do Juiz. In casu, honorários majorados a fim de manter a dignidade do trabalho do patrono do excipiente.
+APELAÇÃO CÍVEL PARCIALMENTE PROVIDA.
+Na origem, trata-se de execução fiscal cujo valor da causa, em maio de 2013, era de R$ 88.432,48 (oitenta e oito mil, quatrocentos e trinta e dois reais e quarenta e oito centavos).
+Em sede de sentença, o juízo de primeira instância acolheu a exceção de pré-executividade para extinguir a execução fiscal, diante da inexigibilidade do título em razão da existência de ação revisional, com depósito consignado. Na ocasião, arbitrou honorários advocatícios sucumbenciais em R$ 200,00 (duzentos reais).
+O tribunal a quo, conforme ementa acima colacionada, em apreciação equitativa, majorou os honorários para R$ 800,00 (oitocentos reais).
+Os embargos de declaração interpostos foram improvidos.
+No presente recurso especial, o recorrente aponta violação ao art. 85, §§ 2º e 3º do CPC/2015.
+Sustenta, em síntese, que os honorários sucumbenciais deveriam ter sido arbitrados conforme os critérios objetivos do art. 85, §3º do CPC/2015, uma vez que não se trata de causa de valor inestimável ou irrisório.
+Apresentadas contrarrazões pela manutenção do acórdão, o recorrido aduz a existência do óbice da Súmula 284/STF e, no mérito, afirma que não houve a violação alegada pelo recorrente.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, nas causas em que a Fazenda Pública for litigante, os honorários advocatícios devem ser fixados observando-se os parâmetros estampados no art. 85, § 2º, caput e incisos I a IV, do CPC/2015 e com os percentuais delimitados no § 3º do referido artigo.
+Por outro lado, na vigência do CPC/2015, a fixação de honorários advocatícios por apreciação equitativa, conforme o contido no § 8º, artigo 85, do CPC/2015, somente tem guarida nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo.
+Nesse sentido, confiram-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXTINÇÃO. CARÊNCIA DA AÇÃO. ILEGITIMIDADE PASSIVA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. §§ 3º e 8º DO ARTIGO 85 DO CPC/2015. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE.
+1. Na vigência do CPC/2015, a fixação dos honorários advocatícios com base na apreciação equitativa, prevista no § 8º, artigo 85, do aludido diploma legal, somente tem aplicação nas causas em que for inestimável ou irrisório o proveito econômico, ou ainda, quando o valor da causa for muito baixo, hipóteses de que não cuidam os presentes autos.
+2. In casu, depreende-se que o Tribunal de origem, ao utilizar-se de critérios diversos das balizas objetivas relacionadas aos percentuais previstos no §3º do artigo 85 do CPC/2015, violou a legislação federal indicada. 3. Agravo i nterno não provido.
+(AgInt no REsp 1736151/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 25/10/2018, DJe 06/11/2018)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. FAZENDA PÚBLICA. SENTENÇA CONDENATÓRIA PROFERIDA NA VIGÊNCIA DO CPC/2015. NOVO ESTATUTO. OBSERVÂNCIA. LITIGÂNCIA DE MÁ-FÉ. NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF.
+I - Na origem, cuida-se de ação ajuizada em desfavor do Instituto Nacional do Seguro Social - INSS objetivando o restabelecimento de auxílio-doença, concessão de aposentadoria por invalidez e indenização por danos morais.
+II - Considera-se deficiente a fundamentação do recurso que deixa de estabelecer, com a precisão necessária, quais os dispositivos de lei federal que considera violados, para sustentar sua irresignação pela alínea a do permissivo constitucional, o que atrai a incidência do Enunciado n. 284 da Súmula STF.
+III - A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, nas causas em que a Fazenda Pública for litigante, os honorários advocatícios devem ser fixados observando-se os parâmetros estampados no art. 85, § 2º, caput e incisos I a IV, do CPC/2015 e com os percentuais delimitados no § 3º do referido artigo. Precedentes: AgInt no REsp n. 1.665.300/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 12/12/2017, DJe 19/12/2017; REsp n. 1.644.846/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 27/6/2017, DJe 31/8/2017.
+IV - Recurso especial provido para determinar ao Tribunal de origem que fixe os honorários advocatícios sucumbenciais em conformidade com os percentuais estabelecidos no art. 85, § 3º, do CPC/2015.
+(REsp 1750763/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/12/2018, DJe 12/12/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. SÚMULA Nº 7/STJ. NÃO INCIDÊNCIA. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE. LIMITES LEGAIS. NÃO OBSERVÂNCIA. VALOR IRRISÓRIO. MAJORAÇÃO. POSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Tribunal Superior de Justiça tem afastado o óbice da Súmula nº 7/STJ, para rever a verba honorária arbitrada nas instâncias ordinárias, quando verifica que o julgador se distanciou dos critérios legais e dos limites da razoabilidade para fixá-la em valor irrisório.
+3. O § 8º do art. 85 do CPC/2015 se aplica somente quando o valor da causa é muito baixo e, além disso, seja irrisório ou inestimável o proveito econômico experimentado. Caso contrário, os honorários advocatícios devem ser arbitrados a partir do valor da causa ou do proveito econômico experimentado, com obediência aos limites impostos pelo § 2º do art. 85 do CPC/2015, os quais se aplicam, inclusive, nas decisões de improcedência e quando houver julgamento sem resolução do mérito.
+4. Agravo interno não provido.
+(AgInt no AREsp 1187650/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/04/2018, DJe 30/04/2018)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem para que a fixação dos honorários advocatícios sucumbenciais obedeça aos parâmetros previstos nos § 2º e § 3º do art. 85 do CPC/2015.
