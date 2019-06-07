@@ -1,0 +1,18 @@
+DECISÃO
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ARTS. 43, 186, 927, 932, III DO CC. INVERSÃO DO JULGADO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA. AGRAVO DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial fundado nas alíneas a e c do art. 105, III da Constituição Federal, no qual ANGELO MANOEL VICENTE e outros se insurgem contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+RESPONSABILIDADE CIVIL. ESTADO DE SANTA CATARINA. ROUBO E SEQUESTRO PRATICADOS POR FORAGIDOS DE PRESÍDIO. DANOS MATERIAIS E MORAIS.
+Se do conjunto probatório restar evidenciada a relação de causalidade entre o fato e a omissão do Estado, que falhou no seu dever de guarda dos detentos sob sua custódia, facilitando a fuga em massa e dando margem ao cometimento de delitos de roubo e sequestro, inevitavelmente estará obrigado a suportar os prejuízos que a inércia acarretou.
+QUANTIFICAÇÃO DOS DANOS MORAIS. AUSÊNCIA DE CRITÉRIOS OBJETIVOS. RAZOABILIDADE DO JULGADOR.
+Na ausência de critérios objetivos para mensuração do valor econômico da compensação pelos danos morais, deve o julgador valer-se das regras de experiência comum e bom senso, fixando essa verba de tal forma que não seja irrisória a ponto de menosprezar a dor sofrida pela vítima, ou exagerada, tornando-se fonte de enriquecimento ilícito (fls. 476).
+2. Opostos Embargos Infringentes, restaram acolhidos, por maioria, às fls. 541/564, nos termos da seguinte ementa:
+RESPONSABILIDADE CIVIL. FORAGIDOS DE ESTABELECIMENTO PRISIONAL QUE COMETERAM CRIMES DURANTE A FUGA (ROUBO E SEQUESTRO). OMISSÃO DO ESTADO E NEXO CAUSAL NÃO DEMONSTRADOS. PROVIMENTO DO RECURSO PARA CONFIRMAR A SENTENÇA DE IMPROCEDÊNCIA.
+2. O fato de foragido de estabelecimento prisional estadual ser autor de crime contra liberdade sexual não enseja, por si só, a responsabilização do ente público com base na teoria do risco administrativo, haja vista a ausência de nexo etiológico entre a atividade estatal e o dano proveniente. Não pode ser presumida a culpa da Administração por conceder, em estrita obediência à lei, dispensa judicial ao preso que, uma vez foragido, veio a cometer crime (AC 2004.024296-4, de Palmitos, Rel. Des. Luiz Cézar Medeiros, j. 30-11-2004) (fls. 542).
+3. Em seu Recurso Especial (fls. 568/607), sustentam os recorrentes violação dos arts. 43, 186, 927 e 932, III do CC/2002, por entender que o Estado deve ser responsabilizado na modalidade negligência, ao deixar de realizar o serviço a que estava obrigado a prestar.
+4. Sobreveio juízo negativo de admissibilidade (fls. 625/626), o que ensejou a interposição do presente Agravo (fls. 629/645).
+5. Instado a se manifestar, o Ministério Público Federal exarou parecer, da lavra do eminente Subprocurador-Geral da República FLÁVIO GIRON, pelo desprovimento do Agravo.
+6. É o relatório.
+7. Quanto à alegada violação dos arts. 43, 186, 927 e 932, III do CC/2002, o acolhimento das alegações deduzidas no Apelo Nobre, para reconhecer a responsabilidade civil do Estado por negligência, demandaria a incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+8. No que toca à alínea c, o sugerido dissídio jurisprudencial não foi analiticamente demonstrado de acordo com os arts. 255, § 2º do RISTJ e 541, parág. único do CPC/1973.
+9. Diante do exposto, nega-se provimento ao Agravo.
+10. Publique-se. Intimações necessárias.
