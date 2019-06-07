@@ -1,0 +1,58 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. ANISTIA. AGRAVO INTERNO IMPROVIDO. ALEGAÇÃO DE CONTRADIÇÃO NO ACÓRDÃO. INEXISTENTE.
+I - Trata-se de embargos de declaração opostos contra acórdão que desproveu agravo interno. Na origem se trata de mandado de segurança contra ato que indeferiu o pedido de retorno da parte impetrante ao serviço público. Na Corte a quo, denegou-se a segurança. Nesta Corte se desproveu o recurso ordinário diante da falta de comprovação do direito líquido e certo alegado. A decisão foi mantida no agravo interno.
+II - A contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS n. 51.806/ES, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp n. 1.532.943/MT, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017.
+III - O acórdão embargado é claro e sem contradições quando fundamenta o desprovimento do recurso na falta de comprovação do direito líquido e certo da parte impetrante.
+IV - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+V - Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso ordinário em mandado de segurança foi interposto por [NOME], com fundamento no art. 105, II, b, da Constituição Federal, contra acórdão proferido pela Quarta Turma julgadora da Quinta Câmara Cível do Tribunal de Justiça do Estado de Goiás, assim ementado (fl.361):
+MANDADO DE SEGURANÇA. EX- EMPREGADA DA EXTINTA CAIXEGO. LEI DA ANISTIA. RETORNO AOS QUADROS DA ADMINISTRAÇÃO PÚBLICA. SITUAÇÃO DISTINTA DA PREVISÃO LEGAL. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. ARGUIÇÃO DE INCONSTITUCIONALIDADE PREJUDICADA.
+1. O mandado de segurança é adequado à pretensão postulada quando preenche os requisitos previstos no artigo 6o, caput, da lei 12.016/2009, 282 e 282 do Código de Processo Civil.
+2. A concessão da anistia prevista na Lei Estadual nº 17.916/12, abrange ex-ocupante de cargo efetivo ou emprego permanente da extinta CAIXEGO, cuja demissão tenha ocorrido por motivação exclusivamente política, fatos inocorrentes na espécie, por se tratar a Impetrante de empregada cedida de órgão distinto, e devolvida à origem na época da liquidação da empresa pública.
+3. Desnecessário o pronunciamento da inconstitucionalidade de aludida lei, ante a ausência de questão prejudicial a influenciar o deslinde da questão.
+4. Ausente o direito líquido e certo a ser reparado por este mandamus porquanto patenteado nos autos que a exclusão da Impetrante dos quadros de funcionários do Estado se deu de forma diversa na narrada na exordial.
+ SEGURANÇA DENEGADA.
+Na origem, trata-se de mandado de segurança, com pedido de liminar, impetrado por [NOME] contra ato do Secretário de Estado de Gestão e Planejamento do Estado de Goiás em que objetiva o retorno ao cargo antes exercido. Aduz que, embora a Lei Estadual n. 17.916/12 tenha facultado o retorno dos ex-empregados da Caixego ao serviço público, teve seu pedido indeferido por não pertencer aos quadros da extinta empresa pública, uma vez que era cedida por outra entidade administrativa, o que afastou seu enquadramento nas situações descritas em lei anistiadora.
+Sustenta, por fim, que estariam presentes os requisitos à anistia, uma vez que a Lei n. 17.597/12 não impede que os ex-empregados provenientes de outros órgãos retornem à Caixego, pois também estes sofreram perseguições e ilegalidades que deram ensejo à anistia possibilitada pela legislação.
+No presente recurso ordinário, a recorrente reitera os argumentos da inicial, bem como reforça que sua demissão se deu durante o processo de liquidação extrajudicial da Caixego, caracterizada assim a motivação exclusivamente política para tal ato. Sustenta que não foi meramente cedida à empresa, uma vez que seu contrato acabou por ser absorvido de fato pela Caixego.
+Portanto, alega a recorrente que possuía vínculo empregatício direto e permanente. Argumenta que seu retorno não foi automático, uma vez que foi necessário o surgimento de uma lei autorizando que os empregados demitidos pela Caixego e que outrora integraram os quadros do Estado pudessem retornar aos seus órgãos de origem. Tal movimentação nunca ocorreu, uma vez que o Decreto n. 3.615/90 anulou todos os retornos até ali concedidos, fato este que caracteriza a perseguição política que motivou a anistia em questão.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido (fls. 381-385).
+O Ministério Público opina pelo desprovimento do recurso, conforme parecer às fls. 403-406.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, com fulcro no artigo 34, inciso XVIII, alínea "b", do RI/STJ, c/c a Súmula 568 deste STJ, nego provimento ao recurso ordinário em mandado de segurança. "
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+ADMINISTRATIVO. VERBAS SALARIAIS. MANDADO DE SEGURANÇA. AUSÊNCIA DE COMPROVAÇÃO INEQUÍVOCA DE QUE EFETIVAMENTE OCUPOU CARGO OU EMPREGO PERMANENTE NA EMPRESA PÚBLICA. AUSÊNCIA DE PROVAS. IMPOSSIBILIDADE DE DILAÇÃO PROBATÓRIA EM MANDADO DE SEGURANÇA.
+I - Verifica-se que a recorrente deixou de trazer aos autos prova inequívoca do ato que acabou por resultar no indeferimento do pedido de retorno aos quadros funcionais do Estado de Goiás.
+II - Conforme preconiza o art. 4º da Lei Estadual n. 17.916/12, toda exoneração, dispensa ou demissão de ex-ocupante de cargo efetivo ou empregado permanente da Caixego, durante o período de liquidação extrajudicial da empresa, ocorreu presumidamente em decorrência de motivação política.
+III - Porém, a recorrente foi cedida pela Caesgo à Caixego, não havendo comprovação inequívoca de que efetivamente ocupou cargo ou emprego permanente na empresa pública para a qual veio a exercer novas funções.
+IV - A jurisprudência desta Corte Superior é firme no sentido de que o mandado de segurança demanda a existência de um direito líquido e certo evidente, a ser comprovado por provas pré-constituídas, inadmitida a fase instrutória. Quando o conjunto probatório não é suficiente para comprovar o direito pleiteado e houver a necessidade de incursão em situações fáticas específicas, não será possível a utilização do mandamus, por impossibilidade de dilação probatória.
+V - Não sendo possível identificar, por meio das provas pré-constituídas, o direito líquido e certo a ser amparado por esta via mandamental, impõe-se reconhecer que não assiste razão à recorrente.
+VI - Não ficou demonstrado de plano que o ato que indeferiu o pedido de reabsorção ao funcionalismo do Estado de Goiás tenha se dado de forma ilegal.
+VII - Tal verificação demandaria necessária dilação probatória, possível nas vias ordinárias, mas não nesta via mandamental.
+VIII - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Os embargos não merecem acolhimento.
+A contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS n. 51.806/ES, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp n. 1.532.943/MT, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017.
+O acórdão embargado é claro e sem contradições quando fundamente o desprovimento do recurso na falta de comprovação do direito líquido e certo da parte impetrante. De fato o acórdão analisou a fundamentação do acórdão recorrido que traz a seguinte análise das provas apresentadas pela parte impetrante, além de outros fundamentos:
+Conquanto o Decreto nº 3.615/91, tenha anulado o ato que determinou o retorno da Impetrante ao órgão de origem, não se pode afirmar que tenha ocorrido por "perseguição política", porquanto atingiu todos os servidores da administração direta do Poder Executivo, suas autarquias, empresas públicas ou sociedades sob o controle acionário do Estado de Goiás (f.276), e não, somente, os empregados da CAIXEGO, até porque a Impetrante voltou aos quadros da Administração Pública, na Secretaria do Estado da Fazenda, em outubro/92, passando a exercer cargo em comissão, não constando dos autos o motivo do desligamento em agosto de 1994.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, Rel. Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre o qual o juiz de ofício ou a requerimento devia-se pronunciar, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
