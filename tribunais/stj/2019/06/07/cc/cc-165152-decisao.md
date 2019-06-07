@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONFLITO NEGATIVO DE COMPETÊNCIA. DIFERENÇAS DE PREVIDÊNCIA COMPLEMENTAR. CAUSA DE PEDIR E PEDIDO. ESTREITA LIGAÇÃO COM A RELAÇÃO DE TRABALHO ESTABELECIDA ENTRE AS PARTES. COMPETÊNCIA DA JUSTIÇA LABORAL.
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo da 33ª Vara do Trabalho de Salvador/BA e o Juízo de Direito da 5ª Vara do Sistema dos Juizados Especiais de Causas Comuns de Salvador/BA relacionado à ação ordinária n. 0000893-14.2017.5.05.0007 ajuizada por [NOME] contra a Empresa Baiana de Águas e Saneamento S/A - EMBASA.
+O Juízo Comum declinou de sua competência sob o argumento de que "o pedido da parte Autora decorre diretamente da natureza de sua atividade laborativa e dos valores inerentes aos processos julgados na Justiça do Trabalho" (fl. 491).
+O Juízo Trabalhista, por sua vez, suscitou o presente conflito de competência ao fundamento de que no julgamento dos Recursos Extraordinários n. 586.453 e 583.050 o Supremo Tribunal Federal decidiu que a competência para julgar processos decorrentes de contrato de previdência complementar privada é da Justiça Comum.
+É o relatório. Passo a decidir.
+Como cediço, a definição da competência para o julgamento de uma demanda se dá em razão da natureza da causa, que por sua vez é definida pelo pedido e pela causa de pedir deduzidos na petição inicial.
+No caso concreto, colhe-se dos autos que o demandante objetiva o pagamento de diferenças devidas sobre as verbas salariais que certamente terão reflexos nos valores recebidos a título de complementação de aposentadoria.
+Com feito, revela a exordial da Ação Ordinária, que o autor requereu a condenação da parte adversa a proceder o recolhimento da sua parte das contribuições mensais para a FABASA (Fundação de Assistência Social e Seguridade da Embasa), considerando-se o adicional de periculosidade e o salário base correto, decorrente da equiparação salarial, no salário de participação, conforme lhe fora assegurado nas Reclamações Trabalhistas n. 0000754-73.2011.5.05.00339 e 0001033-25.2012.5.05.0039.
+Nesse contexto, verifica-se que tanto a causa de pedir, quanto os pedidos dizem respeito à relação laboral em si, denotando a natureza eminentemente trabalhista da lide.
+A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM. AÇÃO PROPOSTA SOMENTE CONTRA A EX-EMPREGADORA. DEMANDA FUNDADA EM NORMAS INTERNAS DA RÉ, DE ÍNDOLE EMINENTEMENTE TRABALHISTA E PREVIDENCIÁRIA. PEDIDO DE CUMPRIMENTO DO CONTRATO DE TRABALHO. COMPLEMENTAÇÃO DE APOSENTADORIA. NENHUM PLEITO FORMULADO CONTRA ENTIDADE DE PREVIDÊNCIA PRIVADA. CAUSA DE PEDIR E PEDIDO. ESTREITA LIGAÇÃO COM A RELAÇÃO DE TRABALHO.
+1. Compete à Justiça do Trabalho processar e julgar ação proposta contra ex-empregadora, na hipótese em que as autoras, ex-empregadas, postulam o recebimento de complementação de aposentadoria, fulcrada apenas em normas internas da promovida, de índole eminentemente trabalhista e previdenciária.
+2. O que demandam as promoventes na presente lide é a percepção de complementação de aposentadoria a ser paga diretamente pela ex-empregadora, não havendo nenhum pleito formulado contra entidade de previdência privada.
+3. Assim, a hipótese do presente conflito de competência é diversa da contemplada no precedente do eg. Supremo Tribunal Federal no julgamento do RE 586.453/SE, que concluiu pela competência da Justiça Comum para processar e julgar demandas de natureza previdenciária promovidas contra entidades de previdência complementar.
+4. Conflito conhecido para declarar competente a Justiça do Trabalho (CC 141.146/RJ, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe 26/8/2016)
+Impõe-se, desse modo, o reconhecimento da competência da Justiça Trabalhista para processar e julgar a demanda.
+Isso posto, conheço do conflito para declarar a competência do Juízo da 33ª Vara do Trabalho de Salvador/BA, forte no art. 955, parágrafo único, do CPC/2015 combinado com o art. 34, XXII, do RISTJ.
+Publique-se. Intimem-se.
