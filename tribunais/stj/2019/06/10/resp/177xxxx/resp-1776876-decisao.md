@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ICMS. ART. 1.022, I E II, DO CPC/2015. INEXISTÊNCIA DE VÍCIOS. TUTELA DE URGÊNCIA. INDEFERIMENTO. RECURSO ESPECIAL CONTRA ACÓRDÃO QUE DEFERE OU INDEFERE MEDIDA LIMINAR OU ANTECIPAÇÃO DOS EFEITOS DA TUTELA. NÃO CABIMENTO. SÚMULA 735/STF. REQUISITOS PARA CONCESSÃO DA TUTELA. ANÁLISE QUE DEMANDA REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por RIO ANIL SHOPPING, com fundamento no art. 105, III, a e c, da CF, contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 231 e-STJ):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. ICMS SOBRE TARIFAS DE TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. LEGALIDADE RECONHECIDA PELO STJ NO JULGAMENTO DO RESP N 1.163.020/RS. EFEITO SUSPENSIVO ATIVO. REQUISITOS NECESSÁRIOS NÃO DEMONSTRADOS. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO CONHECIDO E IMPROVIDO. UNANIMIDADE.
+I. O cerne da presente demanda diz respeito a legalidade da cobrança, nas faturas de energia elétrica, de ICMS sobre o adicional decorrente do Sistema de Bandeiras Tarifárias, implementada pela ANEEL, desde janeiro de 2015.
+II. Por sua vez, as Bandeiras Tarifárias, segundo a ANEEL, representam os custos variáveis da geração de energia, sendo que, antes das bandeiras, esses custos só eram repassados ao consumidor final no reajuste seguinte. Assim, as Bandeiras refletem a variação do custo da geração de energia, quando ela acontece.
+III. No caso dos presentes autos, a jurisprudência do STJ é assente em considerar devida a cobrança do ICMS sobre todo o processo de transmissão e fornecimento de energia elétrica, eis que partes integrantes e necessárias de um complexo de atos que viabiliza a utilização da energia elétrica pelo consumidor final.
+IV. Verifica-se, portanto, que os argumentos expostos no presente agravo não possuem elementos capazes de demonstrar a presença dos requisitos necessários ao seu provimento, tendo o Juiz de primeiro grau agido com acerto e prudência ao indeferir os pedidos constantes da Ação Declaratória c/c Repetição de Indébito proposta pelo ora Agravante.
+V. Agravo conhecido e improvido. Unanimidade.
+Embargos de declaração opostos e rejeitados (fl. 249 e-STJ).
+A recorrente sustenta violação do art. 1.022, I e II, do CPC/2015, aduzindo obscuridade e contradição no acórdão, que entendeu inexistir a probabilidade do direito alegado e o perigo de dano ou o risco ao resultado útil do processo, em que se buscou tutela de urgência com o fim de não se submeter às exações do ICMS sobre o adicional decorrente do Sistema de Bandeiras Tarifárias, ao fundamento de que incide ICMS sobre todas as fases do processo de transmissão e fornecimento de energia.
+Alega dissídio jurisprudencial e contrariedade aos arts. 2º, I, e 9º, § 1º, II, da LC 87/1996, pugnando a tese de exclusão do adicional do ICMS dos custos adicionados a título de bandeiras tarifárias, e requer a tutela de urgência no sentido de assegurar-lhe o direito de não se submeter às exações do ICMS sobre o adicional decorrente do Sistema de Bandeiras Tarifárias.
+Contrarrazões a fls. 305-317 e-STJ.
+Decisão de admissibilidade a fls. 321/322 e-STJ.
+É o relatório. Decido.
+De início, afasta-se a alegada violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia.
+No caso dos autos, a Corte de origem confirmou sentença que indeferiu a tutela de urgência pleiteada, por ausência do requisito da probabilidade do direito alegado, aduzindo que "as Bandeiras são inerentes à geração de energia, e como tal se insere no processo de fornecimento de energia elétrica no qual incide o ICMS", ao fundamento de que, no julgamento do REsp n. 1.163.020/RS, "a jurisprudência do STJ é assente em considerar devida a cobrança do ICMS sobre todo o processo de transmissão e fornecimento de energia elétrica, eis que partes integrantes e necessárias de um complexo de atos que viabilizam a utilização da energia elétrica pelo consumidor final" (fl. 228 e-STJ).
+A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração, sendo desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem.
+No mérito, inviável o conhecimento do recurso especial, uma vez que a jurisprudência do STJ é no sentido de que não é cabível recurso especial contra acórdão que defere ou indefere medida liminar ou antecipação dos efeitos da tutela, haja vista a natureza precária da decisão. Incidência da Súmula n. 735/STF.
+A propósito:
+PROCESSUAL CIVIL.  ..  RECURSO ESPECIAL CONTRA ACÓRDÃO QUE DEFERE OU INDEFERE MEDIDA LIMINAR OU ANTECIPAÇÃO DOS EFEITOS DA TUTELA. NÃO CABIMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 735/STF. ANÁLISE DO FUMUS BONI IURIS QUE DEMANDA DILAÇÃO PROBATÓRIA. SÚMULA N. 07/STJ. INCIDÊNCIA.
+ ..
+III - Não cabe recurso especial contra acórdão que defere ou indefere medida liminar ou antecipação dos efeitos da tutela, haja vista a natureza precária da decisão. Incidência, por analogia, da Súmula n. 735/STF.
+ ..
+(REsp 1.588.337/SP, PRIMEIRA TURMA, Rel. p/ Acórdão Ministra REGINA HELENA COSTA, DJe 3/3/2017)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. RECURSO ESPECIAL CONTRA ACÓRDÃO QUE RATIFICOU DECISÃO QUE CONCEDERA, LIMINARMENTE, A TUTELA MANDAMENTAL. LIMITES DO RECURSO ESPECIAL. VERIFICAÇÃO DOS REQUISITOS DO ART. 273 DO CPC. INVIABILIDADE DO REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. DESCABIMENTO DA ANÁLISE DO MÉRITO DA DEMANDA. INCIDÊNCIA DA SÚMULA 735 DO STF. AGRAVO REGIMENTAL DO ESTADO DE PERNAMBUCO DESPROVIDO.
+ ..
+2. Em sede de Recurso Especial contra acórdão que nega ou concede a antecipação de tutela, fica obstado a esta Corte Superior verificar a suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal, incindindo, à espécie, o disposto na Súmula 735 do STF.
+ ..
+(AgRg no AREsp 174.123/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 21/5/2015, DJe 2/6/2015)
+Outrossim, inviável rever conclusão a que chegou a Corte de origem quanto à ausência dos requisitos para a concessão da tutela almejada, sem o reexame do contexto fático-probatório dos autos, o que, no âmbito do recurso especial, é vedado por força da Súmula 7/STJ.
+A propósito:
+ AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ANTECIPAÇÃO DE TUTELA. REVISÃO NO STJ. IMPOSSIBILIDADE. SÚMULA 735/STF. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões deve ser afastada a alegada violação ao art. 535 do Código de Processo Civil.
+2. O STJ, em sintonia com o disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Precedentes.
+3. Ainda que cabível, em tese, o recurso especial, seria imprescindível o reexame do contexto fático e probatório dos autos para a verificação dos pressupostos ensejadores da tutela antecipada, providência inviável nesta instância em face da Súmula 7/STJ, conforme a jurisprudência pacífica desta Corte.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 716.325/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/8/2015, DJe 27/8/2015)
+Na forma da jurisprudência, "prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea a do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+Ante todo o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
