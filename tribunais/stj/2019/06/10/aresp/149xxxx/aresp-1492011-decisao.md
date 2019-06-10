@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo apresentado por MARIA DE LOURDES SILVA SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE, assim ementado:
+DIREITO CIVIL, PROCESSUAL CIVIL E CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA DO NOME DA AUTORA EM CADASTRO RESTRITIVO DE CRÉDITO. NÃO-COMPROVAÇÃO DA RELAÇÃO JURÍDICA ENTRE AS PARTES. FRAUDE PRATICADA POR TERCEIRO. MÁ PRESTAÇÃO DO SERVIÇO. ATO ILÍCITO QUE GERA DIREITO A REPARAÇÃO POR DANO MORAL. PRECEDENTES DESTA CORTE. INDENIZAÇÃO DEVIDA. MAJORAÇÃO DO VALOR DA CONDENAÇÃO POR DANOS MORAIS. NÃO CABIMENTO. FIXADO EM QUANTUM CONSONÂNCIA COM OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSO CONHECIDO E DESPROVIDO (fl. 173).
+Aponta divergência jurisprudencial quanto à interpretação do art. 904 do CC, no que concerne ao valor fixado a título de danos morais e traz como paradigma a decisão monocrática
+É o relatório. Decido.
+Na espécie, não foi comprovada a divergência jurisprudencial, uma vez que a "decisão monocrática proferida por Relator não é admitida para fins de comprovação do dissídio jurisprudencial, pois a manifestação unipessoal do relator não compreende o conceito coletivo de "tribunal" almejado pela Constituição Federal" (AgInt no REsp 1765964/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/12/2018, DJe de 14/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1751850/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/11/2018, DJe de 21/11/201; AgInt no REsp 1591925/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/3/2018, DJe de 20/3/2018; e AgRg no REsp 1582098/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 4/10/2016, DJe de 14/10/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
