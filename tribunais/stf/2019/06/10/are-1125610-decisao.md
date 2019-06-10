@@ -1,0 +1,23 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “ADMINISTRATIVO – INCLUSÃO DE PRAÇA NO QUADRO DE ACESSO PARA FINS DE PROMOÇÃO NA PENDÊNCIA DE PROCESSO CRIMINAL – PARTICIPAÇÃO NO CURSO DE FORMAÇÃO DE SARGENTOS – POSSIBILIDADE – INTELIGÊNCIA DO §2º DO ART. 203 DO ESTATUTO DOS MILITARES DO ESTADO DE MINAS GERAIS – PROMOÇÃO NA CARREIRA QUE PERMANECE SUSPENSA ATÉ A DECISÃO FINAL DO PROCESSO CRIME – SENTENÇA CONFIRMADA.
+    1 – Se a praça responde por processo criminal, fundado na suposta prática de crime doloso, ainda pendente de conclusão final, nada obsta que seja incluída no quadro de acesso para fins de promoção na carreira militar e participe do correspondente Curso Especial de Formação de Sargentos, por ordem expressa do §2º do art. 203 da Lei Estadual nº. 5.301/69, que garante ao servidor o direito de postular o acesso à graduação superior, permanecendo suspensos os efeitos do benefício eventualmente alcançado até o ulterior trânsito em julgado da decisão criminal. Precedentes.
+    2 – Confirmação da sentença” (pág. 46 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 1°, caput, I, III; 3°, caput, I, II, III, IV; 4°, caput, II; 5°, caput, I, II, III, § 1°, § 2°, XXXV, e LVII, da mesma Carta. Aduz o recorrente, em síntese, a existência de ofensa ao princípio da presunção de inocência em virtude de impedimento de acesso à promoção, em razão da existência de processo penal contra o militar.
+    O Ministério Público Federal, em parecer da lavra do em. Subprocurador-Geral da República, Paulo Gustavo Gonet Branco, opina pela negativa de seguimento ao recurso (documento eletrônico 11).
+    A pretensão recursal não merece acolhida.
+    O entendimento de ambas as Turmas deste Supremo Tribunal é de que inexiste violação ao princípio da presunção de inocência no fato de a legislação ordinária não permitir a inclusão de militar no quadro de acesso à promoção em face de denúncia em processo criminal, desde que previsto o ressarcimento em caso de absolvição:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MILITAR QUE RESPONDE A PROCESSO CRIMINAL. EXCLUSÃO DE QUADRO DE ACESSO À PROMOÇÃO. PREVISÃO LEGAL DE RESSARCIMENTO. POSSIBILIDADE. PRINCÍPIO DA PRESUNÇÃO DA INOCÊNCIA. NÃO VIOLAÇÃO. AGRAVO REGIMENTAL DESPROVIDO” (ARE 710.266-AgR/ES, Rel. Min. Luiz Fux, Primeira Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROMOÇÃO DE OFICIAL DA POLÍCIA MILITAR. EXCLUSÃO. ABSOLVIÇÃO. RESSARCIMENTO. PRECEDENTE.
+    1. A jurisprudência do Supremo Tribunal Federal é no sentido da inexistência de violação do princípio da presunção de inocência (CB/88, artigo 5°, LVII) no fato de a lei não permitir a inclusão de oficial militar no quadro de acesso à promoção em razão de denúncia em processo criminal.
+    2. É necessária a previsão legal do ressarcimento em caso de absolvição. Precedentes.
+    Agravo Regimental a que se nega provimento” (RE 459.320-AgR/PI, Rel. Min. Eros Grau, Segunda Turma).
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie, assim consignou (págs. 52/53 do documento eletrônico 3):
+    “Como se vê, no caso da praça sub judice, não há vedação à permanência no quadro de acesso para fins de promoção, sendo que apenas o ato final de acesso à graduação alcançada é que fica pendente, subordinado ao resultado do processo criminal em trâmite, regra esta que melhor se coaduna com a presunção constitucional de inocência.
+    Isso porque deve ser garantida à praça a possibilidade de concorrer à promoção em igualdade de condição com os demais militares, admitida, para tanto, a inclusão no quadro de acesso e participação nos procedimentos de promoção, sendo que, em caso de ulterior absolvição, os consectários do benefício serão conferidos ao interessado retroativamente à data em que alcançada a nova graduação.
+    Dessa maneira, tratando-se o impedimento em que incurso o embargado de processo criminal em trâmite, a legislação estadual expressamente lhe garante o direito de ser incluído no quadro de acesso e concorrer à promoção na carreira, razão pela qual resta caracterizada a ilegalidade do ato administrativo que obstou ao postulante a pretensão de participar do procedimento.”
+    Nesse contexto, verifico que o entendimento do Tribunal a quo encontra-se em harmonia com a jurisprudência desta Corte.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Sem honorários (Súmula 512/STF).
+    Publique-se.
+    Brasília, 10 de junho de 2019.
+Ministro Ricardo Lewandowski
+Relator
