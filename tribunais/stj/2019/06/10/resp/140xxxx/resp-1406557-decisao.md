@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com amparo na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 528/236, e-STJ):
+Antecipação de Tutela - Pedido de Destituição da Administração da Sociedade - Vontade de União - Inexistência - Comprovação dos Atos Lesivos - Verossimilhança das Alegações e Perigo de Dano Irreparável e de Difícil reparação - Necessidade de Preservação dos Objetivos Sociais 0 Agravo a que se dá provimento.
+Os embargos de declaração opostos foram rejeitados (fls. 563/567, e-STJ).
+Nas razões do recurso especial (fls. 570/582, e-STJ), alegou a parte recorrente violação aos artigos 125, inciso I, 131, 273, 526 e 535 do CPC/73.
+Defendeu: a) não ter sido apresentada cópia da peça recursal na origem, impedindo o seu conhecimento; b) ausência da análise do pedido em consonância com os fatos e circunstâncias da causa; c) não estarem presentes os requisitos ensejadores da medida antecipatória requerida; e d) a negativa da prestação jurisdicional.
+Contrarrazões às fls. 590/622 (e-STJ).
+Após decisão de admissão do apelo especial (fl. 659, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Cuida-se, na origem, de agravo de instrumento interposto contra decisão proferida pelo juízo da 13ª Vara Cível de Belo Horizonte/MG que, nos autos da ação ordinária de n. 002404.353.411-4, indeferiu o pedido de antecipação dos efeitos da tutela.
+Diante do provimento dado ao agravo de instrumento, houve a interposição do presente recurso especial.
+Entretanto, em consulta ao sistema eletrônico do Tribunal de Justiça do Estado de Minas Gerais, verifica-se que na ação principal, em 22/09/2014, foi proferida sentença de extinção, constando da parte dispositiva:
+Impõe-se, em consequência, a extinção do processo, sem resolução de mérito (art.267, VI, CPC) por falta de interesse processual e a condenação dos autores ao pagamento das custas processuais e honorários advocatícios, que fixo em R$5.000,00 (cinco mil reais).
+Nesse contexto, é forçoso reconhecer a perda do objeto do apelo nobre, no qual se discute a viabilidade da medida antecipatória, pois a demanda, agora, segue com julgamento em cognição exauriente.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMISSÃO DE CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA. EXCLUSÃO DO MUNICÍPIO DO CADASTRO DO CADPREV E CAUC. DECISÃO INTERLOCUTÓRIA ATACADA VIA AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO NOS AUTOS PRINCIPAIS. PERDA DE OBJETO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.  ..  2. Em consulta à página oficial no sítio eletrônico do TRF da 5a. Região, averiguou-se que sobreveio sentença de mérito nos autos principais. 3. Conforme entendimento deste colendo Superior Tribunal de Justiça, fica prejudicado o Recurso Especial interposto contra decisão em Agravo de Instrumento, haja vista a superveniência de decisão de mérito na origem.  ..  (AgInt no AREsp 516.903/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 19/02/2019, REPDJe 26/02/2019, DJe 25/02/2019)  grifou-se
+PROCESSUAL CIVIL. PETIÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO INTERLOCUTÓRIA. AGRAVO DE INSTRUMENTO. POSTERIOR JULGAMENTO DE MÉRITO. PERDA SUPERVENINTE DO INTERESSE. RECURSO ESPECIAL PREJUDICADO.  ..  II - A sentença proferida com julgamento de mérito acarreta a prejudicialidade de recurso especial interposto contra acórdão exarado em agravo de instrumento de decisão interlocutória, porquanto configurada a carência superveniente de interesse recursal. III - Pedido de carência superveniente do recurso acolhido para julgar prejudicado o recurso especial. (PET no REsp 1554394/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 08/11/2018, DJe 16/11/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. SENTENÇA DE PROCEDÊNCIA. AGRAVO DE INSTRUMENTO. PREJUDICIALIDADE.  ..  2 A superveniência de sentença de mérito, mediante cognição exauriente, enseja a perda de objeto do recurso especial oriundo de decisão interlocutória. 3. Agravo interno não provido. (AgInt no AREsp 1235877/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/09/2018, DJe 21/09/2018)  grifou-se
+2. Ante o exposto, com fundamento no artigo 932, inciso III, do CPC e 34, inciso XI, do RISTJ, julgo prejudicado o procedimento recursal, ante a perda superveniente do objeto.
+Publique-se.
+Intimem-se.
