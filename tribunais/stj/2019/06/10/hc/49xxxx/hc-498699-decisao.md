@@ -1,0 +1,18 @@
+DECISÃO
+FRANCISCO CLEITON XIMENES UCHOA FILHO alega sofrer coação ilegal em em decorrência de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios na Apelação n. 0004565-02.2018.8.07.0003.
+O paciente foi condenado por incursão no art. 180, caput, do Código Penal, a 1 ano e 9 meses de reclusão, em regime semiaberto, mais multa. A Defensoria Pública busca a redução da pena-base, pois mostra-se "imprescindível a desconsideração da valoração negativa das circunstâncias do crime no cálculo da pena, com fulcro no princípio constitucional do in dubio pro reo" (fl. 5, destaquei).
+O Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+A teor dos precedentes desta Corte:
+A via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+ ..
+(HC n. 509.238/RS, Rel. Ministro Felix Fischer, 5ª T., DJe 3/6/2019).
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, devendo, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal.
+No caso, o Tribunal considerou desfavoráveis os maus antecedentes e as circunstâncias da receptação, in verbis (fl. 22):
+Com efeito, ao contrário do que faz crer o apelante, a magistrada valorou negativamente duas circunstâncias judiciais, a saber, os maus antecedentes, em face dos registros contidos nas fls. 26 e 27, e as circunstâncias do crime, em virtude de o acusado, além de conhecer a origem espúria do bem, ter transitado em via pública com placa clonada e documento condizente com a respectiva identificação, dificultando a fiscalização administrativa.
+Assim, sendo válida a fundamentação da magistrada e não importando ela em valoração duplicada por um mesmo fato, entendo que o aumento da pena-base em 9 (nove) meses encontra-se dentro da razoabilidade e da discricionariedade judicial vigentes na primeira fase da aplicação da pena.
+A impetração cinge-se a confrontar a análise negativa das circunstâncias do crime. Entretanto, não há ilegalidade no aresto, pois foram indicados elementos concretos, que evidenciam aspectos acidentais mais graves da conduta. O réu não apenas receptou um veículo automotor, mas transitou com o bem em via pública, com a placa clonada e documento condizente com a respectiva identificação, o que dificultou a descoberta do ilícito, a denotar complexidade no modus operandi. Não há falar, portanto, em violação do art. 59 do CP.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
