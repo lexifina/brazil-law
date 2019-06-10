@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de requerimento formulado por ROSANA MARIA LUCCA DA CUNHA, através da petição 00189204/2019, na qual postula a devolução do prazo recursal, aduzindo, em síntese, a ocorrência de justa causa, nos termos do art. 233 do CPC/15.
+RELATADO O PROCESSO, DECIDE-SE.
+Alega a requerente que esteve afastada da atividade laboral no período entre 21/01/2019 a 22/03/2019, conforme recomendação médica devidamente comprovada nos autos (fl. 06, e-STJ), razão pela qual, postula a devolução do prazo.
+Conforme a jurisprudência desta Corte, " ..  o fato de o advogado da parte se encontrar de atestado médico não constitui, por si só, hipótese de justa causa.  ..  A jurisprudência do STJ é firme no sentido de que somente se configura força maior quando demonstrada a absoluta impossibilidade de o patrono da parte exercer a profissão ou substabelecer o mandato" (STJ, AgRg no AREsp 645.111/SP, Segunda Turma, DJe de 12/08/2015).
+No mesmo sentido: AgRg no AREsp 772.157/RS, Primeira Turma, Dje de 11/12/2015, AgRg nos EDcl no AREsp 518.930/RJ, Terceira Turma, Dje de 09/10/2014, EDcl no AREsp 225.773/SP, Quarta Turma, Dje de 28/03/2014.
+Todavia, das razões apresentadas, verifica-se que não restou configurada situação apta a ensejar a devolução do prazo recursal, sendo certo que a própria requerente foi categórica em afirma que o prazo da recorrente expiraria em 25/03/2019 (..) tendo reiniciado suas atividades, embora combalida, em 25/03/2019, ou seja, a requerente retornou ao trabalho quando ainda não expirado o prazo recursal, de modo que não mais estava impossibilitada de exercer suas atividades ou de substabelecer o mandato nessa data. Ademais, cumpre ressaltar, que o atestado médico foi expedido em nome diverso da ora requerente.
+Forte nessas razões, INDEFIRO o pedido formulado.
+Publique-se. Intimem-se.
