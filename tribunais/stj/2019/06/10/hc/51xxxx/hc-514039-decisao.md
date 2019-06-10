@@ -1,0 +1,10 @@
+DECISÃO
+WANDER [NOME] alega sofrer coação ilegal em face de acórdão proferido pelo Tribunal Regional Federal da 2ª Região no (HC n. 1006819-89.2019.8..11.0000).
+O impetrante se insurge contra a determinação de prisão preventiva do paciente, no bojo da Operação Câmbio Desligo (Autos n. 006066228-2018.4.02.5101), pois ele está segregado desde 14/5/2019 sem ser, de fato, doleiro.
+A medida extrema, segundo o advogado, é "desnecessária, desarrazoada e excessiva", e o "STF já decidiu sobre a questão de réu foragido na mesma operação", oportunidade em que "revogou as respectivas prisões preventivas, visto que a condição de foragido não pode, por si só, legitimar" a cautela extrema (fl. 5). A defesa esclarece que várias custódias decretadas pelo Juiz foram revogadas ou substituídas e que o suspeito não tem condição de arcar com fiança, razão pela qual outras cautelares devem ser fixadas no caso concreto. Desde 2013, ele "não declara mais IR por ter se enquadrado na categoria de pessoas isentas" (fl. 14) e exames comprovam sua saúde debilitada em razão de um infarto sofrido em 2017.
+Requer a revogação da prisão preventiva ou sua substituição por medidas cautelares diversas da fiança.
+Decido.
+O impetrante deixou de instruir o habeas corpus com a cópia do acórdão impugnado, o que inviabiliza a análise da controvérsia.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir e sua natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante apresentar documentação suficiente para a aferição do pretenso constrangimento ilegal, o que não ocorreu in casu, o que inviabiliza o processamento da insurgência (v.g. HC n. 208.128/ES, Rel. Ministro Jorge Mussi, 5ª T., DJe 23/8/2013 e HC n. 235.131/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2013; entre outros).
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
