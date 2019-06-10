@@ -1,0 +1,144 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO TENTADO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA, APLICAÇÃO DA LEI PENAL E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. ILEGALIDADE NÃO CONFIGURADA. RECURSO NÃO PROVIDO.
+1. No que tange à aventada ausência dos requisitos necessários para a decretação da custódia preventiva e sua substituição por outras medidas cautelares diversas da prisão, essa matéria não foi analisada pelo Tribunal de origem, o qual não conheceu do habeas corpus neste ponto, o que, em princípio, evidencia a impossibilidade de apreciação da questão diretamente por esta Corte Superior de Justiça, sob pena de incidir na indevida supressão de instância.
+2. A aferição da razoabilidade da duração do processo não se efetiva de forma meramente aritmética. Nessa perspectiva, não se verifica ilegalidade quando, embora constatada certa demora na realização de perícia requerida pela defesa e deferida pelo Juízo, o processo esteve em constante movimentação, seguindo sua marcha dentro da normalidade; sem atribuição, pois, aos órgãos judiciários de indevida letargia.
+3. "Ainda que o réu esteja preso desde 2013, o processo encontra-se pronto para julgamento desde 2015. Observa-se que, durante sessão plenária, a defesa do paciente solicitou a realização de perícia, circunstância que enseja o atraso do julgamento. Destaco que, considerada a decisão de pronúncia, possivelmente a prova para a qual requerida a perícia de voz encontra-se nos autos desde a primeira fase do procedimento do Júri, de forma que a diligência poderia ter sido postulada em momento anterior. Identifica-se, assim, que a conduta da defesa também contribuiu para a demora na conclusão do feito" (fl. 2.071).
+4. A demora na realização da perícia não pode ser atribuída ao Juízo da causa, nem ao Ministério Público. É certo que também não se pode conferir exclusivamente à defesa a responsabilidade pelo alegado excesso de prazo, visto que o Estado, por seu órgão competente, ainda não foi capaz de solucionar o problema - a realização da perícia requisitada -, com a urgência que o caso requer, pois se trata de processo penal com réu preso.
+5. Todavia, a despeito desse atraso, nenhum prejuízo concreto para o réu se constata, porquanto ele está preso por outros três processos e foi condenado definitivamente por outros dois, o que enseja a inviabilidade de ser colocado em liberdade, mesmo diante do alegado excesso de prazo.
+6. Recurso não provido, com a recomendação de celeridade na tramitação da Ação Penal n. 001/2.13.0037818-0 pelo Juízo da 3ª Vara do Júri da Comarca de Porto Alegre - RS.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao recurso ordinário, com recomendação, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+[NOME] [NOME] DOS [NOME], ora recorrente, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no Habeas Corpus n. [CPF].
+Consta dos autos que o acusado, preso preventivamente em 22/7/2013, foi denunciado e pronunciado pela prática de homicídio tentado duplamente qualificado.
+Sustenta o insurgente que não estão presentes os requisitos ensejadores da custódia preventiva, motivo pelo qual lhe deve ser concedida a liberdade provisória ou aplicadas medidas diversas da prisão, previstas no art. 319 do CPP.
+Aduz que está sofrendo coação ilegal, "uma vez que há total desproporção entre a conduta e a prisão preventiva, pois  ..  está preso há 04 (QUATRO) ANOS E 08 (OITO) MESES sem encerramento da instrução criminal " (fl. 2.051).
+Requer o provimento do recurso, in limine, a fim de que lhe seja concedida liberdade provisória ou aplicada alguma medida cautelar alternativa à prisão, com a consequente expedição de alvará de soltura.
+Indeferida a liminar e prestadas as informações (fls. 2.105-2.107), os autos foram ao Ministério Público Federal, que opinou pelo desprovimento do recurso (fls. 2.121-2.123).
+Em contato com a Vara de origem, o gabinete recebeu a informação de que a perícia de voz requerida pela defesa ainda não foi realizada, a despeito dos ofícios requisitórios expedidos pelo Juízo, razão pela qual não se pode designar data para a sessão do plenário do Tribunal do Júri.
+Também se obteve a informação de que o réu está preso inclusive por outros processos, conforme se segue:
+n. 001/2.13.0012836-2 que tramita perante a 1ª Vara do Júri, com sentença de pronúncia datada de 13/6/2018;
+n. 157/2.16.0001426-5 que tramita perante a 1ª Vara Judicial da Comarca de Parobé, prisão decretada em 1º/12/2015, com sentença condenatória não definitiva datada de 10/4/2018 e remessa da pena à VEC em 14/5/2018;
+n. 067/2.18.0001116-3 que tramita perante a 2ª Vara Judicial da Comarca de São Lourenço do Sul, com sentença condenatória não definitiva datada de 6/5/2019, oportunidade em que foi decretada a prisão;
+n. 067/2.18.0001325-5 que tramita perante a 2ª Vara Judicial da Comarca de São Lourenço do Sul e prisão decretada em 10/10/2018 (denúncia recebida em 10/1/2019).
+Ademais, segundo a Vara Criminal, ele foi condenado definitivamente nos seguintes processos:
+n. 001/2.09.0049636-4 (trânsito em julgado em 15/12/2011 - pena de 5 anos e 4 meses de reclusão, remetida à VEC em 22/06/2012); e
+n. 001/2.09.0111756-1 (trânsito em julgado em 03/02/2012 - pena de 5 anos e 6 meses de reclusão, remetida à VEC em 26/3/2012).
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO TENTADO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA, APLICAÇÃO DA LEI PENAL E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. ILEGALIDADE NÃO CONFIGURADA. RECURSO NÃO PROVIDO.
+1. No que tange à aventada ausência dos requisitos necessários para a decretação da custódia preventiva e sua substituição por outras medidas cautelares diversas da prisão, essa matéria não foi analisada pelo Tribunal de origem, o qual não conheceu do habeas corpus neste ponto, o que, em princípio, evidencia a impossibilidade de apreciação da questão diretamente por esta Corte Superior de Justiça, sob pena de incidir na indevida supressão de instância.
+2. A aferição da razoabilidade da duração do processo não se efetiva de forma meramente aritmética. Nessa perspectiva, não se verifica ilegalidade quando, embora constatada certa demora na realização de perícia requerida pela defesa e deferida pelo Juízo, o processo esteve em constante movimentação, seguindo sua marcha dentro da normalidade; sem atribuição, pois, aos órgãos judiciários de indevida letargia.
+3. "Ainda que o réu esteja preso desde 2013, o processo encontra-se pronto para julgamento desde 2015. Observa-se que, durante sessão plenária, a defesa do paciente solicitou a realização de perícia, circunstância que enseja o atraso do julgamento. Destaco que, considerada a decisão de pronúncia, possivelmente a prova para a qual requerida a perícia de voz encontra-se nos autos desde a primeira fase do procedimento do Júri, de forma que a diligência poderia ter sido postulada em momento anterior. Identifica-se, assim, que a conduta da defesa também contribuiu para a demora na conclusão do feito" (fl. 2.071).
+4. A demora na realização da perícia não pode ser atribuída ao Juízo da causa, nem ao Ministério Público. É certo que também não se pode conferir exclusivamente à defesa a responsabilidade pelo alegado excesso de prazo, visto que o Estado, por seu órgão competente, ainda não foi capaz de solucionar o problema - a realização da perícia requisitada -, com a urgência que o caso requer, pois se trata de processo penal com réu preso.
+5. Todavia, a despeito desse atraso, nenhum prejuízo concreto para o réu se constata, porquanto ele está preso por outros três processos e foi condenado definitivamente por outros dois, o que enseja a inviabilidade de ser colocado em liberdade, mesmo diante do alegado excesso de prazo.
+6. Recurso não provido, com a recomendação de celeridade na tramitação da Ação Penal n. 001/2.13.0037818-0 pelo Juízo da 3ª Vara do Júri da Comarca de Porto Alegre - RS.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Contextualização
+Consta dos autos (fls. 5-7, grifei):
+ ..
+O recorrente teve sua prisão preventiva decretada em 17/7/2013, pelo cometimento, em tese, do crime tipificado no art. 121, § 2º, I (duas vezes), III e IV, c/c o art. 14, II e art. 29, caput, todos do Código Penal, por fatos ocorridos em 14 de outubro de 2012, cuja vítima foi [NOME].
+A denúncia foi oferecida em 12/6/2013 (fls. 18-21), sendo os autos remetidos ao Magistrado, que recebeu a denúncia (fl. 212), bem como decretou a prisão preventiva em 17 de julho de 2013.
+ ..
+A instrução foi encerrada e os debates orais foram substituídos por memoriais escritos. O Ministério Público pugnou pela pronúncia (fls. 534-537), tendo o paciente pela impronúncia (fls. 539-560).
+O Magistrado a quo julgou parcialmente procedente o pedido, pronunciando o paciente pela a prática de homicídio qualificado por motivo torpe e mediante recurso que dificultou a defesa da vítima (art. 121, § 2º, I e IV), afastando, assim, a dupla incidência da qualificadora prevista no inciso II e a qualificadora do inciso III, ambas do § 2º, do art. 121 do Código Penal (fls. 561-566).
+Inconformado o Ministério Público intentou Recurso em Sentido Estrito (fl. 567), tendo sido recebido (fl. 568) e as devidas razões expostas (fls. 569-573v). Não obstante, a defesa se insurgiu da decisão apresentando recurso e respondendo às razões da acusação (fls. 579-602 e 603-612).
+Subiram os autos para análise dos recursos, os quais restaram desprovidos (fls. 630-637). Dado o devido prosseguimento e designado para 30 de novembro de 2015 o julgamento pelo Tribunal do Júri (fl. 686). Realizado o Júri foi requerida diligências no sentido de perícia de voz face a uma interceptação telefônica, ora base substanciada ao pleito condenatório, ora aceito pelo magistrado (fls. 735v-736v) (sic).
+A divisão de Interceptação Telefônica, em 21 de janeiro de 2016 (fl. 741), manifestou que se trata de um procedimento demorado. Conforme promoção do agente ministerial (fl. 752) datada de 4 de agosto de 2017, foi juntado cópia da gravação. Desse modo, o juízo determinou remessa à perícia (fl. 754) requerendo urgência tendo em vista que o paciente já se encontrava segregado há mais de 1.400 dias.
+O feito encontra-se pendente da diligência, para, após, ser dado o devido prosseguimento.
+A prisão preventiva foi decretada em 17/7/2013, por ocasião do recebimento da denúncia (fls. 274-275, destaquei):
+Posto isso, RECEBO A DENÚNCIA.
+Citem-se os acusados para responderem, por escrito, no prazo de dez dias, nos termos do art. 406 do CPP. Desde já, na hipótese de os réus silenciarem, no aludido prazo, nomeio a Defensoria Pública para atuar em suas defesas, devendo essa ser intimada para tanto.
+Quanto ao PEDIDO DE DECRETAÇÃO DA PRISÃO PREVENTIVA, tenho a medida como necessária.
+O acusado [NOME], de acordo com a certidão de antecedentes criminais e as informações constantes no Sistema de Consultas Integradas, tem um histórico que explicita seu alto grau de violência, já que além de outros processos criminais, está respondendo por três homicídios consumados e já fugou do sistema prisional diversas vezes (sic).
+A situação do corréu [NOME] não se distancia muito de [NOME], tendo em conta as diversas ocorrências policiais em que se envolveu, que incluem homicídio consumado, porte ilegal de armas, tráfico de drogas e lesões corporais.
+Somam-se a tais elementos indicadores de periculosidade a declaração da vítima e demais informes presentes no expediente, a indicar que ambos denunciados são integrantes de gangues envolvidas com o tráfico de drogas.
+Posto isso, fulcro no art. 312 do Código de Processo Penal, DECRETO A PRISÃO PREVENTIVA de [NOME] [NOME] DOS [NOME] e [NOME] RAFAEL [NOME] RODRIGUES, para garantia da ordem pública, da aplicação da lei penal e por conveniência da instrução criminal, devendo os mandados serem expedidos com prazo prescricional, se já não se encontrarem recolhidos.
+Na decisão de pronúncia, em 22/9/2014, manteve-se a prisão preventiva do acusado (fl. 678, grifei):
+Atendendo ao art. 387, § único, do CPP, registro que não há razão para entender alterados os motivos que ensejaram a prisão preventiva, que vão aqui reiterados: trata-se de crime grave, praticado com violência contra pessoa. Ambos os réus apresentam reiteração criminosa, com registros por tráfico de drogas e crimes violentos. Ademais, pelas razões expostas na fundamentação acima, há razões para entender que os réus, mesmo presos, têm interferido no depoimento da vítima e na colheita da prova, sendo de se presumir que, revogada a prisão, essa interferência se acentuaria. Assim, a prisão preventiva fica mantida.
+Segundo informações prestadas pela Magistrada de primeiro grau, referentes ao habeas corpus impetrado pelo réu (fl. 2.011, destaquei):
+O processo - após tramitação regular - teve julgamento pautado para o dia 30/11/2017. Instalada a sessão plenária, foi dissolvido o Conselho de Sentença, em razão do paciente ter requisitado a perícia de voz em mídia constante dos autos, no momento de seu interrogatório. Este Juízo, por sua vez, deferiu a prova requerida (fls. 920-921).
+O feito, portanto, aguarda realização de laudo pericial de voz para, após, ser novamente designado plenário.
+O Ministério Público local, em seu parecer datado de 23/2/2018, consignou (fl. 2.023, grifei):
+De outro lado, a alegação de excesso de prazo para a formação da culpa do paciente, sem demonstrar, no entanto, qualquer desídia do magistrado na condução do feito ou estar o Ministério Público promovendo atos procrastinatórios com o fito de prolongar o encerramento da instrução criminal não merece acolhimento.
+Por este viés, aliás, sequer cabe alegação de excesso de prazo, porquanto aplicável à espécime o enunciado da Súmula n. 21, do Superior Tribunal de Justiça, Corte com competência constitucional para unificação da jurisprudência pertinente à legislação infraconstitucional, cujo teor estabelece:
+"Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução".
+Dessarte, lançada no feito a sentença de pronúncia não há mais falar em excesso de prazo na instrução, como acontece no caso em exame.
+O Tribunal de origem, ao julgar o habeas corpus, à unanimidade, asseriu (fls. 2.025-2.031, destaquei):
+ ..
+O impetrante alega excesso de prazo na formação da culpa, pois o paciente encontra-se recolhido por fato ocorrido em outubro de 2012 e, até a presente data, a instrução não foi encerrada. Sustenta que a condição de reincidente do réu não justifica a manutenção da prisão, ausentes os requisitos autorizadores da medida. Requer, liminarmente, a revogação da prisão.
+ ..
+Não conheço do habeas no que tange à alegação de ausência dos requisitos autorizadores da prisão.
+A regularidade da custódia do paciente foi reconhecida por esta Câmara quando do julgamento do similar tombado sob o nº [CPF]. Eis o teor da ementa:
+ ..
+Diferente do que alega o impetrante, a prisão não foi decretada apenas em razão da condição de reincidente do paciente. Há indicativos de que o acusado integra organização criminosa, havendo gravidade concreta na conduta imputada. De qualquer forma, a existência de elementos concretos a indicar a possibilidade de reiteração delitiva justifica a manutenção da prisão.
+Não alegado fato novo, não conheço do writ no ponto.
+Analiso o excesso de prazo na formação da culpa.
+Conforme informações da autoridade apontada coatora, o paciente encontra-se preso preventivamente desde 22 de julho de 2013.
+Após regular trâmite processual, o paciente foi pronunciado em setembro de 2014, interposto Recurso em Sentido Estrito da decisão. Em abril de 2015, esta Câmara Criminal desproveu os recursos.
+Designada sessão de julgamento pelo Tribunal do Júri para novembro de 2015, esta não se realizou por ter a defesa do paciente requerido a realização de perícia de voz na mídia juntada aos autos.
+Em fevereiro de 2018, o Juízo singular determinou a expedição de ofício ao perito, para que realizasse a perícia com urgência, bem como fosse solicitado, por telefone, estimativa de tempo para realização do laudo.
+Embora o lapso temporal de prisão impressione, não identifico, na conduta do Magistrado a quo, desídia a justificar a revogação da prisão.
+ ..
+Ainda que o réu esteja preso desde 2013, o processo encontra-se pronto para julgamento desde 2015. Observa-se que, durante sessão plenária, a defesa do paciente solicitou a realização de perícia, circunstância que enseja o atraso do julgamento. Destaco que, considerada a decisão de pronúncia, possivelmente a prova para a qual requerida a perícia de voz encontra-se nos autos desde a primeira fase do procedimento do Júri, de forma que a diligência poderia ter sido postulada em momento anterior.
+Identifica-se, assim, que a conduta da defesa também contribuiu para a demora na conclusão do feito. Ademais, o Magistrado a quo determinou a expedição de ofício ao perito, sendo possível que, em breve, o feito seja levado a julgamento.
+Neste contexto, entendo possível a aplicação da Súmula n. 21 do STJ, restando superada a alegação de excesso de prazo na formação da culpa.
+Pelo exposto, voto por conhecer parcialmente do habeas, e, na parte conhecida, denegar a ordem.
+Diante do resultado acima, o acusado interpôs o presente recurso ordinário (fls. 2.040-2.058).
+Sustenta o insurgente que não estão presentes os requisitos ensejadores da custódia preventiva, motivo pelo qual lhe deve ser concedida a liberdade provisória ou aplicadas medidas diversas da prisão, previstas no art. 319 do CPP.
+Aduz que está sofrendo coação ilegal, "uma vez que há total desproporção entre a conduta e a prisão preventiva, pois  ..  está preso há 04 (QUATRO) ANOS E 08 (OITO) MESES sem encerramento da instrução criminal " (fl. 2.051). Como essa contagem do prazo é referente à data do recurso ordinário - 6/4/2018, atualmente supera 5 anos e 9 meses o tempo em que ele está encarcerado.
+Requer o provimento do recurso, in limine, a fim de que lhe seja concedida liberdade provisória ou determinada alguma medida cautelar alternativa à prisão, com a consequente expedição de alvará de soltura.
+No que tange à aventada ausência dos requisitos necessários para a decretação da custódia preventiva, verifico que essa matéria não foi analisada pelo Tribunal de origem, o qual não conheceu do habeas corpus neste ponto, o que, em princípio, evidencia a impossibilidade de apreciação da questão diretamente por esta Corte Superior de Justiça, sob pena de incidir na indevida supressão de instância.
+O Ministério Público Federal, em parecer do Subprocurador-Geral da República [NOME], opinou pelo desprovimento do recurso (fls. 2.121-2.123):
+ ..
+Em que pesem os argumentos da defesa, não deve lograr êxito o esforço recursal defensivo. Conforme fundamentação constante do acórdão impugnado, não há evidências de que o Juízo de 1º Grau tenha dado causa à demora no julgamento do feito, não podendo ser imputada a morosidade ao Poder Público ou ao Ministério Público. Ao contrário, a demora deve-se, principalmente, ao pedido da defesa de realização de perícia. E como se sabe, o prazo legal para conclusão da instrução não é absoluto, devendo ser mitigado à luz do princípio da razoabilidade. Nesse sentido, já decidiu o Superior Tribunal de Justiça:
+ ..
+Por outro lado, a prisão preventiva encontra-se muito bem fundamentada como sendo necessária à garantia da ordem pública.
+Ademais, o processo criminal em referência está prestes a ser encerrado, com sessão de julgamento marcada para o próximo dia 7/2/2019.
+Ante o exposto o parecer é pelo desprovimento do presente recurso.
+II. Excesso de prazo para o encerramento do feito
+O objeto do presente pleito, portanto, cinge-se à análise de possível constrangimento ilegal por excesso de prazo para se encerrar o julgamento em plenário do Júri.
+Razão não assiste à defesa.
+Insta consignar que a aferição da existência do excesso de prazo impõe a observância ao definido no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Pela análise dos dados relatados anteriormente, não identifico a ocorrência de flagrante ilegalidade na espécie, consistente no excesso de prazo para o encerramento do processo, pois, conforme consta do documento colacionado à fl. 2.093, no Setor de Áudio e Imagem do Departamento de Criminalística da Polícia Civil, existem cerca de outras vinte perícias na mesma situação, as quais aguardam realização e devem ocorrer antes desta do presente processo. Há ainda a notícia de que apenas perícias com urgência similar à deste feito estão sendo efetuadas.
+Com efeito, consoante informações dos autos, "o processo - após tramitação regular - teve julgamento pautado para o dia 30/11/2015. Instalada a sessão plenária, foi dissolvido o Conselho de Sentença, em razão do paciente ter requisitado a perícia de voz em mídia constante dos autos, no momento de seu interrogatório. Este Juízo, por sua vez, deferiu a prova requerida" (fl. 2.011, grifei). E acrescentou que "O feito  ..  aguarda realização de laudo pericial de voz para, após, ser novamente designado plenário" (fl. 2.011).
+O Tribunal a quo, por seu turno, no acórdão recorrido, salientou (fl. 2.025, destaquei):
+embora o tempo de prisão impressione, tendo em vista que o paciente encontra-se preso desde 22 de julho de 2013, não há circunstâncias nos autos a indicar a inércia do aparelho judiciário. A defesa do paciente requereu perícia em prova que está nos autos desde a primeira fase do procedimento do Tribunal do Júri durante Sessão de Julgamento, pendente de realização até a presente data. A demora, portanto, pode ser atribuída em parte à defesa. O Juízo, por sua vez, determinou a realização com urgência, sendo possível que, em breve, o feito seja julgado. Não constatada injustificada demora processual pela conduta do Magistrado, aplica-se a Súmula n. 21 do STJ.
+Assim, para afirmar o alegado constrangimento ilegal, colheram-se informações mais detalhadas sobre a tramitação do feito, de sorte a avaliar eventuais justificativas para o longo trâmite do feito na origem.
+O Magistrado sentenciante, à fl. 2.106, esclareceu o que segue (grifei):
+O processo - após tramitação regular - teve julgamento pautado para o dia 30/11/2017. Instalada a sessão plenária, foi dissolvido o Conselho de Sentença, em razão do paciente ter requisitado a perícia de voz em mídia constante dos autos, no momento de seu interrogatório. Este Juízo, por sua vez, deferiu a prova requerida.
+ ..
+Por fim, registro que este Juízo determinou fosse oficiado ao IGP para que se manifestasse quanto à realização da perícia, considerando que os acusados estão segregados há mais de cinco anos (ofício expedido em 06/08/2018).
+Sobreveio aos autos resposta do IGP, informando que a perícia será realizada até 30/09/2018. O feito, portanto, aguarda realização de laudo pericial de voz para, após, ser novamente designado plenário.
+Em contato com a Vara de origem, o gabinete recebeu a informação de que a perícia de voz ainda não foi feita, a despeito dos ofícios requisitórios expedidos pelo Juízo, motivo pelo qual não se pode designar data para a sessão do plenário do Tribunal do Júri.
+Portanto, ficou comprovado nos autos que não houve nenhuma contribuição do Juízo para o excesso de prazo aduzido.
+Ainda segundo a Corte de origem, parte da responsabilidade pode ser atribuída à defesa, ao requerer, durante a sessão plenária, realização de perícia em prova que está nos autos desde a primeira fase do procedimento do Tribunal do Júri.
+Todavia, o pleito foi deferido pelo Juiz-Presidente do Tribunal do Júri, que reconheceu a relevância do pedido e a pertinência da prova e da diligência pugnada pela parte (fl. 920, grifei):
+A seguir, pelo Doutor Juiz foi dito que, "eu vou deferir a prova. Eu quero deixar claro que desde mesmo antes eu entendia que essa prova era pertinente, pelo teor do interrogatório me pareceu claro isso, que havia esse debate quanto à existência da prova e que era pertinente a juntada, porém, considerando que as partes nunca haviam requerido e que nós estamos aqui diante de um julgamento com réus presos, entendia que as partes estavam de acordo com a realização do julgamento dos autos conforme se encontram, que não é o Juiz Presidente que deve interferir nesse tipo de situação, mas uma vez que haja, portanto, um pedido expresso e que a prova é de fato pertinente e que me parece ser uma questão fundamental, e até mesmo já antes do debate já foi tanto debatida a questão da existência dessas gravações, e em caso de existência da autoria da voz presente na gravação, então por isso eu vou dissolver o conselho de sentença, deferir o pedido da defesa de realização da perícia, e para tanto desde já determino que se oficie ao Juízo de origem dessa gravação solicitando que remeta uma cópia do áudio das gravações, e também depois vai ser solicitada a perícia de voz.
+Consta do relatório (fl. 888) e da ata da sessão plenária instalada em 30/11/2015 (fl. 893, destaquei):
+RÉU(S): [NOME]
+ [NOME] Rodrigues
+IMPUTAÇÃO: Art. 121, § 2º, I e IV e art. 14, II, ambos do Código Penal.
+VÍTIMA: [NOME]
+FATO PRONUNCIADO:
+"No dia 14/10/2012, por volta das 16h3Omin, na Rua Onze com a Rua Um, bairro Bom Jesus, em via pública, nesta Capital, os denunciados [NOME] RAFAEL [NOME] RODRIGUES e [NOME] [NOME] DOS [NOME], em comunhão de esforços e conjugação de vontades, por motivo torpe e mediante recurso que dificultou a defesa do acusado, fazendo uso de arma de fogo, desferindo disparos, deram início ao ato de matar [NOME], causando-lhe as lesões descritas nos autos de exame de corpo de delito (fls. 360-361) e boletim de atendimento médico (fls. 199-211).
+ ..
+DISSOLUCÃO DO CONSELHO
+Durante o interrogatório do réu [NOME], surgiu discussão que levou as Defesas de ambos os réus requererem a juntada aos autos de gravação telefônica cuja transcrição está nos autos, bem como de perícia de voz, sendo que o requerimento defensivo foi deferido pelo Juiz-Presidente, conforme a transcrição da estenotipia que será juntada aos autos. Por consequência, o Juiz-Presidente dissolveu o Conselho de Sentença. Encerrados os trabalhos às 11h, o MM. Juiz-Presidente dispensou os jurados, agradecendo a colaboração prestada com a Justiça. Lida esta Ata e achada conforme, vai devidamente assinada.
+Portanto, desde aquela data (30/11/2017), embora haja solicitações reiteradas do Juízo, a diligência não foi realizada pelo órgão estatal responsável, que alega a existência de outras semelhantes na fila de trabalhos (fl. 2.093).
+Assim, o quadro apresentado poderia transparecer algum prejuízo ao recorrente, que permanece preso preventivamente enquanto aguarda designação de nova data para a realização da sessão plenária, a qual, por sua vez, só poderá ocorrer se a prova pericial requisitada estiver disponível.
+Todavia, tal penalização não se concretiza efetivamente, pois mesmo que se relaxasse sua prisão, não seria colocado em liberdade, porquanto está preso por outros processos, conforme informação obtida pelo gabinete perante a Vara de origem:
+n. 001/2.13.0012836-2 que tramita perante a 1ª Vara do Júri, com sentença de pronúncia datada de 13/6/2018;
+n. 157/2.16.0001426-5 que tramita perante a 1ª Vara Judicial da Comarca de Parobé, prisão decretada em 1º/12/2015, com sentença condenatória não definitiva datada de 10/4/2018 e remessa da pena à VEC em 14/5/2018;
+n. 067/2.18.0001116-3 que tramita perante a 2ª Vara Judicial da Comarca de São Lourenço do Sul, com sentença condenatória não definitiva datada de 6/5/2019, oportunidade em que foi decretada a prisão;
+n. 067/2.18.0001325-5 que tramita perante a 2ª Vara Judicial da Comarca de São Lourenço do Sul e prisão decretada em 10/10/2018 (denúncia recebida em 10/1/2019).
+Ademais, segundo a Vara Criminal, ele foi condenado definitivamente nos seguintes processos:
+n. 001/2.09.0049636-4 (trânsito em julgado em 15/12/2011 - pena de 5 anos e 4 meses de reclusão, remetida à VEC em 22/06/2012); e
+n. 001/2.09.0111756-1 (trânsito em julgado em 03/02/2012 - pena de 5 anos e 6 meses de reclusão, remetida à VEC em 26/3/2012).
+III. Dispositivo
+À vista do exposto, nego provimento ao recurso.
+Expeça-se recomendação para que se imprima máxima celeridade na tramitação da Ação Penal n. 001/2.13.0037818-0 pelo Juízo da 3ª Vara do Júri da Comarca de Porto Alegre - RS.
