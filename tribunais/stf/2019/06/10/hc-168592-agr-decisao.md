@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUSTENTAÇÃO ORAL. NÃO CABIMENTO (§ 2º DO ART. 131 DO REGIMENTO INTERNO). PEDIDO DE SUSTENTAÇÃO ORAL INDEFERIDO. PEDIDO DE DESTAQUE DEFERIDO.
+Relatório
+    1. Em 2.5.2019, neguei seguimento ao presente habeas corpus, com requerimento de medida liminar, impetrado por Élcio Berquó Curado Brom e Pedro Paulo de Medeiros, advogados, em benefício de Regina Siqueira Germano, Nilda Siqueira D’Orácio e Marlene Pereira dos Santos Siqueira, contra acórdão da Quinta Turma do Superior Tribunal de Justiça pelo qual, em 21.2.2019, desprovido o Agravo Regimental no Recurso em Habeas Corpus n. 88.763, Relator o Ministro Jorge Mussi.
+    2. Publicada essa decisão no DJe de 6.5.2019, Regina Siqueira Germano, Nilda Siqueira D’Orácio e Marlene Pereira dos Santos Siqueira interpõem, em 6.5.2019, tempestivamente, o presente agravo regimental.
+    3. No agravo regimental, as agravantes pedem:
+    “a – Que o julgamento do Agravo Regimental se dê presencialmente, e não em ambiente virtual (oposição formal ora formulada de forma antecipada);
+    b – Seja previamente informado da data em que será levado à Turma o Agravo Regimental, para que possa acompanha pessoalmente o julgamento e sustentar oralmente (precedente STF/HC/152676) as razões do Agravo Regimental”.
+    Examinada a matéria posta à apreciação, DECIDO.
+    4. Como disposto no § 2º do art. 131 do Regimento Interno do Supremo Tribunal Federal, não cabe sustentação oral nos julgamentos de agravo, embargos declaratórios, arguição de suspeição e medida cautelar.
+    Nesse sentido:
+    ““HABEAS CORPUS” – SUSTENTAÇÃO ORAL EM SEDE DE “AGRAVO REGIMENTAL” – INADMISSIBILIDADE – CONSTITUCIONALIDADE DA VEDAÇÃO REGIMENTAL (RISTF, ART. 131, § 2º) – PEDIDO DE RETIRADA DA CAUSA EM EXAME DA PAUTA DO PLENÁRIO VIRTUAL – INSUFICIÊNCIA DAS RAZÕES APONTADAS PELA PARTE ORA AGRAVANTE – INDEFERIMENTO DO PEDIDO – IMPETRAÇÃO COM APOIO EM FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL APONTADO COMO COATOR: HIPÓTESE DE INCOGNOSCIBILIDADE DO “WRIT” CONSTITUCIONAL – RECURSO DE AGRAVO IMPROVIDO. IMPOSSIBILIDADE DE SUSTENTAÇÃO ORAL EM SEDE DE AGRAVO INTERNO – Não cabe sustentação oral, em sede de agravo interno, considerada a existência de expressa vedação regimental que a impede (RISTF, art. 131, § 2º), fundada em norma cuja constitucionalidade foi expressamente reconhecida pelo Supremo Tribunal Federal. Precedentes. (…)” (HC n. 145.627-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 20.11.2017).
+    “PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. SUSTENTAÇÃO ORAL NO JULGAMENTO DO AGRAVO REGIMENTAL. INADMISSIBILIDADE. SÚMULA 691/STF. SUPERVENIÊNCIA DE NOVO TÍTULO PRISIONAL. PREJUDICIALIDADE. (…)
+    2. O Plenário desta Corte, ao examinar feitos de natureza penal, assentou o entendimento de que “não cabe sustentação oral, em sede de "agravo regimental", considerada a existência de expressa vedação regimental que a impede (RISTF, art. 131, § 2º), fundada em norma cuja constitucionalidade foi expressamente reconhecida pelo Supremo Tribunal Federal” (Pet 2.820-AgR, Rel. Min. Celso de Mello). (…)
+    4. Pedido de reconsideração recebido como agravo regimental a que se nega provimento” (HC n. 135.175-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 1º.6.2017).
+    O Código de Processo Civil prevê a possibilidade de sustentação oral em agravo interno em ação rescisória, mandado de segurança ou reclamação, o que não é o caso.
+    Assim também, as seguintes decisões monocráticas: HC n. 167.132-AgR, Relator o Ministro Ricardo Lewandowski, DJe 7.6.2019; HC n. 169.261-AgR, Relatora a Ministra Rosa Weber, DJe 3.6.2019; HC n. 150.558-AgR, Relator o Ministro Edson Fachin, DJe 14.5.2019; HC n. 168.159-AgR, Relator o Ministro Celso de Mello, DJe 7.5.2019.
+    5. No julgamento do Agravo Regimental no Habeas Corpus n. 152.676, Relator o Ministro Edson Fachin, a Segunda Turma deste Supremo Tribunal deferiu a sustentação oral em caráter excepcional, tendo em vista pedido de destaque de Ministro e a relevância da matéria lá tratada. Esse julgado não altera a tradicional jurisprudência deste Supremo Tribunal no sentido do não cabimento de sustentação oral em agravo regimental interposto em habeas corpus.
+    6. Na sessão de 4.6.2019, ao julgar do Habeas Corpus n. 171.174, Relator o Ministro Ricardo Lewandowski, a Segunda Turma deste Supremo Tribunal indeferiu o pedido de sustentação oral em agravo regimental interposto em habeas corpus.
+    7. Embora improcedente o pedido de sustentação oral, o pedido de destaque para julgamento presencial do agravo regimental há de ser deferido, pois admitido pelo inc. II do art. 4º da Resolução n. 587/2016, pelo qual se regulamenta o julgamento de agravos regimentais e embargos de declaração em ambiente eletrônico neste Supremo Tribunal.
+    8. Pelo exposto, indefiro o pedido de sustentação oral e defiro o pedido de destaque para julgamento presencial do agravo regimental.
+    Publique-se.
+    Brasília, 10 de junho de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
