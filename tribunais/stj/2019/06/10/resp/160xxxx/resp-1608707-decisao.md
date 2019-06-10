@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP, o qual recebeu a seguinte ementa (e-STJ fl. 1.202):
+EMENTA - PLANO DE SAÚDE - OBRIGAÇÃO DE FAZER - Demanda que busca a manutenção de contrato de saúde em favor do autor e dependente, após o desligamento do requerente da empresa estipulante - Improcedência - Recurso interposto pelo autor, visando a manutenção no plano coletivo por tempo indeterminado - Inadmissibilidade, na hipótese - Contrato coletivo, decorrente de relação de trabalho - Autor que, no entanto, contribuiu para o plano por menos de dez anos (pouco mais de seis anos) - Circunstância que afasta a incidência do disposto no art. 31 da Lei 9.656/98 à hipótese - Correto o decreto de improcedência - Precedentes - Sentença mantida - Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.212/1.216).
+Nas razões recursais (e-STJ fls. 1.219/1.231), fundamentadas no art. 105, III, "a" e "c", da CF, o recorrente alega, além de divergência jurisprudencial, ofensa aos arts. 293 e 460 do CPC/1973 e 31, § 1º, da Lei n. 9.686/1998, sustentando, em síntese, a necessidade de manutenção do plano de saúde proporcionalmente ao tempo de contribuição. Afirmou a desnecessidade de pedido alternativo.
+A recorrida apresentou contrarrazões (e-STJ fls. 1.234/1.239).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Extraem-se as seguintes razões de decidir do aresto impugando (e-STJ fl. 1.214):
+O julgamento lançado no V. Acórdão, regularmente publicado, representa a manifestação e o entendimento do colegiado que compôs a Turma Julgadora. Acolheu-se o voto do Relator e, fundamentadamente, negou-se provimento à apelação interposta pelo ora embargante, mantido o decreto de improcedência da ação de obrigação de fazer por ele deduzida em face da embargada (sentença integrada pelo acolhimento dos embargos declaratórios que conferiu ao autor o direito à permanência no plano pelo mesmo período de contribuição).
+Inexiste a apontada contradição.
+De maneira amplamente fundamentada e com respaldo em diversos precedentes desta Turma Julgadora em casos idênticos, concluiu- se pelo acerto da r. sentença recorrida ao afastar o direito à permanência do apelante/embargante junto ao plano de saúde objeto da demanda por tempo indeterminado esta, aliás, a pretensão recursal - haja vista que para ele contribuiu por período inferior a dez anos (pouco mais de seis anos), o que afasta a incidência do artigo 31 da Lei 9.656/98.
+O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem, a fim de permitir ao órgão colegiado cotejar os fundamentos lançados na decisão judicial com as razões expendidas no recurso.
+No caso, o TJSP concluiu que a sentença, integrada pelo acolhimento do aclaratórios, conferiu ao autor o direito à permanência no plano pelo mesmo período de contribuição. Portanto, as razões recursais apresentadas encontram-se dissociadas do que foi decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula n. 284/STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
