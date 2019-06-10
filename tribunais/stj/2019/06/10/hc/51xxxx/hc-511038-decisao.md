@@ -1,0 +1,22 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, nos autos da Apelação Criminal n. 0042103-18.2013.8.26.0050.
+Consta dos autos que o paciente foi condenado a 4 anos e 2 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput e § 4º, da Lei n. 11.343/2006.
+Busca-se, por meio deste writ, a aplicação da minorante expressa no § 4º do art. 33 da Lei de Drogas no patamar máximo, a fixação de regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+A liminar foi indeferida e dispensadas as informações, ante a suficiente instrução dos autos.
+O Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+I. Fração da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nela prevista, mas deixa de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+No caso, a instância ordinária - dentro do seu livre convencimento motivado - fundamentou, com base em argumento idôneo e específico dos autos, o porquê da redução no patamar de 1/6, e fez menção à quantidade de drogas apreendidas e ao fato de o réu haver sido preso em um ponto de tráfico, motivo pelo qual não há nenhum ajuste a ser feito na reprimenda a ele imposta.
+Relembro, por oportuno, que o juiz, ao reconhecer a presença dos quatro requisitos necessários ao reconhecimento da benesse em questão, não está obrigado a aplicar o patamar máximo de redução de pena, já que possui plena discricionariedade para, à luz das peculiaridades do caso concreto, efetivar a diminuição no quantum que entenda suficiente e necessário para a prevenção e a repressão do delito perpetrado, tal como ocorreu no caso dos autos.
+Portanto, em razão de todas essas considerações, não há que falar em constrangimento ilegal.
+II. Regime de cumprimento da pena
+Sobre a matéria posta em discussão, faço lembrar que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJe 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+Na hipótese, a Corte estadual manteve a imposição do regime inicial fechado "com espeque na natureza e quantidade das drogas, circunstâncias que revelam a gravidade concreta do comportamento e, por isso, evidenciam a necessidade de tratamento penal enérgico" (fl. 63), cenário que, de fato, justificam a imposição de regime prisional mais gravoso do que o cabível em razão da reprimenda aplicada.
+Portanto, em homenagem ao princípio do livre convencimento motivado, e uma vez que foram apontados argumentos concretos e específicos para a escolha do regime prisional fechado, não há como esta Corte simplesmente se imiscuir no juízo feito pelo Tribunal de origem para modificar o regime de cumprimento de pena estabelecido ao acusado.
+III. Substituição da pena privativa de liberdade por restritivas de direitos
+Por fim, diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, fica mantida a negativa de substituição da privativa de liberdade por restritiva de direitos, devido à ausência de cumprimento do requisito objetivo previsto no art. 44, I, do Código Penal (sanção superior a 4 anos de reclusão).
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
