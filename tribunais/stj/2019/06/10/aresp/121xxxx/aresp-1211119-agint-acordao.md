@@ -1,0 +1,58 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. FGTS. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de agravo de instrumento interposto contra decisão interlocutória que homologou transação relacionada ao aos valores recolhidos ao FGTS. Alega a parte agravante que não haveria nos autos documento que formalizou o acordo homologado. No Tribunal a quo, negou-se provimento ao recurso.
+III - Com relação aos dispositivos tidos por violados, verifica-se que o Tribunal a quo dirimiu a controvérsia com base nas provas contidas nos autos, sustentando ter o agravante aderido ao acordo previsto na Lei Complementar n. 110/2001,
+IV - Para se chegar a entendimento diverso do acórdão recorrido, e concluir que não houve adesão ao citado acordo, seria necessário o revolvimento do acervo fático-probatório delineado nos autos, procedimento esse vedado no âmbito do recurso especial, por óbice da Súmula n. 7/STJ.
+V - O acórdão recorrido entendeu pela desnecessidade da juntada do termo físico de adesão, considerando a juntada dos extratos, demonstrativos dos depósitos da primeira parcela e, igualmente neste aspecto, infirmar tal argumento demandaria o revolvimento de matéria fático-probatória dos autos, ensejando a incidência do óbice sumular n. 7/STJ.
+VI - Agravo interno improvido
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu a recurso especial, interposto com fundamento no art. 105, III, a e c, da Constituição Federal, com o objetivo de reformar acórdão do Tribunal Regional Federal da 2ª Região, que assim decidiu (fl. 156):
+EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO INTERNO. CORREÇÃO MONETÁRIA DE CONTAS VINCULADAS DO FGTS. LEI COMPLEMENTAR N. 110/01. TERMO DE ADESÃO.
+I. Não cabem Embargos de Declaração contra decisão monocrática do Relator (RITRF/2a R., art. 251 e CPC, art. 535, I). Precedentes do STF. Recurso recebido, contudo, como Agravo Inominado.
+II. Compulsando os autos, verifica-se que o Agravante aderiu ao acordo previsto na Lei Complementar nº 110/2001, bem como que os valores relativos ao ajuste foram depositadas e sacados de sua conta vinculada ao FGTS.
+III. Em sendo assim, ao firmar acordo administrativo com a CEF a Parte aceitou as condições de pagamento concernentes às complementações de atualização monetária dos depósitos fundiários, consoante o disposto na Lei Complementar nº 110/2001, não havendo que se falar em nulidade do acordo, tendo em vista que as partes são capazes, o objeto é lícito, a forma está prevista em lei e a matéria em exame diz respeito a direito disponível.
+IV. Embargos de Declaração da Parte Agravante recebidos como Agravo Interno improvidos.
+Em suas razões especiais, além de dissídio jurisprudencial, o recorrente alega que o decisum violou os arts. 4º, I, 6º, I e II e 7º, da Lei Complementar n. 110/2001, sustentando, em síntese, que diante da ausência de instrumentos que formalizem as supostas transações, não se pode falar em adesão à referida Lei Complementar, invocando precedente do STJ em apoio à sua tese.
+Contrarrazões ofertadas (fls. 181-188).
+A decisão monocrática tem o seguinte dispositivo:"Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. ".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, inciso III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se, em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultra-atividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+Com relação aos dispositivos tidos por violados, verifica-se que o Tribunal a quo dirimiu a controvérsia com base nas provas contidas nos autos, sustentando ter o agravante aderido ao acordo previsto na Lei Complementar n. 110/2001, senão vejamos (fl. 152):
+Compulsando os autos, verifica-se às fls. 91/99 que o Agravante aderiu ao acordo previsto na Lei Complementar nº 110/2001, bem como que os valores relativos ao ajuste foram depositadas e sacados de sua conta vinculada ao FGTS.
+Em sendo assim, ao firmar acordo administrativo com a CEF a Parte aceitou as condições de pagamento concernentes às complementações de atualização monetária dos depósitos fundiários, consoante o disposto na Lei Complementar nº 110/2001, não havendo que se falar em nulidade do acordo, tendo em vista que as partes são capazes, o objeto é lícito, a forma está prevista em lei e a matéria em exame diz respeito a direito disponível.
+Registre-se, ainda, que não há qualquer alegação da Parte Agravante nem tampouco provas nos autos, de que tenha ocorrido qualquer das situações, previstas na legislação civil, capazes de ensejar a nulidade do pacto firmado.
+Observe-se que "o STJ, em reiterados julgados, assentou entendimento no sentido de que, nos termos da Lei Complementar nº 110/2001, é válido e eficaz acordo extrajudicial firmado entre a CEF e os titulares das contas do FGTS, sendo prescindível a assistência dos advogados das partes na referida avença. Precedentes: Edcl no REsp 725.362/SC, Rel. Min. Teori Albino Zavascki, DJ de 23/05/2005; REsp 681.611/RS, Rel. Min. João Otávio de Noronha, DJ de 30/05/2005; REsp 680.115/PR, Rel. Min. Franciulli Netto, DJ 25.04.2005; REsp nº 666.328/PR, Rel. Min. Teori Albino Zavascki, DJ 21.03.2005." (1" T, Agravo Regimental no Recurso Especial 901993, Processo, Rel. Min. JOSÉ DELGADO, DJ 07.05.2007, p. 294)
+Desse modo, para se chegar a entendimento diverso do acórdão recorrido, e concluir que não houve adesão ao citado acordo, seria necessário o revolvimento do acervo fático-probatório delineado nos autos, procedimento esse vedado no âmbito do recurso especial, por óbice da Súmula n. 7/STJ.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. FGTS. VIOLAÇÃO AOS ARTS. 6º, I e II, E 7º DA LEI COMPLEMENTAR 110/01. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ADESÃO AO COMPLEMENTO DE ATUALIZAÇÃO MONETÁRIA. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1. Versa a lide sobre a correção do FGTS, tendo a Quinta Turma Especializada do Tribunal a quo negado provimento ao Recurso de Agravo de Instrumento do autor recorrente, para manter a decisão de primeiro grau, que homologou o suposto acordo realizado com a recorrida, já que a CEF teria apresentado documentos comprobatórios da formalização do pacto por meio eletrônico.
+2. O Tribunal local não emitiu juízo de valor sobre os dispositivos legais cuja ofensa se aduz (arts. 6º, incisos I e II, e 7º, todos da Lei Complementar nº 110/01). O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Súmula 211/STJ.
+3. O Tribunal de origem consignou que "os extratos acostados ao feito pela CAIXA ECONÔMICA FEDERAL - CEF demonstram que o Agravante aderiu ao complemento de atualização monetária previsto no art. 4º, da Lei Complementar nº 110/2001, registrando-se saques das parcelas depositadas àquele título em 20.1.2003, 15.7.2003, 12.1.2004, 13.7.2004 e 12.1.2005" (fl. 94).
+4. A instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos. Desse modo, verifica-se que a análise da controvérsia demanda o reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+5. A apontada divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ), como o que se afigura no presente caso, impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal.
+6. Recurso Especial não provido.
+(REsp 1612758/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/9/2016, DJe 11/10/2016)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FGTS. TERMO DE ADESÃO REGULAMENTADO PELA LEI COMPLEMENTAR N. 110/2001 APRESENTADO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. O órgão julgador a quo entendeu que ocorreu adesão ao acordo previsto na Lei Complementar 110/2001, conforme análise dos documentos que constam nos autos, não havendo ilegalidade em aceitar-se os termos do acordo por via magnética ou eletrônica ante o que prevê o § 1º do artigo 3º do Decreto 3.913/01. A revisão do entendimento apresentado em sede de recurso especial demandaria reexame do contexto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no REsp 1308113/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 19/11/2013, DJe 28/11/2013)
+Ademais, o acórdão recorrido entendeu pela desnecessidade da juntada do termo físico de adesão, considerando a juntada dos extratos, demonstrativos dos depósitos da primeira parcela e, igualmente neste aspecto, infirmar tal argumento demandaria o revolvimento de matéria fático-probatória dos autos, ensejando a incidência do óbice sumular n. 7/STJ.
+Nestes termos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FGTS. TERMO DE ADESÃO REGULAMENTADO PELA LEI COMPLEMENTAR N. 110/2001. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Rever os fundamentos do acórdão recorrido que, em análise fático-probatória, concluiu que a recorrida juntou extratos que comprovam que houve adesão ao acordo previsto nos termos da lei, sofre o óbice da Súmula 7/STJ.
+2. Agravo interno não provido.
+(AgInt no REsp 1355914/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/2/2017, DJe 2/3/2017)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
