@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Recurso Especial interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Alagoas, assim ementado:
+APELAÇÃO CÍVEL. CONSTITUCIONAL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. RESULTADO DO CURSO DE FORMAÇÃO COMPLEMENTAR DE PRAÇAS - CFCP PM/[OAB]/TURMA C, EM 25/01/2012. IMPETRAÇÃO DO PRESENTE MANDAMUS EM 24/10/12. PEDIDO DE RECONSIDERAÇÃO NA VIA ADMINISTRATIVA NÃO INTERROMPE O PRAZO PARA O MANDADO DE SEGURANÇA, SÚMULA 430 DO STF. DECADÊNCIA CONFIGURADA. PREJUDICIAL DE MÉRITO ACOLHIDA. SENTENÇA REFORMADA. EXTINÇÃO DO FEITO COM RESOLUÇÃO DO MÉRITO, COM FULCRO NO ART. 269, IV, DO CPC/73. RECURSO CONHECIDO E PROVIDO. DECISÃO UNÂNIME.
+Com amparo no art. 105, III, "a", da Constituição da República, aponta-se ofensa ao art. 23 da Lei 12.016/2009, pleiteando pela reforma do julgado, para restaurar a sentença de primeiro grau que julgou procedente a ação.
+Contrarrazões apresentadas (fls. 156-174, e-STJ), o recurso foi inadmitido (fls. 176-178, e-STJ), tendo sido interposto Agravo (fls. 181-192, e-STJ), o qual foi convertido em Recurso Especial (fl. 280, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.12.2018.
+O Tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, acolheu a preliminar de decadência do direito do impetrante (fls. 121-128, e-STJ):
+Dito isso, numa percuciente análise dos autos, observa-se que o impetrante/apelado concluiu o CFCP/2011/TURMA C em 24/01/2012, conforme Boletim Geral Ostensivo nº 018 de 25 de janeiro de 2012 (fls. 17/21). Ademais, em 05 de julho de 2012, no Boletim Geral Ostensivo nº 126 (fls. 33/35), adveio um despacho indeferindo um processo administrativo, o qual continha um pedido de reclassificação da turma CFSD 2002, concluindo pela manutenção da antiguidade definida na classificação do curso CFCP/11. Ressalte-se que esse despacho administrativo não é referente ao processo interposto pelo apelado, todavia detêm a mesma finalidade do seu pedido.
+Após, em 25 de julho de 2012, no Boletim Geral Ostensivo nº 140 (fls.58/59), adveio o indeferimento do pedido administrativo de reclassificação feito pelo impetrante/apelado.
+Com isso, o apelado/impetrante em 24/10/2012 interpôs o presente writ, por entender que deveria haver uma nova classificação para o citado curso, haja vista que o aludido curso foi realizado em 2011 e que mesmo sendo dividido em três turmas, a classificação dar-se-ia de forma geral e não por turma, como aconteceu.
+Dessa forma, é de se concluir que, se o resultado do curso foi publicado em 25/01/2012, teria o apelado, a contar desta data, 120 (cento e vinte) dias para impetrar o presente mandamos, todavia apenas manejou-o em 24 de outubro de 2012.
+O Juiz de primeiro grau, na sentença de fls. 122/127, fez menção ao BGO nº 126 de 05 de julho de 2012 como sendo o marco inicial dos 120 (cento e vinte) dias.
+Ocorre que o referido BGO não foi o marco inicial para contagem, pois o mesmo não contém a classificação final do curso e sim um despacho administrativo em que se nega um pedido de reclassificação, sendo que tal pedido sequer foi feito pelo apelado. Ainda que o fosse, como é o caso do BGO nº 140 de 25 de julho de 2012, não teria o condão de suspender ou interromper o prazo.
+Destaco que a aferição das proposições no Recurso Especial demanda incursão nos fatos, nas provas e no direito local.
+As razões submetidas ao Superior Tribunal de Justiça, com efeito, partem de pressupostos fáticos e jurídicos diversos daqueles assentados no aresto estadual, buscando-se, em última análise, conduzir esta Corte à revisão dos elementos de prova que serviram de base à convicção do Tribunal de origem quanto ao marco inicial para a contagem do prazo para a impetração do Mandado de Segurança circunstância vedada pela Súmula 7/STJ). (REsp 1.343.121, Rel. Ministro Benedito Gonçalves, Publicação em 08.09.2015).
+Cediço é, porém, que não pode atuar o Superior Tribunal de Justiça como terceira instância revisora ou tribunal de Apelação reiterada (cf. AgRg no REsp 1116290/SP, Rel. Ministro Luiz Fux, Primeira Turma, DJe 03/08/2010; AgRg no AREsp 436.034/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 16/12/2013).
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
