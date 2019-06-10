@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+Quanto à primeira controvérsia, alega violação do art. 1.022 do CPC/2015, no que concerne à omissão na decisão recorrida, trazendo o seguinte argumento:
+Especificamente, não foi apreciada pelo E. Tribunal Regional Federal da 4ª Região a tese levantada pela autarquia previdenciária acerca da impossibilidade no caso concreto de violação da coisa julgada. Dessa forma, não apreciou também o E. Tribunal a quo o sentido e alcance dos artigos 502 e 503 do CPC.
+Acerca da segunda controvérsia, indica ofensa aos arts. 502 e 503 do CPC/2015, no que concerne ao malferimento à coisa julgada, trazendo os seguintes argumentos:
+No caso concreto, o título judicial transitado em julgado decorreu de outro processo.
+No acórdão proferido no processo nº 2004.71.95.019680-9 reconheceu-se a especialidade de parte dos períodos formulados pelo autor, afastando, entretanto, o período posterior a 29/05/1998 sob o fundamento de que não era possível a conversão do tempo de serviço por forca do art. 28 da Lei n.º 9.711/98 (jurisprudência majoritária na época).
+Assim, o primeiro ponto que merece destaque é que a matéria foi sim analisada nos autos nº 2004.71.95.019680-9, tendo sido julgado IMPROCEDENTE o pedido de conversão do tempo de serviço especial em comum para fins de concessão de aposentadoria por tempo de contribuição, tornando-se, portanto, imutável pelo instituto da coisa julgada. (fls. 245/246).
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais os incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+No que tange à segunda controvérsia, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 07/03/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp 1.374.756/BA, Rel.ª Ministra Laurita Vaz, Sexta Turma, DJe 01/03/2019; AgInt nos EDcl no AREsp 1.356.000/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 06/03/2019; e REsp 1.764.793/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 08/03/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
