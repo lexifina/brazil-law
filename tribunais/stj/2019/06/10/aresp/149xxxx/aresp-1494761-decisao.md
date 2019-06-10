@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de agravo interposto pelo TG CENTRO-OESTE EMPREENDIMENTOS IMOBILIÁRIOS S/A, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial interposto pelo agravante, com base nos seguintes fundamentos: i) aplicação do entendimento firmado no recurso repetitivo: Tema 938; ii) não cabimento de recurso especial por violação a dispositivo constitucional; iii) necessidade de reexame do conjunto fático-probatório (incidência da Súmula 7/STJ); e iv) ausência de cotejo analítico entre os julgados recorridos e os paradigmas colacionados no recurso especial.
+Da leitura do agravo em recurso especial, observa-se que o agravante limita-se a aduzir que há similitude fática entre os julgados recorrido e paradigmas e que não se pretende o reexame de fatos e provas, oportunidade em que reprisa a questão de mérito deduzida em seu recurso especial, deixando, no entanto, de infirmar os fundamentos da decisão agravada no tocante ao não cabimento de recurso especial por violação a dispositivo constitucional.
+Desse modo, não havendo a impugnação dos fundamentos da decisão recorrida, aplicável se torna a Súmula 182 desta Corte.
+Ademais, tem-se que o Presidente do Tribunal de origem ao apreciar a questão atinente à comissão de corretagem, negou seguimento ao recurso especial com base no art. 1030, I, b", CPC/15, em razão da aplicação do entendimento sedimentado no Tema 938, não sendo cabível, portanto, o agravo para esta Corte quanto ao referido tema.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno a parte recorrente que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
