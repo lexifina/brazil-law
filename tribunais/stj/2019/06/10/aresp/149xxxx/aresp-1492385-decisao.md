@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+REPARAÇÃO DE DANOS - RESCISÃO DE CONTRATO - COMPRA E VENDA DE VEÍCULO ANTIGO E USADO - BOA-FÉ OBJETIVA CONCORRÊNCIA DE CULPAS RESTITUIÇÃO DAS PARTES AO ESTADO ANTERIOR (fl. 224).
+Alega, pela alínea a do permissivo constitucional, violação do art. 927 do CC, no que concerne ao cabimento de indenização por danos morais em razão da lesão aos direitos personalíssimos do recorrente, trazendo os seguintes argumentos:
+A não condenação ao pagamento de indenização por danos morais, também enseja a interposição do presente recurso especial, objetivando a devida indenização quantia para valor razoável e moderado. Vejamos:
+Não fixando indenização por danos morais e materiais o [NOME] também não agiu com o costumeiro acerto, eis que os eventuais aborrecimentos e transtornos sofridos provocaram abalo à honra e imagem do recorrente, sendo certo que houve a lesão aos direitos personalíssimos, advindos de ato ilícito, é que geram dano moral (fls. 235).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte" (AgInt no AREsp 1.214.839/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 8/3/2019).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.269.094/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp 1.386.578/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/3/2019; e AgInt no REsp 1.761.700/RO, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 26/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
