@@ -1,0 +1,7 @@
+DECISÃO
+Não obstante os argumentos da União, verifica-se que a concessão da segurança, no caso concreto, ocorreu em 2011 e o falecimento do impetrante, em 2018. Ressalte-se que, nos termos do art. 515, I, do CPC/2015, a decisão proferida no processo civil que reconheça a exigibilidade de obrigação de pagar quantia, de fazer, de não fazer ou de entregar coisa é título executivo judicial.
+Assim, a ausência de trânsito em julgado não constitui óbice à formação do título executivo, autorizando, inclusive, o cumprimento provisório, ressalvando-se que, no que concerne à execução contra a Fazenda Pública, eventual expedição de precatório ou requisição de pequeno valor sujeita-se ao trânsito em julgado da decisão exequenda.
+Além disso, em casos análogos, a Primeira Seção já se manifestou no sentido de que "o único requisito para habilitação de herdeiros, no caso em que o impetrante tenha deixado bens, é que se façam representar por meio do espólio, desde que não finalizado o processo de inventário, não importando se a data do óbito ocorreu antes ou depois do transito em julgado do acórdão exequendo" (AgRg na ExeMS 115/DF, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 24/06/2009, DJe 14/08/2009).
+Desse modo, defiro o requerimento de fls. 519 e seguintes, a fim de que a execução prossiga em nome do espólio, representado por ENYR OSES RIBEIRO (inventariante).
+Retifique-se a autuação.
+Publique-se. Intimem-se.
