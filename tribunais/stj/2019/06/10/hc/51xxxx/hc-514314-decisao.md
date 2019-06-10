@@ -1,0 +1,16 @@
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO PENAL. 14 FALTAS DISCIPLINARES DE NATUREZA GRAVE. PROGRESSÃO DE REGIME PRISIONAL OBSTADO EM RAZÃO DA VIDA PREGRESSA DO REEDUCANDO. REQUISITO SUBJETIVO. NÃO PREENCHIMENTO. TERATOLOGIA OU ILEGALIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora a 4ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo (Agravo em Execução Penal n. 7003476-78.2018.8.26.0071/SP), a qual afastou a progressão de regime prisional do ora paciente, sobretudo em razão do registro em seu prontuário de nada menos que 14 faltas disciplinares de natureza grave, sendo as últimas recentes, do ano de 2016 (fl. 17).
+Esta, a ementa do acórdão impugnado (fl. 12):
+AGRAVO EM EXECUÇÃO - Indeferido o livramento condicional - Resolução SAP nº 144 que não padece de inconstitucionalidade - Decisão de primeiro grau, ademais, que se revela escorreita - Sentenciada que cumpre pena por crimes graves ostentando prática de diversas faltas disciplinares de natureza grave. Atestado de mau comportamento carcerário. Não preenchido o requisito subjetivo. Exame do perfil carcerário demonstra que a terapêutica pena! ainda não foi eficaz, sendo a progressão de regime prematura. Recurso desprovido.
+Daí a presente impetração, em que se alega constrangimento ilegal consistente no afastamento da progressão de regime prisional sem a devida fundamentação (fls. 3/10).
+Postula-se, liminarmente e no mérito, a concessão da ordem para que seja fixado o regime aberto, com a concessão de livramento condicional ao paciente ou a progressão de regime (fl. 10).
+É o relatório.
+Inicialmente, afigura-se inviável acolher-se a pretensão, porquanto o alegado constrangimento não se apresenta com a nitidez imprimida na inicial em razão da conduta do ora paciente durante a execução penal, isto é, o voto condutor do acórdão a quo esclareceu que, no presente caso, além do atestado desfavorável de conduta carcerária, são muitos os fatos que desabonam a conduta do sentenciado ao longo de sua execução e que demonstram a não assimilação da terapêutica penal (fls. 11/18).
+Em acréscimo, as instâncias de origem fizeram menção ao registro em seu prontuário de nada menos que 14 faltas disciplinares de natureza grave, sendo as últimas recentes, do ano de 2016 (fls. 11/18 - grifo nosso).
+Nesse contexto, da leitura dos autos, não verifiquei o fumus boni iuris indispensável à concessão da tutela, sobretudo porque não se verifica ilegalidade apta a justificar a concessão da ordem, de ofício, na medida em que o pedido de progressão de regime foi indeferido tendo em vista o relatório psicossocial do agravante, aliado ao seu histórico prisional desfavorável, registrando faltas disciplinares graves, além de já ter obtido benefício da execução anteriormente e voltado a delinquir (AgRg no RHC n. 106.359/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/5/2019).
+Com essas considerações, não configurado constrangimento ilegal passível de ser afastado mediante a concessão do writ.
+Ante o exposto, com fundamento nos arts. 38 da Lei n. 8.038/1990 e 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
