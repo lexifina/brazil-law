@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à procedência dose pedidos de obrigação de fazer, de obrigação de não fazer e de indenização relacionados à degradação de área de preservação permanente. No extraordinário, cujo trânsito busca alcançar, a recorrente afirma a violação dos artigos 5º, cabeça e incisos II, XXXVI, XL e LV, e 93 da Constituição Federal. Afirma contrariados os princípios da legalidade, da não retroatividade da lei, do ato jurídico perfeito e da fundamentação das decisões judiciais. Diz inexistir, na legislação de regência vigente à época, previsão de definição dos limites da área de proteção ambiental.
+    2. Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    Eis a síntese do acórdão recorrido:
+    Ação civil pública ambiental. Degradação de área de preservação permanente para instalação de reservatório de água. Obrigação de demolir acessões, recompor a vegetação e não realizar novos atos lesivos à biota. Intervenção em desconformidade com Resolução CONAMA n. 13/90 e legislação aplicável. Necessidade de restauração do status quo da área degradada. Princípio da reparação integral do dano ambiental. Possibilidade de indenização de danos irreversíveis. Sentença de procedência. Apelação não provida.
+    A decisão impugnada mediante o extraordinário revela a análise do quadro fático e interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    O que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 10 de junho de 2019.
+Ministro MARCO AURÉLIO
+Relator
