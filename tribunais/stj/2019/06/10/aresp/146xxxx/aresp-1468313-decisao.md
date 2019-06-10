@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por JÉSSICA CRISTINA PEREIRA DA SILVA SOUSA contra decisão do Tribunal de Justiça do Distrito Federal e Territórios, que não admitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, em oposição a acórdão assim ementado (e-STJ, fl. 53):
+"AGRAVO EM EXECUÇÃO. PRETENSÃO À DETRAÇÃO PENAL DURANTE O TEMPO DE LIBERDADE PROVISÓRIA CUMULADA COM MEDIDAS CAUTELARES. IMPROCEDÊNCIA. AUSÊNCIA DE PREVISÃO LEGAL. DECISÃO CONFIRMADA.
+1 Agravo contra decisão do Juízo da Vara de Execuções Penais que indeferiu a detração do período no qual a condenada usufruiu liberdade provisória cumulada com medidas cautelares.
+2 As condições impostas para a concessão da liberdade provisória, vale dizer, comparecimento periódico em juízo, proibição de ausentar-se do Distrito Federal e recolhimento domiciliar à noite, não correspondem às hipóteses de detração previstas no artigo 42 do Código Penal, não se podendo considerar como tempo de prisão cautelar.
+3 Agravo não provido."
+Nas razões do recurso especial (e-STJ, fls. 63-70), a recorrente alega negativa de vigência ao art. 42 do Código Penal, defendendo, em suma, que a melhor interpretação desse dispositivo legal aponta a admissibilidade da detração da medida de recolhimento domiciliar noturno na reprimenda em execução, privilegiando, assim, os princípios da proporcionalidade e da vedação do bis in idem.
+As contrarrazões foram apresentadas (e-STJ, fls. 75-78).
+O recurso foi inadmitido sob o fundamento da incidência da Súmula 83/STJ (e-STJ, fls. 80-81). Daí este agravo (e-STJ, fls. 84-88). A contraminuta foi ofertada às e-STJ, fl. 91).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para provimento do recurso especial (e-STJ, fls. 440-441).
+É o relatório.
+Decido.
+A irresignação merece acolhimento.
+O art. 42 do Código Penal, ao regulamentar a detração penal, prevê que seja computado da pena privativa de liberdade o tempo que o agente houver sido mantido preso provisoriamente ou internado. Confira-se:
+"Art. 42 - Computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em qualquer dos estabelecimentos referidos no artigo anterior."
+Não se pode dizer que o artigo supra seja um numerus clausus, pois se deve considerar como parte do cumprimento da pena, para o fim de detração, o lapso de tempo em que fica o réu privado de sua liberdade, por prisão provisória, da qual são espécies: a prisão em flagrante (arts. 301 a 310 do CPP); a prisão temporária (Lei n. 7.960/1989); a prisão preventiva (arts. 311 a 316); a prisão resultante da pronúncia (arts. 282 e 408, § 1º); e a prisão por sentença condenatória recorrível (art. 393, I); por prisão administrativa, transgressão militar, ou, até mesmo, internação em hospital de custódia.
+Por outro lado, quando a privação da liberdade não é essencial para a realização do processo ou como garantia de seus resultados, o art. 319 do Código de Processo Penal prevê a aplicação de medidas cautelares diversas da prisão, sem o rigor do encarceramento; que consistem em uma ou várias obrigações cumulativas impostas pelo juiz em desfavor do indiciado ou do réu, dependendo da gravidade do crime, das circunstâncias do fato e das condições pessoais do acautelado. Vejamos:
+"Art. 319. São medidas cautelares diversas da prisão:
+I - comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades;
+II - proibição de acesso ou frequência a determinados lugares quando, por circunstâncias relacionadas ao fato, deva o indiciado ou acusado permanecer distante desses locais para evitar o risco de novas infrações;
+III - proibição de manter contato com pessoa determinada quando, por circunstâncias relacionadas ao fato, deva o indiciado ou acusado dela permanecer distante;
+IV - proibição de ausentar-se da Comarca quando a permanência seja conveniente ou necessária para a investigação ou instrução;
+V - recolhimento domiciliar no período noturno e nos dias de folga quando o investigado ou acusado tenha residência e trabalho fixos;
+VI - suspensão do exercício de função pública ou de atividade de natureza econômica ou financeira quando houver justo receio de sua utilização para a prática de infrações penais;
+VII - internação provisória do acusado nas hipóteses de crimes praticados com violência ou grave ameaça, quando os peritos concluírem ser inimputável ou semi-imputável (art. 26 do Código Penal) e houver risco de reiteração;
+VIII - fiança, nas infrações que a admitem, para assegurar o comparecimento a atos do processo, evitar a obstrução do seu andamento ou em caso de resistência injustificada à ordem judicial;
+IX - monitoração eletrônica."
+Tais medidas cautelares surgem como intermediárias entre a liberdade plena e o encarceramento provisório, restringindo, de certa forma, garantias e direitos do acusado, que, ainda que de longe, ficam equiparados à situação de um preso cumprindo pena restritiva de direito ou em regime de semiliberdade.
+Dessa forma, embora não exista previsão legal quanto ao instituto da detração para medidas cautelares alternativas à prisão, entende-se que, no caso concreto, o período de recolhimento noturno, por comprometer o status libertatis do acusado, deve ser reconhecido como período detraído, em homenagem ao princípio da proporcionalidade e em apreço ao princípio do non bis in idem.
+Nesse sentido, citam-se os seguintes precedentes:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. DETRAÇÃO DA PENA E RECOLHIMENTO DOMICILIAR NOTURNO. POSSIBILIDADE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Embora inexista previsão legal, o recolhimento domiciliar noturno, por comprometer o status libertatis da pessoa humana, deve ser reconhecido como pena efetivamente cumprida para fins de detração da pena, em homenagem ao princípio da proporcionalidade e em apreço ao princípio do non bis in idem. Precedentes.
+Habeas corpus não conhecido. Ordem concedida de ofício para permitir a detração da pena correspondente ao período em que o paciente cumpriu medida cautelar diversa da prisão, consistente no recolhimento domiciliar noturno."
+(HC 496.049/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 14/05/2019, DJe 20/05/2019)
+"HABEAS CORPUS SUBSTITUTIVO. NÃO CABIMENTO. EXECUÇÃO PENAL. DETRAÇÃO DA PENA E RECOLHIMENTO DOMICILIAR NOTURNO. POSSIBILIDADE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Embora inexista previsão legal, o recolhimento domiciliar noturno, por comprometer o status libertatis da pessoa humana, deve ser reconhecido como pena efetivamente cumprida para fins de detração da pena, em homenagem ao princípio da proporcionalidade e em apreço ao princípio do non bis in idem. Precedentes.
+3. Habeas corpus não conhecido. Ordem concedida de ofício para permitir a detração da pena correspondente ao período em que o paciente cumpriu medida cautelar diversa da prisão, consistente no recolhimento domiciliar noturno."
+(HC 466.586/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/11/2018, DJe 10/12/2018)
+"HABEAS CORPUS. EXECUÇÃO PENAL. MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. RECOLHIMENTO DOMICILIAR NOTURNO. DETRAÇÃO DA PENA PRIVATIVA DE LIBERDADE. POSSIBILIDADE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Inexiste previsão legal para o cômputo do período de cumprimento de medidas cautelares alternativas à prisão (art. 319, CPP) para fins de detração da pena, cujas hipóteses estão elencadas no artigo 42, do CP. Entretanto, o período de recolhimento noturno, por comprometer o status libertatis do acusado, deve ser reconhecido como período detraído, em homenagem ao princípio da proporcionalidade e em apreço ao princípio do non bis in idem.
+2. Habeas corpus não conhecido, mas concedido de ofício para restabelecer a decisão do Juízo da Vara de Execuções Penais do DF, que deferiu o pedido apresentado pela defesa do paciente para que o período de cumprimento da medida cautelar de recolhimento noturno fosse computado para fins de detração da pena."
+(HC 380.369/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/09/2017, DJe 27/09/2017)
+Ante o exposto, nos termos do art. 932, VIII, do Código de Processo Civil de 2015, c/c o art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo e dou provimento ao recurso especial, para determinar ao juízo da execução que o período de cumprimento da medida cautelar de recolhimento noturno seja computado para fins de detração da pena.
+Publique-se. Intimem-se.
