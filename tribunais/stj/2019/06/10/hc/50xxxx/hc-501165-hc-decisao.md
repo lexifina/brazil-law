@@ -1,0 +1,7 @@
+DECISÃO
+A teor do art. 580 do CPP, na hipótese de concurso de agentes, verificada a identidade de situações fática e processual, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros. O pedido de extensão, a seu turno, deve ser protocolizado nos autos em que foi prolatado o ato judicial favorável ao corréu, o que não ocorreu in casu.
+Deixo de determinar o desentranhamento da Pet n. 285/315 e sua juntada no HC n. 486.118/RJ, porque o requerente não está contextualizado no mesmo tópico da sentença (e do acórdão do Tribunal) analisado pela Sexta Turma, atinente a [NOME], condenado por incursão nos arts. 2º, § 1º e 2º, §§ 2º e 4º, II, da Lei n. 12.850/2013, 158, § 1º (2 vezes) e 316, ambos do CP, a 22 anos, 7 meses e 10 dias de reclusão, além do pagamento de 74 dias-multa.
+As situações dos corréus não são idênticas, pois [NOME] foi condenado a 6 anos, 2 meses e 25 dias de reclusão, a denotar que a individualização de sua pena foi diferente daquela realizada para o paciente do HC n. 486.118/RJ. Portanto, as transcrições e considerações do acórdão da Sexta Turma não aproveitam a ele, de forma objetiva. Urge a necessidade de novo exame da dosimetria, o que denota o descabimento do pedido de extensão.
+À vista do exposto, não conheço do pedido de extensão.
+Aguarde-se o julgamento oportuno deste habeas corpus, quando serão enfrentadas as combativas alegações dos advogados.
+Publique-se e intimem-se.
