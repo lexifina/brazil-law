@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. COMISSÃO DE INTERMEDIAÇÃO PELA REALIZAÇÃO DE COMPRA E VENDA DE IMÓVEL. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS 05 E 07/STJ.
+1. Ação declaratória de nulidade de cláusula contratual c/c repetição de indébito e indenização por danos morais e materiais.
+2. É válida a cláusula contratual que transfere a obrigação do pagamento da comissão de corretagem ao adquirente do imóvel, desde que previamente informado do repasse, circunstância não observada na hipótese.
+3. Alterar o julgamento proferido pelo TJ/SP, a fim de acolher a alegação das recorrentes, no sentido de ser devido o pagamento da comissão de corretagem ou congênere, porquanto devidamente pactuada, seria necessária a interpretação de cláusulas contratuais e o reexame do acervo fático-probatório, o que é vedado pelas Súmulas 5 e 7/STJ.
+4. Agravo interno no recurso especial não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI:
+Cuida-se de agravo interno interposto por PRD VENDAS LTDA e OUTRAS contra decisão unipessoal que conheceu do recurso especial interposto pelas agravantes para negar-lhe provimento às fls. 490/494 (e-STJ).
+Ação: declaratória de nulidade de cláusula de contrato de promessa de compra e venda de imóvel e de distrato contratual c/c repetição de indébito e indenização por danos materiais e morais ajuizada por [NOME] FEITOSA e OUTRO em face das recorrentes.
+Sentença: julgou improcedente a ação com resolução do mérito, condenando os autores ao pagamento das custas, das despesas processuais e dos honorários advocatícios.
+Acórdão: deu parcial provimento à apelação dos recorridos, nos termos da seguinte ementa:
+Apelação Compromisso de compra de venda Ação declaratória c/c repetição de indébito e pedido de indenização por danos materiais e morais Legitimidade passiva configurada Comissão de corretagem e SATI pagos pelos compromissários compradores Posição firmada pelo STJ para efeito do art. 1.040, do CPC/2015 Abusivo o repasse da SATI e congêneres ao consumidor Repetição determinada Comissão de corretagem Evidenciado nos autos a ausência de prévia informação quanto à sua exigibilidade Abusividade de sua cobrança Conduta de má-fé não configurada Determinada a devolução, de forma simples, dos valores indevidamente cobrados a título de corretagem, SATI e assessoria financeira imobiliária Dano moral devidamente afastado Sentença parcialmente reformada Sucumbência recíproca Recurso provido em parte (e-STJ fl. 337).
+Decisão agravada: conheceu do recurso especial interposto pelas recorrentes para negar-lhe provimento, entendendo ser válida a cláusula contratual que transfere a obrigação do pagamento da comissão de corretagem ao adquirente do imóvel, desde que previamente informado do repasse.
+Afirmou-se, ainda, que rever o entendimento do Tribunal de origem a fim de acolher a alegação das recorrentes, no sentido de ser cabível o pagamento da referida comissão, porquanto devidamente pactuada, seria vedado ante os óbices das Súmulas 5 e 7/STJ.
+Agravo Interno: os agravantes, em suas razões recursais, defendem ser cabível o repasse da obrigação do pagamento da comissão de corretagem aos recorridos, visto que eles foram devidamente cientificados acerca da referida cobrança, não havendo que falar, portanto, na aplicação das Súmulas 5 e 7 desta Corte.
+Pugnam, por fim, pelo conhecimento e provimento do presente agravo interno e pela reforma da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. COMISSÃO DE INTERMEDIAÇÃO PELA REALIZAÇÃO DE COMPRA E VENDA DE IMÓVEL. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS 05 E 07/STJ.
+1. Ação declaratória de nulidade de cláusula contratual c/c repetição de indébito e indenização por danos morais e materiais.
+2. É válida a cláusula contratual que transfere a obrigação do pagamento da comissão de corretagem ao adquirente do imóvel, desde que previamente informado do repasse, circunstância não observada na hipótese.
+3. Alterar o julgamento proferido pelo TJ/SP, a fim de acolher a alegação das recorrentes, no sentido de ser devido o pagamento da comissão de corretagem ou congênere, porquanto devidamente pactuada, seria necessária a interpretação de cláusulas contratuais e o reexame do acervo fático-probatório, o que é vedado pelas Súmulas 5 e 7/STJ.
+4. Agravo interno no recurso especial não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI(RELATORA):
+O agravo interno não merece acolhida, porquanto os argumentos deduzidos nas razões recursais pelos agravantes não são capazes de alterar o julgado.
+Conforme consignado na decisão agravada, a Segunda Seção desta Corte, no julgamento do REsp 1.599.511/SP, realizado sob o rito dos recursos repetitivos, entendeu ser válida a cláusula contratual que transfere a obrigação do pagamento da comissão de corretagem ao adquirente do imóvel, desde que previamente informado do repasse, conforme acórdão assim ementado:
+RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL E DO CONSUMIDOR. PROCESSUAL CIVIL. INCORPORAÇÃO IMOBILIÁRIA. VENDA DE UNIDADES AUTÔNOMAS EM ESTANDE DE VENDAS. CORRETAGEM. CLÁUSULA DE TRANSFERÊNCIA DA OBRIGAÇÃO AO CONSUMIDOR. ALEGAÇÃO DE ABUSIVIDADE. TEORIA DA ASSERÇÃO. LEGITIMIDADE PASSIVA DA INCORPORADORA. VALIDADE DA CLÁUSULA. SERVIÇO DE ASSESSORIA TÉCNICO-IMOBILIÁRIA (SATI). COBRANÇA. DESCABIMENTO. ABUSIVIDADE.
+1. TESE PARA OS FINS DO ART. 1.040 DO CPC/2015:
+1.1. Legitimidade passiva "ad causam" da incorporadora, na condição de promitente-vendedora, para responder pela restituição ao consumidor dos valores pagos a título de comissão de corretagem e de taxa de assessoria técnico-imobiliária, nas demandas em que se alega prática abusiva na transferência desses encargos ao consumidor.
+2. CASO CONCRETO:
+2.1. Aplicação da tese ao caso concreto, rejeitando-se a preliminar de ilegitimidade.
+2.2. "Validade da cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem" (tese firmada no julgamento do REsp 1.599.511/SP).
+2.3. "Abusividade da cobrança pelo promitente-vendedor do serviço de assessoria técnico-imobiliária (SATI), ou atividade congênere, vinculado à celebração de promessa de compra e venda de imóvel" (tese firmada no julgamento do REsp 1.599.511/SP).
+2.4. Improcedência do pedido de restituição da comissão de corretagem e procedência do pedido de restituição da SATI.
+3. RECURSO ESPECIAL PROVIDO, EM PARTE (REsp n. 1.551.951/SP, Rel. Min. PAULO DE TARSO SANSEVERINO, Dje de 6/9/2016).
+E, na presente hipótese, o Tribunal de origem, soberano na análise do conjunto fático probatório dos autos, entendeu que:
+No caso dos autos, denota-se não ter havido ajuste prévio estabelecendo a obrigação da promissária compradora de arcar com as despesas de corretagem. O contrato de venda e compra entabulado é datado de 22/03/2014 (fls. 49) e, nesta mesma data, os contratos envolvendo os serviços de corretagem, assessoria técnica imobiliária e assessoria de financiamento imobiliário foram assinados (fls. 50/55, 56/58 e 59/62, respectivamente). Assim como o documento intitulado "Tira-dúvidas" também é datado de 22/03/2014, e embora a alínea P tenha sido rubricada pelos compradores, referido documento não evidencia, com a segurança necessária, a plena concordância dos autores, quanto aos seus termos (fls. 242/244).
+Deste modo, não restou configurado o cumprimento do dever de prévia informação aos consumidores, nos termos do artigo 6º, III, do Código de Defesa do Consumidor, também sendo declaradas nulas as cláusulas que exigiram dos consumidores o pagamento da comissão de corretagem (e-STJ fls. 340/341).
+Desse modo, ao contrário do defendido pelas agravantes, tem-se que alterar a convicção do julgador a quo, acerca da inexistência de prévio ajuste entre as partes, no sentido de estabelecer a obrigação de os recorridos arcarem com as despesas de corretagem, de fato, demandaria a interpretação de cláusulas contratuais e reexame do acervo fático-probatório, o que é vedado pelas Súmulas 5 e 7/STJ.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no recurso especial.
