@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por NOBRE SEGURADORA DO BRASIL S.A. - EM LIQUIDAÇÃO contra decisão que negou seguimento a recurso especial da ora insurgente.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 997, e-STJ):
+Agravo Regimental. Justiça Gratuita (artigo 98, capta, do CPC). Pessoa Jurídica. Recurso voltado contra decisão que indeferiu benefício de justiça gratuita. Liquidação extrajudicial, por si só, não permite a concessão da benesse. Recurso Desprovido.
+Opostos embargos de declaração, esses foram rejeitados (fls. 1025-1027, e-STJ).
+Em suas razões de recurso especial (fls. 1030-1043, e-STJ), a recorrente aponta violação aos arts. 98 e 99, § 2º, do CPC/15, ao argumento de que se faz necessário a concessão do benefício da justiça gratuita na hipótese, porquanto seus recursos financeiros são insuficientes para pagar as despesas processuais sem prejuízo aos credores.
+Contrarrazões às fls. 1046-1049, e-STJ.
+Inadmitido o recurso na origem (fls. 1060-1061, e-STJ), adveio o presente agravo (fls. 1064-1068, e-STJ).
+Contraminuta às fls. 1071-1074, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. No que concerne à concessão da gratuidade de justiça, a jurisprudência deste STJ tem entendido que "o direito à gratuidade da justiça da pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais, o que não ficou afigurado na espécie". Confira-se, o mencionado precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. PESSOA JURÍDICA EM REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. HIPOSSUFICIÊNCIA NÃO COMPROVADA. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta eg. Corte entende que é possível a concessão da gratuidade da justiça à pessoa jurídica somente quando comprovada a precariedade de sua situação financeira, não havendo falar em presunção de miserabilidade.
+2. O direito à gratuidade da justiça da pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais, o que não ficou afigurado na espécie. Precedentes.
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1.619.682/RO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/12/2016, DJe 7/2/2017)
+Na hipótese, o Tribunal local assim concluiu:
+Através do presente agravo interno, questiona as decisões proferidas com o claro intuito de rediscutir a concessão da benesse e reverter o resultado que lhe fora desfavorável.
+Analisando as alegações da agravante, entendo que esta não apresentou os requisitos para o deferimento do benefício.
+A agravante aduz estar em regime de liquidação extrajudicial, o que justificaria a concessão do benefício de gratuidade judicial. Contudo, tal situação, por si só, não permite a concessão da benesse, uma vez a agravante não se encontra em cm o condição de insolvente.
+ ..
+Os documentos trazidos aos autos dos Embargos de Declaração demonstram a existência de considerável ativo circulante no valor de R$ 372.733,687,12, conforme balanços patrimoniais de fls. 11 e seguintes (processo nº o 00 4001228-64.2013.8.26.0008/50000).
+Assim, ante a ausência de qualquer elemento novo capaz de alterar os fundamentos da decisão agravada, não há o que reconsiderar, a análise dos autos revela que a agravante não preenche os requisitos autorizadores da concessão do benefício da Justiça Gratuita, sendo necessário recolher taxa judiciária, sob pena de inscrição em dívida ativa do Estado do que se aferirá e providenciará em primeira instância. (fls. 999-1000, e-STJ)
+Desta forma, para alterar as conclusões do órgão julgador e verificar a alegada hipossuficiência financeira da ora recorrente, a fim de fazer jus ao benefício da gratuidade de justiça, seria imprescindível o reexame dos fatos e provas dos autos, providência inadmissível nesta instância extraordinária, nos termos da Súmula 7/STJ. Nesse sentido, precedentes:
+AGRAVO INTERNO. JUSTIÇA GRATUITA. PESSOA JURÍDICA. LIQUIDAÇÃO EXTRAJUDICIAL. FALTA DE COMPROVAÇÃO DA NECESSIDADE DO BENEFÍCIO. REVISÃO DA CONCLUSÃO ALCANÇADA NA ORIGEM. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.  ..  2. A conclusão a que chegou o Tribunal a quo, no sentido de indeferir a benesse pretendida, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Revê-la importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal pelo teor da Súmula 7 do STJ. 3. Ademais, conforme jurisprudência do STJ, ainda que em regime de liquidação extrajudicial, a concessão do benefício da justiça gratuita à pessoa jurídica depende da demonstração da impossibilidade de arcar com os encargos processuais. Precedentes. 4. Agravo interno não provido. (AgInt nos EDcl no AREsp 1356000/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/02/2019, DJe 06/03/2019)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. TRANSPORTE COLETIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DANO MORAL. TERMO INICIAL DOS JUROS DE MORA. SÚMULA 54/STJ. SEGURADORA. LIQUIDAÇÃO EXTRAJUDICIAL. CORREÇÃO MONETÁRIA. FLUÊNCIA. GRATUIDADE JUDICIAL. NECESSIDADE. SÚMULA 7/STJ.  ..  3. O simples fato de a empresa ter entrado em liquidação extrajudicial não implica, automaticamente, a concessão dos benefícios da gratuidade de Justiça, e a adoção de entendimento contrário ao acórdão recorrido quanto ao preenchimento do requisitos encontra óbice na Súmula 7/STJ. 4. Segundo o entendimento da Segunda Seção, sufragado no REsp 1.132.866/SP (julgado em 23.11.2011), no caso de indenização por dano moral puro decorrente de ato ilícito, os juros moratórios legais fluem a partir do evento danoso (Súmula 54 do STJ). 5. Agravo interno a que se nega provimento. (AgInt no REsp 1727115/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/09/2018, DJe 14/09/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. PESSOA JURÍDICA EM REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. HIPOSSUFICIÊNCIA NÃO COMPROVADA. IMPOSSIBILIDADE DE REVER O ENTENDIMENTO ADOTADO PELO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ.
+1. O direito à gratuidade da justiça da pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais, o que não ficou afigurado na espécie, não sendo possível rever o entendimento adotado pelo Tribunal de origem, em virtude da Súmula 7/STJ. Precedentes.
+2. AGRAVO INTERNO DESPROVIDO. (AgInt no AREsp 1021128/MS, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/08/2017, DJe 30/08/2017)
+Inafastável, no ponto, o óbice da Súmula 7/STJ.
+2. Do exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
