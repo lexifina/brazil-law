@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto contra decisão que negou seguimento ao recurso especial por incidência da Súmula n. 735 do STF e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 272/278).
+O acórdão recorrido está assim ementado (e-STJ fl. 171):
+PROCESSUAL CIVIL. RECURSO DE AGRAVO. ATIVIDADE DE MARKETING MULTINÍVEL. BENS INDISPONÍVEIS POR DECISÃO JUDICIAL. MANUTENÇÃO DO ARRESTO ON LINE DO VALOR PLEITEADO. NEGADO PROVIMENTO. DECISÃO UNÂNIME.
+1- A pessoa jurídica encontra-se com os bens bloqueados em razão de decisão judicial, logo, resta comprovada a dificuldade financeira momentânea a fim de usufruir do benefício da justiça gratuita.
+2- Presente o interesse processual, eis que, diante do contrato celebrado entre os litigantes, pertinente o manuseio de Cautelar a fim de garantir a Agravada o recebimento de fração dos bens do Agravante.
+3- Não se vislumbrou a presença cumulativa do fumus boni iuris e periculum in mora, pois o bloqueio dos bens pelo juízo criminal não impede o ressarcimento na seara cível. Ademais, o perigo no caso é inverso, pois a contratada firmou negócio com empresa suspeita de praticar o crime de pirâmide financeira.
+4- Recurso de Agravo a que se nega provimento. À unanimidade.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 194/197).
+No especial (e-STJ fls. 203/217), fundamentado com base no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa ao art. 535 do CPC/1973 por negativa de prestação jurisdicional.
+Apontou afronta aos arts. 333, I, e 798 do CPC/1973, sustentando, em síntese, carência de ação por ausência de interesse processual no deferimento da medida liminar. Acrescentou que a recorrida não demonstrou o perigo da demora.
+No agravo (e-STJ fls. 272/278), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida não apresentou contraminuta (e-STJ fl. 292).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Não há falar em contrariedade ao art. 535 do CPC/1973, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o conhecimento do recurso especial nessa parte.
+Quanto aos arts. 333, I, e 798 do CPC/1973, o Tribnal de origem consignou que (e-STJ fls. 173/174):
+Quanto ao interesse processual, o tema envolve o exame de duas importantes circunstâncias, a saber: utilidade e necessidade do pronunciamento judicial. A ação será necessária quando não houver outro meio disponível para o sujeito obter o bem almejado e útil ao trazer, na via processual, uma utilidade real, ou seja, a possibilidade de uma melhora na condição jurídica da tutela pretendida.
+No caso em apreço, a existência de contrato entre ás partes concede à contratada o direito de manejar a Cautelar a fim de garantir o recebimento de fração dos bens do Agravante, bloqueados pelo juízo criminal. Configurado, portanto, o interesse processual no caso concreto.
+Pois bem. Para se dar a reversão do julgado recorrido mister ao Agravante comprovar cumulativamente a presença do fumus boni iuris e perículum in mora. De inicio já ressalto que não visualizo nenhum dos requisitos no Agravo de Instrumento. Explico-me.
+O fato de haver bloqueios de bens determinado por juízo criminal não impede que a Agravada busque o ressarcimento na seara cível. Além disso, a decisão guerreada almeja informar ao primeiro juízo acerca da necessidade de se reservar a quantia de R$550,00 (quinhentos e cinqüenta reais) em favor da Agravada. Logo, descarto haver o bom direito aventado pela Agravante.
+Do mesmo modo, já estando bloqueados os bens da Agravante, não há que se falar de urgência na prestação jurisdicional e tampouco há o risco da irreversibilidade da liminar. Ao contrário, o perigo é inverso, favorece a Agravada, pois supostamente esta firmou contrato com empresa praticante de atividade ilícita. Logo, a Agravante quedou em comprovar o perigo da demora ou de lesão grave ou de difícil reparação.
+E ainda (e-STJ fl. 197):
+Insta destacar que o acórdão fustigado trata, desde a decisão monocrática desta Relatoria, das razões que ensejaram o não provimento do recurso de agravo, abordando acerca da necessidade de cumulatividade do fumus boni iurís e perículum in mora e consignando que o fato do juízo criminal ter determinado bloqueio de bens não impede que este juízo cível também decida pelo bloqueio.
+Para alterar os fundamentos acima transcritos e reconhecer a ausência de interesse processual e a inexistência dos requisitos para a concessão da medida liminar, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Com relação ao apontado dissídio jurisprudencial, a incidência da Súmula n. 7/STJ inviabiliza também o exame do recurso especial pela alínea "c" da norma autorizadora. Nesse sentido: AgRg no Ag n. 1.346.248/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/5/2012, DJe 22/5/2012; REsp n. 1.086.048/RS, Relator Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 21/6/2011, DJe 13/9/2011; EDcl no Ag n. 984.901/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/3/2010, DJe 5/4/2010; AgRg no REsp n. 1.030.586/SP, Relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 30/5/2008, DJe 23/6/2008.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
