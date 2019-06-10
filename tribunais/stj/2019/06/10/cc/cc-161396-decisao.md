@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entre o Juízo de Direito da Vara de Execuções Penais de Brasília - DF, o suscitante, e o Juízo da 1ª Vara Criminal - Crimes Dolosos Contra a Vida, Presidência do Tribunal do Júri e Execuções Penais de Luziânia - GO, o suscitado.
+O parecer ministerial desta instância trouxe eficiente relatório do presente incidente, o qual transcrevo, com a vênia do subscritor, o Subprocurador-Geral da República [NOME] (e-STJ fls. 171/172):
+"[NOME] foi condenado pela prática dos crimes dos arts. 33, caput, da Lei 11.343/2006, 157 e 307, ambos do CP, às penas totais de 11 anos, 10 meses, 15 dias de reclusão e 4 meses de detenção, executadas perante o Juízo de Direito da 1ª Vara Criminal - Crimes Dolosos contra a Vida, Presidência do Tribunal do Júri e Execuções Penais de Luziânia/GO.
+Tendo sido cumpridos 6 anos, 2 meses e 8 dias da sanção corporal, sobreveio nova condenação no Distrito Federal. O Juízo de Luziânia/GO, diante da maior severidade da pena superveniente, remeteu o feito à Vara de Execuções Penais do DF, determinando o recambiamento do apenado para que a cumprisse naquela circunscrição (fls. 146/147).
+Todavia, o Juízo de Direito da Vara de Execuções Penais do DF, considerando a existência de anterior execução em andamento, entendeu que o Juízo de Luziânia/GO estaria prevento para todos os processos de execução penal contra o interno. Suscitou, então, o presente conflito negativo de competência, ressaltando que a quantidade da pena imposta não seria critério legal para a definição da competência dos juízos da execução (fl. 2)."
+Nessa Corte Superior de Justiça, designei o Juízo suscitante para decidir, em caráter provisório, as medidas urgentes até o julgamento final do presente incidente, nos termos do art. 196 do RISTJ (e-STJ, fl. 160).
+O Ministério Público Federal ofereceu parecer sintetizado nos seguintes termos (e-STJ fl. 171):
+"CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO DE PENA PRIVATIVA DE LIBERDADE. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. UNIFICAÇÃO DAS PENAS A SER REALIZADA PELO JUÍZO NO QUAL É PROCESSADA A PRIMEIRA EXECUÇÃO. PARECER PELO CONHECIMENTO DO CONFLITO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+É o relatório.
+Decido.
+O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal.
+Com razão o Juízo suscitante.
+Deve ser observado o art. 65 da Lei de Execução Penal - LEP, segundo o qual "a execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença."
+Com efeito, havendo uma primeira sentença penal condenatória, com execução iniciada, como é o caso dos autos, a transferência da execução criminal depende do consentimento do Juízo diverso da primeira condenação, responsável pela unificação da pena, bem como da existência de vaga no sistema prisional, o que deve ser consultado e aceito formalmente ao juízo da segunda condenação. Sobre o tema, confiram-se os seguintes precedente:
+"PROCESSO PENAL. CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. JUÍZO ESTADUAL E JUÍZO FEDERAL. ESTABELECIMENTO PRISIONAL DO ESTADO. COMPETÊNCIA DO SEU JUÍZO DAS EXECUÇÕES.
+1. A execução penal submete-se à ordem do projeto ressocializante, que traduz a exigência de acomodar o condenado no estabelecimento mais adequado ao cumprimento da pena e na localidade que melhor garanta o seu retorno ao convívio social.
+2. Se o apenado cumpre pena em estabelecimento da competência do Juízo das Execuções do Estado, cabe a este decidir sobre o incidente de unificação de penas, mesmo que a nova condenação sobrevenha de Juízo Federal. (Precedentes).
+3. Conflito conhecido para declarar competente o Juízo de Direito da Vara de Execuções Criminais do Amazonas, o suscitante." (CC 38.920/AM, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, DJ 26/03/2007)
+"CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO DE PENA IMPOSTA PELA JUSTIÇA ESTADUAL INICIADA EM ESTABELECIMENTO PRISIONAL ESTADUAL. SUPERVENIÊNCIA DE CONDENAÇÃO DA JUSTIÇA FEDERAL. COMPETÊNCIA PARA A UNIFICAÇÃO DE PENAS DO JUÍZO NO QUAL TEVE INÍCIO A EXECUÇÃO PENAL.
+1. Iniciada a execução de pena imposta pela Justiça estadual em estabelecimento prisional estadual, é ao Juízo das Execuções do Estado que caberá proceder à soma/unificação de penas em virtude de superveniente condenação do mesmo réu pela Justiça Federal. Precedente: CC 38.920/AM, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 14/03/2007, DJ 26/03/2007, p. 195.
+2. Conflito conhecido, para declarar a competência do Juízo de Direito da Vara de Execução de Penas e Medidas Alternativas de Foz do Iguaçu/PR." (CC 142.848/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, DJe 29/09/2015)
+Ante o exposto, conheço do conflito para declarar a competência do Juízo da 1ª Vara Criminal - Crimes Dolosos Contra a Vida, Presidência do Tribunal do Júri e Execuções Penais de Luziânia - GO, o suscitado.
+Publique-se.
+Intimem-se.
