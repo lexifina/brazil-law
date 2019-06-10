@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO COM BASE EM JULGAMENTO DE RECURSO REPETITIVO. AGRAVO INTERNO. CABIMENTO. PRINCÍPIO DA FUNGIBILIDADE. NÃO APLICAÇÃO.
+1. O recurso cabível contra a decisão que nega seguimento a recurso especial com base em julgamento de recurso repetitivo é o agravo interno.
+2. Tendo sido a decisão que não admitiu o recurso especial publicada já na vigência do atual Código de Processo Civil, mostra-se manifestamente incabível o manejo do recurso previsto no artigo 1.042 do novo CPC/2015, sendo inviável a aplicação do princípio da fungibilidade.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Estado do Amapá contra decisão que não conheceu do agravo em recurso especial, sob o fundamento de que o recurso cabível contra a decisão que nega seguimento a recurso especial com base em julgamento de recurso repetitivo é o agravo interno.
+Inconformada, a parte agravante afirma que "a Súmula Vinculante 37 não foi utilizada como fundamento do recurso especial, mas sim como reforço de fundamento na interpretação da Lei 8270/91, apenas pra que esta seja aplicada apenas no âmbito da União, não sendo extensivo ao Estado do Amapá." (fl. 128)
+Repisa, por fim, as alegações anteriormente apresentadas, "para que seja dada vigência correta ao art. 12 da Lei Federal citada alhures, para que esta seja aplicada apenas para o âmbito da União, não sendo extensivo ao Estado do Amapá." (fl. 130)
+Não houve impugnação às razões do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO COM BASE EM JULGAMENTO DE RECURSO REPETITIVO. AGRAVO INTERNO. CABIMENTO. PRINCÍPIO DA FUNGIBILIDADE. NÃO APLICAÇÃO.
+1. O recurso cabível contra a decisão que nega seguimento a recurso especial com base em julgamento de recurso repetitivo é o agravo interno.
+2. Tendo sido a decisão que não admitiu o recurso especial publicada já na vigência do atual Código de Processo Civil, mostra-se manifestamente incabível o manejo do recurso previsto no artigo 1.042 do novo CPC/2015, sendo inviável a aplicação do princípio da fungibilidade.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não pode ser acolhida.
+Como antes assentado na decisão recorrida, o recurso cabível contra a decisão que nega seguimento a recurso especial com base em julgamento de recurso repetitivo é o agravo interno.
+Dessa forma, por ter a decisão que não admitiu o recurso especial publicada já na vigência do atual Código de Processo Civil, mostra-se manifestamente incabível o manejo do recurso previsto no artigo 1.042 do novo CPC/2015, sendo inviável a aplicação do princípio da fungibilidade.
+A propósito, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO QUE NEGA SEGUIMENTO AO APELO NOBRE NA ORIGEM. CABIMENTO DE AGRAVO INTERNO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE.
+1. Consoante o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão do presidente ou vice-presidente do tribunal recorrido que nega seguimento a recurso especial.
+2. Inviável a aplicação do princípio da fungibilidade nas hipóteses de
+erro grosseiro, o qual se configura quando se interpõe recurso diverso do que preceitua a lei.
+3. Inexistência de dúvida objetiva quanto à impossibilidade do manejo do agravo em recurso especial desde o julgamento, pela Corte Especial, da QO no Ag n. 1.154.599/SP.
+4. Precedente específico: AgInt no AREsp 1.003.647/BA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 22/2/2017.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1015158/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/4/2017, DJe 2/5/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL FUNDADA NO ARTIGO 1.030, I, B, DO CPC/2015. CABIMENTO DE AGRAVO INTERNO CONSOANTE ARTIGO 1.030, § 2º, CPC/2015. INTERPOSIÇÃO DO AGRAVO PREVISTO NO ARTIGO 1.042 DO CPC/2015. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. DESCABIMENTO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do artigo 1.030, § 2º, do CPC/2015, não cabe agravo em recurso especial ao Superior Tribunal de Justiça contra decisão que nega seguimento ao recurso especial com base no artigo 1.030, I, b, do mesmo diploma legal, cabendo ao próprio Tribunal recorrido, se provocado por agravo interno, decidir sobre a alegação de equívoco na aplicação do entendimento firmado em sede de recurso especial representativo da controvérsia.
+2. Inviável, na hipótese, a aplicação do princípio da fungibilidade recursal, porquanto, na data da publicação da decisão que não admitiu o recurso especial, já havia expressa previsão legal para o recurso cabível, artigo 1.030, I, b, do CPC/2015, afastando-se, por conseguinte, a dúvida objetiva.
+3. Agravo interno não provido.
+(AgInt no AREsp 1010292/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/3/2017, DJe 3/4/2017)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
