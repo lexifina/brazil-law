@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. DANOS ORIUNDOS DE FALHA NO FORNECIMENTO. INVERSÃO DO JULGADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. NÃO CABIMENTO DE RECURSO ESPECIAL POR EVENTUAL VIOLAÇÃO A NORMA INFRALEGAL. AGRAVO EM RECURSO ESPECIAL DA CONCESSIONÁRIA A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto por CELG DISTRIBUIÇÃO S.A. - CELG D, com fundamento na alínea a do art. 105, III da CF/1988, contra acórdão proferido pelo egrégio TJ/GO, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO REGRESSIVA DE RE SSARCIMENTO DE DANOS. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. ÔNUS DA PROVA. DEVER DE INDENIZAR. HONORÁRIOS.
+1. Aplicam-se as disposições do Código de Defesa do Consumidor ao caso em tela, porque tratando- se de ação regressiva da seguradora contra empresa concessionária de energia elétrica, a relação entre elas é de consumo, incidindo as normas consumeristas, haja vista que a seguradora sub-rogou-se nos direitos da segurada indenizada. Precedentes do Superior Tribunal de Justiça.
+2. A parte autora comprovou que a oscilação de energia gerou sérios danos à segurada sua, produzindo documentos que comprovam o alegado (artigo 373, inciso II, do Código de Processo Civil), de seu turno, a parte requerida não se desincumbiu do ônus de comprovar fato extintivo, impeditivo ou modificativo, como determinado pelo artigo 373, inciso II, do Código de Processo Civil.
+3. Reza o artigo 85, § 2o. do diploma processual civil, que a verba honorária será fixada entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido, atendidos o grau de zelo do profissional; o lugar de prestação do serviço; a natureza e a importância da causa; o trabalho realizado pelo advogado e o tempo exigido para o seu desempenho.
+4. Majoração dos honorários no âmbito recursal, prevista no artigo 85, § 11, do Código de Processo Civil.
+5. APELOS CONHECIDOS E DESPROVIDO O PRIMEIRO E PROVIDO O SEGUNDO (fls. 460/479).
+2. Não foram opostos Embargos de Declaração.
+3. Nas razões de seu Recurso Especial inadmitido, a parte recorrente aponta ofensa aos arts. 140 e 206 da Resolução 414 da ANEEL; 187, 786 e 927 do CC/2002; e 373, I do Código Fux, aduzindo para tanto que: (a) verifica-se a fragilidade das provas coligidas nos autos, tendo a Segurador não logrado êxito em comprovar o elemento subjetivo (fls. 498); (b) a referida documentação não demonstrou que os danos nos bens eletroeletrônicos alimentados na tensão fornecida pela Concessionária CELG decorrem da atuação desta (fls. 499); e (c) nos termos da Resolução 414 da ANEEL, deveria a parte recorrida apresentar os produtos danificados, para perícia.
+4. Com contrarrazões (fls. 546/581), o Apelo Nobre foi inadmitido na origem (fls. 632).
+5. É o relatório.
+6. Inicialmente, é importante ressaltar que o presente Recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no Código Fux (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+7. No mais, não pode ser conhecido o Recurso, pois a modificação das conclusões do acórdão recorrido exigiria o reexame do conjunto fático-probatório, inviável nesta instância.
+8. Isso porque o Tribunal de origem consignou, à luz dos fatos e provas da causa, que restaram demonstrados os prejuízos materiais ao segurado da parte recorrida, decorrentes da falha na prestação do serviço de energia elétrica (fls. 467).
+9. Ora, entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório do autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do Recurso Especial.
+10. Por fim, não é possível conhecer a alegada violação à Resolução 414 da ANEEL, norma infralegal, cuja eventual ofensa não enseja a interposição do Apelo Nobre (AgInt no REsp. 1.725.959/DF, Rel. Min. ASSUSETE MAGALHÃES, DJe 13.9.2018; AgInt no REsp. 1.490.498/RS, Rel. Min. SÉRGIO KUKINA, DJe 23.8.2018).
+11. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial da Concessionária.
+12. Por fim, nos termos do que dispõe o art. 85, § 11 do Código Fux, fixam-se os honorários recursais em 1%, que deverá ser acrescido ao montante total.
+13. Publique-se.
+14. Intimações necessárias.
