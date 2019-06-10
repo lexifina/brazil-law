@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. MANDADO DE SEGURANÇA. ACUMULAÇÃO DE CARGOS PÚBLICOS. PROFISSIONAL DA ÁREA DA SAÚDE. IMPOSIÇÃO DE LIMITE DE 60 (SESSENTA) HORAS DE JORNADA SEMANAL DE TRABALHO. IMPOSSIBILIDADE. ENTENDIMENTO FIRMADO PELO STF NO AGRG NO RMS N. 34.257/DF. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 2ª Região, assim ementado (fl. 153):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO LÍCITA. CARGOS PÚBLICOS. TÉCNICO EM ENFERMAGEM. ART. 37, XVI, C, DA CONSTITUIÇÃO FEDERAL. COMPATIBILIDADE. REMESSA NECESSÁRIA E APELAÇÃO DESPROVIDAS.
+1. Apelação cível interposta pela UNIÃO FEDERAL, neste ato, representante do DIRETOR GERAL DO INSTITUTO BENJAMIM CONSTANT, em face de sentença que julgou procedente o pedido, concedendo a segurança, a fim de assegurar à impetrante a acumulação de cargos públicos, quais sejam, dois cargos de Técnica de Enfermagem junto a instituições distintas.
+2. De acordo com o artigo 37, XVI, a, da nossa atual Carta Magna, há a possibilidade de cumulação dos cargos em questão, desde que haja compatibilidade de horários, observada a remuneração prevista no inciso XI da Carta Magna. A propósito, já se manifestou esta Turma em situação semelhante no sentido da possibilidade de cumulação, sendo certo que a análise da compatibilidade deve se dar caso a caso. Precedente: AC 0135432-94.2015.4.02.5101.
+3. Desta forma, se a própria Constituição Federal e a jurisprudência entendem pela possibilidade de cumulação, não há como a instituição apelante querer modificar o ordenamento vigente com base em interpretações isoladas, devendo ser mantida a sentença recorrida, no sentido da possibilidade de acumulação de cargos públicos.
+4. Remessa necessária e apelação desprovidas.
+A recorrente alega violação do art. 118 da Lei 8.112/1990, ao argumento de que, mesmo nos casos de dois cargos da área de saúde, com profissões regulamentadas, há a necessidade de compatibilidade de horários, para fins de acumulação dos cargos públicos, sendo que essa deve considerar não apenas a sobreposição de jornadas, mas outros aspectos, tais como intervalo de descanso suficiente para o devido repouso, a alimentação e a locomoção, sob pena de causar danos a ele próprio e ao serviço desempenhado, especialmente quando a sua função lida com a saúde alheia, razão pela qual necessário respeitar o limite de 60 (sessenta) horas semanais de jornada de trabalho
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 233-235.
+O Ministério Público ofertou parecer, opinando pelo não provimento do apelo especial (fls. 251-257).
+É o relatório. Passo a decidir.
+A pretensão recursal não merece prosperar.
+Isso porque, no que se refere a imposição de jornada máxima de trabalho para fins de acumulação dos cargos, o acórdão recorrido encontra sintonia no entendimento firmado recentemente pelo Supremo Tribunal Federal, quando da apreciação do Agravo Regimental no Recurso Ordinário em Mandado de Segurança n. 34.257/DF, de relatoria do Ministro Ricardo Lewandowski.
+Na ocasião, a Segunda Turma do STF manteve a decisão monocrática do relator, dando provimento ao recurso ordinário interposto pelo servidor público, para reformar acórdão proferido pela Primeira Seção deste STJ no julgamento do MS 22.002/DF, e conceder a segurança para declarar lícita a cumulação de cargos públicos da área da saúde, quando presente a compatibilidade de horários, não havendo que se falar em limite de 60 (sessenta) horas de jornada semanal de trabalho, previsto no Parecer GQ 145/1998/AGU.
+Nesse sentido, a ementa do julgado:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PARECER GQ 145/1998/AGU. LIMITE MÁXIMO DE 60 HORAS SEMANAIS EM CASOS DE ACUMULAÇÃO DE CARGOS OU EMPREGOS PÚBLICOS. IMPOSSIBILIDADE. PRECEDENTES. COMPATIBILIDADE DAS JORNADAS DE TRABALHO DA IMPETRANTE. COMPROVAÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+I - A existência de norma infraconstitucional que estipula limitação de jornada semanal não constitui óbice ao reconhecimento do direito à acumulação prevista no art. 37, XVI, c, da Constituição, desde que haja compatibilidade de horários para o exercício dos cargos a serem acumulados. Precedentes.
+II - Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC (RMS 34257 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 3/8/2018.
+Dessa feita, se não há que se limitar a jornada de trabalho de trabalho semanal em 60 (sessenta) horas semanais, nas hipóteses de acumulação de cargo público, da mesma forma, tal aspecto não impede a acumulação dos proventos de aposentadoria (referente a cargo público na área de saúde) com o exercício atual de cargo público na área de saúde.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
