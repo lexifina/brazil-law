@@ -1,0 +1,22 @@
+DECISÃO
+ELIZEU BROZEGUINE PENA alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo na Apelação Criminal n. 0004404-57.2014.8.08.0050.
+O paciente foi condenado, em primeira instância, pela prática dos delitos dos arts. 33 da Lei n. 11.343/2006 e 304 do Código Penal, a 14 anos de reclusão, mais 900 dias-multa, em regime inicial fechado. O Tribunal de origem manteve integralmente a sentença condenatória e, no mesmo ato, determinou a execução imediata da pena privativa de liberdade condicionada ao exaurimento daquela instância.
+A defesa alega: "inadequada a execução provisória do acórdão condenatório do Paciente, visto que ausente qualquer fundamentação idônea apta a justificá-la, existindo, ao revés, fatos concretos que demonstram a necessidade da medida" (fl. 18).
+Requer, liminarmente, a concessão da ordem, a fim de garantir ao acusado a liberdade até o trânsito definitivo da condenação.
+Decido.
+Consta dos autos que o insurgente foi condenado, em primeira instância, pela prática dos delitos dos arts. 33 da Lei n. 11.343/2006 e 304 do Código Penal, a 14 anos de reclusão, mais 900 dias-multa, em regime inicial fechado. O Tribunal de origem manteve integralmente a sentença condenatória e, no mesmo ato, determinou a execução imediata da pena privativa de liberdade condicionada ao exaurimento daquela instância.
+O habeas corpus comporta pronta solução, pois veicula pedido contrário a tese jurídica firmada em repercussão geral.
+Consoante o entendimento externado pelo Plenário Virtual do Supremo Tribunal Federal no julgamento do ARE n. 964.246, é cabível a execução do acórdão de segundo grau antes do trânsito em julgado da condenação, na pendência de recursos especial e/ou extraordinário, os quais não possuem efeito suspensivo, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados, uma vez que, esgotada a discussão sobre matéria fática, a providência não implicaria violação do princípio da presunção de inocência.
+A matéria também foi objeto de exame em 5/10/2016, nas Ações Diretas de Constitucionalidade n. 43 e 44, ocasião em que o Plenário do Supremo Tribunal Federal, ao indeferir a tutela cautelar, conferiu interpretação conforme ao art. 283 do Código de Processo Penal para assentar que encontra guarida, no texto constitucional, o início da execução da pena depois da prolação de acórdão condenatório.
+A tese é aplicável a todos os processos em curso, porquanto "a constrição da liberdade, neste momento processual, fundamenta-se na ausência de efeito suspensivo dos recursos extraordinário e especial" (AgRg no HC n. 138.890, Rel. Ministro Luiz Fux, 1ª T., DJe 22/3/2017).
+Deveras, somente é possível analisar o direito de aguardar o julgamento de REsp ou RE em liberdade no momento da interposição dos recursos, porque a prisão, neste estágio, se baseia na ausência de efeito suspensivo (não possui natureza cautelar). A "orientação adotada pelo Plenário do STF, no julgamento do HC 126.292, Rel. Min. Teori Zavascki, não significou aplicação retroativa de lei penal mais gravosa. Precedentes (HC n. 135.567-ED/SP, 1ª T., Rel. Ministro Roberto Barroso, DJe 16/3/2017).
+Ilustrativamente: "a tese firmada pelo Pretório Excelso deve ser aplicada nos processos em curso nas demais instâncias" (AgRg no HC n. 436.224/PA, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 14/3/2018, destaquei).
+Confira-se:
+A execução provisória da pena coaduna com o princípio da vedação da reformatio in pejus, quando mantida a condenação do paciente pela Corte local, porquanto a constrição da liberdade, neste momento processual, fundamenta-se na ausência de efeito suspensivo dos recursos extraordinário e especial, no restrito espectro de cognoscibilidade desses mecanismos de impugnação, bem como na atividade judicante desempenhada pelas instâncias ordinárias (AgRg no HC n. 138.890/PE, Rel. Ministro Luiz Fux, 1ª T., DJe 23/3/2017, grifei).
+No mesmo sentido:
+ ..
+III - Os recursos às instâncias superiores carecem de efeito suspensivo e a execução provisória da pena é consectário lógico do esgotamento da jurisdição das instâncias ordinárias, de forma que é possível a determinação do cumprimento provisório da pena fixada.
+ ..
+(AgRg no HC n. 409.274/PE, Rel. Ministro Felix Fischer, 5ª T., DJe 19/12/2017).
+À vista do exposto, denego este habeas corpus, in limine.
+Publique-se e intimem-se.
