@@ -1,0 +1,19 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL. PRESCRIÇÃO. IMPOSSIBILIDADE DE DISCUSSÃO A RESPEITO DA RESPONSABILIDADE PELA DEMORA NA PRÁTICA DE ATOS PROCESSUAIS. SÚMULA 7/STJ. RESP. 1.102.431/RJ, REL. MIN. LUIZ FUX, DJE 01.02.2010, JULGADO PELO RITO DO ART. 543-C DO CPC. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de Recurso Especial interposto pelo MUNICÍPIO DE NATAL/RN em face de acórdão da lavra do TRF da 5a. Região, assim ementado:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO. ART. 174 DO CTN. OCORRÊNCIA. MORA IMPUTADA AO EXEQUENTE. RECURSO IMPROVIDO.
+1. Recurso interposto contra sentença que acolheu à exceção de pré-executividade para declarar a extinção dos créditos tributários em face da prescrição e extinguiu o feito executivo com resolução do mérito, nos termos do art. 269, inc. II da Lei n.º 13.105/2015, CPC/2015.
+2. A alteração do art. 174, do CTN, introduzida pela LC 118/05, estabelecendo que o prazo prescricional se interrompe com o mero despacho ordenando a citação, aplica-se ao caso em análise, posto que se trata de execução fiscal ajuizada em 2014, posteriormente à alteração legislativa.
+3. A presente execução fiscal, referente aos créditos relativos à taxa de lixo constituídos em 1/1/2010, 1/1/2011 e 1/1/2012, fora ajuizada equivocadamente perante a Justiça Estadual, em 2014. Observa-se que o Município ajuizou a presente execução perante a Justiça Estadual, de forma equivocada, já que a ré goza de foro privilegiado na Justiça Federal.
+4. Em 28/7/2015, o exequente requereu a remessa dos autos para o Juízo Federal, o que foi devidamente deferido pelo Juízo Estadual (em 13/12/2016) e remetido em 14/02/2017. A autuação do feito na Seção Judiciária do Rio Grande do Norte deu-se em 1/5/2017, com ato determinando a citação datado de 27/06/2017. A citação da União deu-se em 05.07.2017.
+5. Tendo o exequente ajuizado ação perante juízo manifestamente incompetente e tendo decorrido o prazo superior a cinco anos entre a constituição dos créditos (2010 a 2012) até o despacho citatório (27/06/2017), deve ser reconhecida a prescrição.
+6. A credora, ora apelante, tem o dever de impulsionar o andamento dos seus processos relativos à execução fiscal, especialmente quando deu causa à demora. Descabida a pretensão do apelante de imputar a mora ao Poder Judiciário, nos termos da Súmula nº 106 do STJ, posto que foi ele quem deu causa à ocorrência da prescrição.
+7. Precedente: PROCESSO: 08069960220164058000, AC/AL, DESEMBARGADOR FEDERAL ROBERTO MACHADO, 1º Turma, JULGAMENTO: 21/11/2017.
+8. Apelação não provida.
+2. Aponta ofensa aos arts. 240, § 1o. do Código Fux e 174, parág. único, I do CTN.
+3. É o relatório.
+4. A 1a. Seção do STJ, por ocasião do julgamento do REsp. 1.120.295/SP, da relatoria do eminente Ministro LUIZ FUX, submetido à sistemática do art. 543-C do CPC, firmou o entendimento de que, mesmo nas Execuções Fiscais, a citação retroage à data da propositura da ação para efeitos de interrupção da prescrição, na forma do art. 219, § 1o. do CPC, desde que não tenha havido inércia do exequente.
+5. Também sob o rito do art. 543-C do CPC, consolidou-se a orientação nesta Corte de que rever a conclusão pela aplicação ou não da Súmula 106/STJ aos casos concretos é tarefa vedada nesta instância recursal, diante da inviabilidade de se reexaminar o acervo fático-probatório dos autos (REsp. 1.102.431/SP, Rel. Min. LUIZ FUX, DJe 1.2.2010).
+6. No caso, o Tribunal de origem entendeu que a demora na prática do atos processuais pode ser atribuída à parte recorrente, tendo ela dado causa à prescrição, rever esse entendimento demandaria indispensável reexame do conjunto fático-probatório dos autos.
+7. Ante o exposto, não se conhece do Recurso Especial do MUNICÍPIO DE NATAL/RN.
+8. Publique-se. Intimações necessárias.
