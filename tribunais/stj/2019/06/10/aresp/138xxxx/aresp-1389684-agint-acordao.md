@@ -1,0 +1,49 @@
+EMENTA
+INTEMPESTIVIDADE. ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. PENSÃO. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+I - Trata-se na origem de embargos à execução que objetiva reconhecer o excesso da execução, acolhendo o valor da planilha estatal em anexo na inicial. No Tribunal a quo os embargos à execução foram providos para que sejam homologados os cálculos presentes na inicial. A decisão foi parcialmente reformada em favor do Estado do Ceará reduzindo o valor dos honorários advocatícios sucumbenciais. Esta Corte não conheceu do agravo em recurso especial.
+II - Aplica-se ao recurso o enunciado administrativo n. 3 da Súmula do STJ, segundo o qual: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". A parte recorrente foi intimada da decisão agravada em 27/03/2018, sendo o agravo somente interposto em 19/04/2018.
+III - A Corte especial, no julgamento do AREsp n. 957.821/MS, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a comprovação da tempestividade após a interposição do recurso.
+IV - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno contra decisão que não conheceu do agravo em recurso especial diante sua intempestividade.
+ O recurso especial foi interposto contra acórdão com a seguinte ementa:
+AGRAVO REGIMENTAL. LITIGÂNCIA DE MÁ-FÉ. PEITÇÃO IGUAL A RECURSO DE EMBARGOS DE DECLARAÇÃO JÁ JULGADO. INCIDÊNCIA DOS ARTS. 17, IV, V, VI E VII E 18 DO CÓDIGO DE PROCESSO CIVIL. RECURSO AO QUAL SE NEGA PROVIMENTO.
+I - presente recurso de Agravo Regimental é mera repetição do recurso de Embargos de Declaração de nº 0079714-50.2012.8.06.0000/50001 interpostos pelas próprias recorrentes. Não há nenhuma diferença em ambas as petições recursais, o que denota o claro interesse de ver o feito modificado em prol das autoras/recorrentes de qualquer maneira, desrespeitando este Tribunal de Justiça e ofendendo, outrossim, a coisa julgada e os princípios do Direito brasileiro, mormente a boa-fé que deve reger as relações processuais.
+II - Assim, fica demonstrado o interesse oblíquo das recorrentes em verem seu pleito julgado procedente de qualquer maneira, pois este já fora julgado, por duas vezes, improcedente. Resta, por fim, configurada litigância de má-fé pelos incisos IV, V, VI, e VII do art. 17 do Código de Processo Civil, pelo que deve ser aplicada a multa de 01% (um porcento) prevista no caput do art. 18 do mesmo código.
+III - Recurso conhecido, mas improvido. Decisão unânime.
+Não se conheceu do recurso diante da sua deserção.
+Foi interposto agravo interno contra esta decisão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+ O recurso não merece provimento.
+A parte recorrente foi intimada da decisão agravada em 27/03/2018, sendo o agravo somente interposto em 19/04/2018.
+Aplica-se a este recurso o enunciado administrativo n. 3 da Súmula do STJ, segundo o qual: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A parte recorrente foi intimada da decisão que negou seguimento ao recurso especial em: 27/03/2018, sendo o agravo em recurso especial interposto somente em 19/04/2018. Dessa forma, inadmissível, porquanto intempestivo, interposto fora do prazo de 15 dias, nos termos do art. 1.070 do Código de Processo Civil de 2015. O prazo para interposição do agravo em recurso especial encerrou-se em 06/04/2018.
+Conforme jurisprudência dominante nesta Corte, após a vigência do Código de Processo Civil de 2015, não se admite a juntada posterior de documento para a comprovação da tempestividade do recurso. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 957.821/MS, Rel. Ministro Raul Araújo, Rel. p/ Acórdão Ministra Nancy Andrighi, Corte Especial, julgado em 20/11/2017, DJe 19/12/2017.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO ESPECIAL E AGRAVO EM RECURSO ESPECIAL INTERPOSTOS INTEMPESTIVAMENTE. RECESSO FORENSE, NO TRIBUNAL DE ORIGEM, NÃO DEMONSTRADO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 15/02/2017, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/2015. II. No caso, o acórdão recorrido foi publicado em 21/07/2016, quinta-feira - na vigência do CPC/2015 -, sendo o Recurso Especial interposto somente em 15/08/2016, após o transcurso do prazo recursal, ocorrido em 12/08/2016, sexta-feira. Por sua vez, a decisão que inadmitiu o Recurso Especial foi publicada em 21/10/2016, sexta-feira, sendo o Agravo em Recurso Especial interposto somente em 17/11/2016, quinta-feira, também após o transcurso do prazo recursal de 15 dias úteis, ocorrido em 16/11/2016, quarta-feira.
+III. Na forma da jurisprudência - firmada sob a égide do CPC/73 -, "a comprovação da tempestividade do recurso, em decorrência de feriado local ou suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final pode ocorrer posteriormente, em sede de Agravo Regimental" (STJ, AgRg no AREsp n. 137.141/SE, Rel. Ministro Antonio Carlos Ferreira, Corte Especial, DJe de 15/10/2012.)
+IV. O CPC/2015 não possibilita a mitigação ao conhecimento de recurso intempestivo. De fato, nos casos em que a decisão agravada tenha sido publicada já na vigência do novo CPC, descaberia a aplicação da regra do art. 932, parágrafo único, do CPC/2015, para permitir a correção do vício, com a comprovação posterior da tempestividade do recurso. Isso porque o CPC/2015 acabou por excluí-la (intempestividade) do rol dos vícios sanáveis, conforme se extrai do seu art. 1.003, § 6º ("o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso") e do seu art. 1.029, § 3º ("o Supremo Tribunal Federal ou o Superior Tribunal de Justiça poderá desconsiderar vício formal de recurso tempestivo ou determinar sua correção, desde que não o repute grave)". Nesse sentido: STJ, AgInt no REsp n. 1.626.179/MT, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 23/03/2017; AgInt no REsp n. 1.638.816/PE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 6/4/2017.
+V. De qualquer modo, na hipótese dos autos - apesar de terem sido interpostos os recursos sob a égide do CPC/2015 -, nenhum benefício atingiria a parte agravante, quanto à tentativa de comprovação, no Agravo interno, de suspensão do expediente forense, na origem, no dia 16 de novembro de 2016, porque não houve comprovação de tal fato, por documento idôneo, o que também leva à manutenção da decisão ora agravada.
+VI. Agravo interno improvido.
+(AgInt no AREsp n. 1.041.706/DF, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 20/4/2017, DJe 2/5/2017.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ART. 1.003, § 6º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NOVO REGRAMENTO PROCESSUAL EXPRESSO.
+1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias previsto nos artigos 219 e 1.003, § 5º, do Código de Processo Civil de 2015. 2. Nos termos do parágrafo 6º do art. 1.003 do CPC/2015, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso.
+3. A interpretação literal da norma expressa no § 6º do art. 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos arts. 932, parágrafo único e 1.029, § 3º, do citado diploma legal.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.626.179/MT, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/3/2017, DJe 23/3/2017.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
