@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. ILEGITIMIDADE ATIVA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 1.836):
+EXECUÇÃO DE SENTENÇA. PROCURADOR FEDERAL. CATEGORIA ESPECÍFICA. SINDICATO PRÓPRIO. ILEGITIMIDADE.
+- Os servidores que pertencem a categoria específica que optou por constituir sindicato próprio que melhor represente e atenda aos seus interesses específicos deixam de ser representados por quaisquer outros sindicatos. Vige a regra da unicidade sindical:
+somente um sindicato pode representar determinada categoria. Consequentemente, a liberdade associativa se restringe à possibilidade de se filiar ou não ao único sindicato que representa a sua categoria, não havendo a alternativa de filiar-se a outro.
+- Reconhecida a ilegitimidade ativa da parte exequente para executar título executivo oriundo de ação coletiva ajuizada por sindicato que não representa a categoria específica a que pertence.
+- Invertida a sucumbência, resta à parte embargada arcar com o pagamento de honorários advocatícios, estes fixados em 10% sobre o valor da causa.
+Embargos de declaração parcialmente acolhidos, para fins de prequestionamento.
+Os recorrentes alegam violação do artigo 535, I e II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou "acerca da abrangência do título executivo judicial formado, ou seja, a ausência de ressalvas quanto aos seus beneficiários" (fl. 1.890).
+Quanto a questão de fundo, sustentam ofensa aos arts. 467 e 468 do CPC/1973, ao argumento de que "não há, no título exequendo, qualquer disposição que restrinja o direito ali reconhecido apenas aos servidores administrativos lotados no INSS. Mas, ao contrário, reconhece o direito de todos os servidores civis substituídos à extensão do reajuste de 28,86%. Veja-se trecho do voto (inteiro teor em anexo) proferido na ação rescisória nº 1999.04.01.005378-1/RS, proposta em face da decisão transitada em julgado na ação ordinária coletiva nº 95.00.06800-1" (fl. 1.893).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 1.986.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+De início, afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, a Corte de origem, ao apreciar a controvérsia, firmou sua convicção, no seguinte sentido (fls. 1.832-1.835):
+ ..
+Aos trabalhadores é assegurado o direito de se desmembrarem de sindicato representante de categorias associadas para constituir sindicato que melhor represente e atenda aos interesses específicos de sua categoria. Nesse sentido:
+ .. ,
+Como decorrência lógica, os servidores que pertencem à categoria específica que optou por constituir sindicato próprio deixam de ser representados por quaisquer outros sindicatos. Vige a regra da unicidade sindical: somente um sindicato pode representar determinada categoria. Consequentemente, a liberdade associativa se restringe à possibilidade de se filiar ou não ao único sindicato que representa a sua categoria, não havendo a alternativa de filiar-se a outro.
+No presente caso, a execução foi promovida em 30/10/2006. Sendo assim, entendo que o fato de os exequentes DAVID [NOME] e [NOME] terem integrado as carreiras de Auditor Fiscal da Previdência Social, posteriormente convertida na carreira de Auditor Fiscal da Receita Federal do Brasil, enquanto que [NOME], MARIA CRISTINA LUCK DOS SANTOS, MOACIR LUCAS PEREIRA e RUY [NOME] eram titulares de cargo de Procurador Autárquico do INSS, posteriormente convertido em Procurador Federal, inviabiliza a execução de título executivo oriundo de ação coletiva ajuizada pelo Sindicato dos Servidores Públicos Federais em Saúde, Trabalho, Previdência e Ação Social do Estado do Paraná - SINDSPREV/PR, sindicato que não representa a categoria específica a que pertencem, pois a categoria de Procurador Federal é representada por sindicato próprio - Sindicato Nacional dos Procuradores Federais da Previdência Social (SINPROPREV); e a de Auditor Fiscal também é representada por sindicato próprio - Sindicato dos Auditores Fiscais da Receita Federal do Brasil e Sindicato dos Auditores Fiscais da Receita Federal do Brasil no Paraná (SINDIFISCO NACIONAL e SINFISPAR).
+ ..
+Desta sorte, é ilegítima a parte exeqüente para figurar no pólo ativo da execução, merecendo ser provido o apelo do INSS para extinguir o feito, nos termos do artigo 267, V, do CPC.
+ ..
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 535 do CPC/1973.
+Quanto a questão de fundo, a controvérsia acerca da legitimidade para a execução do título foi dirimida com fundamento constitucional, especificamente com base nos princípios da unicidade sindical e da especialidade, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
