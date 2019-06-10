@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por RICOH BRASIL S/A, por meio do qual se impugna acórdão, promanado do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TAXA DE UTILIZAÇÃO DO SISCOMEX. LEI Nº 9.718, DE 1998, ART. 3º. PORTARIA MF Nº 257, DE 2011. REAJUSTE DE VALORES. EXCESSO. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA.
+1. Não há falar em ilegitimidade do reajuste da taxa de utilização do SISCOMEX por portaria, uma vez que o critério de reajuste foi fixado pela lei formal.
+2. É excessivo o reajuste aplicado aos valores da taxa de utilização do SISCOMEX pela Portaria MF nº 257, de 2011, cabendo a glosa de tal excesso.
+3. Havendo sucumbência recíproca, devem ambas as partes ser condenadas ao pagamento de honorários advocatícios" (fl. 1.383e).
+Embargos de Declaração rejeitados (fls. 1.447/1.454e).
+No Recurso Especial de RICOH BRASIL S/A, interposto com base na alínea a do permissivo constitucional, alega-se violação ao disposto nos arts. 86 e 1.022, II, do CPC/2015.
+Sustenta-se, em essência, que:
+"29. De fato, o v. Acórdão recorrido infringiu o parágrafo único, do art. 86, do CPC, o qual dispõe: "Se um litigante sucumbir em parte mínima do pedido, o outro responderá, por inteiro, pelas despesas e pelos honorários".
+30. No caso, já ficou demonstrado que o Acórdão recorrido somente autorizou a majoração da Taxa SISCOMEX no percentual de 131,6%, quando a Portaria MF n. 257/11 e a IN RFB 1.158/2011 majoraram a referida Taxa em mais de 500%.
+31. Além disso, as Recorrentes também apontaram que além da procedência do mérito, os pedidos autorais relacionados à forma de repetição do indébito, ao prazo prescricional e à aplicação da Selic foram integralmente acolhidos, não havendo qualquer sucumbência nestes pleitos.
+32. Justo por isso, ficou patente que as Recorrentes, se incorreram em alguma sucumbência, sucumbiram em parte mínima, o que denotava a aplicação direta da regra prevista no parágrafo único, do art. 86, do CPC, o que implicaria na condenação da Recorrida, por inteiro, às despesas processuais e aos honorários de sucumbência" (fls. 1.489/1.490e).
+Aduz-se, ainda, que o acórdão recorrido padeceria de omissão, justamente porque não teria examinado, concretamente, a existência de sucumbência mínima do pedido.
+Requer-se, por fim, "que este egrégio Superior Tribunal de Justiça conheça e dê provimento ao Recurso, a fim de reformar parcialmente o v. Acórdão recorrido, para: a) preliminarmente, declarar a nulidade do v. Acórdão recorrido por violação ao art. 1.022, inciso II, do CPC, a fim de que outro seja proferido, enfrentando a matéria objeto dos Embargos de Declaração opostos pelas Recorrentes; b) caso não seja este o entendimento, em face do acima exposto, reformar o v. Acórdão recorrido, a fim de que seja reconhecido que as Recorrentes sucumbiram em parte mínima e, por conseguinte, nos termos do parágrafo único, do art. 86, do CPC, seja a Recorrida condenada por inteiro ao pagamento das despesas processuais e dos honorários de sucumbência" (fls. 1.493/1.494e).
+Sem contrarrrazões.
+Recurso Especial admitido (fls. 1.542/1.543e).
+O presente recurso não merece prosperar.
+Não há de se cogitar de omissão, no acórdão recorrido. Dessarte, a questão concernente à sucumbência recíproca foi suficientemente debatida e resolvida, no âmbito do Tribunal de origem. A irresignação da recorrente, nesse aspecto, revela inconformismo não com a suposta falta de análise da questão, mas com o próprio conteúdo do decisum impugnado.
+Quanto à temática de fundo, revela-se impossível o acertamento da questão acerca da existência, ou não, de sucumbência recíproca, bem como da sua eventual extensão, nesta via Especial. É que tal investigação demandaria revolvimento de matéria factual, o que encontra vedação expressa na Súmula 7/STJ.
+Nessa linha, a jurisprudência do STJ:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. SENAR. MATÉRIA CONSTITUCIONAL. ANÁLISE VEDADA. USURPAÇÃO DA COMPETÊNCIA DO STF. SUCUMBÊNCIA. SÚMULA 7/STJ.
+1. Não verificando nenhuma das hipóteses do art. 535 do CPC e tendo em vista o princípio da fungibilidade recursal, recebo os presentes Embargos como Agravo Regimental.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+3. O acórdão recorrido consignou: "Subsiste incólume o adicional ao SENAR devido pelo produtor pessoa física, anteriormente previsto no art. 2º da Lei nº 8.540/92, porquanto não atingido pela declaração de inconstitucionalidade levada à efeito nos autos do RE 363.852/MG. Mesmo porque, posteriormente ao advento da EC 20/98, sobreveio a edição da Lei nº 10.256/01". E as alegações das partes recorrentes, que sustentam ser ilegal e inconstitucional a cobrança do Senar sobre a receita bruta (resultado da produção rural) denotam que a questão controvertida trata de matéria eminentemente constitucional, sendo inviável sua apreciação em Recurso Especial, sob pena de violação da competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+4. Em relação à sucumbência, a Corte local asseverou: "Tendo em conta a sucumbência recíproca, decorrente do reconhecimento da prescrição quinquenal e da aplicação do efeito repristinatório, mantenho a sentença no tópico, no sentido de que "(..) as custas iniciais ficam a cargo da impetrante, sendo as finais isentas - art. 4º, I, da Lei 9.289/96"".
+5. Os recorrentes pretendem rever a proporção do decaimento de cada parte quando não se satisfizerem com o que foi estipulado. O STJ entende ser inadmissível, na via estreita do Recurso Especial, a aferição do grau de sucumbência, ante a necessidade de reexame de matéria de fato, nos termos da Súmula 7/STJ.
+6. Agravo Regimental não provido" (STJ, EDcl no REsp 1.486.808/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/02/2015).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. RECONHECIMENTO DO DÉBITO. PROCEDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. ARTS. 20, CAPUT E § 4º, E 21 DO CPC. REEXAME DE PROVAS. SÚMULA 7.
+1. Descabe ao STJ revisar valores de sucumbência fixados nas instâncias ordinárias, arbitrados em consideração às ocorrências procedimentais, não passíveis de reavaliação por óbice da Súmula 7/STJ.
+2. Em sede de recurso especial, não cabe ao STJ verificar os elementos circunstanciais dos autos para concluir se houve ou não sucumbência recíproca. Súmula 7/STJ.
+3. Recurso não conhecido" (STJ, REsp 1.348.443/DF, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 28/08/2013).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do Recurso Especial de RICOH BRASIL S/A e, nessa parte, nego-lhe provimento.
+I.
