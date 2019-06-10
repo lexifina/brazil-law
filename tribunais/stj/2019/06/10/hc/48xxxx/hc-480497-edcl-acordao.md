@@ -1,0 +1,47 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DE PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. ART. 619 DO CPP. AMBIGUIDADE. OBSCURIDADE. CONTRADIÇÃO. OMISSÃO. VÍCIOS AUSENTES. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA DA SUPREMA CORTE. EMBARGOS REJEITADOS.
+1. O cabimento dos embargos de declaração está vinculado à demonstração de que a decisão embargada apresenta um dos vícios previstos no art. 619 do Código de Processo Penal, quais sejam, ambiguidade, obscuridade, contradição ou omissão, o que não se verifica no caso dos autos.
+2. O acórdão embargado foi claro e expresso ao consignar que a Terceira Seção desta Casa, no julgamento do EREsp n. 1.619.087/SC, firmou a compreensão de que, em relação às penas restritivas de direitos, a execução somente poderia ocorrer quando transitada em julgado a condenação, em observância ao art. 147 da Lei de Execução Penal.
+3. Não incumbe ao Superior Tribunal de Justiça, mesmo com escopo de prequestionamento, examinar eventual ofensa a dispositivos constitucionais, sob pena de usurpação da competência atribuída à Suprema Corte.
+4. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PUBLICO FEDERAL contra acórdão prolatado pela Sexta Turma desta Corte, de minha relatoria, que negou provimento ao agravo regimental no habeas corpus, assim ementado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DE PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE.
+1. A orientação consolidada pelo Supremo Tribunal Federal, trilhada por esta Corte, é a de possibilitar a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário (HC n. 126.292/SP, relator o Ministro Teori Zavascki, Tribunal Pleno, DJe 17/5/2016).
+2. No entanto, a Terceira Seção desta Casa, no julgamento do EREsp n. 1.619.087/SC, firmou a compreensão de que, em relação às penas restritivas de direitos, a execução somente poderia ocorrer quando transitada em julgado a condenação, em observância ao art. 147 da Lei de Execução Penal.
+3. De mais a mais, a orientação manifestada no EREsp n. 1.619.087/SC foi reafirmada pela Terceira Seção desta Corte em 24 de outubro de 2018, no julgamento do AgRg no HC n. 435.092/SP (relator Ministro ROGERIO SCHIETTI CRUZ, relator para acórdão Ministro REYNALDO SOARES DA FONSECA, DJe 26/11/2018).
+4. Agravo regimental desprovido.
+Alega-se nos aclaratórios que há omissão no julgado, uma vez que "deixou de analisar a controvérsia sob o prisma da garantia da razoável duração do processo, do direito à segurança pública e da proibição da proteção deficiente" (e-STJ fl. 353).
+Diante disso, requer "o suprimento das omissões apontadas, com o pré-questionamento dos temas constitucionais relativos ao princípio da garantia à razoável duração do processo (art. 5º, inciso LXXVIII, da Constituição), do direito à segurança (arts. 5º, caput, 6º, caput, e 144, caput, da Constituição) e do devido processo legal substantivo, na dimensão da proibição da proteção deficiente (art. 5º, inciso LIV, da Constituição)" - e-STJ fl. 355.
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, dirigem-se à correção de defeitos na mensagem do julgador, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, situação não evidenciada no caso em análise.
+No caso, o acórdão embargado foi claro e expresso ao consignar que a Terceira Seção do Superior Tribunal de Justiça, no julgamento do EREsp n. 1.619.087/SC, firmou a compreensão de que a execução das reprimendas restritivas de direitos somente poderia ocorrer quando transitada em julgado a condenação, em observância ao art. 147 da Lei de Execução Penal.
+Ademais, não incumbe ao Superior Tribunal de Justiça, mesmo com escopo de prequestionamento, examinar eventual ofensa a dispositivos constitucionais, sob pena de usurpação da competência atribuída à Suprema Corte.
+A propósito, confiram-se:
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. ERRO MATERIAL NA EMENTA DO JULGADO. INEXISTÊNCIA DE CONTRADIÇÃO INTERNA DO JULGADO. REDISCUSSÃO DA MATÉRIA JÁ APRECIADA. IMPOSSIBILIDADE. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA DA SUPREMA CORTE. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão na decisão, nos termos do art. 619 do Código de Processo Penal - CPP .
+2. A contradição que autoriza a utilização dos aclaratórios é aquela interna ao próprio voto e não em relação a fatos externos, normas ou entendimentos proferidos em outras decisões. Dessa forma, eventual contradição do entendimento assentado no voto embargado, em relação a decisões desta Corte ou mesmo do Supremo Tribunal Federal, não autoriza a oposição de aclaratórios, devendo ser manejado o recurso próprio (EDcl no RHC 87.061/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 21/9/2018).
+3. Inconformado com o resultado do julgamento, busca o embargante rediscutir a matéria apreciada e já decidida pela Quinta Turma, providência para a qual os aclaratórios não se prestam.
+4. É de se reconhecer apenas o erro material na digitação da ementa. De rigor o provimento do recurso para retificar a ementa do julgado, para que onde se lê "Súmula Vinculante n. 24", leia-se, "Súmula Vinculante n. 14".
+5. Não se mostra cabível a utilização dos embargos de declaração para fins de prequestionamento de matéria constitucional, sob pena de invasão na competência da Suprema Corte.
+6. Embargos de Declaração parcialmente acolhidos apenas para retificar a ementa do julgado, fazendo constar "Súmula Vinculante n.14", onde se lê "Súmula Vinculante n. 24". (EDcl no RHC 70.238/PB, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 5/2/2019, DJe 12/2/2019, grifei.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PROVISÓRIA DE PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. ENFRENTAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. USURPAÇÃO DE COMPETÊNCIA DO STF. ART. 102, III, A, DA CF. DISCUSSÃO INVIÁVEL NO ÂMBITO DESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+I - "A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal" (HC 126.292/SP, Tribunal Pleno, Rel. Min. Teori Zavascki, DJe 17/5/2016).
+II - Na hipótese das penas restritivas de direitos, a Terceira Seção desta Corte Superior, no julgamento do EResp 1619087/SC, de relatoria do insigne Min. Jorge Mussi, decidiu que, na ausência de manifestação expressa da Corte Suprema e a teor do art. 147 da LEP, não se afigura possível a execução da pena restritiva de direitos antes do trânsito em julgado da condenação.
+III - Não cabe a este Superior Tribunal de Justiça, ainda que para o fim de prequestionamento, proceder a eventual interpretação constitucional, na forma de verdadeiro controle de constitucionalidade, da quaestio juris sob exame à luz dos dispositivos constitucionais mencionados, sob pena de usurpar a competência do col. Supremo Tribunal Federal, a quem compete decidir sobre matéria constitucional, nos termos do art. 102, III, a, da Constituição Federal. Precedentes.
+Agravo regimental desprovido. (AgRg nos EDcl no HC 462.214/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 27/11/2018, DJe 6/12/2018, grifei.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. UNIFICAÇÃO DAS PENAS. DATA-BASE PARA A CONCESSÃO DE BENEFÍCIOS. APLICAÇÃO DA ORIENTAÇÃO FIRMADA NO JULGAMENTO DO RECURSO ESPECIAL Nº 1.557.461/SC E DO HABEAS CORPUS Nº 381.248/MG. PRETENSÃO DE REDISCUTIR A MATÉRIA E DE PREQUESTIONAR DISPOSITIVOS CONSTITUCIONAIS. VIA INADEQUADA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. Não incumbe ao Superior Tribunal de Justiça, nem mesmo para fins de prequestionamento, examinar supostas ofensas a dispositivos constitucionais, sob pena de usurpação da competência atribuída pela Constituição Federal ao Supremo Tribunal Federal.
+3. Embargos rejeitados. (EDcl no AgRg no HC 413.617/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/9/2018, DJe 11/10/2018, grifei.)
+Assim, não há na decisão embargada nenhuma situação que dê amparo ao recurso integrativo, porquanto os vícios alegados, na realidade, manifestam o inconformismo do embargante com o julgamento meritório, desiderato inadmissível em aclaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
