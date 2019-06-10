@@ -1,0 +1,37 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, proposta pela Construtora Remo Ltda. em face de decisão proferida pelo Tribunal Regional do Trabalho da 3ª Região, nos autos do Processo n. 0001731-34.2014.5.03.0001.
+    Na petição inicial, a parte reclamante alega que a decisão reclamada ofendeu a autoridade desta Corte, consubstanciada na Súmula Vinculante 10, ao afastar, por órgão fracionário, a aplicação da norma do art. 25, § 1º, da Lei 8.987/1995, que regulamenta a terceirização na esfera da Administração Pública para atividades inerentes, acessórias ou complementares.
+    Argumenta que, nos termos da Súmula 331 do TST, terceirização seria lícita para atividades-meio da empresa, mas não para atividades-fim, sem, no entanto, definir o alcance de ambas. Nesse contexto, afirma que matéria tratada na referida súmula, sobre a legalidade dos contratos de prestação de serviços, e a do art. 25, §1°, da Lei 8.987/95 são diametralmente opostas, uma vez que não seria possível equiparar o conceito de “atividade inerente” ao de “atividade meio”.
+    Por fim, sustenta que, recentemente, esta Corte julgou o RE 958.252 de relatoria do Min. Luiz Fux, em que fixou a tese de que “É lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante”.
+    Requer a concessão de liminar para suspender os efeitos do acórdão reclamado e, ao final, a cassação do ato reclamado.
+    Deferi a liminar para determinar a suspensão dos efeitos da decisão reclamada. (eDOC 20)
+    A autoridade reclamada prestou informações (eDOC 27).
+    Citado, o beneficiário Alex Ferreira Vidotti Cruz deixou de apresentar contestação, consoante certificado no eDOC 27.
+    A Procuradoria-Geral da República manifestou-se em parecer assim ementado:
+    “RECLAMAÇÃO. IMPOSSIBILIDADE DE UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL, DE OUTRAS AÇÕES CABÍVEIS, OU PARA REVISÃO DE APLICAÇÃO DE TESE DE REPERCUSSÃO GERAL PELO TRIBUNAL A QUO, SALVO TERATOLOGIA DA DECISÃO IMPUGNADA. EMPRESA CONCESSIONÁRIA DE ENERGIA ELÉ- TRICA. ART. 25-§1o DA LEI 8.987/1995. OFENSA AO ENUNCIADO 10 DA SÚMULA VINCULANTE. CLÁUSULA DE RESERVA DE PLENÁRIO. ARTIGO 97 DA CONSTITUIÇÃO. OCORRÊNCIA. INEXISTÊNCIA DE PRÉVIA DECISÃO PLENÁRIA DO TRIBUNAL DE ORIGEM EM MESMO SENTIDO. PROCEDÊNCIA. “ (eDOC 28)
+    É o relatório.
+    Decido.
+    A reclamação, tal como prevista no art. 102, I, l, da Constituição, e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+    Na espécie, o Tribunal reclamado se manifestou nos seguintes termos:
+    “Insurgem-se as reclamadas contra o reconhecimento da terceirização ilícita, afirmando se tratar de atividade periférica e complementar aos serviços desenvolvidos pela CEMIG. Invocam o teor do art. 25 da Lei 8987/1995 e sustentam ser inaplicável à espécie o entendimento consolidado por meio da IUJ (TRT-00085-2014-066-03-00-5).
+    Examina-se.
+    Como destacado na sentença, emerge dos autos que o reclamante foi contratado pela 1a reclamada, na função de eletricista, para prestar serviços exclusivos em prol da 2a reclamada (CEMIG), executando o corte e religação de energia elétrica, além da inspeção e troca de medidor, dentre outras.
+    Percebe-se, assim, que o quadro fático delineado na presente ação amolda-se perfeitamente ao entendimento consolidado na Tese Prevalecente n. 5 deste Regional, nos seguintes termos:
+    CONCESSIONÁRIA DE ENERGIA ELÉTRICA. INSTALAÇÃO E REPARAÇÃO DE REDES, CABOS, LINHAS ELÉTRICAS E OUTRAS ATIVIDADES AFINS. ATIVIDADE-FIM. TERCEIRIZAÇÃO ILÍCITA. RESPONSABILIDADE. I - É ilícita a terceirização de serviços de instalação e reparação de redes, cabos e linhas elétricas, o que inclui a ligação e a religação na unidade consumidora, instalação, reforço, reparo ou manutenção de ramais, alimentadores, transformadores, postes, equipamentos de segurança e cabos, pois constituem atividade-fim ao desenvolvimento das empresas distribuidoras de energia. Diante da nulidade do contrato de trabalho firmado com a prestadora de serviços, pessoa jurídica de direito privado, forma-se o vínculo de emprego diretamente com a tomadora, responsável solidária pelo pagamento das verbas trabalhistas devidas ao empregado. Inaplicável, nessa hipótese, o § 1º do art. 25 da Lei 8.987/95.
+    (…)
+    Na esteira da tese prevalecente acima transcrita, a Turma também entende que uma vez comprovada a prestação de serviços nas atividades ali descritas, como no caso vertente, as disposições da Lei nº 8.987/95 não obstam o reconhecimento da ilicitude da terceirização levada a efeito pelas rés.
+    Trata-se de norma de Direito Administrativo, que não regulamenta matéria trabalhista e, portanto, deve ser interpretada em consonância com as garantias e direitos do trabalhador.
+    A impossibilidade de formação de vínculo de emprego com a tomadora de serviços, que é órgão integrante da Administração Pública, não impede a aplicação das normas coletivas celebradas pela tomadora à luz do princípio da isonomia.
+    Irrelevante, para tanto, o fato de a CEMIG não possuir, atualmente, em seu quadro funcional, empregados que desempenhem as mesmas funções exercidas pelo reclamante, uma vez que optou por terceirizar toda essa gama de atividades.
+    Entendimento contrário, d.v., implicaria premiar o órgão contratante pela fraude perpetrada, privando o empregado dos seus direitos trabalhistas”. (eDOC 16, p. 4-5 – grifo nosso)
+    No caso, a Quinta Turma do Tribunal Regional do Trabalho da 3ª Região, ao considerar ilícita a terceirização no caso, afastou a aplicação § 1º do art. 25 da Lei 8.987/95, que tem a seguinte redação:
+    “§ 1º Sem prejuízo da responsabilidade a que se refere este artigo, a concessionária poderá contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço concedido, bem como a implementação de projetos associados”.
+    Nesses termos, verifico que o Tribunal reclamado confere interpretação que resulta no esvaziamento da eficácia do citado dispositivo, sem declaração de sua inconstitucionalidade, por meio de seu órgão fracionário. Assim, vislumbra-se a violação ao artigo 97 da Constituição Federal, cuja proteção é reforçada pela Súmula Vinculante 10 do STF, que assim dispõe:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+    Desse modo, entendo que, ao afastar a aplicação da norma do art. 25, § 1º, da Lei 8.987/1995, o Tribunal reclamado violou a autoridade da Súmula Vinculante 10.
+    Ante o exposto, julgo procedente a reclamação, para cassar o acórdão reclamado, no ponto em que afastou a incidência do art. 25, § 1º, da Lei 8.987/1995, determinando que outro seja proferido nos termos da jurisprudência desta Corte.
+    Oficie-se o Tribunal Regional do Trabalho da 3ª Região e o Tribunal Superior do Trabalho acerca do conteúdo desta decisão.
+    Publique-se.
+    Brasília, 10 de junho de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
