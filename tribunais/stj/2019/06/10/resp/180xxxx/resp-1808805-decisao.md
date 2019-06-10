@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+Apelação. Crime de receptação simples. Substituição da pena privativa de liberdade por penas restritivas de direitos. Impossibilidade. Não provimento ao recurso.
+Aponta o recorrente a violação do art. 44, § 3º, do Código Penal, alegando, em síntese, que a reincidência não específica não obsta a substituição da pena privativa de liberdade por restritiva de direitos.
+Admitido o apelo raro na origem, os autos vieram a esta Corte.
+Manifestação do Ministério Público Federal pelo provimento do recurso às e-STJ fls. 354/356.
+É o relatório. Decido.
+O recurso merece prosperar.
+Os elementos existentes nos autos informam que o Tribunal de Justiça do Estado de São Paulo negou provimento ao apelo defensivo e manteve a sentença que condenou o recorrente à pena de 1 (um) ano e 2 (dois) meses de reclusão, em regime aberto, pelo cometimento do crime do art. 180 do Código Penal.
+A defesa alega que o recorrente preenche os requisitos para a substituição da pena privativa de liberdade por restritiva de direitos. Sobre o tema, o Tribunal de origem assim se manifestou:
+Não é permitida a substituição da pena privativa de liberdade por penas restritivas de direitos, uma vez que se trata de réu reincidente em crime doloso (fls.83), conforme inteligência do artigo 44, inciso II, do Código Penal. (e-STJ fl. 296)
+Com razão a defesa, isso porque, de fato, o art. 44, II, do Código Penal não admite a substituição da pena privativa de liberdade por restritiva de direitos para o réu reincidente em crime doloso. No entanto, a reincidência em crime doloso, isoladamente, não tem o condão de afastar a aplicação da medida, tendo em vista que o § 3º oferece a possibilidade de concessão da benesse para os casos em que se entenda socialmente recomendável a medida e a reincidência não se tenha operado em virtude da prática do mesmo crime (ut, AgRg no AREsp n. 599.036/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe 26/6/2017).
+Ainda nesse mesmo sentido:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. POSSE OU PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. DOSIMETRIA. SEGUNDA FASE. RECONHECIMENTO DA REINCIDÊNCIA. COMPROVAÇÃO. INVIÁVEL REEXAME FÁTICO-PROBATÓRIO. CERTIDÃO CARTORÁRIA. DESNECESSIDADE. REGIME INICIAL SEMIABERTO. ADEQUAÇÃO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. REINCIDÊNCIA. SÚMULA N.º 269/STJ. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. ART. 44, § 3.º, DO CP. POSSIBILIDADE. REINCIDÊNCIA NÃO ESPECÍFICA. AUSÊNCIA DE JUSTIFICATIVA QUANTO A SER A MEDIDA NÃO SOCIALMENTE RECOMENDÁVEL. CONSTRANGIMENTO ILEGAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. EXECUÇÃO PROVISÓRIA. IMPOSSIBILIDADE. ART. 147 DA LEI DE EXECUÇÃO PENAL. PROIBIÇÃO EXPRESSA. AUSÊNCIA DE MANIFESTAÇÃO DO STF. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+ ..
+- Não sendo afastada a circunstância agravante da reincidência, e considerando as vetoriais todas favoráveis ao apenado, bem como o quantum final da reprimenda imposta, 03 anos e 06 meses de reclusão, deve ser mantido o regime inicial intermediário, para o início do cumprimento da pena, nos termos do enunciado n.º 269 das Súmulas do Superior Tribunal de Justiça.
+- Na hipótese, a negativa de substituição da pena privativa de liberdade por restritivas de direitos não está devidamente justificada. Isso, porque o Tribunal local não procurou demonstrar o porquê de não ser recomendável a substituição, tendo em vista as circunstâncias delineadas no caso concreto, além da reincidência.
+Vale dizer, ao contrário do que entendeu a instância a quo, a reincidência não específica, de modo isolado, não evidencia a insuficiência das penas alternativas (art. 44, § 3.º, do Código Penal).
+- Considerando a ausência de manifestação expressa da Corte Suprema e o teor do art. 147 da LEP, não se afigura possível a execução da pena restritiva de direitos antes do trânsito em julgado da condenação. Precedentes.
+ ..
+Habeas corpus não conhecido. Ordem concedida, de ofício, para substituir a pena privativa de liberdade imposta ao paciente por duas sanções restritivas de direitos, a critério do juiz singular, e para determinar que somente seja iniciado o seu cumprimento após o trânsito em julgado da condenação. (HC 436.307/SP, desta Relatoria, DJe 24/08/2018)
+Ante o exposto, a teor do art. 932, III e V, do CPC, c/c o art. 255, § 4º, I e III, do RISTJ, dou provimento ao recurso especial para substituir a pena privativa de liberdade por restritivas de direito a ser especificada pelo Juízo de Execuções.
+Intimem-se.
