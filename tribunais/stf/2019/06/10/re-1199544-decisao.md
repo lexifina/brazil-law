@@ -1,0 +1,12 @@
+DESPACHO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. MUNICÍPIO DE PEDRO OSÓRIO. LEI FEDERAL N° 11.738/08. PISO SALARIAL NACIONAL PARA OS PROFISSIONAIS DO MAGISTÉRIO PÚBLICO DA EDUCAÇÃO BÁSICA. AFASTADAS AS PRELIMINARES DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO E SUSPENSÃO DO FEITO. LEI MUNICIPAL QUE ADEQUOU OS VENCIMENTOS DO MAGISTÉRIO, CONFORME A LEI DO PISO. HORA ATIVIDADE. AUSÊNCIA DE EFEITO VINCULANTE. SENTENÇA DE PARCIAL PROCEDÊNCIA REFORMADA.
+    No caso dos autos, a Lei Municipal nº 2.639/11 estabeleceu a adequação do vencimento dos professores do Município de Pedro Osório ao piso salarial estabelecido pela Lei Federal nº 11.738/08, de maneira que nenhum professor ocupante de cargo na educação básica, com carga horária de 40 horas semanais, perceba vencimento básico inferior ao Piso Nacional do Magistério.
+    PROVIDO O APELO DO MUNICÍPIO, PREJUDICADO O RECURSO DAS AUTORAS.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre registrar, desde logo, que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 936.790-RG/SC, Rel. Min. MARCO AURÉLIO, Tema 958/RG, reconheceu existente a repercussão geral da questão constitucional nele suscitada, e que coincide com a mesma controvérsia jurídica ora versada na presente causa, fazendo-o em acórdão assim ementado:
+    “MAGISTÉRIO PÚBLICO – JORNADA DE TRABALHO – ARTIGO 2º, § 4º, DA LEI Nº 11.738/2008 – CONSTITUCIONALIDADE – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia alusiva à validade do § 4º do artigo 2º da Lei nº 11.738/2008, em face da Constituição Federal, considerada a ausência de vinculação dos demais Tribunais ao que decidido no exame da ação direta nº 4.167, relator o ministro Joaquim Barbosa, acórdão publicado no Diário da Justiça de 24 de agosto de 2011.”
+    Isso significa que se impõe, quanto ao Tema nº 958/RG, nos  termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução destes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 10 de junho de 2019.
+Ministro CELSO DE MELLO
+Relator
