@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 768/772) interposto contra decisão que negou provimento ao agravo em recurso especial.
+Em suas razões, a agravante reitera a ofensa ao art. 535 do CPC/1973, pois o Tribunal de origem não teria enfrentado a omissão apontada quanto à inadmissibilidade da inversão do ônus da prova, no caso dos autos. Alega, nesse contexto, que (e-STJ fl. 782):
+O Tribunal local simplesmente exonerou os autores de instruírem a sua inicial com os documentos obrigatórios que comprovassem a existência de seu crédito. A mera possibilidade de inversão do ônus probatório, como se disse, não altera a obrigatoriedade de a parte juntar com a inicial os comprovantes do direito pleiteado (art. 283 do CPC/73). Nesse ponto, permanece inalterada a distribuição do ônus probatório do art. 333, I, do CPC/73.
+Sustenta ter havido obscuridade quanto à data de encerramento do grupo de consórcio, não se analisando o disposto no art. 1.536, § 2º, do CC/1916, que determinaria a data da citação como termo inicial dos juros de mora.
+Aduz que o TJSP teria sido omisso quanto ao art. 27, § 2º, da Lei n. 11.795/2008, que determina que o fundo de reserva não deve ser restituído quando utilizado na operação do grupo.
+Insurge-se, nesse contexto, contra a incidência da Súmula n. 7 do STJ quanto à inversão do ônus da prova.
+Sustenta a inaplicabilidade da Súmula n. 83 do STJ, pois os julgados paradigmas tratariam de situação fática distinta da que é apresentada nos autos, uma vez não definida a data de encerramento do grupo de consórcio e não demonstrada a necessidade de restituição do valor relativo ao fundo de reserva.
+O agravado apresenta impugnação pretendendo a manutenção da decisão agravada, com a majoração dos honorários advocatícios e a imposição de multa por litigância de má-fé.
+É o relatório.
+Decido.
+Quanto à inversão do ônus da prova e à distribuição da carga dinâmica probatória, o Tribunal de origem assim se manifestou (e-STJ fl. 673):
+Ficou claro que a espécie configura contrato ou termo de adesão dos autores ao Consórcio administrado pelo réu, inexistindo dúvida também que se trata de relação jurídica de consumo a atrair todo o arcabouço protetivo do Código de Defesa do Consumidor (Lei no 8.078/1990).
+Por esse prisma, é de se afastar os reclamos em tom generalista por parte do apelado-réu de que caberiam aos autores com provar o pagamento das contribuições afirmadas. Além de se inverter o ônus probatório, o laudo pericial denuncia a devolução de valores espontaneamente realizados pelo réu a [NOME] e a Elineide Lúcia Martins (fls. 443) a evidenciar a relação estabelecida entre as partes, ao menos em determinada medida.
+Cabia ao réu sem dúvida apresentar os extratos contábeis de maneira a prestar as contas devidas, tanto no que diz respeito aos ingressos efetivados pelos autores, como com relação às devoluções e outros dados contábeis usuais em tais contratos.
+Estaria o réu incumbido de tal providência, não somente diante da inversão do ônus da prova, mas também em atenção ao princípio da distribuição dinâmica da carga das provas, por estar evidentemente melhor aparelhado para se desincumbir de tais ônus, que na qualidade de administrador do consórcio está obrigado.
+
+Nesse contexto, não só houve enfrentamento direto da questão, afastando-se a alegada violação do art. 535 do CPC/1973, como o debate demandaria a incursão no acervo fático dos autos, a fim de analisar a distribuição da carga dinâmica da prova, utilizada como fundamento pelo acórdão recorrido para reconhecer que a agravante estaria melhor aparelhada para apresentar as informações necessárias ao deslinde da controvérsia.
+Assim, quanto ao ponto, mantém-se a decisão agravada.
+Por outro lado, observa-se ofensa ao art. 535 do CPC/1973 quanto ao debate envolvendo o termo inicial dos juros de mora e o fundo de reserva.
+O TJSP assim se manifestou (e-STJ fl. 699):
+Fluxo dos juros moratórios (termo inicial): O acórdão determinou que fluíssem a partir do trigésimo primeiro dia do encerramento do grupo de consórcio. A partir do momento que houver o encerramento do grupo, contar-se-ão os trinta dias e a partir do trigésimo primeiro dia incidirão os juros moratórios. Parece não haver obscuridade aí! lnterpreta-se a alusão ao art. 1536, § 2º, do revogado Código Civil de 1916 como erro material.
+Fundo de Reserva (participação): O próprio embargante cita o texto do acórdão: ""Se o réu não provou a utilização dessa verba na operação do grupo .. "" (grifei - fls. 640).
+A participação dos embargados no Fundo de Reserva somente ocorrerá se não houver utilização do mesmo.
+O direito dos embargados está condicionado à existência de saldo residual nessa conta e, como só receberão a restituição no encerramento do grupo, nessa ocasião o embargante reunirá condições de prestar as contas devidas, inclusive no tocante ao saldo do Fundo de Reserva, pagando aquilo que for de direito!
+Dos embargos declaratórios, observa-se que a agravante apontou omissão e obscuridade do acórdão de apelação quanto ao fato reconhecido pela sentença de que não haveria informação sobre a data de encerramento do grupo de consórcio e de que a própria desistência do grupo de consórcio pelos agravados afastaria a possibilidade de restituição do valor referente ao fundo de reserva.
+O Tribunal de origem, portanto, tangenciou o debate, deixando de se pronunciar especificamente sobre os pontos reconhecidos pela sentença que, em última análise, guardam relação com o disposto nos arts. 1.536, § 2º, do CC/1916 e 27, § 2º, da Lei n. 11.795/2008.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao agravo interno interposto pela agravante para reconhecer ofensa ao art. 535 do CPC/1973, determinando a remessa dos autos ao Tribunal de origem para que se pronuncie sobre os vícios de omissão e obscuridade quanto ao termo inicial dos juros de mora e ao fundo de reserva. Fica prejudicada a análise das demais questões.
+Publique-se e intimem-se.
