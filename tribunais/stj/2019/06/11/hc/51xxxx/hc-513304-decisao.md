@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JONES RODRIGO AQUINO na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTICA DO ESTADO DO RIO GRANDE DO SUL - HC n [CPF], que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Consta dos autos que o paciente encontra-se preso preventivamente desde o dia 14-05-2019, por ter, em tese, cometido o delito de homicídio na modalidade tentada.
+Alegam que estaria diante de flagrante ilegalidade passível de afastar o óbice contido no verbete 691 da Súmula do Supremo Tribunal Federal.
+Aduzem os impetrantes, em breve síntese, a ausência de fundamentação para justificar o decreto da segregação cautelar do paciente, destacando que a medida estaria embasada na gravidade abstrata do delito, reputando não atendidos os requisitos autorizadores da preventiva, previstos no art. 312 do Código de Processo Penal.
+Realçam as condições pessoais favoráveis do paciente, que seria primário, com ocupação lícita e residência fixa, predicados que lhe garantiriam o direito de responder à ação penal em liberdade.
+Defendem que não teria sido demonstrado, com base em elementos concretos, como a liberdade do acusado poderia oferecer risco à ordem pública, ao bom andamento da instrução criminal ou à aplicação da lei penal.
+Argumentam, por fim, a excepcionalidade da medida extrema, enfatizando que o acusado faria jus a substituição da preventiva por medidas cautelares descritas no art. 319 do CPP
+Requerem, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva do paciente, fixando, caso entenda necessário, medidas cautelares menos gravosas (art. 319 do CPP), expedindo-se alvará de soltura em seu favor.
+É o relatório.
+Este Superior Tribunal de Justiça, "na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem" (AgRg no HC 417.895/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (e-STJ, fl. 217):
+ ..
+4. Consoante se observa das decisões retro, o paciente é acusado de fato gravíssimo, pois se trata de tentativa de crime doloso contra a vida, com o uso de arma de fogo e que, em tese, não se consumou apenas por circunstância alheia à sua vontade.
+Neste passo, há prova da materialidade delitiva, bem como indícios suficientes da autoria em relação ao paciente.
+E em que pese as alegações formuladas pelo impetrante no sentido de ter a vítima prestado declaração de que, por ela, não haveria motivo para manter a segregação cautelar do acusado, a opinião da vítima não se sobrepõe quanto à definição do enquadramento da conduta típica imputada ao paciente. Ademais, conforme bem destacado pelo Juízo a quo o delito de tentativa de homicídio é crime de ação penal pública incondicionada à representação do ofendido.
+Portanto, não há nos autos do presente habeas corpus elementos suficientes que, em sede liminar e em regime de Plantão, ensejem a revogação do decreto preventivo.
+Pelo contrário, os elementos de prova colhidos até o momento e que instruem o presente writ mostram ser necessária a manutenção, ao menos em sede liminar, da prisão preventiva do paciente, para garantia da ordem pública e para assegurar a instrução criminal, estando evidenciados o fumus comissi delicti e o periculum libertatis no fato penalmente relevante que lhe está sendo imputado no procedimento criminal a quo .
+Nesta toada, é incabível a aplicação de medidas cautelares alternativas à custódia prévia do paciente, dentre elas, a prisão domiciliar, dada a sua evidente insuficiência para a garantia da ordem pública.
+5. Diante do exposto, indefiro o pleito liminar de liberdade deduzido pelo impetrante em favor do paciente.
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária, para manter, ao menos por ora, a constrição cautelar do paciente.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Pelo exposto, indefere-se liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
