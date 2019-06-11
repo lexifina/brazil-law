@@ -1,0 +1,51 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTOS. MODUS OPERANDI. RISCO CONCRETO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva é cabível mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada e mantida com fundamentação idônea, considerando-se as circunstâncias concretas do fato delituoso em análise, reveladoras, pelo modus operandi empregado, da real gravidade do crime e do agente (delito perpetrado por agentes envolvidos com o tráfico de drogas, mediante emboscada que dificultou ou inviabilizou a defesa da vítima), e o fundado receio de reiteração delitiva (tirado do fato de o recorrente responder a outras ações penais por crimes de porte ilegal de arma de fogo e homicídio qualificado). Isso confere lastro de legitimidade à manutenção da medida extrema.
+3. Recurso em habeas corpus improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso ordinário nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de recurso em habeas corpus interposto por [NOME] contra o acórdão prolatado pelo Tribunal de Justiça de Alagoas, que denegou a ordem no HC n. 0803858-48.2018.8.02.0000.
+Colhe-se dos autos que o recorrente teve a prisão preventiva decretada, em 25/7/2017, nos Autos n. 0800233-60.2017.7.02.0058, do Juízo da 8ª Vara Criminal da comarca de Arapiraca/AL, pela suposta prática do crime de homicídio qualificado (fls. 27/29).
+Impetrado o writ na origem contra o decreto da prisão preventiva, a ordem foi denegada, conforme esta ementa (fl. 51):
+HABEAS CORPUS. PENAL. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. ALEGAÇÃO DE INIDONEIDADE DO DECRETO DE PRISÃO. AUSÊNCIA DE REQUISITOS AUTORIZADORES. IMPROPRIEDADE. ÉDITO PRISIONAL SATISFATORIAMENTE FUNDAMENTADO, COM ARRIMO NOS AUTOS. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. CUSTÓDIA CAUTELAR NECESSÁRIA PARA A GARANTIA DA ORDEM PÚBLICA, DIANTE DA PERICULOSIDADE QUE É ATRIBUÍDA AO PACIENTE. GRAVIDADE CONCRETA DA CONDUTA IMPUTADA E INDICATIVOS DE REITERAÇÃO DELITIVA. INSUFICIÊNCIA DE MEDIDAS CAUTELARES ALTERNATIVAS AO CÁRCERE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL NA ESPÉCIE. PRISÃO MANTIDA. ORDEM DENEGADA. DECISÃO UNÂNIME.
+I - A gravidade da conduta (homicídio qualificado), o modus operandi (emboscada) utilizado e o fato de o paciente responder a outras ações penais (três ações) demonstram a necessidade da prisão preventiva a fim dc garantir a ordem pública.
+II - Ordem conhecida e denegada.
+Daí o presente recurso, no qual se repisa que não se encontram presentes os requisitos necessários para manutenção da prisão preventiva.
+Aduz-se que o risco de reiteração delitiva não pode ser utilizado como fundamento para a manutenção da custódia cautelar.
+Invoca-se, ainda, o princípio constitucional da presunção de inocência.
+Requer-se, assim, o provimento do recurso para que o recorrente possa responder ao processo em liberdade ou, subsidiariamente, sejam aplicadas medidas cautelares diversas da prisão.
+Em 15/4/2019, foi indeferido o pedido liminar (fls. 81/82).
+Solicitadas as informações, essas foram prestadas às fls. 86/91 e 95/99.
+O Ministério Público Federal opinou pela manutenção do acórdão impugnado e desprovimento do recurso (fls. 101/103).
+Após consulta realizada ao portal do Tribunal a quo na internet, foi possível observar que o processo se encontra na fase de instrução processual.
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Busca o recorrente a revogação da prisão preventiva imposta, ao argumento da ausência de fundamentação para tanto.
+Diz a jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+Quantos aos fundamentos da custódia cautelar, o Magistrado singular decretou a prisão preventiva do recorrente, com a seguinte fundamentação no que interessa (fl. 28):
+ ..
+In casu, compulsado os autos, verifica-se que o fato em questão preenche os pressupostos e requisitos legais exigidos para aplicação da custódia preventiva. Isto porque, além de tratar-se de crime doloso punido com reclusão, sua materialidade resta patenteada através dos depoimentos, os indícios de autoria apontam em desfavor do acusado e a Prisão Preventiva mostra-se como medida necessária à garantia da ordem pública e aplicação da lei penal.
+O Tribunal de origem, ao manter a segregação preventiva do recorrente, destacou que (fls. 50/55 - grifo nosso):
+ ..
+A denúncia explica que através da investigação, constatou-se que o homicídio em tela foi registrado em uma operação de interceptação telefônica cuja finalidade era desarticular uma quadrilha envolvida em tráfico de drogas. Nela, consta todo o planejamento do homicídio de Jamerson.
+ ..
+A denúncia detalha todo o modus operandi (explicado no relatório de inteligência) e explica que em uma das ligações o paciente avisa ao corréu Gilson que matou a vítima e em outra informa que efetuou 05 (cinco) tiros contra ela.
+Diante do narrado, o Ministério Público pugnou pela prisão preventiva dos acusados, o que foi acolhido pelo magistrado de origem em decisão (fls. 27/29) prolatada logo após o recebimento da denúncia (25/07/2017).
+Como se nota, trata-se de decisão com fundamentação por referência e, diferentemente do que a impetrante alega, a prisão do paciente não está pautada em meras conjecturas e termos abstratos, pois a prisão preventiva há elementos concretos (laudos, ligações telefônicas) que se complementam de forma coerente, reforçando assim a autoria e materialidade do delito supostamente cometido.
+Constata-se que o crime supostamente praticado pelo paciente é doloso cuja pena privativa de liberdade máxima é superior a 04 (quatro) anos. Ademais, a medida constritiva foi devidamente fundamentada na gravidade concreta da conduta, destacando-se o modus operandi supostamente empregado no delito: o emprego da emboscada a fim de dificultar ou inviabilizar a defesa da vítima.
+Outrossim, a autoridade impetrada destaca em suas informações (Págs. 40/43) que há indícios de reiteração delitiva, uma vez que o paciente responde, para além do feito de origem, a outras ações penais, sendo duas delas pela suposta prática do crime de porte ilegal de arma de fogo de uso permitido (autos nº 0701772-24.2015.8.02.0058 e nº 0705213-13.2015.8.02.0058) e outra ação pelo crime de homicídio qualificado (autos nº 0700334-32.2016.8.02.0056).
+Não foi outra a opinião do Subprocurador-Geral da República [NOME] em seu parecer (fls. 101/103).
+Da leitura das peças que compõem estes autos, verifica-se que a prisão cautelar está devidamente amparada em elementos concretos para garantia da ordem pública, considerando-se as circunstâncias do fato delituoso em análise, reveladoras, pelo modus operandi empregado, da real gravidade do crime e do agente (delito perpetrado por agentes envolvidos com o tráfico de drogas, mediante emboscada que dificultou ou inviabilizou a defesa da vítima). Além disso, existe o fundado receio de reiteração delitiva (tirado do fato de o recorrente responder a outras ações penais por crimes de porte ilegal de arma de fogo e homicídio qualificado). Isso confere lastro de legitimidade à manutenção da medida extrema.
+Com efeito, a jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar" (RHC n. 76.929/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/11/2016, DJe 29/11/2016) - (HC n. 415.653/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 9/8/2018).
+Assim, temos entendido que a periculosidade do agente, revelada pelo modo de agir, justifica a decretação da prisão preventiva, nos termos do art. 312 do Código de Processo Penal (RHC n. 81.343/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 6/4/2017).
+Ainda, nesse sentido:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO TENTADO. DANO QUALIFICADO. AUSÊNCIA DE AUDIÊNCIA DE CUSTÓDIA. NULIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO IDÔNEA. ILEGALIDADE. AUSÊNCIA.
+1. Ressalvada pessoal compreensão diversa, o entendimento desta Sexta Turma é de que a falta da audiência de custódia não enseja nulidade da prisão preventiva, superada que foi a prisão em flagrante, devendo ser este novo título de prisão aquele a merecer o exame da legalidade e necessidade.
+2. Apresentada fundamentação idônea para a decretação da prisão preventiva, consistente no modus operandi do delito, pois o autor dos fatos, na posse de um facão, desferiu golpes contra os policiais, não conseguindo atingi-los. Em seguida, perseguiu o policial [NOME] com o intuito de esfaqueá-lo, momento em que o autuado atingiu, por duas vezes, a viatura policial com o facão, danificando-a, não há que se falar em ilegalidade a justificar a concessão da ordem de habeas corpus.
+3. Habeas corpus denegado.
+(HC n. 382.166/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 23/3/2017 - grifo nosso)
+No caso, tenho que ficou demonstrada a necessidade da prisão preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Nessa linha, confiram-se, entre tantos, estes julgados: RHC n. 69.268/MT, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 21/6/2016; RHC n. 59.977/MG, de minha relatoria, Sexta Turma, DJe 3/2/2016; e HC n. 353.503/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/5/2016.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
