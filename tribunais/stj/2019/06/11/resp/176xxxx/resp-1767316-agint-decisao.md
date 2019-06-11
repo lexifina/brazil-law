@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo Departamento Nacional de Infraestrutura de Transportes desafiando decisão pela qual neguei provimento ao recurso especial, por entender que: (I) o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos e (II) o Superior Tribunal de Justiça assentou o entendimento de que o DNIT é o sucessor legítimo nas demandas judiciais em que figura como parte o DNER e que venham a ser ajuizadas após o fim da inventariança da extinta autarquia.
+Em suas razões, a parte agravante sustenta que: (I) foi devidamente arguida a falta de legitimidade do DNIT e, no entanto, o TRF não analisou a questão e (II) a data da inicial consiste em 15/08/2002, dentro do interregno que o Superior Tribunal de Justiça reconhece a União como sucessora do DNER, de modo que, tratando-se de multa aplicada pelo DNER, é a União e não DNIT a parte legítima para figurar na lide.
+Sem impugnação (fl. 698).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Com razão a agravante, motivo pelo qual reconsidero a decisão de fls. 672/674 e passo a reapreciar a demanda.
+Trata-se de recurso especial manejado pelo DNIT com fundamento no art. 105, III, a , da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 553):
+ADMINISTRATIVO. MULTA DE TRÂNSITO. EXCESSO DE VELOCIDADE. FISCALIZAÇÃO/AUTUAÇÃO PELO DNIT. LEGITIMIDADE. CTB. AUSÊNCIA DE NOTIFICAÇÃO DE PENALIDADE. VIOLAÇÃO AO CONTRADITÓRIO E À AMPLA DEFESA.
+. A Lei 10.233/2001 trouxe uma ampliação das funções exercidas pelo DNIT em seu art. 82, § 3º, inclusive a de aplicar penalidades de trânsito por excesso de velocidade em rodovias federais.
+. A ausência de registro de recebimento acerca da notificação da aplicação da penalidade relativamente às multas de trânsito imputadas implica a violação dos princípios do contraditório e da ampla defesa relativamente à devida abertura para apresentação de recurso, nos termos do que prevê o art. 282 do CTB e a Súmula 312 do STJ.
+Opostos embargos declaratórios, foram rejeitados (fls. 581/588).
+A parte recorrente aponta violação aos seguintes dispositivos da legislação federal:
+(I) art. 1.022 do CPC/15, ao argumento de que, mesmo diante do manejo dos embargos de declaração do ente público, persistiu o Tribunal a quo na omissão da matéria arguida, não se pronunciando sobre a questão de ordem pública, relativa à ilegitimidade passiva ad causam do DNIT; e
+(II) art. 485 do CPC/15, art. 23 do Decreto nº 512/1969 e Decreto nº 4.128/2002, afirmando que, em se tratando de multa aplicada pelo DNER, é a União e não DNIT a parte legítima para figurar na lide.
+Pois bem.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mérito, todavia, tenho que assiste razão ao recorrente. Isso porque o Superior Tribunal de Justiça assentou o entendimento de que a União será sucessora do DNER nas ações ajuizadas entre o início e o fim da inventariança, ou seja, entre 13/2/2002 e 8/8/2003. Veja-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESLIZAMENTO DE TERRA. LEGITIMIDADE PASSIVA.
+1. Segundo a jurisprudência pacífica do STJ, a União é sucessora do DNER apenas nas ações ajuizadas e em curso entre o início e o fim da inventariança dessa Autarquia, ou seja, entre 13/2/2002 e 8/8/2003. Noutro período, essa posição é assumida pelo DNIT, que, portanto, deterá legitimidade passiva para as demandas.
+2. O marco para a definição da legitimidade passiva é a data do ajuizamento da ação, desimportando, por isso, o dia do evento danoso discutido na ação indenizatória.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1380296/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/09/2015, DJe 14/10/2015)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EXTINÇÃO DO DNER. CRIAÇÃO DO DNIT. AÇÃO AJUIZADA DURANTE PROCESSO DE INVENTARIANÇA DAQUELA AUTARQUIA. LEGITIMIDADE ATIVA DA UNIÃO.
+1. Não há que se falar em ausência de prequestionamento, uma vez que a tese jurídica - ilegitimidade do DNIT - foi tratada no acórdão recorrido, podendo ser analisada por esta Corte Superior.
+2. Na forma da Lei n. 10.233, art. 102-A, restou extinto o DNER por conta da criação do DNIT. Ainda de acordo com essa Lei, agora nos §§ 2º e 3º do art. 102-A, coube ao chefe do Poder Executivo disciplinar "a transferência e a incorporação dos direitos, das obrigações e dos bens móveis e imóveis do DNER." Com isso, foram editados os Decretos n. 4.128, de 13.2.2002, e 4.803, de 8.8.2003. Da simples leitura conjugada do art. 4º, inc. I, daquele diploma normativo já se conclui que, em todas as ações judiciais que tenham como parte ou interessado o DNER e que estejam em curso ou que venham a ser ajuizadas entre o início e o fim da inventariança dessa autarquia, a União deve funcionar no feito como sucessora da mesma, representada pela Advocacia-Geral da União. Ressalta-se que o processo de inventariança da autarquia extinta iniciou-se em 13.2.2002, por força do Decreto n. 4.128, e findou-se em 8.8.2003, por força do Decreto n. 4.803.
+3. A jurisprudência desta Corte Superior é no sentido de que a União detém a legitimidade para suceder o extinto DNER nas ações que estiverem em curso ou que forem ajuizadas no período de inventariança desta autarquia. A ação na qual se interpôs o recurso ora analisado foi ajuizada em 5.6.2003, dentro, portanto, do período de inventário, sendo a União parte legítima para a demanda e, não, o DNIT.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1267012/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/06/2013, DJe 11/06/2013)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESAPROPRIAÇÃO. AÇÃO DE INDENIZAÇÃO CONTRA O DNIT. PERÍODO DE INVENTARIANÇA DO DNER. LEGITIMIDADE PASSIVA DA UNIÃO.
+1. A União detém a legitimidade para figurar no pólo passivo das ações que foram ajuizadas no período de inventariança do DNER. Precedentes: AgRg no REsp 1172650/RS, Rel. Min. Humberto Martins; REsp 920752/SC, Rel. Min. Mauro Campbell Marques.
+2. Agravo regimental não provido.
+(AgRg no REsp 1217041/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 04/10/2011, DJe 06/10/2011)
+Ora, na hipótese dos autos, verifica-se que a ação declaratória proposta por [NOME] foi originalmente protocolada em 15/08/2002, dentro, portanto, do interregno em que a União detinha legitimidade para figurar do polo passivo da demanda.
+ANTE O EXPOSTO, dou provimento ao recurso especial para determinar o retorno do autos ao Tribunal de origem, a fim de que, reconhecendo a legitimidade passiva da União, prossiga no julgamento do feito como entender de direito.
+Publique-se.
