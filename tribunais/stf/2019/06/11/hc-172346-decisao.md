@@ -1,0 +1,40 @@
+Trata-se de habeas corpus impetrado contra decisão de Ministro do Superior Tribunal de Justiça - STJ que, nos autos do HC 500.226/SP, concedeu parcialmente a ordem, a fim de estabelecer o regime semiaberto para o início do cumprimento da pena do réu Jefferson Marcelo Aparecido de Azevedo (doc. eletrônico 7).
+    Nesta impetração, sustenta-se, em síntese, que “a fundamentação dada na respeitável decisão do Ministro Relator Rogerio Schietti Cruz da 6ª Turma do Superior Tribunal de Justiça […] merece reforma, notadamente porque ‘reconheceu que o acusado é primário, sem registro de circunstância judicial desfavorável e condenado a 2 anos, 2 meses e 20 dias de reclusão deve iniciar o cumprimento da reprimenda em regime semiaberto a teor do Art. 33, § 2º, ‘b’, e § 3º, do CP” (pág. 2 da petição inicial).
+    Requer-se, ao final, liminarmente, a fixação do regime aberto, com expedição de alvará de soltura. No mérito, pede-se a confirmação da liminar pleiteada.
+    É o relatório. Decido.
+    Este pleito não pode ter seguimento, sob pena de extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o conhecimento do habeas corpus por esta Suprema Corte, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Todavia, no caso sob exame, verifico que a situação é excepcional, apta a superar esse entendimento, diante do constrangimento ilegal a que está submetido o paciente.
+    No que se refere ao regime prisional, entendo que é o caso de concessão de habeas corpus, de ofício.
+    O art. 33, § 3°, do Código Penal determina ao juiz sentenciante que, assim como no procedimento de fixação da pena, observe os critérios estabelecidos no art. 59 do mesmo diploma, no momento da determinação do regime inicial de cumprimento da reprimenda.
+    Para conceder o regime semiaberto ao paciente, o Ministro Relator do STJ consignou as seguintes circunstâncias havidas:
+    “Quanto à almejada modificação do regime inicial para o semiaberto, insta enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+    É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva, que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo total da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ª T., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+    O art. 33, § 3º, do Código Penal estabelece que ‘a determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no art. 59 deste Código’.
+    Portanto, as mesmas circunstâncias judiciais aferidas pelo magistrado para fixação da pena-base na primeira fase da dosimetria deverão ser sopesadas na imposição do regime inicial de cumprimento de pena.
+    Na primeira instância, o Juiz justificou o regime fechado pelos seguintes motivos (fls. 23-24, grifei):
+    [...]
+    O regime inicial de cumprimento de pena é o fechado, dadas as circunstâncias judiciais desfavoráveis, vedado o apelo em liberdade, ainda presentes os requisitos da custódia cautelar, não sendo recomendável que sejam beneficiados os acusados com medida a por em risco a ordem pública, dada a tendência mais do que evidenciada de cometimento de crime por parte dos acusados.
+    Em consulta à página eletrônica do Tribunal de origem, o gabinete verificou que a sentença condenatória foi preferida em 26/10/2018 e que, até a presente data, não foi interposto recurso pelas partes.
+    A defesa do acusado, todavia, impetrou habeas corpus onde pleiteou o abrandamento do regime prisional. A Corte local, ao analisar a questão, assim consignou (fls. 28-29, destaquei):
+    [...]
+    Na hipótese dos autos, o paciente foi condenado ao cumprimento de 2 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, além do pagamento de 5 diárias de multa, como incurso no art. 157, § 2º, II, § 2º-A, I, c.c. art. 14, II, todos do Cód. Penal (fl. 17).
+    Ao que consta, teria tentado subtrair, para si, mediante grave ameaça exercida com emprego de arma de fogo contra Adenicio da Silva, a motocicleta marca Honda, modelo CB300, placa EOP 0722/SP, pertencente à vítima, sendo que o delito somente não se consumou por circunstâncias alheias à sua vontade.
+    Não se pode afirmar um direito subjetivo ao regime prisional só pela dimensão da reprimenda corporal (art. 33, § 2º, do CP), na medida em que a lei penal, como já exposto, prevê, além deste, outros critérios para eleição do programa de reabilitação.
+    [...]
+    Ademais, o reexame da dosimetria em sede de mandamus, a propósito, somente seria possível quando evidenciado eventual desacerto na consideração de circunstância judicial, errônea aplicação do método trifásico ou violação a literal dispositivo da norma, acarretando flagrante ilegalidade (STJ – HC 217.429/SP –5ª Turma – rel. Min. Gilson Dipp – J. 13.3.2012).
+    Pelo que se lê nos trechos em destaque, está presente a apontada violação, pois o insurgente é tecnicamente primário, as circunstâncias judiciais são favoráveis e a pena-base foi fixada no mínimo legal.
+    A justificativa deu-se, unicamente, devido à genérica periculosidade e à abstrata gravidade do delito, os quais não constituem fundamentos idôneos para a imposição de regime inicial mais gravoso, consoante firmado nos §§ 2º e 3º do art. 33 do Código Penal.
+    Caracterizada está, pois, a ofensa ao art. 33, § 2º, "c", do Código Penal, conforme dispõem as Súmulas n. 440 do STJ, e 718 e 719 do STF, respectivamente:
+    […]
+    Dessa forma, o acusado primário, sem registro de circunstância judicial desfavorável e condenado a 2 anos, 2 meses e 20 dias de reclusão deve iniciar o cumprimento da reprimenda em regime semiaberto, a teor do art. 33, § 2º, ‘b’, e § 3º, do CP.
+    II. Dispositivo
+    À vista do exposto, concedo parcialmente a ordem, a fim de estabelecer o regime semiaberto para o início do cumprimento da pena do réu Jefferson Marcelo Aparecido de Azevedo” (doc. eletrônico 7; grifos no original).
+    Com efeito, trata-se decisão que, embora tenha reconhecido a inexistência de circunstâncias judiciais negativas (art. 59 do CP), impôs regime mais gravoso do que permitiria a pena concretamente aplicada.
+    Por isso, no presente caso, a fixação do regime semiaberto para o início do cumprimento da pena está em desconformidade com a Súmula 719 desta Suprema Corte, a qual estabelece que “a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea”.
+    Assim, fixada a pena definitiva em 2 anos e 2 meses e 20 dias de reclusão, e concluindo o Juiz sentenciante que todas as circunstâncias judiciais são favoráveis, entendo que o paciente estaria sofrendo constrangimento ilegal com a fixação do regime inicial mais severo.
+    Isso posto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para estabelecer, desde logo, o regime aberto ao paciente, sem prejuízo de que o Magistrado de primeiro grau avalie a possibilidade de substituir a reprimenda corporal por pena restritiva de direitos (art. 192 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de junho de 2019.
+Ministro Ricardo Lewandowski
+Relator
