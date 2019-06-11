@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. MILITAR. PROCESSO ADMINISTRATIVO DISCIPLINAR. INDEPENDÊNCIA DAS ESFERAS PENAL E ADMINISTRATIVA. RECURSO ORDINÁRIO DO PARTICULAR A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Ordinário em Mandado de Segurança interposto contra acórdão do Tribunal de Justiça do Estado do Piauí, assim ementado:
+MANDADO DE SEGURANÇA. ADMINISTRATIVO. MILITAR. PRELIMINAR DE AUSÊNCIA DE INTERESSE DE AGIR. REJEITADA. DECADÊNCIA. INOCORRENTE. INDEPENDÊNCIA ENTRE AS INSTÂNCIAS ADMINISTRATIVA E PENAL. SEGURANÇA DENEGADA.
+1. A sanção administrativa militar oriunda de Conselho de Justificação somente tem eficácia após homologação pelo órgão judicial colegiado competente, por força do art. 125, §4o., da CF e art. 47, §4o., da Lei estadual 3.808/81, ocasião em que se esgotará o procedimento administrativo. Não finalizado em definitivo o processo administrativo, não há falar em ausência de interesse de agir.
+2. Transcorrido prazo inferior a 120 (cento e vinte) dias entre a publicação do ato administrativo atacado e a impetração do mandado de segurança, afasta-se a decadência.
+3. No ordenamento jurídico nacional, em regra, há independência éntre as instâncias administrativa e penal, sem que isso implique em ofensa ao Princípio da Unidade de Jurisdição.
+4. O processo administrativo não se condiciona a prévio trânsito em julgado de sentença penal condenatória.
+5. Inexistindo direito líquido e certo, impõe-se a denegação da segurança (fls. 213/214).
+2. Nas razões recursais, a parte recorrente defende, em suma, que é atribuição exclusiva do Tribunal de Justiça do Estado do Piauí decidir sobre a perda do posto e da patente de oficial da Polícia Militar do Estado do Piauí.
+3. O Ministério Público Federal, às fls. 334/341, pronunciou-se pelo desprovimento do recurso.
+4. É o relatório.
+5. Essa Corte Superior tem orientação firmada quanto à independência das esferas penal e administrativa na apuração da conduta dos seus quadros, até mesmo pela diversidade das sanções aplicáveis, ressalvados os casos de absolvição, no processo criminal, quando comprovada a inexistência do fato ilícito, ou a inocorrência de autoria.
+6. Sobre o tema, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR. AUDITOR DA RECEITA FEDERAL. DEMISSÃO. ART. 132, IV, DA LEI N. 8.212/90. INDEPENDÊNCIA DAS INSTÂNCIAS PENAL E ADMINISTRATIVA. VINCULAÇÃO APENAS NO CASO DE SENTENÇA PENAL ABSOLUTÓRIA COM BASE EM PROVA DA INEXISTÊNCIA DO CRIME OU DA NEGATIVA DE AUTORIA. INDEPENDÊNCIA ENTRE DECISÃO QUE RECONHECE A INEXIGIBILIDADE DE TRIBUTO E A QUE AFIRMA A OCORRÊNCIA DE FALTA FUNCIONAL. CONTROLE JURISDICIONAL DO PROCESSO ADMINISTRATIVO DISCIPLINAR. EXAME DA REGULARIDADE DO PROCEDIMENTO E DA LEGALIDADE DO ATO. IMPOSSIBILIDADE DE INCURSÃO DO MÉRITO DO ATO ADMINISTRATIVO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. ORDEM DENEGADA.
+1. Mandado de segurança contra ato do Ministro de Estado da Fazenda, que aplicou a pena de demissão a Auditor da Receita Federal, nos termos do art. 132, IV, da Lei n. 8.112/90.
+2. O impetrante sustenta violação a seu direito líquido e certo por: a. haver sido absolvido na esfera criminal; b. haver sido reconhecida administrativamente a inexigibilidade do tributo discutido em processo administrativo fiscal; c. não haver agido com dolo.
+3. As instâncias penal e administrativa são independentes, sendo que a única vinculação admitida ocorre quando, na seara criminal, restar provada a inexistência do fato ou a negativa de autoria. Hipótese em que o impetrante foi absolvido por falta de dolo de lesar o Sistema Financeiro Nacional (art. 22, parágrafo único, da Lei 7492/86) ao remeter divisas ao exterior, o que não é incompatível com sua condenação pela infração disciplinar consistente em amealhar patrimônio a descoberto quando do exercício das funções de Auditor da Receita Federal (art. 132, IV da Lei n. 8.112/90, combinado com art. art. 9º, VII da Lei 8429/92). Precedentes.
+4. Decisão administrativa acerca da inexigibilidade de tributo em virtude de remessa de divisas para o exterior que não vincula a decisão administrativo-disciplinar acerca da falta funcional. Instâncias independentes.
+5. O controle do processo administrativo pelo Poder Judiciário deve restringir-se à verificação de vícios capazes de ensejar nulidade, sendo-lhe defeso adentrar no mérito administrativo, salvo patente infração a garantias processuais ou princípios da ordem jurídica. Precedentes.
+6. Segurança denegada (MS 20.556/DF, Rel. Min. BENEDITO GONÇALVES, DJe 1o.12.2016).
+
+MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGENTE DA POLÍCIA FEDERAL. DEMISSÃO. PROCESSO ADMINISTRATIVO DISCIPLINAR. ANULAÇÃO. COMISSÃO PERMANENTE DISCIPLINAR. RESPEITO AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL E DO JUIZ NATURAL. COMISSÃO DESIGNADA PELO SUPERINTENDENTE REGIONAL DO DEPARTAMENTO DE POLÍCIA FEDERAL. POSSIBILIDADE. LEGALIDADE. INDEFERIMENTO MOTIVADO DE DILIGÊNCIAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DO PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. IMPROBIDADE ADMINISTRATIVA. PENALIDADE DE DEMISSÃO. DESNECESSIDADE DE AÇÃO JUDICIAL. INDEPENDÊNCIA DAS ESFERAS ADMINISTRATIVA, PENAL E CIVIL.
+(..).
+8. É assente no Superior Tribunal de Justiça o entendimento de que a infração disciplinar que configura ato de improbidade acarreta demissão, independentemente de ação judicial prévia, consequência direta da independência das esferas administrativa, civil e penal.
+9. A decisão da autoridade julgadora, fundada no lastro probatório constante dos autos do processo administrativo disciplinar, mostra-se em consonância com os princípios legais e constitucionais, inexistindo qualquer nulidade.
+10. Segurança denegada (MS 14.968/DF, Rel. Min. SEBASTIÃO REIS JÚNIOR, DJe 25.3.2014).
+7. Ademais, conforme salientado pelo ilustre membro do MPF, não se faz necessário exaurir todas as etapas do processo penal para a instituição do Conselho de Justificação, até porque há situações submetidas ao colegiado administrativo que sequer configuram infração penal.
+8. Ante o exposto, nega-se seguimento ao Recurso Ordinário do Particular.
+9. Publique-se.
+10. Intimações necessárias.
