@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, objetivando a reforma do acórdão assim ementado:
+RECURSO - Agravo de instrumento tirado contra decisão que, diante do não recolhimento do porte de remessa e de retorno, julga deserta a apelação interposta pelo INSS - Cabimento da exigência - Imposição da Lei Estadual nº 11.608/03 - Sentença de procedência sujeita, contudo, ao reexame necessário - Súmula nº 490 do STJ - Recurso parcialmente provido (fl. 50, e-STJ).
+Opostos Embargos de Declaração (fls. 57-63, e-STJ), estes foram rejeitados (fls. 67-69, e-STJ).
+Nas razões do Recurso Especial (fls. 88-92, e-STJ), a parte recorrente sustenta violação dos arts. 27 e 535 do CPC/1973. Alega negativa de prestação jurisdicional, bem como defende que "o INSS, ora recorrente, possui as mesmas prerrogativas e privilégios assegurados à Fazenda Pública, consoante o disposto no art. 8º, caput, da Lei n.º 8.620/93, deve recolher o porte de remessa e retorno apenas ao final da demanda, se vencido" (fl. 91, e-STJ).
+Sem contrarrazões (fl. 94, e-STJ), a Presidência da Seção de Direito Público determinou a remessa dos autos ao órgão julgador da Corte para eventual Juízo de retratação, consoante previsto no art. 1.030, inciso II, do CPC/2015.
+A Turma Julgadora manteve o entendimento anteriormente adotado pelos mesmos fundamentos (fls. 102-104, e-STJ), dando ensejo ao Juízo positivo de admissibilidade (fls. 110-111, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste gabinete em 11 de março de 2019.
+O Tribunal de origem consignou:
+Tendo em vista, pois, que o pagamento do porte de remessa e retorno é devido pela autarquia federal e que esta não o efetuou em momento oportuno, o apelo havia mesmo de ser julgado deserto(..)
+O Supremo Tribunal Federal, ao julgar o RE 594.116/SP, submetido ao rito da repercussão geral (Tema 135), fixou a seguinte tese: "aplica-se o § 1º do art. 511 do Código de Processo Civil para dispensa de porte de remessa e retorno ao exonerar o seu respectivo recolhimento por parte do INSS". Transcrevo a ementa do julgado:
+RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. DIREITO PROCESSUAL CIVIL. TAXA JUDICIÁRIA. PREPARO RECURSAL. PORTE DE REMESSA E RETORNO. ISENÇÃO. INSS. JUSTIÇA ESTADUAL.
+1. A despesa com porte de remessa e retorno não se enquadra no conceito de taxa judiciária, uma vez que as custas dos serviços forenses se dividem em taxa judiciária e custas em sentido estrito. Precedente: AI-ED 309.883, de relatoria do Ministro Moreira Alves, Primeira Turma, DJ 14.06.2002.
+2. O porte de remessa e retorno é típica despesa de um serviço postal, prestado por empresa pública monopolística e, assim, remunerado mediante tarifas ou preço público. Precedente: AI-QO 351.360, de relatoria do Ministro Sepúlveda Pertence, Primeira Turma, DJ 07.06.2002.
+3. O art. 511 do Código de Processo Civil dispensa o recolhimento dessa despesa processual por parte do INSS, pois se trata de norma válida editada pela União, a quem compete dispor sobre as receitas públicas oriundas da prestação do serviço público postal.
+4. A lei estadual, ora impugnada, apenas reproduziu o entendimento esposado no próprio CPC de que as despesas com o porte de remessa e retorno não se incluem no gênero taxa judiciária, de modo que não há vício de inconstitucionalidade no particular.
+5. Verifica-se que o art. 2º, parágrafo único, II, in fine, da Lei paulista 11.608/2003, é inconstitucional, uma vez que o Conselho Superior da Magistratura, como órgão de nível estadual, não possui competência para tratar das despesas com o porte de remessa e retorno. Declaração incidental de inconstitucionalidade da expressão "cujo valor será estabelecido por ato do Conselho Superior da Magistratura".
+6. Recurso extraordinário a que se dá provimento, para cassar o acórdão recorrido e determinar o processamento da apelação no Tribunal de origem. (RE 594.116/SP,Rel. Min. Edson Fachin, Plenário, DJE de 5.4.2016).
+No enfrentamento da matéria, a Segunda Turma do STJ segue o posicionamento do STF.
+A propósito:
+PROCESSUAL CIVIL. INSS. ISENÇÃO DO PORTE DE REMESSA E DE RETORNO.
+I - O Supremo Tribunal Federal, ao julgar o RE 594.116/SP, submetido ao rito da repercussão geral (Tema 135), fixou a tese de que "aplica-se o § 1º do art. 511 do Código de Processo Civil para dispensa de porte de remessa e retorno ao exonerar o seu respectivo recolhimento por parte do INSS". (RE 594.116/SP, Plenário, Rel. Min. Edson Fachin, publicado no DJE de 05/04/2016).
+II - Recurso Especial provido. (REsp 1710109/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe 14.5.2018).
+PROCESSUAL CIVIL. INSS. ISENÇÃO DO PORTE DE REMESSA E DE RETORNO.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. O Supremo Tribunal Federal, ao julgar o RE 594.116/SP, submetido ao rito da repercussão geral (Tema 135), fixou a tese de que "aplica-se o § 1º do art. 511 do Código de Processo Civil para dispensa de porte de remessa e retorno ao exonerar o seu respectivo recolhimento por parte do INSS". (RE 594.116/SP, Plenário, Rel. Min. Edson Fachin, publicado no DJE de 05/04/2016).
+3. Recurso Especial provido. (REsp 1606886/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 11.10.2016).
+Ocorre que a matéria versada foi submetida a julgamento no rito dos recursos repetitivos (REsp 1.761.618/SP; REsp 1.762.577/SP; REsp 1.761.119/SP, que cuidam do tema 1001/STJ: "Exigibilidade, ou não, do prévio pagamento de porte de remessa e de retorno pelo Instituto Nacional do Seguro Social - INSS, frente ao disposto no art. 27 do revogado CPC/1973 (art. 91 do CPC/2015), nos casos de recursos dirigidos aos Tribunais de Justiça").
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que enseje às instâncias de origem o juízo de retratação na forma dos artigos 1.039 a 1.041 do CPC/2015.
+Nessa linha:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1º-F DA LEI 9.494/1997, COM A REDAÇÃO DADA PELA LEI 11.960/2009. REPERCUSSÃO GERAL RECONHECIDA. MATÉRIA AFETADA PELA SISTEMÁTICA DOS RECURSOS REPETITIVOS.  SOBRESTAMENTO DO RECURSO ESPECIAL COM DEVOLUÇÃO À CORTE DE ORIGEM PARA EVENTUAL E OPORTUNO JUÍZO DE CONFORMAÇÃO. POSSIBILIDADE.
+1. A questão jurídica referente à aplicabilidade do art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, em relação às condenações impostas à Fazenda Pública, independentemente de sua natureza, para fins de atualização monetária, remuneração do capital e compensação da mora teve repercussão geral reconhecida pelo Supremo Tribunal Federal (Tema 810) e encontra-se afetada no Superior Tribunal de Justiça, sob a sistemática dos recursos repetitivos (Tema 905).
+2. Encontrando-se a matéria com repercussão geral reconhecida, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e esta Corte Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015. Precedente: AgInt no AgInt no REsp 1.603.061/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/6/2017.
+3. Somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado, em sua totalidade, a este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+4. De acordo com o entendimento do STJ, qualquer irresignação que tenha por objeto matéria tratada em recurso representativo da controvérsia deve ser devolvida aos Tribunais de origem para que exerça a competência que lhes foi atribuída pela Lei 11.672/2008.
+5. É irrecorrível ato deste Tribunal Superior que determina o sobrestamento de recursos a fim de se aguardar o julgamento do recurso representativo de controvérsia, já que desprovido de caráter decisório.
+6. Agravo interno a que se nega provimento.(AgInt no REsp 1.686.774/PE, Rel. Min. Og Fernandes, Segunda Turma, DJe 26.2.2018).
+No mesmo sentido, recentes decisões monocráticas: EDcl no REsp 1.764.797/PR, Rel. Min. Francisco Falcão, DJe 29.11.2018; TutPrv no REsp 1.737.903/PR, Rel. Min. Benedito Gonçalves, DJe 19.11.2018.
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos 1.039 a 1041 do CPC/2015, após a publicação do acórdão dos respectivos recursos excepcionais representativos da controvérsia:
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
