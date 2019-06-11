@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do respectivo Estado, que deu parcial provimento ao recurso defensivo e reconheceu a tentativa no delito de roubo.
+O recorrente alega violação aos arts. 157, caput e 14, I, ambos do Código Penal. Argumenta, em síntese, que a consumação do crime de roubo prescinde da saída do objeto da esfera de vigilância da vítima, pois o crime em tela se consuma no momento em que o agente se torna possuidor da res furtiva, ainda que não obtenha a posse pacífica do bem.
+Requer o provimento do recurso especial para que se reconheça a consumação do crime de roubo.
+Contrarrazões apresentadas (e-STJ, fls. 357-618).
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ, fls. 676-679).
+É o relatório.
+Decido.
+Inicialmente, faz-se necessário observar as razões que levaram o Tribunal local a concluir pela incidência da tentativa (art. 14, II, do CP), na hipótese dos autos:
+"Registro que, para alguns, a consumação do roubo se dá quando o agente passa a possuir a res de forma mansa e pacífica, mesmo que por breve tempo e independentemente de que esta tenha saído da esfera de vigilância da vítima; outros admitem que o momento consumativo se dê com a mera posse do bem, mesmo que por breve momento, sendo despiciendo que saia das vistas do lesado.
+Há ainda entendimento dos Tribunais Superiores, os quais sustentam que o crime de roubo se consuma com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada (Súmula 582).
+Filio-me, entretanto, à corrente que entende que o crime de roubo se consuma quando o agente exerce a posse sem vigilância da coisa, mesmo que por curto espaço de tempo.
+Houve o conatus, e o iter criminis foi percorrido quase que totalmente, uma vez que houve a grave ameaça, a subtração e o início da fuga.
+Somente após tudo isto houve a detenção dos acusados e a recuperação integral do bem subtraído e, por tais razões, entendo que a pena deva sofrer uma diminuição de 1/3 (um terço)." (e-STJ, fls. 314-315).
+Nada obstante os judiciosos fundamentos apresentados pela Corte de origem, advirta-se que, ao decidir conforme o excerto acima transcrito, o acórdão recorrido divergiu da jurisprudência assentada no âmbito deste Superior Tribunal de Justiça.
+A propósito, destaque-se que a já sedimentada jurisprudência da Terceira Seção consagrou-se no julgamento do Recurso Especial n. 1.499.050/RJ, representativo da controvérsia, de relatoria do Ministro Rogerio Schietti Cruz, oportunidade em que se confirmou-se a tese de que se consuma "o crime de roubo com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada", cujo entendimento se aplica ao crime de furto, mutatis mutandis:
+"RECURSO ESPECIAL. PROCESSAMENTO SOB O RITO DO ART. 543-C DO CÓDIGO DE PROCESSO CIVIL. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. ROUBO. MOMENTO CONSUMATIVO. POSSE MANSA E PACÍFICA DA RES FURTIVA.
+DESNECESSIDADE. RECURSO PROVIDO.
+1. Recurso Especial processado sob o regime previsto no art. 543-C, § 2º, do CPC, c/c o art. 3º do CPP, e na Resolução n. 8/2008 do STJ. TESE: Consuma-se o crime de roubo com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada.
+2. A jurisprudência pacífica desta Corte Superior e do Supremo Tribunal Federal é de que o crime de roubo se consuma no momento em que o agente se torna possuidor da coisa subtraída, mediante violência ou grave ameaça, ainda que haja imediata perseguição e prisão, sendo prescindível que o objeto subtraído saia da esfera de vigilância da vítima. Jurisprudência do STF (evolução).
+3. Recurso especial representativo de controvérsia provido para, reconhecendo que a consumação do crime de roubo independe da posse mansa e pacífica da res furtiva, restabelecer a pena e o regime prisional fixados na sentença".
+(REsp 1.499.050/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 14/10/2015, DJe 09/11/2015, grifou-se).
+Nesse mesmo sentido, os precedentes:
+"RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO. MOMENTO CONSUMATIVO. POSSE MANSA E PACÍFICA DA RES FURTIVA. DESNECESSIDADE. RECURSO PROVIDO.
+1. Ainda que ocorra a perseguição imediata do agente e se recupere a res, tem-se como consumado o delito de furto, com a anterior retirada da posse ou da propriedade do bem à vítima. Doutrina (evolução).
+2. A jurisprudência pacífica do Superior Tribunal de Justiça e do Supremo Tribunal Federal é de que o crime de furto se consuma no momento em que o agente se torna possuidor da coisa subtraída, ainda que haja imediata perseguição e prisão, sendo prescindível que o objeto subtraído saia da esfera de vigilância da vítima. Jurisprudência do STF (evolução).
+3. Recurso especial provido a fim de cassar a decisão proferida pelo Tribunal de Justiça do Estado do Rio de Janeiro para restabelecer a sentença penal condenatória proferida em primeiro grau."
+(REsp 1.464.153/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/11/2014, DJe 03/02/2015, grifou-se).
+" ..  4. Prevalece nesta Corte a orientação de que o delito de roubo, assim como o de furto, fica consumado com a simples posse, ainda que breve, da coisa alheia, mesmo que haja imediata perseguição do agente, não sendo necessário que o objeto do crime saia da esfera de vigilância da vítima. Precedentes.
+5. Agravo regimental não provido."
+(AgRg no AREsp 483.433/GO, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, julgado em 07/08/2014, DJe 14/08/2014, grifou-se),
+Desse modo, por estar o acórdão recorrido em dissonância com o entendimento jurisprudencial desta Corte, faz-se mister sua reforma, tendo em vista que se vislumbra a efetiva consumação do crime de roubo e não da respectiva tentativa.
+Passo, portanto, à nova dosimetria da pena.
+Quanto ao réu [NOME]:
+Na primeira fase, remanesce a pena-base, no mínimo legal, ou seja, em 4 anos de reclusão e 10 dias-multa. Na segunda fase, reconhecida a agravante da reincidência, deve ser aplicado o acréscimo de 1/6, acomodando-se a pena em 4 anos e 8 meses de reclusão e 11 (onze) dias-multa. Por força da majorante, concurso de agentes, a sanção é aumentada em 1/3 (um terço), passando, definitivamente, para 6 anos, 2 meses e 20 dias de reclusão e 14 dias-multa. Mantém-se o regime inicial fechado.
+Quanto ao réu [NOME]:
+Na primeira fase, remanesce a pena-base, no mínimo legal, ou seja, em 4 anos de reclusão e 10 dias-multa. Na segunda fase, embora reconhecida a confissão espontânea, a sanção não será reduzida, por força do entendimento consagrado na Súmula 231/STJ. Na terceira fase, remanesce a majorante do art. 157, § 2º, inciso II, do Código Penal, com o aumento de 1/3, elevando a reprimenda a 5 anos e 4 meses de reclusão e 13 dias-multa. O regime inicial para cumprimento de pena é o semiaberto, conforme o art. 33, § 2º, "b", do CP.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial para reconhecer o roubo consumado e, assim, fixar a pena do réu [NOME] em 6 anos, 2 meses e 20 dias de reclusão e 14 dias-multa, no regime inicial fechado e do réu [NOME] em 5 anos e 4 meses de reclusão e 13 dias-multa, em regime semiaberto.
+Publique-se. Intimem-se.
