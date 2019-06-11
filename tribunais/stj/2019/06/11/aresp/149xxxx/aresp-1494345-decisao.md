@@ -1,0 +1,37 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ADICIONAL DE TEMPO DE SERVIÇO. REVISÃO DE ATO ADMINISTRATIVO INCONSTITUCIONAL. NÃO OCORRÊNCIA DE DECADÊNCIA/PRESCRIÇÃO. FUNDAMENTO CONSTITUCIONAL DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚM. 126/STJ. AGRAVO CONHECIDO PARA NÃO SE CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] em face de decisão do Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso contra acórdão assim ementado (e-STJ fl. 366):
+MANDADO DE SEGURANÇA - SERVIDOR PÚBLICO MUNICIPAL INATIVO - CAMPINAS - ADICIONAL POR TEMPO DE SERVIÇO - ALTERAÇÃO DA SISTEMÁTICA DE CÁLCULO PARA ADEQUÁ-LA À CONSTITUIÇÃO FEDERAL - ADMISSIBILIDADE - INVOCAÇÃO DE ATO JURÍDICO PERFEITO OU DIREITO ADQUIRIDO DESCABIDA, ANTE OS TERMOS EXPRESSOS DO ART. 17 DO ADCT - ORDEM DENEGADA - SENTENÇA CONFIRMADA.
+No especial, o recorrente sustenta violação do art. 54 da Lei n. 9.784/1999 e do art. 1º do Dec.-Lei n. 20.910/1932. Assevera que não a revisão do ato de concessão de adicional por tempo de serviço é indevida no caso dos autos em razão da decadência da autotutela administrativa. Aduz, em síntese, que o transcurso do prazo de cinco anos, tanto para a decadência quanto para a prescrição, é incontestável.
+Apresentadas contrarrazões.
+A decisão agravada negou seguimento ao especial sob a compreensão de que não cabe ao STJ, em recurso especial, exame de violação de preceitos constitucionais e de que não é possível o exame de provas no caso dos autos.
+Nas razões do agravo, o recorrente sustenta que as teses recursais atendem aos critérios de juízo de admissibilidade do recurso especial.
+Ofertada contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+A pretensão não merece acolhida.
+Ao decidir a questão, o Tribunal a quo declarou a possibilidade de revisão do adicional por tempo de serviço por não haver decadência administrativa para a revisão de ato administrativo manifestamente inconstitucional.
+A propósito, ressaltou o acórdão recorrido:
+E como registrou o Desembargador Paulo Galizia no julgamento de caso similar envolvendo a própria CAMPREV na Apelação nº 1021264-20.2014.8.26.0114, "No que concerne à alegação de prescrição e decadência administrativa, o Superior Tribunal de Justiça entende que, em se tratando de ato administrativo tido por inconstitucional, sequer há de se falar em prazo decadencial para a administração revê-lo, quanto mais cogitar-se da prescrição administrativa, uma vez que, em hipótese alguma, deve ser tolerada a situação de infringência continuada das normas constitucionais."
+Isto porque a Suprema Corte sempre tem reiterado que ato manifestamente inconstitucional não está sujeito, para a necessária revisão, à decadência administrativa, de que é exemplo o julgamento proferido no Ag. Reg. em Mandado de Segurança 28.273-DF, relator Ministro Ricardo Lewandowski.
+Ante este fundamento exclusivamente constitucional do acórdão recorrido, não merece guarida o apelo especial, mormente porque não compete nesta via processual analisar a violação de norma da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Não obstante tal fundamentação, nem sequer foi apresentado recurso extraordinário em face do acórdão recorrido. Assim, o exame da questão é obstado pelo disposto na Súmula 126/STJ: "É inadmissível o recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. IMUNIDADE TRIBUTÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO COM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126 DO STJ.
+1. A matéria pertinente aos arts. 121 e 128 do CTN não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão.
+Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+2. O Tribunal de origem, ao decidir a questão relativa à imunidade tributária, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."). Nesse mesmo sentido: AgRg no AREsp 126036/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 7/12/2012;
+AgRg no AREsp 206.733/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 5/12/2012.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 876.030/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/06/2016, DJe 27/06/2016)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS. OMISSÃO DO TRIBUNAL DE ORIGEM CARACTERIZADA. VIOLAÇÃO AO ART. 535 DO CPC. PROVIMENTO DO APELO NOBRE PARA SE DETERMINAR A MANIFESTAÇÃO DO TRIBUNAL DE ORIGEM SOBRE QUESTÃO RELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. ÓBICE DA SÚMULA 126/STJ. IMPERTINÊNCIA.
+1. O Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação que se mostra relevante para o deslinde da controvérsia, em franca violação ao art. 535 do CPC.
+2. No caso, a despeito da oposição dos competentes aclaratórios, a instância ordinária deixou de emitir juízo acerca da tese lançada pelo ente distrital de que a acumulação ilegal de cargos públicos, expressamente vedada pelo art. 37, XVI, da Constituição Federal, caracteriza uma situação que se protrai no tempo, motivo pelo qual é passível de ser investigada pela Administração a qualquer tempo 3.
+Deve ser afastada a pretendida aplicação da Súmula 126/STJ, "uma vez que o recurso foi provido por se ter acolhido a preliminar de nulidade no julgamento dos embargos declaratórios, reconhecendo-se a ofensa ao art. 535 do CPC, matéria que envolve exclusivamente a aplicação de lei federal." (EDcl no REsp 252.732/PA, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 01/03/2001).
+4. Ademais, em que pese a noticiada ausência de interposição de agravo perante o STF (art. 544 do CPC/73) pelo Distrito Federal, na espécie, revela-se desinfluente, eis que o Tribunal local, ao apreciar o tema relativo à decadência, invocou fundamentação normativa essencialmente infraconstitucional.
+5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1535589/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/06/2016, DJe 22/06/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
