@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DIEGO BARBOSA SANTIAGO, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, que restou assim ementado:
+"HABEAS CORPUS. PACIENTE PRESO PREVENTIVAMENTE PELA SUPOSTA PRÁTICA DO CRIME DE ESTELIONATO TENTADO, DELITO DESCRITO NO ARTIGO 171, COMBINADO COM ARTIGO 14, INCISO II, AMBOS DO CÓDIGO PENAL. PEDIDO DE REVOGAÇÃO DA PRISÃO PREVENTIVA POR AUSÊNCIA DOS REQUISITOS LEGAIS, BEM COMO DE FUNDAMENTAÇÃO IDÔNEA QUE NÃO MERECE PROSPERAR. PACIENTE PRESO EM FLAGRANTE QUANDO TENTAVA EMPREENDER FUGA, SENDO CAPTURADO POR POLICIAIS, O QUE SÓ FOI POSSÍVEL PORQUE O RESPONSÁVEL PELO ESTABELECIMENTO COMERCIAL O PERSEGUIU, PELO FATO DE TER TENTADO COMPRAR R$ 22.400,00 (VINTE E DOIS MIL, QUATROCENTOS E QUARENTA REIAS) EM CESTAS BÁSICAS, [NOME]. FOI DECRETADA A SUA PRISÃO PREVENTIVA. INFERE-SE DA SIMPLES LEITURA DAS DECISÕES QUE ESTAS APRESENTAM FUNDAMENTAÇÃO IDÔNEA E CONCRETA, E ATENDEM AO COMANDO DO ARTIGO 93, INCISO IX, DA CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL. HÁ PROVA DA EXISTÊNCIA DO CRIME E INDÍCIOS SUFICIENTES DE AUTORIA EVIDENCIADOS PELA SITUAÇÃO DE FLAGRÂNCIA, DO QUE DECORRE A NECESSIDADE DE SE GARANTIR A ORDEM PÚBLICA, DIANTE DA GRAVIDADE CONCRETA DA CONDUTA REVELADA PELAS CIRCUNSTÂNCIAS DA PRISÃO, A FIM DE SE EVITAR A REITERAÇÃO DELITIVA. A INVOCAÇÃO DO PRINCÍPIO DA HOMOGENEIDADE É INCOMPATÍVEL COM A NATUREZA DA AÇÃO DE HABEAS CORPUS, EM VISTA DA ANTECIPADA DISCUSSÃO DO MÉRITO DA CAUSA, QUE SOMENTE SERÁ POSSÍVEL NO MOMENTO DECISÓRIO, APÓS REGULAR INSTRUÇÃO PROBATÓRIA, QUANDO O MAGISTRADO SINGULAR DISPORÁ DE ELEMENTOS SUFICIENTES QUE LHE PERMITAM VERIFICAR SOBRE A FIXAÇÃO DE REGIME PRISIONAL. ORDEM DENEGADA" (fls. 60-61).
+O impetrante alega que o paciente estaria sofrendo constrangimento ilegal devido a ausência de fundamentação concreta e idônea para a segregação cautelar;
+Requer o impetrante, seja concedida a ordem a fim de que o paciente seja colocado em liberdade provisória, expedindo-se o competente alvará de soltura.
+Pedido liminar indeferido às fls. 83-85.
+Informações prestadas às fls. 91-117.
+O Ministério Público Federal manifestou-se às fls. 80-82 pela prejudicialidade do writ, em parecer assim ementado:
+"PENAL. HABEAS CORPUS. CRIME DE ESTELIONATO TENTADO. INFORMAÇÕES DE QUE FOI EXPEDIDA SENTENÇA ABSOLUTÓRIA E ALVARÁ DE SOLTURA EM FAVOR DO PACIENTE. PERDA DO OBJETO. PARECER PELO NÃO CONHECIMENTO DO WRIT".
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Isto porque verifico nas informações prestadas pelo Tribunal de origem à fl. 93 que foi proferida sentença absolutória em favor do paciente e determinada a expedição de alvará de soltura.
+Sob tal contexto, verifico que o presente writ perdeu seu objeto.
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, julgo o presente habeas corpus prejudicado.
+P. e I.
