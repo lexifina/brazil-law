@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA EM FASE DE CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO. AÇÃO CAUTELAR DE PROTESTO. INTERRUPÇÃO. LEGITIMIDADE DO MINISTÉRIO PÚBLICO. SÚMULA 568 DO STJ.
+1. Ação civil pública em fase de cumprimento de sentença.
+2. O Ministério Público possui legitimidade para o ajuizamento da medida cautelar de protesto interruptivo do prazo prescricional, que visa a garantia dos direitos dos diversos poupadores lesados pela conduta de instituição financeira. Precedentes.
+3. Recurso especial conhecido e provido.
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Ação: civil pública ajuizada pelo Instituto Brasileiro de Defesa do Consumidor - IDEC, julgada procedente para condenar a instituição bancária a pagar as diferenças de percentual dos rendimentos da caderneta de poupança, atualmente na fase de cumprimento individual da sentença coletiva.
+Sentença: acolheu a prescrição e julgou extinto o processo.
+Acórdão: negou provimento à apelação interposta pelo recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO COLETIVA DE CONSUMO. PEDIDO INDIVIDUAL DE CUMPRIMENTO DE SENTENÇA. POUPANÇA.
+DA ALEGADA INTEMPESTIVIDADE DA IMPUGNAÇÃO. CANCELAMENTO DISTRIBUIÇÃO DA IMPUGNAÇÃO. INADEQUAÇÃO PROCEDIMENTAL. NÃO INDICACAÇÃO DO VALOR INCONTROVERSO. REJEITADO. No caso em exame, a questão analisada na impugnação, prescrição, é matéria de ordem pública, de modo que poderia ser reconhecida de ofício pelo juiz.
+PRESCRIÇÃO. O beneficiário da ação coletiva tem o prazo de cinco anos para ajuizar a execução individual, contados a partir do trânsito em julgado da sentença. A Ação Civil Pública promovida pelo IDEC contra o Banco do Brasil transitou em julgado em 27.10.2009. Assim, para a execução, contados os cinco anos, o prazo terminou em 27.10.2014.
+INTERRUPÇÃO DA PRESCRIÇÃO. CUMPRIMENTO DE SENTENÇA INTENTADO NO JUIZADO ESPECIAL CÍVEL. NÃO CONFIGURADA. Ao contrário do que afirma a parte recorrente, a ação anterior proposta no Juizado Especial Cível não se tratou de cumprimento de sentença coletiva, mas sim, de ação ordinária de cobrança (nº 137/3.11.0000520-4), a qual possui rito e pretensão diversa (formar título executivo individual e não executar um coletivo). Assim, não há que se falar em qualquer interrupção, sendo o marco do trânsito em julgado da ação coletiva que deve ser considerado para tanto, e não o ajuizamento da ação de cobrança.
+INTERRUPÇÃO DA PRESCRIÇÃO. MEDIDA CAUTELAR DE PROTESTO INTENTADA PELO MINISTÉRIO PÚBLICO. INOCORRÊNCIA. Em que pese o Ministério Público, a teor do art. 82, I, do CDC, seja parte legítima para propositura de ação coletiva na defesa de direitos individuais homogêneos, o titular do direito material é quem possui a legitimidade para a propositura da execução/cumprimento de sentença da ação coletiva e, consequentemente, legitimidade para propor a ação cautelar em relação a tais demandas. Destarte, a Medida Cautelar de Protesto ajuizada pelo Ministério Público do Distrito Federal e Territórios não possui o condão de interromper o prazo prescricional para o ajuizamento de cumprimento individual de sentença oriundo de ação coletiva.
+No caso, a parte exequente ingressou com o pedido individual de cumprimento da sentença coletiva após o decurso do prazo prescricional.
+APELAÇÃO CÍVEL DESPROVIDA. (e-STJ Fls. 136/137)
+Recurso especial: alega violação dos arts. 5º da Lei nº 7.347/85; 6º, VII, "c", da LC nº 75/93; 81, 82 e 83 do CDC, bem como dissídio jurisprudencial. Sustenta que a ação cautelar de protesto ajuizada pelo Ministério Público interrompe o prazo prescricional para a execução individual de sentença em ação coletiva que versa sobre a defesa dos direitos e interesses dos consumidores (poupadores individuais). Afirma que o Ministério Público é parte legítima para propor ação cautelar de protesto interruptivo do prazo prescricional.
+Relatado o processo, decide-se.
+Julgamento: aplicação do CPC/15
+- Da Súmula 568 do STJ
+Quanto à legitimidade do Ministério Público para o ajuizamento da medida cautelar de protesto interruptivo do prazo prescricional, esta Corte já decidiu que:
+i) a nova ordem constitucional erigiu um autêntico "concurso de ações" entre os instrumentos de tutela dos interesses transindividuais e, a fortiori, legitimou o Ministério Público para o manejo dos mesmos" (AgRg no Ag 1.249.132/SP, 1ª Turma, julgado em 24/08/2010, DJe 09/09/2010). Na esteira desse raciocínio, cita-se o REsp 986.272/RS, 4ª Turma, julgado em 20/09/2011, DJe 01/02/2012.
+ii) o Ministério Público possui legitimidade para o ajuizamento da medida cautelar de protesto interruptivo do prazo prescricional, que visa a garantia dos direitos dos diversos poupadores lesados pela conduta de instituição financeira. Precedentes: AgRg no Ag 1.249.132/SP, 1ª Turma, julgado em 24/08/2010, DJe 09/09/2010 e AgInt no REsp n. 1567398/RS, Quarta Turma, DJe 25/4/2018.
+Logo, o entendimento do Tribunal de origem está em desacordo com a jurisprudência do STJ.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, a fim de anular a sentença, e reconhecer a legitimidade do Ministério Público para a propositura da presente ação cautelar de protesto, bem como para afastar a prescrição, determinando o prosseguimento da ação, na esteira do devido processo legal.
+Deixo de majorar honorários advocatícios, nos termos do art. 85, § 11, do CPC/2015, em razão do provimento do apelo especial (EDcl no AgInt no REsp 1573573/RJ, Terceira Turma, DJe de 08/05/2017).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC/15.
+Publique-se. Intimem-se.
