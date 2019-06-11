@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal de origem - dentro do seu livre convencimento motivado - considerou que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades criminosas, notadamente ao tráfico de drogas, motivo pelo qual não há como reconhecer a incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor do réu.
+2. Agravo regimental não provido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+DOMINGOS FERREIRA MORATO interpõe agravo regimental contra decisão de minha relatoria, em que conheci do agravo, mas não conheci do recurso especial.
+O agravante reitera a sua compreensão de que estão preenchidos todos os requisitos necessários para a incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006. Salienta que "o pleito defensivo de redução da pena contou com a concordância do E. Procurador de Justiça que oficiou em Segundo Grau, Dr. [NOME], o qual se posicionou pela revisão do volume de pena" (fl. 830).
+Afirma, ainda, que a Juíza sentenciante incorreu no inadmissível bis in idem, porquanto sopesou a natureza e a quantidade de drogas apreendidas tanto na primeira fase da dosimetria, para fins de exasperação da pena-base, quanto na terceira, para negar a aplicação da referida minorante.
+Na sequência, reforça que não há provas concretas de que ele se dedica a atividades criminosas e, por fim, pondera que o tema trazido a debate não demanda o revolvimento de matéria fático-probatória.
+Requer a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja aplicada a minorante descrita no art. 33, § 4º, da Lei de Drogas e, por conseguinte, seja fixado regime inicial mais brando de cumprimento de pena e determinada a substituição da reprimenda privativa de liberdade por restritiva de direitos.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal de origem - dentro do seu livre convencimento motivado - considerou que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades criminosas, notadamente ao tráfico de drogas, motivo pelo qual não há como reconhecer a incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor do réu.
+2. Agravo regimental não provido.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pelo ora agravante, entendo que não lhe assiste razão.
+O Tribunal de origem assim fundamentou a impossibilidade de incidência da minorante prevista no § 4º do art. 33 da Lei de Drogas, in verbis (fls. 729-730):
+Ainda que não demonstrada a relação dos apelantes com o denominado crime organizado, facção com alguma denominação, não é menos certo que eles agiam de forma organizada entre eles. O empreendedorismo, tão destacado na atualidade, se faz presente a justificar que o redutor não seja aplicado a eles, que tinham no crime seu modo de vida.
+Com efeito, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06" (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+No caso, conforme visto, o Tribunal - dentro do seu livre convencimento motivado - considerou que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades criminosas, notadamente ao tráfico de drogas, motivo pelo qual entendo irretocável a conclusão da decisão recorrida de que não há como reconhecer a incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Ademais, conforme bem salientou o decisum ora agravado, para entender de modo diverso, afastando-se a conclusão de que o recorrente não se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada em recurso especial, a teor do enunciado na Súmula n. 7 do STJ.
+Ainda, registro que não há falar em bis in idem na dosimetria da pena, porquanto a Corte de origem, em nenhum momento, fez menção à quantidade de drogas apreendidas para concluir que o réu se dedica a atividades criminosas.
+À vista do exposto, nego provimento ao agravo regimental.
