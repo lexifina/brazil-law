@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JEFFERSON GIRELLI DE QUEIROZ (e-STJ fls. 938-941) contra decisão desta relatoria que, em juízo de reconsideração, deu parcial provimento ao recurso especial para afastar a valoração negativa da conduta social do agente, enquanto circunstância judicial vinculada à aplicação da pena-base (e-STJ fls. 925-932).
+A defesa sustenta a existência de omissão no decisum ora embargado.
+Aduz, em síntese, a necessidade de pronunciamento expresso acerca do motivo determinante para a redução de 1/2 (metade) em razão do reconhecimento da tentativa. Assevera que, conforme requerido, o correto seria aplicar a fração máxima prevista no parágrafo único do art. 14 do CP, uma vez que lhe são favoráveis todas as circunstâncias judiciais e porque a atenuante da confissão espontânea, embora reconhecida, não gerou reflexos no apenamento por força do enunciado da Súmula 231/STJ.
+Requer, ao final, seja suprida a omissão assinalada.
+É o relatório.
+Com razão o embargante.
+De fato, observa-se que tanto no recurso especial (e-STJ fl. 863) como no agravo regimental precedente à reconsideração implementada nesta instância especial (e-STJ fl. 916) a defesa postulou a aplicação da fração máxima prevista para o crime tentado, sem ter havido, contudo, expressa manifestação sobre o pleito na decisão embargada.
+Assim, cabível acolher a pretensão para sanar a omissão aventada.
+Nada obstante, não é possível o encampar a tese voltada à modificação no quantum da causa de diminuição em destaque.
+Isso porque, sobre o tema, assentou o acórdão recorrido o seguinte entendimento (e-STJ fl. 832):
+Finalmente, não há de se falar em modificação da fração correspondente à minorante da tentativa, na medida em que essa obedece ao iter criminis percorrido, que no caso foi intermediário - já que a vitima, embora não tenha corrido risco de vida, chegou a ser atingida, não se tratado de crime incruento.
+Com efeito, "é assente por esta Corte que a fração da causa de diminuição de pena da tentativa, encartada no art. 14, inciso II, parágrafo único, do Código Penal, será modulada pelo julgador de forma inversamente proporcional à aproximação da consumação delitiva. Portanto, quanto maior o iter criminis percorrido pelo Agente, cujo resultado objetivado apenas não se consumou por circunstâncias alheias à sua vontade, menor será o patamar de diminuição da pena incidente"(AgRg no AREsp 1318078/TO, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 21/03/2019, DJe 09/04/2019).
+No caso concreto, consoante assinalado pela instância ordinária, o iter criminis percorrido pelo embargante alcançou grau médio, pois, apesar de não ter ocasionado risco de vida, o disparo de arma de fogo efetuado atingiu o corpo da vítima, causando-lhe lesão no antebraço esquerdo. A circunstância justifica a incidência do redutor no patamar intermediário, assim como realizado pelo Juízo de primeiro grau e mantido pelo Tribunal de origem.
+Por outro lado, a alteração do julgado recorrido e o acolhimento da pretensão voltada à incidência da fração máxima de 2/3 (dois terços) previsto no parágrafo único do art. 14 do CP ensejaria o revolvimento de matéria fático-probatória, o que, em sede de recurso especial, constitui medida vedada pelo óbice da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 619 do CPP, acolho os embargos de declaração para sanar a omissão assinalada pela defesa, porém sem importar em modificação do julgado.
+Publique-se. Intimem-se.
