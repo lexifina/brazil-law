@@ -1,0 +1,43 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO POR ABANDONO OU POR FALTA DE INTERESSE. INTIMAÇÃO PESSOAL. NECESSIDADE. SÚMULA 83 DO STJ.
+1. A extinção do processo por abandono ou por falta de interesse depende de prévia intimação pessoal do autor para suprir a falta em quarenta e oito horas. Precedentes.
+2. Caso concreto em que, conforme o arcabouço fático delineado pela Corte de origem, a intimação não foi realizada pessoalmente, mas via correio, motivo pelo qual não merece reforma o aresto vergastado.
+3. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado do Pará, assim ementado:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. DECISÃO MONOCRÁTICA QUE ANULOU A SENTENÇA, QUE DECIDIU PELA EXTINÇÃO DO FEITO NOS TERMOS DO INCISO II, DO ART. 267 DO CPC/73. O DECISUM VEIO A SER ANULADO, EIS QUE NÃO FOI OBSERVADA A REGRA DO § 1º DO ARTIGO 267 DO CPC/73, QUE ORDENA A INTIMAÇÃO PESSOAL DA PARTE PARA MANIFESTAR SEU INTERESSE DE AGIR NO PROSSEGUIMENTO DO FEITO, O QUE NÃO OCORREU NO PRESENTE CASO. AVISO DE RECEBIMENTO (AR), CONSTANDO QUE O MESMO FOI RECEBIDO POR [NOME] [NOME] [NOME], PESSOA DESCONHECIDA DA AUTORA MARILDA DA COSTA SILVA, QUE SERIA A DESTINATÁRIA DO AR. O STJ TEM ENTENDIMENTO UNÂNIME DE QUE ANTES DE SE EXTINGUIR O PROCESSO POR ABANDONO, O AUTOR DEVE SER INTIMADO PESSOALMENTE PARA DAR PROSSEGUIMENTO AO FEITO, NO PRAZO DE 48H (QUARENTA E OITO HORAS), NOS TERMOS DO ART. 267, §1º DO CPC/73. NÃO OCORRENDO A INTIMAÇÃO PESSOAL, MAS SIM POR CARTA, COM AVISO DE RECEBIMENTO E NO DIÁRIO OFICIAL, NÃO HÁ COMO FALAR EM ABANDONO DA CAUSA, PORQUANTO DESCUMPRIDO PRECEITO LEGAL (INTIMAÇÃO PESSOAL), PREVISTO NO ART. 267, §1º, DO CPC/73 MERECENDO, PORTANTO, REFORMA A SENTENÇA QUE EXTINGUE O FEITO, SEM RESOLUÇÃO DE MÉRITO. NÃO SERR OFERECIDO RÉPLICA A CONTESTAÇÃO, APENAS ACARRETA A PRECLUSÃO QUANTO AOS FATOS ALEGADOS E DOCUMENTADOS PELO CONTESTANTE, NÃO SIGNIFICANDO DESÍDIA OU DESINTERESSE QUANTO AO DESLINDE DA CAUSA.
+RECURSO CONHECIDO, MAS DESPROVIDO.
+(fls. 414-415)
+O recorrente, nas razões do recurso especial, sustenta, em síntese, que a intimação foi "realizada no endereço indicado na exordial como sendo o endereço da autora, sendo totalmente irrelevante se a mesma recebeu pessoalmente ou não, eis que o AR fora direcionado para o endereço constante dos autos" (fl. 420), de modo que "não deve prevalecer o entendimento que favorece a anulação da decisão anterior pelo fato de não ter havido intimação pessoal, eis que a intimação fora realizada com base no artigo 238, parágrafo único do CPC de 1973 e 274, parágrafo único do novo CPC" (fl. 421).
+O recurso recebeu crivo positivo de admissibilidade na origem (fl. 430-431).
+É o relatório.
+DECIDO.
+2. Aduz a parte recorrente que a intimação foi "realizada no endereço indicado na exordial como sendo o endereço da autora, sendo totalmente irrelevante se a mesma recebeu pessoalmente ou não, eis que o AR fora direcionado para o endereço constante dos autos" (fl. 420), de modo que "não deve prevalecer o entendimento que favorece a anulação da decisão anterior pelo fato de não ter havido intimação pessoal, eis que a intimação fora realizada com base no artigo 238, parágrafo único do CPC de 1973 e 274, parágrafo único do novo CPC" (fl. 421).
+A Corte de origem, não obstante, consignou que na carta de intimação de despacho constava a determinação para que se intimasse o autor pessoalmente no prazo de 48 horas para se manifestar sobre a existência ou não de interesse no prosseguimento do feito sob pena de arquivamento, sendo certo que o Aviso de Recebimento (AR) foi recebido por pessoa diversa da autora.
+Desse modo, o Tribunal estadual reformou a decisão da magistrada de piso, pois, para que houvesse a extinção do processo sem julgamento de mérito por abandono da causa ou por desinteresse, seria indispensável a intimação pessoal do autor, verbis:
+O inconformismo do agravante não merece respaldo.
+Primeiramente, se observarmos o documento de fl. 300 (CARTA DE INTIMAÇÃO DE DESPACHO), veremos que que está explícito: INTIME-SE O AUTOR PESSOALMENTE (termo que inclusive está grifado), NO PRAZO DE 48 HORAS, PARA MANIFESTAR SE TEM INTERESSE NO PROSSEGUIMENTO DO FEITO, SOB PENA DE ARQUIVAMENTO.
+Pois bem, no Aviso de Recebimento (AR), consta que o mesmo foi recebido por [NOME], pessoa desconhecida da autora MARILDA DA COSTA SILVA, que seria a destinatária do AR.
+Ora, é notório que para que haja a extinção do processo sem julgamento do mérito, por abandono da causa ou desinteresse, faz-se necessário a intimação pessoal do autor para suprir a falta no prazo de 48 horas.
+O STJ tem entendimento unânime de que antes de se extinguir o processo por abandono, o autor deve ser intimado pessoalmente para dar prosseguimento ao feito, no prazo de 48h (quarenta e oito horas), nos termos do art. 267, §1º do CPC/73. Não ocorrendo a intimação pessoal, mas sim por carta, com aviso de recebimento e no diário oficial, não há como falar em abandono da causa, porquanto descumprido preceito legal (intimação pessoal), previsto no art. 267, §1º, do CPC/73 merecendo, portanto, reforma a sentença que extingue o feito, sem resolução de mérito.
+Nesse contexto, importa consignar que esta Corte Superior perfilha o entendimento de que a extinção do processo por abandono ou por falta de interesse depende de prévia intimação pessoal do autor para suprir a falta em quarenta e oito horas.
+A propósito:
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. APLICAÇÃO CORRETA DO DISPOSITIVO LEGAL.
+ ..
+2. Ao contrário do aludido pela recorrente, o Tribunal de origem fundamentou corretamente o decisum reprochado no art. 267, 1º, do CPC de 1973, que determinava a intimação pessoal da parte para suprir a falta em 48 horas, sob pena de o processo ser arquivado. Portanto, não há infringência ao art. 267, II e III, do CPC de 1973, porquanto a intimação da parte omissa era pré-requisito obrigatório à extinção do processo sem julgamento do mérito.
+3. Recurso Especial parcialmente conhecido, quando ao art. 267 do CPC de 1973 e, nessa extensão, não provido.
+(REsp 1790037/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/03/2019, DJe 23/04/2019)  g.n.
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO POPULAR. INÉRCIA DO AUTOR. EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DO MÉRITO. AUSÊNCIA DE INTIMAÇÃO DO AUTOR. ART. 267, § 1º, DO CPC/1973. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A jurisprudência do STJ firmou-se no sentido de que a extinção do processo por abandono da causa depende de prévia intimação pessoal do autor para suprir a falta em quarenta e oito horas, não importando se já foram feitas outras intimações anteriores por abandono.
+2. Tendo a Corte de origem afirmado que não houve intimação pessoal do agravado, seria necessário o reexame do conjunto fático-probatório dos autos para rever essa conclusão, o que é inviável na via eleita em razão do óbice da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1319780/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/09/2018, DJe 14/09/2018)  g.n.
+PROCESSO CIVIL. EXTINÇÃO DO PROCESSO POR MAIS DE TRINTA DIAS PELO ART. 267, III, § 1º, DO CPC. INTIMAÇÃO PESSOAL DA PARTE.
+NECESSIDADE. PRECEDENTES. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1.- Nos termos do art. 267, III, do CPC, o abandono da causa pelo autor pressupõe a demonstração inequívoca do ânimo de abandonar o processo exteriorizado pela inércia manifesto situação que, processualmente, apenas, se configura quando, intimado pessoalmente, permanece o autor silente quanto ao intento de prosseguir no feito, circunstância que não se revela na espécie dos autos, visto que não intimada pessoalmente a autora, não sendo possível presumir o desinteresse ante o fato de haver antes requerido a suspensão do processo para informar o endereço do réu. Precedentes do STJ.
+2.- Recurso Especial provido.
+(REsp 1137125/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 11/10/2011, DJe 27/10/2011)  g.n.
+No caso em tela, conforme o arcabouço fático delineado pela Corte de origem, a intimação não foi realizada pessoalmente, mas via correio, motivo pelo qual não merece reforma o aresto vergastado.
+Infere-se, portanto, que o acórdão recorrido está em consonância com o entendimento jurisprudencial da lavra desta Corte Superior. Logo, a manutenção do referido acórdão, no ponto, é medida que se impõe, mormente ante a incidência do verbete sumular de nº 83/STJ.
+3. Ante o exposto, com fulcro nos fundamentos acima aduzidos, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
