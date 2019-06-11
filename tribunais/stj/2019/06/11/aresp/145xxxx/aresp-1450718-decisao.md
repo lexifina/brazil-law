@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. RESPONSABILIDADE CIVIL. EXCLUDENTE DE RESPONSABILIDADE NÃO VERIFICADA. REVISÃO. SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por CAPA ENGENHARIA S.A . E OUTRA, contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. AÇÃO DECLARATÓRIA DE NULIDADE CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAL. IMÓVEL ADQUIRIDO NA PLANTA. ATRASO NA ENTREGA.
+MULTA CONTRATUAL. DANO MORAL NÃO CONFIGURADO. MERO DESCUMPRIMENTO CONTRATUAL.
+1) Trata-se de recurso de apelação interposto contra a sentença de improcedência de ação declaratória de nulidade de cláusula contratual cumulada com pedido de indenização por danos materiais e moral envolvendo atraso na entrega de imóvel adquirido na planta.
+2) Consoante a exordial, as partes firmaram contrato de promessa de compra e venda de um box no Edifício Residencial Vergéis de Dona Matilde.
+Defende que o embargo da obra não é justificativa plausível para o atraso na conclusão do empreendimento. Postula, em virtude disso, a declaração de nulidade do parágrafo primeiro da cláusula décima oitava, a condenação da ré ao pagamento de multa contratual e de indenização pelos danos materiais e moral suportados.
+3) VALIDADE DE CLÁUSULA CONTRATUAL - O embargo parcial da obra, por determinação da Superintedência Regional do Trabalho e Emprego/RS, constitui risco inerente à atividade desenvolvida pela demandada e, portanto, não pode ser considerado como força maior ou caso fortuito.
+4) MULTA CONTRATUAL - No caso em apreço, estava previsto no contrato entabulado entre as partes que o prazo para execução da obra relativa à unidade adquirida pela parte autora seria junho de 2014, o qual estava sujeito à antecipação ou prorrogação de até 180 (cento e oitenta) dias. No entanto, a parte autora logrou demonstrar que recebeu o imóvel somente em novembro de 2015.
+Em havendo expressa previsão contratual acerca de multa decorrente do inadimplemento de obrigação de uma das partes, imperiosa a sua aplicação.
+5) DANO MORAL - Os fatos vertidos à lide correspondem a efetivo descumprimento contratual que não gera o dever de indenizar, salvo quando os efeitos do inadimplemento, por sua gravidade, exorbitarem o mero aborrecimento diário, atingindo a dignidade do contratante, situação não demonstrada no caso em exame.
+APELAÇÃO PARCIALMENTE PROVIDA, À UNANIMIDADE. HONORÁRIOS RECURSAIS FIXADOS, POR MAIORIA.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ fls. 287/292)
+Em seu recurso especial, as recorrentes alegam ofensa ao art. 393 do CC, sustentando ausência de responsabilidade pela não entrega do imóvel na data aprazada, em razão de força maior ou caso fortuito, o que afasta a condenação pelo atraso na conclusão da obra. Suscitam dissídio jurisprudencial.
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+O Tribunal de origem, considerando as particularidade do caso concreto, afastou a ocorrência de excludente de responsabilidade, nestes termos:
+De fato, a construtora não pode responder pelos prejuízos resultantes de caso fortuito ou força maior, já que as hipóteses de exclusão de responsabilidade civil estão expressamente previstas no artigo 393 do Código Civil.
+Contudo, o embargo parcial da obra, por determinação da Superintedência Regional do Trabalho e Emprego/RS, afigura-se risco inerente à atividade desenvolvida pela demandada, e, portanto, não pode ser considerado como força maior ou caso fortuito, tampouco autoriza a construtora a dividir esse risco com o consumidor.
+A respeito, os precedentes análogos envolvendo o mesmo empreendimento da ré:
+ .. .
+Ademais, vale referir que a ação anulatória intentada" pela parte ré perante a Justiça do Trabalho, como constatei em recente consulta, ainda não foi sentenciada, e o mandado de segurança impetrado em face do indeferimento parcial da antecipação de tutela na referida ação anulatória, recebeu teve ordem denegada. Significa dizer, não há declaração de ilegalidade do ato do fiscal do trabalho.(e-STJ fls. 258/262).
+Nesse contexto, verifica-se que alterar o entendimento do acórdão recorrido, demandaria, necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice previsto na Súmula nº 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ANÁLISE DO MÉRITO DO APELO EXTREMO POR PARTE DO TRIBUNAL DE ORIGEM. USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 123/STJ. RESCISÃO CONTRATUAL. ATRASO NA ENTREGA. INEXISTÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. DANOS MATERIAIS. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE FATOS E PROVAS. APLICAÇÃO DAS SÚMULAS 5 E 7/STJ. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS CUJA INTERPRETAÇÃO SEJA DIVERGENTE. INCIDÊNCIA DA SÚMULA 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Cabe ao Presidente da Corte local examinar a admissibilidade do recurso especial, o que por vezes implica exame superficial do próprio mérito, não significando usurpação de competência. Assim dispõe a Súmula 123/STJ: "a decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais ou constitucionais."
+2. A revisão das conclusões estaduais - acerca da não caracterização de caso fortuito ou força maior que justificassem a exclusão da responsabilidade da recorrente no atraso da entrega do imóvel objeto da demanda e suas consequências - demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências inviáveis na via estreita do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7/STJ.
+3. A falta de indicação do dispositivo legal que teria sido eventualmente violado faz incidir à hipótese o teor da Súmula n. 284 do STF, por analogia. (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia). 4. Ausência de impugnação a fundamento constante do acórdão estadual. Súmula 283/STF. 5. Razões recursais insuficientes para a revisão do julgado.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1261617/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/06/2018, DJe 27/06/2018; grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. NÃO OCORRÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. LUCROS CESSANTES. MATÉRIA QUE DEMANDA REEXAME DE FATOS, PROVAS, E CLÁUSULAS CONTRATUAIS. SUMULAS 5, 7 E 83 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, a convicção a que chegou o acórdão em relação a não ocorrência de caso fortuito ou força maior e a configuração do inadimplemento contratual decorreu da análise de elementos fáticos-probatórios dos autos e da interpretação de cláusulas contratuais, de modo que o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, o que obsta a admissibilidade do especial ante o teor das Súmulas 5 e 7 desta Corte.
+2. Esta Corte Superior já firmou entendimento de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente-comprador.
+3. No presente caso, o Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu pela existência de danos morais, decorrentes do longo atraso na entrega da unidade imobiliária. Assim, alterar o entendimento do acórdão recorrido demandaria necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. A revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ. Ademais, incidente a Súmula 83/STJ.
+5. Agravo interno não provido. (AgInt no AREsp 1121461/AM, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/04/2018, DJe 02/05/2018)
+Destarte, a pretensão recursal não merece prosperar.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015.
+Assim, como o caso dos autos é proveniente de sentença condenatória, sendo fixada verba honorária de 20% sobre o valor da condenação, deixo de majorar os honorários a ser pago pela parte recorrente, haja vista já terem sido fixados no valor máximo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
