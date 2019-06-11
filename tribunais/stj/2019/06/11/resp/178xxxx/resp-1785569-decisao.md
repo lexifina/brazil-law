@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+AGRAVO INTERNO - CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA - INSCRIÇÃO DE TÉCNICO OU TREINADOR DE FUTEBOL - LEI FEDERAL Nº. 8.650/93 - OBRIGATORIEDADE - INEXISTÊNCIA - AGRAVO INTERNO IMPROVIDO.
+1. No caso concreto, o agravante sustenta a existência de restrição ao exercício profissional decorrente de lei. Argumenta que os treinadores de futebol realizam treinamento especializado, prerrogativa de profissional de educação física.
+2. A inscrição no Conselho Regional de Educação física não é obrigatória para os técnicos e treinadores de futebol. Precedentes do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+Não houve Embargos de Declaração.
+O recorrente alega que os arts. 2º, III, 3º da Lei 9.696/1998 e 3º, I, II, da Lei 8.650/1993 foram violados. Afirma:
+(..) o CREF4/SP requer que o presente recurso especial seja conhecido pela alínea a) do permissivo constitucional e provido para reformar o acórdão e julgar improcedente a ação declaratória, seja porque a Lei nº 9.696/98, em conjugação com as Resoluções CONFEF nº 45/02 e 46/02, não restringiu a profissão de técnico ou monitor de futebol aos profissionais da educação física; seja porque as atividades exercidas pelos técnicos de futebol contemplam "realizar treinamentos especializados do desporto", portanto, dentro do rol das privativas do profissional da Educação Física, seja porque as hipóteses dos incisos I e II do art. 3º da Lei nº 8.650/93, - de ser aplicadas como interpretação até a promulgação da lei e não uma projeção para o futuro -, permitindo que profissionais não graduados exerçam a profissão de treinador profissional de futebol e se inscrevam nos quadros do CREF4/SP, desde que, até 16.09.98, comprovem o exercício de cargos ou funções de treinador de futebol, por no mínimo três anos, e frequentem cursos de nivelamento, não só por ser de direito, mas para por refletir a mais perfeita JUSTIÇA!
+É o relatório.
+Decido.
+Com efeito, os arts. 2º e 3º da Lei 9.696/1998 não discriminam quais trabalhadores (lato sensu) exercem atividades de Educação Física, restringindo-se a discorrer, de modo amplo, sobre os requisitos para a inscrição nos quadros dos Conselhos e as atividades de competência dos profissionais de Educação Física, razão pela qual o acórdão recorrido interpretou corretamente os arts. 2º e 3º da Lei 9.696/1998.
+A propósito:
+ADMINISTRATIVO. INSCRIÇÃO EM CONSELHO PROFISSIONAL. PROFISSIONAL DE DANÇA. INEXISTÊNCIA DE OBRIGAÇÃO. INCIDÊNCIA DO ENUNCIADO N. 83 DA SÚMULA DO STJ.
+I - O STJ já firmou entendimento no sentido de que os professores de dança, artes marciais e capoeira não precisam se inscrever no conselho de educação física para desempenharem suas atividades. Incidência do enunciado n. 83 da Súmula do STJ (AgRg no REsp 1520395/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 17/03/2016, DJe 31/03/2016; AgRg no REsp 1568434/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/02/2016, DJe 24/02/2016; AgInt no AREsp 907.088/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/09/2016, DJe 23/09/2016).
+II - Nesse sentido também em decisão recente no REsp 1602901/RS "concluiu-se que pole dance é uma modalidade de dança, sendo dispensável o registro no conselho profissional.
+III - Agravo interno improvido.
+(AgInt no AREsp 1.117.952/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 31/10/2017).
+ADMINISTRATIVO. PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA. PROFISSIONAL DE DANÇA (POLE DANCE). REGISTRO. ARTS. 2º E 3º DA LEI Nº 9.696/98. AUSENTE COMANDO NORMATIVO QUE OBRIGUE A INSCRIÇÃO DOS PROFESSORES E MESTRES DE DANÇAS, IOGA E ARTES MARCIAIS NOS CONSELHOS DE EDUCAÇÃO FÍSICA. SÚMULA 83/STJ.
+1. Não é possível extrair dos arts. 2º e 3º da lei nº 9.696/98 comando normativo que obrigue a inscrição dos professores e mestres de danças, ioga e artes marciais nos Conselhos de Educação Física. Desse modo, estando o acórdão recorrido em consonância com a jurisprudência desta Corte, incide o óbice da Súmula 83/STJ.
+2. A alteração das conclusões adotadas pela Corte de origem, no sentido de que a atividade de um instrutor de pole dance está associada à dança e não à atividade física propriamente dita, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.602.901/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 9/10/2017).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA. INSCRIÇÃO DOS PROFESSORES DE DANÇA, ARTES MARCIAIS E CAPOEIRA. DESNECESSIDADE. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual os professores de dança, artes marciais e capoeira não precisam se inscrever no conselho de educação física para desempenharem suas atividades.
+III - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.
+IV - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+V - Agravo Regimental improvido.
+(AgRg no REsp 1.210.526/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 6/3/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONSELHO PROFISSIONAL. EDUCAÇÃO FÍSICA. LEGITIMIDADE DO MINISTÉRIO PÚBLICO. INSCRIÇÃO NO CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA. DESNECESSIDADE. AUSÊNCIA DE VIOLAÇÃO DO ART. 3º DA LEI N. 9.696/1998.
+1. O Tribunal de origem decidiu em consonância com o entendimento desta Corte Superior, ao reconhecer a legitimidade do Ministério Público para a defesa de direitos individuais homogêneos de relevante interesse social, envolvendo registro em conselho profissional.
+2. Em relação à letra do dispositivo legal apontado como violados (art. 3º da Lei n. 9.696/98), não há comando normativo que obrigue a inscrição dos professores de capoeira nos Conselhos de Educação Física, porquanto, à luz do que dispõe o art. 3º da Lei n. 9.696/1998, essas atividades não são próprias dos profissionais de educação física. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.520.395/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, DJe 31/03/2016).
+A interpretação dos arts. 2º e 3º da Lei 9.696/1998 deve levar em conta o juízo de verificação entre a previsão legal e as atividades físicas submetidas ao caso dos autos, de forma a verificar se estas se inserem no descritivo legal e, assim, resultam ou não na obrigatoriedade do registro no Conselho Profissional.
+Esse juízo de verificação depende de provas e de juízo técnico não jurídico que incumbe precipuamente às instâncias ordinárias analisarem.
+Considerando que o acórdão recorrido assentou que as atividades físicas trazidas ao presente litígio (técnicos e treinadores de futebol) não se enquadram na descrição dos arts. 2º e 3º da Lei 9.696/1998, é inviável examinar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ no ponto.
+Consubstanciado o que previsto no Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Diante do exposto, conheço parcialmente do Recurso Especial e, nessa parte, nego-lhe provimento e majoro os honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Publique-se.
+Intimem-se.
