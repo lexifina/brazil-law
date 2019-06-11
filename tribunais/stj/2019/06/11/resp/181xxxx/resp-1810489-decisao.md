@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça local.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 310/311:
+Trata-se de recurso especial, interposto pelo Ministério Público do Estado de São Paulo contra acórdão proferido pelo Tribunal de Justiça daquela Unidade Federativa que, ao dar provimento à apelação defensiva, reformou sentença condenatória para absolver o ora recorrido da imputação do crime de uso de documento falso (artigo 304, c/c o artigo 297, ambos do CP). Para tanto, pontificou aquela Corte estadual o seguinte (fl. 245): " ..  há de se considerar que a CNH falsificada somente afirmava habilitação legal não obtida pelo portador. Os demais dados da identificação pessoal do réu são verdadeiros. Por isso, na hipótese dos autos, sendo apresentada para revelar a identidade do acusado, não tinha aptidão para causar danos. Fosse apresentada a agentes de fiscalização do trânsito ou a policiais em atendimento de ocorrências, a situação seria diversa, porém essa conduta, conquanto possível, não foi praticada pelo acusado." 2. Na presente irresignação, interposta com amparo nas alíneas "a" e "c" do permissivo constitucional, o Parquet paulista sustenta negativa de vigência ao artigo 304, do CP. Argumenta, em apertada síntese, que "I. Para caracterização do crime do art. 304 do Código Penal, desnecessário que a falsidade recaia sobre dados de identidade do autor; II. Pratica o crime do artigo 304 do Código Penal aquele que, instado por autoridade a exibir sua habilitação, apresenta CNH falsa, não se caracterizando hipótese de crime impossível, mesmo se o fato puder ser prontamente apurado; III. Caracteriza o crime do artigo 304 do Código Penal a mera exibição do documento hábil a enganar, ainda que o autor não obtenha o resultado lesivo, eis que se trata de crime formal" (fl. 258). Apresenta, ainda, dissídio jurisprudencial entre o aresto combatido e julgado dessa Corte Superior.
+3. Requer, nesse passo, o provimento do recurso, com o restabelecimento dos efeitos da sentença condenatória.
+4. Contrarrazões às fls. 289/295. Decisão de admissibilidade na origem à fl. 301. (Grifei)
+Ao final do parecer, o Parquet Federal opinou pelo provimento do recurso.
+É o relatório.
+Decido.
+Com razão o recorrente.
+A Corte de origem absolveu o recorrido da imputação do delito do art. 304, c/c o art. 297, ambos do Código Penal, nestes termos (e-STJ fl. 245):
+Entretanto, há de se considerar que a CNH falsificada somente afirmava habilitação legal não obtida pelo portador. Os demais dados da identificação pessoal do réu são verdadeiros. Por isso, na hipótese dos autos, sendo apresentada para revelar a identidade do acusado, não tinha aptidão para causar danos. Fosse apresentada a agentes de fiscalização do trânsito ou a policiais em atendimento de ocorrências, a situação seria diversa, porém, esta conduta, conquanto possível, não foi a praticada pelo acusado.
+Assim, dentro do plano de conduta do agente, o crime era absolutamente impossível e, considerando a superficialidade do laudo pericial, sequer se poderia afirmar efetiva potencialidade lesiva em outra utilização. (Grifei)
+Ao decidir nesses termos, o Tribunal de origem afrontou o pacífico entendimento desta Superior Corte de Justiça "de que, tratando-se de crime formal, o delito tipificado no artigo 304 do Código Penal consuma-se com a utilização ou apresentação do documento falso, não se exigindo a demonstração de efetivo prejuízo à fé pública nem a terceiros" (AgInt no AREsp n. 1229949/RN, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 6/3/2018, DJe 14/3/2018, grifei).
+No mesmo sentido:
+RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. CRIME FORMAL. CARACTERIZAÇÃO. UTILIZAÇÃO. RECURSO PROVIDO.
+1. "É pacífico o entendimento neste Superior Tribunal de Justiça de que, tratando-se de crime formal, o delito tipificado no artigo 304 do Código Penal consuma-se com a utilização ou apresentação do documento falso, não se exigindo a demonstração de efetivo prejuízo à fé pública nem a terceiros" (AgInt no AREsp 1.229.949/RN, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/03/2018, DJe 14/03/2018).
+2. Recurso provido. (REsp 1722241/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 05/06/2018, DJe 15/06/2018, grifei)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO VERIFICAÇÃO. USO DE DOCUMENTO FALSO. ART. 304 DO CÓDIGO PENAL. CRIME FORMAL. EXAME PERICIAL. COMPROVAÇÃO DA FALSIDADE. MODIFICAÇÃO QUE IMPLICA REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. O crime de uso de documento falso (art. 304 do Código Penal) se consuma com a simples utilização de documentos comprovadamente falsos, dada a sua natureza de delito formal.
+ ..
+Agravo regimental desprovido. (AgRg no AREsp 1022036/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 09/03/2017, DJe 17/03/2017, grifei)
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTO DE RECURSO. NÃO CABIMENTO. USO DE DOCUMENTO FALSO. ATIPICIDADE. CONSUMAÇÃO APENAS QUANDO HÁ VOLUNTARIEDADE DO AGENTE. IRRELEVÂNCIA. CRIME QUE SE CARACTERIZA COM A APRESENTAÇÃO DO DOCUMENTO. TESE DA AUTODEFESA. INOCORRÊNCIA. MUDANÇA NA JURISPRUDÊNCIA. CONDUTA TÍPICA. FALTA DE MATERIALIDADE DELITIVA. INEXISTÊNCIA DE PERÍCIA. DESNECESSIDADE. DEMONSTRAÇÃO POR OUTROS MEIOS DE PROVA. REEXAME DE PROVA. IMPOSSIBILIDADE.
+ ..
+2. O crime descrito no art. 304 do CP consuma-se com a apresentação do documento falso, sendo irrelevante se a exibição ocorreu mediante exigência do policial ou por iniciativa do próprio agente.
+ ..
+6. Habeas corpus não conhecido. (HC 169.068/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2015, DJe 05/02/2016, grifei)
+No caso, o recorrido fez uso de Carteira Nacional de Habilitação falsa com o intuito de se identificar perante policiais (e-STJ fl. 156).
+Ante o exposto, dou provimento ao recurso especial para afastar a absolvição do recorrido e determinar a apreciação das demais teses defensivas declinadas na apelação.
+Publique-se. Intimem-se.
