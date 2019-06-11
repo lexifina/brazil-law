@@ -1,0 +1,43 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSO CIVIL. INSCRIÇÃO INDEVIDA DE NOME NO CADASTRO DE PROTEÇÃO AO CRÉDITO. VALOR DO QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, alínea "a", da Constituição Federal contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fl. 251):
+APELAÇÕES CÍVEIS - AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MORAIS - NECESSIDADE DE NOTIFICAÇÃO DO SUJEITO, EM MOMENTO ANTERIOR À INSCRIÇÃO DE SEU NOME NOS CADASTROS DE RESTRIÇÃO AO CRÉDITO, NOS CASOS DE EMISSÃO DE CHEQUES SEM FUNDOS - EXISTÊNCIA DO DEVER DE INDENIZAR - DANO MORAL PRESUMIDO - VALOR DA INDENIZAÇÃO FIXADO DE FORMA ADEQUADA NO CASO CONCRETO - HONORÁRIOS ADVOCATÍCIOS MANTIDOS - DECISÃO ACERTADA - RECURSOS NÃO PROVIDOS.
+Nas razões do recurso especial, a recorrente alega violação ao art. 944 do Código Civil alegando ser ínfimo o valor atribuído ao dano moral, qual seja R$ 2.000,00 (dois mil reais), em razão da " falta de comunicação prévia (art. 43, 2º CDC, o recorrente pretende o cancelamento da inscrição de seu nome no cadastro de restrição creditícia mantido pela recorrida, erigida em suposta emissão de cheques sem fundos" (e-STJ fl. 281).
+É o relatório.
+Passo a decidir.
+A irresignação recursal não pode prosperar.
+Primeiramente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem, após análise do acervo probatório dos autos, fixou o montante, a título de dano moral, no valor de R$ 2.000,00 (dois mil reais), tendo em vista as peculiaridades do caso (e-STJ fl. 198):
+Assim, resta configurado o ato ilícito e, portanto, cabível a indenização por danos morais pelo caráter sancionatório.
+Caracterizada a ilegalidade da inscrição, é o entendimento da doutrina e jurisprudência que são presumíveis os danos morais sofridos pela vítima, sendo desnecessária a prova do dano, havendo o dever de indenizar.
+O Juízo a quo estipulou os danos morais em R$ 2.000,00 e em que pensem as considerações recursais apresentadas, entendo que o valor merece ser mantido.
+Importante que o valor fixado sirva de pretexto para educar a parte condenada e coibir novas violações aos direitos alheios, sem, contudo, fomentar o enriquecimento sem causa.
+Impõe-se a análise das circunstâncias do ca o concreto, tais como a gravidade do fato, a repercussão do dano, o grau de culpa do ofensor e a situação econômico-financeira dos litigantes, atentando-se para que a indenização não se tome fonte de enriquecimento sem causa, nem seja considerada inexpressiva como fator de compensação, além da função inibitória ao autor do dano.
+Assim, para que haja a devida compensação sem implicar em distorção dos motivos deste ressarcimento, considerando I os prejuízos experimentados pelo autor bem como a quantificação de valor proporcional e razoável, deve ser mantido o valor de R$ 2.000,00.
+Com efeito, vislumbra-se que a irresignação do recorrente não merece prosperar, uma vez que o valor fixado a título de indenização por danos morais, qual seja, de R$ 2.000,00 (dois mil reais), não escapa à razoabilidade, nem se distancia do bom senso e dos critérios recomendados pela doutrina e pela jurisprudência desta Corte.
+Esta Corte firmou entendimento de "ser incabível o reexame do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica a fixação do quantum indenizatório distinto" (AgInt no AREsp 1.141.438/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 1.3.2018). Destarte, não se justifica, in casu, a excepcional intervenção desta Corte a fim de revisar o valor da indenização por danos morais, que somente é admitida, quando ínfimo ou exagerado o montante indenizatório, o que não ocorre no caso em tela.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CADASTRO DE INADIMPLENTES. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. TESE FIRMADA SOB A SISTEMÁTICA DOS RECURSOS REPETITIVOS. DANOS MORAIS RECONHECIDOS NA ORIGEM. INCIDÊNCIA DA SÚMULA 83/STJ. VALOR DA INDENIZAÇÃO RAZOÁVEL E PROPORCIONAL. MODIFICAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, firmada sob a sistemática dos recursos repetitivos "A ausência de prévia comunicação ao consumidor da inscrição do seu nome em cadastros de proteção ao crédito, prevista no art. 43 , §2º do CDC, enseja o direito à compensação por danos morais, salvo quando preexista inscrição desabonadora regularmente realizada" (REsp 1.061.134/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe 1.4.2009).
+2. "O STJ firmou entendimento de ser incabível o reexame do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica a fixação do quantum indenizatório distinto" (AgInt no AREsp 1.141.438/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 1.3.2018).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1301298/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 02/04/2019, DJe 08/04/2019; grifou-se)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA NO CADASTRO DE PROTEÇÃO AO CRÉDITO. ALTERAÇÃO DO VALOR ARBITRADO. IMPOSSIBILIDADE. DANOS MORAIS. DIVERGÊNCIA INCABÍVEL.
+1. A revisão do valor da compensação por danos morais demanda a reanálise do conjunto fático-probatório dos autos, circunstância vedada a esta Corte pelo óbice da Súmula 7/STJ. Tão somente em hipóteses excepcionais, quando os valores arbitrados na origem forem irrisórios ou exorbitantes, o STJ passa à análise do mérito para restabelecer a razoabilidade e proporcionalidade no particular.
+2. Tratando-se de valor arbitrado a título de indenização por danos morais, é incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos são distintos.
+3. Agravo interno não provido.
+(AgInt no REsp 1734854/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/02/2019, DJe 13/02/2019; grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CADASTROS RESTRITIVOS. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. DANOS MORAIS. REVISÃO DO QUANTUM INDENIZATÓRIO. INCIDÊNCIA DA SUMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS.REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7. AGRAVO INTERNO NÃO PROVIDO.
+1.  ..
+4. A jurisprudência desta Corte Superior possui entendimento uniforme no sentido de que a inscrição/manutenção indevida do nome do devedor no cadastro de inadimplentes enseja o dano moral in re ipsa, ou seja, dano vinculado a própria existência do ato ilícito, cujos resultados são presumidos. Precedentes.
+5. A alteração da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1152145/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/06/2018, DJe 13/06/2018; grifou-se)
+Destarte, não merece prosperar o reclamo.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Por conseguinte, considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, majoro os honorários de sucumbência para 17% sobre o valor da condenação, observados os benefícios da gratuidade de justiça concedidos na origem (e-STJ, fl. 68).
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Intimem-se.
