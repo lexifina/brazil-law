@@ -1,0 +1,28 @@
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO CPC/73. MEDIDA CAUTELAR INCIDENTAL DE SUSTAÇÃO DE PROTESTO. TÍTULOS JÁ LEVADOS A PROTESTO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Consta dos autos que SUPPORTE ARMAZENAGEM VENDAS E LOGÍSTICA INTEGRADA LTDA (SUPPORTE) propôs medida cautelar incidental de sustação de protesto contra SCR TRANSPORTES ARMAZENAGENS E LOGÍSTICA LTDA (SCR TRANSPORTES).
+O juízo de piso indeferiu a inicial e julgou o processo extinto (e-STJ, fls. 64/65).
+O Tribunal de Justiça negou provimento ao apelo de SUPPORTE em acórdão assim ementado
+APELAÇÃO CÍVEL - MEDIDA CAUTELAR INCIDENTAL DE SUSTAÇÃO DE PROTESTO - TÍTULOS JÁ LEVADOS A PROTESTO - PERDA DO OBJETO DA DEMANDA - CONFIGURAÇÃO - PEDIDO SUCESSIVO - SUSPENSÃO DOS EFEITOS - IMPOSSIBILIDADE. Tendo em vista que ambos os títulos objetos da demanda já foram levados a protesto, é de se reconhecer a correção da sentença que julgou extinto o feito, sem resolução do mérito, até mesmo porque a suspensão dos efeitos do protesto configura-se em medida satisfativa, não podendo ser objeto de pedido em sede de ação cautelar (e-STJ, fl. 102).
+Inconformada, SUPPORTE interpôs recurso especial com fundamento no art. 105, III, a, da CF, apontando ofensa ao art. 798 do CPC/73, sob o argumento de que houve o preenchimento dos requisitos para o poder geral de cautela, o que autoriza a suspensão dos efeitos do protesto já efetivado, de modo a evitar eventuais prejuízos que se possa suportar com a manutenção do apontamento (e-STJ, fls. 109/115).
+As contrarrazões não foram apresentadas (e-STJ, fl. 121).
+O apelo nobre foi admitido (e-STJ, fl. 122).
+É o relatório.
+DECIDO.
+O recurso especial não merece ser conhecido.
+De plano, vale pontuar que as disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Da alegada ofensa aos arts. 798 do CPC/73
+O Tribunal de origem, ao analisar o acervo fático-probatório dos autos, manteve a sentença que extinguiu o feito por falta de possibilidade jurídica do pedido, nos seguintes termos:
+O exame detido dos autos permite-nos verificar que o Magistrado de primeiro grau entendeu que a questão relativa ao descumprimento contratual seria meritória e, por isso, deveria ser tratada em sede de Ação Principal, além do que explicitou que a medida cautelar ora analisada teria sido distribuída no dia seguinte ao que efetivado o protesto do primeiro título e na tarde do mesmo dia em que concretizado o do segundo, motivos pelos quais entendeu que teria ocorrido a perda do objeto da demanda, salientando, por fim, que a caução exigida para a concessão da liminar no processo em apenso não teria sido prestada, tudo o que deu ensejo ao indeferimento da inicial e, por conseguinte, à extinção do feito.
+A despeito das alegações tecidas pelo apelante, tenho que deve prevalecer a solução dada em 1º Grau, primeiramente porque o recorrente não trouxe qualquer prova para contrapor o argumento utilizado pelo Magistrado de primeiro grau quanto ao não cumprimento, em sede de processo apenso, de determinação de prestação de caução para fins de apreciação da medida liminar de sustação de protesto visada e corroborada pela propositura de Ação Cautelar com o mesmo objetivo.
+E não existem dúvidas de que, se existe processo apenso no qual foi pleiteada liminar no mesmo sentido da medida cautelar ora visada e se o recorrente, intimado para prestar a caução entendida necessária, em conformidade com o poder geral de cautela atribuído ao Magistrado, não cumpriu referida ordem, deve ser o feito extinto sem resolução do mérito.
+Quanto à questão afeta especificamente à perda de objeto em razão da concretização do protesto cuja sustação se visava como objetivo final da medida cautelar, dúvidas não restam de que, concretizado o protesto de ambos os títulos mencionados na inicial antes mesmo da possibilidade de apreciação liminar da medida cautelar, é de se reconhecer que não há mais motivos para a continuidade do feito, cujo objetivo final restou inviável diante da impossibilidade fática de retorno à situação pretérita de inexistência de protesto daqueles títulos.
+Frise-se ainda, por oportuno, que, no que se refere ao pedido sucessivo de determinação de suspensão dos efeitos dos protestos, caso eles já tivessem sido efetivados, insta apenas salientar que, em sede de medida cautelar, tal pedido sequer poderia ser conhecido, eis que consubstancia em ação satisfativa, não se prestando a garantir qualquer tipo de provimento final (e-STJ, fls. 104/105).
+Dessa forma, para se chegar à conclusão diversa da que chegou o eg. Tribunal a quo, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial.
+Com efeito, não se mostra plausível nova análise do contexto probatório por parte desta Corte Superior, a qual não pode ser considerada terceira instância recursal.
+No mais, referida vedação encontra respaldo na Súmula nº 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
