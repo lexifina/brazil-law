@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Superior do Trabalho, assim ementado:
+    “RECURSO DE REVISTA – CONSELHO DE FISCALIZAÇÃO PROFISSIONAL – ESTABILIDADE Os empregados dos Conselhos de Fiscalização Profissional – Autarquias Especiais - não se inserem no âmbito da Administração Pública direta, não sendo destinatários, portanto, do regime próprio de estabilidade do servidor público celetista da administração direta, autárquica ou fundacional, a teor do artigo 41 da CLT, ainda que contratados mediante concurso público. Precedentes do TST e do STF. Recurso de Revista não conhecido”. (eDOC 15, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 37 e 41 do texto constitucional.
+    Nas razões recursais, alega-se que os Conselhos de Fiscalização Profissional têm a natureza jurídica de autarquias, de modo que seus atos de demissão de pessoal devem ser precedidos de processo administrativo. (eDOC 18, p. 13)
+    A Procuradoria-Geral da República manifestou-se pelo provimento do recurso, em parecer assim ementado:
+    “Recurso Extraordinário. Conselho profissional. Natureza autárquica. Atividade tipicamente estatal. Exigência de concurso público. ADI 1.717/DF. Necessidade de processo administrativo e motivação para dispensa de servidores. Princípio da impessoalidade. CR, art. 37, caput e inciso II. 1. Entidades criadas por lei, com personalidade jurídica de direito público e funções tipicamente públicas, os conselhos profissionais sujeitam-se à regra do artigo 37, II, da Constituição, quando da contratação de pessoal. 2. A dispensa de servidor de conselho de fiscalização profissional, sem o devido processo administrativo e sem motiva- ção, viola o princípio da impessoalidade. Art. 37, caput, da Constituição. Precedentes. 3. Parecer por provimento do recurso extraordinário”. (eDOC 32)
+    É o relatório.
+    Decido.
+    Assiste razão à recorrente.
+    No julgamento da ADI 1.717, o Supremo Tribunal Federal declarou a inconstitucionalidade do caput e dos parágrafos 1º, 2º, 4º, 5º, 6º, 7º e 8º do artigo 58 da Lei 9.649/1998, restando consignado que a fiscalização das profissões, por se tratar de uma atividade típica de Estado, não pode ser delegada. Dessa maneira, infere-se a natureza autárquica dos conselhos profissionais pelo caráter público da atividade desenvolvida.
+    Consequentemente, firmou-se em diversos julgados desta Suprema Corte o entendimento de ser aplicável aos conselhos de fiscalização profissional a observância aos princípios da administração pública, especialmente no que se refere à dispensa de seus funcionários, que deve ser precedida por processo administrativo.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. NATUREZA DE AUTARQUIA. SERVIDOR. DISPENSA IMOTIVADA. IMPOSSIBILIDADE. NECESSIDADE DE DEVIDO PROCESSO ADMINISTRATIVO. PRECEDENTES. AGRAVO INTERNO DESPROVIDO”. (RE 1.112.187 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 12.6.2018)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 15.8.2014. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. NATUREZA JURÍDICA DE AUTARQUIA PÚBLICA. DEMISSÃO. NECESSIDADE DE PROCESSO ADMINISTRATIVO PRÉVIO. 1. Nos termos da jurisprudência do STF, os conselhos de fiscalização profissional têm natureza jurídica de autarquias e a seus funcionários se aplicam o art. 41 da Constituição Federal e o art. 19 do ADCT. Por essa razão, é necessária a prévia instauração de processo administrativo para demissão de seus funcionários. 2. Agravo regimental a que se nega provimento”. (RE 958.712 AgR, rel. Min. Edson Fachin, Segunda Turma, DJe 5.12.2017)
+    Ante o exposto, conheço do agravo para dar provimento ao recurso extraordinário (art. 932, VIII, do CPC c/c art. 21, §1º, do RISTF), declarando a necessidade de processo administrativo para dispensa de servidor de órgão de fiscalização profissional .
+    Invertidos os ônus da sucumbência.
+    Publique-se.
+    Brasília, 11 de junho de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
