@@ -1,0 +1,23 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (2015). AÇÃO DE COBRANÇA. COMPROVAÇÃO DO FATO ALEGADO. ALEGAÇÃO DE VIOLAÇÃO AO ART. 373 DO CPC. DESCONSTITUIR A FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por MOACIR MARQUES BATISTA contra decisão que inadmitiu o recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (e-STJ, fl. 301):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - UTILIZAÇÃO INDEVIDA DE ÁREA DE TERCEIROS - ALEGAÇÃO DE CARÊNCIA DA AÇÃO AFASTADA - MÉRITO - COMPROVAÇÃO DO FATO CONSTITUTIVO DO DIREITO - DESÍDIA PROBATÓRIA DO RÉU - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Comprovada a necessidade de propositura da demanda, não há falar em carência da ação.
+Demonstrado o fato constitutivo do direito e evidenciada a desídia probatória do réu, o qual, além de faltar à audiência de instrução, deixou de recolher os valores destinados à perícia judicial, deve ser mantida a sentença de procedência em ação de cobrança, pautada por minuciosa análise das particularidades fáticas do litígio.
+Afasta-se a condenação às penas da litigância de má-fé, caso, apesar de impertinente e repetitiva, a defesa não destoe das balizas legais de exercício do contraditório.
+Nas razões do recurso especial, o recorrente alega violação ao art. 373, I, do CPC, "haja vista que inverteu a obrigação de produção de provas determinada pelo ordenamento, atribuindo, ao recorrente/requerido, a obrigação de produção de prova dos fatos contidos na petição inicial dos recorridos" (e-STJ, fl. 311), pois "não cabia ao recorrente provar que não estava na posse da terra - pergunto como se prova tal fato  -, mas, sim, aos Autores/Recorridos provar que o recorrente estava na posse" (e-STJ, fl. 312).
+Apresentadas contrarrazões (e-STJ fls. 320/322), o Recurso Especial foi inadmitido pela Corte de origem, ensejando na interposição do presente agravo (e-STJ, fls. 329/331).
+É o relatório.
+Passo a decidir.
+A irresignação recursal não pode prosperar.
+Primeiramente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem foi categórico a afirmar que "o réu, ora apelante, deixou de ir à audiência de instrução e não depositou tempestivamente os honorários devidos pela prova pericial por ele requerida, a qual tinha por objeto esmiuçar a área debatida no tocante à posse e o valor alegados na contestação. Diante da inação, deve prevalecer a solução conferida, inclusive em relação ao valor da ocupação, baseado em valores de mercado e na apreciação racional dos documentos e testemunhas anexados ao processo" (e-STJ, fl. 304 - g. n.).
+É de se observar que "a Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1665411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 05/09/2017, DJe 13/09/2017).
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n. 7/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do Novo Código.
+Destarte, como o caso dos autos é proveniente de sentença condenatória cuja verba honorária foi fixada em 15% (quinze por cento) sobre o valor da condenação (e-STJ fl. 304), a majoração dos honorários para 17% (dezessete por cento) sobre o valor da condenação é medida adequada ao caso.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial e, com base no art. 85, § 11, do CPC, majoro os honorários de sucumbência para 17% (dezessete por cento) sobre o valor da condenação.
+Intimem-se.
