@@ -1,0 +1,17 @@
+DECISÃO
+Trazem os autos petição apresentada pela Fazenda Nacional insurgindo-se contra a decisão monocrática de fls. 516/519, que havia determinado a devolução dos autos à origem para que o Tribunal de origem realizasse novo julgamento dos embargos de declaração.
+Sustenta a parte requerente, em resumo, a perda de objeto do recurso especial por ela interposto às fls. 446/457, "tendo em vista que a agravante não tem mais interesse no julgamento do recurso em virtude do pagamento integral da CDA nº 60.3.05.000314-65, objeto da execução fiscal debatida neste recurso" (fl. 600).
+O requerido, em de embargos de embargos de declaração, também suscitou a perda de objeto nos seguintes termos "a própria execução fiscal já perdera seu objeto, haja vista que em 12.06.2018, houve a prolação de sentença extinguindo o feito, nos termos do art. 924, II do CPC/2015, em razão do pagamento integral do débito pelo parcelamento (doc. nº 04). Naquela oportunidade, foi também determinada a liberação de quaisquer constrições existentes nos autos." (fl. 524).
+É O BREVE RELATO.
+Consoante informado pela parte recorrente na petição de fls. 599/602, há fato novo a recomendar a alteração do entendimento anteriormente firmado na decisão monocrática de fls. 516/519 - pagamento da dívida objeto da execução fiscal que deu origem ao recurso especial ora em análise.
+Ante o exposto, e exercendo o juízo de retratação facultado pelo arts. 1.021, § 2º, do CPC e 259, § 6º, do RISTJ, reconsidero mencionado provimento jurisdicional, e passo à novo exame do recurso especial:
+Trata-se de agravo interposto pela Fazenda Nacional, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 415):
+PROCESSO CIVIL - AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - GARANTIA DO JUÍZO POR MEIO DE CARTA DE FIANÇA BANCÁRIA - VALIDADE. ART. 15, INCISO I, DA LEI 6.830/80.
+1. "A garantia da execução, por meio de depósito em dinheiro ou fiança bancária, produz os mesmos efeitos da penhora". Ademais, "é título executivo extrajudicial, líquido e exigível nos limites da quantia garantida, a carta de fiança bancária (..)" (REsp nº 5.825/PA, STJ, T4, un., Rei. ATHOS CARNEIRO, DJ 30/9/1991).
+2. Agravo regimental a que se nega provimento.
+Opostos embargos de declaração, foram rejeitados (fls. 426/429).
+Nas razões do recurso especial, há violação aos arts. 535 do CPC/73; e 151 do CTN. Sustenta: (I) a existência de omissão no acórdão recorrido, pois, mesmo após a oposição dos embargos de declaração, não houve manifestação sobre as alegações postas; (II) a "impossibilidade de aceitação de carta de fiança após depósito judicial ou decisão que determine a penhora em dinheiro." (fl. 455); e (III) que "o oferecimento de carta de fiança não integra o rol de hipóteses de suspensão da exigibilidade do crédito fiscal" (fl. 455).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na espécie, considerando que a própria parte recorrente informou a perda de objeto do especial interposto pelo pagamento da dívida na execução fiscal, é de se reconhecer que houve, em verdade, pleito pela desistência do recurso especial.
+ANTE O EXPOSTO, nos termos da fundamentação, reconsidero a decisão de fls. 516/519, e homologo, para que produza seus efeitos jurídicos e legais, o pedido de desistência do presente recurso formulado às fls. 599/602, nos termos dos arts. 998 do CPC/2015 e 34, IX, do RISTJ.
+Publique-se.
