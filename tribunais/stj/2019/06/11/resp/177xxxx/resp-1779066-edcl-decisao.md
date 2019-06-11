@@ -1,0 +1,13 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Declaração opostos por BENEDITO PEREIRA DA SILVA contra decisão que monocrática que conheceu em parte do recurso especial e deu-lhe provimento para determinar a aplicação do IRSM de fevereiro de 1994 na atualização dos salários de contribuição do benefício.
+Sustenta, em síntese, que a decisão padece de omissão (art. 1.022, II, do CPC), porquanto é necessário que conste expressamente da decisão ora embargada "a condenação do INSS em revisar a RMI da aposentadoria da parte autora, mediante a aplicação do IRMS de 02/1994 na atualização dos salários de contribuição do benefício, e consequentemente revisar a RMA do referido benefício, bem como, a condenação do INSS ao pagamento dos valores atrasados desde a DIB, esclarecendo os índices de correção monetária e juros a serem aplicados sobre tais valores, além dos ônus da sucumbência que já foram impostos ao INSS na decisão ora embargada, (..)." (fl. 301e).
+Transcorreu in albis o prazo para impugnação (certidão de fls. 307).
+Os embargos foram opostos tempestivamente.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Com razão o Embargante. De fato, ao proferir a decisão ora embargada houve omissão quanto aos índices de juros de mora e correção monetária, sendo necessário ainda constar expressamente a condenação do INSS ao pagamento dos atrasados e aplicação do IRSM/94.
+Assim, onde se lê: "Isto posto, com fundamento nos arts. 932, III e V, do Código de Processo Civil de 2015 e 34, XVIII, a e c, e 255, I e III, do RISTJ, CONHEÇO EM PARTE do Recurso Especial e DOU-LHE PROVIMENTO, para determinar a aplicação do IRSM de fevereiro de 1994 na atualização dos salário de contribuição de beneficio."
+Leia-se: "Isto posto, com fundamento nos arts. 932, III e V, do Código de Processo Civil de 2015 e 34, XVIII, a e c, e 255, I e III, do RISTJ, CONHEÇO EM PARTE do Recurso Especial e DOU-LHE PROVIMENTO, para condenar o INSS à revisão da RMI do benefício mediante a aplicação do IRSM de fevereiro de 1994 na atualização dos salário de contribuição de beneficio e, consequentemente, proceder a atualização da RMA, bem como ao pagamento dos valores atrasados desde a DIB, respeitada a prescrição quinquenal a contar do ajuizamento da presente ação. Juros e correção monetária a serem fixados pelo Juízo de Execução."
+Ante o exposto, ACOLHO os Embargos de Declaração, para sanar a omissão, nos termos acima explicitados, sem efeitos infringentes.
+Publique-se e intimem-se.
