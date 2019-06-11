@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos por [NOME] Como contra decisão singular (fls. 1.055/1.059), por meio da qual não se conheceu do recurso especial em razão de o pleito esbarrar nos óbices das Súmulas 280/STF, 356/STF e 211/STJ, além da impossibilidade de exame de violação à norma constitucional.
+A parte embargante sustenta, em resumo, a existência de contradição no decisum, pois toda a matéria recursal teria sido devidamente prequestionada.
+Requer, desse modo, o acolhimento dos aclaratórios para que sejam sanadas as contradições apontadas e dado provimento ao recurso especial.
+Impugnação do embargado às fls. 1.129/1.133.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Entretanto, in casu, não se verifica a existência de qualquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso, mormente quanto à incidência do óbice da súmula 211/STJ. Confira-se o seguinte trecho do julgado combatido (fl. 1.057):
+Ademais, no que se refere à perda do objeto da ação, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe 10/4/2017).
+Denota-se que as alegações da embargante não prosperam, pois a controvérsia posta nos autos foi devidamente apreciada, concluindo-se pela incidência do óbice da súmula 211/STJ no que se refere à tese de perda do objeto da ação, uma vez que o Tribunal de origem não examinou a questão sob o enfoque dos dispositivos legais apontados como violados, apesar de instado a fazê-lo por meio dos competentes embargos de declaração, não tendo havido, ainda, alegação de violação ao art. 1.022 do CPC/2015.
+Ora, não podem ser acolhidos os aclaratórios que, a pretexto de alegados vícios no acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração. A propósito, confira-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+ANTE O EXPOSTO, rejeito os embargos declaratórios.
+Publique-se.
