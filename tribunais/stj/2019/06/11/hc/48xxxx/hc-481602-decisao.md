@@ -1,0 +1,18 @@
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. DECISÃO QUE SUBSTITUIU A PRISÃO PREVENTIVA POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PREJUDICIALIDADE.
+Writ prejudicado.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coator o Tribunal de Justiça do Rio de Janeiro, que denegou o Habeas Corpus n. 00565889520188190000 (fls. 12/14):
+HABEAS CORPUS. Artigos 2º, caput, e §§ 2º e 4º, II, da Lei 12.850/13; 316, caput, 2 vezes, e 328, caput, e parágrafo único, 2 vezes, ambos do Código Penal, em concurso material. Prisão preventiva decretada em 30/08/2018. Revogação com substituição por medidas cautelares. Prisão domiciliar.
+1. Não se discute que a prisão é medida de exceção, a qual se justifica à vista da presença dos requisitos autorizadores previstos em lei, em especial os do artigo 312 do Código de Processo Penal. Se a prisão preventiva foi decretada por decisão devidamente fundada em elementos e circunstâncias do caso concreto e, com base no citado dispositivo legal, não há amparo a sua revogação. Na hipótese, imputa-se à ora paciente, a prática de crimes, em relação aos quais há indícios suficientes de materialidade e autoria, sendo necessária sua custódia cautelar, para garantia da ordem pública, aplicação da lei penal e conveniência da instrução criminal, autorizando a decretação da prisão preventiva, não se vislumbrando, portanto, qualquer nulidade na referida decisão, que à evidência, obedeceu ao disposto no inciso IX, do artigo 93, da Constituição Federal, e ao artigo 312, do Código de Processo Penal.
+2. Na esteira de entendimento de nossos Tribunais, eventuais condições subjetivas favoráveis ao agente, não são suficientes à concessão de liberdade provisória, se presentes os requisitos autorizadores da custódia cautelar.
+3. Paciente que não se enquadra nas hipóteses que autorizam a aplicação de medidas cautelares diversas da prisão, permite a confirmação da custódia cautelar.
+4. A Lei n. 13.257/2016 alterou o artigo 318, do Código de Processo Penal, que passou a prever, em seu inciso III, a possibilidade de substituição da prisão preventiva por prisão domiciliar, quando o agente for imprescindível aos cuidados especiais de pessoa menor de 6 (seis) anos de idade. Entretanto, embora tenha sido comprovado que sua esposa é gestante (doe. 000324/329 Anexo 1), não restou evidenciada a imprescindibilidade de sua presença junto a ela que, como bem ressaltado pela digna Autoridade apontada como coatora, o " art. 318 do CPP enumera uma série de hipóteses nas quais é facultado ao juiz, diante do caso concreto, conceder a prisão domiciliar, não havendo previsão para sua concessão para acompanhantes de gestantes com gravidez de risco." ORDEM DENEGADA.
+Alega-se que não teriam sido apontados fundamentos idôneos para a manutenção da prisão preventiva do ora paciente. Afirma-se que a esposa do paciente necessita da presença do marido para cuidar do filho menor de 11 anos e por estar com gravidez de alto risco.
+Requer a substituição da prisão preventiva por prisão domiciliar com ou sem monitoração eletrônica; ou seja, concedido ao paciente o direito de responder ao processo em liberdade.
+Em 30/11/2018, indeferi a liminar (fls. 362/365). Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 402/406).
+É o relatório.
+Sucede que o writ está prejudicado.
+Nos autos da Ação Penal n. 0021666-89.2018.8.19.0206, o Juízo da 2ª Vara Criminal do Rio de Janeiro/RJ, em decisão datada de 21/5/2019, já determinou, com relação ao ora paciente, a substituição da prisão preventiva por medidas cautelares.
+Ante o exposto, julgo prejudicado o habeas corpus (art. 34, XI, do RISTJ).
+Publique-se.
