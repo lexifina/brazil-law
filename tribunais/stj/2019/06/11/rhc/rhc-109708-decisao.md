@@ -1,0 +1,20 @@
+DECISÃO
+LILIANNE PESSOA DA SILVA e outra alegam sofrer coação ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2256872-90.2018.8.26.0000.
+A recorrente busca a anulação do processo, uma vez que o Juiz natural da causa indeferiu o pedido de apresentação de rol de testemunhas de forma extemporânea, depois da resposta à acusação. Assinalam que "sequer foram citadas", o que também é causa de nulidade absoluta e a "autoridade coatora já considerou precluso o direito" (fl. 5).
+O Ministério Público Federal opinou pelo "desprovimento do recurso" (fl. 201).
+Decido.
+O direito à prova não é absoluto, limitando-se por regras de natureza endoprocessual e extraprocessual. Assim é que, na proposição de prova oral, prevê o Código de Processo Penal que o rol de testemunhas deve ser apresentado, sob pena de preclusão, na própria denúncia, para o Ministério Público, e na resposta à acusação, para a defesa.
+Ocorre que, no caso vertente, não se trata de pedido de apresentação extemporânea do rol de testemunhas. Mas, de determinação, por parte do Juiz, de resposta à acusação antes da citação.
+As pacientes, consoante relatório do acórdão, se mudaram para Goiânia desde 11/7/2018. A denúncia foi recebida em 23/8/2018 e a resposta escrita à acusação foi apresentada no dia 10/9/2018. De acordo com o Tribunal de Justiça, "as pacientes não foram ainda citadas e intimadas da acusação constante dos autos principais" (fl. 172).
+O Magistrado recebeu a denúncia, oferecida apenas contra as duas pacientes, e ordenou (fl. 145):
+3) Proceda se à citação das rés para responderem à acusação, por escrito e através de defensor, no prazo de 10 (dez) dias, devendo o Oficial de Justiça indagá-las se possuem defensor constituído, e, em caso negativo, se desejam a atuação do Defensor Público.
+4) Sem prejuízo, intime-se Dr. [NOME] (fls. 95 e 97) para que apresente resposta à acusação, no prazo legal.
+O defensor cumpriu a determinação judicial, mas explicou:
+ ..  as acusadas ainda não foram citadas pessoalmente  .. , motivo pelo qual requer seja devolvido o prazo para a devida apresentação do rol de testemunhas quando as acusadas forem pessoalmente citadas, nos termos do artigo 406 do Código de Processo Penal (fl. 155).
+O Juiz indeferiu o pedido, "ante a ausência de previsão legal" (fl. 156).
+Nos termos do art. 396 do CPP, uma vez recebida a denúncia, o juiz ordenará a citação do acusado para responder à acusação, no prazo de 10 dias.
+O prazo decendial é contado a partir da citação, quando, por meio de defensor constituído ou nomeado, o réu poderá, a teor do art. 396-A do CPP, arguir preliminares e alegar tudo o que interesse à sua defesa, oferecer documentos e justificações, especificar as provas pretendidas e arrolar testemunhas, qualificando-as e requerendo sua intimação, quando necessário.
+A intimação para que o advogado oferecesse a resposta do art. 396-A do CPP antes da citação é atentatória ao exercício da autodefesa, principalmente porque não há nenhum sinal de que as acusados tinham conhecimento dos termos da denúncia quando o contrataram e que, depois da mudança para Goiânia, o profissional teve possibilidade de contactá-las e se informar a respeito de testemunhas que poderiam arrolar. Assim, é de rigor a concessão da ordem, para permitir a apresentação do rol de testemunhas no prazo de 10 dias a contar do primeiro dia útil subsequente à citação.
+A providência: a) não importará em nenhum prejuízo à duração razoável do processo, pois consta do andamento processual que nova carta precatória de citação das acusadas foi expedida, em 12/3/2019 e b) atenderá aos fins do devido processo legal, pois a reconstrução histórica dos fatos interessa não somente à defesa, mas a todas as partes da ação penal.
+À vista do exposto, concedo o habeas corpus a fim de anular parcialmente a decisão de fl. 155 e determinar que o Juiz devolva o prazo decendial para a apresentação do rol de testemunhas a contar do primeiro dia útil subsequente à citação das rés, para, somente então, dar regular prosseguimento ao processo e iniciar a instrução criminal.
+Publique-se e intimem-se.
