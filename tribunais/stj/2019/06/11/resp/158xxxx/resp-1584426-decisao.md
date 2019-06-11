@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. AGRAVO DE INSTRUMENTO. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. CONTRATOS DE PRESTAÇÃO DE SERVIÇOS DE TELEFONIA COM CLÁUSULA DE PARTICIPAÇÃO FINANCEIRA. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE PAGAMENTO DO CUSTO DO SERVIÇO. FALTA DE INTERESSE DE AGIR. SÚMULA Nº 389/STJ. INCIDÊNCIA. ÔNUS PROBATÓRIO. ART. 333, INCISO I, DO CPC/1973.
+1. Ação de adimplemento contratual com pedido indenizatório.
+2. A Súmula nº 389/STJ é aplicável aos pedidos de exibição incidental dos chamados contratos de prestação de telefonia com cláusula de participação financeira. Precedentes.
+3. A ausência de comprovação da prévia existência de requerimento formal apresentado pelo autor da demanda visando obter os contratos de prestação de serviços de telefonia com cláusula de participação financeira revela sua falta de interesse de agir, impondo a extinção do feito sem resolução meritória. A determinação de exibição incidental desses documentos nessa hipótese (de não comprovação da apresentação do imprescindível requerimento prévio) constitui verdadeira ofensa ao art. 333, inciso I, do CPC/1973.
+4. Recurso especial parcialmente conhecido e, nessa extensão, provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por OI S/A, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 29/10/2016.
+Concluso ao gabinete em: 07/04/2017.
+Ação: adimplemento contratual com pedido indenizatório apresentada por [NOME], em face da recorrente, em razão de contrato de participação financeira decorrente de aquisição de linha telefônica.
+Sentença: julgou improcedente o pedido, diante da ausência de comprovação do fato constitutivo do direito dos autores e da prescrição. Fixou honorários em R$ 5.000,00.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+Contrato de participação financeira. Telefonia. Juízo competente. Natureza obrigacional do negócio. Caráter civil estrito senso. Prescrição em três anos para demandas societárias. Inaplicabilidade da Lei das S/A. prescrição vintenária. Cobrança das diferenças de ações ou seus valores em dinheiro. Exordial mencionando número e data do contrato. Exigência indevida, avença jurídica comum. Inversão do ônus probatório a favor dos consumidores. Cobrança de ações remanescentes mesmo que tenham cedido as recebidas. Inadmissível recusa da concessionária. Incidência do artigo 130 do CPC. Sucumbência da concessionária apelada. Recurso provido.
+Embargos de Declaração: opostos pela agravante, foram acolhidos para determinar que seja apurada a obrigação em liquidação por arbitramento.
+Recurso especial: alega violação artigos 100, §1º e 170 da Lei 6.404/76 e 333, I, 357 e 535, do Código de Processo Civil, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, aduz, em síntese, que o ônus probatório constitutivo do direito é do recorrido, bem como que a inicial deve ser instruída com o mínimo de provas existentes, especialmente com a individualização das informações. Sustenta a ausência de comprovação da realização do pedido administrativo e do pagamento da taxa de serviço, o que caracteriza falta de interesse processual.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/73.
+- Da súmula 568 do STJ.
+A egrégia Segunda Seção desta Corte Superior, tem entendimento consolidado de que a Súmula nº 389/STJ é aplicável aos pedidos de exibição incidental dos chamados contratos de prestação de telefonia com cláusula de participação financeira. Nesse sentido: AgInt no AREsp 1.271.960/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/8/2018, DJe 14/08/2018; e AgInt nos EDcl no AREsp 934.742/PR, Rel. Ministro Luís Felipe Salomão, Quarta Turma, julgado em 22/11/2016, DJe 1º/12/2016.
+Assim, a não comprovação da prévia existência de requerimento formal apresentado pelo autor da demanda visando obter os contratos de prestação de serviços de telefonia com cláusula de participação financeira revela sua falta de interesse de agir, impondo a extinção do feito sem resolução meritória. A determinação de exibição incidental desses documentos nessa hipótese (de não comprovação da apresentação do imprescindível requerimento prévio) constitui verdadeira ofensa ao art. 333, inciso I, do CPC/1973.
+Dessa forma, o TJ/RJ, ao concluir pela exibição dos documentos nessa hipótese, não se alinhou ao entendimento desta Corte Superior de Justiça. Aplica-se, portanto, a Súmula 568 do STJ.
+Assim, impõe-se a decretação da carência de ação por falta de interesse de agir dos recorridos e, por conseguinte, tenho por prejudicada a análise das demais matérias insertas no recurso especial.
+Forte nessas razões, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para decretar a carência de ação por falta de interesse de agir, julgando improcedente o pedido.
+Condeno a parte recorrida às custas e aos honorários advocatícios, os quais fixo em R$ 5.000,00 (cinco mil reais), com fundamento no art. 85, §8º, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC/15.
+Publique-se. Intimem-se.
