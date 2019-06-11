@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Ministério Público do Estado de Minas Gerais contra decisão que inadmitiu o recurso especial ante a razoabilidade da decisão tomada em segunda instância.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com base na alínea "a" do permissivo constitucional contra acórdão assim ementado:
+EMENTA: AÇÃO DE IMPROBIDADE ADMINISTRATIVA - PRIMEIRO APELO NÃO CONHECIDO - DESERÇÃO - AUSÊNCIA DE PUBLICAÇÃO PARA A APRESENTAÇÃO DE MEMORIAIS - CERCEAMENTO DE DEFESA AFASTADO - PRESCRIÇÃO - INOCORRÊNCIA - AQUISIÇÃO DE MATERIAIS DE INFORMÁTICA E ESCOLAR - CARTA-CONVITE - ARTIGO 22 DA LEI 8.666193 - INOBSERVÂNCIA - DIRECIONAMENTO DA LICITAÇÃO - ARTIGOS 10, VIII E 11, I DA LIA - PENALIDADES - PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE - SENTENÇA PARCIALMENTE REFORMADA.
+1. O pagamento prévio das despesas relativas ao recurso constitui verdadeiro pressuposto de admissibilidade recursal, cominando a legislação de regência a pena de deserção para a omissão verificada nesse sentido.
+2. Considerando-se que a eventual nulidade do procedimento exige a respectiva comprovação do prejuízo à defesa, conforme o princípio pas de nullité sans grief, consagrado no artigo 249, §1º do CPC, ausente nos autos, deve ser rejeitada a preliminar de cerceamento de defesa devido ao descumprimento do artigo 454 do mesmo diploma legal.
+3. Não ultrapassado o lapso temporal de cinco anos previsto pela Lei nº 8.429/92 quando do ajuizamento da ação (artigos 3º e 23), não há que se falar em prescrição da pretensão punitiva do Estado.
+4. Os agentes públicos (artigo 2º) e os particulares (artigo 3º) que agem ou se omitem dolosamente a fim de se enriquecerem ilicitamente ou atentarem contra os princípios norteadores da Administração Pública, bem como aqueles que, ao menos culposamente, causem prejuízo ao Erário, estão sujeitos às sanções estabelecidas no artigo 12 da Lei de Improbidade.
+5. De acordo com o artigo 22 da Lei de Licitações, para a regularidade do certame, exige-se que a Administração Pública envie convites para ao menos três licitantes ativas no ramo do objeto, salvo comprovada impossibilidade derivada de limitação de mercado ou desinteresse das licitantes, o que deve ser expressamente justificado no processo, ficando vedada a repetição do convite aos mesmos escolhidos na licitação imediatamente anterior em caso de haver mais de três interessados na praça, o que não restou observado neste caso.
+6. Em vista dos princípios da proporcionalidade e razoabilidade, aliado ao fato de não ter restado evidenciado que os materiais não foram fornecidos ou o foram em valores superiores aos praticados no mercado, beneficiando-se a Administração do fornecimento, a par da ilegalidade da contratação, tenho por descabida a condenação dos réus ao ressarcimento do dano e ao pagamento de multa civil, o que impõe a reforma parcial da sentença.
+7. Primeiro apelo não conhecido, segundo e terceiro apelo parcialmente providos e quarto apelo desprovido.
+Em suas razões, o recorrente argui ofensa ao disposto nos arts. 333, II, 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil; 10, VIII, e 12, II, da Lei n. 8.429/1992; e 51, § 3º, da Lei n. 8.666/1993.
+Decido.
+Com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial, para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do apelo nobre, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
+Após o trânsito, enviem-se os autos ao MPF para oferecimento de parecer.
