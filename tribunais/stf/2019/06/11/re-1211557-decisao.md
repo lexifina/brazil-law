@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à procedência dos pedidos de nulidade de demissão aplicada a guarda municipal, de reintegração ao cargo e de pagamento de vencimentos retroativos. No extraordinário, o recorrente aponta violado o artigo 2º da Constituição Federal. Tece considerações sobre a impossibilidade de exame, pelo Poder Judiciário, do mérito de ato administrativo, insistindo na legalidade do processo administrativo disciplinar pertinente. Diz contrariado o princípio da separação de Poderes.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese da decisão recorrida:
+    DIREITO PÚBLICO. RECURSO DE APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. DEMISSÃO. PAD. AUSÊNCIA DE INSUBORDINAÇÃO. DESPROPORÇÃO DA PUNIÇÃO. RECURSOS CONHECIDOS E DESPROVIDOS. SENTENÇA MANTIDA.
+    1. Cuida-se de Recurso de Apelação Cível interposto em face de sentença que julgou procedente o pedido inicial decretando a nulidade do ato de demissão do apelado, determinando a sua reintegração e o recebimento dos vencimentos devidos no período em que esteve afastado do cargo de Guarda Civil Municipal de Sobral. Em suas razões, entende a edilidade restar equivocada a sentença recorrida, em especial diante da constatação de ato de insubordinação por parte do apelado em face do seu superior hierárquico.
+    2. Possível ao Poder Judiciário apreciar a legalidade do procedimento administrativo disciplinar. Análise esta que adentra no campo da punição aplicada, em especial diante dos princípios da razoabilidade e proporcionalidade. Precedentes.
+    3. In casu, a acusação formulada ao autor refere-se a prática de ato de insubordinação realizado quando da reunião ocorrida na sede do Comando da Guarda Municipal de Sobral, em 17/07/2001. A conduta de insubordinação caracteriza-se por atos de rebeldia e revolta, ou seja, quando o acusado decide colocar-se em posição diferente dentro da hierarquia, de forma a afrontar seu superior negando-se a cumprir determinações ou colocando em xeque a autoridade deste. Do cotejo das provas, o fato de o acusado ter saído da sala de reuniões se deu também em razão de permissão concedida pela autoridade superior, Major, como referido pelas diversas testemunhas.
+    4. Assim, inexistente um ato efetivo de insubordinação, ou seja, de efetiva resistência do acusado/apelado em desobedecer as ordens do seu superior, não há que se falar em insubordinação, mostrando-se desassistida de razoabilidade e proporcionalidade a penalidade aplicada pela administração municipal.
+    5. Recursos voluntário e necessário conhecidos e desprovidos, sentença mantida.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Ante o exposto, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 11 de junho de 2019.
+Ministro MARCO AURÉLIO
+Relator
