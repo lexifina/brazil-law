@@ -1,0 +1,17 @@
+Decisão: 1. Trata-se de reclamação em que se articula violação à Súmula Vinculante 14 supostamente atribuível ao Juízo da 1ª Vara da Comarca de Cabedelo/PB.
+    Consta dos autos que o reclamante foi alvo da denominada Operação Xeque-Mate, deflagrada pela Polícia Federal, que resultou, nesta fase, na quinta denúncia de quatorze pessoas, na qual foi imputada a Roberto Ricardo Santiago Nóbrega a prática dos crimes previstos no art. 333 do Código Penal, em concurso material com o art. 1º, I, do Decreto-Lei 201/67, esse na forma do art. 71 do Código Penal.
+    A controvérsia, em síntese, gravita em torno da alegada negativa de acesso a procedimentos sigilosos, referentes à cota da denúncia ofertada nos autos da Ação Penal 0000506-59.2019.815.0731.
+    Em decisão proferida em 06.06.2019, a autoridade reclamada indeferiu o citado pedido em razão da existência de diligências em curso e concedeu prazo em dobro aos denunciados para que apresentem as respectivas respostas à acusação, cujo prazo encerra-se no dia 12.06.2019.
+    Em sede liminar, pleiteia a suspensão do prazo para apresentação da resposta à acusação que expira amanhã e, no mérito, que possa apresentar a peça da defesa apenas após o acesso a todos os “processos que instruem e são expressamente mencionados na peça acusatória, notadamente o de nº 00025-96.2019.815.0731, com restituição integral do prazo” (eDOC 1, p. 16).
+    É o relatório. Decido.
+    2. Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    A rigor, a própria demonstração da plausibilidade jurídica do pedido, no caso concreto, demanda maior esclarecimento, notadamente em razão de constar da decisão de recebimento da denúncia o levantamento do sigilo do IPL 277/18 a ela relacionado, bem como expressa referência à cota da denúncia, cujas providências ainda serão analisadas (eDOC6). Posteriormente, ao analisar pedido da defesa, consignou o magistrado que “em relação aos procedimentos sigilosos com diligências em curso, não há como atender o pedido do requerente, que terá acesso aos elementos de prova que estiverem documentados no momento oportuno, inclusive porque cuida-se de processo com réu preso, o que reclama maior celeridade no feito” (eDOC 25). Esse cenário, a meu ver, não confere segurança suficiente ao acolhimento, nesta etapa processual, da tutela requerida, ainda que de urgência.
+    3. Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual, sem prejuízo de ulterior reapreciação da matéria no julgamento final da presente reclamação, indefiro a liminar.
+    Colham-se as informações da autoridade reclamada em expediente a ser acompanhado da cópia da inicial e desta decisão.
+    Com tais informações, dê-se imediata vista à PGR.
+    Publique-se. Intime-se.
+    Brasília, 11 de junho de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
