@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pela União, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+"CONSTITUCIONAL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL OBJETIVA. CURSO DE COMBATE A INCÊNDIO. BASE NAVAL DE NATAL/RN. CAPITANIA DOS PORTOS. ACIDENTE. QUEIMADURA EM EXTENSÃO CORRESPONDENTE A 74% DA ÁREA CORPORAL DO AUTOR.
+I. A responsabilidade objetiva independe da comprovação de culpa ou dolo, ou seja, basta estar configurada a existência do dano, da ação e do nexo de causalidade entre ambos (art. 37, §6º da CF/88). Demonstrado o nexo causal entre o fato lesivo imputável à Administração e o dano, exsurge para o ente público o dever de indenizar o particular.
+II. Restou comprovado nos autos que o acidente em questão ocorreu no decorrer de uma aula prática, consistente em apagar um incêndio existente em um quarto fechado, a fim de simular uma praça de máquinas de um navio. Durante essa aula, três alunos entravam num quarto em chamas, devidamente equipados com os itens obrigatórios de segurança e, segurando uma mangueira de alta pressão, realizavam o combate às chamas, enquanto revezavam suas posições na linha de ataque. Surge para a autarquia o dever de indenizá-la, por decorrência de aplicação da tese da responsabilidade objetiva insculpida no art. 37, § 6º, da Constituição Federal.
+III. Verificado que os alunos se submeteram a aulas teóricas e praticas durante uma semana, e era patente a existência de aulas práticas com grande perigo para a incolumidade física deles (até mesmo a vida), tem-se por indubitável que o Poder Público deveria ter se cercado de todos os cuidados para a realização das referidas aulas, uma vez que as pessoas ali envolvidas não tinham habilidades suficientes para exercer aquele ofício.
+IV. A responsabilidade civil somente é elidida pelo caso fortuito, força maior ou pela culpa exclusiva da vítima, hipóteses essas que não se acham caracterizadas no caso trazido a exame.V Deve ser mantido o valor da indenização, a título de danos morais, em R$ 50.000,00, determinado na sentença, com a correção monetária na forma ali fixada. Redução dos juros de mora, devidos desde a citação valida, para o percentual de 0,5%.
+VI. Apelação parcialmente provida em razão da redução dos juros moratórios, ora fixados em 0,5%, devidos desde a citação válida."
+Os Embargos de Declaração foram rejeitados (fls. 450-456, e-STJ).
+Nas razões do apelo especial, a recorrente alega violação dos arts. 535 do CPC/1973; 43, 186, 393, 927, 944 e 945 do CC e 1º-F da Lei 9.494/1997.
+Sem contrarrazões.
+À fl. 651, e-STJ, foi dado provimento ao Agravo e determinada sua conversão em Recurso Especial, sem prejuízo de exame posterior mais profundo da admissibilidade.
+O Ministério Público Federal, mediante o parecer de fls. 654-665, e-STJ, opinou pela devolução dos autos ao Tribunal de origem.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 26.4.2019.
+A tese apresentada pela parte recorrente teve repercussão geral reconhecida, pelo Plenário do STF, nos autos do Recurso Extraordinário 870.947/SE, Relator Ministro LUIZ FUX, em que se discute a "validade da correção monetária e dos juros moratórios incidentes sobre as condenações impostas à Fazenda Pública, conforme previstos no art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009" (Tema 810).
+Ocorre que o Supremo Tribunal Federal deferiu o efeito suspensivo aos Embargos de Declaração opostos com a finalidade de modulação dos efeitos do julgamento do RE 870.947/SE, por entender que a aplicação imediata do decisum embargado pelas instâncias a quo poderia ensejar a realização de pagamento de consideráveis valores, em tese a maior, pela Fazenda Pública, ocasionando grave prejuízo às já combalidas finanças públicas.
+Confira-se, a propósito, a ementa do referido julgado:
+"DIREITO CONSTITUCIONAL. REGIME DE ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTES SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ARTIGO 1º-F DA LEI 9.494/1997 COM REDAÇÃO DADA PELA LEI 11.960/2009. TEMA 810 DA REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO PARCIALMENTE PROVIDO. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. EFEITO SUSPENSIVO. ARTIGO 1.026, § 1º, DO CPC/2015. DEFERIMENTO" (EDcl no RE 870.947/SE, Rel. Ministro Luiz Fux, DJe de 25/09/2018).
+ Ante o exposto, nos termos do art. 1.030, III, do CPC/2015, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que o Recurso Especial fique sobrestado até o julgamento definitivo do Tema 810 pelo Supremo Tribunal Federal e, após, seja submetido a julgamento na forma do art. 1.040 do CPC/2015.
+Publique-se.
+Intimem-se.
