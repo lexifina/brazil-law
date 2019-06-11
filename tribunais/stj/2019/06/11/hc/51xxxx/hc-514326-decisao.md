@@ -1,0 +1,20 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. RECONHECIMENTO DE FALTA GRAVE. INTERRUPÇÃO DO LAPSO TEMPORAL PARA CONCESSÃO DO LIVRAMENTO CONDICIONAL REITERAÇÃO DO PLEITO FORMULADO NO HC N.º 502.701/SP. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de WESCLEY ROBERTO FERNANDES contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido nos autos do Agravo de Execução Penal n.º 9000350-06.2018.8.26.0032.
+Consta dos autos que o Paciente cumpre pena privativa de liberdade em regime fechado, referente a três execuções, com término de penas previsto para 30/12/2030.
+O Juiz da Vara das Execuções Criminais, ao unificar as penas, determinou a atualização do "cálculo de penas para fins de benefícios, o qual deverá considerar por termo inicial a existência de nova prisão ou falta grave, obedecendo-se ainda a determinação contida na Súmula 441 do STJ" (fl. 13).
+Inconformado com a referida decisão, o Ministério Público interpôs agravo em execução, sustentando que a falta grave reinicia o cômputo de novo período aquisitivo para obtenção do livramento condicional, da comutação e do indulto.
+O recurso foi parcialmente provido para estabelecer que a data da última prisão pelo cometimento de novo delito pelo sentenciado deverá ser considerada como marco interruptivo do lapso para a obtenção de livramento condicional.
+O acórdão foi assim ementado (fl. 15):
+"AGRAVO EM EXECUÇÃO Recurso do Ministério Público Termo inicial para concessão de livramento condicional que deve ser a data da última prisão por crime cometido pelo agravado ou da falta grave Princípios da isonomia e da individualização da pena Finalidade progressiva/reeducativa de cumprimento da sanção penal A prática de fato definido como crime doloso constitui falta disciplinar de natureza grave e interrompe o lapso para a obtenção de benefícios, incluído o livramento condicional Precedentes do STF e desta Câmara - Súmula 441, do STJ, desprovida de efeito vinculante Todavia, quanto à comutação e indulto, por se tratar de benefícios cujos requisitos emanam de Decreto Presidencial, atinentes à questão futura e incerta, deverão ter seus requisitos analisados por ocasião de sua concessão Agravo ministerial parcialmente provido."
+No presente writ, a Impetrante assevera que não há previsão legal para a interrupção do lapso temporal para a obtenção do livramento condicional.
+Pleiteia, assim, liminarmente, a suspensão dos efeitos do acórdão impugnado e, no mérito, "a concessão da ordem a fim de reformar a decisão proferida pela autoridade coatora, afastando-se, por conseguinte, a determinação de reinício para livramento condicional" (fl. 10).
+É o relatório. Decido.
+O presente habeas corpus é mera reiteração do HC n.º 502.701/SP, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesma matéria.
+Ressalto que o writ anterior foi concedido em decisão monocrática, da minha lavra, transitada em julgado e assim ementada:
+"HABEAS CORPUS. EXECUÇÃO PENAL. RECONHECIMENTO DE FALTA GRAVE. INTERRUPÇÃO DO LAPSO TEMPORAL PARA CONCESSÃO DO LIVRAMENTO CONDICIONAL, INDULTO E COMUTAÇÃO DE PENAS. IMPOSSIBILIDADE. SÚMULAS N.os 441, 534 e 535 DESTA CORTE. ORDEM DE HABEAS CORPUS CONCEDIDA." (DJe 09/05/2019.)
+Assim, concluo pela inadmissibilidade do mandamus, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte" (AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+No mesmo sentido, v.g.: RCD no HC 423.298/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017; AgRg no HC 404.890/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/11/2017, DJe 27/11/2017.
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
