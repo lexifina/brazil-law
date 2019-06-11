@@ -1,0 +1,34 @@
+EMENTA
+PROCESSO CIVIL E FINANCEIRO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. HONORÁRIOS ADVOCATÍCIOS. FUNDEF. VERBAS PARA EDUCAÇÃO. JUNTADA DO CONTRATO ESCRITO DA VERBA HONORÁRIA. ART. 22, § 4º, DA LEI 8.906/1994. RETENÇÃO. IMPOSSIBILIDADE. ENTENDIMENTO ALTERADO PELA PRIMEIRA SEÇÃO NO RESP 1.703.697/PE. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público Federal contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. CONDENAÇÃO DA FAZENDA PÚBLICA. DIFERENÇAS A TÍTULO DE VALOR MÍNIMO ANUAL POR ALUNO - VMAA. COMPLEMENTAÇÃO DOS RECURSOS. FUNDEF. FUNDEB. LEI 9.424/96. HONORÁRIOS.
+1. Caso em que a União fora condenada a repassar verbas, relativas às diferenças de FUNDEF, no montante correspondente ao quinquênio anterior à propositura da ação, de acordo com o Valor Mínimo Anual por Aluno - VMAA, nos termos do art. 6º da Lei n. 9.424/1996.
+2. A União invoca a existência de tramitação de ações civis no STF, nas quais se discute o VMAA, no âmbito do FUNDEF. A circunstância, porém, não repercute para o deslinde da presente ação, à míngua de qualquer ordem vinculativa da Corte Superior para ações que tratem da mesma matéria, tal qual a presente.
+3. Sem razão também a apelante quando suscita a ilegitimidade da exequente, porque não teria sido o Município o autor do processo na fase de cognição, mas sim a AMUPE (Associação Municipalista de Pernambuco). Ora, tal questão somente poderia ser levantada na fase de conhecimento do processo, como de fato o foi. Destarte, resolvida a questão no momento oportuno, não cabe nova arguição da matéria no processo de execução;
+4. O caso em exame trata de mera execução individualizada de uma sentença coletiva, ou seja, a pretensão fora deduzida pela Associação Municipalista de Pernambuco - AMUPE, entretanto, somente os municípios individualmente considerados é que podem dar cumprimento ao julgado, executando o comando da sentença que adotou, para o calculo do VMAA, a sistematica prevista na Lei nº 9.424/96.
+5. A matéria relativa à criação do FUNDEB e à extinção de qualquer direito relativo ao FUNDEF, deveria ter sido arguida, e não foi, no processo de conhecimento, estando, portanto, preclusa.
+6. Não se revela necessária a existência de uma fase de liquidação para a apuração da dívida. É que, a natureza da ação ajuizada permite a liquidação por simples cálculos aritméticos, dado que a sentença, devidamente confirmada em grau de recurso, já estabeleceu qual o lapso temporal que abrange o crédito da municipalidade.
+7. Relativamente à possibilidade de retenção dos valores a serem percebidos pelo município, a título de honorários contratuais, esta Corte Regional vem reconhecendo ser direito do advogado tal retenção, se requerida, mediante a juntada do contrato, antes da expedição do requisitório, com arrimo no art. art. 22, paragrafo 4º, da Lei 8.906/94, o que efetivamente ocorreu na hipótese em testilha.
+8. No tocante aos honorários advocatícios, não deve haver condenação, tendo em vista a sucumbência recíproca, como bem decidira o juízo a quo.
+9. Apelações improvidas.
+Nas razões de recurso especial, fundamentado no artigo 105, III, a, do permissivo constitucional, a recorrente alega violação do art. 23 da Lei 11.494/2007, que implica na vinculação das verbas do FUNDEF, impedindo a sua aplicação para pagamento de verbas honorárias.
+Sem contrarrazões.
+O recurso foi admitido na origem.
+É relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O MPF sustenta a impossibilidade de retenção dos honorários contratuais nas verbas do FUNDEF.
+Com efeito, em razão do recente julgamento proferido no REsp 1.703.697/PE, em 10/10/2018, submetido à apreciação pela Primeira Seção desta Corte, a qual alterou a compreensão firmada de que seria legítima a retenção da verba honorária.
+No referido julgado, estabeleceu-se que os recursos do FUNDEF/FUNDEB encontram-se constitucional e legalmente vinculados a uma destinação específica, sendo vedada a sua utilização em despesa diversa da manutenção e desenvolvimento da educação básica, sendo inaplicável a regra do art. 22, § 4º, da Lei n. 8.906/1994 na hipótese.
+Confira-se a ementa do julgado, ainda pendente de publicação:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. RETENÇÃO DA VERBA HONORÁRIA. CRÉDITO RELATIVO A DIFERENÇAS DO FUNDO DE MANUTENÇÃO E DE DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZAÇÃO DO MAGISTÉRIO - FUNDEF. IMPOSSIBILIDADE. AMICUS CURIAE. INTEMPESTIVIDADE. INTERVENÇÃO COMO ASSISTENTE. AUSÊNCIA DE INTERESSE JURÍDICO OU VIOLAÇÃO DE PRERROGATIVA INERENTE À CARREIRA
+DA ADVOCACIA.
+ ..
+7. Na execução, regra geral, é possível a requisição pelo patrono de reserva da quantia equivalente à obrigação estabelecida, entre si e o constituinte, para a prestação dos serviços advocatícios. A condição para isso é que o pleito seja realizado antes da expedição do precatório ou do mandado de levantamento, mediante a juntada do contrato. Orientação do STJ e do STF.
+8. Esse entendimento, todavia, não é aplicável quando os valores a que tem direito o constituinte se referem a verbas decorrentes de diferenças do FUNDEF que a União deixou de repassar aos Municípios a tempo e modo.
+9. O fato de determinada obrigação pecuniária não ter sido cumprida espontaneamente, mas somente após decisão judicial com trânsito em julgado, não descaracteriza a sua natureza nem a da prestação correspondente. Assim, uma vez que os valores relacionados ao FUNDEF, hoje FUNDEB, encontram-se constitucional e legalmente vinculados ao custeio da educação básica e à valorização do seu magistério, é vedada a sua utilização em despesa diversa, tais como os honorários advocatícios contratuais.
+10. Reconhecida a impossibilidade de aplicação da medida descrita no art. 22, § 4º, da Lei n. 8.906/1994 nas execuções contra a União em que se persigam quantias devidas ao FUNDEF/FUNDEB, deve o advogado credor, apesar de reconhecido o seu mérito profissional, buscar o seu crédito por outro meio.
+11. Recurso especial a que se dá provimento para negar o direito à retenção dos honorários advocatícios contratuais do crédito devido pela União.
+Aplica-se, ao caso, entendimento consolidado na Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial.
+Publique-se. Intimem-se.
