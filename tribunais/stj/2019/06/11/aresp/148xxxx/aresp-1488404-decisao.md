@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO DE CANCELAMENTO DE INSCRIÇÃO E INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, INC. III, DO NCPC. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Cuida-se de ação de cancelamento de inscrição e indenização por danos morais ajuizada por ALORINA MARTINS DA SILVA (ALORINA) contra UNITFOUR TECNOLOGIA DA INFORMAÇÃO LTDA EPP (UNITFOUR).
+A demanda foi julgada improcedente por ilegitimidade da UNITFOUR para figurar no polo passivo.
+Condenou a autora ao pagamento das custas e despesas processuais, além de honorários advocatícios no valor de R$ 500,00 (quinhentos reais), observada a gratuidade judiciária (e-STJ, fls. 134/138).
+ALORINA interpôs apelação e o Tribunal de origem proveu o recurso, para afastar o reconhecimento da ilegitimidade passiva da UNITFOUR, na forma do art. 1.013, §3º, I, julgo procedente a demanda para condená-la ao pagamento de indenização à autora no valor de R$ 8.000,00 ( oito mil reais) com correção pelo IGPM a contar do evento danoso e com juros de mora de 1% ao mês a contar da citação. A apelada foi condenada ao pagamento das custas processuais e com honorários ao procurador da apelante, fixando-os em 15% do valor da condenação.
+ O acórdão restou assim ementado:
+Apelação cível. Responsabilidade civil. Ação indenizatória por dano moral. Ausência de comprovação da notificação prevista no § 2º do art. 43 do CDC. Inscrição considerada indevida em cadastro de inadimplentes. CCF.
+Legitimidade passiva reconhecida. Aquele que mantém ou reproduz informações, mesmo que oriunda de outros órgãos, tem legitimidade para responder ação em razão da ausência de notificação a que alude o art. 43, § 2º, do CDC.
+Ausência de notificação no caso concreto.
+Inexistência de outros registros desabonadores preexistentes à inscrição ilícita. Dano moral presumido. A falta de notificação da inscrição do nome da parte autora em banco de dados de inadimplentes acarreta o dever de indenizar o dano moral suportado pela parte. Incumbência da instituição mantenedora do cadastro.
+Precedentes desta Corte. Inteligência da Súmula 385 do STJ. Apelo provido (e-STJ, fl.112).
+ALORINA opôs embargos de declaração e acolhidos com efeitos infringentes, em acórdão assim ementado:
+Embargos de declaração. Responsabilidade civil. Indenização por dano moral. Contradição sanada. Termo inicial de atualização dos juros moratórios e de correção monetária. Súmulas 54 e 362/STJ. Embargos de declaração acolhidos com efeitos infringentes (e-STJ, fl.155).
+UNITFOUR opôs embargos de declaração e foram acolhidos com efeitos infringentes, em acórdão assim ementado:
+Embargos de declaração. Responsabilidade civil. Indenização por danos morais. Julgamento extra petita. Contradição sanada. Embargos de declaração acolhidos com efeitos infringentes (e-STJ, fl.159).
+Irresignada, UNITFOUR interpôs recurso especial, com fundamento no art. 105, III, c, da Constituição Federal, apontando violação do art.43, §2º, do CDC, afirmando que não é legítimo figurar no polo passivo de demanda, pois somente é mera reguladora de bando de dados e não um órgão de proteção ao crédito. Acrescentou que por esta razão não está obrigada a notificar a devedora.
+Asseverou que é indenvida qualquer indenização por perdas e danos (e-STJ, fls. 180/198).
+O apelo nobre não foi admitido sob os fundamentos de aplicação dos arts. 1.030, I, b e 1.040, I, do NCPC, sistemática dos recursos repetitivos em relação à legitimidade passiva da recorrente e a obrigatoriedade da notificação prévia ao devedor, e em relação aos demais pontos, negou seguimento pela incidência das Súmulas nºs 7 e 83 do STJ (e-STJ, fls. 206/216).
+UNITFOUR manejou agravo em recurso especial, afirmando . No mais, repisou as razões do apelo nobre, afirmando que é ilegítimo para figurar no polo passivo da demanda (e-STJ, fls. 219/229).
+Contraminuta não apresentada (e-STJ, fl.232).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra os fundamentos da decisão agravada atinentes à incidência das Súmulas nºs 7 e 83 do STJ.
+Na hipótese em que se pretende impugnar, em agravo no recurso especial, a incidência da Súmula 7 do STJ, deve a parte agravante demonstrar que a alteração do entendimento manifestado pela Corte estadual independe do reexame dos elementos de convicção dos autos, o que não se observou no caso.
+Com referência à incidência da Súmula nº 83/STJ, não foram indicados precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual. Os precedentes citados no Agravo tratam de anotação derivada de protestos informados pelo cartório, o que não é o caso.
+Por fim, cumpre destacar que, com o advento da nova ordem processual civil, não cabe agravo contra decisão que inadmite recurso especial, fundada na aplicação de entendimento firmado em julgamento de recurso repetitivo, configurando-se erro grosseiro sua interposição.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III). NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS. CAPITALIZAÇÃO MENSAL DE JUROS. NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART.
+1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO. 4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.
+3. Não se configura ofensa ao art. 535 do CPC/73 quando o Tribunal de origem, embora rejeite os embargos de declaração opostos, manifesta-se acerca de todas as questões devolvidas com o recurso e consideradas necessárias à solução da controvérsia, sendo desnecessária a manifestação pontual sobre todos os artigos de lei indicados como violados pela parte vencida.
+4. Agravo parcialmente conhecido para, nessa extensão, negar provimento ao recurso especial, com majoração dos honorários advocatícios, na forma do art. 85, §§ 8º e 11, do CPC/2015.
+(AREsp 959.991/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 16/8/2016, DJe 26/8/2016)
+
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de UNITFOUR, nos termos do art. 85, §11, do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
