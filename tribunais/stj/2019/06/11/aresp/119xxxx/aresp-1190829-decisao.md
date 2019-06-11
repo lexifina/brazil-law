@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. O TRIBUNAL DE ORIGEM ENTENDEU NÃO ESTAR COMPROVADA A OCORRÊNCIA DE FRAUDE NO APARELHO MEDIDOR. INVERSÃO DO JULGADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. AGRAVO EM RECURSO ESPECIAL DA CONCESSIONÁRIA A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto por [NOME] - DISTRIBUIDORA DE ENERGIA S.A., com fundamento na alínea a do art. 105, III da CF/1988, contra acórdão proferido pelo egrégio TJ/SE, assim ementado:
+APELAÇÕES CÍVEIS - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANO MORAL -PROCEDIMENTO DE RECUPERAÇÃO DE ENERGIA - OBSERVÂNCIA DO PROCEDIMENTO PREVISTO NA RESOLUÇÃO 414/2010 DA ANEEL POR PARTE DA EMPRESA DEMANDADA - DEFEITO NO MEDIDOR - NÃO COMPROVAÇÃO DE FRAUDE PELO CONSUMIDOR - COBRANÇA ILEGÍTIMA - AUSÊNCIA DE PROVA DE LOCUPLETAMENTO - ÔNUS DA EMPRESA RECLAMADA - ART. 373, II, DO NCPC - COBRANÇA ILEGÍTIMA - DANO MORAL INEXISTENTE - AUSÊNCIA DE SUSPENSÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA - REFORMA PARCIAL DA SENTENÇA - RECURSO DA DEMANDADA CONHECIDO E IMPROVIDO E APELO AUTORAL CONHECIDO E PARCIALMENTE PROVIDO - DECISÃO UNÂNIME (fls. 258/261).
+2. Não foram opostos Embargos de Declaração.
+3. Nas razões de seu Recurso Especial inadmitido, a parte recorrente aponta ofensa ao art. 373, II do Código Fux, aduzindo para tanto que estaria comprovada a fraude no medidor de energia, pelo que seria lícita a cobrança do débito impugnado.
+4. Com contrarrazões (fls. 278/283), o Apelo Nobre foi inadmitido na origem (fls. 287/290).
+5. É o relatório.
+6. Inicialmente, é importante ressaltar que o presente Recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no Código Fux (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+7. No mais, não pode ser conhecido o Recurso, pois a modificação das conclusões do acórdão recorrido exigiria o reexame do conjunto fático-probatório, inviável nesta instância.
+8. Isso porque o Tribunal de origem consignou, à luz dos fatos e provas da causa, que as diferenças na apuração do consumo não decorreram de fraude por parte da consumidora - a qual não restou comprovada -, mas sim de defeito no aparelho medidor da Concessionária (fls. 260).
+9. Ora, entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório do autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do Recurso Especial.
+10. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial da Concessionária.
+11. Por fim, nos termos do que dispõe o art. 85, § 11 do Código Fux, fixam-se os honorários recursais em 1%, que deverá ser acrescido ao montante total devido ao Advogado da parte recorrida.
+12. Publique-se. Intimações necessárias.
