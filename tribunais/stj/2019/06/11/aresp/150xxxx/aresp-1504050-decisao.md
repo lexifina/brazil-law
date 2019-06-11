@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado pelo MUNICÍPIO DE ORIZÂNIA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+EMENTA: MEDIDA CAUTELAR - AÇÃO DIRETA DE INCONSTITUCIONALIDADE - LEI ORÇAMENTÁRIA ANUAL N.º 446/2016 - EXERCÍCIO DE 2016 - PRINCÍPIO DA SEPARAÇÃO DOS PODERES - EMENDA INDIVIDUAL - PERDA DO OBJETO - OCORRÊNCIA - EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO.
+Inexiste interesse processual para o julgamento de ação direta de inconstitucionalidade ajuizada em face da Lei n.º 446/2016 do Município de Orizânia que dispõe sobre Lei Orçamentária Municipal que já exauriu seus efeitos no exercício financeiro findo.
+Quanto à primeira controvérsia, alega violação do art. 1022 do Código de Processo Civil, no que concerne à alegada negativa de prestação jurisdicional, trazendo o seguinte argumento:
+ ..  o acórdão vergastado ao rejeitar os embargos aclaratórios, mantendo-se inerte quanto à análise das questões acima elencadas, se olvidou também quanto ao disposto no artigo 1022 do NCPC, desrespeitando novamente a legislação federal (fls. 129).
+Quanto à segunda controvérsia, alega violação dos arts. 11 e 489, inciso II e parágrafo único, inciso I, do Código de Processo Civil. Aduz, novamente, negativa de prestação jurisdicional, trazendo o seguinte argumento:
+Dessa forma, em que pese o respeito que nos mereça o entendimento firmado pelo d. desembargador Relator, sua decisão, no âmbito da circunstância acima elencada, olvida importantes disposições do ordenamento em vigor, demandando urgente reforma para sanar tal omissão, diante a patente violação à Legislação Federal perpetrada pela decisão recorrida, tendo em vista ter sido omissa quanto aos dispositivos de lei federal ao acolher preliminar e extinguir a ADI proposta pelo Recorrente, mantendo no ordenamento jurídico situações geradas sob a égide de uma norma inconstitucional (fls. 128).
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais os incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
