@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO, contra a decisão que não admitiu seu recurso especial fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+ADMINISTRATIVO. FIES. FNDE. UNIRITTER. ADITAMENTO. DIREITO À EDUCAÇÃO. PRINCÍPIO DA RAZOABILIDADE.
+O aluno não pode ser penalizado com a paralisação de seus estudos em razão de incongruência no sistema SIsFIES que impediu a regularização e aditamento dos contratos de financiamento estudantil, ou pela ausência de informações claras acerca dos problemas a serem sanados.
+O descumprimento das normas do sistema e o descumprimento de decisões judiciais justificam condenação em danos morais e aplicação de multa, a serem executadas na respectiva fase.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 1.022 do CPC, no que concerne à omissão do acórdão recorrido quanto a questões anteriormente solicitadas.
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 186 e 927 do CC, no que concerne à configuração do dano moral, trazendo, em síntese, o seguinte argumento:
+No presente caso, não existiu conduta do FNDE  comissiva ou omissiva apta a causar qualquer dano à demandante. Não houve ato ilícito e tampouco dano de natureza moral causado pelo FNDE (fl. 966).
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais os incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
