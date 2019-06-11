@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo apresentado por JR FOZ TURISMO LTDA. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO ANTT PRESCRIÇÃO LEI N 9873/99 - DIPLOMA APLICÁVEL PRESCRIÇÃO AFASTADA APELO DESPROVIDO.
+Alega violação do art. 1º, § 1º, da Lei n. 9.873/99, no que concerne à necessidade de reconhecimento da prescrição, trazendo o(s) seguinte(s) argumento(s):
+Ainda Nobres Julgadores, ao contrário do que consta da r. decisão, ora combatida, o Processo Administrativo, o qual se busca a anulação, ficou paralisado por mais de 03 (três) anos, senão vejamos:
+A ora Recorrida anexou aos autos principais cópia integral do Processo Administrativo nº 50520.054824/2010-89, em data de 17/05/2016, conforme consta do Evento 14.
+Segundo consta do referido auto, a suposta infração praticada pela empresa Recorrente teria ocorrido em 06/02/2010, na cidade de Foz do Iguaçu/PR (fls.
+Ainda Nobres Julgadores, ao contrário do que consta da r. decisão, ora combatida, o Processo Administrativo, o qual se busca a anulação, ficou paralisado por mais de 03 (três) anos, senão vejamos:
+A ora Recorrida anexou aos autos principais cópia integral do Processo Administrativo nº 50520.054824/2010-89, em data de 17/05/2016, conforme consta do Evento 14.
+De acordo com as folhas 02 do Processo Administrativo, o Auto de Infração foi instaurado na data dos fatos, 06/02/2010, ainda, conforme consta em fls. 04/05 do Processo Administrativo (Evento 14), a Ré, ora Recorrida, somente encaminhou a NOTIFICAÇÃO DE MULTA para a empresa Recorrente em data de 15/07/2013, ou seja, a mais de 03 (três) anos da data do fato
+Ou seja, entre o fato punível instaurado na data da suposta infração e a notificação pela Ré, seguramente passaram-se mais de 03 (três) anos, de modo que restou devidamente configurada a prescrição punitiva, nos termos do art. 1º, parágrafo 1º, da Lei 9.873/99 (fls. 203/204).
+É o relatório. Decido.
+Na espécie, o Tribunal de origem assim se manifestou sobre a controvérsia recursal:
+"A dívida em questão trata-se de multa de natureza não tributária, sendo o fundamento jurídico a infração aos serviços de transporte internacional terrestre de passageiros (artigo 2º, alínea a, item 1 do Decreto 5.462/2005 - Efetuar transporte internacional terrestre sem estar autorizado.).
+Em infrações como a do processo não há prazo para a emissão da notificação da autuação na própria norma da ANTT. Assim, são aplicavéis as regras precricionais previstas na Lei nº 9.873/99, que estabelece o prazo de prescrição/decadência para ao exercício de ação punitiva pela Administração Pública Fedderal, direta e indireta  ..
+"A dívida em questão trata-se de multa de natureza não tributária, sendo o fundamento jurídico a infração aos serviços de transporte internacional terrestre de passageiros (artigo 2º, alínea a, item 1 do Decreto 5.462/2005 - Efetuar transporte internacional terrestre sem estar autorizado.).
+Em infrações como a do processo não há prazo para a emissão da notificação da autuação na própria norma da ANTT. Assim, são aplicavéis as regras precricionais previstas na Lei nº 9.873/99, que estabelece o prazo de prescrição/decadência para ao exercício de ação punitiva pela Administração Pública Fedderal, direta e indireta (fls. 158/159).
+Nessa linha, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
