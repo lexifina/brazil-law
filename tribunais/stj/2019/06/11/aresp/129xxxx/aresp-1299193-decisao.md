@@ -1,0 +1,34 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. FORNECIMENTO DE ÁGUA. IMPOSSIBILIDADE DE REVISÃO DO VALOR ARBITRADO A TÍTULO DE MULTA DIÁRIA POR DESCUMPRIMENTO DE OBRIGAÇÃO (R$ 500,00). REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO EM RECURSO ESPECIAL DA CEDAE A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pela COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE, com fundamento no art. 105, III, a da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio TJ/RJ, assim ementado:
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL.
+Condenação do ora agravante ao cumprimento de obrigação de fazer. Incidência de multa. Fundamentação suficiente. Poder do magistrado na redução ou majoração do valor da medida de apoio pecuniária, nas hipóteses de insuficiência ou excesso. Critérios de fixação das astreintes, recentemente definidos pelo STJ. Manutenção do montante, considerada a essencialidade do fornecimento de água. Ausência de enriquecimento sem causa. Proporcionalidade e razoabilidade. Recurso desprovido (fls. 60).
+2. Nas razões do Recurso Especial, a parte agravante aponta ofensa aos arts. 537, § 1o. do CPC/2015, ao argumento de que a multa diária arbitrada viola os princípios da razoabilidade e proporcionalidade, requerendo, assim, a redução das astreintes.
+3. Sobreveio juízo negativo de admissibilidade (fls. 84/85), o que ensejou a interposição do presente Agravo (fls. 94/100).
+4. É o relatório no essencial.
+5. A irresignação não merece prosperar.
+6. Insurge-se a parte recorrente quanto ao valor da multa diária fixada na origem, alegando ser excessiva. No ponto, a Corte de origem partiu das seguintes premissas:
+Nesse aspecto, o art. 537, § 1o, daquele código, faculta ao magistrado reduzir ou majorar a medida de apoio pecuniária, nas hipóteses em que ela se revelar insuficiente ou sobremaneira excessiva.
+A respeito do tema, Luiz Guilherme Marinoni leciona que se o valor da multa apresenta-se excessivo em face da capacidade de resistência do réu, não há porque não se admitir a redução do seu valor. Dúvida poderia existir, contudo, em relação à possibilidade de o juiz reduzir o valor da multa que já se acumulou. Entretanto, mesmo nesta hipótese, justamente porque não há que se falar em coisa julgada material, ou em direito de crédito do autor, deve admitir-se a redução do valor da multa" (Tutela específica, São Paulo, RT, 2000, p. 112).
+Cuida-se, pois, de medida que pode ser adotada de ofício pelo magistrado, independente de requerimento do executado.
+Com relação aos critérios a serem examinados na fixação do montante da multa cominatória, o Superior Tribunal de Justiça, em recentíssimo julgado, assentou que devem ser considerados o valor da obrigação e importância do bem jurídico tutelado, o tempo para cumprimento (prazo razoável e periodicidade), a capacidade
+econômica e de resistência do devedor, bem como a possibilidade de adoção de outros meios pelo magistrado e dever do credor de mitigar o próprio prejuízo. (Aglnt no AgRg no AREsp 738.682, Min. Luis Felipe Salomão, julgado em 17/11/16).
+Como bem salientado pelo juízo de 1o grau (pasta 09, anexo 1), a causa versa sobre fornecimento de água, cuja essencialidade justifica a necessidade de reforçada tutela à regularidade do serviço.
+Ademais, o recorrente não impugnou a afirmação de que deixou de refaturar as contas dos últimos dez anos com base na tarifa mínima, conforme determinado pela sentença (pasta 12, fls. 141, anexo 1), a inviabilizar a quitação do débito pelo agravado, de modo que não há motivo a ensejar a interrupção do fornecimento, sendo possível o restabelecimento no prazo de 72 horas.
+De outro giro, a medida imposta pelo juízo a quo não enseja qualquer prejuízo ao agravante ou enriquecimento sem causa do agravado.
+A multa foi fixada em R$ 500,00, por dia de descumprimento, valor incapaz de enriquecer o agravado, e sequer incidirá se o agravante, efetivamente, cumprir a decisão judicial e adimplir sua obrigação.
+Assim, a medida é razoável, proporcional e consentânea com a relevância do bem jurídico tutelado, a impor sua manutenção (fls. 61/62).
+7. No caso em tela, a apreciação dos critérios previstos no art. 537 do Código Fux para a fixação de valor demandaria o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7/STJ. Excepcionam-se apenas as hipóteses de valor irrisório ou exorbitante, o que não se configura neste caso, que arbitrou em R$ 500,00. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ASTREINTES. REDUÇÃO DO VALOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não houve ofensa ao art. 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Na via especial não é cabível, em regra, a revisão do valor fixado pelas instâncias ordinárias a título de multa diária por descumprimento da obrigação de fazer, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, que o quantum arbitrado a título de astreintes seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não é a hipótese dos autos.
+3. Agravo interno a que se nega provimento (AgInt no AREsp. 1.168.285/PE, Rel. Min. SÉRGIO KUKINA, DJe 17.4.2018).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIÇOS DE TELEFONIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ASTREINTES. MULTA DIÁRIA. REVISÃO DO VALOR. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+(..).
+2. A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em Recurso Especial a revisão do valor fixado a título de multa diária (astreinte) pelo descumprimento de decisão judicial, pois tal providência exigiria incursão na seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ.
+3. O óbice da Súmula 7 do STJ atinge também o Recurso Especial interposto com fundamento na alínea c do inciso III do artigo 105 da Constituição da República, porque impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+5. Recursos Especiais não conhecidos (REsp. 1.643.144/RO, Rel. Min. HERMAN BENJAMIN, DJe 18.4.2017).
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial da CEDAE.
+9. Publique-se.
+10. Intimações necessárias.
