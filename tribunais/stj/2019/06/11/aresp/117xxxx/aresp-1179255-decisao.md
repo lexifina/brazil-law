@@ -1,0 +1,69 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. CONFISSÃO DE DÍVIDA E PARCELAMENTO. LIQUIDEZ DO TÍTULO EXECUTIVO. RAZÕES DISSOCIADAS DAS QUESTÕES ENFRENTADAS PELA CORTE DE ORIGEM. FUNDAMENTO INATACADO. SÚMULAS 283 E 284/STF. AGRAVO EM RECURSO ESPECIAL DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Agrava-se da decisão que inadmitiu Recurso Especial interposto pela MICROINOX FUNDICAO DE PRECISAO E USINAGEM LTDA., com fundamento na alínea a do art. 105, III da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. CONTRIBUIÇÃO SOCIAL. SESI. CONFISSÃO DE DIVIDA E PARCELAMENTO. LIQUIDEZ DO TÍTULO EXECUTIVO.
+As contribuições sociais previstas no art. 240 da Constituição Federal detêm natureza tributária.
+No caso, a execução tem como base, Termo de Acordo Consolidado e Confissão de Dívida firmada pela empresa devedora, com expresso reconhecimento do débito, O acordo não foi cumprido, daí a execução.
+A confissão de dívida tem o mesmo valor da transação e só se anula por dolo, coação ou erro essencial quanto à pessoa ou coisa controversa (art. 849 do CC).
+No caso, a devedora em nenhum momento do processo carreou aos autos qualquer prova de que o valor confessado tivesse tomado como base de cálculo as rubricas impugnadas.
+Evidente, portanto, a ausência de nulidade do título exequendo, comprovada suficientemente sua liquidez.
+Apelação desprovida (fls. 289).
+2. Os Embargos de Declaração opostos (fls. 297/302), foram rejeitados (fls. 309/312).
+3. Nas razões do seu Apelo Nobre, inadmitido, a parte recorrente sustenta violação dos arts. 22, I, 28, § 9o., a 60, § 3o. da Lei 8.212/1991, 4o. da Lei 7.418/1985, 487, § 5o., 67 da CLT e 3o. da Lei 605/1949, ao argumento de que não deve incidir contribuição previdenciária sobre os valores pagos a título de (i) dos primeiros quinze dias que antecedem o auxílio-doença/acidentário e do aviso prévio indenizado; (ii) adicionais de horas extras, noturno, de periculosidade e de insalubridade; (iii) auxílio ou reembolso educação, auxílio-creche e do vale-transporte. Pugna pela reforma do julgado.
+4. Com contrarrazões (fls. 365/369), o recurso fora inadmitido na origem (fls. 382/388).
+5. É o relatório.
+6. Cuida-se, na origem, de Embargos à Execução, onde a parte executada sustenta a nulidade da execução, em razão de que o título que lhe lastreia não apresenta os requisitos de certeza e liquidez.
+7. A questão controvertida se limita à declaração ou não de nulidade da execução, que tem por base Termo de Acordo Consolidado e Confissão de Dívida firmado pela empresa devedora. Acerca do tema, o Tribunal de origem decidiu nos seguintes termos:
+No caso, a execução tem como base, Termo de Acordo Consolidado e Confissão de Dívida firmada pela empresa devedora, com expresso reconhecimento do débito, na importância de R$ 106.488,92.
+O acordo não foi cumprido, daí a execução.
+A confissão de dívida tem o mesmo valor da transação e só se anula por dolo, coação ou erro essencial quanto à pessoa ou coisa controversa (art. 849 do CC).
+Conforme entendimento sedimentado no âmbito do STJ, quando houver confissão de dívida e parcelamento, é inviável a revisão de questões de fato ante a ausência de demonstração do defeito causador de nulidade do ato jurídico (REsp 1.133.027/SP, 1a- Seção).
+Esclarecedor o conteúdo do REsp 1.074.186/RS, rel. Min. Denise Arruda, 1a. Turma:
+a confissão de dívida não inibe o questionamento judicial da obrigação tributária no que se refere aos seus aspectos jurídicos.
+Hipótese em que o contribuinte pretende a revisão do parcelamento com fundamento na ilegitimidade do processo de instituição do tributo, por não estar em conformidade com a legislação que rege a matéria.
+No caso, a devedora em nenhum momento do processo carreou aos autos qualquer prova de que o valor confessado tivesse tomado como base de cálculo as rubricas impugnadas.
+Evidente a ausência de nulidade no título, comprovada sua liquidez ante o reconhecimento da executada (fls. 291/292).
+8. Na hipótese dos autos, assentou a Corte de origem que o título se revestira de liquidez, salientando que a devedora em nenhum momento do processo carreou aos autos qualquer prova de que o valor confessado tivesse tomado como base de cálculo as rubricas impugnadas. Nesse contexto, dirimiu a controvérsia que se resumia à execução de Termo de Acordo Consolidado e Confissão de Dívida não cumprido, firmado com a empresa devedora, com expresso reconhecimento do débito.
+9. Todavia, a parte recorrente limitou-se a defender a não incidência da contribuição previdenciária nas rubricas primeiros quinze dias que antecedem o auxílio-doença/acidentário, do aviso prévio indenizado, adicionais de horas extras, noturno, de periculosidade e de insalubridade, auxílio ou reembolso educação, auxílio-creche e do vale-transporte.
+10. Verifica-se, assim, que a parte recorrente, além de ter apresentado fundamentos dissociados do que foi decidido no acórdão recorrido, não atacou fundamento suficiente à manutenção do julgado, atraindo a incidência dos óbices previstos nas Súmulas 283 e 284/STF, por analogia.
+11. A esse respeito, convém a transcrição dos seguintes precedentes:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/15. INOCORRÊNCIA. RECONHECIMENTO DE GRUPO ECONÔMICO. RESPONSABILIDADE TRIBUTÁRIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. INCIDÊNCIA. JULGAMENTO EXTRA PETITA. NÃO CONFIGURADO. RAZÕES DISSOCIADAS E AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO, POR ANALOGIA, DAS SÚMULAS 283 E 284 DO STF. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+(..).
+V - As razões recursais apresentadas, quanto ao fundamento adotado pelo acórdão recorrido acerca da responsabilidade tributária, encontram-se dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal.
+VI - A parte agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+VII - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido (AgInt no REsp. 1.761.218/SP, Rel. Min. REGINA HELENA COSTA, DJe 11.12.2018).
+
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO. FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado Administrativo 3/STJ).
+2. Pelo princípio da dialeticidade, impõe-se à parte recorrente o ônus de motivar seu recurso, expondo as razões hábeis a ensejar a reforma da decisão, sendo inconsistente o recurso que não ataca concretamente os fundamentos utilizados no acórdão recorrido.
+3. Incidem as Súmulas 283 e 284 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido, sendo considerada deficiente a fundamentação do recurso.
+4. Agravo desprovido (AgInt no RMS 58.200/BA, Rel. Min. GURGEL DE FARIA, DJe 28.11.2018).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. LICITAÇÃO. CREDENCIAMENTO. SERVIÇOS ADVOCATÍCIOS. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. PREVISÃO EDITALÍCIA. VINCULAÇÃO AO INSTRUMENTO CONVOCATÓRIO. SUPOSTA VIOLAÇÃO A DISPOSITIVOS DA LEI Nº 8.666/1993 E DO CÓDIGO CIVIL. RAZÕES RECURSAIS INAPTAS DE INFIRMAR OS FUNDAMENTOS DO ACÓRDÃO. SÚMULAS 284 E 283/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O mero julgamento da causa em sentido contrário aos interesses e à pretensão das partes não caracteriza a ausência de prestação jurisdicional, tampouco viola o art. 1.022 do CPC/2015. Jurisprudência do Superior Tribunal de Justiça.
+3. Não se conhece do recurso especial por deficiência na sua fundamentação, estando as razões do recurso genéricas e dissociadas do que decidido no acórdão recorrido, bem como quando não impugnam fundamento autônomo, suficiente por si só à manutenção do julgado (Súmulas 284 e 283/STF).
+(..).
+6. Agravo interno não provido (AgInt no AREsp. 1.343.289/AP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 14.12.2018).
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO COMPROVADA. PENSÃO POR MORTE. INVALIDEZ DE DEPENDENTE COMPROVADA PELA PERÍCIA MÉDICA. SUPOSTA OFENSA AO ART. 431-A DO CPC. NULIDADE RELATIVA DE ATO PROCESSUAL. INTIMAÇÃO PARA INÍCIO DA PRODUÇÃO DE PROVA PERICIAL. DEMONSTRAÇÃO DE PREJUÍZO. NECESSIDADE. FUNDAMENTO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF.
+1. Constata-se que não se configura a ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. A jurisprudência do STJ entende que a ausência de intimação para acompanhar a perícia gera nulidade relativa, cabendo à parte a demonstração de eventual prejuízo sofrido.
+3. Ademais, ainda que superado tal óbice, a Corte local consignou que descuidou-se o Procurador do Estado que a Secretaria de Planejamento e Gestão, através do ofício 0211/2013-COPEM, dirigido ao Juiz da causa, indicou o perito [NOME], para a realizar a perícia, cuja realização deveria ser agendada, por telefone, junto à Coordenadoria de Perícia Médica - através do telefone (..) e assim foi feito (fls. 166-167, e-STJ). Contudo, esse argumento não foi atacado pela parte recorrente e, como é apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido (REsp. 1.773.141/CE, Rel. Min. HERMAN BENJAMIN, DJe 17.12.2018).
+
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa aos artigos 489 e 1.022 do CPC/15.
+2. Esta Corte Superior firmou posicionamento no sentido de que a ordem legal de preferência para nomeação do inventariante não é absoluta, podendo ser relativizada para atender às necessidades do caso concreto. Precedentes. Incidência da Súmula 83/STJ. 2.1. Ademais, a revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada na instância ordinária sobre a desnecessidade, no caso, de relativização da ordem legal. Incidência da Súmula 7/STJ.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. Agravo interno desprovido (AgInt no AREsp. 1.397.282/GO, Rel. Min. MARCO BUZZI, DJe 5.4.2019).
+
+AGRAVO INTERNO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. ART. 3º DO DECRETO-LEI 911/1969. NECESSIDADE DE NOTIFICAÇÃO AO DEVEDOR ACERCA DA MORA. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO INATACADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ é no sentido de que a concessão de medida liminar em ação de busca e apreensão decorrente do inadimplemento de contrato com garantia de alienação fiduciária está condicionada à mora do devedor que, nos termos do art. 2º, § 2º, do Decreto-Lei 911/69, deverá ser comprovada por carta registrada expedida por intermédio de Cartório de Títulos e Documentos a ser entregue no domicílio do devedor, sendo dispensada a sua notificação pessoal. Precedentes desta Corte.
+2. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, o óbice das Súmulas 283 e 284 do STF.
+3. Agravo interno não provido (AgInt no REsp. 1.675.490/RS, Rel. Min. LUIS FELIPE SALOMÃO, DJe 19.12.2018).
+12. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial interposto por MICROINOX FUNDICAO DE PRECISAO E USINAGEM LTDA.
+13. Publique-se.
+14. Intimações necessárias.
