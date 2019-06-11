@@ -1,0 +1,10 @@
+DECISÃO
+Neste habeas corpus, impetrado em favor de [NOME] - condenado, como incurso no crime tipificado no art. 1º, I, do Decreto-Lei n. 201/1967, à pena de 5 anos, 4 meses e 24 dias de reclusão, em regime inicial semiaberto -, sob alegação de constrangimento ilegal na dosimetria da pena-base (valoração negativa da culpabilidade, da personalidade e das circunstâncias do crime) e na ausência de reconhecimento de atenuante genérica (art. 65, III, b, do CP), requer-se, em caráter liminar, a expedição de salvo-conduto, de modo a obstar a execução provisória da pena e, no mérito, a redução da pena ao mínimo legal, com a consequente declaração de extinção da punibilidade, ante a prescrição da pretensão punitiva (modalidade retroativa).
+É o relatório.
+O writ, no entanto, perdeu o objeto, pois, na presente data, proferi decisão nos autos do RESp n. 1.806.082/PB, assim ementada:
+RECURSO ESPECIAL. NEGATIVA DE VIGÊNCIA DOS ARTS. 16 E 65, III, b, AMBOS DO CÓDIGO PENAL. INADMISSIBILIDADE. FALTA DE PREQUESTIONAMENTO E PRECLUSÃO. NEGATIVA DE VIGÊNCIA DOS ARTS. 1º, I, DO DECRETO-LEI N. 201/1967 C/C O 386, III, DO CPP. TESE DE ATIPICIDADE, CALCADA NA ALEGAÇÃO DE QUE A OBRA, OBJETO DO CONVÊNIO, FOI INTEGRALMENTE EXECUTADA POSTERIORMENTE. ACÓRDÃO IMPUGNADO QUE FIRMA A INEXISTÊNCIA DE PROVA NESSE SENTIDO. REEXAME. INADMISSIBILIDADE. SÚMULA 7/STJ. NEGATIVA DE VIGÊNCIA DO ART. 59 DO CP. PROCEDÊNCIA PARCIAL. PERSONALIDADE. FUNDAMENTAÇÃO INIDÔNEA. EXCLUSÃO. REDIMENSIONAMENTO DA PENA.
+Recurso especial conhecido em parte e, nessa extensão, parcialmente acolhido, nos termos do dispositivo.
+O decisum examinou a fundamentação lançada na fixação da pena-base, concluindo pela procedência parcial da insurgência nesse aspecto.
+Quanto ao pedido de reconhecimento da atenuante genérica, a decisão firmou a ausência de prequestionamento do tema, circunstância que também obsta o exame da questão em sede de habeas corpus, por caracterizar supressão de instância.
+Assim, diante da perda superveniente do objeto, julgo prejudicado o presente writ (art. 34, XI, do RISTJ).
+Publique-se.
