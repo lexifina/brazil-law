@@ -1,0 +1,37 @@
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva é cabível mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada e mantida com fundamentação idônea, considerando-se as circunstâncias concretas do fato delituoso em análise, reveladoras, pelo modus operandi empregado, da real gravidade do delito (crime de roubo perpetrado, em concurso de agentes, com emprego de arma de fogo e mediante restrição à liberdade da vítima). Isso confere lastro de legitimidade à manutenção da medida extrema.
+3. Condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar sua necessidade, como na espécie, não se revelando suficientes as medidas previstas no art. 319 do Código de Processo Penal.
+4. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, denegar a ordem nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora a Quarta Câmara Criminal do Tribunal de Justiça de Minas Gerais (HC n. 1.0000.18.123096-2/000).
+Colhe-se dos autos que o paciente - acusado da suposta prática do crime de roubo circunstanciado - teve a denúncia recebida e a prisão preventiva decretada pelo Juízo singular no dia 27/9/2017 (fls. 17/20).
+Impetrado writ, na origem, o Tribunal local denegou a ordem, em aresto assim ementado (fl. 11):
+HABEAS CORPUS - ROUBO TRIPLAMENTE MAJORADO - PRISÃO PREVENTIVA DECRETADA - ARTS. 312 E 313, AMBOS DO CPP - DECISÃO FUNDAMENTADA - GRAVIDADE CONCRETA - RISCO À ORDEM PÚBLICA - ORDEM DENEGADA. 1. A gravidade concreta do crime e a periculosidade revelada pelo modus operandi da conduta são motivos suficientes à custódia processual para garantia da ordem pública. 2. Atendidos os requisitos instrumentais do art. 313 do CPP, bem como presentes os pressupostos e ao menos um dos requisitos do art. 312 do CPP (garantia da ordem pública), deve ser a prisão preventiva mantida, não havendo que se falar em sua revogação, ou mesmo em substituição pelas medidas cautelares diversas da prisão previstas no art. 319 do CPP, pelo fato de estas se revelarem absolutamente insuficientes. 3. Denegado o habeas corpus.
+Daí o presente mandamus, no qual se alega que não se encontram presentes os requisitos necessários para manutenção da prisão preventiva.
+Sustenta-se que a custódia cautelar está fundamentada na gravidade abstrata do delito, de forma genérica.
+Ressaltam-se as condições pessoais favoráveis do paciente.
+Requer-se, assim, a concessão da ordem para que o decreto prisional seja revogado.
+Em 25/1/2019, o pedido liminar foi indeferido pelo Presidente desta Corte Superior às fls. 26/27.
+Solicitadas as informações, essas foram prestadas às fls. 29/45.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 49/53).
+Após consulta realizada ao portal do Tribunal a quo na internet, foi possível observar que não houve prolação de sentença.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Busca o paciente a revogação da prisão preventiva imposta, ao argumento da ausência de fundamentação para tanto.
+Diz a jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+Na espécie, o Juízo de origem, ao converter a prisão em flagrante em preventiva, assim fundamentou a sua decisão (fls. 17/20):
+ ..
+No caso em tela, diante das circunstâncias que cercaram o crime, praticado, em tese, mediante violência e grave ameaça, exercida por meio do emprego de arma de fogo, em concurso de pessoas, restringindo ainda, a liberdade das vítimas, se mostra inadequada a aplicação de medidas cautelares diversas da prisão preventiva. Aqui, a prisão preventiva se mostra medida imprescindível para garantia da ordem pública, evitando com isso reiteração delitiva, por conveniência da instrução criminal evitando com isso perecimento de provas e eventual fuga do distrito de culpa e ainda para assegurar a aplicação da lei penal no sentido de garantir a finalidade útil do procedimento criminal visando proporcionar ao Estado o direito de punir aplicando a sanção devida ao caso concreto, eis que, neste momento, a prova até então colhida dá conta da existência do crime e indícios de autoria em relação ao denunciado.
+ ..
+Ressalta-se, ainda, que a conduta criminosa foi cometida mediante violência e grave ameaça, exercida por meio do emprego de arma de fogo, em concurso de agentes, restringindo a liberdade das vítimas. Com efeito, o denunciado demonstra que não se preocupa em ter um ganho lícito, preferindo um ganho fácil, sem se importar com o patrimônio alheio ou em trabalhar honestamente.
+ ..
+O Tribunal a quo, por sua vez, denegou a ordem de habeas corpus por entender que a decisão de primeiro grau examinou devidamente a necessidade da segregação cautelar, destacando que as circunstâncias referidas (prática, em tese, do crime de roubo triplamente majorado, tendo o paciente, juntamente com outro indivíduo, mediante o emprego de arma de fogo e restrição de liberdade das vítimas, subtraído bens de diversos valores, em plena via pública, sendo que, posteriormente, ameaçaram uma senhora para que pudessem guardar a res furtiva em sua residência) denotam a maior gravidade concreta do episódio (fls. 14/15).
+Realmente, há motivação suficiente para a manutenção da prisão cautelar do paciente, levando-se em consideração a gravidade concreta do delito, evidenciada pelo modus operandi adotado na prática do crime de roubo em questão. Não é outra a opinião da Subprocuradora-Geral da República [NOME] (fls. 49/53).
+Sobre a possibilidade de se manter a prisão cautelar em razão da gravidade concreta do delito e do modus operandi empregado para a prática do crime de roubo, confiram-se, entre tantos, estes julgados: HC n. 339.233/SP, Ministro Ericson Maranho (Desembargador convocado do TJ/SP), Sexta Turma, DJe 18/2/2016; RHC n. 58.952/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 27/5/2016; e RHC n. 69.626/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 4/5/2016.
+Com efeito, é consabido que eventuais condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a custódia antecipada, quando, como na hipótese, estão presentes os requisitos autorizadores da decretação da medida constritiva de liberdade.
+Logo, tenho que ficou demonstrada a necessidade da prisão preventiva, não se revelando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, denego a ordem.
