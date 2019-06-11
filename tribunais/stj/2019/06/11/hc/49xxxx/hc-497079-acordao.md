@@ -1,0 +1,56 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ROUBO MAJORADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. ORDEM DENEGADA.
+1. A prisão preventiva do Paciente encontra-se suficientemente fundamentada, pois foi decretada em razão da gravidade concreta da conduta que lhe é imputada, evidenciada por se tratar de roubo majorado pelo concurso de agentes, em que o Paciente apontou a arma de fogo para a cabeça das vítimas e, durante todo o ato, ameaçava atirar.
+2. Demonstrada pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas na nova redação do art. 319 do Código de Processo Penal, dada pela Lei n.º 12.403/2011. Precedente.
+3. A existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes e ocupação lícita, não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema.
+4. Ordem de habeas corpus denegada.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, denegar a ordem, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado do Piauí proferido nos autos do Habeas Corpus n.º 0706303-84.2018.8.18.0000
+O Paciente foi preso em flagrante, em 02/08/2018, como incurso no art. 157, § 2.º, inciso I, e § 2.º-A, inciso I, do Código Penal, por duas vezes. Consta dos autos que o Paciente teria, em continuidade delitiva e mediante concurso de agentes, abordado as vítimas com uma arma de fogo, apontando-a para suas cabeças, e exigido a entrega de seus pertences, constantemente ameaçando atirar, e, logo em seguida, empreendido fuga em alta velocidade em uma motocicleta. A prisão em flagrante foi convertida em preventiva nos termos da decisão de fls. 25-28.
+Impetrado habeas corpus, o Tribunal de origem denegou a ordem nos termos da seguinte ementa:
+"HABEAS CORPUS. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA.
+1. É cediço que a liberdade é a regra em nosso ordenamento constitucional, somente sendo possível sua mitigação em hipóteses estritamente necessárias, e justificadas com base no art. 312 do CPP.
+2. A prisão preventiva restou fundamentada, pela existência dos requisitos, em especial, para garantia da ordem pública, com base no modus operandi, que evidencia a gravidade concreta do delito (roubo em concurso de agentes e utilização de arma), bem como em razão da reiteração delitiva.
+3. Ordem denegada." (fls. 36-43)
+No presente writ, os Impetrantes sustentam, em síntese, ausência de motivação idônea na decretação da prisão preventiva, visto que calcada apenas em fundamentação genérica. Alegam, ainda, que o Paciente preenche todos os requisitos autorizadores da liberdade provisória, pois é primário, ostenta bons antecedentes e possui ocupação lícita.
+Requerem, em liminar e no mérito, a revogação da prisão preventiva do Paciente ou a aplicação de medidas cautelares alternativas à prisão.
+O pedido liminar foi indeferido nos termos da decisão de fls. 61-64.
+As informações foram prestadas às fls. 68-115.
+Em parecer, o Ministério Público Federal se manifestou pela denegação da ordem (fls. 118-124).
+É o relatório.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ROUBO MAJORADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. ORDEM DENEGADA.
+1. A prisão preventiva do Paciente encontra-se suficientemente fundamentada, pois foi decretada em razão da gravidade concreta da conduta que lhe é imputada, evidenciada por se tratar de roubo majorado pelo concurso de agentes, em que o Paciente apontou a arma de fogo para a cabeça das vítimas e, durante todo o ato, ameaçava atirar.
+2. Demonstrada pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas na nova redação do art. 319 do Código de Processo Penal, dada pela Lei n.º 12.403/2011. Precedente.
+3. A existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes e ocupação lícita, não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema.
+4. Ordem de habeas corpus denegada.
+
+ VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+A decretação ou a manutenção da prisão preventiva depende da configuração objetiva de um ou mais dos requisitos do art. 312 do Código de Processo Penal. Para isso, o Julgador deve consignar, expressamente, elementos reais e concretos indicadores de que o indiciado ou acusado, solto, colocará em risco a ordem pública ou econômica, a instrução criminal ou a aplicação da lei penal.
+No caso em tela, o decreto de prisão preventiva, ora convalidado pelo Tribunal, está calcado nas seguintes razões de decidir:
+"Ainda, quanto ao periculum libertatis, mostra-se evidenciado concretamente. Além da gravidade das condutas, a gizar, conduta que atenta contra patrimônio e psicológico, sendo várias vítimas, concretamente se vê a gravidade acentuada.
+Por oportuno transcrevo parte do depoimentos das vítimas [NOME] e [NOME], que em sede policial declararam: "QUE eram 02 agentes na empreitada delitiva; indicando que o modus operandi evidenciou agressividade real, dado que afirma que apontando a arma contra as vítimas e após a subtração empreendendo fuga em alta velocidade (..)"; no mesmo sentido, a vítima [NOME] também declarou em sede policial: "QUE os agentes portavam arma em punho e após a subtração fugiram em alta velocidade".
+ ..
+Pode-se concluir, desta forma, contumácia na prática de infrações e expondo a perigo constante a ordem pública, justificando decreto prisional, a fim de impedir a prática de novos delitos.
+Desta sorte, de se ver que, por ora, eventuais medidas cautelares diversas da prisão, nesse contexto fático, não se revelam aptas para interromper a atividade criminosa, como entende o Tribunal de Justiça do Estado do Piauí." (fl. 26)
+Verifica-se, assim, que a custódia provisória foi decretada em razão da necessidade de se resguardar a ordem pública, tendo em vista a gravidade concreta da conduta, considerando se tratar de roubo majorado pelo concurso de agentes, em que o Paciente apontou a arma de fogo para a cabeça das vítimas e, durante todo o ato, ameaçava atirar. Tal fundamentação não destoa da jurisprudência deste Superior Tribunal de Justiça.
+A propósito:
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. DECRETAÇÃO DE OFÍCIO PELO JUIZ. INOCORRÊNCIA. CONVERSÃO DO FLAGRANTE EM PREVENTIVA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. RECURSO ORDINÁRIO DESPROVIDO.
+ ..
+III - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, para a garantia da ordem pública, notadamente a forma pela qual o delito foi em tese praticado, consistente em roubo majorado, cometido mediante grave ameaça exercida com emprego de arma de fogo, em concurso de agentes, tendo o e. magistrado processante consignado que "os autuados e seus comparsas se valeram de violência e grave ameaça, no momento da empreitada criminosa, mantendo as vítimas durante toda a execução do delito sob a mira de armas de fogo, desferindo coronhada em uma delas e efetuado disparo de arma de fogo  ..  após terem supostamente subtraído os bens, os autores teria, ainda, restringindo a liberdade das vítimas, trancando-as em um banheiro", circunstâncias que demonstram a periculosidade concreta e a necessidade da segregação cautelar imposta.
+IV - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.
+Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Recurso ordinário desprovido." (RHC 108.413/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/03/2019, DJe 26/03/2019)
+Registre-se, ainda, que, demonstrada pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas na nova redação do art. 319 do Código de Processo Penal, dada pela Lei n.º 12.403/2011. Confira-se:
+"PROCESSUAL PENAL E PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. CRIMES CONTRA A ORDEM TRIBUTÁRIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. APLICAÇÃO DE MEDIDAS ALTERNATIVAS À PRISÃO. INSUFICIÊNCIA À GARANTIA DA ORDEM PÚBLICA. HABEAS CORPUS DENEGADO.
+1. Apresentada fundamentação concreta para a decretação da prisão preventiva, evidenciada na gravidade da conduta atribuída ao paciente, que no exercício da função pública de fiscal tributário do Estado exigia e recebia propina para deixar de aplicar multa a empresas com irregularidades, fazendo parte de associação criminosa voltada para prática de crimes contra a ordem tributária, formada por diversos integrantes, dentre eles policiais, fiscais, empresários, "laranjas", a demonstrar a abrangência da atuação do esquema criminoso, além da necessidade de fazer cessar as práticas delitivas voltadas para a ocultação dos numerários recebidos com o crime, não há que se falar em ilegalidade.
+2. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+ 3. Habeas corpus denegado." (HC 447.701/AL, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/08/2018, DJe de 21/08/2018; sem grifos no original.)
+Ressalto, ainda, que a existência de condições pessoais favoráveis - tais como primariedade, bons antecedentes e ocupação lícita - não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes outros requisitos que autorizem a decretação da medida extrema, como ocorre na hipótese em tela. Nesse sentido: RHC 96.106/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/06/2018, DJe 11/06/2018.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+É como voto.
