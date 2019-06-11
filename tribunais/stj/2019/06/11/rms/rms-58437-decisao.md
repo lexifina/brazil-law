@@ -1,0 +1,56 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto por LUCAS DOS SANTOS SILVA, com base nos arts. 105, II, b, da Constituição da República e 1.027, II, a, do Código de Processo Civil de 2015, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado:
+AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA MILITAR. EDITAL SAEB/01/2012. LITISPENDÊNCIA COM MANDAMUS ANTERIOR. FEITO POSTERIORMENTE EXTINTO COM RESOLUÇÃO DE MÉRITO PELA DECADÊNCIA.
+1. Tratando-se o mandado de segurança de exata reprodução de ação anterior, é evidente a litispendência, nos termos do art. 337, §3º, do NCPC.
+2. Sobrevindo a extinção do feito anterior com base na decadência e, portanto, com resolução de mérito, a coisa julgada material daí decorrente impede a manutenção da segunda ação proposta com as mesmas partes, causa de pedir e objeto. Agravo interno improvido.
+Nas razões recursais, alega-se, em síntese, que "quando o processo é extinto por ausência de pressupostos positivos ou pela presença de fatos considerados pressupostos negativos ou ainda quando isto se dá pela falta de uma das condições da ação, teremos um julgamento apenas de formalidades, sem atingir a lide e por isso haverá apenas a coisa julgada formal" (fl. 234e).
+Assim, ressalta que "a coisa julgada formal só tem eficácia dentro do processo em que surgiu e, por isso, não impede que o tema volte a ser agitado em nova relação processual" (fl. 234e).
+Esclarece, quanto à decadência para a impetração, que, "nos termos do art. 23 da Lei nº 12.016/09, o direito de requerer a proteção do Mandado de Segurança tem sua extinção em 120 dias da data da ciência do interessado do alegado ato coator, sendo que, na hipótese dos autos, tem-se que foi a partir das convocações irregulares para matrícula no curso de formação publicadas no DOE em 25.03.2017, consoante destacado na inicial, é que o Impetrante tomou ciência do ato coator, sendo este, o prazo a quo para impetração da presente ação mandamental" (fl. 240e).
+Com contrarrazões (fls. 333/360e), subiram os autos a esta Corte.
+O Ministério Público Federal manifestou-se às fls. 372/380e, opinando pelo improvimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV, do Código de Processo Civil de 2015, combinado com o art. 34, XVIII, b, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Preenchidos os pressupostos de admissibilidade, passo ao exame do recurso.
+Ao analisar a controvérsia, a Corte de origem assim consignou (fls. 227/228e):
+Ao contrário do que aduz o agravante, o mandado de segurança anterior foi extinto com resolução do mérito, nos seguintes termos:
+"Por tais razões, tendo em vista o reconhecimento de decadência, indefiro, de plano, a inicial, extinguindo o processo com resolução de mérito, nos termos que impõe os arts. 10, caput, e 23, da Lei n. 12.016/2009 c/c o art. 487, II, do CPC"
+Ora, dispõe o art. 487 que haverá resolução de mérito quando o juiz decidir, de ofício ou a requerimento, sobre a ocorrência de decadência ou prescrição. Desse modo, o julgamento anterior fora abarcado pela coisa julgada material, e não apenas a formal, uma vez que se tratou de julgamento do mérito.
+Anote-se que se extinguiu o presente feito com base na coisa julgada, porque à época da sua propositura deste mandamus já havia se dado o trânsito em julgado do mandado de segurança
+anterior, que se operou em 19/06/2017, conforme consulta no sistema de automação judiciária - SAJ.
+Constate-se, por fim, que a inclusão do Governador do Estado no polo passivo da demanda, como autoridade impetrada, além do Secretário da Administração e do Comandante Geral, ao contrário do que intenta o agravante, não é capaz de afastar a impossibilidade da atual impetração, notadamente em virtude da ocorrência da coisa julgada.
+Constata-se, portanto, que o acórdão recorrido encontra-se em harmonia com a jurisprudência desta Corte, segundo a qual "a decisão que reconhece a decadência do direito de impetração do mandado de segurança é de mérito, nos termos do artigo 487 do Código de Processo Civil, a impedir o manejo de nova ação mandamental com base nos mesmos fatos e fundamentos, haja vista a incidência, na hipótese, da coisa julgada material" (RMS 58.829/BA, 2ª T., Rel. Min. Herman Benjamin, DJe 06.03.2019).
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. ARTIGO 487, II, DO CPC DE 2015 EXTINÇÃO DE PROCESSO ANTERIOR COM RESOLUÇÃO DE MÉRITO. RECONHECIMENTO DA DECADÊNCIA. COISA JULGADA MATERIAL. IMPETRAÇÃO DE NOVO MANDADO DE SEGURANÇA. DESCABIMENTO. 1. A jurisprudência do STJ é firme no sentido de que a decisão que reconhece a decadência do direito de impetração do mandado de segurança é de mérito, nos termos do artigo 487 do Código de Processo Civil, a impedir o manejo de nova ação mandamental com base nos mesmos fatos e fundamentos, haja vista a incidência, na hipótese, da coisa julgada material.
+2. Consta dos autos que o Mandado de Segurança impetrado anteriormente à presente demanda foi extinto porque interposto fora do prazo de 120 dias. Desse modo, a extinção do processo com julgamento de mérito forma coisa julgada material, impedindo a discussão da questão no mesmo processo, bem como produz efeitos para fora do processo.
+3. Ressalta-se que, como o acórdão recorrido extinguiu o processo sem análise do direito subjetivo vindicado, alicerçando-se na ocorrência de decadência, é possível ao recorrente rediscutir a matéria (reclassificação do candidato diante da anulação de questões do certame público) pela via ordinária.
+4. Recurso Ordinário não provido.
+(RMS 58.829/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/12/2018, DJe 06/03/2019)
+AGRAVO REGIMENTAL EM RECURSO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. PROCESSO ADMINISTRATIVO DISCIPLINAR (PAD). PORTARIA INAUGURAL. ALEGAÇÃO DE NULIDADE POR INCOMPETÊNCIA DA AUTORIDADE QUE A EXPEDIU. DECADÊNCIA RECONHECIDA EM ANTERIOR AÇÃO MANDAMENTAL. DECISÃO DE MÉRITO. CARACTERIZAÇÃO DE COISA JULGADA. IMPOSSIBILIDADE DE IMPETRAÇÃO DE NOVO WRIT COM BASE NOS MESMOS FATOS E FUNDAMENTOS.
+1. A jurisprudência deste Tribunal Superior prega ser de mérito a decisão que reconhece a decadência do direito de impetração do mandado de segurança, a teor do art. 269, IV, do Código de Processo Civil, a impedir o manejo de nova ação mandamental com base nos mesmos fatos e fundamentos, haja vista a incidência, na hipótese, da coisa julgada material.
+2. O mandado de segurança rotulado de "preventivo" repete, deveras, o writ anteriormente impetrado (qualificado de "corretivo"), sendo idênticos o pedido, a causa de pedir e as partes, apesar do esforço feito pelo impetrante para estabelecer distinção que essencialmente não existe. Com efeito, o objetivo de ambas ações mandamentais impetradas era o de invalidar o processo administrativo disciplinar, de molde a impedir a demissão, ao único argumento de incompetência do Secretário de Estado da Fazenda estadual para a instauração do feito.
+3. Agravo regimental a que se nega provimento.
+(AgRg no RMS 27.780/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 25/09/2012, DJe 02/10/2012)
+RECURSO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO MANDAMENTAL ANTERIORMENTE AJUIZADA. FEITO EXTINTO. COISA JULGADA. DECADÊNCIA.
+Ao reconhecer a decadência na ação mandamental anteriormente ajuizada, o acórdão efetivamente conheceu e decidiu o mérito da demanda  art. 269, IV do CPC.
+Existência de coisa julgada.
+Recurso desprovido.
+(RMS 17.830/RJ, Rel. Ministro JOSÉ ARNALDO DA FONSECA, QUINTA TURMA, julgado em 26/04/2005, DJ 23/05/2005, p. 310)
+Mantido o óbice da coisa julgada, restam prejudicadas as demais questões alegadas no recurso.
+Não obstante, vale registrar que a 1ª Turma deste Superior Tribunal de Justiça, ao apreciar recurso com questão de fundo idêntica, reconheceu, por maioria de votos, a decadência para a impetração do mandado de segurança, nos seguinte termos do voto vencedor:
+" ..  a jurisprudência desta Corte é no sentido de que o prazo para impugnar a falta de nomeação de candidato é contado da data do término da validade do certame.
+(..)
+No caso dos autos, o concurso foi homologado em 20/6/2013 (e-STJ fl. 43), o prazo de validade do certame encerrou-se em 20/6/2015 (e-STJ fl. 43), e o presente mandado de segurança foi impetrado em 22/5/2017 (e-STJ fl. 3), quase dois anos após o término do prazo decadencial.
+Com efeito, considerando o prazo previsto no aludido art. 23 da Lei n. 12.016/2009, eventual questionamento pela via mandamental referente ao mencionado certame somente poderia ter sido proposto até o dia 22/10/2015.
+Cabe anotar ainda que esta Corte tem afirmado, reiteradamente, que o provimento de cargo público decorrente de decisão judicial não configura preterição, motivo pelo qual não há se falar em ilegalidade no ato da Administração em realocar na lista classificatória candidatos do certame, em cumprimento à ordem judicial proferida em processo diverso (ação n. 0569986-78.2014.805.0001), porquanto, na hipótese, não há margem de discricionariedade àquela.
+(..)
+Além disso, segundo a jurisprudência desta Corte Superior, as nomeações tardias, decorrentes do cumprimento de decisão judicial não reabrem o prazo para os demais concursados impetrarem mandado de segurança, que é de cento e vinte dias, contados da data em que expira a validade do certame questionado.
+(..)
+Dessa forma, diante do reconhecimento da decadência, devido ao transcurso do prazo legal para a impetração do presente mandamus, impõe-se o indeferimento da inicial, consoante preconizado nos artigos 10, caput, e 23, ambos da Lei n. 12.016/2009, ressalvada a utilização das vias ordinárias." (destaques meus)
+O apontado precedente restou assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PRAZO DECADENCIAL. TERMO INICIAL. TÉRMINO DA VALIDADE DO CERTAME. ART. 23 DA LEI N. 12.906/2009. RECURSO NÃO PROVIDO, COM A DEVIDA VÊNIA AO EM. RELATOR MINISTRO NAPOLEÃO NUNES MAIA FILHO.
+(RMS 58.698/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 30/05/2019, DJe 04/06/2019)
+Isto posto, com fundamento no art. 932, IV, do Código de Processo Civil de 2015 e art. 34, XVIII, b, do Regimento Interno desta Corte, NEGO PROVIMENTO ao Recurso Ordinário.
+Publique-se e intimem-se.
