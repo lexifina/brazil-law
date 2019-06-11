@@ -1,0 +1,39 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. AUXÍLIO CESTA ALIMENTAÇÃO. ALTERAÇÃO JURISPRUDENCIAL POSTERIOR AO TRÂNSITO EM JULGADO. RAZÕES SUFICIENTES PARA A MANUTENÇÃO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão proferido pelo Superior Tribunal de Justiça que assentou:
+    “CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO RESCISÓRIA. ALTERAÇÃO SUBSTANCIAL DA JURISPRUDÊNCIA. MANEJO DE RESCISÓRIA PARA ADEQUAÇÃO DO JULGADO. DESCABIMENTO. SÚMULA Nº 343 DO STF, POR ANALOGIA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+    1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+    2. A decisão agravada consignou a existência de precedente atualizado da Corte Especial que em julgamento realizado aos 19/10/2016 do EAResp nº 397.326/MG, de relatoria do Ministro HUMBERTO MARTINS, preconizou a inviabilidade de propositura de ação rescisória para fins de adequação do entendimento acobertado pelo manto da coisa julgada a posterior alteração jurisprudencial.
+    3. O trânsito em julgado da decisão rescindenda foi certificado aos 9/9/2010 (e-STJ, fl. 56) após o desprovimento do AG nº 1.236.601/RS.
+    4. O julgamento dos Resps nºs 1.207.071/RJ e 1.023.053/RS, ocorreram após o trânsito em julgado da sentença, respectivamente, aos 27/6/2012 e 23/11/2011, não sendo possível afastar o óbice da Súmula nº 343 do STF.
+    5. A impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte, o que não se verifica no presente caso.
+    6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+    7. Em razão da improcedência do presente recurso, e da anterior advertência em relação à incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+    8. Agravo interno não provido, com imposição de multa.” (Doc. 8, fl. 109)
+    Os embargos de declaração opostos foram acolhidos, sem efeitos infringentes, para sanar omissão quanto à data do trânsito em julgado.
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 202, caput, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontraria óbice na Súmula 283 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    In casu, o acórdão recorrido assentou:
+    “Nas razões do presente agravo interno, a PREVI afirmou que a decisão rescindenda foi prolatada aos 16/3/2015, ou seja, após a alteração do entendimento no STJ, sendo possível a mitigação da incidência da Súmula nº 343 do STF.
+    Contudo, sem razão.
+    A decisão agravada consignou a existência de precedente atualizado da Corte Especial que, em julgamento realizado aos 19/10/2016 do EAResp nº 397.326/MG, de relatoria do Ministro HUMBERTO MARTINS, preconizou a inviabilidade de propositura de ação rescisória para fins de adequação do entendimento acobertado pelo manto da coisa julgada a posterior alteração jurisprudencial.
+    O trânsito em julgado da decisão rescindenda foi certificado aos 9/9/2010 (e-STJ, fl. 56) após o desprovimento do AG nº 1.236.601/RS.
+    Ademais, não há comprovação de que o trânsito em julgado do acórdão rescindendo tenha ocorrido apenas aos 16/3/2015, como afirmado nas razões do presente agravo interno. Ao contrário, consta certidão de trânsito em julgado do AG nº 1.236.601/RS, não tendo a PREVI trazido qualquer elemento que corroborasse com sua alegação.
+    O julgamento dos Resps nsº 1.207.071/RJ e 1.023.053/RS, ocorreram após o trânsito em julgado da sentença, respectivamente, aos 27/6/2012 e 23/11/2011, não sendo possível afastar o óbice da Súmula nº 343 do STF.” (Doc. 8, fl. 115)
+    Por sua vez, a parte recorrente, nas razões do seu recurso extraordinário, limitou-se a argumentar no sentido da impossibilidade de integração da verba denominada cesta alimentação ao benefício complementar de aposentadoria do recorrido e, ao assim proceder, deixou de atacar as razões que, por si só, são suficientes para a manutenção da decisão impugnada.
+    Incide, na espécie, o enunciado da Súmula 283 do STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”. Nesse sentido:
+    “AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE DO AGRAVO. SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL.
+    Inviável o agravo de instrumento que não ataca todos os fundamentos autônomos da decisão recorrida (Súmula 283 do Supremo Tribunal Federal). Agravo não provido.” (AI 489.247-AgR, rel. min. Cármen Lúcia, Primeira Turma, DJ de 16/2/2007)
+    Por oportuno, vale destacar lição de Roberto Rosas sobre a Súmula 283 do STF:
+    “Pontes de Miranda sustentava opinião favorável à admissão do recurso extraordinário com fulcro num dos fundamentos quando a decisão assenta em vários (Comentários ao Código de Processo Civil, 2ª ed., t. XII/278). Opiniões contrárias são sustentadas por Lopes da Costa (Direito Processual Civil Brasileiro, 2ª ed., v. III/418) e José Afonso da Silva (Do Recurso Extraordinário, p. 201), que inadmitem o recurso nessas condições.
+    A Súmula 283 expressa que é inadmissível o recurso extraordinário quando a decisão recorrida tem mais de um fundamento suficiente e o recurso não abrange todos eles (RE 65.072, Rel. Min. Amaral Santos, RTJ 53/371; RE 66.768, Rel. Min. Djaci Falcão, RTJ 52/606; RE 60.854, Rel. Min. Barros Monteiro, RTJ 45/855; RE 63.174, Rel. Min. Evandro Lins, RTJ 45/419; RE 79.083, Rel. Min. Rodrigues de Alckmin, RTJ 75/844; RE 79.623, RTJ 75/849; RE 84.077, RTJ 80/906).
+    Aplicável o disposto nesta Súmula (decisão assentada em mais de um fundamento) às decisões do STJ (REsp 16.076; REsp 21.064; REsp 23.026; REsp 29.682).
+    V. Luiz Guilherme Marinoni, Manual do Processo de Conhecimento, Ed. RT, 2001, p. 561.” (Direito Sumular. 14. ed. São Paulo: Malheiros, 2012. p. 140)
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil/2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 11 de junho de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
