@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto por Rio Grande Energia S.A., desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul, que não admitiu recurso especial com base nos seguintes fundamentos: não se verifica ofensa ao art. 535 do CPC/73; e incide a Súmula 7/STJ, tendo em vista que o acolhimento da tese recursal demanda o reexame de matéria fático-probatória.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, apesar de afirmar, genericamente, que "Não pretende" o reexame de matéria fático-probatória (fl. 290), a parte agravante não declinou os motivos pelos quais, no seu entender, o óbice apontado pela Corte de origem não seria aplicável ao caso concreto, limitando-se, então, a repetir a fundamentação adotada no bojo das razões do apelo especial.
+Em outras palavras, o agravo deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que atrai a incidência, por analogia, da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
