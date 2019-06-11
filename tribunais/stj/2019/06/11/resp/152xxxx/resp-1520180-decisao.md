@@ -1,0 +1,18 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. DNER. PARIDADE. OFENSA AO ART. 535 DO CPC/1973 CARACTERIZADA. RETORNO DOS AUTOS À ORIGEM. RECURSO ESPECIAL DA UNIÃO PARCIALMENTE PROVIDO.
+1. Trata-se de Recurso Especial interposto pela UNIÃO, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+SERVIDOR PÚBLICO. PRÉVIA POSTULAÇÃO ADMINISTRATIVA. INTERESSE DE AGIR. DNER. DNIT. NOVO PLANO DE CARGOS E SALÁRIOS. PARIDADE DE VALORES REMUNERATÓRIOS. PRESCRIÇÃO. JUROS MORATORIOS. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS.
+1. O fato de a parte demandante não ter requerido, previamente, sua pretensão na esfera administrativa, não obsta seu ingresso em juízo, visando à obtenção de prestação jurisdicional.
+2. Reconhecido o direito dos demandantes à percepção das respectivas pensões de acordo com os valores que constam da Tabela de Vencimentos Plano Especial de Cargos do DNIT. Inteligência da Lei 11.171, de 2.9.2005.
+3. Nas ações ajuizadas contra a Fazenda Pública, desde que se cuide de prestações de trato sucessivo, prescrevem apenas as parcelas anteriores ao quinquênio legal, sem prejuízo do direito (Súmula 85 do STJ).
+4. Sujeito o quantum devido à incidência uma única vez, até o efetivo pagamento, dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança (art. 1º-F da Lei 9.494/1997; redação alterada de acordo c/art. 5º da Lei 11.960, de 29/6/2009, publ. e vigência em 30/6/2009).
+5. Condenação em honorários advocatícios, fixada em 10%, incidentes sobre valor da condenação, a ser suportada pela parte que sucumbiu mais expressivamente. Inteligência do art. 20, § 3º, do CPC. Precedentes do STJ e deste Tribunal (fls. 185).
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Nas razões do Recurso Especial, alega a parte recorrente ofensa aos arts. 535, II do CPC/1973; 1o. do Decreto 20.910/1932; 113 e 117 da Lei 10.233/2001; e 1o. e 3o. da Lei 11.171/2005; argumentando, em síntese: a) omissão no acórdão recorrido; b) ocorrência de prescrição quinquenal da pretensão de reenquadramento, porquanto transcorridos mais de 5 anos entre a promulgação da lei que extinguiu o DNER e criou o DNIT, e o ajuizamento da ação; e c) impossibilidade de percepção pelos servidores aposentados do DNER e respectivos pensionistas, de valores de remuneração previstos pelo novo Plano de Cargos e Salários do DNIT, porquanto não se enquadram em nenhuma das exceções legais para a pretendida equiparação.
+4. É o relatório.
+5. Da análise dos autos, verifica-se que não foram apreciadas pela Corte de origem as questões suscitadas nos Embargos de Declaração, motivo pelo qual merece prosperar o Recurso Especial por violação do art. 535 do CPC/1973.
+6. Com efeito, nos Embargos de Declaração foi expressamente solicitada a manifestação do Colegiado acerca da suscitada prescrição do fundo do direito.
+7. Entretanto, o Tribunal de origem entendeu que os Embargos de Declaração opostos pretendiam o reexame do Acórdão Recorrido, não havendo esclarecimento quanto aos pontos omissos, persistindo a irregularidade apontada.
+8. Assim, tendo o acórdão recorrido permanecido omisso, resta caracterizada a violação do art. 535 do CPC/1973, devendo ser anulado o acórdão proferido nos Embargos de Declaração, determinando-se o retorno dos autos ao Tribunal de origem para que analise as questões suscitadas.
+9. Ante o exposto, dá-se parcial provimento ao Recurso Especial interposto pela UNIÃO, a fim de anular o acórdão proferido nos Embargos de Declaração, determinando o retorno dos autos ao Tribunal de origem para sanar os vícios acima expostos.
+10. Publique-se. Intimações necessárias.
