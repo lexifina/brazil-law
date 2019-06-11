@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de UMBELINO DE FARIAS DE OLIVEIRA - preso cautelarmente, no dia 11 de fevereiro de 2019, pela suposta prática do delito dos artigos 33 e 35 da Lei n. 11.343/2006, e artigo 16 da Lei do Desarmamento - contra decisão do Desembargador do Tribunal de Justiça do Estado de São Paulo (HC n. 2027606-08.2019.8.26.0000).
+Insatisfeita, a defesa impetrou habeas corpus originário, perante a Corte estadual, aduzindo, em síntese, a falta de fundamentos do decreto preventivo ou a extensão do benefício da liberdade provisória, mediante imposição das medidas cautelares previstas no artigo 319, incisos I, IV e V, do CPP, concedida ao corréu [NOME] Tribunal de origem, contudo, indeferiu a liminar (e-STJ fl.4).
+Na presente oportunidade, a defesa reafirma a falta de fundamentos que justifiquem a necessidade do decreto cautelar, dando ênfase às condições pessoais favoráveis do paciente - primário, residência fixa. Afirma, também, ser o paciente pai de cinco filhos menores de idade, que dependem dele para sobreviver.
+Por fim, sustenta que "há possibilidade na extensão da concessão da ordem, vez que o delito é o mesmo que em tese tenham praticado e quando se trata de intenção esta corte já tem decidido que é cabível ao co-réu se a situação foi igual" (e-STJ fl. 6).
+Assim, requer, em liminar e no mérito, a revogação da prisão preventiva do paciente, com a expedição do respectivo alvará de soltura em seu favor, tudo com superação do enunciado n. 691 do STF.
+É o relatório. Decido.
+Não há como prosseguir a irresignação. Isso porque o writ não foi instruído com as peças processuais indispensáveis à compreensão da controvérsia, para aferição do alegado pela defesa.
+Com efeito, É pacífico nesta Corte Superior o entendimento de que o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (HC n. 317.882/RJ, Relator Ministro NEFI CORDEIRO, Sexta turma, julgado em 18/8/2015, DJe 31/8/2015).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
