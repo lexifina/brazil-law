@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 563):
+EXECUÇÃO INDIVIDUAL. VPE. LIMITES SUBJETIVOS DA LIDE.
+1. A execução individual extinta está pautada em titulo executivo judicial formado no mandado de segurança coletivo nº 2005.51.01.016159-0, impetrado pela Associação de Oficiais Militares Estaduais do Rio de Janeiro - AME, no qual foi garantido aos servidores do antigo Distrito Federal o pagamento da Vantagem Pecuniária Especial - VPE, criada pela Lei nº 11.134/2005.
+2. A exequente, pensionista de Terceiro Sargento da Polícia Militar do antigo Distrito Federal, e, portanto, pensionista de praça e não oficial, não possui legitimidade ativa ad causam, já que a associação impetrante do mandado de segurança coletivo é uma entidade de classe de âmbito estadual representativa dos oficiais da Policia Militar e do Corpo de Bombeiros Militar do Estado do Rio de Janeiro. Precedentes (TRF2: AC nº 0162145- 15.2016.4.02.5120 e AC nº 0137406-08.2016.4.02.5110).
+3. Apelação desprovida.
+Opostos embargos declaratórios, foram rejeitados (fls. 943/948).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, § 1º, IV, 502, 506, 508 e 509, § 4º, 1.008 e 1022, II, e parágrafo único, II do CPC/2015, 22 da Lei nº 12.016/2009. Sustenta tese de negativa de prestação jurisdicional. Defende que "a coisa julgada no mandado de segurança coletivo, formada em sede de decisão de embargos de divergência no STJ, abrangeu todos os servidores do DF, ativos, inativos e pensionistas, sem distinção de patente, e que detinham essa qualidade a qualquer momento, e, dessa forma, não se pode alterar tal decisão já sob o manto da coisa julgada em sede de liquidação, veiculando temas que deveriam ter sido tratados quando da tramitação da fase de conhecimento" (fl. 971).
+Assim, afirma que o recurso deve ser provido "para reconhecer que a exeqüente se integra na categoria substituída processualmente pela associação" (fl. 985).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mais, colhe-se do aresto regional a seguinte fundamentação (fls. 559/562):
+O título exequendo foi formado no mandado de segurança coletivo nº 2005.51.01.016159-0, impetrado pela Associação de Oficiais Militares Estaduais do Rio de Janeiro - AME, no qual foi garantido aos servidores do antigo Distrito Federal o pagamento da Vantagem Pecuniária Especial - VPE, criada pela Lei nº 11.134/2005.
+Como observado na sentença, o título executivo estende seus efeitos à classe de associados da AME, nos termos dos artigos 21 e 22 da Lei nº 12.016/2009.
+Além disso, devem ser observados os limites subjetivos da lide, de modo que apenas os integrantes do grupo ou categoria processualmente substituído pela parte impetrante podem promover a execução individual do título formado no mandado de segurança coletivo.
+Sobre o tema:
+(..)
+In casu, verifica-se que a Associação de Oficiais Militares Estaduais do Rio de Janeiro - AMERJ, impetrante do mandado de segurança coletivo, "é uma entidade de classe de âmbito estadual representativa dos oficiais da Policia Militar e do Corpo de Bombeiros Militar do Estado do Rio de Janeiro(..)" (obtido no site http://www.ameriodejaneiro.com.br/estatuto).
+Ao passo que, pelo contracheque de fls. 64, o instituidor da pensão recebida pela exequente/apelante, o Sr. [NOME], Terceiro Sargento da Polícia Militar do antigo Distrito Federal, era praça e não oficial.
+Tendo em vista que o mandado de segurança coletivo foi impetrado por associação representativa dos oficiais militares da Polícia Militar do Estado do Rio de Janeiro e do Corpo de Bombeiro Militar do Estado do Rio de Janeiro, e que a exequente é pensionista de praça, e não de oficial, há que se reconhecer sua ilegitimidade ativa ad causam.
+No mesmo sentido:
+(..)
+Nesse contexto, a desconstituição das premissas lançadas pela instância ordinária, acerca dos limites da coisa julgada, bem como da categoria da patente ocupada pelo instituidor do benefício, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ, bem anotada pelo decisório agravado.
+Em hipóteses semelhantes a dos presentes autos, anotem-se, dentre outras, as seguintes decisões: AREsp 1.414.618/RJ, DJe de 22/2/2019 e AREsp 1.311.832/RJ, DJe de 29/10/2018, Relator Ministro Gurgel de Faria.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC/2015), observando-se, contudo, o disposto no art. 98, § 3º, do CPC/2015, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
