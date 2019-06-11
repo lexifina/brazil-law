@@ -1,0 +1,18 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE CÓPIA INTEGRAL DA SENTENÇA CONDENATÓRIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n.º 1.0611.14.005553-8/001.
+Ao que se tem dos autos, o Paciente foi condenado, em primeiro grau de jurisdição, como incurso no art. 33, caput, c.c. § 4.º, da Lei n.º 11.343/2006. Segundo a Defesa o Réu está preso preventivamente desde a época dos fatos, 07/10/2014.
+Interpostas apelações pela Defesa e Acusação, o Tribunal estadual deu provimento ao recurso do Paciente para absolvê-lo do delito de tráfico de drogas; e parcial provimento ao apelo ministerial para condená-lo como incurso no art. 35 c.c. art. 40, inciso VI, da Lei n.º 11.343/2006, às penas de 4 (anos) e 1 (um) mês de reclusão, em regime inicial fechado, e 952 (novecentos e cinquenta e dois) dias-multa.
+Neste writ, o Impetrante afirma que o Tribunal estadual não se manifestou quanto à "revogação da prisão preventiva" (fl. 6) e que o anterior defensor deixou de opor embargos de declaração (fl. 7), o que imporia a concessão da liberdade pela preclusão do decreto preventivo, uma vez que "fora absolvido do crime pelo qual tinha sido condenado em primeira instância" (fl. 9).
+Nestes termos, pleiteia, em liminar e no mérito, a soltura do Paciente, com a expedição do alvará de soltura (fl. 10).
+É o relatório. Decido.
+Inviável, na hipótese, verificar a ocorrência da ilegalidade apontada, na medida em que não há, nos autos, prova pré-constituída - cópia integral da sentença condenatória -, requisito para o conhecimento e o processamento da ação constitucional do habeas corpus, capaz de demonstrar minimamente a existência do alegado constrangimento ilegal.
+A propósito, tem reiteradamente decidido o Supremo Tribunal Federal que, " n ão estando o pedido de habeas corpus instruído, esta deficiência compromete a sua viabilidade, impedindo que sequer se verifique a caracterização, ou não, do constrangimento ilegal" (HC 95.152-AgR/SP, Primeira Turma, Rel. Ministra CÁRMEN LÚCIA, DJe de 21/11/2008).
+No mesmo sentido, este Superior Tribunal de Justiça, v.g.:
+"O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal suportado pelo acusado" (RHC 52.700/SP, Quinta Turma, Rel. Ministro JORGE MUSSI, DJe de 11/12/2014).
+Confiram-se ainda: HC n.º 508.081/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe de 08/05/2019; HC n.º 507.614/ES, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJe de 08/05/2019; HC n.º 507.591/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe de 08/05/2019; HC n.º 507.828/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe de 08/05/2019.
+Ainda que assim não fosse, cumpre registrar que a prisão preventiva decorre do juízo de cautelaridade no âmbito do processo penal, vale dizer, trata-se de medida cautelar de natureza pessoal concedida incidentalmente durante as investigações ou no curso do processo judicial.
+Por sua vez, encerrada a análise de fatos e provas, formando a culpa do condenado em segundo grau de jurisdição, tem-se início da execução da pena, independente do preenchimento dos requisitos de cautelaridade, pois se trata da execução provisória da sanção penal, como na hipótese em apreço, uma vez que o Impetrante afirma que não foram opostos embargos de declaração após acórdão condenatório.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
