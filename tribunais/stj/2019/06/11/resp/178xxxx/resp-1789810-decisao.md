@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a"e "c", da CF) interposto contra acórdão proferido pelo Tribunal de Justiça de Pernambuco assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO EFETIVO. FATO NÃO CONTESTADO PELA FAZENDA MUNICIPAL, QUE EM NENHUM MOMENTO NEGOU A EXISTÊNCIA DO RESPECTIVO VÍNCULO, TAMPOUCO COMPROVOU O PAGAMENTO DAS VERBAS PLEITEADAS. ARTIGO 7o, VII e VIII, DA CF/88. AGRAVO INTERNO IMPROVIDO À UNANIMIDADE.
+1. Conforme já esclarecido na decisão combatida, o demandante/agravado é servidor público efetivo do município de Aliança e não recebeu salário nos meses de outubro a dezembro de 2004, nem o 13º salário de 2004, fato não contestado pelo Edilidade, que em nenhum momento negou a existência do respectivo vínculo, tampouco comprovou o pagamento de referidas verbas, nem qualquer outro fato impeditivo, modificativo ou extintivo do direito
+autoral.
+2. Nesse contexto, ante a ausência da retribuição pecuniária por parte do Ente Público referente ao período trabalhado em comento, faz assim, o recorrido jus ao recebimento dos vencimentos do mês de outubro, novembro e dezembro/2004 e da gratificação natalina de 2004, com fulcro no artigo 7º, VII e VIIL da CF/88. 3. Agravo Interno improvido à unanimidade.
+Os Embargos de Declaração não foram interpostos.
+A parte recorrente alega:
+No caso em apreço, verifica-se que a Sr. SEVERINO ANTÔNIO DA SILVA, demandou da Prefeitura de Aliança o pagamento dos salários referentes aos meses de outubro, novembro e dezembro de 2004 e do 13º deste mesmo ano,sendo a condenação de primeiro grau mantida pelo acórdão ora recorrido. No entanto, esta decisão não levou em consideração que, no caso dos autos, o Recorrido não comprovou a constituição do crédito em seu favor, ou seja, não demonstrou, através de provas contundentes, os fatos constitutivos de seu direito.
+(..)
+Portanto, a decisão recorrida, por não levar em consideração o fato argumentado pelo ora Recorrente, relativo a não existência de provas no processo quanto à constituição do crédito em favor do Recorrido, terminou por negar vigência, ou violar, o artigo 373, inciso I, do CPC. In casu, o Recorrido não comprovou o seu direito ao recebimento das quantias por ele pleiteadas, ou seja, os fatos constitutivos de seu direito e, mesmo assim, o Município de Aliança, ora Recorrente, foi condenado a tais pagamentos.
+É o relatório.
+ Decido.
+O Tribunal a quo consignou:
+É importante ressaltar, em que pese tenha o agravante, apenas nas razões do presente recurso de agravo, argumentando não ter o recorrido se desincumbido do ônus de provar "os fatos constitutivos do seu direito, nos termos do art. 371, I, do CPC/15, tal alegação não deve ser levada em consideração por configurar hipótese de flagrante inovação recursal.
+Ora, como já esclarecido na decisão combatida, o demandante/agravado é servidor público efetivo do município de Aliança e que não recebeu salário nos meses de outubro a dezembro de 2004, nem o 13º salário de 2004, fato não contestado pelo Edilidade, "que em nenhum momento negou a existência do respectivo vínculo, tampouco comprovou o pagamento de referidas verbas, nem qualquer outro fato impeditivo, modificativo ou extintivo do direito autoral.
+Nesse contexto, ante a ausência da retribuição pecuniária por parte do Ente Público referente ao período trabalhado em comento, faz assim, o recorrido jus ao recebimento dois vencimentos do mês de outubro, novembro e dezembro/2004 e da gratificação natalina de 2004, com base no art. 7º, VII e VIII, da CF/88.
+ Extrai-se do acórdão objurgado e das razões do Recurso Especial que o acolhimento da pretensão recursal de reconhecimento da inexistência de provas demanda reexame do contexto fático-probatório, mormente de não existência de provas no processo no que tange à constituição de créditos, o que não se admite ante o óbice da Súmula 7/STJ.
+Consubstanciado o que previsto no Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Saliento que os §§ 3º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento de honorários advocatícios quando a Fazenda Pública for sucumbente, o que deve ser observado quando a verba sucumbencial é acrescida na fase recursal, como no presente caso.
+Por tudo isso, não conheço do Recurso Especial e condeno a parte recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem, observando-se eventual concessão do benefício da Justiça Gratuita deferida nos autos.
+Publique-se.
+Intimem-se.
