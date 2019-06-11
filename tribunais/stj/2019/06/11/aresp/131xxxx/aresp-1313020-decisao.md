@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. VENDA CASADA CONSIDERADA NÃO COMPROVADA PELA CORTE ESTADUAL. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SUMULA 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por [NOME] em face de decisão que inadmitiu recurso especial fundamentado na alínea "a", do inciso III, do artigo 105, da Constituição Federal e interposto contra acórdão do Tribunal de Justiça do Estado de Pernambuco assim ementado:
+PROCESSUAL CIVIL E CONSUMERISTA. CEF. PROGRAMA MINHA CASA MINHA VIDA.
+CONTRATO DE MÚTUO HABITACIONAL. ABERTURA DE CONTA CORRENTE. "VENDA CASADA". NÃO COMPROVAÇÃO. APELAÇÃO IMPROVIDA.
+1. Nos termos do art. 39, I, do Código de Defesa do Consumidor, é vedado ao fornecedor condicionar o fornecimento de produto ou de serviço ao fornecimento de outro produto ou serviço, bem como, sem justa causa, a limites quantitativos.
+2. Na presente hipótese, cinge-se a controvérsia à alegada prática de "venda casada" pela Caixa Econômica Federal, que teria condicionado a celebração de financiamento imobiliário à abertura de conta corrente na instituição bancária.
+3. Analisando o instrumento do contrato de mútuo firmado entre as partes, observa-se, no parágrafo primeiro da cláusula primeira, que há previsão expressa de que o pagamento dos encargos mensais pode ser efetuado tanto mediante débito em conta de depósitos titulada pelo devedor quanto por meio de boleto bancário, evidenciando que a adoção da primeira modalidade decorreu de livre escolha do mutuário.
+4. Fortalece esse entendimento o dilatado lapso temporal entre a assinatura do pacto, em 12.06.2013, e a propositura da presente demanda, em 18.04.2016. Com efeito, o autor somente decidiu acionar o Judiciário após adimplir vinte e três prestações do financiamento e deixar em aberto outras onze, comportamento incompatível com o de alguém que assumiu uma obrigação contra sua vontade.
+5. Ademais, sobressai que não consta do feito eletrônico nenhuma prova, sequer testemunhal, da alegada "venda casada", sendo certo que o mutuário poderia ter indicado as testemunhas presentes no momento da assinatura da avença, providência que não adotou.
+6. Assim, à míngua de demonstração de ato ilícito praticado pelo agente financeiro, não há que se falar em repetição em dobro dos valores desembolsados, tampouco em indenização por danos morais.
+7. Apelação improvida. (fl. 249 g.n.)
+Nas razões do recurso especial, a parte recorrente, alegando a violação dos arts. 39, I, do Código de Defesa do Consumidor, 186 e 927 do Código Civil sustentou, em síntese, que "merece destaque o fato de que a relação em comento possui uma alta carga de vulnerabilidade, dada a discrepância existente entre as partes. Há, no caso em tela, uma vulnerabilidade técnica, jurídica e fática da parte autora, o que acarreta um sério comprometimento do entendimento das cláusulas contratuais (..)"  sic  (e-STJ fl. 265).
+Foram especificamente impugnados os fundamentos da decisão que inadmitiu o recurso especial.
+É o breve relatório.
+Passo a decidir.
+Com efeito, a irresignação recursal não pode prosperar.
+No tocante às alegações de existência de venda casada e da consequente configuração de danos morais, assim decidiu o Tribunal de origem:
+Com efeito, analisando o instrumento do contrato de mútuo firmado entre as partes, observa-se, no parágrafo primeiro da cláusula primeira, que há previsão expressa de que o pagamento dos encargos mensais pode ser efetuado tanto mediante débito em conta de depósitos titulada pelo devedor quanto por meio de boleto bancário, evidenciando que a adoção da primeira modalidade decorreu de livre escolha do mutuário.
+Fortalece o entendimento de que o apelante escolheu livremente a opção de pagamento por meio de débito em conta corrente o dilatado lapso temporal entre a assinatura do pacto, em 12.06.2013, e a propositura da presente demanda, em 18.04.2016. Dessarte, o autor somente decidiu acionar o Judiciário após adimplir vinte e três prestações do financiamento e deixar em aberto outras onze, comportamento incompatível com o de alguém que assumiu uma obrigação contra sua vontade.
+Nesse pórtico, registro que o demandante não demonstrou que tenha buscado posteriormente, pela via administrativa, o cancelamento da referida conta.
+Especificamente quanto à prática dita abusiva, não consta do feito eletrônico nenhuma prova, sequer testemunhal, da "venda casada", sendo certo que o mutuário poderia ter indicado as testemunhas presentes no momento da assinatura da avença, providência que não adotou.
+De outra banda, é cristalino que " o fato de o contrato ser de adesão não significa que possua " (TRF5, 1ª Turma, AC 117965, Rel. Des. Federal JOSÉ MARIA LUCENA, cláusula abusiva ou leonina DJ 11/12/1998, p. 147; TRF5, 3ª Turma, AC 75114, Rel. Des. Federal JOSÉ MARIA LUCENA, DJ 07/02/1997, p. 6015).
+Dessa forma, não há conclusão outra senão a de que a abertura da conta corrente na qual passaram a ser debitadas as prestações do mútuo deu-se em condições normais, sem que se cogite de constrangimento ou prática ilegal. (e-STJ fl. 248 g.n.)
+Desse modo, alterar a conclusão do aresto recorrido no que atine à falta de comprovação de elementos mínimos para configurar a suposta venda casada demandaria o necessário reexame fático-probatório dos elementos constantes dos autos, o que é vedado em sede de recurso especial ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. AÇÃO DE RESSARCIMENTO CUMULADA COM DANOS MORAIS. VENDA DE NOTEBOOK COM SISTEMA OPERACIONAL PREVIAMENTE INSTALADO. VENDA CASADA. NÃO CONFIGURADA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 07 /STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O Tribunal de origem, ao afastar a ocorrência de "venda casada", e assim, afastou também a abusividade da prática comercial, amparou-se no acervo probatório dos autos. A análise das razões recursais e a reforma do aresto hostilizado, com a desconstituição de suas premissas, como pretende o agravante, demandaria necessariamente no reexame de provas. Incidência da Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 623.034/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/04/2015, DJe 10/04/2015)
+CIVIL. CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AÇÃO CIVIL PÚBLICA. TELEFONIA FIXA E ACESSO À INTERNET. VENDA CASADA. RECONHECIMENTO, COM BASE NOS FATOS DA CAUSA. REFORMA. INVIABILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DANO MORAL. VALOR INDENIZATÓRIO. REDUÇÃO. POSSIBILIDADE, QUANDO SE TRATAR DE QUANTIA EXORBITANTE, COMO NO CASO DOS AUTOS. OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O Tribunal de origem, após sopesar o escorço fático-probatório dos autos, manteve a sentença que reconheceu que a GVT efetuava venda casada de serviços de telecomunicações, o que acarretou dano moral à coletividade de consumidores. Rever tal entendimento encontra óbice no enunciado da Súmula nº 7 do STJ.
+3.Esta Corte entende ser possível a revisão do valor indenizatório estabelecido pelas instâncias ordinárias, nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que se evidencia no presente caso, em que o valor indenizatório pelos danos morais coletivos fora fixado em R$ 3.000.000,00 (três milhões de reais).
+4. Em observância aos princípios da razoabilidade e da proporcionalidade, sem descuidar do reconhecimento da extensão do ato lesivo, que repercute numa vasta gama de consumidores/usuários dos serviços de telefonia, tenho como suficiente e apta para cumprir o dúplice caráter inibitório/reparatório a quantia de R$ 500.000,00 (quinhentos mil reais).
+4. Agravo interno parcialmente provido.
+(AgInt no AREsp 900.932/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/02/2019, DJe 27/02/2019)
+Assim, não procedem as alegações recursais.
+Ante o exposto, conheço do agravo para NÃO CONHECER do recurso especial.
+Considerando a prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, de 10% (dez porcento) para 15% (quinze porcento) do valor da causa, nos termos do art. 85, § 11, do Código de Processo Civil, observando-se a suspensão da exigibilidade da verba, decorrente da concessão da gratuidade de justiça.
+Intimem-se.
