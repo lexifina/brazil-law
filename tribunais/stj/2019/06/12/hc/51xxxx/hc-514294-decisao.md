@@ -1,0 +1,27 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0019714-10.2011.8.26.0050.
+Depreende-se dos autos (fl. 2, grifos no original):
+A paciente foi denunciada como incurso nas penas do artigo 158, "caput", c.c. artigo 71, todos do Código Penal.
+Em primeira instância, foi condenado à pena de 5 anos, 7 meses e 6 dias de reclusão, em regime semiaberto.
+Inconformada com a r. Sentença, a Defesa interpôs recurso de apelação.
+O Egrégio Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao apelo, para reduzir a pena para 4 anos e 8 meses de reclusão, em regime semiaberto.
+Houve oposição de embargos de declaração, os quais foram rejeitados, determinando-se a expedição de mandado de prisão.
+A Defesa interpôs Recurso Especial, ainda pendente de julgamento.
+Os autos, dessa maneira, foram remetidos a esta Defensoria Pública para ciência da decisão do acórdão. Entretanto, a medida a ser tomada é a impetração do presente habeas corpus.
+Com efeito, o E. Tribunal de Justiça de São Paulo negou provimento ao apelo e determinou a expedição de mandado de prisão, antes do trânsito em julgado, sem qualquer fundamentação.
+Aduz a ilegalidade da decisão que determinou a execução provisória da pena imposta, ante a ausência de fundamentação válida
+Requer, liminarmente e no mérito, "a expedição de contramandado de prisão em favor do paciente, para que aguarde em liberdade o trânsito em julgado do processo principal" (fl. 5).
+
+Decido.
+O acórdão impugnado, à unanimidade, tratou do tema nos seguintes termos (fls. 28-29, grifei):
+ ..
+Em face do exposto, dá-se parcial provimento ao recurso de [NOME] para, mantida sua condenação por infrações à norma do artigo 158, caput, c.c. artigo 71, ambos do Código Penal, reduzir a sua pena final e já concursiva para quatro (4) anos e oito (8) meses de reclusão, a ser cumprida no regime inicial semiaberto, pena essa que se soma à multa no importe de vinte (20) diárias, arbitradas individualmente no mínimo legal, mantida, no mais, incólume a sentença ora guerreada e expedindo-se o mandado de prisão em seu desfavor após vencida, nesta instância, a fase de embargos ordinários(de declaração e, se o caso, infringentes)
+Cumpre lembrar que, por ocasião do julgamento do ARE n. 964.246/SP, o Supremo Tribunal Federal decidiu que "a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal" (HC n. 126.292/SP, Rel. Ministro Teori Zavascki, Tribunal Pleno, DJe 17/5/2016).
+A matéria foi objeto de novo exame pela Corte Suprema, em 5/10/2016, nas Ações Diretas de Constitucionalidade n. 43 e 44, ocasião em que o Plenário, ao indeferir a tutela cautelar, conferiu interpretação conforme ao art. 283 do Código de Processo Penal ("Ninguém poderá ser preso senão em flagrante delito ou por ordem escrita e fundamentada da autoridade judiciária competente, em decorrência de sentença condenatória transitada em julgado ou, no curso da investigação ou do processo, em virtude de prisão temporária ou prisão preventiva") para assentar que encontra guarida no texto constitucional o início da execução da pena após prolação de acórdão condenatório.
+Tal entendimento foi reafirmado no julgamento, em 10/11/2016, do ARE n. 964.246/SP, examinado sob a sistemática da repercussão geral, instituto inserido no contexto da objetivação do controle difuso de constitucionalidade, dado que a decisão valerá para todos os recursos sobre matéria idêntica, consoante disposto nos arts. 1.039, caput e parágrafo único, e 1.040, I, II e II, ambos do Código de Processo Civil, de maneira a conferir eficácia erga omnes e vinculante à decisão do Supremo Tribunal Federal proferia em recurso extraordinário.
+Na espécie sub examine, verifico que o Tribunal de Justiça julgou o recurso de apelação por unanimidade, o que evidencia que não há mais possibilidade de interposição de recurso vocacionado à imersão no acervo fático-probatório, de maneira que, encerrada a análise de fatos e de provas pelas instâncias ordinárias, deve ser determinada a expedição de mandado de prisão para o início de cumprimento da pena, notadamente porque já foi, inclusive, noticiada pela acusada a oportuna interposição de recurso especial contra o respectivo acórdão, consoante sua informação de fl. 2.
+Assim, a execução da pena, no caso, é efeito decorrente do acórdão condenatório e, por isso, não exige fundamentação específica no dispositivo do decisum, uma vez que encontra alicerce nos próprios argumentos que fundamentaram a condenação em segunda instância, no exaurimento do princípio da não culpabilidade e, também, na ausência de atribuição de efeito suspensivo ao recurso extraordinário (lato sensu).
+Portanto, para que seja autorizado o início da execução da pena, não mais se cogita de aguardar, no órgão jurisdicional ad quem, o julgamento do recurso especial ou extraordinário, e muito menos dos recursos a eles acessórios.
+No caso dos autos, verifico que o acórdão impugnado, em consonância com o entendimento acima esposado, determinou o início da execução provisória somente "após o esgotamento das vias recursais ordinárias", evidenciando-se, assim, a inexistência de coação ilegal.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
