@@ -1,0 +1,17 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. NULIDADE PROCESSUAL. AUSÊNCIA DE CITAÇÃO. CERCEAMENTO DE DEFESA CONSTATADO PELA INSTÂNCIA ORDINÁRIA. CONCLUSÃO DIVERSA QUE IMPLICARIA NOVA INCURSÃO NA SEARA FÁTICO-PROBATÓRIA DA CAUSA. IMPOSSIBILIDADE. AGRAVO DO PARTICULAR DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto por AIRTON COSTA, com fulcro no art. 105, III, a da CF, contra o acórdão proferido pelo egrégio TRF da 3a. Região, assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. FALTA DE CITAÇÃO. CONSTATAÇÃO NA FASE EXECUTÓRIA. DESRESPEITO AO PRINCÍPIO DO CONTRADITÓRIO. VÍCIO INSANÁVEL.
+1. Apesar dos anos despedidos pela lide, resta o processo maculado pelo vício insanável da falta de citação da ré, visto que, como cediço, a citação é o ato pelo qual se chama o requerido, a fim de que se defensa. Este ato processual é de ordem pública, não comportando exceções, máxime, porquanto in casu não houve a formação da relação jurídico-processual até a prolação da sentença.
+2. Só haveria possibilidade de sanar tal vício, se o comparecimento espontâneo da agravante fosse, a tempo de apresentar contestação, ou seja, antes de prolatada a sentença.
+4. Agravo de instrumento provido (fls. 66).
+2. Nas razões do Apelo Nobre inadmitido (fls. 70/77), a parte recorrente, pretendendo o afastamento da nulidade decretada na origem por falta de citação, aponta violação do art. 214, § 1o. do CPC/1973. Sustenta, em suma, que, no caso, houve o suprimento da citação pelo comparecimento espontâneo da ré (fls. 77).
+3. Com contrarrazões (fls. 84/85), o Apelo Raro foi inadmitido na origem (fls. 87/89).
+4. É o relatório.
+5. Não obstante as ponderações da parte recorrente, observa-se que o Tribunal de origem, valendo-se da acurada análise dos elementos de prova acostados aos autos, consignou expressamente que a parte recorrida teve ceifada sua oportunidade de defesa na fase de conhecimento da lide pelo julgador. Nesse aspecto, confira-se, a propósito, o seguinte excerto do julgado:
+Apesar dos anos despendidos pela lide, resta o processo maculado pelo vício insanável da falta de citação da ré. Visto que, como cediço, a citação é o ato pelo qual se chama o requerido, a fim de que se defensa. Este ato processual é de ordem pública, não comportando exceções, máxime, porquanto in casu não houve a formação da relação jurídico-processual até a prolação da sentença.
+Portanto, a União teve ceifada sua oportunidade de defesa na fase de conhecimento da lide pelo julgador.
+Outrossim, só haveria possibilidade de sanar tal vício, se o comparecimento espontâneo da agravante fosse, a tempo de apresentar contestação, ou seja, antes de prolatada a sentença (fls. 64).
+6. Dessa forma, contrastando as alegações da parte recorrente, ora agravante, com o que foi decidido pelo Tribunal de origem, é de se consignar que a modificação do acórdão recorrido, a fim de acolher a pretensão deduzida no Apelo Nobre, de que a nulidade da citação foi realmente suprida pelo comparecimento espontâneo, não dispensaria nova incursão no acervo probatório dos autos. Isso porque, inobstante a alegação de ausência de prejuízo, a Corte local apurou que houve cerceamento de defesa da parte ré, ora recorrida, conclusão que somente pode ser afastada mediante nova análise do arcabouço fático-probatório da causa, tarefa defesa em Recurso Especial.
+7. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do Particular.
+8. Publique-se. Intimações necessárias.
