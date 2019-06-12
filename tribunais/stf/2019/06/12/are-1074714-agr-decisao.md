@@ -1,0 +1,32 @@
+Trata-se de agravo regimental contra decisão que negou seguimento a recurso extraordinário.
+    Em 29/9/2017, determinei o sobrestamento do feito até a finalização do julgamento da ADI 4.173/DF por esta Corte (documento eletrônico 3).
+    Bem examinados os autos, tenho que o caso é de reconsideração da decisão monocrática (documento eletrônico 5), anteriormente proferida, tendo em vista o resultado do julgamento da mencionada ação direta.
+    Passo à análise do apelo extremo.
+    Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    ““REEXAME NECESSÁRIO — Dado por interposto, nos termos da Súmula n. 490, do STJ.
+    PRELIMINARES DE FALTA DE INTERESSE DE AGIR e IMPOSSIBILIDADE JURÍDICA DO PEDIDO
+    — Preliminares que serão analisadas com o mérito, porque com ele se imiscuem.
+    PRESCRIÇÃO DO FUNDO DE DIREITO -
+    Preliminar prejudicial de mérito - Ocorrência parcial - Ação declaratória cc condenatória proposta somente em 01.07.2013 - Períodos trabalhados de 12 . 12.2005 a 12.12.2007 e de 11.02.2008 a 20.06.2009 — Sentença de primeiro grau que reconheceu a prescrição parcial do direito do autor, julgando extinto o feito, nos termos do art. 269, inc. IV, do CPC, no tocante aos direitos pleiteados até o dia 30 .06.2008 — Pretensão de reforma - Impossibilidade - Aplicação do artigo 1º do Decreto n° 20.910/32.
+    APELAÇÃO — Soldado PM Temporário — Reconhecimento da Inconstitucionalidade da Lei Federal n. 10.029100 e da Lei Estadual n . 11.064/00 pelo C. Órgão Especial deste Tribunal de Justiça — Equiparação com os Policiais Militares efetivos — Inaplicabilidade da CLT — Devidos as férias, o terço constitucional e o 13° salário — Indevido o adicional de insalubridade, pois o autor exerce função administrativa — Lei Complementar n. 432/85 — Indevido também o adicional de local de exercício, por ausência de comprovação de sua incidência no local aonde exerceu suas atividades - Recursos fazendário e ex officio parcialmente” (pág. 149 do documento eletrônico 1).
+    Os embargos de declaração que se seguiram foram rejeitados (pág. 172 do documento eletrônico 1).
+    No RE, sustentou-se, em suma, violação dos arts. 2º; 5º, II; e 37, caput, II e IX, da Constituição, requerendo o sobrestamento do feito tendo em vista o reconhecimento da repercussão geral do tema 551 (ARE 646.000/MG).
+    Ademais, pugna-se pela validade da correção monetária e dos juros moratórios incidentes sobre as condenações impostas à Fazenda Pública, conforme previstos na Lei 11.960/2009.
+    A pretensão recursal merece acolhida.
+    Ao apreciar a ADI 4.173/DF, de relatoria do Ministro Alexandre de Moraes, esta Corte julgou constitucional o dispositivo da Lei 10.029/2000 que autoriza o serviço militar voluntário sem o reconhecimento de vínculo ou obrigação de natureza trabalhista, conforme se lê na ementa do acórdão:
+    “FEDERALISMO E RESPEITO ÀS REGRAS DE DISTRIBUIÇÃO DE COMPETÊNCIA. LEI FEDERAL 10.029/2000. COMPETÊNCIA DA UNIÃO PARA NORMAS GERAIS NA PREVISÃO DE PRESTAÇÃO VOLUNTÁRIA DE SERVIÇOS AUXILIARES NAS POLÍCIAS MILITARES E CORPO DE BOMBEIROS MILITAR (CF, ARTS. 22, INCISO XXI E 144, §7º). CONSTITUCIONALIDADE. AUSÊNCIA DE RAZOABILIDADE NA FIXAÇÃO DE LIMITES DE IDADE. PROCEDÊNCIA PARCIAL.
+    1. As regras de distribuição de competências legislativas são alicerces do federalismo e consagram a fórmula de divisão de centros de poder em um Estado de Direito. A própria Constituição Federal de 1988, presumindo de forma absoluta para algumas matérias a presença do Princípio da Predominância do Interesse, estabeleceu, a priori, diversas competências para cada um dos entes federativos e, a partir dessas opções, pode ora acentuar maior centralização de poder, principalmente na própria União (CF, art. 22), ora permitir uma maior descentralização nos Estados-Membros e nos Municípios (CF, arts. 24 e 30, I).
+    2. A Lei Federal 10.029/2000, que estabeleceu os parâmetros de organização de serviços voluntários nas Polícias Militares e nos Corpos de Bombeiros Militares, possui caráter nacional e foi editada dentro dos limites da competência da União (arts. 22, XXI, e 144, § 7º, da CF). Precedentes.
+    3. É incompatível com a Constituição a limitação máxima de idade para a prestação de quaisquer serviços voluntários na Polícia Militar e no Corpo de Bombeiros Militar. Inconstitucionalidade material da expressão ‘e menores de vinte e três anos’, constante do inciso I do art. 3º da Lei Federal 10.029/2000, por ausência de razoabilidade.
+    4. Ao dispor que os voluntários por ela disciplinados terão direito ao recebimento de auxílio mensal de natureza indenizatória ‘destinado ao custeio das despesas necessárias à execução dos serviços a que se refere essa lei’ (art. 6º), sem a configuração de ‘vínculo empregatício’ ou de ‘obrigação de natureza trabalhista, previdenciária ou afim’, em decorrência da relação jurídica constituída (art. 6º, § 2º), a Lei Federal 10.029/2000 não viola o artigo 37, I, II e IX, da Constituição Federal, dada a diversidade da natureza dos vínculos jurídicos estabelecidos.
+    5. Ação Direta de Inconstitucionalidade julgada parcialmente procedente” (grifei).
+    Verifico que o acórdão de origem destoa de tal entendimento ao condenar o ente federativo ao pagamento de verbas de natureza trabalhista.
+    Destaco, ademais, julgados de ambas as Turmas deste Tribunal que já aplicaram o entendimento do precedente a casos semelhantes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIÇO MILITAR VOLUNTÁRIO. AUSÊNCIA DE VÍNCULO EMPREGATÍCIO OU DE OBRIGAÇÃO DE NATUREZA TRABALHISTA. LEI 10.029/2000. CONSTITUCIONALIDADE RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL NA ADI 4.173/DF. AGRAVO INTERNO DESPROVIDO (RE 1.178.917-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Serviço militar voluntário. Lei Federal 10.029/2000. Declaração de constitucionalidade pelo STF. ADI 4.173. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Negativa de provimento ao agravo regimental (RE 1.178.492-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Ante tal conclusão, fica prejudicado o recurso quanto à discussão sobre a correção monetária e os juros de mora.
+    Isso posto, reconsidero a decisão anterior (documento eletrônico 5) e dou provimento ao recurso extraordinário (art. 21, § 2°, do RISTF).
+    Publique-se.
+    Brasília, 12 de junho de 2019.
+Ministro Ricardo Lewandowski
+Relator
