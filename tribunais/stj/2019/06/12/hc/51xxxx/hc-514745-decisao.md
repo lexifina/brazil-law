@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 0000004-74.2018.8.26.0594).
+Narram os autos que o ora paciente foi condenado, em primeiro grau de jurisdição, à pena de 1 ano e 8 meses de reclusão, em regime inicialmente aberto, substituída a pena privativa de liberdade por restritiva de direitos, como incurso no art. 33 da Lei n. 11.343/2006, incidente a minorante prevista no § 4º do mesmo artigo (e-STJ fls. 54/64).
+Irresignada, apelou a acusação. O Tribunal de origem deu provimento ao recurso para afastar a aplicação da minorante, majorar a pena e fixar o regime fechado em acórdão assim ementado (e-STJ fl. 96):
+APELAÇÃO CRIMINAL - TRÁFICO (COCAÍNA E "CRACK") - O RECURSO MINISTERIAL OBJETIVA AFASTAR A CAUSA DE DIMINUIÇÃO DO § 4º DO ARTIGO 33, TAMBÉM A SUBSTITUIÇÃO POR PENAS ALTERNATIVAS E QUE SEJA FIXADO REGIME FECHADO - COM RAZÃO O MINISTÉRIO PÚBLICO - A CONDENAÇÃO FOI BEM LANÇADA E SEQUER GUERREADA PELA DEFESA - PRISÃO EM FLAGRANTE EM CONHECIDO "PONTO DE VENDA" E APREENSÃO DE PORÇÕES DE COCAÍNA E "CRACK" - NEGATIVA ISOLADA, RECHAÇADA PELOS RELATOS DOS MILICIANOS - A PENA COMPORTA OS REPAROS PLEITEADOS PELA JUSTIÇA PÚBLICA - CAUSA DE DIMINUIÇÃO AFASTADA E REGIME FECHADO DE RIGOR - RECURSO MINISTERIAL PROVIDO PARA AFASTAR A CAUSA DE DIMINUIÇÃO E ELEVAR A PENA, FIXANDO-SE REGIME FECHADO PARA CUMPRIMENTO, COM EXPEDIÇÃO DE MANDADO DE PRISÃO ESGOTADAS AS IMPUGNAÇÕES ORDINÁRIAS NESTA CORTE DE JUSTIÇA.
+No presente writ, alega o impetrante que o paciente faz jus ao restabelecimento da sentença de primeiro grau, pois preenche os requisitos para a aplicação da minorante.
+Afirma, além disso, que, reduzida a pena, deve ser fixado o regime aberto e substituída a pena privativa de liberdade por restritiva de direitos.
+É, em síntese, o relatório.
+Na espécie, verifico presente constrangimento ilegal apto a justificar a concessão da ordem in limine.
+Conforme consignado no relatório, foi aplicado ao paciente em primeiro grau o redutor inserto no art. 33, § 4º da Lei n. 11.343/2006, pois, segundo o magistrado condutor do feito, "não se evidenciou ser o acusado pessoa dedicada a atividades criminosas ou integrante de organização criminosa" (e-STJ fl. 58).
+O Tribunal de origem, ao reformar a sentença nesse ponto, destacou que o paciente estava desempregado, além de ter sido surpreendido em local conhecido como ponto de venda de drogas.
+Ocorre que tais fundamentos, aliados à pouca quantidade de droga encontrada em poder do paciente (aproximadamente 2g de crack e 6g de cocaína), não autorizam o afastamento da minorante, pois não se revelam suficientes para indicar a sua dedicação à atividades criminosas.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. REDUÇÃO DA PENA QUE SE MOSTRA DEVIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O simples fato de o réu haver confessado que estava desempregado à época dos fatos não pode, evidentemente, levar à conclusão contrária, qual seja, a de que se dedica a atividades criminosas, até porque o desemprego, diante da realidade social brasileira, representa, na verdade, um infortúnio de boa parte da população.
+2. Porque não foi apontado nenhum fundamento concreto e idôneo que, efetivamente, permitisse a conclusão de que o acusado se dedicaria a atividades delituosas, deve ser aplicada, em seu favor, a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas.
+3. Agravo regimental não provido.
+(AgRg no HC 489.743/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/03/2019, DJe 05/04/2019)
+Assim, mostra-se de rigor restabelecer a sentença e, por conseguinte, tendo em vista o retorno da pena para 1 ano e 8 meses, determinar, na linha da sentença, a substituição da pena privativa de liberdade por restritiva de direitos e a fixação do regime inicial aberto.
+Como é cediço, em se tratando de tráfico de entorpecentes, desde o julgamento pelo Supremo Tribunal Federal do HC n. 111.840/ES, inexiste a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, tendo-se determinado, também nesses casos, a observância do disposto no art. 33, §§ 2º e 3º, c/c o art. 59, do Código Penal.
+Portanto, o regime fechado, mais severo do que aquele que a pena comporta, a princípio, foi fixado sem fundamentação idônea, afrontando o disposto no art. 93, inciso IX, da Constituição da República e no enunciado 440 da Súmula do STJ, que segue transcrito: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Nesse mesmo sentido, seguem os enunciados 718 e 719 da Súmula do STF, respectivamente:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Na espécie, considerando o quantum da condenação (1 ano e 8 meses de reclusão), a primariedade do paciente e o fato de não terem sido apontadas circunstâncias desfavoráveis, deve ser-lhe conferido regime menos gravoso.
+Ante o exposto, concedo liminarmente a ordem para restabelecer a sentença de primeiro grau.
+Comunique-se, com urgência, ao Tribunal impetrado e ao Juízo de primeiro grau, encaminhando-lhes o inteiro teor da presente decisão. Ressalte-se que deverão noticiar a esta Corte Superior qualquer alteração no quadro fático atinente ao tema objeto desta impetração.
+Oportunamente, dê-se vista dos autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
