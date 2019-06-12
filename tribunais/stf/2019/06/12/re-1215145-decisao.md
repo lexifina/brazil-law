@@ -1,0 +1,43 @@
+Trata-se de recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “ADMINISTRATIVO - CONCURSO PÚBLICO – PROFESSOR MUNICIPAL - ENSINO FUNDAMENTAL (1° E 2° CICLOS) – CANDIDATA PORTADORA DE HABILITAÇÃO PARA LECIONAR NA 1ª A 4ª SÉRIES - EDITAL – EXIGÊNCIA DE NORMAL SUPERIOR ILEGALIDADE – POSSE POR FORÇA DE DECISÃO JUDICIAL - INDENIZAÇÃO – DESCABIMENTO. - RECURSO -PARCIALMENTE -PROVIDO:
+     É ilegal previsão contida em edital que, para provimento do cargo de Professor Municipal do Ensino Fundamental, exige que o candidato possua Ensino Normal Superior ou Pedagogia, cuja habilitação não consta da Lei de Diretrizes e Bases da Educação Nacional, a qual admite como formação mínima para o exercício da educação infantil e nas quatro primeiras séries do ensino fundamental, aquela oferecida em nível médio, na modalidade normal.
+    O ato administrativo que indefere a posse de candidato aprovado em concurso público, ainda que considerado ilegal e posteriormente revogado por decisão judicial, não implica no reconhecimento de direito à indenização por dano moral ou ao recebimento de vencimentos retroativos” (pág. 165 do documento eletrônico 1).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação dos arts. 5°, caput; 18, caput; 24, IX; e 37, caput, da mesma Carta. Aduz o recorrente que:
+    “Como se sabe, a inscrição no concurso público vincula o candidato às normas do edital, por isto chamado de ‘lei interna da concorrência’.
+    Neste caso específico, a Recorrida aceitou as rigorosas regras previstas no edital, sem qualquer ressalva ou contestação e, apenas depois da sua nomeação pretende que a Administração Pública Municipal seja compelida a lhe empossar no cargo de Professor Municipal, sem que sejam cumpridas as rigorosas regras previamente estabelecidas dentre as condições editalícias: [...]” (pág. 197 do documento eletrônico 1).
+    A pretensão recursal não merece acolhida.
+    Destaco do voto condutor do acórdão recorrido (págs. 166 e seguintes do documento eletrônico 1):
+    “A controvérsia a ser apreciada pela Instância Revisora consiste em saber se a habilitação profissional da apelante é suficiente para atender os requisitos para investidura no cargo de Professor Municipal.
+    O conjunto probatório revela que a recorrente é portadora de Diploma emitido pelo Instituto de Educação de Minas Gerais conferindo-lhe a titulação de "Professor de 1ª á 4ª Série (f. 22), além de ter se graduado em Direito pela Faculdade de Direito Milton Campos (f. 24).
+    A investidura em cargo público ocorre com a posse, ocasião em que o candidato deve comprovar que preenche todos os requisitos para o exercício da função, exigidos no edital que regula o certame.
+    O Edital n° 02/2004 prevê a existência de 193 vagas destinadas ao cargo de Professor Municipal/1° e 2° ciclos do ensino fundamento, estabelecendo como Habilitação necessária ao provimento:
+    ‘Curso de graduação - licenciatura plena em Ensino Normal Superior ou Pedagogia com habilitação para o magistério das séries iniciais do ensino fundamental’(f. 35).
+    […]
+    Entretanto, as exigências do edital devem limitar-se ao estritamente essencial e indispensável à busca do interesse público, pois há exigências que só se prestam a afastar ‘competidores’. O rigor editalício e legal não pode se transformar num fim em si mesmo, para apenas preencher requisitos inúteis. Os diplomas que instruem a petição inicial conferem à apelante titulação profissional de Professor de 1° Grau - 1ª a 4a Série, em nível médio, e graduação de curso superior em Direito, o que demonstra ter ela habilitação suficiente àquela exigida para a investidura no cargo para o qual concorreu e foi aprovada.
+    […]
+    Diante da existência de lei federal tratando sobre normas gerais da educação, suspende-se a eficácia de lei local no que lhe for contrário (artigo 5°, da Lei n° 8.679/2003), tanto que a própria Lei n° 9.394/96 impõe aos Municípios a obrigação de adaptarem ‘sua legislação educacional e de ensino às disposições desta Lei' (artigo 88).
+    Com efeito, ao exigir como requisito de investidura Licenciatura Plena em Ensino Normal Superior ou Pedagogia para o exercício do cargo de Professor Municipal/1° e 2° Ciclos do Ensino Fundamental, o certame em questão extrapolou as diretrizes contidas no artigo 62 da Lei Federal n° 9.394/96.
+    A ilegalidade do ato impugnado é reforçada considerando o fato de a recorrente já exercer cargo de provimento efetivo de Professor junto ao Município de Belo Horizonte (f. 16) com a mesma habilitação profissional a qual pretende ser nomeada e empossada em novo cargo.
+    […]
+    Forçoso concluir que é ilegal previsão contida em edital que, para provimento do cargo de Professor Municipal do Ensino Fundamental, exige que o candidato possua Ensino Normal Superior ou Pedagogia, cuja habilitação não consta da Lei de Diretrizes e Bases da Educação Nacional, a qual admite como formação mínima para o exercício da educação infantil e nas quatro primeiras séries do ensino fundamental, aquela oferecida em nível médio, na modalidade normal.”
+    Nesse contexto, verifico que o Tribunal de origem concluiu, com fundamento na legislação infraconstitucional (Leis 8.679/2003 e 9.394/1996), nos fatos e nas provas dos autos e no edital do certame, ser ilegal previsão contida no edital do concurso.
+    Assim, para dissentir dessa conclusão e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos e das cláusulas que regem o edital do certame, o que é vedado pelas Súmulas 279 e 454/STF, além da reanálise da legislação infraconstitucional pertinente, sendo certo que se houvesse ofensa à Constituição, seria apenas indireta, inviabilizando, portanto, o RE. Nesse sentido, cito os seguintes julgados desta Corte:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXIGÊNCIAS DO EDITAL. PREENCHIMENTO DOS REQUISITOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL. ÓBICE DA SÚMULA Nº 454 DO STF. AGRAVO REGIMENTAL DESPROVIDO” (ARE 904.621-AgR/PE, Rel. Min. Luiz Fux, Primeira Turma).
+    “Ementa: Agravo regimental no recurso extraordinário.
+    2. Concurso público. Requisitos do cargo. Candidato com escolaridade superior à exigida no edital.
+    3. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Súmula 279 do STF.
+    4. Necessidade de interpretação das cláusulas do edital. Impossibilidade. Súmula 454 do STF.
+    5. Tema 567 da sistemática da repercussão geral. Matéria infraconstitucional. Ausência de repercussão geral.
+    6. Ausência de argumentos capazes de infirmar a decisão agravada.
+    7. Agravo regimental a que se nega provimento” (RE 939.747-AgR/RN, Rel. Min. Gilmar Mendes, Segunda Turma).
+    “DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. POLICIAL MILITAR ESTADUAL. CURSO DE FORMAÇÃO DE SOLDADOS. CONVOCAÇÃO DE CANDIDATOS. INTERPRETAÇÃO DE CLÁUSULA DE EDITAL E ADITIVO. ÂMBITO INFRACONSTITUCIONAL DO DEBATE. ANÁLISE DA OCORRÊNCIA DE EVENTUAL AFRONTA AOS PRECEITOS CONSTITUCIONAIS INVOCADOS NO APELO EXTREMO DEPENDENTE DA REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE NO ACÓRDÃO REGIONAL. ACÓRDÃO RECORRIDO PUBLICADO EM 30.9.2013.
+    O Tribunal a quo decidiu que a ora agravada tem direito a participar do Curso de Formação de Soldados, etapa do concurso da Polícia Militar, que após o Aditivo nº 005, do Edital nº 003/2007, estabeleceu a convocação, para as demais fases do certame, dos candidatos aprovados no exame intelectual.
+    Divergir desse entendimento demandaria a análise das cláusulas do edital do concurso e seu aditivo de convocação para o curso de formação de soldados, bem como da moldura fática delineada nos autos. Aplicação dos óbices das Súmulas 279 e 454/STF. Precedentes.
+    As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República.
+    Agravo regimental conhecido e não provido” (ARE 824.698-AgR/PB, Rel. Min. Rosa Weber, Primeira Turma).
+    Além disso, esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636/STF).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 12 de junho de 2019.
+Ministro Ricardo Lewandowski
+Relator
