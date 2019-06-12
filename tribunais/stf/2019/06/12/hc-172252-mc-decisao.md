@@ -1,0 +1,19 @@
+DECISÃO
+PENA – CAUSA DE DIMINUIÇÃO – ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 – INADEQUAÇÃO.
+PENA – REGIME DE CUMPRIMENTO – CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS – ARTIGO 33, § 3º, DO CÓDIGO PENAL.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO PARCIAL.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Vara Criminal da Comarca de Mogi Guaçu/SP, no processo nº 0006815-82.2009.8.26.0362, condenou o paciente a 1 ano e 8 meses de reclusão, em regime inicial de cumprimento fechado, e ao pagamento de 166 dias-multa, ante a prática da infração prevista no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Na dosimetria, assentou favoráveis as circunstâncias judiciais, fixando a pena-base no mínimo legal, considerado o piso de 5 e o teto de 15 anos. Apontou ausentes agravantes, atenuantes e causas de aumento de pena. Fez incidir, no patamar de 2/3, a causa de diminuição versada no artigo 33, § 4º, da mesma Lei. Estabeleceu o regime inicial fechado, aludindo ao disposto no artigo 2º, § 1º, da Lei nº 8.072/1990.
+    A Terceira Câmara de Direito Criminal, ao prover apelação interposta pelo Ministério Público, afastou a causa de diminuição, referindo-se à quantidade e variedade de substâncias apreendidas – 35 porções de crack (9,9 gramas), 15 porções de maconha (65 gramas) e 110 gramas de cocaína –, a revelar dedicação a atividades ilícitas. Tornou definitiva a sanção em 5 anos de reclusão, no regime inicial de cumprimento fechado, e 500 dias-multa. Embargos declaratórios não alcançaram êxito. Recurso especial foi inadmitido.
+    Chegou-se ao Superior Tribunal de Justiça com o agravo em recurso especial nº 1.183.817/SP, desprovido pelo Relator. Interpostos embargos de divergência, foram indeferidos liminarmente pela Presidência. A Terceira Seção negou provimento a agravo interno. A condenação transitou em julgado no dia 29 de agosto de 2018.
+    Os impetrantes sustentam haver ilegalidade na dosimetria, consubstanciada na exclusão da causa de diminuição e no implemento do regime mais gravoso. Afirmam que o paciente é primário, não integra organização criminosa nem se dedica a atividades ilícitas, preenchendo, segundo asseveram, os requisitos necessários ao reconhecimento da causa de diminuição. Articulam com a ofensa ao artigo 93, inciso IX, da Constituição Federal. Dizem olvidados os verbetes nº 718 e 719 da Súmula do Supremo.
+    Requerem, no campo precário e efêmero, a observância, no grau máximo, da causa de diminuição e, por consequência, a fixação do regime aberto ou, sucessivamente, do semiaberto. No mérito, buscam a confirmação das providências.
+    A fase é de apreciação da medida acauteladora.
+    2. Vale frisar as premissas assentadas pelo Tribunal para afastar a causa de diminuição de pena versada no artigo 33, § 4º, da Lei nº 11.343/2006. Teve presente a dedicação a atividades criminosas, levando em conta o contexto do delito, a quantidade e a variedade de drogas apreendidas – 35 porções de crack (9,9 gramas), 15 porções de maconha (65 gramas) e 110 gramas de cocaína. Ressaltou o contexto da infração, os elementos coligidos no processo-crime, asseverando tratar-se de traficante não ocasional. Inexiste, no ponto, ilegalidade a ser afastada.
+    No tocante ao pedido sucessivo, atentem para a disciplina legal referente à definição do regime inicial de cumprimento de pena. Norteia-o o patamar alusivo à condenação e as circunstâncias judiciais, considerado o artigo 33, § 3º, do Código Penal. Tendo em vista a sanção definitiva imposta – 5 anos de reclusão – e a ausência de valoração negativa das circunstâncias do artigo 59 do Código Penal, cumpre estabelecer o regime inicial semiaberto.
+    3. Defiro parcialmente a liminar, para que seja observado, até o julgamento do mérito da impetração, o regime semiaberto.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 12 de junho de 2019.
+Ministro MARCO AURÉLIO
+Relator
