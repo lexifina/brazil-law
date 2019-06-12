@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ - MPE com fundamento na alínea "a" do inc. III do art. 105 da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ - TJPR.
+Consta dos autos que a recorrida EDITE DE SOUZA SCHIO foi pronunciada pela prática do delito tipificado no art. 121, § 2º, IV, na forma do art. 14, II, e do art. 29, todos do Código Penal - CP (fls. 212/213).
+A defesa interpôs recurso em sentido estrito que foi provido para desclassificar a conduta para o delito de lesão corporal leve e, de ofício, declarar extinta a punibilidade pela prescrição (fl. 295). O acórdão ficou assim ementado:
+RECURSO EM SENTIDO ESTRITO - Tentativa de homicídio - Desconfiguração - Ausência de provas da circunstância, alheia à vontade do agente, que impediu a consumação do homicídio Desclassificação para o delito previsto no artigo 129, caput, do Código Penal - Infração, contudo, vencida pela prescrição - Extinção da punibilidade declarada - Recurso provido (fl. 296).
+Embargos de declaração opostos pelo MPE foram rejeitados, conforme acórdão de folhas 317/322.
+Em sede de recurso especial, o MPE alegou violação aos artigos 413, caput, e § 1º, do Código de Processo Penal - CPP, 121, caput, e 14, II, ambos, do CP, porquanto o Tribunal de origem, embora tenha reconhecido que a vítima desarmou a recorrida, entendeu que não ficou demonstrada circunstância alheia à vontade da vítima para a consumação do delito. Destaca que ante a presença de indícios mínimos, deve ser feito juízo de valoração pelo Tribunal do Júri.
+Requer a reforma do acórdão recorrido, com restabelecimento da sentença de pronúncia.
+As contrarrazões foram apresentadas às fls. 373/380.
+Admitido o recurso (fls. 382/384), os autos vieram a esta Corte.
+O Ministério Público Federal - MPF opinou pelo provimento do recurso (fls. 404/411).
+É o relatório. Decido.
+O Tribunal de origem desclassificou a conduta porque não ficou demonstrada a razão, alheia a vontade da recorrida, que impediu a consumação do delito, ficando configurada a desistência voluntária. Cito trecho do julgamento do recurso de apelação:
+4. A classificação dada na pronúncia, de tentativa de homicídio qualificado, não pode, com todo respeito, prevalecer, uma vez que não ficou demonstrada a razão, alheia a vontade da acusada, que impediu a consumação do crime.
+A denúncia, ao narrar esta particularidade, afirma "que [NOME] (a vítima) pulou a janela do quarto e foi socorrido pelo vizinho que esteve presente no local dos fatos, submetendo-o a pronto atendimento médico " (fls. 3).
+A prova mostra que a recorrente, de fato, efetuou um disparo contra o ofendido, atingindo-o no braço direito, além de ter ferido superficialmente "a face lateral direita do tórax" (fls. 40v.), e que, na seqüência, sem maior dificuldade, este a desarmou, tanto que diz que "não foi preciso entrar em luta corporal com a ré para tomar dela o revólver, apenas tirou de sua mão" (fls. 87v.), e, em seguida, deixou o local, pulando a janela.
+O tal vizinho, sr. Adalberto Aschidamini, conta que ouviu o disparo e "saiu até o passeio e se deparou com avítima, descendo pela escada, também chegando no passeio, com um revólver na mão e dizendo que teria sido baleado" e que, então, a conduziu até o hospital.
+De tal narrativa, não se observa qualquer conduta de parte do vizinho no sentido de impedir a consumação do homicídio, enquanto que o socorro a que foi submetido o ofendido também não foi o bastante, por si só, para interromper o resultado, pois a extensão dos ferimentos e a fotografia de fls. 14 autorizam dizer, à primeira vista, que, mesmo que não tivesse recebido assistência médica, não teria ele corrido maior risco de vida.
+Este, aliás, compareceu dois dias depois no Instituto Médico Legal e, como visto na referida fotografia, apresentava razoáveis condições físicas, com bandagens nos locais feridos, é verdade, mas sem demonstrar, absolutamente, que há pouco mais de 36 (trinta e seis) horas havia fugido da morte.
+Assim, como a particularidade que teria impedido a consumação do homicídio não restou demonstrada, não há que se falar em tentativa, de modo que a acusada deve responder, tão somente, pelos atos praticados, isto é, a lesão corporal de natureza leve, consoante autoriza o laudo pericial de fls. 40.
+Da jurisprudência, a propósito, vale transcrever o seguinte precedente:
+ ..
+Assim, entendendo que o delito reconhecido na pronúncia não pode prevalecer, o meu voto é pelo provimento do recurso, para desclassificá-lo para o crime previsto no art. 129, caput, do Código Penal (fls. 298/301).
+Por seu turno, constou no julgamento dos embargos de declaração que a recorrida não ofereceu resistência ao ser desarmada. Cito o trecho:
+Não é, absolutamente, o caso em análise, vez que a decisão embargada justificou, de forma clara as razões porque desclassificou o delito de homicídio para o de lesões corporais, ante inexistência da circunstância alheia a vontade da ré que impediu o resultado, primeiramente, porque o tiro atingiu "superficialmente, a face lateral direita do tórax" da vítima, não oferecendo nenhum risco de vida.
+Além de registrar que, ao ser desarmada, a ré não ofereceu qualquer resistência, tendo o ofendido afirmado que "não foi preciso entrar em luta corporal com a ré para tomar dela o revólver, apenas tirou de sua mão" (fls. 243), de modo que, ao contrário do que sustenta o embargante, não restou demonstrada a existência de uma interferência externa relevante no sentido de interromper a execução do crime (Fl. 320).
+Pois bem, o acolhimento da tese de desistência voluntária pelo Tribunal de origem quando da apreciação da pronúncia somente é cabível se for evidente da prova dos autos. Cito precedentes:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. OMISSÃO NA APRECIAÇÃO DA TESE DE DESISTÊNCIA VOLUNTÁRIA. INOCORRÊNCIA. EXCESSO DE LINGUAGEM. NÃO VERIFICAÇÃO. DESCLASSIFICAÇÃO POR OCORRÊNCIA DE DESISTÊNCIA VOLUNTÁRIA. IMPOSSIBILIDADE NA VIA ELEITA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. MATÉRIA PRÓPRIA DO TRIBUNAL DO JÚRI. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+IV - No que tange ao pedido de reconhecimento da desistência voluntária, inviável a apreciação da tese, para fins de desclassificação, na via eleita, por demandar incursão aprofundada em seara fático-probatória.
+V - Ademais, não restando evidente a prática da desistência voluntária na fase do iudicium acusationis, imperiosa a submissão da tese ao juiz natural da causa, qual seja, o Tribunal do Júri, sob pena de indevida usurpação da competência constitucional a ele atribuída.
+Habeas corpus não conhecido (HC 362.295/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 01/12/2016).
+No caso dos autos, sendo certo que a vítima desarmou a recorrida e que tal fato impossibilitou a continuidade da empreitada, deve o Tribunal do Júri analisar se houve desistência voluntária ou provocada, com base na prova dos autos, inclusive a falta de resistência da recorrida, que irá evidenciar a dinâmica dos fatos. Cito precedente:
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ESPECIAL CABÍVEL. IMPOSSIBILIDADE. RESPEITO AO SISTEMA RECURSAL PREVISTO NA CARTA MAGNA. NÃO CONHECIMENTO.
+ ..
+HOMICÍDIO QUALIFICADO TENTADO. ALEGADO EXCESSO DE PRAZO DA PRISÃO.MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM NO ACÓRDÃO COMBATIDO. INCOMPETÊNCIA DESTE STJ E SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO.
+ ..
+PRONÚNCIA. HOMICÍDIO QUALIFICADO TENTADO. AVENTADA OCORRÊNCIA DE DESISTÊNCIA VOLUNTÁRIA. PRETENDIDA DESCLASSIFICAÇÃO PARA O DELITO DE LESÕES CORPORAIS. ANÁLISE APROFUNDADA DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. COMPETÊNCIA DO CONSELHO DE SENTENÇA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. O exame da insurgência exposta na impetração, no que tange à pretendida desclassificação do delito, demanda aprofundado revolvimento do conjunto probatório, vedado na via estreita do mandamus, já que para que seja reconhecida a desistência voluntária, faz-se necessária uma análise minuciosa da conduta do paciente.
+2. Afirmar se o agente teria ou não voluntariamente desistido da prática do crime de homicídio é questão que deve ser analisada pela Corte Popular, juiz natural da causa, de acordo com a narrativa dos fatos constantes da denúncia e com o auxílio do conjunto fático-probatório produzido no âmbito do devido processo legal.
+3. Habeas corpus não conhecido (HC 276.257/PE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 21/05/2014).
+Diante do exposto, com fundamento na Súmula 568/STJ, dou provimento ao recurso especial para restabelecer a sentença de pronúncia.
+Publique-se. Intimem-se.
