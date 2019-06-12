@@ -1,0 +1,5 @@
+DECISÃO
+Consoante bem asseverado pelo Ministério Público Federal, às e-STJ fls. 51/52, "busca o Impetrante a anulação do Processo 0168839-42.2015.8.13.0707, que tramitou na Comarca de Varginha, instaurado a partir de investigações conduzidas no âmbito da Operação Pródigo". Ocorre que "tramitam nesse Superior Tribunal de Justiça dois habeas corpus, ambos visando à anulação do processo nº 0168839-42.2015.8.13.0707, com diligências efetivadas em ambos os autos".
+Tal o quadro, verificando-se que o presente habeas corpus constitui mera reiteração do pedido contido nos autos do HC n. 490.801/MG, dele não conheço.
+No entanto, defiro o pedido formulado pelo Ministério Público Federal à e-STJ fl. 52 e determino a juntada aos autos do HC n. 490.801/MG das informações prestadas às e-STJ fls. 35/38, bem como a solicitação de informações ao Juízo da 1ª Vara Criminal e Execução Penal de Varginha/MG acerca da atual situação prisional do paciente, informações a serem juntadas, também, nos autos do HC n. 490.801/MG.
+Publique-se. Intimem-se.
