@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pela União à decisão de fls. 628/643 pela qual foi concedida a segurança para determinar o pagamento aos impetrantes do valor de R$ 238.241,25 (Duzentos e trinta e oito mil, duzentos e quarenta e um reais e vinte e cinco centavos), relativo aos efeitos financeiros retroativos, referente ao período compreendido entre 14 de dezembro de 1996 e 31 de outubro de 2002, data do julgamento pela Comissão de Anistia, conforme explicitamente previsto na Portaria n. 3.036, de 30 de dezembro de 2002, publicada no DOU de 1º de janeiro de 2003, bem como para assegurar-lhes o direito de pleitear os juros e correção monetária por meio de ação própria.
+A embargante alega que "a hipótese do mandado de segurança n. 15.706/DF é exatamente a mesma situação posta nos presentes autos" pelo que "é essencial que seja observado, nos presentes autos, o que foi estabelecido por este tribunal da Cidadania, no sentido de que se a anistia do impetrante for anulada/revogada, restará, logicamente, prejudicado o pleito referente ao pagamento das prestações retroativas" (fl. 674).
+Requer, por isso, "a integração da decisão embargada a fim de constar a ressalva expressa da questão de ordem no MS 15.706/DF" (fl. 678).
+Os impetrantes apresentaram impugnação aos embargos, fls. 680/683, defendendo a manutenção integral da decisão embargada.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Consoante o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou, ainda, para corrigir-lhe erro material, não se revelando meio idôneo para reexaminar a matéria já decidida, à luz tão somente da irresignação da parte embargante.
+Na presente hipótese, alega a União que a decisão embargada é omissa quanto "a ressalva expressa da questão de ordem no MS 15.706/DF" (fl. 678).
+Sem razão.
+Da fundamentação do aresto embargado, colhe-se:
+1. Do poder-dever de revisão do ato concessório da anistia, não alcançado por decadência.
+Embora noticie que a revisão dos atos de anistia não foi alcançada pela decadência e pode prejudicar a concessão, a autoridade coatora se limita ao campo hipotético. Nada trouxe de concreto aos autos que pudesse corroborar suas alegações. Ademais, a aludida revisão, acaso ocorra, se dará no âmbito e por conta do Ministério da Justiça, de sorte que, enquanto não anulada a anistia, permanece incólume a obrigação de pagar as parcelas indenizatórias retroativas, imposta ao Ministério da Defesa por força do disposto no art. 18, parágrafo único, da Lei n. 10.559/2002, verbis  ..  (fls. 629/630, destaquei).
+Logo, sem nenhum esforço hermenêutico tem-se que a ordem foi concedida para determinar o pagamento, pois "enquanto não anulada a anistia, permanece incólume a obrigação de pagar". Logo,se e quando anulada, desaparecerá tal obrigação, como se decidiu na aludida questão de ordem. Aliás, nesse sentido foram também os muitos precedentes anotados no corpo de decisão embargada.
+Eis porque os presentes embargos não merecem acolhimento, mas censura.
+ANTE O EXPOSTO, e com fundamento no art. 1.024, § 2.º, do CPC e 34, XVIII, do RISTJ, rejeito o presente recurso integrativo.
+Publique-se.
