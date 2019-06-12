@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). REEXAME FÁTICO-PROBATÓRIO DA CAUSA. IMPOSSIBILIDADE. SÚMULA 07/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por INDUSTRIA DE BEBIDAS PIRASSUNUNGA LTDA contra decisão do Tribunal de Justiça do Estado de São Paulo que negou seguimento ao recurso especial fundado na alínea "a" do inciso III do art. 105 da Constituição Federal, manejado em face de acórdão assim ementado:
+"APELAÇÃO. Ação monitória. Nota promissória Prescrição. Ação ajuizada antes do escoamento do prazo prescricional de cinco anos, contados a partir do protesto do título. Artigos 202, inciso III, c 206. § 5.º, inciso I, ambos do Código Civil. Prescrição afastada.
+Falta de interesse processual. Inocorrencia. Anterior ação de cobrança entre as mesmas partes, julgada improcedente. Objetos distintos.
+Inexigibilidade do título. Nota promissória que, em razão da vinculação a contrato para aquisição de títulos da dívida pública, perde a autonomia e abstração enquanto não circula. Suposta mácula da relação negocial principal. Questão que demanda regular dilação probatória. Sentença reformada. Recurso provido." (e-STJ fls. 620).
+Opostos embargos de declaração, esses foram rejeitados (e-STJ fl. 646).
+Em sede de recurso especial, a empresa recorrente alega, de saída, malferimento dos artigos 206, § 5.º, I, do Código Civil/2002; e 269, IV, do Código de Processo Civil/73 defendendo a prescrição da presente pretensão aduzida na ação monitória fundada na cobrança do crédito representado na nota promissória n. 22/24.
+Na sequência, indica violação dos artigos 485, V, 502, 506 e 963, IV, do Código de Processo Civil/73 apontando a prejudicial de coisa julgada, pois:
+"A relação negocial originária do título que aparelha a ação, foi resolvida nos autos da Ação de Cobrança nº 457.01.2004.005894-6 (Controle 663/2004) que tramitou perante a 1.º Vara Cível da comarca de Pirassununga/SP, tendo sido declarada a inexigibilidade da cobrança das cártulas face a existência de cláusula resolutiva expressa, não se afigurando lícito exigir o pagamento do crédito remanescente, mas tão somente a retomada das apólices  .. .
+Assim, a nota promissória objeto da ação vinculada ao contrato discutido nos autos da Ação de Cobrança n.º 457.01.2004.005894-6 (Controle 663/2004), não goza de autonomia em razão da iliquidez do titulo que a originou." (e-STJ fls. 661/662).
+Não houve contrarrazões (cf. e-STJ fl. 672).
+A Corte local inadmitiu o recurso especial aos seguintes fundamentos (e-STJ fls. 673/674): (i) acerca do do prazo prescricional, o acórdão recorrido andou em consonância com o Recurso Especial n.º 1.262.056/SP, julgado sob o rito dos recursos repetitivos (art. 543-C do CPC/73); e (ii) no tocante à alegada vulneração aos artigos 485, V, 502, 506 e 963, IV, do Código de Processo Civil/73, a pretensão recursal esbarra no óbice da Súmula n.º 07/STJ.
+Nas razões do agravo, muito embora a empresa agravante reconheça que o recurso especial foi inadmitido em relação à tese de prescrição em razão do julgamento do REsp n. 1.262.056/SP, deixa de insurgir-se acerca do tema, limitando-se a defender que, "em relação à coisa julgada, o recurso merece ser admitido, regularmente processado e julgado, já que restou demonstrada a violação dos artigos 485, V, 502, 506 e 963, IV, do CPC", aduzindo que, no ponto, "não se trata de simples alegação de reexame de provas de modo a afastar a aplicação da Súmula 7 do Superior Tribunal de Justiça" (e-STJ fls. 520/526).
+É o relatório.
+Passo a decidir.
+Inicialmente, verifico que as razões do agravo em recurso especial demonstram a falta de interesse recursal da parte quanto ao debate sobre o tema prescrição, contudo, houve impugnação específica do óbice da Súmula 07/STJ apontado pela decisão do Tribunal local que inadmitiu o apelo nobre no tocante ao tema coisa julgado.
+Destarte, a análise do recurso especial limitar-se-á à controvérsia em torno da coisa julgada.
+No ponto, a empresa recorrente aduziu violação dos artigos 485, V, 502, 506 e 963, IV, do Código de Processo Civil/1973 apontando a prejudicial de coisa julgada, no que diz respeito à ação monitória fundada na cobrança do crédito representado na nota promissória n. 22/24, pois:
+"A relação negocial originária do título que aparelha a ação foi resolvida nos autos da ação de cobrança n.º 457.01.2004.005894-6 (Controle 663/2004) que tramitou perante a 1.º Vara Cível da comarca de Pirassununga/SP, tendo sido declarada a inexigibilidade da cobrança das cártulas face a existência de cláusula resolutiva expressa, não se afigurando lícito exigir o pagamento do crédito remanescente, mas tão somente a retomada das apólices  .. .
+Assim, a nota promissória objeto da ação vinculada ao contrato discutido nos autos da ação de cobrança n.º 457.01.2004.005894-6 (Controle 663/2004), não goza de autonomia em razão da iliquidez do titulo que a originou." (e-STJ fls. 661/662).
+No tocante à matéria, a Corte local assim decidiu:
+"Nesse ponto, a r. sentença consignou o entendimento de que o autor pretendeu "rediscutir por via oblíqua relação negocial já objeto de prestação jurisdicional (processo nº 663/2004), mas pendente de trânsito em julgado (..) para tentar haver suposto crédito, já rechaçado naqueles autos" (fls. 527).
+Todavia, se infere que a ação supracitada (fls. 49/60 e 61/71) remete ao crédito estampado em várias cártulas vinculadas a 04 contratos para aquisição de títulos da dívida pública, em que, dentre todos eles, não figura o débito representado pela nota promissória objeto desta demanda (nº 22/24, referente à apólice nº 13696 - estranha aos 4 contratos supracitados - no valor de R$ 10.000,00 - fls. 09).
+Logo, constatada a diversidade do objeto e da causa de pedir entre as ações, não há se falar em falta de interesse processual do autor-apelante." (e-STJ fl. 622, grifei).
+Destarte, elidir a conclusão da Corte local - no sentido de que, na ação de cobrança nº 663/2004, "não figura o débito representado pela nota promissória objeto desta demanda (nº 22/24  .. " - demandaria o revolvimento do quadrante fático-probatório da causa, providência vedada nesta sede especial, a teor do enunciado n.º 07/STJ.
+Assim, a pretensão recursal não merce guarida.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" do Regimento Interno deste STJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
