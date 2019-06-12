@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de petição (n.º 00346031/2019) apresentada por IVAPAR ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA., na qual pleiteia a suspensão de leilão designado para os dias 10/06/2019 e 24/06/2019 ao fundamento, em resumo, de que "(..) Em 2014, A Requerente passou a ter a posse dos imóveis, locando-os à TRANSPAULO; c) A Requerente irá, pelos meios legais próprios, perante o Juízo universal da recuperação, fazer valer seu direito à posse e ao domínio dos imóveis." Alega, outrossim, que "(..) o prosseguimento das execuções individuais, excutindo bens da suscitante, arrolados no Plano de Recuperação, quebrando o princípio da universalidade, traz evidente risco ao resultado útil, não só da demanda que a Requerente irá ajuizar, mas da própria recuperação judicial."
+É o relatório.
+Decide-se.
+O pedido não comporta acolhimento.
+1. Consoante registrado às fls. 1203/1206, este signatário não conheceu do presente conflito de competência em razão da ausência de seus correlatos requisitos, estes elencados no art. 66, do NCPC, daí porque carece de plausibilidade jurídica os fundamentos trazidos pela ora peticionante a fim de suspender a realização de leilão designado no âmbito da Justiça do Trabalho, valendo destacar, ademais, que o conflito de competência não é sucedâneo recursal e nem se constitui em meio hábil para atacar decisões de instâncias inferiores, de modo que cabe à ora postulante suscitar, pelas vias judiciais próprias, suas razões e fundamentos jurídicos pertinentes. Nesse sentido, confira-se: AgRg no CC 126.947/SP, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 14/04/2014; CC151.877/RJ, desta Relatoria, Dje de 30/05/2018; AgInt no CC 150.026/DF, Rel. Min. Antonio Carlos Ferreira, DJe 03/05/2017, este último assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUSTIÇA CÍVEL E TRABALHISTA. AUSÊNCIA DE DIVERGÊNCIA ENTRE OS JUÍZOS A RESPEITO DA COMPETÊNCIA PARA EXAME DA AÇÃO. DESCABIMENTO DO INCIDENTE COMO SUCEDÂNEO RECURSAL. CONFLITO NÃO CONHECIDO. DECISÃO MANTIDA.
+1. Inexistem dois juízos acolhendo, ou declinando, a competência para enfrentar a demanda proposta pela suscitante na origem, o que, no presente caso, descaracteriza o alegado conflito.
+2. Segundo a jurisprudência desta Corte Superior, o incidente de conflito de competência não pode ser usado como sucedâneo recursal. Precedentes. Conflito não conhecido.
+3. Agravo interno a que se nega provimento.
+CC150.026/DF, Rel. Min. Antonio Carlos Ferreira, Dje de 03/05/2017.
+2. Do exposto, com fundamento no art. 34, XII, do RISJT, indefiro o pedido ora deduzido.
+Publique-se. Intimem-se. Oficie-se.
