@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno desafiando decisão monocrática da Presidência desta Corte que não conheceu do agravo, diante da intempestividade do recurso especial (fls. 441/442).
+A parte agravante, em suas razões, sustenta que: (I) "segundo o entendimento pacificado pela jurisprudência do Superior Tribunal de Justiça, é possível a comprovação da tempestividade, em virtude de feriado local ou suspensão de prazo processual no Tribunal de Origem, quando da interposição do agravo regimental." (fl. 448); e (II) "verifica-se a necessidade de reforma do decisório ora guerreado, para decretar a tempestividade do agravo em recurso especial. Em anexo segue a portaria de feriados forenses do TRF da 3a Região, onde restou demonstrado a suspensão dos prazos processuais durante o feriado." (fl. 450).
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, tenho que o agravo interno comporta acolhimento.
+A Corte Especial, no julgamento do AREsp 137.141/SE, firmou entendimento, em consonância com a Corte Constitucional, de que a "comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental. Precedentes do STF e do STJ".
+Publicado o acórdão recorrido em 18/6/2014, conclui-se que o recurso especial interposto em 10/7/2014 é tempestivo, diante dos feriados locais em 19/6/2014 e 09/7/2014 e a ausência de expediente forense no Tribunal Regional Federal da 3ª Região em 20/6/2014.
+ANTE O EXPOSTO, exercendo o juízo de retratação, reconsidero a decisão às fls. 416/417, para reconhecer a tempestividade do recurso.
+Após, voltem-me os autos conclusos para nova apreciação do agravo em recurso especial.
+Publique-se.
