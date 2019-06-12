@@ -1,0 +1,13 @@
+DECISÃO
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO MUNICÍPIO. INDENIZAÇÃO POR DANOS MORAIS. INVIABILIDADE DE REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto pelo MUNICÍPIO DE ESTÂNCIA/SE contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado:
+APELAÇÕES CÍVEIS. AÇÃO DE RESPONSABILIDADE CIVIL COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. DANOS SOFRIDOS EM FACE DE ACIDENTE OCASIONADO POR CANAL DE PROFUNDIDADE RELEVANTE PRÓXIMO AO MEIO FIO E ESCONDIDO POR VEGETAÇÃO. PROVA DOCUMENTAL E ORAL QUE CONFIRMAM A VERSÃO AUTORAL. MUNICÍPIO QUE NÃO PROVOU CAUSA EXCLUDENTE DE SUA RESPONSABILIDADE. RESPONSABILIDADE SUBJETIVA DO MUNICÍPIO. OMISSÃO DO ENTE PÚBLICO. AUSÊNCIA DA NECESSÁRIA SINALIZAÇÃO, CONSERVAÇÃO E PROTEÇÃO DO LOCAL. CULPA DEMONSTRADA. DANOS MATERIAIS E MORAIS CONFIGURADOS. ALTERAÇÃO DO QUANTUM INDENIZATÓRIO. DESCABIMENTO. RECURSOS CONHECIDOS E IMPROVIDO O DO AUTOR E PARCIALMENTE PROVIDO O DO MUNICIPIO DE ESTANCIA.
+- Para o reconhecimento do dever de indenizar é necessário verificar a existência do dano e do nexo causal entre a falha do serviço prestado e o dano suportado pelo paciente, assim como a inexistência de qualquer das excludentes da responsabilidade civil e, em sendo o caso de responsabilidade subjetiva, a culpa, o que restou devidamente comprovado nos autos.
+- O valor da indenização deve ser fixado de maneira equânime, levando-se em consideração a extensão do dano advindo do ato ilícito e o caráter repressivo da medida.
+2. Nas razões do Apelo Nobre, a parte ora agravante alega ofensa aos arts. 186 e 927 do Código Civil, sustentando ser indevida a indenização pugnada na exordial por, a seu ver, não existir omissão injustificável do Município. Afirma que as condições da ponte sobre o canal em que ocorrera o acidente eram de notório conhecimento de todos, não havendo notícia de outros sinistros no local. Defende, de todo modo, que a quantia de R$ 5.000,00 a título de danos morais seria excessiva.
+3. Inadmitido o Recurso Especial, sobreveio Agravo.
+4. É o relatório.
+5. Não merece prosperar o recurso.
+6. Verifica-se que, a despeito das judiciosas razões expostas no Apelo Nobre, a reversão do julgado, na forma intentada, demandaria, indispensavelmente, o revolvimento do conteúdo probatório dos autos, a fim de desconstituir a moldura fática delineada pelas instâncias ordinárias, medida vedada na via do Recurso Especial, nos termos da Súmula 7/STJ.
+7. Ante o exposto, nega-se provimento ao Agravo do MUNICÍPIO DE ESTÂNCIA/SE.
+8. Publique-se. Intimações necessárias.
