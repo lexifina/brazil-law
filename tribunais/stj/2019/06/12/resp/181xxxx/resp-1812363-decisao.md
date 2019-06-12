@@ -1,0 +1,37 @@
+EMENTA
+CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. SEGURO HABITACIONAL. COBERTURA DE VÍCIOS CONSTRUTIVOS. PREVISÃO EXPRESSA DE EXCLUSÃO NA APÓLICE. RESPONSABILIDADE CIVIL DA SEGURADORA. NEGATIVA. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+ALBERTO CORREA DA SILVA (ALBERTO) ajuizou ação de indenização securitária em desfavor de SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS (SEGURADORA), cujos pedidos foram julgados improcedentes ao fundamento de que os danos cobertos pelo seguro habitacional são decorrentes de causas externas, não relacionadas a vícios construtivos, expressamente excluídas pela apólice (e-STJ, fls. 435/438).
+Irresignado, ALBERTO interpôs apelação, que foi desprovida pelo Tribunal de origem em acórdão assim ementado:
+SEGURO HABITACIONAL - Ação indenizatória - Sentença de improcedência - Danos físicos no imóvel, resultantes de vícios de construção - Ausência de cobertura securitária - Decisum mantido - Recurso não provido, com observação. (e-STJ, fl. 509).
+Inconformado, ALBERTO interpôs recurso especial com fundamento nas alíneas a e c do permissivo constitucional, apontando a violação do art. 51, IV, e § 1º, II, do CDC, aos argumentos de que o seguro habitacional, modalidade de seguro obrigatório, tem por objetivo proteger os recursos públicos aplicados nas construções financiadas pelo Sistema Financeiro de Habitação (SFH), de modo que não apenas os sinistros resultantes de causas externas devem ser cobertos, mas também os vícios internos, sendo que, por se tratar de contrato de adesão, devem ser interpretados em benefício do aderente, consistindo em cláusulas nulas as disposições restritivas de cobertura securitária.
+Em juízo de admissibilidade, a Presidência da Seção de Direito Privado do Tribunal Estadual admitiu o apelo nobre (e-STJ, fls. 602/603).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Soberano na análise do acervo fático-probatório dos autos, o Tribunal de origem concluiu que os danos advindos ao imóvel foram ocasionados por vícios construtivos e que tais vícios não estão previstos dentre as hipóteses de cobertura da apólice.
+No mesmo sentido, a jurisprudência do STJ consolidou-se no sentido de que as seguradoras são responsáveis pelos vícios decorrentes da construção tão somente se tal responsabilidade estiver expressamente consignada na apólice.
+Sendo assim, a existência de cláusula excludente dos vícios construtivos do rol de cobertura da apólice permite concluir que tais sinistros não estavam abrangidos.
+Nesse sentido, confiram-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. VÍCIOS DE CONSTRUÇÃO. INEXISTÊNCIA DE COBERTURA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. "Esta Corte pacificou o entendimento de que, nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice" (AgInt no REsp n. 1.603.731/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/10/2016, DJe de 18/10/2016).
+(AgInt no AREsp 1.215.427/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 19/6/2018 - sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. AÇÃO DE RESPONSABILIDADE SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. VÍCIOS CONSTRUTIVOS. COBERTURA. PREVISÃO NA APÓLICE. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. CONFIRMAÇÃO. AGRAVO NÃO PROVIDO.
+(..)
+3. A alegação de que os vícios construtivos ocorreram durante a vigência do contrato encontra óbice tanto na ausência do indispensável prequestionamento - tendo em vista não terem sido opostos nem sequer embargos declaratórios visando à discussão da temática (Súmulas 282 e 356/STJ) - quanto nas Súmulas 5 e 7 do Superior Tribunal de Justiça, pois o acolhimento da pretensão recursal exige, na espécie, a incursão no acervo fático-probatório constante dos autos, bem como a interpretação de cláusulas contratuais, o que, no entanto, é vedado na via estreita do apelo especial.
+4. Nos termos da jurisprudência do STJ, nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+5. Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.595.340/PR, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, DJe 25/5/2018)
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. ADMISSIBILIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. CONTRATO DE SEGURO. RESPONSABILIDADE DA SEGURADORA PELOS VÍCIOS DE CONSTRUÇÃO NO IMÓVEL FINANCIADO. AUSÊNCIA DE COBERTURA SECURITÁRIA. SÚMULAS N. 5 E 7 DO STJ.
+(..)
+3. Nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+4. Concluir que a apólice contratada prevê a responsabilidade pelos prejuízos decorrentes da construção demanda a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos atos, o que é vedado em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+5. Agravo regimental desprovido.
+(AgRg no REsp 1.305.102/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, DJe 19/2/2016 - sem destaques no original)
+Desse modo, o entendimento do Tribunal de origem que, diante da falta de previsão contratual, afastou a condenação da SEGURADORA pelos danos decorrentes dos vícios construtivos encontra respaldo no STJ.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em R$ 2.500,00 (dois mil e quinhentos reais) para R$ 2.625,00 (dois mil, seiscentos e vinte e cinco reais), nos termos do art. 85, § 11 do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
+Publique-se. Intimem-se.
