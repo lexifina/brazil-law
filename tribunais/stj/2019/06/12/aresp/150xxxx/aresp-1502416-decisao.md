@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo apresentado pelo MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+MANDADO DE SEGURANÇA PREVENTIVO - SERVIDOR PÚBLICO ESTADUAL - FUNCEB - PEDIDO DE INCORPORAÇÃO DE GRATIFICAÇÕES - PRELIMINARES AFASTADAS - MÉRITO - DIREITO LÍQUIDO E CERTO - COMPROVAÇÃO - ART. 132, §1º DO ESTATUTO DOS SERVIDORES PÚBLICOS CIVIS DO ESTADO DA BAHIA - OBSERVÂNCIA DO TETO REMUNERATÓRIO - SEGURANÇA CONCEDIDA.
+PRELIMINAR DE ILEGITIMIDADE PASSIVA DA AUTORIDADE COATORA - A preliminar de ilegitimidade passiva do Secretário de Cultura do Estado da Bahia não merece prosperar, considerando que o mesmo detém poderes para desfazer ato tido como ilegal ou abusivo, uma vez que a FUNCEB encontra-se legalmente vinculada à Secretaria de Cultura, consoante se depreende da leitura do art. 6o, I, do Decreto nº 8.464/2003.
+PRELIMINAR DE INCOMPETÊNCIA DO JUÍZO Constatada a legitimidade passiva do Secretário de Estado da Cultura do Estado da Bahia, resta prejudicada a alegação de incompetência do Juízo, uma vez que o Secretário de Estado possui foro por prerrogativa de função, consoante estabelece o art. 123,1, alínea "b"da Constituição do Estado da Bahia.MÉRITO - O Estatuto dos Servidores Públicos Civis do Estado da Bahia, Lei nº 6.677/94, estabelece no art. 132, §1º, como condição à incorporação das gratificações, que as mesmas sejam percebidas por 5 (cinco) anos consecutivos ou 10 (dez) intercalados.
+Percebendo as gratificações por Apresentação em Público, por Encargos Especiais e por Competência, desde 2004 até 2014, faz jus à inclusão dessas gratificações no cálculo dos proventos da aposentadoria da Impetrante, condicionando, para tanto, a observância do limite remuneratório instituído aos servidores públicos, disposto no art. 37, XI da Constituição Federal de 1988.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 1º da Lei n. 12.016/2009, no que concerne à impossibilidade de impetração de mandado de segurança para defender direito futuro e incerto, trazendo o(s) seguinte(s) argumento(s):
+Sobreleva notar, por importante, que a pretensão do impetrante não é admissível pela via do mandamus preventivo, por faltar-lhe requisito indispensável ao writ nessa modalidade, qual seja o justo receio de sofrer violação a pretenso direito líquido e certo ao benefício pleiteado.
+(..)
+Assim, o mandado de segurança é preventivo quando destinado a evitar a lesão a direito, já existente ou em vias de surgimento, mas pressupõe a existência da situação concreta na qual o impetrante afirma residir ou dela decorrer o seu direito cuja proteção, contra a ameaça de lesão, está a reclamar o Judiciário.
+(..)
+Ocorre que o recorrido não se desincumbiu de demonstrar a existência dessa ameaça a direito, apenas limitando-se a pretender uma espécie de garantia a regime jurídico para abarcar ato futuro e incerto, que vem a ser a sua aposentação, comportamento este que deve ser rechaçado pelo Poder Judiciário (fls. 322/326).
+Em relação a mesma tese recursal aponta, ainda, divergência jurisprudencial.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Quanto à apontada divergência, também esbarra na ausência de prequestionamento da tese recursal.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
