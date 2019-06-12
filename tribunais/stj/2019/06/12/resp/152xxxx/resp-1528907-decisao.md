@@ -1,0 +1,17 @@
+DECISÃO
+PROCESSO CIVIL. RECURSO ESPECIAL. ADMINISTRATIVO. PENSÃO DE EX-COMBATENTE. VIOLAÇÃO DO ART. 535 DO CPC/1973 VERIFICADA. RECURSO ESPECIAL DO PARTICULAR A QUE SE DÁ PROVIMENTO.
+1. Trata-se de Recurso Especial interposto por MARIA CRISTINA MENON RIBEIRO, com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio TRF da 4a. Região, assim ementado:
+ADMINISTRATIVO. PENSÃO ESPECIAL. ÓBITO DO EX-COMBATENTE. REVERSÃO DO BENEFÍCIO. LEGISLAÇÃO QUE REGE A MATÉRIA. DATA DO ÓBITO.
+O direito à pensão de ex-combatente é regido pela lei vigente à data do seu óbito, nos termos das Leis 4.242/63 e 3.765/60.
+Inaplicável à espécie a Lei 8.059/90, que veio regulamentar o art. 53 do ADCT/88, por ser posterior à data do óbito do instituidor. Da mesma sorte, por idêntica fundamentação, os proventos referentes à pensão deverão ser correspondentes ao soldo de Segundo-Sargento, ao invés do soldo de [NOME], haja vista que a atual norma (Lei 8.059/90) não pode alcançar uma situação jurídica já consumada na vigência de lei anterior.
+Aplicar a lei da morte do instituidor com o recebimento de soldo equivalente ao de Segundo [NOME] seria aplicar um sistema misto, o que não é possível (fls. 344).
+2. Em suas razões recursais, a parte recorrente aponta violação dos arts. 15 e 26 da Lei 3.765/1960; 87 do Decreto 4.307/2002, que regulamenta a MP 2.215-10/2001; 40, §§ 7o. e 8o. da CF/1988, com a redação dada pela EC 20/1998; e 20 e 53, II do ADCT, aos seguintes fundamentos: (a) a pensão deve ser implementada com base no soldo de Segundo [NOME], sob pena de afronta à coisa julgada e (b) tendo em vista que à data do óbito do instituidor, este percebia aposentadoria calculada sobre soldo e adicional de 2o. [NOME], deve a pensão postulada pela Recorrente ser calculada sobre mesmo valor, sob pena de violar-se diametralmente a aplicação dos indigitados dispositivos legais (fls. 380). Por fim, afirma que o acórdão recorrido padece de omissão quanto ao termo inicial do pagamento da pensão.
+3. É o relatório.
+4. A irresignação merece prosperar.
+5. In casu, da análise dos autos verifica-se que a omissão apontada nos Embargos Declaratórios, acerca do termo inicial do pagamento da pensão, não foi realmente analisada pela Corte local. Destarte, merece prosperar o presente Recurso Especial por violação ao art. 535 do CPC/1973, anulando-se o acórdão proferido em Embargos de Declaração e determinando-se o retorno dos autos ao Tribunal de origem para que analise a omissão apontada. Nesse sentido, confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ART. 535 DO CPC. BASE DE CÁLCULO DA COFINS. RECEITAS TRANSFERIDAS A OUTRAS PESSOAS JURÍDICAS. OMISSÃO. RETORNO DOS AUTOS À ORIGEM.
+Verificada a ocorrência de uma das hipóteses previstas no artigo 535 do Código de Processo Civil, devem os autos retornar ao Tribunal de origem para que seja suprida a falta, por meio de novo julgamento, que deverá sanar a omissão apontada nos Embargos de Declaração opostos.
+Recurso Especial provido (REsp. 938.795/SP, Rel. Min. CASTRO MEIRA, DJU 31.10.2007).
+6. Ante o exposto, dá-se provimento ao Recurso Especial do Particular, para anular o acórdão proferido em Embargos de Declaração e determinar o retorno dos autos ao Tribunal de origem, a fim de que aprecie a matéria articulada nos Aclaratórios, como entender de direito.
+7. Publique-se.
+8. Intimações necessárias.
