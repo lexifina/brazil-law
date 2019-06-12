@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado:
+APELAÇÃO CÍVEL REMESSA OFICIAL RESPONSABILIDADE CIVIL DIREITO À SAÚDE FORNECIMENTO DE MEDICAMENTO ORDEM CONCEDIDA EM MANDADO DE SEGURANÇA DESCUMPRIMENTO MORTE DO PACIENTE OMISSÃO ESTATAL RESPONSABILIDADE CIVIL SUBJETIVA AUSÊNCIA DE COMPROVAÇÃO DO NEXO DE CAUSALIDADE DANO MORAL AFASTADO DANOS MATERIAIS COMPROVAÇÃO MAJORAÇÃO DOS VALORES FIXADOS NA SENTENÇA
+Quanto à primeira controvérsia, pela alínea a do permissivo constitucional, alega violação dos arts. 186 e 927 do CC, no que concerne a supostos danos morais em decorrência de omissão estatal, trazendo os seguintes argumentos:
+Dessa forma, inevitável a conclusão de que a omissão estatal resultou em consequências irreparáveis e evidentes e sofrimento imensurável diante da morte precoce de seu marido pela falta do medicamento, sendo, portanto, considerado a conduta do Estado como ato ilícito.
+No caso em tela é possível vislumbrar a aplicação da denominada teoria da perda de uma chance, uma vez que, esta Corte Superior já se posicionou em relação a esta teoria.
+É pacífico o entendimento de que o reconhecimento do dever de indenizar por danos morais decorre de violação de direitos da personalidade, caracterizada pela dor e sofrimento psíquico que atinjam a vítima, em especial, sua dignidade. O sofrimento da Recorrente em virtude do falecimento de seu marido é passível de reparação, tendo acompanhado todo o seu padecimento durante o tratamento do câncer. (fl. 466)
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 7/STJ)" (AgRg no REsp 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 07/03/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
