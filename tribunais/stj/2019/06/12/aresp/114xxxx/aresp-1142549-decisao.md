@@ -1,0 +1,18 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE INSALUBRIDADE. ARTS. 68 E 70 DA LEI COMPLEMENTAR 005/2010 DO MUNICÍPIO DE SÃO [NOME]/ SE. ANÁLISE DE DIREITO LOCAL. NÃO CABIMENTO. SÚMULA 280 DO STF. AGRAVO DO MUNICIPIO DE SAO CRISTOVAO/SE A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto pelo MUNICIPIO DE SAO CRISTOVAO/SE, com fundamento no art. 105, III, c da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA E RECONHECIMENTO DE ADICIONAL DE INSALUBRIDADE - AGENTE ADMINISTRATIVO DO MUNICÍPIO DE SÃO [NOME] QUE EXERCE SUAS ATIVIDADES EM POSTO DE SAÚDE - PREVISÃO DE ATIVIDADE INSALUBRE REVELIA DO ENTE MUNICIPAL - EXISTÊNCIA DE LEI MUNICIPAL QUE AUTORIZA O PAGAMENTO DO ADICIONAL, ESTABELECENDO OS PERCENTUAIS DEVIDOS EM RAZÃO DO GRAU DE INSALUBRIDADE - PREVISÃO LEGAL DE APLICAÇÃO DAS NORMAS DO MINISTÉRIO DO TRABALHO APLICAÇÃO DA NR 15 DO MINISTÉRIO DO TRABALHO COMO NORMA DEFINIDORA DAS ATIVIDADES INSALUBRES - LAUDO TÉCNICO ANEXADO PELA AUTORA RECONHECENDO O CARÁTER INSALUBRE DA ATIVIDADE EXERCIDA - NR-15, ANEXO 14 - PRECEDENTE NESTA CORTE - RECURSO CONHECIDO E IMPROVIDO (fls. 224/225).
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Nas razões do Recurso Especial inadmitido, a parte recorrente sustentou divergência jurisprudencial quanto à possibilidade de concessão do adicional de insalubridade a Servidor Público estatutário quando inexistir norma local regulamentando a matéria e, ainda, quanto à aplicação análoga da legislação trabalhista.
+4. É o relatório do essencial.
+5. Na hipótese dos autos, o Tribunal de origem consignou que:
+Como se sabe, o pagamento do adicional de insalubridade está condicionado à existência de lei específica que o autorize especificando, ainda, os percentuais a ele relativos, em razão dos graus de insalubridade existentes.
+Observa-se que o Município de São [NOME], ora recorrente, editou o Estatuto dos Servidores Públicos do Município de o qual, nos seus arts. 68 e 70 dispõem acerca da matéria, de forma específica: [NOME] (Lei Complementar 005/2010), o qual, nos seus arts. 68 e 70 dispõem acerca da matéria, de forma específica:
+(..).
+Diante da existência da norma autorizadora do pagamento do aludido adicional, que define os percentuais devidos em cada caso, deve o direito pleiteado pela parte autora ser, de fato, reconhecido. Além disso, observa-se que a atividade desempenhada pela requerente no Posto de Saúde Municipal, ao realizar marcação de consultas e exames, está inserida no rol que autoriza o pagamento do adicional em grau médio.
+Sendo assim, considerando que a própria legislação municipal prevê a aplicação das normas do Ministério do Trabalho aos servidores por ela regidos, concluo pela aplicabilidade da NR 15 a situação analisada, em que a autora exercia atividades insalubres, em grau médio, fazendo jus à percepção do referido adicional, no percentual de 20% (vinte por cento) (fls. 226/227).
+6. Dessume-se da leitura do acórdão recorrido que a controvérsia dos autos foi dirimida com base na análise do disposto nos arts. 68 e 70 da Lei Complementar 005/2010 do Município de São [NOME].
+7. Entretanto, como cediço, não é possível, em sede de Recurso Especial, o exame de eventual ofensa a dispositivos legais emanados de legislação local, como no caso, a teor da Súmula 280 do STF.
+8. Ante o exposto, nega-se provimento ao Agravo do MUNICIPIO DE SAO CRISTOVAO/SE.
+9. Publique-se.
+10. Intimações necessárias.
