@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME], em face de acórdão do TRIBUNAL DE JUSTIÇA DE MINAS GERAIS, assim ementado (fl. 110).
+EMENTA: "HABEAS CORPUS" - LESÃO CORPORAL DE NATUREZA GRAVE - ARGUMENTOS DE ORDEM FÁTICA - IMPOSSIBILIDADE DE ANÁLISE NA ESTREITA VIA DO "WRIT" - PRISÃO PREVENTIVA - REVOGAÇÃO - INVIABILIDADE - PRESENÇA DOS REQUISITOS CONSTANTES DOS ARTIGOS 312 E 313 DO CPP - GARANTIA DA ORDEM PÚBLICA - GRAVIDADE CONCRETA DO DELITO - DECISÃO FUNDAMENTADA - PRESENÇA DE CONDIÇÕES PESSOAIS FAVORÁVEIS INSUFICIENTES PARA A CONCESSÃO DA LIBERDADE - OFENSA AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - NÃO OCORRÊNCIA - ORDEM DENEGADA. - Os argumentos de ordem fática não são passíveis de serem analisados na estreita via do "writ", pois demandam dilação probatória. - Presentes os requisitos previstos nos artigos 312 e 313 do Código de Processo Penal, a manutenção da segregação cautelar é medida que se impõe. - A gravidade concreta do delito em tese praticado pelo paciente, demonstrada pelo "modus operandi" empregado, evidencia a periculosidade do agente, justificando a manutenção de sua custódia cautelar como forma de garantia da ordem públi ca. - Se a decisão "a quo" estiver calcada em elementos concretos do caso, incabível é a alegação de ausência de fundamentação. - A presença de condições pessoais favoráveis ao paciente não autoriza, por si só, a concessão da liberdade. - O princípio da presunção de inocência não impede que medidas sejam aplicadas ao réu, mesmo antes do trânsito em julgado da sentença condenatória, desde que sejam de cunho cautelar, necessárias e provisórias.
+O recorrente foi preso como incurso no crime do art. 129, § 1º, II, do CP.
+A Defesa sustenta, em suma, a revogação da prisão preventiva, sob a alegação de ausência dos requisitos autorizadores dessa segregação cautelar elencados no art. 312 do Código de Processo Penal. Aduz, também, que a prisão pode ser substituída por medidas cautelares diversas.
+Requer, liminarmente e no mérito, o provimento do recurso para assegurar a restituição da liberdade mediante fixação de medidas diversas da prisão.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal ofertou parecer pela prejudicialidade do recurso em habeas corpus.
+É o relatório.
+DECIDO.
+Consoante informações prestadas pelo Juízo de primeiro grau (fl. 156), o recorrente teve sua prisão relaxada ante o reconhecimento de excesso de prazo na conclusão das investigações, o que torna prejudicado o objeto do presente writ.
+Ante o exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
