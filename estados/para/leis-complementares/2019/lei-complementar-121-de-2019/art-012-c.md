@@ -1,0 +1,3 @@
+Art. 12-C. A Procuradoria-Geral do Estado poderá realizar, por meio da Câmara de Negociação, Conciliação, Mediação e Arbitragem da Administração Pública Estadual, a composição extrajudicial de conflito entre órgãos e/ou entidades da administração pública estadual.
+§ 1º A submissão do conflito à Câmara será objeto de decisão do Procurador-Geral do Estado, mediante solicitação do Governador do Estado ou dos titulares dos órgãos e/ou entidades envolvidos.
+§ 2º Nos casos em que a resolução da controvérsia implicar em reconhecimento de créditos e/ou débitos entre os órgãos e/ou entidades envolvidos, há necessidade de concordância prévia das Secretarias de Estado de Planejamento e da Fazenda.
