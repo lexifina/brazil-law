@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Embargos de Divergência interpostos contra acórdão da Primeira Turma assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CRÉDITO ESCRITURAL. RESSARCIMENTO ADMINISTRATIVO. CONTAGEM DA MORA. TREZENTOS E SESSENTA DIAS A PARTIR DO PROTOCOLO ADMINISTRATIVO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Acerca do termo inicial da correção monetária relativa ao pedido administrativo de ressarcimento de créditos escriturais formulado pelo contribuinte, esta Corte firmou posicionamento segundo o qual o prazo fluirá somente após o esgotamento do lapso de 360 dias de que dispõe a Administração para o exame do requerimento.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+A embargante afirma existir dissídio relativo ao termo inicial da correção monetária do ressarcimento do crédito tributário. Invoca como paradigma o acórdão da Segunda Turma proferido no AgRg no REsp 1.554.806/PR (DJe 5.11.2015), de relatoria do e. Ministro Mauro Campbell Marques.
+É o relatório.
+Decido.
+Os autos foram recebidos neste gabinete em 21 de dezembro de 2018.
+O recurso não ultrapassa o juízo de admissibilidade.
+Com efeito, a embargante cita como paradigma acórdão publicado em 2015.
+Sucede que, embora constatada, em princípio, a existência de dissídio efetivo entre as Turmas que compõem a Seção de Direito Público do STJ, a questão controvertida já foi solucionada nos autos dos Embargos de Divergência em Recurso Especial 1.461.607/SC. A Primeira Seção deste Sodalício, em julgamento realizado em 22.2.2018 (acórdão publicado no DJe de 1º.10.2018), adotou o posicionamento que prevalece na Primeira Turma do STJ, definindo que a correção monetária incide somente após o encerramento do prazo legal (trezentos e sessenta dias, contados da data do protocolo) concedido para a autoridade fiscal analisar o pedido administrativo de ressarcimento. Eis o respectivo conteúdo:
+TRIBUTÁRIO. CRÉDITO PRESUMIDO DE PIS/COFINS. PEDIDO DE RESSARCIMENTO. APROVEITAMENTO OBSTACULIZADO PELO FISCO. SÚMULA 411/STJ. ATUALIZAÇÃO MONETÁRIA. TERMO INICIAL. INCIDÊNCIA SOMENTE DEPOIS DE ESCOADO O PRAZO DE 360 DIAS A QUE ALUDE O ART. 24 DA LEI Nº 11.457/07. EMBARGOS DE DIVERGÊNCIA DESPROVIDOS.
+1. A Primeira Seção desta Corte Superior, no julgamento do REsp 1.035.847/RS, sob o rito do art. 543-C do CPC/73 (Rel. Min. Luiz Fux, j. 24/6/2009), firmou entendimento no sentido de que o crédito presumido de IPI enseja correção monetária quando o gozo do creditamento é obstaculizado pelo fisco, entendimento depois cristalizado na Súmula 411/STJ: "É devida a correção monetária ao creditamento do IPI quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco".
+2. Nos termos do art. 24 da Lei nº 11.457/07, a administração deve observar o prazo de 360 dias para decidir sobre os pedidos de ressarcimento, conforme sedimentado no julgamento do REsp 1.138.206/RS, também submetido ao rito do art. 543-C do CPC/73 (Rel. Min. Luiz Fux, j. 9/8/2010).
+3. O termo inicial da correção monetária de ressarcimento de crédito de PIS/COFINS não-cumulativo ocorre somente após escoado o prazo de 360 dias para a análise do pedido administrativo pelo Fisco. Nesse sentido: AgRg nos EREsp 1.490.081/SC, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 1º/7/2015; AgInt no REsp 1.581.330/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 21/8/2017; AgInt no REsp 1.585.275/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 14/10/2016.
+4. Embargos de divergência a que se nega provimento.
+(EREsp 1.461.607/SC, Rel. Ministro MAURO CAMPBELL MARQUES, Rel. p/ Acórdão Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe 01/10/2018).
+Em que pese o esforço argumentativo da embargante, tem-se que a jurisprudência do STJ exige a demonstração da atualidade do dissídio, o que ocorreria apenas se a parte interessada tivesse indicado precedentes favoráveis ao seu entendimento, posteriores ao julgamento dos EREsp 1.461.607/SC. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. NECESSIDADE DE DEMONSTRAÇÃO DE DISSÍDIO ATUAL. ACÓRDÃO PARADIGMA ORIUNDO DO MESMO ÓRGÃO FRACIONÁRIO. NÃO CONHECIMENTO.
+1. Segundo a jurisprudência do STJ, para o cabimento dos Embargos de Divergência é necessário que a parte interessada demonstre a atualidade do dissídio, sob pena de incidência da Súmula 168/STJ.
+2. Hipótese em que o acórdão embargado, proferido em 2015, em sintonia com os precedentes atuais da matéria, é contrastado com decisão colegiada proferida no longínquo ano de 2001.
+3. Não bastasse isso, são inadmissíveis Embargos de Divergência fundados em acórdãos proferidos por uma mesma Turma, mesmo que a sua composição tenha sido alterada substancialmente. Precedentes do STJ.
+4. Agravo Regimental não provido.
+(AgRg nos EREsp 1.447.334/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 10/02/2016)
+AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA. ATUALIDADE DO PARADIGMA. PRECEDENTES JÁ SUPERADOS. EVOLUÇÃO JURISPRUDENCIAL. DISSÍDIO NÃO CARACTERIZADO. DIVERGÊNCIA ENTRE TRIBUNAIS DE SEGUNDO GRAU NÃO ENSEJA EMBARGOS DE DIVERGÊNCIA. CAPITALIZAÇÃO MENSAL DOS JUROS REMUNERATÓRIOS. PREVISÃO CONTRATUAL. CONTRATO FIRMADO APÓS A MP N.º 2.170-36/2001. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A finalidade precípua dos embargos de divergência consiste em dirimir eventuais dissídios existentes no próprio Tribunal Superior.
+Assim, a existência de decisões conflitantes entre as Cortes de segundo grau não enseja, por si só, o cabimento do recurso de divergência, independentemente da relevância da questão federal em exame. De fato, conquanto a função do Superior Tribunal de Justiça seja a uniformização do direito federal infraconstitucional e a divergência entre os tribunais locais autorize o cabimento do recurso especial, o mesmo não se aplica ao cabimento dos embargos de divergência, que se restringe ao dissídio atual entre Turma e outro órgão do Tribunal Superior.
+2. "O acórdão paradigma deve representar o entendimento recente do respectivo órgão prolator, sendo incabíveis os embargos de divergência quando o aresto padrão externar entendimento já superado pelo tribunal de superposição" (TORREÃO, [NOME]. Dos Embargos de Divergência: Teoria e Prática no Superior Tribunal de Justiça e no Supremo Tribunal Federal. Porto Alegre: Sergio Antonio Fabris Editor, 2004, pp. 46/47).
+3. A jurisprudência de ambas as Turmas que compõem a Segunda Seção evoluiu no sentido de entender cabível a capitalização mensal dos juros remuneratórios, desde que pactuada em contrato firmado após a vigência da Medida Provisória nº 1.963-17/2000, atualmente reeditada sob o nº 2.170-36/2001. Precedentes.
+4. Agravo regimental improvido.
+(AgRg nos EREsp 817.030/DF, Rel. Ministro HÉLIO QUAGLIA BARBOSA, SEGUNDA SEÇÃO, DJ 28/06/2007, p. 870)
+Diante do exposto, rejeito liminarmente os Embargos de Divergência, com base na Súmula 168/STJ.
+Publique-se.
+Intimem-se.
