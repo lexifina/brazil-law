@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos à decisão por mim proferida em que conheci do agravo para não conhecer do recuso especial por estar prejudicada a análise de violação do art. 41 do CPP; pela adequação da pena base, fixada em 10 anos ante a enorme quantidade/nocividade da droga apreendida (327,81 quilos de cocaína), bem como pelo óbice do Enunciado n. 7 da súmula do STJ.
+Alega o embargante que a decisão foi omissa ao não analisar a violação do art. 580 do CPP.
+É o relatório. Decido.
+Os aclaratórios não merecem acolhida.
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, são cabíveis nas hipóteses de ambiguidade, obscuridade, contradição ou omissão existentes no julgado, ou ainda, para sanar erro material. Ausentes quaisquer dessas hipóteses, devem ser rejeitados, sob pena de se permitir a rediscussão da matéria meritória já decidida.
+No caso em tela não se constata nenhum dos vícios autorizadores do recurso,isso porque, como bem reconheceu o embargante, a questão da violação do art. 580 do CPP está atrelada à violação de outros dois artigos, 59 do CP e 42 da Lei n. 11.343/2006.
+E como bem registrou a decisão ora embargada a enorme quantidade da droga apreendida justifica o acréscimo operado pela instância de origem.
+Importante destacar que o TJSP, ao se pronunciar sobre a questão, registrou que o tratamento mais gravoso também se deu pelas particularidades da ação delitiva do recorrentes, que efetuaram disparos contra os policiais durante a perseguição (e-STJ fl. 1.235).
+Note-se, que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 1º/8/2017).
+Acresça-se, por fim que a jurisprudência desta Corte consolidou entendimento no sentido de que o Tribunal de origem pode, mantendo a pena e o regime inicial aplicados ao réu, lastrear-se em fundamentos diversos dos adotados em 1ª instância, ainda que em recurso exclusivo da defesa, sem configurar ofensa ao princípio do ne reformatio in pejus; desde que observados os limites da pena estabelecida pelo Juízo sentenciante bem como as circunstâncias fáticas delineadas na sentença e na exordial acusatória (ut, HC 410.387/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 23/05/2019).
+Diante disso, à míngua de seus pressupostos, rejeito os presentes aclaratórios.
+Intimem-se.
