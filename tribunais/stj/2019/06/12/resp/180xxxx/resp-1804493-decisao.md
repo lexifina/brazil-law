@@ -1,0 +1,8 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL. CAPATAZIA. VALOR ADUANEIRO. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS. TEMA REPETITIVO 1.014. RETORNO DOS AUTOS PARA SOBRESTAMENTO PERANTE O EGRÉGIO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 1.040 DO CÓDIGO FUX.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL contra acórdão prolatado pelo egrégio TRF da 4a. Região.
+2. Verifica-se que a matéria discutida nos autos - inclusão de serviços de capatazia na composição do valor aduaneiro - foi recentemente afetada à egrégia Primeira Seção do STJ, dado seu reconhecimento como representativo da controvérsia, aguardando julgamento (Tema Repetitivo 1.014 - REsp. 1.799.306/RS, REsp. 1.799.308/SC e REsp. 1.799.309/PR, Rel. Min. GURGEL DE FARIA, DJe 3.6.2019).
+3. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.040 do Código Fux.
+4. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 1.040 do Código Fux.
+5. Publique-se.
+6. Intimações necessárias.
