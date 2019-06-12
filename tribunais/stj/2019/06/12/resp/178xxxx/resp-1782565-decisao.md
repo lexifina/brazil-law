@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão proferido pelo TRF da 2ª Região assim ementado:
+APELAÇÃO. PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. RENDA MENSAL INFERIOR A 3 SALÁRIOS MÍNIMOS. HONORÁRIOS ADVOCATÍCIOS. ART. 85, §2º DO CPC/2015.
+1. Apelação interposta em face dc sentença que, nos autos de ação ordinária objetivando o cancelamento do desconto feito em aposentadoria em razão da não desocupação de imóvel próprio residencial, julgou extinto o processo, nos termos do art. 485, V, do Código de Processo Civil dc 2015 (CPC/2015).
+2. O entendimento que vem sendo adotado por este Colegiado da 5º Turma Especializada para fins de deferimento do beneficio da gratuidade de justiça é o do critério do percebimento de renda mensal inferior a 3 (três) salários mínimos. Precedente: TRF2, 5" Turma Especializada, AC 201600000011410, e-DJF2R 5.7.2016.
+3. Honorários advocatícios arbitrados de acordo com o art. 85, §2º, do CPC/2015.
+4. Apelação não provida.
+Os Embargos de Declaração foram interpostos (fls. 123-124, e-STJ).
+A parte recorrente alega:
+Desta forma , vale ressaltar que a referida informação supracitada esta descrita na peça exordial , ou seja , que a União Federal - UF ( Aeronaútica ) havia começado a descontar em Maio / 2016 o valor de R$ 2.572,30 referente a Multa PNR , por prazo indeterminado , conforme o documento de fls. 13 e 14 ( no qual consta escrito em número de prestações o seguinte , Prazo Indeterminado) e assim , portanto , o pagamento das Custas Judiciais comprometeria de forma efetiva a subsistência do Autor e a de sua família.
+Por conseguinte , destaca-se ainda a este MM. Juízo que a condenação do Autor , ora Recorrente em Honorários Sucumbenciais de 10% sobre o valor da causa atualizado , não é proporcional e nem mesmo razoável , uma vez que o valor atribuído a causa foi o valor de R$ 60.000,00 , portanto considerando este valor sem atualização , o valor da condenação ( 10% ) corresponderia ao valor de R$ 6.000,00 , valor este que irá trazer um enorme prejuízo para a parte Autora , ora Recorrente , tendo em vista que até poucos meses atrás o Autor , ora Recorrente estava sofrendo um desconto no valor de R$ 2.713,30 durante o período de Maio / 2016 a Outubro / 2016 , o que trouxe um enorme prejuízo para o Autor , ora Recorrente de aproximadamente R$ 15.433,80.
+É o relatório.
+Decido.
+O Tribunal a quo consignou:
+No caso, o apelante é Suboficial da Reserva Remunerada da Aeronáutica, e como militar inativo recebe proventos no montante de R$ 7.576,75 (sete mil, quinhentos e setenta e seis mil e setenta e cinco centavos).
+(..)
+Ante a existência de elementos que evidenciam a falta dos pressupostos legais, tal qual disposto na sentença ora apelada, o recorrente não se desincumbiu do seu ônus probatório, não tendo demonstrado a insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios.
+(..)
+Em conclusão, não merece reparos a r. sentença, proferida em 14.12.2016, que fixou os honorários advocatícios em seu mínimo, 10% (dez por cento) sobre o valor atualizado da causa, atendendo aos requisitos listados no §2º do art. 85 do CPC/2015.
+O STJ pacificou a orientação de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, aos quais competem a cognição e a consideração das situações de natureza fática.
+Nesses casos, esta Corte Superior atua na revisão da verba honorária somente quando esta tratar de valor irrisório ou exorbitante, o que não se configura na presente hipótese. Assim, o reexame das razões de fato que conduziram a Corte de origem a tais conclusões significaria usurpação da competência das instâncias ordinárias. Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implica revisar matéria fático-probatória, o que é obstado a este Tribunal Superior, conforme determina a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Nesse sentido, confiram-se os precedentes:
+ADMINISTRATIVO. PROCESSUAL CIVIL. (..) HONORÁRIOS ADVOCATÍCIOS. VALOR JUSTIFICADO PELO TRIBUNAL DE ORIGEM E NÃO CONSIDERADO EXORBITANTE OU IRRISÓRIO. APLICAÇÃO DA SÚMULA N. 7/STJ. (..)
+- Os honorários advocatícios arbitrados nas situações previstas pelo art. 20, § 4º, do CPC só podem ser modificados quando se mostrarem irrisórios ou exorbitantes, sobretudo tendo o Tribunal de origem, como no caso, fixado o seu valor tendo em vista as especificidades da causa. Nesse contexto, sua revisão implicaria o reexame de matéria de ordem fático-probatória, insuscetível de ser apreciada na via especial, ex vi do enunciado n. 7 da Súmula desta Corte. Agravo regimental improvido (AgRg no Ag 1378821/SP, Rel. Ministro CESAR ASFOR ROCHA, SEGUNDA TURMA, DJe 16/06/2011, grifei).
+PROCESSUAL CIVIL. AGRAVO DE AMBAS AS PARTES. (..) HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO POR EQUIDADE. (..) PRETENSÃO DE REEXAME DO MATERIAL FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+(..) 3. A questão do valor dos honorários fixados é irrelevante quando o juízo de origem afirma, expressamente, que os honorários foram estabelecidos de forma razoável, sendo inviável - nesses casos - a revisão dos valores pelo Tribunal Superior.
+4. No caso dos autos, o Tribunal a quo analisou os elementos fáticos para concluir que a verba honorária foi estimada com equilíbrio, inexistindo razões para sua majoração ou redução, situação que impede a revisão no Superior Tribunal de Justiça, em razão do óbice previsto na Súmula 7/STJ. Conforme se verifica do aresto, os honorários foram estipulados em valor fixo, mediante a análise do desempenho do patrono da parte. Agravos regimentais improvidos (AgRg no AREsp 78.967/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 09/02/2012, grifei).
+
+Consubstanciado o que previsto no Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Saliento que os §§ 3º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento de honorários advocatícios quando a Fazenda Pública for sucumbente, o que deve ser observado quando a verba sucumbencial é acrescida na fase recursal, como no presente caso.
+Por tudo isso, não conheço do Recurso Especial e condeno a parte recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem, observando-se eventual concessão do benefício da Justiça Gratuita deferida nos autos.
+Publique-se.
+Intimem-se.
