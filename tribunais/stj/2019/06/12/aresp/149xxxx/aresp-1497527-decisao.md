@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por BANCO BRADESCO S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas a e c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. INVERSÃO DO ÔNUS DA PROVA.
+POSSIBILIDADE. PESSOA JURÍDICA. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. APLICAÇÃO DA TEORIA FINALISTA MITIGADA. HIPOSSUFICIÊNCIA TÉCNICA E JURÍDICA CONSTATADA. MICROEMPRESA QUE ATUA NO RAMO DE FABRICAÇÃO E MANUTENÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA AGRICULTURA E PECUÁRIA.
+ATIVIDADE QUE NÃO IMPLICA EM CONHECIMENTO TÉCNICO FINANCEIRO. BANCO QUE DETÉM O CONTROLE DAS INFORMAÇÕES E DOCUMENTOS REFERENTES AOS CONTRATOS FIRMADOS COM SEUS CLIENTES. RECURSO CONHECIDO E NÃO PROVIDO.
+Quanto à controvérsia pela alínea a do permissivo constitucional, alega divergência de interpretação dos arts. 2º e 3º do Código de Defesa do Consumidor, no que concerne à inaplicabilidade do referido diploma legal ao caso concreto, trazendo os seguintes argumentos:
+É de se destacar que, em verdade, a busca da reforma do Acórdão se baseia no fato de que o Recorrido não detém a qualidade de consumidor final para os efeitos da Lei mencionada, daí, no caso concreto, não poder invocar a aplicação legislação especial.
+Em sentido contrário aos fundamentos adotados pelo Acórdão objurgado, inclusive, existem decisões que reconhecem a não incidência do Código de Consumo na relação em apreço, influenciando, portanto, a própria concessão da inversão do ônus da prova.
+Veja-se, nesse tocante, o Tribunal de Justiça do Estado de São Paulo, através da sua 182 Câmara Cível de Direito Privado, decidindo a Apelação Cível 7174924-1, manifestou ser inadmissível a aplicação do Código Consumerista para a discussão de contratos bancários em que contratante pessoa jurídica que utiliza do crédito tomado para fomento da atividade (fl. 99).
+Quanto à controvérsia pela alínea c do permissivo constitucional, alega divergência de interpretação dos arts. 2º e 3º do Código de Defesa do Consumidor e traz os seguintes paradigmas para comprovar a divergência: Apelação Cível 7174924-1 - TJSP e Agravo de Instrumento 5465252-41.2007.8.13.0024 - TJMG.
+É o relatório. Decido.
+Na espécie, tanto pela alínea a quanto pela alínea c do permissivo constitucional, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
