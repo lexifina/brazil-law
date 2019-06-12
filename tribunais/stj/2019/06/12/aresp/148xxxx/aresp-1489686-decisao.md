@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo apresentado por PRUDENTIAL DO BRASIL SEGUROS DE VIDA S.A, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO CÍVEL. COBRANÇA DE SEGURO DE VIDA. PRESCRIÇÃO. UNIRRECORRIBILIDADE. APELO ADESIVO PREJUDICADO.
+- Ainda que uma única decisão verse sobre temáticas diversas, segundo o princípio da unirrecorribilidade, é cabível a interposição de apenas um recurso, de sorte que as razões posteriormente aventadas em face do mesmo decisum não podem ser conhecidas, diante da ocorrência da preclusão consumativa.
+- Não se conhece da apelação adesiva quando inadmissível o recurso principal.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega a violação dos arts. 1º, 3º, 4º e 8º do CPC no que concerne à ausência de consenso pacificado acerca do cabimento do agravo de instrumento contra a decisão que afasta a prescrição, trazendo o(s) seguinte(s) argumento(s):
+Ora, se não há um entendimento pacificado no que tange ao cabimento do agravo de instrumento para desafiar a decisão interlocutória que afasta a prescrição, por consequência lógica não há violação ao princípio da unirrecorribilidade e tão pouco a preclusão consumativa (fl. 653).
+É o relatório. Decido.
+Quanto à controvérsia, na espécie, o acórdão recorrido assim decidiu:
+Conforme já mencionado na decisão monocrática, proferida sentença de procedência parcial dos pedidos iniciais, a seguradora insurgiu-se por meio da apelação de fls. 402/415, alegando, exclusivamente, a ocorrência da prescrição, pelos mesmos fundamentos apresentados anteriormente no Agravo de Instrumento.
+Cumpre registrar que o fato de a questão acerca da prescrição se tratar de matéria de ordem pública não afasta a preclusão das questões já decididas.
+Esclareço que, por se tratar de decisão interlocutória que rejeitou a ocorrência de prescrição, por se tratar de mérito da demanda, trata-se de matéria combatida por meio de agravo de instrumento, nos termos do artigo 1.015, II, do NCPC.
+Desta forma, o fato de o agravo de instrumento interposto pela requerida não ter sido conhecido, em decorrência do descumprimento do artigo 1.018 do NCPC, eis que não foram juntados aos autos de origem a cópia da interposição do agravo, em nada altera o resultado da demanda, eis que o agravo de instrumento era, sim, o recurso cabível para enfrentar referida decisão interlocutória.
+Portanto, verifica-se que toda a matéria discutida em sede recursal foi atingida pela preclusão, razão pela qual não há que se falar no conhecimento da presente apelação (fl. 635).
+Com efeito, incide o óbice da Súmula n. 284/STF, uma vez que o(s) artigo(s) apontado(s) como violado(s) não tem/têm comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal" (AgInt no REsp n. 1685486/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 21/2/2019).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp n. 1675309/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/2/2018; AgRg no REsp n. 1351593/RS, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 12/3/2014; e AgRg no AREsp n. 197.224/SP, relatora Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), Quinta Turma, DJe de 20/11/2012.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
