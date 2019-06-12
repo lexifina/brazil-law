@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre o JUÍZO DA 2.ª VARA DO TRABALHO DE NOVO HAMBURGO - RS, suscitante, e o JUÍZO DE DIREITO DA 2.ª VARA CÍVEL DE NOVO HAMBURGO - RS, suscitado.
+Ação: de Obrigação de Fazer c.c. Indenização por Dano Moral e Material, ajuizada por [NOME] contra [NOME], objetivando seja o réu condenado finalizar a obra tal como contratado e pactuado com o autor, sob pena de multa diária.
+Decisão do Juízo suscitado: declinou da competência em favor do juízo suscitante, sob o argumento de que "(..) considerando que a discussão no presente processo decorre da relação de trabalho que havia entre o autor e o réu, impõe-se a remessa dos autos à Justiça especializada" (fl. 165).
+Decisão do Juízo suscitante: suscitou o presente conflito negativo de competência, sob o fundamento de que "(..) a parte autora da presente ação firmou com o reclamado Contrato de Construção .., portanto totalmente diverso do que pode ser entendido por contrato de trabalho ou decorrente de relação de trabalho." (fl. 204).
+Parecer do Ministério Público Federal: opinou pelo conhecimento do conflito e competência do juízo suscitado (fls. 252-254).
+É o relatório.
+Decide-se.
+1. Inicialmente, destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d" da Constituição Federal.
+2. Para a jurisprudência desta eg. Segunda Seção, compete à Justiça Comum o processamento e julgamento da ação que de cobrança de valores referentes a contrato de empreitada, na forma da legislação civil. Nesse sentido, confira-se: CC 19186/SC; Rel. Min. Carlos Alberto Menezes Direito, Dje de 19/03/2001; CC 89171 / MG, Rel. Min. Humberto Gomes de Barros, DJe de 26/11/2007; CC 26003 / MG, Rel. Min. Nancy Andrighi, DJe de 05/02/2001; CC 154505/PR, Rel. Min. Napoleão Nunes Maia Filho, Dje de 04/12/2017; CC 125.744/SC, Min. Ricardo Villas Bôas Cueva, Dje de 18/03/2013; CC 118.073/SC, Min. Raul Araújo, Dje de 02/02/2012; CC 111.559/CE, Min. Marco Buzzi, Dje de 15/12/2011; CC 112.538/SP, Min. Luis Felipe Salomão, Dje de 04/03/2011.
+3. Do exposto, com fundamento no art. 955, caput, do NCPC c.c. Súmula 568/TJ conheço do presente conflito e, por conseguinte, declaro a competência do r. JUÍZO DE DIREITO DA 2.ª VARA CÍVEL DE NOVO HAMBURGO - RS, o suscitado.
+Publique-se. Intimem-se. Oficie-se.
