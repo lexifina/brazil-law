@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de São Paulo.
+Sustenta a defesa, nas razões do recurso especial, violação do artigo 33, § § 2º e 3º, do Código Penal.
+Insurge-se contra o regime fechado, à alegação de que foi fixado com fundamento na gravidade abstrata do delito e sem fundamentação idônea.
+Aduz que, como a pena foi fixada em 6 anos de 4 meses de reclusão, o regime cabível é o semiaberto.
+Apresentadas as contrarrazões (e-STJ, fls. 456-461).
+O recurso foi inadmitido com fundamento nos óbices das Súmulas 7 e 182, ambas do STJ (e-STJ, fls. 464-465). Daí este agravo (e-STJ, fls. 474-478).
+O Ministério Público Federal opinou pelo conhecimento do agravo para negar provimento ao recurso especial (e-STJ, fls. 502-505).
+É o relatório.
+Decido.
+O Tribunal a quo manteve o regime inicial fechado, com a seguinte fundamentação:
+"As penas do embargante foram fixadas em primeiro grau e assim mantidas no v. Acórdão de fls. 360/378 em 6 anos e 4 meses de reclusão e 23 dias-multa, no piso legal.
+Ocorre que, no voto vencido, as condições pessoais do embargante foram consideradas favoráveis para o estabelecimento de regime inicial de cumprimento de pena mais brando. Contudo, em face da gravidade concretas da conduta praticada, roubo com emprego de arma e concurso de agentes, sendo que a vitima Marcos afirmou que foi atingida com diversos chutes e socos durante a ação criminosa, o regime intermediário demonstra-se incompatível.
+Ademais, o embargante foi processado e condenado também pela prática do delito previsto no artigo 180, do Código Penal, o que atesta sua personalidade voltada à criminalidade" (e-STJ, fls. 433).
+Com efeito, os fundamentos utilizados pelo decreto condenatório não podem ser tidos por genéricos e, portanto, constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, § § 2º e 3º, do Código Penal), não havendo falar em violação da Súmula 440/STJ, bem como dos verbetes sumulares 718 e 719 do Supremo Tribunal Federal.
+Em verdade, a aplicação de pena no patamar mínimo previsto no preceito secundário na primeira fase da dosimetria não conduz, obrigatoriamente, à fixação do regime indicado pela quantidade de sanção corporal, sendo lícito ao julgador impor regime mais rigoroso do que o indicado pela regra geral do art. 33, § § 2º e 3º, do CP, desde que mediante fundamentação idônea.
+Por certo, inobstante o fato de a pena-base ter sido imposta no piso legal, o estabelecimento do regime mais severo do que o indicado pelo quantum da reprimenda baseou-se na gravidade concreta do delito, evidenciada pelo seu modus operandi, pois o crime foi praticado por três agentes com o uso de arma de fogo, que deram vários socos e pontapés nas vítimas, o que exige resposta estatal superior, dada a maior reprovabilidade da conduta, em atendimento ao princípio da individualização da pena.
+Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO TRIPLAMENTE CIRCUNSTANCIADO. DOSIMETRIA. ELEVAÇÃO DA PENA NA TERCEIRA FASE DA DOSIMETRIA. PATAMAR DE 5/12 (CINCO DOZE AVOS). FUNDAMENTAÇÃO ADEQUADA. SÚMULA N. 443/STJ. PROPORCIONALIDADE. OBEDIÊNCIA. REGIME INICIAL DE CUMPRIMENTO. MODALIDADE FECHADA FIXADA COM BASE NA GRAVIDADE CONCRETA DO DELITO. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. SÚMULA N. 568/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I - Admite-se, na terceira fase da dosimetria da pena, a exasperação da reprimenda acima do patamar mínimo, desde que apresentada fundamentação concreta, baseada em dados extraídos dos autos, não se revelando legítimo invocar-se para tanto, tão somente, a quantidade de majorantes para o delito de roubo (Súmula 443/STJ).
+II - In casu, não assiste razão ao agravante, porquanto houve, de fato, a devida fundamentação pelo eg. Tribunal de origem, ao aplicar a fração de cinco doze avos, na terceira fase da dosimetria, não se amparando, portanto, tão somente no número de majorantes para elevar a pena do réu mas, sim, nas circunstâncias fáticas em que o crime foi praticado: em "concurso de agentes", com "restrição da liberdade da vítima", que teve que permanecer no próprio veículo roubado enquanto os agentes o conduziam a local distante de sua residência, estando todo esse tempo com "arma de fogo" apontada para as suas costas.
+III - Em relação ao regime inicial de cumprimento de pena, conforme o disposto no art. 33, § 3º, do Código Penal, a sua fixação pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no art. 59 do mesmo diploma legal. Outrossim, para o estabelecimento de regime de cumprimento de pena mais gravoso, é necessária fundamentação específica, com base em elementos concretos extraídos dos autos (Súmulas 440/STJ, 718/STF e 719/STF).
+IV - No presente caso, havendo o eg. Tribunal a quo consignado a necessidade da fixação do regime mais gravoso, lastreando-se no modus operandi utilizado no crime, o regime adequado à hipótese é mesmo o inicial fechado, nos termos do art. 33, § § 2º e 3º, do CP.
+Agravo regimental desprovido."
+(AgRg no AREsp 1251652/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/05/2018, DJe 25/05/2018).
+"AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO RECURSO ESPECIAL. ROUBO MAJORADO. REGIME FECHADO. MOTIVAÇÃO IDÔNEA. SÚMULAS N. 440 DO STJ E 718 E 719, AMBAS DO STF. OBSERVÂNCIA. AGRAVO REGIMENTAL PROVIDO.
+1. Não há ilegalidade na fixação do regime inicial fechado quando apontado dado fático suficiente a indicar a gravidade concreta do crime - na espécie, o concurso de três agentes, pelo menos um deles adolescente -, ainda que o quantum da pena seja inferior a oito anos (art. 33, § 3º, do CP). Respeito às Súmulas n. 440 do STJ e 718 e 719, ambas do STF.
+2. Agravo regimental provido para reconsiderar a decisão singular e negar provimento ao recurso especial da defesa."
+(AgRg nos EDcl no AREsp 1085167/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/10/2017, DJe 16/10/2017).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b" do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
