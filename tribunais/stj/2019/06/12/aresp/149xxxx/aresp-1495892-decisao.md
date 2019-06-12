@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por MARIA APARECIDA BUZO FURTUOZO, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO APOSENTADORIA POR IDADE TRABALHADOR RURAL INÍCIO DE PROVA MATERIAL INSUFICIENTE EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO RESP REPETITIVO 1352721/SP HONORÁRIOS ADVOCATÍCIOS
+Alega violação do arts. 48, § 1º, 102 e 143, da Lei nº 8.213/91; e art. 3º, § 1º, da Lei nº 10.666/03, no que concerne à apresentação de provas materiais pela recorrente, trazendo o(s) seguinte(s) argumento(s):
+Analisando o discorrer da sentença e do V. Acórdão, evidente que o Magistrado "a quó" e o Douto Tribunal decretaram a improcedência da demanda por entender não haver sequer uma única prova material para servir de inicio (fl. 159).
+Conforme demonstrado, o recurso é tempestivo e merece ser admitido. Está preenchida a hipótese do art. 105, III, "a" da Constituição Federal, porque foi violado pelo v. acórdão impugnado ao disposto nos arts. 48, § 1º, 102 e 143, todos da Lei nº 8.213/91; e 3º, § 1º, da Lei nº 10.666/03 (fl. 164).
+Oras, a parte recorrente não consegue entender como a Justiça pode estar fechando os olhos para as provas produzidas. As provas materiais estão todas no bojo processual, como podem não ser vistas (fl. 159).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que o(s) artigo(s) apontado(s) como violado(s) não tem/têm comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal" (AgInt no REsp n. 1685486/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 21/2/2019).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp n. 1675309/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/2/2018; AgRg no REsp n. 1351593/RS, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 12/3/2014; e AgRg no AREsp n. 197.224/SP, relatora Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), Quinta Turma, DJe de 20/11/2012.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
