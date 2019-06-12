@@ -1,0 +1,47 @@
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA DE DANOS MORAIS. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE MULTA DIÁRIA. ADEQUAÇÃO, PROPORCIONALIDADE E RAZOABILIDADE. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+CLÁUDIA MARIA RIBEIRO CARDOSO DA LUZ e [NOME] (CLÁUDIA e PAULO) ajuizaram ação indenizatória contra TIM CELULAR S.A. (TIM).
+Em fase de cumprimento de sentença, TIM interpôs agravo de instrumento contra a decisão interlocutória que acolheu a impugnação e reduziu a multa cominatória exequenda.
+Por seu turno, o Tribunal de origem julgou desprovido o agravo de instrumento da TIM, em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. RECURSO DA DEVEDORA. 1) REDUÇÃO DA MULTA COMINATÓRIA AO VALOR GLOBAL DE RS 50.000,00 (CINQÜENTA MIL REAIS). PRETENDIDA DIMINUIÇÃO DA COIMA. INVIABILIDADE. PENALIDADE DIMINUÍDA PELO MAGISTRADO EM QUANTIA APROPRIADA PARA GARANTIR A EFETIVAÇÃO DA ORDEM. PLEITO AFASTADO NO PONTO.
+"A natureza jurídica das astreintes - medida coercitiva e intimidatória - não admite exegese que a faça assumir um caráter indenizatório, que conduza ao enriquecimento sem causa do credor. O escopo da multa é impulsionar o devedor a assumir um comportamento tendente à satisfação da sua obrigação frente ao credor, não devendo jamais se prestar a compensar este pela inadimplência daquele." (REsp n. 1047957, rela. Mina. [NOME]. em 14.06.2011).
+2) CORREÇÃO MONETÁRIA. APLICAÇÃO SOBRE A MULTA COMINATÓRIA A CONTAR DO VENCIMENTO OU DA POSTERIOR FIXAÇÃO DO VALOR INTEGRAL. JUROS DE MORA INCIDENTES SOBRE O MONTANTE DO DÉBITO RELATIVO À MULTA COMINATÓRIA VIÁVEL SOMENTE APÓS A CONSTITUIÇÃO EM MORA DO DEVEDOR.
+Recai a correção monetária sobre o débito relativo à multa coercitiva (astreintes) arbitrada para o cumprimento de obrigação desde a incidência da coima, ou, em caso de redução judicial do valor integral, a contar do arbitramento. Os juros de mora, por seu turno, incidem após a apuração global do débito e constituição em mora do devedor, na fase de cumprimento de sentença.
+3) HONORÁRIOS ADVOCATÍCIOS. CABIMENTO NO CUMPRIMENTO DE SENTENÇA. PRECEDENTES.
+"1. Para efeitos do art. 543-C do CPC: "1.1. São cabíveis honorários advocatícios em fase de cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário a que alude o art. 475-J do CPC, que somente se inicia após a intimação do advogado, com a baixa dos autos e a aposição do "cumpra-se" (STJ, REsp n. 940.274/MS)."(REsp n. 1.134.186, rei. Min. Luis Felipe Salomão, j. em 01.08.2011).
+RECURSO CONHECIDO E DESPROVIDO. (e-STJ, fls. 171/172)
+Inconformada, a TIM interpôs recurso especial, com base no art. 105, III, a e c, da CF, sustentando, em síntese, dissídio jurisprudencial e violação do art. 537 do NCPC por entender que o montante fixado pelo Tribunal de origem a título de astreintes seria excessivo e desproporcional (e-STJ, fls. 188/195).
+Houve contrarrazões ao recurso especial (e-STJ, fls. 200/202).
+O recurso especial foi inadmitido porque (1) as razões recursais demandariam o revolvimento das provas dos autos; e, (2) o acórdão recorrido estaria em consonância com a jurisprudência do STJ (e-STJ, fls. 204/206).
+Irresignada, a TIM interpôs agravo em recurso especial, sustentando o afastamento dos mencionados óbices à admissão do apelo nobre (e-STJ, fls. 209/216).
+Não foi apresentada contraminuta (e-STJ, fl. 219).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de /admissibilidadea Trsal na forma do novo CPC.
+Do valor da multa
+Nas razões do apelo especial, a TIM sustentou dissídio jurisprudencial e violação do art. 537 do NCPC por entender que o montante fixado pelo Tribunal de origem a título de astreintes seria excessivo e desproporcional.
+Contudo, o Tribunal de origem, soberano na análise das provas dos autos, consignou expressamente a adequação do valor das astreintes arbitrados pelo Juízo de Piso, consideradas as circunstâncias do caso concreto, ex vi:
+Aquela controvérsia pautou-se no bloqueio indevido de linha telefônica móvel e na inclusão do nome da consumidora em cadastros de inadimplentes, após o pagamento (embora com atraso) de fatura telefônica no valor de R$ 694,34 (seiscentos e noventa e quatro reais e trinta e quatro centavos).
+Por meio da tutela antecipatória, determinou-se à ré a baixa da restrição creditícia da demandante e o restabelecimento do serviço de telefonia móvel, sob pena de multa diária de R$ 500,00 (quinhentos reais) (fls. 22/23 da origem). (e-STJ, fls. 178)
+(..)
+Na espécie, repita-se, a recorrente deixou de cumprir a determinação do Juízo para cancelar o lançamento desabonador por mais de quatro longos anos. Apenas com o envio de ofício pelo magistrado a irregularidade teve um fim.
+Nesse contexto, sopesando as características da hipótese concreta, e mormente no intuito de evitar o enriquecimento sem causa dos agravados, deve-se preservar o valor da astreinte em R$ 50.000,00 (cinqüenta mil reais).(e-STJ, fls. 179)
+Conforme se nota, a convicção a que chegou o acórdão sobre o valor das astreintes decorreu da análise do conjunto fático-probatório, de maneira que o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ASTREINTES FIXADAS POR DESCUMPRIMENTO DE DETERMINAÇÃO JUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA DAS AUTORAS.
+1. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que o artigo 461 do Código de Processo Civil de 1973 (correspondente ao art. 537 do NCPC) permite ao magistrado, de ofício ou a requerimento da parte, afastar ou alterar o valor da multa quando este se tornar insuficiente ou excessivo, mesmo depois de transitada em julgado a sentença, não havendo espaço para falar em preclusão ou em ofensa à coisa julgada. Precedentes.
+2. O Tribunal a quo, ao reduzir o valor da multa diária de R$ 500.000,00 para R$ 100.000,00, o fez com amparo nos elementos de convicção dos autos, notadamente na assertiva segundo a qual apenas com a dilação probatória seria possível evidenciar se a divulgação da matéria referente a programa televisionado pela emissora extrapolaria o conteúdo jornalístico, o que não poderia se dar naquele momento por faltarem elementos suficientes para corroborar a pretensão de majoração da penalidade.
+3. A majoração do valor atribuído às astreintes implica, como regra, o revolvimento de fatos e circunstâncias da causa, o que encontra óbice na Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 807.616/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, DJe 10/5/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. MULTA COMINATÓRIA. PROPORCIONALIDADE QUE DEVE CONSIDERAR O VALOR DIÁRIO E O MONTANTE DA OBRIGAÇÃO PRINCIPAL, E NÃO A MONTA TOTAL ALCANÇADA PELO DESCUMPRIMENTO REITERADO DO DEVEDOR AO CUMPRIMENTO DA ORDEM JUDICIAL. 2. REDUÇÃO DO VALOR DAS ASTREINTES. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. 4. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento da Terceira Turma desta Corte Superior é no sentido que a eventual excessividade do valor da multa cominatória deve ser aferida com base na quantia diária arbitrada comparada à obrigação principal, e não considerando a integralidade alcançada pelo descumprimento reiterado da ordem judicial. Precedente.
+2. A alteração das conclusões adotadas pela Corte de origem - quanto ao valor da multa diária, tal como colocadas as questões nas razões recursais - demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, diante da incidência da Súmula n. 7/STJ ao caso.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, a condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.201.079/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma,DJe 18/5/2018)
+Nessas condições, com fundamento no art. 932, III, do NCPC, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários advocatícios, uma vez que tal procedimento se revela inaplicável à espécie.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
+Publique-se. Intime-se.
