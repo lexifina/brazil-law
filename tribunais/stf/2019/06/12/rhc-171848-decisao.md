@@ -1,0 +1,25 @@
+DECISÃO
+    Trata-se de Recurso Ordinário em Recurso em Habeas Corpus interposto contra decisão monocrática proferida pelo Min. JOEL ILAN PACIORNIK, do Superior Tribunal de Justiça, no RHC 109.731/DF.
+    Consta dos autos que o recorrente foi denunciado pela suposta prática do crime de receptação qualificada.
+    Irresignada, a defesa impetrou Habeas Corpus perante o Tribunal de Justiça do Distrito Federal e dos Territórios, o qual denegou a ordem, mediante decisão monocrática.
+    Não satisfeita, a defesa interpôs Recurso em Habeas Corpus perante o Superior Tribunal de Justiça, sob o argumento de que houve violação ao princípio da inocência, uma vez que o juízo de primeiro grau teria assumido como verdadeiras as suspeitas de prática de crime apresentadas no inquérito policial. Alegou, ainda, que não estão presentes os requisitos da custódia cautelar.
+    Requereu, assim, o provimento do recurso para se reconhecer a extinção da punibilidade, nos termos do art. 648, VI, do Código de Processo Penal e, subsidiariamente, pugnou pelo trancamento da ação penal. Por decisão monocrática, o Min. JOEL ILAN PACIORNIK, com fundamento no art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, não conheceu do Recurso em habeas corpus.
+    Neste recurso, a defesa pleiteia "que se conheça e defira a ordem para determinar ao MMº. Juiz de Direito da Primeira Vara Criminal da Circunscrição judiciária de Taguatinga/DF, pela expedição de Carta de Guia Provisória a ser remetida a Vara de Execuções Penais do Distrito Federal.".
+    É o relatório. Decido.
+    O presente recurso, por ser manifestamente incabível, não merece ser conhecido.
+    Nos termos do art. 102, inciso II, da Constituição Federal, compete ao SUPREMO TRIBUNAL FEDERAL julgar, em recurso ordinário:
+    a) o habeas corpus, o mandado de segurança, o habeas data e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão;
+    b) o crime político.
+    O referido recurso, portanto, não é o instrumento adequado para impugnar decisões proferidas pelos Ministros do Superior Tribunal de Justiça em Recurso Ordinário em Habeas Corpus.
+    Registre-se, ademais, a orientação jurisprudencial desta CORTE, firmada no sentido de que a interposição de Recurso Ordinário em Habeas Corpus contra decisão do Superior Tribunal de Justiça em Recurso Ordinário em Habeas Corpus, como ocorre na espécie, caracteriza erro grosseiro. A propósito, os seguintes julgados: AgReg na Petição 5.951/RJ, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 26/02/2016; RHC 123.002/MT, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 28/10/2014 e RHC 119.273/RS, Rel. Min. CÁRMEN LÚCIA, DJe de 21/11/2013.
+    Também incide óbice ao conhecimento do Recurso Ordinário interposto neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça (RHC 139.314/SP AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 17/11/2017; RHC 140.655/MG AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 29/6/2017; RHC 144.668/SP, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 18/9/2017; RHC 121.834/DF, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 6/11/2014; RHC 114.961/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/8/2013 e RHC 114.737/RN, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 18/4/2013).
+    De fato, o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (RHC 111.935/DF, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 118.189/MG, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014; HC 97.009/RJ, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014 e RHC 111.935/DF, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013).
+    Como bem apontado pelo Ministro LUIZ FUX, com base em diversos outros precedentes desta Primeira Turma, em regra, a flexibilização dessa norma implicaria afastamento do texto da Constituição, pois a competência deste SUPREMO TRIBUNAL, sendo matéria de direito estrito, não pode ser interpretada de forma ampliada para alcançar autoridades, no caso, membros de Tribunais Superiores, cujos atos não estão submetidos à apreciação do SUPREMO TRIBUNAL FEDERAL (HC 139.262/TO, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 23/3/2017).
+    Esta Primeira Turma vem autorizando, somente em circunstâncias específicas, o exame do pedido quando não encerrada a análise na instância competente, óbice superável apenas em hipótese de teratologia (HC 138.414/RJ, Primeira Turma, DJe de 20/4/2017) ou em casos excepcionais (HC 137.078/SP, Primeira Turma, DJe de 24/4/2017), como bem destacado pela Min. ROSA WEBER.
+    No particular, entretanto, não se apresentam as hipóteses de teratologia ou de excepcionalidade.
+    Diante do exposto, com fundamento no art. 21, §1º, do Regimento Interno do Supremo Tribunal Federal, NEGO PROVIMENTO AO RECURSO ORDINÁRIO EM HABEAS CORPUS.
+    Publique-se.
+    Brasília, 12 de junho de 2019.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
