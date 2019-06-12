@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto - sob a alegação de afronta aos artigos 3º, 6º, 33, 70, III, 267, VI, 286, 333 e 535 do Código de Processo Civil de 1973; 4º da Lei 10.188/2001; 186, 618 e 927 do Código Civil; 6º, VIII, do Código de Defesa do Consumidor, além de divergência jurisprudencial - em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. PROGRAMA DE ARRENDAMENTO RESIDENCIAL. CEF. LEGITIMIDADE. DENUNCIAÇÃO DA LIDE. PERÍCIA.
+- No que tange à preliminar de ilegitimidade ativa, deve ser rejeitada uma vez que a posse que advém do contrato de arrendamento confere ao respectivo contratante legitimidade ativa para pleitear correções estruturais na obra. Quanto à legitimidade passiva, o fundo financeiro criado pela CEF para a operacionalização do Programa de Arrendamento Residencial não tem personalidade jurídica, não podendo ser parte, nem ser demandado em Juízo.
+- Inexiste a inépcia no pedido de danos materiais, haja vista que a constatação destes se dará através de prova pericial, devidamente atribuída à CEF, nos termos do art. 6º, VII, do CDC.
+- Não há que se falar em denunciação da lide à construtora, porquanto, em caso de procedência, a CEF pode manejar ação de regresso.
+Contra o julgado, a ora recorrente opôs embargos de declaração, sob o argumento de que foi omisso o julgado quanto à análise, dentre outras, da seguinte alegação (fls. 915-916/e-STJ):
+A Caixa Econômica Federal é parte manifestamente ilegítima no presente feito, pois de maneira alguma participou na execução direta do imóvel em questão. Assim não pode ser condenada ao pagamento de indenização de danos materiais ou morais.
+Igualmente, não está legitimada para responder por vícios de construção ocultos e desconhecidos, somente verificados após a entrega e o uso do imóvel.
+Para a construção do empreendimento, a CEF firmou contrato de cessão de direitos e de compra e venda de imóvel e de arrendamento residencial - PAR, com pagamento parcelado, com a construtora.
+No referido contrato consta que é a construtora que responderá por defeitos decorrentes da direção das obras.
+Como se denota, a responsável pela construção - e por seus eventuais vícios - por força contratual é a construtora. Era a construtora, através de seu corpo de engenheiros, que detinha toda a responsabilidade técnica do empreendimento.
+O acórdão recorrido, no entanto, entendeu por responsabilizar a CAIXA.
+A incumbência da CAIXA é de vistoriar a construção apenas para fins de liberação de empréstimo, sem qualquer responsabilidade técnica pela execução das obras.
+A r. Decisão, ao entender pela responsabilidade da CAIXA na reparação de danos decorrentes de vícios construtivos, está contrariando a lei federal que rege a matéria.
+Destarte, a Caixa Econômica Federal não detém legitimidade passiva no feito, vez não participou na execução direta da obra.
+Nestes termos, necessário que a corte manifeste-se sobre a legitimidade passiva da CAIXA, relativamente a cada um dos itens do pedido e da condenação, com supedâneo no artigo 3º e 267, VI do CPC.
+O Tribunal de origem, no entanto, rejeitou os embargos de declaração, afirmando suficiência de fundamentos. Ocorre que, ao se manifestar sobre a legitimidade passiva, o acórdão embargado apenas discorreu que "o fundo financeiro criado pela CEF para a operacionalização do Programa de Arrendamento Residencial não tem personalidade jurídica, não podendo ser parte, nem ser demandado em Juízo. Como bem salientado na decisão inquinada, a separação patrimonial existente entre ele e o da CEF, prevista no art. 2º da Lei nº 10.188/01, não é suficiente para lhe conferir personalidade jurídica ou judiciária" (fl. 904/e-STJ), deixando de apreciar as alegações da embargante, as quais podem alterar substancialmente o resultado do julgamento, donde a ofensa ao artigo 535, II, do Código de Processo Civil de 1973 - aplicável ao caso, conforme Enunciado Administrativo 2/2016 desta Corte.
+Em face do exposto, dou provimento ao recurso especial para anular o acórdão dos embargos de declaração e determinar o retorno dos autos para que o Tribunal de origem supra as omissões acima anotadas.
+Intimem-se.
