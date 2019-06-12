@@ -1,0 +1,51 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. PRESCRIÇÃO. OCORRÊNCIA.
+1. Depreende-se dos autos que o trânsito em julgado da decisão exequenda ocorreu em março de 2007. Por outro lado, a presente execução foi ajuizada apenas em março de 2018. Nesse contexto, É manifesta a ocorrência da prescrição. Isso porque "é firme a jurisprudência do Superior Tribunal de Justiça no sentido de que é de 5 (cinco) anos o prazo prescricional para a execução de decisão mandamental contra a Fazenda Pública, contado a partir do trânsito em julgado da decisão exequenda, nos termos do art. 1º do Decreto n. 20.910/32" (AgRg nos EmbExeMS 4.733/DF, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 23/09/2015, DJe 02/10/2015).
+2. Considerando que o exequente atravessou petições sucessivas requerendo a intimação do Poder Público, com o objetivo de obter os dados necessários ao ajuizamento da execução, o que foi indeferido, porquanto o credor não demonstrou que diligenciou no sentido de obter tais dados na via administrativa, é imperioso concluir que eventual culpa em razão do lapso temporal transcorrido é imputável ao próprio exequente, e não à Administração.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento: "A Seção, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator." Os Srs. Ministros Herman Benjamin, Napoleão Nunes Maia Filho, Assusete Magalhães, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Ausente o Sr. Ministro Og Fernandes e, ocasionalmente, o Sr. Ministro Francisco Falcão.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno apresentado contra decisão monocrática que decretou a prescrição e extinguiu a execução.
+O agravante sustenta, em suma, que:
+Após o julgamento ocorrido no Egrégio Superior Tribunal de Justiça em março de 2007, foi requerido a Marinha do Brasil em 2009 que apresentasse os elementos de cálculo não tendo a mesma atendido e que caberia ao Egrégio Supremo Tribunal Federal onde transitou em julgado. Este (o STF), por seu lado, determinou que a execução continuasse através do STJ, que era o órgão julgador original. Em 2013 finalmente começou a execução vide andamento.
+Houve despacho em 2013 para autor juntar a petição como execução em mandado de segurança, donde A EXECUÇÃO EM MANDADO DE SEGURANÇA JUDICIALMENTE COMEÇOU EM 2013, tendo como tal sido aceita por esse tribunal. A União foi citada, se manifestou e caso tivesse de arguir prescrição deveria tê-lo feito no primeiro momento, conforme determina o Código de Processo Civil.
+Em 2014 o eminente Ministro relator determinou que o exequente diligenciasse administrativamente requerendo junto a Marinha, o que já havia feito em 2009, NÃO TENDO A MESMA OFERECIDO AO EXEQÜENTE OS CÁLCULOS NECESSÁRIOS AO PROSSEGUIMENTO DA EXECUÇÃO. Não há o que se falar em prescrição haja vista o requerimento de 19 de maio de 2009 sendo esta a data inicial da execução em sede administrativa o que desaguou no pedido de tutela via judiciária anos mais tarde, ou seja, o processo de execução começou em 2009, tendo o exequente se adiantado a determinação do nobre Ministro.
+Requer seja provido o recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. PRESCRIÇÃO. OCORRÊNCIA.
+1. Depreende-se dos autos que o trânsito em julgado da decisão exequenda ocorreu em março de 2007. Por outro lado, a presente execução foi ajuizada apenas em março de 2018. Nesse contexto, É manifesta a ocorrência da prescrição. Isso porque "é firme a jurisprudência do Superior Tribunal de Justiça no sentido de que é de 5 (cinco) anos o prazo prescricional para a execução de decisão mandamental contra a Fazenda Pública, contado a partir do trânsito em julgado da decisão exequenda, nos termos do art. 1º do Decreto n. 20.910/32" (AgRg nos EmbExeMS 4.733/DF, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 23/09/2015, DJe 02/10/2015).
+2. Considerando que o exequente atravessou petições sucessivas requerendo a intimação do Poder Público, com o objetivo de obter os dados necessários ao ajuizamento da execução, o que foi indeferido, porquanto o credor não demonstrou que diligenciou no sentido de obter tais dados na via administrativa, é imperioso concluir que eventual culpa em razão do lapso temporal transcorrido é imputável ao próprio exequente, e não à Administração.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+O recurso não merece prosperar.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Depreende-se dos autos que o trânsito em julgado da decisão exequenda ocorreu em março de 2007. Por outro lado, a presente execução foi ajuizada apenas em março de 2018.
+Nesse contexto, como bem observado pela União é manifesta a ocorrência da prescrição.
+Isso porque "é firme a jurisprudência do Superior Tribunal de Justiça no sentido de que é de 5 (cinco) anos o prazo prescricional para a execução de decisão mandamental contra a Fazenda Pública, contado a partir do trânsito em julgado da decisão exequenda, nos termos do art. 1º do Decreto n. 20.910/32" (AgRg nos EmbExeMS 4.733/DF, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 23/09/2015, DJe 02/10/2015).
+Ressalte-se que a alegação de "execução em sede administrativa" não se caracteriza causa suspensiva da prescrição.
+No mesmo sentido:
+EMBARGOS À EXECUÇÃO DE TÍTULO JUDICIAL ORIUNDO DE MANDADO DE SEGURANÇA. AÇÃO COLETIVA CONDENATÓRIA. LEGITIMIDADE ATIVA DO SINDICATO. PRESCRIÇÃO DA EXECUÇÃO. MESMO PRAZO PRESCRICIONAL APLICADO À AÇÃO DE CONHECIMENTO. SÚMULA 150 DO STF. DECRETO 20.910/32. PRESCRIÇÃO QUINQUENAL. EMBARGOS PROCEDENTES.
+1. Os Sindicatos ostentam legitimidade para propor a liquidação e a execução de sentença proferida em ação coletiva condenatória, na qual atuaram como substitutos processuais, caso não promovidas pelos interessados, sendo dispensável a autorização expressa de cada um dos substituídos.
+2. Sob o ângulo do prazo prescricional, a ação de execução segue a sorte da ação de conhecimento, na forma prevista na Súmula 150 do Pretório Excelso, segundo a qual prescreve a execução no mesmo prazo de prescrição da ação.
+3. O título executivo judicial é proveniente de ação mandamental que postulava o pagamento, em trato sucessivo e mensal, aos integrantes da carreira de Policial Civil do ex-território do Acre, das gratificações previstas no art. 4o. da Lei 9.266/96, sujeito, portanto, ao prazo prescricional de 5 anos previsto no art 1o. do Decreto 20.910/32, contado a partir da data em que se tornou coisa julgada a decisão exequenda, ou seja, da data do ato ou fato demarcador da exigibilidade da obrigação.
+4. Neste caso, transitada em julgado a decisão executada em 13.10.98 (fls. 54), a execução somente foi iniciada em 19.12.2008 (fls. 01), de sorte que inegável a incidência da prescrição quinquenal.
+5. Embargos procedentes.
+(EmbExeMS 4.565/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, TERCEIRA SEÇÃO, julgado em 14/12/2009, DJe 18/12/2009)
+AGRAVO REGIMENTAL NOS EMBARGOS À EXECUÇÃO NO MANDADO DE SEGURANÇA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. ART. 1º DO DECRETO N. 20.910/32. OCORRÊNCIA.
+I - É de 5 (cinco) anos o prazo prescricional para a execução de decisão mandamental contra a Fazenda Pública, contado a partir do trânsito em julgado da decisão exequenda, nos termos do art. 1º do Decreto n. 20.910/32. Precedente: EmbExeMS 4.565/DF, 3ª Seção, Rel. Min. Napoleão Nunes Maia Filho, DJe de 18/12/2009.
+II - In casu, o v. acórdão executado transitou em julgado em 31/8/1998 e a execução foi proposta somente em 19/12/2005, quando já fulminada pela prescrição a pretensão executiva.
+Agravo regimental desprovido.
+(AgRg nos EmbExeMS 3.751/DF, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 10/03/2010, DJe 06/04/2010)
+Cabe registrar que constou expressamente da decisão de fls. 275/276 (proferida em abril/2015):
+Consoante antes decidido, cabe ao exequente diligenciar para obter os dados necessários ao ajuizamento da execução contra a Fazenda Pública, somente sendo cabível a intervenção do Poder Judiciário quando demonstrado que o credor pleiteou a obtenção de informações e estas lhe foram negadas pela Administração.
+Com efeito, às fls. 271/272 (e-STJ), providencia o exequente juntada de carta resposta da Diretoria do Pessoal Militar da Marinha, onde é apontado equívoco do autor em requerer as planilhas para efetuação de cálculo àquele órgão, porquanto a pretensão deve voltar-se contra a Advocacia-Geral da União.
+Novamente, pretende a parte que o Poder Judiciário o substitua no dever de diligenciar para obter os dados necessários ao ajuizamento da execução contra a Fazenda Pública, sendo que já lhe foi informado que somente é cabível a intervenção judiciária quando demonstrado que o credor pleiteou a obtenção de informações e estas lhe foram negadas pela Administração, o que não ocorreu, pois deve requerer as informação à Advocacia-Geral da União.
+Assim sendo, indefiro o pedido de intimação da AGU para fornecimento das planilhas de pagamento, porquanto o credor não demonstrou que diligenciou no sentido de obtê-las administrativamente perante aquele órgão.
+Assim, considerando que o exequente atravessou petições sucessivas requerendo a intimação do Poder Público, com o objetivo de obter os dados necessários ao ajuizamento da execução, o que foi indeferido, porquanto o credor não demonstrou que diligenciou no sentido de obter tais dados na via administrativa, é imperioso concluir que eventual culpa em razão do lapso temporal transcorrido é imputável ao próprio exequente, e não à Administração.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
