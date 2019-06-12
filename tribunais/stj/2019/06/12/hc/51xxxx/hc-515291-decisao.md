@@ -1,0 +1,14 @@
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. FALTA DISCIPLINAR DE NATUREZA GRAVE. HOMOLOGAÇÃO PELO JUÍZO DE PRIMEIRO GRAU E CONFIRMAÇÃO PELO TRIBUNAL EM AGRAVO DE EXECUÇÃO DEFENSIVO. ALEGAÇÃO DE QUE AS INSTÂNCIAS ORDINÁRIAS NÃO SE MANIFESTARAM SOBRE O MÉRITO DA INFRAÇÃO DISCIPLINAR. IMPROCEDÊNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] - cumprindo pena privativa de liberdade -, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina, que negou provimento ao agravo em execução ali interposto pela defesa, mantendo a decisão do Juízo de Direito da Vara de Execuções Criminais da comarca de Criciúma/SC, que homologou a prática de infração disciplinar de natureza grave pelo paciente e aplicou os consectários decorrentes (PEC n. 0002529-25.2019.8.24.0020).
+Alega a impetrante, em síntese, que o juízo de primeiro grau, em contato com as provas colacionadas aos autos, sobretudo com o PACIENTE, se negou a apreciar o mérito da apuração da falta grave imputada à esta, nem ao menos analisando os argumentos trazidos pela defesa, que, por sua vez, requereu a desclassificação da conduta para falta média, bem como que o Tribunal de Justiça de Santa Catarina não analisou o mérito recursal, pelo mesmo falho fundamento de que não cabe ao Poder Judiciário adentrar no mérito dos procedimentos de apuração de falta grave (fl. 10).
+Postula, então, o deferimento de medida liminar, a fim de que seja suspensa a execução da pena imposta ao paciente, até o julgamento do mérito do presente writ.
+É o relatório.
+O presente writ não comporta processamento.
+Com efeito, busca a impetração o reconhecimento da insuficiência de análise da pretensão formulada perante as instâncias ordinárias, a respeito do mérito da falta disciplinar de natureza grave imputada ao paciente, consistente em desobediência/participação em movimento de subversão da ordem e disciplina internas.
+Da atenta análise dos autos, observa-se que o Tribunal a quo se manifestou fundamentadamente sobre a convicção a respeito da prática da infração disciplinar por parte do apenado, tendo afirmado que o cometimento da infração disciplinar por parte reeducando resta inconteste nos autos. É que como visto da Comunicação Interna nº 1758 (fl. 174), o apenado por livre espontânea vontade, incitou/participou de movimento subversivo a ordem ou disciplina, na medida em que abriu a porta da cela e discutiu com outros detentos, desobedecendo as ordens emanadas pelos agentes penitenciários (fl. 66).
+Sobre a manifestação do Juízo de primeiro grau, é inviável avaliar de que forma ocorreu, pois a impetrante não juntou cópia da decisão pertinente à verificação da verossimilhança das alegações.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
