@@ -1,0 +1,48 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESPONSABILIDADE SECURITTÁRIA. RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de ação de responsabilidade securitária proposta por IRON HERES MORAES DE ALMEIDA, [NOME], LAURIVANDE SEVERINO DA SILVA, MARIA ELANE POLASTRELLI ALMEIDA, RAIMUNDO SÉRGIO COSTA e ROSA MARIA ANTUNES CARVALHO DA SILVA (IRON e outros) contra BRADESCO SEGUROS S.A. (BRADESCO), buscando, em síntese, a condenação da requerida para efetuar o pagamento dos valores que se afigurarem necessários ao conserto integral dos seus respectivos imóveis, previsto no contrato de financiamento habitacional e apólice de seguro.
+A demanda foi julgada improcedente. Condenou IRON e outros ao ônus da sucumbência, fixando os honorários advocatícios em 15 % do valor atualizado da causa (e-STJ, fls. 634/644).
+IRON e outros interpuseram apelação e o Tribunal de origem deu-lhes provimento. Inverteu os ônus da sucumbência, condenando BRADESCO ao pagamento das custas e nos honorários advocatícios, estes no importe de 12,5% do valor da causa.
+O acórdão restou assim ementado:
+RECURSO DE APELAÇÃO CÍVEL DIREITO CIVIL E PROCESSO CIVIL. SFH. SEGURO HABITACIONAL. VÍCIOS CONSTRUTIVOS. COBERTURA CONTRATUAL MULTA DECENDIAL. INCIDÊNCIA. RECURSO CONHECIDO E PROVIDO. I. O artigo 1.432, do CC/16, com correspondência no artigo 757, do CC/02, estabelece que "Pelo contrato de seguro, o segurador se obriga, mediante o pagamento do prêmio, a garantir interesse legítimo do segurado, relativo a pessoa ou a coisa, contra riscos predeterminado" .
+II. Diante da natureza eminentemente social dos contratos habitacionais, suas cláusulas contratuais deverão ser examinadas em benefício do consumidor/mutuário, de modo que, em prol da preservação do imóvel e do resguardo do princípio da boa-fé objetiva, afigurar-se-á nula de pleno direito eventual disposição contratual que exclua da proteção os danos físicos e as ameaças de desmoronamento advindos de vícios construtivos. Precedentes.
+III. Na hipótese, restou evidenciado que os danos constatados nas residências dos autores/apelantes que geram ameaça de desabamento não são decorrentes do desgaste natural do uso ou de má conservação do imóvel, mas, sim de falhas na construção e, ainda, da má qualidade do material empregado na obra, sendo certo que tais vicissitudes encontram-se acobertadas pela Apólice de Seguro Habitacional firmada pelas partes litigantes por ocasião dos respectivos Contratos e deverão ser indenizadas tomando-se em conta os gastos necessários com a recuperação das 06 (seis) residências sinistradas, na forma registrada no Laudo Pericial.
+IV. Subsunção do caso concreto a hipótese de cobertura contratual prevista na alínea e , da Cláusula 3a, das Condições Particulares para os Riscos de Danos Físicos, ante a comprovação da ululante ameaça de desmoronamento dos bens pela má qualidade do material e das técnicas empregadas durante a confecção das estruturas dos telhados.
+V. Assistir razão aos autores/apelantes ao pleitearem a imposição da multa decendial prevista na Cláusula 17.3, das Condições Gerais da Apólice, ante a recusa administrativa da Seguradora em efetuar o pagamento da indenização securitária, com a ressalva que a penalidade, diante do caráter acessório, deverá ser limitada ao valor total da obrigação principal, nos termos do artigo 920, do CC/16, com correspondência no artigo 412, do CC/02.
+Precedentes.
+VI. Recurso conhecido e provido (e-STJ, fl.725).
+Inconformado, BRADESCO interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a violação dos arts. 757, 1.459 e 1.460 do Código Civil de 1916, e artigo 206, § 1º, II, b, do Código Civil (e-STJ, fls.739/770).
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o apelo nobre sob os fundamentos de incidência das Súmulas nºs 5 e 7 do STJ e 284 do STF (e-STJ, fls.818/820).
+BRADESCO interpôs agravo em recurso especial aduzindo que houve a violação dos dispositivos apontados no apelo nobre. Afirmou que o recurso preencheu os requisitos para se ver admitido, não sendo o caso de aplicar os Enunciados nº 284 do STF e 7 do STJ (e-STJ, fls.823/827).
+Contraminuta apresentada (e-STJ, fls.831/844).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+ Do não conhecimento do agravo em recurso especial
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra todos os fundamentos da decisão agravada, pois BRADESCO não infirma devidamente o seu esteio, deixando de refutar, de forma arrazoada, a aplicação do Enunciado nº 5 do STJ.
+De acordo com a jurisprudência desta Corte Superior e em obediência ao princípio da dialeticidade, exige-se do recorrente o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se funda a decisão agravada, técnica ausente nas razões dessa irresignação.
+De fato, à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge ( AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008).
+Assim, não tendo o recurso impugnado especificamente o fundamento da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+A propósito, vejam-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INÉPCIA. FALTA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. MANIFESTA INADMISSIBILIDADE. DESISTÊNCIA PARCIAL. IMPOSSIBILIDADE.
+1. Nos termos do art. 1.042 do CPC/15 c/c 253, parágrafo único, I do RISTJ, incumbe ao agravante o ônus de impugnar, especificamente, todos os fundamentos da decisão proferida pelo Tribunal de origem com o intuito de "destrancar" o recurso especial inadmitido, permitindo, assim, o exame deste pelo STJ.
+2. O agravo é apenas o meio idôneo a viabilizar o juízo definitivo de admissibilidade por este Tribunal, quando inadmitido na origem o recurso especial. Desse modo, havendo uma vinculação do primeiro com o segundo, de modo que, na sistemática de julgamento, o agravo deve ser sempre analisado com os olhos voltados para a admissibilidade do recurso especial e não para o acórdão recorrido.
+3. A partir de tais premissas, é possível inferir que não há como o agravante restringir o efeito devolutivo horizontal do agravo porque esse efeito já foi previamente delimitado pelos fundamentos da decisão exarada pelo Tribunal de origem.
+4. O ordenamento jurídico admite que a parte inconformada recorra, parcialmente, de uma decisão, e, ainda, que o órgão julgador conheça, em parte, do recurso interposto. Não há, entretanto, qualquer previsão que autorize a desistência parcial, tácita ou expressa, do recurso especial após sua interposição.
+5. É manifestamente inadmissível o agravo que não impugna, de maneira consistente, todos os fundamentos da decisão agravada.
+6. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 727.579/PR, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 12/12/2017, DJe 19/12/2017 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA QUE MANTEVE A INADMISSÃO DO RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. PLEITO DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO NÃO REBATIDO. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO NÃO PROVIDO.
+1. O agravo em recurso especial que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, ônus do qual não se desincumbiu a parte insurgente. Aplicação, por analogia, da Súmula 182/STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp 964.429/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/9/2016 - sem destaque no original)
+
+Nessas condições, NÃO CONHEÇO do agravo.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de  BRADESCO, nos termos do art. 85, §11, do NCPC.
+Advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intimem-se.
