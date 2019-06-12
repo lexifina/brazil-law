@@ -1,0 +1,26 @@
+DECISÃO
+Por meio da petição de fls. 272/300 é requerida a extensão, em favor de [NOME], dos efeitos da decisão de fls. 265/267, pela qual dei provimento ao recurso em habeas corpus de [NOME], a fim de garantir ao recorrente o direito de responder ao processo em liberdade, salvo se por outro motivo estiver preso e ressalvada a possibilidade de haver nova decretação de prisão ou a aplicação de uma das medidas cautelares previstas no art. 319 do Código de Processo Penal, caso se apresente motivo concreto para tanto.
+Alega o ora requerente, em suma, que também teve a prisão preventiva decretada ilegalmente, estando em situação fático-processual idêntica à do corréu, já beneficiado com a revogação da prisão.
+É o relatório.
+O art. 580 do Código de Processo Penal estabelece que, no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+Na hipótese, conforme asseverado pelo requerente, a decretação da sua custódia cautelar está lastreada nos mesmos fundamentos utilizados para justificar a prisão preventiva do recorrente.
+Sendo assim, ausente circunstância pessoal que autorize tratamento diferenciado do recorrente, impõe-se a extensão dos efeitos da decisão de fls. 265/267, segundo orienta a jurisprudência desta Corte:
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. SENTENÇA CONDENATÓRIA. ACÓRDÃO CONFIRMATÓRIO. AUSÊNCIA DE TRÂNSITO EM JULGADO. EXPEDIÇÃO DE MANDADO DE PRISÃO. EXECUÇÃO PROVISÓRIA DA PENA. OFENSA À PRESUNÇÃO DE INOCÊNCIA. VERIFICAÇÃO. ORDEM CONCEDIDA COM EXTENSÃO AO CORRÉU.
+1. Toda prisão processual deve ser calcada nos pressupostos e requisitos do art. 312 do Código de Processo Penal.
+2. A determinação da prisão, após o julgamento da apelação, mas antes do trânsito em julgado, sem amparo em dados concretos de cautelaridade, viola a garantia constitucional inserta no art. 5.º, inciso LVII, da Constituição Federal.
+3. Encontrando-se o corréu em situação análoga ao paciente submetido a constrangimento ilegal, de rigor é a extensão da concessão de habeas corpus, nos moldes do art. 580 do Código de Processo Penal.
+4. Ordem concedida, acolhido o parecer ministerial e ratificada a liminar, para assegurar ao paciente o direito de permanecer em liberdade até eventual trânsito em julgado da condenação criminal imposta, ressalvada a hipótese de surgimento de fatos que revelem a necessidade de seu encarceramento processual, estendendo-se os efeitos ao corréu [NOME].
+(HC n. 136.927/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 9/11/2009).
+HABEAS CORPUS. LIMINAR. INDEFERIMENTO. SÚMULA 691 DO STF. FLAGRANTE ILEGALIDADE. DIREITO DE APELAR SOLTO. CONHECIMENTO.
+ ..
+3. Verificada a identidade fático-processual entre o paciente e os corréus, aplica-se o disposto no art. 580 do CPP, permitindo que aguarde em liberdade o trânsito em julgado da condenação.
+4. Pleito de extensão deferido, restando prejudicado o exame do mérito do writ.
+(HC n. 131.169/SP, Ministro Jorge Mussi, Quinta Turma, DJe 13/10/2009).
+No mesmo sentido, precedentes do Supremo Tribunal Federal:
+EXTENSÃO EM "HABEAS CORPUS" - APLICABILIDADE DO ART. 580 DO CPP - RAZÃO DE SER DESSA NORMA LEGAL: NECESSIDADE DE TORNAR EFETIVA A GARANTIA DE EQÜIDADE - DOUTRINA - PRECEDENTES - AUSÊNCIA, NO CASO, DE CIRCUNSTÂNCIAS DE ORDEM PESSOAL SUBJACENTES À CONCESSÃO DO "WRIT" CONSTITUCIONAL EM FAVOR DO PACIENTE - PLENA IDENTIDADE DE SITUAÇÃO ENTRE O PACIENTE E AQUELE EM CUJO FAVOR É REQUERIDA A EXTENSÃO DA ORDEM CONCESSIVA DE "HABEAS CORPUS" - PRISÃO CAUTELAR - DURAÇÃO IRRAZOÁVEL QUE SE PROLONGA SEM CAUSA LEGÍTIMA - CONFIGURAÇÃO, NA ESPÉCIE, DE OFENSA EVIDENTE AO "STATUS LIBERTATIS" DO ACUSADO, ORA REQUERENTE - INADMISSIBILIDADE - PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL - INJUSTO CONSTRANGIMENTO CONFIGURADO - PEDIDO DE EXTENSÃO DEFERIDO.
+(HC 102189 Extn/BA, Ministro Celso de Mello, Segunda Turma, DJe 3/10/2011).
+EMENTA: HABEAS CORPUS. CONSTITUCIONAL E PROCESSUAL PENAL. PORTE ILEGAL DE ARMA DE FOGO. ABOLITIO CRIMINIS. ORDEM CONCEDIDA A CORRÉU NO SUPERIOR TRIBUNAL DE JUSTIÇA. CRITÉRIO OBJETIVO. IDENTIDADE DE SITUAÇÕES. PRINCÍPIO DA ISONOMIA. ART. 580 DO CÓDIGO DE PROCESSO PENAL. ORDEM CONCEDIDA. 1. O princípio constitucional da isonomia impede que se negue ao corréu benefício concedido, em sede de recurso, a outro acusado, quando não existem fatores concretos diferenciadores entre as situações vivenciadas por ambos. 2. Orientando-se o Superior Tribunal de Justiça em critérios de natureza objetiva (abolitio criminis temporária) para conceder ordem de habeas corpus ao corréu, afastando a imputação, deve a solução ser estendida aos demais acusados, nos termos do art. 580 do Código de Processo Penal. Precedentes. 3. Ordem concedida.
+(HC n. 101.108/RJ, Ministra Cármen Lúcia, Primeira Turma, DJe 26/4/2011).
+Ante o exposto, defiro o pedido de extensão a fim de garantir ao requerente [NOME] o direito de responder ao processo em liberdade, salvo se por outro motivo estiver preso e ressalvada a possibilidade de haver nova decretação de prisão ou a aplicação de uma das medidas cautelares previstas no art. 319 do Código de Processo Penal, caso se apresente motivo concreto para tanto.
+Comunique-se.
+Publique-se.
