@@ -1,0 +1,68 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CERCEAMENTO DO DIREITO DE DEFESA. LIVRE CONVENCIMENTO DO JUIZ. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL, COM MAJORAÇÃO DE HONORÁRIOS.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME] em face de decisão que inadmitiu recurso especial, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, manejado contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 115):
+EMENTA: APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - AVAL - PESSOA IDOSA - DESNECESSIDADE DE TESTEMUNHA - AGENTE CAPAZ - SENTENÇA MANTIDA.
+- Não há cerceamento de defesa, quando os documentos constantes dos autos permitem o julgamento do processo no estado em que se encontra, sendo prescindível maior dilação probatória.
+- Além disso, considerando que o próprio embargante/apelante é quem outorgou poderes aos seus advogados, ou seja, como foi o próprio recorrente quem contratou seus patronos, sem a necessidade de representação para a prática do ato, não há como prosperar a alegação de que o mesmo é incapaz, em decorrência de sua idade.
+- Inexiste em nosso ordenamento jurídico norma que dispõe acerca da necessidade de 02 (duas) testemunhas para que a pessoa idosa possa ser avalista na celebração da cédula rural pignoratícia, ainda mais, se esta estiver em pleno gozo de suas faculdades mentais.
+Opostos embargos de declaração, foram rejeitados. (e-STJ fls. 130/136)
+Nas razões do recurso especial, às fls. 173/175 e-STJ, a parte recorrente alega violação do art. 373, II do Código de Processo Civil, sustentando, em síntese, cerceamento de defesa em razão do julgamento antecipado da lide, pois houve requerimento formulado pelo recorrente para produzir prova que atestasse sua incapacidade para a assinatura do aval ora em questão.
+Afirma, ainda, que "A necessidade de assinatura atestada por duas testemunhas devidamente identificadas, representa requisito essencial à validade de contratos ainda mais em se tratando de pessoas idosas com mais de 80 (oitenta) anos de idade." (e-STJ fl. 144).
+Contrarrazões ao recurso especial às fls. 151/158 e-STJ.
+É o breve relatório.
+Passo a decidir.
+A irresignação recursal não merece acolhida.
+Quanto à alegação de cerceamento de defesa, assim se pronunciou o Tribunal de origem (e-STJ fls. 119/120):
+Como sabido, segundo o princípio do livre convencimento motivado, o juiz é livre na pesquisa da prova, podendo, dentro da linha de seu raciocínio, emprestar o valor que entender devido a cada uma das provas produzidas, desde que o faça motivadamente, demonstrando as razões de seu convencimento.
+Dessa forma, cabe-lhe determinar as provas necessárias à instrução do feito, indeferindo as diligências inúteis e meramente protelatórias (art. 370 do CPC/2015, aplicável ao caso).
+Com efeito, inexiste cerceamento de defesa, se a natureza das questões em debate e os elementos probatórios constantes dos autos autorizam o julgamento antecipado da lide.
+Além disso, o art. 355 do CPC permite ao julgador proferir o julgamento antecipado da lide, quando não houver necessidade de produção de outras provas.
+Assim, em matéria de julgamento antecipado da lide, prevalece a prudência do magistrado, na análise da necessidade ou não da realização de provas, ante as peculiaridades de cada caso concreto e a observância ao princípio do contraditório.
+Analisando detidamente as provas e peculiaridade dos autos, entendo que a produção de provas para atestar a "capacidade mental do recorrente", já que este possui mais de 80 (oitenta) anos de idade, torna-se desnecessária, na medida em que não há nos autos qualquer indício de que o recorrente é pessoa incapaz, em razão de sua idade.
+Pelo contrário, pelo que se observa o mesmo trata-se de pessoa totalmente capaz, tanto que outorgou poderes aos seus patronos, sem que fosse representado para a prática do ato, conforme se comprova pela procuração de ordem 2, fato que, por si só, já indica a sua capacidade.
+Na verdade, caberia ao embargante trazer aos autos, ao menos, um indício de prova de que o fato de ser idoso o torna incapacitado de praticar os atos jurídicos, mais precisamente firmar o aval em discussão.
+Neste diapasão, enfatizo, mais uma vez, que o próprio embargante/apelante é quem outorgou poderes aos seus advogados, ou seja, como foi o próprio recorrente quem contratou seus patronos, sem qualquer necessidade de representação para a prática do ato, não há como prosperar a alegação de que o mesmo é incapaz em razão da idade, seja no presente momento, ou quando da assinatura da cédula de crédito rural, documento de ordem 5.
+Quanto à questão, cumpre asseverar que o Superior Tribunal de Justiça firmou entendimento no sentido de que a necessidade de produção de outras provas submete-se ao princípio do livre convencimento do juiz. Nesse sentido, a avaliação acerca da ocorrência de cerceamento de defesa demandaria a incursão em aspectos fático-probatórios dos autos, inviável, portanto, em recurso especial, razão pela qual o acolhimento da irresignação esbarra no óbice previsto na Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO. COMPRA E VENDA. ALEGAÇÃO GENÉRICA DE OFENSA AO ART. 535 DO CPC/1973. INCIDÊNCIA DA SÚMULA 284/STF. CERCEAMENTO DE DEFESA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. VIOLAÇÃO AOS ARTS. 186, 402, 476 E 1.228 DO CÓDIGO CIVIL E AO ART. 267, VI, DO CÓDIGO DE PROCESSO CIVIL DE 1973. TEMA NÃO PREQUESTIONADO. SÚMULA 282/STF. LITIGÂNCIA DE MÁ-FÉ. NECESSIDADE DE REEXAME DE PROVA. ÓBICE DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro.
+Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. Não há falar em cerceamento de defesa em razão da valoração promovida pelo magistrado das provas coligidas nos autos, porquanto no nosso sistema processual o magistrado é o destinatário da prova, cabendo-lhe, por força do art. 131 do Código de Processo Civil, apreciar livremente as provas apresentadas, devendo apenas fundamentar os motivos que lhe formaram o convencimento.
+3. No caso, é inviável fazer análise quanto à necessidade de produção de prova testemunhal e pericial, haja vista demandar a incursão nos elementos fático-probatórios dos autos. Incidência da Súmula 7/STJ.
+4. As questões amparadas no conteúdo dos arts. 186, 402, 476 e 1.228 do Código Civil e do art. 267, VI, do CPC/1973 não foram apreciadas pelo Tribunal a quo, tampouco foram alvo dos embargos declaratórios opostos para sanar eventual omissão. Dessa forma, tais matérias não merecem ser conhecidas por esta Corte, ante a ausência do indispensável prequestionamento. Aplica-se, por analogia, o óbice da Súmula 282 do STF.
+5. A condenação por litigância de má-fé foi imposta pelo Tribunal local a partir dos elementos fáticos e peculiares concernentes à lide examinada, de forma que a revisão do seu entendimento em sede de recurso especial esbarra no óbice da Súmula 7/STJ. Precedentes.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1397216/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/11/2017, DJe 27/11/2017 - g.n.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA. VÍCIO DE CONSTRUÇÃO. DECADÊNCIA. FRAGILIDADE DA OBRA. REEXAME. MATÉRIA DE PROVA. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. JULGAMENTO EXTRA PETITA. NÃO CONFIGURAÇÃO. SENTENÇA ILÍQUIDA. PEDIDO CERTO. POSSIBILIDADE. DANO MORAL. VALOR ARBITRADO. RAZOABILIDADE 1. Não é possível o conhecimento de recurso especial quando visa reformar entendimento do Tribunal local que, baseado na prova pericial produzida, concluiu que os vícios de construção eram relativos à fragilidade da obra.
+Alterar essa conclusão demandaria reexame de fatos e provas, o que atrai a incidência da Súmula nº 7/STJ.
+2. Não configura cerceamento de defesa o julgamento da causa sem a produção de prova quando o tribunal de origem considerar substancialmente instruído o feito, declarando a existência de provas suficientes para seu convencimento. Rever tal conclusão acarreta a incidência da Súmula nº 7/STJ.
+3. Não se pode falar em julgamento extra petita, pois o órgão julgador não afrontou os limites objetivos da pretensão inicial, tampouco concedeu providência jurisdicional diversa da requerida, tendo sido respeitado o princípio da congruência.
+4. A circunstância de o autor haver formulado pedido certo não impede que o magistrado remeta as partes para a liquidação de sentença, se estiver diante de um quadro probatório insuficiente.
+5. O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa. Assim, afastando-se a incidência da Súmula nº 7/STJ, somente comporta revisão por este Tribunal quando irrisória ou exorbitante, o que não ocorreu na hipótese dos autos, em que arbitrado em R$ 15.000,00 (quinze mil reais).
+6. Agravo interno não provido.
+(AgInt no AREsp 889.302/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/09/2017, DJe 04/10/2017 - g.n.)
+No que se refere à alegação de que "A necessidade de assinatura atestada por duas testemunhas devidamente identificadas, representa requisito essencial à validade de contratos ainda mais em se tratando de pessoas idosas com mais de 80 (oitenta) anos de idade." (e-STJ fl. 144), verifica-se que não há, na fundamentação do recurso, a indicação adequada da questão federal controvertida, tendo deixado a parte agravante de apontar os dispositivos de lei federal tidos por violados, incidindo, na espécie, por analogia, o óbice da Súmula 284 do STF.
+É pacífico nesta Corte Superior o entendimento de que a ausência de indicação, no recurso especial, dos dispositivos de lei federal tidos por infringidos configura deficiência na fundamentação recursal, o que atrai o óbice constante da Súmula 284 do Supremo Tribunal Federal, por analogia.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE OFENSA AOS ARTS. 467, 471 E 475-L, V, DO CPC/1973 E DO ART. 170, § 1º, DA LEI 6.404/76 E DA SÚMULA 371/STJ. DIVIDENDOS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. VIOLAÇÃO DE ENUNCIADO DE SÚMULA. SÚMULA 284/STF. INCIDÊNCIA DA SÚMULA 518/STJ. VALOR PATRIMONIAL DA AÇÃO. DECISÃO TRANSITADA EM JULGADO. IMUTABILIDADE. AGRAVO NÃO PROVIDO.
+1. A ausência de indicação do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+2. "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518/STJ).
+3. Em respeito à coisa julgada, deve prevalecer o critério para cálculo do valor patrimonial das ações estabelecido no título exequendo. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 960.825/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/03/2017, DJe 07/04/2017) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ART. 535 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA. REEXAME DE FATOS. SÚMULA Nº 7/STJ. DISPOSITIVO LEGAL. VIOLAÇÃO. INDICAÇÃO. AUSÊNCIA. SÚMULA Nº 284/STF.
+1. Não viola o artigo 535 do Código de Processo Civil de 1973, nem importa negativa de prestação jurisdicional, o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Rever a conclusão do aresto impugnado encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+3. Se nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal.
+4. Agravo interno não provido.
+(AgInt no AREsp 968.409/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/02/2017, DJe 13/02/2017) - g.n.
+Assim sendo, o não conhecimento do recurso é medida que se impõe.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015.
+O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Com base em tais premissas, a título de honorários recursais, sendo fixada inicialmente verba honorária 12% (doze por cento) sobre o valor atualizado da execução (e-STJ fl. 121), a majoração dos honorários para 15% (quinze por cento) sobre o valor atualizado da execução é medida adequada à hipótese.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de MULTA por conduta processual indevida (art. 1.021, § 4º e art. 1.026, § 2º, do CPC/2015).
+Intimem-se.
