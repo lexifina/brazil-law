@@ -1,0 +1,65 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. INOVAÇÃO RECURSAL. DESCABIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA. LEI N. 8.666/1993. INAPLICABILIDADE. DISSÍDIO JURISPRUDENCIAL. DEMONSTRAÇÃO. INOCORRÊNCIA. .
+1.Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+2. Aplica-se o óbice da Súmula 284 do STF quando a alegação de ofensa do art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro.
+3. A inclusão de novo fundamento para a reforma do acórdão em sede de agravo interno configura inovação recursal, incabível em razão da preclusão consumativa.
+4. Rever o entendimento alcançado pela Corte de origem encontra óbice na Súmula 7 do STJ.
+5. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento, o que faz incidir o óbice da Súmula 282 do STF.
+6. Esta Corte tem o entendimento de que a Lei n. 8.666/1993 estabelece normas gerais sobre licitações e contratos administrativos, não se aplicando a concurso para provimento de cargos públicos efetivos. Incidência da Súmula 284 do STF.
+7. A eventual apreciação de recurso especial, fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional), mostra-se inviável quando não demonstrado o dissídio.
+8. Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por [NOME] contra a decisão de minha lavra na qual não conheci do recurso especial, tendo em vista a aplicação das Súmulas 284 do STF, 7 do STJ e 211 do STJ.
+Alega o agravante a persistência da omissão no exame de argumentos imprescindíveis para o deslinde da demanda. Afirma, também, que não é hipótese de aplicação das referidas súmulas.
+Por fim, aduz que "sequer interpôs o recurso especial sustentando a existência de dissídio jurisprudencial" (e-STJ fl. 405).
+Impugnação (e-STJ fls. 410/414).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. INOVAÇÃO RECURSAL. DESCABIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA. LEI N. 8.666/1993. INAPLICABILIDADE. DISSÍDIO JURISPRUDENCIAL. DEMONSTRAÇÃO. INOCORRÊNCIA. .
+1.Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+2. Aplica-se o óbice da Súmula 284 do STF quando a alegação de ofensa do art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro.
+3. A inclusão de novo fundamento para a reforma do acórdão em sede de agravo interno configura inovação recursal, incabível em razão da preclusão consumativa.
+4. Rever o entendimento alcançado pela Corte de origem encontra óbice na Súmula 7 do STJ.
+5. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento, o que faz incidir o óbice da Súmula 282 do STF.
+6. Esta Corte tem o entendimento de que a Lei n. 8.666/1993 estabelece normas gerais sobre licitações e contratos administrativos, não se aplicando a concurso para provimento de cargos públicos efetivos. Incidência da Súmula 284 do STF.
+7. A eventual apreciação de recurso especial, fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional), mostra-se inviável quando não demonstrado o dissídio.
+8. Agravo interno desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito o registro, da análise dos autos, verifica-se que não assiste razão à parte agravante.
+Conforme já consignado na decisão singular, é deficiente a fundamentação do recurso especial em que a alegação de ofensa do art. 1.022, II, do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF (AgRg no AREsp 719.983/PE, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 19/04/2016, DJe 26/04/2016, e AgRg no AREsp 811.706/PR, Rel. Ministra DIVA MALERBI (Desembargadora convocada TRF 3ª Região), Segunda Turma, julgado em 07/04/2016, DJe 15/04/2016).
+Nesse ponto, a parte, já em sede de agravo interno, tenta demostrar os eventuais pontos omissos no aresto prolatado pela Corte de origem (e-STJ fl. 400), o que configura inovação recursal, incabível em razão da preclusão consumativa.
+Quanto à possível violação dos 355, I, e 369 do CPC/2015 e do art. 5, § 1º, I, "a", do Decreto n. 5.296/2004, verifica-se que o aresto atacado assim decidiu (e-STJ fls. 327/328):
+No tocante ao enquadramento da doença apresentada pelo candidato para fins de preenchimento de vaga na qualidade de portador de necessidades especiais, nota-se que a comissão multidisciplinar designada pela Comissão do Concurso entendeu que "a limitação de movimento no 5º dedo da mão direita apresentada pelo candidato enquadra-se na exceção do inciso I do art. 4º, pois, a partir das características observadas pela equipe (laudo médico e análise funcional da mão), constatou-se que não produzem dificuldades para o desempenho de funções  .. " (fl. 191).
+Vê-se que os profissionais atestaram que a limitação de movimento do quinto dedo da mão direita do agravante não acarreta restrição funcional, não podendo ser considerado apto ao preenchimento da vaga destinada a portador de necessidades especiais.
+Ademais, colhe-se do parecer do Conselho Estadual dos Direitos da Pessoa com Deficiência - Conede/SC:
+ ..  perguntado se tinha contato prévio com arma de fogo (tendo em vista que as armas são inerente à pretendida profissão de Delegado de Polícia) o candidato respondeu que sim, complementando que a limitação do 5º dedo não implicava em qualquer óbice para o manuseio de armamento.Ora, se a limitação de movimento do dedo sequer restringe o manuseio de arma de fogo, o que dirá me relação ao restante das atribuições da carreira pretendida. Esse fato também pode ser contraposto às alegadas complicações pelo esforço repetitivo de escrever (atestado médico - fl. 121), sobretudo porque diante da facilidade do uso dos teclados dos computadores, tal argumento revela-se de extrema facilidade (tendinite não é deficiência física) (fls. 191-192).
+Como visto, não há motivo para se declarar a nulidade da sentença pelo cerceamento de defesa. Em nenhum momento se questiona a existência ou não da deficiência, então não faz sentido a realização de uma nova perícia. O que se depreende da situação analisada é que a anomalia física do apelante não está incluída dentre aquelas que se caracterizam como requisito para a disputa da vaga diferenciada.
+Acolhe-se a fundamentação da sentença como razão de decidir:
+Em momento algum o requerido alega que o autor não possui as deformidades por ele alegadas. A divergência reside em saber se esta deficiência é grave o suficiente para assegurar ao autor reserva de vaga em certame público.
+Dessa forma, o juízo a ser feito acerca da aplicabilidade de determinada norma ao caso concreto é eminentemente jurídico, sendo desnecessária a produção de prova pericial a esse respeito, especialmente quando o único objetivo do autor é obter uma segunda opinião quanto à classificação jurídica da deformidade que possui.
+Ou seja, a prova pericial não é cabível quando não haja controvérsia quanto à situação fática alegada pela parte autora. A deformidade que alega não é negada, e por isso não é preciso chamar ao processo perito para apenas conformar esse fato.
+Nesse contexto, infirmar as razões do acórdão atacado, a fim de acolher as teses defendidas pela parte recorrente, encontra óbice na Súmula 7 do STJ.
+Verifica-se que a tese - "o parecer de fls. 193/195, anexado à contestação do Estado de SC, aduzindo que a limitação do 5º dedo da mão direito do candidato se enquadrariam em exceção legal, foi subscrito dois meses após o ato de eliminação" (e-STJ fl. 361) - não foi objeto de debate e deliberação no Tribunal de origem, o que redunda em ausência de prequestionamento, aplicando-se ao caso a Súmula 211 do STJ.
+Relativamente ao art. 41 da Lei n. 8.666/1993, deve-se ressaltar que esta Corte entende que o diploma legal em questão e os referidos dispositivos estabelecem normas gerais sobre licitações e contratos administrativos, não se aplicando a concurso para provimento de cargos públicos efetivos, atraindo o óbice da súmula 284 do STF. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. LEI 8.666/1993. LEI DE LICITAÇÕES E CONTRATOS. IMPERTINÊNCIA TEMÁTICA. SÚMULA 284/STF.
+1. No tocante à suposta violação aos artigos 3º e 41 da Lei 8.666/1993, verifica-se que o dispositivo alude a licitações e contratos, de forma que não guarda pertinência com o caso em tela, que trata de concurso público, atraindo o óbice da Súmula 284/STF, segundo a qual "é inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Precedentes do STJ: AgRg no REsp 1.5274.17/CE, Rel. Ministra Assusete Magalhães, segunda turma, DJe 21/6/2016; AgRg no REsp 1.529.923/AC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/8/2015; AgInt no AgInt no AgInt no AREsp 850.934/CE, Rel.Ministro Herman Benjamin, Segunda Turma, DJe 8/11/2016.
+2. O Superior Tribunal de Justiça entende pela inaplicabilidade do art. 41 da Lei 8.666/1991 a concursos públicos.
+ ..
+(REsp 1.661.783/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/05/2017, DJe 16/06/2017).
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. JULGAMENTO EXTRA PETITA (SÚMULA 282/STF). LITISPENDÊNCIA (SÚMULAS 283/STF E 7/STJ). LEI 8.666/93. IMPERTINÊNCIA TEMÁTICA (SÚMULA 284/STF). ARESTO COM FUNDAMENTAÇÃO CONSTITUCIONAL. VIOLAÇÃO AO ART. 535 DO CPC (SUMULA 284/STF)
+ ..
+4. No mérito, é entendimento pacífico desta Corte de que "a Lei 8.666/93, que estabelece normas gerais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, não guarda pertinência com as questões envolvendo concursos para preenchimento de cargos públicos efetivos". (AgRg no REsp 1.292.947/MG, Rel.Ministra Assusete Magalhães, Segunda Turma, julgado em 16/02/2016, DJe 24/02/2016).
+ ..
+(AgRg no AREsp 327.109/PA, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/05/2016, DJe 19/05/2016).
+Por fim, embora a parte agravante afirma que não manejou o apelo nobre sustentando a existência de dissídio jurisprudencial, verifica-se que o recurso especial foi interposto com supedâneo no art. 105, III, "a" e "c", da Constituição Federal (e-STJ fl. 354).
+Diante disso, a eventual apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional) se mostra inviável, uma vez que a parte recorrente não demonstrou o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação. Nesse sentido: AgRg no REsp 1.558.877/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016; AgRg no AREsp 752.892/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
