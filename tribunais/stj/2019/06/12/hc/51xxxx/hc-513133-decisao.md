@@ -1,0 +1,18 @@
+DECISÃO
+FRANK RODRIGUES TEIXEIRA alega sofrer constrangimento ilegal diante de acórdão proferido Tribunal de Justiça do Estado do Pará no HC n. 0803269-86.2019.8.14.0000.
+Nesta Corte, a defesa sustenta que este mandamus deve ser distribuído por prevenção ao Ministro Sebastião Reis Júnior (fl. 3). A seguir, aduz: "a morosidade na instrução criminal que está longe de se findar configura um verdadeiro constrangimento ilegal ao paciente, uma vez que a instrução criminal (da denúncia até o presente momento) conta-se com 1944 dias, prazo totalmente desproporcional e não razoável, razão pela qual pugna-se pelo reconhecimento do direito do paciente aguardar o julgamento em liberdade" (fl. 12).
+Decido.
+Primeiramente, destaco que, embora a defesa haja apontado haver prevenção de outro ministro, verifiquei, em consulta ao sistema informatizado desta Corte Superior, que o HC 399.709/PA foi julgado em 3/10/2017, quando a Sexta Turma decidiu, por maioria, denegar a ordem, vencido o então relator Ministro Sebastião Reis Júnior. Na assentada, coube a mim, a relatoria do citado processo, nos termos do art. 71, § 2º, do Regimento Interno do Superior Tribunal de Justiça. Correta, pois, a distribuição por prevenção de ministro, ocorrida à fl. 50.
+Quanto ao alegado excesso de prazo, oportuno informar que a matéria não se esgota na simples conta aritmética dos prazos processuais penais, devendo ser analisada à luz do princípio da razoabilidade.
+O Tribunal de origem ressaltou o que segue:
+ ..
+Concernente o excesso de prazo na instrução processual, o juízo coator ao prestar as informações, à ID 1710917, se reporta que em audiência de instrução e julgamento realizada no dia 03/04/2019 que ".. determinou a solicitação de informações acerca de cartas precatórias expedidas para as Comarcas de Tucuruí/PA e Jacundá/PA, para oitiva de testemunhas, e remessa dos autos ao Ministério Público e à defesa, para apresentação de memoriais.".
+Logo, vê-se que a instrução processual já se encontra encerrada, não sendo possível qualquer alegação de excesso de prazo, a teor das Súmulas nº 52, do c. STJ e 01, do TJPA, in verbis:
+Súmula nº 52 do STJ - "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo";
+Súmula nº 01 do TJPA - "Resta superada a alegação de constrangimento ilegal por excesso de prazo, em face do encerramento da instrução criminal.".
+Importa, também ressaltar que, nas informações prestadas, o juízo relata que o paciente permaneceu foragido desde o cometimento do delito no dia 20/12/2013, sendo custodiado somente em 08/02/2019, comprometendo, assim, a instrução processual e sem qualquer desídia do Poder Judiciário (fl. 25, destaquei).
+Ao que se percebe dos autos, conforme consignado pelo Juízo de primeiro grau, o "acusado teve mandado de prisão expedido em seu desfavor desde 31/12/2013, ficando foragido até o dia 08/02/2019" (fl. 48), portanto, por mais de 5 anos. Ainda assim o processo prosseguiu, como se vê das cartas precatórias expedidas para oitiva de testemunhas. Além disso, a instrução processual já está encerrada, o que atrai a incidência da Súmula n. 52 desta Corte.
+Convém ressaltar o entendimento pacífico do STJ de que "não há excesso de prazo em caso de acusado foragido" (HC n. 494.306/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 3/5/2019).
+Logo, não se mostra razoável a alegação de demora na prestação jurisdicional quando: a) o réu ficou foragido por mais de 5 anos até ser capturado; b) em um processo com instrução processual já encerrada; c) encarcerado por período inferior a 4 meses, sob acusação do cometimento do crime de homicídio qualificado.
+À vista do exposto, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
