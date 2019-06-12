@@ -1,0 +1,55 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional, com base na alínea "a" do permissivo constitucional, contra acórdão assim ementado (e-STJ, fl. 400):
+TRIBUTÁRIO. FUNRURAL. EMPREGADOR RURAL PESSOA FÍSICA. ART. 25 DA LEI 8.212/1991, NA REDAÇÃO DADA PELA LEI 10.256/2001. STF (RE Nº 718.874). REPERCUSSÃO GERAL. CONSTITUCIONALIDADE.
+1. Relativamente à exigibilidade da exação prevista pelo art. 25 da Lei nº 8.212/91, com a redação dada pelo art. 1º da Lei nº 10.256/2001, O Supremo Tribunal Federal, no julgamento do RE nº 718.874, julgado sob o regime da repercussão geral, em 30-03-2017, fixou a seguinte tese: É constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/2001, incidente sobre a receita bruta obtida com a comercialização de sua produção.
+2. Desta forma, tem-se que, em face da modificação do art. 25 da Lei nº 8.212/91 pela Lei nº 10.256/01, a contribuição social do empregador rural pessoa física, incidente sobre a receita bruta obtida com a comercialização de sua produção, é validamente exigível
+Os embargos de declaração opostos foram rejeitados.
+A recorrente aponta a existência de violação do disposto nos arts. 20, §§ 3º e 4º, do CPC/1973 e 1.022 do CPC/2015.
+Aduz, em suma, que (e-STJ, fl. 431):
+ ..  este c. Superior Tribunal de Justiça (STJ) sedimentou a orientação de que sempre que o percentual de ônus sucumbencial for menor do que 1% do valor da causa, considera-se ínfima a condenação e deve ser reformada em grau recursal, até mesmo em sede de recurso especial, para ajustar-se aos critérios legais estabelecidos no art. 20, do CPC
+Requer, assim, a majoração dos honorários.
+É o relatório.
+Consta dos autos que a parte insurgente alega, no presente especial, a violação do art. 1.022, II, do CPC/2015.
+No entanto, a análise do recurso especial, nessa parte, denota que a recorrente não logrou êxito em demonstrar objetivamente os pontos omitidos pelo acórdão combatido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos.
+Tal circunstância atrai a incidência da Súmula 284/STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação o não permitir a exata compreensão da controvérsia."
+A propósito, os precedentes cujas ementas seguem abaixo transcritas:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA DE INDICAÇÃO CLARA E OBJETIVA DOS PONTOS SUPOSTAMENTE OMITIDOS. INCIDÊNCIA DA SÚMULA 284/STF. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO TERCEIRO. NÃO INDICAÇÃO CLARA E OBJETIVA DOS DISPOSITIVOS LEGAIS SUPOSTAMENTE VIOLADOS.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão incorreu em omissão, contradição ou obscuridade. Aplica-se à hipótese o óbice da Súmula 284 do STF. Precedentes: REsp 1.595.019/SE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 9/5/2017; AgInt no REsp 1.604.259/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/9/2016.
+2. A mera divagação sobre a tese recursal, com simples citação de alguns dispositivos legais, não supre a necessidade da indicação clara e objetiva dos normativos supostamente violados. Incidência da Súmula 284/STF. Precedentes: AgInt no AREsp 922.685/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/9/2016; EDcl no AREsp 127.113/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 21/3/2012; REsp 712.800/CE, Rel. Ministro Castro Meira, Segunda Turma, DJ 5/9/2005).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.631.747/RS, de minha relatoria, SEGUNDA TURMA, julgado em 3/8/2017, DJe 9/8/2017)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. MILITAR. INCAPACIDADE TEMPORÁRIA. LICENCIAMENTO. REINTEGRAÇÃO. TRATAMENTO DE SAÚDE. ADIDO. POSSIBILIDADE. SOLDO DO MESMO GRAU HIERÁRQUICO. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Não conheço da alegada violação do art. 1.022 do CPC/2015 (art. 535, II, do CPC/1973), porque as alegações que fundamentaram a pretensa ofensa são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros ou sobre os quais tenha ocorrido erro material, restando, assim, inviabilizada a exata compreensão da controvérsia, razão pela qual incide o óbice da Súmula 284 STF, segundo o qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não pemitir a exata compreensão da controvérsia".
+3. Com efeito, a alteração das conclusões adotadas pela instância ordinária, acerca da existência de incapacidade temporária do autor, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Por fim, no tocante ao recurso especial interposto com base na alínea "c" do permissivo constitucional, cumpre asseverar que, consoante jurisprudência do STJ, a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os julgados paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+5. Agravo Interno não provido.
+(AgInt nos EDcl no REsp 1.650.579/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/6/2017, DJe 30/6/2017)
+Com respeito à tese fundada no art. 20, §§ 3º e 4º, do CPC/1973, registro que o arbitramento dos honorários advocatícios pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, nos termos da Súmula 7/STJ.
+Nessa linha:
+PROCESSUAL CIVIL. VERBA HONORÁRIA FIXADA PELA EQUIDADE. JUÍZO DE VALOR FEITO NO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ.
+1. A jurisprudência do STJ é uníssona no sentido de que, sendo vencida a Fazenda Pública, os honorários serão fixados consoante apreciação equitativa do juiz, que considerará o grau de zelo profissional, o lugar da prestação do serviço, a natureza da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, consoante o disposto no art. 20, § 4º, do CPC, o qual se reporta às alíneas do § 3º e não a seu caput.
+2. Os honorários advocatícios são passíveis de modificação na instância especial tão somente quando se mostrarem irrisórios ou exorbitantes, o que não ocorre na hipótese em apreço. A fixação da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, ante o óbice da Súmula 7.
+Agravo regimental improvido.
+(AgRg no REsp 1.511.018/SP, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, DJe 19/6/2015)
+Contudo, o Superior Tribunal de Justiça firmou entendimento de que é possível a adequação do valor quando a condenação demonstrar-se irrisória ou exorbitante.
+A propósito:
+PROCESSO CIVIL. EXECUÇÃO FISCAL. HONORÁRIOS DE ADVOGADO.
+No âmbito do recurso especial, o valor arbitrado a título de honorários de advogado só pode ser revisado se for excessivo ou irrisório; espécie em que verba honorária foi fixada em quantia exorbitante.
+Recurso especial conhecido e provido em parte.
+(REsp 1.318.867/BA, Rel. Min. ARI PARGENDLER, DJe 19/12/2013)
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. DIVERGÊNCIA NÃO DEMONSTRADA. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula 7/STJ.
+2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar a reavaliação, em recurso especial, da verba indenizatória fixada.
+3. O STJ firmou entendimento no sentido de ser incabível a reanálise do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios conducentes à fixação do quantum indenizatório.
+4. Agravo regimental a que nega provimento.
+(AgRg no AREsp 397.251/SP, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 3/2/2014)
+Na hipótese, o aresto impugnado, ao fixar o valor dos honorários fixados, descreve o seguinte contexto (e-STJ, fl. 399):
+Tendo em vista a sua sucumbência, condeno a parte autora nas custas processuais e verba honorária, a qual fixo no montante de R$ 1.000,00, atualizado pelo IPCA-E, em atenção às diretrizes contidas no art. 20, §§ 3º e 4º, do CPC, tendo em vista a natureza da causa, a sua baixa complexidade, bem como a qualidade do autor, que exerce a atividade de agricultor.
+O quadro fático estabelecido demonstra que a cifra definida nessa ação foi fundamentada nas circunstâncias da causa, de modo que não é concebível qualquer juízo quanto à correção ou não da condenação em honorários advocatícios sem nova análise dos fatos constantes dos autos.
+Essa providência, bem se sabe, é inadmissível em recurso especial, na forma do já mencionado Verbete Sumular n. 7 do Superior Tribunal de Justiça.
+Quanto ao mais, destaca-se que, muito embora esta Corte Superior possua precedentes que consideraram irrisórios honorários advocatícios fixados em percentual inferior a 1% do valor da causa, tais precedentes não estabeleceram um limite objetivo sobre o tema que devem continuar sendo analisados caso a caso.
+A Corte Especial, em julgado recente (EREsp 1.527.430/SC, acórdão por mim lavrado, DJe 17/4/2018), decidiu pela não adoção de um parâmetro objetivo para aferição da irrisoriedade dos honorários sucumbenciais, afastando o pleito de que fosse fixada referida verba em 1% do valor da causa.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
