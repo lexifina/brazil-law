@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado pelo FAZENDA DO ESTADO DE SÃO PAULO, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Embargos de Declaração. Alegação de omissão. Finalidade exclusivamente infringente. Rejeição, com imposição de multa.
+Alega violação do art. 1.026, § 2º, do CPC, no que concerne à exclusão da multa aplicada em desfavor da Fazenda Pública tendo em vista a ausência de qualquer intuito protelatório dos embargos de declaração, trazendo o(s) seguinte(s) argumento(s):
+DA AFRONTA AO ART. 1.026, §22, DO CPC. DA INEXISTÊNCIA DE CARÁTER PROTELATÓRIO NOS EMBARGOS DE DECLARAÇÃO OPOSTOS PELA FAZENDA PÚBLICA. DA NECESSIDADE DE REFORMA DO ACÓRDÃO QUE APLICOU A MULTA (fls. 184).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto ao caráter protelatório dos embargos de declaração exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que: "In casu, rever o entendimento do Tribunal de origem, que aplicou a pena de multa prevista no art. 538, parágrafo único, do Código de Processo Civil, por considerar os embargos protelatórios, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ" (AgRg no AREsp n. 368.054/ES, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/3/2015).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.381.439/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 9/4/2019; REsp n. 1.718.897/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019; AgInt nos EDcl no AREsp n. 1.138.645/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 23/3/2018; AgRg no REsp n. 1.192.745/PE, relator Ministro Og Fernandes, Sexta Turma, DJe de 21/3/2011.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
