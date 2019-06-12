@@ -1,0 +1,18 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. GRATIFICAÇÃO. VPNI. OFENSA AO ART. 535 DO CPC/1973 CARACTERIZADA. RETORNO DOS AUTOS À ORIGEM. RECURSO ESPECIAL DO INSTITUTO NACIONAL DO SEGURO SOCIAL PARCIALMENTE PROVIDO.
+1. Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3a. Região, assim ementado:
+AGRAVO REGIMENTAL. JULGAMENTO POR DECISÃO MONOCRÁTICA. ART. 557, CAPUT DO CPC. GRATIFICAÇÃO DEIXOU DE SER INCORPORADA NOS PERCENTUAIS PAGOS ATÉ MAIO DE 1990 E QUE NÃO FORAM REINCORPORADOS POSTERIORMENTE, CONFORME PREVISÃO LEGAL. IMPROVIMENTO.
+1. A decisão monocrática ora vergastada foi proferida segundo as atribuições conferidas Relator do recurso pela Lei nº 9.756/98, que deu nova redação ao artigo 557 do Código de Processo Civil, ampliando seus poderes para não só para indeferir o processamento de qualquer recurso (juízo de admissibilidade - caput), como para dar provimento a recurso quando a decisão se fizer em confronto com a jurisprudência dos Tribunais Superiores (juízo de mérito - § 1º-A). Não é inconstitucional o dispositivo.
+2. A questão colocada nos autos, é que a gratificação deixou de ser incorporada nos percentuais pagos até maio de 1990 e que não foram reincorporados posteriormente, conforme previsão legal.
+Não há qualquer óbice que a gratificação seja posta como vantagem pessoal nominalmente identifica, desde que fixada conforme a lei de regência.
+3. O recurso ora interposto, portanto, não tem em seu conteúdo razões que impugnem com suficiência a motivação exposta na decisão monocrática.
+4. Agravo Regimental improvido (fls. 370/371).
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Nas razões do Recurso Especial, alega a parte recorrente ofensa aos arts. 535, II, 267, VI do CPC/1973; 11 da Lei 8.422/1992; e 2o., § 4o. da Lei 7.923/1989, argumentando, em síntese: a) omissão no acórdão recorrido; b) a ilegitimidade superveniente do INSS, tendo em vista que eventual obrigação financeira decorrente do presente processo, desde a edição da Lei 8.422/1992, é de responsabilidade da União; e c) o recorrido não faz jus à percepção da complementação pleiteada, pois tal parcela vinha sendo recebida sob a rubrica de VPNI e foi incorporada à sua remuneração, sem redução.
+4. É o relatório do essencial.
+5. Da análise dos autos, verifica-se que não foram apreciadas pela Corte de origem as questões suscitadas nos Embargos de Declaração, motivo pelo qual merece prosperar o Recurso Especial por violação do art. 535, II do CPC/1973.
+6. Com efeito, nos Embargos de Declaração foi expressamente solicitada a manifestação do Colegiado acerca da ilegitimidade superveniente do INSS e do argumento de que a complementação pleiteada vinha sendo recebida sob a rubrica de VPNI e foi incorporada à remuneração.
+7. Entretanto, o Tribunal de origem entendeu que os Embargos de Declaração opostos pretendiam o reexame do Acórdão Recorrido, não havendo esclarecimento quanto aos pontos omissos, persistindo a irregularidade apontada.
+8. Assim, tendo o acórdão recorrido permanecido omisso, resta caracterizada a violação do art. 535 do CPC/1973, devendo ser anulado o acórdão proferido nos Embargos de Declaração, determinando-se o retorno dos autos ao Tribunal de origem para que analise as questões suscitadas.
+9. Ante o exposto, dá-se parcial provimento ao Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, a fim de anular o acórdão proferido nos Embargos de Declaração, determinando o retorno dos autos ao Tribunal de origem para sanar os vícios acima expostos.
+10. Publique-se. Intimações necessárias.
