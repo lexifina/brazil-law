@@ -1,0 +1,49 @@
+DECISÃO
+Vistos.
+Trata-se de Pedido de Uniformização de Interpretação de Lei apresentado por [NOME], contra acórdão prolatado pela Turma Nacional de Uniformização dos Juizados Especiais Federais, assim ementado (fls. 20/26e):
+PREVIDENCIÁRIO. PENSÃO POR MORTE. IRREGULARIDADE. REVOGAÇÃO. DECADÊNCIA. NÃO CONFIGURADA. ART. 103-A DA LEI Nº 8.213/1991. APLICAÇÃO. CONHECIMENTO E PARCIAL PROVIMENTO.
+Opostos embargos de declaração, foram rejeitados (fls. 27/29e).
+A Requerente alega, em síntese, que a decisão vergastada não observa a jurisprudência consolidada, no tocante "à aplicação do princípio da segurança jurídica, consagrado pela Lei 9.784/99, em seu art. 2º, caput, (..)" (fl. 70e).
+Feito breve relato, decido.
+De início, sublinhe-se que, nos termos do art. 34, XVIII, a, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso ou pedido inadmissível, prejudicado ou daquele que não tiver impugnado especificamente todos fundamentos da decisão recorrida.
+Vale destacar, ademais, que a competência desta Corte para apreciar pedido de uniformização de interpretação de lei federal decorre do art. 14, § 4º, da Lei n. 10.259/2001, in verbis:
+Art. 14. Caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei.
+(..)
+§ 4º Quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça - STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+Nesse contexto, o incidente de uniformização dirigido a esta Corte Superior é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ, exigindo-se a demonstração da divergência mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre eles, nos moldes exigidos pelos arts. 255, § 1º, do RISTJ, aplicável, por analogia, conforme espelham os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA DOS JUIZADOS ESPECIAIS. REDISCUSSÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. DIVERGÊNCIA NÃO DEMONSTRADA.
+(..)
+2. Nos termos do art. 14, caput, e § 4º, da Lei n. 10.259/2001, "caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei".
+3. O requerimento de uniformização dirigido ao Superior Tribunal de Justiça pressupõe o acolhimento da matéria de direito material em confronto com a jurisprudência desta Corte, o que não é o caso dos autos.
+4. Inviável o conhecimento de incidente de uniformização "quando inexistir o cotejo das teses em discordância nos moldes descritos nos arts. 541 do Código de Processo Civil e 255 do Regimento Interno do Superior Tribunal de Justiça - RISTJ, os quais são aplicáveis à hipótese, por analogia" (AgRg na Pet 7.681/SC, Rel. Min. Jorge Mussi, Terceira Seção, julgado em 24.3.2010, DJe 5.4.2010).
+Incidente de uniformização não conhecido.
+(Pet 9.554/SP, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, julgado em 13/03/2013, DJe 21/03/2013).
+PROCESSUAL CIVIL. INCIDENTE ORIUNDO DA TURMA NACIONAL DE UNIFORMIZAÇÃO. DIVERGÊNCIA NÃO DEMONSTRADA. ARTS. 541 DO CPC E ART. 255 DO RISTJ. APLICAÇÃO ANALÓGICA.
+1. Não se conhece de incidente de uniformização quando inexistir o cotejo das teses em discordância nos moldes descritos nos arts. 541 do Código de Processo Civil e 255 do Regimento Interno do Superior Tribunal de Justiça - RISTJ, os quais são aplicáveis à hipótese, por analogia.
+2. Agravo regimental improvido.
+(AgRg na Pet 7681/SC, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 24/03/2010, DJe 05/04/2010).
+No caso, observo que a parte autora não comprovou devidamente a existência de dissídio interpretativo, porquanto as decisões confrontadas tratam de regimes de previdência distintos.
+Com efeito, a autora apontou julgados desta Corte Superior nos quais a controvérsia envolvia o regime de previdência próprio dos servidores públicos, ao passo que busca o restabelecimento de benefício de pensão por morte do regime geral de previdência social, cancelado pelo INSS por ausência de comprovação da dependência econômica em relação ao instituidor.
+Ademais, no único precedente apontado em que a controvérsia envolvia o regime geral de previdência (AgRg no REsp n. 831.224/RS, DJ 19.11.2007), não restou ultrapassada a barreira da admissibilidade recursal, por força do óbice constante da Súmula n. 7 desta Corte, circunstância que também afasta a similitude fática necessária à admissão do pedido.
+Na mesma linha:
+PROCESSUAL CIVIL. PEDIDO UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIREITO MATERIAL. AUSÊNCIA. DESCABIMENTO. INTERPOSIÇÃO SIMULTÂNEA DE DOIS RECURSOS CONTRA O MESMO JULGADO. PRECLUSÃO CONSUMATIVA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A teor do disposto no art. 14, § 4º, da Lei n. 10.259/2001, caberá pedido de uniformização de interpretação de lei federal, dirigido a esta Corte, quando a orientação acolhida pela Turma Nacional, em questões de direito material, contrariar súmula ou jurisprudência dominante do Superior Tribunal de Justiça.
+3. Hipótese em que o pedido de uniformização de jurisprudência não foi conhecido pela TNU por fundamento de natureza processual (ausência de similitude fática - Questão de Ordem 22 da TNU). 4. Por força do princípio da unirrecorribilidade e da preclusão consumativa, não merece ser conhecida a segunda peça de agravo interno, de idêntico teor e formulada contra a mesma decisão.
+5. Agravo interno desprovido. Segundo agravo da parte autora não conhecido.
+(AgInt na Pet 11.303/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 11/04/2018, DJe 15/05/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI DIRIGIDO AO SUPERIOR TRIBUNAL DE JUSTIÇA. ART. 18, § 3º, DA LEI 12.153/2009. AUSÊNCIA DE SIMILITUDE ENTRE OS CASOS CONFRONTADOS.
+1. Não se conhece do pedido de uniformização de interpretação de lei, previsto no art. 18, § 3º, da Lei 12.153/2009, quando não há similitude fático-jurídica entre os acórdãos confrontados.
+2. No caso, constou do aresto paradigma que: "Ao não terem sido apresentadas contrarrazões ao recurso pela parte embargada (fl. 74), não se mostra cabível a condenação ao pagamento de honorários de sucumbência". Contudo, o acórdão impugnado não trata dessa moldura fática (existência ou não de contrarrazões), razão pela qual não há falar em similitude entre os acórdãos confrontados.
+3. Agravo interno não provido.
+(AgInt no PUIL 33/RO, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 21/09/2016).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ART. 18, § 3º, DA LEI 12.153/2009. RAZOABILIDADE NA FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE DIVERGÊNCIA, ENTRE AS TURMAS RECURSAIS, QUANTO À QUESTÃO DE DIREITO MATERIAL. INEXISTÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS JULGADOS CONFRONTADOS. NÃO CABIMENTO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão publicada em 16/05/2016, que não conheceu do presente Pedido de Uniformização de Interpretação de Lei.
+II. Cuida-se de incidente de Uniformização de Interpretação de Lei, com fundamento no art. 18, § 3º, da Lei 12.153/2009, requerido pelo agravante, contra acórdão da Turma Recursal do Estado de Rondônia, ao fundamento de divergência jurisprudencial, quanto à fixação de honorários de advogado, em relação à Turma Recursal do Distrito Federal.
+III. Nos termos do art. 18, § 3º, da Lei 12.153/2009 e da jurisprudência do Superior Tribunal de Justiça, o incidente de Uniformização de Interpretação de Lei somente é cabível quando há divergência, entre Turmas Recursais, sobre questões de direito material, o que não ocorre, in casu. Nesse sentido: STJ, AgInt no PUIL 8/RO, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, DJe de 30/06/2016.
+IV. Consoante a jurisprudência da Primeira Seção do STJ, em caso idêntico, "não se conhece do pedido de uniformização de interpretação de lei, previsto no art. 18, § 3º, da Lei 12.153/2009, quando não há similitude fático-jurídica entre os acórdãos confrontados" (STJ, AgInt no PUIL 33/RO, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 21/09/2016). No caso, os acórdãos paradigmas, proferidos pela Turma Recursal do Distrito Federal, consignaram que "não tendo sido apresentadas contrarrazões ao recurso pela parte agravada (..), não se mostra cabível a condenação ao pagamento de honorários de sucumbência". O acórdão impugnado, porém, não trata dessa moldura fática (existência ou não de contrarrazões), pelo que inexiste similitude fático-jurídica entre os acórdãos confrontados.
+V. Agravo interno improvido.
+(AgInt no PUIL 44/RO, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 23/11/2016, DJe 29/11/2016).
+Posto isso, com fundamento no art. 34, XVIII, a, do RISTJ, NÃO CONHEÇO do Pedido de Uniformização de Interpretação de Lei.
+Publique-se. Intimem-se.
+Após o trânsito em julgado, arquivem-se os autos.
