@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO EM AÇÃO DE REPARAÇÃO DE DANOS. ACIDENTE DE TRÂNSITO. ILEGITIMIDADE ATIVA RECONHECIDA PELA CORTE ESTADUAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 122):
+AGRAVO DE INSTRUMENTO - AÇÃO DE REPARAÇÃO DE DANOS ADVINDOS DE ACIDENTE DE VEÍCULO - COAUTOR QUE FOI EXCLUÍDO DA LIDE POR ILEGITIMIDADE - DECISÃO CORRETA, JÁ QUE A PROPRIETÁRIA DO VEÍCULO ERA SUA EX-MULHER - DECISÃO QUE DEVE SER MANTIDA.
+Agravo de instrumento improvido.
+Nas razões de seu recurso especial, a parte recorrente sustenta vulneração ao art. 18 do CPC. Assevera que "restou demonstrado a legitimidade do Recorrente, que uma vez excluído da lide acarretará locupletamento ilícito de outros, vez que este foi que suportou os danos descritos na inicial em conjunto com a primeira Requerente, posto que é fato notório inclusive asseverado no v. Acórdão que o condutor à época do acidente foi o Recorrente e há provas nesse sentido" (e-STJ fl. 142). Defende que a proprietária não pode ser ressarcida por gastos suportados pelo recorrente.
+Não foram apresentadas contrarrazões (e-STJ fl. 319).
+É o relatório. Passo a decidir.
+A irresignação não merece prosperar.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+Com efeito, não se verifica presente o prequestionamento da matéria relativa ao art. 18 do CPC/2015, porquanto não apreciada pelo julgado recorrido, revelando inclusive razões dissociadas do acórdão, sendo inviável o seu conhecimento nesta sede, nos termos das Súmulas 282 e 356/STF.
+Por outro lado, o Tribunal de Justiça de São Paulo, manteve a decisão agravada ao fundamento de que o recorrente é mesmo parte ilegítima ativa para figurar como coautor da demanda, pois não é coproprietário do veículo e os documentos acostados não comprovam que ele próprio tivesse algum gasto a ser reparado. Eis o voto (e-STJ fl. 122-124):
+Trata-se de agravo de instrumento extraído de ação de reparação de danos, interposto contra a decisão de fls. 18/20, do seguinte teor:
+"Acolho a preliminar para reconhecer a ilegitimidade ativa de [NOME], porque este não é coproprietário do veículo.
+A responsabilidade da ré, em tese, limita-se à reparação dos danos diretos suportados exclusivamente pela proprietária do veículo, a coautora [NOME] [NOME], seja pelo custo do conserto (no caso, apenas a franquia) seja por despesa por não poder dispor do bem ao trabalho próprio (o que também se admite, por ora, apenas em tese). Por outro lado, se ela não alugava, portanto, não obtinha renda, e apenas emprestava o veículo ao ex-marido para uso gracioso, não suportou prejuízo nesta parte passível de reparos pelas rés. 1.1) Portanto, excluo [NOME] [NOME] [NOME] do pólo ativo da ação, com fundamento no artigo 485, VI, do Código de Processo Civil. 1.2) Retifiquem-se os registros. 2) Estão presentes as condições da ação. Não há irregularidades nem nulidades processuais.
+Portanto, declaro saneado o processo. 3) Defiro as provas orais requeridas e designo audiência de instrução e julgamento para o dia 26 de abril de 2017, às 15h00. 3.1) As partes ficam advertidas de que, no prazo de 10 dias, a contar da intimação deste despacho, poderão arrolar as testemunhas e deverão recolher as diligências necessárias (ou taxa postal), -- também para intimação da parte adversa se houver requerimento de depoimento pessoal, -- sob pena de preclusão dessa prova. O beneficiário da assistência judiciária gratuita fica dispensado da antecipação das diligências. Intimem-se."
+Sustenta o agravante que, para comprovar sua legitimidade, basta que se verifique o teor dos documentos que acompanham a inicial, dentre eles o Boletim de Ocorrência, os e-mails trocados entre as partes e as notas fiscais quitadas; que o magistrado não observou que há gastos originados do acidente de trânsito; que o veículo envolvido no acidente, embora não estivesse registrado em seu nome, era usado por ele; que existe prova documental que mostra a sua necessidade de ser indenizado, independentemente de ser ou não o proprietário do veículo; que foi casado com a coautora [NOME] e, apesar de ter dela se divorciado, ambos desempenham atividades empresariais em conjunto, valendo-se do veículo para essa finalidade.
+Pela decisão de fls. 92, foi concedido o efeito suspensivo pleiteado no recurso, que é tempestivo e foi preparado. Houve resposta (fls. 96/108 e 110/117). A agravada Nobre Seguradora do Brasil S/A formulou, em sua contraminuta, pedidos de concessão de justiça gratuita, suspensão do processo, exclusão de juros de mora, correção monetária e cláusulas penais e levantamento de eventuais penhoras, arrestos e quaisquer outras medidas de apreensão ou reserva de bens porventura existentes nos autos.
+É o relatório.
+Já de início cabe observar que os pedidos formulados pela Nobre Seguradora não têm relação com a decisão agravada e devem ser dirigidos ao magistrado de 1º grau. A pretensão da requerente foge ao conteúdo do que está sendo trazido ao recurso, para discussão, além de não ser condizente com o momento processual.
+Quanto ao agravo, não merece prosperar.
+Diversamente do que foi alegado pelo agravante, os documentos acostados à inicial não comprovam sua legitimidade para o feito.
+O Boletim de Ocorrência mostra que o agravante estava conduzindo o veículo no momento do acidente, o que não faz prova de que ele próprio tenha tido gastos que pudessem ser reparados.
+A troca de e-mails entre o agravante e a seguradora mostra apenas que ele veio tentando fazer a negociação para pagamento da indenização, mas não que ele próprio tivesse algum gasto a ser reparado.
+E quanto aos recibos de táxi, embora comprovem gastos em nome do agravante, não podem ser usados como prova de legitimidade. É que o fato de [NOME], ex-mulher do agravante e proprietária do veículo, o emprestar para que ele o usasse não torna possível que ele requeresse o reembolso por despesas relacionadas à impossibilidade de utilização.
+Em outras palavras, não é porque alguém usa emprestado um veículo que adquire o direito de obter de terceiro o reembolso por gastos que teve ao deixar de usá-lo. E isso vale inclusive para a hipótese de ex-marido e ex-mulher ou de pessoas que trabalham juntas num mesmo empreendimento.
+Assim, o agravante é mesmo parte ilegítima para o processo, de modo que a decisão recorrida merece subsistir, ficando sem efeito a suspensividade concedida
+Dessa forma, elidir as conclusões do aresto impugnado quanto ilegitimidade ativa da recorrente demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. TESE DE ILEGITIMIDADE ATIVA DO AGRAVANTE RECONHECIDA PELO TRIBUNAL A QUO. REANÁLISE DA MATÉRIA. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu pela ilegitimidade ativa do recorrente, tendo em vista que este não comprovou ser o proprietário do automóvel objeto da lide. A alteração de tal conclusão demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra vedação na Súmula 7 do Superior Tribunal de Justiça.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1232090/GO, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 03/05/2018, DJe 09/05/2018)
+PROCESSUAL. ADMINISTRATIVO. DANOS MORAIS. LEGITIMIDADE ATIVA NEGADA PELO TRIBUNAL A QUO. REVISÃO SÚMULA 07/STJ.
+1. O Tribunal de origem concluiu que a prova documental acostada evidencia a manifesta ilegitimidade do autor, tendo em vista não ser o dono do veículo em tela, mas sócio-proprietário da empresa onde o veículo foi deixado em consignação.
+2. A revisão do aresto impugnado, no sentido de reconhecer o agravante como proprietário do veículo em questão, demanda enveredar pela seara fático-probatória dos autos, o que é vedado na via especial, sob pena de ofensa à Sumula 07/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo regimental não provido.
+(AgRg no Ag 1402759/PR, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 09/08/2011, DJe 30/08/2011)
+Destarte, inviável a pretensão da recorrente.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço o agravo para, desde logo, não conhecer o recurso especial.
+Intimem-se.
