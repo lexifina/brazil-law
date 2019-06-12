@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo Interno contra decisão que deu provimento ao Recurso Especial interposto por [NOME] (fls. 382-383, e-STJ).
+O INSS, ora insurgente, em breve síntese, alega que o STJ possui julgados recentes (REsps 1.590.327/PR, 1.590.282/RS, 1.590.408/SC) reconhecendo a decadência em casos idênticos ao do presente processo e defende a aplicação do art. 103, caput, da Lei 8.213/1991.
+Pugna pela reconsideração da decisão agravada ou provimento, pelo colegiado, do Agravo Interno.
+Sem impugnação.
+É o relatório.
+Decido.
+Assiste razão ao INSS.
+Na hipótese dos autos, o Tribunal de origem entendeu que o direito do autor estaria fulminado pela decadência prevista no art. 103 da Lei 8.213/91, pois teria ocorrido mais de 10 anos entre o início do prazo decadencial e o ajuizamento da ação.
+A Primeira Seção do Superior Tribunal de Justiça, nos autos do Recurso Especial 1.612.818/PR e do Recurso Especial 1.631.021/PR, ao enfrentar o tema ora em debate sob o rito dos recursos repetitivos, decidiu, por maioria de votos, que o reconhecimento do direito adquirido ao benefício previdenciário mais vantajoso se equipara ao ato de revisão de benefício, e, por isso, está submetido ao prazo decadencial decenal.
+Confiram-se as ementas dos representativos da controvérsia:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. RECONHECIMENTO DO DIREITO ADQUIRIDO AO BENEFÍCIO MAIS VANTAJOSO. EQUIPARAÇÃO AO ATO DE REVISÃO. INCIDÊNCIA DO PRAZO DECADENCIAL. ARTIGO 103 CAPUT DA LEI 8.213/1991. TEMA 966. RECURSO ESPECIAL NÃO PROVIDO.
+ 1. Cinge-se a controvérsia em saber se o prazo decadencial do caput do artigo 103 da Lei 8.213/1991 é aplicável aos casos de requerimento a um benefício previdenciário mais vantajoso, cujo direito fora adquirido em data anterior à implementação do benefício previdenciário ora em manutenção.
+2. Em razão da natureza do direito tutelado ser potestativo, o prazo de dez anos para se revisar o ato de concessão é decadencial.
+3. No âmbito da previdência social, é assegurado o direito adquirido sempre que, preenchidos os requisitos para o gozo de determinado benefício, lei posterior o revogue, estabeleça requisitos mais rigorosos para a sua concessão ou, ainda, imponha critérios de cálculo menos favoráveis ao segurado.
+4. O direito ao beneficio mais vantajoso, incorporado ao patrimônio jurídico do trabalhador segurado, deve ser exercido por seu titular nos dez anos previstos no caput do artigo 103 da Lei 8.213/1991. Decorrido o decênio legal, acarretará a caducidade do próprio direito. O direito pode ser exercido nas melhores condições em que foi adquirido, no prazo previsto no caput do artigo 103 da Lei 8. 213/1991.
+5. O reconhecimento do direito adquirido ao benefício mais vantajoso equipara-se ao ato revisional e, por isso, está submetido ao regramento legal. Importante resguardar, além da segurança jurídica das relações firmadas com a previdência social, o equilíbrio financeiro e atuarial do sistema previdenciário.
+ 6. Tese delimitada em sede de representativo da controvérsia: sob a exegese do caput do artigo 103 da Lei 8.213/1991, incide o prazo decadencial para reconhecimento do direito adquirido ao benefício previdenciário mais vantajoso.
+7. Recurso especial do segurado conhecido e não provido. Observância dos artigos 1.036 a 1.041 do CPC/2015. (REsp 1.612.818/PR, PRIMEIRA SEÇÃO, Relator Ministro MAURO CAMPBELL MARQUES, DJe 13/3/2019).
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. RECONHECIMENTO DO DIREITO ADQUIRIDO AO BENEFÍCIO MAIS VANTAJOSO. EQUIPARAÇÃO AO ATO DE REVISÃO. INCIDÊNCIA DO PRAZO DECADENCIAL. ARTIGO 103 CAPUT DA LEI 8.213/1991. TEMA 966. RECURSO ESPECIAL NÃO PROVIDO.
+1. Cinge-se a controvérsia em saber se o prazo decadencial do caput do artigo 103 da Lei 8.213/1991 é aplicável aos casos de requerimento de um benefício previdenciário mais vantajoso, cujo direito fora adquirido em data anterior à implementação do benefício previdenciário ora em manutenção.
+2. Em razão da natureza do direito tutelado ser potestativo, o prazo de dez anos para se revisar o ato de concessão é decadencial.
+3. No âmbito da previdência social, é assegurado o direito adquirido sempre que, preenchidos os requisitos para o gozo de determinado benefício, lei posterior o revogue, estabeleça requisitos mais rigorosos para a sua concessão ou, ainda, imponha critérios de cálculo menos favoráveis ao segurado.
+4. O direito ao beneficio mais vantajoso, incorporado ao patrimônio jurídico do trabalhador segurado, deve ser exercido por seu titular nos dez anos previstos no caput do artigo 103 da Lei 8.213/1991. Decorrido o decênio legal, acarretará a caducidade do próprio direito. O direito pode ser exercido nas melhores condições em que foi adquirido, no prazo previsto no caput do artigo 103 da Lei 8. 213/1991.
+5. O reconhecimento do direito adquirido ao benefício mais vantajoso equipara-se ao ato revisional e, por isso, está submetido ao regramento legal. Importante resguardar, além da segurança jurídica das relações firmadas com a previdência social, o equilíbrio financeiro e atuarial do sistema previdenciário.
+6. Tese delimitada em sede de representativo da controvérsia: sob a exegese do caput do artigo 103 da Lei 8.213/1991, incide o prazo decadencial para reconhecimento do direito adquirido ao benefício previdenciário mais vantajoso.
+7. Recurso especial do segurado conhecido e não provido. Observância dos artigos 1.036 a 1.041 do CPC/2015. (REsp 1.631.021/PR, PRIMEIRA SEÇÃO, Relator Ministro MAURO CAMPBELL MARQUES, DJe 13/3/2019).
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+Por fim, havendo prévia fixação de honorários de advogado pelas instâncias de origem, é possível sua majoração em desfavor da parte recorrente, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Diante da argumentação trazida no recurso, dou provimento ao Agravo Interno para reconsiderar a decisão agravada e negar provimento ao Recurso Especial de [NOME]. Honorários advocatícios majorados no importe de 10% (dez por cento) do valor já arbitrado.
+Publique-se.
+Intimem-se.
