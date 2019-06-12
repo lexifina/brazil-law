@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME] contra o acórdão do Tribunal de Justiça do Piauí, que denegou o Habeas Corpus n. 07020701020198180000 (fl. 265):
+PROCESSO PENAL - HABEAS CORPUS - TRÁFICO DE DROGAS - AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PREVENTIVO - INOCORRÊNCIA - DECISÃO FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO - ORDEM CONHECIDA, PORÉM, DENEGADA - DECISÃO UNÂNIME.
+1. Havendo prova da existência do delito e indícios suficientes de autoria, poderá ser decretada a prisão preventiva como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal, e desde que o magistrado aponte fatos que justifiquem a necessidade da medida extrema, sob pena de nulidade da decisão proferida;
+2.Na hipótese, partindo-se da premissa de que há prova da materialidade do delito e indícios suficientes de autoria (art. 312, caput do CPP), verifico que agiu acertadamente o magistrado a quo ao decretar a prisão preventiva com fundamento na garantia da ordem pública, em razão da gravidade concreta do crime e periculosidade do paciente, demonstrada pelo modus operandi, uma vez que fora apreendido com 47 (quarenta e sete) trouxinhas aparentando ser cocaína, envoltas em plástico de cor verde, 28 (vinte e oito) trouxinhas aparentando ser cocaína, envoltas em plástico transparente e 05 (cinco) porções grandes, também aparentando ser cocaína, envoltas em plástico transparente, além da importância de RS 7.044,00 (sete mil e quarenta e quatro reais) em espécie. Precedentes;
+3. Ordem conhecida, porém, denegada, à unanimidade.
+Verifica-se dos autos que o recorrente foi preso preventivamente pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006.
+Alega o recorrente, em síntese, que não há nenhuma justificativa para a manutenção da prisão cautelar, decretada com base em fundamentação genérica e abstrata.
+Requer a revogação da prisão preventiva.
+A liminar foi deferida a fim de garantir ao recorrente o direito de responder ao processo em liberdade, salvo se por outro motivo estivesse preso, ressalvada a possibilidade de haver nova decretação de prisão ou a aplicação das medidas cautelares previstas no art. 319 do Código de Processo Penal, caso se apresente motivo concreto para tanto (fls. 319/320).
+Às fls. 334/348, informa o recorrente que a medida liminar não chegou a ser efetivada, tendo em vista que, em 28/5/2019, foi proferida sentença condenatória, negando-se ao ora recorrente o direito de recorrer em liberdade. Afirma que a nova determinação de prisão não apontou fundamentos novos, razão pela qual requer o cumprimento da ordem liminar e o regular processamento do presente recurso ordinário.
+É o relatório.
+Sucede que o pedido perdeu o objeto.
+O próprio recorrente juntou aos autos a cópia da sentença, condenando-o à pena de 8 anos e 6 meses de reclusão, além do pagamento de 840 dias-multa, como incurso no art. 33, § 4º, da Lei n. 11.343/2006, sendo-lhe negado o direito de recorrer em liberdade com base em novos elementos, fazendo-se referência expressa à culpabilidade, circunstâncias e consequências do crime (fl. 347).
+A sentença condenatória constitui novo título judicial a motivar a custódia cautelar, razão pela qual prosseguir na análise deste feito implicaria inadmissível supressão de instância. Afinal, o novo decreto não foi ainda submetido à análise da instância originária.
+Confira-se o seguinte julgado deste Superior Tribunal:
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. CONDENAÇÃO. EXAME DO MÉRITO. PARCIAL PREJUÍZO. SÚMULA N. 691 DO STF. SUPERAÇÃO. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. GRAVIDADE ABSTRATA DO CRIME. FUNDAMENTAÇÃO INIDÔNEA. ORDEM CONCEDIDA.
+1. Havendo sido prolatada sentença condenatória em desfavor de um dos pacientes, ainda que lhe tenha sido vedado o direito de apelar em liberdade, é de se julgar prejudicado o exame do habeas corpus quanto à higidez dos fundamentos invocados originariamente pelo Juízo de primeiro grau para imposição de sua custódia preventiva, para não incorrer em supressão de instância.
+ ..
+(HC n. 423.213/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/6/2018).
+Ante o exposto, julgo prejudicado o recurso em habeas corpus por perda superveniente do objeto (art. 34, XI, do RISTJ). Cassada a liminar.
+Publique-se.
