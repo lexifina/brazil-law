@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por BANCO BRADESCO S/A, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+EMBARGOS À EXECUÇÃO - EMBARGANTE INTERDITADO - NULO O AVAL OFERECIDO APÓS A INTERDIÇÃO - INCAPACIDADE ABSOLUTA - A ESPOSA DO EMBARGANTE COMO CURADORA NÃO PODE PRESTAR GARANTIA EM NOME DO CURATELADO - ARTIGO 166 INCISO I DO CÓDIGO CIVIL - LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA - SENTENÇA IMPROCEDENTE - DADO PROVIMENTO AO RECURSO (fl. 128).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega a violação do arts. 1.767, 1.774 e 1.775 do CC, no que concerne à legitimidade de aval praticado pela curadora, em nome do curatelado, trazendo os seguintes argumentos:
+Parece claro a conclusão de que, com o teor da decisão proferida no v. acórdão recorrido, está sendo negada vigência aos artigos 1.767 e incisos, 1.774 e 1775 do Código Civil, que trata da curatela.
+Afinal, o Egr. Tribunal "a quo" não apresentou qualquer justificativa para se anular o ato jurídico legalmente praticado pela curadora, em nome de seu curatelado! Tendo o anulado, deu insignificância à lei federal que o instituiu, transformando-o em LETRA MORTA!
+Ora: se o ato legítimo praticado pela curadora, em nome de seu curatelado, é anulado sem qualquer motivação extraordinária que não seja a existência da própria interdição, então, com todas as letras, para a 15a Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo O INSTITUTO DA CURATELA NÃO MAIS VIGE!! (fls. 144/145).
+É o relatório. Decido.
+Quanto à controvérsia, na espécie, incide o óbice da Súmula 211/STJ, visto que é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
