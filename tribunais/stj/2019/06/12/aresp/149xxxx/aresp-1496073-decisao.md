@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME], contra a decisão que não admitiu seu recurso especial fundamentado no artigo 105, inciso III, alínea "a" e alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Acidente do Trabalho - Execução - Extinção, com fulcro no art. 794, I, do Código de Processo Civil - Inércia do credor quanto ao pleito de cobrança de supostos valores não incluídos no requisitório - Presunção de quitação da dívida - Intimação pessoal desnecessária - Precedentes do Egrégio Superior Tribunal de Justiça - Apelação improvida.
+Quanto à controvérsia, pela alínea "a" e alínea "c" do permissivo constitucional, alega, além de dissídio jurisprudencial, violação do art. 463, I, do CPC/73, no que concerne à ausência de preclusão/coisa julgada de erro material, trazendo, em síntese, os seguintes argumentos:
+Ademais, conforme vem reiteradamente afirmando em seus recursos, o que houve foi mero ERRO MATERIAL ao expedir os mandados de levantamento em virtude de um ERRO DE CÁLCULO meramente aritmético na somatória do resumo geral dos cálculos. Tais erros são sanáveis a qualquer tempo, até mesmo de ofício, e não se sujeitam à preclusão (fl. 391).
+Neste sentido, já se posicionaram outros Tribunais neste país, consubstanciando, desta forma, a divergência jurisprudencial em relação à interpretação daquilo que vem a ser apenas um ERRO MATERIAL E DE CÁLCULO, bem como que o mesmo não opera a preclusão, podendo ser sanado a qualquer momento (fl. 392).
+É o relatório. Decido.
+Quanto à controvérsia pela alínea "a", na espécie, incide o óbice das Súmulas 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ademais, verifica-se que os dispositivos legais sob os quais teria havido o dissídio jurisprudencial não foram examinados pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim.
+Desta forma, reconhecida a ausência de prequestionamento da norma objeto da divergência jurisprudencial, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE PREQUESTIONAMENTO. NÃO CABIMENTO DO RECURSO PELA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL.
+1. O cabimento de recurso especial fundado na alínea "c" do permissivo constitucional requer o prequestionamento do dispositivo de lei federal cuja interpretação se alega divergente por outro Tribunal.
+2. Uma vez reconhecida a ausência de prequestionamento do dispositivo de lei federal apontado como ofendido pela parte recorrente, é desnecessário o exame do cabimento do recurso especial quanto à alínea "c" do inciso III, do art. 105, da Constituição Federal, em relação ao mesmo dispositivo.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1274569/MG, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 25/8/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
