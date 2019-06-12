@@ -1,0 +1,22 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DO INTEIRO TEOR DO DECRETO PRISIONAL. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso em habeas corpus não conhecido.
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME] contra o acórdão proferido pelo Tribunal de Justiça de Alagoas, assim ementado:
+HABEAS CORPUS. PENAL. PROCESSO PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS AUTORIZADORES. PREENCHIMENTO. ÉDITO PRISIONAL BEM FUNDAMENTADO, COM ARRIMO NOS AUTOS. CUSTÓDIA CAUTELAR NECESSÁRIA PARA A GARANTIA DA ORDEM PÚBLICA, DIANTE DA PERICULOSIDADE QUE É ATRIBUÍDA AO PACIENTE. GRAVIDADE CONCRETA DA CONDUTA IMPUTADA E INDICATIVOS DE IMERSÃO APROFUNDADA NA TRAFICÂNCIA. INSUFICIÊNCIA DE MEDIDAS CAUTELARES ALTERNATIVAS AO CÁRCERE. IRRELEVÂNCIA DA PRESENÇA DE CONDIÇÕES SUBJETIVAS FAVORÁVEIS. FEITO DE ORIGEM EM MARCHA REGULAR. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL NA ESPÉCIE. PRISÃO MANTIDA. ORDEM DENEGADA.
+Consta dos autos que o recorrente, preso em flagrante pela suposta prática do crime de tráfico de drogas, teve sua prisão convertida em preventiva pelo Juízo de primeiro grau.
+Aqui, sustenta o recorrente, em síntese, a ausência de fundamentos válidos para a decretação da prisão cautelar, bem como a possibilidade de aplicação de medidas cautelares alternativas.
+Requer a concessão de medida liminar para suspender a eficácia da decisão que decretou a prisão e, no mérito, o provimento do recurso para reformar o acórdão impugnado.
+É o relatório.
+Do atento exame dos autos, verifica-se ser inviável aferir a existência da ilegalidade do decreto de prisão preventiva, pois a exordial não veio acompanhada da integralidade da decisão que a decretou. Isso porque, ao determinar a constrição cautelar, o Magistrado singular aponta expressamente para os fundamentos constantes da mídia anexa (fl. 59):
+Conforme se verifica na fundamentação constante na mídia em anexa, a prisão preventiva se faz necessária para a garantia da ordem pública e por conveniência da instrução criminal.
+E, na hipótese, a mencionada fundamentação não consta dos documentos que acompanham os autos.
+Como é cediço, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente, e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado (HC n. 197.183/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 30/06/2011).
+De todo modo, ao denegar o habeas corpus originário, o Tribunal a quo consignou o seguinte (fls. 73/74):
+Com efeito, colhe-se dos autos que o paciente foi detido em flagrante na posse de significativa quantidade de entorpecentes ilícitos, de variadas espécies (115 g de maconha e 60 g de cocaína), além de certa quantia financeira (R$ 175,00), tendo sido a sua prisão precedida de denúncia dando conta da mercancia ilícita por ele, em tese, praticada.
+Tais particularidades, notadamente a significativa quantidade de entorpecentes, de variadas espécies, una delas de efeitos nefastos, reclamam a constrição cautelar da liberdade do agente, a bem da ordem pública, não havendo que se falar em medida cautelar alternativa ao cárcere, pelo menos até o presente momento processual.
+E que as circunstâncias flagranciais em que detido o paciente revelam aparente imersão aprofundada na traficância e reclamam, desta feita, a constrição cautelar da liberdade do agente, a bem da ordem pública, a fim de evitar a possível reiteração delitiva, não havendo que se falar, ao menos por ora, em medida cautelar alternativa ao cárcere para a hipótese em testilha.
+Ora, da análise dos trechos acima, observa-se que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois o Tribunal de origem faz referência às circunstâncias fáticas justificadoras, destacando, além da quantidade e variedade de drogas encontradas (115 g de maconha e 60 g de cocaína), apreensão de dinheiro e a conjuntura do flagrante. Tudo a revelar a periculosidade in concreto do agente.
+Com efeito, aqui, temos dito que a quantidade, a natureza e a diversidade das drogas encontrados podem servir de fundamento ao decreto de prisão preventiva (RHC n. 104.921/SP, Ministra Laurita Vaz, Sexta Turma, DJe 30/4/2019).
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
