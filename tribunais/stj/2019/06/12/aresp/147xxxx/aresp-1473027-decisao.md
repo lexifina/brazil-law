@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TUTELA ANTECIPADA. INDEFERIMENTO. NATUREZA PRECÁRIA DA DECISÃO. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO ANALÓGICA DA SÚMULA 735/STF. AUSÊNCIA DE DEMONSTRAÇÃO DA PROBABILIDADE DO DIREITO. REEXAME DE FATOS E PROVAS DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por Unimed de Barretos Cooperativa de Trabalho Médico contra a decisão de fls. 278-279 (e-STJ), proferida em juízo provisório de admissibilidade, na qual foi negado seguimento ao seu recurso especial.
+O recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, foi deduzido contra acórdão assim ementado (e-STJ, fl. 218):
+AGRAVO DE INSTRUMENTO - Plano de saúde - Ação de obrigação de fazer. 1 - Agravo regimental: Julgamento na mesma oportunidade do agravo de instrumento - Perda do objeto. 2 - Decisão que deferiu a liminar para obrigar a ré a fornecer serviços de Home care ao autor - Relatório médico que esclarece a condição de saúde do paciente, atualmente com 86 anos, e indica a continuidade do tratamento pelo sistema "home care" - Aplicação da Súmula nº 90 deste E.TJSP. Decisão mantida. AGRAVO REGIMENTAL PREJUDICADO E RECURSO IMPROVIDO..
+Nas razões do recurso especial, além de divergência jurisprudencial, a recorrente alegou violação ao art. 421 do Código Civil, tendo em vista que o contrato entabulado entre as partes, excluía, expressamente, o atendimento domiciliar.
+Brevemente relatado, decido.
+A jurisprudência desta Corte é firme no sentido de que é incabível o recurso especial que tem por objeto decisão de natureza precária, sem caráter definitivo, a exemplo das que examinam pedidos de liminar ou antecipação da tutela. Aplica-se, por analogia, a ratio decidendi dos precedentes que deram origem à Súmula n. 735 do STF.
+Tal entendimento excepcionalmente pode ser ressalvado quando há violação direta de normas de direito processual.
+No caso ora examinado, o Tribunal de origem ratificou a decisão que deferiu a tutela de urgência pretendida, concluindo pela ocorrência dos necessários fumus boni iuris e periculum in mora, sob os seguinte fundamentos (e-STJ, fl. 219):
+Assim, andou bem o douto Magistrado ao deferir a antecipação dos efeitos da tutela. Inquestionável, por primeiro, a presença do periculum in mora, pois comprovado o estado de saúde do agravado que enseja cuidados especiais, sendo imperioso o tratamento com a utilização de home care.
+De outra parte, ainda que em fase de cognição sumária, o requisito do fumus boni iuris também se faz presente na hipótese dos autos, a permitir o deferimento do pedido, considerando a contratação de serviços médicos e o conjunto probatório acostado aos autos quando da inicial.
+Diante desse cenário, na linha da iterativa jurisprudência do STJ, seria necessário reexaminar os elementos probatórios a fim de aferir a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, o que não é possível em recurso especial, ante o óbice da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PREVIDÊNCIA PRIVADA. DOIS AGRAVOS INTERNOS INTERPOSTOS PELO AGRAVANTE. IMPOSSIBILIDADE DE CONHECIMENTO DO SEGUNDO RECURSO EM FACE DO PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. JULGAMENTO APENAS DO PRIMEIRO AGRAVO INTERNO. TUTELA DE URGÊNCIA. ANÁLISE DO MÉRITO DA AÇÃO PRINCIPAL. IMPOSSIBILIDADE. SÚMULA Nº 735 DO STF. PRESSUPOSTOS.
+REVISÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL.
+INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO. 1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O processo sempre segue uma marcha tendente a um fim. Por isso, nele não cabem dois recursos de mesma natureza contra uma mesma decisão, conforme o princípio da unirrecorribilidade, porque electa una via non datur regressus ad alteram.
+3. A jurisprudência do STJ firmou-se no sentido de que apenas a violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Súmula nº 735 do STF.
+4. A alteração do entendimento do acórdão recorrido acerca da presença, ou não, dos requisitos necessários ao deferimento da tutela de urgência demandaria o revolvimento do conjunto fático-probatório dos autos, medida defesa em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ. 5. Em virtude do não provimento do presente recurso, e da anterior advertência em relação à aplicabilidade do NCPC, incide ao caso a multa prevista no art.
+1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+6. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1284281/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/11/2018, DJe 22/11/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MEDIDA LIMINAR. REQUISITOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. SÚMULA N. 735/STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. O Tribunal de origem, com base nos elementos de prova dos autos, concluiu pela ausência dos requisitos autorizadores da suspensão da liminar que deferiu a imissão da agravada na posse do imóvel.
+Alterar esse entendimento demandaria reexame do conjunto fático-probatório, vedado em recurso especial.
+3. A jurisprudência do STJ não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1192819/AM, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/04/2018, DJe 16/04/2018)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
