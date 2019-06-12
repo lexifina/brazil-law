@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto em face de acórdão assim ementado:
+Agravo de Instrumento. Tutela antecipada. Arbitramento de aluguéis provisórios por utilização exclusiva de bem comum. Ausência de elementos cognitivos capazes de alterar a convicção inicial do magistrado - Elementos posteriores não podem ser levados em consideração - Limites do efeito devolutivo do recurso - Aplicação do princípio tempus regit actum. Decisão mantida. Recurso improvido.
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial, a parte agravante alega violação dos artigos 223 e 507 do Código de Processo Civil de 2015 e do artigo 273 do CPC de 1973. Pretende a revogação da tutela antecipada, deferida "para que os requeridos providenciem o depósito do valor equivalente aos aluguéis do imóvel, na proporção da cota parte do requerente, judicialmente".
+O Tribunal de origem confirmou a tutela antecipada concedida em primeiro grau de jurisdição, a qual arbitrou o valor dos aluguéis provisórios. Assinalou a ausência de "elementos de convicção suficientes para que o arbitramento fosse menor do que aquele que foi arbitrado".
+Diante desse panorama, observo que, em regra, não cabe rever, em recurso especial, decisão que defere ou indefere antecipação de tutela. Confira-se:
+PROCESSO CIVIL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL POR SUPOSTA AFRONTA AO ART. 273 DO CPC. NÃO CABIMENTO. SÚMULA 735/STF. SÚMULA 7/STJ.
+1. Esta Corte, em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Precedentes.
+3. Ainda que cabível, em tese, o recurso especial, seria imprescindível o reexame do contexto fático e probatório dos autos para a verificação dos pressupostos ensejadores da tutela antecipada, providência inviável nesta instância em face da Súmula 7/STJ, conforme a jurisprudência pacífica desta Corte.
+4. Agravo regimental a que se nega provimento.
+(RCDESP no Ag 741981/MA, Rel. Min. MARIA ISABEL GALLOTTI, DJe de 28.10.2010)
+Ademais, só por meio de reexame de provas seria possível confirmar as alegações da parte agravante no sentido de que (i) desapareceram os requisitos para a permanência da tutela antecipada que fixou os aluguéis provisórios; (ii) "outras provas afastam as bases pelas quais a antecipação fora deferida"; e (iii) houve "mudança na situação fática que embasou a decisão de tutela antecipada".
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
