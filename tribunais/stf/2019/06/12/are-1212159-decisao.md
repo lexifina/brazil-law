@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Apelação – Guarda Civil municipal – Pretensão ao recebimento de adicional de insalubridade e periculosidade, bem como aos atrasados – Improcedência na origem – decisão mantida – Servidor que já recebe o RETP para compensar a prestação de serviços sob condições especiais – Precedentes desta E. Corte – Recurso desprovido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, §§ 2º e 3º; e 7º, XXII, da CF.
+    A decisão agravada negou seguimento ao recurso porque os “argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada.”
+    O recurso é inadmissível, tendo em vista que, para chegar a conclusão diversa do acórdão recorrido, seriam imprescindíveis a análise da legislação infraconstitucional pertinente e a reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável em recurso extraordinário. Nesse sentido e sobre a mesma controvérsia, cito os seguintes precedentes: ARE 730.723-AgR, Rel. Min. Gilmar Mendes; ARE 1.173.113, Rel. Min. Ricardo Lewandowski; ARE 1.156.036; Rel. Min. Marco Aurélio; e ARE 1.159.428, Rel. Min. Alexandre de Moraes.
+    Em se tratando especificamente de suposta ofensa ao princípio da legalidade, o que se pode questionar nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. A hipótese, portanto, atrai a incidência da Súmula 636/STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 12 de junho de 2019.
+Ministro Luís Roberto Barroso
+Relator
