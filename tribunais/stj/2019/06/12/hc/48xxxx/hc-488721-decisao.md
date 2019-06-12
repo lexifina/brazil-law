@@ -1,0 +1,62 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS (87 KG DE MACONHA). REDUTOR ESPECIAL DA PENA (ART. 33, § 4º, DA LEI N. 11.343/2006). INAPLICABILIDADE. INTEGRANTE DE ESTRUTURA ORGANIZADA VOLTADA AO TRÁFICO. CIRCUNSTÂNCIAS FÁTICAS DO CASO CONCRETO. REVOLVIMENTO. IMPOSSIBILIDADE. 5 ANOS DE RECLUSÃO. REGIME INICIAL FECHADO. ELEVADA QUANTIDADE DE DROGA APREENDIDA. OBSERVÂNCIA DA SÚMULA 440/STJ. PRECEDENTES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. SUBSTITUIÇÃO DA PENA. ÓBICE OBJETIVO.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], contra o acórdão do Tribunal de Justiça de Mato Grosso do Sul, que negou provimento à apelação interposta pelo paciente (fls. 248/257 - Apelação Criminal n. 0001894-17.2018.8.12.0019), mantendo a sentença, em que o Juízo de Direito da 2ª Vara Criminal da comarca de Ponta Porã/MS o condenou a 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa (fls. 158/159), pela prática do crime de tráfico de drogas (87 kg de maconha - fl. 158).
+Na presente impetração, alega-se constrangimento ilegal consistente em:
+a) dosimetria de pena, na terceira fase, em razão da negativa de aplicação da causa especial de diminuição da pena do tráfico privilegiado, sustentando-se que não há provas nos autos de que o Paciente se dedicava à atividade criminosa ou que integrava organização criminosa, muito pelo contrário, há evidências inequívocas de que atuou como "mulas do tráfico". Além disso, trata-se de réu primário e portador de bons antecedentes, fazendo jus, assim, à aplicação da minorante do § 4o, do artigo 33, da Lei nº 11.343/2006 (fl. 62);
+b) regime inicial fechado, aduzindo-se a aplicação do regime aberto;
+c) negativa de substituição da pena privativa de liberdade por restritiva de direitos, aduzindo-se a necessidade da substituição, tendo em vista que após o reconhecimento do tráfico privilegiado e, consequente redimensionamento da pena, esta restará fixada em quantum inferior a 04 (quatro) anos (fl. 66); e
+d) afastamento da hediondez do delito, uma vez reconhecido o tráfico privilegiado.
+Postula-se, então, o redimensionamento da pena, com aplicação da causa de diminuição da pena do art. 33, § 4º, da Lei n. 11.343/2006 e, consequentemente, o afastamento da hediondez, a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+Foram solicitadas informações (fl. 230), as quais foram prestadas pelo Tribunal de Justiça de Mato Grosso do Sul (fl. 233).
+Sem pedido liminar, o Ministério Público Federal opinou pelo não cabimento do writ (fls. 245/246).
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre ante a necessidade de revolvimento fático-probatório, essencialmente.
+Inicialmente, quanto à dosimetria da pena - aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 -, registre-se que o Magistrado singular, na sentença, afastou a presente pretensão ao fundamento de que o réu participou ainda que momentaneamente de estrutura organizada voltada ao tráfico internacional de drogas. Além disso, trata-se de 87 quilos de maconha, quantidade elevada, ainda que para os padrões dessa fronteira (fl. 158 - grifo nosso).
+Em seguida, o Tribunal a quo afastou a aplicação do redutor especial da pena (art. 33, § 4º, da Lei n. 11.343/2006) com base na conclusão de que o paciente se dedica ao tráfico, para tanto sopesou não só a quantidade de droga, mas também as circunstâncias fáticas da causa que, em sua concepção, conquanto primário, inequívoco que o apelante é integrante de grupo marginal. Isso porque, segundo a denúncia, foram apreendidos 87,6 kg oitenta e sete quilos e seiscentos gramas) acondicionados em dez malas, razão pela qual não se está, a toda evidência, diante de mísero e eventual traficante, mas de pessoa que, de forma iniludível, integra grupo criminoso, com alto poder aquisitivo, vez que o valor de tamanha droga é vultoso, e, ainda, que se dedica à disseminação do vício nefasto em larga escala no meio social (fl. 255).
+Deste modo, não há ilegalidade no acórdão; ao contrário, a jurisprudência desta Corte tem admitido que tais aspectos sejam sopesados na análise dos requisitos previstos no dispositivo em comento.
+Nesse sentido, confiram-se:
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE INICIAR O CUMPRIMENTO DA PENA NO REGIME SEMIABERTO. REITERAÇÃO DE PEDIDO JÁ FORMULADO NO HABEAS CORPUS DE N.º 472.363/SP. RECONHECIMENTO DA MINORANTE PREVISTA NO § 4.º DO ART. 33 DA LEI N.º 11.343/2006. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS DA APREENSÃO. HABEAS CORPUS CONHECIDO EM PARTE E, NESSA EXTENSÃO, DENEGADO.
+1. A alegação de ausência de fundamentação idônea para a fixação do regime inicial fechado é mera reiteração de pedido já formulado no Habeas Corpus de n.º 472.363/SP, de minha Relatoria, que foi julgado em 13/12/2018, tendo a ordem sido denegada.
+2. O "Superior Tribunal de Justiça firmou entendimento no sentido de que a elevada quantidade de drogas, aliada às circunstâncias da sua apreensão, tem o condão de caracterizar que o agente se dedica a atividades criminosas, não fazendo jus à benesse da redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/06" (AgRg no REsp 1.584.298/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/05/2018, DJe de 23/05/2018).
+3. Sem embargo, cumpre observar que, de um lado, se a grande quantidade de droga pode denotar a dedicação do acusado a atividades criminosas ou o envolvimento com o crime organizado, por outro lado, mesmo havendo quantidades menores ou não expressivas, outras circunstâncias do tráfico podem indicar o mesmo envolvimento.
+4. Ainda que a quantidade e a diversidade de drogas não sejam utilizadas para exasperar a pena-base, "a jurisprudência desta Corte Superior é firme em considerá-las fundamento idôneo para embasar a fixação de regime mais gravoso de cumprimento de pena" (AgRg no HC 444.774/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/10/2018, DJe 16/11/2018).
+5. Habeas corpus conhecido em parte e, nessa extensão, denegado.
+(HC n. 478.680/SP, Ministra Laurita Vaz, Sexta Turma, DJe 3/4/2019)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERESTADUAL DE DROGAS. 25 KG DE MACONHA (23 TABLETES), OCULTOS NA BAGAGEM. VIOLAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. SUPOSTA ILEGALIDADE DECORRENTE DA VEDAÇÃO DO REDUTOR ESPECIAL DA PENA. IMPROCEDÊNCIA. REDUTOR VEDADO NÃO APENAS COM BASE NA CONDIÇÃO DE MULA, MAS TAMBÉM EM OUTRAS CIRCUNSTÂNCIAS (QUANTIDADE, LOGÍSTICA E MODUS OPERANDI) QUE SUBSIDIARAM A CONVICÇÃO DO JULGADOR NO SENTIDO DE QUE A RÉ INTEGRA ORGANIZAÇÃO CRIMINOSA. POSSIBILIDADE. REEXAME. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. A simples atuação como mula do tráfico não induz a presunção de que o agente integre organização criminosa. Precedentes do Superior Tribunal Justiça.
+2. No caso, a vedação do redutor não decorreu exclusivamente da condição de mula, mas também de outros elementos (quantidade, logística e modus operandi) que subsidiaram a convicção do julgador no sentido de que a ré integra organização criminosa; fundamentação idônea à luz da jurisprudência, pois é lícito ao julgador formar convicção acerca do preenchimento dos requisitos do redutor especial com base em tais elementos.
+3. Inviável rever as conclusão da instância ordinária, estabelecida mediante análise das provas, ante o óbice da Súmula 7/STJ.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 1.211.329/MS, da minha relatoria, Sexta Turma, DJe 12/3/2018)
+ ..
+- Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher cumulativamente todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto. - A jurisprudência desta Corte firmou-se no sentido de que a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas para embasar a não incidência da minorante do privilégio, quando, juntamente com as circunstâncias do delito, evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+ ..
+(HC n. 402.921/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/9/2017)
+ ..
+CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. PRETENDIDA APLICAÇÃO. REQUISITOS. NÃO PREENCHIMENTO. DEDICAÇÃO A ATIVIDADES ILÍCITAS/PARTICIPAÇÃO DE ORGANIZAÇÃO CRIMINOSA. INDEFERIMENTO DA MINORANTE JUSTIFICADO.
+1. Para a incidência do redutor previsto no §4º do art. 33 da Lei 11.343/06, é necessário o preenchimento dos requisitos legais: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades delituosas; e d) não integre organização criminosa.
+2. Revela-se inviável a aplicação da causa especial de diminuição, tendo em vista que as circunstâncias do caso concreto, em especial o modus operandi empregado no cometimento do delito, levaram à conclusão de que a recorrente integra organização criminosa.
+ ..
+(AgRg no AREsp n. 1.040.809/SP, Ministro Jorge Mussi, Quinta Turma, DJe 30/5/2018)
+Ademais, como bem anotado pela Subprocuradora-Geral da República [NOME] (fl. 245),
+Para diversa conclusão, necessário o revolvimento de matéria fático- provatória, inviável em sede de HC (orientação do STJ no HC nº 376.359/MS, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 01/12/2016, DJe 07/12/2016).
+Quanto ao regime inicial de pena, também não vislumbro ilegalidade, uma vez que a Corte estadual decidiu consoante a orientação jurisprudencial desta Casa. Confira-se (fl. 257):
+Regime prisional.
+A fixação do regime inicial mais adequado à repressão e prevenção dos delitos de tráfico de drogas deve observar os critérios do art. 33, § § 2º e 3º do Código Penal, bem como do art. 42 da Lei n.º 11.343/06.
+Na hipótese, apesar da primariedade e a pena tenha sido fixada em 05 (cinco) anos de reclusão, mantém-se o regime inicial fechado, tendo em vista a quantidade elevada de substância entorpecente (87,6 kg de maconha), nos termos do art. 33, § § 2o e 3o do Código Penal e art. 42 da Lei n.º 11.343/06, pois necessário para a repreensão e reprovação da conduta.  ..
+Com efeito, o regime mais gravoso foi mantido com base na gravidade concreta do crime, extraída das circunstâncias do delito (quantidade de drogas) - (fl. 256), tal fundamento encontra amparo nestes precedentes, por exemplo:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. REGIME INICIAL FECHADO. PENA-BASE ACIMA DO MÍNIMO. CONSTRANGIMENTO ILEGAL. INOCORRÊNCIA. DENEGAÇÃO DA ORDEM.
+1. É idônea a fundamentação do Tribunal de origem acerca da necessidade do regime inicial fechado, devido à quantidade da droga envolvida, in casu, mais de 400g de maconha, bem como à variedade, sendo apreendidos ecstasy e LSD, circunstâncias judiciais que inclusive ensejaram o aumento da pena-base, a teor do art. 42 da Lei nº 11.343/2006.
+ ..
+3. Ordem denegada.
+(HC n. 438.663/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/5/2018)
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. PRETENSÃO DE INICIAR O CUMPRIMENTO DA PENA NO REGIME SEMIABERTO. IMPOSSIBILIDADE. REGIME INICIAL FECHADO DEVIDAMENTE MOTIVADO. GRAVIDADE CONCRETA DO DELITO. SÚMULAS Nº 440 DESTA CORTE E 718 E 719 DO SUPREMO TRIBUNAL FEDERAL. OBSERVÂNCIA. ORDEM DE HABEAS CORPUS DENEGADA.
+1. Inexiste violação das Súmulas n.os 440 desta Corte Superior e 718 e 719 do Supremo Tribunal Federal quando a fixação do regime prisional é baseada na gravidade concreta do delito.
+2. No caso, considerou-se, para a fixação do regime inicial fechado, as circunstâncias da apreensão, que revelaram a considerável quantidade, bem como a diversidade das drogas encontradas na posse do Paciente - 10 porções de maconha (pesando 15,3 gramas), 53 porções de cocaína (pesando 21,6 gramas) e 108 porções de crack (pesando 45,5 gramas) -, circunstâncias que demonstram maior reprovabilidade da conduta delituosa.
+3. Ordem de habeas corpus denegada.
+(HC n. 455.284/SP, Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2018)
+Por fim, também não há falar em ilegalidade na vedação da pena substitutiva, pois, diante da pena fixada (superior a 4 anos), é inviável a substituição (art. 44 do CP).
+Ante o exposto, denego a ordem (art. 34, XVIII, b, do RISTJ).
+Publique-se.
