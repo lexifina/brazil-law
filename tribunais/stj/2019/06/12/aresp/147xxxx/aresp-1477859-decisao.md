@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME], contra a decisão que não admitiu seu recurso especial fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+MANDADO DE SEGURANÇA. DIREITO CONSTITUCIONAL. DIREITO ADMINISTRATIVO. DIREITO PROCESSUAL CIVIL. EDITAL. CONCURSO PÚBLICO. BOMBEIRO MILITAR DO DISTRITO FEDERAL. ESPECIALIDADE EM MANUTENÇÃO. POSSE NO CARGO. EXIGÊNCIA. CARTEIRA NACIONAL DE HABILITAÇÃO DO TIPO D. LEGALIDADE. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA.
+1. Não há que se falar em mácula da norma editalícia, tendo em vista que possuir Carteira Nacional de Habilitação do tipo "D" é condição exigida para o regular desempenho das atribuições inerentes ao cargo de Bombeiro Militar do Distrito Federal, especialidade Bombeiro Geral de Manutenção, principalmente no que se refere às atividades de mecânica e manutenção de veículos.
+2. Conforme entendimento do Superior Tribunal de Justiça, é razoável a exigência de Carteira Nacional de Habilitação do tipo "D" no momento da realização de prova prática de direção em concurso público.
+Além disso, consoante a inteligência da Súmula 266, tal exigência se dá no momento da posse no cargo.
+Precedentes.
+3. Recurso conhecido e não provido. Sentença mantida.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 2º, caput, da Lei n. 9.784/99, no que concerne à legalidade e razoabilidade de requisitos exigidos durante o certame de concurso público, trazendo, em síntese, os seguintes argumentos:
+No caso dos autos, não existe lei que discipline sobre a obrigatoriedade da apresentação de Carteira Nacional de Habilitação do tipo "D" como requisito para ingresso no Curso de Formação de Praças Bombeiros Militares, tal qual imposto no edital do certame (fl. 300).
+Ocorre que não é razoável exigir dos candidatos uma habilitação específica no ato da convocação para o ingresso no CBMDF e matrícula no CFPBM, enquanto a própria lei do cargo não faz tal exigência. E mais, a própria jurisprudência entende que o momento adequado para a referida exigência é no ato da posse no cargo publico (fl. 302).
+Convergindo tudo a um só ponto, é certo que a eliminação do Recorrente na prova prática ofende o princípio da legalidade e razoabilidade, negando assim a aplicabilidade do artigo 2º da Lei 9.784/99, visto que ainda que se considerasse como legal a exigência de CNH do tipo "D", esta deveria ter sido exigida na posse no cargo público e não como uma fase do certame (fl. 303).
+É o relatório. Decido.
+Quanto à controvérsia, na espécie, incide o óbice da Súmula 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Conforme se verifica da leitura do dispositivo acima transcrito, não houve nenhuma irregularidade na norma do edital, tendo em vista que possuir Carteira Nacional de Habilitação do tipo "D" é condição exigida para o regular desempenho das atribuições inerentes ao cargo, principalmente no que se refere às atividades de mecânica e manutenção de veículos.
+Além disso, o Superior Tribunal de Justiça já assentou entendimento no sentido de que é razoável a exigência de Carteira Nacional de Habilitação do tipo "D" no momento da realização de prova prática de direção em concurso público.
+Assentou também que tal exigência para o exercício do cargo não deve ser imposta nas etapas de inscrição ou em qualquer outra fase do concurso anterior à posse, nos termos da Súmula 266/STJ.
+ ..
+Dessa forma, tendo em vista que o pedido do apelante se resume tão somente na declaração da ilegalidade da exigência de Carteira Nacional de Habilitação do tipo "D" no momento da posse, e não anterior a ela, não há que se falar em reforma da sentença (fls. 250/252)
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EREsp n. 1.698.730/SP, relator Ministro Raul Araújo, Segunda Seção, DJe de 18/12/2018; e AgRg nos EAREsp n. 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
