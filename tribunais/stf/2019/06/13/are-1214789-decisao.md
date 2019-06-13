@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Município de Quatiguá. Aparelhado o recurso na afronta aos arts. 1º, 5º, LIII, 18, 37, II, e VI, § 10, e 40, § 10, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+     Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo (Lei Municipal nº 867/1993), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula nº 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “E M E N T A: RECURSO EXTRAORDINÁRIO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – PRECEDENTES – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A INADMISSIBILIDADE DE CONDENAÇÃO EM VERBA HONORÁRIA, POR TRATAR-SE DE PROCESSO DE MANDADO DE SEGURANÇA (SÚMULA 512/STF E LEI Nº 12.016/2009, ART. 25) – AGRAVO INTERNO IMPROVIDO.” (RE 1105627 AgR, Relator(a): Min. Celso de Mello, Segunda Turma, julgado em 01.3.2019, PROCESSO ELETRÔNICO DJe-061 DIVULG 27.3.2019 PUBLIC 28.3.2019)
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Servidor público militar. Prescrição. Reintegração. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria ínsita ao plano normativo local, tampouco para o reexame dos fatos e das provas constantes dos autos. Incidência das Súmulas nºs 280 e 279/STF. 2. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1159769 AgR, Relator(a): Min. Dias Toffoli (Presidente), Tribunal Pleno, julgado em 30.11.2018, PROCESSO ELETRÔNICO DJe-019 DIVULG 31.01.2019 PUBLIC 01.02.2019)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de junho de 2019.
+Ministra Rosa Weber
+Relatora
