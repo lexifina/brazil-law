@@ -1,0 +1,2 @@
+Autoriza, no prazo que especifica, o retorno ao Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional) dos optantes excluídos desse regime tributário em 1º de janeiro de 2018.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5º do art. 66 da Constituição Federal, a seguinte Lei Complementar:
