@@ -1,0 +1,25 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado:
+    “AGRAVO INTERNO – PRELIMINAR DE NULIDADE – VIOLAÇÃO AO ARTIGO 557, DO CPC – INOCORRÊNCIA – MÉRITO – CONSTRUÇÃO DE HOSPITAL DE TRATAMENTO PARA DEPENDENTES QUÍMICOS PARA CRIANÇAS E ADOLESCENTES – RESERVA DO POSSÍVEL – IMPOSSIBILIDADE DE INTERFERÊNCIA PELO JULGADOR EM POLÍTICAS PÚBLICA – AGRAVO INTERNO IMPROVIDO.
+    I – Não há ofensa ao artigo 557, da Lei Adjetiva civil quando a decisão é prolatada com base no entendimento dominante da jurisprudência do STJ, sendo certo ainda, que se a matéria posteriormente foi analisada pelo Colegiado por meio do agravo resta superada qualquer ofensa ao aludido dispositivo. Preliminar rejeitada.
+    II – A obrigatoriedade de construção de hospital para tratamento dos menores dependentes químicos exigiria dos entes públicos mais do que eles possam, do ponto de vista econômico financeiro, efetivamente concretizar, principalmente acerca do problema em apreço.
+    III – Desta forma, exsurge o dever do julgador, em observar não só as obrigações jurídicas do Estado e Município na concretização dos direitos fundamentais do cidadão, mas também relevar as situações fáticas apresentadas pelo caso concreto, a fim apreciar o bem da vida em litígio de forma proporcional.
+    IV – In casu, a aplicação da reserva do possível estaria legítima, eis que o Estado e o Município, de forma notória, buscam a solução do tratamento dos dependentes químicos, visando ainda o combate às drogas como medidas primordiais de política social.
+    V – Não pode o Juiz interferir nas política pública dessa monta, especialmente determinando a construção de um hospital, fazendo o encargo do administrador público, pois tem o condão de interferir drasticamente na lógica do sistema de políticas públicas e prioridades adotadas pelo Estado do Espírito Santo e pelo Município de São Mateus, implicando severa realocação de recursos para construção de obra de elevado porte, donde poderá, ao menos em tese, exsurgir glosa à universalidade de acesso aos serviços públicos de saúde.
+    VI – Recurso improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV; 6º; 93, IX; 196; e 227, todos da CF. Sustenta que “se há prova da necessidade de construção na região de São Mateus de estabelecimento especializado em tratamento de menores toxicômanos, tendo em vista a enorme demanda da população, não há que se negar o pleito sob a desculpa de que causará prejuízo ao erário”.
+    O recurso não deve ser provido.
+    O Supremo Tribunal Federal assentou a possibilidade, em casos excepcionais, de implementação de políticas públicas relativas aos direitos assegurados na Constituição por decisão judicial, ante a inércia ou morosidade da Administração. Nessa linha, vejam-se as seguintes ementas:
+    “Agravo regimental no agravo de instrumento. Constitucional. Poder Judiciário. Determinação para implementação de políticas públicas. Segurança pública. Destacamento de policiais para garantia de segurança em estabelecimento de custódia de menores infratores. Violação do princípio da separação dos Poderes. Não ocorrência. Precedentes.
+    1. O Poder Judiciário, em situações excepcionais, pode determinar que a Administração pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais sem que isso configure violação do princípio da separação dos poderes.
+    2. Agravo regimental não provido.” (AI 810.410-AgR, Rel. Min. Dias Toffoli)
+    “DIREITO CONSTITUCIONAL. SEGURANÇA PÚBLICA AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. AÇÃO CIVIL PÚBLICA. PROSSEGUIMENTO DE JULGAMENTO. AUSÊNCIA DE INGERÊNCIA NO PODER DISCRICIONÁRIO DO PODER EXECUTIVO. arts. 2º, 6º E 144 DA CONSTITUIÇÃO FEDERAL.
+    1. O direito a segurança é prerrogativa constitucional indisponível, garantido mediante a implementação de políticas públicas, impondo ao Estado a obrigação de criar condições objetivas que possibilitem o efetivo acesso a tal serviço.
+    2. É possível ao Poder Judiciário determinar a implementação pelo Estado, quando inadimplente, de políticas públicas constitucionalmente previstas, sem que haja ingerência em questão que envolve o poder discricionário do Poder Executivo. Precedentes.
+    3. Agravo regimental improvido.” (RE 559.646-AgR, Relª. Minª. Ellen Gracie)
+    No caso, não ficou comprovada a existência de situação excepcional a ensejar a intervenção do Poder Judiciário. De modo que eventual acolhimento da tese do recorrente demandaria uma nova análise dos fatos e provas constantes dos autos, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego provimento ao recurso.
+    Publique-se.
+          Brasília, 13 de junho de 2019.
+Ministro Luís Roberto Barroso
+Relator
