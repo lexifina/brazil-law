@@ -1,0 +1,7 @@
+LEI N. 4.853, DE 13 DE JUNHO DE 2019.
+
+DISPÕE sobre o Conselho Estadual dos Direitos Humanos - CEDH, e dá outras providências. A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+D E C R E T A:
+
+CAPÍTULO I DISPOSIÇÕES PRELIMINARES
