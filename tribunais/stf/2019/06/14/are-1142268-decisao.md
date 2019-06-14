@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – PROVIMENTO PARCIAL.
+    1. O Tribunal de Justiça do Estado da Paraíba confirmou o entendimento do Juízo quanto à permanência de policial militar na patente alcançada por força de decisão judicial. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação dos artigos 5º, cabeça, e 37, incisos I e II, da Constituição Federal. Alude à contrariedade ao princípio da isonomia, bem como à impessoalidade. Questiona a aplicação da teoria do fato consumado.
+    2. Colho do pronunciamento recorrido o seguinte trecho:
+    No caso em tela, inicialmente, o promovente interpôs ação cautelar preparatória (no 0002671-332011.815.2001) visando o prosseguimento nas fases seguintes do Processo Seletivo, por entender que concluiu a prova física de corrida I de fundo no tempo e distância exigido~ no edital, solicitando como prova, exibição das filmagens do teste físico que realizou.
+    Foi deferida liminar na ação cautelar em apenso (n° 0002671-33.2011.815.2001 – fl. 67) a favor do promovente para que participasse da etapa seguinte do certame, bem como para determinar que o Estado da Paraíba apresentasse as filmagens do teste físico. Essa liminar, no entanto, foi reformada nesta Corte de Justiça através do julgamento do agravo de instrumento n° 200.2011.002671-9/001 interposto pelo Estado da Paraíba (fl. 106 dos autos da cautelar).
+    No julgamento de mérito da cautelar, foi reconhecida a impossibilidade de atribuir ao Estado da Paraíba o dever de exibição de filmagens do teste físico tendo em vista a inexistência de previsão editalícia.
+    Pois bem.
+    Após a cautelar preparatória, o promovente ajuizou a presente ação desconstitutiva em face do ato administrativo que o considerou inapto no exame físico (fl.48), garantindo-se, assim, de forma definitiva, o direito de ser declarado oficial da Polícia Militar na patente de 2º Tenente.
+    A ação ordinária seguiu tramitação enquanto o promovente ultrapassava todas as fases do Processo Seletivo, matriculando-se no Curso de Habilitação de Oficiais e concluindo-o com aproveitamento, em 5° lugar, como demonstram os documentos de fls. 105/110.
+    Considerando essas circunstâncias, o magistrado a quo reconheceu a aplicação da teoria do fato consumado, por entender que após a concessão da medida liminar na ação cautelar, o promovente ultrapassou a etapa de exame físico e foi matriculado no Curso de Habilitação de Oficiais concluindo-o com êxito e, em razão do decurso do tempo, afigura-se desaconselhável a desconstituição dessa situação tanto para o Militar quanto para o Estado, que investiu na sua formação através do referido Curso.
+    Com efeito, é sabido que a teoria do fato consumado visa preservar, em virtude da segurança jurídica, situações consolidadas pelo decurso do tempo cuja reversão implique em danos desnecessários e irreparáveis à parte.
+    O acórdão recorrido implica contrariedade ao decidido pelo Supremo, sob a sistemática da repercussão geral, no recurso extraordinário nº 608.482, cuja conclusão é no sentido da incompatibilidade com o regime constitucional de acesso aos cargos públicos a respectiva permanência em razão da teoria do fato consumado.
+    3. Ante o exposto, conheço do agravo e o provejo. Julgo desde logo o extraordinário, conhecendo-o e provendo-o em parte para, reformando o acórdão recorrido, determinar o retorno do processo à origem, a fim de que prossiga no julgamento do pedido, observados os parâmetros retro mencionados.
+    4. Publiquem.
+Brasília, 14 de junho de 2019.
+Ministro MARCO AURÉLIO
+Relator
