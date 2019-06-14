@@ -4,4 +4,4 @@ I - identificação do proprietário ou possuidor rural;
 II - comprovação da propriedade ou posse;
 III - identificação do imóvel por meio de planta e memorial descritivo, contendo a indicação das coordenadas geográficas com pelo menos um ponto de amarração do perímetro do imóvel, informando a localização dos remanescentes de vegetação nativa, das Áreas de Preservação Permanente, das Áreas de Uso Restrito, das áreas consolidadas e, caso existente, também da localização da Reserva Legal.
 § 2º O cadastramento não será considerado título para fins de reconhecimento do direito de propriedade ou posse, tampouco elimina a necessidade de cumprimento do disposto no art. 2º da Lei nº 10.267, de 28 de agosto de 2001.
-§ 3º A inscrição no CAR será obrigatória para todas as propriedades e posses rurais, devendo ser requerida até 31 de dezembro de 2017, prorrogável por mais 1 (um) ano por ato do Chefe do Poder Executivo.
+§ 3º A inscrição no CAR será obrigatória para todas as propriedades e posses rurais.
