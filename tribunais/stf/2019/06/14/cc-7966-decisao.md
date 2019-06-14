@@ -1,0 +1,18 @@
+DECISÃO
+COMPETÊNCIA – CONFLITO NEGATIVO – TRIBUNAL ESTADUAL VERSUS SUPERIOR TRIBUNAL DE JUSTIÇA – INEXISTÊNCIA.
+    1. A assessora Dra. Virna Rebouças Cruz prestou as seguintes informações:
+    Trata-se de alegado conflito negativo de competência entre o Tribunal de Justiça do Estado do Rio de Janeiro e o Superior Tribunal de Justiça, encaminhado ao Supremo, a teor da alínea “o” do inciso I do artigo 102 da Constituição Federal.
+    Na origem, Ana Deri Freire da Silva ajuizou ação de indenização por danos morais contra Tim Celular S.A., considerada a inscrição indevida do nome em cadastros de proteção ao crédito. O pedido foi julgado procedente e a condenação foi mantida pela Primeira Turma Recursal dos Juizados Especiais Cíveis do Rio de Janeiro.
+    Em face do acórdão da Turma Recursal, a Tim Celular S.A. formalizou a reclamação nº 31.678/RJ perante o Superior Tribunal de Justiça (folha 3 a 15). A medida não foi admitida, levando em conta a competência dos Tribunais de Justiça para processar as reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal e jurisprudência do Superior Tribunal de Justiça, nos termos do artigo 1º da Resolução STJ/GP nº 3, de 8 de abril de 2016. O processo foi remetido ao Tribunal de Justiça do Estado do Rio da Janeiro (folha 50).
+    O Tribunal estadual suscitou conflito negativo, assentando que a Resolução não ostenta natureza de lei. Afirma constituir a reclamação mecanismo de garantia da autoridade das decisões do próprio Tribunal, aludindo ao artigo 988, § 1º, do Código de Processo Civil. Sustenta que a Resolução STJ/GP nº 3 viola o princípio da autonomia dos Estados-membros ao atribuir, sem previsão legal ou constitucional, competência a Tribunal de Justiça, em ofensa ao artigo 125, § 1º, da Lei Maior (folha 71 a 77).
+    O processo foi enviado ao Supremo, a teor da alínea “o” do inciso I do artigo 102 da Carta da República (folha 83).
+    O Superior Tribunal de Justiça, com o despacho de folhas 86 e 87, apresentou cópia da Resolução STJ/GP nº 3 e do acórdão da Corte Especial por meio da qual aprovada a norma (folha 91 a 110).
+    Na petição/STF nº 4.922/2017, subscrita por advogado devidamente credenciado, a Associação dos Ativos, Inativos e Pensionistas das Polícias Militares, Brigadas Militares e Corpos de Bombeiros Militares do Brasil – ASSINAP requer a participação no processo como terceira interessada, reportando-se ao artigo 138, cabeça e parágrafos 1º e 2º, do Código de Processo Civil (folha 118 a 182).
+    A Procuradoria-Geral da República manifesta-se pelo não conhecimento do conflito (folha 185 a 190).
+    Alcenir Braga de Abreu da Silva, mediante a petição/STF nº 31.692/2017 (folha 194), firmada por procurador devidamente habilitado, postula a suspensão do processo nº 0000736-64.2016.8.19.0030, de matéria correlata, até o julgamento deste conflito de competência.
+    2. O quadro não revela conflito negativo de competência. Estão envolvidos o Tribunal de Justiça do Estado do Rio de Janeiro e o Superior Tribunal de Justiça. O que decidido por este último impõe-se ao primeiro, conforme jurisprudência do Supremo – conflito de competência nº 7.161/RJ, de minha relatoria; questão de ordem no conflito de competência nº 7.094/MA, relator o ministro Sepúlveda Pertence; agravo regimental no conflito de competência nº 7.594/RJ, relator o ministro Celso de Mello.
+    3. Ante o exposto, devolvam o processo ao Tribunal de Justiça do Estado do Rio de Janeiro, prejudicados os pedidos formulados nas petições/STF nº 4.922/2017 e nº 31.692/2017.
+    4. Publiquem.
+Brasília, 14 de junho de 2019.
+Ministro MARCO AURÉLIO
+Relator
