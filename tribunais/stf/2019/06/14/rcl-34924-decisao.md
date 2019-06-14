@@ -1,0 +1,19 @@
+DECISÃO
+RECLAMAÇÃO. PENAL. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 11 DO SUPREMO TRIBUNAL FEDERAL. USO DAS ALGEMAS JUSTIFICADO. SUPERVENIÊNCIA DA SOLTURA DO RECLAMANTE. RECLAMAÇÃO PREJUDICADA.
+Relatório
+    1. Reclamação, com pedido de medida liminar, ajuizada por Ellen Karla Vieira Marques e Renan Silva Lima contra ato do juízo da Quinta Vara Criminal da Comarca de Rondonópolis/MT, pelo qual teria sido descumprida a Súmula Vinculante n. 11 do Supremo Tribunal Federal em audiência de custódia realizada em 7.5.2019.
+    2. Consta dos autos estarem os reclamantes sendo processados pela apontada prática do delito de tráfico ilícito de entorpecentes.
+    3. Os reclamantes alegam que “foi requerida a prisão domiciliar da Reclamante Ellen no caso de decretação das prisões preventivas, pois a Reclamante tem dois filhos um com apenas 4 (quatro) anos e o outro com 7 (sete) meses, sendo que essa criança não se alimenta de alimentos sólidos e é amamentada que é sua fonte de sustento fisiológico e emocional dada a tenra idade”.
+    Asseveram terem permanecido “o tempo todo algemados sem qualquer motivação para justificar segundo o juízo para garantir a integridade dos presentes”.
+    Requerem “seja conhecido o habeas corpus de oficio contra a decisão que indeferiu a prisão domiciliar da Paciente Ellen”, por ser mãe de crianças menores de doze anos, nos termos do art. 318 do Código de Processo Penal e do Habeas Corpus coletivo n. 143.641.
+    Este o teor dos requerimentos e do pedido:
+    “Excelentíssimo (a) MINISTRO (A), a defesa requer SEJAM ANALISADOS OS PLEITOS LIMINARES E DEFERIDOS SEJA PELA OFENSA A SÚMULA 11 deste TRIBUNAL, SEJA SUCESSIVAMENTE DE OFÍCIO CONCEDIDA A PRISÃO DOMICILIAR A PACIENTE ELLEN QUE É LACTANTE E TEM FILHO DE APENAS 7 SETE MESES DE VIDA”.
+    Examinados os elementos postos à apreciação, DECIDO.
+    4. A presente reclamação está prejudicada pela perda superveniente do objeto. Consta do Diário da Justiça eletrônico do Tribunal de Justiça de Mato Grosso disponibilizado em 13.6.2019 ter sido concedida a ordem no Habeas Corpus n. 1006218-83.2019.8.11.0000 pela Primeira Câmara Criminal em acórdão cuja a ementa é a seguinte:
+    “EMENTA: HABEAS CORPUS – TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO – PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA - DECISÃO PROFERIDA DE FORMA ORAL, SEM REDUÇÃO A TERMO DA FUNDAMENTAÇÃO NA ATA DE AUDIÊNCIA DE CUSTÓDIA – VIOLAÇÃO AO ART. 5º, INC. LXI, DA CF e ART. 283 DO CPP - ORDEM CONCEDIDA. “A prisão preventiva, como excepcional instrumento de restrição da liberdade individual, deve estar permanentemente sob controle judicial, quer seja para determiná-la, quer seja para permitir sua continuidade. Tal controle pressupõe, por certo, a existência de ordem constritiva escrita e fundamentada da autoridade judiciária competente. Trata-se de garantia fundamental, que acabou sendo reproduzida pela legislação processual, a significar, em outras palavras, que a determinação judicial deve ser representada por palavras externadas por meio de letras (sinais gráficos que apontam algum significado) traçadas em papel ou em qualquer outra superfície de leitura. Esse é o método de comunicação linguística escolhida pela Constituição Federal para os casos de restrição da liberdade e que, conforme salientado, está sujeito a permanente controle judicial’ (STJ, AgRg no RHC nº 77.014-BA, prolatada em 17/4/2017). Ordem concedida”.
+    Concedida a liberdade aos reclamantes, a tutela jurisdicional buscada nesta reclamação foi alcançada, portanto prejudicada a presente ação.
+    5. Pelo exposto e pelas mudanças processadas no quadro fático-jurídico após o ajuizamento desta ação, julgo prejudicada a presente reclamação pela perda superveniente do objeto (art. 38 da Lei n. 8.038/1990 e inc. IX do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 14 de junho de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
