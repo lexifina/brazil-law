@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “RECURSO INOMINADO. SEGUNDA TURMA RECURSAL DA FAZENDA PÚBLICA. MAGISTÉRIO ESTADUAL. ABONO FAMILIAR. LEI ESTADUAL Nº 6.526/1973. PREENCHIMENTO DOS REQUISITOS. AUSÊNCIA DE CADASTRO DE DEPENDENTE NO ÂMBITO ADMINISTRATIVO. REFORMA DA SENTENÇA QUANTO AO TERMO INICIAL DA CONDENAÇÃO.
+    1) Inexiste previsão específica no Estatuto do Magistério acerca do pagamento do abono familiar, razão pela qual, aplica-se o disposto no art. 118 da Lei Complementar Estadual 10.098/94.
+    2) Em que pese o autor esteja vinculado ao sistema do RGPS, não percebe o salário família, conforme se verifica por meio de seu contracheque anexado nos autos, assim, não se enquadra na exceção prevista no parágrafo 2º do artigo 2º da Lei Estadual nº 6.526/73, e sim, na regra geral dos funcionários públicos estaduais, que não impõe limite de faixa salarial.
+    3) A legislação estadual apenas exige que a parte não receba o salário família, sem prever que o pagamento seja condicionado à tabela do salário família a ser pago pelo INSS, portanto, o que se denota da análise do §2º do artigo 2º da Lei 6.526/73 é que a intenção do legislador foi evitar o pagamento em conjunto do abono familiar e do salário família, o que implicaria no pagamento em duplicidade de benefício sobre a mesma situação fática, o que não é o caso dos autos.
+    4) No entanto, merece reforma a sentença quanto ao termo inicial da condenação, pois determinou o pagamento dos atrasados dentro do prazo prescricional, todavia, tal não pode ser acolhido, porque o §3º do artigo 2º da Lei 6.256/73, dispõe que “o abono familiar será pago a partir do mês em que for feita, pelo servidor ou pensionista, perante a repartição competente, prova de filiação” e, da análise da Pasta Funcional do autor anexada nos autos,verifico que não consta cadastrado o seu filho como dependente, bem como não há prova de que foi feito o requerimento de inclusão de dependente no âmbito administrativo, razão pela qual a condenação deve ser limitada ao ajuizamento da presente demanda.
+    RECURSO INOMINADO PARCIALMENTE PROVIDO. UNÂNIME.”
+    O recurso não merece acolhida, tendo em vista que a decisão proferida pelo Tribunal de origem se alinha à jurisprudência do Supremo Tribunal Federal (RE 1.159.415, Relª. Minª. Rosa Weber; RE 1.166.218, Rel. Min. Marco Aurélio; RE 1.162.187, Rel. Min. Edson Fachin).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 14 de junho de 2019.
+Ministro Luís Roberto Barroso
+Relator
