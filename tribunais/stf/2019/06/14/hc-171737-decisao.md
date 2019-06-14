@@ -1,0 +1,28 @@
+DECISÃO
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE ENTORPECENTE. PRISÃO PREVENTIVA. INDEFERIMENTO DE MEDIDA LIMINAR POR DESEMBARGADOR. ATO QUESTIONADO NO SUPERIOR TRIBUNAL DE JUSTIÇA. JULGAMENTO DE MÉRITO DA IMPETRAÇÃO NO TRIBUNAL DE JUSTIÇA. ACÓRDÃO SUBSTITUTIVO DA DECISÃO MONOCRÁTICA. HABEAS CORPUS PREJUDICADO.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por Cícero Salum do Amaral Lincoln e José Maurício Camargo, advogados, em benefício de Lucas Felipe Manoel contra decisão do Ministro Ribeiro Dantas, do Superior Tribunal de Justiça, que, em 22.5.2019, indeferiu liminarmente o Habeas Corpus n. 511.502, cujo objeto é o indeferimento da medida liminar no Habeas Corpus n. 0007650-40.2019.8.26.0000 pelo Desembargador Jaime Ferreira Menino, do Tribunal de Justiça de São Paulo.
+O caso
+    2. Consta dos autos ter sido o paciente condenado à pena de dez anos de reclusão, em regime inicial fechado, pela prática dos delitos previstos nos arts. 33 e 35 da Lei n. 11.343/2006, sendo-lhe negado o direito de recorrer em liberdade.
+    3. A defesa do paciente impetrou no Tribunal de Justiça de São Paulo o Habeas Corpus n. 0007650-40.2019.8.26.0000, cuja medida liminar foi indeferida pelo Desembargador Jaime Ferreira Menino.
+    4. Essa decisão foi objeto do Habeas Corpus n. 511.502 no Superior Tribunal de Justiça, indeferido liminarmente pelo Relator, Ministro Ribeiro Dantas, em 22.5.2019, aplicada à espécie a Súmula n. 691 deste Supremo Tribunal:
+    “(...) Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691 do STF).
+    Sobre o tema, os seguintes precedentes: (...)
+    No caso dos autos, não verifico a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem.
+    Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus”.
+    5. Contra essa decisão, impetra-se o presente habeas corpus, no qual os impetrantes reiteram a alegação de flagrante ilegalidade em razão da manutenção da custódia cautelar, por ausência de fundamentação idônea.
+    Sustentam que, “apesar de mantida pela Autoridade ora coatora, a decisão do Juízo singular cinge-se, de forma exclusiva, à mera abstrata gravidade dos fatos delituosos, (...) se trata de redação textual padrão, expedido todas as sentenças proferidas no juízo de origem que se limita a ratificar decreto padrão lançado em plantão judiciário de audiência de custódia, bem como complementar a justificativa da necessidade da custódia com base em citações genéricas acerca da gravidade abstrata do delito, sem qualquer exposição de elemento concreto circunstancial dos autos, tudo e m total desrespeito ao magistério jurisprudencial da Corte Superior e d esse c. Supremo Tribunal Federal”.
+    Defendem que “a singela menção à quantidade de entorpecentes sem estar associada a outro elemento concreto demonstrativo da periculosidade do agente, não se sustenta, pois , baseado, neste contexto, na mera gravidade abstrata da imputação “.
+    É o teor do requerimento e do pedido:
+    “Assim, presentes as razões expostas, requer seja, deferido o pedido de medida liminar, para, até final julgamento desta ação de  “habeas corpus”, suspender cautelarmente com imposição de condições (medidas cautelares do art. 319, do CPP) a ordem de prisão preventiva determinada ao paciente na sentença proferida nos autos do Processo - crime nº 1500769 - 40.2018.8.26.0571, pelo Juízo de Direito da 2ª Vara Criminal da comarca de Tatuí/SP expedindo - se, imediatamente, em seu favor o respectivo alvará de soltura ”.
+    Examinada a matéria posta à apreciação, DECIDO.
+    6. A presente impetração está prejudicada.
+    7. A presente ação foi impetrada contra ato do Ministro Ribeiro Dantas, do Superior Tribunal de Justiça, que indeferiu liminarmente o Habeas Corpus n. 511.502, impetrado contra a decisão de indeferimento da medida liminar requerida no Habeas Corpus n. 0007650-40.2019.8.26.0000 Relator o Desembargador Jaime Ferreira Menino, do Tribunal de Justiça de São Paulo.
+    Consta do sítio do Tribunal de Justiça de São Paulo ter sido denegada a ordem no Habeas Corpus n. 0007650-40.2019.8.26.0000, em 25.4.2019:
+    “HABEAS CORPUS – TRÁFICO ILÍCITO DE DROGAS – Liberdade provisória com a expedição de alvará de soltura em favor do paciente – Revogação da prisão preventiva para aguardar o julgamento em liberdade - Pedido sustentado na alegação de que não estariam presentes os requisitos da custódia cautelar – Constrangimento ilegal não verificado – Requisitos da constrição cautelar se encontram presentes no caso em análise, sendo necessária a manutenção da prisão – Crime com pena máxima superior a 04 anos - Inteligência do artigo 313, I do CPP – Necessidade de garantia da ordem pública – Impossibilidade de aplicação de quaisquer das medidas cautelares diversas do cárcere – Decisão de primeira instância bem fundamentada – Ordem denegada”.
+    A decisão objeto da impetração no Superior Tribunal de Justiça foi substituída pelo julgamento de mérito no Tribunal de Justiça paulista. Os novos fundamentos desse julgado não podem ser apreciados nesta impetração, sob pena de supressão de instância.
+    8. Pelas mudanças processadas no quadro fático-jurídico após a impetração, julgo prejudicado o presente habeas corpus (inc. IX do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 14 de junho de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
