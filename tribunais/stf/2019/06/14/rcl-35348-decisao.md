@@ -1,0 +1,35 @@
+Trata-se de reclamação com pedido de liminar proposta por Benassi e Benassi Advogados Associados contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo - TJSP, que teria usurpado a competência desta Corte Superior para conhecer e julgar agravo interposto contra acórdão que negou provimento ao agravo interno apresentado em face da decisão que negou seguimento ao recurso extraordinário por inexistência de repercussão geral (Temas 660 e 339/STF).
+    O reclamante sustenta, em síntese, que:
+    “[...] A r. decisão hostilizada pela presente Reclamação, como de costume, vale-se de fórmulas prontas de indeferimento de recursos constitucionais, o que, por si só, configura negativa de prestação jurisdicional. Além disso, desborda da competência que tem para o juízo de prelibação e ingressa no juízo de delibação mesmo, usurpando a competência dessa Corte de Vértice para barrar o Extraordinário.
+    Deveras, dispõe o art. 1.042, do CPC:
+    […]
+    O agravo interno previsto no artigo acima é, evidentemente, a instrumentalização do princípio da colegialidade, sendo medida de rigor que a Turma manifeste sobre o presente recurso.
+    Salta aos olhos o equívoco da decisão do E. Tribunal de Justiça de São Paulo, que ingressa no juízo de delibação julgando o mérito mesmo do Recurso Extraordinário, mas esta questão, repita-se, é de mérito, não deve ser analisada em juízo de prelibação, sob pena de usurpação de competência da Instância Superior.
+    Não há dúvida alguma que o recurso cabível da decisão que inadmite o Recurso Extraordinário com base na sistemática da repercussão geral é o agravo interno (art. 1.030, § 2º, do CPC). Em verdade, o legislador apenas incluiu no Novo Código o que a jurisprudência do STF e do STJ já havia afirmado sobre este ponto.
+    Não por menos, a reclamante, quando do despacho denegatório de fls., interpôs o competente agravo interno (art. 1.030, § 2º, CPC) demonstrando a aplicação dos precedentes por ela invocados ao caso concreto, bem como a inaplicabilidade do Tema invocado na r. decisão hostilizada.
+    Destaque-se, portanto, que a fundamentação de que o recurso cabível contra a decisão que inadmite o Recurso Extraordinário com base na sistemática da repercussão geral é o agravo interno, e, portanto, inviável a interposição de agravo em recurso extraordinário, não tem pertinência ao caso vertente, uma vez que o competente recurso já foi interposto pela ora reclamante” (pág. 8-9 da petição inicial - grifos no original).
+    Ao final, requer “o provimento da presente Reclamação, para determinar à Câmara Especial de Presidentes do Egrégio Tribunal de Justiça de São Paulo que remete o agravo contra despacho denegatório de RE interposto para essa Suprema Corte” (pág. 26 da petição inicial).
+    É o relatório. Decido.
+    Consigno que deixei de ouvir a Procuradoria-Geral da República uma vez que há jurisprudência firmada pelo Plenário desta Corte sobre a matéria versada nos autos (art. 52, parágrafo único, do RISTF).
+    A reclamação prevista nos arts. 102, I, l, e 103-A, § 3°, da Constituição Federal tem cabimento nas hipóteses de usurpação da competência do Supremo Tribunal Federal, de desobediência à súmula vinculante ou de descumprimento de decisão desta Corte com efeito vinculante.
+    Ademais, é pacífico o entendimento no sentido de que a competência originária do STF se submete a regime de direito estrito, estando delimitada, em rol taxativo, previsto no art. 102 da Constituição Federal. Nesse sentido:
+    “[...] A COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL - CUJOS FUNDAMENTOS REPOUSAM NA CONSTITUIÇÃO DA REPÚBLICA - SUBMETE-SE A REGIME DE DIREITO ESTRITO. - A competência originária do Supremo Tribunal Federal, por qualificar-se como um complexo de atribuições jurisdicionais de extração essencialmente constitucional - e ante o regime de direito estrito a que se acha submetida - não comporta a possibilidade de ser estendida a situações que extravasem os limites fixados, em numerus  clausus, pelo rol exaustivo inscrito no art. 102, I, da Constituição da República. Precedentes. […] (Pet 1.738/MG-AgR, Rel. Min. Celso de Mello, Pleno, DJ de 01/10/99. Em igual sentido: Rcl 5411-AgR/GO, de minha relatoria, Tribunal Pleno)”.
+    Contudo, da mera leitura da inicial percebe-se que o pedido não preenche nenhuma das hipóteses autorizadoras da reclamação.
+    Transcrevo o teor da decisão da Presidência da Seção de Direito privado do TJSP, ora atacada:
+    “I. Trata-se de agravo em recurso extraordinário interposto por Benassi e Benassi Advogados Associados contra o acórdão da Câmara Especial de Presidentes a fls. 1753/1756.
+    II. O recurso é manifestamente descabido.
+    O Superior Tribunal de Justiça e o Supremo Tribunal Federal firmaram entendimento no sentido de que o único recurso cabível para impugnação de decisão denegatória de seguimento de recurso especial ou extraordinário em razão da aplicação da sistemática dos recursos repetitivos é o agravo interno, sujeito ao julgamento, com exclusividade e em caráter definitivo, pela Câmara Especial de Presidentes (art. 33-A do Regimento Interno deste Tribunal de Justiça1 , incluído pelo Assento Regimental 565/2017).
+    […]
+     Assim, não há como dar prosseguimento ao presente recurso, sob pena de inaugurar instância recursal não prevista pelo legislador processual.
+    III. Pelo exposto, NÃO CONHEÇO do presente reclamo, com a ressalva de que eventual apresentação de qualquer outro recurso, a essa altura, será tida como de caráter procrastinatório, ensejando a condenação do peticionário ao pagamento de multa, nos termos dos artigos 80 e 81 do Código de Processo Civil” (documento eletrônico 11 - grifos no original)
+    Com efeito, verifico a plena regularidade do procedimento adotado pela Corte Bandeirante, que não conheceu do agravo em recurso extraordinário, pois foi interposto contra o acórdão que negou provimento ao agravo interno, portanto, manifestamente incabível.
+    Isso porque o agravo em recurso extraordinário é cabível somente contra a decisão monocrática que inadmite o recurso extraordinário, conforme previsto nos artigos 1.030, § 1°, e 1.042, ambos do Código de Processo Civil, verbis:
+    “Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+    […]
+    § 1° Da decisão de inadmissibilidade proferida com fundamento no inciso V caberá agravo ao tribunal superior, nos termos do art. 1.042.
+    Art. 1.042. Cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos”.
+    Isso posto, julgo improcedente esta reclamação (art. 161, parágrafo único, do RISTF). Prejudicado o pleito cautelar.
+    Publique-se.
+    Brasília, 14 de junho de 2019.
+Ministro Ricardo Lewandowski
+Relator
