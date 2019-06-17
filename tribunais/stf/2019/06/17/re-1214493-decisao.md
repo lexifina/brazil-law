@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – SEGUIMENTO – NEGATIVA .
+    1. A Turma Recursal, reformando parcialmente o entendimento do Juízo, julgou procedente o pedido de concessão do abono de permanência ao policial militar, tendo por preenchidos os requisitos da legislação de regência. No extraordinário, o recorrente aponta violados os artigos 5º, inciso II, 37, cabeça, 40, § 4º, inciso III, 42 e 142, § 3º, inciso X, da Constituição Federal. Afirma a impossibilidade de deferimento do benefício, considerado o regime jurídico próprio dos militares estaduais. Entente contrariado o verbete vinculante nº 37 da Súmula do Supremo
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    Partindo da premissa de que é aplicável aos servidores públicos o regramento do RGPS, resta saber se, no caso concreto, o autor cumpre os requisitos legais para que tenha direito à aposentadoria especial. Analisando os documentos trazidos ao processo, a resposta é positiva. É fato incontroverso que o autor percebe adicional de insalubridade em seu nível máximo desde 03 de março de 1989, ou seja, mais de 25 anos de atividade exercida em condições especiais. Utilizando-se a tabela contida no art. 70 do Decreto 3.048/99, o autor alcançou o direito à aposentadoria especial, fato que garante a percepção do abono de permanência referente ao período imprescrito.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário. Deixo de majorar os honorários recursais, previstos no artigo 85, § 11, do citado diploma legal, porquanto ausente fixação de verba sucumbencial na origem.
+    4. Publiquem.
+Brasília, 17 de junho de 2019.
+Ministro MARCO AURÉLIO
+Relator
