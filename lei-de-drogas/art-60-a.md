@@ -1,0 +1,5 @@
+Art. 60-A. Quando as medidas assecuratórias de que trata o art. 60 recaírem sobre moeda estrangeira, títulos, valores mobiliários ou cheques emitidos como ordem de pagamento, será determinada, imediatamente, a conversão em moeda nacional.
+§ 1º A moeda estrangeira apreendida em espécie será encaminhada a instituição financeira ou equiparada para alienação na forma prevista pelo Conselho Monetário Nacional.
+§ 2º Em caso de impossibilidade da alienação a que se refere o § 1º, a moeda estrangeira será custodiada pela instituição financeira até decisão sobre o seu destino.
+§ 3º Após a decisão sobre o destino da moeda estrangeira, caso seja verificada a inexistência de valor de mercado, a moeda poderá ser doada à representação diplomática do seu país de origem ou destruída.
+§ 4º Os valores relativos às apreensões feitas antes da data de entrada em vigor da Medida Provisória nº 885, de 17 de junho de 2019, e que estejam custodiados nas dependências do Banco Central do Brasil serão transferidos, no prazo de trezentos e sessenta dias, à Caixa Econômica Federal para que se proceda à alienação ou custódia, de acordo com o previsto nesta Lei.
