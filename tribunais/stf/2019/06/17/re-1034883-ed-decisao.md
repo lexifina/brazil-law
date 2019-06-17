@@ -1,0 +1,25 @@
+Trata-se de embargos de declaração opostos pelo Conselho Regional de Odontologia de São Paulo contra decisão monocrática, de minha relatoria, que proveu o recurso extraordinário interposto pelo Ministério Público do Trabalho, ao concluir que o acórdão recorrido estava em dissonância com o entendimento desta Corte, no sentido de que os conselhos de fiscalização profissional possuem natureza jurídica de autarquia federal.
+    O embargante alega que, com o provimento do recurso extraordinário, a decisão embargada omitiu-se ao não modular os efeitos dessa reversão da sucumbência.
+    O embargante entende que:
+    “[...]
+    6. Em observância ao efeito ex tunc dessa ADIN, cujo o trânsito se deu em 28/03/2003, é de fundamental importância, até mesmo para o funcionamento do ora peticionário, que seja reconhecida tal data como marco divisório, mantendo-se como válidos as contratações anteriores a tal data.
+    7. No mais, também é de se observar que não houve clara decisão sobre a improbidade.”
+    É o relatório. Decido.
+    Bem reexaminados os autos, verifico que os embargos de declaração merecem ser acolhidos apenas para prestar esclarecimentos.
+    Assim dei provimento ao recurso extraordinário, considerando que o acórdão recorrido não está em consonância com a jurisprudência deste Tribunal no sentido de que os conselhos de fiscalização profissional estão submetidos aos preceitos previstos no art. 37, II, da Constituição Federal, sendo necessária a realização de concurso público para contratação de servidores ou empregados públicos.
+    Nesse sentido, mencionei os seguintes precedentes: RE 539.224/CE, Rel. Min. Luix Fux; RE 697.099-AgR/DF, Rel. Min. Marco Aurélio; RE 758.168-AgR/DF, de minha relatoria; RE 922.374-ED-AgR/SP e RE 1.112.332-ED/SP, Rel. Min. Alexandre de Moraes.
+    Conforme consignado nesses precedentes, especificamente na ementa do RE 922.374-Ed-AgR/SP, de relatoria do Ministro Alexandre de Moraes, “inexiste expressa modulação temporal dos efeitos do julgamento no STF a respeito da questão agravada, de modo que se estabelece como marco inicial para a contratação de pessoal por concurso público para o preenchimento de vagas nos conselhos federais de fiscalização a data da promulgação da Constituição Federal de 1988, nos termos do seu art. 37, II, conforme os precedentes desta Corte”.
+    Mencionei, ainda, o julgamento, pelo Plenário desta Corte, do RE 705.140-RG/RS (Tema 308), de relatoria do Ministro Teori Zavascki, que fixou tese de repercussão geral, nos seguintes termos:
+    “A Constituição de 1988 comina de nulidade as contratações de pessoal pela Administração Pública sem a observância das normas referentes à indispensabilidade da prévia aprovação em concurso público (CF, art. 37, § 2º), não gerando, essas contratações, quaisquer efeitos jurídicos válidos em relação aos empregados contratados, a não ser o direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/90, ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço – FGTS”.
+    O entendimento desta Corte é no sentido de que a Constituição de 1988 comina de nulidade as contratações de pessoal pela Administração Pública sem a observância das normas referentes à indispensabilidade da prévia aprovação em concurso público (CF, art. 37, § 2º), não gerando, essas contratações, quaisquer efeitos jurídicos válidos em relação aos empregados contratados, a não ser o direito à percepção dos salários referentes ao período trabalhado e ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço (FGTS).
+    Tal como ocorreu na decisão embargada, transcrevo a ementa desse julgamento :
+    “CONSTITUCIONAL E TRABALHO. CONTRATAÇÃO DE PESSOAL PELA ADMINISTRAÇÃO PÚBLICA SEM CONCURSO. NULIDADE. EFEITOS JURÍDICOS ADMISSÍVEIS EM RELAÇÃO A EMPREGADOS: PAGAMENTO DE SALDO SALARIAL E LEVANTAMENTO DE FGTS (RE 596.478 - REPERCUSSÃO GERAL). INEXIGIBILIDADE DE OUTRAS VERBAS, MESMO A TÍTULO INDENIZATÓRIO.
+    1. Conforme reiteradamente afirmado pelo Supremo Tribunal Federal, a Constituição de 1988 reprova severamente as contratações de pessoal pela Administração Pública sem a observância das normas referentes à indispensabilidade da prévia aprovação em concurso público, cominando a sua nulidade e impondo sanções à autoridade responsável (CF, art. 37, § 2º).
+    2. No que se refere a empregados, essas contratações ilegítimas não geram quaisquer efeitos jurídicos válidos, a não ser o direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/90, ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço – FGTS.
+    3. Recurso extraordinário desprovido.” (grifei).
+    Quanto à improbidade, este tema não constou das razões do recurso extraordinário.
+     Isso posto, acolho os embargos de declaração, sem modificação do julgado, apenas para prestar os esclarecimentos acima.
+    Publique-se.
+    Brasília, 17 de junho de 2019.
+Ministro Ricardo Lewandowski
+Relator
