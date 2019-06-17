@@ -1,0 +1,54 @@
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO TEMPORÁRIO SEM CONCURSO PÚBLICO. DECLARAÇÃO DE INCONSTITUCIONALIDADE DA LEI COMPLEMENTAR 100/2007. NULIDADE DOS CONTRATOS. [NOME]. PRECEDENTES DO STF E DO STJ.
+1. Consoante a jurisprudência do STJ, é assegurado o direito aos depósitos do [NOME] aos servidores que tiveram o contrato de trabalho declarado nulo em razão da inobservância da regra constitucional de concurso público. Precedente: EDcl no AgInt no REsp nº 1.743.031/ MG, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 26/3/2019.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Cuida-se de agravo interno interposto pelo Estado de Minas Gerais contra decisão assim ementada (e-STJ fls. 365-371):
+ADMINISTRATIVO. RECURSO ESPECIAL. [NOME]. SERVIDOR PÚBLICO. CONTRATO DECLARADO NULO. DEPÓSITOS DEVIDOS. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+
+Sustenta o Estado, em síntese, que a agravada não faz jus aos depósitos do [NOME], porquanto a inconstitucionalidade da Lei Complementar estadual 100/2007 não significa a nulidade dos contratos temporários subjacentes.
+Afirma, ainda, que no julgamento da ADI 4.876/MG, pelo STF, não houve declaração de nulidade dos contratos temporários, mas apenas a declaração de inconstitucionalidade das efetivações feitas pela LC 100/2007, o que, por si só, afasta o direito aos depósitos do [NOME].
+Impugnação apresentada às e-STJ fls. 399-1.079.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO TEMPORÁRIO SEM CONCURSO PÚBLICO. DECLARAÇÃO DE INCONSTITUCIONALIDADE DA LEI COMPLEMENTAR 100/2007. NULIDADE DOS CONTRATOS. [NOME]. PRECEDENTES DO STF E DO STJ.
+1. Consoante a jurisprudência do STJ, é assegurado o direito aos depósitos do [NOME] aos servidores que tiveram o contrato de trabalho declarado nulo em razão da inobservância da regra constitucional de concurso público. Precedente: EDcl no AgInt no REsp nº 1.743.031/ MG, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 26/3/2019.
+2. Agravo interno não provido.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O recurso não merece prosperar.
+O Tribunal de origem indeferiu o pedido quanto à percepção de verbas do [NOME] por entender que a irregularidade da contratação da agravada não possui o condão de alterar a natureza jurídico-administrativa do vínculo entre as partes. Para tanto, deixou assentado o seguinte (e-STJ fls. 184-194):
+No presente recurso o que se analisa é se os servidores efetivados pela Lei Complementar Estadual nº 100/2007 fazem jus ao recebimento de [NOME].
+Tais relações jurídicas mantidas entre os servidores outrora amparados pela Lei Complementar Estadual nº 100/2007 não detinham caráter contratual, mas, sim, estatutária.
+ ..
+A controvérsia observada compreende a verificação do direito da autora/apelante à percepção do Fundo de Garantia por Tempo de Serviço - [NOME] -, calculado sobre o contrato administrativo celebrado com o Poder Público, conforme requerido na inicial.
+Do exame das informações contidas nos autos, observa-se que a contratação da autora/apelante ocorreu por meio da Lei Complementar Estadual nº 100/2007, que efetivou professores, especialistas em educação e serviçais designados, nos respectivos cargos, mesmo sem terem sido aprovados em concurso público.
+Tal medida viola a regra do artigo 37, inciso II, da Constituição Federal, que exige que a investidura em cargo público seja precedida de aprovação em concurso,  ..
+ ..
+Cumpre ressaltar, ainda, que a Lei Complementar Estadual nº 100/2007 foi declarada inconstitucional pelo e. Supremo Tribunal Federal:
+ ..
+Nesse passo, o ajuste firmado entre as partes, independentemente da declaração de nulidade, demonstram a natureza administrativa, de modo que, não sendo o vínculo abrangido pela Consolidação das Leis do Trabalho - CLT -, não se cogita de verbas rescisórias típicas da legislação trabalhista, dentre as quais o Fundo de Garantia por Tempo de Serviço ([NOME]).
+ ..
+Outrossim, não apenas tendo em vista a aplicabilidade do preceito decorrente da jurisprudência do STF acima mencionada apenas às hipóteses nas quais o vínculo firmado entre empregado e a Administração Pública tenha se estabelecido pelo regime celetista, não se considera possível a extensão dos efeitos das mencionadas decisões nas hipóteses em que os contratos tenham sido firmados sobre o regime estatutário.
+ ..
+Portanto, não se justifica a pretensão formulada quanto ao pagamento das verbas relativas aos depósitos em conta vinculada do trabalhador referente ao [NOME], visto que mencionada determinação apenas é possível para as hipóteses nas quais o vínculo estabelecido pelas partes é de natureza jurídica trabalhista.
+No entanto, consoante a jurisprudência deste STJ, fortemente alinhada ao entendimento do Supremo Tribunal Federal exarado no regime de Repercussão Geral (Temas 191/STF, 308/STF e 916/STF), é assegurado o direito aos depósitos do [NOME] aos servidores que tiveram o contrato de trabalho declarado nulo em razão da inobservância da regra constitucional de concurso público.
+Vale asseverar que a declaração de inconstitucionalidade da Lei Complementar 100/2007 do Estado de Minas Gerais pelo Supremo Tribunal Federal, que, ao julgar a ADI 4.876/MG, reconheceu a nulidade do diploma na parte em que efetivou como titulares de cargo efetivo servidores que ingressaram na Administração Pública com evidente burla ao princípio do concurso público (art. 37, II, da Constituição Federal), restando devidamente caracterizada a nulidade do contrato de trabalho de tais servidores.
+Sendo assim, faz jus a servidora, ora agravada, aos depósitos do [NOME] desde a entrada em vigor da mencionada Lei.
+Confiram-se, a propósito, os precedentes mais recentes desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS SEUS REQUISITOS PROCEDIMENTAIS. DECLARAÇÃO DE INCONSTITUCIONALIDADE DA LEI COMPLEMENTAR 100/2007. NULIDADE DO CONTRATO. DIREITO AOS DEPÓSITOS DO [NOME]. EMBARGOS DE DECLARAÇÃO DO ESTADO DE MINAS GERAIS REJEITADOS.
+ ..
+4. De todo modo, não é demais lembrar que com a declaração de inconstitucionalidade da Lei Complementar 100/2007 do Estado de Minas Gerais pelo Supremo Tribunal Federal, que, ao julgar a ADI 4897/MG, reconheceu a nulidade do diploma na parte em que tornou titulares de cargo efetivo Servidores que ingressaram na Administração Pública com evidente burla ao princípio do concurso público (art. 37, II da Constituição Federal), restou devidamente caracterizada a nulidade do contrato de trabalho dos Servidores. Com efeito, faz jus o Servidor aos depósitos do [NOME] desde a entrada em vigor da mencionada Lei.
+5. Assim, não havendo a presença de quaisquer dos vícios elencados no art. 1.022 do Código Fux, a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos e não podem ser ampliados.
+6. Embargos de Declaração do ESTADO DE MINAS GERAIS rejeitados. (EDcl no AgInt no REsp 1.743.031/MG, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 26/3/2019 - grifei).
+ADMINISTRATIVO. SERVIDOR. [NOME]. DECLARAÇÃO DE INCONSTITUCIONALIDADE DA LEI COMPLEMENTAR 100/2007. DECLARAÇÃO DE NULIDADE DA CONTRATAÇÃO. DIREITO AO [NOME]. ACÓRDÃO DA CORTE DE ORIGEM QUE CONTRARIA JURISPRUDÊNCIA DO STF.
+1. Conforme já disposto no decisum combatido, o Tribunal a quo consignou (fls. 207-208, e-STJ): "Em que pese o respeitoso entendimento exarado pela eminente Relatora, peço vênia, para divergir. Resta incontroverso ter sido a apelante designada para exercer a função de professora, sendo efetivada nos termos do art. 7º da Lei Complementar Estadual nº 100. Destarte, tem-se que a natureza da relação jurídica estabelecida entre as partes é tipicamente jurídico-administrativa e não celetista, sendo certo que a declaração de inconstitucionalidade da LC nº. 100/2007, por ofensa ao art. 37, inciso II, da Constituição Federal, não tem o condão de alterar referida natureza. Assim, embora tenha manifestado em sentido contrário, percebo que durante o período em que esteve prestando serviços ao Estado, aplicava-se à autora, ora apelante, o regime jurídico dos servidores públicos, razão pela qual, não tem direito ao [NOME], aplicável tão somente aos contratos regidos pelo regime celetista ou em decorrência do reconhecimento da nulidade do vínculo com a Administração Pública (art. 19-A da Lei Federal nº 8.036/1990), quando adotado o regime trabalhista, o que, repita-se, não é a hipótese dos autos. Não há, pois, como acolher em relação ao período laborado, o direito àquela verba, nem de qualquer outro direito ou verba fundamentada na CLT".
+2. O acórdão recorrido contraria a orientação do STJ, "no sentido de que é assegurado o direito aos depósitos do Fundo de Garantia do Tempo de Serviço - [NOME] aos servidores que tiveram o contrato de trabalho declarado nulo em razão da inobservância das regras constitucionais de contratação temporária" (STJ, AgInt no REsp 1.657.345/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 21/6/2017).
+3. Na forma da jurisprudência do STJ, "firmada, por ocasião do julgamento do REsp. 1.110.848/RN (Rel. Min. Luiz Fux, DJe 3.8.2009), sob o regime do art. 543-C do CPC, (..) a declaração de nulidade do contrato de trabalho em razão da ocupação de cargo público sem a necessária aprovação em prévio concurso público, consoante previsto no art. 37, II, da CF, equipara-se à ocorrência de culpa recíproca, gerando, para o trabalhador, o direito ao levantamento das quantias depositadas na sua conta vinculada ao [NOME]." (REsp 1.665.174/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 30/6/2017).
+4. Com efeito, a jurisprudência do STJ vem consolidando o entendimento de que,"(..) é a nulidade da contração que faz nascer o direito ao [NOME]. E, na espécie, a nulidade da contratação foi reconhecida pelo TJMG, visto que o ente estadual promulgou lei com o intuito de burlar o requisito da prévia aprovação em concurso público (..)." (AgInt no REsp 1.737.255/MG, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 29/8/2018).
+5. Agravo Interno não provido. (AgInt no REsp 1.731.455/MG, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19/11/2018 - grifei)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
