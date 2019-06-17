@@ -1,0 +1,6 @@
+Art. 62-A. O depósito, em dinheiro, de valores referentes ao produto da alienação ou relacionados a numerários apreendidos ou que tenham sido convertidos, serão efetuados na Caixa Econômica Federal, por meio de documento de arrecadação destinado a essa finalidade.
+§ 1º Os depósitos a que se refere o caput serão repassados pela Caixa Econômica Federal para a Conta Única do Tesouro Nacional, independentemente de qualquer formalidade, no prazo de vinte e quatro horas, contado do momento da realização do depósito.
+§ 2º Na hipótese de absolvição do acusado em decisão judicial, o valor do depósito será devolvido ao acusado pela Caixa Econômica Federal no prazo de até três dias úteis, acrescido de juros, na forma estabelecida pelo § 4º do art. 39 da Lei nº 9.250, de 26 de dezembro de 1995.
+§ 3º Na hipótese de decretação do seu perdimento em favor da União, o valor do depósito será transformado em pagamento definitivo, respeitados os direitos de eventuais lesados e de terceiros de boa-fé.
+§ 4º Os valores devolvidos pela Caixa Econômica Federal, por decisão judicial, serão efetuados como anulação de receita do Fundo Nacional Antidrogas no exercício em que ocorrer a devolução.
+§ 5º A Caixa Econômica Federal manterá o controle dos valores depositados ou devolvidos.
