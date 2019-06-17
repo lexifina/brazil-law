@@ -1,0 +1,23 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão que denegou a ordem (eDOC 44).
+    Aduz o embargante que “inúmeros processos são encaminhados por ‘conexão’ à 7ª Vara quando, na verdade, esta conexão não existe. É a verdadeira deturpação do princípio do Juiz Natural através da manipulação dos mecanismos de distribuição, uma vez que o Ministério Público acaba por escolher o julgador de sua causa e, ainda, repete isso para todos os processos seguintes e gera, portanto, nulidade absoluta.” (eDOC 45, p. 4)
+    Assevera que “o que se demonstrou na inicial deste writ foi exatamente a segunda hipótese. O caso concreto é muito mais grave do que transparece ao primeiro olhar e não se limita a mera inobservância de prevenção. Conforme exposto, é exatamente o contrário. O Ministério Público Federal diuturnamente escolhe o julgador de seus casos encaminhando processos para prevenção da 7ª Vara Federal quando, esta, simplesmente não existe.”
+    Afirma que “o STF já se manifestou no sentido especificamente no sentido de que o direcionamento injustificado da causa a determinado juízo configura ofensa ao princípio do juiz natural, e enseja nulidade absoluta. […] (AI 548.203/AL. Julg. 12/02/2008. Segunda Turma. Rel. Ministro Cezar Peluso).”
+    Requer “a atribuição de modificativos aos declaratórios, para o fim de reconhecer que o presente habeas corpus não se destina a tão somente discutir inobservância de prevenção, mas sim verdadeiro direcionamento injustificado de processos a um determinado juízo, gerando, nos moldes do AI 548.203 do STF, nulidade absoluta, submetendo, desta maneira o presente habeas corpus para julgamento, ao final dando-lhe provimento nos termos dos pedidos feitos na inicial.” (eDOC 45, p. 12-13)
+    É o relatório.
+    Decido.
+    O cabimento dos embargos de declaração restringe-se à análise de contradição, omissão, obscuridade ou para correção de erro material. Na hipótese dos autos, não vislumbro a ocorrência de qualquer dos vícios na decisão embargada.
+    Registro, de início, que o direcionamento de processos a determinado Juízo de um mesmo território é causa de nulidade relativa, pois a competência territorial é prorrogável. Dito isso, deve ser arguida na primeira oportunidade que a parte tem de falar nos autos, sob pena de preclusão.
+    Mais a mais, o próprio embargante, na inicial, afirma que “a ilegalidade dizia respeito à irregular atração de competência operada na 7ª Vara Federal Criminal do Rio de Janeiro, em autos de Ação Penal que o Paciente responde na condição de acusado, a denominada Operação Calicute. Referida Operação foi distribuída por dependência à Operação Saqueador, sob a alegação de que os atos que ensejaram-na foram decorrentes do esquema de “corrupção, fraudes, e lavagem de dinheiro” relacionados àquela.” (eDOC 1, p. 6)
+    Nestes embargos, inova o embargante para dizer que o direcionamento ocorreu sem qualquer justificativa, tudo a tentar amoldar seu caso àquele decidido nos autos do AI 548.203, Rel. Min. Cezar Peluso.
+    Na espécie, a justificativa pode até ser inválida, mas ela, ao contrário do paradigma, existe e foi trazida pelo próprio embargante.
+    Mais a mais, conforme consta do relatório do acórdão proferido pela Segunda Turma, “na primeira oportunidade para se manifestar nos autos, o agravante argüiu nulidade na distribuição, em razão do seu direcionamento injustificado, em clara violação ao princípio do juiz natural.” (AI 548.203, Rel. Min. Cezar Peluso)
+    No caso dos autos, não houve direcionamento injustificado, como o próprio embargante confessa na inicial, tampouco se suscitou a incompetência na primeira oportunidade.
+    Ademais, o fato de constar, apenas da ementa do paradigma, afirmação no sentido de ser causa de nulidade absoluta, conduz à conclusão pelo mero erro material na sua confecção, pois, em nenhum momento do voto, afirma-se no sentido. Se a nulidade era absoluta, inteiramente desnecessário frisar que a parte teria se manifestado na primeira oportunidade que teve.
+    In casu, em suma, conforme registrei na decisão embargada, não ficou comprovada a suscitação de incompetência tempestivamente, motivo por que o Juízo incompetente tornou-se competente, ante a implementação da prorrogação de competência.
+    Incompetência territorial, desse modo, não é, como afirma o embargante, causa de nulidade absoluta.
+    Ante o exposto, com base no art. 620, §2º, do Código de Processo Penal e art. 21, §1º, do RISTF, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 17 de junho de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
