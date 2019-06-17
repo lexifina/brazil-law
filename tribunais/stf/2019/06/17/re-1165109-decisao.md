@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. CONTROVÉRSIA SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 1.036 DO CÓDIGO DE PROCESSO CIVIL. PARÁGRAFO ÚNICO DO ART. 328 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM. BAIXA IMEDIATA.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “APELAÇÃO — EXECUÇÃO. Implantação administrativa do benefício com atraso. Necessidade de pagamento de todas as parcelas vencidas e não pagas com acréscimo de juros de mora. Requisição de pequeno valor paga após o prazo de 60 dias estabelecido pelo art. 17 da Lei nº 10.259/2001. Período de graça. Impossibilidade. Incidência de juros em todo o período. Aplicação analógica da Súmula Vinculante nº 17. Recurso provido” (fl. 14, vol. 2).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O recorrente assevera contrariados o § 5º do art. 100 e o § 2º do art. 102 da Constituição da República e sustenta a não “incidência de juros moratórios durante todo o período, isto é, desde a data da conta de liquidação até a data do depósito, uma vez que o pagamento da RPV ocorreu fora do prazo legal de 60 dias previsto na lei nº 10.259/2001” (fl. 159, vol. 2).
+    Pede seja “exclu[ída] a incidência de juros de mora a partir da data da conta de liquidação, em atenção às normas dos § 2º do artigo 102, da Constituição Federal.
+    Subsidiariamente, requer-se seja reconhecida que, no caso de pagamento extemporâneo, os juros incidam somente no período excedido” (fl. 172, vol. 2).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. No julgamento do Recurso Extraordinário n. 1.169.289, Relator o Ministro Marco Aurélio, este Supremo Tribunal reconheceu a repercussão geral da controvérsia sobre a matéria deste processo (Tema 1.037):
+    “JUROS DA MORA – REQUISIÇÃO OU PRECATÓRIO – PERÍODO DE INCIDÊNCIA – RECURSO EXTRAORDINÁRIO – ADEQUAÇÃO REPERCUSSÃO GERAL – CONFIGURADA. Possui repercussão geral controvérsia alusiva à incidência dos juros da mora no período compreendido entre a expedição do precatório ou requisição de pequeno valor e o efetivo pagamento” (DJe 16.4.2019).
+    Reconhecida a repercussão geral do tema suscitado no recurso extraordinário, os autos deverão retornar à origem para aguardar-se o julgamento do mérito e, após a decisão, observar-se o disposto no art. 1.036 do Código de Processo Civil.
+    4. Pela irrecorribilidade da decisão de devolução de recurso à instância de origem, seguindo a sistemática da repercussão geral (MS n. 31.445-AgR/RJ, de minha relatoria, Plenário, DJ 25.2.2013; MS n. 32.060-ED/SP, Relator o Ministro Dias Toffoli, Plenário, DJ 6.11.2013; MS n. 28.982-AgR/PE, Relator o Ministro Gilmar Mendes, Plenário, DJ 15.10.2010; RE n. 629.675-AgR/SP, Relator o Ministro Luiz Fux, Primeira Turma, DJ 21.3.2013; RE n. 595.251-AgR/RS, Relator o Ministro Dias Toffoli, Primeira Turma, DJ 9.3.2012; AI n. 503.064-AgR-AgR/MG, Relator o Ministro Celso de Mello, Segunda Turma, DJ 26.3.2010; AI n. 811.626-AgR-AgR/SP, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJ 3.3.2011; RE n. 513.473-ED/SP, Relator o Ministro Cezar Peluso, Segunda Turma, DJe 18.12.2009; e AI n. 790.033-AgR/DF, Relator o Ministro Cezar Peluso, Plenário, DJ 2.5.2012), determino a devolução destes autos à origem para observância do art. 1.036 do Código de Processo Civil, nos termos do parágrafo único do art. 328 do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 17 de junho de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
