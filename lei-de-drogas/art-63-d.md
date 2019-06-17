@@ -1,0 +1,1 @@
+Art. 63-D. Compete ao Ministério da Justiça e Segurança Pública regulamentar os procedimentos relativos à administração, à preservação e à destinação dos recursos provenientes de delitos e atos ilícitos e estabelecer os valores abaixo dos quais se deve proceder à sua destruição ou inutilização.
