@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Execução Fiscal. Pretendida suspensão de seu curso em razão de se encontrar em recuperação judicial, nos termos da Lei 11.101/2005. Inviabilidade. A exigibilidade do crédito fiscal não se suspende pelo deferimento do pedido de recuperação judicial (art. 6º, § 7º, da Lei nº 11.101/2005). Aplicação do artigo 187, do Código Tributário Nacional e do artigo 29, da Lei 6.830/80 (LEF). Agravo improvido.” (eDOC 5, p. 28)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao artigo 170 do texto constitucional.
+    Nas razões recursais, alega-se equívoco do acórdão impugnado ao possibilitar a realização de penhora de ativo da recorrente que se encontra em recuperação judicial. Nesse sentido, argumenta-se que atos constritivos que prejudiquem a empresa deveriam ser obstados, já que a recuperação judicial tem por objetivo viabilizar a superação da situação de crise do devedor. (eDOC 5, p. 24/25; eDOC 7, p. 3/4)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código Tributário Nacional, Lei 6.830/1980 e Lei nº 11.101/2005) e o conjunto probatório constante dos autos, consignou não ser possível o afastamento de penhora, simplesmente, por ter sido deferida a recuperação judicial da empresa. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Decorre de determinação expressa da lei a premissa de que o processo de execução fiscal não se suspende por força do deferimento de recuperação judicial. Assim o artigo 6º, § 7º, da Lei nº 11.101/2005, ‘in verbis’: ‘§ 7º As execuções de natureza fiscal não são suspensas pelo deferimento da recuperação judicial, ressalvada a concessão de parcelamento nos termos do Código Tributário Nacional e da legislação ordinária específica.’(eDOC 5, p. 29)
+    (...)
+    Manifestamente inviável, portanto, a pretendida suspensão da ação executiva pelo fundamento apontado.” (eDOC 6, p. 1)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. RECUPERAÇÃO JUDICIAL. EXECUÇÕES FISCAIS EM CURSO. SUSPENSÃO. 1. Revela-se infraconstitucional a controvérsia relativa ao preenchimento dos requisitos para a suspensão das execuções fiscais em curso contra devedores empresários em recuperação judicial. 2. Agravo regimental a que se nega provimento.” (RE 1070371 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 11.9.2018)
+    “Agravo regimental no recurso extraordinário. Tributário. Execução Fiscal. Suspensão. Recuperação judicial. Necessidade de reexame da legislação infraconstitucional e do conjunto fático e probatório dos autos. Enunciado da Súmula 279/STF. 1. Para superar o entendimento do Tribunal de origem acerca da desnecessidade de suspensão da execução fiscal diante da existência da recuperação judicial da empresa, seria necessário o reexame da causa à luz da legislação infraconstitucional pertinente e do conjunto fático e probatório constante dos autos. Incidência do enunciado da Súmula nº 279 da Corte. 2. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). Não se aplica a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.” (ARE 1035025 AgR, Rel. Min. Dias Toffoli, SEgunda Turma, DJe 3.5.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 17 de junho de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
