@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência do pedido de nulidade de multa administrativa. No extraordinário cujo trânsito busca alcançar, a recorrente alega violados os artigos 5º, cabeça e inciso XXXVI, 18, 21, inciso XII, alínea “b”, 22, inciso IV, e 30, inciso V, da Constituição Federal. Discorre sobre a competência exclusiva da União para legislar sobre energia elétrica. Afirma a inconstitucionalidade da lei municipal que impõe obrigação a interferir nos termos de contrato de concessão firmado com a União.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    ATOS ADMINISTRATIVOS - Inexigibilidade de multa administrativa - Servidão Administrativa - Pretensão da autora i de que o Município de São José do Rio Preto se abstenha de ~l expedir notificações determinando a limpeza de terrenos em que há servidão administrativa, ou de lavrar multa para o caso de descumprimento — Impossibilidade — Obrigação da concessionária que decorre diretamente da legislação municipal - Leis Municipais n° 8.973103 e n° 11.379113 — Sentença de improcedência mantida. Recurso desprovido.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce ter o Colegiado de origem julgado o recurso a partir de interpretação conferida a normas locais. Procedeu à análise das Leis municipais nº 8.973/03 e nº 11.379/13. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 2.000,00 (dois mil reais), fixo os honorários recursais no patamar de R$1.000,00 (mil reais , nos termos do artigo 85, § 11, do citado diploma legal.
+    4. Publiquem.
+Brasília, 17 de junho de 2019.
+Ministro MARCO AURÉLIO
+Relator
