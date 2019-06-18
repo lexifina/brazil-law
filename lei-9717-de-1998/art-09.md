@@ -1,5 +1,6 @@
-Art. 9º Compete à União, por intermédio do Ministério da Previdência e Assistência Social:
-I - a orientação, supervisão e o acompanhamento dos regimes próprios de previdência social dos servidores públicos e dos militares da União, dos Estados, do Distrito Federal e dos Municípios, e dos fundos a que se refere o art. 6º, para o fiel cumprimento dos dispositivos desta Lei;
-II - o estabelecimento e a publicação dos parâmetros e das diretrizes gerais previstos nesta Lei.
-III - a apuração de infrações, por servidor credenciado, e a aplicação de penalidades, por órgão próprio, nos casos previstos no art. 8º desta Lei.
-Parágrafo único. A União, os Estados, o Distrito Federal e os Municípios prestarão ao Ministério da Previdência e Assistência Social, quando solicitados, informações sobre regime próprio de previdência social e fundo previdenciário previsto no art. 6º desta Lei.
+Art. 9º Compete à União, por intermédio da Secretaria Especial de Previdência e Trabalho do Ministério da Economia, em relação aos regimes próprios de previdência social e aos seus fundos previdenciários:
+I - a orientação, a supervisão, a fiscalização e o acompanhamento;
+II - o estabelecimento e a publicação de parâmetros, diretrizes e critérios de responsabilidade previdenciária na sua instituição, organização e funcionamento, relativos a custeio, benefícios, atuária, contabilidade, aplicação e utilização de recursos e constituição e manutenção dos fundos previdenciários, para preservação do caráter contributivo e solidário e do equilíbrio financeiro e atuarial;
+III - a apuração de infrações, por servidor credenciado, e a aplicação de penalidades, por órgão próprio, nos casos previstos no art. 8º desta Lei;
+IV - a emissão do Certificado de Regularidade Previdenciária (CRP), que atestará, para os fins do disposto no art. 7º desta Lei, o cumprimento, pelos Estados, Distrito Federal e Municípios, dos critérios e exigências aplicáveis aos regimes próprios de previdência social e aos seus fundos previdenciários.
+Parágrafo único. A União, os Estados, o Distrito Federal e os Municípios encaminharão à Secretaria Especial de Previdência e Trabalho do Ministério da Economia, na forma, na periodicidade e nos critérios por ela definidos, dados e informações sobre o regime próprio de previdência social e seus segurados.
