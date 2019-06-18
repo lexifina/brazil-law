@@ -4,5 +4,4 @@ III - pelo credor da pensão alimentícia, resguardados os direitos, sobre o bem
 IV - para cobrança de impostos, predial ou territorial, taxas e contribuições devidas em função do imóvel familiar;
 V - para execução de hipoteca sobre o imóvel oferecido como garantia real pelo casal ou pela entidade familiar;
 VI - por ter sido adquirido com produto de crime ou para execução de sentença penal condenatória a ressarcimento, indenização ou perdimento de bens.
-VII - por obrigação decorrente de fiança concedida em contrato de locação; e
-VIII - para cobrança de crédito constituído pela Procuradoria-Geral Federal em decorrência de benefício previdenciário ou assistencial recebido indevidamente por dolo, fraude ou coação, inclusive por terceiro que sabia ou deveria saber da origem ilícita dos recursos.
+VII - por obrigação decorrente de fiança concedida em contrato de locação.

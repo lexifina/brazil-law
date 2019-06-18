@@ -1,1 +1,0 @@
-Art. 71-D. O direito ao salário-maternidade decairá se não for requerido em até cento e oitenta dias da ocorrência do parto ou da adoção, exceto na ocorrência de motivo de força maior e ou caso fortuito, conforme disposto no Regulamento.
