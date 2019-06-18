@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. O Plenário do Tribunal Regional Federal da Quinta Região decidiu:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. APOSENTADOS E PENSIONISTAS. NÃO RECOLHIMENTO DE CONTRIBUIÇÃO SOCIAL (PLANO DE SEGURIDADE SOCIAL - PSS) POR FORÇA DE DECISÃO JUDICIAL POSTERIORMENTE REFORMADA. REPOSIÇÃO AO ERÁRIO. POSSIBILIDADE. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. OCORRÊNCIA. PROCEDÊNCIA DA AÇÃO RESCISÓRIA. 1. Ação rescisória ajuizada com fundamento no art. 485, V, do CPC/1973 (atual art. 966, inc. V, do CPC/2015), visando a rescindir o Acórdão exarado pela 1ª Turma deste Egrégio Tribunal Regional Federal, no bojo da APELREEX n. 2234/CE (2007.81.00.007713-8), no qual restou assegurado aos substituídos do SINPRF/CE o direito de obter a restituição de valores descontados a título de reposição ao erário, relativos ao não recolhimento de Contribuição Social (PSS - Plano de Seguridade Social).
+    2. O STJ firmou o entendimento - no julgamento do REsp n. 1.401.560/MT, afeto à sistemática do recurso representativo de controvérsia, segundo o qual é legítima a devolução aos cofres públicos de quantias recebidas em razão de decisão judicial precária, quando esta é posteriormente reformada/revogada.
+    3. No caso concreto, o ato administrativo impugnado, que determinou a reposição ao erário das importâncias de PSS - Plano de Seguridade Social não recolhidas pelos substituídos do SINPRF/CE por força de decisões liminares prolatadas em mandado de segurança (processos n. 2004.81.00.009089-0 e 2004.81.00.010681-2), posteriormente reformadas por sentença, amolda-se à jurisprudência do STJ. 4. Procedência do pedido rescisório para, em judicium rescindens, com arrimo no art. 485, V, do CPC/1973 (atual art. 966 do CPC/2015), desconstituir o acórdão prolatado na APELREEX n. 2234/CE, e, em judicium rescissorium, dar provimento à apelação da União e à remessa oficial, para julgar improcedente o pedido” (fl. 125, e-doc. 7).
+    Os embargos declaratórios opostos foram rejeitados (fl. 187, e-doc. 7).
+    3. O recurso extraordinário foi inadmitido pela ausência de ofensa constitucional direta e pela incidência da Súmula n. 636 deste Supremo Tribunal (fl. 272, e-doc. 7).
+    4. O agravante argumenta que “não se trata de ofensa indireta ou reflexa, e sim de diametral ofensa à CF/88 e demais princípios basilares” (fl. 284, e-doc. 7).
+    Aponta “ofensa ao dispositivo em lei para fins de aceitação da malfadada ação rescisória, pois, é fato que a segurança jurídica está sendo vilipendiada em razão da relativização da coisa julgada” (fl. 287, e-doc. 7).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o inc. XXXVI do art. 5º e o inc. IX do art. 93 da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste ao agravante.
+    Os argumentos expostos neste agravo não infirmam todos os óbices postos na decisão agravada. O agravante não se manifestou quanto à incidência da Súmula n. 636 do Supremo Tribunal Federal, fundamento autônomo e suficiente a sustentar a inviabilidade do recurso extraordinário. Assim, por exemplo:
+    “AGRAVO INTERNO. AGRAVO DO ART. 1.042 DO CÓDIGO DE PROCESSO CIVIL DE 2015. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS APTOS, POR SI SÓS, PARA SUSTENTAR A DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO NA ORIGEM. HIPÓTESE DE NÃO CONHECIMENTO. 1. Não pode ser conhecido o agravo do art. 1.042 do CPC/2015 quando não impugna especificamente a decisão que inadmitira o recurso extraordinário. 2. Agravo interno a que se nega provimento” (ARE n. 1.138.577-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 19.9.2018).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.080.691-AgR, de minha relatoria, Plenário, DJe 27.2.2018).
+    Nada há a prover quanto às alegações do agravante, mantendo-se a decisão agravada por subsistirem os fundamentos não infirmados.
+    6. Pelo exposto, não conheço do recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 18 de junho de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
