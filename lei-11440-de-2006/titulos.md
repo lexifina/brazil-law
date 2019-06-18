@@ -1,0 +1,26 @@
+TÍTULO I
+DO SERVIÇO EXTERIOR BRASILEIRO
+CAPÍTULO I
+DISPOSIÇÕES PRELIMINARES
+CAPÍTULO II
+DOS DIREITOS E VANTAGENS
+CAPÍTULO III
+DO REGIME DISCIPLINAR
+CAPÍTULO IV
+DA CARREIRA DIPLOMÁTICA
+Seção I
+Do Ingresso
+Seção II
+Das Classes, dos Cargos e das Funções
+Seção III
+Da Lotação e da Movimentação
+Seção IV
+Do Comissionamento
+Seção V
+Da Promoção
+Seção VI
+Do Quadro Especial do Serviço Exterior Brasileiro
+CAPÍTULO V
+DOS AUXILIARES LOCAIS
+TÍTULO II
+DISPOSIÇÕES FINAIS E TRANSITÓRIAS
