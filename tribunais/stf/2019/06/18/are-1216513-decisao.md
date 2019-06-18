@@ -1,0 +1,22 @@
+Trata-se de agravo contra decisão em que se negou seguimento ao recurso extraordinário interposto em face de acórdão de cuja ementa destaca-se:
+    “AÇÃO CIVIL PÚBLICA. PLANO DE SAÚDE. CLÁUSULA DE EXCLUSÃO DE COLOCAÇÃO DE PRÓTESE. LENTE INTRAOCULAR UTILIZADA EM CIRURGIA DE CATARATA (FACECTOMIA). CONTRATOS FIRMADOS ANTERIORMENTE À LEI N° 9.656/98.
+    1. É abusiva a cláusula que exclui, em cirurgias de catarata, a cobertura de lentes intra-oculares.
+    2. A finalidade principal de um plano de saúde é fornecer ao seu cliente, consumidor, a plena satisfação na prevenção e tratamento de sua saúde, não sendo legítima a fixação de limitações que coloquem-no em desvantagem exagerada.
+    [...]” (pág. 271 do documento eletrônico 6).
+    No RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, ofensa ao art. 5°, XXXVI, da mesma Carta, sob o argumento de que a Lei 9.656/1998 não se aplica a contratos firmados anteriormente ao início da vigência da referida norma.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, afasto a vinculação deste recurso extraordinário ao Tema 123 da Repercussão Geral (RE 948.634-RG/RS), que trata da aplicação da Lei 9.656/1998 a contratos anteriores à vigência do aludido diploma legal. É que, nos termos do art. 323, primeira parte, do Regimento Interno do STF, redação dada pela Emenda Regimental 21/2007, a verificação da ocorrência de repercussão geral apenas se dará quando não for o caso de inadmissibilidade do recurso por outra razão. No caso dos autos, há outro fundamento suficiente para a inadmissibilidade do recurso extraordinário, como passo a demonstrar.
+    O Tribunal de origem valeu-se de fundamentação infraconstitucional suficiente para solucionar a questão posta nos autos. Com efeito, com apoio no Código de Defesa do Consumidor, aquela Corte entendeu ser manifestamente abusiva a cláusula que exclui da cobertura do plano de saúde a implantação de prótese necessária para o tratamento de catarata.
+     Dessa forma, com a negativa de seguimento ao recurso especial pelo Superior Tribunal de Justiça (REsp 1.585.614/SP, com trânsito em julgado certificado à pág. 54 do documento eletrônico 8), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido, o que atrai a incidência da Súmula 283/STF. Com esse entendimento, cito os seguintes julgados desta Corte cujas ementas seguem transcritas:
+    “DIREITO PROCESSUAL CIVIL. AÇÃO DE REPETIÇÃO DE INDÉBITO. PRESTAÇÃO DE SERVIÇO DE FORNECIMENTO DE ÁGUA E ESGOTO. LITISPENDÊNCIA. CONFIGURAÇÃO. ART. 301, §§ 1º e 3º, DO CPC. EXTINÇÃO DA AÇÃO. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA 283/STF. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 19.11.2013.
+    1. A suposta afronta aos preceitos constitucionais indicados nas razões recursais dependeria da análise de legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário, considerada a disposição do art. 102, III, ‘a’, da Lei Maior.
+    2. A jurisprudência desta Suprema Corte não admite recurso extraordinário contra acórdão que contém fundamento infraconstitucional suficiente e este se torna imodificável. Aplicação da Súmula 283/STF: ‘É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles’. Precedentes.
+    3. Agravo regimental conhecido e não provido” (ARE 933.079-AgR/SP, Rel. Min. Rosa Weber — grifei).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CESSÃO DE CRÉDITO DE PRECATÓRIO. PROVA DA HABILITAÇÃO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULAS 283, 279 E 636/STF.
+    Caso em que o Tribunal de origem adotou fundamento autônomo e suficiente à manutenção do julgado que restou incólume ante o trânsito em julgado do Recurso Especial no Superior Tribunal de Justiça (Súmula 283/STF).
+    Hipótese, de qualquer modo, em que a resolução da controvérsia demandaria o reexame dos fatos e provas constantes nos autos e da legislação infraconstitucional. Incidência das Súmulas 279 e 636/STF. Agravo regimental a que se nega provimento” (AI 800.797-AgR/RS, Rel. Min. Roberto Barroso — grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 18 de junho de 2019.
+Ministro Ricardo Lewandowski
+Relator
