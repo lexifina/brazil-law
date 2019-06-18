@@ -1,0 +1,21 @@
+DECISÃO:
+Ementa: Processo constitucional. Ação direta de inconstitucionalidade. Diretório estadual de partido político. Ilegitimidade.
+1. Ao ajuizarem ações de controle concentrado de constitucionalidade (art. 103, VIII, da Constituição), os partidos políticos devem ser representados por seus diretórios nacionais. Precedentes.
+2. Ação direta de inconstitucionalidade a que se nega seguimento.
+    1. Trata-se de ação direta de inconstitucionalidade, com pedido de medida cautelar, proposta pelo Diretório Estadual de Alagoas do Partido Verde, tendo por objeto os arts. 54, § 1º, e 58, I, da Res.-TSE nº 23.406/2014. Eis o teor dos dispositivos impugnados:
+    Art. 54. (...)
+    § 1º Julgadas não prestadas, mas posteriormente apresentadas, as contas não serão objeto de novo julgamento, sendo considerada a sua apresentação apenas para fins de divulgação e de regularização no Cadastro Eleitoral ao término da legislatura, nos termos do inciso I do art. 58.
+    Art. 58. A decisão que julgar as contas eleitorais como não prestadas acarretará:
+    I – ao candidato, o impedimento de obter a certidão de quitação eleitoral até o final da legislatura, persistindo os efeitos da restrição após esse período até a efetiva apresentação das contas; (...)
+    2. O requerente alega que tais dispositivos, ao impedirem os candidatos de obterem quitação eleitoral até o fim da legislatura, mesmo que apresentem suas respectivas contas: (i) suspendem seus direitos políticos em hipótese não prevista no art. 15 da Constituição; e (ii) tornam-nos inelegíveis sem observar a reserva de lei complementar estabelecida pelo art. 14, § 9º, da Constituição. Argumenta que as regras estabelecidas não têm conteúdo regulamentar, razão pela qual deveriam ter sido veiculadas em lei em sentido formal. Sustenta que, pelo princípio democrático, os direitos políticos dos candidatos deveriam ser restabelecidos a partir da prestação das contas.
+    3. É o relatório. Decido.
+    4. A presente ação direta não pode ser admitida, já que o requerente não possui legitimidade ativa para a propositura de ações de controle concentrado de constitucionalidade.
+    5. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que, ao ajuizarem ações de controle concentrado de constitucionalidade (art. 103, VIII, da Constituição), os partidos políticos devem ser representados por seus diretórios nacionais. Confiram-se, nesse sentido, os seguintes precedentes:
+    EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE - AJUIZAMENTO POR DIRETÓRIO MUNICIPAL DE PARTIDO POLÍTICO - INADMISSIBILIDADE - AUSÊNCIA DE LEGITIMIDADE ATIVA AD CAUSAM - AÇÃO DIRETA NÃO CONHECIDA. - Falece legitimidade ativa ad causam ao Diretório Municipal de Partido Político para ajuizar ação direta de inconstitucionalidade perante o Supremo Tribunal Federal, ainda que o objeto de impugnação seja ato normativo de caráter estadual. A pertinência subjetiva para a instauração do controle normativo abstrato perante o S.T.F. assiste, no plano das organizações partidárias, exclusivamente aos respectivos Diretórios Nacionais. Precedentes. (ADI 1426 MC, Rel. Min. Celso de Mello, j. em 21.03.1996, destaque acrescentado)
+    Ação Direta de Inconstitucionalidade. Falta legitimidade ativa ao Diretório Regional ou a Executiva Regional de Partido Político, com representação no Congresso Nacional, para propor ação direta de inconstitucionalidade, perante o Supremo Tribunal Federal. A disposição do inciso VIII, do art. 103, da Constituição, pressupõe procedimento do Diretório Nacional do partido político, com representação no Congresso Nacional. O órgão regional não representa o partido político, senão nos limites de sua atuação estadual. Ação de que não se conhece, por ilegitimidade ativa da requerente, Executiva Regional do Piaui, de Partido Político. Pedido de cautelar prejudicado. (ADI 610 MC, Rel. Min. Néri da Silveira, j. em 24.10.1991, destaques acrescentados)
+    6. Tal requisito não se encontra preenchido, já que a ação direta foi proposta por diretório estadual de partido político.
+    7. Por todo o exposto, com fundamento no art. 932, VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego seguimento à ação direta de inconstitucionalidade. Prejudicado o pedido de medida cautelar.
+    Publique-se. Intime-se.
+Brasília, 18 de junho de 2019.
+Ministro Luís Roberto Barroso
+Relator
