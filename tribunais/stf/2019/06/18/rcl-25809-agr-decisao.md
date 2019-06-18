@@ -1,0 +1,16 @@
+Decisão:
+    Trata-se de reclamação, com pedido de liminar, contra decisões proferidas pelo Juízo da 2ª Vara Criminal do Fórum de Sussuarana – Salvador/BA nos autos da Ação Penal n.º 0374742-51.2013.8.05.0001, bem como nos autos do apenso, a Medida Cautelar de Sequestro de Bens n.º 0570959-62.2016.8.05.0001.
+    O reclamante alegou, em síntese, que as decisões reclamadas desrespeitaram o comando da Súmula Vinculante 14, ao indeferir pedido de vista dos autos e seus incidentes aos advogados constituídos, bem como por condicionar os pedidos de vista à anuência do representante do Ministério Público.
+    Em 16.12.2016, após os esclarecimentos feitos pelo Juízo reclamado e considerando o quadro fático revelado no momento, julguei improcedente a reclamação, ao destacar que “nos termos da Súmula Vinculante 14, foi garantido à defesa o acesso às diligências já realizadas e documentadas”, visto que “o procedimento criminal em questão conta com outros investigados e diligências ainda não concluídas, de modo que o processo foi gravado com o sigilo e restrição de vista aos procuradores.”
+    Na mesma ocasião, ressaltei não ser possível atestar, naquele momento, que a conduta atribuída à autoridade reclamada desrespeitava o comando da súmula vinculante, voltado a impedir que provas já documentadas detenham conteúdo inacessível à defesa.
+    Em 06.02.2017, o reclamante interpôs agravo regimental, sustentando que “mesmo trazendo aos autos a informação de que teria sofrido o bloqueio judicial, ainda assim, não obteve acesso aos autos da ação penal nº 0374742-51.2013.8.05.0001.” e que “ter acesso à parte dos autos bloqueio judicial não descaracteriza o constrangimento ilegal ainda hoje sofrido pelo agravante.” visto que, até aquela data, o reclamante ainda não teria tido acesso aos autos do “processo-crime pelo qual já está há anos sendo representado pelas subscritoras […]”.
+    Nas razões recursais, afirmou-se que “as subscritoras foram constituídas há mais de 3 (três) anos pelo ora agravante para representar seus interesses na ação penal n.º 0374742-51.2013.8.05.0001 e todos os procedimentos dela decorrentes e obtinham, por meio do portal E-Saj do Tribunal de Justiça do Estado da Bahia, total e irrestrito acesso à ela até o dia 17/11/2016.”
+    À vista do exposto, pugnou-se pela reforma da decisão agravada para que fosse “determinado o acesso imediato aos autos n.º 0374742-51.2013.8.05.0001 por RICARDO e esta defesa.”
+    Após a inclusão da reclamação em pauta para julgamento da Segunda Turma, converti o feito em diligência para solicitar novas informações ao Juízo reclamado (eDOC 22).
+    Em 07.05.2019, ante as informações supervenientes prestadas pelo Juízo de origem (eDOC 25), dando conta da retirada do sigilo da medida cautelar de sequestro de bens, determinei a intimação do reclamante para manifestar-se acerca da persistência de interesse no feito. Contudo, até a presente data, não houve qualquer manifestação, conforme certificado pela Secretaria Judiciária (eDOC 28).
+    Pelo exposto, julgo prejudicado o agravo regimental por perda superveniente do objeto, nos termos do art. 21, IX, do RISTF.
+    Publique-se. Intime-se.
+    Brasília, 18 de junho de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
