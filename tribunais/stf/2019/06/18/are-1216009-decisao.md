@@ -1,0 +1,29 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Estado de Mato Grosso do Sul contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA – IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS – TRANSFERÊNCIA DE GADO ENTRE FAZENDAS DO MESMO ARRENDATÁRIO – NÃO INCIDÊNCIA DO IMPOSTO – PRECEDENTES DOS TRIBUNAIS SUPERIORES.
+    Conforme precedentes do Supremo Tribunal Federal e do Superior Tribunal de Justiça, a mera saída física do bem para outro estabelecimento do mesmo titular (ainda que na condição de arrendatário), quando ausente a efetiva transferência de sua titularidade, não configura operação de circulação sujeita à incidência do ICMS.
+    Recurso não provido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a controvérsia jurídica objeto deste processo já foi dirimida por ambas as Turmas do Supremo Tribunal Federal:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. OFENSA CONSTITUCIONAL REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL. ARE 748.371 (REL. MIN. GILMAR MENDES – TEMA 660). ICMS. TRANSFERÊNCIA DE MERCADORIAS ENTRE ESTABELECIMENTOS DE UM MESMO CONTRIBUINTE. FATO GERADOR. INOCORRÊNCIA. PRECEDENTES.
+    1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o mero deslocamento de mercadorias entre estabelecimentos de um mesmo contribuinte, ainda que localizados em unidades distintas da Federação, não constitui fato gerador do ICMS.
+    2. Agravo regimental a que se nega provimento.”
+    (ARE 746.349-AgR/RS, Rel. Min. TEORI ZAVASCKI)
+    “Agravo regimental no recurso extraordinário com agravo. Alegada ofensa ao art. 97 da CF/88. Inovação recursal. Prequestionamento implícito. Inadmissibilidade. Tributário. ICMS. Deslocamento de mercadorias entre estabelecimentos do mesmo titular. Inexistência de fato gerador.
+    1. Não se admite, no agravo regimental, a inovação de fundamentos.
+    2. O Supremo Tribunal Federal entende ser insubsistente a tese do chamado prequestionamento implícito.
+    3. A Corte tem-se posicionado no sentido de que o mero deslocamento de mercadorias entre estabelecimentos comerciais do mesmo titular não caracteriza fato gerador do ICMS, ainda que estejam localizados em diferentes unidades federativas. Precedentes.
+    4. Agravo regimental não provido.”
+    (ARE 756.636-AgR/RS, Rel. Min. DIAS TOFFOLI)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Convém acentuar, por oportuno, no que se refere à alegada violação ao art. 97 da Constituição, que essa pretensão recursal também revela-se inacolhível, eis que a análise do acórdão recorrido evidencia que, na espécie, não houve qualquer declaração de inconstitucionalidade de diploma legislativo ou de ato normativo a ele equivalente, em clara demonstração de que se revela impertinente, na espécie, a fundamentação com que a parte ora agravante pretendeu justificar a interposição do recurso extraordinário.
+    No caso em análise, como já enfatizado, não houve qualquer declaração de inconstitucionalidade, tanto que o acórdão impugnado em sede recursal extraordinária resultou de julgamento efetuado por órgão fracionário do E. Tribunal de Justiça do Estado de Mato Grosso do Sul, considerada, na espécie, a inaplicabilidade da cláusula inscrita no art. 97 da Constituição da República, cuja prescrição – ressalte-se – somente incidirá na hipótese de a decisão do Tribunal importar em proclamação da invalidade constitucional de determinado ato estatal (RTJ 95/859 – RTJ 96/1188 – RT 508/217 – RF 193/131):
+    “Nenhum órgão fraccionário de qualquer Tribunal dispõe de competência, no sistema jurídico brasileiro, para declarar a inconstitucionalidade de leis ou atos emanados do Poder Público. Essa magna prerrogativa jurisdicional foi atribuída, em grau de absoluta exclusividade, ao Plenário dos Tribunais ou, onde houver, ao respectivo Órgão Especial. Essa extraordinária competência dos Tribunais é regida pelo princípio da reserva de Plenário, inscrito no artigo 97 da Constituição da República.
+    Suscitada a questão prejudicial de constitucionalidade perante órgão fraccionário de Tribunal (Câmaras, Grupos, Turmas ou Seções), a este competirá, em acolhendo a alegação, submeter a controvérsia jurídica ao Tribunal Pleno.”
+    (RTJ 150/223-224, Rel. Min. CELSO DE MELLO)
+    Cumpre ressaltar, por necessário, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.176.940/MS, Rel. Min. EDSON FACHIN – ARE 1.182.173/MS, Rel. Min. GILMAR MENDES – ARE 1.187.683/MS, Rel. Min. CÁRMEN LÚCIA – ARE 1.187.687/MS, Rel. Min. ROBERTO BARROSO – ARE 1.194.830/MS, Rel. Min. ALEXANDRE DE MORAES – ARE 1.208.350/MS, Rel. Min. LUIZ FUX – RE 1.200.462/MS, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 18 de junho de 2019.
+Ministro CELSO DE MELLO
+Relator
