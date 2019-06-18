@@ -15,8 +15,8 @@ XI - editar o seu regimento interno.
 § 1º Serão membros do CPPI, com direito a voto:
 I - o Ministro de Estado Chefe da Secretaria de Governo da Presidência da República, que o presidirá; (Alteração
 II - o Ministro de Estado Chefe da Casa Civil da Presidência da República;
-III - o Ministro de Estado da Economia;
-IV - o Ministro de Estado da Infraestrutura;
+III - o Ministro de Estado da Fazenda;
+IV - o Ministro de Estado dos Transportes, Portos e Aviação Civil;
 V - o Ministro de Estado de Minas e Energia;
 VII - o Ministro de Estado do Meio Ambiente;
 VII-A - o Ministro de Estado do Desenvolvimento Regional;
