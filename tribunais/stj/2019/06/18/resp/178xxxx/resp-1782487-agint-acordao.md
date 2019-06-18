@@ -1,0 +1,87 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. TRANSPORTE AÉREO INTERNACIONAL. EXTRAVIO DE CARGA. INCIDÊNCIA DAS CONVENÇÕES DE VARSÓVIA E MONTREAL.
+1. No caso concreto, aplica-se o entendimento do Supremo Tribunal Federal, consolidado com o julgamento do RE 636.331/RJ, sob a sistemática da repercussão geral, no sentido de que "nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor" (Tema 210).
+2. Dessa forma, devem ser aplicadas, na hipótese vertente, as Convenções de Varsóvia e Montreal, inclusive no que tange à limitação das indenizações pleiteadas.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Maria Isabel Gallotti.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto por LIBERTY SEGUROS S.A. contra decisão monocrática que deu parcial provimento ao recurso especial interposto por AMERICAN AIRLINES INC., sob os seguintes fundamentos: a) não houve violação ao art. 535 do CPC/73; b) no caso concreto, aplica-se o entendimento do Supremo Tribunal Federal, consolidado com o julgamento do RE 636.331/RJ, sob a sistemática da repercussão geral, no sentido de que "nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor" (Tema 210); c) devem ser aplicadas, na hipótese vertente, as Convenções de Varsóvia e Montreal, inclusive no que tange à limitação das indenizações pleiteadas.
+Em suas razões recursais, a parte agravante sustenta, em síntese, que, quando a transportadora aérea recebe a carga, é obrigada a transportá-la em perfeitas condições e entregá-la no destino final, devendo prevalecer a incidência do CDC no caso concreto, principalmente porque as Convenções de Varsóvia e Montreal não se aplicam ao transporte de carga.
+Ressalta, ainda, que deve ser afastada a indenização tarifária nos casos em que ficou comprovada a culpa do transportador.
+Requer, ao final, a reconsideração ou reforma da decisão pela Turma Julgadora.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. TRANSPORTE AÉREO INTERNACIONAL. EXTRAVIO DE CARGA. INCIDÊNCIA DAS CONVENÇÕES DE VARSÓVIA E MONTREAL.
+1. No caso concreto, aplica-se o entendimento do Supremo Tribunal Federal, consolidado com o julgamento do RE 636.331/RJ, sob a sistemática da repercussão geral, no sentido de que "nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor" (Tema 210).
+2. Dessa forma, devem ser aplicadas, na hipótese vertente, as Convenções de Varsóvia e Montreal, inclusive no que tange à limitação das indenizações pleiteadas.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Inicialmente, faz-se mister realizar um breve escorço histórico dos fatos ocorridos no presente processo, com o escopo de aclarar a questão sob exame.
+Por decisão de fls. 393-395, este relator negou provimento ao recurso especial interposto pela ora agravada, em razão da ausência: a) de violação do art. 535 do CPC/1973; b) de prequestionamento de dispositivos legais apontados por violados; e c) de dissídio pretoriano, uma vez que a jurisprudência desta Corte é no sentido de afastar a indenização tarifada prevista na Convenção de Varsóvia.
+Essa decisão foi confirmada em sede de agravo regimental, cuja ementa transcrevo a seguir:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRANSPORTE AÉREO INTERNACIONAL - EXTRAVIO DE CARGA - INDENIZAÇÃO INTEGRAL - CDC. SOBRESTAMENTO DO FEITO. DESNECESSIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência pacífica da Segunda Seção é no sentido de que o transportador aéreo, seja em viagem nacional ou internacional, responde (indenização integral) pelo extravio de bagagens e cargas, ainda que ausente acidente aéreo, mediante aplicação do Código de Defesa do Consumidor, desde que o evento tenha ocorrido na sua vigência, conforme sucede na espécie. Fica, portanto, afastada a incidência da Convenção de Varsóvia e, por via de conseqüência, a indenização tarifada. (REsp 552.553/RJ, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, DJ 01/02/2006 p. 561).
+2. A repercussão geral reconhecida pela Suprema Corte, nos termos do art. 543-B do CPC, não enseja o sobrestamento dos recursos especiais que tramitam neste Superior Tribunal de Justiça. Nesse sentido: AgRg no REsp 1.344.073/RS, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 06/09/2013; e AgRg no AREsp 244.747/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 08/02/2013. (AgRg no REsp 1.415.296/RJ, PRIMEIRA TURMA, Relator Min. SÉRGIO KUKINA, DJe de 04/02/2014).
+3. Agravo regimental não provido.
+Os embargos de declaração opostos às fls. 427-429 também foram rejeitados por acórdão de fls. 431-439.
+2.2. Sobreveio então recurso extraordinário, no qual a recorrida apontou violação ao art. 178 da Constituição Federal, tendo em vista que "o v.acórdão hostilizado (fls. 414/422),  ..  afastou a indenização tarifada das Convenções de Varsóvia/Montreal em caso de extravio de mercadoria, objeto de transporte aéreo internacional, substituindo-a indevidamente pela Lei Consumerista". (fl. 451)
+Em razão da repercussão geral da matéria, o Presidente desta Corte à época, Ministro Gilson Dipp, determinou o sobrestamento do recurso extraordinário, até o julgamento, pela Suprema Corte, do mérito do RE 636.331/RJ.
+2.3. Após o julgamento do RE 636.331/RJ sob a sistemática da repercussão geral, o Min. Vice-Presidente do STJ determinou o retorno dos autos ao órgão julgador, para os fins do art. 1.040, II, do CPC/15.
+Passo seguinte, em decisão unilateral, dei parcial provimento ao apelo nobre interposto pela recorrida, para que incidisse, no caso concreto, o disposto nas Convenções de Varsóvia e Montreal, inclusive no que tange à limitação das indenizações.
+3. No caso concreto, a agravante sustenta que, quando a transportadora aérea recebe a carga, é obrigada a transportá-la em perfeitas condições e entregá-la no destino final, devendo prevalecer a incidência do CDC no caso concreto, principalmente porque as Convenções de Varsóvia e Montreal não se aplicam ao transporte de carga.
+Ressalta, ainda, que deve ser afastada a indenização tarifária nos casos em que ficou comprovada a culpa do transportador.
+Todavia, não merecem prosperar os argumentos engendrados no presente recurso.
+Com efeito, faz-se mister consignar que se aplica à hipótese vertente o entendimento do Supremo Tribunal Federal, consolidado com o julgamento do RE 636.331/RJ, sob a sistemática da repercussão geral, no sentido de que "nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor" (Tema 210).
+Em outras palavras, as referidas Convenções incidem nos casos de transporte de carga, sendo possível limitar a indenização.
+Nesse sentido, os seguintes precedentes:
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. EXTRAVIO DE BAGAGEM. TRANSPORTE AÉREO INTERNACIONAL. DANOS MATERIAIS RECONHECIDOS. LIMITES DA RESPONSABILIDADE CIVIL. CONVENÇÃO DE MONTREAL. REGIME DE INDENIZAÇÃO TARIFADA. INCIDÊNCIA. TESE FIXADA EM REPERCUSSÃO GERAL. AÇÃO REGRESSIVA. SEGURADORA CONTRA O CAUSADOR DO DANO. SUB-ROGAÇÃO NOS DIREITOS DO SEGURADO. SÚMULA Nº 188/STF. INDENIZAÇÃO PAGA DIRETAMENTE PELA COMPANHIA AÉREA. CRÉDITO REMANESCENTE. INEXISTÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nº 636.331/RJ, sob o regime da repercussão geral, consolidou o entendimento de que, "nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor". Diante da tese fixada pelo STF, é necessária a reorientação da jurisprudência anteriormente consolidada nesta Corte Superior.
+3. Consoante o entendimento pacífico do STJ, ao efetuar o pagamento da indenização ao passageiro/segurado em decorrência de danos materiais causados pela companhia aérea, a seguradora sub-roga-se nos direitos que competirem ao segurado contra o autor do dano, nos limites desses direitos. Incidência da Súmula nº 188/STF.
+4. No caso dos autos, a incidência do regime de indenização tarifada previsto na Convenção de Montreal implica a ausência de direito à complementação reparatória acima dos valores previstos na norma internacional.
+5. Na hipótese em que restou comprovado que a companhia aérea pagou diretamente à passageira indenização correspondente ao previsto na Convenção de Montreal, inexiste direito de regresso da seguradora pelo que pagou a mais à segurada por mera liberalidade.
+6. Recurso especial não provido (REsp 1.707.876/SP, 3ª Turma, DJe 18/12/2017).  g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESSARCITÓRIA EM REGRESSO PROMOVIDA PELA SEGURADORA CONTRA A TRANSPORTADORA AÉREA. 1. APLICAÇÃO DA CONVENÇÃO DE VARSÓVIA E DE MONTREAL, CONFORME ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL. 2. AGRAVO INTERNO IMPROVIDO.
+1. A orientação jurisprudencial do Supremo Tribunal Federal, no RE 636.331/RJ, DJe 25/05/2017, ao apreciar o Tema 210 da Repercussão Geral, firmou-se no sentido de que as normas e os tratados internacionais devem ser aplicados às questões envolvendo transporte internacional, seja este de pessoas, bagagens ou cargas, especialmente as Convenções de Varsóvia e Montreal.
+2. O segurador se sub-roga nos exatos limites do valor que competia ao segurado contra a transportadora aérea, com base no art. 786 do Código Civil.
+3. Agravo interno improvido.
+(AgInt no AREsp 1175484/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/04/2018, DJe 20/04/2018)  g.n.
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO CIVIL.
+RESPONSABILIDADE CIVIL. EXTRAVIO DE BAGAGEM. TRANSPORTE AÉREO INTERNACIONAL. DANOS MATERIAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. CONVENÇÃO DE VARSÓVIA. INCIDÊNCIA. TESE FIXADA EM REPERCUSSÃO GERAL. LIMITAÇÃO DA INDENIZAÇÃO. JUÍZO DE RETRATAÇÃO.
+1. Acórdão submetido ao juízo de retratação previsto no art. 543-B, § 3º, do CPC/1973 (art. 1.040, II, do CPC/2015).
+2. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+3. O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nº 636.331/RJ, sob o regime da repercussão geral, fixou a seguinte tese: "Nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor".
+4. Rever as conclusões do Tribunal de origem quanto à responsabilidade da companhia aérea pelos danos decorrentes do extravio de bagagem demandaria o reexame do conjunto fático-probatório, procedimento obstado pelo disposto na Súmula nº 7/STJ.
+5. Na hipótese, o acórdão anteriormente proferido pela Terceira Turma não se coaduna com a tese firmada em repercussão geral, sendo necessária a retratação apenas para determinar que a indenização observe os limites previstos na Convenção de Varsóvia.
+6. Agravo regimental parcialmente provido.
+(AgRg no REsp 254.561/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 05/02/2019, REPDJe 09/04/2019, DJe 12/02/2019)  g.n.
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANOS MATERIAIS. TRANSPORTE AÉREO INTERNACIONAL. EXTRAVIO DE CARGA. INCIDÊNCIA DO CDC. JULGAMENTO DO RE N. 636.331/RJ PELO STF. PREVALÊNCIA DAS CONVENÇÕES DE VARSÓVIA E DE MONTREAL. INDENIZAÇÃO TARIFADA ACOLHIDA. JUÍZO DE RETRATAÇÃO. ART. 1.040, II, DO CPC/2015 (ART. 543-B, § 3º, DO CPC/1973). DECISÃO REFORMADA.
+1. O Supremo Tribunal Federal, quando do julgamento do Recurso Extraordinário n. 636.331/RJ, no regime da repercussão geral, fixou a seguinte tese: "Nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor." Acórdão reformado, em juízo de retratação (art. 1.040, II, do CPC/2015).
+2. Acórdão submetido ao juízo de retratação previsto no art. 1.040, II, do CPC/2015 (art. 543-B, § 3º, do CPC/1973), para se afastar a incidência do CDC.
+NOVO EXAME DO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO E AUSÊNCIA DE COTEJO ANALÍTICO. SÚMULA N. 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N.
+283/STF.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, impede o conhecimento do especial (Súmula n. 284/STF).
+2. Interposto o recurso especial com base na alínea "c" do permissivo constitucional, necessária a indicação das circunstâncias que identifiquem ou assemelhem as situações confrontadas, a fim de se demonstrar a divergência jurisprudencial, o que não ocorreu no caso em análise.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. Após reexame, recurso especial não conhecido.
+(REsp 218.528/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/06/2018, DJe 29/06/2018)  g.n.
+RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. TRANSPORTE DE MERCADORIAS. INDENIZAÇÃO TARIFADA. PREPONDERÂNCIA DAS CONVENÇÕES DE VARSÓVIA E MONTREAL EM RELAÇÃO AO CÓDIGO DE DEFESA DO CONSUMIDOR. REPERCUSSÃO GERAL RECONHECIDA PELO STF. RE N. 636.331/RJ (TEMA 210/STF). JUÍZO DE RETRATAÇÃO. RECURSO ESPECIAL DESPROVIDO.
+1. No julgamento do RE n. 636.331/RJ, o Supremo Tribunal Federal, reconhecendo a repercussão geral da matéria (Tema 210/STF), firmou a tese de que, "nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor".
+2. Recurso especial desprovido, em juízo de retratação, nos termos do art. 1.040, inciso II, do CPC/2015.
+(REsp 673.048/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/05/2018, DJe 18/05/2018)  g.n.
+RECURSO ESPECIAL. CIVIL. TRANSPORTE AÉREO INTERNACIONAL DE CARGA. TRATAMENTO ADUANEIRO. DESPESAS DE ARMAZENAGEM. INDENIZAÇÃO. CONVENÇÃO DE MONTREAL. APLICABILIDADE. PRESCRIÇÃO BIENAL. OCORRÊNCIA.
+1. Controvérsia acerca da aplicabilidade da Convenção de Montreal a pretensão indenizatória decorrente de despesas adicionais de armazenagem causadas por ilícito contratual praticado pela transportadora durante as formalidades aduaneiras.
+2. Extensão do contrato de transporte aéreo internacional para além do momento do desembarque da carga, mantendo-se o vínculo jurídico enquanto a carga permanecer sob custódia da transportadora, nos termos do art. 18, item 3, da Convenção de Montreal.
+3. Existência de norma na Convenção de Montreal acerca da responsabilidade subjetiva das Transportadora pelas formalidades aduaneiras (art. 16, item 1).
+4. Prevalência da norma internacional em detrimento da legislação interna, na esteira do precedente do Supremo Tribunal Federal (Tema 210/STF), enunciando o seguinte entendimento: "Nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor".
+5. Aplicação da Convenção de Montreal ao caso dos autos.
+6. Ocorrência da prescrição bienal prevista no art. 35 da Convenção de Montreal, com a improcedência do pedido.
+7. RECURSO ESPECIAL PROVIDO.
+(REsp 1615981/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 24/04/2018, DJe 30/04/2018)  g.n.
+Nesse diapasão, na hipótese vertente, devem ser aplicadas as Convenções de Varsóvia e Montreal, inclusive no que tange à limitação das indenizações, situação que enseja a manutenção da decisão monocrática.
+4. Ante o exposto, nego provimento ao presente agravo interno.
+É como voto.
