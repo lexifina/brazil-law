@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. DEMOLIÇÃO DE IMÓVEL EM SITUAÇÃO IRREGULAR. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO LOCAL E DE PROVAS: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Sergipe:
+    “APELAÇÃO CÍVEL. AÇÃO DEMOLITÓRIA. OBRA REALIZADA SEM AUTORIZAÇÃO DA EMURB E EM DESATENDIMENTO AO RECUO MÍNIMO EXIGIDO PELA LESISLAÇÃO MUNICIPAL. PERÍCIA QUE COMPROVOU IRREGULARIDADE NA EDIFICAÇÃO. PEDIDO CERTO E DETERMINADO. INTERPRETAÇÃO LÓGICO -SISTEMÁTICA DA INICIAL. PRECEDENTES JURISPRUDENCIAIS. SENTENÇA DELIMITADA AO PEDIDO. AUSÊNCIA DE AFRONTA AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. DESOBEDIÊNCIA ÀS MEDIDAS ADMINISTRATIVAS. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO” (fl. 26, e-doc. 3).
+    2. No recurso extraordinário, o agravante alega ter o Tribunal de origem contrariado os incs. V e LXXVIII do art. 5º da Constituição da República.
+    Requer sejam julgados improcedentes todos os pedidos da ação de demolição.
+    3. O recurso extraordinário foi inadmitido pela ausência de ofensa constitucional direta e pela incidência da Súmula n. 279 do Supremo Tribunal Federal (fl. 15, e-doc. 5).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao agravante.
+    5. A análise da pretensão do agravante exigiria o exame do conjunto probatório constante dos autos, procedimento incabível em recurso extraordinário, como disposto na Súmula n. 279 do Supremo Tribunal Federal.
+    A apreciação do pleito recursal exigiria também a apreciação da legislação infraconstitucional local aplicável à espécie. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário e atrair a incidência da Súmula n. 280 do Supremo Tribunal Federal. Confiram-se os julgados a seguir:
+    “O Tribunal local consignou a legalidade do exercício do poder de polícia por parte do Poder Público. Apontou, mediante interpretação conferida pelos dispositivos legais de regência, encontrar-se o imóvel objeto da presente ação em desconformidade com o Código de Edificações do Distrito Federal, justificando, portanto, os atos praticados pela Administração direcionados à promoção da intimação demolitória. No caso, somente seria dado concluir de forma diversa a partir da análise da legislação infraconstitucional, inviável nesta estreita via recursal. Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de Justiça. A discussão sobre o alcance de norma local inviabiliza, conforme sedimentado pela jurisprudência – verbete nº 280 da Súmula: ‘Por ofensa a direito local não cabe recurso extraordinário’ –, o acesso ao Supremo” (ARE n. 1.006.811-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 3.10.2017).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. DEMOLIÇÃO DE IMÓVEL EM SITUAÇÃO IRREGULAR. PRÉVIA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E REEXAME DE PROVAS. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 868.838-AgR, de minha relatoria, Segunda Turma, DJe 28.4.2015).
+    Nada há a prover quanto às alegações do agravante.
+    6. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil, com a ressalva de eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 18 de junho de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
