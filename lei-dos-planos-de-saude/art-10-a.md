@@ -1,1 +1,4 @@
 Art. 10-A. Cabe às operadoras definidas nos incisos I e II do § 1º do art. 1º desta Lei, por meio de sua rede de unidades conveniadas, prestar serviço de cirurgia plástica reconstrutiva de mama, utilizando-se de todos os meios e técnicas necessárias, para o tratamento de mutilação decorrente de utilização de técnica de tratamento de câncer.
+§ 1º Quando existirem condições técnicas, a reconstrução da mama será efetuada no tempo cirúrgico da mutilação referida no caput deste artigo.
+§ 2º No caso de impossibilidade de reconstrução imediata, a paciente será encaminhada para acompanhamento e terá garantida a realização da cirurgia imediatamente após alcançar as condições clínicas requeridas.
+§ 3º Os procedimentos de simetrização da mama contralateral e de reconstrução do complexo aréolo-mamilar integram a cirurgia plástica reconstrutiva prevista no caput e no § 1º deste artigo.
