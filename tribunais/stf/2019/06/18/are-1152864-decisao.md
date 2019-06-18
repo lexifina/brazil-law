@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. CREDITAMENTO. OPERAÇÕES DE COMPRA REALIZADAS COM EMPRESA DECLARADA INIDÔNEA. VERIFICAÇÃO DE COBRANÇA PRÉVIA QUE ATRIBUA CRÉDITO PASSÍVEL DE COMPENSAÇÃO EM OPERAÇÃO SUBSEQUENTE. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. PRECEDENTES. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+     Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. CERTIDÃO DE REGULARIDADE FISCAL. ATO DE INCORPORAÇÃO. Estando os créditos tributários com a sua exigibilidade suspensa, a impetrante faz jus à obtenção de certidão positiva com efeitos de negativa, inclusive para fins de baixa do empreendimento e incorporação.“ (Doc. 3, p. 30).
+    Nas razões do apelo extremo, a agravante sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 97 e 146, III, da Constituição Federal e da Súmula Vinculante 10 do STF.
+    Argumenta que não se admite a substituição da certidão negativa de débito (CND) pela certidão positiva com efeito de negativa (CPD-EN) referente aos elementos do registro de incorporação de empresa.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    No caso dos autos, para afastar a apresentação da CPD-EN como sucedânea da CND, para fins de registro de ato de incorporação de empresa na respectiva Junta Comercial, e quanto a ausência de restrição à expedição da certidão para o registro sob exame, seria necessário o reexame da legislação infraconstitucional aplicável à espécie (artigos 205 e 206 do CTN), o que se revela inviável em sede de recurso extraordinário por configurar ofensa indireta à Constituição Federal, bem como o incursionamento no contexto fático-probatório engendrado nos autos, o que também não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe à discussão eminentemente de direito, face ao óbice erigido pela Súmula 279 do STF.
+    Nesse sentido, transcrevo a ementa do julgamento do AI 751.111-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 11/2/2016:
+    “DIREITO TRIBUTÁRIO. ICMS. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. APROVEITAMENTO DE CRÉDITOS. NOTAS FISCAIS POSTERIORMENTE DECLARADAS INIDÔNEAS. COMPROVAÇÃO DA REALIZAÇÃO DA OPERAÇÃO COMERCIAL. INEXISTÊNCIA DE PAGAMENTO DO TRIBUTO. SÚMULA 279/STF. DESCABIMENTO.
+    1. Hipótese em que a resolução da controvérsia demanda a análise de legislação infraconstitucional e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), procedimentos inviáveis nesta fase recursal. Precedentes.
+    2. Agravo regimental a que se nega provimento.”
+    Sobre o tema, destaco, ainda, as seguintes decisões: ARE 1.031.337-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 21/9/2017; ARE 604.873-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 3/4/2009; ARE 1.072.943, Rel. Min. Celso de Mello, DJe de 22/11/2017; ARE 1.072.721, Rel. Min. Alexandre de Morais, DJe de 14/9/2017; ARE 978.785, Rel. Min. Edson Fachin, DJe de 29/11/2016; ARE 954.282, Rel. Min. Gilmar Mendes, DJe de 28/3/2016; AI 733.762, Rel. Min. Dias Toffoli, DJe de 25/10/2012; ARE 693.054, Rel. Min. Ricardo Lewandowski, DJe de 4/9/2012; entre outros.
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual. Nada obstante, por se tratar de mandado de segurança, não há falar em majoração de honorários advocatícios (Súmula 512 do STF).
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+    Publique-se.
+    Brasília, 18 de junho de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
