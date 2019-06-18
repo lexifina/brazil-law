@@ -1,0 +1,39 @@
+EMENTA
+ AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. QUANTIDADE E VARIEDADE DE DROGAS (3KG DE MACONHA E 500G DE COCAÍNA). REGIME INICIAL MAIS SEVERO. CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. As penas-bases dos Agravantes foram estabelecidas acima do mínimo legal e fixadas em 7 (sete) anos e 6 (seis) meses de reclusão em razão das drogas apreendidas (3kg de maconha e 500g de cocaína). Portanto, diante da expressiva quantidade de entorpecentes, ex vi dos arts. 42 da Lei n.º 11.343/2006 e 59 do Código Penal, mostra-se adequado o estabelecimento de regime inicial mais gravoso do que o permitido para o quantum final da pena.
+2. Se, de um lado, a quantidade de drogas autoriza a exasperação da pena-base, conforme previsão expressa do art. 42 da Lei n.º 11.343/2006, como efetivamente ocorreu no caso concreto, e, de outro, a pena-base tem reflexo direto na fixação do regime prisional, por força do art. 59 do Código Penal, mostra-se descabido afirmar que a utilização da quantidade e da variedade de entorpecentes no estabelecimento do regime prisional contraria a vontade do legislador.
+3. Agravo regimental desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por [NOME] e por THAIS FERREIRA DA [NOME] contra a decisão que conheceu parcialmente e proveu o recurso especial manifestado pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS, nos termos da seguinte ementa (fl. 548):
+"RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. VERIFICAÇÃO. AFASTAMENTO. CAUSA DE DIMINUIÇÃO. ART. 33, § 4.º, DA LEI N.º 11.343/2006. INVIABILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N.º 7 DO STJ. QUANTIDADE DE DROGAS UTILIZADA PARA EXASPERAR A PENA-BASE. UTILIZAÇÃO PARA AFASTAR A MINORANTE. BIS IN IDEM. OCORRÊNCIA. REGIME INICIAL. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. QUANTIDADE E VARIEDADE DE DROGAS. REGIME INICIAL MAIS SEVERO. CABIMENTO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO EM PARTE."
+Alegam os Agravantes que "a quantidade e espécie de droga apreendida se mostram de pouca monta, com baixa capacidade para causar qualquer lesão a bens jurídicos penalmente tuteláveis" (fl. 564), motivo pelo qual não haveria justificativa para a imposição de regime prisional mais severo. Diz que o legislador não previu a quantidade de drogas como critério para a fixação do regime prisional.
+Pedem a reconsideração da decisão agravada ou a submissão do regimental ao Colegiado.
+É o relatório.
+EMENTA
+ AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. QUANTIDADE E VARIEDADE DE DROGAS (3KG DE MACONHA E 500G DE COCAÍNA). REGIME INICIAL MAIS SEVERO. CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. As penas-bases dos Agravantes foram estabelecidas acima do mínimo legal e fixadas em 7 (sete) anos e 6 (seis) meses de reclusão em razão das drogas apreendidas (3kg de maconha e 500g de cocaína). Portanto, diante da expressiva quantidade de entorpecentes, ex vi dos arts. 42 da Lei n.º 11.343/2006 e 59 do Código Penal, mostra-se adequado o estabelecimento de regime inicial mais gravoso do que o permitido para o quantum final da pena.
+2. Se, de um lado, a quantidade de drogas autoriza a exasperação da pena-base, conforme previsão expressa do art. 42 da Lei n.º 11.343/2006, como efetivamente ocorreu no caso concreto, e, de outro, a pena-base tem reflexo direto na fixação do regime prisional, por força do art. 59 do Código Penal, mostra-se descabido afirmar que a utilização da quantidade e da variedade de entorpecentes no estabelecimento do regime prisional contraria a vontade do legislador.
+3. Agravo regimental desprovido.
+
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+A insurgência não merece prosperar.
+As penas-bases dos Agravantes foram estabelecidas acima do mínimo legal e fixadas em 7 (sete) anos e 6 (seis) meses de reclusão em razão das drogas apreendidas (3kg de maconha e 500g de cocaína). Portanto, diante da expressiva quantidade de entorpecentes, ex vi dos arts. 42 da Lei n.º 11.343/2006 e 59 do Código Penal, mostra-se adequado o estabelecimento de regime inicial mais gravoso do que o permitido para o quantum final da pena.
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. REGIME INICIAL SEMIABERTO DE CUMPRIMENTO DE PENA. FUNDAMENTO INIDÔNEO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O regime inicial fechado é, na espécie, o mais adequado para a prevenção e a repressão do crime praticado, nos termos dos arts. 33, § 2º, "a", do Código Penal e 42 da Lei n. 11.343/2006, notadamente em razão da presença de circunstâncias judiciais desfavoráveis, da comprovação de que o acusado se dedica a atividades criminosas e da quantidade de droga apreendida.
+2. Agravo regimental não provido." (AgRg no REsp 1.778.235/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/4/2019, DJe 29/4/2019).
+"RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. NOCIVIDADE E ELEVADA QUANTIDADE DE ENTORPECENTES. POSSIBILIDADE. DESPROPORCIONALIDADE. AUSÊNCIA. FUNDAMENTAÇÃO IDÔNEA E SUFICIENTE. FIXAÇÃO DE REGIME DE CUMPRIMENTO DE PENA. RÉU PRIMÁRIO E DE BONS ANTECEDENTES. REGIME MAIS GRAVOSO FIXADO COM BASE NA EXPRESSIVA QUANTIDADE DE DROGA APREENDIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É cediço na jurisprudência desta Corte Superior que a quantidade, natureza e diversidade dos entorpecentes apreendidos constituem fatores que, de acordo com o art. 42 da Lei n. 11.343/2006, são preponderantes para a fixação das penas do delito de tráfico ilícito de entorpecentes.
+2. Na espécie, a fixação da pena-base acima do mínimo legal teve por fundamento a grande quantidade de droga apreendida - 850 tabletes de maconha, totalizando 935 quilogramas da referida substância entorpecente.
+3. Não se mostra desproporcional ou desarrazoada a exasperação da pena-base em 4 anos, em decorrência do desvalor atribuído à vetorial atinente à expressiva quantidade de drogas apreendidas no caso concreto, por desbordar em muito do ordinário do tipo penal, legitimando um maior incremento punitivo. A exasperação operada pelas instâncias ordinárias, na hipótese vertente, se apresenta proporcional e adequada ao caso. Precedentes.
+4. No tocante à fixação de regime inicial de cumprimento de pena menos gravoso, é assente a jurisprudência desta Corte Superior de Justiça no sentido de admitir que, em se tratando de tráfico de entorpecentes, a quantidade e qualidade da droga apreendida sejam utilizadas como fundamento para a fixação do regime mais gravoso que o previsto para o quantum de pena aplicado. Precedentes.
+5. Agravo regimental não provido." (AgRg no AREsp 1.423.931/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 9/4/2019, DJe 6/5/2019).
+Por fim, se, de um lado, a quantidade de drogas autoriza a exasperação da pena-base, conforme previsão expressa do art. 42 da Lei n.º 11.343/2006, como efetivamente ocorreu no caso concreto, e, de outro, a pena-base tem reflexo direto na fixação do regime prisional, por força do art. 59 do Código Penal, mostra-se descabido afirmar que a utilização da quantidade e da variedade de entorpecentes no estabelecimento do regime prisional contraria a vontade do legislador.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
