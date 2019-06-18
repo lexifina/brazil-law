@@ -1,0 +1,43 @@
+DECISÃO: Trata-se de reclamação, com pedido de liminar, ajuizada em face de decisão mediante a qual a Presidência do TRF da 4ª Região, nos autos do Processo 5002514-97.2012.4.04.7200, ao inadmitir o recurso extraordinário com fundamento nas Súmulas 279 e 286, ao invés de determinar a suspensão do processo com base no Tema 671 da repercussão geral, teria usurpado a competência desta Corte.
+    Sustenta-se que “A Autoridade Reclamada negou a repercussão geral do Tema 671, antecipou-se ao julgamento de competência do STF e manteve acórdão cujo pronunciamento se mostrou dissonante do decidido no Tema 671” (eDOC 1, p. 4)
+    As informações solicitadas para autoridade reclamada não foram apresentadas (eDOC 21).
+    Em contestação, a União defendeu o não cabimento da ação como sucedâneo recursal. Enfatizou: “a jurisprudência rejeita a utilização do instituto como atalho processual para substituto recurso cabível e se obter antecipadamente decisão desse Supremo Tribunal Federal” (eDOC 22, p. 3).
+    Em parecer, a Procuradoria-Geral da República opinou pela improcedência da ação, uma vez que “o reconhecimento da repercussão geral de determinada questão constitucional não impõe, automaticamente, a suspensão de todos os processos que versem sobre ela em trâmite no território nacional” (eDOC 25, p. 3). Manifestou-se, também, no sentido de que, a tese firmada no julgamento de mérito do citado paradigma não destoa do entendimento do ato impugnado.
+    É o relatório. Decido.
+    O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    A matéria também veio disciplinada pelo Novo Código de Processo Civil, que, no art. 988, prevê as hipóteses de seu cabimento, in verbis :
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+    IV garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência; (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+    § 1º A reclamação pode ser proposta perante qualquer tribunal, e seu julgamento compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir.
+    § 2º A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+    § 3º Assim que recebida, a reclamação será autuada e distribuída ao relator do processo principal, sempre que possível.
+    § 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+    § 5º É inadmissível a reclamação: (Redação dada pela Lei nº 13.256, de 2016)
+    I proposta após o trânsito em julgado da decisão reclamada; (Incluído pela Lei nº 13.256, de 2016)
+    II proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias. (Incluído pela Lei nº 13.256, de 2016)
+    § 6º A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação.
+    No caso concreto, a pretensão do reclamante enquadra-se na hipótese prevista no inciso II do § 5º do art. 988, que cuida precisamente da aplicação de tema decidido em sede de repercussão geral.
+    Como se nota, a alegada usurpação de competência não restou configurada, pois, consoante se nota, a decisão de inadmissibilidade do recurso extraordinário está fundamentada na aplicação das Súmulas 286 e 279 desta Corte, ou seja, alegou que o acórdão recorrido não contrariava a jurisprudência do STF e considerou a impossibilidade de reexame dos fatos e das provas. Não se apoiou, na verdade, na aplicação da sistemática da repercussão geral. Confira-se (eDOC 60):
+    “Trata-se de Recurso Extraordinário interposto pela parte autora contra acórdão que entendeu não preenchido o requisito da miserabilidade, necessário para concessão do benefício assistencial.
+    (...)
+    Observo que a matéria tratada no presente recurso foi recentemente decidida nos autos do RE nº 580.963/PR (Tema 312 - Interpretação extensiva ao parágrafo único do art. 34 da Lei nº 10.741/2003 para fins do cálculo da renda familiar de que trata o art. 20, § 3º, da Lei nº 8.742/93), conforme ementa:
+    (...)
+    Compulsando os autos, verifico que o julgamento realizado pela Turma Recursal, está em consonância com o Supremo Tribunal Federal, pelo que INADMITO o recurso interposto e determino o retorno dos autos ao JEF de origem.”
+    Desse modo, ao inadmitir o recurso extraordinário, a autoridade reclamada se utilizou de atribuição própria, não havendo que se falar em usurpação de competência do Supremo. É que o primeiro juízo de admissibilidade do extraordinário é competência da Presidência ou da Vice-Presidência dos Tribunais de segundo grau, nos termos do art. 1.030, do CPC.
+    Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá: (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+    I – negar seguimento:
+    a) a recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou a recurso extraordinário interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral;
+    b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+    (…).
+    Ainda que assim não fosse, a parte reclamante carece de interesse processual, na modalidade da adequação, para o uso da ação escolhida (CPC, art. 485, VI), devendo valer-se dos meios e recursos próprios, que se lhe convenham à situação e não tenham ainda sido usados. Afinal, é remansosa a jurisprudência do Supremo Tribunal Federal no sentido de que a reclamação não pode ser usada como sucedâneo de recurso próprio, nem de ação rescisória. Nesse sentido, a propósito e por todos:
+    “Agravo regimental na reclamação. Negativa de seguimento de recurso extraordinário pelo tribunal de origem com fundamento nas Súmulas nºs 280 e 284/STF. Interposição do agravo do art. 1.042 do CPC. Reclamação manifestamente infundada, com fundamento em precedentes firmados na sistemática da repercussão geral. Sucedâneo recursal. Agravo regimental não provido, com aplicação de multa. 1. A reclamação constitucional proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida pressupõe o esgotamento das instâncias ordinárias, o que ocorre com a interposição do agravo interno (art. 1.021 do CPC) contra a decisão de inadmissão do apelo extremo fundamentada em precedente firmado sob a sistemática da repercussão geral, o que não se verifica na hipótese dos autos. 2. Não há que se falar em afronta à autoridade deste Supremo Tribunal Federal, nem da decisão proferida nos RE nºs 590.260/SP-RG e 596.962/MT-RG, porquanto ainda pendente de análise o agravo em recurso extraordinário por esta própria Corte. 3. Inadmissível o uso da reclamação constitucional como sucedâneo de recurso ou de ações judiciais em geral. 4. Agravo regimental não provido, com aplicação de multa.” (Rcl 29.895 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 18.6.2018) (grifou-se)
+    É que, consoante se verifica a parte interpôs agravo – artigo 1042 do CPC – tanto para o STF, quanto para o STJ, que, à época da interposição desta ação, estavam pendentes de julgamento.
+    Pelo exposto, nos termos dos arts. 21, § 1º, e 161, parágrafo único, do RISTF, nego seguimento à reclamação.
+    Publique-se.
+    Brasília, 18 de junho de 2019.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
