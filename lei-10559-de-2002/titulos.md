@@ -1,0 +1,16 @@
+CAPÍTULO I
+DO REGIME DO ANISTIADO POLÍTICO
+CAPÍTULO II
+DA DECLARAÇÃO DA CONDIÇÃO DE ANISTIADO POLÍTICO
+CAPÍTULO III
+DA REPARAÇÃO ECONÔMICA DE CARÁTER INDENIZATÓRIO
+Seção I
+Da Reparação Econômica em Prestação Única
+Seção II
+Da Reparação Econômica em Prestação Mensal, Permanente e Continuada
+CAPÍTULO IV
+DAS COMPETÊNCIAS ADMINISTRATIVAS
+CAPÍTULO V
+DAS DISPOSIÇÕES GERAIS E FINAIS
+Senador RAMEZ TEBET
+Presidente da Mesa do Congresso Nacional
