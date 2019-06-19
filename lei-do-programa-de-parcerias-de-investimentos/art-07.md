@@ -13,10 +13,10 @@ IX - aprovar, em função das características regionais, as políticas de prest
 X - aprovar as revisões periódicas das redes de transporte que contemplam as diversas regiões do País e propor ao Presidente da República e ao Congresso Nacional as reformulações do Sistema Nacional de Viação, instituído pela Lei nº 12.379, de 6 de janeiro de 2011, que atendam ao interesse nacional; e
 XI - editar o seu regimento interno.
 § 1º Serão membros do CPPI, com direito a voto:
-I - o Ministro de Estado Chefe da Secretaria de Governo da Presidência da República, que o presidirá; (Alteração
-II - o Ministro de Estado Chefe da Casa Civil da Presidência da República;
-III - o Ministro de Estado da Fazenda;
-IV - o Ministro de Estado dos Transportes, Portos e Aviação Civil;
+I - o Ministro de Estado Chefe da Casa Civil da Presidência da República, que o presidirá;
+II - o Ministro de Estado Chefe da Secretaria de Governo da Presidência da República;
+III - o Ministro de Estado da Economia;
+IV - o Ministro de Estado da Infraestrutura;
 V - o Ministro de Estado de Minas e Energia;
 VII - o Ministro de Estado do Meio Ambiente;
 VII-A - o Ministro de Estado do Desenvolvimento Regional;
@@ -25,5 +25,5 @@ IX - o Presidente da Caixa Econômica Federal; e
 X - o Presidente do Banco do Brasil;
 § 2º Serão convidados a participar das reuniões do Conselho, sem direito a voto, os ministros setoriais responsáveis pelas propostas ou matérias em exame e, quando for o caso, os dirigentes máximos das entidades reguladoras competentes.
 § 3º A composição do Conselho do Programa de Parcerias de Investimento da Presidência da República observará, quando for o caso, o § 2º do art. 5º da Lei nº 9.491, de 9 de setembro de 1997.
-§ 4º As reuniões do Conselho serão dirigidas pelo Presidente da República ou, em suas ausências ou seus impedimentos, pelo Ministro de Estado Chefe da Secretaria de Governo da Presidência da República. (Alteração
-§ 5º Compete ao Secretário Especial do Programa de Parcerias de Investimentos da Secretaria de Governo da Presidência da República atuar como Secretário-Executivo do CPPI e participará de suas reuniões, sem direito a voto. (Alteração
+§ 4º As reuniões do Conselho serão dirigidas pelo Presidente da República ou, em suas ausências ou seus impedimentos, pelo Ministro de Estado Chefe da Casa Civil da Presidência da República.
+§ 5º O Secretário Especial do Programa de Parcerias de Investimentos da Casa Civil da Presidência da República atuará como Secretário-Executivo do CPPI e participará de suas reuniões, sem direito a voto.
