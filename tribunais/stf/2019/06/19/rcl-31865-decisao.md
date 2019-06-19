@@ -1,0 +1,21 @@
+DECISÃO:
+    1. Trata-se de reclamação ajuizada pela União em face de decisão proferida pelo Tribunal Regional do Trabalho, da 2ª Região, alegando violação à autoridade da decisão do Supremo Tribunal Federal proferida na ADI 3.395-MC, Rel. Min. Cezar Peluso. Naquela oportunidade, o Supremo deferiu a medida cautelar para suspender toda e qualquer interpretação dada ao inciso I do art. 114 da CF, na redação conferida pela EC 45/2004, que inclua, na competência da Justiça do Trabalho, a apreciação de causas que sejam instauradas entre o Poder Público e servidores a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+    2. Alega a parte reclamante, para tanto, que o Tribunal a quo entendeu ser competente a Justiça do Trabalho para o julgamento da causa, embora a natureza jurídica da relação existente entre as partes enquadre-se dentre as exceções estabelecidas na ADI 3.395-MC. Assim, segundo a parte reclamante, estaria sendo descumprida a decisão proferida naquela ADI, dotada de efeitos vinculantes, razão pela qual seria cabível o ajuizamento da presente reclamação. Veja-se o trecho relevante da decisão reclamada:
+    “A reclamada aduz incompetência material desta Especializada sob o argumento de que o benefício possui natureza administrativa, instituído por lei estadual, cujo ônus financeiro cabe ao Estado, devendo, portanto ser apreciado pela Justiça Federal comum, com espeque no artigo 109, I, da Constituição Federal.
+    No caso, trata-se de complementação de aposentadoria que foi concedida ao autor por força do contrato de trabalho, razão pela qual é competente a Justiça do Trabalho para apreciar e julgar a lide, nos termos do artigo 114 da Constituição Federal.
+    A repercussão geral reconhecida nos Recursos Extraordinários 586453/SE e 583050/RS não se aplica ao caso em tela por estar relacionada a lides que versam acerca de contratos de previdência complementar privada.
+    Em não havendo entidade de previdência privada a garantir o benefício, a competência para dirimir a lide é da Justiça do Trabalho.” (doc. 4)
+    3. O pedido liminar foi deferido para suspender os efeitos da decisão reclamada (doc. 10 ).
+    4. Citada, a parte beneficiária do ato reclamado apresentou contestação, na qual defende que a Justiça do Trabalho é a competente para o julgamento do feito (doc. 19).
+    5. É o relatório. Decido.
+    6. Estando o feito suficientemente instruído, dispenso as informações, bem como o parecer ministerial, diante do caráter reiterado da matéria (art. 52, parágrafo único, do RI/STF).
+    7. Assiste razão à parte reclamante. Com efeito, em hipóteses como a dos presentes autos, esta Corte já assentou o entendimento de que ofende a decisão proferida na ADI 3.395-MC o processamento e julgamento, pela Justiça do Trabalho, de ações propostas em face da União por aposentados da antiga RFFSA ou de suas subsidiárias, nas quais se pretende complementação de aposentadoria. Isto porque se está diante de vínculo jurídico-administrativo, conforme previsto nas Leis Federais nº 8.186/1991 e 10.478/2002. Nesse sentido, a Rcl 23.961 AgR, Rel. Min. Edson Fachin; a Rcl 13.780 ED, Rel. Min. Luiz Fux; e a Rcl 18.671 AgR, sob a minha relatoria, cuja ementa ora transcrevo:
+    AGRAVO REGIMENTAL EM RECLAMAÇÃO. COMPETÊNCIA. ADI 3.395-MC. COMPLEMENTAÇÃO DE APOSENTADORIA DE FERROVIÁRIO.
+    1. Ofende a autoridade do acórdão proferido na ADI 3.395-MC decisão que considera competente a Justiça do Trabalho para processar e julgar ação de complementação de aposentadoria prevista nas Leis nº 8.186/1991 e 10.478/2002, proposta em face da União por aposentado da Trensurb, subsidiária da RFFSA.
+    2. Agravo regimental ao qual se nega provimento. (grifo acrescentado)
+    8. Do exposto, com base no art. 161, § único, do RI/STF, julgo procedente o pedido, para cassar a decisão reclamada e assentar a competência da Justiça Federal.
+    9. Fixo os honorários em 10% (dez por cento) do valor da causa, nos termos do art. 85, § 3º, I, do CPC/2015, a serem executados pelo juízo de destino dos autos de origem, a quem também competirá o exame de eventual pedido de gratuidade de justiça.
+    Publique-se.
+    Brasília, 19 de junho de 2019.
+Ministro LUÍS ROBERTO BARROSO
+Relator
