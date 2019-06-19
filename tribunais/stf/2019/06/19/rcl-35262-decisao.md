@@ -1,0 +1,15 @@
+DECISÃO:
+    1. Trata-se de reclamação, com pedido liminar, ajuizada contra decisão do do Juízo da 15ª Vara de Fazenda Pública da Comarca do Rio de Janeiro, mantida por Desembargador do Tribunal de Justiça do Rio de Janeiro, que indeferiu liminar em mandado de segurança, afirmando a validade de ato que eliminou a ora reclamante de concurso público para ingresso nos quadros da Polícia Militar daquele estado, por reprovação em exame psicológico.
+    2. A reclamante alega afronta à Súmula Vinculante 44 (“Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público”), sob a alegação de que a avaliação psicológica a que foi submetida estaria prevista exclusivamente no item 4.1 e item 12 do Edital do Concurso, bem como no art. 52 do Decreto nº 43.876, de 08 de outubro de 2012, inexistindo previsão em lei em sentido formal. Nessa linha, alega que somente a lei poderia dispor sobre requisitos de admissão de policiais militares estaduais, salientando a não incidência da Lei estadual nº 443/1981. Requer justiça gratuita.
+    3. É o relatório. Decido.
+    4. Dispenso as informações, porquanto suficientemente instruído o processo, e a manifestação da Procuradoria-Geral da República (RI/STF, art. 52, parágrafo único). Deixo de determinar a citação do beneficiário do ato reclamado, em face da manifesta inviabilidade do pedido.
+    5. Na sessão de 08.04.2015, o Supremo Tribunal Federal, após reiteradas decisões no sentido de que a exigência de exame psicotécnico nos concursos públicos somente é possível quando prevista em lei no sentido formal, converteu a Súmula 686 da jurisprudência dominante na Súmula Vinculante 44.
+    6. No caso dos autos, as decisões reclamadas afirmaram a validade do exame psicológico a que foi submetida a candidata no concurso público, pela afirmação de existência de lei local prevendo tal exigência. Extraio trecho pertinente da decisão:
+    “De outra ponta, deve ser registrado que a Lei Estadual nº 1.326/88 exige exame psicológico para todo aquele a quem se conferir porte de arma, como no caso dos autos - policiais militares. Ademais, o exame em questão para admissão do candidato às fileiras da PMERJ tem previsão legal também no art. 11 da Lei Estadual 443/81 - Estatuto dos Policiais Militares do Rio de Janeiro.”
+    7. Assim, estando as decisões reclamadas embasadas em existência de lei instituidora de exame psicológico, não há afronta à Súmula Vinculante 44, não cabendo a esta Corte, em sede de reclamação, reexaminar a aplicação de lei local. No mesmo sentido, confiram-se casos semelhantes: Rcl 23.781, Rel. Min. Rosa Weber; Rcl 25.230, Rel. Min. Dias Toffoli; e Rcl 25.383, Rel. Min. Teori Zavaski, entre outros.
+    8. Diante do exposto, com base no art. 21, §1º, do Regimento Interno do STF, nego seguimento à reclamação.
+    9. Defiro a gratuidade de justiça. Sem honorários, porquanto não citada a parte contrária.
+    Publique-se.
+          Brasília, 19 de junho de 2019.
+Ministro LUÍS ROBERTO BARROSO
+Relator
