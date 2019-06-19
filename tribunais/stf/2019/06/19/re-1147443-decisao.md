@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “EMENTA: DIREITO PREVIDENCIÁRIO E ADMINISTRATIVO – MANDADO DE SEGURANÇA – PENSÃO POR MORTE – ÓBITO DO SERVIDOR EM DATA POSTERIOR À VIGÊNCIA DA EMENDA CONSTITUCIONAL Nº 41/2003 – APLICAÇÃO DO REDUTOR DO ARTIGO 40, §7º, I, DA CONSTITUIÇÃO FEDERAL – ATUALIZAÇÃO – PARIDADE COM O VENCIMENTO DO SERVIDOR EM ATIVIDADE – DESCABIMENTO – SENTENÇA REFORMADA EM REEXAME.
+    1. Em observância ao princípio tempus regit actum, as regras aplicáveis à concessão de benefícios previdenciários são aquelas vigentes à data do fato gerador, que na hipótese da pensão por morte corresponde à data do óbito do segurado/servidor. Inteligência do enunciado da Súmula 340 do STJ.
+    2. Com a vigência da Emenda Constitucional nº 41/2003, alterou-se a forma de cálculo dos benefícios de pensão, abolindo-se o direito à paridade com os vencimentos ou proventos do servidor, passando a pensão a corresponder ao limite do teto do ‘Regime Geral de Previdência Social’, acrescido de 70% (setenta por cento) da parcela da remuneração que exceder esse limite, não fazendo o beneficiário jus à revisão em paridade com a remuneração que estaria percebendo o instituidor do benefício se vivo estivesse” (pág. 74 do documento eletrônico 4).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, violação do art. 40, § 7°, I e II, da mesma Carta.
+    A Procuradoria-Geral da República manifestou-se pelo não conhecimento do recurso (documento eletrônico 9).
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido está em consonância com a jurisprudência do Supremo Tribunal Federal, consolidada no julgamento do RE 603.580-RG/RJ, de minha relatoria (Tema 396 da repercussão geral), em que os Ministros desta Corte firmaram tese no sentido de que “os pensionistas de servidor falecido posteriormente à EC 41/2003 têm direito à paridade com servidores em atividade (art. 7° da EC 41/2003), caso se enquadrem na regra de transição prevista no art. 3° da EC 47/2005. Não têm, contudo, direito à integralidade (CF, art. 40, § 7°, inciso I)”. Por oportuno, cito a ementa do paradigma:
+     “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. PENSÃO POR MORTE. INSTITUIDOR APOSENTADO ANTES DA EMENDA CONSTITUCIONAL 41/2003, PORÉM FALECIDO APÓS SEU ADVENTO. DIREITO DO PENSIONISTA À PARIDADE. IMPOSSIBILIDADE. EXCEÇÃO: ART. 3º DA EC 47/2005. RECURSO EXTRAORDINÁRIO A QUE SE DÁ PARCIAL PROVIMENTO.
+    I – O benefício previdenciário da pensão por morte deve ser regido pela lei vigente à época do óbito de seu instituidor.
+    II – Às pensões derivadas de óbito de servidores aposentados nos termos do art. 3º da EC 47/2005 é garantido o direito à paridade.
+    III – Recurso extraordinário a que se dá parcial provimento”.
+    Ademais, observo que o Tribunal de origem concluiu que a pensionista não se enquadra na regra de transição estabelecida pelo art. 3° da EC 47/2005, não fazendo jus à paridade com os servidores em atividade. Assim, para divergir desse entendimento, seria necessário o reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 279 desta Corte. Nesse sentido, cito as seguintes decisões em casos análogos: RE 1.120.111-AgR/MG, Rel. Min. Dias Toffoli; RE 1.056.183/SC, Rel. Min. Roberto Barroso; RE 1.056.058/SC, Rel. Min. Celso de Mello; e RE 1.047.407/SC, Rel. Min. Edson Fachin.
+    Por fim, ressalte-se que o acórdão recorrido não determinou a incidência do art. 15 da Lei Federal 10.887/2004 no reajustamento do benefício em questão, de modo que não há se falar em aplicação do entendimento firmado na ADI 4.582-MC/DF, de relatoria do Ministro Marco Aurélio.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Sem honorários (Súmula 512/STF).
+    Publique-se.
+    Brasília, 19 de junho de 2019.
+Ministro Ricardo Lewandowski
+Relator
