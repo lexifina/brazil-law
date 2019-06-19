@@ -1,0 +1,16 @@
+Decisão: Trata-se de habeas corpus em que se articula excesso de prazo no julgamento do HC 568.300/SP pelo STJ.
+    Alega-se que a audiência de instrução e julgamento se avizinha e, por isso, haveria risco de perder o objeto da impetração.
+    Busca-se a concessão da ordem a fim de que seja determinado ao STJ o imediato julgamento do feito.
+    É o relatório. Decido.
+    1. No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    Com relação ao excesso de prazo, anoto que “a jurisprudência do Supremo Tribunal Federal é firme no sentido de que a demora para conclusão da instrução criminal, como circunstância apta a ensejar constrangimento ilegal, somente se dá em hipóteses excepcionais, nas quais a mora seja decorrência de (a) evidente desídia do órgão judicial; (b) exclusiva atuação da parte acusadora; ou (c) situação incompatível com o princípio da razoável duração do processo, previsto no art. 5º, LXXVIII, da CF/88” (HC 128833, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 08/09/2015, grifei).
+    No mesmo tom, “o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para se definir se houve ou não excesso, não se limitando o exame à mera soma aritmética dos prazos processuais (Precedentes do STF e do STJ). Dessa forma, o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando houver demora injustificada (Precedentes)” (HC 103385, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 08/02/2011, grifei).
+    Nessa linha, é cediço que inexiste extensão aritmeticamente precisa da duração razoável da marcha processual, incumbindo averiguar as particularidades do caso concreto.
+    No caso concreto, consta dos autos que o paciente foi denunciado pela prática dos delitos previstos nos arts. 33, caput, e 35, c.c. o art. 40, VI, todos da Lei de Drogas. A denúncia foi recebida. Em 31.01.2020, foi cumprido o mandado de prisão preventiva do paciente. A defesa impugnou o decreto perante o Tribunal local, que denegou o ordem em 20.03.2020. Em 23.03.2020, a defesa impetrou habeas corpus no âmbito do STJ, que foi registrado como HC 568.300/SP e distribuído ao Ministro Rogério Schietti Cruz. Em 25.03.2020, o Relator indeferiu a liminar, solicitou informações ao Juízo de origem e determinou o encaminhamento dos autos ao Ministério Público Federal. Em 26.03.2020, as informações foram prestadas. Em 27.03.2020, os autos foram encaminhados ao Parquet. Em 20.04.2020, voltaram conclusos ao Relator com parecer. Em 12.05.2020, o impetrante requereu urgência na tramitação do feito. Na mesma data, os autos retornaram conclusos.
+    Da situação fática evidenciada não depreendo, por ora, excesso de prazo que beire à teratologia, passível de concessão por meio da estreita via do habeas corpus. Ao contrário, o feito vem sendo impulsionado de maneira diligente pelo STJ e o transcurso do tempo revela-se razoável e proporcional às intercorrências do processo.
+    2. Posto isso, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 19 de junho de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
