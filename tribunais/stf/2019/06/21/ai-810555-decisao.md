@@ -1,0 +1,21 @@
+DESPACHO
+RECURSO EXTRAORDINÁRIO. VISTA À PROCURADORIA-GERAL DA REPÚBLICA.
+Relatório
+    1. Agravo de instrumento contra inadmissão de recurso extraordinário interposto com base nas als. a e d do inc. III do art. 102 da Constituição da República.
+    2. A Sétima Turma Especializada do Tribunal Regional Federal da Segunda Região decidiu:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. PRODUÇÃO DE PROVA NEGATIVA. IMPOSSIBILIDADE. CARTEIROS E MENSAGEIROS DA ECT. TRANSPORTE COLETIVO. PASSE LIVRE. SÚMULA 237 DO EXTINTO TFR. OFENSA AO PRINCÍPIO DO PACTO FEDERATIVO. INEXISTÊNCIA.
+    1. De início, cumpre ressaltar que o art. 1°, § 1°, da Lei n. 1.533/51 permite a impetração de mandado de segurança contra atos praticados pelos agentes públicos por delegação, em consonância com a disposição do art. 5°, inciso LXIX, que faz referência à autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público - in casu, a concessionária de prestação do serviço de transporte público.
+    2. A prova acerca da denegação da gratuidade aos carteiros e mensageiros da ECT no uso do transporte público, quando em serviço, constitui prova negativa e, portanto, difícil ou impossível materialmente de ser realizada, senão documentalmente, mediante, v. g. próprias declarações ou, in casu, as notificações enviadas às empresas das negativas de passe livre. Cumpriria. no caso vertente, às autoridades impetradas apresentar os elementos desconstituidores de tal assertiva contida nas correspondências enviadas, o que não foi realizado; ao contrário, foram os Apelantes categóricos em negar o direito postulado pela demandante, o que simplesmente supriu suposta ausência de prova pré-constituída da negativa do passe livre, configurando, outrossim, o interesse de agir da ora Apelada.
+    3. Encontra-se plenamente vigente, em nosso ordenamento jurídico pátrio, o teor da Súmula 237 do extinto TFR, no sentido de ser garantido, aos carteiros e mensageiros da ECT, no exercício de suas funções, a concessão de passe livre nos transportes urbanos e intermunicipais, a fim da manutenção do serviço postal. Tal encontra embasamento no disposto no Decreto-lei n.509/69, recepcionado pela Constituição Federal de 1988, que estendeu à ECT os privilégios concedidos à Fazenda Pública, em relação quer às rendas e serviços, quer no concernente ao foro, prazos e custas processuais. Inexiste, ademais, revogação expressa ou tácita à isenção prevista no Decreto-lei n. 3.326/41, o que obriga as empresas concessionárias de transporte coletivo a conceder passe livre aos carteiros e mensageiros da ECT quando em serviço. Precedentes.
+    4. A alegação de ofensa ao princípio do pacto federativo, por fim, não merece prosperar. A autonomia dos entes federativos não é absoluta, mas sim, relativa, visando ao melhor alcance dos mandamentos constitucionais, e sempre em atendimento ao interesse público.
+    5. Apelação improvida” (fl. 146, e-doc. 1).
+    Os embargos declaratórios opostos foram rejeitados (fl. 164, e-doc. 1).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e incidência da Súmula n. 636 do Supremo Tribunal Federal (fl. 213, e-doc. 1).
+    4. Os agravantes argumentam que, “na origem, está em discussão a isenção tarifária estabelecida pela União para a utilização do serviço público de transporte de que é titular o Município do Rio de Janeiro, a beneficiar determinada categoria de destinatários, consoante disciplina contida no disposto nos artigos 9º, parágrafo único, do Decreto-Lei n. 3.326/41 e 51 do Decreto-Lei n. 5.405/1943” (fl. 11, e-doc. 1).
+    Sustentam que “os preceitos legais supra padecem do vício de inconstitucionalidade e, por isso, não estão obrigadas a suportar a isenção estabelecida pela legislação federal, incidente sobre serviço público municipal” (fl. 12, e-doc. 1).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 18 e o inc. V do art. 30 da Constituição da República.
+    5. Vista à Procuradoria-Geral da República (inc. XV do art. 52 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de junho de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
