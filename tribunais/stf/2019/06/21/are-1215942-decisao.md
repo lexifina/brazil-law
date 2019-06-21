@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo quanto à procedência do pedido de cobrança de diferenças salariais reconhecidas em mandado de segurança previamente ajuizado. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 2º, 37, cabeça e inciso XI, da Constituição Federal. Diz contrariados os princípios da legalidade e da separação de Poderes, ante a concessão de aumento remuneratório em previsão legal.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes trechos:
+    ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. DIFERENÇAS REMUNERATÓRIAS. MANDADO DE SEGURANÇA. PARCELAS VENCIDAS. PRESCRIÇÃO. JUROS MORATÓRIOS.
+    - Não sendo o mandado de segurança substitutivo de ação de cobrança e não produzindo efeitos patrimoniais em relação a período pretérito (súmulas 269 e 271 do STF), correto o ajuizamento de ação ordinária para cobrança de parcelas devidas.
+    - Não é mais possível discutir a existência do direito, já que este restou definitivamente alcançado à parte-requerente por força da decisão sob a qual paira o manto da coisa julgada.
+    - Restou reconhecido pelo STJ que, no período de 1º.3.2002 a 25.6.2002, a remuneração dos integrantes da carreira de Procurador da Fazenda Nacional será composta de: a) vencimento básico, fixado nos termos do art. 3º da MP n. 43/2002; b) pro labore, devido em valor fixo; c) representação mensal, incidente sobre o novo vencimento básico, nos percentuais previstos no Decreto-Lei n. 2.371/1987; d) gratificação temporária, conforme a Lei n. 9.028/1995. A partir de 26.2.2002, a remuneração terá a seguinte composição: a) vencimento básico na forma do Anexo III da MP n. 43/2002; b) pro labore de 30% sobre esse mesmo vencimento básico; e c) VPNI, em caso de eventual redução na totalidade da remuneração.
+    - Nesse contexto, o título judicial que se formou nos autos do Mandado de Segurança nº 2005.71.00.035012-8 garante ao autor o pagamento dos valores retroativos a março de 2002, limitado, no caso, a 4 de outubro de 2005.
+    - Em se tratando de ação de cobrança que busca o pagamento de parcelas pretéritas ao ajuizamento do mandado de segurança, o correto é que os juros moratórios incidam desde a notificação da autoridade coatora (precedente STJ).
+    - Reconhece-se, por ora, que é devida a incidência de juros e correção monetária sobre o débito, nos termos da legislação vigente no período a que se refere, postergando-se a especificação dos índices e taxas aplicáveis para a fase de execução.
+    À toda evidência, as razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    No mais, a questão foi decidida sobre a óptica da legislação de regência. Assim, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 21 de junho de 2019.
+Ministro MARCO AURÉLIO
+Relator
