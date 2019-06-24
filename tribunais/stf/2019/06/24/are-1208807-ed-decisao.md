@@ -1,0 +1,38 @@
+DECISÃO:
+    Trata-se de embargos de declaração opostos contra decisão monocrática de minha relatoria, assim fundamentada:
+    “Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    ‘PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. FÉRIAS GOZADAS. HORAS EXTRAS. SALÁRIO -MATERNIDADE. INCIDÊNCIA. VALE TRANSPORTE EM PECÚNIA: NÃO INCIDÊNCIA.
+    1 - Ao julgar o Resp n° I .358.281/SP, representativo da controvérsia, o STJ assentou o entendimento de que incide contribuição previdenciária sobre o adicional de horas extras; dada sua natureza remuneratória.
+    II - A Primeira Seção do STJ, ao apreciar o REsp 1.230.957/RS, sob a sistemática do artigo 543-C, do CPC, pacificou orientação no sentido de que incide contribuição previdenciária sobre o salário maternidade.
+    III - Ao apreciar a discussão na sistemática do artigo 543-C do CPC, no julgamento do Resp n° 1.489.128, o E. STJ reconheceu a legalidade da incidência da contribuição previdenciária sobre as férias gozadas.
+    IV - O próprio diploma legal instituidor do beneficio (vale - transporte) prevê expressamente que referida verba não possui natureza salarial, entendimento que não se altera caso beneficio seja pago em pecúnia, conforme entendimento do E. STJ (MC 21769).
+    V - Os valores indevidamente recolhidos serão objeto de compensação com contribuições vincendas de mesma espécie e destinação constitucional, observada a prescrição quinquenal, nos termos da legislação vigente à data do encontro de contas, conforme decidido no Resp 1.164.452/MG.
+    VI - Quanto à correção monetária do montante a repetir, o Superior Tribunal de Justiça, no julgamento do REsp n° 1.112.524/DF e do REsp n° 1.111.175/SP, conforme procedimento previsto para os recursos repetitivos, assentou o entendimento de ser a taxa SELIC aplicável exclusivamente a partir de 01°/01/1996, sem cumulação com qualquer outro índice de correção monetária ou de juros.
+    VII - Apelação da União parcialmente provida. Apelação da impetrante desprovida.’
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7°, XVIII; 195, I, a, da CF. Sustenta, em síntese, que não incide contribuição previdenciária sobre os valores pagos a título de salário maternidade, adicional de hora extra e férias gozadas, ante a natureza indenizatória de tais verbas.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    ‘O recurso não pode ser admitido.
+    Verifico que o Recorrente, apesar de desenvolver teses que entende amparar sua pretensão e mencionar dispositivos constitucionais, não cuidou de indicar, de forma expressa, clara e específica, quais e de que forma os dispositivos da Constituição teriam sido violados pelo aresto recorrido, tendo se limitado, em verdade, a externar o seu inconformismo com o acórdão recorrido, em desatenção ao disposto no art. 541 do CPC de 1973, cujo teor foi reproduzido no art. 1.029 do CPC, do que decorre a sua deficiência de fundamentação, consoante o entendimento sedimentado na Súmula n." 284 do Supremo Tribunal Federal:
+    ‘É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exala compreensão da controvérsia’.
+    Ademais, imperioso anotar que, na via estreita do Recurso Extraordinário, para que haja interesse em recorrer, não basta mera sucumbência, como nos demais recursos ordinários. É necessário que haja efetivamente uma questão constitucional, pois o extraordinário não se presta a examinar a justiça da decisão, mas a solucionar controvérsia acerca da interpretação das normas da Constituição Federal.
+    […]
+    Quanto ao pleito de compensação, é assente no STF a orientação de a questão relativa à compensação tributária possui natureza infraconstitucional, de modo que eventual ofensa à Constituição ocorreria de forma meramente reflexa. Confira-se:
+    […]
+    Ante o exposto, não admito o Recurso Extraordinário.’
+    Quanto ao salário-maternidade, o Plenário do Supremo Tribunal Federal (STF), ao apreciar o RE 576.967RG, sob a minha relatoria, reconheceu a repercussão geral da matéria em exame (Tema 72).
+    Quanto às férias gozadas e ao adicional de hora extra, o STF vem, reiteradamente, negando a repercussão geral de controvérsias relativas à cobrança de contribuição previdenciária sobre valores pagos pelo empregador, quando pendente discussão acerca da natureza jurídica das verbas (RE 945.513, Relª. Minª. Rosa Weber, e RE 967.780-AgR, sob a minha relatoria).
+    Diante do exposto:
+    (i) quanto à incidência de contribuição previdenciária patronal sobre os valores pagos a título de salário-maternidade, com base no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos à origem, a fim de que seja aplicada a sistemática da repercussão geral;
+    (ii) quanto à incidência de contribuição previdenciária patronal sobre as demais verbas, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.”
+    A parte embargante sustenta que a decisão monocrática padece de omissão, uma vez que desconsiderou a existência do Tema 163 da sistemática da repercussão geral.
+    O recurso não merece acolhida, tendo em vista a inexistência de obscuridade, contradição, omissão ou erro material na decisão embargada, o que afasta a presença dos pressupostos de embargabilidade, conforme o art. 1.022 do CPC/2015.
+    Estes embargos veiculam pretensão meramente infringentes. Objetivam tão somente o reexame de pedido já repelido. E os embargos não podem conduzir à renovação de um julgamento que não ressente de nenhum vício e, muito menos, à modificação do julgado.
+    A parte recorrente limita-se a postular uma nova apreciação do mérito de um julgamento que transcorreu de forma regular. Incide, no caso, a jurisprudência do Supremo Tribunal Federal (STF) que afasta o cabimento dos declaratórios com essa finalidade.
+    O STF firmou o entendimento de que não se revelam cabíveis embargos de declaração quando, a pretexto de esclarecer uma inexistente situação de obscuridade, omissão ou contradição, vêm a ser opostos com o inadmissível objeto de infringir o julgado, em ordem a viabilizar um indevido reexame da causa (AI 177.313-AgR-ED, Rel. Min. Celso de Mello).
+    Restou claro na decisão embargada que: (i) quanto ao salário-maternidade, o Plenário do STF, ao apreciar o RE 576.967-RG, sob a minha relatoria, reconheceu a repercussão geral da matéria em exame (Tema 72); (ii) quanto às demais verbas, a jurisprudência do STF vem, reiteradamente, negando a repercussão geral de controvérsias relativas à cobrança de contribuição previdenciária sobre valores pagos pelo empregador, quando pendente discussão acerca da natureza jurídica das verbas.
+    Ademais, ao presente caso, não se aplica a repercussão geral reconhecida nos autos do RE 593.068-RG. Isso porque, naquele feito, se discutiu a possibilidade de fazer incidir contribuição previdenciária sobre valores percebidos pelo servidor que não encontram ressonância no cálculo do benefício a ser concedido durante a inatividade. Confira-se, a propósito, a tese fixada: Não incide contribuição previdenciária sobre verba não incorporável aos proventos de aposentadoria do servidor público, tais como terço de férias, serviços extraordinários, adicional noturno e adicional de insalubridade.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, rejeito os presentes embargos de declaração.
+    Publique-se.
+          Brasília, 24 de junho de 2019.
+Ministro Luís Roberto Barroso
+Relator
