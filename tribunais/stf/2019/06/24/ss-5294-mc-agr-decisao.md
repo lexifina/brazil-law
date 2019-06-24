@@ -1,0 +1,23 @@
+Decisão:
+    Trata-se de agravo regimental interposto em face de decisão monocrática, por meio da qual a Presidência desta Corte deferiu o pedido da liminar requerido pelo Estado de Goiás em sede da Suspensão de Segurança, para suspender a ordem de penhora concedida liminarmente pelo eminente Desembargador Relator do Mandado de Segurança nº 5542661.93.2018.8.09.00001 em trâmite perante o Tribunal de Justiça do Estado de Goiás.
+    Em suas razões, o Sindicato dos Delegados de Polícia do Estado de Goiás alega, inicialmente, supressão de instância, apontando que foram interpostos simultaneamente dois pedidos de suspensão, um perante o TJGO e outro perante esta Corte. Narra no ponto:
+    “Aos 09 de maio de 2019, o ora Requerente ingressou simultaneamente com duas medidas excepcionais em face da decisão que determinou a penhora das contas do Estado para garantir a quitação da folha de pagamento dos Delegados de Polícia, quais sejam: (i) a Suspensão de Liminar ao PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (que gerou o processo nº 5251112.49.2019.8.09.0000, plataforma Projudi) e (ii) a presente Suspensão de Segurança ao PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL. Sobrevieram as decisões dos respectivos presidentes, ambas de suspensão da liminar, publicadas aos 14 de maio de 2019”.
+    No mérito, defende que o pagamento tempestivo da folha de pagamento se constitui direito líquido e certo e que há muito, o atraso se prolonga sem que o Estado de Goiás tenha efetivamente comprovado eventual insuficiência financeira que justificasse a não realização [do pagamento].
+    Argui que não se entende por razoável lastrear o raciocínio tão somente na suposta impossibilidade do Governo de Goiás cumprir com o compromisso financeiro firmado com seus servidores e defende que se há atraso, este certame se deve à ineficiência da gestão e não à insuficiência de recursos, visto que a quitação da folha de pagamento é uma despesa prevista e a verba tem a prioridade de caracterizar-se como de caráter alimentar.
+    Afirma que, nesse contexto, a liminar concedida na origem seria indispensável à própria manutenção da ordem e da segurança pública de todo o Estado, a qual não pode ser mitigada frente à desorganização da gestão pública.
+    Sustenta, ainda, acerca da alegada insuficiência de recursos pelo Estado de Goiás, que este possui saídas para levantar valores em situações emergenciais e a presente situação nada mais é do que uma emergência! O risco de dano, inclusive, já foi suficientemente provado nos autos de Mandado de Segurança.
+    Por fim, requer:
+    “seja conhecido e provido o presente Agravo Interno mediante a (i) reconsideração da decisão que suspendeu a ordem de liminar concedida pelo o juízo a quo ou, caso não se reconsidere a decisão, mediante (ii) o julgamento na sessão seguinte do colegiado competente (art. 4º, §3º da Lei nº 8.437/92); em quaisquer dos casos a fim de que:
+    a) seja cassada a decisão desta Presidência com o reconhecimento da competência da Presidência do TJGO quanto à apreciação deste pleito e da consequente supressão de instância que maculou o manejo da suspensão de segurança perante esta Corte Suprema;
+    b) caso não seja cassada a decisão, que seja reformada a decisão desta Presidência mediante o indeferimento do pedido de Suspensão da Suspensão da Segurança e manutenção da decisão liminar proferida na origem, a qual determinou o pagamento e possibilitou a penhora das contas do Estado de Goiás no valor da folha de pagamento dos Delegados de Polícia do Estado de Goiás referente ao mês de dezembro/2018.
+    É o relatório.
+    Observo, ante a notícia do agravante, que nos autos de pedido de suspensão dirigido ao TJGO (nº 5251112.49.2019.8.09.0000) foi proferida decisão da Presidência daquela Corte, sob o seguinte dispositivo:
+    “Ao teor do exposto, DEFIRO a suspensão da execução da liminar deferida nos autos do Mandado de Segurança Preventivo n. 5542661.93.2018.8.09.0000 , até o trânsito em julgado”.
+    Abstraída a discussão quanto à competência para o conhecimento das medidas de suspensão em face de decisão do Relator do processo de origem, a medida perante esta Suprema Corte só se justifica quando a decisão combatida se encontra com seus efeitos preservados.
+    No caso, a concessão da medida de suspensão pelo próprio Tribunal local tornou prejudicada a apreciação do objeto por esta Corte, ante a perda superveniente do interesse de agir do Estado de Goiás.
+    Desse modo, provejo o agravo, para julgar prejudicada a presente suspensão de segurança.
+    Publique-se. Intime-se.
+    Brasília, 24 de junho de 2019
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
