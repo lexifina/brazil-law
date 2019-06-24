@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). DANO. TRANSTORNOS CAUSADOS PELO MAU ACONDICONAMENTO DO LIXO DO SUPERMERCADO VIZINHO. PERÍCIA. AUSÊNCIA DE INTIMAÇÃO DO ASSISTENTE TÉCNICO. PREJUÍZO. INOCORRÊNCIA. DESNECESSIDADE. REVISÃO. SÚMULA Nº 7/STJ. DANO MORAL. VALOR. REVISÃO. SÚMULA Nº 7/STJ. DISTRIBUIÇÃO DO ÔNUS DE SUCUMBÊNCIA. HONORÁRIOS. REVISÃO. SÚMULA N. 7/STJ.
+AGRAVO DESPROVIDO
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO(Relator):
+Trata-se de agravo interno interposto por FORMOSA SUPERMERCADOS E MAGAZINE LTDA, em face de decisão assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). DANO. TRANSTORNOS CAUSADOS PELO MAU ACONDICONAMENTO DO LIXO DO SUPERMERCADO VIZINHO. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. PERÍCIA. AUSÊNCIA DE INTIMAÇÃO DO ASSISTENTE TÉCNICO. PREJUÍZO. INOCORRÊNCIA. DESNECESSIDADE. REVISÃO. SÚMULA Nº 7/STJ. DANO MORAL. VALOR. REVISÃO. SÚMULA Nº 7/STJ. DISTRIBUIÇÃO DO ÔNUS DE SUCUMBÊNCIA. HONORÁRIOS. REVISÃO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NESTA EXTENSÃO NEGAR-LHE PROVIMENTO.
+Nas razões do agravo, a parte agravante repisa as alegações da peça inicial, de nulidade da perícia, em razão da ofensa a ampla defesa e ao devido processo legal, diante da ausência de intimação dos assistentes técnicos sobre o início dos trabalhos periciais; redução do valor arbitrado à título de indenização, haja vista a redução da extensão do dano; reformatio in pejus; sucumbência recíproca e compensação proporcional dos honorários.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). DANO. TRANSTORNOS CAUSADOS PELO MAU ACONDICONAMENTO DO LIXO DO SUPERMERCADO VIZINHO. PERÍCIA. AUSÊNCIA DE INTIMAÇÃO DO ASSISTENTE TÉCNICO. PREJUÍZO. INOCORRÊNCIA. DESNECESSIDADE. REVISÃO. SÚMULA Nº 7/STJ. DANO MORAL. VALOR. REVISÃO. SÚMULA Nº 7/STJ. DISTRIBUIÇÃO DO ÔNUS DE SUCUMBÊNCIA. HONORÁRIOS. REVISÃO. SÚMULA N. 7/STJ.
+AGRAVO DESPROVIDO
+
+VOTO
+EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO(Relator):
+Eminentes colegas, a irresignação não merece acolhida.
+Com efeito, percebe-se que as razões trazidas no agravo interno, repisando as alegações da peça inicial, de nulidade da perícia, em razão da ofensa a ampla defesa e ao devido processo legal, diante da ausência de intimação dos assistentes técnicos sobre o início dos trabalhos periciais; redução do valor arbitrado à título de indenização, haja vista a redução da extensão do dano; reformatio in pejus; sucumbência recíproca e compensação proporcional dos honorários, não são aptas a desconstituir a decisão recorrida, cujos fundamentos passo aqui a reiterar.
+ Ora, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, no que tange à alegada nulidade da perícia, o Tribunal de origem assim se manifestou:
+Argui o apelante a nulidade da perícia, alegando violação ao art.
+431-A4 do Código de Processo Civil, sob o argumento de que não teria sido dada ciência às partes do local e hora para o início dos trabalhos periciais.
+Não assiste razão ao apelante.
+A jurisprudência pátria tem levado em consideração o princípio da ausência de prejuízo, sendo que a invalidação de ato processual deve ser vista como solução de "ultima ratio", ou seja, tomada apenas quando não for possível aproveitar o ato praticado com defeito.
+ ..
+No presente caso, o apelante apresentou seus quesitos a serem respondidos pela perícia (fls.124-125), tendo o Magistrado "a quo" inclusive determinado a intimação das partes e seus assistentes técnicos para que se manifestassem quanto à perícia (fl. 224), sendo que em momento algum o apelante argui, em sede de primeiro grau a suposta nulidade.
+Assim, não verifico prejuízo para o recorrente que ensejasse o reconhecimento da nulidade, razão pela qual rejeito a preliminar. (e-STJ fls. 447/448).
+Nesses termos, afastar a conclusão do Tribunal de não haver prejuízo ao recorrente que ensejasse o reconhecimento da nulidade, demandaria a análise das circunstâncias fático-probatórias, o que se mostra inviável em sede de recurso especial a teor da Súmula nº 7/STJ.
+Quanto ao valor arbitrado à título de indenização, ressalta-se que o Tribunal de origem foi bem claro ao assentar, em sede de embargos de declaração, que
+o fato da eminente relatora não conhecer sobre a questão de poluição sonora, não enseja a redução do quantum indenizatório, já que foi devidamente fundamentada a questão em relação aos danos sofridos pelos embargados, em proporção aos prejuízos e incômodos causados pelo mau condicionamento de lixo orgânico produzido pelo supermercado embargante, cujos os infortúnios foram atestados não apenas pela perícia realizada pela SEMMA, como também, pela oitiva das testemunhas em audiência de instrução (fls.292). (e-STJ fl. 495).
+Assim, o dano que deu ensejo à condenação decorreu dos prejuízos e incômodos causados pelo mau condicionamento de lixo orgânico produzido pelo recorrente.
+No que tange ao quantum, a revisão do valor arbitrado a título de indenização, por demandar reexame de provas, é inviável no âmbito desta Corte Superior em razão do óbice da Súmula nº 7/STJ.
+Excepcionalmente, quando o valor arbitrado na origem se mostrar ínfimo ou excessivo, admite-se a intervenção desta Corte para ajustar o quantum aos patamares da razoabilidade (AgRg no AREsp 211.917/RJ, Rel. Min. Sidnei Beneti, Terceira turma, julgado em 21/03/2013, DJe 02/04/2013).
+Na situação dos autos, não se pode reputar ínfima ou exorbitante a indenização por danos morais de R$ 40.000,00 (quarenta mil reais), a ser rateada de forma proporcional pelos autores, em decorrência de mau condicionamento de lixo orgânico que configurou ofensa à saúde e bem estar dos recorridos.
+Assim, não se justifica, in casu, a excepcional intervenção desta Corte a fim de revisar o valor da indenização por danos morais.
+Em relação à distribuição dos ônus da sucumbência, esta Corte tem entendimento assente no sentido de que a verificação da proporção em que cada parte restou vencedora ou vencida, bem como a aferição de sucumbência mínima são providências que fogem à competência desta Corte por implicarem revolvimento do conjunto fático-probatório dos autos, atraindo a incidência do óbice contido na Súmula 7/STJ.
+No mesmo sentido:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. DIVULGAÇÃO DE LISTA DE INADIMPLENTES. ATO ILÍCITO CONFIGURADO. REEXAME. IMPOSSIBILIDADE. VALOR DA INDENIZAÇÃO. SUCUMBÊNCIA RECÍPROCA. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO.
+INVIABILIDADE. SÚMULA 7/STJ. (..)
+4. O STJ já consolidou o entendimento de que a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda e a existência de sucumbência mínima ou recíproca demandam revolvimento de matéria fática, obstado pela Súmula 7/STJ. (..)
+6. Agravo Regimental não provido".
+(AgRg no AREsp 14364/MG, SEGUNDA TURMA, Rel. Min. HERMAN BENJAMIN, DJe 12/09/2011)
+"PROCESSUAL CIVIL - SUCUMBÊNCIA RECÍPROCA - ART. 21, "CAPUT", DO CPC.I - Se restou consignado no aresto recorrido que em face da extensão das sucumbências cada parte arcaria com os honorários de seus patronos, rateando-se as custas, foi aplicado o contido na norma do art. 21, "caput", da legislação processual, reconhecida a sucumbência recíproca. Discussão acerca do percentual ou em que proporção devem tais verbas serem deferidas, por implicar em reexame de matéria fática, é vedada em sede de Especial. (..)
+III - Recurso não conhecido"
+(REsp 127611/DF, TERCEIRA TURMA, Rel. Min. WALDEMAR ZVEITER, DJ 14/12/1998, p. 228).
+Da mesma forma a jurisprudência do STJ entende não ser possível, por meio de recurso especial, rever os critérios de justiça e de razoabilidade utilizados pelas instâncias ordinárias para fixação da sucumbência, haja vista tal providência depender da reapreciação dos elementos fático-probatórios do caso concreto. Incidente, assim, a Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS DE ADVOGADO. SUCUMBÊNCIA RECÍPROCA. FIXAÇÃO. SÚMULA 7/STJ. 1. A jurisprudência do STJ firmou entendimento de não ser possível, em sede de recurso especial, nem a revisão do percentual de honorários de advogado fixado nas instâncias ordinárias, ressalvadas as hipóteses de arbitramento em valores ínfimos ou exorbitantes, tampouco a revisão acerca do quantitativo em que autor e réu decaíram do pedido, para fins de aferição da ocorrência de sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, o que é vedado, nos termos da Súmula 7/STJ. 2. Agravo regimental a que se nega provimento. (AgRg no AREsp 491.633/RJ, Segunda Turma, Rel. Ministro Og Fernandes, julgado em 18/06/2014, DJe 25/06/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NOVA SISTEMÁTICA IMPOSTA PELA LEI N. 11.232/2005. CONDENAÇÃO EM HONORÁRIOS. POSSIBILIDADE. REVISÃO. SÚMULA N. 7/STJ. (..) 2. O reexame dos critérios fáticos sopesados de forma equitativa para a fixação dos honorários advocatícios (art. 20, §§ 3º e 4º, do CPC), revelam-se, em princípio, inviáveis de análise em sede de recurso especial, em virtude do óbice erigido pela Súmula n. 7 do STJ. (..) 5. Agravo regimental desprovido." (AgRg no AREsp n. 133.984/RS, 1ª Turma, Rel. Min. Antonio Carlos Ferreira, DJe 26/6/2012) Da mesma forma, razão não assiste ao recorrente no que tange ao dissídio jurisprudencial, pois ausente o devido cotejo analítico. Nesse sentido: O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos moldes exigidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC. (AgRg no AREsp 578.166/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/06/2015, DJe 12/06/2015)
+Destarte, a pretensão recursal não merece prosperar.
+Ante o exposto, nego provimento ao agravo.
+É o voto.
