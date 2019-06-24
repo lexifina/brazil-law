@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão de Turma Recursal do Estado de São Paulo, ementado nos seguintes termos:
+          “SERVIDOR MUNICIPAL DE ITABERÁ. BASE DE CÁLCULO DAS HORAS EXTRAS. INCIDÊNCIA SOBRE O ADICIONAL POR TEMPO DE SERVIÇO E SOBRE A SEXTA PARTE. ADMISSIBILIDADE. ARTIGOS 131 E 132 DA LEI MUNICIPAL Nº 1.371/92. ARTIGO 7º, INCISO XVI, E ARTIGO 39 DA CONSTITUIÇÃO FEDERAL. PRELIMINARES REJEITADAS. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS (ART. 46 DA LEI 9.099/1995). RECURSO DESPROVIDO.” (eDOC 3, p. 132)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 37, XIII, XIV, do texto constitucional.
+    Nas razões recursais, alega-se que o pagamento de horas extras viola o princípio da legalidade, segundo o qual a administração pública é vinculada, não sendo permitido a concessão de gratificações em desacordo com o previsto nas normas que regulam o funcionalismo. (eDOC 3, p. 140)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Municipal 1.371/1992), consignou que a lei é omissa no que se refere à base de cálculo da hora extra, todavia a omissão não é suficiente para afastar tal pretensão. Desta forma, se a referida lei apresentasse base de cálculo conforme o salário base, tal dispositivo seria inconstitucional. Nesse sentido, extrai-se o seguinte trecho da sentença, mantida pelo acórdão impugnado:
+    “Entende o autor haver equívoco no cálculo das horas extras recebidas desde o ingresso no serviço público municipal 03/03/1995 até o mês de abril de 2014, pois os cálculos para pagamentos das horas extras trabalhadas foram aplicados sobre o salário base e não sobre a remuneração fixa e permanente, conforme entende.
+    A Fazenda Pública Municipal alega que a Lei Municipal nº 1.371/1992 não estabelece “cálculo” de horas extras sobre o vencimento ou vantagens, e que da forma como pleiteado pelo autor, acarretaria violação ao princípio da legalidade.
+    …
+    Ou seja, conforme afirmou a própria requerida em sua contestação, a lei municipal é omissa quanto à base de cálculo, se a hora extra deve ser calculada sobre o salário base ou sobre o total da remuneração percebida pelo servidor, como pretende o autor.
+    Todavia, a omissão da lei municipal não é suficiente para afastar a pretensão.
+    Isso porque, ainda que a lei municipal dispusesse expressamente que a base de cálculo seria o salário base, tal lei seria considerada inconstitucional, garantindo-se o direito do servidor perceber o valor da hora extra calculado sobre o total da remuneração.” (eDOC 3, p. 101/102)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. ADICIONAL POR TEMPO DE SERVIÇO. BASE DE CÁLCULO. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. SÚMULA 280. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AOS ARTS. 5° XXXVI, E 37, XIV, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/1973. 1. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo regimental conhecido e não provido. ” (RE-AgR 898.128, rel. Min.Rosa Weber, Primeira Turma, DJe 21.11.2017)
+    “Agravo regimental em recurso extraordinário com agravo. 2.Administrativo. 3. Servidor público. 4. Base de cálculo para horas extras, quinquênio e gratificação. 5. Impossibilidade de análise da legislação infraconstitucional e de reexame de provas. 6. Súmulas 279 e 280. 7. Agravo regimental ao qual se nega provimento. ” (ARE-AgR 957.504, de minha relatoria, Segunda Turma, DJe 18.11.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 3, p. 134), observados os limites previstos nos §§ 2º e 3º do referido dispositivo.
+    Publique-se.
+    Brasília, 24 de junho de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
