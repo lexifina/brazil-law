@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. INEXISTÊNCIA DE CONTRARIEDADE AO INC. IX DO ART. 93 DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Goiás:
+    “APELAÇÃO CRIMINAL. VIOLAÇÃO DO DEVER FUNCIONAL COM FIM DE LUCRO. ARTIGO 320, CÓDIGO PENAL MILITAR. NULIDADE DA SENTENÇA. VIOLAÇÃO AO PRINCÍPIO DA MOTIVAÇÃO DAS DECISÕES PELOS JUÍZES MILITARES. PRELIMINAR REJEITADA. Na hipótese dos autos, coincidem as conclusões do juiz togado com as dos juízes militares, de sorte que, não havendo ofensa ao postulado no artigo 93, IX, da CF/88, rejeita-se a preliminar suscitada. REDUÇÃO DA PENA -BASE. POSSIBILIDADE. Havendo atecnia na avaliação de uma circunstância judicial do artigo 69, CPM, merece reparo a pena-base. PARECER ACOLHIDO EM PARTE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO” (fl. 138, vol. 3).
+    Os embargos de declaração opostos foram rejeitados (fls. 159-166, vol. 3).
+    2. No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o inc. IX do art. 93 da Constituição da República.
+    3. O recurso extraordinário foi inadmitido por ausência de ofensa constitucional direta e harmonia do acórdão recorrido com a jurisprudência do Supremo Tribunal Federal (fls. 208-210, vol. 3).
+    O agravante sustenta a ocorrência de “ERRO DE FATO', pois, a relatoria suscitou fato inexistente com o fito de fundamentar a ocorrência de que os Juízes Militares teriam se manifestado em ter acompanhado o Juiz togado, porém, sem manifestação verbal gravada ou escrita que conste nos autos, ficando patente, então, que os votos proferidos pelos Juízes Militares, na verdade, trata-se de votos por adesão -, ou seja, o Juiz togado votou e na hora de prolatar a sentença os Juízes Militares somente lançaram as suas assinaturas com intuito de fazer valer a 'SUPOSTA DECISÃO COLEGIADA', sem, portanto, nenhuma manifestação que fosse ao encontro do que foi decidido pelo Juiz togado, 'E É DAÍ A OCORRÊNCIA TAMBÉM DO ERRO DE FATO' praticado pela relatoria do Tribunal de origem” (fl. 232, vol. 3).
+    Requer o “conhecimento e provimento do presente recurso de agravo, pelos fatos e fundamentos já demonstrados em todo o arrazoado, rogando mais uma vez para que seja reformada a decisão da Presidência do Tribunal de Justiça do Estado de Goiás, determinando-se o processamento do Recurso Extraordinário interposto perante o Tribunal de origem, com a sua imediata remessa ao Supremo Tribunal Federal, para análise e apreciação do mérito da pretensão, e caso Vossas Excelências, entenda possível, que se conheça do Agravo para dar provimento ao próprio Recurso Extraordinário, na forma do art. 1.042, § 5°, do CPC/15” (fl. 238, vol. 3).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. Razão jurídica não assiste ao agravante.
+    5. No julgamento da apelação, o Tribunal de origem assentou:
+    “Como se nota na sentença atacada, os Juízes Militares acompanharam o voto do Juiz de Direito pela condenação do acusado ALAN PEREIRA DE OLIVEIRA pela prática do crime descrito no artigo 320, CPM e pela absolvição atinente ao crime de receptação (artigo 254, CPM). A votação foi unânime, conforme se vê na tabela de fl. 449.
+    Ora, se não houve divergência, não há que se falar em necessidade de fundamentar seus votos, pois eles adotaram como razão de decidir os fundamentos da decisão do Juiz de Direito.
+    Nessa hipótese, coincidem as conclusões do juiz togado com as do juiz militar, de sorte que o famoso ‘com o relator’ ainda pode ser aceito.
+    Ressalto que, se houvessem conclusões diversas, não caberia ao juiz militar simplesmente votar em sentido contrário, sem veicular toda a fundamentação necessária para afastar os argumentos do Magistrado concursado. Entretanto, este não é o caso dos autos.
+    Sendo assim, não havendo ofensa ao postulado no artigo 93, IX, da CF/88, rejeito a preliminar suscitada e passo à análise do mérito recursal que, no caso em tela, insurge-se tão somente acerca da pena aplicada” (fls. 134-135, vol. 3).
+    A alegação de nulidade do acórdão por contrariedade ao inc. IX do art. 93 da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (Recurso Extraordinário n. 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    Nada há a prover quanto às alegações do agravante.
+    6. Pelo exposto, nego seguimento ao presente recurso extraordinário com agravo (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de junho de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
