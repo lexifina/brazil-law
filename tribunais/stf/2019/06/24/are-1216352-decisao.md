@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 37, II, e 19, do ADCT.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo (Lei Municipal nº 21/1991), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula nº 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 13.9.2017. DIREITO ADMINISTRATIVO. SERVIDORA PÚBLICA MUNICIPAL. ADICIONAL DE ATIVIDADE TRIBUTÁRIA. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. 1. Para se chegar a conclusão diversa daquela a que se chegou no acórdão recorrido, seria necessário o reexame da legislação local aplicável à espécie. Incidência da Súmula 280 do STF. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os §§ 2º e 3º do mesmo dispositivo.”
+(ARE 1049438 AgR, Relator(a): Min. Edson Fachin, Segunda Turma, julgado em 18.5.2018, PROCESSO ELETRÔNICO DJe-107 DIVULG 29.5.2018 PUBLIC 30.5.2018)
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Administrativo. Prequestionamento. Ausência. Servidor público inativo. Aposentadoria antes da EC nº 41/03. Gratificação. Natureza jurídica. Legislação local. Reexame. Impossibilidade. Precedentes. 1. Inadmissível o recurso extraordinário se os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. É pacífica a Jurisprudência da Corte no sentido de reconhecer que a controvérsia acerca da natureza jurídica da gratificação concedida aos servidores em atividade, para fins de extensão aos inativos e pensionistas, está restrita à interpretação da legislação local. 3. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 4. Inaplicável o art. 85, § 11, do CPC, pois houve compensação dos honorários advocatícios.”
+(ARE 1048017 AgR, Relator(a):  Min. Dias Toffoli, Segunda Turma, julgado em 01.9.2017, PROCESSO ELETRÔNICO DJe-222 DIVULG 28.9.2017 PUBLIC 29.9.2017)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de junho de 2019.
+Ministra Rosa Weber
+Relatora
