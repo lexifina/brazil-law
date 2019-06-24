@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “TRIBUTÁRIO. TAXA DE FISCALIZAÇÃO E CONTROLE DE SERVIÇOS PÚBLICOS DELEGADOS. LEI ESTADUAL N° 11.863/02. BASE DE CÁLCULO. FATURAMENTO. PROPORCIONALIDADE. CONSTITUCIONALIDADE E LEGALIDADE.
+    Não se apresenta inconstitucional, muito menos ilegal, o estabelecimento, como base de cálculo, da denominada Taxa De Fiscalização e Controle de Serviços Públicos Delegados, do faturamento bruto anual das empresas fiscalizadas, sem que haja incidência sobre ele.
+    Como também igualmente aceitável calibrar-se o percentual de incidência em consonância com faturamento, que conduz à concepção de maior porte da empresa fiscalizada e, pois, maior exigência quanto à atividade fiscalizadora” (pág. 206 do documento eletrônico 4).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustentou-se, em suma, violação do art. 145, § 1° e § 2°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido está em harmonia com o entendimento desta Corte que, no julgamento da ADI 1.948/RS, de relatoria do Ministro Gilmar Mendes, decidiu ser o faturamento apenas critério para incidência da taxa, não havendo exação sobre o faturamento. Transcrevo a ementa do mencionado julgado:
+    “(1) Ação Direta de Inconstitucionalidade. (2) Art. 1º, II, da Lei nº 11.073, de 30.12.1997, que acrescentou os §§ 7º e 8º ao art. 6º da Lei nº 8.109, de 1985, do Estado do Rio Grande do Sul; Art. 1º, VI, da Lei nº 11.073, de 1997, que inseriu o inciso IX na Tabela de Incidência da Lei nº 8.109, de 1985; Decreto estadual nº 39.228, de 29.12.1998, que regulamentou a incidência da taxa impugnada. (3) Alegada violação aos arts. 145, II e 145, § 2º, da Constituição. (4) Taxa de Fiscalização e Controle de Serviços Públicos Delegados, instituída em favor da Agência Estadual de Regulação dos Serviços Públicos Delegados do Rio Grande do Sul - AGERGS, autarquia estadual. (5) O faturamento, no caso, é apenas critério para incidência da taxa, não havendo incidência sobre o faturamento. Precedente (RE 177.835, Rel. Min. Carlos Velloso) (6) Improcedência da ação direta quanto aos dispositivos legais e não conhecimento quanto ao Decreto nº 39.228, de 1988”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) os honorários advocatícios anteriormente fixados, observados os limites do art. 85, § 2°, do CPC.
+    Publique-se.
+    Brasília, 24 de junho de 2019.
+      Ministro Ricardo Lewandowski
+Relator
