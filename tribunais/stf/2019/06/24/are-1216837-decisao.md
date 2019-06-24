@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Superior do Trabalho, ementado nos seguintes termos:
+    “AGRAVO. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA INTERPOSTO NA VIGÊNCIA DA LEI Nº 13.015/2014. INTERVALO INTRAJORNADA. SUPRESSÃO PARCIAL. PAGAMENTO TOTAL DO PERÍODO CORRESPONDENTE. SÚMULA Nº 437, I, DO TST
+    1. Consoante a diretriz perfilhada na Súmula nº 437, I, do TST, após a edição da Lei nº 8.923/94, a concessão parcial do intervalo intrajornada mínimo, para repouso e alimentação, a empregados urbanos e rurais, implica o pagamento total do período correspondente, e não apenas daquele suprimido, com acréscimo de, no mínimo, 50% sobre o valor da remuneração da hora normal de trabalho.
+    2. Agravo da Reclamada de que se conhece e a que se nega provimento”. (eDOC 4, p. 10)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, II, XXXV, LIV, LV; 7º, XXVIII; e 93, IX, do texto constitucional.
+    Nas razões recursais, alega-se ser indevida, na espécie, o percebimento de horas extras relativas aos intervalos intrajornada diários. Argumenta-se ainda negativa de prestação jurisdicional
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Consolidação das Leis Trabalhistas e Lei 8.923/94), consignou que a concessão parcial do intervalo intrajornada mínimo, para repouso e alimentação, implica o pagamento total do período correspondente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Ressalto, de outra parte, que a concessão parcial do intervalo intrajornada mínimo, para repouso e alimentação, a empregados urbanos e rurais, implica o pagamento total do período correspondente, e não apenas daquele suprimido, com acréscimo de, no mínimo, 50% sobre o valor da remuneração da hora normal de trabalho.
+    Nesse sentido, a diretriz perfilhada na Súmula nº 437, I, do TST, que assim dispõe:
+    (…)
+     Outrossim, ainda que a supressão não ocorra sobre período significativo, a fruição plena do intervalo intrajornada, legalmente estabelecido, configura patamar mínimo de proteção ao empregado e constitui norma de ordem pública, de caráter cogente, que tutela a higiene, saúde e segurança do trabalho.
+    (…)
+    Dessa forma, o Eg. TRT de origem, ao não acolher a tese de aplicação analógica do disposto no art. 58, §1º, da CLT e condenar a Reclamada ao pagamento total do período correspondente ao intervalo intrajornada, com acréscimo de, no mínimo, 50% sobre o valor da remuneração da hora normal de trabalho, decidiu em conformidade com a Súmula nº 437, I, do TST”. (eDOC 57, p. 4-7)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no agravo de instrumento. Negativa de prestação jurisdicional. Não ocorrência. Princípios do devido processo legal, do contraditório e da ampla defesa. Intervalo intrajornada. Supressão. Horas extras. Ofensa reflexa. Precedentes. 1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente fundamentada. 2. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 3. A questão relativa ao pagamento de horas extras decorrentes da supressão do intervalo intrajornada demandaria a análise de legislação infraconstitucional, o que é inadmissível em recurso extraordinário. 4. Agravo regimental não provido”. (AI 812948 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 7.2.2012)
+    “Agravo regimental no recurso extraordinário. Direito Administrativo. Policial civil. Pagamento de horas extras. Legislação local. Ofensa reflexa. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação local. Incidência da Súmula nº 280/STF 2. Agravo regimental não provido”. (ARE-AgR 923.251, rel. Min. Dias Toffoli, Segunda Turma, DJe 1º.2.2016)
+    Por último, vale destacar que não há que se falar em violação à inafastabilidade da jurisdição, uma vez que houve prestação jurisdicional com decisão fundamentada, ainda que em sentido diverso daquele intentado pelo ora recorrente.
+    Cito ainda, em caso análogo ao dos autos, as seguintes decisões monocráticas: RE 892.195, Rel. Min. Alexandres de Moraes, DJe 17.10.2018; ARE 1.162.026, Rel. Min. Cármen Lúcia, DJe 18.10.2018; e RE 892.101, Rel. Min. Luiz Fux, DJe 26.9.2017.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 27, p. 15), observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 24 de junho da 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
