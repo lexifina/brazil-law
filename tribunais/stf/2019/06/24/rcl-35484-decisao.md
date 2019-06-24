@@ -1,0 +1,15 @@
+DECISÃO:
+    1. Trata-se de reclamação, com pedido liminar, ajuizada em face de decisão do Tribunal Superior do Trabalho, alegando violação à autoridade da decisão proferida pelo Supremo Tribunal Federal no Tema 246 da sistemática da repercussão geral.
+    2. Aduz a reclamante, para tanto, ter sido condenada subsidiariamente ao pagamento de verbas trabalhistas inadimplidas por empresa contratada. Argumenta que a Administração Pública não é responsável por dívida trabalhista de terceirizada.
+    3. É o relatório.
+    4. Em 26.04.2017, o Supremo Tribunal Federal concluiu o julgamento do RE 760.931, paradigma do Tema 246 da repercussão geral. Naquela decisão, esta Corte afastou a condenação subsidiária da União pelas dívidas decorrentes de contrato de terceirização, embora, segundo o TST, não tenha havido o exercício adequado do poder-dever de fiscalização. Ao final, fixou-se a seguinte tese:
+    “O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93".
+    5. Como se vê, o entendimento adotado no julgamento da repercussão geral afastou a responsabilidade subsidiária do ente público, quando embasada exclusivamente na ausência de prova da fiscalização do contrato de terceirização pela Administração. A responsabilização do ente público depende da demonstração de que ele possuía conhecimento da situação de ilegalidade e que, apesar disso, deixou de adotar as medidas necessárias para combatê-la. É dizer: somente está autorizada a mitigação da regra do art. 71, §1º, da Lei nº 8.666/1993, caso demonstrado que a Administração teve ciência do reiterado descumprimento de deveres trabalhistas relativamente ao mesmo contrato de terceirização e que, a despeito disso, permaneceu inerte.
+    6. Nessa linha, a inobservância da tese firmada em repercussão geral somente enseja o ajuizamento da reclamação, quando esgotadas as instâncias ordinárias (art. 988, § 5º, II, do CPC/2015). O que, conforme vem sendo interpretado por esta Corte, exige o correto percurso de todo o iter processual, ultimado na interposição e julgamento de agravo interno contra a decisão que nega seguimento ao recurso extraordinário, nos termos do art. 1.030, I e § 2º, do CPC/2015.
+    7. No caso dos autos, conforme verificado no andamento processual no site do Tribunal Superior do Trabalho, o processo de origem encontra-se em fase de análise de admissão de recurso extraordinário. Assim, não foram esgotadas as instâncias ordinárias, de modo que a reclamação não pode prosseguir, quanto à alegação de impossibilidade de condenação subsidiária da reclamante.
+    8. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    9. Sem honorários, porquanto não citada a parte interessada.
+    Publique-se.
+          Brasília, 24 de junho de 2019.
+Ministro LUÍS ROBERTO BARROSO
+Relator
