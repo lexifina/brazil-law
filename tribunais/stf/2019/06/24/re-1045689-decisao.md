@@ -1,0 +1,32 @@
+RECURSO EXTRAORDINÁRIO.  ADMINISTRATIVO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. SISTEMA DE COTAS. VAGA EM UNIVERSIDADE FEDERAL DESTINADA A ALUNOS PROVENIENTES DA REDE PÚBLICA DE ENSINO. IMPETRANTE QUE CURSOU O PRIMEIRO ANO DO ENSINO FUNDAMENTAL EM ESCOLA MANTIDA PELO SERVIÇO SOCIAL DA INDÚSTRIA – SESI. MATRÍCULA E POSTERIOR ABANDONO DO CURSO. PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL. WRIT EXTINTO, SEM RESOLUÇÃO DE MÉRITO. RECURSO EXTRAORDINÁRIO PREJUDICADO.
+    Decisão: Trata-se de recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “ADMINISTRATIVO. AÇÕES AFIRMATIVAS. SISTEMA DE COTAS. MATRÍCULA EM ENSINO SUPERIOR. PROCESSO DE SELEÇÃO DESTINADO A QUEM ESTUDOU INTEGRALMENTE NA REDE PÚBLICA DE ENSINO. IMPETRANTE QUE CURSOU PARTE DO ENSINO FUNDAMENTAL EM ESCOLA PARTICULAR.
+    I – O processo de seleção de estudantes pela via do sistema de cotas integra um conjunto de ações afirmativas instrumentalizadas para a promoção da igualdade efetiva, respeitando o princípio da isonomia aristotélica em tratar igualmente os iguais e desigualmente os desiguais, na medida de sua desigualdade. Assim, políticas deste jaez buscam realinhar os meios de acesso e formas de competitividade a fim de assegurar condições para que grupos raciais, sociais ou étnicos, bem como indivíduos que necessitam da proteção específica do Estado, possam exercer os direitos consagrados na Constituição da República e nos diversos documentos internacionais dos quais o Brasil é signatário, especialmente a Convenção Internacional sobre Eliminação de todas as Formas de Discriminação Racial, integrada em nosso ordenamento jurídico pelo Decreto n. 65.810/1969.
+    II - O art. 207 da Constituição Brasileira confere autonomia didático-científica, bem como administrativa e de gestão financeira e patrimonial às universidades, o que lhes dá o direito de regulamentar seu funcionamento e editar as regras de acesso ao ensino superior, nos termos da Lei n. 9.394/96.
+    III – As normas de acesso ao ensino superior pelo sistema de cotas não podem ser interpretadas extensivamente sob pena de inviabilizar o programa. Defender a observância dos critérios seletivos atinentes ao ingresso no ensino superior por via de cotas é atuar em prol das políticas afirmativas na área educacional.
+    IV – No caso em tela, verifica-se que o Requerente não estudou todo o ensino básico em instituição da rede pública de ensino, em razão de ter cursado parte do ensino fundamental em entidade privada.
+    V – Desarrazoado aplicar a teoria do fato consumado por se tratar de frequência correspondente a menos de 25% (vinte e cinco por cento) do curso.” (Vol. 1 – fl. 109)
+    Os embargos de declaração opostos contra o acórdão de apelação em mandado de segurança foram desprovidos (Vol. 1 – fls. 129-133).
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 3º, III, 205, caput, 206 e 207, I, da Constituição da República.
+    A recorrida, em contrarrazões, pugna, preliminarmente, pelo não conhecimento do recurso e, acaso superado o juízo de admissibilidade, no mérito, pelo desprovimento do apelo nobre (Vol. 1 – fls. 194-200).
+    O Tribunal a quo admitiu o recurso extraordinário por entender que preencheria os requisitos extrínsecos e intrínsecos (Vol. 1– fls. 219-220).
+    O Ministério Público Federal opina desprovimento do recurso, em parecer que porta a seguinte ementa:
+    “Recurso extraordinário. Ensino superior. Sistema de quotas. Edital que exige a conclusão do ensino fundamental e médio, na rede pública. Candidato que frequentou um ano do ensino fundamental em escola do Sesi.
+    Em virtude do art. 5º, II, da CR, a reserva de lei, em sentido formal, é condição indispensável à validade de quotas sociais e raciais nas universidades, sob pena de restrição dos direitos da isonomia e do acesso aos níveis mais elevados de ensino por meio da aferição da ‘capacidade de cada um’, constantes respectivamente do caput do art. 5º e 208, v, da CR: edital anterior à Lei 12.711/2012, que deferiu as quotas sociais e raciais para o ingresso de estudantes na universidade.
+    Parecer pelo desprovimento do recurso extraordinário.” (Vol. 5 – fl. 1)
+    Em 05/04/2019, determinei que as partes se manifestassem acerca da subsistência de interesse processual no julgamento do presente recurso extraordinário.
+    A Defensoria Pública da União requereu a dilação do prazo para manifestação (Vol. 14), pedido que foi deferido em 09/05/2019 (Vol. 16).
+    A Secretaria Judiciária desta Corte certificou que não houve qualquer manifestação (Vol. 19).
+    É o relatório. DECIDO.
+    In casu, verifica-se que a pretensão do impetrante, Fábio de Sousa Clementino, cinge-se à garantia de matrícula no Curso de Arquitetura e Urbanismo da Universidade Federal do Piauí – UFPI decorrente do Processo Seletivo de 2009, pelo sistema de cotas, a qual fora indeferida sob o fundamento de que o requerente não teria cursado todo o ensino fundamental e médio exclusivamente em instituição da rede pública de ensino.
+    A segurança foi concedida para assegurar a matrícula do impetrante no Curso de Bacharelado em Arquitetura e Urbanismo da UFPI (1º período/2010), pelo regime de cotas, e o TRF da 1ª Região deu provimento ao recurso de apelação e à remessa oficial para denegar a segurança (Vol. 1 – fls. 107-111).
+    Inconformado, o impetrante interpôs o recurso extraordinário sub examine, cuja análise está prejudicada.
+    Isso porque, compulsando-se os autos, verifica-se que a Fundação Universidade Federal do Piauí – FUFPI, ora recorrida, noticia, in litteris:
+    ”(...) conforme o MEMO nº 83/19 – DAA, de 15/04/2019, e o MEMORANDO nº 196/2019-PF-UFPI/PGF/AGU, de 17/04/2019, (...) o aluno (ora agravante) teve a sua matrícula cancelada por abandono de curso, nos termos das disposições regimentais, ocasionando, assim, a perda de objeto do processo” (Vol. 10 – fl. 1, grifei).
+    Dessarte, sobreleva notar que o abandono do curso em questão pelo aluno-impetrante, ora recorrente, revela a perda superveniente do interesse processual do mandado de segurança e, a fortiori, do recurso extraordinário.
+    Ex positis, JULGO EXTINTO o presente WRIT, nos termos do artigo 485, inciso VI, do Código de Processo Civil, ficando PREJUDICADO o RECURSO EXTRAORDINÁRIO. Sem honorários advocatícios (Súmula 512 do STF).
+    Publique-se.
+    Brasília, 24 de junho de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
