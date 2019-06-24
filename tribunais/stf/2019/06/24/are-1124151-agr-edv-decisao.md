@@ -1,0 +1,19 @@
+Vistos etc.
+    Trata-se de embargos de divergência manejado pelo Prefeito do Município de Londrina contra acórdão da Primeira Turma deste Supremo Tribunal Federal, da minha lavra, pelo qual negado provimento a agravo regimental em agravo em recurso extraordinário. O acórdão ora embargado está assim ementado:
+    “DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEIS MUNICIPAIS Nº 10.816/2009 E Nº 11.468/2008. RECURSO EXTRAORDINÁRIO QUE NÃO ATACA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA Nº 284/STF. NEGATIVA DE SEGUIMENTO A RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287/STF. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. A jurisprudência desta Suprema Corte é firme no sentido de que inadmissível o agravo que não ataca especificamente os fundamentos da decisão que inadmitiu o recurso extraordinário. Incidência da Súmula nº 287/STF.
+    2. Razões do recurso extraordinário que não atacam os fundamentos do acórdão recorrido. Aplicação da Súmula nº 284/STF.
+    3. Agravo interno conhecido e não provido.”
+    Foram apresentadas contrarrazões.
+    É o relatório.
+    Decido.
+    Apesar da representação processual regular e da tempestividade do recurso, não estão presentes, na espécie, os pressupostos de admissibilidade recursal.
+    Desafia embargos de divergência decisão de Turma do Supremo Tribunal Federal que, ao julgamento de recurso extraordinário, divergir do julgamento da outra Turma ou do Plenário (art. 1.043, I e III, do CPC/2015).
+    O embargante, contudo, não logrou demonstrar o dissenso pretoriano exigido pelos arts. 1.043, I e III, do CPC/2015 e 330 do RISTF, na medida em que a decisão trazida à colação (ADI 4091, Rel. Min. Alexandre de Moraes) não provém “de qualquer outro órgão do mesmo tribunal”, mas trata-se de decisão monocrática do relator, não constituindo um acórdão. Nos termos do exigido no art. 1.043, I e III, do CPC/2015, o cotejo de paradigmas proferidos em decisões monocráticas, por não constituir acórdão, desserve à demonstração de divergência interna corporis. Nesse sentido:
+    “AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE LUCRO LÍQUIDO. MP 413/2008 E REEDIÇÕES. JURISPRUDÊNCIA DOMINANTE. ISONOMIA TRIBUTÁRIA. 1. Constitui ônus do agravante a impugnação especificada dos fundamentos da decisão agravada. Art. 1.021, § 1º, do CPC. 2. São inadmissíveis os embargos de divergência, quando o paradigma apontado for decisão monocrática. 3. Cabe ao embargante, nos termos do art. 331 do RISTF, demonstrar o cotejo analítico entre o acórdão embargado e o paradigma invocado, para fins de uniformização da jurisprudência, não sendo suficiente para tanto a mera demonstração genérica da divergência entre as soluções dadas nas decisões embargada e paradigma. 4. Agravo regimental a que se nega provimento, com fixação de multa, nos termos do art. 1.021, § 4º, do CPC.” (RE 1079683 AgR-EDv-AgR, Relator(a): Min. Edson Fachin, Tribunal Pleno, julgado em 14.12.2018, PROCESSO ELETRÔNICO DJe-024 DIVULG 06.02.2019 PUBLIC 07.02.2019).
+    “EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. PRINCÍPIO TEMPUS REGIT ACTUM. INCIDÊNCIA DA DISCIPLINA JURÍDICA DO CPC/1973. DECISÃO MONOCRÁTICA INVOCADA COMO PARADIGMA. IMPOSSIBILIDADE DE UTILIZAÇÃO PARA DEMONSTRAÇÃO DA DIVERGÊNCIA. DECISÃO EMBARGADA EM HARMONIA COM JURISPRUDÊNCIA DO STF. EMBARGOS DE DIVERGÊNCIA NÃO CONHECIDOS.” (RE 543652 AgR-EDv, Rel. Min. Luiz Fux, Tribunal Pleno, DJe 15.8.2018).
+    Ante o exposto, nego seguimento aos embargos de divergência (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de junho de 2019.
+Ministra Rosa Weber
+Relatora
