@@ -1,0 +1,47 @@
+DECISÃO
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI ESTADUAL. ADVOCACIA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. ADOÇÃO DO RITO DO ART. 12 DA LEI N. 9.868/1999.
+Relatório
+    1. Ação direta de inconstitucionalidade, com requerimento de medida cautelar, ajuizada pela Procuradora-Geral da República, pretendendo a declaração de inconstitucionalidade do art. 1º, na parte pela qual acrescentado o inc. XV-A ao art. 8º da Lei Complementar n. 34/2009, e dos arts. 9º, 10, 11, 13 e 22 da Lei Complementar n. 43/2017. Eis o teor dos dispositivos impugnados:
+Lei Complementar n. 43/2017 da Bahia
+    “Art. 1º – A Lei Complementar nº 34, de 06 de fevereiro de 2009, passa a vigorar com as seguintes alterações: (…)
+    ‘Art. 8º - ...........................................................................
+    XV-A – deliberar sobre questões relativas à percepção de honorários advocatícios não disciplinados nesta Lei;’ (…)
+    Art. 9º - Os honorários advocatícios decorrentes de feitos judiciais e administrativos que envolvam o Estado da Bahia, suas autarquias e fundações representadas pela Procuradoria Geral do Estado são de titularidade dos Procuradores do Estado da Bahia, em consonância com o regime da Lei Federal nº 13.105, de 16 de março de 2015.
+    § 1º - Os recursos previstos no caput deste artigo serão depositados no Fundo de Modernização da Procuradoria Geral do Estado - FMPGE, observada a seguinte destinação:
+    I - 80% (oitenta por cento) para os Procuradores do Estado, na forma estabelecida nesta Lei;
+    II - 20% (vinte e cinco por cento) para as aplicações do Fundo de Modernização da Procuradoria Geral do Estado da Bahia - FMPGE, previstas no art. 7º da Lei Complementar nº 19, de 23 de julho de 2003.
+    § 2º - O recolhimento dos honorários advocatícios de que trata o caput deste artigo será realizado em documento oficial de arrecadação.
+    § 3º - Os valores previstos no inciso I do § 1º deste artigo ingressarão transitoriamente no FMPGE como receita extraorçamentária, sendo distribuídos igualitariamente aos Procuradores do Estado em atividade, na forma desta Lei, em parcelas mensais, até o último dia útil do mês seguinte ao recolhimento dos recursos.
+    § 4º - O Conselho Superior da Procuradoria Geral do Estado disciplinará as hipóteses de afastamentos funcionais que ensejem a percepção de honorários advocatícios.
+    § 5º - Os honorários advocatícios não integram a remuneração ou subsídio, nem servirão como base de cálculo para adicionais, gratificações ou qualquer outra vantagem pecuniária.
+    § 6º - Os honorários advocatícios não integrarão a base de cálculo da contribuição previdenciária do Regime Próprio de Previdência Social dos Servidores Públicos do Estado da Bahia, nem serão incorporados aos proventos de aposentadoria.
+    § 7º - Fica facultado o recolhimento de contribuição ao Regime de Previdência Complementar instituído pela Lei nº 13.222, de 12 de janeiro de 2015, sobre a parcela dos honorários.
+    § 8º - No cálculo de rateio dos honorários, serão observadas as seguintes proporções, de acordo com o tempo de efetivo exercício no cargo e de aposentadoria:
+    I - 25% (vinte e cinco por cento) de uma cota parte no primeiro ano de efetivo exercício no cargo, a partir do mês seguinte ao ingresso;
+    II - 50% (cinquenta por cento) de uma cota parte, no segundo ano de efetivo exercício no cargo;
+    III - 100% (cem por cento) de uma cota parte, a partir do terceiro ano de efetivo exercício no cargo;
+    IV - 100% (cem por cento) de uma cota parte, nos 12 (doze) meses subsequentes à aposentadoria;
+    V - 80% (oitenta por cento) de uma cota parte, no período compreendido entre o 13º (décimo terceiro) e o 24º (vigésimo quarto) mês subsequente à aposentadoria;
+    VI - 60% (sessenta por cento) de uma cota parte, no período compreendido entre o 25º (vigésimo quinto) e o 36º (trigésimo sexto) mês subsequente à aposentadoria;
+    VII - 40% (quarenta por cento) de uma cota parte, no período compreendido entre o 37º (trigésimo sétimo) e o 48º (quadragésimo oitavo) mês subsequente à aposentadoria;
+    VIII - 20% (vinte por cento) de uma cota parte, no período compreendido entre o 49º (quadragésimo nono) e o 60º (sexagésimo) mês subsequente à aposentadoria.
+    § 9º - Aplicam-se as regras previstas no § 8º deste artigo em caso de falecimento do Procurador do Estado.
+    Art. 10 - Aos Procuradores do Estado que já tenham cumprido ou que venham a cumprir os requisitos para a aposentadoria até a data de entrada em vigor desta Lei terão incorporados os honorários advocatícios aos proventos de aposentadoria, desde que percebidos por 05 (cinco) anos consecutivos ou 10 (dez) interpolados, sendo fixados pela média dos percentuais que resultarem da aplicação dos valores obtidos sobre o vencimento básico nos últimos 12 (doze) meses anteriores ao requerimento ou ao mês de janeiro de 2017.
+    Art. 11 - Pela cobrança da Dívida Ativa do Estado são devidos honorários advocatícios no percentual de 10% (dez por cento) sobre o valor total do crédito atualizado, incluindo multas, acréscimos moratórios e outros encargos legais e, uma vez efetivado o ajuizamento da Execução Fiscal, este percentual será de 20% (vinte por cento) ou aquele fixado na respectiva execução.
+    § 1º - A baixa na dívida ativa dependerá da efetiva comprovação do recolhimento dos honorários advocatícios incidentes sobre o crédito.
+    § 2º - Em casos de programas ordinários ou especiais de recuperação de créditos, os honorários de que trata o caput deste artigo poderão ter seus percentuais reduzidos em até 50% (cinquenta por cento). (...)
+    Art. 13 - Nas autarquias e fundações públicas do Estado da Bahia em que subsistirem Procuradorias Jurídicas, os respectivos honorários advocatícios serão creditados e distribuídos na forma da lei. (...)
+    Art. 22 - Ficam sujeitos ao regramento desta Lei os honorários advocatícios arrecadados a partir do ano de 2017, resguardadas, no limite dos recursos ingressados até a data de vigência desta Lei, as despesas já autorizadas no plano de aplicação do Fundo de Modernização da Procuradoria Geral do Estado.
+    Parágrafo único. Não se aplica o disposto no art. 88 da Lei Complementar nº 34, de 06 de fevereiro de 2009, aos valores previstos no caput deste artigo, bem como àqueles de distribuição devida no ano de 2017 na forma da legislação até então vigente”.
+    2. A autora alega contrariedade ao caput do art. 5º, ao inc. I do art. 22, ao inc. XI do art. 37 e aos §§ 4º e 8º do art. 39 da Constituição da República, pois “a disciplina do pagamento de honorários judiciais – parcela de índole remuneratória que integra a receita pública – a procuradores do Estado é incompatível com o regime de subsídio, o teto remuneratório constitucional e os princípios republicanos da isonomia, da moralidade, da supremacia do interesse público e da razoabilidade, além de invadir o campo legislativo da União”.
+    Assevera ter sido usurpada a competência da União em tema de direito processual pelo art. 11 da Lei Complementar n. 43/2017 da Bahia ao serem disciplinados percentuais de honorários advocatícios na cobrança da dívida ativa do Estado.
+    Argumenta que a percepção de honorários sucumbenciais por integrantes da advocacia pública não seria compatível com o regime de subsídio previsto no § 4º do art. 39 da Constituição da República. Acentua que a “atuação em causas judiciais não constitui ofício estranho às atribuições institucionais de procuradores do Estado. Tais fatos geradores constituem características regulares inerentes às atribuições constitucional e legalmente conferidas a integrantes da advocacia pública. Dessa maneira, as disposições questionadas das Leis Complementares 34/2009 e 43/2017, do Estado da Bahia, simplesmente remuneram trabalho ordinário daqueles servidores”.
+    Assevera que “as disposições ora questionadas das Leis Complementares 34/2009 e 43/2017 disciplinam o pagamento de honorários sucumbenciais a procuradores do Estado ativos e inativos sem qualquer limite ou controle – sobretudo o do teto constitucional –, viabilizando a percepção, pela categoria beneficiada, de valores remuneratórios não apenas superiores aos do setor público em geral, mas também aos praticados no setor privado”.
+    Assinala que, “ao admitir a obtenção de vantagem financeira dissociada dos subsídios pagos aos integrantes da advocacia pública, e vinculada ao êxito numa determinada causa – ainda que parcial, as normas questionadas viabilizam a ocorrência de conflitos de interesse entre o ocupante do cargo de procurador do Estado e os objetivos buscados pelo ente político “.
+    Requer a suspensão cautelar das normas impugnadas e, no mérito, a declaração de inconstitucionalidade do art. 1º, na parte pela qual acrescentado o inc. XV-A ao art. 8º da Lei Complementar n. 34/2009, e dos arts. 9º, 10, 11, 13 e 22 da Lei Complementar n. 43/2017.
+    3. Adoto o rito do art. 12 da Lei n. 9.868/1999 e determino sejam requisitadas, com urgência e prioridade, informações ao Governador da Bahia e ao Presidente da Assembleia Legislativa da Bahia, a serem prestadas no prazo máximo e improrrogável de dez dias.
+    Na sequência, vista à Advocacia-Geral da União e à Procuradoria-Geral da República, sucessivamente, para manifestação, na forma da legislação vigente, no prazo máximo e prioritário de cinco dias cada (art. 12 da Lei n. 9.868/1999).
+    Publique-se.
+    Brasília, 24 de junho de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
