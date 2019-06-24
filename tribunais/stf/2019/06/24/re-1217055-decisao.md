@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGISLAÇÃO LOCAL – ANÁLISE – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado do Paraná, reformando o entendimento do Juízo, julgou parcialmente procedentes os pedidos para adequar o teto salarial, na forma da legislação de regência. No extraordinário, o recorrente afirma a violação dos artigos 2º, 37, incisos X e XIII, 167 e 169 da Constituição Federal. Afirma a impossibilidade de extensão, a servidores, de diferenças salariais a título de isonomia ou de equiparação salarial. Diz contrariados os verbetes nº 37 e nº 339 da Súmula do Supremo.
+    2. Quanto à evocação do enquadramento do extraordinário na alínea "c" do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco do recorrente, uma vez que não se declarou a validade de lei ou ato de governo local contestado em face da Constituição Federal. Incabível o recurso no particular.
+    Eis a síntese do acórdão recorrido:
+    ADMINISTRATIVO. APELAÇÃO CÍVEL. SERVIDOR CIRURGIÃO DENTISTA DO MUNICÍPIO DE CURITIBA. DOBRA DA CARGA HORÁRIA. LEI N.º 13.657/2010 – REGIME INTEGRAL DE TRABALHO (RIT). RECEBIMENTO DA REMUNERAÇÃO CORRESPONDENTE, COM OBEDIÊNCIA AO TETO CONSTITUCIONAL NA INTEGRALIDADE DA REMUNERAÇÃO. POSSIBILIDADE. AUSÊNCIA DE CUMULAÇÃO LÍCITA DE CARGOS QUE POSSIBILITE A APLICAÇÃO DO TETO SEPARADAMENTE. VALOR DO TETO, TODAVIA, DEFASADO. VALOR QUE DEVE SER REAJUSTADO NA FORMA DA LEI N.º 13.503/2010. CUMPRIMENTO AO PRINCÍPIO DA SEPARAÇÃO DO PODERES. JUDICIÁRIO QUE SE LIMITA A DETERMINAR A APLICAÇÃO DE LEIS QUE JÁ EXISTEM, PREVENDO O REAJUSTE DO FUNCIONALISMO. FEITO JULGADO PARCIALMENTE PROCEDENTE. RECURSO PARCIALMENTE PROVIDO.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se ter o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à análise da Lei municipal nº 13.503/2010. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    Por fim, o que o sustentado no extraordinário não foi enfrentado pelo Órgão julgador. O recurso padece da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 24 de junho de 2019.
+Ministro MARCO AURÉLIO
+Relator
