@@ -1,0 +1,25 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Mato Grosso do Sul, está assim ementado:
+    “AGRAVO DE INSTRUMENTO – LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA EM FACE DE AÇÃO COLETIVA – PRELIMINAR DE NULIDADE DA DECISÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO – PRELIMINAR AFASTADA – INSTAURAÇÃO DE INCIDENTE DE DEMANDA REPETITIVA – INCOMPETÊNCIA DESTE ÓRGÃO COLEGIADO – PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA – PRAZO PRESCRICIONAL NÃO ESCOADO – CONTRARIEDADE À COISA JULGADA NÃO VERIFICADA – IMUTABILIDADE DO TÍTULO EXECUTIVO – EFICÁCIA PRECLUSIVA DA COISA JULGADA – CORREÇÃO MONETÁRIA – SUPREMO TRIBUNAL FEDERAL – MODULAÇÃO DOS EFEITOS DA DECLARAÇÃO DE INCONSTITUCIONALIDADE DO ART. 1º-F DA LEI 9.494/97 – RECURSO PARCIALMENTE PROVIDO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceito inscrito na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo, no tocante à prescrição, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Decreto nº 20.910/32), o que torna incognoscível o apelo extremo.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, apoiou as suas conclusões em dispositivos de ordem meramente legal:
+    “Com efeito, nas relações jurídicas que versam pretensão de direito em face da Fazenda Pública, o artigo 1º do Decreto 20.910/32 instituiu o prazo prescricional de cinco anos, o qual deve ser obedecido em atenção ao princípio da especialidade. Nesta linha de raciocínio, impende destacar o disposto em referido artigo:
+    .......................................................................................................
+    Infere-se, portanto, que o prazo prescricional se inicia a partir da data do ato ou do fato que deu origem ao dano discutido.
+    Sob o ponto de vista jurídico e fático, o prazo quinquenal apenas pode se iniciar quando o cidadão puder exercer, de fato, sua pretensão de cobrança da dívida da Fazenda Pública, o que ocorreu com o trânsito em julgado da sentença.”
+    Cabe registrar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impõe-se destacar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 936.356/SC, Rel. Min. GILMAR MENDES – ARE 1.019.764/RS, Rel. Min. ROSA WEBER – ARE 1.040.460/RS, Rel. Min. ROBERTO BARROSO – RE 916.764/RS, Rel. Min. EDSON FACHIN – RE 1.011.473/RS, Rel. Min. RICARDO LEWANDOWSKI – RE 1.052.010/RS, Rel. Min. ALEXANDRE DE MORAES, v.g.):
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA CONTRARIEDADE AO ART. 5º, XXXV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO. INOCORRÊNCIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS FEDERAIS E LOCAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. PRECEDENTES.
+    1. Nos termos da jurisprudência da Corte, não há repercussão constitucional imediata da controvérsia sobre a contagem e interrupção do prazo prescricional na execução fiscal.
+    2. Agravo regimental a que se nega provimento.”
+    (ARE 827.894-AgR-ED/PE, Rel. Min. ROBERTO BARROSO – grifei)
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante  a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 24 de junho de 2019.
+Ministro CELSO DE MELLO
+Relator
