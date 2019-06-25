@@ -1,0 +1,42 @@
+EMENTA
+PENAL. RECURSO ESPECIAL. ROUBO MAJORADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. CONSEQUÊNCIA INERENTE AO TIPO PENAL. PENA REDIMENSIONADA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de LUCAS JUNIOR LOPES MARTINS manejado contra a decisão que inadmitiu o recurso especial interposto perante o eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+O juízo singular condenou o agravante como incurso nas sanções do artigo 157, § 2º, inciso II, do Código Penal, à pena de 7 (sete) anos e 4 (quatro) meses de reclusão, no regime inicial fechado, e 26 (vinte e seis) dias-multa (fls. 162-171).
+Irresignada, a defesa interpôs apelação criminal, com vistas à reforma da sentença condenatória. No Tribunal de origem, o recurso foi parcialmente provido para redimensionar a pena ao patamar de 6 (seis) anos e 8 (oito) meses de reclusão e 22 (vinte e dois) dias-multa, no tudo o mais mantida a condenação de primeiro grau (fls. 231-240). Eis a ementa do julgado:
+"APELAÇÃO CRIMINAL - CRIME DE ROUBO - ABSOLVIÇÃO - INVIABILIDADE - AUTORIA E MATERIALIDADE COMPROVADAS - REANÁLISE DAS CIRCUNSTÂNCIAS JUDICIAIS - PENA-BASE REDUZIDA - REGIME PRISIONAL MANTIDO - RECURSO PARCIALMENTE PROVIDO. I - Comprovado, pelas declarações da vítima, delação do menor infrator e depoimento de testemunha, que o acusado foi um dos autores da subtração perpetrada mediante violência e grave ameaça, deve ser mantido o édito condenatório pelo crime de roubo. II - Tendo as circunstâncias judiciais sido reanalisadas de forma favorável ao réu, a pena-base merece redução. III - O quantum de pena e a reincidência do réu justificam a fixação do regime inicial fechado, nos termos do art. 33, §§ 2o e 3o, do CP. V. V. EMENTA: APELAÇÃO CRIMINAL - CRIME DE ROUBO - ABSOLVIÇÃO - NECESSIDADE - CONJUNTO PROBATÓRIO FRÁGIL." (fl. 232)
+Os embargos infringentes opostos foram rejeitados (fls. 262-267).
+No recurso especial, interposto com fulcro na alínea a do permissivo constitucional, a defesa alega ofensa ao artigo 59 do Código Penal, aos argumentos de que: " ..  no tocante às consequências, necessário registrar que as considerações feitas pelo Magistrado dizem respeito às características próprias do delito de roubo e já foram considerados pelo legislador no momento da incriminação da conduta e cominação da reprimenda, não podendo servir de suporte para a elevação da pena base" (fl. 274).
+Contrarrazões às fls. 282-284.
+O recurso especial foi inadmitido pelo Tribunal de origem em razão do óbice da Súmula 7 do STJ (fls. 286-289).
+Nas razões do presente agravo, a parte alega que não incide o referido óbice (fls. 293-299).
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 316-318).
+É o relatório.
+Decido.
+Tendo em vista os relevantes fundamentos apontados pela parte agravante, conheço do agravo e passo a examinar os requisitos do recurso especial.
+Busca a parte recorrente, em síntese, nas suas razões recursais, a redução da pena-base ao mínimo legal, pelo decote da vetorial consequências do crime.
+O eg. Tribunal de origem, ao julgar o recurso de apelação, no que importa ao caso, fez constar o seguinte sobre o tema, confira-se:
+"Por fim, o objeto subtraído não foi restituído à vítima, o que torna as consequências do crime desfavoráveis ao agente.
+Diante disso, reestruturo e reduzo a pena-base para o patamar de 04 (quatro) anos e 06 (seis) meses de reclusão e 12 (doze) dias-multa." (fl. 237, grifei)
+Pois bem.
+As consequências do crime se relacionam ao abalo social da conduta delituosa, bem como à extensão e à repercussão de seus efeitos. Muito embora a maioria das condutas delitivas já tragam no bojo do seu preceito primário a consequência da prática da infração (resultado naturalístico do crime), consistente na lesão jurídica causada à vítima ou à coletividade, a circunstância judicial relativa às consequências procura mensurar o alcance de tal repercussão, que se projeta para além do fato delituoso.
+Cumpre ressaltar que não se desconhece a jurisprudência deste Superior Tribunal de Justiça, no sentido de que o dano causado à vítima pode, sim, ensejar a valoração negativa da vetorial consequências do crime. Nesse sentido, confira-se: "Em relação às consequências do crime, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal. In casu, o prejuízo suportado pelas vítimas deve ser considerado mais expressivo do que o próprio aos crimes contra o patrimônio, o que permite a exasperação da pena-base. Precedentes." (HC n. 454.354/RJ, Quinta Turma, Rel. Ribeiro Dantas, DJe de 15/8/2018).
+Contudo, in casu, diviso que mostra-se incorreto o v. acórdão objurgado, tendo em vista que não se encontra em consonância com o entendimento estabelecido nesta Corte Superior de Justiça, no sentido de que "A não restituição dos bens subtraídos no delito de roubo não autoriza, por si só, a valoração negativa das conseqüências do crime. Precedentes" (AgRg no REsp n. 1.709.423/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 4/4/2018).
+Nesse sentido, confira-se:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. ROUBO SIMPLES. VIOLAÇÃO DOS ARTS. 59 E 68, AMBOS DO CP. PENA-BASE. VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS DO CRIME. INIDONEIDADE DO FUNDAMENTO. SUPORTE EM ELEMENTOS INERENTES AO TIPO PENAL VIOLADO. RESTITUIÇÃO NÃO INTEGRAL DA RES FURTIVA. NECESSÁRIA REDUÇÃO DA PENA-BASE AO MÍNIMO LEGAL. PENAS PRIVATIVA DE LIBERDADE E PECUNIÁRIA REDIMENSIONADAS.
+1. Extrai-se do combatido aresto que a reprimenda aplicada à apelante não merece qualquer retoque, eis que fixada a pena-base um pouco acima do mínimo legal, em consonância com o art. 59 do CP, por serem desfavoráveis as consequências do crime, eis que a importância subtraída não foi totalmente apreendida e restituída à vítima.
+2. O fundamento apresentado se ateve, tão somente, ao fato de apenas parte da res ter sido apreendida e restituída à vítima. Sucede que tal como apresentada, a razão não se mostra suficiente a ponto de elevar a pena-base, pois, além de descrever fato comum ao tipo penal do roubo, para caracterizar uma maior reprovabilidade da referida conduta, seria necessária a apresentação de outros elementos que dessem maior robustez e concretude à negativação.
+3. Tampouco se mostra válido o fundamento utilizado para valorar as consequências do delito tão somente em razão do fato de não ter sido restituída a res furtiva à vítima, por constituir fator comum à espécie, na medida em que se trata de delito patrimonial.
+Precedentes. (HC n. 58.596/DF, Ministro Nefi Cordeiro, Sexta Turma,
+DJe 13/10/2014).
+4. Agravo regimental improvido." (AgRg no REsp n. 1.800.270/MG, Sexta Turma, Rel. Min. Sebastião Reis Junior, DJe de 28/5/2019, grifei).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ROUBO. PENA-BASE. REVISÃO. CIRCUNSTÂNCIAS DO CRIME. NÃO DEVOLUÇÃO DO BEM. ELEMENTO INERENTE AO TIPO. DESVALORAÇÃO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. A não restituição dos bens subtraídos no delito de roubo não autoriza, por si só, a valoração negativa das conseqüências do crime. Precedentes.
+2. A ausência de prequestionamento de tese trazida no agravo regimental impede seu conhecimento diante de expresso óbice do Enunciado 282/STF.
+3. Agravo regimental desprovido." (AgRg no REsp n. 1.709.423/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 4/4/2018, grifei).
+À vista do exposto, merece ajuste a sanção imposta ao recorrente em relação ao delito previsto no artigo 157, § 2º, inciso do Código Penal.
+Na primeira fase, decotada a única circunstância judicial valorada negativamente pelas instância ordinárias, a pena-base deve ser fixada em 4 (quatro) anos de reclusão e 10 (dez) dias-multa.
+Na segunda fase, mantém-se a agravante da reincidência, bem como o aumento realizado pela eg. Corte a quo, qual seja, de 6 (seis) meses, alcançando o patamar de 4 (quatro) anos e 6 (seis) meses de reclusão e 13 (treze) dias-multa.
+Na terceira fase, de igual modo, mantém-se o aumento em 1/3 (um terço), perfazendo um total de 6 (seis) anos de reclusão e 17 (dezessete) dias-multa, no tudo o mais mantidos demais termos da condenação.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial para redimensionar a pena do recorrente ao patamar de 6 (seis) anos de reclusão e 17 (dezessete) dias-multa.
+P. e I.
