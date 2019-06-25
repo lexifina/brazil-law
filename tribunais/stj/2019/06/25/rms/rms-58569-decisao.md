@@ -1,0 +1,26 @@
+EMENTA
+RECURSO EM MANDADO DE SEGURANÇA. RECURSO MANIFESTAMENTE INADMISSÍVEL.
+1. O recurso ordinário em mandado de segurança foi interposto contra acórdão que rejeitou exceção de suspeição.
+2. A Constituição Federal de 1988, em seu art. 105, II, "b", prevê como competência deste Superior Tribunal de Justiça o julgamento, em recurso ordinário, de mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão.
+3. No caso ora em apreço, verifica-se total dissonância entre a situação dos autos e o permissivo constitucional ora exposto, diante da ausência de qualquer contexto processual relacionado à apreciação de mandado de segurança, remédio constitucional este que nem sequer foi impetrado pelas partes.
+4. Recurso ordinário não conhecido.
+DECISÃO
+1. Trata-se de recurso ordinário em mandado de segurança interposto por DIPLOMATA S.A. INDUSTRIAL E COMERCIAL E OUTROS, fundamentado no art. 1.027, II, "a", do CPC/2015, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado (fls. 443-467):
+AGRAVO INTERNO PELO EXCIPIENTE - EXCEÇÃO DE SUSPEIÇÃO DE MAGISTRADO DE PRIMEIRA INSTÂNCIA - RECUPERAÇÃO JUDICIAL DA EMPRESA "DIPLOMATA" - OPOSIÇÃO APRESENTADA NO INCIDENTE DE PEDIDO DE AFASTAMENTO DOS ADMINISTRADORES DA EMPRESA (ART. 64 DA LEI Nº 11.101/2005) - DECISÃO MONOCRÁTICA DO RELATOR QUE CONHECEU DE PARTE DO PEDIDO, E NA PARTE CONHECIDA REJEITOU OS ARGUMENTOS LIMINARMENTE - PEDIDO DE RETRATAÇÃO OU DE SUBMISSÃO DO CASO AO COLEGIADO (ART. 1.021, CPC) - 1.
+ALEGAÇÃO DE PARCIALIDADE, DE COMPORTAMENTO OFENSIVO E DE DESOBEDIÊNCIA À AUTORIDADE DE ACÓRDÃO PROFERIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA - ARGUIÇÃO DE SUSPEIÇÃO QUE APRESENTA, EM GERAL, ARGUMENTOS REPETIDOS, JÁ AFASTADOS POR ESTA CORTE EM EXCEÇÕES ANTERIORES - EXCEÇÃO QUE NÃO FOI CONHECIDA NESTA PARTE PELO RELATOR - MANUTENÇÃO - DETERMINAÇÃO DE AFASTAMENTO 2.
+PROVISÓRIO DOS DEVEDORES E ADMINISTRADORES DA GESTÃO DA EMPRESA, COM CONVOCAÇÃO DE ASSEMBLEIA GERAL DE CREDORES PARA DELIBERAÇÃO DA ESCOLHA DE UM GESTOR - DECISÃO JURIDICAMENTE FUNDAMENTADA E QUE NÃO REVELA PARCIALIDADE - SUPERVENIÊNCIA DE DECISÃO LIMINAR EM SEDE DE RECLAMAÇÃO NO SUPERIOR TRIBUNAL DE JUSTIÇA DETERMINANDO A SUSPENSÃO DA DECISÃO DE AFASTAMENTO - JUÍZO FALIMENTAR QUE FEZ CUMPRIR A DETERMINAÇÃO SUPERIOR - AUSÊNCIA DE ILEGALIDADE - DIVERGÊNCIA DE ENTENDIMENTO JURÍDICO QUE NÃO PODE SER CONSIDERADA MOTIVO DE SUSPEIÇÃO DO MAGISTRADO - INOCORRÊNCIA DAS HIPÓTESES PREVISTAS NO ARTIGOS 144, II, C/C 145, IV, DO CPC - DECISÃO DO RELATOR MANTIDA - NEGADO PROVIMENTO AO RECURSO.
+Em suas razões recursais, os recorrentes, delineadas as questões fáticas pertinentes, alegam que "..quando reconheceu tanto a "legitimidade" quanto o "interesse" do administrador judicial para propor ação contra os devedores (LFRJ, art. 1º), não viu o impedimento (NCPC, art. 144, IX) e a suspeição (NCPC, art. 145, IV) que recaíram sobre o seu auxiliar (NCPC, art. 148, II c/c art. 149)".
+Por fim, requer o provimento do recurso para reconhecer "..tanto o impedimento (NCPC, art. 144, I, II e IX) quanto a suspeição (NCPC, art. 145, I e IV) do Dr. [NOME] para apreciar o pedido de afastamento dos sócios e administradores das recuperandas c/c consolidação substancial de grupo econômico c/c tutela provisória de urgência (NCPC, art. 1.010, IV)".
+O Ministério Público Federal ofertou parecer no qual opina pelo não conhecimento do recurso ordinário (fls. 512-515).
+É o relatório.
+DECIDO.
+2. O recurso ordinário é manifestamente inadmissível.
+Trata-se, na origem, de exceção de suspeição nos autos de incidente de intervenção, que estão apensos a autos de recuperação judicial.
+A Corte de origem, ao analisar a controvérsia que lhe foi apresenta, concluiu pela rejeição da exceção de suspeição, diante das manifesta improcedência das alegações.
+Contra tal entendimento, os insurgentes manejaram recurso ordinário em mandado de segurança a esta Corte Superior, o qual não comporta sequer conhecimento, por se tratar de medida de impugnação inadequada à espécie.
+Veja que a Constituição Federal de 1988, em seu art. 105, II, "b", prevê como competência deste Superior Tribunal de Justiça o julgamento, em recurso ordinário, de mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão.
+Saliento que a mesma norma foi reproduzida no art. 1.027, II, "a" do CPC/2015.
+No caso ora em apreço, verifico a total dissonância entre a situação dos autos e o permissivo constitucional ora exposto, diante da completa ausência de qualquer contexto processual relacionado à apreciação de mandado de segurança, remédio constitucional que nem sequer foi impetrado pelas partes.
+Como bem salientado pelo douto Ministério Público Federal, "..uma vez julgado pelo Colendo TJ/PR agravo interno em face de decisão que rejeitou arguição de suspeição e impedimento, incumbiria aos excipientes apresentarem a irresignação própria à espécie (recursos especial ou extraordinário, por exemplo), e não recurso ordinário manifestamente incabível".
+4. Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
