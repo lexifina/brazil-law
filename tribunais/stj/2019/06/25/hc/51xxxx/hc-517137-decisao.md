@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DIOGO DA SILVA MACEDO, contra o indeferimento de idêntica medida na origem.
+Sustenta o impetrante que não há fundamentação concreta e idônea na decisão que decretou a prisão preventiva do paciente.
+Aduz, para tanto, que "o PACIENTE possui residência fixa, primário, conforme demonstrado na certidão de antecedentes, trabalho licito, pai de família e mantenedor do lar" (fl. 4).
+Postula, ao final que seja revogada a prisão decretada em desfavor do paciente.
+É o relatório.
+Decido.
+Os autos não retratam a excepcional hipótese de juízo provisório antecipado acerca do pedido, uma vez que não suficientemente instruídos. Dessa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à concessão da liminar, não sendo constatado, de plano, o fumus boni iuris do pedido, pois não há cópia da r. decisão que decretou a prisão preventiva do ora paciente.
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta eg. Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido:
+"RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PREJUDICIALIDADE DO RECURSO EM RELAÇÃO AOS RECORRENTES BENEFICIADOS COM A LIBERDADE PROVISÓRIA PELO JUÍZO DE ORIGEM. NÃO CONHECIMENTO DO RECURSO PARA OS RECORRENTES QUE NÃO FIGURAM COMO PACIENTES NO ACÓRDÃO DO WRIT ORIGINÁRIO.  ..  INAPLICABILIDADE DE MEDIDA CAUTELAR ALTERNATIVA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. O recurso está prejudicado em relação aos recorrentes [NOME], [NOME] e R. de A.. Conforme informações prestadas a essa Corte, na audiência de instrução e julgamento foi concedida liberdade provisória a esses recorrentes. Assim, não há como negar a perda superveniente do objeto deste recurso em relação a eles. O recurso foi interposto por seis réus, contudo o acórdão que instrui o pedido tem como paciente unicamente [NOME] de [NOME].. Desse modo, constato a deficiência de instrução quanto aos recorrentes [NOME] e [NOME], não havendo como conhecer do recurso deles.
+ ..
+4. São inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal - CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos gravosas.
+Recurso em habeas corpus conhecido em parte e, nessa extensão, desprovido" (RHC 73.802/MG, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 28/10/2016, grifei).
+"AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. CRIME DE RECEPTAÇÃO. TESE DE AUSÊNCIA DE FUNDAMENTAÇÃO DOS REQUISITOS AUTORIZADORES. DEFICIÊNCIA DE INSTRUÇÃO. ÔNUS DO IMPETRANTE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.
+1. Consoante entendimento desta Corte Superior, o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta à dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (AgRg no HC n. 286.754/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 3/2/2015).
+2. Não tendo sido juntadas aos autos cópia da decisão do decreto prisional, folha de antecedentes criminais e documentação comprobatória das condições de favorabilidade do paciente, ora agravante, deve ser mantida a decisão que indeferiu o writ liminarmente.
+3. Agravo regimental improvido." (AgRg no HC 353.292/TO, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 18/05/2016, grifei).
+Ademais, os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra denegação de liminar. De fato, ressalvadas hipóteses excepcionais descabe o instrumento heróico em situação como a presente, sob pena de ensejar supressão de instância.
+A matéria, inclusive, já se encontra sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+Assim o entendimento do Pretório Excelso: HC nº 103570, Primeira Turma, Rel. Min. Marco Aurélio, Rel. p/ acórdão Min. Rosa Weber, DJe de 22/8/2014; HC nº 121828, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 25/6/2014; HC nº 123549 AgR, Segunda Turma, Rel.ª Min. Cármen Lúcia, DJe de 4/9/2014.
+No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC nº 392.348/RO, Sexta Turma, Rel. Ministro Nefi Cordeiro; HC nº 392.249/PR, Sexta Turma, Rel. Ministro Sebastião Reis Júnior; HC nº 392.316/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas; HC nº 391.936/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik; HCnº 392.187/SP, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura
+Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. e I.
