@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela FIC FAZ TUDO INDÚSTRIA E COMÉRCIO LTDA. contra decisão de minha lavra, em que dei provimento ao recurso especial, por violação do art. 535, II, do CPC/1973, determinando o retorno dos autos ao Tribunal de origem para que reaprecie os embargos de declaração opostos pela parte recorrente, sanando os vícios de integração identificados (e-STJ fls.620/623).
+Sustenta o embargante que o jugado padece de omissão no tocante ao entendimento firmado por esta Corte de Justiça no julgamento dos Recursos Especiais Repetitivos 1.112.646/SP e 1.185.583/SP, que tratam dos critérios para a aferição da natureza do imóvel, se urbano ou rural, para fins de desapropriação.
+Defende, em suma, que autos devem ser devolvidos à origem para sanar os vícios de integração já identificados na decisão embargada, bem como o ora apontado, concernente à tese de que o imóvel objeto da desapropriação é rural, tanto que recolhe o Imposto Territorial Rural - ITR.
+Intimada, a parte embargada apresentou impugnação às e-STJ fls. 638/646.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão. In casu, não ocorreu nenhum dos vícios supracitados.
+Com efeito, a decisão hostilizada apresenta-se suficientemente clara quando consigna que "Corte a quo não analisou o disposto no art. 15, § 1º, do DL n. 3.365/1941, apontando como violado nos declaratórios da ora recorrente, o qual ampara a tese de que, não obstante a alegação de urgência do ente expropriante, faz necessário o depósito do valor cadastral do imóvel, para fins de lançamento do IPTU ou do ITR, para o deferimento da imissão provisória na posse".
+Importante ressaltar que os declaratórios não têm a finalidade de confrontar julgados ou teses dissonantes e, por conseguinte, dirimir eventual divergência acerca da orientação firmada nos Recursos Especiais Repetitivos 1.112.646/SP e 1.185.583/SP.
+Ademais, o recurso especial se insurge contra acórdão que, em sede de agravo de instrumento, manteve a decisão concessiva de antecipação de tutela proferida pelo Juiz de primeiro grau, que deferiu o requerimento de imissão provisória na posse do imóvel, antes da avaliação judicial, encontrando-se o processo expropriatório, portanto, na sua fase inicial.
+Nessa quadra, forçoso convir que a decisão ora embargada não necessita de maiores explicações, sendo bastantes os fundamentos que amparam a conclusão decisum.
+Com essas considerações, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
