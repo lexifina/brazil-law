@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. INVENTÁRIO. ALEGADA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO. ERRO MATERIAL. NÃO OCORRÊNCIA.
+AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por ELKA MATCHINSKE MATTE - ESPÓLIO e ELÓI JOSÉ MACHADO - INVENTARIANTE, em face da decisão que negou seguimento a recurso especial, aviado pela alínea "a" do art. 105, III, da Constituição Federal, ao fundamento de ausência de violação aos arts. 489 e 1.022 do CPC/2015, bem como de incidência da Súmula 07/STJ (e-STJ fls. 611-615).
+Em suas razões, infirmou especificamente as razões da decisão agravada (e-STJ fls. 620-632).
+No recurso especial, a parte recorrente alega ofensa aos arts. 489, §1º, inciso IV, e 1.022, incisos II e III, e parágrafo único, inciso II, ambos do Código de Processo Civil de 2015, sustentando, em síntese, omissão do v. acórdão quanto à conversão dos produtos agrícolas em dinheiro, uma vez que, em momento posterior, podem ter o seu valor reduzido por movimentos de bolsa de commodities; erro material no que se refere ao fato de que a necessidade de venda de produtos agrícolas é questão de conhecimento público e de notoriedade; bem como que o Tribunal de origem não se manifestou quanto (a) à arrecadação, ou não, e (b) ao depósito efetivo dos produtos, haja vista que, sem arrecadação e sem depósito regular, não haverá certeza de produto algum, isto é, o próprio inventário será pura ficção.
+Apresentadas contrarrazões (e-STJ fls. 602-606).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015, conforme Enunciado Administrativo Nº 3/STJ.
+Ato contínuo, percebe-se que a irresignação não merece acolhida.
+A parte recorrente, em sede de recurso especial, alega ofensa aos arts. 489, §1º, inciso IV, e 1.022, incisos II e III, e parágrafo único, inciso II, ambos do Código de Processo Civil de 2015, sustentando, em síntese, omissão do v. acórdão quanto à conversão dos produtos agrícolas em dinheiro, uma vez que, em momento posterior, podem ter o seu valor reduzido por movimentos de bolsa de commodities; erro material no que se refere ao fato de que a necessidade de venda de produtos agrícolas é questão de conhecimento público e de notoriedade; bem como que o Tribunal de origem não se manifestou quanto (a) à arrecadação, ou não, e (b) ao depósito efetivo dos produtos, haja vista que, sem arrecadação e sem depósito regular, não haverá certeza de produto algum, isto é, o próprio inventário será pura ficção.
+O acórdão recorrido, por sua vez, assim assentou (e-STJ fls. 495-497);
+O processo de inventário não se presta à alienação do patrimônio do espólio, o que se trata de medida excepcional no curso do processo.
+O que incumbe ao inventariante é promover as medidas cabíveis para o encerramento do inventário, tendo em vista que, uma vez homologado o plano de partilha, essa providência permitirá a gerência direta de cada um dos herdeiros sobre seus quinhões.
+A ultimação do feito é medida impositiva, não sendo recomendável o uso indevido da expedição de alvarás. Como bem ponderou o Desembargador no [NOME], no Agravo de Instrumento nº [CPF], "o processo de inventário não se presta para a alienação dos bens, e sim para a destinação do quinhão proporcional de cada herdeiro que, encerrado o inventário, poderá aliená-lo."(..)
+Assim sendo, concluo que não está justificada a medida extraordinária requerida.
+Ademais, como bem destacou a eminente Procuradora de Justiça em seu parecer: "No presente caso, não restou comprovada a necessidade da venda dos bens referidos, tampouco da existência das dívidas alegadas, motivos que poderiam autorizar a expedição de alvará."
+Com efeito, quanto à alegada violação aos arts. 489, §1º, inciso IV, e 1.022, incisos II e III, e parágrafo único, inciso II, ambos do Código de Processo Civil de 2015, vislumbra-se a não ocorrência de nulidade por omissão, obscuridade, contradição, ou erro material, tampouco de negativa de prestação jurisdicional, no acórdão que, em suma, conclui, de maneira integral e com fundamentação suficiente e clara, que (a) "o processo de inventário não se presta à alienação do patrimônio do espólio, o que se trata de medida excepcional no curso do processo"; bem como que, (b) "como bem destacou a eminente Procuradora de Justiça em seu parecer: "No presente caso, não restou comprovada a necessidade da venda dos bens referidos, tampouco da existência das dívidas alegadas, motivos que poderiam autorizar a expedição de alvará.""
+Ademais, destaca-se que o juízo não está obrigado a se manifestar a respeito de todas as alegações e dispositivos legais suscitados pelas partes.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. VIOLAÇÃO DO ART. 535 DO CPC/73. OMISSÃO QUE NÃO SE VERIFICA. PEDIDO ADMINISTRATIVO. INTERESSE DE AGIR RECONHECIDO PELO TRIBUNAL DE ORIGEM. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexiste ofensa ao art. 1022, II, do NCPC (art. 535 do CPC/73) quando o Tribunal a quo se manifestou clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, sendo desnecessário rebater, uma a uma, as razões suscitadas pelas partes. 2. (..).
+3. No caso dos autos, a convicção a que chegou o acórdão recorrido quanto ao interesse de agir da parte autora decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, o que encontra óbice no enunciado nº 7 da Súmula do STJ.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação à aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei. 5. Agravo interno não provido, com aplicação de multa. (AgInt no REsp 1624810/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/05/2017, DJe 01/06/2017) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO INEXISTENTES. HONORÁRIOS. ARBITRAMENTO. CLÁUSULA CONTRATUAL. VALIDADE E EFICÁCIA DECLARADAS. PUBLICIDADE DO ATO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Afasta-se a violação dos arts. 489, § 1º, e 1.022 do CPC/2015 quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+3. A ausência de impugnação dos fundamentos do acórdão recorrido impede o conhecimento do recurso especial. Súmula nº 283/STF.
+4. Rever o posicionamento do tribunal de origem, que decidiu pelo não arbitramento dos honorários, encontra os óbices das Súmulas nºs 5 e 7/STJ.
+5. O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+6. Agravo interno não provido.
+(AgInt no AREsp 1198828/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/09/2018, DJe 21/09/2018) - g.n.
+Destarte, melhor sorte não socorre à parte agravante.
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Intimem-se.
