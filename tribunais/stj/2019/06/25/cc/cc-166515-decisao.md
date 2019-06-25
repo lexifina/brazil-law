@@ -1,0 +1,34 @@
+DECISÃO
+1. Trata-se de conflito de competência, com pedido de liminar, que aponta como suscitados o Juízo de Direito da 8ª Vara Cível de São José do Rio Preto/SP, onde se processa a recuperação judicial, e o Juízo da 5ª Vara do Trabalho de Recife/PE que, nos autos da reclamação trabalhista n. 0001352-63.2015.5.06.0005, determinou "o bloqueio de crédito on-line, através do BACEN-JUD 2.0, dos ativos financeiros do(a) executado(a), até o limite atualizado da condenação" (fl. 35).
+Informam as suscitantes que são integrantes do Grupo CBAA, cujo pedido de recuperação judicial foi deferido em 2/12/2009 (fls. 52-58), tendo sido homologado o plano de recuperação em 11/6/2010.
+Requerem a concessão de liminar para (fl. 16):
+(i) Determinar o levantamento em favor das Recuperandas, dos valores bloqueados pelo Juízo Trabalhista;
+(ii) Determinar que o Juízo Trabalhista se abstenha de determinar novos atos constritivos aos bens das Recuperandas; e
+(iii) Sobrestar Reclamação Trabalhista nº. 0001352- 63.2015.5.06.0005 proposta por [NOME], na forma do art. 955, Parágrafo Único, do CPC, indicando-se o Juízo Recuperacional como único competente para apreciar medidas urgente, se houver, na forma em que permite o art. 196 do Regimento Interno deste E. STJ.
+É o relatório.
+2. Com efeito, verifica-se a presença do fumus boni juris e do periculum in mora.
+A jurisprudência desta Corte de Justiça firmou-se no sentido de que os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n. 7.661/45 ou da Lei n. 11.101/05, bem como os atos judiciais que envolvam o patrimônio das citadas empresas, devem ser realizados pelo juízo universal.
+Nessa linha, via de regra, não se verifica a possibilidade de prosseguimento automático das execuções individuais posteriormente ao processamento e, por conseguinte, à aprovação do plano de recuperação judicial, de modo que é atribuída exclusividade ao juízo universal onde se processa a recuperação para a prática de atos de execução do patrimônio da sociedade recuperanda.
+A razão de ser da supremacia dessa regra de competência é a concentração, no juízo da recuperação judicial, de todas as decisões que envolvam o patrimônio da recuperanda, a fim de não comprometer a tentativa de mantê-la em funcionamento.
+Dessarte, em conformidade com o princípio da preservação da empresa, o juízo de valor acerca da essencialidade ou não do bem ao funcionamento da sociedade cumpre ser realizado pelo Juízo da recuperação judicial, que tem acesso a todas as informações sobre a real situação dos bens da empresa recuperanda.
+Nesse sentido, os seguintes precedentes da Segunda Seção:
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. DEFERIMENTO DO PEDIDO LIMINAR PARA DETERMINAR QUE, NOS AUTOS DA EXECUÇÃO FISCAL, O JUÍZO DA VARA DO TRABALHO ABSTENHA-SE DE PRATICAR ATOS EXECUTÓRIOS QUE IMPORTEM NA CONSTRIÇÃO OU ALIENAÇÃO DE BENS DA EMPRESA SUSCITANTE E DESIGNAR O JUÍZO DE DIREITO EM QUE SE PROCESSA A RECUPERAÇÃO JUDICIAL PARA DECIDIR, EM CARÁTER PROVISÓRIO, AS MEDIDAS URGENTES.
+CONFLITO EM QUE SE DISCUTE A DESTINAÇÃO DO PATRIMÔNIO DE EMPRESA SOB RECUPERAÇÃO. COMPETÊNCIA DA SEGUNDA SEÇÃO. PRECEDENTES. DEFERIMENTO DO PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. NÃO SUSPENSÃO DA EXECUÇÃO FISCAL, DEVENDO-SE, TODAVIA, SUBMETER A PRETENSÃO CONSTRITIVA DIRECIONADA AO PATRIMÔNIO DA EMPRESA EM RECUPERAÇÃO JUDICIAL AO JUÍZO UNIVERSAL. ENTENDIMENTO PERFILHADO PELA SEGUNDA SEÇÃO DESTA CORTE DE JUSTIÇA. EXEGESE QUE NÃO ENSEJA INFRINGÊNCIA À CLÁUSULA DE RESERVA DE PLENÁRIO. INEXISTÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE.
+1. Considerando que a controvérsia gira em torno da destinação do patrimônio de empresa sob recuperação judicial, e não sobre a definição da competência para o processamento de execução fiscal, o conflito deve ser processado e julgado pela Segunda Seção, nos termos do art. 9º, § 2º, IX, do RISTJ. Precedentes.
+2. De acordo com o entendimento jurisprudencial consolidado no âmbito da Segunda Seção desta Corte de Justiça, embora o deferimento do processamento da recuperação judicial não tenha, por si só, o condão de suspender as execuções fiscais, na dicção do art. 6º, § 7º, da Lei n. 11.101/05, a pretensão constritiva direcionada ao patrimônio da empresa em recuperação judicial deve, sim, ser submetida à análise do juízo universal, em homenagem ao princípio da preservação da empresa.
+3. A exegese ora adotada de modo algum encerra violação ao Princípio da Reserva de Plenário, previsto no art. 97 da Constituição Federal, notadamente porque não se procedeu à declaração de inconstitucionalidade, mas sim à interpretação sistemática dos dispositivos legais sobre a matéria. Precedentes da Segunda Seção do STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no CC 136.040/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 13/05/2015, DJe 19/05/2015)
+--
+AGRAVO REGIMENTAL NO CONFLITO POSITIVO DE COMPETÊNCIA SUSCITADO POR EMPRESA ARREMATANTE DA UNIDADE PRODUTIVA DA VARIG S/A EM FACE DE JUÍZOS DO TRABALHO E JUÍZO FALIMENTAR. COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. A execução individual trabalhista e a recuperação judicial apresentam nítida incompatibilidade concreta, porque uma não pode ser executada sem prejuízo da outra.
+2. O Juízo universal é o competente para a execução dos créditos apurados nas ações trabalhistas propostas em face da Varig S/A e da VRG Linhas Aéreas S/A (arrematante da UPV), sobretudo porque, no que se refere à arrematação judicial da UPV, ficou consignado em edital, nos termos da Lei n.º 11.101/05, que sua transmissão não acarretaria a assunção de seu passivo.
+3. Competência do Juízo da Direito da 1.ª Vara Empresarial do Rio de Janeiro, para o prosseguimentos das execuções trabalhistas.
+4. Agravo regimental desprovido.
+(RCD no CC 137.886/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 12/08/2015, DJe 24/08/2015)
+3. No caso, o pedido de recuperação judicial foi deferido em 2/12/2009 (fls. 52-58).
+Não obstante, o Juízo laboral determinou o prosseguimento do feito executivo, com a penhora de ativos financeiros (Bacenjud) e outros bens móveis da suscitante Agrisul Agrícola Ltda., em recuperação judicial, sendo certo que os atos constritivos do patrimônio da empresa em recuperação devem ser submetidos ao crivo do Juízo recuperacional, ao qual cabe também deliberar sobre o destino do montante bloqueado.
+4. Ante o exposto, concedo a liminar para suspender o trâmite da referida execução até o julgamento deste conflito e, por conseguinte, para obstar eventuais atos de constrição do patrimônio dessas sociedades; e para designar o Juízo da recuperação como competente para resolução de medidas de caráter urgente, inclusive para deliberar sobre os valores constritos de titularidade das recuperandas.
+Oficiem-se aos juízos suscitados, com urgência, comunicando e solicitando informações.
+Após, ao Ministério Público Federal.
+Publique-se.
