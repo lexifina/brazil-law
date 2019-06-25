@@ -1,0 +1,76 @@
+DECISÃO
+1. Trata-se de ação declaratória de inexistência de decisão judicial em face da Quarta Turma desta Corte Superior e também a Caixa Econômica Federal. Asserem que a CEF impetrou mandado de segurança contra o Juízo da 2ª Vara de Falências e Recuperação Judicial do Foro Central de São Paulo, com vistas à anulação da decisão que lhe intimara a devolver valores indevidamente apropriados para pagamento de crédito concursal, sendo certo que as requerentes não foram incluídas como litisconsortes necessárias, apesar de a pretensão apresentar a possibilidade de inferir negativamente na sua esfera jurídica.
+O writ teve o pedido julgado improcedente, mas tal decisão foi reformada em sede recursal pela Quarta Turma (RMS 49.020/SP), revertendo o julgado anterior sem que fosse oportunizado às requerentes o exercício do contraditório, pois não foram citadas.
+Por isso (fl. 4): "Em razão da ausência de prévia participação das Autoras durante todo o processamento do remédio constitucional em exame, e da omissão de informações relevantes maliciosamente perpetrada pela Ré, torna-se necessário reconhecer a inexistência do v. acórdão ora fustigado, de vez que referida questão vem se apresentando como obstáculo ao encerramento da RJ."
+Assim, conquanto tenha havido o trânsito em julgado do acórdão, tal provimento é inconstitucional, sendo por isso objeto da presente ação.
+Registram que a ré havia finalmente cumprido a liminar questionada no referido mandado de segurança e que (fl. 14):
+ ..  a Ré inclusive reconheceu de forma expressa e ainda antes da prolação do v. acórdão ora impugnado a concursalidade dos saldos devedores dos contratos sub judice, que era o cerne da questão que motivou a liminar de fls. 544.
+Digno de registro que, após quase um ano e meio depois de se dar por vencida quanto ao tema, sobreveio o v. acórdão que ora se impugna, aproveitando a Ré para ressuscitar a discussão, afirmando conclusivamente que este E. STJ teria determinado a devolução dos valores por ela depositado em cumprimento à liminar, o que, com a devida vênia, sequer condiz com a verdade.
+Esta é a situação que pende de resolução na origem, tendo em vista que o MM. Juízo Recuperacional, por entender estar cumprindo o v. acórdão deste Sodalício, vem intimando as Autoras a devolver os sobreditos valores depositados pela Ré em cumprimento à liminar anulada por acórdão proferido à míngua da citação das Requerentes.
+Em razão do acórdão ora fustigado, a CEF "pleiteou a automática restituição dos valores por ela já depositados em cumprimento à liminar, fazendo crer que a providência requerida fora determinada por este Sodalício. O MM. Juízo a quo passou então a exigir das Autoras a devolução dos sobreditos valores no prazo de 5 (cinco) dias sob pena de imposição de multa de R$ 10.000,00 por dia de atraso, como se estivesse simplesmente executando ordem do STJ!!" (fl. 17).
+Apresentam uma série de fatos omitidos pela ré, em relação aos quais pleiteia a imposição de multa por litigância de má-fé.
+Requerem a declaração da perda de objeto do mencionado recurso em mandado de segurança, porquanto (fl.32):
+a) a Ré impetrou mandado de segurança para impugnar a liminar de fls. 544 da RJ, como medida preventiva para evitar o seu cumprimento;
+b) no curso da RJ, sobreveio decisão de fls. 1.039/1.039-v afastando de forma fundamentada os argumentos de mérito que a Ré opunha ao cumprimento da liminar;
+c) que contra referida decisão a Ré interpôs o Agravo de Instrumento nº 2081468-64.2014.8.26.0000, cujo provimento foi negado, sobrevindo o trânsito em julgado;
+d) que a Ré espontaneamente cumpriu a liminar impugnada no referido mandamus;
+e) que em razão disso a Ré passou a reconhecer expressamente a inclusão dos saldos devedores dos CONTRATOS SUB JUDICE na composição de seu crédito concursal; e f) que a Ré participou da AGC convocada para deliberar sobre o plano apresentado, votando pelo valor integral de seu crédito, sem qualquer ressalva;
+Atacam os argumentos veiculados no mandado de segurança.
+Por fim, pleiteiam a concessão de liminar para (fl. 52):
+b.1) determinar a suspensão da eficácia do v. acórdão impugnado e das discussões que gravitam ao seu redor, oficiando-se de imediato o MM.
+Juízo Recuperacional para fins de evitar a prolação de decisões conflitantes;
+b.2) declarar a possibilidade de pronto encerramento do procedimento concursal, de forma desvinculada ao prosseguimento desta demanda;
+E, no mérito, seja (fls. 52-53):
+c) ao final julgada totalmente procedente a presente demanda para fins de, com fundamento no art. 19, I do NCPC, declarar a inexistência e ineficácia do v. acórdão proferido no RMS nº 49.020/SP, em razão da ausência de prévia citação das Autoras para participarem em contraditório daquele feito;
+d) ato contínuo, declarar a perda de objeto do RMS nº 49.020/SP, em razão dos fatos supervenientes à concessão da liminar que se impugnava, notadamente seu cumprimento espontâneo em contraste com a natureza preventiva do referido mandamus; ou e) alternativamente, com fundamento nos arts. 502, 503, 505 e 507 do NCPC, seja negado provimento ao RMS nº 49.020-SP, reconhecendo-se por consequência a existência de coisa julgada e de preclusão lógica operadas em desfavor da Ré; e f) sem prejuízo, com fundamento no art. 80, II, III, IV e V c/c art. 81 do NCPC, seja a Ré condenada em multa por litigância de má-fé, à razão de 10% do valor da causa, devidamente corrigido e acrescido de juros até a data do efetivo pagamento.
+É o relatório. Decido.
+2. A Carta da República dispõe que:
+Art. 105. Compete ao Superior Tribunal:
+I - processar e julgar, originariamente:
+a) nos crimes comuns, os Governadores dos Estados e do Distrito Federal, e, nestes e nos de responsabilidade, os desembargadores dos Tribunais de Justiça dos Estados e do Distrito Federal, os membros dos Tribunais de Contas dos Estados e do Distrito Federal, os dos Tribunais Regionais Federais, dos Tribunais Regionais Eleitorais e do Trabalho, os membros dos Conselhos ou Tribunais de Contas dos Municípios e os do Ministério Público da União que oficiem perante tribunais;
+b) os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal; (Redação dada pela Emenda Constitucional nº 23, de 1999)
+c) os habeas corpus, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea "a", ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral; (Redação dada pela Emenda Constitucional nº 23, de 1999)
+d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos;
+e) as revisões criminais e as ações rescisórias de seus julgados;
+f) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+g) os conflitos de atribuições entre autoridades administrativas e judiciárias da União, ou entre autoridades judiciárias de um Estado e administrativas de outro ou do Distrito Federal, ou entre as deste e da União;
+h) o mandado de injunção, quando a elaboração da norma regulamentadora for atribuição de órgão, entidade ou autoridade federal, da administração direta ou indireta, excetuados os casos de competência do Supremo Tribunal Federal e dos órgãos da Justiça Militar, da Justiça Eleitoral, da Justiça do Trabalho e da Justiça Federal;
+i) a homologação de sentenças estrangeiras e a concessão de exequatur às cartas rogatórias ;(Incluída pela Emenda Constitucional nº 45, de 2004)
+II - julgar, em recurso ordinário:
+a) os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória;
+b) os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão;
+c) as causas em que forem partes Estado estrangeiro ou organismo internacional, de um lado, e, do outro, Município ou pessoa residente ou domiciliada no País;
+III - julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão recorrida:
+a) contrariar tratado ou lei federal, ou negar-lhes vigência;
+b) julgar válido ato de governo local contestado em face de lei federal; (Redação dada pela Emenda Constitucional nº 45, de 2004)
+c) der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal.
+Como se pode constatar, na competência originária do Superior Tribunal de Justiça, a qual se submete a rol taxativo, não há previsão constitucional para o julgamento da ação de querela nullitatis.
+A jurisprudência desta Casa erigiu-se no sentido de que a competência para apreciar e julgar a denominada querela nullitatis insanabilis é do juízo de primeira instância, "pois o que se postula não é a desconstituição da coisa julgada, mas apenas o reconhecimento de inexistência da relação processual".
+Nesse sentido, confiram-se os seguintes precedentes:
+CONFLITO NEGATIVO DE COMPETÊNCIA. QUERELA NULLITATIS. COMPETÊNCIA DO JUÍZO QUE PROFERIU A DECISÃO SUPOSTAMENTE VICIADA. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Tem competência para processar e julgar a querela nullitatis o juízo que proferiu a decisão supostamente viciada.
+2. Conflito conhecido para declarar a competência do Juízo da 1ª Vara de Acidentes do Trabalho de Santos - SP, o suscitado.
+(CC 114.593/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 22/06/2011, DJe 01/08/2011)
+QUESTÃO DE ORDEM. COMPETÊNCIA INTERNA. QUERELA NULLITATIS INSANABILIS. SEXTA TURMA.
+1. Tem competência para processar e julgar a querela nullitatis o juízo que proferiu a decisão supostamente viciada. (CC 114.593/SP, da minha relatoria, Terceira Seção, julgado em 22/06/2011, DJe 01/08/2011) AGRAVO REGIMENTAL EM PETIÇÃO. COMPETÊNCIA ORIGINÁRIA DO STJ. IMPEDIMENTO DE MAGISTRADO. HIPÓTESE DE AÇÃO RESCISÓRIA. ART. 485, II, DO CPC.
+1. A competência deste Superior Tribunal de Justiça no âmbito dos processos originários não compreende a relativização da coisa julgada fora das hipóteses das revisões criminais e das ações rescisórias de seus julgados, sendo incabível o ajuizamento da ação declaratória diretamente perante este Superior Tribunal de Justiça.
+2. A querela nullitatis, quando cabível, situa-se no plano da existência, não se confundindo com as questões afeitas ao plano da validade, sanáveis por meio de ação rescisória por expressa disposição legal (art. 485, II, CPC).
+3. Agravo improvido.
+(AgRg na Pet 10.975/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 13/10/2015, DJe 03/11/2015)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO VERIFICADA. AÇÃO RESCISÓRIA. AUSÊNCIA DE CITAÇÃO DE LITISCONSORTE PASSIVO NECESSÁRIO.
+HIPÓTESE DE QUERELLA NULITATIS. APRECIAÇÃO DOS PRINCÍPIOS DA FUNGIBILIDADE, DA INSTRUMENTALIDADE DAS FORMAS, CELERIDADE E ECONOMIA PROCESSUAIS.
+1. Ao extinguir a presente ação rescisória sem resolução de mérito, o acórdão ora embargado fundou-se no não cabimento de ação rescisória para declarar nulidade de julgado por ausência de citação, considerando que a hipótese dos autos não se enquadra no rol taxativo do art. 485 do CPC. Decidiu-se, assim, que a desconstituição do acórdão proferido nos autos do Recurso Especial n. 8.818/PE somente poderia ser postulada pelo autor por meio de ação declaratória de inexistência de citação, denominada querela nullitatis.
+2. Verificada a omissão do julgado quanto à aplicação dos princípios da instrumentalidade das formas, da celeridade e economias processuais.
+3. Não está autorizada a aplicação dos princípios que norteiam o sistema de nulidades no direito brasileiro, em especial os da fungibilidade, da instrumentalidade das formas e do aproveitamento racional dos atos processuais, para que a rescisória seja convertida em ação declaratória de inexistência de citação, máxime quando inexiste competência originária do Superior Tribunal de Justiça para apreciar aquela ação cognominada querela nullitatis. Isto porque a Constituição Federal apenas autoriza o processamento da inicial diretamente perante esta Corte Superior nas hipótese expressamente delineadas em seu art. 105, inciso I.
+4. Por outro lado, é assente a orientação do Superior Tribunal de Justiça no sentido de que a competência para apreciar e julgar a denominada querela nullitatis Insanabilis pertence ao juízo de primeira instância, pois o que se postula não é a desconstituição da coisa julgada, mas apenas o reconhecimento de inexistência da relação processual. Neste sentido, são os seguintes julgados: AgRg no REsp 1199335 / RJ, Primeira Turma, rel. Benedito Gonçalves, DJe 22/03/2011; REsp 1015133/MT, Segunda Turma, Rel. Ministra Eliana Calmon, Rel. p/ Acórdão Ministro Castro Meira, DJe 23/04/2010; REsp 710.599/SP, Primeira Turma, Rel. Ministra Denise Arruda, DJ 14/02/2008.
+5.Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl na AR 569/PE, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 22/06/2011, DJe 05/08/2011)
+PROCESSUAL CIVIL E ADMINISTRATIVO. FAIXA DE FRONTEIRA. BEM DA UNIÃO. ALIENAÇÃO DE TERRAS POR ESTADO NÃO TITULAR DO DOMÍNIO. AÇÃO DE DESAPROPRIAÇÃO. "TRÂNSITO EM JULGADO". AÇÃO CIVIL PÚBLICA. DECLARAÇÃO DE NULIDADE DE ATO JUDICIAL. PRETENSÃO QUERELA NULLITATIS. CABIMENTO. ADEQUAÇÃO DA VIA ELEITA. RETORNO DOS AUTOS À CORTE REGIONAL PARA EXAME DO MÉRITO DAS APELAÇÕES.
+ ..
+5. Da nulidade absoluta e da pretensão querela nullitatis insanabilis.
+5.1. O controle das nulidades processuais, em nosso sistema jurídico, comporta dois momentos distintos: o primeiro, de natureza incidental, é realizado no curso do processo, a requerimento das partes, ou de ofício, a depender do grau de nulidade. O segundo é feito após o trânsito em julgado, de modo excepcional, por meio de impugnações autônomas. As pretensões possíveis, visando ao reconhecimento de nulidades absolutas, são a ação querela nullitatis e a ação rescisória, cabíveis conforme o grau de nulidade no processo originário.
+5.2. A nulidade absoluta insanável - por ausência dos pressupostos de existência - é vício que, por sua gravidade, pode ser reconhecido mesmo após o trânsito em julgado, mediante simples ação declaratória de inexistência de relação jurídica (o processo), não sujeita a prazo prescricional ou decadencial e fora das hipóteses taxativas do art. 485 do CPC (ação rescisória). A chamada querela nullitatis insanabilis é de competência do juízo monocrático, pois não se pretende a rescisão da coisa julgada, mas apenas o reconhecimento de que a relação processual e a sentença jamais existiram.
+ ..
+10. Recursos especiais providos.
+(REsp 1015133/MT, Rel. Ministra ELIANA CALMON, Rel. p/ Acórdão Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 02/03/2010, DJe 23/04/2010)
+3. Ante o exposto, reconheço a incompetência desta Corte para o processamento e o julgamento da presente ação ordinária e determino o retorno dos autos ao Juízo de origem.
