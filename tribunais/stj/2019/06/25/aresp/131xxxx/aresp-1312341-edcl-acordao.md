@@ -1,0 +1,27 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DE QUALQUER VÍCIO QUE PUDESSE SER SANADO COM A OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. MERA REJEIÇÃO DA CONCLUSÃO APRESENTADA NO ACÓRDÃO EMBARGADO. INEQUÍVOCA NATUREZA PROTELATÓRIA.
+EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de embargos de declaração no agravo interno no agravo em recurso especial opostos por BANCO BANESTADO S.A. contra acórdão assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO INFIRMADO ESPECIFICAMENTE. ARTIGO 1.021, § 1º, CPC/2015.
+AGRAVO INTERNO NÃO CONHECIDO.
+Nas razões do recurso, o embargante afirma que a decisão teria sido omissa quanto ao fato de que "o agravo interno apenas demonstrou que nas razões recursais do agravo em recurso especial constava a efetiva impugnação ao juízo de admissibilidade, portanto, não se pode negar conhecimento ao recurso ao entendimento de ocorrência de preclusão porque a correta impugnação ao despacho agravado foi oportunamente realizada, tanto que o v. acórdão reconheceu pela inaplicabilidade da Súmula 284/STF no caso em lide". Por consequência, entende que a decisão teria sido omissa também quanto à "apreciação e fundamentação específica das matérias objeto do recurso e que não podem ser tratadas de forma genérica e abstrata, sob pena de afronta aos artigos 3º, 11 e 489, §1º do CPC/15 e artigos 5º, XXXV e 93, IX da CF/88".
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DE QUALQUER VÍCIO QUE PUDESSE SER SANADO COM A OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. MERA REJEIÇÃO DA CONCLUSÃO APRESENTADA NO ACÓRDÃO EMBARGADO. INEQUÍVOCA NATUREZA PROTELATÓRIA.
+EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA.
+
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes colegas, os embargos devem ser rejeitados e, ante sua manifesta improcedência, é de se tê-los como meramente protelatórios, aplicando-se a multa prevista no art. 1.026, § 2º, do CPC, de 1% sobre o valor da causa atualizado.
+O embargante parte da premissa de que "nas razões recursais do agravo em recurso especial constava a efetiva impugnação ao juízo de admissibilidade" para concluir que o acórdão embargado não poderia "negar conhecimento ao recurso ao entendimento de ocorrência de preclusão porque a correta impugnação ao despacho agravado foi oportunamente realizada". Afirma que haveria omissão quanto a esta premissa, disto decorrendo outras consequências.
+Tal argumentação todavia, além de carecer de lógica, pois reconhece que não existe omissão a ser sanada ao afirmar que não se poderia falar em preclusão, é absolutamente impertinente ao caso.
+Consta de maneira expressa no acórdão que não houve a impugnação do fundamento do juízo negativo de admissibilidade nas razões do agravo em recurso especial, tendo o embargante cometido um equívoco ao argumentar em seu agravo interno como se o seu recurso especial tivesse sido apreciado e a decisão agravada estivesse fundamentada na deficiência das razões recursais deste recurso. Como resta claro, não há que se falar em omissão, mas em expressa rejeição da premissa apontada pelo embargante.
+Pontue-se que podem as partes postular que o julgador se manifeste sobre qualquer questão pertinente ao substrato fático ou jurídico do caso que tenha a aptidão de influir no julgamento do caso. Isto, todavia, não autoriza o manejo de embargos para refutar as conclusões a que chegou o magistrado ao apreciar o caso. Se a decisão consigna que "competiria ao agravante demonstrar como, nas razões do agravo em recurso especial, impugnou o fundamento do juízo negativo de admissibilidade, o que, logicamente, somente pode ser feito com a transcrição de trechos deste recurso", o que não foi feito, motivo pelo qual seu agravo interno não foi conhecido, é temerária a argumentação no sentido de que haveria omissão quanto ao fato de que "o agravo interno apenas demonstrou que nas razões recursais do agravo em recurso especial constava a efetiva impugnação ao juízo de admissibilidade, portanto, não se pode negar conhecimento ao recurso ao entendimento de ocorrência de preclusão porque a correta impugnação ao despacho agravado foi oportunamente realizada, tanto que o v. acórdão reconheceu pela inaplicabilidade da Súmula 284/STF no caso em lide", pois se está deliberadamente ignorando o quanto decidido para impor conclusão inaplicável ao caso, a pretexto de que haveria omissão a ser sanada.
+Nestes termos, resta inequívoco que os embargos foram opostos com o único intuito de obter reconsideração do quanto decidido, inexistindo a indicação efetiva de qualquer vício que pudesse ser sanado com a oposição de embargos declaratórios, motivo pelo impõe-se a aplicação de multa na espécie.
+Ante o exposto, REJEITO os aclaratórios, com aplicação de multa.
+É o voto.
