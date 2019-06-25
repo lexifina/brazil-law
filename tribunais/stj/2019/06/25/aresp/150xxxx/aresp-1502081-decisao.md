@@ -1,0 +1,26 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BANCO DO ESTADO DO RIO GRANDE DO SUL S.A. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+Apelação cível. Ação denominada de declaratória de inexistência de débito. Realização de saques bancários sob grave ameaça. Compras parceladas realizadas mediante uso de senha do cartão objeto de roubo. Deficiência na prestação do serviço pelo banco.
+A situação vivenciada pela demandante, em que foi obrigada a efetuar saques bancários, sob grave ameaça, exigia da instituição bancária o dever de observar a condição de vulnerabilidade da parte, atentando para as movimentações bancárias dissonantes com o padrão até então manifestado pela parte.
+Nas circunstâncias reconstituídas, de que foram feitos vários saques, com valores expressivos, em um único dia e no dia seguinte, bem como várias compras parceladas, também em valores significativos, justifica-se a procedência da ação para declarar a inexigibilidade dos débitos e condenar o banco à restituição dos valores.
+Apelação provida.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 14, § 3º, inciso II, do CDC.
+Alega, em síntese, que seria aplicável a excludente de responsabilidade prevista o referido dispositivo legal, qual seja, a culpa exclusiva da vítima e de terceiros.
+É o relatório. DECIDO.
+2. A matéria referente ao artigo 14, § 3º, inciso II, do CDC (culpa exclusiva da vítima e de terceiros), não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Ainda que assim não fosse, o Tribunal local reconheceu a inexigibilidade dos débitos e a necessidade de restituição dos valores, nos seguintes termos:
+Na ocasião e conforme a petição inicial (fl. 2), observou-se que a demandante vítima dos fatos delituosos não costumava realizar saques com o cartão, o que era feito pelo marido.
+Assim, a demandante, em situação de vulnerabilidade quando da ocorrência dos fatos, foi amedrontada com a ameaça de morte à sua família ou a ela mesma, pelos autores dos fatos delituosos, para o que não é preciso que estivessem munidos de armas, bastava a ameaça, tal como ocorreu.
+A Instituição bancária tem o dever de observar a condição da parte para bem atendê-la, na condição de consumidora.
+Há responsabilidade do banco na situação em questão, diante de uma deficiência na prestação do serviço, levando-se em consideração que foram feitos vários saques, com valores expressivos, em um único dia e no dia seguinte, bem como várias compras parceladas, também em valores significativos. Demonstrado assim, a falha na prestação do serviço do banco demandado, já que a demandante é pessoa idosa e não tem o costume de fazer numerosas movimentações bancárias diariamente.
+ .. .
+Os demandantes não requerem indenização de dano moral, pretendem apenas a inexigibilidade dos débitos e a restituição dos valores que lhes foram subtraídos em razão da ação dos criminosos.
+A situação vivenciada pela demandante, em que foi obrigada a efetuar saques bancários, sob grave ameaça, exigia da instituição bancária o dever de, no mínimo, verificar a razão das movimentações bancárias dissonantes com o padrão até então manifestado pela parte.
+Nas circunstâncias reconstituídas, de que foram feitos vários saques, com valores expressivos, em um único dia e no dia seguinte, bem como várias compras parceladas, também em valores significativos, justifica-se a procedência da ação para declarar a inexigibilidade dos débitos no cartão banricompras, de R$ 6.472,18, e condenar o banco à restituição dos valores, de R$ 16.500,00, referentes aos saques. Acaso o banco tenha debitado os valores referente ao cartão banricompras, também condena-se à restituição do que foi debitado na conta dos demandantes referente às compras relacionadas na petição e neste voto.
+Somadas as compras parceladas e os saques, alcança-se a soma de R$ 22.972,18, que é o valor atribuído à causa em julho de 2016.
+Nesse contexto, verifico que o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
