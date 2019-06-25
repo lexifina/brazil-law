@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de VITOR HUGO SANTOS DIAS no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Os autos dão conta de que o paciente foi condenado, por infração ao art. 157, §§ 2º, II e 2º-A, I, do Código Penal, à pena de 6 (seis) anos e 8 (oito) meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 16 (dezesseis) dias-multa.
+Irresignada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que lhe negou provimento nos termos do acórdão assim ementado (e-STJ fl. 39):
+APELAÇÃO - ROUBO MAJORADO - Apelo defensivo requerendo a absolvição por insuficiência de provas e, subsidiariamente, o abrandamento do regime prisional - Autoria e materialidade suficientemente comprovadas - Regime fechado que deve ser mantido ante a gravidade em concreto da conduta e periculosidade do agente - Apelo defensivo desprovido.
+No presente writ, a Defensoria Pública do Estado de São Paulo afirma que "o regime fechado para início do cumprimento de pena se mostrou exagerado e carente de fundamentação" (e-STJ fl. 4).
+Invoca o enunciado das Súmulas n. 718 e 719 do Supremo Tribunal Federal e 440 do Superior Tribunal de Justiça.
+Alega que "o "roubo a uma estabelecimento comercial", por si só, não indica reprovabilidade maior daquela que consta no §2º do art. 33 do CP; bem como se sabe que o "roubo à luz do dia", da mesma forma, não indica reprovabilidade maior que a constante no art. 33, §2º, do CP - circunstância que são genéricas, vagas, imprecisas e sem conteúdo definido, não condizentes com a individualizão da pena" (e-STJ fl. 6).
+Por isso, requer, inclusive liminarmente, que seja fixado o regime semiaberto como o de início de cumprimento da pena ao paciente (e-STJ fls. 3/8).
+A liminar foi indeferida (e-STJ fls. 52/54).
+O Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 92/98).
+É, em síntese, o relatório.
+Na espécie, o Tribunal local manteve a sentença, apresentando as seguintes justificativas para a fixação do regime inicial de cumprimento de pena (e-STJ fl. 48):
+Quanto ao regime, de rigor a manutenção da modalidade fechada.
+Conforme fez consignar o Magistrado a quo:
+O C. Superior Tribunal de Justiça já firmou posicionamento no sentido de que, no roubo, o emprego de arma de fogo constitui circunstância fática indicativa de gravidade concreta da conduta criminosa, motivo pelo qual, ainda que favoráveis as circunstâncias judiciais do artigo 59 do CP, é cabível, como no caso, a fixação de regime fechado para início de desconto da pena.
+Portanto, ante a gravidade concreta do crime cometido, em plena luz do dia, e a periculosidade demonstrada pelo agente, ao atuar em concurso de pessoas e com emprego de arma de fogo, deve ser mantido o regime inicial fechado, ainda que a pena base tenha sido aplicada no mínimo legal.
+Sobre o tema, rememoro que, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador deverá observar, na fixação do regime inicial, a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do CP). Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada quando apontados elementos fáticos demonstrativos da gravidade concreta do delito, o que não ocorreu na espécie.
+Confiram-se:
+DIREITO PENAL. HABEAS CORPUS. ART. 157, § 2.º, I E II, DO CÓDIGO PENAL. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA. REGIME INICIAL FECHADO. PENA-BASE. MÍNIMO LEGAL. ELEMENTOS INERENTES AO TIPO PENAL VIOLADO. GRAVIDADE ABSTRATA. DIREITO AO REGIME MENOS SEVERO. SÚMULAS 718 E 719 DO STF E SÚMULA 440 DO STJ. FLAGRANTE ILEGALIDADE. DETRAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE ELEMENTOS. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+ ..
+2. Para a exasperação do regime fixado em lei é necessária motivação idônea, nos termos das Súmulas n.º 718 e n.º 719 do Supremo Tribunal Federal e Súmula n.º 440 deste Superior Tribunal de Justiça.
+3. In casu, é evidente a ilegalidade, pois a pena-base foi fixada no mínimo legal, a sanção é inferior a 8 anos, o paciente é primário e as instâncias de origem não apresentaram motivação idônea a justificar o regime fechado, dissertando apenas sobre o emprego de arma de fogo, além de mencionarem circunstâncias vagas e genéricas que não constituem elementos aptos a amparar a fixação do regime inicial mais gravoso.
+ ..
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para estabelecer o regime semiaberto para o início do cumprimento da pena. (HC 351.840/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/05/2016, DJe 16/05/2016, grifei.)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. ART. 157, § 2º, INCISOS I E II, DO CP. INÉPCIA DA DENÚNCIA. NÃO CONFIGURAÇÃO. PEÇA INAUGURAL QUE ATENDE AOS REQUISITOS DO ART. 41 DO CPP. AMPLA DEFESA GARANTIDA. PRETENDIDA A EXCLUSÃO DA MAJORANTE DO EMPREGO DE ARMA. AUSÊNCIA DE APREENSÃO E PERÍCIA DA ARMA. DESNECESSIDADE. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA. FIXAÇÃO DE REGIME MAIS GRAVOSO. GRAVIDADE ABSTRATA. IMPOSSIBILIDADE. CONCESSÃO DE OFÍCIO. EFEITOS EXTENSIVOS AOS CORRÉUS.
+ ..
+4. Configura constrangimento ilegal a imposição do regime mais gravoso ao paciente primário, sem motivação concreta, em virtude, unicamente, da gravidade abstrata do delito de roubo majorado. Inteligência das Súmulas 440/STJ, 718 e 719/STF.
+5. Habeas corpus não conhecido, mas concedida a ordem, de ofício, para fixar regime semiaberto, com efeitos extensivos aos corréus. (HC 168.846/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/03/2016, DJe 28/03/2016, grifei.)
+HABEAS CORPUS SUBSTITUTIVO. INADMISSIBILIDADE. ROUBO CIRCUNSTANCIADO (EMPREGO DE ARMA DE FOGO E CONCURSO DE AGENTES). PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME DE CUMPRIMENTO DE PENA MAIS GRAVOSO. FUNDAMENTAÇÃO ABSTRATA. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 440/STJ E 718 E 719/STF. LIMINAR CONFIRMADA.
+ ..
+2. Haja vista a ausência de fundamentação concreta para se manter os pacientes em regime inicial mais gravoso do que a sanção imposta permite, vê-se, na decisão impugnada, a presença de manifesto constrangimento ilegal.
+3. Tendo em conta que as circunstâncias judiciais foram consideradas favoráveis e o quantum da pena aplicada é inferior a 8 anos, possível a fixação de regime inicial intermediário.
+4. Writ não conhecido. Ordem concedida de ofício para fixar aos pacientes o regime inicial semiaberto, confirmando-se a liminar. (HC 335.575/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/02/2016, DJe 08/03/2016, grifei.)
+Como se depreende da transcrição acima, o Tribunal de origem manteve o regime inicial fechado com alicerce apenas nas elementares do tipo penal e na gravidade em abstrato do delito, sem indicar elementos concretos dos autos que demonstrassem a real necessidade de imposição de regime prisional mais gravoso, o que vai de encontro ao teor dos enunciados das Súmulas n. 718 e 719 do Supremo Tribunal Federal, bem como do enunciado da Súmula n. 440 desta Corte Superior, que assim dispõem:
+Enunciado 718/STF: "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+Enunciado 719/STF: "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+Enunciado 440/STJ: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+Por oportuno, observa-se que a pena-base foi fixada no mínimo legal em razão da análise favorável das circunstâncias judiciais. Sob tal perspectiva, considerando que a pena definitiva foi fixada em 6 anos e 8 meses de reclusão, deve o regime de cumprimento da reprimenda ser o semiaberto, em atenção ao disposto no art. 33, §§ 2º, "b", e 3º, do Código Penal.
+À vista de tais pressupostos, concedo a ordem para fixar o regime inicial semiaberto para cumprimento da pena do paciente.
+Publique-se. Intimem-se.
