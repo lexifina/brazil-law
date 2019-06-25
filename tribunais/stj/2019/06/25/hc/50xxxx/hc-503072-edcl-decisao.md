@@ -1,0 +1,35 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PROCESSO PENAL. REDISCUSSÃO DE MATÉRIA SUFICIENTEMENTE DECIDIDA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão monocrática, de minha lavra, cuja ementa é a seguinte (fl. 129):
+"HABEAS CORPUS. PROCESSUAL PENAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. EXECUÇÃO PROVISÓRIA DA PENA PRIVATIVA DE LIBERDADE. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. POSSIBILIDADE. ORDEM DE HABEAS CORPUS DENEGADA"
+O Embargante sustenta, em síntese: a) que "em momento algum busca-se que esta Corte Superior reconheça a inidoneidade da jurisprudência do Supremo Tribunal Federal quanto à possibilidade da execução provisória da pena privativa de liberdade" (fl. 137); b) que se objetiva, na verdade, que "esta relatoria ao afirmar a aplicabilidade do citado entendimento jurisprudencial, anote que, no que toca à específica situação deste caso, o mais prudente, mais correto, a fim de evitar o constrangimento de se recolher pessoa injustamente ao cárcere, é aguardar o pronunciamento deste STJ sobre o mérito do vindouro recurso especial" (ibidem).
+Requer "sejam conhecidos e providos os presentes EMBARGOS DE DECLARAÇÃO opostos a fim de suprir omissão desta d. relatoria quanto a ponto específico da impetração" (fl. 138).
+É o relatório.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir eventual omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado.
+A obtenção de efeitos infringentes somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos indicados no supramencionado dispositivo legal, a alteração do julgado seja consequência inarredável da correção do referido vício, bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado.
+No caso, o Embargante não demonstrou, em suas argumentações, a ocorrência de quaisquer das hipóteses legais ensejadoras dos embargos declaratórios, pois se limita a alegar a existência de omissão na decisão quanto à possibilidade de se deferir, na hipótese, a execução provisória da pena "para após o julgamento do mérito da questão perante este STJ" (fl. 137).
+No entanto, quanto à referida questão, a decisão embargada consignou o seguinte (fl. 130):
+" ..
+O Supremo Tribunal Federal, no julgamento do ARE n.º 964.246 RG/SP, julgado sob o regime de repercussão geral, reafirmou a jurisprudência dominante sobre a matéria no sentido de que " ..  a execução provisória de acórdão penal condenatório proferido em grau recursal, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal" (ARE 964.246 RG, Relator Ministro TEORI ZAVASCKI, DJe de 25/11/2016).
+No mesmo sentido:
+" ..
+2. O Plenário do Supremo Tribunal Federal, no julgamento do HC 126.292/SP, por maioria de votos, firmou o entendimento de que é possível a execução provisória de acórdão penal condenatório, ainda que sujeito a recursos de natureza extraordinária, não havendo que se falar em ofensa ao princípio da presunção de inocência, compreensão que foi recentemente confirmada pelo aludido colegiado ao apreciar as ADCs 43 e 44.
+3. Em atenção ao que decidido pelo Pretório Excelso, este Sodalício passou a admitir a execução provisória da pena, ainda que determinada em recurso exclusivo da defesa, afastando as alegações de reformatio in pejus e de necessidade de comprovação da presença dos requisitos previstos no artigo 312 do Código de Processo Penal, uma vez que a prisão decorrente da decisão que confirma a condenação encontra-se na competência do juízo revisional, não dependendo da insurgência da acusação. Precedentes.
+4. Na espécie, à luz do que decidido pela Corte Suprema, não há qualquer ilegalidade na execução provisória da pena imposta à paciente, uma vez que já esgotada a instância ordinária, aguardando-se atualmente, o julgamento dos reclamos de natureza extraordinária interpostos pela sua defesa.
+5. Agravo regimental desprovido." (AgRg no HC 440.459/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/06/2018, DJe 01/08/2018; sem grifos no original.)
+ .. ."
+Como se vê, constou da decisão embargada que é adequada a execução provisória da pena após esgotadas as instâncias ordinárias, mesmo que, no caso, ainda seja cabível a interposição de recurso especial ou extraordinário.
+Desse modo, em verdade, verifica-se que os embargos de declaração foram opostos com o inequívoco intento de viabilizar novos debates a respeito de assuntos já decididos, o que sabidamente não se coaduna com a sua finalidade processual.
+Ilustrativamente:
+"PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. NATUREZA DECLARATÓRIA. CAUSA INTERRUPTIVA. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O acórdão está devidamente fundamentado e não incorreu em omissão, contradição ou obscuridade. O embargante pretende rediscutir o tema julgado pelo agravo, finalidade a que não se destinam os embargos de declaração.
+2. O acórdão que apenas confirma a sentença de primeiro grau, sem decretar nova condenação por crime diverso, não configura marco interruptivo da prescrição, ainda que haja reforma considerável na dosimetria da pena. Precedente.
+3. Embargos de declaração rejeitados." (EDcl nos EDcl no AgRg no REsp 1.629.674/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/06/2018, DJe 12/06/2018; sem grifos no original.)
+"PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INFUNDADO. NÍTIDO CARÁTER PROTELATÓRIO. DESVIRTUAMENTO DO CÂNONE DA AMPLA DEFESA. ABUSO DE DIREITO. DETERMINAÇÃO DE REMESSA DOS AUTOS AO STF. EMBARGOS NÃO CONHECIDOS.
+1. A recorribilidade vazia, infundada, como in casu, tão somente com nítido intuito protelatório, configura abuso do direito de recorrer e não é admissível em nosso ordenamento jurídico, notadamente em respeito aos postulados da lealdade e boa fé processual, além de se afigurar desvirtuamento do próprio cânone da ampla defesa.
+2. O manejo recursal com finalidade meramente protelatória autoriza a remessa dos autos ao Supremo Tribunal Federal, tendo em vista a pendência de julgamento de agravo em recurso extraordinário anteriormente interposto.
+3. Embargos de declaração não conhecidos, com a determinação de encaminhamento dos autos ao STF, após a publicação do acórdão, independentemente da eventual interposição de outro recurso." (EDcl nos EDcl no AgRg no AREsp 1.194.589/AM, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/04/2018, DJe 27/04/2018; sem grifos no original.)
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se
