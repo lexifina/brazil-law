@@ -1,0 +1,77 @@
+EMENTA
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. PRETENSÃO DE CONCESSÃO DE EFEITO SUSPENSIVO A APELAÇÃO. COMPETÊNCIA DO DESEMBARGADOR RELATOR DO TRIBUNAL AO QUAL É DIRIGIDO O RECURSO. COMPETÊNCIA DESTA CORTE SUPERIOR AINDA NÃO INAUGURADA. JURISDIÇÃO ORDINÁRIA NÃO EXAURIDA. INEXISTÊNCIA DE RECURSO ESPECIAL A AMPARAR A PRESTAÇÃO JURISDICIONAL DESTA INSTÂNCIA EXTRAORDINÁRIA. MANIFESTO DESCABIMENTO DA TUTELA PROVISÓRIA REQUERIDA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do art. 1.012, § 3º, do CPC/2015, a competência para analisar o pedido de concessão de efeito suspensivo a apelação é do Desembargador relator do Tribunal ao qual é dirigido o recurso.
+2. Consoante a jurisprudência desta Corte Superior, para que se inaugure esta via extraordinária, é imprescindível o exaurimento da jurisdição ordinária e a existência de meio processual hábil a essa finalidade, sobretudo o recurso especial, ainda que pendente do juízo de admissibilidade de competência do Tribunal de origem. Embora se admita a flexibilização dessa regra, tal não ocorre na espécie.
+3. Na hipótese em estudo, como nem sequer foi julgada a apelação e, consequentemente, não foi esgotada a jurisdição do Tribunal a quo - imprescindível ao manuseio do recurso especial (que também não foi interposto), consoante o disposto no art. 105, III, da Constituição Federal -, não se cogita da análise da sustentada ilegalidade por esta Corte, ante a pretensão, per saltum, de abertura desta instância superior.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por [NOME] contra decisão monocrática desta relatoria que indeferiu o pedido de tutela provisória, apresentada com o intuito de se conceder efeito suspensivo à apelação interposta perante o Tribunal de Justiça do Estado do Rio de Janeiro (e-STJ, fls. 1.317-1.321).
+Em breve retrospecto, destaca-se que a requerente sustentou no seu pedido inicial o cabimento da tutela provisória analisada, em razão da iminência de sofrer constrições flagrantemente ilegais em seu patrimônio, diante de conduta das instâncias ordinárias, nos termos da seguinte narrativa (e-STJ, fls. 70-71):
+Consoante suscitamos ao longo desta, ante decisão judicial flagrantemente inconstitucional que julgava lícita a odiosa prática de cobrança de cheque caução, em contrariedade a Súmula 302 desse Egrégio Superior Tribunal de Justiça, movemos a competente Ação Declaratória de Nulidade de Decisão Judicial, com abalizamento tanto em arestos doutrinários como jurisprudenciais, consoante acima exposto.
+Ocorreu que o juízo de piso entendeu não ser possível tal ação, Querela Nullitatis, pelo que indeferiu a inicial, em razão do que apresentamos a competente Apelação com Pedido de Liminar para o relator.
+No entanto, em virtude de diversos erros da serventia de tal juízo, até hoje nossa Apelação se encontra parada sem ser remetida ao Tribunal de Justiça para julgamento, em razão do que na iminência da Autora ter seu salário penhorado, além de ser submetida a penhora portas adentro em nome de tal cheque caução para atendimento médico hospitalar de emergência, movemos a Medida Cautelar tombada sob o Nº 0033274-23.2018.8.19.0000.
+Porém, o juízo ao invés de analisar a Liminar pleiteada em tal Medida Cautelar, como determina a Lei, passou a discutir a questão da Gratuidade de Justiça, se recusando a analisar a Liminar urgente requerida, ao arrepio da legislação processual e da Carta da República consoante acima suscitado.
+Havendo premente necessidade por parte da Autora, restou a mesma propor a Medida Cautelar tombada sob o Nº 0039257-03.2018.8.19.0000, dirigida a presidência do Tribunal de Justiça a quo para que fosse apreciada a Liminar pleiteada. No entanto, até hoje, não foi nossa Liminar sequer analisada, e tudo isso enquanto a Autora se encontra na iminência de sofrer medidas expropriatórias em seu patrimônio.
+Ante tal situação excepcional, em que todas as medidas anteriores, quais sejam a Liminar em recurso de Apelação, a Medida Cautelar tombada sob o Nº 0033274-23.2018.8.19.0000, e aquela tombada sob o Nº 0039257-03.2018.8.19.0000, foram esvaziadas de efetividade na medida em que as liminares não são apreciadas, só nos resta o manejo da presente frente a esse Egrégio Superior Tribunal de Justiça.
+Defendeu que, embora ainda não tenha sido interposto o recurso especial devido, a jurisprudência desta Corte admite, em casos excepcionais, o manuseio da tutela de urgência, estando devidamente demonstrados o periculum in mora e o fumus boni iuris (art. 300 do CPC/2015), como na espécie, em que a demora na análise do pedido liminar, formulado na apelação interposta perante o Tribunal de Justiça do Estado do Rio de Janeiro, pode causar-lhe prejuízo, com a constrição ilegal do seu patrimônio, dada a probabilidade de reversão na apelação.
+Consubstanciada nessas razões, requereu o deferimento da tutela provisória a fim de impedir que se pratique qualquer ato expropriatório dos seus bens no Processo de n. 0105434-44.1998.8.19.0001 até que se decida a respeito da constitucionalidade do título executivo (nos autos de n. 0314981-60.2017.8.19.0001) que se formou em seu desfavor.
+O pedido foi indeferido por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 1.317):
+PEDIDO DE TUTELA PROVISÓRIA. PRETENSÃO DE CONCESSÃO DE EFEITO SUSPENSIVO A APELAÇÃO. COMPETÊNCIA DESTA CORTE SUPERIOR AINDA NÃO INAUGURADA. JURISDIÇÃO ORDINÁRIA NÃO EXAURIDA. INEXISTÊNCIA DE RECURSO ESPECIAL A AMPARAR A PRESTAÇÃO JURISDICIONAL DESTA INSTÂNCIA EXTRAORDINÁRIA. PEDIDO INDEFERIDO.
+Nas razões do presente agravo interno (e-STJ, fls. 1.326.1.375), a agravante sustenta que, perpetradas ilegalidades pelas instâncias ordinárias, em razão da demora na análise das liminares requeridas, mostra-se cabível a tutela provisória pleiteada a esta Corte Superior, pois, não havendo outro meio para se afastar tal abuso, deve-se privilegiar o direito material em detrimento do direito processual, consoante preconiza o princípio da instrumentalidade das formas, além de admitir-se o deferimento desse pedido por juízo incompetente, em casos de urgência, como na hipótese.
+Ademais, reitera a presença do fumus boni iuris e do periculum in mora.
+Impugnação apresentada às fls. 1.441-1.445 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. PRETENSÃO DE CONCESSÃO DE EFEITO SUSPENSIVO A APELAÇÃO. COMPETÊNCIA DO DESEMBARGADOR RELATOR DO TRIBUNAL AO QUAL É DIRIGIDO O RECURSO. COMPETÊNCIA DESTA CORTE SUPERIOR AINDA NÃO INAUGURADA. JURISDIÇÃO ORDINÁRIA NÃO EXAURIDA. INEXISTÊNCIA DE RECURSO ESPECIAL A AMPARAR A PRESTAÇÃO JURISDICIONAL DESTA INSTÂNCIA EXTRAORDINÁRIA. MANIFESTO DESCABIMENTO DA TUTELA PROVISÓRIA REQUERIDA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do art. 1.012, § 3º, do CPC/2015, a competência para analisar o pedido de concessão de efeito suspensivo a apelação é do Desembargador relator do Tribunal ao qual é dirigido o recurso.
+2. Consoante a jurisprudência desta Corte Superior, para que se inaugure esta via extraordinária, é imprescindível o exaurimento da jurisdição ordinária e a existência de meio processual hábil a essa finalidade, sobretudo o recurso especial, ainda que pendente do juízo de admissibilidade de competência do Tribunal de origem. Embora se admita a flexibilização dessa regra, tal não ocorre na espécie.
+3. Na hipótese em estudo, como nem sequer foi julgada a apelação e, consequentemente, não foi esgotada a jurisdição do Tribunal a quo - imprescindível ao manuseio do recurso especial (que também não foi interposto), consoante o disposto no art. 105, III, da Constituição Federal -, não se cogita da análise da sustentada ilegalidade por esta Corte, ante a pretensão, per saltum, de abertura desta instância superior.
+4. Agravo interno desprovido.
+
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Os argumentos delineados no presente inconformismo não se mostram suficientes a reformar a decisão agravada.
+Consoante exarado na deliberação unipessoal deste signatário, não se antevê a competência desta Corte Superior para a apreciação da respectiva tutela provisória de urgência.
+Isso porque, nos termos do art. 1.012, § 3º, do CPC/2015, a competência para analisar o pedido de concessão de efeito suspensivo a apelação é do Desembargador relator do Tribunal ao qual é dirigido o recurso, in verbis:
+Art. 1.012. A apelação terá efeito suspensivo.
+§ 1º Além de outras hipóteses previstas em lei, começa a produzir efeitos imediatamente após a sua publicação a sentença que:
+I - homologa divisão ou demarcação de terras;
+II - condena a pagar alimentos;
+III - extingue sem resolução do mérito ou julga improcedentes os embargos do executado;
+IV - julga procedente o pedido de instituição de arbitragem;
+V - confirma, concede ou revoga tutela provisória;
+VI - decreta a interdição.
+ ..
+§ 3º O pedido de concessão de efeito suspensivo nas hipóteses do § 1º poderá ser formulado por requerimento dirigido ao:
+I - tribunal, no período compreendido entre a interposição da apelação e sua distribuição, ficando o relator designado para seu exame prevento para julgá-la;
+II - relator, se já distribuída a apelação.
+Do que se depreende dos autos, a medida intentada foi veiculada com o escopo de atribuir-se efeito suspensivo à apelação interposta perante o TJRJ, em que se discutem: i) a legalidade da exigência do hospital de cheque caução para a admissão de paciente em situação de urgência, em flagrante violação aos princípios constitucionais da moralidade, razoabilidade e dignidade da pessoa humana; e ii) a violação à coisa julgada.
+Contudo, para que se inaugure esta via extraordinária é imprescindível o exaurimento da jurisdição ordinária e a existência de meio processual hábil a essa finalidade, sobretudo o recurso especial, ainda que pendente do juízo de admissibilidade de competência do Tribunal de origem.
+Nesse sentido (sem grifo no original):
+AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. PROCESSUAL CIVIL. PRETENSÃO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL AINDA NÃO INTERPOSTO. APLICAÇÃO, POR ANALOGIA, DAS SÚMULAS 634 E 635, AMBAS DO STF. AGRAVO DESPROVIDO.
+1. Conforme dispõem as Súmulas 634 e 635 do STF, aplicadas por analogia, compete ao Presidente do Tribunal de origem a análise e julgamento de medida cautelar para concessão de efeito suspensivo a recurso especial pendente de admissibilidade na instância ordinária.
+Excepcionalmente, o STJ afasta a incidência dessas Súmulas na hipótese de manifesta ilegalidade do v. acórdão estadual.
+2. Na espécie, é inviável a análise de eventual manifesta ilegalidade, pois nem sequer foi esgotada a jurisdição do eg. Tribunal Estadual, uma vez que estão pendentes de julgamento embargos de declaração opostos ao v. acórdão proferido em sede de agravo de instrumento. Não se trata, portanto, de recurso especial pendente de admissibilidade, pois o acórdão estadual ainda será integrado por outro que vier a julgar os embargos de declaração.
+3. Agravo regimental desprovido.
+(AgRg na MC 25.612/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/06/2017, DJe 20/06/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. PEDIDO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. SÚMULAS 634 E 635 DO STJ. HIPÓTESE EXCEPCIONAL CARACTERIZADA. FORNECIMENTO DE MEDICAMENTO PELO ESTADO. PRESENÇA DOS REQUISITOS AUTORIZADORES DA MEDIDA: PLAUSIBILIDADE DO DIREITO INVOCADO E PERIGO DA DEMORA DA PRESTAÇÃO JURISDICIONAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O Recurso Especial não dispõe de efeito suspensivo, admitindo-se, portanto, a execução provisória do acórdão impugnado.
+Por isso, este Superior Tribunal de Justiça tem admitido, em circunstâncias excepcionais, a concessão de efeito suspensivo aos recursos de sua competência constitucional (art. 34, V e VI, e 288 do RISTJ), por meio de Medida Cautelar Inominada, desde que satisfeitos os requisitos fumus boni juris e periculum in mora.
+2. A admissibilidade, em tese, da Ação Cautelar para esse fim (concessão de efeito suspensivo a Recurso Especial), está intrinsecamente vinculada à possibilidade de êxito do Apelo Nobre;
+dest"arte, cabe ao Relator proceder a um juízo prévio e perfunctório a respeito da perspectiva de êxito do referido recurso, uma vez que, sendo o mesmo inadmissível, improcedente ou contrário à jurisprudência dominante na Corte, inviável também será o pedido cautelar.
+3. É imprescindível, ainda, para a viabilidade do pleito cautelar, que esteja inaugurada a competência desta Corte para a sua análise, o que só se perfectibiliza a partir do juízo de admissibilidade do Recurso Especial pelo Tribunal a quo (Súmulas 634 e 635 do STF); todavia, em hipóteses excepcionalíssimas, quando verificada a patente possibilidade de êxito no Apelo Raro e for grande e visível o perigo da demora, tem sido admitida a apreciação de Medida Cautelar, ainda quando pendente o juízo de admissibilidade pelo Tribunal de origem, ou quando inadmitido no Tribunal de origem.
+4. O periculum in mora se evidencia no risco que a paralisação do fornecimento do medicamento pode causar ao tratamento da séria moléstia enfrentada pela parte agravada. Por sua vez, o fumus boni juris se assenta no fato de que a falta de registro do medicamento na ANVISA não é circunstância impeditiva do fornecimento do medicamento, por haver fundado receio de falecimento do paciente impetrante e por se tratar de fármaco consagrado no meio médico.
+5. Desta forma, presentes os requisitos fumus boni juris e periculum in mora, a medida cautelar deve ser concedida.
+6. Agravo Regimental da FAZENDA DO ESTADO DE SÃO PAULO a que se nega provimento.
+(AgRg na MC 23.747/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 08/09/2015, DJe 23/09/2015)
+Na hipótese em estudo, como nem sequer foi julgada a apelação e, consequentemente, não foi esgotada a jurisdição do Tribunal a quo - imprescindível ao manuseio do recurso especial (que também não foi interposto), consoante o disposto no art. 105, III, da Constituição Federal -, não se cogita da análise da sustentada ilegalidade por esta Corte, ante a pretensão, per saltum, de abertura desta instância superior.
+Enfatiza-se que a excepcionalidade defendida e supostamente amparada nos acórdãos arrolados na petição em análise refere-se a hipótese distinta, em que já interposto o apelo especial cujo juízo de admissibilidade ainda não foi exercido na origem, não se aplicando, portanto, ao presente pleito.
+Ademais, não se desconhece que o princípio da instrumentalidade das formas prioriza o conteúdo em detrimento da forma, quando a inobservância desta não causar prejuízo às partes. Todavia, tal preceito não tem o condão de superar eventual supressão de instância, como a que se evidencia na espécie.
+Por fim, ainda que se cogite de flagrante ilegalidade cometida pelo Poder Judiciário, dispõe a parte lesada de instrumento processual hábil a rechaçar a ilicitude evidenciada, que não o pleito examinado.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
