@@ -1,0 +1,4 @@
+DECISÃO
+Depreende-se dos autos que, na fase de conhecimento, houve o deferimento do pedido de gratuidade de justiça. Conforme orientação deste Tribunal, quando a assistência judiciária gratuita for deferida, a eficácia da concessão do benefício prevalecerá, independentemente de renovação de seu pedido, em todas as instâncias e para todos os atos do processo - alcançando, inclusive, as ações incidentais ao processo de conhecimento, os recursos, as rescisórias, assim como o subsequente processo de execução e eventuais embargos à execução -, somente perdendo sua eficácia por expressa revogação pelo Juiz ou Tribunal (Informativo 557/STJ).
+Assim, impõe-se a aplicação do disposto no art. 98, § 3º, do CPC/2015, a fim de que a condenação em honorários de advogado fique sob condição suspensiva de exigibilidade, na forma e no prazo previstos no preceito legal referido.
+Publique-se. Intimem-se.
