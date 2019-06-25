@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. O agravante deixou de refutar a aplicação da Súmula 7/STJ, o que atrai o impeditivo da Súmula 182 deste Superior Tribunal, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Ainda que ultrapassado tal óbice, verifica-se que a Corte de origem consignou que "uma vez que não consta data de trânsito em julgado na certidão de fls.165/166, bem como considerando que o documento de fls. 167 sequer indica o número dos autos da condenação, inviável o reconhecimento da agravante da reincidência" (e-STJ, fl. 668). Assim, para alterar o entendimento firmado pelo Tribunal a quo conforme pleiteado pela defesa, seria necessário analisar novamente o contexto probatório, o que é vedado nesta Corte Superior pela Súmula n. 7/STJ.
+3. Agravo regimental não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra a decisão de fls. 762-765 (e-STJ), que não conheceu do agravo em recurso especial com fundamento no óbice da Súmula 182 do STJ.
+O agravante alega, em síntese, que: a) "a impugnação específica dos fundamentos do acórdão foi suficientemente demonstrada, cumprindo-se o princípio da dialeticidade, tendo em vista a completa contraposição, pelo recurso especial, das razões de decidir do Tribunal a quo" (e-STJ, fl. 776); b) "o agravo ministerial é todo no sentido de demonstrar que a apreciação do recurso especial não esbarra na discussão de fatos ou provas, senão aqueles previstos no próprio acórdão recorrido, o que é plenamente aceito pela jurisprudência como revaloração jurídica. Resta claro, portanto, que o agravo no recurso especial enfrentou o único argumento lançado pela denegatória, de maneira suficiente, o que infirma a ausência de impugnação específica" (e-STJ, fl. 778); c) "o recurso especial buscou demonstrar que o Tribunal goiano descumpriu decisão do Superior Tribunal de Justiça ao reapreciar os embargos declaratórios do Ministério Público e, por conseguinte, negou vigência aos artigos 63 e 64, inciso I, do Código Penal ao desconsiderar a existência de sentença condenatória com trânsito em julgado comprovado nos autos" (e-STJ, fl. 779); e d) "para a apreciação do recurso basta, portanto, a revaloração jurídica dos elementos do acórdão" (e-STJ, fl. 779).
+Requer a reconsideração da decisão agravada ou a submissão do presente agravo regimental ao crivo deste órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. O agravante deixou de refutar a aplicação da Súmula 7/STJ, o que atrai o impeditivo da Súmula 182 deste Superior Tribunal, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Ainda que ultrapassado tal óbice, verifica-se que a Corte de origem consignou que "uma vez que não consta data de trânsito em julgado na certidão de fls.165/166, bem como considerando que o documento de fls. 167 sequer indica o número dos autos da condenação, inviável o reconhecimento da agravante da reincidência" (e-STJ, fl. 668). Assim, para alterar o entendimento firmado pelo Tribunal a quo conforme pleiteado pela defesa, seria necessário analisar novamente o contexto probatório, o que é vedado nesta Corte Superior pela Súmula n. 7/STJ.
+3. Agravo regimental não provido.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Não obstante os argumentos trazidos pelo agravante, estes não possuem o condão de infirmar os fundamentos insertos na decisão agravada.
+Consoante anteriormente explicitado, o Ministério Público estadual deixou de refutar especificamente a aplicação da Súmula n. 7/STJ acima referenciada, limitando-se afirmar, de forma genérica, que "A fim de comprovar a inadequação do juízo de admissibilidade negativo, fulcrado na incidência da Súmula 07 do STJ, importa trazer à colação as razões do recurso especial interposto pelo Ministério Público acerca da omissão do Tribunal de Justiça" (e-STJ, fl. 723).
+Com efeito, alegação genérica não supre, evidentemente, a exigência de impugnação da decisão denegatória, na medida em que é imprescindível demonstrar, de forma clara e objetiva, com o devido desenvolvimento argumentativo, o desacerto da decisão agravada em relação a cada um de seus fundamentos, no caso, a necessidade do revolvimento do conjunto fático-probatório.
+Ocorre que, de fato, tal situação atrai o impeditivo da Súmula n. 182 deste Superior Tribunal, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Vejam-se os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 27/8/2014.
+Ademais, deve-se observar que o art. 932 do Código de Processo Civil de 2015 reafirmou a orientação do STJ ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Registre-se por fim que "(..), a impugnação a que se refere o enunciado da Súmula 182 é a que enfrenta, especificamente, o conteúdo do fundamento, e não a que o faz de maneira genérica" (EDcl no AgRg no AREsp 778.294/BA, rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, j.22/11/2016, DJe 5/12/2016).
+Ainda que ultrapassado tal óbice, verifica-se que a Corte de origem consignou que "uma vez que não consta data de trânsito em julgado na certidão de fls.165/166, bem como considerando que o documento de fls. 167 sequer indica o número dos autos da condenação, inviável o reconhecimento da agravante da reincidência" (e-STJ, fl. 668).
+Assim, para alterar o entendimento firmado pelo Tribunal a quo conforme pleiteado pela defesa, seria necessário analisar novamente o contexto probatório, o que é vedado nesta Corte Superior pela Súmula n. 7/STJ.
+A propósito, vejam-se estes precedentes:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO. PRETENSÃO DE ABSOLVIÇÃO. AUSÊNCIA DE DOLO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 07/STJ. VIOLAÇÃO DO ART. 366 DO CPP. INOCORRÊNCIA. SUSPENSÃO DO PROCESSO OBRIGATÓRIA. INCOMPATÍVEL COM ATO DECISÓRIO. DOSIMETRIA. ANTECEDENTES CRIMINAIS. EXISTÊNCIA DE CONDENAÇÃO COM TRÂNSITO EM JULGADO. SÚMULA 07/STJ. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS.
+I - A reforma do acórdão, para ser o agravante MARCOS absolvido, por ausência de dolo, é, claramente, pretensão que demanda amplo revolvimento fático-probatório, esbarrando no óbice da Súmula 07/STJ.
+II - Na hipótese, um dos corréus não foi encontrado para a realização da citação pessoal e, citado por edital, não indicou advogado para apresentar resposta à acusação. Dessa forma, deve ser aplicado o disposto no art. 366 do Código de Processo Penal ("Se o acusado, citado por edital, não comparecer, nem constituir advogado, ficarão suspensos o processo e o curso do prazo prescricional, podendo o juiz determinar a produção antecipada das provas consideradas urgentes e, se for o caso, decretar prisão preventiva, nos termos do disposto no art. 312"), não se admitindo o prosseguimento da ação criminal até sentença final.
+III - A via do recurso especial não é adequada para a reforma da premissa fática concernente à existência de condenação com anotação de trânsito em julgado, pois essa medida implicaria, ao contrário do que alegado neste agravo interno, inevitável revolvimento fático-probatório, atraindo o óbice da Súmula 07/STJ.
+ ..
+Agravo regimental desprovido." (AgRg no REsp 1691140/ES, rel. Ministro FELIX FISCHER, QUINTA TURMA, j. 17/5/2018, DJe 25/5/2018).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PERSONALIDADE. SÚMULA N. 7/STJ. VIOLAÇÃO DA SÚMULA N. 444/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. QUANTIDADE E NATUREZA DAS DROGAS. FUNDAMENTOS VÁLIDOS E CONCRETOS. REGIMENTAL IMPROVIDO.
+1. Não é possível depreender das certidões de antecedentes criminais que se tratavam de processos ainda em curso. Incidência da Súmula n. 7/STJ.
+ ..
+4. Agravo regimental improvido." (AgRg no AREsp 1111506/MG, rel. Ministro NEFI CORDEIRO, SEXTA TURMA, j. 19/4/2018, DJe 2/5/2018).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
