@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO INFIRMADO ESPECIFICAMENTE. ARTIGO 1.021, § 1º, CPC/2015. AGRAVO INTERNO MANIFESTAMENTE INADMISSÍVEL. ARTIGO 1.021, § 4º, CPC/2015.
+AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator. Impedido o Sr. Ministro Marco Aurélio Bellizze. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno no agravo em recurso especial interposto por [NOME] contra decisão monocrática de minha lavra assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. AGRAVO NÃO CONHECIDO.
+Nas razões do agravo, o recorrente pugna pela modificação da decisão, argumentando que "a mera leitura do v. Acórdão Recorrido mostra que ali não foi dita nem mesmo uma só palavra sobre a Tese Recursal posta pelo Autor em sua Apelação Cível". Entende que a decisão agravada "incorreu em equívoco, naquilo em que considerou que a Prestação Jurisdicional fora bem entregue pela C. Corte Estadual". Afirma que lhe parece que tudo que "escreve nestes autos sofre o PECULIAR DESTINA DE ABSOLUTAMENTE NÃO SER APRECIADO, como se o Autor escrevesse com tinta invisível". Destaca que teria sustentado que "A CONTAGEM DO PRAZO DECADENCIAL APENAS SE INICIA A PARTIR DA CIÊNCIA INEQUÍVOCA DO VÍCIO OU PREJUÍZO", o que não teria sido apreciado pelo Tribunal de origem. Arremata reiterando que a decisão agravada "incorreu em equívoco ao asseverar que o Autor deixara de impugnar um dos Fundamentos da Decisão Estadual Inadmissora", pois no "v. Acórdão Recorrido, nem mesmo uma só palavra foi dita sobre a Tese Recursal do Autor Referente à Contagem do Prazo Decadencial a partir da Data da Ciência de que a Mudança de Plano de Benefício lhe causava dano".
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO INFIRMADO ESPECIFICAMENTE. ARTIGO 1.021, § 1º, CPC/2015. AGRAVO INTERNO MANIFESTAMENTE INADMISSÍVEL. ARTIGO 1.021, § 4º, CPC/2015.
+AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.
+
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes colegas, o agravo interno revela-se manifestamente inadmissível, razão por que comino a multa do art. 1.021, § 4º, do Código de Processo Civil de 2015, que fixo em 1% sobre o valor atualizado da causa.
+Com efeito, em atenção ao princípio da dialeticidade, "as razões recursais devem impugnar, com transparência e objetividade, os fundamentos suficientes para manter íntegro o decisum recorrido" (AgRg no Ag 1027795/RS, Rel. Min. PAULO FURTADO (Desembargador Convocado do TJ/BA), Terceira Turma, DJ de 18.06.2010).
+Na espécie, o agravo em recurso especial sequer foi conhecido, pois as razões apresentadas no agravo além de não impugnarem o fundamento da decisão agravada, acabaram confirmando-o.
+Como dito na decisão agravada, e confirmando pelo agravante, sua tese recursal restringe-se a uma questão processual, a alegada recusa do Tribunal de origem em entregar ao agravante prestação jurisdicional plena, pois teria permanecido omisso, apesar da oposição de embargos declaratórios, acerca da tese de que a contagem do prazo decadencial deveria levar em consideração a data da efetiva ciência do vício que maculava a declaração de vontade.
+Como também dito na decisão agravada, o próprio agravante, ao transcrever o acórdão recorrido nas razões de seu recurso, tornou inequívoco que o Tribunal de origem não foi omisso quanto à tese recursal, mas sim a rejeitou. Consignou-se que o trecho do acórdão transcrito torna inequívoco que o acórdão está lastreado no artigo 178 do Código Civil, que prevê de maneira expressa que a contagem do prazo para que se possa pleitear a anulação do negócio jurídico tem como termo "o dia em que se realizou o negócio jurídico".
+Nestes termos, é incompreensível como o recorrente pretende impugnar o fundamento da decisão agravada com a mera repetição da assertiva de que no "v. Acórdão Recorrido, nem mesmo uma só palavra foi dita sobre a Tese Recursal do Autor Referente à Contagem do Prazo Decadencial a partir da Data da Ciência de que a Mudança de Plano de Benefício lhe causava dano".
+Reitere-se, as razões apresentadas no agravo em recurso especial confirmaram que o Tribunal de origem negou provimento à tese recursal ao considerar que "o prazo decadencial de 04 (quatro) anos para reclamar qualquer vício de consentimento decorrente do termo de migração pactuado no ano 2000, há muito se operou", pois está claramente lastreado no artigo 178 do Código Civil, que determina de maneira expressa que a contagem deste prazo inicia no "dia em que se realizou o negócio jurídico".
+A decisão está calcada em um fato, não em mera conjectura, sendo absolutamente incompreensível como pretende o agravante impugnar a este fundamento com a mera rejeição do que foi dito. Permanece incompreensível como poderia o agravante sustentar ser a decisão omissa quanto à sua tese quando considera que a contagem do prazo prescricional deve utilizar como termo a data do "termo de migração pactuado no ano 2000".
+Não há qualquer argumento novo que possa influir no quanto foi decidido, havendo tão somente a reiteração de argumentos expressamente apreciados e rejeitados.
+Como se pode observar, o recorrente novamente deixou de impugnar os fundamentos da decisão recorrida, impondo novamente o não conhecimento de seu recurso.
+Não havendo um único argumento no presente agravo interno minimamente pertinente, há de se reconhecer a sua manifesta inadmissibilidade, o que impõe a aplicação da multa prevista no artigo 1.021, § 4º, do Código de Processo Civil de 1973, que arbitro em seu patamar mínimo, 1% (um por cento) sobre o valor da causa atualizado.
+Ante o exposto, com base no art. 1.021, §§ 1º e 4º, do CPC/2015, NÃO CONHEÇO do agravo interno no agravo em recurso especial, com aplicação de multa.
+É o voto.
