@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto com fulcro no art. 105, inciso III, alínea "a", da Constituição Federal.
+Consta dos autos que o recorrente foi condenado, em primeira instância, às penas de 09 meses e 10 dias de detenção, em regime inicial aberto, e pagamento de 14 dias-multa, como incurso nas sanções do art. 138, caput, c.c. o art. 141, incisos II e III, ambos do Código Penal (calúnia - fls. 216/221).
+Interposta apelação, pela Defesa, o Tribunal de origem deu parcial provimento ao recurso para reduzir as penas ao ora recorrente para 8 meses de detenção e pagamento de 13 dias-multa, mantidos, no mais, os termos da condenação (fls. 272/280).
+Opostos embargos de declaração, pela Defesa, foram conhecidos e rejeitados (fls. 287/291).
+Opostos novos embargos de declaração suscitando a incompetência do Juízo comum, também foram rejeitados. O acórdão recebeu a seguinte ementa, verbis (fl. 303).
+Embargos de declaração interpostos em embargos de declaração - Matéria diversa da anteriormente debatida - Admissibilidade Nada obsta sejam interpostos embargos de declaração em acórdão referente a outros embargos de declaração, se o novo recurso versa matéria diversa dos embargos originalmente interpostos.
+Embargos de declaração - Interposição intempestiva - Não conhecimento - Ressalvada hipótese de arguição de matéria de ordem pública Não se conhecem embargos de declaração se intempestivos, por terem sido interpostos fora do prazo de dois dias, contados a partir da intimação do decisório hostilizado, a teor do que consta do art. 619 do CPP. Ficam ressalvados, contudo, os casos nos quais a matéria deva ser conhecida de ofício.
+Incompetência absoluta - Juizado Especial Criminal.
+Infração penal que ultrapassa o quantum da pena prevista para a configuração do crime de menor potencial ofensivo.
+O JECRIM é incompetente para apreciar causas versando infrações cuja pena máxima prevista em abstrato seja superior a dois anos, já consideradas eventuais causas de aumento e de diminuição.
+Diante disso, a Defesa interpôs recurso especial alegando violação ao art. 61 da Lei n. 9.099/95.
+Sustenta que a norma prevista no art. 61 da Lei n. 9.099/95 especifica que será considerado crime de menor potencial ofensivo, para fins de fixar a competência do Juizado Especial Criminal, aqueles cuja pena em abstrato não ultrapassem 2 anos, considerada a pena estabelecida no tipo penal básico, sem os eventuais acréscimos em abstrato.
+Alega que "se a definição de crime de menor potencial ofensivo deriva do Art. 98, I da CF, acréscimos em abstrato não podem modificar esse conceito de índole constitucional" (fl. 314).
+Assevera que deve ser considerada tão somente a pena em abstrato do delito para definir a competência dos Juizados Especiais Criminais, sem os acréscimos em abstrato que possam incidir sobre o tipo penal.
+Requer seja conhecido e provido o recurso especial para anular todo o procedimento e fixar a competência dos Juizados Especiais Criminais.
+Contrarrazões às fls. 317/324.
+Decisão de admissibilidade à fl. 327.
+O Ministério Público Federal opinou pelo não provimento do recurso especial (fls. 339/340).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O voto condutor assim se posicionou quanto à controvérsia, no que importa, verbis (fls. 305/306):
+A competência do Juizado Especial Criminal limita-se, com efeito, a infrações penais cuja pena máxima em abstrato não seja superior a dois anos ou multa, já consideradas as causas de aumento (no quantum de maior aumento da pena) e de diminuição (no quantum de maior diminuição). Em caso de concurso ainda ser somadas.
+No caso dos autos, o embargante foi denunciado e condenado por violação do art. 138, caput, do, c.c. o art. 141, II e III, ambos do CP.
+Dessa forma, conquanto a pena máxima cominada para o crime de calúnia seja efetivamente de 2 anos de privação de liberdade, fato é que, com as causas de aumento previstas no art. 141, II e III, do CP, as sanções ficam sujeitas a um aumento de um terço, de modo a superar a pena máxima em abstrato prevista como limite para que se atribua a competência aos Juizados Especiais Criminais.
+O entendimento do Tribunal a quo encontra-se alinhado ao desta Corte, firmado no sentido de que " p ara fins de fixação de competência do Juizado Especial, será considerada a soma das penas máximas cominadas ao delito com a causa de aumento que lhe seja imputada igualmente em patamar máximo, resultado que, ultrapassado o patamar de 2 (dois) anos, afasta a competência do Juizado Especial Criminal" (RHC 46.646/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 15/04/2016). Eis a íntegra da ementa do julgado, verbis:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CALÚNIA PRATICADA CONTRA FUNCIONÁRIO PÚBLICO EM RAZÃO DAS FUNÇÕES. SÚMULA 714 DO STF. ADITAMENTO À DENÚNCIA PELO MINISTÉRIO PÚBLICO. INCLUSÃO DE CORRÉU. POSSIBILIDADE. EFICÁCIA OBJETIVA DA REPRESENTAÇÃO. COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL. CAUSA DE AUMENTO. INCIDÊNCIA. PENA MÁXIMA ABSTRATA SUPERIOR A 2 (DOIS) ANOS. RECURSO NÃO PROVIDO.
+1 - "É concorrente a legitimidade do ofendido, mediante queixa, e do Ministério Público, condicionada à representação do ofendido, para a ação penal por crime contra a honra de servidor em razão do exercício de suas funções" (Súmula 714 do STF).
+2 - A eficácia objetiva da representação, interligada ao princípio da indivisibilidade que vige na ação penal pública, confere ao Ministério Público a possibilidade de atuar prontamente contra todos os envolvidos, ainda que a representação não tenha abrangido todos os autores da infração. Logo, admissível o aditamento à denúncia pelo Parquet para fins de inclusão de corréu não constante da representação do ofendido.
+3 - Para fins de fixação de competência do Juizado Especial, será considerada a soma das penas máximas cominadas ao delito com a causa de aumento que lhe seja imputada igualmente em patamar máximo, resultado que, ultrapassado o patamar de 2 (dois) anos, afasta a competência do Juizado Especial Criminal.
+4 - In casu, o recorrente foi denunciado pela suposta prática da infração tipificada no artigo 138 c/c o artigo 141, II e III, do Código Penal, restando a pena máxima in abstrato firmada em 2 (dois) anos e 8 (oito) meses de detenção, o que afasta a competência do Juizado Especial Criminal e a incidência dos termos da Lei n. 9.099/95, conforme disposição do artigo 61 do respectivo Diploma Normativo.
+5. Recurso Ordinário em habeas corpus improvido (RHC 46.646/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 15/04/2016).
+No mesmo sentido, cito julgados de ambas as Turmas que compõem a Terceira Seção desta Corte Superior de Justiça:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CALÚNIA E DIFAMAÇÃO. CONCURSO MATERIAL. PENA MÁXIMA SUPERIOR A 2 ANOS. INCOMPETÊNCIA DO JUIZADO ESPECIAL. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência pacífica do STJ.
+2. O Superior Tribunal de Justiça tem entendimento pacificado no sentido de que, Para fins de fixação de competência do Juizado Especial, será considerada a soma das penas máximas cominadas ao delito com a causa de aumento que lhe seja imputada igualmente em patamar máximo, resultado que, ultrapassado o patamar de 2 (dois) anos, afasta a competência do Juizado Especial Criminal (RHC 46.646/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/04/2016, DJe 15/04/2016).
+3. Agravo regimental improvido (AgRg no REsp 1563647/PI, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 03/04/2018).
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. DIFAMAÇÃO E INJÚRIA. QUEIXA-CRIME. REJEIÇÃO. INTERPOSIÇÃO DE RECURSO EM SENTIDO ESTRITO. CABIMENTO DO RECURSO DE APELAÇÃO. INTELIGÊNCIA DO ART. 82, DA LEI N. 9.099/95. INCOMPETÊNCIA ABSOLUTA DO JUÍZO. VIOLAÇÃO DOS PRINCÍPIOS CONSTITUCIONAIS DO JUIZ NATURAL E DO DEVIDO PROCESSO LEGAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - O paciente teve ajuizada contra si queixa-crime, pela suposta prática dos crimes previstos nos arts. 139 e 140 c.c art. 141, incisos III e IV, todos do Código Penal, pela irrogação de ofensas por meio de rede social.
+IV - A jurisprudência desta eg. Corte firmou-se no sentido de que, para fins de fixação de competência do Juizado Especial, será considerada a soma das penas máximas cominadas ao delito com a causa de aumento que lhe seja imputada, resultado que, ultrapassado o patamar legal de 2 (dois) anos, afasta a competência do Juizado Especial Criminal. (Precedente).
+V - Observa-se da queixa-crime que foram imputadas ao paciente as condutas descritas nos arts. 139 e 140, do Código Penal, cujas penas máximas totalizam, respectivamente, 1 (um) ano e 6 (seis) meses de detenção, bem como a causa de aumento prevista no art. 141, do mesmo diploma legal, que prevê o aumento de 1/3 (um terço) da pena, o que resulta no total, em abstrato, de 2 (dois) anos de detenção, devendo o recurso da rejeição da queixa-crime ter sido julgado pela Turma Recursal dos Juizados Especiais do Estado do Espírito Santo, fator que viola os postulados constitucionais do juiz natural e do devido processo legal. (Precedentes) .
+ ..
+Habeas corpus não conhecido. Ordem concedida de ofício (HC 326.391/ES, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 16/11/2015).
+Ante o exposto, com fundamento no Enunciado n. 568 da Súmula do STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
