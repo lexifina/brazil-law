@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DIREITOS AUTORAIS. ECAD. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 2. AUSÊNCIA DE DEMONSTRAÇÃO DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. ENUNCIADO N. 284 DA SÚMULA DO STF. 3. AGRAVO DESPROVIDO.
+1. Consoante a jurisprudência desta Corte, "imperiosa a demonstração de maneira clara e expressa das questões sobre as quais o Tribunal de origem teria se mantido silente, sob pena de inadmissibilidade do apelo nobre por afronta ao art. 535, inc. II, do CPC, a teor do que dispõe a Súmula 284/STF" (AgRg no AREsp n. 488.270/RS, Relator o Ministro Og Fernandes, DJe 1º/9/2014).
+2. O recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem de forma clara os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão, ante a aplicação analógica da Súmula 284/STF.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Escritório Central de Arrecadação e Distribuição - Ecad ajuizou ação em desfavor de Gomes & Lobianco Ltda. e outros postulando a condenação dos réus ao pagamento de indenização por perdas e danos no valor de R$ 71.564,61 (setenta e um mil, quinhentos e sessenta e quatro reais e sessenta e um centavos) decorrente de violação a direitos autorais.
+O Magistrado de primeiro grau julgou parcialmente procedente o pedido para condenar os réus ao pagamento das retribuições autorais correspondente ao período de fevereiro de 2006 a setembro de 2009, além das parcelas não pagas durante o curso da ação.
+Interpostas apelações por ambas as partes, a Terceira Turma Julgadora da Quarta Câmara Cível do Tribunal de Justiça de Goiás manteve a decisão monocrática proferida pela Desembargadora Relatora, a qual negou provimento ao apelo dos réus e deu parcial provimento à insurgência do autor para determinar que Gomes & Lobianco Ltda. se abstenha de executar as obras protegidas.
+O acórdão recebeu a seguinte ementa (e-STJ, fls. 857-869):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. RECURSO MANIFESTAMENTE IMPROCEDENTE, JULGAMENTO MONOCRATICO. POSSIBILIDADE NA VIGÊNCIA DO CPC/73. AÇÃO COMINATORIA. DIREITOS AUTORAIS. LEGITIMIDADE DOS SÓCIOS PROPRIETÁRIOS PARA FIGURAREM NO POLO PASSIVO DA LIDE.
+RESPONSABILIDADE SOLIDÁRIA COM A EMPRESA. RÁDIO COMUNITÁRIA SEM FINS LUCRAMOS. PRESUNÇÃO DE OCORRÊNCIA DO FATO GERADOR DIANTE DA ATIVIDADE DO DEVEDOR. IRRELEVÂNCIA DA CONFIGURAÇÃO DE PROVEITO ECONÔMICO PARA A EXIGIBILIDADE DO PAGAMENTO. CRITÉRIO DE COBRANÇA. REGULAMENTO DE ARRECADAÇÃO. APLICABILIDADE. AUSÊNCIA DE FATO NOVO OU ARGUMENTO RELEVANTE. DESPROVIMENTO DO RECURSO. 1. Sob a égide do CPC/73, era possível ao Relator apreciar o mérito de recurso manifestamente improcedente, a fim de negar-lhe seguimento, na forma do art. 557, caput, do aludido código, destinado a dar celeridade à prestação jurisdicional. 2. À luz dos arts. 68, § 2º, e 110 da Lei nº 9.610/98, os sócios proprietários respondem solidariamente com a empresa da qual fazem parte pelo recolhimento das contribuições destinadas ao ECAD, em caso de violação de direitos autorais. 3. A jurisprudência do STJ admite que há uma presunção de ocorrência do fato gerador quando a atividade desenvolvida pelo devedor envolver, por sua natureza, a execução de obras musicais, sendo Irrelevante, ademais, a obtenção de lucro. 4. "Não pode o Poder Judiciário fixar o valor dos direitos autorais. Os titulares ou suas associações, que mantêm o ECAD, é que podem fixar os valores para cobrança dos direitos patrimoniais decorrentes da utilização das obras Intelectuais, como decorre da disciplina positiva" (AgRg no AREsp 233.232/SC, Rel. Min. Sidnei Beneti, 3ª T., DJe 04/02/2013). 5. Não exteriorizada a superveniência de fatos novos, tampouco apresentada argumentação hábil a acarretar a modificação da linha de raciocínio antes adotada pelo órgão julgado, tratando-se de mero inconformismo com o que motivadamente se decidiu, o desprovimento do agravo interno se impõe. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Os demandados interpuseram recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, apontando, além de dissídio jurisprudencial, violação aos arts. 1.022, II, do CPC/2015 e 206 do CC.
+Sustentaram, em síntese, ter havido negativa de prestação jurisdicional e a necessidade de se adotar o prazo prescricional de 3 (três) anos. Asseveraram, também, a ilegitimidade passiva e a abusividade da cobrança. Aduziram, ainda, ser inviável a responsabilização solidária dos sócios da empresa.
+Contrarrazões às fls. 1.039-1.052 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso sob o fundamento de incidirem as Súmulas n. 282 e 284 do STF.
+Irresignados, os recorrentes apresentaram agravo refutando os óbices apontados pela Corte estadual.
+Contraminuta às fls. 1.088-1.103 (e-STJ).
+Em decisão monocrática proferida por este signatário, conheceu-se do agravo para não conhecer do recurso especial, nos termos da seguinte ementa (e-STJ, fls. 1.126-1.129):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DIREITOS AUTORAIS. ECAD. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 2. AUSÊNCIA DE DEMONSTRAÇÃO DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. ENUNCIADO N. 284 DA SÚMULA DO STF. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões do agravo interno (e-STJ, fls. 1.134-1.152), os agravantes refutam o óbice apontado pela deliberação unipessoal, alegando ter havido demonstração dos dispositivos legais violados e impugnação expressa dos argumentos do acórdão a quo.
+Impugnação às fls. 1.186-1.188 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DIREITOS AUTORAIS. ECAD. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 2. AUSÊNCIA DE DEMONSTRAÇÃO DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. ENUNCIADO N. 284 DA SÚMULA DO STF. 3. AGRAVO DESPROVIDO.
+1. Consoante a jurisprudência desta Corte, "imperiosa a demonstração de maneira clara e expressa das questões sobre as quais o Tribunal de origem teria se mantido silente, sob pena de inadmissibilidade do apelo nobre por afronta ao art. 535, inc. II, do CPC, a teor do que dispõe a Súmula 284/STF" (AgRg no AREsp n. 488.270/RS, Relator o Ministro Og Fernandes, DJe 1º/9/2014).
+2. O recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem de forma clara os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão, ante a aplicação analógica da Súmula 284/STF.
+3. Agravo interno desprovido.
+
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Os argumentos trazidos pelos insurgentes não são capazes de modificar as conclusões da decisão agravada.
+Ao contrário do que alegam os agravantes, constata-se que, de fato, não ficou caracterizada a negativa de prestação jurisdicional, pois não houve especificação de como o acórdão de origem teria se negado a enfrentar questões aduzidas pelas partes, tampouco discorreram sobre as matérias que entenderam por omissas.
+Note-se que, nas razões do recurso especial, os recorrentes se limitaram a asseverar que o Tribunal de origem deixou de se manifestar sobre os pontos trazidos nos embargos de declaração, sem, contudo, expor e demonstrar quais seriam tais questões.
+Desse modo, este Tribunal Superior tem orientação firmada no sentido de ser "imperiosa a demonstração de maneira clara e expressa das questões sobre as quais o Tribunal de origem teria se mantido silente, sob pena de inadmissibilidade do apelo nobre por afronta ao art. 535, inc. II, do CPC, a teor do que dispõe a Súmula 284/STF" (AgRg no AREsp n. 488.270/RS, Relator o Ministro Og Fernandes, DJe 1º/9/2014).
+Em relação aos demais temas, as razões do inconformismo não permitem identificar de que forma se deu a violação à lei federal, pois os recorrentes não demonstraram, efetivamente, o modo como se deu a ofensa ao dispositivo legal apontado no apelo especial, bem como não infirmaram as conclusões do aresto combatido.
+É importante ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão.
+Sendo assim, impõe-se a incidência do entendimento jurisprudencial expresso no enunciado n. 284 da Súmula do STF, aplicado reiteradamente também no juízo de admissibilidade do recurso especial por esta Casa.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. OFENSA A DISPOSITIVOS LEGAIS. NÃO INDICAÇÃO. APLICAÇÃO DAS SÚMULAS NºS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso não evidenciam de que forma os dispositivos legais invocados foram violados. Aplicação das Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+2. A reapreciação da conclusão do aresto impugnado encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido. (AgRg no AREsp 424.722/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 07/04/2015, DJe 13/04/2015)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
