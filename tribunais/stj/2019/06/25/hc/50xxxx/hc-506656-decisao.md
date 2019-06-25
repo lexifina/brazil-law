@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado pela Defensoria Pública em favor de KAIQUE DE MAGALHAES RODRIGUES e [NOME], contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 0011840-86.2016.8.26.0635.
+Depreende-se dos autos que os pacientes foram condenados, em primeira instância, às penas de 2 (dois) anos de reclusão, em regime semiaberto, mais pagamento de 26 (vinte e seis) dias-multa, como incurso nas sanções do art. 155, § 4º, incisos I, II e IV, c/c art. 14, inciso II, do Código Penal.
+Inconformada, a defesa interpôs recurso de apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo, consoante voto condutor do v. acórdão de fls. 46-54.
+Dai o presente writ, onde a impetrante alega, em síntese, a ocorrência de constrangimento ilegal na manutenção do regime semiaberto, em detrimento do entendimento descrito no art. 387, § 2º, do Código de Processo Penal.
+Para tanto, sustenta, que " ..  Considerando que lhes foi imposta a pena de 02 (dois) anos e 26 (vinde seis) dias de reclusão e que o tempo de prisão provisória se prolongou por mais de 09 meses, de rigor a fixação de regime inicial aberto, nos termos do artigo 387, § 2º, do Código de Processo Penal, que determina o cômputo do tempo de custódia cautelar para fins de estabelecimento do regime inicial de cumprimento da pena privativa de liberdade" (fls. 4-5).
+Requer, assim, a concessão da ordem em favor dos pacientes para que sejam colocados em regime aberto, com fundamento no art. 387, § 2º, do Código de Processo Penal.
+O pedido liminar foi indeferido às fls. 59-61.
+Informações prestadas às fls. 67-68.
+O Ministério Público Federal, às fls. 108-113, manifestou-se pelo não conhecimento do writ, em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. IMPOSSIBILIDADE. FURTO QUALIFICADO TENTADO. MODIFICAÇÃO DE REGIME PRISIONAL, CONSIDERANDO A DETRAÇÃO DO TEMPO DE PRISÃO CAUTELAR. IMPOSSIBILIDADE. PACIENTES REINCIDENTES ESPECÍFICOS E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PRECEDENTES.
+Conquanto sequer haja delimitação no acórdão recorrido do período das custódias cautelares, eventual detração não repercutiria no modo de cumprimento das reprimendas, porque, além de a pena já ter sido estabelecida em patamar inferior a 4 anos de reclusão, tratam-se de Pacientes reincidentes específicos, cujas circunstâncias judiciais foram consideradas desfavoráveis, o que afasta qualquer possibilidade de cumprimento de pena em regime diverso do fechado, de maneira que o Tribunal de Justiça, ao conceder o regime intermediário, já foi mais leniente do que o tolerado pela jurisprudência dessa corte e o previsto no Código Penal. Precedentes do STJ.
+Parecer pelo não conhecimento da impetração" (fl. 108).
+É o relatório.
+Decido.
+A Primeira Turma do col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso próprio (v.g.: HC n. 109.956/PR, Rel. Min. Marco Aurélio, DJe de 11/9/2012; RHC n. 121.399/SP, Rel. Min. Dias Toffoli, DJe de 1º/8/2014 e RHC n. 117.268/SP, Relª. Minª. Rosa Weber, DJe de 13/5/2014).
+As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado (v.g.: HC n. 284.176/RJ, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 2/9/2014; HC n. 297.931/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 28/8/2014; HC n. 293.528/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 4/9/2014 e HC n. 253.802/MG, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 4/6/2014).
+Portanto, não se admite mais, perfilhando esse entendimento, a utilização de habeas corpus substitutivo quando cabível o recurso especial, situação que implica o não conhecimento da impetração. Contudo, no caso de se verificar configurada flagrante ilegalidade apta a gerar constrangimento ilegal, recomenda a jurisprudência a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Para melhor análise das questões aduzidas no presente writ, colaciono abaixo o que dispôs o v. acórdão impugnado, acerca da detração:
+"O regime inicial semiaberto também não comporta qualquer alteração, em razão dos maus antecedentes e das recidivas dos recorrentes, nos termos do art. 33, § 2º, "b", do CP. Não há que se argumentar com a Súmula nº 269 do Colendo STJ, haja vista que as circunstâncias judicias não foram favoráveis aos apelantes. E, ainda, mesmo considerando o tempo de custódia provisória, o regime intermediário era mesmo o adequado diante dos maus antecedentes e das reincidências específicas, a denotar que regime menos gravoso não seria o suficiente para a prevenção e repressão do delito" (fl. 52, grifei).
+Nos termos do art. 387, § 2º, do Código de Processo Penal, o cômputo do tempo de prisão provisória na sentença penal condenatória é restrito à finalidade de determinação do regime inicial de cumprimento da pena privativa de liberdade.
+Na hipótese dos autos, o abatimento do tempo de prisão provisória do total da condenação decretada neste processo-crime é providência que competirá ao juízo da execução penal que analisara os requisitos objetivos e subjetivos, a qual será levada a efeito após o trânsito em julgado e o início do cumprimento da pena, consoante dicção do art. 66, inciso III, "c", da Lei n. 7.210/1984.
+"Art. 66. Compete ao Juiz da execução:
+ ..
+III - decidir sobre:
+ ..
+c) detração e remição da pena;"
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
