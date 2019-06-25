@@ -1,0 +1,24 @@
+EMENTA
+HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. VALORAÇÃO NEGATIVA DOS ANTECEDENTES COM FUNDAMENTO EM CONDENAÇÕES TRANSITADAS EM JULGADO HÁ MAIS DE 5 ANOS. POSSIBILIDADE. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO DO PACIENTE A ATIVIDADES CRIMINOSAS. AUSÊNCIA DE ILEGALIDADE.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 0000303-53.2017.8.26.0540).
+Consta dos autos que o paciente foi condenado - como incurso no art. 33, caput, e no art. 40, III, ambos da Lei n. 11.343/2006 - à pena de 8 anos de reclusão, em regime inicial fechado, e 800 dias-multa.
+Contra a sentença sobreveio apelação defensiva, a qual foi desprovida nos termos da seguinte ementa (fl. 38):
+SENTENÇA CONDENATÓRIA DO RÉU PELO DELITO DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/2006) - APELO DEFENSIVO BUSCANDO A ABSOLVIÇÃO COM ARRIMO EM ALEGADA INSUFICIÊNCIA PROBATÓRIA DESCABIMENTO - MATERIALIDADE E AUTORIA DELITIVA BEM DEMONSTRADA - PALAVRAS DOS AGENTES DA LEI QUE MERECEM PRIMAZIA NA FORMAÇÃO DO CONVENCIMENTO, INCONSISTENTE A NEGATIVA DE AUTORIA - CIRCUNSTÂNCIAS DO CRIME, MODO COMO OS ENTORPECENTES ESTAVAM EMBALADOS, QUANTIDADE, DIVERSIDADE E NATUREZA DAS DROGAS APREENDIDAS, COMPATÍVEIS COM O TRÁFICO - CONDENAÇÃO DE RIGOR, DESCABENDO O BENEFÍCIO DA REDUÇÃO - AUSÊNCIA DOS REQUISITOS LEGAIS - RÉU PORTADOR DE MAUS ANTECEDENTES - QUANTIDADE E VARIEDADE DE DROGAS QUE EVIDENCIAM A DEDICAÇÃO AO NARCOTRÁFICO - INVIABILIDADE DO AFASTAMENTO DA CAUSA DE AUMENTO DA PENA (ARTIGO 40, INCISO III, DA LEI N. 11.343/2006) - DOSAGEM DAS PENAS CORRETA, OBSERVADO O REGRAMENTO APLICÁVEL - INTELIGÊNCIA DO ARTIGO 42, DA LEI DE DROGAS, NÃO SE VISLUMBRANDO EXACERBAÇÃO ILEGAL OU DESMOTIVADA - ESTIPULAÇÃO DE REGIME INICIAL FECHADO QUE SE AFIGURA CORRETA, NÃO SENDO RECOMENDÁVEL A SUBSTITUIÇÃO DA PENA - PRECEDENTES DA JURISPRUDÊNCIA - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Daí, sobreveio a impetração do presente habeas corpus, no qual a defesa do paciente requer, em síntese, o seguinte: a) o afastamento do reconhecimento da circunstância judicial dos maus antecedentes, em razão do transcurso do período depurador; b) a incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006; e c) a aplicação da detração.
+É o relatório.
+Em consulta ao portal eletrônico do Tribunal de Justiça de São Paulo, verifiquei que a condenação do paciente já é definitiva, ante o trânsito em julgado do acórdão proferido no julgamento da referida apelação (baixa em 12/6/2019).
+Assim, o presente habeas corpus é substitutivo de revisão criminal.
+Ocorre que como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Nesse sentido, confira-se:
+ ..
+1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+ ..
+(HC n. 288.978/SP, de minha relatoria, Relator p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018)
+Ainda que assim não fosse, em relação aos maus antecedentes para elevação da pena-base, segundo o entendimento desta Corte, o período depurador de cinco anos previsto no art. 64, I, do Código Penal afasta a reincidência, mas não retira os maus antecedentes (HC n. 281.051/MS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 28/11/2013).
+Note-se, ademais, que a norma do art. 33, § 4º, da Lei n. 11.343/2006 foi acertadamente afastada, considerando a quantidade, a natureza e a diversidade das drogas apreendidas, somadas às circunstâncias da prática delitiva e ao fato de o réu possuir maus antecedentes, que revelam a dedicação do paciente a atividades criminosas.
+Esta Corte tem reiteradamente decidido, em observância ao disposto no art. 33, § 4º, da Lei n. 11.343/2006, que, havendo demonstração de que o paciente se dedica a atividades criminosas, mostra-se inaplicável a minorante em questão.
+Ressalte-se, ainda, que alcançar conclusão inversa demandaria o exame do conjunto probatório dos autos, providência inviável na via estreita do habeas corpus, carente de dilação probatória.
+Ante o exposto, indefiro liminarmente o writ (art. 210 do RISTJ).
+Publique-se.
