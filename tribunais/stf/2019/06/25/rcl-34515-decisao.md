@@ -1,0 +1,34 @@
+Trata-se de reclamação com pedido de liminar proposta pelo Município de Mucambo/CE, com fundamento no art. 988, II, do Código de Processo Civil, contra acórdão proferido nos autos da Reclamação Trabalhista 0001465-17.2017.5.07.0038, que teria desrespeitado a autoridade da decisão tomada no julgamento da ADI 3.395 MC/DF, de relatoria do Ministro Cezar Peluso.
+    O reclamante informa que:
+    “[a] Interessada ANA MARIA DOS SANTOS NASCIMENTO ajuizou Reclamação Trabalhista em face da ora Reclamante, em que requereu condenação ao pagamento de FGTS e respectiva multa do período contratado e diferenças salariais.
+    Em sede de Contestação (cópia anexa), a ora Reclamante aduziu a INCOMPETÊNCIA da Justiça do Trabalho para processar e julgar a presente demanda, dada a natureza jurídico-administrativa da relação mantida entre as partes.
+    Conforme sentença em anexo, o Juízo da 2ª Vara do Trabalho de Sobral/CE afastou a preliminar de incompetência e condenou a municipalidade ao pagamento das verbas pleiteadas, mais honorários advocatícios. A lide encontra-se em fase de remessa para o TST, não tendo sido, ainda, recepcionada por aquela corte superior.
+    A decisão proferida pelo Juízo da 2ª Vara da Justiça do Trabalho de Sobral, não obstante a natureza jurídico-administrativa da relação jurídica estabelecida entre o reclamante e a interessada, decidiu reconhecer a competência material da Justiça do Trabalho para processar e julgar a reclamação trabalhista, dada a nulidade da contratação, posto que não foi precedida de aprovação em concurso público” (pág. 2 do documento eletrônico 1).
+    Aduz, em suma, que:
+    “[...] a competência para processar e julgar demandas que têm por causa de pedir uma relação jurídica de cunho jurídico-administrativo entre o demandante e o poder público é da competência absoluta da Justiça Comum Estadual ” (pág. 5 do documento eletrônico 1).
+    Requer, ao final,
+    “[...] seja DEFERIDA a medida liminar, para o fim de suspender o trâmite da Reclamação Trabalhista nº 0001465-17.2017.5.07.0038 originalmente em curso na 2ª Vara do Trabalho de Sobral/CE, e remetida para julgamento no TST, até o julgamento final da presente Reclamação Constitucional, bem como para obstar qualquer outra decisão da Justiça do Trabalho nesta demanda, nos termos do artigo 158 do RISTF;
+    3) no mérito, seja reconhecida a competência da Justiça Comum para processar e julgar a Reclamação Trabalhista de que ora se trata, declarando nulo todos os atos praticados pela Justiça do Trabalho no respectivo processo” (pág. 7 do documento eletrônico 1).
+    Em 30/04/20149, indeferi o pedido de liminar (documento eletrônico 10). Contra essa decisão, o reclamante interpôs agravo regimental (documento eletrônico 14).
+    A autoridade reclamada prestou informações (documento eletrônico 13).
+    É o relatório necessário. Decido.
+    Preliminarmente, deixo de enviar o feito a Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (arts. 52, parágrafo único, e 161, parágrafo único, ambos do RISTF).
+    No caso em exame, ao afirmar ser competente a Justiça do Trabalho para processamento e julgamento da causa originária, o TRT da 7ª região entendeu que:
+    “[d]o exame dos autos, observa-se que o juízo a quo refutou a tese de incompetência da Justiça do Trabalho, sob o fundamento de que o ente público não acostou aos autos o contrato administrativo que alega ter firmado com a obreira, tampouco qualquer comprovação de que referido pacto tenha decorrido da aprovação em concurso público. A decisão consignou também, que o recorrente não juntou ao processo a lei que teria instituído o regime jurídico único na municipalidade.
+    Ora, ao revés da tese sustentada pelo Município de Mucambo, no sentido de que a contratação teria sido temporária, não restou comprovado pelo ente público a referida condição, pois como bem registrou a decisão de piso, o recorrente não colacionou ao processo qualquer documento capaz de comprovar sua tese de existência de vínculo de natureza administrativa (contratação temporária), capaz de afastar a competência desta Especializada para a análise do feito.
+    Assim, não há, in casu, comprovação nem sequer indício de existência de regime jurídico estatutário, tampouco é possível concluir que a contratação teria se dado em caráter temporário, considerando, inclusive, o lapso temporal de duração do contrato que, iniciado em 03.02.94, perdura até os dias atuais, de modo que não há se falar em incidência dos termos da ADI nº 3.395/STF.
+    […]
+    Nesta senda, não comprovada a condição de contratação temporária defendida pelo recorrente, há de ser mantida a decisão que reconheceu a competência desta Especializada para processar e julgar o feito ” (págs. 95-96 do documento eletrônico 3 - grifei).
+     Observa-se que o Tribunal Regional do Trabalho afastou a preliminar de incompetência da Justiça do Trabalho com fundamento na ausência de elementos probatórios suficientes que demonstrassem que a relação de trabalho estabelecida entre o reclamante e a parte interessada teria natureza jurídico-administrativa.
+    Evidencia-se, assim, que dissentir das razões adotadas pelo acórdão reclamado demandaria o reexame do conjunto fático-probatório dos autos originários, circunstância não admitida pela jurisprudência desta Corte. Nesse sentido, cito, a título de exemplo, as seguintes ementas:
+    “EMENTA: AGRAVO REGIMENTAL EM RECLAMAÇÃO. ADC 16. ART. 71, § 1º, DA LEI 8.666/93. TERCEIRIZAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA. CULPA IN VIGILANDO. AUSÊNCIA DE ESTRITA ADERÊNCIA. DESCABIMENTO DA RECLAMAÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO.
+    1. É inviável a reclamação quando o ato reclamado não possui aderência estrita ao paradigma apontado como afrontado.
+    2. Ao contrário do alegado, o ato impugnado não contraria a decisão proferida na ADC 16.
+    3. Não é cabível o manejo de reclamação para se obter o reexame do conjunto fático-probatório dos autos.
+    4. Agravo regimental a que se nega provimento, com aplicação de multa” (Rcl 26.537-AgR/RJ, Rel. Min. Edson Fachin, Segunda Turma - grifei).
+    “EMENTA: AGRAVO REGIMENTAL NA RECLAMAÇÃO. SÚMULA VINCULANTE N. 13. ACÓRDÃO RECLAMADO FUNDAMENTADO EM OFENSA AOS PRINCÍPIOS CONSTITUCIONAIS DA ADMINISTRAÇÃO PÚBLICA. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. USO DE RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. PRECEDENTES. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (Rcl 32.284-AgR/RS, Rel. Min. Cármen Lúcia, Segunda Turma - grifei).
+    Isso posto, nego seguimento ao pedido (RISTF, art. 21, § 1°). Prejudicado o agravo regimental (documento eletrônico 14).
+    Publique-se.
+    Brasília, 25 de junho de 2019.
+Ministro Ricardo Lewandowski
+Relator
