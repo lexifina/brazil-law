@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado do Tocantins.
+Consta dos autos que foi ajuizada queixa-crime em desfavor do recorrente pela suposta prática dos delitos previstos nos arts. 138 e 139, c/c o art. 141, III, na forma do art. 69, todos do Código Penal (e-STJ fls. 25/33).
+Irresignada, a defesa impetrou prévio habeas corpus no Tribunal de origem postulando o trancamento da ação penal.
+Contudo, a ordem foi denegada.
+No Superior Tribunal de Justiça, sustenta a defesa a ausência de justa causa para a deflagração da ação penal, pois "o Paciente/Recorrente, Sr. [NOME], é jornalista e as referidas publicações apenas veiculou o que já era público, ou seja, a matéria publicada restringiu-se a relatar um fato verdadeiro, devidamente comprovado e confessado pelo  ora recorrido , o qual afirmou que teria se relacionado com a menor, restando evidenciado o estrito exercício do animus narrandi inerente à atividade do Paciente/Recorrente" (e-STJ fl. 161).
+Alega, para tanto, que "as reportagens publicadas no blog do  ora recorrente , não se verifica qualquer passagem de suspeitas à efetiva comprovação, porquanto apenas ressalta o que já havia sido publicado por outros meios de comunicações, o que comprova que o Recorrente jamais queria ferir a honra do  ora recorrido  como pretende fazer crer", e que "a matéria jornalística decorreu de divulgação proveniente de fato público e notório, qual seja, a investigação do  ora recorrido  - Juiz Luiz Zilmar - por suposta prática de crime" (e-STJ fls. 163/164).
+Diante disso, requer o trancamento da ação penal por ausência de justa causa.
+Opinou o Ministério Público Federal pelo desprovimento do recurso (e-STJ fl. 197):
+RECURSO EM HABEAS CORPUS. CRIMES CONTRA A HONRA. CALÚNIA E DIFAMAÇÃO. PRETENSÃO DE TRANCAMENTO DA AÇÃO PENAL POR FALTA DE JUSTA CAUSA. MANIFESTO CONSTRANGIMENTO ILEGAL NÃO VERIFICADO.
+É o relatório.
+Depreende-se dos autos que o presente recurso ordinário impugna o acórdão proferido pelo Tribunal de origem no HC n. 5007989-28.2012.827.0000 (e-STJ fls. 70/153).
+Ocorre que a causa de pedir e o pedido deste reclamo são idênticos aos do RHC n. 36.924/TO, interposto nesta Corte, distribuído ao Ministro Og Fernandes no dia 23/4/2013, e atribuído a esta relatoria no dia 7/4/2016, após a sucessão de outros dois julgadores.
+Naquele feito (RHC n. 36.924/TO), que também impugna o mesmo acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins no habeas corpus originário de mesmo número, o recurso foi desprovido, em sessão de 22/5/2018, consoante ementa a seguir transcrita:
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ARTS. 138 E 139, C/C O ART. 141, III, NA FORMA DO ART. 69, TODOS DO CÓDIGO PENAL. TRANCAMENTO DA AÇÃO PENAL. QUEIXA-CRIME. FALTA DE JUSTA CAUSA. DISCUSSÃO ACERCA DO ELEMENTO VOLITIVO. IMPOSSIBILIDADE NA VIA ELEITA. ANIMUS NARRANDI. NÃO CONFIGURAÇÃO.
+1. O trancamento da ação penal por ausência de justa causa exige comprovação, de plano, da atipicidade da conduta, da ocorrência de causa de extinção da punibilidade, da ausência de lastro probatório mínimo de autoria ou de materialidade, o que não se verifica na presente hipótese.
+2. Na hipótese vertente, os elementos extraídos da narrativa constante da queixa-crime demonstram a presença de suporte mínimo à acusação formulada. Não subsiste a alegação defensiva de que o recorrente, ao discorrer em seu blog sobre determinado fato, estaria apenas narrando um fato notório, porquanto ausente - para fins de trancamento - a demonstração inequívoca do animus narrandi.
+3. A questão sobre a possibilidade de se perquirir sobre o fator anímico de que eventualmente estaria imbuído o agente já foi enfrentada por esta Corte, e, como já se consignou de há muito, a análise do elemento volitivo, no âmbito do habeas corpus, demandaria inevitável revolvimento fático-probatório, o que é vedado nessa via estreita, máxime se não estiver evidenciado, primo ictu oculi, a ausência de animus calumniandi e difamandi (precedentes).
+4. Recurso desprovido.
+Ante o exposto, diante da constatação de que a presente irresignação recursal é mera reiteração do RHC n. 36.924/TO, não conheço do recurso.
+Publique-se. Intimem-se.
