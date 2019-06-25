@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOSE ROBERTO DE SOUZA contra decisão de Desembargador integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que indeferiu a liminar no HC n. 1.0000.19.061620-1/000.
+Nesta via, o impetrante alega a ocorrência de constrangimento ilegal sob o argumento de que o paciente está cumprindo pena em regime prisional mais gravoso que o determinado na sentença condenatória, em manifesta violação ao art. 35 do CP e à Súmula 56/STF.
+Requer a concessão sumária e definitiva da ordem constitucional para que seja determinado o cumprimento da reprimenda pelo paciente no regime semiaberto até a designação de audiência admonitória ou, subsidiariamente, que seja deferida a liberdade em seu favor.
+É o relatório.
+Esta Corte Superior, nos termos da Súmula 691 do Supremo Tribunal Federal, pacificou orientação no sentido de que "não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância" (AgRg no HC 252.412/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 9-10-2012, DJe 17-10-2012), destacando que "O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha que não escapa à pronta percepção do julgador" (AgRg no HC 300.610/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4-9-2014, DJe 15-9-2014).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (fls. 26/27):
+Indefiro a liminar pleiteada, uma vez que os elementos constantes da impetração não autorizam concluir, com segurança, pela presença do requisito relativo ao fumus boni juris.
+No caso, é recomendável colher as indispensáveis informações judiciais e confrontá-las com os elementos trazidos para o exame seguro do pedido formulado, até porque o Impetrante não comprovou, de plano, que o estabelecimento em que se encontra não possui condições adequadas para o cumprimento da pena em regime semiaberto, estando os autos precariamente instruídos.
+Ademais, remanesce forte controvérsia doutrinária e jurisprudencial sobre a adequação do habeas corpus para a análise de questões relativas à execução penal ou para conferir celeridade a atos e despachos do primeiro grau jurisdicional.
+Assim, ausente o fumus boni juris, indefiro a liminar reclamada.
+Requisitar informações da autoridade apontada como coatora, que deverão ser prestadas no prazo legal, colhendo-se, em seguida, o valioso parecer da douta Procuradoria-Geral de Justiça.
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
