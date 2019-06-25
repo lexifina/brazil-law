@@ -1,0 +1,41 @@
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4.º, DA LEI N.º 11.343/2006. PLEITO DE APLICAÇÃO DO REDUTOR EM GRAU MÁXIMO. VIABILIDADE. REGIME INICIAL ABERTO. CABIMENTO. ORDEM DE HABEAS CORPUS CONCEDIDA.
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de Pernambuco proferido na Apelação n.º 0041031-27.2015.8.17.0001.
+Consta dos autos que o Paciente foi condenado às penas de 04 (quatro) anos e 02 (dois) meses de reclusão, em regime inicial semiaberto, e 416 (quatrocentos e dezesseis) dias-multa, como incurso no art. 33, caput e § 4.º, da Lei n.º 11.343/2006, por trazer consigo 14 (quatorze) invólucros de maconha, para fins de comércio ilícito, com peso aproximado de 23 gramas. O Juízo sentenciante concedeu ao Apenado o direito de recorrer em liberdade.
+Irresignada, a Defesa interpôs recurso de apelação, ao qual o Tribunal de origem negou provimento.
+Nas razões deste writ, a Impetrante alega, em suma, que o Paciente faz jus à redução da pena pela incidência da minorante prevista no § 4.º do art. 33 da Lei de Drogas, na fração máxima (2/3).
+As informações foram prestadas às fls. 44-47 e 50-53.
+O Ministério Público Federal manifestou-se às fls. 55-58, opinando pelo não conhecimento da impetração, mas pela concessão da ordem, de ofício, "para fixar a fração em 2/3 em razão do tráfico privilegiado redimensionando a pena do paciente".
+É o relatório. Decido.
+O Juízo de primeiro grau reconheceu a incidência da causa especial de diminuição prevista no art. 33, § 4.º, da Lei n.º11.343/2006 e fixou o quantum de redução em 1/6 (um sexto), com os seguintes fundamentos (fl. 11):
+" ..
+À míngua de agravantes e causas de aumento de pena, posto que a acusação não requereu o acréscimo de pena previsto no art. 400, III, da Lei n.º 11.343/06, sou levado a diminuir a pena do réu em 1/6, considerando-se o seu enquandramento na norma do art. 33, § 4.º, da Lei de Drogas."
+O Tribunal de origem, por sua vez, negou provimento ao recurso de apelação interposto pela Defesa, consignando, quanto à minorante em epígrafe, o que se segue (fl. 28):
+" ..
+No tocante a causa de diminuição prevista no § 4.º, do art. 33, da Lei nº 11.343/06, não merece reparos a sentença desafiada, tendo por razoável a aplicação da fração de 1/6."
+A jurisprudência desta Corte Superior, no tocante à fixação da fração de redução devida pela aplicação da causa especial de diminuição de pena prevista no § 4.º do art. 33 da Lei de Drogas, admite que, "na falta de indicação pelo legislador das balizas para o quantum da redução, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do delito, podem ser utilizadas na definição de tal índice ou, até mesmo, para afastar a aplicação da minorante quando evidenciarem a habitualidade do agente no comércio ilícito de entorpecentes" (HC 453.535/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/08/2018, DJe 28/08/2018, sem grifos no original). Em igual sentido:
+"PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA EM PATAMAR DIVERSO DO MÁXIMO. NATUREZA, VARIEDADE, NOCIVIDADE E QUANTIDADE DOS ENTORPECENTES APREENDIDOS. FUNDAMENTAÇÃO IDÔNEA. REGIME INICIALMENTE FECHADO DE CUMPRIMENTO DA PENA. CIRCUNSTÂNCIAS DO CASO CONCRETO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. BIS IN IDEM. NÃO OCORRÊNCIA. SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. RECURSO DESPROVIDO.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do Magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. De acordo com o art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de um sexto a dois terços da pena, desde que seja primário, portador de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+3. Na espécie, o Tribunal de Justiça, com base, sobretudo, na natureza, variedade, nocividade e quantidade das drogas apreendidas (maconha e "crack"), respeitando os critérios legais estabelecidos pelo art. 33, § 4º, da Lei n. 11.343/2006, em observância aos pormenores da situação concreta, excluiu a possibilidade de aplicação do pretendido redutor em grau máximo.
+ ..
+6. Agravo regimental desprovido." (AgRg no HC 348.208/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017; sem grifos no original.)
+No caso, as instâncias ordinárias entenderam pela redução das penas do Paciente na fração mínima (1/6), sem apresentar justificativa idônea para tanto, de modo que se mostra cabível, na espécie, a diminuição da pena no patamar máximo (2/3).
+A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECURSO MINISTERIAL. PLEITO PELO EMPREGO DA MINORANTE EM MENOR FRAÇÃO, NOS TERMOS DO ACÓRDÃO DE APELAÇÃO COMBATIDO. FUNDAMENTAÇÃO DEFICIENTE. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. APLICADA MINORANTE NA FRAÇÃO DE 2/3 (DOIS TERÇOS).
+I - O Tribunal de origem não empregou a devida fundamentação para manter a incidência da causa especial de diminuição de pena inserta no art. 33, § 4º, da Lei n. 11.343/2006 na fração mínima, qual seja, 1/6 (um sexto).
+II - Sendo o réu primário, possuidor de bons antecedentes e não havendo a indicação de elementos que apontem sua dedicação a atividades criminosas ou seja integrante de organização criminosa, imperiosa a incidência da minorante em seu grau máximo.
+Agravo regimental desprovido." (AgRg no AREsp 1.168.125/PI, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 06/02/2018, DJe 16/02/2018.)
+Passo, portanto, ao redimensionamento das penas:
+Na primeira fase, mantém-se a pena-base no mínimo legal, qual seja, 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa (fl. 28).
+Na segunda etapa, ausentes circunstâncias agravantes e presente a atenuante da menoridade relativa, permanece a pena intermediária no mesmo patamar, em observância ao enunciado da Súmula n.º 231 desta Corte.
+Na terceira fase, a reprimenda deve ser reduzida em 2/3 (dois terços), pela incidência da causa especial de diminuição de pena prevista no § 4.º do art. 33 da Lei n.º 11.343/2006, ficando a sanção definitivamente estabelecida em 1 (um) ano e 8 (oito) meses de reclusão, e pagamento de 166 (cento e sessenta e seis) dias-multa.
+No tocante ao regime de cumprimento de pena, o Plenário do Supremo Tribunal Federal, ao julgar o HC n.º 111.840/ES, afastou a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, devendo-se observar, para a fixação do regime inicial de cumprimento de pena, o disposto no art. 33, c.c. o art. 59, ambos do Código Penal e as Súmulas n.os 440/STJ e 718 e 719/STF.
+Confiram-se, a propósito, os mencionados verbetes sumulares:
+"Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito." (Súmula n.º 440 do STJ)
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada." (Súmula n.º 718 do STF)
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea." (Súmula n.º 719 STF)
+No caso, considerando o quantum de pena estabelecido, a primariedade do Condenado e a ausência de circunstâncias judiciais desfavoráveis (fl. 28), mostra-se cabível a fixação do regime inicial aberto, conforme o disposto no art. 33, § 2.º, alínea c, e § 3.º, do Código Penal.
+Ante o exposto, CONCEDO a ORDEM de habeas corpus a fim de reduzir as penas do Paciente para 1 (um) ano e 8 (oito) meses de reclusão, e pagamento de 166 (cento e sessenta e seis) dias-multa, e fixar o regime aberto como regime inicial para o cumprimento de pena, mediante as condições a serem estabelecidas pelo Juízo das Execuções Criminais.
+Publique-se. Intimem-se.
