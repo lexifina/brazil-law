@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. TAXA MÉDIA DO MERCADO. REVISÃO. SÚM. 7/STJ.
+1. A jurisprudência desta Corte é assente no sentido de que os juros remuneratórios cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto nº 22.626/33 (Lei de Usura), a teor do disposto na Súmula 596/STF, de forma que a abusividade da pactuação dos juros remuneratórios deve ser cabalmente demonstrada em cada caso, com a comprovação do desequilíbrio contratual ou de lucros excessivos.
+2. É inviável rever a conclusão do Tribunal estadual de que os juros remuneratórios, no caso, são abusivos quando comparados à taxa média de mercado, pois demandaria reexame de provas e interpretação de cláusula contratual, providências vedadas em recurso especial (Súmulas 5 e 7/STJ). Precedentes.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO LUIS FELIPE SALOMÃO:
+1. Cuida-se de agravo interno interposto por BANCO VOLKSWAGEN S.A contra decisão que negou provimento ao agravo em recurso especial, tendo em vista a impossibilidade de rever a conclusão de que a taxa de juros remuneratórios é abusiva quando comparada com a taxa média de mercado, em face dos óbices das Súmulas 5 e 7/STJ.
+Nas razões do presente agravo interno, a parte agravante rebate a incidência das Súmulas 5 e 7/STJ. Argumenta que deve ser mantida a taxa dos juros remuneratórios no percentual pactuado, haja vista a taxa média do BACEN servir apenas de parâmetro e não de limite fixo.
+Pede a reconsideração ou a reforma da decisão.
+Sem manifestação do agravado, conforme certidão de fl. 412.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. TAXA MÉDIA DO MERCADO. REVISÃO. SÚM. 7/STJ.
+1. A jurisprudência desta Corte é assente no sentido de que os juros remuneratórios cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto nº 22.626/33 (Lei de Usura), a teor do disposto na Súmula 596/STF, de forma que a abusividade da pactuação dos juros remuneratórios deve ser cabalmente demonstrada em cada caso, com a comprovação do desequilíbrio contratual ou de lucros excessivos.
+2. É inviável rever a conclusão do Tribunal estadual de que os juros remuneratórios, no caso, são abusivos quando comparados à taxa média de mercado, pois demandaria reexame de provas e interpretação de cláusula contratual, providências vedadas em recurso especial (Súmulas 5 e 7/STJ). Precedentes.
+3. Agravo interno não provido.
+VOTO
+O SR. MINISTRO LUIS FELIPE SALOMÃO(Relator):
+2. A jurisprudência desta Corte é assente no sentido de que os juros remuneratórios cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto nº 22.626/33 (Lei de Usura), a teor do disposto na Súmula 596/STF, de forma que a abusividade da pactuação dos juros remuneratórios deve ser cabalmente demonstrada em cada caso, com a comprovação do desequilíbrio contratual ou de lucros excessivos.
+Esse posicionamento foi confirmado no julgamento do Resp n. 1.061.530 de 22.10.2008, afetado à Segunda Seção de acordo com o procedimento da Lei dos Recursos Repetitivos (Lei 11.672/08), sob a relatoria da Ministra Nancy Andrighi, ocasião em que se consolidaram as seguintes teses: a) as instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF; b) a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica cobrança abusiva; c) são inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/2002; d) é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a índole abusiva (capaz de colocar o consumidor em desvantagem exagerada art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento concreto (REsp 1.061.530/RS, Rel. Min. NANCY ANDRIGHI, 2ª Seção, DJe, 10.3.2009).
+Do voto condutor do acórdão do repetitivo, merece destaque o seguinte trecho acerca da utilização da taxa média de mercado como parâmetro para avaliação da abusividade:
+A taxa média apresenta vantagens porque é calculada segundo as informações prestadas por diversas instituições financeiras e, por isso, representa as forças do mercado. Ademais, traz embutida em si o custo médio das instituições financeiras e seu lucro médio, ou seja, um "spread" médio. É certo, ainda, que o cálculo da taxa média não é completo, na medida em que não abrange todas as modalidades de concessão de crédito, mas, sem dúvida, presta-se como parâmetro de tendência das taxas de juros. Assim, dentro do universo regulatório atual, a taxa média constitui o melhor parâmetro para a elaboração de um juízo sobre abusividade.
+Como média, não se pode exigir que todos os empréstimos sejam feitos segundo essa taxa. Se isto ocorresse, a taxa média deixaria de ser o que é, para ser um valor fixo. Há, portanto, que se admitir uma faixa razoável para a variação dos juros.
+A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no REsp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (Resp 1.036.818, Terceira Turma, minha relatoria, DJe de 20.06.2008) ou ao triplo (REsp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média.
+Todavia, esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos.
+A abusividade não decorre do simples fato da taxa cobrada ser um pouco acima da média de mercado. Isso porque a taxa média de mercado não é um limitador, mas mero referencial.
+No caso, não se trata de taxa um pouco acima da média de mercado. Ficou consignado, no acórdão recorrido, ser flagrante a abusividade da contratação. A propósito, vale conferir o seguinte trecho do acórdão recorrido:
+No caso em exame, a taxa estabelecida no contrato é significativamente superior à taxa média de mercado (27,95% ao ano), impondo-se, portanto, sua limitação.
+Nesse contexto, o acolhimento da pretensão recursal em sentido contrário exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, assim como a interpretação de cláusula contratual, providências vedadas em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+Merece destaque, sobre o tema:
+AGRAVO INTERNO NO RECURSO ESPECIAL. JUROS REMUNERATÓRIOS. COBRANÇA ABUSIVA COMPROVADA. LIMITAÇÃO À TAXA MÉDIA DE MERCADO.
+POSSIBILIDADE. REVOLVIMENTO DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Os juros remuneratórios devem ser limitados à taxa média de mercado somente quando cabalmente comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações da espécie.
+2. O Tribunal de origem, apreciando o conjunto probatório dos autos, concluiu que a taxa de juros cobrada excede em muito a média de mercado. A alteração de tal entendimento, como pretendida, demandaria a análise de cláusulas contratuais e do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgRg no REsp 1440011/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/05/2016, DJe 27/05/2016)
+PROCESSO CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284/STF. ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. JUROS REMUNERATÓRIOS. LIMITAÇÃO. ABUSIVIDADE DA TAXA CONTRATADA EM RELAÇÃO À TAXA MÉDIA DE MERCADO. NECESSIDADE DE DEMONSTRAÇÃO. SÚMULA N. 7/STJ. CAPITALIZAÇÃO MENSAL DE JUROS. AUSÊNCIA DE JUNTADA DO CONTRATO. SÚMULA N. 83/STJ.
+1. Afasta-se a incidência da Súmula n. 284/STF quando a ausência de indicação precisa do artigo de lei federal não impedir, no caso concreto, a exata compreensão da controvérsia, mormente quando o recurso especial fundamenta-se na alínea "c" do permissivo constitucional.
+2. É inviável a aplicação da taxa de juros remuneratórios pactuada no contrato na hipótese em que a Corte a quo tenha considerado cabalmente demonstrada sua abusividade em relação à taxa média do mercado. Incidência da Súmula n. 7 do STJ.
+3. Nos contratos bancários firmados posteriormente à entrada em vigor da MP n. 1.963-17/2000, reeditada sob o n. 2.170-36/2001, é lícita a capitalização mensal dos juros, desde que expressamente prevista no ajuste. A previsão, no contrato bancário, de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada (Recurso Especial repetitivo n. 973.827/RS).
+4. A ausência da juntada do contrato de financiamento aos autos impede a análise da questão relativa à incidência da capitalização mensal dos juros.
+5. "Não se conhece do recurso especial pela divergência quando a orientação do Tribunal firmou no mesmo sentido da decisão recorrida" (Súmula n. 83/STJ).
+6. Agravo regimental desprovido.
+(AgRg no AREsp 795.320/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 01/03/2016, DJe 04/03/2016)
+3. Ante o exposto, nego provimento ao agravo interno.
+É o voto.
