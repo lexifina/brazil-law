@@ -1,0 +1,15 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO 3/STJ. VALOR ADUANEIRO. DESPESAS DE CAPATAZIA. POSSIBILIDADE DE INCLUSÃO. MATÉRIA SUBMETIDA AO RITO DO RECURSO ESPECIAL REPETITIVO. TEMA 1.014. AGRAVO INTERNO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO, DETERMINAR A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+DECISÃO
+Cuida-se de agravo interno manejado pela FAZENDA NACIONAL em face de decisão de minha lavra resumida da seguinte forma:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. VALOR ADUANEIRO. DESPESAS DE CAPATAZIA. INCLUSÃO. IMPOSSIBILIDADE. ART. 4º, § 3º, DA IN SRF 327/2003. ILEGALIDADE. CONCLUSÃO, POR UNANIMIDADE, DO JULGAMENTO DO RESP 1.641.228 NO ÂMBITO DA SEGUNDA TURMA DESTA CORTE EM SENTIDO CONTRÁRIO À PRETENSÃO DA FAZENDA NACIONAL. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+A agravante insurge-se contra a decisão agravada alegando, dentre outras questões, que a matéria de fundo foi afetada a julgamento perante a Primeira Seção do STJ em recurso especial repetitivo (REsps nºs 1.799.306; 1.799.308; e 1.799.307), circunstância que afasta a incidência da Súmula nº 568 do STJ, razão pela qual pretende o sobrestamento do recurso especial ou, no mérito, o seu provimento para determinar a inclusão dos valores relativos à capatazia no valor aduaneiro base de cálculo da tributação na importação.
+Requer a reconsideração da decisão agravada ou a submissão do feito a julgamento perante a Turma.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A decisão agravada merece reforma.
+A Primeira Seção desta Corte submeteu a matéria de fundo à sistemática dos recursos especiais repetitivos, tema 1.014, no âmbito dos REsps nºs 1.799.306; 1.799.308; e 1.799.307, de relatoria do Ministro Gurgel de Faria, com a seguinte questão: "Inclusão de serviços de capatazia na composição do valor aduaneiro".
+A admissão de recurso especial como representativo da controvérsia impõe que os recursos interpostos (na Corte de origem), que tratem da mesma questão central, fiquem suspensos até o pronunciamento definitivo deste Tribunal.
+Posteriormente, tais recursos devem ter seguimento negado (na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça) ou devem ser novamente examinados pelo Tribunal de origem (na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça).
+Assim, com fulcro no art. 1.021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, conheço do agravo interno para, em juízo de retratação, tornar sem efeito a decisão agravada e determinar a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após publicado o acórdão relativo ao recurso representativo da controvérsia, o recurso especial seja submetido ao procedimento acima referido.
+Publique-se. Intimem-se.
