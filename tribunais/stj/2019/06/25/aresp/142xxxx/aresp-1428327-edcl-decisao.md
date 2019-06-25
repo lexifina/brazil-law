@@ -1,0 +1,15 @@
+EMENTA
+ROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão monocrática que não conheceu do recurso especial, assim ementada (fl. 380):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO DE COBRANÇA. PRESSUPOSTOS PARA A APRECIAÇÃO DO MÉRITO. COISA JULGADA MATERIAL. TESE NÃO PREQUESTIONADA. SÚMULA 211/STJ. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 14 DA LEI 12.016/2009. INOCORRÊNCIA. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Os embargantes aduzem, em síntese, a ocorrência de obscuridade, erro de fato e a necessidade do "esclarecimento da respeitável decisão de fls. 380-384 (e-STJ), tendo em vista a dificuldade deles a compreenderem, uma vez nenhum dos referidos fundamentos é apto a barrar o conhecimento do recurso especial de fls. 248-261 (e-STJ)" (fl.390).
+Sem impugnação.
+É o relatório. Decido.
+De início, registra-se que, nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, a irresignação não merece obter êxito.
+Do que se observa, a decisão embargada resolveu a controvérsia ao assentar que (i) "o acolhimento da pretensão dos recorrentes depende do reconhecimento de que se formou, in casu, coisa julgada material. Entretanto, o Tribunal a quo nada disse acerca do ponto, o qual carece, portanto, de necessário prequestionamento, atraindo o óbice da Súmula n. 211/STJ" (fl. 381); (ii) incide, à hipótese, da Súmula 7/STJ, vez que "para acolher a alegada ocorrência de afronta à coisa julgada, na forma pretendida pelos insurgentes, seria necessário o revolvimento do acervo fático-probatório dos autos" (fl. 383); e (iii) "o acórdão recorrido está em harmonia com a jurisprudência desta Corte Superior" (fl. 363), colacionando, inclusive, precedente da Segunda Turma deste e. STJ a respeito de caso análogo .
+Quanto ao argumento de que o decisum embargado restou obscuro quanto ao suposto equívoco na aplicação da Súmula 7/STJ em relação à tese de afronta à coisa julgada, nota-se que não há obscuridade há ser sanada, visto que, conforme consignado na decisão ora vergastada, para modificar a conclusão da Corte local, fundada nos fatos e provas dos autos, de que não houve certificação do trânsito em julgado da decisão em ação coletiva, demandaria reanálise de matéria fático-probatória, providência vedada em sede de recurso especial, conforme a Súmula 7/STJ.
+No mais, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já julgado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
