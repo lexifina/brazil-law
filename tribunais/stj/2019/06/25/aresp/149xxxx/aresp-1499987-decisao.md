@@ -1,0 +1,31 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CREDIFIBRA S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DECLARATÓRIA. DANO MORAL. INSCRIÇÃO EM BANCO DE DADOS. DIVIDA QUITADA. QUANTUM INDENIZATÓRIO. HONORÁRIOS ADVOCATÍCIOS MAJORADOS. SUCUMBÊNCIA RECURSAL.
+INSCRIÇÃO EM BANCO DE DADOS: A autora teve seu nome cadastrado negativamente, por uma dívida contraída e quitada.
+Nada justifica a parte ré ter cadastrado o nome da autora nos órgãos restritivos de crédito, embora, mais do que ninguém, tivesse condições de apurar a veracidade dos fatos narrados. É dever da requerida dar baixa a débitos pagos, via boleto.
+DANO MORAL. REDUÇÃO. MAJORAÇÃO: Perene que numa sociedade de consumo o crédito exerce função vital, cujo nome perante o SPC/SERASA importa em restrição ao acesso a linhas de financiamento.
+A prova do dano é in re ipsa; e a prova de inexistência do prejuízo é da parte apelante (inciso II, do artigo 333, do CPC).
+O valor fixado (R$ 8.000,00), a título de dano moral, não destoa do que normalmente é fixado pelo Colegiado (R$ 7.000,00), não merecendo ser reduzido.
+Apelação da instituição financeira desacolhido.
+Não há motivo para majoração da indenização do dano moral, em favor da autora, eis que a mera suscetibilidade maior ou menor da parte, inclusive o grau de tolerância não indica que seja razão suficiente para tal pedido. Recurso adesivo que se nega provimento, neste ponto.
+ÔNUS SUCUMBENCIAL: De inteira responsabilidade da empresa requerida, observado o resultado do julgamento.
+HONORÁRIOS ADVOCATÍCIOS: Honorários advocatícios fixados em percentual que merecem ser majorado para o percentual de 17% do valor de condenação, observado o trabalho desenvolvido. Inteligência do artigo 85, §2º, do CPC/15.
+SUCUMBÊNCIA RECURSAL: O não provimento do apelo da empresa requerida faz incidir a regra do § 11 do art. 85 do NCPC.
+DERAM PARCIAL PROVIMENTO AO RECURSO ADESIVO DA PARTE AUTORA. NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO DA CREDIFIBRA.
+Nas razões do recurso especial, aponta a parte recorrente a existência de dissídio jurisprudencial, pugnando pela minoração do valor fixado a título de danos morais.
+É o relatório. DECIDO.
+2. O recurso não comporta a análise de divergência jurisprudencial, uma vez que o recurso especial fundamentado no permissivo constitucional da alínea "c" requisita, em qualquer caso, tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Nesse passo, tem-se que a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial, atraindo, como atrai, a incidência do Enunciado n. 284 da Súmula do Supremo Tribunal Federal, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: AgRg nos EDcl no AREsp 76.762/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 01/10/2013, DJe 09/10/2013; e, AgRg no AREsp 165.810/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 24/09/2013, DJe 01/10/2013.
+Sobre a questão, oportuno ressaltar que a Corte Especial deste Tribunal Superior, no julgamento do Agravo Regimental no Recurso Especial n. 1.346.588/DF, reafirmou a necessidade do recorrente apontar o dispositivo de lei federal com interpretação divergente, sob pena de se impor aos membros desta Corte a identificação, de ofício, do texto legal sobre o qual se alega o dissídio, e de ferir a ampla defesa e contraditório, ante a dificuldade do recorrido em identificar de forma clara e precisa a tese jurídica a ser impugnada.
+O referido julgado está assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+ ..
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(Rel. Ministro Arnaldo Esteves Lima, julgado em 18/12/2013, DJe de 17/3/2014).
+3. Ademais, este Superior Tribunal já deixou assente a impossibilidade do conhecimento do dissídio lastreado na diferença entre os valores arbitrados a título de danos morais ante a inexistência de similitude fática, já que "em se tratando de danos morais, torna-se incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos" (AgRg no Ag n. 1.179.405/SP, Relator o Ministro João Otávio de Noronha, Quarta Turma, DJe de 13/4/2010).
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
