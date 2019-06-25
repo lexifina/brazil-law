@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 1.022 DO CPC/2015 INEXISTENTE. OBRIGAÇÃO DE FAZER. FAZENDA PÚBLICA. ASTREINTES. MAJORAÇÃO. POSSIBILIDADE. RECURSO NÃO CONHECIDO.
+1. O cerne da questão jurídica debatida nos autos cinge-se à possibilidade de majoração de multa diária, contra a Fazenda Pública, por descumprimento de obrigação de fazer.
+2. Inexiste a alegada afronta ao art. 1.022 do CPC, visto que a Corte de origem apreciou todas as questões relevantes ao deslinde da controvérsia de modo integral e adequado, não padecendo o acórdão recorrido de qualquer violação à norma invocada.
+3. De acordo com a jurisprudência do STJ, a fixação da pena de multa para garantir o cumprimento da decisão judicial é ato discricionário do julgador, que deve observar os critérios de razoabilidade e proporcionalidade, bem como atender às finalidades preventiva e repressiva da pena, podendo majorá-la, reduzi-la, ou mesmo supri-la.
+4. Acórdão recorrido que somente poderia ser modificado mediante o reexame dos aspectos fáticos da causa, o que é obstado, em Recurso Especial, pela Súmula 7/STJ.
+5. A competência do STJ restringe-se à interpretação e uniformização do direito infraconstitucional federal, não sendo cabível o exame de eventual violação a dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102, III, e 105, III, da Constituição Federal.
+6. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, objetivando a reforma do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO Execução provisória de sentença prolatada em ACP Dever do Estado Majoração de multa diária Cabimento Decisão mantida Recurso improvido (fl. 135, e-STJ).
+Opostos Embargos de Declaração (fls. 142-152, e-STJ), estes foram rejeitados (fls. 157-161, e-STJ).
+Nas razões do Recurso Especial (fls. 167-181, e-STJ), a parte recorrente sustenta violação dos arts. 536, 537 e 1.022 do CPC/2015; 412 do CC; e 5º, LV e 93, IX, da CF/1988. Alega, em suma, negativa de prestação jurisdicional e que "a majoração da pena de multa diária em seu desfavor é desarrazoada, tendo em vista as várias manifestações nos autos que comprovam que estão sendo adotadas todas as medidas, dentro do que a lei permite, para o cumprimento da ordem judicial advinda" (fl. 173, e-STJ).
+Defende que "a majoração da multa de R$ 1.000,00 para R$ 5.000,00, não se mostra proporcional, ainda mais quando demonstrado que a soma do seu valor atual já ultrapassa o custo das obras, assim, não há necessidade de majoração do valor da multa diária que já se mostra mais do que suficiente para custear o valor do pedido principal" (fl. 180, e-STJ).
+Apresentadas as contrarrazões (fls. 185-198, e-STJ), o recurso foi inadmitido na origem (fls. 199-200, e-STJ), o que ensejou a interposição de Agravo (fls. 203-212, e-STJ).
+Para melhor análise da controvérsia, foi dado provimento ao Agravo, determinando-se sua conversão em Recurso Especial (fl. 242, e-STJ).
+O Ministério Público Federal, em parecer, opinou pelo desprovimento do apelo (fls. 245-255, e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 3 de junho de 2019.
+O cerne da questão jurídica debatida nos autos cinge-se à possibilidade de majoração de multa diária, contra a Fazenda Pública, por descumprimento de obrigação de fazer.
+Inicialmente, no que diz respeito à suposta ofensa ao art. 1.022 do CPC/2015, observa-se que o Tribunal de origem manifestou-se fundamentadamente, de modo integral e adequado, a respeito de todas as questões postas à sua apreciação. Logo, em virtude da não ocorrência de omissão, contradição, obscuridade ou erro material no julgado, não se verifica afronta à norma ora invocada.
+No mais, o Tribunal decidiu a demanda com base no seguinte fundamento:
+No presente caso, o magistrado a quo majorou o valor da multa para tentar forçar o município a cumprir o avençado em outubro de 2015 e trazer aos autos relatório das obras ainda pendentes de execução e em qual prazo serão executadas.
+Em se tratando do arbitramento da multa diária imposta em caso de descumprimento, não há que se falar na sua redução, uma vez que "as "astreintes" podem ser fixadas pelo juiz de ofício, mesmo sendo contra pessoa jurídica de direito público, que ficará obrigada a suportá-las caso não cumpra a obrigação de fazer no prazo estipulado" (STJ-RF 370/297: 6ª. T., REsp 201.378).
+Nesse diapasão tem se decidido no Egrégio Superior Tribunal de Justiça, "consoante entendimento consolidado do Superior Tribunal de Justiça, em se tratando de obrigação de fazer, é permitido ao juízo da execução, de ofício ou a requerimento da parte, a imposição de multa cominatória ao devedor, mesmo que seja contra a Fazenda Publica". (AG RG REsp. nº. 439.935/RS, rel. Min. GILSON DIPP, j. em 01.10.02) (fl. 136, e-STJ).
+O acórdão recorrido encontra-se em sintonia com a jurisprudência do STJ, no sentido de que "é possível ao juiz, de ofício ou a requerimento da parte, fixar multa diária cominatória - astreintes -, ainda que contra a Fazenda Pública, em caso de descumprimento de obrigação de fazer" (REsp 1.654.994/SE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 25/4/2017).
+Portanto, a fixação da pena de multa é ato discricionário do julgador, que deve observar os critérios de razoabilidade e proporcionalidade, bem como atender às finalidades preventiva e repressiva da pena, podendo majorá-la, reduzi-la, ou mesmo supri-la.
+Sendo assim, não há falar em violação aos regramentos legais indicados pela parte recorrente em suas razões recursais.
+A propósito:
+PROCESSUAL CIVIL. FAZENDA PÚBLICA. OBRIGAÇÃO DE FAZER. ASTREINTES. EXCLUSÃO. POSSIBILIDADE. PRECEDENTES DO STJ.
+1. A determinação de multa diária como meio de garantir o cumprimento da decisão judicial tem nítida feição liminar, o que permite ao magistrado, no uso de sua discricionariedade, aferir sua oportunidade e razoabilidade, majorando-a, reduzindo-a, ou até mesmo suprimindo-a.
+2. O STJ já decidiu que, no que se refere à decisão que fixa a astreintes, "não há que se falar em coisa julgada material e, tampouco em preclusão. Isso porque, se ao magistrado é facultado impor a multa, de ofício, quer dizer, independente de manifestação das partes, não seria razoável vedar-lhe a sua suspensão. Tendo o julgador a discricionariedade em aplicar o ato intimidatório ao devedor, nos casos em que vislumbrar a necessidade dessa coerção para se alcançar a tutela específica, poderá, também, revogá-la quando ela for desnecessária" (REsp 1019455/MT, Rel. Ministro Massami Uyeda, Terceira Turma, DJe 15.12.2011). No mesmo sentido: REsp 1186960/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 5.4.2016; AgRg no REsp 1191081/RJ, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 20.8.2012; REsp 867.883/RS, Rel. Ministro Castro Meira, Segunda Turma, DJ 29.5.2007.
+3. Recurso Especial não provido (REsp 1.685.400/SC, Rel. Min. Herman Benjamin, DJe 16.10.2017).
+Não obstante isso, rever o entendimento adotado pela Corte a quo, com o objetivo de acolher a pretensão recursal, demanda revolvimento de matéria fática, o que é inviável em Recurso Especial, à luz do óbice contido na Súmula 7 do STJ.
+Por fim, consigne-se que a competência do STJ restringe-se à interpretação e uniformização do direito infraconstitucional federal, não sendo cabível o exame de eventual violação a dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos dos arts. 102, III, e 105, III, da Constituição Federal.
+Diante do exposto, não conheço do Recurso Especial.
+É como voto.
