@@ -1,0 +1,11 @@
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. UNIFICAÇÃO DE PENAS. CONSIDERAÇÃO DO QUANTUM RESULTANTE DO SOMATÓRIO, BEM COMO DA REINCIDÊNCIA DO APENADO, PARA FINS DE FIXAÇÃO DO REGIME. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] - cumprindo pena privativa de liberdade em regime semiaberto, em razão de condenações pelo crime de furto qualificado (PEC n. 0041282-38.2018.8.26.0050) -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que indeferiu liminarmente a ordem ali impetrada, por entender que a via eleita seria inadequada para a análise de incidentes da execução (Habeas Corpus n. 2102976-90.2019.8.26.0000).
+Alega o impetrante, em síntese, que o Magistrado atuante na Quinta Vara de Execuções Criminais da Capital - SP, determinou a regressão do regime aberto para o semiaberto, levando em consideração o tempo de pena a cumprir (mais de quatro anos) e a reincidência em crime patrimonial, com fundamento nos artigos 44, § 5º, do Código Penal e 111, parágrafo único, c.c. o artigo 118, II da Lei n. 7210/84, com a expedição de mandado de prisão em desfavor do paciente (fl. 6).
+Postula, então, a concessão liminar da ordem, a fim de que seja assegurado ao paciente o direito de aguardar em liberdade o julgamento do agravo em execução interposto pela defesa.
+É o relatório.
+O presente deve ser indeferido liminarmente, porquanto, o Magistrado singular, ao unificar as penas e reconhecer a reincidência do paciente em crime patrimonial, decidiu de acordo com o entendimento deste Superior Tribunal, no sentido de que não cabe ao Juiz da Execução rever a pena e o regime aplicados no título judicial a cumprir. Contudo, é de sua competência realizar o somatório das condenações (unificação das penas), analisar a natureza dos crimes (hediondo ou a ele equiparados) e a circunstância pessoal do reeducando (primariedade ou reincidência) para fins de fruição de benefícios da LEP (AgRg no AREsp n. 1.237.581/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/8/2018).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
