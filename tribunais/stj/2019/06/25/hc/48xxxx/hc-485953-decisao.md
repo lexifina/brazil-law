@@ -1,0 +1,18 @@
+EMENTA
+HABEAS CORPUS. PROCESSO PENAL. SENTENÇA QUE EXTINGUIU A PUNIBILIDADE DO PACIENTE. INTERPOSIÇÃO DE RECURSO DE APELAÇÃO. TEMPESTIVIDADE E AUSÊNCIA DE MÁ-FÉ. PRINCÍPIO DA FUNGIBILIDADE. POSSIBILIDADE. RECEBIMENTO COMO RECURSO EM SENTIDO ESTRITO. PRECEDENTES.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], em razão do acórdão proferido pelo Tribunal de Justiça de São Paulo na Correição Parcial n. 2197181-82.2017.8.26.0000.
+Eis a ementa do julgado (fl. 81):
+CORREIÇÃO PARCIAL. Insurgência defensiva contra decisão que recebeu recurso de apelação interposto pelo Ministério Público como recurso em sentido estrito e, em juízo de retratação, "reformou" sentença que julgou extinta a punibilidade do acusado (artigo 89, § 5º da Lei 9.099/95), determinando o prosseguimento da ação penal. Não acolhimento. Inexistência de inversão tumultuária do processo. Decisão recorrida pela qual o Juízo a quo corrigiu evidente desacerto da sentença que declarara extinta a punibilidade, mesmo após notícia de que o corrigente veio a ser processado durante o prazo do benefício da suspensão condicional do processo. Tumulto processual decorrente de erro ocorrido no recebimento do recurso. Necessidade de aplicação do princípio da fungibilidade recursal. Recurso desprovido.
+Busca-se, liminarmente e no mérito, a concessão da ordem para que seja reconhecida a nulidade da decisão de primeiro grau que aplicou o princípio da fungibilidade para receber apelação ministerial como recurso em sentido estrito e acolheu as razões do Parquet em juízo de retratação, a fim de que o citado apelo seja processado e remetido ao Tribunal de Justiça para julgamento.
+Alega-se, para tanto, que não há que falar na aplicação do princípio da fungibilidade dos recursos, porque os requisitos não estão presentes (fl. 8), que é evidente a inversão tumultuária do feito e que não há previsão legal para que o juízo de primeiro grau analise o conteúdo do recurso interposto pelas partes, usurpando competência do juízo ad quem (fl. 9).
+O pedido de liminar foi indeferido (fls. 94/97).
+Prestadas as informações (fls. 100/102), o Ministério Público Federal, em parecer exarado pelo Subprocurador-Geral da República [NOME], manifestou-se pelo não conhecimento do writ ou, caso contrário, pela denegação da ordem (fls. 107/110).
+É o relatório.
+Inicialmente, segundo a norma controvertida, o art. 581, VIII, do Código de Processo Penal, cabe recurso em sentido estrito contra decisão que decretar a prescrição ou julgar, por outro modo, extinta a punibilidade.
+No caso, sendo interposta apelação contra a decisão que extinguiu a punibilidade do paciente, cabível a sua conversão em recurso em sentido estrito caso não reste configurada a existência de erro grosseiro, prejuízo para a parte, má-fé ou a inobservância do prazo estabelecido em lei para o recurso a ser substituído (AgInt no REsp n. 1.725.086/ES, Ministro Jorge Mussi, Quinta Turma, DJe 25/5/2018). No mesmo sentido: AgRg no HC n. 429.524/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 9/10/2018.
+Por conseguinte, como não se constatou a intempestividade do recurso de apelação e em razão da incidência do princípio da fungibilidade, merece confirmação o acórdão estadual, ao asseverar ser correta  ..  a aplicação do princípio da fungibilidade recursal, para, em juízo de retratação, reconhecer o evidente equívoco incorrido quando se declarou extinta a punibilidade do acusado (fl. 88).
+Com efeito, a aplicação da fungibilidade recursal colabora com a existência de um direito processual mais célere e efetivo. Ao dar prioridade à finalidade em detrimento da forma, contribui para um processo mais justo.
+Ante o exposto, denego a ordem.
+Publique-se.
