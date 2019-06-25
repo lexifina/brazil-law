@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. DISCUSSÃO SOBRE A EXISTÊNCIA DE IMPENHORABILIDADE DO BEM DE FAMÍLIA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. FRAUDE À EXECUÇÃO. ALEGADA PRESCRIÇÃO PARA O RECONHECIMENTO DA INEFICÁCIA DA ALIENAÇÃO DO IMÓVEL. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DAS SÚMULAS 282 E 356/STF. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. FRAUDE À EXECUÇÃO.
+Com ressalva de entendimento, face ao que diz o REsp nº 1.141.990/PR, que dispõe sobre a inaplicabilidade da Súmula 375 do STJ às execuções fiscais e considerando que a alienação se deu em data posterior à citação da executada/agravante, impõe-se a manutenção da decisão que reconheceu a fraude à execução na origem.
+RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta ofensa ao art. 1.022 do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas.
+No mérito, alega violação aos arts. 205 do CC e 1º da Lei nº 8.009/90, asseverando que: a) "decorrido mais de 10 anos (prazo máximo da prescrição do atual CC) entre a alienação  em 23.02.2007  e a data do reconhecimento da ineficácia da alienação decretada em 17.04.2017, pois o negócio jurídico se tornou imutável pela ocorrência da prescrição" (fl. 199); b) "ineficaz uma alienação ocorrida há mais de 10 anos atrás" (fl. 199); c) "a decisão recorrida não reconheceu a impenhorabilidade do imóvel" (fl. 199), ignorando documentos que atestam que a recorrente residia no imóvel penhorado; e d) "se o imóvel alienado era imune a penhora por se tratar de único bem imóvel residencial, não há que se falar em fraude à execução da alienação do bem" (fl. 202).
+Invoca, ainda, divergência jurisprudencial.
+Em suas contrarrazões, o recorrido pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi admitido pela decisão de fls. 260/267.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+De outra parte, o Tribunal de origem, soberano na apreciação das provas carreadas aos autos, registrou que "não consta dos documentos transmitidos neste instrumento prova de que o imóvel servia de residência da alienante" (fl. 132).
+Desta forma, acolher a pretensão recursal, para reconhecer a impenhorabilidade do bem de família, nos moldes da Lei nº 8.009/90, requer o revolvimento da matéria de fato, providência inviável em sede de recurso especial, por ambas as alíneas do permissivo constitucional, em razão do óbice contido na Súmula 7/STJ.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. MEDIDA CAUTELAR PREPARATÓRIA. SÓCIOS. INDISPONIBILIDADE DE BENS. GRUPO ECONÔMICO. CONFUSÃO PATRIMONIAL. POSSIBILIDADE. PROVAS. REEXAME INVIÁVEL. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal de origem concluiu ser possível e necessária a medida cautelar de indisponibilidade de parte dos ativos da recorrente, por haver indícios suficientes de confusão patrimonial e insuficiência de bens das empresas executadas na medida preparatória para futuro redirecionamento em execução fiscal.
+2. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1414782/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 01/03/2016, DJe 08/03/2016) (grifou-se)
+Por fim, quanto à alegada prescrição para o reconhecimento da ineficácia da alienação do imóvel, observa-se que o Tribunal de origem não se pronunciou sobre o disposto no art. 205 do CC, e eventual omissão nem sequer foi suscitada, tempestivamente, por meio de embargos de declaração, razão pela qual é inviável o conhecimento da questão, também por ambas as alíneas do permissivo constitucional, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356/STF, por analogia).
+Com efeito, apenas por meio do expediente de fls. 161/163, a recorrente apontou o decurso de "10 anos entre a alienação do bem e o reconhecimento da fraude", o que, em seu entender, justificaria o acolhimento da arguição de prescrição de que trata o art. 205 do CC. Contudo, inadmissível tal aditamento, porquanto, uma vez opostos, em primeiro lugar, os aclaratórios de fls. 147/150, operou-se a chamada preclusão consumativa.
+A corroborar esse entendimento, destaca-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA NA ALEGAÇÃO DE CONTRARIEDADE AO ART. 535 DO CPC/1973. INCIDÊNCIA DA SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF.
+1. É deficiente a fundamentação do recurso especial em que a alegada ofensa ao art. 535 do CPC/1973 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF.
+2. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Observa-se que em nenhum momento foi sequer ventilada a vedação da compensação das contribuições devidas a terceiros. Nesse aspecto, a admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia, nos termos da Súmula 284/STF.
+4. Recurso especial não conhecido.
+(REsp 1673756/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/02/2018, DJe 16/02/2018) (grifou-se)
+Diante do exposto, com base no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se. Intimem-se.
