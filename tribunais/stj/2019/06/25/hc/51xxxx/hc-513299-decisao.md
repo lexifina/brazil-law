@@ -1,0 +1,13 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0011506-19.2015.8.26.0625).
+Requer a defesa, liminarmente e no mérito, seja fixado regime inicial menos gravoso, em processo no qual o paciente foi condenado pela prática do crime previsto no art. 35, caput, c/c o art. 40, III, IV e VI, todos da Lei n. 11.343/2006, à pena de 6 anos e 8 meses de reclusão, em regime inicial fechado, mais multa.
+A liminar foi indeferida e, dispensadas as informações, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Quanto à pretendida imposição de regime menos gravoso de cumprimento de pena, constato que o Juiz sentenciante entendeu devida a fixação do modo inicialmente fechado, conforme trechos abaixo (fl. 132, grifei):
+O cumprimento da pena deve se iniciar em regime fechado, pela quantidade de pena aplicada (artigo 33 do Código Penal) e pelos motivos expostos na dosimetria da pena, considerada a gravidade concreta do delito e suas conseqüências deletérias para a sociedade, mormente se se considerar que a associação denunciada, de grande magnitude, é para o tráfico de drogas. Ainda, reporto-me às razões expostas na dosimetria da pena para justificar a fixação do regime inicial fechado a todos os condenados.
+O Tribunal de origem, por sua vez, manteve o regime inicial mais gravoso nos seguintes termos (fl. 172, grifei):
+Foi corretamente fixado o regime inicial fechado, diante do quantum da reprimenda imposta a cada um dos réus, bem como por serem desfavoráveis as circunstâncias na primeira fase da dosimetria da pena, e pela reincidência dos réus CÉSAR e CARLOS ROBERTO, nos termos do artigo 33, § 2o, alínea "a", e § 3o, do Código Penal.
+No caso, conforme visto, as instâncias ordinárias justificaram a fixação do regime inicial mais gravoso com base nas peculiaridades do caso concreto, notadamente na existência de circunstâncias judiciais desfavoráveis (tanto que a pena-base foi fixada acima do mínimo legal), elemento que justifica a imposição de regime prisional mais gravoso do que o cabível em razão da reprimenda aplicada, nos termos do art. 33, § 3º, e 59 do Código Penal.
+Portanto, em homenagem ao princípio do livre convencimento motivado e uma vez que foram apontados argumentos concretos e específicos dos autos para a escolha do regime prisional fechado, não há como esta Corte simplesmente se imiscuir no juízo feito pelas instâncias ordinárias para fixar regime inicial mais brando de cumprimento de pena ao acusado.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
