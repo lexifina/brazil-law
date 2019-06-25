@@ -1,0 +1,25 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. QUESTÃO NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O JULGAMENTO DO DA APELAÇÃO DEFENSIVA. SUPERVENIÊNCIA DE ACÓRDÃO APRECIANDO O RECURSO VOLUNTÁRIO. PREJUDICIALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], em que consta como coator o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Paciente foi condenado pelo Juízo de primeira instância às penas de 7 (sete) anos e 6 (seis) meses de reclusão, e pagamento de 750 (setecentos e cinquenta) dias-multa, em regime inicial fechado, pela prática do crime disposto no art. 33, caput, da Lei n.º 11.343/2006, pois surpreendido com 3.699,990 g (três quilos seiscentos e noventa e nove gramas e novecentos e noventa decigramas) de maconha, acondicionados em 112 (cento e doze) tijolos (fls. 40-59). Na ocasião, foi negado ao Condenado o direito de recorrer em liberdade, por permanecerem presentes os motivos da segregação cautelar.
+No presente writ, alega o Impetrante, inicialmente, a ilegalidade na decretação da prisão preventiva do Paciente, bem como a manutenção da segregação cautelar pelo Juízo sentenciante, pois os fundamentos apresentados são inidôneos, desarrazoados e desproporcionais (fl. 12).
+Sustenta, ainda, que há excesso de prazo para o julgamento da apelação interposta pela Defesa contra a sentença condenatória, haja vista que o Paciente se encontra preso preventivamente desde 14/06/2017 e o recurso foi interposto em 10/10/2018, ou seja, há quase 6 (seis meses) (fl. 15).
+Requer, liminarmente e no mérito, seja deferido ao Paciente o direito de permanecer em liberdade até o trânsito em julgado da sentença condenatória e seja reconhecido o excesso de prazo para o julgamento do recurso de apelação interposto pela Defesa (fls. 38-39).
+Em despacho de fl. 159 foi concedido ao Impetrante prazo para trazer aos autos os documentos faltantes, os quais foram juntados às fls. 162-169.
+Indeferi o pedido liminar, nos termos da decisão de fls. 171-174.
+Contra a decisão que indeferiu a liminar foram opostos embargos de declaração, os quais não foram conhecidos (fls. 381-384).
+As judiciosas informações foram prestadas às fls. 386-388 e fls. 394-396, com a juntada de peças processuais pertinentes à instrução do feito.
+O Ministério Público Federal manifestou-se às fls. 399-407, opinando pelo não conhecimento do habeas corpus, ou, então, pela denegação da ordem.
+É o relatório.
+Decido.
+Inicialmente, observa-se que a alegação de carência na fundamentação da custódia cautelar não foi objeto de análise pelo Colegiado estadual - não há acórdão do Tribunal de origem a respeito da matéria -, o que impede o conhecimento da tese pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Nesse sentido:
+"PROCESSUAL PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO DA CUSTÓDIA. MATÉRIA NÃO EXAMINADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO. INOCORRÊNCIA. PLURALIDADE DE RÉUS. COMPLEXIDADE DA CAUSA. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. HABEAS CORPUS CONHECIDO EM PARTE E, NESSA EXTENSÃO, DENEGADO.
+1. A alegação de ausência de fundamentação para a prisão não foi objeto de conhecimento pelo Tribunal de origem no aresto ora combatido (por se tratar de reiteração de outro habeas corpus anteriormente impetrado - e cujo acórdão não foi juntado aos autos da presente impetração), não podendo, assim, ser apreciada por este Superior Tribunal, sob pena de indevida supressão de instância.
+2. A aferição da razoabilidade da duração do processo não se efetiva de forma meramente aritmética. É necessário ter em conta a complexidade da causa, a atuação estatal e das partes. In casu, verifica-se a existência de intrincado feito, pautado pela pluralidade de réus (trinta e cinco), abarcando questões sobre a competência para julgamento do processo, sendo necessário o desmembramento do feito em relação ao paciente e oito corréus, tendo em vista o reconhecimento de conexão e de continência, mostrando-se, assim, que o trâmite processual encontra-se compatível com as particularidades da causa, não se tributando, pois, aos órgãos estatais indevida letargia.
+3. Habeas corpus parcialmente conhecido e, nessa extensão, denegado." (HC 450.557/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 07/08/2018, DJe 14/08/2018, sem grifos no original.)
+De outra parte, em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de São Paulo, verifiquei que, em 05/06/2019, foi julgada a Apelação Criminal n.º 0001556-09.2017.8.26.0530, sendo mantida a sentença condenatória.
+Dessa forma, verifico que a alegação de excesso de prazo para o julgamento da apelação defensiva encontra-se prejudicada.
+Ante o exposto, NÃO CONHEÇO do habeas corpus.
+Publique-se. Intimem-se.
