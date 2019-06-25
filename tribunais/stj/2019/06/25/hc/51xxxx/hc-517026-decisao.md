@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de KEVIN KENNEDY DA SILVA RATAO, na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - HC n. 2112941-92.2019.8.26.0000, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Noticiam os autos que o paciente encontra-se preso preventivamente, por ter, supostamente, cometido o delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+Sustenta o impetrante que se estaria diante de flagrante ilegalidade passível de afastar o óbice contido no enunciado 691 da Súmula do Supremo Tribunal Federal.
+Entende que não estariam presentes os requisitos previstos no artigo 312 do Código de Processo Penal para a decretação da segregação cautelar, uma vez que o paciente seria primário, de bons antecedentes, não integra organização criminosa e nem se dedica à atividades criminosas.
+Defende que, caso condenado, fará jus à fixação de regime inicial aberto, com substituição da custódia por restritiva de direitos, razão pela qual a prisão preventiva do acusado seria mais severa que os efeitos de sua eventual condenação.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva do paciente, expedindo-se alvará de soltura em seu favor.
+É o relatório.
+Este Superior Tribunal de Justiça, "na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem" (AgRg no HC 417.895/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, tendo em vista que a decisão objurgada não se mostrou teratológica, restando fundamentada a negativa do pleito liminar.
+Com efeito, o Desembargador Relator consignou que "A matéria arguida na impetração diz respeito ao próprio mérito do writ, escapando, portanto, aos restritos limites da medida liminar, que há de ser deferida apenas nos casos em que exsurge flagrante o constrangimento ilegal apontado, o que não é o caso dos autos" (e-STJ fl. 36).
+Desta forma, não se constata qualquer vício na negativa do pleito liminar formulado no mandamus originário, sendo certo que o revolvimento das questões nele aventadas e aqui reiteradas certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento do seu mérito.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se. Intime-se.
