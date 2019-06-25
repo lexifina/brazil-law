@@ -1,0 +1,13 @@
+DECISÃO
+Conforme delineado no despacho proferido à fl. 2254 (e-STJ), está evidenciado, nos autos, questionamento a respeito da legitimidade da Caixa Econômica Federal e da competência da Justiça Federal, no que concerne a contratos vinculados ao Sistema Financeiro da Habitação - SFH e eventual comprometimento do Fundo de Compensação de Variações Salariais - FCVS.
+Em primeiro lugar, a competência interna corporis para o julgamento de tais questões ainda não está pacificada no STJ, pois a Corte Especial ainda não concluiu o julgamento do CC n. 140.456. Ou seja, não é possível, nesse momento, sequer asseverar se a Segunda Turma e/ou a Primeira Seção são o juízo natural para o exame da presente contenda.
+Além disso, o Plenário Virtual do Supremo Tribunal Federal, no RE n. 827.996/PR, em 5 de outubro de 2018, reconheceu a repercussão geral da matéria relativa ao
+interesse jurídico da Caixa Econômica Federal no feito e, por conseguinte, a competência da Justiça Federal para o processamento e julgamento das causas que envolvam os seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação.
+Portanto, a bem da segurança jurídica e da devida pacificação dos conflitos, evitando decisões dissonantes entre o STF e o STJ, os recursos relativos à matéria devem retornar ao tribunal a quo, para aguardar o julgamento do RE n. 827.996/PR e, então, realiazr o juízo de adequação regulado pelos arts. 1.039 e 1.040 do CPC/2015.
+Nesse sentido nos AREsp n. 966.543/PR e n. 826.653/PR, nos termos seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. AÇÃO DE RESPONSABILIDADE SECURITÁRIA. SISTEMA FINANCEIRO DA HABITAÇÃO. INTERESSE JURÍDICO DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. REPERCUSSÃO GERAL DO TEMA RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL (RE 827.996/PR). DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM.
+(AgInt no AREsp 826.653/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/10/2018, DJe 24/10/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. AÇÃO DE RESPONSABILIDADE SECURITÁRIA. SISTEMA FINANCEIRO DA HABITAÇÃO. INTERESSE JURÍDICO DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. REPERCUSSÃO GERAL DO TEMA RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL (RE 827.996/PR). DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM.
+(AgInt no AREsp 826.653/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/10/2018, DJe 24/10/2018)
+Em razão disso, determino a remessa dos autos ao tribunal de origem para que se aguarde o julgamento do RE n. 827.996/PR pelo Supremo Tribunal Federal, e, então, se proceda ao juízo dos arts. 1.039 e 1.040 do CPC/2015.
+Publique-se. Intimem-se.
