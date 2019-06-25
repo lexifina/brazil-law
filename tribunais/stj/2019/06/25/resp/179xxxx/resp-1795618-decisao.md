@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. CUMPRIMENTO DE SENTENÇA. MULTA PELO DESCUMPRIMENTO DE OBRIGAÇÃO DE FAZER. INTIMAÇÃO PESSOAL DO DEVEDOR. NECESSIDADE. SÚMULA 410/STJ.
+1. Ação de conhecimento em fase de cumprimento de sentença.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. Conforme a orientação prevalecente nesta Corte, ressalvado o entendimento pessoal desta Relatora, "é necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer antes e após a edição das Leis n. 11.232/2005 e 11.382/2006, nos termos da Súmula 410 do STJ, cujo teor permanece hígido também após a entrada em vigor do novo Código de Processo Civil" (EREsp 1.360.577/MG, Corte Especial, DJe de 07/03/2019).
+4. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME] e ELIANE FROSSARD [NOME] [NOME], com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de conhecimento em fase de cumprimento de sentença, ajuizada pelos recorrentes, em face de LUCIO-ENGENHARIA E CONSTRUCOES LTDA, SISTEMA FÁCIL - TAMBORÉ 7 VILLAGGIO - SPE LTDA e UNIBANCO NEGOCIOS IMOBILIARIOS LTDA, na qual pleiteiam a regularização da matrícula do imóvel compromissado aos recorrentes, bem como a outorga da escritura definitiva do imóvel descrito na inicial.
+Decisão interlocutória: acolheu impugnação ao cumprimento de sentença, para afastar a multa diária indicada pelos recorrentes, limitando a execução à parcela relativa aos honorários advocatícios.
+Acórdão: negou provimento ao agravo de instrumento interposto pelos recorrentes, nos termos da seguinte ementa:
+CUMPRIMENTO DE SENTENÇA - Decisão que acolheu impugnação ao cumprimento de sentença, para declarar inexigíveis astreintes cobradas em razão de cumprimento tardio de obrigação de fazer estabelecida em tutela antecipada deferida no próprio bojo da sentença - Inconformismo dos exequentes, que alegam inaplicabilidade do enunciado da Súmula 410 do STJ, fundamento ao acolhimento da impugnação - Não acolhimento - Entendimento consolidado pelo próprio Superior Tribunal de Justiça no sentido da imprescindibilidade da intimação pessoa do devedor para cobrança de multa por descumprimento de obrigação de fazer ou não fazer, mesmo para obrigações constituídas após o advento das Leis 11.232/2005 e 11.382/2006 - Precedentes - Impossibilidade de cobrança da penalidade, mesmo depois do advento do CPC/2015 - Aplicação do art. 14 do atual código processual - Decisão interlocutória mantida - Recurso não provido. (e-STJ Fl. 48)
+Recurso especial: alega violação dos arts. 513, § 2º, I, 536, capu e § 1º, e 537, caput e §§ 3º, 4º e 5º, do CPC/15, bem como dissídio jurisprudencial. Sustenta ser desnecessária a intimação da parte para o cumprimento de sentença antes do trânsito em julgado da decisão. Afirma ser devida a incidência de multa pelo não cumprimento espontâneo da decisão.
+Relatado o processo, decide-se.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 513, § 2º, I, 536, caput e § 1º, e 537, caput e §§ 3º, 4º e 5º, do CPC/15, indicados como violados. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na espécie, a Súmula 282/STF.
+- Da Súmula 568/STJ
+O TJ/SP, ao decidir ser necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer antes e após a edição das Leis n. 11.232/2005 e 11.382/2006, alinhou-se ao entendimento do STJ quanto à matéria. Nesse sentido: AgInt no REsp 1509707/MG, Terceira Turma, DJe de 10/04/2019 e AgInt no AgRg no AREsp 808.413/SP, Quarta Turma, DJe de 22/05/2019.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ.
+Deixo de majorar honorários advocatícios, nos termos do art. 85, § 11, do CPC/2015, pois não fixados na origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
