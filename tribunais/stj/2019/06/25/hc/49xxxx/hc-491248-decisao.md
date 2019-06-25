@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de PAULA FERREIRA DA SILVA, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo que indeferiu liminar no writ de origem.
+Durante a tramitação, sobreveio o julgamento, por acórdão assim ementado (fl. 89):
+Habeas corpus. SEQÜESTRO E CÁRCERE PRIVADO, RECEPTAÇÃO, ORGANIZAÇÃO CRIMINOSA E TORTURA.Nulidades no flagrante e no auto de reconhecimento. Inocorrência. Prisão preventiva. Revogação. Inadmissibiiidade. Presença de indícios de autoria e materialidade. Paciente acusada de ser integrante da facção denominada "PCC" e de ter supostamente cometido os delitos em comento contra o ofendido, o qual é cadeirante e teve suas pernas queimadas, bem como foi agredido com diversos tapas em seu rosto e ameaçado de morte durante horas, estando na iminência de ser morto por determinação do "tribunal do crime", o que não se efetivou em razão de abordagem policial resultando na prisão em flagrante dos envolvidos, que, inclusive, foram reconhecidos em solo policial. Gravidade concreta das condutas. Periculum libertatis caracterizado e que deflui do modus operandi dos delitos. Custódia necessária para garantia da ordem pública, bem como para a conveniência da instrução criminal e aplicação da lei penal, a teor dos arts. 312 e 313, I, do CPP. Decisão que determinou a prisão preventiva fundamentada, ratificada por ocasião do recebimento da denúncia. Aplicação de medidas cautelares alternativas insuficiente. Feito, outrossim, próximo de ser julgado. Constrangimento ilegal não configurado. Ordem denegada.
+A paciente responde pela prática dos delitos tipificados nos arts. 2º, §2º, da Lei 12.850/2013, 148, § 2º, c/c o 29 e 180, c/c o artigo 29, todos do CP, e art. 1º, inciso II, c/c o § 4º, II e III, da Lei 9.455/97, c/c o 29 do CP, tudo na forma do 69 do mesmo código.
+O impetrante busca a revogação da prisão preventiva, com a alegação de que estão ausentes indícios mínimos da prática dos crimes. Aduz, ainda, que há irregularidades na audiência de custódia e falta de fundamentação idônea.
+A liminar foi indeferida.
+As informações solicitadas constam dos autos.
+O Ministério Público manifestou-se pelo não conhecimento.
+Na origem, processo n. 1500540-80.2018.8.26.0571, houve conclusão para sentença em 14/6/2019, conforme informações processuais eletrônicas constantes no sítio do Tribunal a quo em 14/6/2019.
+É o relatório.
+DECIDO.
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Ademais, eventuais irregularidades ocorridas no flagrante ficam superadas com a conversão da prisão em preventiva, constituindo o decreto novo título contra o qual insurgências devem ser dirigidas. À propósito: RHC 99.992/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/08/2018, DJe 22/08/2018; RHC 97.677/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/08/2018, DJe 13/08/2018.
+Por fim, no procedimento do writ a prova deve ser pré-constituída e incontroversa. A peça inicial veio desacompanhada do decreto de prisão, documento indispensável para o deslinde da controvérsia.
+Resta, portanto, impossibilitada a análise da alegação de falta de fundamentação da prisão.
+Ocorre que é pacífico o entendimento desta Corte Superior que o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (AgRg no HC n. 289076/SP - 5ª T. - unânime - Rel. Min. Regina Helena Costa - DJe 19/5/2014; AgRg no HC n. 291366/PE - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 29/5/2014; HC n. 269077/PE - 6ª T. - Rel. Min. Sebastião Reis Júnior - DJe 2/6/2014).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
