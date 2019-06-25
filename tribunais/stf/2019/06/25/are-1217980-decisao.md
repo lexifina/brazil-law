@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal Regional Federal da da 4ºª Região, reformando o entendimento do Juízo, julgou improcedente o pedido de equiparação entre servidores ativos e inativos, assentando o caráter não genérico da gratificação pleiteada. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 40, § 8º, da Constituição Federal, 3º, parágrafo único, da Emenda Constitucional nº 47/2005, e 7º da Emenda Constitucional nº 41/2003. Discorre sobre o direito à paridade e à isonomia.
+    2. A decisão recorrida está em consonância com a jurisprudência do Supremo. Confiram com a seguinte ementa:
+    PROCESSUAL CIVIL E ADMINISTRATIVO. SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO AO ART. 5º, XXXV, LIV E LV, DA CONSTITUIÇÃO FEDERAL. OFENSA CONSTITUCIONAL REFLEXA. SERVIDOR PÚBLICO APOSENTADO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DO SEGURO SOCIAL (GDASS). PARIDADE ENTRE ATIVOS E INATIVOS. TERMO FINAL. PROCESSAMENTO DOS RESULTADOS DA PRIMEIRA AVALIAÇÃO INDIVIDUAL DE DESEMPENHO. REDUÇÃO DO PERCENTUAL PAGO. INFRINGÊNCIA AO PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS. INOCORRÊNCIA. PRECEDENTE.
+    1. Apreciando a Gratificação de desempenho do Plano Geral de Cargos do Poder Executivo (GDPGPE), cujo regramento é similar ao da Gratificação de desempenho de Atividade do Seguro Social (GDASS), o Plenário do STF, no julgamento do RE 631.389, Rel. Min. MARCO AURÉLIO, DJe de 3/6/2014, Tema 351, submetido ao regime do art. 543-B do CPC, decidiu pela sua concessão aos inativos, no mesmo percentual pago aos ativos, apenas até que fossem processados os resultados da primeira avaliação de desempenho. A partir desse termo, a gratificação perde sua natureza geral e adquire o caráter pro labore faciendo.
+    2. Assim, avaliados os servidores em atividade, o pagamento da GDASS aos pensionistas e inativos deverá observar o art. 16 da Lei 10.855/04, o que não ofende o princípio da irredutibilidade de vencimentos.
+    3. Agravo regimental a que se nega provimento. (segundo agravo regimental no recurso extraordinário com agravo 774.673/PR, relatado pelo ministro Teori Zavascki, em 11 de novembro de 2014, na Segunda Turma).
+    A par desse aspecto, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    ADMINISTRATIVO. SERVIDOR PÚBLICO. IBAMA. GDAMB. GTEMA. PARIDADE COM SERVIDORES DA ATIVA. DESCABIMENTO. Considerando que a totalidade dos servidores ativos do IBAMA recebe a gratificação GDAEM, a qual já é paga em função de avaliações de desempenho desde o ano de 2006, não pode prosperar a pretensão autoral de receber a GDAMB e GTEMA em paridade com os servidores da ativa.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 25 de junho de 2019.
+Ministro MARCO AURÉLIO
+Relator
