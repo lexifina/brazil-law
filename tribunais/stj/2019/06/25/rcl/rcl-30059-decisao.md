@@ -1,0 +1,27 @@
+EMENTA
+RECLAMAÇÃO CONSTITUCIONAL. PREVIDÊNCIA PRIVADA. PROVIMENTO DO ARESP. RECONHECIMENTO. VIOLAÇÃO ART. 535 DO CPC. DETERMINAÇÃO. CORREÇÃO. VÍCIOS. EMBARGOS DE DECLARAÇÃO. NÃO OCORRÊNCIA. DETERMINAÇÃO. RETORNO DOS AUTOS À ORIGEM. RECLAMAÇÃO PROVIDA.
+DECISÃO
+Trata-se de reclamação ajuizada por Caixa Beneficiente dos Empregados da Companhia Siderurgica Nacional - CBS, com fundamento nos arts. 105, I, f, da Constituição Federal, 13 da Lei n. 8.038/1990 e 187 do RISTJ.
+Alega a reclamante que, no julgamento do AREsp n. 659.803/RJ, foi reconhecida a violação do art. 535 do CPC/1973, e determinado o retorno dos autos à origem a fim de que fossem supridas as contradições e omissões apontadas nos embargos de declaração.
+Assevera, contudo, que no rejulgamento da causa, o Tribunal de origem manteve a decisão primeva, o que, a seu entender, caracteriza afronta à decisão desta Corte, na medida em que "é dever da Décima Câmara Cível do TJRJ o conhecimento dos embargos e seu consequente provimento" (e-STJ, fl. 6).
+Afirma que o Desembargador Relator "não poderia cumprir a decisão desse Col. Tribunal em razão de os embargos de declaração opostos em face do acórdão do Eg. TJRJ terem sido inadmitidos, haja vista sua suposta "utilização para obter a reconsideração do julgado", pelo que aquele Tribunal decidiu pelo afastamento do seu efeito interruptivo, de maneira que o recurso posterior deveria discutir essa inadmissibilidade, sob pena de intempestividade" (e-STJ, fl. 6).
+Diante disso, pleiteia, em tema liminar, pela suspensão da decisão reclamada, de modo a impedir a formação da coisa julgada nos autos da Apelação Cível n. 0002443-47.2012.8.19.0082, até o julgamento final da presente reclamação. No mérito, pugna pelo provimento da reclamação para preservar a decisão desta Corte que ordenou o retorno do autos à origem e a supressão das contradições e omissões apontadas nos embargos de declaração opostos pela reclamante.
+Brevemente relatado, decido.
+Consoante se extrai do relatório, esta reclamação foi ajuizada com fundamento tanto no art. 105, I, f, da Constituição Federal quanto na Resolução 12/2009 do Superior Tribunal de Justiça.
+A reclamação constitucional é um remédio destinado a preservar a competência do Superior Tribunal de Justiça ou para garantir a autoridade de suas decisões, sempre que haja indevida usurpação por parte de outros órgãos de sua competência constitucional, nos termos do art. 105, I, f, da Constituição Federal.
+No caso, no rejulgamento do recurso, estes foram os fundamentos adotados pelo Tribunal de origem para, novamente, rejeitar os embargos de declaração (e-STJ, fls. 46-48):
+1. Cogitam-se de Embargos de Declaração oferecidos pelo apelado, em face do Acórdão embargado, o qual por unanimidade deu provimento ao recurso.
+2. Inexistem no V. Acórdão qualquer dos vícios a que se refere o art. 535 do CPC, já que nele estão, de forma clara e objetiva, elencados todos os fundamentos que serviram para dar ao conflito de interesses, a adequada solução jurídica.
+3. Se assim não concorda, deverá valer-se do recurso apropriado, que não é o presente, já que os embargos de declaração, representam recurso tendente ao esclarecimento ou a integração da decisão recorrida;
+4. É ele um recurso especial que não se destina nem à reforma e nem a cassação da decisão atacada. A função dele é tão somente aclarar a decisão embargada, quando maculada pelos vícios de obscuridade, contradição ou omissão, devendo ser visto como um incidente de complementação do julgado;
+5. Destarte, o desvio de função empregado na maioria das vezes aos embargos declaratórios deve ser repelido, pois como na decisão embargada inexiste o alegado vício, não há o que se falar em embargos declaratórios e sim, em pré questionamento para vencer óbices sumulares com vistas a interposição de recursos aos tribunais superiores;
+6. Verifica-se pelos embargos, que o recorrente valeu-se deste recurso para, apontando "contradição e omissões" no acórdão pretender rediscutir os fundamentos do acórdão embargado;
+7. O confronto entre o provimento da apelação Cível e o teor dos declaratórios não permite nenhuma dúvida de que o embargante pretendia, através dos aclaratórios, a revisão do julgado e não sua integração.
+8. Não há contradição nem omissões no decisum que justificassem o recurso do artigo 535 do CPC. A absoluta inconsistência da argumentação da embargante não se limita à aplicação do comando legal, mas conflita, também, com os fatos.
+9. Diante disso tudo, conclui-se que os embargos de declaração foram desvirtuados de sua finalidade. O recurso foi utilizado como pedido de reconsideração, distorcendo, inclusive, as circunstâncias concretas que dizia impugnar. Isso se constitui em litigância de má-fé (artigo 17,
+II e VII e 18 do CPC).
+10. Como não há contradição nem omissões no julgado, os aclaratórios perderam sua característica legal.
+11. O corolário processual disto é a inaplicabilidade do artigo 538, caput do CPC, que prevê o efeito interruptivo dos embargos de declaração.
+Dessume-se que, as omissões e contradições não foram sanadas pelo acórdão, de modo que se faz necessário o retorno dos autos à origem para novo julgamento da causa.
+Ante o exposto, ratifico a liminar e dou provimento à reclamação para tornar sem efeito o acórdão proferido pela Décima Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro - Processo n. 0002443-47.2012.8.19.0082 - e determinar o retorno dos autos à origem para que promova nova análise do feito e o julgue como entender de direito.
+Publique-se.
