@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME], apontando como autoridade coatora a 3ª Câmara Criminal do Tribunal de Justiça do Estado de Mato Grosso do Sul, no julgamento da Apelação Criminal n. 0001971-59.2011.8.12.0055.
+Noticiam os autos que o paciente foi denunciado como incurso no artigo 155 do Código Penal, tendo sido absolvido pelo magistrado singular.
+Inconformado, o Ministério Público interpôs recurso de apelação, que foi provido para condenar o réu à pena de 1 (um) ano, 5 (cinco) meses e 15 (quinze) dias de reclusão, no regime inicial fechado, mais pagamento de 12 (doze) dias-multa, nos termos da exordial acusatória.
+Sustenta a impetrante que o édito absolutório deveria ser restabelecido, pois não haveria qualquer elemento colhido sob o crivo do contraditório que demonstrasse a ocorrência dos fatos narrados na vestibular.
+Requer, liminarmente e no mérito, a reforma do aresto impugnado.
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105, inciso III, da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+Superado esse óbice, é impossível acolher o pleito de absolvição do acusado, uma vez que a instância de origem formou seu livre convencimento de acordo com o conjunto probatório produzido tanto na fase inquisitorial quanto na instrução criminal, concluindo pela existência de autoria e materialidade a ela assestadas.
+Ao reformar a sentença absolutória, a autoridade impetrada consignou que "a vítima [NOME] declarou em juízo: "Minha amiga e companheira de casa, Laila, antes de morrer namorou [NOME]. Certo dia ela saiu de casa e deixou a chave em um esconderijo, ele viu. Quando voltamos para a casa, um vizinho contou que [NOME] tinha entrado lá junto com [NOME], meu namorado na época, e que tinham levado várias coisas na mochila. Levou uma batedeira, um kit da Natura, DVD.." - mídia de f. 160" (e-STJ fls. 301/302).
+Acrescentou que, "afora a vítima [NOME], [NOME] confirmou ter sido [NOME] o autor do furto - mídia de f. 160", razão pela qual acolheu "o pedido de condenação de [NOME] pela prática do crime de furto" (e-STJ fl. 303).
+Diante deste panorama fático-processual, a desconstituição do édito repressivo, conforme pretendido no writ, demandaria o exame aprofundado do conjunto probatório produzido no feito, providência que é inadmissível na via estreita do habeas corpus, mormente pelo fato de que vigora no processo penal brasileiro o princípio do livre convencimento, em que o julgador pode decidir pela condenação, desde que motivadamente.
+Com efeito, a estreita via do habeas corpus não permite reanalisar as razões e motivos pelos quais as instâncias de origem formaram o seu convencimento, especialmente como na hipótese, em que apresentaram motivação suficiente à condenação do paciente, sendo indubitável que, para se concluir de forma diversa seria imprescindível a realização de exame minucioso do conjunto probatório, providência que é inviável de ser adotada no âmbito do remédio constitucional, diante dos seus estreitos limites cognitivos.
+Nessa esteira:
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. (..) PLEITOS DE ABSOLVIÇÃO E DESCLASSIFICAÇÃO. VIA INADEQUADA. (..) ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+(..)
+3. Para se acolher a tese relativa à absolvição em relação ao primeiro fato delituoso, ou mesmo o pedido de desclassificação, seria necessário reapreciar exaustivamente todo o conjunto fático-probatório dos autos, o que se mostra incabível na via do habeas corpus.
+(..)
+9. Ordem parcialmente conhecida e, nessa extensão, denegada. Habeas corpus concedido, de ofício, para, reconhecendo a atenuante da confissão espontânea em relação ao primeiro fato delituoso, diminuir a pena definitiva do Paciente para 7 (sete) anos de reclusão, em regime inicial fechado, mais 35 (trinta e cinco) dias-multa.
+(HC 438.562/RR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/05/2019, DJe 30/05/2019)
+No mesmo norte:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO (ART. 157, § 2º, INCS. I E IV, CP) E ASSOCIAÇÃO CRIMINOSA (ART. 288, CAPUT, CP). ABSOLVIÇÃO POR INSUFICIÊNCIA PROVAS. DESCABIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. (..) HABEAS CORPUS NÃO CONHECIDO. ORDEM CONHECIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - O Tribunal a quo entendeu estar presente provas suficientes da materialidade e da autoria delitiva dos crimes de furto qualificado e associação criminosa, previstos nos arts. 155, § 4º, incisos I e IV, e art 288, caput, ambos do Código Penal. Rever este entendimento para absolver os pacientes demandaria, necessariamente, amplo revolvimento do acervo fático-probatório dos autos, procedimento que, a toda evidência, é incompatível com a estreita via do habeas corpus. Nesse sentido os seguintes precedentes desta Corte Superior.
+(..)
+Habeas corpus não conhecido. Ordem concedida de ofício apenas para reduzir as penas dos pacientes, pelo crime constante do art. 288, caput, do Código Penal (associação criminosa), para 3 (três) anos de reclusão, mantidos os demais termos da condenação.
+(HC 434.105/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/05/2018, DJe 29/05/2018)
+Dessa forma, tendo a decisão impugnada asseverado que há provas da ocorrência do delito e da autoria atribuída ao paciente, e apresentado fundamentação idônea e suficiente à sua condenação, não há que se falar em desconstituição do édito repressivo, já que inexistente o constrangimento ilegal de que estaria sendo alvo.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
