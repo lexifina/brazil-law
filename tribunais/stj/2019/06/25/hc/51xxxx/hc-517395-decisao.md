@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Mato Grosso do Sul.
+Colhe-se dos autos que o paciente teve a prisão preventiva decretada em 23/07/2018, pela suposta prática de um homicídio qualificado, nos autos da Ação Penal nº 0000280-46.2018.08.12.0017, em curso na Comarca de Nova Andradina, aguardando a data da submissão do paciente ao Tribunal do Júri.
+O paciente teve ainda sua prisão preventiva decretada nos autos da Ação Penal nº 0900093-92.2018.8.12.0002, em curso na Comarca de Dourados, pela suposta prática do delito de associação criminosa, após investigação do GAECO o apontando como integrante do Primeiro Comando da Capital - PCC.
+Informa que impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Neste writ, o impetrante alega, em síntese: a) "o Paciente é primário, de bons antecedentes, com residência fixa, profissão definida, já aposentado por invalidez em razão de acidente automobilístico, seus familiares comerciantes, estão estabelecidos no endereço deste petitório onde o mesmo auxilia determinado período do dia, como caixa em uma conveniência em nome de sua esposa na cidade de Nova Andradina MS."; b) "o Paciente é autor de Requerimento de aposentadoria por invalidez decorrente de acidente de trânsito, já julgada procedente, pois como se verifica, o mesmo possui fratura em membro inferior que lhe incapacita para exercer atividade laboral de forma permanente, além do que sofre intensa dores, necessitando de medicamentos controlados, mediante se verifica no laudo em anexo."; c) "o Paciente é pessoa de boa índole, com endereço fixo, que nunca esteve envolvido em qualquer atividade ilícita, apesar das constantes abordagens policiais contra sua pessoa na cidade, não havendo motivo para que sua custódia seja mantida."; d) "Não existe qualquer documento ou prova de filiação ao Partido que comanda o crime dentro e fora dos presídios no país. Como explicou em juízo, em seu interrogatório, que o mesmo se viu obrigado a prestar "favores" a integrantes do Partido PCC, para ver seu comércio e sua família longe de perseguições da facção."; e) "há flagrante excesso de prazo para encerramento da instrução processual e realização do Tribunal de Júri." e f) "As provas colacionadas aos autos tanto na Comarca de Nova Andradina como na Comarca de Dourado são as mesmas que a acusação produziu, através de grampos em ligações telefônicas, necessário o trancamento daquele processo." (e-STJ, fls. 5-10).
+Requer a concessão liminar da ordem para que seja revogada a prisão preventiva do paciente ou substituída por medidas cautelares alternativas.
+É o relatório.
+Decido.
+Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+Na espécie, os autos não estão instruídos com cópia da decisão que decretou a prisão preventiva do paciente, bem como com cópia integral do acórdão que denegou o habeas corpus originário, peças imprescindíveis para análise da impetração.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSO INTERPOSTO CONTRA INDEFERIMENTO LIMINAR DO WRIT. INSTRUÇÃO DEFICIENTE. AGRAVO REGIMENTAL DESPROVIDO.
+I - A jurisprudência desta Corte Superior firmou-se no sentido de que a ação mandamental de habeas corpus exige a apresentação de prova pré-constituída, recaindo sobre o impetrante o ônus de instruir corretamente o mandamus, a fim de que seja possível identificar o alegado constrangimento ilegal.
+II - No presente caso, o impetrante não juntou aos autos cópia das decisões que estariam trazendo constrangimento ilegal aos Pacientes, apenas colaciona links de sítios eletrônicos de portais de notícias, em que este relator poderia acessar o conteúdo das decisões, tornando inviável a análise da quaestio.
+Agravo Regimental desprovido"
+(AgRg no HC 438.187/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/3/2018, DJe 27/3/2018).
+"PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PETIÇÃO RECEBIDA COMO AGRAVO REGIMENTAL. POSSIBILIDADE. PRINCÍPIOS DA FUNGIBILIDADE E DA INSTRUMENTALIDADE DAS FORMAS. PRISÃO PREVENTIVA. AUSÊNCIA DE COMPROVAÇÃO. INSTRUÇÃO DEFICIENTE. NECESSIDADE DE PROVA PRÉ-CONSTITUÍDA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Em homenagem aos princípios da economia processual, da celeridade processual e da fungibilidade recursal, a petição é recebida como agravo regimental.
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. Ausentes documentos comprobatórios da irresignação defensiva, inviável a análise da questão por este Superior Tribunal de Justiça.
+4. Petição recebida como agravo regimental, ao qual se nega provimento"
+(PET no HC 441.580/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/4/2018, DJe 27/4/2018).
+Ante o exposto, indefiro liminarmente este habeas corpus.
+Publique-se. Intime-se.
