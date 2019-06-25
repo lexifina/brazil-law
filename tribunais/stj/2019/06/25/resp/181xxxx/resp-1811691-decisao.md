@@ -1,0 +1,20 @@
+DECISÃO
+AWA DISTRIBUIDORA DE MERCADORIAS E SERVIÇOS LTDA. interpôs recurso especial contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+MANDADO DE SEGURANÇA. TAXA DE UTILIZAÇÃO DO SISCOMEX. PEDIDO DE COMPENSAÇÃO. LEGITIMIDADE. AUTORIDADE COATORA. LEI Nº 9.718, DE 1998, ART. 3º. PORTARIA MF Nº 257, DE 2011. REAJUSTE DE VALORES. EXCESSO.
+1. É atribuição da autoridade aduaneira responsável pelo desembaraço aduaneiro o reconhecimento do direito creditório relativo a operação de comércio exterior, cabendo à DRF que tenha atribuição sobre o domicílio tributário do contribuinte a decisão sobre o pedido de compensação, conforme o art. 124 da IN SRF nº 1.717, de 2017.
+2. É legítima a instituição da taxa de utilização do SISCOMEX, instituída pelo artigo 3º da Lei nº 9.718, de 1998, tendo como fato gerador o exercício de poder de polícia da União no âmbito do comércio exterior.
+3. É excessivo o reajuste aplicado aos valores da taxa de utilização do SISCOMEX pela Portaria MF nº 257, de 2011, cabendo a glosa de tal excesso.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação do art. 1.022, II, do CPC/2015, por alegada omissão no acórdão, bem como do art. 3º , § 2º , da Lei n. 9.716/1998 e do art. 78 do CTN, ao argumento de que a majoração da taxa Siscomex deve ser completamente expurgada.
+Contrarrazões foram apresentadas às e-STJ fls. 374/378.
+Decisão de admissibilidade consta à e-STJ fl. 388.
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado n. 3 do Plenário do STJ).
+Feita essa anotação, constata-se que o recurso especial não merece ser conhecido quanto à suposta violação do art. 535 do CPC/1973 (correspondente ao art. 1.022 do CPC/2015), porquanto esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, a recorrente limita-se a afirmar que a Corte a quo não teria apreciado as questões ventiladas nos embargos de declaração, sem indicar em que aspectos residiriam as omissões. Essa circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes AgInt no AREsp 1.245.152/PE, Relator Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 08/10/2018, REsp 1.627.076/SP, Relator Ministra REGINA HELENA COSTA, Primeira Turma, DJe 14/08/2018, AgInt no AREsp 1.134.984/MG, Relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 06/03/2018, e AgInt no REsp 1.720.264/MG, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 21/09/2018.
+Quanto à tese de violação do § 2º do art. 3º da Lei n. 9.716/1998 ("os valores de que trata o parágrafo anterior poderão ser reajustados, anualmente, mediante ato do Ministro de Estado da Fazenda, conforme a variação dos custos de operação e dos investimentos no SISCOMEX"), o recurso não pode ser conhecido.
+É que o conhecimento do recurso encontra óbice na Súmula 7 do STJ, uma vez que eventual conclusão pela correlação da correção implementada pela portaria com "a variação dos custos de operação e dos investimentos no SISCOMEX" depende, à evidência, da produção e do exame de elementos de prova, sendo certa a insuficiência da delimitação fática contida no acórdão recorrido, para o fim de eventual revisão de sua conclusão.
+Pertinente anotar que o Supremo Tribunal Federal vem decidindo pela inconstitucionalidade da delegação estabelecida pelo § 2º do art. 3º da Lei n. 9.716/1998 (v.g.: RE 109.5001, rel. Min. Dias Toffoli, Segunda Turma, julgado em 06/03/2018, DJe-103; e RE 959.274, rel. p/ acórdão Min. Roberto Barroso, Primeira Turma, julgado em 29/08/2017, DJe-234).
+Ante o exposto, com base no art. 255, § 4º, I, do RI/STJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
