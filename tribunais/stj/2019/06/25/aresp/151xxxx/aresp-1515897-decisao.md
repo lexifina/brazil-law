@@ -1,0 +1,36 @@
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por [NOME] e MATHEUS NOBERTO BEZERRA DA SILVA contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. Tribunal de Justiça do Estado de Sergipe, assim ementado (fl. 422):
+"APELAÇÃO CRIMINAL - CRIME DE TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES, EM CONCURSO MATERIAL (ARTIGOS 33 E 35, DA LEI 11.343/2006 C/C ART. 69, DO CP) - RECURSO DA DEFESA - PLEITO ABSOLUTÓRIO, COM LASTRO NO ARTIGO 386, INCISO VII, DO CPP - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE DELITIVAS SOBEJAMENTE COMPROVADAS - PROVA TESTEMUNHAL E DEMAIS ELEMENTOS PROBATÓRIOS, SOMADOS À CONFISSÃO DOS RÉUS QUE EVIDENCIAM A PRÁTICA DOS DELITOS - ANIMUS ASSOCIATIVO DEMONSTRADO - DOSIMETRIA - PLEITO DE APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA DO §4º. ART. 33. DA LEI 11.343/2006 - INACOLHIDO - REQUISITOS NÃO PREENCHIDOS ACUSADOS QUE CONDENADOS PELA PRÁTICA DO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO PRECEDENTES DO STJ - PLEITO DE EXCLUSÃO DA PENA DE MULTA - INVIABILIDADE - PENALIDADE PREVISTA EM PRECEITO SECUNDÁRIO - PEDIDO DE CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA - INDEFERIMENTO - RÉUS QUE CONSTITUÍRAM ADVOGADO PARTICULAR PARA A SUA DEFESA E ADQUIRIRAM A DROGA POR QUANTIA CONSIDERÁVEL AUSÊNCIA DE DEMONSTRAÇÃO DE SITUAÇÃO ECONÔMICA PRECÁRIA - ÚNICA INTENÇÃO DE SE EXIMIR DA CONDENAÇÃO PECUNIÁRIA. APELO CONHECIDO E IMPROVIDO."
+Consoante se extrai dos autos, os agravantes, [NOME] [NOME] [NOME] NASCIMENTO e MATHEUS NOBERTO BEZERRA DA SILVA, foram condenados como incursos nas sanções do artigo 33 e artigo 35, ambos da Lei 11.343/06, às penas de 8 (oito) anos de reclusão, em regime inicial semiaberto, além do pagamento de 1.200 (mil e duzentos) dias-multa (fls. 306-312).
+Irresignada, a Defesa interpôs apelação, à qual, por unanimidade, o eg. Tribunal a quo negou provimento (fls. 431-447).
+No recurso especial, interposto com fundamento no art. 105, inciso III, alínea c, da Constituição da República, as partes recorrentes, alegando divergência jurisprudencial, sustentaram violação do: artigo 35 da Lei 11.343/06, face a fundamentação inidônea utilizada pelo eg. Tribunal quando da tipificação do crime de associação para o tráfico.
+A Defesa pleiteou, portanto, i) a concessão da gratuidade de justiça, ante a condição financeira dos insurgentes; ii) reforma da decisão recorrida, a fim de que seja reconhecida a minorante do tráfico privilegiado.
+Apresentadas as contrarrazões (fls. 464-469), sobreveio juízo negativo de admissibilidade fundado na incidência da: i) Súmula 7/STJ, uma vez que a análise da questão implicaria em revolvimento fático-probatório (fls. 472-480).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo (fls. 516-519).
+É o relatório.
+Decido.
+No caso, os agravantes deixaram de infirmar, de maneira adequada e suficiente, a única razão apresentada pelo eg. Tribunal de origem para negar trânsito ao recurso especial, qual seja a incidência da Súmula 7/STJ, não bastando, para tanto, deduzir genericamente a inaplicabilidade do óbice apontado na decisão agravada.
+In casu, quanto ao óbice da Súmula 7/STJ, em síntese, as partes afirmaram o que segue:
+"Não se trata de revaloração de provas, mas de interpretação divergente e equivocada dos dispositivos legais.
+ ..
+No caso em apreciação, a violação aos artigos 35 e conseqüente afastamento da minorante do § 4o do artigo 33, todos da Lei de Tóxicos, e ao entendimento jurisprudênciaI assente é verificada por meio de mera revaloração dos elementos do acórdão." (fl. 490-493).
+Nesse caso, verifica-se que a Defesa não impugnou, especificamente, o fundamento da decisão agravada relativo à Súmula 7/STJ, porquanto limitou-se a asseverar que a pretensão dos insurgentes diz respeito tão somente à revaloração das provas.
+Entretanto, deveriam os agravantes demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão de admissibilidade impede o conhecimento do respectivo agravo, nos termos do que dispõe a Súmula 182/STJ.
+2. Ainda que assim não fosse, no caso, verifica-se que o acórdão impugnado encontra-se em consonância com o entendimento desta Corte Superior de Justiça firmado no sentido de que o reconhecimento da reincidência do réu é elemento suficiente para impedir a aplicação do redutor, por ausência de preenchimento dos requisitos legais, nos termos do art. 33, § 4º, da Lei de Drogas.
+3. Agravo regimental não provido" (AgRg no AREsp n. 1.323.247/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 26/09/2018, grifei).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE FIXAÇÃO DE REGIME INICIAL DE PENA MAIS BRANDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, especificamente não enfrentou de maneira adequada a incidência da Súmula 284 do STF.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido" (AgInt no AREsp n. 1.140.814/SP, Quinta Turma, de minha relatoria, DJe de 16/02/2018, destaquei).
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ.
+1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos" (AgRg no AREsp n. 1.074.077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/12/2017, grifei).
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
