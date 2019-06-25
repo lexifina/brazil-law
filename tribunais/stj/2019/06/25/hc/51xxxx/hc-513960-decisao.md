@@ -1,0 +1,20 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. APLICAÇÃO DO DECRETO N. 14.454/2017. SUPRESSÃO DE INSTÂNCIA. PRISÃO DOMICILIAR. INAPLICABILIDADE. DETRAÇÃO PENAL. CONDENAÇÃO TRANSITADA EM JULGADO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. EXPEDIÇÃO DE GUIA DE EXECUÇÃO PENAL. NECESSIDADE DE RECOLHIMENTO. PRECEDENTES.
+Writ parcialmente conhecido e, nessa parte, ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], com condenação transitada em julgado, por incursa nos arts. 33, caput, e § 1º, I, e 35 da Lei n. 11.343/2006, às penas de 8 anos de reclusão, em regime inicial fechado, e o pagamento de 1.500 dias-multa, fixados no mínimo legal (Apelação Criminal n. 0001231-06.2007.8.26.0394 - fls. 85/137).
+Aponta-se constrangimento ilegal decorrente do julgamento do HC n. 2066698-90.2019.8.26.0000 pelo Tribunal de Justiça de São Paulo.
+Alega-se, em suma, que: a) a paciente permaneceu 1 ano, 10 meses e 5 dias em prisão cautelar devido a uma pena de 8 anos, por fato anterior à Lei n. 11.464/2007, tendo o direito de progressão de regime por ter cumprido mais que o necessário para tanto e por aplicável a detração, nos termos do art. 387, § 2º, do Código de Processo Penal; e b) o Decreto Presidencial n. 14.454/2017, de indulto pelo Dia das Mães, deve ser aplicado à paciente, pois sua filha contava com 10 anos à época da publicação e a norma também abrange presas em regime aberto (fl. 14).
+Requer-se, ao final, a concessão da ordem para que seja determinada a expedição da guia de execução penal e realizada a detração; que seja concedida prisão domiciliar; ou, ainda, que seja concedido o indulto previsto no art. 1º do Decreto n. 14.454/2017.
+Liminar indeferida (fls. 378/380).
+Informações prestadas (fls. 383/394), o Ministério Público Federal ofereceu parecer pela denegação da ordem (fls. 396/401).
+É o relatório.
+De pronto, verifica-se que as questões relativas à aplicação do Decreto Presidencial n. 14.454/2017 não foram objeto de análise pelo Tribunal a quo, fato que impede a apreciação por esta Corte, sob pena de supressão de instância.
+Quanto ao pedido de prisão domiciliar, como bem afirmou o Tribunal a quo, o decidido no Habeas Corpus coletivo n. 143.641 do E. Supremo Tribunal Federal não se aplica ao presente caso, eis que abarcou a hipótese de concessão da prisão domiciliar para acusadas mães de filhas menores de 12 anos de idade, presas preventivamente e o caso da paciente trata-se de condenação definitiva (fl. 373).
+Nesse sentido: HC n. 477.232/SP, Ministra Laurita Vaz, Sexta Turma, DJe 8/3/2019.
+No mais, o art. 387, § 2º, do Código de Processo Penal, não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas, sim, acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado (HC n. 408.596/GO, Ministro Nefi Cordeiro, Sexta Turma, DJe 29/6/2018).
+Ademais, após o trânsito em julgado, cabe ao Juízo da execução a aplicação da detração penal, verificando, no caso, a possibilidade de fixação de regime prisional mais benéfico (AgRg nos EDcl no AgRg no AREsp n. 1.257.271/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 29/8/2018 - grifo nosso).
+Cumpre salientar que, embora seja possível a detração do período de prisão preventiva no cálculo da pena imposta, para fins de determinação do regime inicial, mostra-se imprescindível que o apenado tenha dado início ao cumprimento da reprimenda, com seu pronto recolhimento à prisão e a expedição da guia de execução e, após tais fatos, seja o Magistrado responsável pela Vara de Execuções Penais imbuído da competência adequada para avaliação de todo e qualquer incidente executório. Precedentes (AgRg no RHC n. 98.308/SP, Ministro Jorge Mussi, Quinta Turma, DJe 12/9/2018 - grifo nosso).
+Ainda nesse sentido: HC n. 340.766/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/6/2018; e AgRg no RHC n. 109.312/RR, de minha relatoria, Sexta Turma, DJe 26/4/2019.
+Ante o exposto, conheço parcialmente do habeas corpus e, nessa parte, denego a ordem.
+Publique-se.
