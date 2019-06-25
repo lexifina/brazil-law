@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário em que se discute a possibilidade de recebimento de honorários advocatícios pela Defensoria Pública quando representa litigante vencedor em demanda ajuizada contra ente público.
+    Bem examinados os autos, verifico que a matéria versada no recurso extraordinário foi examinada por esta Corte na sistemática da repercussão geral (RE 1.140.005-RG/RJ – Tema 1.002).
+    Ressalte-se que, ao se manifestar no sentido de reconhecer a repercussão geral da questão, o relator desse leading case, Ministro Roberto Barroso, salientou que, com a edição das Emendas Constitucionais 74/2013 e 80/2014,
+    “[...] a redação atualmente em vigor do art. 134 da Constituição reforçou o papel institucional da Defensoria Pública, bem como sua autonomia funcional, administrativa e orçamentária. Esse novo quadro permite uma atuação de maior destaque da instituição, inclusive contra entes públicos, notadamente em ações coletivas, tal qual reconhecido por esta Corte na ADI 3.943, Rel. Min. Cármen Lúcia, j. 07.05.2015.
+    Além disso, é fato notório que a maior parte das Defensorias Públicas enfrenta problemas de estruturação de seus órgãos, situação que, em muitos Estados, não corresponde ao grau de aparelhamento do Poder Judiciário e do Ministério Público, a indicar a existência de um desfavorecimento da instituição na escolha de prioridades orçamentárias. Essa situação, inegavelmente, compromete a atuação constitucional da Defensoria Pública, e poderia ser atenuada pelo recebimento de honorários. Essas circunstâncias tornam a matéria de evidente repercussão geral, sob os pontos de vista econômico, político, social e jurídico”.
+    Nesse contexto, a questão em exame nestes autos será impactada pelo julgamento do RE 1.140.005-RG/RJ (Tema 1.002), o que impõe a submissão deste recurso ao regime da repercussão geral. Nesse sentido, destaco as seguintes decisões, entre outras: RE 1.158.529/MT, Rel. Min. Edson Fachin; ARE 1.153.385-AgR/AL, Rel. Min. Rosa Weber; ARE 1.153.398/AL, Rel. Min. Cármen Lúcia; RE 984.880/MT e RE 967.469/MT, Rel. Min. Roberto Barroso.
+    Isso posto, determino a devolução destes autos à origem a fim de que seja observado o disposto nos arts. 1.039, 1.040 e 1.041 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 25 de junho de 2019.
+Ministro Ricardo Lewandowski
+Relator
