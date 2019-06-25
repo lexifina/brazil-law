@@ -1,0 +1,11 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de Sergipe, está assim ementado:
+    “APELAÇÃO CRIMINAL – CRIME CONTRA O PATRIMÔNIO – ROUBO MAJORADO, CONSUMADO E TENTADO – PEDIDO DE ABSOLVIÇÃO – INACOLHIDO – ACERVO PROBATÓRIO CONVINCENTE PARA DEMONSTRAR A MATERIALIDADE E A AUTORIA DELITIVAS. PLEITO DE APLICAÇÃO DA TESE DO CRIME IMPOSSÍVEL (ART. 17 DO CP) – INACOLHIDO – AÇÃO DELITUOSA QUE NÃO SE CONSUMOU POR CIRCUNSTÂNCIAS ALHEIAS À VONTADE DO AGENTE – REQUISITOS DO ART. 17 QUE NÃO SE CONFIGURARAM. PEDIDO DE APLICAÇÃO DO PATAMAR DE DIMINUIÇÃO REFERENTE À TENTATIVA EM SEU GRAU MÁXIMO (2/3) – INACOLHIDO – DIANTE DO ‘ITER CRIMINIS’ PERCORRIDO. – APELO CONHECIDO E IMPROVIDO – UNÂNIME.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito  no art. 5º, XLVI, da Constituição Federal.
+    Cabe registrar, desde logo, que o Plenário do Supremo Tribunal Federal, ao julgar o RE 597.270-QO-RG/RS, Rel. Min. CEZAR PELUSO, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa e reafirmou a jurisprudência desta Corte sobre o tema, proferindo decisão consubstanciada em acórdão assim ementado:
+    “AÇÃO PENAL. Sentença. Condenação. Pena privativa de liberdade. Fixação abaixo do mínimo legal. Inadmissibilidade. Existência apenas de atenuante ou atenuantes genéricas, não de causa especial de redução. Aplicação da pena mínima. Jurisprudência reafirmada, repercussão geral reconhecida e recurso extraordinário improvido. Aplicação do art. 543-B, § 3º, do CPC. Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte estabeleceu – e reafirmou – na matéria em referência.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Publique-se.
+    Brasília, 25 de junho de 2019.
+Ministro CELSO DE MELLO
+Relator
