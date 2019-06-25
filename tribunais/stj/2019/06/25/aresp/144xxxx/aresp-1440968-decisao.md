@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. RESILIÇÃO POR CULPA DA PROMITENTE COMPRADORA. ATRASO NA ENTREGA DA OBRA. SÚMULAS 5 E 7/STJ. CONCLUSÃO NO SENTIDO DA DEVOLUÇÃO DE TODAS AS PARCELAS PAGAS. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por TG SÃO PAULO EMPREENDIMENTOS IMOBILIÁRIOS S.A., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 169):
+COMPROMISSO DE VENDA E COMPRA DE BEM IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL C.C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. Inadimplemento contratual. Atraso na entrega do imóvel. Resolução, por culpa da empreendedora, inquestionável. Inexistência de causas excludentes da ilicitude. Observância do disposto na Súmula 161 deste Tribunal. Retenção parcial dos valores, outrossim, desabrida. Matéria sumulada pelo C. STJ (S. 543). 2. Verbas de assessoria imobiliária. Restituição dos valores quitados pelo comprador. Possibilidade, no caso concreto. Inaplicabilidade do entendimento externado pelo C STJ (REsp nº 1.551.956/SP, Min. Paulo de Tarso Sanseverino). Devolução da integralidade dos valores quitados em razão do inadimplemento contratual atribuído à empreendedora. Providência, longe de importar em afronta ao julgado tirado em sede de recurso repetitivo, que se ajusta ao enunciado pela Súmula 543 do STJ. Ilegitimidade passiva, outrossim, não configurada. Alinhamento da matéria à jurisprudência do C. STJ (Temas 938-939). 3. Danos morais. Não configuração. Reduzido período de inadimplemento contratual. Falta, outrossim, de circunstâncias excepcionais a autorizarem o arbitramento da verba. Precedentes. Condenação afastada. Recurso provido neste tópico. RECURSO PARCIALMENTE PROVIDO.
+
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 222-226).
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 408, 421, 482, 722 e seguintes do Código Civil.
+Esclareceu que se opôs ao acórdão que manteve a devolução da taxa Sati e da comissão de corretagem em razão do resilição de promessa de compra e venda de imóvel. Argumentou que tal conclusão, além de vulnerar os termos de contrato perfeitamente válido e juridicamente perfeito, estabeleceu entendimento divergente do sufragado no REsp 1.551.956/SP. Frisou ser prescrita a ação, pois foi proposta após 3 (três) do pagamento da referida comissão. Aventou a ausência de sua culpa pelo desfazimento do negócio, motivo a afastar a devolução integral dos valores pagos pela parte autora (e-STJ, fls. 177-193).
+Nas razões do agravo, a parte insurgente impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 239-249).
+Contraminuta não apresentada (e-STJ, fl. 251).
+Brevemente relatado, decido.
+Consoante o acórdão, não se discutiu a legalidade da taxa Sati e da comissão de corretagem, mas a culpa da promitente vendedora pela resilição da promessa de compra e venda (entendimento fundado em fatos, provas e termos contratuais - Súmulas 5 e 7/STJ). Com efeito, não restaram "dúvidas de que se implementou o atraso na entrega do imóvel adquirido pela recorrida. Expirado o prazo ajustado na avença, ainda que preservado o prazo de tolerância estabelecido contratualmente, remanescia à adquirente a possibilidade de exigir a reparação pelo ilícito contratual, preservando-se o ajuste, ou demandar pela sua resolução, tal como estabelecido" (e-STJ, fl. 171).
+Dessa forma, "era mesmo caso, portanto, de devolução integral do montante solvido, afastada qualquer retenção" (e-STJ, fl. 172), porquanto a compradora não se mostrou inadimplente, conforme a Súmula 543/STJ.
+Esse entendimento encontra suporte na jurisprudência desta Corte Superior, atraindo-se a aplicação da Súmula 83/STJ.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Inviável a interpretação de cláusulas contratuais e o reexame de matéria de fato em sede de recurso especial, ante o óbice das Súmulas 5 e 7 do STJ.
+2. O valor arbitrado a título de reparação civil observou os critérios de proporcionalidade e de razoabilidade, além de estar compatível com as circunstâncias narradas no acórdão, não se revelando exorbitante. Assim, a sua eventual redução demandaria a reanálise de provas, o que é vedado em recurso especial ante o óbice da Súmula 7/STJ.
+3. Na hipótese, o Tribunal local seguiu orientação desta Corte, no sentido de que o atraso na entrega do imóvel enseja o pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Incidência da Súmula 83/STJ.
+3.1. A conclusão do órgão julgador quando ao termo final do pagamento dos lucros cessantes resultou da análise das circunstâncias fáticas, bem como da interpretação de cláusulas contratuais. Incidência das Súmulas 5 e 7 do STJ.
+4. Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento, a teor do disposto na Súmula 543 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1114698/AM, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/06/2018, DJe 27/06/2018)
+ Não custa lembrar que, em situação similar à descrita nestes autos, em acórdão desta relatoria, foi estipulada a devolução integral do montante já pago, inclusive da taxa Sati e da comissão de corretagem.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. DEVOLUÇÃO DE QUANTIAS PAGAS. RETENÇÃO DE PERCENTUAL. IMPOSSIBILIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. PRESCRIÇÃO. COMISSÃO DE CORRETAGEM E SATI. ÓBICE DA SÚMULA 283 DO STF. LEGITIMIDADE PASSIVA. COMISSÃO DE CORRETAGEM. SÚMULA 283 DO STF. AGRAVO IMPROVIDO.
+1. A conclusão adotada se apoiou em entendimento consolidado nesta Corte. Incidência da Súmula n. 83 do STJ.
+2. A ausência de impugnação específica das razões pelas quais o Tribunal a quo deixou de conhecer da matéria atrai o óbice das Súmulas 283 e 284 do STF.
+3. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, deve ela ser mantida por seus próprios fundamentos.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1721988/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/09/2018, DJe 27/09/2018)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 1% sobre o valor da condenação.
+Publique-se.
