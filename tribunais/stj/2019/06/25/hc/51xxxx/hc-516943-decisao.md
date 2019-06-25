@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] na qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTICA DO ESTADO DE SÃO PAULO - HC n. 2125384-75.2019.8.26.0000, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Noticiam os autos que o paciente foi preso em flagrante no dia 25-03-2019, por ter, supostamente, cometido o delito previsto no art. 33, caput, da Lei n. 11.343/2006, tendo a custódia sido convertida em preventiva.
+Aduz a impetrante, em breve síntese, a ausência de fundamentação idônea para justificar o decreto da segregação cautelar do paciente, reputando não atendidos os requisitos autorizadores da preventiva, previstos no art. 312 do Código de Processo Penal.
+Alega que não teria sido demonstrado, com base em elementos concretos, como a liberdade do acusado poderia oferecer risco à ordem pública, ao bom andamento da instrução criminal ou à aplicação da lei penal.
+Realça as condições pessoais favoráveis do paciente, que seria primário, com apenas 19 anos, ocupação lícita e residência fixa, predicados que lhe garantiriam o direito de responder à ação penal em liberdade.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva do paciente, fixando, caso entenda necessário, medidas cautelares menos gravosas (art. 319 do CPP), expedindo-se alvará de soltura em seu favor.
+É o relatório.
+Este Superior Tribunal de Justiça, "na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem" (AgRg no HC 417.895/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (e-STJ, fl. 19):
+ ..
+Ao revés, a aludida decisão fundou-se na análise da situação concreta posta nos autos, notadamente pela existência de prova da materialidade do delito e indícios suficientes de autoria e pela gravidade concreta do delito imputado ao paciente, notadamente pela quantidade de droga apreendida em porções individualizadas (31 microtubos plásticos de cocaína pesando 5,42g e 0,20g de crack), além da necessidade da garantia da ordem pública, o que, a princípio, recomenda maior cautela na apreciação do pleito.
+Assim, impõe-se o regular processamento desta ação mandamental para melhor apreciação do alegado, sempre observados os limites do presente remédio heroico.
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária, para manter, ao menos por ora, a constrição cautelar do paciente.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Pelo exposto, indefere-se liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
