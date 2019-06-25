@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO - ECAD contra acórdão proferido pelo TJDFT assim ementado (e-STJ fls. 1.487/1.488):
+AÇÃO DE COBRANÇA DE DIREITOS AUTORAIS. BRASÍLIA MUSIC FESTIVAL.
+1. O evento Brasília Music Festival 2003 pode ser enquadrado na modalidade representação pública, na qual ocorre "a utilização de composições musicais ou litero-musicais, mediante a participação de artistas, remunerados ou não, ou a utilização de fonogramas e obras audiovisuais, em locais de freqüência coletiva" (Lei n. 9.610/98, art. 68, § 2º).
+2. No que tange à legitimidade para figurar no pólo passivo das ações que versam sobre a cobrança de direitos autorais, estabelece o artigo 110 da Lei de Direitos Autorais que, "pela violação de direitos autorais nos espetáculos e audições públicas, realizados nos locais ou estabelecimentos a que alude o artigo 68, seus proprietários, diretores, gerentes, empresários e arrendatários respondem solidariamente com os organizadores dos espetáculos".
+3. Havendo cobrança de ingressos o percentual devido a título de direitos autorais deve incidir sobre a receita bruta do evento, sem a necessidade de aferição de estimativa de público.
+4. A atualização monetária deve incidir, nas dívidas líquidas e certas, a partir da data em que seria devido o seu respectivo pagamento. Na mesma esteira, especificamente no que concerne aos direitos autorais cobrados pelo ECAD, o Superior Tribunal de Justiça se pronunciou no sentido de que é devida a incidência da ""correção monetária desde a data do vencimento de cada parcela". (REsp 109.484/RS, Rel. Ministro RUY ROSADO DE AGUIAR, QUARTA TURMA, julgado em 24/02/1997, DJ 31/03/1997, p. 9638).
+5. Em relação aos juros moratórios, é cediço que estes incidem a partir da data da citação, nos termos do que dispõe o artigo 405 do Código Civil, em interpretação conjunta com o artigo 219 do Código de Processo Civil.
+6. A jurisprudência do Superior Tribunal de Justiça já se pronunciou no sentido de que a "aplicação da multa prevista no artigo 109 da Lei n.º 9.610/98 demanda a existência de má-fé e intenção ilícita de usurpar os direitos autorais. ..1". (AgRg nos EDcI no Ag 938.715/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/05/2008, DJe 23/05/2008).
+7. Na espécie, o requerente sucumbiu apenas quanto ao valor da condenação, obtendo êxito total em relação aos demais pedidos. Todavia, é necessário ponderar a proporção da perda do autor, que representou relevante diminuição da quantia pleiteada na petição inicial. Sopensando-se tais fatores, apresenta-se razoável a sucumbência da parte autora no percentual de 20% (vinte por cento).
+8. A jurisprudência do Superior Tribunal de Justiça já se pacificou no sentido de que "nas causas em que não haja condenação, os honorários advocatícios devem ser fixados de forma eqüitativa, nos termos do § 4º do artigo 20 do CPC, não ficando o julgador adstrito aos limites percentuais estabelecidos no § 3º do mesmo artigo" (REsp 401.249/MT, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 03/10/2002, DJ 09/12/2002, p. 340). De fato, em tais casos, o julgador não se restringe aos percentuais estabelecidos no § 3º do artigo 20 do CPC, bem como não se vincula ao valor da condenação. Além disso, nessas situações, consoante expressa autorização legal, o magistrado deve pautar-se pela observância aos princípios da eqüidade e da proporcionalidade para a fixação dos honorários advocatícios. Em consonância com os parâmetros do § 3º do artigo 20 do Código de Processo Civil, e considerada a sucumbência parcial do autor, revela-se compatível a fixação de honorários advocatícios ao no valor de R$ 2.500,00 (dois mil e quinhentos reais).
+9. Recursos conhecidos, parcialmente provido o da parte autora e não provido o da parte ré.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.579/1.584).
+Nas razões do recurso especial (e-STJ fls. 1.615/1.632), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alega ofensa ao art. 535 do CPC/1973 não só pela omissão quanto ao termo inicial da contagem dos juros, que deve ser da data do evento danoso, mas também por ausência de apreciação da multa prevista no regulamento de arrecadação.
+Reputa violado o art. 110 da Lei n. 9.610/1998 ao ser confirmada a ilegitimidade passiva dos patrocinadores do evento objeto de cobrança.
+Indica inobservância da Súmula n. 54 do STJ, defendendo que os juros de mora incidem a partir do evento danoso.
+Sustenta ser possível a cobrança da multa de 10% prevista no art. 28 da Lei n. 9.610/1998 quando o usuário dos direitos autorais está em mora.
+Considera ser inviável a fixação dos honorários com base na equidade, quando a demanda tem natureza condenatória, inexistindo sucumbência recíproca, conforme arts. 20, §§ 3º e 4º, e 21 do CPC/1973.
+Juízo de admissibilidade positivo (e-STJ fls. 1.713/1.716).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 535, I e II, do CPC/1973.
+Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Desse modo, não assiste razão à parte recorrente, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no art. 535, II, do CPC/1973.
+A respeito da responsabilidade solidária dos patrocinadores do evento, o recorrente indica como violado o art. 110 da Lei n. 9.610/1998, que assim prevê:
+Art. 110. Pela violação de direitos autorais nos espetáculos e audições públicas, realizados nos locais ou estabelecimentos a que alude o art. 68, seus proprietários, diretores, gerentes, empresários e arrendatários respondem solidariamente com os organizadores dos espetáculos
+O dispositivo não prevê a responsabilidade dos patrocinadores. É deficiente a fundamentação do recurso especial quando há incompatibilidade entre a tese sustentada e o comando normativo contido no dispositivo legal apontado como descumprido. Em tal circunstância, aplica-se a Súmula n. 284 do STF.
+Sobre os juros, a divergência jurisprudencial, com fundamento na alínea "c" do permissivo constitucional - nos termos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ -, exige demonstração, com a transcrição dos julgados que configurem o dissídio, mesmo em relação à súmula, não sendo suficiente a simples reprodução de ementas, sem o necessário cotejo analítico, a fim de evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Desse modo, confira-se recente julgado desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. IMPOSSIBILIDADE DE DISSÍDIO COM SÚMULA. COTEJO ANALÍTICO NÃO REALIZADO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA N. 284 DO STF. SUCUMBÊNCIA RECÍPROCA RECONHECIDA. DECISÃO MANTIDA.
+1. Não é admissível a realização do cotejo analítico com súmula, mas apenas com os julgados que originaram o entendimento sumulado. Precedentes.
+2. Interposto o recurso especial com base na alínea "c" do permissivo constitucional, necessária a indicação das circunstâncias que identifiquem ou assemelhem as situações confrontadas, a fim de se demonstrar a divergência jurisprudencial, o que não ocorreu no caso em análise.
+3. Fundamentos do recurso especial desacompanhados da indicação de legislação infraconstitucional violada. Incidência da Súmula n. 284 do STF.
+4. Sucumbência recíproca comprovada.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.375.836/SP, de minha relatoria, QUARTA TURMA, julgado em 6/3/2018, DJe 14/3/2018.)
+Com relação à multa moratória, sua aplicação "demanda a existência de má-fé e intenção ilícita de usurpar os direitos autorais" (AgRg no AREsp n. 233.232/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 18/12/2012, DJe 4/2/2013). Tendo o Tribunal concluído pela inexistência de tais requisitos, concluir diversamente exigiria o reexame dos elementos de prova, inviável nesta sede, conforme a Súmula n. 7 do STJ.
+No que se refere à verba honorária, foi fixada em "R$ 2.500,00 (dois mil e quinhentos reais), já considerada a sucumbência parcial" (e-STJ fl. 1.502). Alterar a conclusão do acórdão a respeito da sucumbência das partes e do valor arbitrado considerando essa extensão demandaria revolvimento fático e probatório, inviável na seara do recurso especial. A pretensão esbarra na Súmula n. 7/STJ. Nessa linha, as seguintes ementas:
+DIREITO PROCESSUAL CIVIL. AGRAVO NO AGRAVO EM RECURSO ESPECIAL.
+FALÊNCIA. HABILITAÇÃO DE CRÉDITO. IMPUGNAÇÃO. EXTENSÃO DA SUCUMBÊNCIA. VALOR ARBITRADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS. REEXAME DE FATOS E PROVAS. MULTA DO ART. 538 DO CPC. MANUTENÇÃO.
+- A modificação das conclusões do Tribunal de origem acerca da extensão da sucumbência de cada parte e do valor arbitrado a título de honorários advocatícios exige o reexame de fatos e provas, o que é defeso em recurso especial. Incidência da Súmula 7/STJ.
+Precedentes.
+- Manutenção da multa aplicada no julgamento dos segundos embargos declaratórios. A Súmula 98/STJ não se aplica às hipóteses de reiteração da medida integrativa, pois o prévio debate da matéria poderia ser alcançado com os primeiros aclaratórios.
+- Agravo não provido. (AgRg no AREsp n. 321.732/RS, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/6/2013, DJe 19/6/2013.)
+ ..
+7. Rever as conclusões do acórdão recorrido, com o intuito de verificar se a proporção sucumbencial está ou não adequada ao caso, somente se processa mediante o reexame do conjunto probatório carreado aos autos, o que encontra óbice na Súmula nº 7/STJ. Precedentes.
+8. Agravo interno não provido. (AgInt no REsp n. 1.439.779/PR, Relato Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/2/2017, DJe 8/2/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. PRESTAÇÃO DE SERVIÇOS. EMPREENDIMENTO IMOBILIÁRIO. APURAÇÃO DE DANOS. COMPENSAÇÃO POSTERIOR. RESCISÃO CONTRATUAL. DEMANDA CONEXA. CRITÉRIO DE CÁLCULO. PRECLUSÃO. NÃO OCORRÊNCIA. COMPROVAÇÃO DE PREJUÍZOS. AUSÊNCIA. SUCUMBÊNCIA RECÍPROCA. DECAIMENTO MÍNIMO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+ ..
+4. Descabe, em recurso especial, a revisão do quantitativo de decaimento mínimo, para fins de aferição de sucumbência recíproca ou mínima, em virtude do óbice da Súmula nº 7/STJ.
+5. Agravo interno não provido. (AgInt no AREsp n. 941.360/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/2/2017, DJe 13/2/2017.)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECURSO. IRRESIGNAÇÃO DO AUTOR.
+ ..
+4. Pretensão de redimensionamento dos honorários advocatícios sucumbenciais arbitrados na origem. A revisão da distribuição dos ônus sucumbenciais, com o intuito de perquirir eventual sucumbência recíproca dos litigantes, envolve ampla análise de questões de fato e de prova, consoante as peculiaridades de cada caso concreto, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+ ..
+6. Agravo regimental desprovido. (AgRg no AREsp n. 112.315/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/2/2016, DJe 26/2/2016.)
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
