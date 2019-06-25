@@ -1,0 +1,35 @@
+DECISÃO
+MARCOS VINICIUS DOS SANTOS DE SÁ alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, nos autos do Agravo em Execução n. 0000414-65.2019.8.07.0000, em que foi mantido o indeferimento do livramento condicional.
+A defesa alega que "afigura-se flagrantemente desarrazoado reportar-se à prática de uma falta grave, há 2 anos e 8 meses, como fundamento suficiente para negar ao réu o direito ao livramento condicional" (fl. 13).
+Requer, por isso, a concessão da referida benesse. Ausente pedido liminar.
+Prestadas as informações, o Ministério Público Federal ofertou parecer pelo não conhecimento da impetração.
+Decido.
+Em 14/11/2018, o Juízo da VEC indeferiu pedido de livramento condicional, sob o fundamento de que "o sentenciado não demonstrou comportamento satisfatório durante a execução de suas penas, em especial por ter cometido crime doloso no dia 10/09/2016, pelo qual restou condenado à pena de 10 anos de reclusão.  ..  Ausente, pois, à toda evidência, o requisito subjetivo legalmente exigido para a concessão da benesse" (fl. 34, grifei).
+O Tribunal de origem, por sua vez, ao manter a decisão de primeiro grau destacou: "No caso o sentenciado praticou falta grave, consistente em prática de crime doloso, tenho por não adimplido o requisito subjetivo para concessão do livramento condicional, uma vez que não demonstrou senso de responsabilidade para com o cumprimento da pena quando colocado em situação de menor vigilância" (fl. 24).
+Com efeito, apesar da orientação consolidada pela Súmula n. 441 do STJ, de que "a falta grave não interrompe o prazo para obtenção do livramento condicional", verifico que o benefício foi indeferido ante o não preenchimento do requisito subjetivo pelo paciente.
+No tocante aos requisitos necessários para o deferimento do livramento condicional, o Código Penal preceitua que:
+Requisitos do livramento condicional
+Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:
+I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes;
+II - cumprida mais da metade se o condenado for reincidente em crime doloso;
+III - comprovado comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover à própria subsistência mediante trabalho honesto;
+IV - tenha reparado, salvo efetiva impossibilidade de fazê-lo, o dano causado pela infração;
+V - cumprido mais de dois terços da pena, nos casos de condenação por crime hediondo, prática da tortura, tráfico ilícito de entorpecentes e drogas afins, e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza.
+Parágrafo único - Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinqüir (Destaquei).
+O benefício do livramento condicional traduz-se como uma das fases do cumprimento de pena, na qual é concedida ao condenado a possibilidade de gozar da liberdade mediante o cumprimento de certos requisitos legais.
+Para tanto, não basta o implemento do requisito temporal. Faz-se necessário, ainda, o cumprimento do requisito subjetivo, o qual é alcançado por meio da comprovação de comportamento satisfatório durante a execução da pena, do bom desempenho no trabalho que lhe foi atribuído e da aptidão para prover a própria subsistência mediante trabalho honesto, como indicado no dispositivo legal acima transcrito. Portanto, depreende-se, da leitura do texto legal, que a avaliação do comportamento do apenado se dá em face de todo o período de cumprimento da reprimenda imposta.
+Em relação ao pressuposto subjetivo, vale trazer a lição de Renato Marcão:
+No plano do ideal, a satisfação de tais requisitos constitui indicativo mais ou menos seguro de que o condenado não voltará a delinquir.
+Ajustando-se ao ambiente carcerário, sabidamente de difícil convivência, de maneira a apresentar comportamento ao menos satisfatório, já que sob tais condições não se pode exigir mais do que isso, é possível presumir que sua convivência em sociedade não será impossível, dentro dos padrões da vida ordeira. É claro, entretanto, que o simples fato de o condenado ajustar-se ao meio carcerário não pode acarretar a ilusão de sua recuperação, até porque no mais das vezes estará apenas submetido aos efeitos da "prisionização" a que se referia [NOME] com o costumeiro acerto. Um homem excelente e ajustado a determinado núcleo social pode não se ajustar a outro, e isso mesmo sem pensarmos no ambiente carcerário.
+Apresentando-se, entretanto, de forma satisfatória em seu comportamento e mostrando-se dedicado na execução dos trabalhos que lhe forem atribuídos, o condenado estará revelando grau maior de recuperação e aptidão ao retorno à vida social. (Curso de Execução Penal. 9. ed. rev., ampl. e atual. São Paulo: Saraiva, 2011, p. 243).
+Na hipótese, é imperioso destacar que, embora a falta grave não seja considerada como marco interruptivo para o deferimento do benefício, o insurgente possui histórico de mau comportamento durante o cumprimento da pena em regime mais brando, incluindo o cometimento de infração disciplinare de natureza grave, consistente em novo crime. Assim, o sentenciado não apresenta comprovação de comportamento satisfatório durante a execução da pena de maneira a ensejar o deferimento da benesse.
+Por essas razões, não constato nenhuma ilegalidade na decisão mantida pela Corte de origem, uma vez que o livramento condicional foi indeferido com base em elementos concretos dos autos que, efetivamente, evidenciam a ausência do cumprimento do requisito subjetivo.
+Trago à baila o seguinte julgado:
+ ..
+III - Para a concessão do livramento condicional, o Magistrado deve avaliar o efetivo cumprimento do requisito subjetivo, não estando adstrito ao atestado de bom comportamento carcerário, sob pena de se tornar mero homologador da manifestação do diretor do estabelecimento prisional (precedentes).
+IV - Destaque-se, ademais, que nos termos da jurisprudência pacífica desta Corte Superior de Justiça, a análise do merecimento do apenado demanda amplo revolvimento da matéria fático-probatória, procedimento que é incompatível com a estreita via do habeas corpus.
+V - No presente agravo regimental não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão agravada, devendo ser mantida por seus próprios fundamentos.
+Agravo regimental desprovido (AgRg no HC n. 394.009/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 30/10/2017, grifei).
+Ademais, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar conclusão diversa da exarada na decisão liminar, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
