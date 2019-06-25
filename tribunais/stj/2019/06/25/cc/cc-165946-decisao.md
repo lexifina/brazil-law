@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE PIMENTA BUENO (RO) em face do JUÍZO DE DIREITO DA 4ª VARA DE LUCAS DO RIO VERDE (MT).
+O presente incidente foi instaurado pelo Juízo suscitante mediante a invocação dos seguintes fundamentos, in verbis (e-STJ fls. 176/177):
+Tratam os autos de execução da pena de [NOME], oriundo da comarca de São Lucas do Rio Verde/MT, cujo mandado de prisão foi cumprido neste juízo. Com efeito, quando de sua prisão, nos autos n. 0001546-50.2018.8.22.0009, este juízo informou o cumprimento do mandado de prisão para que o juízo de origem realizasse o recambiamento do reeducando.
+Porém, sem solicitar vaga a este juízo, o juízo da comarca de São Lucas do Rio Verde/MT declinou da competência (fl. 218), encaminhando os autos a esta comarca para cumprimento da reprimenda de 12 (doze) anos, 6 (seis) meses e 7 (sete) dias de reclusão em regime fechado (fl. 128).
+Dito isso, e considerando ainda que nesta comarca há apenas uma Cadeia Pública, atualmente em grave regime de superlotação ante a remessa de presos da comarca vizinha de Espigão do Oeste, diante da declaração de sua interdição, bem como constatado que o regime aberto não é o regime do reeducando, entendo que este juízo não é o competente para execução da pena do reeducando.
+Com efeito, a jurisprudência do c. STJ é no sentido de que a evasão do acusado e sua posterior prisão não afetam a competência para execução  .. .
+O Ministério Público Federal manifestou-se pela competência do Juízo Suscitado em parecer assim ementado (e-STJ fl. 189):
+EXECUÇÃO PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. RÉU QUE POSSUI CONDENAÇÃO NO ESTADO DO MATO GROSSO E EMPREENDEU FUGA. EXPEDIÇÃO DE MANDADO DE PRISÃO. RECAPTURA EM OUTRO ESTADO DA FEDERAÇÃO (RONDÔNIA). MODIFICAÇÃO DA COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. NÃO OCORRÊNCIA. MANUTENÇÃO DA COMPETÊNCIA ORIGINÁRIA. PARECER PELO CONHECIMENTO DO CONFLITO PARA DECLARAR COMPETENTE O JUÍZO DE DIREITO DA VEC DE LUCAS DO RIO VERDE/MT, ORA SUSCITADO.
+É, em síntese, o relatório.
+Cuida-se de incidente instaurado entre juízes vinculados a Tribunais diversos, razão pela qual, nos termos do art. 105, I, d, da Constituição Federal, conheço do conflito.
+Nos termos do art. 65 da Lei de Execução Penal, compete ao Juízo da condenação a execução da pena, sendo certo que, na linha da manifestação do Ministério Público Federal, "a competência para a execução permanece no juízo em que o réu foi condenado e onde cumpria a reprimenda, no caso, o Juízo da Vara de Execuções Penais de Lucas do Rio Verde/MS, uma vez que o fato de o apenado ter sido preso em outro Estado da Federação NÃO altera a competência para a execução penal, pois a prisão deu-se apenas em virtude do cumprimento de mandado de prisão expedido pela Justiça Paranaense e não em decorrência de transferência legalmente efetuada" (e-STJ fl. 190).
+Corroborando esse entendimento, citam-se os seguintes julgados desta Corte, dentre outros:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO DE PENA. PRISÃO EM CUMPRIMENTO DE MANDADO EM COMARCA DIVERSA. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO DO LOCAL EM QUE FOI PROFERIDA A SENTENÇA CONDENATÓRIA DEFINITIVA. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. O simples fato de o condenado ter sido preso em Comarca diversa em cumprimento de mandado de prisão expedido pelo Juiz prolator da sentença penal condenatória não constitui causa legal de deslocamento da competência originária para a execução da pena.
+Ressalte-se que o enunciado n. 192 da Súmula do STJ se restringe aos casos nos quais o sentenciado já estava cumprindo pena em estabelecimento prisional estadual.
+Conflito conhecido para declarar competente o Juízo de Direito da Vara de Execuções Criminais de Juiz de Fora - MG, o suscitado.
+(CC 156.747/BA, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 25/04/2018, DJe 11/05/2018)
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. DESCUMPRIMENTO DAS CONDIÇÕES DA PRISÃO ALBERGUE DOMICILIAR. MUDANÇA PARA OUTRO ESTADO. AUSÊNCIA DE COMUNICAÇÃO AO JUÍZO. REGRESSÃO DE REGIME. MODIFICAÇÃO DA COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. NÃO OCORRÊNCIA. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. Não há deslocamento de competência para a execução da pena quando o sentenciado é preso em outra cidade, tendo em vista a expedição de mandado de prisão pelo Juízo da Execução Penal em razão do descumprimento das condições do benefício da prisão albergue domiciliar, porquanto não se trata de transferência legalmente efetuada. Precedentes.
+2. Conflito conhecido para declarar a competência do Juízo de Direito da 2ª Vara Criminal e Anexo das Execuções Criminais de Mauá/SP, o suscitado.
+(CC 121.538/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA SEÇÃO, julgado em 23/05/2012, DJe 11/06/2012)
+Ante o exposto, conheço do conflito e dou por competente o Juízo Suscitado (JUÍZO DE DIREITO DA 4ª VARA DE LUCAS DO RIO VERDE - MT).
+Publique-se. Comunique-se.
