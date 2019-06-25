@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO RIO DE JANEIRO contra decisão que inadmitiu recurso especial fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+Agravo Interno no Agravo de Instrumento alvejando Decisão proferida pelo Relator que negou seguimento ao recurso. Execução Fiscal. Desconsideração da personalidade jurídica. Indeferimento. Peças facultativas, essenciais e necessárias a melhor elucidação dos fatos. Ausência. Intimação do Agravante. Desídia. Inteligência do artigo 525, II do Código de Processo Civil. Aplicação da Súmula nº 104 desta E. Corte. Precedentes deste Tribunal. Decisão desprovida de ilegalidade, abuso ou desvio de poder, prolatada dentro da competência do relator, não passível, na hipótese, de modificação.
+Nas razões do especial, alega violação do art. 6º do CPC/2015, invocando o princípio da cooperação, no intuito de desconstituir decisão colegiada que negou seguimento ao agravo de instrumento interposto pela Fazenda estadual, ante a ausência da juntada de peças essenciais ao deslinde da controvérsia.
+Sem contrarrazões ao recurso especial, este foi inadmitido, ante a aplicação do disposto nas Súmulas 7 do STJ e 284 do STF; fundamentos com os quais não concorda o agravante.
+Contraminuta não apresentada, conforme certidão de e-STJ fl. 165.
+Passo a decidir.
+A Corte Especial do Superior Tribunal de Justiça, em 02/05/2012, quando da apreciação do REsp 1.102.467/RJ, submetido ao rito dos recursos repetitivos, decidiu a questão jurídica referente à "necessidade de juntada, no momento da interposição do agravo de instrumento previsto no art. 522 do Código de Processo Civil, de peças necessárias à compreensão da controvérsia (art. 525, II, do CPC)".
+Julgado o tema pela sistemática dos recursos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Nesse mesmo sentido, as seguintes decisões monocráticas: AREsp 1.071.312/RJ, Relator Ministro Mauro Campbell Marques, DJ 06/06/2017; AREsp 294.158/RJ, Relator Ministro Benedito Gonçalves, DJ 09/03/2017.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
