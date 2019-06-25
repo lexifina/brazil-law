@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o recorrente foi condenado, como incurso nas sanções do art. 14 da Lei n. 6.368/1976, à pena de 3 anos de reclusão, a ser cumprida em regime inicial fechado.
+A apelação defensiva foi desprovida pelo Tribunal de origem nos termos da seguinte ementa (e-STJ fl. 1.269):
+APELAÇÃO - ASSOCIAÇÃO PARA O TRÁFICO - Preliminares - Inépcia da Denúncia - Inocorrência - Exordial que preenche os requisitos elencados no art. 41 do Código de Processo Penal, porquanto descreve os elementos necessários para a configuração do crime de associação ao tráfico de entorpecentes, além de individualizar devidamente a conduta de cada um dos agentes - Irregularidade e ilegalidade da receptação telefônica não constatadas, posto que as eventuais máculas apontadas não trazem qualquer prejuízo aos acusados, nâ"o ensejando, pois, nulidade - Interceptação telefônica autorizada judicialmente, renovada no prazo legal, indispensável às investigações policiais - Preliminares rejeitadas - Mérito - Condenação que se impõe, materialidade e autoria devidamente delineadas, mio havendo que se cogitar a absolvição - Condenação também em relação ao acusado Valmir que se faz necessária, pois não se constata a coisa julgada pelo mero fato de as interceptações telefônicas do presente processo terem servido para a prisão em flagrante do acusado, praticando a traficância, associando-se, entretanto, a grupo diferente - Recurso ministerial provido e apelações defensórias desprovidas.
+Daí o recurso especial, no qual a defesa aponta violação ao disposto no art. 33, § 2º, alínea c, e § 3º, e no art. 44, ambos do Código Penal.
+Contrarrazões às e-STJ fls. 1.413/1.415.
+Verifica-se que o recurso especial está prejudicado pela superveniência da prescrição da pretensão punitiva. Senão, vejamos.
+O recorrente foi condenado à pena de 3 anos de reclusão pelo delito tipificado no art. 14 da Lei n. 6.368/1976.
+Desse modo, tendo em vista que a reprimenda não excede a 4 anos, a prescrição ocorre em 8 anos, nos termos do art. 109, IV, do Código Penal.
+Assim, é de rigor o reconhecimento da prescrição da pretensão punitiva, tendo em vista o transcurso desse lapso prescricional entre a publicação da sentença condenatória, último marco interruptivo (31/5/2010, e-STJ fl. 1.070), e a presente data.
+Ante o exposto, com fulcro no art. 109, IV, do Código Penal, c/c o art. 61 do Código de Processo Penal, declaro extinta a punibilidade do recorrente [NOME], pela prescrição da pretensão punitiva, e julgo prejudicado o seu recurso especial.
+Publique-se. Intimem-se.
