@@ -1,0 +1,24 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por PRIMO PAMPADO em face da decisão que negou seguimento a recurso especial interposto com apoio nas alíneas "a" e "c" do permissivo constitucional.
+É o relatório.
+Passo a decidir.
+Conforme dispõe o art. 9º, caput, do Regimento Interno, a fixação da competência interna das Seções que compõem este Superior Tribunal de Justiça é definida a partir da natureza da relação jurídica litigiosa posta à apreciação do Poder Judiciário.
+Examinando os autos, verifica-se que o litígio tem origem na pretensão do autor da ação em obter decisão no sentido de proibir a requerida - concessionária de serviço público -, de forma imediata, adentrar ou adotar quaisquer atitudes tendentes à remoção da rede elétrica ou quanto a suspensão da continuidade do fornecimento de energia elétrica aos imóveis retratados na presente demanda.
+A sentença proferida na instância de origem considerou regular a interrupção do serviço prestado pela demandada, ora recorrida, entendimento confirmado pelo Tribunal de origem.
+Nas razões do recurso especial (fls. 354-384, e-STJ), o recorrente assinalou, em síntese, que não resta dúvida de que não houve qualquer inovação da causa de pedir apresentada na petição inicial e, assim, preceituou que faz jus ao enquadramento no Programa Nacional de Universalização do Acesso e Uso da Energia Elétrica "Luz para Todos", não podendo prevalecer o entendimento de que inovou quanto a esse pedido nas suas razões recursais de apelação; e b) equívoco quanto à fixação do valor dos honorários advocatícios.
+Conforme se observa, o apelo nobre pretendeu reformar o acórdão recorrido que manteve a sentença prolatada nos autos, segundo a qual entendeu que o recorrente não fazia jus ao enquadramento no programa "Luz para Todos", motivo pelo qual considerou regular a interrupção do serviço de fornecimento de energia elétrica na unidade consumidora do insurgente.
+Diante de tais considerações, o conflito de interesses em voga refoge à competência desta Segunda Seção, estando afeta às Turmas que compõem a Primeira Seção deste Tribunal, nos termos do art. 9º, § 1º, X, do Regimento Interno do STJ.
+Ademais, verifica-se que demandas semelhantes à presente têm sido julgadas pelas Turmas integrantes da Primeira Seção, conforme ilustram os seguintes precedentes:
+ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. ENERGIA ELÉTRICA. FORNECIMENTO PARA COMUNIDADE RURAL. NATUREZA DOS INTERESSES ENVOLVIDOS. LEGITIMIDADE DO MINISTÉRIO PÚBLICO. EXAME DOS PEDIDOS. SÚMULA 7/STJ.
+1. Trata-se, na origem, de Ação Civil Pública visando garantir a implantação do Programa "Luz Para Todos" em comunidade rural, com a anulação de contratos firmados por concessionária com moradores; a devolução de valores; e a imposição de obrigações de fazer e não fazer.
+2. O Ministério Público tem legitimidade ad causam para a defesa de direitos e interesses difusos, coletivos e individuais homogêneos.
+Ademais, a legislação de proteção dos sujeitos vulneráveis deve ser interpretada da maneira que lhes seja mais favorável. Precedentes do STJ.
+3. No entanto, a presente demanda foi julgada preponderantemente com base na prova dos autos, fixada em premissas que não podem ser sindicadas em razão do óbice da Súmula 7/STJ.
+4. Recurso Especial não conhecido. (REsp 1243195/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/03/2012, DJe 02/02/2015)
+ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. PROGRAMA "LUZ PARA TODOS". PEDIDO DE NOVA LIGAÇÃO EM PROPRIEDADE RURAL. DEMORA DE MAIS DE DOIS ANOS PARA O ATENDIMENTO. DANOS MORAIS E MATERIAIS DEVIDOS. ARTIGO 186 DO CC. NECESSIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 07/STJ.
+1. O Tribunal de origem, com base nas provas constantes dos autos, entendeu por bem condenar a concessionária ao pagamento de danos morais e materiais em favor da recorrida, em razão da demora de mais de dois anos para o atendimento do pleito de nova ligação de energia elétrica. Alterar tal convicção é tarefa que demandaria, necessariamente, incursão no acervo fático-probatório dos autos, o que é vedado ante o óbice preconizado na Súmula 7 deste Tribunal.
+2. A tese atinente à necessidade de observância do cronograma do Governo Federal para o fornecimento de energia elétrica para o programa "Luz para Todos" ressente-se do devido prequestionamento, já que sobre tal questão não houve emissão de juízo pelo acórdão recorrido, tampouco foram opostos embargos declaratórios para suprir tal omissão, o que atrai a aplicação da súmula 282/STF.
+3. Agravo regimental não provido. (AgRg no AREsp 156.814/ES, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 28/08/2012, DJe 05/09/2012)
+Ante o exposto, redistribua-se o presente recurso a um dos eminentes Ministros integrantes da Primeira Seção desta Corte.
+Cumpra-se.
