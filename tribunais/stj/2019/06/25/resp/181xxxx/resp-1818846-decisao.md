@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. IMPOSTO DE RENDA. INCIDÊNCIA. VERBAS INDENIZATÓRIAS E REMUNERATÓRIAS.
+1. Os valores percebidos a título de auxílio alimentação estão isentos da incidência do imposto de renda.
+2. Não incide imposto de renda sobre o reembolso de plano de saúde.
+3. A gratificação de farmácia, sendo paga mensalmente a todos os empregados, incidente sobre a respectiva remuneração e outras gratificações, tem natureza remuneratória, sujeitando-se à incidência do imposto de renda
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação do art. 1.022 do CPC/2015, do art. 43 do CTN, do art. 3º, § 4º, da Lei n. 7.713/1988 e do art. 458 do DL n. 5.452/1943, defendendo a incidência do imposto de renda sobre os valores pagos ao trabalhador a título de auxílio-alimentação (e-STJ fl. 412):
+Pacífico, assim, o entendimento de que o auxílio-alimentação, quando pago em pecúnia e com habitualidade, como no presente caso, a sua natureza é remuneratória e, portanto, considerado salário para todos os efeitos, entre eles, férias, aposentadoria, afastamentos, pagamento de verbas rescisórias, e pagamento de outras verbas incidentes sobre o salário, o auxílio-alimentação (ou auxílio-almoço, como é chamado em determinadas empresas, a exemplo da Petrobrás S/A), não tem natureza indenizatória e é rendimento, sendo hipótese de incidência de imposto de renda. De rigor, assim, o provimento do recurso especial, para assentar a incidência do IRPF sobre o auxílio alimentação, nos termos da fundamentação recursal.
+Alega, ainda, violação do art. 1.026, § 3º, do CPC/2015, por considerar inadequada a imposição de multa em razão de oposição de embargos de declaração, uma vez que não seria ato protelatório.
+Sem contrarrazões, o recurso foi admitido na origem.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Considerado isso, importa mencionar que o acórdão recorrido está em conformidade com pacífico entendimento jurisprudencial deste Tribunal Superior, pela não incidência do imposto de renda sobre os valores pagos a título de auxílio-alimentação. A respeito:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPOSTO DE RENDA. NÃO INCIDÊNCIA SOBRE AUXÍLIO-ALIMENTAÇÃO. PRECEDENTES.
+1. O entendimento desta Corte é no sentido de que não incide imposto de renda sobre o auxílio alimentação por possuí natureza indenizatória. Precedentes: REsp 1.278.076/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18/10/2011; AgRg no REsp 1.177.624/RJ, Rel. Ministro Humberto Martins, Segunda Turma, DJe 23/4/2010.
+2. Agravo interno não provido.
+(AgInt no REsp 1.633.932/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/03/2018, DJe 12/04/2018).
+PROCESSUAL CIVIL E TRIBUTÁRIO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. IMPOSTO DE RENDA. NÃO INCIDÊNCIA SOBRE AUXÍLIO-ALIMENTAÇÃO, AUXÍLIO-TRANSPORTE E PROVENTOS DE ANISTIADO POLÍTICO.
+1. O acórdão recorrido analisou todas as questões necessárias ao desate da controvérsia, só que de forma contrária aos interesses da parte. Logo, não padece de vícios de omissão, contradição ou obscuridade, a justificar sua anulação por esta Corte. Tese de violação do art. 535 do CPC repelida.
+2. Esta Corte já se pronunciou no sentido de que não incide imposto de renda sobre os auxílios alimentação e transporte, por possuírem natureza indenizatória.
+3. Entendimento pacífico do STJ quanto à não incidência do imposto de renda sobre proventos de anistiados políticos, nos termos da Lei n. 10.559/2002. Registre-se que a referida isenção também se aplica aos declarados anistiados antes da vigência da Lei n. 10.559/2002, segundo disposto no Decreto n. 4.897/2002, ressalvado o dever de retenção em caso de posterior indeferimento da substituição para o regime de prestação mensal, permanente e continuada.
+4. Recurso especial não provido.
+(REsp 1.278.076/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 11/10/2011, DJe 18/10/2011).
+Quanto à multa, observa-se que, embora o órgão judicial a quo tenha sido claro em afastar a incidência do imposto sobre o auxílio alimentação, a Fazenda opôs embargos de declaração, alegando haver omissão quanto ao tema (e-STJ fls. 374/382), o que ensejou a imposição de multa de 1% sobre o valor atualizado da causa.
+Nesse contexto, a pretensão fazendária não pode ser acolhida. A propósito, confiram-se:
+PROCESSUAL CIVIL. ACLARATÓRIOS NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. RECURSO INFUNDADO. NÍTIDO CARÁTER PROTELATÓRIO. ABUSO DO DIREITO DE RECORRER. IMPOSIÇÃO DE MULTA. DETERMINAÇÃO DE REMESSA DOS AUTOS AO STF. EMBARGOS NÃO CONHECIDOS, COM APLICAÇÃO DE MULTA.
+1. A recorribilidade vazia, infundada, como in casu, tão somente com nítido intuito protelatório, configura abuso do direito de recorrer e não é admissível em nosso ordenamento jurídico, notadamente em respeito aos postulados da lealdade e boa fé processual, além de se afigurar desvirtuamento do próprio cânone da ampla defesa.
+2. Como é visível o intento unicamente procrastinatório da parte na oposição do segundo recurso integrativo, com reiteração de argumentos já afastados de forma clara e coerente, destoando, assim, dos deveres de lealdade e cooperação que norteiam o processo civil moderno, observa-se que é caso de imposição da multa prevista no artigo 1.026, § 2º, do Código de Processo Civil, no importe de 1% sobre o valor atualizado da causa.
+3. O manejo recursal com finalidade meramente protelatória autoriza a remessa dos autos ao Supremo Tribunal Federal, tendo em vista a pendência de julgamento de agravo em recurso extraordinário anteriormente interposto.
+4. Embargos de declaração não conhecidos, com imposição de multa, e determinação de encaminhamento dos autos ao STF, após a publicação do acórdão, independentemente da eventual interposição de outro recurso, devendo a Coordenadoria de Recursos Extraordinários certificar o trânsito em julgado.
+(EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no AREsp 809.623/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 21/05/2019, DJe 24/05/2019).
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO MANDADO DE SEGURANÇA. INEXISTÊNCIA DE OMISSÃO. EMBARGOS REJEITADOS.
+1. A teor do que dispõe o art. 1.022, II, do CPC, cabem embargos de declaração contra decisão judicial para suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz, de ofício ou a requerimento.
+2. A ressalva que a embargante deseja ver consignada já consta da fundamentação do acórdão embargado: "enquanto não anulada a anistia, permanece incólume a obrigação de pagar as parcelas indenizatórias retroativas, imposta ao Ministério da Defesa por força do disposto no art. 18, parágrafo único, da Lei n. 10.559/2002".
+3. A posição deste STJ quanto à questão não é desconhecida pela Embargante, por conta dos milhares de precedentes aqui já julgados, nos quais as mesmas teses foram debatidas e as causas nelas discutidas foram solvidas. Tem-se, daí, que os presentes embargos, além de não merecerem acolhimento, denotam intuito meramente protelatório, punível com a aplicação da multa prevista no art.
+1.026, § 2.º, do CPC.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+(AgInt no AgInt no MS 23.870/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 08/05/2019, DJe 14/05/2019).
+No mesmo sentido: EDcl nos EDcl no AgInt nos EREsp 1.637.876/SP, Rel. Ministro HERMAN BENJAMIN, Corte Especial, julgado em 21/05/2019, DJe 03/06/2019; EDcl nos EDcl no AgInt nos EDcl na AR 6.006/PR, Rel. Ministro BENEDITO GONÇALVES, Primeira Seção, julgado em 16/04/2019, DJe 23/04/2019; EDcl no AgInt nos EDcl na DESIS nos EDcl no REsp 1.455.671/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 30/05/2019, DJe 10/06/2019.
+Por força do art. 85, § 11, do CPC/2015, a verba honorária de sucumbência há de ser majorada em 1% (um por cento), respeitados os limites e os critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial e majoro a verba honorária de sucumbência em 1% (um por cento), respeitados os limites e os critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Publique-se. Intimem-se.
