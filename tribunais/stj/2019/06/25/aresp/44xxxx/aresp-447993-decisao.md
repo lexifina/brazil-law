@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pela COMPANHIA RIOGRANDENSE DE SANEAMENTO - CORSAN contra decisão, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 147):
+APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO-ESPECIFICADO. AÇÃO DECLARATÓRIA. CORSAN. DERIVAÇÃO CLANDESTINA. RECUPERAÇÃO DO CONSUMO. CORTE NO ABASTECIMENTO INVIABILIDADE, NO CASO CONCRETO.
+Hipótese em que constatada a irregularidade, haja vista o aumento da média de consumo, correta recuperação de consumo, todavia, deve se dar pela média dos últimos 12 meses anterioresa constatação da irregularidade.
+Todavia, no caso em tela, descabe a suspensãoi dó fornecimento do serviço, em virtude da essencialidade do serviço e da impossibilidade, de constrangimento do consumidor na cobrança de débitos pretéritos, representando a unterrupçaodo, serviço, meio coercitivo de cobrança..
+APELAÇÃO PROVIDA EM PARTE. UNANIME.
+No especial obstaculizado, o ora agravante apontou violação do art. 6º, § 3º, II, da Lei n. 8.987/1995 e art. 40, V, da Lei n. 11.445/2007 e defende a possibilidade de suspensão do serviço quando há inadimplência do usuário.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, o que desafiou o presente agravo.
+Sem contraminuta.
+Os autos retornaram da origem, depois da devolução determinada no despacho de e-STJ fls. 229/230.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Estabelecida essa premissa, observo que o teor dos dispositivos legais tidos por violados não foi analisado no acórdão recorrido, mesmo após a oposição de embargos de declaração, o que denota carecer o especial do indispensável prequestionamento, a atrair a aplicação da Súmula 211 do STJ (AgRg no AREsp 643.037/PR, Rel. Ministro MOURA RIBEIRO, Terceira Turma, julgado em 03/05/2016, DJe 09/05/2016).
+Nada obstante, a Corte mineira acolheu o pleito autoral para reputar descabida a suspensão do fornecimento do serviço de água, "uma vez que não se mostra medida adequada e justificada, em virtude da essencialidade do serviço e da impossibilidade de constrangimento do consumidor na cobrança de débitos pretéritos. Ademais, além de abusivo, há meios próprios para cobrança." (e-STJ fl. 154).
+Essa conclusão se amolda à orientação jurisprudencial firmada nesta Corte, segundo a qual não é lícito à concessionária interromper o serviços de fornecimento de água por dívida pretérita, a título de recuperação de consumo, em virtude da existência de outros meios legítimos de cobrança de débitos antigos não pagos.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. ÁGUA. VÍCIOS DO ART. 1.022 DO CPC/2105 INEXISTENTES. ARTS. 29, I E 30, I, DA LEI 11.445/2007. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. SUSPENSÃO DO FORNECIMENTO EM RAZÃO DE DÉBITOS PRETÉRITOS. TESE DE REFATURAMENTO. IMPOSSIBILIDADE.SÚMULA 7/STJ.
+1. Afasta-se a alegada violação dos artigos 489 e 1022 do CPC/2015, porquanto é pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que não viola tais dispositivos, o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não adotando a tese defendida pela recorrente.
+2. Da análise do voto condutor do acórdão, observa-se que os arts.
+29, I e 30, I, da Lei 11.445/2007 e a tese a eles vinculada não foram objeto de debate e deliberação pela Corte de origem, mesmo com a oposição dos Embargos de Declaração, o que redunda em ausência de prequestionamento da matéria, aplicando-se ao caso a orientação firmada na Súmula 211/STJ.
+3. Atinente aos arts. 6º, § 3º, II, da Lei 8.987/95 e 40, V, da Lei 11.445/2007, o STJ pacificou entendimento de que corte de fornecimento de água pressupõe inadimplência de conta regular, relativa ao mês do consumo, sendo inviável, pois, a suspensão do abastecimento em razão de débitos antigos, devendo a companhia utilizar-se dos meios ordinários de cobrança, não se admitindo nenhuma espécie de constrangimento ou ameaça ao consumidor, nos termos do art. 42 do CDC. Incidência da Súmula 83/STJ.
+4. No mais, revisar o entendimento exarado pelo Tribunal a quo demanda o revolvimento do acervo fático-probatório dos autos, o que é inadmissível em Recurso Especial, ante o óbice contido na Súmula 7/STJ.
+5. Recurso Especial não conhecido.
+(REsp 1.663.459/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/05/2017, DJe 10/05/2017).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. MANDADO DE SEGURANÇA. ALEGAÇÃO DE INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO E DE PROVA PRÉ-CONSTITUÍDA. ÓBICE DA SÚMULA 7/STJ. SUSPENSÃO NO FORNECIMENTO DE ÁGUA. DÍVIDAS PRETÉRITAS. IMPOSSIBILIDADE. SÚMULA 83/STJ.
+1. Não houve ofensa aos arts. 458, II, e 535, II, do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional .
+2. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, no sentido de aferir a existência de liquidez e certeza do direito, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ .
+3. Não é lícito à concessionária interromper o serviços de fornecimento de água por dívida pretérita, a título de recuperação de consumo, em virtude da existência de outros meios legítimos de cobrança de débitos antigos não pagos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 327.345/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/06/2016, DJe 27/06/2016).
+Dessarte, há ensejo para incidir, à espécie, o teor da Súmula 83 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
