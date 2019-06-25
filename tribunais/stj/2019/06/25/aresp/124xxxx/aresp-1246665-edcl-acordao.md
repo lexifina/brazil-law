@@ -1,0 +1,32 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DE VÍCIOS QUE PUDESSEM SER SANADOS COM A OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. QUESTÕES INDICADAS QUE NÃO DIZEM RESPEITO À DECISÃO EMBARGADA. INEQUÍVOCA NATUREZA PROTELATÓRIA.
+EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de embargos de declaração no agravo interno no agravo em recurso especial opostos por DIRECIONAL ENGENHARIA S/A contra acórdão assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO INFIRMADO ESPECIFICAMENTE. ARTIGO 1.021, § 1º, CPC/2015. AGRAVO INTERNO MANIFESTAMENTE INADMISSÍVEL. ARTIGO 1.021, § 4º, CPC/2015, APLICAÇÃO DE MULTA.
+AGRAVO INTERNO NÃO CONHECIDO.
+Nas razões deste recurso, a embargante afirma que não se teria atentado ao fato de que "a matéria posta em discussão em qualquer momento pretende a rediscussão fática. Apenas traça e traz teses de direito, apontando para tantos paradigmas dos quais a Corte Local se mostrou dissidente, bem como apontando de forma expressa o artigo prequestionado na origem que sofreram afronta". Afirma que nas razões do agravo em recurso especial "indicou suas premissas para a realização da reavaliação JURÍDICA dos fatos postos". Entende que "a afirmativa de que houve omissão da parte e ausência de dialeticidade com relação aos termos apresentados (ausência de discussão com a decisão) não podem ser tidos, data vênia, por válidos frente a oposição deliberada e perfeitamente delineada nos termos do direito pátrio". Assevera que "apresentou julgados que demonstram a divergência jurisprudencial com base em cotejos analíticos das diferenças, postas", mas, "em momento algum, tais apontamentos foram analisados, gerando omissão impactante nos julgados pretéritos". Destaca que "destacou o dispositivo legal violado, (..) bem como realizou o cotejo analítico de precedente que utilizou com parâmetro a demonstrar o dissídio jurisprudencial claro incorrido pela Corte Estadual". Pleiteia a "manifestação expressa deste Juízo Superior, sobre os arts. 334, 345, I, 373, II e 1.005 do NCPC, bem como em relação aos impactos processuais dos argumentos postos".
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DE VÍCIOS QUE PUDESSEM SER SANADOS COM A OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. QUESTÕES INDICADAS QUE NÃO DIZEM RESPEITO À DECISÃO EMBARGADA. INEQUÍVOCA NATUREZA PROTELATÓRIA.
+EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA.
+
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes colegas, os presentes embargos devem ser rejeitados e, ante a sua manifesta natureza protelatória, deve ser aplicada a multa com fundamento no artigo 1.026, § 2º, do Código de Processo Civil.
+Em que pese a recorrente afirme que a decisão embargada seria omissa, não há indicação de qualquer vício que pudesse ser sanado com a oposição de embargos declaratórios.
+O acórdão embargado deixou de conhecer do agravo interno, pois o embargante não apresentou impugnação ao fundamento da decisão monocrática de minha lavra, a qual também está fundamentada na ausência de impugnação, mas dos fundamentos do juízo negativo de admissibilidade proferido pelo Tribunal de origem.
+Consignou-se no acórdão embargado que as razões apresentadas no agravo interno estariam dissociadas do contexto dos autos, tendo em vista que apesar da decisão monocrática estar fundamentada na ausência de impugnação dos fundamentos utilizados pelo Tribunal de origem para inadmitir seu recurso especial, a agravante argumentou como se o seu recurso especial não tivesse sido conhecido em virtude da aplicação da Súmula 7/STJ e do entendimento de que o julgador "não está obrigado a se manifestar sobre todos os argumentos apontados pelas partes, a fim de expressar seu convencimento".
+Fora dito que competiria à agravante demonstrar como, nas razões do agravo em recurso especial, impugnou os fundamentos da decisão recorrida, o que, logicamente, somente poderia ser feito com a transcrição de trechos deste recurso, o que não foi observado nas razões do agravo.
+Assim, é absolutamente irrelevante ao que fora decidido se nas razões do agravo em recurso especial a embargante "indicou suas premissas para a realização da reavaliação JURÍDICA dos fatos postos", bem como se a embargante "apresentou julgados que demonstram a divergência jurisprudencial com base em cotejos analíticos das diferenças, postas", pois não houve qualquer juízo acerca dos argumentos apresentados no agravo em recurso especial ou no recurso especial.
+A única questão decidida é se os argumentos apresentados no agravo interno impugnariam os fundamentos da decisão monocrática, e absolutamente nenhuma das questões indicadas pela recorrente diz respeito a isto. Os argumentos postos são absolutamente impertinentes ao quanto fora decidido, em nada alterando a conclusão de que o agravo interno não comporta conhecimento.
+Dito isto, não tendo o agravo em recurso especial sequer superado o juízo de admissibilidade, carece de qualquer fundamento o pedido de que haja "manifestação expressa deste Juízo Superior, sobre os arts. 334, 345, I, 373, II e 1.005 do NCPC", que tem como pressuposto a apreciação do recurso especial. Carece de qualquer lastro a pretensão de que o mérito de seu recurso especial seja apreciado, quando sequer superado o juízo de admissibilidade.
+As razões apresentadas simplesmente não guardam qualquer relação com o quanto decidido, claramente dizendo respeito a decisões proferidas anteriormente.
+Destarte, resta claro que a única intenção do embargante com a oposição deste recurso é protelar desnecessariamente o trânsito em julgado do acórdão recorrido, motivo qual impõe-se a aplicação de multa, pois ainda que lhe assista o direito de recorrer, não se pode admitir o desvio de finalidade observado na espécie, a qual arbitro em 2% sobre o valor atualizado da causa.
+Ante o exposto, REJEITO os embargos de declaração, com aplicação de multa.
+É o voto.
