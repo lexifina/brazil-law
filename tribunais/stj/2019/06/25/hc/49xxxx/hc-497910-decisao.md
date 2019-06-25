@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WESLEY DE SOUZA ANDRADE, contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Ceará.
+Depreende-se dos autos que o ora paciente foi condenado como incurso no delito de tráfico de drogas e associação para o tráfico de drogas, tipificados nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, à pena de 8 (oito) anos e 06 (seis) meses de reclusão, em regime inicial fechado, negado o direito de recorrer em liberdade.
+Irresignada, a defesa interpôs recurso de apelação, com vistas à reforma da sentença condenatória, o qual foi remetido ao eg. Tribunal de origem na data de 22/06/2017.
+Daí o presente writ, no qual sustenta o impetrante, em linhas gerais, que ocorre constrangimento ilegal em razão do excesso de prazo para julgamento do recurso de apelação.
+Requer, ao final, seja relaxada a segregação cautelar do paciente, para que possa aguardar o julgamento da apelação em liberdade.
+As informações foram prestadas às fls. 33-40.
+O Ministério Público Federal, às fls. 42-49, manifestou-se pela prejudicialidade do writ, em parecer assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. EXCESSO DE PRAZO PARA JULGAMENTO DA APELAÇÃO. ALEGAÇÃO SUPERADA - RECURSO DE APELAÇÃO JÁ JULGADO PELO TRIBUNAL A QUO. PERDA DO OBJETO. WRIT PREJUDICADO." (fl. 42).
+É o relatório.
+Decido.
+O writ está prejudicado.
+Isso porque, em consonância com o parecer do Ministério Público Federal, e em consulta ao sítio eletrônico do eg. Tribunal de origem (www.tjce.jus.br), verifica-se que sobreveio julgamento do recurso de apelação criminal defensiva, no dia 24/04/2019, ao qual foi dado parcial provimento, por unanimidade, em v. acórdão ementado nos seguintes termos:
+"EMENTA: APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA USO. INVIABILIDADE. DOSIMETRIA. ILEGALIDADE CONFIGURADA. CIRCUNSTÂNCIAS JUDICIAIS. VALORAÇÃO NEGATIVA COM BASE EM ELEMENTOS INERENTES AO CRIME DE TRÁFICO E COM BASE NA GRAVIDADE ABSTRATA DO DELITO. INADMISSIBILIDADE. TRÁFICO PRIVILEGIADO. RECONHECIMENTO. POSSIBILIDADE. APELO CONHECIDO E PARCIALMENTE PROVIDO.
+1 - Estando suficientemente demonstrada tanto a propriedade quanto destinação que seria dada ao entorpecente apreendido, não é de se acatar a almejada desclassificação para o delito de uso de drogas. Ademais, apesar de a Defesa ter alegado insuficiência de provas em relação à traficância por parte do apelante, não é o que se constata do conjunto dos elementos de convicção existentes no feito, suficiente a ensejar a condenação pelo crime de tráfico.
+2 - "A dosimetria da pena deve ser feita seguindo o critério trifásico descrito no art. 68, c/c o art. 59, ambos do Código Penal - CP, e, no caso de fundamentação baseada na quantidade e/ou natureza dos entorpecentes, aplica-se o art. 42 da Lei n. 11.343/06, cuja norma prevê a preponderância de tais circunstâncias em relação às demais previstas no art. 59 do CP, cabendo ao Magistrado aumentar a pena de forma sempre fundamentada e apenas quando identificar dados que extrapolem as circunstâncias elementares do tipo penal básico." (HC 413.844/SP, Rei. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 24/10/2017, DJe 09/11/2017)
+3 - Na hipótese, o incremento da pena-base do Recorrente, em 4 anos acima do mínimo legal, encontra-se desvinculado de fundamentação concreta. Da análise atenta do dispositivo, não se vislumbra fundamentação concreta, extraída da conduta do acusado, que autorize a elevação da basilar acima do mínimo legal, observando que o Juízo de primeiro grau, ao valorar negativamente as circunstâncias judiciais, o fez com base em conceitos vagos e genéricos e ínsitos ao próprio tipo penal.
+4 - Constatados os bons antecedentes, a primariedade e a ausência de demonstração de que o recorrente se dedique a atividades criminosas ou que integre organização criminosa, deve ser reconhecida a incidência da minorante do tráfico privilegiado, prevista no artigo 33, § 4.º da Lei 11.343/2006.
+3 - Recurso conhecido e parcialmente provido para reduzir a pena imposta ao Recorrente ao novo patamar de 2 (dois) anos e 6 (seis) meses de reclusão, mais 250 (duzentos e cinquenta) dias-multa. substituídas a pena corporal por duas restritivas de direito,a serem especificadas pelo Juízo da Execução".
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, incisos XI e XX, do RISTJ, julgo prejudicado o presente habeas corpus.
+P. e I.
