@@ -1,0 +1,13 @@
+DECISÃO
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+Apelação Cível - Embargos à execução - Desapropriação - Prescrição intercorrente reconhecida pelo juízo de primeiro grau - Inexistência de violação às disposições do Decreto nº 20.910/32 - Não pode ser extinto processo de execução enquanto não ocorrer a quitação do débito sem o que seria violado o princípio da justa indenização dos bens expropriados - Precedentes - Decisão reformada.
+Recurso provido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa aos arts. 489, II, e 1.022 do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas.
+No mérito, alega violação aos arts. 1º do Decreto nº 20.910/32 e 3º do Decreto-lei nº 4.597/42, 82, § 2º, e 85 do CPC/2015, asseverando que: a) é forçoso o reconhecimento da prescrição da pretensão executiva (fl. 1.013); b) "a partir do depósito da sétima parcela, o que se deu em outubro de 1996, começou a correr o prazo para a prescrição, tendo em vista que, após tal data, tinha direito o credor em postular o pagamento que lhe cabia" (fl. 1.013), o que veio a fazê-lo em outubro de 2003, sendo evidente o decurso de prazo superior a cinco anos; c) nesse ínterim, não houve interrupção da prescrição (fl. 1.016); d) o expropriado manteve-se inerte por longo tempo, "pois teve anos para requerer complementação de supostos valores devidos, não o fazendo em tempo hábil" (fl. 1.018); e) "embora tenha determinado o prosseguimento do feito em 1ª instância", a ora recorrente foi condenada aos ônus da sucumbência (fl. 1.018); e f) "descabe, neste momento processual, a condenação no pagamento das verbas de sucumbência, uma vez que não houve a extinção dos embargos à execução nem da própria execução" (fl. 1.019).
+Em suas contrarrazões, o recorrido pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 1.040/1.041, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Preenchidos os requisitos de admissibilidade recursal, dou provimento ao agravo, para que seja reautuado como recurso especial.
+Publique-se. Intimem-se.
