@@ -1,0 +1,22 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ROUBO MAJORADO TENTADO. PRISÃO PREVENTIVA. SUPERVENIENTE CONDENAÇÃO EM REGIME ABERTO. EXPEDIÇÃO DE ALVARÁ DE SOLTURA PELO JUÍZO SENTENCIANTE. PEDIDO DE HABEAS CORPUS PREJUDICADO.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ALINE CASSIA REIS TORRES contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo nos autos do HC n.º 2251320-47.2018.8.26.0000.
+Consta dos autos que a Paciente foi denunciada pela prática do ilícito tipificado no art. 157, § 2.º, incisos I e II, c.c. o art. 14, inciso II, ambos do Código Penal, pois, em 02/03/2011, em coautoria com outros 03 agentes, tentou "subtrair, para proveito deles, mediante grave ameaça exercida com emprego de arma de fogo, peças de roupas pertencentes a  .. , proprietária do estabelecimento comercial, somente não consumando o delito por circunstâncias alheias à sua vontade" (fl. 39).
+A Paciente teve a prisão preventiva decretada, em 25/10/2018, na audiência de instrução, debates e julgamento em que foram sentenciados os corréus (fl. 21).
+Inconformada, a Defesa impetrou habeas corpus na origem. O Tribunal estadual denegou a ordem, em acórdão assim ementado (fl. 23):
+"HABEAS CORPUS - TENTATIVA DE ROUBO QUALIFICADO - ALEGAÇÃO DE ILEGALIDADE - INOCORRÊNCIA - PRISÃO PREVENTIVA DECRETADA PARA GARANTIA DA APLICAÇÃO DA LEI PENAL - PACIENTE NÃO ENCONTRADA PARA CITAÇÃO PESSOAL - CITAÇÃO POR EDITAL - PROCESSO SUSPENSO EM RELAÇÃO À PACIENTE, COM FUNDAMENTO NO ARTIGO 366 DO CPP - SUBSTITUIÇÃO DA PRISÃO PREVENTIVA PELA PRISÃO DOMICILIAR - DESCABIMENTO - AUSÊNCIA DE DEMONSTRAÇÃO DA IMPRESCINDIBILIDADE DOS CUIDADOS DA MÃE AO FILHO DE ATÉ 12 (DOZE) ANOS DE IDADE INCOMPLETOS - PACIENTE FORAGIDA - NOVA DIRETRIZ DO E. STF NO JULGAMENTO DO HC COLETIVO N.º 143.641/SP - EXCEÇÃO AOS CRIMES PRATICADOS MEDIANTE VIOLÊNCIA OU GRAVE AMEAÇA - CONSTITUIÇÃO DE DEFENSORES E RETOMADA DO PROCESSO CONTRA A PACIENTE NÃO SIGNIFICA QUE ELA COMPARECERÁ AOS ATOS INSTRUTÓRIOS - PERSISTÊNCIA DA MANTENÇA DA PRISÃO PREVENTIVA DA PACIENTE - ORDEM DENEGADA".
+Nas razões do writ, a Parte Impetrante sustenta, em suma, que: (i) "não existem motivos que justifiquem a manutenção da segregação cautelar" (fl. 05); (ii) "da data do fato até a data de decretação da prisão preventiva decorreram, aproximadamente, 07 (sete) anos e 06 (seis) meses, sendo que nesse período não existiu qualquer conduta que desabonasse a Paciente" (fl. 05); e (iii) a Paciente possui as condições pessoais favoráveis e seria a única responsável pelo sustento de seu filho menor de idade.
+Requer, em medida liminar e no mérito, a revogação da prisão preventiva. Subsidiariamente, pleiteia a substituição da custódia cautelar por domiciliar, mediante seu compromisso de comparecer em Juízo a todos os atos processuais.
+O pedido liminar foi apreciado e indeferido às fls. 174-177.
+O Juízo singular e o Tribunal estadual prestaram informações, respectivamente, às fls. 180-219 e 222-228.
+Às fls. 230-231, o Ministério Público Federal opinou pela prejudicialidade do habeas corpus.
+É o relatório. Decido.
+De acordo com as informações prestadas pelo Juízo de primeiro grau, às fls. 180-219, o processo de origem (n.º 0043966-35.2018.8.26.0114) foi julgado e a Paciente foi condenada como incursa no art. 157, § 2.º, inciso II, c.c. o art. 14, inciso II, ambos do Código Penal, à pena privativa de liberdade de 02 (dois) anos e 08 (oito) meses de reclusão, a ser cumprida em regime aberto, motivo pelo qual foi revogada sua custódia preventiva e expedido contramandado de prisão (fls. 180-181).
+Por tal razão, fica superada a análise das teses constantes na presente impetração, conforme jurisprudência desta Corte:
+"PROCESSUAL PENAL. HABEAS CORPUS. CRIME PREVISTO NO ART. 180, CAPUT, DO CÓDIGO PENAL. ALEGAÇÃO DE NULIDADE. VIOLAÇÃO DE DOMICÍLIO. INOCORRÊNCIA. CONSENTIMENTO EXPRESSO. ART. 5.º, INCISO XI, DA CONSTITUIÇÃO FEDERAL. PRISÃO PREVENTIVA. PEDIDO DE REVOGAÇÃO. PLEITO PREJUDICADO. EXPEDIÇÃO DE ALVARÁ DE SOLTURA. HABEAS CORPUS PARCIALMENTE PREJUDICADO E, NO MAIS, DENEGADO.
+ ..
+2. O pleito de revogação da prisão preventiva encontra-se prejudicado, pela perda superveniente do objeto, tendo em vista que foi expedido alvará de soltura em favor do Réu.
+3. Ordem de habeas corpus prejudicada, em parte, e, no mais, denegada." (HC 440.578/SP, SEXTA TURMA, Rel. Ministra LAURITA VAZ, DJe 11/10/2018; sem grifos no original.)
+Ante o exposto, com fundamento no art. 34, inciso XI, do RISTJ, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
