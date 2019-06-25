@@ -1,0 +1,15 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. DEVEM SER RESTITUÍDOS OS VALORES PERCEBIDOS POR FORÇA DE DECISÃO JUDICIAL DE CARÁTER PRECÁRIO. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal de Justiça do Estado do Paraná, nesses termos ementado:
+APELAÇÕES CÍVEL - AÇÃO ORDINÁRIA - CÓDIGO DE PROCESSO CIVIL DE 1973 APLICÁVEL AO FEITO - TRANSPOSIÇÃO DE CARGOS DA CARREIRA DOS ANTIGOS CARGOS 1SF AGENTES FISCAIS PARA O DE AUDITORES FISCAIS - LEI COMPLEMENTAR Nº 92/2002 - PRETENSÃO DE REVISÃO DO BENEFICIO PARA INCORPORAÇÃO DO PRÊMIO DE PRODUTIVIDADE - IMPOSSIBILIDADE DE EXTENSÃO AOS INATIVOS E PENSIONISTAS - VIOLAÇÃO DO ART. 37, INCISOS I E II, DA CONSTITUIÇÃO FEDERAL - INCONSTITUCIONALIDADE DECLARADA PELO ÓRGÃO ESPECIAL DESTE TRIBUNAL - PRECEDENTES - VALORES PERCEBIDOS EM FACE DE ANTECIPAÇÃO DE TUTELA POSTERIORMENTE REVOGADA - DEVOLUÇÃO - VALORES RECEBIDOS DE BOA -FÉ E DECORRENTE DE DECISÃO JUDICIAL IMPOSSIBILIDADE CARÁTER ALIMENTAR - OBEDIÊNCIA AO PRINCIPIO DA IRREPETIBILIDADE - RECURSOS DE APELACÕES E ADESIVO NÃO PROVIDOS.
+Sustenta a parte recorrente que devem ser devolvidos ao erário os valores percebidos pela parte ex adversa, uma vez que oriundos de decisão liminar posteriormente revogada.
+Apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão recursal merece guarida.
+É devida a restituição ao Erário dos valores recebidos em virtude de decisão judicial precária, que venha a ser posteriormente revogada
+Na hipótese de pagamento por força de provimentos judiciais liminares, conforme os mencionados REsp 1.384.418/SC e REsp 1.401.560/MT (submetido ao regime do art. 543-C do CPC e da Resolução STJ 8/2008), não pode o servidor alegar boa-fé para não devolver os valores recebidos, em razão da própria precariedade da medida concessiva, e, por conseguinte, da impossibilidade de presumir a definitividade do pagamento (REsp 1684968/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2017, DJe 19/12/2017).
+A Primeira Seção do STJ, no julgamento do REsp 1.401.560/MT, Relator Min. Ari Pargendler, submetido ao regime dos recursos repetitivos (art. 543-C do CPC/73), reiterou entendimento já assentado no REsp 1.384.418/SC, Rel. Min. Herman Benjamin, de que a reversão de decisão precária legitima a restituição dos valores pagos antecipadamente por força da concessão de tutela antecipada ou liminar (EDcl no AgInt no REsp 1591194/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 04/08/2016, DJe 17/08/2016)
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
