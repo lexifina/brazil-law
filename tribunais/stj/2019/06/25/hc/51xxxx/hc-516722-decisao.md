@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (EDcl na Apelação n. 0000016-61.2017.8.24.0018/50000).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 3 anos de reclusão, em regime inicial aberto, e multa, com substituição da pena privativa de liberdade substituída por duas medidas restritivas de direitos, pela prática do crime previsto no art. 16, parágrafo único, inciso IV, da Lei n. 10.826/2003 (e-STJ fls. 146/153).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi improvido (e-STJ fls. 222/228).
+A defesa opôs embargos de declaração, oportunidade em que suscitou vício de omissão indireta no julgamento da apelação, que não teria reconhecido, de ofício, suposta ilegalidade nos critérios de substituição da pena. Entretanto, os embargos não foram conhecidos (e-STJ fls. 265/268), em acórdão assim ementado:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL - POSSE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA (ART. 16, PARÁGRAFO ÚNICO, INCISO IV, DA LEI 10.826/2003) - ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA CONDENATÓRIA - RECURSO DO APELANTE.
+ALEGADA OMISSÃO INDIRETA QUANTO À SUBSTITUIÇÃO DAS PENAS RESTRITIVAS DE DIREITOS - IMPOSSIBILIDADE DE ANÁLISE - TESE FORMULADA SOMENTE EM SEDE DE EMBARGOS - HIPÓTESES DO ART. 619 DO CPP NÃO EVIDENCIADAS - MANIFESTA INOVAÇÃO RECURSAL E SUPRESSÃO DE INSTÂNCIA.
+É vedado, em sede de embargos de declaração, ampliar a matéria veiculada nas razões recursais, inovando em questões não suscitadas anteriormente no inconformismo.
+EMBARGOS NÃO CONHECIDOS.
+No presente mandamus (e-STJ fls. 3/19), a impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, pois substituiu a pena privativa de liberdade por duas medidas restritivas, ao invés de uma restritiva e multa, sem a necessária motivação. Afirma que a substituição por apenas uma medida restritiva e multa seria mais benéfica ao paciente e, portanto, a ausência de motivação para a adoção da solução mais gravosa seria ilegal. Aponta, ademais, que o Enunciado 171 do STJ não tem mais vigência desde a revogação da antiga Lei de Drogas (Lei 6.368/76) e o advento da Lei das Penas Alternativas (Lei 9.714/1998) (e-STJ fl. 13).
+Ao final, formula pedido liminar para que sejam suspensos os efeitos da condenação até o julgamento deste writ e, no mérito, pede a concessão da ordem para que a substituição se dê por uma pena restritiva de direitos e multa.
+É o relatório. Decido.
+Não obstante as razões deduzidas na petição inicial, não vejo como dar seguimento ao presente writ.
+Afinal, as razões da presente impetração e o respectivo pedido não foram objeto de debate pela Corte local, que não conheceu dos embargos de declaração opostos sob a perspectiva de que a questão nele suscitada constituiria inovação recursal, incabível em sede de declaratórios.
+Com efeito, extrai-se dos autos que o tema não foi devolvido à Corte local na apelação interposta pela defesa, que limitou-se a deduzir pretensão absolutória.
+Nessa esteira, embora seja possível ao órgão jurisdicional a análise de questões não suscitadas no recurso próprio, quando perceptível a ocorrência de constrangimento ilegal, mediante a concessão de habeas corpus de ofício, tal providência não é impositiva em sede de embargos de declaração, pois tal recurso é dirigido ao saneamento dos vícios de ambiguidade, obscuridade, omissão ou contradição.
+Assim, ausente ilegalidade na negativa da Corte local em apreciar temas somente suscitados nos embargos de declaração e inexistente pronunciamento do Tribunal de origem sobre a questão ora aventada, resulta inviável a respectiva apreciação por esta Corte, sob pena de supressão de instância.
+Portanto, eventual ilegalidade nos critérios utilizados pelo Juízo sentenciante quando da substituição da pena privativa de liberdade, porquanto não apreciada no recurso de apelação, deve ser objeto de insurgência perante a própria Corte local, em ação própria.
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intimem-se.
+Cientifique-se o Ministério Público Federal.
