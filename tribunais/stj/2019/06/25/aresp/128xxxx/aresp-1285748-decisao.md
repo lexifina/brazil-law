@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ADUANEIRO. DESEMBARAÇO DE UNIDADE DE CARGA. ART. 24 DA Lei 9.611/1998. FALTA DE PREQUESTIONAMENTO E SEQUER FORAM OPOSTOS EMBARGOS DECLARATÓRIOS A FIM DE SANAR A OMISSÃO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO EM RECURSO ESPECIAL DA EMPRESA NÃO CONHECIDO, EM CONSONÂNCIA COM O PARECER MINISTERIAL.
+1. Agrava-se da decisão que inadmitiu Recurso Especial interposto por EVERGREEN MARINE CORPORATION (TAIWAN) LTD, interposto em face de acórdão do TRF/3a. Região, assim ementado:
+ADMINISTRATIVO. ADUANEIRO. MANDADO DE SEGURANÇA. LIBERAÇÃO DE UNIDADE DE CARGA. CONTÊINER. [NOME]. INEXISTÊNCIA DE ATO COATOR. CONFLITO ENTRE PARTICULARES.
+1. A impetrante, transportadora marítima, pretende a liberação de unidade de carga, contêiner, de sua propriedade, que se encontra no terminal do porto de Santos.
+2. Evidencia-se da situação fática peculiar que não houve a aplicação da pena de perdimento de mercadorias nem é possível utilizar o conceito de mercadoria abandonada, nos moldes do art. 642, I, a, do Decreto 6.759/2009, uma vez que o despacho de importação foi realizado e o desembraço ocorreu integralmente.
+3. Inexiste, destarte, qualquer conduta administrativa que impeça a liberação da unidade, assim como não há responsabilidade das autoridades portuárias e alfandegarias acerca da permanência das mercadorias no contêiner, restando claro, na espécie, a ausência do ato coator.
+4. Correto, ainda, o posicionamento do r. Juízo a quo ao concluir que a desunitização encontra-se na esfera da disponibilidade do importador, competindo-lhe, exclusivamente, promover os atos ao desiderato aqui postulado. Precedentes jurisprudenciais deste E. Tribunal.
+5. Apelação improvida (fls. 260).
+2. No Recurso Especial, interposto com fulcro no art. 105, III, a e c da CF/1988, a parte recorrente sustentou, além de divergência entre julgados, violação do art. 24, parág. único da Lei 9.611/1998. Aduz, em suma, que aqui não se discute a liberação de mercadoria importada, mas sim de unidade de carga (contêiner), pouco importando para impetrante o destino que a mercadoria possa ter. A obrigação do transportador marítimo, em contrapartida ao pagamento do frete marítimo, consiste unicamente em transportar a mercadoria acondicionada em contêiner e entregá-la no Porto de Destino. O armador não participa do desembaraço aduaneiro da mercadoria (fls. 269). Com esses fundamentos, requer a reforma do julgado.
+3. Com contrarrazões (fls. 326/331), sobreveio juízo negativo de admissibilidade recursal (fls. 333/334).
+4. Em parecer da lavra do ilustre Subprocurador-Geral da República [NOME], o Ministério Público Federal manifestou-se pelo não conhecimento do Agravo (fls. 368/372).
+5. É o que havia de relevante para relatar.
+6. Sem razão a recorrente.
+7. Em que pese a plausibilidade jurídica dos argumentos referentes à liberação da unidade de carga, baseada na violação do art. 24, parág. único, da Lei 9.611/1998, o recurso não pode ser conhecido ante a falta de prequestionamento do artigo e da matéria. Verifica-se que a tese levantada no Recurso Especial não foi debatida pelo Tribunal de origem, e sequer a parte opôs os competentes Embargos de Declaração a fim de suprir tal omissão. Incide, no caso, as Súmulas 282 e 356 do STF. Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NULIDADE DA CDA. RECONHECIMENTO PELA FAZENDA PÚBLICA. OPORTUNIDADE PARA EMENDA, ANTES DA EXTINÇÃO DA EXECUÇÃO FISCAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. Inexiste violação da legislação federal (arts. 2º e 3º da Lei 6.830/1980, art. 202 do CTN e art. 618, I, do CPC/1973) quando a própria Fazenda Pública reconhece que o título executivo (Certidão da Dívida Ativa) não preencheu os requisitos legais.
+2. A tese de que lhe deveria ser oportunizada, antes da extinção do feito, a faculdade de promover a emenda da CDA, para corrigir a falha acima apontada, não foi objeto de valoração nas instâncias de origem, nem tampouco foram opostos Embargos de Declaração a esse respeito, razão pela qual incide, no ponto, o óbice da Súmula 282/STF.
+3. Agravo não provido (AREsp. 1.178.298/SP, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2017).
+8. Diante do exposto, não conheço do Agravo em Recurso Especial de EVERGREEN MARINE CORPORATION (TAIWAN) LTD, em consonância com o parecer ministerial.
+9. Publique-se.
+10. Intimações necessárias.
