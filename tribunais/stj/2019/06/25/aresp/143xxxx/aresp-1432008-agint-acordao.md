@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE ANULAÇÃO DE DELIBERAÇÕES ASSEMBLEARES. ALTERAÇÃO DE ESTATUTO PARA INCLUSÃO DE SÓCIO DETERMINADO. ASSEMBLEIA EM DESCOMPASSO COM O ESTATUTO. ANULAÇÃO. ALEGADA ILEGITIMIDADE ATIVA DO RECORRIDO. EXEGESE DO ESTATUTO. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS 05 E 07/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+AGRAVO INTERNO DESPROVIDO.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto por INST DE ORIENTACAO AS COOPERATIVAS HAB DE SP INOCOOP SP, em face de decisão assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AÇÃO DE ANULAÇÃO DE DELIBERAÇÕES ASSEMBLEARES. ALTERAÇÃO DE ESTATUTO PARA INCLUSÃO DE SÓCIO DETERMINADO. ASSEMBLEIA EM DESCOMPASSO COM O ESTATUTO. ANULAÇÃO. EXEGESE DO ESTATUTO. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS 05 E 07/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. (e-STJ fl. 359)
+Nas razões do agravo, a parte agravante sustenta, em síntese, a perda superveniente da legitimidade ativa do recorrido, uma vez que foi excluído do Quadro de Associados do Inocoop, por faltar a duas Assembleias Gerais consecutivas sem qualquer justificativa ou explicação, violando, pois, o Estatuto vigente; ofensa aos arts. 54, inciso II, e 59, parágrafo único, ambos do Código Civil, haja vista que v. acórdão da apelação restou embasado nas disposições de um Estatuto já revogado, deixando de analisar a questão sob a ótica do Estatuto vigente; a inexistência de nulidade, irregularidade ou vício apto a autorizar a declaração de nulidade das assembleias de 2013; bem como que não há falar em interpretação de cláusulas contratuais ou em reexame de fatos e provas.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE ANULAÇÃO DE DELIBERAÇÕES ASSEMBLEARES. ALTERAÇÃO DE ESTATUTO PARA INCLUSÃO DE SÓCIO DETERMINADO. ASSEMBLEIA EM DESCOMPASSO COM O ESTATUTO. ANULAÇÃO. ALEGADA ILEGITIMIDADE ATIVA DO RECORRIDO. EXEGESE DO ESTATUTO. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS 05 E 07/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+AGRAVO INTERNO DESPROVIDO.
+
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes colegas, a irresignação não merece acolhida.
+Inicialmente, verifica-se que o agravo em recurso especial foi conhecido para não conhecer do recurso especial, em virtude da incidência das Súmulas 05 e 07/STJ (e-STJ fls. 359-361).
+A parte agravante, por sua vez, nas razões do presente agravo interno, alega, em síntese, a perda superveniente da legitimidade ativa do recorrido, uma vez que foi excluído do Quadro de Associados do Inocoop, por faltar a duas Assembleias Gerais consecutivas sem qualquer justificativa ou explicação, violando, pois, o Estatuto vigente; ofensa aos arts. 54, inciso II, e 59, parágrafo único, ambos do Código Civil, haja vista que v. acórdão da apelação restou embasado nas disposições de um Estatuto já revogado, deixando de analisar a questão sob a ótica do Estatuto vigente; a inexistência de nulidade, irregularidade ou vício apto a autorizar a declaração de nulidade das assembleias de 2013; bem como que não há falar em interpretação de cláusulas contratuais ou em reexame de fatos e provas.
+Com efeito, resta patente que os argumentos expostos no bojo do agravo interno não são aptos a desconstituir a decisão vergastada, uma vez que se mostra cristalina a incidência das Súmulas 05 e 07/STJ à presente demanda.
+Ora, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, importa reiterar que a pretensão da parte recorrente, efetivamente, não merece guarida, haja vista que, elidir as conclusões do aresto impugnado, mormente quanto ao fato de que (a) "a alteração realizada não seguiu as normas devidas, constantes no Estatuto"; de que (b) se encontram "presentes os vícios de convocação das assembleias diante da proposta de redução de quórum sem anterior aprovação de tal ato", bem como de que (c) "não se pode ver que os atos realizados na assembleia que se pretende anular se encontram perfeitamente motivados e contra isso não existem argumentos, de modo tal que não se pode afastar o invocado direito do apelante, com o que é inafastável o acolhimento de sua pretensão", demandaria a reinterpretação do Estatuto, bem como o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta sede especial a teor das Súmulas 05 e 07/STJ.
+A propósito, mutatis mutandis:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO CIVIL. ART. 535 DO CPC/1973. AUSÊNCIA DE VIOLAÇÃO. CONCLUSÃO DO ACÓRDÃO PELA AUSÊNCIA DE VÍCIO FORMAL NA ASSEMBLEIA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. As questões submetidas ao Tribunal de Justiça foram suficientemente examinadas e, levando em consideração o conjunto probatório dos autos, o acórdão estadual abordou integralmente a temática acerca da análise do Estatuto Social da associação agravada, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese e concluindo pela ausência de vício formal na assembleia ora questionada.
+2. Dessa forma, não há como aferir a eventual violação aos dispositivos infraconstitucionais alegados sem proceder ao reexame dos fatos e provas, procedimento vedado no âmbito do recurso especial nos termos da Súmula n. 7 do STJ.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese ora examinada.
+4. Agravo interno improvido.
+(AgInt no AREsp 950.521/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017) - g.n.
+Por fim, no que se refere à alegada ilegitimidade ativa do recorrido, cumpre ressaltar que melhor sorte não socorre à parte agravante, uma vez que, analisar a alegação relativa à perda superveniente da legitimidade ativa do recorrido, uma vez que este foi excluído do Quadro de Associados do Inocoop, por faltar a duas Assembleias Gerais consecutivas sem qualquer justificativa ou explicação, ensejaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Assim, o desprovimento do recurso é medida que se impõe, não merecendo prosperar a irresignação da parte ora agravante.
+Ante o exposto, nego provimento ao agravo interno.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida.
+É o voto.
