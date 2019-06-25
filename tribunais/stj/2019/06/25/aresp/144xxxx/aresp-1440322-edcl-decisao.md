@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão de fls. 342/343, que não conheceu do recurso.
+Sustenta a parte embargante que contrariamente "ao exposto na r. decisão, o recorrente é beneficiário da assistência consoante se infere da certidão em anexo, expedida pelo Cartório da Vara de origem do processo" (fl. 348).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada que o recurso especial não foi instruído com a guia de custas e respectivo comprovante de pagamento, tampouco houve a comprovação, no momento da interposição, de que a parte litiga sob os efeitos da gratuidade de justiça.
+A mera alegação da parte, na petição recursal, de que é beneficiária da assistência judiciária gratuita não é suficiente para o afastamento da deserção, isto é, deve haver a comprovação dessa condição. Nesse sentido: EDcl no Ag n. 1.222.674/DF, Quarta Turma, relator Ministro Luis Felipe Salomão, DJe de 11/5/2010.
+Percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a asseverar à fl. 333 que é beneficiária da gratuidade de justiça, sem, contudo, trazer documentos que corroborem com sua alegação. Veja que o documento juntado à fl. 338 não é suficiente para comprovar sua condição de beneficiária da gratuidade, uma vez que sequer contém os nomes das partes do processo.
+No caso, a parte deveria ter trazido cópia integral dos respectivos autos ou certidão comprobatória do tribunal de origem do deferimento da benesse. Dessa forma, o recurso especial não foi devida e oportunamente preparado.
+Não se desconhece a certidão de fl. 351 juntada aos presentes embargos. No entanto, ela não pode ser conhecida para os fins a que se destina, uma vez que ocorreu a preclusão consumativa da prática do ato.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
