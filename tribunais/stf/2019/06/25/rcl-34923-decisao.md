@@ -1,0 +1,28 @@
+Decisão: Trata-se de reclamação com pedido liminar, proposta por Marco Antônio dos Santos, em face de decisão proferida pela Vara do Trabalho de Paranavaí, nos autos do Processo 0001471-78.2018.5.09.0023.
+    Na petição inicial, a parte reclamante alega que a decisão reclamada ofende a autoridade desta Corte, consubstanciada na ADI 3.395.
+    Sustenta que [a] natureza jurídica do vínculo entre o servidor público ora reclamante e o município empregador é regido pela CLT, conforme se verifica no respectivo contrato de trabalho (cópia em anexo), logo a competência para processar e julgar a reclamação trabalhista em primeira instância é da Justiça do Trabalho, afastando por completo a da Justiça Comum. (eDOC 1, p. 11-12)
+    Requer a concessão de liminar para suspender os efeitos da decisão reclamada. No mérito, pugna pela procedência da presente reclamação, a fim de que seja cassado o ato reclamado.
+    A autoridade reclamada prestou informações (eDOC 10).
+    É o relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo reúne condições de julgamento (art. 52, parágrafo único, RISTF).
+    Decido.
+    Inicialmente, registre-se que, conforme disposto na Constituição da República, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência e garantia da autoridade de suas decisões, hipóteses previstas no art. 102, inciso I, alínea “l”, do texto constitucional.
+    Além disso, a jurisprudência da Corte é no sentido de que os atos reclamados, nos casos em que se sustenta desrespeito à autoridade da decisão do Supremo Tribunal Federal, devem se ajustar, com exatidão e pertinência, aos julgamentos proferidos por esta Corte indicados como paradigma.
+    No caso, não se verifica similitude entre o decidido no ato reclamado e o decidido na cautelar proferida na ADI-MC 3.395, Rel. Min. Cezar Peluso, DJe 10.11.2006, cuja ementa possui o seguinte teor:
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inciso I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe esteja vinculado por relação jurídico-estatutária.”
+    Da leitura dos autos, verifica-se que o reclamante tem por objetivo a anulação de processo administrativo disciplinar, instaurado com base em estatuto do servidor público municipal, que culminou com sua dispensa, consoante consta da decisão reclamada (eDOC 5, p. 1).
+    Ademais, conforme consta do documento de eDOC 4, aparentemente o vínculo formado entre o reclamante e a Municipalidade possui caráter jurídico-administrativo, porquanto regido pelas Leis Municipais 55/2005, 63/2005, 53/2006, 1/2007, 263/2009, 327/2010, 448/2011 e Decreto 063/2010.
+    Com efeito, ressalto que o entendimento desta Corte, após o julgamento da ADI 3.395, é que compete à Justiça Comum o julgamento de causas instauradas entre o Poder Público e servidor a ele vinculado por relação jurídico-administrativa, não cabendo à Justiça trabalhista sequer discutir a legalidade da relação administrativa.
+    Desse modo, não há identidade ou similitude de objeto entre o ato impugnado e a decisão-paradigma indicada, o que acarreta a inadmissibilidade da ação, por ausência de pressuposto de cabimento necessário. Nesse sentido, cito como precedentes:
+    “Agravo regimental em reclamação. 2. Inexistência de ofensa à autoridade de decisão proferida por esta Suprema Corte no julgamento da ADI n. 3.395. 3. Ausência de similitude fática e de estrita aderência entre o conteúdo do ato reclamado e o objeto da decisão-paradigma. 4. Não ocorrência de nenhuma das hipóteses de cabimento previstas no art. 102, I, l, da Constituição Federal e no art. 988 do CPC/2015. 5. Reclamação como sucedâneo recursal. 6. Agravo regimental a que se nega provimento.” (Rcl 22622 AgR, de minha relatoria, Segunda Turma, DJe 13.11.2017)
+    AGRAVO REGIMENTAL NA RECLAMAÇÃO. AUSÊNCIA DE ESTRITA ADERÊNCIA ENTRE O CONTEÚDO DO ATO RECLAMADO, QUE NÃO TRATOU DO TEMA DA COMPETÊNCIA DA JUSTIÇA DO TRABALHO, E O DO ACÓRDÃO PARADIGMA (ADI 3.395 MC). INADMISSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (Rcl 22051 AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 1º.12.2015)
+    Assim, inadmissível esta reclamação.
+    Finalmente, registre-se que o Código de Processo Civil de 2015 determina a citação do beneficiário da decisão impugnada, que terá prazo de 15 (quinze) dias para apresentar a sua contestação (art. 989, III).
+    Consoante o art. 319, II, c/c o art. 321 do CPC/2015, é ônus da parte reclamante indicar o endereço atualizado do beneficiário da decisão impugnada, sob pena de indeferimento da inicial.
+    A citação é dispensável em casos, como o presente, de improcedência liminar do pedido. Entretanto, na eventualidade de interposição de recurso, deverá a parte reclamante fornecer o endereço da parte beneficiária do ato impugnado nesta sede reclamatória, para fins de observância do art. 332, § 4º, do Código de Processo Civil.
+    Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF). Prejudicado o pedido liminar.
+    Publique-se.
+    Brasília, 25 de junho de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
