@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo da 1ª Vara de Execuções Criminais da Comarca de São Paulo - SP reconheceu a prescrição da falta grave cometida pelo apenado, ao fundamento de que teria decorrido o prazo de 2 (dois) anos sem que esta tenha sido homologada (e-STJ, fls. 17-18).
+Inconformado, o Parquet interpôs agravo em execução perante o TJSP, que deu provimento ao recurso, por entender que o prazo prescricional seria de 3 (três) anos, pois aplicável ao caso o art. 109, VI, do CP (e-STJ, fls. 22-28).
+Neste writ, a impetrante alega que "é expressamente vedado pelo Direito Penal a aplicação de qualquer tipo de analogia em prejuízo do réu" (e-STJ, fl. 8), razão pela qual, no seu entender, ausente previsão legal, o prazo prescricional seria de 2 (dois) anos, a exemplo dos arts. 30 da Lei n. 11.343/2006 e 114, I, do CP.
+Ao final, requer a concessão da ordem para que seja cassado o acórdão impugnado e reconhecida a prescrição em relação à falta grave em tese cometida.
+Não houve pedido liminar.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ, ou, caso conhecido, pela denegação da ordem (e-STJ, fls. 45-48).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Desse modo, passo ao exame das alegações trazidas pela defesa a fim de verificar eventual constrangimento ilegal que autorize a concessão da ordem, de ofício.
+Quanto à alegação de prescrição, urge consignar que é de 3 (três) anos o prazo prescricional para a aplicação de sanção disciplinar decorrente do cometimento de falta grave, após a edição da Lei n. 12.234/2010, utilizando-se, para tanto, do art. 109, VI, do Código Penal, diante da falta de norma específica quanto à prescrição em sede de execução.
+Na hipótese dos autos, consta que a falta grave teria sido cometida em 11/2/2016, enquanto a decisão de 1º grau, a qual havia reconhecido a prescrição, foi prolatada aos 25/6/2018, logo, não havia sido ultrapassado o lapso de 3 (três) anos, razão pela qual não se constata a alegada prescrição, conforme consignado pelo acórdão impugnado às fls. 25-26 (e-STJ).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INTRODUÇÃO DE ENTORPECENTE NO ESTABELECIMENTO PRISIONAL. FALTA GRAVE. PRESCRIÇÃO. INOCORRÊNCIA. RECONHECIMENTO PELO JUÍZO DAS EXECUÇÕES. MANUTENÇÃO EM SEDE DE AGRAVO. TESE DE NÃO CONFIGURAÇÃO DA INDISCIPLINA. REEXAME DE PROVAS. IMPOSSIBILIDADE. PERDA DOS DIAS REMIDOS. PERCENTUAL APLICAÇÃO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. A teor do entendimento desta Corte Superior de Justiça, diante da inexistência de legislação específica quanto ao prazo prescricional para a aplicação de sanção disciplinar, deve-se utilizar, para tanto, o disposto no art. 109 do Código Penal, levando-se em consideração o menor lapso prescricional previsto no mencionado dispositivo legal, qual seja, dois anos. Na presente hipótese, da data da prática da infração disciplinar, 24/08/2014, até a sua homologação judicial, 21/07/2017, não decorreu o lapso prescricional aplicável, que, no caso, é de 03 (três) anos.
+2. O Tribunal local reconheceu a participação do Paciente em fato previsto como crime doloso (introdução de entorpecente no presídio), conduta que configura a infração grave, nos termos do art. 52 da Lei de Execução Penal. Portanto, o reexame da questão, consubstanciada na alegação de não configuração da falta grave, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede.
+3. A tese de ausência de fundamentação para a perda dos dias remidos no patamar máximo não foi objeto do agravo em execução na origem, tampouco apreciada pelo Tribunal de origem. Assim, o debate da questão nesta Corte Superior implicaria indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus, definida no art. 105, inciso I, alínea c, da Constituição da República.
+4. Agravo regimental desprovido."
+(AgRg no HC 476.046/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 21/02/2019, DJe 11/03/2019).
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXTINÇÃO DA PUNIBILIDADE DA FALTA GRAVE PELA PRESCRIÇÃO. INOCORRÊNCIA. PRESCRIÇÃO TRIENAL. APLICAÇÃO ANALÓGICA DO ART. 109, VI, DO CÓDIGO PENAL. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+II - Esta Corte Superior de Justiça possui o entendimento de que, em matéria de infração disciplinar de natureza grave no âmbito da execução penal, incide o lapso prescricional de 3 (três) anos, por aplicação analógica do art. 109, VI, do Código Penal, por ser o menor lapso prescricional previsto nesse artigo.
+III - No presente caso, entre a data da prática da falta grave (7/4/2015) e a sua homologação pelo eg. Tribunal de origem, em 26/10/2017, não ocorreu o implemento do lapso trienal previsto no art. 109, VI, do Código Penal, não havendo, portanto, que se falar em prescrição.
+Habeas corpus não conhecido."
+(HC 443.638/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/10/2018, DJe 30/10/2018).
+Nesse contexto, não se constata flagrante ilegalidade que pudesse ensejar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
