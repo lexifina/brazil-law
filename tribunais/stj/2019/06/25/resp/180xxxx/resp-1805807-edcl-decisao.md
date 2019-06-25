@@ -1,0 +1,50 @@
+DECISÃO
+Vistos.
+E DIEHL E COMPANHIA LTDA. opõe embargos de declaração à decisão que conheceu em parte do recurso especial e negou-lhe provimento, majorando os honorários advocatícios fixados na instância ordinária em 20% (vinte por cento).
+Sustenta omissão, porquanto não há base de cálculo para a majoração dos honorários advocatícios.
+Requer seja sanada a omissão apontada, procedendo-se com o arbitramento dos honorários recursais em montante fixo, visto que inexiste prévia fixação dos mesmos, a fim de que possam ser efetivamente majorados por meio do percentual concedido, de 20%, ante o reconhecimento pela N. Ministra de que são devidos no caso em comento (fl. 156e).
+Sem impugnação, consoante certidão à fl. 162e.
+Os embargos foram opostos tempestivamente.
+É o relatório. Passo a decidir.
+Por primeiro, conforme o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Nesse sentido, confira-se a doutrina de Nelson Nery Junior e [NOME]:
+Não enfrentamento, pela decisão, de todos os argumentos possíveis de infirmar a conclusão do julgador. Para que se possa ser considerada fundamentada a decisão, o juiz deverá examinar todos os argumentos trazidos pelas partes que sejam capazes, por si sós e em tese, de infirmar a conclusão que embasou a decisão. Havendo omissão do juiz, que deixou de analisar fundamento constante da alegação da parte, terá havido omissão suscetível de correção pela via dos embargos de declaração. Não é mais possível, de lege lata, rejeitarem-se, por exemplo, embargos de declaração, ao argumento de que o juiz não está obrigado a pronunciar-se sobre todos os pontos da causa. Pela regra estatuída no texto normativo ora comentado, o juiz deverá pronunciar-se sobre todos os pontos levantados pelas partes, que sejam capazes de alterar a conclusão adotada na decisão.
+(Código de Processo Civil Comentado, São Paulo, Revista dos Tribunais, 2016, p. 1.249-1.250, destaque no original).
+Esposando tal entendimento, o precedente da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art.
+489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+3. No caso, entendeu-se pela ocorrência de litispendência entre o presente mandamus e a ação ordinária n. 0027812-80.2013.4.01.3400, com base em jurisprudência desta Corte Superior acerca da possibilidade de litispendência entre Mandado de Segurança e Ação Ordinária, na ocasião em que as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas.
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+(EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016)
+No caso, não vislumbro omissão no julgado.
+O que a Embargante aponta, em verdade, é erro material, que deve ser corrigido, inclusive de ofício.
+Com efeito, consta da fundamentação do decisum embargado que a possibilidade de fixação de honorários advocatícios recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta (fl. 150e):
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação,
+tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Ora, se na fundamentação da decisão embargada restou estabelecida a vedação à majoração da verba honorária, revela-se incabível constar tal majoração do dispositivo se não houve imposição de verba honorária pelas instâncias ordinárias.
+Em situação idêntica a dos autos, esta Corte reconheceu a necessidade de exclusão da condenação em honorários recursais de ofício, como o demonstra o julgado, assim ementado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. HONORÁRIOS RECURSAIS. DESCABIMENTO.
+1. A teor do disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Os honorários recursais não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente, motivo por que, na hipótese de descabimento ou na de ausência de fixação anterior, não pode haver fixação de honorários recursais.
+4. Agravo interno desprovido. Determinação, de ofício, quanto à exclusão da condenação em honorários recursais.
+(AgInt no AREsp 1167338/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/03/2019, DJe 26/03/2019 - destaquei).
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA. HONORÁRIOS RECURSAIS. ERRO MATERIAL. CORREÇÃO DE OFÍCIO.
+1. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. É indevida a condenação em honorários advocatícios no mandado de segurança, a teor do art. 25 da Lei n. 12.016/2009, de modo que não há previsão para arbitramento dos honorários sucumbenciais do art.
+85, § 11, do CPC/2015.
+4. Agravo interno não conhecido. Exclusão, de ofício, da majoração dos honorários sucumbenciais.
+(AgInt no AREsp 1263878/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/05/2019, DJe 12/06/2019)
+Isto posto, REJEITO OS EMBARGOS DE DECLARAÇÃO e, de ofício, excluo a condenação em honorários recursais.
+Publique-se. Intime-se.
