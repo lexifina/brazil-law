@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por JOSE CARLOS PAES DE BARROS E OUTRA contra decisão que inadmitiu o recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 260):
+AGRAVO DE INSTRUMENTO - Liquidação de sentença - Benfeitorias - Indenização a ser paga obrigatoriamente deve sofrer a incidência de correção monetária e juros legais (art. 293 do Código de Processo Civil de 1973, art. 407 do Código Civil e Súmula nº 254 do STF).
+AGRAVO DE INSTRUMENTO - Liquidação de sentença - Honorários advocatícios - Condenação - Descabimento, ante a ocorrência de sucumbência recíproca - Recurso desprovido.
+Opostos embargos de declaração, foram estes rejeitados (e-STJ, fls. 272/275).
+Nas razões do recurso especial, o recorrente alega, preliminarmente, violação ao art. 1.022, II, do CPC, pois (e-STJ, fls. 281/282):
+ ..  uma vez que, mesmo diante dos termos postos nos embargos de declaração, recusou-se a enfrentar a alegação de contradição decorrente do fato incontroverso de os recorridos terem experimentado redução de aproximadamente R$280.000,00 em sua pretensão inicial.
+Seja em virtude de erro material (alegado pelos recorridos e aceito pelo D. Magistrado de Primeira Instância), seja por contar com a falta de impugnação específica dos ora recorrentes, é certo que os recorridos articularam pretensão evidentemente exagerada e desgarrada do direito a eles reconhecido, o que, por si só, implica na imposição dos ônus da sucumbência aos agravados.
+Trata-se de afirmação que busca arrimo no disposto nos arts. 20 e 21 do CPC/1973, atualmente art. 86 do CPC/2015, que estabelecem a obrigação de pagar honorários a todos aqueles que sucumbem em suas pretensões que, repita-se, no caso concreto, atingiu aproximadamente o valor de R$280.000,00!
+Portanto, ao se negar a enfrentar tal tema, o v. acórdão manteve contradição entre os acontecimentos processuais e o quanto afirmado pela D. Turma Julgadora quanto à ocorrência de sucumbência recíproca.
+ ..
+A D. Turma Julgadora, negou-se ainda, a apreciar a tese recursal no sentido de que - diante das peculiaridades do caso concreto - os agravados estão experimentando enriquecimento sem causa decorrente do fato de continuarem a usufruindo das benfeitorias a serem indenizadas e sobre o valore de tais benfeitorias ainda receberem juros moratórios.
+Aduz, ainda, ofensa ao art. 884 do Código Civil, porquanto (e-STJ, fls. 283/284):
+ ..  o direito à indenização pelas benfeitorias implantadas pelos recorridos decorre de procedência de reconvenção para rescisão de compromisso de compra e venda que não foi por eles honrado, sendo certo que, apesar da rescisão judicial da compra e venda, aos recorrido foi concedido permanecerem no imóvel até que lhes fossem indenizadas as benfeitorias. É incontroverso, por outro lado, que até a presente data os recorridos permanecem exercendo a posse sobre o imóvel, explorando ali o próprio fundo de comércio e instalações pelas quais devem ser indenizados, sendo certo que os recorrentes - além de não receberem o preço ajustado na compra e venda - não puderam reaver o imóvel que lhes pertence, tampouco cobrar dos recorridos qualquer valor a título de aluguéis.
+ ..
+ ..  o D. Magistrado de origem, ao proferir a r. decisão que fixou os parâmetros para o pagamento da indenização pelas benfeitorias (fls. 157/159), não determinou a incidência dos juros moratórios, vinculando a imissão dos recorrentes na posse do imóvel ao pagamento aos recorridos da indenização pelas benfeitorias. Ou seja, enquanto estiverem usufruindo do imóvel e suas benfeitorias não se justifica que os recorridos tenham seu direito indenizatório acrescido de juros moratórios, sob pena de se apoderarem indevidamente dos frutos da exploração das benfeitorias e, ainda, dos juros sobre o valor de tais benfeitorias que acabaram exauridas.
+Com isso, apesar de não se desconhecer o disposto na legislação e na súmula invocadas como razões de decidir, no contexto dos autos, a aplicação fria do texto legal, desgarrada da realidade formada nos autos, redunda em enriquecimento sem causa em favor dos recorridos que é defeso por lei  ..
+Por fim, sustentam a afronta ao art. 86 do CPC, dado que "a afirmação no sentido de que houve sucumbência recíproca contradiz tudo que dos autos consta, uma vez que a sucumbência dos recorridos, a toda evidência, é significativamente maior que a dos recorrentes (que por ora apenas não lograram ver reconhecida a ilegitimidade da cobrança dos juros moratórios)" - fls. 285/286.
+Apresentadas contrarrazões (e-STJ fls. 293/302), o Recurso Especial foi inadmitido pela Corte de origem, ensejando na interposição do presente agravo (e-STJ, fls. 306/315).
+É o relatório.
+Passo a decidir.
+Com efeito, diante da relevância da questão suscitada, merece provimento o agravo para melhor analisar o recurso especial interposto, procedendo-se à devida conversão.
+Ante o exposto, dou provimento ao agravo em recurso especial, procedendo-se à conversão.
+Intime-se.
