@@ -1,0 +1,24 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. ANFIP. PERCENTUAL DE 16,19%. URP. LEGITIMIDADE PASSIVA DA UNIÃO. LEGITIMIDADE ATIVA DA ASSOCIAÇÃO. SUCUMBÊNCIA RECIPROCA MANTIDA.
+    1. Reconhecida a legitimidade da União para compor o polo passivo da demanda, com base na previsão da Lei 11.457/2007, a qual transformou o cargo de Auditor Fiscal da Previdência Social em Auditor Fiscal da Receita Federal do Brasil, passando estes servidores, a partir de julho de 2007, a compor o Quadro de Pessoal da União.
+    2. Afastada a alegação de ilegitimidade ativa da associação, uma vez que a ação de conhecimento (AO 92.0004188-4), transitada em julgado, apreciou e afastou a referida preliminar, ficando, pois, superada a rediscussão em sede de embargos à execução.
+    3. Mantida a sucumbência reciproca.
+    4. Apelação não provida”.
+    A parte recorrente sustenta a sua ilegitimidade passiva e que deve ser reconhecida “a inexigibilidade de título calcada na interpretação divergente do art. 5º, XXI, CF/88, verificável entre a sentença que o formou e a decisão tomada pelo STF no RE 573.232, que se refere à necessidade de autorização dos filiados para que a associação ingresse com a ação coletiva e, constatando-se a divergência entre a coisa julgada e a ratio decidendi do STF, seja extinta a execução para aqueles que não conferiram autorização para o ingresso da ação de conhecimento”.
+    O recurso não merece provimento.
+    De início, observo que o Tribunal de origem assentou que a União é parte legítima para figurar na lide, uma vez que “a Lei 11.457/2007 transformou o cargo de Auditor Fiscal da Previdência Social em Auditor Fiscal da Receita Federal do Brasil, passando estes servidores, a partir de julho de 2007, a compor o Quadro de Pessoal da União”. Para dissentir desse entendimento, seria necessário analisar a lei infraconstitucional pertinente, providência inviável de ser realizada neste momento processual.
+    Ademais, o Plenário do Supremo Tribunal Federal (STF) decidiu pela inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes Tema 660).
+    Quanto à questão transitada em julgado divergente da orientação do STF, que, ao julgar o RE 611.503-RG, redator para o acórdão o Ministro Edson Fachin, proferiu decisão reconhecendo a constitucionalidade do art. 741, parágrafo único, do CPC/1973 e firmou o entendimento no sentido de que, para o reconhecimento do vício de inconstitucionalidade qualificado, se exige que o STF declare a norma constitucional ou inconstitucional em data anterior ao trânsito em julgado da sentença exequenda. O julgado restou assim ementado:
+    “RECURSO EXTRAORDINÁRIO. COISA JULGADA INCONSTITUCIONAL. ARTIGO 741, PARÁGRAFO ÚNICO, E ARTIGO 475-L, PARÁGRAFO PRIMEIRO, DO CÓDIGO DE PROCESSO CIVIL DE 1973. ARTIGO 525, PARÁGRAFO PRIMEIRO, INCISO III, PARÁGRAFOS 12 E 14, E ARTIGO 535, PARÁGRAFO 5º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+    1. São constitucionais as disposições normativas do parágrafo único do art. 741 do CPC, do § 1º do art. 475-L, ambos do CPC/73, bem como os correspondentes dispositivos do CPC/15, o art. 525, § 1º, III e §§ 12 e 14, o art. 535, § 5º.
+    2. Os dispositivos questionados buscam harmonizar a garantia da coisa julgada com o primado da Constituição, agregando ao sistema processual brasileiro, um mecanismo com eficácia rescisória de sentenças revestidas de vício de inconstitucionalidade qualificado.
+    3. São consideradas decisões com vícios de inconstitucionalidade qualificados: (a) a sentença exequenda fundada em norma reconhecidamente inconstitucional, seja por aplicar norma inconstitucional, seja por aplicar norma em situação ou com sentido inconstitucionais; (b) a sentença exequenda que tenha deixado de aplicar norma reconhecidamente constitucional.
+    4. Para o reconhecimento do vício de inconstitucionalidade qualificado exige-se que o julgamento do STF, que declara a norma constitucional ou inconstitucional, tenha sido realizado em data anterior ao trânsito em julgado da sentença exequenda.
+    5. Recurso extraordinário a que se nega provimento”.
+    Na hipótese dos autos, o julgamento pelo STF do RE 573.232-RG, relator para acórdão Ministro Marco Aurélio, ocorreu em 14.05.2014, data posterior ao trânsito em julgado da sentença exequenda, que ocorreu em 18.07.2012.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 25 de junho de 2019.
+Ministro Luís Roberto Barroso
+      Relator
