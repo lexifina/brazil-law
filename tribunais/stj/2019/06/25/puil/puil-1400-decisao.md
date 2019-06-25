@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei e jurisprudência apresentado por DIGELSON LUCAS DA COSTA, com fulcro no art. 14, § 4º, da Lei 10.259/01, contra decisão monocrática da Presidência da Turma Nacional de Uniformização, que negou seguimento ao presente incidente, por ausência dos requisitos de admissibilidade (e-STJ fls. 133/134 e 155/156).
+O requerente afirma que o acórdão proferido pela Turma Recursal de origem, que concluiu pela impossibilidade da substituição da taxa referencial - TR como índice de correção monetária dos saldos das contas vinculadas ao Fundo de Garantia do Tempo de Serviço - FGTS, divergiu da jurisprudência do Supremo Tribunal Federal e desta Corte de Justiça, notadamente quanto à interpretação das normas insertas nos arts. 9º da Lei n. 8.177/1991 e 1º-F da Lei 9.494/97.
+Defende, em suma, a aplicação do IPCA-E na correção monetária de conta vinculada do FGTS de sua titularidade, acentuando que a matéria em análise não pode ser considerada exclusivamente processual.
+Passo a decidir.
+Dispõe o art. 14, § 4º, da Lei 10.259/2001 (Lei dos Juizados Especiais Federais, in verbis:
+Art. 14. Caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei.
+§ 1o O pedido fundado em divergência entre Turmas da mesma Região será julgado em reunião conjunta das Turmas em conflito, sob a presidência do Juiz Coordenador.
+§ 2o O pedido fundado em divergência entre decisões de turmas de diferentes regiões ou da proferida em contrariedade a súmula ou jurisprudência dominante do STJ será julgado por Turma de Uniformização, integrada por juízes de Turmas Recursais, sob a presidência do Coordenador da Justiça Federal.
+§ 3o A reunião de juízes domiciliados em cidades diversas será feita pela via eletrônica.
+§ 4o Quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça - STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+Nessa quadra, o Incidente de Uniformização dirigido ao Superior Tribunal de Justiça somente é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante desta Corte.
+No presente caso, o Pedido de Uniformização de Interpretação de Lei Federal teve seguimento negado por decisão do Juiz Federal Presidente da Turma Recursal-SJRN , em razão do disposto nas Questões de Ordem ns. 22 e 24 da TNU, in verbis:
+É possível o não conhecimento do pedido de uniformização por decisão monocrática quando o acórdão recorrido não guarda similitude fática e jurídica com o acórdão paradigma
+Não se conhece de incidente de uniformização interposto contra acórdão que se encontra no mesmo sentido da orientação do Superior Tribunal de Justiça, externada em sede de incidente de uniformização ou de recursos repetitivos, representativos de controvérsia.
+Interposto agravo contra a aludida decisão, o Presidente da Turma Nacional de Uniformização conheceu do recurso e negou seguimento ao incidente, com fulcro na Questão de Ordem n. 24 da TNU, circunstância que ensejou o manejo do presente incidente.
+Como se vê, não houve pronunciamento colegiado pela Turma Nacional de Uniformização acerca do mérito da controvérsia, sendo incabível o presente incidente dirigido ao Superior Tribunal de Justiça contra a decisão unipessoal da Presidência daquele Órgão julgador, à luz do art. 14, § 4º, da Lei 10.259/2001.
+Nesse sentido:
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL EM INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA - INEXISTÊNCIA DE DECISÃO COLEGIADA DA TURMA NACIONAL DE UNIFORMIZAÇÃO - INCIDENTE NÃO CONHECIDO.
+1. Constitui pressuposto de admissibilidade do incidente de uniformização de jurisprudência a análise do direito material por órgão colegiado da Turma Nacional de Uniformização. Precedentes: AgRg na Pet 7.551/PR, Rel. Min. FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 25/11/2009, DJe de 18/12/2009; AgRg
+na Pet 8.864/RJ, Rel. Min. MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 8/2/2012, DJe de 14/2/2012. 2. Decidido o agravo regimental apresentado na origem por decisão unipessoal, caberia ao agravante renovar o pedido de manifestação do órgão colegiado. 3. Agravo regimental não provido. (AgRg na Pet 9.066/MT, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, julgado em 24/04/2013, DJe 13/05/2013) (Grifos acrescidos).
+PROCESSUAL CIVIL. AGRAVO INTERNO NA PETIÇÃO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. ART. 14, § 4º, DA LEI N.º 10.259/2001. AUSÊNCIA DE MANIFESTAÇÃO DA TURMA NACIONAL DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA DOS JUIZADOS ESPECIAIS FEDERAIS (TNU) SOBRE A QUESTÃO DE DIREITO MATERIAL.
+1. Nos termos do art. 14, § 4º, da Lei 10.259/2001, o Superior Tribunal de Justiça examinará divergência entre acórdão proferido pela Turma Nacional de Uniformização de Jurisprudência dos Juizados Especiais Federais e a sua jurisprudência quando for analisada questão de direito material por aquele colegiado, o que não ocorreu no caso dos autos.
+2. Agravo interno não provido (STJ, AgInt na Pet 10.264/SE, Rel.Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 02/02/2017).
+AGRAVO INTERNO. PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. DIREITO MATERIAL NÃO APRECIADO PELA TNU. INADMISSIBILIDADE DO INCIDENTE.
+1. O pedido de uniformização de jurisprudência somente é cabível contra decisão da Turma Nacional que analisou o direito material. Na hipótese, a TNU não conheceu do recurso, ao fundamento de que a análise da questão esbarra no óbice da Questão de Ordem n. 13/TNU.
+2. Portanto, não há como conhecer do incidente, eis que não há acórdão prolatado pela TNU, com enfrentamento de matéria de direito material.
+3. Agravo interno improvido (STJ, AgInt na Pet 11.339/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe de 08/11/2016).
+Ante o exposto, NÃO CONHEÇO do pedido nos termos do art. 34, XVIII, "a", do Regimento Interno do STJ.
+Intimem-se. Publique-se.
