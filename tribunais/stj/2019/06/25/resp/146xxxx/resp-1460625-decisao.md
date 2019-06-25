@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, cuja controvérsia gira em torno da inconstitucionalidade da contribuição sobre a comercialização dos produtos rurais pelo produtor rural pessoa física, prevista no art. 25 da Lei n. 8.212/1991.
+Foi interposto, também, recurso extraordinário (e-STJ fls. 2.209/2.226), no qual se pleiteia o reconhecimento da "constitucionalidade da contribuição, a partir do advento da Lei n. 10.256/2001" (e-STJ fl. 2226).
+Passo a decidir.
+A questão, objeto do apelo extremo deduzido pela FAZENDA PÚBLICA, foi decidida pelo Supremo Tribunal Federal, na apreciação do RE 718.874/RS, em sessão realizada no dia 29/03/2017, sob o regime de repercussão geral, em que se fixou a seguinte tese: "É constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei n. 10.256/2001, incidente sobre a receita bruta obtida com a comercialização de sua produção" (Tema 669).
+Nesse contexto, reconheço que a existência de recurso extraordinário que trata do mérito da matéria acima identificada é prejudicial à análise do recurso especial, razão pela qual os autos deverão retornar ao Tribunal de origem para que lá seja realizado o juízo de conformação com o precedente obrigatório da Suprema Corte.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte Superior, a fim de que aqui possam ser analisadas as questões jurídicas suscitadas que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO o sobrestamento do julgamento deste recurso até a realização do juízo de conformação pela Corte de origem com o precedente do STF, bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência seja realizada.
+Publique-se. Intimem-se.
