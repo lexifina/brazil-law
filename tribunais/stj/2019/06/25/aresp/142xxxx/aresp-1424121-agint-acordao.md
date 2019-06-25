@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO INFIRMADO ESPECIFICAMENTE. ARTIGO 1.021, § 1º, CPC/2015. AGRAVO INTERNO MANIFESTAMENTE INADMISSÍVEL. ARTIGO 1.021, § 4º, CPC/2015.
+AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interposto por [NOME] contra decisão monocrática de minha lavra assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO.
+AGRAVO NÃO CONHECIDO.
+Nas razões do agravo, a recorrente afirma que a decisão agravada ter-se-ia apegado a "formalismos processuais". Entende que para "dar solução à controvérsia, será necessário interpretar a Lei, e a única forma de fazê-lo é atentando para a finalidade dessa norma, bem como para os bens jurídicos que elas, em conjunto com o Código de Processo Civil, visam a tutelar". Destaca que ao deixar de conhecer seu agravo, houve "excessivo apego formal, ferindo dessa forma os princípios constitucionais da razoabilidade e do direito de acesso a justiça e prestação jurisdicional". Assevera que "não se pode aceitar o formalismo exagerado, pois ele significa o desrespeito à garantia constitucional do acesso à justiça e da razoabilidade que por sua vez também fere dispositivos preconizados na Convenção Interamericana de Direitos Humanos notadamente o Pacto de San José da Costa Rica, em que o Brasil é signatário". Sustenta que "não podem os Tribunais Superiores criar óbices indevidos à admissão dos recursos especial e extraordinário, quer seja mediante novos requisitos de admissibilidade que não aqueles exigidos pela lei ou pela Constituição, bem como mediante o excesso de formalismo com os requisitos já existentes". Discorre sobre a violação dos artigos 98, 99 e 1.022 do Código de Processo Civil.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO INFIRMADO ESPECIFICAMENTE. ARTIGO 1.021, § 1º, CPC/2015. AGRAVO INTERNO MANIFESTAMENTE INADMISSÍVEL. ARTIGO 1.021, § 4º, CPC/2015.
+AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.
+
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes colegas, o agravo interno revela-se manifestamente inadmissível, razão por que comino a multa do art. 1.021, § 4º, do Código de Processo Civil de 2015, que fixo em 1% sobre o valor atualizado da causa.
+Com efeito, em atenção ao princípio da dialeticidade, "as razões recursais devem impugnar, com transparência e objetividade, os fundamentos suficientes para manter íntegro o decisum recorrido" (AgRg no Ag 1027795/RS, Rel. Min. PAULO FURTADO (Desembargador Convocado do TJ/BA), Terceira Turma, DJ de 18.06.2010).
+Na espécie, o agravo em recurso especial sequer foi conhecido, pois os argumentos apresentados neste recurso não teriam impugnado ao fundamento do juízo negativo de admissibilidade proferido pelo Tribunal de origem. Mais especificamente, consignou-se que tendo o Tribunal de origem inadmitido o recurso especial com fundamento na ausência de depósito da multa aplicada com fundamento no § 4º do artigo 1.021 do Código de Processo Civil, caberia à agravante ou comprovar que efetuou tal depósito ou que não estaria obrigada a fazê-lo, inexistindo outro argumento que pudesse impugnar a este fundamento.
+A recorrente, todavia, simplesmente não ataca a este fundamento, limitando-se a dizer que a decisão agravada ter-se-ia apegado a "formalismos processuais" e a discorrer de maneira extensa sobre estes, sem precisar qual teria sido este formalismo na espécie.
+Como dito, o Tribunal de origem negou seguimento ao recurso especial em virtude da ausência de depósito da multa aplicada com fundamento no artigo 1.021, § 4º, do Código de Processo Civil. Havia apenas dois argumentos aptos a impugnar o fundamento da decisão agravada e a recorrente não apresentou qualquer deles nas razões de seu recurso, motivo pelo qual seu recurso não foi conhecido. Assim, é absolutamente incompreensível qual a pertinência da assertiva de que "não podem os Tribunais Superiores criar óbices indevidos à admissão dos recursos especial e extraordinário, quer seja mediante novos requisitos de admissibilidade que não aqueles exigidos pela lei ou pela Constituição, bem como mediante o excesso de formalismo com os requisitos já existentes".
+Até o presente momento permanece incompreensível qual seria o "formalismo processual" verificado pela agravante na espécie, tendo em vista que limita-se a discorrer sobre princípios e teses jurídicas, mas não fornece qualquer lastro que permita vincular as razões apresentadas ao presente recurso.
+Cabia à recorrente apenas demonstrar como impugnou o fundamento do juízo negativo de admissibilidade nas razões de seu agravo em recurso especial, o que simplesmente não se observa na espécie, a despeito da extensa explanação acerca da vedação ao formalismo exacerbado.
+Não havendo um único argumento no presente agravo interno minimamente pertinente, há de se reconhecer a sua manifesta inadmissibilidade, o que impõe a aplicação da multa prevista no artigo 1.021, § 4º, do Código de Processo Civil de 1973, que arbitro em seu patamar mínimo, 1% (um por cento) sobre o valor da causa atualizado.
+Ante o exposto, com base no art. 1.021, §§ 1º e 4º, do CPC/2015, NÃO CONHEÇO do agravo interno no agravo em recurso especial, com aplicação de multa.
+É o voto.
