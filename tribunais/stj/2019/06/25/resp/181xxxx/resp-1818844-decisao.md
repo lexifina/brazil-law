@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. GARANTIA. ADESÃO AO PARCELAMENTO. QUITAÇÃO DO SALDO DEVEDOR.
+É permitido à agravante que faça a adesão ao PERT, na modalidade das opções autorizadas pela MP 783/17, obstando que o depósito judicial seja primeiramente alocado à dívida para que apenas o saldo devedor possa ser quitado na forma do art. 3º da Lei n. 13.496/2. Efetuada a opção do pagamento, o saldo credor deverá permanecer em conta de depósito judicial, vinculada ao processo de origem.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação do art. 6º, § 1º, da Lei n. 13.496/2017 e dos arts. 111 e 155-A do Código Tributário Nacional, sustentando, em síntese, que (e-STJ fl. 90):
+em outras palavras, o acórdão consagrou a possibilidade de Primeiro, reduzir o valor da dívida com os benefícios do PERT e transformar cm pagamento, parte do depósito para quitação da dívida [NOME].
+Entretanto, essa decisão contraria frontalmente as disposições legais que regem o parcelamento, pois os dinheiros vinculados deverão ser transfonnados em pagamento definitivo da União e o SALDO da dívida, se houver, é que será incluído no PERT, com as reduções legais.
+Repetimos: a decisão do TRF4, fez o contrário. Permitiu fosse a dívida calculada com as benesses do PERT e, depois, a transformação de parte do depósito vinculado à execução fiscal, até o limite da dívida reduzida, com liberação do saldo remanescente à executada/contribuinte.
+Em suma, preconiza a Lei 13.496, no seu art. 6º, que o depósito judicial, vinculado a débito em discussão ou oriundo de constrição judicial repassado à conta única do Tesouro Nacional, deverá ser integralmente transfonnado em pagamento, sem descontos e, apenas o saldo remanescente, se houver, poderá ser liquidado parceladamente e com descontos em alguma das modalidades previstas nos arts. 2º ou 3º da norma citada.
+Contrarrazões apresentadas pela GRÁFICA E EDITORA POSIGRAF S.A., nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (e-STJ fls. 100/109).
+Recurso especial admitido na origem.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Considerado isso, vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 60/63):
+O depósito vinculado à ação judicial é regulado pelo art. 6º da Lei n. 13.496/2:
+Art. 6º Os depósitos vinculados aos débitos a serem pagos ou parcelados serão automaticamente transformados em pagamento definitivo ou convertidos em renda da União.
+§ 1º Depois da alocação do valor depositado à dívida incluída no PERT, se restarem débitos não liquidados pelo depósito, o saldo devedor poderá ser quitado na forma prevista nos art. 2º ou art.3º.
+§ 2º Depois da conversão em renda ou da transformação em pagamento definitivo, o sujeito passivo poderá requerer o levantamento do saldo remanescente, se houver, desde que não haja outro débito exigível.
+§ 3º Na hipótese prevista no § 2º, o saldo remanescente de depósitos junto à Secretaria da Receita Federal do Brasil e à Procuradoria-Geral da Fazenda Nacional somente poderá ser levantado pelo sujeito passivo após a confirmação dos montantes de prejuízo fiscal e de base de cálculo negativa da CSLL ou de outros créditos de tributos utilizados para quitação da dívida, conforme o caso.
+§ 4º Na hipótese de depósito judicial, o disposto no caput somente se aplica aos casos em que tenha ocorrido desistência da ação ou do recurso e renúncia a qualquer alegação de direito sobre o qual se funda a ação.
+§ 5º O disposto no caput aplica-se aos valores oriundos de constrição judicial depositados na conta única do Tesouro Nacional até a data de publicação desta Medida Provisória.
+A interpretação do referido normativo dada pela autoridade fiscal é a de que primeiro converte-se em renda da União ou transforma-se em pagamento definitivo o depósito judicial, vinculado a débito em discussão ou oriundo de constrição judicial repassado à conta única do Tesouro Nacional, no intuito de liquidar (total ou parcialmente) a dívida objeto do litígio ou cobrança, sem descontos e, apenas o saldo remanescente, se houver, poderá ser liquidado parceladamente e com descontos em alguma das modalidades previstas nos arts. 2º ou 3º da norma citada.
+Todavia, tenho que esse não é o tratamento mais adequado e isonôminco ao contribuinte que garantiu o débito em dinheiro, em contraposição com aquele que nada garantiu ou ofereceu outros bens para sua garantia. Ademais, a exigência da alocação do valor depositado, caso seja maior do que a dívida incluída, implicaria pagamento integral à vista e sem qualquer benefício para o sujeito passivo, mas apenas para a Fazenda Pública por conta da desistência da ação judicial renunciada, o que não se revela razoável ou proporcional.
+Ante o exposto, defiro o pedido de tutela recursal, a fim de permitir que a agravante faça a adesão ao PERT, na modalidade das opções autorizadas pela MP 783/17, obstando que o depósito judicial seja primeiramente alocado à dívida para que apenas o saldo devedor possa ser quitado na forma do art. 3º. Efetuada a opção do pagamento, o saldo credor deverá permanecer em conta de depósito judicial, vinculada ao processo de origem.
+Comunique-se. Intimem-se, sendo que a parte agravada para responder (art. 1.019, II, do CPC). Após, inclua-se o feito em pauta.
+Não tendo vindo aos autos novos elementos que justifiquem a alteração do entendimento anteriormente adotado, ratifico a decisão monocrática.
+Ante o exposto, voto por dar provimento ao agravo de instrumento.
+Pois bem.
+O recurso não pode ser conhecido, pois, além de o acórdão recorrido se apoiar em fundamentação constitucional (v.g.: REsp 1.754.571/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/11/2018), não impugnada, aliás (Súmula 126 do STJ), as razões recursais não veiculam impugnação suficiente e adequada às razões de decidir, o que também impede a análise da pretensão, conforme enunciado da Súmula 283 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
