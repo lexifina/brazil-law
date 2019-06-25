@@ -1,0 +1,36 @@
+DECISÃO
+1. Cuida-se de agravo interposto por JAMIL ALEIXO DE SENE contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO. RESPONSABILIDADE CIVIL. POLUIÇÃO AMBIENTAL. MAU CHEIRO ORIUNDO DE ESTAÇÃO DE TRATAMENTO DE ESGOTO (ETE). JARDIM SÃO JORGE.
+JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NECESSIDADE DE INSTRUÇÃO PROBATÓRIA.
+IMPRESCINDIBILIDADE DE PRODUÇÃO DE PROVA PERICIAL. RETORNO DOS AUTOS À ORIGEM PARA O REGULAR PROSSEGUIMENTO DO PROCESSO. NULIDADE DA SENTENÇA DECLARADA EX OFFICIO.
+RECURSO DE APELAÇÃO PREJUDICADO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 1.022, 85, 373, 384 e 1.026, § 2º, do CPC de 2015; 6º do CDC e 14, §§ 1º e 3º, inciso IV, da Lei n. 6.938/1981.
+Sustenta, em síntese, que o acórdão recorrido foi omisso ao não se pronunciar sobre os arts. 6º do Código de Defesa do Consumidor; 85, 373 e 384, do Código de Processo Civil de 2015; 14, §§ 1º e 3º, inciso IV, da Lei n. 6.938/1981.
+Pondera que incumbe ao juiz, quando proferir uma decisão de mérito, realizar a indicação dos fundamentos pelos quais justifica seu convencimento formado através da análise das provas produzidas no processo. Aduz que deve ser concedida a inversão dinâmica do ônus da prova.
+Alega que honorários recursais são devidos no caso.
+Defende que a responsabilidade do poluidor é objetiva e independe de culpa. Diz que foi desconsiderado documento probatório capaz de conduzir à procedência do pedido, devidamente lavrada por tabelião, ata notarial.
+Por fim, enfatiza que os embargos de declaração não foram protelatórios.
+É o relatório. DECIDO.
+2. De início, observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3. Em relação à alegada violação aos artigos 373 e 384, do CPC de 2015; 6º do CDC e 14, §§ 1º e 3º, inciso IV, da Lei n. 6.938/1981, o Tribunal de origem, ao apreciar os embargos de declaração, assim consignou:
+Pretende o A./Embargante-1 sanar a omissão que, segundo diz, existe na decisão embargada, eis que a Câmara teria deixado de se manifestar quanto a inversão do ônus da prova, honorários recursais e responsabilidade civil objetiva da Ré.
+Contudo, não se podem acolher os argumentos apresentados, pois da simples leitura do acórdão se vê que a sentença foi anulada ex officio, restando prejudicado o Recurso de Apelação.
+De consequência, todas as demais questões arguidas pelas partes igualmente ficaram prejudicadas e sem a análise de mérito.
+Nota-se que o acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e a parte recorrente não cuidou de impugnar todos eles, como seria de rigor.
+Assim, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Quanto à alegada violação do artigo 85 do Código de Processo Civil de 2015, melhor sorte não socorre a parte recorrente, eis que a sentença proferida pelo juízo de piso foi anulada pelo Tribunal de origem ante o reconhecimento de cerceamento de defesa. Dessa forma, não existindo sucumbência no atual momento do processo, não se há falar em cabimento de honorários recursais.
+5. Por fim, relativamente à multa aplicada em sede de embargos de declaração, o recurso merece provimento. Observa-se que, na espécie, os embargos de declaração foram opostos com o intuito de prequestionar matéria considerada não apreciada.
+Tal o desiderato dos embargos não há por que os inquinar de protelatórios. Daí que, em conformidade com a Súmula n. 98 deste Superior Tribunal de Justiça, deve ser afastada a multa aplicada pelo Tribunal Regional Federal. A propósito:
+CIVIL E PROCESSUAL. AÇÃO DE COBRANÇA, CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CONTRATAÇÃO DE EMPRÉSTIMO JUNTO A INSTITUIÇÃO FINANCEIRA. DEPÓSITO DE IMPORTÂNCIA A TÍTULO DE PRIMEIRA PRESTAÇÃO. CRÉDITO MUTUADO NÃO CONCEDIDO. ATRIBUIÇÃO DE RESPONSABILIDADE CIVIL AO PRESTADOR DO SERVIÇO E À REDE DE TELEVISÃO QUE, EM PROGRAMA SEU, APRESENTARA PROPAGANDA DO PRODUTO E SERVIÇO. "PUBLICIDADE DE PALCO". CARACTERÍSTICAS. FINALIDADE. AUSÊNCIA DE GARANTIA, PELA EMISSORA, DA QUALIDADE DO BEM OU SERVIÇO ANUNCIADO. MERA VEICULAÇÃO PUBLICITÁRIA. EXCLUSÃO DA LIDE. MULTA PROCRASTINATÓRIA APLICADA PELA INSTÂNCIA ORDINÁRIA. PROPÓSITO DE PREQUESTIONAMENTO. EXCLUSÃO. SÚMULA N. 98-STJ. CDC, ARTS. 3º, 12, 14, 18, 20, 36, PARÁGRAFO ÚNICO, E 38; CPC, ART. 267, VI.
+I. A responsabilidade pela qualidade do produto ou serviço anunciado ao consumidor é do fornecedor respectivo, assim conceituado nos termos do art. 3º da Lei n. 8.078/1990, não se estendendo à empresa de comunicação que veicula a propaganda por meio de apresentador durante programa de televisão, denominada "publicidade de palco".
+II. Destarte, é de se excluir da lide, por ilegitimidade passiva ad causam, a emissora de televisão, por não se lhe poder atribuir co-responsabilidade por apresentar publicidade de empresa financeira, também ré na ação, que teria deixado de fornecer o empréstimo ao telespectador nas condições prometidas no anúncio.
+III. "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório" (Súmula n. 98/STJ).
+IV. Recurso especial conhecido e provido.
+(REsp 1157228/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, Quarta Turma, julgado em 3/2/2011, DJe 27/4/2011)
+AGRAVO REGIMENTAL - AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES BRASIL TELECOM S/A - CONTRATO DE PARTICIPAÇÃO FINANCEIRA ART. 538, PARÁGRAFO ÚNICO, DO CPC - MULTA - AFASTAMENTO - NECESSIDADE - INCIDÊNCIA DA SÚMULA N. 98/STJ - VALOR PATRIMONIAL DA AÇÃO - DATA DA INTEGRALIZAÇÃO DO CAPITAL _ BALANCETE MENSAL CORRESPONDENTE - VERBA HONORÁRIA - AUSÊNCIA DE CONDENAÇÃO EM DINHEIRO - - FIXAÇÃO COM BASE NOS ARTS. 20, § 4º, DO CPC - AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. A multa imposta com fundamento no artigo 538, parágrafo único, do CPC, é de ser afastada, quando, embora tenham sido rejeitados os embargos de declaração, estes tenham sido opostos com a finalidade de prequestionamento da questão federal, conforme disposto na Súmula n. 98 desta Corte, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório". (..)
+4. Agravo regimental parcialmente provido.
+(AgRg nos EDcl no Ag 928.938/RS, 3ª Turma, Rel. o Min. MASSAMI UYEDA, DJe de 5.11.2009)
+6. Ante o exposto, conheço do agravo e dou parcial provimento ao recurso especial, apenas para afastar a multa prevista no artigo 1.026, § 2º, do CPC de 2015, imposta à parte recorrente em sede de embargos de declaração.
+Publique-se. Intimem-se.
