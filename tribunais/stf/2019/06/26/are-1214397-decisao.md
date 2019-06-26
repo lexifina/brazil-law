@@ -1,0 +1,24 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Turma Recursal dos Juizados Especiais Federais da SJGO, assim ementado:
+    “TRIBUTÁRIO. SERVIDOR PÚBLICO. ADICIONAL DE QUALIFICAÇÃO. CONTRIBUIÇÃO PREVIDENCIÁRIA. NÃO INCIDÊNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+    1. Trata-se de recurso inominado interposto pela UNIÃO, contra sentença que declarou indevida a cobrança da contribuição social previdenciária incidente sobre o adicional de qualificação.
+    2. O direito ao adicional de qualificação foi instituído pelo art. 15, V, da Lei n. 11.416/06, à razão de 1% (um por cento) a 3% (três por cento), sobre o vencimento básico do servidor integrante do Poder Judiciário Federal que tenha participado de ações de treinamento que totalizem pelo menos 120 (cento e vinte) horas. O art. 14, § 5º, do mesmo diploma legal, dispõe que o adicional de qualificação pago nos termos do artigo supracitado, não é considerado no cálculo dos proventos e pensões.
+    3. ‘‘Somente as parcelas incorporáveis ao salário do servidor sofrem a incidência da contribuição previdenciária” (cf. AgRg no RE 589.441/MG, Segunda Turma, Rel. Min. Eros Grau, DJE 06.02.2009).
+    4. Ademais, o Conselho da Justiça Federal, no julgamento do CF-PPN-2012/00092, na sessão de 29.09.2014, aprovou proposta de alteração do art. 28, da Resolução n. 126/2010, para excluir o adicional de qualificação, decorrente de ações de treinamento, da base de cálculo das contribuições para o plano de seguridade social dos servidores do próprio Conselho e da Justiça Federal de 1º e 2º Graus. De acordo com o colegiado, o adicional de qualificação é provisório, razão pela qual não se incorpora aos proventos e às pensões e, portanto, não deve integrar a base de cálculo da contribuição previdenciária.
+    5. RECURSO A QUE SE NEGA PROVIMENTO.
+    6. Condenação da União ao pagamento de honorários advocatícios no importe de R$788,00 (setecentos e vinte e quatro reais), nos termos do artigo 20, § 4º, do Código de Processo Civil.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 40; 150, IV; e 195, § 5º, da CF. Sustenta que o acórdão recorrido, ao entender pela impossibilidade de incidência da contribuição previdenciária, violou o princípio da solidariedade. Defende a incidência de contribuição previdenciária sobre os valores pagos a título de Adicional de Qualificação.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[…]
+    Sem delongas, vale gizar que o Supremo Tribunal tem negado provimento a diversos agravos que lá aportam com esse mesmo tema, a saber, a incidência de contribuição previdenciária sobre o AQ, e isso ao fundamento da necessidade de exame de matéria infraconstitucional, o que, como cediço, é vedado à Excelsa Corte.
+    […]
+    Ante o exposto, INADMITO o presente Recurso Extraordinário.”
+    A pretensão recursal não merece prosperar. As instâncias de origem, com apoio na legislação infraconstitucional aplicável, decidiram pela não incidência da contribuição previdenciária sobre a parcela denominada Adicional de Qualificação.
+    Para firmar entendimento diverso, seria imprescindível o reexame da legislação infraconstitucional aplicável, providência vedada em recurso extraordinário. A ofensa ao texto constitucional, se existisse, seria meramente indireta ou reflexa. Nesse sentido, confiram-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE O ADICIONAL DE RISCO. DISCUSSÃO SOBRE A NATUREZA JURÍDICA DA VERBA. PRÉVIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 883.273-AgR, Rel.ª Min.ª Cármen Lúcia)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Incidência de Contribuição Previdenciária em parcela não incorporável à remuneração. Função comissionada. 4. Lei Complementar estadual nº 28/2000, na redação da Lei Complementar nº 85/2006. 5. Matéria infraconstitucional. Ofensa reflexa. Necessidade de reexame do acervo probatório. Súmulas 279 e 280. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.” (ARE 941.252-AgR, Rel. Min. Gilmar Mendes)
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 26 de junho de 2019.
+Ministro Luís Roberto Barroso
+Relator
