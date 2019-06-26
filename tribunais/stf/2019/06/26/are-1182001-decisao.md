@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 17ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “AGRAVO INOMINADO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. OFICIAL DE JUSTIÇA AVALIADOR (OJA). CONTRIBUIÇÕES PREVIDENCIÁRIAS RECOLHIDAS SOBRE AUXÍLIO DE CONDUÇÃO. NATUREZA INDENIZATÓRIA DA GRATIFICAÇÃO. REPETIÇÃO DO INDÉBITO. CABIMENTO. O DIREITO À DEVOLUÇÃO DAS CONTRIBUIÇÕES RECOLHIDAS SOBRE A GRATIFICAÇÃO DE LOCOMOÇÃO DEVE SER RECONHECIDO, POIS EM 2010 NÃO HOUVE MODIFICAÇÃO CONSTITUTIVA DO AUXÍLIO, APENAS SE DECLAROU SEU CARÁTER INDENIZATÓRIO, MAS DEVE SER RESPEITADA A PRESCRIÇÃO QUINQUENAL. ISENÇÃO DA PARTE RÉ QUE NÃO ABRANGE AS DESPESAS ADIANTADAS PELA PARTE VENCEDORA, CONFORME ESTABELECE O §1º DO ART. 17 DA LEI Nº 3.350/99. APLICAÇÃO DO ART. 1º-F DA LEI. 9.494/97, ANTES E APÓS A ALTERAÇÃO INTRODUZIDA PELA LEI Nº 11.960/2009, PARA SE EFETIVAR OS CÁLCULOS DOS JUROS DE MORA E DA CORREÇÃO MONETÁRIA INCIDENTES SOBRE O VALOR CONDENATÓRIO. AGRAVO INOMINADO A QUE SE DÁ PARCIAL PROVIMENTO”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 40, § 3º, e 149, § 1º, ambos da Carta. Sustenta que: (i) não há equivalência entre a contribuição previdenciária e o benefício previdenciário a ser auferido pelo contribuinte; (ii) o fato de que determinada parcela não será computada para fins de fixação dos proventos de aposentadoria ou pensão não serve de argumento para eximi-la da incidência da contribuição previdenciária.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[…]
+    Impende mencionar, que o recorrente pretende por via transversa, a revisão da matéria de fato, apreciada e julgada com base nas provas produzidas nos autos.
+    Impositiva, no caso concreto, a aplicação do verbete nº 279, da Súmula do Supremo Tribunal Federal, visto que, para se chegar à conclusão contrária à adotada pelo órgão julgador, necessário seria o reexame do conjunto fático-probatório.
+    […]
+    À conta de tais fundamentos, DEIXO DE ADMITIR ambos os recursos […]”.
+    A pretensão recursal não merece prosperar. As instâncias de origem decidiram a controvérsia com apoio na legislação infraconstitucional local aplicável (notadamente a Lei Complementar estadual nº 121/08 e Decreto nº 2.479/79).
+    Para firmar entendimento diverso, seria imprescindível o reexame da legislação infraconstitucional local, providência vedada em recurso extraordinário. A hipótese atrai a incidência da Súmula 280/STF. Nesse sentido, confiram-se:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Contribuição previdenciária. Incidência sobre gratificação de locomoção. 3. Enunciado 280 da Súmula do STF. 4. Recurso que não demonstrou o desacerto da decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 880.496-AgR, Rel. Min. Gilmar Mendes)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO E PREVIDENCIÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. GRATIFICAÇÃO DE LOCOMOÇÃO. 1. A incidência de contribuições previdenciárias sobre a gratificação de locomoção paga aos oficiais de justiça cinge-se ao âmbito infraconstitucional, de modo que sua discussão é inviável em sede extraordinário. Súmula 280 do STF. 2. Agravo regimental a que se nega provimento.” (ARE 925.004-AgR, Rel. Min. Edson Fachin)
+     Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 26 de junho de 2019.
+Ministro Luís Roberto Barroso
+Relator
