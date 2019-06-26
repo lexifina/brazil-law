@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “APELAÇÃO – Ação Declaratória - Autos de Infração de Imposição de Multa por infringência ao disposto nos artigos 1° e 2° das Leis n. 10.122/04 e 12.264/10 (tempo de atendimento aos usuários de estabelecimentos bancários do Município, a instalação de divisórias entre os caixas e o espaço reservado para clientes que aguardam o atendimento nos estabelecimentos bancários). Nulidade da CDA - Inocorrência - Ausência de indicação da irregularidade - Presunção de liquidez e certeza não ilidida pelo autor, art. 204 do CTN. Protesto de CDA - Possibilidade - Previsão legal - Lei 9.492/1997 - Precedente STJ. Caráter confiscatório - Violação aos princípios da proporcionalidade, da razoabilidade e isonomia - Não configurada - Sentença mantida - Recurso não provido”. (eDOC 5, p. 33)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, II, XXXVI e LV, do texto constitucional.
+    Nas razões recursais, afirma-se que as certidões de dívida ativa foram levadas a protesto sem que o recorrente tivesse tido ciência do auto de infração. (eDOC 6, p. 4)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, consignou que o processo administrativo teria transcorrido sem vícios. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Nesse ínterim, registre-se que a falta de um ou algum requisitos somente implica a nulidade do título quando privarem o executado da completa compreensão da dívida cobrada, o que não se verifica no presente caso, tendo em vista que o apelante apresentou impugnação na via administrativa, como na judicial”. (eDOC 5, p. 34)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONTRATO DE CONCESSÃO DO SERVIÇO PÚBLICO. DESCUMPRIMENTO. APLICAÇÃO DE MULTA PELA AGÊNCIA REGULADORA. ALEGADA OFENSA AO PRINCÍPIO DA LEGALIDADE. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. SÚMULA Nº 636 DO STF. INCIDÊNCIA. REGULARIDADE DO PROCESSO ADMINISTRATIVO. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO STF NO ARE 748.371. TEMA Nº 660. AGRAVO REGIMENTAL DESPROVIDO”. (ARE 891.570 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 17.12.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. AUTO DE INFRAÇÃO. OPORTUNIDADE DE IMPUGNAÇÃO. NOTIFICAÇÃO DO LANÇAMENTO EFETIVADA. ALEGAÇÃO DE CERCEAMENTO DO DIREITO DE DEFESA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. VIOLAÇÃO AO ART. 93, IX, DA CF. INOCORRÊNCIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. ALEGADA CONTRARIEDADE AO ART. 5º, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (RE 797.571 AgR, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 12.8.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 5, p. 42), observados os limites previstos nos §§ 2º e 3º do referido dispositivo.
+    Publique-se.
+    Brasília, 26 de junho de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
