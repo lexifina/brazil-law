@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso extraordinário com agravo remetido à origem para que se cumprisse o disposto no art. 543-B do CPC/1973, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral pelo tema 360, cujo paradigma é o RE-RG 611.503. (eDOC 20)
+    Encaminhados os autos ao Tribunal de origem, sua Presidência, a instâncias do recorrido, os devolveu por entender que a discussão não se amoldaria ao paradigma indicado. (eDOC 40)
+    Após detida análise dos autos, observo que a matéria, do modo como é trazida na petição de recurso extraordinário, é diversa do citado paradigma.
+    Nesses termos, torno sem efeito a decisão constante do eDOC 20 e passo à apreciação do recurso.
+    Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de Sergipe, assim ementado:
+    “Civil e Processual Civil - Embargos à execução - Agravo retido - Prova pericial - Desnecessidade - Relativização da coisa julgada - Inviabilidade - Art. 741, parágrafo único, do CPC - Inaplicabilidade - Litigância de má-fé – Inocorrência”. (eDOC 6, p. 11)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos art. 5º, XXXVI; e 169 do texto constitucional.
+    Nas razões recursais, alega-se que a Lei Municipal 2.451/1996 seria flagrantemente inconstitucional, pois comprometeria gravemente a execução orçamentária e o equilíbrio econômico das contas públicas e constituiria uma majoração imoral, com fins políticos, da remuneração dos servidores – logo, não poderia ser cumprida a sentença transitada em julgado que se fundamenta nela. (eDOC 11, p. 26)
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Processo Civil), consignou que não haveria sido declarada a inconstitucionalidade da Lei sobre a qual se fundara a sentença exequenda. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Nessa esteira, debruçando-se sobre as hipóteses expressamente autorizadas de revisão da coisa julgada, impende registrar que, no âmbito dos embargos à execução, previu o legislador a possibilidade de declarar inexigível o título judicial fundado em lei ou ato normativo declarados inconstitucionais pelo Supremo Tribunal Federal ou em aplicação ou interpretação tidas por incompatíveis com a Constituição Federal pelo Excelso Pretório.
+    Como se vê, alberga o disposto no parágrafo único do art. 741 do CPC um detalhe assaz importante, qual seja, para a desconstituição da coisa julgada mister se faz a declaração de inconstitucionalidade emitida pela Suprema Corte, circunstância esta que não se faz presente no caso em testilha.
+    Feitas essas considerações, não se pode deixar passar in albis que os argumentos veiculados nos presentes embargos convergem para um mesmo norte, a saber, a alegada inconstitucionalidade da lei que embasou a decisão exequenda, não se aventando quaisquer das outras hipóteses elencadas no art. 741 do Diploma Processual, de maneira que, uma vez afastada a aplicação do parágrafo único do referido dispositivo, esvaziado restou o objeto dos embargos em tela”. (eDOC 6, p. 29)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. CABIMENTO. LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. 1. O Plenário do Supremo Tribunal Federal já decidiu pela inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes. 2. A discussão envolvendo o cabimento de ação rescisória se enquadra no âmbito infraconstitucional, o que não permite a abertura da via recursal extraordinária. Precedentes. (...)”. (ARE 1.146.445 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 10.6.2019)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. PRECLUSÃO E COISA JULGADA: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL E AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO INTERPOSTO NA VIGÊNCIA DO CÓDIGO DE PROCESSO CIVIL DE 1973: IMPOSSIBILIDADE DE MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO APENAS PARA EXCLUIR A MAJORAÇÃO DA VERBA HONORÁRIA”. (RE 1.166.491 AgR, rel. Min. Cármen Lúcia, Segunda Turma, DJe 18.6.2019)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de junho de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
