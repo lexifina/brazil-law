@@ -1,0 +1,2 @@
+Altera a Lei nº 11.697, de 13 de junho de 2008, para criar a Vara de Execução de Títulos Extrajudiciais e de Conflitos Arbitrais, fixando as suas competências judiciárias, e estabelecer as competências judiciárias da Vara da Fazenda Pública, no âmbito do Tribunal de Justiça do Distrito Federal e dos Territórios.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
