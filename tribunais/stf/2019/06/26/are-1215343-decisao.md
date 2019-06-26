@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDOC 1, p. 163):
+    “Direito Previdenciário. Rioprevidência. Demanda objetivando o pagamento de pecúlio post mortem ajuizada por beneficiário de ex-servidor estadual falecido em 06 de fevereiro de 2003. Sentença de procedência. Insurgência da Autarquia Estadual. Desacolhimento.
+    O benefício pleiteado foi instituído pela Lei Estadual no 285/79, e apesar de ter sido revogado pela Lei 5109/2007, não pode prejudicar o direito adquirido do beneficiário de ex-servidor que contribuiu durante a sua atividade laborativa para regime previdenciário quando o pecúlio post mortem ainda integrava o rol dos benefícios.
+    Assim, preenchido todos os requisitos previstos na Lei Estadual no 285/79, faz jus o beneficiário ao percebimento de tal verba, incidindo, no caso, o verbete no 340 das Súmulas do STJ, segundo o qual "a lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado."
+    Ademais, não há que se falar em vedação constitucional ou violação aos Decretos Estaduais no 32.725/2003 e 32.726/2003, pois a Constituição da República em seu art. 195, §1 0 assegura a cada ente federado a possibilidade de instituir seus sistemas previdenciários, sendo certo que o Decreto não se reveste de força para suprimir benefício instituído por Lei.
+    Desprovimento do recurso.”
+    Os embargos de declaração foram rejeitados (eDOC 1, p. 175).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI; 24, XII e § 4º; e 40, § 12, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “além de vedado o pagamento do pecúlio post mortem reclamado por ser contrário ao regramento constitucional (artigo 40, § 12 da CRFB/88) e às disposições da Lei Federal n° 9.717/98, o pagamento não tem a necessária base legal, uma vez que as disposições da Lei nº 285/79 estão com a sua eficácia suspensa desde a edição daquela lei federal, em 1998, por força do artigo 24. XII e §4° da CRFB/88.” (eDOC 1, p. 187).
+    A 3ª Vice-Presidência do TJ/RJ inadmitiu o recurso extraordinário em virtude de incidir na hipótese a Súmula 280 do STF (eDOC 2, p. 4-6).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, quando do julgamento do agravo regimental, asseverou que (eDOC 1, p. 164-165):
+    “Debate-se sobre direito à percepção de pecúlio post mortem por beneficiário de ex-servidor estadual falecido em 06 de fevereiro de 2003.
+    (…)
+    O art. 45 e 46 da Lei Estadual nº 285/79, posteriormente revogado pela Lei nº 5.109/2007, assegurava o pagamento do pecúlio post mortem ao beneficiário do servidor que se habilitasse no prazo de12 meses após o falecimento do segurado.
+    (…)
+    Considerando que o óbito do ex-servidor ocorreu em 06 de fevereiro de 2003 e que a agravada requereu o pagamento do referido benefício em março de 2003 (fls. 06), conclui-se que houve o preenchimento dos requisitos para a aquisição do benefício pleiteado, o qual integrava o Regime Previdenciário à época da morte do servidor, passando a ser extinto somente com o advento da Lei Estadual nº 5.109, de 15 de outubro de 2007.
+    Assim, não há que se falar em vedação constitucional ao pagamento de tal benefício, que se revestia de natureza previdenciária à época em que o ex-servidor contribuía para o regime previdenciário, não tendo os Decretos Estaduais mencionados pela apelante o condão de suprimir benefício instituído por Lei.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo, demandaria o reexame da legislação local aplicável à espécie (Leis Estaduais nº 285/79 e 5.109/07), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF. Nesse sentido:
+    “Agravo regimental em recurso extraordinário. 2. Administrativo. Pensão por morte. Cônjuge divorciada. 3. Análise da legislação local. Lei Complementar Estadual 180/1978. Ofensa meramente reflexa ao texto constitucional. Súmula 280 do STF. 4. Necessidade do reexame de conteúdo fático-probatório. Súmula 279 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE 678.354-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 16.05.2014).
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 28.11.2014. 1. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo regimental conhecido e não provido.” (ARE 877.864-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 11.6.2015).
+     Ademais, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional (ARE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, tema 660 da sistemática da RG).
+    Ante o exposto, nego provimento ao agravo, nos termos do artigo 932, IV, a, do CPC.
+    Deixo de aplicar art. 85, § 11, do CPC/2015, tendo em vista que o recurso foi interposto ainda sob a égide do diploma processual civil anterior.
+    Publique-se.
+    Brasília, 26 de junho de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
