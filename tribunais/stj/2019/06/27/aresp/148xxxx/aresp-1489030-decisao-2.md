@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AUSÊNCIA DE INTERESSE RECURSAL. FALHA NAS RAZÕES RECURSAIS. SÚMULAS 284 E 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+ANDRÉ BISPO DO SANTOS (ANDRÉ) ajuizou ação de cobrança contra TRANSPORTES TONIATO LTDA. (TRANSPORTES), que foi julgada parcialmente procedente.
+A apelação interposta por TRANSPORTES foi parcialmente provida pelo Tribunal de origem, nos termos da seguinte ementa:
+Apelação Cível. Transporte rodoviário de carga. Ação de cobrança de vale-pedágio movida por transportador autônomo de cargas, em face da empresa de transporte rodoviário de cargas, que subcontratou seus serviços.
+Sentença de parcial procedência. Inconformismo da empresa de transporte. Lei 10.209/2001 que atribui, solidariamente, a responsabilidade pelo pagamento do pedágio à empresa transportadora. Exigência de que o pedágio seja pago de modo separado do frete, em modelo próprio. Admissibilidade da cobrança do vale- pedágio previsto em lei, quando este não está destacado no contrato de transporte e nem foi previsto em cláusula contratual. Pretensão do autor que não comporta acolhimento integral. Comprovada a quitação parcial dos pedágios. Sentença reformada em parte.
+Recurso parcialmente provido. (e-STJ fls. 1.147)
+Os embargos de declaração interpostos por ANDRÉ e por TRANSPORTES foram acolhidos para esclarecimentos, sem efeitos infringentes. (e-STJ fls. 1.187 e 1.203)
+Os segundos embargos de declaração de TRANSPORTES foram rejeitados. (e-STJ fls. 1.214)
+Inconformado, ANDRÉ interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 1º, §§ 2º e 3º e 2º e 3º da Lei 10.209/01, ao sustentar que deve ser aplicada a Lei 10.209/01 em sua plenitude, não podendo ser aceita as meras anotações em um contrato disforme, devendo ser declarado exigível a cobrança de todos os contratos de transportes dispostos na inicial.
+O apelo nobre não foi admitido em virtude da incidência da Súmula 7 do STJ.
+Nas razões do presente agravo em recurso especial, ANDRÉ sustentou que não é caso de reexame de prova.
+Foi apresentada impugnação (e-STJ, fls. 1.266/1.269).
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+Dos arts. 1º, §§ 2º e 3º e 2º e 3º da Lei 10.209/01
+O tribunal de origem assim se manifestou:
+Assim, não há dúvidas de que os critérios para apuração do pagamento do vale-pedágio em cada um dos contratos de transporte deverão respeitar o disposto na regulamentação vigente (Lei nº 10.209, de 23 de março de 2001, alterada pela Lei nº 10.561, de 13 de novembro de 2002 e regulamentada pela Resolução nº 2885, de 09 de setembro de 2008).
+Portanto, cada Contrato de Transporte/Recibo de Frete trazido aos autos, no que tange ao pagamento do vale-pedágio, deve estar de acordo com as exigências legais (Lei nº 10.209, de 23 de março de 2001, alterada pela Lei nº 10.561, de 13 de novembro de 2002 e regulamentada pela Resolução nº 2885, de 09 de setembro de 2008), o que será apurado em sede de liquidação de sentença, sendo certo, ainda, que a questão da legibilidade ou ilegibilidade de cada documento também deverá ser apurada em liquidação de sentença.
+Por exemplo, deve-se observar que:
+- O valor do Vale-Pedágio não pode integrar o valor do frete (artigo 2º da Lei n. 10.209/2001).
+- O valor do Vale-Pedágio obrigatório e os dados do modelo próprio, necessários à sua identificação, deverão ser destacados em campo específico no documento comprobatório de embarque (parágrafo único, do art. 2º da Lei nº 10.209/2001), sendo certo que, de acordo com a ANTT, são documentos comprobatórios de embarque a nota fiscal, o conhecimento de transporte de carga, a ordem de embarque ou o manifesto de carga.
+- A antecipação do Vale-Pedágio é autorizada apenas por meio dos modelos próprios habilitados pela ANTT, não sendo permitida, portanto, a antecipação do valor do Vale-Pedágio em espécie.
+- Compete ao embarcador (§ 1º Equipara- se, ainda, ao embarcador o contratante do serviço de transporte rodoviário de cargas, que não seja o proprietário originário da carga ou a empresa transportadora que subcontratar serviço de transporte rodoviário de carga):
+I - adquirir e repassar ao transportador rodoviário de carga, no ato do embarque, o Vale-Pedágio obrigatório, independentemente do frete, correspondente ao tipo de veículo, no valor necessário à livre circulação entre a sua origem e o destino, observando o disposto no parágrafo único do art. 3º desta Resolução;
+II - registrar, no documento comprobatório de embarque, o valor do Vale-Pedágio obrigatório e o número de ordem do seu comprovante de compra ou anexar o comprovante da compra disponibilizado pela operadora de rodovia com pedágio ou pela empresa fornecedora do Vale-Pedágio.
+§ 1º O Vale-Pedágio obrigatório antecipado pelo embarcador ao transportador rodoviário de carga deve corresponder ao valor cobrado em todas as praças de pedágio existentes na rota de viagem contratada, por veículo (Artigos 6º e 7º da Resolução nº 2885, de 09 de setembro de 2008).
+Não estando de acordo ou ilegível o contrato de transporte, o autor fará jus ao recebimento dos valores de pedágio, com correção monetária a partir das datas previstas para as viagens, acrescendo-se juros de 1% ao mês da citação, conforme estabelecido na r. sentença. (e-STJ fls. 1.191/1.192)
+Verifica-se que o tribunal de origem fundamentou que a "apuração do pagamento do vale-pedágio em cada um dos contratos de transporte deverão respeitar o disposto na regulamentação vigente (Lei nº 10.209, de 23 de março de 2001, alterada pela Lei nº 10.561, de 13 de novembro de 2002 e regulamentada pela Resolução nº 2885, de 09 de setembro de 2008)". Assim, o ora recorrente não tem interesse recursal.
+Observa-se, ainda, que o ora recorrente não indicou dispositivo, supostamente, violado, quanto ao fundamento do Tribunal de origem em determinar que seja verificado, em liquidação de sentença, se o pagamento do vale-pedágio em cada um dos contratos de transporte respeitou a regulamentação vigente, bem como que seja apurada a legibilidade e a ilegibilidade de cada documento. Tal deficiência nas razões recursais, atrai a incidência do enunciado 284 e 283 do STF. (e-STJ fls. 1.192)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
