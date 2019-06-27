@@ -1,0 +1,18 @@
+DECISÃO
+ Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por [NOME] - SOCIEDADE COOPERATIVA DE TRABALHO MÉDICO LTDA contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, que deu provimento a agravo de instrumento interposto contra decisão que indeferiu a antecipação dos efeitos da tutela.
+É o suscito relatório. Decido.
+Em consulta ao sítio eletrônico do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, constatou-se que o feito principal (processo nº 1.17.0009186-7) no qual proferida a decisão interlocutória a que se refere o presente recurso especial, foi definitivamente julgado em 06/06/2018.
+Consoante o entendimento pacífico da jurisprudência desta Corte Superior, a superveniência de sentença de mérito no feito principal enseja a perda de objeto do recurso especial resultante de agravo de instrumento interposto contra decisão concessiva ou denegatória de liminar ou antecipação de tutela, tendo em vista que a sentença absorve os efeitos do provimento liminar, por se tratar de juízo de cognição exauriente.
+A propósito, confiram-se os seguintes julgados:
+"AGRAVOS INTERNOS NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PEDIDO DE TUTELA ANTECIPADA. DEFERIMENTO. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DE OBJETO DO RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. SEGUNDO E TERCEIRO AGRAVOS NÃO CONHECIDOS. PRIMEIRO AGRAVO INTERNO PROVIDO.
+1. A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões.
+2. A jurisprudência do Superior Tribunal de Justiça possui entendimento segundo o qual "fica prejudicado, por perda de objeto, o exame de recurso especial interposto contra acórdão proferido em sede de agravo de instrumento que decide questão preliminar ou de antecipação de tutela, na hipótese de já ter sido prolatada sentença" (AgRg no AREsp 51.857/SP, Rel. Ministro João Otávio de Noronha, TERCEIRA TURMA, DJe de 26/5/2015). Precedentes.
+3. Segundo e terceiro agravos internos não conhecidos e primeiro agravo interno a que se dá provimento, para reconsiderar a decisão de fls. 396-399 e, com fundamento no art. 34, XI, do RISTJ, julgar prejudicado o recurso especial."
+(AgInt no AREsp 1.118.801/SP, Rel. Ministro LÁZARO GUIMARÃES, Desembargador Convocado do TRF 5ª Região, DJe de 14/9/2018)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. SENTENÇA DE PROCEDÊNCIA. AGRAVO DE INSTRUMENTO. PREJUDICIALIDADE. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2 A superveniência de sentença de mérito, mediante cognição exauriente, enseja a perda de objeto do recurso especial oriundo de decisão interlocutória.
+3. Agravo interno não provido."
+(AgInt no AREsp 1.235.877/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe de 21/9/2018)
+Assim, constata-se que o recurso especial tornou-se prejudicado, por perda superveniente de objeto.
+Diante do exposto, com fundamento no artigo 34, XI, do RISTJ, julgo prejudicado o presente recurso pela superveniente perda de objeto.
+Publique-se.
