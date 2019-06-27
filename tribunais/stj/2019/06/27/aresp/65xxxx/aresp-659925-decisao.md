@@ -1,0 +1,28 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. POSSIBILIDADE. JUNTADA DO CONTRATO DE HONORÁRIOS ANTERIOR À EMISSÃO DO PRECATÓRIO. REFORMA DO ACÓRDÃO RECORRIDO PARA ADEQUAÇÃO AO ENTENDIMENTO DESTA CORTE. CONHECE-SE DO AGRAVO PARA DAR PROVIMENTO AO RECURSO ESPECIAL DAS PARTES AGRAVANTES.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo SINDICATO DOS TRABALHADORES EM ÓRGÃOS E EMPRESAS PÚBLICAS MUNICIPAIS E DO MUNICÍPIO DE GUARAPARI/ES e por [NOME], com fundamento na alíneas a do art. 105, III da Constituição Federal, no qual se insurgiu contra acórdão proferido pelo egrégio TJRJ, assim ementado:
+EMENTA: AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA EM MANDADO DE SEGURANÇA.
+1. A execução dos valores devidos entre a impetração e a implementação da tutela específica (restabelecimento da rubrica sonegada) deve se processar segundo o rito estabelecido no art. 730 do CPC e no art. 100 da CF (precatórios), sendo necessário ao credor instar o Judiciário a exercer a jurisdição executiva, apresentando petição acompanhada de memória de cálculo.
+2. O pagamento de honorários contratuais também deve seguir o rito da execução por quantia contra a Fazenda Pública.
+3. Recurso conhecido e improvido (fls. 684).
+2. Opostos Embargos de Declaração, restaram rejeitados às fls. 705/707.
+3. Nas razões de seu Apelo Nobre, sustentam os recorrentes, preliminarmente, violação do art. 535, II do CPC/1973, por não ter o Tribunal sanado as omissões apontadas. No mérito, apontam ofensa aos arts. 22, §4o. da Lei 8.906/1994 e 730 do CPC, sustentando que considerando o caso dos autos, tem-se a possibilidade de que os valores fossem efetivamente descontados dos servidores do Município recorrido c repassados DIRETAMENTE ao patrono da causa. SEM qualquer execução em face da fazenda pública, com utilização do que dispõe o artigo 730 do CPC. que se repita. SOMENTE É CABÍVEL EM FACE DE EXECUÇÕES CONTRA A FAZENDA PÚBLICA, o que não ocorre nos autos (fls. 745).
+4. Sobreveio juízo negativo de admissibilidade (fls. 771/781), o que ensejou a interposição do presente Agravo.
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7. Inicialmente, no tocante ao art. 535, II do CPC/1973, não há como acolher a alegada violação, visto que a lide foi resolvida com a devida fundamentação, ainda que sob ótica diversa daquela almejada pelo ora recorrente. As questões postas em debate foram efetivamente decididas, não tendo havido vício algum que justificasse o manejo dos Embargos Declaratórios. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+8. No mais, a respeito da obrigação objeto de execução, confira-se o quanto disposto no acórdão recorrido:
+C) no que tange à pretensão esboçada diante do juízo a quo, de recebimento de honorários contratuais, como bem disse o magistrado singular, deve seguir os trâmites do art. 22, § 40 da Lei 8.906/94 (Estatuto da OAB). Não há suporte normativo para se determinar que o Município reverta valores devidos aos seus servidores diretamente aos seus advogados, a fim de, com isso, permitir que aqueles (servidores) arquem com suas obrigações diante do causídico que contrataram (fls. 687).
+9. A irresignação merece prosperar.
+10. É firme a orientação desta Corte de que é possível ao advogado requerer o pagamento dos seus honorários contratuais mediante destaque no precatório a ser pago ao seu cliente, desde que faça juntar o contrato de honorários em momento anterior à expedição do precatório. Confira-se:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. DESTAQUE DA VERBA SOBRE O VALOR PRINCIPAL. POSSIBILIDADE. MOMENTO. MANDADO DE EXPEDIÇÃO DO PRECATÓRIO OU LEVANTAMENTO. ART. 22, § 4o., DA LEI 8.906/1994.
+1. É pacífico, no Superior Tribunal de Justiça, o entendimento de que é possível ao patrono da causa, em seu próprio nome, requerer o destaque da verba honorária, mediante juntada aos autos do contrato de honorários, nos termos do artigo 22, § 4o., da Lei 8.906/1994, até a expedição do mandado de levantamento ou precatório.
+2. Agravo Regimental não provido (AgRg no AREsp. 447.744/RS, Rel. Min. HERMAN BENJAMIN, DJe 27.3.2014).
+
+PROCESSO CIVIL. EXECUÇÃO DE SENTENÇA. RESERVA DE HONORÁRIOS. NECESSIDADE DA JUNTADA DO CONTRATO DE PRESTAÇÃO DE SERVIÇO ANTES DO MANDADO DE LEVANTAMENTO OU DA EXPEDIÇÃO DO PRECATÓRIO OU DO RPV. SÚMULA 83/STJ.
+1. O entendimento do Tribunal de origem não destoa da orientação desta Corte Superior no sentido de que a reserva dos honorários contratuais a favor dos patronos é permitida mediante a juntada do contrato de prestação de serviços profissionais, antes da expedição do mandado de levantamento ou precatório, desde que não haja litígio entre o outorgante e o advogado.
+2. Caso em que a parte não juntou aos autos o contrato de prestação de serviços. Inafastável, portanto, a incidência da Súmula 83/STJ. Agravo improvido (AgRg no AREsp. 408.178/RS, Rel. Min, HUMBERTO MARTINS, DJe 27.11.2013).
+11. Dessa forma, o acórdão recorrido deve ser reformado para que, diante da constatação de que houve a juntada do contrato de honorários em momento anterior à expedição do precatório, permitir a habilitação de cessionário do crédito pertencente ao Advogado originário da causa.
+12. Ante o exposto, conheço do Agravo para dar provimento ao Recurso Especial das partes agravantes, determinando o retorno dos autos à origem para que o Tribunal a quo se adeque ao entendimento adotado por esta Corte, nos termos da fundamentação acima.
+13. Publique-se.
+14. Intimações necessárias.
