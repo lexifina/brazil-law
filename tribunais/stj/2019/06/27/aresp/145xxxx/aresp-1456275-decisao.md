@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por PROMÉDICA - PROTEÇÃO MÉDICA A EMPRESAS S/A contra decisão que negou seguimento ao recurso especial, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE COLETIVO. CANCELAMENTO UNILATERAL. POSSIBILIDADE. DEVER DE DISPONIBILIZAÇÃO DE PLANO INDIVIDUAL OU FAMILIAR. RESOLUÇÃO CONSU nº 19/99. CONCESSÃO DE TUTELA DE URGÊNCIA. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. O cancelamento unilateral de plano de saúde coletivo deve obedecer ao quanto disposto na Resolução do Conselho de Saúde Suplementar - CONSU nº 19 de 25 de março de 1999, que prevê, em seu artigo 1º, a necessidade de disponibilização de plano de saúde na modalidade individual ou familiar ao universo de beneficiários, sem necessidade de cumprimento de novos prazos de carência.
+2. Presente a fumaça do bom direito e o perigo da demora, posto que uma das beneficiárias é pessoa idosa, com frágil saúde, internada durante o curso da ação, está acertada a concessão de tutela de urgência determinando a imediata inclusão dos agravados como beneficiários de plano de saúde individual ou familiar, sem cumprimento de novos prazos de carência, preservadas as condições de cobertura de contrato coletivo empresarial, arcando os mesmos com o valor integral do plano. RECURSO IMPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a agravante violação dos artigos 473 e 599 do Código Civil; 13 e 35-E da Lei 9.656/98; e 6º do Decreto-Lei 4.657/42. Alega a validade da resilição do contrato de plano de saúde coletivo pela operadora, não se podendo impor vedação da modalidade individual ou familiar.
+Aduz que houve o término do prazo do benefício, bem como que não pode ser obrigada a fornecer plano de saúde que não disponibiliza.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+No caso dos autos, o Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, consignou que ao revés do sustentado no agravo de instrumento, a determinação da tutela antecipada conferida pelo Juízo de 1º grau deveria ser mantida (fls. 160-161, e-STJ):
+Compulsando atentamente os autos, verifico que a decisão recorrida merece ser mantida em todos os seus termos, por estar em consonância com a legislação pátria que rege a matéria.
+Restaram presentes os requisitos processuais para a concessão da tutela de urgência na ação de origem, tendo os agravados demonstrado tanto a fumaça do bom direito como o perigo da demora em seu favor.
+(..)
+Nesse sentido, o que se observa é que, a despeito de não ser vedado o cancelamento unilateral do plano de saúde pela operadora em contrato coletivo, estas entidades deverão disponibilizar plano ou seguro de assistência à saúde na modalidade individual ou familiar ao universo de beneficiários, comando que está em consonância com o que foi decidido pelo Magistrado singular, constituindo obrigação do agravante a oportunização da migração aos beneficiários. O STJ tem decidido nessa mesma direção:
+ (..)
+Ademais, consoante se extrai da documentação acostada às contrarrazões e dos documentos dos autos digitais (fls. 187/191 dos autos de origem), a agravada [NOME] é idosa, portadora de diversas enfermidades, estava internada ao tempo do manejo do recurso e necessita de constantes cuidados médicos, constituindo perigo da demora inverso a reforma da decisão liminar impugnada.
+Com efeito, anoto que não cabe recurso especial para reexaminar decisão provisória acerca de antecipação de tutela. A propósito, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS AGRAVANTES.
+1. (..)
+2. (..)
+3. A jurisprudência pacífica do STJ é no sentido de ser incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação analógica da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar.").
+Ademais, a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional (artigo 273 do CPC/73) reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 849.649/ES, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 25/10/2017)
+De todo modo, o reexame da questão esbarra no óbice de que trata o enunciado n. 7 da Súmula desta Casa. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO DE DANOS MATERIAIS E MORAIS. DESLIZAMENTO DE TERRAS. EXPLOSÃO DO GASODUTO BOLÍVIA-BRASIL. DECISÃO QUE DEFERIU ANTECIPAÇÃO DE TUTELA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. REQUISITOS DA TUTELA ANTECIPADA. ART 300 DO CPC/2015. SÚMULA 735/STF. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não prospera a alegação de negativa de prestação jurisdicional, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo eg. Supremo Tribunal Federal na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação a norma que diga respeito ao mérito da causa. Precedentes.
+3. No caso, o Tribunal de origem, com base nos elementos fáticos e probatórios dos autos, conclui pela presença dos requisitos autorizadores da tutela cautelar. A alteração das conclusões a que chegaram as instâncias ordinárias demanda o reexame do acervo fático-probatório dos autos, inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo interno não provido.
+(AgInt no AREsp 738.273/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 24/4/2019)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se .
