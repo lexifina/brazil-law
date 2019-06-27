@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], contra decisão do Tribunal Regional Federal da 3ª Região, que indeferiu o recurso especial manejado do acórdão da Apelação n. 0006101-14.2017.4.03.6119.
+Consta dos autos que o agravante foi condenado a 4 anos, 10 meses e 10 dias de reclusão, em regime inicial semiaberto, e ao pagamento de 485 dias-multa, como incurso no art. 33, caput, c/c o art. 40, I, todos da Lei n. 11.343/2006.
+Inconformada, a defesa interpôs apelação perante a Corte Regional, a qual negou provimento à insurgência, mantendo inalterado o édito condenatório.
+Aviado o apelo nobre, com fulcro no permissivo constitucional, a defesa alegou contrariedade ao art. 33, § 4º, da Lei n. 11.343/2006, eis que ausente fundamentação idônea a justificar a aplicação da minorante em seu patamar mínimo. Subsidiariamente, requereu a alteração do regime inicial de cumprimento de pena e permitida a substituição da pena privativa de liberdade por penas restritivas de direitos.
+Em juízo prévio de admissibilidade a insurgência foi inadmitida, em razão dos óbices das Súmulas n. 7 e 83/STJ, o que deu ensejo à apresentação do respectivo agravo, no qual a defesa sustenta que esses óbices não se aplicariam ao caso.
+Requer o provimento da insurgência, para que o apelo especial seja analisado e provido.
+Instado a opinar, o órgão ministerial manifestou-se pelo não conhecimento da insurgência.
+É o relatório.
+A par dos argumentos utilizados pelo Tribunal de origem, verifica-se que, de fato, o recurso não comporta conhecimento.
+No que se refere ao sustentado pela defesa, referente à aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, em seu grau mínimo, colhe-se da sentença condenatória (e-STJ fl. 224):
+ ..
+De outra banda, considerando que o réu é primário, não ostenta maus antecedentes, não restou caracterizado que se dedique a atividades criminosas, tampouco que integre. organização criminosa, a pena deve ser reduzida em 1/6 (um sexto), tendo em conta a natureza e a quantidade da substância entorpecente apreendida (2.072g de massa líquida de cocaína), o que totaliza pena privativa de liberdade de 4 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão, e pagamento de 485 (quatrocentos e oitenta e cinco) dias-multa, pena essa que torno definitiva.
+O acórdão impugnado, por sua vez, estabeleceu (e-STJ fl. 322):
+ ..
+Na hipótese, foi fixada a fração mínima de 1/6 (um sexto), em razão da natureza e quantidade, expressamente utilizadas pelo magistrado na terceira fase da dosimetria e não consideradas na primeira, o que está em consonância com o entendimento desta e das Cortes superiores (STF - HC 112776/MS e HC 109193/MG, rel. Min. Teori Zavaski, 19/12/2013).
+ ..
+Na presente hipótese dos autos, verifica-se que o acórdão recorrido, manteve a fração mínima de diminuição de pena fixada pelo juízo singular, fundado na quantidade da droga apreendida, qual seja, (2.072g de massa líquida de cocaína), o que representa motivação idônea para impedir a aplicação da fração máxima de 2/3 (dois terços).
+Nesse sentido (destaques acrescidos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. MOEDA FALSA E TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. CULPABILIDADE. GRANDE QUANTIDADE DE NOTAS FALSIFICADAS. EXASPERAÇÃO DA PENA-BASE.
+FUNDAMENTAÇÃO IDÔNEA. DESPROPORCIONALIDADE. INEXISTÊNCIA. MINORANTE PREVISTA NO § 4.º DO ART. 33 DA LEI N.º 11.343/2006. QUANTIDADE E VARIEDADE DE DROGAS. PARÂMETRO IDÔNEO PARA FIXAÇÃO DA FRAÇÃO DE DIMINUIÇÃO. PRECEDENTES. ALTERAÇÃO DO QUANTUM. INCIDÊNCIA DA SÚMULA N.º 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. In casu, a fixação da pena-base acima do mínimo legal foi suficientemente fundamentada, tendo sido declinados elementos que emprestaram à conduta do Agravante especial reprovabilidade e que não se afiguram inerentes ao próprio tipo penal, vinculados à culpabilidade, caracterizada pelo grande quantidade de notas falsas encontrada com o Agravante.
+2. O aumento da pena-base não está adstrito a critérios matemáticos.
+No caso concreto, considerado o intervalo entre as penas mínima e máxima abstratamente cominadas ao delito (3 a 12 anos de reclusão), não se verifica desproporcionalidade na exasperação da pena-base em 1 (um) ano acima do mínimo legal, diante da negativação da culpabilidade do Agente.
+3. O legislador não delimitou parâmetros para a redução da pena pela causa de diminuição prevista na Lei de Drogas, de forma que o quantum de diminuição fica adstrito ao prudente arbítrio do Magistrado, que deve observar o princípio do livre convencimento motivado. No caso, a fração implementada foi fixada com base em fundamentação concreta, considerando, em especial, a natureza e a quantidade da droga apreendida - 482g de cocaína, 980g de maconha e 4g de crack -, sendo certo que tais critérios, de acordo com a jurisprudência do Superior Tribunal de Justiça, são idôneos para balizar a aplicação da minorante, inclusive no que tange a afastá-la da fração máxima.
+4. Não havendo ilegalidade patente na fixação do quantum a ser reduzido pela minorante do art. 33, § 4.º, da Lei de Drogas, não pode esta Corte proceder à alteração do referido patamar sem revolver o acervo fático-probatório, providência incabível na via do recurso especial, a teor do óbice contido no Verbete Sumular n.º 7 deste Superior Tribunal de Justiça.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 1425611/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/05/2019, DJe 30/05/2019)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. FRAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. REGIME. PECULIARIDADES DO CASO CONCRETO. SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Mostra-se devida a incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 na fração mínima de 1/6, em razão da natureza e da elevada quantidade de drogas apreendidas - aproximadamente, 3 kg de cocaína, substância entorpecente dotada de alto poder viciante.
+2. Embora a recorrente haja sido condenada à reprimenda de 4 anos e 2 meses de reclusão, as particularidades do caso concreto - notadamente, a natureza e a elevada quantidade de drogas apreendidas (3 kg de cocaína) - evidenciam que o regime inicial mais gravoso é, efetivamente, o que se mostra mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33, § 3º, do Código Penal, com atenção também ao previsto no art. 42 da Lei de Drogas.
+3. A pretendida aplicação do disposto no art. 387, § 2º, do Código de Processo Penal, em nenhum momento, foi analisada pelas instâncias ordinárias, de maneira que incidem, no ponto, os óbices das Súmulas n. 282 e 356, ambas do STF, aplicadas por analogia ao recurso especial.
+4. Uma vez que a agravante foi condenada a reprimenda superior a 4 anos de reclusão, não há como ser determinada a substituição da pena privativa de liberdade por restritiva de direitos, por ausência de preenchimento do requisito objetivo (sanção superior a 4 anos de reclusão - art. 44, I, do Código Penal). Também a elevada quantidade de drogas apreendidas evidencia que, no caso, a medida não se mostra socialmente recomendável, ex vi do disposto no inciso III do art. 44 do Código Penal.
+5. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1427582/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/06/2018, DJe 29/06/2018)
+Restam prejudicados os pedidos subsidiários, na medida em que o principal não foi acolhido.
+Ante o exposto, conhece-se do agravo para negar provimento ao recurso especial, nos termos do art. 253, parágrafo único, II, b, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intime-se.
