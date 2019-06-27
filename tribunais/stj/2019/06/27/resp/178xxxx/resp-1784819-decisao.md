@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 5ª Região cuja ementa é a seguinte:
+PROCESSUAL CIVIL. ADMINISTRATIVO. INMETRO. SAL MARINHO. MEDIÇÃO. INSTRUMENTO DE PESAGEM. AUSÊNCIA DE ESPECIFICAÇÃO. NORMA NIE DIEMEL 025. PREVISÃO EXPRESSA. AUTO DE INFRAÇÃO. NULIDADE. SENTENÇA MANTIDA.
+1. Apelação interposta pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia - INMETRO em face da sentença proferida pelo Juízo da 10ª Vara Federal da Seção Judiciária do Rio Grande do Norte, que julgou procedentes os pedidos formulados por [NOME] para declarar a nulidade dos laudos dos exames quantitativos, bem como a nulidade dos autos de infração e os seus respectivos processos administrativos e multas de nºs PA 5219/2013, PA 12.951/2013, PA 12.001/2013, PA 7784/2013, PA 5918/2013, PA 291/2013, PA 46425/2009, PA 5359/2013, PA 8069/2013, PA 9590/2013, PA 9967/2012, PA 6571/2013, PA 6025/2013, PA 6026/2013 e PA 3938/2015, e determinar que o demandado providencie a baixa no IPEM/RN, dos referidos débitos, apresentando nova planilha atualizada com a exclusão de tais débitos.
+2. O INMETRO jamais especificou os instrumentos de medição usados para a pesagem do sal marinho nos processos administrativos questionados, obrigação prevista no item 8.1.1 da Norma NIE-DIMEL-25, o que inviabiliza qualquer possibilidade de verificação de conformidade do procedimento pela empresa fiscalizada.
+3. Caso concreto em que o próprio apelante não se desincumbiu do ônus de demonstrar que os parâmetros técnicos instituídos e atualmente vigentes foram observados, fragilizando substancialmente a higidez dos atos praticados pela Administração.
+4. Ainda que não conste do auto de infração, cujos requisitos essenciais estão previstos no art. 7º da Resolução CONMETRO nº 08/2006, a validade do instrumento de medição utilizado no exame pericial deve ser parte integrante do processo administrativo por força do disposto no item 8.1.1 da Norma NIE-DIMEL-25.
+5. Conforme precedente desta Terceira Turma, "A falta de especificação do instrumento de medição usado para a pesagem dos produtos inviabiliza a aferição de sua aptidão para tal finalidade, representando prejuízo à configuração do ilícito administrativo e contaminando a liquidez do auto de infração" (PROCESSO: 08004428020144058401, AC/RN, Desembargador Federal Élio Wanderley De Siqueira Filho (convocado), Terceira Turma, Julgamento: 23/04/2015, Publicação:) 6. Apelação improvida. Verba honorária sucumbencial majorada para 12% (doze por cento) sobre o valor da causa, nos termos do art. 85, § 11 do CPC/2015.
+Os Embargos de Declaração foram rejeitados (fls. 1.327-1.328, e-STJ).
+O recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 373, II, e 374, IV, do CPC/2015, sob o argumento de que "o acórdão recorrido reconhece que milita em favor do auto de infração lavrado a presunção de legitimidade e veracidade, mas acabou por concluir, de forma equivocada, que caberia ao INMETRO comprovar que as balanças utilizadas pela autarquia para pesagem dos produtos que deram origem a autuação encontravam-se devidamente aferidas e certificadas por entidade acreditada pelo próprio INMETRO" (fl. 1.351, e-STJ).
+Contrarrazões apresentadas às fls. 1.359-1.365, e-STJ.
+É o relatório.
+
+Decido.
+Os autos foram recebidos neste Gabinete em 11.12.2019.
+A irresignação não merece prosperar.
+No presente caso, o Tribunal de origem lançou os seguintes fundamentos:
+Analisando detidamente os autos, verifica-se que o INMETRO jamais especificou os instrumentos de medição usados para a pesagem do sal marinho nos processos administrativos questionados, o que inviabiliza qualquer possibilidade de verificação de conformidade do procedimento pela empresa fiscalizada (id. 4058401.2424850 a 4058401.2424853).
+No caso concreto, foi o próprio apelante que não se desincumbiu do ônus de demonstrar que os parâmetros técnicos instituídos e atualmente vigentes foram observados, fragilizando substancialmente a higidez dos atos praticados pela Administração. Vale dizer, ainda que não conste do auto de infração, cujos requisitos essenciais estão previstos no art. 7º da Resolução CONMETRO nº 08/2006, a validade do instrumento de medição utilizado no exame pericial deve ser parte integrante do processo administrativo por força do disposto no item 8.1.1 da Norma NIE-DIMEL-25.
+Não obstante as motivações explicitadas pela Instância a quo, ao interpor o recurso, a parte recorrente não impugnou, suficientemente, o embasamento acima mencionado.
+Ao proceder dessa forma, não observou o recorrente as diretrizes fixadas pelo princípio da dialeticidade, dentre as quais, indispensável a pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado.
+Assim, não sendo o argumento atacado pela parte recorrente e, como é apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 283 e 284 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Nessa esteira:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA - SÚMULA N. 284 DO STF - AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, a parte aponta negativa de vigência ao art. 458 do CPC, porém, limita-se a atacar, em suas razões recursais, a excessividade do quantum fixado a título de dano moral. Assim, a deficiência da fundamentação do apelo extremo não permite a exata compreensão da controvérsia, estando escorreita sua inadmissibilidade.
+2. A ausência de indicação expressa do ponto do decisum que confronta os dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 41.941/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 29/05/2013).
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. ART. 407 DO CÓDIGO CIVIL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. ART. 406 DO CÓDIGO CIVIL. JUROS MORATÓRIOS. TAXA LEGAL. FUNDAMENTO NÃO ATACADO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+ 2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. Embargos de declaração acolhidos parcialmente para sanar omissão apontada, sem, entretanto, emprestar-lhes efeito modificativo. (EDcl no AgRg no Ag 1089538/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 09/09/2011).
+Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% do valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
