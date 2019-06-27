@@ -1,0 +1,37 @@
+EMENTA
+AÇÃO COMINATÓRIA. AGRAVO EM RECURSO ESPECIAL MANEJADO NA ÉGIDE DO NCPC. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 19, § 1º, DA LEI 12.965/2014; 462 DO CPC/73; 884 DO CC/02. SÚMULAS NºS 282 E 356 DO STF. VIOLAÇÃO DO ART. 461, § 6º, DO CPC/73. REEXAME DE MATÉRIA FÁTICA E FALTA DE IMPUGNAÇÃO OBJETIVA AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS NºS 7 DO STJ E 283 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+[NOME] ([NOME]) ajuizou ação de obrigação de fazer cumulada com antecipação da tutela e danos morais contra GOOGLE BRASIL INTERNET LTDA. (GOOGLE), em razão de vídeo ofensivo mantido no site youtube.
+A sentença de parcial procedência do pedido foi mantida pelo Tribunal estadual conforme acórdão assim ementado:
+Ação cominatória visando à retirada de vídeos do portal de internet mantido pela Google Brasil, cumulada com pedido de indenização por danos morais. Conteúdo altamente ofensivo ao autor, difamatório e injurioso. Sentença de procedência que determinou o fornecimento do IP do responsável pela postagem dos vídeos, sua O exclusão do site Youtube, mantido pela ré, e a eliminação de filtros de busca, com inserção, na rede, de texto no sentido de que a exclusão se deu por ordem judicial.
+Improcedência do pedido de indenização de danos morais. Cominação de multa para caso de descumprimento. Apelos das partes.
+Decisão que é de ser confirmada na forma do art. 252 do RITJSP. A mera demora na retirada de vídeos do Youtube não importa ocorrência de dano moral indenizável. As astreintes, se vierem a ser executadas, poderão e deverão ter seu quantum, oportunamente, reavaliado pelo Juízo de primeiro grau (precedente do STJ: REsp 1.239.714, ISABEL GALLOTTI). Apelos recíprocos das partes a que se nega provimento.
+Os embargos de declaração opostos por [NOME] foram rejeitados (e-STJ, fls. 663/669).
+GOOGLE interpôs recurso especial com base no art. 105, III, a e c, da CF , onde alegou violação dos arts. 19, § 1º, da Lei 12.965/2014; 461, § 6º, 462 do CPC/73; 884 do CC/02, e dissídio jurisprudencial pelos seguintes fundamentos (1) é nula a decisão judicial que não indica de forma clara e específica o conteúdo apontado como infringente, de modo a permitir a localização inequívoca do material sobre o qual se pretende sejam tomadas providências o que, como é cediço, se faz por meio da indicação do respectivo endereço eletrônico (URL); (2) deve ser aplicado à lide o Marco Civil da Internet instituído com a Lei 12.965/2014, que adveio como fato novo, nos termos do art. 462 do CPC/73; (3) deve ser revogada ou reduzida a multa cominatória imposta sob pena de enriquecimento ilícito.
+Sem contrarrazões.
+O Tribunal de origem inadmitiu o apelo nobre por (1) não ter sido demonstrada a infringência dos preceitos legais arrolados; (2) incidir a Súmula nº 7 do STJ.
+GOOGLE ingressou com agravo em recurso especial sustentando (1) ter sido demonstrada a violação dos artigos mencionados; (2) não se aplicar a Súmula nº 7 do STJ.
+Sem contraminuta.
+É o relatório.
+DECIDO
+A irresignação não merece prosperar.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada violação dos arts. 19, § 1º, da Lei 12.965/2014; 462 do CPC/73; 884 do CC/02,
+No particular, observa-se que os referidos preceitos legais não foram objeto de apreciação pelo Tribunal de origem, ressentindo-se do necessário prequestionamento, pressuposto inafastável ao conhecimento do apelo nobre.
+Acrescente-se, que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância, não sendo suficiente o mero prequestionamento numérico.
+Não basta à parte discorrer sobre o dispositivo legal que entende infringido. É imprescindível que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada.
+Sendo assim, é de rigor a aplicação, por analogia, das Súmulas nºs 282 e 356 do STF, pois a agravante não opôs embargos de declaração.
+(2) Da violação do art. 461, § 6º do CPC/73
+Ao enfrentar a matéria, o acórdão estadual assim consignou:
+Por fim, com relação ao valor da multa pecuniária, a questão deverá ser levantada, pela parte nisto interessada, querendo, em sede de cumprimento de sentença.
+Realmente, de um lado tem-se a Google a afirmar, em sua apelação (fls. 380/381), que prontamente atendeu à ordem judicial de remoção do vídeo; e, de outro, conhece-se a jurisprudência de nossos Tribunais, anotada por THEOTONIO NEGRÃO e continuadores, no sentido de que:
+A multa cominatória prevista no art. 461, do CPC, carrega consigo o caráter de precariedade, de forma que, mesmo após o trânsito em julgado da sentença que confirmou a antecipação, não se reveste o valor da multa do caráter de definitividade, liquidez e certeza, pressupostos para a execução segundo o rito do art. 475-J do CPC.
+O valor fixado provisoriamente a título de multa diária deve merecer acertamento, antes do início de sua execução, da qual será pressuposto o exercício, pelo magistrado, do juízo acerca do retardamento injustificado, de parte ou de toda a obrigação; o estabelecimento do termo inicial e final da multa e de seu valor definitivo. Apenas após este acertamento judicial, a execução da multa seguirá o rito do art. 475-J" (STJ, REsp 1.239.714, ISABEL GALLOTTI, in CPC, 461 ed., pág. 547).
+O tema da eventual redução do montante das astreintes, portanto, deverá ser apreciado, quando eventualmente se pretender executar a multa, pelo MM. Juiz de Direito de origem (e-STJ, fl. 593).
+Nada obstante os termos do aresto combatido, a agravante defende em seu recurso que Destarte, ainda que o art. 461 do CPC, em seus parágrafos 4º, 5º e 6º, disciplina a multa a ser imposta como medida de apoio ao cumprimento da tutela, no presente caso esta é absolutamente descabida, pois a Recorrente cumpriu a obrigação (e-STJ, 614).
+Percebe-se que a fundamentação desenvolvida pela agravante além de demandar o reexame de matéria fática, não impugna de forma específica e objetiva o acórdão recorrido que claramente afirmou que questão deverá ser tratada oportunamente pelo juízo de origem.
+No ponto incidem as Súmulas nº 7 do STJ e 283 do STF.
+Por fim, cumpre assinalar que o dissídio jurisprudencial não ficou configurado, pois além da ausência de prequestionamento de vários artigos apontados como violados, a agravante não se desincumbiu de demonstrar a similitude entre os casos confrontados e a diversidade nas soluções jurídicas dadas.
+Aliás, a incidência da Súmula nº 7 relativamente ao recurso interposto com base na alínea a, prejudica o exame do dissídio jurisprudencial, porquanto não é possível encontrar similitude fática entre o aresto combatido e os acórdãos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
