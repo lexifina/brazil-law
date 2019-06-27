@@ -1,0 +1,19 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Estado da Paraíba contra acórdão que, proferido pelo E. Tribunal de Justiça local, está assim ementado:
+    “REEXAME NECESSÁRIO. AÇÃO ORDINÁRIA DE REVISÃO DE REMUNERAÇÃO. POLICIAL MILITAR ADICIONAL POR TEMPO DE SERVIÇO. VERBA ESTABELECIDA PELA LEI ESTADUAL Nº 5.701/93 CONGELAMENTO COM BASE NO ART. 2º DA LEI COMPLEMENTAR Nº 50/2003. AUSÊNCIA DE PREVISÃO EXPRESSA. REGRA NÃO ESTENDIDA AOS MILITARES. EDIÇÃO DA MEDIDA PROVISÓRIA Nº 185/2012. CONVERSÃO NA LEI ESTADUAL Nº 9.703/2012. LACUNA SUPRIDA. POSSIBILIDADE DE CONGELAMENTO A PARTIR DA PUBLICAÇÃO DE MEDIDA PROVISÓRIA. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. ENTENDIMENTO SEDIMENTADO NO ÂMBITO DESTE SODALÍCIO. PROVIMENTO PARCIAL.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 42 da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei Complementar estadual nº 50/2003, Medida Provisória estadual nº 185/2012 e Leis estaduais nºs 5.701/93 e 9.703/2012), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local:
+    “O cerne da questão reside em saber se a Lei Complementar nº 50/2003, que determinou o congelamento das gratificações e adicionais recebidos pelos servidores públicos da Administração direta e indireta do Poder Executivo Estadual, alcança os militares.
+    …...................................................................................................
+    Como se infere, somente a partir da publicação da Medida Provisória nº 185/2012, convertida na Lei Estadual nº 9.703/2012, a regra constante do art. 2º da Lei Complementar nº 50/2003 passou a incidir sobre os policiais militares da Paraíba, eis que suprida a omissão até então existente em relação aos citados servidores. Senão vejamos:
+    …...................................................................................................
+    Nesse cenário, registro que o parágrafo único do art. 12 da Lei Ordinária Estadual nº 5.701/93, concedeu ao servidor militar estadual um ‘plus’ remuneratório denominado ‘adicional por tempo de serviço’, na proporção de um por cento por ano de efetivo serviço público, a ser computado e pago até a data de sua passagem à inatividade. Assim dispôs:”
+    Vê-se, desse modo, que o apelo extremo deduzido nestes autos não se revela viável.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 27 de junho de 2019.
+Ministro CELSO DE MELLO
+Relator
