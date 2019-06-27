@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo (CPC/2015, art. 1.042) interposto contra decisão que não admitiu o recurso especial sob os seguintes fundamentos (e-STJ fls. 779/782): (a) consonância entre o entendimento do acórdão recorrido e a orientação do Superior Tribunal de Justiça, (b) ausência de demonstração de ofensa à legislação federal indicada, (c) aplicação da Súmula n. 7/STJ e (d) deficiência na demonstração do dissídio interpretativo.
+O acórdão recorrido possui a seguinte ementa (e-STJ fl. 628):
+- Prestação de serviços - Telefonia - Ação de obrigação de fazer e de exibição de documentos - Pedido de complementação de ações relacionadas a plano de investimento e expansão do serviço telefônico - Alegação de nulidade da sentença - "Nas demandas por complementação de ações de empresas de telefonia, admite-se a condenação ao pagamento de dividendos e juros sobre capital próprio independentemente de pedido expresso" (súmula 551 do STJ) - Alegação rejeitada.
+- Afastamento da alegação de coisa julgada, pela ausência de prova de que o objeto desta lide já . foi decidido em processos anteriores.
+- Reconhecimento da ilegitimidade do autor, em relação a contratos de cessão cuja autenticidade e extensão não foram demonstrados, e a instrumentos de mandato em que não houve previsão de direito à emissão de novas ações, mas apenas de transferência de direitos relativos às ações originárias.
+- Legitimidade passiva - A ré é parte legítima, pois, com a privatização do sistema de telefonia, tornou-se responsável pelos lançamentos, capitalização, administração e outros consectários relativos às ações que integralizaram o seu capital, como sucessora da Telesp e da Telebrás.
+- Prescrição de ação na qual se discute direito à complementação de ações, por descumprimento de contrato de participação financeira, se dá nos prazos previstos nos artigos 177 do Código Civil revogado, 205 e 2.028 do Código Civil atual - Não houve prescrição.
+- Relação de consumo - Emissão de ações na data em que ela deveria ter ocorrido afasta acolhimento do pedido indenizatório a complemento e aos consectários decorrentes.
+- Emissão de ações em datas posteriores às datas em que deveria ter ocorrido e aquém do que o autor tinha direito conduz à procedência do pedido - A procedência do pedido principal resulta a do pedido secundário, afeito a juros, dividendos, bonificações e outras vantagens.
+- Apuração do valor patrimonial das ações, com base no balancete do mês da integralização (súmula 371 do STJ)
+- Para o cálculo do valor devido, deverá ser utilizada a cotação das ações da ré no fechamento do pregão da Bolsa de Valores, no dia do trânsito em julgado da decisão, correndo a partir de então a correção monetária
+- Recurso provido em parte.
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 652/655).
+No especial (e-STJ fls. 658/688), interposto com base no art. 105, III, "a" e "c", da CF, a recorrente apontou dissídio jurisprudencial e violação dos arts. 333 do CPC/1973, 884 do CC/2002, 6º, VIII, do CDC e 233, parágrafo único, da Lei n. 6.404/1976.
+Sustentou: (i) ilegitimidade passiva, (ii) impossibilidade da inversão do ônus da prova na fase decisória e (iii) necessidade de observância das operações de grupamento acionário, sob pena de enriquecimento ilícito.
+Preliminarmente, alegou a necessidade de suspensão do feito, tendo em vista a afetação do REsp n. 1.499.299/MS, relativo à legitimidade para responder por contratos com emissão de ações da Telebrás.
+Apontou também a necessidade de suspensão do feito, em virtude da afetação dos Recursos Especiais n. 1.385.932/RJ, 1.388.097/RS e 1.388.843/DF, relativos ao "ônus da prova da existência da contratação nas demandas por complementação de ações" (e-STJ fl. 478) - Temas n. 663, 664 e 665.
+No agravo (e-STJ fls. 785/807), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 812).
+É o relatório.
+Decido.
+O recurso merece parcial provimento.
+De início, afasta-se a necessidade de suspensão do feito, tendo em vista o cancelamento dos temas repetitivos n. 663, 664 e 665 pela Segunda Seção em 13/12/2017.
+O REsp n. 1.499.294/MS foi desafetado em decisão de 28/8/2018, em virtude do julgamento do Tema n. 910/STJ (REsp n. 1.651.814/SP).
+A Segunda Seção, ao julgar o REsp n. 1.651.814/SP (Relator Ministro PAULO DE TARSO SANSEVERINO, julgado em 23/5/2018, DJe 1º/8/2018), submetido à sistemática dos recursos repetitivos (art. 1.036, CPC/2015), firmou o entendimento quanto à legitimidade passiva da TELEBRAS, bem como das companhias cindendas (ou de suas sucessoras), para a ação de complementação de ações, na hipótese em que as ações originárias tenham sido emitidas pela TELEBRAS, em acórdão assim ementado:
+RECURSO ESPECIAL REPETITIVO. CIVIL, EMPRESARIAL E PROCESSUAL CIVIL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. RETRIBUIÇÃO EM AÇÕES DA TELEBRAS. AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. LEGITIMIDADE PASSIVA DAS COMPANHIAS RESULTANTES DA CISÃO.
+1. Teses já firmadas pela Segunda Seção na vigência do art. 543-C do CPC/1973: 1.1. A Brasil Telecom S/A, como sucessora por incorporação da Companhia Riograndense de Telecomunicações (CRT), tem legitimidade passiva para responder pela complementação acionária decorrente de contrato de participação financeira, celebrado entre adquirente de linha telefônica e a incorporada. (REsp 1.034.255/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe 11/05/2010)
+1.2. Legitimidade passiva da Brasil Telecom S/A para responder pelos atos praticados pela Telesc, quanto a credores cujo título não tiver sido constituído até o ato de incorporação, independentemente de se referir a obrigações anteriores, ante a sucessão empresarial. (REsp 1.322.624/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, DJe 25/06/2013)
+2. Nova tese acerca da legitimidade passiva, para os fins do art. 1.040 do CPC/2015: Legitimidade passiva da TELEBRAS, bem como das companhias cindendas (ou sucessoras destas), para a ação de complementação de ações, na hipótese em que as ações originárias tenham sido emitidas pela TELEBRAS.
+3. Síntese das teses firmadas, para os fins do art. 1.040 do CPC/2015: A legitimidade passiva para a demanda por complementação de ações é definida de acordo com as seguintes hipóteses:
+3.1. Contrato de participação financeira celebrado com companhia independente não controlada pela TELEBRAS (ex.: CRT S/A): legitimidade passiva da companhia independente, ou da sucessora desta (ex.: OI S/A);
+3.2. Contrato de participação financeira celebrado com companhia local controlada pela TELEBRAS (ex.: TELESC S/A), e emissão originária de ações pela controlada: legitimidade passiva da TELEBRAS, bem como das companhias cindendas (ou sucessoras destas);
+3.3. Contrato de participação financeira celebrado com companhia local controlada pela TELEBRAS, e emissão de ações pela TELEBRAS: legitimidade passiva da TELEBRAS, bem como das companhias cindendas (ou sucessoras destas).
+4. Caso concreto:
+4.1. Inocorrência de omissão ou contradição no acórdão recorrido, tendo o Tribunal de origem fundamentado adequadamente o entendimento pela legitimidade passiva das companhias ora recorrentes.
+4.2. Inviabilidade de se contrastar o entendimento do Tribunal de origem, firmado com base na radiografia do contrato trazida aos autos pela parte autora, no sentido de que as ações originárias tenham sido emitidas pela TELEBRAS. Óbice da Súmula 7/STJ. 4.3. Aplicação da tese 3.3 ao caso concreto, rejeitando-se as preliminares de ilegitimidade passiva suscitadas por cada uma das recorrentes.
+5. RECURSOS ESPECIAIS DESPROVIDOS.
+A simples indicação do dispositivo legal tido por violado, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do especial, por falta de debate prévio. Há, portanto, a incidência das Súmulas n. 282 e 356 do STF, respectivamente:
+É inadmissível o recurso extraordinário, quando não ventilada na decisão recorrida, a questão federal suscitada.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Dessa forma, o recurso especial não reúne condições de admissibilidade no que concerne à arguida impossibilidade da inversão do ônus da prova na fase decisória, em virtude da ausência de prequestionamento, consoante se infere do acórdão recorrido (e-STJ fls. 626/640).
+Ressalte-se que a matéria também não foi arguida nos embargos de declaração opostos na origem (e-STJ fls. 643/649).
+Todavia, de acordo com a jurisprudência desta Corte, firmada sob o rito dos recursos repetitivos, devem ser considerados, para o cálculo do número de ações devidas, os eventos societários ocorridos entre a data em que emitidas e a do trânsito em julgado da demanda. É o que se extrai do seguinte trecho do voto condutor do REsp n. 1.387.249/SC (Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 26/2/2014, DJe 10/3/2014):
+Obtida a quantidade de ações a serem complementadas, não se pode olvidar que as companhias de telefonia fixa e móvel sofreram diversas transformações societárias desde a época do sistema de autofinanciamento até os dia de hoje.
+Então, o número de ações obtido deve ser multiplicado por um fator de conversão, para que se encontre o equivalente de ações na companhia sucessora, hoje existente.
+Esse fator de conversão (Fc) deve englobar os agrupamentos acionários eventualmente ocorridos. Por exemplo, se cada grupo de 1.000 ações da companhia X foram agrupadas em uma ação da companhia Y, a variável "Fc" deve englobar essa operação acionária.
+Ante o exposto, CONHEÇO do agravo e DOU PARCIAL PROVIMENTO ao recurso especial, para determinar que, no cálculo do número de ações devidas, sejam considerados os eventos societários ocorridos entre a data em que emitidas e a do trânsito em julgado da demanda.
+Configurada a sucumbência recíproca, as custas e o valor total dos honorários advocatícios definidos na origem deverão ser suportados na proporção do decaimento das partes, apurando-se os respectivos valores em liquidação.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
