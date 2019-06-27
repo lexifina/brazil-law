@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 107):
+EMENTA: CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PEDIDO DE ANTECIPAÇÃO DE TUTELA DEFERIDO DETERMINANDO O DEPÓSITO INTEGRAL EM JUÍZO DOS VALORES ADIMPLIDOS. DEMORA NA ENTREGA DO IMÓVEL. NÃO COMPROVAÇÃO DE CASO FORTUITO OU FORÇA MAIOR. CULPA EXCLUSIVA DA CONSTRUTORA. RESTITUIÇÃO IMEDIATA E INTEGRAL. ENTENDIMENTO JURISPRUDENCIAL CONSOLIDADO. MANUTENÇÃO DA DECISÃO. CONHECIMENTO E IMPROVIMENTO DO RECURSO.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Com relação ao juízo de admissibilidade realizado pelo Tribunal de origem, destaco que esta Corte possui entendimento no sentido de que "é admitida a incursão no mérito do recurso especial pelo Tribunal a quo para a verificação da admissibilidade do apelo nobre" (AgRg no Ag 1.034.534/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, DJe 3.2.2009).
+Não admitido o especial na origem (e-STJ, fls. 148-150), ante o óbice da Súmula 735 do STF, pois não se admite a interposição de recurso especial contra decisão que defere ou indefere provimento liminar, limitou-se a agravante a sustentar a aplicabilidade da Súmula 86 do STJ, que pacificou entendimento no sentido de ser possível a interposição de recurso especial contra acórdão que julga agravo de instrumento.
+Assim, sem a impugnação específica e suficiente para infirmar o fundamento da decisão agravada relativo à aplicação da Súmula 735 do STF, por analogia se aplica o princípio do enunciado n. 182 da Súmula do STJ, reproduzido no art. 932, III, do CPC/2015.
+Em face do exposto, não conheço do agravo.
+Deixo de majorar os honorários nos termos do artigo 85, § 11, do Código de Processo Civil, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Intimem-se.
