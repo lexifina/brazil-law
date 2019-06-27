@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+EMENTA: AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/C OBRIGAÇÃO DE FAZER. CONCURSO PÚBLICO. CANDIDATO APROVADO ALÉM NO NÚMERO DE VAGAS. EXPECTATIVA DE DIREITO À NOMEAÇÃO. PRETERIÇÃO NÃO DEMONSTRADA. AUSÊNCIA DE FATOS NOVOS A JUSTIFICAR O PEDIDO DE RECONSIDERAÇÃO.
+I. A contratação de servidores temporários, por si só, não caracteriza preterição na convocação ou nomeação dos candidatos classificados no certame, ou autorizam a conclusão de que tenham automaticamente surgido vagas correlatas no quadro efetivo, a ensejar o chamamento de candidatos aprovados em cadastro de reserva ou fora do número de vagas previstas no edital do certame.
+II. Na hipótese tratada nos autos, a apelante não logrou desincumbir-se do ônus de demonstrar o direito por ela invocado, pois visa com o presente feito que o Estado de Goiás seja compelido a lhe nomear, mesmo tendo sido aprovada muito além das vagas previstas no Edital (333ª colocação).
+III. Inexistindo fundamento ou fato novo capaz de conduzir o julgador à nova convicção, nega-se provimento ao recurso. AGRAVO INTERNO CONHECIDO E IMPROVIDO.
+Alega violação dos arts. 17 e 330, inciso III, do Código de Processo Civil, no que concerne à existência do interesse de agir, trazendo o seguinte argumento:
+Mas diferente do que alega o TJGO, a tutela pretendida pelo Recorrente neste feito, não é inútil e caso o mérito do feito seja analisado e julgado procedente, o Recorrente poderá alcançar o bem da vida pretendido, que é a sua nomeação e posse no cargo para o qual foi devidamente aprovado em concurso público (fls. 408).
+É o relatório. Decido.
+Não houve o prequestionamento da tese recursal, uma vez que a questão controvertida não foi examinada no acórdão proferido em sede de agravo regimental à luz dos artigos apontados como violados.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
