@@ -1,0 +1,35 @@
+DECISÃO
+ Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por HABITASUL - NEGOCIOS IMOBILIARIOS E ADMINISTRACAO DE BENS S.A contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. COMISSÃO DE PERMANÊNCIA. MULTA. JUROS REMUNERATÓRIOS. SENTENÇA ULTRA PETITA.
+O autor é quem fixa os limites da lide, deduzindo sua pretensão por meio da petição inicial, a qual o magistrado deve ficar adstrito. Sentença desconstituída, parcialmente, de ofício.
+JUROS REMUNERATÓRIOS. Inovação recursal inadmissível. As questões não deduzidas na petição inicial, mas suscitadas apenas em sede de apelação, configuram inovação recursal inadmissível. Apelação não conhecida no ponto.
+CAPITALIZAÇÃO DE JUROS. É permitida a pactuação de capitalização de juros com periodicidade mensal nas operações realizadas pelas entidades integrantes do Sistema Financeiro da Habitação - SFH somente após a publicação da Lei n. 11.977, de 7 de julho de 2009, a qual acrescentou o art. 15-A à Lei n. 4.380/64. No caso concreto, vedada a capitalização de juros em qualquer periodicidade, pois o contrato foi firmado antes da vigência da referida lei, incidindo o exatos termos do recurso repetitivo REsp 1070297/PR.
+TABELA PRICE. Inexistindo prova da capitalização de juros, a amortização do débito pela Tabela Price não implica abusividade.
+DESCARACTERIZAÇÃO DA MORA. O reconhecimento da abusividade contratual implica descaracterização da mora.
+APELAÇÃO PARCIALMENTE CONHECIDA E, NESTA PARTE, PARCIALMENTE PROVIDA." (fl. 277)
+Os embargos de declaração opostos foram rejeitados (fls. 322/326 e 327/331).
+Nas razões do recurso especial, o agravante alega violação dos arts. 373, inciso II, 489, e 1.022 do Código de processo Civil de 2015, sustentando, em síntese, que (a) negativa de prestação jurisdicional, pois o acórdão não se manifestou sobre a alegada ausência de comprovação da capitalização de juros; (b) não há que se falar em capitalização ou pagamento indevido, pois não houve pagamento.
+Apresentadas contrarrazões às fls. 397/402.
+É o relatório.
+Não prospera a alegada ofensa aos arts.1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+Alega a parte agravante que o acórdão recorrido incorreu em omissão no que tange à análise da comprovação da ocorrência de capitalização de juros. Ocorre que, o Tribunal de origem, ao julgar os embargos de declaração opostos, concluiu que a matéria não foi alegada em momento oportuno, mas somente em sede de aclaratórios, configurando inadmissível inovação recursal. Leia-se, a propósito, o seguinte trecho do acórdão recorrido:
+"A parte-embargante alegou que a decisão foi contraditória porquanto inexiste comprovação da existência de capitalização dos juros, ônus que, segundo refere, incumbia à parte-autora.
+Ocorre que esta matéria foi suscitada apenas em sede de embargos de declaração, configurando, por isso, inovação recursal inadmissível.
+Com efeito, se a questão não foi alegada oportunamente o seu não enfrentamento não configura omissão, pois o magistrado não está obrigado a analisar teses ou argumentos que não foram deduzidos anteriormente pelas partes.
+Em sua contestação, a parte-embargante restringiu-se a defender a utilização da tabela price (tese acolhida pelo acórdão) e a suscitar inaplicabilidade do CDC ao caso, rejeitando a pretensão de repetição de indébito.
+A inconformidade acerca do acórdão deve ser apresentada mediante o recurso apropriado, não ensejando embargos declaratórios." (fl. 325, g.n.)
+Nesse contexto, é indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado que trata expressamente da questão apontada como omissa apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Quanto à alegada violação dos arts. 373, inciso II e 489 do CPC/2015, verifica-se que a questão da comprovação da ocorrência de capitalização de juros invocada no apelo nobre não foi apreciada pelo Tribunal a quo em razão da inovação recursal. Assim, se não foi verificada nesta Corte existência de erro, omissão, contradição ou obscuridade, não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie, por analogia, a Súmula n. 282/STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO INEXISTENTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF. EMBARGOS À EXECUÇÃO. ESCRITURA PÚBLICA DE CONFISSÃO DE DÍVIDA. PRESCRIÇÃO. QUINQUENAL. IMÓVEL DADO EM GARANTIA. PENHORA. POSSIBILIDADE. SÚMULA Nº 568/STJ. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ). 2. Na hipótese, não subsiste a alegada ofensa aos arts.
+489 e 1.022 do CPC/2015, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição ou obscuridade.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283 do Supremo Tribunal Federal.
+4. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+5. Nos termos do art. 1.025 do CPC/2015, não há falar em prequestionamento ficto se a alegada matéria não foi discutida na origem e não foi verificada nesta Corte a existência de erro, omissão ou obscuridade.
+6. Conforme jurisprudência deste Tribunal Superior, as dívidas fundadas em instrumento público ou particular prescrevem em 5 (cinco) anos, nos termos do art. 206, § 5º, I, do Código Civil de 2002. Precedentes. Aplicação da Súmula nº 568/STJ.
+7. O imóvel ofertado em garantia de dívida contraída em benefício da família é penhorável, conforme exceção prevista no art. 3º, inc. V, da Lei nº 8.009/1990. Incidência da Súmula nº 568/STJ.
+8. Rever as conclusões do tribunal local, adentrando na análise das provas dos autos, atrai a incidência da Súmula nº 7/STJ.
+9. Agravo interno não provido.
+(AgInt no AREsp 1309987/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/04/2019, DJe 10/04/2019, g.n.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
