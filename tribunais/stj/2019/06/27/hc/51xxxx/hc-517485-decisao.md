@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n. 00040474220148260223) - fl. 19:
+APELAÇÃO CRIMINAL - PLEITO DEFENSIVO DE DESCLASSIFICAÇÃO DA CONDUTA DO APELANTE PARA A FORMA CULPOSA. TESES SUPLETIVAS DE REDUÇÃO DAS PENAS; DE AFASTAMENTO DAS QUALIFICADORAS; DA CONSUNÇÃO DO CRIME DE PORTE ILEGAL DE ARMA PELO DE HOMICÍDIO; DE RECEPÇÃO DO CONCURSO FORMAL DE CRIMES, E DE AFASTAMENTO DAS QUALIFICADORAS RECEPCIONADAS. CONDENAÇÃO ESTRIBADA NOS ARTS. 121, § 2o, III DO CP, E 16, CAPUT, DA LEI 10.826/03, DO CP. CONJUNTO PROBATÓRIO ROBUSTO A INCRIMINAR O APELANTE NA FORMA RECEPCIONADA NO ÉDITO MONOCRÁTICO. TESES SUPLETIVAS QUE NÃO VINGAM, POR FALTA DE AMPARO LEGAL. Recurso desprovido.
+Consta dos autos que o paciente foi condenado à pena de 17 anos, 7 meses e 15 dias de reclusão, em regime prisional inicial fechado, mais o pagamento de 13 dias-multa, por infração aos artigos 121, § 2º, III, do Código Penal, e 16, caput, da Lei n. 10.826/2003 (fls. 19/20).
+Insurge-se no presente writ contra a dosimetria da pena, entendendo que foi fixada acima do mínimo legal, apenas com base em critérios abstratos; não teria sido reconhecida a consunção com base em aspectos que não existem no processo, como a propriedade da arma que não foi provada ser do acusado; não foi aplicada a atenuante da confissão.
+É o relatório.
+Em consulta ao portal eletrônico do Tribunal de Justiça de São Paulo, verifiquei que contra o acórdão proferido no julgamento da referida apelação foi interposto o recurso especial, não admitido, decisão contra a qual foi interposto o respectivo agravo. Nesse contexto, não pode o habeas corpus ser utilizado como mero sucedâneo recursal, mormente porque da sentença (fls. 13/16) não visualizo manifesta ilegalidade na fixação da pena.
+Como cediço, o constrangimento ilegal apontado nos autos de habeas corpus, de cognição sumária, deve estar demostrado de plano, o que não ocorreu na espécie, não sendo possível, ainda, ampla incursão no exame de fatos e provas.
+Ante o exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique-se.
