@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] que discute, no caso de atraso na entrega de imóvel, a possibilidade de condenação do vendedor ao pagamento de indenização, a título de lucros cessantes, pelo período de privação do adquirente do uso do imóvel.
+É o relatório. Decido.
+A referida questão de direito do recurso especial foi afetada à Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015, tendo a decisão de afetação do REsp 1.729.593/SP delimitado o Tema 996, nos termos da seguinte ementa:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL CONTRA ACÓRDÃO PROFERIDO EM INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - IRDR. ART. 256-H DO RISTJ C/C O ART. 1.037 DO CPC/2015. PROCESSAMENTO SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. COMPRA E VENDA DE IMÓVEL NA PLANTA. CONTROVÉRSIAS ENVOLVENDO OS EFEITOS DO ATRASO NA ENTREGA DO BEM.
+1.) As questões controvertidas consistem em definir se:
+1.1) na aquisição de unidades autônomas futuras, financiadas na forma associativa, o contrato deverá estabelecer de forma expressa, clara e inteligível, o prazo certo para a formação do grupo de adquirentes e para a entrega do imóvel.
+1.2) o atraso da entrega do imóvel objeto de compromisso de compra e venda gera, para o promitente vendedor, a obrigação de indenizar o adquirente pela privação injusta do uso do bem, na forma de valor locatício, que pode ser calculado em percentual sobre o valor atualizado do contrato ou de mercado, correspondente ao que este deixou de receber, ou teve de pagar para fazer uso de imóvel semelhante, com termo final na data da disponibilização da posse direta da unidade autônoma já regularizada.
+1.3) é lícito o repasse dos "juros de obra", ou "juros de evolução da obra", ou "taxa de evolução da obra", ou outros encargos equivalentes, após o prazo ajustado no contrato para entrega das chaves da unidade autônoma, incluído o período de tolerância.
+1.4) o descumprimento do prazo de entrega de imóvel objeto de compromisso de venda e compra, computado o período de tolerância, faz cessar a incidência de correção monetária sobre o saldo devedor com base em indexador setorial, que reflete o custo da construção civil, o qual deverá ser substituído por indexador geral, salvo quando este último for mais gravoso ao consumidor.
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 CPC/2015.
+(ProAfR no REsp 1.729.593/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 11/09/2018, DJe 18/09/2018)
+Embora o referido órgão julgador tenha decidido pela não suspensão do processamento dos recursos pendentes em tramitação no território nacional, é possível ao relator, levando em consideração razões de economicidade processual, apreciar o recurso especial apenas quando exaurida a competência das instâncias ordinárias, na forma do artigo 1.040, II e III, do CPC/2015 e 34, XXIV, do RISTJ.
+Diante do exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos art. 1.040 e seguintes do CPC/2015, após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
