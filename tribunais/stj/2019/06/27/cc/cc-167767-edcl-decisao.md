@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela defesa contra decisão monocrática que indeferiu liminarmente o pedido de habeas corpus com base no art. 210 do Regimento Interno desta Corte Superior (e-STJ fls. 494/496).
+Nos presentes embargos, a defesa alega que deve ter ocorrido algum equívoco no cadastro ou distribuição do presente processo, pois, consoante e-STJ fls. 482/484 e 488, não houve interposição de habeas corpus, mas sim conflito de competência suscitado pelo Tribunal de Justiça de São Paulo, haja vista que os habeas corpus interpostos perante o referido Tribunal Estadual e o Tribunal Regional Federal da 3ª Região não foram apreciados devido ao entendimento de incompetência.
+Afirma, então, haver omissão e contradição na decisão embargada na medida em que se trata, na verdade, de conflito de competência que necessita ser decidido com o máximo de urgência, já que o paciente está preso e possui mais de 70 anos de idade.
+Sendo assim, pretende o conhecimento e provimento dos presentes embargos, para que seja esclarecido o ponto controverso e sanada a omissão.
+É o relatório. Decido.
+Os embargos de declaração possuem fundamentação vinculada, sendo necessária, para seu cabimento, a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme dispõe o art. 619 do Código de Processo Penal.
+Inicialmente, sobre a omissão apontada, assim ficou consignado na decisão embargada (e-STJ fls. 495/496):
+A presente impetração não pode prosperar.
+Isso porque ela é mera reiteração do HC n. 512.245/SP, porquanto são idênticas as partes (paciente e ato coator), bem como o pedido e a causa de pedir.
+O HC n. 512.245/SP, impetrado pelo mesmo procurador, teve liminar indeferida por este Relator em 28/5/2019 (e-STJ fls. 247/249) e não conhecido o Writ em 7/6/2019, quando se negou seguimento por não ter a questão relativa à prescrição da pretensão executória sido alvo de deliberação perante o Tribunal de origem, o que impede a análise da matéria por esta Corte Superior, sob pena de indevida supressão de instância (e-STJ fls. 260/261).
+Registre-se a interposição de agravo regimental pela defesa em 11/6/2019, requerendo a reconsideração da decisão que indeferiu liminarmente o mencionado Habeas Corpus n. 512.245, ou então, que o agravo seja levado a julgamento pelo Colegiado (e-STJ fls. 262/267), configurando-se, portanto, o instituto da litispendência.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Pela transcrição acima, fica claro que não é caso de omissão e contradição do decisum, porquanto ele não tratou do conflito de competência instaurado nesta Corte, e sim da impetração de habeas corpus também protocolada perante este Tribunal (e-STJ fls. 1/6), a qual é mera reiteração de outro habeas corpus, o HC n. 512.245/SP (petição eletrônica recebida aos 24/5/2019), porquanto são idênticos as partes, o pedido e a causa de pedir.
+Observa-se que, neste habeas corpus, foi indeferida a liminar em 28/5/2019 e, posteriormente, negou-se seguimento à impetração, em razão de a questão relativa à prescrição não ter sido alvo de deliberação perante o Tribunal de origem, o que impediu a análise da matéria por esta Corte, sob pena de supressão de instância (e-STJ fls. 260/261). Tal explicação também foi posta no dispositivo da decisão embargada supracitada.
+Reitera-se, ainda, que houve interposição de agravo regimental pela defesa em 11/6/2019, pleiteando a reconsideração da decisão que indeferiu liminarmente o referido habeas corpus, ou então, que o agravo seja levado a julgamento pelo colegiado (e-STJ fls. 262/267).
+Assim sendo, não há contradição e omissão a serem sanadas na decisão monocrática ora embargada.
+Ante o exposto, rejeito os presentes aclaratórios.
+Intimem-se.
