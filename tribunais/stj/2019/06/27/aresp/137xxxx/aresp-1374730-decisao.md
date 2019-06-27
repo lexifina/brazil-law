@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial, interposto com fulcro no art. 105, III, alínea "a" da Constituição Federal - CF.
+Consta dos autos que [NOME] foi pronunciado como incurso no art. 121 § 2º, II, IV e VI, c/c art. 14, ambos do Estatuto Repressivo (homicídio tentado), para seja submetido a julgamento perante o Tribunal do Júri (fls. 208/213).
+Interpostos recursos em sentido estrito, foram ambos desprovidos, nos termos de acórdão que recebeu a seguinte ementa (fl. 309):
+EMENTA: RECURSO EM SENTIDO ESTRITO - HOMICÍDIO QUALIFICADO TENTADO - SENTENÇA DE PRONÚNCIA - RECURSO MINISTERIAL - REALIZAÇÃO DE NOVO EXAME DE SANIDADE MENTAL - DESNECESSIDADE. RECURSO DEFENSIVO: PRELIMINAR DE NULIDADE - PRINCÍPIO DO DEFENSOR NATURAL - NOMEAÇÃO DE DEFENSOR "AD HOC" PARA AUDIÊNCIA DE INSTRUÇÃO - PREJUÍZO NÃO CONSTATADO - DESCLASSIFICAÇÃO PARA O DELITO DE LESÃO CORPORAL - IMPOSSIBILIDADE - PROVA DA MATERIALIDADE E INDÍCIOS DE "ANIMUS NECANDI" - ABSOLVIÇÃO IMPRÓPRIA - IMPOSSIBILIDADE.
+1. Ausente o Defensor Público atuante nos autos, a nomeação justificada de Defensor Dativo para assistir o acusado hipossuficiente em audiência, não constitui nulidade, notadamente quando sua atuação não trouxe prejuízo à defesa do réu.
+2. Uma vez as questões que poderiam se levantadas, através de novo exame de sanidade metal, já estão satisfatoriamente dirimidas nos autos, não se vislumbra a necessidade de novos esclarecimentos.
+3. Uma vez que a prova produzida não é capaz de afastar o manifesto animus necandi, imperativo que a questão seja submetida à apreciação do Conselho de Sentença, não havendo, pois que se falar em desclassificação para o crime de lesões corporais.
+4. Embora conste do exame pericial que o acusado, ao tempo da ação, apesar de compreender o caráter ilícito de sua conduta, era incapaz de determinar-se de acordo com esse entendimento, em virtude de doença mental, nos termos do art. 415, parágrafo único, do Código de Processo Penal, incabível a absolvição imprópria nesta fase processual.
+Opostos aclaratórios defensivos, foram rejeitados (fls. 330/340).
+Em sede de recurso especial, o Parquet alega negativa de vigência ao art. 128, I, da Lei Complementar n. 80/1994, sustentando que há disposição de lei determinando a intimação pessoal da Defensoria Pública em todo processo que atuar, colacionando julgados do Supremo Tribunal Federal e desta Corte Superior, demonstrando entendimento no sentido de ser desnecessária a demonstração de prejuízo pela parte, por se tratar de nulidade absoluta e matéria de ordem pública.
+Pugna pelo provimento do apelo nobre para declarar a nulidade do processo a partir da fl. 153, com a devida intimação do Defensor Público atuante na 1ª Vara Criminal da Comarca de Ibirité/MG (fls. 344/354).
+Contrarrazões (fls.359/362).
+A r. decisão agravada não admitiu o recurso especial haja vista a incidência: a) do enunciado n. 283 da Súmula/STF, pelo não enfrentamento de todos os fundamentos do acórdão recorrido, e b) do enunciado n. 83 da Súmula/STJ, por estar o aresto objurgado em harmonia com o entendimento desta Corte Superior sobre o tema (fls. 367/368).
+Em agravo em recurso especial, a defesa refutou o fundamento da decisão agravada (fls.371/378).
+Contraminuta às fls 381/383.
+O Ministério Público Federal - MPF opinou pelo não conhecimento do agravo em recurso especial (fls.395/396).
+É o relatório. Decido.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso não merece prosperar.
+O Tribunal a quo assim se pronunciou sobre o pleito defensivo de nulidade do processo pela ausência de intimação pessoal do defensor público para a audiência de instrução, in verbis (fls. 312/313):
+1.2 - Nulidade do feito
+Alega a defesa que há nulidade no feito, por violação aos princípios da ampla defesa e do defensor natural, vez que, não obstante o acusado estar send  assistido pela Defensoria Pública, não houve intimação pessoal acerca da realização da audiência de instrução e julgamento, razão pela qual o Defensor Público não compareceu, sendo nomeado advogado ad hoc para o ato.
+Tenho que sem razão.
+De fato, conforme consta do despacho de fls. 66 e, diante da declaração de hipossuficiência do acusado (fls. 71), os autos foram remetidos à Defensoria Pública, que apresentou a resposta à acusação de fls. 75, requerendo a instauração de incidente para apuração da sanidade mental do acusado.
+Após juntada do Exame de Sanidade Mental (fls. 135/139) e sua homologação (fls. 142), foi designada audiência de instrução e julgamento para 13/10/2016 (fls. 142v.), contudo, sem que tenha havido intimação pessoal do Defensor Público, razão pela qual não compareceu ao ato processual, sendo nomeado advogado adhoc.
+Todavia, o fato de o Defensor Público não ter comparecido à audiência, não se verifica qualquer nulidade no feito, vez que acarretou qualquer prejuízo à defesa do réu, sendo certo que a advogada ad hoc realizou a defesa do réu na AIJ, justamente para evitar prejuízo ao acusado, tendo inclusive formulado à vítima, as perguntas que entendeu pertinentes (fls. 154), não havendo assim, ofensa aos princípios da ampla defesa e do defensor natural.
+Assim, considerando a necessidade de dar andamento ao feito, mormente em razão do cancelamento da primeira audiência, designada para 13/06/2015, foi nomeada advogada para o ato, não havendo que se falar em cerceamento de defesa.
+Ademais, posteriormente, foi dada vista à Defensoria Pública para dar continuidade à defesa do acusado, tendo apresentado as alegações finais de fls. 164/164v, oportunidade em que deveria ter alegado eventual prejuízo à defesa, na forma dos art. 571, I, e art. 403, § 3º, ambos do Código de Processo Penal, que assim estabelecem:  .. .
+Assim, além de não ter restado demonstrada e forma inequívoca o prejuízo à defesa, esta ainda não arguiu a suposta nulidade no momento oportuno, qual seja, por ocasião das alegações finais.
+Diante do exposto, REJEITO a preliminar  ..  (grifei).
+Cinge-se a controvérsia na nulidade ou não dos atos processuais após a não intimação do defensor público para a audiência de instrução do feito, tendo o que o d. magistrado de piso designado defensor ad hoc, na própria audiência, para assistir o acusado.
+Note-se a ausência de comprovação de prejuízo à defesa do acusado ante à falta de intimação do defensor público, o qual foi substituído pelo defensor ad hoc designado, ressaltando que tal prejuízo deveria ter sido aventado em sede de alegações finais, nos termos constantes do art. 563, do CPP e do brocardo jurídico " pas de nullité sans grief", o que efetivamente não ocorreu.
+Este Tribunal Superior já assentou que "em matéria penal nenhuma nulidade será declarada se não demonstrado prejuízo" (RHC 26484, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/06/2010).
+Outrossim, na esteira do entendimento desta Corte Superior, "não se reconhece a nulidade do feito, se evidenciada a constituição de defensor ad hoc ao paciente, a fim de acompanhar as audiências de instrução e julgamento" (HC 160524, Relator Ministro GILSON DIPP QUINTA TURMA).DJe 17/08/2011. Desta forma, não há que se falar nulidade se houve a nomeação de defensor ad hoc para atos da defesa.
+ Nesse sentido, cito os seguintes precedentes:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. DEFENSORIA PÚBLICA. AUSÊNCIA DE INTIMAÇÃO PESSOAL. NOMEAÇÃO DE DEFENSOR DATIVO. PREJUÍZO NÃO DEMONSTRADO. NULIDADE NÃO CARACTERIZADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora a Defensoria Pública não tenha sido intimada pessoalmente acerca da audiência de inquirição da vítima, o acórdão recorrido ressalta que não se verificou, no caso, nenhuma nulidade, na medida em que houve a nomeação do defensor dativo para o ato.
+2. De acordo com a jurisprudência desta Corte, no campo da nulidade no processo penal, vigora o princípio pas de nullité sans grief, segundo o qual, o reconhecimento de nulidade exige a comprovação de efetivo prejuízo (art. 563 do Código de Processo Penal), o que não ficou demonstrado nestes autos.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1277259/GO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 24/08/2018)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. NULIDADE DE CITAÇÃO POR EDITAL DA SENTENÇA CONDENATÓRIA. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. INCIDÊNCIA DO PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. RECURSO DE APELAÇÃO DEVIDAMENTE INTERPOSTO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Nos termos do art. 563 do Código de Processo Penal, consubstanciado pela máxima do pas de nullité sans grief, não há que ser declarado um ato como nulo se da nulidade não resultar prejuízo.
+2. Na hipótese, muito embora o oficial de justiça, a fim de intimar o paciente quanto à sentença condenatória proferida em seu desfavor, tenha diligenciado em endereço que não o constante dos autos, o que ensejou sua intimação por edital, verifica-se que não houve prejuízo à defesa, porque devidamente interposto o respectivo recurso de apelação.
+3. A jurisprudência do Superior Tribunal de Justiça vem se posicionando no sentido de que o postulado "pas de nullité sans grief impõe a manutenção do ato impugnado que, embora praticado em desacordo com a formalidade legal, atinge a sua finalidade, restando à parte demonstrar a ocorrência de efetivo prejuízo" (RHC n. 71.626/CE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/11/2017, DJe 1º/12/2017), o que não ficou evidenciado na espécie.
+4. Agravo regimental desprovido. (AgRg no HC 408687, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 05/04/2018)
+Incide, pois, o óbice do enunciado n. 83 da Súmula/STJ.
+Ante exposto, conheço do agravo em recurso especial para, com fundamento no Enunciado n. 568 da Súmula/STJ, nego provimento ao recurso especial.
+Publique-se.Intimem-se.
