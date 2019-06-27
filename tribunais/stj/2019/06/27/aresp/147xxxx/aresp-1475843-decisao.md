@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL SA desafiando decisão do c. Tribunal de Justiça do Estado do Espírito Santo que não admitiu o recurso especial, sob o fundamento de que o recorrente lançou razões recursais dissociadas daquilo que foi efetivamente enfrentado na decisão recorrida, não impugnando, minimamente, as razões de decidir adotadas pela Câmara Julgadora.
+Afirma que, diante disto, as questões que o recorrente pretende submeter à apreciação do Superior Tribunal de Justiça não foram debatidas na formação do acórdão recorrido, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Ausente, pois, o prequestionamento, requisito indispensável ao acesso às instâncias excepcionais, atraindo o óbice das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Nas razões do presente agravo (e-STJ, fls. 147/182), a parte agravante reitera as alegações trazidas no mérito da apelação, relativas à ilegitimidade ativa do recorrido, prescrição, necessidade de liquidação de sentença, termo inicial dos juros moratórios, correção monetária, coisa julgada e competência territorial.
+Contraminuta apresentada (e-STJ, fl. 196/210).
+É o relatório. Passo a decidir.
+O recurso não merece conhecimento.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Observa-se que o agravo previsto no art. 1.042 do CPC/15 tem por objetivo o processamento do recurso especial inadmitido pela Corte de origem. Assim, é imperioso que, nas razões recursais, o agravante demonstre expressamente o desacerto da decisão agravada.
+In casu, a parte agravante não rebateu, como lhe competia, os fundamentos da decisão recorrida, limitando reiterar as alegações trazidas no mérito da apelação, que não foram objeto de análise na decisão agravada, justamente por ter a Corte a quo entendido que as mesmas também não guardavam relação com o que fora decidido na origem.
+Com efeito, o princípio da dialeticidade, que rege os recursos processuais, impõe ao recorrente, como requisito para a própria admissibilidade do recurso, o dever de demonstrar por que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (error in judicando), porquanto não atende ao princípio em tela o recurso que se limita a tão só afirmar a tese jurídica interessante à sua pretensão, sem confrontar, de forma juridicamente balizada, os fundamentos adotados na decisão que busca reformar.
+Incide, na hipótese, o art. 932, III, do CPC/15, que permite ao Relator não conhecer de recurso que não impugna especificamente os fundamentos da decisão recorrida.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Deixo de fixar os honorários recursais tendo em vista que não foram arbitrados honorários advocatícios na origem.
+Publique-se.
