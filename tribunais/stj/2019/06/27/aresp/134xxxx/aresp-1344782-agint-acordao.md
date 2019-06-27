@@ -1,0 +1,59 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. A teor do disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado por [NOME] e OUTROS, que desafia decisão de minha lavra, proferida às e-STJ fls. 568/570, em que não conheci do agravo em recurso especial, visto que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada.
+No presente agravo interno, às e-STJ fls. 576/614, sustenta a parte agravante, inicialmente, que, ao contrário do consignado, foram infirmados todos os fundamentos de inadmissão do recurso especial, inclusive em relação à aplicação das S mulas 7 e 83 do STJ.
+A fim de reforçar a desnecessidade de reexame fático-probatório, acrescenta que a pretensão recursal busca sanar a ausência de pronunciamento do Tribunal de origem acerca de documentos acostados aos autos, bem como a revaloração das provas produzidas.
+Requer, assim, a reconsideração do decisum impugnado ou a submissão do feito ao Órgão colegiado.
+Impugnação às e-STJ fls. 620/625, em que se pugna pelo não conhecimento ou, subsidiariamente, pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. A teor do disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Dito isso, constata-se que, nas razões do agravo em recurso especial, ao alegar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, a parte, de fato, infirmou a incidência da Súmula 83 do STJ.
+Todavia, no que tange à Súmula 7 desta Corte, a parte agravante não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, a teor do disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015.
+Na hipótese, a parte agravante, nas razões do agravo em recurso especial, não infirmou de forma clara e específica o referido óbice sumular, em evidente desrespeito ao princípio da dialeticidade.
+Na oportunidade, limitou-se a parte a afirmar que (e-STJ fl. 516/517):
+Com devida vênia à decisão ora agravada, a matéria tratada em sede de Recurso Especial não objetiva ou, ao menos, não implica em reexame do contexto fático probatório, mas sim, na interpretação dos dispositivos legais exaustivamente apontados, não encontrando, portanto, impedimento ao seu processamento.
+Além disso, seu processamento é necessário, afastando-se os termos da Súmula 7/STJ, pelo fato da discussão cingir-se, unicamente, acerca da existência do DIREITO da Agravante, diante da análise da violação das normas infraconstitucionais, conforme destacado no referido recurso especial. Portanto, não se trata de reexame do contexto fático probatório.
+Já nas razões do agravo interno, o agravante busca suprir a deficiência que impediu o conhecimento do agravo em recurso especial, acrescentando o seguinte (e-STJ fls. 581/582):
+Ora, i. Ministros, restou clara a irresignação quanto a inaplicabilidade da Súmula 07 ao caso dos autos, diante da competente abordagem inserida junta das razões do respectivo agravo, devendo ser rechaçada a argumentação de irresignação genérica.
+Aliás, tanto é assim, que da leitura do aludido recurso, nota-se a robusteza da assertiva supra que evidenciou a todo momento a ausência de emissão de juízo valorativo desde o julgamento do reexame necessário e apelação cível, pois da argumentação utilizada como fundamento jurídico para a improcedência do pedido, NÃO houve o enfrentamento dos dispositivos legais imprescindíveis ao desfecho da lide, inclusive do acervo probatório, os quais até o presente momento continuam com análise omissa.
+Ora, evidente que no agravo interposto restou bem esclarecido que as Agravantes vem solicitando o pronunciamento expresso do órgão prolator, acerca da ilegalidade da exigibilidade da cobrança da referida contribuição ao produtor pessoa física, bem como o fato dos documentos acostados demonstrarem todo o alegado, inclusive QUE A CONDIÇÃO DE PRODUTOR RURAL PESSOA FÍSICA DECORRE TAMBÉM POR DISPOSIÇÃO LEGAL, NOS TERMOS DO ART.V 25-A, DA LEI 8.212-91.
+Portanto, não só acerca da valoração das provas trazidas quedou-se de sua análise o E. Tribunal Regional Federal da 3ª Região, mas sim quanto a expressa emissão de juízo valorativo na aplicação do mencionado dispositivo legal que confere guarida à alegação dos Agravantes, não comportando o caso a aplicação da Súmula n.º 07.
+ ..
+Ora, os Agravantes/Recorrentes empregaram todos os meios de prova admitidos em direito para provar as alegações apresentadas (art. 369 do CPC), uma vez que se trouxe aos autos todos os elementos necessários e permitidos para provar o fato constitutivo do seu direito (art. 373, I, do CPC).
+Este ponto merece atenção, pois resta-nos assente que alegação do i. Ministro Relator quanto a ausência de fundamentação referente a inaplicabilidade da Súmula 07/STJ, com o devido respeito, não merece guarida, pois os Agravantes de forma insistente e exaustivamente demonstraram o desacerto da não admissibilidade do Recurso Especial calcado nesse ponto.
+Negar seguimento do referido recurso é cercear o direito dos Agravantes nas instancias superiores, visto que não se trata de reexame de provas e sim demanda a necessária revaloração, para que o C. SUPERIOR TRIBUNAL DE JUSTIÇA faça o correto juízo de legalidade sobre a omissão do juízo "a quo" acerca do acervo probatório e legislação aplicável, a fim de que declarar a nulidade do acórdão recorrido, determinando a devolução dos autos para que outro julgamento profira sanando os vícios apontados.
+Partindo desse norte, e conforme jurisprudência superior, calha destacar que a revaloração dos critérios jurídicos utilizados na apreciação de fatos e provas omissos pelas instâncias ordinárias não constituiu reexame de provas, entendendo os Agravantes que ao demonstrar que o houve cerceamento ao seu direito, ao fato de que não foi observado o acervo dos autos, por medida de direito, deve-se afastar a aplicação da Súmula 7/STJ.
+Sem adentrar na legitimidade do argumento ora trazido pela parte agravante, é certo que, conforme a jurisprudência desta Corte, a impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial, já em sede de agravo interno, configura inovação recursal, incabível em razão da preclusão consumativa.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS. ART. 932, III, DO CPC/2015 E ART 253, PARÁGRAFO ÚNICO, I, DO RISTJ. PRECEDENTES. MATÉRIA DECIDIDA PELA CORTE ESPECIAL. EARESP Nº 746.775/PR. IMPUGNAÇÃO TARDIA EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem inadmitiu o recurso especial alegando, dentre outros motivos, que não seria possível a interposição do recurso para alegar ofensa à Súmula nº 85/STJ, por não estar referida espécie compreendida na expressão lei federal, constante nas alínea "a", "b", ou "c" do inciso III do artigo 105 da Constituição Federal. Nas razões do agravo em recurso especial, os agravantes não impugnaram de forma específica referido fundamento.
+2. Verifica-se, pois, que os agravantes deixaram de impugnar especificamente todos os fundamentos da decisão de inadmissibilidade do recurso, razão pela qual o agravo em recurso especial não pode ser conhecido, a teor do art. 932, III, do CPC/2015, bem como do art. 253, parágrafo único, I, do RISTJ. Precedentes.
+3. A Corte Especial deste Tribunal Superior, ao julgar o EAREsp nº 746.775/PR, cujo julgamento foi concluído na sessão realizada em 19/09/2108, ratificou referido entendimento e estabeleceu a necessidade de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial, sob pena de não conhecimento do agravo.
+4. A tentativa de suprir falha de impugnação, através do agravo interno, de fundamento do juízo negativo de admissibilidade não impugnado nas razões do agravo em recurso especial, constitui verdadeira inovação recursal inviável em razão da ocorrência da preclusão consumativa.
+5. Agravo interno não provido.
+(AgInt no AREsp 1335756/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/11/2018, DJe 13/11/2018)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO DECISÓRIO QUE OBSTOU O SEGUIMENTO DO RECURSO ESPECIAL. APLICAÇÃO ANALÓGICA DA SÚMULA 182/STJ. ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. OFENSA AO ARTIGO 6º DA LINDB. MATÉRIA DE NATUREZA CONSTITUCIONAL. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, todos os fundamentos adotados pelo Tribunal de origem para negar trânsito ao apelo especial. Incidência, por analogia, da Súmula 182 do STJ.
+2. A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial (somente por ocasião do manejo de agravo regimental), além de caracterizar inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa. Precedentes.
+(..) 6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 761.678/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/10/2015, DJe 10/11/2015)
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
