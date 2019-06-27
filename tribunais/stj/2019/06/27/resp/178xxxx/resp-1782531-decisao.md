@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por SANTO ANTÔNIO ENERGIA S.A., fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de Rondônia, assim ementado:
+"Agravo de instrumento. Hidrelétrica. Construção. Rio Madeira. Dano moral. Dano material. Dano ambiental. Ônus da prova. Inversão.
+Deve ser mantida a determinação de inversão do ônus da prova em ação de indenização que indica a potencialidade lesiva ao meio ambiente após o desenvolvimento da atividade de construção de usina hidrelétrica pela concessionária de serviço público, cabendo a esta provar a não existência ou irrelevância dos prejuízos alegados pela parte autora." (e-STJ,fl. 57)
+Nas razões recursais, SANTO ANTÔNIO ENERGIA S.A. alega violação dos arts. 373, I e II, do Código de Processo Civil de 2015, 6º, III, do Código de Defesa do Consumidor e 21, da Lei 7.347/85. Sustenta, em síntese, a impossibilidade de inversão do ônus da prova com base no princípio da precaução, visto se tratar de ação de reparação de danos, de cunho patrimonial individual, e não de ação de natureza ambiental.
+É o relatório. Passo a decidir.
+Cumpre salientar que o recurso foi interposto já na vigência do CPC/2015, de maneira que incide, na espécie, o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Com efeito, a recorrente defende que não é possível a inversão do ônus da prova com base no princípio da precaução, tendo em vista que a presente ação se trata de reparação de danos, de cunho patrimonial individual, e não de ação de natureza ambiental. O TJ-RO, por sua vez, soberano na análise do acervo fático-probatório, consignou que, na constatação de eventual dano ao meio ambiente, é possível a inversão do ônus da prova para atribuir à empresa o dever de demonstrar que a sua atividade não é a causadora. Confira-se excerto do v. acórdão estadual (fls. 50/--):
+"Os autos envolvem argumentos acerca de inversão do ônus da prova (CPC/15, art. 1.015, XI), cuja defesa da concessionária agravante indica que a natureza dos pedidos é de cunho patrimonial e não ambiental, não há relação de consumo entre as partes a justificar a aplicação do Código de Defesa do Consumidor, de modo que não cabe a aplicação do princípio da precaução nem a teoria da distribuição dinâmica do ônus da prova.
+Pois bem. O Superior Tribunal de Justiça, ao apreciar caso envolvendo a reparação de danos pela construção da Usina Hidrelétrica de Porto Primavera (atual Usina Sérgio Motta), assentou ser devida a inversão do ônus probatório, à luz do princípio da precaução:
+(..)
+E ainda que se leve em consideração o caráter público do bem jurídico tutelado, outra não seria a conclusão de que alguns dos direitos do consumidor também devem ser estendidos aos autores dessas ações, porquanto, indiretamente, buscam reparar também o patrimônio coletivo, consubstanciado no meio ambiente.
+(..)
+Com base neste ensinamento, deve-se recorrer, por analogia, ao artigo 6º, inciso VIII, do Código de Defesa do Consumidor, que prevê a possibilidade de inversão do ônus da prova pelo juiz, evidenciada, na espécie, a presunção do dano.
+Ademais, em decisão unipessoal proferida em 5/12/2016, o Superior Tribunal de Justiça apreciou o Recurso Especial n. 1.634.006/RO (2016/0279671-5), que tem como parte a Santo Antônio Energia S/A, oriundo do Estado de Rondônia cuja manifestação deu-se no sentido de manter o entendimento firmado por esta Corte quanto à possibilidade de inversão do ônus da prova em casos dessa natureza ( https://ww2.stj.jus.br/processo/monocraticas/decisoes/ num_registro=201602796715&dt_publicacao=05/12/2016 ).
+Na ocasião do julgamento foram citados precedentes que fundamentaram a manutenção da decisão tal qual a manifestação proferida por esse TJRO.
+(..)
+Também esta Corte já se manifestou em várias oportunidades, no sentido de que aplica-se a teoria do risco integral, cabendo à agravante comprovar que o desenvolvimento de sua atividade não implica em dano, por se tratar de discussão baseada na existência de dano ambiental. Veja-se:
+(..)
+Diante desse contexto, evidenciado na espécie a possibilidade de dano, deve ser mantida a inversão do ônus da prova para determinar que a parte ré prove a não existência ou irrelevância dos prejuízos alegados pela parte autora." (grifou-se)
+Sobre o tema, tem-se que a iterativa jurisprudência desta eg. Corte Superior firmou-se no sentido de que se tratando de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, cabível a inversão do ônus da prova. Nessa linha de intelecção, confiram-se os seguintes precedentes:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E DIREITO AMBIENTAL. AÇÃO INDENIZATÓRIA. CONSTRUÇÃO DE USINA HIDRELÉTRICA. DANO AMBIENTAL. RESPONSABILIDADE. PESCADORES. INVERSÃO DO ÔNUS DA PROVA. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. A inversão do ônus da prova no que se refere ao dano ambiental está de acordo com a jurisprudência desta Corte, que já se manifestou no sentido de que, "tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, cabível a inversão do ônus da prova" (AgRg no AREsp 533.786/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 22/9/2015, DJe de 29/9/2015).
+2. Agravo interno a que se nega provimento."
+(AgInt no REsp 1760614/RO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/04/2019, DJe 22/05/2019 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. BAÍA DE GUANABARA. LEGITIMIDADE ATIVA E PROVA SUPLEMENTAR AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO STF. ÔNUS PROBATÓRIO. INVERSÃO. PRECEDENTE. DESCONSTITUIÇÃO DA PROVA EMPRESTADA E NECESSIDADE DE PRODUÇÃO DE PROVA SUPLEMENTAR. ANÁLISE. ÓBICE DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+(..)
+2. Tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, cabível a inversão do ônus da prova. Precedente.
+(..)
+4. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 533786 / RJ, Relator: Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, Julgamento, 22/09/2015, DJe 29/09/2015 - grifou-se).
+Dessa forma, verifica-se que a decisão recorrida está em consonância com a jurisprudência desta Corte Superior, o que faz incidir, no ponto, o óbice da Súmula n. 83/STJ.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
