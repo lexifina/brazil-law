@@ -1,0 +1,33 @@
+EMENTA
+PROCESSO CIVIL. RECURSO EM MANDADO DE SEGURANÇA. EXTINÇÃO DA EXECUÇÃO FISCAL. CAUSAS DE ALÇADA. DESCABIMENTO DA AÇÃO MANDAMENTAL.
+1. "Não é cabível mandado de segurança contra decisão proferida em execução fiscal no contexto do art. 34 da Lei 6.830/80" (Tema/IAC n. 3, Primeira Seção).
+2. Recurso em mandado de segurança a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso ordinário, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Herman Benjamin votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de recurso em mandado de segurança interposto pelo Município de Águas de Santa Bárbara contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 31):
+Ementa: Mandado de segurança. Rejeição dos embargos infringentes opostos contra sentença que extinguiu a execução fiscal em razão da falta de interesse processual. Não cabimento da impetração. Súmula 267 do Superior Tribunal de Justiça.
+Precedentes daquele Tribunal e desta 18ª Câmara de Direito Público. Denega-se a segurança.
+O recorrente aduz que "não socorre à Impetrante qualquer recurso útil a viabilizar a submissão de sua pretensão ao exame do Poder Judiciário, de sorte que a aplicação fria da Súmula n. 267 do STF a levaria a amargar calada os nocivos efeitos do ato ilegal perpetrado pela autoridade impetrada, em contrariedade à garantia constitucional de acesso ao Poder Judiciário prevista no artigo 50, XXXV, da Constituição Federal" (e-STJ, fl. 41).
+Defende a impossibilidade de extinção da execução fiscal em razão do baixo valor. Acrescenta que "não há que se falar em falta de interesse de agir/interesse processual, sendo certo que, em conformidade com a nossa sistemática legal, o interesse na ação executiva se alicerça na existência de obrigação líquida, certa e exigível consubstanciada em título executivo (interesse-adequação), bem como na existência de inadimplemento do contribuinte (interesse -necessidade)" (e-STJ, fl. 44).
+Sustenta não ser lícito ao magistrado substituir o credor na valoração da utilidade ou não do ajuizamento da execução fiscal, pois se trata de tarefa que incumbe ao administrador público.
+Requer o provimento do apelo para que seja determinado o regular processamento da ação mandamental.
+O Ministério Público Federal opinou pelo não provimento do recurso (e-STJ, fls. 62-68).
+É o relatório.
+VOTO
+O SR MINISTRO OG FERNANDES (Relator): A Primeira Seção desta Corte Superior, no julgamento do Tema/IAC n. 3 (vinculado aos RMSs 53.720/SP e 54.712/SP), firmou a tese de que não é cabível mandado de segurança contra decisão proferida em execução fiscal no contexto do art. 34 da Lei n. 6.830/1980.
+Observa-se, a propósito, a ementa de um dos precedentes aludidos:
+INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. CAUSA DE ALÇADA. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ART. 34 DA LEI 6.830/80. CONSTITUCIONALIDADE RECONHECIDA PELO STF NO ARE 637.975-RG/MG - TEMA 408/STF. EXECUÇÃO FISCAL DE VALOR IGUAL OU INFERIOR A 50 ORTN"S. SENTENÇA EXTINTIVA. RECURSOS CABÍVEIS. EMBARGOS INFRINGENTES E DE DECLARAÇÃO. EXCEÇÃO. RECURSO EXTRAORDINÁRIO (SÚMULA 640/STF). MANDADO DE SEGURANÇA. SUCEDÂNEO RECURSAL. NÃO CABIMENTO. SÚMULA 267/STF.
+1. Cinge-se a questão em definir sobre ser adequado, ou não, o manejo de mandado de segurança para atacar decisão judicial proferida no contexto do art. 34 da Lei 6.830/80, tema reputado infraconstitucional pela Suprema Corte (ARE 963.889 RG, Relator Min.
+Teori Zavascki, DJe 27/05/2016).
+2. Dispõe o artigo 34 da Lei 6.830/80 que, "Das sentenças de primeira instância proferidas em execuções de valor igual ou inferior a 50 (cinquenta) Obrigações Reajustáveis do Tesouro Nacional - ORTN, só se admitirão embargos infringentes e de declaração".
+3. O Supremo Tribunal Federal, ao julgar o ARE 637.975-RG/MG, na sistemática da repercussão geral, firmou a tese de que "É compatível com a Constituição o art. 34 da Lei 6.830/1980, que afirma incabível apelação em casos de execução fiscal cujo valor seja inferior a 50 ORTN" (Tema 408/STF).
+4. Nessa linha de compreensão, tem-se, então, que, das decisões judiciais proferidas no âmbito do art. 34 da Lei n. 6.830/80, são oponíveis somente embargos de declaração e embargos infringentes, entendimento excepcionado pelo eventual cabimento de recurso extraordinário, a teor do que dispõe a Súmula 640/STF ("É cabível recurso extraordinário contra decisão proferida por juiz de primeiro grau nas causas de alçada, ou por turma recursal de Juizado Especial Cível ou Criminal").
+5. É incabível o emprego do mandado de segurança como sucedâneo recursal, nos termos da Súmula 267/STF ("Não cabe mandado de segurança contra ato judicial passível de recurso ou correição"), não se podendo, ademais, tachar de teratológica decisão que cumpre comando específico existente na Lei de Execuções Fiscais (art. 34).
+6. Precedentes: AgInt no RMS 55.125/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 16/11/2017; AgInt no RMS 54.845/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 18/12/2017; AgInt no RMS 53.232/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 11/05/2017; AgInt no RMS 53.267/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 10/05/2017; AgRg no AgRg no RMS 43.562/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/10/2013; RMS 42.738/MG, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 21/08/2013; AgRg no RMS 38.790/SP, Rel. Ministro Ari Pargendler, Primeira Turma, DJe 02/04/2013; RMS 53.613/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24/05/2017; RMS 53.096/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 20/04/2017; AgInt no RMS 53.264/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 07/04/2017; AgInt no RMS 50.271/SP, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, DJe 12/08/2016.
+7. TESE FIRMADA: "Não é cabível mandado de segurança contra decisão proferida em execução fiscal no contexto do art. 34 da Lei 6.830/80".
+8. Resolução do caso concreto: recurso ordinário do município de Leme/SP, a que se nega provimento.
+(IAC no RMS 53.720/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 10/4/2019, DJe 20/5/2019)
+Ante o exposto, nego provimento ao recurso em mandado de segurança.
+É como voto.
