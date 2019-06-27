@@ -1,0 +1,62 @@
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUPOSTA VIOLAÇÃO À COISA JULGADA. PRELIMINAR DE INCOMPETÊNCIA ABSOLUTA. MATÉRIA JÁ DECIDIDA ANTERIORMENTE. OCORRÊNCIA DE PRECLUSÃO CONSUMATIVA E COISA JULGADA. AFASTADAS AS PRELIMINARES. PROSSEGUIMENTO PELO JULGADOR NA ANÁLISE DAS QUESTÕES DE MÉRITO. SÚMULA 83/STJ. RECURSO DESPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado do Amazonas.
+Compulsando os autos, verifica-se que o ora recorrente interpôs agravo de instrumento desafiando decisão de primeiro grau que, nos autos de ação de reintegração de posse, deferiu o pedido de antecipação de tutela, determinando a expedição do respectivo mandado em favor de Energia Participações e Representações S.A.
+Apreciando aquele agravo, a Terceira Câmara Cível da Corte estadual negou-lhe provimento, nos termos do acórdão assim ementado (e-STJ, fl. 142):
+AGRAVO DE INSTRUMENTO. PRELIMINAR DE AUSÊNCIA DE CABIMENTO. REDISCUSSÃO DE COMPETÊNCIA ANTERIORMENTE FIXADA. IMPOSSIBILIDADE. ROL TAXATIVO DO ART. 1.015 DO CPC. INADEQUAÇÃO DA VIA ELEITA. RECURSO PARCIALMENTE CONHECIDO. AÇÃO DE REINTEGRAÇÃO DE POSSE. LIMINAR. REQUISITOS DOS ARTS. 561-563 DO CPC. PREENCHIMENTO. CAUÇÃO. DESNECESSIDADE. AUSÊNCIA DE PROVA DA INIDONEIDADE FINANCEIRA DO AUTOR. DECISÃO MANTIDA.
+I. No caso concreto, embora a decisão recorrida verse sobre tutela provisória, na forma do art. 1.015 do CPC/2015, o Agravo de Instrumento não pode adentrar à questão da competência do Juízo prolator da decisão, sob pena de (1) admitir-se hipótese incabível de agravo de instrumento; (2) ofensa a coisa julgada, uma vez que a competência já fora fixada pelo Tribunal, cabendo a parte eventualmente prejudicada reclamar pela garantia da autoridade da decisão anterior pela via própria;
+II. A concessão de liminar de reintegração de posse pressupõe o preenchimento de dois requisitos, sendo dispensada no caso sub judice a demonstração de periculum in mora: (i) demonstração de que o ato de agressão à posse deu-se há menos de ano e dia, e (ii) instrução de petição inicial que, em cognição sumária do juiz, permita a formação de convencimento de que há probabilidade de o autor ter direito à tutela jurisdicional;
+III. No caso concreto, ambos os requisitos foram preenchidos, uma vez que restou demonstrado o esbulho a menos de ano e dia (ação de força nova), e os documentos juntamente com a audiência de justificação, foram suficientes para a formação do convencimento sumário do magistrado, uma vez que demonstradas a posse inicial do autor, o esbulho do réu e as circunstancias e momento dos fatos;
+IV. A caução, nos termos do art. 559 do CPC, é exceção nas ações possessórias que depende de prova, a ser produzia pelo réu, de que o autor provisoriamente mantido ou reintegrado na posse carece de idoneidade financeira para, no caso de sucumbência, responder por perdas e danos. Tal prova inexiste no caso concreto, ao menos até o momento;
+V. Decisão mantida;
+VI. Recurso parcialmente conhecido e, na parte conhecida, não provido.
+Os embargos de declaração opostos pelo demandante foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, o recorrente alega a existência de violação ao art. 485, V, do CPC/2015, sustentando, em síntese, que a Corte de origem incorreu em violação à coisa julgada, pois:
+ ..  a despeito de reconhecer o trânsito em julgado de decisão que trata de matéria de ordem pública, isto é, reconhecendo a incidência de preliminar de incompetência absoluta, o r. Acórdão passou a analisar o mérito do Agravo de Instrumento interposto. (e-STJ, fl. 210)
+Contrarrazões às fls. 222-254 (e-STJ).
+Foi admitido o apelo extremo na origem.
+Brevemente relatado, decido.
+Com efeito, no tocante à suscitada incompetência do Juízo onde tramita a ação de reintegração de posse ajuizada pela ora recorrida, o TJAM eximiu-se de apreciar a temática, sob o fundamento de que sobre ela recai a coisa julgada, haja vista que já decidida no Agravo de Instrumento de n. 0005715-55.2011.8.04.0000, segundo se extrai do seguinte excerto (e-STJ, fl. 147):
+Além disso, admitir o presente recurso significaria reapreciar questão já decidida, e transitada em julgado, pelo Tribunal de Justiça do âmbito do Agravo de Instrumento nº 0005715-55.2011.8.04.0000, quando fixou competência para julgamento do feito a competência da mesma vara em que tramita a ação de usucapião nº 0212223-30.2011.
+Ofender-se-ia, assim, a coisa julgada existente no âmbito daqueloutro agravo de instrumento, razão pela qual o presente recurso não pode ser conhecido.
+Imperioso destacar, todavia, que tal fato não impede o agravante de exigir o cumprimento daquela decisão, pelos mecanismos processuais civis próprios para preservar competência e garantir a autoridade das decisões do Tribunal.
+A respeito da matéria, dispõe a jurisprudência desta Corte Superior que opera-se a preclusão consumativa e a coisa julgada, se a questão, ainda que de ordem pública, já tiver sido decidida em momento anterior e não impugnada oportunamente.
+Nesse sentido, confiram-se os seguintes julgados do STJ:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. ORÇAMENTO DESTINADO À EDUCAÇÃO. INCOMPETÊNCIA DO JUÍZO. MATÉRIA PRECLUSA. SUPOSTA IMPRESCINDIBILIDADE DE PRODUÇÃO DE PROVA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DO MUNICÍPIO DO RIO DE JANEIRO DESPROVIDO.
+1. Quanto à suposta incompetência absoluta do Juízo da Vara da Infância da Juventude e do Idoso, a Corte de origem afastou a preliminar ao argumento de que a questão já havia sido decidida definitivamente por este STJ no REsp. 871.204/RJ, de modo que, sob pena de ofensa à coisa julgada formal, à segurança jurídica e aos princípios de economia e celeridade processuais, não poderia haver novo debate do tema, ainda que referente à questão de ordem pública.
+2. Decidida a matéria relativa à competência pelo Tribunal, não se admite o reexame do tema para a modificação do julgado anterior, por ter-se operado a preclusão. Precedentes: REsp. 755.224/RS, Rel. Min.
+HUMBERTO GOMES DE BARROS, Rel. p/Acórdão Min. CARLOS ALBERTO MENEZES DIREITO, DJ 26.6.2006; AgInt no REsp. 1.687.153/SE, Rel. Min. MAURO CAMPBELL MARQUES, DJe 20.3.2018.
+ ..
+5. Agravo Interno do MUNICÍPIO DO RIO DE JANEIRO desprovido.
+(AgInt no REsp 1713034/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 28/05/2019, DJe 04/06/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. Opera-se a preclusão consumativa quanto à impenhorabilidade do bem de família quando houver decisão anterior acerca do tema, mesmo se tratando de matéria de ordem pública. Precedentes.
+2. A Corte Estadual, ao negar provimento ao agravo de instrumento do insurgente, reconheceu a preclusão consumativa quanto à alegação de impenhorabilidade fundada na arguição de bem de família, porquanto já afastada por decisão anterior. Aresto recorrido em consonância com a orientação do desta Corte Superior. Incidência da Súmula 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1357734/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/05/2019, DJe 03/06/2019)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. QUESTÃO JÁ DECIDIDA. PRECLUSÃO. PRECEDENTES. SÚMULA Nº 568 DO STJ. DECISÃO MANTIDA. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Constou expressamente na decisão agravada que nos termos da jurisprudência do Superior Tribunal de Justiça as matérias de ordem pública, tais como prescrição e decadência, podem ser apreciadas a qualquer tempo nas instâncias ordinárias. Todavia, existindo decisão anterior, opera-se a preclusão consumativa se não houver impugnação no momento processual oportuno.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa
+(AgInt nos EDcl no AREsp 848.766/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/10/2018, DJe 18/10/2018)
+A par dessas premissas, depreende-se que, diversamente do que alegado pelo demandante, em suas razões de recurso especial, o Tribunal a quo nem sequer apreciou a preliminar de incompetência absoluta do Juízo, porquanto já examinada em outra ocasião, reconhecendo, por conseguinte, ter havido coisa julgada.
+Há de se destacar que, não conhecida a preliminar apontada de incompetência, inexiste óbice, de fato, ao conhecimento das demais matérias suscitadas no agravo de instrumento interposto pelo insurgente, com a apreciação do seu mérito, tendo em vista que tal providência decorre de lógica processual.
+É o que se extrai do seguinte julgado, guardadas as devidas proporções (sem grifo no original):
+PROCESSUAL CIVIL. ADMINISTRATIVO. OMISSÃO INEXISTENTE. ACOLHIMENTO DE PRELIMINAR. ANÁLISE DE MÉRITO. INVIABILIDADE. FALTA DE PREQUESTIONAMENTO. PRESCRIÇÃO. NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. HONORÁRIOS.
+SÚMULA 7/STJ.
+1. Os recorrentes aduzem que o acórdão recorrido incorreu em omissões, pois não abordou a questão da prescrição, da ausência de reestruturação da carreira pela MP 212/04 e dos honorários.
+2. Contudo, observa-se que houve efetiva abordagem da prescrição, consignando o Tribunal de origem que teria ocorrido a prescrição do fundo de direito, fulminando por completo eventual pretensão autoral. Concluiu ainda que era devida a majoração da verba honorária em favor da Fazenda Pública.
+3. Entendimento contrário ao interesse da parte e omissão no julgado são conceito que não se confundem.
+4. A ausência de manifestação sobre matéria de mérito decorre da declaração de prescrição da ação, visto que o acolhimento de tal preliminar, a toda evidência, veda a análise de tal questão e, consequentemente, afasta a caracterização de omissão no julgado e conduz à falta de prequestionamento do tema meritório. Precedentes.
+5. Quanto à prescrição, infere-se das razões do recurso especial que os recorrentes deixaram de estabelecer qual o dispositivo de lei federal que consideram violado para sustentar sua irresignação pela alínea "a" do permissivo constitucional, limitando-se a aduzir que se trata de parcela de trato sucessivo, o que atrairia a "inteligência da Súmula nº 85, deste STJ". Não há uma única linha apontando, ainda que esparsamente, um artigo de lei federal, o que evidencia a deficiência do recurso especial neste ponto. Incidência da Súmula 284/STF.
+6. A fixação da verba honorária de sucumbência cabe às instâncias ordinárias, uma vez que resulta da apreciação equitativa e avaliação subjetiva do julgador diante das circunstâncias fáticas presentes nos autos, razão pela qual insuscetível de revisão em sede de recurso especial, a teor da Súmula 7/STJ.
+Recurso especial improvido.
+(REsp 1590153/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 19/04/2016, DJe 26/04/2016)
+Outrossim, destacou a Corte estadual que, entendendo a parte insurgente ter havido o descumprimento daquele decisum que fixou a competência, nada impede que se utilize dos instrumentos processuais próprios para exigir o cumprimento daquele julgado.
+Desse modo, mantém-se hígido o acórdão combatido, porquanto em conformidade com a jurisprudência desta Corte Superior, a atrair a incidência da Súmula 83 do STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
