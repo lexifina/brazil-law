@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pela Oitava Turma do Tribunal Superior do Trabalho que assentou “ser competente a Justiça do Trabalho para o julgamento de lide envolvendo o pedido de recolhimento das contribuições devidas pelo empregador (patrocinador) à entidade de previdência privada, decorrente das diferenças salariais deferidas em juízo”. Veja-se trecho pertinente da ementa do julgado:
+    “[...]
+    II - RECURSO DE REVISTA DO RECLAMANTE INTERPOSTO NA VIGÊNCIA DA LEI Nº 13.015/2014 E DO NCPC – COMPETÊNCIA DA JUSTIÇA DO TRABALHO - CONTRIBUIÇÕES DEVIDAS À ENTIDADE DE PREVIDÊNCIA PRIVADA – PARCELA DEFERIDA EM JUÍZO - DIFERENÇAS DE ANUÊNIOS
+    Ressalvado meu posicionamento anterior, curvo-me ao entendimento da C. SBDI-1, adotado por esta C. Turma, no sentido de ser competente a Justiça do Trabalho para o julgamento de lide envolvendo o pedido de recolhimento das contribuições devidas pelo empregador (patrocinador) à entidade de previdência privada, decorrente das diferenças salariais deferidas em juízo. Julgados.
+    Em razão disso, necessário o retorno dos autos ao Eg. TRT de origem.
+    Recurso de Revista conhecido e provido.
+    […].”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 114, I, IX e 202, § 2º, da CF. Sustenta que “a incompetência da Justiça do Trabalho abrange as controvérsias relativas ao custeio, hipótese dos autos, e benefícios conteúdo que se extrai das razões de decidir do RE 586.453, Tema 190 da repercussão geral”.
+    O recurso merece acolhida.
+    A jurisprudência do Supremo Tribunal Federal é no sentido de que a competência, na hipótese, é da Justiça comum. Esse entendimento foi consolidado no julgamento conjunto do RE 583.050-RG e do RE 586.453-RG. Na ocasião, a maioria do Plenário desta Corte definiu que o § 2º do art. 202 da CF autonomizou, expressamente, a previdência complementar relativamente ao contrato de trabalho. Firmou-se o entendimento de que o referido § 2º do art. 202 seria a fonte normativa evidente da existência de dois regimes de previdência: um, o do regime geral, que alcançaria todos os trabalhadores do setor privado; e outro, complementar, de previdência privada, inteiramente dissociado das relações trabalhistas e de tudo que dela decorrer – inclusive em matéria de previdência. Ou seja, o contrato de previdência complementar bastaria em si mesmo, seria um pacto de natureza totalmente distinta, sem qualquer vinculação com as relações trabalhistas.
+    Verifica-se que a definição da competência jurisdicional foi fixada, pelo Supremo Tribunal Federal, em razão da natureza autônoma da previdência complementar, ainda que o surgimento do contrato de previdência complementar pressuponha a existência de um vínculo trabalhista subjacente.
+    Ademais, vale ressaltar o recente julgamento do ARE 783.014-AgR, Rel. Min. Dias Toffoli, em que se reafirmou o entendimento de que “baseando-se na autonomia do Direito Previdenciário, a Corte, nos autos do RE nº 586.453/SE, com repercussão geral reconhecida, firmou o entendimento de que as ações propostas com o fito de obter complementação de aposentadoria são de competência da Justiça comum, ainda que a relação firmada se tenha originado de contrato de trabalho”.
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso para assentar a competência da Justiça comum para julgar a presente controvérsia.
+    Publique-se.
+          Brasília, 27 de junho de 2019.
+Ministro Luís Roberto Barroso
+Relator
