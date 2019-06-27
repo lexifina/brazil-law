@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo apresentado por ASSOCIAÇÃO DE POUPANÇA E EMPRÉSTIMO POUPEX, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL SEGURO DE VIDA FINANCIAMENTO IMOBILIÁRIO AÇÃO DE COBRANÇA PAGAMENTO PARCIAL NA VIA ADMINISTRATIVA NEGATIVA DE COBERTURA SECURITÁRIA INDENIZAÇÃO DEVIDA ATÉ O LIMITE DO CAPITAL SEGURADO PREVISÃO CONTRATUAL DIFERENÇA DEVIDA APELAÇÃO DESPROVIDA.
+Alega a recorrente violação dos arts. 757 e 801, § 1º, do CC e do art. 485, VI, do CPC, defendendo sua ilegitimidade para figurar no feito.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), pois a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos para se alterar a conclusão do Tribunal a quo sobre a legitimidade da POUPEX para ser parte passiva nos autos, conforme se pode verificar no seguinte trecho do acórdão recorrido:
+O contrato juntado na fl. 35, especialmente em sua cláusula 24º é claro ao dispor que a empresa requerida, ora embargante, na condição de credora do contrato receberá da seguradora o valor da indenização a ser alcançada a parte devedora (autor), em caso de sinistro, não restando dúvida acerca da relação de direito material e do dever contratual de indenizar por parte da embargante, não havendo que se falar em extinção do feito por ilegitimidade passiva. (fl. 381)
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
