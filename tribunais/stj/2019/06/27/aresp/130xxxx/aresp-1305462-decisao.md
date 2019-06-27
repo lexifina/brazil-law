@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por [NOME] em face da decisão acostada às fls. 170-174 (e-STJ) que, em juízo prévio de admissibilidade, negou seguimento ao recurso especial manejado pelo ora agravante.
+Em juízo de conformidade, o Tribunal a quo constatou que o acórdão recorrido decidira no mesmo sentido da tese firmada por esta Corte Superior no julgamento do Tema 59, submetido à sistemática dos recursos especiais repetitivos.
+No juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre por aplicação da Súmula 7/STJ, dado que a pretendida alteração das conclusões do Órgão Julgador demanda incontornável incursão no conjunto fático probatório dos autos.
+Inconformado, interpôs o presente agravo em recurso especial, cuja minuta está acostada às fls. 176-183 (e-STJ), no qual, após relembrar os eventos da demanda, aduziu, que "o despacho de negativa de seguimento ao Recurso Especial, em seu fundamento alega ser o Recurso deficiente na fundamentação, entendendo não ofender a dispositivos legais" (fl. 180, e-STJ).
+Contraminuta às fls. 187-191 (e-STJ).
+É o relatório.
+Decide-se.
+1. O agravante não impugnou, especificadamente, a inadmissão do recurso especial por aplicação da súmula 7/STJ
+O agravo em recurso especial que deixa de afastar os fundamentos que levaram à inadmissão do recurso não deve ser conhecido, nos termos do artigo 932, inc. III, do NCPC e na súmula 182/STJ.
+É dever da parte agravante (à luz do princípio da dialeticidade) demonstrar o desacerto do magistrado ao fundamentar a decisão impugnada, atacando especificamente e em sua totalidade o seu conteúdo, nos termos do art. 932, III, do CPC/15, o que não ocorreu na espécie, uma vez que as razões apresentadas contra a decisão de inadmissibilidade do recurso especial não impugnam todos os fundamentos do decisum.
+A propósito, é o precedente da Corte Especial:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018)  grifou-se
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 182/STJ, não conheço do agravo em recurso especial, e, com base no art. 85, § 11, do CPC/2015, majora-se em 10% (dez por cento) o valor dos honorários sucumbenciais fixados pela origem, em favor da parte recorrida.
+Publique-se.
+Intimem-se.
