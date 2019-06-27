@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA DO ESTADO DE SÃO PAULO, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. Decisão que não reconheceu a prescrição da pretensão executória. Pedido de reforma. Impossibilidade. Substituto processual que atuou em proveito dos substituídos, dando início à execução dos atrasados. Não observância da regra contida no art. 94 do CDC, aplicável por força do art. 21 da Lei 7.347/85. Inaplicabilidade na espécie do entendimento firmado pelo STJ no REsp 1.388.000/PR (Tema 877). Decisão mantida. Recurso não provido" (fl. 44e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação ao art. 1º do Decreto 30.910/32, sustentando que:
+"Primeiro, necessário esclarecer que a execução contra a Fazenda Pública tem natureza de ação autônoma.
+Nesse compasso, os exequentes devem ajuizá-la dentro do prazo prescricional de 05 anos, conforme inteligência dos artigos 1º do Decreto 20.910/32 e 3º do Decreto -Lei 4597/42 e com o entendimento pacificado na Súmula nº 150 do Colendo Supremo Tribunal Federal ("Prescreve a execução no mesmo prazo de prescrição da ação").
+(..)
+Ademais, não há que se falar em obrigatoriedade, mesmo se tratando de execução de ação coletiva, de dar ciência do título executivo aos eventuais interessados por meio de publicação em edital, considerando que o art. 94 do CDC não faz essa exigência, conforme entendimento do Egr. STJ alcançado em sede de RECURSO REPETITIVO (Tema 877)" (fls. 55/63e).
+Por fim, requer "a reforma do acórdão para fazer valer o art. 1º do Decreto 20.910/32, declarando-se extinta a execução" (fl. 64e).
+Contrarrazões a fls. 67/80e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 82/83e).
+A irresignação não merece conhecimento.
+Na origem, trata-se de "agravo de instrumento interposto pela Fazenda Pública do Estado de São Paulo contra r. decisão que, lançada nos autos da ação de cumprimento de sentença, rejeitou a impugnação oposta pela agravante em relação à arguição de prescrição da pretensão executória sustentada a partir dos termos da tese firmada pelo C. Superior Tribunal de Justiça sob o Tema nº 877" (fl. 44e).
+Daí a interposição do presente Recurso Especial.
+Com efeito, a Corte de origem, ao analisar a controvérsia, asseverou que:
+"Como já ressaltado nestes autos, o débito exequendo originou-se de decisão judicial favorável aos exequentes, ora agravados, proferida em sede de mandado de segurança coletivo, que transitou em julgado no ano de 2009.
+O Sindicato dos Professores do Ensino Oficial do Estado de São Paulo (APEOESP), em defesa de seus associados, deu início à execução, em cuja audiência de instrução foram estabelecidos pelo Juízo a quo parâmetros a serem observados, no caso, em todas as execuções a ajuizar, uma vez que tais premissas seriam essenciais ao bom andamento da execução, pois, segundo afirmado pelo magistrado responsável pela tramitação do feito mandamental, "cabe decidir de antemão os critérios que o Juízo utilizará na execução, tentando-se evitar a interposição de embargos à execução e posteriores recursos, sempre objetivando a célere prestação jurisdicional" (DJe 10/10/2012).
+Como se vê, o Sindicato iniciou a execução do julgado. Assim, ainda que representados pela entidade, os exequentes buscam o recebimento de seus créditos desde então. Por isso, o fato de a presente execução individual ter sido ajuizada em 2017 não implica prescrição nem mesmo das parcelas, em razão da ausência de publicidade da decisão proferida na ação coletiva, que obsta o início do prazo prescricional, nos termos do artigo 94 do Código de Defesa do Consumidor" (fl. 46e)
+Entretanto, tais fundamentos não foram impugnados pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
