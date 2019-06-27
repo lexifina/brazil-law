@@ -1,0 +1,24 @@
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. MEDIDA CAUTELAR DE ARRESTO. COMPETÊNCIA PARA JULGAMENTO DO JUÍZO DO FORO DE ELEIÇÃO. INTERPRETAÇÃO DO ART. 63, § 1º, do CPC/2015. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+DECISÃO
+Trata-se de conflito negativo de competência sendo suscitante o Juízo de Direito da 11ª Vara Cível de São Paulo-SP e suscitado o Juízo de Direito da Vara Única de Alto Taquari-MT.
+Na origem, Banco Cargill S.A. ingressou com medida cautelar de arresto em desfavor de [NOME] e outros, na condição de credor de Cédula de Crédito à Exportação - CCE, a qual contém 2 (dois) aditivos, com vencimento original em 30/12/2011. O juízo suscitado acolheu preliminar de incompetência, por entender que o Juízo paulista é que deve processar e julgar a execução, devido à existência de cláusula de eleição de foro, haja vista que, no caso, "as partes compareceram no Cartório do 2ª Ofício de Alto Taquari-MT e entabularam Escritura Pública de Confissão de Dívida, na qual elegeram o Foro Central da Comarca da Capital do Estado de São Paulo para dirimir quaisquer conflitos ou controvérsias decorrentes do negócio jurídico, renunciando a outro por mais privilegiado que seja" (e-STJ, fl. 82).
+Desse modo, "embora este Juízo tenha homologado a transação extrajudicial e declarado a extinção da ação, entendo que o Juízo competente para apreciar e julgar a execução do negócio jurídico não cumprido é aquele escolhido livremente pelas partes (foro de eleição), até porque não vislumbro hipossuficiência de nenhuma das partes nem prejuízo algum" (e-STJ, fl. 82).
+Ocorre que, remetidos os autos ao Juízo de Direito da 11ª Vara Cível de São Paulo-SP, este suscitou o presente conflito, invocando o art. 516 do CPC/2015, o qual dispõe que o cumprimento de sentença deverá ser efetuado perante o Juízo que decidiu a causa no primeiro grau de jurisdição, bem como com arrimo na existência de coisa julgada, após a qual "não haveria mais que se discutir questão relativa à competência relativa (foro de eleição)" (e-STJ, fls. 86-88).
+Instado, o Ministério Público Federal opinou no sentido do improvimento do conflito, declarando-se a competência do Juízo suscitante (e-STJ, fls. 94-97).
+Brevemente relatado, decido.
+Com efeito, o art. 63 do CPC/2015 prevê a possibilidade de modificação da competência por vontade das partes, a fim de eleger o foro onde será proposta a ação para discutir eventuais litígios.
+Nessa toada, da detida análise dos documentos que instruem o presente conflito de competência, observa-se a existência de Escritura Pública de Confissão de Dívida firmada entres as partes - a qual é objeto da ação de execução em comento -, na qual os envolvidos optaram por modificar o foro competente para dirimir eventuais controvérsias oriundas do cumprimento do referido título extrajudicial, elegendo o Foro Central da Comarca da Capital do Estado de São Paulo.
+Deve ser destacada, ainda, a regra disposta no § 1º do art. 63 do NCPC, a qual prescreve que "a eleição de foro só produz efeito quando constar de instrumento escrito e aludir expressamente a determinado negócio jurídico", o que se verifica na hipótese.
+Cumpre lembrar, outrossim, a orientação jurisprudencial desta Corte favorável à validade da cláusula de eleição de foro definida pelos contratantes, só podendo ser afastada sua eficácia nas hipóteses em que for reconhecida a sua abusividade, ou resultar na inviabilidade ou especial dificuldade de acesso ao Poder Judiciário.
+A propósito:
+CONFLITO DE COMPETÊNCIA - FORO DE ELEIÇÃO - CLÁUSULA VÁLIDA - EXPRESSIVO VALOR ECONÔMICO DO CONTRATO - LITIGANTES DETENTORAS DE CONDIÇÕES PARA DEMANDAR EM COMARCA DIVERSA DE SUAS SEDES - PRECEDENTES DA SEGUNDA SEÇÃO DO STJ.
+1. A cláusula do foro de eleição é eficaz e somente pode ser afastada quando for reconhecida a sua abusividade, resultar na inviabilidade ou especial dificuldade de acesso ao Poder Judiciário. Precedentes da Segunda Seção.
+(..).
+4. Conflito conhecido para declarar a competência do Juízo de Direito da 1.ª Vara Empresarial do Rio de Janeiro/RJ.
+(CC n. 142.750/RJ, Relator o Ministro Marco Buzzi, Segunda Seção, DJe de 25/5/2016).
+Como pontuado pelo Juízo suscitado, a cláusula sexta da Escritura Pública de Confissão de Dívida que estipulou foro de eleição diverso é válida. Isso porque as partes optaram por outro juízo para dirimir as eventuais controvérsias que pudessem surgir em relação ao negócio firmado. A propósito (e-STJ fls. 23/28):
+CLÁUSULA SEXTA - As partes elegem o Foro da Comarca de São Paulo-SP para dirimir qualquer dúvida e/ou litígio oriundos deste instrumento, com renúncia de qualquer outro, por mais privilegiado que seja.
+O Juízo suscitado, portanto, agiu em consonância com o estabelecido na legislação instrumental, ao determinar a remessa dos autos ao Foro eleito pelas partes.
+Ante o exposto, conheço do conflito e declaro competente o Juízo de Direito da 11ª Vara Cível de São Paulo-SP, o suscitante.
+Comunique-se. Publique-se.
