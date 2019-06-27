@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de Sergipe assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA E ASSÉDIO MORAL. PAGAMENTO DE SALÁRIO EM VALOR INFERIOR AO MÍNIMO. CONFIGURADO. DOCUMENTOS ADUNADOS AOS AUTOS MATERIALIZADOS - CONTRACHEQUES DA SERVIDORA. POSSIBILIDADE DE RESTITUIÇÃO DE VALORES REFERENTES ÀS COMPLEMENTAÇÕES DAS REMUNERAÇÕES, EM RELAÇÃO AO MÍNIMO LEGAL, RELATIVA AOS ANOS DE 2010 (MESES DE NOVEMBRO E DEZEMBRO), 2011 (MESES DE JANEIRO, FEVEREIRO, MARÇO, MAIO, JULHO, AGOSTO, SETEMBRO. OUTUBRO, NOVEMBRO E DEZEMBRO), 2012 (MESES DE JANEIRO, MARÇO, ABRIL, MAIO, JULHO, AGOSTO, OUTUBRO, NOVEMBRO E DEZEMBRO) E 2013 (MESES DE JANEIRO, FEVEREIRO, MARÇO, ABRIL, MAIO, JUNHO, SETEMBRO E OUTUBRO), BEM COMO A EFETUAR O PAGAMENTO DA QUANTIA DE R$ 643,77, CONCERNENTE AOS DESCONTOS INDEVIDOS DISCRIMINADOS "DEV TESOUTO ESTADO", DEVIDAMENTE CORRIGIDAS. PRECEDENTES. RECURSO CONHECIDO E IMPROVIDO. À UNANIMIDADE.
+Os Embargos de Declaração opostos foram rejeitados (fls. 322-327, e-STJ).
+O recorrente afirma que houve ofensa aos arts. 486, IV, 489, IV, e 1.022, II, do Código de Processo Civil de 2015. Alega que o acórdão recorrido padece de omissão sobre a legalidade dos descontos efetuados pelo ente estatal no contracheque da servidora.
+Apresentadas as contrarrazões (fls. 340-344, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 31.5.2019.
+Preliminarmente, constato que não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13/8/2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28/6/2007.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração, mormente no que tange à legalidade dos descontos efetuados nos vencimentos da servidora.
+Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+Ao dirimir a controvérsia, o Tribunal local asseverou (fls. 306-307, e-STJ):
+Destarte, prestado o serviço, a conseqüência é o pagamento da correspondente remuneração ao servidor, sob pena de caracterização de enriquecimento sem causa para a Administração.
+Ante as considerações supra, forçoso é concluir que o magistrado sentenciante agiu acertadamente ao coagir o Ente Estatal ao pagamento de remuneração em valor igual ao salário mínimo, dada a comprovação, por meio das fichas financeiras acostadas aos autos, de que o pagamento efetivado pelo Estado se dava abaixo de tal patamar.
+Outrossim, cumpre anotar que não obstante as argumentações do Ente Estatal justificando que a remuneração do servidor se dá em razão dos dias não trabalhados, não é essa a interpretação que se extrai do texto constitucional, tendo cm vista a ausência de qualquer comando no sentido de vincular o valor do salário mínimo à duração da jornada de trabalho imposta pelo administrador público.
+Ressalte-se que a Constituição Federal de 1988 garante a percepção de salário nunca inferior ao mínimo nacionalmente unificado ao trabalhador, através dos incisos IV, V e VII, do art. 7º, direito também aplicável ao funcionário público, pela expressa determinação do art. 39, § 2º, no sentido de que se aplica aos servidores estatutários o disposto no art. 7º, IV. V e VII, dentre outros direitos. Tais direitos, por serem direitos fundamentais sociais, são imperativos, invioláveis e, sobretudo, de observância pelo Poder Público.
+Até mesmo os profissionais que percebem remuneração variável possuem garantia de seus salários não serem inferiores ao mínimo, de forma que não há como se cogitar a possibilidade de um funcionário público de remuneração fixa receba quantia inferior ao mínimo garantido constitucionalmente.
+A jurisprudência desta Corte é pacífica nesse sentido, a exemplo das decisões abaixo colacionadas:
+(..)
+No caso dos autos, restou incontroversa a existência da relação entre as partes, de sorte que a remuneração mensal aquém do salário mínimo, conforme período mencionado na sentença, apresenta-se claramente configurada e viola as garantias constitucionais do servidor.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Ademais, para rever o entendimento da Corte de origem, a fim de aferir os limites salariais e a natureza dos descontos nos vencimentos da servidora, como pretende o recorrente, seria necessário revolver o contexto fático-probatório dos autos. Incide, na hipótese, a Súmula 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. SERVIDOR DO TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA. CARGA HORÁRIA. ACRÉSCIMO NA JORNADA DE TRABALHO. AUSÊNCIA DE AUMENTO NA REMUNERAÇÃO. DESRESPEITO AO PRINCÍPIO CONSTITUCIONAL DA IRREDUTIBILIDADE DE VENCIMENTOS. PRECEDENTE CO SUPREMO TRIBUNAL FEDERAL COM REPERCUSSÃO GERAL RECONHECIDA. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO RECURSO.
+1. O STJ possui entendimento de que a avaliação quanto à necessidade e à suficiência ou não das provas, para autorizar o julgamento antecipado da lide e averiguar eventual cerceamento de defesa, demanda, em regra, incursão no acervo fático-probatório dos autos e encontra óbice na Súmula 7/STJ.
+2. Não tem o servidor público direito adquirido a regime jurídico remuneratório, exceto se da alteração legal decorrer decesso vencimental.
+3. Para verificar "a redutibilidade de salário, porquanto ausente o respectivo ajuste financeiro", é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em Recurso Especial pelo princípio do livre convencimento motivado do juiz, que é soberano na apreciação das provas, as quais, ademais, são infensas à análise em Recurso Especial, por óbice da Súmula 7/STJ.
+4. Recurso Especial não conhecido.
+(REsp 1.765.490/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 16/11/2018).
+Diante do exposto, conheço parcialmente do Recurso Especial, somente com relação à preliminar de violação do art. 1.022 do CPC/2015, e, nessa parte, desprovejo-o.
+Consubstanciado o que previsto no Enunciado Administrativo 7/STJ, condeno o recorrente, sucumbente, ao pagamento de honorários advocatícios de 10% (dez por cento) sobre o valor da verba sucumbencial fixada na origem.
+Publique-se.
+Intimem-se.
