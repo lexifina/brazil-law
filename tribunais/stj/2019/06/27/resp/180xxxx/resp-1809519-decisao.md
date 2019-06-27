@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRADESCO SAÚDE S/A, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, em face de acórdão da seguinte forma ementado:
+PLANO DE SAÚDE. REAJUSTE DE CONTRATO COLETIVO.
+Autor que ajuizou a presente demanda visando a declaração de nulidade de reajustes por sinistralidade do seu plano de saúde que considera abusivos. Sentença de procedência. Apelo da ré.
+1. E. STJ, em regime de recursos repetitivos (REsp 1360969/RS), definiu a prescrição trienal para pretensão de restituição de quantias pagas a maior em virtude de reajustes abusivos, podendo a revisão de cláusula contratual abusiva ser requerida a qualquer tempo durante a vigência do contrato.
+2. Reajuste por sinistralidade em plano coletivo. Possibilidade condicionada à comprovação do desequilíbrio contratual provocado por eventual aumento de sinistralidade. Ausência. Aplicação do reajuste por índice da ANS para contratos particulares e familiares. Restituição das diferenças devida.
+3. Recurso desprovido.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a parte recorrente violação dos artigos 478 e 479 do Código Civil; 6º do Código de Defesa do Consumidor; 16 da Lei 9.656/1998; 1º e 4º da Lei 9.961/2000. Sustenta a impossibilidade de se determinar a aplicação dos reajustes anuais de planos individuais aos planos de saúde coletivo.
+O recurso foi admitido na origem, nos termos da decisão de fls. 330-331, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Verifico, que o acórdão recorrido vai de encontro à jurisprudência deste Superior Tribunal de Justiça.
+Confiram abaixo os seguintes trechos do voto condutor (fls. 266-267, e-STJ):
+In casu, não houve a comprovação dos motivos dos reajustes aplicados por parte da ré, o que a desautoriza a realizar índice de sinistralidade nos moldes praticados, devendo ser adotado para o período os índices previstos pela ANS para os planos particulares e familiares.
+(..)
+Observe-se, ainda, que, embora a requerida tenha tecido considerações acerca da validade do reajuste por "variação de custos médico-hospitalares", este é apenas um dos critérios que utiliza para justificar e calcular o reajuste por sinistralidade, portanto, se trata, em verdade, de parte do índice já explicitado acima.
+Com efeito, merece provimento a alegação de impossibilidade de aplicação do reajuste anual dos planos individuais, visto que, nos termos da jurisprudência pacífica desta Corte, "é possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade" (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/6/2015, DJe 10/6/2015).
+Ademais, a própria Agência Nacional de Saúde Suplementar - ANS, em seu sítio eletrônico, consigna expressamente que "A ANS não define percentual máximo de reajuste para os planos coletivos por entender que as pessoas jurídicas possuem maior poder de negociação junto às operadoras, o que, naturalmente, tende a resultar na obtenção de percentuais vantajosos para a parte contratante. O reajuste dos planos coletivos é calculado com base na livre negociação entre as operadoras e as empresas, fundações, associações etc."
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REAJUSTE. ABUSIVIDADE NÃO RECONHECIDA. REEXAME DE PROVAS E DA RELAÇÃO CONTRATUAL ESTABELECIDA. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+2. "É possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade". (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/06/2015, DJe 10/06/2015). Aplicação da Súmula 83/STJ.
+2. Na espécie, o acórdão, à luz do contrato entabulado entre as partes e dos reajustes promovidos pela operadora do plano de saúde, não reconheceu a abusividade do reajuste do plano de saúde amparado nas provas e no contrato firmado entre as partes. A reforma do aresto hostilizado, com a desconstituição de suas premissas, impõem reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, o que esbarra nas Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1483244/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 23/2/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. MENSALIDADES. REAJUSTE. AUMENTO DA SINISTRALIDADE. ABUSIVIDADE. NÃO RECONHECIMENTO NA ORIGEM. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. O recurso especial inadmitido impugna acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que é possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade. 3. Revisar o entendimento da instância ordinária que afastou a natureza abusiva do reajuste do plano de saúde é pretensão que esbarra no reexame de cláusulas do contrato e das provas constantes dos autos, sendo, portanto, inviável em recurso especial (Súmulas nºs 5 e 7/STJ).
+4. Agravo interno não provido.
+(AgInt no REsp 1656653/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 15/12/2017)
+Em face do exposto, dou provimento ao recurso especial, para afastar a limitação dos reajustes anuais aos índices estipulados pela ANS aos contratos individuais, devendo ser observados aqueles previstos contratualmente, e, ainda, condenar o autor no pagamento das custas processuais e dos honorários advocatícios, que ora fixo em 10% sobre o valor atualizado da causa, nos termos do § 2º do art. 85 do Código de Processo Civil, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
