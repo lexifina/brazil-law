@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado, no que interessa (e-STJ fl. 471/472):
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. AÇÃO ACIDENTÁRIA. PEDIDO DE CONCESSÃO DE APOSENTADORIA POR INVALIDEZ. PROCEDÊNCIA. TERMO INICIAL A PARTIR DA DATA DO REQUERIMENTO ADMINISTRATIVO. CONDENAÇÃO DO RÉU AO PAGAMENTO DAS PARCELAS VENCIDAS, DEVIDAMENTE CORRIGIDAS, ALÉM DAS VERBAS DE SUCUMBÊNCIA. APELO DO AUTOR. PRETENDIDA ALTERAÇÃO DO TERMO INICIAL DO BENEFÍCIO PARA QUE SEJA FIXADO A PARTIR DA CESSAÇÃO DO AUXÍLIO-DOENÇA. PROVIMENTO. PREVISÃO CONTIDA NO ART. 43 DA LEI 8.213/91. REFORMA DO DECISUM. APELAÇÃO DO INSS. ALEGADA CONTRARIEDADE DA SENTENÇA AO LAUDO PERICIAL, QUE ATESTA A INCAPACIDADE PARCIAL DO APELADO PARA O TRABALHO. REJEIÇÃO. CONJUNTO PROBATÓRIO QUE REVELA A PRESENÇA DOS REQUISITOS LEGAIS EXIGIDOS PARA O DEFERIMENTO DA APOSENTADORIA POR INVALIDEZ. SEQUELA PERMANENTE QUE IMPORTA NA INCAPACIDADE TOTAL DO SEGURADO PARA O TRABALHO HABITUAL E INVIABILIDADE DE REABILITAÇÃO DADAS AS SUAS CONDIÇÕES PESSOAIS E A TENTATIVA ANTERIOR SEM SUCESSO. (..) APELAÇÃO DO AUTOR PROVIDA E DO RÉU DESPROVIDA. SENTENÇA ALTERADA EM PARTE MÍNIMA EM REEXAME NECESSÁRIO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 528/535).
+Nas suas razões, o recorrente aponta violação dos seguintes dispositivos legais:
+(a) art. 1.022 do do Código de Processo Civil de 2015, por negativa de prestação, ante o não suprimento de omissão apontada em sede de embargos de declaração, no tocante à impossibilidade de inovação da lide;
+(b) arts. 141 e 492 do Código de Processo Civil de 2015, na medida em que concedeu o benefício além dos limites pleiteados na inicial. Aduz que a aposentadoria por invalidez foi concedida desde 31/12/2006, e o pedido inicial foi a partir de 14/07/2010, configurando julgamento extra petita.
+Contrarrazões às e-STJ fls. 548/562.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 564/565.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito esse esclarecimento, não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento. Dessa forma, não se vislumbra, na espécie, nenhuma contrariedade da norma invocada.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1022 DO CPC/15. CDA. NOME DO SÓCIO. ÔNUS PROBATÓRIO. DEMONSTRADA AUSÊNCIA DE ABUSO DE PODER OU INFRAÇÃO À LEI. SÚMULA 7/STJ.
+1. Não se reconhece ofensa ao art. 1022 do CPC/15 quando o acórdão embargado enfrenta e decide, de maneira integral e com fundamentação suficiente, toda a controvérsia posta nos autos.
+2. A alteração das conclusões adotadas pela Corte de origem, quanto à alegação da prática de ato ilícito dos gestores da empresa, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1.625.480/RN, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 05/04/2018).
+Quanto ao mérito, verifico que razão assiste à autarquia.
+A parte autora pleiteou inicialmente a concessão de aposentadoria por invalidez desde 14/07/2010 (e-STJ fl. 18), tendo a sentença julgado procedente o pedido. Em sede de apelação, a autora requereu a fixação do termo inicial do benefício a partir do dia imediato ao da cessação do auxílio-doença, ocorrido em 31/12/2006.
+Os autos ascenderam ao Tribunal a quo, que reformou a sentença e decidiu pela concessão da aposentadoria por invalidez desde 2006, nos seguintes termos (e-STJ, fl. 533):
+No caso, como o autor recebeu auxílio-doença até 31.12.2006, o benefício deverá ser implantado a partir do dia imediatamente seguinte à sua cessação, pois desde então já era portador de lesão definitiva e incapacitante para o seu trabalho habitual, o que deixou de ser reconhecido pela autarquia na última perícia administrativa realizada, que, ademais, deu-lhe alta indevida, com a cessação do benefício, de natureza alimentar, indispensável a sua subsistência.
+E neste ponto, o perito nomeado em juízo atestou que "a data de início é difícil precisar, mas o trauma de 2001 colaborou com estas lesões", sendo certo que desde o acidente de trabalho ocorrido não há notícias de seu retorno ao labor.
+Assim, ante a disposição contida no art. 43, caput, da Lei nº 8.213/91, deve ser alterada a sentença para fixar o termo inicial da aposentadoria por invalidez a partir do dia seguinte à cessação do auxílio-doença anterior.
+Assim, diante da reformatio in pejus pela Corte de origem, ao retroagir o termo inicial do benefício não suscitado pela parte autora, merece ser reformado o acórdão, no ponto.
+A propósito, mutatis mutandi:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. DEPÓSITO PRÉVIO. JUSTIÇA GRATUITA. DESNECESSIDADE. TERMO INICIAL DO BENEFÍCIO DE AUXÍLIO ACIDENTE. REFORMATIO IN PEJUS. OCORRÊNCIA.
+1. O autor da ação rescisória que for beneficiário da justiça gratuita não está compelido a fazer o depósito prévio previsto no art. 488, inciso II, do Código de Processo Civil. Precedentes.
+2. O acórdão rescindendo incorreu em violação ao princípio da proibição da reformatio in pejus, porquanto, ao modificar o marco inicial do auxílio acidente, agravou a situação processual do único recorrente.
+3. Ação julgada procedente. (AR 1.428/SP, Rel. Ministra LAURITA VAZ, Terceira Seção, DJ 01/02/2008)
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial da autarquia para fixar o termo inicial na data postulada, em 14/07/2010, ante a ocorrência de reformatio in pejus, restabelecendo a sentença neste particular.
+Publique-se. Intimem-se.
