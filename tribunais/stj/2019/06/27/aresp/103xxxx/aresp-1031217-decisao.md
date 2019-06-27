@@ -1,0 +1,27 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. RESCISÃO. LUCROS CESSANTES E CLÁUSULA PENAL. RECURSO REPETITIVO. RECURSO QUE TRATA DOS TEMAS 970 E 971, AFETADOS NOS TERMOS DOS ARTS. 1.036 E 1.037 DO CPC/2015, PENDENTES DE JULGAMENTO. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por SP - 11 Empreendimentos Imobiliários Ltda., com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 599):
+Rescisão cumulada com indenizatória - Atraso na entrega da obra imputável à ré - Inexistência de comprovação de fato de terceiro, caso fortuito ou força maior - Rescisão cabível - Autores que fazem jus à devolução integral das quantias pagas - Cabimento da aplicação da multa moratória de 2% e dos juros de 1% em desfavor da ré - Corretagem e taxa SATI que devem ser suportadas pela ré, pois responsável pela contratação da imobiliária - Quantias que não podem ser devolvidas em dobro, pois não se aplica no caso o CDC 42 - Autores que fazem jus ao ressarcimento dos honorários contratuais - Inocorrência de danos morais - Atraso que não implicou lesão a direito da personalidade dos autores - Recursos e agravo retido improvidos.
+Em suas razões de recurso especial (e-STJ, fls. 613-668), a recorrente alegou violação dos arts. 389, 393, 394, 395, 396, 402, 403, 408, 409, 416, 420, 421 e 725 do Código Civil de 2002 e 36 e 267 do Código de Processo Civil, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que o atraso na entrega da obra decorreu de caso fortuito e força maior; a validade do contrato livremente pactuado; inexistência de responsabilidade pelos danos alegados; não ocorrência de inadimplemento contratual; serem incabíveis a resilição unilateral do contrato e a restituição das parcelas pagas e de cláusula penal; descabida a devolução da corretagem e da taxa SATI; e a impossibilidade de pagamento de honorários advocatícios.
+Não foram apresentadas contrarrazões (e-STJ, fl. 681).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da inexistência de violação dos dispositivos apontados, da incidência da Súmula n. 7 do STJ e da ausência de comprovação do dissídio jurisprudencial (e-STJ, fls. 682-683).
+Brevemente relatado, decido.
+As questões de direito tratadas nos recursos especiais, e acima descritas, foram afetadas pela Segunda Seção como representativas de controvérsia a serem julgadas sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação dos REsps ns. 1.635.428/SC, 1.498.484/DF, 1.614.721/DF e 1.631.485/DF, todas de relatoria do Ministro Luis Felipe Salomão, julgadas em 26/4/2017, DJe 3/5/2017, delimitaram os Temas ns. 970 e 971, nos termos das seguintes ementas:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. COMPRA E VENDA DE IMÓVEIS NA PLANTA. ATRASO NA ENTREGA DO IMÓVEL. CONTROVÉRSIA ACERCA DA POSSIBILIDADE DE CUMULAÇÃO DA INDENIZAÇÃO POR LUCROS CESSANTES COM A CLÁUSULA PENAL.
+1. Delimitação da controvérsia: Definir acerca da possibilidade de cumulação ou não da indenização por lucros cessantes com a cláusula penal, nos casos de inadimplemento do vendedor em virtude do atraso na entrega de imóvel em construção objeto de contrato ou promessa de compra e venda.
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 CPC/2015.
+(ProAfR no REsp n. 1.635.428/SC, Relator o Ministro Luis Felipe Salomão, Segunda Seção, , julgado em 26/4/2017, DJe 3/5/2017).
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. COMPRA E VENDA DE IMÓVEIS NA PLANTA. ATRASO NA ENTREGA DO IMÓVEL. CONTROVÉRSIA ACERCA DA POSSIBILIDADE DE INVERSÃO, A FAVOR DO CONSUMIDOR, DA CLÁUSULA PENAL.
+1. Delimitação da controvérsia: Definir acerca da possibilidade ou não de inversão, em desfavor da construtora (fornecedor), da cláusula penal estipulada exclusivamente para o adquirente (consumidor), nos casos de inadimplemento em virtude de atraso na entrega de imóvel em construção objeto de contrato ou de promessa de compra e venda.
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 CPC/2015.
+(ProAfR no REsp n. 1.614.721/DF, Relator o Ministro Luis Felipe Salomão, Segunda Seção, julgado em 26/4/2017, DJe 3/5/2017).
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do Novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Eis o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
