@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo apresentado por CRISTIANO PEREIRA KIRSCH, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+ADMINISTRATIVO. EMBARGOS DE TERCEIROS. PENHORA SOBRE BEM MÓVEL. LEVANTAMENTO. IMPOSSIBILIDADE.
+1. Com efeito, o art. 674 do CPC/2015 constitui fundamento para a interposição dos embargos de terceiro como meio de, na qualidade de terceiro ao processo de execução, proceder a defesa de sua posse e/ou de sua propriedade contra indevida constrição judicial.
+2. Inviável a liberação da restrição sobre o veículo, uma vez que não comprovação clara da posse do bem (fl. 410).
+Quanto à controvérsia, , alega a violação dos arts. 1.046 do CPC/73, 1.226 e 1.267 do Código Civil e ainda divergência jurisprudencial, no que concerne à comprovação de que o recorrente é terceiro de boa fé e proprietário do bem sobre a qual recai a execução, podendo assim opor embargos de terceiros, trazendo os seguintes argumentos:
+Equivocada a decisão recorrida ao negar provimento à apelação, mantendo a improcedência dos embargos de terceiro, sendo que o fato do automóvel estar no endereço do executado [NOME] não quer dizer que a tradição não ocorreu, sendo que o veículo está na posse do embargante desde 07/12/2010, conforme contrato de compra e venda no evento 1 CONTR6, e apenas por coincidência estava na casa do executado quando do cumprimento do mandado de penhora.
+Não é requisito de validade do negócio jurídico a assinatura reconhecida em cartório, SENDO QUE O CONTRATO POSSUI DUAS TESTEMUNHAS E FOI REALIZADO EM 07/12/2010.
+O contrato de compra e venda é prova válida do negócio jurídico realizado entre o embargante e o executado.
+Os comprovantes de pagamentos do seguro foram realizados pelo embargante, conforme se observa no EVENTO 1 OUT9, PÁGINAS 1, 2 E 4.
+O veículo fora adquirido originalmente pelo executado, mediante contrato de alienação fiduciária, no qual fora pactuado o pagamento de 48 parcelas, no valor de R 699,47 cada, sendo o primeiro vencimento para o dia 23/12/2010.
+Conforme leitura do contrato de compra e venda formalizado entre o executado e o embargante, é possível verificar que tão logo o bem fora adquirido pelo executado, o mesmo fora alienado ao embargante em 07/12/2010 (evento 1 CONTR6).
+De suscitar, que é possível verificar que alguns dos pagamentos foram realizados mediante débito diretamente na conta bancária do embargante (EVENTO 1 OUT9). Além disso, cabe mencionar que o seguro do veículo a comento, apesar de ter como segurado o executado, consta como condutor do veículo o embargante, conforme cartilha de seguro nos autos (evento 1 OUT7).
+Além disto, necessário mencionar que o embargante/apelante adquiriu o veículo a comento em 07/12/2010, de extrema boa- fé, através de contrato particular de compra e venda. Deste modo, considerando que a ação executiva sequer havia sido proposta quando da aquisição do veículo pelo embargante, tem-se que o bem, quando vendido, estava livre e desembaraçado de qualquer ônus (fls. 455/456).
+ ..
+Sendo assim, os fatos ora narrados e as provas anexadas aos autos demonstram claramente que o veículo penhorado é na verdade de propriedade do embargante e não do executado.
+Além do mais, de suma importância destacar que a propriedade do bem móvel a comento (veículo automotor) é transferida mediante simples tradição, conforme prevê a legislação civilista brasileira.
+Importante mencionar que a condição de terceiro do embargante consolida-se a partir do disposto no art. 1.046, do Código de Processo Civil/73 (vigente ao tempo do ajuizamento).
+ ..
+Em razão do disposto no artigo supra mencionada e, considerando que o embargante é o proprietário do veículo constrito judicialmente, conforme bem demonstra a documentação nos autos, tem-se que o mesmo é parte legítima para opor os presentes embargos (fl. 456).
+ ..
+Acerca do cabimento dos presentes Embargos de Terceiro, necessário mencionar que a propriedade de veículo automotor independe da transferência junto ao órgão responsável (DETRAN/RS), eis que a transferência de patrimônio dos bens móveis é realizada mediante simples tradição, conforme prevê o art. 1226 c/c art. 1267, do Código Civil Brasileiro.
+ ..
+ OCORRE QUE A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA FIRMOU O ENTENDIMENTO CRISTALIZADO NA SÚMULA Nº 375, SEGUNDO A QUAL "O RECONHECIMENTO DA FRAUDE À EXECUÇÃO DEPENDE DO REGISTRO DA PENHORA DO BEM ALIENADO OU DA PROVA DE MÁ-FÉ DO TERCEIRO ADQUIRENTE". LOGO, EVIDENTE QUE O EMBARGANTE É TERCEIRO DE BOA-FÉ E ADQUIRIU O AUTOMÓVEL SEM RESTRIÇÃO ALGUMA, EM SINTONIA COM A SÚMULA 375 DO STJ (fl. 457).
+É o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim se manifestou:
+Primeiramente, é de se estranhar que poucos dias após a compra do veículo o executado transferiu o bem para o embargante.
+O embargante também não se desicumbiu de ônus seu, qual seja, comprovar ser o legítimo possuidor do bem.
+O ora apelante, sabendo que não poderia transferir o veículo, pois, estava alienado ao banco, deveria ter colhido as assinaturas, no contrato de compra e venda, em algum tabelionato, a fim de gozar de fé pública quanto à autenticidade da data do negócio.
+Além do que, poderia ter juntado algum laudo pericial comprovando a data da oposição das assinaturas.
+Por fim, como bem referido pelo juiz da causa, tampouco a tradição restou comprovada, uma vez que o bem foi penhorado na posse do executado, que ao ser nomeado depositário  el, nada referiu a respeito de ter transferido a posse a outrem.
+Desse modo, não é possível, com as provas trazidas aos autos, reconhecer o embargante como possuidor do bem (fls. 414/415).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Consigne-se, ainda, quanto à alegação de existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a" e obstaculizada pelo enunciado da Súmula n. 7/STJ, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "Ademais, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso." AgInt no AREsp n. 1.312.148/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/9/2018.
+Confiram-se ainda os seguintes precedentes: AgInt no AgInt no REsp n. 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; AgInt no AREsp n. 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018; AgRg no AREsp n. 695.443/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 25/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
