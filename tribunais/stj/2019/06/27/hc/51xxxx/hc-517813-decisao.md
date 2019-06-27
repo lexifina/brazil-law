@@ -1,0 +1,11 @@
+DECISÃO
+MATUSALÉM PEREIRA alega sofrer coação ilegal em decorrência de acórdão proferido por Desembargador do Tribunal de Justiça do Estado de Santa Catarina que indeferiu liminarmente o HC n. 4028616-44.2018.8.24.0000.
+A defesa alega que o paciente encontra-se recolhido em estabelecimento penal incompatível ao atual regime carcerário, sujeito ao déficit de vagas da unidade prisional, razão pela qual requer a concessão da prisão domiciliar em seu favor.
+Decido.
+Sobre a temática aqui suscitada, em sessão de julgamento realizada no dia 11/5/2016, o Supremo Tribunal Federal, ao reconhecer a repercussão geral nos autos do RE n. 641.320/RS, de relatoria do Ministro Gilmar Mendes, reafirmou que a falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso.
+Tal compreensão resultou consolidada na Súmula Vinculante n. 56 do Supremo Tribunal Federal, in verbis: "A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS".
+É imperioso destacar que não é bastante a concessão de benesses relativas ao regime imposto ao sentenciado, consoante o entendimento do Pretório Excelso, "não deverá haver alojamento conjunto de presos dos regimes semiaberto e aberto com presos do regime fechado".
+Todavia, na hipótese, o Juízo singular, ao negar o pedido defensivo, salientou que "o reeducando não comprovou nenhuma situação excepcional, a ponto de autorizar o uso de tornozeleira eletrônica em prisão domiciliar" (fl. 86). Além disso, asseverou que "o Presídio Regional de Criciúma (Santa Augusta), local de cumprimento de pena do reeducando em questão, é hábil para abrigar detentos em regime semiaberto, possuindo estrutura bastante para esse fim" (fl. 86, destaquei).
+Dessa forma, depreende-se da leitura do excerto acima colacionado, que os presos que cumprem pena em regime semiaberto permanecem encarcerados em instalação adequada, o que não violaria o entendimento do Supremo Tribunal Federal acerca da matéria, conforme demonstrado alhures. Afirmar o contrário exigia a vedada dilação probatória, em sede de habeas corpus.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
