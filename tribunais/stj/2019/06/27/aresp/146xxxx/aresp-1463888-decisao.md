@@ -1,0 +1,21 @@
+DECISÃO
+ Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por [NOME] contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"FALTA DE INTERESSE PROCESSUAL - Inocorrência - A pretensão do autor é de indenização por danos morais em razão das cobranças efetuadas pelos réus, por uma dívida já quitada e não de declaração de quitação do débito já pago - Preliminar afastada.
+RESPONSABILIDADE CIVIL - Danos Morais - Inocorrência - Em que pese a nulidade das cobranças efetuadas após o pagamento da dívida, certo é que o nome do apelante não foi inserido em cadastro de inadimplentes - Questão que se restringiu a esfera particular das partes - Falta de publicidade do fato que poderia denegrir a imagem do apelante - Mero aborrecimento - Precedentes da Corte - Indevida indenização por danos morais - Sentença de improcedência mantida - Recurso desprovido e, por ser a sentença proferida já na vigência do NCPC, são majorados os honorários advocatícios de 10% para 15% do valor da causa (art.
+85, § 11, do NCPC)." (fl. 241)
+Nas razões do recurso especial, o agravante alega violação dos arts. 14, § 1º, do Código de Defesa do Consumidor, e divergência jurisprudencial, sustentando, em síntese, que é devida a reparação por danos morais porque "é incontroverso que houve uma cobrança por dívida já quitada em ação revisional anteriormente proposta e extinta" (fl. 248). Aduz que houve falha na prestação de serviços pela parte recorrida ao ceder crédito já quitado a terceiros, e que houve publicidade do fato para a empresa não participante da relação inicial.
+Apresentadas contrarrazões às fls. 271/282.
+É o relatório.
+De início, quanto à alegada violação do art. 14, § 1º, do CDC , verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foram apreciados pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido."
+(AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe 25/11/2014, g.n.)
+ Melhor sorte não assiste à parte recorrente no que tange à admissibilidade do recurso especial pela alínea "c" do permissivo constitucional. Esta eg. Corte de Justiça tem decidido, reiteradamente, que, para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identificam ou assemelham os casos confrontados, a fim de demonstrar a similitude fática entre os acórdãos impugnado e paradigma, bem como a existência de soluções jurídicas díspares, nos termos dos arts. 1.029, § 1º, do CPC/2015 e 255, § 2º, do RISTJ.
+Contudo, na hipótese dos autos, não houve essa demonstração.
+Da análise dos autos, denota-se que as circunstâncias fáticas expostas nos acórdãos paradigmas divergem do que foi exposto no aresto vergastado. Isso porque, o acórdão paradigma trata de hipótese de cobrança reiterada de valores que a parte jamais contratou com o banco demandado em que houve a inscrição do nome do consumidor nos cadastros restritivos de crédito, situação que gera dano moral in re ipsa.
+Por outro lado, no caso, ora em análise, a cobrança indevida é oriunda de dívida já quitada em ação revisional anteriormente proposta e extinta, sem que houvesse a inscrição em cadastros restritivos de crédito.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos à parte recorrida de 15% (quinze por cento) para 16% (dezesseis por cento).
+Publique-se.
