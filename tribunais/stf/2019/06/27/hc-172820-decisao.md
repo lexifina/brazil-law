@@ -1,0 +1,25 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Excesso de prazo. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que não conheceu do HC 502.461, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que, em 29.10.2018, os pacientes foram presos em flagrante, com conversão em prisão preventiva, pela suposta prática do crime previsto no art. 180 e 289 do Código Penal c/c art. 12 e art. 16, caput, da Lei 10.826/03.
+    3. Foi impetrado habeas corpus no Tribunal de Justiça do Estado de Minas Gerais. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator, Ministro Felix Fischer, não conheceu do writ.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, excesso de prazo para a formação da culpa. Para tanto, alega que os pacientes estão presos há “240 dias, sem previsão de quando vão ter audiência de instrução e julgamento e sem saber quem vai os julgar”; e que “O PROCESSO ESTÁ NO TRIBUNAL PARA JULGAMENTO DO CONFLITO DE COMPETÊNCIA SUSCITADO PELA MM. JUIZ DA PRIMEIRA VARA, NÃO DEVENDO OS RÉUS ARCAREM COM A DEMORA”.
+    5. Prossegue a impetração para afirmar, ainda, que “o protelo não veio da defesa e sim da máquina do Estado”; que “SÃO APENAS DOIS RÉUS, NÃO TEM NECESSIDADE DE NENHUMA EXPEDIÇÃO DE CARTA PRECATÓRIA E NÃO SE TRATA DE NENHUMA OPERAÇÃO, APENAS DE UM FLAGRANTE, NÃO JUSTIFICANDO O EXCESSO DE PRAZO”.
+    6. A defesa requer “o relaxamento e/ou revogação da prisão preventiva imposta aos pacientes”.
+    Decido.
+    7. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do STF, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    8. Inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes. II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte. III – Agravo regimental a que se nega provimento.”
+    9. Por outro lado, o STF já decidiu que a aferição de eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo).
+    10. No caso de que se trata, não verifico ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício. Transcrevo, nesse sentido, as seguintes passagens do acórdão estadual:
+    “(…) Com efeito, o tempo para a configuração de excesso de prazo não se delimita aritmeticamente, devendo ser observadas as peculiaridades de cada caso, à luz dos princípios da proporcionalidade e da razoabilidade
+    Da análise dos autos é fácil a percepção de que se trata de delito complexo, envolvendo delitos de diversas naturezas, com competências distintas.
+    Os pacientes foram presos pela suposta prática do delito de receptação e posse ilegal e irregular de armas de fogo de uso permitido e restrito, sendo estes de competência estadual, e moeda falsa (art. 289, CP), de competência federal.
+    Note-se, portanto, que naturalmente feitos desta natureza demandam uma dilação do prazo processual, mormente pela necessidade de remessa dos autos e, muitas vezes, de desmembramento do feito.
+    Nesse sentido, observo que o feito segue regular processamento, ainda que com conflitos de competência suscitados ao longo de seu deslinde.
+    De mais a mais, como bem apontado pelo d. Procurador de Justiça, os prazos indicados para encerramento da instrução processual ainda não foram exauridos, o que afasta ainda mais a alegação de excesso de prazo”.
+    11. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 27 de junho de 2019.
+Ministro Luís Roberto Barroso
+          Relator
