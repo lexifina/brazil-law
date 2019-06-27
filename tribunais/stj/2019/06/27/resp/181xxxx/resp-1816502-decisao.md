@@ -1,0 +1,7 @@
+DECISÃO
+Verifica-se que a questão jurídica objeto do recurso especial interposto é, efetivamente, a incidência de juros da mora no período compreendido entre a data da expedição do precatório ou da requisição de pequeno valor (RPV) e o efetivo pagamento.
+Ocorre que a matéria teve a sua repercussão geral reconhecida pelo Supremo Tribunal Federal no âmbito dos autos do RE 1.169.289, de relatoria do Min. Marco Aurélio, cujo processamento se encontra pendente naquela Corte (Tema 1.037).
+Dessa forma, verificada a repercussão geral reconhecida pelo Supremo Tribunal Federal, por medida de economia processual e para se evitar decisões dissonantes entre a Corte Suprema e esta Corte Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Nesse contexto, cumpre esclarecer que, somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, o recurso especial deverá ser encaminhado, em sua totalidade, para este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas que não ficaram prejudicadas pelo novo pronunciamento da Corte a quo.
+ANTE DO EXPOSTO, determino o retorno dos autos à Corte de origem, onde, após a deliberação final do STF nos autos do RE 1.169.289, deverá ser realizado o juízo de conformação do acórdão local, nos termos dos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se.
