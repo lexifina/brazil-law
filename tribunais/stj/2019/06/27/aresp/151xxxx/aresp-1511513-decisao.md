@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME], contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+ASSISTÊNCIA JUDICIÁRIA GRATUITA. SIMPLES AFIRMAÇÃO DA FALTA DE CONDIÇÕES DE PAGAR AS DESPESAS DO PROCESSO SEM PREJUÍZO DO SUSTENTO PRÓPRIO OU DA FAMÍLIA QUE CONTÉM VERACIDADE PRESUMIDA. CIRCUNSTÂNCIA QUE NÃO IMPEDE O MAGISTRADO DE INDEFERIR O BENEFÍCIO SE TIVER FUNDADAS RAZÕES PARA TANTO. ELEMENTOS QUE REVELAM CONDIÇÃO FINANCEIRA INCOMPATÍVEL COM A NATUREZA SOCIAL DO INSTITUTO (ARTIGO 98 A 102 DO NCPC). RECURSO DESPROVIDO (fls. 162).
+Quanto à controvérsia, alega violação do art. 99, §§ 1º e 2º, do CPC/2015, no que concerne à concessão do benefício da gratuidade de justiça, trazendo, em síntese, os seguintes argumentos:
+Em que pese tenha restado devidamente comprovado a necessidade da concessão dos benefícios da justiça gratuita, o MM Juízo de primeira instância partindo de premissa equivocada - quem realiza cirurgia plástica não pode ser considerada pobre nos termos da lei - decidiu por indeferi-lo (fls. 170).
+ ..  pode-se afirmar sem sombra de qualquer dúvida, que a Colenda 4a Câmara de Direito Público do Egrégio Tribunal de Justiça do 2 Estado de São Paulo violou o artigo 99, §§1º e 2º do CPC, considerando que deixou de O apreciar o pedido de concessão do benefício da justiça gratuita reiterado em sede de _o o embargos de declaração com os documentos que o acompanhavam (fls. 174).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
