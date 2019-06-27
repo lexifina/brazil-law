@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] e OUTRO, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA - SENTENÇA DE IMPROCEDÊNCIA - ALEGAÇÃO DE NÃO APRECIAÇÃO DE PROVAS E FATOS - INOCORRÊNCIA - AUSÊNCIA DOS REQUISITOS NECESSÁRIOS À PROCEDÊNCIA DO PEDIDO - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+No ordenamento jurídico pátrio, o magistrado é livre para apreciar motivadamente as provas produzidas no processo, dando a elas o valor que bem entender. Por isso, não procede a irresignação dos apelantes quanto à alegação de que os fatos e provas não foram devidamente analisados pelo Magistrado sentenciante.
+Sabe-se que para a aquisição da propriedade por esta espécie de usucapião, indispensável seria a prova da posse sem oposição, o que não ocorreu, tendo em vista o ajuizamento da reintegratória pelo proprietário do imóvel.
+Em que pese os apelantes aduzirem a posse mansa e pacífica exercida por si, os autos evidenciam, isto sim, a litigiosidade quanto ao referido imóvel, não se constatando a característica de posse sem oposição como exige a legislação (fls. 593/594).
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, alega a violação dos arts. 1.238 caput e seu parágrafo único, do CC e 493 do CPC, trazendo o seguinte acórdão paradigma: REsp 1.361.226/MG, da Terceira Turma do STJ.
+É o relatório. Decido.
+Na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico a fim de demonstrar a existência de identidade jurídica e similitude fática entre o acórdão recorrido e o paradigma indicado.
+Nesse sentido: "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório" (AgInt no AREsp n. 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/4/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 535.444/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 1/4/2019; REsp n. 1.773.244/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 5/4/2019; e AgInt no AREsp n. 1.358.026/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1º/4/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
