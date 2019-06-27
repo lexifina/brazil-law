@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por ERICK REIS STORCH contra acórdão exarado pelo eg. Tribunal de Justiça do Estado do Minas Gerais (TJ-MG).
+Cuidam os autos, na origem, de ação cominatória com indenização proposta por ERICK REIS STORCH contra HOTT VEÍCULOS LTDA.
+O il. Magistrado julgou improcedente o pedido (sentença às fls. 133/140).
+Diante disso, ERICK REIS STORCH interpôs apelação, a qual foi desprovida pelo eg. TJ-MG, nos termos do v. acórdão, assim ementado (fl. 185):
+"EMENTA: APELAÇÃO CÍVEL - VEÍCULO - DAÇÃO EM PAGAMENTO - CDC - INAPLICABILIDADE - ARTIGO 134 DO CTN - TRANSFERÊNCIA DO BEM - COMUNICAÇÃO AO DETRAN - OMISSÃO - ÔNUS DO ANTIGO PROPRIETÁRIO - INDENIZAÇÃO - IMPROCEDÊNCIA DO PEDIDO.º negócio jurídico consubstanciado na entrega de veículo como forma de pagamento de parte do preço de outro, não se subsume às disposições do estatuto consumerista, haja vista que as partes não se ajustam aos conceitos insertos nos artigos 2º e 3º do aludido "codex". A teor do disposto no artigo 134 do Código de Trânsito Brasileiro, é ônus do antigo proprietário do veículo comunicar ao órgão executivo de trânsito sobre sua transferência a outrem, não prosperando o pedido indenizatório fundado nos prejuízos causados pelo terceiro adquirente do bem, porquanto decorrentes desta conduta omissiva."
+Os embargos de declaração opostos foram rejeitados (acórdão de fls. 199/201).
+Inconformado, ERICK REIS STORCH manejou o presente recurso especial, com fulcro no art. 105, inciso III, alíneas "a", da CF/88, no qual alega violação dos arts. 2º, 3º, 6º, inciso VI, e 14 do CDC.
+Contrarrazões às fls. 214/221.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+No apelo nobre que pretende trânsito, sustenta o recorrente violação dos arts. 2º e 3º do CDC, ao argumento de que a relação firmada com o recorrido atrai a incidência das regras consumeristas. Afirma que a forma de adimplemento contratual - através da dação em pagamento - seria insuficiente para aferir a natureza dessa relação.
+O eg. TJ-MG, por sua vez, mediante análise soberana das provas existentes nos autos, assentou que as partes não preencheram os requisitos contidos nos arts. 2º e 3º do CDC para enquadrá-los como consumidor e fornecedor, especialmente porque o recorrente não adquiriu o veículo como destinatário final. Para fins demonstrativos, colacionam-se os seguintes trechos do v. acórdão estadual (fls. 187/188):
+"No caso em apreço, o alvo da irresignação não se refere ao veículo comercializado pela apelada. mas sim aquele que ela recebera do apelante, pessoa física.
+Assim, não há se falar em aplicabilidade do CDC ao negócio jurídico consubstanciado na entrega do veículo, outrora de propriedade do apelante, como forma de pagamento de parte do outro, haja vista a inversão das proposições delineadas nos artigos supra transcritos.
+Isso porque, a dação em pagamento, promovida pelo apelante, não é hábil a caracterizá-lo como fornecedor, e, doutro lado, o seu recebimento como forma de pagamento não transforma a apelada em consumidora, haja vista que não o adquiriu como destinatária final, tanto assim que o revendeu a terceira pessoa.
+A entrega de veículo como forma de pagamento parcial do preço de outro, não se subsume às disposições do estatuto consumerista, haja vista que as partes não se ajustam aos conceitos insertos nos artigos 2º e 3º do aludido "codex" Destarte, não há se falar em responsabilidade objetiva e nem mesmo inversão do ônus probatório.
+Adentrando ao cerne da controvérsia, busca o apelante a responsabilização da empresa apelada pelos danos materiais e morais decorrentes da ausência de transferência da propriedade do veículo Kia Tower, ano 1996 placa GVV 0558, entregue à apelada como parte do preço do Dodger Magnum, ano 1979, placa PN 8283, conforme transação realizada em 03 de julho de 2000.
+Ao que se colhe, referido bem foi vendido pela apelada, em 17 de agosto de 2000, a [NOME], permanecendo, todavia, em nome do apelado junto ao DETRAN -MG, fato este que motivou os lançamentos de multas e impostos do aludido bem em seu nome."
+Com efeito, a jurisprudência deste Sodalício é no sentido de que será consumidor quando a pessoa física ou jurídica adquirir o produto ou serviço como destinatária final, aplicando-se, via de regra, a Teoria Finalista. Nessa linha de intelecção, confiram-se:
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS EMBARGANTES.
+(..)
+3. Consoante a jurisprudência desta Corte, o Código de Defesa do Consumidor não se aplica no caso em que o produto ou serviço é contratado para a implementação de atividade econômica, já que não estaria configurado o destinatário final da relação de consumo (teoria finalista ou subjetiva). Tribunal de origem que afirma ter o financiamento sido obtido para o fomento da economia da empresa, não se enquadrando essa como consumidora para efeito da incidência do diploma consumerista. Incidência do óbice da súmula 7/STJ.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 374.143/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/08/2018, DJe 17/08/2018, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. PRINCÍPIOS DA LIBERDADE DE CONTRATAÇÃO E DA BOA-FÉ OBJETIVA. ANÁLISE DAS CLÁUSULAS CONTRATUAIS E CONCLUSÕES FÁTICAS DO TRIBUNAL. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. 2. RELAÇÃO DE CONSUMO COMPROVADA. TEORIA FINALISTA. REVER O ARCABOUÇO PROBATÓRIO. ALTERAR O ENTENDIMENTO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+(..)
+2. No que concerne à incidência das normas do direito consumerista, o entendimento desta Corte se firmou no sentido de que "consumidor é toda pessoa física ou jurídica que adquire ou utiliza, como destinatário final, produto ou serviço oriundo de um fornecedor. Por sua vez, destinatário final, segundo a teoria subjetiva ou finalista, adotada pela Segunda Seção desta Corte Superior, é aquele que ultima a atividade econômica, ou seja, que retira de circulação do mercado o bem ou o serviço para consumi-lo, suprindo uma necessidade ou satisfação própria, não havendo, portanto, a reutilização ou o reingresso dele no processo produtivo" (REsp 1.352.419/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/8/2014, DJe 8/9/2014). 2.1. Diante disso, a Corte local entendeu pela descaracterização da parte recorrida como consumidor final, e sua revisão atrai o óbice da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1145828/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/06/2018, DJe 29/06/2018, g.n.)
+In casu, o eg. TJ-MG, mediante análise soberana das provas existentes nos autos, a partir de premissa fática, concluiu que o recorrente não é destinatário final. Assim, a pretensão de alterar esse entendimento demandaria revolvimento fático e probatório, providência incompatível com o recurso especial, a teor da Súmula n.7/STJ.
+Por fim, diante da inexistência de relação de consumo, resta prejudicada a análise quanto aos arts. 6º, inciso VI, e 14 do CDC.
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RI-STJ, nego provimento ao recurso especial.
+Publique-se.
