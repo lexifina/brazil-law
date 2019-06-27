@@ -1,0 +1,17 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra acórdão proferido no âmbito do Superior Tribunal Militar (HC 7000177-85.2019.7.00.0000), assim ementado (eDOC 1, p. 15):
+    HABEAS CORPUS. PEDIDO DE LIMINAR. SOBRESTAMENTO DA EXECUÇÃO PENAL. INDEFERIMENTO. MÉRITO. DECLARAÇÃO DA NULIDADE DA DECISÃO QUE CONSIDEROU O RÉU INTIMADO DA SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. INTIMAÇÃO PESSOAL DO SENTENCIADO. AUSÊNCIA DE NULIDADE. DENEGAÇÃO. DECISÃO POR MAIORIA. A liminar foi indeferida em função da carência dos elementos imperiosos para sua outorga, quais sejam, o fumus boni iuris e o periculum in mora. Conforme preceitua o art. 445, alínea "b", do CPPM, a intimação da sentença condenatória será feita, pessoalmente, caso o réu esteja na condição de preso. No presente caso, o réu encontrava-se em liberdade. Ausente disposição legal que implique na intimação pessoal do réu solto que não se apresente à sessão de leitura e publicação da sentença, não há que ser declarada a nulidade da decisão que considerou o réu intimado da sentença penal condenatória, tampouco, que se promova a intimação pessoal do sentenciado quanto ao teor da sentença que o condenou. Ordem denegada. Decisão por maioria.
+    Narra o impetrante, em síntese, que: a) o paciente foi condenado à pena de 6 (seis) meses de detenção como incurso nas penas do art. 187, caput, do CPM, tendo-lhe sido concedida a suspensão condicional da pena pelo prazo de 2 (dois) anos; b) há nulidade consistente na ausência de ato intimatório da sentença condenatória, pois, embora conste da ata de audiência que acusado foi dispensado da sessão de leitura da sentença, ele não foi intimado da decisão, em ofensa ao princípio da ampla defesa.
+    À vista do exposto, requer, em liminar, a suspensão dos efeitos do ato impugnado e, ao final, a cassação do acórdão apontado como coator, com a declaração de nulidade “da Decisão [...] que considerou o Paciente, intimado da Sentença penal condenatória e, via de consequência, firmou o trânsito em julgado”.
+    É o relatório. Decido.
+    Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni iuris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que, nesta sede de cognição, não se confirmou.
+    Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual indefiro a liminar, sem prejuízo de ulterior análise.
+    Solicitem-se informações ao Superior Tribunal Militar (HC 7000177-85.2019.7.00.0000) em expediente a ser acompanhado de cópias da inicial e desta decisão.
+    Após, se vista à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 27 de junho de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
