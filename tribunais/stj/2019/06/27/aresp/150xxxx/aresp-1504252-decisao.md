@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por TEPEBE EMPREENDIMENTOS E PARTICIPAÇÕES S/C LTDA, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"Ação anulatória de lançamento fiscal. ISSQN e multas por descumprimento de obrigação acessória. Prescrição de parte da pretensão anulatória da autora, posto haver decorrido mais de cinco anos entre a constituição do crédito e o ajuizamento da ação prescrição da pretensão relacionada aos débitos anteriores a 17.10.09. No mérito, tem-se situação de pessoa jurídica que não está sediada no Município-réu, não tendo prestado serviços em seu território. Inocorrência do fato gerador do tributo. As multas não possuem causa legal para sua existência, eis que a legislação municipal as impinge apenas às empresas sediadas no território campinense. Condenação do Município ao pagamento das custas e despesas processuais, bem como honorários advocatícios, ante a aplicação do princípio da causalidade.
+Dá-se provimento ao recurso da autora e parcial provimento ao recurso do réu, nos termos do acórdão" (fl. 411e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 3º da Lei nº 6.830/80, 116, II e III, 142, 203 e 204, do CTN. Para tanto, sustenta o seguinte:
+"2 - Da Inexistência de Prescrição
+Seguindo a linha de raciocínio traçada, evidencia-se que se não ocorreu o fato gerador do tributo, não há como ter um lançamento válido e, neste caso, não há que falar em cobrança do tributo.
+Isto porque o art. 142 do CTN diz que o lançamento é o ato pelo qual a autoridade tributante verifica a ocorrência do fato gerador, dentre outras coisas.
+Se há constatação, nos autos, no acórdão recorrido, de que o fato gerador não ocorreu porque a Recorrente encerrou sua filial no município Recorrido em 2001, como poderia haver um lançamento válido referente ao ISS do exercício de 2003 em diante
+Qualquer lançamento que tenha sido realizado pelo ente tributante no caso em tela é considerado nulo de pleno direito, ou seja, um ato que não produz qualquer efeito jurídico. A inexistência do fato gerador leva, invariavelmente, à inexistência da cobrança do tributo e, nesse sentir, não há que falar em prescrição da pretensão de impugnação.
+Mesmo porque, seria absurdo admitir que o Recorrido possa continuar cobrando a Recorrente em ação de execução fiscal, como está fazendo, e que a Recorrente não possa alegar a nulidade do crédito tributário por uma suposta prescrição genérica.
+Consta do acórdão recorrido:
+(..)
+O que se deve ter em mente é que a nulidade não convalida o ato jurídico. Assim, não ocorrido o fato gerador, não há lançamento válido do ISS. Sem lançamento, não há prescrição da pretensão de impugnar o lançamento tributário.
+Não se pode impor à Recorrente a prescrição para anular algo que sempre foi nulo, que nunca gerou efeitos jurídicos, que não tem validade no ordenamento jurídico, que inexiste.
+Admitir, como de fato admitido tem-se, a não ocorrência do fato gerador do ISSQN no período de 2003 a 2012, e, ao mesmo tempo, reconhecer a prescrição da pretensão de impugnar o lançamento desse ISSQN referente ao período de 2003 a 2009 é totalmente contraditório e fere diversos dispositivos de lei federal.
+Ou não ocorreu o fato gerador e, por consequência, não há crédito tributário constituído, ou ocorreu o fato, o crédito foi constituído e ocorreu a prescrição. Não se pode ter quanto ao mesmo crédito tributário: não ocorrência do fato gerador e prescrição da pretensão de impugnar o lançamento.
+O MM. Desembargador equivocou-se ao proferir o acórdão, pois deveria ter reconhecido, assim como o fez o MM. Magistrado a quo na sentença, a impossibilidade do Recorrente cobrar um tributo sem que tenha sido verificada a subsunção do fato à norma. Não se pode admitir que prescreveu o direito da Recorrente de defender- se de algo que sequer foi constituído e que está sendo cobrado pelo Recorrido.
+3 - Presunção Relativa de Liquidez da CDA
+O art. 3º da Lei nº 6.830/80, assim como os artigos 201 e 202 do CTN, dispõem que a certidão de dívida ativa presume-se líquida, certa e exigível. Isto quer dizer que cabe prova em contrário por tratar-se de uma presunção relativa.
+A Recorrente demonstrou que as certidões de dívida ativa cobradas pelo Recorrido a partir 2003 relativas ao ISSQN-fixo são nulas de pleno direito, posto que não ocorreu o fato gerador do tributo, qual seja, a prestação de serviços constante da lista anexa à LC 116/2003, porque a Recorrente encerrou suas atividades no município de Campinas em 2001.
+A não ocorrência do fato gerador está demonstrada no acórdão recorrido, nas palavras do D. Desembargador -Relator.
+Ao se reconhecer que a Recorrente não pode impugnar o lançamento tributário porque ultrapassado o prazo de 5 anos previsto no art. 1º do Decreto 20.910/32, estar-se-á cobrando um tributo sem a subsunção do fato à norma, ou seja, estar- se-á autorizando o ente tributante a cobrar por algo que não existe no mundo jurídico, por uma hipótese de incidência sem a incidência.
+Ausente certidão de dívida ativa válida, impossível a cobrança do crédito tributário e, portanto, não há que falar em prescrição para impugná-la.
+A Recorrente está sendo cobrada por um tributo inexistente e não constituído, que não tem origem porque não ocorreu o fato gerador. Assim, não se pode falar que há prazo para essa alegação.
+O art. 142 do CTN dispõe que o lançamento é o procedimento adotado pela autoridade administrativa a fim de verificar a ocorrência do fato gerador da obrigação tributária. Ora, se o acórdão recorrido reconhece que NÃO OCORREU O FATO GERADOR, como pode manter a cobrança do tributo sob alegação de prescrição da pretensão impugnar o lançamento  É totalmente contraditório!
+(..)
+Evidente que a manutenção do acórdão como proferido fere o art. 142, CTN.
+Igualmente, reconhecer a prescrição alegada pelo Recorrido fere os artigos 203 e 204 do CTN, pois se o "erro" relativo a quaisquer dos requisitos previstos no art. 202 são causas de nulidade da inscrição e do processo de cobrança dela decorrente, é indene de dúvidas que a dívida cobrada pelo Recorrido é nula, pois se baseia em um fato não ocorrido:
+(..)
+Vejam: nulidade e não anulação.
+Com fundamento na própria lei, a existência de uma das causas de nulidade de um negócio jurídico leva ao reconhecimento da sua nulidade através do seu reconhecimento judicial. E o direito à esta ação judicial, segundo a legislação atual, é imprescritível. Significa dizer que a invalidade absoluta existente em um negócio jurídico não se convalesce pelo decurso do tempo.
+Nulidade de pleno jure, isto é, aquela que se caracteriza pela relevância, em seus fundamentos, de interesse de ordem pública. Opera ipso jure, pode ser alegada por qualquer interessado, pelo Ministério Público ou pelo juiz, quando conhecer do ato ou de seus efeitos e a encontrar provada, como o caso dos autos. Reconhecida a não ocorrência do fato gerador, é dever do juiz reconhecer a impossibilidade da cobrança pela nulidade de pleno direito do suposto crédito tributário.
+Ao se reconhecer que ocorreu prescrição da pretensão da Recorrente, este E. Tribunal estará autorizando a cobrança de tributo sem a hipótese de incidência. O v. acórdão recorrido feriu diversos dispositivos de lei federal, dentre eles o art. 3º da Lei nº 6.830/80, o artigo 116, inc. II e III, arts. 142, 203, 204 do CTN" (fls. 424/428e).
+Por fim, requer "seja o presente recurso conhecido e provido para o fim de reformar o v. acórdão hostilizado, reformando-se o v. acórdão recorrido, reconhecendo a inaplicabilidade do art. 1º do Decreto 20.910/32 ao caso em tela, reconhecendo-se a inexigibilidade dos débitos de ISSQN a partir de 2001, data em que a Recorrente encerrou sua filial no município Recorrido" (fl. 428e).
+Sem contrarrazões (fl. 431e).
+Inadmitido o Recurso Especial (fl. 432e), foi interposto o presente Agravo (fls. 434/443e).
+Não foi apresentada contraminuta (fl. 445e).
+A irresignação não merece conhecimento.
+Para melhor elucidação, transcrevo a fundamentação do acórdão recorrido, no que interessa à espécie:
+"No mais, insta reconhecer a prescrição de parte da pretensão anulatória da autora.
+Por não haver norma específica disciplinando a prescrição da pretensão de impugnar o lançamento tributário, aplica-se ao caso a regra geral prevista para as ações propostas contra a Fazenda Pública (art. 1º do Decreto 20.910/32). Logo, o prazo prescricional é de 5 anos, contados data do ato ou fato que originou a ação
+Destarte, no momento do ajuizamento da ação (17 de outubro de 2014) a pretensão referente à anulação dos créditos constituídos antes de 17 de outubro de 2009 já estava prescrita, posto já haver decorrido mais de cinco antes da constituição respectiva e o ajuizamento do processo" (fl. 414e).
+De plano, verifica-se que não houve análise pelo Tribunal a quo dos dispositivos apontados como violados. Por simples cotejo das razões recursais e dos fundamentos do acórdão, percebe-se que as teses recursais atreladas aos preceitos invocados não foram apreciadas no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada. Ressalte-se que a parte sequer opôs Embargos Declaratórios.
+Diante desse contexto, a pretensão recursal esbarra em vício formal intransponível, qual seja, da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo, por analogia, o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. (..).
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. (..).
+7. Agravo interno não provido" (STJ, AgInt no AREsp 1.152.254/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 18/05/2018).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+I.
