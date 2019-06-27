@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça de São Paulo, mantendo, na íntegra, a sentença que condenou [NOME] à pena de 2 (dois) anos e 4 (quatro) meses de reclusão, em regime fechado, mais 11 (onze) dias-multa, por infração ao art. 155, §4º, II, do Código Penal.
+Nas razões do especial, fulcrado na alínea "a" do permissivo constitucional, alega a Defensoria Pública ofensa aos arts. 1º, 33, §2º, "b" e "c" e §3º, 59, III, e 155, §4º, II, do Código Penal e art. 386, III, do Código de Processo Penal.
+Aduz que o furto de objetos avaliados em R$ 210,00 (duzentos e dez reais) não constitui lesão relevante, impondo-se a aplicação do princípio da insignificância e a absolvição do recorrente.
+Invocando as Súmulas n. 718 e 719 do STF e 269 do STJ, prossegue insurgindo-se contra o regime prisional fechado, imposto para o início do cumprimento da pena.
+Pugna, assim, pelo provimento do recurso, absolvendo o recorrente. Subsidiariamente, requer a alteração do regime prisional para semiaberto.
+Contra-arrazoado (e-STJ fls. 429/440), o recurso foi inadmitido (e-STJ fls. 443/444), motivando o presente agravo.
+Contraminuta às e-STJ fls. 461/469 e manifestação ministerial, nesta instância, pelo não conhecimento do recurso, em parecer assim ementado (e-STJ fl. 479):
+AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. ARTIGO 155, §4º, INCISO II DO CÓDIGO PENAL. PLEITO PELA APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. RELEVÂNCIA DA LESÃO PATRIMONIAL. CONSIDERÁVEL VALOR DOS BENS SUBTRAÍDOS. MULTIRREINCIDÊNCIA EM CRIMES CONTRA O PATRIMÔNIO. REGIME INICIAL FECHADO DEVIDAMENTE FUNDAMENTADO. VERBETE N. 83/STJ. CONHECIMENTO DO AGRAVO PARA NÃO CONHECER O RECURSO ESPECIAL.
+É o relatório. Decido.
+O agravo é tempestivo e foram impugnados os fundamentos do despacho de inadmissibilidade.
+Passo, então, a análise do recurso especial.
+Sem razão o recorrente.
+O STF já consagrou o entendimento no sentido de ser possível a aplicação do princípio da insignificância, desde que observada a presença dos seguintes vetores: (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada" (HC 98.152/MG, Rel. Ministro CELSO DE MELLO, Segunda Turma, DJe 5/6/2009).
+Isso porque, segundo o Excelso Pretório, a lei penal não deve ser invocada para atuar em hipóteses desprovidas de significação social, razão pela qual os princípios da insignificância e da intervenção mínima surgem para atuar como instrumentos de interpretação restrita do tipo penal.
+No caso, todavia, o recorrente foi condenado por subtrair, em 17/09/2015, mediante escalada, 4 (quatro) brincos, 2 (duas) pulseiras, 1 (um) bracelete e 1 (um) cinto, avaliados em R$ 210,00 (duzentos e dez reais), valor equivalente a aproximadamente 27 (vinte e sete por cento) do salário mínimo vigente à época dos fatos, não havendo que se falar em insignificância penal.
+E, como bem destacado pelo acórdão recorrido, "não se pode ignorar o alto grau de reprovação da conduta, que se deu no interior da residência da vítima, local protegido constitucionalmente, não se olvidando, como se verá adiante, dos maus antecedentes e reincidência do agente, tudo a obstar o reconhecimento da insignificância." (e-STJ fl. 400)
+Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. FURTO. PRISÃO PREVENTIVA. ALEGAÇÃO DE FUNDAMENTAÇÃO INIDÔNEA DA PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. TRANCAMENTO DA AÇÃO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - A jurisprudência pacífica desta Corte é no sentido de que se o paciente é reincidente ou possuidor de maus antecedentes, indica a reprovabilidade do comportamento a afastar a aplicação do princípio da insignificância (precedentes)
+IV - Na hipótese, o paciente é contumaz na prática delitiva. Além disso, consta ainda que o valor da res furtiva - R$ 210,00 -, ultrapassa 10% (dez por cento) do salário mínimo vigente à época do crime (R$ 954,00 em 2018), não podendo ser considerado desprezível a autorizar a incidência do princípio da insignificância. Dessa forma, na linha de precedentes desta Corte, mostra-se incompatível o princípio da insignificância com sua conduta. . (HC 455.712/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 25/09/2018, DJe 02/10/2018)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. VALOR EXPRESSIVO DO BEM SUBTRAÍDO E REITERAÇÃO DELITIVA. INAPLICABILIDADE. AGRAVO DESPROVIDO.
+1. O princípio da insignificância reafirma a necessidade de lesão jurídica expressiva para a incidência do direito penal, afastando a tipicidade do delito em certas hipóteses em que, apesar de típica a conduta, não houve dano juridicamente relevante. No entanto, o bem furtado foi avaliado em R$ 160,92, montante expressivo, porquanto equivalente a aproximadamente 18,18% do salário mínimo à época dos fatos. Precedentes.
+2. A jurisprudência desta Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo, excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante de circunstâncias concretas, o que não ocorre no caso dos autos.
+3. Agravo regimental desprovido. (AgRg no REsp 1710254/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/05/2018, DJe 30/05/2018)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. TENTATIVA DE FURTO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. BENS AVALIADOS EM R$ 129,23. VALOR SUPERIOR A 10% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. REITERAÇÃO EM CRIMES CONTRA O PATRIMÔNIO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+ ..
+2. No caso concreto, o furto teria sido praticado no dia 6/4/2016, quando o salário mínimo estava fixado em R$ 880,00 (oitocentos e oitenta reais). Seguindo a orientação jurisprudencial desta Corte, o valor total dos bens em tese subtraídos, avaliados em R$ 129,23 (cento e vinte e nove reais e vinte e três centavos), não é considerado ínfimo, por ultrapassar 10% do salário mínimo mínimo vigente à época dos fatos.
+3. Segundo a jurisprudência deste Tribunal Superior, a circunstância do agente ter histórico com reiteração delitiva em delitos contra o patrimônio reveste maior reprovabilidade na sua conduta, obstando, portanto, a aplicação do princípio da insignificância.
+Habeas corpus não conhecido. (HC 443.677/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 17/05/2018, DJe 01/06/2018)
+Melhor sorte, não assiste à defesa quando pugna pelo abrandamento do regime prisional.
+Isto porque o recorrente, além de reincidente específico, é portador de maus antecedentes, circunstâncias que justificam a imposição do regime fechado, não obstante a pena definitiva seja inferior a 4 (quatro) anos.
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. FURTO QUALIFICADO. DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES. FOLHA DE ANTECEDENTES CRIMINAIS. DOCUMENTO APTO PARA CONFIGURAR A CIRCUNSTÂNCIA JUDICIAL E A REINCIDÊNCIA. MAUS ANTECEDENTES E REINCIDÊNCIA. BIS IN IDEM. NÃO OCORRÊNCIA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS E ACUSADO REINCIDENTE. NÃO APLICAÇÃO DA SÚMULA N. 269 DESTA CORTE. REGIME FECHADO MANTIDO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - "A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC 400.119/RJ, Quinta Turma, Rel.
+Min. Reynaldo Soares da Fonseca, DJe 1º/8/2017).
+III - A jurisprudência desta Corte tem posicionamento firme no sentido de considerar a folha de antecedentes criminais documento hábil e suficiente para comprovar os antecedentes e a reincidência do réu.
+IV - Em relação às condenações pretéritas, essas podem ser utilizadas tanto para valorar os maus antecedentes na primeira fase, quanto para agravar a pena na segunda fase, a título de reincidência, sem acarretar em bis in idem, desde que as condenações sejam de fatos diversos, conforme ocorreu no presente caso V - Conforme o teor da Súmula n. 269/STJ, o réu reincidente condenado a pena igual ou inferior à 04 (quatro) anos, com circunstâncias judiciais totalmente favoráveis, poderá iniciar o cumprimento da reprimenda em regime semiaberto.
+VI - In casu, inexiste flagrante ilegalidade a ensejar a concessão da ordem de ofício, uma vez que a valoração negativa das circunstâncias judiciais, somadas à reincidência, afasta a incidência do enunciado nº 269 da Súmula do Superior Tribunal de Justiça.
+Habeas Corpus não conhecido. (HC 509.192/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/06/2019, DJe 11/06/2019)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. REGIME FECHADO. MAUS ANTECEDENTES. REINCIDÊNCIA. PENA INFERIOR A 4 ANOS.
+AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É correta a imposição de regime inicial fechado a réu reincidente e com circunstância judicial negativa ainda que o total da pena seja inferior a 4 anos.
+2. Agravo regimental não provido. (AgRg no REsp 1756349/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 02/04/2019, DJe 10/04/2019)
+Diante do exposto, com fulcro no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
