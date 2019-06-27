@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se habeas corpus com pedido liminar interposto por EVERTON DA COSTA RIBEIRO - contra decisão liminar do Tribunal Regional Federal da 2ª Região (HC n.0002384-74.2019.4.02.0000).
+Segundo consta dos autos, o paciente, juntamente com outras pessoas, teve sua prisão preventiva decretada em 28 de maio de 2019, pela suposta prática dos delitos de corrupção ativa e passiva, lavagem de dinheiro e peculato, no âmbito da operação "Titanium" (e-STJ fls. 217/283).
+Informa, que foi revogada a prisão preventiva do corréu [NOME], mediante a aplicação de medidas cautelares diversas da prisão, acusado de praticar os mesmos fatos delituosos.
+Dessa decisão, impetrou habeas corpus com pedido liminar, junto ao Tribunal, requerendo a extensão do benefício concedido ao corréu.
+O Relator no Tribunal de origem, contudo, indeferiu a liminar (e-STJ fls. 289/293).
+Na presente oportunidade, a defesa requer a extensão do benefício concedido ao corréu [NOME], asseverando (e-STJ fl. 6):
+(i) ABSURDA FUNDAMENTAÇÃO da necessidade de prisão preventiva do Paciente, sob o argumento de que não se convenceu de que há estrita equivalência entre a situação jurídica do Paciente e a de [NOME];
+(ii) INUSITADA JUSTIFICATIVA de que foram, implicitamente, consideradas circunstâncias de ordem pessoal de [NOME], que justificaram a adequação de certas medidas cautelares diversas da prisão, violando, sobremaneira, o artigo 93, IX, da Constituição Federal, bem como o artigo 315, do Código de Processo Penal;
+(iii) INOBSERVÂNCIA da obrigatoriedade contida no artigo 580, do Código de Processo Penal.
+Diante disso, requer em liminar e no mérito, a revogação da prisão preventiva do paciente, com a extensão do benefício concedido ao corréu, tudo com superação do enunciado n. 691/STF.
+É o relatório, decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+No caso, ao que parece, o Tribunal impetrado, ao indeferir o pedido de extensão entendeu não haver equivalência entre a situação jurídica do paciente e a do corréu beneficiado com a aplicação de medidas cautelares. Veja-se o teor (e-STJ fls. 291/293):
+(..)Isso porque, também com relação aos ora requerentes, a decisão de decretação da prisão preventiva não incorreu em teratologia, descompasso com a CRFB/1988, manifesta ilegalidade ou abuso de poder, além de não confrontar precedente segundo a sistemática do CPC/2015 ou posicionamento pacificado pelos membros desta Corte ou Tribunais Superiores sobre a matéria em questão.
+Ademais, após considerar as referências às provas e indícios que embasaram a decisão de decretação da prisão preventiva, não me convenci de haver estrita equivalência entre a situação jurídica dos ora requerentes e a de [NOME] MARTINS [NOME] DA HORA.
+Ressalto que, muito embora não tenha constado na decisão de fls. 1216/1218 referência expressa a circunstâncias de ordem pessoal, naturalmente foram por mim consideradas, ainda que implicitamente, para concluir pela adequação de certas medidas cautelares diversas da prisão ao único paciente neste feito, encontrando-se subentendidas por força do disposto no art. 282, I e II, do CPP:
+Art. 282. As medidas cautelares previstas neste Título deverão ser aplicadas observando-se a: (Redação dada pela Lei nº 12.403, de 2011).
+I - necessidade para aplicação da lei penal, para a investigação ou a instrução criminal e, nos casos expressamente previstos, para evitar a prática de infrações penais; (Incluído pela Lei nº 12.403, de 2011).
+II - adequação da medida à gravidade do crime, circunstâncias do fato e condições pessoais do indiciado ou acusado.
+Portanto, assim como não há que se falar em imediato aproveitamento aos ora requerentes dos motivos que ensejaram a concessão de liminar em favor de [NOME], não resta afastada neste momento processual a necessidade de custódia cautelar desses investigados para fim de garantia da ordem pública e conveniência da instrução criminal, conforme decidido pela autoridade impetrada.
+Enfim, não restando configurados neste momento processual o fumus boni iuris e o periculum in mora a ensejar risco de dano irreparável aos requerentes decorrente da manutenção de suas prisões preventivas, INDEFIRO todos os pedidos de extensão..
+Assim, não se verifica manifesta ilegalidade na decisão que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte. Entendo que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
