@@ -1,0 +1,10 @@
+DECISÃO
+Chamo o feito a ordem.
+A certidão de e-STJ fls. 789/790 declara que o presente recurso especial foi autuado, equivocadamente, com os volumes de recursos especiais distintos: um referente ao de [NOME] e FRANCISCA MEIRA DA [NOME] em face da CAIXA ECONÔMICA FEDERAL; e o outro referente ao da EMPRESA MUNICIPAL DE SERVIÇOS URBANOS - EMSURB em face da CAIXA ECONÔMICA FEDERAL.
+Também consta na referida certidão que o recurso especial correto dos recorrentes [NOME] e FRANCISCA MEIRA foi autuado como REsp 1.613.780/PB (2016/0184615-1), e após sua admissão pela Presidência do STJ, o processo foi suspenso com determinação de devolução ao Tribunal de origem pela existência do Tema 909 do STJ em 26/09/2016.
+Com o cancelamento do Tema 909 do STJ, a autuação do referido recurso de [NOME] e FRANCISCA MEIRA foi restabelecida, em 28/05/2019, para seu regular julgamento.
+A partir deste cenário, a Presidência do STJ determinou o desentranhamento dos documentos de fls. 1/221, e sua autuação como recurso especial de EMPRESA MUNICIPAL DE SERVIÇOS URBANOS - EMSURB em face da CAIXA ECONÔMICA FEDERAL (e-STJ fl. 798).
+Em respeito à determinação da Presidência, a Chefe de Seção da Coordenadoria de Processamento de Feitos de Direito Privado do STJ informou que o recurso especial da EMPRESA MUNICIPAL DE SERVIÇOS URBANOS - EMSURB em face da CAIXA ECONÔMICA FEDERAL, foi autuado como REsp 1.814.145/SE e distribuído ao Ministro Napoleão Nunes Maia Filho (e-STJ fl. 803).
+Quanto a este recurso especial, distribuído à minha relatoria e não conhecido pela aplicação da Súmula 115 do STJ, de fato, verifica-se que a peça do REsp 1.613.780/PB, autuado corretamente conforme certidão do Secretário dos Órgãos Julgadores do STJ (e-STJ fl. 789/790), é idêntica a peça de e-STJ fls. 632/668.
+Forte nessas razões, com fundamento no art. 34, I do RISTJ, torno sem efeito as decisões de e-STJ fls. 712/713, 771 e 781/784, a certidão de trânsito em julgado de e-STJ fl. 787, e determino o cancelamento da distribuição do presente recurso.
+Publique-se. Intimem-se.
