@@ -1,0 +1,19 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXPURGOS INFLACIONÁRIOS EM DEPÓSITOS JUDICIAIS. SUSPENSÃO DOS AUTOS ATÉ O JULGAMENTO FINAL DA REPERCUSSÃO GERAL NO RE 1.141.156/RJ. RECURSO IMPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por Mitra Arquidiocesana de São Paulo contra acórdão prolatado pelo Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fl. 456):
+Agravo regimental - Recurso que visa expurgos inflacionários desde janeiro de 1989 até fevereiro de 1991 (Planos Verão, e Collor) em depósito judicial - lrrelevância da natureza da operação financeira - Decisão que tem foco exclusivo nos índices ainda pendentes de julgamento na Suprema Corte - Matéria afetada por Repercussão Geral - Decisão que não excetua a operação que deve incidir os expurgos - Decisão que determina a suspensão do recurso mantida - Agravo desprovido.
+Em suas razões, a recorrente, com fundamento nas alíneas a e c do permissivo constitucional, alega, além de divergência jurisprudencial, violação aos arts. 1.009 e 1.036, §§ 1º e 5º, do CPC/2015; e 529 do CC/2002, correspondente ao art. 1.366 do CC/1916, sustentando que, contrariamente ao entendimento do TJSP, não é caso de suspensão do processo, uma vez que as decisões proferidas nos RE n. 591.797 e 626.307, utilizadas para justificar a suspensão do andamento, não se referem a expurgos em depósito judicial, mas exclusivamente aos expurgos ocorridos em caderneta de poupança, diferentes, portanto, da hipótese dos autos.
+Por fim, pugna pela reforma do acórdão recorrido para autorizar o prosseguimento do feito com o regular julgamento das apelações e demais atos processuais até o trânsito em julgado da ação.
+As contrarrazões não foram apresentadas - fl. 547 (e-STJ).
+O processamento do recurso especial foi admitido na origem (e-STJ, fls. 548-549).
+Brevemente relatado, decido.
+Conforme consta dos autos, a ação tem por objeto expurgos inflacionários relacionados aos planos econômicos Bresser, Verão e Collor e a depósito judicial.
+Embora houvesse entendimento anterior de que, em se tratando de depósito judicial, seria desnecessária a interrupção do julgamento do processo em exame, "o sobrestamento dos processos determinado pelo C. Supremo Tribunal Federal nas decisões proferidas nos REs 591.797/SP e 626.307/SP e no AI 754.745/SP não se aplica aos feitos em que se discute a incidência dos expurgos inflacionários decorrentes de planos econômicos em depósito judicial. Precedentes do Supremo Tribunal Federal e das Turmas que compõem a Segunda Seção deste Tribunal" (AgRg no Ag 1.425.566/SP, Rel. Ministro Sidnei Beneti, Rel. p/ Acórdão Ministro João Otávio de Noronha, Terceira Turma, julgado em 25/11/2014, DJe 15/12/2014).
+Contudo, no julgamento do RE 1.141.156/RJ, pelo Supremo Tribunal Federal, de relatoria do Ministro Edson Fachin, submetido ao regime de repercussão geral, em 6/3/2019, corroborou-se o seguinte entendimento (sem grifo no original):
+Trata-se de pedido de suspensão nacional de processos, nos termos do que admite o artigo 1.035, § 5.º, do Código de Processo Civil, os quais envolvem discussão sobre expurgos inflacionários dos planos econômicos em depósitos judiciais.
+Reconhecida a repercussão geral, impende a suspensão do processamentos dos feitos pendentes que versem sobre a presente questão e tramite no território nacional.
+À Secretaria para as providências cabíveis, sobretudo a cientificação dos órgãos do sistema judicial pátrio.
+Desse modo, tendo em vista que a definição sobre o tema advirá do entendimento que vier a ser firmado pela Suprema Corte no julgamento do RE n. 1.141.156/RJ, os autos devem permanecer suspensos no Tribunal de origem para renovação do julgamento da pretensão autoral, nos termos da fundamentação constante no recurso extraordinário.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
