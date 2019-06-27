@@ -1,0 +1,17 @@
+DECISÃO
+PREVIDENCIÁRIO. PROPOSTA DE AFETAÇÃO DO RECURSO ESPECIAL AO RITO DOS REPETITIVOS. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. SEGURADO PROFESSOR. CÁLCULO DO BENEFÍCIO. INCIDÊNCIA OU NÃO DO FATOR PREVIDENCIÁRIO. ATO DE AFETAÇÃO PELO COLEGIADO DA 1A. SEÇÃO DO STJ. OBSERVÃNCIA DO ARTIGO 1.036, § 5O. DO CÓDIGO FUX E ARTS. 256-E, II, 256-I DO RISTJ. SUSPENSÃO DO FEITO EM TERRITÓRIO NACIONAL. OBSERVÂNCIA DO ARTIGO 1.036, § 5O. DO CÓDIGO FUX E EMENDA REGIMENTAL 24 DO RISTJ. TEMA 1.011.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial, interposto por MARIA GORETTI OLIVEIRA, com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, no qual se insurge contra acórdão do Tribunal Regional Federal da 5a. Região, assim ementado:
+PREVIDENCIÁRIO. PROFESSOR. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REVISÃO DA RMI. EXCLUSÃO DO FATOR PREVIDENCIÁRIO.
+1. O Superior Tribunal de Justiça reconhece como especial a aposentadoria de professor, na forma do art. 29, II, da Lei nº 8.213/91,e, dessa forma, vem decidindo pela exclusão da incidência do fator previdenciário no cálculo da RMI. (AG REsp 1.163.028-RS, Ministro Sebastião Reis, Sexta Turma, Dje, 16.08.2013 e AgREsp 1.251.165-RS. Relator o Ministro Jorge Mussi, Quinta Turma, j. 07.10.2014, DJe, 15.10.2014.
+2. Adoção do entendimento formulado pelo STJ.
+3. Não há que se falar em prescrição do fundo do direito quando não houver indeferimento na esfera administrativa.
+4. Parcelas em atraso a partir da data de ajuizamento da ação, ante a ausência de requerimento administrativo.
+5. Mantidos os juros de mora nos termos do artigo 1º-F, da Lei n.º 9.494/97 e correção monetária segundo o Manual de Cálculos da Justiça Federal), tendo em vista a vedação da "reformatio in pejus".
+6. Remessa oficial e apelação parcialmente providas.
+2. No Apelo Nobre, o recorrente sustenta a inaplicabilidade do fator previdenciário no cálculo da aposentadoria do professor, por tratar-se de atividade especial.
+3. É o relatório.
+4. A Primeira Seção desta Corte, nos autos dos REsp. 1.799.305/PE e 1.808.156/SP entendeu pela afetação do tema referente à aposentadoria híbrida, onde se examinará a incidência ou não do fator previdenciário no cálculo da renda mensal inicial da aposentadoria por tempo de contribuição de professor, quando a implementação dos requisitos necessários à obtenção do benefício se der após a edição da Lei 9.876/1999.
+5. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.036, § 5o. do Código Fux.
+6. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, tornando sem efeito a decisão de fls. 116/120, prejudicado o Agravo Interno de fls. 123/131, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos art. 1.036, § 5o. do Código Fux.
+7. Publique-se.
+8. Intimações necessárias.
