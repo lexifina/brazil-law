@@ -1,0 +1,11 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL. IPTU. EXAÇÃO AFASTADA COM BASE, DENTRE OUTROS MOTIVOS, NA EXISTÊNCIA DE IMUNIDADE RECÍPROCA. FUNDAMENTO SUFICIENTE PARA A MANUTENÇÃO DO ARESTO NÃO IMPUGNADO NO RECURSO ESPECIAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DAS SÚMULAS 283/STF E 126/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de Recurso Especial interposto pelo MUNICÍPIO DE SAO VICENTE, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Agravo de instrumento. Execução fiscal. Acolhimento de objeção de não executividade. Exclusão da objetante do polo passivo. Imposto predial e territorial urbano. Exercício de 2013. "Termo de permissão onerosa de uso" (do imóvel) celebrado em 2003. Falta de registro. Irrelevância. Transferência da posse. Sujeição passiva do possuidor (coexecutado). Inteligência do estatuído no artigo 34 do Código Tributário Nacional. Recurso denegado (fls. 25).
+2. Em seu Apelo Nobre, fundado no art. 105, III, alínea a da Constituição Federal, o recorrente alega ofensa aos arts. 32 e 34 do CTN, bem como ao art. 1.245 do Código Civil.
+3. É o relatório.
+4. A Corte Bandeirante, ao afastar a legitimidade da cobrança da exação tributária, fundou-se em dois fundamentos, quais sejam: (i) que a transferência da posse, há quase quinze anos, arreda a responsabilidade da alienante pelos tributos sobre o imóvel (fls. 26) e (ii) que o município está a exigir da executada - sociedade de economia mista prestadora de serviço público essencial, fora do regime de mercado e que não visa à distribuição de lucro - IPTU de imóvel destinado à moradia de famílias de baixa renda. Assim, caracterizada a imunidade recíproca (artigo 150, VI. "a", da Constituição da República) (fls. 32).
+5. Contudo, o fundamento autônomo e suficiente à manutenção do aresto recorrido - imunidade tributária - não foi impugnado nas razões do Recurso Especial, muito menos foi objeto de impugnação por meio de Recurso Extraordinário, permanecendo, portanto, incólume. Dessa forma, aplicável, na espécie, por analogia, a Súmula 283 do STF e também a Súmula 126/STJ.
+6. Ante o exposto, não se conhece do Recurso Especial do MUNICÍPIO DE SAO VICENTE/SP.
+7. Publique-se.
+8. Intimações necessárias.
