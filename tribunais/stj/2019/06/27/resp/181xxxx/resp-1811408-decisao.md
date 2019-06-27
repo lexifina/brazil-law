@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fl. 110, e-STJ):
+AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. CUMPRIMENTO DE SENTENÇA. PENHORA DE CRÉDITO DE RPV. INVIABILIDADE, POIS A NATUREZA ALIMENTAR DO CRÉDITO PERPETUA- SE NO TEMPO. PRECEDENTES. RECURSO PROVIDO. UNÂNIME.
+Os Embargos de Declaração foram rejeitados (fl. 159, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, violação, no mérito, dos arts. 833 e 835 do CPC. Afirma:
+No caso em tela, tendo em vista o inadimplemento do executado, buscou o ente público a existência de bens que pudessem garantir o pagamento da dívida. Localizou-se a ação de execução nº 001/[CPF], movida pelo autor contra o Estado. Postulou-se a penhora no rosto dos autos.
+A discussão centra-se na possibilidade de penhora de valores em execução, oriundos de ação judicial em que buscava o devedor o pagamento de diferenças salariais.
+Ocorre que, no caso em tela, o pagamento das diferenças salariais não possui mais este caráter de garantia da sobrevivência do executado. Isso porque, não tendo sido pagas no período devido, o executado garantiu seu sustento por outras formas. Assim, no momento atual, os valores serão um acréscimo patrimonial, não encoberto pela proteção da impenhorabilidade, podendo ser livremente utilizados para adimplemento da dívida para com o ente público.
+Não haveria sentido em obrigar-se ao Estado do Rio Grande o Sul o pagamento de uma execução movida pelo servidor, quando existentes também valores devidos pelo servidor para com o ente público! Sendo idênticas as partes em ambas ações executivas, possível a compensação dos valores, nos termos do art. 1009 do Código Civil.
+À fl. 295, e-STJ, proveu-se o Agravo e determinou-se sua conversão em Recurso Especial, sem prejuízo de exame posterior mais profundo da admissibilidade.
+É o relatório.
+Decido.
+Os autos foram recebidos neste gabinete em 17 de junho de 2019.
+O acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+O entendimento do STJ sobre o tema é que salário, soldo ou remuneração são impenhoráveis sendo essa regra excetuada unicamente quando se tratar de penhora para pagamento de prestação alimentícia. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENHORA DE VERBA SALARIAL. PERCENTUAL DE 30%. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Esta Corte Superior adota o posicionamento de que o caráter da impenhorabilidade dos vencimentos, soldos e salários (dentre outras verbas destinadas à remuneração do trabalho) é excepcionado apenas quando se tratar de penhora para pagamento de prestações alimentícias.
+2. Excepcionalmente, a regra geral da impenhorabilidade, mediante desconto de conta bancária, de vencimentos, subsídios, soldos, salários, remunerações e proventos de aposentadoria, constante do art. 649, IV, do CPC, incidente na generalidade dos casos, deve ser excepcionada, no caso concreto, diante das condições fáticas bem firmadas por sentença e Acórdão na origem (Súmula 7/STJ) (REsp 1285970/SP, Rel. Ministro SIDNEI BENETI, Terceira Turma, julgado em 27/5/2014, DJe 8/9/2014).
+3. No presente caso, a Corte local em nada se manifestou acerca de outras tentativas para receber o valor devido. 4. Inaplicabilidade das disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado nº 1 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+4. Agravo regimental não provido. (AgRg no REsp 1497214/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 26/04/2016, DJe 09/05/2016)
+Ademais, importante consignar que a jurisprudência desse STJ também estabeleceu o entendimento de que a natureza do crédito alimentar não se altera com o mero decurso do tempo, razão pela qual verba de natureza salarial decorrente de ação judicial mantém o seu caráter alimentar. (AgRg no REsp 1486243/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/04/2015, DJe 07/05/2015)
+Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2.6.2010.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
