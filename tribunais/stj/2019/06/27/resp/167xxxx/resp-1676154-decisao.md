@@ -1,0 +1,85 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TÍTULO DE EXECUTIVO EXTRAJUDICIAL. ORDEM DE APRESENTAÇÃO DO DOCUMENTO ORIGINAL. DESCUMPRIMENTO. EXTINÇÃO DO PROCESSO. CABIMENTO.
+1. Inexistência de maltrato ao art. 1.022, incisos I e II, do Código de Processo Civil, quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide.
+2. Deve o juízo abrir prazo para que o exequente emende a petição inicial, apresentando o título original e sanando a irregularidade.
+3. Deixando o demandante transcorrer "in albis" o prazo para colacionar a via original do título, cabível a extinção do processo.
+4. A dispensa da juntada do original do título somente ocorre quando há motivo plausível e justificado para tal, pois as partes devem contribuir para o adequado andamento do processo.
+5. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por BANCO DO ESTADO DE SERGIPE S/A com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República contra acórdão proferido pelo Tribunal de Justiça do Estado do Estado de Sergipe (fl. 101):
+APELAÇÃO CÍVEL EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DESPACHO DETERMINANDO EMENDA DA INICIAL PARA JUNTADA DO CONTRATO ORIGINÁRIO - INDEFERIMENTO DA INICIAL PELA APLICAÇÃO DO ARTIGO 321 DO CPC MANUTENÇÃO DA SENTENÇA - APELO CONHECIDO E DESPROVIDO - DECISÃO UNÂNIME.
+Consta dos autos que BANCO DO ESTADO DE SERGIPE ajuizou ação de execução de título extrajudicial em desfavor de [NOME], objetivando o recebimento da quantia de R$ 105.95373 (cento e cinco mil novecentos e cinqüenta e três reais e setenta e três centavos).
+O juízo de primeiro grau julgou extinto o processo, sem resolução de mérito, com fulcro no art. 284, parágrafo único, do Código de Processo Civil, sob o fundamento de que o exequente não cumpriu a diligência determinada de juntada aos autos do original do título executivo.
+Irresignado, o banco exequente interpôs recurso de apelação.
+O Tribunal de Justiça do Estado de Sergipe negou provimento ao recurso conforme a ementa acima transcrita.
+Opostos embargos de declaração, estes restaram rejeitados nos seguintes termos (fl. 319):
+EMBARGOS DE DECLARAÇÃO COM FINS PREQUESTIONATÓRIOS - APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DESPACHO DETERMINANDO EMENDA DA INICIAL PARA JUNTADA DO CONTRATO ORIGINÁRIO - INDEFERIMENTO DA INICIAL PELA APLICAÇÃO DO ARTIGO 321 DO CPC - MANUTENÇÃO DA SENTENÇA - INOBSERVÂNCIA DOS VÍCIOS PREVISTOS NO ART. 1022 DO NOVO CÓDIGO DE PROCESSO CIVIL - TENTATIVA DE REDISCUSSÃO DO MÉRITO - IMPOSSIBILIDADE - RECURSO CONHECIDO E IMPROVIDO.
+Em suas razões de recurso especial, a recorrente apontou negativa de vigência ao art. 1.022, inciso II e 489, § 1º, inciso IV, ambos do CPC, ao argumento de que houve negativa de prestação jurisdicional. Aduziu contrariedade aos arts. 267, inciso III; 282; 283, 580 e 614, todos do CPC/73 e art. 11, § § 1º; 2º e 3º, da Lei n.º 11.419/2006, ao argumento de que não é causa de extinção do processo a ausência de apresentação do original do título executivo. Requereu, por fim, o provimento do presente recurso especial.
+Não houve apresentação de contrarrazões.
+É o relatório.
+Passo a decidir.
+Não merece acolhida a irresignação recursal.
+1. No que tange à alegação de negativa de prestação jurisdicional:
+Verifica-se que as questões submetidas ao Tribunal a quo foram suficiente e adequadamente apreciadas, com abordagem integral dos temas e fundamentação compatível. Destarte, não há se falar em negativa de prestação jurisdicional.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REVISÃO DE BENEFÍCIO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+(..)
+3. Agravo interno não provido. (AgInt no AREsp 1233390/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/04/2018, DJe 20/04/2018)
+Ademais, consoante a jurisprudência do STJ, o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. DEFERIMENTO DO PEDIDO LIMINAR. [NOME]. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. CABIMENTO. PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não configura ofensa ao art. 1.022, I e II, do Código de Processo Civil de 2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte recorrente, suficiente para decidir integralmente a controvérsia.
+2. Inexiste afronta ao art. 489, § 1º, IV, do CPC/2015 quando o órgão julgador se pronuncia de forma clara e suficiente acerca das questões suscitadas nos autos, não havendo necessidade de se construir textos longos e individualizados para rebater uma a uma cada argumentação, quando é possível aferir, sem esforço, que a fundamentação não é genérica.
+(..)
+6. Agravo interno não provido. (AgInt no AREsp 1089677/AM, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 08/02/2018, DJe 16/02/2018)
+2. No que se refere à extinção do processo:
+Prefacialmente, destaca-se que há entendimento no âmbito do Superior Tribunal de Justiça no sentido de que o fato de a inicial não estar instruída com os originais dos títulos executivos extrajudiciais não retira deles a sua exigibilidade, liquidez e certeza, além de que reconhecido pela instância de origem a higidez das cópias dos títulos e a possibilidade de apresentação das cártulas originais quando do efetivo pagamento, não há se falar em extinção do processo.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. POSSIBILIDADE DE APRESENTAÇÃO DO ORIGINAL DO TÍTULO EXECUTIVO EM MOMENTO POSTERIOR. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO DESPROVIDO.
+1. Não se verifica a ocorrência de negativa de prestação jurisdicional, porquanto a questão relativa à ausência do original dos títulos executivos foi apreciada pelo órgão julgador, com fundamentação clara, coerente e suficiente.
+2. O fato de a inicial não estar instruída com os originais dos títulos executivos extrajudiciais não retira deles a sua exigibilidade, liquidez e certeza.
+3. A modificação da conclusão delineada no acórdão recorrido - acerca da natureza do título que amparou a execução promovida pela instituição financeira e dos seus requisitos - demandaria necessariamente o revolvimento dos fatos e das provas dos autos, atraindo, assim, o óbice disposto na Súmula 7 do STJ.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido. (AgInt no AgInt no AREsp 1090679/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/09/2018, DJe 27/09/2018)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NOTAS PROMISSÓRIAS VINCULADAS A CONTRATO DE COMPRA E VENDA DE COTAS SOCIAIS. INSTRUÇÃO DA EXECUÇÃO MEDIANTE CÓPIAS AUTENTICADAS DAS CÁRTULAS.
+1. Embargos do devedor opostos pelos recorrentes durante execução por título extrajudicial fundada em vinte e uma (21) notas promissórias emitidas em decorrência da compra e venda de cotas sociais de sociedade comercial.
+2. Reconhecimento, pela origem, da higidez das cópias dos títulos e do risco em manter os originais em cartório, em face do vultoso valor. Inexistência de nulidade processual. Precedente específico do STJ. Possibilidade de apresentação das cártulas originais quando do pagamento efetivo no curso da execução.
+3. Questões relativas à mora, à legitimidade passiva, e à violação à boa-fé em relação à cláusula a prever a responsabilidade do adquirente das cotas pelas dívidas sociais, que atraem os óbices das Súmulas 5 e 7/STJ.
+4. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no REsp 1323739/RN, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 03/03/2015, DJe 09/03/2015)
+No entanto, na hipótese dos autos, verifica-se que tanto o juízo de primeiro grau quanto o Tribunal de Justiça de origem entenderam pela necessidade de juntada do original do título extrajudicial - contrato - para a exata compreensão da controvérsia dos autos, conforme se extrai do seguinte excerto do acórdão recorrido (fls. 103/104):
+(..)
+Colhe-se dos autos que o apelante ajuizou Ação de Execução de Título Extrajudicial em face da apelada, objetivando o recebimento da quantia de R$ 105.95373 (cento e cinco mil novecentos e cinqüenta e três reais e setenta e três centavos), ação esta que foi extinta, sem julgamento de mérito, em razão do não cumprimento da determinação de emenda da inicial.
+Pois bem.
+Convém destacar inicialmente, que o art. 283, do Código Processual Civil, estabelece que "a petição inicial será instruída com os documentos indispensáveis à propositura da ação".
+Nessa seara, cabe ao autor proceder à necessária instrução do seu pedido, inclusive com os documentos indispensáveis à compreensão da matéria objeto da lide, porém, não o fazendo, deve o magistrado determinar a complementação da inicial, no prazo de 10 (dez) dias, sob pena de indeferimento da exordial, conforme disposto no art. 324, do CPC, in verbis:
+"Art. 321 - Verificando o juiz que a petição inicial não preenche os requisitos exigidos nos arts. 282 e 283, ou que apresenta defeitos e irregularidades capazes de dificultar o julgamento de mérito, determinará que o autor, a emende, ou a complete, no prazo de 10 (dez) dias.
+Parágrafo único. Se o autor não cumprir a diligência, o juiz indeferirá a petição inicial".
+No caso em análise, o Magistrado requereu a juntada do contrato original do titulo extrajudicial, no prazo de dez, de acordo com o CPC de 1973, advertindo que o não cumprimento levaria ao indeferimento da inicial.
+Esta providência, por certo, se torna indispensável, uma vez que o contrato que se pretende executar é documento essencial à instrução da ação.
+(..)
+Todavia, o autor deixou de cumprir o determinado, não merecendo reparo a sentença, conforme preceitua o artigo 284, parágrafo único do CPC/73 (g.n.).
+Nesse contexto, tendo as instâncias de origem asseverado pela necessidade de juntada aos autos do original dos título executivo, e tendo o demandante deixado transcorrer in albis o prazo para colacionar a via original do contrato entabulado, é cabível ao magistrado a extinção do processo.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E EMPRESARIAL. VIOLAÇÃO À LEI 6.015/1973 E À MP 2.200-2/2002. OFENSA GENÉRICA. SÚMULA 284/STF. ARTS. 154 E 365 DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. PEÇA OBRIGATÓRIA (ART. 29, § 3º, DA LEI 10.931/2004). AUSÊNCIA. NÃO ATENDIMENTO DE EMENDA DA INICIAL PARA JUNTADA DE ORIGINAL DE TÍTULO EXECUTIVO EXTRAJUDICIAL. EXTINÇÃO DO PROCESSO. PROVIMENTO NEGADO.
+1. Na leitura do recurso especial, verifica-se que a parte agravante limitou-se a apontar ofensa genérica à Lei 6.015/1973, bem como à MP 2.200-2/2002, sem, contudo, particularizar quais dispositivos nelas insertos teriam sido violados pelo aresto atacado. No ponto, ressalta-se que a jurisprudência desta Corte é pacífica no sentido de que a violação genérica de lei federal não enseja a abertura da via especial, aplicando-se, por analogia, o disposto na Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+2. Não ocorrendo o prequestionamento dos preceitos legais ditos violados, não se conhece do recurso especial, ainda que opostos embargos de declaração. Incidência das Súmulas 282 e 356 do STF.
+3. A jurisprudência desta Corte Superior é firme no sentido de que cabe ao Juízo, quando a parte instrui a inicial com cópia autenticada do título executivo, abrir prazo para que emende a inicial juntando o título original. Tendo o demandante deixado transcorrer in albis o prazo para colacionar a via original da cédula de crédito, é cabível ao magistrado, então, julgar extinto o feito.
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 605.423/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/09/2015, DJe 01/10/2015)
+Ademais, conforme bem destacado pelo Min. Marco Buzzi no julgamento do Recurso Especial n.º 1.277.394/SC, a juntada do original do documento representativo de crédito líquido, certo e exigível, consubstanciado em título de crédito com força executiva, é a regra, sendo requisito indispensável não só para a execução propriamente dita, mas, também, para todas as demandas nas quais a pretensão esteja amparada na referida cártula.
+Aduziu o Min. Relator que a dispensa da juntada do original do título somente ocorre quando há motivo plausível e justificado para tal, o que não se verifica na presente hipótese, notadamente quando as partes devem contribuir para o adequado andamento do feito, sem causar obstáculos protelatórios.
+Eis a ementa do julgado:
+RECURSO ESPECIAL - AÇÃO DE BUSCA E APREENSÃO - DETERMINAÇÃO DE EMENDA À INICIAL A FIM DE QUE FOSSE APRESENTADO O TÍTULO ORIGINAL DA CÉDULA DE CRÉDITO BANCÁRIO - PROVIDÊNCIA NÃO ATENDIDA SEM CONSISTENTE DEMONSTRAÇÃO DA INVIABILIDADE PARA TANTO - TRIBUNAL A QUO QUE MANTEVE A SENTENÇA DE INDEFERIMENTO DA PETIÇÃO INICIAL, NOS TERMOS DO ART. 267, INC. I, DO CPC, POR AFIRMAR QUE A CÓPIA DO CONTRATO DE FINANCIAMENTO É INÁBIL PARA EMBASAR A DEMANDA.
+INSURGÊNCIA DA CASA BANCÁRIA.
+Hipótese: Controvérsia acerca da necessidade de apresentação do título original do contrato de financiamento com garantia fiduciária (cédula de crédito bancário) para instruir a ação de busca e apreensão.
+1. Possibilidade de recorrer do "despacho de emenda à inicial". Excepciona-se a regra do art. 162, §§ 2º e 3º, do Código de Processo Civil quando a decisão interlocutória puder ocasionar prejuízo às partes. Precedentes.
+2. Nos termos da Lei nº 10.931/2004, a cédula de crédito bancário é título de crédito com força executiva, possuindo as características gerais atinentes à literalidade, cartularidade, autonomia, abstração, independência e circulação.
+O Tribunal a quo, atento às peculiaridades inerentes aos títulos de crédito, notadamente à circulação da cártula, diligente na prevenção do eventual ilegítimo trânsito do título, bem como a potencial dúplice cobrança contra o devedor, conclamou a obrigatoriedade de apresentação do original da cédula, ainda que para instruir a ação de busca e apreensão, processada pelo Decreto-Lei nº 911/69.
+A ação de busca e apreensão, processada sob o rito do Decreto-Lei nº 911/69, admite que, ultrapassada a sua fase inicial, nos termos do artigo 4º do referido regramento normativo, deferida a liminar de apreensão do bem alienado fiduciariamente, se esse não for encontrado ou não se achar na posse do devedor, o credor tem a faculdade de, nos mesmos autos, requerer a conversão do pedido de busca e apreensão em ação executiva.
+A juntada do original do documento representativo de crédito líquido, certo e exigível, consubstanciado em título de crédito com força executiva, é a regra, sendo requisito indispensável não só para a execução propriamente dita, mas, também, para todas as demandas nas quais a pretensão esteja amparada na referida cártula.
+A dispensa da juntada do original do título somente ocorre quando há motivo plausível e justificado para tal, o que não se verifica na presente hipótese, notadamente quando as partes devem contribuir para o adequado andamento do feito, sem causar obstáculos protelatórios.
+Desta forma, quer por força do não-preenchimento dos requisitos exigidos nos arts. 282 e 283 do CPC, quer pela verificação de defeitos e irregularidades capazes de dificultar o julgamento de mérito, o indeferimento da petição inicial, após a concessão de prévia oportunidade de emenda pelo autor (art. 284, CPC), é medida que se impõe. Precedentes.
+3. Recurso especial desprovido. (REsp 1277394/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/02/2016, DJe 28/03/2016, g.n.)
+Ante o exposto, com base no art. 932, inciso IV, do CPC/15 c.c. o Enunciado n.º 568/STJ, conheço e nego provimento ao recurso especial.
+Intimem-se.
