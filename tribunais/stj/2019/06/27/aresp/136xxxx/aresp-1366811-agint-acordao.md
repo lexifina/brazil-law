@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. COMPROVAÇÃO QUE DEVE SER EFETIVADA NO ATO DA INTERPOSIÇÃO DO RECURSO. ENTENDIMENTO DA CORTE ESPECIAL.
+1. É inviável o recurso especial, bem como o agravo em recurso especial, quando a parte recorrente deixa de comprovar, no ato da interposição do recurso, a ocorrência de feriado local que ensejou a prorrogação do prazo processual. Comprovação feita a posteriori não afasta o vício insanável de intempestividade dos recursos interpostos.
+2. Conforme entendimento sedimentado pela Corte Especial do Superior Tribunal de Justiça "Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada" (AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 19/12/2017).
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: BANCO BTG PACTUAL S.A, interpõe agravo interno em face da decisão de fls. 848-849 e-STJ, proferida pela Presidência desta Corte, que não conheceu de seu recurso especial, por entender que "Mediante análise dos autos, a parte Recorrente foi intimada do acórdão recorrido em 26/09/2017, sendo o recurso especial interposto somente em 19/10/2017".
+Nas razões do presente agravo, o recorrente sustenta que "considerando-se que não houve expediente forense nos dias 12.10.2017 e 13.10.2017, conforme artigos 1º e 2º do Provimento CSM nº 2394/2016, do Conselho Superior da Magistratura do Estado de São Paulo (doc. 2), o prazo de 15 dias úteis para interposição do mencionado Recurso Especial (artigos 1.003 c/c 219, caput e 1.015, parágrafo único, todos do CPC), expirou em 19.10.2017, sendo, portanto, interposto tempestivamente tal recurso" (fl. 208, e-STJ).
+Diz que "Caso este E. Superior Tribunal de Justiça entenda que o BTG PACTUAL deixou de comprovar a tempestividade do Recurso Especial interposto, em razão da ausência de juntada do Provimento CSM nº 2394/2016, do Conselho Superior da Magistratura do Estado de São Paulo (doc. 2) - o que se admite apenas em atenção ao princípio da eventualidade -, o BTG PACTUAL destaca que a C.Terceira Turma deste E. Superior Tribunal de Justiça já decidiu acerca da possibilidade de comprovação posterior da existência suspensão do expediente forense" (fls. 859-860, e-STJ).
+Sem impugnação.
+É o relatório.
+
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. COMPROVAÇÃO QUE DEVE SER EFETIVADA NO ATO DA INTERPOSIÇÃO DO RECURSO. ENTENDIMENTO DA CORTE ESPECIAL.
+1. É inviável o recurso especial, bem como o agravo em recurso especial, quando a parte recorrente deixa de comprovar, no ato da interposição do recurso, a ocorrência de feriado local que ensejou a prorrogação do prazo processual. Comprovação feita a posteriori não afasta o vício insanável de intempestividade dos recursos interpostos.
+2. Conforme entendimento sedimentado pela Corte Especial do Superior Tribunal de Justiça "Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada" (AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 19/12/2017).
+3. Agravo interno a que se nega provimento.
+
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo interno não merece acolhida.
+De fato, revela-se inviável o recurso especial, bem como o agravo em recurso especial, uma vez que a parte recorrente deixou de comprovar, no ato da interposição do recurso, a ocorrência de feriado local que ensejou a prorrogação do prazo processual, pois, a comprovação feita a posteriori não afasta o vício insanável de intempestividade dos recursos interpostos.
+Conforme entendimento firmado pela Corte Especial do Superior Tribunal de Justiça "Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada." Eis a ementa desse julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+(AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 19/12/2017).
+Saliente-se que, após petição da União, a qual não foi conhecida, houve o trânsito em julgado desse precedente, tendo a Corte Especial assim consignado:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PETIÇÃO DA AGU. INTERVENÇÃO DEPOIS DE INICIADO O JULGAMENTO. IMPOSSIBILIDADE. ART. 927, V, CPC/15. JULGAMENTO PELA CORTE ESPECIAL. VINCULAÇÃO INTERNA E EXTERNA.
+1. Petição juntada pela União em 23/02/2018, por intermédio da AGU, requerendo a anulação, a reforma ou a modulação dos efeitos do acórdão publicado em 19/12/2017, em que a Corte Especial decidiu que, sob a égide do CPC/15, a comprovação do feriado local deve ocorrer no ato da interposição do respectivo recurso, sob pena de ser considerado intempestivo.
+2. A União não é parte neste processo; sequer se apresentou como terceira interessada, tampouco requereu o ingresso como amiga da Corte. E, ainda que eventualmente tivesse requerido a sua intervenção como amiga da Corte, em questão de ordem julgada neste processo, a Corte Especial decidiu que não é cabível a intervenção depois de iniciado o julgamento.
+3. O acórdão do agravo interno, ao qual se refere a peticionante, foi publicado em 19/12/2017, tendo sido a petição juntada apenas em 23/02/2018; ou seja, depois de já ultrapassado e definido o julgamento deste recurso pela Corte Especial.
+4. Segundo o art. 927, V, do CPC/15, o acórdão exarado pela Corte Especial em matéria de direito federal infraconstitucional, como o da hipótese, possui em si uma vinculação interna, para os membros e órgãos fracionários do STJ, e também uma vinculação externa, para os tribunais a este subordinados (TRFs, TJs, juízes federais e estaduais), portanto, precedente obrigatório.
+5. É poder discricionário do STJ resolver sobre a conveniência e necessidade de julgamento pela sistemática dos recursos especiais repetitivos. Então, no particular, não há prejuízo de que, devidamente observado o procedimento legal e a critério desta Corte, possa a matéria ser futuramente afetada, em outros processos.
+6. Nessa perspectiva, é totalmente desprovido de fundamento e lógica jurídica o argumento de que a Corte deveria obedecer ao "rito indispensável à formação de precedentes obrigatórios", revelando apenas que a peticionante não se atentou para o microssistema de precedentes instituído pelo novo Código de Processo Civil.
+6. Causa espécie o fato de a AGU pleitear, em petição avulsa, o provimento do recurso interposto por um banco privado.
+7. Petição não conhecida.
+(PET no AREsp 957.821/MS, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 13/3/2018).
+Assim, ante a intempestividade do recurso especial, sua incognoscibilidade é fundamento que deve ser mantido, e não trazendo o recorrente fundamentos capazes de infirmar a decisão agravada, deve ela prevalecer nos termos em que proferida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
