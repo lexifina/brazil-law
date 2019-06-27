@@ -1,0 +1,15 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECLAMAÇÃO AJUIZADA PELO RITO DA RESOLUÇÃO STJ 12/2009. ALEGAÇÃO DE DECISÃO PROFERIDA EM DESACORDO COM A JURISPRUDÊNCIA DO STJ. AJUIZAMENTO CONTRA DECISÃO MONOCRÁTICA DA CORTE REGIONAL QUE NEGOU TRAMITAÇÃO AO APELO RARO EM RAZÃO DA DESERÇÃO. UTILIZAÇÃODA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. INADEQUAÇÃO DA VIA ELEITA. PEDIDO LIMINAR PREJUDICADO. PETIÇÃO INICIAL INDEFERIDA.
+1. Trata-se de Reclamação proposta por [NOME], com base na Resolução STJ no. 12/2009, em face de decisão proferida pela Turma Recursal do Juizado Especial Cível e Criminal do Colégio Recursal de São João da Boa Vista/SP.
+2. Sustenta a parte reclamante que a decisão impugnada contraria entendimento jurisprudencial do Superior Tribunal de Justiça, de que a falta de preparo não autoriza que seja decretada a deserção do recurso da reclamante do benefício sem que previamente seja examinada pela Turma Recursal a questão da gratuidade.
+3. É o relatório.
+4. A presente Reclamação, apesar de todo o esforço argumentativo, não reúne os requisitos necessários para seu processamento.
+5. De início, é perfeitamente compreensível que a parte reclamante se irresignada com a prolação de decisões judiciais contrária a seu interesse. Ocorre que no presente caso, o ajuizamento da presente reclamação é totalmente descabido, intempestivo e desnecessário.
+6. Com efeito, a Reclamação Constitucional visa a garantir a fiel execução das próprias determinações judiciais da Corte ou ainda a sua competência constitucional.
+7. Verifica-se, pois, que a parte Requerente se utiliza desta via como sucedâneo recursal, porquanto a decisão reclamada diz respeito à monocrática negando seguimento ao Agravo interposto por intempestividade, da qual era cabível o competente recurso interno.
+8. Frise-se que a jurisprudência deste STJ é uníssona em vedar a utilização da Reclamação Constitucional como sucedâneo recursal. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. DECISÃO DE TURMA RECURSAL. ACLARATÓRIOS PENDENTES DE JULGAMENTO NA ORIGEM. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. Ao tempo em que recebida nesta Corte a reclamação interposta pela parte agravante, pendia de julgamento na instância ordinária os embargos de declaração opostos contra o acórdão reclamado, situação que evidencia a indevida utilização do referido instrumento processual como sucedâneo recursal, sendo, assim, imperativa a sua extinção. Precedentes: AgRg na Rcl 29.501/PR, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 2/5/2016; AgRg na Rcl 14.048/MG, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 15/3/2016; AgRg na Rcl 19.369/MS, Rel. Ministro Marco Buzzi, Segunda Seção, DJe 17/11/2015.
+2. Agravo interno não provido (AgInt na Rcl 31.274/MS, Rel. Min. BENEDITO GONÇALVES, DJe 21.9.2016).
+9. Ante o exposto, indefere-se a petição inicial e extingue-se, sem resolução do mérito, a presente Reclamação Constitucional, por inadequação da via, que não pode ser utilizada como sucedâneo recursal. Prejudicado o pedido de liminar.
+10. Publique-se. Intimações necessárias.
