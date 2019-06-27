@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] em face de acórdão do TRIBUNAL DE JUSTIÇA DE PERNAMBUCO, assim ementado:
+HABEAS CORPUS. SUBSTITUTIVO. RECURSO PRÓPRIO. AGRAVO DE EXECUÇÃO. VIA ELEITA. INADEQUAÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. COMPETÊNCIA. VARA DE EXECUÇÃO PENAL. ORDEM DENEGADA. 1. Conforme sedimentada jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal, tem-se que é incabível habeas corpus substitutivo de recurso próprio, como no caso em análise, cuja competência é do Juízo de execução da penal, sendo o agravo de execução, a via própria para enfrentar a matéria. 2. A prescrição da pretensão punitiva (matéria de ordem pública) pode ser declarada de ofício, em qualquer fase do processo (art. 61 do Código de Processo Penal - CPP). Isto é, a análise da questão cabe ao juízo ou tribunal no qual se encontra tramitando o feito. Ocorrendo o trânsito em julgado da condenação, a competência será do juízo da vara de execuções penais (art. 66, II, da Lei n. 7.210/84). Precedentes. 3. Portanto, sendo o juízo de execução competente para apreciar o pedido de prescrição e que já foi interposto agravo de execução, estando apenas aguardando os trâmites legais do processo quanto ao deferimento do pedido de prescrição, deixo de proceder à análise da irresignação, sob pena de indevida supressão de instância, pois o tema levantado não foi completamente exaurido por parte de órgão colegiado do Tribunal de origem, sobressai, portanto, a flagrante incompetência desta Corte para o exame da irresignação. 4. Ordem DENEGADA.
+Consta dos autos que a defesa do paciente formulou pedido de extinção da punibilidade pelo advento da prescrição junto ao juízo de primeiro grau, sendo tal pleito indeferido.
+Impetrado habeas corpus perante o Tribunal de origem, foi a ordem denegada, ao fundamento de que o tema já foi submetido à apreciação da Corte, por meio da via recursal adequada, aguardando tão somente os trâmites legais para o respectivo julgamento.
+Neste writ, requerem os impetrantes, liminarmente e no mérito, seja declarada extinta a punibilidade do réu, porquanto alcançada pela prescrição executória.
+A liminar foi indeferida (fls. 33-34).
+As informações foram prestadas (fls. 52-70).
+O Ministério Público Federal ofertou parecer, manifestando-se pelo não conhecimento do habeas corpus (fls. 72-75).
+Em consulta realizada ao sítio do Tribunal a quo na internet (fls. 85-86), verifica-se que o Juízo das Execuções proferiu decisão extinguindo a punibilidade do paciente, em razão do cumprimento da pena.
+Nesse contexto, não há como negar a perda superveniente do objeto do presente habeas corpus, no qual se alegava a ocorrência da prescrição executória.
+Ante o exposto, julgo prejudicado o presente habeas corpus, ante a superveniente perda do objeto.
+Publique-se.
+Intimem-se.
