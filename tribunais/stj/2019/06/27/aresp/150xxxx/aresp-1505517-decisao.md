@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO. AGRAVO RETIDO. A parte, nas razões ou resposta da apelação, deve requerer expressamente a apreciação do agravo retido, sob pena de não conhecimento (art. 523, § 19, do CPC/73).
+Agravos retidos do réu não conhecidos.
+PRELIMINAR DE NULIDADE DA DECISÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO. Consoante o princípio da motivação todos os julgamentos dos órgãos do Poder Judiciário devem ser necessariamente motivados, sob pena de nulidade (art. 93, IX, da CF e art. 489 do CPC/15).
+No caso, a sentença fundamentou os motivos pelos quais rejeitou os embargos opostos à execução. Preliminar rejeitada.
+AGIOTAGEM. ÔNUS DA PROVA. Incumbe ao embargante o ônus de demonstrar o fato constitutivo de seu direito (art. 333, I, do CPC/73 - incidente à hipótese). Na caso dos autos, a parte-embargante não traz elementos concretos suficientes em relação à alegada agiotagem sequer para suscitar a inversão do ônus da prova, quanto mais para demonstrar sua efetiva prática.
+MAJORAÇÃO DOS HONORÁRIOS. Ao julgar o recurso, o Tribunal deve majorar os honorários fixados anteriormente ao advogado do vencedor, devendo considerar o trabalho adicional realizado em grau recursal (art. 85, § 11, do CPC/2015).
+APELAÇÃO DESPROVIDA.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais os incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Ademais, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente não demonstrou, de forma direta, clara e particularizada, como o acórdão recorrido violou cada um dos dispositivos de lei federal apontados, o que atrai, por conseguinte, a aplicação do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, o Superior Tribunal de Justiça já se manifestou no sentido de que "a argumentação recursal em torno de normas infraconstitucionais não pode ser meramente genérica, sem o desenvolvimento de teses efetivamente vinculadas a elas e sem a demonstração objetiva de como o acórdão recorrido as teria violado. Incidência da Súmula 284/STF" (REsp n. 1.293.548/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/6/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.442.952/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/2/2017; EDcl no AgRg no AREsp n. 422.103/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 13/10/2014; AgRg no AREsp n. 413.345/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 22/10/2015; e AgRg no AREsp n. 634.545/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/5/2015.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
