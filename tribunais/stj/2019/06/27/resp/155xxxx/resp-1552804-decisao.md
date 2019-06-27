@@ -1,0 +1,18 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535, II DO CPC/1973. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE NÃO CONFIGURADA. REVISÃO DO ACÓRDÃO RECORRIDO QUE DEMANDA O REEXAME DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE NESTA VIA EXCEPCIONAL. RECURSO ESPECIAL DO PARTICULAR PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+1. Trata-se de Recurso Especial interposto por [NOME], com fundamento na alínea a do art. 105, III da CF, objetivando a reforma do acórdão proferido pelo egrégio TRF da 4a. Região, assim ementado:
+AGRAVO. INSUFICIÊNCIA DAS RAZÕES.
+Não é de acolher-se o agravo quando insuficientes as razões apresentadas para modificação da decisão agravada (fls. 185).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 200).
+3. Em seu Apelo Nobre, a parte recorrente aponta violação dos arts. 535, II do CPC/1973 e 174, I do CTN (antiga redação). Sustenta, além de negativa de prestação jurisdicional, a ocorrência da prescrição, uma vez que entre a constituição definitiva do crédito tributário e o comparecimento espontâneo do executado nos autos, considerando a nulidade da citação, passaram-se mais de 14 anos.
+4. Apresentadas contrarrazões (fls. 227/228), o recurso foi admitido na origem (fls. 231).
+5. É o relatório.
+6. De início, cumpre destacar que a alegada violação ao art. 535, II do CPC/1973 não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+7. No mérito, o Tribunal de origem concluiu pela ausência do transcurso do prazo prescricional, consoante os seguintes fundamentos:
+Pelo que se vê dos autos, a parte executada opôs exceção de pré-executividade alegando a nulidade da citação, porque entregue a carta AR em endereço antigo, no qual não mais residia. O magistrado, sem manifestar-se sobre essas alegações, estabeleceu que de nulidade não se trataria por não haver nenhum prejuízo à parte executada, já que nem sequer havia iniciado o prazo para embargos. E a parte agravante não questiona esse fundamento, de modo que não há motivo para a reforma da decisão. E como não é caso de se reconhecer a nulidade da citação, também fica afastado o fundamento da parte agravante quanto à prescrição do crédito tributário pela alegada inocorrência de interrupção do prazo.
+Enfim, a contagem do prazo de prescrição intercorrente deve ser feita na forma do artigo 40 da Lei nº 6.830, de 1980, com a conformação dada ao dispositivo na Argüição de Inconstitucionalidade nº 0004671-46.2003.404.7200. Nesse incidente, a Corte Especial deste Tribunal deu ao artigo 40 da Lei nº 6.830, de 1980, interpretação conforme a Constituição, entendendo ser o termo inicial do prazo de prescrição intercorrente contado da decisão que determina a suspensão do processo de execução fiscal, nos seguintes termos:
+(..).
+Como se vê da análise dos autos, não houve a determinação de suspensão do processo, o que impede, por si só, a incidência da prescrição intercorrente (fls. 173/174).
+8. Assim, para alterar tal conclusão, a fim de verificar suposta suspensão do executivo fiscal, seria necessário o reexame do suporte fático-probatório dos autos, o que é vedado em Recurso Especial.
+9. Ante o exposto, conhece-se em parte do Recurso Especial do Particular e, nessa parte, nega-se-lhe provimento.
+10. Publique-se. Intimações necessárias.
