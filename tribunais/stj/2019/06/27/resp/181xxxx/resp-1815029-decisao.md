@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão do Tribunal Regional Federal da 1ª Região, que, ao apreciar apelação, reconheceu a figura privilegiada do art. 171, §1º, do Código Penal, substituindo por restritivas de direitos a privativa de liberdade imposta a JOCELIA PEREIRA LIMA, condenada à pena de 1 (um) ano e 8 (oito) meses de reclusão. É esta a ementa do r. julgado (e-STJ fl. 381):
+PENAL. PROCESSO PENAL. ESTELIONATO CONTRA O INSS. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. RÉ PRIMÁRIA E VALOR MONETÁRIO SEM EXPRESSIVIDADE. CONVOLAÇÃO DA PENA PRIVATIVA DE LIBERDADE EM MULTA. PROVIMENTO PARCIAL DA APELAÇÃO.
+1. As circunstâncias do crime de estelionato qualificado (art. 171, § 3o - CP) não se afeiçoam, em princípio, ao delito de bagatela, comportamento social repulsivo, de lesão deliberada aos cofres públicos (erário federal, no caso) com o único intuito de locupletamento ilícito. Precedentes.
+2. A pouca expressividade do valor apropriado (R$ 12.370,00), conjugada com o fato de se tratar de ré primária, autoriza a substituição da pena privativa de liberdade em multa, na forma do § 1o do art. 171 do CP.
+3. Provimento parcial da apelação.
+Nas razões do recurso especial, fulcrado na alínea "a" do permissivo constitucional, alega o representante do Parquet contrariedade aos arts. 171, §1º, e 155, §2º, ambos do Código Penal.
+Aduz que o prejuízo causado ao INSS em razão da obtenção fraudulenta de benefício previdenciário - R$ 12.370,00 - não pode ser considerado de pequeno valor a autorizar o reconhecimento do privilégio previsto no art. 171, §1º, do Código Penal e, consequentemente, a pena substitutiva.
+Pugna, ao final, pelo provimento do recurso, mantendo-se a privativa de liberdade aplicada na sentença.
+Contra-arrazoado (e-STJ fls. 401/410) e admitido (e-STJ fls. 412/414), manifestou-se o Ministério Público Federal, nesta instância, em parecer assim ementado (e-STJ fl. 428):
+RECURSO ESPECIAL. ESTELIONATO MAJORADO PRIVILEGIADO. ALEGADA VIOLAÇÃO DOS ARTS. 171, §1º, E 155, §2º, AMBOS DO CÓDIGO PENAL. VALOR DO BEM QUE NÃO SE RECONHECE DE PEQUENO VALOR. R$ 12.730,00. ACÓRDÃO QUE CONTRARIA ENTENDIMENTO DO STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA QUE NÃO SE RECONHECE. NÃO SUPERADO O LAPSO PRESCRICIONAL DE 4 ANOS ENTRE OS MARCOS INTERRUPTIVOS.
+1. A recorrida não faz jus à benesse do §1º do art. 171 do CP (§2º do art. 155 do CP), porque o bem atingido não se mostra de pequeno valor, vez que superior ao salário-mínimo vigente à época dos fatos, razão pela qual é de ser restabelecida a condenação nos moldes em que fixadas pelo Juízo sentenciante.
+2. Prescrição da pretensão punitiva que não se reconhece, por não superado o lapso prescricional de 4 anos entre os marcos interruptivos do art. 117 do CP.
+3. Parecer é pelo conhecimento e provimento do recurso especial, e não reconhecimento da prescrição da pretensão punitiva estatal.
+É o relatório. Decido.
+A utilidade e o interesse recursal não mais subsistem, em razão da perda superveniente do objeto.
+Isto porque, por sentença proferida em 5/9/2014, a recorrida foi condenada à pena de 1 (um) ano e 8 (oito) meses de reclusão (e-STJ fl. 294). O prazo prescricional é de 4 (quatro) anos, nos termos do art. 109, V, do Código Penal, já transcorrido até os dias atuais.
+Vale salientar que o Ministério Público não apelou da sentença, insurgindo-se, nesta oportunidade, apenas, contra a substituição da privativa de liberdade pelo pagamento de multa, em face do reconhecimento da figura privilegiada.
+Ressalte-se, ademais, que, nos termos da jurisprudência desta Corte Superior, o acórdão que confirma a condenação não constitui marco interruptivo da prescrição.
+Confiram-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO SUPERVENIENTE. SENTENÇA CONDENATÓRIA. ACÓRDÃO QUE CONFIRMA A CONDENAÇÃO. NÃO INTERRUPÇÃO. PRECEDENTES DA 5ª E DA 6ª TURMAS DO STJ.
+1. Condenado o agravado à pena de 6 (seis) meses de detenção - excluído o aumento de 1/5, em razão da continuidade delitiva, conforme determina a Súm. n. 497/STF - prescrita está a pretensão punitiva estatal, devido ao decurso do prazo de 3 (três) anos, ocorridos desde a publicação da sentença em 17/10/2014.
+2. Nos termos da jurisprudência desta Corte Superior, o acórdão que confirma a condenação não constitui marco interruptivo da prescrição.
+3. Agravo regimental improvido. (AgRg no REsp 1728123/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/05/2018, DJe 30/05/2018)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO. EXTINÇÃO DA PRETENSÃO PUNITIVA. RECURSO ESPECIAL. EARESP 386.266/SP. PRECEDENTE NÃO APLICÁVEL. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. NÃO INTERRUPÇÃO DO LAPSO TEMPORAL. PUBLICAÇÃO DA SENTENÇA CONDENATÓRIA. ÚLTIMO MARCO INTERRUPTIVO. AGRAVO NÃO PROVIDO.
+1. Consoante entendimento consolidado nos autos do EAREsp 386.266/SP, de 3/9/2015, no "agravo em recurso especial, o eventual reconhecimento da prescrição da pretensão punitiva deve ser precedido do exame da admissibilidade do recurso especial, a partir do qual será determinado se a data do trânsito em julgado retroagirá ou não ao último dia do prazo de interposição do recurso cabível na origem." (AgRg nos EAREsp 19.380/PI, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 27/04/2016, DJe 02/05/2016).
+2. "Nos termos da jurisprudência desta Corte Superior, o acórdão que confirma a condenação, ainda que majore a pena, não constitui marco interruptivo da prescrição" (AgRg no AREsp 629.278/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/08/2016, DJe 26/08/2016).
+3. Transcorrido lapso superior a três anos desde o último marco interruptivo do prazo prescricional - publicação da sentença condenatória (15/12/2014) -, está extinta a punibilidade do agente, cuja pena privativa de liberdade foi fixada em 8 meses de reclusão, pela prática do crime previsto art. 155, caput, c/c art. 14, II, ambos do CP.
+4. Agravo regimental não provido. (AgRg no REsp 1714632/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 03/04/2018, DJe 09/04/2018)
+Diante do exposto, reconheço, de ofício, o implemento da prescrição da pretensão punitiva estatal, declarando extinta a punibilidade de JOCÉLIA PEREIRA LIMA e julgo prejudicado o presente recurso especial.
+Intimem-se.
