@@ -1,0 +1,58 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO NCPC E DE FALHA NA FUNDAMENTAÇÃO. REEXAME DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
+DECISÃO
+RBE GESTÃO [NOME] DE ENERGIA LTDA. (RBE GESTÃO [NOME]) ajuizou ação de cobrança contra METALÚRGICA [NOME] LTDA. (METALÚRGICA), que foi julgada improcedente.
+A apelação interposta por [NOME] não foi provida pelo Tribunal de origem, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE COBRANÇA. CLÁUSULA PENAL.
+Não comprovado o devido aceite da proposta de prestação de serviços, a qual encontrava-se em negociação, inviável a imposição da multa contratual.
+Ademais, a multa restou fixada apenas ao vendedor dos serviços postos em negociação.
+Honorários majorados.
+APELO DESPROVIDO. (e-STJ fls. 356)
+Os embargos de declaração interpostos foram desacolhidos. (e-STJ fls. 468)
+Inconformada, [NOME] interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 10, 489, § 1º, inc. IV, e 1.022 do NCPC, e 112, 113, 408, 416, parágrafo único, e 481 do CC ao sustentar que (1) há contradições no acórdão recorrido ao abonar a sentença no sentido de que houve o negócio e por outro lado considerou impossível a cobrança da multa; (2) é inconciliável afirmar que não houve negócio entre as partes, por falta de aceite, ao mesmo tempo em que dirige a ora recorrente RBE às vias ordinárias para comprovação de danos e cobrança dos valores da [NOME], pois, se prejuízo houve, é porque derivou do negócio celebrado entre as partes; (3) o Tribunal de origem adotou fundamento estranho ao processo como supedâneo para afastar a multa, no que se refere ao percentual da multa; (4) houve erro material na redação da cláusula penal; (5) na proposta havia cláusula segundo a qual a [NOME] estava obrigada a firmar o instrumento de compra e venda; (6) é ilógico e iníquo supor que a [NOME] estaria isenta da multa devida à RBE por força de erro material, ainda que inequivocamente tenha desonrado a obrigação que assumiu, não podendo ser rejeitada a bilateralidade da cláusula penal e da própria compra e venda; (7) houve equívoco do Tribunal ao fixar que a recorrente compete o manejo de ação para a reparação de perdas e danos, se a cobrança da cláusula penal é justamente dispensar a necessidade de comprovação dos danos em ação própria; (8) houve proposta da [NOME] à RBE e aceite de seus termos e não apenas negociação de seus termos; e (9) o Tribunal de origem reconheceu a existência de gravação telefôncia que comprova que a Electric tinha poderes para negociar em nome da [NOME].
+O apelo nobre não foi admitido em virtude (i) da ausência de negativa de prestação jurisdicional; e (ii) da incidência das súmulas 5 e 7 do STJ.
+Nas razões do presente agravo em recurso especial, [NOME] sustentou que (a) houve omissão do Tribunal de origem; e (b) não é caso de incidência das referidas súmulas.
+Foi apresentada impugnação (e-STJ, fls. 616/632).
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+(1) (2) Alegação de ocorrência de violação aos arts. 489, § 1º, inc. IV e 1.022 do NCPC
+Inicialmente, cabe ressaltar que, de acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria.
+A presente demanda trata de ação de cobrança de multa pecuniária prevista em contrato de proposta de compra e venda de energia elétrica.
+O Tribunal de origem assim fundamentou:
+A fim de evitar desnecessária tautologia, transcrevo os fundamentos da sentença de lavra do Dr.ª [NOME], que examinou o mérito com perspicácia, motivo pelo qual os adoto como razões de decidir:
+(..)
+Como se vê, a proposta previa multa somente para o vendedor, no caso o próprio autor, proponente que redigiu a proposta e remeteu ao réu.
+Sustenta o autor que ocorreu "mero equívoco de digitação", pois a multa deveria ser suportada pelo réu, como penalização por não assinar o contrato final e indenizar o autor pelas despesas de elevada monta que teve de suportar, diante da não concretização do contrato.
+Porém, ressalto que a interpretação do contrato não pode ser feita de forma que transfira a responsabilidade pelo pagamento da multa de uma para outra parte, eis que a interpretação deve estrita, conforme o art.
+114 do Código Civil, que dispõe que os negócios jurídicos interpretam-se estritamente.
+Por sua vez, o art. 112 do CC prevê que "Nas declarações de vontade se atenderá mais à intenção nelas consubstanciada ao sentido literal da linguagem".
+Segundo a lição de Venosa", ao comentar o citado artigo:
+(..)
+Portanto, restando clara a redação da cláusula, não se permite sua interpretação de forma que altere toda sua substância, transmitindo a obrigação de uma para outra parte.
+Ainda citando Venosa (pag. 510/511), o mesmo conceitua a oferta ou proposta, nos seguintes termos;
+(..)
+Tem-se que a proposta, em regra, abriga o proponente, conforme previsto no art. 427, e sua recusa em cohtratar o sujeitará à indenização por perdas e danos.
+Tendo sido redigida pelo proponente, a aceitação pelo requerido seria de simples adesão às cláusulas por ele estipuladas, não podendo ser rotulado de "mero erro de digitação" ou feita interpretação extensiva da "vontade e intenção do contratante" para transferir a penalidade para quem não foi prevista.
+Por certo que nada obstava que a proposta previsse penalidade para ambas as partes, caso não concluído o negócio, mas não foi assim que foi redigido.
+Também nada obstava que, caso ocorresse a desistência posterior, por parte do requerido, o ajuizamento de ação pelo proponente visando reparação por eventuais perdas e danos suportados, comprovando a ocorrência de efetivo prejuízo material, mas não este o pedido no presente feito, e tampouco restou comprovado qualquer prejuízo.
+Logo, o pedido, nos termos em que foi proposto, não pode prosperar, eis que baseado na cobrança de multa que não foi expressamente prevista.
+Por fim, apenas para argumentar, no tocante a discussão quanto à aceitação válida ou não da proposta, ressalto que, mesmo que comprovada a aceitação válida, continuaria sendo improcedente a cobrança de multa, visto que não foi estipulada.
+(..)
+Com efeito, incidindo o Código Civil no tocante à proposta em questão, necessário conferir a ocorrência de aceitação pela [NOME], o que de fato não se verifica, porquanto o "de acordo" por pessoa sem poderes para tanto (fl. 181), não pode ser levado em consideração.
+Logo, inexistindo, nos autos, prova de autorização da [NOME] Sra. [NOME], da empresa Eletric Service que teria formalizado o "aceite" (fl. 54), inviável conferir sua validade.
+Na realidade, mesmo que se considerasse o equívoco da cláusula penal, da análise pormenorizada dos documentos carreados aos autos, não há um aceite da proposta pela ré [NOME] na forma que foi apresentada, mas demonstração de interesse na contratação com diversas renegociações das cláusulas propostas, inclusive com a condição de pagamento de multa à RGE pela RBE, o que demonstra tratativas para o aperfeiçoamento do contrato, não consistindo na aceitação ou não das cláusulas contratuais já propostas e de autoria exclusiva do policitante/proponente, uma vez que as cláusulas propostas não são suscetíveis de alteração. Assim, verifica-se uma negociação dos termos propostos para uma possível contratação de fato.
+Saliente-se, ainda, que a prova trazida ao feito (gravação da ligação telefônica) há uma menção quanto à permissão das informações necessárias serem prestadas através do Sr. [NOME], para continuidade das tratativas dos ajustes da proposta, a qual posteriormente viriam a ser suspensas.
+Não se desconhece da possibilidade da aceitação tácita, todavia, esta não permite ajustes na proposta como ocorreu no presente caso. Ao contrário, das provas analisadas, presume-se a realização de uma contraproposta pendente de acertos referentes à multa imposta pela RGE, condicionada à contratação. (e-STJ Fl. 357/363) (sem destaque no original)
+A Corte estadual analisou as questões que lhe pareceram necessárias à solução da causa, e, com base no conjunto fático probatório dos autos e interpretação das cláusulas contratuais, adotando, inclusive, fundamentos da sentença, concluiu: que havia previsão de cláusula penal somente para o vendedor, ora recorrente; que a redação da cláusula é clara, não permitindo interpretação de forma que altere toda sua substância; que, em caso de desistência posterior do contrato por parte do recorrido, poderia ser ajuizada ação pelo ora recorrente visando reparação por eventuais perdas e danos suportados, comprovando a ocorrência de efetivo prejuízo material; que mesmo que tivesse sido comprovada a aceitação da proposta dos termos do contrato, continuaria sendo improcedente a cobrança da multa; e que não há prova de aceitação da proposta pela [NOME], mas demonstração de negociação dos termos propostos para uma possível contratação de fato, com contraproposta pendente de acertos referentes à multa imposta pela RGE, condicionada à contratação.
+Verifica-se que o acórdão encontra-se fundamentado de forma a não ensejar dúvidas acerca das razões de ordem jurídica que lhe deram sustentação, e, considerando o objeto da presente demanda - cobrança de multa pecuniária prevista em contrato - não há que se falar em contradição nas conclusões e fundamentos do acórdão.
+Assim, houve manifestação coerente sobre os temas necessários, só que de forma contrária à pretensão da recorrente, o que não caracteriza nenhum dos vícios do art. 489, § 1º, inc. IV e 1.022 do NCPC.
+(4/9) Dos arts. 408, 112, 113,416, parágrafo único, e 481 do CC
+Conforme transcrição anterior de trecho do acórdão recorrido, a alteração da conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos e interpretação de cláusulas contratuais, procedimento sabidamente inviável na instância especial, pois vedado pelas Súmulas 5 e 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+(3) Do art. 10 do NCPC
+No que se refere à alegada violação ao art. 10 do NCPC, considerando a conclusão do acórdão recorrido, desinfluente a sua análise.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para CONHECER EM PARTE o recurso especial e, nessa extensão, NEGAR PROVIMENTO.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de  RBE GESTÃO [NOME], limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Publique-se. Intimem-se.
