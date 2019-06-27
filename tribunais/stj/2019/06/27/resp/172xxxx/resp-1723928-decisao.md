@@ -1,0 +1,26 @@
+EMENTA
+RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. LEGITIMIDADE PASSIVA DO HSBC BANK BRASIL S.A. RECURSO REPETITIVO. RECURSO QUE TRATA DO TEMA 1.015, AFETADO NOS TERMOS DOS ARTS. 1.036 E 1.037 DO CPC/2015, PENDENTE DE JULGAMENTO. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
+DECISÃO
+Cuida-se de recurso especial interposto por HSBC BANK BRASIL S.A. - BANCO MÚLTIPLO, fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, manejado, por seu turno, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, proferido nos termos da seguinte ementa (e-STJ, fls. 619-620):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXPURGOS. POUPANÇA, LEGITIMIDADE ATIVA. LEGITIMIDADE PASSIVA. JUROS DE MORA. LIQUIDAÇÃO SENTENÇA. HONORÁRIOS. MULTA.
+1. O Superior Tribunal de Justiça, para fins de recurso representativo de repercussão geral, julgou o Recurso Especial nº 1.391.198/RS (2013/0199129-0), consolidando a legitimidade ativa de todos os poupadores do banco agravante, independentemente de fazerem parte dos quadros associativos do IDEC, de ajuizarem cumprimento individual da sentença coletiva proferida em ação civil pública, bem como a validade do título executivo para todos os credores, independentemente de sua residência ou domicílio no Distrito Federal.
+2.As associações têm legitimidade, com fulcro nos artigos 81 e 82 do CPC para propor Ação Civil Pública em matéria consumerista desde que incluída no âmbito de suas finalidades estatutárias, com eficácia subjetiva erga omnes, não restrita aos seus associados.
+3. O STJ também pacificou o entendimento que, tratando-se de liquidação ou cumprimento individual de sentença proferida em ação civil pública, em que se discute sobre diferenças de correção monetária decorrentes de caderneta de poupança, o termo inicial de incidência dos juros de mora devem ser contados a partir da citação do depositário -devedor no processo de conhecimento da Ação Civil Pública, quando esta se fundar em responsabilidade contratual, cujo inadimplemento já produza mora, salvo a configuração da mora em momento anterior a teor dos artigos 405 do Código Civil, e 219 do Código de Processo Civil.
+4. No caso, não se verifica a necessidade de liquidação por arbitramento, tendo em vista que a apuração do valor da condenação depende apenas da realização de cálculos aritméticos.
+5. Agravo de instrumento conhecida e não provido.
+Os embargos de declaração opostos foram rejeitados.
+Irresignado, HSBC Bank Brasil S.A. - Banco Múltiplo interpôs recurso especial, fundamentado no art. 105, III, a e c, da CF, no qual se discute, entre outras matérias, sua ilegitimidade passiva para o cumprimento individual de sentença proferida em ação coletiva proposta pelo IDEC contra o Banco Bamerindus S.A., na qual foi reconhecido o direito a expurgos inflacionários de cadernetas de poupanças.
+Admitido o recurso especial na origem, os autos ascenderam a esta Corte.
+Brevemente relatado, decido.
+As questões de direito tratadas no recurso especial e acima descritas foram afetadas pela Segunda Seção como representativas de controvérsia a serem julgadas sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação dos REsps 1.362.038/SP e 1.361.869/SP, todas de relatoria do Ministro Raul Araújo, julgadas em 28/5/2019, DJe 6/6/2019, delimitaram o Tema 1.015, nos termos da seguinte ementa:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CADERNETAS DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. EXTINTO BANCO BAMERINDUS S/A. LEGITIMIDADE PASSIVA DE HSBC BANK BRASIL S/A. SUCESSÃO ENTRE AS INSTITUIÇÕES FINANCEIRAS. NATUREZA E ALCANCE. SOLUÇÃO CONCENTRADA E VINCULANTE. NECESSIDADE DE FIXAÇÃO DE TESE.
+1. Delimitação da controvérsia, acerca do tema: "Legitimidade passiva do HSBC Bank Brasil S/A para responder pelos encargos advindos de expurgos inflacionários relativos à cadernetas de poupança mantidas perante o extinto Banco Bamerindus S/A, em decorrência de sucessão empresarial havida entre as instituições financeiras".
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do Novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Eis o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
