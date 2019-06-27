@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal de origem lavrado sob o pálio da seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS (IBAMA). INFRAÇÃO AMBIENTAL. APREENSÃO DE VEÍCULO. RESTITUIÇÃO DO BEM. POSSIBILIDADE. SENTENÇA MANTIDA.
+1. O entendimento estabelecido neste Tribunal é de que os bens utilizados na prática de infração ambiental não são passíveis de apreensão, na forma do art. 25, § 4º, da Lei 9.605/1998, se não for identificada situação de uso específico e exclusivo para aquela atividade ilícita.
+2. Na hipótese, não ficou caracterizado que os bens apreendidos fossem utilizados exclusivamente para a prática do ilícito ambiental.
+3. Sentença confirmada.
+4. Apelação e remessa oficial, desprovidas.
+Os Embargos de Declaração foram rejeitados às fls. 211-215, e-STJ.
+A parte recorrente, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação dos arts. 14 da Lei 6.938/1981; 373, I, e 374, IV, do CPC/2015; 25, §5º, e 72, IV, da Lei 9.605/1998 e 744, 745 e 747 do Código Civil, pugnando, em síntese:
+Assim, resta evidenciado no presente caso a responsabilidade do recorrido (proprietário do veículo apreendido) pelos danos causados, posto que, possuindo o auto de infração presunção de veracidade e legitimidade, caberia ao autor provar o fato constitutivo do seu direito, o que não ocorreu. (fl. 234, e-STJ)
+Contrarrazões não apresentadas.
+Decisão sobre a inadmissibilidade do Recurso Especial às fls. 248-252, e-STJ.
+Agravo em Recurso Especial às fls. 262-269, e-STJ.
+Contraminuta não ofertada.
+Para melhor análise da controvérsia, foi dado provimento ao Agravo, determinando-se sua conversão em Recurso Especial (fl. 278, e-STJ).
+É o relatório.
+Decido
+Os autos foram recebidos neste Gabinete em 31.5.2019.
+Cuida-se de inconformismo com acórdão do Tribunal de origem que não viu motivos a ensejar a aplicação da sanção de apreensão, porquanto não configurada a hipótese de utilização dos tratores exclusivamente para a prática de ilícito ambiental.
+A irresignação não merece prosperar.
+Percebe-se que, na verdade, o particular obteve a segurança pleiteada, sob o argumento de que não há nos autos prova do cometimento de qualquer infração ambiental. A sentença foi confirmada pelo Tribunal de origem.
+Observa-se que a pretensão do IBAMA exige revolvimento dos fatos e perquirição probatória.
+Ora, o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto esgrimido passa, necessariamente, pela revisitação ao acervo probatório, vedada em Recurso Especial, consoante a Súmula 7 do Superior Tribunal de Justiça, que assim estabelece: "A pretensão de simples reexame de prova não enseja recurso especial".
+Importante citar trechos do Acórdão:
+O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) se insurge contra a sentença que concedeu a segurança, determinando a liberação dos tratores apreendidos, pertencentes ao impetrante.
+Sobre a matéria, é firme o entendimento jurisprudencial de que os bens utilizados na prática de infração ambiental não são passíveis de apreensão, na forma do art. 25, § 4º, da Lei 9.605/1998, se não for identificada situação de uso específico e exclusivo para aquela atividade ilícita.
+(..)
+Assim, não se verificando a hipótese de utilização dos tratores exclusivamente para a prática de ilícito ambiental, não há razão para a reforma da sentença.
+Ante o exposto, nego provimento à apelação e à remessa oficial. (fls. 190-191, e-STJ)
+
+Os fatos são aqui recebidos como definidos pelo Tribunal a quo, senhor da análise probatória. E, se a violação do dispositivo legal invocado demanda fixação de premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUTO DE INFRAÇÃO LAVRADO EM DECORRÊNCIA DE VENDA, COMERCIALIZAÇÃO E TRANSPORTE DE CARGA DE MADEIRA SEM O PERTINENTE DOCUMENTO DE ORIGEM FLORESTAL. ANÁLISE DO MÉRITO RECURSAL, EM JUÍZO DE ADMISSIBILIDADE, PELO 2º GRAU. POSSIBILIDADE. SÚMULA 123 DO STJ. SÚMULA 282/STF. RAZÕES DE RECURSO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, O FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 165, 458, E 535, TODOS DO CPC/73. NÃO OCORRÊNCIA. MATÉRIA FÁTICA. SÚMULA 7/STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno interposto em 09/05/2016, contra decisão publicada em 04/05/2016, que, por sua vez, julgara recurso interposto contra decisão que inadmitira o Recurso Especial, publicada na vigência do CPC/73.
+II. Em conformidade com a jurisprudência deste Tribunal, "não ocorre invasão de competência do STJ nos casos em que o Tribunal a quo faz análise prévia da existência de violação da legislação federal no momento do exame de admissibilidade do recurso especial, pois tal procedimento está amparado pela Súmula 123/STJ, sendo a afronta à lei federal requisito constitucional para a interposição do mencionado recurso" (STJ, AgRg no AREsp 690.714/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 01/06/2015).
+III. Interposto Agravo Regimental com razões que não impugnam, especificamente, o fundamento da decisão agravada, mormente quanto à aplicação da Súmula 282/STF, não prospera o inconformismo, em face da Súmula 182 desta Corte.
+IV. Na origem, trata-se de Ação Anulatória ajuizada pelo ora recorrente em face do INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA, a fim de obter a declaração de nulidade do auto de infração ambiental de nº 493.181, lavrado em decorrência de venda, comercialização e transporte de madeira sem a Autorização de Transporte de Produto Florestal (ATPF), e, sucessivamente, a substituição da multa aplicada por advertência, em face da não ocorrência de dano ambiental, ou, ainda, a sua conversão em prestação de serviços de preservação, melhoria e recuperação da qualidade ambiental. Julgada procedente a ação, em 1º e 2º Graus, foi interposto Recurso Especial, que não foi admitido, ensejando o presente Agravo em Recurso Especial, que foi conhecido, para não conhecer do Recurso Especial.
+V. Não há falar, na hipótese, em violação ao art. 535 do CPC/73 (art. 1.022, II, do CPC vigente), porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do que julgou os Declatórios, em 2º Grau, apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida. No mesmo sentido, em casos análogos, os seguintes julgados desta Corte: STJ, AgRg no AgRg no AREsp 602.228/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 13/10/2015; AgRg no AREsp 708.690/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 08/09/2015; AgRg no AREsp 714.128/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 21/08/2015.
+VI. O acórdão recorrido deslindou a controvérsia em face do exame do conjunto fático-probatório dos autos, notadamente quanto à exigência, in casu, da Autorização de Transporte de Produto Florestal (ATPF), no período questionado, de 2001/2004, da proporcionalidade da multa e da impossibilidade de sua conversão em pena de advertência ou de prestação de serviços de preservação ambiental. Assim, o exame da irresignação da parte agravante demandaria o reexame de matéria fática, o que é vedado em Recurso Especial, nos termos da Súmula 7/STJ. Nesse sentido: STJ, AgRg no AREsp 348.230/PB, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 25/10/2013; STJ, AgRg no REsp 1.346.226/PB, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 28/06/2013.
+VII. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp 802.154/RS, Ministra Assusete Magalhães, Segunda Turma, DJe 11/11/2016)
+
+AMBIENTAL E PROCESSO CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTS. 14, B, E 19 DA LEI 4.771/65 NÃO PREQUESTIONADOS. SÚMULA 282/STF. INSTRUÇÃO NORMATIVA DO IBAMA 17/2001. APLICAÇÃO RETROATIVA. AQUISIÇÃO DE MOGNO ANTERIOR AO REGULAMENTO. NECESSIDADE DE OBSERVÂNCIA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA PROPORCIONALIDADE E DO LIVRE EXERCÍCIO DA ATIVIDADE ECONÔMICA. ACÓRDÃO PROFERIDO COM APOIO EM FUNDAMENTOS CONSTITUCIONAIS. EXISTÊNCIA DE AUTORIZAÇÃO DE TRANSPORTE DE PRODUTO FLORESTAL. IRREGULARIDADE NÃO DEMONSTRADA. REVISÃO DO JULGADO. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. As matérias pertinentes aos artigos 14, b e 19 da Lei 4.771/65 não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. A Corte de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, tornando inviável o exame da matéria em sede de recurso especial.
+3. A alteração das conclusões adotadas pela Corte de origem, no sentido de que a madeira foi adquirida regularmente, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. 4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 655.430/DF, Ministro Sérgio Kukina, Primeira Turma, DJe 4/8/2015).
+Por tudo isso, não conheço do Recurso Especial e, caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do do referido dispositivo legal, bem como eventual concessão do benefício da Justiça Gratuita.
+Publique-se.
+Intimem-se.
