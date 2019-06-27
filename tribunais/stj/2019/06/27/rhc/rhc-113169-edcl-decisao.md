@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] em face de decisão monocrática proferida por esta relatoria que não conheceu do recurso ordinário em habeas corpus por se encontrar desprovido de documentação indispensável ao exame da lide.
+Nesta via, o requerente afirma a existência de omissão do referido decisum, uma vez que "a sentença constitui um novo e independente título de prisão, e como tal, exige fundamentação concreta, condição processualmente imposta pelo CPP, art. 413, § 3º" (e-STJ fl. 189).
+Ainda, faz a juntada do decreto preventivo originário pugnando pelo acolhimento dos embargos para que seja revogada a prisão preventiva decretada em seu desfavor nos autos da Ação Penal n. 0031945-13.2018, ainda que se concedendo a ordem de ofício.
+É o breve relatório.
+Inicialmente, observa-se que a decisão combatida foi publicada em 11/6/2019 (e-STJ fl. 186), tendo o embargante opostos o presente aclaratórios no dia 12/6/2019 (e-STJ fl. 188), pelo que se atesta a tempestividade.
+Noutro prisma, o art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência desta Corte os admitido, também, com o fito de sanar eventual erro material na decisão embargada.
+Pois bem.
+Da análise da decisão objurgada, conclui-se que não há como se acolher os embargos declaratórios opostos, tendo em vista a inexistência de qualquer defeito a ser sanado, uma vez que os fundamentos que embasaram o decisum estão em conformidade com o entendimento jurisprudencial desta Corte.
+Isto porque, diferentemente do afirmado pelo embargante, a jurisprudência do Supremo Tribunal Federal e deste Sodalício são pacíficas no sentido de que somente há novo título prisional quando se trazem novos motivos para a manutenção da prisão cautelar por ocasião da decisão.
+Nesse sentido, pode-se colacionar deste Superior Tribunal:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO PELO EMPREGO DE ARMA E CONCURSO DE AGENTES. CORRUPÇÃO DE MENOR. SENTENÇA SUPERVENIENTE. MANTIDOS OS FUNDAMENTOS DA SEGREGAÇÃO. AUSÊNCIA DE PREJUDICIALIDADE. CUSTÓDIA PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. INSUFICIÊNCIA DE MEDIDA CAUTELAR ALTERNATIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ADEQUAÇÃO DA PRISÃO PREVENTIVA AO REGIME INTERMEDIÁRIO FIXADO NA SENTENÇA. RECURSO DESPROVIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Esta Quinta Turma possui firme entendimento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Precedentes.
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+Recurso ordinário desprovido. Ordem concedida, de ofício, para adequar a prisão preventiva ao regime prisional semiaberto.
+(RHC 89.965/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 12/12/2017, DJe 01/02/2018)
+E, na espécie, como visto, tem-se que a segregação cautelar do recorrente foi mantida na sentença de pronúncia pelos mesmos fundamentos do decreto preventivo primevo, que não foi colacionado aos autos no momento da interposição do recurso:
+"Consigno, ainda, que os réus responderam a todo o processo custodiados e não há motivo para a sua soltura, mormente após a presente sentença de pronúncia. Agir de outra forma seria um desprestígio para a Justiça e legislação penal. Sendo assim, indefiro o pedido de fl.505 e denego aos réus o direito de recorrer em liberdade" (e-STJ fl. 31, grifou-se).
+Ocorre que, consoante consignado no provimento judicial questionado, o rito do habeas corpus e do recurso ordinário em habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca e tempestiva, por meio de documentação que evidencie a pretensão aduzida, a existência do aventado constrangimento ilegal.
+Assim, é inviável a juntada posterior de peças processuais indispensáveis ao deslinde da controvérsia, uma vez que tais documentos devem estar presentes nos autos no momento da interposição do recurso.
+A propósito:
+AGRAVO REGIMENTAL. HABEAS CORPUS INDEFERIDO LIMINARMENTE. RITO QUE EXIGE PROVA PRÉ-CONSTITUÍDA. AUSÊNCIA DO ACÓRDÃO PROFERIDO PELO TRIBUNAL DE ORIGEM. INSTRUÇÃO DEFICIENTE. ÔNUS QUE CABE AO IMPETRANTE. POSTERIOR JUNTADA. IMPOSSIBLIDADE.
+1. A jurisprudência desta Corte é pacífica no sentido de que "o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído" (HC 317.882/RJ, relator o Ministro Nefi Cordeiro, Sexta Turma, DJe de 31/8/2015).
+2. Tratando-se de remédio constitucional impetrado por profissional da advocacia, tem ele o ônus de instruir a ação corretamente, com a íntegra dos documentos necessários à análise da controvérsia, não se admitindo a posterior juntada de documentos imprescindíveis à análise do pedido e que não foram anexados tempestivamente pela defesa.
+3. Agravo regimental desprovido.
+(AgRg no HC 370.583/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/10/2016, DJe 11/11/2016)
+Na mesma esteira:
+EMBARGOS DE DECLARAÇÃO. HABEAS CORPUS. VÍCIO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. IMPOSSIBILIDADE DE JUNTADA POSTERIOR DE DOCUMENTOS NECESSÁRIOS AO DESLINDE DA CONTROVÉRSIA. NECESSIDADE DE PROVA PRÉ-CONSTITUÍDA. EMBARGOS REJEITADOS.
+1. Inexistente qualquer ambiguidade, obscuridade, omissão ou contradição a ser sanada, uma vez que o acórdão embargado explicitou as razões que levaram ao não conhecimento do habeas corpus, não há como se acolher os declaratórios.
+2. Não se prestam os embargos de declaração para rediscutir matéria já devidamente enfrentada e decidida pelo acórdão embargado.
+3. É ônus do impetrante, especialmente quando se trata de profissional da advocacia, instruir corretamente o habeas corpus com toda documentação necessária à apreciação das alegações nele formuladas no momento da sua apresentação, não se admitindo a posterior juntada de peças processuais relevantes para o deslinde da controvérsia. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no HC 320.621/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 17/09/2015, DJe 23/09/2015).
+Ante o exposto, rejeita-se os embargos de declaração opostos.
+Publique-se e intimem-se.
