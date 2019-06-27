@@ -1,0 +1,14 @@
+EMENTA
+HABEAS CORPUS. ART. 155, § 4º, I E IV, C/C O ART. 14, II, DO CP. UTILIZAÇÃO DE UMA DAS DUAS QUALIFICADORAS COMO CIRCUNSTÂNCIA JUDICIAL NEGATIVA. POSSIBILIDADE. REGIME FECHADO. CORRETA ESTIPULAÇÃO DIANTE DA REINCIDÊNCIA. INEVIDÊNCIA DE ILEGALIDADE.
+Writ indeferido liminarmente.
+DECISÃO
+No Processo n. 1500798-69.2016.8.26.0536, o Juízo de Direito da 1ª Vara Criminal da comarca de Praia Grande condenou [NOME] e [NOME] por incursos no art. 150, caput, do Código Penal à pena de multa, nos valores, respectivamente, de 10 e 12 dias-multa.
+À apelação interposta pelo Ministério Público, o Tribunal paulista deu provimento para reformar a sentença e condenar os apelados como incursos no art. 155, § 4º, I e IV, c/c art. 14, II, do Código Penal, às penas, respectivamente, de 1 ano, 4 meses e 24 dias de reclusão, em regime inicial fechado, mais multa, e de 1 ano, 4 meses e 10 dias de reclusão, também em regime inicial fechado, mais multa.
+Sobreveio, então, este writ, em que se pretende a concessão liminar da ordem a fim de que sejam revistas as reprimendas aplicadas aos pacientes, afastando-se o aumento na primeira fase da dosimetria e alterando-se o regime inicial para o semiaberto.
+Para tanto, alega-se que: a) o acórdão fixou a pena-base sem critério algum, absurdamente acrescentando 1/6 em seu mínimo legal, com argumento de haver duas qualificadoras, sendo uma usada para exasperar a pena-base (fl. 5); e b) a circunstância invocada pelo D. Desembargador Relator para justificar a imposição do regime inicial fechado, qual seja, a reincidência dos pacientes, não afasta a tese da defesa quanto à violação do artigo 33, §§ 2º e 3º, do Código Penal, por ter sido imposto regime mais rigoroso do que o admitido pela quantidade de pena (fl. 7).
+É o relatório.
+Não há constrangimento ilegal a ser sanado por esta via.
+Primeiro, porque a jurisprudência desta Corte é firme no sentido de que, em caso de existência de duas circunstâncias qualificadoras, uma delas por ser utilizada para qualificar o delito e a outra para exasperar a pena-base (HC n. 483.025/SC, Ministra Laurita Vaz, Sexta Turma, DJe 9/4/2019), tal como feito na espécie.
+Segundo, porque, embora a reprimenda privativa de liberdade tenha sido fixada em patamar inferior a quatro anos, os pacientes são reincidentes e a pena-base foi estabelecida acima do mínimo legal, em razão da existência de circunstância judicial desfavorável. Sendo assim, fica afastada a incidência da Súmula 269/STJ, mostrando-se correta a estipulação do regime inicial fechado. Nesse sentido, ver o HC n. 456.927/SC, Ministra Laurita Vaz, Sexta Turma, DJe 28/3/2019; o AgRg no HC n. 407.521/MS, Ministro Nefi Cordeiro, Sexta Turma, DJe 14/3/2018; e o HC n. 385.086/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 6/11/2017.
+Ante o exposto, indefiro liminarmente o pedido de habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se.
