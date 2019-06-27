@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 403):
+APELAÇÃO E REMESSA NECESSÁRIA. CONSTITUCIONAL. TRIBUTÁRIO. [NOME]. MUNICÍPIOS. OPERAÇÕES DE EMBARQUE E DESEMBARQUE. PONTOS DE ENTREGA DE GÁS NATURAL. § 3º DO ART. 48 E § 7º DO ART. 49 DA LEI Nº 9.478/97. INCONSTITUCIONALIDADE DECLARADA POR ESTA CORTE. MANUTENÇÃO DA SENTENÇA.
+1. Trata-se de remessa necessária e apelação cível interposta de sentença proferida nos autos de mandado de segurança proposto contra ato coator praticado pelo Superintendente de Participações Governamentais da Agência Nacional do Petróleo, Biocombustíveis e Gás Natural (ANP), por intermédio do qual requer a suspensão da decisão administrativa que considerou vigentes os §§ 3º do artigo 48 e 7º do artigo 49, ambos da Lei 12.734/12.
+2. O Órgão Especial desta Corte promoveu, em controle difuso de constitucionalidade, nos termos do art.
+97 da CRFB, à análise da constitucionalidade do §3º do art. 48 e do §7º do art. 49 da Lei nº 9.478/97, com redação dada pela Lei nº 12.734/2012, considerando as premissas fixadas na ADI nº 4.917-MC e concluiu no sentido de sua inconstitucionalidade.
+3. No que concerne aos § 3º do art. 48 e § 7º do art. 49 da Lei nº 9.478/97, com redação dada pela Lei nº 12.734/2012, é inconstitucional a ampliação do espectro das instalações de embarque e desembarque a fim de que abranja os pontos destinados à mera entrega de gás natural às concessionárias, considerando, tanto o art. 20, § 1º, da CF, notadamente sua interpretação a partir dos elementos gramaticais e teleológicos, como os princípios da isonomia e da segurança jurídica.
+4. Sentença monocrática conforme o entendimento adotado por este Tribunal devendo ser mantida na íntegra.
+5. Apelo e remessa necessária improvidos.
+A parte recorrente aponta violação aos arts. 48, § 3º, e 49, § 7º, da Lei 9.478/97, com redação dada pela Lei 12.734/2012, além do art. 7.º da Lei n.º 7.990/89, porquanto o primeiro dispositivo legal não foi declarado inconstitucional expressamente pelo Supremo Tribunal Federal.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Conforme se verifica, o Tribunal a quo manteve sentença favorável ao autor (Município de [NOME]) com base no que ficou decidido na Arguição de Inconstitucionalidade 2013.51.01.020985-6, que reconheceu a inconstitucionalidade do § 3º do artigo 48 e do § 7º do art. 49, ambos da Lei nº 9.478/97, com a redação dada pela Lei nº 12.734/2012.
+Assim, o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+Este foi o posicionamento adotado por esta Corte em situação idêntica a que se apresenta, como pode ser observado da ementa do seguinte julgado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. [NOME]. CITY GATES. SUSPENSÃO DE DISPOSITIVOS DA LEI 12.734/12 EM MEDIDA LIMINAR. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO. 1. Verifica-se que a Corte a quo, ao julgar a controvérsia, entendeu em razão da medida liminar deferida nos autos da ADI 4971-MC/DF, no STF, é de se reconhecer incidentalmente a inconstitucionalidade da regra contida no § 3º do art. 48 e no §7º do art. 49, da Lei n.º 9.478/1997, incluídos pela Lei nº 12.734/2012, pois, no caso, está presente a mesma razão que ensejou o deferimento daquela tutela no STF.
+2. Desta feita, é inegável que o acórdão recorrido baseou o seu entendimento em fundamento de natureza eminentemente constitucional, o que afasta a possibilidade de análise da pretensão recursal em sede de recurso especial.
+3. Agravo interno não provido.
+(AgInt no REsp 1756321/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/05/2019, DJe 21/05/2019)
+Por fim, convém ressaltar que a questão será apreciada pelo Supremo Tribunal Federal quando do julgamento do recurso extraordinário interposto às fls. 432/457 e admitido à fl. 467.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
