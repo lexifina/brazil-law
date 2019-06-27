@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JANIERY PEREIRA BRODER no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Piauí que, no HC n. 0708586-46.2019.8.18.0000, indeferiu o pedido de liminar.
+Segundo os autos (processo 228-94.2015.8.18.0123), a paciente responde a queixa-crime pela prática do crime de dano, tendo sido condenada às penas de 1 mês de detenção, substituída pela prestação pecuniária de R$ 3.000,00 (três mil reais) e de multa, consistente em R$ 23.640,00 (vinte três mil, seiscentos e quarenta reais).
+Contra isso a defesa interpôs recurso na Turma recursal, que manteve o édito condenatório (e-STJ fls. 232/233).
+Inconformada, impetrou prévio writ com pedido liminar na Corte estadual, alegando "que o processo é eivado de nulidade desde o início porquanto o procurador que ofereceu a queixa-crime foi habilitado por instrumento procuratório que não atende aos requisitos do art. 44 do Código Penal, posto que "O que consta na procuração é apenas menção ao "tipo penal". Não constam na procuração elementares ou circunstanciais fáticas, mas o nomen júris, a simples menção a um tipo penal".  Requereu  concessão de liminar para suspender a ação penal e, no mérito, seu trancamento" (e-STJ fl. 111).
+O pleito de urgência foi, contudo, indeferido pelo Desembargador relator [NOME] em decisão assim ementada (e-STJ fl. 111):
+HABEAS CORPUS. CRIME DE DANO. TRANCAMENTO DA AÇÃO PENAL. QUEIXA-CRIME. QUESTÃO DE PROCEDIBILIDADE DO ART. 44 DO CÓDIGO PENAL. PROCURAÇÃO QUE FAZ MERA MENÇÃO AO DISPOSITIVO DE LEI. DESNECESSIDADE DE DESCRIÇÃO DOS FATOS. JURISPRUDÊNCIA ATUAL DA CORTE SUPERIOR. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. CARÊNCIA DE PERICULUM IN MORA E DE FUMUS BONI IURIS. LIMINAR DENEGADA.
+Neste writ, a defesa reitera as teses suscitadas na origem.
+Acrescenta ser a hipótese de flagrante ilegalidade hábil a ensejar a superação do enunciado 691 da Súmula do STF.
+Diante disso, requer "a concessão da ordem para que se determine: (i) LIMINARMENTE a concessão da tutela de urgência para sobrestamento da Queixa-Crime n. 0000223-94.2015.9.13.0123  Recurso n. 0000223-94.2015.9.13.0123 - Apelação) até o julgamento do mérito do presente writ.  ..  (ii) a rejeição integral da ação penal oferecida contra JANIERY PEREIRA BRODER e o trancamento da Queixa-Crime  ..  declarando a extinção da punibilidade tendo consumado o fenômeno processual da decadência (Arts. 103 e 107, IV, CP) e conseqüente extinção do procedimento penal (e-STJ fl. 56).
+É, em síntese, o relatório.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus impetrado contra decisão que indefere o pedido de medida liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do STF), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido.
+(AgRg no HC 349.925/RJ, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido.
+(AgRg no HC 345.456/SP, Relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016 - grifei)
+Assim, entendo que a questão em exame necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar a argumentação da impetração e as provas juntadas ao writ lá impetrado no momento adequado.
+Sem isso, fica esta Corte Superior impedida de analisar as teses aqui suscitadas, sob pena de incorrer em indevida supressão de instância e de incidir em patente desprestígio às instâncias ordinárias.
+Ademais, não há se falar em flagrante constrangimento ilegal ou manifesta teratologia no caso em questão aptos a permitir a superação do referido óbice processual, pois, conforme consignado pela autoridade apontada como coatora (e-STJ fls. 112/113):
+A concessão de medida liminar em Habeas Corpus serve para remediar situações excepcionais, onde seja manifesta a ilegalidade e/ou abuso de poder, "desde que presentes os requisitos das medidas cautelares em geral: fumus boni iuris e perículum in mora"  2 .
+Na espécie, não se verifica este último requisito, posto que inexistente risco imediato de constrição ao direito de liberdade, pressuposto imprescindível para justificar a concessão da medida vindicada antes do adequado aparelhamento e julgamento do writ pelo órgão colegiado.
+Ademais, verifico inexistir também o fumus boni iuris, eis que a argumentação ventilada pelo Impetrante e os precedentes indicados não se coadunam com a atual jurisprudência da Corte Superior, segundo a qual a mera menção do tipo penal no instrumento procuratório basta para satisfazer os requisitos do art. 44 do Código Penal.  ..
+Ainda que diferente fosse, a Corte Superior firmou entendimento no sentido de que "o processo penal é regido pelo princípio do pas de nullité sans grief e, por consectário, o reconhecimento de nulidade, ainda que absoluta, exige a demonstração do prejuízo (CPP. art. 563)", providência não adotada pelo Impetrante.
+Concluo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
