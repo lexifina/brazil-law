@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de petição apresentada pela Empresa Brasileira de Serviços Hospitalares (EBSERH) por meio da qual requer a reconsideração do acórdão proferido nos embargos de declaração no agravo interno, que acolheu os embargos para sanar a omissão apontada, mas deixou de analisar a tese de coisa julgada em razão da ausência de prequestionamento.
+Alega que "O parágrafo 3º do artigo 485 do diploma processual de 2015 possibilita ao juiz conhecer de ofício, "em qualquer tempo e grau de jurisdição", enquanto não ocorrer o trânsito em julgado, as seguintes matérias: a) ausência de pressupostos processuais (inciso IV); b) existência de perempção, de litispendência ou de coisa julgada (inciso V); c) ausência de legitimidade de parte ou de interesse processual (inciso VI); e d) intransmissibilidade da pretensão deduzida em juízo (inciso IX)" (e-STJ fl. 635).
+Sustenta que "como são consideradas de ordem pública, mesmo sem qualquer provocação da parte interessada, o juiz ou tribunal de segundo grau poderá proferir decisão, de ofício, sem exame do mérito com fundamento em uma das referidas hipóteses. Assim, embora o juiz de primeiro grau e o Tribunal regional federal pudessem/devessem reconhecer a alegada matéria da coisa julgada de oficio, assim não fizeram, embora esta parte tenha alegado a mesma diversas vezes seja na contestação, na petição de contrarrazões ao recurso de apelação, assim, como posteriormente ao recurso de apelação, ainda na instancia ordinária, apresentou petição especificamente dirigida a tal fim (fls. 481/484), que também não fora considerada por aquele Tribunal" (e-STJ fls. 635/636).
+Por tal razão, aduz que "a matéria fora deveras questionada nas instancias ordinárias, não podendo esta parte arcar com os prejuízos pela inércia dos órgãos juridicionais em apreciar a matéria. Nesse sentido, solicita-se a reconsideração da decisão anterior, de modo a entender que a matéria fora pre questionada nas instancias ordinárias, apreciando-se assim, o julgamento da mesma por esta Corte superior" (e-STJ fl. 636).
+Por fim, requer que seja dado seguimento ao recurso extraordinário interposto na origem, caso não seja provido o recurso especial.
+É o relatório. Decido.
+Inviável o acolhimento de pedido de reconsideração.
+Destaca-se inicialmente que o inconformismo da parte em face do acórdão proferido pelo órgão colegiado deve ser manifestado por meio dos recursos próprios, não sendo possível a revisão do julgado por meio de petição de reconsideração.
+Ademais, conforme já consignado no acórdão proferido às e-STJ fls. 628/632, a matéria referente à coisa julgada não foi apreciada pelo Tribunal de origem no julgamento do recurso de apelação, e não foi suscitada pela recorrente nos embargos de declaração lá opostos.
+De igual forma, a recorrente não alegou no presente recurso especial ofensa ao art. 1022 do CPC/2015, por negativa de prestação jurisdicional, em razão de referida omissão.
+Logo, inviável a análise da questão diretamente por esta Corte Superior, ainda que se trate de matéria de ordem pública, sendo indispensável o prequestionamento da matéria perante o Tribunal de origem.
+Nesse sentido os seguintes julgados:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÃO NO ACÓRDÃO RECORRIDO. VÍCIO NÃO CONFIGURADO. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO. NECESSIDADE. POLICIAL FEDERAL. APOSENTADORIA. LEIS N. 3.313/1957 E 4.878/1965. SUPERVENIÊNCIA DA LC 51/1985. CÔMPUTO PROPORCIONAL DE 20%. IMPOSSIBILIDADE.
+1. Inexiste violação do art. 535, II, do CPC/1973 se a tese da prescrição, não apresentada nos embargos declaratórios opostos contra o acórdão recorrido, é apontada apenas no recurso especial.
+2. Entendendo a parte pela necessidade de pronunciamento do tema em reexame necessário, deveria ter submetido a questão ao Tribunal a quo ainda que em aclaratórios, porque, mesmo as matérias de ordem pública, submetem-se ao requisito do prequestionamento.
+3. O Policial Federal que, no início da vigência da Lei Complementar n. 51/1985, não havia implementado os requisitos para a obtenção da aposentadoria não tem direito ao cômputo do tempo de serviço prestado sob a égide da Lei n. 3.313/1957 com acréscimo de 20% (vinte por cento). Precedentes.
+4. Recurso especial parcialmente provido.
+(REsp 1383671/RN, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 09/05/2019, DJe 20/05/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO. INOVAÇÃO RECURSAL. INADMISSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. CONHECIMENTO DE OFÍCIO NO STJ. INVIABILIDADE. NECESSIDADE DE PREQUESTIONAMENTO.
+1. Configura-se descabida inovação recursal a sugestão de teses, em Agravo Interno, não suscitadas no apelo nobre ou em suas contrarrazões.
+2. Ressalta-se ainda que a justificativa de se tratar de matéria de ordem pública (legitimidade passiva ad causam) não torna possível o conhecimento da matéria nas instâncias extraordinárias, pois indispensável o prequestionamento. Precedentes do STJ.
+3. Agravo Interno não conhecido.
+(AgInt no REsp 1758141/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/05/2019, DJe 29/05/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO SUBMETIDO AO ENUNCIADO ADMINISTRATIVO 3/STJ. EXAME DA ORDEM. QUESTÃO RESOLVIDA COM BASE EM PRINCÍPIO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME EM RECURSO ESPECIAL. 1. A alegada litispendência, além de constituir indevida inovação recursal, não poderia ser examinada em razão da falta de prequestionamento, ainda que seja matéria de ordem pública.
+2. A questão da atribuição da nota à candidata foi decidida de modo integral e suficiente, com base no princípio da isonomia, razão pela qual não há falar em violação aos arts. 458 e 535 do CPC/1973.
+3. Sob pena de usurpação da competência do Supremo Tribunal Federal, não há como reformar o acórdão recorrido em sede de recurso especial porque sua fundamentação decorre do princípio constitucional da isonomia.
+4. Agravo interno não provido.
+(AgInt no AREsp 1232485/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 23/08/2018, DJe 29/08/2018)
+Por fim, certificado o trânsito em julgado do acórdão proferido às e-STJ fls. 626/632, encaminhem-se os autos ao Supremo Tribunal Federal para análise do recurso extraordinário interposto no Tribunal de origem às e-STJ fls. 489/522 e admitido à e-STJ fl. 564.
+Publique-se. Intimem-se.
