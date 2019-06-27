@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo apresentado por BERSA PRODUTOS GRÁFICOS EIRELI e OUTRO, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim resumido:
+EXCEÇÃO DE PREEXECUTIVVIDADE. Execução por título extrajudicial. Instrumento particular de confissão de dívida.
+Irrelevância da circunstância de existirem notas promissórias atreladas ao contrato de confissão de dívida. Eficácia executiva do título reconhecida. Decisão que rejeitou a exceção de preexecutividade mantida. Recurso improvido.
+Dispositivo: negaram provimento ao recurso. (fl. 91)
+Alega, pela alínea "a" do permissivo constitucional, violação do art. 803, I, do CPC, no que concerne à nulidade da execução, trazendo o(s) seguinte(s) argumento(s):
+Na espécie a Recorrida emitiu Nota Promissória a seu favor como garantia do Instrumento Particular de Confissão de Dívida, fato previsto na cláusula 4ª transcrita a seguir: ..
+Ocorre que a emissão de Nota Promissória como garantia do contrato evidencia mútuo financeiro, que é vedada às empresas de fomento mercantil, visto que somente instituições financeiras autorizadas e fiscalizadas pelo Banco Central do Brasil podem realizar empréstimos no mercado financeiro. (fl. 111)
+Fato não observado pelo nobre Desembargador Relator, com a devida vênia, apesar de ter sido demonstrado nas alegações expostas no Agravo de Instrumento e nos Embargos Declaratórios, com efeito de prequestionamento, opostos pela Recorrente. (fl. 112)
+É o relatório. Decido.
+No que concerne ao recurso, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+O Tribunal de origem assim consignou:
+É que, ao contrário do que sustentam os devedores, o contrato de confissão de dívida, ao qual estão vinculadas as notas promissórias referidas pelo credor, mas que não embasam a execução, tem plena eficácia executiva, tanto é que aludido pacto contempla empréstimo de valor determinado, tendo sido especificados no ajuste os encargos convencionados, por isso que indisputável que o título exequendo se harmoniza com o ordenamento jurídico vigente e preenche os requisitos de liquidez, certeza e exigibilidade, atributos que o qualificam como título executivo extrajudicial, tanto que assinado pelo devedor e por duas testemunhas (CPC, 784, III).
+Desimportante, assim, a existência de notas promissórias vinculadas ao contrato de confissão de dívida, o que, em tese, poderia macular a higidez dos títulos, caso o exequente realmente exercesse atividade de fomento mercantil, o que, no entanto, não se verifica na espécie, porquanto tem o credor natureza jurídica de fundo de investimento titular de crédito recebido por cessão do credor originário. (fl. 92)
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
