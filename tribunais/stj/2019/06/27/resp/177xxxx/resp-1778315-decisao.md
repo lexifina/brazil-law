@@ -1,0 +1,48 @@
+EMENTA
+RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. NULIDADE DO TÍTULO EXECUTIVO E VÍCIO NA GARANTIA PESSOAL PRESTADA. MATÉRIAS NÃO ACOLHIDAS NA INSTÂNCIA ORDINÁRIA. CONCLUSÃO AMPARADA NA ANÁLISE DOS FATOS E DAS PROVAS JUNGIDOS AOS AUTOS E DA CÉDULA DE CRÉDITO BANCÁRIO JUNTAMENTE COM OS DEMAIS DOCUMENTOS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE APRECIAÇÃO DADA A INCIDÊNCIA DA SÚMULA 7/STJ. 2. TESE DE OCORRÊNCIA DA SUPRESSIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. 3. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] & [NOME] Ltda. - ME, [NOME] e [NOME] contra acórdão do Tribunal Regional Federal da 4ª Região.
+Segundo depreende-se dos autos, os embargos à execução opostos pelos ora recorrentes em desfavor de Caixa Econômica Federal foram julgados improcedentes, porquanto não comprovada a recusa da ré em receber valores nem demonstrada justificativa para a inadimplência ou cobrança de valores excessivos.
+Contra a sentença os executados interpuseram apelação, a qual foi desprovida pela Terceira Turma do Tribunal a quo, conforme o acórdão assim ementado (e-STJ, fl. 220):
+ADMINISTRATIVO. CIVIL. PROCESSUAL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. EXIGIBILIDADE. OUTORGA UXÓRIA. VALIDADE. RENEGOCIAÇÃO. APRESENTAÇÃO DE CONTRATOS ANTERIORES. DISPENSÁVEL. BENEFÍCIO DE ORDEM. RENÚNCIA.
+1. A exigência de outorga uxória, tanto para a fiança como para o aval, encontra previsão no art. 1.647, III, do Código Civil, e foi observada no caso dos autos.
+2. A utilização dos embargos do devedor não é o meio adequado para a embargante promover a revisão de contratos pretéritos, ainda que deles tenham originado o título exequendo, uma vez que seu processamento desvirtua a finalidade da ação de execução, diante do efeito protelatório da instrução probatória exigida para o conhecimento da questão. Registre-se que não se está negando ao embargante a possibilidade de revisar judicialmente em ação específica os contratos anteriores com a finalidade de afastar eventuais ilegalidades praticadas pelo agente financeiro, conforme faculta o enunciado da Súmula n.º 286 do STJ. Sendo a execução baseada em título autônomo (cédula de crédito bancário), os pertinentes embargos só podem versar sobre defeitos ou vícios extrínsecos a ele inerentes.
+3. Conforme prevê o art. 28 da Lei n.º 10.931/2004, a cédula de crédito bancário tem natureza jurídica de título executivo extrajudicial, porquanto vinculada a contrato de financiamento pelo qual a instituição financeira empresta um valor certo ao mutuário com prévia fixação do prazo para pagamento e do valor das parcelas é revestido de certeza e liquidez, e constitui título executivo extrajudicial.
+4. No contrato de financiamento objeto da execução embargada, está expressa a renúncia do fiador ao benefício de ordem previsto no artigo 827 do Código Civil, tendo, pois, assumido a condição de principal pagador da obrigação garantida.
+Os embargos de declaração opostos pelos demandantes foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, os recorrentes alegam a existência de divergência jurisprudencial e de violação aos arts. 113, 421, 422, 1.647, 1.648 e 1.649 do Código Civil; 26 da Lei n. 10.931/2004; e 585, II, 586 e 618 do Código de Processo Civil de 1973; e às Súmulas 233 e 332 do STJ.
+Sustentam, em síntese, que a inexistência de outorga uxória no título executado torna nulo o contrato, além de ser ilegítima para figurar no polo passivo da execução a demandante [NOME], à vista da nulidade da garantia por ela prestada. Outrossim, defendem que os documentos acostados aos autos da execução de título extrajudicial, notadamente o contrato de abertura de crédito com confissão de dívida e os demonstrativos de débito, não caracterizam título executivo, além de estarem desprovidos dos requisitos de certeza, liquidez e exigibilidade. Ao final, aduzem ser descabida a execução, porquanto operada a supressio, sendo que a inércia da instituição financeira por longo período gerou nos insurgentes expectativa de que não mais seriam cobrados.
+Sem contrarrazões.
+Foi admitido o apelo extremo na origem.
+Brevemente relatado, decido.
+Quanto à nulidade do título executivo, seja por ausência de outorga uxória seja por não preenchimento dos requisitos legais, bem como em relação à ilegitimidade passiva de [NOME], por suposto vício na garantia por ela prestada, o Tribunal de origem, sopesando o acervo fático-probatório do feito, afastou tais matérias, julgando improcedentes, por conseguinte, os embargos à execução opostos pelos demandantes, nos termos do que se depreende dos trechos subsecutivos do aresto hostilizado (e-STJ, fls. 214-218):
+DA OUTORGA UXÓRIA
+Compulsando os autos, verifica-se que a cônjuge ([NOME]) do embargante lançou sua assinatura na condição de co-devedora/avalista ou fiador (evento 1- CONTR11 dos autos de execução), e na Cédula de Crédito Bancário GiroCAIXA Instantâneo - 0380.197.00001694-4 (evento 1- CONTRIO dos autos de execução), assinou como co-devedora, na condição de devedora solidária.
+Não assiste razão à apelante, pois conforme o contratos em exame verifica-se que a embargante [NOME] anuiu à fiança prestada por seu marido, apondo sua assinatura em todos os contratos em tela, o que legitima a garantia prestada à CEF, afastando a sua pretensão de anular a execução de título extrajudicial nº 5007256-78.2015.4.04.7001, haja vista que respeitada a exigência inserida no inc. III do art. 1.647 do Código Civil.
+ ..
+Assim, constatado que ambos os cônjuges firmaram o negócio, por óbvio devem ser solidariamente responsáveis pelo adimplemento da obrigação contraída.
+ ..
+DA CERTEZA, LIQUIDEZ E EXIGIBILIDADE DO TÍTULO
+A cédula de crédito bancário é título executivo extrajudicial representativo de operações de crédito de qualquer natureza e representa dívida em dinheiro, certa, líquida e exigível, na forma da Lei nº 10.931/2004.
+ ..
+O art. 26 da referida norma permite que a cédula de crédito bancário seja emitida para "operação de crédito, de qualquer modalidade", abrangendo o crédito concedido aos embargantes, conforme teor abaixo colacionado:
+ ..
+A despeito do reconhecimento de que a cédula de crédito possui natureza de título executivo extrajudicial, não verifico qualquer vício que possa ensejar a nulidade da execução, na medida em que todos os requisitos essenciais foram observados, em consonância com o que dispõe o art. 29 da 10.931/2004:
+ ..
+Dessa forma, examinando os demais documentos que instruem a peça inicial da ação executiva constantes no evento 1 - EXTR5, PLAN6, PLAN7, PLAN8, e PLAN9 do processo 5007256-78.2015.4.04.7001, além da referida cédula, houve a juntada do Demonstrativo de evolução contratual, com as especificações dos encargos contratados e do Demonstrativo de débito, a partir dos quais é possível identificar os consectários aplicados na evolução da dívida, além do histórico dos extratos da conta-corrente da embargante.
+Assim, o processo instruído com as planilhas demonstrativas de débito e extratos que demonstram a movimentação do numerário contratado é suficiente para a instrumentalização da ação executiva.
+ ..
+Dessarte, inexiste qualquer irregularidade à luz da Lei n. 10.931/2004 e da jurisprudência vinculante, de modo a ensejar o reconhecimento da inexistência de título de executivo pleiteado pelos embargantes.
+Logo, para derruir a conclusão lançada no acórdão combatido (acerca da regularidade do título executivo extrajudicial e da garantia prestada), seria imprescindível o reexame dos fatos e das provas do respectivo processo e da Cédula de Crédito Bancário, o que não se admite nesta instância extraordinária, em razão dos óbices das Súmulas 5 e 7 do STJ.
+Ressalte-se que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Corrobora esse entendimento o seguinte julgado:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO. DANO MORAL. MANUTENÇÃO INDEVIDA DE GRAVAME. QUANTUM INDENIZATÓRIO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL.
+INEXISTÊNCIA DE SIMILITUDE.
+1. A revisão de indenização por danos morais só é viável em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso.
+2. Tratando-se de danos morais, é incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos são distintos.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n 794.875/RS, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 3/12/2015, DJe 10/12/2015)
+No que concerne à supressio, constata-se da leitura dos autos, que a matéria não foi objeto de debate pela instância ordinária, carecendo, assim, do indispensável prequestionamento, a atrair a incidência das Súmulas 282 e 356 do STF.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro a verba honorária em favor dos advogados da parte recorrida em 3% sobre o valor do débito perseguido nos autos da execução de título extrajudicial, suspensa a exigibilidade, porquanto beneficiários da gratuidade da justiça os recorrentes (art. 98, § 3º, do CPC/2015).
+Publique-se.
