@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. Não havendo impugnação específica acerca de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula 182 deste Tribunal Superior.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por [NOME] em virtude de decisão da Presidência do Superior Tribunal de Justiça, às fls. 228-229 (e-STJ), que não conheceu do agravo em recurso especial, porquanto a agravante absteve-se de impugnar todos os fundamentos da decisão agravada, o qual foi proferida nos seguintes termos:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ e Súmula 211/STJ.
+Entretanto, a parte Agravante deixou de impugnar especificamente os referidos fundamentos.
+E, como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Alega a parte agravante que discorreu sobre todos os óbices utilizados pelo Tribunal de origem para fundamentar o não seguimento ao recurso especial.
+Insiste nas violações apontadas no recurso especial e pede o provimento do agravo.
+Sem impugnação (e-STJ, fl. 239).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. Não havendo impugnação específica acerca de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula 182 deste Tribunal Superior.
+2. Agravo interno a que se nega provimento.
+
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Inicialmente, cumpre transcrever a ementa do acórdão recorrido, proferido pela Décima Sexta Câmara Cível, à fl. 136 (e-STJ):
+LOCAÇÃO. AÇÃO DE DESPEJO. DEMONSTRADA A RELAÇÃO LOCATÍCIA EXISTENTE ENTRE AS PARTES E O INADIMPLEMENTO DOS ALUGUÉIS, IMPÕE-SE O JULGAMENTO DE PROCEDÊNCIA DO PEDIDO DEDUZIDO NA INICIAL. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO. UNÂNIME.
+O agravo interno não merece prosperar.
+Verifica-se que a parte agravante não refutou nenhum dos fundamentos da decisão agravada (Súmula 7 e Súmula 211), tendo se limitado a reeditar as mesmas razões do recurso especial.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento por ausência de cumprimento dos requisitos exigidos no art. 932, III, do CPC/2015 (correspondente ao artigo 544, § 4º, I, do Código de Processo Civil/1973), segundo o qual não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada. Assim:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. CONFIRMAÇÃO DA AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ. RECURSO NÃO PROVIDO. 1. Na hipótese em exame, aplica-se o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC." 2. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a incidência do óbice previsto na Súmula 182 do Superior Tribunal de Justiça. 3. Agravo regimental improvido. (AgInt. no AREsp. 986.062/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/2/2017, DJe 22/2/2017).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
