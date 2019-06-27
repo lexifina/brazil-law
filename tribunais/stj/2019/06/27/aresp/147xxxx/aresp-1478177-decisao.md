@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. TESE DE ILEGITIMIDADE PASSIVA AFASTADA. PLANO DE SAÚDE RÉU É PARTE LEGÍTIMA PARA FIGURAR NO PÓLO PASSIVO DA DEMANDA. NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA. AUTOR QUE TEVE OPORTUNIDADE NA PRODUÇÃO DE TODAS AS PROVAS NECESSÁRIAS AO JULGAMENTO DA LIDE. PREJUDICIAL DE MÉRITO AFASTADA. PEDIDO DE JUSTIÇA GRATUITA NÃO CONHECIDO. FALTA DE INTERESSE RECURSAL, ANTE O DEFERIMENTO A TAL BENEFÍCIO PELO MAGISTRADO A QUO. ALEGAÇÃO DE ILEGALIDADE NA NEGATIVA DE COBERTURA DE SEGURO DE SAÚDE. FATO CONSTITUTIVO DO DIREITO ALEGADO. ÔNUS DO AUTOR. AUSÊNCIA DE COMPROVAÇÃO. DANO MORAL INEXISTENTE. SENTENÇA MANTIDA. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+Alegou-se, no especial, violação dos artigos 1.022, 489, 355 e 370 do Código de Processo Civil e 6º do Código de Defesa do Consumidor sob o argumento de que o acórdão estadual é omisso, que a multa aplicada no julgamento dos embargos de declaração é indevida e que houve cerceamento de defesa, seja pela falta de oportunidade para se produzir a prova, seja pela não inversão de seu ônus.
+Assim delimitada a controvérsia, passo a decidir.
+Não é omisso, nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+Quanto ao cerceamento de defesa e a inversão do ônus da prova, as alegações são incompreensíveis.
+Diz-se isso porque consta no acórdão de origem que, não se realizando a audiência de instrução e julgamento na data marcada por ausência de patrono do recorrente, houve sua redesignação, de modo que "aberta a segunda audiência com todas as partes presentes, estas concordaram que a matéria a ser tratada era unicamente de direito, não havendo provas a ser produzidas em audiência" (e-STJ, fl. 226).
+Se as partes concordaram, portanto, que a matéria a ser julgada era unicamente de direito, não pode o recorrente alegar que não pôde produzir provas pretendidas e nem que deveria ter havido a inversão de seu ônus, haja vista o inequívoco comportamento contraditório no processo.
+Inafastável, pois, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+De outro lado, esta Corte tem entendimento sumulado no sentido de que os embargos de declaração opostos como o propósito de prequestionamento não se revestem de caráter protelatório, como ensina o enunciado n. 98.
+No caso dos autos, destacou expressamente o agravante que era "impossível verificar, diante do contido no acórdão confrangido, a (in)aplicabilidade in haec specie do art. 6º, VIII do CDC, premissa necessária, inclusive, ao manuseio de eventuais recursos extraordinários" (e-STJ, fl. 241).
+Diante do exposto, conheço do agravo e dou parcial provimento ao recurso especial apenas para afastar a multa aplicada no julgamento dos embargos de declaração.
+Intimem-se.
