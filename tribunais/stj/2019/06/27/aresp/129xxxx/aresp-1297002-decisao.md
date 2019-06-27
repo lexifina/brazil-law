@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A. contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 402):
+"ERRO MÉDICO. MENOR QUE SOFREU FRATURA DO MEMBRO SUPERIOR ESQUERDO NA ALTURA DO PUNHO.
+Prematura retirada de gesso que, apesar da redução da fratura, não estava consolidada e mesmo assim foi mantido sem imobilização, o que levou a perda da redução em níveis inaceitáveis, ensejando a realização de procedimento cirúrgico ortopédico posterior. Laudo pericial conclusivo. Dano moral.
+Verificação. Infante que se viu tolhido de suas atividades cotidianas, tendo que submeter-se a procedimento cirúrgico em razão de imperícia de profissional vinculado à ré. Dano reflexo ou por ricochete. Inocorrência. Inexistente situação de comprovada repercussão dos efeitos do evento danoso na esfera pessoal da genitora do paciente. Cuidados maternais inerentes à relação de filiação. Honorários contratuais. Não cabimento. Entendimento STJ. Contratação em circunstâncias particulares, totalmente alheias à vontade do condenado.
+Decisão parcialmente reformada, apenas para exasperar o montante indenizatório. Apelo da ré improvido. Recurso dos autores provido em parte."
+Nas razões do recurso especial, NOTRE DAME INTERMÉDICA SAÚDE S.A. alega, além de dissídio jurisprudencial, violação aos arts. 944 do Código Civil, aduzindo, em síntese, que o valor de R$18.000,00 (dezoito mil reais) a título de danos morais se mostra exorbitante.
+Contrarrazões às fls. 443-445.
+Instado a se manifestar, o d. Ministério Público Federal opinou pelo desprovimento do recurso, conforme parecer (fls. 476-482), da lavra do em. Subprocurador-Geral da República, Dra. [NOME].
+É o relatório. Decido.
+Cumpre observar que o recurso especial foi interposto contra acórdão publicado publicado já na vigência do CPC de 2015, aplicando-se ao caso o Enunciado Administrativo n.º 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O recurso em apreço não merece prosperar.
+Com efeito, ao apontar violação ao art. 944 do CC, a recorrente sustenta que o quantum indenizatório foi arbitrado em patamar exorbitante, sem levar em consideração os critérios de razoabilidade e proporcionalidade ao dano sofrido. O TJ-SP, por sua vez, soberano na análise do acervo fático-probatório, consignou que o valor de R$18.000,00 (dezoito mil reais) se mostra hábil a compensar a dor do recorrido, que passou por inegáveis dissabores, hábeis a abalar sua saúde e integridade física, tendo que se submeter a procedimento cirúrgico em decorrência da prematura retirada do gesso de seu punho esquerdo. Confira-se excerto do v. acórdão estadual (fl. 406):
+ "No tocante ao montante indenizatório, devem ser observadas a repercussão do dano e suas consequências, a condição socioeconômica das partes envolvidas, e o grau de culpa, tudo a fim de zelar pelo caráter preventivo e repressivo da reparação aqui confirmada.
+ Nestes moldes, o quantum arbitrado a título de danos morais comporta majoração, para o patamar de R$18.000,00 (dezoito mil reais), montante hábil a compensar a dor do apelante infante, que passou por inegáveis dissabores, hábeis a abalar sua saúde e integridade física, tendo que submeter-se a procedimento cirúrgico em decorrência da prematura retirada do gesso de seu punho esquerdo.
+ Frise-se que o valor apontado pelo paciente (cinquenta salários mínimos) destoa-se em muito dos parâmetros adotados por esta E. Corte, já que poderá ensejar enriquecimento sem causa à parte autora." (grifou-se)
+Sobre o tema, tem-se que a iterativa jurisprudência desta eg. Corte Superior é no sentido de que a revisão do montante da indenização por danos morais esbarra no óbice da Súmula n. 7/STJ, a qual somente é relativizada se o quantum revelar-se exorbitante ou irrisório. Nessa linha de intelecção, confiram-se os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso.
+Incidência da Súmula 7 do STJ.
+2. Agravo interno desprovido."
+(AgInt no AREsp 1325793/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/11/2018, DJe 20/11/2018 - grifou-se)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ATROPELAMENTO POR CAMINHÃO A SERVIÇO DE EMPRESA PRESTADORA DE SERVIÇO PÚBLICO. RESPONSABILIDADE OBJETIVA. CULPA EXCLUSIVA DA VÍTIMA NÃO DEMONSTRADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. AMPUTAÇÃO DO MEMBRO INFERIOR ESQUERDO. DANOS ESTÉTICOS. MAJORAÇÃO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+(..)
+5. É pacífico o entendimento desta Corte de que o valor fixado a título de indenização por danos estéticos e danos morais estabelecido pelas instâncias ordinárias pode ser revisto nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade.
+(..)
+7. Agravo interno não provido."
+(AgInt no REsp 1406744/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 13/03/2018, DJe 16/03/2018 - grifou-se)
+No caso dos autos, o valor arbitrado em R$18.000,00 (dezoito mil reais) a título de danos morais, em razão da cirurgia realizada em menor de idade decorrente de erro médico, não se mostra exorbitante, devendo ser confirmada a incidência do óbice da Súmula n. 7/STJ.
+Pela alínea "c" do permissivo constitucional, tem-se que, segundo a jurisprudência desta Corte, é incabível a arguição de divergência jurisprudencial tratando-se de valoração dos danos morais, pois os elementos subjetivos e fáticos subjacentes às causas são distintos, afastando o requisito da similitude fática necessário ao conhecimento do recurso especial interposto pela alínea "c", do inciso III, do art. 105 da Constituição Federal. Nesse sentido, destacam-se os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DIREITO CIVIL E PROCESSUAL CIVIL. QUANTUM DOS DANOS MORAIS. AUSÊNCIA DE DESPROPORCIONALIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA. AGRAVO DESPROVIDO.
+(..)
+2. No tocante à alegada divergência jurisprudencial sobre o valor fixado a título de danos morais, consoante consolidada jurisprudência desta Corte, é incabível a arguição de divergência jurisprudencial tratando-se de valoração dos danos morais, pois os elementos subjetivos e fáticos subjacentes às causas são distintos a afastar o requisito da similitude fática necessário ao conhecimento do especial interposto com fulcro no art. 105, III, c, da Constituição Federal.
+3. Agravo interno desprovido."
+(AgInt no AREsp 1265258/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 12/06/2018, DJe 20/06/2018 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CADASTRO DE INADIMPLENTES. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA DA INSCRIÇÃO. DANOS MORAIS. 1. QUANTUM INDENIZATÓRIO. RAZOABILIDADE DO VALOR ARBITRADO. INCIDÊNCIA DA SÚMULA 7/STJ. 2. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO INVIÁVEL. INEXISTÊNCIA DE SIMILITUDE FÁTICA. 3. AGRAVO IMPROVIDO.
+(..)
+2. Tratando-se de valor da indenização por danos morais, inviável a análise da divergência jurisprudencial suscitada, pois, ainda que possa haver aparente semelhança nas características das demandas confrontadas, os fundamentos dos acórdãos serão sempre distintos, em face das peculiaridades de cada caso concreto.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1151795/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/02/2018, DJe 26/02/2018 - grifou-se)
+Por fim, registre-se, ainda, que o d. Ministério Público Federal também corrobora o entendimento ora externado, como consta do irretocável parecer, do qual se decalca o seguinte excerto, adotando-o na presente motivação (fls. 480-482):
+ "No presente caso, o valor indenizatório fixado pelo Tribunal de origem se deu com a devida fundamentação, após amplos debates pelas instâncias ordinárias, não se mostrando irrisório ou exorbitante a justificar a reavaliação em sede de recurso especial, como se observa no seguinte excerto (fls. 404/406):
+(..)
+ Conclui-se que escorreito o entendimento externado pela decisão aqui agravada de que a questão demanda a análise do caso concreto, com a inserção no material fático-probatório dos autos, medida incabível na via eleita, nos termos da Súmula 7/STJ.
+ Ademais, "quanto ao recurso especial fundado na alínea c do dispositivo constitucional, é pacífica a jurisprudência desta Corte no sentido de que a incidência do enunciado n. 7 da Súmula do STJ impede o exame de dissídio jurisprudencial" (AgInt no Resp 1655427/SP, Rel. Min. Francisco Falcão, Dje 9-4-2018)." (grifou-se)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
