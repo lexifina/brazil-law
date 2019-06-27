@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo, interposto pelo BANCO DO BRASIL SA, contra decisão que inadmitiu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional em face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado da Bahia, assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. AÇÃO MONITORIA. CONTRATO DE ABERTURA DE CONTA-CORRENTE. IMPUGNAÇÃO. GRATUIDADE DA JUSTIÇA. REJEITADA. PRELIMINAR. CERCEAMENTO DE DEFESA. AFASTADA. MÉRITO. PROVA DO AUTOR DA MONITORIA. INEXISTENTE. SENTENÇA REFORMADA. RECURSO PROVIDO.
+Quanto a impugnação do agravado à concessão da gratuidade da justiça, o mesmo não merece acolhimento, na medida em que a Constituição Federal, em seu art. 5o. LXXIV, assegura o beneplácito da assistência judiciária integral e gratuita, por parte do Estado, aos que comprovarem sua insuficiência de recursos.
+Noutro ponto, quanto a preliminar de cerceamento de defesa, sob alegação de que não caberia o julgamento antecipado da lide, posto que deveria o magistrado oportunizar às partes especificar as provas que pretendia produzir, a mesma não prevalece, na medida cm que o saneamento se deu em audiência.
+O autor alegou que a referida a operação de crédito perfectibilizada por meio da conta corrente especial foi ilegal, posto que não foi movimentada por ele e não reconhece como sua as assinaturas apostas nos cheques emitidos e no contrato.
+O Banco não acostou qualquer elemento suficiente para demover a alegação do embargante de que não realizou o contrato e não assinou os cheques que ensejaram a dívida, nem tampouco comprovou que não houve falha no serviço prestado.
+Em razão da inércia do banco em afastar a imputação que lhe foi dirigida pelo Autor, infere-se haver razão ao embargante." (fl. 421).
+Nas razões do recurso especial, a parte agravante alega violação ao art. 1.013, § 1º, do Código de Processo Civil de 2015, bem como divergência jurisprudencial, sustentando, em síntese, que, "em continuação ao voto o Desembargador relator foi além dos limites estabelecidos pela matéria devolvida ao Tribunal e proferiu julgamento sobre questão não suscitada no recurso e muito menos requeridas pelo apelante em seus pedidos. O acórdão foi além e reformou a sentença dando provimento ao Recurso de Apelação para julgar Improcedente a Ação Monitória, sendo que o Recurso tinha o objetivo de anular a sentença em face da inexistência de oportunidade às partes à especificação das provas" (fl. 434).
+É o relatório. Decido
+Quanto à alegada violação do art. 1.013, § 1º, do Código de Processo Civil de 2015, verifica-se que o conteúdo normativo do dispositivo invocado no apelo nobre não foi apreciado pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe 25/11/2014)
+Pela alínea "c" do permissivo constitucional, tampouco prospera o especial, dada ausência de prequestionamento do dispositivo de lei federal agitado para a comprovação do dissídio pretoriano. Nessa linha de intelecção, destaca-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. INVIABILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ATRASO NA ENTREGA DE IMÓVEL. DANO MORAL VERIFICADO NO CASO CONCRETO. VALOR DA INDENIZAÇÃO. EXAGERO NÃO CONSTATADO. AGRAVO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos na petição de recurso especial, mas não debatidos e decididos nas instâncias ordinárias, ainda que opostos embargos de declaração, porquanto ausente o indispensável prequestionamento. Aplicação da Súmula 211/STJ.
+2. Os recursos especiais interpostos com base na alínea "c" do permissivo constitucional não dispensam o necessário prequestionamento da questão jurídica, o que não ocorreu no presente caso, pois é impossível haver divergência sobre determinada questão federal se o acórdão recorrido nem mesmo emitiu juízo de valor acerca da matéria jurídica.
+(..)
+7. Agravo interno não provido".
+(AgInt no AREsp 1022840/AM, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 19/10/2017, DJe 25/10/2017 - grifou-se)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 15% sobre o valor da causa para 16% sobre o respectivo valor, ressalvados os efeitos da assistência judiciária gratuita.
+Publique-se.
