@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por SANTO ANTÔNIO ENERGIA S.A., fundamentado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado (e-STJ, fl. 621):
+"Processual civil. Agravo de Instrumento. Rol taxativo. Enquadramento. Ausência. Inadmissibilidade."
+Nas razões recursais, a parte recorrente aponta violação do art. 373, I e II, do CPC/2015.
+Afirma, em suma, que é ônus do autor comprovar os fatos constitutivos de seu direito, além de sustentar a impossibilidade de inversão do ônus da prova com base no princípio da precaução, tendo em vista que se trata de ação de natureza patrimonial individual, e não de natureza ambiental de interesse difuso ou coletivo.
+Aduz, ademais, que não está caracterizada a hipossuficiência dos recorridos e que inexiste relação de consumo entre as partes.
+É o relatório. Passo a decidir.
+Consta do acórdão atacado (e-STJ, fl. 620):
+" ..  reitero que na decisão agravada não foi decretada a inversão do ônus da prova, apenas salientou-se acerca da responsabilidade do poluidor pagador, prevista na Lei 6.938/81 (dispõe sobre a Política Nacional do Meio Ambiente), sem, contudo, retirar-se da parte autora o ônus de comprovar os fatos constitutivos de seu direito. Em seguida, na mesma decisão, atribuiu-se à parte agravante o ônus de arcar com os honorários periciais, conjuntamente com a litisconsorte Santo Antônio Energia, por terem ambas requerido a produção de tal espécie de prova. Para melhor esclarecimento, transcrevo trecho (meus grifos):
+Por ora, salienta-se a respeito da sistemática da responsabilidade objetiva adotada pela Lei 6.938/81, e recepcionada pela ordem jurídica moderna, no sentido de que o Direito Ambiental defende princípios como o do poluidor pagador que, por analogia, se aplica ao caso em discussão.
+ ..
+Feitas tais considerações e independentemente da hipossuficiência patente dos requerentes isso não dispensa os postulantes da obrigação de provar o alegado (CPC, art. 333, I).
+ ..
+Nomeio como perito o engenheiro de pesca [NOME]. Arbitro honorários no importe de R$ 3.000 que deverão ser pagos pelas requeridas Energia Sustentável do Brasil e Santo Antônio Energia diante do pedido de produção da reportadas prova por ambas de forma partilhada e considerando a ausência de pedido oriundo dos requerentes que aliás, são hipossuficientes, cuja quantia deverá ser depositada no prazo de 5 dias.
+Assim, é incabível a emissão de juízo de valor acerca de questão ainda não decidida em primeiro grau, o que importaria em supressão de instância, procedimento sabidamente vedado, de modo que, ausente motivação apta à modificação da decisão agravada, mantenho-a, negando provimento a este agravo."
+Como visto, o Tribunal de origem afirmou que não foi decretada, pela decisão objeto de agravo de instrumento, a inversão do ônus da prova, mas apenas mencionado acerca da responsabilidade do poluidor, prevista na Lei 6.938/1981, sem, contudo, afastar dos recorridos o ônus de comprovar os fatos constitutivos do direito alegado na ação indenizatória por eles ajuizada. Concluiu, por fim, que não poderia emitir juízo de valor sobre questão ainda não decidida em primeiro grau.
+Assim, o acórdão atacado está fundamentado na ausência de inversão do ônus da prova, ao passo que o recorrente se limita a arguir que é ônus do autor comprovar os fatos constitutivos de seu direito, bem como a impossibilidade de inversão do ônus da prova com base no princípio da precaução, argumentos dissociados da exposição contida no acórdão do Tribunal de origem, o que atrai a incidência da Súmula 284/STF, diante da deficiência na fundamentação do apelo extremo.
+Diante do exposto, nos termos do art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
