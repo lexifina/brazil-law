@@ -1,0 +1,46 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AGRAVO DE INSTRUMENTO. ACORDO CELEBRADO POR PARTES DIVERSAS. SENTENÇA HOMOLOGATÓRIA. EQUÍVOCO. TEORIA DA RELATIVIZAÇÃO DA COISA JULGADA. NULIDADE ABSOLUTA. PRECEDENTES. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Da acurada análise do agravo de instrumento que deu origem ao presente recurso pode-se depreender que [NOME] LOCADORA EQUIPAMENTOS LTDA ([NOME]) ajuizou ação de rescisão de contrato c/c cobrança contra CESENGE ENGENHARIA LTDA. (CESENGE).
+No curso da ação, [NOME] peticionou informando a realização de acordo extrajudicial e pleiteou a sua homologação.
+Aos 16/3/2015 o acordo foi homologado por sentença.
+Após, a [NOME] LOCADORA informou que o acordo não se referia à presente ação requerendo o prosseguimento do feito.
+O Juiz de piso revogou a sentença que homologou o acordo em virtude da ausência de composição entre as partes.
+Contra essa decisão, CESENGE interpôs agravo de instrumento afirmando que após o trânsito em julgado da sentença somente é possível o ajuizamento da ação rescisória.
+O Tribunal de origem negou provimento ao recurso em acórdão, assim ementado:
+AGRAVO DE INSTRUMENTO - CONVERSÃO EM AGRAVO RETIDO - ACORDO CELEBRADO POR PARTES DIVERSAS - SENTENÇA HOMOLOGATÓRIA - EQUÍVOCO - TEORIA DA RELATIVIZAÇÃO DA COISA JULGADA - NULIDADE ABSOLUTA - APELAÇÃO - DESNECESSIDADE - PEDIDO DE REVOGAÇÃO - VALIDADE. O momento para conversão do recurso em agravo retido é o despacho inicial do relator, quando são examinados os requisitos para seu conhecimento e a alegada urgência da medida. A teoria da relativização da coisa julgada deve ser aplicada naquelas situações em que há injustiça, grave fraude processual ou erro grosseiro. Sendo absolutamente nula a sentença, em observância aos princípios da celeridade e da economia processual, deve-se considerar válido o pedido de revogação formulado pela Agravada, sendo desnecessário exigir a interposição de recurso de apelação ou o ajuizamento de ação rescisória (e-STJ, fl. 92).
+Irresignada, a CESENGE interpôs recurso especial com fulcro no art. 105, III, a e c, sustentando a violação dos arts. 485 e 513 do CPC/73 em virtude da violação da coisa julgada. Alegou que apenas a ação rescisória poderia desconstituir a sentença que homologou o acordo.
+Foram apresentadas contrarrazões (e-STJ, fls. 116/127).
+É o relatório.
+DECIDO.
+O inconformismo não merece provimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Do mérito
+CESENGE sustentou a violação dos arts. 485 e 513 do CPC/73 em virtude da violação da coisa julgada. Alegou que apenas a ação rescisória poderia desconstituir a sentença que homologou o acordo.
+O Tribunal de origem consignou que a sentença que homologou o acordo é nula de pleno direito e não produz coisa julgada, porque o acordo não trata de matéria discutida nos autos e foi celebrado entre a [NOME] LOCADORA e terceiro que não integrava a lide, confira-se:
+A sentença de f. 24 é. pois, nula de pleno direito, não produzindo efeito de coisa julgada, já que o acordo não trata da matéria discutida nos autos, e foi celebrado entre a Agravada e terceiro que não integra a lide.
+Ora, considerando que o acordo pressupõe o encontro de vontades das partes transigentes, a sentença não o poderia homologar, pois se refere a processo diverso.
+Nesse caso, a Justiça não pode acobertar decisão que, por equívoco, fere princípios do direito, como o princípio da congruência ou adstrição, razão pela qual a coisa julgada pode ser relativizada.
+Não obstante se trate de matéria extremamente polêmica, os processualistas, em sua maioria, têm aceitado a teoria da relativização da coisa julgada naquelas situações em que há injustiça, grave fraude processual ou, ainda, erro grosseiro, como no caso em exame (e-STJ, fl. 95).
+O STJ, muito embora admita a relativização da coisa julgada, o faz tão somente em situações excepcionalíssimas nas quais a segurança jurídica tiver que ceder em favor de outros princípios ou valores mais importantes.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. APLICAÇÃO DA SÚMULA 182/STJ. DECISÃO DECLARATÓRIA. DESCONSTITUIÇÃO DA COISA JULGADA. IMPOSSIBILIDADE. RELATIVIZAÇÃO DA COISA JULGADA. EXCEPCIONALIDADE. IMPOSSIBILIDADE NO CASO CONCRETO.
+1. Nos termos do art. 1021, § 1º, do CPC/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência da Súmula n. 182/STJ.
+2. Na hipótese dos autos, não bastasse ter de veicular sua pretensão à desconstituição da coisa julgada em competente ação rescisória, o ora recorrente teve a oportunidade, naquela anterior ação, de produzir todas as provas que lhe fossem úteis para demonstrar a existência de fato extintivo, impeditivo ou modificativo do direito do autor, não havendo que se admitir, em ação declaratória, em claro prejuízo à segurança das relações jurídicas, a tentativa de desconstituição da coisa julgada anteriormente formada sob a alegação de que foi realizada nova perícia.
+3. Conforme disposto no art. 508 do CPC, correspondente ao art. 474 do CPC/1973, transitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido, não sendo possível, em virtude da eficácia preclusiva da coisa julgada material, infirmar o resultado a que anteriormente se chegou em decisão transitada em julgado, ainda que por via oblíqua.
+4. Esta Corte Superior, muito embora admita a relativização da coisa julgada, o faz tão somente em situações excepcionalíssimas nas quais a segurança jurídica tiver que ceder em favor de outros princípios ou valores mais importantes.
+5. Tampouco é suficiente para se proceder à relativização da coisa julgada tão somente a alegação de que existe documento capaz de solver determinada divergência anteriormente verificada no bojo do processo e que já foi apreciada pelo Poder Judiciário.
+6. Mesmo aquelas questões previstas no art. 504 do CPC, quando o seu exame se destinar a demonstrar que o magistrado errou em seu julgamento, comprometendo, desse modo, a segurança da sentença transitada em julgado, são inviáveis de reapreciação, não se abalando a sentença acobertada pelo manto da coisa julgada, nem mesmo em virtude de alegações de nulidade da própria sentença ou dos atos que a antecederam (salvo casos de ação rescisória).
+7. Agravo interno não provido.
+(AgInt no AREsp 1.263.854/MT, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 27/11/2018, DJe 4/12/2018)
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. REVISÃO DO TÍTULO EXECUTIVO. RELATIVIZAÇÃO DA COISA JULGADA. INADMISSIBILIDADE.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+2. Segundo a jurisprudência do Superior Tribunal de Justiça, "a relativização da coisa julgada só tem cabimento em situações excepcionalíssimas, nas quais a segurança jurídica tiver que ceder em favor de outros princípios ou valores mais importantes, o que não ocorre na hipótese de honorários advocatícios fixados em eventual inobservância dos ditames previstos no artigo 20, §§ 3º e 4º, do CPC/1973. Frente a mero erro de julgamento, a correção deve ser requerida oportunamente por meio dos recursos cabíveis ou da ação rescisória, procedimentos não tomados pela parte devedora" (AgInt no AgInt no AREsp 172.277/AL, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/05/2017, DJe 23/05/2017).
+3. Para o Supremo Tribunal Federal, "é inviável a relativização da coisa julgada, para afastar, na fase de execução do julgado, eventual equívoco constante da formação do título executivo ocorrido durante a tramitação do feito em sua fase de conhecimento" (RE 695.558 AgR/RJ, rel. Min. DIAS TOFFOLI, Primeira Turma, julgado em 19/08/2014, DJe 30/10/2014).
+4. Recurso especial desprovido.
+(REsp 1.449.753/RS, Rel. Ministro GURGEL DE FARIA, Primeira Turma, j. 21/9/2017, DJe 17/11/2017)
+É o que se verifica no caso em apreço no qual houve a homologação de acordo entre partes que não integravam à lide e, portanto, a consequente nulidade absoluta da sentença que extinguiu a ação, não se tratando de mero erro de julgamento como afirmado pela recorrente.
+Assim, o acórdão recorrido não deve ser reformado porque em consonância com o entendimento da jurisprudência desta Corte, atraindo, quanto ao ponto o óbice da Súmula nº 568 do STJ.
+Nessas condições, NEGO PROVIMENTO ao apelo nobre.
+Publique-se. Intimem-se.
