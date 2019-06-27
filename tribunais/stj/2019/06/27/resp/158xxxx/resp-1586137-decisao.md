@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, mediante o qual se impugna acórdão, promanado do Tribunal Regional Federal da 3ª Região, assim ementado:
+"AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - FRAUDE À EXECUÇÃO - ART. 185, CTN - LC 118/2005 - ANTERIORIDADE - CITAÇÃO - CONSTRIÇÃO DA MARCA COMERCIAL - PARCELAMENTO - SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO - RECURSO IMPROVIDO.
+1. A fraude de execução (art. 185, CTN) vem em prejuízo não só para os credores, como na fraude contra credores, prejudica também a eficácia da prestação da atividade jurisdicional, na medida em que visa obstar o processo execução, ou condenatório, já em discussão.
+2. Como forma de afastar a ofensa à jurisdição, a lei entende como ineficaz o ato de alienação ou oneração fraudulenta do bem perante o exeqüente, mantendo a propriedade do terceiro, mas com responsabilidade daquele patrimônio responder pelo débito.
+3. Para a caracterização da fraude de execução, há de se ponderar na prévia existência de constrição de bem do devedor.
+4. Instaurada a execução e lavrada a penhora, a caracterização da fraude independerá de qualquer prova, pois o gravame processual acompanha o bem. Também independerá o estado de solvência ou insolvência do executado, porquanto assinalada a intuição de dificultar o processo executivo.
+5. Antes da vigência das alterações trazidas pela LC 118/2005, quando, embora instaurada a execução, não houvesse qualquer constrição judicial do patrimônio do devedor, a caracterização exigia prova do "eventus damni" e "consilium fraudis", ou seja, do dano ou prejuízo decorrente da insolvência a que chegou o devedor coma disposição do bem e a ciência da demanda em curso, que se dá com a citação do devedor.
+6. A Lei Complementar n.º118/2005 alterou a redação do art. 185, do CTN, e acabou por ampliar o período de suspeição dos atos alienatórios ou onerosos dos bens ou rendas, ou seu começo, por sujeito passivo em débito com a Fazenda Pública, por crédito tributário regularmente inscrito como dívida ativa. Nota-se, portanto, que basta a inscrição do débito, sem a exigência da propositura da execução fiscal.
+7. Na hipótese, a inscrição em dívida ativa ocorreu em 27/12/1996 (fl. 19); a execução foi proposta em 2/5/1997 (fl. 18) e a executada compareceu aos autos em novembro/1998 (fl. 31). Ainda, cumpre ressaltar que a transmissão dos imóveis de matrícula 172.056 (fl. 320/v), 205.183 (fl. 322) e 167.902 (fl. 341/v) ocorreu em 5/4/2001 (data do registro da alienação na matrícula do bem).
+8. Considerando que a execução fiscal foi proposta antes da vigência das alterações trazidas pela LC 118/2005 ao CTN, da mesma forma que a alienação do bem, aplica-se o art. 185, CTN, em sua antiga redação: "Art. 185. Presume-se fraudulenta a alienação ou oneração de bens ou rendas, ou seu começo, por sujeito passivo em débito para com a Fazenda Pública por crédito tributário regularmente inscrito como dívida ativa em fase de execução.Parágrafo único: O disposto neste artigo não se aplica na hipótese de terem sido reservados pelo devedor bens ou rendas suficientes ao total pagamento da dívida em fase de execução".
+9. Na ocasião da alienação do imóvel, a executada havia sido citada, de modo que caracterizada - em tese - a fraude à execução, quanto aos imóveis indicados.
+10. Em sede do Agravo de Instrumento nº 2002.03.00.012469-8, esta Terceira Turma decidiu, ainda que por maioria, na sessão de julgamento de 3/5/2006, pela possibilidade de constrição da marca comercial da executada e, ainda que interposto recurso especial pela Fazenda Pública, não se tem notícia que atribuição de efeito suspensivo a ele. Destarte, não se justifica, ao menos neste momento processual, a penhora dos imóveis se deferida a constrição da marca comercial.
+11. O débito, como própria exeqüente/agravante afirma, encontra-se com a exigibilidade suspensa (art. 151. VI, CTN), em decorrência do parcelamento (Lei nº11.941/2009) aderido e adimplido até o momento.
+12. Compulsando os autos, verifica-se que inocorreu qualquer constrição dos bens indicados, não justificando, portanto, sua manutenção.
+13. Agravo de instrumento improvido" (fls. 427/429e).
+Embargos de Declaração rejeitados (fls. 436/442e).
+No Recurso Especial, manejado com base na alínea a do permissivo constitucional, alega-se violação aos arts. 535 e 593 do CPC/73 e 185 do CTN.
+Sustenta-se, em síntese, o seguinte:
+"É importante destacar que, o questionamento quanto à penhora da marca comercial da executada nos autos do agravo de instrumento nº 2002.03.00.012469-8 não importa, diretamente, no desprovimento do presente agravo de instrumento, ou eventual perda de interesse, eis que a decisão lá proferida não transitou em julgado.
+Com efeito, a decisão de primeiro grau, diante da notícia de eventual pagamento, apenas reconsiderou decisão que havia reconhecido a fraude à execução e determinou que as alienações dos imóveis fossem consideradas ineficazes. Percebe-se, portanto, que o correto seria ante o reconhecimento da fraude à execução, é ser dado provimento ao agravo de instrumento.
+Caberá ao D. Juízo de primeiro grau dirimir a aplicabilidade das decisões decorrentes deste agravo de instrumento e da proferida nos autos do agravo nº 2002.03.012469-8, eis que as duas, ao invés de se repelirem, na verdade se complementam.
+Logo, é muito improvável que em eventual leilão, seja obtido algum sucesso na alienação da marca comercial da executada. Haja vista, que se trata de bem de difícil alienação e avaliação (propriedade intelectual), além de não de despertar interesse, a não ser de um número limitado de pessoas.
+Assim, o reconhecimento da fraude à execução, neste momento, apenas salvaguardaria o direito da Fazenda vir, posteriormente, a proceder à alienação dos imóveis aqui questionados.
+Conclui-se, pois, que a r. decisão guerreada não presta a devida homenagem aos artigos 185 CTN e artigos 535 e 593 do CPC, razão pela qual impor-se-ia o provimento ao agravo de instrumento, justificando-se a insurgência em face do v. Acórdão que negou provimento ao recurso da União" (fls. 450/451e).
+Aduz-se, ainda, que o acórdão recorrido padeceria de omissão.
+Requer-se, por fim, "a V. Exa., observados os pressupostos de admissibilidade do Recurso, inclusive o requisito do prequestionamento, seja o mesmo admitido e, após processamento regular, perante o Colendo Superior Tribunal de Justiça, tenha conhecimento e provimento, com a reforma do v. Acórdão de fls. nos pontos supra impugnados" (fl. 451e).
+Contrarrazões às fls. 458/465e.
+Recurso Especial admitido (fls. 467/468e).
+O presente recurso não merece prosperar.
+Impossível conhecer da alegação de omissão, assacada contra o acórdão recorrido. Com efeito, a ora recorrente deixou de indicar, com clareza, na própria petição do seu Especial, no que consistiria, exatamente, essa suposta omissão, não sendo suficiente a mera afirmação genérica da necessidade de análise, pelo julgado, de determinados dispositivos legais. De aplicar, no ponto, por analogia, a Súmula 284/STF.
+No mérito propriamente dito, é pacífica a jurisprudência do STJ no sentido de que, já estando garantida a execução fiscal, por meio de penhora de outros bens, não há de se cogitar de fraude à execução, em razão da venda, pelo executado, de bens não constritos, salvo prova da sua insolvência.
+Senão, vejamos:
+"PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. EXECUÇÃO FISCAL. DÍVIDA GARANTIDA COM PENHORA. ALIENAÇÃO DE OUTRO BEM. PRESUNÇÃO DE FRAUDE INEXISTENTE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. Havendo penhora na Execução, a alienação de outro bem não constrito somente induz à presunção de fraude se o devedor for insolvente. Precedentes do STJ.
+3. Recurso Especial não provido" (STJ, REsp 1.248.142/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 31/08/2011).
+"PROCESSUAL - FRAUDE À EXECUÇÃO - INOCORRÊNCIA - PENDÊNCIA DE EXECUÇÃO (CPC, ART. 593, II) - EXISTÊNCIA DE BENS PENHORADOS.
+- Não há fraude se a venda malsinada efetivou-se quando a execução já se encontrava segura por penhora incidente sobre outros bens do devedor" (STJ, EREsp 101.472/RJ, Rel. Ministro HUMBERTO GOMES DE BARROS, CORTE ESPECIAL, DJe de 15/10/2001).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, nego provimento ao Recurso Especial.
+Sem honorários. Decisão interlocutória.
+I.
