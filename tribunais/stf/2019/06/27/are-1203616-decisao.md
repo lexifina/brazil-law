@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 18, p. 19):
+    “APELAÇÃO ORDINÁRIA IPTU, exercícios de 2013 a 2015 Município de São Paulo Lançamento complementar. Fato gerador ocorrido com o término da construção de galpões industriais, nos termos da legislação municipal. Habite-se que não serve de baliza para o lançamento do tributo - Precedentes desta Corte. Recursos Improvidos.”
+    No recurso extraordinário, com fundamento no art. 102, III, alíneas “a”, “c” e “d” do permissivo constitucional, aponta-se ofensa aos artigos “(...)146, inciso III, alínea "a", 150 e 154, inciso I, todos da Constituição Federal e aos artigos 62 e 32, ambos do Código Tributário Nacional ao passo de que foi reconhecida, pelo v. Acórdão recorrido, a constitucionalidade/legalidade do artigo 2°, inciso II, e §§, da Lei Municipal de São Paulo n° 10.235/86, com as alterações e acréscimos resultantes da edição da Lei Municipal de São Paulo n° 15.406/11.” (eDOC 18, p. 29).
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário em virtude da incidência da Súmula 279 do STF e do não cabimento do recurso em relação às alíneas “c” e “d” do permissivo constitucional (eDOC 24, p. 17).
+    É o relatório. Decido.
+    O recurso não merece provimento.
+    O Colegiado local assim se manifestou acerca da controvérsia (eDOC 18, p. 21-22):
+    “De início, cumpre esclarecer que a Lei Municipal 6.989/66, com as alterações promovidas pela Lei Municipal 15.406/2011, é clara ao prever a ocorrência do fato gerador do IPTU no primeiro dia do mês subsequente à ocorrência da construção de edificação que implique alteração do valor venal do imóvel. Confira-se:
+    […]
+    Como se vê, o lançamento realizado após o término da construção de bem imóvel não se confunde com o lançamento realizado no início de cada exercício, previsto no inciso I do sobredito diploma, ou de revisão de lançamento, mas sim de novo fato gerador.
+    […]
+    De outro lado, contudo, o fato gerador só ocorre quando efetivamente há o término da construção, de modo que, tendo sido realizada a construção dos 5 galpões em etapas, o lançamento só poderia ocorrer após o efetivo término da obra. Assim, como bem pontuado pelo D. Juízo sentenciante, tomando-se por base a declaração de término parcial de obra (fls. 66/ss), no ano de 2013 ainda não havia sido finalizada a construção dos 4 primeiros galpões, o que ocorreu apenas no exercício de 2014, quando houve o acréscimo de 5.193,46 m2 (20/01/2014) e 3.947,96 m2 (30/05/2014), os quais são fato gerador do IPTU. Por fim, em 02/2015, além dos 4 galpões construídos, o autor terminou a obra do 5º galpão, ensejando novo fato gerador.
+    Além disso, os artigos 8º e 9º da já mencionada Lei Municipal nº 15.406/2011 estabelecem que, para efeito de incidência do IPTU, se presume concluída a obra na data indicada pelo responsável da construção na requisição do certificado de quitação do ISS, o que, como se observa nos requerimentos do autor e dos certificados de conclusão parcial (fls. 66/ss e 113/ss), ocorreram nas já mencionadas datas dos anos de 2014 e 2015.
+    Daí porque, tendo sido o Município notificado pelo autor da existência de construção no imóvel, não se poderia exigir outra atitude do ente tributante senão o lançamento complementar considerando a área construída, o que está de acordo com a dicção do art. 2º, §1º, inciso II, alínea “a”, da Lei Municipal 6.989/66.”
+    Desse modo, da análise do acórdão impugnado constata-se que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, inclusive de índole local (Leis municipais nºs 6.989/66, 10.265/86 e 15.406/11), de modo a inviabilizar o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF.
+    Ressalto que a mera pretensão de revisão da interpretação dada à legislação infraconstitucional não é suficiente a autorizar o conhecimento do apelo extremo com fundamento no art. 102, III, d, da Carta da República.
+    No mesmo sentido, observo que o pronunciamento impugnado não julgou válida lei local em face da Carta da República, o que não enseja a interposição do apelo extremo com base na alínea c do permissivo constitucional.
+    Ante o exposto, nego provimento ao recurso extraordinário, nos termos dos arts. 932, IV, a, do CPC e 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de junho de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
