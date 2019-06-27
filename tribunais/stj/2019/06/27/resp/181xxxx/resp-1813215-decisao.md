@@ -1,0 +1,20 @@
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CASSAÇÃO DE REGISTRO PROFISSIONAL. PRESCRIÇÃO. MATÉRIA JULGADA COMO REPETITIVO. RESP 1.270.439/PR (TEMA 529/STJ). DEVOLUÇÃO DOS AUTOS À ORIGEM PARA ADEQUADO JUÍZO DE CONFORMAÇÃO. RECURSO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 1ª Região, assim ementado (fl. 2024):
+PROCESSUAL CIVIL E ADMINISTRATIVO. CASSAÇÃO DE REGISTRO PROFISSIONAL. DECISÃO ADMINISTRATIVA PROFERIDA EM 2009. MANDADO DE SEGURANÇA IMPETRADO EM 2010 E EXTINTO SEM RESOLUÇÃO DO MÉRITO. AÇÃO DE RITO ORDINÁRIO AJUIZADA EM 2015. PRESCRIÇÃO. NÃO OCORRENCIA. SENTENÇA ANULADA.
+1.Não há que se falar em prescrição/decadência da presente ação, tendo-se em vista que, conforme se verifica à fl. 1.235 dos autos, o autor impetrou mandado de segurança em 26/05/2010 contra ato do Presidente do Conselho Regional de Medicina e do Presidente do Conselho Federal de Medicina.
+Referido mandado de segurança foi extinto sem resolução do mérito, tendo-se em vista a decadência do direito à impetração.
+2. Esta Corte tem entendimento no sentido de que a impetração do mandado de segurança interrompe o prazo prescricional, quando a questão controvertida no writ for a mesma na ação ajuizada sob o rito ordinário, exatamente a hipótese ocorrente nos autos. Precedente: AC 2004.38.01.004005-3 / MG;
+APELAÇÃO CIVEL. Relator: DESEMBARGADOR FEDERAL LUCIANO TOLENTINO AMARAL. Órgão: SÉTIMA TURMA. Publicação: 13/12/2013 e-DJF1 P. 453. Data Decisão: 02/12/2013.
+3. Considerando que a decisão administrativa que cassou o registro profissional do autor ocorreu em 02/04/2009 e que o mandado de segurança foi impetrado em 26/05/2010, não há que se falar em prescrição/decadência do direito do autor, que ajuizou a presente ação em 16.04/2015.
+4. Apelação provida.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 1.030, II, do CPC/2015 e 9º, do DL n. 20.910/1932, ao argumento de que a impetração do Mandado de Segurança faz interromper o fluxo do prazo prescricional, que só é reiniciado com o transito em julgado da decisão que concede a segurança, quando volta a fluir pela metade.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 2058-2059.
+É o relatório. Passo a decidir.
+Esta Corte, no julgamento de Recurso Especial 1.270.439/PR, processado sob o rito dos feitos repetitivos, firmou a tese de que "interrompido o prazo, a prescrição volta a correr pela metade (dois anos e meio) a contar da data do ato que a interrompeu ou do último ato ou termo do respectivo processo, nos termos do que dispõe o art. 9º do Decreto n.º 20.910/32. Assim, tendo sido a prescrição interrompida no curso de um processo administrativo, o prazo prescricional não volta a fluir de imediato, mas apenas "do último ato ou termo do processo", consoante dicção do art. 9º, in fine, do Decreto 20.910/32" (Tema 529).
+Com efeito, o Superior Tribunal de Justiça já se posicionou no sentido de que, apesar de o § 8º do art. 543-C do CPC/1973 respaldar a manutenção, pelo Tribunal de origem, do acórdão que diverge da orientação fixada pelo STJ em julgamento de recurso repetitivo, "a melhor maneira de compatibilizar a ausência de efeito vinculante com o escopo visado pela legislação processual é entender, em abrangência sistemática, que a faculdade de manter o acórdão divergente da posição estabelecida por este Tribunal Superior em julgamento no rito do art. 543-C do CPC somente é admissível quando, no reexame do feito (art. 543-C, § 7º, do CPC), o órgão julgador, expressa e minuciosamente, identifica questão jurídica que não foi abordada na decisão do STJ e que diferencia a solução concreta da lide" (REsp 1.323.111/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/11/2012).
+Ante o exposto, conheço do recurso especial para cassar o acórdão recorrido, determinando o retorno dos autos à Corte de origem para que, no juízo de retratação a que alude o art. 1.030, II, do CPC/2015, decida em conformidade com a diretriz firmada no repetitivo consubstanciado no REsp 1.270.439/PR (Tema 529).
+Publique-se. Intimem-se.
