@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME], NATHALIA DA SILVA FIGUEIRA e CLARO MARIANO DE LIMA FILHO contra decisão exarada pela il. Terceira Vice-Presidência do eg. Tribunal de Justiça do Estado do Rio de Janeiro (TJ-RJ), que inadmitiu o recurso especial.
+Cuida-se, na origem, de agravo de instrumento manejado por [NOME], NATHALIA DA SILVA FIGUEIRA e CLARO MARIANO DE LIMA FILHO contra decisão exarada nos autos da ação de obrigação de fazer proposta por [NOME].
+O agravo de instrumento foi parcialmente provido pelo eg. TJ-RJ, nos termos do v. acórdão, assim ementado (fls. 35/36):
+"AGRAVO DE INSTRUMENTO. AGRAVANTES QUE SE INSURGEM, EM CUMPRIMENTO DE SENTENÇA, CONTRA DECISÃO DO JUÍZO QUE FIXOU O PERCENTUAL REFERENTE À VERBA HONORÁRIA.
+- Analisando os autos, o julgado em 1ª instância havia condenado os ora Recorrentes, solidariamente, ao pagamento de R$ 10.000,00 (dez mil reais) a título de dano moral e fixado os honorários advocatícios em 20% sobre o valor da condenação. O referido decisum foi reformado em 2ª instância, sendo invertidos os ônus sucumbenciais.
+- O acórdão exequendo não estabeleceu, de forma expressa, a base de cálculo dos honorários, tendo apenas determinado a inversão do ônus da sucumbência.
+- Desse modo, estabeleço a condenação em honorários da parte a final vencida, e, em que pese o entendimento do Agravante, considero que, no caso em tela, a fixação com base no valor da causa geraria um valor exorbitante, e, consequentemente, um enriquecimento sem causa em favor dos ora Agravantes. Com efeito, a condenação estipulada na sentença (anterior ao acórdão que inverteu a sucumbência) foi no percentual máximo de 20% sobre o valor da condenação (ou seja, 20% de R$ 10.000,00) e que o valor da causa é de R$ 100.000,00 (cem mil reais).
+- Assim, merece reforma a decisão agravada, devendo os honorários advocatícios ser fixados em R$ 4.000,00 (quatro mil reais), montante que se mostra de acordo com os parâmetros estabelecidos pelo art. 85, §8º, do CPC/15.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO".
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 53/58).
+Inconformados, [NOME], NATHALIA DA SILVA FIGUEIRA e CLARO MARIANO DE LIMA FILHO interpôs recurso especial, com fulcro no art. 105, inciso III, alíneas "a" e "c", da CF/88, no qual alegam, além da divergência jurisprudencial, violação dos arts. 489, § 1º, inciso VI, 502, 503, 505, 506, 507, 508 e 1.022, inciso II, do CPC/2015.
+Como dito, o apelo nobre foi inadmitido às fls. 144/146.
+Irresignados, [NOME], NATHALIA DA SILVA FIGUEIRA e CLARO MARIANO DE LIMA FILHO manejaram o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Foi apresentada contraminuta (fls. 206/217).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) será o exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Inicialmente, rejeita-se a alegada violação do art. 489, § 1º, inciso VI, e 1.022, ambos do CPC/2015, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/1973) - MEDIDA CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não há falar em violação aos artigos 458 e 535 do CPC/1973. Na hipótese, houve o julgamento das questões de maneira fundamentada, com clareza e exatidão no julgado, apenas não tendo sido adotadas as teses do insurgente. Consoante entendimento desta Corte, o julgador não precisa responder, nem se ater a todos os argumentos levantados pelas partes, se já tiver motivos suficientes para fundamentar sua decisão.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp 790.880/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/03/2017, DJe 04/04/2017, grifou-se)
+"RECURSO ESPECIAL. OFENSA AOS ARTIGOS 458 E 535 DO CPC. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO IMPUGNADO. ASSOCIAÇÃO DE MORADORES. COBRANÇA DE OUTROS ENCARGOS, DIFERENTES DA TAXA DE MANUTENÇÃO, DE MORADOR NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU. INVIABILIDADE.
+1. Quanto à admissibilidade do presente recurso especial por violação aos artigos 458 e 535 do CPC, impende consignar que não houve negativa de prestação jurisdicional, máxime porque a Corte local analisou as questões deduzidas pelo recorrente e adotou fundamentação suficiente e consentânea com a conclusão apresentada.
+(..)
+4. Recurso especial parcialmente provido."
+(REsp 1356251/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/06/2016, DJe 01/07/2016, grifou-se)
+Noutro aspecto, o apelo nobre merece provimento quanto aos arts. 502, 503, 505, 506, 507, 508 do CPC/2015. Sob as alegadas infringências, afirmam os recorrentes que o eg. Tribunal estadual não poderia alterar os parâmetros dos honorários, em sede de cumprimento de sentença, sob pena de ofensa à coisa julgada. O eg. TJ-RJ, por sua vez, assentou que os honorários, após inversão dos ônus sucumbenciais, deveriam ter sido fixados sobre o valor da causa, e não sobre o valor da condenação, pois este restou inexistente. Diante disso, após concluir que o valor seria exorbitante, estabeleceu novos parâmetros de fixação e estabeleceu a quantia de R$ 4.000,00 (quatro mil reais). Para fins demonstrativos, colacionam-se os seguintes excertos do v. acórdão estadual (fls. 38/39):
+"Analisando os autos, o julgado em 1ª instância havia condenado os ora Recorrentes, solidariamente, no pagamento de R$ 10.000,00 (dez mil reais) a título de dano moral e fixado os honorários advocatícios em 20% sobre o valor da condenação. O referido decisum foi reformado em 2ª instância, invertidos os ônus sucumbenciais.
+O acórdão exequendo não estabeleceu, de forma expressa, a base de cálculo dos honorários, tendo apenas, repita-se, determinado a inversão do ônus da sucumbência.
+Desse modo, em tese, deveriam os honorários advocatícios ser calculados sobre o valor da causa, não implicando esse procedimento em ofensa à coisa julgada, eis que o parâmetro para determinação do quantum devido a título de honorários não pode ser o valor de condenação inexistente, como requerem os Agravantes com base em precedentes do STJ.
+No entanto, em que pese o entendimento supra, há que se considerar que, no caso em tela, a condenação estipulada na sentença (anterior ao acórdão que inverteu a sucumbência) foi de 20% sobre o valor da condenação (ou seja, 20% de R$ 10.000,00) e que o valor da causa é de R$ 100.000,00 (cem mil reais). Com efeito, a fixação da condenação com base no valor da causa geraria um valor exorbitante, e, consequentemente, um enriquecimento sem causa em favor dos ora Agravantes.
+Assim, entendo que merece reforma a decisão agravada, devendo os honorários advocatícios ser fixados em R$ 4.000,00 (quatro mil reais), montante que se mostra de acordo com os parâmetros estabelecidos pelo art. 85, §8º, do CPC/15".
+Com efeito, o v. acórdão estadual encontra-se, data venia, em dissonância com a jurisprudência deste Sodalício, segundo o qual os honorários sujeitam-se à preclusão, de modo que eventual questionamento deve ser feito em momento oportuno. Nessa linha de intelecção, confiram-se:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE, RECONSIDERANDO O DECISUM ANTERIOR, CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DA EMBARGANTE/EXECUTADA.
+(..)
+2. Segundo a jurisprudência do Superior Tribunal de Justiça, a relativização da coisa julgada só tem cabimento em situações excepcionalíssimas, nas quais a segurança jurídica tiver que ceder em favor de outros princípios ou valores mais importantes, o que não ocorre na hipótese de honorários advocatícios fixados em eventual inobservância dos ditames previstos no artigo 20, §§ 3º e 4º, do CPC/1973. Frente a mero erro de julgamento, a correção deve ser requerida oportunamente por meio dos recursos cabíveis ou da ação rescisória, procedimentos não tomados pela parte devedora.
+3. Agravo interno conhecido em parte e, nessa extensão, desprovido".
+(AgInt no AgInt no AREsp 172.277/AL, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/05/2017, DJe 23/05/2017, grifou-se)
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. ALTERAÇÃO. IMPOSSIBILIDADE SOB PENA DE VIOLAÇÃO À COISA JULGADA. SÚMULA 83/STJ. FUNDAMENTO NÃO COMBATIDO. SÚMULA 182/STJ.
+(..)
+2. O Superior Tribunal de Justiça possui entendimento no sentido de que não é possível a modificação da verba arbitrada a título de honorários em sede de cumprimento de sentença, sob pena de violação à coisa julgada. Precedentes.
+(..)
+4. Agravo regimental a que se nega provimento".
+(AgRg no AREsp 578.681/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/12/2015, DJe 01/02/2016, grifou-se)
+Nesse cenário, o apelo nobre merece provimento a fim de reformar o v. acórdão estadual para restabelecer o parâmetro estabelecido na fase de conhecimento do processo e assim fixar a incidência do percentual de 20% (vinte por cento) sobre o valor da condenação.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, nos termos da fundamentação supra.
+Publique-se.
