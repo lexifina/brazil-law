@@ -1,0 +1,20 @@
+DECISÃO
+VERBETE VINCULANTE Nº 10 DA SÚMULA DO SUPREMO – INOBSERVÂNCIA – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    AeC Centro de Contatos S.A. assevera haver o Tribunal Regional do Trabalho da 3ª Região, no processo nº 0001722-46.2014.5.03.0139, desrespeitado o verbete vinculante nº 10 da Súmula do Supremo.
+    Segundo narra, a interessada, Karina Alves Jardim, ajuizou ação contra si, na condição de empregadora, e Cemig Distribuição S.A., esta na posição de tomadora dos serviços, visando o pagamento de verbas previstas em instrumentos coletivos firmados entre a concessionária de serviço público e os empregados, ante apontada ilicitude da terceirização. Relata a parcial procedência dos pedidos, tendo sido mantido o entendimento em sede de recurso ordinário, no que declarada irregular a intermediação de mão de obra. Ressalta a pendência de agravo interposto em virtude da inadmissão do extraordinário formalizado.
+    Sustenta contrariado o verbete vinculante nº 10, afirmando afastado, com alegada base na Constituição Federal e por órgão fracionário, o artigo 25, § 1º, da Lei nº 8.987/1995, a permitir a terceirização de atividades inerentes, acessórias ou complementares ao serviço concedido. Eis o teor da norma:
+    Art. 25. Incumbe à concessionária a execução do serviço concedido, cabendo-lhe responder por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, sem que a fiscalização exercida pelo órgão competente exclua ou atenue essa responsabilidade.
+    § 1º Sem prejuízo da responsabilidade a que se refere este artigo, a concessionária poderá contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço concedido, bem como a implementação de projetos associados.
+    Articula com a adequação da terceirização de tarefas inerentes ao serviço concedido, entre as quais se incluem, conforme destaca, atividade integrada à própria dinâmica produtiva, estando permitida a intermediação de mão de obra em qualquer situação. Menciona a Lei nº 13.429/2017 e os Temas nº 725 e 739 do repertório da repercussão geral. Evoca jurisprudência.
+    Requer a anulação do ato impugnado.
+    Vossa Excelência determinou o aparelhamento do caso objetivando o julgamento definitivo.
+    Por meio da petição/STF nº 26.038/2019, a reclamante postula o implemento de liminar. Diz da superveniente certificação do trânsito em julgado na origem, tendo sido iniciada a execução. Ressalta o prejuízo decorrente, o qual consiste no levantamento dos depósitos recursais pela interessada e na dificuldade para reaver eventuais valores quitados. Acrescenta prejudicado o próprio planejamento financeiro. Busca, no campo precário e efêmero, a imediata cassação do pronunciamento atacado e, sucessivamente, a suspensão deste, inclusive da execução.
+    2. Quanto ao arguido desrespeito ao verbete vinculante nº 10, notem, a partir da leitura dos fundamentos veiculados no ato questionado, que o Tribunal Regional do Trabalho, a par de haver enquadrado as tarefas desempenhadas pela interessada no âmbito das finalidades sociais da concessionária de serviço público, afastou, com base na isonomia, mesmo de forma implícita, o artigo 21, § 1º, da Lei nº 8.987/1995, por meio do qual permitida a terceirização de atividades inerentes, acessórias ou complementares ao serviço concedido.
+    Ao fazê-lo mediante órgão fracionário, desconsiderou a cláusula de reserva de plenário. Descabe potencializar a distinção entre atividades meio e fim, podendo estar nestas incluídas aquelas inerentes ao objeto social da tomadora dos serviços, a Cemig Distribuição S.A.
+    3. Defiro a liminar para suspender, até o julgamento final desta reclamação, a eficácia do acórdão formalizado pelo Tribunal Regional do Trabalho da 3ª Região no processo nº 0001722-46.2014.5.03.0139, inclusive a execução em curso.
+    4. Visando concluir o aparelhamento do caso para apreciação definitiva, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 27 de junho de 2019.
+Ministro MARCO AURÉLIO
+Relator
