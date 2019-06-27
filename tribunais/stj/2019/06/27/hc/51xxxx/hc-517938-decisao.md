@@ -1,0 +1,12 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E ORGANIZAÇÃO CRIMINOSA. INIDONEIDADE DO DECRETO, EXCESSO DE PRAZO E PEDIDO DE EXTENSÃO DA ORDEM CONCEDIDA EM FAVOR DE CORRÉU. INSTRUÇÃO DEFICIENTE. INADMISSIBILIDADE.
+Writ indeferido liminarmente (art. 210 do RISTJ).
+DECISÃO
+Neste habeas corpus, impetrado em favor de [NOME] - preso preventivamente e denunciado como incurso nos crimes tipificados nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, e no art. 2º da Lei n. 12.850/2013 (Processo n. 0024.15.119.838-9, 1ª Vara de Tóxicos da comarca de Belo Horizonte/MG) -, sob as alegações de que há constrangimento ilegal na prisão (por excesso de prazo e inexistência de fundamentação idônea no decreto) e de que há similitude fática entre a situação jurídica do paciente e a do corréu [NOME], beneficiado com a concessão da ordem nos autos do HC n. 1.0000.15.095616-7/000 (Tribunal de Justiça de Minas Gerias), requer-se, inclusive em caráter liminar, a extensão dos efeitos daquele acórdão e, subsidiariamente, o reconhecimento do excesso de prazo na prisão, com a expedição de alvará de soltura em favor do paciente.
+É o relatório.
+O writ, no entanto, é manifestamente inadmissível.
+Entre as teses veiculadas na impetração, consta as alegações de que não há fundamentação idônea para a prisão e de que o paciente faz jus à extensão da ordem concedida em favor de corréu nos autos do HC n. 1.000.15.095-616-7/000.
+Sucede que, compulsando os autos, não localizei a cópia da decisão que decretou a prisão preventiva do paciente, tampouco a cópia do acórdão que concedeu a ordem em favor de [NOME] (HC n. 1.0000.15.095616-7/000), circunstância que obsta a análise das teses referenciadas.
+Como é cediço, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente, e por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado (STF - AgRg no HC n. 103.240/RS, Ministro Ayres Britto, Segunda Turma, DJe 29/3/2011; HC n. 107.350/RS, Ministra Cármen Lúcia, Primeira Turma, DJe 19/5/2011; STJ - HC n. 197.183/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 30/6/2011; STJ - HC n. 119.702/PE, Ministra Jane Silva (Desembargadora Convocada do TJ/MG), Sexta Turma, DJe 2/3/2009).
+ Ante o exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique-se.
