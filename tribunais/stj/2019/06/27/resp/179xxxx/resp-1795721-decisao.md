@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICAN EM FASE DE CUMPRIMENTO DE SENTENÇA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDENCIA DO STJ. SÚMULA 568/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. NÃO CONFIGURAÇÃO. MULTA AFASTADA.
+1. Civil pública em fase de cumprimento de sentença.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, §1º do CPC.
+4. O acórdão recorrido que adota orientação conforme a jurisprudência do STJ não merece reforma. Súmula 568 do STJ.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+7. Afasta-se a multa do art. 1.026, §2º do CPC/15 quando não se caracteriza o intento protelatório na interposição dos embargos de declaração.
+8. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+DECISÃO
+Cuida-se de recurso especial interposto por UNIMED DE PRESIDENTE PRUDENTE - COOPERATIVA DE TRABALHO MÉDICO fundamentado, nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 25/06/2018.
+Concluso ao gabinete em: 26/04/2019.
+Ação: civil pública ajuizada pelo Ministério Público em face de UNIMED Presidente Prudente Cooperativa de Trabalho Médico, na qual se declarou a nulidade de cláusula contratual que permitia à ora recorrente praticar abusivos aumentos nas mensalidades dos planos de saúde, bem como a condenou à repetição do indébito em fase de cumprimento de sentença.
+Decisão interlocutória: homologou o valor da condenação em R$ 80.202,82, com correção monetária desde a conta e juros de mora a partir da citação.
+Acórdão: negou provimento ao agravo de instrumento interposto pela recorrente e majorou os honorários para 15% sobre o valor da condenação, nos termos da seguinte ementa:
+Ementa: Agravo de Instrumento Plano de Saúde Cumprimento individual de sentença, proferida em ação civil pública, intentada pelo Ministério Público, que declarou a nulidade de cláusula que permitia à ré o aumento abusivo das mensalidades e a condenou à repetição do indébito Interesse de agir que exsurge cristalino - Prazo prescricional de 03 anos a ser aplicado à espécie Tese firmada pelo Colendo Superior Tribunal de Justiça em sede de recurso repetitivo Contagem do prazo que se dá a partir da data em que entrou em vigor o atual Código Civil Ação civil pública que foi ajuizada no prazo legal Execuções individuais que se submetem ao prazo quinquenal de prescrição Entendimento consolidado pela Superior Instância nos autos do REsp 1.273.643/PR julgado sob o rito do artigo 543-C do CPC de 1973 Prescrição afastada Data do trânsito em julgado que é aquela devidamente certificada nos autos - Decisão mantida - Agravo desprovido.
+Embargos de declaração: opostos pela recorrente foram rejeitados com imposição de multa.
+Recurso especial: alega violação dos arts. 206, §3º, IV do CC e 489, §1º, 1.022, 1.026, §2º e 1.040, II do CPC/15, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta, em síntese, a incidência da prescrição trienal, para propositura da ação civil pública e da pretensão executória, nos termos do julgamento do recurso representativo da controvérsia, REsp nº 1.360.969. Aduz a existência de dissídio jurisprudencial quanto a data do trânsito em julgado a ser considerada como a data da interposição do recurso especial e insurge-se contra a aplicação da multa por embargos de declaração protelatórios.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/15.
+- Da violação do art. 1022 do CPC/2015.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca do início da contagem do novo prazo prescricional reduzido e quanto à correta data do trânsito em julgado, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+- Da Súmula 568 do STJ.
+No tocante à prescrição da pretensão executória, o entendimento jurisprudencial nesta Corte Especial, firmado pelo rito dos recursos repetitivos, consolidou-se no sentido de que no âmbito do Direito Privado, é de cinco anos o prazo prescricional para ajuizamento da execução individual em pedido de cumprimento de sentença proferida em Ação Civil Pública. Precedentes: AgRg no AREsp 112.794/PR, Quarta Turma, DJe 13/3/2018 e REsp 1.273.643/PR, Segunda Seção, DJe 4/4/2013 (Tema 515 do STJ).
+Ademais, não obstante os REsp nº 1.360.969/RS e 1.361.182/RS, julgados sob o rito dos recursos repetitivos e consagrado o entendimento quanto ao prazo prescricional trienal (art. 206, § 3º, V, do CC/02) para os casos que versarem sob a validade da cláusula de reajuste de mensalidade segundo a alteração de faixa etária do usuário, os referidos precedente somente podem ser aplicados para os casos de demandas individuais.
+Esta Corte já ressaltou que nas demandas coletivas o prazo prescricional é o quinquenal porque, na falta de dispositivo legal específico deve-se aplicar, por analogia, o prazo definido em outra legislação integrante do microssistema de proteção dos interesses transindividuais, afastando-se os prazos do código civil. Precedentes: Resp nº 1.473.846/SP, terceira Turma, DJe 24/02/2017 e REsp nº 1.070.896/SC, Quarta Turma, DJe 4/8/2010.
+ Logo, o recurso especial merece provimento, com base na Súmula 568/STJ.
+ - Da existência de fundamento não impugnado.
+Quanto à prescrição da ação originária e do recebimento dos valores, o Tribunal de origem consignou que: "Ora, nos termos do art. 2028 do Código Civil (Disposições Transitórias), "Serão os da lei anterior os prazos, quando reduzidos por este Código, e se, na data de sua entrada em vigor, já houver transcorrido mais da metade do tempo estabelecido na lei revogada".
+Assim, levando-se em conta a tese firmada pela Colenda Corte Superior, o prazo a ser considerado é mesmo o de 03 anos, na medida em que, embora as cobranças indevidas tenham se iniciado em 1997, verifica-se que a partir daí até a data em que entrou em vigor o novo Código Civil não transcorreu mais da metade do prazo de 20 anos que era previsto no Código de 1916" (e-STJ, fls. 419).
+Da acurada análise das razões do apelo nobre verifica-se que o fundamento da incidência da regra de transição do art. 2.028 do CC/02 não foi impugnado, o que atrai, a incidência da Súmula nº 283 do STF, por analogia.
+- Da divergência jurisprudencial.
+Em relação ao trânsito em julgado verifica-se nas razões do apelo nobre que não houve indicação de qualquer dispositivo da legislação infraconstitucional que foi objeto de interpretação divergente entre o acórdão recorrido e o paradigma indicado.
+A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1579618/PR, 3ª Turma, DJe de 01/07/2016; AgRg no RESP 1283930/SC, 4ª Turma, DJe de 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe de 17/03/2014.
+Obter dictum, a jurisprudência do STJ já reconheceu que o prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva - Tema 877 do STJ.
+- Da multa do art. 1.026, §2º do CPC/15.
+Da análise dos autos, percebe-se que os embargos de declaração interpostos pela recorrente não possuem intuito protelatório, razão pela qual, de acordo com a Súmula 98/STJ, a aplicação da multa prevista no parágrafo único do art. 1026, §2º do CPC/15 deve ser afastada.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como da Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PARCIAL PROVIMENTO, apenas para afastar a multa inserta no parágrafo único do art. 1026, §2º do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC/15.
+Publique-se. Intimem-se.
