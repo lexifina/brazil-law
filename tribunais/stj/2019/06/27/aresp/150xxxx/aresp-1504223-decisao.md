@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas a e c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Apelação. Consignatória. Alienação fiduciária. Alienação extrajudicial de bem imóvel. Arrematação ocorrida antes da formalização da triangulação processual. Ausente vedação para a prática do ato. Inexistência de prejuízo. Conversão em perdas e danos, que não prospera. Recurso improvido.
+Quanto à primeira controvérsia, pela alínea a do permissivo constitucional, alega violação dos arts. 502, 508, ambos do CPC, 34 e 39, II, ambos da Lei n. 9.514/96, no que concerne à violação da coisa julgada e ao direito de purgação da mora antes da arrematação, trazendo o(s) seguinte(s) argumento(s):
+Inescapável a conclusão de que o segundo Acórdão alegou ter encontrado um erro de fato no primeiro Acórdão e com base nisso violou a coisa julgada.
+ ..
+Portanto, nos presentes autos há um v. acórdão que reconhece o direito de purgação da mora pelos Apelantes e um segundo acórdão que diz ser impossível, agora com acréscimo de motivos os quais não existiam na época de prolação do primeiro (fls. 404/406)
+Quanto à segunda controvérsia, pela alínea c do permissivo constitucional, no que concerne ao direito de purgação da mora antes da arrematação, trazendo o(s) seguinte(s) argumento(s):
+Por fim, cumpre destacar que todos os paradigmas adotam a mesma fundamentação acerca da possibilidade da purgação da mora até o momento da lavratura do auto e arrematação, ao passo que a consolidação da propriedade em nome do credor fiduciário nada impede tal ato (fl. 411).
+É o relatório. Decido.
+Quanto à primeira controvérsia, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF" (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
