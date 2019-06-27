@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] DA COSTA, com fulcro na(s) alínea(s) "a" do permissivo constitucional, contra acórdão assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. PAGAMENTO REMUNERATÓRIO EM VALOR SUPERIOR AO DEVIDO. ERRO DA ADMINISTRAÇÃO. DECISÃO DO TCU. RESTITUIÇÃO AO ERÁRIO. DESNECESSIDADE. VERBA ALIMENTAR PERCEBIDA DE BOA -FÉ. REPOSIÇÃO DE VALORES DESCONTADOS. IMPOSSIBILIDADE.
+1. A sentença proferida está sujeita à remessa oficial, eis que de valor incerto a condenação imposta à União.
+2. O pagamento da remuneração do servidor em valor superior ao devido decorreu de erro exclusivo da Administração Pública, sem a participação do beneficiado; logo, tendo sido o importe recebido de boa -fé, fica afastada a necessidade de restituição ao erário dos valores indevidamente recebidos. - - 3. Doutra arte, a redução no pagamento do servidor, por mais relevantes que sejam os motivos, atacada por decisão do TCU, deve inexoravelmente ser antecedida do devido processo legal, por estancar, abruptamente, efeitos de caráter patrimonial.
+4. Inviável, todavia, o pedido de ressarcimento dos valores já descontados nos contracheques, pois, consoante precedentes firmados no âmbito desta Corte, "não há que se falar em determinação da devolução de valores já descontados nos contracheque dos impetrantes, o que implicaria em novamente fazer com que,a Administração efetuasse pagamento indevido, não sendo admissível que sob o manto da proteção à boa -fé se albergue a possibilidade de enriquecimento ilícito" (AMS 2002.33.00.011818-6/BA, Rel. Juiz Federal Ângelo de Alvarenga Lopes (conv), Primeira Turma, e-DJF1 p.55 de 26/02/2008).
+5. Havendo sucumbência recíproca, cada uma das partes deve arcar com os honorários de seus respectivos patronos.
+6. Apelação da União e remessa oficial, tida por interposta, parcialmente providas, nos termos dos itens 4 e 5.
+Rejeitados os aclaratórios.
+Nas suas razões, o (a) recorrente aponta violação dos seguintes dispositivos legais:
+a) arts. 458, II e 535, II, ambos do CPC/1973 (nulidade por negativa de tutela jurisdicional);
+b) arts. 649, IV, do CPC/1973 e 46 da Lei 8.112/1990 (necessidade de restituição de todos os valores descontados a título de reposição ao erário, dada a percepção de boa-fé);
+c) art. 2º da Lei 9.784/89 (afronta ao devido processo legal e ao princípio da segurança jurídica);
+d) art. 41, § 3, da Lei nº 8.112/1990 (afronta ao princípio da irredutibilidade dos vencimentos).
+Contrarrazões às e-STJ fls. 345/350.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Estabelecida tal premissa, observo que o Superior Tribunal de Justiça firmou o entendimento de que não há "violação aos arts. 458, II e 535, II, do CPC/1973, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que o embasam" (AgInt no REsp 1595920/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/10/2016, DJe 13/10/2016), como verificado no caso.
+Dito isso, observo que os autos versam sobre ação em que a parte autora postula o direito de não restituir ao erário os valores concernentes ao reajuste de 3,17% e desconstituídos por meio de decisão proferida pelo TCU, porquanto recebidos de boa-fé.
+O Regional proveu em parte o apelo da UNIÃO para reputar inviável o pedido de ressarcimento dos valores já descontados nos contracheques, pois, consoante precedentes firmados no âmbito desta Corte, "não há que se falar em determinação da devolução de valores já descontados nos contracheque dos impetrantes, o que implicaria em novamente fazer com que, a Administração efetuasse pagamento indevido, não sendo admissível que sob o manto da proteção à boa -fé se albergue a possibilidade de enriquecimento ilícito" (AMS 2002.33.00.011818-6/BA, Rel. Juiz Federal Ângelo de Alvarenga Lopes (conv), Primeira Turma, e-DJF1 p.55 de 26/02/2008).
+Tal postura, no entanto, confronta com o entendimento firmado nesta Corte de que a determinação de restituição dos valores eventualmente já descontados do servidor público é decorrência lógica do reconhecimento de que o desconto é indevido.
+A esse respeito, cito precedentes de ambas as Turmas de Direito Público:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. RECEBIMENTO DE VALORES INDEVIDOS. ERRO DA ADMINISTRAÇÃO. BOA-FÉ. DEVOLUÇÃO. DESCABIMENTO. REPETIÇÃO DO MONTANTE INDEVIDAMENTE DESCONTADO A TÍTULO DE REPARAÇÃO AO ERÁRIO. POSSIBILIDADE.
+I - A jurisprudência desta Corte Superior se consolidou no sentido de que é incabível a devolução de valores recebidos de boa-fé pelo servidor público se o pagamento resultou de erro da administração. Essa solução é aplicável mesmo se o equívoco for consequência de erro de cálculo ou falha operacional.
+II - A restituição dos valores que porventura já tenham sido descontados é decorrência lógica do reconhecimento de que o desconto é indevido.
+III - Recurso especial provido.
+(REsp 1758037/CE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 21/03/2019, DJe 27/03/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. VALORES PAGOS INDEVIDAMENTE POR ERRO OPERACIONAL DA ADMINISTRAÇÃO PÚBLICA. RECEBIMENTO DE BOA-FÉ. DESCABIMENTO DA PRETENSÃO ADMINISTRATIVA DE RESTITUIÇÃO DOS VALORES. DESCONTOS EVENTUALMENTE JÁ REALIZADOS QUE DEVEM SER RESTITUÍDOS AO SERVIDOR. DECORRÊNCIA LÓGICA DO ACATAMENTO DO PEDIDO INICIAL. EMBARGOS DE DECLARAÇÃO DA UNIÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado. In casu, assiste razão à ora embargante, uma vez que a questão afeta a devolução dos valores não restou apreciada pelo colegiado.
+2. O entendimento do Tribunal de origem se alinha à diretriz desta Corte Superior de que a determinação de restituição dos valores eventualmente já descontados do Servidor Público é decorrência lógica do acatamento do pedido inicial. Precedentes: REsp. 1.707.241/DF, Rel. Min. OG FERNANDES, DJe 18.9.2018; REsp.
+935.358/RS, Rel. Min. ARNALDO ESTEVES LIMA, DJe 31.5.2010.
+3. Embargos de Declaração da UNIÃO acolhidos, sem efeitos modificativos.
+(EDcl no AgInt no AREsp 1298151/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 06/11/2018, DJe 19/11/2018)
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PARCIAL PROVIMENTO ao recurso especial para restabelecer a condenação de restituição dos valores indevidamente descontados da parte recorrente a título de reposição ao erário.
+Publique-se. Intimem-se.
