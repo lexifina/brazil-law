@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo apresentado por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMETNO DE SENTENÇA. OBRIGAÇÃO DE FAZER. MULTA. MANUTENÇÃO. PLANO DE SAÚDE.
+1. A multa cominatória ou astreintes tem por finalidade coagir o devedor a satisfazer a prestação de uma obrigação, fixada em decisão judicial, não tendo por objetivo o seu pagamento, mas o cumprimento da obrigação.
+2. Possível a redução do valor da astreinte quando se mostrar excessiva, se verificar o cumprimento parcial da obrigação e/ou ocorrer justa causa para o descumprimento.
+3. Recurso conhecido e parcialmente provido.
+Quanto à controvérsia dos autos, pela alínea a do permissivo constitucional, alega violação dos arts. 757, 760, 766, 768, 769 e 944, parágrafo único, do CC; e 461, §§ 5º e 6º, do CPC/73, no que concerne à impossibilidade de cobrança de multa pelo cumprimento da obrigação de fazer pela recorrente e à desproporcionalidade do valor das astreintes aplicado, trazendo os seguintes argumentos:
+Desse modo, tendo em vista que a obrigação de fazer foi devidamente cumprida não há que se falar em aplicação de multa diária, razão pela qual não há como prosperar o entendimento da nobre julgadora monocrática. A parte autora, deveria comprovar o descumprimento por parte da empresa, o que não restou configurado nos autos. Desse modo, não há que se falar em aplicação de multa por descumprimento, pois não restou comprovado nos autos qualquer descumprimento.
+ ..
+O valor de R 50.000,00 (cinquenta mil reais), atribuído à multa afronta aos princípios da RAZOABILIDADE E PROPORCIONALIDADE, razão pela qual as astreintes deveriam ser minoradas e estabelecido um limite para tal condenação, conforme entendimento.
+ ..
+Desse modo, ainda que não se entenda como cumprida a obrigação, o que se admite apenas para argumentar, e pela inviabilidade da aplicação da multa no caso concreto, caso a referida penalidade efetivamente seja aplicada, esta deve ser limitada ao valor atribuído à causa, sob pena de violação aos dispositivos supra indicados (fls. 224/228).
+É o relatório. Decido.
+No que se refere aos arts. 757, 760, 766, 768, 769 e 944, parágrafo único, do CC, incide o óbice da Súmula n. 284/STF, uma vez que os artigos apontados como violados não têm comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal" (AgInt no REsp n. 1685486/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 21/2/2019).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp n. 1675309/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/2/2018; AgRg no REsp n. 1351593/RS, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 12/3/2014; e AgRg no AREsp n. 197.224/SP, relatora Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), Quinta Turma, DJe de 20/11/2012.
+Ademais, com relação ao art. 461, §§ 5º e 6º, do CPC/73, não é cabível o recurso especial pois alega violação de dispositivo de lei federal não vigente. Nesse sentido: EDcl no AgRg no AREsp n. 817.110/MG, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 24/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
