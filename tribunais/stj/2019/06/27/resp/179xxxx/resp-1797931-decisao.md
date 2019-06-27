@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial, com fulcro no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás.
+Consta dos autos que GLEIDSON DIVINO AGUIAR CORDEIRO foi denunciado como incurso no art. 121, caput, c/c art. 14, II, ambos do Estatuto Repressivo (homicídio tentado).
+Designada audiência de instrução preliminar, o réu deixou de ser conduzido pois se encontrava em outra audiência, marcada para o mesmo dia e período, o que provocou pedido de suspensão e sua redesignação, além de oportunização de comunicação prévia com o acusado, restando indeferido pelo Juízo da 1ª Vara dos crimes dolosos contra a vida da Comarca de Goiânia/GO, em face da ocorrência da preclusão (fls. 15/20).
+Irresignada, a defesa apresentou pedido de correição parcial ao Tribunal de origem, o qual restou prejudicado nos termos da seguinte ementa (fl. 72):
+EMENTA - CORREIÇÃO PARCIAL. AUDIÊNCIA. INQUIRIÇÃO. RÉU. AUSÊNCIA. NULIDADE. INOCORRÊNCIA. 1 - A
+ausência do réu preso à audiência de instrução constitui nulidade relativa, que só será decretada se houver efetivo prejuízo (Precedentes do STJ). 2 - 0 art. 185, § 5o, do CPP, apenas garante ao acusado preso o direito à entrevista prévia e reservada com o seu defensor antes da realização do interrogatório.
+Pedido prejudicado.
+Opostos embargos de declaração defensivos, não foram conhecidos por intempestivos (fls. 101/105).
+Novos aclaratórios opostos pela defesa, foram rejeitados (fls. 121/1262).
+Em sede de recurso especial, a defesa alega violação ao art. 619, do CPP e art. 128, I, da Lei Complementar n. 80/94 sustentando que os aclaratórios estavam tempestivos, pois opostos no último dia do prazo recursal, tendo sido recebido o processo pela secretaria da Corte de origem um dia após (20/10/2017), em flagrante erro material.
+Defende a existência de nulidade absoluta quando é realizada oitiva de testemunhas sem a presença do acusado.
+Pugna pelo provimento do apelo nobre para cassar o acórdão recorrido com apreciação dos embargos de declaração por tempestivos (fls. 134/144).
+Contrarrazões apresentadas às fls. 151/154.
+Admitido o recurso (fls. 157/158), os autos subiram a esta Corte Superior.
+O Ministério Público, em seu parecer de fls. 170/172 opina pelo provimento do apelo nobre.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Ab initio, transcrevo trecho do acórdão dos primeiros aclaratórios opostos, verbis (fl. 104/105):
+Não preechidos os pressupostos de admissibilidade, posto que intempestivos (fls. 83). Assim, o prazo começou a fluir no dia 20.10.2017 (sexta-feira) com término em 23.10.2017 I (segunda-feira). Contudo, os aclaratórios somente foram protocolados em 26.10.2017 (fls. 85).
+Ressalto que, ao contrário do consignado pela embargante, a data constante na assinatura do representante da instituição atesta somente o seu controle administrativo e não interfere na contagem do prazo, que é aferido pelo cartório (fls. 83), corrroborado, inclusive, pelo Sistema Informatizado de Controle Processual do Tribunal.
+Ato contínuo, destaco trecho do acórdão referente aos segundos aclaratórios opostos, no que importa (fls.125/126):
+Quanto ao fundo, sem razão.
+Sabido que o prazo para oposição dos embargos de declaração é de 2 (dois) dias, contados da ciência da Defensoria Pública, mediante carga dos autos.
+Confirmando posicionamento adotado por esta Corte de Justiça, ao contrário do consignado pelo embargante, a data constante próximo a assinatura do representante do órgão defensor atesta somente o seu controle administrativo e não interfere na contagem do prazo, que é aferido pelo cartório (fls. 83), corroborado, inclusive, pelo sistema informatizado de controle processual deste Tribunal  SPG).
+A propósito, confira-se o julgado do Superior Tribunal !de Justiça:
+"PROCESSO CIVIL. AGRAVO INTERNO N0 AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. ATO PROCESSUAL. MINISTÉRIO PÚBLICO. CONTAGEM DO PRAZO. VISTA NO RESPECTIVO ÓRGÃO. 1. A contagem dos prazos para os atos processuais do Ministério Público ou da Defensoria começam a fluir da data do recebimento dos autos, com vista no respectivo órgão, e não da ciência de seu membro no processo. 2. Agravo interno a que se nega provimento" (AgRg no AREsp 504.339/SP, Rei. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/10/2016, DJe 27/10/2016) .
+Tenho que o acórdão impugnado não contém omissão, restando clarividente o propósito de exame do mérito, com a inversão do julgado, incomportável em sede de aclaratórios.
+Ante o exposto, conheço e desprovejo o recurso manejado.
+Este Tribunal Superior possui firme entendimento de que "o termo inicial da contagem do prazo para a interposição de recurso pela Defensoria Pública, beneficiada com intimação pessoal, é com a entrada destes na instituição, e não com a oposição de ciente pelo seu representante" (EDcl/AgRg//REsp 1625124, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 22/09/2017).
+Entretanto, verifico que paira dúvida no documento acostado à fl 85 para aferição da tempestividade recursal, e consignado nas razões do apelo nobre, conforme trecho abaixo (fls. 138/ 142):
+Urge destacar, em proêmio, que a Defensoria Pública do Estado de Goiás, em atuação perante a Ia Primeira Câmara Criminal, faz as cargas dos processos todas às sextas-feiras, tendo em conta a distância dos prédios (D.P.E de segundo grau tem fica dentro do Fórum Civel, bairro Parque Lozandes, enquanto o Tribunal de Justiça fica no Setor Oeste).
+Perceptível, pois, que há uma incongruência entre a parte superior da folha de carga que consta: 19/10/17 (quinta-feira), e, a parte da assinatura do motorista que faz carga dos processos para a Defensoria Pública embaixo: 20/10/17 (sexta-feira), dia combinado de fazer a carga, (fl.83 - cópia em anexo)
+Notadamente que o critério do lançamento no sistema do Tribunal não pode ter.um caráter absoluto se não houver uma contrapartida do órgão que recebe o.processo, dando-se por ciente. ..
+Destarte, pelo que se nota do caso em destaque, a folha de carga foi feita na quinta-feira pela secretaria, mas o órgão administrativo da Defensoria Pública buscou os processos na sexta-feira, dia já previamente combinado, e, que consta a assinatura de recebimento do feito. ..
+Portanto, pertinente que se conheça os embargos interpostos, tendo em vista que são tempestivos, porquanto a defensoria pública impetrou o recurso no último dia do prazo. Ficou chapadamente demonstrado consoante petição em anexo de controle do Tribunal, a data em que o órgão administrativo recebeu o processo (20/10/17), cuja assinatura está exposta.
+Assim, sobressai da decisão guerreada, que houve um erro material da secretaria do Tribunal que colocou em xeque a fé pública da assinatura aposta pelo órgão administrativo da Defensoria Pública, o que, portanto, tornou o recurso intempestivo em 1(um) dia (grifei).
+Assim, diante da incerteza sobre a tempestividade recursal, deve-se sempre interpretar a favor do recorrente, no caso, a Defensoria Pública do Estado de Goiás. e nos termos do entendimento desta Corte Superior. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO INTERPOSTO PELO PARQUET. REMESSA DOS AUTOS COM VISTA. AUSÊNCIA DA DATA DE RECEBIMENTO DOS AUTOS NO ÓRGÃO. DÚVIDA QUANTO À TEMPESTIVIDADE. INTERPRETAÇÃO EM FAVOR DO RECORRENTE. EMBARGOS DECLARATÓRIOS ACOLHIDOS COM EFEITOS INFRINGENTES. 1. É consentâneo nesta Corte que a contagem dos prazos recursais para o Ministério Público não tem início com a oposição da ciência de seu representante nos autos, mas com a entrada destes no órgão. 2. De outra parte, tal como ocorre na presente situação, a mera remessa dos autos com vista não é suficiente para atestar a entrada dos autos no órgão representativo, fato este que não está respaldado em nenhuma das certidões contidas no processo. 3. Desse modo, pairando incerteza quanto ao momento em que houve o início do prazo recursal, dúvida sobre a tempestividade do recurso milita a favor de quem o interpôs. Precedentes. 4. Embargos de declaração acolhidos com efeitos infringentes (EDcl no AgRg no REsp 1298945, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe 30/04/2003).
+Diante do exposto, com fundamento na súmula 568/STJ, dou provimento ao recurso para cassar o acórdão recorrido de fls. 121/126, e admitir a tempestividade dos aclaratórios, a fim de que sejam devidamente apreciados pela Corte de origem.
+Publique-se. Intimem-se.
