@@ -1,0 +1,38 @@
+DECISÃO
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PEDIDO DE PUBLICAÇÃO EXCLUSIVA EM NOME DE ADVOGADO NÃO CADASTRADO NO PJE. NECESSIDADE DE CADASTRAMENTO. RESPONSABILIDADE DOS ADVOGADOS. INTIMAÇÃO OCORRIDA EM NOME DAQUELES QUE SE ENCONTRAVAM CADASTRADOS. VALIDADE. NINGUÉM PODE BENEFICIAR-SE POR SUA PRÓPRIA INAÇÃO. AGRAVO REGIMENTAL DA EMPRESA PROVIDO, PARA, CONTUDO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Trata-se de Agravo Regimental no Agravo em Recurso Especial interposto por RODRIMAR S/A TRANSPORTES EQUIPAMENTOS INDUSTRIAIS E ARMAZÉNS GERAIS, contra decisão da Presidência desta Corte Superior que negou seguimento ao Apelo Nobre interposto por Advogado sem procuração nos autos, nos termos da Súmula 115/STJ.
+2. Alega a parte agravante, em suma, que a negativa de seguimento do Recurso violaria seu direito de defesa, uma vez que o causídico vem atuando desde a inicial do feito, junta a petição de procuração, regularizando a situação.
+3. Pugna, desse modo, pelo conhecimento e processamento deste Recurso para admitir e o Recurso Especial.
+4. É o relatório.
+5. No tocante ao óbice da Súmula 115/STJ, assiste razão ao Agravante.
+6. Consoante se depreende dos autos, o Apelo Nobre foi barrado nesta Corte por ausência de juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do Recurso Especial, Dr. MARCELO MACHADO ENE..
+7. Contudo, dessume-se, pelo caderno processual, que o referida profissional vinha tomando providências de efetiva defesa da parte implicada e subscrevendo diversas petições, desde a inicial do feito. Somente agora, na fase de interposição de recursos extremos, é que se traz à tona eventual vício de representação da parte insurgente.
+8. Assim, tolher o regular seguimento do Apelo Raro, na quadra que se formou, seria consagrar afronta à lógica do razoável, motivo pelo qual se admite a comprovação posterior realizada no momento de interposição do presente Agravo Regimental.
+9. Passe-se, assim, à análise do Recurso Especial interposto.
+10. Nas razões do Apelo Especial, a recorrente sustenta que no caso, não sendo credenciado o advogado em cujo nome foi requerida a realização das intimações, a intimação não poderia ter sido feito pelo PJE. Defende que o art. 5o. da Lei 11.419/2006, que regulamenta a comunicação eletrônica dos atos processuais, apenas dispensou a publicação no órgão oficial para aqueles que efetivaram o credenciamento junto ao PJE, o que, definitivamente, não era o caso, naquela ocasião, do advogado indicado para recebimento de publicações/intimações.
+11. A irresignação, contudo, não comporta provimento.
+12. Não houve infringência ao art. 535 do CPC/1973, na medida em que o Tribunal de origem apreciou, fundamentadamente, a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se que, malgrado não ter o Colegiado acolhido os argumentos suscitados pelo recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide. Afora isso, julgamento diverso do pretendido, como na espécie, não implica ofensa às normas ora invocadas.
+13. Quanto ao mais, o acórdão recorrido consigna que o patrono da recorrente não se desincumbiu de sua obrigação prevista na legislação, que estabelece a obrigatoriedade do prévio credenciamento no Poder Judiciário. No caso dos autos, o causídico não realizou o cadastro ao sistema eletrônico, inviabilizando o pedido de intimação em seu nome, conforme demonstra o seguinte trecho do voto condutor do acórdão:
+Cuida-se de indeferimento de pedido de nulidade procesual, ao entendimento de que, tratando-se de processo eletrônico, conforme a Lei nº 11.419/06, a prática de atos processuais em geral deverá ser feita por meio eletrônico mediante o uso de assinatura eletrônica, sendo obrigatório o prévio credenciamento no Poder Judiciário.
+No caso, não sendo credenciado o advogado em cujo nome foi requerida a realização das intimações, a intimação foi validamente realizada por meio eletrônico na pessoa de advogada credenciada e habilitada nos autos, conforme procuração.
+Conforme artigo 5 da lei 11419/2006 as intimações serão feitas em portal próprio aos que se cadastrar, dispensando-se a publicação em diário oficial. De acordo com o parágrafo primeiro, considerar-se-á realizada a intimação no dia que o intimado efetivar a consulta eletrônica ao teor da intimação.
+Segundo o parágrafo terceiro o artigo 5º a consulta ao painel de intimação e deverá ser feita em até dez dias úteis corridos contados da data do envio da intimação, sob pena de considerar-se a intimação realizada automaticamente realizada na data do término do prazo.
+Para efeito da contagem do prazo de 10 (dez) dias corridos sendo a intimação feita pelo sistema do processo judicial eletrônico:- o dia inicial da contagem é o seguinte ao da disponibilização do ato de comunicação no sistema, independentemente de esse dizer, ou não, de expediente no órgão comunicante;
+o dia da consumação da intimação ou comunicação é o décimo a partir do dia inicial, caso seja de expediente judiciário, ou primeiro dia útil seguinte, conforme resolução 185/2013, artigo 21.
+Desta feita, não merece acolhimento o agravo da parte autora, pois visa, na verdade, a intimação de advogado não cadastrado no PJE, pois não é permitida a mesclagem de procedimento de processo eletrônico com processo não eletrônico, ao requerer a intimação, por meio de publicação no diário oficial,em um processo que corre sob o rito do PJE.
+14. Contudo, a recorrente, nas razões recursais, deixou de impugnar os fundamentos acima transcritos, limitando-se a repetir o direito de ser intimado por outro meio que não o PJE, sem trazer qualquer argumento suficiente à desconstituição do julgado, circunstância que atrai a aplicação, por analogia, da Súmula 283/STF.
+15. Ademais, o acórdão recorrido não destoa da orientação desta Corte afirmando que a Lei 11.419/2016 exige a habilitação dos advogados das parte em processo eletrônico. Nesse sentido, os seguintes precedentes:
+PREVIDENCIÁRIO. RECONHECIMENTO DE TEMPO DE SERVIÇO ESPECIAL. DECADÊNCIA. INTIMAÇÃO ELETRÔNICA. CONSULTA. INTEMPESTIVIDADE DO RECURSO ESPECIAL.
+(..).
+III - De acordo com o art. 5º da Lei 11.419/2006, as intimações serão feitas por meio eletrônico em portal próprio aos que se cadastrarem na forma do art. 2º desta Lei, dispensando-se a publicação no órgão oficial, inclusive eletrônico.
+(..)
+VI - Agravo interno improvido (AgInt nos EDcl no REsp. 1.611.803/SC, Rel. Min. FRANCISCO FALCÃO, DJe 28.8.2017).
+
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO A MENOR. POSSIBILIDADE DE COMPLEMENTAÇÃO. INTIMAÇÃO DO RECORRENTE. NÃO CUMPRIMENTO DO ÔNUS. DESERÇÃO DECRETADA. PRECEDENTES.
+(..)
+2. "A intimação eletrônica foi legalmente autorizada pela Lei nº 11.419, de 19.12.2006, em vigor apenas em 19.03.2007, afirmando que o disposto nessa lei aplica-se indistintamente aos processos civil, penal e trabalhista (art. 1º, § 1º) e que substitui qualquer outro meio e publicação oficial para quaisquer efeitos legais, à exceção dos casos que, por lei, exigem intimação ou vista pessoal (art. 4º, § 2º)" (AgRg no AREsp 418.019/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/12/2013, DJe 04/02/2014).
+(..)
+4. Agravo regimental não provido (AgRg no AREsp. 861.903/RJ, Rel. Min. LUIS FELIPE SALOMÃO, DJe 26.4.2016).
+16. Ante o exposto, dá-se provimento ao Agravo Regimental da Empresa, para, contudo, negar provimento ao seu Recurso Especial por outro fundamento.
+17. Publique-se.
+18. Intimações necessárias.
