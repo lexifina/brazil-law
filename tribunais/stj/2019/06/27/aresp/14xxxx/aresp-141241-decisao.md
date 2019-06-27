@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por ESPÓLIO DE MARIA REIS COSTA E OUTROS, contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Ação de Usucapião Extraordinário - Usucapião teria sido interrompido por intimação dos Prescribentes Apelados no bojo de ação possessória entre os Apelantes e terceiros - Intimação em tais condições não interrompe ou suspende o usucapião - Ocupação inicial dos Apelados como promitentes compradores não exclui posterior ânimo de domínio - Inadimplemento dos promitentes compradores e inércia dos supostos proprietários implica convalescimento da posse - Precedentes do STJ - Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.547/1.553).
+Nas razões do recurso especial, a agravante alega violação aos artigos 42, 458 e 535 do Código de Processo Civil; 170 do Código Civil/16 e 199 do Código Civil/2002. Sustenta, em síntese, a) negativa de prestação jurisdicional; e b) o usucapião não se consumou uma vez que "havia uma condição suspensiva que interrompia a prescrição, qual seja o despacho que sobrestava o curso da execução da possessória, lastreada no acórdão 178.969, do Tribunal de Justiça do Estado de São Paulo" (e-STJ, fl. 1.573).
+Contrarrazões apresentadas às fls. 1.709/1.739, e -STJ.
+Sobreveio o juízo de juízo de admissibilidade negativo na instância de origem, ensejando a interposição do presente agravo.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Com efeito, deve ser rejeitada a alegada ofensa aos artigos 458 e 535 do CPC/73, na medida em que o eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP) examinou os pontos necessários ao desate da lide, emitindo pronunciamento com robusta fundamentação. Com sabido, a jurisprudência pacífica desta Corte é no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, confira-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. DANO MORAL. OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. VALOR. RAZOABILIDADE. DIREITO DE RESPOSTA. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 165, 458 e 535 do CPC quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos. (..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 1026699/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/09/2018, DJe 25/09/2018 - grifou-se)
+Ademais, o tema inserto no artigo 42 do CPC/73, não foi objeto de debate pela Corte local, tampouco foram opostos embargos de declaração, nesse ponto, a fim de suprir eventual omissão. É entendimento assente no Superior Tribunal de Justiça a exigência do prequestionamento dos dispositivos tidos por violados, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+ AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios. (..)
+3. Agravo regimental desprovido.
+(AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe 25/11/2014)
+Em relação à tese de existência de condição suspensiva que interrompia a prescrição aquisitiva por usucapião, o Tribunal de origem, soberano na análise do material fático e probatório carreado aos autos, assentou que:
+"O casal Pereira promoveu ação possessória em face dos Apelantes em 25.04.1966, mas o juízo entendeu pela improcedência, em decorrência do que foi determinada a reintegração dos Recorrentes e intimados os Recorridos.
+A intimação dos Apelados (v. fls. 760 e 763), porém, sequer atendeu as exigências do então vigente Código de Processo Civil de 1939, não havendo coleta de firma indicando a ciência inequívoca do ato pelos Recorridos.
+De qualquer forma, os Apelados figuraram tão somente como terceiros no processo referido e sua intimação nessa condição não perfaz hipótese legal de suspensão ou interrupção da prescrição e, portanto, tampouco do usucapião.
+Quanto à causa possessionis, observa-se que os Apelados deixaram de ocupar o imóvel a título de promitentes compradores a partir do momento em que deixaram de pagar o promitente vendedor, Lar Nacional Construtora e Administradora Ltda., por não o encontrarem, e continuaram sem oposição na posse do bem, promovendo benfeitorias e pagando os impostos.
+Esta a lição de CRISTIANO CHAVES DE FARIAS e NELSON ROSENVALD:
+"Mas, caso o promitente comprador tenha se tornado inadimplente sem que o promitente vendedor haja adotado qualquer atitude no sentido de retirá-lo da posse, a longa desídia poderá resultar na interversão da posse (..)" ireitos Reais, 6a ed., Rio: Lumen Juris, 2010, pp. 94/5).
+O Superior Tribunal de Justiça também vem esposando esse entendimento, sendo exemplo o Recurso Especial nº 220.200/SP, julgado em 16.09.2003, que tratou de situação semelhante à sob análise e cuja ementa reproduz-se parcialmente:
+"O fato de ser possuidor direto na condição de promitente - comprador de imóvel, a princípio, não impede que este adquira a propriedade do bem por usucapião, uma vez que é possível a transformação do caráter originário daquela posse, de não própria, para própria".
+Isto posto, pelo meu voto, nego provimento ao recurso." (e-STJ, fls. 1.513/1.515)
+Nesse contexto, concluir de forma diametralmente oposta, como pretende o recorrente em suas razões recursais, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIO. PRESCRIÇÃO AQUISITIVA. CAUSAS SUSPENSIVAS E INTERRUPTIVAS. OCORRÊNCIA. REEXAME DE PROVAS. SÚMULA 7 DO STJ. INCIDÊNCIA.
+1. Inviável o recurso especial cuja análise das razões impõe reexame da matéria fática da lide, nos termos da vedação imposta pelo enunciado nº 7 da Súmula do STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 257.047/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/09/2014, DJe 17/09/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
