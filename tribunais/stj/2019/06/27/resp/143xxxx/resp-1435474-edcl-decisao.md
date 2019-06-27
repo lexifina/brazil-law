@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por [NOME], por meio dos quais se impugna decisão, de minha lavra, que deu provimento ao Recurso Especial da Fazenda do Estado de São Paulo, para reconhecer a ocorrência de fraude à execução fiscal.
+Nas razões dos Embargos de Declaração, o ora embargante sustenta, em síntese, o seguinte:
+"O aresto invocado pelo embargado (REsp 1.141.990-PR), trata da hipótese de alienação posterior a citação do devedor, o que não se afigurou na hipótese em litígio.
+Cumpre-nos ressaltar que o débito em execução não se trata de tributo, quando decorre de multa por infração a legislação ambiental. Não fosse só isso, não restou observada a existência de penhora sobre outros bens de propriedade do executado, que não fora quem vendera o automóvel ao embargante, implicando na hipótese da reserva de bens. Observemos que a norma invocada - artigo 185 do Código Tributário, faz alusão a presunção e não a certeza da fraude.
+Outrossim, exige a presença do crédito tributário regularmente inscrito como dívida ativa, o que também não restou demonstrado nos autos.
+Por fim, há de se observar que o embargante adquiriu a propriedade de [NOME], que não é parte passiva na execução fiscal que tramita sob o n.443.01.2006.002065-9 (0002065-90.2006.8.26.0443) perante a 1ª Vara Cível - anexo fiscal, da comarca de Piedade:
+(..)
+No mais, o REsp n. 810.489-RS (2006/0008038-0), igualmente não fora enfrentado no aresto objeto da presente insurgência, porquanto assegura que na hipótese de alienação de bem MÓVEL, e não imóvel como constou do dispositivo da r. decisão, "para que fique configurada a fraude a execução é necessária a demonstração do "consilium fraudis", cujo pressuposto é o conhecimento pelo terceiro adquirente, da existência da demanda, ou da constrição ao tempo do negócio", o que no caso vertente restou reconhecido que não houve" (fls. 222/223e).
+Requer, por fim, "não tendo havido o enfrentamento de aresto jurisprudencial invocado pela parte, e nem mesmo a observância da prevalência da boa-fé do embargante, quando a norma estabelece presunção e não certeza, julgando o feito como se estivesse a tratar de imóvel e não bem móvel, e não observando a aquisição de parte não devedora e de carro sem restrição, inclusive e notadamente frente o órgão de registro competente (DETRAN), requer seja suprida a omissão, a que tenha lugar a interposição do competente recurso em prosseguimento, de modo a ver prevalecer a justiça" (fl. 224e).
+Sem contraminuta.
+Os Embargos de Declaração não merecem prosperar.
+Cediço que os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" ou "corrigir erro material" (art. 1.022 do Código de Processo Civil).
+No caso, inexiste qualquer dos vícios que ensejariam a oposição de Embargos Declaratórios, de vez que a decisão embargada apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela embargante.
+Com efeito, restou expresso, na decisão embargada, que "a simples alienação ou oneração de bens ou rendas, ou seu começo, pelo sujeito passivo por quantia inscrita em dívida ativa, sem a reserva de meios para quitação do débito, gera presunção absoluta ("jure et de jure") de fraude à execução (lei especial que se sobrepõe ao regime do direito processual civil)" (fl. 211e).
+Assim, irrelevante a suposta existência de boa-fé, por parte do ora agravante.
+Ante o exposto, à míngua de vícios na decisão embargada, rejeito os Embargos de Declaração.
+I.
