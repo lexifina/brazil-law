@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por ambas as partes contra acórdão assim ementado:
+AGRAVO LEGAL. EMBARGOS À EXECUÇÃO FISCAL. NÃO-INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA DOS CARRETEIROS PRESTADORES DE SERVIÇOS. INOCORRÊNCIA DE VÍNCULO EMPREGATÍCIO. VERBA HONORÁRIA FIXADA ADEQUADAMENTE.
+A empresa alega violação do art. 20, § 4º, do CPC/1973. Afirma existir dissídio jurisprudencial.
+A Fazenda Nacional sustenta que foram infringidos o art. 3º da CLT; os arts. 333, I, e 535 do CPC/1973; o art. 3º da LEF; o art. 204 do CTN e o art. 14, IV, "a", da Lei 8.212/1991.
+Foram apresentadas as contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste gabinete em 27 de junho de 2018.
+Os recursos não ultrapassam o juízo de admissibilidade.
+A pretensão da empresa consiste em obter a majoração da verba honorária - arbitrada nas instâncias de origem em R$5.000,00 (cinco mil reais). A seu ver, tal montante seria qualificável como irrisório.
+É importante esclarecer, inicialmente, que o regime de arbitramento da verba honorária, efetivamente, é o do CPC/1973, pois a sentença foi proferida na sua vigência. Assim, apenas para esclarecimento, afasta-se a possibilidade de aplicação do art. 85 do atual CPC, até porque o acórdão e mesmo o apelo nobre datam de período anterior à entrada em vigor desse último.
+A assertiva da recorrente, no ponto, é que a quantia arbitrada corresponde a 1% do valor do crédito exequendo. Tal argumento, porém, é insuficiente para ensejar, por si só, a reforma do julgado. Segundo a disciplina do art. 20 do CPC/1973, são vários os elementos circunstanciais que o juízo deve levar em consideração ao estabelecer os honorários sucumbenciais.
+No caso dos autos, o Tribunal de origem se reportou às alíneas do art. 20, § 3º, do CPC/1973 para justificar o total arbitrado. Na ausência de descrição mais especificada das hipóteses legais, caberia à empresa opor os aclaratórios e, com eventual insistência do órgão julgado em explicitar de forma descritiva a sua aplicabilidade ao caso concreto, apontar no Recurso Especial a infringência do art. 535 do CPC/1973 - o que não ocorreu na hipótese dos autos. Afasta-se, exatamente por essa razão, a existência de dissídio jurisprudencial (tanto pelo fato de não terem sido identificadas as situações de similitude fática e jurídica entre os arestos confrontados, como pela circunstância de que não foi realizado o cotejo analítico).
+Assim, a revisão do quantum apurado como suficiente para a adequada remuneração do advogado não depende, nos termos acima, da simples exegese da legislação federal, mas da incursão no acervo fático e probatório dos autos, o que atrai a incidência da Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO AO ART. 535, DO CPC. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM CAUSA ONDE NÃO HOUVE CONDENAÇÃO. EQUIDADE. REVISÃO. ÓBICE DA SÚMULA N.º 07 DO STJ. INAPLICABILIDADE APENAS QUANDO O VALOR É CONSIDERADO IRRISÓRIO OU EXCESSIVO.
+1. Não viola o art. 535, do CPC, o acórdão que decide de forma suficientemente fundamentada, não estando obrigada a Corte de Origem a emitir juízo de valor expresso a respeito de todas as teses e dispositivos legais invocados pelas partes.
+2. A ação de repetição de indébito foi decidida a favor da ré FAZENDA NACIONAL. Desse modo, dela não consta condenação alguma, sendo aplicável o art. 20, §4º, do CPC, que determina a fixação da verba honorária por equidade, não sendo aplicáveis os limites percentuais do art. 20, §3º, do CPC, mas somente suas alíneas, consoante a expressa letra da lei, in verbis: "§ 4º Nas causas de pequeno valor, nas de valor inestimável, naquelas em que não houver condenação ou for vencida a Fazenda Pública, e nas execuções, embargadas ou não, os honorários serão fixados consoante apreciação eqüitativa do juiz, atendidas as normas das alíneas a, b e c do parágrafo anterior".
+3. Salvo as hipóteses excepcionais de valor excessivo ou irrisório, não se conhece de recurso especial cujo objetivo é rediscutir o montante da verba honorária fixada pelas instâncias de origem, a teor do enunciado n. 7, da Súmula do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. Quanto à alegação de irrisoriedade, é preciso verificar que o foi fixada em R$ 10.000,00 (dez mil reais), frente a um valor da causa de R$ 30.247.034,71 (trinta milhões, duzentos e quarenta e sete mil, trinta e quatro reais e setenta e um centavos). In casu, não foram abstraídos pela Corte de Origem os aspectos fáticos necessários para uma nova apreciação da verba honorária. Desse modo, não cabe a revisão em sede de recurso especial.
+5. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.579.265/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 1/3/2016).
+Idêntico óbice sumular é aplicável ao apelo do ente fazendário.
+Com efeito, o Tribunal de origem acolheu a argumentação veiculada pela empresa e extinguiu o crédito tributário em razão do acervo probatório, o qual apontaria a inexistência de vínculo empregatício, dado que os profissionais contratados eram autônomos, prestando serviço mediante o uso de veículos próprios (e não da empresa), bem como que não havia o vínculo de subordinação (menciona-se até a existência de provas de serviços de transporte que foram por eles recusados).
+Nas razões recursais, a Fazenda Nacional se apega ao conteúdo do relatório do fiscal responsável pela autuação, limitando-se a sustentar que deve este último prevalecer sobre as provas produzidas em juízo, assim como sobre as suas conclusões.
+Evidentemente, a solução favorável à pretensão fazendária não pode ser feita a partir da simples interpretação dos dispositivos legais por ela indicados, mas com a necessária revaloração do acervo probatório, o que é incompatível com esta via recursal.
+Diante do exposto, não conheço dos Recursos Especiais de ambas as partes.
+Publique-se.
+Intimem-se.
