@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. REMESSA NECESSÁRIA. AÇÃO DE REVOGAÇÃO DE DOAÇÃO. DOAÇÃO PURA E SIMPLES.
+Em que pese o art. 2º da Lei Municipal nº 4/1999 traga uma destinação específica a ser observada pelo Município, no caso, a construção de uma escola, tal não produz qualquer efeito na doação veiculada no art. 1º da referida lei, cujo descumprimento, por tal razão, não determina a resolução da doação, já que esta consta como pura e simples e não como uma doação modal. Modificação da sentença de procedência que se impõe." (e-STJ, fl. 56)
+Nos termos do art. 9º, caput, do RISTJ, a competência das Seções e das respectivas turmas do Superior Tribunal de Justiça é fixada em função da natureza da relação jurídica litigiosa.
+Nas razões do recurso especial, o agravante alega violação aos arts. 555 e 562 do Código de Civil de 2002, sustentando, em síntese, que houve encargo, consubstanciado na construção de uma escola, para o Município agravado com a doação de imóvel de propriedade do agravante, não sendo a mesma pura e simples, mas modal conforme os termos da Lei Municipal nº 4/1999.
+Assim, tratando-se a discussão acerca de ato administrativo e bens públicos, verifica-se que a competência para apreciar o recurso é de uma das turmas integrantes da Primeira Seção desta Corte. Sobre o tema, anote-se o Resp 1.588.725/RJ do Excelentíssimo Ministro Antônio Carlos Ferreira.
+Desse modo, a natureza da relação jurídica em litígio indica a competência de uma das Turmas da Primeira Seção, de modo que determino a redistribuição do feito a um dos Ministros das Turmas que compõem a aludida Seção.
+Publique-se.
