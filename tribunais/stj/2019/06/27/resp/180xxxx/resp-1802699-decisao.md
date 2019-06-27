@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. MAJORAÇÃO DE HONORÁRIOS. ART. 85, §§2º E 3º DO CPC/2015. REEXAME DE PROVA. ÓBICE DA SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por A Parolin Cia LTDA em face de acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+TRIBUTÁRIO. ITR. [NOME]. PERDA DO DIREITO DE PROPRIEDADE. INEXIGIBILIDADE DO IMPOSTO TERRITORIAL RURAL. HONORÁRIOS.
+1. Se o proprietário não detém o direito de usar, gozar e dispor do imóvel, em decorrência de sua invasão, e o direito de reavê-lo não é assegurado pelo Estado, a propriedade se mantém na mera formalidade e não configura fato gerador do ITR.
+2. No caso concreto, restou largamente comprovada a ocupação da área por terceiros, inclusive com a prática de crimes ambientais no interior da propriedade da embargante. Há nos autos, ainda, cópias de diversas comunicações realizadas pela embargante aos órgãos competentes (IBAMA, Polícia Ambiental, Polícia Militar, Polícia Civil) dando conta das irregularidades perpetradas durante vários anos, incluindo o período debatido nestes embargos (evento 1- OUT8). Inegável, portanto, que a embargante, rigorosamente, não detinha sobre a área posse total ou possibilidade integral de uso e fruição, bem como que o direito de reivindicar a área não lhe foi assegurado pelo Poder Público, de modo que a propriedade mantém-se apenas no papel, como mera formalidade.
+3. O novo Código de Processo Civil estabeleceu uma sistemática objetiva e concreta para a fixação dos honorários de sucumbência. Nas causas em que a Fazenda Pública for parte, a base de cálculo da verba honorária será o valor da condenaçao ou do proveito economico (art. 85, §3e). Por sua vez, a hipótese de apreciação equitativa só tem cabimento quando for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo (art. 85, §8 ).
+4. Provido o apelo da embargante, a fim de reconhecer a inexigibilidade do ITR relativamente ao período debatido nestes embargos. Parcialmente provido o apelo da União exclusivamente para minorar a alíquota fixada na sentença para o cálculo dos honorários advocatícios, observada, contudo, a nova base de cálculo decorrente do provimento do apelo da embargante.
+Opostos embargos de declaração foram rejeitados.
+Nas razões do recurso especial, fundamentado no artigo 105, III, alíneas "a" e "c", da Constituição Federal, o recorrente apontou, além da divergência jurisprudencial, violação ao artigo 85, §§2º e 3º do CPC/2015, alegando em síntese que os honorários advocatícios devem ser majorados para o percentual de 8%, tendo em vista o grau de zelo e o trabalho desenvolvido pelo advogado.
+Contrarrazões ao recurso especial às fls. 776/789.
+É relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O entendimento consolidado neste Tribunal é no sentido de que a majoração do valor relativo aos honorários advocatícios, com a revisão dos critérios descritos no art. 85, §§ 3º e 2º, do CPC/2015, os quais são primordialmente factuais, quais sejam o grau de zelo profissional, o lugar da prestação do serviço, a natureza da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, são inviáveis em sede de recurso especial porquanto implica incursão ao suporte fático-probatório carreado aos autos, o que é vedado pela acima citada Súmula 7/STJ.
+Nesse sentido, destaca-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. 1. MAJORAÇÃO DO QUANTUM INDENIZATÓRIO. NÃO DEMONSTRADA A IRRISORIEDADE DO VALOR FIXADO NAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7/STJ. 2. HONORÁRIOS ADVOCATÍCIOS. VERBA SUCUMBENCIAL. MAJORAÇÃO.
+INVIABILIDADE. SÚMULA 7/STJ. 3. AGRAVO DESPROVIDO.
+1. A verba indenizatória foi fixada em R$ 3.000,00 (três mil reais) em razão das peculiaridades do caso concreto, tendo sido observados os princípios da razoabilidade e da proporcionalidade, notadamente do alto grau de subjetivismo que envolve a questão, sendo inviável sua revisão sem que haja reexame de provas.
+2. Os honorários sucumbenciais foram arbitrados em 10% sobre o valor da condenação, nos termos do art. 85, § 2º, do CPC/2015. Rever as conclusões das instâncias ordinárias demandaria o revolvimento do conjunto fático-probatório.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1435979/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/05/2019, DJe 16/05/2019)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
