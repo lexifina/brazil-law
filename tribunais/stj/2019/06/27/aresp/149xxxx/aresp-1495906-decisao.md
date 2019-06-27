@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. TÍTULO EXECUTIVO LÍQUIDO, CERTO E EXIGÍVEL. ALTERAÇÃO DAS PREMISSAS FÁTICAS. INVIABILIDADE. SÚMULA 7 DO STJ. 2. CAPITALIZAÇÃO MENSAL DE JUROS. PACTUAÇÃO EXPRESSA. SÚMULA 83/STJ. 3. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Na origem, [NOME] e [NOME] opuseram embargos à execução promovida por Caixa Econômica Federal alegando a iliquidez do título executivo, bem como a abusividade da cumulação de encargos financeiros.
+O Magistrado de primeiro grau julgou parcialmente procedentes os embargos para declarar a nulidade da cobrança da taxa de rentabilidade.
+Interposta apelação pelos embargantes, a Primeira Turma do Tribunal Regional Federal da 3ª Região, por unanimidade, afastou a preliminar arguida e, no mérito, negou provimento ao apelo.
+O acórdão está assim ementado (e-STJ, fls. 423-424):
+CIVIL E PROCESSUAL CIVIL. APELAÇÃO. EMBARGOS À EXECUÇÃO. CONTRATO DE EMPRÉSTIMO/FINANCIAMENTO DE PESSOA JURÍDICA. REQUISITOS LEGAIS PREENCHIDOS DO TÍTULO EXECUTIVO EXTRAJUDICIAL. CERTEZA. LIQUIDEZ. EXIGIBILIDADE. CAPITALIZAÇÃO DE JUROS. PREVISÃO CONTRATUAL. CABIMENTO. HONORÁRIOS RECURSAIS: NÃO CABIMETO. MANUTENÇÃO DA SENTENÇA RECORRIDA.
+1. Há título executivo extrajudicial - contrato particular assinado pela devedora, avalistas e por duas testemunhas, prevendo o pagamento de valor certo, líquido e exigível, de forma que estão satisfeitos os requisitos do artigo 585, II c/c 580 Código de Processo Civil - CPC/1973 (artigo 784, III c/c 786 do CPC/2015), sendo cabível a ação de execução.
+2. O contrato vem acompanhado de nota promissória, emitida no mesmo valor do contrato de financiamento, e que também constitui título executivo extrajudicial, nos termos do artigo 585, inciso I, do CPC/1973 (artigo 784, inciso I, do CPC/2015).
+3. Em se tratando de nota promissória emitida no mesmo valor do contrato de empréstimo bancário, não há como negar a sua qualidade de título executivo, sendo de se aplicar o entendimento já consagrado pelo Superior Tribunal de Justiça em sua Súmula 27. No sentido de que o contrato de empréstimo bancário de valor determinado constitui titulo executivo extrajudicial situa-se o entendimento dos Tribunais Regionais Federais.
+4. No caso dos autos, tendo em vista que a execução apresenta título liquido, certo e exigível, bem como, acompanhada do demonstrativo de débito e do saldo devedor demonstrado em planilha de cálculo, não há que se falar em ausência de higidez do título em cobro ou inépcia da inicial.
+5. Ainda que se entenda que o cálculo dos juros pela Tabela Price implica em capitalização, tratando-se de contrato bancário firmado posteriormente à vigência da Medida Provisória nº 1.963-17, de 30/03/2000 (em vigor a partir da publicação no DOU de 31/03/2000), por diversas vezes reeditada, a última sob nº 2.170-36, de 23/08/2001, ainda em vigor por força do artigo 2º da Emenda Constitucional nº 32, de 11/09/2001, é lícita da capitalização dos juros, nos termos do artigo 50. Precedentes.
+6. In casu, tendo em vista a cláusula 9 do contrato objeto da execução extrajudicial (fls. 43/44) que prevê expressamente a capitalização de juros, é lícita sua incidência.
+7. Considerando que o recurso foi interposto sob a égide do CPC/1973 e, nos termos do Enunciado Administrativo nº 7, elaborado pelo Superior Tribunal de Justiça para orientar a comunidade jurídica acerca da questão do direito intertemporal, tratando-se de recurso interposto contra decisão publicada anteriormente a 18/03/2016, não é possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do CPC/2015.
+8. Preliminar afastada e, no mérito, apelação improvida.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, os insurgentes apontaram violação aos arts. 330, III, 485, 786, 798, I, do CPC/2015.
+Sustentaram, em síntese, que a petição inicial encontra-se desprovida das condições da ação, notadamente pela ausência de título executivo válido. Asseveraram ser ilíquido e inexigível o título. Defenderam a ilegalidade da cobrança de juros capitalizados.
+O processamento do apelo especial não foi admitido pela Corte local, levando os insurgentes a interpor o presente agravo.
+Brevemente relatado, decido.
+De início, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem deixou assente que o título executivo se reveste de liquidez, certeza e exigibilidade.
+A decisão foi assim fundamentada (e-STJ, fls. 417-420):
+Do preenchimento dos requisitos legais título executivo extra judicial.
+A embargada ajuizou a execução com base em "CONTRATO DE EMPRÉSTIMO/FINANCIAMENTO DE PESSOA JURÍDICA" e correspondente Nota Promissória, acompanhados de extratos, demonstrativo de débitos e cálculos de evolução da dívida.
+Referido contrato prevê a concessão de um empréstimo/financiamento no valor de R$ 71.000,00 (setenta e um mil reais), creditado no ato na conta corrente da mutuária. Sobre o valor mutuado incidem juros à taxa mensal efetiva de 3,08000% a.m. mais a variação da TR - Taxa Referencial, sendo o financiamento pagável em 24 prestações mensais, calculada pela Tabela Price.
+Há, portanto, título executivo extrajudicial - contrato particular assinado pela devedora, avalistas e por duas testemunhas, prevendo o pagamento de valor certo, líquido e exigível, de forma que estão satisfeitos os requisitos do artigo 585, II c/c 580 Código de Processo Civil - CPC/1973 (artigo 784, III c/c 786 do CPC/2015), sendo cabível a ação de execução.
+Ademais, o contrato vem acompanhado de nota promissória, emitida no mesmo valor do contrato de financiamento, e que também constitui título executivo extrajudicial, nos termos do artigo 585, inciso 1, do CPC/1973 (artigo 784, inciso I, do CPC/2015).
+É certo que, na verdade, o credor não pretende a execução da nota promissória, mas do contrato, sendo que o título de crédito serve apenas como garantia do contrato, possibilitando o protesto por falta de pagamento.
+Contudo, em se tratando de nota promissória emitida no mesmo valor do contrato de empréstimo bancário, não há como negar a sua qualidade de título executivo, sendo de se aplicar o entendimento já consagrado pelo Superior Tribunal de Justiça em sua Súmula 27:
+Súmula 27: Pode a execução fundar-se em mais de um título extrajudicial relativos ao mesmo negócio.
+Assim, quer seja porque o contrato de empréstimo bancário de valor determinado constitui título executivo, quer seja porque a nota promissória também tem essa qualidade, é cabível a execução.
+No sentido de que o contrato de empréstimo bancário de valor determinado constitui título executivo extrajudicial situa-se o entendimento dos Tribunais Regionais Federais:
+(..)
+Destarte, no caso dos autos, tendo em vista que a execução apresenta título líquido, certo e exigível, bem como, acompanhada do demonstrativo de débito e do saldo devedor demonstrado em planilha de cálculo, não há que se falar em ausência de higidez do título em cobro ou inépcia da inicial.
+Com efeito, para modificar a decisão colegiada de segundo grau e acolher a tese delineada no recurso especial, seria imprescindível o revolvimento dos elementos fático-probatórios do respectivo processo, o que atrai a incidência da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO ALEGAÇÃO DE OFENSA AO ART. 1022 DO NCPC. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO EXECUTIVO EXTRAJUDICIAL LÍQUIDO CERTO E EXIGÍVEL. ALTERAÇÃO DAS PREMISSAS FÁTICAS. INVIABILIDADE. SÚMULA 7 DO STJ. DECISÃO MANTIDA.
+RECURSO NÃO PROVIDO.
+1. Se, mesmo após o julgamento dos embargos de declaração, o eg. Tribunal a quo continuar omisso quanto à matéria que se pretendia prequestionar, é dever do recorrente, no recurso especial, apontar violação ao art. 1.022 do CPC de 2015. Ausente esta alegação no apelo nobre, a matéria infraconstitucional não poderá ser tida por prequestionada.
+2. A alteração das premissas fáticas adotadas na origem, tal como propugnado, exige o reexame de fatos e reexame de provas, o que encontra o óbice na Súmula 7/STJ, para ambas as alíneas do permissivo constitucional.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1303599/MA, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 30/08/2018, DJe 06/09/2018)
+No concernente à capitalização de juros, o Tribunal de origem afirmou que, "in casu, tendo em vista a cláusula 9 do contrato objeto da execução extrajudicial (fls. 43/44) que prevê expressamente a capitalização de juros, é lícita sua incidência" (e-STJ, fl. 421).
+Com efeito, tal orientação vai ao encontro da jurisprudência desta Casa, segundo a qual: "é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31/3/2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada".
+Incide, no ponto, a Súmula n. 83 do STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 2% (nos termos da sentença de fl. 365, e-STJ), suspensa a exigibilidade em razão da gratuidade de Justiça deferida aos recorrentes.
+Publique-se.
