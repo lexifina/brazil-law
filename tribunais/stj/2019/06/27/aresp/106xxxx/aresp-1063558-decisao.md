@@ -1,0 +1,33 @@
+DECISÃO
+PROCESSUAL CIVIL, TRIBUTÁRIO E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ICMS NA VENDA DE VEÍCULOS USADOS POR PARTE DE LOCADORA. NECESSIDADE DE EXAME DAS CIRCUNSTÂNCIAS CONCRETAS. PROVA NOS AUTOS. REEXAME. IMPOSSIBILIDADE EM SEDE DE RECURSO ESPECIAL. ALTERAÇÃO DO JULGADO QUE DEMANDARIA A ANÁLISE DO DECRETO ESTADUAL 29.831/2006 DO ESTADO DE PERNAMBUCO. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO DA TOTAL FLEET S.A. A QUE SE NEGA PROVIMENTO, EM CONFORMIDADE COM O PARECER DO MPF.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial fundado na alínea a do art. 105, III da Carta Magna, interposto pela TOTAL FLEET S.A. contra acórdão do egrégio Tribunal de Justiça do Estado de Pernambuco, de fls. 414/445, assim ementado:
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ICMS NA VENDA DE VEÍCULOS USADOS POR PARTE DE LOCADORA. NECESSIDADE DE EXAME DAS CIRCUNSTÂNCIAS CONCRETAS DO ATO DE VENDA. INADEQUAÇÃO DA VIA MANDAMENTAL PARA ESTABELECER, EM ABSTRATO, A INCIDÊNCIA, OU NÃO, DE ICMS EM CASOS QUE TAIS. AFASTAMENTO, CONTUDO, DAS EXIGÊNCIAS PROCEDIMENTAIS QUE CONFIGUREM MEIO OBLÍQUO DE COBRANÇA DE IMPOSTO.
+1. A tese central da impetração é a de que as vendas de veículos usados realizadas pela impetrante (locadora de automóveis)consubstanciam alienação de ativo fixo e não de mercadorias, pelo que tais vendas não se sujeitariam ã tributação pelo ICMS, daí exsurgindo a ilegitimidade da exigência desse tributo sobre as vendas de veículos usados (fls. 427).
+2. Em seu Apelo Especial inadmitido (fls. 487/506), a parte recorrente, ora agravante, aponta violação dos arts. 535, I e II do CPC/1973; 20 e 21 da Lei Complementar 87/1996; 100 e 110 do CTN; 2o. e 4o. da LC 24/1975; 179, IV da Lei 6.404/1976. Alega que, com efeito, a discussão trazida a baila diz respeito justamente as imposições normativas instituídas por meio do Convênio CONFAZ 64/06 e pelo Decreto Pernambucano 29.831/06, que determinam a incidência do ICMS sempre que houver venda de veículo autopropulsado integrante do ativo imobilizado e desde que a referida operação se dê em prazo inferior a 12 (doze) meses da data de sua aquisição junto à montadora.
+3. Sobreveio juízo negativo de admissibilidade (fls. 652/654) sob os óbices das Súmulas 7/STJ e 280/STF, o que ensejou a interposição do presente Agravo em Recurso Especial (fls. 672/692).
+4. Parecer do MPF às fls. 783/788 opinando pelo desprovimento do Apelo Nobre.
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7. Conforme se verifica dos autos, os fundamentos utilizados como razões de decidir do Acórdão proferido pela Corte de origem foram os seguintes:
+E certo que, via de regra, a venda de bens oriundos do ativo fixo não configura operação de circulação de mercadorias.
+Essa via de regra, contudo, deriva não da circunstância de que tais bens tenham integrado ou sejam oriundos do ativo fixo, e sim da circunstância de não terem eles a destinação mercantil que subjaz inerente ao conceito de mercadoria.
+Via de conseqüência, se o bem em tela, apesar de oriundo do ativo imobilizado, receber, no ato de alienação, de uma destinação mercantil, passará a constituir mercadoria (e como tal suscetível de ser objeto de operação de circulação tributável pelo ICMS, na forma da regra geral, a exemplo de qualquer bem que, naturalmente vocacionado à circulação, venha a ser reinserido na circulação depois de período fora do comércio, inclusive, por exemplo, em decorrência de integração ao ativo fixo).
+Ou seja, a meu sentir, não é absoluta a premissa posta pela impetrante, segundo a qual os veículos que aliena, por serem oriundos do seu ativo fixo, seriam insuscetíveis de corporificar mercadorias (fls. 429).
+8. A alteração de tais conclusões, tiradas à vista das provas constantes nos autos, implicaria o revolvimento do conteúdo fático-probatório da demanda, situação esta que se afigura vedada em sede de Recurso Especial.
+9. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTO. NOTIFICAÇÃO DE LANÇAMENTO. PUBLICAÇÃO NO DIÁRIO OFICIAL. QUEBRA DE SIGILO FISCAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DESTA CORTE. EXAME DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. INCIDÊNCIA. DANOS MORAIS. NECESSIDADE DO REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1. O Tribunal de origem não se pronunciou sobre a matéria versada nos arts. 198 do CTN, apesar da oposição de embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ (Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.).
+2. A análise da questão recorrida demanda necessária interpretação das disposições da Lei Distrital 4.567/11, o que, todavia, afigura-se vedado em sede de recurso especial por atrair a incidência da Súmula 280/STF.
+3. A alteração das conclusões adotadas pela Corte de origem, quanto à ausência de comprovação do dano moral, exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto no enunciado 7 da Súmula do Superior Tribunal de Justiça.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 721.518/DF, Rel. Min. SÉRGIO KUKINA, DJe 19.8.2015).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. A tese defendida no recurso especial demanda o reexame do conjunto fático e probatório dos autos, vedado pelo enunciado 7 da Súmula do STJ.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp. 745.648/RS, Rel. Min. MARIA ISABEL GALLOTTI, DJe 29.9.2015).
+10. Ademais, a alteração do julgado demandaria a análise do Decreto Estadual 29.831/2.006 do Estado de Pernambuco, o que, contudo, é vedado na via especial por incidência da Súmula 280/STF. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. REENQUADRAMENTO. ATO ÚNICO DE EFEITOS CONCRETOS. PRESCRIÇÃO DO PRÓPRIO FUNDO DE DIREITO. OCORRÊNCIA. MULTA DO ART. 538/CPC. AFASTAMENTO.
+(..).
+2. O exame de normas de caráter local é inviável na via do recurso especial, em virtude da vedação prevista na Súmula 280 do STF, segundo a qual, por ofensa a direito local, não cabe recurso extraordinário.
+Agravo regimental improvido (AgRg no REsp. 1.526.782/MG, Rel. Min. HUMBERTO MARTINS, DJe 12.5.2016).
+11. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial da TOTAL FLEET S.A.
+12. Publique-se. Intimações necessárias.
