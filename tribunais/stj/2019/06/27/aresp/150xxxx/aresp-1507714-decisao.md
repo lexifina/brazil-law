@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo apresentado por SOC IMOBILIARIA MARILANDIA LTDA, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim resumido:
+EMENTA: APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. TERRENO. QUITAÇÃO. OUTORGA DE ESCRITURA PÚBLICA DEFINITIVA. OBRIGAÇÃO DO PROMITENTE VENDEDOR. IMPOSSIBILIDADE DE CUMPRIMENTO. LOTEAMENTO IRREGULAR. INADIMPLEMENTO CONTRATUAL DO VENDEDOR. DANO MORAL. CONFIGURAÇÃO. REDUÇÃO DO VALOR ARBITRADO. ASTREINTES. MANUTENÇÃO (fl. 972).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos art. 389, 395 e 404 do CC, no que concerne ao depósito efetuado sem observância de juros e correção monetária, trazendo os seguintes argumentos:
+O magistrado de primeiro grau, ao proferir a sua Sentença, entendeu, à luz do depósito efetuado, que a parte Requerida cumpriu de forma plena com a sua parte do contrato. Contudo, o depósito efetuado, a destempo, é importante frisar, foi feito de maneira simples, ou seja, sem os consectários legais, conforme determina o Código Civil (fl. 992).
+O próprio magistrado de segundo grau, ao proferir a sua decisão, argumentou que nos contratos bilaterais, uma parte não pode exigir o cumprimento da outra sem antes adimplir a sua e, no caso concreto, os Recorridos não cumpriram integralmente a sua parte, visto que ao realizar o depósito, não levaram em consideração os juros e a atualização monetária (fl. 992).
+O atraso do Recorrido em efetuar o pagamento das parcelas avençadas com a empresa Recorrente gerou, para ele, a obrigação de quando os realizasse o fazer com a devida correção monetária e os cabíveis, o que não ocorreu (fl. 993).
+O pagamento do valor remanescente do contrato de maneira simples acarreta, também, o enriquecimento sem justa causa, visto que o Requerido fica, para si, com o valor correspondente à atualização monetária e aos juros legais do período (fl. 993).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 489, §1º, IV, do CPC, no que concerne à necessidade de o magistrado enfrentar todos os argumentos capazes de infirmar a decisão proferida, trazendo os seguintes argumentos:
+Ademais, ressalta-se o fato de que a Sentença foi proferida sob a égide do Novo Código de Processo Civil que prevê, em seu art. 489, a obrigatoriedade de o magistrado enfrentar todas os argumentos capazes de infirmar a decisão proferida (fl. 993).
+Não adotando tese específica para cada um dos argumentos formulados pela empresa Requerente, o magistrado também contraria este dispositivo de lei federal (fl. 993).
+Quanto à terceira controvérsia, o recurso especial foi interposto pela alínea "c".
+É o relatório. Decido.
+Em relação à primeira e segunda controvérsias, na espécie, incide o óbice das Súmulas 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Quanto à terceira controvérsia, na espécie, verifica-se que os dispositivos legais sob os quais teria havido o dissídio jurisprudencial não foram examinados pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim.
+Desta forma, reconhecida a ausência de prequestionamento da norma objeto da divergência jurisprudencial, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE PREQUESTIONAMENTO. NÃO CABIMENTO DO RECURSO PELA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL.
+1. O cabimento de recurso especial fundado na alínea "c" do permissivo constitucional requer o prequestionamento do dispositivo de lei federal cuja interpretação se alega divergente por outro Tribunal.
+2. Uma vez reconhecida a ausência de prequestionamento do dispositivo de lei federal apontado como ofendido pela parte recorrente, é desnecessário o exame do cabimento do recurso especial quanto à alínea "c" do inciso III, do art. 105, da Constituição Federal, em relação ao mesmo dispositivo.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1274569/MG, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 25/8/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
