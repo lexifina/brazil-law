@@ -1,0 +1,9 @@
+DECISÃO
+O impetrante, ora requerente, pleiteia a reconsideração da decisão que indeferiu liminarmente o habeas corpus, conforme os termos da decisão de fls. 221-222, sob o argumento de que o acusado se encontra preso, ao contrário do consignado na decisão impugnada e, por isso mesmo, deveria ser colocado em liberdade.
+Em que pese o argumento externado pela defesa, nesta oportunidade, a decisão deve ser mantida. O decisum impugnado, ao afirmar que o paciente se encontraria em local incerto e não sabido, fez menção à decisão que decretou a preventiva. Vale dizer, um dos fundamentos da decisão constritiva foi exatamente esse, nestes termos (fl. 30, destaquei):
+Com relação ao pedido de prisão preventiva dos acusados [NOME] e [NOME], formulado pelo representante do Parquet, haja vista ambos estarem em local incerto e não sabido.
+Embora haja sido efetivada a prisão em momento posterior, fato é que os elementos constantes nos autos não permitiriam avaliar se o fato considerado pela decisão que decretou a preventiva se deu pela fuga ou por simples inexistência de endereço, por exemplo.
+Além disso, assinalei que os corréus, aos quais é imputada a prática de roubo circunstanciado, somente foram colocados em liberdade em razão do reconhecimento de excesso de prazo. Vale dizer, a liberdade provisória não foi concedida aos outros acusados pela ausência de fundamentação do decreto constritivo, mas pelo tempo demasiado de prisão cautelar, o que não se aplica ao paciente, que nem sequer compareceu a audiência de instrução e julgamento (fls. 41-44), embora haja sido preso posteriormente.
+Por fim, ficou registrado, ainda, que tais questões não chegaram a ser analisadas pelo Tribunal de origem, o que impede o exame por esta Corte, sob pena de supressão de instância.
+Ante o exposto, indefiro o pedido.
+Publique-se e intimem-se.
