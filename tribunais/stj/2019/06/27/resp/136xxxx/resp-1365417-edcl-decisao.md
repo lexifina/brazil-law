@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] DE [NOME] ENGENHARIA LTDA em face da decisão monocrática de fls. 923/929 que negou provimento ao seu recurso especial, sob os seguintes fundamentos: (i) ausência de violação do art. 535 do CPC/73; (ii) consonância do v. acórdão estadual com o entendimento desta eg. Corte Superior; e (iii) incidência da Súmula n. 7/STJ quanto à possibilidade de o nome empresarial e a marca confundirem os consumidores.
+Em suas razões, a parte embargante afirma, em síntese, "A Embargada, em momento algum, demonstrou a atuação no âmbito do Estado do Rio de Janeiro. Sequer demonstrou seu registro na Junta Comercial do Estado do Rio de Janeiro. Logo, em observância ao critério (ou princípio) da territorialidade, apenas a Embargante, [NOME], deveria fazer jus à proteção ao seu nome empresarial na circunscrição do Estado do Rio de Janeiro." (fl. 933).
+Alega-se que "(..) a decisão além de se omitir a respeito da superação do precedente apontado pela Embargante (REsp 1.204.488/RS), também é contraditória, haja vista utilizar-se do mesmo precedente invocado na petição de Recurso Especial, mas conferir interpretação diferente, se omitindo a respeito da observância do critério da territorialidade pela Embargante, que confiava na proteção ao uso de seu nome na circunscrição onde registrada" (fl. 933).
+Aduz que "(..) a decisão monocrática menciona a anterioridade do registro, bem como a atuação no mesmo ramo, mas não trata do princípio da territorialidade, que confere a proteção ao uso do nome empresarial pela Embargante no Estado do Rio de Janeiro, onde encontram-se registrados seus atos constitutivos." (fl. 933).
+Por fim, pleiteia o provimento dos embargos para sanar as omissões apresentadas.
+Devidamente intimada, a parte embargada manifestou-se às fls. 937/939.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022), sendo inadmissível a sua interposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso, inexiste o apontado vício, pois, conforme se constata na leitura da decisão recorrida (fls. 923/929), o eg. Tribunal estadual assentou que o nome empresarial e a marca objeto da controvérsia desses autos podem confundir os consumidores, especialmente porque as pessoas jurídicas atuam no mesmo ramo de atividade. Para alterar essa conclusão e adotar a pretensão da parte, seria necessário revolver o acervo fático e probatório dos autos, o que é inadmissível em sede de recurso especial.
+Dessarte, no caso dos autos, está nítido o propósito da parte embargante de rediscutir temas que foram devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração. Isso, porque tal recurso é incompatível com a pretensão de se obter efeitos infringentes.
+A propósito, traz-se a lume alguns arestos proferidos nesse sentido, os quais exprimem a firme jurisprudência do Superior Tribunal de Justiça acerca da inadmissibilidade dos embargos de declaração quando opostos fora das exíguas hipóteses legais de seu cabimento, in verbis:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA DESISTÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas na decisão embargada, o que é incabível nos embargos declaratórios.
+3. A reiteração, pela parte embargante, de fundamento expressa e devidamente examinado no acórdão embargado evidencia intuito manifestamente protelatório, ensejando a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+4. Embargos de declaração rejeitados, com imposição de multa."
+(EDcl no AgInt nos EDcl na DESIS nos EDcl no REsp 1455671/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/05/2019, DJe 10/06/2019, g.n.)
+"PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO ESTADUAL. INEXISTÊNCIA. SEGURO. SINISTRO NÃO COBERTO. RECUSA DEVIDA. SÚMULAS Nº 5 E 7/STJ. REVELIA. CERCEAMENTO DE DEFESA. MATÉRIA DE ORDEM PÚBLICA. PRECEDENTES. SÚMULA Nº 83/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+4. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 602.288/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/05/2019, DJe 10/05/2019, g.n.)
+Com essas considerações, conclui-se que os presentes aclaratórios não merecem prosperar.
+Ante o exposto, rejeito os embargos de declaração.
