@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado pelo FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+Agravo interno na apelação. Decisão monocrática que negou seguimento ao recurso, e manteve a sentença. Inteligência do art. 557, caput, do CPC/73 vigente à época. Previdenciário. Ação visando o reajuste da pensão e o pagamento de diferenças. Sentença de procedência parcial do pedido. Inconformismo da autarquia ré. Honorários advocatícios. Fazenda Pública vencida. Fixação na forma do §4º do art. 20 do CPC/73 então vigente, que não se restringe aos percentuais previstos no §3º da mesma norma. Manutenção do valor fixado. Decisão monocrática que se mantém. Agravo interno desprovido.
+O recorrente alega violação dos arts. 345, inciso II, e 506, do CPC, além do artigo 1º do Decreto n. 20.910/32, complementado pelo Decreto-Lei n. 4.597/42, trazendo os seguintes argumentos:
+Destarte, pelo fato de uma autarquia estadual ocupar o pólo passivo da relação processual, existe uma bruma de interesse público a outorgar a indisponibilidade do direito da Fazenda Pública versado no litígio, focalizando a questão para a norma especial gizada no inciso 11 do art. 345 do CPC.
+ ..
+Da leitura acima, conclui-se, com extrema clareza, que não há que se falar em aplicação dos efeitos da revelia com relação ao Instituto Réu, não só em face da natureza dos direitos aqui tratados, como diante do fato de se tratar de matéria de direito.
+ ..
+Igualmente, como não pôde se manifestar no bojo da ação nº. 2007.205.014017-7, o réu, ora recorrente, não teve como influenciar no convencimento do magistrado naquele feito, de maneira que, caso seja trazido efeito daquele processo para o presente feito, violado estaria seu direito à ampla defesa e contraditório (art. 5º, LV), razão pela qual não pode prosperar a sentença que deferiu o pleito de habilitação à pensão (fls. 478/479).
+É o relatório. Decido.
+Na espécie, no que se refere à alegação de violação da legislação infraconstitucional apontada, incide o óbice da Súmula n. 211/STJ, uma vez que as questões não foram examinadas pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
