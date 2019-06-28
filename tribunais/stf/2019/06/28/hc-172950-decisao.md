@@ -1,0 +1,26 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado pela Defensoria Pública do Estado de São Paulo em favor de Jonathan Jardel Vitorino Portela, contra decisão monocrática da lavra do Ministro Felix Fischer, exarada nos autos do HC 492.910/SP.
+    Narram os autos que o paciente foi condenado à pena de 5 (cinco) anos de reclusão pela prática do delito de tráfico de entorpecente (art. 33 da Lei 11.343/2006), a ser cumprida em regime inicial fechado. (eDOC 3, p. 13)
+    Interposta apelação, o TJ/SP deu parcial provimento ao recurso defensivo, para, reconhecendo a incidência da causa especial de diminuição de pena do art. 33, § 4º no patamar de 1/2, fixar a reprimenda do paciente em 2 (dois) anos e 6 (seis) meses de reclusão, em regime fechado. (eDOC 3, p. 39)
+    A questão, então, foi levada à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Felix Fischer, concedeu a ordem de ofício apenas para fixar o regime inicial semiaberto. (eDOC 4)
+    Nesta Corte, a defesa enfatiza que o paciente tem direito ao regime aberto e à substituição da pena privativa de liberdade por restritiva de direitos.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo colegiado do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, inciso XXXV, CF), a aplicação desse entendimento jurisprudencial pode ser afastada na ocorrência de patente constrangimento ilegal ou abuso de poder, o que verifico no presente caso.
+    Na espécie, a pena do paciente restou fixada pelo TJ/SP em 2 (dois) anos e 6 (seis) meses de reclusão, a ser cumprida em regime inicial fechado, por ofensa ao art. 33 da Lei de drogas. (eDOC 3, p. 39)
+    Como sabido, em sessão realizada em 27.6.2012 (DJe 17.12.2013), o Plenário do Supremo Tribunal Federal, ao analisar o HC 111.840/ES, de relatoria do Ministro Dias Toffoli, por maioria, declarou, incidenter tantum, a inconstitucionalidade do § 1º do art. 2º da Lei 8.072/90, com a redação dada pela Lei 11.464/2007.
+    Desse modo, ficou superada a obrigatoriedade de início do cumprimento de pena no regime fechado aos condenados por crimes hediondos ou a eles equiparados.
+    Embora tenha o STJ redefinido o regime inicial para o semiaberto, ainda persiste flagrante ilegalidade a ser reparada nesta Corte, sobretudo levando-se em consideração o montante da pena aplicada ao paciente.
+    Ao julgar a apelação defensiva, consignou o TJ/SP:
+    “(...).
+    Entretanto, com relação ao réu Jonathan, tem-se que ele é primário, sendo possível a modificação da sentença nesta parte da dosimetria, para conceder-lhe referido benefício, pois, se verifica que, além do mais, a quantidade de droga encontrada, levando-se me consideração seu peso líquido, não foi tão grande a ponto de impedir, neste caso concreto, a incidência do redutor e não há base segura, aqui, para que se conclua pela existência da efetiva dedicação de Jonathan às atividades criminosas.
+    Assim, como o apelante é primário, era relativamente menor de idade na época dos fatos, e os elementos existentes não são de molde a impedi-lo, bem como em face do acima ponderado e da ausência de evidências de participação em organização criminosa, afigura-se de melhor alvitre lhe conceder o benefício previsto no referido dispositivo legal, para que sua reprimenda seja diminuída na proporção de 1/2 (metade)”. (eDOC 3, p. 30)
+    Conforme transcrito, a decisão afirma a primariedade do imputado e valora positivamente todas as circunstâncias judiciais da primeira fase da dosimetria (art. 59, CP). Diante disso, resta claro que não há motivação idônea para justificar a imposição de regime inicial mais gravoso. A gravidade em abstrato do fato não é justificativa legítima, especialmente diante da primariedade do paciente, reconhecida com a valoração positiva das circunstâncias judiciais, nos termos das súmulas 718 e 719 deste Supremo Tribunal.
+    Desse modo, verifica-se que, no caso concreto, o regime inicial foi fixado em decisão carente de fundamentação idônea e em confronto com o entendimento firmado por este Supremo Tribunal Federal, nos autos do HC 111.840, Rel. Min. Dias Toffoli, DJe 16.12.2013. Recentemente, concedi a ordem em casos semelhantes: HC 157.982, DJe 9.8.2018 e HC 153.212, DJe 21.9.2018.
+    Ante o exposto, concedo a ordem para fixar o regime inicial aberto para o início do cumprimento da pena, ao tempo em que substituo a pena privativa de liberdade por duas restritivas de direitos.
+    Publique-se. Comunique-se.
+    Brasília, 28 de junho de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
