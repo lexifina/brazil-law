@@ -1,0 +1,42 @@
+Trata-se de reclamação proposta pela CEMIG Distribuição S.A., com fundamento nos arts. 102, I, l, da Constituição Federal; arts. 988 e seguintes, do Código de Processo Civil; e arts. 156 e seguintes do Regimento Interno do Supremo Tribunal Federal, em face de acórdão proferido nos autos da Ação Trabalhista 0010142-20.2015.5.03.0102, na qual sustenta que o Tribunal de origem teria desrespeitado a Súmula Vinculante 10 e o decidido por esta Suprema Corte no julgamento da ADPF 324/DF, de relatoria do Ministro Roberto Barroso.
+    A reclamante alega, em síntese, que,
+    “[n]o caso em análise, foi proferida decisão pela 8ª Turma do Egrégio Tribunal Regional do Trabalho da 3ª Região, nos autos de nº 0010142-20.2015.5.03.0102, que declarou a ilicitude da terceirização praticada pelas empresas Reclamadas, reconheceu ao reclamante os mesmos direitos (legais e normativos) conferidos aos empregados da CEMIG e condenou esta subsidiariamente ao pagamento das verbas deferidas na ação trabalhista.
+    Ocorre que, ao manifestar tal posicionamento, referida Turma Regional desobedeceu ao teor da Súmula Vinculante nº 10 do STF, em razão de ter afastado a aplicação, no caso concreto, da disposição contida no §1º do art. 25 da Lei nº 8.987/95, sem a prévia remessa do tema para apreciação e julgamento pelo Órgão Pleno do Tribunal, descumprindo o princípio constitucional da cláusula de reserva de plenário previsto no art. 97 da CR/88.
+    Neste mesmo sentido, conforme será amplamente demonstrado, o acórdão atacado, ao acolher a tese de ilicitude da terceirização, desconsidera a autoridade das decisões da Suprema Corte, que firmou entendimento cristalino sobre a matéria no julgamento da ADPF nº 324, nos seguintes termos: ‘É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada’.
+    […]” (págs. 3-4 da inicial).
+    Ao final, requer:
+    “d) O deferimento do pedido liminar para suspender, cautelarmente, com amparo no artigo 989, II, do CPC e no artigo 158 do Regimento Interno do Supremo Tribunal Federal, a decisão impugnada e a tramitação da reclamatória trabalhista nº 0010142-20.2015.5.03.0102, até a decisão final da presente reclamação;
+    e) A procedência da presente reclamação, com a consequente cassação da decisão proferida pela 8ª Turma do Tribunal Regional do Trabalho da 3ª Região, na reclamatória trabalhista nº 0010142-20.2015.5.03.0102, que violou a Súmula Vinculante nº 10 do STF e a decisão proferida pelo STF, em controle concentrado de constitucionalidade, na ADPF nº 324;
+    […]” (págs. 19-20 da inicial).
+    É o relatório suficiente. Decido.
+    Inicialmente, deixo de requisitar informações e enviar o feito à Procuradora-Geral da República, por entender que o processo já está em condições de julgamento (arts. 52, parágrafo único; e 161, parágrafo único, ambos do RISTF).
+    Destaco que a reclamação perante o Supremo Tribunal Federal será sempre cabível para: (i) preservar a competência do Tribunal; (ii) garantir a autoridade de suas decisões; e (iii) garantir a observância de enunciado de Súmula Vinculante e de decisão desta Corte em controle concentrado de constitucionalidade, nos termos do art. 988 do Código de Processo Civil.
+    Na análise do presente caso, verifico ter havido a alegada inobservância da Súmula Vinculante 10.
+    Isso porque o Tribunal Regional do Trabalho da 3ª Região entendeu ser ilícita a terceirização da prestação do serviço, nesses termos:
+    “[...]
+    Quando se verifica que os serviços terceirizados estão intrinsecamente ligados à atividade-fim da tomadora dos serviços, o instituto da terceirização fica desvirtuado, situação que não se admite no Direito do Trabalho, porquanto esse instituto não deve servir de instrumento para alijar o empregado do melhor crédito trabalhista normalmente ofertado pela empresa tomadora dos serviços.
+    Nessa hipótese, o vínculo empregatício se forma diretamente com o tomador dos serviços, salvo nas hipóteses de trabalho temporário - item I da Súmula 331 do C. TST, precedente que supre a lacuna existente no ordenamento jurídico trabalhista, como autoriza expressamente o art. 8º da CLT.
+    No caso dos autos, restou incontroverso que o reclamante foi contratado pela primeira reclamada (ECEL - ENGENHARIA E CONSTRUÇÕES LTDA.), para exercer a atividade de eletricista de linhas aéreas, prestando serviços e benefício único e exclusivo da segunda reclamada (CEMIG).
+    Porém, ao contrário do que pretendem fazer crer as recorrentes, o reclamante exercia atividades inerentes à finalidade precípua da tomadora dos serviços.
+     […]
+    Além da prova documental, a prova oral também aponta para a ilicitude da terceirização, uma vez que o preposto da primeira reclamada declarou em depoimento pessoal que: ‘a atividade da 1ª reclamada envolve atendimento do consumidor, corte, religação de energia, manutenção de energia para a Cemig; a 2ª reclamada também realiza esse tipo de serviço; os serviços que estão no contrato entre a 1ª e 2ª reclamada são feitos pela Ecel; o ponto era preenchido pelos próprios funcionários’(ID 027d12f).
+    Como visto, sendo a segunda reclamada uma empresa de serviços de distribuição de energia elétrica e restando incontroverso nos autos que o reclamante lhe prestou serviços como eletricista, não há qualquer dúvida de que as suas atividades estavam inseridas na dinâmica estrutural da empresa tomadora de serviços.
+    […]
+    Não se olvida que o art. 25, § 1º, da Lei 8.987/95, permite à concessionária contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço concedido. Sucede que não se pode interpretar que a atividade inerente prevista nesse dispositivo permita a terceirização de atividade-fim com fraude à legislação trabalhista.
+    […]
+    Portanto, as atividades exercidas pelo reclamante não eram periféricas e tinham por escopo a atividade-fim da CEMIG, configurando-se como ilícita a alegada terceirização, a teor da Súmula 331 do C. TST, atraindo a incidência do disposto no art. 9º da CLT, tal como decidido na origem.
+    […]” (págs. 177-180 do documento eletrônico 8).
+    Pois bem. Como já mencionado, esta reclamação aponta inobservância ao teor da Súmula Vinculante 10, verbis:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte”.
+    Verifica-se que, ao assim decidir, o acórdão reclamado afastou a aplicação do § 1° do art. 25 da Lei 8.987/1995 com fundamento no princípio da isonomia, o que caracteriza, no caso, evidente desrespeito ao enunciado da Súmula Vinculante 10. Em sentido semelhante:
+    “Direito do Trabalho e Administrativo. Agravo interno em reclamação. Alegada ofensa à Súmula Vinculante nº 10.
+    1. De acordo com a Súmula Vinculante nº 10, o afastamento da incidência de lei, mesmo sem declaração expressa de inconstitucionalidade, exige a observância da cláusula de reserva de plenário. Essa regra não é observada quando a decisão do órgão fracionário, sob o fundamento de interpretar dispositivo legal, não deixa qualquer espaço para que ele seja aplicado.
+    2. Viola a Súmula Vinculante nº 10 a decisão que, invocando o art. 25, § 1º, da Lei nº 8.987/1995, afasta genericamente o comando que permite a terceirização, pelas concessionárias de serviço público, de atividades inerentes ao serviço concedido.
+    3. Agravo regimental desprovido” (Rcl 27.184-AgR/MG, Rel. Min. Roberto Barroso, Primeira Turma).
+    Ressalto, ainda, que o Plenário do Supremo Tribunal Federal, no julgamento do Recurso Extraordinário 958.252/MG, representativo do Tema 725 da Repercussão Geral, fixou a tese de que “é licita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante”.
+    No mesmo dia, ao analisar a ADPF 324/DF, de relatoria do Ministro Roberto Barroso, o Plenário do STF julgou procedente o pedido para assentar a licitude da terceirização de atividade fim ou meio.
+    Isso posto, julgo procedente o pedido para cassar o ato reclamado e determinar que outro seja proferido em seu lugar, com a observância da Súmula Vinculante 10.
+    Publique-se.
+    Brasília, 28 de junho de 2019.
+Ministro Ricardo Lewandowski
+Relator
