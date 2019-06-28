@@ -1,0 +1,31 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de Natal/RN contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “TRIBUTÁRIO. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. COBRANÇA DE IPTU E TAXA. IMÓVEL LOCALIZADO EM ÁREA DE PROTEÇÃO AMBIENTAL. APLICAÇÃO DA ALÍQUOTA ZERO NOS TERMOS DO ART. 44, PARÁGRAFO ÚNICO, DO CÓDIGO TRIBUTÁRIO DO MUNICÍPIO DE NATAL/RN. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE. RECURSO CONHECIDO E DESPROVIDO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, invocou, como fundamentos do recurso extraordinário, os dispositivos inscritos no art. 102, III, “c” e “d”, da Constituição Federal.
+    Cumpre ressaltar, desde logo, que a mera análise do acórdão em referência demonstra que o Tribunal “a quo”, ao proferir a decisão questionada, não julgou válida lei local em face de lei federal:
+    “Com efeito, depreende-se dos autos que o excipiente, ora recorrido, apresentou exceção de pré-executividade, aduzindo que o imóvel está localizado em área de proteção ambiental, devendo ser aplicado a alíquota zero, com o consequente afastamento da incidência de tributos e taxas.
+    Nesse passo, a magistrada a quo concluiu em seu ‘decisum’ que, de fato, o imóvel encontra-se em área de proteção ambiental conforme croqui colacionado aos autos, bem como ressaltou que os Decretos Municipais nº 7.119/2002 e 7.332/2003, tiveram como intenção repetir o que fora instituído pelo art. 44, parágrafo único, da lei nº 3.882/89, qual seja, a previsão de alíquota de 0% para o cálculo do IPTU incidente sobre a propriedade de imóveis estabelecidos em áreas de Zona de preservação ambiental ‘non edificandi’, como é o caso dos autos.
+    Neste diapasão, observa-se do croqui onde o imóvel de propriedade do excipiente está localizado, que este atravessa a área de proteção ambiental, podendo-se concluir, assim, que a parte apelada faz jus à aplicação da alíquota zero, conforme prevê o Código Tributário do Município de Natal, em seu art. 44, considerando que imóvel em tela está situado em área ‘non edificandi’.
+    Sabidamente, o IPTU é tributo de competência municipal. Assim, cada município da Federação tem relativa autonomia para instituir e cobrar o tributo. Diz-se ‘relativa’ pois há limitações a tal autonomia. ‘In casu’, observe-se o disposto no artigo 32 do Código Tributário Nacional, que assim dispõe:
+    ‘SEÇÃO II
+    Imposto sobre a Propriedade Predial e Territorial Urbana
+    32. O imposto, de competência dos Municípios, sobre a propriedade predial e territorial urbana tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel por natureza ou por acessão física, como definido na lei civil, localizado na zona urbana do Município.
+    1º Para os efeitos deste imposto, entende-se como zona urbana a definida em lei municipal; observado o requisito mínimo da existência de melhoramentos indicados em pelo menos 2 (dois) dos incisos seguintes, construídos ou mantidos pelo Poder Público:
+    I – meio-fio ou calçamento, com canalização de águas pluviais;
+    II – abastecimento de água;
+    III – sistema de esgotos sanitários;
+    IV – rede de iluminação pública, com ou sem posteamento para distribuição domiciliar;
+    V – escola primária ou posto de saúde a uma distância máxima de 3 (três) quilômetros do imóvel considerado.
+    2º A lei municipal pode considerar urbanas as áreas urbanizáveis, ou de expansão urbana, constantes de loteamentos aprovados pelos órgãos competentes, destinados à habitação, à indústria ou ao comércio, mesmo que localizados fora das zonas definidas nos termos do parágrafo anterior.’
+    Da leitura do artigo supra podemos claramente tirar três conclusões:
+    1. O IPTU pode incidir sobre áreas urbanas, urbanizáveis ou de expansão urbana;
+    2. Para se considerar a área como urbana há a absoluta necessidade de que dois dos requisitos apontados no parágrafo 1º do artigo 32 efetivamente existam no bem em questão;
+    3. Se a área for considerável urbanizável ou de expansão urbana o IPTU pode ser cobrado mesmo que não haja no bem nenhum dos requisitos apontados no parágrafo 1º.
+    …...................................................................................................
+    Desta feita, no caso dos autos, é de bom alvitre destacar que o próprio Município de Natal declara que a área onde está situado o imóvel descrito na exordial da presente execução fiscal é considerada 100% (cem por cento) não edificante, havendo a proibição de qualquer edificação no momento em que instituiu a ZPA1, devendo-se aplicar a alíquota zero em se tratando do fato gerador do IPTU, observado o artigo 44, parágrafo único, do Código Tributário do Município de Natal, com redação dada pela LC 28/2000, devendo-se, ainda, ser afastada a tese acerca da inconstitucionalidade dos Decretos Municipais nº 7322/2003 e 7119/2002, que norteiam a matéria posta em debate, e que, por sua vez, embasaram o julgamento a quo de procedência parcial da demanda, devendo aqui ser enfatizando que, diferentemente do apontado nas razões recursais, o julgamento hostilizado não afronta os artigos 150, I e § 6º, da Constituição Federal, e artigo 97 do CTN.”
+    Cabe registrar, finalmente, que não se demonstrou, considerada a hipótese prevista no art. 102, III, “c”, da Carta Política, que o acórdão recorrido tenha julgado válida lei local em face da Constituição da República.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 28 de junho de 2019.
+Ministro CELSO DE MELLO
+Relator
