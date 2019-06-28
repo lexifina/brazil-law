@@ -1,0 +1,31 @@
+DECISÃO:
+Ementa: DIREITO CONSTITUCIONAL E ADMINISTRATIVO. TUTELA ANTECIPADA EM RECLAMAÇÃO. ACUMULAÇÃO DE REMUNERAÇÕES E PENSÃO POR MORTE. ABATE-TETO.
+1.  Reclamação em que se impugna decisão que não conheceu de agravo interno interposto de despacho de “nada a prover” relativo a pedido de reconsideração de decisão que indeferiu tutela antecipada de evidência, após sentença de procedência de pedido, fundada em tese firmada pelo STF em repercussão geral.
+2. Inviável reclamação substitutiva de recurso não interposto em momento processual oportuno.
+3. Reclamação a que se nega seguimento.
+    1. Trata-se de reclamação, com pedido liminar, contra decisão do desembargador relator da 8ª Turma Especializada do Tribunal Regional Federal da 2ª Região, proferido nos autos nº. 0003119-44.2018.4.02.0000, que não conheceu do agravo interno e indeferiu o pleito do reclamante de concessão de tutela de evidência.
+    2. Em síntese, a parte reclamante alega que o ato impugnado teria afrontado a autoridade do acórdão proferido no RE 602.043, julgado sob a sistemática da repercussão geral (Tema 384). Afirma que nesse julgado o Supremo Tribunal Federal teria firmado posicionamento no sentido da incidência do “abate-teto” considerando cada cargo isoladamente. Requer a interrupção dos descontos do seu contracheque a título de “abate teto”, bem como pagamento dos valores retroativos devidos.
+    3. É o relatório. Decido.
+    4. Dispenso as informações, porque suficientemente instruído o feito, bem como o parecer ministerial, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único). Deixo de determinar a citação da parte contrária, em razão da manifesta inviabilidade do pedido.
+    5. No caso, o reclamante invoca paradigma pelo qual foi afirmado que nas situações jurídicas em que a Constituição Federal autoriza a acumulação de cargos, o teto remuneratório é considerado em relação à remuneração de cada um deles, e não ao somatório do que recebido.
+    6. Ocorre que a decisão reclamada está fundamentada na preclusão, razão pela qual o agravo interno sequer foi conhecido. Confira-se trecho relevante da decisão reclamada:
+    “Primeiramente destaco que o Agravante indica como decisão agravada a proferida na fl. 133, que na verdade trata-se de um despacho em que está disposto:
+    ‘Fls.: 129/132: nada a prover.
+    Após intimação, voltem os autos conclusos’.
+    Verifico não ser agravável o mencionado decisum por se tratar de despacho de mero expediente que manteve posicionamento adotado à fl. 119.
+    Ressalto que a decisão indicada pelo Agravante como agravada, não modificou a determinação contida naquele primeiro decisum, tratando-se de simples manutenção de posicionamento já adotado nos autos, decorrente de pedido de reconsideração.
+    Conforme entendimento pacificado nos Tribunais, o pedido de reconsideração não interrompe, tampouco suspende o prazo para a interposição de recurso cabível. Dessa forma, em face da ocorrência da preclusão (fl. 128), não merece ser conhecido o Agravo Interno contra a decisão que deixou de acolher o pedido de reconsideração. (...)
+    Assim, em face da ocorrência da preclusão, não merece ser conhecido o Agravo Interno interposto contra a decisão que deixou de acolher o pedido de reconsideração.
+    Diante do exposto, NÃO CONHEÇO DO AGRAVO INTERNO”.
+    7. Assim, o ato reclamado não guarda relação de estrita aderência com o paradigma invocado, requisito indispensável ao conhecimento de reclamação. Nesse sentido, v.g., as Rcl 6.040 ED, Rel. Min. Teori Zavascki; Rcl 11.246 AgR, Rel. Min. Dias Toffoli; e Rcl 21.409, sob a minha relatoria.
+    8. Ademais, na sistemática da Lei nº 8.038/1990 e do CPC/1973, a jurisprudência do Supremo Tribunal Federal foi construída no sentido do descabimento da reclamação constitucional sob alegação de ausência de aplicação ou aplicação equivocada de precedente firmado em sede de repercussão geral. A incidência da tese firmada sob aquela sistemática somente poderia ser pleiteada pela interposição de recurso extraordinário no caso concreto, que observaria o trâmite dos arts. 543-A e 543-B do CPC/1973. Da decisão do Tribunal local que julgava o recurso extraordinário, seria cabível apenas a interposição de agravo interno no âmbito do próprio órgão de origem, salvo teratologia. Esta conclusão foi alcançada pelo Plenário no julgamento do AI 760.358-QO, Rel. Min. Gilmar Mendes.
+    9. No entanto, o Código de Processo Civil de 2015, na linha das suas demais inovações relativas à evolução legislativa do sistema de precedentes, previu a possibilidade de ajuizamento da reclamação para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida, ou de acórdão proferido em julgamento de recursos extraordinários repetitivos. Todavia, para tanto, deveriam ser “esgotadas as instâncias ordinárias” (art. 988, § 5º, II, do CPC/2015).
+    10. O STF firmou entendimento no sentido de que a correta interpretação do dispositivo exige o percurso de todo o iter processual, ultimado na interposição de agravo interno contra a decisão que nega seguimento ao recurso extraordinário, nos termos do art. 1.030, I e § 2º, do CPC/2015. Ou seja, é imprescindível que a parte tenha interposto todos os recursos cabíveis, até a última via processual que lhe é aberta. Nesse sentido, veja-se a Rcl 24.686-ED-AgR, Rel. Min. Teori Zavascki.
+    11. No presente caso, este requisito não foi cumprido. Com efeito, a parte reclamante impugna decisão que não conheceu de agravo interno, pelo qual o reclamante pleiteava a concessão de tutela antecipada. Não aberta, portanto, a via da reclamação constitucional por alegação de afronta a tese firmada em repercussão geral.
+    12.  Assim, embora tudo sugira o bom direito na questão de fundo, a reclamação aqui estaria funcionando como substitutiva de recurso, situação não admitida pela jurisprudência desta Corte.
+    13. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, prejudicado o exame do pedido liminar.
+    14. Sem honorários, porque não citada a parte contrária.
+    Publique-se. Intimem-se.
+          Brasília, 28 de junho de 2019.
+Ministro LUÍS ROBERTO BARROSO
+Relator
