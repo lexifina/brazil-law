@@ -1,0 +1,15 @@
+DECISÃO:
+    1. Trata-se de reclamação, com pedido liminar, ajuizada contra acórdão do Tribunal de Justiça de São Paulo que afirmou a regularidade do exame psicológico estabelecido como requisito para o acesso ao cargo de oficial da Polícia Militar do Estado de São Paulo. Eis a ementa:
+    “RECURSO DE APELAÇÃO EM AÇÃO DE PROCEDIMENTO COMUM. ADMINISTRATIVO. CONCURSO PÚBLICO. POLÍCIA MILITAR. REALIZAÇÃO DE EXAMES PSICOLÓGICOS. Candidato ao cargo de Soldado PM de 2ª Classe, reprovado na etapa de exames psicológicos, que sustenta a ilegalidade da exigência dos exames. Realização de exames psicológicos que é requisito previsto em lei para acesso aos cargos policiais. Inteligência do artigo 36, inciso VI, da Lei Estadual nº 10.123/68. Dispositivo legal vigente à época da publicação do edital do concurso. Posterior edição da Lei Complementar Estadual nº 1.291/16, que renovou a exigência de exames psicológicos nos concursos públicos destinados aos cargos da Polícia Militar. Previsão da realização dos exames no Edital. Inexistência de ilegalidade. Precedentes do C. STF e deste E. Tribunal de Justiça. Sentença de improcedência mantida. Recurso desprovido
+    2. O reclamante alega afronta à Súmula Vinculante 44 (“Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público”), porquanto a avaliação psicológica a que foi submetido estaria em desacordo com parâmetros legais e constitucionais.
+    3. É o relatório. Decido.
+    4. Dispenso as informações, porquanto suficientemente instruído o processo, bem como a manifestação da Procuradoria-Geral da República (RI/STF, art. 52, parágrafo único). Deixo de determinar a citação do beneficiário do ato reclamado, em face da manifesta inviabilidade do pedido.
+    5. Defiro a gratuidade da justiça.
+    6. Na sessão de 08.04.2015, o Supremo Tribunal Federal, após reiteradas decisões no sentido de que a exigência de exame psicotécnico nos concursos públicos somente é possível quando prevista em lei no sentido formal, converteu a Súmula 686 da jurisprudência dominante na Súmula Vinculante 44.
+    7. A hipótese dos autos já foi objeto de análise do Supremo Tribunal Federal em várias oportunidades e, em casos idênticos aos presente, esta Corte concluiu pela validade do exame psicotécnico para o ingresso nas carreiras militares daquele Estado, fundado na Lei estadual nº 10.123/1968 (Lei Orgânica da Polícia), a qual, no seu art. 36, VI, estabelece como requisito para matrícula nos cursos de formação ou nomeação para as carreiras policiais “possuir temperamento adequado ao exercício da função policial, apurado em exame psicotécnico”. Nessa linha, confira-se: Rcl 27.115, sob a minha relatoria; Rcl 23.781, Rel. Min. Rosa Weber; Rcl 25.230, Rel. Min. Dias Toffoli; Rcl 25.794, Rel. Min. Teori Zavaski; e Rcl 26.677, Rel. Min. Marco Aurélio.
+    8. Diante do exposto, com base no art. 21, §1º, do Regimento Interno do STF, nego seguimento à reclamação, prejudicado o pedido de liminar.
+    9. Sem honorários, pois não houve contraditório efetivo.
+          Publique-se.
+          Brasília, 28 de junho de 2019.
+Ministro LUÍS ROBERTO BARROSO
+Relator
