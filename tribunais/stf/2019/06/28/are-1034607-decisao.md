@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão em que se negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “DIREITO ADMINISTRATIVO. APELAÇÃO. MANDADO DE SEGURANÇA. CURSO DE FORMAÇÃO DE SARGENTO DA PMPE. SELEÇÃO INTERNA. PONTO DE CORTE. MÍNIMO DE 40% DE ACERTOS EM CADA PROVA/DISCIPLINA. INTERPRETAÇÃO DO ITEM ´3.1.6´ DO EDITAL. DECISÃO MONOCRÁTICA.
+    1. O processo público seletivo tem como finalidade precípua identificar os melhores candidatos envolvidos na disputa do certame.
+    2. Por isso, apesar da atecnia do item ´3.1.6.´ do Edital, o verdadeiro conteúdo da norma é alcançado mediante a sua interpretação lógico-sistemática.
+    3. Com efeito, a supremacia do interesse púbico exige que o ocupante do cargo de Sargento da Polícia tenha o conhecimento mínimo necessário para o exercício da função, situação verificada através da pontuação mínima de 40% de acertos por cada prova/disciplina, e não por bloco de matérias. Do contrário, poder-se-ia formar um sargento com profundo conhecimento em letras e nenhum conhecimento em Legislação Militar. Entendimento deste TJPE. RECURSO IMPROVIDO À UNANIMIDADE” (pág. 155 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, c, da Constituição, alegou-se, em suma, violação dos arts. 5º, caput e XXXVI; e 37, caput, da mesma Carta, sob o argumento de que é vedada a alteração de regras do edital durante a realização do certame. Aduziu-se que
+    “[...] a redação do item 3.1.6 não foi redigida de forma clara, contudo, se há duvida quanto o item em questão, não poderia a Administração interpretá-lo, posteriormente, para restringir o direito candidato, pois isto viola não só os princípios da legalidade e segurança, mas também o princípio da moralidade administrativa e da impessoalidade” (pág. 19 do documento eletrônico 2).
+    A pretensão recursal não merece acolhida.
+    Isso porque o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição Federal. Incabível, portanto, o recurso extraordinário pela alínea c do art. 102, III, da Lei Maior. Nesse sentido, cito, entre outras, as seguintes decisões: ARE 1.187.860-AgR/SP, de minha relatoria; ARE 1.129.338-AgR/SP, Rel. Min. Edson Fachin; RE 1.161.713-AgR/RS, Rel. Min. Roberto Barroso; e ARE 1.121.695-AgR/PR, Rel. Min. Dias Toffoli.
+    Ademais, a questão em análise foi dirimida tão somente com amparo nas provas dos autos e na interpretação das cláusulas do edital do certame, cujo reexame é vedado na instância extraordinária pelas Súmulas 279 e 454 do Supremo Tribunal Federal. Nesse sentido, destaco julgados de ambas as Turmas desta Corte:
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais.
+    AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé” (ARE 919.310-AgR/PE, Rel. Min. Marco Aurélio, Primeira Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CURSO DE FORMAÇÃO DE SARGENTOS. CRITÉRIO DE APLICAÇÃO DO PONTO DE CORTE DO CONCURSO: PREVISÃO EDITALÍCIA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS DE EDITAL: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 875.995-AgR/PE, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 28 de junho de 2019.
+Ministro Ricardo Lewandowski
+Relator
