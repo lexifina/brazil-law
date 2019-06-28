@@ -1,0 +1,24 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão de minha lavra que julgou procedente a reclamação para determinar o sobrestamento do feito na origem. (eDOC 22)
+    Em suas razões, a parte embargante sustenta contradição na decisão embargada quanto à condenação ao pagamento de honorários sucumbenciais dada a ausência de sucumbência do Embargante quanto ao mérito da presente reclamação, na medida em que o processo de origem restou sobrestado, aguardando a definição do precedente que irá pautar a atuação dos juízos ordinários, podendo importar em anulação das decisões apenas se estas contrariarem a jurisprudência fixada. (eDOC 24, p. 2)
+    Diante disso, requer o acolhimento dos presentes embargos para extinguir a citação condenação.
+    Intimada, a parte embargada apresentou contrarrazões pugnando pela rejeição dos aclaratórios. (eDOC 30)
+    É o breve relatório.
+    Decido.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do NCPC). No presente caso, não se verifica nenhuma dessas hipóteses.
+    Com efeito, os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, ora não vislumbradas.
+    Nesse sentido, confira-se a jurisprudência dominante do Supremo Tribunal Federal: AI-AgR-ED 808.362, Ellen Gracie, Segunda Turma, DJe 24.2.2011; AI-AgR-ED 674.130, Ricardo Lewandowski, Primeira Turma, DJe 22.2.2011; Rcl 25.195 AgR-ED, de minha relatoria, Segunda Turma, DJe 10.10.2017; e Rcl 12.416 AgR-ED, Edson Fachin, Tribunal Pleno, DJe 13.3.2018.
+    No caso, a embargante aduz contradição quanto à condenação ao pagamento de honorários de sucumbência, dada a procedência parcial da reclamação, fato que afastaria a sucumbência.
+    É certo que os honorários sucumbenciais são de titularidade do advogado, consoante arts. 22 e 23 da Lei nº 8.906/94, e sua constituição fundamenta-se na atuação profissional em juízo.
+    No ponto, ressalto que no julgamento da Rcl 24.464-AgR, no qual fiquei vencido, a Segunda Turma dessa Corte entendeu pela possibilidade de condenação em honorários advocatícios no âmbito das reclamações, dada a alteração introduzida pelo CPC/2015, o qual abalizou o instituto em seus arts. 988 a 993 e estabeleceu a instauração do contraditório. Nesses termos, cito a ementa do referido julgado:
+    “Agravo interno em reclamação. Direito Processual Civil. Instauração do contraditório. Honorários de sucumbência. Cabimento. Agravo interno provido. 1. A Lei nº 8.038/93 foi derrogada pela Lei nº 13.105/2015 (art. 1.072, IV), alcançando a expressa revogação, dentre outros, dos arts. 13 a 18 do diploma legislativo de 1990, passando o instituto da reclamatória a estar abalizado pelos arts. 988 a 993 do novel diploma processual, com previsão da instauração do contraditório (CPC, art. 989, III). 2. Embora ambos os institutos possuam sedes materiae na Lei nº 13.105/2015, a litigância de má-fé e os honorários sucumbenciais distinguem-se tanto na ratio de sua instituição quanto no beneficiário do provimento. 3. Cabimento da condenação em honorários advocatícios quando verificada a angularização da relação processual na ação reclamatória. 4. Agravo interno provido para fixar os honorários de sucumbência em 10% (dez por cento) sobre o valor do benefício econômico perseguido nos autos em referência (art. 85, § 2º, do CPC), cuja execução deverá ser realizada no juízo de origem.” (Rcl 24464 AgR, de minha relatoria, Rel. p/ Acórdão: Min. Dias Toffoli, Segunda Turma, DJe 8.2.2018)
+    Dito isto, verifico que a parte embargada ajuizou reclamação requerendo a anulação da decisão proferida pela Segunda Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado da Bahia, nos autos do Processo 0006128-82.2016.4.01.3307, por suposta violação à Súmula Vinculante 37.
+    Deferida a medida liminar, a parte reclamada foi devidamente citada, tendo apresentado contestação (eDOC 11).
+    A reclamação foi julgada procedente para cassar a decisão reclamada e determinar que outra seja proferida com a observância da Súmula Vinculante 37 do STF. (eDOC 22)
+    Assim, diante da angularização da relação processual e da efetiva atuação profissional no patrocínio dos interesses da parte beneficiária da decisão impugnada, a sucumbência restou caracterizada, de forma que a parte sucumbente na reclamação deverá arcar com o pagamento dos respectivos honorários.
+    Desse modo, inexistem omissão, contradição, obscuridade a serem sanadas na decisão ora impugnada.
+    Ante o exposto, rejeito os embargos de declaração (art. 1024, §2º, do CPC).
+    Publique-se.
+    Brasília, 28 de junho de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
