@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1896, de 27 de junho de 2019
+Altera a Instrução Normativa RFB nº 1.037, de 4 de junho de 2010, que relaciona países ou dependências com tributação favorecida e regimes fiscais privilegiados.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto nos arts. 24 e 24-A da Lei nº 9.430, de 27 de dezembro de 1996, e no art. 4º da Lei nº 10.451, de 10 de maio de 2002, resolve:
