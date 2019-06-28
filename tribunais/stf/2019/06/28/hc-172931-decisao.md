@@ -1,0 +1,36 @@
+Decisão: Trata-se de habeas corpus com pedido liminar, impetrado por Ronaldo Aparecido Soares, em favor de Márcio Fernandes, contra decisão proferida pelo Ministro Rogério Schietti Cruz, do Superior Tribunal de Justiça (STJ), que indeferiu liminarmente o HC n. 512.650/SP.
+    Segundo os autos, o paciente foi preso preventivamente pela suposta prática dos delitos descritos nos artigos 157, § 2º, incisos I, II, IV e V, por três vezes, na forma do artigo 70, caput, parte final, ambos do Código Penal e 2º, § 2º, da Lei 12.850/13. A defesa solicitou a revogação da prisão preventiva, o pedido foi negado. (eDOC 2, p. 76-78)
+    A defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo renovando as alegações e o pedido. A ordem foi denegada. (eDOC 2, p. 84-92)
+    Na sequência, novo writ foi impetrado perante o Superior Tribunal de Justiça, o habeas corpus foi indeferido liminarmente pelo Ministro Rogério Schietti Cruz. (eDOC 2, p. 96)
+    Nesta Corte, o impetrante reitera as alegações e pedidos pretéritos. Reforça o argumento no sentido de o paciente sofrer constrangimento ilegal em razão de excesso de prazo para a formação da culpa e devido à medida cautelar imposta.
+    Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva. (eDOC 1)
+    É o relatório.
+    Passo a decidir.
+    No caso, destaco que a decisão impugnada do STJ é monocrática e não houve a interposição de agravo regimental contra o referido decisum.
+    No ponto, registro que, na Turma, tenho-me posicionado, juntamente com Sua Excelência o Ministro Celso de Mello, a favor da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou contrariamente ao conhecimento dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, sessão de 6.11.2013), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, insculpido no art. 102, inciso II, “a”, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012; e RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011.
+    Contudo, ressalte-se que, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação desse entendimento jurisprudencial pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder.
+    No entanto, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste HC.
+    Isso porque o Juízo de origem, ao manter a prisão preventiva, fundamentou adequadamente a decisão. Consignou:
+    “Decido.
+    Por primeiro ressalte-se que foi decretada prisão preventiva do réu MÁRCIO FERNANDES, a par das demais provas dos autos e no juízo de cognição sumário aqui permitido, haver indícios da prática delitiva.
+    Consta da denúncia que, em data incerta, porém anterior ao dia 08 de janeiro de 2018, também nesta cidade e Comarca, o réu Márcio Fernandes em companhia com os demais corréus, constituíram e integraram organização criminosa armada destinada à prática de roubos em propriedades rurais, com o intuito de subtrair, principalmente, máquinas agrícolas.
+    No que tange à participação de Márcio, a denúncia descreve que ele participava ativamente dos roubos perpetrados pela organização, já que a linha telefônica por ele utilizada foi detectada durante a quebra de sigilo das ERB´ s que atendiam as imediações do local.
+    Portanto, não há que se falar de inépcia da denúncia, uma vez que, conforme bem asseverou o representante do Ministério Público, ela descreve pormenorizadamente os fatos e a atuação de cada um dos réus na organização criminosa.
+    Ainda, no presente caso, eventual atividade licita e endereço fixo, ‘de per se’, não elidem os fundamentos da manutenção da custódia cautelar, uma vez que presentes indicativos razoáveis de autoria e da materialidade, bem como evidenciada a necessidade da prisão processual para a preservação da ordem pública.
+    (...)
+    Em suma, pelo apurado até aqui, necessária a prisão cautelar porque a conduta imputada ao acusado é calcada em elementos razoáveis de autoria e materialidade pelo até o momento apurado, bem como porque tem potencial ofensivo que gera sério risco à ordem pública local.
+    Por não ter havido nenhuma modificação nas circunstâncias fáticas ou jurídicas que ensejaram a manutenção da prisão preventiva, mantenho a decisão anteriormente proferida e INDEFIRO o pedido de revogação da prisão preventiva, mantendo-se a custódia de MÁRCIO FERNANDES.” (eDOC 2, p. 76-78)
+    Por sua vez, o Tribunal de Justiça do Estado de São Paulo denegou a ordem nos termos da seguinte ementa:
+    “’Habeas Corpus’. Roubos majorados e organização criminosa destinada a tal fim. Liberdade provisória indeferida de forma fundamentada. Requisitos da custódia cautelar já apreciados em impetração anterior. Questionamento que enseja incursão meritória incompatível com a estreita via cognitiva do habeas corpus. Alegação de excesso de prazo na formação da culpa. Processo em regular andamento. Princípios da razoabilidade e proporcionalidade. Inexistência de desídia do julgador singular, anotada, ainda, a especial complexidade da causa, com vários denunciados a justificar maior delonga na conclusão do feito. Constrangimento ilegal não verificado de plano. Ordem denegada liminarmente, dispensadas informações da autoridade apontada como coatora.”(eDOC 2, p. 84-92)
+    Presentes o fumus commissi delicti e o periculum libertatis, a prisão preventiva deve indicar, de forma expressa, os seguintes fundamentos para sua decretação, nos termos do artigo 312 do CPP: I) garantia da ordem pública; II) garantia da ordem econômica; III) garantia da aplicação da lei penal; e IV) conveniência da instrução criminal.
+    No caso em análise, o réu foi preso pela suposta prática de mais de um delito de roubo e é investigado junto de outros coautores. Por oportuno, destaco precedentes desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública considerada a gravidade concreta do crime. (HC 122.894/PR, de minha relatoria, Segunda Turma, DJe 1º.9.2014; HC-AgR 125.290/MG, rel. Min. Cármen Lúcia, Segunda Turma, DJe 19.12.2014; HC 119.715/TO, rel. Min. Teori Zavascki, Segunda Turma, DJe 29.5.2014; HC 127.488/SP, de minha relatoria, Segunda Turma, DJe 1º.7.2015; e HC 127.043/MG, de minha relatoria, Segunda Turma, DJe 7.5.2015).
+    Vê-se, neste juízo preliminar e superficial, que a decisão impugnada está fundamentada, de modo que não vislumbro manifesto constrangimento ilegal, a autorizar a supressão de instância.
+    Feitas essas considerações, ressalvo a minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer do presente habeas corpus.
+    Ante o exposto, nego seguimento ao presente habeas corpus, por ser manifestamente incabível (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 28 de junho de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
