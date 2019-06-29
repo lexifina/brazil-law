@@ -1,0 +1,28 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. PROCESSUAL CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA. AUXÍLIO-DOENÇA. TERÇO CONSTITUCIONAL DE FÉRIAS. SALÁRIO MATERNIDADE/PATERNIDADE. ADICIONAIS. HORAS-EXTRAS. AVISO PRÉVIO INDENIZADO. ABONO ASSIDUIDADE. FÉRIAS GOZADAS. AUXÍLIO-CRECHE. AUXÍLIO-EDUCAÇÃO. COMPENSAÇÃO.
+    1. A legislação trabalhista, ao utilizar os termos salário e remuneração, diferencia as verbas pagas diretamente pelo empregador daquelas que não são desembolsadas por ele, embora sejam resultado do trabalho realizado pelo empregado, no âmbito da relação contratual. Essa distinção tem o intuito de dar relevo ao caráter salarial das verbas remuneratórias, dessemelhando-as de outras figuras de natureza indenizatória, previdenciária ou tributária, ainda que nominadas como 'salário'.
+    2. O fato gerador referido no art. 195, inciso I, da CF/88, na sua redação original, envolve todas as verbas alcançadas pelo empregador, a título de remuneração, ao empregado que lhe presta serviços. Importa, para elucidar a inteligência desse dispositivo, verificar se os pagamentos feitos ao empregado têm natureza salarial, não a denominação da parcela integrante da remuneração.
+    3. A alteração introduzida pela Emenda Constitucional nº 20/98 no art. 195, I, da Carta, não acarretou alargamento da base de cálculo antes prevista, em relação aos empregados, visando somente a expressar de forma clara e explícita o conteúdo do conceito de folha de salários.
+    4. O pagamento recebido pelo empregado, nos quinze dias consecutivos ao afastamento da atividade, embora suportado pelo empregador, representa verba decorrente da inatividade, não se conformando à noção de salário. Não estando o empregado capacitado para trabalhar, por causa de doença, a prestação respectiva tem natureza previdenciária.
+    5. A exigência de contribuição previdenciária sobre as verbas pagas pelo empregador durante os quinze dias que antecedem a concessão do auxílio-doença não tem amparo no art. 22, inciso I, da Lei nº 8.212/91, por não consistir em remuneração pela prestação de serviços.
+    6. Sobre o adicional constitucional de férias não incide contribuição previdenciária.
+    7. Embora parte da doutrina e da jurisprudência discorde, o pagamento substitutivo do tempo que o empregado trabalharia se cumprisse o aviso prévio em serviço não se enquadra como salário, porque a dispensa de cumprimento do aviso objetiva disponibilizar mais tempo ao empregado para a procura de novo emprego, possuindo nítida feição indenizatória.
+    8. É clara a natureza indenizatória dos pagamentos feitos a título abono assiduidade convertido em pecúnia.
+    9. É clara a natureza salarial dos pagamentos feitos a título de horas extras, adicionais noturno, de insalubridade, periculosidade, haja vista o notório caráter de contraprestação.
+    10. A compensação somente poderá ser realizada após o trânsito em julgado.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 97, 103-A, 150, § 6º, 195, I, a, e 201, § 11, todos da CF. Sustenta, em síntese, que a contribuição previdenciária patronal deve incidir sobre as seguintes verbas: (i) o terço constitucional de férias; (ii) o aviso prévio indenizado; (iii) os quinze primeiros dias de afastamento do trabalhador por motivo de doença.
+    Inicialmente, foi determinada a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral relativamente ao Tema 20, nos termos do art. 13, V, c, do RISTF.
+    Em juízo de retratação, o relator entendeu que a decisão proferida pela Turma não contraria o entendimento desta Corte, motivo pelo qual os autos voltaram ao Supremo Tribunal Federal para julgamento do extraordinário.
+    Passo à análise do recurso.
+    Quanto ao aviso prévio indenizado, esta Corte já se manifestou sobre a ausência de repercussão geral, no ARE 745.901 RG, de relatoria do Min. Teori Zavascki (Tema 759).
+    Quanto à incidência de contribuição previdenciária sobre o terço constitucional de férias, cumpre registrar que o Plenário do Supremo Tribunal Federal, ao apreciar o RE 1.072.485 RG, de relatoria do Ministro Edson Fachin, reconheceu a repercussão geral da matéria em exame (Tema 985).
+    Quanto ao pagamento feito ao empregado nos primeiros quinze dias de afastamento, há entendimento do Plenário também pela ausência de repercussão geral, no RE 611505 RG, de relatoria do Min. Edson Fachin (Tema 482), em que foram opostos embargos de declaração com possíveis efeitos infringentes, pendentes de apreciação pela Corte.
+    Diante do exposto:
+    (i) quanto à incidência de contribuição previdenciária patronal sobre os valores pagos a título de aviso prévio indenizado, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso;
+    (ii) quanto à incidência de contribuição previdenciária patronal sobre o pagamento feito ao empregado nos primeiros quinze dias de auxílio-doença, base no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos à origem, para que seja aplica a sistemática da repercussão geral, após a finalização do julgamento dos referidos embargos de declaração;
+    (iii) quanto à incidência de contribuição previdenciária patronal sobre os valores pagos a título de terço constitucional de férias, com base no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos à origem, a fim de que seja aplicada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 29 de junho de 2019.
+Ministro Luís Roberto Barroso
+Relator
