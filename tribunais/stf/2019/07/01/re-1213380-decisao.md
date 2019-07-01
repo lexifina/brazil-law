@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GUARDA MUNICIPAL. APOSENTADORIA ESPECIAL. INAPLICABILIDADE. PRECEDENTES. RECURSO EXTRAORDINÁRIO PROVIDO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Guarda civil municipal. Limeira. Pedido de aposentadoria especial. Lei Municipal declarada inconstitucional. Aplicação das disposições do art. 57 da Lei n. 8213/91 e da Lei Complementar nº 51/85 – Admissibilidade. Analogia “legis” com a Lei n. 8213/91, que cuida do regime geral de previdência social. Precedentes do STF e TJSP. Recursos improvidos” (fl. 93, e-doc. 2).
+    2. O recorrente assevera contrariado o inc. II do § 4º do art. 40 da Constituição da República, sustenta a ilegitimidade da concessão da aposentadoria especial e requer seja julgado improcedente o pedido da recorrida.
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Este Supremo Tribunal assentou a ausência de direito do guarda municipal à aposentadoria especial. Assim, por exemplo:
+    "Agravo regimental em recurso extraordinário com agravo. 2. Direito administrativo. 3. Guarda municipal. Aposentadoria especial. 4. Periculosidade não inerente à atividade. 5. Inaplicabilidade da Súmula Vinculante 33. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental desprovido" (ARE n. 1.133.887-AgR-segundo, DJe 18.3.2019).
+    “Direito administrativo. Agravo interno em mandado de injunção. Guarda municipal. Alegada atividade de risco. Aposentadoria especial. 1. Diante do caráter aberto da expressão atividades de risco (art. 40, § 4º, II, da Constituição) e da relativa liberdade de conformação do legislador, somente há omissão inconstitucional quando a periculosidade seja inequivocamente inerente ao ofício. 2. A eventual exposição a situações de risco a que podem estar sujeitos os guardas municipais e, de resto, diversas outras categorias, não garante direito subjetivo constitucional à aposentadoria especial. 3. A percepção de gratificações ou adicionais de periculosidade, assim como o porte de arma de fogo, não são suficientes para reconhecer o direito à aposentadoria especial, em razão da autonomia entre o vínculo funcional e o previdenciário. 4. Agravo a que se nega provimento por manifesta improcedência, com aplicação de multa de 5% (cinco por cento) do valor corrigido da causa, ficando a interposição de qualquer recurso condicionada ao prévio depósito do referido valor, em caso de decisão unânime (CPC, art. 1.021, §§ 4º e 5º)” (MI n. 6.515-AgR, Relator o Ministro Roberto Barroso, Plenário, DJe 6.12.2018).
+    Confiram-se também os seguintes julgados: RE n. 1.181.209, Relator o Ministro Edson Fachin, decisão monocrática, DJe 7.3.2019; RE n. 1.188.645, Relator o Ministro Marco Aurélio, decisão monocrática, DJe 1º.3.2019; e ARE n. 1.133.920, Relator o Ministro Gilmar Mendes, decisão monocrática, DJe 27.2.2019.
+    O entendimento exposto no acórdão recorrido diverge da jurisprudência do Supremo Tribunal Federal.
+    4. Pelo exposto, dou provimento ao recurso extraordinário (al. b do inc. V do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), invertidos os ônus de sucumbência, com a ressalva de eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 1º de julho de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
