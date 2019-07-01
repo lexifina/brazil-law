@@ -1,0 +1,26 @@
+Decisão:
+Ementa: Penal e processual penal. Habeas corpus. Roubo. Dosimetria da pena. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Antonio Saldanha Palheiro, assim ementado:
+    “PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. REPRIMENDA BÁSICA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. AFIRMAÇÕES CONCRETAS RELATIVAS ÀS CIRCUNSTÂNCIAS DO CRIME E AOS ANTECEDENTES DO AGRAVANTE.
+    1. A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+    2. No caso, o acórdão recorrido se firmou em fundamentos suficientes e idôneos para exasperar a pena-base, valorando negativamente as circunstâncias do crime e os antecedentes do agravante.
+    3. Agravo regimental desprovido.”
+    2.  Extrai-se dos autos que o paciente foi condenado pela prática do crime previsto no art. 157, § 2º, II, c/c o art. 61, II, h, do Código Penal, à pena de 8 anos de reclusão, em regime inicial fechado.
+    3. Irresignada, a defesa apelou. O Tribunal de Justiça do Estado de Sergipe negou provimento ao recurso.
+    4. Na sequência, a defesa interpôs recurso especial, inadmitido na origem. Ato contínuo, interpôs agravo. O Relator do AResp 1.397.193, Ministro Antonio Saldanha Palheiro Laurita Vaz, conheceu do agravo para não conhecer do recurso especial. Contra essa decisão, foi interposto agravo regimental, não provido.
+    5. Neste habeas corpus, a parte impetrante sustenta que “as circunstâncias foram normais para os delitos em espécie, inerente ao tipo penal ora imputado, tendo em vista que o crime de roubo, conforme descrito no art. 157, realiza-se mediante grave ameaça ou violência à pessoa, ou reduzindo-se a sua possibilidade de resistência”; e que “A argumentação utilizada pelo magistrado de 1º grau, conforme transcrição não são aptas a demonstrar em que medida houve essa extrapolação e distanciação de uma conduta nos estritos limites definidos no tipo penal do art. 157 daquelas que ensejam uma reprimenda mais gravosa”.
+    6. A defesa requer a concessão da ordem “para que a pena do paciente seja redimensionada, vez que a exasperação da pena-base em razão da valoração negativa das circunstâncias sem fundamento idôneo configura à espécie inequívoco constrangimento ilegal”.
+    Decido.
+    7. O habeas corpus não deve ser concedido.
+    8. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Nesse sentido, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    9. Ademais, o STF tem entendimento no sentido de que a existência de circunstâncias judiciais desfavoráveis justifica a fixação da pena-base em patamar acima do mínimo legal (RHC 117.806, Redator p/o acórdão o Ministro Edson Fachin; HC 124.250, Rel. Min. Teori Zavascki; HC 122.344, Relª. Minª. Rosa Weber).
+    10. No caso de que se trata, não verifico ilegalidade flagrante ou abuso de poder que autorize, em sede de habeas corpus, o redimensionamento da pena aplicada pelas instâncias de origem. Transcrevo, nesse sentido, as seguintes passagens do acórdão estadual:
+    Foram consideradas duas circunstâncias judiciais desfavoráveis ao réu, quais sejam, antecedentes e circunstâncias. Ambas foram devidamente fundamentadas, posto que o réu possuía condenação criminal transitada em julgado em 21/06/2017 na ação penal 2016630001844, ao tempo da condenação nestes autos, não sendo, portanto, primário como afirma a defesa. Por seu turno, as circunstâncias consideraram a ação violenta do réu em desfavor da vítima, o que deve ser frisado conforme depoimento do idoso:
+    ‘que sobreviveu porque Deus é grande. Que a primeira lajota foi no queixo e não caiu, que recebeu outra na nuca e não caiu, como os dois viram que ele não caiu veio um e pegou na garganta da vítima e o outro pagou pelas pernas e o derrubaram. Que pisaram na boca e nos olhos.’
+    Assim, perfeitamente valoradas as referidas circunstâncias, merecendo a pena base justo distanciamento da pena mínima cominada.
+    É de se destacar que a análise das circunstâncias judiciais existentes no art. 59 do CP para a fixação da pena basilar é atividade vinculada à lei, dela não podendo se afastar o sentenciante, contudo, desde que estabeleça a reprimenda de forma proporcional e bem fundamentada não há necessidade de obediência a proporções estanques, sob pena de se ofender o princípio da individualização da pena”.
+    11. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 1º de julho de 2019.
+Ministro Luís Roberto Barroso
+                            Relator
