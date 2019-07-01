@@ -1,0 +1,38 @@
+Decisão: Trata-se de habeas corpus com pedido liminar, impetrado por Leonardo Fernandes Amancio, em favor de Cristiano Henrique da Cruz Oliveira, contra decisão proferida pelo Ministro Nefi Cordeiro, do Superior Tribunal de Justiça (STJ), que denegou a ordem do HC n. 493.826/SP.
+    Segundo os autos, o paciente foi condenado pela prática dos delitos descritos nos artigos 180 e 304, por duas vezes, e artigo 311, todos do Código Penal, à pena de 12 anos de reclusão, em regime fechado, e 60 dias-multa. (eDOC 2)
+    A defesa interpôs apelação perante o TJ/SP, o recurso foi inadmitido por intempestividade. Na sequência, foi impetrado habeas corpos com a alegação de nulidade da sentença por incompetência do Juízo, nulidade do laudo pericial e ocorrência de bis in idem. Postulou o reconhecimento da nulidade de todos os atos decisórios. A ordem foi denegada. (eDOC 6)
+    Perante o Superior Tribunal de Justiça foi impetrado novo writ com a reiteração das alegações e pedidos. O Ministro Nefi Cordeiro denegou a ordem. (eDOC 16)
+    Nesta Corte, o impetrante reitera as alegações e pedidos pretéritos. Reforça o argumento no sentido de o paciente sofrer constrangimento ilegal em da condenação imposta e seus temos.
+    Requer, liminarmente e no mérito, a concessão da ordem para reconhecer a nulidade da sentença. (eDOC 1)
+    É o relatório.
+    Passo a decidir.
+    No caso, destaco que a decisão impugnada do STJ é monocrática e não houve a interposição de agravo regimental contra o referido decisum.
+    No ponto, registro que, na Turma, tenho-me posicionado, juntamente com Sua Excelência o Ministro Celso de Mello, a favor da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou contrariamente ao conhecimento dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, sessão de 6.11.2013), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, insculpido no art. 102, inciso II, “a”, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012; e RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011.
+    Contudo, ressalte-se que, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação desse entendimento jurisprudencial pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder.
+    No entanto, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste HC.
+    Isso porque o Tribunal de origem, ao manter a sentença e denegar a ordem na parte conhecida do habeas corpus, fundamentou adequadamente a decisão. Consignou:
+    “A ordem deve ser conhecida em parte.
+    Consta dos autos que o Paciente foi condenado nas penas do artigo 180, ‘caput’, 304 e 311 por duas vezes, a cumprir doze (12) anos de reclusão, no regime fechado, porque adquiriu dois veículos automotores, sabendo tratar-se de produtos de crime, bem como ocultou ambos os veículos, em proveito próprio, além de ter feito uso de documentos públicos falsificados e ter adulterado as placas e o número do chassi dos automóveis.
+    O processo iniciou-se na Comarca de Américo Brasiliense, mas houve conflito de competência porque os veículos foram adquiridos na cidade de São José do Rio Preto e para lá os autos foram remetidos. O Juízo de São José do Rio Preto declinou a competência e remeteu de volta os autos para Américo Brasiliense, ‘ante a juntada de novas provas e por conveniência de eventual instrução criminal’.
+    Não há aqui que se falar em nulidade sob o argumento de incompetência do juízo prolator da sentença pela ocorrência do crime em outra comarca.
+    Vale ressaltar a bem lançada manifestação da lavra do Douto Procurador de Justiça José Manoel Mendes Castanho, no qual destaca que ‘a consumação do delito de receptação não se dá com a aquisição do produto do crime, mas com a prática de qualquer um dos núcleos do tipo penal, anotando-se que, como se trata de crime permanente, a consumação se protrai no tempo. E o impetrante se limitou a juntar os depoimentos dados em inquérito policial (fls. 38/43), não comprovando de plano que a competência seria do E. Juízo da Comarca de São José do Rio Preto, de sorte que não há se falar em constrangimento ilegal, até porque, o próprio impetrante junta r. decisão do E. Juízo da Comarca de São José do Rio Preto (fl. 46), determinando a devolução dos autos ao E. Juízo impetrado, eis que colhidas novas provas’.
+    E também pelo que se depreende, não houve comprovação de prejuízo suportado pelo Paciente, afinal, o réu se defende dos fatos a ele imputados e foi isso o que ocorreu, com garantia à ampla defesa e ao contraditório.
+    No que se refere ao laudo pericial, mais uma vez não se vislumbrou prejuízo ao Paciente que culminasse em nulidade do feito.
+    De fato, constou no laudo pericial que o veículo periciado seria um veículo Prisma, contudo, obviamente que se trata de um pequeno erro material. É possível, numa leitura atenta ao referido documento, perceber que se trata do veículo Fiat/Linea apreendido, vez que consta corretamente a placa do veiculo (ENM-1140) e a foto.
+    Por fim, observo que em relação ao pleito referente à condenação pelo uso de documento falso, a ordem não pode ser conhecida.
+    Isso porque a medida adotada não configura meio idôneo a apreciar a matéria cujo deslinde se pretende, já que afeta ao mérito da acusação.
+    O habeas corpus tem sido utilizado indiscriminadamente, olvidando se tratar de medida estreita que não se presta a substituir recurso próprio ou ação cabível, tampouco se confunde o writ com sucedâneo recursal, sob pena de desvirtuar sua razão de existência jurídico-constitucional.
+    In casu, seria cabível o recurso de apelação, ou, se transitado em julgado a condenação (como no presente caso), a revisão criminal, desde que presentes os requisitos legais, respectivamente, artigos 593 e 621 do CPP.
+    Diante do exposto, conheço apenas em parte a impetração e nesta denego a ordem”. (eDOC 6)
+    A análise em sede de habeas corpus possui uma cognição limitada ao Tribunal ad quem. Não se trata de vedar, abstratamente, qualquer reexame fático ou probatório. Contudo, a via estreita do habeas corpus permite um contato limitado com a situação fática do caso concreto. Essa ação constitucional tem como objetivo tutelar direitos fundamentais do imputado, que coloquem em risco a sua liberdade ainda que indiretamente. Para tanto, depende-se de impugnações específicas. Assim, não há como se realizar uma análise exauriente em extensão do processo, mas sim uma verificação de questões específicas.
+     No caso em análise, o réu foi condenado pela prática do crime de receptação, por duas vezes, além de ocultar os objetos do crime e falsificar documentos públicos. Ademais, dos elementos juntados aos autos, não verifico ilegalidade manifesta a justificar a concessão da ordem neste momento.
+    Vê-se, neste juízo preliminar e superficial, que a decisão impugnada está fundamentada, de modo que não vislumbro manifesto constrangimento ilegal, a autorizar a supressão de instância.
+    Feitas essas considerações, ressalvo a minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer deste habeas corpus.
+    Ante o exposto, nego seguimento ao presente habeas corpus, por ser manifestamente incabível (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 1º0 de julho de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
