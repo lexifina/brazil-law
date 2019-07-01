@@ -1,8 +1,0 @@
-Art. 4º Observado o disposto nos artigos anteriores, o Banco Central do Brasil deverá obedecer, no tocante às emissões de REAL, o seguinte:
-I - limite de crescimento para o trimestre outubro-dezembro/94 de 13,33% (treze vírgula trinta e três por cento), para as emissões de REAL sobre o saldo de 30 de setembro de 1994;
-II - limite de crescimento percentual nulo no quarto trimestre de 1994, para as emissões de REAL no conceito ampliado;
-III - nos trimestres seguintes, obedecido o objetivo de assegurar a estabilidade da moeda, a programação monetária de que trata o art. 6º desta Lei estimará os percentuais de alteração das emissões de REAL em ambos os conceitos mencionados acima.
-§ 1º Para os propósitos do contido no caput deste artigo, o Conselho Monetário Nacional, tendo presente o objetivo de assegurar a estabilidade da moeda, definirá os componentes do conceito ampliado de emissão, nele incluídas as emissões lastreadas de que trata o art. 3º desta Lei.
-§ 2º O Conselho Monetário Nacional, para atender a situações extraordinárias, poderá autorizar o Banco Central do Brasil a exceder em até 20% (vinte por cento) os valores resultantes dos percentuais previstos no caput deste artigo.
-§ 3º O Conselho Monetário Nacional, por intermédio do Ministro de Estado da Fazenda, submeterá ao Presidente da República os critérios referentes a alteração de que trata o § 2º deste artigo.
-§ 4º O Conselho Monetário Nacional, de acordo com diretrizes do Presidente da República, regulamentará o disposto neste artigo, inclusive no que diz respeito à apuração dos valores das emissões autorizadas e em circulação e à definição de emissões no conceito ampliado.
