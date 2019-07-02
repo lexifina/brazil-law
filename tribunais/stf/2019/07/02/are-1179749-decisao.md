@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 03, p. 397):
+    PRELIMINARES Indeferimento de oitiva de testemunhas defensivas - Cerceamento de defesa inexistente - Prejuízo, por outro lado, não demonstrado - Nulidade por falta de fundamentação no recebimento da denúncia - Descabimento - A decisão que recebe a denúncia é interlocutória simples, e, portanto, dispensa qualquer motivação - Nulidade da sentença porque não analisadas as teses da defesa - Simples leitura do decisum que põe por tem a arguição, não estando o Magistrado obrigado a rebatê-las individualmente - Preliminares afastadas.
+    ROUBO AGRAVADO TENTADO - Materialidade e autoria bem comprovadas - Simulação de portar arma que caracteriza a grave ameaça, elementar do roubo -Condenação mantida.
+    PENAS - Redução do acréscimo operado na primeira fase do cálculo, por revelar-se exagerado - Maior redução pelo conatus, diante do diminuto iter criminis percorrido pelos agentes, que não lograram a subtração.
+    Apelo parcialmente provido.
+    Os embargos de declaração foram rejeitados (eDOC 04, p. 434).
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXV, XXXIX, XLVI, LIV, LV e LVII, e 93, IX, ambos da Constituição Federal.
+    Sustenta-se a ocorrência de cerceamento de defesa decorrente do indeferimento de oitiva de testemunhas, bem como em razão da arbitrariedade do Magistrado sentenciante, que cobrou a devolução das cartas precatórias independentemente de cumprimento.
+    Alega-se violação ao princípio da motivação das decisões judiciais no recebimento da denúncia, bem como em razão da não apreciação, nem pela sentença condenatória, nem pelo acórdão recorrido, das teses defensivas.
+    Assevera-se que a persecução está lastreada apenas no depoimento da vítima, carecendo de provas tanto da existência do fato típico quanto de ter o réu concorrido para a suposta infração penal.
+    Pugna-se pela absolvição por atipicidade da conduta, ou pela desclassificação do crime para tentativa de furto, especialmente ante a ausência de violência física ou moral suficiente para “agredir e limitar o status libertatis do indivíduo”.
+    Aponta-se ofensa ao princípio da individualização da pena, ante as graves incongruências na dosimetria.
+    A Presidência da Seção de Direito Criminal do TJSP julgou prejudicado o recurso quanto à alega violação ao art. 93, IX, da CF, e o inadmitiu, sob os fundamentos de ausência de prequestionamento e ofensa meramente reflexa ao Texto Constitucional (eDOC 05, p. 608-610).
+    É o relatório. Decido.
+    Inicialmente, observo que as questões referentes à violação do art. 5º, XXXV, XXXIX, XLVI e LVII, da CF não foram objeto de debate nem no acórdão recorrido e nem nos embargos declaratórios. Falta-lhes, pois, o indispensável prequestionamento (Súmula 282 do STF).
+    Ressalto, ademais, que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que não há ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário.
+    Confira-se, a propósito, a ementa do ARE-RG 748.371, de relatoria do ministro Gilmar Mendes, DJe de 1º.08.2013:
+    Alegação de cerceamento do direito de defesa. tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+    Quanto à violação ao princípio da individualização da pena, esta Corte decidiu que não possui repercussão geral o tema acerca da valoração das circunstâncias judiciais previstas no art. 59 do Código Penal na fundamentação da fixação da pena-base pelo juízo sentenciante (AI 742.460, Rel. Min. Cezar Peluso, DJe 25.09.2009, Tema 182).
+    Por outro lado, as demais alegações, mormente quanto à tipicidade da conduta, à suficiência de provas e à suposta violação ao princípio da presunção da inocência, só poderiam ser analisadas, in casu, por meio da interpretação da legislação processual penal aplicada à espécie, bem como do reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF e por se tratar de ofensa meramente reflexa à CF.
+    Por fim, observo que inexiste a alegada ofensa ao art. 93, IX, da Constituição Federal. Com efeito, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses do recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 02 de julho de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
