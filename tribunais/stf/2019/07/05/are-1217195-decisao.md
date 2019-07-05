@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INTEMPESTIVIDADE. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Terceira Região:
+    “MANDADO DE SEGURANÇA. ITCMD. Multa de protocolização prevista no art. 21, I, da Lei nº 10.705/ 00. Aplicabilidade também aos inventários extrajudiciais. Competência do Estado para disciplinar o tributo, nos termos do art. 155, I, da CF/ 88. Precedente. Sentença mantida. Recurso conhecido e desprovido” (fl. 88, vol. 2).
+    Os embargos de declaração opostos foram rejeitados (fl. 99, vol. 2).
+    2. No recurso extraordinário, os agravantes alegam ter o Tribunal de origem contrariado o inc. II do art. 5º e o inc. I do art. 150 da Constituição da República.
+     Asseveram que “a Autoridade Coatora tem se valido de interpretação absolutamente ilegal e desprovida de qualquer sentido jurídico acerca do prazo previsto pelo artigo 21, inciso I da Lei Estadual nº 10.705/00, dando ao ato de transmissão da declaração do ITCMD nos casos de inventário extrajudicial o mesmo caráter do ato de ajuizamento da ação de arrolamento e inventário judicial” (fl. 8, vol. 3).
+    Salientam que “não existe fundamento constitucional e nem legal para autorizar a cobrança de “multa de protocolização” nos casos de inventário extrajudicial em que a declaração do ITCMD é confirmada após 60 dias da abertura da sucessão, tal como pretende a Recorrida” (fl. 12, vol. 3).
+    Requerem “o conhecimento e o provimento do presente recurso, reformando-se o v. acórdão proferido pelo E. Tribunal a quo, para o fim de conceder a segurança pleiteada e reconhecer a inconstitucionalidade e a ilegalidade do ato coator, condenando-se a Recorrida à abstenção da prática de qualquer ato tendente a exigir dos Recorrentes a chamada “multa de protocolização”, aplicada no percentual de 10% do valor do imposto devido sobre o inventário extrajudicial dos bens em questão, afastando-se a aplicação do artigo 21, inciso I da Lei Estadual nº 10.705/00” (fl. 13, vol. 3).
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência da Súmula n. 282 do Supremo Tribunal Federal (fl. 77, vol. 3).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O presente agravo é intempestivo.
+    A decisão de inadmissibilidade do recurso extraordinário foi publicada no Diário da Justiça eletrônico em 6.9.2017 (fl. 78, vol. 3). O prazo recursal começou a fluir em 7.9.2017 (quinta-feira) e terminou em 27.9.2017 (quarta-feira).
+    O agravo nos autos principais foi protocolizado em 29.9.2017 (fl. 80, vol. 3), quando exaurido o prazo previsto no § 5º do art. 1.003 do Código de Processo Civil.
+    Incabível é a análise dos argumentos delineados no recurso. Assim, por exemplo:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – INTEMPESTIVIDADE – INOBSERVÂNCIA DO PRAZO PARA INTERPOSIÇÃO DO RECURSO – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE CONDENAÇÃO EM VERBA HONORÁRIA NA ORIGEM – AGRAVO INTERNO IMPROVIDO” (ARE n. 1.054.424-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 28.5.2018).
+    “Agravo regimental no recurso extraordinário com agravo. Intempestividade do recurso extraordinário. Precedentes. 1. O agravante não observou o prazo de 15 (quinze) dias para a interposição do recurso extraordinário, segundo dispõe o art. 508 do Código de Processo Civil de 1973. 2. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento), em desfavor da parte recorrente, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE n. 1.087.977-AgR, Relator o Ministro Dias Toffoli, Plenário, DJe 20.11.2018).
+    “DIREITO PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTEMPESTIVIDADE. RECURSO EXTRAORDINÁRIO INTEMPESTIVO. 1. A jurisprudência do Supremo Tribunal Federal é no sentido de que ‘a tempestividade do recurso em virtude de feriado local ou de suspensão dos prazos processuais pelo Tribunal a quo que não sejam de conhecimento obrigatório da instância ad quem deve ser comprovada no momento de sua interposição’ (AI 681.384-ED, Relª. Minª. Ellen Gracie). 3. Agravo interno a que se nega provimento” (ARE n. 1.109.500-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 4.5.2018).
+    “EMBARGOS RECEBIDOS COMO AGRAVO REGIMENTAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE RAZÕES CAPAZES DE ALTERAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. INEXISTÊNCIA DE COMPROVAÇÃO DE FERIADO LOCAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE n. 693-531-AgR, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 19.3.2013).
+    Nada há a prover quanto às alegações do agravante.
+    5. Pelo exposto não conheço do recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de julho de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
