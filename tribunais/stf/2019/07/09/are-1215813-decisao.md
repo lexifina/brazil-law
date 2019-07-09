@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA: INVIABILIDADE. LIMITES DA COISA JULGADA. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Sexta Turma do Tribunal Superior do Trabalho decidiu:
+    “AGRAVO DE INSTRUMENTO. SINDICATO. SUBSTITUTO PROCESSUAL. EFEITO ERGA OMNES DO PRESENTE JULGADO. INDENIZAÇÃO COMPENSATÓRIA PREVISTA EM CLÁUSULA DO ACT 2010/2012. DESPROVIMENTO. Diante da incidência da Súmula 296 do TST e da ausência de violação dos dispositivos invocados, não há como admitir o recurso de revista. Agravo de instrumento desprovido” (fl. 1, e-doc. 32).
+    3. O recurso extraordinário foi inadmitido pela ausência de ofensa constitucional direta e pela aplicação da sistemática da repercussão geral (Tema 660) (e-doc. 47).
+    4. A agravante argumenta “a partir dos fundamentos/argumentos articulados no RE que confirmadas estão as violações aos artigos 5º, caput e XXXVI, e 8º, III, da CF. Foi fixado efeito erga omnes ao comando condenatório, isto é, extensão dos efeitos da coisa julgada a totalidade dos integrantes da categoria profissional” (fl. 3, e-doc. 49).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o caput e o inc. XXXVI do art. 5º e o inc. III do art. 8º da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste à agravante.
+    O agravo não pode ter seguimento, pois a agravante não infirmou os fundamentos da decisão agravada, os quais, por esse motivo, subsistem. Assim, por exemplo:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. 1. RECURSO INADMISSÍVEL. POSSIBILIDADE DE JULGAMENTO PELO RELATOR. ART. 557, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE DO AGRAVO INTERPOSTO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n. 837.124-AgR, de minha relatoria, Segunda Turma, DJe 18.9.2012).
+    “AGRAVO INTERNO. AGRAVO DO ART. 1.042 DO CÓDIGO DE PROCESSO CIVIL DE 2015. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS APTOS, POR SI SÓS, PARA SUSTENTAR A DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO NA ORIGEM. HIPÓTESE DE NÃO CONHECIMENTO. 1. Não pode ser conhecido o agravo do art. 1.042 do CPC/2015 quando não impugna especificamente a decisão que inadmitira o recurso extraordinário. 2. Agravo interno a que se nega provimento” (ARE n. 1.138.577-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 19.9.2018).
+    6. Na espécie, para reexaminar a conclusão acolhida pelo Tribunal de origem, seria necessária a análise da matéria fático-probatória e da legislação infraconstitucional aplicável ao processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Assim, por exemplo:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXECUÇÃO PROVISÓRIA DE SENTENÇA. JUIZADOS ESPECIAIS FEDERAIS. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. VIOLAÇÃO AO PRINCÍPIO DO DEVIDO PROCESSO LEGAL E AOS LIMITES DA COISA JULGADA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. AGRAVO INTERNO DESPROVIDO” (ARE n. 1.094.777-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe 15.3.2018).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO JUDICIAL. HONORÁRIOS ADVOCATÍCIOS. LIMITES OBJETIVOS DA COISA JULGADA: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 897.174-AgR, de minha relatoria, Segunda Turma, DJe 1º.2.2016).
+    Nada há a prover quanto às alegações da agravante.
+    7. Pelo exposto, nego provimento a este recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 9 de julho de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
