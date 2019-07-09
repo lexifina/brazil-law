@@ -1,0 +1,1 @@
+Art. 17-A. A quebra do sigilo previsto na Lei Complementar nº 105, de 10 de janeiro de 2001, sujeita os responsáveis às penalidades previstas no art. 10 da referida Lei, sem prejuízo do disposto na Lei nº 8.078, de 11 de setembro de 1990 (Código de Proteção e Defesa do Consumidor).
