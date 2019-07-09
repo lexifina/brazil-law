@@ -1,1 +1,1 @@
-Art. 16. O banco de dados, a fonte e o consulente são responsáveis objetiva e solidariamente pelos danos materiais e morais que causarem ao cadastrado.
+Art. 16. O banco de dados, a fonte e o consulente são responsáveis, objetiva e solidariamente, pelos danos materiais e morais que causarem ao cadastrado, nos termos da Lei nº 8.078, de 11 de setembro de 1990 (Código de Proteção e Defesa do Consumidor)
