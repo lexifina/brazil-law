@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação ajuizada pelo Município de Flores em face de decisão do Juiz de Direito da Vara Única da Comarca de Flores, a qual teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia das ADI nºs 4.357/DF e 4.425/DF.
+    Narra-se que o juízo reclamado determinou a expedição de requisição de pequeno valor no valor de “R$ 8.932,24 (oito mil, novecentos e trinta e dois reais e vinte e quatro reais), em total afronta a lei 957/2011 do município de Flores, esta editada em perfeita harmonia com o Art. 100, § 4º, da Constituição da República, na qual definiu o montante equivalente ao maior benefício pago pelo Regime Geral de Previdência Social como obrigação de pequeno valor”.
+    Requer-se que seja deferido pedido liminar para suspender os efeitos do ato reclamado, presente o periculum in mora em razão de o Município de Flores ter sido intimado, estando em curso o prazo de 60 (sessenta) dias para pagamento.
+    É o relatório. Decido.
+    Prefacialmente, consigno que a presente reclamação foi distribuída à relatoria da Ministra Rosa Weber, vindo-me conclusa na data de 9/7/2019, por força do disposto no art. 13, inciso VIII, do RISTF, in verbis:
+    “Art. 13. São atribuições do Presidente:
+    […]
+    VIII – decidir questões urgentes nos períodos de recesso ou de férias”.
+    O Município de Flores indica como ato reclamado (eDoc. 10) decisão datada de 22 de março de 2018, portanto proferida há mais de 1 (um) ano, não tendo comprovado a interposição de recurso contra essa decisão.
+    Em juízo de estrita delibação e sem prejuízo de melhor análise da causa pela eminente Relatora, entendo que a presente ação é utilizada pelo Município de Flores com o fito de se ter o mérito da demanda alisada por esta Suprema Corte, valendo-se da reclamatória como sucedâneo recursal, hipótese inadmitida por esta Suprema Corte. Nesse sentido:
+    “AGRAVO REGIMENTAL. RECLAMAÇÃO. ALEGADA AFRONTA À AUTORIDADE DO DECIDIDO NA ADI 453. TAXA DE FISCALIZAÇÃO DOS MERCADOS DE TÍTULOS E VALORES MOBILIÁRIOS. AUDITORIA DE SOCIEDADES DE CAPITAL FECHADO. AUSÊNCIA DE IDENTIDADE ENTRE O ATO RECLAMADO E O PARADIGMA INVOCADO. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. À míngua de identidade de objeto entre o paradigma invocado e o ato reclamado, não há como divisar a alegada afronta à autoridade de decisão desta Excelsa Corte. Não é possível conferir à reclamação a natureza de sucedâneo recursal ou de meio viabilizador do reexame do conteúdo do ato reclamado. Agravo regimental conhecido e não provido” (Rcl nº 6.140/RJ-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 14/4/2016).
+    “RECLAMAÇÃO – DECISÃO QUE NEGA TRÂNSITO AO RECURSO EXTRAORDINÁRIO PORQUE NÃO RECONHECIDA A EXISTÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL NELE SUSCITADA – ALEGADA USURPAÇÃO DA COMPETÊNCIA DESTA SUPREMA CORTE – INOCORRÊNCIA – INADMISSIBILIDADE DO USO DA VIA RECLAMATÓRIA COMO INSTRUMENTO DESTINADO A QUESTIONAR A APLICAÇÃO, PELO TRIBUNAL DE ORIGEM, DO SISTEMA DE REPERCUSSÃO GERAL – PRECEDENTES FIRMADOS PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL (RCL 7.547/SP, REL. MIN. ELLEN GRACIE – RCL 7.569/SP, REL. MIN. ELLEN GRACIE – AI 760.358-QO/SE, REL. MIN. GILMAR MENDES) – ALEGADO DESRESPEITO A DECISÃO PROFERIDA PELO SUPREMO TRIBUNAL FEDERAL EM PROCESSO DE ÍNDOLE SUBJETIVA, QUE VERSOU CASO CONCRETO NO QUAL A PARTE RECLAMANTE NÃO FIGUROU COMO SUJEITO PROCESSUAL – INADMISSIBILIDADE – INADEQUAÇÃO DO EMPREGO DO INSTRUMENTO RECLAMATÓRIO COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL – INCOGNOSCIBILIDADE DA RECLAMAÇÃO RECONHECIDA PELA DECISÃO AGRAVADA – LEGITIMIDADE – CONSEQUENTE EXTINÇÃO ANÔMALA DO PROCESSO – RECURSO DE AGRAVO IMPROVIDO” (Rcl nº 23.157/BA-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 7/4/2016).
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. A RECLAMAÇÃO NÃO É SUCEDÂNEO DE RECURSO PRÓPRIO. RECURSO IMPROVIDO. I - A reclamação constitucional não pode ser utilizada como sucedâneo de recurso próprio para conferir eficácia à jurisdição invocada nos autos da decisão de mérito. II - Não impugnação de todos os fundamentos da decisão agravada. Fundamentação recursal deficiente (Súmula 287). III - Reclamação improcedente. IV - Agravo regimental improvido” (Rcl nº 5.684/PE-AgR, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe de 15/8/2008).
+    Ante o exposto, indefiro o pedido liminar.
+    Solicitem-se informações a autoridade reclamada (CPC, art. 989, I).
+    Publique-se. Int..
+    Brasília, 9 de julho de 2019.
+Ministro Dias Toffoli
+Presidente
+(art. 13, VIII, do RISTF)
+Documento assinado digitalmente
