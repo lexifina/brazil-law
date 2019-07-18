@@ -1,0 +1,7 @@
+Solução de Consulta Cosit nº 98288, de 9 de julho de 2019
+Assunto: Classificação de Mercadorias
+Código NCM: 8525.80.29
+Mercadoria: Câmera digital com sensor CMOS (20 MP) integrada a um helicóptero de quatro rotores teleguiado, também chamado de "drone" ou "quadricóptero", com dimensões de 322 mm x 242 mm x 84 mm e peso de 907 g, utilizada para captar imagens aéreas e transmiti-las a dispositivo externo ou gravá-las em memória interna ou cartão de memória, apresentada como um sortido para venda a retalho numa única caixa de papelão com 1 aparelho de radiotelecomando, 1 bateria inteligente, 1 carregador de bateria, 3 pares de hélices de plástico, 1 cartão "microSD" de 16 GB, acessórios diversos e manual do produto. O equipamento possui receptor GPS/GLONASS, armazenamento interno de 8 GB, velocidade máxima de 72 km/h e autonomia de voo de 31 min. O aparelho de radiotelecomando opera nas frequências de 2,4 GHz e 5,8 GHz, com distância máxima de transmissão de 8 km, e possui suporte para dispositivo móvel do tipo smartphone, no qual o operador pode usar um aplicativo específico para controlar a câmera.
+Dispositivos Legais: RGI 1, RGI 3 b), RGI 6 e RGC 1 c/c RGI 3 c) da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.288-2019.pdf]
