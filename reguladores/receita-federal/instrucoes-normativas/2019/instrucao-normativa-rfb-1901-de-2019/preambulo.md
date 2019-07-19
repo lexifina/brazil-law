@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1901, de 17 de julho de 2019
+Dispõe sobre o regime especial de industrialização de bens destinados às atividades de exploração, de desenvolvimento e de produção de petróleo, de gás natural e de outros hidrocarbonetos fluidos (Repetro-Industrialização).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXV do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no § 1º do art. 9º da Lei nº 4.502, de 30 de novembro de 1964, no art. 22 da Lei nº 11.945, de 4 de junho de 2009, e no Decreto nº 9.537, de 24 de outubro de 2018, resolve:
