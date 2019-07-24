@@ -30,6 +30,8 @@ XIX - pagamento total ou parcial do preço de aquisição de imóveis da União 
 a) o mutuário deverá contar com o mínimo de três anos de trabalho sob o regime do FGTS, na mesma empresa ou em empresas diferentes;
 b) seja a operação financiável nas condições vigentes para o Sistema Financeiro da Habitação (SFH) ou ainda por intermédio de parcelamento efetuado pela Secretaria do Patrimônio da União (SPU), mediante a contratação da Caixa Econômica Federal como agente financeiro dos contratos de parcelamento;
 c) sejam observadas as demais regras e condições estabelecidas para uso do FGTS.
+XX - anualmente, no mês de aniversário do trabalhador, por meio da aplicação dos valores da tabela constante do Anexo, observado o disposto no art. 20-D; e
+XXI - a qualquer tempo, quando seu saldo for inferior a R$ 80,00 (oitenta reais) e não tiverem ocorrido depósitos ou saques por, no mínimo, um ano, exceto na hipótese prevista no inciso I do § 5º do art. 13.
 § 1º A regulamentação das situações previstas nos incisos I e II assegurar que a retirada a que faz jus o trabalhador corresponda aos depósitos efetuados na conta vinculada durante o período de vigência do último contrato de trabalho, acrescida de juros e atualização monetária, deduzidos os saques.
 § 2º O Conselho Curador disciplinará o disposto no inciso V, visando beneficiar os trabalhadores de baixa renda e preservar o equilíbrio financeiro do FGTS.
 § 3º O direito de adquirir moradia com recursos do FGTS, pelo trabalhador, só poderá ser exercido para um único imóvel.
@@ -56,3 +58,6 @@ I - elaboração e entrega de prospecto ao trabalhador; e
 II - declaração por escrito, individual e específica, pelo trabalhador de sua ciência quanto aos riscos do investimento que está realizando.
 § 21. As movimentações autorizadas nos incisos V e VI do caput serão estendidas aos contratos de participação de grupo de consórcio para aquisição de imóvel residencial, cujo bem já tenha sido adquirido pelo consorciado, na forma a ser regulamentada pelo Conselho Curador do FGTS.
 § 22. Na movimentação das contas vinculadas a contrato de trabalho extinto até 31 de dezembro de 2015, ficam isentas as exigências de que trata o inciso VIII do caput deste artigo, podendo o saque, nesta hipótese, ser efetuado segundo cronograma de atendimento estabelecido pelo agente operador do FGTS.
+§ 23. O trabalhador poderá sacar os valores decorrentes da situação de movimentação de que trata o inciso XX do caput até o último dia útil do segundo mês subsequente ao da aquisição do direito de saque.
+§ 24. O agente operador deverá oferecer, nos termos do regulamento a ser editado pelo Conselho Curador, em plataformas de interação com o titular da conta, opções para que este transfira os recursos de que trata o inciso XXI do caput para conta de sua titularidade em outra instituição financeira ou entidade autorizada a funcionar pelo Banco Central do Brasil.
+§ 25. As transferências de que trata o § 24 poderão acarretar cobrança de tarifa pela instituição financeira.
