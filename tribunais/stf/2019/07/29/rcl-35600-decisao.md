@@ -1,0 +1,33 @@
+DECISÃO
+    Trata-se de Reclamação, com pedido liminar, proposta contra ato do Juiz de Direito da Vara de Execuções Criminais da Comarca de Alfenas, do Tribunal de Justiça do Estado de Minas Gerais, visando à cassação do ato que afronta as decisões desta SUPREMA CORTE proferidas na Rcl 34.158/SP e no HC 118.553/MS.
+    Na inicial, a reclamante alega, em síntese, que cumpre pena pela prática de crimes de tráfico de drogas (art. 33, §4º, da Lei n. 11.343/06).
+    Sustenta a defesa que, na primeira condenação da reclamante, na Comarca de Poços de Caldas (processo-crime n. 0059285-09.2018.8.13.0016), foi reconhecida a figura do tráfico privilegiado, sendo afastada a sua hediondez.
+    Contudo, na segunda condenação, na Comarca de Alfenas (processo-crime n. 0013019-61.2018.8.13.0016 - transitada em julgado), não houve o afastamento da natureza hedionda do tráfico privilegiado, sendo a reclamante condenada à pena de 01 (um) ano, 01 (um) mês e 10 (dez) dias de reclusão.
+    Em razão disso, quanto à segunda condenação, requer a procedência da Reclamação para, em caráter liminar, suspender-se os efeitos da decisão atacada. No mérito, requer "a concessão da progressão de regime em 1/6, bem como o indulto de Natal.".
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o SUPREMO TRIBUNAL FEDERAL, dispõem o art. 102, I, "l", e o art. 103-A, caput e §3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    [...]
+    §3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I – preservar a competência do tribunal;
+    II – garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    Preliminarmente, ressalto que, na inicial, houve equívoco quanto à ordem das condenações. Como bem explicado na decisão da Juíza de Direito da 2ª Vara Criminal e de Execuções Penais da Comarca de Alfenas, na primeira condenação, no processo-crime n. 0013019-61.2018.8.13.0016 (transitada em julgado), em que a reclamante foi condenada, pela prática do crime de tráfico de drogas (art. 33, §4º, da Lei n. 11.343/06), à pena de 01 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, foi reconhecido o caráter hediondo do crime de tráfico privilegiado, tanto que foi fixado o regime fechado para o início de cumprimento da pena.
+    Ao passo que, na segunda condenação, no processo-crime n. 0056513-73.2018.8.13.0016, em que a reclamante foi condenada, pela prática do crime de tráfico de drogas (art. 33, §4º, da Lei n. 11.343/06), à pena de 05 (cinco) anos e 10 (dez) meses de reclusão, o crime de tráfico privilegiado foi considerado comum, tanto que foi fixado o regime semiaberto para o início de cumprimento da pena.
+    Na presente hipótese, a Reclamação deve ser indeferida.
+    Não pode ser objeto de exame comparativo, para fins de garantia da preservação da autoridade da decisão do STF, o que restou decidido na Rcl 34.158/SP e no HC 118.533/MS. Isso porque se cuida de processos subjetivos destituídos de caráter vinculante, sem que o reclamante tenha ocupado posição de sujeito processual naquelas ações. Nesse sentido, a PRIMEIRA TURMA desta CORTE reiterou o entendimento de que a Reclamação revela-se incabível quando invocado, como paradigma, julgamento do SUPREMO TRIBUNAL FEDERAL proferido em processo de índole subjetiva cuja relação processual o reclamante não integrou (Rcl 20.630-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 08/08/2017).
+    No caso em tela, a defesa requer o afastamento da natureza hedionda do tráfico privilegiado reconhecida na primeira condenação (processo-crime n. 0013019-61.2018.8.13.0016). Ocorre que esta Reclamação foi proposta em 22/06/2019, data em que já havia transitado em julgado o ato reclamado, pois, conforme atestado de pena, a 2ª Vara Criminal e de Execuções Penais da Comarca de Alfenas certificou o trânsito em julgado do feito em 29/05/2018.
+    Nos termos do art. 988, §5º, inciso I, do CPC, não cabe esse remédio constitucional para desconstituir decisões transitadas em julgado. Trata-se de assimilação, pelo novo código processual, de antigo entendimento do STF, enunciado na Súmula 734 (Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do SUPREMO TRIBUNAL FEDERAL).
+    Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a Reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR/SP, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013).
+    Assim, por serem estranhos às hipóteses de cabimento da Reclamação, os pedidos formulados pelo reclamante não poderão ser conhecidos na via reclamatória, consoante entendimento reiterado desta SUPREMA CORTE (Rcl 30.343/SP, Min. GILMAR MENDES, DJe de 14/06/2018; Rcl 28.178 AgR/RS, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 12/06/2018 e Rcl 29.956/PE, Rel. Min. ROSA WEBER, DJe de 30/05/2018).
+    Diante do exposto, com base no art. 21, §1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Publique-se. Intime-se.
+    Brasília, 29 de julho de 2019.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
