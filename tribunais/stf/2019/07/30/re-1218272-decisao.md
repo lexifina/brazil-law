@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. EXCESSO DE EXECUÇÃO. PLANO ECONÔMICO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Excesso de execução e inexigibilidade de título. Expurgo inflacionário. Plano Bresser. Determinação para prosseguir processo suspenso pelo comunicado 88/2010. Recurso improvido” (fl. 2, e-doc. 44).
+    2. O recorrente alega contrariados os incs. I e II do art. 3º, o inc. XXXVI do art. 5º, os incs. VII e XIX do art. 22 e os arts. 170, 174 e 179 da Constituição da República e sustenta a ilegitimidade passiva do recorrido, qual seja, a ação julgada improcedente pela ausência de direito adquirido.
+     Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste ao recorrente.
+    4. O tema constitucional tratado no recurso extraordinário não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco tendo sido opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie as Súmulas ns. 282 e 356 do Supremo Tribunal Federal. Confiram-se os seguintes julgados:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. 1. O Juízo de origem não analisou a questão constitucional veiculada, não tendo sido esgotados todos os mecanismos ordinários de discussão, INEXISTINDO, portanto, o NECESSÁRIO PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate e a decisão prévios sobre o tema jurígeno constitucional versado no recurso. Incidência das Súmulas 282 e 356 do Supremo Tribunal Federal. 2. Cabe a majoração de honorários advocatícios na forma do § 11 do art. 85 do Código de Processo Civil de 2015, pois a decisão agravada foi publicada a partir de 18/3/2016, e houve estipulação de honorários nas instâncias precedentes. 3. Agravo interno a que se nega provimento. Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (CPC/2015, art. 85, § 11)” (ARE n. 930.522-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 29.6.2017).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. CONTRARRAZÕES APRESENTADAS. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL O QUAL SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DO ART. 85, PARÁGRAFOS 2º, 3º E 11, DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 957.238-AgR, de minha relatoria, Segunda Turma, DJe 29.8.2016).
+    Nada há a prover quanto às alegações do recorrente.
+    5. Pelo exposto, nego provimento ao recurso extraordinário (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 30 de julho de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
