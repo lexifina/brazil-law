@@ -1,0 +1,39 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 1, Vol. 9):
+    “TRIBUTÁRIO. DEPÓSITO. MULTA. EXCLUSÃO. Correto, em parte, o entendimento firmado pela sentença. Quanto à multa, não é possível exigir multa antes do depósito e excluí-la após. Há, no ponto, autentica antinomia. Ou é devida, ou não. Com o depósito, fica a mesma excluída, posto que a exigibilidade passa a ser o momento em que a definição judicial se estabelece. Com o depósito, anterior a essa definição judicial, não mais há que se cogitar de multa pautada em situação anterior. Negado provimento ao recurso da União e dado parcial provimento à remessa e à apelação da parte autora, apenas para excluir a multa na sua totalidade.”
+    Opostos Embargos de Declaração, foram rejeitados (fl. 1, Vol. 10).
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente aponta violação aos arts. 5º, II; e 150, I, da CF/1988 (fl. 28, Vol. 10).
+    O Tribunal de origem negou seguimento ao Recurso Extraordinário ao fundamento de que é necessário exame de matéria infraconstitucional (fl. 17, Vol. 12).
+    No Agravo, a parte agravante alega que houve violação a dispositivos constitucionais (fl. 22, Vol. 12).
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    No tocante à afronta ao artigo 5º, II, da CF/1988, aplica-se neste caso a restrição da Súmula 636/STF: Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Efetivamente, foram os seguintes os fundamentos do acórdão recorrido para decidir a controvérsia (fl. 3-4, Vol. 9):
+    “(...) Ante os elementos dos autos, parece realmente ter existido distribuição disfarçada de lucros.
+    A mecânica deve ficar bem clara, a viabilizar compreensão do ocorrido.
+    A autora, Ceras Johnson Ltda., tinha como quotistas S.C. Johnsom e Son, Inc e Overseas Diversified Inc.
+    Em março de 1993 foi constituída outra empresa integrante do grupo, a S.C. Johnson Participações S/C Ltda., a qual, por sua vez, tinha como quotistas a S.C. Johnson e Son Inc. (sócio comum) e Johnson Sharholding Inc.
+    O ponto da discórdia reside na cessão de quotas sociais da autora, realizada pela Johnson e Son. Inc., para a recém criada S.C. Jonhson Participação , com remessa posterior, por parte desta última, ao exterior, em favor da Johnson e Son. Inc.
+    A sistemática da operação é descrita no laudo, às fls. 162/165.
+    Cabe destacar que a resposta à quesitação suplementar (fls.350 e 256) é insuficiente, na medida em que a ré aponta falha na mecânica descrita.
+    O expert descreve que a autora, em 29.10.93, pelo valor foi entregue a Racine Participações S/C Ltda. e Exportadora Johnson Ltda., mediante contrato de mútuo, as quais, por sua vez, repassaram o quantum a S.C. Johnson Participações S/C Ltda.
+    Finalmente, em 25.08.93, a empresa S.C. Johnson Participações providenciou a transferência para o exterior para o pagamento das cotas.
+    O assistente técnico da ré obtempera às 339 que a sistemática se mostra impossível, pois não seria viável que a Racine Participações S/C Ltda. e a Exportadora Johnson tivessem repassado os US$ 19.000.000,00 para S.C Johnson Participações S/C Ltda, em 29.10.93, quando se afirma que a remessa do pagamento feito por esta última à S.C, Johnson e Son Inc., ao exterior, foi em 25.8.93.
+    Como imaginar um pagamento antes de receber a quantia para tal finalidade?
+    A autora, data vênia, não esclarece isso nos autos.
+    Conclui, ainda, o assistente técnico:
+    "Portanto a remessa deu-se 65 (sessenta e cinco) dias antes do ingresso de US$ 19.000.000,00 o que fisicamente é impossível, e só confirma a redução do capital social de Ceras Johnson Ltda".
+    Inexiste inconstitucionalidade do art. 51 da 7450/85, na medida em que incorre presunção, mas apenas esclarecimento quanto a incidência da tributação nos casos mencionados, inclusive a viabilizar a aplicação do § 4° do art. 63, Decreto -Lei 1598/77, apesar da redação não ser das mais felizes.
+    As colocações realizadas pelo Dr. Ricardo Lodi Ribeiro, às fls. 44/53, 1° parte, são pertinentes quanto ao enquadramento da evasão fiscal.
+    Dessa foram, considerando a falha na mecânica do repasse do pagamento, destacadas acima, a parte autora, não fez prova do fato constitutivo do seu direito (CPC, art. 333, I).”
+    As razões recursais, todavia, não se ocuparam de afastar o argumento supracitado, limitando-se a alegar ofensa ao princípio da legalidade e da tipicidade em matéria tributária. Assim, considerando que as alegações sustentadas pelo recorrente estão dissociadas dos fundamentos do acórdão recorrido, incidem, no caso, os óbices previstos nas Súmulas 283/STF (É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles) e 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+    Mesmo que fosse possível superar todos esses graves óbices, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 31 de julho de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
