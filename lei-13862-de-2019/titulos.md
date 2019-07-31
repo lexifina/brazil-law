@@ -1,0 +1,1 @@
+Dispõe sobre a carteira de identidade funcional dos membros do Poder Legislativo da União, dos Estados, do Distrito Federal e dos Municípios.
