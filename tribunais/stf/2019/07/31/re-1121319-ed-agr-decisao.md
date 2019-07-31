@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo regimental interposto contra determinação de devolução dos autos ao juízo de origem para aplicação da sistemática da repercussão geral.
+    Nas razões recursais, alega-se que a questão em debate tem enquadramento em tema diverso do suscitado pelo Ministro Relator, qual seja, o Tema 20 da repercussão geral (eDoc 71).
+    Intimada, a parte agravada deixou de apresentar contrarrazões (eDOC 75).
+    É o relatório. Decido.
+    O presente recurso não merece ser conhecido.
+    Com efeito, constata-se que a negativa parcial de seguimento do extraordinário, com remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 1.036 do Código de Processo Civil, não detém conteúdo decisório.
+    É firme a orientação desta Corte no sentido de que não cabe recurso contra ato de mero expediente, como no caso em exame. A conclusão é reforçada pela ausência de vinculação absoluta do juízo de origem à aplicação do tema indicado. Nesse sentido, confiram-se os seguintes precedentes:
+    “DIREITO PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. DEVOLUÇÃO DOS AUTOS À ORIGEM. IRRECORRIBILIDADE. PRESENÇA DA PRELIMINAR FORMAL E FUNDAMENTADA DE REPERCUSSÃO GERAL DA MATÉRIA. 1. É irrecorrível a decisão que, com base no art. 328, parágrafo único, do RI/STF, determina a devolução dos autos ao Tribunal de origem para a observância do disposto no art. 543-B do Código de Processo Civil. Precedentes. 2. Ademais, constata-se a presença da preliminar formal e fundamentada de repercussão geral das questões constitucionais discutidas. 3. Embargos de declaração recebidos como agravo regimental a que se nega provimento.” (ARE 661945 ED, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 19/05/2015, PROCESSO ELETRÔNICO DJe-109 DIVULG 08-06-2015 PUBLIC 09-06-2015)
+    “Agravo regimental no agravo de instrumento. Decisão que dá provimento ao agravo para admitir o recurso extraordinário a que se refere, porque reconhecida a repercussão geral da matéria em discussão nos autos. Decisão irrecorrível. 1. O provimento do agravo de instrumento ocorreu porque a repercussão geral da matéria constitucional em discussão nos autos já foi reconhecida pelo Plenário Virtual desta Suprema Corte. 2. Decisão que, por óbvio, pressupõe a existência do efetivo prequestionamento do tema constitucional em debate nos autos. 3. Despacho, ademais, que se tem por irrecorrível, a não admitir a interposição de agravo regimental. 4. Agravo regimental não conhecido.” (AI 630996 AgR, Relator(a): Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 02/03/2011, DJe-098 DIVULG 24-05-2011 PUBLIC 25-05-2011 EMENT VOL-02529-02 PP-00497)
+    Ante o exposto, não conheço do agravo regimental, por ser manifestamente inadmissível.
+    Publique-se.
+    Brasília, 31 de julho de 2019.
+Ministro Edson Fachin
+Relator
