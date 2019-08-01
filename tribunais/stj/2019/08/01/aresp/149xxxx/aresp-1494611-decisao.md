@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 1.042 do CPC/2015) interposto contra decisão (e-STJ fls. 434/437) que inadmitiu o recurso especial em virtude de: (a) inexistência de violação do art. 489, § 1º, do CPC/2015 e (b) impossibilidade de análise de matéria fático-probatória (Súmula n. 7/STJ).
+O acórdão recorrido está assim ementado (e-STJ fl. 295):
+APELAÇÃO CÍVEL. ALTERAÇÃO DA CAUSA DE PEDIR. INOCORRÊNCIA. CERCEAMENTO DE DEFESA REJEITADO. INDENIZAÇÃO. DANOS MORAIS. COBRANÇA ABUSIVA DE PASSAGEM NO INTERIOR DE COLETIVO INTERMUNICIPAL. ILÍCITO CONFIGURADO. REPARAÇÃO DEVIDA. JUROS DE MORA. HONORÁRIOS DE SUCUMBÊNCIA. I - Não há que se falar em aditamento da causa de pedir, mas apenas em correção de erro material quanto à data da viagem, que já era conhecida pela ré, vez que expressa em documentos por ela emitidos e que foram juntados na peça de ingresso, o que, de conseqüência, também afasta a preliminar de cerceamento de defesa. II - Ao dever de reparar impõe-se configuração de ato ilícito, nexo causai e dano, nos termos dos arts.927,186 e 187 do CC/02. II - A conduta da ré de exigir o pagamento de passagem à pessoa portadora de deficiência, que fazia jus à gratuidade, sob ameaça de expulsão do coletivo, que já se encontrava na rodovia, em dia chuvoso, configura ato ilícito que enseja reparação moral, por caracterizar constrangimento público, atingir a honra e a reputação dos autores. III - A reparação moral deve ser fixada em valor suficiente e adequado para compensação dos prejuízos experimentados pelo ofendido e para desestimular-se a prática reiterada da conduta lesiva do ofensor. IV - Consoante entendimento do Superior Tribunal de Justiça, os juros de mora incidentes sobre a indenização decorrente de responsabilidade contratual, são contados desde a citação (art.240 CPC).
+Os embargos de declaração foram rejeitados (e-STJ fls. 366/370).
+Nas razões do recurso especial (e-STJ fls. 378/405), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(a) art. 489, § 1º, do CPC/2015, afirmando que não foram enfrentados todos os argumentos capazes de infirmar a conclusão do julgador,
+(b) art. 944 do CC/2002, sustentando a exorbitância dos danos morais fixados.
+No agravo (e-STJ fls. 446/469), afirma a presença de todos os requisitos de admissibilidade do especial.
+A parte recorrida apresentou contraminuta (e-STJ fls. 477/492).
+É o relatório.
+Decido.
+Na hipótese, como se verifica, o acórdão hostilizado não incorreu em nenhum dos vícios listados no art. 489 do CPC/2015, na medida em que dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+Ressalta-se não ser possível confundir julgamento desfavorável, como no caso, com ausência de fundamentação.
+A modificação do valor da indenização por danos morais é admitida, em recurso especial, conforme entendimento pacífico do STJ, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A Justiça local, diante das circunstâncias analisadas, manteve a indenização por danos morais no valor de R$ 9.370,00 (nove mil, trezentos e setenta reais), nos seguintes termos (e-STJ fl. 306):
+Como se sabe, a condenação ao pagamento de indenização por danos morais também deve atender ao seu caráter sancionador, visando prevenir a reincidência daquele que cometeu o ilícito, sendo de igual importância atentar para a finalidade de compensar o dano sofrido pela vítima, na proporção de sua extensão.
+Em atenção às especificidades do caso em comento, tenho que o valor de R$9.370,00 mostra-se compatível com a extensão dos danos causados, sem ensejar enriquecimento ilícito aos autores, além de cumprir o cunho sancionador à ré, não havendo que se falar em redução.
+Portanto, a quantia estabelecida pelas instâncias de origem não enseja a intervenção do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
