@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de instrumento interposto por [NOME] contra acórdão do Tribunal Regional Federal da 2ª Região, em desafio a julgado que, apreciando agravo regimental, manteve a inadmissão de recurso especial, o qual foi proferido nos seguintes termos (e-STJ fl. 378):
+AGRAVO REGIMENTAL. DECISÃO QUE NEGOU SEGMENTO AO REsp. DESNECESSIDADE DE TRÂNSITO EM JULGADO. ACÓRDÃO IMPUGNADO ENCONTRA-SE EM CONSONÂNCIA COM O ENTENDIMENTO DO EG. STJ.
+1- Trata-se de Agravo Regimental interposto por SEBASTIÃO MORAES, em face da decisão de que negou seguimento ao Recurso Especial interposto pelo ora recorrente, tendo em vista que o Superior Tribunal de Justiça, em julgamento de recurso repetitivo, REsp 1.309.529/PR, em 04/06/2013, assentou a mesma orientação, encampada no acórdão regional recorrido.
+Em suas razões recursais, sustenta, em suma, que o paradigma aplicado à controvérsia não transitou em julgado, estando suspenso, devendo o mesmo prosseguir sobrestado até o julgamento da repercussão geral do assunto.
+2- "2. Segundo o entendimento pacificado nesta Corte Superior, é desnecessário aguardar o trânsito em julgado do acórdão proferido no recurso repetitivo para que se possa aplicar aos demais recursos o entendimento firmado pela via do art. 543-C do CPC. (AgRg no REsp 1350940 / RS Relator(a) Ministro OG FERNANDES Órgão Julgador T2 - SEGUNDA TURMA)
+3- Neste diapasão, d.m.v., o debate quanto à aplicação do artigo 103 da Lei nº 8.213/91, aos benefícios anteriores à sua vigência e o trânsito em julgado, que se constitui no cerne do Recurso Especial e do Agravo Regimental, resta superado, encontrando-se o acórdão recorrido em consonância com o entendimento firmado pelo Excelso STJ, no paradigma supracitado e pela Jurisprudência, descabendo reabrir a discussão, cuidando-se, a meu juízo, de argumentação especiosa, que não tem o condão de alterar a substância daquele julgado.
+4- Agravo Regimental desprovido.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feitas essas considerações, observa-se que o presente agravo não merece prosperar.
+O art. 1.042 preceitua que "cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos" (Grifos acrescidos).
+No presente caso, o recurso especial foi inadmitido pelo Tribunal de origem, haja vista o posicionamento do Superior Tribunal de Justiça no REsp 1.309.529/PR, proferido em sede de recurso repetitivo, tendo a parte autora interposto agravo regimental da referida decisão, o qual foi desprovido.
+Assim, em razão do encerramento da prestação jurisdicional, não cabe o agravo de instrumento ou qualquer outro recurso contra acórdão que desproveu o agravo regimental interposto, por sua vez, contra decisão que não admitiu recurso especial nos termos do art. 543-C, § 7º, I, do Código de Processo Civil de 1973.
+Nesse sentido, o seguinte julgado:
+AGRAVO EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO CONTRA ACÓRDÃO QUE NEGOU PROVIMENTO A AGRAVO REGIMENTAL DESAFIANDO DECISÃO QUE NEGOU SEGUIMENTO A RECURSO EXTRAORDINÁRIO. RECURSO MANIFESTAMENTE INCABÍVEL. AGRAVO EM RECURSO EXTRAORDINÁRIO NÃO CONHECIDO.
+1. O agravo em recurso extraordinário é cabível somente contra decisão monocrática que inadmite o recurso extraordinário, conforme previsto nos artigos 1.030, § 1º e 1.042, ambos do Código de Processo Civil.
+2. É manifestamente incabível agravo em recurso extraordinário contra acórdão que negou provimento a agravo regimental desafiando decisão que negou seguimento a recurso extraordinário. Incidência do enunciado nº 322/STF.
+3. Tratando-se de recurso manifestamente incabível, que não suspende nem interrompe o prazo para a interposição de outro recurso, verifica-se a ocorrência do trânsito em julgado do acórdão de embargos de declaração oposto contra o acórdão que negou provimento ao agravo regimental.
+4. Agravo em recurso extraordinário não conhecido.
+(ARE nos EDcl no AgRg no RE no AgRg no AREsp 1.091.032/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 07/11/2018, DJe 20/11/2018).
+Ante o exposto, com base no art. 1.042 do CPC/2105, NÃO CONHEÇO do agravo de instrumento, por ser manifestamente incabível.
+Publique-se. Intimem-se.
