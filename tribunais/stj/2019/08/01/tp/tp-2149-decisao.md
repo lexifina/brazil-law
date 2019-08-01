@@ -1,0 +1,26 @@
+DECISÃO
+SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS, em sede de tutela provisória, busca obter efeito suspensivo a recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Pernambuco (TJPE), mas ainda não remetido ao Superior Tribunal de Justiça.
+Narra que "apesar do evidente cabimento do recurso especial, o eminente Vice-Presidente do e. Tribunal de Justiça de Pernambuco o inadmitiu. Sobre as violações de artigos de Leis Federais relacionadas à incompetência do Juízo Estadual - que é o tema que importa para esta petição - a Vice Presidência do TJPE concluiu que pela inadmissão do recurso especial, com fundamento no art. 1.030, I, "b", do CPC/15. Fundamentou, em síntese, que o entendimento esposado no v. acórdão recorrido estaria em consonância com o decido por essa e. Corte Superior, em sede de recurso repetitivo, quando do julgamento REsp 1.091.363/SC, e que tal julgado teria dado ensejo aos Temas nº s 50 e 51. Ao final, ressaltou que inexistiria qualquer indicação de que os temas teriam sido revogados, ou que a sua aplicação estaria suspensa em todo o território nacional" (fl. 6).
+Noticia a interposição concomitante contra a aludida decisão de "agravo interno - o qual ainda pende de julgamento pelo Tribunal local - e agravo em recurso especial, ainda não remetido a essa e. Corte Superior para julgamento. Cada um dos recursos, diga-se desde já, atacou diferentes partes da decisão" (fl. 8).
+Defende a existência de periculum in mora, uma vez que já se iniciou o cumprimento provisório da sentença "por meio do qual requereram a intimação da SUL AMÉRICA para pagamento da quantia de R$ 167.588,85 (cento e sessenta e sete mil, quinhentos e oitenta e oito reais e oitenta e cinco centavos)" (ibidem).
+Sustenta que "há um fato novo, de extrema relevância, e que impede a manutenção da execução provisória proposta pela requerida, qual seja: a repercussão geral reconhecida pelo Plenário do e. STF no recurso extraordinário 827.996/PR, no qual se discute, justamente, a competência para processar e julgar ações securitárias envolvendo apólices públicas do SFH" (fl. 9).
+Requer, desse modo, a atribuição de efeito suspensivo ao recurso especial.
+É o relatório. Decido
+O novo Código de Processo Civil contém comando normativo expresso quanto à competência para a apreciação de pedido de concessão de efeito suspensivo a recurso especial, in verbis:
+Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+I - a exposição do fato e do direito;
+II - a demonstração do cabimento do recurso interposto;
+III - as razões do pedido de reforma ou de invalidação da decisão recorrida.
+ ..
+§ 5o O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo; (Redação dada pela Lei nº 13.256, de 2016)
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037 (grifei)
+Como se vê, na hipótese, o órgão judicante competente para examinar e julgar pedido de efeito suspensivo ao agravo em recurso especial interposto pela ora requerente é o Tribunal de Justiça do Estado de Pernambuco. Isso porque, conforme é possível depreender-se dos autos, ainda não foi finalizado o juízo de admissibilidade.
+A propósito, a requerente, na petição inicial, noticiou que (fls. 6-8):
+ ..  apesar do evidente cabimento do recurso especial, o eminente Vice-Presidente do e. Tribunal de Justiça de Pernambuco o inadmitiu. Sobre as violações de artigos de Leis Federais relacionadas à incompetência do Juízo Estadual - que é o tema que importa para esta petição - a Vice Presidência do TJPE concluiu que pela inadmissão do recurso especial, com fundamento no art. 1.030, I, "b", do CPC/15. Fundamentou, em síntese, que o entendimento esposado no v. acórdão recorrido estaria em consonância com o decido por essa e. Corte Superior, em sede de recurso repetitivo, quando do julgamento REsp 1.091.363/SC, e que tal julgado teria dado ensejo aos Temas nº s 50 e 51. Ao final, ressaltou que inexistiria qualquer indicação de que os temas teriam sido revogados, ou que a sua aplicação estaria suspensa em todo o território nacional.
+ ..
+Contra esta decisão foram interpostos pela requerente, simultaneamente, agravo interno - o qual ainda pende de julgamento pelo Tribunal local - e agravo em recurso especial, ainda não remetido a essa e. Corte Superior para julgamento. Cada um dos recursos, diga-se desde já, atacou diferentes partes da decisão.(grifei)
+Sob essa perspectiva, enquanto não encerrado o juízo de admissibilidade do recurso especial, com o julgamento do agravo interno, fica evidenciada a incompetência desta Corte Superior para analisar o presente pedido de liminar.
+Ante o exposto, não conheço do pedido de tutela provisória.
+Publique-se. Intimem-se.
