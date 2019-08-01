@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL COM BASE EM ENTENDIMENTO FIXADO POR ESTA CORTE SOB O RITO DOS RECURSOS REPETITIVOS. INTERPOSIÇÃO DE AGRAVO. NÃO CABIMENTO (CPC/2015, ART. 1.042).
+AGRAVO NÃO CONHECIDO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por ISAIAS OLIVEIRA DA SILVA contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que negou seguimento ao recurso especial, fundamentado no artigo 105, inciso III, alínea "c", da Constituição Federal, tendo em vista o REsp 973.827/RS (Temas 246/STJ e 247/STJ).
+É o breve relatório.
+Passo a decidir.
+Inicialmente, cumpre ressaltar que o presente agravo foi interposto em face de decisão publicada na vigência do Código de Processo Civil de 2015 (e-STJ fl. 412), de maneira que é aplicável ao caso o Enunciado Administrativo nº 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nesse contexto, verifica-se que o agravo não pode ser conhecido quanto à negativa de seguimento do recurso especial na origem em razão da adequação do acórdão recorrido com o entendimento fixado por esta Corte Superior no REsp 973.827/RS (Temas 246/STJ e 247/STJ).
+Ocorre que há previsão expressa no art. 1.042 Código de Processo Civil de 2015 acerca do não cabimento de agravo em face de decisão que inadmite recurso especial nas hipóteses em que a controvérsia já houver sido solucionada pelo Tribunal de origem em consonância com orientação proferida em julgamento de recurso repetitivo.
+Portanto, caberia à parte interessada interpor agravo interno ou regimental na origem a fim de demonstrar a inaplicabilidade do leading case, considerando-se erro grosseiro a formulação do agravo na forma do art. 1.042 do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DECISÃO DO TRIBUNAL DE ORIGEM QUE NÃO ADMITE O APELO NOBRE COM FULCRO NO ART. 1.040, I, DO NCPC (ANTIGO ART. 543-C, § 7º, I, DO CPC/73). INTERPOSIÇÃO DE AGRAVO DO ART. 1.042, CAPUT, DO NCPC. ERRO GROSSEIRO. INOVAÇÃO RECURSAL. VEDAÇÃO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A interposição do agravo previsto pelo art. 1.042, caput, do NCPC, contra decisão proferida pelo Tribunal de origem que nega seguimento ao recurso especial com base no julgamento de recurso repetitivo, constitui erro grosseiro.
+3. À exceção do agravo interno, dirigido ao próprio Tribunal de origem, contra a decisão que não admite recurso especial com base no art. 1.040, I, do NCPC (antigo art. 543-C do CPC/73), não há previsão legal para interposição de outro recurso a fim de dirimir possível recurso, sobe pena de se tornar ineficaz os ditames da Lei nº 11.672/2008.
+4. É vedado o exame de inovação recursal no recurso especial.
+(AgInt no AREsp 1227908/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/09/2018, DJe 27/09/2018)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III). NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS. CAPITALIZAÇÃO MENSAL DE JUROS.  NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO. 4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.  ..
+4. Agravo parcialmente conhecido para, nessa extensão, negar provimento ao recurso especial, com majoração dos honorários advocatícios, na forma do art. 85, §§ 8º e 11, do CPC/2015.
+(AREsp 959.991/RS, TERCEIRA TURMA, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 26/08/2016, g.n.)
+Ademais, tendo em vista que as Súmulas 5/STJ e 7/STJ constituem apenas argumento de reforço, estando a decisão efetivamente calcada na conformidade da decisão recorrida com o entendimento deste Tribunal firmado em julgamento de recurso repetitivo, resta claro o descabimento do presente recurso, pois deveria ter sido interposto agravo interno.
+Nesse contexto, o não conhecimento do presente recurso é medida que se impõe.
+Ante o exposto, não conheço do agravo em recurso especial.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de MULTA por conduta processual indevida (art. 1.021, § 4º e art. 1.026, § 2º, do CPC/2015).
+Intimem-se.
