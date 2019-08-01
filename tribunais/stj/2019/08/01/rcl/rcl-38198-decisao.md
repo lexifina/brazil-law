@@ -1,0 +1,9 @@
+DECISÃO
+Esta reclamação foi proposta, de acordo com a inicial, porque o Tribunal de Justiça do Estado de São Paulo, através de seu Nobre Desembargador da 20ª Câmara de Direito Privado, [NOME], optou por negar à Reclamante os direitos protegidos por esta C. Corte, expressados no julgamento do recurso representativo (REsp. nº 1.061.530 RS), afrontando expressamente o princípio da hierarquia, desobedecendo os mandamentos estampados por este Superior Tribunal de Justiça (e-STJ, fl. 7, sem destaque no original).
+Em razão de (1) a decisão tida como descuprida não ter sido adotada em incidente de resolução de demandas repetitivas ou de incidente de assunção de competência; (2) esta Corte Superior não vir admitido reclamação para compelir os Tribunais de Apelação a aplicarem teses firmadas em recurso repetitivo (AgInt na Rcl 28.688, Ministro MARCO AURÉLIO BELLIZZE, DJe de 29/8/2016); e, (3) a reclamação ter tomado feições de "ação" após a entrada em vigor do NCPC, sendo admitida, inclusive, a possibilidade de condenação ao pagamento de honorários advocatícios caso haja manifestação da parte contrária nesse sentido (Rcl 34.937, Ministra MARIA ISABEL GALLOTTI, DJe de 13/11/2018), foi dada oportunidade à reclamante para se manifestar acerca do interesse na continuidade do feito (e-STJ, fl. 156).
+Na ocasião, houve ainda o registro de que o silêncio seria interpretado como desistência.
+Publicado o despacho de advertência aos 18/6/2019, a Coordenadoria de Processamento de Feitos de Direito Privado certificou que decorreu o prazo de fls. 156 sem manifestação (e-STJ, fl. 160).
+A parte permaneceu silente, portanto.
+Dessarte, a ausência de manifestação de LAIRCE APARECIDA deve ser interpretada como perda superveniente de seu interesse no processamento e julgamento da reclamação.
+Homologo, pois, a desistência do pedido.
+Publique-se.
