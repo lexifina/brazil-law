@@ -1,0 +1,53 @@
+DECISÃO
+[NOME] interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 5ª Região na Apelação Criminal n. 0000226-80.2013.4.05.8501.
+O recorrente foi condenado a 4 anos de reclusão mais 240 dias-multa, em regime inicial aberto, pela prática do delito, em continuidade delitiva, do art. 171, § 3º, do Código Penal. A reprimenda foi substituída por duas penas restritivas de direitos - prestação de serviços à comunidade e pecuniária. O Tribunal de origem negou provimento à apelação defensiva.
+A defesa alega violação dos arts. 59 e 171, § 3º, ambos do Código Penal. Aponta, em síntese, a atipicidade da conduta (absolvição) e a ilegalidade na dosimetria da pena (pena-base) e na prestação pecuniária (valor excessivo).
+Requer o provimento do especial, a fim de que o recorrente seja absolvido e, eventualmente, a fixação da pena-base no mínimo legal e a redução do valor da prestação pecuniária.
+Contrarrazões às fls. 443-452.
+O Ministério Público Federal, em parecer da Subprocuradora-Geral da República [NOME], manifestou-se pelo não provimento do recurso especial (fls. 464-469).
+Decido.
+I. Atipicidade
+A defesa pleiteia a absolvição do acusado por atipicidade da conduta. Aduz que "o fato praticado pelo recorrente é atípico por se tratar de um ilícito civil" (fl. 434). Acrescenta: "o mero descumprimento de contrato/convênio firmado não é hábil a caracterizar ilícito penal" (fl. 435).
+O acórdão recorrido dispôs (fls. 406-415):
+ ..
+Segundo o Ministério Público Federal, o denunciado foi responsável por ilícitos praticados durante a sua gestão à frente de uma entidade associativa, causando prejuízos à Companhia Nacional de Abastecimento - CONAB.
+É oportuno transcrever parte da exordial:
+(..)
+A denúncia registra que o réu [NOME], na qualidade de presidente da Associação Comunitária Remanescente de Quilombo Manoel Bernardes dos Santos obteve vantagem financeira indevida da CONAB.
+Valeu-se, para tanto, da utilização de atas de reunião da Associação ideologicamente falsas, especificamente as atas constantes às fls. 25 e verso do apenso I, 22 do apenso II e 60 do apenso III, assim como da apresentação de informação falsa à CONAB quanto ao fornecimento de produtos agrícolas à entidade consumidora e recebimento de valores devidos a suposto produtores, que sequer forneceram tais produtos.
+A CONAB pactou com a Associação Comunitária Remanescente de Quilombo Manoel Bernardes dos Santos três acordos de transferência de recursos para compra da agricultura familiar com doação simutânea (sic), objetivando incentivar a agricultura familiar e auxiliar famílias de baixa renda. Foram verificadas fraudes para a obtenção de vantagem indevida nas "Cédulas de Produtor Rural - CPR - Doação" de números 2008/02/0147, (fls. 135/137 do apenso I), 2008/02/0245 (fls. 102/104) e 2008/02/0270 (fls. 780/80 do apenso III), firmadas entre a CONAB e a associação referida em 13/08/2008, 04/12/2008 e 11/12/2008, respectivamente.
+Ocorre que, o denunciado, objetivando fazer a retirada da verba disponibilizada pela CONAB, fraudou tanto a fase de elaboração quanto a de execução de projetos, apresentando à entidade documentos falsos e declarações inverídicas de recebimento de produtos agrícolas dos fornecedores cadastrados no programa, sem que estes tivessem fornecido qualquer produto alimentício, recebido qualquer valor pela suposta venda, ou sequer participado de alguma reunião em que foram assinadas as atas de constituição dos projetos constantes à fl. 25 e verso do apenso I, fl. 22 do apenso II e fl. 60 do apenso III. (..)"
+ ..
+FUNDAMENTAÇÃO
+ ..
+O réu alega que no fato está ausente a conduta apta a caracterizar o tipo penal consistente em obter, para si ou para outrem, vantagem ilícita. Contudo, como demonstrado anteriormente, os valores repassados pela União, por meio da CONAB, foram ilicitamente desviados para outro fim que não o fomento da agricultura familiar, sendo destinado ao dono ou à dona do comércio, às pessoas listadas como fornecedores, mas que na verdade não eram, à compra de mel diretamente da associação que deveria apenas beneficiar o produto que seria fornecido pelo réu.
+Ou seja, mesmo que admitindo a hipótese de não ter o réu obtido para si a verba destinada ao programa, tais valores foram ilicitamente obtidos por outras pessoas, ainda que estas estivessem de boa-fé, mediante manutenção em erro da entidade de direito público que os repassou, adequando-se perfeitamente ao tipo penal do art. 171, § 3º.
+Como se pode observar, o Tribunal de origem não examinou a questão sob a ótica do alegado ilícito de natureza civil, conforme invocado pela defesa no especial. Apesar de a matéria constar das razões da apelação, não houve a oposição de embargos de declaração, a fim de provocar a manifestação daquela Corte quanto ao tema.
+Assim, fica inviabilizada a admissibilidade recursal pela ausência de prequestionamento, segundo o entendimento da Súmula n. 282 do STF, aplicada em analogia.
+Além disso, diante do explicitado no acórdão recorrido, fraude na prestação de contas mediante falsificação ideológica de atas de reunião da associação e prestação de informações falsas à CONAB, a constatação do alegado descumprimento contratual, ilícito de natureza cível, demandaria incursão vertical na prova dos autos, o que é vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+II. Pena-base
+A parte aponta ilegalidade na fixação da pena-base acima do mínimo legal. Aduz: "a análise dos requisitos foi feita com considerações vagas, genéricas, sem fundamentação objetiva, portanto inadequadas para justificar a exasperação da pena acima do mínimo legal" (fl. 437).
+O Tribunal de origem explicitou (fl. 421):
+ ..
+No quesito da dosimetria, insurge-se o réu não em relação à negativação das circunstâncias judiciais da culpabilidade e das circunstâncias do crime, mas sim quanto à fixação da pena-base em 02 (dois) anos e 06 (seis) meses de reclusão, sendo que a pena em abstrato para o tipo penal do art. 171 do CP é de 01 (um) a 05 (cinco) anos de reclusão.
+Também neste ponto, o apelo não pode ser provido.
+Na fixação da pena-base, o magistrado de primeiro grau considerou o contexto dos fatos, a indução a erro de diversas pessoas para que assinassem o documento como se fossem produtores/fornecedores dos alimentos, as falsas prestações de contas para que os valores repassados pela CONAB fossem liberados ao final do contrato, a utilização do nome de outra associações como se tivessem algum convênio com a que presidia e a tentativa de imputação das condutas delituosas ao técnico agrícola, ressaltou que as circunstâncias do crime e a culpabilidade são altamente desfavoráveis ao réu, que agiu com dolo intenso ao praticar o delito, devendo receber uma reprimenda maior. Tal contexto justifica a fixação da pena-base acima do mínimo legal.
+O acórdão consignou que a defesa não se insurgiu, naquela oportunidade, contra a análise desfavorável das vetoriais, mas sim contra o quantum de aumento.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto; deve, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+Apesar disso, a fundamentação utilizada é idônea e justifica a avaliação desfavorável das vetoriais culpabilidade e circunstâncias do crime. A quantidade de pessoas induzidas ao erro, a utilização indevida do nome de outra associação e o dolo intenso são elementos que autorizam a fixação da pena em 1 ano e 6 meses acima do mínimo legal. Esse quantum não é desproporcional, em face do intervalo de 1 a 5 anos de prisão previsto para o tipo penal.
+III. Prestação pecuniária
+O recorrente se insurge contra o valor da prestação pecuniária. Alega: " ..  desproporcional, na medida em que a quantia de 40 salários mínimos é por demais excessiva para uma pessoa que ganha pouco mais de R$ 900,00, mesmo havendo a possibilidade de parcelamento" (fl. 438).
+A Corte de origem estabeleceu (fl. 422):
+ ..
+Quanto à pena de multa substitutiva da privativa de liberdade, seu valor não foi arbitrado de forma exorbitante.
+A prestação pecuniária prevista entre as penas restritivas de direitos tem por finalidade reparar o dano causado pela infração penal, tendo natureza de uma verdadeira multa reparatória, tanto que seu valor é deduzido de eventual condenação em ação de reparação civil. Desta forma, há de se levar em conta, preponderantemente, o prejuízo causado aos cofres públicos.
+Considerando que a soma total dos valores repassados pela União correspondia à época, a mais de R$ 100.000,00 (cem mil reais), a fixação da multa substitutiva em 40 (quarenta) salários mínimos, dentre a possibilidade de fixá-la de 01 (um) a 360 (trezentos e sessenta) salários mínimos, se mostra razoável.
+Na eventualidade de ser posteriormente constatada a impossibilidade de pagamento da multa no prazo e termos do art. 164 e seguintes da Lei de Execuções Penais, poderá o réu requerer ao juízo competente que seu pagamento se dê em prestações mensais, na forma do art. 169 daquela Lei.
+A prestação pecuniária possui caráter sancionatório e visa atingir a finalidade reparadora. A sua fixação não está vinculada ao quantum de pena privativa de liberdade, apesar de ser observada a capacidade/razoabilidade de ser cumprida.
+ No caso, a prestação estipulada em 40 salários mínimos não é excessiva ou desproporcional, ante o intervalo legal de 1 a 360. Vale ressaltar o valor do prejuízo causado à época de R$ 100.000,00.
+O exame da suficiência financeira do acusado (capacidade de adimplemento da sanção pecuniária) demandaria incursão no acervo fático-probatório dos autos, o que é vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+IV. Dispositivo
+À vista do exposto, conheço em parte do recurso especial e, nesta extensão, nego-lhe provimento.
+Publique-se e intimem-se.
