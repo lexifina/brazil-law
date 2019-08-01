@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Estado do Ceará contra acórdão proferido pelo respectivo Tribunal de Justiça assim ementado (e-STJ, fl. 140):
+CONSTITUCIONAL. ADMINISTRATIVO. APELAÇÃO. CONCURSO PÚBLICO PM/CE. ALTURA MÍNIMA EXIGIDA NO EDITAL. PRELIMINAR PARA EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO DEVIDO AO ENCERRAMENTO E HOMOLOGAÇÃO DO CONCURSO. NÃO ENSEJA A PERDA DO OBJETO DA AÇÃO. PRECEDENTES DO STJ. PRELIMINAR REJEITADA. EXIGÊNCIA EDITALÍCIA, SEM A EXISTÊNCIA DE PREVISÃO LEGAL. FALTA DE PREVISÃO NA LEI ESPECÍFICA INVIABILIZA A EXIGÊNCIA DE ALTURA MÍNIMA. PRECEDENTES STF e STJ. Apelação conhecida e provida.
+1. O cerne da questão controvertida em apreço consiste em analisar a possibilidade de estabelecer limite mínimo de altura como requisito para a aprovação em concurso da Polícia Militar do Ceará.
+2. O Estado do Ceará apresenta uma questão preliminar tratando da possibilidade de extinção do mérito em razão da impossibilidade material de atendimento do pleito, pois o concurso em discussão já encontra-se concluído. Tal argumentação não encontra ressonância na jurisprudência dos Tribunais Superiores, uma vez que o Superior Tribunal de Justiça já pacificou o entendimento segundo o qual o término do prazo de validade do concurso não implica, por si só, em perda do objeto, carência de ação ou inexistência de pressuposto processual. Preliminar rejeitada.
+3. No caso em discussão o magistrado a quo julgou improcedente a ação sob o argumento de que admitir a procedência do pedido seria uma afronta aos demais candidatos que obtiveram êxito, submetidos às mesmas regras c condições contidas no edital.
+4. Na Apelação, os recorrentes, ao argumento de que a exigência editalícia é despropositada e discriminatória, sendo a exigência de altura mínima igual ou superior a 1.62m um claro abuso de autoridade, uma vez que não haveria necessidade para tal.
+5. O STF e o STJ já se posicionaram acerca da constitucionalidade a exigência de altura mínima para o ingresso em carreiras militares, desde que haja previsão legal específica.
+6. Deste modo, tendo sido comprovado que a lei específica à época do edital não previa limite mínimo de altura para a função, não se mostra razoável desclassificar os apelantes do certame.
+7. Recurso conhecido e provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 165-171).
+O recorrente alega a existência de violação do art. 485, VI, do CPC.
+Afirma que não há interesse processual dos recorridos, uma vez que não obtiveram êxito no pedido liminar para participar das demais etapas do concurso, ademais, o certame já findou há mais de 15 anos.
+É o relatório.
+O tema controvertido nos presente autos teve repercussão geral reconhecida, pelo Supremo Tribunal Federal, no âmbito do RE 766.304/RS (Tema 0683), conforme se pode verificar da decisão que possui a seguinte ementa:
+CONCURSO PÚBLICO - PRAZO DE VALIDADE - AÇÃO AJUIZADA APÓS O ESGOTAMENTO - ADMISSIBILIDADE NA ORIGEM - RECURSO EXTRAORDINÁRIO - REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia acerca da possibilidade de, esgotado o prazo de validade do concurso público, propor-se ação objetivando o reconhecimento do direito à nomeação.
+Decisão: O Tribunal, por maioria, reputou constitucional a questão, vencidos os Ministros Ricardo Lewandowski, Joaquim Barbosa, Gilmar Mendes, Rosa Weber, Roberto Barroso, Teori Zavascki e Cármen Lúcia. Não se manifestou o Ministro Luiz Fux. O Tribunal, por maioria, reconheceu a existência de repercussão geral da questão constitucional suscitada, vencidos os Ministros Ricardo Lewandowski, Joaquim Barbosa, Gilmar Mendes, Rosa Weber, Roberto Barroso, Teori Zavascki e Cármen Lúcia. Não se manifestou o Ministro Luiz Fux.
+Ante o exposto, nos termos do art. 1.030, III, do CPC/2015, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que o recurso especial fique sobrestado até o julgamento definitivo do Tema 0683 pelo Supremo Tribunal Federal e, após, seja submetido a julgamento na forma do art. 1.040 do CPC/2015.
+Publique-se. Intimem-se.
