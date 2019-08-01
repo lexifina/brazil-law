@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. INTERESSE DE AGIR. ALTERAÇÃO DA PREMISSAS DO ACÓRDÃO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DESTA CORTE. ÔNUS DA PROVA. INVERSÃO. REEXAME. SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por JOSE FERNANDO CEDENO DE BARROS em face da decisão que negou seguimento a recurso especial, fundamentado na alínea "a" do art. 105, III, da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 127):
+OBRIGAÇÃO DE FAZER. Retificação de declaração de óbito por médico responsável pelo tratamento da genitora do autor. Requerente que solicitou julgamento antecipado do feito e não comprovou a existência de pedido para expedição de certidão de óbito, muito menos relação entre a alegada recusa da expedição de certidão pelo cartório com o eventual preenchimento incorreto da declaração de óbito. Sentença de improcedência mantida. Recurso não provido.
+Nas razões do recurso especial, a recorrente alega violação dos arts. 17 e 19 do Código de Processo Civil. Sustenta, em síntese, interesse de agir, pois o processo de inventário encontra-se paralisado, uma vez que não foram feitas as retificações nas informações na declaração de óbito de sua falecida mãe. (e-STJ, fl. 134). Defende ser "incontroverso o interesse de agir, na medida em que há evidente divergência entre as informações contidas na declaração de óbito e no laudo médico-legal, no que diz respeito a principal causa da morte da mãe do Recorrente, além de evidentes erros no preenchimento do formulário oficial de óbito pelo Recorrido, que se encontra em desarmonia com as determinações exigidas pelo Ministério da Saúde e pelo Conselho Federal de Medicina." (e-STJ, fl. 137)
+Sustenta que deveria "o magistrado ter seguido as normas de inversão do ônus da prova, ou ainda, a oportunidade ao Recorrente de se desincumbir do ônus que lhe fora atribuído, conforme preceitos contidos nos parágrafos do art. 373, do Código de Processo Civil, uma vez que "o Cartório competente pela expedição da certidão de óbito não forneceu e não fornece qualquer tipo de documento que aponte o motivo da não expedição da certidão pretendida, logo, o Recorrente está diante de uma prova negativa, pois é impossível fazer qualquer tipo de prova nesse sentido haja vista que o procedimento do cartório era o de não emitir tal negativa." (e-STJ, fls. 139/140)
+Reitera que "está devidamente comprovada a divergência e o desacerto contido na Declaração de Óbito preenchida pelo médico Recorrido, a qual merece ser retificada, visto que essa incoerência está impedindo a obtenção da certidão de óbito pelo Recorrente." (e-STJ, fl. 146)
+Contrarrazões apresentadas. (e-STJ, fls. 152/161)
+É o relatório.
+Passo a decidir.
+Primeiramente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que diz respeito à alegação de interesse de agir, o Tribunal de origem, com base no acervo fático-probatório, concluiu: (e-STJ, fls. 129):
+Primeiramente, de rigor notar que o requerente sequer juntou o protocolo que comprova sua entrada no pedido para obtenção da referida certidão de óbito, este que evidentemente constataria os motivos pelos quais a expedição teria sido recusada pelo oficial do cartório.
+Desse modo, para se elidir as conclusões do aresto impugnado, e, assim, concluir pela existência de interesse de agir, como argumentado nas razões do recurso especial, seria necessário o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO/CONTRADIÇÃO. CARACTERIZAÇÃO. AUSÊNCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO. ALEGAÇÃO DE GREVE BANCÁRIA. COMPROVAÇÃO. POSSIBILIDADE DE EFEITOS INFRINGENTES COMO CONSEQUÊNCIA DO SUPRIMENTO DA OMISSÃO. EMBARGOS ACOLHIDOS E AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Nas hipóteses em que o acórdão que julga o agravo regimental se omite sobre questão relevante para o conhecimento do recurso, merecem ser acolhidos os embargos de declaração opostos com esse propósito.
+2. Não especificado em que teria consistido a violação do art. 535 do Código de Processo Civil pelo Tribunal a quo, é caso de incidência do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+3. A convicção a que chegou o acórdão, quanto ao interesse de agir do autor e o dever da prestação de contas por parte do réu, decorreu da análise do quadro fático-probatório. Assim sendo, o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz da Súmula 7 deste Tribunal.
+4. Embargos de declaração acolhidos, para, suprindo a omissão/contradição apontada, conhecer do agravo em recurso especial, negando-lhe provimento.
+(EDcl no AgRg no AREsp 621.791/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/03/2016, DJe 01/04/2016; grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. COMPROMISSO DE COMPRA E VENDA. RESCISÃO CONTRATUAL FUNDADA EM INADIMPLEMENTO. INÉPCIA DA INICIAL. SÚMULA Nº 7 DO STJ. ILEGITIMIDADE DA PARTE. SÚMULAS 5 E 7 DO STJ. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. NÃO OCORRÊNCIA. INTERESSE DE AGIR. SÚMULA Nº 7 DO STJ. TEORIA DA ASSERÇÃO. SÚMULAS 282 E 356 DO STF. PRESCRIÇÃO. NÃO INCIDÊNCIA. AUSÊNCIA DE INADIMPLEMENTO. SÚMULAS 5 E 7 DO STJ.
+(..)
+4. O acórdão estadual afastou o argumento de falta de interesse de agir, sob o fundamento de que estava presente o binômio necessidade-adequação, de modo que reconhecer a referida ausência demandaria a incursão no contexto fático-probatório, prática vedada pela Súmula nº 7 do STJ.
+5. A tese consistente na aplicação da teoria da asserção não foi objeto de apreciação pela Corte de origem, tornando-se inviável o debate hodierno, com o fim de evitar-se a supressão de instâncias.
+Incidência das Súmulas 282 e 356 do STF.
+6. O compromisso de compra e venda, no caso concreto, formalizou-se na vigência do Código Civil de 1916. Todavia, mesmo com a aplicação do Código Civil vigente, não há que se falar em prescrição, notadamente porque, ao aplicar-se a regra de transição prevista no art. 2.028, observa-se o transcurso de menos da metade do prazo estabelecido na lei revogada. Assim, mesmo com a aplicação do prazo prescricional decenal, não é possível defender a ocorrência da prescrição, visto que a própria Corte de origem assentou que o inadimplemento das prestações data de abril de 2001, tendo a ação sido proposta em agosto de 2009.
+7. A Corte de origem ressaltou, com fulcro na interpretação das cláusulas contratuais e no revolvimento do acervo fático-probatório constante nos autos, que o inadimplemento restou incontrastável, situação que não pode ser alterada, em virtude da incidência das Súmulas 5 e 7 do STJ.
+8. Agravo interno não provido.
+(AgInt no AREsp 912.820/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/09/2018, DJe 26/09/2018; grifou-se)
+Quanto à alegação de inversão do ônus da prova o Tribunal de origem concluiu que o recorrente não se desincumbiu do ônus de provar o fato constitutivo de seu direito, in verbis (e-STJ, fls. 129/130):
+Tendo ambas as partes requerido o julgamento antecipado do feito (fls. 88/89 e fl. 90), resta ainda controvertido se realmente houve o pedido para a expedição da certidão de óbito, bem como quais foram os motivos pelos quais a expedição da certidão teria sido eventualmente negada, ônus que incumbia ao requerente por se tratar de fato constitutivo de seu direito.
+Não havendo provas da recusa para expedição da certidão de óbito, muito menos se esta teria relação com eventual preenchimento incorreto da declaração de óbito, de rigor a improcedência da ação.|
+Assim, alterar a conclusão adotada no acórdão recorrido demandaria o necessário reexame fático-probatório dos elementos constantes dos autos, o que é vedado em sede de recurso especial ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 535 DO CPC DE 1973 NÃO OBSERVADA. AÇÃO INDENIZATÓRIA. INVERSÃO DO ÔNUS DA PROVA. PRINCÍPIO DA PERSUASÃO RACIONAL OU LIVRE CONVENCIMENTO MOTIVADO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. (..).
+2. A revisão do entendimento delineado pelo Tribunal a quo, no tocante à inversão do ônus da prova, demandaria a incursão no acervo fático-probatório dos autos, o que é vedado ante a Súmula 7 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 780.589/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 14/04/2016, grifei).
+Destarte, inviável a pretensão da recorrente.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por conseguinte, considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, majoro os honorários de sucumbência para R$ 3.800,00 (três mil e oitocentos reais), a serem suportados exclusivamente pela parte recorrente.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+ Intimem-se.
