@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à procedência do pedido de complementação de proventos de aposentadoria, considerados os anuênios referentes ao período trabalhado na qualidade de ferroviário. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 2º, 5º, inciso II, e 37, cabeça e incisos XVI e XVII, da Constituição Federal. Afirma inviável a incorporação de anuênios após a aposentadoria, ante a ausência de previsão legal.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Com efeito, inexiste nas Leis nº 8.186/91 e nº 10.748/2002, qualquer disposição de que a data a ser observada para fins de se apurar o percentual do adicional de tempo de serviço, para fins de complementação da aposentadoria, seja a data da concessão do benefício previdenciário. Caso o empregado permaneça trabalhando após a inativação pelo RGPS, não há óbice para o cômputo do tempo de serviço até a data do requerimento de complementação.
+    Assim, no ponto, deve ser mantida a sentença que determinou que sejam retificados os assentamentos deste junto ao Departamento de Administração de Pessoal de Órgãos Extintos (ligado ao Ministério do Planejamento, Orçamento e Gestão), onde se afere o direito a diferenças a título de complementação de aposentadoria, para constar o percentual de 19% (dezenove por cento) a título de adicional por tempo de serviço, o que deverá ser cumprido pela União, como já determinado na sentença e em face da ilegitimidade passiva do INSS, ora reconhecida.
+    Destaque-se, por fim, que a hipótese não comporta a incidência da Súmula nº 339 do Supremo Tribunal Federal, pois a parte autora não pretende, propriamente, a concessão de provimento jurisdicional que produza aumento de vencimentos, mas sim a aplicação de interpretação diversa daquela utilizada pela Administração, quanto ao percentual a título de adicional por tempo de serviço a compor a complementação de proventos.
+    Sendo assim, não há que se falar em concessão de aumento real de vencimentos a servidores públicos, por meio de ato jurisdicional, inexistindo afronta ao princípio da independência dos Poderes da União, consagrada no artigo 2º, bem como ao art. 169, § 1º, ambos da CF/88.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 1º de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
