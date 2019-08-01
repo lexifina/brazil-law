@@ -1,0 +1,43 @@
+EMENTA
+RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE TUTELA ANTECIPADA E DEVOLUÇÃO DE QUANTIAS PAGAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO E QUE TENHA SIDO OBJETO DA DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+JEFERSON OLIVEIRA [NOME] (JEFERSON) e [NOME] ([NOME]) ajuizaram ação de rescisão contratual c/c pedido de tutela antecipada e devolução de quantias pagas contra MENEZES [NOME] EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (MENEZES [NOME]), que foi julgada parcialmente procedente.
+Os embargos de declaração interpostos foram rejeitados. (e-STJ fls. 166)
+A apelação interposta por MENEZES [NOME] foi provida em parte pelo Tribunal de origem, nos termos da seguinte ementa:
+COMPROMISSO DE VENDA E COMPRA - Pleito de rescisão contratual formulado pelos compradores, por simples conveniência destes - Pedido cumulativo de devolução dos valores pagos - Rescisão decretada, com retenção do percentual de 10% sobre estes - Apelo exclusivo da alienante - Inconformismo quanto a não observância da cláusula que prevê multa compensatória sobre o valor da venda, no caso de distrato pelos adquirentes (cláusula 15ª, da avença), correspondente ao percentual de retenção de 25% das prestações pagas, sem prejuízo da incidência da taxa de fruição prevista pela cláusula 17ª, do contrato - Descabimento - Intenção de resilição contratual deste que encontra guarida nos artigos 6º, V, 51, II, 53 e 54, CDC e Súmula "1" desta Corte - Devolução imediata e em parcela única - Súmulas 543 do C. STJ e "2" também desta Corte - Incidência de taxa de fruição/ocupação - Descabimento - Embora os adquirentes estivessem na posse precária do lote/terreno, não há provas de seu uso efetivo pela construção, edificação, realização de benfeitorias ou proveito econômico - Precedente jurisprudencial - Correção monetária - Incidência desta a partir de cada desembolso, para recompor o valor da moeda, nos termos da Súmula 43 do STJ (ato ilícito civil consistente na recusa na devolução correta, com base em cláusula abusiva) - Juros de mora - Posicionamento desta E. Câmara fixando como termo inicial a data da prolação da sentença - Apelo provido em parte. (e-STJ fls. 252/253)
+Os embargos de declaração interpostos foram rejeitados. (e-STJ fls. 393)
+Inconformada, MENEZES [NOME] interpôs recurso especial, com fundamento no art. 105, III, a e c, da CF, alegando violação do art. 422 do CC, ao sustentar que (1) deve ser retido o percentual de 25% dos valores pagos pelo recorrido, conforme previsão contratual; (2) a recorrida deve pagar pela fruição do imóvel pelo tempo e ou disponibilidade da posse do bem, que lhe foi transferida, no valor correspondente a 0,5% ao mês sobre o valor do contrato, desde a assinatura do instrumento até a data da reintegração de posse; (3) os juros de mora devem incidir a partir do trânsito em julgado; e (4) há divergência jurisprudencial a respeito do percentual de retenção; da indenização pela fruição do imóvel e do termo inicial dos juros de mora.
+O apelo nobre foi admitido.
+É o relatório.
+Decido.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+(1) Do art. 422 do CC/02
+O tema referente ao art. 422 do CC não foi apreciado pelo acórdão recorrido e tampouco foram opostos embargos de declaração, estando ausente o indispensável debate prévio.
+Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional.
+Inafastável assim, por analogia, a incidência das Súmulas nº 282 e 356 do STF: É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada; O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Da cláusula abusiva
+Verifica-se, ainda, que o tribunal de origem entendeu que, conforme art. 39, inc. V, do CDC, a cláusula 15ª do contrato que previu o valor de retenção e o percentual a ser retido a título de taxa de fruição é abusiva. Todavia a recorrente, nas razões do especial, não impugnou referido fundamento. Tal deficiência nas razões recursais, atrai a incidência, por analogia, do óbice do enunciado da Súmula nº 283 do Supremo Tribunal Federal: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito:
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE DESPEJO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS REQUERIDOS.
+1. É inadmissível o recurso especial quando as razões apresentadas se mostrarem dissociadas da matéria tratada pela decisão recorrida, não sendo impugnados fundamentos do acórdão que, por si sós, são suficientes para manter o inteiro teor do decisum. Aplicação, por analogia, das Súmulas 283 e 284 do STF.
+2. A reforma do julgado quanto a conclusão de não ter sido configurado cerceamento de defesa, ante o indeferimento da prova testemunhal demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(2) (3) (4) Do percentual de retenção, da indenização pela fruição do imóvel, do termo inicial dos juros de mora, e da divergência jurisprudencial a respeito desses temas
+O conhecimento do recurso especial, pelas alíneas a e c do permissivo constitucional, exige a indicação de qual dispositivo legal teria sido violado ou objeto de interpretação divergente, entre o acórdão impugnado e os paradigmas, sob pena de incidência, por analogia, da Súmula nº 284 do STF.
+A respeito do percentual de retenção, da indenização pela fruição do imóvel, e do termo inicial dos juros de mora, verifica-se que não ficou demonstrado, quando da apresentação das razões recursais, qual dispositivo de lei federal foi eventualmente violado ou que tenha sido objeto de divergência jurisprudencial, fazendo incidir à hipótese o teor da Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+A propósito, vejam-se os precedentes:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO RÉU.
+1. ..
+2.  ..
+3. A ausência de indicação expressa de dispositivos legais tidos por vulnerados quanto ao tema não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida. Incidência da Súmula 284 do STF, por analogia.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 410.404/RS, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 06/12/2016, DJe 14/12/2016 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DEFICIENTE. RECURSO ESPECIAL COM FUNDAMENTO NA ALÍNEA "C". INTERPRETAÇÃO DIVERGENTE. AUSÊNCIA DE DEMONSTRAÇÃO. SÚMULA Nº 284/STF.
+1. O recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal.
+2. Se a divergência não é notória, e nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 934.850/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 18/10/2016, DJe 21/10/2016 - sem destaque no original)
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de [NOME], limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Publique-se. Intimem-se.
