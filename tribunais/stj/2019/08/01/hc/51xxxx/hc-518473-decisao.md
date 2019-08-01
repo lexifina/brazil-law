@@ -1,0 +1,17 @@
+DECISÃO
+RAFAEL QUEVEDO LIMA alega sofrer coação ilegal ante acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no Agravo n. [CPF]. Se insurge contra reconversão de pena substitutiva em privativa de liberdade, após sua não localização para intimação e início da execução.
+Requer a cassação do decisum.
+Decido.
+Diante das frustradas tentativas de localização do réu para dar início à execução penal (inclusive com tentativa de intimação na casa de sua avó) e esgotadas as buscas nos órgãos de praxe, o Juiz determinou a expedição de edital, para que o paciente iniciasse o resgates das penas restritivas de direito, sob pena de conversão em pena privativa de liberdade.
+O apenado quedou-se inerte. Assim, o Magistrado decidiu pela reconversão, pois:
+Como o apenado não foi localizado no endereço constante dos autos, tampouco nas outras tentativas realizadas, imperativa a conversão da(s) pena(s) restritiva(s) de direitos em pena privativa de liberdade.
+Inviável, com a devida vênia, a realização de diligências adicionais tendentes  localização do endereço do apenado, pois é obrigação sua mantê-lo atualizado.
+A decisão não é ilegal, porquanto está em consonância com os art. 181, § 1º, "a", da LEP e no art. 44, § 4º, do CP.
+O Juiz da VEC foi extremamente diligente, pois a "intimação por edital para o início do cumprimento da pena restritiva de direitos é cabida apenas para o réu julgado à revelia (Precedentes)" (HC n. 379.336/MA, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 9/5/2017), o que ocorreu in casu.
+De toda forma, o Magistrado tentou a intimação pessoal do sentenciado, fez buscas nos órgãos de praxe e determinou a expedição por edital. Não se pode ficar à mercê do apenado, para que inicie o cumprimento da pena quando lhe aprouver, enquanto está em curso o prazo de prescrição executória.
+A teor do acórdão: "o réu não foi encontrado no endereço disponibilizado em juízo" (fl. 96). É inviável compelir o Judiciário a realizar diligências para localizar o condenado que, ciente da ação penal, descumpriu o ônus de manter atualizado seu endereço nos autos (art. 367 do CPP) e permanece em local desconhecido.
+Não se verifica a ilegalidade apontada na exordial, porquanto: "O indeferimento  ..  de pleito defensivo pela expedição de ofício  ..  para fins de informação do paradeiro do sentenciado não configura ofensa às garantias individuais deste, mesmo porque,  ..  é dele (acusado), e não do Juízo, pela inteligência do próprio art. 367 do CPP, o ônus de informar mudança residencial e manter atualizado seu endereço" (HC n. 170.734/MG, Rel. Ministra Alderita Ramos de Oliveira (Desembargadora convocada do TJPE), 6ª T., DJe 20/8/2012).
+Deveras: "A Lei de Execução Penal, em seu art. 181, § 1º, "a", determina que se convertam as penas restritivas de direito impostas em respectivas penas privativas de liberdade, com a notícia de que o condenado se encontra em local incerto e não sabido ou que desatenda à intimação por edital" (HC n. 418.291/ES, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJE 15/8/2018)
+No caso, o paciente está em local incerto e não sabido e desatendeu a intimação por edital. O intuito de ser furtar à aplicação da lei penal não pode ser premiado com a declaração de nulidade da decisão judicial. Ademais, mesmo com a prisão, o Juiz poderá ouvir sua justificativa, com a possibilidade de retorno ao cumprimento da reprimenda substitutiva.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
