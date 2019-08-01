@@ -1,0 +1,37 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MARLENE MARIA ALVES FOLSTER contra decisão que não admitiu o seu recurso especial, manejado com fulcro no art. 105, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, integrado pelo proferido em sede de embargos de declaração, assim ementado:
+AGRAVO DE INSTRUMENTO. ADIMPLEMENTO CONTRATUAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. DECISÃO PROFERIDA SOB A ÉGIDE DA LEI 5.869/73. ART. 14 DA LEI 13.105/15. ALEGADA NECESSIDADE DE APRESENTAÇÃO DO CONTRATO. IMPOSSIBILIDADE. CONTRATO FIRMADO NA MODALIDADE PLANTA COMUNITÁRIA DE TELEFONIA (PCT). RADIOGRAFIA. VALOR ABAIXO DO MÁXIMO NACIONAL. APLICAÇÃO DO VALOR DIVULGADO PELA PORTARIA MINISTERIAL N. 307/95. PERÍCIA JUDICIAL. CÁLCULO CORRETO. VPA DO MÊS DA INTEGRALIZAÇÃO DAS AÇÕES. DOBRA ACIONÁRIA. INEXISTÊNCIA DE COMANDO EXPRESSO NA AÇÃO DE CONHECIMENTO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente ofensa aos arts. 6º, III, 31, 115, 233, 402, 458, 459, 460, 461, 1.008, 1.056, 1.059, 1.125, 1.146, 1.300, 1.301, do Código Civil; arts. 1º, 6º, 11, 12, 30, 170, § 1º, II, 176, caput, I, e § 1º, 182, 188, 224, caput, e I, 229, caput e § 5º, 233, caput, parágrafo único, da Lei nº 6.404/76; art. 6º, § 1º, da LINDB; arts. 1º, 4º, 47, 51, I, VIII, X, XII, § 1º e 54 do Código de Defesa do Consumidor; art. 475-B, § 1º e § 2º, do Código de Processo Civil; bem como dissídio jurisprudencial.
+Sustenta que devem ser incluídos os valores relativos à dobra acionária.
+Decido.
+2. A irresignação não merece prosperar.
+De fato, como é cediço, para a análise da admissibilidade do especial pela alínea "a" do permissivo constitucional, é imprescindível que a argumentação erigida no recurso, demonstre de plano, mediante uma concatenação lógica, o mal ferimento dos artigos pelo acórdão recorrido.
+Entretanto, no caso em apreço, a parte recorrente - com exceção dos arts. 229, caput e § 5º, 233, caput, parágrafo único, da Lei nº 6.404/76 - limita-se a arguir violação dos artigos apontados sem indicar, clara e objetivamente, de que forma tais dispositivos teriam sido violados.
+Ressalto que a via estreita do recurso especial exige a demonstração inequívoca da ofensa aos preceitos de lei federal, bem como a sua indicação, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a alegação genérica de ofensa à lei caracteriza deficiência de fundamentação, em conformidade com o enunciado sumular nº 284 do STF.
+3. Quanto à dobra acionária, considerando a moldura fática delineada no acórdão recorrido (ausência dessa verba na condenação no processo de conhecimento) verifica-se a conformidade do entendimento da Corte local em não incluir a dobra acionária na fase de cumprimento de sentença com a jurisprudência do STJ.
+Com efeito, esta Corte Superior possui jurisprudência no sentido de ser inviável a inclusão da dobra acionária em fase de cumprimento de sentença, quando o direito a essa verba não tenha sido reconhecido expressamente na ação de conhecimento.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM. CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. RECURSO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. QUANTO À CORREÇÃO DOS CÁLCULOS E À RADIOGRAFIA DO CONTRATO PARA INSTRUÇÃO DAS AÇÕES. NECESSÁRIO REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. SOBRE O DIREITO À COMPLEMENTAÇÃO ACIONÁRIA. ACÓRDÃO RECORRIDO QUE CONCLUIU CONFORME A JURISPRUDÊNCIA DESTA CORTE. SÚMULA STJ/83. RECURSO IMPROVIDO.
+1. A falta de fundamentação na indicação dos dispositivos legais indicados como violados enseja o desprovimento do recurso, nos termos da Súmula n. 284/STF.
+2. Tendo o Tribunal de origem considerado corretos os cálculos apresentados pelo contador judicial, bem como que a radiografia do contrato, dadas as particularidades do caso, seria suficiente para instrução das ações, incabível se mostra a revisão dessas conclusões por meio de recurso especial, consoante o enunciado n. 7 da Súmula desta Corte Superior.
+3. Para que haja efetivo direito à complementação acionária da telefonia móvel - dobra acionária - é necessário que o pedido seja expresso e analisado em ação de conhecimento. Dessarte, não havendo condenação à referida complementação, inviável que se incluam nos cálculos exequendos as ações decorrentes da dobra acionária. Precedentes deste STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 540.208/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/10/2014, DJe 06/11/2014) - g.n.
+_______________
+CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. INCIDÊNCIA DAS SÚMULAS Nº 284/STF E 211/STJ. DIREITO À DOBRA ACIONÁRIA. IMPOSSIBILIDADE. INEXISTÊNCIA DO PEDIDO NA FASE DE CONHECIMENTO. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ.
+1. O acionista manejou, na origem, embargos de declaração, alegando omissão no julgamento do apelo em relação a matéria devolvida neste recurso especial (valor devido no cumprimento de sentença), que foram rejeitados.
+2. Neste recurso, não apontou a violação do art. 535 do CPC, não ensejando o prequestionamento necessário para análise do argumento objeto do especial.
+3. Esta Corte Superior, em tais casos, assentou que se o tema não foi apreciado pelo Tribunal a quo é inadmissível o recurso especial (Súmula nº 211 do STJ).
+4. É necessário que, na ação de conhecimento, tenha havido reconhecimento expresso ao direito à dobra acionária (telefonia móvel), não cabendo, no cumprimento de sentença, tal inclusão na memória de cálculo em razão da coisa julgada ter-se realizado sobre o direito da complementação acionária da telefonia fixa.
+5. O acionista não apresentou argumento novo capaz de modificar a conclusão alvitrada, que se apoiou em entendimento consolidado no Superior Tribunal de Justiça. Incidência da Súmula nº 83 do STJ.
+6. Agravo regimental não provido.
+(AgRg no AREsp 550.519/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 11/11/2014, DJe 25/11/2014) - g.n.
+_______________
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. BRASIL TELECOM S/A. CUMPRIMENTO DE SENTENÇA. CONDENAÇÃO QUE NÃO CONTEMPLA AS AÇÕES DA "DOBRA ACIONÁRIA". INCLUSÃO NOS CÁLCULOS APRESENTADOS. IMPOSSIBILIDADE. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- A jurisprudência do STJ entende que para haver o direito à complementação acionária da telefonia móvel - dobra acionária - é necessário que o pedido seja expresso e analisado em ação de conhecimento. Nesse sentido, a sentença transitada em julgado reconhecendo a complementação acionária da telefonia fixa não enseja, logicamente, a complementação da dobra acionária, ainda que a parte faça jus.
+2.- O agravo não trouxe nenhum argumento novo capaz de modificar o decidido, que se mantém por seus próprios fundamentos.
+3.- Agravo Regimental improvido.
+(AgRg nos EDcl no REsp 1404861/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 10/06/2014, DJe 18/06/2014) - g.n.
+Incide, na espécie, o veto da Súmula 83 do STJ.
+4. Ante o exposto, nego provimento ao agravo, majorando os honorários advocatícios em prol dos patronos da parte agravada em R$ 200,00 (duzentos reais), nos termos do art. 85, § 11, do CPC/2015, observada eventual gratuidade de justiça.
+Publique-se. Intimem-se.
