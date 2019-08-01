@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] DEMCHUK contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+EXCEÇÃO DA VERDADE - CRIMES CONTRA A HONRA DE MAGISTRADO NO EXERCÍCIO DE SUAS FUNÇÕES - CALÚNIA E DIFAMAÇÃO - ARTIGO 138 CAPUT C/C 141 II E ARTIGO 139 CAPUT C/C 141 II TODOS DO CÓDIGO PENAL - JUÍZO DE ADMISSIBILIDADE QUE DEVE SE DAR JUNTO À ORIGEM INTELIGÊNCIA DO ARTIGO 85 DO CÓDIGO DE PROCESSO PENAL - NÃO CONHECIMENTO COM REMESSA AO JUÍZO DA 1 VARA CRIMINAL DA COMARCA DE GUARAPUAVA
+Quanto à controvérsia, alega violação do art. 7º, § 2º, da Lei n. 8.906/1994, no que concerne à ausência de tipicidade em razão das condutas imputadas ao recorrente estarem acobertadas pela imunidade profissional, previstas no Estatuto da Ordem dos Advogados do Brasil, trazendo o(s) seguinte(s) argumento(s):
+Contudo, a rejeição do incidente da Exceção da Verdade e, consequente prosseguimento da ação penal n. 0022245-37.2013.8.16.0031, perante a 1a Vara Criminal de Guarapuava/PR, em especial a processar os crimes de previstos no artigo 139, caput, c/c art. 141, inc. II, (por duas vezes - Fatos 02 e 04) contraria os termos das garantias do Recorrente PAULO [NOME] preconizadas na Lei n. 8.906/94.
+Isto porque, as condutas do PAULO [NOME], no que tange os fatos 02 e 04 da denúncia -crime, estão acobertadas pela imunidade profissional prevista no artigo 7º, §2º, da Lei n. 8.906/94: (fls. 1292).
+ ..
+Isto posto, verificado a contrariedade a legislação federal, no que concerne ao artigo 7º, §2º, da Lei n. 8.906/94 e aplicação de entendimento diverso desta Corte Superior, pugna pela reforma do acórdão recorrido, no intuito de trancar a ação penal n. 0022245-37.2013.8.16.0031), em trâmite perante a la Vara Criminal de Guarapuava/PR, em relação aos Fatos 02 e 04 descritos na denúncia - crime, considerando que o seu prosseguimento ofende as garantias profissionais e constitucionais de PAULO [NOME] DA ROCHA [NOME] DEMCHUK. (fls. 1297).
+É o relatório. Decido.
+No que concerne ao recurso, quanto à controvérsia, na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão relativa à imunidade profissional não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
