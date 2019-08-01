@@ -1,0 +1,37 @@
+DECISÃO
+1. Trata-se de conflito de competência, com pedido de liminar, em que apontados como suscitados o Juízo da 2ª Vara de Falências e Recuperações Judiciais do Foro de São Paulo  que decretou a falência da suscitante  e o Juízo da 15ª Vara do Trabalho de São Paulo.
+Informa a suscitante que a quebra foi decretada em 23/9/2016 (fls. 10-14), tendo sido arrecadado o veículo de placa EUB 5850 e que o administrador judicial requereu ao Juízo universal que fosse feito um levantamento pelo convênio Renajud para averiguar eventuais restrições incidentes sobre esse bem, tendo sido verificado que o segundo Juízo suscitado havia bloqueado a sua circulação, não se dignando a cancelar o bloqueio mesmo após informado da decisão do Juízo falimentar que determinara a alienação do bem livre de qualquer ônus (art. 141, II, da Lei n. 11.101/2005 (fl. ).
+Foi noticiada ao Juízo laboral, então, a ocorrência da arrematação do veículo, mas a Justiça especializada emitiu outra decisão, condicionando o levantamento da restrição à apresentação da decisão do Juízo universal que homologar o lance ofertado (fl.).
+E acrescenta que (fl. 5):
+ ..  o MM. Juízo trabalhista condiciona o cumprimento do desbloqueio a questões afetas exclusivamente ao MM. Juízo da 2ª Vara de Falências e Recuperações Judiciais da Comarca de São Paulo/SP, posto que ainda que o leilão não seja homologado pelo MM. Juízo da 2ª Vara de Falências e Recuperações Judiciais da Comarca de São Paulo/SP é de rigor o levantamento da restrição imposta pelo MM. Juízo da 15ª Vara do Trabalho de São Paulo/SP porque o bem já foi arrecadado pelo Administrador Judicial.
+Assim, requer a concessão de liminar para que seja ordenado ao Juízo laboral que cumpra e execute os atos necessários à baixa da restrição do veículo pelo Sistema Renajud e a designação do Juízo universal como competente para dirimir questões urgentes, tais como eventual homologação da arrematação.
+É o relatório.
+2. A jurisprudência desta Corte de Justiça firmou-se no sentido de que os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n. 7.661/45 ou da Lei n. 11.101/05, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devem ser realizados pelo juízo universal.
+Confira-se o teor do art. 76 da Lei de Falência:
+Art. 76. O juízo da falência é indivisível e competente para conhecer todas as ações sobre bens, interesses e negócios do falido, ressalvadas as causas trabalhistas, fiscais e aquelas não reguladas nesta Lei em que o falido figurar como autor ou litisconsorte ativo.
+Nessa linha, via de regra, não se verifica a possibilidade de prosseguimento automático das execuções individuais posteriormente à decretação da falência ou ao processamento e, por conseguinte, à aprovação do plano de recuperação judicial, de modo que é atribuída exclusividade ao juízo universal para a prática de atos de execução do patrimônio da massa falida ou da sociedade recuperanda, estendendo-se tal entendimento também às hipóteses em que a constrição patrimonial determinada por outro juízo lhe seja anterior.
+Nesse sentido, os seguintes precedentes da Segunda Seção:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. DECRETAÇÃO DE FALÊNCIA. ATOS CONSTRITIVOS ANTERIORES. CRÉDITO TRABALHISTA. DECLARAÇÃO DE COMPETÊNCIA DO JUÍZO UNIVERSAL. DECISÃO MANTIDA.
+1. Encontra-se pacificado, na jurisprudência desta Corte, o entendimento de que, deferido o pedido de falência, os atos de execução relacionados a crédito trabalhista incidentes sobre o patrimônio da massa falida devem ser processados no âmbito do juízo universal, mesmo nos casos de penhora anterior. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no CC 148.987/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 13/09/2017, DJe 21/09/2017)
+CONFLITO DE COMPETÊNCIA. JUÍZES VINCULADOS A TRIBUNAIS DIVERSOS. COMPETÊNCIA DO JUÍZO FALIMENTAR PARA A PRÁTICA DE ATOS QUE IMPLIQUEM RESTRIÇÃO PATRIMONIAL.
+1. Conflito de competência suscitado em 21.10.2013 Autos conclusos ao Gabinete em 04.02.2013, após resposta dos ofícios enviados e parecer do MPF.
+2. Discute-se a competência para a prática de atos de execução determinados pelo juízo trabalhista, tendo em vista a falência da empresa executada.
+3. O patrimônio da sociedade empresária não pode ser afetado por decisões prolatadas por juízo diverso daquele em que tramita seu processo de falência. Precedentes.
+2. A jurisprudência desta egrégia Corte é firme no sentido de que, decretada a falência, as execuções contra a falida não podem prosseguir, mesmo havendo penhora anterior (EDcl nos EDcl no AgRg no CC 109.541/PE, Rel. Min. PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe 16/04/2012).
+6. Conflito conhecido, para declarar a competência do JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP.
+(CC 130.994/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 13/08/2014, DJe 19/08/2014)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. FALÊNCIA. TERMO LEGAL. RECLAMAÇÃO TRABALHISTA. BEM IMÓVEL PRACEADO PELO JUÍZO TRABALHISTA. DECRETAÇÃO DA FALÊNCIA. PRODUTO ARRECADADO PELO JUÍZO TRABALHISTA SEM REMESSA AO JUÍZO FALIMENTAR. NECESSIDADE. CONFLITO CONHECIDO. COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. Trata-se de conflito de competência suscitado por empresa submetida ao processo de falência, que teve seu bem imóvel praceado pelo Juízo Trabalhista.
+2. A jurisprudência do STJ tem entendimento firmado no sentido de que os atos de execução dos créditos individuais promovidos contra empresas em falência ou em recuperação judicial, sob a égide do Decreto-lei nº 7.661/45 ou da Lei nº 11.101/05, devem ser realizados pelo Juízo Universal, ainda que ultrapassado o prazo de 180 dias de suspensão previsto no art. 6º, § 4º, da Lei nº 11.101/05. Precedentes.
+3. O valor arrecadado com o praceamento do bem da falida no Juízo Trabalhista deve ser remetido ao Juízo falimentar, a quem compete a administração dos bens daquela, bem como o pagamento dos débitos por ela contraídos e apurados no âmbito do processo de falência.
+4. Conflito de competência conhecido para declarar a competência do Juízo Falimentar.
+(CC 146.657/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 07/12/2016)
+No caso, verifica-se que o Juízo falimentar autorizou a alienação do veículo livre de quaisquer ônus, enquanto o Juízo trabalhista condiciona a liberação do bem.
+Com efeito, o mesmo veículo também foi alvo do CC 164.508/SP, suscitado em face do Juízo da 74ª Vara do Trabalho de São Paulo, em que se declarou a competência do Juízo universal para apreciar todos os atos de constrição referentes ao patrimônio da recuperanda, inclusive para deliberar sobre as restrições efetivadas contra o referido bem litigioso.
+Dessarte, é de se conceder a liminar.
+3. Ante o exposto, nos termos dos arts. 955 do NCPC e 196 do RISTJ, concedo a liminar para determinar que o Juízo trabalhista proceda à liberação do veículo de placa EUB 5850, designando o Juízo universal para resolver, em caráter provisório, as medidas urgentes.
+4. Comunique-se, com urgência, o inteiro teor desta decisão aos juízos suscitados, a quem devem ser solicitadas informações (art. 954 do NCPC).
+5. Ouça-se, em seguida, o Ministério Público Federal (art. 956 do NCPC).
+Publique-se. Intimem-se. Oficiem-se.
