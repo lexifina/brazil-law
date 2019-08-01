@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de conflito de competência instaurado por [NOME] MOTA, indicando como suscitados o TRIBUNAL DE JUSTIÇA DE SÃO PAULO e a TURMA DE UNIFORMIZAÇÃO DOS JUIZADOS ESPECIAIS DE SÃO PAULO.
+Alega a suscitante a existência de conflito quanto à competência para julgar reclamação decorrente da não observância de precedente do Superior Tribunal de Justiça pela Turma do Colégio Recursal.
+Aduz que, ao manejar a reclamação perante o Tribunal de Justiça de São Paulo, teve seu protocolo cancelado sob o fundamento de que deveria ter ajuizado perante a Turma de Uniformização dos Juizados Especiais, a qual, por outro lado, "possui a Resolução n. 759/2016, artigo 14, de que não é de sua competência julgar Reclamações em face de inobservância de precedentes do STJ, e sim, somente, diante das Súmulas" (e-STJ fl. 4).
+Ao final, pugna pela "pronúncia deste Egrégio Tribunal com relação ao presente conflito, declarando como único Juízo Competente para o processamento da Reclamação a Câmara Especial do Tribunal de Justiça em razão da Resolução n. 03/2016, artigo 1º do STJ" (e-STJ fl. 10).
+O Ministério Público Federal apresentou parecer informando não ter interesse no feito. (e-STJ fls. 206/208)
+Passo a decidir.
+Nos termos do art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, consoante o art. 105, I, "d", da Constituição Federal, compete ao Superior Tribunal de Justiça julgar originariamente "os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, o, bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+A teor do disposto no art. 66 do CPC/2015 (art. 115 do CPC/1973), a caracterização de conflito de competência pressupõe a manifestação de dois juízes, declarando-se competentes ou incompetentes, ou, ainda, a existência de controvérsia entre eles acerca da reunião ou separação de processos.
+In casu, destaca-se a ausência de manifestação de dois órgãos jurisdicionais afirmando-se simultaneamente competentes ou incompetentes para o julgamento da causa, nem risco de serem proferidas decisões dissonantes, tendo a parte suscitante se limitado a afirmar que, "em Reclamação com matéria idêntica a Turma de Uniformização declinou a sua análise sob o fundamento da Resolução n. 759/2016, artigo 14, de que a mesma apenas deve analisar divergência entre Acórdão dos Colégios em face das Súmulas do STJ" (e-STJ fl. 8).
+Nesse panorama, não existe conflito de competência a ser dirimido por esta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. JUÍZO CÍVEL E JUÍZO CRIMINAL. INEXISTÊNCIA DE CONFLITO. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Há conflito positivo de competência quando dois ou mais juízes se consideram competentes para a mesma causa (cível) ou para o mesmo fato criminoso (crime), o que não se verifica na espécie.
+ ..
+3. Agravo regimental a que se nega provimento.
+(AgRg no CC 157.934/GO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Terceira Seção, DJe 15/05/2018)
+PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA. SERVIÇOS DE PRATICAGEM. PORTARIAS DE FIXAÇÃO E DE REAJUSTE DE PREÇOS. DECISÕES CONFLITANTES. POSSIBILIDADE NÃO CONSTATADA. PREJUDICIALIDADE EXTERNA NÃO VERIFICADA. INCIDENTE NÃO CONHECIDO.
+1. A caracterização de conflito de competência pressupõe a manifestação de dois ou mais juízes que se declaram competentes ou incompetentes, ou, ainda, a existência de controvérsia entre eles acerca da reunião ou separação de processos, como estatui o art. 66 do CPC/2015 (art. 115 do CPC/1973).
+2. O Superior Tribunal de Justiça considera prematura a instauração do conflito quando houver a mera potencialidade de que se profiram decisões contraditórias em demandas assemelhadas.
+3. Caso em que, além da ausência de manifestação dos dois órgãos jurisdicionais, afirmando-se quer competentes, quer incompetentes para o julgamento da causa, as demandas que ali tramitam não tratam de questões e objetos assemelhados, suscetíveis de decisões conflitantes, sendo certo que, em uma delas, a suscitante/agravante alegou a nulidade da Portaria n. 135/DPC/2010, que fixou o preço dos serviços de praticagem a serem observados pelas companhias de navegação, e o respectivo processo administrativo, haja vista o desrespeito ao contraditório, enquanto na outra ação a agravada postula o reajuste dos preços da Portaria n. 225/DPC/2011, mediante a aplicação do IPCA.
+4. Ainda que se entenda terem os juízos implicitamente se considerado competentes, a suspensão de um dos processos pelo reconhecimento da prejudicialidade externa homogênea requer a demonstração de que a procedência de uma das ações influenciará diretamente o resultado da outra, o que não se divisou, na hipótese, pelo que se reputa prematura a instauração do incidente.
+6. Agravo interno desprovido.
+(AgInt no CC 153.533/RS, Minha Relatoria, Primeira Seção, DJe 09/05/2018)
+Reporto-me, ainda, às seguintes decisões monocráticas que resolveram idêntica controvérsia a ora tratada: CC n.164.916/SP, Rel. Min. Sérgio Kukina, DJe: 16/4/2019; CC n.165.090/SP, Rel. Min. BENEDITO GONÇALVES, DJe: 26/4/2019.
+Diante do exposto, NÃO CONHEÇO do conflito de competência, com fundamento no art. 34, XXII, do RISTJ.
+Publique-se. Intimem-se.
