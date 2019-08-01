@@ -1,0 +1,14 @@
+DECISÃO
+BATTISTA RAIMUNDO NETO e [NOME] agravam da decisão que inadmitiu o recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, que negou provimento aos recursos de apelação defensivos e manteve, com isso, a condenação dos réus pela prática do crime previsto no art. 1º, I, da Lei n. 8.176/1991.
+Argumentam os agravantes que, ao contrário do consignado pela decisão recorrida, o exame do caso prescinde da análise de provas. Afirmam que a discussão levantada no especial - no qual alegam violação dos arts. 1º e 2º da Lei n. 8.176/1991; 41, 155, 158, 397, I, 563 e 569, todos do CPP, e ofensa ao princípio da razoabilidade - se limita, exclusivamente, à matéria de direito, consubstanciado apenas na verificação da culpabilidade dos recorrentes que justifique a condenação e na necessidade de prova pericial direta a ser produzida nos postos de abastecimento, a fim de comprovar a materialidade.
+Requerem, diante disso, seja conhecido e provido o agravo para que o especial seja admitido e, do mesmo modo que este recurso, provido.
+Contrarrazoado o agravo (fls. 412-415), foram os autos ao Ministério Público Federal, que se manifestou pelo seu não provimento (fls. 432-440).
+Decido.
+Em que pesem os argumentos externados pelos agravantes, a decisão impugnada deve ser mantida. Como destacou o Ministério Público Federal, "eventual modificação da conclusão a que chegou a Corte estadual acerca da suficiência e validade das provas coligidas para condenar os réus demandaria aprofundado reexame do acervo probatório" (fl. 436).
+Deveras, segundo a orientação deste Superior Tribunal, eventual objetivo de absolvição formulado nesta Corte, que dependam da reanálise do material cognitivo, encontra óbice na Súmula n. 7 do STJ. A propósito:
+ ..
+A modificação da conclusão fática alcançada pelas instâncias ordinárias acerca da comprovação da autoria e da materialidade delitivas, delineada após exauriente exame dos elementos probatórios produzidos durante a fase inquisitorial e em juízo, exigiria, necessariamente, aprofundado reexame de provas, o que não é possível nos limites estreitos do recurso especial, conforme se extrai da Súmula n.º 7 desta Corte Superior.
+ ..  (AgRg no AgRg no AREsp n. 1.290.265/CE, Rel. Ministra Laurita Vaz, DJe 5/6/2019).
+No tocante à materialidade, cabem os mesmos argumentos em relação à incidência do referido óbice sumular, na medida em que o acórdão recorrido salientou, no ponto, que "resultou demonstrada pelos Registro de Ocorrência  .. ; Documentos de Fiscalização ANP  .. ; Relatório de ensaio nº 068/2011  .. , datado em 08/02/11  ..  e Laudo de Exame Indireto" (fl. 294).
+À vista do exposto, com fundamento no art. 932, IV, "a", do CPC, c/c o art. 34, XVIII, "b", do RISTJ, nego provimento ao agravo em recurso especial.
+Publique-se e intimem-se.
