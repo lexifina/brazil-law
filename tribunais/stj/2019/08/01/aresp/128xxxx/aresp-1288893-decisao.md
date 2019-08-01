@@ -1,0 +1,26 @@
+DECISÃO
+1. Trata-se de agravo interposto por VIACAO SAO BENTO LTDA contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, integrado pelo proferido em sede de embargos de declaração, assim ementado:
+DISSOLUÇÃO DE SOCIEDADE - APURAÇÃO DE HAVERES - Divergência quanto a data base a ser observada na apuração de haveres Reconhecimento do Juízo de anterior equívoco para adequar a questão ao determinado no título judicial - Partes que manifestaram a pretensão de adotar data diversa daquela em que constituído o direito com a efetiva resolução mediante o trânsito em julgado, na forma do art. 1031 do CC Pretensão das partes que necessita de formalização conjunta da manifestação de vontade, a ser homologada por sentença para ser dotada de eficácia a substituir o comando existente, sob pena de se permitir inadmissível existência de duas situações válidas no mundo jurídico a proporcionar enorme vácuo de instabilidade jurídica Decisão que deu correto tratamento à matéria Recurso desprovido.
+
+Nas razões do especial, alega-se violação dos arts. 166, I, II, III e IV, 842 e 1.031 do Código Civil e art. 3º, § 3º, do Código de Processo Civil.
+Decido.
+2. A irresignação não merece prosperar.
+Observa-se que a matéria relativa aos art. 166, I, II, III e IV, do CC não foi objeto de análise pelo acórdão recorrido.
+A inexistência de carga decisória a respeito da matéria impede que ela seja apreciada na presente via recursal, tendo em vista a falta de prequestionamento (Súmula 211/STJ).
+Por outro lado, o Superior Tribunal de Justiça não reconhece o prequestionamento pela simples oposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial alegando-se afronta ao art. 1.022 do CPC, o que, no caso, não ocorreu.
+3. O Tribunal de origem registra que, em que pese o estímulo às soluções consensuais e métodos alternativos de conflito, não houve acordo pré-processual - ao contrário, a matéria foi objeto de extensa beligerância - entre as partes no tocante ao termo inicial para se apurar os haveres devidos ao sócio retirante, em que implica a resolução da sociedade. De modo que, a pretensão consensual de fixar data diversa da estipulada no comando judicial, deve ser feita por meio de termo nos autos devidamente homologado.
+Assim, verifica-se que o acórdão recorrido está em consonância com a jurisprudência desta Corte, ao consignar a necessidade de escritura pública ou termo assinado nos autos, devidamente homologado pelo juíz, para formalizar a convenção chegada pelas partes, após a decisão do juiz, e em termos diversos do adotado no comando judicial.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. EXTINÇÃO DO PROCESSO EM VIRTUDE DE ADESÃO DO CONTRIBUINTE A PROGRAMA DE PARCELAMENTO OU PAGAMENTO À VISTA DE CRÉDITOS TRIBUTÁRIOS. TRANSAÇÃO NÃO-CONFIGURADA. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. A adesão do contribuinte a programa instituído por lei para fins de parcelamento ou pagamento à vista de créditos tributários não configura transação, pois o Código Civil só permite a transação quanto a direitos patrimoniais de caráter privado (art. 841). Se recair sobre direitos contestados em juízo, a transação será feita por escritura pública, ou por termo nos autos, assinado pelos transigentes e homologado pelo juiz (art. 842). De acordo com o Código Tributário Nacional, a lei pode facultar, nas condições que estabeleça, aos sujeitos ativo e passivo da obrigação tributária celebrar transação que, mediante concessões mútuas, importe em determinação de litígio e conseqüente extinção de crédito tributário (art. 156, III, c/c art. 171). A lei indicará, ainda, a autoridade competente para autorizar a transação em cada caso (art. 171, parágrafo único). Por não se tratar de transação, não se aplica ao caso o § 2º do art. 26 do Código de Processo Civil, segundo o qual, "havendo transação e nada tendo as partes disposto quanto às despesas, estas serão divididas igualmente".
+(..)
+(REsp 1244347/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/04/2011, DJe 28/04/2011) - g.n.
+_______________
+HISTÓRICO DA DEMANDA (..) RECURSO ESPECIAL - PEDIDO DE PRONTO JULGAMENTO, NO STJ, DA AÇÃO RESCISÓRIA(..) RECURSO ESPECIAL - PEDIDO DE ANULAÇÃO DO ACÓRDÃO RECORRIDO E DEVOLUÇÃO DOS AUTOS PARA NOVO JULGAMENTO DA AÇÃO RESCISÓRIA
+(..)
+11. Descumprimento do art. 842 do CC - Para agravar o absurdo da apressada homologação do acordo e extinção da Ação Rescisória, poder-se-ia acrescentar o maltrato do art. 842 do Código Civil, tendo em vista que a composição homologada pelo TJAP versava sobre direitos controvertidos em juízo, hipótese na qual a lei substantiva reclama escritura pública, formalidade não observada nem pelos transigentes nem pelo Judiciário Estadual. No caso concreto, todavia, o acordo foi firmado por simples instrumento particular que não contou nem mesmo com reconhecimento de firma dos seus subscritores.
+(..)
+(REsp 1322391/AP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/09/2013, DJe 30/09/2013) - g.n.
+Incide, neste aspecto, o veto da Súmula 83 desta Corte.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
