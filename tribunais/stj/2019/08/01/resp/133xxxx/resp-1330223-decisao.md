@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal assim ementado:
+AGRAVO LEGAL. PIS. COFINS.CORREÇÃO MONETÁRIA. EMBARGOS DE DECLARARÃO. OMISSÃO. INEXISTÊNCIA.
+A correção monetária é devida apenas quando caracterizada a mora do Fisco no deferimento do ressarcimento, que, no caso, conforme entendimento antes exposto, configura-se quando vencido o prazo determinado pela Lei 9.784/99, contados da data do requerimento, sem decisão no respectivo processo administrativo. Incide, a partir de então, correção monetária sobre os valores pretendidos.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação do art. 535 do CPC/1973; do art. 66 da Lei n. 8.383/1991; e do art. 39 da Lei n. 9.250/1995, sustentando, em síntese, não ser devida a correção monetária de créditos escriturais, porquanto "o alegado óbice de aproveitamento dos créditos é derivado de norma geral das Leis n. 10.637/2002 e n. 10.833/2003" (e-STJ fl. 374).
+Contrarrazões apresentadas por IBERPUNTO INDÚSTRIA E COMÉRCIO TÊXTIL S.A., nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (e-STJ flS. 393/398).
+Passo a decidir.
+A controvérsia sobre a "definição do termo inicial da incidência de correção monetária no ressarcimento de créditos tributários escriturais" (tema 1003) será julgada perante a Primeira Seção, na sistemática dos recursos repetitivos. Foram escolhidos como recursos representativos os RESP 1.767.945/RS, RESP 1.768.060/RS e RESP 1.768.415/RS, com determinação de suspensão de todos os processos pendentes.
+Esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento dos recursos repetitivos e, após a publicação, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação firmada por este Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado dele divergir.
+Publique-se. Intimem-se.
