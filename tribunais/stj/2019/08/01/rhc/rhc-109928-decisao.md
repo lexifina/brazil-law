@@ -1,0 +1,23 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NULIDADE DAS PROVAS OBTIDAS. VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. TESES NÃO DEBATIDAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. REVOGAÇÃO DA PRISÃO CAUTELAR. SUPERVENIENTE ALVARÁ DE SOLTURA EXPEDIDO NA ORIGEM. PERDA DO OBJETO.
+Recurso em habeas corpus conhecido em parte e, nessa extensão, prejudicado.
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME], contra o acórdão prolatado pelo Tribunal de Justiça do Pará no HC n. 0800355-49.2019.8.14.000, nos termos desta ementa (fl. 99):
+HABEAS CORPUS LIBERATÓRIO. ART.121, § 2º, INCISOS I E IV, DO CPB. NULIDADE DAS PROVAS OBTIDAS. NÃO CONHECIMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA NA MANUTENÇÃO DA SEGREGAÇÃO PREVENTIVA. IMPROCEDÊNCIA. ORDEM PARCIALMENTE CONHECIDA E, NESTA PARTE, DENEGADA. DECISÃO UNÂNIME.
+1. O habeas corpus, diante da superficialidade dos documentos juntados pelo impetrante, não é a via adequada, salvo em contexto muito especial de indiscutível evidência, para examinar pedidos afetos às supostas nulidades de provas, tal como foram levantados no caso, devendo ser melhor analisados no curso da ação penal, pois exigiriam aprofundamento no exame probatório incompatível nesta sede.
+2. Deve ser mantida a constrição cautelar do paciente quando esta se encontra adequadamente embasada em circunstâncias específicas do caso concreto, havendo comprovação da materialidade e suficientes indícios de autoria, bem como demonstração da sua necessidade, com o fim de garantir a ordem pública, eis que o coacto, motivado por sentimento dc vingança e por meio de emboscada, ceifou a vida da vítima, com disparos de arma de fogo, tendo, ainda, após a consumação do delito, encaminhado, via telefone celular, foto do corpo do ofendido para um terceiro, vangloriando-se de sua ação, o que evidencia ainda mais periculosidade.
+3. Ordem parcialmente conhecida e, nesta parte, denegada, à unanimidade.
+Colhe-se dos autos que, por fatos ocorridos em 20/7/2018, o recorrente foi denunciado pelo crime tipificado no art. 121, § 2º, I e IV, do Código Penal, tendo sua prisão preventiva sido decretada no dia 26/8/2018, pelo Juízo da 3ª Vara Criminal da comarca de Marabá/PA, no Processo n. 0010146-25.2018.814.0028.
+Nesta Corte, o recorrente alega, em suma, a ocorrência de nulidade da prova obtida por meio da vistoria no celular da vítima do crime de homicídio, pois não havia autorização judicial para tanto.
+Aduz violação dos princípios do contraditório e da ampla defesa quanto ao uso de prova emprestada deferido pelo Juiz processante, uma vez que a Defensoria não teria sido intimada da decisão que autorizou tal providência, apenas o Ministério Público teria sido cientificado desse decisum.
+Por fim, defende a ausência de justa causa para a sua prisão provisória, ao argumento de que o Magistrado não fundamentou suficientemente a possibilidade de substituição da preventiva por outra medida cautelar, bem como não expôs de forma concreta os motivos que ensejaram a decretação da sua prisão preventiva, utilizando-se de expressões vagas, como garantia da instrução processual e da aplicação da lei processual (fl. 118).
+Requer, desse modo, o provimento do recurso para que seja declarada a nulidade e o desentranhamento das provas obtidas na investigação que deu origem à referida ação penal, assim como da decisão que deferiu o uso de prova emprestada nesses mesmos autos. Pugna, ainda, seja revogada a sua prisão preventiva.
+Sem despacho de admissibilidade.
+Contrarrazões apresentadas às fls. 131/138.
+O Ministério Público Federal opinou pelo conhecimento parcial do recurso e, na parte conhecida, pelo não provimento (fls. 169/177).
+É o relatório.
+Na hipótese, quanto à pretendida revogação da prisão de [NOME], o recurso perdeu o objeto.
+Isso porque, diante das informações colhidas hoje no portal eletrônico do Tribunal local acerca do andamento processual, foi possível constatar que, em 12/4/2019, o Juízo a quo revogou a prisão preventiva do ora recorrente, expedindo-se alvará de soltura em seu favor, nos autos da Ação Penal n. 0010146-25.2018.814.0028.
+Por outro lado, verifica-se que às teses de nulidade por ilicitude da prova obtida por meio de vistoria no celular da vítima do crime sem autorização judicial e de violação dos princípios do contraditório e da ampla defesa não foram debatidas pela Corte estadual no habeas corpus ali impetrado, assim, inviável a análise desses pontos por esta Corte Superior, sob pena de indevida supressão de instância. Não é outra a opinião do Subprocurador-Geral da República [NOME], como se lê às fls. 171/172.
+Pelo exposto, conheço em parte do recurso e, nessa parte, julgo-o prejudicado.
+Publique-se.
