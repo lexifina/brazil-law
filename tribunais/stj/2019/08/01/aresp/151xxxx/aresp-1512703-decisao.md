@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo apresentado por MUNICÍPIO DE CURITIBA contra a decisão que não admitiu seu recurso especial, fundamentado no art. 105, inciso III, alínea a, da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL EXECUÇÃO FISCAL IPTU PRESCRIÇÃO INTERCORRENTE FEITO QUE TRÂMITOU POR 07 ANOS INAPLICABILIDADE DA SÚMULA N 106/STJ CONDENAÇÃO DO MUNICÍPIO AO PAGAMENTO DE CUSTAS PROCESSUAIS POSSIBILIDADE NÃO INCIDÊNCIA DOS ARTIGOS 26 E 39 DA LEF SERVENTIA ESTATIZADA RECEITA DO FUNJUS TAXA JUDICIÁRIA AFASTADA NA SENTENÇA RECURSO DESPROVIDO
+Quanto à controvérsia, pela alínea a do permissivo constitucional, alega violação dos arts. 174 do CTN e 8º, § 2º, e 25 da Lei n. 6.830/80, no que concerne à responsabilidade pela paralização do processo, trazendo o(s) seguinte(s) argumento(s):
+Na realidade o processo jamais ficou paralisado por culpa do Município, visto que a execução fiscal foi ajuizada no prazo legal, bem como foi requerida a citação do executado, sendo a demora nos atos de responsabilidade exclusiva do serviço judicial (fl. 100).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
