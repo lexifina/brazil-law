@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. BEM APREENDIDO. AUSÊNCIA DE COMPROVAÇÃO DA ORIGEM LÍCITA. ENTENDIMENTO DIVERSO. REEXAME FÁTICO-PROBATÓRIO. EXCESSO DE PRAZO. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO IMPROVIDO.
+1. Concluindo o Tribunal de origem, soberano na análise probatória, que o veículo apreendido era utilizado como meio de transporte para disseminação das drogas, havendo interesse na manutenção da constrição do bem, como meio à elucidação do crime, não é possível rever tal posicionamento, nos termos do óbice da Súmula 7/STJ.
+2. Quanto à tese de excesso de prazo, embora tenham sido manejados embargos de declaração, não se alegou, no recurso especial, violação do art. 619 do Código de Processo Penal, a fim de suprir eventual omissão, ressentindo-se, pois do indispensável requisito do prequestionamento, incidindo no caso as Súmulas 282 do STF e 211 do STJ.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face da decisão que negou provimento ao agravo em recurso especial.
+Afirma a agravante que inexiste intenção de buscar o revolvimento do acervo fático-probatório, bem como que a matéria foi devidamente prequestionada.
+Defende, assim, a reconsideração da decisão agravada ou a apreciação do recurso pela Sexta Turma.
+Apesar de intimado, o agravado não apresentou impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+O agravante não trouxe argumentos capazes de reformar a decisão agravada, que deve ser mantida por seus próprios fundamentos (fls. 380-384):
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Na espécie, apreendido o veículo Ford Fusion, placa OCG 7168, quando do flagrante de crime de tráfico atribuído a ALEXSANDER ALBUQUERQUE PACÍFICO, a recorrente RAQUEL formulou pedido de restituição, o qual foi indeferido. Interposta apelação, o Tribunal de origem negou provimento ao recurso.
+O voto condutor do acórdão assim decidiu, quanto à restituição do bem apreendido (fls. 258/260):
+Presentes os pressupostos de admissibilidade do recurso, dele conheço.
+Pretende a apelante a anulação da decisão interlocutória que lhe denegou o pleito de restituição do automóvel Ford Fusion, placas OCG 7168, argumentando que o veículo foi adquirido mediante recursos lícitos e inexiste a comprovação de ter sido utilizado para a prática corriqueira do crime de tráfico de drogas; ou subsidiariamente, que lhe seja concedido a condição de fiel depositária.
+A recorrente acostou aos autos Certificado de Registro e Licenciamento de Veículo (pp. 66/67) e decisão do magistrado primevo denegando a devolução da res, assim fundamentando: " ..  Atente-se que mesmo alegando a propriedade do veículo, este se prestava ao serviço do narcotráfico, cumpre-nos esclarecer que o mesmo foi apreendido ao momento em que era utilizado para facilitar o tráfico de entorpecentes, porquanto embora o veículo esteja em nome da requerente, pois, como bem ressalta a representante do Ministério Público, ficou demonstrado que de fato quem utilizava o bem em questão era o acusado, inclusive no momento do flagrante delito, não sendo possível, pois, nesse momento, permitir-se a restituição pleiteada. Assim, exposto, levando em consideração os argumentos do parquet, levando em consideração que o veículo apreendido ainda interessa ao processo, bem como, levando em consideração ser prematura qualquer decisão em torno da decisão requerida, ao menos no momento, indeferido o pedido  .. ."( p. 74)
+Do caderno processual, infere-se que a prática do comércio e fabricação ilegal de anabolizantes pelo ex-namorado da recorrente, somente foi descoberto mediante denúncia anônima, sendo utilizado como meio de transporte para disseminação das drogas o veículo ora apreendido.
+No automóvel de propriedade da insurgente foram encontradas algumas ampolas de "Stanozolol", potente anabolizante, como bem pontua o auto de apresentação e apreensão de pp. 35/36 e os depoimentos unânimes do policial militar condutor, cujo trecho do depoimento extrajudicial encontra-se infra transcrito, em total harmonia com as narrativas de seus colegas de farda acostados às pp. 42/47:
+ ..  pegou uma denúncia anônima de que a pessoa de Alexsander venderia esteroides anabolizantes e que também teria um laboratório; Que sua equipe passou a monitorá-lo;..; Que passaram a vistoriar o carro; Que abriu o pacote que estava sobre o banco do carro; Que constatou que eram diversas ampolas de stanozolol, substância anabolizante; Que avisou aos demais policiais que havia encontrado anabolizante dentro do carro de Alexsander  .. " (Antônio Chaves Pinto Júnior - policial militar condutor - pp. 39/40)
+Um dos recursos utilizado para obtenção do veículo em questão, também, não está esclarecido, haja visto que a insurgente utilizou como parte do pagamento o repasse do automóvel VW GOLF 1.6 SPORTLINE 2010/2011, conforme Recibo à p. 11, cujo carro nem sequer consta na Declaração de Imposto de Renda de Raquel ancorada às pp. 13/19, embora o certificado de registro e licenciamento encontre-se em seu nome (pp. 66/67), sendo extremamente duvidosa sua origem, competindo aplicar os ditames do art. 60, §2Q, da Lei nQ 11.343/2006 e art. 120 do CPP.
+Portanto, passou a ser um instrumento do crime. Nesta circunstância, consubstanciou em juízo positivo de imprescindibilidade para apuração da materialidade e autoria do delito a ser configurado pelo magistrado.
+Impende mencionar o artigo 118 do Código de Processo Penal que regula a matéria: "Antes de transitar em julgado a sentença final, as coisas apreendidas não poderão ser restituídas enquanto interessarem ao processo."
+Neste sentido, confira:
+ ..
+Assim, não há falar em restituição do objeto apreendido ou designação para ser fiel depositária.
+Diante do exposto, nego provimento ao recurso, para manter na íntegra a decisão interlocutória vergastada.
+De acordo com a jurisprudência desta Corte, é possível a restituição de bens apreendidos antes do trânsito em julgado da sentença final, contudo a devolução depende do fato de os bens apreendidos não interessarem ao processo e de não haver dúvidas quanto ao direito sobre eles reivindicado (arts. 118 e 120 do CPP) (AgRg no REsp 1541017/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2015, DJe 10/11/2015).
+No caso, o aresto consignou que o veículo apreendido era utilizado como meio de transporte para disseminação das drogas, havendo interesse na manutenção da constrição sobre o bem, como meio à elucidação do crime.
+Nesse contexto, tem-se que a pretendida revisão do entendimento visando a reanálise da utilidade da retenção do bem apreendido ao processo demandaria necessária incursão no contexto fático probatório dos autos, o que não se admite na via eleita, ante o óbice da Súmula 7/STJ. Confira-se:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO. APREENSÃO DE HELICÓPTERO UTILIZADO NO TRANSPORTE DE ENTORPECENTES. RESTITUIÇÃO DE COISA APREENDIDA. POSSIBILIDADE. TERCEIRO DE BOA-FÉ. PERÍCIA REALIZADA PELAS AUTORIDADES POLICIAIS. ACÓRDÃO A QUO FIRMADO EM MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. É possível a restituição de bens apreendidos antes do trânsito em julgado da sentença final, contudo a devolução depende do fato de os bens apreendidos não interessarem ao processo e de não haver dúvidas quanto ao direito sobre eles reivindicado (arts. 118 e 120 do CPP).
+2. Desconstituir a conclusão a que chegaram as instâncias ordinárias implica necessariamente a incursão no conjunto probatório dos autos, revelando-se inadequada a análise da pretensão recursal em razão do óbice da Súmula 7/STJ.
+3. O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+4. Agravo regimental improvido. (AgRg no REsp 1541017/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2015, DJe 10/11/2015).
+(..)
+Por fim, quanto à tese de excesso de prazo na apreensão do bem, não pode ser conhecida por esta Corte superior, na medida em que não foi objeto de exame pelo Tribunal de origem, não obstante a oposição de embargos de declaração, ressentindo-se o recurso, no particular, do requisito do prequestionamento, consoante o disposto na Súmula 211/STJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
+De fato, tendo o Tribunal de origem se manifestado no sentido de que o veículo apreendido era utilizado como meio de transporte para disseminação das drogas, havendo interesse na manutenção da constrição sobre o bem, como meio à elucidação do crime, não é possível rever tal posicionamento, nos termos do óbice da Súmula 7/STJ.
+Em relação à tese de excesso de prazo, conforme destacado na decisão agravada, embora tenham sido manejados embargos de declaração, não se alegou no recurso especial violação do art. 619 do Código de Processo Penal, a fim de suprir eventual omissão, ressentindo-se do indispensável requisito do prequestionamento, incidindo à espécie as Súmulas 282 do STF e 211 do STJ.
+Ante o exposto, voto por negar provimento ao agravo regimental.
