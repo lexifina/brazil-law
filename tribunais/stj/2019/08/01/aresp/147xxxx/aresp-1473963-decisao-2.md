@@ -1,0 +1,26 @@
+DECISÃO
+IVO [NOME] COSTA FILHO agrava de decisão que negou seguimento ao recurso especial, fundamentado no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+PENAL E PROCESSUAL PENAL. TRIBUNAL DO JÚRI. CRIME DE HOMICÍDIO QUALIFICADO (ART. 121, § 2º, IV, DO CÓDIGO PENAL). NULIDADES SUSCITADAS PELA DEFESA NÃO ARGUIDAS EM MOMENTO OPORTUNO. JULGAMENTO EM PLENÁRIO. PRECLUSÃO (ART. 571, VIII, DO CPP). REJEIÇÃO. PEDIDO DE ANULAÇÃO DA DECISÃO POPULAR. SUPOSTA CONTRARIEDADE ÀS PROVAS PRODUZIDAS NA INSTRUÇÃO. INOCORRÊNCIA. TESE ACUSATÓRIA ACOLHIDA PELO SOBERANO CONSELHO DE SENTENÇA. ALICERCE NO ACERVO PROBATÓRIO. PLEITO DE REDIMENSIONAMENTO DA REPRIMENDA: FUNDAMENTAÇÃO IDÔNEA EM RELAÇÃO AOS MOTIVOS DO CRIME. CONHECIMENTO E DESPROVIMENTO DOS RECURSOS. (e-STJ fl. 4.499)
+A defesa aponta a violação dos arts. 482, parágrafo único, 490, 564, parágrafo único, 593, § 3º, primeira parte, e 619, todos do Código de Processo Penal e 59 do Código Penal, alegando, em síntese, a nulidade do julgamento proferido pelo Tribunal do Júri, tendo em conta a existência de vícios na quesitação e a utilização de provas ilícitas para fundamentar o decreto condenatório. Sustenta, também, a inidoneidade do fundamento considerado para avaliar negativamente o vetor judicial dos motivos do crime, isso porque "a resposta negativa à qualificação do homicídio por motivo torpe obstaria, indisputavelmente, a que a motivação repelida pelos jurados fosse valorizada na construção da pena básica" (e-STJ fl. 4.627).
+Contrarrazões às e-STJ fls. 4.665/4.667.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso à e-STJ fls. 4.879/4.881.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Com relação à alegada nulidade do julgamento decorrente da existência de vícios na quesitação e na utilização de prova ilícita para fundamentar o decreto condenatório, o Tribunal de origem assim se pronunciou:
+A defesa dos apelantes acima identificados alegou duas nulidades ocorridas no julgamento em plenário, quais sejam, a ocorrência de vícios na formulação dos quesitos e a utilização de prova ilícita.
+Entretanto, tais argumentos restam preclusos. Segundo a ata do julgamento (fls. 3506-3509), não foi ventilada pela defesa qualquer nulidade quanto à quesitação ou utilização de eventual prova ilícita nos debates, ocorrendo a preclusão, nos termos do art. 571, VIII, do CPP. (e-STJ fl. 4.501 - grifo nosso)
+O entendimento acima está em perfeita harmonia com a jurisprudência desta Corte, assente no sentido de que, em atenção ao que estabelece o artigo 571, inciso VIII, do Código de Processo Penal, as nulidades ocorridas no Plenário do Júri, no que se refere à quesitação, devem ser apontadas no momento oportuno, sob pena de preclusão (ut, AgRg no REsp n. 1.500.980/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 24/3/2015)
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. NÃO CONHECIMENTO. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. HOMICÍDIO QUALIFICADO TENTADO. NULIDADE DO JULGAMENTO DO RÉU PELO TRIBUNAL DO JÚRI. JURADO QUE TERIA COCHILADO DURANTE OS DEBATES. INDEFERIMENTO DA JUSTIFICAÇÃO JUDICIAL AJUIZADA NA ORIGEM. EIVA NÃO ARGUIDA TEMPESTIVAMENTE. PRECLUSÃO. COAÇÃO ILEGAL NÃO CONFIGURADA. DESPROVIMENTO DO RECLAMO.
+ ..
+2. Nos termos do artigo 571, inciso VIII, do Código de Processo Penal, as eivas em plenário devem ser arguidas logo depois de ocorrerem, sob pena de preclusão.
+3. No caso dos autos, da leitura da ata da sessão de julgamento verifica-se que em momento algum a defesa alegou que um dos jurados teria cochilado ou dormido durante os debates, o que revela a preclusão da questão.
+ ..
+2. Agravo regimental desprovido. (AgRg no HC 487.748/MT, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 14/05/2019)
+Por fim, alega a defesa que "a resposta negativa à qualificação do homicídio por motivo torpe obstaria, indisputavelmente, a que a motivação repelida pelos jurados fosse valorizada na construção da pena básica."
+A dosimetria da pena foi assim decidida pelo Tribunal a quo:
+E, vencido este aspecto, passo a enfrentar a dosimetria da reprimenda (art. 593, III, c, do CPP), já que os recorrentes [NOME] e [NOME] requerem a redução de suas penas-bases.
+Verifico que as penas-bases de ambos os recorrentes foram fixadas um pouco acima do mínimo previsto (13 anos de reclusão) baseado unicamente na interpretação da circunstância judicial dos motivos do crime, efetivada de forma correta pelo magistrado singular, consistente em livrarem-se em definitivo de enorme dívida que possuíam ambos com a vítima, fundamentação concreta e idônea. (e-STJ fl. 4.511)
+Observa-se que a questão da inidoneidade do fundamento adotado para avaliar desfavoravelmente o vetor judicial dos motivos do crime não foi analisada pelo Tribunal de origem sob o viés trazido pelo recorrente, ressentindo-se o recurso especial, no ponto, do necessário prequestionamento. Incidência do enunciado n. 211 deste Tribunal.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
