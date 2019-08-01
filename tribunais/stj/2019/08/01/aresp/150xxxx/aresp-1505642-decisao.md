@@ -1,0 +1,58 @@
+EMENTA
+PENAL. HOMICÍDIO. RECURSO EXCLUSIVO DA DEFESA. INEXISTÊNCIA DE REFORMATIO IN PEJUS. FUNDAMENTAÇÃO. MESMA CIRCUNSTÂNCIA JUDICIAL NEGATIVADA PELO JUIZ A QUO. QUANTUM FINAL INALTERADO. CONHEÇO DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão do Tribunal de Justiça do Estado de Minas Gerais que inadmitiu o recurso especial em razão do óbice da Súmula 83/STJ (fls. 811-814).
+Consta dos autos que o recorrente foi condenado "nas sanções do art. 121, caput, do Código Penal (praticado contra a vítima A.S.O.), à pena de 07 (sete) anos de reclusão, em regime inicial semiaberto, e o absolveu quanto à imputação de tentativa de homicídio qualificado praticado contra a vítima I.C.S.S.C." (fl. 744).
+A apelação defensiva foi desprovido pelo Tribunal de origem nos termos da seguinte ementa (fl. 748):
+EMENTA: APELAÇÃO CRIMINAL - JÚRI - HOMICÍDIO SIMPLES - PENA - BASE - REDUÇÃO PARA O MÍNIMO LEGAL - IMPOSSIBILIDADE - EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL AO ACUSADO - REPRIMENDA FIXADA EM PATAMAR JUSTO.
+- Havendo circunstância judicial desfavorável, não há que se falar em redução da pena -base para o mínimo legal, restando a reprimenda do acusado fixada em patamar justo.
+Os embargos de declaração foram rejeitados (fl. 770-778).
+Nas razões do recurso especial interposto com fundamento na alínea a do permissivo constitucional (fls. 782-798), o recorrente alega violação aos artigos 617 do Código de Processo Penal e 59 do Código Penal, aduzindo a existência de reformatio in pejus, pois o acórdão recorrido, no julgamento do recurso exclusivo da defesa, "afastou a avaliação negativa inserida na sentença quanto à culpabilidade, conduta social, personalidade e motivos do crime" e de outro lado, "confirmou a consideração desfavorável das circunstâncias do crime e considerou, diversamente da sentença, os antecedentes criminais desabonadores" (fls. 785) .
+O recurso especial não foi admitido em razão do óbice da Súmula 83/STJ (fls. 811-814).
+Nas razões do agravo em recurso especial (fls. 818-828), alega a existência de entendimento desta Corte Superior "acolhendo a tese de reformatio in pejus quando houver reforma da sentença para considerar desfavorável circunstância judicial sopesada positivamente pelo Magistrado a quo" (fl. 821).
+O Ministério Público Federal se manifestou pelo não conhecimento do agravo em recurso especial (fl. 845).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Ao julgar o recurso defensivo, o Tribunal de origem assim julgou (fls. 744-756):
+"Trata-se de RECURSO DE APELAÇÃO interposto por [NOME], em face da sentença de f. 636/636-v, que, acatando a decisão do Júri Popular, o condenou como incurso nas sanções do art. 121, caput, do Código Penal (praticado contra a vítima A.S.O.), à pena de 07 (sete) anos de reclusão, em regime inicial semiaberto, e o absolveu quanto à imputação de tentativa de homicídio qualificado praticado contra a vítima I.C.S.S.C.
+ ..
+Cinge-se o inconformismo defensivo ao pedido de redução da pena -base para o mínimo legal.
+Todavia, tenho que razão não assiste à Defesa, uma vez que a pena finalmente estabelecida ao apelante restou concretizada em patamar justo, tendo sido ele, inclusive, beneficiado em sua aplicação, conforme se verá adiante.
+Pois bem, verifico que o douto Juiz a quo entendeu como desfavoráveis ao acusado as circunstâncias judiciais referentes à culpabilidade, conduta social, personalidade, motivos e circunstâncias do crime, fixando-a em 08 (oito) anos de reclusão.
+Quanto à culpabilidade embora o douto Sentenciante não a tenha fundamentado, entendo que ela se encontra dentro dos padrões de normalidade, não podendo ser considerada em desfavor do apelante. Ressalte-se que a forma de execução do delito de homicídio, a qual indica uma maior reprovabilidade da conduta do acusado no caso concreto, será sopesada na análise das circunstâncias do crime, tal como ocorreu na sentença.
+No tocante à conduta social e à personalidade do agente, não vislumbro nos autos elementos suficientes para aferi-las, consoante entendimento esposado pela mais abalizada doutrina. Confira-se:
+ ..
+Ao contrário do que entendeu o insigne Magistrado primevo, a existência de inquéritos e processos em andamento não se presta para aquilatar a conduta social e a personalidade do agente, ou mesmo, para elevar a pena -base, sob pena de violação ao princípio constitucional da presunção de não -culpabilidade.
+É o que dispõe a Súmula nº 444, editada pelo Superior Tribunal de Justiça:
+ ..
+Ao contrário do que entendeu o insigne Magistrado primevo, a existência de inquéritos e processos em andamento não se presta para aquilatar a conduta social e a personalidade do agente, ou mesmo, para elevar a pena -base, sob pena de violação ao princípio constitucional da presunção de não -culpabilidade.
+É o que dispõe a Súmula nº 444, editada pelo Superior Tribunal de Justiça:
+ ..
+Por esses motivos, considero positivas a conduta social e a personalidade do apelante.
+Em relação aos motivos do crime, devem ser eles considerados próprios do delito, eis que os jurados afastaram a qualificadora referente ao motivo torpe.
+Por fim, mantenho a análise desfavorável das circunstâncias do crime, as quais denotam, de fato, uma maior gravidade, visto que a vitima foi alvejada com 15 (quinze) disparos de arma de fogo, conforme se extrai do relatório de necropsia de f. 43/44 e do laudo de levantamento do local do homicídio de f. 140/144.
+Vale registrar que, embora o douto Sentenciante tenha considerado os antecedentes do acusado como "inexistentes", observa-se na CAC de f. 597/599 que ele é reincidente, ostentando uma condenação definitiva anterior aos presentes fatos pela prática do crime de furto, a qual também não foi sopesada como agravante.
+Assim, havendo uma circunstância judicial desfavorável ao acusado e, ainda, tendo sido ele beneficiado na dosimetria da pena (eis que não considerada a sua reincidência), entendo que o mais prudente e justo é manter a pena -base fixada na sentença em 08 anos de reclusão, não merecendo ser ela reduzida.
+Na segunda fase, reconhecida a atenuante da confissão espontânea, conservo a pena provisória do apelante em 07 (sete) anos de reclusão patamar em que restou concretizada, à míngua de outras circunstâncias a considerar.
+Mantenho, ainda, o regime semiaberto para o início do cumprimento da pena, a teor do art. 33, §2º, "b", do Código Penal, ressaltando que, diante da reincidência do acusado, o regime adequado à espécie seria o fechado, porém, ante a ausência de recurso ministerial a respeito, deixo de alterá-lo, para não incorrer em indesejável reformatio in pejus.
+Por fim, deixo de conceder ao apelante os benefícios da substituição da pena privativa de liberdade por restritivas de direitos e do sursis, em razão do quantum da pena aplicada, além de se tratar de crime cometido com violência à pessoa (art. 44, I e art. 77, caput, ambos do Código Penal).
+Mediante tais considerações, NEGO PROVIMENTO AO RECURSO, mantendo incólume a r. sentença fustigada" (destaquei)
+A proibição contida no art. 617 do Código de Processo Penal (reformatio pejus direta) impede o agravamento da pena imposta ao réu quando somente ele houver apelado da sentença condenatória. No entanto, o efeito devolutivo da apelação permite a reapreciação das circunstâncias do fato, autorizando nova ponderação acerca dos fatos, desde que isto não se traduza em agravamento da situação do réu.
+O entendimento desta Corte Superior é no sentido de que, "ainda que em sede de recurso exclusivo da defesa, é possível a revisão dos fundamentos apresentados na dosimetria da pena, desde que não modificada a quantidade de sanção imposta, sem que tal procedimento caracterize indevida reformatio in pejus" (AgRg no AREsp 993.413/PR, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 01/09/2017)
+In casu, com se percebe do excerto acima, não ocorreu a alegada reformatio in pejus direta, posto que o acórdão não ultrapassou o quantum final de pena fixado na decisão de primeiro grau e a Corte estadual, inovando na fundamentação, não reconheceu como negativa circunstância judicial não negativada na sentença de primeiro grau ao considerar como circunstância judicial desfavorável apenas a circunstâncias do crime (fl. 754) :
+"Por fim, mantenho a análise desfavorável das circunstâncias do crime, as quais denotam, de fato, uma maior gravidade, visto que a vitima foi alvejada com 15 (quinze) disparos de arma de fogo, conforme se extrai do relatório de necropsia de f. 43/44 e do laudo de levantamento do local do homicídio de f. 140/144.
+ ..
+Assim, havendo uma circunstância judicial desfavorável ao acusado e, ainda, tendo sido ele beneficiado na dosimetria da pena (eis que não considerada a sua reincidência), entendo que o mais prudente e justo é manter a pena -base fixada na sentença em 08 anos de reclusão, não merecendo ser ela reduzida."
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE. ACRÉSCIMO DE FUNDAMENTOS PELO TRIBUNAL A QUO. JUSTIFICATIVA IDÔNEA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO DA APELAÇÃO. REVALORAÇÃO DOS FATOS E CIRCUNSTÂNCIAS DO DELITO. POSSIBILIDADE. AUSÊNCIA DE PREJUÍZO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Esta Corte Superior de Justiça considera ser possível nova ponderação dos fatos e circunstâncias para manter o percentual de aumento da pena-base, mesmo tratando-se de recurso exclusivamente defensivo, sem que se incorra em reformatio in pejus, desde que não seja agravada a situação do réu. Ressalva do entendimento desta relatora.
+2. Agravo regimental a que se nega provimento." (AgRg no AREsp 1119616/MG, Sexta Turma, Rel. Ministra Maria Thereza de Assis Moura, DJe 18/09/2017)
+"HABEAS CORPUS. PENAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. MINORANTE PREVISTA NO ART. 33, § 4.º, DA NOVA LEI DE TÓXICOS. INAPLICABILIDADE NO CASO. AUSÊNCIA DOS REQUISITOS LEGAIS. INVERSÃO DO JULGADO. VIA IMPRÓPRIA. TESE DE OFENSA AO PRINCÍPIO DA NE REFORMATIO IN PEJUS. NÃO-OCORRÊNCIA. CONFIRMAÇÃO DA CONDENAÇÃO. SITUAÇÃO DO RÉU NÃO AGRAVADA. UTILIZAÇÃO DE MESMO FUNDAMENTO PARA CONFIGURAR MAJORANTE E NEGAR A APLICAÇÃO DE MINORANTE. CONSTRANGIMENTO ILEGAL INEXISTENTE. SEMI-IMPUTABILIDADE. GRADAÇÃO DA REDUTORA CONFORME O GRAU DE INCAPACIDADE DO RÉU DE ENTENDER O CARÁTER ILÍCITO DO FATO OU DE DETERMINAR-SE DE ACORDO COM ESSE ENTENDIMENTO. FALTA DE FUNDAMENTAÇÃO NÃO EVIDENCIADA.
+ ..
+3. Segundo o princípio da ne reformatio in pejus, o juízo ad quem não está vinculado aos fundamentos adotados pelo juízo a quo, somente sendo obstado no que diz respeito ao agravamento da pena, inadmissível em face de recurso apenas da Defesa. Inteligência do art. 617 do Código de Processo Penal. Precedente.
+ ..
+6. Ordem denegada." (HC 142.443/SP, Quinta Turma, Relª. Minª Laurita Vaz, DJe 02/02/2012)
+Dessa forma, estando o v. acórdão prolatado pelo eg. Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula n. 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, b, do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial.
+P. e I.
