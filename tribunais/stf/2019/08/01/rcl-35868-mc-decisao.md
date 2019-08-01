@@ -1,0 +1,43 @@
+Decisão: Trata-se de reclamação constitucional com pedido de medida liminar, proposta por Facebook - Serviços Online do Brasil Ltda, contra ato da Presidência do Colégio Recursal da Comarca da Capital do Estado da Bahia, nos autos do Processo 0144191-96.2018.8.05.0001.
+    Na petição inicial, a parte reclamante aduz, em síntese, que o juízo reclamado usurpa a competência desta Corte em razão da negativa de seguimento ao recurso extraordinário, bem como ao agravo interposto em seguida.
+    Sustenta que no presente caso o Agravo em recurso extraordinário foi interposto contra a decisão que inadmitiu o recurso por falta de pressuposto formal – demonstração de repercussão geral - e que é, portanto, recorrível pelo agravo previsto no art. 1.042 do CPC/15. (eDOC 1, p. 12)
+    Alega ainda que esse Supremo Tribunal já reconheceu a repercussão geral da matéria tratada nos autos do RE-RG 1.037.396 (tema 987), Rel. Min. Dias Toffoli, DJe 4.4.2018, paradigma da sistemática da repercussão geral.
+    Requer assim a concessão de liminar para suspender os efeitos da decisão reclamada e, ao final, a cassação do ato reclamado, com a determinação da remessa dos autos a esta Corte, para julgamento do recurso extraordinário interposto.
+    É o relatório.
+    Decido.
+    Conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência e garantia da autoridade de suas decisões (art. 102, I, “l”, da CF/88).
+    Nesse mesmo sentido, o Código de Processo Civil de 2015 estabelece o rol das hipóteses de cabimento da reclamação, conforme a seguir transcrito:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016)
+    IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (…). (Redação dada pela Lei nº 13.256, de 2016)”.
+    No caso dos autos, o ora reclamante interpôs recurso extraordinário contra acórdão da Primeira Turma Recursal da Comarca da Capital do Estado da Bahia, ementado nos seguintes termos:
+    “JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. RECURSO INOMINADO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS COM PEDIDO DE ARBITRAMENTO DE OBRIGAÇÃO DE FAZER. PERFIL FALSO EM REDE SOCIAL. PERFIL QUE INFORMA SER A AUTORA UMA ATRIZ PORNÔ. PEDIDO DE EXCLUSÃO DO PERFIL NÃO ATENDIDO. DECLARAÇÃO ‘EX OFFICIO’ DE INCOMPETÊNCIA ABSOLUTA EM RAZÃO DA MATÉRIA. ARTS. 18 E 19, § CONSUMIDOR POR EQUIPARAÇÃO. COMPETÊNCIA DO JUÍZO. VÍCIO DO SERVIÇO. OFENSA À HONRA PESSOAL E PROFISSIONAL. DANOS MORAIS ‘IN RE IPSA’ CONFIGURADOS E ORA FIXADOS EM R$ 10.000,00 (DEZ MIL REAIS). RECURSO PROVIDO.” (eDOC 9, p. 185)
+    A Presidência do Colégio Recursal negou-lhe seguimento, por entender ausente pressuposto formal de admissibilidade, nos seguintes termos:
+    “A teor do art. 102, III, § 3º, da Constituição Federal, a interposição de Recurso Extraordinário reclama a demonstração da repercussão geral das questões constitucionais nele ventiladas, seja no campo econômico, político, social ou jurídico, ultrapassando, assim, os limites dos meros interesses das partes envolvidas no litígio (art. 1035, § 1º NCPC).
+    Elevada à condição de requisito formal de admissibilidade do recurso, caberá ao recorrente reservar tópico específico da petição recursal para justificar a relevância da(s) matéria(s) impugnada(s), conforme exigência expressa no § 2º, do art. 1035, do NCPC, cuja omissão, seja no destaque preliminar, seja na própria fundamentação eficiente da alegada repercussão geral, implicará na recusa de admissão do Recurso Extraordinário, inclusive pelo próprio órgão jurisdicional a quo no exercício do juízo de admissibilidade nos termos consagrados pelo STF.
+    (...)
+    Aliás, em casos da espécie, o STF reiteradamente acusa inexistir questão constitucional a ser deslindada, não havendo até mesmo que se cogitar a existência de repercussão geral na hipótese à ensejar a apreciação da Suprema Corte, sepultando definitivamente o recurso ofertado.
+    Assim, ausente pressuposto formal de admissibilidade, nos termos fundamentos acima, NÃO ADMITO o Recurso Extraordinário interposto.” (eDOC 9, p. 251-252)
+    Inconformado, o reclamante interpôs agravo em recurso extraordinário, o qual teve o provimento negado, nos termos da seguinte ementa:
+    “Por outro lado, a norma do art. 1.042 do Código de Processo Civil é expressa ao dispor sobre o não cabimento do agravo dirigido ao STF contra decisão em que, em exame de admissibilidade de recurso extraordinário, se aplica entendimento firmado em regime de repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015)
+    (...)
+    O Supremo Tribunal Federal já firmou a orientação de que não caracteriza usurpação da competência do STF o não conhecimento pela Corte local do agravo previsto no art. 1.042, caput, do CPC nas hipóteses em que a negativa de seguimento do recurso extraordinário se deu exclusivamente com base na sistemática da repercussão geral, haja vista tratar-se de recurso manifestamente inadmissível. (...).” (eDOC 9, p. 284-285)
+    Destaco que o art. 1.042 do NCPC (art. 544 do CPC/1973) prevê o cabimento do agravo nos próprios autos somente contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, com a ressalva dos casos em que a inadmissão fundar-se na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos.
+    Nesse sentido, o Código de Processo Civil de 2015 assentou que o recurso cabível contra a aplicação da sistemática da repercussão geral pelo tribunal de origem é o agravo interno (art. 1.030, § 2º).
+    Todavia, no caso, observo que a negativa de seguimento do recurso extraordinário interposto pelo ora reclamante ocorreu com fundamento na inexistência pressuposto formal de admissibilidade (ausência de preliminar formal de repercussão geral) e não em razão da aplicação da sistemática de repercussão geral, na forma do art. 1.030, do NCPC, circunstância que, nos termos da jurisprudência pacífica, impediria a análise do agravo por esta Suprema Corte. Nesse sentido: ARE 939.213 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 20.4.2016 e Rcl 12060 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 11.4.2016.
+    Cumpre registrar que o agravo contra decisão que nega seguimento a recurso extraordinário, sem fundamento nos incisos I ou III do art. 1.030 do Código de Processo Civil, deve ser julgado pelo Supremo Tribunal Federal (art. 1.042 do CPC).
+    Dessa forma, como a autoridade reclamada deixou de remeter o recurso extraordinário com agravo proposto pelo reclamante ao STF sem vinculá-lo a recurso-paradigma de controvérsia submetida ao Plenário Virtual, me parece configurada a usurpação da competência desta Corte.
+    No mesmo sentido:
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. PROCESSO PENAL. RECURSO EXTRAORDINÁRIO INADMITIDO NA ORIGEM. RECURSO DE AGRAVO. COMPETÊNCIA DO STF. AGRAVO REGIMENTAL PROVIDO. 1. Não se tratando das hipóteses de aplicação de tese firmada em precedente derivado da sistemática de repercussão geral, cabe ao Supremo Tribunal Federal o julgamento de recurso de agravo que ataca a inadmissão de recurso extraordinário, forte na Súmula 727 desta Corte. 2. Agravo regimental provido.” (Rcl 17.205 AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe 11.4.2016).
+    Ante o exposto, presentes os pressupostos de periculum in mora e fumus boni iuris, defiro o pedido de liminar para suspender o curso do Processo 0144191-96.2018.8.05.0001, até o julgamento final desta reclamação.
+    Solicitem-se informações à autoridade reclamada (art. 989, I, NCPC).
+    Cite-se a parte interessada (art. 989, III, NCPC) .
+    Intime-se, se necessário, o reclamante para que forneça o endereço da parte beneficiária do ato impugnado nesta sede reclamatória, sob pena de extinção do feito (arts. 319, II; 321; e 989, III, do CPC).
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Publique-se.
+    Brasília, 1º de agosto de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
