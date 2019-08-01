@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE APROPRIAÇÃO INDÉBITA. ARTIGO 168, §1º, III, DO CÓDIGO PENAL. RECURSO INTEMPESTIVO. AGRAVO NÃO CONHECIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul que assentou:
+    "APELAÇÃO CRIMINAL. CRIMES CONTRA O PATRIMÔNIO. APROPRIAÇÃO INDÉBITA NO EXERCÍCIO ILEGAL DE PROFISSÃO. CONDENAÇÃO. INCONFORMIDADE DEFENSIVA.
+    1. NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA. A diligência postulada não se mostra imprescindível para a elucidação dos fatos, tendo a defesa deixado de renovar o requerimento durante a fase instrutória, omitindo o tópico, inclusive, em seus memoriais. De igual forma, de maneira correta foi levantado do decreto de revelia em desfavor do réu, que não compareceu na audiência de instrução de maneira injustificada. Diante do fato de o réu atuar em causa própria, foi nomeada a Defensoria Pública para atuar em sua defesa, que o fez de exerceu a defesa do réu durante a solenidade de forma satisfatória durante a solenidade. PRELIMINAR REJEITADA.
+    2. SUFICIÊNCIA DA PROVA. A prova oral e material é convergente pela palavra da vítima e documentos colacionados aos autos, restando comprovado que o apelante apropriou-se indevidamente do bem alheio
+    3. ELEMENTO SUBJETIVO DO TIPO. Para a caracterização do tipo penal em questão, necessária a demonstração da intenção do agente em apropriar-se do bem alheio, estando o dolo demonstrado no agir e vontade livre e consciente de apoderar-se da coisa alheia como se dono fosse, situação verificada nos autos.
+    4. DOSIMETRIA DA PENA. Exame do artigo 59 do Código Penal que autoriza a fixação da pena basilar em patamar superior ao mínimo legal, proporcional as circunstâncias do crime. Presente o aumento de pena previsto no artigo 168, § 1º, inciso III, uma vez que o crime foi praticado em razão da profissão do réu.
+    5. REGIME CARCERÁRIO. Mantido o regime inicial aberto, considerando a pena fixada, em atendimento ao art. 33, §2º, c, do Código Penal.
+    APELO DESPROVIDO”. (Doc. 7, p. 58-59)
+    Os primeiros embargos de declaração opostos foram rejeitados (doc. 7, p. 170). Os segundos embargos de declaração foram parcialmente acolhidos, a fim de sanar o erro material constante no acórdão embargado (doc. 8, p. 5). Em decisão monocrática do relator, os terceiros embargos não foram conhecidos. (Doc. 8, p. 20/21)
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, LIV e LV, e 93, IX, da Constituição Federal. (Doc. 8, p. 41-51)
+    A Vice-Presidência do Tribunal a quo, aplicando os Temas 339 e 660 da repercussão geral, não admitiu o recurso extraordinário, em decisão assim ementada:
+    “RECURSO EXTRAORDINÁRIO. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. INEXISTÊNCIA DE REPERCUSSÃO GERAL. OFENSA REFLEXA. TEMA 660 DO STF. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO. REPERCUSSÃO GERAL. TEMA 339 DO STF. NEGADO SEGUIMENTO AO RECURSO”. (Doc. 8, p. 74-84)
+    É o relatório. DECIDO.
+    Ab initio, cabem algumas considerações a respeito da tempestividade do agravo em recurso extraordinário, em matéria penal, após a entrada em vigor do Código de Processo Civil de 2015.
+    Observe-se, por oportuno, que o artigo 28 da Lei 8.038/1990 que fixava o prazo de 5 (cinco) dias para a interposição do agravo interposto em face da decisão denegatória de recurso extraordinário, e que vinha sendo aplicado aos processos de natureza penal foi expressamente revogado pelo artigo 1.072, IV, do Código de Processo Civil de 2015.
+    Assim, a teor do artigo 3º do Código de Processo Penal, bem como do artigo 314 do Regimento Interno do Supremo Tribunal Federal, o agravo em recurso extraordinário, em matéria penal, passa a ser regido pelo Novo Código de Processo Civil, que fixa o prazo de 15 (quinze) dias para sua interposição (artigo 1.003, § 5º, combinado com o artigo 1.042 do CPC/2015).
+    No entanto, a forma de contagem dos prazos do processo penal mantém-se regida pelo artigo 798 do CPP, que dispõe: “todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado”.
+    Nesse contexto, verifico que a parte recorrente foi intimada da decisão agravada em 11/6/2018 (doc. 8, p. 86). Entretanto, a petição de agravo foi recebida pelo protocolo do Tribunal a quo em 2/7/2018 (doc. 8, p. 97), após decorrido o prazo legal de 15 (quinze) dias corridos.
+    Ex positis, NÃO CONHEÇO do presente agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Brasília, 1º de agosto de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
