@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à procedência do pedido de obrigação de fazer relacionada à preservação ambiental de área previamente inundada e com risco de enchentes. No extraordinário, cujo trânsito busca alcançar, a recorrente afirma a violação dos artigos 2º, 20, inciso III, e 26, inciso I, da Constituição Federal. Afirma não ser responsável por proteção de curso d’água, em razão da não titularidade do bem pelo município. Diz indevido o pagamento de honorários periciais em ação ajuizada pelo Ministério Público.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Trata-se de ação civil pública com pedido liminar antecipatório proposta pelo Ministério Público do Estado de São Paulo em face do Município de Jandira. Alega o autor, em síntese, que a parte ré, pessoa jurídica de Direito Público é responsável por área previamente inundada e com risco de enchente, seja condenada à devida e periódica limpeza do braço de água tratado na inicial, afim tanto de preservar o bioma regional e de impedir futuros alagamentos e inundações. Atribuiu à causa o valor de R$ 150.000,00 (fls. 16).
+    [...]
+    Em razão da teoria da asserção, será considerada parte legítima para figurar no polo passivo da demanda se houver identificação entre os titulares dos direitos e obrigações, partindo-se da suposição de que são reais os fatos afirmados na inicial.
+    Cabe observar que o município recorrente é sim responsável pela conservação do rio Ribeirão Barueri-Mirim dentro de seus limites territoriais.
+    Consequentemente, o apelante é sim parte legítima para figurar no polo passivo, sendo sua efetiva responsabilidade questão concernente ao mérito.
+    O artigo 23, VI, da Constituição Federal fixa competência comum para a União, Estados, Distrito Federal e Municípios, no tocante à proteção do meio ambiente e combate à poluição em qualquer de suas formas. Já o artigo 24, VI e VIII, do mesmo diploma normativo, estabelece a competência concorrente dos entes federativos para legislar sobre conservação da natureza, defesa do solo e dos recursos naturais, proteção do meio ambiente e controle da poluição e responsabilidade por dano ao meio ambiente.
+    A Carta Magna também prevê, no artigo 225, caput, o direito de todos a um meio ambiente ecologicamente equilibrado e impõe ao Poder Público (União, Estados, Distrito Federal e Municípios) e à coletividade o dever de defendê-lo e preservá-lo para as presentes e futuras gerações.
+    Assim, é incumbência do Poder Público, em todos os níveis, o dever constitucional de garantir a saúde da população e a conservação do meio ambiente, o que é feito, dentre outras maneiras, pela preservação dos cursos d'água.
+    Destaca-se que a Constituição Federal considerou como bens da União e dos Estados os cursos d'água em geral (artigos 20, III e 26, I, CF). Esta titularidade, porém, não retira do Município a prerrogativa e o dever de proteção ambiental das águas que percorrem o seu território.
+    Prossigo.
+    Não se vislumbra na sentença qualquer violação ao princípio da separação dos poderes. Além do mais, não se está a modelar as políticas públicas ou as perfazendo, atividades típicas da função executiva, mas exercendo a função jurisdicional de assegurar o cumprimento de uma obrigação constitucional da municipalidade, após provocação do Parquet via ação civil pública, e não ex officio.
+    Quanto aos honorários periciais, houve intimação da apelante quanto à complementação dos honorários, tendo permanecido silente. Não obstante, sua condenação ao pagamento dos honorários periciais se deu em virtude de sua sucumbência, devendo, portanto, arcar com tais despesas.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    No tocante aos honorários periciais, acresce revelar o ato questionado interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter ao Supremo controvérsia que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 1º de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
