@@ -1,0 +1,17 @@
+DECISÃO
+PENA – SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITO – INVIABILIDADE.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Edvaldo Ramos Nobre Filho prestou as seguintes informações:
+    O Juízo da Terceira Vara Criminal da Comarca de Sorocaba/SP, no processo nº 0028558-63.2016.8.26.0602, condenou o paciente a 3 anos e 6 meses de reclusão, em regime inicial de cumprimento semiaberto, e ao pagamento de 499 dias-multa, ante prática das infrações previstas nos artigos 33, cabeça (tráfico de drogas), e 35, cabeça (associação para o tráfico), da Lei nº 11.343/2006. Na dosimetria, fixou as penas-base em 6 anos e 3 meses, para o delito de tráfico, e 3 anos e 9 meses, para o de associação, levando em conta o piso de 5 e o teto de 15 anos, quanto ao primeiro, e o mínimo de 3 e o máximo de 10 anos, no tocante ao segundo. Destacou a elevada quantidade de entorpecente apreendida – 4.388,87 gramas de maconha. Fez incidir, na fração de 2/3, a causa de diminuição alusiva à semi-imputabilidade. Concluiu pela impossibilidade da substituição da pena privativa de liberdade por restritivas de direito, aludindo ao artigo 44, inciso III, do Código Penal.
+    A Sexta Câmara de Direito Criminal desproveu as apelações interpostas pelo Ministério Público e pela defesa. De ofício, observado erro material, redimensionou a sanção definitiva em 3 anos e 4 meses de reclusão e 499 dias-multa, mantida a sentença condenatória. Assentou inadequada a conversão da pena privativa de liberdade em restritiva de direitos, tendo em vista a vedação contida na Lei de Drogas. O título condenatório transitou em julgado no dia 22 de março de 2019.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 503.610. O Relator indeferiu-o liminarmente. Ressaltou a inviabilidade da substituição da sanção por restritiva de direito, levando em conta a valoração negativa da circunstância judicial referente à quantidade de substância encontrada.
+    O impetrante alega a insubsistência dos fundamentos do Tribunal de Justiça, por meio dos quais afastada conversão da pena privativa de liberdade em restritiva de direitos, dizendo-os alicerçados na gravidade abstrata do crime. Segundo assevera, o Relator do habeas corpus formalizado no Superior Tribunal de Justiça acrescentou premissas não veiculadas pelo Tribunal estadual.
+    Requer, no campo precário e efêmero, a substituição da sanção privativa de liberdade por restritiva de direitos. No mérito, busca a confirmação da providência.
+    A fase é de apreciação da medida acauteladora.
+    2. Conforme assentado no ato condenatório, a valoração negativa das circunstâncias judiciais indica, nos termos do artigo 44, inciso III, do Código Penal, inadequada a conversão da pena privativa de liberdade por restritiva de direitos. O Tribunal de Justiça, ao desprover as apelações da defesa e do Ministério Público, fez ver expressamente a manutenção do decidido pelo Juízo, salvo no que diz respeito à correção de erro material alusivo ao cálculo da sanção. As razões lançadas na apelação, pelas quais seria inviável a substituição, ante o versado na parte final do § 4º do artigo 33 da Lei Antidrogas, apesar de insubsistentes, não se sobrepõem aos fundamentos da sentença. Observadas estas balizas, mostra-se ausente a inovação nas razões veiculada no habeas corpus do Superior Tribunal de Justiça.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 1º de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
