@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo interposto cujo objeto é decisão que negou seguimento a recurso extraordinário interposto pela Construtora Lix da Cunha contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO CÍVEL. EXECUÇÃO DE SENTENÇA. PRECATÓRIO. PARCELAMENTO NOS TERMOS DO ART. 78 do ADCT, COM A REDAÇÃO DADA PELA EMENDA CONSTITUCIONAL Nº 30. Sentença que julgou extinta a execução, acolhendo cálculos do DER, que excluíam a incidência de juros durante a moratória prevista no artigo 78 do ADCT. Nulidade reconhecida. Incidência de juros de 6% ao ano devida. Tema decidido nos autos, com preclusão da oportunidade de recurso. Recálculo da última parcela necessário, com a inclusão desses juros. Correção monetária que deve ser efetuada de acordo com a Lei nº 11.960/09 desde a entrada em vigor desta até 25 de março de 2015, e em seguida pelo IPCA-E, conforme definido pelo STF na modulação de efeitos da declaração de inconstitucionalidade proferida no julgamento das ADIs nºs 4.357 e 4.425. Recurso parcialmente provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI, LIV e LV; e 93, IX, da CF, bem como ao art. 78 do ADCT.
+    O Plenário Virtual do Supremo Tribunal Federal (STF), no julgamento do RE 1.169.289-RG (Tema 1.037), Rel. Min. Marco Aurélio, reconheceu a existência de repercussão geral da matéria quanto à incidência de juros de mora no período compreendido entre a data da expedição do precatório ou da requisição de pequeno valor (RPV) e o efetivo pagamento, tendo em vista a redação dada pela EC nº 62/2009 ao art. 100, § 12, da Constituição Federal.
+    Quanto à questão sobre os juros e correção monetária, o STF, nos autos do RE 870.947 (Tema 810), Rel. Min. Luiz Fux, reconheceu a existência de repercussão geral da matéria – constitucionalidade da aplicação dos critérios de correção monetária relativos à caderneta de poupança (Taxa Referencial TR) sobre os débitos da Fazenda Pública, conforme determina o art. 1º-F da Lei nº 9.494/1997, com a redação dada pela Lei nº 11.960/2009.
+    Cabe lembrar que o mencionado paradigma ainda não transitou em julgado.
+    Diante do exposto, com base no art. com base no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos ao Tribunal de origem, a fim de que seja observada a sistemática da repercussão geral (Temas 810 e 1.037).
+    Publique-se.
+          Brasília, 1º de agosto de 2019.
+Ministro Luís Roberto Barroso
+Relator
