@@ -1,0 +1,11 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL agrava da decisão que indeferiu o processamento do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que negou provimento ao recurso da acusação, a fim de manter a sentença absolutória.
+Alega o Parquet que o exame do objeto do especial, no qual é citada a violação dos arts. 19, parágrafo único, e 20, ambos da Lei 7.492/1986, prescinde do reexame de provas, visto que preexistente elementos concretos que justificam a condenação do réu pelos delitos imputados na denúncia. Por isso requer seja admitido e provido o recurso.
+Contrarrazoado o agravo (fls. 1.155-1.174), foram os autos ao Ministério Público Federal, que, em parecer do Subprocurador-Geral da República [NOME], se manifestou pelo seu provimento (fls. 1.182-1.191).
+Decido.
+A despeito da manifestação do Ministério Público Federal com atuação perante esta Corte, favorável à pretensão esboçada no recurso, penso que a decisão agravada não merece reparos.
+Deveras, a absolvição do acusado, segundo o acórdão, era impositiva em virtude da ausência de elementos que pudessem confirmar a autoria. Malgrado haja existido discussão acerca da configuração ou não de crime financeiro, tal circunstância não modifica a insuficiente comprovação da autoria, elemento este necessário para caracterização de todo delito.
+Não há como se pretender, sem que se faça o reexame do material cognitivo, infirmar a conclusão do Tribunal de origem, a fim de confirmar a autoria (incidência da Súmula n. 7 do STJ).
+Nesse sentido, é pacífica a jurisprudência desta Corte, segundo a qual "a modificação da conclusão fática alcançada pelas instâncias ordinárias acerca da comprovação da autoria e da materialidade delitivas, delineada após exauriente exame dos elementos probatórios produzidos durante a fase inquisitorial e em juízo, exigiria, necessariamente, aprofundado reexame de provas, o que não é possível nos limites estreitos do recurso especial" (AgRg no AgRg no AREsp n. 1.290.265/CE, Rel. Ministra Laurita Vaz, DJe 5/5/2019).
+À vista do exposto, com fundamento no art. 932, IV, "a", do CPC, c/c o art. 34, XVIII, "b", do RISTJ, nego provimento ao agravo em recurso especial.
+Publique-se e intimem-se.
