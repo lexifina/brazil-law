@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ fl. 366):
+ACIDENTE DO TRABALHO. BENEFÍCIO ACIDENTÁRIO. LER/DORT NOS MEMBROS SUPERIORES. MALES COLUNARES PRESENTES NEXO CAUSAL/CONCAUSAL E REDUÇÃO PERMANENTE DA CAPACIDADE LABORATIVA, O TRABALHADOR FAZ JUS AO AUXÍLIO-ACIDENTE. CONCESSÃO DO AUXÍLIO-ACIDENTE A PARTIR DA JUNTADA DO LAUDO PERICIAL AOS AUTOS. BENEFÍCIO CONCEDIDO SOB A ÉGIDE DA LEI Nº 9.528/97.
+(..)
+APELO VOLUNTÁRIO DO INSS E RECURSO DE OFÍCIO, ACOLHIDOS EM PARTE, COM OBSERVAÇÃO.
+Nas suas razões, o recorrente aponta, além de dissídio jurisprudencial, violação do art. 240 do CPC/1973 e do art. 86 da Lei n. 8.213/1991, sustentando que, na ausência de requerimento administrativo, o termo inicial do benefício deve ser fixado a partir da citação.
+Aduz que "o laudo pericial apenas norteia o livre convencimento do juiz, não representando o marco inicial da incapacidade" (e-STJ fl. 381).
+Sem contrarrazões. Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 428/429.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito tal registro, é cediço que "o termo inicial da aposentadoria por invalidez corresponde ao dia seguinte à cessação do benefício anteriormente concedido ou do prévio requerimento administrativo; subsidiariamente, quando ausente as condições anteriores, o marco inicial para pagamento será a data da citação" (AgInt no REsp 1.381.631/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 16/05/2017, DJe 23/05/2017).
+No caso concreto, o Tribunal de origem concedeu o benefício previdenciário desde a data da citação (e-STJ fl. 335), sendo reformado pelo acórdão recorrido, in verbis (e-STJ fl. 370):
+De outro lado, acerca do termo inicial do benefício, razão socorre a autarquia, posto que o marco de início do auxílio-acidente deve ser mesmo fixado na data da juntada do laudo pericial aos autos, quando o réu tomou conhecimento da efetiva existência de incapacidade laborativa decorrente dos da síndrome do ombro doloroso esquerdo e dos males colunares.
+Ora, no caso em lume estamos diante de doenças mesopáticas, ou seja, adquiridas, desencadeadas ou agravadas em função das condições especiais em que o trabalho é realizado e com ele se relacionam diretamente; portanto, elas não ostentam um marco preciso na linha temporal.
+Renove-se, somente com a realização do laudo pericial que se demonstrou o caráter irreversível das moléstias, de modo a gerar o direito ao benefício acidentário, afinal, não existe qualquer notícia de afastamento do segurado de suas atividades laborativas, com o gozo de auxílio-doença, para tratamento dos males no ombro esquerdo e na coluna.
+Portanto, o benefício - obrigação principal - deve ser concedido a partir da data da juntada do laudo pericial em Juízo 20/09/2016, fl. 318 -.
+Note-se que o auxílio-acidente, quanto ao seu marco inicial, encontra-se sob a égide do art. 86 da Lei nº 8.213/91, com redação dada pela Lei nº 9.528/97.
+Nesse contexto, reconhecida incapacidade parcial e o nexo causal entre a atividade laboral e a sequela sofrida pelo segurado, este faz jus ao auxílio-acidente a partir da cessação do auxílio-doença, ou na sua ausência, desde o requerimento administrativo, ou ainda a citação válida.
+Isso porque o "o laudo pericial não serve como parâmetro para fixar termo inicial de aquisição de direitos, mas apenas norteia o livre convencimento do juiz quanto aos fatos alegados pelas partes" (REsp 1681142/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 13/11/2018, DJe 21/11/2018).
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. AUXÍLIO-ACIDENTE. TERMO INICIAL: CITAÇÃO VÁLIDA. BENEFÍCIO NÃO PRECEDIDO DE AUXÍLIO-DOENÇA. PREMISSA FÁTICA DELINEADA PELAS INSTÂNCIAS ORDINÁRIAS. REVERSÃO QUE DEMANDARIA A INCURSÃO NA MATÉRIA FÁTICA, MEDIDA VEDADA EM SEDE DE RECURSO ESPECIAL. SÚMULA 7/STJ.
+1. O termo inicial do auxílio-acidente corresponde ao dia seguinte à cessação do auxílio-doença ou do prévio requerimento administrativo; subsidiariamente, quando ausente as condições anteriores, o marco inicial para pagamento de auxílio-acidente será a data da citação. Precedentes: AgRg no REsp. 1.360.649/SP, Rel. Min. BENEDITO GONÇALVES, DJe 26.5.2014; AgRg no AREsp. 485.445/SP, Rel. Min. HUMBERTO MARTINS, DJe 13.6.2014; AgRg no REsp. 829.979/SP, Rel. Min. VASCO DELLA GIUSTINA, DJe 6.2.2012.
+2. Hipótese em que o Tribunal de origem consigna que o auxílio-acidente não foi precedido de auxílio-doença, cujo pedido administrativo foi negado às fls. 19/22. Nesse contexto, a inversão do julgado na forma pretendida demandaria inevitável revolvimento de matéria fática, impossibilitada pelo teor da Súmula 7/STJ.
+3. Agravo Regimental do INSS desprovido.
+(AgRg no AREsp 811.334/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 09/08/2016, DJe 24/08/2016) (Grifos acrescidos).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial a fim de restabelecer a sentença, que fixou o termo inicial na citação.
+Publique-se. Intimem-se.
