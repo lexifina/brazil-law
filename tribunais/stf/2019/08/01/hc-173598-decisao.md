@@ -1,0 +1,18 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Roubo majorado. Dosimetria da pena. Regime inicial. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 521.235, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, pelo crime previsto no art. 157, § 2º, II, do Código Penal, vedado o direito de recorrer em liberdade.
+    3. Em seguida, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça. A Vice-Presidência do STJ indeferiu a medida cautelar.
+    4. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a imposição de regime inicial mais gravoso, assim como para a fixação da pena-base em patamar acima do mínimo legal.
+    5. Prossegue a narrativa para afirmar que “a mera sujeição de alguém a simples investigações policiais ou a persecuções criminais não basta, só por si ante a inexistência de condenação penal transitada em julgado -, para justificar o reconhecimento de que o réu não possui bons antecedentes”. De modo que, “a simples existência de situações processuais ainda não definidas revela-se insuficiente para legitimar a especial exacerbação da pena ou, então, para justificar a recusa jurisdicional de determinados benefícios legais que só podem ser negados àqueles que sofreram condenação penal irrecorrível”. Além disso, sustenta a aplicabilidade, no caso, do instituto da detração penal, destacando que o paciente está preso desde o dia 25.04.2018
+    6. A defesa requer a concessão da ordem a fim de reduzir a pena imposta ao acionante, fixar o regime inicial semiaberto e aplicar o instituto da detração penal.
+    Decido.
+    7. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF.
+    9. Inicialmente, registro que a alegação de vício na dosimetria da pena e a eventual aplicabilidade do instituto da detração penal não foram apreciadas pelo Tribunal Estadual, nem pelo Superior Tribunal de Justiça. O que impede o imediato exame das matérias pelo Supremo Tribunal Federal, sob pena de dupla supressão de instâncias.
+    10. Quanto ao mais, reconheço que a “imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719/STF). Mas o fato é que, na hipótese de que se cuida, o regime inicial fechado foi fixado com apoio em dados empíricos idôneos, extraídos da prova judicialmente colhida, notadamente “levando-se em consideração a gravidade em concreta do delito, praticado mediante violência e em superioridade numérica, denotando na execução do delito a periculosidade do agente, além de ser reincidente específico”.
+    11. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+                Brasília, 1º de agosto de 2019.
+Ministro Luís Roberto Barroso
+                            Relator
