@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL interpostos por DIRCEU [NOME] com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com o AgInt no REsp n. 1.513.065/RJ , proferido pela Primeira Turma, relativo à majoração de honorários advocatícios, quando o montante fixado for menor que 1% do valor da causa.
+Requer, desse modo, o provimento dos presentes embargos de divergência.
+É o relatório. Decido.
+Os embargos não reúnem condições de serem processados.
+Mediante análise dos autos, os embargos de divergência não foram instruídos com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+Percebeu haver a referida irregularidade no recolhimento do preparo, razão pela qual a parte foi intimada para regularizar o óbice. Porém, embora regularmente intimada para sanar referido vício, quedou-se inerte. Dessa forma, os embargos de divergência não foram devida e oportunamente preparados, incidindo na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ademais, verificou-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 7/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+Constatou-se também que os embargos de divergência trazem discussão acerca da fixação do valor de honorários advocatícios.
+Ocorre que, nos termos da jurisprudência pacificada do Superior Tribunal de Justiça, não há como admitir os embargos manejados, pois na hipótese mencionada inexiste divergência de teses jurídicas, mas apenas diferenças casuísticas na fixação do valor dos honorários advocatícios, o que não autoriza a abertura da presente via, uma vez que a aferição da razoabilidade ou não do quantum fixado está intrinsecamente atrelada à análise das particularidades de cada caso concreto.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c.c. art. 266-C, do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Determino a majoração dos honorários recursais em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, no importe de 15% sobre o valor já arbitrado de honorários sucumbenciais, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
