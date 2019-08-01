@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] e OUTRO, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO REIVINDICATÓRIA - POSSUIDOR DE BOA-FÉ - COMPROVAÇÃO DAS BENFEITORIAS REALIZADAS NO IMÓVEL - DIREITO À INDENIZAÇÃO - SENTENÇA ESCORREITA - RECURSO CONHECIDO E DESPROVIDO.
+Ainda que perdedor na ação reivindicatória, o possuidor de boa-fé que deu função social à propriedade, empreendendo recursos e desenvolvendo atividades agrícolas, deve ter assegurado o seu direito de retenção/indenização de benfeitorias, na forma prevista pelos arts. 1219 e 1.255, ambos do CC. (fl. 114)
+Alega, pela alínea "a" do permissivo constitucional, violação do art. 1.255 do CC, no que concerne à configuração da posse e realização de benfeitorias, trazendo o(s) seguinte(s) argumento(s):
+6. Ou seja, para a corte estadual o simples fato de o promovido ter edificado uma casa em imóvel urbano alheio lhe abonaria com a boa-fé e lhe autorizaria a indenização respectiva.
+7. Todavia, ao assim decidir, violou-se o artigo 1.255 do Código Civil.
+8. É que esse mesmo acórdão, que afirmou ser o recorrido possuidor de boa-fé pela simples ocupação e construção em imóvel alheio, concluiu que a origem da posse dele sobre tal imóvel, pertencente aos recorrentes, era e é injusta. (fl. 147)
+11. In casu, a boa-fé somente poderia ter origem no justo título ou quando o possuidor desconhecer ou ignorar os obstáculos que o impedem de adquirir o bem. Em outras palavras, a posse de boa -fé é aquela em que o possuidor tem a convicção de que o bem realmente lhe pertence, o que não é o caso dos autos.
+12. Isso porque, a ausência de contrato de compra e venda firmado com os apelantes/embargantes, únicos titulares dominiais, ou qualquer outra causa que justificasse a posse, somada à negligência do recorrido em olvidar a matrícula do imóvel, informando publicamente a propriedade do bem, afastam qualquer alegação de boa-fé e, por derivação, a pretensa indenização por benfeitorias em imóvel alheio. (fl. 148)
+25. E, ainda se admitisse como sendo de boa-fé a clandestina ocupação do recorrido, não demonstrou ele, pontualmente, a implementação de qualquer benfeitoria útil ou necessária com os respectivos valores de eventuais gastos, não se podendo, assim, pela incerteza decorrente, ser singelamente liquidado ou apurado aleatoriamente o propósito de indenização. (fl. 151)
+É o relatório.
+Decido.
+No que concerne ao recurso especial, quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
