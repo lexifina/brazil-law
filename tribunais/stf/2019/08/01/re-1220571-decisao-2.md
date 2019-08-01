@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Fundação dos Economiários Federais (Funcef). Aparelhado o recurso na afronta aos arts. 5º, XXXVI, 114, I e IX, 195, § 5º, e 202, caput, § 2º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O exame de eventual ofensa aos preceitos constitucionais indicados nas razões recursais, consagradores dos princípios da proteção ao direito adquirido, ao ato jurídico perfeito e à coisa julgada (art. 5º da Lei Maior), demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal, verbis:
+    "Recurso extraordinário representativo da controvérsia. Aplicação retroativa de lei mais benéfica às infrações de trânsito. Exegese das normas de trânsito. Interpretação realizada à luz das normas do Código Brasileiro de Trânsito revogado e do vigente. Matéria eminentemente infraconstitucional. Ausência de repercussão geral. 1. Não apresenta repercussão geral o recurso extraordinário que discute efeitos de normas de trânsito revogadoras e revogadas. 2. É pacífica a jurisprudência da Corte no sentido de que os conceitos dos institutos do direito adquirido, do ato jurídico perfeito e da coisa julgada não se encontram na Constituição Federal, senão na legislação ordinária, mais especificamente na Lei de Introdução às Normas do Direito Brasileiro. 3. Ausência de repercussão geral” (RE 657.871-RG, Rel. Min. Dias Toffoli, Pleno, DJe 17.11.2014).
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo não ocorrer afronta aos arts. 114, I e IX, 195, § 5º, e 202, caput, § 2º, da Constituição da República. Nesse sentido:
+    Ementa: PREVIDENCIÁRIO. DIREITO ADQUIRIDO AO RECEBIMENTO DE COMPLEMENTAÇÃO DE BENEFÍCIO DE ACORDO COM AS REGRAS VIGENTES NO PERÍODO DE ADESÃO AO PLANO DE PREVIDÊNCIA PRIVADA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL” (ARE 742083 RG, Relator(a): Min. Ricardo Lewandowski, julgado em 13.6.2013, PROCESSO ELETRÔNICO DJe-125 DIVULG 28.6.2013 PUBLIC 1º.7.2013).
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de agosto de 2019.
+Ministra Rosa Weber
+Relatora
