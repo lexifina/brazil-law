@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 1ª Turma Recursal do Rio Grande do Sul, que determinou a reabertura da instrução processual para que a prova pericial seja realizada (eDOC 35, p. 1).
+    Foram opostos embargos de declaração que restaram rejeitados (eDOC 42).
+    No recurso extraordinário (eDOC 47), interposto com fundamento no art. 102, III, da Constituição Federal, aponta-se violação aos arts. 1º, 5º, 6º, 194, 195, § 5º, 196, 201 e 203, do texto constitucional e art. 1º, 5º e 28 da Convenção sobre Direitos das Pessoas com Deficiência.
+    Nas razões recursais, em suma, alega-se que a decisão recorrida aplicou o princípio da isonomia de forma indevida e estendeu de forma indiscriminada o adicional de 25% a qualquer aposentadoria.
+    Aduziu, ainda, que violou o princípio da legalidade, por impor obrigação sem lei que a estabeleça e, inclusive, contra a lei que destina o adicional exclusivamente para a aposentadoria por invalidez.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 8.213/91 e Código de Processo Civil) e o conjunto probatório constante dos autos, consignou que a falta de realização da perícia médica motiva a necessidade de reabertura da instrução processual para que tal produção probatória seja realizada.
+    Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Analisando detidamente os autos verifica-se que não foi realizada perícia médica para verificação da alegada dependência de terceiros.
+    Portanto, superada a questão jurídica relativa ao direito de beneficiários de outras modalidades de aposentadoria, diversas da por invalidez, receberem o referido adicional, a falta da realização da aludida perícia motiva a necessidade de reabertura da instrução processual para que tal produção probatória ocorra”. (eDOC 35).
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. PERÍCIA MÉDICA. ADEQUAÇÃO E NECESSIDADE DA MEDICAÇÃO: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.080.347 AgR, Rel. Min. Cármen Lúcia (Presidente), Tribunal Pleno, DJe 30.5.2018).
+    “DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. DIREITO À SAÚDE. DELIMITAÇÃO DO OBJETO DE ABRANGÊNCIA DA AÇÃO CIVIL PÚBLICA. ANULAÇÃO DA SENTENÇA E REABERTURA DA INSTRUÇÃO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/1973. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido”. (ARE 921.654 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 22.2.2017).
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 1º de agosto de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
