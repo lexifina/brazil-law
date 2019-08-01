@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – PRECEDENTE DO PLENO – SEGUIMENTO – NEGATIVA.
+    1. Colho do ato recorrido os seguintes fundamentos:
+    APELAÇÃO CÍVEL TRIBUTÁRIO E CONSTITUCIONAL – MANDADO DE SEGURANÇA – CONTRIBUIÇÃO PARA O DESENVOLVIMENTO DA INSDÚSTRIA CINEMATOGRÁFICA NACIONAL (CONDECINE) – CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO – ARTIGO 149 DA CONSTITUIÇÃO FEDERAL - MEDIDA PROVISÓRIA N° 2.228-1/2001 – FORÇA DE LEI ORDINÁRIA (ARTIGO 62 DA CONSTITUIÇÃO FEDERAL) – PRESCINDIBILIDADE DE LEI COMPLEMENTAR VÍCIO DE INCONSTITUCIONALIDADE FORMAL NÃO CONFIGURADO – RECURSO DESPROVIDO.
+    1. Trata-se de apelação em mandado de segurança interposta por FOX FILM DO BRASIL LTDA em face de sentença que denegou a segurança pleiteada, objetivando a inexigibilidade da Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional - CONDECINE.
+    2. A contribuição em questão foi criada para financiar o desenvolvimento da indústria cinematográfica nacional, portanto, tendo seu objetivo voltado para a educação e para a cultura, muito embora possa também ter feição fiscal de caráter secundário.
+    3. Trata-se de espécie de contribuição de intervenção no domínio econômico, cujas regras estão delineadas no artigo 149 da Constituição Federal.
+    4. Quanto à obrigatoriedade de instituição de tributos por meio de lei complementar, o argumento não procede, vez que tal exigência não tem suporte na Constituição Federal. Embora o art. 146 da Carta estabeleça que cabe à Lei Complementar estabelecer normas gerais em matéria de legislação tributária, especialmente sobre definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados na Constituição, a dos respectivos fatos geradores e bases de cálculo; a interpretação que melhor se ajusta a este dispositivo é aquela que a vincula ao seu próprio inciso I.
+    5. Inexiste vício de inconstitucionalidade formal na Medida, Provisória n° 2.228-1, de 6 de setembro de 2001, que instituiu a Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional (CONDECINE).
+    6. Recurso da IMPETRANTE desprovido.
+    2. O acórdão recorrido está em harmonia com a jurisprudência do Supremo. Quando do exame do recurso extraordinário nº 635.682, relator o ministro Gilmar Mendes, com publicação no Diário da Justiça de 24 de maio de 2013, o Pleno apreciando o Tema nº 227 de repercussão geral, assentou a prescindibilidade de lei complementar na instituição de contribuição de intervenção no domínio econômico. Confiram o pronunciamento formalizado:
+    Recurso extraordinário. 2. Tributário. 3. Contribuição para o SEBRAE. Desnecessidade de lei complementar. 4. Contribuição para o SEBRAE. Tributo destinado a viabilizar a promoção do desenvolvimento das micro e pequenas empresas. Natureza jurídica: contribuição de intervenção no domínio econômico. 5. Desnecessidade de instituição por lei complementar. Inexistência de vício formal na instituição da contribuição para o SEBRAE mediante lei ordinária. 6. Intervenção no domínio econômico. É válida a cobrança do tributo independentemente de contraprestação direta em favor do contribuinte. 7. Recurso extraordinário não provido. 8. Acórdão recorrido mantido quanto aos honorários fixados.
+    No mais, a ofensa aos artigos 5º, inciso IX, 154, inciso I, 167, inciso IV e 170 da Constituição Federal não foi enfrentado pelo Órgão julgador. Apesar da interposição de embargos de declaração, não houve debate e decisão prévios sobre a questão constitucional. Frise-se que, no extraordinário, o recorrente não alega vício de procedimento.
+    4. Ressalvada a óptica pessoal, nego seguimento ao recurso.
+    5. Publiquem.
+Brasília, 1º de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
