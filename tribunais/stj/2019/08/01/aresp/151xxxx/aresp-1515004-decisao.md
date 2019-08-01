@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo apresentado pelo MUNICÍPIO DE CURITIBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - EXTINÇÃO - PRESCRIÇÃO - OCORRÊNCIA - CUSTAS PROCESSUAIS - INAPLICABILIDADE DOS ARTIGOS 26 E 39 DA LEI 6.830/1980 E DO ENUNCIADO Nº 3 DAS CÂMARAS DE DIREITO TRIBUTÁRIO DESTE TRIBUNAL - VARA ESTATIZADA - CUSTAS DEVIDAS - SÚMULA 72 DESTE TRIBUNAL DE JUSTIÇA - TAXA JUDICIÁRIA - ISENÇÃO CONCEDIDA NA SENTENÇA - RECURSO DESPROVIDO.
+1. Ao exequente incumbe a responsabilidade pelo ajuizamento da demanda no prazo legal e pela movimentação do processo, somente incidindo a Súmula 106, do egrégio Superior Tribunal de Justiça, quando a demora no andamento da ação é atribuível exclusivamente à máquina judiciária.
+2. O fato de o processo ter tramitado em serventia estatizada, cujo serviço é prestado por servidores públicos, não dispensa a Fazenda Pública do pagamento das custas processuais, consoante enuncia a súmula 72, deste Tribunal de Justiça.
+3. Apelação desprovida.
+Quanto à primeira controvérsia, alega violação do art. 174 do Código Tributário Nacional, no que concerne à interrupção da prescrição pelo despacho que ordenou a citação, trazendo o seguinte argumento:
+Portanto, tendo em vista que a prescrição interrompeu-se com o despacho que ordenou a citação, e que a demora no regular prosseguimento foi de responsabilidade do cartório, tem-se por óbvio que não se operou o lapso prescricional contra o Município de Curitiba.
+Conclui-se que o acórdão recorrido negou vigência ao artigo 174, parágrafo único, inciso I, do Código Tributário Nacional (fls. 89).
+Quanto à segunda controvérsia, alega violação do art. 25 da Lei n. 6.830/1980, no que concerne à necessidade de intimação pessoal da Fazenda Pública, trazendo o seguinte argumento:
+Se o Município não se manifestou nos autos é porque não foi intimado. Deveria o cartório ter realizado a intimação pessoal da Fazenda Pública, conforme prevê o artigo 25 da Lei n. 6.830/80, o que não ocorreu.
+Não há como exigir da Fazenda Pública a atuação no processo, se não lhe é informado, pessoalmente, conforme determina a lei, a realização ou não dos atos processuais que competem aos servidores do Poder Judiciário (fls. 89).
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o acórdão recorrido assim decidiu:
+A ação foi ajuizada em 26.11.2001, sendo que o despacho que determinou a citação do executado ocorreu na mesma data.
+Em 17.01.2012 o MM. Juiz da causa determinou que a escrivania certificasse em relação à devolução do mandado de citação, bem como determinou a intimação do exequente para se manifestar quanto ao seu interesse no prosseguimento do feito, mov. 1.1, fl. 03.
+Em 26.02.2015 foi realizada remessa dos autos à Procuradoria Municipal, que restituiu os autos em 30.05.2016, com requerimento de cumprimento do despacho anteriormente proferido pelo MM. Juiz da causa, mov. 1.1, fl. 06, e em 17.06.2016 requereu a citação da executada por carta com aviso de recebimento, mov. 1.1, fl. 10.
+Em 09.06.2017, mov. 7.1, determinou-se a intimação do exequente para se manifestar a respeito da eventual ocorrência da prescrição, sobrevindo a manifestação constante do mov. 10.1.
+De acordo com o artigo 174, do Código Tributário Nacional, o prazo prescricional da ação para a cobrança do crédito tributário é de 05 (cinco) anos, contados da data de sua constituição definitiva.
+Assim, transcorridos mais de 5 (cinco) anos da constituição do crédito tributário sem que tivesse se concretizado a citação válida do executado, impõe-se reconhecer a prescrição do direito creditício (fls. 71/72).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão totalmente dissociadas dos fundamentos utilizados no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Verifica-se que o recurso encontra-se deficientemente fundamentado, uma vez que as razões insertas no recurso não permitem a exata compreensão da controvérsia, na medida em que se encontram dissociadas dos fundamentos da decisão agravada, aplicando-se, ao caso, por analogia, o enunciado da Súmula 284/STF" (AgRg no AREsp n. 1.394.624/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/3/2019).
+Confiram-se ainda os seguintes precedentes: EDcl nos EDcl nos EAREsp n. 740.722/SE, relator Ministro Francisco Falcão, Corte Especial, DJe de 14/12/2017; e REsp n. 1.722.691/SP, relator Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe 15/3/2019.
+Quanto à segunda controvérsia, na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
