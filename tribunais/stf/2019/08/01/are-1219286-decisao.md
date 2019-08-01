@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “APELAÇÃO CRIMINAL. ROUBO. NULIDADE. CERCEAMENTO DE DEFESA. INOCORRENCIA. ABSOLVIÇÃO. INVIABILIDADE. I -A ausência de intimação pessoal da defensoria pública para a audiência, sendo nomeado advogado para o ato, tampouco a ausência do réu, por si só, não invalidam o processo, fazendo-se necessário a comprovação de prejuízo, máxime quando ocorrida a preclusão temporal. II - Não há que se falar em absolvição em face do princípio in dubio pro reo quando a prova produzida demonstra que o apelante foi o autor do roubo, o qual foi reconhecido pela vítima. III - APELO CONHECIDO E DESPROVIDO.”
+     O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação ao art. 5º, LV, da CF. Alega que “o recorrente, por ocasião da oitiva da vítima e testemunhas de acusação, encontrava-se na Casa de Prisão Provisória, e, apesar de devidamente intimado para comparecimento em audiência (fls. 133), não foi apresentado para a mesma (fls. 142)”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal (STF) rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660).
+    Ademais, a jurisprudência do STF é no sentido de que a demonstração de prejuízo, “a teor do art. 563 do CPP, é essencial à alegação de nulidade, seja ela relativa ou absoluta, eis que […] o âmbito normativo do dogma fundamental da disciplina das nulidades - pas de nullité sans grief - compreende as nulidades absolutas” (HC 85.155/SP, Relª. Minª. Ellen Gracie).
+    No caso, a parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se os seguintes trechos do voto condutor do acórdão ora recorrido:
+    “[...]
+    O cerceamento de defesa se dá quando há uma limitação na produção de provas de uma das partes no processo, que acaba por prejudicá-la em relação ao seu objetivo processual. Qualquer obstáculo que impeça uma das partes de defender-se da forma legalmente permitida gera cerceamento de defesa, causando a nulidade do ato e dos que se seguirem, por violar o princípio constitucional do devido processo legal.
+    Compulsando os autos, em especial o Termo de fl. 142, vê-se que a Defensoria Pública realmente não foi intimada pessoalmente para a audiência na qual foram ouvidas a vítima e as testemunhas arroladas pela acusação. Entretanto, tal fato não gerou nenhum prejuízo à defesa, tendo em vista ter sido nomeado defensor para o ato, o qual participou ativamente da audiência.
+    Ademais, na sequência, foi realizada outra audiência (fl. 147), na qual estiveram presentes o Defensor Público e o ora apelante, não havendo nenhum questionamento acerca da audiência anterior. De igual forma, em suas Alegações Finais, a Defensoria Pública mencionou o fato, mas não pugnou por nulidade.
+    Assim, inviável o reconhecimento da nulidade suscitada em face da preclusão e ausência de demonstração de prejuízo.
+    Pelas mesmas razões, não há que se falar em nulidade do feito por ausência de intimação do acusado para a audiência, máxime em que considerar a faculdade conferida à vítima e às testemunhas de deporem na ausência deste (art. 217 do CPP).
+    […].”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 1º de agosto de 2019.
+Ministro Luís Roberto Barroso
+Relator
