@@ -1,0 +1,20 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+REPRESENTAÇÃO PROCESSUAL - Morte do procurador, comunicada após 04 (quatro) anos do seu falecimento, quando, em ação de cobrança em fase de cumprimento de sentença, a parte tem seus bens penhorados - Suspensão do processo e nulidade dos atos praticados - Hipótese de descabimento - Proibição às partes que derem causa à nulidade alegá-la em seu proveito - Observância dos princípios de lealdade e boa- fé processuais (arts. 14 do CPC/1973 e 77 do novo Diploma Processual Civil) e da máxima de que ninguém pode se beneficiar de sua própria torpeza - Nulidade, ademais, que poderá provocar a desconstituição de decisão desfavorável ao executado, por via transversa Recurso improvido.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 180, 265, § 1º e 507, do CPC de 1973.
+Alega, em síntese, que demorou a tomar conhecimento da morte de seu advogado, não tendo agido de má-fé.
+É o relatório. DECIDO.
+2. Ao apreciar a controvérsia, o Tribunal de origem que a parte agravante deu causa à nulidade, tendo agido com deslealdade processual:
+Consta do instrumento que o agravante, que teve ação de cobrança movida contra si, só veio ter conhecimento da morte do seu patrono após 04 (quatro) anos do falecimento deste, quando teve seus bens penhorados, e mesmo assim, após conversar com o advogado da parte adversa (fls. 03).
+Ao saber do passamento de seu causídico, requereu a suspensão retroativa do processo, bem como a declaração de nulidade de todos os atos praticados até então.
+Tal pretensão não pode ser acolhida.
+São princípios do direito a lealdade e boa-fé processuais (arts. 14 do CPC/1973 e 77 do novo Diploma Processual Civil) e a máxima de que ninguém pode se beneficiar de sua própria torpeza (Nemo auditur propriam turpitudinem allegans).
+Daí, decorre ser defeso às partes que derem causa à nulidade alegá-la em seu proveito.
+No presente caso, o agravante deveria ter sido mais diligente, em especial, porque havia ação contra si, não sendo crível que, em momento algum, não tenha tido curiosidade de saber qual o resultado do recurso interposto pelo agravado, oportunidade em que poderia ter-lhe sido comunicado o falecimento de seu patrono.
+Ademais, diante de suas alegações recursais, nota-se que, ao pretender a nulidade dos atos processuais, praticados enquanto sua representação estava irregular, o acórdão que lhe foi desfavorável será anulado, e ele terá chance de nova apreciação da questão, agora à luz do novo entendimento do C. Superior Tribunal de Justiça, desconstituindo decisão desfavorável por via transversa, o que lhe é defeso, e indicando estar agindo com deslealdade processual.
+O acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e a parte recorrente não cuidou de impugnar todos eles, como seria de rigor.
+Assim, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. Ainda que assim não fosse, o acolhimento da pretensão recursal, a fim de verificar as alegações da parte agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
