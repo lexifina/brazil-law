@@ -1,0 +1,21 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROVIMENTO. CONVERSÃO EM RECURSO ESPECIAL.
+1. Diante da relevância das razões apresentados no agravo, deve ser determinada a sua conversão em recurso especial.
+2. AGRAVO EM RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por ARPEG CONSULTORIA E ASSESSORIA LTDA - ME, e, OUTROS, em face da decisão que negou seguimento a recurso especial, aviado pela alínea "a", do art. 105, III, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Em suas razões, a parte recorrente infirmou especificamente as razões da decisão agravada (e-STJ fls. 2.286-2.222).
+No recurso especial, os recorrente alegam ofensa aos artigos 85, 108, 234, 264, 280, 329, inciso I, e, II, 374, incisos II, e, III, 389, 485, inciso IV, e, 1.022, inciso II, do Código de Processo Civil/2015, e, 20 do Código Civil.
+Defendem, em síntese, negativa de prestação jurisdicional, eis que, o acórdão recorrido não teria se manifestado sobre todos os artigos de lei federal tidos pos violados.
+Sustentam a ocorrência de nulidade do acórdão recorrido, pois, "referido aditamento à petição inicial não poderia ter sido efetuado senão com o consentimento prévio dos Srs. PEDRO e GLADYS ou, na pior das hipóteses, considerando-se que estes foram revéis, senão depois de procedida nova citação dos réus. Isso porque, uma vez procedida as citações dos Srs. PEDRO e GLADYS - ocorridas, como visto, em 5 de novembro de 2003 (fls. 301) e 22 de março de 2004 (fls. 393), respectivamente, não poderiam os RECORRIDOS, em 10 de novembro de 2004, aditar a petição inicial, para o fim de incluir, no polo ativo da lide, terceiro que, a princípio, era estranho processo" (e-STJ Fl. 2.207). Desta feita, teria havido desrespeito ao princípio da estabilização subjetiva do processo, razão pela qual, seriam nulos todos os atos processuais posteriores à inclusão do Sr. [NOME].
+Alegam que "os RECORRENTES não são partes legítimas para figurar no polo passivo desta ação, não apenas em razão dos Srs. PEDRO e Gladys não serem mais sócios da ARPEG e do imóvel em questão não ser mais de propriedade dessa empresa, mas, também, porque, na hipótese dos autos, verifica-se um completo alheamento dos RECORRENTES em relação aos fatos e fundamentos jurídicos narrados na peticão inicial. Com efeito, a causa versada nestes autos não diz respeito aos RECORRENTES e não tangencia sua esfera de interesses (até porque, como dito, o imóvel penhorado às fls. 694 é de propriedade dos Srs. PEDRO e GLADYS), restando evidente que eles não possuem legitimidade para figurar no polo passivo da ação, em razão de jamais terem mantido qualquer relação de direito máterial com os RECORRIDOS" (e-STJ Fl. 2.212/2.213).
+Insurgem-se contra a desconsideração da personalidade jurídica, eis que, "o não houve qualquer confusão patrimonial que, às fls. 616, os próprios RECORRIDOS afirmaram expressamente que o bem penhorado "é, de fato e de direito, de propriedade dos executados" (e-STJ 2.217).
+Aduzem que "a aplicação do artigo 405 do Código Civil não pode ser interpretada de forma distorcida, já que os RECORRENTES não figuraram na relação processual desde o início da demanda e somente foram citados após a decisão que desconsiderou a personalidade jurídica da ARPEG" (e-STJ Fl. 2.219/2.220). Assim, requerem que os juros moratórios passem a incidir apenas a partir de 11 de junho de 2007, data em que ocorreu a citação válida dos RECORRENTES, e, não dos primitivos executados.
+Por fim, insurgem-se contra a distribuição da verba sucumbencial.
+É o relatório. Passo a decidir.
+Primeiramente, é importante esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 2/STJ.
+Ademais, para melhor análise da matéria trazida pelos recorrentes, determino a conversão do agravo em recurso especial.
+Ante o exposto, acolho o agravo para determinar a sua reautuação como recurso especial a fim de permitir melhor exame da controvérsia.
+Após a regularização do novo registro, voltem conclusos para julgamento.
+Intimem-se.
