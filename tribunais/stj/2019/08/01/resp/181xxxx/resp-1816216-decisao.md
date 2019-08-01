@@ -1,0 +1,10 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela União, com base na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF 1ª Região, em que se aponta, entre outras questões, violação do art. 1º-F da Lei n. 9.494/1997 (redação dada pela Lei n. 11.690/2009).
+É o relatório.
+Verifica-se que a questão jurídica objeto do presente recurso - aplicabilidade do art. 1º-F da Lei n. 9.494/1997, com redação dada pela Lei n. 11.960/2009, em relação às condenações impostas à Fazenda Pública, independentemente de sua natureza, para fins de atualização monetária, remuneração do capital e compensação da mora - constitui tema dos Recursos Especiais n. 1.495.144/RS, 1.495.146/RS e 1.492.221/PR, todos da relatoria do Ministro Mauro Campbell Marques, submetido ao rito dos recursos repetitivos, nos termos do disposto no art. 543-C do CPC e na Resolução STJ n. 8/2008, os quais se encontram com julgamento sobrestado até a apreciação do RE 870.947/SE pelo Supremo Tribunal Federal.
+Assim, o julgamento imediato do recurso especial seria prematuro.
+De outra parte, a admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos recursos interpostos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído, nesta Corte, o julgamento, seja o inconformismo apreciado na forma do art. 543-C, §§ 7º e 8º, do CPC.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação dos acórdãos representativos da controvérsia, o recurso especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou para que seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 543-C, §§ 7º e 8º, do CPC.
+Oficie-se ao Presidente do Tribunal a quo, caso ainda não o tenha sido, dando-lhe ciência do inteiro teor desta decisão, para que, em casos idênticos, seja adotado, naquela instância, o mesmo procedimento.
+Publique-se. Intimem-se.
