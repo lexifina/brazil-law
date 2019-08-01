@@ -1,0 +1,98 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e OUTROS, de decisão que inadmitiu recurso especial, com fundamento na alínea a do permissivo constitucional, contra acórdão assim ementado (fl. 1.126):
+APELAÇÃO CÍVEL E AGRAVO RETIDO. RESPONSABILIDADE CIVIL. SEGURO HABITACIONAL OBRIGATÓRIO. SENTENÇA IMPROCEDÊNCIA. AGRAVO RETIDO DA RÉ. AUSÊNCIA DE REITERAÇÃO. NÃO CONHECIMENTO. ART. 523, §1º, DO CPC/73. APELAÇÃO CÍVEL. CONTRATO DE MÚTUO VINCULADO A APÓLICE PRIVADA. RAMO 68. DANOS CAUSADOS POR VÍCIOS DE CONSTRUÇÃO. EXCLUSÃO CONTRATUAL. CLÁUSULA ABUSIVA. ARTS. 47 E 51 DO CDC. INEXISTÊNCIA DE RISCO IMINENTE DE DESABAMENTO. DANOS EXISTENTES NÃO COBERTOS. INDENIZAÇÃO INDEVIDA. DESNECESSIDADE DE ESCLARECIMENTO DO LAUDO PERICIAL POR NOVA PERÍCIA. AUSÊNCIA DE VÍCIO NA CLÁUSULA QUE ESTIPULA OS RISCOS ABRANGIDOS PELO SEGURO. ARTS. 757 E 760 DO CÓDIGO CIVIL. CLÁUSULA BENÉFICA AO CONSUMIDOR. AGRAVO RETIDO NÃO CONHECIDO. RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO.
+No recurso especial, a parte recorrente aponta violação dos arts. 371 do CPC/2015 e 51, incisos I e IV, § 1º, inciso II, 54, § 4º, da Lei nº 8.078/1990.
+Sustenta, em síntese:
+i) valoração equivocada das provas, pois o Tribunal local "não levou em conta as circunstâncias constantes dos autos (possibilidade de os danos progredirem, necessidade de reparos para manutenção da habitabilidade dos imóveis - sem riscos aos mutuários, comprometimento de componentes importantes dos imóveis, em especial a solidez e segurança que deles se esperam";
+ii) em razão da aplicação do CDC ao caso, a cláusula restritiva deve ser redigida em destaque e com clareza, bem como o contrato ser interpretado em favor do segurado (fl. 1.164);
+iii) a legitimidade da seguradora para responder pelos vícios existentes.
+Reitera o pedido de justiça gratuita.
+Contrarrazões apresentadas.
+Não tendo sido admitido o recurso na origem foi interposto o presente agravo.
+É o relatório. Passo a decidir.
+Cumpre salientar que o recurso foi interposto já na vigência do CPC/2015, de maneira que incide, na espécie, o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No que diz respeito a renovação da assistência judiciária gratuita em favor da parte agravante, a Corte Especial deste Superior Tribunal de Justiça, na sessão do dia 26.2.2015, com base na interpretação dos artigos 4º, 6º e 9º da Lei nº 1.060/1950, decidiu que o referido benefício, uma vez concedido, prevalecerá em todas as instâncias e para todos os atos processais, nos termos da ementa abaixo transcrita:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUSTIÇA GRATUITA (LEI 1.060/50, ARTS. 4º, 6º E 9º). CONCESSÃO. EFICÁCIA EM TODAS AS INSTÂNCIAS E PARA TODOS OS ATOS DO PROCESSO. RENOVAÇÃO DO PEDIDO NA INTERPOSIÇÃO DO RECURSO. DESNECESSIDADE. AGRAVO PROVIDO.
+1. Uma vez concedida, a assistência judiciária gratuita prevalecerá em todas as instâncias e para todos os atos do processo, nos expressos termos do art. 9º da Lei 1.060/50.
+2. Somente perderá eficácia a decisão deferitória do benefício em caso de expressa revogação pelo Juiz ou Tribunal.
+3. Não se faz necessário para o processamento do recurso que o beneficiário refira e faça expressa remissão na petição recursal acerca do anterior deferimento da assistência judiciária gratuita, embora seja evidente a utilidade dessa providência facilitadora. Basta que constem dos autos os comprovantes de que já litiga na condição de beneficiário da justiça gratuita, pois, desse modo, caso ocorra equívoco perceptivo, por parte do julgador, poderá o interessado facilmente agravar fazendo a indicação corretiva, desde que tempestiva.
+4. Agravo interno provido, afastando-se a deserção (AgRg nos EAREsp 86.915/SP, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 26/02/2015, DJe 04/03/2015).
+Nesse cenário, ficou assentado que eventual pedido de renovação apenas teria necessidade no caso de revogação do benefício no curso do processo ou de indeferimento anterior, não havendo previsão legal que determine referido pedido no caso da gratuidade de justiça já concedida. Assim, já tendo sido deferida a assistência judiciária gratuita anteriormente em favor da parte recorrente, fica dispensado novo exame do pedido em sede de recurso especial.
+Importante considerar que o Tribunal de origem interpretou as cláusulas contratuais e analisou todas as provas produzidas nos autos para concluir, de forma clara e fundamentada, concluiu que a prova pericial realizada nos autos apurou não existir risco iminente de desmoronamento, o que conduz a ausência de cobertura em razão da não ocorrência do sinistro, consoante se verifica dos excertos do voto condutor a seguir transcritos (fls. 1.132-1.136):
+ ..
+II.2. Cobertura securitária
+24. Reputada como abusiva a cláusula que impedia a indenização de vícios causados por agentes internos ou decorrentes da construção cabe analisar se os imóveis estão sofrendo algum dano coberto pela apólice de seguro. Assim, caso comprovada a ameaça de desmoronamento dos imóveis a seguradora teria a obrigação de indenizar os apelantes.
+25 . No mov. 1.74 foi apresentado laudo pericial, produzido em juízo, em relação aos imóveis de [NOME], o qual destacou a inexistência de risco de desmoronamento, constatando que os imóveis possuem patologia, mas estão estruturalmente estáveis:
+"Quesitos do juízo: (..)
+b) Os imóveis apresentam desmoronamento total, parcial ou ameaça de desmoronamento  Especificar os danos encontrados em cada imóvel.
+Os danos encontrados nos imóveis estão especificados no item 6 desse laudo.
+Desmoronamento total ou parcial não foi constatado na vistoria aos imóveis. A ameaça de desmoronamento - entendida como extrapolação da situação atual - com patologias mas estruturalmente estável - e que prenuncia evento futuro de desmoronamento - pode ser entendida como resultante dos danos observados e listados no item 6 desse laudo. A falta de estanqueidade dos pisos das áreas frias na forma como foram propostos no projeto original não são estanques à água, e portanto não garantem a estabilidade estrutural dos mesmos. Alguns mutuários providenciaram o revestimento com ladrilhos desta parte da edificação, porém, sem acompanhamento técnico. Também a natureza do sistema estrutural proposto pressupõe o uso das paredes como elementos de sustentação da edificação e que, portanto a alteração de sua geometria compromete a estabilidade da edificação. Em entrevistas com alguns proprietários e relendo os documentos fornecidos pelo empreendedor não identifiquei a observação para este detalhe importante para a segurança do usuário."
+"Quesitos dos requerentes:
+2) Quais os fatores que originaram tais danos e como se originaram
+As avarias observadas são decorrentes da baixa qualidade do material e mão de obra, empregados e da técnica de edificar pouco confiável e deficiência de projeto e especificações.
+(..)
+18) Conforme apólice de seguro habitacional, subitem 3.1 D, da Cláusula 3ª das Condições Particulares, o sinistro de desmoronamento parcial é a "destruição ou desabamento das paredes, vigas ou outro elemento estrutural". Há sinistro de desabamento parcial dos imóveis dos autores
+Não se verificaram danos aos imóveis decorrentes do evento de desmoronamento parcial ou total de paredes e/ou elementos estruturais do questionamento exceto os pisos dos boxes dos banheiros que da forma como foram propostos no projeto original não são estanques á água, e portanto não garantem a estabilidade estrutural dos mesmos (..)."
+"Quesitos da requerida (..)
+6) Há risco de desmoronamento do imóvel ou de algum de seus elementos estruturais  Caso positivo, qual a causa
+Resposta: há o risco progressivo caso não sejam sanados os problemas."
+26. Em relação ao imóvel do apelante [NOME] foi elaborado o laudo pericial de mov. 65.1, no qual também foi constatada a ausência de qualquer dos vícios cobertos, além de não ter sido observado qualquer dano, como se nota:
+"Quesitos do juízo:
+b) Os imóveis apresentam desmoronamento total, parcial ou ameaça de desmoronamento  Especificar os danos encontrados em cada imóvel.
+Resposta: Não constatei na data da vistoria desmoronamento total, parcial ou ameaça de desmoronamento do imóvel. Também não se observou danos significativos ao imóvel em questão.
+d) Os danos encontrados são decorrentes de obras externas necessárias à proteção do imóvel, não incluídas no projeto original
+Não verifiquei danos significativos no imóvel. A implantação do imóvel se deu de forma correta e consequentemente a ausência de sistema interno de drenagem de águas pluviais não gerou impacto nos elementos da edificação."
+27. Verifica-se da perícia, portanto, que parte dos danos causados ao imóvel são devidos a vícios inerentes à construção e não ocasionam risco de desabamento iminente, portanto estão fora da cobertura estipulada pelo item 3 da apólice de seguros.
+28. Outrossim, a perícia no tocante ao imóvel de [NOME] foi clara ao afirmar a inexistência de qualquer vício de construção, inclusive anexando fotos que comprovam a conclusão do perito, de modo que desnecessária a realização de nova perícia, nos termos do art. 480 do CPC/15.
+29. Tem-se, assim, que a cobertura pretendida pelos apelantes não encontra guarida na apólice de seguro firmada junto à seguradora, posto tratar-se de risco não coberto.
+ ..
+31. Deste modo, verifica-se incabível a indenização securitária pretendida pelos apelantes.
+32. Ainda, salienta-se que a cláusula 3.1. que dispõe sobre a cobertura securitária não é limitativa do direito do consumidor, mas sim cláusula que define a abrangência da cobertura securitária, de modo que ao declarar sua abusividade estar-se-ia diminuindo, em prejuízo do segurado, a abrangência do seguro.
+33. Ademais, as cláusulas que estabelecem os riscos cobertos são elementares ao próprio contrato de seguro, sem as quais ele estaria descaracterizado. Nesse sentido dispõe a doutrina:
+"O segurador não pode ser obrigado a incluir na garantia da apólice todos os riscos da mesma espécie. É preciso ter a liberdade de conceber os planos técnicos de acordo com a conveniência do próprio negócio, sob pena de não poder resguardar sua estabilidade necessária.
+(..)
+Diz o Código Civil que a apólice consignará os riscos assumidos (art. 1.434) e quando particularizar ou limitar os riscos do seguro não responderá por outros o segurado (art. 1.460)  art. 760 do Código Civil de 2002 . Ensina Clóvis Beviláqua, em comentário a este último dispositivo, que esta limitação é um dos cânones fundamentais do contrato de seguro: a responsabilidade do segurador é limitada ao risco assumido. Assim, no seguro de um prédio contra fogo, não responde o segurador pela destruição do mesmo ocasionada por necessidade pública, terremoto ou bombardeio.
+ ..
+34. Ainda, o art. 757 do Código Civil afirma que pelo contrato de seguro, o segurador se obriga a garantir interesse legítimo do segurado contra riscos predeterminados.
+35. Deste modo, não há como considerar exemplificativas as cláusulas que dispõe acerca da abrangência do seguro contratado, devendo-se rejeitar a alegação dos apelantes nesse sentido.
+36. Diante do exposto, voto por não conhecer do agravo retido da Companhia Excelsior de Seguros e por dar provimento parcial a apelação, reconhecendo a nulidade da cláusula contratual 4.2, alínea "f".
+Dessa maneira, de acordo com a jurisprudência do STJ, o magistrado é o destinatário das provas, cabendo-lhe apreciar livremente as provas apresentadas, devendo apenas fundamentar os motivos que lhe formaram o convencimento. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDEFERIMENTO DE PROVA. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. AUSÊNCIA. AGRAVO DESPROVIDO.
+1. Não há falar em cerceamento de defesa em razão da valoração promovida pelo magistrado das provas coligidas nos autos, porquanto no nosso sistema processual o magistrado é o destinatário da prova, cabendo-lhe, por força do artigo 131 do Código de Processo Civil de 1973, apreciar livremente as provas apresentadas, devendo apenas fundamentar os motivos que lhe formaram o convencimento.
+2. Diante de elementos substanciais para que o magistrado forme seu livre convencimento motivado  demonstrada a prestação dos serviços educacionais e não comprovado o efetivo pagamento nem a consignação em juízo, ônus que lhe competia  , não há que se falar em cerceamento de defesa
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1040522/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/08/2017, DJe 14/08/2017.)
+AGRAVO REGIMENTAL INTERPOSTO SOB A ÉGIDE DO CPC/1973. AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CIVIL. EMBARGOS À EXECUÇÃO. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. PROVA PERICIAL. ABUSIVIDADE DOS JUROS. REVISÃO. SÚMULA N. 7 DO STJ.
+1. Não viola o art. 535 do CPC o acórdão que, integrado pelo julgado proferido nos embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+2. O ordenamento jurídico, com amparo no art. 131 do CPC/73, adota o princípio do livre convencimento motivado, segundo o qual o juiz pode apreciar com liberdade as provas produzidas pelas partes.
+3. Incide a Súmula n. 7 do STJ se o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 846.321/RS, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 18/08/2016, DJe 01/09/2016.)
+Ademais, a tese trazida no recurso especial de que a seguradora tem legitimidade para responder pelos vícios existentes, não foi objeto de debate no acórdão proferido em apelação pelo Tribunal de origem. E não foram opostos embargos de declaração, visando a sanar eventual omissão. Desse modo, aplicáveis, no ponto, os enunciados 282 e 356 da Súmula do STJ.
+Assim, tendo em vista a falta do indispensável prequestionamento, não merece ser conhecido o tema infraconstitucional suscitado na petição do apelo especial.
+Com efeito, esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe de 15/09/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. PREVIDÊNCIA PRIVADA. ART. 884 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. 1
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Se a questão levantada não foi discutida pelo tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 562.067/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017)
+Por fim, em relação ao pedido para que a seguradora seja condenada ao pagamento da multa decendial, observa-se que a parte recorrente menciona o tema sem indicar qual dispositivo teria sido violado e, ainda, desacompanhado da argumentação jurídica pertinente, a fim de demonstrar o acerto de sua tese.
+Importante ressaltar que o recurso especial é um meio impugnativo processual de fundamentação vinculada, no qual o efeito devolutivo se opera nos termos do que foi impugnado. A ausência de indicação expressa de dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional foi, ou não, malferida, assim como a ausência das razões do inconformismo impede a compreensão exata da controvérsia.
+Dessa forma, é de rigor a incidência da Súmula 284 do Supremo Tribunal Federal. A propósito:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. ADMISSIBILIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. CONTRATO DE SEGURO. RESPONSABILIDADE DA SEGURADORA PELOS VÍCIOS DE CONSTRUÇÃO NO IMÓVEL FINANCIADO. AUSÊNCIA DE COBERTURA SECURITÁRIA. SÚMULAS N. 5 E 7 DO STJ.
+1. Atrai a incidência do óbice previsto na Súmula n. 284/STF a alegação de que o art. 535 do CPC foi violado desacompanhada de argumento que demonstre efetivamente em que ponto o acórdão embargado permaneceu omisso, contraditório ou obscuro.
+2. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+3. Nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+4. Concluir que a apólice contratada prevê a responsabilidade pelos prejuízos decorrentes da construção demanda a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos atos, o que é vedado em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+5. Agravo regimental desprovido.
+(AgRg no REsp 1305102/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/02/2016, DJe 19/02/2016)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
