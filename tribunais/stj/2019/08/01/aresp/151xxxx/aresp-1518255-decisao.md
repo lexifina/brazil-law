@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo apresentado por MARLUCE DA SILVA ALMEIDA, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim resumido:
+APELAÇÃO CÍVEL. USUCAPIÃO ESPECIAL RURAL. HERDEIROS. PERMISSÃO DE MORADIA. POSSE PRECÁRIA. PRECEDENTES JURISPRUDENCIAIS.
+1. São condições para a aquisição de imóvel por usucapião, o animas domini daquele que exerce a posse sobre o bem usucapiendo e a ausência de interrupção ou oposição.
+2. A permissão dos demais herdeiros do bem, copossuidores deste, para a ocupação do imóvel, ainda que por longo tempo, configura ato de mera tolerância, que afasta o animas domini e, consequentemente, impede a usucapião.
+RECURSO CONHECIDO E PROVIDO. DECISÃO UNÂNIME. (fl. 323)
+Alega, pela alínea "a" do permissivo constitucional, alega violação do art. 1.239 do CC, no que concerne ao cumprimento dos requisitos do usucapião especial rural, trazendo o(s) seguinte(s) argumento(s):
+No caso em apreço, como se perceberá no transcorrer deste recurso, a irresignação do Município de Maceió encontra respaldo no, data venha, desrespeito ao art. 1.239 do Código Civil e ao entendimento dos Tribunais sobre o tema. (fl. 372)
+Destaca-se que Restou provado, durante a instrução do processo, sem sombra de dúvidas, que a autora/recorrente tinha a posse mansa, pacífica, continua, ininterrupta, sem a oposição dos demais herdeiros por mais de cinco anos, conforme descreve a usucapião rural, bem como imóvel usucapiendo é menor que 50ha e a possuidora não é proprietária de outros imóveis, conforme certidão nos autos pag.32 dos autos. (fl. 373)
+Quanto à segunda controvérsia, pela alínea "c" do permissivo constitucional, alega divergência jurisprudencial.
+É o relatório. Decido.
+No que concerne ao recurso especial, quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Quanto à segunda controvérsia, na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que inexistente a necessária identidade jurídica e/ou similitude fática entre o acórdão recorrido e o(s) paradigma(s) indicado(s).
+Nesse sentido, o STJ fixou que: "O conhecimento da divergência jurisprudencial reclama a existência de similitude fático-jurídica entre o acórdão recorrido e os paradigmas submetidos a confronto" (EDcl no Resp n. 1.254.636/ES, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 23/4/2015).
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp n. 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; e AgRg no REsp n. 1.500.980/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/3/2015).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
