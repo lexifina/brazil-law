@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo apresentado por BRADESCO SEGUROS S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas a e c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL. MÚTUO HABITACIONAL. INVALIDEZ. COBERTURA SECURITÁRIA. DENUNCIAÇÃO DA LIDE. CONTRATO DE RESSEGURO. INADMISSIBILIDADE.
+Em relação à primeira controvérsia, pela alínea a do permissivo constitucional, alega violação do art. 206, § 1º, II, b, do CC, afirmando a ocorrência da prescrição da pretensão indenizatória em razão da inércia do titular do direito, trazendo os seguintes argumentos:
+A lei foi expressa ao consignar que o exercício do direito de ação pelo segurado contra o segurador prescreve em um ano, e ainda, que o termo inicial de fluência desse prazo é a ciência do fato gerador da pretensão.
+Como é sabido, quando a lei expressamente estabelece um prazo para o exercício da pretensão condenatória, ele deve ser estritamente cumprido sob pena de declaração de prescrição da pretensão diante da inércia do titular do direito lesado.
+O Código Civil prevê, expressamente, o prazo prescricional de 1 (um) ano para processo como o presente, tal como se pode observar abaixo:
+ ..
+No caso dos autos, ficou constatado que os apelados não deduziram pedido de cobertura securitária em face da apelante estando, portanto, prescrito qualquer direito em face da recorrente.
+Alternativamente, insta salientar que a incapacidade teria ocorrido em 1997 (fls. 465 da ação cautelar), contudo, apenas em outubro de 1998, houve pedido de cobertura pelo seguro (fls. 98).
+Corroborando o alegado pela CEF, em seus Embargos Declaratórios, notória a prescrição dado o prazo para o requerimento ter ultrapassado o limite temporal de um ano (fls. 800/801).
+Em relação à segunda controvérsia, pela alínea "c" do permissivo constitucional, alega dissenso jurisprudencial sobre a aplicação do art. 206, § 1º, II, b, do CC.
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o acórdão recorrido decidiu que "não corre a prescrição contra o incapaz que tenha discernimento reduzido" (CC de 1916, art. 169, I) (fl. 715).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, esta Corte Superior de Justiça já se manifestou no sentido de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n.º 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Quanto à segunda controvérsia, na espécie, não foi comprovada a divergência jurisprudencial, uma vez que não cumpridos os requisitos legais dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nesse sentido, os seguintes julgados: AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018; AgInt no REsp 1.696.707/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 12/3/2018; e AgRg no REsp 1.683.470/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 31/10/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
