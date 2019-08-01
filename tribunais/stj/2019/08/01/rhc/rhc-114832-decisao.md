@@ -1,0 +1,21 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE ATIPICIDADE. DECISÃO NA ESFERA CÍVEL QUE SUSPENDEU O TRÂMITE PROCESSUAL. CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO INALTERADO. POSSIBILIDADE DE PERSECUÇÃO PENAL. EXCEPCIONALIDADE NÃO CONFIGURADA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Recurso em habeas corpus improvido.
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME] - que responde pela suposta prática de crime contra a ordem tributária -, em que se aponta como autoridade coatora o Tribunal de Justiça de Pernambuco, que denegou a ordem no writ ali impetrado (Habeas Corpus n. 0005806-41.2018.8.17.0000), mantendo a decisão do Juízo de Direito da Vara dos Crimes contra a Administração Pública e a Ordem Tributária da comarca da Capital/PE, que manteve o trâmite da ação penal em curso (Autos n. 0008069-43.2018.8.17.0001).
+Aqui, alega-se constrangimento ilegal consistente na impossibilidade do seguimento da ação penal, uma vez que o juízo cível teria determinado a suspensão da exigibilidade dos créditos tributários em decisão liminar.
+Postula-se, ao final, o conhecimento e o provimento liminar do recurso, a fim de que seja suspenso o andamento da ação penal, nos termos propostos.
+É o relatório.
+Não observo nenhum constrangimento ilegal a ser reparado por esta Corte de Justiça.
+Com efeito, a suspensão da ação penal, conforme autoriza o art. 93 do Código de Processo Penal, é faculdade do magistrado, diante das particularidades do caso concreto.
+Ademais, esta Corte tem considerado particularidade apta a ensejar a suspensão do processo a efetiva desconstituição do crédito tributário por sentença judicial, mesmo com recurso pendente de julgamento, o que não é o caso dos autos, no qual a suspensão ocorreu por decisão liminar, portanto, de natureza precária (fls. 65/73).
+Nesse sentido:
+RECURSO EM HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. EXCEPCIONALIDADE NÃO CONFIGURADA. PEDIDO DE SUSPENSÃO DA AÇÃO PENAL. AÇÃO ANULATÓRIA NA ESFERA CÍVEL. CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO INALTERADA. PRESENÇA DE JUSTA CAUSA PARA A PERSECUÇÃO PENAL. INDEPENDÊNCIA ENTRE AS ESFERAS CÍVEL, CRIMINAL E ADMINISTRATIVA. SUSPENSÃO FACULTATIVA A CRITÉRIO DO JUÍZO CRIMINAL. ARTIGO 93 DO CÓDIGO DE PROCESSO PENAL - CPP. COAÇÃO ILEGAL INEXISTENTE. RECURSO AO QUAL SE NEGA PROVIMENTO.
+1. Este Sodalício pacificou o entendimento segundo o qual, em razão da excepcionalidade do trancamento da ação penal, tal medida somente se verifica possível quando ficar demonstrado - de plano e sem necessidade de dilação probatória - a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade.
+2. No caso concreto, busca-se o trancamento, ou a suspensão, da ação penal que apura a prática de crime contra ao ordem tributária, ao argumento de que a exigibilidade do crédito tributário está suspensa em razão de tutela antecipada concedida em ação anulatória que tramita na Vara da Fazenda Pública Estadual. Contudo, o mero ajuizamento de ação anulatória não desconstitui, per si, o crédito tributário. Persiste a condição de procedibilidade da ação penal exigida na Súmula Vinculante 24 do Supremo Tribunal Federal - STF, segundo a qual "não se tipifica crime material contra a ordem tributária, previsto no art. 1º, incisos I a IV, da Lei 8.137/1990, antes do lançamento definitivo do tributo." No caso em análise, é incontroverso que houve constituição definitiva do tributo e esgotamento da via administrativa.
+3. A suspensão do processo penal em virtude de questão prejudicial prevista no art. 93 do Código de Processo Penal - CPP é facultativa, dependendo da discricionariedade do juízo diante das particularidades do caso concreto. Precedentes.
+4. Esta Corte Superior tem admitido a suspensão da ação penal apenas na hipótese de desconstituição do crédito tributário por sentença judicial, mesmo com recurso pendente de julgamento, o que não é o caso dos autos. Precedentes.
+5. Recurso desprovido.
+(RHC n. 88.672/GO, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 28/11/2018 - grifo nosso)
+Posto isso, nego provimento ao recurso em habeas corpus.
+Publique-se.
