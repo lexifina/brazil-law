@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado de Goiás. Aparelhado o recurso na afronta ao art. 100 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “EMENTA: CONSTITUCIONAL. ICMS. REPARTIÇÃO DE RENDAS TRIBUTÁRIAS. PRODEC. PROGRAMA DE INCENTIVO FISCAL DE SANTA CATARINA. RETENÇÃO, PELO ESTADO, DE PARTE DA PARCELA PERTENCENTE AOS MUNICÍPIOS. INCONSTITUCIONALIDADE. RE DESPROVIDO. I - A parcela do imposto estadual sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, a que se refere o art. 158, IV, da Carta Magna pertence de pleno direito aos Municípios. II - O repasse da quota constitucionalmente devida aos Municípios não pode sujeitar-se à condição prevista em programa de benefício fiscal de âmbito estadual. III - Limitação que configura indevida interferência do Estado no sistema constitucional de repartição de receitas tributárias. IV - Recurso extraordinário desprovido” (RE 572762, Relator(a): Min. Ricardo Lewandowski, Tribunal Pleno, julgado em 18.6.2008, REPERCUSSÃO GERAL - MÉRITO DJe-167 DIVULG 04.9.2008 PUBLIC 05.9.2008 EMENT VOL-02331-04 PP-00737).
+    “EMENTA: DIREITO CONSTITUCIONAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. MANDADO DE SEGURANÇA. DESCUMPRIMENTO DE DECISÃO JUDICIAL DE OBRIGAÇÃO DE FAZER PELA FAZENDA PÚBLICA. REGIME DE PRECATÓRIO AFASTADO. PRECEDENTES. 1. O caso envolve descumprimento, pela Administração Pública, de obrigação de fazer determinada por decisão judicial transitada em julgada, o que afasta a exigência do regime de precatórios. Nesse sentido: RE 573.872-RG. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF). 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, em caso de unanimidade da decisão” (RE 636158 AgR, Relator(a): Min. Roberto Barroso, Primeira Turma, julgado em 30/06/2017, ACÓRDÃO ELETRÔNICO DJe-173 DIVULG 04-08-2017 PUBLIC 07-08-2017).
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 01 de agosto de 2019.
+Ministra Rosa Weber
+Relatora
