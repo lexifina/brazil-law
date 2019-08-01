@@ -1,0 +1,40 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL assim ementado:
+APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. FUNDACAO PETROBRAS DE SEGURIDADE SOCIAL - PETROS. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. UTILIZAÇÃO DO VALOR EFETIVAMENTE PAGO PELO INSS. IMPOSSIBILIDADE. DESEQUILÍBRIO ATUARIAL.
+Do litisconsórcio passivo necessário 1. No presente feito não incide a hipótese jurídica de litisconsórcio passivo necessário da patrocinadora, uma vez que, quando da aposentadoria da parte autora, houve a extinção do vínculo empregatício desta com aquela, de sorte que não há qualquer responsabilidade por parte daquela quanto ao pagamento da obrigação objeto do litígio, ou sequer qualquer obrigação de regresso a esse respeito. Preliminar afastada.
+Mérito do recurso em exame 2. Há que se definir qual o regulamento previdenciário é aplicável na hipótese em discussão. Note-se que o regulamento incidente no caso dos autos é aquele vigente na data em que o participante implementou todos os requisitos para que fosse concedida a vantagem pecuniária pretendida, de acordo com o plano de previdência privada fechada avençado entre as partes, cujo benefício suplementar é de ordem obrigacional. Precedente do STJ.
+3. Assim, ao aderir ao plano previdenciário o participante passa a deter uma expectativa de direito, a qual se implementará apenas quando reunidas as condições para obtenção do benefício a que faz jus. Desse modo, o direito somente é adquirido de fato no momento em que o beneficiário implementar todos os requisitos exigidos e instituídos no Regulamento do plano previdência suplementar ou complementar com o qual anuiu, logo, o exame da base de cálculo para percepção do benefício deve levar em conta este termo e não aquele em que estava por se formar a provisão do referido fundo previdenciário.
+4. É perfeitamente possível a realização de eventuais alterações regulamentares no curso da relação contratual, durante o período de contribuição para com o plano previdenciário, a fim de adaptar o custeio às vantagens a serem percebidas, de sorte a manter o equilíbrio financeiro para formação do fundo previdenciário e pagamento dos benefícios devidos. Inteligência do art. 17, parágrafo único da Lei Complementar n.º 109/2001.
+5. Por outro lado, verifica-se que o salário - real -de -contribuição da parte autora foi calculado levando em consideração determinado valor, que supostamente seria pago pelo INSS quando da aposentação, e sobre o resultado foi estabelecido o quantum aquela teria de pagar ao plano a título de contribuição.
+6. Entretanto, se o Instituto Nacional de Seguridade Social não aposentou a parte autora conforme era previsto, a Fundação não pode ter de arcar com este ônus, pois refoge de suas atribuições e ao estipulado contratualmente, o que se fosse suportado pela demandada importaria em evidente desequilíbrio atuarial.
+7. Portanto, deve ser considerado para solução do caso em análise o disposto no art. 68 da supracitada Lei Complementar, tendo em vista que o equilíbrio atuarial deve ser preservado entre a entidade de previdência e seus participantes, sob pena de se fragilizar o sistema financeiro daquela e inviabilizar o pagamento dos benefícios contratados em prejuízo da coletividade.
+8. Assim, é necessário o prévio custeio dos benefícios nos planos previdenciários privados, de ordem suplementar e complementar, a fim de ser obtido à vantagem contratada e pretendida, em atendimento ao princípio da solidariedade incidente no caso em análise.
+Inteligência dos artigos 202 da Constituição Federal e 1º da Lei Complementar n.2 109/2001.
+9. Por conseguinte, o Regulamento aplicável no presente caso é aquele que vigia na data em que a parte autora implementou os requisitos necessários para a aposentação e não aquele que vigorava na data da adesão, de forma a ser mantido o equilíbrio do plano de previdência privada fechada e não comprometer o sistema assistencial em questão.
+10. Os honorários advocatícios deverão ser majorados quando a parte recorrente não lograr êxito neste grau de jurisdição, independente de pedido a esse respeito, devido ao trabalho adicional nesta instância, de acordo com os limites fixados em lei. Inteligência do art. 85 e seus parágrafos do novel CPC.
+Negado provimento aos apelos.
+Nas razões do recurso especial (fls. 739-46), o recorrente alega, em apertada síntese, violação do art. 489, § 1º, do CPC/2015, sob o argumento de que o Tribunal de origem teria deixado de analisar pontos relevantes ao deslinde da causa.
+Contrarrazões às fls. 3309-3323
+É o relatório. DECIDO.
+2. Analisando as razões do recurso especial acostado às fls. 739-746, percebo que, apesar das diversas considerações postas nas razões recursais, houve indicação tão somente do art. 489, § 1º, do CPC/2015 como dispositivo de lei supostamente contrariado pela instância a quo.
+No apelo especial, o ora agravante afirma o seguinte (fls. 744-745):
+(..)
+Noutra quadra, em relação ao mérito da demanda, importa destacar que a decisão recorrida foi omissa quando ao requerimento "a" da inicial. foram opostos embargos declaratórios que continuaram sem entender o objeto da ação, acerca do erro grosseiro do valor atribuído à aposentadoria do INSS, que é componente da renda mensal inicial (RMI).
+28. Pois foi isso que ocorreu, porque a inicial, como se pode colher do início do texto elencando as perdas, no item 2, apontou que a Petros utilizou-se de VALOR DO INSS SUPERVALORIZADO, NO CÔMPUTO DA RENDA MENSAL INICIAL, DISSO RESULTANDO UMA REDUÇÃO ILEGAL DO VALOR DA COMPLEMENTAÇÃO.
+29. Depois, nos pedidos, o Recorrente REPETIU A MESMA ILEGALIDADE DECORRENTE DO VALOR SUPERFATURADO DO INSS, ROGANDO FOSSE JUDICIALMENTE AFASTADA.
+30. Posteriormente, na oportunidade fornecida as partes a formularem
+quesitos ao Sr. [NOME], sobreveio a seguinte resposta do nobre expert, em atenção ao Quesito nº 6 (fl. 405):
+a) O valor do beneficio do INSS, conforme "Detalhamento do Crédito" e o Extrato Semestral (fls. 15 e 16), no mês de 05/2008, ERA DE R$ 1.924,97. Contudo, no cálculo do complemento foi utilizado o valor de RS 2.866,72;
+31. Ainda, ao que se colhe, no anexo II da perícia realizada, APONTA QUE O VALOR DA COMPLEMENTAÇÃO, às fls. 422 (com o valor SUPERFATURADO NOINSS) APUROU uma complementação Petros de RS 6.674,80 e anexo III, fl. 423, INDICA QUE, com o valor do INSS correto, a complementação Petros deveria ser de RS 7.616,55, acarretando numa perda de R$ 942,00, desde a data da concessão do beneficio.
+(..)
+Ciente disso, assevero que a irresignação não merece prosperar.
+Isso porque o recorrente alega violação do art. 489, § 1º, do CPC/2015, tendo em vista as supostas omissões perpetradas pela Corte local, mas nem sequer opôs embargos de declaração para que o Tribunal a quo se manifestasse sobre as questões tidas por omissas.
+Desse modo, deve ser aplicada, por analogia, a Súmula 356/STF, segundo a qual "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA POR IDADE URBANA APLICABILIDADE DO ART. 3º, § 1º, DA LEI N. 10.666/2003. TESE NÃO PREQUESTIONADA. SÚMULA 282 DO STF. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO A FIM DE SANAR EVENTUAL VÍCIO DO ACÓRDÃO OBJURGADO. SÚMULA 356 DO STF.
+1. A tese segundo a qual o exercício do magistério em mais de um estabelecimento de ensino deve ser considerado como atividade única não foi debatida pelo Tribunal de origem. Incide à hipótese a Súmula 282/STF.
+2. A falta de oposição de embargos de declaração a fim de sanar eventual vício do acórdão recorrido, atrai a incidência da Súmula 356 do STF.
+3. Agravo interno não provido.
+(AgInt no REsp 1493765/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/03/2018, DJe 27/03/2018)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
