@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo apresentado por MUNICÍPIO DE SÃO PAULO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+MANDADO DE SEGURANÇA - ITBI - ORDEM CONCEDIDA PARA DETERMINAR QUE O ITBI TENHA COMO BASE DE CÁLCULO O VALOR VENAL UTILIZADO PARA O CÁLCULO DO IPTU- SEGURANÇA CONCEDIDA - RECURSO VOLUNTÁRIO E REEXAME NECESSÁRIO IMPROVIDOS
+Quanto à primeira controvérsia, pela alínea a do permissivo constitucional, alega violação dos arts. 141 e 492 do CPC, no que concerne ao reconhecimento de nulidade em razão de julgamento extra petita pela sentença e mantida pelo acórdão, e traz o(s) seguinte(s) argumento(s):
+Conforme a petição inicial, a impetrante pretende recolher o ITBI com a mesma base de cálculo do IPTU.
+O v. acórdão recorrido, contudo, manteve a r. sentença que analisou, além da base de cálculo do ITBI, também o momento da ocorrência do fato gerador do tributo.
+Assim, percebe-se que o v. acórdão apresenta nulidade ante o julgamento  extra petita , uma vez que o aspecto temporal do fato gerador do ITBI não foi objeto de discussão no mandado de segurança, mas somente o aspecto quantitativo relacionado ao valor da base de cálculo do tributo. (fls. 181).
+Quanto à segunda controvérsia, pela alínea a do permissivo constitucional, no que concerne à inadequação da via eleita em razão da necessidade de produção de provas em escala incompatível com o mandado de segurança, não indicou qualquer legislação violada.
+Quanto à terceira controvérsia, pela alínea a do permissivo constitucional, alega violação do art. 38 do CTN.
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Quanto à segunda controvérsia, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp n. 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/6/2018).
+Quanto à terceira controvérsia, na espécie, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Nesse sentido: "É inviável, em recurso especial, a revisão de julgado que possui fundamentação exclusivamente constitucional para declarar devida a paridade de remuneração entre trabalhadores ativos e inativos, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgInt no REsp n. 1.744.165/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019).
+Confiram-se ainda os seguintes precedentes: REsp n. 1.757.744/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/2/2019; e AgInt no REsp n. 1.503.220/SC, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 5/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
