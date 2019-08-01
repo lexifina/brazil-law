@@ -1,0 +1,43 @@
+DECISÃO
+
+Trata-se de recurso especial interposto por [NOME] e OUTROS com respaldo nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 195):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA IMPUGNAÇÃO. SERVIDORES DO IBAMA. DIFERENÇA REMUNERATÓRIA. INDENIZAÇÃO DE CAMPO. CÁLCULOS DE LIQUIDAÇÃO. CORREÇÃO MONETÁRIA. INCIDÊNCIA DO IPCA-E, CONFORME PREVISTO NO VIGENTE MANUAL DE ORIENTAÇÃO DE PROCEDIMENTOS PARA OS CÁLCULOS DO CJF. EXCLUSÃO DO PERÍODO DE RECEBIMENTO DA GACEN. MANUTENÇÃO. PARCIAL PROVIMENTO DO RECURSO.
+1. Agravo de instrumento contra decisão interlocutória proferida na fase de cumprimento de sentença coletiva que reconhece aos servidores do IBAMA o direito ao recebimento de diferenças da vantagem vencimental denominada "indenização de campo".
+2. Determinou o MM. Juiz "a quo" que fosse excluído, do cálculo de liquidação, o período em que os exequentes receberam a GACEN e o índice de correção a ser utilizado na vigência da Lei nº 11.960/90, que introduziu o art. 1º-F na Lei nº 9.494/97, seria a Taxa Referencial. Dessa forma, acolheu, parcialmente, a impugnação apresentada pela executada.
+3. Defendem os agravantes que a decisão merece reforma, porque não poderia afastar, na liquidação do julgado, o período do recebimento da GACEN, por se tratar de matéria preclusa, resolvida na fase cognitiva da ação, bem como que deve incidir o IPCA-E no período de vigência da Lei nº 11.960/90, ante a declaração de sua inconstitucionalidade pelo STF, ao julgar as ADIs nºs 4357/DF e 4425/DF.
+4. Constatação de que a decisão exequenda não tratou da acumulação das vantagens remuneratórias GACEN e "indenização de campo" e, sendo esta vedada por lei, não há censura, quando a decisão recorrida assim estabeleceu: "Ademais, deve ser feita uma interpretação restritiva do dispositivo do referido, sob pena de enriquecimento ilícito por parte dos substituídos que já recebiam outra decisum gratificação em março de 2008, de acordo com a Lei 11.784/2008." 5.Incabível a incidência da TR nos cálculos de liquidação, ante o julgamento do RE 870.947/SE pelo STF, com repercussão geral, ata divulgada no DJE de 22/09/2017, firmando a tese de que "o art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de Poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adeq uada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina." 6. Orientação jurisprudencial do c. STF no sentido de que "as decisões proferidas em sede de controle concentrado de constitucionalidade, em regra, passam produzir efeitos a partir da publicação, no veículo oficial, da ata de julgamento." - Rcl nº 6999 AgR.
+7. Agravo de instrumento parcialmente provido.
+Embargos declaratórios rejeitados (e-STJ fls. 246/247)
+No especial, a parte recorrente apontou violação dos arts. 474, 508 e 525, III, § 1º, do CPC/2015, sustentando a existência de excesso de execução, haja vista que a matéria suscitada nos embargos e acolhida pelo acórdão recorrido se encontrava preclusa, pois o título ora executado determinou que o cálculo fosse realizado até junho de 2008. Alegou, também, a ocorrência de dissídio jurisprudencial.
+Contrarrazões às fls. 293/298.
+Passo a decidir.
+O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, em relação à possível violação dos dispositivos invocados, observa-se que, para ser realizada sua análise, nos moldes trazidos pelos recorrentes, seria necessário o revolvimento de matéria fático-probatória constante nos autos, sobretudo para examinar se, de fato, haveria ou não excesso na execução, decorrente da inclusão de parcelas não contempladas no título executivo, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. CÁLCULOS. PRESUNÇÃO DE VERACIDADE. AFASTAMENTO. SÚMULA 7 DO STJ. INCIDÊNCIA.
+ ..
+2. A via do apelo excepcional não se presta para verificar excesso na execução de título judicial, pois essa medida demanda reexame do acervo fático-probatório dos autos, o que esbarra no óbice estampado na Súmula 7 do STJ.
+ ..
+(AgInt no AREsp 1.041.747/RS, Minha Relatoria, Primeira Turma, DJe 23/04/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO. CÁLCULOS DA CONTADORIA JUDICIAL. HONORÁRIOS ADVOCATÍCIOS. ALEGADA OFENSA AO ART. 535, II, DO CPC/73 (ART. 1.022, II, DO CPC/2015). INEXISTÊNCIA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. ACÓRDÃO RECORRIDO QUE, EM RAZÃO DA SUCUMBÊNCIA RECÍPROCA, DETERMINOU A COMPENSAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. REEXAME DE FATOS E PROVAS. INVIABILIDADE, ANTE O ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. O entendimento firmado pelo Tribunal a quo - no sentido de que não restou demonstrado, de forma precisa, o alegado excesso de execução, nem tampouco a imprecisão nos cálculos judiciais, confirmados pelo Juízo - não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte.
+IV. Ademais, "a jurisprudência do STJ é firme no sentido de que tecer considerações acerca dos critérios e informações contábeis utilizados para a liquidação da sentença exige incursão do STJ no conteúdo fático-probatório. Incidência da Súmula /7STJ" (STJ, REsp 1.622.353/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/02/2017).
+ ..
+(AgInt no AREsp 1.062.658/PI, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 10/10/2017, DJe 23/10/2017).
+No que diz respeito à divergência jurisprudencial alegada, esta se mostra prejudicada na medida em que a tese sustentada já foi afastada na ocasião do exame do recurso pela alínea "a" do permissivo constitucional.
+Nessa esteira é o entendimento desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANO AMBIENTAL. ALEGADA VIOLAÇÃO AOS ARTS. 489, § 1º, E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA, NOS MOLDES LEGAIS E REGIMENTAIS. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Ademais, na forma da jurisprudência, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (STJ, AgInt no AREsp 912.838/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/03/2017). Nesse sentido: STJ, AgInt no REsp 1.590.388/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/03/2017.
+VI. Agravo interno improvido.
+(AgInt no AREsp 1.146.384/SE, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe 12/12/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA QUE VERIFICOU A CONSONÂNCIA DO ACÓRDÃO DO TRIBUNAL A QUO COM A JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL SOBRE O TEMA. ANÁLISE PREJUDICADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO, NA ESPÉCIE. AÇÃO ORIGINÁRIA. MANDADO DE SEGURANÇA.
+ ..
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+ ..
+(AgInt no REsp 1.648.828/RS, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 16/11/2017).
+Registro, por fim, que não cabe o arbitramento de honorários advocatícios recursais, nos termos do § 11 do art. 85 do CPC/2015, quando o recurso é oriundo de decisão interlocutória sem a prévia fixação de honorários (AgInt no REsp 1.507.973/RS, Relator Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado em19/5/2016, DJe de 24/5/2016), como na hipótese presente.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
