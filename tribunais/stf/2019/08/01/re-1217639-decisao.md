@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CONCURSO PÚBLICO – VAGAS – SURGIMENTO – NOMEAÇÃO – DIREITO – PRECEDENTE – SEGUIMENTO – NEGATIVA.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à improcedência do pedido de nomeação para o cargo de Técnico Superior de Saúde/Enfermagem, em razão da aprovação fora do número de vagas previstas no edital, considerada a ausência de preterição. No extraordinário, a recorrente alega a violação do artigo 37, incisos IV e IX, da Constituição Federal. Sustenta o direito subjetivo à nomeação, tendo em vista a contratação de terceirizados para o exercício de idênticas funções.
+    2. A decisão recorrida está em harmonia com a jurisprudência do Supremo, consolidada quando do julgamento no Pleno, mediante o sistema da repercussão geral, do recurso extraordinário nº 837.311, relator ministro Luiz Fux, acórdão publicado no Diário da Justiça de 18 de abril de 2016. Eis a tese fixada::
+    O direito à nomeação do aprovado em concurso público exsurge nas seguintes hipóteses: 1 - Quando a aprovação ocorrer dentro do número de vagas dentro do edital; 2 - Quando houver preterição na nomeação por não observância da ordem de classificação; 3 - Quando surgirem novas vagas, ou for aberto novo concurso durante a validade do certame anterior, e ocorrer a preterição de candidatos de forma arbitrária e imotivada por parte da administração nos termos acima.”
+    O surgimento de novas vagas ou a abertura de novo concurso para o mesmo cargo, durante o prazo de validade do certame anterior, não gera automaticamente o direito à nomeação dos candidatos aprovados fora das vagas previstas no edital, ressalvadas as hipóteses de preterição arbitrária e imotivada por parte da administração, caracterizada por comportamento tácito ou expresso do Poder Público capaz de revelar a inequívoca necessidade de nomeação do aprovado durante o período de validade do certame, a ser demonstrada de forma cabal pelo candidato. Assim, o direito subjetivo à nomeação do candidato aprovado em concurso público exsurge nas seguintes hipóteses: 1 - Quando a aprovação ocorrer dentro do número de vagas dentro do edital; 2 - Quando houver preterição na nomeação por não observância da ordem de classificação; 3 - Quando surgirem novas vagas, ou for aberto novo concurso durante a validade do certame anterior, e ocorrer a preterição de candidatos de forma arbitrária e imotivada por parte da administração nos termos acima.
+    Da sentença expressamente mantida pelo acórdão recorrido, consta:
+    Em análise do acervo probatório dos autos, não houve comprovação cabal da inequívoca necessidade de nomeação de aprovados em face da demanda do serviço público, não tendo a autora se desincumbido do seu ônus probatório consoante art. 373, I do CPC.
+    [...]
+    Observa-se também que não há comprovação de que os 154 candidatos nomeados em excedentes são referentes ao mesmo cargo de enfermagem, como alega a parte autora na inicial.
+    Registro inexistir no acórdão recorrido qualquer alusão quanto à ocorrência das hipóteses que justificariam a nomeação.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 1º de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
