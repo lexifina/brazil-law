@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão em que se negou seguimento ao recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “DIREITO ADMINISTRATIVO. SERVIDORES. PROVENTOS. GRATIFICAÇÃO ESPECÍFICA DO MAGISTÉRIO SUPERIOR - GEMAS. RETRIBUIÇÃO POR TITULAÇÃO - RT.
+    1. Desconstituído o ato administrativo que promoveu a proporcionalização dos proventos dos substituídos em cumprimento à Orientação Normativa nº 06, do Ministério do Planejamento, Orçamento e Gestão, de 19/11/2007, editada em conformidade com o entendimento preconizado no Acórdão - TCU nº 2030/2007.
+    2. Determinado à ré que proceda à correção do cálculo das vantagens GEMAS, RT, deixando de realizar qualquer redução a esse título, independentemente da proporcionalidade de proventos advindos da aposentadoria auferida.
+    3. Condenada a UFSM a restituir os valores que porventura deixaram de ser pagos” (pág. 64 do documento eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se em suma, violação do art. 40, § 1°, III, b, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem, com base na interpretação da Lei 11.784/2008, concluiu que a apuração da Gratificação Específica do Magistério Superior e da Retribuição por Titulação não se vinculam à forma de concessão dos proventos de aposentadoria, seja proporcional ou integral, motivo pelo qual não pode haver qualquer redução nos valores pagos a esse título.
+    Assim, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame da legislação infraconstitucional aplicável ao caso, sendo certo que eventual ofensa à Constituição Federal seria apenas indireta. Nesse sentido, destaco os seguintes julgados desta Corte:
+    “Agravo regimental no recurso extraordinário. Servidor público. Gratificação de Desempenho de Atividade de Seguro Social (GDASS). Manutenção da pontuação. Impossibilidade. Princípios do devido processo legal e da prestação jurisdicional. Discussão acerca da proporcionalidade da gratificação estendida aos inativos que se aposentaram de modo proporcional. Controvérsia que demanda a análise da legislação infraconstitucional. Ofensa reflexa. Precedentes. Agravo regimental não provido” (RE 717.878-AgR/RS, Rel. Min. Dias Toffoli, Primeira Turma, grifei).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO – GDPST. APOSENTADORIA PROPORCIONAL. FORMA DE CÁLCULO DA GRATIFICAÇÃO. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 783.864-AgR/PR, Rel. Min. Cármen Lúcia, Segunda Turma, grifei).
+    Por fim, assinalo que este Tribunal, ao apreciar caso análogo, rejeitou a repercussão geral da discussão referente à forma de cálculo de gratificação, no caso de aposentadoria com proventos proporcionais, por estar a matéria restrita ao âmbito infraconstitucional. O acórdão do referido julgamento foi assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA PROPORCIONAL. GRATIFICAÇÃO. CÁLCULO. VALOR INTEGRAL. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. INEXISTÊNCIA DE REPERCUSSÃO GERAL” (ARE 808.997-RG/RS, Rel. Min. Luiz Fux, Tema 751)
+    Isso posto, nego seguimento ao recurso (art. 21, §1°, do RISTF).
+    Publique-se.
+    Brasília, 1° de agosto de 2019.
+Ministro Ricardo Lewandowski
+Relator
