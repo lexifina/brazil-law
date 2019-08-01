@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] e OUTROS, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÃO ORDINÁRIA DE INDENIZAÇÃO SECURITÁRIA - APÓLICE VINCULADA AO RAMO PRIVADO - ILEGITIMIDADE PASSIVA AD CAUSAM - CONTRATAÇÃO DE SEGURADORA DIVERSA PELA COHAPAR - EXTINÇÃO DA AÇÃO NOS MOLDES DO ARTIGO 267 VI DO CPC - ILEGITIMIDADE PASSIVA CONFIGURADA - DEMAIS RAZÕES PREJUDICADAS - RECURSO CONHECIDO E PROVIDO.
+Pela alínea "a" do permissivo constitucional, alega violação do art. 3º do CPC/73, no que concerne à legitimidade da recorrida para figurar no polo passivo da demanda.
+É o relatório. Decido.
+Na espécie, ficou assim decidido pelo Tribunal de origem:
+No que tange à ilegitimidade passiva, é de se salientar que, na formalização dos contratos pelo Ramo 66 (público), há um "pool" de seguradoras, por meio do qual estas se revezam na liderança da cobertura securitária, e todos os passivos e ativos compõem tal fundo, de modo que qualquer das companhias componentes pode responder pelo fundo.
+Entretanto, não é o que ocorre nas apólices vinculadas ao Ramo 61/65 e 68 (privadas), como no presente caso (fls. 915/916 -TJ). Nesta modalidade de contratação, a Companhia responsável pela construção, no caso, a COHAPAR, formaliza contrato com uma única Companhia de Seguros, que se responsabiliza pela cobertura de todos os mutuários que contrataram em um determinado período.
+Considerando as informações trazidas pela COHAPAR, no documento de fls. 915/916 - Ti, constata-se que a seguradora agravante não é a responsável pela cobertura securitária dos imóveis dos requerentes (fl. 993).
+Incide, portanto, o óbice da Súmula n. 5 do STJ ("A simples interpretação de cláusula contratual não enseja recurso especial"), uma vez que a pretensão recursal demanda reexame de cláusulas contratuais.
+Nesse sentido: "E mesmo se superado tal obstáculo, constata-se que a controvérsia foi dirimida pelo Tribunal a quo com base na análise e interpretação de cláusulas contratuais, fato esse que impede o exame da questão por esta Corte, em face da vedação prevista na Súmula n. 5/STJ" (AgInt no AREsp n. 1.298.442/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no REsp n. 1.476.562/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 22/3/2019; AgInt nos EDcl no AREsp n. 1.278.998/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/3/2019; AgInt no AREsp n. 1.297.507/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/2/2019; e AgInt no REsp n. 1.768.401/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
