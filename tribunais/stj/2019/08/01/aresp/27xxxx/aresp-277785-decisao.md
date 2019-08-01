@@ -1,0 +1,15 @@
+DECISÃO
+De acordo com os autos, o Tribunal de origem julgou parcialmente procedente o pedido em Ação Civil Pública ajuizada pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, para o fim de condenar o ora agravante [NOME] apenas na obrigação de "abster-se da prática de toda e qualquer cirurgia destinada ao tratamento da obesidade mórbida apenas, indemonstrada que ficara a situação de perigo quanto aos demais tipos de cirurgia ou do exercício da medicina em outra de suas diversas áreas, assim como para impedi-lo de tomar parte das atividades da empresa Opperamus na prática cirúrgica cuja abstenção ora se lhe impõe" (fl. 2.120e).
+Na petição de fls. 2.420/2.421e, é juntada a certidão de óbito de [NOME].
+Intimado, o Ministério Público do Estado do Rio de Janeiro informou que:
+"De se notar que a questão de fundo objeto do Recurso Especial interposto pelo mesmo e pela sociedade empresária da qual fazia parte, Opperamus - Serviços Médicos de Cirurgia e Vídeo-Laparoscopia Ltda., diz respeito apenas à condenação do Sr. [NOME] a abster-se da prática de toda e qualquer cirurgia destinada ao tratamento da obesidade mórbida, com impedimento de participação na empresa Opperamus na mesma prática cirúrgica, obrigação personalíssima em que não há que se cogitar do interesse de eventuais herdeiros.
+Assim, requer o Ministério Público seja o Recurso Especial de [NOME] e Opperamus - Serviços Médicos de Cirurgia e Vídeo-Laparoscopia Ltda. julgado prejudicado ante a perda de seu objeto, ressaltando que não persiste seu interesse no julgamento do Recurso Especial de fls. 2295ss, diante da jurisprudência consolidada desta C. Corte" (fl. 2.430e).
+Após a determinação de suspensão do processo, nos termos do art. 265, I, do CPC/73 (fl. 2.435e), foi determinada a intimação do patrono de [NOME], para que informasse acerca da existência de sucessores do agravante falecido (fl. 2.442e).
+Em resposta, o advogado informou que "não tinha contato direto com o falecido ou com sua família porquanto sua relação profissional restringia-se a confecção de peças com o outro advogado que atuou no processo, não sabendo informar a respeito de sucessores" (fl. 2.446e).
+Reexaminando os autos, verifico que assiste razão ao Ministério Público do Estado do Rio de Janeiro, no sentido de que a condenação imposta na origem consiste em "obrigação personalíssima em que não há que se cogitar do interesse de eventuais herdeiros".
+Assim, a conjugação de tal fato com a desistência, pelo Parquet estadual de seu Agravo em Recurso Especial, conduz, necessariamente, à extinção do processo, sem julgamento do mérito, nos termos do art. 485, IX, do CPC/2015, que assim determina:
+"Art. 485. O juiz não resolverá o mérito quando:
+(..)
+IX - em caso de morte da parte, a ação for considerada intransmissível por disposição legal."
+Ante o exposto, (a) homologo o pedido de desistência recursal formulado pelo Ministério Público do Estado do Rio de Janeiro; e (b) julgo extinto o processo, sem resolução do mérito, nos termos do art. 485, IX, do CPC/2015. Sem condenação em honorários advocatícios e em custas processuais, nos termos do art. 18 da Lei 7.347/85.
+I.
