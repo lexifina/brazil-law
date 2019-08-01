@@ -1,0 +1,50 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. PLANOS DE SAÚDE. ILEGITIMIDADE PASSIVA DA ESTIPULANTE/EX-EMPREGADORA. MANUTENÇÃO DE EMPREGADO APOSENTADO OU DEMITIDO SEM JUSTA CAUSA. MESMAS CONDIÇÕES DE COBERTURA ASSISTENCIAL. ART. 31 DA LEI 9656/98. VALORES DIFERENCIADOS PARA EMPREGADOS ATIVOS E INATIVOS. IMPOSSIBILIDADE.
+1. Ação de obrigação de fazer.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A empresa estipulante não possui legitimidade para figurar no polo passivo de demanda proposta por ex-empregado que busca, nos termos dos arts. 30 e 31, ambos da Lei 9.656/98, a permanência em plano de saúde coletivo após a cessação do vínculo empregatício. Súmula 568/STJ.
+5. O "pagamento integral" da redação dos arts. 30 e 31, ambos da Lei 9.656/98 deve corresponder ao valor da contribuição do ex-empregado, enquanto vigente seu contrato de trabalho, e da parte antes subsidiada por sua ex-empregadora, pelos preços praticados aos funcionários em atividade, acrescido dos reajustes legais. A parcela da contribuição a ser assumida pelo beneficiário poderá variar conforme as alterações promovidas no plano paradigma, sempre em paridade com o que a ex-empregadora tiver que custear. O plano paradigma, cujas alterações determinam variação na parcela a ser assumida pelo beneficiário aposentado, é aquele vigente para os beneficiários que continuam na ativa. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+6. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+DECISÃO
+Cuida-se de recurso especial interposto por BRADESCO SAUDE S/A, fundamentado na alínea "a" do permissivo constitucional.
+Recurso Especial interposto em: 31/10/2018.
+Concluso ao gabinete em: 13/05/2019.
+Ação: de obrigação de fazer, ajuizada por JOSE [NOME], em face da recorrente, visando à sua manutenção e de seus dependentes nos quadros do plano de saúde coletivo ofertado por ex-empregadora ([NOME]), em razão da cessação do vínculo empregatício por demissão sem justa causa, após 33 anos de serviços prestados, nas mesmas condições de cobertura e assistência que usufruía enquanto empregado da ativa, assumindo o pagamento também da cota parte do referido ex-empregador.
+Sentença: julgou procedente o pedido.
+Acórdão: negou provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+ILEGITIMIDADE PASSIVA - Não configuração - É responsabilidade exclusiva da operadora do seguro saúde assegurar as mesmas condições anteriores ao beneficiário do artigo 31 da Lei nº 9.656/98 - Preliminar afastada.
+DENUNCIAÇÃO DA LIDE - Não cabimento - Dispensável a intervenção da empresa estipulante, a qual não será atingida pela solução da presente controvérsia - Preliminar afastada.
+SEGURO SAÚDE - Contrato coletivo empresarial - Alteração da forma de cálculo da mensalidade dos funcionários inativos - Inadmissibilidade - Necessidade de observância às mesmas condições ofertadas aos funcionários ativos - Sentença mantida - RECURSO NÃO PROVIDO. (e-STJ, fl. 194)
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 485, VI, e 1.022, ambos do CPC/15; 1º e 4º, VII, XI e XXIII, ambos da Lei 9.961/2000; 30 e 31, ambos da Lei 9.656/98. Além da negativa de prestação jurisdicional, sustenta:
+i) a legitimidade da empresa estipulante (ex-empregadora do recorrido) para figurar no polo passivo da presente ação;
+ii) a usurpação de competência da ANS para regulamentar questão atinente à responsabilidade pela manutenção do funcionário demitido sem justa causa e/ou aposentado na apólice coletiva; e
+iii) a possibilidade de distinção entre funcionários ativos e inativos, inclusive com condição de reajuste e preços da mensalidade diferenciados.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da violação do art. 1.022 do CPC/15
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial. Aplica-se, por conseguinte, a Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 1º e 4º, VII, XI e XXIII, ambos da Lei 9.961/2000, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, portanto, a Súmula 211/STJ.
+Ressalta-se que a eventual alegação de ser de ordem pública os temas insertos nos dispositivos legais mencionados não torna indispensável o devido prequestionamento. Nesse sentir: AgInt no AREsp 1.021.641/MG (3ª Turma, DJe 19/05/2017) e AgInt no AREsp 613.606/PR (4ª Turma, DJe 17/05/2017).
+- Da ilegitimidade passiva da empresa estipulante/ex-empregadora para figurar no polo passivo de demandas que visam à permanência de ex-empregado em plano de saúde coletivo (Súmula 568/STJ)
+O TJ/SP, ao reconhecer a ilegitimidade passiva da empresa estipulante/ex-empregadora, para figurar no polo passivo de demanda que visa à permanência de ex-empregado em plano de saúde coletivo, manteve consonância com o atual do STJ, no sentido de que a empresa estipulante não possui legitimidade para figurar no polo passivo de demanda proposta por ex-empregado que busca, nos termos dos arts. 30 e 31, ambos da Lei 9.656/98, a permanência em plano de saúde coletivo após a cessação do vínculo empregatício. Nesse sentido: AgInt no REsp 1.687.813/SP (3ª Turma, DJe 20/02/2019) e AgInt no REsp 1.660.516/SP (4ª Turma, DJe de 12/02/2019).
+Logo, nos termos da Súmula 568/STJ, quanto ao ponto mencionado, o acórdão recorrido não merece reforma.
+- Da interpretação dos arts. 30 e 31, ambos da Lei 9.656/98 (Súmula 568/STJ)
+O termo "pagamento integral" da redação dos arts. 30 e 31, ambos da Lei 9.656/98 deve corresponder ao valor da contribuição do ex-empregado, enquanto vigente seu contrato de trabalho, e da parte antes subsidiada por sua ex-empregadora, pelos preços praticados aos funcionários em atividade e eventuais reajustes legais para manutenção do equilíbrio do contrato de plano de saúde cativo e de longa duração.
+Impor ao aposentado ou ao demitido sem justa causa preços diferenciados dos funcionários ativos, esvaziaria, por completo, o sentido protetivo do usuário do plano de saúde coletivo que extingue seu contrato de trabalho.
+Não é lícito que se apresente, com esse propósito, valor diferenciado para os ex-empregados, tampouco se eximam as ex-empregadoras da comprovação daquilo que efetivamente suportavam quando ativo o contrato de trabalho.
+Não se pode olvidar, que quanto ao ponto, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que é possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REAJUSTE. ABUSIVIDADE NÃO RECONHECIDA. REEXAME DE PROVAS E DA RELAÇÃO CONTRATUAL ESTABELECIDA. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "É possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade". (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/06/2015, DJe 10/06/2015). Aplicação da Súmula 83/STJ.
+2. Na espécie, o acórdão, à luz do contrato entabulado entre as partes e dos reajustes promovidos pela operadora do plano de saúde, não reconheceu a abusividade do reajuste do plano de saúde amparado nas provas e no contrato firmado entre as partes. A reforma do aresto hostilizado, com a desconstituição de suas premissas, impõem reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, o que esbarra nas Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento" (AgInt no REsp 1.483.244/SP, 4ª Turma, DJe 23/02/2017).
+Além disso, de acordo com a jurisprudência do STJ, "a parcela da contribuição a ser assumida pelo beneficiário, antes custeada pelo ex-empregador, poderá variar conforme as alterações promovidas no plano paradigma, sempre em paridade com o que a ex-empregadora tiver que custear. O plano paradigma, cujas alterações determinam variação na parcela ser assumida pelo beneficiário aposentado, é aquele vigente para os beneficiários que continuam na ativa" (AgRg nos EDcl no RESP 1.497.784/SP, 3ª Turma, DJe de 24/08/2015). Nesse sentido também: REsp 1.716.027/SP, 3ª Turma, DJe de 13/12/2018; REsp 1.539.815/DF, 3ª Turma, DJe de 14/02/2017; e REsp 531.370/SP, 4ª Turma, DJe de 06/09/2012.
+Na hipótese sob julgamento, o TJ/SP, ao entender pela impossibilidade de distinção entre os ativos e inativos e pela manutenção da sentença que julgou procedente a ação, está em consonância com o entendimento do STJ.
+Logo, nos termos da Súmula 568/STJ, quanto ao ponto mencionado, o acórdão recorrido não merece reforma.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intime-se.
