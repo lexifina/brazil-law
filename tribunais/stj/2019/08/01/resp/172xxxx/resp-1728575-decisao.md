@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO VOLKSWAGEN S.A, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 244, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DE REINTEGRAÇÃO DE POSSE - ARRENDAMENTO MERCANTIL - APLICAÇÃO ANALÓGICA DO DECRETO-LEI Nº 911/69 - NOTIFICAÇÃO EXTRAJUDICIAL - ENTREGA NO ENDEREÇO DO DEVEDOR - MUDOU-SE - MORA NÃO COMPROVADA - PRELIMINAR - AUSÊNCIA DE PRESSUPOSTO PROCESSUAL - EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DO MÉRITO.
+Inexistindo no arrendamento mercantil previsão legal específica quanto à forma de realização da notificação extrajudicial, deverá ser aplicado, por analogia, o disposto no artigo 2º, § 2º e art. 3º, do Decreto-Lei 911/69, em razão da semelhança dos institutos do arrendamento mercantil e da alienação fiduciária. A comprovação da mora do devedor é requisito indispensável para o ajuizamento da ação de reintegração de posse. Se ausente a comprovação da mora do devedor, há ausência de pressuposto processual, devendo ser decretada, consequentemente, a extinção do processo sem resolução de mérito.
+Nas razões do especial (fls. 253-265, e-STJ), a recorrente aponta violação aos arts. 2º, § 2º, do Decreto-Lei 911/69 e 394 e 395 do CC, bem como divergência jurisprudencial. Sustenta, em síntese, que para configuração em mora basta que seja entregue a notificação no endereço do devedor constante do contrato, sendo dispensável sua assinatura. Defende que é responsabilidade do devedor comunicar ao credor eventual alteração de endereço (fls. 255-256. e-STJ).
+Não foram apresentadas contrarrazões, consoante certidão de fl. 317, e-STJ.
+Após decisão de admissão do recurso especial (fl. 331, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A insurgência recursal merece prosperar.
+1. Com efeito, a jurisprudência do Superior Tribunal de Justiça é no sentido de que "em se tratando de alienação fiduciária, a mora do devedor poderá ser comprovada por meio de protesto de título ou notificação extrajudicial realizada por intermédio do Cartório de Títulos e Documentos, entregue no endereço declinado no contrato, sendo dispensada a notificação pessoal" (AgRg no Aresp 673.820/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, Dje 17/08/2015).
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO DO DEVEDOR. ENVIO PARA O ENDEREÇO DECLINADO NO CONTRATO. FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE ATAQUE ESPECÍFICO.
+1. A prova do recebimento da notificação pelo devedor não é necessária para a constituição em mora, bastando que seja enviada ao endereço declinado no contrato. Precedentes.
+2. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/Superior Tribunal de Justiça, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1125547/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/03/2019, DJe 28/03/2019)
+AGRAVO INTERNO. BUSCA E APREENSÃO DE BEM OBJETO DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. MORA EX RE. NOTIFICAÇÃO. NECESSÁRIA APENAS À COMPROVAÇÃO PARA AJUIZAMENTO DA AÇÃO E DEFERIMENTO DA LIMINAR. DOMICÍLIO. ATUALIZAÇÃO, EM CASO DE MUDANÇA. DEVER DO DEVEDOR. ENVIO DE NOTIFICAÇÃO PARA O ENDEREÇO CONSTANTE DO CONTRATO. FRUSTRAÇÃO, EM VISTA DA DEVOLUÇÃO DO AVISO DE RECEBIMENTO, COM ANOTAÇÃO DE MUDANÇA DO NOTIFICADO. CUMPRIMENTO PELO CREDOR DA PROVIDÊNCIA PRÉVIA AO AJUIZAMENTO DA AÇÃO DE BUSCA E APREENSÃO, QUE PODERIA SER-LHE EXIGÍVEL.  ..
+2. A moderna doutrina, ao adotar a concepção do vínculo obrigacional como relação dinâmica, revela o reconhecimento de deveres secundários, ou anexos, que incidem de forma direta nas relações obrigacionais, prescindindo da manifestação de vontade dos participantes e impondo ao devedor, até que ocorra a extinção da obrigação do contrato garantido por alienação fiduciária, o dever de manter seu endereço atualizado. Precedente.
+3. "A mora decorre do simples vencimento, devendo, por formalidade legal, para o ajuizamento da ação de busca e apreensão, ser apenas comprovada pelo credor mediante envio de notificação, por via postal, com aviso de recebimento, no endereço do devedor indicado no contrato" (REsp 1592422/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/05/2016, DJe 22/06/2016).
+4. Agravo interno não provido.
+(AgInt no REsp 1.771.864/SE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/05/2019, DJe 04/06/2019)
+No caso dos autos, a Corte Estadual, embora tenha reconhecido que "a instituição financeira, procedeu à notificação do Réu no endereço fornecido no contrato, tendo sido encaminhada pelo Cartório de Protesto de Documento de Dívida, extinguiu a ação de reintegração de posse, nos seguintes termos (fl. 247, e-STJ):
+No caso dos autos, verifica-se que a instituição financeira, ora Apelada, procedeu à notificação do Réu, ora Apelante, no endereço fornecido no contrato firmado entre as partes, tendo a mesma sido encaminhada pelo Cartório de Protesto de Documento de Dívida (fl.11).
+Contudo, embora tenha a referida notificação sido encaminhada ao endereço constante no contrato, retornou informando que a Apelante "mudou-se".
+Constata-se que embora o Apelado tenha providenciado a notificação da Apelante, ela não se revestiu dos requisitos necessários para o cumprimento de sua finalidade.
+Assim, inexistindo comprovação de que o devedor foi constituído em mora, impõe-se a extinção do feito, sem resolução do mérito, por ausência de pressuposto de desenvolvimento válido e regular do processo, conforme previsot no inciso IV, do artigo 267, do Código de Processo Civil aplicável.
+Como se vê, o Tribunal de origem, decidiu em desacordo com o entendimento pacífico do STJ, razão pela qual merece reforma.
+2. Do exposto, dou provimento ao recurso especial, a fim de cassar o acórdão recorrido e, reconhecendo a validade da notificação extrajudicial objeto da presente demanda, prosseguir no julgamento do apelo como entender de direito.
+Publique-se.
+Intimem-se.
