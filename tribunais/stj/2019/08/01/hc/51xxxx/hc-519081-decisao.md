@@ -1,0 +1,25 @@
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO (POR TRÊS VEZES, EM CONCURSO FORMAL). SENTENÇA. REGIME INICIAL. PENA-BASE FIXADA NO MÍNIMO LEGAL. SENTENCIADO PRIMÁRIO. REPRIMENDA DEFINITIVA FIXADA EM PATAMAR INFERIOR A 8 ANOS DE RECLUSÃO. REGIME INICIAL SEMIABERTO QUE SE IMPÕE (ART. 33, §§ 2º E 3º, C/C 59 DO CP). CONSTRANGIMENTO ILEGAL EVIDENCIADO. CORRÉU EM SITUAÇÃO FÁTICO-PROCESSUAL IDÊNTICA. EXTENSÃO DOS EFEITOS. NECESSIDADE (ART. 580 DO CPP).
+Ordem concedida, inclusive liminarmente, com extensão a corréu.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] - condenado como incurso no crime de roubo majorado, em concurso formal, às penas de 7 anos, 9 meses e 10 dias de reclusão, no regime inicial fechado, e 51 dias-multa -, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro, que deu parcial provimento à apelação defensiva para reduzir a pena-base ao mínimo legal, resultando a reprimenda definitiva em 6 anos, 2 meses e 20 dias de reclusão e 39 dias-multa, mantido o regime inicial fechado fixado pelo Juízo de Direito da 14ª Vara Criminal da comarca da Capital/RJ (Ação Penal n. 0187332-88.2012.8.19.0001).
+Alega a impetrante, em síntese, constrangimento ilegal na fixação do regime fechado de cumprimento da pena, sem fundamentação idônea para tanto.
+Postula, então, a concessão liminar da ordem, nos termos apresentados.
+É o relatório.
+A presente ordem merece concessão, inclusive liminarmente.
+O Tribunal de origem, apesar de reduzir a pena-base ao mínimo legal, manteve a fixação do regime inicial fechado, mediante a seguinte fundamentação (fl. 72):
+ ..
+Foi fixado o Regime Fechado para o início de cumprimento das penas impostas. As Defesas pleiteiam seja estabelecido o Semiaberto. Não lhes assiste razão. No entender desta Relatora as sanções básicas e o regime prisional possuem finalidades distintas, apesar de determinados com base nos mesmos critérios de avaliação, ou seja, as circunstâncias judiciais previstas no art. 59, do Código Penal. Por isso, a existência do inciso III, do art. 59, do Código Penal, onde o legislador determinou ao magistrado a escolha do regime inicial de cumprimento da pena privativa de liberdade como etapa seguinte a do inciso II, do mesmo artigo. A fixação do regime guarda relação, assim, com a necessidade de maior ou menor rigor no cumprimento da pena e do respectivo acompanhamento. Então, não há óbice na fixação de regime mais severo do que aquele previsto abstratamente pela lei, desde que fundamentada na Sentença, pela criteriosa avaliação do Magistrado no caso concreto. E, analisando os autos, vejo que os acusados praticaram cr ime violento e se tratava-se de quatro agentes. Embora as condutas criminosas praticadas pelos réus após os fatos em questão não possam ser observadas para a exasperação do quantum de pena podem e devem ser observadas para a fixação do Regime porque corroboram a periculosidade e a necessidade de se impor maior rigor, como referido. Assim, mantém-se o regime mais gravoso.
+ ..
+Ocorre que a Sexta Turma deste Superior Tribunal tem entendido que a fixação da pena-base no mínimo legal, aliada à primariedade do réu, impõem a fixação do regime inicial correspondente à reprimenda imposta, nos termos do art. 33, §§ 2º e 3º, c/c 59 do Código Penal.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. QUANTIDADE DE ENTORPECENTES QUE NÃO É EXACERBADA. FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. NECESSIDADE DE OBSERVÂNCIA DO DISPOSTO NO ART. 33, § 2.º, ALÍNEA B, DO CÓDIGO PENAL E NAS SÚMULAS N.os 440 DESTA CORTE E 718 E 719 DO SUPREMO TRIBUNAL FEDERAL. REGIME INICIAL SEMIABERTO. CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante reiterada jurisprudência desta Corte Superior, deve-se utilizar, para a fixação do regime inicial de cumprimento de pena, o disposto no art. 33, c.c. o art. 59, ambos do Código Penal, bem como o entendimento firmado na Súmula n.º 440 deste Superior Tribunal de Justiça e nas Súmulas n.os 718 e 719 do Supremo Tribunal Federal.
+2. Considerando a ausência de circunstâncias judiciais desfavoráveis, a primariedade do Réu, a fixação da pena em 5 (cinco) anos de reclusão e a quantidade e a variedade das drogas apreendidas, cabível estabelecer como regime prisional inicial o semiaberto.
+3. Agravo regimental desprovido.
+(AgRg no HC 496.112/SP, Ministra Laurita Vaz, Quinta Turma, DJe 3/6/2019 - grifo nosso)
+O corréu [NOME] encontra-se em situação fático-processual idêntica, pois teve a pena-base reduzida e o acórdão se referiu a ele de forma idêntica para manter a fixação do regime inicial mais rigoroso (fl. 71).
+Em face do exposto, concedo a ordem impetrada, inclusive liminarmente, para fixar o regime inicial semiaberto de cumprimento da pena à condenação imposta ao paciente na Ação Penal n. 0187332-88.2012.8.19.0001, da 14ª Vara Criminal da comarca da Capital/RJ, com extensão ao corréu [NOME].
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
