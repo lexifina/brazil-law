@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial manejado pela União com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 191):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA SEGURO-DESEMPREGO. PRAZO PARA REQUERIMENTO. AUSÊNCIA DE PREVISÃO LEGAL. LEI Nº 7.998/90.
+A limitação do prazo de 120 dias prevista na Resolução CODEFAT nº 754/2015 não encontra amparo legal, uma vez que a lei geral do seguro-desemprego, Lei nº 7.998/90, não prevê prazo máximo para o requerimento do benefício em questão.
+Opostos embargos declaratórios, foram parcialmente providos, apenas para fins de prequestionamento (fls. 191/194).
+A parte recorrente aponta violação aos arts. 1º e 10 da Lei 12.016/2009; 2º, 2º-C, § 2º, e 6º da Lei 7.998/1990; e 13 e 14 da Resolução CODEFAT 467/2005. Sustenta que o prazo para requerimento do seguro-desemprego é de 120 (cento e vinte) dias.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo não conhecimento do recurso especial (fls. 247/255).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Com efeito, o tema trazido à discussão restou assim decidido pela instância de origem (fls. 164/165):
+Sobre a matéria, a Lei nc 7.998/90, que disciplina o Programa do Seguro-Desemprego não especificou prazo máximo para o requerimento administrativo a partir do desligamento sem justa causa.
+Assim, há que se reconhecer que a Resolução CODEFAT nº 754/2015 criou limitação não prevista em lei para o exercício do direito a tal benefício.
+Tal entendimento é ponto pacífico neste Tribunal:
+Infere-se, pois, que a Corte regional decidiu a controvérsia posta nos autos a partir da análise da Resolução CODEFAT nº 754/2015, sendo certo que o exame da insurgência não prescinde da análise da referida norma infralegal que foi aplicada pela instância de origem, o que não se afigura cabível no âmbito do apelo nobre, a teor do disposto no art. 105, III, a, da CF, nos termos da jurisprudência deste Sodalício.
+Nesse sentido, vejam-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRATIVO. COBRANÇA DE SERVIÇO DE TELEVISÃO A CABO. INTERPRETAÇÃO DE NORMA INFRALEGAL. MEDIDA NÃO ADEQUADA À VIA ELEITA. AGRAVO INTERNO DO MINISTÉRIO PÚBLICO FEDERAL DESPROVIDO.
+1. A leitura do acórdão recorrido aponta que a Corte de origem apreciou o tema com fundamento na Resolução ANATAEL 488/2007, de natureza infralegal, cuja interpretação é vedada na via eleita, ante à definição da competência deste STJ constante do art. 105 da CF/1988, que se refere, especificamente, à análise de violação de leis ordinárias infraconstitucionais.
+2. Parecer do Órgão Ministerial pelo provimento do Recurso Especial.
+3. Agravo Interno do MINISTÉRIO PÚBLICO FEDERAL desprovido.
+(AgInt no REsp 1.383.680/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/5/2019, DJe 30/5/2019)
+ADMINISTRATIVO. ANTT. MULTA ADMINISTRATIVA. EVASÃO DE FISCALIZAÇÃO PESAGEM DE VEÍCULO OBRIGATÓRIA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 281 DA LEI N. 9.503/97. APLICAÇÃO DO REGRAMENTO ADMINISTRATIVO PRÓPRIO. INCIDÊNCIA DO ENUNCIADO N. 7/STJ. IMPEDIMENTO DE ANÁLISE DE DIVERGÊNCIA JURISPRUDENCIAL. NÃO CABIMENTO DE REsp CONTRA VIOLAÇÃO À NORMA INFRALEGAL.
+I - Com relação à alegada violação do art. 281 da Lei n. 9.503/97, suscitada no apelo nobre. O acórdão recorrido, assim fundamentou a sentença (fls. 129-133): "ato cuja desconstituição a autora postula não se trata de autuação por infração de trânsito, mas sim por infração à regra da própria ANTT, não se aplicando, portanto, as disposições do CBT, mas sim o regramento administrativo próprio." II - Desse modo, tendo o Tribunal a quo concluído que a autuação realizada pela ANTT (decorrente da conduta do recorrente de evasão de fiscalização) não se trata de infração de trânsito, e sim de conduta contrária às normas previstas na lei ou nos contratos de concessão, termo de permissão ou autorização, a revisão de tal entendimento demandaria, necessariamente, o revolvimento de elementos fáticos e probatórios constantes dos autos, procedimento esse vedado no âmbito do recurso especial, por óbice da Súmula n. 7/STJ, que assim dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+III - O mesmo óbice sumular impede também a análise do recurso no ponto atinente à divergência jurisprudencial.
+IV - Ademais, é forçoso ressaltar que a jurisprudência desta Corte é pacífica no sentido de não ser possível, pela via do recurso especial, a análise de normas infralegais, tais como convênios, resoluções, portarias, regimentos internos, regulamentos, etc., porquanto não se enquadram no conceito de lei federal ou tratado.
+V - Agravo interno improvido.
+(AgInt no AREsp 1.175.028/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 24/4/2018, DJe 30/4/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CAUÇÃO IDÔNEA. SUBSTITUIÇÃO. SEGURO-GARANTIA. REQUISITOS DA PORTARIA 164/2014 DA PROCURADORIA GERAL DA FAZENDA NACIONAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. ATO NORMATIVO NÃO INSERIDO NO CONCEITO DE LEI FEDERAL.
+CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.  ..
+IV. Na forma da jurisprudência, "o apelo nobre não constitui via adequada para análise de ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da Constituição Federal" (STJ, REsp 1.613.147/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 13/09/2016). Na hipótese, não obstante a apontada violação a dispositivos de lei federal, a controvérsia foi dirimida a partir da análise da Portaria 164/2014, da Procuradoria Geral da Fazenda Nacional - diploma normativo que não se insere no conceito de lei federal -, fugindo, assim, da hipótese constitucional de cabimento deste recurso.
+V. O entendimento firmado pelo Tribunal a quo - no sentido de que, atendido ao que determina a Portaria 164/2014, da Procuradoria Geral da Fazenda Nacional, a apólice constituirá garantia idônea, ainda que tenha prazo de validade, cabendo ao juízo originário o exame desses requisitos, quando de sua apresentação nos autos - não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+VI. Agravo interno improvido.
+(AgInt no REsp 1.716.772/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 15/5/2018, DJe 21/5/2018)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
