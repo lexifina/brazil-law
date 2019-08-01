@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio com pedido de liminar impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+A paciente foi condenada à pena de 9 anos e 8 meses de reclusão em regime fechado mais o pagamento de 1366 dias-multa, como incursa nos arts. 33 e 35 da Lei n. 11.343/2006.
+Inconformada, a defesa interpôs habeas corpus no Tribunal de origem, que lhe negou provimento em acórdão assim ementado:
+"Habeas corpus Tráfico de entorpecente e associação para o tráfico.
+Prisão domiciliar Presa que possui filhos menores Fato que não é suficiente para, sozinho, autorizar a prisão domiciliar - Interpretação do artigo 117 da lei de Execução Penal.
+Writ denegado." (e-STJ, fl. 65.)
+A impetrante informa que a paciente é mãe de duas crianças, uma de 10 e outra de 12 anos de idade. Aduz ainda que é primária e possui residência fixa. Assim, requer a concessão do benefício da domiciliar.
+O pedido de liminar foi indeferido por esta Corte (e-STJ, fls. 76-77).
+O Ministério Público Federal opina pela concessão da ordem (e-STJ, fls. 175-182).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+A legislação em vigor limita a concessão da benesse domiciliar para os apenados que cumprem a reprimenda em regime aberto.
+A propósito, veja-se o que dispõe o art. 117 da Lei de Execução Penal:
+"Somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de:
+I - condenado maior de 70 (setenta) anos;
+II - condenado acometido de doença grave;
+III - condenada com filho menor ou deficiente físico ou mental;
+IV - condenada gestante."
+Entretanto, o Superior Tribunal de Justiça tem flexibilizado o entendimento para concessão de prisão domiciliar aos sentenciados em cumprimento de pena em regime fechado ou semiaberto, quando devidamente demonstrada sua excepcionalidade.
+A propósito, confira-se o seguinte precedente:
+"EXECUÇÃO PENAL. HABEAS CORPUS. ATENTADO VIOLENTO AO PUDOR. REGIME FECHADO. PACIENTE COM IDADE AVANÇADA E ESTADO DE SAÚDE DEBILITADO. PRISÃO DOMICILIAR. ORDEM CONCEDIDA.
+1. Conquanto esteja recluso no regime fechado, verifica-se que o paciente possui mais de 70 (setenta) anos de idade e é portador de câncer de próstata, trombose e aneurisma abdominal, bem como apresenta quadro depressivo, conforme comprovado nos autos. Assim, embora o estabelecimento prisional seja dotado de estrutura para atendimentos emergenciais, as enfermidades descritas necessitam de cuidados específicos e continuados, ensejando a concessão da prisão domiciliar como medida, até mesmo, de cunho humanitário.
+2. Ordem concedida a fim de determinar a transferência do paciente para a prisão domiciliar, em virtude do seu comprovado estado de saúde debilitado e da sua idade avançada." (HC 138.986/DF, MARIA THEREZA, SEXTA TURMA, j. 17/11/2009, DJe 7/12/2009.)
+Como se vê, o entendimento jurisprudencial dos Tribunais superiores vem superando a interpretação literal de determinados comandos previstos na Lei de Execução Penal, a fim de abarcar e de dar efetividade ao princípio da dignidade da pessoa humana na individualização da pena.
+Diante disso, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que "a melhor exegese do art. 117 da Lei n. 7.210/1984, extraída dos recentes precedentes da Suprema Corte, é na direção da possibilidade da prisão domiciliar em qualquer momento do cumprimento da pena, ainda que em regime fechado, desde que a realidade concreta assim o imponha" (HC 366.517/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, j. 11/10/2016, DJe 27/10/2016).
+No caso, convém destacar, preliminarmente, que a paciente está em fase de execução de sua pena em regime fechado, o que afasta a aplicação do entendimento firmado pelo STF no HC n. 143.641/SP, no qual a ordem foi deferida coletivamente para a substituição da prisão preventiva pela domiciliar às mães com filhos menores de 12 anos, e não prisão pena, hipótese dos autos.
+Observa-se, ainda, que, embora esteja comprovado que a sentenciada tem dois filhos de 12 e 10 anos de idade, que já se encontram sob os cuidados de parentes, a defesa não se desincumbiu de demonstrar a situação de vulnerabilidade das crianças.
+Dessa forma, não obstante a existência de flexibilização pelo STJ, na interpretação da Lei de Execução Penal, bem como a ausência de violência empregada na execução do crime, a falta de comprovação de que a paciente seria imprescindível aos cuidados dos seus filhos impede o deferimento da medida excepcional de colocação em prisão domiciliar.
+Impende registrar, por fim, que qualquer entendimento em sentido contrário demandaria a incursão em matéria fática-probatória, medida incompatível com a via eleita.
+A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. CONFISSÃO ESPONTÂNEA NÃO CONFIGURADA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. RESTITUIÇÃO DO BEM À VÍTIMA. IRRELEVÂNCIA. FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL E ESTABELECIMENTO DO REGIME INICIAL ABERTO. IMPOSSIBILIDADE. REINCIDÊNCIA. PRISÃO DOMICILIAR. ART. 117, III, DA LEP. ALEGADA NECESSIDADE DE PRESTAR CUIDADOS FILHOS MENORES DE DOZE ANOS. SITUAÇÃO EXCEPCIONAL NÃO DEMONSTRADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Quanto à suscitada ausência de aplicação da atenuante genérica da confissão espontânea, verifica-se que o acórdão recorrido não se utilizou da confissão da acusada para proceder à sua condenação. Além de não haver notícia nos autos de que houve confissão na fase inquisitiva, em juízo foi decretada a revelia da ré. O julgador se valeu da prisão em flagrante para imputar-lhe a autoria do delito, o que está em sintonia com o entendimento desta Corte Superior de Justiça.
+2. No que toca ao pleito de aplicação do princípio da insignificância, observa-se que o valor da res furtivae não pode ser considerado ínfimo, por ultrapassar em mais de 50% o salário mínimo vigente à época dos fatos.
+3. O simples fato de o bem haver sido restituído à vítima, não constitui, por si só, razão suficiente para a aplicação do princípio da insignificância. Precedentes.
+4. Quanto ao pedido de fixação da pena-base em seu mínimo legal e estabelecimento do regime inicial aberto, melhor sorte não assiste à agravante. Isso porque, consoante destacado na decisão agravada, por se tratar de agente reincidente, teve sua pena majorada. Além disso, tal circunstância foi utilizada para justificar o regime aplicado, o que encontra amparo na jurisprudência desta Corte nos termos da Súmula n.º 269 do STJ.
+5. Quanto ao pedido de substituição da pena privativa de liberdade por prisão domiciliar, cumpre destacar que a Lei nº 13.257 de 2016, no qual o impetrante baseia o seu pedido, diz respeito tão somente aos casos de prisão preventiva, situação não verificada nos autos.
+6. A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que "a melhor exegese do art. 117 da Lei n. 7.210/1984, extraída dos recentes precedentes da Suprema Corte, é na direção da possibilidade da prisão domiciliar em qualquer momento do cumprimento da pena, ainda que em regime fechado, desde que a realidade concreta assim o imponha" (HC 366.517/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA,
+julgado em 11/10/2016, DJe 27/10/2016).
+7. Consoante informações prestadas pelo Juízo de primeiro grau, "não aportaram nos autos, informações de que a filha da Paciente estaria em situação de vulnerabilidade" (e-STJ, fl. 65). Assim, inexistindo excepcionalidade aportada nos autos demonstrando a necessidade de prisão domiciliar, a alteração desse entendimento demandaria revolvimento do conjunto fático-probatório, o que seria inviável na via estreita do writ.
+8. Agravo regimental a que se nega provimento." (AgRg no HC 459.057/RS, de minha relatoria, QUINTA TURMA, julgado em 19/03/2019, DJe 25/03/2019).
+"HABEAS CORPUS. PRISÃO DOMICILIAR. FILHO MENOR. ENTENDIMENTO DA SUPREMA CORTE NO JULGAMENTO DO HC N.º 143.641/SP. INAPLICABILIDADE. EXECUÇÃO PENAL. DISCUSSÃO À LUZ DO QUE DISPÕE A LEI N.º 7.210/1984. NEGATIVA DO BENEFÍCIO FUNDAMENTADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DE HABEAS CORPUS DENEGADA.
+1. É inaplicável, no caso, o art. 318, inciso V, do Código de Processo Penal, ou o entendimento firmado pela Suprema Corte nos autos do HC n.º 143.641/SP. A Paciente é reincidente específica, cumpre pena definitiva e executa provisoriamente condenação confirmada em sede de apelação. Precedentes do Superior Tribunal de Justiça e decisão proferida pelo Ministro RICARDO LEWANDOWSKI, em 24/10/2018, ao acompanhar o cumprimento da ordem concedida pela Segunda Turma do Supremo Tribunal Federal.
+2. Desse modo, " e mbora o benefício encontre espaço para aplicação sob a norma contida no art. 117, inciso III, da Lei de Execução Penal, a análise do cabimento compete ao juízo das execuções, já que não se trata de efeito automático da existência de filhos menores" (HC 394.532/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/06/2017, DJe 30/06/2017).
+3. É certo que a necessidade dos cuidados maternos à criança menor de doze anos é legalmente presumida, consoante precedentes da Sexta Turma. No caso, contudo, o pedido de prisão domiciliar foi indeferido com fundamentos idôneos, pois a Paciente engravidou no cumprimento de pena em regime fechado e não ficou demonstrado, nos autos, a situação de desamparo da sua filha menor, que está sob os cuidados da avó e do pai.
+4. Para se afastar as conclusões que justificaram a negativa do pedido de prisão domiciliar, seria necessário proceder ao revolvimento fático-probatório dos autos, o que não é cabível na via estreita do habeas corpus. Precedentes.
+5. Ordem de habeas corpus denegada." (HC 477.990/ES, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 21/02/2019, DJe 11/03/2019).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
