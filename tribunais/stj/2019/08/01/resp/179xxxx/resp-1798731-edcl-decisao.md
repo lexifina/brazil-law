@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. MATÉRIA DE MÉRITO. VÍCIOS DE INTEGRAÇÃO CONFIGURADOS. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+DECISÃO
+Cuida-se de embargos de declaração opostos pelo Sindicato dos Trabalhadores das Universidades Federais de Pernambuco em face de decisão assim ementada (e-STJ fls. 207-211):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. ASSISTÊNCIA JUDICIÁRIA. PESSOA JURÍDICA SEM FINS LUCRATIVOS. SINDICATO. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+Nos presentes aclaratórios, o embargante alega que existem omissões e erro material na decisão embargada, pois "o decisum deixou de apreciar a matéria de fundo efetivamente posta em debate no recurso especial, referente à ilegitimidade dos substituídos, que atua em regime de substituição processual, para suportarem honorários de sucumbência" (e-STJ fl. 216, grifos no original).
+Não houve impugnação aos embargos (e-STJ fl. 224).
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, os presentes embargos declaratórios merecem acolhimento, porquanto evidenciada a ocorrência dos vícios apontados pelo embargante.
+Quanto à ilegitimidade dos substituídos, o Tribunal de origem negou provimento ao agravo de instrumento, aos fundamentos de que (e-STJ fl. 133, grifo no original):
+"5. No entanto, com relação à parte em que determina que, em caso de sucumbência total ou parcial, os substituídos deverão arcar com o pagamento dos honorários devidos ao advogado da executada, entendo acertada a decisão recorrida.
+6. De fato, o proveito econômico obtido no feito em questão equivale ao valor que se definiu para o título exequendo, abatido do valor dos honorários devidos ao advogado da parte adversa pela sucumbência no próprio processo de execução/cumprimento de sentença. Do contrário, sempre que houvesse a sucumbência do exequente, ainda que
+parcial, haveria a necessidade de instauração de um novo processo, proposto pelo advogado do executado contra o exequente.
+7. Independentemente do exequente (de fato) não ostentar a condição de parte (em sentido formal), o valor auferido pelo mesmo suportará os encargos da sucumbência, posto que, do contrário, aproveitaria (do processo de execução/cumprimento de sentença) mais do que aquilo que o substituto logrou (ali) obter.
+8. Ademais, a figura da substituição processual, no caso dos autos, apresenta uma feição predominantemente formal, vez que os "substituídos", estão identificados, assim como identificadas todas as suas peculiaridades, tratando-se de apenas 08 (oito) substituídos, não havendo aí a rigor, uma defesa de interesses coletivos
+9. Por último, acresça-se que, da mesma forma como decidiu a Segunda turma desse Tribunal, viola a lógica da substituição processual a possibilidade da Entidade, que ostenta a condição de substituto processual, fazer pedido contra si mesma, ainda que agindo no interesse dos substituídos. Nesse ponto, o recurso foi interposto contra o interesse da própria entidade sindical, que, em outras palavras, se diz indevidamente beneficiada com a decisão recorrida (08030442220174050000, AG/SE, DESEMBARGADOR FEDERAL VLADIMIR CARVALHO, 2ª Turma, JULGAMENTO: 04/08/2017).
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incidente, pois, a Súmula 283/STF.
+No mais, constata-se que as demais alegações trazidas nos embargos de declaração dizem respeito ao mérito da demanda, o que não pode ser objeto de reanálise em sede de embargos de declaração.
+Advirta-se, por fim, que eventual oposição de novos embargos de declaração sem argumentação plausível para o recurso, apenas para solicitar rejulgamento da controvérsia, pode ensejar a aplicação da multa prevista no artigo 1.026, § 2º, do CPC/2015.
+Ante o exposto, acolho os embargos de declaração, na forma da fundamentação, sem efeitos infringentes.
+Publique-se. Intimem-se.
