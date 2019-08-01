@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “SERVIDOR ESTADUAL - Magistério - Certidão de liquidação de tempo de serviço - Aposentadoria especial – Abono permanência – Possibilidade: O tempo de exercício das funções de direção, coordenação e assessoramento pedagógico pode ser considerado na contagem do regime especial de aposentadoria, desde que exercidas em estabelecimentos de ensino básico, por professores de carreira, ainda que o acesso tenha ocorrido por novo concurso público, com exoneração do cargo anterior.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, § 5º, da CF.
+    O recurso extraordinário não deve ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada à jurisprudência do Supremo Tribunal Federal, que, no julgamento da ADI 3.772, Relator para o acórdão o Ministro Ricardo Lewandowski, decidiu que, para fins do cômputo de aposentadoria especial de professor, com fundamento no art. 40, § 5º, da CF, a interpretação do que vem a ser função de magistério não se limita ao exercício da profissão dentro de sala de aula, devendo abranger as funções de direção, coordenação e assessoramento pedagógico. Veja-se a ementa do julgado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE MANEJADA CONTRA O ART. 1º DA LEI FEDERAL 11.301/2006, QUE ACRESCENTOU O § 2º AO ART. 67 DA LEI 9.394/1996. CARREIRA DE MAGISTÉRIO. APOSENTADORIA ESPECIAL PARA OS EXERCENTES DE FUNÇÕES DE DIREÇÃO, COORDENAÇÃO E ASSESSORAMENTO PEDAGÓGICO. ALEGADA OFENSA AOS ARTS. 40, § 5º, E 201, § 8º, DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA. AÇÃO JULGADA PARCIALMENTE PROCEDENTE, COM INTERPRETAÇÃO CONFORME.
+    I - A função de magistério não se circunscreve apenas ao trabalho em sala de aula, abrangendo também a preparação de aulas, a correção de provas, o atendimento aos pais e alunos, a coordenação e o assessoramento pedagógico e, ainda, a direção de unidade escolar.
+    II - As funções de direção, coordenação e assessoramento pedagógico integram a carreira do magistério, desde que exercidos, em estabelecimentos de ensino básico, por professores de carreira, excluídos os especialistas em educação, fazendo jus aqueles que as desempenham ao regime especial de aposentadoria estabelecido nos arts. 40, § 5º, e 201, § 8º, da Constituição Federal.
+    III - Ação direta julgada parcialmente procedente, com interpretação conforme, nos termos supra.”
+    No mesmo sentido: RE 789.578-AgR, Rel. Min. Marco Aurélio; ARE 743.225, Rel. Min Dias Toffoli; ARE 744.172, Rel. Min. Celso de Mello.
+    Ademais, para se chegar à conclusão pretendida pela parte recorrente, seria necessária a análise do conjunto fático-probatório dos autos, providência vedada neste momento processual, nos termos da Súmula 279/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+                Brasília, 1º de agosto de 2019.
+Ministro Luís Roberto Barroso
+Relator
