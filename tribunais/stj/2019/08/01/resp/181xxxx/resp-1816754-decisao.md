@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (fl. 378, e-STJ):
+APELAÇÃO. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO
+FISCAL. CONTRIBUIÇÕES SOCIAIS. IMUNIDADE TRIBUTÁRIA RECONHECIDA EM AÇÃO PROPOSTA ANTERIORMENTE. HIPÓTESE DE COISA JULGADA.
+I. Inicialmente, compulsando os autos, verifica-se às fls. 219/262 cópias da ação anteriormente ajuizada pela parte embargante (Processo nº 96.03.090269-1, perante a Ia Vara Cível da Comarca de Porto Ferreira/SP), em que a embargante pleiteou o reconhecimento de sua imunidade tributária em razão de sua condição de instituição filantrópica, sem fins lucrativos.
+II. Em julgamento proferido no dia 25 de fevereiro de 1997, a 2a Turma desta Corte decidiu que a embargante é entidade beneficente de assistência social e. portanto, está isenta do recolhimento das contribuições sociais destinadas a Seguridade Social.
+III. Assim sendo, naqueles autos, restou reconhecida a imunidade tributária da embargante, que afastou a obrigação de recolhimento das contribuições sociais referentes à competência de janeiro de 1991 a maio de 1993.
+IV. Nos presentes autos, discute-se a exigibilidade da Certidão da Dívida Ativa - CDA nº 31.733.067-5, que trata da cobrança de contribuições sociais referentes ao mesmo período.
+V. Destarte, a questão concernente à imunidade tributária da parte embargante no referido período já foi decidida por este Tribunal, de modo que não é cabível à esta Turma se manifestar novamente sobre matéria já examinada.
+VI. Assim, in casu, verifica-se que a matéria restou decidida em definitivo em ação proposta anteriormente, restando configurada a ocorrência de coisa julgada material, impondo-se a extinção do presente feito, sem julgamento do mérito (inciso V do artigo 485 do Código de Processo Civil).
+VII. Preliminar de coisa julgada reconhecida. Apelação
+prejudicada.
+Embargos de Declaração rejeitados (fls. 387-393, e-STJ).
+A parte recorrente alega violação aos arts. 337, § 4º, e 502 do CPC. Afirma que os efeitos da coisa julgada não podem alcançar débitos diversos dos discutidos na decisão de mérito (fl. 400, e-STJ).
+Contrarrazões apresentadas às fls. 405-415, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 6.6.2019.
+O recurso não merece prosperar.
+Conforme figura nos autos, cuida-se, na origem, de Embargos à Execução Fiscal contra o INSS com o escopo de desconstituir certidão de dívida ativa.
+O Tribunal regional consignou:
+Assim sendo, naqueles autos, restou reconhecida a imunidade tributária da embargante, que afastou a obrigação de recolhimento das contribuições sociais referentes à competência de janeiro de 1991 a maio de 1993.
+Nos presentes autos, discute-se a exigibilidade da Certidão da Dívida Ativa - CDA nº 31.733.067-5, que trata da cobrança de contribuições sociais referentes ao mesmo período.
+Destarte, a questão concernente à imunidade tributária da parte embargante no referido período já foi decidida por este Tribunal, de modo que não é cabível à esta Turma se manifestar novamente sobre matéria já examinada.
+Destarte, a jurisdição é una e indivisível, não comportando apreciações superpostas a respeito de questões já decididas. Ocorre, na espécie, a coisa julgada, assim concebida respectivamente pelos artigos 337, § 4o, e 502, ambos do Código de Processo Civil.
+É evidente que, para modificar o entendimento firmado no acórdão recorrido sobre a existência de coisa julgada material sobre a decisão de mérito que julgou a exigibilidade da certidão de dívida ativa impugnada nos autos seria necessário exceder as razões nele colacionadas, visto que a instância a quo utilizou elementos contidos nos autos para alcançar tal compreensão, cuja análise demanda o reexame de provas, o que é inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial." Cito precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA A DISPOSITIVOS LEGAIS FEDERAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. SERVIDOR PÚBLICO. REAJUSTE DE 28, 86%. EXECUÇÃO. COMPENSAÇÃO. OFENSA À COISA JULGADA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. INCIDÊNCIA. PRECEDENTES.
+1. Extrai-se do teor do voto condutor do acórdão recorrido que os arts. 303, 468 e 474 do CPC/1973 e as matérias a eles correlatas não foram objeto de debate e apreciação pela Corte de origem, circunstância que redunda na incidência da Súmula 211/STJ em virtude da ausência de prequestionamento dos referidos dispositivos legais pela instância a quo.
+2. A Primeira Seção do STJ, no julgamento do REsp 1.235.513/AL (Rel. Ministro Castro Meira, Primeira Seção, DJe 20/12/2012), submetido ao rito do art. 543-C do CPC, pacificou a orientação de que "não ofende a coisa julgada  ..  a compensação do índice de 28,86% com reajustes concedidos por leis posteriores à última oportunidade de alegação da objeção de defesa no processo cognitivo, marco temporal que pode coincidir com a data da prolação da sentença, o exaurimento da instância ordinária ou mesmo o trânsito em julgado, conforme o caso. Nos embargos à execução, a compensação só pode ser alegada se não pôde ser objetada no processo de conhecimento. Se a compensação se baseia em fato que já era passível de ser invocado no processo cognitivo, estará a matéria protegida pela coisa julgada. É o que preceitua o art. 741, VI, do CPC: "Na execução contra a Fazenda Pública, os embargos só poderão versar sobre  ..  qualquer causa impeditiva, modificativa ou extintiva da obrigação, como pagamento, novação, compensação, transação ou prescrição, desde que superveniente à sentença"".
+3. No caso, verificar se a compensação do reajuste de 28,86% se deu em desconformidade com o que preconiza o título executivo, bem como se ocorreu, ou não, eventual afronta à coisa julgada, é pretensão inviável na via recursal eleita, tendo em vista a necessidade do reexame do acervo fático-probatório dos autos, o que é incabível em recurso especial, segundo o teor da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 445.971/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 26/2/2018).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FASE DE CUMPRIMENTO DE SENTENÇA. IMPOSTO DE RENDA. CÁLCULO. COISA JULGADA. OBSERVÂNCIA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. COTEJO DE PEÇAS PROCESSUAIS DE FEITOS DISTINTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. PRECEDENTES DO STJ. CONSIDERAÇÕES A TÍTULO DE OBITER DICTUM. IRRELEVÂNCIA. AGRAVO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, o Tribunal a quo deu provimento ao Agravo de Instrumento, interposto pelo ora agravado, ao fundamento de que, em observância à coisa julgada, o cálculo do Imposto de Renda incidente sobre as verbas recebidas acumuladamente, a título de URV, deve observar as tabelas e alíquotas vigentes à época em que deveriam ter sido pagas.
+III. Na forma da jurisprudência, "o cotejo de peças processuais não envolve qualquer análise jurídica, mas sim puramente fática, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ" (STJ, AgRg no AREsp 682.099/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 25/10/2016).
+IV. Considerando-se a fundamentação do acórdão recorrido - no sentido de que os cálculos apresentados, para fins de Imposto de Renda, refletem a coisa julgada -, somente com o reexame do conjunto fático-probatório seria possível acolher a argumentação da parte recorrente, o que, efetivamente, encontra óbice na Súmula 7 do STJ.
+V. Os comentários do Tribunal de origem, a título de obiter dictum, não integram a fundamentação do acórdão recorrido, de modo que as razões recursais, tendentes a impugná-los, mostram-se irrelevantes e não merecem ser conhecidas, porquanto incapazes de ensejar a reforma do decisum.
+VI. Agravo interno improvido.
+(AgInt no AREsp 1.121.961/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 11/10/2018).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. EMBARGOS A EXECUÇÃO. VIOLAÇÃO DA COISA JULGADA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. A revisão do julgado, de modo a acolher a pretensão recursal, no sentido de que houve violação aos limites objetivos e subjetivos da coisa julgada, demandaria, necessariamente, o revolvimento do acervo fático-probatório, inviável em recurso especial, nos termos da Súmula 7 desta Corte.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.133.837/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/12/2017).
+Diante do exposto, não conheço do Recurso Especial, com fulcro no art. 932 do CPC.
