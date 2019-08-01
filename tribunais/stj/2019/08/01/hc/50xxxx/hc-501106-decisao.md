@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MILLER PEREIRA DE OLIVEIRA, em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado (fl. 158):
+Apelação - Tráfico de drogas - Sentença de procedência - Pretensão à absolvição - Inadmissibilidade - Materialidade e autoria comprovadas - Credibilidade do relato de policiais - Desclassificação para o consumo próprio - Não acolhimento - Condenação mantida - Pleito de fixação de regime inicial mais brando - Impossibilidade - Substituição da pena privativa de liberdade por restritivas de direito - Inviabilidade - Requerimento de liberação do dinheiro apreendido nos autos - Impossibilidade, ante a não comprovação da sua origem licita - Sentença condenatória mantida - Recurso não provido.
+Consta dos autos que o paciente foi condenado às penas de 1 ano e 8 meses de reclusão, em regime inicial semiaberto, e de 166 dias-multa, como incurso no art. 33, caput e § 4º, da Lei 11.343/2006.
+A defesa interpôs apelação, improvida pelo Tribunal de origem.
+Daí o presente writ, em que o impetrante sustenta, em síntese, que a imposição de regime prisional mais gravoso que a regra geral se deu com base na gravidade abstrata do delito, constituindo, portanto, fundamentação inidônea.
+Requer, liminarmente e no mérito, a fixação do regime aberto para início de cumprimento da pena e a substituição da reprimenda privativa de liberdade por restritivas de direito.
+Deferida a liminar (fls. 170/172) e prestadas as informações (fls. 197/234), o Ministério Público Federal ofertou parecer pela denegação da ordem (fls. 273/243).
+É o relatório.
+DECIDO.
+Sobre a fixação do regime e substituição da pena corporal, o Colegiado Estadual teceu as seguintes considerações (fl. 162):
+Quanto ao regime de cumprimento de pena foi fixado o regime semiaberto.
+Nesse ponto, data vênia, entende-se que não seria cabível a fixação do regime intermediário para o cumprimento de pena para os crimes de tráfico, ainda que o quantum de pena aplicado possa indica-lo como o adequado.
+Certo é que o crime de tráfico de drogas traz consigo diversos reflexos sociais danosos, a conduta é grave, assim, a reprimenda deve-se pesar forte no intuito de garantir a prevenção especial e geral da pena. Logo, tendo em vista as consequências deletérias do crime cometido, entendo inadequada a aplicação de regimes mais brandos para o início de cumprimento da pena, nos termos do artigo 59, inciso III, do Código Penal.
+Todavia, diante da ausência de insurgência do Órgão Ministerial, fica mantido o regime semiaberto, sob pena de incorrer em ofensa ao princípio do non reformado in pejus.
+Outrossim, pelas mesmas razões entendo inviável a substituição da pena privativa por restritiva de direitos, pois tal benefício é reservado a delitos de menor gravidade, tomando-se por base os critérios legais dispostos no artigo 44 do Código Penal.
+Na presente hipótese, referida substituição só estimularia a prática do delito por ausência de punição adequada, não sendo, portanto, medida socialmente recomendável, a substituição da pena privativa de liberdade ao condenado que se dedica ao comércio ilícito de drogas.
+Como antecipado em exame liminar que ora se confirma, sendo a pena-base fixada no mínimo legal, reconhecidos os bons antecedentes e a primariedade, ainda que técnica, do réu, além da aplicação da causa de diminuição do art. 33, § 4º, da Lei de Drogas, não é possível a escolha do modo prisional mais gravoso com base na gravidade abstrata do delito.
+Assim, restando a reprimenda definitivamente estabelecida em patamar inferior a quatro anos - 1 ano e 8 meses de reclusão, a definição de regime penal mais gravoso exigiria concreta motivação, a tanto não servindo argumentos de gravidade abstrata do delito e dos genéricos efeitos sociais da criminalidade. A propósito:
+Súmula 440: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Súmula 718/STF: "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada".
+Súmula 719/STF: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Dessa maneira, nota-se que nenhuma motivação pelo crime concretizado (tráfico privilegiado) foi aduzida no acórdão condenatório para fixar o regime mais severo, indicando-se apenas a gravidade abstrata do delito, o que torna certa a ausência de fundamentos válidos para a imposição de regime mais gravoso.
+Não se tendo no tema, com a clara motivação deficiente, divergência nesta Sexta Turma do Tribunal, reconheço a ilegalidade arguida.
+Quanto ao pedido de substituição da pena corporal, a vedação legal à substituição da pena privativa de liberdade por restritivas de direitos, prevista no art. 33, § 4º, da Lei n. 11.343/2006, não subsiste mais, tendo sido declarado inconstitucional o dispositivo, pelo Pleno do STF, quando do julgamento do HC n. 97.259 (Rel. Min. CARLOS AYRES BRITTO - DJe 16/2/2010), na parte relativa à proibição da substituição da pena privativa de liberdade por restritivas de direitos.
+O entendimento passou, desde então, a ser adotado pelo STJ: AgRg no HC 121.111/SP, Rel. Ministro CELSO LIMONGI (Desembargador Convocado do TJ/SP), SEXTA TURMA, DJe de 17/12/2010, e EDcl no HC 122.269/MG, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe de 22/11/2010.
+Em 15/2/2012, com a edição da Resolução 05/2012, do Senado Federal, foi suspensa a execução da mencionada vedação legal, in verbis:
+RESOLUÇÃO Nº 5, DE 2012.
+Suspende, nos termos do art. 52, inciso X, da Constituição Federal, a execução de parte do § 4º do art. 33 da Lei nº 11.343, de 23 de agosto de 2006.
+O Senado Federal resolve:
+Art. 1º É suspensa a execução da expressão "vedada a conversão em penas restritivas de direitos" do § 4º do art. 33 da Lei nº 11.343, de 23 de agosto de 2006, declarada inconstitucional por decisão definitiva do Supremo Tribunal Federal nos autos do Habeas Corpus nº 97.256/RS.
+Art. 2º Esta Resolução entra em vigor na data de sua publicação.
+Senado Federal, em 15 de fevereiro de 2012.
+Ressalte-se, ainda, que o Plenário do Supremo Tribunal Federal firmou orientação segundo a qual O tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos. Eis a ementa do referido acórdão:
+HABEAS CORPUS. CONSTITUCIONAL, PENAL E PROCESSUAL PENAL. TRÁFICO DE ENTORPECENTES. APLICAÇÃO DA LEI N. 8.072/90 AO TRÁFICO DE ENTORPECENTES PRIVILEGIADO: INVIABILIDADE. HEDIONDEZ NÃO CARACTERIZADA. ORDEM CONCEDIDA.
+1. O tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos.
+2. O tratamento penal dirigido ao delito cometido sob o manto do privilégio apresenta contornos mais benignos, menos gravosos, notadamente porque são relevados o envolvimento ocasional do agente com o delito, a não reincidência, a ausência de maus antecedentes e a inexistência de vínculo com organização criminosa.
+3. Há evidente constrangimento ilegal ao se estipular ao tráfico de entorpecentes privilegiado os rigores da Lei n. 8.072/90. 4. Ordem concedida. (HC 118533, Relator(a):  Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 23/06/2016, PROCESSO ELETRÔNICO DJe-199 DIVULG 16-09-2016 PUBLIC 19-09-2016).
+Nesse contexto, alinhando-se à posição do STF, a Terceira Seção desta Corte entendeu pela necessidade de revisão do entendimento anteriormente consolidado, com o consequente cancelamento da Súmula 512/STJ. A propósito: Pet 11.796/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 23/11/2016, DJe 29/11/2016.
+Dessa forma, tendo em vista a primariedade do paciente, a fixação da pena-base no mínimo legal, e o quantum final da sanção, devida a substituição da pena privativa de liberdade por restritiva de direitos, nos termos dos art. 44 do Código Penal. Nesse diapasão:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. MODO ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Estabelecida a pena em 1 ano e 8 meses, sendo primário o réu e favorável a análise das circunstâncias judiciais, o regime aberto é o adequado para o cumprimento da pena reclusiva, nos termos do art. 33, §§ 2º e 3º, do Código Penal, sobretudo quando não expressiva a quantidade de droga apreendida - 26,8 g de maconha e 2,7 g de cocaína.
+2. Preenchidos os requisitos legais, deve ser substituída a pena privativa de liberdade por restritivas de direito, uma vez que suprimidas do texto legal, mediante a Resolução n. 5/2012 do Senado Federal, os óbices que vedavam a concessão da permuta legal aos condenados pelo delito de tráfico de drogas.
+3. Agravo regimental não provido. (AgInt no AREsp 1160960/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/11/2017, DJe 01/12/2017).
+Ante o exposto, concedo o habeas corpus para fixar o regime inicial aberto e substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem estabelecidas pelo Juízo das Execuções.
+Comunique-se.
+Publique-se.
+Intimem-se.
