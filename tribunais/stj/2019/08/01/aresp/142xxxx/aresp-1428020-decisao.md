@@ -1,0 +1,29 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] e OUTRA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+NULIDADE DE NEGÓCIO JURÍDICO. Cessão de direitos hereditários firmada pelo inventariante e representante da única herdeira, menor, por instrumento particular, sem autorização judicial para venda. Negócio jurídico nulo. Violação ao art. 1.691 do CC. Ausência de prévia autorização judicial. Forma prescrita em lei. Aplicação do art. 252 do Regimento Interno do TJSP. Retorno das partes ao status quo ante. Devolução apenas dos valores comprovadamente pagos pelos compradores. Indenizações pelas benfeitorias realizadas e pela ocupação do imóvel compensadas. Sentença mantida. Honorários advocatícios majorados. Recursos não providos, com observação.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 341 do CPC de 2015; 1.219 do CC.
+Alegam, em síntese, que podem reter o bem até o recebimento dos prejuízos suportados. Defendem terem agido de boa-fé, o que lhe garantem a retenção do bem até a restituição dos valores gastos.
+Por outro lado, afirmam que "o valor acordado consta de forma expressa no contrato celebrado e NÃO foi impugnado pelo recorrido, o que nos termos do artigo 341 do NCPC, o torna incontroverso".
+É o relatório. DECIDO.
+2. A matéria tratada no artigo 341 do CPC de 1973, não foi objeto de análise pelo acórdão recorrido. Não foram opostos embargos declaratórios com o fito de suprir a existência de eventual omissão perpetrada pelo Tribunal de origem.
+De modo que a ausência de manifestação judicial a respeito da referida matéria trazida à cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+3. No mais, ao apreciar a controvérsia, o Tribunal local assim consignou:
+As alegações do genitor de que efetuou a venda para o custeio das necessidades da autora, então menor, não merecem agasalho. Verifica- se que ele, nos autos do inventário, chegou a peticionar postulando a venda (fls. 21/22), ao que, após a cota do Ministério Público, foi determinada a juntada de 3 avaliações, o que não foi atendido pelo genitor, que ao final acabou por realizar a venda sem a necessária autorização judicial. Nesse passo, outra não poderia ser a conclusão que não a decretação da nulidade do negócio jurídico.
+Não importa que o genitor tivesse "falado com o advogado que o autorizou a vender o imóvel" ou que tivesse a "anuência da filha menor", havia necessidade de autorização judicial prévia, nos exatos termos do artigo 1.691 e parágrafo único do Código Civil.
+Uma vez declarada a nulidade do contrato, as partes devem retornar ao status quo ante, com devolução dos valores pagos pelos compradores.
+Por fim, os compradores pleiteiam indenização pelas benfeitorias realizadas no imóvel, enquanto que a parte contrária requer indenização em razão da ocupação do imóvel.
+Como ressaltado pelo Juízo de primeiro grau, as circunstâncias dos autos autorizam a compensação de valores, pois os adquirentes exercem a posse sobre o imóvel desde 2010 e o alugam a terceiro desde janeiro de 2011 (fls.19/23), tendo usufruído das benfeitorias realizadas sobre o bem, que foi adaptado para fins de locação a escola infantil.
+A parte prejudicada com a venda, [NOME], receberá o imóvel com as melhorias realizadas, se entremostrando razoável a compensação determinada na sentença.
+O acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e a parte agravante não cuidou de impugnar todos eles, como seria de rigor.
+Assim, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, quais seja, a necessidade de autorização judicial prévia e a compensação de valores, impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Ainda que assim não fosse, o acolhimento da pretensão recursal, a fim de verificar se seria ou não devida a indenização pelas benfeitorias realizadas, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CESSÃO DE DIREITOS HEREDITÁRIOS. ESCRITURA PÚBLICA. NECESSIDADE. AUSÊNCIA DE CONHECIMENTO DO NEGÓCIO JURÍDICO. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF. INDENIZAÇÃO POR BENFEITORIAS. BOA-FÉ NÃO COMPROVADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A cessão de direitos hereditários deve ser formalizada por escritura pública. Precedentes.
+3. A ausência de impugnação dos fundamentos do aresto recorrido enseja a incidência, por analogia, da Súmula nº 283 do Supremo Tribunal Federal.
+4. Rever as conclusões do tribunal de origem acerca do não cabimento da indenização pelas benfeitorias em virtude da má-fé na posse exigiria a análise das circunstâncias fático-probatórias, procedimento inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 947.708/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/08/2018, DJe 27/08/2018)
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
