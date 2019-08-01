@@ -1,0 +1,32 @@
+DECISÃO
+Vistos, etc.
+Trata-se de conflito negativo de competência em que figuram, como suscitante, o Juízo da Vara do Trabalho de Uruaçu - GO e, suscitado, Juízo de Direito da Vara 2ª Vara Cível de Niquelândia - GO.
+Narram os autos que [NOME] ajuizou ação de cobrança contra o Município de Niquelândia, sob a afirmação de que foi contratada para o exercício do cargo de professora, sob o regime celetista e que faz jus ao restabelecimento de gratificação incorporada ao seu salário.
+O Juízo de Direito da Vara 2ª Vara Cível de Niquelândia - GO declinou da competência ao fundamento de que a lei que instituiu o regime estatutário foi declarada inconstitucional, razão pela qual voltaria a viger o regime celetista anteriormente estabelecido na contratação.
+Por sua vez, o Juízo da Vara do Trabalho de Uruaçu - GO instaurou o presente incidente, sustentando que o vínculo estabelecido entre o autor e a edilidade é jurídico-administrativo.
+O parecer do Ministério Público Federal é pela competência da Justiça Especializada.
+É o relatório.
+Os Juízos não divergem em relação à natureza estatutária do vínculo entre a demandante e a edilidade. Logo, incide a Súmula 137/STJ, que dispõe: "Compete à Justiça Comum Estadual processar e julgar ação de servidor público municipal, pleiteando direitos relativos a vínculo estatutário."
+Esse é o entendimento desta Corte ao apreciar casos análogos:
+AGRAVO REGIMENTAL EM CONFLITO DE COMPETÊNCIA MANEJADO PELO MUNICÍPIO INTERESSADO. ALEGAÇÃO DE INCONSTITUCIONALIDADE DA LEI LOCAL QUE INSTITUIU REGIME CELETISTA. IMPERTINÊNCIA. IMERSÃO NO MÉRITO DA CAUSA. IMPOSSIBILIDADE NO INCIDENTE DO CONFLITO DE COMPETÊNCIA. CONFLITO EM RAZÃO DA MATÉRIA. SOLUÇÃO A PARTIR DA ANÁLISE DO PEDIDO E DA CAUSA DE PEDIR VEICULADOS NA INICIAL.
+ ..
+5. Para a solução do presente conflito, basta a este STJ, na esteira de precedentes das três Seções que o integram, reafirmar o entendimento de que, tratando-se de conflito de competência em razão da matéria, a fixação do juízo competente deve considerar o pedido e a causa de pedir delineados na exordial.
+6. Agravo Regimental a que se nega provimento para manter a decisão agravada, na qual se declarou a competência da Vara do Trabalho de Santa Rita do Sapucaí/MG, o juízo suscitante.
+(AgRg no CC 144.175/MG, Rel. Min. SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe 8/11/2016)
+Além disso, o Excelso Pretório, no julgamento da Ação Declaratória de Inconstitucionalidade n. 3.395-DF, excluiu da expressão "relação de trabalho", prevista no art. 114, inc. I (redação conferida pela Emenda Constitucional n. 45/2004), as ações decorrentes do regime estatutário, aplicável aos servidores públicos, que devem ser julgadas pela Justiça comum, estadual ou Federal, a depender do ente público ao qual se vincula o servidor, ainda que se trate de contratações temporárias e irregulares.
+No ponto:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RECLAMAÇÃO TRABALHISTA. CONTRATAÇÃO TEMPORÁRIA, SEM CONCURSO PÚBLICO. RELAÇÃO DE NATUREZA JURÍDICO-ADMINISTRATIVA. TRABALHADOR TERCEIRIZADO. MANUTENÇÃO DO CARÁTER JURÍDICO-ADMINISTRATIVO. ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES DO STJ. COMPETÊNCIA DA JUSTIÇA COMUM. SIMPLES REITERAÇÃO DE ARGUMENTOS. NÃO-CABIMENTO. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas não configuram as hipóteses de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A rediscussão, via embargos de declaração, de questões de mérito já resolvidas configura pedido de alteração do resultado do decisum, traduzindo mero inconformismo com o teor da decisão embargada.
+Nesses casos, a jurisprudência desta Corte Superior é pacífica no sentido de que os embargos não merecem prosperar.
+3. A controvérsia está relacionada ao juízo competente para processar e julgar demanda ajuizada por agente público em face de município, questionando o pagamento de verbas trabalhistas, em razão de contrato temporário por empregado terceirizado de prestadora, em prol de ente público tomador do serviço. Sobre a questão, a Emenda Constitucional n. 45/2004, que deu nova redação ao art. 114 da Carta Magna, aumentou de maneira expressiva a competência da Justiça Laboral. Entretanto, na Ação Direta de Inconstitucionalidade n. 3395-6, o Supremo Tribunal Federal suspendeu em parte a eficácia do inciso I do art. 114 da Constituição da República, que atribuía à Justiça do Trabalho competência para processar e julgar ações envolvendo entidades de Direito Público e seus respectivos servidores. Portanto, não há que se falar em competência da Justiça do Trabalho para processar a referida demanda, em razão da natureza jurídico-administrativa existente entre o Poder Público e o servidor público, ainda que em contratações temporárias e/ou irregulares.
+Especificamente no que diz respeito aos contratos por terceirização, o STF assim decidiu no Conflito de Competência n. 7763. Precedentes do STJ.
+4. Tratando-se de mera reiteração de argumentos anteriormente levantados, e sendo certo que as questões apontadas como omitidas foram clara e fundamentadamente examinadas nas decisões precedentes, são manifestamente descabidos os presentes declaratórios.
+5. Embargos de declaração rejeitados.
+(EDcl no CC 135.523/RS, Rel. Min. MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 22/10/2014, DJe 5/11/2014)
+AGRAVO REGIMENTAL EM CONFLITO DE COMPETÊNCIA. CONTRATAÇÃO TEMPORÁRIA. ART. 37, IX, DA CF/1988. ENTE PÚBLICO QUE ADOTA A CLT PARA O PESSOAL PERMANENTE. PREVALÊNCIA DA NATUREZA JURÍDICO-ADMINISTRATIVA DA RELAÇÃO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Compete à Justiça Comum, Estadual ou Federal, conforme o caso, processar e julgar as demandas com origem em contratos temporários de trabalho, fundados no art. 37, IX, da Constituição Federal, ainda que o ente contratante adote o regime celetista para os demais empregados de seu quadro efetivo. Precedentes.
+2. Agravo Regimental não provido.
+(AgRg no CC 142.917/PR, Rel. Min. SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 23/11/2016, DJe 1º/12/2016)
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara da Fazenda Pública de Niquelândia - GO.
+Publique-se. Intimem-se.
