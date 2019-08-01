@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional em desafio a acórdão assim ementado (e-STJ fl. 224):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. REMESSA OFICIAL. NÃO CABIMENTO. ART. 496, § 3º, I, NCPC. AUXÍLIO-DOENÇA E APOSENTADORIA POR INVALIDEZ. LEI 8.213/1991. PERDA DA QUALIDADE DE SEGURADO. BENEFÍCIOS INDEVIDOS.
+- Considerando as datas do termo inicial do beneficio concedido e da prolação da sentença, bem como o valor da benesse, verifica-se que a hipótese em exame não excede os 1.000 salários mínimos, sendo incabível a remessa oficial, nos termos do art. 496, § 3º, inciso I, do NCPC.
+- A aposentadoria por invalidez é devida ao segurado que, cumprida a carência mínima, quando exigida, for considerado incapaz para o trabalho e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência, ao passo que o auxílio-doença destina-se àquele que ficar temporária ou parcialmente incapacitado para o exercício de sua atividade habitual.
+- Diante da perda da qualidade de segurado, descabe falar-se em concessão de auxílio-doença ou aposentadoria por invalidez.
+- Condenação da parte autora em honorários advocatícios fixados em 10% do valor atualizado da causa, sob a condição suspensiva prevista no artigo 98, § 3º, do Novo CPC, que manteve a sistemática da Lei n. 1060/50, por ser beneficiária da justiça gratuita.
+- Remessa oficial não conhecida e apelação do INSS provida.
+- Recurso adesivo da parte autora prejudicado.
+No especial obstaculizado, a recorrente apontou violação dos arts. 42 e 59 da Lei n. 8.213/1991, sustentando que as enfermidades a impossibilitam de exercer qualquer tipo de atividade, conforme laudo pericial juntado aos autos.
+Aduz que "as patologias da recorrente são anteriores a data em que deixou de contribuir, restando claro que somente deixou de contribuir porque não tinha mais condições de trabalhar, e assim auferir rendas suficientes para arcar com as contribuições" (e-STJ fl. 233).
+ Transcorrido in albis o prazo para contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que o julgado foi baseado em matéria fática, cuja alteração esbarra na Súmula 7 do STJ.
+Na presente irresignação, a agravante sustenta que não pretende o reexame de matéria fática, mas apenas a interpretação da legislação vigente.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito esse esclarecimento, verifico que foram preenchidos os requisitos de admissibilidade do agravo, motivo pelo qual passo a analisar o recurso especial.
+No que toca à alegação de que não lhe podem ser exigidas contribuições por não ter condições de trabalhar, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição das Súmulas 282 e 356 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PAGAMENTO VIA COMPENSAÇÃO. ACÓRDÃO RECORRIDO BASEADO EM NORMA CONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 170 DO CTN. SÚMULA 282 DO STF. INVIABILIDADE DO APELO NOBRE. AUSÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, esclarecer obscuridade ou eliminar contradição existente no julgado ou corrigir erro material.
+2. No caso em apreço o aresto embargado consignou que a instância de origem reconheceu a inconstitucionalidade de normas infralegais do Estado do Paraná - e, por conseguinte, a legitimidade do pagamento mediante compensação entre créditos e débitos, conforme pretensão da parte ora recorrida -, a partir de exegese do art. 78, § 2o. do ADCT.
+3. A ausência de prequestionamento de tese envolvendo lei federal inviabiliza a análise meritória da insurgência, nos termos da Súmula 282 do STF.
+4. O reexame de matéria analisada pela instância de origem a partir de prisma exclusivamente constitucional não pode ter vez no âmbito do Apelo Nobre, que se destina à preservação da lei federal e do tratado.
+5. Embargos de Declaração rejeitados.
+(EDcl no AgRg no AgRg no REsp 1.104.181/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 21/06/2016, DJe 29/06/2016).
+PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. APOSENTADORIA POR INVALIDEZ. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7/STJ. IMPEDIMENTO DE ANÁLISE DE DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO.
+I - A Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas que envolvem a matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ.
+II - Ressalte-se ainda que a incidência do enunciado n. 7 quanto à interposição pela alínea a impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1044194/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/10/2017, DJe 27/10/2017.
+III - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo) e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+IV - Agravo interno improvido.
+(AgInt no AREsp 1.207.597/GO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/05/2018, DJe 15/05/2018).
+Nos termos do disposto no art. 85, § 11, c/c o art. 98, VI, §§ 2º e 4º, do CPC de 2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita, exceto em ações acidentárias, nos termos do art. 129, parágrafo único, da Lei n. 8.213/1991.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Majoro os honorários recursais em 10% (dez por cento) sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do art. 85 do CPC de 2015. Suspensa a exigibilidade por se tratar de beneficiário de justiça gratuita, conforme dicção do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
