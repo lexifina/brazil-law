@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal Regional Federal da 4ª Região, reformando o entendimento do Juízo, julgou procedente o pedido de diferenças salariais, conforme apurado em execução. No extraordinário, a recorrente aponta violados os artigos 14 da Emenda Constitucional nº 20/98 e 5º da Emenda Constitucional nº 41/2003. Alude ao decidido no recurso extraordinário nº 564.354/SE. Diz devida a recomposição do benefício, mesmo se não superado o valor do teto.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Quanto à matéria de fundo propriamente dita, ou seja, o mérito do pedido revisional, tenho que a decisão do STF proferida em sede de repercussão geral (RExt 564.354) é plenamente aplicável às aposentadorias concedidas sob a égide do sistema normativo anterior.
+    No julgamento do aludido recurso, o qual teve como relatora a Ministra Carmem Lúcia, o STF decidiu "que só após a definição do valor do benefício é que se aplica o limitador (teto). Ele não faz parte do cálculo do benefício a ser pago. Assim, se esse limite for alterado, ele é aplicado ao valor inicialmente calculado". Para a Corte, como bem salientado pelo Ministro Gilmar Mendes, "o teto é exterior ao cálculo do benefício" e tem por função apenas limitar o valor do benefício previdenciário no momento de seu pagamento, não impedindo que o valor eventualmente glosado em virtude de sua incidência venha a ser, total ou parcialmente, considerado por ocasião de um aumento real do valor do teto, o que ocorreu por intermédio das Emendas Constitucionais 20/98 e 41/03.
+    [...]
+    Nesta senda, somente se afastaria o entendimento firmado pelo STF se não atingidos, nas datas em que entraram em vigor as ECs nºs 20/98 e 41/03, os tetos por elas estabelecidos, considerando o valor da média dos salários-de-contribuição apurado na implantação, devidamente atualizado, o que deverá ser verificado por ocasião da execução.
+    […]
+    Quanto à solução adotada pelo julgador de piso, no sentido da inexistência de reflexos dos tetos introduzidos pelas EC's 20/98 e 41/03 no benefício da parte autora, entendo que a existência de prejuízos pela limitação aos tetos, somente poderá ser apurada na fase de execução, inclusive porque é possível a existência de pleito correlato (na via administrativa ou judicial) de elevação do salário de benefício da parte autora, razão pela qual deve ser acolhido o pedido inicial.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Observe-se que o decidido pelo Supremo Tribunal Federal não assegura o reajustamento da renda mensal de todos os benefícios concedidos anteriormente às aludidas emendas constitucionais. Garante apenas, como visto, o direito à diferença que decorre da elevação do redutor constitucional, com relação a benefício cujo valor ficou aquém do que normalmente seria se não houvesse o teto, sendo que muitos segurados não estão sujeitos ao redutor, porque recebem menos, e não alcançam o valor estabelecido pelo teto.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 1º de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
