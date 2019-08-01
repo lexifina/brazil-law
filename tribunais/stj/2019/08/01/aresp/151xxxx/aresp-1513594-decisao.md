@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo apresentado por PRODUTOS DE LATEX SILA LTDA, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO - PREPARO INSUFICIENTE - COMPLEMENTAÇÃO A MENOR - DESERÇÃO - AÇÃO DE COBRANÇA JULGADA PROCEDENTE - VENCIDO QUE BUSCA A REFORMA DO JULGADO - PREPARO INSUFICIENTE - DETERMINAÇÃO DE COMPLEMENTAÇÃO - RECOLHIMENTO NOVAMENTE A MENOR - DESERÇÃO - INTELIGÊNCIA DO ARTIGO 1007 PARÁGRAFO 2º DO CÓDIGO DE PROCESSO CIVIL DE 2015 - RECURSO NÃO CONHECIDO (fls. 275).
+Quanto à controvérsia, alega violação do art. 1.007, §2º, do CPC/2015, no que concerne à deserção do recurso de apelação interposto nestes autos, trazendo, em síntese, os seguintes argumentos:
+ ..  no presente caso, o venerando acórdão recorrido, ao não conhecer do recurso interposto, sob o fundamento de que as custas foram recolhidas a menor, não esclarecendo de forma expressa o valor que deveria ter sido recolhido pela Recorrente, sem conceder prazo para complementação, o que foi requerido, violou expressamente as disposições contidas no artigo 1007, §2º, do Código de Processo Civil (fls. 283).
+É o relatório. Decido.
+No que concerne ao recurso apresentado por PRODUTOS DE LATEX SILA LTDA, na espécie, o acórdão recorrido assim decidiu (grifos nossos):
+A hipótese é de reconhecimento da deserção do recurso.
+Com efeito, considerando que a sentença de folhas 174/176 tornou-se ilíquida com o acolhimento dos embargos de declaração opostos pela autora, a base de cálculo do preparo é de R$ 14.772,72 (valor da causa), com correção a partir 14/10/2011, data da distribuição da ação.
+O valor recolhido a folhas 200 e 201-A (R$ 590,90) foi inferior ao devido, pois deveria ter sido recolhido o valor de R$ 817,28, restando a recolher inicialmente R$ 227,28 (calculado em 07/2018, mês em que efetuada a connplennentação), montante que, corrigido até 08/2018 (mês do novo recolhimento), resulta no valor de R$ 246,39.
+E, embora concedido prazo para complementação (folhas 221), o recorrente efetuou o recolhimento novamente a menor (folhas 227/228), fazendo mero cálculo de subtração (R$ 806,05 - R$ 590,90 = 215,15), sem a devida atualização do valor até a data do recolhimento, deixando de observar o quanto expressamente determinado a folhas 221.
+ ..
+Anote-se que a oportunidade de complementação já foi concedida, razão pela qual inviável nova dilação, como postulado a folhas 224.
+ ..
+Assim, diante da derradeira oportunidade concedida para saneamento do vício, é medida de rigor o reconhecimento da deserção, nos termos do art. 1007, §2º, do NCPC.
+Trata-se de requisito de admissibilidade recursal que, não cumprido, impede o conhecimento do recurso (fls. 276/277).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão totalmente dissociadas dos fundamentos utilizados no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Verifica-se que o recurso encontra-se deficientemente fundamentado, uma vez que as razões insertas no recurso não permitem a exata compreensão da controvérsia, na medida em que se encontram dissociadas dos fundamentos da decisão agravada, aplicando-se, ao caso, por analogia, o enunciado da Súmula 284/STF" (AgRg no AREsp n. 1.394.624/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/3/2019).
+Confiram-se ainda os seguintes precedentes: EDcl nos EDcl nos EAREsp n. 740.722/SE, relator Ministro Francisco Falcão, Corte Especial, DJe de 14/12/2017; e REsp n. 1.722.691/SP, relator Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe 15/3/2019.
+Ademais, opera-se o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto, a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Destarte: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+À propósito: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
