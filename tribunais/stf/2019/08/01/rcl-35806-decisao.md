@@ -1,0 +1,34 @@
+Decisão
+    Trata-se de Reclamação contra decisão proferida pelo Tribunal de Justiça do Rio de Janeiro, que teria usurpado a competência desta CORTE.
+    Na inicial, a parte autora sustenta, em síntese, que: (a) os presentes autos tratam de falha na prestação do serviço de telefonia em toda a Localidade de Sapucaia, Estado do Rio de Janeiro, por 21 (vinte e um) dias pela operadora Claro e 14 (quatorze) dias pela operadora TIM, e protesta contra a existência de consumidores indenizados e outros não, pelo mesmo fato (fl. 2); e (b) interposto o Recurso Extraordinário, a Terceira Vice Presidência do E.TJERJ, usurpando da competência deste E.STF, negou seguimento ao Recurso Extraordinário sob o prisma de que, em tese, não possuía Repercussão Geral, o que gerou a interposição de Agravo Interno e Agravo em Recurso Extraordinário que também foi desprovido, gerando uma verdadeira barreira intransponível para que o Recurso não fosse analisado por Esta Suprema Corte, mesmo estando claramente demonstrado a violação aos corolários constitucionais da Isonomia e Segurança Jurídicas (fl. 2). Requer a concessão de medida liminar, a ser confirmada ao final, a fim de cassar o ato impugnado.
+     É o relatório. Decido.
+    A respeito do cabimento da reclamação para o SUPREMO TRIBUNAL FEDERAL, dispõem os arts. 102, I, “l”, e 103-A, caput e § 3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    No caso, a presente Reclamação é manifestamente incabível.
+    O Juízo reclamado, ao negar seguimento ao RE (doc. 11), amparando-se em precedentes do STF formados em conformidade com as regras da Repercussão Geral, ao fundamento de ausência de repercussão da matéria discutida nos autos, Tema 890 - ARE 950.787, Rel. Min. LUIZ FUX; Tema 869 - ARE 927.467, Rel Min. EDSON FACHIN; Tema 866 - ARE 919.285, Rel. Min. TEORI ZAVASCKI, observou a sistemática recursal em vigor, que, na espécie, assim dispõe, in verbis:
+    “Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+    I - negar seguimento:
+    a) a recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou a recurso extraordinário interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral;
+    (...)”
+     Além disso, o juízo reclamado observou corretamente as diretrizes estabelecidas por esta CORTE nos precedentes acima citados, nos quais assentou-se a ausência de repercussão geral das matérias discutidas nos temas transcritos abaixo:
+    Tema 890: A questão da ofensa aos princípios da dignidade da pessoa humana, da legalidade, da propriedade e sua função social, do devido processo legal e do acesso à Justiça, quando decorrente de relação contratual, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+    Tema 869: A questão do direito à indenização por danos morais pelo inadimplemento de cláusula contratual, representado pelo atraso na entrega de imóvel residencial, comprado ainda na planta, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+    Tema 866: A questão da validade de revisão do índice de correção monetária aplicado ao saldo devedor de contrato extinto ou quitado tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+    Logo, inexiste a alegada usurpação de competência desta SUPREMA CORTE.
+    Nessas circunstâncias, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Por fim, nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 1º de agosto de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
