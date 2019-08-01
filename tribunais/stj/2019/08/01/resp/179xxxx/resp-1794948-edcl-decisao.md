@@ -1,0 +1,101 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. INTUITO PROTELATÓRIO. INCIDÊNCIA DA MULTA DO ART. 1.026, § 2º, DO NCPC. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+DECISÃO
+ANTONIO CARLOS XAVIER DE MACEDO, DORVALINA TOZZI, DIVINA SANTA DE SOUZA, IDE KUHN FELIPE, [NOME], SARTORI & CANTARELLI LTDA. e ESTEFANO MIOTTO SECOS E MOLHADOS (ANTONIO e outros) ajuizaram ação de adimplemento contratual em desfavor de OI S/A (OI), nova denominação de BRASIL TELECOM S/A, cujos pedidos foram julgados procedentes em parte para condenar a ré a complementar o número de ações devidas aos autores ou a indenizar em valor equivalente (e-STJ, fls. 290/299).
+Os embargos de declaração opostos por OI foram rejeitados (e-STJ, fls. 314/316).
+Irresignada, OI interpôs apelação, que foi provida em parte pelo Tribunal de origem em acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO - ADIMPLEMENTO CONTRATUAL - LITISPENDÊNCIA VERIFICADA EM RELAÇÃO A UMA AUTORA - INÉPCIA DA INICIAL - NÃO OCORRÊNCIA - LEGITIMIDADE PASSIVA - SUCESSÃO - INTERESSE DE AGIR CONFIGURADO - PRESCRIÇÃO - INOCORRÊNCIA - PRAZO GERAL - NATUREZA OBRIGACIONAL - CONTRATO DE PARTICIPAÇÃO FINANCEIRA - SUBSCRIÇÃO DAS AÇÕES PELA BRASIL TELECOM S/A - COBRANÇA DE DIFERENÇAS DE AÇÕES SUBSCRITAS E CRÉDITOS DECORRENTES - POSSIBILIDADE - CONTRATO SOB O REGIME PAID - IRRELEVÂNCIA - GRUPAMENTO DE AÇÕES - IMPOSSIBILIDADE DE AFETAR A INDENIZAÇÃO DEVIDA - JUROS DE MORA - RESPONSABILIDADE CONTRATUAL - LIQUIDAÇÃO DA SENTENÇA POR ARBITRAMENTO - DESNECESSIDADE.
+1. Constatada a litispendência em relação a uma Autora, deve o feito ser extinto sem resolução de mérito em face dela, na forma do artigo 267, V, do Código de Processo Civil.
+2. Não se verifica inépcia da inicial quando os Autores informaram na petição inicial os nomes completos, CPF e, ainda, acostaram faturas telefônicas, os quais são suficientes para indicar a relação jurídica entre as partes.
+3. A Brasil Telecom S/A como sucessora de Telecomunicações Brasileiras S/A tem legitimidade passiva para responder por todas as obrigações decorrentes do contrato de participação financeira celebrado entre o Autor e a Telepar S/A.
+4. Demonstrada tanto a utilidade quanto a necessidade do provimento judicial não há que se falar em falta de interesse de agir, sendo desnecessário o esgotamento da via administrativa para autorizar a demanda judicial.
+5. A pretensão em tela refere-se a direito pessoal dos Apelados, razão pela qual incide a regra geral de prescrição, não havendo condições de, no caso em tela, ser analisada sua ocorrência diante da ausência de juntada pela Apelante de documento comprobatório da data em que as ações foram erroneamente subscritas.
+6. Ainda que o contrato tenha sido firmado sob o regime de Plano de Atendimento Integral da Demanda - PAID - o direito à complementação das ações permanece.
+7. O Grupamento das ações é uma operação que visa viabilizar a política econômica da empresa, não podendo ensejar qualquer alteração nos direitos acionários dos contratantes.
+8. Em se tratando de responsabilidade contratual, aplica-se o art. 219 do Código de Processo Civil, combinado com o art. 405 do Código Civil, que dispõem ser a data da citação o marco para constituir em mora a Requerida.
+9. Não se verifica a necessidade de que a liquidação da sentença se realize por arbitramento, bastando simples cálculo aritmético.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO. (e-STJ, fls. 435/437).
+Os embargos de declaração opostos por OI foram rejeitados (e-STJ, fls. 476/480).
+Irresignada, a OI interpôs recurso especial, com fundamento no art. 105, III, alíneas a e c, da CF, sustentando violação dos arts. 475-C, II, 475-D e 535, II, do CPC/73, 884 e 886 do CC/02, e 100, § 1º, e 170, § 1º, da Lei nº 6.404/76. Alegou, em síntese, (1) omissão no julgado no tocante ao critério de conversão das ações em indenização; (2) não há interesse processual na presente demanda, porquanto o autor não requereu o fornecimento dos documentos e informações na via administrativa, na forma do disposto no art. 100, § 1º, e 170, § 1º, da Lei das Sociedades por Ações; (3) os juros moratórios devem incidir a partir da conversão das ações em pecúnia; (4) vedação ao enriquecimento sem causa, uma vez que que para o cálculo do diferencial acionário, deve-se levar em consideração as operações de grupamento de ações; e, (5) necessidade de liquidação de sentença, com realização de perícia contábil ou, no mínimo, remessa dos autos à contadoria.
+Apresentadas contrarrazões (e-STJ, fls. 603/612), o recurso foi admitido na origem (e-STJ, fls. 645/646).
+Em decisão monocrática de minha lavra provi parcialmente o recurso especial para afastar a determinação de exibição de documentos que não tenham sido objeto de prévio requerimento administrativo e de pagamento do custo respectivo e para que, no cálculo do número de ações devidas, sejam considerados os agrupamentos acionários eventualmente ocorrido, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO CPC/73. AÇÃO DE ADIMPLEMENTO CONTRATUAL. EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. LEGITIMIDADE PASSIVA. RECONHECIMENTO. PRECEDENTE. CONTRATO DE PRESTAÇÃO DE SERVIÇO DE TELEFONIA. PRÉVIO REQUERIMENTO ADMINISTRATIVO E DE PAGAMENTO DE TAXA. VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. CÁLCULO DO VALOR DAS AÇÕES CONFORME EVENTOS SOCIETÁRIOS. PRECEDENTE. JUROS MORATÓRIOS. JUROS MORATÓRIOS. DISPOSITIVO LEGAL NÃO PREQUESTIONADO. SÚMULA Nº 211 DO STJ. LIQUIDAÇÃO DA SENTENÇA. SIMPLES CÁLCULO ARITMÉTICO. ALTERAÇÃO DO JULGADO. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO (e-STJ, fl. 663).
+Nestes aclaratórios, a OI alegou falta de interesse de agir implicando na extinção do processo, nos termos do art. 485, VI, do NCPC.
+Não houve impugnação ao recurso (e-STJ, fl. 681).
+Intimada, a OI insistiu no julgamento do seu recurso (e-STJ, fls. 687/691).
+É o relatório.
+DECIDO.
+O atual inconformismo não merece prosperar.
+De plano vale pontuar que a disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O acórdão recorrido não foi obscuro, omisso, contraditório e tampouco apresentou erro material, tendo concluído (1) ausência de violação do art. 535, II, do CPC/1973; (2) em relação ao interesse de agir, a Segunda Seção desta Corte consolidou o entendimento de que nas ações em que se postula a obtenção de documentos com dados societários, para a caracterização do interesse de agir, é necessário o requerimento formal na via administrativa, além do comprovante de pagamento da taxa de serviço, quando a empresa o exigir (art. 100, § 1º, da Lei n. 6.404/1976) e que o entendimento da Súmula nº 389 do STJ, também é aplicável nas hipóteses de exibição incidental de documentos, sendo que o Tribunal de origem concluiu pela inaplicabilidade da citada Súmula para as demandas que contenham pedido incidental de documentos, (3) incidência da Súmula nº 211 do STJ no tocante a alegada violação do art. 884 do CC/02 e a divergência jurisprudencial; (4) em relação aos eventos societários, entendeu que devem ser considerados para o válculo do número de ações devidas; e, (5) incidência da Súmula nº 7 do STJ, no tocante a necessidade de liquidação de sentença.
+Nesse sentido, confira-se o que ficou decidido no agravo em recurso especial:
+(1) Da alegada negativa de prestação jurisdicional (violação do art. 535, II, do CPC/73)
+Não se verifica, no caso, a alegada vulneração do referido dispositivo legal, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Desse modo, não há falar em deficiência de fundamentação da decisão pelo não acolhimento de teses ventiladas pela recorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+(2) Do interesse de agir
+A Segunda Seção desta Corte, quando do julgamento do Recurso Especial nº 982.133/RS (Rel. Ministro ALDIR PASSARINHO JUNIOR, DJe 22.9.08), processado nos moldes do art. 543-C, do CPC, consolidou o entendimento de que nas ações em que se postula a obtenção de documentos com dados societários, para a caracterização do interesse de agir, é necessário o requerimento formal na via administrativa, além do comprovante de pagamento da taxa de serviço, quando a empresa o exigir (art. 100, § 1º, da Lei n. 6.404/1976), nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. FORNECIMENTO DE DOCUMENTOS COM DADOS SOCIETÁRIOS. RECUSA. RECURSO À COMISSÃO DE VALORES MOBILIÁRIOS. LEI N. 6.404/1976, ART. 100, § 1º. AUSÊNCIA DO COMPROVANTE DE RECOLHIMENTO DA "TAXA DE SERVIÇO". RECURSO ESPECIAL REPETITIVO. LEI N. 11.672/2008. RESOLUÇÃO/STJ N. 8, DE 07.08.2008. APLICAÇÃO.
+I. Falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não logra demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo, 1º da Lei 6.404/1976.
+II. Julgamento afetado à 2a. Seção com base no Procedimento da Lei n. 11.672/2008 e Resolução/STJ n. 8/2008 (Lei de Recursos Repetitivos).
+III. Recurso especial não conhecido.
+Em igual sentido:
+PROCESSO CIVIL. BRASIL TELECOM S/A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. REQUERIMENTO ADMINISTRATIVO PRÉVIO. NECESSIDADE. COBRANÇA DA TAXA DE SERVIÇO. LEGALIDADE. ART. 100, § 1º, DA LEI N. 6.404/1976. COBRANÇA DISPENSADA. ARGUMENTAÇÃO RECURSAL. INEXISTÊNCIA DE CORRELAÇÃO COM O DECIDIDO. INCIDÊNCIA DAS SÚMULAS N. 283 E 284 DO STF.
+1. Em ação de exibição de documento, carece de interesse de agir a parte que não demonstra ter apresentado requerimento administrativo para a obtenção de documentos nem comprova o pagamento da taxa de serviço quando exigido pela empresa com base no art. 100, § 1º, da Lei n. 6.404/1976.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no AREsp 401.887/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, DJe 15/4/14)
+Registre-se, por oportuno, que o entendimento do enunciado 389, da Súmula do STJ, também é aplicável nas hipóteses de exibição incidental de documentos, conforme se verifica dos seguintes precedentes, verbis:
+AGRAVO REGIMENTAL NA PETIÇÃO. RECURSO ESPECIAL RETIDO. RECURSO ESPECIAL RETIDO. ART. 542, § 3º, DO CPC PRETENSÃO AO REGULAR PROCESSAMENTO. EXIBIÇÃO INCIDENTAL DE CONTRATO DE PRESTAÇÃO DE SERVIÇO DE TELEFONIA COM CLÁUSULA DE PARTICIPAÇÃO FINANCEIRA. NÃO PAGAMENTO DO CUSTO DO SERVIÇO. SÚMULA 389/STJ.
+ ..
+3. A plausibilidade do direito invocado encontra-se no fato de a questão tratada no recurso especial já ter sido objeto de julgamento pelo Superior Tribunal de Justiça, que tem se posicionado no sentido de ser aplicável o entendimento da Súmula 389/STJ aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira.
+4. Agravo regimental não provido, com aplicação de multa.
+(AgRg na Pet 10.183/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 10/12/13)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. SUBSCRIÇÃO DE AÇÕES. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE INTERESSE DE AGIR. TESE FIRMADA SOB O RITO DOS RECURSOS REPETITIVOS. PRETENSÃO INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. MANUTENÇÃO INTEGRAL DA DECISÃO AGRAVADA.
+ ..
+3. A Segunda Seção desta Corte, quando do julgamento do Recurso Especial nº 982.133/RS (Rel. Ministro ALDIR PASSARINHO JUNIOR, DJe 22.9.08), processado nos moldes do art. 543-C do CPC, consolidou o entendimento de que, nas ações em que se postula a obtenção de documentos com dados societários, para a caracterização do interesse de agir, é necessário o requerimento formal na via administrativa, além do comprovante de pagamento da taxa de serviço, quando a empresa o exigir (art. 100, § 1º, da Lei n. 6.404/1976) 4. Agravo regimental não provido.
+(EDcl no REsp 1.422.940/PR, de minha relatoria, Terceira Turma, DJe 18/6/2015)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DEMANDA ORDINÁRIA DE COMPLEMENTAÇÃO DE SUBSCRIÇÃO DE AÇÕES. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AQUISIÇÃO DE LINHA TELEFÔNICA. EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE PAGAMENTO DO CUSTO DO SERVIÇO. CARÊNCIA DE AÇÃO POR FALTA DE INTERESSE DE AGIR.
+1. De acordo com o entendimento firmado no julgamento do Recurso Especial 982133/RS, afetado à Segunda Seção, com base no procedimento da Lei de Recursos Repetitivos, "falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não lograr demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo 1º da Lei 6.404/1976". Súmula 389 do Superior Tribunal de Justiça (STJ).
+2. O entendimento da Súmula 389 do STJ aplica-se aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira. Precedentes.
+3. Caso em que a parte autora não fez a prévia solicitação administrativa.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 812.092/PR, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 27/5/2016)
+Ademais, esse entendimento não se restringe ao processo cautelar porque, conforme ensina Theotônio Negrão, "a exibição de documentos pode ser requerida em sede de cautelar, e incidentalmente na ação principal" (Código de Processo Civil e legislação processual em vigor, Editora Saraiva, 42ª edição, página 898).
+No caso em apreço, o Tribunal de origem concluiu pela inaplicabilidade da Súmula nº 389 desta Corte as demandas que contenham pedido incidental de documentos.
+(3) Do termo inicial dos juros de mora
+Quanto ao ponto, verifica-se que a OI apontou dissídio jurisprudencial e violação do art. 884 do CC/02 que sequer foi prequestionado pelo Tribunal de origem ao examinar a questão relativa aos juros de mora.
+Incide, portanto, a Súmula nº 211 do STJ.
+(4) Dos fatores utilizados para o cálculo das ações
+Quanto a observância a todos os eventos societários para o cálculo das ações a serem restituídas, razão assiste à companhia telefônica.
+A Segunda Seção desta Corte, no julgamento do REsp nº 1.387.249/SC, sob o rito dos recursos repetitivos, firmou entendimento do sentido de que devem ser consideradas, para o cálculo do número de ações devidas, as diversas transformações societárias ocorridas desde a época do sistema de autofinanciamento até os dias de hoje. É o que se extrai do seguinte trecho do voto condutor:
+Obtida a quantidade de ações a serem complementadas, não se pode olvidar que as companhias de telefonia fixa e móvel sofreram diversas transformações societárias desde a época do sistema de autofinanciamento até os dia de hoje.
+Então, o número de ações obtido deve ser multiplicado por um fator de conversão, para que se encontre o equivalente de ações na companhia sucessora, hoje existente.
+Esse fator de conversão (Fc) deve englobar os agrupamentos acionários eventualmente ocorridos. Por exemplo, se cada grupo de 1.000 ações da companhia X foram agrupadas em uma ação da companhia Y, a variável "Fc" deve englobar essa operação acionária.
+(5) Da necessidade de liquidação da sentença
+Tendo o Tribunal de origem afirmado que, em princípio, não há a necessidade de se proceder a liquidação por arbitramento ou por artigos do julgado, sendo suficiente a mera realização de cálculos aritméticos, não é possível afirmar o contrário sem revisar fatos e provas. Incide, assim, a Súmula nº 7 do STJ.
+Nesse sentido, veja-se precedente:
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. RESTITUIÇÃO DE RESERVA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. INCIDÊNCIA. NECESSIDADE DE LIQUIDAÇÃO POR ARBITRAMENTO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ.
+1. O Enunciado n. 289 da Súmula do STJ determina que "a restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda".
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n.
+7/STJ).
+3. No caso concreto, o Tribunal de origem se baseou nos fatos e nas provas dos autos para concluir pela desnecessidade de liquidação por arbitramento.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 477.827/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 18/8/2016, DJe 23/8/2016) (e-STJ, fls. 666/670 - com destaques no original).
+Vale salientar que os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Assim, considerando anterior advertência quanto à aplicabilidade das normas do NCPC, inclusive no que tange ao cabimento de multa, uma vez verificada a rejeição dos presentes aclaratórios com pretensão de efeito infringentes, postergando a efetividade da prestação jurisdicional, condeno a OI, ao pagamento da multa de 2% sobre o valor atualizado da causa em favor de ANA, nos termos do art 1.026, § 2º, do NCPC, observada a suspensão da exigibilidade dos ônus sucumbencias, a teor do art. 98, § 3º, do mesmo diploma legal.
+Nessas condições, REJEITO os embargos de declaração, com aplicação de multa.
+Publique-se. Intimem-se.
