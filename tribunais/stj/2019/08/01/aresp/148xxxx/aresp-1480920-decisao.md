@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER CUMULADA COM DEVOLUÇÃO DE VALORES. PREVIDÊNCIA PRIVADA COMPLEMENTAR FECHADA. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA AFASTADA. REAJUSTE DE CONTRIBUIÇÃO DOS PARTICIPANTES E ASSISTIDOS. MANUTENÇÃO DO EQUILÍBRIO FINANCEIRO E ATUARIAL. POSSIBILIDADE. REGIME DE CUSTEIO. DIREITO ADQUIRIDO. INEXISTÊNCIA.
+1. Ação de obrigação de não fazer cumulada com devolução de valores em razão de desconto indevido de contribuições extraordinárias referentes à previdência privada complementar.
+2. Afasta-se a multa do §2º do art. 1.026 do CPC/15 quando não se caracteriza o intento protelatório na interposição dos embargos de declaração.
+3. É assegurada ao participante que tenha cumprido os requisitos para obtenção dos benefícios previstos no plano a aplicação das disposições regulamentares vigentes na data em que se tornou elegível a um benefício de aposentadoria; todavia, disso não decorre nenhum direito adquirido a regime de custeio, o qual poderá ser alterado a qualquer momento para manter o equilíbrio atuarial do plano, sempre que ocorrerem situações que o recomendem ou exijam, obedecidos os requisitos legais. Precedentes.
+4. Agravo conhecido. Recurso especial conhecido e provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FUNDAÇÃO BANRISUL DE SEGURIDADE SOCIAL, contra decisão que negou seguimento a recurso especial fundamentado na(s) alínea(s) "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/12/2018.
+Concluso ao gabinete em: 20/05/2019.
+Ação: obrigação de não fazer cumulada com devolução de valores, ajuizada por [NOME], em face da agravante, em razão de desconto indevido de contribuições extraordinárias referentes à previdência privada complementar.
+Sentença: julgou improcedente o pedido.
+Acórdão: deu parcial provimento à apelação interposta pelo agravado, para declarar a ilegalidade dos descontos e condenar a agravante ao ressarcimento dos valores indevidamente descontados na forma simples, nos termos da seguinte ementa:
+Previdência privada complementar fechada. CDC. Inaplicabilidade. Revisão de beneficio. Impossibilidade. Direito adquirido: o assistido tem direito adquirido ao regime jurídico previdenciário vigente à época em que implementadas todas as condições para a aposentação, configurando violação qualquer alteração decorrente de norma posterior. Repetição do indébito: sem prova da má-fé, a repetição do quantum indevidamente" descontado do beneficio previdenciário deve ocorrer de forma simples.
+Embargos de Declaração: opostos pela agravante, foram rejeitados, com aplicação de multa.
+Recurso especial: alega violação dos arts. 17, parágrafo único, 21, §1º, e 68, §1º, todos da LC 109/01, e 1.026, §2º, do CPC/15, bem como dissídio jurisprudencial. Sustenta que: i) os participantes e patrocinadores podem responder por eventuais déficts de entidades fechadas de previdência privada, por meio da implantação de rubricas extraordinárias; ii) não se discute o regime jurídico aplicado para cálculo do benefício previdenciário, que não foi alterado desde a aposentadoria do agravado. Por fim, requer o afastamento da multa por embargos protelatórios.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da multa por embargos de declaração protelatórios
+Da análise dos autos, percebe-se que os embargos de declaração interpostos pela parte agravante não possuem intuito protelatório, razão pela qual, de acordo com a Súmula 98/STJ, a aplicação da multa prevista no §2º do art. 1.026 do CPC/15 deve ser afastada.
+- Da possibilidade de reajuste de contribuição dos participantes de previdência privada para manutenção do equilíbrio financeiro e atuarial do plano de benefícios
+O acórdão recorrido, ao concluir pela impossibilidade de revisão do benefício em razão de direito adquirido ao regime jurídico previdenciário, divergiu da jurisprudência do STJ quanto ao tema, firmada no sentido de que é assegurada ao participante que tenha cumprido os requisitos para obtenção dos benefícios previstos no plano a aplicação das disposições regulamentares vigentes na data em que se tornou elegível a um benefício de aposentadoria; todavia, disso não decorre nenhum direito adquirido a regime de custeio, o qual poderá ser alterado a qualquer momento para manter o equilíbrio atuarial do plano, sempre que ocorrerem situações que o recomendem ou exijam, obedecidos os requisitos legais (AgRg no AREsp 541.301/RJ, 3ª Turma, DJe de 30/9/2015; REsp 1.364.013/SE, 3ª Turma, DJe de 7/5/2015; e REsp 1.384.432/SE, 4ª Turma, DJe de 26/3/2015).
+Logo, o recurso especial merece provimento, com base na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para afastar a multa por embargos protelatórios e restabelecer a sentença proferida nos autos.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
