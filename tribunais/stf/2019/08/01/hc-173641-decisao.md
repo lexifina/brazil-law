@@ -1,0 +1,15 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Excesso de prazo. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a medida cautelar requerida no HC 510.265, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso em flagrante delito em 22.09.2018, pela suposta prática dos crimes previstos nos arts. 33, caput, e 35, caput, ambos da Lei 11.343/06; no art. 16 da Lei 10.826/03; e no art. 180, caput, do Código Penal. O Juízo da 3ª Vara Criminal da Comarca de São Vicente/SP, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 510.265, Ministro Ribeiro Dantas, indeferiu a medida cautelar. Ato contínuo, foi interposto pedido de reconsideração indeferido.
+    4. Neste habeas corpus, a parte impetrante sustenta o excesso de prazo para a conclusão da instrução criminal e requer a concessão da ordem a fim de revogar a prisão processual do acionante.
+    Decido.
+    5. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    6. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a aferição de eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo).
+    7. Na hipótese de que se trata – para além de observar que se trata de paciente preso em flagrante delito com 302,155 kg de cocaína, 3 fuzis, 5 carregadores para fuzis e 186 munições – o fato é que, tal como assentou o Tribunal estadual, “ainda que a ação penal não esteja tramitando com a celeridade desejada, é certo que a demora não pode ser imputada única e exclusivamente ao magistrado de primeiro grau que, diga-se, vem tomando todas as medidas necessárias ao seu regular andamento. Ressalte-se que, além da ocorrência de recesso forense durante seu trâmite, cuida-se de feito de certa complexidade, contando com 02 réus e sendo necessária a oitiva de testemunhas por carta precatória”.
+    8. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+                Brasília, 1º de agosto de 2019.
+Ministro Luís Roberto Barroso
+                            Relator
