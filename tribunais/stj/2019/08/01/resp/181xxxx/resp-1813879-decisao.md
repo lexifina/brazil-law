@@ -1,0 +1,9 @@
+DECISÃO
+Vistos.
+Verifico que a discussão contém tema com repercussão geral reconhecida pelo Supremo Tribunal Federal já sob a vigência do Código de Processo Civil de 2015 (Tema - 962: Incidência do Imposto de renda - Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) sobre a taxa Selic (juros de mora e correção monetária), recebida pelo contribuinte na repetição do indébito - (RE 1.063.187 RG, julgado em 14/09/2017, DJe-215 DIVULG 21-09-2017 PUBLIC 22-09-2017).
+A ementa do acórdão assim delimitou a matéria:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. TRIBUTÁRIO. IRPJ. CSLL. JUROS DE MORA. TAXA SELIC. REPETIÇÃO DO INDÉBITO. DECLARAÇÃO DE INCONSTITUCIONALIDADE DE LEI FEDERAL POR TRIBUNAL REGIONAL FEDERAL.
+A interposição do recurso extraordinário com fundamento no art. 102, III, b, da Constituição Federal, em razão do reconhecimento da inconstitucionalidade do art. 3º, § 1º, da Lei nº 7.713/1988, do art. 17 do Decreto-Lei nº 1.598/1977 e do art. 43, II, § 1º, do CTN por tribunal regional federal constitui circunstância nova suficiente para justificar, agora, seu caráter constitucional e o reconhecimento da repercussão geral da matéria relativa a incidência do imposto de renda das pessoas jurídicas (IRPJ) e da contribuição social sobre o lucro líquido (CSLL) sobre a taxa SELIC na repetição do indébito.
+(RE 1063187 RG, Relator(a): Min. DIAS TOFFOLI, julgado em 14/09/2017, PROCESSO ELETRÔNICO DJe-215 DIVULG 21-09-2017 PUBLIC 22-09-2017)
+Isto posto, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação do acórdão do Recurso Extraordinário acima identificado, a fim de que a Corte a quo, posteriormente, proceda ao juízo de conformidade, nos termos dos arts. 1.040 e 1.041 do Código de Processo Civil de 2015.
+Publique-se e intimem-se.
