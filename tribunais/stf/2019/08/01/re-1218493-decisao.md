@@ -1,0 +1,31 @@
+Decisão: Trata-se recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região, ementado nos seguintes termos:
+          “PREVIDENCIÁRIO. JUIZ CLASSISTA. REAJUSTAMENTO DOS BENEFÍCIOS PAGOS PELO RGPS. LEI Nº 10.887/04, ART. 15, COM REDAÇÕES DADAS, SUCESSIVAMENTE, PELA MEDIDAS PROVISÓRIAS Nº 431/08 E PELA LEI Nº 11.784/08 E ADI nº 4.582 MC/DF, STF.” (eDOC 4, p. 68)
+    Opostos embargos de declaração, foram rejeitados. (eDOC 4, p. 111)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI; 40, § 8º; 61, § 1º, II, c; 93, IX; 96, II, b; e 201 do texto constitucional.
+    Nas razões recursais, alega-se a vinculação dos benefícios pagos pelo RGPS passou a ser prevista em lei, deixando de ser critério subsidiário, ao menos para o reajustamento dos proventos dos servidores inativos federais. Desta forma, teria o autor direito a ter seus proventos de aposentadoria reajustados pelos mesmos índices definidos para reajustamento dos benefícios pagos pelo RGPS, devendo a União reajustar os proventos do autor. (eDOC 4, p. 165)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 9.655/1998), consignou que é improcedente a revisão dos proventos de aposentadoria demandante com os reajustes concedidos aos juízes de carreira, mesmo que aposentados sob a vigência da Lei 6.903/1981, visto que não há paridade entre os proventos dos juízes classistas e os subsídios dos juízes de carreira. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Segundo o disposto no art. 7º da Lei n. 6.903/81 e no art. 5º da Lei n. 9.655/98, extrai-se que o autor, na qualidade de juiz classista aposentado, faz jus ao direito de ter os seus proventos de aposentadoria reajustados nos mesmos moldes dos vencimentos dos juízes classistas em atividade à época e, em seguida, de acordo com os mesmos reajustes concedidos aos servidores públicos federais.
+    Eis o teor dos referidos dispositivos legais:
+    …
+    No entanto, é descabida a argumentação de que o termo "juízes em atividade", constante no art. 7º da Lei n. 6.903/81, alude ao juiz togado. Isso porque a referida lei se refere apenas aos juízes classistas e, consoante sabido, tal categoria não integra o corpo de membros do Poder Judiciário desde o advento da EC n. 24/99. Malgrado os juízes classistas ostentarem o título privativo da magistratura, é induvidoso que eles não gozam das prerrogativas dos magistrados togados, nem se submetem ao regime jurídico dos juízes de carreira.
+    Logo, é improcedente o pleito de revisão dos proventos de aposentadoria demandante com os reajustes concedidos aos juízes de carreira, mesmo que aposentado sob a vigência da Lei 6.903/81, já que não há paridade entre os proventos dos juízes classistas e os subsídios dos juízes de carreira.
+    Nesse ponto, é de se ressaltar que o STF, no bojo da ADI 4582, concedeu tutela provisória de urgência, em 2011, para suspender a aplicação da regra (art. 15 da Lei 10.887/2004, na redação dada pela Lei 11.784/2008) que autorizava que os proventos de aposentadoria dos juízes classistas fossem aplicados, a contar de 01/2008, na mesma data e índice em que se der o reajuste dos benefícios do RGPS.
+    Por essas razões, correta a sentença nesse ponto.
+    Quanto ao reajuste dos proventos pelos mesmos índices aplicáveis ao Regime Geral de Previdência Social reconhecido pelo juízo de origem, penso que a sentença merece reparo neste capítulo.
+    É que, apesar de a Orientação Normativa n. 03/2004, do Ministério da Previdência Social (posteriormente revogada pela Orientação Normativa n. 01/2007), ao tratar sobre do Regime Próprio de Previdência Social dos Servidores Públicos (RPPS), ter previsto, em seu art. 65, que "na ausência de definição do índice de reajustamento pelo ente público, os benefícios serão corrigidos pelos índices aplicados aos benefícios do RGPS", não é possível, à míngua de lei em sentido estrito, proceder a aumento de remuneração de servidor público, mercê da dicção do art. 40, § 8º, da CRFB, com a redação da EC 41/2003:
+    …
+    Além disso, não se pode olvidar do enunciado da súmula vinculante n. 37 do STF: " Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia ".
+    Ademais, a questão aqui discutida já foi enfrentada por esta Quarta Turma, inclusive com a participação do Des. Fed. Lázaro Guimarães, com desfecho idêntico ao que ora se propõe (...)”. (eDOC 4, p. 64/67)
+    Verifico que o acórdão recorrido está em consonância com a jurisprudência desta Corte, que não reconhece um direito de paridade entre os juízes classistas e os juízes togados.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “PROVENTOS E PENSÕES – JUÍZES CLASSISTAS. Inexiste o direito dos juízes classistas aposentados e pensionistas à percepção de valores equiparados aos dos subsídios dos juízes togados em atividade”. (RMS 25.841 ED, Rel. Min. Marco Aurélio, Tribunal Pleno, DJe 7.4.2014)
+    “Agravo regimental no recurso extraordinário. Pretensão de reconhecimento da inconstitucionalidade da Lei nº 9.655/98 rejeitada com base na pacífica jurisprudência a Suprema Corte a respeito do tema. 1. Inexiste paridade entre juízes classistas de primeira instância e juízes togados da Justiça Federal do Trabalho a amparar a pretensão deduzida pelo agravante. 2. Não incumbe ao Poder Judiciário promover o aumento de vencimentos de servidores públicos sob o fundamento da isonomia. 3. Orientação recentemente reafirmada pelo Plenário da Corte, no julgamento do RMS nº 25.841. 4. Agravo regimental não provido.” (RE 598.009, Rel. Min. Dias Toffoli, Primeira Turma, DJe 3.9.2013)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 4, p. 68), observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 1º de agosto de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
