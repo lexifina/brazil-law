@@ -1,0 +1,9 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL interpõe agravo regimental contra a decisão de fls. 894-896, que conheceu do conflito para declarar competente o Juízo de Direito da 2ª vara Criminal de União da Vitória - PR.
+Alega o Parquet que ficou comprovada a existência de lesão à Caixa Econômica Federal - CEF, porquanto houve o ressarcimento à vítima do cheque fraudado. Assim, em sua ótica, a competência deveria se firmar pelo local onde houve o prejuízo, como ficou consignado na decisão agravada, mas o processamento do feito deveria se dar perante a Justiça Federal, isto é, o Juízo da 1ª Vara Federal de União da Vitória - SJ/PR.
+Com razão o Ministério Público. A afirmação de que a CEF efetuou o ressarcimento à vítima, que teve seu cheque fraudado, encontra respaldo nos documentos que instruem o processo e foi devidamente consignada pelo Juízo suscitado.
+Desse modo, embora a competência territorial deva ser a do local onde houve o prejuízo, ou seja, a localidade onde está a agência bancária da vítima, a competência ratione materiae deve ser fixada perante o Juízo Federal que ali exerce jurisdição, já que houve prejuízo direto à CEF, que suportou o pagamento integral do cheque fraudado.
+Nesse sentido, já decidiu esta Corte: "A lesão à Caixa Econômica Federal apta a justificar a competência da Justiça Federal deve ser direta e não meramente reflexa" (CC n. 153.813/GO, Rel. Ministro Joel Ilan Paciornik, DJe 1º/8/2018).
+Assim, defiro o pedido de reconsideração da decisão proferida às fls. 894-896 para conhecer do conflito e declarar competente o Juízo da 1ª Vara Federal de União da Vitória - SJ/PR.
+Corrija-se a autuação para que conste, como suscitado, o Juízo da 1ª Vara Federal de União da Vitória - SJ/PR, conforme decisão declinatória de competência à fl. 282.
+Publique-se. Dê-se ciência do teor desta decisão aos Juízos suscitante e suscitado, bem como ao Juízo de Direito da 2ª Vara Criminal de União da Vitória - PR.
