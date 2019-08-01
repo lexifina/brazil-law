@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – SEGUIMENTO – NEGATIVA .
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo quanto à procedência do pedido de indenização por danos morais e materiais, a cargo do Estado do Paraná, em virtude de recusa de registro de diploma de nível superior. No extraordinário, o recorrente alega a violação dos artigos 22, inciso XXIV, 37, § 6º, e 209 da Constituição Federal.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    ADMINISTRATIVO E CIVIL. ENSINO SUPERIOR. RESPONSABILIDADE CIVIL. VIZIVALI. RECUSA DE REGISTRO DE DIPLOMA. INDENIZAÇÃO POR DANOS MORAIS. 1- Prescrição não configurada. 2-'O Programa Especial de Capacitação para a Docência dos Anos Iniciais do Ensino Fundamental e da Educação Infantil, instituído pelo Estado do Paraná em 2002, com o objetivo de 'propiciar, a todos os profissionais em exercício de atividades docentes, formação em nível superior, em caráter especial', a ser executado até 31/12/2007, era regular, porquanto visava ao implemento de meta de capacitação de docentes, especialmente dos que atuavam na educação infantil e nas quatro primeiras séries do ensino fundamental (art. 62 da Lei de Diretrizes e Bases da Educação - Lei n.º 9.394/96), e tinha respaldo em regra de transição vigente à época (art. 87 da Lei n.º 9.394/1996) e na própria Lei n.º 10.172 (Plano Nacional de Educação)'. (TRF 4ª Região, ementa da AC 5000085-04.2010.404.7015, 2ª SEÇÃO, Des. Federal VIVIAN JOSETE PANTALEÃO CAMINHA, POR VOTO DE DESEMPATE, JUNTADO AOS AUTOS EM 20/02/2015). 3- Manutenção da condenação do Estado do Paraná ao pagamento de indenização pelo dano moral e material a professor voluntário.
+    Somente seria dado concluir de forma diversa a partir da análise do quadro fático e da legislação de regência, o que é vedado em sede extraordinária. À mercê de articulação sobre a violência à Constituição Federal, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Lei Maior.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 1º de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
