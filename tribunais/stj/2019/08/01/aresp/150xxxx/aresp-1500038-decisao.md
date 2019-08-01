@@ -1,0 +1,45 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] e outros contra decisão que não admitiu recurso especial com fundamento na ausência de violação do art. 1.022 do CPC.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado, com base na alínea "a" do permissivo constitucional, em oposição a acórdão assim ementado (e-STJ, fl. 295):
+RECURSO DE APELAÇÃO - AÇÃO DE PROCEDIMENTO ORDINÁRIO - DIREITO CONSTITUCIONAL E ADMINISTRATIVO - MAGISTÉRIO SERVIDORA PÚBLICA ESTADUAL INATIVA - PRETENSÃO AO RECEBIMENTO DA GRATIFICAÇÃO POR ATIVIDADE DE MAGISTÉRIO (GAM) E AS DIFERENÇAS - LEI COMPLEMENTAR N. 977/05 - POSSIBILIDADE.
+1. Preliminarmente, interesse processual, reconhecido.
+2. No mérito, trata-se de gratificação estabelecida como indisfarçável aumento de vencimentos, de caráter geral, sem exceção ou contraprestação.
+3. Hipótese de pagamento e extensão aos inativos.
+4. Princípio da paridade constitucional.
+5. Precedentes da jurisprudência dos EE. STJ e STF e deste C. Tribunal de Justiça.
+6. Correção monetária, desde o inadimplemento, de acordo com o IPCA.
+7. Juros de mora de mora de 1% ao mês, até a publicação da Medida Provisória n. 2.180-35, que acrescentou o artigo 1º-F à Lei Federal n. 9.494/97 e, após, 0,5% ao mês, a partir de 28 de abril de 2.001, desde a citação.
+8. Processo julgado extinto, sem resolução de mérito, em Primeiro Grau, nos termos do artigo 267, V, do CPC/73.
+9. Sentença, reformada.
+10. Ação, julgada procedente.
+11. Recurso de apelação, apresentado pela parte autora, provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 338-341).
+Os insurgentes alegam existência de violação do art. 1.022 do CPC, uma vez que o Tribunal de origem não se manifestou sobre "a observância da prescrição quinquenal computada da data da distribuição da ação anterior - processo 00087738920118260053 - 5ª Vara da Fazenda Pública, encabeçado por [NOME] (Documentos 19 a 21) que acompanham a vestibular" (e-STJ, fl. 331).
+É o relatório.
+Não merece prosperar a tese de afronta ao art. 1.022 do CPC/2015, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Verifico, das alegações apresentadas no recurso de apelação e do relatório do acórdão, que os insurgentes apontaram em síntese (e-STJ, fls. 295-296):
+A parte apelante, nas razões recursais, sustentou, em síntese, o seguinte: a) inocorrência de coisa julga material, possibilitando o ajuizamento da ação, nos termos do artigo 268 do CPC/73; b) a EC n. 41/03 assegurou o direito à paridade aos servidores que estavam aposentados na data da respectiva promulgação; c) a extensão da Gratificação por Atividade de Magistério aos servidores inativos é devida, até a absorção integral determinada pela Lei Complementar Estadual n. 1.107/10; d) aplicação da Súmula n. 31 deste E. TJSP; e) jurisprudência favorável à tese. Postulou, por fim, a reforma da r. sentença recorrida.
+O julgado impugnado, ao dirimir a controvérsia, afastou todas as premissas formuladas pelos insurgentes, de forma fundamentada. Contudo, observou que, nas razões do recurso de apelação, as partes recorrentes não apresentaram a alegação de que não houve "a observância da prescrição quinquenal computada da data da distribuição da ação anterior - processo 00087738920118260053 - 5ª Vara da Fazenda Pública, encabeçado por [NOME] (Documentos 19 a 21) que acompanham a vestibular" (e-STJ, fl. 331).
+Dessa forma, o Tribunal de origem não poderia se manifestar sobre matéria que a ele não foi questionada, no momento oportuno.
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelos recorrentes, elegendo fundamentos diversos daqueles por eles propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. RESSARCIMENTO AO SUS. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. RESSARCIMENTO DE DESPESAS COM ÓRTESES E PRÓTESES. EXCLUSÃO CONTRATUAL. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS E DO CONTRATO FIRMADO ENTRE AS PARTES. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Embargos à Execução Fiscal, opostos pela parte ora agravada em desfavor da ANS, com o objetivo de obter o reconhecimento da prescrição do crédito, a ilegalidade da cobrança de valores decorrentes de contratos anteriores à Lei 9.656/98 e a cobrança pelos serviços de saúde prestados.
+III. Não há falar, na hipótese, em violação ao art. 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. O Tribunal de origem, à luz do contexto fático-probatório dos autos, concluiu que há expressa exclusão contratual de cobertura de aparelhos estéticos, protéticos, órteses e próteses de qualquer natureza. Nesse contexto, considerando a fundamentação adotada na origem, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa e do contrato firmado entre as partes, o que é vedado, no âmbito do Recurso Especial, pelas Súmulas 5 e 7 desta Corte. Precedentes do STJ.
+V. Agravo interno improvido.
+(AgInt no REsp 1.793.271/PR, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 28/5/2019)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO N. 3 DO STJ. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO VIA DCTF. SÚMULA N. 436 DO STJ. ADESÃO A PARCELAMENTO. INTERRUPÇÃO DA PRESCRIÇÃO. REINÍCIO DA CONTAGEM DA PRESCRIÇÃO. EXCLUSÃO FORMAL DO PARCELAMENTO DE QUE TRATA A LEI N. 9.964/2000. PRECEDENTES. ANÁLISE FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ.
+1. O acórdão recorrido se manifestou de forma clara e fundamentada sobre a matéria posta em debate na medida necessária para o deslinde da controvérsia. Ausência de ofensa ao art. 1.022 do CPC.
+2. A Corte a quo entendeu que os créditos foram constituído pela entrega de DCaF, de modo que dai começa o termo inicial da prescrição para execução, se a entrega foi posterior ao vencimento, nos termos da jurisprudência desta Corte e da Súmula n. 436 do STJ.
+A aferição, na hipótese, das datas das entregas das declarações, se antes ou depois do vencimento dos tributos, é questão que demanda revolvimento de matéria fático-probatória inviável em sede de recurso especial a teor da Súmula n. 7 desta Corte.
+3. A adesão ao parcelamento fiscal interrompeu a prescrição, haja vista o reconhecimento da dívida na forma do art. 174, parágrafo único, IV, do CTN.
+4. Em se cuidando, especificamente, do programa de parcelamento denominado REFIS, de que trata a Lei 9.964/2000, o prazo prescricional para a cobrança do crédito tributário volta a correr apenas no momento em que o contribuinte é formalmente excluído do programa, e não no momento anterior, em que se torna inadimplente. Precedentes: STJ, REsp 1.046.689/SC, Rel. Ministra ELIANA CALMON, DJe de 06/08/2008; REsp 1.144.962/SC, Rel. Ministro HERMAN BENJAMIN, DJe de 01/07/2010; EDcl no AgRg no REsp 1.338.513/RS, Rel. Ministro HUMBERTO MARTINS, DJe de 21/03/2013; AgRg no REsp 1.534.509/RS, Rel. Ministro HUMBERTO MARTINS, DJe de 24/08/2013; REsp 1.493.115/SP, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 25/09/2015; AgRg no REsp 1.524.984/SC, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 18/04/2016; REsp 1.655.035/RS, Rel. Ministro HERMAN BENJAMIN, DJe de 27/04/2017; AgInt no AREsp 1.073.180/SP, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 15/09/2017; AgInt no AREsp 1.073.213/SP, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 02/10/2017.
+5. Tendo a execução sido ajuizada no prazo de 5 anos após a exclusão formal da contribuinte do parcelamento de que trata a Lei n. 9.964/2000, não há que se falar em prescrição na hipótese, nem mesmo em prescrição prévia ao parcelamento, haja vista a constituição do crédito via declaração (Súmula n. 436 do STJ) e a interrupção da prescrição através do pedido de parcelamento. Conclusão em contrário demandaria reexame de matéria fático-probatória inviável em sede de recurso especial em razão do óbice da Súmula n. 7 desta Corte.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.355.686/ES, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 21/5/2019)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
