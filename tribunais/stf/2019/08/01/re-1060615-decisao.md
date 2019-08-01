@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO — NEGATIVA
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo quanto à aplicação dos novos tetos previstos nas Emendas Constitucionais nº 20/98 e nº 41/03 a benefício previdenciário, afastando a decadência e assentando haver comprovação de que o benefício foi limitado pelo teto. No extraordinário, o recorrente aponta violados os artigos 5º, incisos XXXV, XXXVI, LIV e LV, 194, 195 e 201, §1º, da Constituição Federal. Alega negativa de prestação jurisdicional e decaído o direito à revisão pleiteada.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica
+    Eis a síntese do acórdão recorrido:
+    PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. EMENDAS 20/98 E 41/2003. DECADÊNCIA. PRESCRIÇÃO.
+    A decadência, de que trata o artigo 103, caput, da Lei nº 8.213/91, somente se aplica aos atos de concessão ou indeferimento de benefícios; não se aplica, portanto, à revisão da renda mensal, em momento posterior à data de início.
+    Ressalva, porém, das diferenças anteriores a 05-05-2006, as quais foram atingidas pela prescrição quinquenal, porquanto a ação revisional é precedida de ação civil pública proposta pelo Ministério Público Federal visando ao cumprimento, em âmbito nacional, do que foi decidido, pelo Supremo Tribunal Federal, nos autos do RE nº 564.354.
+    Na dicção do Supremo Tribunal Federal (RE nº 564.354), 'Não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional.'
+    Entendimento aplicável aos benefícios cujos salários-de-benefícios, por serem superiores ao teto, foram por este limitados.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, a decisão recorrida está em consonância com o entendimento do Supremo. O Tribunal, no julgamento do recurso extraordinário nº 564.354/SE, confirmou a aplicação do novo teto previdenciário estabelecido pelas Emendas Constitucionais nº 20/98 e nº 41/2003 a aposentadorias concedidas antes da vigência da referida norma, não estabelecendo limites temporais relacionados à data de inicio do benefício.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 1º de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
