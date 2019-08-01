@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – NORMAS LEGAIS – INTERPRETAÇÃO – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Colegiado de origem assentou a extinção da punibilidade do réu em decorrência da prescrição da pretensão executória, tendo como marco inicial o trânsito em julgado para a acusação. No extraordinário, o recorrente aponta violado o artigo 5º, cabeça e incisos II, LIV e LXXVIII, da Constituição Federal. Discorre sobre o tema de fundo, alegando ter o acórdão confirmatório da condenação implicado a interrupção da prescrição.
+    2. Eis a síntese do acórdão recorrido:
+    AGRAVO EM EXECUÇÃO. PENAL E PROCESSUAL PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. ARTIGOS 110 E 112 DO CÓDIGO PENAL. MARCO INICIAL. TRÂNSITO EM JULGADO PARA ACUSAÇÃO. ACÓRDÃO QUE CONFIRMA A SENTENÇA CONDENATÓRIA NÃO CONFIGURA NOVO MARCO PRESCRICIONAL. ART. 117, IV DO CP. PRECEDENTES. AGRAVO EM EXECUÇÃO DESPROVIDO. 1 – O acórdão que meramente confirma a sentença condenatória não interrompe a prescrição. Precedentes do Superior Tribunal de Justiça. 2 - Só há interrupção do prazo prescricional quando da prolação de acórdão, se: o decisum reformar sentença absolutória de primeiro grau, para condenar o réu; ou o acórdão majorar a pena imposta ao réu e a majoração implicar mudança do prazo prescricional. 3 - Ainda que fosse adotado o posicionamento de que o acórdão confirmatório da sentença condenatória seria marco interruptivo da prescrição abarcado pelo art. 117, IV do CP, ele interromperia apenas o curso da prescrição da pretensão punitiva e não o curso da prescrição da pretensão executória, cujo início dá-se com o trânsito em julgado para a acusação, nos termos do art. 112, I do CP. 4 – Reconhecimento da extinção da punibilidade pelo reconhecimento da prescrição executória do Estado, com base no art. 109, V, combinado com os art. 110, §1º e 112, I, todos do Código Penal. 5 – Agravo em Execução Penal provido.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a ofensa à Constituição Federal, pretende-se guindar a este Tribunal recurso que não se enquadra no inciso III do artigo 102 nela contido.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 1º de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
