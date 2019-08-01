@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo apresentado pela FAZENDA DO ESTADO DE SÃO PAULO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido por TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO DE INSTRUMENTO IMPUGNAÇÃO À EXECUÇÃO.
+Pretensão de que se afaste a utilização da TR como índice de fixação da correção monetária Cabimento Aplicação da Lei nº 11.960/09, conforme o Tema nº 810, STF - Juros moratórios desde a citação Cabimento Descontos à Previdência e Assistência Médica - Impossibilidade - Verba de caráter indenizatório.
+Recurso provido.
+O recorrente alega violação dos arts. 405 do Código Civil, 240 e 502, ambos do Código de Processo Civil, no que concerne ao juros de mora e violação à coisa julgada, trazendo os seguintes argumentos:
+O juízo a quo, com a devida vênia, não observou os termos da coisa julgada formada no processo de conhecimento.
+A verba que a FESP foi condenada a pagar (FAM - Fator de Atualização Monetária), é verificada através de uma certidão do próprio Tribunal de Justiça que declara o valor devido aos funcionários daquele Tribunal. Nos cálculos do recorrido, foram utilizados como base de cálculo valores constantes de certidão atualizada.
+Referido modelo de certidão, entretanto, indica o principal (saldo credor de FAM) convertido em unidades de atualização, segundo os índices do Tribunal de Justiça.
+Além disso, a certidão indica os juros, na verdade informa a soma dos juros de cada diferença computados desde as respectivas datas de vencimento (ou seja, entre 1984 e 1994) e no corpo da certidão, o DEPE soma os dois itens, principal e juros, e converte o resultado em real pelo índice do mês da expedição da certidão, sendo que foram estes valores nominais, expressos em moeda corrente, que os autores adotaram como ponto de partida de seus cálculos de liquidação, acrescentando ainda sobre tais valores correção monetária e juros.
+Ocorre que tal montante, como já dito, já incluiu juros moratórios e correção monetária.
+Sendo assim, verifica-se que, ao incidir juros moratórios tendo como base de cálculo referidos valores ("principal"  "juros") que já contém uma parcela de juros, há a apuração de juros sobre juros (anatocismo), o que é vedado por nosso ordenamento jurídico e acarreta o enriquecimento sem causa do autor.
+Em razão disso, a conta de liquidação deve, na verdade, ter como base os valores históricos fornecidos pelo setor competente do TEP (DEPE), de modo a garantir não haja cálculo de juros sobre juros, sendo essa a razão de o título executivo formado no processo de conhecimento determinar sejam os cálculos elaborada justamente com base nesses valores históricos. (fls.193).
+Ocorre que o recorrido, ao arrepio da lei e da coisa julgada, partiu de valores constantes de certidão atualizada.
+Cabe destacar que os juros moratórios, em casos como o presente, são devidos apenas desde a citação, nos termos do art. 405 do Código Civil e do art. 240 do Código de Processo Civil. Portanto, não paira qualquer dúvida de que o que caracteriza a mora é a citação. E se é a citação que induz a mora, os juros de mora, que é a sanção imposta por essa mora, somente pode iniciar seu cômputo com a citação.
+ ..
+Além disso, nesse mesmo ponto, a r. sentença recorrida e o acórdão que a confirmou, ao determinar o prosseguimento da cobrança com base nos cálculos elaborados pela contadoria judicial, violou os artigos 502 e seguintes do Código de Processo Civil, pois referidos cálculos violam flagrantemente a COISA JULGADA.
+Isso porque o título executivo judicial transitado em julgado determinou a a elaboração dos cálculos com base nos valores históricos.
+Porém, os cálculos acolhidos pelo e. TJSP NÃO foram elaborados com base no que restou decidido no processo de conhecimento.
+Portanto, é imperioso que a decisão recorrida seja reformada, para que sejam homologados os cálculos apresentados pelo ente público, quando da oposição dos embargos à execução, os quais respeitam a legislação vigente, a jurisprudência dos Tribunais e a coisa julgada. (fls. 192/194).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste no reconhecimento da violação à coisa julgada através da revisão da interpretação do teor do título executivo judicial realizada pela Corte de origem, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido, a jurisprudência do STJ firmou que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp n. 770.444/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019).
+Confiram-se ainda os seguintes precedentes: REsp n. 1.431.610/GO, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/2/2019; AgRg no AREsp n. 755.581/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/2/2016; e AgInt no AREsp n. 1.161.225/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 24/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
