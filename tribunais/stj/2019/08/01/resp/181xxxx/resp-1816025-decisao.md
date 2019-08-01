@@ -1,0 +1,71 @@
+EMENTA
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. SÚMULA 284 DO STF. CRÉDITO RELATIVO A FATO ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. SUJEIÇÃO AO PLANO DE RECUPERAÇÃO JUDICIAL. PRECEDENTES.
+1. À míngua de oposição de embargos de declaração em face do acórdão impugnado na via especial, não há que se falar em violação ao art. 1.022 do CPC/2015. Assim, por articular fundamentos completamente dissociados do que foi decidido na instância ordinária, aplica-se a Súmula 284/STF.
+2. " T ratando-se de crédito derivado de fato ocorrido em momento anterior àquele em que requerida a recuperação judicial, deve ser reconhecida sua sujeição ao plano de soerguimento da sociedade devedora" (REsp 1727771/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 15/05/2018, DJe 18/05/2018).
+3. Recurso especial conhecido em parte e provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por OI S.A. - EM RECUPERACAO JUDICIAL, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO.
+Crédito extraconcursal ilíquido. Feito que deve prosseguir até a apuração do valor e, após, há de ser oficiado o juízo em que se processa o pedido de recuperação para que os valores sejam adimplidos.
+Honorários de advogado que devem incidir em sede de cumprimento de sentença, pois o crédito é extraconcursal e poderia desde logo ser adimplido pela ré.
+AGRAVO DE INSTRUMENTO PROVIDO PARCIALMENTE.
+Em suas razões recursais, aponta a parte recorrente ofensa ao disposto nos arts. 1.022, II e III, do CPC/2015, 49 e 59 da Lei nº 11.101/05.
+Alega a negativa de prestação jurisdicional por omissão da Corte local quanto a todos os argumentos contidos nas razões recursais do agravo de instrumento. Sustenta que a verba indenizatória e os honorários sucumbenciais são decorrentes de negativação ocorrida antes do pedido de recuperação judicial, devendo eles serem pagos na forma prevista no plano de recuperação judicial, devidamente aprovado pela assembleia de credores.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 163.
+Crivo positivo de admissibilidade na origem (fls. 165-174).
+É o relatório. Decido.
+2. De início, verifica-se que não comporta conhecimento a alegada violação do art. 1.022 do CPC/2015, visto que não foram opostos embargos de declaração para instar a Corte de origem a sanar eventual vício contido no aresto, o que atrai a incidência da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 535 DO CPC. INEXISTÊNCIA. FALTA DE OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. ALEGAÇÃO DE AFRONTA AOS ARTIGOS 165 E 458 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. RECURSO MANIFESTAMENTE INFUNDADO. APLICAÇÃO DE MULTA. ART. 557, § 2º, CPC.
+1. À míngua de oposição de embargos de declaração em face do acórdão impugnado na via especial, não há que se falar em violação ao artigo 535 do CPC. Assim, por articular fundamentos completamente dissociados do que foi decidido na instância ordinária, aplica-se a Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. A matéria referente aos arts. 165 e 458 do CPC não foi objeto de discussão no acórdão recorrido, e o recorrente não opôs embargos de declaração a fim de suprir eventual omissão. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+3. Agravo regimental não provido, com aplicação de multa.
+(AgRg no AREsp 99.038/RS, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 20/9/2012, DJe 26/9/2012)(g.n.)
+3. No que tange à violação aos arts. 49 e 59 da Lei nº 11.101/05, a recorrente insurge contra a extraconcursalidade do crédito da parte recorrida.
+A Corte local concluiu ser o crédito extraconcursal, tendo em vista a data do trânsito em julgado da decisão proferida na fase de conhecimento ter ocorrido após o ingresso do pedido de recuperação judicial. Segue trecho do acórdão recorrido (fls. 123-124):
+"O caso retrata hipótese de litígio cujo trânsito em julgado da decisão proferida na etapa de conhecimento ocorreu após o ingresso do pedido de recuperação judicial da agravada.
+Este Colegiado segue a posição majoritária nesta Corte, entendendo que, para definir se o crédito se submete ao concurso de credores, o critério a ser adotado é a data do trânsito em julgado da sentença condenatória, pois é neste momento que há efetiva exigibilidade.
+Importa salientar que não é possível considerar o crédito "não vencido", tendo como referência a data do fato, para fins de aplicação do artigo 49 da Lei 11.101/05, pois sequer existente, já que a ocorrência de ato ilícito gera mera expectativa de Direito.
+O crédito, portanto, não se submete ao concurso de credores.
+Nada obstante, estando a ré em recuperação judicial, o feito deve prosseguir até a apuração do valor e, após, deve ser oficiado ao juízo em que se processa o pedido de recuperação para que os valores sejam adimplidos, não sendo possíveis atos de constrição de patrimônio."
+Verifica-se que o entendimento da Corte local está em dissonância com a jurisprudência do STJ.
+Consoante cediço nesta Corte, o crédito oriundo de fato preexistente ao momento da recuperação judicial é concursal, devendo ser habilitado e incluído no plano de recuperação da sociedade devedora, independente do provimento judicial ser anterior ou contemporâneo ao pedido de recuperação judicial.
+Isso porque:
+ A ideia que se apreende do sistema legal da recuperação, é a necessidade de controle que o juízo deve ter sobre o trâmite de todas as ações ajuizadas contra o devedor e a ciência daquelas demandas propostas após a formulação do pedido de soerguimento.
+ Ora, se essas ações propostas antes do pedido de recuperação judicial - ainda que ilíquidas em momento anterior - não fossem contempladas no plano de recuperação, inexistiria razão para a lei determinar que o pedido de soerguimento apresentasse a relação de todas as demandas ajuizadas, com a explicitação da estimativa dos valores discutidos em juízo.
+ Acrescente-se, como já dito, a possibilidade de o juízo, onde estiverem sendo processadas as "ações ilíquidas", determinar a reserva de valor para a satisfação da obrigação reconhecida judicialmente.
+ Como arremate, a própria lei determina que, após a apuração do valor devido nos autos da "ação ilíquida", o crédito decorrente da sentença judicial será incluído na classe própria do quadro geral de credores. Não se quer, desse modo, que haja execuções paralelas, com o intuito de haver pagamento fora do plano aprovado pela Assembleia Geral de Credores.
+ Assim, diante de todos os dispositivos acima analisados e dos argumentos expendidos, penso que o crédito discutido nos autos, decorrente de demanda ilíquida proposta antes do deferimento da recuperação judicial, deve se submeter aos seus efeitos.(REsp 1.447.918/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 07.04.2016, DJe 16.05.2016)
+Eis a ementa do referido julgado:
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. DISCUSSÃO SOBRE INCLUSÃO DE CRÉDITO EM PLANO DE RECUPERAÇÃO JUDICIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. "DEMANDA ILÍQUIDA". APLICAÇÃO DO § 1º DO ART. 6º DA LEI N. 11.101/2005. CRÉDITO REFERENTE À AÇÃO INDENIZATÓRIA. OBRIGAÇÃO EXISTENTE ANTES DO PEDIDO DE SOERGUIMENTO. INCLUSÃO NO PLANO DE RECUPERAÇÃO. VIOLAÇÃO AO ART. 59 DA LEI N. 11.101/2005. RECURSO PROVIDO.
+1. Não há falar em violação ao art. 535 do Código de Processo Civil, pois o eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha a examinar uma a uma as alegações e os argumentos expendidos pelas partes. Ademais, não se configura omissão quando o julgador adota fundamento diverso daquele invocado nas razões recursais.
+2. No caso, verifica-se que a controvérsia principal está em definir se o crédito decorrente de sentença condenatória, proferida em autos de ação indenizatória ajuizada antes do pedido de soerguimento, submete-se, ou não, aos efeitos da recuperação judicial em curso.
+3. A ação na qual se busca indenização por danos morais - caso dos autos - é tida por "demanda ilíquida", pois cabe ao magistrado avaliar a existência do evento danoso, bem como determinar a extensão e o valor da reparação para o caso concreto.
+4. Tratando-se, portanto, de demanda cujos pedidos são ilíquidos, a ação de conhecimento deverá prosseguir perante o juízo na qual foi proposta, após o qual, sendo determinado o valor do crédito, deverá ser habilitado no quadro geral de credores da sociedade em recuperação judicial. Interpretação do § 1º do art. 6º da Lei n. 11.101/2005.
+5. Segundo o caput do art. 49 da Lei n. 11.101/2005, estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos.
+6. A situação dos autos demonstra que o evento danoso, que deu origem ao crédito discutido, bem como a sentença que reconheceu a existência de dano moral indenizável e dimensionou o montante da reparação, ocorreram antes do pedido de recuperação judicial.
+7. Na hipótese de crédito decorrente de responsabilidade civil, oriundo de fato preexistente ao momento da recuperação judicial, é necessária a sua habilitação e inclusão no plano de recuperação da sociedade devedora.
+8. Recurso especial provido.
+(REsp 1447918/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/04/2016, DJe 16/05/2016)(g.n.)
+--
+Com efeito, "tratando-se de crédito derivado de fato ocorrido em momento anterior àquele em que requerida a recuperação judicial, deve ser reconhecida sua sujeição ao plano de soerguimento da sociedade devedora" (REsp 1727771/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 15/05/2018, DJe 18/05/2018).
+No mesmo sentido:
+--
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO PARA FIXAR A COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. INSURGÊNCIA DO AGRAVADO.
+1. É necessário consignar que o recurso especial subjacente ao presente agravo interno atrai a incidência do Enunciado Administrativo n. 3/STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/15 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Compete ao juízo da recuperação judicial a prática de atos de execução (constritivos/expropriatórios) deduzidos em face do patrimônio da empresa recuperanda, mesmo após o transcurso do prazo de 180 dias de suspensão, previsto no art. 6º, § 4º, da Lei 11.101/05.
+3. Segundo orientação jurisprudencial firmada por esta Corte Superior de Justiça, enquanto não transitada em julgado a decisão que encerra a recuperação judicial, subsiste a competência do juízo da recuperação judicial para a administração do patrimônio da empresa recuperanda.
+4. Em demandas como a presente, cuja obrigação advém de fato preexistente à data de deferimento do pedido de soerguimento, deve a ação de conhecimento prosseguir perante o juízo na qual foi proposta, após o que, com a determinação do valor devido, deverá o respectivo crédito ser habilitado no quadro geral de credores da empresa em recuperação judicial, nos termos do art. 6º, § 1º, combinado com o art. 49, da Lei n. 11.101/05.
+5. Agravo interno desprovido.
+(AgInt no REsp 1668877/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/03/2019, DJe 15/03/2019)(g.n.)
+--
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA DA RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO TRABALHISTA. SERVIÇO PRESTADO EM MOMENTO ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. EXISTÊNCIA. SUBMISSÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. POSTERIOR SENTENÇA DECLARATÓRIA DO CRÉDITO. ATO JUDICIAL QUE DECLARA O CRÉDITO JÁ EXISTENTE EM TÍTULO JUDICIAL. CONFLITO CONHECIDO E PROVIDO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. O art. 49 da Lei 11.101/2005 prevê que "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos", o que conduz à conclusão de que a submissão de um determinado crédito à Recuperação Judicial não depende de provimento judicial anterior ou contemporâneo ao pedido, mas apenas que seja referente a fatos ocorridos antes do pedido.
+2. O art. 7º da Lei 11.101/2005 afirma que o crédito já existente, ainda que não vencido, pode ser incluído de forma extrajudicial pelo próprio Administrado Judicial, ao elaborar o plano ou de forma retardatária, evidenciando que a lei não exige provimento judicial para que o crédito seja considerado existente na data do pedido de recuperação judicial.
+3. O crédito trabalhista, relativo ao serviço prestado em momento anterior ao pedido de recuperação judicial, submete-se ao respectivo procedimento e aos seus efeitos, atraindo a competência do Juízo da Recuperação Judicial, para processar a respectiva habilitação, ainda que de forma retardatária. Precedentes da Terceira Turma.
+4. Conflito conhecido e provido para declarar competente o Juízo da Recuperação Judicial.
+(CC 139.332/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 25/04/2018, DJe 30/04/2018)(g.n.)
+--
+Desse modo, o acórdão recorrido merece reforma nesse ponto, sendo que no presente caso torna-se necessário o retorno dos autos à origem para aferição da data em que ocorreu o fato gerador do crédito, que nesta ação declaratória de inexistência de débito cumulada com indenização é o momento do ato ilícito.
+4. Ante o exposto, conheço em parte do recurso especial e dou-lhe provimento para determinar o retorno dos autos à origem para que o critério a ser adotado para definir se o crédito se submete ao plano de recuperação judicial seja o momento do fato que originou o crédito (momento do ato ilícito).
+Publique-se. Intimem-se.
