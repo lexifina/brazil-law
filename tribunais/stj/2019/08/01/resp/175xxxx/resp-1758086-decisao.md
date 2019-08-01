@@ -1,0 +1,7 @@
+DECISÃO
+Vistos, etc.
+Verifica-se que a questão jurídica que trata da exigibilidade, ou não, do prévio pagamento de porte de remessa e de retorno pelo Instituto Nacional do Seguro Social - INSS, diante do disposto no art. 27 do revogado CPC/1973 (art. 91 do CPC/2015), nos casos de recursos dirigidos aos Tribunais de Justiça, constitui tema dos Recursos Especiais n. 1.761.618/SP, 1.762.577/SP e 1.761.119/SP, da relatoria do Min. Sérgio Kukina, os quais se encontram pendentes de análise na Primeira Seção (Tema 1001).
+Assim, o julgamento imediato do recurso especial seria prematuro.
+De outra parte, o acolhimento dos referidos recursos especiais como representativos da controvérsia impõe o sobrestamento dos recursos interpostos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído, nesta Corte, o julgamento, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, o recurso especial tenha seguimento negado, na hipótese de o julgamento recorrido estar em conformidade com a orientação firmada pelo STJ, ou para que seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos dos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se. Intimem-se.
