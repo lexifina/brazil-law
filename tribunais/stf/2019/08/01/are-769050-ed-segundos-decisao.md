@@ -1,0 +1,30 @@
+DECISÃO
+EMBARGOS DECLARATÓRIOS – INEXISTÊNCIA DE VÍCIO – DESPROVIMENTO.
+    1. Em 13 de junho de 2018, proferi a seguinte decisão:
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Afasto a suspensão anteriormente determinada.
+    2. O Tribunal Regional Federal da 3ª Região, reformando o entendimento do Juízo, condenou o réu pela prática do crime previsto no artigo 1º, inciso I (sonegação fiscal), da Lei nº 8.137/1990. Concluiu viável a utilização de dados bancários para dar início a procedimento administrativo visando a cobrança de créditos tributários. Aludiu à autorização judicial para quebra do sigilo bancário do acusado. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação dos artigos 5º, incisos X, XII, XVIII, XXXV, XXXXVI, LIV, LV e LXVI; 37, inciso XVIII; 93, inciso IX; 129, inciso I; 145, § 1º; 146, inciso III, alínea “b” e 150, inciso III, alínea “a”, da Constituição Federal. Argui a nulidade do processo por negativa de prestação jurisdicional. Alega a ausência de justa causa para a ação penal, dizendo posterior ao recebimento da denúncia o lançamento definitivo do crédito tributário. Reputa inaplicáveis a Lei nº 10.174/2001 e a Lei Complementar nº 105/2001. Aduz a inobservância ao verbete nº 24 da Súmula Vinculante. Assevera a ausência de fundamentação dos atos mediante os quais afastados os sigilos fiscal e bancário, bem assim não guardarem pertinência com os fatos alusivos à ação penal. Conclui inexistente ordem judicial para quebra do sigilo bancário e descabida a utilização das informações bancárias para instaurar procedimento de destinado à cobrança de créditos tributários.
+    3. Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Ademais, o Parquet Federal colacionou nas fls. 1930/1934, as decisões jurisdicionais autorizando a quebra do sigilo bancário do apelado.
+    No que tange ao mérito recursal, em que pese a independência das esferas penal e administrativa, tenho firmado o entendimento segundo o qual, para á configuração da materialidade, torna-se imperativo o lançamento definitivo do tributo, sem o qual não pode transcorrer a ação penal, sob pena de falta de justa causa.
+    [...]
+    Entretanto, embora o apelante alegue ausência de justa causa para o prosseguimento da presente ação penal, em nenhum momento juntou prova ou qualquer documento neste sentido, que dessem azo ao quanto alegado.
+    Entendo que a materialidade do delito restou configurada, como demonstram o termo de verificação fiscal de fls. 18/19 e o auto de infração nas fl. 26, bem como o termo de verificação fiscal de fls. 429/431 e o auto de infração na fl. 446. Da mesma forma, a autoria delitiva veio descrita nos autos. O acusado não logrou demonstrar a procedência dos créditos lançados em sua conta corrente, ressaltando com isso, um enriquecimento sem comprovação de origem, o que constitui delito de sonegação fiscal, previsto no art. 1°, inciso 1, da lei n° 8.137/90.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, o que sustentado nas razões do extraordinário, quanto ao alegado desrespeito dos artigos 129, inciso I, 145, § 1º, 146, inciso III, alínea “b” e 150, inciso III, alínea “a”, não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    4. Conheço do agravo e o desprovejo.
+    5. Publiquem.
+    Nos declaratórios, o embargante aponta omissão na decisão embargada quanto ao verbete vinculante nº 24 da Súmula do Supremo.
+    A parte embargada, instada a se manifestar, alega o acerto do ato impugnado.
+    2. Na interposição destes embargos, foram observados os pressupostos de recorribilidade. A peça, subscrita por advogada regularmente credenciada, foi protocolada no prazo legal.
+    Não há quer omissão, quer obscuridade, quer contradição na decisão impugnada. Em última análise, pretende o embargante nova apreciação da matéria de fundo, providência inviável na estreita via dos declaratórios.
+    Reafirmo o consignado anteriormente. Na decisão impugnada ficou expresso a impossibilidade de proceder-se ao reexame do acervo probatório em sede extraordinária para se alcançar conclusão diversa do Colegiado de origem quanto ao momento do lançamento definitivo do crédito tributário. Decidiu-se no sentido de afastar-se a aplicação do verbete vinculante nº 24 da Súmula do Supremo, considerada a ausência de comprovação que desse azo à falta de justa causa.
+    3. Ante o exposto, desprovejo os embargos de declaração.
+    4. Publiquem.
+Brasília, 1º de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
