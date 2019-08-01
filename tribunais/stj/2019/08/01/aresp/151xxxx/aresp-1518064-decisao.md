@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado por M S C contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. TUTELA DE URGÊNCIA. PLANO DE SAÚDE. CRIANÇA PORTADORA DE AUTISMO. TERAPIA ABA. PRESENÇA DOS REQUISITOS DO ART. 300 DO CPC/15. NECESSIDADE DE LIMITAÇÃO DAS SESSÕES. DECISÃO PARCIALMENTE REFORMADA
+1. Para a concessão da tutela de urgência, o art. 300 do Código de Processo Civil exige a presença de elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+2. Alinhando-se ao entendimento do Superior Tribunal de Justiça sobre o assunto e vislumbrado que o pedido liminar está amparado por relatório médico que externa a necessidade e a utilidade da terapia prescrita como meio de proporcionar melhora no quadro do paciente, impõe-se a manutenção da decisão agravada para determinar, em sede de tutela de urgência, a cobertura do tratamento requestado.
+3. Em que pese a utilização do método ABA para o tratamento do autismo, faz-se necessário o deferimento do pleito subsidiariamente formulado pela Agravante e a consequente limitação das terapias requestadas pela Agravada em 10 (dez) sessões/horas semanais, devendo a decisão fustigada ser modificada apenas nesta parte.
+AGRAVO DE INSTRUMENTO CONHECIDO E PARCIALMENTE PROVIDO (fl. 572).
+É o relatório. Decido.
+No que concerne ao recurso apresentado pela recorrente, na espécie, incide, por analogia, o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, tendo em vista sua natureza precária e provisória, cuja reversão é possível a qualquer momento pela instância a quo.
+Nesse sentido: "A jurisprudência desta Corte é firme no sentido de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita a modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito"" (AgInt no AREsp n. 1.351.487/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 17/12/2018).
+Confira-se ainda o seguinte precedente: AgInt no AREsp n. 1.321.705/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
