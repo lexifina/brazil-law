@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de POLIANA SPINDULA BATISTA apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que foi decretada a prisão preventiva da ora paciente, pela prática, em tese, do delito previsto no art. 33 da Lei n. 11.343/2006, em virtude da apreensão de "181,0 g de "cocaína", subdividida em 117 unidades, 17,0 g de "crack em pedra", subdividida em 71 unidades, e 17,0 g de "maconha", subdividida em 02 unidades" (e-STJ fl. 30).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça, que denegou a ordem nos termos do acórdão assim ementado (e-STJ fl. 56):
+HABEAS CORPUS - TRÁFICO ILÍCITO DE DROGAS - PRISÃO PREVENTIVA - REVOGAÇÃO - PRESENÇA DOS ELEMENTOS ENSEJADORES DA CUSTÓDIA CAUTELAR - DECISÃO DEVIDAMENTE FUNDAMENTADA - PRISÃO DOMICILIAR - IMPRESCINDIBILIDADE DA PRESENÇA NÃO COMPROVADA - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. A decretação da custódia cautelar, independentemente de qualquer providência cautelar anterior, apenas deverá ocorrer em situações absolutamente necessárias, a saber, caso se encontre provada a presença dos requisitos do art. 312 do CPP, quais sejam, risco à ordem pública, econômica, conveniência da instrução criminal ou para assegurar o cumprimento da lei penal, aliada às circunstâncias do art. 313 do CPP. Se o MM. Juiz fundamenta a decisão com as suas razões de decidir se sustentando em dados concretos dos autos demonstrando a necessidade da segregação, não há que se falar em constrangimento ilegal. Não restando demonstrado nos autos, com concretude, a imprescindibilidade da presença da Paciente nos cuidados com o filho menor de 12 (doze) anos de idade, não se mostra recomendável a conversão da prisão preventiva em domiciliar.
+Na presente impetração, alega a defesa, em síntese, que a segregação carece de fundamentação idônea e que a paciente tem direito à prisão domiciliar.
+Diante disso, pleiteia, liminarmente e no mérito, a revogação da prisão preventiva.
+A impetração foi dirigida ao Supremo Tribunal Federal, que negou seguimento ao writ e determinou a remessa dos autos para esta Corte (e-STJ fl. 131).
+É, em síntese, o relatório.
+Verifica-se que o presente writ é mera reiteração do HC n. 511.868/MG, a mim anteriormente distribuído. Naqueles autos indeferi o pleito liminar e, em breve, seu mérito deve ser apreciado.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
