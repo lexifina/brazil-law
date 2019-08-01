@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (2015). AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS SUFICIENTES DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015.
+AGRAVO NÃO CONHECIDO.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por CONSTRUTORA SÁ CAVALCANTE LTDA E OUTRA contra a decisão do Tribunal de Justiça do Estado do Rio de Janeiro que negou seguimento ao recurso especial fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal.
+É o relatório.
+Passo a decidir.
+Primeiramente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente recurso não pode ser conhecido em virtude da ausência de impugnação específica aos fundamentos da decisão agravada.
+Isso porque, em atenção ao princípio da dialeticidade, esta Corte Superior tem manifestado reiteradamente que, para impugnar a decisão que inadmite o recurso especial, faz-se necessário apresentar argumentação específica, adequada às particularidades do caso concreto.
+Com efeito, o Tribunal de origem negou seguimento ao recurso especial, pois "quanto à comissão de corretagem, a decisão dos autos coincide com a orientação firmada pelo e. Superior Tribunal de Justiça, por oportunidade do julgamento de mérito do tema nº 938 (Discussão quanto à: (i) prescrição da pretensão de restituição das parcelas pagas a título de comissão de corretagem e de assessoria imobiliária, sob o fundamento da abusividade da transferência desses encargos ao consumidor; e quanto à (ii) validade da cláusula contratual que transfere ao consumidor a obrigação de pagar comissão de corretagem e taxa de assessoria técnico imobiliária (SATI).) do STJ" - fls. 518/519. Além da incidência dos verbetes sumulares n. 5 e 7/STJ.
+Não obstante a decisão agravada ter sido clara quanto aos referidos óbices, tem-se que a parte se limitou a afirmar que (e-STJ, fls. 553/555):
+Ocorre que, data máxima vênia, ao contrário do que fora afirmado pelo decisum, o Recurso Especial interposto não pretende o reexame de provas, pretende apenas que se reconheça que os artigos constantes do Recurso Especial são expressamente aplicáveis à presente lide, bem como que os mesmos foram manifestamente violados pela decisão recorrida.
+ ..
+Ocorre que, ao contrário do que consta da decisão, basta uma simples análise de questão de direito, qual seja, que os artigos 394 e 397 foram violados pela decisão recorrida, eis que não se mostra razoável que, mesmo diante de falta de pagamento das obrigações contraídas em promessa de compra e venda, objeto do contrato, a Agravante seja impedida de incidir sobre as parcelas vencidas e não pagas os encargos moratórios.
+ ..
+A decisão agravada merece reforma pelo simples fato de que a Agravante não pretendeu em seu recurso especial o reexame das provas e dos fatos, mas sim, demonstrar que pedido de indenização por lucros cessantes é improcedente eis que se prestará para compensar uma hipotética possibilidade de aluguel do imóvel.
+ ..
+Por fim, no tocante ao artigo 944 do CC/2002, cumpre salientar que a análise da questão não depende de reexame de provas, mas sim, o o referido dispositivo é aplicável ao caso em questão.
+Contudo, "não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual" (STJ, AgInt no AREsp 1.067.725/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 20/10/2017).
+Assim sendo, o não conhecimento do recurso é medida que se impõe, uma vez que os fundamentos não impugnados são suficientes para manter a inadmissão do recurso especial.
+No exato sentido:
+PROCESSUAL CIVIL. RECURSO CONTRA DECISÃO QUE CONVERTE AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO QUANTO AOS REQUISITOS DE ADMISSIBILIDADE. CABIMENTO. SÚMULAS 182 E 207 DO STJ. NÃO INCIDÊNCIA. INTERPRETAÇÃO DOS VERBETES À LUZ DA DIALETICIDADE RECURSAL E DAS SÚMULAS N. 292, 528 E 289 DO STF.
+1.  ..
+2. A Súmula n. 182/STJ e a nova redação atribuída ao art. 544, § 4º, inciso I, do CPC são pregoeiras do princípio da dialeticidade recursal, cujo conteúdo indica que, à falta de impugnação a fundamento suficiente para manter a decisão recorrida, esta subsiste por si só, tal como já constava na Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Tais hipóteses se verificam quando há fundamentos sobrepostos, no mesmo tópico da decisão impugnada, suficientes à sua manutenção, de modo que o recurso deverá, obrigatoriamente, abranger todos eles.
+3.  ..
+8. Havendo no acórdão recorrido parte não unânime contra a qual eram cabíveis os infringentes, a falta de interposição desse recurso não torna o especial inadmissível por completo. A inércia recursal atinge apenas o ponto em que houve o desacordo na turma, acarretando duas situações possíveis: (a) a parte não manejou nenhum recurso contra esse ponto e a matéria está preclusa; ou (b) a parte interpôs diretamente recurso especial, acarretando, apenas nesse ponto, a sua inadmissão em razão do não exaurimento das instâncias ordinárias (Súmula n. 207/STJ). (EDcl no AREsp 405.570/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/05/2014, DJe 22/05/2014)
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n. 7/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do Novo Código.
+Por conseguinte, considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, arbitro os honorários recursais em R$ 200,00 (duzentos reais), a serem suportados exclusivamente pela parte recorrente.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial e, com base no art. 85, § 11, do CPC, arbitro os honorários recursais em R$ 200,00 (duzentos reais).
+Intimem-se.
