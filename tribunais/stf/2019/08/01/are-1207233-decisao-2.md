@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de Pernambuco, reformando o entendimento do Juízo, julgou improcedente o pedido, mantendo a tramitação do processo na Justiça Estadual. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação do artigo 109, inciso I, da Constituição Federal. Afirma a competência da Justiça Federal, ante a anterior manifestação do interesse pela União. Discorre sobre o tema de fundo.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Ademais, é cediço nos tribunais que a súmula 150 do STJ não deve ser aplicada automaticamente. Dispõe tal súmula: "compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas", donde se conclui que um interesse meramente econômico (não jurídico) como o demonstrado pela União no presente feito não autoriza, de modo algum, a remessa do feito à Justiça Federal, seja de oficio ou a requerimento da parte.
+     Por outro lado, não nos podemos olvidar de que o feito encontra-se na fase de execução provisória da sentença e, assim, o envio dos autos somente agora para a Justiça Federal, adiando para momento futuro a presente fase procedimental, contribuirá apenas para protelar sobremaneira o andamento do feito, podendo, inclusive, alterar valores pelos encargos decorrentes do decurso do tempo e, desse modo, malferir o princípio constitucional da razoável duração do processo. (art. 5°, inciso LXXVIII, Constituição Federal de 1988).
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo interposto pela Companhia Brasileira de Trens Urbanos e o desprovejo.
+    4. Publiquem.
+Brasília, 1º de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
