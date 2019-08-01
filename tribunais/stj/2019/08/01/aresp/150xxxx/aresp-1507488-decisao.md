@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME], contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim resumido:
+PRESTAÇÃO DE CONTAS - Extinção do feito sem julgamento do mérito - Inadmissibilidade - Inquestionável a necessidade da medida em razão da administração de bens pertencentes ao autor - Extinção afastada - Apelo principal provido e desprovido o adesivo. (fl. 549)
+Alega, pela alínea "a" do permissivo constitucional, violação do art. 627, II, do CPC, trazendo os seguintes argumentos:
+Destacamos novamente a fim de aclarar, o que passou despercebido pela 6ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, o Recorrente é parte ilegítima para apresentar prestação de contas dos referidos imóveis de seu irmão falecido, vez que a inventariante e administradora do referido espólio é sua sobrinha e irmã do Recorrido, Sra. [NOME].
+A referida inventariante ([NOME]), detentora de toda a autonomia sobre o inventário, constituiu como procurador O MESMO PATRONO DO RECORRIDO, OU SEJA, ESTE PATRONO TAMBÉM REPRESENTA A INVETARIANTE DO ESPÓLIO EM QUESTÃO, pai do Recorrido. (fl. 621)
+Ora, em verdade, seria correto, o Recorrido ter ajuizado a presente ação competente em face de sua irmã ([NOME]) que é a inventariante e administradora dos bens ora questionado, e, não, substituindo esta pelo seu tio. Assim, resta claro que o Recorrente NÃO É ADMINSITRADOR DO REFERIDO ESPÓLIO, não obstante, o patrono dos autos já juntou a referida prestação de contas, conforme fls. 122-478 para sanar eventuais dúvidas, fazendo-se prestadas as referidas contas que a inventariante Sra. [NOME] teria que prestar. (fl. 622)
+Apesar da letra da lei ser clara, não houve a sua aplicação de maneira adequada, pois aparentemente não se considerou todos os pormenores do fato, devendo, portanto, tal condenação ser revista com base no artigo acima mencionado. (fl. 623)
+Contudo, não restou acertado a decisão que declarou a legitimidade do Recorrente na presente demanda, incumbindo a este a responsabilidade da prestação de contas de documentos já juntados na primeira instância, visto que ausentes os requisitos que o legitimam como administrador/inventariante. (fl. 624)
+É o relatório. Decido.
+No que concerne ao recurso especial, na espécie, incide o óbice da Súmula 211/STJ, uma vez que o dispositivo tido por violado não foi especificamente examinado pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
