@@ -1,0 +1,34 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ROUBO. PRISÃO PREVENTIVA. PEDIDO LIMINAR INDEFERIDO PELO TRIBUNAL A QUO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ATYLLA DE ANDRADE contra ato de desembargador do Tribunal de Justiça do Estado de São Paulo, que indeferiu o pleito liminar formulado nos autos do HC n.º 2257102-35.2018.8.26.000.
+O Paciente foi preso em flagrante, em 26/10/2018, pela suposta prática do delito previsto no art. 157, § 2.º, inciso II, do Código Penal, porque, juntamente com outros dois agentes, subtraiu o veículo da vítima mediante grave ameaça exercida com emprego de arma de fogo (fl. 69). O Juízo de piso indeferiu o pedido de liberdade provisória do paciente (fl. 56):
+Impetrado o writ na origem, a liminar foi indeferida por não se mostrarem presentes os requisitos necessários à concessão da medida urgente (fl. 58).
+Alega o Impetrante que o decreto de prisão preventiva carece de fundamentação apta a justificara decretação da medida extrema (fl. 10).
+Argumenta, ainda, a necessidade de afastamento da Súmula n.º 691 do Supremo Tribunal Federal diante da suposta ilegalidade contida na decisão exarada pelo Juiz singular (fl. 12).
+Requer, em sede liminar e no mérito, a concessão da liberdade provisória ao Paciente (fl. 33).
+O pedido liminar foi indeferido em decisão de fls. 62-63.
+As informações foram prestadas às fls. 66-88.
+O Ministério Público Federal opinou, por meio de parecer de fls. 92-93, pelo não conhecimento da ordem.
+É o relatório.
+Decido.
+Cumpre anotar, de início, que o entendimento firmado pelo Supremo Tribunal Federal e por este Superior Tribunal de Justiça é no sentido de não se admitir habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado no Verbete Sumular n.º 691/STF: "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar", aplicável, mutatis mutandis, ao Superior Tribunal de Justiça.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, deve preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência, para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessado  tarefa a ser desempenhada caso a caso.
+Todavia, esse atalho processual não pode ser ordinariamente usado, senão em situações em que se evidenciar decisão absolutamente teratológica e desprovida de qualquer razoabilidade, na medida em que força o pronunciamento adiantado da Instância Superior, subvertendo a regular ordem do processo.
+Na hipótese em apreço, o Tribunal de origem, ao indeferir o pleito liminar de revogação da prisão preventiva, não vislumbrou ilegalidade flagrante a justificar o deferimento da medida urgente (fl. 58).
+O Juiz de primeiro grau, por sua vez, havia convertido a prisão em flagrante por preventiva, ressaltando que:
+" ..
+No caso, se não bastasse a gravidade em abstrato do delito, vislumbro a presença dos requisitos justificadores da prisão preventiva, sendo incabível conceder ao(à) indiciado(a) o benefício da liberdade provisória, cumulada com a fixação de medidas cautelares, pois inadequadas e insuficientes para o caso concreto. Com efeito, há fortes indícios da participação do indiciado em crime grave, cometido com grave ameaça e emprego de arma de fogo e concurso de agentes, que atenta contra ordem pública. O indiciado foi formalmente identificado pela vítima. Conquanto tecnicamente primário, as circunstâncias até então apuradas revelam, nesse sentido, a necessidade da custódia cautelar, a fim de garantir a manutenção da ordem pública, para que crime graves como o narrados nos autos tornem a ocorrer.  ..  e para assegurar a aplicação da lei penal, tendo em vista que o indiciado, segundo o depoimento dos policiais, tentou fugir do local com os comparsas." (fls. 74-75)
+Diante da fundamentação registrada - a atuação com outros dois agente, o uso de arma de fogo e a tentativa de fuga no momento da prisão - não há como se reconhecer, de plano, ilegalidade patente que autorize a mitigação da Súmula n.º 691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamente ratificada por julgados do Pretório Excelso e deste Superior Tribunal de Justiça.
+Ademais, é de se reservar, primeiro, à Corte a quo a análise meritória do pedido ora formulado, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência do Tribunal de origem. Nesse mesmo sentido, colaciono os seguintes arestos:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 180, CAPUT, DO CÓDIGO PENAL. SÚMULA N. 691 DO STF. NÃO SUPERAÇÃO. PRISÃO PREVENTIVA JUSTIFICADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONDENAÇÕES PRETÉRITAS POR RECEPTAÇÃO E ROUBO CIRCUNSTANCIADO. FLAGRANTE ILEGALIDADE NÃO CONFIGURADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O mérito da impetração originária não foi analisado pelo Tribunal a quo, a atrair o impeditivo da Súmula n. 691 do STF, somente ultrapassada nos casos em que a ilegalidade é tão flagrante que não escapa à pronta percepção do julgador.
+ ..
+4. Agravo regimental não provido" (AgRg no HC 512.750/BA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/06/2019, DJe 11/06/2019).
+ "PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. LIMINAR EM HABEAS CORPUS INDEFERIDA PELO TRIBUNAL DE ORIGEM. APLICAÇÃO DA SÚMULA 691/STF. NÃO COMPROVAÇÃO DE ILEGALIDADE OU TERATOLOGIA ALEGADAS. AGRAVO DESPROVIDO.
+1. Esta Corte Superior firmou entendimento no sentido de não ser cabível habeas corpus contra decisão que indefere liminar, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade, a teor do disposto no enunciado da Súmula 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. As possíveis ilegalidades e teratologias aptas à mitigação da mencionada Súmula a justificar manifestação antecipada deste Superior Tribunal de Justiça não foram demonstradas pela defesa. No caso, a liberdade provisória foi concedida, condicionada ao pagamento de R$ 3.000,00 de fiança. O mero fato de ser o paciente patrocinado pela Defensoria não lhe retira o ônus de demostrar a impossibilidade financeira de arcar com a cautelar imposta, o que não se demostrou no presente habeas corpus.
+3. Agravo regimental desprovido". (AgRg no HC 494.766/AL, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 30/05/2019, DJe 04/06/2019, sem grifos no original).
+Ante o exposto, NÃO CONHEÇO do pedido de habeas corpus.
+Publique-se. Intime-se.
