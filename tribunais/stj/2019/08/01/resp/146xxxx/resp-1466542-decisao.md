@@ -1,0 +1,32 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição da República, contra acórdão proferido pelo TRF da 5ª Região assim ementado (e-STJ, fl. 168):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. "VPNI". ABSORÇÃO. LEI Nº 11.784/2008. REPOSIÇÃO AO ERÁRIO. DESCABIMENTO.
+1. Buscou-se o restabelecimento de Vantagem Pessoal Nominalmente Identificada - VPNI, que vinha sendo paga sob a rubrica 82601 (VPNI IRRED REM ART 37 - XV CF/AP), que fora criada no fito de obstar qualquer redução vencimental ao servidor, observado os termos do inciso XV, do art. 37, da CF/88.
+2. Com a edição da Lei nº 11.784/2008, a referida VPNI foi absorvida pelas tabelas remuneratórias nela previstas, tornando-se ilegal o seu pagamento após a vigência desta lei.
+3. Ausência de irregularidade ou ilegalidade no ato administrativo que determinou a supressão da referida rubrica do contracheque do servidor, por observar que com a implantação dos novos padrões remuneratórios decorrentes da Lei nº 11.784/2008 não mais se justificaria o seu pagamento.
+4. A garantia à irredutibilidade de vencimentos não alcança o sistema remuneratório, pois o servidor público não tem direito adquirido a regime jurídico.
+5. Presunção de que os valores pagos indevidamente foram recebidos de boa -fé pelo servidor, em razão da errônea interpretação conferida pela Administração, o que os torna irrepetíveis e incompensáveis.
+6. Apelação, Remessa Necessária e Recurso Adesivo improvidos.
+O recorrente alega a existência de contrariedade aos arts. 6º, I, da LINDB; 40, 41, §§ 3º e 5º, da Lei n. 8.112/1990; e 9º, § 1º, da Lei n. 11.314/2006.
+Defende, na parte que interessa, que " ..  o ato da autoridade coatora de determinar a exclusão e os respectivos descontos em folha de pagamento da Vantagem Pessoal Nominalmente Identificada - VPNI, instituída pelo artigo 40 da Lei Federal n. 8.112/90, foi realizado sem o devido processo legal, que implicará em retenção de salários e ainda, violará os princípios constitucionais do ato jurídico perfeito, do direito adquirido e da irredutibilidade de vencimentos, bem como o ato encontra-se em descompasso com a jurisprudência dominante de nossos Tribunais, que nega a devolução ao erário público de importâncias recebidas de boa-fé por servidores públicos, mormente sendo o salário de caráter nitidamente alimentar" (e-STJ, fl. 286).
+Requer, ao final, que " ..  a autoridade coatora também se abstenha de suprimir dos proventos do recorrente a Vantagem Pessoal Nominalmente Identificada - VPNI, na rubrica 82601(VPNI IRRED. REM. ART. 37 - XV CF/AP), mantendo-se a sentença quanto a abstenção da autoridade coatora de descontar a VPNI, em folha de pagamento, a título de reposição ao erário público (essa segurança já determinada na decisão recorrida)" (e-STJ, fls. 187/188).
+Foram apresentadas as contrarrazões às e-STJ, fls. 202/209.
+É o relatório.
+No mais, a Corte de origem negou a pretensão do recorrente, com base no seguinte (e-STJ, fls. 163/164):
+In casu, entendo que o Impetrante não tem o direito de permanecer recebendo a VPNI na forma em que vinha sendo paga. Isto porque o parágrafo único do art. 40, da Lei nº 8.112/90, que assegurava que nenhum servidor receberia, a título de vencimento, importância inferior ao salário mínimo, foi revogado pela Lei nº 11.784/2008, que ao mesmo tempo acrescentou o § 5º ao art. 41 da Lei nº 8.112/90, garantindo que a remuneração dos servidores é que não poderia ser inferior ao salário mínimo.
+Verifica-se que o fundamento adotado pela Corte de origem está em harmonia com a jurisprudência do Superior Tribunal de Justiça, no sentido de que, "após reestruturação da carreira por força da Lei 11.784/06, os servidores que não exerceram o direito de opção do § 2º do art. 9º da Lei 11.414/06 (e continuaram a receber a "complementação salarial" nos moldes da sentença transitada em julgado), passaram a ter a referida verba remuneratória paga em valor nominal, correspondente a 100% do vencimento básico do regime anterior, preservando-se a irredutibilidade vencimental" (REsp 1.430.607/CE, Rel. Min. Mauro Campbell Marques, Segunda Turma,DJe 17/3/2014)
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. SERVIDORES DO DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS - DNOCS. COMPLEMENTAÇÃO SALARIAL. VANTAGEM PESSOAL NOMINALMENTE IDENTIFICÁVEL. VINCULAÇÃO AOS VENCIMENTOS. IMPOSSIBILIDADE.
+ ..
+2. Consoante jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal, não há falar em direito adquirido a regime jurídico remuneratório e nem violação à coisa julgada, desde que respeitado a irredutibilidade de vencimentos, como no caso concreto.
+3. Esta Corte Superior já firmou compreensão de que não há falar em ilegalidade no ato da Administração quando, ocorrendo mutação nas normas referentes à remuneração dos servidores, institui a vantagem pessoal nominalmente identificada, consumindo as benesses anteriormente auferidas.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.646.745/CE, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/4/2017, DJe 20/6/2017)
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. DNOCS. COMPLEMENTAÇÃO SALARIAL. VANTAGEM PESSOALMENTE NOMINALMENTE IDENTIFICÁVEL. VINCULAÇÃO AOS VENCIMENTOS. IMPOSSIBILIDADE.
+1. A complementação salarial instituída pelo Decreto-Lei n. 2.438/88 não é devida em relação aos servidores que, após reestruturação da carreira por força da Lei n. 11.784/06, não exerceram o direito de opção do § 2º do art. 9º da Lei n. 11.414/06 (e continuaram a receber a "complementação salarial" nos moldes da sentença transitada em julgado), pois passaram a ter a referida verba remuneratória paga em valor nominal, correspondente a 100% do vencimento básico do regime anterior, preservando-se a irredutibilidade vencimental.
+2. O acórdão recorrido encontra-se em consonância com o entendimento assinalado, aplicando-se, na hipótese, a Súmula 83/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.279.896/CE, Rel. Min. DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 1º/12/2015, DJe 17/12/2015)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ e a Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
