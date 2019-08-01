@@ -1,0 +1,25 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “APELAÇÃO CRIMINAL. PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO RASPADA. ART. 16, PARÁGRAFO ÚNICO, INCISO IV, DA LEI Nº 10.826/2003. AUSÊNCIA DO RÉU EM AUDIÊNCIA. PRELIMINAR AFASTADA. PROVAS DA AUTORIA E DA MATERIALIDADE. CIRCUNSTÂNCIAS DESFAVORÁVEIS. PALAVRA DOS POLICIAIS. DOSIMETRIA DA PENA. CONDENAÇÃO MANTIDA.
+    1. O porte ilegal de arma de fogo é crime de perigo abstrato e de mera conduta, mostrando-se prescindível a demonstração de perigo concreto. Precedentes. Na esteira do entendimento dos Tribunais, em especial o Supremo Tribunal Federal, não são inconstitucionais os crimes de perigo abstrato, a exemplo daqueles previstos na Lei 10.826/03, que teve sua constitucionalidade assentada na ADI 3.112/DF.
+    2. Segundo entendimento dos Tribunais Superiores, a ausência do réu em audiência em que são ouvidas as testemunhas de acusação é nulidade relativa, que depende de oportuno protesto e demonstração do prejuízo. O direito de presença não é absoluto. No caso concreto, não houve demonstração do prejuízo.
+    3. A partir das provas produzidas, não houve dúvida que a arma apreendida pertencia ao acusado, que a portava irregularmente. Não há por que duvidar da versão apresentada pelos policiais, cujo relato é fidedigno a respeito das circunstâncias da abordagem. Também não há dúvida de que o revólver apreendido em poder do réu possuía a numeração raspada, fazendo incidir no tipo do art. 16, par. ún., IV, da Lei 10.826/03.
+    4. Compete ao Juízo da origem definir a pena adequada ao caso, comportando alteração, em grau de recurso, apenas em situações em que a modificação não for arrazoada, proporcional ou contrariar disposição legal ou preceito constitucional. Pena reduzida. APELAÇÃO PARCIALMENTE PROVIDA” (pág. 4 do documento eletrônico 4).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação do art. 5°, LIV e LV,da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Colho do acórdão recorrido, no que pertine ao exame do recurso extraordinário, o seguinte trecho:
+    “[...]
+    Conforme o narrado, o acusado, recolhido cautelarmente naquela ocasião, não foi conduzido pela SUSEPE à solenidade em que se procedeu à oitiva das testemunhas acusatórias. E, de fato, o direito de audiência e de presença fazem parte da autodefesa do réu. Observa-se, contudo, que a defesa se fez presente na solenidade, não cabendo falar de restrição à ampla defesa e ao contraditório. Comungo do entendimento firmado pelo STJ, no sentido de que a realização da audiência de instrução, sem a presença do réu que se encontra preso, e não foi conduzido pela SUSEPE, é causa de nulidade relativa, cuja declaração depende demonstração de efetivo prejuízo, o que não ocorreu na espécie. A esse respeito, colaciono o seguinte julgado:
+    […]
+    Com mais razão ainda ao se verificar que o interrogatório do acusado se deu ao final da instrução, tendo ele tido acesso à mídia audiovisual com o conteúdo da audiência. A defesa técnica estava presente e formulou questionamentos que entendia pertinentes. Não houve qualquer menção pelo acusado de pergunta defensiva que poderia ter sido feita na solenidade que não esteve presente, o que comprovaria o prejuízo.
+    […]” (págs. 8-9 do documento eletrônico 4).
+    Assim, é possível notar que a Corte de origem assentou não ter havido prejuízo à defesa do ora agravante, porquanto “não houve nenhuma alteração substancial no processo e os depoimentos e interrogatórios prestados foram similares àqueles contidos nas gravações anteriores”.
+    Como se sabe, o entendimento desta Corte é no sentido de que, para o reconhecimento de eventual nulidade, ainda que absoluta, faz-se necessária a demonstração do prejuízo. Nessa linha, o Tribunal tem reafirmado que a demonstração de prejuízo, “a teor do art. 563 do CPP, é essencial à alegação de nulidade, seja ela relativa ou absoluta, eis que […] o âmbito normativo do dogma fundamental da disciplina das nulidades pas de nullité sans grief compreende as nulidades absolutas” (HC 85.155/SP, Rel. Min. Ellen Gracie).
+    Na mesma esteira, transcrevo a Súmula 523/STF, in verbis:
+    No processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu.
+    Desse modo, não há falar em afronta aos princípios da ampla defesa e do devido processo legal, nem em declaração de nulidade do processo, se, no caso, não houve demonstração de prejuízo à defesa do acusado.
+    Além disso, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 1° de agosto de 2019.
+Ministro Ricardo Lewandowski
+Relator
