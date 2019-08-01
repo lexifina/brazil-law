@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA LEGAL — INVIABILIDADE — NEGATIVA – SEGUIMENTO.
+    1. No extraordinário, a recorrente alega a violação dos artigos 18, 30, inciso V, e 149-A da Constituição Federal. Discorre sobre a conformidade da norma editada pela agência reguladora, considerada a autonomia municipal para organizar e prestar os serviços locais de iluminação pública.
+    2. Eis a síntese do acórdão recorrido:
+    CONSTITUCIONAL E ADMINISTRATIVO. APELAÇXÃO. SERVIÇO DE ILUMINAÇÃO PÚBLICA. TRANSFERÊNCIA PELA CONCESSIONÁRIA DE ENERGIA ELÉTRICA DO ATIVO IMOBILIZADO EM SERVIÇO - AIS AO MUNICÍPIO. RESOLUÇÕES NORMATIVAS N° 414 / 2010 E 479 / 2012, AMBAS DA ANEEL. DECRETO N° 41.019/57. EXTRAPOLAÇÃO.
+    1. A sentença apelada julgou procedente o pedido, nos termos do art. 269, I, do CPC, para que o Município de Solonópole fique desobrigado ao cumprimento do estabelecido no art. 218 da Resolução 414, com redação dada pela Resolução 479 da ANEEL, que impõe a obrigação de receber o sistema de iluminação pública registrado como Ativo Imobilizado em Serviços (AIS).
+    2. Indiscutivelmente, o serviço de iluminação pública é de interesse predominantemente local. Consequentemente, sua prestação cabe aos municípios, a quem, inclusive, é facultado instituir a correspondente contribuição de custeio (Constituição Federal, art. 30, inciso V, e art. 149-A).
+    3. De longa data, porém, a manutenção do serviço vem sendo confiada às distribuidoras de energia elétrica. Tanto, que a legislação há muito considera os circuitos de iluminação parte integrante dos sistemas de distribuição, assim como também o são, relativamente ao serviço de transporte coletivo, "os alimentadores para tração elétrica até a subestação conversora" (Decreto n° 41.019/57, art. 5°, § 2°).
+    4. Por mais razoável que seja querer que os municípios assumam a manutenção do serviço de iluminação pública, essa decisão não parece conter-se dentre as atribuições da ANEEL, criada que foi para "regular e fiscalizar a produção, transmissão, distribuição e comercialização de energia elétrica" (Lei n° 9.427/96, art. 2°).
+    5. É até difícil imaginar o ganho que o serviço de distribuição de energia terá com a transferência aos municípios dos ativos imobilizados atualmente pertencentes às distribuidoras.
+    6. Essa dificuldade aumenta quando se considera que tais ativos servem, normalmente, não apenas à iluminação dos logradouros públicos, mas também à distribuição de energia. Trata-se, efetivamente, de instalações usualmente compartilhadas por ambos os serviços. Cessar esse compartilhamento agora constituiria verdadeiro atentado ao princípio da racionalidade econômica, à luz do qual os recursos devem ser empregados de modo a cumprir o máximo das utilizações a que se prestam.
+    7. Ainda que o interesse da ANEEL na regulamentação do tema fosse evidentemente legítimo e pudesse ser satisfeito sem prévia alteração do texto do Decreto n° 41.019/57, remanesceria ainda a questão do prazo para a implementação da medida.
+    8. Rigorosamente, a transferência dos ativos somente poderia ser imposta à proporção que cada município estivesse em condições de recebê-los sem risco à continuidade do serviço de iluminação pública. Não é admissível presumir tal circunstância do simples escoamento de um prazo pré -estabelecido de forma abstrata e genérica, mormente quando este se apresenta relativamente exíguo, consideradas a multiplicidade e a complexidade das providências que precisam ser tomadas não apenas pelas distribuidoras de energia elétrica, mas, sobretudo, pelos municípios, em relação aos quais, vale ressaltar, a ANEEL não tem nenhuma ingerência.
+    9. Apelações não providas.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário formalizado pela Companhia Energética do Ceará.
+    4. Publiquem.
+Brasília, 1º de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
