@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO .
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à responsabilidade da operadora de plano de saúde, após o cancelamento da modalidade coletiva empresarial, pela disponibilização de contrato individual sem carência. No extraordinário cujo trânsito busca alcançar, a recorrente alega violação dos artigos 5º, inciso II, da Constituição Federal. Alude à contrariedade dos princípios da legalidade ante a inexistência de lei que obrigue a oferecer o serviço.
+    2. Eis a síntese do acórdão recorrido:
+    PLANO DE SAÚDE. EXTINÇÃO PELA EX-EMPREGADORA. Pretensão ao restabelecimento do contrato e indenização por danos morais. Sentença de parcial procedência. Recurso das partes. Recurso da autora. Descabimento da inversão do ônus da prova para demonstrar que o contrato era individual antes do cancelamento. Ausência de verossimilhança das alegações e de hipossuficiência técnica. Documentos, em especial a carteirinha do plano juntado pela própria autora, dão conta de que o plano era coletivo empresarial. Sucumbência integral da demandada porque a autora decaiu em parte mínima dos pedidos. Recurso parcialmente provido para esse fim . Recurso da ré. Em caso de extinção do plano de saúde coletivo, a operadora, como responsável subsidiária, deve fornecer um plano de saúde individual ou familiar sem carências (art. 26 da RN 279/ 2011 e art. 1° da RN 19/ 1998 do CONSU). Restabelecimento mantido, em razão da ilicitude cometida pela ré ao não promover a devida informação da consumidora. Danos morais, todavia, reduzidos, por conta das peculiaridades do caso. Recurso parcialmente provido
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 1º de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
