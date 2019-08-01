@@ -1,0 +1,31 @@
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. DOSIMETRIA. VALORAÇÃO NEGATIVA DA CONDUTA SOCIAL COM BASE EM CONDENAÇÕES TRANSITADAS EM JULGADO NÃO UTILIZADAS NOS ANTECEDENTES E NA REINCIDÊNCIA. FUNDAMENTO INIDÔNEO. EXCLUSÃO DA REFERIDA CIRCUNSTÂNCIA. REDIMENSIONAMENTO NA PENA.
+Ordem concedida nos termos do dispositivo.
+
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios (Apelação n. 20070710397005APR).
+Infere-se dos autos que o ora paciente foi condenado, como incurso no art. 121, § 2º, I, c/c o art. 14, II, e c/c o art. 29, todos do Código Penal, à pena de 11 anos e 1 mês de reclusão, em regime inicial fechado. Irresignada, a defesa interpôs apelação, a qual foi parcialmente provida pelo Tribunal distrital, para, mantida a condenação, reduzir a pena do apelante para 10 anos e 6 meses de reclusão (fls. 20/58).
+No presente writ, registra a impetrante, em síntese, a existência de constrangimento ilegal consistente na ausência de fundamentação idônea para a valoração negativa da circunstância judicial referente à conduta social (fls. 6/9).
+Ao final requer o conhecimento e provimento do presente habeas corpus, para reformar o julgado para que seja retirada da valoração negativa das circunstâncias em primeira fase, conforme se depreende das razões acima delineadas (fl. 9).
+Não houve pedido liminar.
+Prestadas as informações, o Ministério Público Federal opinou, pelas palavras da Subprocuradora-Geral da República Maria das Mercês de [NOME], pela concessão da ordem (fls. 141/148).
+É o relatório.
+In casu, a ordem comporta concessão.
+A Corte de origem manteve a valoração negativa da conduta social ao afirmar que não pode ser tida como satisfatória a conduta social do indivíduo com várias condenações por crimes cometidos em datas anteriores à do fato sob exame (fl. 50).
+Sucede que, em julgado recente (AgRg no REsp n. 1.781.659/DF, de minha relatoria, DJe 12/3/2019), a Sexta Turma desta Corte firmou a compreensão, na esteira do entendimento consolidado na Quinta Turma, de que a multiplicidade de condenações pretéritas devem ser atreladas apenas aos maus antecedentes, afastando a valoração negativa da conduta social e da personalidade do réu, na primeira fase da dosimetria da pena.
+Eis a ementa do acórdão (grifo nosso):
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. RECEPTAÇÃO. VIOLAÇÃO DO ART. 59 DO CP. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL NEGATIVADA. CONDUTA SOCIAL. FUNDAMENTO INIDÔNEO. SUPORTE EM CONDENAÇÕES ANTERIORES. AFASTAMENTO QUE SE IMPÕE. PREVALÊNCIA DO VOTO DO RELATOR, OUTRORA VENCIDO NO JULGAMENTO DO RECURSO DE APELAÇÃO.
+1. Na análise das circunstâncias judiciais, assim se pronunciou o Magistrado singular: quanto à conduta social do réu, a condenação transitada em julgado de fl. 107 revela que o mesmo tem dificuldade em obedecer às regras de convívio social e faz do crime um meio de vida, comportamento que se constitui uma mácula do indivíduo em meio à sociedade em que vive.
+2. No voto condutor do acórdão da apelação, constam os seguintes fundamentos: quanto à valoração negativa da conduta social, o fato de reiterar na prática delitiva (fl. 107) demonstra, suficientemente, o desajuste de comportamento do réu junto à comunidade em que inserido, especialmente porque tal comportamento não foi avaliado com base nos mesmos fundamentos fáticos empregados pelo Magistrado para demonstrar que se trata de acusado com maus antecedentes.
+3. A conduta social retrata a avaliação do comportamento do agente no convívio social, familiar e laboral, perante a coletividade em que está inserido. Assim, a valoração negativa da vetorial conduta social com base em condenações definitivas por fatos anteriores é ilegal, pois estas se prestariam ao sopesamento negativo da circunstância judicial relativa aos antecedentes. Isso porque a Lei n. 7.209, de 1984, a par do vetor antecedentes, inseriu a circunstância judicial da conduta social no caput do art. 59 do CP, o que impõe regramento próprio diante da diversidade na base fática (HC n. 457.039/SC, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018).
+4. A jurisprudência da Quinta Turma desta Corte Superior passou a entender que as diversas condenações pretéritas devem ser atreladas apenas aos maus antecedentes, afastando a valoração negativa da conduta social e da personalidade do réu, na primeira fase da dosimetria da pena. Precedente. (AgRg no HC n. 377.016/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 14/12/2018).
+5. Agravo regimental improvido.
+No mesmo sentido, confiram-se: HC n. 480.726/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/3/2019; e AgRg no AREsp n. 1.365.734/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe 19/2/2019.
+Dessa forma, com razão a nobre Subprocuradora-Geral da República quando, em seu parecer, disse que, da existência de condenações pretéritas, não se pode concluir pela má conduta social do réu, aferível, isto sim, com base no seu modo de agir na comunidade onde vive, na sua vizinhança, na sua esfera de trabalho e no seu ambiente familiar (fl. 148).
+Assim, mostra-se adequada a exclusão da valoração negativa da conduta social na dosimetria da pena do ora paciente.
+Passo, então, ao redimensionamento da pena.
+Na primeira fase da dosimetria, excluída a circunstância judicial da conduta social, permanecem negativas as circunstâncias dos maus antecedentes e das circunstâncias do crime, ficando a pena-base fixada em 15 anos e 2 meses de reclusão. Na segunda fase, permanece a agravante da reincidência, motivo pelo qual a pena foi aumentada em 1/6, elevando a pena intermediária para 17 anos, 8 meses e 10 dias de reclusão. Na terceira fase, diante do reconhecimento da tentativa, a pena foi diminuída em 1/2, fixando-se a pena definitiva em 8 anos, 10 meses e 5 dias de reclusão. Mantendo-se, no mais, a sentença condenatória.
+Ante o exposto, à vista dos precedentes e do parecer, concedo a ordem a fim de excluir a valoração negativa da conduta social, redimensionando a pena imposta ao paciente para 8 anos, 10 meses e 5 dias de reclusão, mantidos os demais termos da condenação.
+Comunique-se com urgência.
+Intime-se o Ministério Público Estadual.
+Publique-se.
