@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais no julgamento do HC n. 1.0000.19.054762-0/000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 3/5/2019 por ter supostamente praticado delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de entorpecentes). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual, por maioria, denegou a ordem nos termos do acórdão assim ementado:
+HABEAS CORPUS - TRÁFICO DE DROGAS - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPROCEDÊNCIA - ALEGAÇÕES PERTINENTES AO MÉRITO - IMPOSSIBILIDADE DE ANÁLISE - PRESSUPOSTOS E REQUISITOS DO ART. 312 DO CPP NITIDAMENTE PRESENTES - DECISÃO DEVIDAMENTE FUNDAMENTADA - CONDIÇÕES PESSOAIS FAVORÁVEIS - INSUFICIÊNCIA - OFENSA AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - INOCORRÊNCIA. I - É inviável a análise da tese de inocência na via estrita do habeas corpus, por demandar valoração probatória. Basta que estejam presentes, neste momento, indícios suficientes de autoria e a certeza da materialidade. II - Estando devidamente comprovada a presença dos requisitos do art. 312 do CPP, necessária é a manutenção da prisão cautelar, como forma de se garantir a ordem pública e evitar a reiteração delitiva, em especial quando demonstrada a insuficiência das medidas cautelares alternativas. III - A decisão que indica fatos concretos do delito e do paciente não pode ser considerada genérica. IV - Os atributos pessoais do paciente não podem ser analisados individualmente, sem que seja considerado todo o contexto dos autos. V - O princípio constitucional da presunção de inocência não influi na análise da necessidade da manutenção da prisão cautelar, apenas impede a antecipação dos efeitos da sentença.
+V.V.
+HABEAS CORPUS - TRÁFICO DE DROGAS - PEDIDO PARA RESPONDER AO PROCESSO EM LIBERDADE - SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - POSSIBILIDADE NO CASO CONCRETO - ORDEM PARCIALMENTE CONCEDIDA. A prisão de caráter cautelar, ou seja, feita antes de sentença condenatória definitiva, é exceção, uma vez que implica na privação da liberdade do acusado antes da condenação final. Logo, somente deve ser aplicada quando não for cabível sua substituição por medida cautelar diversa da prisão (fl. 74).
+No presente recurso, nega a autoria. Afirma que as substâncias entorpecentes encontradas com o recorrente destinavam-se exclusivamente ao consumo próprio e que, no momento do flagrante, apenas não teve como comprovar que o valor em dinheiro que portava havia sido adquirido pela venda de uma motocicleta. Aponta que o paciente não se dedica à traficância e que tampouco integra organização criminosa.
+Alega que o decreto prisional carece de fundamentação idônea. Sustenta ausência dos requisitos previstos no art. 312 do Código de Processo Penal. Ressalta as condições pessoais favoráveis do recorrente e aponta suficiência, no caso concreto, da aplicação de medidas cautelares alternativas ao cárcere.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva, se for o caso mediante imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+O presente recurso traz pedido idêntico ao formulado no HC 516.174/MG, ainda em trâmite perante esta Corte Superior, e ambos se ataca acórdão do Tribunal de Justiça do Estado de Minas Gerais no julgamento do Habeas Corpus n. 1.0000.19.054762-0/000.
+Assim, diante de inadmissível reiteração de pedidos e, tendo em vista que o HC n. 516.174/MG encontra-se em avançada fase de processamento, obstaculizado, excepcionalmente, o conhecimento do presente recurso e reservo a análise da controvérsia aos autos da impetração substitutiva.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. REITERAÇÃO DE PEDIDO FORMULADO NO RHC N. 42.510/RJ.
+MANIFESTAÇÃO DO COLEGIADO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O presente recurso é mera reiteração do pedido já formulado e decidido, nos autos do RHC n. 42.510/RJ, pela col. Quinta Turma.
+II - Observa-se do termo de recebimento e autuação que ambos os processos possuem o mesmo número de origem, além de aduzirem os mesmos argumentos e formularem idênticos pedidos.
+Agravo regimental desprovido (AgRg no RHC 42.638/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/12/2014).
+Por tais razões, com fundamento no art. 34, inciso XVIII, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço o presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
