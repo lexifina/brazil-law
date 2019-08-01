@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que, sob argumento de incidência da Súmula n. 7 do STJ e da falta de cotejo analítico, negou seguimento ao recurso especial.
+O aresto impugnado apresenta a seguinte ementa (e-STJ fl. 366):
+Plano de saúde coletivo empresarial. Serviços médicos e hospitalares. Aplicabilidade do Código de Defesa do Consumidor (Súmula n9 469 do STJ), ainda que se trate a estipulante de empresa de pequeno porte. Relativização da "pacta sunt servanda".
+Reajuste por sinistralidade. índices aplicados e custos dos serviços de assistência não explicitados. Cláusula contratual imprecisa. Dever de informação adequada e clara desatendido. Apelante que não se desincumbiu do ônus de comprovar as razões justificadoras do aumento expressivo das mensalidades (art. 373, II, CPC/2015). Descumprimento, ademais, do que impõe a Resolução Normativa n9 389/2015 (art. 14). Cláusulas gerais da boa-fé e equilíbrio na relação de consumo que representam restrições à autonomia privada. Evidenciado o desequilíbrio contratual no exercício abusivo do direito por força da desigualdade material de poder. Prestadora que confunde boa-fé com interesse próprio. Impostura evidenciada. Quebra do dever de lealdade e violação à boa-fé objetiva e à função social do contrato (arts. 421 e 422 do Cód. Civil). Aplicação do índice de reajuste divulgado pela ANS. Limitação impositiva. Sentença mantida. Recurso desprovido.
+Sobreveio o recurso especial (e-STJ fls. 330/338), fundamentado no art. 105, III, "a" e "c", da CF, no qual a recorrente sustentou, além de divergência jurisprudencial, violação do art. 884 do CC/2002, argumentando que o reajuste por sinistralidade do plano de saúde, no presente caso, teria observado os requisitos legais para sua validade, não sendo abusivo.
+No agravo (e-STJ fls. 436/449), afirma a presença dos requisitos de admissibilidade do recurso especial.
+É o relatório.
+Decido.
+Ao apreciar o caso, entendeu o Tribunal de origem que o reajuste do plano de saúde, em função da taxa de sinistralidade arguida pela recorrente, seria abusivo, no presente caso, ante a falta de comprovação de sua necessidade frente os custos da empresa de saúde (e-STJ fls. 367/377).
+Seria necessário o reexame dos fatos e das provas dos autos para modificar o entendimento do TJSP e concluir que os aumentos aplicados pela empresa de saúde foram devidamente informados ao beneficiário. Nesse contexto, aplica-se a Súmula n. 7/STJ.
+A propósito, em hipóteses semelhantes a destes autos, confiram-se os seguintes precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CONTRATO COLETIVO. ABUSIVIDADE DO REAJUSTE. REEXAME DO CONJUNTO FÁTICO DOS AUTOS E CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ.
+1. Se a Corte de origem, com base no conjunto fático dos autos e interpretando cláusulas do pacto, concluiu pela ausência de comprovação de que houve aumento da sinistralidade do grupo a fim de justificar o reajuste na mensalidade do plano de saúde, inviável alterar as conclusões do julgado recorrido, em face dos óbices das Súmulas 5 e 7 do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.199.105/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/6/2019, DJe 7/6/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. GEAP. OPERADORA DE AUTOGESTÃO. REAJUSTE DA MENSALIDADE. ABUSIVIDADE. CDC. REEXAME DE CLÁUSULAS E DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. O Tribunal de origem, ao analisar o reajuste das mensalidades do plano de saúde, delineou a controvérsia dentro do conjunto probatório dos autos, concluindo, assim, pelo caráter abusivo do aludido reajuste aplicado e pela necessidade de restituição dos valores pagos a maior. Nesse contexto, a revisão do julgado demandaria a imprescindível interpretação das cláusulas do contrato e o reexame de fatos e provas dos autos, providências vedadas no âmbito do recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+2. É inviável o conhecimento do dissídio jurisprudencial quando a questão foi decidida com base nas peculiaridades fáticas dos casos, a justificar a incidência da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.045.603/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/10/2017, DJe 26/10/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. GEAP. REAJUSTE DE MENSALIDADES. ANÁLISE DOS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULAS 5 E 7/STJ. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. AGRAVO NÃO PROVIDO.
+1. A falta de impugnação objetiva e direta ao fundamento do acórdão recorrido denota a deficiência da fundamentação recursal, a fazer incidir, no particular, as Súmulas 283 e 284 do STF. 2. Verifica-se que o acolhimento da pretensão recursal, no sentido de afastar a abusividade do reajuste do plano de saúde, bem como o reajuste diferenciado em função da idade, demandaria, necessariamente, a interpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório constante nos autos, o que é vedado em sede de recurso especial, a teor do disposto nas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.069.016/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/9/2017, DJe 29/9/2017.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
