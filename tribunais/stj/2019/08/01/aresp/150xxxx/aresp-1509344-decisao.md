@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo apresentado por ANGELO VALENTINI e OUTRO, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. CONTRATO COLETIVO. RESCISÃO A PEDIDO DA ESTIPULANTE. MANUTENÇÃO DE VALORES NO CONTRATO INDIVIDUAL ATUALMENTE VIGENTE.
+IMPOSSIBILIDADE.
+1. O contrato em análise foi avençado entre as partes com o objetivo de garantir o pagamento das despesas médicas e hospitalares para a hipótese de ocorrer a condição suspensiva prevista naquele pacto, consubstanciada no evento danoso à saúde.
+Outro elemento essencial desta espécie contratual é a boa -fé, na forma do art. 422 do Código Civil, caracterizada pela lealdade e clareza das informações prestadas pelas partes.
+2. Os planos ou seguros de saúde estão submetidos às disposições do Código de Defesa do Consumidor, enquanto relação de consumo atinente ao mercado de prestação de serviços médicos. Isto é o que se extrai da interpretação literal do art. 35 da Lei 9.656/98. Súmula n. 469 do STJ.
+3. No caso, a estipulante rescindiu o contrato que mantinha com a ré em razão do encerramento das atividades da empresa, não havendo mais vínculo entre ambas.
+4. A rescisão do pacto configura uma das hipóteses de extinção do direito previsto nos artigos 30 e 31 da Lei 9.656/98, nos termos do artigo 26 da Resolução nº. 279/2011 da ANS, não havendo como manter individualmente contrato coletivo já rescindido.
+5. Não é possível a manutenção das coberturas e valores do pacto anteriormente vigente em contrato de plano de saúde na modalidade individual como pretendem os autores, pois as condições e circunstâncias para a contratação são distintas.
+6. Tanto a Resolução Normativa n2 279/2011, quanto a Resolução CONSU nº 19/99 estabelecem tão somente que as operadoras que comercializam planos individuais devem ofertá-los aos beneficiários de contrato coletivo cancelado pelo empregador, inexistindo obrigatoriedade de correspondência dos valores cobrados nos diferentes pactos.
+7. Os honorários advocatícios deverão ser majorados quando a parte recorrente não lograr êxito neste grau de jurisdição, independente de pedido a esse respeito, de acordo com os limites fixados em lei. Inteligência do art. 85 e seus parágrafos do novel CPC.
+Negado provimento ao apelo (fls. 173/174).
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, alega a violação dos arts. 30 e 31 da Lei 9.656/1998, no que concerne ao reconhecimento do direito dos recorrentes à migração do plano coletivo da recorrida para um plano individual nas mesmas condições do plano anterior, com as mesmas coberturas, apesar do encerramento do contrato coletivo de plano de saúde com o fechamento da empresa.
+É o relatório. Decido.
+Na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico a fim de demonstrar a existência de identidade jurídica e similitude fática entre o acórdão recorrido e o paradigma indicado.
+Nesse sentido: "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório" (AgInt no AREsp n. 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/4/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 535.444/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 1/4/2019; REsp n. 1.773.244/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 5/4/2019; e AgInt no AREsp n. 1.358.026/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1º/4/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
