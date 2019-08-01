@@ -1,0 +1,13 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RAZÕES RECURSAIS QUE NÃO IMPUGNAM ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO
+DECISÃO
+Trata-se de agravo contra decisão da Corte de origem que inadmitiu o recurso especial com base nos seguintes fundamentos: (a) ausência de violação aos artigos 535 e 458 do CPC/73; (b) a análise da insurgência apresentada exige o exame de conteúdo fático-probatório, o que encontra óbice na Súmula 7/STJ; (c) a incidência da Súmula 7/STJ impede a análise da divergência jurisprudencial, pela ausência de identidade fática entre os acórdãos confrontados.
+Em suas razões de agravo, o agravante afirma que o seu recurso preenche todos os requisitos legais para o conhecimento.
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o artigo 932, III, do CPC/2015 e no artigo 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de se contrapor, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+No caso dos autos, verifica-se que não houve impugnação, de forma específica e suficiente, ao fundamento de que o dissídio jurisprudencial não pode ser conhecido diante da ausência de similitude fática entre os acórdãos confrontados, em razão da incidência da Súmula 7/STJ.
+Nesse sentido: AgRg no AREsp 581.718/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 22/10/2014; AgRg no AREsp 826.329/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 29/3/2016; AgRg no AREsp 831.877/PB, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 29/3/2016; AgRg no AREsp 93.737/PB, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 26/2/2016; AgRg no AREsp 704.988/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 10/9/2015; AgRg no AREsp 802.217/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18/12/2015; e AgRg no AREsp 834.978/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 19/4/2016.
+Confiram-se, ainda, os seguintes julgados do Supremo Tribunal Federal: ARE 935.727 AgR/RS, Rel. Ministra Rosa Weber, Primeira Turma, DJe 15/4/2016; ARE 782.043 AgR/RS, Rel. Ministro Luiz Fux, Primeira Turma, DJe 10/12/2015; ARE 678093 AgR, Rel. Ministro Teori Zavascki, Segunda Turma, DJe 20/4/2016.
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
