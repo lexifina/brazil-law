@@ -1,0 +1,11 @@
+Decisão: Trata-se de Prisão Preventiva para Extradição, com mandado de prisão cumprido, no âmbito da qual a defesa requer a revogação da prisão decretada nos autos, alegando, em síntese, que “desde o dia em que o Uruguai foi comunicado, 31.5.2019, transcorreram, até 15.07.2019, 45 dias, sem a formalização do pedido de extradição. Extrapolou-se, portanto, o prazo de quarenta dias previsto no artigo 29, item 4, do Acordo de Extradição entre os Estados Partes do Mercosul, promulgado pelo Decreto 4.975/2004” (fls. 49).
+    É o relatório. Decido.
+    No âmbito da Ext 1.596, processo principal ao qual se vincula a presente PPE, a Embaixada do Uruguai formalizou, por meio da Nota Verbal nº 180/2019, de 2/7/2019, pedido de extradição em desfavor do nacional uruguaio PABLO ÁLVARO MUNIZ VILLAR, nos termos do Acordo de Extradição firmado entre os Estados Partes do MERCOSUL (Decreto nº 4.975, de 30 de janeiro de 2004). A Polícia Federal informou que o extraditando foi preso no dia 31 de maio de 2019 na cidade de Pelotas/RS, estando à disposição da Justiça brasileira no Presídio Regional de Pelotas/RS (fls. 33).
+    No dia 15/7/2019, o Min. Dias Toffoli, no exercício da Presidência desta Corte, reiterou solicitação ao Ministro de Estado da Justiça quanto à informação sobre a data em que a Missão Diplomática do Estado requerente tomou ciência da efetivação da custódia do Extraditando. (fls. 51). Entretanto, ante à apresentação formal do pedido de Extradição, o despacho não foi cumprido (fls. 53), ante ao seu prejuízo.
+    Dessa forma, resta prejudicada a alegação de excesso de prazo, ante à apresentação formal e tempestiva do pedido de extradição, que inclusive já conta com audiência de interrogatório designada para 20/9/2019. Ademais, não se sabe ao certo a data precisa em que o Estado requerente foi cientificado sobre a prisão preventiva do extraditando, cujo pedido extradicional foi formalizado em 16 de julho de 2019, mediante Nota Verbal datada de 2 de julho de 2019, de modo que a alegação de excesso injustificado de prazo não pode ser comprovada.
+    Ex positis, indefiro o pedido de revogação da prisão preventiva decretada em desfavor do nacional uruguaio PABLO ALVARO MUNIZ VILLAR.
+    Publique-se. Intimem-se.
+    Brasília, 2 de agosto de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
