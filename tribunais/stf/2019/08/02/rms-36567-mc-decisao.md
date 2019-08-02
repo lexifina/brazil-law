@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de recurso em mandado de segurança interposto contra decisão que, emanada do E. Superior Tribunal de Justiça, restou consubstanciada em acórdão assim ementado:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. ATO DO MINISTRO DE ESTADO DO CONTROLE E DA TRANSPARÊNCIA. DECLARAÇÃO DE INIDONEIDADE PARA LICITAR OU CONTRATAR COM A ADMINISTRAÇÃO PÚBLICA. AUSÊNCIA DE QUALQUER ILEGALIDADE NO PROCESSO ADMINISTRATIVO. ORDEM DENEGADA.
+    1. Trata-se de mandado de segurança impetrado por ZCR INFORMÁTICA LTDA com o propósito de suspender decisão proferida pelo Ministro da Controladoria Geral da União – CGU, nos autos do PA nº 00190.018887/2013-25/CGU, instaurado por força da Portaria nº 439 de 6/3/2014/CGU, com vista a apurar possível irregularidade no Processo Licitatório nº 2009/032646, conduzido pelo Município de João Pessoa/PB.
+    2. As irregularidades apuradas deram conta de que Impetrante, bem como as empresas IDÉIA DIGITAL (vencedora do certame), ZCR, SYSDESING, ISN, REDISUL e servidores da Secretaria de Administração do Município agiram em conluio no intuito de fraudar o caráter competitivo do Pregão Presencial nº 19/2009 e fazer da participante IDÉIA DIGITAL a vencedora do certame.
+    3. A Nota Técnica n. 1255/2014/CGU/CGR/COREP conclui pela participação da Impetrante. Para tanto, levou em consideração provas periciais, testemunhais e documentais produzidas em Inquérito Policial e vez transportadas ao processo administrativo sob o crivo do contraditório, bem como em auditoria da Controladoria- -Geral da União.
+    4. Preliminar de prescrição da pretensão punitiva afastada, porquanto houve a interrupção da prescrição da ação punitiva da administração com as conclusões do Inquérito Policial nº 095/2012-SR/DPF/PB. Incidência do inciso II do artigo 2º da Lei nº 9.873/99.
+    5. O exame do procedimento administrativo demonstra não houve desrespeito ao contraditório e à ampla defesa, porquanto foi assegurada a defesa prévia da impetrante.
+    6. No caso em epígrafe – fraude em procedimento licitatório – o dispositivo normativo consentâneo com o objeto jurídico tutelado é o § 2º do art. 87 da Lei 8.666/93, esse, por sua vez, elenca que para a aplicação das sanções ali especificadas é facultado apenas defesa prévia do interessado, no respectivo processo, no prazo de 5 (cinco) dias úteis. Inaplicabilidade, pois, do art. 44 da Lei 9.784/99.
+    7. Desproporcionalidade da pena afastada, sob pena de incursão indevida no mérito do ato administrativo. Precedentes.
+    8. Verifica-se que o ato impugnado tem embasamento e o exame do que foi relatado pela impetrante não demonstra qualquer ilegalidade no procedimento adotado.
+    9. Segurança denegada.”
+    (MS 21.591/DF, Rel. Min. MAURO CAMPBELL MARQUES – grifei)
+    Postula-se, em sede cautelar, que “(...) seja sobrestada de imediato a decisão do Impetrado no processo administrativo nº 00190018887/2013-25, que aplicou pena de suspensão temporária de licitar e contratar (...) por 2 anos com a Administração Pública Federal sob o argumento de ter participado de esquema de simulação de competitividade com a sociedade IDÉIA DIGITAL, na forma do art. 87, III, da Lei nº 8.666/1993, determinando ainda o afastamento de possíveis restrições impostas à mesma no Sistema de Cadastramento Unificado de Fornecedores – SICAF, até o julgamento final do presente recurso”.
+    Passo a examinar essa postulação cautelar. E, ao fazê-lo, entendo, em juízo de estrita delibação, que as razões consubstanciadoras da decisão denegatória do mandado de segurança, proferida pelo E. Superior Tribunal de Justiça, parecem descaracterizar a plausibilidade jurídica da pretensão deduzida pela ora recorrente.
+    É importante rememorar, neste ponto, que o deferimento da medida liminar, resultante do concreto exercício do poder cautelar geral outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos pressupostos referidos no art. 7º, III, da Lei nº 12.016/2009: a existência de plausibilidade jurídica (“fumus boni juris”), de um lado, e a possibilidade de lesão irreparável ou de difícil reparação (“periculum in mora”), de outro.
+    Sem que concorram esses dois requisitos – que são necessários, essenciais e cumulativos –, não se legitima a concessão da medida liminar, consoante enfatiza a jurisprudência do Supremo Tribunal Federal:
+    “Mandado de segurança. Liminar. Embora esta medida tenha caráter cautelar, os motivos para a sua concessão estão especificados no art. 7º, II, da Lei nº 1.533/51, a saber: a) relevância do fundamento da impetração; b) que do ato impugnado possa resultar a ineficácia da medida, caso seja deferida a segurança.
+    Não concorrendo estes dois requisitos, deve ser denegada a liminar.”
+    (RTJ 112/140, Rel. Min. ALFREDO BUZAID – grifei)
+    Sendo assim, e em juízo de estrita delibação, indefiro o pedido de medida liminar.
+    2. Ouça-se a douta Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 02 de agosto de 2019.
+Ministro CELSO DE MELLO
+Relator
