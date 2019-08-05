@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (fl. 150, Vol. 12):
+    “TRIBUTÁRIO - TAXA DE SEGURANÇA PÚBLICA - SERVIÇO DE EXTINÇÃO DE INCÊNDIO - RE N° 643.247/SP (REPERCUSSÃO GERAL) - INCONSTITUCIONALIDADE - ARTIGO 1.030, II, CPC/20I5 - JULGAMENTO CONTRÁRIO A DECISÃO PARADIGMA DO SUPREMO TRIBUNAL FEDERAL - JUÍZO DE RETRATAÇÃO. 1. Segundo tese firmada pelo Supremo Tribunal Federal em sede de repercussão geral ao apreciar o RE no 643.24715P, a atividade de prevenção e combate a incêndios, inserida no âmbito da segurança pública, deve ser viabilizada mediante a arrecadação de impostos, o que evidencia a inconstitucionalidade da taxa instituída para tal fim pelo Estado. 2. Cabível o juízo de retratação, na forma prevista pelo artigo 1.030, II, CPC/215, quando o julgamento proferido no acórdão impugnado diverge da decisão paradigma do colendo STF, submetido ao regime da repercussão geral.”
+    No apelo extremo, interposto com amparo no art. 102, III, da Constituição Federal, a parte recorrente sustenta que houve violação ao art. 145, II da Constituição Federal (fls. 197-210, Vol. 12).
+    É o relatório. Decido.
+    Não assiste razão ao recorrente.
+    No caso, o Tribunal de origem fundamentou o aresto recorrido nos seguintes termos (fls. 154-155, Vol. 12):
+    “Segundo o voto do ilustre Relator, Ministro MARCO AURÉLIO, acompanhado pela maioria, o artigo 144 da Constituição da República prevê que incumbe aos bombeiros militares a execução de atividades de defesa civil, o que inclui a prevenção e o combate a incêndio, serviços essenciais do Estado que devem ser viabilizados mediante arrecadação de impostos, e não por meio da cobrança de taxas.
+    Diante do resultado do julgamento colegiado, foi fixada, à unanimidade, a seguinte tese de repercussão geral: “A segurança pública, presentes a prevenção e o combate a incêndios, faz-se, no campo da atividade precípua, pela unidade da Federação, e, porque serviço essencial, tem como a viabilizá-la a arrecadação de impostos, não cabendo ao Município a criação de taxa para tal fim".
+    Nesse contexto, tendo em vista o posicionamento firmado pelo órgão jurisdicional guardião da Constituição sobre a controvertida matéria (artigo 102 da CRFB), forçoso concluir pela inconstitucionalidade da cobrança de taxa de segurança pública pela utilização potencial do serviço de extinção de incêndios. Não obstante o ato normativo apreciado no RE 6432471SF seja municipal, a tese fixada evidencia a consolidação do entendimento no Supremo Tribunal Federal no sentido da inconstitucionalidade da taxa instituída para o financiamento da prevenção e combate a incêndios, seja mediante lei municipal ou lei estadual, em razão de a atividade, inserida no âmbito da segurança pública, ter que ser viabilizada mediante arrecadação de impostos [...]”
+    Esse entendimento está de acordo com a jurisprudência desta CORTE que, no julgamento do RE 643.247/SP, (Rel. Min. MARCO AURÉLIO, Tema 16), sob a sistemática da repercussão geral, fixou tese no sentido de que “a segurança pública, presentes a prevenção e o combate a incêndios, faz-se, no campo da atividade precípua, pela unidade da Federação, e, porque serviço essencial, tem como a viabilizá-la a arrecadação de impostos, não cabendo ao Município a criação de taxa para tal fim.”
+    Confira-se a ementa do julgado:
+    ‘TAXA DE COMBATE A INCÊNDIO – INADEQUAÇÃO CONSTITUCIONAL. Descabe introduzir no cenário tributário, como obrigação do contribuinte, taxa visando a prevenção e o combate a incêndios, sendo imprópria a atuação do Município em tal campo.”
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 5 de agosto de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
