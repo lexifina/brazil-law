@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DESISTÊNCIA. HOMOLOGAÇÃO.
+    1. Em 22.1.2009, o juiz de Direito da Décima Segunda Vara Criminal da Comarca de Belo Horizonte/MG condenou os recorrentes à pena de dois anos e quatro meses de reclusão, em regime inicial fechado, pela prática do delito descrito no § 4º do inc. II do art. 1º da Lei n. 9.455/1997 (tortura), tendo sido decretada a perda do cargo público de policial militar.
+    A pena privativa de liberdade foi substituída por duas penas restritivas de direitos, a saber, prestação de serviços à comunidade, pelo período correspondente ao da condenação, e prestação pecuniária no valor de um salário mínimo, em favor de entidades a serem designadas pelo Juízo de Execução, nos termos do art. 44 do Código Penal (fls. 35-49, e-doc. 6).
+    A defesa dos recorrentes e o Ministério Público interpuseram apelações. A Terceira Câmara Criminal do Tribunal de Justiça de Minas Gerais deu parcial provimento a ambos os recursos, ao da defesa para julgar extinta a punibilidade dos apelantes Erlaine Aparecida de Oliveira Xavier e Ronie Von Ferreira de Oliveira (corréus) pela prescrição da pretensão punitiva estatal, ao do Ministério Público para afastar a substituição da pena privativa de liberdade por restritivas de direitos, concedidas a Rivelino Roberto do Nascimento, Gilberto Danelon Leão e Rodrigo Gonçalves Saturnino (corréu), mantendo, no mais, a sentença condenatória por seus próprios fundamentos (fls. 48-67, e-doc. 7).
+    Os embargos de declaração opostos foram rejeitados (fls. 84-89, e-doc. 7).
+    O recurso especial interposto pela defesa dos recorrentes foi inadmitido (fls. 144-147, e-doc. 11).
+    Contra essa decisão foi interposto o Agravo em Recurso Especial n. 10.309/MG no Superior Tribunal de Justiça, que, em relação ao corréu Rodrigo Gonçalves Saturnino, reconheceu o bis in idem pela extinção da punibilidade operada pela Justiça Militar, quanto ao mesmo fato pelo qual o recorrente ainda responde na Justiça comum.
+    O agravo foi conhecido e o recurso especial provido para, em relação ao recorrente Rodrigo Gonçalves Saturnino, anular a Ação Penal n. 024.02.724.753-5, em trâmite no Tribunal de Justiça de Minas Gerais, pela prática do crime tipificado no § 4º do inc. II do art. 1º da Lei n. 9.455/1997, inclusive a perda do cargo de policial militar, determinada na sentença condenatória proferida pelo juízo de Direito da Décima Segunda Vara Criminal da Comarca de Belo Horizonte/MG (fls. 23-30, e-doc. 12).
+    Os agravos em recursos especiais de Gilberto Danelon Leão e Rivelino Roberto do Nascimento não foram conhecidos (fls. 31-37, e-doc. 12).
+    A defesa dos recorrentes Gilberto Danelon Leão e Rivelino Roberto do Nascimento formulou pedido de extensão dos efeitos da decisão proferida em favor do recorrente Rodrigo Gonçalves Saturnino.
+    Em 5.6.2009, o Relator do Agravo em Recurso Especial n. 10.309/MG deferiu o pedido de extensão formulado pelos recorrentes Gilberto Danelon Leão e Rivelino Roberto do Nascimento e concedeu habeas corpus de ofício, para anular a Ação Penal n. 024.02.724.753-5, em trâmite no Tribunal de Justiça de Minas Gerais, pela prática do crime tipificado no § 4º do inc. II do art. 1º da Lei n. 9.455/1997, inclusive a perda do cargo de policial militar, determinada na sentença condenatória proferida pelo juízo de Direito da Décima Segunda Vara Criminal da Comarca de Belo Horizonte/MG.
+    Essa decisão transitou em julgado em 25.6.2019 (fl. 134, e-doc. 12).
+    O recurso extraordinário dos recorrentes Gilberto Danelon Leão e Rivelino Roberto do Nascimento foi inadmitido ao fundamento de incidência da Súmula n. 279 do Supremo Tribunal Federal (fls. 119-121, e-doc. 1).
+    O presente agravo em recurso extraordinário estaria prejudicado pela perda superveniente do objeto.
+    2. Em 18.7.2019, os agravantes protocolizaram petição requerendo desistência deste recurso extraordinário com agravo (e-doc. 14):
+    “Com o trânsito em julgado da r. decisão que anulou a presente ação penal, cujos efeitos foram estendidos aos Peticionários (cf. e-STJ FL. 1553/e-STJ FL. 1560), não há qualquer possibilidade de revisão desta decisão, restando, pois, prejudicado o ARE interposto pelos Peticionários às fls. e-STJ FL. 1247/e-STJ FL. 1260, por perda de objeto”.
+    3. O pedido de desistência foi apresentado por advogado com poderes específicos para desistir (e-doc. 6).
+    4. Pelo exposto, homologo o pedido de desistência do recurso extraordinário com agravo (inc. VIII do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de agosto de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
