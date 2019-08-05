@@ -1,0 +1,41 @@
+Trata-se de agravo contra decisão em que se negou seguimento ao recurso extraordinário interposto em face de acórdão no qual se reconheceu o direito da autora ao pecúlio post mortem previsto na Lei 285/1979 do Estado do Rio de Janeiro, tendo em vista que o óbito do segurado ocorreu antes da extinção do referido benefício pela Lei Estadual 5.109/2007.
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustentou-se, em suma, violação dos arts. 5°, XXXVI; 24, XII e § 4°; e 40, § 12, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, observo que o art. 24, XII, da Lei Maior não foi prequestionado. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356/STF.
+    Além disso, o Tribunal de origem, com amparo na interpretação das normas infraconstitucionais pertinentes (Lei 9.717/1998 e Leis Estaduais 285/1979 e 5.109/2007), manteve decisão na qual se concluiu que a ora recorrida faz jus ao pagamento do pecúlio post mortem previsto na Lei 285/1979 do Estado do Rio de Janeiro. Por oportuno, destaca-se do acórdão impugnado:
+    “No mérito, a pretensão autoral encontra respaldo na legislação estadual, ou seja, na Lei n° 285/79, aplicável à hipótese, tendo em vista que o óbito do segurado ocorreu no dia 13.06.2001, sendo certo que a lei reguladora é a vigente ao tempo da morte do segurado (Súmula n° 340, do STJ).
+    O art. 26, III, 1, da Lei n° 285/79, previa o pecúlio post mortem, nos seguintes termos:
+    ‘Art. 26 - As prestações asseguradas pelo IPERJ, previstas na forma desta lei e da legislação específica, consistem em benefícios, assistência financeira e serviços a saber:
+    I - quanto aos segurados:
+    1- auxílio -natalidade;
+    2 - assistência financeira;
+    II - quanto aos dependentes:
+    1 - pensão;
+    2 - auxílio -educação;
+    3 - auxílio -funeral de pensionista;
+    4 - auxílio -reclusão;
+    III - quanto aos beneficiários em geral:
+    1 - pecúlio ‘post-mortem’;
+    2 - assistência judiciária;
+    3 - serviço social;
+    4 - outros serviços’
+    Ademais, nos termos do art. 45, §1°, 1, da referida lei estadual, a esposa sobrevivente é beneficiária do referido pecúlio.
+    Além disso, a autora requereu administrativamente o benefício dentro do prazo de 12 (doze) meses, a contar da data do falecimento do segurado, estabelecido pelo art. 46 da mencionada norma legal.
+    Portanto, a autora preenche os requisitos legais para o percebimento do beneficio pleiteado.
+    Ressalte-se que, apesar do art. 12 da Lei n° 5109/2007 ter revogado expressamente o beneficio pleiteado, não pode prejudicar a autora, que já fazia jus ao pecúlio antes da edição da norma, tratando-se, portanto, de direito adquirido.
+    Ademais disso, a vedação contida no art. 5°, da Lei n° 9717/98, não pode prejudicar a beneficiária, tendo em vista que o ex-servidor falecido contribuiu durante sua atividade laborativa para o gozo do benefício postulado” (págs. 53-54 do documento eletrônico 2 – grifos no original).
+    Assim, para divergir desse entendimento, seria necessário o reexame da legislação infraconstitucional aplicável à espécie, de modo que eventual ofensa à Constituição Federal seria indireta, o que inviabiliza o recurso. Nesse sentido, destaco julgados de ambas as Turmas desta Corte cujas ementas transcrevo a seguir:
+    “DIREITO PREVIDENCIÁRIO. PECÚLIO POST MORTEM. LEGISLAÇÃO ESTADUAL. APLICAÇÃO DA SÚMULA 280/STF. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 23.9.2011.
+    A suposta ofensa aos postulados constitucionais somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Aplicação do óbice da Súmula 280/STF: ‘Por ofensa a direito local não cabe recurso extraordinário.’
+    Divergir do entendimento do acórdão recorrido quanto ao preenchimento dos requisitos legais e sobre o direito do agravado ao recebimento do benefício denominado pecúlio post mortem, previsto na Lei Estadual nº 285/1979, exigiria a análise da legislação infraconstitucional aplicável à espécie e o reexame da moldura fática constante no acórdão regional, a inviabilizar o trânsito do recurso extraordinário.
+    Agravo regimental conhecido e não provido” (ARE 679.395-AgR/RJ, Rel. Min. Rosa Weber, Primeira Turma – grifei).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PREVIDENCIÁRIO. PECÚLIO POST MORTEM. LEI ESTADUAL 285/1979 E DECRETO ESTADUAL 32.725/2003. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280 DO STF. AGRAVO IMPROVIDO.
+    I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais locais que fundamentam a decisão a quo. Incidência da Súmula 280 desta Corte. Precedentes.
+    II – Agravo regimental improvido” (ARE 700.035-AgR/RJ, de minha relatoria, Segunda Turma).
+    No mesmo sentido, cito as seguintes decisões, entre outras: ARE 995.292-AgR/RJ, Rel. Min. Luiz Fux; ARE 1.174.912-AgR/RJ e ARE 760.475-AgR/RJ, Rel. Min. Rosa Weber; ARE 1.183.184-AgR/RJ, Rel. Min. Presidente; ARE 1.172.644-AgR/RJ, Rel. Min. Roberto Barroso; ARE 649.307-AgR/RJ, Rel. Min. Cármen Lúcia; ARE 1.164.506-AgR/RJ, Rel. Min. Celso de Mello; e ARE 698.595-AgR/RJ, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 5 de agosto de 2019.
+Ministro Ricardo Lewandowski
+Relator
