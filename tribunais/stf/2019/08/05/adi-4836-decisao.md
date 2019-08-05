@@ -1,0 +1,11 @@
+Despacho:
+    1. Trata-se de ação direta de inconstitucionalidade, com pedido de medida cautelar, proposta pelo Governador do Estado de São Paulo, em que são impugnados o art. 13, I e II, e §§1º a 3º, 6º e 7º, bem como o art. 13-A, §§1º a 5º, ambos do Decreto nº 12.056, de 08.03.2006 do Estado do Mato Grosso do Sul.
+    2. Sustenta o requerente, em síntese, que os dispositivos impugnados, ao concederem benefícios fiscais relativos ao ICMS independentemente de previsão em convênio interestadual, afrontariam o art. 155, § 2º, XII, g, da Constituição Federal.
+    3. A superveniente Lei Complementar nº 160/2017 autorizou a celebração de convênio entre os Estados e o Distrito Federal que tenha por objeto “a remissão dos créditos tributários, constituídos ou não, decorrentes das isenções, dos incentivos e dos benefícios fiscais ou financeiro-fiscais instituídos em desacordo com o disposto na alínea ‘g’ do inciso XII do §2º do art. 155 da Constituição Federal por legislação estadual”, desde que a legislação estadual tenha sido publicada até a data de início de produção de efeitos dessa Lei Complementar. Esse convênio, ainda nos termos autorizados por referida lei, poderá deliberar sobre “a reinstituição das isenções, dos incentivos e dos benefícios fiscais ou financeiro-fiscais [...] que ainda se encontrem em vigor”.
+    4. Na esteira desse permissivo legal, foi celebrado o Convênio CONFAZ nº 190/2017 e proferido o Despacho SE/CONFAZ nº 96/2018, este último definindo o formato de entrega de informações e documentação comprobatória relativa à remissão de créditos tributários, bem como sobre as correspondentes reinstituições de benefícios fiscais.
+    5. Instados a se manifestar, o Governador do Estado do Mato Grosso do Sul e a Assembleia Legislativa desse mesmo Estado prestaram informações, pugnando pelo reconhecimento da perda de objeto da presente ação direta de inconstitucionalidade.
+    6. Diante do exposto, intime-se, sucessivamente, o autor da presente ação direta de inconstitucionalidade e a Procuradoria-Geral da República, a fim de que se manifestem sobre as informações prestadas pelo Governador do Estado do Mato Grosso do Sul e pela Assembleia Legislativa desse Estado, bem como acerca da alegada perda de objeto.
+    Publique-se.
+    Brasília, 05 de agosto de 2019.
+Ministro Luís Roberto Barroso
+Relator
