@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+CIVIL PROCESSUAL CIVIL FUNASA OMISSÃO NO FORNECIMENTO DE EQUIPAMENTO PARA PROTEÇÃO CONTRA O DICLORO - DIFENIL - TRICLOROETANO - DDT CONFIGURAÇÃO DE DANOS MORAIS - PRESCRIÇÃO TERMO INICIAL VIGÊNCIA DA LEI 11936 DE 14/05/2009 6 APELAÇÃO CONHECIDA E DESPROVIDA
+Quanto à primeira controvérsia, alega violação do art. 10 do CPC, trazendo o seguinte argumento:
+(..) verifica-se que o v. acórdão ora recorrido incorreu em violação ao artigo 10 do CPC, uma vez que a referida decisão pronunciou-se a respeito de matéria que poderia ser decidida de ofício, contudo, não sem antes ser oportunizado às partes manifestar-se a respeito. (fl. 776)
+Quanto à segunda controvérsia, alega violação do art. 1º do Decreto n. 20.910/32, trazendo os seguintes argumentos:
+O v. acórdão ex officio pronunciou a prescrição sob o fundamento de que o prazo prescricional teve início com a publicação da Lei nº 11.936, de 14/05/2009, que proibiu o DDT em território nacional.
+Contudo, é equivocado o referido entendimento, uma vez que ao presente caso, conforme já pacificado entendimento do Superior Tribunal de Justiça, se aplica o princípio da actio nata, segundo o qual o prazo prescricional tem início a partir do momento do efetivo conhecimento do dano (fl. 777)
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice das Súmulas 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Quanto à segunda controvérsia, o tribunal a quo assim decidiu:
+Admite-se, todavia, afastando excepcionalmente essa regra geral, a possibilidade de ajuizamento de ações dessa natureza após 15/05/2014, na hipótese de que seja demonstrado, ab initio litis, que o autor obteve ciência inequiVoca do fato causador do dano em momento que, adotado como termo inicial, conduziria o termo final do prazo quinquenal de prescrição para data posterior a 15/05/2014, situação não demonstrada na causa em exame.
+Essa eventual prova, entendo eu, deve estar robustamente configurada, por exemplo, a partir de exames clínicos individuados (fl. 743)
+Incide, portanto, na espécie, o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que rever o entendimento consignado pelo acórdão recorrido demandaria, inevitavelmente, o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
