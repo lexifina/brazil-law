@@ -1,0 +1,36 @@
+DECISÃO
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. SUPOSTA NEGATIVA DE PRESTAÇÃO JURISDICIONAL EM MATÉRIA CONSTITUCIONAL. BASE DE CÁLCULO DO PIS E DA COFINS. EXCLUSÃO DO ICMS. ACÓRDÃO COM MOTIVAÇÃO CONSTITUCIONAL. NÃO CABIMENTO DO RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL DA FAZENDA NACIONAL DESPROVIDO.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto pela FAZENDA NACIONAL em face de acórdão de lavra do TRF da 4a. Região, assim ementado:
+TRIBUTÁRIO. JUÍZO DE RETRATAÇÃO. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DE PIS E COFINS. O Supremo Tribunal Federal, no julgamento do RE 574706, pelo regime de repercussão geral (Tema 69), fixou a tese de que o ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS (fls. 355).
+2. Aponta a parte agravante ofensa aos arts. 489, § 1o., V, e 1022, II do Código Fux, bem como aos arts. 13, § 1o., I, 19 e 20 da Lei Complementar 87/1996, ao art. 1o. da Lei 10.637/2002, ao art. 1o. da Lei 10.833/2003, ao art. 2o. da Lei 9.715/1998 e ao art. 2o. da Lei Complementar 70/1991. Argumenta que o valor correspondente ao ICMS a recolher (ou ICMS a pagar) é que deve ser excluído da base de cálculo da contribuição ao PIS e à COFINS, de modo a afastar o critério do ICMS destacado da nota fiscal.
+3. Parecer do MPF às fls. 519/522.
+4. É o relatório.
+5. De início, ao revés do que pretende a parte agravante, é totalmente descabido a este STJ se pronunciar acerca de suposta omissão ou falta de fundamentação em matéria com nítidos contornos constitucionais, como no caso em exame. A propósito:
+PROCESSUAL CIVIL. DIREITO CIVIL. CONTRATOS. EMBARGOS DE DIVERGÊNCIA. ALEGAÇÃO DE DIVERGÊNCIA RELATIVAMENTE À ANÁLISE DE VIOLAÇÃO DO ART. 535 DO CPC/73. IMPOSSIBILIDADE.
+(..)
+V - Isso porque em determinado momento, a jurisprudência desta Corte firmou entendimento no sentido de não caber ao STJ, com vistas a examinar suposta ofensa ao art. 535 do CPC/73, aferir a existência ou não de omissão no Tribunal de origem acerca de matéria constitucional, sob pena de usurpação da competência do STF. No sentido: AgInt no REsp 1.377.313/CE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 18/04/2017, AgRg no REsp 1.198.002/SE, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 21/09/2012; AgInt no AREsp 224.127/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 10/02/2017; AgRg no AREsp 743.167/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/02/2016.
+VI - Agravo interno improvido (AgInt nos EAREsp. 731.395/SP, Rel. Min. FRANCISCO FALCÃO, CORTE ESPECIAL, DJe 9.10.2018).
+6. Outrossim, sobre a suposta ofensa ao princípio da congruência ou da adstrição judicial, extrai-se do acórdão que a parte autora pretende provimento judicial que lhe autorize a não incluir o ICMS destacado nas notas fiscais nas bases de cálculo do PIS e da COFINS (fls. 357). Infirmar essa conclusão, tomada à luz do pedidos formulados na inicial, demandaria exceder o delineamento fático-probatório estabelecido, o que é obstado nesta via, a teor da Súmula 7/STJ. Em igual sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. SUSPENSÃO RELATIVA A AUTOR FALECIDO. EXPEDIÇÃO DE OFÍCIO REQUISITÓRIO SUPLEMENTAR. POSSIBILIDADE. JULGAMENTO EXTRA PETITA. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVAS. VEDAÇÃO.
+1. A suspensão da execução relativamente a autor falecido, nos termos do disposto no art. 256, inc. I, e § 1º, do Código de Processo Civil, não impede a expedição de ofícios requisitórios relativos aos sucessores ainda não habilitados, pois a mencionada norma processual é dirigida aos feitos judiciais, enquanto a atividade do Presidente do Tribunal, no tocante à tramitação dos precatórios, reveste-se de natureza administrativa (Súmula 311/STJ).
+2. A análise da alegação de julgamento extra petita implicaria exceder os fundamentos expendidos no aresto recorrido e realizar o exame das provas, o que é vedado pelas Súmulas 211 e 7 do STJ.
+3. Agravo regimental a que se nega provimento (AgRg no REsp. 733.998/SP, Rel. Min. OG FERNANDES, DJe 23.4.2013).
+
+TRIBUTÁRIO. PROCESSUAL CIVIL. ALEGAÇÃO DE JULGAMENTO FORA DO PEDIDO. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DO PEDIDO. POSSIBILIDADE. ALTERAÇÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. É tranquilo o posicionamento do STJ pela "ausência de julgamento extra petita quando a tutela jurídica é consequência da interpretação lógico-sistemática da causa de pedir e do pedido" (AgInt nos EREsp 1208207/RN, Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 24/5/2017).
+2. A alteração das conclusões adotadas pela Corte de origem, ancorando-se em transcrições de trechos da própria petição inicial, de que a anulação dos autos de infração era consequência lógica do pedido, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento (AgInt no REsp. 1.317.594/MA, Rel. Min. SÉRGIO KUKINA, DJe 21.11.2017).
+7. No mais, é cediço que o Recurso Especial não é servil à revisão de acórdão com motivação eminentemente constitucional.
+8. Na espécie, a fundamentação do aresto decorre do RE 574.706 - Tema 69 do STF - e de sua razão de decidir, daí sua natureza constitucional, inviável de ser modificada na seara do Recurso Especial, sob pena de usurpação de competência da Suprema Corte. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ISS. EXCLUSÃO DA BASE DE CÁLCULO DO PIS, COFINS, IRPJ E DA CSLL. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NESTA CORTE. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. Inexiste a alegada violação do art. 535, II do CPC/1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2. Na hipótese dos autos a Corte de origem dirimiu a controvérsia com base na prevalência das normas da Carta Magna à Lei Federal apontada pela recorrente, adotando como fundamentação a violação do art. 195, I, b da Constituição Federal, pela inconstitucionalidade da inclusão do ICMS no cálculo da COFINS. Considerou, outrossim, que a mesma natureza teria o ISS.
+3. Dessa forma, a análise, na espécie, competiria somente ao Supremo Tribunal Federal.
+4. Agravo Interno da FAZENDA NACIONAL a que se nega provimento (AgInt no REsp. 1.574.079/PR, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 2.4.2018).
+
+TRIBUTÁRIO. CONCEITO DE RECEITA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. CUNHO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. PIS E COFINS. BASE DE CÁLCULO. INCLUSÃO DO ICMS. SÚMULAS 68 E 94 DO STJ.
+1. A controvérsia acerca do conceito de receita para fins de inclusão do ICMS na base de cálculo do PIS e da Cofins foi dirimida pela Corte de origem com base na interpretação dada ao art. 195, I, "b", da Constituição Federal, o que impede o conhecimento do recurso especial em razão da impossibilidade de reexame de conteúdo constitucional na instância especial.
+(..)
+Agravo regimental improvido (AgRg no AREsp. 653.370/PR, Rel. Min. HUMBERTO MARTINS, DJe 30.9.2015).
+9. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial da FAZENDA NACIONAL.
+10. Publique-se. Intimações necessárias.
