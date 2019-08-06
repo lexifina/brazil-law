@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 578/579).
+O acórdão recorrido está assim ementado (e-STJ fl. 464):
+Agravo Inominado, com base no art. 557, § 1º, do CPC. Apelação. Ação de cobrança de cotas condominiais vencidas e vincendas. Argumento de ocorrência de aumento de fração ideal do imóvel, que não poderia ser motivo para majoração da respectiva cota condominial, face à clausula constante do instrumento de aquisição do imóvel.
+Regra que não pode ser interpretada isoladamente e de forma literal. Necessária observação ao sentido geral do documento em todos os seus termos. Ciência do demandado do expressivo acréscimo ao imóvel adquirido, tendo aprovado a planta e participado da instalação do Condomínio.
+Acréscimo de área constante do RGI. Conduta do demandado, prejudicial ao Condomínio e aos demais condôminos, que arcaram com cotas de responsabilidade do réu, no rateio das despesas de manutenção do estabelecimento por ele adquirido.
+Litigância de má-fé configurada. Manutenção da pena. Ausência de negativa de dívida e de consignação do valor que entendesse devido.
+Honorários fixados nos parâmetros estabelecidos no art. 20, do CPC. Negou-se seguimento ao recurso na forma do artigo 557, caput, do CPC.
+Agravo Inominado a que se nega provimento.
+Os embargos de declaração foram rejeitados (e-STJ fls. 501/509).
+No especial (e-STJ fls. 523/551), fundamentado no art. 105, III, "a", da CF, o recorrente alegou ofensa aos arts. 458 e 535 do CPC/1973 por negativa de prestação jurisdicional.
+Apontou violação dos arts. 7º, 12, § 1º, 29 e 32, "i", da Lei n. 4.591/1964, 177 e 178 da Lei n. 6.015/1973, sustentando, em síntese, a excessividade do valor cobrado a título de cotas condominiais.
+Indicou contrariedade aos arts. 17, II, e 18, § 2º, do CPC/1973, aduzindo a inexistência de litigância de má-fé.
+No agravo (e-STJ fls. 587/620), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida apresentou contraminuta (e-STJ fls. 625/638).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Não há falar em contrariedade aos arts. 458 e 535 do CPC/1973, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação dos referidos dispositivos.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 468/469):
+O argumento usado pelo recorrente para tentar justificar a sua desídia, prende-se a uma interpretação isolada e literal da cláusula 7.7, do instrumento de aquisição do imóvel, o que de fato, lhe daria razão, no sentido de que o expressivo aumento da área edificada, pertencente à sua loja, não poderia acarretar um aumento da cota condominial.
+Acontece que tal documento, como todos aqueles que vêm elencados em cláusulas e condições, não podem prender-se à interpretação isolada e literal de uma de suas cláusulas, mas no sentido geral a que se refere o documento em todos os seus termos.
+Por isso registrou o magistrado sentenciante que "na cláusula 7.4 (fls. 175) constou que "durante a fase de construção do empreendimento, poderá a "outorgante" introduzir modificações e/ou acréscimos nos projetos alusivos ao empreendimento, inclusive quanto à urbanização e às áreas comuns do condomínio, às frações ideais das unidades, desde que respeitados os termos do presente contrato e os direitos dele resultantes em favor do "outorgado"." Realçou o Juízo que "por sua vez, na cláusula 7.6 (fls. 176) aparece o registro de que o réu tem conhecimento de que o condomínio está "promovendo alteração no projeto, para criação de área de estacionamento no subsolo, não prevista no projeto original, resultando desta alteração um acréscimo de noventa e seis vagas para a guarda de automóveis"." O réu, por sua vez, não pode alegar desconhecimento da realização do expressivo aumento da área de sua loja, posto que, tal ato se deu com a sua concordância, pois compareceu à Assembleia de instalação do Condomínio (fls. 265), quando já formalizado o aumento da área condominial.
+Inaceitável que havendo o confessado aumento da fração ideal do imóvel em quase três vezes o seu tamanho original, com a aprovação do adquirente do imóvel que assinou a planta, aquiescendo com o novo projeto aprovado, tendo participado da instalação do Condomínio, venha agora o réu deixar de cumprir sua obrigação perante o demandante, ao argumento de discordar da fração ideal da unidade, que restou alterada no RGI, aos 11 de agosto de 2010, como abaixo transcrito:
+(..)
+A atitude do réu configurou-se em conduta prejudicial ao réu e aos demais lojistas, eis que tiveram que arcar com a parte de sua responsabilidade no rateio das despesas de manutenção do estabelecimento comercial por ele adquirido.
+Na bem lançada sentença restou demonstrada a sua personalidade, plenamente justificada a condenação por litigância de má-fé.
+E ainda (e-STJ fl. 321):
+Lamentavelmente, os autos mostram que o réu procurou "alterar a verdade dos fatos", para se esquivar da sua inadimplência com as cotas condominiais, o que tipifica uma litigância de má-fé, nos termos do inc. II do art. 17 do CPC, devendo ele sofrer as penalidades do art. 18 do mesmo diploma legal, com a fixação de uma indenização de 20% sobre o valor da causa, por força do § 2º dessa norma, em virtude de sua conduta ter prejudicado não só o shopping, mas também todos os lojistas, que acabaram arcando com a sua parte no rateio das despesas de manutenção do estabelecimento comercial.
+Dissentir das conclusões do acórdão impugnado para reconhecer a excessividade do valor cobrado a título de cota condominial e afastar a litigância de má-fé implicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
