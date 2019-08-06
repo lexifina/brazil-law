@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que não admitiu recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 723/727, in verbis:
+O Ministério Público do Estado do Rio Grande do Sul, ofereceu denúncia contra [NOME], como incurso nas sanções do art. 157, §2º, incisos I, II e V, do Código Penal.
+Narra, nos seguintes termos, a exordial acusatória:
+No dia 20 de julho de 2016, por volta das 07h00min, na Rua Dois de Dezembro, bairro Azaléia, em Araricá, RS, o denunciado [NOME], agindo em comunhão de esforços e conjugação de vontades com dois indivíduos não identificados, mediante grave ameaça, exercida com emprego de armas de fogo (não apreendidas), e mantendo as vítimas sob seu poder, restringindo sua liberdade, subtraiu, para si, 1 (um) caminhão [NOME], cor BRANCA, placas INC 0614, com avaliação ao final diligenciada, de propriedade da empresa Abatedouro GG LTDA.
+Na oportunidade, as vítimas [NOME] e [NOME] tripulavam o caminhão [NOME], placas INC 0614, de propriedade da empresa Abatedouro GG LTDA., da qual são funcionários. Na ocasião estavam transportando grande quantidade de carne quando um automóvel de cor prata cortou a frente do veículo tripulado pelos ofendidos, impedindo, desta forma, sua passagem.
+Após, os ofendidos foram abordados por [NOME] e seus comparsas, todos armados, que os renderam, anunciado o assalto. As vítimas foram obrigadas a adentrar no automóvel tripulado pelos assaltantes.
+Enquanto dois dos agentes levavam os ofendidos consigo, restringindo a liberdade destes, o denunciado [NOME] vinha atrás conduzindo o caminhão roubado (acima descrito). Ato contínuo, no meio do percurso o increpado perdeu o controle da direção do caminhão e acabou tombando-o, momento que seus comparsas liberaram as vítimas e empreenderam fuga do local.
+Posteriormente, a Brigada Militar foi acionada e compareceu no local do acidente, sendo o denunciado encaminhado ao hospital, em virtude das graves lesões sofridas por ocasião do acidente, onde permanece até o momento internado sob custódia.
+Transcorrido regularmente o processo, com atenção aos princípios constitucionais da ampla defesa e do contraditório, sobreveio sentença que julgou procedente a pretensão ministerial, para condenar o ora agravante como incurso nas sanções do art. 157, §2º, incisos I e II, do Código Penal, à pena de 06 anos, 04 meses e 15 dias de reclusão, em regime inicial semiaberto (e-STJ fls. 511/517).
+Foi concedido o direito de recorrer em liberdade.
+Inconformada, a defesa interpôs recurso de apelação, ao passo que a 5ª Câmara Criminal do TJ/RS, rejeitou a preliminar e, no mérito, negou provimento ao apelo defensivo, conforme acórdão de e-STJ fls. 627/, assim ementado:
+APELAÇÃO CRIME. CRIME CONTRA O PATRIMÔNIO. ROUBO MAJORADO PELO EMPREGO DE ARMA E PELO CONCURSO DE AGENTES. PRELIMINAR DE NULIDADE DO AUTO DE AVALIAÇÃO REJEITADA. PROVA CONCLUSIVA. CONDENAÇÃO MANTIDA.
+MANUTENÇÃO DAS MAJORANTES E DA FORMA CONSUMADA DO DELITO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA NÃO RECONHECIDA. PENA PRIVATIVA DE LIBERDADE REDIMENSIONADA. ISENÇÃO DA PENA DE MULTA. INVIABILIDADE.
+1. Preliminar de nulidade do auto de avaliação do bem subtraído afastada porque se trata de tarefa singela, a qual pode ser executada através de simples pesquisa de seu valor no mercado, dispensando a habilitação técnica dos peritos na área a ser examinada e podendo ser realizada por qualquer pessoa, de forma indireta, inclusive por policiais civis, sem que caracterizada qualquer irregularidade e muito menos nulidade.
+2. A prova carreada aos autos demonstrou, de forma clara e segura, que o réu, acompanhado de outros indivíduos não identificados e mediante ameaça exercida com o emprego de arma de fogo, subtraiu o caminhão tripulado pelas vítimas, tanto que ele foi preso, em flagrante, na posse da res furtiva e encaminhado ao hospital, em razão dos ferimentos.
+O depoimento dos ofendidos ainda foi corroborado pelas declarações das testemunhas e pelas declarações do próprio acusado, caracterizando tal conduta o crime de roubo duplamente majorado.
+3. Não reconhecida a participação de menor importância do acusado [NOME] porque tanto ele quanto os outros comparsas não identificados tiveram participação ativa e determinante para o sucesso da empreitada criminosa.
+4. O fato delituoso se consumou pois houve a inversão da posse no momento em que o acusado, juntamente com os comparsas não identificados, retirou o caminhão das vítimas e implementou fuga, tendo as privado, mesmo que por curto período de tempo, da disponibilidade do bem. Ademais, o fato de ter havido perseguição, não descaracteriza a consumação, mormente porque pela teoria da amotio, não é necessária a posse mansa e pacifica da res.
+5. Pena privativa de liberdade redimensionada em razão da aplicação da Súmula 443 do STJ.
+6. A detração do período de prisão preventiva deve ser realizada pelo juízo da execução até porque o tempo de prisão cautelar, em razão da quantidade de pena aplicada, não autoriza a aplicação de regime diverso do semiaberto.
+7. A pena de multa, expressamente cominada de forma cumulativa, é de aplicação obrigatória, não podendo ser afastada com fundamento na precária situação econômica do réu.
+PRELIMINAR REJEITADA. APELO PARCIALMENTE PROVIDO.
+Irresignado, o ora agravante interpôs recurso especial com fulcro no artigo 105, inciso III, alínea ""a"", do permissivo constitucional, alegando violação aos arts. 226 do CPP e 14, inciso II, do CP (e-STJ fls. 657/669).
+Contrarrazões MP/RS (e-STJ fls. 676/686).
+A Segunda Vice Presidência do TJ/RS, inadmitiu o recurso especial por falta de prequestionamento em questão e por óbice do enunciado da Súmula 83/STJ, conforme decisão de e-STJ fls. 688/693.
+Daí a interposição do presente agravo em recurso especial (e-STJ fls. 698/703).
+Contrarrazões apresentada às e-STJ fls. 709/711.
+Ao final, o Parquet opinou pelo não conhecimento do agravo e, caso dele se conheça, pelo seu desprovimento.
+É o relatório.
+Decido.
+Suficientemente impugnados os fundamentos da decisão de inadmissibilidade do recurso especial e presentes os pressupostos processuais, conheço do agravo.
+Vejo, entretanto, que a irresignação não merece prosperar.
+É que a matéria relativa ao art. 226 do Código de Processo Penal, tido por violado, não foi objeto de debate pelo Tribunal de origem, sendo que nem sequer foram opostos embargos de declaração para esse fim.
+Verifica-se, no caso, que a Corte a quo não teceu nenhuma manifestação sobre a tese trazida pelo recorrente, de modo que não há como analisar a quaestio, ante a ausência de prequestionamento. Incidem à espécie, portanto, as Súmulas n. 356 e 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Confiram-se nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 41 DO CPP. INÉPCIA DA DENÚNCIA. NEGATIVA DE VIGÊNCIA DO ART. 51, P.Ú., DA LEI N. 11.343/06. PRORROGAÇÃO DO PRAZO DE CONCLUSÃO DO INQUÉRITO POLICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DOS ENUNCIADOS N. 282 E N. 356, AMBOS DO STF. (I) - ALEGAÇÃO DE INÉPCIA DA DENÚNCIA APÓS A PROLAÇÃO DO ÉDITO CONDENATÓRIO. PRECLUSÃO. (II) - IRREGULARIDADES NO INQUÉRITO POLICIAL NÃO CONTAMINAM A AÇÃO PENAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É condição sine qua non ao conhecimento do especial que o acórdão recorrido tenha emitido juízo de valor expresso sobre a tese jurídica que se busca discutir na instância excepcional, sob pena de ausência de pressuposto processual específico do recurso especial, o prequestionamento. Inteligência dos enunciados 282 e 356/STF.
+2. "Na linha dos precedentes desta Corte, a alegação de inépcia da denúncia deve ser deduzida antes da prolação do édito condenatório, sob pena de convalidação pelo princípio da preclusão". (HC 291.368/SE, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 06/06/2014)
+3. É assente neste Tribunal o entendimento de que "eventuais irregularidades ocorridas na fase investigatória, dada a natureza inquisitiva do inquérito policial, não contaminam a ação penal." (HC 232.674/SP, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe 10/4/2013.)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 843.321/RO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 24/05/2016, DJe 13/06/2016, sem os grifos no original)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE VISTA AO MINISTÉRIO PÚBLICO FEDERAL. NÃO OCORRÊNCIA. REVISÃO CRIMINAL. VIOLAÇÃO AO ART. 621, I, DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO IMPROVIDO.
+1. Não há falar em nulidade por ausência de vista ao Ministério Público Federal, na medida em que o parecer foi apresentado às fls. 164/170.
+2. Não se conhece da arguida violação ao art. 621, I, do Código de Processo Penal, ante a ausência de prequestionamento, requisito indispensável, a teor dos enunciados sumulares 282 e 356/STF.
+3. Segundo o entendimento desta Corte, ainda que a suposta violação de lei federal tenha surgido no julgamento do acórdão recorrido, é indispensável a oposição de embargos de declaração para que o Tribunal de origem se manifeste sobre a questão, sob pena de não se ter por satisfeito o requisito do prequestionamento.
+4. Agravo regimental improvido.
+(AgRg no REsp 1112981/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/11/2015, DJe 23/11/2015, sem os grifos no original)
+Ademais, esta Corte Superior pacificou o entendimento, por meio do julgamento do Recurso Especial Repetitivo n. 1.499.050/RJ, de que "o crime de roubo se consuma no momento em que o agente se torna possuidor da coisa subtraída, mediante violência ou grave ameaça, ainda que haja imediata perseguição e prisão, sendo prescindível que o objeto subtraído saia da esfera de vigilância da vítima" (Relator o Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 14/10/2015, DJe 9/11/2015).
+Sobre a matéria, o Superior Tribunal de Justiça recentemente editou a Súmula n. 582, que assim dispõe: "Consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada."
+No caso, o Tribunal de origem consignou que (e-STJ fl. 641):
+O fato delituoso se consumou porque houve a inversão da posse no momento em que o acusado, juntamente com os comparsas não identificados, retirou o caminhão das vítimas e implementou fuga, tendo as privado, mesmo que por curto período de tempo, da disponibilidade do bem.
+Ademais, o fato de ter havido perseguição, não descaracteriza a consumação, mormente porque pela teoria da amotio, não é necessária a posse mansa e pacifica da res.
+Portanto, tendo percorrido todo o iter criminis, é de ser mantida a condenação do apelante pelo delito de roubo na sua forma consumada.
+Ante o exposto, tendo em vista que o posicionamento expendido no acórdão recorrido está de acordo com a orientação firmada no Superior Tribunal de Justiça, conheço do agravo para negar provimento ao recurso especial.
+Tendo em vista o requerimento do Ministério Público Federal e o entendimento do Supremo Tribunal Federal consolidado nos autos do HC n. 126.292/SP e das ADC"s 43 e 44, expeça-se ofício ao Tribunal de origem com cópia do parecer/petição de e-STJ fls. 723/734 e desta decisão.
+Publique-se. Intimem-se.
