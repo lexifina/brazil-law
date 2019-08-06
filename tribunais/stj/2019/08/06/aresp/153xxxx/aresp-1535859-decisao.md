@@ -1,0 +1,41 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ICMS. DECADÊNCIA DA OBRIGAÇÃO TRIBUTÁRIA. PAGAMENTO PARCIAL. APLICAÇÃO DO ARTIGO 150, § 4º, DO CTN. PRECEDENTES. SÚMULA N. 83/STJ. AGRAVO CONHECIDO PARA SE NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do Estado de Goiás, fundado nas alíneas "a" e "c" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+AGRAVO INTERNO NO DUPLO GRAU DE JURISDIÇÃO. RECURSO DE APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL COM PEDIDO DE TUTELA DE URGÊNCIA. ICMS. DECADÊNCIA. PAGAMENTO PARCIAL. ART. 150, §4º, DO CTN. ICMS. TRANSFERÊNCIA DE BENS ENTRE ESTABELECIMENTOS DE MESMO CONTRIBUINTE EM DIFERENTES ESTADOS DA FEDERAÇÃO. SIMPLES DESLOCAMENTO FÍSICO. INEXISTÊNCIA DE FATO GERADOR. INEXISTENTE ILEGALIDADE, ARBITRARIEDADE, TERATOLOGIA OU TEMERIDADE.
+1. Não havendo omissão por completo do lançamento realizado pelo sujeito passivo ou inexatidão dolosa, não há que se falar em prazo para a Fazenda Pública constituir o crédito tributário, conforme dispõe o artigo 173, I, do CTN, uma vez que o mesmo já havia sido constituído pelo lançamento realizado pela autora, cabendo ao ente público pronunciar eventual inexatidão, em cinco anos, sob pena de considerar-se homologado e extinto o crédito tributário, como in casu ocorreu.
+2. O entendimento jurisprudencial se mostra unânime em relação à previsão contida na Súmula nº 166 editada pelo Superior Tribunal de Justiça, segundo a qual "não constitui fato gerador do ICMS o simples deslocamento de mercadoria de um para outro estabelecimento do mesmo contribuinte", ainda que se encontrem em Estados diversos.
+3.Constitui medida imperativa o desprovimento do agravo interno, porquanto não evidenciado nenhum argumento novo capaz de modificar a conclusão proposta na decisão monocrática zurzida, que deve ser mantida.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, o recorrente alega, além do dissídio jurisprudencial, violação dos seguintes dispositivos: a) art. 173, I, do Código Tributário Nacional, sustentando que não houve decadência; b) art. 13, § 4º, da Lei Complementar n. 87/96, aduzindo que o ICMS deve incidir nas transferências interestaduais, não sendo aplicável ao caso a Súmula n. 166/STJ.
+Houve contrarrazões (e-STJ fls. 941/951).
+Sobreveio juízo negativo de admissibilidade pela conformidade do acórdão recorrido com o entendimento firmado nessa Corte em sede de recursos repetitivos (Tema n. 259) com relação ao art. 13, § 4º, da Lei Complementar n. 87/96 e pela incidência da Súmula n. 7/STJ quanto ao art. 173, I, do Código Tributário Nacional.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Houve contraminuta pela parte agravada (e-STJ fls. 995/1001).
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+Inicialmente, deixo de analisar a violação do art. 13, § 4º, da Lei Complementar n. 87/96 em virtude do esgotamento da questão na Instância a quo nos termos do art. 1.030, §2º, do CPC.
+Trata-se, na origem, de ação anulatória de débito fiscal de ICMS proposta pela ora recorrida sustentando a decadência do crédito tributário e a não incidência do tributo sobre transferências. O pleito autoral foi acolhido.
+Em sede de recurso especial, o recorrente alega que não há que se falar em decadência no caso concreto. Isso porque (e-STJ fl. 927):
+No presente caso, a empresa autora deixou de recolher ao erário estadual, no prazo legal, o ICMS devido, ficando comprovada a omissão ou inexatidão no lançamento, o prazo decadencial é contado a partir do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado, conforme dispõe o Art. 173, I do CTN, razão pela qual inexiste a propalada decadência.
+A insurgência não merece prosperar.
+A parte pleiteia a aplicação do art. 173, I, do CTN sob a tese de que "havendo ou não o pagamento parcial do ICMS, está caracterizada a omissão, inexatidão de dados e descumprimento da legislação, ensejando que Fazenda Pública Estadual procedesse ao lançamento de ofício, nos termos do Art. 149, V do CTN" (e-STJ fl. 914).
+O acórdão recorrido, ao decidir a questão, fundamentou que (e-STJ fl. 899):
+Demais disso, restou consignada, a inexistência de omissão ou dolo do contribuinte, mas de pagamento parcial, a menor do tributo, atraindo a aplicação da norma contida no §4º do artigo 150 do CTN.
+De igual modo, como registrado na decisão alvejada consta que não houve omissão do lançamento realizado pelo sujeito passivo ou inexatidão dolosa, situação que afasta a discussão acerca de prazo para a Fazenda Pública constituir o crédito tributário, nos termos do artigo 173, inciso I, do CTN, uma vez que o mesmo já havia sido constituído pelo lançamento realizado pela autora, cabendo ao ente público pronunciar eventual inexatidão, em cinco anos, sob pena de considerar-se homologado e extinto o crédito tributário, como in casu ocorreu.
+Logo, pautada neste contexto fático, a jurisprudência consolidada deste STJ, assevera que a decadência do direito de constituir o crédito tributário é regida pelo art. 150, § 4º, do CTN, quando se trata de tributo sujeito a lançamento por homologação e o contribuinte realiza o respectivo pagamento parcial antecipado, sem que se constate a ocorrência de dolo, fraude ou simulação, o que se aplica ao caso dos autos.
+Nestas hipóteses, o prazo decadencial se inicia a partir do fato gerador. Incidência da Súmula n. 83/STJ.
+A propósito, cito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. OFENSA AO ART. 1022 DO CPC. INEXISTENTE. AÇÃO ANULATÓRIA. ICMS. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. PAGAMENTO PARCIAL. TERMO INICIAL PARA LANÇAMENTO DO CRÉDITO TRIBUTÁRIO PELO FISCO. FATO GERADOR. APLICAÇÃO DO ART. 150, § 4º, DO CTN.
+1. Segundo entendimento do Superior Tribunal de Justiça, na hipótese de ausência de pagamento de tributo sujeito a lançamento por homologação, o prazo decadencial para lançamento do crédito segue a regra do art. 173, I, do CTN. Entretanto, no caso de pagamento antecipado, mesmo que a menor, e não havendo dolo ou fraude, a regra legal aplicável para decadência é a do art. 150, § 4º, do CTN.
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." 2. Recurso Especial não provido.
+(REsp 1810778/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/06/2019, DJe 01/07/2019)
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ICMS. TRIBUTO SUJEITO AO LANÇAMENTO POR HOMOLOGAÇÃO. DECADÊNCIA DA OBRIGAÇÃO TRIBUTÁRIA. PAGAMENTO PARCIAL. APLICAÇÃO DO ARTIGO 150, § 4º, DO CTN. PRECEDENTES. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1 - Nos casos em que ocorre o pagamento parcial, o prazo decadencial para o lançamento suplementar do tributo sujeito a homologação é de cinco anos contados do fato gerador, conforme a regra prevista no art. 150, § 4º, do CTN,, salvo a comprovação de dolo, fraude ou simulação.
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1301935/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/12/2018, DJe 11/12/2018)
+Prejudicado o dissídio jurisprudencial pela aplicação da Súmula n. 83/STJ.
+Ante o exposto, com fundamento no art. 932, III e IV, do CPC/2015 c/c o artigo 253, parágrafo único, II, b do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
