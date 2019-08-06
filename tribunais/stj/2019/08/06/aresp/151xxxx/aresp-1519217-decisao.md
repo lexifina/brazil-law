@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo apresentado por MARINALVA GONÇALVES DE SOUZA contra a decisão que não admitiu seu recurso especial, fundamentado no art. 105, inciso III, alínea a, da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. APOSENTADORIA POR INVALIDEZ. TRABALHADOR RURAL. AUSÊNCIA DE PROVA DA CONDIÇÃO DE SEGUADO ESPECIAL. IMPOSSIBILIDADE DE DEFERIMENTO DO BENEFÍCIO.
+1. A concessão do benefício de aposentadoria por invalidez para trabalhador rural, segurado especial, independe do cumprimento de carência, entretanto, quando os documentos não forem suficientes para a comprovação dos requisitos previstos em lei - prova material plena (art. 39, I c/c 55, § 3º, da Lei 8.213/91), exige-se a comprovação do início de prova material da atividade rural com a corroboração dessa prova indiciária por prova testemunhal.
+2. A não comprovação da qualidade de segurado especial da parte autora, na condição de trabalhador rural, e pelo menos durante o cumprimento do prazo de carência previsto no art. 142 da Lei n. 8.213, de 1991, impossibilita o deferimento do benefício postulado na petição inicial.
+3. Apelação desprovida.
+Alega violação dos arts. 42, §§ 1º e 2º, 55, § 3º, e 106 da Lei n. 8.213/91, no que concerne à comprovação dos requisitos necessários para ser considerada segurada especial, trazendo o seguinte argumento:
+Como se vê, o v. Acórdão proferido pela lª Turma do Egrégio Tribunal Regional da lª Região, "data máxima vênia", não encontra guarida na Ordem Jurídica Nacional, uma vez que contrariou a Legislação Federal (Lei 8.213/1991), assim como deu interpretação divergente a dispositivos desse ordenamento, diversamente de outras interpretações emprestadas e precedentes jurisprudenciais das Egrégias Altas Cortes brasileiras, e de outros Tribunais pátrios, em casos idênticos a hipótese dos autos, conforme se demonstrará.
+Assim, não obstante o notório brilhantismo dos Doutos Desembargadores do TRF da 1ª Região, muitas vezes já demonstrado, no v. Acórdão citado eles não valoram adequadamente as provas dos autos e também não expressaram o melhor entendimento acerca do tema abordado.
+Com efeito, a prova produzida no presente feito demonstra com clareza o cumprimento pelo(a) recorrente dos requisitos exigidos pela Lei 8.213/1991" e Súmula 149 do STJ, para a implantação do benefício requerido, tanto no que diz respeito ao requisito de comprovação da atividade rural pelo período legalmente exigido, quanto ao requisito etário. (fls. 226).
+É o relatório. Decido.
+No que concerne à controvérsia objeto do recurso, o Tribunal de origem assim decidiu:
+A não comprovação da qualidade de segurado especial da parte autora, na condição de trabalhador rural, e pelo menos durante o cumprimento do prazo de carência previsto no art. 142 da Lei n. 8.213, de 1991, impossibilita o deferimento do benefício postulado na petição inicial.
+Na hipótese dos autos, a prova produzida é insuficiente para caracterização da condição de trabalhador rural da parte autora, exatamente como concluiu o juízo recorrido.
+Cito precedentes deste Tribunal, de cada uma de suas Turmas especializadas:
+ ..
+Por fim, acrescente-se que é inadmissível prova exclusivamente testemunhal para o reconhecimento de tempo de exercício de atividade rural (Súmulas 149/STJ e 27/TRF-1ª Região).
+Assim, ausente a prova da condição de trabalhador rural e pelo prazo de carência fixado em lei, o pedido de concessão do benefício de aposentadoria por invalidez deveria mesmo ser julgado improcedente.
+Portanto, deve ser mantida a sentença que indeferiu a pretensão da parte autora. (fls. 196-197)
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
