@@ -1,0 +1,38 @@
+EMENTA
+AÇÃO MONITÓRIA. AGRAVO EM RECURSO ESPECIAL MANEJADO NA ÉGIDE DO NCPC. AÇÃO MONITÓRIA. CHEQUES PRESCRITOS. CUMPRIMENTO DE SENTENÇA. SUSPENSÃO DA CNH. VIOLAÇÃO DO ART. 1.022, I E II, DO NCPC. QUE NÃO SE VERIFICA. DESPROPORCIONALIDADE. MEDIDAS COERCITIVAS PREVISTAS NO ART. 139, IV, DO NCPC AFASTADAS PELO ACÓRDÃO RECORRIDO COM APOIO NO SUPORTE FÁTICO DOS AUTOS. PRETENSÃO RECURSAL QUE ESBARRA NA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Da leitura da minuta de agravo que deu origem ao presente recurso, pode-se aferir que DISMED - DISTRIBUIDORA DE MEDICAMENTOS OLÍMPIA LTDA. (DISMED) ajuizou ação monitória em fase de cumprimento de sentença contra [NOME] (ANDRÉ).
+No curso da ação, o Juízo de piso indeferiu o pedido de suspensão da carteira nacional de habilitação (CNH) do agravado.
+Essa interlocutória foi desafiada por agravo no qual a DISMED afirmou que a medida é necessária, pois foram esgotadas todas as vias ordinárias de localização do executado e as pesquisas para busca de bens restaram infrutíferas.
+O Tribunal de origem negou provimento ao agravo, nos termos da seguinte ementa:
+AÇÃO MONITÓRIA. Cheques prescritos. Cumprimento de sentença. Pedido para suspensão de CNH. Inadmissibilidade. Restrição que não guarda relação direta com a localização de bens passíveis de penhora. Medidas coercitivas autorizadas pelo art. 139, IV, do CPC/15 que não podem se sobrepor às garantias constitucionais e aos princípios da razoabilidade e proporcionalidade. Recurso não provido (e-STJ, fl. 90).
+Os embargos de declaração opostos pela DISMED foram rejeitados (e-STJ, fls. 163/166).
+A DISMED interpôs recurso especial com base no art. 105, III, a e c, da CF onde alegou violação dos arts. 1.022, I e II, e 139, IV, do NCPC, ao sustentar (1) que há omissão no acórdão recorrido; e (2) que devem ser aplicadas as medidas constritivas previstas no art. 139, IV, do NCPC, uma vez que tais medidas não ferem o direito à liberdade e da dignidade da pessoa, constituindo instrumento plausíveis para assegurar o crédito e a satisfação da execução.
+As contrarrazões não foram apresentadas (e-STJ, fls. 170/176).
+O apelo nobre foi admitido na origem (e-STJ, fls. 177/178).
+É o relatório.
+DECIDO
+A irresignação não merece prosperar.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada violação do art. 1.022, I e II, do NCPC
+Não se verifica, no caso, a alegada vulneração do referido dispositivo legal, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas na medida necessária para o deslinde da controvérsia, não havendo falar em omissão no julgado.
+(2) Da alegada infringência ao art. 139, IV, do NCPC
+O Tribunal de origem concluiu que a suspensão da CNH, medida requerida pela recorrente para assegurar a execução, atinge a liberdade pessoal, sendo desproporcional ao fim que se destina. Leia-se, a propósito o seguinte trecho do acórdão recorrido:
+Contudo, a providência não guarda relação direta com a busca patrimonial pretendida pela agravante, desbordando da razoabilidade e proporcionalidade entre a busca da efetividade da excussão patrimonial com o direito de livre locomoção do devedor, inclusive com ofensa ao princípio da dignidade humana.
+A suspensão pretendida viola direito fundamental de ir e vir, consagrado no art. 5º, XV da Constituição Federal. Quando sopesada com direitos e garantias assegurados pelo diploma constitucional, não é justificável a restrição de direitos individuais na consecução de satisfação de obrigações meramente pecuniárias.
+O limite constitucional é traduzido, no plano infraconstitucional, em verdadeiros requisitos de admissibilidade na aplicação de medidas atípicas, dispostos no art. 8º do CPC. Segundo o preceito, ao aplicar o ordenamento jurídico, o juiz atenderá aos fins sociais e às exigências do bem comum, resguardando e promovendo a dignidade da pessoa humana e observando a proporcionalidade, a razoabilidade, a legalidade, a publicidade e a eficiência.
+No caso, a agravante não comprovou situações excepcionais que, em tese, autorizariam adotar as medidas atípicas do art. 139, IV, do CPC, não sendo suficientes pesquisas infrutíferas por bens penhoráveis.
+Portanto, não comprovada a necessidade de medidas atípicas no caso concreto, é o patrimônio do devedor, e não sua pessoa física, que deverá responder pela dívida (e-STJ, fls. 91/92)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão, a fim de averiguar a proporcionalidade da medida coercitiva de suspensão da CNH do recorrido, no caso concreto, demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em sede de recurso especial a teor do enunciado nº 7 da Súmula do STJ.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDAS SATISFATIVAS DO CRÉDITO PERSEGUIDO DEVEM SER RAZOÁVEIS E PROPORCIONAIS, PARA QUE SEJAM MENOS GRAVOSAS AO DEVEDOR E MAIS EFICAZES. INCIDÊNCIA DA SÚMULA 83/STJ. PRECEDENTE. OBSERVÂNCIA DO PRINCÍPIO DA MENOR ONEROSIDADE DA EXECUÇÃO EM FACE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. REVOLVIMENTO DE CONTEÚDO FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. É assente a cognição jurisprudencial deste Sodalício no sentido de que as medidas de satisfação do crédito perseguido em execução não podem extrapolar os liames de proporcionalidade e razoabilidade, de modo que contra o executado devem ser adotadas as providências menos gravosas e mais eficazes. Precedente.
+2. No caso em exame, o Tribunal de origem, analisando o acervo fático-probatório dos autos, concluiu que os pedidos formulados pelo exequente, de suspensão de passaporte, de suspensão da CNH e de cancelamento dos cartões de crédito e débito, seriam excessivamente gravosos aos executados e desproporcionais à obrigação de pagamento do débito, mormente considerando que, no caso, o Juízo a quo já deferira medida adequada a compelir os devedores ao adimplemento, determinando inclusão de seus nomes nos cadastros de proteção ao crédito. A revisão de tal entendimento, na via estreita do recurso especial, sobretudo para perquirir a adequada aplicação do princípio da menor onerosidade no caso concreto, encontra óbice na Súmula 7 do STJ.
+3. Agravo interno desprovido."
+(AgInt no AREsp 1.283.998/RS, Ministro RAUL ARAUJO, Quarta Turma, julgado em 9/10/2018).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRETENSÃO DE QUE SEJA SUSPENSA A CNH DO DEVEDOR COM BASE NO ART. 139, IV, DO CPC/2015. CONCLUSÃO NO SENTIDO DA INADEQUAÇÃO DA MEDIDA PARA O FIM COLIMADO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal estadual entendeu que a medida pleiteada - suspensão da CNH dos recorridos - é inadequada para o fim colimado, pois é desproporcional no caso em tela, especialmente porque atinge a pessoa do devedor, não seu patrimônio. Essa conclusão foi fundada na apreciação fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.233.016/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 10/4/2018, DJe 17/4/2018).
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
