@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DÉBITO CC INDENIZAÇÃO POR DANOS MORAIS - AÇÃO JULGADA PROCEDENTE EM PARTE - RECURSO QUE VISA INDENIZAÇÃO PELO DANO MORAL - DÉBITO QUE FOI DECLARADO INEXIGÍVEL APENAS EM RELAÇÃO À REQUERIDA NÃO COMPROVADO NÃO SER O AUTOR O RESPONSÁVEL PELO DÉBITO - DANO MORAL QUE PODERÁ SER EVENTUALMENTE DISCUTIDO COM A VALIDADE DO CRÉDITO EM AÇÃO PRÓPRIA - HONORÁRIOS ADVOCATÍCIOS FIXADOS CORRETAMENTE - SENTENÇA MANTIDA - RECURSO DESPROVIDO (fl. 309).
+Alega divergência jurisprudencial quanto à interpretação dos arts. 186 e 927 do CCD, no que concerne ao cabimento de indenização por danos morais em favor da agravante, trazendo o(s) seguinte(s) argumento(s):
+ ..  o mero fato da recorrente ser devedora do outrem, não afasta a ilicitude do ato praticado por quem não é titular do direito.
+09. Por ser assim, nos termos dos artigos supra citados e pacífico posicionamento do Egrégio Superior Tribunal de Justiça, nos casos de negativação indevida, a ocorrência de danos morais é presumida, de modo que o dever de indenizar independe de culpa, bastando a demonstração do dano e do nexo causal, pressupostos efetivamente presentes no caso em debate, pelo que a reforma da decisão é medida impositiva (fl. 349).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, pois, a despeito de ter sido apontada a alínea c do permissivo constitucional e ter havido transcrição de ementa(s), a parte recorrente não indicou expressamente qual o acórdão tido por paradigma, o que impede eventual análise da divergência de interpretações.
+Ademais, não foi comprovado o dissídio jurisprudencial, uma vez que a parte agravante se limitou a transcrever ementas de julgados sem proceder o cotejo analítico indispensável à comprovação da identidade jurídica e da similitude fática no presente caso.
+Nesse sentido, o STJ fixou que "o conhecimento da divergência jurisprudencial reclama a existência de similitude fático-jurídica entre o acórdão recorrido e os paradigmas submetidos a confronto" (EDcl no Resp n. 1.254.636/ES, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 23/4/2015).
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp n. 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; e AgRg no REsp n. 1.500.980/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/3/2015).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
