@@ -1,0 +1,34 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. VALIDADE DA CDA. PRESENÇA DOS REQUISITOS LEGAIS ATESTADA PELO TRIBUNAL DE ORIGEM. PRECEDENTE: RESP 1.138.202/ES, REL. MIN. LUIZ FUX, DJE 1o.2.2010, JULGADO SOB O RITO DO ART. 543-C DO CPC. APLICAÇÃO DA MULTA MORATÓRIA DE 20%. ASSENTIMENTO DO CARÁTER NÃO CONFISCATÓRIO AFIRMADO PELO STF SOB O REGIME DE REPERCUSSÃO GERAL (RE 582.461/SP, REL. MIN. GILMAR MENDES, DJe 18.8.2011). PENHORA. LEGITIMIDADE DA RECUSA. AGRAVO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Agrava-se da decisão que inadmitiu Recurso Especial interposto por AMERICANA GRANITOS DO BRASIL LTDA., que objetiva a reforma do acórdão do Tribunal Regional Federal da 4a. Região, assim ementado:
+EXECUÇÃO FISCAL. EMBARGOS. CDA. NULIDADE NÃO CONFIGURADA. MULTA. CONFISCO NÃO CARACTERIZADO.
+1. Não há falar em nulidade da CDA, porquanto presentes os requisitos legais e indicada a legislação pertinente a cada acréscimo. Ademais, a dívida ativa regularmente inscrita é dotada de presunção juris tantum de certeza e liquidez, só podendo ser afastada por prova inequívoca.
+2. A multa é devida em razão do descumprimento da obrigação por parte do contribuinte, nos estritos percentuais da lei de regência. Não se realiza a hipótese de confisco quando aplicado o índice de 20%. Precedente do STF no sentido de que multas aplicadas até o limite de 100% não configuram confisco (ADI 551 - voto do Ministro Marco Aurélio) (fls. 683).
+2. Nas razões do Apelo Nobre inadmitido, alegou-se violação dos arts. 2o. da Lei 6.830/1980, 917, II do Código Fux e 202 do CTN, aos seguintes argumentos: (a) ausência de um dos requisitos do título executivo - demonstração do cálculo dos juros acrescidos ao valor do débito; (b) excesso na cobrança da multa imposta, que possui efeito confiscatório; e (c) os créditos indicados como garantia poderão quitar posteriormente os débitos em questão.
+3. Apresentadas contrarrazões (fls. 717/719), seguiu-se juízo negativo de admissibilidade recursal (fls. 722/726).
+4. É o relatório.
+5. O recurso não comporta acolhimento.
+6. No referente à nulidade da CDA, a Corte de origem refutou os fundamentos da contribuinte, afirmando que a simples ausência da forma de cálculo dos juros e da multa de mora não tem o condão de anular a CDA, o que encontra amparo no entendimento do Superior Tribunal de Justiça, firmado sob o regime dos recursos repetitivos, de que é desnecessária a apresentação do demonstrativo de cálculo, em Execução Fiscal, uma vez que a Lei 6.830/1980 dispõe, expressamente, sobre os requisitos essenciais para a instrução da petição inicial e não elenca o demonstrativo de débito entre eles sendo, portanto, Inaplicável à espécie o art. 614, II, do CPC (REsp. 1.138.202/ES, Rel. Min. LUIZ FUX, DJe 1o.2.2010).
+7. Tampouco merece acolhida a irresignação recursal no pertinente à multa de 20% imposta. É que o Supremo Tribunal Federal confirmou a legitimidade da penalidade, afirmando que não é confiscatória a multa moratória no importe de 20% (vinte por cento) (RE 582.461/SP, Rel. Min. GILMAR MENDES, Tribunal Pleno, julgado em 18.5.2011, Repercussão Geral, DJe 18.8.2011).
+8. Por fim, e não menos importante, a Corte regional assim teceu as considerações a respeito da penhora:
+Sustenta a apelante a existência de penhora incorreta, pois, uma vez não aceitos pela exequente os créditos por ela nomeados, foram constritos veículos de sua propriedade.
+Em contrapartida, a União alega que o bem oferecido à penhora diz respeito a créditos apresentados em declaração de compensação entregue perante a Receita Federal, o que encontraria óbice no § 3º do artigo 16 da Lei 6.830/80.
+A discussão já foi travada nos autos do executivo fiscal, tanto que foi, inclusive, interposto agravo de instrumento (5007465-30.2017.4.04.0000) pela executada contra a decisão na qual indeferida a nomeação à penhora. Ao examinar o agravo, esta Turma, entendendo restar devidamente motivada a recusa da exequente, negou-lhe provimento. Eis o teor da ementa:
+AGRAVO. TRIBUTÁRIO. PENHORA. INCONVENIÊNCIA. RECUSA FAZENDA. EXECUÇÃO. MENOR ONEROSIDADE AO DEVEDOR. INTERESSE DO CREDOR. ARTS. 797 E 805 DO CPC.
+1. A jurisprudência referenda a possibilidade de o credor recusar a nomeação do bem oferecido quando houver descumprimento da ordem legal, for de difícil alienação, ou restar demonstrada a inconveniência na indicação, como é o caso.
+2. Embora a execução deva processar-se pelo modo menos gravoso para o devedor (art. 805 do CPC), ela é feita no interesse do exequente, e não do executado, nos termos do art. 797 do CPC (fls. 687/688).
+9. O acórdão impugnado consignou ser justificada a recusa, por parte da exequente, do bem nomeado à penhora, tendo em vista descumprimento da ordem legal, for de difícil alienação, ou restar demonstrada a inconveniência na indicação, como é o caso.
+10. De fato, esta Corte Uniformizadora tem considerado legítima a recusa, nessa situação, sem que configure ofensa ao art. 620 do CPC/1973 e 11 da LEF. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA. BEM DE DIFÍCIL ALIENAÇÃO. RECUSA PELA FAZENDA. POSSIBILIDADE.
+1. Esta Corte firmou o entendimento de que, conquanto seja possível a penhora ou mesmo a substituição de bens penhorados, a Fazenda Pública pode recusar essa nomeação quando não se trata de substituição por depósito em dinheiro ou fiança bancária.
+2. Na hipótese dos autos, o Tribunal de origem consignou que a recusa da Fazenda em face do bem oferecido à penhora se deu por desrespeito à gradação legal do art. 11 da LEF, pelo bem se localizar muito distante da do foro da origem (situado no Estado do Pará) e por ser bem perecível (madeira), sujeito ao apodrecimento se exposto a intempéries do meio ambiente, o que, em linha de princípio, se mostra justificada, na linha dos precedentes desta Corte.
+3. Agravo regimental a que se nega provimento (AgRg no REsp. 1.487.506/PR, Rel. Min. OG FERNANDES, DJe 28.5.2015).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EXECUÇÃO FISCAL. PENHORA. POSSIBILIDADE DE RECUSA DE BEM DE DIFÍCIL ALIENAÇÃO. PRECEDENTES.
+1. O acórdão a quo afirmou que houve recusa do bem oferecido à penhora em virtude de sua difícil comercialização.
+2. A jurisprudência assente deste Sodalício reconhece a legitimidade da recusa de títulos ilíquidos e bens de difícil alienação, sem que configure ofensa ao estipulado no art. 620 do CPC.
+3. Agravo regimental a que se nega provimento (AgRg no Ag. 1.218.260/SC, Rel. Min. MAURO CAMPBELL MARQUES, DJe 3.9.2010).
+11. Ademais, certamente a alteração do julgado, quanto ao ponto, atentaria contra o verbete sumular 7/STJ, por carecer de revolvimento do conjunto fático-probatório dos autos.
+12. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial da Empresa.
+13. Publique-se.
+14. Intimações necessárias.
