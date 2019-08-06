@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas a e c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO ACIDENTARIA - CONDIÇÕES AGRESSIVAS - TENDINITE EM MEMBROS INFERIORES (JOELHOS) E SUPERIORES (OMBROS) - SENTENÇA DE IMPROCEDÊNCIA - LAUDO PERICIAL CONCLUSIVO - NEXO CAUSAL NÃO RECONHECIDO PELA PERÍCIA MÉDICA DOENÇA DEGENERATIVA IRRESIGNAÇÃO DO AUTOR - PEDIDO DE RENOVAÇÃO DA PROVA MÉDICA VISTORIA IN LOCO E OITIVA DE TESTEMUNHAS - DESNECESSIDADE NA HIPÓTESE DOS AUTOS - BENEFÍCIO INDEVIDO NA ESPÉCIE - SENTENÇA MANTIDA
+Alega violação do art. 86 da Lei n. 8.213/91, trazendo os seguintes argumentos:
+ ..  restou devidamente comprovado a lesão incapacitante e o Nexo Causal com as sua funções, fazendo jus ao benefício acidentário, uma vez que comprovou o binômio indispensável, ou seja, lesão incapacitante e nexo causal.
+Ocorre que assim decidindo o v. acórdão não valorou adequadamente as provas carreadas nos autos que comprovaram cabalmente a existência da lesão incapacitante e o nexo causal, negando vigência ao artigo 86 da Lei nº 8.213/91, que determina o pagamento do auxílio acidente para situações como na hipótese dos autos.
+Assim verifica-se claramente que o v. acórdão negou vigência ao artigo 86 da Lei nº 8.213/91, bem como divergiu da jurisprudência mansa e pacífica do Egrégio STJ, uma vez que ficou comprovado o binômio indispensável para a concessão do benefício acidentário: lesão incapacitante definitiva e nexo causal, conforme determina a lei. (fl. 91)
+Aduz, ainda, a existência de divergência jurisprudencial.
+É o relatório. Decido.
+Verifica-se que a pretensão da parte agravante, de ver reconhecida a violação de dispositivo de lei federal, exige o revolvimento do contexto fático-probatório dos autos, o que inviabiliza o conhecimento do presente apelo ante o óbice da Súmula n. 7/STJ.
+Consigne-se, ainda, que, quanto à alegação de existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea a e obstaculizada pelo enunciado da Súmula n. 7/STJ, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea c.
+Nesse sentido: "Ademais, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no AREsp n. 1.312.148/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/9/2018).
+Confiram-se ainda os seguintes precedentes: AgInt no AgInt no REsp n. 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; AgInt no AREsp n. 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018; AgRg no AREsp n. 695.443/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 25/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
