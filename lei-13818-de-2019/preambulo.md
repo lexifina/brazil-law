@@ -1,0 +1,2 @@
+Altera a Lei nº 6.404, de 15 de dezembro de 1976 (Lei das Sociedades Anônimas), para dispor sobre as publicações obrigatórias e ampliar para R$ 10.000.000,00 (dez milhões de reais) o valor máximo admitido de patrimônio líquido para que a sociedade anônima de capital fechado faça jus ao regime simplificado de publicidade de atos societários.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
