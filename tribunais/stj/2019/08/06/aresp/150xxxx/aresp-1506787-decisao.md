@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manejado pela Fazenda Nacional, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 305):
+TRIBUTÁRIO. TEMA 69 DA REPERCUSSÃO GERAL. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS.
+Afastado o sobrestamento para adoção da orientação firmada pelo Supremo Tribunal Federal (Tema 69), segundo a qual " o ICMS não compõe a base de cálculo para fins de incidência do PIS e da COFINS".
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1.022, II, do CPC/2015; 13, § 1º, I, 19, 20, da Lei Complementar 87/96; 1º da Lei 10.637/2002; 1º da Lei 10.833/2002; 2º da Lei 9.715/98; e 2º da Lei Complementar 70/91. Sustenta que: (I) a despeito dos embargos de declaração, " não houve pronunciamento do tribunal sobre a legislação que dispõe sobre a apuração mensal do ICMS e das contribuições PIS e COFINS, nem sobre a impossibilidade de excluir da base de cálculo das contribuições mais do que é devido ao Estado a título de ICMS" (fl. 355); (II) "o acórdão recorrido concluiu que o ICMS destacado nas notas fiscais não integra a base de cálculo das contribuições para PIS e COFINS. Embora o STF não tenha decidido expressamente a respeito de qual ICMS deve ser excluído da base de cálculo das contribuições" (fl. 356), " o principal fundamento do voto vencedor é não constituir o ICMS receita do contribuinte, porque se trata de valor que será repassado ao Estado. Assim,  ..  o montante a excluir da base de cálculo do PIS e da COFINS é o montante efetivamente devido ao Estado, e não o valor destacado na nota fiscal" (fl. 356).
+Decisão presidencial local negou seguimento ao recurso extraordinário da Fazenda Nacional às fls. 397/400, considerando a conformidade do acórdão recorrido com o que decidido pelo STF no RE 574.706/PR.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos.
+Com efeito, a respeito da questão apontada como omitida, colhe-se do acórdão recorrido expressa manifestação (cf fls. 338/343). Ressalte-se que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, destaca-se da fundamentação do acórdão recorrido o seguinte trecho (fl. 341):
+ O embargante pretende a reforma do decisum, a fim de que se reconheçam as lacunas que reputa presentes no julgado, com o fito de, conferindo efeitos infringentes aos presentes embargos, arredar a conclusão de que o ICMS a ser deduzido da base de cálculo do PIS e da COFINS é o ICMS destacado nas notas fiscais.
+ O voto-condutor apontou, expressamente, que, na ótica do STF, os conceitos de faturamento e de receita não incluem o ICMS.
+ Ora, o ICMS incidente sobre a receita ou sobre o faturamento é aquele destacado nos documentos fiscais, ou seja, o ICMS debitado.
+ O ICMS recolhido ou a recolher corresponde, de regra, a apenas uma parte do ICMS destacado nas notas fiscais emitidas pelo contribuinte que o apura.
+ Sucede que o Tribunal Pleno do STF, no julgamento do RE nº 574.706, firmou a tese no sentido de que o ICMS, todo ele, não compõe a base de cálculo do PIS e da COFINS.
+ Em suma, a tese firmada pelo Tribunal Pleno do STF não pode ser aplicada apenas em parte.
+Assim, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, a saber, o posicionamento consolidado pela Corte Suprema quando do julgamento do RE 574.706/PR - Tema 69 da Repercussão Geral (Tese firmada: "o ICMS não compõe a base de cálculo para fins de incidência do PIS e da COFINS"), matéria insuscetível de ser examinada em sede de recurso especial.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
