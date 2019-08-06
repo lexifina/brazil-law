@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo apresentado por RAF ALIMENTOS IMPORTAÇÃO E EXPORTAÇÃO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ACRE, assim resumido:
+CIVIL E PROCESSUAL. APELAÇÃO. EMBARGOS DE TERCEIRO. PROMISSÁRIO COMPRADOR. EXECUÇÃO POSTERIOR. EMBARGOS DE TERCEIRO. POSSIBILIDADE. SÚMULAS N. 84 E 195-STJ.
+1. É admissível a oposição de embargos de terceiro fundados em alegação de posse advinda do compromisso de compra e venda de imóvel, ainda que desprovido do registro. (Súmula n. 84-STJ).
+2. Em embargos de terceiro não se anula ato jurídico, por fraude contra credores. (Súmula n. 195-STJ).
+3. Apelo desprovido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 17, 373, I, 674 e 792, todos do CPC, trazendo o(s) seguinte(s) argumento(s):
+Contrariamente ao entendimento firmado no acórdão recorrido, observa-se que esta não deve prosperar. É ônus do Recorrido nos moldes do art. 373, I, do CPC, demonstrar de forma regular e satisfatória que detinha a posse do imóvel em questão, sendo que os documentos apresentados (conta de luz e imposto da área) não possuem o condão de demonstrar a efetiva posse do Recorrido, ou seja, ausente sua legitimidade para estar em juízo em relação ao imóvel em tela.
+Assim, a acórdão recorrido negou vigente ao disposto no art. 373, I e 17 do CPC, uma vez que o Recorrido aduz posse da área, sem comprovação de suas alegações, bem como ignorou o disposto no art. 674 do CPC, que define a legitimidade do terceiro apto a opor embargos, dos quais não se enquadra e não se comprova estar inserido o Recorrido, o que impõe a reforma do acórdão recorrido.
+ ..
+Novamente o juízo de piso deixou de valorar os argumentos e promover a devida análise das provas constantes dos autos, bem como os vícios e índicos de fraude à execução e a credores perpetrados pelos Executados juntamente com o Recorrido, conforme se depreende claramente da correta análise dos documentos que instruem a ação (fl. 332).
+É o relatório. Decido.
+Sobre a questão, o Tribunal de origem, assim se manifestou:
+A perscrutar os autos, verifico que, conforme bem lançado no provimento recorrrido, o embargante/apelado logrou êxito em comprovar a aquisição da posse do imóvel da empresa Pinheiro e Medeiros Indústria e Comércio de Carnes e Derivados LTDA, fls.179/19, tendo esta o adquirido do executado da ação principal, fls. 15/16, em data anterior ao vencimento dos títulos executados (fls. 15/18 dos autos principais).
+Demais disso. há comprovação de que o embargante/apelado vem mantendo a posse/domínio sobre o bem, conforme se pode verificar dos documentos de fls. 21/34, os quais comprovam a quitação de tributos incidentes sobre a propriedade de bem imóvel rural além do consumo de energia elétrica no local, daí porque caracterizado o pleno exercício da posse no imóvel objeto do litígio (fl.297).
+Assim, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
