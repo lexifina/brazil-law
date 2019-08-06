@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALEX MAIA DA [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de Goiás que indeferiu o writ de origem, por acórdão assim ementado (fl. 205):
+Tráfico. Habeas corpus sustentando excesso de prazo para a conclusão da instrução. 1 - A jurisprudência do Superior Tribunal Justiça é firme no sentido de que eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional. 2 - Habeas corpus conhecido e indeferido. Parecer acolhido.
+O paciente foi preso em flagrante em 19/8/2018, convertido em preventiva, sendo denunciado pela prática do delito tipificado no art. 33, caput, da Lei 11.343/2006.
+O impetrante requer a extensão dos efeitos do HC n. 504.940/GO, que concedeu a ordem para determinar a soltura do corréu [NOME], sob a alegação de que se encontra na mesma situação fático-processual.
+Sustenta que a decisão de prisão carece de fundamentação idônea e que não estão presentes os requisitos do art. 312 do CPP. Alega ainda a existência de excesso de prazo, eis que preso cautelarmente desde 19/8/2018, somente foi marcada audiência de instrução e julgamento para o dia 8/7/2019. Requer a concessão para a soltura do paciente.
+Indeferida a liminar e, prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+Na origem, o processo n. 103134-72.2018.8.09.0006 está em fase de apreciação de novo pedido de revogação da prisão preventiva aviado pela defesa do paciente para, em seguida, ser aberto prazo para apresentação de memoriais escritos, conforme consulta ao sítio eletrônico do Tribunal de origem em 30/7/2019.
+É o relatório.
+DECIDO.
+Conforme relatado, o impetrante busca a revogação da prisão preventiva do paciente, alegando identidade fático-processual entre a situação do paciente e do corréu beneficiado com a liberdade no HC 504.940/GO, bem como sustentando que não estão previstos os requisitos da prisão preventiva e há excesso de prazo na conclusão do processo.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que concedeu a ordem ao corréu [NOME] nos autos do HC 504.940/GO teve a seguinte fundamentação:
+ .. .Do decisum que converteu o flagrante em preventiva, extrai-se (fl. 114):
+ .. .Os elementos, nada obstante, são aptos a validarem que sua prisão é imprescindível como garantia da instrução criminal, bem como aplicação da lei penal, e, especial diante da intrepidez e o modo de execução, a revelar que agiu com pouco temor, a estampar o que se pode designar como periculum libertatis.
+Faz-se pertinente observar, no caso em apreço, a necessidade do cárcere para garantir a ordem pública ante a natureza das infrações e forma de execução dos crimes, corroborada à finalidade de se evitar a exposição de outros bens jurídicos à perigo, em virtude de registrar-se para ALEX, outras práticas delitivas pelas quais responde.
+Também se afere a inexistência de dados que comprovem suas ocupações ou locais onde residem, a fim de garantir a aplicação da lei penal.
+A soltura ou a imposição de medidas cautelares alternativas, ao certo, a esta altura, poderão frustrar a continuidade das investigações.
+Sendo assim, cabível a prisão preventiva. .. .
+Requerida a revogação da custódia cautelar, o pedido foi indeferido nos seguintes termos (fls. 124-125):
+ .. .Da análise dos autos, denota-se a imprescindibilidade da manutenção da prisão do requerente, não sendo possível a concessão de liberdade deste, assim como das medidas cautelares previstas no art. 319, do Código de Processo Penal, as quais demonstram-se inadequadas e insuficientes, nesse momento.
+Do mesmo modo, considerando a gravidade do crime imputado ao requerente (artigo 33, da Lei nº 11.343/06), entendo que a segregação cautelar, nesse momento, corresponde à medida adequada para o resguardo da ordem pública".
+Observa-se, ainda, que não há ilegalidade na manutenção da segregação fundamentada para a garantia da ordem pública, justificando-se a continuidade da prisão cautelar. nos moldes do art. 312, do Código de Processo Penal, pois presentes a fumaça do cometimento do delito e o "periculum libertatis", a considerar "modus operandi" da prática delituosa.
+Além do mais, a reprimenda (em seus vetores punitivos/preventivos), ainda, que em caráter excepcional e provisório como na hipótese dos autos, torna-se sagaz para assegurar a credibilidade das instituições, em especial, do Poder Judiciário, quanto à visibilidade e transparência das políticas públicas de persecução criminal e desde que diretamente relacionadas com a adoção tempestiva de medidas adequadas e eficazes associadas à base empírica concreta que tenha ensejado a custódia cautelar (STF Nº HC 80.090/GO).
+Quanto a conveniência da instrução criminal, esta precisa ser rápida, para garantia da ordem pública, o que impõe-se a permanência do requerente em cárcere, sendo que, sua libertação agora, sem dúvida alguma, traria prejuízo à rapidez que se espera e exige do Poder Judiciário.
+Assim, não é mais direito fundamental seu encarceramento, tão somente, a partir do trânsito em julgado de pena condenatória.
+Impende ponderar que a segregação cautelar do requerente não ofende os princípios da presunção de inocência e do devido processo legal, porquanto o inciso LXI, do artigo 5º, da Constituição Federal, permite a possibilidade de prisão em flagrante ou por ordem escrita e fundamentada da autoridade competente.
+ ..
+Ressalta-se ainda, que nenhuma das medidas cautelares diversas da prisão estabelecidas pelo artigo 319, do Código de Processo Penal, seriam suficientes, ao menos segundo os elementos existentes até agora nos autos, para resguardar a ordem pública, a instrução criminal e a aplicação da lei penal.
+Diante do exposto, em face de tudo quanto resta declinado, acolhendo o parecer ministerial de fls. 52/54, INDEFIRO o Pedido de Revogação da Prisão Preventiva de JEOVANNY DA [NOME] ALVES, haja vista a não alteração do quadro fático ensejador da custódia. .. .
+Como se vê das decisões acima, não se apontou qualquer elemento do caso concreto para se justificar a decretação da medida extrema, fazendo-se afirmação genérica e abstrata sobre a gravidade do crime, além de presunções e conjecturas, evidenciando-se a ausência de fundamentos ao decreto prisional.
+Ante o exposto, concedo o habeas corpus para a soltura do paciente, [NOME], o que não impede a fixação de medidas cautelares diversas da prisão, pelo juízo de 1º grau, por decisão fundamentada.
+Fica prejudicada a alegação de excesso de prazo. .. .
+Ao que se tem, o paciente não se encontra na mesma situação fático-processual do corréu, haja vista que foi apontada sua reiteração delitiva, evidenciada na afirmação de que em virtude de registrar-se para ALEX, outras práticas delitivas pelas quais responde, o que não ocorreu em relação ao corréu.
+Assim, não se mostra cabível a extensão dos efeitos da decisão, nos termos do art. 580 do CPP, conforme requerido.
+Por outro lado, a questão dos requisitos da prisão preventiva não foi submetida à apreciação da Corte de origem, conforme se depreende da leitura do acórdão impugnado (fls. 204/205), pois na impetração originária apenas alegou-se o excesso de prazo da instrução criminal. Dessa forma, inviável a análise diretamente por esta Corte superior, sob pena de incorrer em indevida supressão de instância.
+No que tange ao alegado excesso de prazo na conclusão do processo, verifica-se das informações de fls. 247/248 e do andamento processual constante no sítio eletrônico do Tribunal de origem, que o paciente foi preso no dia 19/8/2018, a denúncia foi oferecida pelo Ministério Público em 27/9/2019.
+Foi determinada a notificação do paciente para apresentação de defesa preliminar em 18/10/2018, que foi juntada no processo no dia 21/1/2019.
+A inicial acusatória foi recebida em 6/3/2019, ocasião em que foi designada audiência de instrução para o dia 8/7/2019.
+Atualmente, o feito aguarda a apreciação de novo pedido de revogação da prisão preventiva formulado pela defesa do paciente para abertura de prazo para apresentação de memoriais escritos.
+Nesse contexto, verifica-se a marcha regular do feito, não se constatando desídia por parte do Estado, não se mostrando excessivo o tempo de prisão cautelar (desde 19/8/2018) se comparado à pena mínima do delito imputado, de 5 anos de reclusão.
+Sabe-se que os prazos fixados na legislação para a prática de atos processuais servem apenas de parâmetro, não podendo deduzir o excesso apenas pela soma aritmética dos mesmos.
+É uníssona a jurisprudência desta Corte no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando seja a demora injustificável, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+Não evidenciada mora estatal em ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Dessa forma, no que se refere aos prazos processuais, não se observa qualquer constrangimento ilegal.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
