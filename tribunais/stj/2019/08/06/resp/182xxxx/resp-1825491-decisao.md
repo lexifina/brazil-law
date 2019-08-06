@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROSINEIA BISPO DIAS, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Rondônia assim ementado (e-STJ fl. 159):
+Apelação cível. Direito previdenciário. Benefício previdenciário. Auxílio-acidentário. Laudo Pericial. Incapacidade Parcial e Permanente. Índice de Juros e atualização monetária aplicável à Fazenda Pública. Recurso Provido.
+Constatada a incapacidade laborativa parcial e definitiva do segurado oriunda de acidente de trabalho, tem-se por preenchidos os requisitos essenciais para concessão do auxílio-acidente.
+Os juros de mora incidentes sobre débitos de natureza não tributária devem ser aqueles aplicados à caderneta de poupança. O índice de correção monetária, por sua vez, deve ser o IPCA-E, considerado mais adequado para recompor o poder de compra.
+Nas suas razões, a recorrente aponta, além de dissídio jurisprudencial, violação do art. 42 da Lei n. 8.213/1991, ao argumento de que faz jus à aposentadoria por invalidez, uma vez que se encontra incapacitada permanentemente e sem condições de voltar às suas atividades habituais.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 184/185.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito tal registro, verifica-se que o aresto impugnado não merece reforma.
+Com efeito, o Tribunal a quo, instância soberana na análise de provas, concluiu pela ausência de incapacidade total e definitiva da parte recorrente, indeferindo-lhe o benefício de aposentadoria por invalidez, nos seguintes termos (e-STJ fls. 140):
+Desse modo, o desenlace da controvérsia está atrelado diretamente ao exame do laudo pericial produzido sob o crivo do contraditório. Nesse ponto, o perito afirma que a requerente possui uma incapacidade parcial e permanente em virtude de uma lesão na lombar (lombalgia crônica), não podendo mais trabalhar na profissão que exercia anteriormente (costureira). Bem, tenho que deve ser reconhecido o nexo debatido, de forma a reconhecer os benefícios acidentários.
+(..)
+Portanto, verifica-se que a apelante não faz jus ao benefício pretendido de aposentadoria por invalidez, uma vez está demonstrado que sua capacidade para o trabalho encontra-se apenas diminuída, devendo ser reformada a sentença que concedeu a aposentadoria por invalidez.
+Dessa forma, verifica-se que a Corte de origem decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial ante o óbice estampado na Súmula 7 do STJ.
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. LAUDO PERICIAL CONCLUSIVO PELA CAPACIDADE DO SEGURADO. O BENEFÍCIO EXIGE A COMPROVAÇÃO DA INCAPACIDADE TOTAL DEFINITIVA DO SEGURADO, O QUE NÃO FICOU DEMONSTRADO NA HIPÓTESE DOS AUTOS. REQUISITOS PARA CONCESSÃO DA APOSENTADORIA NÃO PREENCHIDOS. BENEFÍCIO INDEVIDO. AGRAVO DO SEGURADO A QUE SE NEGA PROVIMENTO.
+1. O Tribunal de origem, com base no conjunto fático-probatório dos autos, especialmente o laudo pericial produzido em juízo, concluiu que o Segurado possui capacidade laboral, uma vez que as patologias que apresenta não tem repercussões clínicas capazes de gerar incapacidade laboral total e permanente, não preenchendo, assim, os requisitos legais para a concessão do benefício.
+2. Ao contrário do que sustenta o recorrente, o fato de ser portador de SIDA, não garante o automático reconhecimento de sua incapacidade total, isto porque o fato gerador do benefício não é a doença e sim a comprovação do estado de incapacidade, o que não ficou demonstrado nos autos.
+3. Agravo Interno do Particular a que se nega provimento. (AgInt no AREsp 550.168/MS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/09/2018, DJe 27/09/2018).
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. CONVERSÃO DO AUXÍLIO-ACIDENTE EM APOSENTADORIA POR INVALIDEZ. ACÓRDÃO FUNDAMENTADO NOS ASPECTOS CONCRETOS DA CAUSA CONCLUIU PELA INEXISTÊNCIA DE INCAPACIDADE TOTAL E DEFINITIVA PARA O TRABALHO. REEXAME DE MATÉRIA FÁTICA.
+IMPOSSIBILIDADE. SÚMULA 7/STJ. 1. O Tribunal de origem, com fundamento no laudo pericial, concluiu inexistir direito à pretendida conversão do auxílio-acidente em aposentadoria por invalidez, pois "o que se verifica é que não houve agravamento do quadro de incapacidade do autor. O inconformismo do autor, carente de qualquer conforto na prova produzida, não tem o condão de, por si só, afastar a conclusão pericial".
+2. Considerando a fundamentação adotada, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é vedado em Recurso Especial pela Súmula 7 do STJ.
+3. Não é possível o conhecimento do Recurso Especial interposto pela divergência jurisprudencial na hipótese em que o dissenso é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula 7 do STJ também se aplica aos Recursos Especiais interpostos pela alínea "c" do permissivo constitucional.
+4. Recurso Especial não conhecido. (REsp 1670550/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017)
+Por fim, quanto ao recurso especial interposto com base na alínea "c" do permissivo constitucional, a análise do dissídio jurisprudencial está prejudicada em razão da aplicação da Súmula 7 do STJ.
+A teor do disposto no art. 85, § 11, c/c o art. 98, VI, §§ 2º e 4º, do CPC de 2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita, exceto em ações acidentárias, nos termos do art. 129, parágrafo único, da Lei n. 8.213/1991, como no presente caso.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
