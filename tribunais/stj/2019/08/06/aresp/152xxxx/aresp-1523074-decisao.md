@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo apresentado pelo MUNICÍPIO DE PORTO ALEGRE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÕES CÍVEIS DIREITO TRIBUTÁRIO ITBI INCORPORAÇÃO ART 37 § 4º DO CTN ATIVIDADE PREPONDERANTE LEI COMPLEMENTAR Nº 197/89 DE PORTO ALEGRE COM REDAÇÃO À ÉPOCA DOS FATOS GERADORES.
+Alega violação dos arts. 35, I, e 37, § 4º, do CTN; 64 da Lei n. 8.934/1994; e 221 da Lei n. 6.015/1973, no que concerne à definição do momento do registro na junta comercial do instrumento de rerratificação do contrato social como fato gerador do ITBI, trazendo o(s) seguinte(s) argumento(s):
+O acórdão do TJRS, ao concluir pela imunidade de ITBI em relação à transferência dos imóveis descritos na inicial, sob o fundamento de que, no caso específico de incorporações, a transferência da propriedade ou patrimônio ocorre com a operação societária, sendo o registro na matrícula é ato meramente declaratório, contrariou o artigo 35, I, e o artigo 37, § 42, do Código Tributário Nacional, bem como ao artigo 64 da Lei 8.934/94 e ao artigo 221 da Lei 6.015/73 (fl. 1.069).
+Com efeito, deve prevalecer o entendimento de que o fato gerador do ITBI ocorreu com o registro na Junta Comercial do Estado do Rio Grande do Sul do instrumento de rerratificação do contrato social, utilizado para correção da descrição do imóvel, permitindo o registro pelo ofício imobiliário (fl. 1.075).
+É o relatório. Decido.
+Em relação à controvérsia, o acórdão recorrido assim decidiu:
+A controvérsia está em se apontar o momento em que houve a transferência do patrimônio da sociedade incorporada à incorporadora. E, examinando o instituto da incorporação à luz da legislação que rege a matéria, deve ser reconhecido como tal o registro da incorporação, e não o registro na matrícula dos imóveis.
+Isso porque, com a incorporação, extinguiu-se a pessoa jurídica incorporada, transferindo-se à incorporadora a propriedade dos bens que lhe pertenciam.
+ ..
+Não há como reconhecer que, ainda que extinta aquela sociedade, manteve-se nela a propriedade sobre os imóveis. Se ela deixou de existir com o ato, obviamente os direitos que possuía sobre os imóveis também se extinguiram.
+ ..
+Como é imune de ITBI a transferência decorrente de incorporação, na forma do art. 37, § 4º, do CTN, desimporta a data em que tenha havido o fato gerador, se antes ou após a revogação do dispositivo da Lei Complementar Municipal que prevê a necessidade de investigação sobre as atividades da empresa (fls. 1.023, 1.024 e 1.027).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, esta Corte Superior de Justiça já se manifestou no sentido de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
