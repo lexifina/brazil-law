@@ -1,0 +1,17 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Segunda Vara Cível e Criminal da Comarca de Marechal Deodoro/AL, ao receber a denúncia no processo nº 0700238-82.2018.8.02.0044, converteu em preventiva a prisão temporária da paciente, ocorrida no dia 28 de maio de 2018, ante a suposta prática da infração prevista no artigo 121, § 2º, inciso IV (homicídio qualificado por recurso que dificulta a defesa do ofendido), do Código Penal. Destacou os indícios de autoria, referindo-se às declarações das testemunhas perante autoridade policial, e o risco de fuga. Assentou indispensável a custódia para assegurar a aplicação da lei penal.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 492.074/SP, inadmitido pela Quinta Turma.
+    Os impetrantes dizem insubsistentes os fundamentos da decisão mediante a qual determinada a preventiva. Afirmam tratar-se de paciente primária, sem antecedentes, mãe e única responsável por duas crianças de 4 e 9 anos de idade. Sustentam a viabilidade da prisão domiciliar e a observância do artigo 227 da Constituição Federal e das Regras de Bangkok, no que concerne ao direito das mulheres infratoras ao convívio familiar. Aludem ao decidido pela Segunda Turma no habeas corpus coletivo nº 143.641.
+    Requerem, no campo precário e efêmero, a revogação da custódia e, sucessivamente, a substituição por prisão domiciliar. No mérito, buscam a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 22 de julho de 2019, revelou estar o processo-crime na fase de instrução.
+    A etapa é de apreciação da medida de urgência.
+    2. A análise do ato por meio do qual implementada a preventiva sinaliza haver sido considerada a imputação. Inexiste a prisão automática, tendo em vista o delito supostamente cometido, levando à inversão da ordem do processo-crime, que direciona, ante o princípio constitucional da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. Os indícios de autoria são, por si sós, elementos neutros, insuficientes a respaldarem o argumento relativo à necessidade da custódia preventiva. A problemática atinente ao risco de a paciente evadir-se do distrito da culpa encontra solução no artigo 366 do mencionado Código. Ainda que, citado por edital, não constituindo defesa técnica, as consequências são apenas a suspensão do processo e do prazo prescricional. O Juízo deixou de indicar dado concreto, individualizado, a demonstrar a indispensabilidade da prisão. Fora isso, é a suposição do excepcional, do extravagante, e partir para a responsabilidade objetiva. Tem-se a insubsistência das premissas lançadas.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso a paciente não esteja custodiada por motivo diverso da preventiva retratada no processo nº 0700238-82.2018.8.02.0044, da Segunda Vara Cível e Criminal da Comarca de Marechal Deodoro/AL. Advirtam-na da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda da cidadã integrada à sociedade.
+     4. Colham o parecer da Procuradoria-Geral da República.
+     5. Publiquem.
+Brasília, 6 de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
