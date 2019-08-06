@@ -1,0 +1,45 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/73. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PRELIMINAR DE ILEGITIMIDADE ATIVA. AFASTADA. JULGAMENTO EXTRA PETITA. CONFIGURADO. RETORNO DOS AUTOS PARA JULGAMENTO NOS LIMITES DA LIDE. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+MARIA ONEIDA HEGINO BROWN (MARIA ONEIDA) ajuizou ação de indenização contra TELEMAR NORTE LESTE S.A. (TELEMAR) afirmando que é titular da linha telefônica residencial desde 25/9/1985 e que houve o cancelamento dos serviços. Requereu a reinstalação da linha telefônica e, caso não seja possível, o valor indenizado, bem como o ressarcimento por danos morais.
+Em primeiro grau, a ação foi julgada parcialmente procedente para condenar a TELEMAR à entregar a quantidade de ações que não foram subscritas e respectivos dividendos.
+TELEMAR apelou afirmando a ilegitimidade da autora; julgamento extra petita e, no mérito, a impossibilidade de condenação à devolução das ações ou restituição de valores.
+O Tribunal de origem negou provimento ao recurso em acórdão, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PRELIMINAR DE ILEGITIMIDADE ATIVA. PRELIMINAR DE JULGAMENTO EXTRA PETITA. AFASTADAS. DIREITO DA PARTE APELADA DE RECEBER A QUANTIDADE DE AÇÕES QUE NÃO LHE FORAM SUBSCRITAS E RESPECTIVOS DIVIDENDOS OU O EQUIVALENTE EM DINHEIRO. SÚMULA 371 DO STJ. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO UNÂNIME (e-STJ, fls. 209/210).
+Os embargos de declaração opostos pela TELEMAR foram rejeitados (e-STJ, fls. 244/254).
+Irresignada, a TELEMAR interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, sustentando a violação dos arts. (1) 267, VI, do CPC/73 no que se refere à ilegitimidade ativa porque a autora apenas adquiriu o direito ao uso da linha e não houve a compra de ações; que consta nos autos apenas um documento que confirma a cessão do direito de uso da linha telefônica; (2) 460, do CPC/73 nulidade da sentença porque houve a condenação extra petita vez que em nenhum momento houve pedido de pagamento de ações; (3) 177 do CC/16 e 2.028 do CC/02 no tocante à prescrição porque a cessão da linha telefônica foi realizada aos 25/6/1985 e a ação ajuizada apenas aos 6/6/2006, sendo que o prazo prescricional foi consumado aos 25/6/2005; e, (4) 333, I, do CPC/73 inexistência de prova da compra das ações porque o documento juntado aos autos comprova apenas a cessão do direito de uso da linha telefônica.
+O recurso especial foi parcialmente admitido apenas no tocante à violação do art. 267, IV, do CPC/73.
+A TELEMAR interpôs agravo em recurso especial sobre quanto as matérias não admitidas, afirmando a necessidade de conhecimento do apelo nobre quanto às julgamento extra petita e da inexistência de prova da compra de ações.
+É o relatório.
+DECIDO.
+CONHEÇO do agravo e passo ao julgamento do apelo nobre interposto às e-STJ, fls. 258/270.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+(1) Da ilegitimidade
+TELEMAR sustentou a violação do art. 267, VI, do CPC/73 no que se refere à ilegitimidade ativa porque a autora apenas adquiriu o direito ao uso da linha e não houve a compra de ações; que consta nos autos apenas um documento que confirma a cessão do direito de uso da linha telefônica.
+O Tribunal de origem consignou que o documento apresentado nos autos comprova a legitimidade da autora, confira-se:
+Em sede de preliminar, alega a apelante a ilegitimidade ativa da parte apelada, ao afirmar que esta não adquiriu ações, tampouco realizou qualquer contrato de participação financeira junto a ela.
+Como se sabe, as pessoas que adquiriram telefones das antigas companhias estatais de telefonia possuem o direito de receber ações das referidas empresas, situação que se vê presente no caso concreto.
+Desta maneira, sem maiores delongas, observado o documento de fl. 14, entende-se pela possibilidade da apelada figurar no polo ativo da presenta demanda.
+Assim, enfrentada e devidamente julgada a matéria pelo Magistrado sentenciante, não merece cabimento a tese preliminar ora levantada  ..  (e-STJ, fls. 212/213).
+A legitimidade ativa da autora foi reconhecida com base no contrato firmado entre as partes, não sendo possível a revisão do conjunto fático-probatório dos autos, nesta fase recursal.
+Incide, portanto, quanto ao ponto o óbice da Súmula nº 7 do STJ.
+(2) Da nulidade da sentença
+TELEMAR afirmou a negativa de vigência do art. 460, do CPC/73 nulidade da sentença porque houve a condenação extra petita vez que em nenhum momento houve pedido de pagamento de ações.
+A Corte local afastou a existência de julgamento extra petita afirmando que a sentença foi fundamentada de acordo com o pedido inicial e nos moldes da Súmula nº 371 do STJ, confira-se:
+Ademais, não merece melhor sorte a preliminar de julgamento extra petita, uma vez que a decisão mostrou-se devidamente fundamentada de acordo com o pleito inicial, nos moldes da súmula 371 do STJ, in ver bis:  ..  (e-STJ, fl. 213).
+A jurisprudência desta Corte, considera-se extra petita a decisão que aprecia pedido ou causa de pedir distintos daqueles apresentados pela parte postulante, isto é, aquela que confere provimento judicial sobre algo que não foi pedido.
+No caso dos autos, verifica-se que MARIA ONEIDA pleiteou a reinstalação da linha telefônica e, caso não fosse possível, a conversão em indenização, bem como o pagamento da indenização por danos morais, confira-se:
+a) Seja concedida Tutela Antecipada, determinando a Requerida a Exclusão do nome da Autora dos cadastros dos órgãos de restrição de credito, tais como: SPC, SERASA, CADIM, CARTÓRIOS DE PROTESTO, entre outros, se houver sido feita á inclusão;
+b) Seja concedida LIMINAR INAUDITA ALTERA PARTE, expedindo oficio a empresa Demandada, determinando que a mesma providencie a reinstalação da linha telefônica de número e prefixo 3221-2429 na residência da Autora, pertencente a ora demandada;
+c) A Inversão do ônus da prova, em relaçao às provas a serem produzidas, em face de hipossuficiência da Autora na relação Jurídica, nos termos do Art. 6o, Inciso VIII do CDC.
+d) A Indenização da linha telefônica comprada pela Demandante há mais de 20 (vinte) anos pelo valor CR$ 5.000,000 (cinco milhões de cruzeiros), valor que deverá ser convertido para a moeda corrente, e devidamente atualizado, caso não seja possível a devolução da mesma, atribuindo desde já o valor de R$ 5.000,00 (cinco mil reais);
+e) Nos termos do Art. 5º.da CF/08 e nos demais dispositivos legais, a condenação da Empresa Demandada, ao pagamento de 100 (cem) salários minimos, a titulo de Indenização pelos Danos Morais causados a autora, o que desde já sugere a V.Exa., bem como, a condenação da empresa Requerida ao pagamento das custas processuais e ônus de honorários de sucumbência no percentual de 20% (vinte por cento), sobre o valor da condenação  ..  (e-STJ, fl. 7).
+Com efeito, assiste razão à TELEMAR uma vez que a sentença proferiu decisão extra petita, ao determinar que a autora teria direito à receber as ações da empresa, nos termos do julgamento representativo da controvérsia, RESp nº 1.037.208/RS, confira-se:
+Consoante o exposto, verifica-se que a parte Autora não possui direito ao religamento de sua linha telefônica, muito menos aos danos morais, uma vez que foi ela quem deu causa ao cancelamento de sua linha. Todavia, é cediço que aqueles que adquiram telefones das antigas companhias estatais de telefonia tem o direito de receber ações destas empresas.
+O STJ, no julgamento do Resp. nº 1.037.208/115, definiu que o critério para apurar a quantidade de ações devida à título da "dobra acionária" da telefonia deve observar o valor patrimonial da ação na data da integralização, segundo o respectivo balancete daquele mês. Vale destacar, também, a súmula 371, do STJ sobre a matéria:  ..  (e-STJ, fl. 125).
+Assim, considerando que na ação MARIA ONEIDA pleiteou a reinstalação da linha telefônica e, caso não fosse possível, a conversão em indenização, bem como o pagamento da indenização por danos morais a condenação da TELEMAR ao pagamento das ações configura julgamento extra petita.
+Devido a anulação da sentença e retorno dos autos para julgamento da lide, nos termos propostos na inicial.
+Fica prejudicada a análise das demais teses.
+Nessas condições, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial para, reconhecendo o julgamento extra petita, determinar o retorno dos autos para julgamento nos limites dos pedidos indicados na inicial.
+Publique-se. Intime-se.
