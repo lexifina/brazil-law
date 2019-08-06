@@ -1,0 +1,40 @@
+EMENTA
+RECURSO ESPECIAL. PENAL. ROUBO MAJORADO E EXTORSÃO MEDIANTE SEQUESTRO. VIOLAÇÃO DO ART. 69 DO CP. PLEITO DE RESTABELECIMENTO DO CONCURSO MATERIAL. ÚNICA AÇÃO RECONHECIDA PELO TRIBUNAL DE ORIGEM. AFASTAMENTO DO ENTENDIMENTO. INVIABILIDADE. ÓBICE DA SÚMULA 7/STJ.
+Recurso especial não conhecido.
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Paraná, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça local na Apelação Crime n. 0000001-49.2006.8.16.0132.
+Na sentença de fls. 4/17, o recorrido, [NOME], foi condenado às reprimendas de 24 anos e 6 meses de reclusão, em regime inicial fechado, mais pagamento de 418 dias-multa, como incurso nas iras dos arts. 157, § 2º, I e II; e 159, na forma do 69, todos do Código Penal.
+Inconformada com os termos do édito condenatório singular, a defesa interpôs recurso de apelação (fls. 18/35).
+O Tribunal de origem deu parcial provimento ao recurso defensivo, redimensionando as penas do recorrido a 11 anos e 1 mês de reclusão, em regime inicial fechado, mais pagamento de 24 dias-multa (fls. 70/89).
+APELAÇÃO CRIMINAL - EXTORSÃO MEDIANTE SEQUESTRO E ROUBO QUALIFICADO (ARTIGOS 159 E 157, § 2º, INCISOS I E II, AMBOS DO CP) - PRELIMINAR DE INÉPCIA DA DENÚNCIA - INOCORRÊNCIA - AUTORIA E MATERIALIDADE DELITIVAS COMPROVADAS - PALAVRA DA VÍTIMA E DAS TESTEMUNHAS - RELEVÂNCIA - ABSOLVIÇÃO QUE NÃO SE JUSTIFICA - DOSIMETRIA - CIRCUNSTÂNCIAS JUDICIAIS EQUIVOCADAMENTE VALORADAS - READEQUAÇÃO - CONCURSO FORMAL ENTRE OS CRIMES RECONHECIDO, NO CASO - HONORÁRIOS ADVOCATICIOS FIXADOS EM SEDE RECURSAL - POSSIBILIDADE - RECURSO PROVIDO EM PARTE.
+Opostos embargos de declaração pelo recorrente (fls. 103/110), foram rejeitados (fls. 115/123).
+EMBARGOS DE DECLARAÇÃO - APELAÇÃO CRIMINAL - OBSCURIDADE OU QUALQUER OUTRO VÍCIO NÃO VERIFICADOS - INCONFORMISMO - PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO DO JUÍZO - ART. 93, IX DA CF E ART. 155, DO CPP - EMBARGANTE QUE PRETENDE NOVA ANÁLISE PROBATÓRIA - VIA ELEITA INADEQUADA - DECISÃO DEVIDAMENTE FUNDAMENTADA - EMBARGOS REJEITADOS.
+No presente recurso, aponta o recorrente a violação do art. 69 do Código Penal, sob a tese da inaplicabilidade, no caso, do concurso formal em detrimento do concurso material.
+Relata que o juízo sentenciante aplicou aos delitos a regra do concurso material (art. 69 do Código Penal) por entender, precisamente, que o réu realizou as duas condutas delitivas (roubo e extorsão mediante sequestro) mediante pelo menos duas ações ilícitas (sequestro da vítima e subtração dos bens mediante grave ameaça).  ..  A d. Câmara, por sua vez, como visto acima, afastou a aplicação do concurso material por entender que, nesse caso, seria necessário que, após subtrair os bens da vítima, à réu resolvesse também sequestrá-la e exigir resgate (não sendo esse o cenário fático).  ..  Contudo, seguindo essa linha de raciocínio, o [NOME] quer dizer que a subtração de bens da vítima está na linha de desdobramento do sequestro efetuado como preço do resgate, o que não pode ser aceito. Isso porque a conduta dos réus de subtrair bens da vítima não se confunde com a conduta de cercear a sua liberdade, com o intuito de obter vantagem patrimonial, por meio de pagamento de resgate, o que implica no comportamento de terceiro.  ..  Em outras palavras, o recorrido e seu comparsa não identificado sequestraram a vítima com o fim de obter, para si, vantagem patrimonial como preço do resgate. Enquanto a vítima estava em seu poder, dela subtraíram objetos, mas sem a condição de libertá-la. Assim, os bens da vítima foram subtraídos não como condição ou preço do resgate. Nesse caso, a pluralidade de condutas, praticadas com desígnios autônomos, exige o reconhecimento do concurso material de delitos (fl. 146).
+Assevera, assim, que apesar de as ações delituosas classificarem-se como crimes contra o patrimônio, os núcleos do tipo são distintos, de modo que a subtração dos bens não se encontra na linha de desdobramento da extorsão mediante sequestro. Assim, resta clara a pluralidade de condutas, praticadas com desígnios autônomos.  ..  Diante da pluralidade de condutas praticadas com desígnios autônomos, impossível a aplicação do concurso formal, sendo o caso de emprego do concurso material (fls. 147/148).
+Pede o conhecimento e o provimento do recurso para que seja reconhecido o concurso material, nos termos da sentença de primeiro grau.
+Oferecidas contrarrazões (fls. 160/165), o recurso especial foi admitido na origem (fls. 169/173).
+O parecer do Ministério Público Federal é pelo provimento do Recurso Especial interposto pelo Ministério Público Estadual para reformar o acórdão recorrido, reconhecendo a violação ao art. 69, do Código Penal, restabelecendo a sentença condenatória de primeiro grau, de modo a aplicar, de acordo com os precedentes do STJ e STF, as regras do concurso material ao presente caso (fl. 200).
+É o relatório.
+A pretensão recursal direciona-se, em síntese, ao reconhecimento do concurso material entre os delitos de roubo e de extorsão mediante sequestro.
+A Corte de origem tratou do tema da seguinte forma (fls. 84/86 - grifo nosso):
+ ..
+Merece correção a sentença também quanto a aplicação do concurso material entre os crimes imputados ao réu.
+No presente caso, segundo relatado pela vítima e descrito na denúncia, os crimes foram praticados mediante uma única ação, a extorsão mediante sequestro quando subjugaram a vítima e a conduziram até zona rural de Peabiru e, no trajeto, subtraíram o dinheiro e cartões bancários que estavam na carteira do ofendido dentro do porta-luvas do veículo.
+ ..
+Assim, na mesma ação o réu praticou os dois crimes descritos na denúncia.
+ ..
+Haveria concurso material se, após subtrair os bens da vítima, o réu resolvesse também sequestrá-la e exigir resgate, o que não ocorreu.
+Como mencionado, o réu, já com a vítima subjugada com o propósito de exigir resgate, se apoderou do dinheiro e cartões que estava na sua carteira.
+Em razão disso, aplica-se a incidência do concurso formal entre os crimes previstos no art. 159 e 157, § 2º, incisos I e II, todos do Código Penal.
+ ..
+Da leitura do trecho acima transcrito, verifica-se que o Tribunal a quo foi enfático ao afirmar que os crimes foram praticados mediante uma única ação, a extorsão mediante sequestro quando subjugaram a vítima e a conduziram até zona rural de Peabiru e, no trajeto, subtraíram o dinheiro e cartões bancários que estavam na carteira do ofendido dentro do porta-luvas do veículo, (..) que na mesma ação o réu praticou os dois crimes descritos na denúncia (grifo nosso).
+Com efeito, na presente hipótese, para desconstituir o quanto delineado pelo Tribunal paranaense seria necessário o revolvimento do arcabouço fático-probatório, medida esta inviabilizada na via eleita, ante o óbice constante da Súmula 7/STJ.
+A corroborar, mutatis mutandis:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXTORSÃO MEDIANTE SEQUESTRO. PRETENSÃO DE RECONHECIMENTO DO CONCURSO FORMAL DE CRIMES. INVIABILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULAS 7/STJ E 279/STF. RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA NÃO APONTADA.
+I. O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias no âmbito dos recursos extraordinários. (Súmula 07/STJ e Súmula 279/STF).
+II. O recurso especial interposto com fulcro no art. 105, inciso III, alínea c, da Constituição Federal exige a demonstração do dissídio jurisprudencial, através da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o v. acórdão recorrido e o eventual paradigma (arts. 541, parágrafo único, do CPC e 255, § 2º, do RISTJ), o que não ocorreu na espécie.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 460.287/RJ, Ministro Felix Fischer, Quinta Turma, DJe 1º/9/2015 - grifo nosso).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
