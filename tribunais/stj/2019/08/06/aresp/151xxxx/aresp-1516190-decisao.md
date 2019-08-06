@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado por CINTIA IZABEL SELBACH contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+TRIBUTÁRIO IMPOSTO DE RENDA RENDIMENTOS RECEBIDOS DE FORMA ACUMULADA NA VIA JUDICIAL JUROS DE MORA ARGUIÇÃO DE INCONSTITUCIONALIDADE 5020732-1120134040000 DECADÊNCIA REVISÃO DO LANÇAMENTO.
+Quanto à controvérsia, pela alínea a do permissivo constitucional, alega violação dos arts. 150, § 4º, e 173, I, do CTN, além do art. 12, V, da Lei n. 9.250/95, no que concerne à possibilidade de restituição do imposto de renda retido na fonte a maior no ano de 2003 relativos ao IRPF incidente sobre aos valores pela recorrente recebidos no ano de 1998 alcançados pela decadência, trazendo o(s) seguinte(s) argumento(s):
+Reconhece a v. decisão recorrida, por isso, que por respeito aos arts. 173, I, c/c o art. 150, § 4º, parte final, do CTN, em razão da decadência, não é possível à Recorrida exigir da Recorrente Imposto de Renda sobre aqueles valores recebidos no ano de 1998.
+Logo, e por decorrência, não poderia a v. decisão recorrida, dando ao art. 12 da Lei nº 9.250/95 interpretação que acaba por afastar os efeitos da decadência e violar a vigência das normas acima comentadas, indeferir a compensação/restituição que a Recorrente pretendeu levar e efeito na Declaração de Ajuste do ano Calendário de 2004 (ano base 2003) (fl. 408).
+A locução  correspondente aos rendimentos incluídos na base de cálculo  constante da parte final do inciso V do art. 12 da Lei nº 9.250/95, deve, aqui, ser lido em harmonia com a decadência reconhecida e proclamada pela própria decisão recorrida, que assim não tendo feito, acabou por lhe alcançar interpretação que violou a vigência dos arts. 173, I, c/c o art. 150, § 4º, parte final, do CTN (fl. 409).
+É o relatório. Decido.
+Na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
