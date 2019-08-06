@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo apresentado pelo MUNICÍPIO DE CAMARAGIBE contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim ementado:
+EMENTA. PROCESSO CIVIL. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. EXTINÇÃO POR QUITAÇÃO DO DÉBITO FISCAL NA ESFERA ADMINISTRATIVA APÓS AJUIZAMENTO DA AÇÃO E ANTERIORMENTE A CITAÇÃO DO DEVEDOR. EXTINÇÃO DA EXECUÇÃO SEM CONDENAÇAO EM VERBA HONORÁRIA. DUAS CORRENTES DISSONANTES NESTE TJPE. ENTENDIMENTO ATUAL DO STJ PELA CONDENAÇÃO. JULGADOS NÃO FORAM REALIZADOS EM SEDE DE RECURSOS REPETITIVOS. AUSÊNCIA EFEITO VINCULANTE. APELO A QUE SE NEGA PROVIMENTO. A UNANIMIDADE.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp n. 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/6/2018).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
