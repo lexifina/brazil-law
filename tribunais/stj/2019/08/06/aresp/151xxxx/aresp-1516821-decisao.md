@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo apresentado pelo DEPARTAMENTO NACIONAL DE PRODUÇÃO MINERAL - DNPM contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+DIREITO PROCESSUAL CIVIL - AGRAVO INTERNO - EXECUÇÃO FISCAL - TAXA ANUAL POR HECTARE - PRESCRIÇÃO OCORRÊNCIA - HONORÁRIOS ADVOCATÍCIOS.
+Quanto à primeira controvérsia, alega violação do art. 47, inciso II, da Lei n. 9.821/1999, com redação da Lei n. 10.852/2004, trazendo o seguinte argumento:
+A contrariedade ao art. 47, II, da Lei n. 9821/99 (redação da Lei n. 10852/04) é flagrante porquanto embora o v. acórdão recorrido se refira a inexistência de prazo decadencial para os débitos cobrados nestes autos, deu como prescritos, mesmo que o ajuizamento da ação tenha ocorrido em (fl. 198);
+Quanto à segunda controvérsia, alega violação do art. 174, inciso I, do Código Tributário Nacional, trazendo, por sua vez, o seguinte argumento:
+O artigo 174, I, do Código Tributário Nacional no tocante a prescrição qüinqüenal, quando julga prescrito crédito da Autarquia, não considerando o momento da constituição definitiva do crédito e os prazos de prazos de suspensão do prazo prescricional (fl. 198).
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que se aponta a violação do art. 47, II, da Lei n. 9.821/1999, sendo que tal dispositivo legal é inexistente.
+Isso porque "as razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o julgado recorrido deve ser reformado. A narrativa acerca da legislação que rege o tema em debate, sem que se aponte a contrariedade ou a negativa de vigência pelo julgado recorrido, não preenchem os requisitos formais de admissibilidade recursal" (AgInt no REsp n. 1.532.990/MT, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/2/2019).
+Confiram-se ainda os seguintes precedentes: AgRg nos EDcl nos EDcl no AREsp n. 334.099/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 22/11/2018; AgInt no AREsp n. 1.261.044/AM, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 12/9/2018; e AgInt no AREsp n. 1.291.631/GO, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 30/8/2018.
+Quanto à segunda controvérsia, na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
