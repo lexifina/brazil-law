@@ -1,0 +1,14 @@
+DECISÃO
+CLAUDINEY DA SILVA FEITOSA alega sofrer constrangimento ilegal diante do acórdão do Tribunal de Justiça do Estado do Amazonas no HC n. 4004490-58.2013.8.04.0000.
+O insurgente foi condenado pelo Tribunal do Júri da Comarca de Manaus - AM pela prática do delito do art. 121, § 2º, I e IV, por 3 vezes (1 consumado e 2 tentativas) e 288, parágrafo único, todos do Código Penal.
+O Tribunal de origem conheceu em parte do habeas corpus impetrado pela defesa e, na parte conhecida, o julgou prejudicado.
+Os impetrantes alegam, em síntese, os seguintes pontos: a) a tempestividade do recurso ordinário inadmitido pela Corte antecedente; b) a nulidade do julgamento do Tribunal do Júri; c) a anulação da sentença, por ausência de fundamentação no tocante às duas tentativas de homicídio, bem como a redução da reprimenda na fração máxima de 2/3; d) a declaração da prescrição da pretensão executória do crime de associação criminosa.
+Não houve pedido liminar e as informações foram prestadas às fls. 287-297 e 299-303.
+O Ministério Público Federal, em parecer do Subprocurador-Geral da República [NOME], às fls. 306-311, opinou pelo não conhecimento do habeas corpus.
+Decido.
+A Corte antecedente não conheceu da impetração acerca das ilegalidades ora deduzidas. Assim, não é possível a análise direta da controvérsia, sob pena de indevida supressão de instância, uma vez que não foi inaugurada a competência desta Corte Superior.
+Contudo, observo que o Tribunal a quo não fez nenhum juízo de valor sobre a alegada nulidade da Sessão do Júri ou da sanção imposta ao paciente. O trânsito em julgado da condenação não impede a verificação de flagrantes ilegalidades passíveis de correção via habeas corpus, de ofício, consoante o art. 654, § 2º, do CPP.
+O recurso em sentido estrito decorrente de sentença de pronúncia possui efeito suspensivo a impedir o julgamento do réu pelo Tribunal do Júri, enquanto estiver pendente o seu julgamento (Art. 584, caput, e § 2º, do CPP). A questão é relevante para o direito de ir e de vir do acusado.
+Assim, mesmo em face do não conhecimento do mandamus, o Tribunal de Justiça deveria haver se manifestado sobre eventual existência de flagrante ilegalidade no ato judicial impugnado, no que se refere à nulidade da sessão do Júri e, eventualmente, à dosimetria da pena, a justificar (ou não) a concessão da ordem de ofício. Essa ausência de manifestação caracteriza a negativa de prestação jurisdicional.
+À vista do exposto, indefiro liminarmente o habeas corpus. No entanto, por verificar flagrante ilegalidade na negativa de prestação jurisdicional, concedo o habeas corpus, in limine, para determinar ao Tribunal estadual que se manifeste, com urgência, sobre a nulidade da Sessão do Júri e, eventualmente, sobre a dosimetria da reprimenda, questões suscitadas no HC n. 4004490-58.2013.8.04.0000, como entender de direito.
+Publique-se e intimem-se.
