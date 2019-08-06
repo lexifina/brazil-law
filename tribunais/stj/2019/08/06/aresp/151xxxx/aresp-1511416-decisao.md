@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE EVICÇÃO E DANOS MORAIS - ANÚNCIO DE VEÍCULO PARTICULAR EM SITE DA INTERNET - ESTELIONATÁRIO - CADEIA DE CONSUMO - PROVEDOR DE CONTEÚDO - EXCLUSÃO - DANOS MORAIS E RESTITUIÇÃO - IMPOSSIBILIDADE (fl. 435).
+Alega violação do art. 945 do CC, no que concerne à necessidade de responsabilização da agravada quanto ao dano sofrido pela agravante.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente não demonstrou, de forma direta, clara e particularizada, como o acórdão recorrido violou o dispositivo de lei federal apontado, o que atrai, por conseguinte, a aplicação do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, o Superior Tribunal de Justiça já se manifestou na linha de que "a argumentação recursal em torno de normas infraconstitucionais não pode ser meramente genérica, sem o desenvolvimento de teses efetivamente vinculadas a elas e sem a demonstração objetiva de como o acórdão recorrido as teria violado. Incidência da Súmula 284/STF" (REsp n. 1.293.548/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/6/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.442.952/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/2/2017; EDcl no AgRg no AREsp n. 422.103/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 13/10/2014; AgRg no AREsp n. 413.345/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 22/10/2015; e AgRg no AREsp n. 634.545/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/5/2015.
+Ademais, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que o dispositivo apontado como violado não foi analisado pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
