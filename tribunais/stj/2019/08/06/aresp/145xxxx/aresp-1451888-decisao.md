@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados e (b) aplicação da Súmula n. 7 do STJ.
+O TJSP negou provimento ao recurso em acórdão assim ementado (e-STJ fl. 59):
+ACIDENTE DE TRÂNSITO. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS. DENUNCIAÇÃO DA LIDE. PLEITO QUE, NA VERDADE, OBJETIVA A ALTERAÇÃO NA FORMAÇÃO SUBJETIVA DO PROCESSO. ALEGAÇÃO DE QUE OUTRA SERIA A FABRICANTE DO VEÍCULO E, PORTANTO, A VERDADEIRA LEGITIMADA PARA A CAUSA. AUSÊNCIA DE ENQUADRAMENTO LEGAL, POR NÃO SE TRATAR DE DEMANDA DE REGRESSO. INDEFERIMENTO QUE PREVALECE. SIMPLES PROVOCAÇÃO VISANDO A CORREÇÃO DO VÍCIO DE LEGITIMIDADE PASSIVA, QUE DEPENDE DA VONTADE DA AUTORA PARA SE CONCRETIZAR. AGRAVO IMPROVIDO. A denunciação da lide enseja ao denunciante a possibilidade de obter o reconhecimento do direito de regresso na eventualidade de ser condenado. No caso em exame, pretende a parte denunciante, em verdade, obter a alteração subjetiva do processo, fazendo com que terceira venha ocupar o lugar daquela primitivamente indicada como a fabricante do veiculo, como forma de corrigir vício de legitimidade passiva. A tanto não se destina a denunciação da lide (CPC artigo 125), o que torna inviável a iniciativa. Trata-se de matéria de iniciativa exclusiva da parte autora, a quem cabe o direito subjetivo de indicar quem deve figurar no polo passivo.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 68/71).
+Nas razões do recurso especial (e-STJ fls. 73/84), interposto com base no art. 105, III, "a", da CF, o recorrente apontou violação do art. 125, II, do CPC/2015, afirmando que "não só a Cia. Seguradora nos limites da apólice deverá integrar a lide (situação já em processamento) como também o fabricante e fornecedor do veículo que admitiu o "recall" tardio, foi constado o real defeito no sistema de freios dentro de sua concessionária autorizada e reparado, cuja prova acompanhou a contestação, sendo o fato determinante pelo acidente" (e-STJ fl. 82).
+Não foram oferecidas contrarrazões (e-STJ fl. 88).
+No agravo (e-STJ fls. 93/102), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 104).
+É o relatório.
+Decido.
+A Corte estadual, ao analisar as provas constantes dos autos, entendeu que "o verdadeiro objetivo do recorrente não é o exercício do direito de regresso. Quer, sim, que a empresa seja compelida a integrar o processo e, dessa forma, condenada a reparar os danos, invocando a existência de responsabilidade dela" e que assim "bem se percebe que para tanto não se presta a denunciação da lide; seria a hipótese de eventual chamamento ao processo, instrumento de que não se fez uso" conforme assentou ainda (e-STJ fls. 61/62):
+A denunciação da lide é voltada a possibilitar o exercício do direito de regresso, permitindo à parte denunciante demandar desde logo, objetivando o ressarcimento daquilo que eventualmente vier a pagar em razão de lhe ser desfavorável o julgamento. Esse direito de regresso deve constituir decorrência automática da lei ou do contrato.
+(..)
+Oportuno ressaltar que a autora, unicamente, tem o direito subjetivo de indicar com quem deseja demandar, podendo, eventualmente, optar pela alteração, diante da notícia da ausência de legitimidade de quem figura como polo passivo. Não há como compeli-la a efetuar a alteração.
+Enfim, não se tratando de exercício do direito de regresso, não há como deixar de prevalecer a solução adotada pelo Juízo de primeiro grau.
+Com efeito, rever a conclusão do Tribunal de origem, na forma pretendida pelo recorrente, demandaria o reexame do acervo fático dos autos, procedimento vedado em sede especial, a teor do enunciado n. 7 da Súmula do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
