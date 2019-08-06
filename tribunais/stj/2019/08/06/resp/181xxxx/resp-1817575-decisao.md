@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJPR que recebeu a seguinte ementa (e-STJ fl. 130):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - SEGURO DE VIDA EM GRUPO - INVALIDEZ PERMANENTE PARCIAL POR ACIDENTE - PEDIDO DE COMPLEMENTAÇÃO DA INDENIZAÇÃO - TABELA PARA GRADUAÇÃO DA INVALIDEZ DO CNSP (CIRCULAR Nº 29, DE 20/12/1991) -CUMPRIMENTO DO DEVER DE INFORMAÇÃO DA SEGURADORA VERIFICADO NO CASO CONCRETO - SENTENÇA MANTIDA, COM A MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS, NOS TERMOS DO ART. 85, §§2º E 11º - RECURSO CONHECIDO, A QUE SE NEGA PROVIMENTO.
+No especial (e-STJ fls. 151/159), fundamentado no art. 105, III, "a", da CF, o recorrente alega, além de divergência jurisprudencial, ofensa aos arts. 6º, III, 24 e 46 do CDC e 801 do CC/2002, sustentando, em síntese, que a seguradora limitou-se a informar à estipulante sobre as condições do seguro, e não ao segurado, que é o consumidor final do serviço.
+A recorrida apresentou contrarrazões (e-STJ fls. 184/185).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 137):
+Vale dizer, consta da apólice a necessidade de limitação da indenização, isso porque, ao indicar o valor da indenização inseriu junto a expressão "até", o que indica que existiria graduação no pagamento de possíveis indenizações.
+Além disso, restam definidas nas Condições Especiais da Cobertura Adicional de Invalidez Permanente Total ou Parcial por Acidente (mov. 21.6, facilmente encontradas, através do endereço eletrônico da requerida, ou através da estipulante, empregadora da autora) todas as hipóteses de cobertura securitária contratadas, com seus requisitos e exigências específicas, inclusive a necessidade de verificação do grau de invalidez para o pagamento da indenização de invalidez parcial permanente por acidente.
+E ainda (e-STJ fls. 79/80):
+Vale dizer, consta da apólice a necessidade de limitação da indenização, isso porque, ao indicar o valor da indenização inseriu junto a expressão "até", o que indica que existiria graduação no pagamento de possíveis indenizações.
+Além disso, restam definidas nas Condições Especiais da Cobertura Adicional de Invalidez Permanente Total ou Parcial por Acidente (mov. 21.6, facilmente encontradas, através do endereço eletrônico da requerida, ou através da estipulante, empregadora da autora) todas as hipóteses de cobertura securitária contratadas, com seus requisitos e exigências específicas, inclusive a necessidade de verificação do grau de invalidez para o pagamento da indenização de invalidez parcial permanente por acidente.
+Importa ressaltar que não se trata de restringir o alcance do contrato, mas de lhe dar a estrita interpretação, nos exatos limites do que convencionaram as partes, pois foi em função disso que a seguradora calculou o prêmio (TJ-SP - APL: 90000114220098260362 SP 9000011-42.2009.8.26.0362, Relator: Hugo Crepaldi, Data de Julgamento: 09/04/2015, 25" Câmara de Direito Privado, Data de Publicação: 09/04/2015).
+Frisa-se que o certificado individual de seguro (evento 1.11, cláusulas l", 6a e 10"), prevê que a Invalidez permanente total ou parcial por acidente - IPA, depende dos percentuais previstos nas condições gerais.
+Para alterar os fundamentos acima transcritos e reconhecer a violação do dever de informação clara ao consumidor, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
