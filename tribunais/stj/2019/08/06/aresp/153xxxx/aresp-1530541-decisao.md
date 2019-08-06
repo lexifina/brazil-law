@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo apresentado por UNIÃO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+APELAÇÃO ADMINISTRATIVO MILITAR INCOMPETÊNCIA DA JUSTIÇA FEDERAL OPÇÃO DO DEMANDANTE DECADÊNCIA TERMO INICIAL CIÊNCIA DO ATO IMPUGNADO FILHA PENSIONISTA DEPENDENTE ASSISTÊNCIA MÉDICO - HOSPITALAR
+É o breve relatório do necessário. Decido.
+Incide, na espécie, o óbice da Súmula n. 284/STF uma vez que há indicação genérica de violação da Lei n. 8.213/91, da MP n. 2.215/2001 e da Lei n. 6.880/80, sem particularizar quais dispositivos teriam sido violados, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Nos termos da jurisprudência desta Corte, a alegação genérica de violação da lei federal, sem indicar, de forma precisa, o artigo, parágrafo ou alínea da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei, demonstra a deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional, conforme os termos da Súmula n. 284 do STF" (AgInt no REsp n. 1.475.626/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 4/12/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 546.951/MT, relator Ministro Felix Fischer, Quinta Turma, DJe de 22/9/2015; AgRg no AREsp n. 605.423/SC, relator Ministro Raul Araújo, Quarta Turma, DJe de 1/10/2015; e REsp n. 1.304.871/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 1/7/2015.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
