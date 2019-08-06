@@ -1,0 +1,16 @@
+Despacho: (Petição STF 44.087/20019) Trata-se de petição nominada agravo regimental (doc. 61) formulada por João José de Freitas e outros, objetivando a reforma de acórdão proferido pela Primeira Turma desta Corte que, por unanimidade, desproveu os embargos de declaração opostos contra o agravo interno nos embargos de declaração no recurso extraordinário com agravo. A decisão publicada no DJe de 27/3/2019, restou assim ementada:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSO PENAL. CRIME DE RESPONSABILIDADE DE PREFEITO. DECRETO-LEI 201/1967. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. ERRO MATERIAL. INOCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. RECURSO MANIFESTAMENTE PROTELATÓRIO. DETERMINADA A CERTIFICAÇÃO DO TRÂNSITO EM JULGADO, COM A CONSEQUENTE BAIXA IMEDIATA DOS AUTOS AO JUÍZO DE ORIGEM, INDEPENDENTEMENTE DA PUBLICAÇÃO DO ACÓRDÃO. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.” (Doc. 48 e 54 – grifei)
+    Insta ressaltar que a primeira decisão monocrática, exarada por esta relatoria e publicada no DJe de 18/10/2018, determinou o desprovimento do recurso extraordinário com agravo em razão da ausência da preliminar de repercussão geral, pressuposto essencial ao conhecimento do apelo extremo. (Doc. 30)
+    Os embargos de declaração opostos em face dessa decisão foram monocraticamente desprovidos, com fundamento nos artigos 1.024, § 2º, do CPC/2015 e 619 do CPP, ante à ausência de ambiguidade, obscuridade, contradição ou omissão da decisão judicial embargada. (Doc. 35)
+    Impende consignar, ainda, que os peticionantes interpuseram agravo interno, o qual foi desprovido, por unanimidade, na sessão presencial do dia 18/12/2018, em razão da ausência de impugnação específica aos argumentos da decisão agravada. O acórdão foi publicado no DJe de 12/2/2019. (Doc. 42 e 45)
+    Contra o referido acórdão foram opostos novos embargos de declaração, que apenas repisaram as alegações do recurso extraordinário e do agravo interno. À luz do caráter protelatório dos inúmeros recursos desprovidos interpostos, a Primeira Turma desta Corte, novamente por unanimidade, desproveu os embargos de declaração opostos, determinando o trânsito em julgado e a baixa imediata dos autos à origem. (Doc. 48 e 54)
+    O trânsito em julgado dessa decisão ocorreu em 12/3/2019. (Doc. 48 e 52)
+    Nada obstante, as partes recorrentes atravessaram petição, nominada agravo regimental, reiterando os mesmos argumentos expostos nos recursos anteriores. (Doc. 49)
+    Da análise dos autos é possível observar que a parte se valeu dos meios recursais cabíveis e teve a jurisdição devidamente prestada por decisões fundamentadas, embora contrárias aos seus interesses. Entretanto, fica evidente o abuso do direito de recorrer, uma vez que se observa a interposição de inúmeros recursos infundados e protelatórios.
+    Assim, nada há a prover quanto à petição apresentada, tendo em vista o trânsito em julgado do acórdão proferido pela Primeira Turma desta Corte, consoante certidão constante no documento 52.
+    Ex positis, DETERMINO a baixa imediata dos autos.
+    Publique-se.
+    Brasília, 6 de agosto de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
