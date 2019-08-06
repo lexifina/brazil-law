@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob aplicação da Súmula n. 7 do STJ.
+O TJSC deu parcial provimento ao recurso em acórdão assim ementado (e-STJ fls. 464/466):
+PROCESSUAL CIVIL - NULIDADE DA REDISTRIBUIÇÃO RECURSAL - INOCORRÊNCIA
+O juízo prevento é o juízo natural para o julgamento de ações que têm por base a mesma situação fática. "Serão reunidos para julgamento conjunto os processos. que possam gerar risco de prolação de decisões conflitantes ou contraditórias caso decididos separadamente, mesmo sem conexão entre eles" (CPC, art. 55, § 3o). Precedente: IAC n. 0017699-38.2013.8.24.0023, Desª. Maria do Rocio Luz Santa Rítta).
+PROCESSUAL CIVIL - SUSPENSÃO DOS AUTOS - DESNECESSIDADE - PREJUDICIAL EXTERNA NÃO CARACTERIZADA
+A ação civil pública, ajuizada pelo Ministério Público. Federal com o escopo de proteger direito coletivo e transindividual, não constitui prejudicial externa determinante da suspensão do presente processo individual, que analisa a responsabilidade civil sob a ótica da teoria do risco criado, bem como as peculiaridades inerentes a cada ofendido e os prejuízos efetivamente comprovados, passando ao largo da discussão atinente à ocorrência ou não de dano ambiental.
+PROCESSUAL CIVIL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - VAZAMENTO DE ÓLEO DOS TRANSFORMADORES DA SUBESTAÇÃO DA CELESC - CERCEAMENTO DE DEFESA ALEGADO PELA CELESC - INOCORRÊNCIA - CPC/1973, ART. 427 (NCPC, ART. 472)
+1 Sob a égide do CPC/1973, "não configura cerceamento de defesa, quando o magistrado, destinatário final da prova, verificando suficientemente instruído o processo e embasando-se em elementos de prova e fundamentação bastantes, ante os princípios da livre admissibilidade da prova e do livre convencimento motivado, corolários do princípio da persuasão racional, entende desnecessária a dilação probatória e julga antecipadamente a lide" (AC n. 2016.016237-8, Des. Henry Petry. Júnior).
+2 Dispensável a instrução processual pretendida no caso concreto, por não ser crucial para subsidiar a decisão ou demonstrar a ausência do nexo causai, seja em razão da falta de interesse da parte, que obteve a reforma da sentença em seu favor, ou da existência de suficientes evidências, no caso, fatos notórios e incontroversos (NCPC, art. 374; CPC/1973, art. 334).
+RESPONSABILIDADE CIVIL - DANOS EMERGENTES E LUCROS CESSANTES - ADIMPLEMENTO ADMINISTRATIVO - AUSÊNCIA DE COMPROVAÇÃO DOS PREJUÍZOS EXCEDENTES - ÔNUS QUE INCUMBIA AO AUTOR, A TEOR DO ART. 333, I, DO CPC/1973 (NCPC, ART. 373, I) - REFORMA DA SENTENÇA
+1 A inexistência de documento indispensável à propositura da ação que evidencie concretamente os prejuízos sofridos pelo autor impõe a improcedência do pedido de indenização a título de danos materiais, mormente porque já adimplida pela demandada administrativamente.
+2 A prova testemunhai, ademais, em casos semelhantes, somente seria admissível se houvesse início de prova documental, pois inviável a produção exclusiva de prova testemunhai para evidenciar ou mensurar os danos materiais sofridos, mormente em se tratando de lucros cessantes.
+DANOS MORAIS - CABIMENTO - REDUÇÃO DO QUANTUM
+1 O Superior Tribunal de Justiça já sufragou o entendimento de que o desassossego intenso de pescador profissional artesanal, o que inclui os maricultores produtores ou extrativistas, causado pela privação das condições de trabalho, em conseqüência de dano ambiental, justifica a indenização por dano moral (REsp n. 1.114.398/PR, 2a Seção, Min. Sidnei Beneti).
+2 No caso dos autos, como a angústia pelo receio da privação do meio de subsistência decorreu não propriamente da toxicidade do material despejado no mar, mas sim do embargo preventivo determinado pelas autoridades administrativas, aliada à ausência de conseqüências mais gravosas ou imprevisíveis, o correspondente valor compensatório deve obedecer rigorosamente aos princípios da razoabilidade e proporcionalidade.
+RESPONSABILIDADE POR DANO PROCESSUAL - LITIGÂNCIA DE MÁ-FÉ - NCPC, ARTS. 79 A 81 - IMPOSIÇÃO DA MULTA DE OFÍCIO
+Conforme o art. 81 do Código de Processo Civil de 2015, o juiz condenará o litigante de má-fé, ex officio ou a requerimento, ao pagamento de" multa entre um e dez por cento do valor corrigido da causa, para indenizar a parte contrária pelos prejuízos sofridos. Precedente: AC n. 0017672-55.2013.8.24.0023, Des. Luiz Cézar Medeiros.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 533/545).
+Nas razões do recurso especial (e-STJ fls. 549/559), interposto com base no art. 105, III, "a", da CF, o recorrente apontou violação dos arts. 927 do CC/2002 e 374 do CPC/2015, afirmando que o acórdão "deixou de considerar que os danos materiais e morais causados a toda a comunidade extrativista da região se estenderam muito além da área ambientalmente embargada, posto que os extratores, não só tiveram perda com a comercialização, mas também deixaram de extrair os mariscos, justamente porque houve interdição ambiental, ainda que por "alguns dias"", e que, com base nisso, sustentou que "todos estes fatos não dependem de provas (..) são públicos e notórios" (e-STJ fls. 555/556).
+Alegou violação dos arts. 14, § 1º, da Lei n. 6.938/1971 e 225, § 3º, da CF, assinalando que "uma vez comprovado, por fatos públicos e notórios, que todos os maricultores da região de Florianópolis sofreram danos, em maior ou menor grau, tanto morais, quanto materiais, pela poluição causada pela ré, imperiosa é a reforma do julgado para assegurar a aplicação da lei federal ao caso concreto, impondo-se à ré, o dever de indenizar, e garantindo a autora, o direito à reparação integral, o que foi parcialmente sonegado pelo v. acórdão recorrido" (e-STJ fl. 558).
+Foram oferecidas contrarrazões (e-STJ fls. 605/616).
+No agravo (e-STJ fls. 635/643), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 653/658).
+É o relatório.
+Decido.
+Inviável a análise de ofensa a dispositivos constitucionais, porquanto a competência desta Corte Superior restringe-se à interpretação e uniformização do direito infraconstitucional federal, sob pena de usurpação da competência atribuída ao STF. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA.
+VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME PELO STJ. VIOLAÇÃO A DISPOSITIVOS DE LEI. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. OFENSA AO ART. 1.022 DO CPC/2015 NÃO SUSCITADA. INVIABILIDADE DE PREQUESTIONAMENTO FICTO.
+REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Inviável a análise de ofensa aos dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada à Corte Suprema.
+(..)
+4. A revisão das conclusões estaduais demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências inviáveis no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7/STJ.
+5. Ausência de impugnação a fundamento constante do acórdão estadual. Súmula 283/STF.
+6. Razões recursais insuficientes para a revisão do julgado.
+7. Agravo interno desprovido.
+(AgInt no AREsp 1.372.898/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/2/2019, DJe 13/3/2019.)
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do especial, por falta de prequestionamento.
+Assim, a Justiça local não se manifestou quanto aos arts. 927 do CC/2002, 374 do CPC/2015 e 14, § 1º, da Lei n. 6.938/1971. Dessa forma, sem ter sido objeto de debate na decisão recorrida, a matéria carece de prequestionamento e sofre, por conseguinte, o empecilho da Súmula n. 211/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
