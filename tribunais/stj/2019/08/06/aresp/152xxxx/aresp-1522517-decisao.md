@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado pelo ESTADO DE ALAGOAS contra a decisão que não admitiu seu recurso especial, fundamentado no art. 105, inciso III, alínea a, da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim resumido:
+APELAÇÃO CÍVEL. DIREITO CONSTITUCIONAL. AÇÃO DE CONHECIMENTO COM PEDIDO DE LIMINAR INAUDITA ALTERA PARTE. ADICIONAL DE INSALUBRIDADE. COMPATIBILIDADE DE SEU RECEBIMENTO COM A PERCEPÇÃO DE SUBSÍDIO. BASE DE CÁLCULO. SUBSÍDIO MÍNIMO DA CATEGORIA. DECISÃO DO PLENO DESTE TRIBUNAL DE JUSTIÇA EM SEDE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. INCIDÊNCIA DOS REFLEXOS NO DÉCIMO TERCEIRO E FÉRIAS. AUSÊNCIA DE CONDENAÇÃO NESSE SENTIDO. RECURSO CONHECIDO PARCIALMENTE. PROVIMENTO PARCIAL. UNANIMIDADE. (fl. 208)
+Alega violação dos arts. 240 do Código de Processo Civil e 405 do Código Civil, no que concerne ao termo inicial dos juros de mora, trazendo o seguinte argumento:
+O Acórdão em comento decidiu pela modificação da sentença relativamente ao termo inicial de incidência dos juros de mora. Com efeito, fixou como sendo do efetivo prejuízo da obrigação o termo a quo da contagem de juros, em notável ofensa aos artigos 240 do Código de Processo Civil de 2015 e 405 do Código Civil Brasileiro.
+ ..
+Ao aplicar tal entendimento o douto Tribunal de Alagoas equivocou- se em conceituar a obrigação em comento como líquida, afinal nos termos legais a obrigação de pagar o adicional de insalubridade seria com base de cálculo o menor subsídio paga aos servidores estaduais e não da respectiva categoria como entendeu a citada Corte. (fls. 228-229).
+É o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão relativa à iliquidez da obrigação não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
