@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME], contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL CUMPRIMENTO DE SENTENÇA PENHORA DE - DIREITOS CREDITÍCIOS CONTRATO DE ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL POSSIBILIDADE PRESCRIÇÃO DA PRETENSÃO EXECUTIVA PRECLUSÃO CONHECIDO EM PARTE NÃO PROVIMENTO (fls. 283).
+Quanto à controvérsia apresentada, alega violação dos arts. 206, §3º, V, e 2.018 do CC, trazendo, em síntese, os seguintes argumentos:
+Em sede de Agravo de Instrumento, demonstrou-se ao Tribunal a quo a absoluta impossibilidade de restar direcionada ao recorrente qualquer pretensão executiva, uma vez que a mesma já se encontrara consumada pelo fenômeno da prescrição.
+Arguiu-se que o prazo prescricional aplicado ao presente caso deveria ser o previsto no novo Código Civil (art. 206, §3º, V), qual seja, de 03 (três) anos e contados da entrada em vigor do atual diploma (11.01.2003).
+Entretanto, omitindo-se quanto aos pontos veiculados, o órgão julgador limitou-se a informar que "trata-se de matéria já apreciada por esta Corte Regional" e, portanto, que não comportaria rediscussão (fls. 304/305).
+É o relatório.
+Decido.
+Constata-se que o acórdão recorrido assim decidiu:
+No tocante à alegação de prescrição da pretensão executiva; trata-se de matéria já apreciada por esta Corte Regional, no acórdão proferido no agravo de instrumento nº 112832 - CE (fls 119/120), julgado em 14/06/2012, o qual indicou que "considerando que o decisum exequendo transitou em julgado em 18/05/2001 e tendo sido requerida a execução da sentença em 06/06/2003, resta afastado o instituto da prescrição", de modo que não comporta mais análise ou rediscussão, porquanto caracterizada a preclusão consumativa.
+Registra-se, por oportuno, que no AGTR 112832 - CE foi reconhecida a preclusão em relação à responsabilidade do recorrente (fls. 281).
+Incide, portanto, o óbice da Súmula n. 284/STF, eis que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou que: "Não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n.º 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Ademais, aplica-se o óbice das Súmulas 282/STF e 356/STF, porquanto, a tese de defesa atinente à prescrição vintenária das ações pessoais não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Em consonância: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
