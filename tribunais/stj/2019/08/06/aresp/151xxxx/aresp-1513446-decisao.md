@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo apresentado por SONIA COSTA DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+TELEFONIA - AÇÃO DECLARATÓRIA DE IRREGULARIDADE NO APONTAMENTO JUNTO AOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO CC INDENIZAÇÃO POR DANOS MORAIS - IMPROCEDÊNCIA - MANUTENÇÃO - QUESTÃO DECIDIDA COM AMPARO EM PROVA DOCUMENTAL NÃO IMPUGNADA A QUAL DÁ RESPALDO À NEGATIVAÇÃO LEVADA A EFEITO PELA RÉ - AUTORA QUE POSSUÍA VÍNCULO CONTRATUAL COM A REQUERIDA E FICOU INADIMPLENTE TENTANDO OBTER VANTAGEM ILEGAL - CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ CORRETAMENTE APURADA E QUE FICA MANTIDA APELAÇÃO IMPROVIDA.
+Quanto à controvérsia, pela alínea a do permissivo constitucional, alega violação do art. 80 do CPC, no que concerne à inocorrência de litigância de má-fé, trazendo o(s) seguinte(s) argumento(s):
+Da análise dos autos, observa-se que a parte recorrente apenas utilizou de procedimento previsto em lei para defesa de seus interesses, o que é assegurado pelo nosso ordenamento jurídico, não havendo que se falar em condenação por litigância de má-fé por alterar a verdade dos fatos, uma vez que durante o trâmite processual não houve qualquer conduta que se enquadrasse naqueles elencados no art. 80 do CPC supracitado (fl. 142).
+É o relatório. Decido.
+Sobre a questão, o Tribunal de origem manifestou-se nos seguintes termos:
+Constou da sentença que:
+Uma vez demonstrado que a autora deduziu pretensão contra fato incontroverso, pois possuía vínculo contratual com a requerida e ficou inadimplente e, ainda, tentou obter vantagem ilegal por meio deste juízo, em franca violação ao princípio da boa-fé, é de rigor a sua condenação por litigância de má-fé, nos termos do artigo 80, I, do Código de Processo Civil, na forma do art. 90, do CPC. Destaque-se que o advogado da autora possui inúmeros processos desta natureza, inclusive já foi feita comunicação à E.Corregedoria Geral de Justiça.
+ ..
+A litigância de má-fé restou apurada corretamente pela sentença, de forma que fica mantida (fls. 131/132).
+Assim, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
