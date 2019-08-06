@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF contra acórdão do TJRS assim ementado (e-STJ fls. 595/596):
+APELAÇÃO CÍVEL. MANDATOS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PRESCRIÇÃO. TERMO INICIAL. PRESCRIÇÃO INOCORRENTE. O termo inicial do cômputo do prazo prescricional da pretensão de indenização patrimonial é a data em que a parte toma ciência inequívoca da retenção indevida, ocorrida em momento posterior ao levantamento de valores e ao pagamento a menor. Ciência do ilícito que se deu somente com a divulgação pela imprensa de operações da Polícia Federal, em fevereiro de 2014 - fato notório - quando a parte tomou conhecimento da lesão ao seu patrimônio jurídico. Termo inicial. ACORDO CELEBRADO SEM ANUÊNCIA DA PARTE. RESPONSABILIDADE DO ADVOGADO.
+PERDA DE UMA CHANCE. REPARAÇÃO DEVIDA. A teoria da "perda de uma chance" leva em consideração as reais possibilidades de êxito do processo, eventualmente perdidas em razão das alegadas negligência e desídia do advogado.
+Quanto ao valor em execução, no caso, a parte demandante se desincumbiu, nos termos do artigo 373, inciso I, do novo Código de Processo Civil, da prova efetiva de que não havia possibilidade de alteração do valor da condenação, a evidenciar que o acordo homologado não lhe aproveitou. No caso dos autos, a parte não detinha apenas urna expectativa de ganho, mas um crédito consolidado, com base em sentença transitada em julgado, caracterizando-se o acordo celebrado sem a sua anuência como verdadeira renúncia de direitos, para o gue não detinha poderes o réu. INDENIZAÇÃO POR DANO MATERIAL. JUROS DE MORA E CORREÇÃO MONETÁRIA SOBRE A RESTITUIÇÃO DE VALORES. Juros de mora e correção monetária devem fluir desde a data em que realizado o acordo, e não da citação. HONORÁRIOS CONTRATUAIS. ABATIMENTO INDEVIDO. Não faz jus ao pagamento de honorários pelos serviços prestados, pois houve quitação dos honorários advocatícios pelo réu em prestação de contas ao autor. APELO DO AUTOR. INDENIZAÇÃO EXTRAPATRIMONIAL DEVIDA. Demonstrada a irregularidade no agir do demandado, que deixou de proceder ao repasse do proveito econômico decorrente da ação ordinária patrocinada pelo réu em nome da parte autora, retendo indevidamente quantia pertencente a sua cliente, impositiva mostra-se a condenação indenizatória extrapatrimonial. Demonstrados o ato ilícito e o nexo causal, a parte autora faz jus à indenização. CORREÇÃO MONETÁRIA. INCIDÊNCIA A PARTIR DA FIXAÇÃO DO VALOR DOS DANOS MORAIS. SÚMULA 362, STJ. JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL. CITAÇÃO. Em se tratando de responsabilidade contratual, o termo inicial dos juros moratórios sobre a indenização por dano moral é contado da citação.
+APELAÇÃO DO RÉU DESPROVIDA E DO AUTOR PARCIALMENTE PROVIDA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 648/652).
+O recorrente, em suas razões (e-STJ fls. 656/679), aponta ofensa aos arts. 186, 189, 405, 407, 676 e 927 do CC/2002, 373 do CPC/2015 e 22 da Lei n. 8.906/1994. Sustenta, em síntese, (a) ausência de abalo moral, (b) incidência dos juros de mora do dano material a partir da citação e do dano moral da data do arbitramento, (c) aplicação do prazo prescricional a ser considerado a partir da homologação do acordo judicial e (d) necessidade de desconto da condenação imposta dos valores referentes aos honorários advocatícios contratuais.
+Contrarrazões às fls. 686/693 (e-STJ).
+O recurso especial foi admitido na origem (e-STJ fls. 695/699).
+É o relatório.
+Decido.
+No que diz respeito à alegada inexistência de dano moral e ao direito de deduzir da condenação imposta os valores referentes aos honorários advocatícios, verifica-se a pretensão de reexame do conjunto fático-probatório dos autos.
+Sobre os temas, o Tribunal de origem assim se manifestou (e-STJ fls. 607/608):
+Quanto ao desconto de honorários advocatícios contratados entre as partes, mantenho a determinação da sentença, ressaltando que a ninguém é dado beneficiar-se da sua própria torpeza (Nemo auditur propriam turpitudinem allegans), tendo em vista que o requerido omitiu dolosamente valores quando da prestação de contas à parte autora (fl. 218) dando como certa a quantia paga a título de honorários contratuais, contrariando os mais basilares princípios éticos da advocacia e a boa -fé contratual.
+Considerando que houve prestação de contas pelo réu relativamente aos honorários advocatícios contratuais recebidos, descabe o abatimento da verba honorária convencionada.
+(..)
+Com efeito, o ato praticado pelo demandado, que deixou de repassar o proveito econômico decorrente da ação que atuou em nome da parte autora, retendo a quantia sem qualquer motivo, justifica a condenação indenizatória.
+Considerando os fatos acima relacionados, somados à necessidade da parte requerente de postular em juízo para buscar quantia que lhe pertence, resta claro que o ato praticado pelo demandado acabou por gerar dano que extrapola o mero dissabor decorrente das relações sociais.
+Tal fato, definitivamente, materializou dano extrapatrimonial passível de condenação indenizatória.
+Dissentir dos fundamentos do Tribunal a quo a fim de acolher a argumentação do ora recorrente é inviável no âmbito do recurso especial, haja vista o óbice da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Sobre os juros de mora concernentes ao dano material, esta Corte decidiu que são contados desde o momento do desvio de montante relativo ao cliente (AgInt no AgInt no AREsp n. 942.502/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/10/2018, DJe 24/10/2018). Ainda nesse mesmo sentido: REsp n. 687.101/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 6/4/2006, DJe 2/5/2006, e REsp n. 249.382/RS, Relator Ministro RUY ROSADO DE AGUIAR, QUARTA TURMA, julgado em 18/5/2000, DJ 26/6/2000.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. CONTRATUAL. PRESCRIÇÃO DA PRETENSÃO. ADVOGADO. APROPRIAÇÃO INDEVIDA. JUROS DE MORA. TERMO INICIAL. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O termo inicial da prescrição das ações de reparação de danos é contado a partir do momento em que o titular do direito subjetivo violado obtém plena ciência da lesão e de toda sua extensão, no caso, a deflagração da operação da Polícia Federal. Jurisprudência.
+3. Os juros moratórios devidos pelo mandatário que se apropria indevidamente de valores incidem desde a data do desvio do numerário.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.072.450/RS, de minha relatoria, QUARTA TURMA, julgado em 26/2/2019, DJe 1º/3/2019.)
+Quanto à apontada violação do art. 407 do CC/2002, verifica-se que o caso trata de relação contratual, portanto, os juros moratórios relativos ao dano moral incidem a partir da citação. Nesse sentido, os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO INDENIZATÓRIA. ERRO MÉDICO. DANO MORAL. APLICAÇÃO DE INJEÇÃO QUE ATINGIU NERVO. PARALISIA DO MEMBRO SUPERIOR DIREITO. REDUÇÃO DA CAPACIDADE LABORATIVA. PROCEDÊNCIA. TERMO INICIAL DOS JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. CITAÇÃO. PRECEDENTES. PLEITO DE REDUÇÃO DO DANO MORAL. VERBA FIXADA EM OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. REFORMA. SÚMULA Nº 7 DO STJ.
+(..)
+2. Consoante a orientação jurisprudencial assente nesta Casa, o termo inicial dos juros de mora na condenação por dano moral é a partir da citação ou do evento danoso, conforme se trate de responsabilidade contratual ou extracontratual, respectivamente.
+Caso em que a reparação moral se deu por erro médico, sendo a responsabilidade contratual. Precedentes.
+3. A Corte local, após sopesados os fatos da causa, fixou a reparação moral no valor de R$ 60.000,00 (sessenta mil reais) por entender a quantia apta e suficiente para cumprir o dúplice caráter punitivo/ressarcitório. Não há como rever referido quantum sem perpassar por novo enfrentamento do acervo fático-probatório, incidindo, na espécie, o óbice da Súmula nº 7 desta Corte.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 784.591/RJ, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 7/6/2016, DJe 10/6/2016.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. DANO MORAL. RESPONSABILIDADE CONTRATUAL. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. LIMITAÇÃO DA TAXA DE JUROS. INOVAÇÃO.
+INADMISSIBILIDADE. NÃO PROVIMENTO.
+1. Os juros moratórios incidem desde a citação em casos de responsabilidade contratual.
+2. Não cabe a adição de teses não expostas no recurso especial em sede de agravo interno. Precedente.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 426.320/CE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 7/6/2016, DJe 15/6/2016.)
+Em relação ao termo inicial do prazo prescricional aplicável ao caso, verifica-se que o Tribunal de origem decidiu em conformidade com a jurisprudência desta Corte Superior, no sentido de que o prazo prescricional para as ações de reparação de danos ajuizadas por ex-clientes do escritório de advocacia do recorrente, [NOME], deve ser contado a partir da data da deflagração da Operação Carmelina, em fevereiro de 2014, quando se deu publicidade aos atos ilícitos imputados ao réu.
+A propósito:
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. ADVOGADO. DESCUMPRIMENTO DO MANDATO. PRESCRIÇÃO. NÃO CONFIGURAÇÃO. CELEBRAÇÃO DE ACORDO PREJUDICIAL. RENÚNCIA DE CRÉDITO. RESPONSABILIDADE CIVIL. RELAÇÃO CONTRATUAL. ABUSO DE PODER. CONFIGURAÇÃO. HONORÁRIOS. ABATIMENTO. IMPOSSIBILIDADE. JUROS MORATÓRIOS. TERMO INICIAL. CITAÇÃO. TERMO FINAL. QUITAÇÃO. BLOQUEIO DOS BENS. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONFIGURAÇÃO. DANO MORAL. REDUÇÃO. INVIABILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Controvérsia relacionada com uma série de demandas indenizatórias cíveis ajuizadas por antigos clientes do escritório de advocacia do recorrente, [NOME].
+3. No caso concreto, ficou consignado que o advogado celebrou acordo prejudicial ao cliente, por meio do qual renunciou a crédito consolidado em sentença com remota possibilidade de reversão, em virtude de ajuste espúrio realizado com a parte contrária.
+(..)
+5. Diante da impossibilidade de precisar o momento da ciência da lesão, deve ser mantida a data de deflagração da Operação Carmelina como o termo inicial do prazo prescricional para as ações indenizatórias propostas pelos clientes lesados, quando foi dada ampla publicidade aos ilícitos imputados ao réu. Aplicação da teoria da actio nata. Precedentes.
+6. Nas ações de indenização do mandante contra o mandatário incide o prazo prescricional de 10 (dez) anos, previsto no art. 205 do Código Civil, por se tratar de responsabilidade proveniente de relação contratual. Precedentes.
+(..)
+14. Recurso especial parcialmente conhecido e, nessa extensão, não provido."
+(REsp n. 1.750.570/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/9/2018, DJe 14/9/2018.)
+Incide, portanto, a Súmula n. 83 do STJ.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
