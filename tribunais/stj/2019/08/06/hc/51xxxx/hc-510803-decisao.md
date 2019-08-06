@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de PAULO HENRIQUE DE LIMA contra a acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 4 anos, 3 meses e 10 dias de reclusão, em regime prisional fechado, e ao pagamento de 18 dias-multa, como incurso nas sanções do art. 157, § 2º, I e II, c/c o art. 14, II, ambos do Código Penal (e-STJ, fls. 20-28).
+Da sentença, a defesa apelou ao Colegiado de origem, que desproveu o recurso, nos moldes da seguinte ementa:
+"ROUBO QUALIFICADO - 157, § 2º, I e II, do CP - Materialidade e autoria devidamente comprovadas - Sentença confirmada por seus próprios fundamentos. PENAS e REGIME PRISIONAL - Adequada e fundamentadamente impostos, não comportando modificação. Fixação em sintonia com o entendimento assente na Câmara.
+Apelos desprovidos" (e-STJ, fl. 79).
+Neste mandamus, o impetrante sustenta, em síntese, que: a) "tendo em vista a primariedade técnica do paciente, conforme o artigo 33, § 2º, "b" do Código Penal, cuja pena fixada foi de 4 (quatro) anos, no presente caso, o regime inicial a ser fixado é o SEMIABERTO"; b) "o instituto da reincidência não pode e não deve ter abrangência para ser fundamentada a conduta social do paciente, sob pena de afronta ao princípio constitucional da vedação da dupla punição pelo mesmo fato (ne bis in idem)" (e-STJ, fls. 3-11).
+Pugna, assim, pela concessão da ordem a fim de que seja fixado o regime prisional semiaberto.
+Indeferido pedido liminar (e-STJ, fl. 66), a Subprocuradoria-Geral da República manifestou-se pela denegação da ordem (e-STJ, fls. 103-105).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Ainda, no que tange à dosimetria, a individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Destarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório.
+Feitas tais considerações, passo à análise dos fundamentos do writ, de forma a aferir a eventual ocorrência de flagrante ilegalidade a justificar a concessão da ordem de ofício.
+O Colegiado de origem, ao manter a elevação da básica pelos maus antecedentes do réu, considerou a existência de condenação já atingida pelo período de depurador de 5 anos, tendo, por consectário, mantido o meio prisional fechado, nos seguintes termos:
+"Para o réu Paulo, na primeira fase, em razão dos maus antecedentes, as penas-base foram majoradas de 1/6, índice adequado ao caso concreto.
+A d. Magistrada considerou, para tanto, os critérios estabelecidos no artigo 59, do Código Penal, especialmente os maus antecedentes.
+De fato, o apelante Paulo possui condenação anterior definitiva (Processo nº 433/1994 fls. 65 e 71 do apenso), a denotar inclinação para o crime e resistência ao cumprimento da lei.
+Exacerbação maior, por conta dos antecedentes, da personalidade do agente e das consequências do crime, entre outros, são fatores que influenciam o estabelecimento da pena-base.
+Não custa lembrar que, como é cediço, condenação antiga não gera reincidência. O decurso do tempo, contudo, não apaga o fato, que continua sendo episódio ante acta relevante, que não pode ser considerada para efeito de reincidência, mas deve ser considerada a título de maus antecedentes (RHC 83547/SP, 1º T, Rel. Min. Carlos Britto, j. 21/10/2003).
+Nesse ponto, portanto, ficam afastados os argumentos da Defesa pela redução da pena de Paulo.
+No que diz respeito ao regime prisional, inclusive para Paulo e Rony, nada há a ser alterado.
+O regime prisional estabelecido, inicial fechado, por se cuidar de roubo, na esteira do entendimento pacificado nesta Câmara, é o conveniente e deve prevalecer.
+Não se pode desconhecer que a gravidade do crime de roubo, que vem colocando em pânico a sociedade, evidencia, sem qualquer sombra de dúvida, intensa periculosidade de seu agente, que não pode ser desconsiderada na fixação do regime inicial da pena corporal, que não guarda relação de dependência com sua quantidade. A periculosidade de autores de crimes dolosos cometidos com violência ou grave ameaça é presumida pela lei, que exige sejam submetidos, para fins de livramento condicional, à "constatação de condições pessoais que façam presumir que o liberado não voltará a delinqüir" (Art. 83, parágrafo único, CP). Essa periculosidade recomenda a adoção do regime carcerário inicial fechado.
+Privilegiar-se autor de crime contra o patrimônio praticado com grave ameaça à pessoa, concedendo-se-lhe regime carcerário que não o fechado, é desatender-se às finalidades da pena, que são o juízo de reprovação sobre a conduta e a prevenção do crime.
+Trata-se de uma das mais inquietantes expressões da violência urbana atual, a reclamar pronta e eficaz resposta do Poder Público, o que somente se verifica com a imposição do regime mais gravoso" (e-STJ, fls. 88-89).
+Com efeito, nos termos da jurisprudência desta Corte, condenações anteriores ao prazo depurador de 5 anos, malgrado não possam ser valoradas na segunda fase da dosimetria como reincidência, constituem motivação idônea para a exasperação da pena-base a título de maus antecedentes.
+Quanto ao tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MAUS ANTECEDENTES. PERÍODO DEPURADOR. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora o Supremo Tribunal Federal ainda não haja decidido o mérito do RE n. 593.818 RG/SC - que, em repercussão geral já reconhecida (DJe 3/4/2009), decidirá se existe ou não um prazo limite para se sopesar uma condenação anterior como maus antecedentes -, certo é que, por ora, este Superior Tribunal possui o entendimento consolidado de que, decorrido o prazo de cinco anos entre a data do cumprimento ou a extinção da pena e a infração posterior, a condenação anterior, embora não possa prevalecer para fins de reincidência, pode ser sopesada a título de maus antecedentes. Precedentes.
+2. Diante da existência de precedentes em ambos os sentidos e tendo em vista a ausência de definição da matéria pelo Plenário do Supremo Tribunal Federal, não há como qualificar de abusiva ou de ilegal a decisão que opta por uma das duas correntes.
+3. Sendo o agravante possuidor de maus antecedentes, não há como ser beneficiado com a minorante prevista no § 4º do art. 33 da Lei de Drogas.
+4. Agravo regimental não provido.
+(AgRg no HC 413.652/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/11/2017, DJe 28/11/2017, grifou-se).
+"AGRAVO REGIMENTAL. HABEAS CORPUS. CRIME DE TRÂNSITO (ART. 306, C.C COM O ART. 298, INCISO III, DO CP). DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. MAUS ANTECEDENTES. UTILIZAÇÃO DE CONDENAÇÕES TRANSITADAS EM JULGADO HÁ MAIS DE 5 (CINCO) ANOS. POSSIBILIDADE. INSURGÊNCIA DESPROVIDA.
+1. A condenação criminal, cujo cumprimento ou extinção da pena ocorreu há mais de cinco anos, a despeito de não implicar em reincidência, nos termos do art. 64, inciso I, do Código penal, é hábil a caracterizar maus antecedentes para fins de exasperação da pena-base. Precedentes.
+2. Agravo regimental desprovido"
+(AgRg no HC 389.558/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/10/2017, DJe 08/11/2017, grifou-se).
+Mais: estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Estatuto Repressor, admite-se a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu.
+A seguir, parcialmente, ementas de acórdãos desta Corte versando a respeito da matéria e que respaldam essa solução:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO (ARTIGO 157, § 2º, INCISO I, DO CÓDIGO PENAL). REGIME INICIAL FECHADO FIXADO COM BASE EM CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. MANUTENÇÃO JUSTIFICADA. CONSTRANGIMENTO NÃO EVIDENCIADO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que a escolha do sistema prisional não está atrelada, de modo absoluto, ao quantum de pena firmada, devendo-se considerar as demais circunstâncias do caso concreto.
+2. Com efeito, não é possível constatar flagrante ilegalidade na imposição do regime inicial fechado ao paciente, pois, embora a sua pena tenha sido fixada em patamar inferior a 8 (oito) anos de reclusão, a existência de circunstância judicial desfavorável, a exemplo dos maus antecedentes, indica que o modo mais gravoso de execução mostra-se adequado na espécie.
+ ..
+2. Agravo regimental improvido."
+(AgRg no HC 326.343/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/11/2015, DJe 25/11/2015, grifou-se.)
+"HABEAS CORPUS. ART. 1º, II, DA LEI N. 8.137/1990, POR QUATRO VEZES, NA FORMA DO ART. 71 DO CP. PRIMEIRA FASE DA DOSIMETRIA. CULPABILIDADE DESFAVORÁVEL. ELEMENTOS CONCRETOS INDICADOS PELO JULGADOR. WRIT DENEGADO.
+1. A revisão da dosimetria da pena no habeas corpus somente é permitida nas hipóteses de falta de fundamentação concreta ou quando a sanção aplicada é notoriamente desproporcional e irrazoável diante do crime cometido.
+2. A vetorial culpabilidade, analisada como maior grau de censurabilidade da conduta, deve ser mantida quando o acórdão registra a maneira articulada do réu para cometer a sonegação fiscal, pois ele, de forma engenhosa, criou uma empresa formalmente integrada por sócios que, em verdade, não compunham a sociedade empresarial, com a intenção preordenada de lesar o erário. Tal reprovabilidade não é inerente ao tipo penal, pois a fraude fiscal prescinde da criação de empresa de fachada. É inviável a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos ao réu primário e condenado a reprimenda inferior a 4 anos de reclusão quando há registro de circunstância judicial desfavorável (culpabilidade), consoante o teor dos arts. 33, § 3º e 44, III, ambos do CP.
+ ..
+6. Habeas corpus denegado."
+(HC 335.245/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/12/2015, DJe 11/12/2015, grifou-se.)
+Nesse contexto, considerando a fixação da pena em 4 anos, 3 meses e 10 dias de reclusão, tendo havido valoração negativa do vetor "antecedentes", descabe falar em arbitrariedade na fixação do meio prisional fechado, nos moldes do reconhecido pelas instância ordinária.
+Ante o exposto, não conheço do writ.
