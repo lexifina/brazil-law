@@ -1,0 +1,7 @@
+DECISÃO
+[NOME] alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2005914-50.2019.8.26.0000.
+Infere-se dos autos que a recorrente foi condenada, em primeiro grau, a 5 anos de reclusão, em regime fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. Contra essa decisão, foi interposta apelação pela defesa, à qual foi negado provimento. Ainda inconformada, a insurgente interpôs a Revisão Criminal n. 0008922-06.2018.8.26.0000, que foi deferida apenas para reduzir sua reprimenda a 2 anos e 6 meses de reclusão, mais multa, mantido o regime fechado para início do cumprimento da sanção.
+Neste recurso, a defesa requer a substituição da pena privativa de liberdade por restritiva de direito.
+Em pesquisa no sítio eletrônico deste Superior Tribunal, constato que, contra o acórdão proferido na acima citada Revisão Criminal, foi impetrado, perante esta Corte, o HC n. 501.765/SP, ocasião em que foi concedida a ordem "a fim de determinar a substituição da reprimenda privativa de liberdade imposta à paciente por duas restritivas de direitos a serem escolhidas pelo Juízo das Execuções Criminais" (fl. 144 daqueles autos, grifei). Assim, evidencia-se a prejudicialidade deste recurso ordinário.
+À vista do exposto, julgo prejudicado este recurso ordinário em habeas corpus, pela perda superveniente do seu objeto.
+Publique-se e intimem-se.
