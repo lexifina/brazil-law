@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. LIVRE CONVENCIMENTO MOTIVADO. PRECEDENTES. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. RECURSO IMPROVIDO.
+DECISÃO
+Os autos noticiam que VANESSA CRISTIANE CALIZARIO FIBRAS - ME (VANESSA) propôs ação declaratória de existência de relação jurídica contra NOBRE COMÉRCIO DE PEÇAS P/VEÍCULOS LTDA - ME (NOBRE), sob o argumento de que forneceu embarcações como demonstração, que não foram devolvidas ou realizado o pagamento correspondente a seus valores.
+A pretensão foi julgada procedente, para condenar a requerida a pagar o valor das embarcações não devolvidas (e-STJ, fl. 183).
+A sentença foi mantida em apelação, cujo acórdão encontra-se assim ementado:
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - CERCEAMENTO DO DIREITO DE DEFESA NÃO CONFIGURADO - JULGAMENTO ANTECIPADO - POSSIBILIDADE - FATO EXTINTIVO DO DIREITO DO AUTOR - ÔNUS DA PROVA DO RÉU - NOTA FISCAL SEM ASSINATURA DO RECEBEDOR - ENTREGA NÃO COMPROVADA - SENTENÇA CONFIRMADA. 1.O sistema jurídico processual não só autoriza, como impõe ao juiz da causa o julgamento antecipado da lide, tão logo a prova produzida nos autos lhe permita firmar o convencimento. Trata-se de instituto processual que prestigia o livre convencimento motivado, a economia e a celeridade processual, dispensando a prática de atos irrelevantes para o deslinde da causa. 2. O julgamento antecipado da lide não implica cerceamento de defesa, mormente quando a matéria é unicamente de direito ou quando há nos autos elementos suficientes para dirimir a matéria fática que compõe a lide, como no caso dos autos. 3.Nos termos do artigo 333, II, do antigo Código de Processo Civil, compete ao réu comprovar a existência de fato impeditivo, modificativo ou extintivo do direito do autor. 4.As notas fiscais de saída sem a assinatura do recebedor não se revelam suficientes à comprovação de devolução das embarcações. 5.Recurso de Apelação ao qual se nega provimento (e-STJ, fl. 302).
+Contra esse julgado NOBRE manejou recurso especial, fundamentado na alínea a do permissivo constitucional, alegando violação dos arts. 5º, LV, da CF/88 e 355, I e 369, ambos do NCPC, diante do julgamento antecipado da lide, que implicou em cerceamento de defesa, considerando a necessidade de dilação probatório.
+Foram apresentadas contrarrazões.
+O juízo prévio de admissibilidade negou seguimento ao apelo nobre ante a incidência da Súmula nº. 7 do STJ.
+Irresignada, NOBRE apresentou o correspondente agravo, pelo qual refutou o fundamento da decisão agravada.
+Contraminutado, os autos subiram para esta Corte Superior.
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A pretensão recursal está na nulidade do julgamento antecipado da lide.
+Esta Corte possui o entendimento de que o magistrado tem ampla liberdade para analisar a conveniência e a necessidade da produção de provas, podendo perfeitamente indeferir provas periciais, documentais, testemunhais e/ou proceder ao julgamento antecipado da lide, se considerar que há elementos nos autos suficientes para a formação da sua convicção em relação às questões de fato ou de direito vertidas no processo, sem que isso implique cerceamento do direito de defesa.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRODUÇÃO DE PROVAS. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. LIVRE CONVENCIMENTO MOTIVADO. SUFICIÊNCIA DAS PROVAS. DEVER DE MOTIVAÇÃO.  .. . AGRAVO NÃO PROVIDO.
+1. Não configura o cerceamento de defesa o julgamento da causa sem a produção de prova oral, quando o tribunal de origem entender que o feito foi corretamente instruído, declarando a existência de provas suficientes para o seu convencimento.
+2. "O magistrado é o destinatário da prova, competindo às instâncias ordinárias exercer juízo acerca da suficiência das que foram produzidas, nos termos do art. 130 do CPC. A avaliação tanto da suficiência dos elementos probatórios que justificaram o julgamento antecipado da lide (art. 330, I, do CPC), quanto da necessidade de produção de outras provas demandaria a incursão em aspectos fático-probatórios dos autos, inviável, portanto, em recurso especial (Súmula n. 7/STJ)" (AgRg no REsp 1449368/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/08/2014, Dje 27/08/2014).
+ ..
+7. Agravo interno não provido.
+(AgInt no AREsp 1427771/SP, Rel. Min. LUIS FELIPE SALOMÃO, Quarta Turma, DJe 27/06/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.  .. . ALEGAÇÃO DE CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SUFICIÊNCIA PROBATÓRIA. INCIDÊNCIA DA SÚMULA 83/STJ. RECURSO DESPROVIDO.
+1. Segundo o princípio da livre persuasão racional, a dilação probatória destina-se ao convencimento do julgador. Assim, pode o juiz rejeitar a produção de determinadas provas por entendê-las irrelevantes para a formação de sua convicção ou meramente protelatórias ao andamento do processo, em desrespeito ao princípio da celeridade processual.
+2. Com isso, pode o magistrado julgar antecipadamente a lide quando concluir que a questão controvertida é unicamente de direito ou que as provas já apresentadas com a exordial e com a peça de defesa são suficientes para o deslinde da controvérsia. Incidência da Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1327496/RN, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 10/04/2019)
+Na espécie, o entendimento segundo o qual o sistema jurídico processual não só autoriza como impõe ao juiz da causa, o julgamento antecipado da lide, tão logo a prova produzida nos autos lhe permita firmar o convencimento, frisando-se que o magistrado a quo cuidou de fundamentar satisfatoriamente a sentença, apontando que os documentos colacionados pelas partes eram suficientes para o correto deslinde da causa (e-STJ, fl. 297), está em harmonia com a jurisprudência do Superior Tribunal de Justiça, atraindo a incidência da Súmula nº 83 do STJ.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Considerando a aplicabilidade das regras do NCPC, MAJORO em 5% os honorários advocatícios sucumbenciais fixados, nos termos do art. 85, § 11, do NCPC.
+Publique-se. Intimem-se.
