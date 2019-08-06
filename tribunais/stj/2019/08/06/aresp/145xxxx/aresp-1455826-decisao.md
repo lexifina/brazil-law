@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que inadmitiu recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 662/664).
+O acórdão recorrido traz a seguinte ementa (e-STJ fl. 550):
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. ALIENAÇÃO DE BEM IMÓVEL. COMPRA E VENDA ENTRE PESSOA JURÍDICA E SÓCIO. FRAUDE À EXECUÇÃO CARACTERIZADA. ALEGAÇÃO DE IMPENHORABILIDADE. NÃO INCIDÊNCIA DA LEI 8.009/90. SENTENÇA MANTIDA.
+1 - O instituto da fraude à execução, ainda que também se apresente como forma de defesa dos interesses do Credor, justifica-se socialmente como instrumento de defesa da função jurisdicional, não sendo aceitável que o título com os atributos de executividade se apresente inócuo diante do comportamento do devedor.
+2 - A existência de ação em tramitação contra a devedora capaz de reduzi-la à insolvência, bem como as circunstâncias da alienação, uma vez que o imóvel foi vendido para o próprio sócio majoritário da pessoa jurídica, levam ao reconhecimento de fraude à execução, amoldando-se o caso à previsão contida no inciso II do artigo 593 do CPC/73, vigente à época da realização do negócio jurídico, correspondente ao inciso IV do art. 792 do CPC/2015.
+3 - O bem que retorna ao patrimônio do Devedor, em razão do reconhecimento de fraude à execução, não se reveste da impenhorabilidade prevista na Lei 8.009/90.
+Apelação Cível desprovida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 585/604).
+No especial (e-STJ fls. 607/636), fundamentado no art. 105, III, "a" e "c", da CF, os recorrentes apontaram, além de divergência jurisprudencial, ofensa aos arts. 593, II, do CPC/1973 e 792, IV, do CPC/2015, sustentando a inexistência de fraude à execução, pois não comprovada a má-fé da adquirente.
+Apontaram violação do art. 3º da Lei n. 8.009/1990, afirmando que o imóvel objeto da penhora seria bem de família.
+Indicaram ainda contrariedade ao art. 1.026, § 2º, do CPC/2015, aduzindo que os embargos de declaração não seriam protelatórios.
+No agravo (e-STJ fls. 665/698), afirmam a presença de todos os requisitos de admissibilidade do especial.
+O recorrido apresentou contraminuta (e-STJ fls. 702/706).
+É o relatório.
+Decido.
+Ao reconhecer a existência de fraude à execução, a Corte local se manifestou no seguinte sentido (e-STJ fls. 561/563):
+Pouco mais de três meses depois da publicação do acórdão de natureza condenatória, conforme se verifica da certidão de matrícula do imóvel acostada à fl. 101, em 07/11/2005, a CASA [NOME] DE FERRAGENS LTDA. alienou o imóvel descrito nos autos para o seu sócio majoritário SEBASTIÃO [NOME] SOBRINHO, cônjuge de [NOME], ora primeira Embargante.
+Como se constata da referida certidão, o Sr. SEBASTIÃO [NOME] SOBRINHO, falecido, figurou como adquirente do imóvel, não sendo razoável admitir que ele, na condição de sócio majoritário, desconhecia a ação movida contra a pessoa jurídica, bem como a situação financeira da empresa.
+A Embargante [NOME] DE [NOME] [NOME] não atuou como adquirente direta do bem, derivando a sua propriedade sobre o imóvel do regime de casamento da comunhão universal de bens (fl. 101).
+Assim, é desimportante para a configuração da fraude à execução se a primeira Embargante tinha ou não ciência da ação judicial em curso ou mesmo da situação financeira da pessoa jurídica, pois, como já dito, o adquirente foi o Sr.
+SEBASTIÃO [NOME] SOBRINHO que, inegavelmente, estava ciente de tais informações.
+Também é irrelevante para o desate da lide se os Embargantes obtiveram algum proveito econômico de eventual dívida contraída pela empresa, o que nem mesmo se discute nos autos. De igual modo, não é necessário para o reconhecimento de fraude à execução que o bem tenha sido vendido por preço vil.
+Ressalte-se, ainda, que o inciso II do art. 593 do CPC não exige o trânsito em julgado da sentença condenatória, mas tão somente que, na época da alienação ou da oneração, exista demanda em curso capaz de reduzir o devedor à insolvência.
+Ademais, impera destacar que não é de se aplicar, in casu, a primeira parte da Súmula nº 375 do STJ, pois a penhora foi realizada somente após a alienação do bem imóvel em questão. Assim, tendo em vista que o adquirente, na condição de sócio majoritário, detinha, inequivocamente, conhecimento da ação em curso contra a pessoa jurídica, capaz de reduzi-la à insolvência, está demonstrada a sua má-fé, nos termos da segunda parte do referido enunciado de súmula.
+O risco de insolvência, por sua vez, é demonstrado pela dilapidação de patrimônio promovida pela devedora, pois, conforme se verifica das certidões de fls. 101/102, na mesma Escritura de Compra e Venda, lavrada à fl. 45, do Livro 76-A, em 09/06/2004, re-ratificada por Escritura lavrada à fl. 162, do Livro 34-A, em 07/11/2005, ambas no Cartório do 2º Ofício de Notas, Protesto, Registro de Pessoas Jurídicas, Títulos e Documentos, de Alexânia-GO, foram alienados outros imóveis.
+Além disso, os próprios Embargantes admitem a situação de insolvência da pessoa jurídica e a transferência de todos os imóveis para a pessoa natural de seu sócio majoritário, na mesma época da alienação do bem penhorado nos autos principais, conforme se extrai dos seguintes trechos da exordial dos presentes Embargos de Terceiro:
+(..)
+O segundo imóvel indicado à penhora, constituído pelo apartamento nº 102, localizado no mesmo endereço do bem penhorado nos autos, também foi transferido da pessoa jurídica para o seu sócio majoritário no mesmo ato e, posteriormente, para terceira pessoa, conforme consta da certidão de fl. 102, descabendo, portanto, a alegação de que a CASA [NOME] DE FERRAGENS LTDA.
+possui outros bens livres e desembaraçados para saldar a dívida, afastando o risco de insolvência exigido pelo inciso II do art. 593 do CPC.
+A decisão recorrida está em consonância com a jurisprudência desta Corte consolidada na Súmula n. 375/STJ, segundo a qual: "O reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente."
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. FRAUDE À EXECUÇÃO. SÚMULA Nº 375/STJ. REQUISITOS NÃO PREENCHIDOS. ALEGAÇÃO DE QUE ADQUIRENTE DEVERIA TER SIDO MAIS DILIGENTE. PENHORA NÃO REGISTRADA E MÁ-FÉ NÃO COMPROVADA. IMPOSSIBILIDADE.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Nos termos do enunciado sumular nº 375, desta Corte, "o reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente." 3. Na hipótese em análise, não houve registro na penhora do bem em debate ou a comprovação da má-fé dos adquirentes, de modo que incabível o reconhecimento de fraude à execução apenas sob o argumento de que esses deveriam ter sido mais diligentes quanto à situação do bem.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.627.671/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/8/2018, DJe 11/9/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. SÚMULA Nº 375/STJ. AÇÃO JUDICIAL. INSOLVÊNCIA. MÁ-FÉ DO TERCEIRO ADQUIRENTE. COMPROVAÇÃO. 1. A jurisprudência desta Corte encontra-se consolidada no sentido de que a simples existência de ação em curso no momento da alienação do bem não é suficiente para evidenciar a fraude à execução, sendo necessário, caso não haja penhora anterior devidamente registrada, que se prove o conhecimento da referida ação judicial pelo adquirente para que se possa considerar caracterizada a sua má-fé, bem como o conluio fraudulento.
+2. Para que seja reconhecida a fraude à execução, é necessário o registro da penhora do bem alienado ou a prova de má-fé do terceiro adquirente. Súmula nº 375/STJ.
+3. Constatada a má-fé dos embargantes e a ciência da existência de ação de execução capaz de levar à insolvência dos executados, resta caracterizada a fraude à execução.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.140.622/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 5/12/2017, DJe 19/12/2017.)
+Além do mais, dissentir das conclusões do acórdão impugnado e concluir pela inexistência de fraude à execução implicaria reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto na Súmula n. 7 do STJ.
+No que se refere ao art. 3º da Lei n. 8.009/1990, o Tribunal de origem consignou que (e-STJ fl. 563):
+Por fim, conforme destacou o i. Magistrado a quo, o bem que retorna ao patrimônio do Devedor, em razão do reconhecimento de fraude à execução, não se reveste da impenhorabilidade prevista na Lei 8.009/90.
+Para alterar os fundamentos supratranscritos e reconhecer como bem de família o imóvel objeto da penhora, seria imprescindível a análise de fatos e provas, inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Com relação ao dissídio jurisprudencial, a incidência da Súmula n. 7/STJ inviabiliza também o exame do recurso especial pela alínea "c" da norma autorizadora. Nesse sentido: AgRg no Ag n. 1.346.248/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/5/2012, DJe 22/5/2012; REsp n. 1.086.048/RS, Relator Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 21/6/2011, DJe 13/9/2011; EDcl no Ag n. 984.901/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/3/2010, DJe 5/4/2010; AgRg no REsp n. 1.030.586/SP, Relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 30/5/2008, DJe 23/6/2008.
+Quanto à multa imposta aos recorrentes, constata-se que a oposição dos embargos declaratórios na Corte de origem decorreu do legítimo exercício do direito de recorrer da parte, que se valeu do referido recurso para tentar combater decisão que lhe era desfavorável, apontando, inclusive, suposta contradição constante no texto da ementa.
+Além disso, os embargos de declaração foram opostos com o nítido caráter prequestionador, motivo pelo qual deve ser afastada a sanção prevista no art. 538 do CPC/1973, nos termos da Súmula n. 98/STJ.
+Diante do exposto, CONHEÇO do agravo e DOU PROVIMENTO PARCIAL ao recurso especial a fim de afastar a incidência da multa cominatória e da prevista no art. 1.026, § 2º, do CPC/2015.
+Publique-se e intimem-se.
