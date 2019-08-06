@@ -1,0 +1,37 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERESSE DE AGIR RECONHECIDO NA ORIGEM. REVISÃO. SÚMULA 7/STJ. ITBI. BASE DE CÁLCULO. APURAÇÃO. ACÓRDÃO FUNDADO NA INTERPRETAÇÃO DE LEGISLAÇÃO MUNICIPAL. SÚMULA 280/STF. AGRAVO EM RECURSO ESPECIAL DO MUNICÍPIO DE SÃO PAULO/SP DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pelo MUNICÍPIO DE SÃO PAULO/SP em face de acórdão de lavra do TJ/SP, assim ementado:
+Mandado de Segurança Preventivo - Município de São Paulo Preliminares afastadas - Lei Municipal nº 14.256/06 e Decreto Municipal nº 46.228/05, julgados inconstitucionais pelo C. Órgão Especial, deste E. Tribunal de Justiça Valor venal entendido como aquele em que o imóvel seria negociado à vista, em condições normais de mercado Sistemática que delega sua fixação prévia ao Poder Executivo Afronta ao princípio da legalidade, insculpido no artigo 150, inciso I, da CF/88 Precedentes do C. Órgão Especial Violação de direito líquido e certo demonstrada Segurança bem concedida Sentença mantida Recurso oficial e Apelo da municipalidade não providos, com observação (fls. 136).
+ 2. Aponta, nas razões de seu Apelo Nobre inadmitido, ofensa aos arts. 38, 97, II e IV e 148 do CTN. Argumenta, preliminarmente, a ausência de interesse de agir da impetrante e, no mérito, sustenta que a correta compreensão do regime jurídico do ITBI deixa claro que o procedimento atualmente previsto na legislação municipal em vigor não violou o princípio da legalidade, não criou nova base de cálculo para o tributo nem transformou o autolançamento em lançamento de ofício, simplesmente possibilitou ao contribuinte requerer, em seu benefício, a prévia avaliação do imóvel (fls. 151).
+3. Parecer do MPF às fls. 194/200.
+4. É o relatório.
+5. De início, quanto à alegação de inadequação da via eleita por ausência de interesse de agir, o Tribunal de origem consignou expressamente o que se segue:
+Assim é, porque a Lei Municipal nº 14.256/06 não esvaziou o objeto desta impetração, uma vez que ela tão-só reafirmou a sistemática  acerca do arbitramento precoce da base de cálculo do ITBI, alegadamente de modo ilegal e abusivo  trazida no Decreto Municipal nº 46.228/05.
+Ademais, fundada a violação do direito líquido e certo, na tese de ilegalidade da exigência daquele imposto pelo referido critério instituído na legislação local, este mandado de segurança é sim perfeitamente cabível, a teor do artigo 5o, inciso LXIX, da Constituição Federal, não demandando dilação probatória para seu desate.
+Portanto, necessário o provimento jurisdicional clamado pela apelada e sendo adequada a via processual por ela eleita para os fins nela colimados, exsurge seu interesse de agir neste caso (fls. 137/138).
+6. Percebe-se, assim, que a discussão, tal como posta nas razões do Apelo Nobre inadmitido, e o acolhimento da pretensão recursal demandariam exceder os fundamentos do aresto recorrido, providência obstada nesta via, ante a necessidade de revolvimento de fatos e provas. Incide, pois, o verbete sumular 7 do STJ. Em igual sentido:
+PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO NCPC NÃO CARACTERIZADA. INTERESSE DE AGIR RECONHECIDO. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA NÃO VERIFICADO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. REVISÃO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. ANÁLISE DE LEI LOCAL. INVIABILIDADE. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 280/STF. FIXAÇÃO DE ASTREINTES CONTRA A FAZENDA PÚBLICA. POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO DO QUANTUM FIXADO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+(..)
+ 2. Modificar a conclusão a que chegou a Corte de origem quanto ao interesse de agir da parte autora, de modo a acolher a tese do recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+(..)
+8. Recurso Especial parcialmente conhecido e, nessa extensão, não provido (REsp. 1.654.994/SE, Rel. Min. HERMAN BENJAMIN, DJe 25.4.2017).
+
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÕES CONEXAS DE OBRIGAÇÃO DE FAZER, ANULATÓRIA E DE REINTEGRAÇÃO DE POSSE. AUSÊNCIA DE VIOLAÇÃO AO ART. 535, II, DO CPC. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 128, 267, V, 293, E 460 DO CPC. INEXISTÊNCIA. SÚMULA 7 DO STJ. DECISÃO MANTIDA.
+(..)
+3. Em relação à falta de interesse de agir da parte, constata-se que o acolhimento da pretensão recursal, nesse ponto, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 638.781/CE, Rel. Min. LUIS FELIPE SALOMÃO, DJe 11.9.2015).
+7. No mais, verifica-se que o Tribunal de origem solveu a lide à luz da disposições da legislação local, notadamente das Leis Municipais 14.256/2006 e 11.154/1991, bem como do Decreto Municipal 46.228/2005. Assim, evidente que o provimento do Recurso Especial demandaria nova análise e interpretação dos normativos supracitados, o que é obstado ante o teor da Súmula 280/STF. Em casos símiles:
+TRIBUTÁRIO. ITBI. BASE DE CÁLCULO. ACÓRDÃO COM FUNDAMENTAÇÃO AUTÔNOMA AMPARADA EM LEI MUNICIPAL. PRECLUSÃO. SÚMULA 280/STF. NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+1. Cuida-se, na origem, de Mandado de Segurança impetrado com a finalidade de afastar a apuração do ITBI nos moldes do art. 7º da Lei do município de São Paulo 11.154/1991, regulamentada pelo Decreto Municipal 46.228/2005.
+2. Embora o STJ tenha pacificado entendimento no sentido de que não há correspondência necessária e inafastável da base de cálculo adotada para as distintas exações (IPTU e ITBI), no presente caso não é possível conhecer do Recurso Especial.
+3. Ficou assentado, no acórdão recorrido, que, segundo o disposto nos arts. 7º da Lei Municipal 11.154/1991, a base de cálculo do ITBI deve ser "o valor venal dos bens ou direitos transmitidos, de modo que a respectiva base de cálculo deve corresponder ao valor pelo qual o imóvel foi adquirido, transmitido ou cedido" (fl. 128). Ademais, o Tribunal local pontuou que o Decreto Municipal 46.228/2005 não apresenta critérios seguros para estipulação do preço de mercado do imóvel.
+4. O Recurso Especial não é o meio adequado para a reforma de acórdão fundamentado em norma local (Súmula 280/STF).
+5. De nada adianta conhecer do Recurso Especial e provê-lo para afastar a tese da impossibilidade de bases de cálculos distintas entre o ITBI e o IPTU, porquanto o acórdão impugnado encontra-se precluso quanto ao capítulo autônomo amparado na Lei Municipal 11.154/1991. No mesmo sentido: REsp 1.411.462/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 20/11/2013.
+6. Recurso Especial não conhecido (REsp. 1.695.017/SP, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2017).
+
+TRIBUTÁRIO. RECURSO ESPECIAL. ITBI. BASE DE CÁLCULO. INTERPRETAÇÃO DE NORMAS LOCAIS. INCIDÊNCIA DA SÚMULA 280/STF.
+1. Conforme se observa do acórdão recorrido, no que diz respeito à pretensão do recorrente, a controvérsia foi solucionada à luz da legislação municipal (Decreto Municipal 46.228/2005 e Lei Municipal 14.256/2006), de modo a afastar a competência do STJ para o deslinde do desiderato contido no Recurso Especial, nos termos da Súmula 280/STF.
+2. Recurso Especial não conhecido (REsp. 1.670.584/SP, Rel. Min. HERMAN BENJAMIN, DJe 30.6.2017).
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do MUNICÍPIO DE SÃO PAULO/SP.
+9. Publique-se.
+10. Intimações necessárias.
