@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial por incidência das Súmulas n. 5 e 7 do STJ e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 519/521).
+O acórdão recorrido está assim ementado (e-STJ fl. 425):
+SEGURO DE VIDA EM GRUPO - Reexame de julgamento - Prescrição - Não ocorrência - Pretensão do segurado contra o segurador - Prescrição ânua - Artigo 206, inciso II, item B do Código Civil - A despeito da data da consolidação das lesões, termo inicial do prazo prescricional é a data em que o segurado teve ciência inequívoca da incapacidade - Reconhecimento inequívoco da incapacidade somente é evidenciado com a formalização do aviso de sinistro neste sentido - Aplicação da Súmula 229 do Superior Tribunal de Justiça - Sentença mantida - Condenação da apelante nas penas previstas para litigância de má- fé (art. 80, II e VI do Código de Processo Civil) Honorários advocatícios majorados. Apelação não provida, com determinação.
+No especial (e-STJ fls. 434/450), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa aos arts. 757 e 760 do CC/2002, sustentando ser indevida a cobertura securitária ante a inexistência de incapacidade total e irreversível da segurada
+No agravo (e-STJ fls. 524/542), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida apresentou contraminuta (e-STJ fls. 546/547).
+É o relatório.
+Decido.
+Quanto à indenização securitária, assim decidiu o Tribunal de origem (e-STJ fls. 330/331):
+Há laudo médico oficial realizado em sede de ação acidentária contra o INSS, juntado a fls. 25/34, no qual conclui o perito que o autor não tem condições de exercer ocupação que requeiram esforço físico.
+Efetuada perícia médica oficial nestes autos, ficou constatado grau de invalidez da autora, de 70%, nos termos da tabela da SUSEP, havendo possibilidade de readaptação em outra função que não exija esforço físico.
+Por conta de sua atividade e por conta de seqüelas de doença na infância (poliomielite), que agravaram o quadro clínico, a autora acabou desenvolvendo moléstias em sua coluna e atrofia de membro inferior esquerdo, comprovadas por meio de exames e pela perícia médica oficial (fls. 211/214), nada estando a justificar a recusa da seguradora em pagar a indenização.
+Portanto, estando impedida a autora de exercer tanto a sua, como qualquer outra atividade que exija esforço físico, fato esse que, somado à idade, mais de 60 anos, bem como às suas condições sócio-econômico-culturais, resultam em incapacidade total para exercer qualquer atividade laborativa, necessário se afigura o reconhecimento de que ela faz jus ao recebimento da indenização securitária pleiteada.
+Para reformar o acórdão recorrido e reconhecer a inexistência de incapacidade total e irreversível da segurada, exigiria-se a apreciação das cláusulas contratuais e do conjunto fático-probatório dos autos, hipótese vedada pelas Súmulas n. 5 e 7 do STJ.
+Com relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
