@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados e (b) aplicação da Súmula n. 7 do STJ.
+O TJSP negou provimento ao recurso em acórdão assim ementado (e-STJ fl. 309):
+AÇÃO DECLARAÇÃO DE NULIDADE OU INEFICÁCIA DE NEGÓCIO JURÍDICO Transferência de quotas sociais do cônjuge que se retirou de sociedade empresária, transferindo-as a sua esposa, que veio a se tornar posteriormente a única detentora do capital social Interesse de agir Configuração Presentes a necessidade e utilidade do provimento jurisdicional visado pelo autor e adequação da via eleita para o fim colimado Caracterização do "eventus damni" e "consilium fraudis" na espécie a justificar a procedência das pretensões autorais Sentença mantida Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 349/353).
+No recurso especial (e-STJ fls. 316/328), interposto com base no art. 105, III, "a", da CF, os recorrentes apontaram violação dos arts. 158 e 159 do CC/2002, afirmando que o acórdão decidiu contrariamente aos dispositivos ao considerar que "para a análise dos requisitos da fraude contra credores há de se observar a situação de insolvência do devedor na data da constituição do débito, e não a data da realização do negócio jurídico, no caso em tela, consistente na transferência das cotas sociais da empresa Lih, realizada pelo recorrente Luiz à sua esposa Lívia" (e-STJ fl. 323).
+Sustentaram ainda que "quanto ao momento de analisar o dito "estado de insolvência" para o reconhecimento da fraude, desconsiderou por completo, que nem no momento da constituição do débito, tampouco no momento do negócio jurídico (transferência das cotas), os recorrentes encontravam-se insolventes, tanto assim, que sequer mencionou em quais provas se balizou para reconhecer o suposto estado de insolvência, o que inclusive, foi objeto dos embargos de declaração, que infelizmente restaram rejeitados" (e-STJ fl. 323).
+Foram oferecidas contrarrazões (e-STJ fls. 356/361).
+No agravo (e-STJ fls. 366/374), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 380/382).
+É o relatório.
+Decido.
+A Corte estadual, ao analisar as provas constantes dos autos, entendeu que "há que se considerar que a fraude contra credores restou evidenciada, estando preenchidos os pressupostos legais, ao contrário do consignado em apelo, visto que a redistribuição das cotas, em razão da alteração do contrato social, deu-se em 06.01.2017", conforme assentou (e-STJ fls. 313/314):
+De fato, em referida data, a alteração do contrato social ensejou a transferência de quotas sociais do corréu Luiz à sua esposa Lívia (fls. 50/53), sendo que o correquerido Luiz teria figurado como devedor solidário do empréstimo representado pela Cédula de Crédito Bancário de fls. 30/39, emitida em 22.07.2016, em que a empresa HQ Mercantil de Alimentos Ltda. seria devedora principal, com valor original do empréstimo da ordem de R$12 milhões, com débito no total de R$5.410.286,27, quando do ajuizamento da ação, de acordo com as fls. 23.
+Dessa forma, não há que se cogitar que a insolvência do corréu Luiz não seria patente, haja vista que, como bem consignado pela r. sentença, considera-se que à data da constituição do débito a insolvência estava assim caracterizada, e em tal data se deve considerar a existência do estado de insolvência e não na data de transmissão do seu patrimônio, ao contrário do que pretendem os requeridos, nesses termos, resta configurado o eventus damni, preenchendo-se o primeiro requisito.
+No que toca ao requisito consilium fraudis, de fato, tal condição também está caracterizada, pois presume-se o conluio fraudulento do corréu Luiz e sua esposa Lívia, como bem ressaltado na r. sentença, já que há registro de que as cotas transferidas pelo primeiro à segunda deram-se pelo valor de R$950.000,00, quando da retirada do corréu Luiz do quatro societário, em 06.01.2017, conforme fls. 50/53 e, no entanto, além de nada se demonstrar nesse particular quanto ao pagamento de tais quotas, ambos corréus são cônjuges e figuram respectivamente na qualidade de cedente e cessionária da quotas transferidas, com conhecimento ou plenas condições de conhecimento quanto ao intuito fraudulento do referido negócio.
+Dessa forma, rever a conclusão do Tribunal de origem, na forma pretendida pelos recorrentes, demandaria o reexame do acervo fático dos autos, procedimento vedado em sede especial, a teor do enunciado da Súmula n. 7 do STJ.
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. REINTEGRAÇÃO DE POSSE. AÇÃO INDENIZATÓRIA.
+(..)
+2. Inviabilidade de alterar as conclusões do aresto recorrido, pois seria necessário reexame de contexto fático-probatório para afastar a conclusão do tribunal de origem de irreversibilidade do esbulho. Incidência da Súmula 7 do STJ.
+(..)
+4. Agravo não provido.
+(AgInt no AREsp 859.995/AC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/06/2019, DJe 28/06/2019)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando os recorrentes amparados pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
