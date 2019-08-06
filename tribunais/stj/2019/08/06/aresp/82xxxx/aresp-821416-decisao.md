@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional. Na ocasião, o acórdão manteve o desprovimento monocrático da apelação, deixando de reconhecer o tempo de serviço rural, sem registro em CTPS, e os períodos alegados como especiais.
+O julgado foi assim ementado (e-STJ fl. 404):
+PREVIDENCIÁRIO. AGRAVO LEGAL. AÇÃO AJUIZADA COM VISTAS À CONCESSÃO DE APOSENTADORIA POR TEMPO DE SERVIÇO. TEMPO ESPECIAL. NÃO RECONHECIDO. LABOR RURAL SEM REGISTRO EM CTPS. CONJUNTO PROBATÓRIO INSUFICIENTE. AGRAVO IMPROVIDO.
+- Recurso interposto contra decisão monocrática proferida nos termos do art. 557, do CPC.
+- Não trouxe aos autos documentos hábeis para comprovação de todo o labor especial pleiteado, tampouco a função exercida pelo demandante perfila nos róis dos Decretos 53.831/64 e 83.080/79.
+- Conjunto probatório insuficiente para comprovação de todo o labor rural, sem registro em CTPS, pleiteado.
+- O caso dos autos não é de retratação.
+- Eventual alegação de que não é cabível o julgamento monocrático no caso presente, resta superada, frente à apresentação do recurso em mesa para julgamento colegiado.
+- Agravo legal não provido.
+No especial obstaculizado, o recorrente apontou dissídio jurisprudencial com relação à interpretação da Lei n. 8.213/1991 (art. 57), apontando julgado paradigma, que considerou possível o reconhecimento do labor sob condições especiais no intervalo entre 29/04/1995 e 05/03/1997, pela demonstração da exposição por qualquer meio de prova, sendo suficiente a apresentação do formulário-padrão preenchido pela empresa, sem a exigência de embasamento em laudo técnico.
+Segundo defendeu, no caso dos autos, faz jus à contagem diferenciada no período entre 02/06/1996 e 05/03/1997, porquanto "não é necessário que o formulário preenchido pela empresa seja assinado por médico ou engenheiro do trabalho, bastando a apresentação de formulário-padrão preenchido pela empresa" (e-STJ fl. 422).
+Transcorrido in albis o prazo para contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que o julgado foi baseado em matéria fática, cuja alteração esbarra na Súmula 7 do STJ.
+Na presente irresignação, o agravante sustenta que não pretende o reexame de prova, mas a análise da questão jurídica, que pressupõe a aplicação da lei federal.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito esse esclarecimento, verifico que foram preenchidos os requisitos de admissibilidade do agravo, motivo pelo qual passo a analisar o recurso especial (e-STJ fls. 407/423).
+Assiste razão ao recorrente.
+Como é cediço, até o advento da Lei n. 9.032/1995, era possível o reconhecimento do tempo de serviço especial com base no mero enquadramento da categoria profissional do trabalhador nos anexos dos decretos previdenciários.
+A partir da aludida alteração legislativa ao art. 57 da Lei n. 8.213/1991, em 29/04/1995, passou a ser necessária a demonstração efetiva de exposição, de forma permanente, não ocasional nem intermitente, a agentes prejudiciais à saúde ou à integridade física, por qualquer meio de prova, considerando-se suficiente, para tanto, a apresentação de formulário-padrão preenchido pela empresa, sem a exigência de embasamento em laudo técnico, ressalvados os agentes nocivos ruído, frio e calor.
+Somente a contar de 06/03/1997, por ocasião da vigência do Decreto n. 2.172/97, que regulamentou as disposições introduzidas no art. 58 da Lei de Benefícios pela Medida Provisória n. 1.523/96 (convertida na Lei n. 9.528/97), passou-se a exigir, para efeito de reconhecimento de tempo de serviço especial, a comprovação da efetiva sujeição do segurado a agentes agressivos ou prejudiciais à sua integridade física por meio da apresentação de formulário-padrão, embasado em laudo técnico, ou de perícia técnica.
+Nesse sentido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. ACÓRDÃO RECORRIDO QUE RECONHECE A EXPOSIÇÃO EFETIVA AO AGENTE DANOSO POR MEIO DE FORMULÁRIO-PADRÃO. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. A Corte de origem foi expressa ao concluir que houve a comprovação do período, após 1995, trabalhado em condições especiais e também que após a vigência do Decreto 2.172/97, a partir de 06-03-1997, a norma passou a exigir, para fins de reconhecimento do tempo de serviço especial, a comprovação da efetiva sujeição do segurado a agentes agressivos por meio de formulário-padrão, embasado em laudo técnico, ou por meio de perícia.
+2. Conforme se extrai de trecho do acórdão de origem, o período de 1º/4/1996 a 13/6/2005, laborado em condições especiais, foi devidamente comprovado por formulário [PLACA]. Assim, a alegação da autarquia de que tal formulário não preenche os requisitos porque faltou-lhe o embasamento de laudo técnico é questão eminentemente fática e não pode ser examinada por esta Corte, pois se o Tribunal de origem, tendo examinado a documentação constante dos autos, concluiu pela validade do formulário, mister afirmar que alegação contrária esbarra no óbice do enunciado da Súmula 7/STJ.
+(..) Agravo regimental improvido.
+(AgRg no AREsp 512.837/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 18/06/2014, DJe 27/06/2014).
+Assim, a parte autora faz jus à averbação do tempo de serviço especial laborado de 02/06/1996 a 05/03/1997, sem exigência de formulários embasados em laudo técnico.
+Ante o exposto, com base no art. 253, II, "c", CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de reconhecer o direito ao cômputo do tempo de serviço especial entre 02/06/1996 e 05/03/1997, pela apresentação de formulário-padrão preenchido pela empresa.
+Publique-se. Intimem-se.
