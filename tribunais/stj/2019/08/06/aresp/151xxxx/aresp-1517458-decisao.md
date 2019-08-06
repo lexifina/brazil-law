@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim resumido:
+ADMINISTRATIVO. CONTRATO BANCÁRIO. EMPRÉSTIMO CONSIGNADO. DESCONTOS EM FOLHA DE PAGAMENTO. LIMITE DE 30% (TRINTA POR CENTO) DA REMUNERAÇÃO BRUTA. APELAÇÃO IMPROVIDA.
+1. Nos termos da legislação pertinente - atualmente o Decreto nº 8.690/2016 - nos contratos de empréstimo consignado a margem consignável de 30% (trinta por cento) deverá ser calculada sobre a remuneração bruta do servidor, excluído o custeio de saúde e parcelas variáveis, razão pela qual não há plausibilidade jurídica no pedido de limitação dos descontos a 30% (trinta por cento) da remuneração líquida do servidor. Precedentes do STJ e desta Turma Julgadora.
+2. Na espécie, a análise dos elementos materiais acostados aos autos revela que a soma mensal dos descontos relativos aos empréstimos consignados celebrados com a Caixa Econômica Federal e o Bradesco não ultrapassam a margem consignável legalmente permitida.
+3. Apelação improvida. Honorários recursais fixados em 10% do valor dos honorários sucumbenciais arbitrados na sentença, observado o disposto no art. 98, §3º, do CPC/2015. (fl. 565)
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 833, caput e IV, do CPC, no que concerne à extrapolação de limites de penhorabilidade sobre créditos, trazendo o(s) seguinte(s) argumento(s):
+20. Como bem ficará demonstrado nos tópicos seguintes, a decisão recorrida afronta o que dispõe o artigo 833, IV do Código de Processo Civil. A ofensa direta ao dispositivo se deu, pois, ao permitir que em um contrato bancário se estipulasse a possibilidade de retenção de valores que correspondem a totalidade de proventos, houve a extrapolação do limite considerado como impenhorável dos proventos recebidos.
+21. Ressalte-se que esse entendimento se deve pela interpretação analógica necessariamente aplicada para o caso. Excelência, tal interpretação é necessária haja vista que a situação da Recorrente não possui uma norma específica a ser aplicada, devendo-se os institutos do Código Civil reger a relação ora questionada, a fim de determinar o limite de impenhorabilidade.
+22. O juízo a quo, vale lembrar, ao deliberar sobre essa questão, entendeu que a regra da impenhorabilidade não se aplicava ao caso em comento por se tratar a autora de servidora pública, ferindo gravemente o princípio da isonomia. (fl. 630)
+ ..
+45. Logo, identifica-se no caso o seguinte: os contratos de crédito pessoal firmados com o Banco Bradesco na realidade foram verdadeiros empréstimos consignados que, quando o banco percebeu que o limite de consignação foi extrapolado, passou a aplicar os descontos direto na conta-aposentadoria.
+46. Nesse sentido, busca-se aplicar a esta situação um limite razoável de desconto que permita a subsistência do contratante, não sendo aceitável que descontos dessa natureza sejam correspondentes à integralidade dos proventos recebidos. (fl. 633)
+ ..
+56. In casu, a Caixa Econômica Federal, ao permitir a consignação do crédito, preencheu quase a totalidade do limite de 30% (trinta por cento). Após, outros empréstimos foram contraídos com o Bradesco que, ao ver o limite extrapolado, alterou o contrato de empréstimo consignado para "empréstimo pessoal". (fl. 636)
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 421 e 422 do CC, no que concerne aos limites da função social do contrato, trazendo o(s) seguinte(s) argumento(s):
+73. O último ponto a ser levantado neste Recurso Especial é o desrespeito à função social dos contratos e da boa-fé contratual, existentes nos artigos mencionados neste cabeçalho.
+74. Tais princípios, já questionados ao longo de todo o processo, foram desrespeitados na medida em que a cada empréstimo contraído pela Sra. [NOME], havia sempre a oferta de mais crédito e mais empréstimo, mesmo havendo a ciência pelos Bancos recorridos, da indisponibilidade financeira da Recorrente.
+ ..
+76. Assim, sobre o princípio da boa-fé e da probidade que devem ser preservadas nas relações jurídicas entre as partes, importante destacar a forma como o Código Civil trata a presente questão. (fl. 639)
+É o relatório. Decido.
+Quanto à primeira e à segunda controvérsias, na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que os dispositivos tidos por violados não foram examinados pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
