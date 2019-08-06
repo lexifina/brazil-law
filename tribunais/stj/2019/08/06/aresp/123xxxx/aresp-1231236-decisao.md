@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial por incidência das Súmulas n. 5 e 7 do STJ e 283 e 284 do STF (e-STJ fls. 377/379).
+O acórdão recorrido está assim ementado (e-STJ fl. 262):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SEGURO DE VIDA EM GRUPO. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DO AUTOR. PLEITO PARA QUE A SEGURADORA SEJA CONDENADA AO PAGAMENTO INTEGRAL DO VALOR DA APÓLICE, OU, SUCESSIVAMENTE, A QUANTIA DE 28% (VINTE E OITO POR CENTO) DO CAPITAL SEGURADO. IMPOSSIBILIDADE. F ERÍCIA JUDICIAL QUE ATESTA CORRETAMENTE O GRAU DE INVALIDEZ PARCIAL DO AUTOR. AUSÊNCIA DE REDUÇÃO DA CAPACIDADE LABORATIVA. SENTENÇA MANTIDA. RECURSO DESPROVIDO. Comprovado que o Autor continua desempenhando a profissão que exercia na época do acidente, revela-se inviável o pagamento integral da apólice, mostrando-se adequado o pagamento no percentual descrito pelo perito judicial.
+No especial (e-STJ fls. 270/285), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou, além de divergência jurisprudencial, ofensa aos arts. 423 do CC/2002, 6º, 46, 47 e 51 do CDC, sustentando a inobservância do direito à informação. Destacou que "no contrato havia cláusulas que restringem, limitam e ameaçam o objeto do Seguro de Vida contratado e caberia à seguradora cientificar o seu segurado acerca destes termos que, por sua vez, o desfavorecem" (e-STJ fl. 275).
+No agravo (e-STJ fls. 382/403), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida apresentou contraminuta (e-STJ fls. 409/415).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 265):
+Ainda que o Autor se enquadre no conceito de consumidor e a Ré no de fornecedor, não há se falar, no caso, em desconhecimento das cláusulas gerais do contrato, porque o Apelante possuía conhecimento da apólice, de modo que foi juntada com a inicial (fl. 22), constando que o pagamento poderá ser total ou parcial, com valores de "ATÉ" R$ 30.295,50 (trinta mil duzentos e noventa e cinco reais e cinquenta centavos).
+Para reformar o acórdão recorrido e reconhecer a contrariedade ao direito de informação do consumidor, exigiria-se a apreciação das cláusulas contratuais e do conjunto fático-probatório dos autos, hipótese vedada pelas Súmulas n. 5 e 7 do STJ.
+Com relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais o recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
