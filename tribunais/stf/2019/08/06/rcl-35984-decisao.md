@@ -1,0 +1,20 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Cecília Carolina Ramiro Ribeiro afirma haver o Tribunal de Justiça do Estado do Rio de Janeiro, no processo nº 0000818-77.2017.8.19.0057, usurpado a competência do Supremo.
+    Segundo narra, no curso de certa demanda ajuizada contra Claro S.A. ante a arguida falha na prestação do serviço de telefonia, interpôs recurso extraordinário, o qual teve o processamento impedido. Não obteve êxito em subsequente agravo interno. Aponta a formalização, com respaldo no artigo 1.042 do Código de Processo Civil, de segundo agravo, não conhecido. Diz configurada a repercussão geral da matéria em discussão, observada a afronta aos princípios da segurança jurídica e da isonomia.
+    Assevera caber ao Supremo apreciar o extraordinário protocolado. Realça a deficiência da fundamentação da decisão prolatada no agravo interposto em face da negativa de sequência do extraordinário. Destaca a existência, no âmbito judicial, de soluções distintas para idêntica questão, surgindo daí a vulneração ao princípio da isonomia. Frisa violados os artigos 1º, inciso III, e 5º, cabeça, incisos V, X e XXXII, da Constituição Federal.
+    Requer, em sede liminar, seja determinado o processamento do extraordinário protocolado, bem assim suspensos todos os processos nos quais debatida a mesma matéria no Tribunal de Justiça do Estado do Rio de Janeiro. Busca, alfim, a confirmação da providência e o pagamento da indenização postulada.
+    2. Atentem para a instrumentalidade do Direito. Considerado o disposto no artigo 1.030, inciso I, alínea “a”, e § 2º, do Código de Processo Civil, deve o Tribunal de origem negar seguimento a extraordinário se versada discussão em relação à qual tenha o Supremo assentado não configurada a repercussão geral. Contra o pronunciamento formalizado, caberá agravo interno. Dirimido este, inexiste previsão de novo agravo visando a submissão da controvérsia ao Supremo.
+    A par disso, o Pleno proclamou, nos recursos extraordinários com agravo nº 950.787, 927.467 e 919.285, Temas nº 890, 869 e 866, respectivamente, a ausência de repercussão geral quando em jogo pretensão indenizatória com base no descumprimento de cláusulas contratuais. Confiram as ementas:
+    RECURSO EXTRAORDINÁRIO COM AGRAVO. RECISÃO CONTRATUAL. INDENIZAÇÃO POR BENFEITORIAS CONSTRUÍDAS. FUNÇÃO SOCIAL DA PROPRIEDADE. DIGNIDADE DA PESSOA HUMANA. PRINCÍPIOS DA LEGALIDADE, DO DEVIDO PROCESSO LEGAL E DO ACESSO À JUSTIÇA. IMPOSSIBILIDADE DE REDISCUSSÃO DE CLÁUSULAS CONTRATUAIS. INEXISTÊNCIA DE MATÉRIA CONSTITUCIONAL. SÚMULAS 279 E 454 DO STF. TEMA 890. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+    (Recurso extraordinário com agravo nº 950.787, relator o ministro Edson Fachin, acórdão publicado em 8 de fevereiro de 2017.)
+    CONSUMIDOR. DANO MORAL. INADIMPLEMENTO DE CLÁUSULA CONTRATUAL. MATÉRIA FÁTICA E INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    (Recurso extraordinário com agravo nº 927.467, relator o ministro Edson Fachin, acórdão publicado em 16 de dezembro de 2015.)
+    PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. LEGITIMIDADE DE REVISÃO DE CONTRATO JÁ EXTINTO. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à legitimidade da revisão de contrato já extinto, por se resolver tão somente a partir da interpretação e da aplicação das normas legais pertinentes, é de natureza infraconstitucional. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.
+    (Recurso extraordinário com agravo nº 919.285, relator o ministro Teori Zavascki, acórdão publicado em 13 de novembro de 2015.)
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 6 de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
