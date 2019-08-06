@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NCPC. AÇÃO DE ADIMPLEMENTO CONTRATUAL. SUBSCRIÇÃO DE AÇÕES DA TELEFONIA FIXA E CELULAR. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 535 DO CPC/73. CONFIGURAÇÃO. OMISSÃO E ERRO MATERIAL. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+DECISÃO
+Da leitura da minuta de agravo de instrumento, extrai-se que ARIONE DO AMARAL FURTADO E OUTROS (ARIONE E OUTROS) ajuizaram ação de adimplemento contratual contra a OI S.A. (OI), objetivando diferencial acionário da telefonia fixa e da celular CRT (Dobra acionária) e consectário legais, julgada improcedente.
+O Juízo de piso homologou o valor apurado no laudo pericial atualizado até 31/03/2013, porém com atualização de tal valor somente a contar da data daquela decisão, qual seja, 30/10/2014.
+O Tribunal de origem negou provimento ao agravo de instrumento interposto por ARIONE E OUTROS, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. BRASIL TELECOM S/A. LIQUIDAÇÃO DE SENTENÇA. PRECLUSÃO. OCORRÊNCIA. No caso em apreço, os ora agravantes alegam que, diferente do que constou na decisão da liquidação de sentença transitada em julgado, é descabido que o valor apurado pelo Perito em 31.03.2014 sofra correção apenas em 30.10.2014. Verifica-se, portanto, que não se trata de alegação de erro de cálculo, mas sim de requerimento de alteração de critério no julgamento da liquidação de sentença. Com efeito, os prazos recursais são próprios, cujo vencimento acarreta a preclusão temporal, dando lugar à perda da faculdade de praticar o ato processual. Assim, a ausência da regular irresignação no momento oportuno acarreta o instituto da preclusão temporal, independentemente de declaração judicial. Irresignando-se com a forma de atualização dos valores, deveria, a parte agravante, ter interposto o recurso adequado no momento em que foi intimada da decisão que julgou a liquidação de sentença, em 11 de novembro de 2014. Não o fazendo, operou-se a preclusão temporal, nos termos do art. 183 do CPC.
+AGRAVO DE INSTRUMENTO DESPROVIDO (e-STJ, fl. 801).
+Os embargos de declaração opostos por ARIONE E OUTROS foram rejeitados (e-STJ, fls. 817/822).
+Irresignados, ARIONE E OUTROS interpuseram recurso especial, com fundamento no art. 105, III, alíneas a e c, da CF, alegando, além de dissídio jurisprudencial, violação dos arts. 468, 469, 471, 472, 473, 474 e 535 do CPC/73, sob os argumentos de (1) negativa de prestação jurisdicional consubstanciada em erro material no cálculo indenizatório, uma vez que ausente a atualização do débito entre a data em que julgada a liquidação e a data em que homologado o cálculo; e, (2) ofensa a coisa julgada; (e-STJ, fls. 826/839).
+Com contrarrazões (e-STJ, fls. 884/886), o recurso não foi admitido na origem por: (a) impossibilidade de alegação de ofensa a norma constitucional pela via especial; (b) ausência de negativa de prestação jurisdicional; e, (c) incidência das Súmulas 7 e 83 do STJ (e-STJ, fls. 891/907).
+Nas razões de agravo, ARIONE E OUTROS sustentaram a existência de omissões no julgado, bem como o afastamento das súmulas supramencionadas (e-STJ, fls. 379/392).
+Apresentada contraminuta (e-STJ, fls. 929/934).
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da violação do art. 535, I e II, do CPC/73
+O Tribunal de origem, ao analisar os embargos de declaração, deixou de sanar a omissão relativa à alegação de ofensa à coisa julgada que imperaria sobre a preclusão, pois o título executivo previu expressamente a incidência de correção monetária e juros de mora no cálculo da condenação; além do erro material consubstanciado no fato de se determinar a atualização do débito tão-somente a contar da data da decisão que julgou a liquidação de sentença.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenham sido analisadas pelo acórdão objurgado. Assim, recusando-se a Corte de origem a se manifestar sobre a questão federal terminou por negar prestação jurisdicional aos Recorrentes.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+Fica prejudicada a analise do mérito.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para CONHECER do recurso especial e DAR-LHE PROVIMENTO determinando o retorno dos autos ao Tribunal de origem para que analise questões trazidas nos embargos de declaração, como entender de direito.
+Publique-se. Intimem-se.
