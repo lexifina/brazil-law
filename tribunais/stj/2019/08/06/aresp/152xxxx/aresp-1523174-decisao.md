@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo apresentado por MZM EMPREENDIMENTOS IMOBILIARIOS EIRELI e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+COMPRA E VENDA - CUMPRIMENTO DE SENTENÇA - EXTINÇÃO DO FEITO - INADMISSIBILIDADE - LEGITIMIDADE CONCORRENTE DA PARTE E DO SEU PATRONO PARA PROPOR AÇÃO DE COBRANÇA RELATIVA AOS HONORÁRIOS - PRECEDENTES DO STJ - EXTINÇÃO AFASTADA - ANÁLISE DO MÉRITO POR APLICAÇÃO DO ARTIGO 1013 §1º I DO CPC - MANUTENÇÃO DA CONDIÇÃO DE HIPOSSUFICIENTES DOS APELADOS - IMPROCEDÊNCIA DA DEMANDA - SUCUMBÊNCIA DA APELANTE - RECURSO PARCIALMENTE PROVIDO (fl. 204).
+Quanto à controvérsia posta nos autos, pela alínea "a" do permissivo constitucional, alega violação dos arts. 85 e 369 do CPC, no que concerne à oportunidade à parte recorrente a produção de provas da cessação da hipossuficiência da parte contrária, trazendo o(s) seguinte(s) argumento(s):
+E, por consequência, viola o artigo 85 do CPC, pois impede as recorrentes de receber seus honorários, haja vista que, diante do exposto, é o caso de se cessar o benefício da justiça gratuito concedido e impor, aos recorridos, o pagamento das custas e despesas processuais decorrentes da sucumbência (fl. 217).
+É o relatório. Decido.
+Na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
