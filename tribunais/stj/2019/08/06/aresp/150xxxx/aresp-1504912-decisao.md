@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7/STJ (e-STJ fls. 1.063/1.065).
+O acórdão recorrido está assim ementado (e-STJ fl. 919):
+AGRAVO DE INSTRUMENTO - AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO - SENTENÇA DE PROCEDÊNCIA DO PEDIDO INICIAL E DO PEDIDO RECONVENCIONAL DE RESTITUIÇÃO DE VALORES - CUMPRIMENTO DE SENTENÇA - DECISÃO AGRAVADA - EXECUÇÃO DE VERBA HONORÁRIA PELO ANTIGO PATRONO DOS REQUERIDOS EM FACE DOS REQUERENTES - DEFERIMENTO DE PENHORA SOBRE MONTANTE DEPOSITADO EM CONTA VINCULADA AO JUÍZO - REFORMA - VALOR CONSIGNADO PELA PARTE REQUERIDA - DESFAZIMENTO DA CONTRATAÇÃO EM SENTENÇA - QUANTIA QUE NUNCA INGRESSOU NA ESFERA PATRIMONIAL DOS AUTORES - IMPOSSIBILIDADE DE EXIGIR-SE O PAGAMENTO DE QUEM NÃO TEM O DEVER DE CUMPRIR - PEDIDO DE LEVANTAMENTO DO VALOR DEPOSITADO - NÃO CONHECIMENTO - QUESTÃO NÃO APRECIADA PELO JUÍZO DE ORIGEM - IMPOSSIBILIDADE DE APRECIAÇÃO, SOB PENA DE SUPRESSÃO DE INSTÂNCIA - FIXAÇÃO DE HONORÁRIOS RECURSAIS - DESCABIMENTO - AUSÊNCIA DE ARBITRAMENTO PRÉVIO NA DECISÃO AGRAVADA - RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO AGRAVO INTERNO - DECISÃO LIMINAR QUE DEFERIU PARCIALMENTE O EFEITO SUSPENSIVO RECURSAL - JULGAMENTO DO MÉRITO DO AGRAVO DE INSTRUMENTO - RECURSO PREJUDICADO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.006/1.011).
+No especial (e-STJ fls. 1.022/1.038), fundamentado no art. 105, III, "a", da CF, o recorrente alegou ofensa aos arts. 890 do CPC/1973 e 539 do CPC/2015, sustentando, em síntese, a possibilidade de levantamento do valor correspondente aos honorários advocatícios diretamente da conta-poupança vinculada ao Juízo da execução.
+No agravo (e-STJ fls. 1.073/1.078), afirma a presença de todos os requisitos de admissibilidade do especial.
+Os recorridos apresentaram contraminuta (e-STJ fls. 1.087/1.090).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 933):
+Assim, diante da peculiaridade da situação dos autos, não se mostra razoável retirar dos agravantes a titularidade do montante depositado unicamente em razão do transcurso de significativo lapso temporal sem que se tenha buscado o seu levantamento.
+Deve ser reconhecido, portanto, que os valores depositados em juízo não pertencem aos espólios requerentes/agravados, mas aos requerentes/agravantes, o que permite acolher o pedido para impedir o levantamento de tal quantia pelo agravado [NOME].
+Caberá a este buscar a satisfação do seu crédito em face de quem tem a obrigação de pagá-lo (espólios).
+Todavia, em que pese o entendimento manifestado, não se faz possível o conhecimento do pedido dos agravantes de levantamento da quantia depositada.
+E assim porque a questão não foi objeto de apreciação pelo juízo de origem na decisão agravada, de forma que sua análise em sede recursal poderia configurar a vedada supressão de instância, sobretudo quando considerado que existe possibilidade de compensação de valores devidos entre os agravantes e os espólios agravados, conforme apontado em contrarrazões1, o que deverá ser avaliado pelo magistrado singular antes de esta Corte tecer qualquer consideração a respeito.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de que a análise do pedido de levantamento da quantia depositada configuraria supressão de instância. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Além disso, a insurgência quanto à titularidade do montante depositado não pode ser sustentada apensa com base nos arts. 890 do CPC/1973 e 539 do CPC/2015, os quais não regulam a matéria da forma como tratada nos autos. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Além do mais, dissentir das conclusões do acórdão impugnado implicaria reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto na Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
