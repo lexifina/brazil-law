@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo apresentado por FAZENDA DO ESTADO DE SÃO PAULO, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Apelação cível Ação anulatória de débito fiscal com pedido de indenização por danos morais ITCMD Doação - Inscrição no CADIN estadual Protesto de CDA - Sentença de procedência Recurso da FESP e remessa necessária suscitada.
+1. ITCMD Doação Pai que comprou imóvel para a filha em 1998, já constando desde então de sua declaração de imposto de renda Auto de Infração e Imposição de Multa (AIIM) que foi lavrado tão somente em 2013 Configuração da decadência, com a consequente extinção do crédito tributário (art. 156, inc. V, CTN).
+2. Danos morais configurados Indevida inclusão do nome da autora nos cadastros de inadimplemento em situação na qual o ITCMD não era devido, até porque a decadência extingue o próprio direito (crédito tributário) - Verba indenizatória arbitrada de maneira razoável e proporcional (R$ 10.000,00) Evidenciado o nexo causal.
+R. Sentença mantida. Recurso e remessa necessária desprovidos.
+Alega violação do art. 173 do CTN, no que concerne à impossibilidade de declaração de decadência da AIIM, tendo em vista a contagem do prazo começar somente da data do conhecimento do fato gerador e não do ato de doação, assim devendo ser afastado a condenação de indenização por danos morais , trazendo o(s) seguinte(s) argumento(s):
+Diferentemente do defendido pela autora, é de se ressaltar não ser fundamental a data da ocorrência da doação. O fato gerador é o ato de doar (não se discute), porém o início do prazo decadencial começa não no ato da doação, mas na data em que o Estado teve (ou poderia ter) conhecimento do mesmo.
+Nesse caso, apenas com a declaração do imposto de renda, que no caso em tela foi entregue apenas no ano de 2009, é que o Estado teve conhecimento da doação.
+(..)
+Dessa forma, o prazo decadencial, nos termos do artigo 173, inciso I, do CTN, se esgotou em 31 de dezembro de 2014. O AIIM foi aperfeiçoado em 12 de dezembro de 2013, não se podendo arguir a decadência (fls. 182/184).
+É o relatório. Decido.
+Na espécie, o Tribunal de origem decidiu a controvérsia com base nos seguintes fundamentos:
+Não há que se falar que o termo inicial para a contagem do prazo decadencial quinquenal seria a apresentação de declaração de imposto de renda pela ora apelada em 2009, referente ao exercício de 2008, vez que já constava da declaração de seu pai, como sua dependente, desde o exercício da aquisição e registro do imóvel em seu nome, motivo pelo qual o crédito se encontra realmente extinto pela decadência.
+Ou seja, a autora apenas declarou o imóvel em 2009 porque foi a primeira vez em que teve de fazer declaração de imposto de renda, sendo que, antes disso, era dependente de seu pai, já constando anteriormente o mesmo imóvel em seu nome nas declarações de seu genitor (fls. 172/173).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
