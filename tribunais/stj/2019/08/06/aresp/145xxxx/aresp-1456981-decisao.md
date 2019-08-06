@@ -1,0 +1,32 @@
+DECISÃO
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. TERMO INICIAL. PRETENSÃO RECURSAL QUE DEMANDA INFIRMAR PREMISSA FÁTICA DO ACÓRDÃO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO DO ESTADO DA PARAÍBA DESPROVIDO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pelo ESTADO DA PARAÍBA em face de acórdão de lavra do TJ/PB.
+2. Aponta, nas razões de seu Apelo Nobre inadmitido, ofensa ao art. 174 do CTN. Sustenta que não ocorreu prescrição tributária nem intercorrente. Assim, da simples análise da data da CDA/constituição do crédito 22/02/1994 e da citação por edital, yê-se que não se passaram 05 (cinco) anos entre a constituição do crédito e a data dá citação (fls. 324).
+3. É o relatório.
+4. O Tribunal de origem, soberano na análise de fatos e provas, consignou o que se segue:
+No caso dos autos, o despacho que ordenou a citação pessoal do Executado foi proferido em 16 de agosto de 1994, f. 05, portanto, em data anterior à vigência da referida LC n.º 118/2005, pelo que deve ser considerada a citação válida como a causa de interrupção da prescrição.
+Ressalta-se que a constituição definitiva do presente crédito tributário ocorreu em 1989 e que a parte Executada foi citada por edital apenas em agosto de 1996, fora, portanto, do prazo de cinco anos estabelecido pelo art. 174 do Código Tributário Nacional.
+Ademais, não há que se falar em aplicação da Súmula 106, do STJ, quando o Código Tributário Nacional já fixou qual o marco para a interrupção da prescrição nas execuções fiscais, exceto na hipótese de comprovada desídia do Judiciário, que não foi demonstrada pelo Recorrente, entendimento consonante com a jurisprudência do Superior Tribunal de Justiça e deste Tribunal (fls. 299/300).
+5. Como se observa, divergem o aresto recorrido e a parte recorrente quanto ao termo inicial do lustro prescricional, enquanto o Tribunal de origem afirma que a constituição definitiva se deu em 1989, a Fazenda Pública aduz que ocorreu em 1994. Do mesmo modo, alega-se a ocorrência de causa interruptiva do prazo não reconhecida na origem.
+6. Contudo, em sede de recorribilidade extraordinária, os fatos são tomados de acordo com o delineamento efetuado pela Instância Ordinárias. Portanto, a pretensão recursal que exige, para o seu provimento, infirmar premissa fática estampada no acórdão esbarra na Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA AFASTADA. ALEGAÇÃO DE PRESCRIÇÃO EMBASADA EM DATA DIVERSA DA DEFINIDA PELA CORTE LOCAL COMO DIES A QUO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. O Tribunal de origem consignou: "Acontece que, o certificado do trânsito em julgado nos autos de mandado de segurança ocorreu em 08 de setembro de 2010, na seqüência, houve a execução das parcelas devidas, inclusive as anteriores à impetração do mandado de segurança. O Estado do Paraná, interpôs agravo de instrumento que foi acolhido pelo Tribunal de Justiça, impossibilitando a execução por aquela via processual, tal decisão datou de 04/12/2012. Assim, este foi o último ato do referido processo, o Acórdão desta Sexta Câmara Cível prolatado em 04/12/2012 quando julgado o agravo de instrumento nº 867.684-8 (fls. 147/150). Desta forma, como entre a data que pôs fim ao ato judicial que interrompeu a contagem do prazo prescricional (04/12/2012) e a data da propositura da presente demanda (31/05/2013), não decorreu o prazo de dois anos e meio, assim, não há o que falar em prescrição, porquanto a demanda foi proposta dentro do prazo restante para completar a fluência do prazo qüinqüenal anteriormente interrompido" (fl. 334, e-STJ - grifo nosso).
+2. Por outro lado, o insurgente informa que a data do trânsito em julgado do processo é diversa da definida no acórdão recorrido.
+3. Nesse contexto, o acolhimento da pretensão recursal pressupõe revolvimento fático-probatório, o que é vedado no âmbito do Recurso Especial (Súmula 7/STJ).
+4. Recurso Especial não conhecido (REsp. 1.681.592/PR, Rel. Min. HERMAN BENJAMIN, DJe 9.10.2017).
+
+PROCESSUAL CIVIL. EXECUÇÃO. MULTA AMBIENTAL. CONTAGEM DE PRAZO PRESCRICIONAL. REDEFINIÇÃO DOS MARCOS TEMPORAIS. REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. SUSPENSÃO DA EXECUÇÃO. MATÉRIA NÃO COMBATIDA NO RECURSO ESPECIAL. SÚMULA 283/STF.
+1. Hipótese em que o Tribunal a quo assentou que houve a suspensão da execução e reformou a sentença que declarou a prescrição antes de decorrido o prazo quinquenal.
+2. A pretensão de revisão dos marcos temporais considerados pelo acórdão recorrido implica, no caso, reexame da matéria fático-probatória dos autos, o que é vedado em Recurso Especial, conforme Súmula 7/STJ.
+3. A falta de combate sobre o fundamento principal que negou a pretensão da recorrida atrai a aplicação do óbice de admissibilidade do Recurso Especial previsto na Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+4. Agravo Regimental não provido (AgRg no AREsp. 330.060/MT, Rel. Min. HERMAN BENJAMIN, DJe 19.3.2014).
+
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PRESCRIÇÃO. CAUSA INTERRUPTIVA. COMPROVAÇÃO. AUSÊNCIA. REEXAME DE FATOS E PROVA. IMPOSSIBILIDADE. CDA. PRESUNÇÃO DE VERACIDADE E LEGITIMIDADE. ELEMENTOS ESSENCIAIS. SÚMULA 83 DO STJ. INCIDÊNCIA.
+1. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Hipótese em que o Tribunal de origem se manifestou expressamente sobre a insuficiência dos elementos aptos a comprovar o parcelamento da dívida tributária.
+3. Não é viável o conhecimento do recurso especial quanto à discussão sobre a existência de causa interruptiva da prescrição, nos termos da Súmula 7 do STJ.
+4. A presunção de veracidade e legitimidade está adstrita aos elementos essenciais da Certidão da Dívida Ativa, estabelecidos pelo art. 202 do CTN, e entre os quais não se encontram eventuais parcelamentos do crédito tributário.
+5. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+6. Agravo interno desprovido (AgInt no AREsp. 1.312.500/PR, Rel. Min. GURGEL DE FARIA, DJe 19.3.2019).
+7. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do ESTADO DA PARAÍBA.
+8. Publique-se. Intimações necessárias.
