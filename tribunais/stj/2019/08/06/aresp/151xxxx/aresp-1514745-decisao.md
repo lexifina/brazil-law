@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo apresentado por COOPERATIVA DE CRÉDITO E INVESTIMENTO DE LIVRE ADMISSÃO AGROEMPRESARIAL - SICREDI AGROEMPRESARIAL PR/SP contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas a e c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO.
+1. TRAMITAÇÃO ELETRÔNICA DO PROCESSO ORIGINÁRIO. DESNECESSIDADE DE TRASLADO DE PEÇAS OBRIGATÓRIAS (CPC, ART. 1.017, § 5º). PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO ARGUIDA NAS CONTRARRAZÕES AFASTADA.
+2. IMPENHORABILIDADE DE BEM DE FAMÍLIA (LEI Nº 8.009/90, ARTS. 1º E 5º). IMÓVEL DESTINADO À MORADIA PERMANENTE DO CASAL OU ENTIDADE FAMILIAR, CONFORME AMPLAMENTE COMPROVADO PELO AGRAVADO. DESNECESSIDADE DE PROVA DE QUE SE TRATA DO ÚNICO BEM DE SUA PROPRIEDADE. ÔNUS DO CREDOR EM DESCARACTERIZAR O BEM DE FAMÍLIA INDICADO À PENHORA. PRECEDENTES DO STJ. AUSÊNCIA DE PROVA. MANUTENÇÃO DA DECISÃO.
+RECURSO DESPROVIDO.
+Quanto à primeira controvérsia, pela alínea a do permissivo constitucional, alega violação dos arts. 1º e 5º da Lei n. 8.009/90, no que concerne à ausência de comprovação de impenhorabilidade do imóvel dos recorridos, trazendo o(s) seguinte(s) argumento(s):
+Conforme se observa do caso em apreço, não restaram comprovados os requisitos configuradores para que o imóvel seja declarado como bem de família.
+ ..
+No entanto, ao contrário dos argumentos utilizados pelo Executado, não há qualquer prova das razões lançadas na presente Arguição de Impenhorabilidade e que impossibilitem a penhora sobre o imóvel, ônus este que lhe incumbe, nos termos do artigo 373, inciso I do Código de Processo Civil.
+Isto porque, conforme se observa nos documentos colacionados, o Executado somente juntou nos autos a cópia do contrato de compra e venda, não trazendo qualquer certidão que comprove que o referido imóvel seja seu único bem.
+ ..
+Assim, resta evidente que o Executado não logrou êxito em comprovar os requisitos necessários para que o bem dado em garantia seja protegido pela legislação pertinente ao bem de família (fls. 73/75).
+Quanto à segunda controvérsia, pela alínea c do permissivo constitucional, alega violação da Lei n. 8.009/90, no que concerne à penhorabilidade de bem imóvel ofertado em garantia hipotecária, trazendo o(s) seguinte(s) argumento(s):
+Enquanto o E. Tribunal do Rio Grande do Sul, entende penhorável imóvel que ofertado em garantia hipotecária resta afastada a impenhorabilidade, e mesmo considerando a ausência de prova e o oferecimento do imóvel em garantia hipotecária, entendeu o Tribunal de Justiça do Paraná entendeu que impenhorabilidade deve prevalecer, tendo assim agido em confronto com o que consta nos entendimentos jurisprudenciais mencionados acima (fl. 82).
+É o relatório. Decido.
+Quanto à primeira controvérsia, o acórdão recorrido contém os seguintes fundamentos:
+9. Na hipótese em exame, a fatura de energia elétrica (mov. 62.4) comprova que [NOME] reside na Rua Attilio Sorpressi, nº 440, em Rolândia/PR, objeto da penhora.
+10. No que diz respeito a comprovação de que o imóvel onde reside o devedor seja o único de sua propriedade, o Superior Tribunal de Justiça já decidiu quanto a sua desnecessidade para fins de impenhorabilidade do bem de família (REsp 988.915/SP, Rel. Ministro Raul Araújo, 4ª TURMA, DJe 8-6-2012).
+11. Ademais, trata-se de prova a ser realizada no interesse do credor, cabendo, assim, a este fazer ou solicitar as pesquisas em registros imobiliários.
+ ..
+12. No caso dos autos, contudo, o agravante não se desincumbiu do ônus de descaracterizar, seja por certidões dos Cartórios de Registro de Imóveis da região, quer por outras provas mais contundentes, o bem de família indicado à penhora.
+13. Desse modo, tendo o devedor comprovado que o bem indicado à penhora (mov. 58.2) é destinado à sua moradia, correta a decisão agravada ao determinar o levantamento da penhora, pois protegido pela absoluta impenhorabilidade (Lei nº 8.009/90) (fls. 53/58).
+Aplicável, portanto, o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais os dispositivos legais que seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, o Superior Tribunal de Justiça já se manifestou na linha de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF" (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+Além disso, não foi comprovado o dissídio jurisprudencial, uma vez que inexistente a necessária identidade jurídica e/ou similitude fática entre o acórdão recorrido e o(s) paradigma(s) indicado(s).
+Nesse sentido, o STJ fixou que "o conhecimento da divergência jurisprudencial reclama a existência de similitude fático-jurídica entre o acórdão recorrido e os paradigmas submetidos a confronto" (EDcl no Resp n. 1.254.636/ES, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 23/4/2015).
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp n. 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; e AgRg no REsp n. 1.500.980/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/3/2015).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
