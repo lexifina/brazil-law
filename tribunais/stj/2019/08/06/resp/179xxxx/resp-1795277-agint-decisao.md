@@ -1,0 +1,25 @@
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. RFFSA. EXTINÇÃO DO CRÉDITO TRIBUTÁRIO POR DAÇÃO EM PAGAMENTO. OMISSÃO. CONFIGURAÇÃO. AGRAVO INTERNO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO, DAR PROVIMENTO AO RECURSO ESPECIAL PARA DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL A QUO.
+DECISÃO
+Trata-se de Agravo Interno interposto pela União, contra a decisão de minha relatoria, assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. VIOLAÇÃO DO ART. 535 DO CPC/73. SÚMULA N. 284/STF. IMUNIDADE RECÍPROCA DA RFFSA. APLICABILIDADE DE PRECEDENTE DO STF AO CASO CONCRETO. ACÓRDÃO AMPARADO EM FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE. USURPAÇÃO DA COMPETÊNCIA DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões recursais, o agravante sustenta que restou devidamente fundamentado no especial as razões pelas quais o acórdão recorrido padeceria de vício. Sustenta que os embargos à execução fiscal opostos pela ora agravante foram acolhidos em primeiro grau em virtude da extinção do crédito tributário por dação em pagamento do imóvel sobre o qual incide o tributo em questão, de forma que seria inaplicável o Recurso Extraordinário utilizado pela Vice-presidência da Corte de origem em sede de juízo de retratação.
+No mérito, aduz que o recurso especial não trata sobre a existência de imunidade, mas sobre a extinção do crédito tributário em virtude de dação em pagamento do imóvel, não havendo que se falar em matéria de índole constitucional.
+Pugna, por fim, pela reconsideração da decisão, em juízo de retratação, ou pelo julgamento do presente recurso pelo Órgão Colegiado.
+É o relatório.
+Com relação à preliminar, assiste razão a parte.
+Aduz-se que o decisium recorrido violou o art. 535, II, do CPC/73 porquanto padece de omissão e erro material. Isso porque o crédito tributário teria sido extinto pela dação em pagamento do imóvel, e não pela imunidade recíproca, de forma que não caberia juízo de retratação.
+Opostos embargos de declaração pela União, foram eles rejeitados sem que fosse considerada a dação em pagamento celebrada entre a RFFSA e a Prefeitura Municipal de Santos a qual extinguiu o crédito tributário em um primeiro momento.
+A omissão é relevante e capaz de, em tese, alterar o resultado do julgado.
+Dessa feita, imperioso o retorno dos autos à Corte de origem para novo julgamento dos declaratórios à luz da dação em pagamento suscitada.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. CRÉDITO TRIBUTÁRIO. IPTU. ARREMATAÇÃO DE IMÓVEL EM HASTA PÚBLICA. SUB-ROGAÇÃO SOBRE O PREÇO DO BEM. AFASTAMENTO DA REGRA DO ART. 130, PARÁGRAFO ÚNICO DO CTN. EDITAL CONSIGNANDO A EXISTÊNCIA DE DÉBITOS FISCAIS E ATRIBUINDO AO ARREMATANTE A RESPONSABILIDADE PELA QUITAÇÃO DOS MESMOS. QUESTÃO INVOCADA E NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM. FUNDAMENTAÇÃO DECISÓRIA DEFICIENTE CONSTATADA. VIOLAÇÃO DO ART. 489, § 1º, DO CPC/2015 CONFIGURADA.
+I - Na origem, cuida-se de mandado de segurança julgado procedente, em primeira e segunda instância para: declarar inexigíveis ao arrematante os créditos oriundos do inadimplemento do IPTU incidente sobre a propriedade do bem imóvel antes da arrematação do mesmo em hasta pública; e determinar que a autoridade impretrada forneça ao impetrante a certidão negativa de débitos tributários, relativa ao período anterior à data da arrematação do imóvel.
+II - A parte recorrente sustenta, em síntese, que o acórdão recorrido careceu de adequada fundamentação, porquanto não foram enfrentados os argumentos por ela oportunamente suscitados quando da interposição tanto da apelação quanto dos embargos de declaração.
+III - Em que pese a interposição de embargos declaratórios contra o acórdão proferido, o Tribunal de origem não enfrentou o argumento invocado pela parte ora recorrente, relativo à expressa menção, no edital de hasta pública, da existência de débitos fiscais de IPTU vinculados ao imóvel levado à praça, pelos quais ficaria responsável o eventual arrematante do bem.
+IV - A ausência de apreciação da questão invocada apta, ao menos em tese, a infirmar a conclusão obtida pela Corte Julgadora originária denotou a deficiência da fundamentação decisória do acórdão proferido e, consequentemente, caracterizou a violação do art. 489, § 1º, do CPC/2015. Precedente: REsp n. 1.685.549/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 19/9/2017, DJe 10/10/2017.
+V - Impositiva a anulação do acórdão impugnado, com o retorno dos autos ao Tribunal de origem, a fim de que o argumento relevante invocado, carente de apreciação, seja devidamente enfrentado.
+VI - Recurso especial parcialmente provido.
+(REsp 1810282/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 11/06/2019, DJe 14/06/2019)
+ Ante o exposto, com fulcro no art. 1.021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, conheço do agravo interno para, em juízo de retratação, reconsiderar a decisão agravada, a fim de dar provimento ao recurso especial para determinar o retorno dos autos ao Tribunal a quo para rejulgamento dos embargos de declaração.
+ Publique-se. Intimem-se.
