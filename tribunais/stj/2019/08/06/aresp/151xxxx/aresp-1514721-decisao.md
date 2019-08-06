@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por SINDICATO DOS SERV PUB CIVIS DO GRUPO T A F DO CEARA contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim resumido:
+ADMINISTRATIVO APELAÇÃO CÍVEL SERVIDORES PÚBLICOS GREVE DESCONTO DOS DIAS PARADOS POSSIBILIDADE PRECEDENTES DO STJ E DESSA CORTE DE JUSTIÇA APELAÇÃO CONHECIDA E IMPROVIDA SENTENÇA MANTIDA.
+1. A Lide em contendo cinge-se em analisar a legitimidade dos descontos realizados na remuneração dos servidores públicos fazendários do Estado do Ceará, bem como das anotações em ficha funcional, em decorrência da paralisação grevista realizada no dia 30/04/2013.
+2.A Administração pública deve proceder ao desconto dos dias de paralisação decorrentes do exercício do direito de greve pelos servidores públicos, em virtude da suspensão do vínculo funcional que dela decorre, permitida a compensação em caso de acordo. O desconto será, contudo, incabível se ficar demonstrado que a greve foi provocada por conduta ilícita do Poder Público. Precedentes.
+3.Prevalece o entendimento da Suprema Corte de que a paralisação dos serviços em decorrência de greve importa na suspensão do contrato de trabalho, nos termos do disposto no art. 7º da Lei nº 7.783/89, razão pela qual, não havendo trabalho, independentemente da qualificação jurídica da greve, o empregador não está obrigado a efetuar o pagamento dos valores correspondentes ao período não trabalhado, salvo situações excepcionais.
+4. No caso em tela, percebe-se que os recorrentes não se desincumbiram do ônus de provar que a greve foi desencadeada por conduta abusiva da administração pública. Mostra-se legal, assim, o desconto efetuado nos vencimentos dos servidores.
+5. Apelação conhecida e desprovida.
+
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp n. 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/6/2018).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
