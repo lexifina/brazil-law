@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. AGRAVO DE INSTRUMENTO CONTRA DECISÃO CONCESSIVA DE TUTELA DE EVIDÊNCIA. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PREJUDICIALIDADE. PERDA DO OBJETO. PRECEDENTES. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Instituto de Previdência dos Servidores do Estado do Rio Grande do Norte em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, que negou provimento ao agravo de instrumento lá interposto em face de decisão do d. Juízo da 3ª Vara da Fazenda Pública da Comarca de Natal/RN, o qual havia deferido parcialmente a tutela de evidência requerida pela parte impetrante.
+Por meio da decisão acostada às e-STJ fls. 174/185, não conheci do agravo em recurso especial, ante a ausência de impugnação específica da decisão de inadmissibilidade.
+Irresignado, o agravante interpôs agravo interno às e-STJ fls. 174/185.
+Por meio dos despachos de e-STJ fls. 190 e 195, determinei a intimação das partes para que informassem o andamento processual do mandado de segurança impetrado no d. Juízo de origem.
+A parte agravante esclareceu que houve a prolação de sentença de mérito no d. Juízo de origem em 09/05/2019, conforme petição juntada às e-STJ fls. 198/208.
+É o relatório. Decido.
+O presente recurso está prejudicado.
+Segundo informações prestadas pelo próprio agravante, foi proferida sentença de mérito, em 09/05/2019, nos autos do Mandado de Segurança nº 0847214-95.2016.8.20.5001, tendo sido concedida integralmente a segurança e deferido a tutela antecipada, conforme sentença juntada às e-STJ fls. 202/208.
+Com efeito, a jurisprudência desta Corte Superior firmou-se no sentido de que fica prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, haja vista que nela a cognição é exauriente.
+Desta forma, resta configurada a perda de objeto do recurso especial e, por conseguinte, do presente agravo. Nesse sentido os seguintes precedentes deste Tribunal Superior:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROPOSTA DE AFETAÇÃO COMO REPRESENTATIVO DE CONTROVÉRSIA. AGRAVO DE INSTRUMENTO. PEDIDO DE TUTELA ANTECIPADA. DEFERIMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DE OBJETO. PREJUDICIALIDADE.
+1. A Corte Especial do STJ, no julgamento do EAREsp 488.188/SP, firmou o entendimento de que, na hipótese de deferimento ou indeferimento da antecipação de tutela, a prolação de sentença meritória implica a perda de objeto do agravo de instrumento por ausência superveniente de interesse recursal, uma vez que: a) a sentença de procedência do pedido - que substitui a decisão deferitória da tutela de urgência - torna-se plenamente eficaz ante o recebimento da apelação tão somente no efeito devolutivo, permitindo desde logo a execução provisória do julgado (art. 520, VII, do CPC/1973); e b) a sentença de improcedência do pedido tem o condão de revogar a decisão concessiva da antecipação, ante a existência de evidente antinomia entre elas.
+2. Hipótese em que, uma vez proferida a sentença de mérito, de cognição exauriente, tem-se a perda superveniente do objeto do presente agravo, razão pela qual ele não deve ser submetido ao regime procedimental previsto no art. 1.036 do CPC/2015.
+3. Proposta de afetação rejeitada.
+(ProAfR no AREsp 1221912/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 04/12/2018, REPDJe 26/02/2019, DJe 25/02/2019)
+PROCESSUAL CIVIL. TRIBUTÁRIO. ISSQN. AGRAVO EM RECURSO ESPECIAL. PEDIDO DE TUTELA DA EVIDÊNCIA. DEFERIMENTO. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DE OBJETO DO RECURSO ESPECIAL.
+I - Na origem, trata-se de agravo de instrumento interposto pelo Município contra a decisão que, nos autos de ação anulatória, deferiu tutela de evidência, determinando a suspensão do crédito tributário. No Tribunal de origem, deu-se provimento ao agravo de instrumento.
+II - Interpostos recurso especial e agravo em recurso especial, pelo Banco, ora agravante, requereu-se a declaração de perda de objeto diante do julgamento da ação, com sentença de mérito. Foi determinada a intimação da parte agravada, que não se manifestou.
+III - O entendimento da jurisprudência desta Corte é de que "fica prejudicado, por perda de objeto, o exame de recurso especial interposto contra acórdão proferido em sede de agravo de instrumento que decide questão preliminar ou de antecipação de tutela, na hipótese de já ter sido prolatada sentença" (AgRg no AREsp n. 51.857/SP, Rel. Ministro João Otávio de Noronha, TERCEIRA TURMA, DJe 26/5/2015). No mesmo sentido: AgInt no REsp 1690253/AM, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/06/2018, DJe 02/08/2018; REsp 1691928/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/09/2017, DJe 10/10/2017; AgInt no AREsp 984.793/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/03/2017, DJe 03/04/2017.
+IV - Agravo em recurso especial conhecido, para não conhecer do recurso especial.
+(AREsp 1145051/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/09/2018, DJe 12/09/2018)
+PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE NEGOU MEDIDA LIMINAR. PROLAÇÃO POSTERIOR DE SENTENÇA DE MÉRITO. RECURSO ESPECIAL PREJUDICADO.
+1. Em Recurso Especial, insurgiu-se a União contra decisão do Tribunal Regional Federal da 1ª Região, que, em análise de Agravo de Instrumento, manteve a decisão de 1º grau que negou o pedido liminar de indisponibilidade de bens do ora agravado.
+2. Compulsando a movimentação dos autos na origem, verificou-se que houve prolação de sentença de mérito.
+3. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que fica prejudicado o Recurso Especial interposto contra acórdão que examinou Agravo de Instrumento de decisão que defere ou indefere liminar ou antecipação de tutela quando se verifica a prolação de sentença de mérito tanto de procedência, porquanto absorve os efeitos da medida antecipatória por ser decisão proferida em cognição exauriente; como de improcedência, pois há a revogação, expressa ou implícita, da decisão antecipatória.
+4. Agravo Interno não provido.
+(AgInt no AREsp 935.998/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/08/2017, DJe 13/09/2017)
+Logo, resta prejudicado o presente recurso de agravo, bem como o agravo interno interposto.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intime-se.
