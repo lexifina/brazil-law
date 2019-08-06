@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo apresentado por LEÔNCIO FERREIRA XAVIER, contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. CONSTITUCIONAL. APOSENTADORIA POR IDADE. RURÍCOLA. INEXISTÊNCIA DE RAZOÁVEL INÍCIO DE PROVA MATERIAL. IMPROCEDÊNCIA DO PEDIDO.
+1. Sentença proferida e publicada na vigência do CPC/73.
+2. A comprovação da qualidade de trabalhador rural ocorre mediante início de prova material devidamente corroborado pela prova testemunhal produzida em juízo, bem assim a implementação do requisito etário exigido.
+3. Na hipótese, a parte-autora cumpriu o requisito etário. Todavia, o início de prova material apresentado não serviu para a comprovação da sua qualidade de segurada especial no período equivalente ao prazo de carência. Tendo em conta a ausência da prova material hábil a comprovar o exercício da atividade campesina, a parte-autora não faz jus ao benefício vindicado.
+4. Diante da ausência de documentos que demonstrem atividade rural da parte-autora não se reconhece o direito ao benefício de aposentadoria rural por idade, eis que não é admitida prova exclusivamente testemunhal para tal fim (Súmula 27 do TRF/1ª Região e 149/STJ).
+5. Considerado o caráter social que permeia o Direito Previdenciário, a coisa julgada opera secundum eventum litis ou secundum eventum probationais, permitindo a renovação do pedido, ante novas circunstâncias ou novas provas. Precedentes.
+6. A concessão ex-ofício da tutela antecipada na sentença não autoriza a devolução do valores desembolsados pelo INSS, haja vista se tratar de verba de natureza alimentar. Precedentes do STF.
+7. Apelação do INSS e remessa oficial, tida por interposta, providas para reformar a sentença e julgar improcedente o pedido.
+Alega violação dos arts. 16 e 26 da Lei 8.213/91, no que concerne à suficiência dos documentos apresentados para constituir o início de prova material, trazendo o seguinte argumento:
+O Recorrente pleiteia através de Ação Reivindicatória a concessão de aposentadoria rural de trabalhador rural, fez prova da atividade rural, através de indício razoável de prova material, corroboradas com a oitiva de testemunhas.
+Deste modo, pode-se se observar que, temos documentos válidos a comprovar documentalmente, a condição de lavrador do Recorrente, assim como, os documentos juntados nos autos, NÃO EXISTINDO DENTRO DO PROCESSO QUALQUER DOCUMENTO QUE OS CONTRARIAM. (fls. 212).
+É o relatório. Decido.
+A propósito da controvérsia objeto do recurso especial, destaca-se o trecho do acórdão recorrido em que julgada a questão:
+Na hipótese, a parte-autora cumpriu o requisito etário. Todavia, o início de prova material apresentado não serviu para a comprovação da sua qualidade de segurada especial no período equivalente ao prazo de carência. Tendo em conta a ausência da prova material hábil a comprovar o exercício da atividade campesina, a parte-autora não faz jus ao benefício vindicado.
+Saliente-se, por oportuno, que uma vez verificada a imprestabilidade da prova material, não se pode conceder o benefício com base apenas nas provas testemunhais, como já sedimentou este Tribunal em reiterados julgados, o que culminou na edição da Súmula 27, verbis:
+"Não é admissível prova exclusivamente testemunhal para reconhecimento de tempo de exercício de atividade urbana e rural (Lei 8.213/91, art.55,§ 3º)".
+No mesmo sentido o enunciado da Súmula n.º 149 do Superior Tribunal de Justiça, que assim dispõe:
+"A prova exclusivamente testemunhal não basta à comprovação de atividade rurícola, para efeito da obtenção de benefício previdenciário."
+Esclareço, por oportuno, que a coisa julgada na espécie deve produzir efeitos secundum eventum litis, de forma que, na hipótese de alteração das circunstâncias verificadas, poderá a parte autora postular a aposentadoria almejada, fundando-se em outras melhores provas. (fls. 201-202)
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos para se concluir que a documentação acostada aos autos apresentou fortes indícios do trabalho rural da parte recorrente.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
