@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo apresentado pela FAZENDA DO ESTADO DE SÃO PAULO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+EMBARGOS À EXECUÇÃO DE SENTENÇA - CUMPRIMENTO DO JULGADO - ALEGAÇÃO DE EXCESSO - PEDIDO DE APLICAÇÃO DA LF 11960/09 E MP 567/12 - ALEGAÇÃO DE DISCREPÂNCIA ENTRE OS VALORES DOS CÁLCULOS E DOS INFORMES OFICIAIS - NÃO OCORRÊNCIA - SENTENÇA DE IMPROCEDÊNCIA - RECURSO PARCIALMENTE PROVIDO.
+Alega violação dos arts. 475-B, § 1º, e 586, ambos do Código de Processo Civil, no que concerne ao desrespeito aos informes fornecidos pelo órgão pagador, trazendo os seguintes argumentos:
+No entanto, o referido dispositivo apenas determina que o juiz pode requisitar dados em poder do devedor para a elaboração de cálculos. Nada justifica o desrespeito a tais informações quando do momento da elaboração dos cálculos pelos exequentes.
+Portanto, o dispositivo do CPC indicado (art. 475-B, §1º) em nada justifica a conduta dos embargantes de apresentarem valores divergentes dos indicados nos informes oficiais. Tal dispositivo apenas impõe ao órgão pagador a obrigação de apresentar as planilhas oficiais; entretanto, uma vez apresentadas, deve a parte respeitar os valores nelas constantes, o que não aconteceu no presente caso.
+Por outro lado, a conduta dos recorridos, chancelada pelo v. Acórdão, também incorre em violação do art. 586 do CPC, que determina que "a execução para cobrança de crédito fundar-se-á sempre em título de obrigação certa, líquida e exigível". Ora, se a obrigação tem que se fundar em título líquido, e essa liquidez se concretiza com a apresentação das informações por parte da Administração Pública, certo é que o desrespeito às informações prestadas, como ocorreu no presente caso, faz desaparecer a liquidez do título executivo (fls. 361/362).
+É o relatório. Decido.
+Quanto à controvérsia suscitada, o Tribunal de origem assim decidiu a questão:
+"Como exposto na impugnação aos Embargos à Execução, os cálculos foram elaborados em conformidade aos informes fornecidos pela embargante.
+No tocante ao 13º salário do mês de dezembro de 2004, alegou que o cálculo está em desacordo com os informes oficiais, eis que incluíram no cálculo o valor proporcional e não integral como informado na planilha. Muito embora tenha constado o valor integral do 13º salário nos informes, o correto é utilizar a proporcionalidade de acordo com a quantidade de meses que faz jus naquele ano, como devidamente observado pelos embargados.
+Quanto a alíquota do IAMSPE em nome da embargada [NOME], que constou das planilhas 4% a partir de maio de 2011 e os embargados utilizarem a alíquota de 2%, deve-se ao fato de estar equivocada a porcentagem constante da planilha de fls. 612/613, pois não existe ninguém que tenha alíquota de 4% ao IAMSPE.
+ ..
+Finalmente, quanto aos cálculos das embargadas [NOME] e [NOME], os informes oficiais de fl. 76, apresentaram divergência em relação aos demonstrativos de pagamento acostados à fls. 119 e 138.  ..
+Portanto, os embargados apenas adequaram os valores dos informes oficiais aos valores constantes nos demonstrativos de pagamento (fls. 119-38), que demonstraram claramente que houve apenas uma inversão de valores.
+Assim, não se há falar em discrepância de valores, apenas em correção de equívocos quando da elaboração dos cálculos".
+Não se vislumbra, dessa forma nenhuma discrepância de valores como alega a executada (fls. 329/330).
+Na espécie, portanto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
