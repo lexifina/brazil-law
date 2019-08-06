@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo apresentado por INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO REIVINDICATORIA/PETITORIA. INCRA. ILEGITIMIDADE PARA A CAUSA. IMÓVEL DE PROPRIEDADE DA UNIÃO.
+1. Ao presente recurso aplica-se o CPC/73.
+2. A questão debatida se circunscreve à possibilidade de o INCRA reivindicar terras pertencentes à União, com fundamento no título de domínio da propriedade.
+3. Posicionamento jurisprudencial no sentido da ilegitimidade do INCRA para a propositura de ação reivindicatória em terras pertencentes à União.
+4. Equânime a estipulação da verba honorária em 5% sobre o valor da causa.
+5. Apelação desprovida.
+Quanto à primeira controvérsia, alega violação do art. 1.022 do CPC.
+Quanto à segunda controvérsia, concerne ao reconhecimento da legitimidade ativa ad causam do INCRA, traz o(s) seguinte(s) argumento(s):
+Com efeito, na esteira dos arts. 9.º, I e III, 11; 11, caput; 16 parágrafo único; 17, e, da Lei n.º 4.504, de 30 de novembro de 1964; do art. 3.º, capul e seus parágrafos da Lei n.º 4.947/196; do art. 2.º do Drecreto-Lei n.º 1.110, de 9 de julho de 1970; dos arts. 18 e 28 da Lei n.º 6.383, de 7 de dezembro de 1976; e do art. 13, capuz, e parágrafo único da Lei n.º 8.629 de 25 de fevereiro de 1993; além do art. 188 da Constituição Federal, é legítimo afirmar que o INCRA é o órgão executivo federal competente para proceder às arrecadações de terras em nome da União, aí incluídas as reivindicações, bem como promover e gerir o processo de reforma agrária para a qual as terras rurais da União que não tenham uma afetação especial, se destinam.
+(..)
+Os próprios arts. 6.º do Código de Processo Civil de 1973, vigente à época da propositura da ação, e o art. 18 do Código de Processo Civil de 2015, ambos em sua parte final, excepcionam a regra, ao permitir que a lei autorize outros, que não o titular do direito, a defender em juízo direito alheio.
+(..)
+Dessa forma, havendo lei nesse sentido, poderá aquele que não é proprietário ajuizar ação reivindicatória (fls. 944/945).
+É o relatório. Decido.
+No que concerne à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais os incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Ademais, incide o óbice da Súmula n. 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), uma vez que a parte recorrente alega, genericamente, a existência de violação do art. 1.022 do CPC de 2015 (art. 535 do Código de Processo Civil de 1973), sem, contudo, demonstrar especificamente quais os vícios do aresto vergastado e/ou a sua relevância para a solução da controvérsia.
+Nesse sentido, este Superior Tribunal de Justiça já decidiu que: "É deficiente a fundamentação do recurso especial em que a alegada ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF" (REsp n. 1.653.926/PR, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/9/2018).
+Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp n. 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/6/2018).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
