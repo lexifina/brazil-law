@@ -1,0 +1,20 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação n.º 0003637-09.2014.8.26.0538.
+O Paciente foi condenado à pena de 8 (oito) anos, 4 (quatro) meses e 24 (vinte e quatro) dias de reclusão, em regime inicialmente fechado, além do pagamento de 36 (trinta e seis) dias-multa, pela prática dos delitos previstos nos arts. 180, § 1.º; 288, caput; e 311, caput, todos do Código Penal, estando atualmente solto (fls. 12-13).
+Consta do aresto impugnado que o funcionário de uma empresa de rastreamento ([NOME]) compareceu à Polícia Militar e relatou a localização, mediante rastreador, de um caminhão roubado, com um semirreboque, "na cidade de Embú, na casa do corréu Genésio" (fl. 17) e que os " o s veículos roubados foram achados com as placas originais trocadas e, especificamente no caminhão, foi encontrado um bloqueador de sinal para obstar a repressão policial" (fls. 17-18), tendo sido encontrados outros veículos na mesma ocasião. Ainda segundo o acórdão, a polícia recolheu, na oportunidade, "13 placas e 18 plaquetas, todas de outros veículos, com sinais de adulteração. Por sinal, Genésio foi visto tentando ocultá-las" (fl. 19).
+O Tribunal de origem, mediante o acórdão de fls. 11-53, negou provimento às apelações da Defesa e do Ministério Público.
+No presente writ, o Impetrante sustenta a ocorrência de nulidade absoluta, alegando a necessidade de efetiva intimação da Defesa para a audiência realizada no juízo deprecado.
+Argumenta que "nem o Paciente e nem seu Advogado foram intimados pessoalmente do ato, sendo que a audiência foi realizada em Comarca diversa, e apenas o advogado teve notícias pela imprensa da expedição de carta precatória para o Juízo da Comarca designar data e hora da audiência" (fl. 4).
+Aponta a existência de efetivo prejuízo, pois, por meio de memoriais e do recurso de apelação, o Paciente teria levado tal fato ao conhecimento dos julgadores, sendo que, em primeira instância, nem sequer foi levado em consideração, e o Tribunal a quo "se limitou a reconhecer a desnecessidade da intimação porque a Sumula 273 STF assim determina" (fl. 4).
+Argumenta que, sob pena de ofensa ao princípio constitucional da ampla defesa, deve ser realizada a intimação do advogado "para a audiência a ser realizada para cumprimento de carta precatória" (fl. 5).
+Requer, em liminar, o sobrestamento dos efeitos da condenação imposta ao Paciente. No mérito, pleiteia que seja declarado nulo o acórdão e a sentença, propiciando "nova audiência com intimação do acusado e seu advogado" (fl. 10).
+É o relatório.
+Decido.
+Verifico não ser possível analisar a viabilidade do pleito deduzido, diante da instrução deficitária do writ, visto que a Parte Impetrante não acostou aos autos cópia das peças processuais que comprovem o alegado na inicial - somente colacionou o acórdão impugnado -, o que inviabiliza a análise do constrangimento ilegal alegado.
+Como se sabe, compete à Defesa narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso) - v.g. STJ, HC 245.430/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 21/02/2013, DJe 28/02/2013.
+Dessa forma, como a Defesa não se desincumbiu do ônus de formar adequadamente os autos, olvidando-se de que o habeas corpus "pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe de 28/06/2018), não há como apreciar o mérito do writ.
+No mesmo sentido: HC n.º 508.081/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe de 08/05/2019; HC n.º 507.614/ES, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJe de 08/05/2019; HC n.º 507.591/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe de 08/05/2019; HC n.º 507.828/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe de 08/05/2019.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
