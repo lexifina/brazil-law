@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo apresentado pelo MUNICÍPIO DE CURITIBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL EXECUÇÃO FISCAL IPTU PRESCRIÇÃO INTERCORRENTE FEITO QUE TRÂMITOU POR 10 ANOS IN- APLICABILIDADE DA SÚMULA 106 DO STJ E DO ART 921 DO CPC APLICAÇÃO ANÁLOGA AO ART 40 DA LEF DECISÃO DE ACORDO COM OS PRECEDENTES DESTA CORTE E TRIBUNAIS SUPERIORES CUSTAS PROCESSUAIS SERVENTIA ESTATIZADA RECEITA DO FUNJUS AUSÊNCIA DE CONFUSÃO TAXA JUDICIÁRIA AFASTADA NA SENTENÇA RECURSO DESPROVIDO.
+Alega violação do art. 174 do CTN, no que concerne necessidade de afastar a prescrição, trazendo o(s) seguinte(s) argumento(s):
+Durante o transcurso do processo, esta Municipalidade se manifestou ativamente, pretendendo fechar o ciclo processual, como se vê do histórico acima. No entanto, para que possa haver tomada de diligencias, é necessário que se faça a carga dos autos à Municipalidade.
+Desta forma, se o feito se estende por um lapso temporal indesejado, não só não é culpa dessa Municipalidade que diligenciou prontamente nos autos, como tal demora também não é desejada pelo ora recorrente (fls. 85).
+É o relatório. Decido.
+O Tribunal de origem assim se manifestou:
+Doutra forma, competia à Fazenda Pública Municipal o acompanhamento de cada um dos processos por ela ajuizados, de modo que a prestação jurisdicional pudesse ser realizada em tempo hábil.
+Pois bem, ainda que se verifique demora na prestação jurisdicional, a prescrição não pode ser imputada exclusivamente à estrutura da justiça quando o exequente não agiu com o necessário zelo em buscar a satisfação de seu crédito. Em outras palavras, uma vez evidenciada a culpa concorrente das partes, não há que se falar na aplicação da Súmula 106 do STJ (fls. 67)
+Portanto, em que pese a prestação do serviço judiciário possa não ter ocorrido com a devida presteza, restou comprovado que a desídia da municipalidade no acompanhamento processual.
+Desta forma, embora assista razão o apelante ao afirmar que inexiste abandono da causa, não há como admitir que a demanda executória se prolongue "ad eternum", sem nunca atingir seu fim (fls. 69)
+Na espécie, verifica-se que a pretensão da parte agravante, de ver reconhecida a violação de dispositivo de lei federal, exige o revolvimento do contexto fático-probatório dos autos, o que inviabiliza o conhecimento do presente apelo ante o óbice da Súmula 7/STJ.
+Consigne-se, ainda, que, quanto à alegação de existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a" e obstaculizada pelo enunciado da Súmula n. 7/STJ, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "Ademais, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso." AgInt no AREsp n. 1.312.148/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/9/2018.
+Confiram-se ainda os seguintes precedentes: AgInt no AgInt no REsp n. 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; AgInt no AREsp n. 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018; AgRg no AREsp n. 695.443/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 25/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
