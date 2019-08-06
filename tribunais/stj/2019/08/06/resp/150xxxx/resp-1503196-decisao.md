@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão proferido pelo TJSP assim ementado (e-STJ fl. 356):
+CONFISSÃO DE DÍVIDA - cheque especial seguido de empréstimo para quitação do saldo devedor - pretensão das autoras de rever toda relação negocial mantida com o banco e anular a confissão de divida, com devolução dos valores pagos a maior - legítimo interesse de agir - reconvenção do banco cobrando débito remanescente do último contrato firmado entre as partes - possibilidade apenas de discussão do contrato inadimplido e atual novação da dívida - inaplicabilidade do CDC ao caso (Lei 8078/90) - validade dos juros e encargos cobrados pela instituição financeira inexistência de capitalização de juros - não constatada cobrança de comissão de permanência - dívida caracterizada - improcedência da demanda principal - procedência da reconvencional - inversão da sucumbência - recurso provido.
+Em suas razões (e-STJ fls. 365/379), as recorrentes alegam dissídio jurisprudencial e ofensa aos arts. 4º, I, e 6º, VIII, do CDC, 4º e 11 do Decreto-Lei n. 22.626/1933. A insurgência cuida dos seguintes temas: (a) aplicabilidade do CDC, (b) capitalização dos juros e (c) possibilidade de revisão dos contratos findos.
+Não foram apresentadas contrarrazões (e-STJ fl. 466).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A respeito da incidência do CDC na relação contratual estabelecida entre as partes, assim dispôs o acórdão recorrido (e-STJ fls. 360/361):
+Outrossim, relativamente ao último contrato, tem-se que inaplicável o CDC, na medida em que "a empresa (no caso, devedora principal) não se qualifica como consumidora final dos valores que lhe foram colocados à disposição, estes que lhe serviram para o financiamento de sua atividade empresarial como incremento de capital de giro, não se aplicando, assim, as disposições do Código de Defesa do Consumidor. Daí a impossibilidade de reconhecimento de sua hipossuficiência em relação à instituição financeira e, consequentemente, de nulidade das cláusulas tidas/abusivas à luz do diploma consumerista." (..). Assim , nada impede que o banco estabeleça multa contratual por inadimplemento acima de 2%.
+Nas razões do recurso especial, verifica-se que as recorrentes não impugnaram o fundamento do acórdão relativo à finalidade do empréstimo tomado e à consequente impossibidade de reconhecimento de sua hipossuficiência, tendo-se limitado a alegar a aplicabilidade do CDC aos contratos bancários, de modo que a insurgência encontra óbice na Súmula n. 283/STF, in verbis:
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Ademais, é pacífico nesta Corte o entendimento de que "o Código de Defesa do Consumidor não se aplica no caso em que o produto ou serviço é contratado para implementação de atividade econômica, já que não estaria configurado o destinatário final da relação de consumo (teoria finalista ou subjetiva)" (AgRg no AREsp n. 557.718/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/5/2016, DJe 10/6/2016).
+Quanto à cobrança de juros capitalizados, entendeu o acórdão recorrido que (e-STJ fl. 361):
+Igualmente com relação à capitalização de juros, vale destacar que o contrato de empréstimo para saldar o débito estabeleceu parcelas fixas, com encargos pré-fixados, não restando comprovada nos autos a existência do anatocismo proibido.  ..
+Dessa forma, para alterar a conclusão a que chegou o Tribunal de origem e reconhecer a indevida cobrança de juros capitalizados, seria imprescindível a reavaliação das cláusulas pactuadas e o reexame do conjunto fático-probatório dos autos, o que é inviável na presente instância, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração do dissídio, mediante o exame das circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973).
+No caso concreto, a recorrente apenas transcreve trechos dos julgados supostamente divergentes, sem indicar os dispositivos de interpretação controvertida ou demonstrar a similitude fática e divergências decisórias. Ausente, portanto, o necessário cotejo analítico entre as teses adotadas.
+Nesse sentido, o seguinte precedente:
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - DEFICIÊNCIA DE FUNDAMENTAÇÃO - SÚMULA 284/STF - AUSÊNCIA DE DISSÍDIO JURISPRUDENCIAL - DECISÃO AGRAVADA MANTIDA IMPROVIMENTO.
+ ..
+2.- Não houve demonstração de dissídio jurisprudencial, diante da falta do exigido cotejo analítico entre os julgados mencionados, bem como pela ausência de similitude fática, de maneira que inviável o inconformismo apontado pela alínea "c" do permissivo constitucional.
+ ..
+4.- Agravo Regimental improvido.
+(AgRg no AREsp n. 488.145/SC, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 24/4/2014, DJe 19/5/2014.)
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
