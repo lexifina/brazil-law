@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado pelo MUNICÍPIO DE SÃO PAULO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL TRIBUTÁRIO APELAÇÃO EXECUÇÃO FISCAL IPTU E TAXAS MUNICIPAIS ILEGITIMIDADE PASSIVA DA CEF CREDORA FIDUCIÁRIA ART 27 § 8 LEI N 9514/97 RESPONSABILIDADE DO FIDUCIANTE APELAÇÃO DESPROVIDA.
+Quanto à primeira controvérsia, pela alínea a do permissivo constitucional, alega violação dos arts. 123, 1.359, 1.360, todos do CC, e 117, II, do CTN, no que concerne ao reconhecimento da Caixa Econômica Federal no polo passivo da execução fiscal, trazendo o(s) seguinte(s) argumento(s):
+No caso, de fato, há previsão legal que transfere a responsabilidade pelo recolhimento de tributos ao fiduciante. Contudo, a mera leitura da citada Legislação Federal conduz a conclusão de que tal circunstância excepcional somente se dá em decorrência consolidação da propriedade nos casos de inadimplemento, ou seja, não é a regra, mas sim a exceção (fl. 105).
+Por fim, não é demais ressaltar que, figurando a Caixa Econômica Federal no Cadastro Fiscal como proprietária do imóvel, a exclusão de sua responsabilidade pela TSRD só ocorreria se tivesse comunicado à Secretaria de Finanças não ser usuária do serviço de coleta, nos termos do art. 86, par. 2º, da Lei Municipal nº 13.478/02, o que não restou comprovado pela embargante (fls. 106).
+É o relatório. Decido.
+Na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
