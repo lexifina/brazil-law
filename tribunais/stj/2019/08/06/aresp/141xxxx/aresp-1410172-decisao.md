@@ -1,0 +1,33 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto pelo MUNICÍPIO DO RIO DE JANEIRO/RJ em razão da incidência da Súmula 7/STJ.
+2. É o relatório.
+3. Como cediço, a parte, para ver seu Recurso Especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir todos fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+4. Registre-se que o Recurso de Agravo, tanto aquele previsto no art. 544 do Código Buzaid (atual art. 1.042 do Código Fux) como o dito Regimental ou Interno previsto no art. 545 do Código Buzaid (atual art. 1.021, § 1o. do Código Fux), objetiva desconstituir os fundamentos que impediram o processamento do Recurso Especial; sem essa providência, não comporta seguimento.
+5. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada.
+6. Aplicável, em casos tais, a Súmula 182/STJ, segundo a qual é inviável o Agravo que deixa de atacar especificamente os fundamentos da decisão agravada.
+7. No caso, não foi impugnado especificamente o fundamento relativo à incidência da Súmula 7/STJ. Deixou a parte de demonstrar que, a partir de premissas fáticas do aresto recorrido, o referido verbete sumular não seria aplicável.
+8. Afinal, inadmitido o Recurso Especial com base no sobredito óbice sumular, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual (AgInt no AREsp. 1.067.725/SP, Rel. Min. OG FERNANDES, DJe 20.10.2017). Confiram-se os julgados a seguir:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 7.2.2018, que julgara recurso interposto contra decisão que inadmitira Recurso Especial, publicada na vigência do CPC/2015.
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: (..).
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2o. Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Na forma da jurisprudência não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual (STJ, AgInt no AREsp. 1.067.725/SP, Rel. Min. OG FERNANDES, SEGUNDA TURMA, DJe de 20.10.2017).
+V. Agravo interno improvido (AgInt no AREsp. 1.223.898/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 27.3.2018).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+2. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível.
+3. Agravo interno a que se nega provimento (AgInt no AREsp 600.416/MG, Rel. Min. OG FERNANDES, DJe 18.11.2016).
+9. Limitou-se, na verdade, a afirmar genericamente que a matéria é unicamente de direito e, em seguida, reproduziu-se ipsis litteris as razões de seu Apelo cujo trânsito foi obstado, o que, por certo, não cumpre o dever de dialeticidade recursal. Nesse sentido:
+PROCESSO CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DENEGATÓRIA DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. ART. 544, § 4º, I, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Agravo que reproduz, tão somente, o conteúdo da peça do recurso especial, esbarra no óbice da Súmula 182/STJ e desatende o comando do art. 544, § 4º, I, do CPC, que exigem ataque específico aos fundamentos da decisão agravada para o conhecimento do recurso.
+2. Agravo regimental não conhecido (AgRg no AREsp. 558.782/SP, Rel. Min. MARCO AURÉLIO BELLIZZE, DJe 5.3.2015).
+
+DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO INDIRETA. INDENIZAÇÃO. JULGAMENTO. LEI MUNICIPAL. PROVA. INEXISTÊNCIA. APOSSAMENTO. INDEFERIMENTO. RECURSO ESPECIAL. DENEGAÇÃO. SÚMULAS 280/STF E 07/STJ. AUSÊNCIA. COTEJO ANALÍTICO. AGRAVO. REPRODUÇÃO. PETIÇÃO DE RECURSO ESPECIAL. NÃO CONHECIMENTO. AGRAVO REGIMENTAL. REITERAÇÃO DA PRÁTICA. MANIFESTA INADMISSIBILIDADE. COMINAÇÃO. MULTA.
+1. Não se conhece do agravo em recurso especial que não impugna especificamente os fundamentos da decisão que, na origem, nega seguimento ao apelo extremo. Inteligência do art. 544, § 4.º, inciso I, do CPC.
+2. O consequente agravo regimental que, a despeito desse fundamento, dirige-se tardiamente contra os motivos declinados na decisão do Tribunal a quo, reincide na irregularidade formal.
+3. Agravo regimental não conhecido. Multa de um por cento sobre o valor da causa (AgRg no AREsp. 438.903/SC, Rel. Min. MAURO CAMPBELL MARQUES, DJe 18.2.2014).
+10. Ante o exposto, não se conhece do Agravo em Recurso Especial do MUNICÍPIO DO RIO DE JANEIRO/RJ.
+11. Publique-se.
+12. Intimações necessárias.
