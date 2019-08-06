@@ -1,0 +1,21 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. TERRENO DE MARINHA. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/1973. PRODUÇÃO DE PROVA PERICIAL. INVERSÃO DO JULGADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. RECURSO ESPECIAL DO ENTE FEDERAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela UNIÃO, com fundamento na alínea a do art. 105, III da CF/1988, no qual se insurge contra acórdão proferido pelo egrégio TRF da 4a. Região, assim ementado:
+ADMINISTRATIVO. AÇÃO DE USUCAPIÃO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA.
+1. Carece o feito da produção de prova técnica que comprove o direito alegado pela parte autora, o que não foi oportunizado pelo juízo a quo, que julgou antecipadamente a lide.
+2. Retorno dos autos à origem para abertura de instrução processual (fls. 198/201).
+2. Opostos Embargos de Declaração, estes foram parcialmente acolhidos, apenas para fins de prequestionamento (fls. 225/228).
+3. Nas razões de seu Recurso Especial, a parte recorrente aponta violação dos arts. 9o. e 216 do DL 9.760/1946, bem como dos arts. 333, II, 334, IV e 535, II do CPC/1973. Aduz para tanto, em suma, que: (a) o acórdão recorrido teria permanecido omisso, a despeito da oposição dos Aclaratórios; e (b) presume-se verdadeira a demarcação de terrenos de marinha feita pela SPU, pelo que seria desnecessária a produção de prova pericial.
+4. Com contrarrazões (fls. 270/277), o Apelo Nobre foi admitido na origem (fls. 280).
+5. É o breve relatório.
+6. Inicialmente, nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+7. No mais, inexiste a alegada violação do art. 535, II do CPC/1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+8. Quanto ao mérito, não pode ser conhecido o Recurso, pois a modificação das conclusões do acórdão recorrido exigiria o reexame do conjunto fático-probatório, inviável nesta instância. Isso porque foi à luz dos fatos e provas da causa que o Tribunal de origem consignou o seguinte:
+Com efeito, não há prova técnica capaz de comprovar a existência de córrego que sofre a influência das marés, pois, de acordo com os autores a valeta de drenagem encontra-se tubulada na maior parte da sua extensão, inclusive a jusante do imóvel dos autores.
+Tampouco a União trouxe aos autos elementos técnicos que comprovem o alegado, na medida em que baseou suas informações em imagens extraídas do Google Earth, conforme se depreende do documento da Superintendência do Patrimônio da União em Santa Catarina acostado ao evento 7-OUT3.
+Os terrenos de marinha, conforme disposto nos artigos 1o., alínea a do Decreto-lei 9.760/1946 e 20, VII da Constituição Federal, são bens imóveis da União, necessários à defesa e à segurança nacional, que se estendem à distância de 33 metros para a área terrestre, contados da linha do preamar médio de 1831, e assim, impossíveis de serem adquiridos através de usucapião.
+Nada obstante, carece o feito da produção de prova técnica que comprove o direito alegado pela parte autora, o que não foi oportunizado pelo juízo a quo, que julgou antecipadamente a lide, com base nas informações prestadas pela União, desacompanhadas da sua efetiva demonstração (fls. 199).
+9. Ora, entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório do autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do Recurso Especial.
+10. Ante o exposto, nega-se seguimento ao Recurso Especial do Ente Federal.
+11. Publique-se.
+12. Intimações necessárias.
