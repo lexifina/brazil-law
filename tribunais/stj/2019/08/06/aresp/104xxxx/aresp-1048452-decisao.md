@@ -1,0 +1,2 @@
+DECISÃO
+Diante da notícia do falecimento do agravante RUI CARLOS REBELLO BUENO, réu da presente ação (fl. 152-156), determino a suspensão do processo, nos termos dos arts. 313, I e § 1º, do CPC/2015, bem como a intimação do espólio, na pessoa de seu representante legal, ou dos sucessores para que tomem as providências necessárias à substituição processual e à habilitação, conforme estabelecido no art. 110 do CPC/2015. Publique-se.
