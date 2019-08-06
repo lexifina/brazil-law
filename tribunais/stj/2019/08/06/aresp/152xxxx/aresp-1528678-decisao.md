@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado por AMAZONAS ENERGIA S.A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS, assim resumido:
+EMENTA : DIREITO CIVIL E PROCESSUAL CIVIL - MANUTENÇÃO DA DECISÃO AGRAVADA: Não se constata conexão resultante em relação de prejudicialidade entre ações distintas apta a justificar a suspensão da marcha processual de uma delas. - Não há razão jurídica que autorize a paralisação da marcha monitória em virtude de outras ações, especialmente por se tratar de ação de rito especial. RECURSO CONHECIDO E IMPROVIDO (fl. 1.533).
+A parte alega violação dos arts. 3º e 1.021, § 3o, do CPC, no que concerne à limitação de reprodução dos fundamentos da decisão agravada, trazendo o(s) seguinte(s) argumento(s):
+Isso porque o acórdão em questão, assim como a decisão que o precedeu - que fora objeto de embargos com negativa de provimento - novamente se ateve à hipótese de CONEXÃO para manter a decisão agravada, conforme se pode observar de sua redação (fl. 1598).
+Contudo, o Agravo Interno deixou claro que a decisão que havia sido inicialmente recorrida não se baseou em conexão das ações para suspensão do feito, mas no antigo art. 265 do CPC/73, atual art. 313 do CPC/15. Desta sorte, verifica-se que o acórdão vergastado deixou de analisar argumentos trazidos no recurso que, em verdade, eram as próprias razões de se recorrer, tendo o acórdão sido emitido sem qualquer análise do que fora trazido no Agravo Interno, incorrendo em verdadeira negativa de prestação jurisdicional (fl. 1599).
+Na verdade, conforme inclusive já apontado inicialmente, não houve qualquer julgamento do Agravo Interno em si, mas apenas e tão somente uma reprodução da decisão que julgou os Embargos de Declaração anteriormente apresentados, em estrita e direta violação ao que dispõe o art. art. 1.021, § 3o, do CPC (fl. 1600).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
