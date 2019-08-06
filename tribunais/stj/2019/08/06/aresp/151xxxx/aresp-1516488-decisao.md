@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado pelo ESTADO DA PARAÍBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+AGRAVO INTERNO  AÇÃO DE REVISÃO DE COBRANÇA POLICIAL MILITAR  GRATIFICAÇÃO DE SALUBRIDADE  PREJUDICIAL DE PRESCRIÇÃO AFASTADA  OBRIGAÇÃO DE TRATO SUCESSIVO  MÉRITO  IMPOSSIBILIDADE DE CONGELAMENTO  PROCEDÊNCIA  MANUTENÇÃO  PRECEDENTES  DESPROVIMENTO.
+Alega violação do art. 1º do Decreto n. 20.910/1932, no que concerne à ocorrência de prescrição do fundo de direito em razão da vigência da Lei Complementar Estadual n. 50/2003, trazendo o(s) seguinte(s) argumento(s):
+A decisão proferida, manteve o comando sentencial proferido pelo juízo de primeiro grau, considerou ser a relação jurídica discutida, no caso, de trato sucessivo, afastando-se a aplicação do instituto da prescrição sobre o fundo de direito e, assim, a norma federal precedentemente apregoada (fl. 164).
+Dentro desse quadro, no instante em que passara a viger a lei complementar nº 50/03, em 30 abril de 2003, norma esta que modificou a forma de pagamento do adicional de tempo de serviço, exsurge a suposta lesão e, de resto, a própria pretensão, iniciando-se, de tal arte, a contagem do lapso prescricional de 05 (cinco) anos.
+É dizer, então: a norma em desfile se trata de típica lei de efeitos concretos, que modificou a forma de pagamento de parcela remuneratória referente a todos os servidores públicos de Administração direta e indireta do Poder Executivo.
+O postulante, ao altercar que a modificação em foco não o açambarcaria - por ser justamente servidor público militar - possuía 05 (cinco) anos para a propositúra da demanda respectiva, contados a partir da data da vigência da norma em comento, que trouxe uma lesão ao seu patrimônio jurídico (fl. 167).
+É o relatório. Decido.
+Quanto à controvérsia, na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão controvertida não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
