@@ -1,0 +1,31 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com base nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 4ª Região assim ementado (e-STJ, fls. 498-499):
+APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. SUSPENSÃO. ORDEM JUDICIAL DE JUÍZO CRIMINAL. DEFESA ADMINISTRATIVA. CONTRADITORIO E AMPLA DEFESA. DANO MORAL.
+1. Tendo o benefício sido suspenso, de forma cautelar, na esfera criminal, por determinação de outro juízo, eventual modificação da ordem deve ser buscada perante aquele Juízo, sendo inadequado o ajuizamento, de ação cível, em juízo e região diversos da Justiça Federal, buscando intervir na determinação anterior e de natureza diversa - que não está, aliás, ao alcance do ora Demandado modificar.
+2. Quanto a defesa administrativa já apresentada e a reabertura de novo prazo, tenho que não se constitui em fato/documento novo pois diz respeito ao beneficio controverso. Ademais, deve preponderar os ditames da ordem judicial que determinou de forma cautelar a exclusão do período irregular, sendo que a análise da defesa administrativa não deve invadir o decidido judicialmente, estando prejudicada enquanto não resolvida a lide na esfera criminal.
+3. Desconsiderando-se os lapsos temporais irregulares, não preenche a parte autora o tempo de serviço mínimo para a Aposentadoria por Tempo de Serviço na Data da Entrada do Requerimento, nem para a Aposentadoria por Idade, pois não possuía 65 anos de idade naquela data.
+4. O pedido de indenização por dano moral em função da não apreciação da defesa administrativa e do requerimento extrajudicial de restabelecimento do benefício do Autor, não merece prosperar, uma vez que, demonstrado que a suspensão do benefício e a manutenção de tal status decorreram, ademais da constatação de irregularidades, de expressa ordem judicial, não se verifica conduta culposa (lembre-se que a responsabilidade da Administração, por ato omissivo, não segue a usual tendência de objetivação, aplicando-se a teoria da faute du service) ou mesmo equivocada da Autarquia ré, que não poderia rever a determinação do juízo.
+Os embargos de declaração da parte autora (e-STJ, fls. 509-513) foram parcialmente providos, para se considerar prequestionados os artigos mencionados, e mantendo-se inalterado o resultado do julgamento, nos termos da decisão às e-STJ, fls. 518-524.
+Alega o recorrente, nas razões do especial, violação dos arts. 535, II, do CPC/1973; 69, e parágrafos, da Lei n. 8.212/1991; 24, 48 e 49 da Lei n. 9.784/1999; incisos X, XIV, alínea "b", e XV, alínea "d", do anexo ao Decreto n. 1.171/1994; e 186 do Código Civil.
+Sustenta, em suma, que a afronta teria ocorrido quando o Tribunal a quo desconsiderou o conteúdo do processo administrativo, no qual consta defesa do autor sem resposta pelo instituto previdenciário. Acrescenta que, em vista da revisão dos vínculos empregatícios constantes do CNIS do autor efetuada pelo INSS, a proposição da ação é meio adequado para a obtenção de sua pretensão, bem como o Juízo a quo para a análise do pleito autoral.
+Sem contrarrazões (e-STJ, fl. 587).
+Admitido o recurso especial na origem (e-STJ, fl. 594), subiram os autos a esta Corte de Justiça.
+É o relatório.
+O recurso não merece prosperar.
+Pretende o autor/recorrente o restabelecimento do benefício previdenciário de Aposentadoria por Tempo de Contribuição, suspenso por decisão do Juízo da 1ª Vara Federal de Nova Friburgo - RJ em caráter cautelar, o que fez com que o Juízo de primeira instância julgasse o autor carecedor da ação por falta de interesse processual.
+A suspensão do pagamento do benefício concedido à parte autora se deu ante a ocorrência de indícios de irregularidades que levaram à falta de comprovação de atividade laborativa de 1º/9/1975 a 27/12/1979, na empresa [NOME], e de 1º/7/1997 a 29/1/2003, na empresa Mavel Veículos Ltda., o que culminou com a insuficiência de tempo comprovado para a concessão do benefício a que o autor se encontrava em pleno gozo. É o que se deduz da decisão recorrida (e-STJ, fl. 495):
+Com efeito, pelos demonstrativos de tempo de serviço colacionados no PROCADM2 do Evento citado segundo os marcos aquisitivos na época do requerimento administrativo, foi computado para fins de Aposentadoria (antes da revisão determinada pelo Juízo de Nova Friburgo/RJ) o montante de:
+Até 16/12/1998 - 31 anos e 08 meses;
+Até 28/11/1999 - 32 anos, 07 meses e 12 dias;
+Até 29/01/2003 - 35 anos, 09 meses e 13 dias.
+Depreende-se que, excluindo-se o período na forma determinada judicialmente (períodos de 01/07/1997 a 29/01/2003 e 01/09/1975 a 27/12/1979), não restará possibilitada a reativação do benefício em apreço, pois importará na redução do tempo de serviço não preenchendo o requisito temporal para a concessão da Aposentadoria Proporcional.
+Dessa forma, ausente a comprovação de tempo para obtenção de aposentadoria por tempo de contribuição, inviável a concessão do referido benefício previdenciário.
+Ademais, da leitura do acórdão recorrido, dessume-se que a Corte local firmou seu entendimento com amparo nas provas dos autos. Assim, a revisão do julgado implicaria o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7 do STJ.
+A propósito:
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. INEXISTÊNCIA DE NEXO CAUSAL ENTRE A MOLÉSTIA E O TRABALHO DESENVOLVIDO. PRETENSÃO DE REEXAME DE PROVA. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Tendo o Tribunal de origem, com base no acervo fático-probatório dos autos, entendido que ficou configurada a inexistência de nexo causal entre a doença e as atividades laborativas desempenhadas, para fins de concessão do benefício previdenciário de auxílio-acidente, a inversão do julgado implicaria, necessariamente, no reexame das provas carreadas aos autos, o que é vedado na instância especial ante o óbice do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp 1.015.142/SP, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 8/6/2017, DJe 22/6/2017)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ, e na Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
