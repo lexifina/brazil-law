@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF contra acórdão do TJRO assim ementado (e-STJ fl. 54):
+Agravo de Instrumento. Fundamentação. Ausência de nulidade. Dano ambiental. Inversão do ônus da prova. Possibilidade. Honorários periciais. Maior interesse da requerida. Recurso não provido.
+Não há nulidade por ausência de fundamentação quando a decisão apresenta, ainda que de forma sucinta, as razões de convencimento do juízo.
+Em se tratando de causa de pedir que consista num dano ao meio ambiente e também por envolver empresa de grande porte que detém informações de alta complexidade, a inversão do ônus da prova é medida que se impõe.
+Invertido o ônus da prova deve a empresa, que possui maior interesse, uma vez que a causa de pedir consiste em dano ao meio ambiente, arcar com os honorários periciais ou optar pelo julgamento conforme o ônus probatório.
+A recorrente, em suas razões (e-STJ fls. 64/88), aponta ofensa aos arts. 95 e 373, I e II, do CPC/2015. Em síntese, refuta a aplicação do princípio da precaução para determinar a inversão do ônus da prova.
+Defende ainda que, requerida por ambas as partes a prova pericial, o valor dos honorários periciais deverá ser rateado.
+Contrarrazões às fls. 131/138 (e-STJ).
+O especial foi admitido pelo Tribunal de origem (e-STJ fls. 139/140).
+É o relatório.
+Decido.
+Sobre a inversão do ônus da prova, a Corte local assim se manifestou (e-STJ fls. 52/53):
+No mérito, a agravante pretende que seja afastada a inversão do ônus probatório devido à impossibilidade de aplicação do princípio da precaução, argumentando que a demanda não tem natureza ambiental, mas meramente patrimonial.
+Entendendo que os pleitos indenizatórios que envolvem consequências do impacto das atividades das usinas requerem inversão do ônus da prova em virtude da complexidade para ser produzida, seus elevados custos e também de ser quem detém a maior riqueza de dados de apuração sobre impactos ambientais, foram proferias várias decisões por esta Corte, a exemplo:
+Agravo de instrumento. Hidrelétrica. Construção. Rio madeira. Dano moral. Dano material. Dano ambiental. Ausência de fundamentação. Eventual interpretação de forma contrária aos interesses da parte não pode caracterizar ausência de fundamentação na decisão se dela se extrai a devida apreciação das questões postas em discussão, ainda que de forma concisa. Deve ser mantida a determinação de inversão do ônus da prova em ação de indenização que indica a potencialidade lesiva ao meio ambiente após o desenvolvimento da atividade de construção de usina hidrelétrica pela concessionária de serviço público, cabendo a esta provar a não existência ou irrelevância dos prejuízos alegados pela parte-autora. (AI n. 0802874-43.2017.8.22.0000, rel. Des. Marcos Alaor Diniz Grangeia, j. 07/02/2018)
+(..)
+Sobre o argumento trazido pelas partes, de que o envolvimento da questão postulada com questão ambiental traz para si a aplicação da teoria do risco integral. É que tradicionalmente essa teoria é aplicada em ações coletivas e a presente causa é individual, porém, em ambas o que se pretende na prática que cada indivíduo seja indenizado, mudando apenas a dinâmica de que na ação individual já se conhece quem será indenizado e na ação coletiva eles serão identificados posteriormente.
+Colaciono julgado do STJ aplicando a teoria do risco integral em ação indenizatório por dano ambiental:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONSTRUÇÃO DE HIDRELÉTRICA. RIO MADEIRA. PESCADORES. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/73. ALEGAÇÃO DE CONEXÃO E ILEGITIMIDADE ATIVA QUE DEMANDA REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. INVERSÃO DO ÔNUS DA PROVA EM AÇÃO POR INDENIZAÇÃO POR DANO AMBIENTAL. LITIGÂNCIA DE MÁ-FÉ NÃO COMPROVADA. AGRAVO IMPROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535, II, do CPC.
+2. A alegada conexão entre a presente demanda e ação civil pública, bem como a ilegitimidade dos autores, foram refutados pelo eg. Tribunal estadual sob o fundamento de que cada um dos feitos deverá ser analisado em uma situação fática particular e de que a condição de cada um dos autores depende da instrução processual, que deve ser feita nos autos originários após o devido contraditório. No caso, a alteração de tais conclusões depende da análise do conjunto fático-probatório, atraindo a incidência da Súmula 7/STJ.
+3. A inversão do ônus da prova no que se refere ao dano ambiental está de acordo com a jurisprudência desta Corte, que já se manifestou no sentido de que, "tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, cabível a inversão do ônus da prova" (AgRg no AREsp 533.786/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 22/9/2015, DJe de 29/9/2015).
+4. Para que haja condenação por litigância de má-fé, é necessária a comprovação do dolo da parte. No caso, a Corte estadual expressamente consignou que tal requisito não foi comprovado, de modo que, para alterar essa conclusão, seria necessário o reexame do conjunto fático-probatório. Incidência da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 846.996/RO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/10/2016, DJe 19/10/2016) (g.n.)
+O entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ, no sentido de que "o princípio da precaução, aplicável à hipótese, pressupõe a inversão do ônus probatório, transferindo para a concessionária o encargo de provar que sua conduta não ensejou riscos para o meio ambiente e, por consequência, para os pescadores da região" (AgRg no AREsp n. 183.202/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/11/2015, DJe 13/11/2015).
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONSTRUÇÃO DE HIDRELÉTRICA. RIO MADEIRA. PESCADORES. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/73. ALEGAÇÃO DE CONEXÃO E ILEGITIMIDADE ATIVA QUE DEMANDA REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. INVERSÃO DO ÔNUS DA PROVA EM AÇÃO POR INDENIZAÇÃO POR DANO AMBIENTAL. LITIGÂNCIA DE MÁ-FÉ NÃO COMPROVADA. AGRAVO IMPROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535, II, do CPC.
+2. A alegada conexão entre a presente demanda e ação civil pública, bem como a ilegitimidade dos autores, foram refutados pelo eg. Tribunal estadual sob o fundamento de que cada um dos feitos deverá ser analisado em uma situação fática particular e de que a condição de cada um dos autores depende da instrução processual, que deve ser feita nos autos originários após o devido contraditório. No caso, a alteração de tais conclusões depende da análise do conjunto fático-probatório, atraindo a incidência da Súmula 7/STJ.
+3. A inversão do ônus da prova no que se refere ao dano ambiental está de acordo com a jurisprudência desta Corte, que já se manifestou no sentido de que, "tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, cabível a inversão do ônus da prova" (AgRg no AREsp 533.786/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 22/9/2015, DJe de 29/9/2015).
+4. Para que haja condenação por litigância de má-fé, é necessária a comprovação do dolo da parte. No caso, a Corte estadual expressamente consignou que tal requisito não foi comprovado, de modo que, para alterar essa conclusão, seria necessário o reexame do conjunto fático-probatório. Incidência da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 846.996/RO, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/10/2016, DJe 19/10/2016.)
+Incide, portanto, a Súmula n. 83/STJ, como óbice ao recurso.
+Ressalte-se que revisar as conclusões acerca do preenchimento dos requisitos necessários à inversão do ônus da prova demandaria o revolvimento de fatos e provas, prática vedada pela Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS AUTORES.
+(..)
+4. Quanto à inversão do ônus da prova, o entendimento desta Corte Superior é no sentido de que aferir se estão presentes ou não os requisitos da verossimilhança da alegação e a hipossuficiência, necessários para a inversão dos ônus da prova, esbarra no óbice da Súmula 7/STJ, visto que tais pressupostos estão essencialmente ligados ao conjunto fático-probatório dos autos.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.201.314/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 7/8/2018, DJe 17/8/2018.)
+Quanto à apontada violação do art. 95 do CPC/2015, a jurisprudência desta Corte Superior está orientada no sentido de que a inversão do ônus da prova não tem como efeito a imposição do custeio da produção da prova requerida pela parte adversa àquela contra a qual o ônus probatório foi invertido.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INVERSÃO DO ÔNUS DA PROVA. HONORÁRIOS PERICIAIS. ATRIBUIÇÃO DO ÔNUS DE PAGAMENTO À PARTE CONTRÁRIA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. A jurisprudência do STJ orienta-se no sentido de que inversão do ônus probatório não acarreta a obrigação de suportar as despesas com a perícia, implicando, tão somente, que a parte requerida arque com as consequências jurídicas decorrentes da não produção da prova.
+Precedentes.
+2. Agravo regimental não provido.
+(AgRg no AgRg no AREsp n. 575.905/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 7/4/2015, DJe 29/4/2015.)
+PROCESSUAL CIVIL (CPC/1973). AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. INVERSÃO DO ÔNUS DA PROVA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS DE PERITO. CUSTEIO TRANSFERIDO PARA A PARTE RÉ. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA. SÚMULA 83/STJ. RAZÕES RECURSAIS INSUFICIENTE PARA A ALTERAÇÃO DA CONCLUSÃO DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp n. 1.378.152/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 1/0/2016, DJe 9/9/2016.)
+Outrossim, nos termos do art. 95 do CPC/2015, a remuneração do perito será adiantada pela parte que houver requerido a perícia ou rateada quando ela for determinada de ofício ou tiver sido solicitada por ambas as partes, in verbis:
+Art. 95. Cada parte adiantará a remuneração do assistente técnico que houver indicado, sendo a do perito adiantada pela parte que houver requerido a perícia ou rateada quando a perícia for determinada de ofício ou requerida por ambas as partes.
+A propósito:
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. PROVA PERICIAL.DETERMINAÇÃO DE OFÍCIO. MAGISTRADO. DESPESAS. ADIANTAMENTO.RATEAMENTO ENTRE AS PARTES.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir, na vigência do Código de Processo Civil de 2015, a parte responsável pelo adiantamento das despesas da perícia determinada de ofício pelo magistrado.
+3. Incumbe ao autor adiantar os gastos relativos a ato cuja realização o juiz determinar de ofício ou a requerimento do Ministério Público quando sua intervenção ocorrer como fiscal da ordem jurídica (art. 85, § 1º, do CPC/2015).
+4. As despesas com a realização da perícia devem ser rateadas por ambas as partes quando for determinada de ofício pelo magistrado, consoante disposição expressa do art. 95 do CPC/2015.
+5. Na hipótese, o tribunal de origem, ao julgar a apelação interposta contra a sentença de improcedência do pedido autoral, julgou prejudicado o recurso para anular sentença e, de ofício, determinou a realização de perícia, motivo pelo qual o adiantamento das despesas com a referida prova cabe às partes.
+6. Recurso especial não provido.
+(REsp 1680167/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 05/02/2019, DJe 12/02/2019 - sem grifo no original.)
+No caso dos autos, o Tribunal de origem consignou que (e-STJ fl. 54):
+Em relação aos honorários periciais, apesar de requerida por ambas as partes, a agravante é a maior interessada na realização da perícia, especialmente após a redistribuição do ônus da prova, uma vez que é o meio apto de prova apto a verificar o nexo de causalidade entre o dano sofrido e a atividade por ela desenvolvida.
+Além disso, considerando a capacidade financeira da agravante e inexistindo demonstração de dano irreversível, deve ser mantido o pagamento conforme estabelecido pelo magistrado de origem, cabendo à recorrente optar pelo pagamento e produção da prova ou o julgamento conforme o ônus probatório sem a realização da perícia.
+Portanto, o acórdão recorrido destoa da jurisprudência desta Corte, sendo de rigor a sua reforma.
+Diante do exposto, DOU PARCIAL PROVIMENTO ao recurso especial, para afastar a responsabilidade da recorrente pela antecipação integral dos honorários da perícia solicitada por ambas as partes, ficando ciente de que poderá arcar com as consequências jurídicas decorrentes da ausência de produção da prova, tendo em vista a inversão do ônus.
+Publique-se e intimem-se.
