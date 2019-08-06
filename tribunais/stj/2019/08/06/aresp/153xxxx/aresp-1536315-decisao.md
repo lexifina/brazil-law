@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo apresentado por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CRIMINAL - ROUBO MAJORADO - FRAGILIDADE PROBATÓRIA - DÚVIDAS E CONTRADIÇÕES - ABSOLVIÇÃO - MEDIDA QUE SE IMPÕE
+Quanto à controvérsia, alega violação do arts. 157, § 2º, inciso I, do Código Penal, 155, 156, 202 e 386, inciso VII, do Código de Processo Penal; além do art. 1.025 do NCPC , no que concerne ao restabelecimento da condenação dos recorridos, em razão de induvidosa autoria do crime perpetrado, trazendo o(s) seguinte(s) argumento(s):
+O egrégio Tribunal de Justiça do Estado de Minas Gerais, por meio da sua 5Y Câmara Criminal, deu provimento aos apelos defensivos, para absolver os recorridos da prática do delito descrito no artigo 157 § 2.º, inciso 1, por duas vezes, do Código Penal, ao fundamento de que as provas são insuficientes para a condenação (fls. 328/332v).
+Contudo, assim procedendo, s egrégia Câmara Julgadora laborou em inquestionável equívoco, ao dar provimento aos recursos defensivos e absolver os recorridos dos crimes de roubo qualificado, pois, no caderno probatório há elementos mais do que suficientes a comprovarem a autoria delituosa.
+A Câmara Julgadora deixou de apreciar importantes elementos de prova dos autos, que foram devidamente judicializados, bem como deixou de valorar adequadamente as provas expressamente reconhecidas no aresto recorrido.
+Conforme destacado no acórdão recorrido, todas as vítimas afirmaram ter reconhecido os réus pelas vestimentas qiie utilizavam no momento dos crimes, fornecendo, de forma segura, as mesmas características, consistentes nos modelos, cores e detalhes, assim como indicando, de forma uníssona, a roupa que o condutor e o garurreiro - recorridos - usavam. Senão vejamos:
+ ..
+O Magistrado pode alijar a prova produzida desde que aponte elementos firmes de convicção, não diante de argumentos pueris e conjecturados, através dos quais lança mão das provas produzidas no próprio caderno processual.
+Assim, reconhecido que os recorridos praticaram o delito de roubo qualificado, por duas vezes, não poderiam eles ter sido absolvidos quanto ao delito que lhes foi imputado na peça vestibular, mostrando-se, portanto, necessária a reforma do julgado recorrido (fls. 474/482).
+É o relatório. Decido.
+Quanto à controvérsia, consta do acórdão recorrido o seguinte:
+Milita em desfavor dos réus o reconhecimento feito pelas vítimas e a apreensão de parte da res na posse dos acusados.
+Quanto ao primeiro, entendo que, além de precário, o reconhecimento está substancialmente fragilizado por contradições porquanto, apesar de todas as vítimas terem afirmado que não viram os rostos dos acusados, disseram tê-los reconhecidos por fotos a elas apresentadas pelos militares e, em seguida, os reconheceram pelas suas vestimentas - ou parte delas - no quartel.
+Ora, como poderiam as vítimas ter reconhecido os réus por fotos se foram unânimes em afirmar que não viram os rostos dos agentes, que estavam de capacete durante a prática delitiva  Assim, entendo que o único reconhecimento plausível seria aquele feito no quartel, mas, repito, está fragilizado por limitar-se às vestimentas - ou partes delas, dos agentes.
+Já em relação à posse de parte da res com os acusados, além do simulacro de uma arma de fogo, a versão dos réus encontra respaldo na prova testemunhal já que Andreisa afirma ter visto um rapaz oferecendo um aparelho celular na praça, onde Keny se encontrava, tendo esse mesmo rapaz, após sua negativa, se dirigido àquele réu. Da mesma maneira, a testemunha Marcos afirmou ter visto os réus na praça onde afirmaram que estavam e onde Keny comprou o celular com ele apreendido.
+Quanto a suposta tentativa de fuga dos réus em face da abordagem policiais, há apenas as palavras de um militar já que ambos os acusados negaram tal fato.
+Além disso, apesar da subtração de três aparelhos de telefone celular, apenas um foi apreendido em poder dos réus, cuja aquisição foi confessada por este, como visto.
+Não foi provada, pois, de maneira suficiente a versão ministerial que, como dito, apresenta-se frágil e dúbia.
+Neste caso, o resultado do conjunto probatório é que há, no mínimo, dúvidas fundadas da caracterização do delito imputado aos réus, e a dúvida em direito penal é sinônimo de absolvição.
+Destaco, por fim, que como não há prova da autoria do roubo e há confissão de Keny de que adquiriu produtos do delito nas mãos de terceiro, o crime que se poderia imputar a este acusado seria o delito de receptação.
+Não pode, contudo, o acusado ser condenado por este delito nesta Instância Recursal porquanto vedada aqui a mutattio libelli.
+Assim, não há outra solução jurídica que não a absolvição dos apelantes (fls. 432/433)
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
