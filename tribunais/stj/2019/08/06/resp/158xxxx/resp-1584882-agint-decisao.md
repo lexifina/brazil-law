@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. PREPARO. COMPROVAÇÃO SUFICIENTE. IRREGULARIDADE PARCIAL NA DIGITALIZAÇÃO QUE NÃO COMPROMETE A VERIFICAÇÃO DO RECOLHIMENTO DAS CUSTAS PROCESSUAIS. DECISÃO RECONSIDERADA. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. JUROS REMUNERATÓRIOS. INCLUSÃO INDEVIDA. AUSÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO. JUROS DE MORA. INCIDÊNCIA A PARTIR DA CITAÇÃO NA AÇÃO DE CONHECIMENTO. TAXA APLICÁVEL PARA CORREÇÃO MONETÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+DECISÃO
+PARÓQUIA NOSSA SENHORA DOS PRAZERES (PARÓQUIA) promoveu cumprimento individual da sentença proferida em ação civil pública ajuizada pelo IDEC que lhe reconheceu o direito ao recebimento de expurgos inflacionários decorrentes de aplicação em caderneta de poupança.
+O BANCO BRADESCO S.A. (BRADESCO) apresentou impugnação que foi rejeitada pelo magistrado de piso.
+Contra essa decisão, o BRADESCO interpôs agravo de instrumento (e-STJ, fls. 1/34), não provido pelo TJSP em acórdão assim ementado:
+Cumprimento de sentença - Ação Civil Pública - Repercussão geral reconhecida (STF) - Sobrestamento do julgamento dos recursos Prosseguimento das execuções com trânsito em julgado e incidentes - Possibilidade.
+Juros Remuneratórios - Sentença - Condenação - Acréscimo implícito por integrar a recomposição do saldo - Previsão legal (artigo 591 do Código Civil).
+Juros Moratórios - Pedido implícito - Incidência sobre o valor objeto da condenação, independente de pedido expresso e de determinação pela sentença Artigos 293 do Código de Processo Civil e 407 do Código Civil.
+Juros de mora - Termo inicial - Citação na fase de conhecimento da ação Entendimento consolidado pelo STJ - Incidência no percentual de 6% (seis por cento) ao ano (art. 1.062 do CC/16), desde a data da citação na ação civil pública até a data da entrada em vigor do novo Código Civil e, daí em diante, no percentual de 12% (doze por cento) ao ano (art. 406 do CC/02, c/c art. 161, § 1º, do CTN).
+Prejudiciais rejeitadas e recurso não provido (e-STJ, fl. 165).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fl. 189).
+Irresignado, o BRADESCO interpôs recurso especial com fundamento no art. 105, III, a, da CF, alegando que (1) o título executivo transitado em julgado não previu a incidência de juros remuneratórios, os quais não poderiam, por isso, ser incluídos no cálculo da dívida, sob pena de ofensa aos arts. 467 e 468 do CPC/73, 17 e 103, III, da LACP; (2) os juros de mora incidentes sobre a dívida devem fluir a partir da citação no cumprimento de sentença, conforme determinado pelos arts. 397 e 405 do CC/02 e 219 do CPC/73; (3) não seria possível utilizar a Tabela DEPRE para a atualização monetária da dívida tendo em vista o disposto no art. 7º da Lei nº 8.660/93.
+Apresentadas contrarrazões (e-STJ, fls. 256/268), o recurso foi admitido na origem (e-STJ, fls. 308/310).
+Nesta Corte, sobreveio decisão monocrática do Ministro Presidente, FRANCISCO FALCÃO, que não conheceu o recurso especial com fundamento na Súmula nº 187 do STJ, tendo em vista deficiência na comprovação do preparo (e-STJ, fls. 322 e 338/339).
+Nas razões do presente agravo interno, o BRADESCO sustentou que o recolhimento do preparo foi regularmente comprovado, não havendo razão para falar em deserção (e-STJ, fls. 343/353).
+Não foi apresenta impugnação (e-STJ, fl. 356).
+É o relatório.
+DECIDO.
+O recurso merece provimento.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Examinado os autos, verifica-se que a deficiência na comprovação do preparo destacada pela decisão agravada é meramente formal. Com efeito, é possível localizar, às fls. 221 (e-STJ), a GRU relativa ao porte de remessa e retorno dos autos, acompanhada do respectivo comprovante de pagamento. Com relação às custas judiciais do recurso especial, é possível verificar, à fl. 220 (e-STJ), o comprovante de pagamento e, na mesma página, a respectiva GRU. Ressalte-se que, muito embora essa guia tenha sido parcialmente cortada no processo de digitalização, é possível extrair da parte efetivamente digitalizada, a identificação das partes, o valor do pagamento e o número do processo. Isso é o que basta para estabelecer a certeza de sua vinculação ao feito, afastando, dessa forma, a deserção assinalada pela decisão agravada.
+Nesses termos, RECONSIDERO a decisão de fls. 322 e 338/339 e passo ao julgamento do recurso especial.
+(1) juros remuneratórios
+O BRADESCO afirmou que o título executivo transitado em julgado não previu a incidência de juros remuneratórios, os quais não poderiam, por isso, ser incluídos no cálculo da dívida, sob pena de ofensa aos arts. 467 e 468 do CPC/73, 17 e 103, III, da LACP.
+O Tribunal de origem afirmou que os juros remuneratórios estariam implicitamente incluídos na sentença coletiva.
+Anote-se:
+Os juros remuneratórios estão implícitos na condenação, já que necessários à plena recomposição do saldo em caderneta de poupança.
+Nos termos do artigo 293 do CPC, os pedidos são interpretados restritivamente, compreendendo-se, entretanto, no principal, os juros legais.
+Há previsão legal de inclusão dos juros remuneratórios, como se deduz do artigo 591 do CC/02 (e-STJ, fl. 166).
+Todavia, essa Corte entendeu que a inclusão de juros remuneratórios na fase de cumprimento de sentença coletiva, depende de previsão expressa no título executivo. Nesse sentido, o julgamento do REsp n. 1.392.245/DF, sob o rito do art. 543-C do CPC, cuja ementa segue transcrita:
+DIREITO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). EXECUÇÃO INDIVIDUAL. INCLUSÃO DE JUROS REMUNERATÓRIOS E DE EXPURGOS SUBSEQUENTES. OMISSÃO DO TÍTULO.
+1. Na execução individual de sentença proferida em ação civil pública que reconhece o direito de poupadores aos expurgos inflacionários decorrentes do Plano Verão (janeiro de 1989):
+1.1. Descabe a inclusão de juros remuneratórios nos cálculos de liquidação se inexistir condenação expressa, sem prejuízo de, quando cabível, o interessado ajuizar ação individual de conhecimento;
+1.2. Incidem os expurgos inflacionários posteriores a título de correção monetária plena do débito judicial, que terá como base de cálculo o saldo existente ao tempo do referido plano econômico, e não os valores de eventuais depósitos da época de cada plano subsequente.
+2. Recurso especial parcialmente provido.
+(REsp 1.392.245/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, julgado em 08/04/2015, DJe 07/05/2015)
+Desse modo, descabe a inclusão dos juros remuneratórios na fase de cumprimento de sentença, sob pena de indevida ampliação do alcance objetivo da coisa julgada.
+(2) juros de mora
+No que tange ao termo inicial de incidência dos juros de mora, o acórdão recorrido está em consonância com o entendimento firmado por esta Corte Superior, por ocasião do julgamento do REsp nº 1.361.800/SP, proferido sob o rito do art. 543-C do CPC, segundo o qual a contagem se dá partir da citação do devedor na fase de conhecimento da ação civil pública, quando esta se fundar em responsabilidade contratual, salvo a configuração da mora em momento anterior.
+Eis a ementado do aludido aresto:
+AÇÃO CIVIL PÚBLICA - CADERNETA DE POUPANÇA - PLANOS ECONÔMICOS - EXECUÇÃO - JUROS MORATÓRIOS A PARTIR DA DATA DA CITAÇÃO PARA A AÇÃO COLETIVA - VALIDADE - PRETENSÃO A CONTAGEM DESDE A DATA DE CADA CITAÇÃO PARA CADA EXECUÇÃO INDIVIDUAL - RECURSO ESPECIAL IMPROVIDO.
+1.- Admite-se, no sistema de julgamento de Recursos Repetitivos (CPC, art. 543-C, e Resolução STJ 08/98), a definição de tese uniforme, para casos idênticos, da mesma natureza, estabelecendo as mesmas consequências jurídicas, como ocorre relativamente à data de início da fluência de juros moratórios incidentes sobre indenização por perdas em Cadernetas de Poupança, em decorrência de Planos Econômicos.
+2.- A sentença de procedência da Ação Civil Pública de natureza condenatória, condenando o estabelecimento bancário depositário de Cadernetas de Poupança a indenizar perdas decorrentes de Planos Econômicos, estabelece os limites da obrigação, cujo cumprimento, relativamente a cada um dos titulares individuais das contas bancárias, visa tão-somente a adequar a condenação a idênticas situações jurídicas específicas, não interferindo, portando, na data de início da incidência de juros moratórios, que correm a partir da data da citação para a Ação Civil Pública.
+3.- Dispositivos legais que visam à facilitação da defesa de direitos individuais homogêneos, propiciada pelos instrumentos de tutela coletiva, inclusive assegurando a execução individual de condenação em Ação Coletiva, não podem ser interpretados em prejuízo da realização material desses direitos e, ainda, em detrimento da própria finalidade da Ação Coletiva, que é prescindir do ajuizamento individual, e contra a confiança na efetividade da Ação Civil Pública, O que levaria ao incentivo à opção pelo ajuizamento individual e pela judicialização multitudinária, que é de rigor evitar.
+3.- Para fins de julgamento de Recurso Representativo de Controvérsia (CPC, art. 543-C, com a redação dada pela Lei 11.418, de 19.12.2006), declara-se consolidada a tese seguinte: "Os juros de mora incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública, quando esta se fundar em responsabilidade contratual, se que haja configuração da mora em momento anterior."
+4.- Recurso Especial improvido
+(REsp nº 1.361.800/SP, Corte Especial, Relator o Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministro SIDNEI BENETI, DJe de 14/10/2014).
+(3) Correção monetária
+O BRADESCO alegou, finalmente, que não seria possível utilizar a Tabela DEPRE para a atualização monetária da dívida tendo em vista o disposto no art. 7º da Lei nº 8.660/93.
+A questão não foi examinada, porém, pelo Tribunal de origem mesmo após a oposição dos embargos de declaração, o que atrai a incidência da Súmula nº 211 do STJ.
+Nessas condições, pelo meu voto, RECONSIDERO a decisão agravada para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, DAR-LHE PARCIAL PROVIMENTO.
+Publique-se. Intimem-se.
