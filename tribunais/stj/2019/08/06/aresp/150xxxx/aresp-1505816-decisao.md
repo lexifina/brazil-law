@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo apresentado pelo MUNICÍPIO DE CURITIBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL EXECUÇÃO FISCAL IPTU PRESCRIÇÃO INTERCORRENTE FEITO QUE TRÂMITOU POR 07 ANOS INAPLICABILIDADE DA SÚMULA Nº 106/STJ MUNICÍPIO SE MANIFESTOU APENAS QUANDO INTIMADO NOS TERMOS DO ART10 DO CPC DEMORA QUE NÃO PODE SER IMPUTADA AO PODER JUDICIÁRIO RECURSO DESPROVIDO
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 174 do CTN e 13º, § 2º, da Lei de Execução Fiscal, no que concerne à prescrição, trazendo o(s) seguinte(s) argumento(s):
+O acórdão recorrido negou vigência ao artigo 174 do Código Tributário Nacional e o § 2º do artigo 8º da Lei n. 6.830/1980, os quais determinam que o despacho do juiz que ordena a citação interrompe a prescrição.
+A prescrição foi interrompida quando o despacho do juiz deferiu a inicial e determinou a citação, assim não há que se falar em prescrição.
+ ..
+Na realidade o processo jamais ficou paralisado por culpa do Município, visto que a execução fiscal foi ajuizada no prazo legal, bem como foi requerida a citação do executado, sendo a demora na efetivação do ato citatório responsabilidade exclusiva do serviço judicial (fl. 82).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 25 da Lei n. 6.830/1980, no que concerne intimação pessoal, trazendo o(s) seguinte(s) argumento(s):
+Se o Município não se manifestou nos autos é porque não foi intimado. Deveria o cartório ter realizado a intimação pessoal da Fazenda Pública, conforme prevê o artigo 25 da Lei n. 6.830/80, o que não ocorreu.
+ Não há como exigir da Fazenda Pública a atuação no processo, se não lhe é informado, pessoalmente, conforme determina a lei, a realização ou não dos atos processuais que competem aos servidores do Poder Judiciário (fls. 86).
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o acórdão recorrido assim decidiu:
+O recurso é adequado e interposto no prazo legal, preenchidos seus requisitos intrínsecos e extrínsecos, comportando conhecimento e lhe atribuo o duplo efeito.
+ ..
+A ação foi ajuizada em 04/05/2007, com determinação de citação posterior à Lei Complementar nº 118/2005 e, portanto, interrompida a prescrição material dos créditos com o despacho citatório, em 14/05/2007.
+Verifica-se, ainda, que durante o trâmite do processo, o apelante manifestou-se tão somente em 12/08/2009, quando requereu a alteração do pólo passivo (mov. 1.4), e em 28/07/2017, quando ntimado para falar sobre a eventual ocorrência da prescrição dos créditos, nos termos do art.10 do CPC (mov. 10.1) (fls. 69)
+Ora, não pode o procurador se escusar do dever de cuidado e diligência no acompanhamento processual dos feitos municipais quando este perfaz dever funcional da carreira, mesmo porque tal comportamento deixa de assegurar a duração razoável do processo e resguardar o melhor interesse do Município (fls. 68/69).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Quanto à segunda controvérsia, na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
