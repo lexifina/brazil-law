@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado pela FAZENDA DO ESTADO DE SÃO PAULO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO COLETIVA EM FASE DE EXECUÇÃO. Decisão vergastada que rechaçou a alegação de prescrição da pretensão executiva. Manutenção. Título judicial de mandado de segurança coletivo impetrado pelo Sindicato dos Trabalhadores Públicos da Saúde. Prescrição. Inocorrência. Não corre a prescrição enquanto não iniciadas diligências necessárias à liquidação do crédito resultante de sentença proferida em ação coletiva. Inaplicabilidade do julgamento proferido no REsp I.388.000/PR (tema 877) por se tratar o "leading case " diverso. Decisão mantida. Recurso não provido.
+Alega violação do art. 1º do Decreto-lei n. 20.910/1935, no que concerne ao termo inicial para a contagem do prazo prescricional para a execução individual de direito obtido em ação coletiva, trazendo os seguintes argumentos:
+É fato incontroverso que o título executado transitou em julgado em 27.05.2011 e que a execução da obrigação de pagar se iniciou apenas em 20.01.2017, ou seja, após mais de 5 anos.
+Todavia, a r. Decisão recorrida afasta a prescrição aduzindo que o termo inicial de contagem do prazo não seria o trânsito em julgado, mas sim a data da extinção da obrigação de fazer, e, mesmo que assim não o fosse, o prazo somente teria início após a comunicação dos interessados na forma do art. 94, do Código de Defesa do Consumidor.
+A prescrição da pretensão executória se extingue no mesmo prazo da pretensão do conhecimento. Nesse sentido, aplica-se o Art. 1º do Decreto 20.910/32:  ..  (fls. 29).
+É o relatório. Decido.
+Incide o óbice da Súmula 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+É sabido que o título executivo judicial transitado em julgado só pode ser executado quando tenha se tornado líquido, não correndo o prazo prescricional enquanto o credor promove as diligências para viabilizar a execução (fl. 19).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EREsp n. 1.698.730/SP, relator Ministro Raul Araújo, Segunda Seção, DJe de 18/12/2018; e AgRg nos EAREsp n. 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
