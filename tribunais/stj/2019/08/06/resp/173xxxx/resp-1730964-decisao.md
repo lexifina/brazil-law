@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+DIREITO TRIBUTÁRIO E ADUANEIRO. EXPORTAÇÃO TEMPORÁRIA DE COMPUTADOR DE BORDO PARA REPAROS NO EXTERIOR. REIMPORTAÇÃO DO BEM, PELA PROPRIETÁRIA (TAM - LINHAS AÉREAS), QUE FOI TAMBÉM A EMPRESA TRANSPORTADORA. CONFERÊNCIA FINAL DE MANIFESTO DE CARGA: FALTA DE MERCADORIA CONSTATADA NO CONFRONTO ENTRE O MANIFESTO DE CARGA E OS REGISTROS DE DESCARGA DO VEÍCULO TRANSPORTADOR. AUTO DE INFRAÇÃO: IMPOSIÇÃO DE RESPONSABILIDADE À TRANSPORTADORA (TAMBÉM PROPRIETÁRIA) PELO IMPOSTO DE IMPORTAÇÃO. MANUTENÇÃO DA SENTENÇA FAVORÁVEL À AUTORA, MAS POR FUNDAMENTO DIVERSO: O COMPUTADOR GERENCIAL DE BORDO NÃO ESTÁ ABRANGIDO POR NENHUMA ISENÇÃO PREVISTA NA LEGISLAÇÃO ADUANEIRA, PORÉM NÃO HÁ FATO GERADOR DO IMPOSTO DE IMPORTAÇÃO. DECLARAÇÃO DE INCONSTITUCIONALIDADE DO ART. 93 DO DECRETO-LEI 37/66 À LUZ DA CONSTITUIÇÃO DE 1946, CUJA EXECUÇÃO FOI SUSPENSA PELA RESOLUÇÃO 476/87 DO SENADO FEDERAL. APELO IMPROVIDO.
+Opostos embargos de declaração, foram rejeitados, com aplicação de multa de 1% sobre o valor da causa, nos termos do art. 1.026, § 2º, do CPC/2015.
+A parte recorrente alega violação dos arts. 535 e 538 do CPC/1973, sustentando, em síntese, não ter havido intuito protelatório nos embargos de declaração opostos, tendo em vista a necessidade de suprir vícios de integração e o prequestionamento da matéria recursal (e-STJ fls. 545/549).
+Contrarrazões apresentadas pela TAM LINHAS AÉREAS S.A., nas quais pede o desprovimento do recurso (e-STJ fls. 562/570).
+Recurso especial admitido na origem.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Considerado isso, observa-se que o acórdão recorrido foi proferido na vigência do CPC/2015; nesse contexto, o conhecimento do recurso encontra óbice nas Súmulas 282 e 284 do STF, pois os dispositivos legais tidos por violados não se encontravam mais em vigência por ocasião do julgamento a quo.
+Por força do art. 85, § 11, do CPC/2015, a verba honorária de sucumbência arbitrada na acórdão há de ser majorada em 1% (um por cento), respeitados os limites e os critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial e majoro em 1% (um por cento) a verba honorária de sucumbência, respeitados os limites e os critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Publique-se. Intimem-se.
