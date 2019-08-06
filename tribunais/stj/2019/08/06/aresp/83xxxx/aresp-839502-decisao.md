@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/1973, que inadmitiu o recurso especial por ausência de violação da legislação federal (e-STJ fl. 260).
+O acórdão recorrido está assim ementado (e-STJ fl. 230):
+AGRAVO DE INSTRUMENTO - Cumprimento de sentença - Intervenção Federal em entidade de previdência privada - Preliminar de não conhecimento do agravo - Rejeição - Juntada de todas as peças obrigatórias - Pretensão de reforma da decisão - Impossibilidade - Cabimento da suspensão nos termos dos artigos 6o, da Lei Federal nº 6.024/74 e 62 Lei Complementar nº 109/01 - Medida que se mostra recomendável para proteção de outros eventuais credores - Precedentes deste Eg. Tribunal - Manutenção da decisão - Não provimento do recurso.
+Nas razões do recurso especial (e-STJ fls. 236/242), interposto com fundamento no art. 105, III, "a", da CF, os recorrentes alegaram ofensa aos arts. 49 e 62 da LC n. 109/2001 e 6º e 18 da Lei n. 6.024/1974.
+Aduziram que "a lei de intervenção e liquidação extrajudicial das instituições financeiras somente é aplicada no caso das entidades de previdência complementar naquilo em que couber, ou seja, é imprescindível que não haja conflito entre as normas, uma vez que a LC 109/01, pela sua posição hierárquica e especificidade, prevalece sobre a lei ordinária em comento" (e-STJ fls.238/239).
+Afirmaram ainda que "aplica-se a lei 6.024/74 quando for omissa a LC 109/2001. Contudo a LC 109/2001 não é omissa quanto aos efeitos tanto de decreto de intervenção quando liquidação" (e-STJ fl. 239)
+Defendem que a suspensão das demandas executórias tem cabimento somente em liquidações extrajudicias, diferentemente do caso em comento, que trata de intervenção (e-STJ fl. 239).
+Asseveraram que houve indevida suspensão das ações e execuções ajuizadas em desfavor da entidade, pois o decreto de intervenção "somente determina suspensão da exigibilidade das obrigações vencidas ou anteriormente contraídas pela entidade"(e-STJ fl. 241).
+Por derradeiro, pugnam pelo prosseguimento da execução ajuizada na origem.
+No agravo (e-STJ fls. 263/271), afirmam a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+O inconformismo não merece prosperar.
+A Corte estadual, ao decidir acerca da compatibilidade entre a intervenção em entidades previdenciárias e a suspensão de demandas executórias, assim consignou (e-STJ fls. 231/232):
+No mais, cinge-se a controvérsia apenas sobre a possibilidade, ou não, de suspensão do processo por aplicação do artigo 6º da Lei Federal nº 6.024/74, que assim dispõe:
+"A intervenção produzirá, desde sua decretação, os seguintes efeitos: a) suspensão da exigibilidade das obrigações vencidas; b) suspensão da fluência do prazo das obrigações vincendas anteriormente contraídas; c) inexigibilidade dos depósitos já existentes na data de sua decretação".
+Ora, é da redação do artigo 62 da Lei Complementar nº 109/01, que trata do Regime de Previdência Complementar, "Aplicam-se à intervenção e à liquidação das entidades de previdência complementar, no que couber, os dispositivos da legislação sobre a intervenção e liquidação extrajudicial das instituições financeiras, cabendo ao órgão regulador e fiscalizador as funções atribuídas ao Banco Central do Brasil".
+Ou seja, não há óbice algum à aplicação do artigo 6º da Lei Federal nº 6.024/74 às entidades de previdência complementar, tendo, em vista que, diversamente do alegado, não há incompatibilidade entre os dispositivos. A medida, aliás, é plenamente recomendável, para proteção do direito de outros eventuais credores. Assim, aliás, tem sido julgado:
+Anote-se, por fim, que a medida interventiva é o principal objetivo da recuperação da entidade sob intervenção, protegendo-se, com isso, os direitos de todos os beneficiários. Daí porque a continuidade da execução pode configurar, em tese, ofensa ao princípio "a isonomia, tendo em vista a presença da outros credores na mesma situação do agravante".
+(Agravo de Instrumento nº 0294889-79.2011.8.26.0000. TJSP- 5ºCâmara de Direito Público. Relator: Francisco Bianco.
+Data do julgamento: 14/05/2012).
+Da mesma forma, sem razão o agravante ao afirmar que mesmo no caso de aplicação do artigo 6º da Lei nº 6.024/74 não caberia a suspensão do processo.
+Isso porque, tal artigo é expresso ao afirmar que ocorre a suspensão das obrigações vencidas quando determinada a intervenção.
+Ao afirmar a possibilidade de suspensão da demanda executória devido ao decreto de intervenção, o Tribunal a quo julgou conforme o entendimento desta Corte. A propósito, os seguintes precedentes:
+DIREITO CIVIL. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. INTERVENÇÃO NA ENTIDADE. SUSPENSÃO DO CUMPRIMENTO DE SENTENÇA. NECESSIDADE.
+1. Ação de cobrança, já em fase de cumprimento de sentença, por meio da qual se objetiva a aplicação dos índices oficiais ao cálculo da reserva de poupança no momento do resgate.
+2. Ação ajuizada em 13/09/2000. Recurso especial concluso ao gabinete em 26/08/2016. Julgamento: CPC/73.
+3. O propósito recursal é definir acerca da possibilidade de suspensão do cumprimento de sentença quando decretada a intervenção federal em entidade de previdência privada.
+4. "Não havendo a demonstração de ilegalidade na sucessiva prorrogação da intervenção no ente de previdência privada, subsistem os efeitos decorrentes de tal regime (art. 6º da Lei nº 6.024/1974), como a sustação da exigibilidade das obrigações vencidas, a gerar a suspensão do andamento da execução e o desfazimento dos atos de constrição" (REsp 1.734.410/SP, 3ª Turma, DJe 24/08/2018).
+5. Recurso especial conhecido e não provido.
+(REsp 1746882/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 07/05/2019, DJe 09/05/2019.)
+RECURSO ESPECIAL. CIVIL. PREVIDÊNCIA PRIVADA. INTERVENÇÃO EM ENTIDADE. PRAZO DE DURAÇÃO. ESGOTAMENTO. PRORROGAÇÕES SUCESSIVAS. ADMISSIBILIDADE. LIMITE TEMPORAL. SANEAMENTO DO ENTE. RAZOABILIDADE. CUMPRIMENTO DE SENTENÇA. SUSPENSÃO DO FEITO. NECESSIDADE. EFEITOS DO REGIME EXCEPCIONAL. LEGISLAÇÃO DAS INSTITUIÇÕES FINANCEIRAS. APLICAÇÃO SUBSIDIÁRIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A questão controvertida na presente via recursal consiste em definir se o período de intervenção em entidade fechada de previdência privada está sujeito ao prazo de 6 (seis) meses, prorrogável uma única vez, a refletir na suspensão do feito em fase de cumprimento de sentença.
+3. A intervenção na Previdência Privada se constitui no conjunto de medidas administrativas de natureza cautelar adotado quando ocorrentes hipóteses indicativas do comprometimento da solvabilidade da entidade de previdência complementar ou de graves irregularidades na sua administração. O resultado desse regime excepcional será a aprovação de um plano de recuperação pelo órgão competente, situação em que o saneamento das graves disfunções constatadas se revela possível, ou, caso contrário, será a decretação de sua liquidação extrajudicial.
+4. A Lei nº 6.024/1974, direcionada às instituições financeiras, somente se aplica de maneira subsidiária nas intervenções de entes da previdência complementar, de forma que, no lugar de seu art. 4º, incidem as normas próprias da área inscritas nos arts. 45 e 62 da Lei Complementar nº 109/2001 e 8º da Resolução MPS/CGPC nº 24/2007, sendo admissível, portanto, mais de uma prorrogação de prazo dessa medida de administração excepcional.
+5. Extrai-se da legislação incidente na Previdência Complementar que o regime de intervenção deve perdurar pelo tempo necessário à regularização da entidade, podendo o prazo inicial de duração ser prorrogado mais de uma vez se as circunstâncias fáticas assim o exigirem.
+6. Mesmo havendo indefinição acerca da limitação temporal da intervenção na Previdência Privada - tendo em vista a possibilidade de sucessivas prorrogações segundo as particularidades do caso -, é preciso atentar para o fato de que tal regime deve ser sempre excepcional, ou seja, não deve ferir a razoabilidade, já que não existe intervenção permanente, sendo totalmente desaconselhados o abuso e a longa duração, sob pena de a medida se transmudar em indevida estatização ou ocorrer supressão total da intervinda.
+7.Não havendo a demonstração de ilegalidade na sucessiva prorrogação da intervenção no ente de previdência privada, subsistem os efeitos decorrentes de tal regime (art. 6º da Lei nº 6.024/1974), como a sustação da exigibilidade das obrigações vencidas, a gerar a suspensão do andamento da execução e o desfazimento dos atos de constrição.
+8. Recurso especial provido.
+(REsp 1734410/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/08/2018, DJe 24/08/2018.)
+Aplica-se, por analogia, a Súmula n. 83/STJ.
+Ante o exposto NEGO PROVIMENTO ao agravo.
+Publique-se.Intimem-se
