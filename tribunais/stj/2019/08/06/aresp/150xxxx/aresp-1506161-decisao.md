@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas a e c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim resumido:
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO.
+RECURSO DA PARTE EMBARGADA: ALEGAÇÃO, NOS EMBARGOS, DE EXCESSO DE EXECUÇÃO. AUSÊNCIA DE MEMÓRIA DE CÁLCULO DO VALOR DEVIDO. INTELIGÊNCIA DO ART. 917, §§3º E 4º, DO CPC/15. EMBARGOS LIMINARMENTE REJEITADOS. PRECEDENTES DO STJ E DESTE TRIBUNAL DE JUSTIÇA. RECURSO CONHECIDO E PROVIDO.
+1. Quando o fundamento dos embargos for o excesso de execução, imputa-se à parte embargante a declaração, na petição inicial, do valor que entende como devido, apresentando memória de cálculo detalhada, sob pena de rejeição liminar dos embargos, na forma do § 4º do artigo 917 do novo Código de Processo Civil;
+2. In casu, não foi oferecida a planilha discriminada de cálculos pelos embargantes, tampouco informado qual valor entendem como devido, razão pela qual devem ser rejeitados liminarmente os embargos opostos;
+3. Imperiosa a reforma da sentença, a fim de que sejam rejeitados liminarmente os embargos à execução opostos;
+4. Recurso conhecido e provido.
+RECURSO DA PARTE EMBARGANTE: PREJUDICADA A ANÁLISE.
+Em relação à primeira controvérsia, pela alínea a do permissivo constitucional, alega violação do art. 917, § 3º, do CPC, sustentando a desnecessidade de apresentação de memória de cálculo nos embargos de execução, trazendo os seguintes argumentos:
+Ilustre Relator, diferentemente do que aduziu o Douto Desembargador em sua Decisão, o intuito dos Recorrentes era de que fosse declarada a ilegalidade da cláusula contratual que prevê a repartição de receitas, com incidência de encargos díspares e, por consequência, a equiparação dos encargos financeiros previstos no programa do FNE, bem como recompor o novo saldo devedor, aplicando a taxa de 3,5% a.a instituída na Resolução no 4.181/2013.
+Isso se deve ao fato de que no momento da contratação o banco Recorrido condicionou as parcelas do empréstimo com encargos financeiros de 12,94% a.a e outra parte do valor com encargos financeiros de 19,56% a.a.
+Além disso restou ainda comprovado que no aditivo de rerratificação de recursos foi aplicado encargos financeiros de 25,49% a.a.
+Ora, definitivamente, no caso concreto, é possível concluir que é desnecessária a apresentação de planilha de cálculo para perceber as ilegalidades aplicadas pelo Banco Recorrido, sendo tal requisito não se mostrando suficiente para a rejeição dos embargos, uma vez que os Recorrentes identificaram todos seus pedidos, demonstrando o abuso e excesso praticado pelo Recorrido, permitindo, desta forma, o exercício do contraditório (fls. 311/312).
+Em relação à segunda controvérsia, pela alínea c do permissivo constitucional, alega dissenso jurisprudencial sobre a aplicação do art. 917, § 3º, do CPC.
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Quanto à segunda controvérsia, na espécie, não foi comprovada a divergência jurisprudencial, uma vez que não cumpridos os requisitos legais dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nesse sentido, os seguintes julgados: AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018; AgInt no REsp 1.696.707/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 12/3/2018; e AgRg no REsp 1.683.470/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 31/10/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
