@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, de acórdão do Tribunal de Justiça da mesma unidade federativa.
+Alega o recorrente contrariedade aos arts. 59 e 64, I, do Código Penal, tendo em vista que "o v. acórdão não reconheceu a condenação pretérita, atingida pelo lapso depurador do artigo 64, I, do Código Penal, como mau antecedente".
+Requer, assim, "que seja cassado o v. acórdão no que se refere ao afastamento dos maus antecedentes do acusado e, em consequência, restabelecer o aumento da pena base fixado em primeiro grau para ambos os delitos".
+Contrarrazões apresentadas (e-STJ, fls. 388-391).
+O Ministério Público Federal opinou pelo provimento do recurso, "para que seja restabelecido o aumento das penas-base fixado na sentença".
+É o relatório.
+Decido.
+O Tribunal de origem afastou o incremento da pena-base em virtude dos maus antecedentes, nos seguintes termos:
+"As penas, entretanto, estão a merecer pequeno reparo.
+Tráfico: A base foi fixada 1/3 (um terço) acima do mínimo legal, ou seja, 06 (seis) anos e 08 (oito) meses de reclusão e pagamento de 666 (seiscentos e sessenta e seis) dias-multa, em razão dos maus antecedentes. Em razão da comprovada reincidência (fls. 115), as penas foram acrescidas em 1/6 (um sexto). Depois, pela causa de aumento prevista no artigo 40, III, da lei especial, as penas sofreram acréscimo de mais 1/6 (um sexto), resultando em 09 (nove) anos e 26 (vinte e seis) dias de reclusão e pagamento de 907 (novecentos e sete) dias-multa.
+Reduz-se a base do delito de tráfico para o mínimo legal, afastando-se o aumento por conta dos maus antecedentes.
+As certidões constantes dos autos não servem para a caracterização da circunstância desfavorável, uma vez que referem condenações já atingidas pelo quinquídio depurador (fls. 169, 170, 174, 178) ou pela prescrição (fls. 177) e absolvições (fls. 171 e 176).
+Por isso, refeitos os cálculos, mantidos os aumentos de 1/6 (um sexto) pela comprovada reincidência (fls. 172) e pela causa de aumento do artigo 40, III, da lei especial, restam para cumprimento as penas de 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão e pagamento de 680 (seiscentos e oitenta) dias-multa.
+Artigo 349-A do CP: a base foi fixada 1/2 (metade) acima do mínimo legal, em razão da quantidade de aparelhos de telefonia móvel e, em seguida, em mais 1/6 (um sexto) em razão da comprovada reincidência (fls. 115), resultando em 05 (cinco) meses e 07 (sete) dias de detenção, em regime semiaberto.
+Embora bem fundamentado o aumento procedido à base para este delito, entendo que a fração de 1/3 (um terço) é suficiente para a repressão e prevenção do delito.
+Assim, refeitos os cálculos, resta para cumprimento a pena de 04 (quatro) meses e 20 (vinte) dias de detenção" (e-STJ, fls. 268-269).
+Como é cediço, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+Este Superior Tribunal de Justiça tem posicionamento consolidado no sentido de que condenações criminais anteriores com mais de cinco anos de extinção da pena, embora não tenham o condão de gerar reincidência, podem ser sopesadas, no momento da fixação da pena-base, para dosar a reprimenda, a título de maus antecedentes.
+No mesmo sentido, confira-se:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE VIGÊNCIA AO ART. 59 DO CP. DOSIMETRIA. PENA-BASE. CONDENAÇÃO ANTERIOR COM TRÂNSITO EM JULGADO. MAIS DE CINCO ANOS. PERÍODO DEPURATIVO. UTILIZAÇÃO PARA NEGATIVAR OS ANTECEDENTES. POSSIBILIDADE. VIOLAÇÃO AO ART. 33, § 4º, DA LEI N. 11.343/06. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. MAUS ANTECEDENTES. CIRCUNSTÂNCIA QUE IMPEDE A APLICAÇÃO DO REDUTOR. DEMAIS PLEITOS PREJUDICADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "Segundo entendimento desta Corte, o período depurador de cinco anos afasta a reincidência, mas não retira os maus antecedentes" (HC 281.051/MS, minha relatoria, SEXTA TURMA, DJe 28/11/2013).
+2. A existência de maus antecedentes justifica a negativa da aplicação da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei n. 11.343/06.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 912.007/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/06/2016, DJe 01/08/2016 - grifou-se).
+Cabe destacar que tal entendimento somente incidirá sobre a pena do delito de tráfico de entorpecentes, visto que a Corte de origem, no que se refere ao crime previsto no art. 349-A do Código Penal, não tratou dos maus antecedentes do acusado, tendo considerado desde o princípio da análise da dosimetria penal apenas a quantidade de aparelhos celulares como circunstância judicial desfavorável para exasperação da sanção básica. Nem a parte interessada opôs embargos de declaração a fim de suprir tal omissão.
+ Desse modo, na falta do devido prequestionamento do tema na origem, incidem à espécie as Súmulas 282 e 356 do Supremo Tribunal Federal, abaixo transcritas:
+Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Súmula 356/STF: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Passo, assim, ao redimensionamento da pena.
+Na primeira fase, restabeleço a sentença quanto ao incremento em relação aos maus antecedentes e fixo a pena-base em 6 anos e 8 meses de reclusão. Na segunda fase, diante da reincidência, elevo-a para 7 anos, 9 meses e 10 dias de reclusão. Na etapa derradeira, pela incidência da majorante do art. 40, III, da Lei de Drogas, aumento a sanção em 1/6, resultando em 9 anos e 26 dias de reclusão e pagamento de 906 dias-multa.
+Ficam mantidos o regime inicial fechado e a impossibilidade de substituição da pena privativa de liberdade por restritivas de direitos, nos termos dos arts. 33, § 2º, "a", e 44, II, do Código Penal.
+Ante o exposto, com fundamento no art. 34, XVIII, "a" e "c", do RISTJ, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe provimento para restabelecer a pena-base do delito de tráfico de entorpecentes fixada na sentença condenatória, tornando a pena definitiva em 9 anos e 26 dias de reclusão e pagamento e 906 dias-multa, a ser cumprida no regime inicial fechado.
+Publique-se. Intimem-se.
