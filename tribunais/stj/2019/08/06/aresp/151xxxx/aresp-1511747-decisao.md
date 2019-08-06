@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPARAÇÃO POR DANOS MORAIS. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL E DE FALHA NA FUNDAMENTAÇÃO. DANO MORAL NÃO CONFIGURADO. HONORÁRIOS FIXADOS NOS TERMOS DO ART. 85, § 2º DO NCPC. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+DECISÃO
+IVETE FARHERR DA SILVA (IVETE) ajuizou ação declaratória de inexistência de débito c/c reparação por danos morais contra TELEFÔNICA BRASIL S/A (TELEFÔNICA), que foi julgada procedente em parte.
+A apelação interposta por IVETE não foi provida e o apelo de TELEFÔNICA foi provido em parte pelo Tribunal de origem, nos termos da seguinte ementa:
+DEMANDA DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO, COM PEDIDO CUMULADO DE INDENIZAÇÃO DE DANO MORAL.
+SENTENÇA DE PARCIAL PROCEDÊNCIA. DECISÃO ALTERADA EM PARTE. ELEMENTOS DOS AUTOS QUE ATESTAM A INEXISTÊNCIA DA DÍVIDA. DANO EXTRAPATRIMONIAL NÃO CONFIGURADO. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA.
+HONORÁRIOS ADVOCATÍCIOS. MANTIDO O CRITÉRIO DE DISTRIBUIÇÃO DA VERBA, DEVE SER ALTERADA A RESPECTIVA BASE DE CÁLCULO. PROVIDO EM PARTE O RECURSO DA RÉ E DESPROVIDO O DA AUTORA. (e-STJ fls. 179)
+Os embargos de declaração interpostos foram rejeitados. (e-STJ fls. 232/234)
+Inconformada, IVETE interpôs recurso especial, com fundamento no art. 105, III, a e c, da CF, alegando violação dos arts. 489 e 1.022 do NCPC; 186, 187, 927, 944 do CC/02, e 14, 10, e 39, incs. V e X, do CDC, 85, §§ 2º, inc. 6º e 8º, 292, inc. II, e 293 do NCPC, ao sustentar que (1) houve negativa de prestação jurisdicional e falha na fundamentação; (2) a prestação de serviço foi suspensa e o contrato rescindido por ter sido impedida de quitar a fatura de abril/2015 por conta da cobrança de valor absurdo; (3) sofreu abalo moral por ter sido privado ao acesso ao serviço de radiofusão, considerado serviço essencial; (4) os honorários devem ser fixados com base no valor da causa atribuído pela autora, ainda que se trata de valor "irreal"; (5) o proveito econômico obtido pela recorrente compreende o valor do débito declarado inexigível, o qual equivale ao valor atribuído à causa e não é irrisório; e (6) há divergência jurisprudencial a respeito dos critérios de fixação dos honorários advocatícios.
+O apelo nobre não foi admitido em virtude (i) de não haver falha na fundamentação; (ii) de não haver negativa de prestação jurisdicional; e (iii) da incidência da súmula 7 do STJ, e (iv) ausência da similitude fática.
+Nas razões do presente agravo em recurso especial, IVETE sustentou que (a) houve omissão e falha na fundamentação do acórdão; (b) não é caso de reexame de provas; e (c) demonstrou a divergência jurisprudencial.
+Foi apresentada impugnação (e-STJ, fls. 265/269).
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+(1) Da negativa de prestação jurisdicional e falha na fundamentação
+No julgamento da apelação, o Tribunal de origem, após a análise do conjunto fático probatório, fundamentou que os fatos não configuram dano moral, bem como fundamentou que a base de cálculo empregada na instância de origem não pode prevalecer, pois o valor atribuído à causa é irreal, assim consignando:
+No concernente à existência do dano moral, a autora não tem razão. Não houve anotação de seu nome em cadastros de devedores inadimplentes e nem protesto de título, o que significa que não se trata de dano moral in re ipsa.
+Aqui, é incontroverso que a cobrança retratada na correspondência a fls. 17 decorreu da dívida aqui declarada inexistente (art. 374, III, do C.P.C.). No entanto, a prestação de serviço foi suspensa e o contrato rescindido por falta de pagamento de fatura vencida em abril/2015, e, portanto, a ré não praticou qualquer ato ilícito capaz de render ensejo ao dever de indenizar.
+(..)
+Em resumo, não há prova de que a autora tenha passado por sofrimento espiritual intenso a ponto de configurar o dano moral. Não há, assim, evidência de que teria ocorrido grave alteração no estado anímico da autora. Só alteração dessa magnitude é que configura o dano moral. A boa doutrina não discrepa desse entendimento, verbis: "Nesse sentido, independentemente da espécie de ilicitude se decorrente de violação legal ou mesmo de inadimplemento contratual -, é plenamente admitida a existência do dano moral indenizável. É o que poderá ocorrer no caso de inadimplemento contratual cuja ausência da prestação do devedor possa interferir na personalidade do credor. Observe-se, no entanto, que não basta a existência do inadimplemento contratual e do incômodo natural que dele resulta. Será necessário, em razão desse inadimplemento, que exista uma afetação da personalidade" (Bruno Miragem, "Direito Civil - Responsabilidade Civil", Saraiva Ed., 2015, p. 199/200).
+(..)
+De resto, não há nenhum motivo para ser alterada a distribuição dos honorários advocatícios, diante da constatação de que houve mesmo recíproca sucumbência. Mas a base de cálculo empregada na instância de origem não pode prevalecer, pois que o valor atribuído à causa pela autora é simplesmente irreal. Então, mantido o critério de distribuição, cabe arbitrar os honorários em R$ 1.000,00, atualizáveis a partir da intimação do presente, É para essa única finalidade que o apelo da ré comporta provimento em parte, mantida, no mais, a r. sentença. (e-STJ Fl. 180/181)
+Verifica-se que o tribunal de origem analisou as questões que lhe pareceram necessárias à solução da causa, encontrando-se o acórdão fundamentado de forma a não ensejar dúvidas acerca das razões de ordem jurídica que lhe deram sustentação.
+Assim, houve manifestação sobre o tema, só que de forma contrária à pretensão dos recorrentes, o que não caracteriza nenhum dos vícios dos arts. 489, § 1º, inc. IV, e 1.022 do NCPC.
+(2) (3) Da configuração do dano moral
+A presente demanda trata de declaração de inexigibilidade de débito c/c com indenização por danos morais decorrentes de cobrança indevida de prestação de serviço de TV por assinatura.
+É pacífico nesta Corte que, em caso de cobrança indevida de valores, o dano moral não é in re ipsa, devendo ser comprovado o fato excepcional que enseja o alegado dano moral.
+Nesse sentido:
+
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. A reforma do acórdão recorrido, a fim de se concluir pela ocorrência de dano moral com base na cobrança indevida, demanda o reexame de fatos e provas dos autos, prática vedada pela Súmula 7/STJ. Precedentes.
+2. A jurisprudência desta Corte é pacífica quanto à inexistência de dano moral in re ipsa quando há mera cobrança indevida de valores.
+Precedentes.
+3. Agravo interno desprovido.
+(AgInt no REsp 1685959/RO, Rel. Ministro MARCO BUZZI, Quarta Turma, j. em 04/10/2018, DJe 11/10/2018)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANO MORAL. IRRESIGNAÇÃO ESPECIAL FUNDADA NO DISSÍDIO JURISPRUDENCIAL. DANO MORAL AFASTADO NA ORIGEM. MERO DISSABOR. REFORMA DO JULGADO. NECESSIDADE DE REEXAME DE FATOS. INCIDÊNCIA DAS SÚMULAS NºS 7 E 83, AMBAS DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A questão se restringe à ausência de dano moral in re ipsa quando não há inscrição do nome do consumidor em cadastro de inadimplentes, mas apenas a cobrança indevida de valores.
+3. A decisão agravada consignou expressamente que o Tribunal de origem entendeu pela ausência de dano moral em razão da existência de mero dissabor.
+4. Esse entendimento está em consonância com a jurisprudência desta Corte quanto à ausência de configuração do dano moral in re ipsa com base na mera cobrança indevida.
+5. Dessa forma, não há como se afastar os óbices das Súmulas nºs 7 e 83, ambas do STJ.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo regimental não provido.
+(AgRg no AREsp 680.723/RS, Rel. Ministro MOURA RIBEIRO, Terceira Turma, j. em 13/09/2016, DJe 19/09/2016) (sem destaque no original)
+No caso, conforme transcrição anterior de trecho do acórdão recorrido, o Tribunal de origem fundamentou que "não há prova de que a autora tenha passado por sofrimento espiritual intenso a ponto de configurar o dano moral". (e-STJ fls. 181)
+Ultrapassar essa conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+(4) (5) Dos honorários
+No caso, a autora pediu a declaração de inexigibilidade de débito correspondente ao valor de R$ 53.446,00, que foi declarado inexigível, e pediu indenização por danos morais, que foi julgada improcedente.
+Está pacificado nesta Corte que "os honorários advocatícios devem ser arbitrados a partir do valor da causa ou do proveito econômico experimentado, com obediência aos limites impostos pelo § 2º do art. 85 do CPC/2015, os quais se aplicam, inclusive, nas decisões de improcedência e quando houver julgamento sem resolução do mérito. Somente quando inestimável ou irrisório o proveito econômico ou muito baixo o valor da causa, a referida verba poderá ser fixada por apreciação equitativa, nos termos do § 8º do mesmo dispositivo." (AgInt nos EDcl no REsp 1746254/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/06/2019, DJe 21/06/2019)
+Assim, diante da sucumbência recíproca, restabelece-se a fixação dos honorários adotada na sentença.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, para determinar a cobrança dos honorários sucumbenciais nos termos adotados na sentença.
+Publique-se. Intimem-se.
