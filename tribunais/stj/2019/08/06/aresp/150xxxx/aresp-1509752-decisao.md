@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - PRELIMINAR - INVALIDADE DE ATO PROCESSUAL - REJEITADA - ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA - MULTA - POSSIBILIDADE - REDUÇÃO.
+1 - O efeito suspensivo atribuído ao recurso não obsta a prática de quaisquer atos no processo, mas a prática daqueles atos decorrentes da decisão cujos efeitos fõram suspensos.
+2 - Em observância ao princípio "pas de nulifte sans grief", encampado pelo Superior Tribunal de Justiça, para que o ato processual seja considerado inválido este deve ser concomitantemente defeituoso e ocasionar prejuízo.
+3 - Cabível a aplicação de multa por ato atentatório à dignidade da justiça se a conduta da parte extrapola o exercício regular de defesa do seu direito, amoldando-se à hipótese prevista no inciso IV, do art. 77 do CPC/20I5 (art. 14, V, pârágrafo único, do CPC/1 973).
+Quanto à controvérsia, pela alínea a do permissivo constitucional, alega violação dos arts. 2º e 6º, ambos da LICC, e 5º, II e XXXVI, da CF/88, trazendo, em resumo, o(s) seguinte(s) argumento(s):
+2-a) O presente RECURSO ESPECIAL tem o seu cabimento placitado pelo Artigo 105, inciso III alínea "a" da Constituição Federal tendo sido CONTRARIADO E DEIXANDO DE APLICAR a arts. 2 º e 6 º da LICC e no art. 5º , II e XXXVI da CF/88, haja vista a patente aplicação de lei instaurada após a citação do Recorrente.
+2-b) O presente RECURSO ESPECIAL tem o seu cabimento placitado pelo Artigo 105, inciso III alínea "a" da Constituição Federal, tendo sido CONSTATADO O VÍCIO POR APLICABILIDADE DE NOVEL LEGISLAÇÃO EM ATO PROCESSUAL ISOLADO QUE SE TRATA A EXECUÇÃO INSTAURADA EM 2002.
+ ..
+4-b) O direito brasileiro, quanto á eficácia da lei processual no tempo, adotou o sistema do isolamento dos atos processuais, no qual a lei nova não atinge os atos processuais já praticados, nem seus efeitos. A decisão guerreada contrariou os princípios da irretroatividade das leis e do TEMPUS REGIT ACTUM, previsto nos arts. 2º e 6ºdaLICCe no art. 5 0 , II XXXVI da CF/88 (fls. 2080/2081).
+É o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão controvertida não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente. Veja-se que a matéria nem mesmo foi arguida por meio dos embargos de declaração opostos na Corte de origem às fls. 2058/2062.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ademais, é incabível o recurso especial porque visa discutir violação de norma constitucional que, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para o fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal" (AgInt no EREsp n. 1.082.463/DF, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/2/2019).
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no AREsp n. 1.342.571/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 1º/2/2019; e AgInt no AREsp n. 1.287.630/SC, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
