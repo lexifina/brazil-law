@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. DISPOSITIVO INDICADO. PERTINÊNCIA TEMÁTICA. INEXISTÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+CONDOMÍNIO COSTA VERDE TABATINGA (CONDOMÍNIO) ajuizou ação de cobrança contra BINCAT EMPREENDIMENTOS IMOBILIÁRIOS LTDA. e outra (BINCAT e outra), alegando inadimplemento de despesas condominiais trimestrais desde 10/05/2008 e, posteriormente, em aditamento à inicial, pleiteando as despesas desde 10/11/2006.
+A sentença julgou parcialmente procedente o pedido, condenando solidariamente BINCAT e outra ao pagamento das despesas condominiais oriundas da propriedade do Setor Clube de Golfe vencidas a partir de 08/05/2008, declarando prescritas as prestações vencidas até referida data (e-STJ, fls. 981/984).
+Os embargos de declaração opostos por BINCAT e outra e por CONDOMÍNIO foram ambos rejeitados (e-STJ, fl. 1.019).
+Interposta apelação por BINCAT e outra, o Tribunal de origem negou-lhe provimento, em acórdão assim ementado (e-STJ, fl. 1.346):
+I. Prescrição quinquenal de cotas condominiais. Ocorrência.
+Cobrança de parcelas que não foram incluídas em anterior ação de cobrança, não tendo havido interrupção do lapso prescricional em relação a elas ao serem pleiteadas nesta demanda. Aplicação do artigo 206, §5º, I, do Código Civil. Apelo do autor improvido.
+2. Condomínio fechado. Reconhecimento de capacidade postulatória e legitimidade ativa para a cobrança das despesas condominiais. Coisa julgada sobre a matéria. Defesa genérica, sem demonstração de alegada celebração de comodato verbal que isentaria os proprietários do rateio das despesas das diferentes unidades autônomas dentro do condomínio.
+Solidariedade nas despesas provada, ante a indivisibilidade da fração ideal das rés. Cerceamento de defesa inexistente.
+Preliminar rejeitada. Apelo das rés improvido.
+Os embargos de declaração opostos por BINCAT e outra foram rejeitados (e-STJ, fls. 1.364/1.367).
+Inconformada, BINCAT e outra interpuseram recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação dos arts. 86, caput e parágrafo único, 489, §1º, 1.022, II do NCPC, 21 do CPC/73, 3º, 4º do DL nº 271/67, 1º, 24 e 167, II da Lei nº 6.015/73 e divergência jurisprudencial, aduzindo, em síntese, que (1) o acórdão recorrido foi omisso; (2) a averbação de destaque da área a tornou independente física e juridicamente do imóvel de BINCAT e outra, o que afasta o dever de pagar as despesas cobradas; e (3) o reconhecimento da prescrição de parcelas exigidas obsta o reconhecimento da sucumbência mínima.
+CONDOMÍNIO ofereceu contrarrazões (e-STJ, fls. 1.452/1.455).
+Em juízo de admissibilidade, a presidência da Seção de Direito Privado do Tribunal de origem inadmitiu o apelo nobre ante a ausência de omissão e de demonstração de ofensa a lei federal, a incidência da Súmula nº 7 do STJ e a inexistência de comprovação analítica da divergência. Dessa decisão, foi interposto o presente agravo em recurso especial, no qual foi refutada a aplicação dos referidos óbices.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.538/1.543).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da negativa de prestação jurisdicional
+Os embargos de declaração se destinam a suprir omissão, esclarecer obscuridade, eliminar contradição ou corrigir erro material existente no julgado, podendo ser-lhes atribuídos, excepcionalmente, efeitos infringentes quando algum desses vícios for reconhecido.
+No caso, não existe nenhum dos vícios do referido dispositivo legal, tendo BINCAT e outra apenas manifestado o inconformismo quanto ao entendimento delineado no acórdão embargado, revestindo-se a pretensão de caráter manifestamente infringente, o que não se coaduna com a medida integrativa dos embargos de declaração.
+(2) Da averbação de destaque
+BINCAT e outra apontaram ofensa aos arts. 3º, 4º do DL nº 271/67, 1º, 24 e 167, II da Lei nº 6.015/73, defendendo que a averbação de destaque da área torna-a independente física e juridicamente do imóvel de BINCAT e outra, não sendo devidas as taxas condominiais cobradas.
+Nesse aspecto, é inviável o conhecimento do recurso especial, tendo em vista que a tese defendida não deflui da redação de qualquer dos dispositivos legais invocados, não se afigurando presente a necessária pertinência temática entre a fundamentação e os dispositivos legais indicados, incidindo o teor da Súmula nº 284 do STF.
+(3) Da sucumbência mínima
+Embora BINCAT e outra tenham afirmado ser inviável o reconhecimento de sucumbência mínima, o Tribunal de origem concluiu em sentido diverso (e-STJ, fls. 1.352/1.353).
+Portanto, alterar a conclusão do Tribunal a quo, para afastar a sucumbência mínima, ensejaria indevida incursão fático-probatória, em manifesta ofensa ao disposto na Súmula nº 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO. AÇÃO DE INDENIZAÇÃO.
+1. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E CARÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA. 2.
+DESCONSIDERAÇÃO DE TESTEMUNHO. DISCUSSÃO PRECLUSA. APLICAÇÃO DA LEI PROCESSUAL NOVA. OBSERVÂNCIA DA LEGISLAÇÃO VIGENTE AO TEMPO DA PRÁTICA DO ATO OBJETO DO JULGAMENTO. SÚMULA 83/STJ. 3. COMPROVAÇÃO DOS EFETIVOS DANOS CAUSADOS. REVISÃO. SÚMULA 7/STJ. 4. HONORÁRIOS ADVOCATÍCIOS. REDIMENSIONAMENTO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 5.
+AGRAVO IMPROVIDO. 1. Violação dos arts. 489, § 1º, e 1.022 do CPC/2015 não caracterizada, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. 2. A desconsideração do testemunho foi considerada preclusa, tendo em vista que o momento da contradita é aquele entre a qualificação desta e o início de seu depoimento.
+Precedente. Súmula 83/STJ.
+2.1. No caso, não é possível a aplicação das inovações trazidas pelo novo Código de Processo Civil, especialmente no que se refere ao art. 493, parágrafo único, para que as partes fossem ouvidas previamente antes do depoimento da testemunha, haja vista que a sentença foi proferida sob a égide do CPC/1973. Desse modo, à luz do princípio tempus regit actum e da Teoria do Isolamento dos Atos Processuais, os atos do processo devem observar a legislação vigente ao tempo de sua prática, sob pena de indevida retroação da lei nova para alcançar atos já consumados.
+3. A revisão da conclusão estadual - acerca dos efetivos danos causados à propriedade dos agravados por parte do recorrente em decorrência da prática de incêndio por ele confessado - demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência inviável na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+4. No que se refere ao redimensionamento dos honorários sucumbenciais, verifica-se dos autos que o Tribunal de origem apenas reduziu o valor a fim de adequar o somatório dos documentos apresentados pela parte recorrida, sem que houvesse a redistribuição dos ônus sucumbenciais. Isso porque o recorrente sucumbiu na maior parte dos seus pedidos, de modo que rever essa conclusão esbarraria no enunciado sumular n. 7 desta Corte, aplicável a ambas as alíneas do permissivo constitucional.
+4.1. Importante destacar que a jurisprudência do Superior Tribunal de Justiça é no sentido de que a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes são questões que não comportam exame no âmbito do recurso especial, por envolver aspectos fáticos e probatórios.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.652.552/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 26/06/2018, DJe 29/06/2018)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de BINCAT e outra, nos termos do art. 85, § 11 do NCPC, observado, se o caso, o art. 98, § 3º do NCPC.
+Publique-se. Intimem-se.
