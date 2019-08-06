@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. ACÓRDÃO QUE JULGOU APELAÇÃO MANEJADA NA ORIGEM. RECURSO CABÍVEL. RECURSO ESPECIAL PARA O SUPERIOR TRIBUNAL DE JUSTIÇA. INTERPOSIÇÃO EQUIVOCADA DO RECURSO ORDINÁRIO PREVISTO NA CONSTITUIÇÃO FEDERAL (ART. 105, II, b). RECURSO A QUE SE NEGA PROVIMENTO.
+DECISÃO
+JOSIMAR PONCIANO DA SILVA (JOSIMAR) interpôs, conforme constou da própria petição apresentada, recurso ordinário constitucional com fundamento no artigo 105, II, b, da Constituição Federal, no artigo 1.027, II, a e 1.028 do Código de Processo Civil (e-STJ, fl. 399), contra acórdão do Tribunal de Justiça do Paraná que negou provimento à apelação lá manejada, em julgado que recebeu a seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS - SERVIÇO DE FORNECIMENTO DE ÁGUA E ESGOTO -ALEGAÇÃO DE COBRANÇA ACIMA DA MÉDIA DE CONSUMO - RESPONSABILIDADE CIVIL SUBJETIVA - INTELIGÊNCIA DO ART. 37, § 6º, DA CF - LAUDO PERICIAL CONSTATANDO A REGULARIDADE DO HIDRÔMETRO E A EXISTÊNCIA DE VAZAMENTO INTERNO NO IMÓVEL - DEVER DE INDENIZAR NÃO CONFIGURADO - SENTENÇA MANTIDA - RECURSO CONHECIDO E IMPROVIDO.
+(e-STJ, fl. 384, sem destaque no original).
+JOSIMAR alegou, em suma, no recurso interposto, que o acórdão recorrido violou seu direito constitucional de consumidor, porque em face da inexistência da comprovação de gasto, de vazamento ou de qualquer outro problema envolvendo consumo de água, presume-se a cobrança indevida dos valores relativamente a fatura de conta de água, de modo que a Ré deverá ser condenada a devolver em dobro (e-STJ, fl. 405).
+Foram apresentadas contrarrazões (e-STJ, fls. 418/421).
+Ouvido, o Ministério Público Federal opinou pelo não conhecimento do recurso (e-STJ, fls. 429/433).
+Este, em síntese, o relatório.
+DECIDO.
+Constata-se que JOSIMAR ajuizou "ação declaratória de inexistência de débito c/c repetição de indébito e c/c indenização por danos morais" contra o SAMAE - Serviço Autônomo Municipal de Água e Esgoto de Ibiporã/PR.
+Sustentou, em suma, que recebeu cobranças indevidas nas faturas relativas ao consumo de água e que mesmo após haver contratado profissional para averiguação da existência de vazamentos e ter trocado a tubulação a conta continuou elevada.
+O Juízo de primeiro grau julgou improcedentes os pedidos e o Tribunal de Justiça do Paraná negou provimento à apelação interposta.
+O Desembargador relator aduziu que considerando que restou comprovado que a elevação do consumo de água do imóvel é decorrente da existência de vazamento interno, não há o que se falar em responsabilidade da prestadora do serviço de abastecimento pelos altos valores das faturas de água (e-STJ, fl. 388).
+Observa-se, assim, da transcrição que não há nenhuma situação excepcional que justificasse o cabimento do recurso ordinário tal como interposto pela defesa dos interesses de JOSIMAR, pois a decisão judicial não foi proferida em autos de mandado de segurança, bem como era passível de recurso especial.
+Frise-se, por oportuno, que o Ministério Público Federal consignou que (1) da leitura do acórdão recorrido, cuja ementa está acima transcrita, constata-se que, na origem, não houve sequer a impetração de mandado de segurança, mas, sim, o ajuizamento de ação declaratória de inexistência de débito c/c repetição de indébito e c/c indenização por danos morais; (2) nesse contexto, em que o acórdão recorrido foi proferido em apelação cível interposta contra sentença prolatada em ação ordinária, o recurso cabível é o recurso especial, nos termos do art. 105, inciso III, da Constituição Federal (e-STJ, fl. 431).
+Ademais, esta Corte Superior já teve oportunidade de concluir que a interposição de recurso ordinário em substituição ao recurso especial não admite a aplicação do princípio da fungibilidade recursal, tendo em vista tratar-se de erro grosseiro (RMS 37.379, Ministra ELIANA CALMON, DJe de 25/5/2013, sem destaque no original).
+Nessas condições, NEGO PROVIMENTO ao recurso ordinário em mandado de segurança, acolhendo o parecer do Ministério Público Federal.
+Publique-se.
