@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto pelo MUNICÍPIO DE ÁGUAS DE SANTA BÁRBARA contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ fl. 43):
+Mandado de Segurança. Sentença que julgou extinta a execução, nos termos do art. 267, III, do CPC/1973. Embargos infringentes opostos pela Fazenda Pública que foram convertidos em diligência. Petição inicial do mandamus que parte da premissa de que os embargos foram rejeitados. Ausência de interesse processual. Fatos narrados dissociados da realidade. Segurança denegada (artigos 6º, § 5º e 10, ambos da Lei 12.016/2009).
+Nas suas razões (e-STJ fls. 49/61), o recorrente, em preliminar, defende o cabimento do mandado de segurança contra a decisão que rejeita os embargos infringentes do art. 34 da Lei n. 6.830/1980. No mérito, sustenta que, in casu, diversamente do decidido de ofício pelo juízo da execução, não é possível reconhecer o abandono de causa, pois, além desse juízo exigir prévio requerimento da parte adversária, a exequente não foi intimada pessoalmente para sanar a sua falta em 48 horas, consoante previsto no art. 267, § 1º, do CPC/1973.
+Sem contrarrazões (e-STJ fl. 62).
+O Ministério Público Federal opina pelo não conhecimento do recurso (e-STJ fls. 72/73).
+Passo a decidir.
+Consoante bem apontado pelo Parquet, o presente recurso não comporta conhecimento, visto que as suas razões estão absolutamente dissociadas do que foi efetivamente decidido pelo acórdão recorrido.
+Com efeito, o julgado estadual julgou extinto o mandado de segurança sem resolução de mérito, ao fundamento de que, diversamente do assentado pela municipalidade impetrante, o juízo de primeiro grau não rejeitou os embargos infringentes manejados contra a sentença extintiva da execução fiscal, mas converteu o feito em diligência para que a exequente se manifeste sobre o depósito judicial constante nos autos. Confira-se:
+Trata-se de execução fiscal que tem por objeto crédito tributário proveniente de IPTU do exercício de 2004 (cf. p. 12), cujo processo foi extinto, sem resolução de mérito, nos termos do art. 267, III, do CPC/73 (abandono do feito por mais de 30 dias), o que ensejou a interposição de embargos infringentes.
+Ocorre que a petição inicial deste mandado de segurança narra aspectos fáticos divorciados da realidade dos autos, pois parte da premissa de que os embargos foram rejeitados. Todavia, a r. decisão de p. 38/39 converteu o julgamento em diligência, a fim de determinar a abertura de vista dos autos à apelante, tendo em vista o depósito judicial realizado pelo executado.
+Assim, de rigor o indeferimento da petição inicial decorrente da ausência de interesse processual da impetrante, nos termos do art. 485, VI, do CPC/2015 e, por conseguinte, denega-se a segurança, conforme art. 6º, § 5º, da Lei 12.016/2009.
+Já neste recurso ordinário, a Edilidade reedita os argumentos pelos quais defende o cabimento de mandado de segurança contra decisão que, em sede de embargos infringentes, confirma sentença de extinção de execução fiscal de pequeno valor.
+Patente, portanto, a deficiência da irresignação recursal, nos termos da Súmula 284 do STF.
+Ante o exposto, com fundamento nos arts. 932, III, do CPC e 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do recurso ordinário.
+ Publique-se. Intimem-se.
