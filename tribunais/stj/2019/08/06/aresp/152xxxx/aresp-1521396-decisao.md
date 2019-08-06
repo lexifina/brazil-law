@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo apresentado por SAMIA TRANSPORTES E TURISMO EIRELI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+CIVIL PROCESSO CIVIL CUMPRIMENTO DE SENTENÇA CORRELAÇÃO CORRESPONDÊNCIA COM O TÍTULO JUDICIAL INTERRUPÇÃO DA PRESCRIÇÃO COMPENSAÇÃO DE DÍVIDAS IMPOSSIBILIDADE
+1. A busca pela satisfação do direito no cumprimento de sentença deve promover a estrita correlação com o decidido no processo de conhecimento, sob pena de desvirtuamento do próprio título judicial albergado pela coisa julgada.
+2. No caso, o título judicial exequendo foi expresso quanto à hipótese de interrupção da prescrição da dívida perseguida na fase de conhecimento, matéria inclusive integrada e expressamente enfrentada em aclaratórios pelo juízo sentenciante.
+3. Seguindo-se o que fora firmado no título judicial, por ser hipótese de interrupção do prazo prescricional, a pretensão de compensação do referidos débitos encontra-se prescrita, pois transcorrido o prazo de 5 (cinco) anos previsto no artigo 206, §5º, inciso I, do Código Civil.
+4. Recurso conhecido e provido.
+Quanto à controvérsia dos autos, pela alínea a do permissivo constitucional, a recorrente alega violação do art. 202, parágrafo único, do Código Civil, trazendo o(s) seguinte(s) argumento(s):
+Ora, o recomeço do prazo da prescrição não pode ser a data de propositura da ação. Caso seja observado este tempo processual, todo instituto perde o sentido. Assim sendo, por consequência direta, o prazo prescricional somente começa a recorrer com o ultimo do processo (segunda parte do parágrafo único do artigo 202 do CC), que no caso sob análise é o seu trânsito em julgado (fls. 37).
+É o relatório. Decido.
+Na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem sob o viés pretendido pela recorrente, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ademais, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Registre-se que a matéria especificamente apontada quanto ao termo inicial, suspensão ou interrupção do prazo prescricional não fora objeto de recurso de apelação no curso do processo nº 2012.01.1.138797-8.
+Com efeito, a busca pela satisfação do direito no cumprimento de sentença deve promover a estrita correlação com o decidido no processo de conhecimento, sob pena de desvirtuamento do próprio título judicial albergado pela coisa julgada.
+Assim, nos exatos termos trazidos pelo juízo sentenciante, tendo em vista que o ajuizamento daquela demanda ocorrera em 05/12/2012 e que a referida decisão que dá origem ao título judicial a ser satisfeito pelo cumprimento de sentença teve trânsito em julgado em 31/07/2017, entendo que a pretensão de compensação dos débitos encontra-se fulminada pela prescrição, nos termos do artigo 206, §5º, inciso I, do Código Civil. (fl. 25).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"" (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EREsp n. 1.698.730/SP, relator Ministro Raul Araújo, Segunda Seção, DJe de 18/12/2018; e AgRg nos EAREsp n. 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
