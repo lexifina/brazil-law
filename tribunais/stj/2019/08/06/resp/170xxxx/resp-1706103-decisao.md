@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRO, o qual recebeu a seguinte ementa (e-STJ fl. 144):
+Rede de eletrificação rural. Custeio da obra. Inexistência de previsão contratual. Prescrição trienal. Termo inicial do prazo. Direito intertemporal.
+Serão do Código Civil vigente os prazos prescricionais se por este tiverem sido reduzidos e se não houver transcorrido mais da metade do tempo estabelecido pela lei revogada.
+O pedido de ressarcimento dos valores pagos a título de participação financeira do consumidor no custeio da construção de rede elétrica rural, quando inexistente previsão contratual, prescreve em 3 anos, por se tratar de demanda fundada em enriquecimento sem causa, contados a partir do desembolso pelo particular.
+No recurso especial (e-STJ fls. 157/178), fundamentado no art. 105, III, "c", da CF, o recorrente alega violação do art. 51, IV, do CDC.
+Sustenta que a rede elétrica do recorrente é particular, uma vez que não foi celebrado contrato com a recorrida, nos termos do Decreto n. 41.019/1957. Destaca, nesse contexto, que (e-STJ fl. 164):
+ ..  impende registrar que a rede elétrica do Recorrente por ser genuinamente particular e não ter sido celebrado contrato nos termos do Decreto 41.019/57, pertence à categoria de redes elétricas que devem ser incorporadas ao patrimônio da concessionária, mediante indenização, nos termos da legislação de regência, não havendo que se falar, portanto, em aplicação do REsp 1.243.646, no qual somente fora apreciada a hipótese de contratação nos moldes do Decreto 41.019/57, que comumente ocorreu no Sul do país.
+Aduz afronta ao art. 189 do CC/2002, sob o argumento de que a pretensão do recorrente nasceu no momento em que a recorrida passou a operar e a manter sua rede elétrica sem indenizá-lo previamente, passando a fluir o prazo prescricional a partir do referido momento.
+Suscitou dissenso jurisprudencial quanto ao marco inicial do prazo prescricional.
+Por fim, apontou ofensa ao art. 15 da Lei n. 10.484/2004.
+Não foram oferecidas contrarrazões (e-STJ fl. 227).
+É o relatório.
+Decido.
+Relativamente à suscitada afronta ao art. 15 da Lei n. 10.484/2004, destaca-se que o referido artigo não existe na citada Lei, não guardando correspondência lógica com as teses do recurso especial, razão pela qual descabe alegar, neste último contexto, violação desse artigo de lei. Incidência da Súmula n. 284 do STF.
+O prequestionamento demanda deliberação expressa, no acórdão recorrido, sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de viabilizar, na instância especial, a discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Com efeito, a Corte estadual não analisou a tese de que a rede elétrica do recorrente, por ser particular e não ter sido celebrado contrato nos termos do Decreto 41.019/57, pertence à categoria de redes elétricas que devem ser incorporadas ao patrimônio da concessionária, mediante indenização, não havendo falar, portanto, em aplicação do REsp 1.243.646.
+No caso, referida tese não foi discutida na origem, carecendo assim de prequestionamento. Aplicam-se as Súmulas n. 282 e 356 do STF. A propósito:
+PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE INCORPORAÇÃO IMOBILIÁRIA. RELAÇÃO DE CONSUMO. VÍCIO DO SERVIÇO. DENUNCIAÇÃO DA LIDE. NÃO CABIMENTO. ENTENDIMENTOS ADOTADOS NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO PROVIMENTO.
+1. "Em que pese o contrato de incorporação ser regido pela Lei nº 4.591/64, admite-se a incidência do Código de Defesa do Consumidor, devendo ser observados os princípios gerais do direito que buscam a justiça contratual, a equivalência das prestações e a boa-fé objetiva, vedando-se o locupletamento ilícito. 3. O incorporador, como impulsionador do empreendimento imobiliário em condomínio, atrai para si a responsabilidade pelos danos que possam resultar da inexecução ou da má execução do contrato de incorporação, incluindo-se aí os danos advindos de construção defeituosa" (AgRg no REsp 1006765/ES, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 12/5/2014).
+2. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidente, portanto, o enunciado nº 83 da Súmula do STJ.
+3. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 1.240.516/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/3/2019, DJe 29/3/2019.)
+Da mesma forma, não foi debatida pelo TJRO a matéria atinente ao art. 51 do CDC. Sem o necessário prequestionamento, novamente incidem as Súmulas n. 282 e 356 do STF.
+Ao declarar a prescrição da ação, o TJRO entendeu que (e-STJ fl. 144):
+In casu, conforme a Anotação de Responsabilidade Técnica - ART n. 020159, a subestação foi construída no ano de 2004 e, não havendo contrato prévio firmado com a apelada visando à implementação da rede elétrica, tem-se que o prazo prescricional é trienal, pois na data da entrada em vigor do Código Civil vigente (11/01/2003) não havia transcorrido mais da metade do tempo estabelecido na lei revogada - 20 anos, consoante determina o art. 2.028 do referido Código.
+Destarte, tendo em vista que a ação foi proposta em 2016, infere-se que a pretensão se encontra prescrita, inexistindo a demonstração de qualquer fato suspensivo ou impeditivo do curso do prazo prescricional (arts. 197 a 204, CC) a determinar um termo inicial da contagem distinto.
+Importante salientar, ainda, que embora a parte assevere que a incorporação da rede de subestação ao patrimônio da concessionária ocorreu após o ano de 2012, consta na própria exordial que tal fato teria ocorrido em 2009 (ID n. 508767, pág. 3), estando claramente prescrita a pretensão, portanto.
+A Corte de origem ressaltou que, embora a recorrente afirme que a incorporação da rede de subestação ao patrimônio da concessionária recorrida ocorreu após o ano de 2012, consta na exordial que tal fato teria ocorrido em 2009, estando, portanto, prescrita a pretensão.
+Tal fundamento não foi impugnado no especial, aplicando-se no ponto a Súmula n. 283 do STF.
+Além disso, para reformar o acórdão a fim de reconhecer que a incorporação da rede elétrica do recorrente ocorreu no ano de 2015, o que ensejaria a declaração de inexistência da prescrição, seria necessário reexaminar fatos e provas, procedimento vedado pela Súmula n. 7/STJ.
+Ressalte-se que referidos óbices impedem o conhecimento do especial com fundamento na alínea "c" do permissivo constitucional.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do  CPC/2015,  MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 21), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
