@@ -1,0 +1,39 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. MULTA DO ART. 601 DO CPC/1973. AFASTAMENTO. INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. IMPOSSIBILIDADE. NULIDADE DA EXECUÇÃO POR AUSÊNCIA DE INFORMES OFICIAIS. LIQUIDEZ DO TÍTULO EXECUTIVO. REVOLVIMENTO DO ARCABOUÇO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. IMPOSSIBILIDADE. CONHECE-SE DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DA FAZENDA DO ESTADO DE SÃO PAULO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO - Embargos à execução de sentença - Nulidade da execução pela ausência dos informes oficiais - Rejeitada  Informações constantes nos autos, juntados serodiamente pela própria apelante  Questão superada com a apresentação de novos cálculos pela própria apelante, os quais não foram impugnados - Recurso com base na mesma matéria - Má fé processual
+configurada, tumulto processual e claro intuito protelatório  Aplicação de multa, nos termos dos arts. 600 e 601, do CPC - Recurso improvido, com determinação (fls. 278).
+2. Os Embargos de Declaração opostos (fls. 270/271) foram rejeitados (fls. 295/303), por unanimidade.
+3. Em suas razões recursais, sustenta a parte agravante violação dos arts. 614, II, 475-B, 17, 600, II, 601 do CPC/1973, aos seguintes fundamentos: (a) iliquidez do título executivo, por não constar dos autos os informes oficiais, imprescindíveis para a correta conferência dos cálculos; e (b) requer o afastamento da multa por litigância de má-fé, ou, subsidiriamente, sua redução.
+4. O Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 323), sobrevindo interposição de Agravo (fls. 326/332).
+5. É o relatório.
+6. Inicialmente, quanto à aplicabilidade da multa por ato atentatório à dignidade da justiça, o Tribunal de origem concluiu que:
+Fica evidente, desta forma, que a Fazenda Pública agiu de má-fé e com deslealdade processual, visto que sonegou dados que tinha por obrigação fornecer, obrigando os apelados a elaborar a conta com base em seus demonstrativos de pagamento e, posteriormente, mesmo após ter sido sanada a irregularidade, insistiu em recorrer alegando tese já superada no juízo de primeiro grau, a fim de tumultuar a execução de sentença, em proveito de si própria, com claro intuito protelatório.
+Por esta razão, ficou configurado o ato atentatório à dignidade da justiça, nos termos do art. 600, inciso II, do Código de Processo Civil, motivo pelo qual condeno a apelante a arcar com o pagamento de multa de 20% (vinte por cento) sobre o valor do débito, atualizado (art. 601, do Código de Processo Civil) (fls. 281/282).
+7. Com efeito, a reforma do julgado atacado, com o objetivo de reexaminar a possibilidade de aplicação da multa por ato atentatório à dignidade da Justiça e, consequentemente, de determinar sua redução, implicaria, necessariamente, na verificação da existência dos seus requisitos autorizadores, o que exige o revolvimento de matéria fático-probatória, tarefa essa vedada em Recurso Especial.
+8. Confira-se, por oportuno, o seguinte precedente:
+PROCESSO CIVIL. ART. 600 DO CPC. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. REEXAME DO CONJUNTO FÁTICO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal regional, soberano na análise das circunstâncias fáticas e probatórias da causa, entendeu presentes os requisitos subjetivos à aplicação da multa do art. 600, IV, do CPC/1973.
+2. Identificar se houve ou não a prática de ato atentatório à dignidade da Justiça por parte do agravante necessariamente demandaria análise de matéria fático-probatória, o que é vedado nesta fase processual pelo óbice da Súmula 7/STJ. Agravo interno improvido (AgInt no AREsp. 861.714/MS, Rel. Min. HUMBERTO MARTINS, DJe 12.5.2016).
+9. No mérito, quanto à alegação de iliquidez do título executivo, por ausência dos informes oficiais, o Tribunal de origem consignou que:
+ Os apelados apresentaram o cálculo individualizado
+e o valor total devido a fls. 334/355, do apenso.
+A fls. 374, do apenso, o juízo a quo determinou à apelante o cumprimento do julgado, bem como a apresentação da planilha dos valores devidos aos apelados, nos termos dos arts. 461 e 475-B, § 1o., ambos do Código de Processo Civil, o que foi devidamente cumprido pelos autores (fls. 499/519), pleiteando a citação da Fazenda Pública, nos termos do art. 730 e seguintes, do Código de Processo Civil (fls. 435/487, do apenso).
+Realmente, os cálculos não se basearam nos informes oficiais, tal como alega a apelante.
+Contudo, após ter embargado a execução, a apelante apresentou seus cálculos com base em seus informes, cujo valor foi tacitamente aceito pelos apelados, diante da ausência de impugnação.
+Desse modo, ainda que a memória de cálculo não tivesse por base os informes oficiais, a alegada nulidade da execução foi posteriormente superada na fase de embargos (fls. 279/280).
+10. Dessa forma, desconstituir a conclusão do acórdão recorrido de que os cálculos apresentados pelas partes agravadas foram tacitamente aceitos pelo agravante, implicaria, necessariamente, em incursão no acervo fático-probatório constante dos autos.
+11. Tal providência, no entanto, é vedada na via Especial. A esse propósito, os seguintes julgados desta Corte:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. OFENSA AO ART. 535 DO CPC/1973 DEFICIÊNCIA NA FUNDAMENTAÇÃO. 284/STF. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO À LEI FEDERAL 12.703/2012. SÚMULA 284/STF. NULIDADE DE EXECUÇÃO. AUSÊNCIA DE INFORMES OFICIAIS. ACÓRDÃO A QUO QUE CONCLUIU PELA LIQUIDEZ DO TÍTULO EXECUTIVO COM FULCRO NAS CIRCUNSTÂNCIAS FÁTICAS DOS AUTOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A parte recorrente sustenta que o art. 535 do CPC/1973 foi violado, mas deixa de apontar, de forma clara e precisa, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito. Incidência da Súmula 284/STF.
+2. O Recurso Especial, apesar de interposto com base na alínea a do permissivo constitucional, não indica especificamente o dispositivo de lei federal supostamente contrariado pelo acórdão recorrido. Aplicação, por analogia, da Súmula 284/STF.
+3. O Tribunal de origem afastou a nulidade da execução, com a seguinte fundamentação: a priori, diga-se que é dispensável a juntada de informes oficiais acompanhando a planilha de cálculos, pois o exequente possui meios para efetuar o cálculo da verba devida (fl. 127, e-STJ).
+4. Logo, para o provimento do Recurso Especial, no tocante à nulidade da execução por falta de elementos capazes de especificar o valor devido, é preciso prévio exame probatório dos autos, o que encontra óbice na Súmula 7 do STJ.
+5. Recurso Especial não conhecido (REsp. 1.695.674/SP, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2017).
+
+ADMINISTRATIVO. SERVIDOR PÚBLICO. EXECUÇÃO. LIQUIDEZ DO TÍTULO. AFERIÇÃO. MEMÓRIA DE CÁLCULO. VERIFICAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A alteração das conclusões adotadas pela Corte de origem a respeito da liquidez do título executivo, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp. 229.562/RS, Rel. Min. SÉRGIO KUKINA, DJe 27.8.2015).
+12. Ante o exposto, conhece-se do Agravo para negar provimento ao Recurso Especial da FAZENDA DO ESTADO DE SÃO PAULO.
+13. Publique-se.
+14. Intimações necessárias.
