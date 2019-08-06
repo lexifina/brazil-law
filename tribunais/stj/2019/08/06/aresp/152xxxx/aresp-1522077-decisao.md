@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo apresentado por SESSO ROLAMENTOS RETENTORES E CORREIAS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim resumido:
+LOCAÇÃO DE IMÓVEL AÇÃO DE COBRANÇA PRETENSÃO À RESTITUIÇÃO DA CAUÇÃO E AO RECEBIMENTO DE MULTA POR INFRAÇÃO CONTRATUAL DEVOLUÇÃO DO VALOR CAUCIONADO CONDICIONADA À INEXISTÊNCIA DE DÉBITO AO TEMPO DA RESCISÃO DA LOCAÇÃO AUTORIZADO O ABATIMENTO DA DÍVIDA PELO LOCADOR ALEGAÇÃO DE INADIMPLÊNCIA DA LOCATÁRIA NÃO IMPUGNADA AUSÊNCIA DE CONTROVÉRSIA QUANTO A ESSA QUESTÃO VALOR ALEGADAMENTE INADIMPLIDO INFERIOR AO MONTANTE CAUCIONADO DIREITO DA LOCATÁRIA AO SALDO REMANESCENTE MULTA POR INFRAÇÃO CONTRATUAL INEXIGIBILIDADE INCIDÊNCIA DA EXCEÇÃO DO CONTRATO NÃO CUMPRIDO RECURSO PARCIALMENTE PROVIDO (fl. 104).
+Pelas alíneas "a" e "c" do permissivo constitucional, alega violação dos arts. 350 e 351 do CPC, bem como divergência jurisprudencial com a Apelação Cível n. 872.090, do TJDFT, DJe de 18/6/2015, no que concerne à ausência de réplica tornar incontroversa a alegação tecida na defesa, trazendo os seguintes argumentos:
+Contudo Doutos Ministros, diferentemente do que restou consignado no referido acórdão, é certo que o fato de a Recorrente/Autora não ter apresentado réplica NÃO é capaz de tornar incontroversa qualquer alegação tecida na defesa pelo Recorrido/Réu, e tampouco pode lhe acarretar qualquer prejuízo processual, diante do que dispõe os artigos 350 e 351 do CPC (fl. 129).
+ ..
+Deste modo, tendo em vista que não é prevista na legislação brasileira a pena de revelia para a ausência de apresentação de réplica, o entendimento proferido e constante no acórdão embargado não pode prevalecer, pois está violando os dispositivos legais acima mencionados, quais sejam, os artigos 350 e 351, ambos do Código de Processo Civil (fl. 131).
+É o relatório. Decido.
+Incide, na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ademais, verifica-se que os dispositivos legais sob os quais teria havido o dissídio jurisprudencial não foram examinados pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim.
+Dessa forma, reconhecida a ausência de prequestionamento da norma objeto da divergência jurisprudencial, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE PREQUESTIONAMENTO. NÃO CABIMENTO DO RECURSO PELA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL.
+1. O cabimento de recurso especial fundado na alínea "c" do permissivo constitucional requer o prequestionamento do dispositivo de lei federal cuja interpretação se alega divergente por outro Tribunal.
+2. Uma vez reconhecida a ausência de prequestionamento do dispositivo de lei federal apontado como ofendido pela parte recorrente, é desnecessário o exame do cabimento do recurso especial quanto à alínea "c" do inciso III, do art. 105, da Constituição Federal, em relação ao mesmo dispositivo.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1274569/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 12/08/2014, DJe 25/08/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
