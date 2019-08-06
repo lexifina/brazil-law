@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 1.042, CPC/2015) contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 232/239).
+O acórdão recorrido está assim ementado (e-STJ fl. 187):
+AÇÃO REVISIONAL. PLANO DE SAÚDE COLETIVO. REAJUSTE ANUAL. LIVRE NEGOCIAÇÃO. REAJUSTE COM BASE NA SINISTRALIDADE. ABUSIVIDADE. REPETIÇÃO SIMPLES DO INDÉBITO. PRESCRIÇÃO TRIENAL.
+I. Em se tratando de plano de saúde coletivo, não há percentual previamente fixado pela Agência Nacional de Saúde - ANS, devendo a operadora apenas informar o reajuste anual aplicado, o qual poderá ser livremente negociado com a contratante. Inteligência do art. 8º, da Resolução Normativa nº 128/2006, da Diretoria Colegiada da ANS e do § 2º do art. 35-E, da Lei nº 9.656/98.
+II. Contudo, mostra-se abusivo o reajuste em decorrência do índice de sinistralidade, pois permite a majoração apenas em benefício da operadora do plano de saúde, deixando de considerar a possibilidade de o contrato tornar- se extremamente oneroso ao beneficiário.
+Afronta à boa -fé contratual, prevista no art. 422, do Código Civil, o que impõe a declaração de nulidade da referida cláusula. Igualmente, deve incidir o disposto no art. 51, X, § 1º, II e III, do CDC, segundo o qual é nula a cláusula que permita ao fornecedor, direta ou indiretamente, variar o preço unilateralmente. Também, mostra- se exagerada a cláusula que restringe direitos ou obrigações inerentes à natureza do contrato, ameaçando seu objeto e equilíbrio, ou ainda que seja excessivamente onerosa ao consumidor, parte mais fraca na relação contratual.
+III. Assim, deve ser afastado o reajuste por sinistralidade, mantendo apenas o reajuste pelo IGP-M.
+IV. Consequentemente, cabível a restituição simples dos valores pagos a maior, observada a prescrição trienal. Quanto à prescrição, o egrégio STJ, no julgamento do REsp nº 1.360.969/RS e do REsp nº 1.361.182/RS, e para os efeitos do art. 1.036, do CPC, consolidou entendimento de que incide o prazo trienal previsto no art. 206, § 3º, IV, do Código Civil, para a pretensão condenatória decorrente da declaração de nulidade de cláusula de reajuste prevista em contrato de plano de saúde.
+APELAÇÃO PROVIDA.
+No especial (e-STJ fls. 203/212), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa ao art. 35-E, § 2º, da Lei n. 9.656/1998, sustentando, em síntese, a validade do reajuste contratual em planos coletivos por aumento de sinistralidade para a manutenção do equilíbrio contratual.
+No agravo (e-STJ fls. 241/249), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 251/257).
+É o relatório.
+Decido.
+A insurgência quanto à alegada validade do reajuste contratual decorrente da sinistralidade não pode ser sustentada apenas com base no art. 35-E, § 2º, da Lei n. 9.656/1998, o qual não é suficiente para infirmar as razões do acórdão impugnado. No caso, a Corte local aplicou os arts. 422 do CC/2002, 51, X, § 1º, II e III, do CDC. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Ainda que assim não fosse, para acolher as razões recursais e verificar, no caso concreto, a inexistência de abusividade da previsão contratual que antevê reajuste por sinistralidade, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Quanto ao dissídio jurisprudencial, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
