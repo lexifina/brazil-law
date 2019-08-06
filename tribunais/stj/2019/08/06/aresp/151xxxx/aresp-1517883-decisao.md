@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por MUNICÍPIO DE SÃO GONÇALO contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+Ação Indenizatória - Autores aprovados em Concurso Público dentro do número de vagas - Posse ocorrida após Ação Civil Pública proposta pelo Ministério Público na qual foi comprovada a nomeação ilegal para preenchimento dos cargos vagos em detrimento da nomeação dos concursados.
+Cinge-se a controvérsia em apurar a possibilidade, ou não, de indenizar concursado que, preterido no direito líquido e certo à nomeação ao cargo para o qual foi aprovado, vem a ser empossado por força de Decisão judicial.
+A matéria de fundo foi veiculada em Recurso Extraordinário Repetitivo, com repercussão geral.
+Não obstante o reconhecimento do direito subjetivo dos autores à nomeação, não lhes assiste razão a pretensão dos alegados danos materiais - Isto porque em observância ao princípio do enriquecimento sem causa, é descabida a indenização pelo tempo que se aguarda solução judicial definitiva acerca de direito subjetivo à nomeação em concurso público, pois não cabe ao concursado receber remuneração por função que de fato não exerceu, sob pena de enriquecimento sem causa - Exclusão da condenação do Município de São Gonçalo ao pagamento de verba remuneratória pretérita.
+No dano moral in re ipsa, decorrente da preterição, por ato ilícito da Administração Pública Municipal - Quantum que atendeu ao caráter pedagógico e retributivo da verba indenizatória, sendo observados os critérios da razoabilidade e da proporcionalidade, não merecendo qualquer alteração.
+Sucumbência recíproca - Provimento parcial da Apelação.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp n. 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/6/2018).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
