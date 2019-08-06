@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO RIO DE JANEIRO, com base na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça daquela unidade da Federação assim ementado (e-STJ fl. 353):
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. JUÍZO DE RETRATAÇÃO. SERVIDOR ESTADUAL. PODER JUDICIÁRIO. REAJUSTE CONCEDIDO PELA LEI Nº 1.206/87. EXTENSÃO POR VIA JUDICIAL. IMPOSSIBILIDADE. GRATUIDADE DE JUSTIÇA. CONCESSÃO DE OFÍCIO. POSSIBILIDADE. REGIME DE RECUPERAÇÃO FISCAL. DIFICULDADES FINAN- CEIRA. DEDICAÇÃO EXCLUSIVA. PROVIMENTO.
+Retorno dos autos a este Colegiado determinado pela Terceira Vice-Presidência, nos termos do artigo 1.030, II, do Código de Processo Civil, a fim de que se examine a pertinência do exercício do juízo em recurso extraordinário ou manutenção do pronunciamento.
+Demanda na qual pretende o autor, servidor do Tribunal de Justiça deste Estado, a majoração de seus vencimentos no percentual de 24%, como decorrente da diferença entre os 70,5% concedidos pela Lei nº 1.206/87, e aquele que efetivamente foi atribuído às categorias contempladas, além do pagamento dos atrasados, observada a prescrição quinquenal. Evidente conflito entre a decisão recorrida e o acórdão que reconheceu a repercussão geral, o qual concluiu por ser indevida a extensão, por via judicial, aos servidores do Poder Judiciário do Estado do Rio de Janeiro, do reajuste concedido pela Lei nº 1.206/87. Possibilidade da concessão ex officio do benefício da gratuidade de justiça. Precedentes do STJ. Adesão do Estado ao Regime de Recuperação Fiscal proposto pelo Governo Federal como indicativo de graves dificuldades financeiras para o funcionalismo estadual, mormente para os que se encontram submetidos ao regime de dedicação exclusiva. Apelação a qual se dá provimento em juízo de retratação.
+Acolhidos, sem efeitos modificativos, os aclaratórios (e-STJ fls. 382/385).
+Nas suas razões, a parte recorrente aponta violação dos arts. 99, caput e § 2º, 489, II, e § 1º, III, do CPC/2015, sustentando a necessidade de requerimento do interessado para a concessão da gratuidade de justiça.
+Ausentes contrarrazões (e-STJ fl. 407).
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 410/413 e 414/417.
+Passo a decidir.
+A irresignação recursal comporta acolhida.
+Com efeito, o STJ tem o entendimento de que o benefício da assistência judiciária gratuita depende de requerimento expresso da parte interessada, razão pela qual é vedado ao julgador o seu deferimento ex officio. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ASSISTÊNCIA JUDICIÁRIA GRATUITA. CONCESSÃO DE OFÍCIO. IMPOSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido está em confronto com orientação desta Corte, segundo a qual o benefício da justiça gratuita, consonante o artigo 99 do Código de Processo Civil, pode ser formulado na própria petição inicial, na contestação, na petição de ingresso de terceiro no processo ou em recurso, exigindo-se, contudo, requerimento expresso da parte interessada, sendo vedado sua concessão de ofício.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1.740.075/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 18/09/2018, DJe 21/09/2018).
+PROCESSUAL CIVIL. AUSÊNCIA DE PEDIDO PRÉVIO E DE DECISÃO ANTERIOR DEFERINDO O BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. RECURSO ESPECIAL DESERTO. FALTA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. SÚMULA 284/STF. NECESSIDADE DE REEXAME DE QUESTÃO SUPOSTAMENTE DECIDIDA EM OUTRO PROCESSO. SÚMULA 7/STJ.
+1. Na hipótese dos autos, não havendo pedido de concessão dos benefícios da assistência judiciária gratuita anterior à interposição do Recurso Especial, nem decisão expressa que defira tal vantagem e não competindo ao magistrado, de ofício, deferir tal benesse, por depender de requerimento expresso do interessado, não prospera a alegação do agravante de que vem litigando sob o pálio da assistência judiciária gratuita desde as instâncias ordinárias.
+2. Conquanto o recorrente alegue que em outros autos foi deferido o benefício da justiça gratuita, mister salientar que o acolhimento da pretensão recursal demanda o reexame do contexto fático-probatório, mormente de documentos de outro processo. Dessarte, incide na hipótese dos autos o óbice da Súmula 7/STJ.
+3. Finalmente, registre-se que a parte recorrente não indicou qual o dispositivo de lei federal entende violado, aplicando-se, em analogia, o óbice da Súmula 284/STF.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 694.351/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/10/2015, DJe 18/11/2015).
+In casu, o acórdão recorrido, ao entender que, "mesmo na ausência de requerimento, é possível a concessão ex officio do benefício da gratuidade de justiça" (e-STJ fl. 355), diverge da orientação aludida, razão pela qual não poderá remanescer.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para revogar o benefício da assistência judiciária gratuita deferido de ofício à parte recorrida.
+Publique-se. Intimem-se.
