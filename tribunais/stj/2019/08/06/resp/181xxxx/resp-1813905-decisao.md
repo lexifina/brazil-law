@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJPE assim ementado (e-STJ fl. 413):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. REDIRECIONAMENTO CONTRA O SÓCIO POR DÍVIDA TRIBUTÁRIA. NECESSIDADE DE POSSUIR CONDIÇÃO DE ADMINISTRADOR DA EMPRESA À ÉPOCA DA DISSOLUÇÃO IRREGULAR. SÓCIO FALECIDO EM MOMENTO ANTERIOR. PROVIMENTO.
+1. O art. 135 do Código Tributário Nacional disciplina a possibilidade legal de responsabilização pessoal de terceiros por créditos tributários de pessoa jurídica, de maneira tal que o redirecionamento contra a pessoa do sócio-administrador tão somente se concretizará nas hipóteses em que se verificar comprovada a prática de atos comissivos e omissivos que configurem excesso de poder, infração à lei ou estatuto e contrato social.
+2. Além disso, cumpre mencionar que restou consolidado o entendimento pela Quarta Turma desta Corte Recursal em julgamento de Turma ampliada, com rito previsto no art. 942 do NCPC, de que para fins de redirecionamento do feito executivo é suficiente que o sócio possua a condição de administrador à época da dissolução irregular da empresa, independentemente de estar, ou não, nos quadros sociais à época dos fatos geradores.
+3. No caso, sabendo-se que foi cabalmente demonstrado que o Sr. [NOME] faleceu em 03/03/1998, resta impossibilitado o redirecionamento do feito executivo, vez que a constatação dos indícios da dissolução irregular da empresa, por parte da Fazenda Nacional, tão somente aconteceu em 10/10/2011, de maneira tal que a parte agravante não fazia parte do quadro societário da empresa no momento do encerramento da atividade empresarial.
+4. Agravo de instrumento a que dá provimento.
+No recurso especial (e-STJ fls. 618/626), fundamentado no art. 105, III, "a", da CF, o recorrente aponta ofensa aos arts. 373, I, e 1.022 do CPC/2015 e 6º da LEF, discute-se a possibilidade de redirecionamento de execução fiscal ajuizada contra espólio de ex-sócio de empresa dissolvida irregularmente.
+A natureza jurídica da demanda é de direito público, cujo julgamento cabe à Primeira Seção.
+A matéria, portanto, é de competência das Turmas integrantes da Primeira Seção, a teor do disposto no art. 9º, § 1º, inciso IX, do Regimento Interno do Superior Tribunal de Justiça.
+Diante do exposto, determino a remessa dos autos à Coordenadoria de Autuação de Processos Recursais, para que proceda à redistribuição do feito a uma das Turmas que integram a Primeira Seção.
+Publique-se.
