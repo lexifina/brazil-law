@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. POLICIAL MILITAR DA RESERVA. PROMOÇÃO. ATO OMISSIVO DA ADMINISTRAÇÃO. PRESCRIÇÃO QUINQUENAL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ESTADO DE TOCANTINS contra decisão que negou seguimento ao recurso especial pelo teor da Súmula 83/STJ.
+O apelo nobre enfrenta acórdão do Plenário da 1ª Câmara Cível do Tribunal de Justiça do Estado de Tocantins, assim ementado (fls. 186-211):
+APELAÇÃO CÍVEL. REENQUADRAMENTO DE POLICIAL DA RESERVA. EXTINÇÃO DE PATENTE POR MEIO DE LEI. RECONHECIMENTO AOS SERVIDORES DA ATIVA. PRINCÍPIO DA ISONOMIA. PRESCRIÇÃO QUINQUENAL APLICÁVEL AO RECEBIMENTO DAS VANTAGENS PECUNIÁRIAS. MANUTENÇÃO DA SENTENÇA. JUROS E CORREÇÃO MONETÁRIA. REFORMA DE OFÍCIO. FIXAÇÃO DO INPC COMO ÍNDICE DE CORREÇÃO MONETÁRIA. JUROS DE MORA EQUIVALENTES AOS JUROS APLICÁVEIS À CADERNETA DE POUPANÇA.
+1. A prescrição quinquenal não atinge a própria substância ou fundo de direito, mas apenas as eventuais vantagens pecuniárias abrangidas no quinquênio.
+2. Sob pena de violação ao princípio constitucional da isonomia, concede-se ao autor, policial da reserva, a reclassificação para o posto de 1º [NOME] em virtude de extinção da patente que ocupa, vez que tal direito foi reconhecido aos servidores da ativa.
+3. Em matéria previdenciária, o cálculo da correção monetária deve observar a variação do INPC, diante da especialidade da norma constante no caput do artigo 41-A da Lei nº 8.213, de 1991, com a redação dada pela Lei nº 11.430/2006.
+4. Apelação conhecida e improvida. Reforma da sentença de ofício para determinar que a correção monetária seja calculada com base no INPC e os juros moratórios com base nos índices oficiais de remuneração básica e juros aplicáveis à caderneta de poupança (art. 1o.-F da Lei 9.494/97, com redação dada pela Lei 11.960/09).
+Os embargos de declaração foram rejeitados (fls. 244-254).
+No recurso especial, o recorrente alegou, além de dissídio jurisprudencial, violação ao art. 1º do Decreto 20.910/1932, ao argumento de que deveria ser reconhecida a prescrição do próprio fundo de direito, tendo em vista que entre a data do ajuizamento da ação e a transferência do agravado para a reserva mais de cinco anos se passaram. Requereu, ao final, o provimento do recurso para que se "reconheça a violação do 1º do Decreto 20.910/9132".
+O agravante sustenta que cumpriu todos os requisitos legais exigidos para a propositura do recurso especial, sobretudo no que tange á demonstração da violação da legislação infraconstitucional" (fl. 314).
+Sem contraminuta (fl. 396).
+É o relatório. Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo, passo ao exame do próprio recurso especial.
+Consoante extrai-se da petição inicial, é incontroverso nos autos que os autores, ora recorridos, foram transferidos para a reserva remunerada da Polícia Militar do Estado do Tocantins em 1996, com a graduação de Terceiro-Sargento.
+Em face da superveniência da Lei Estadual 1.161/2000, que extinguiu a graduação de Terceirio-Sargento, pleiteou o ora recorrido o direito à promoção militar.
+Nesse diapasão, ao contrário do que alega o recorrente, não há se falar em prescrição do fundo de direito, haja vista que a pretensão dos autores amparando-se no art. 40, § 8º, da Constituição Federal, insurgindo-se contra ato omissivo da Administração, que teria deixado de conceder-lhe as promoções decorrentes do referido diploma legal. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SERVIDOR PÚBLICO. REVISÃO DOS PROVENTOS DE APOSENTADORIA COM FUNDAMENTO NO ART. 40, §, 8º, DA CF/88. PARIDADE DE TRATAMENTO ENTRE ATIVOS E INATIVOS. PRESCRIÇÃO DE FUNDO DE DIREITO. NÃO CONFIGURAÇÃO. SÚMULA N. 85/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - No caso, o acórdão recorrido adotou entendimento consolidado nesta Corte, segundo o qual nas relações de trato sucessivo, ausente a negativa do próprio direito reclamado, não se opera a prescrição de fundo de direito nos casos em que se busca a revisão dos proventos de aposentadoria, com base na paridade entre ativos e inativos, nos termos do art. 40, § 8º, da Constituição da República, porquanto decorre de suposto ato omissivo da Administração Pública, nos termos da Súmula 85/STJ.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Interno improvido. (AgInt no REsp 1.661.837/PR, Rel. Ministra regina Helena Costa, Primeira Turma, DJe 3/8/2017)
+Por fim, verifica-se que o dissídio jurisprudencial não foi demonstrado nos moldes estabelecidos nos artigos 541, parágrafo único, do CPC/1973 e 255, §§ 1º e 2º, do RISTJ, pois não realizado o devido cotejo analítico. Imprescindível a apresentação objetiva do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como suficiente, a simples transcrição de ementa ou voto.
+Em julgado que se assemelha ao caso dos autos, como uma "luva à mão", de minha relatoria, destaco: AREsp n. 1.033.595/TO, Rel. Min. Benedito Gonçalves, DJe: 13/9/2017, com trânsito em julgado: 14/11/2017.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
