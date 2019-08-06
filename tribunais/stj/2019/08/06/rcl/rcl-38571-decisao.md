@@ -1,0 +1,10 @@
+DECISÃO
+[NOME] ingressa com reclamação contra acórdão do Tribunal de Justiça paulista que, após o esgotamento de sua jurisdição, determinou a expedição de mandado de prisão em seu desfavor.
+Alega-se que já foi protocolado o recurso especial em razão do v. Acórdão condenatório do TJSP, requerendo, assim, a concessão de alvará de soltura clausulado do peticionário, para que haja cumprimento imediato da decisão deste Colendo Superior Tribunal de Justiça, que em julgamento definitivo do mérito do HC464.383/SP, determinou ao peticionário a aplicação de medida cautelar diversa da prisão até o final, e para que possa responder o processo criminal em liberdade provisória clausulada, até o final (fl. 4).
+É o relatório.
+A reclamação não logra êxito, tendo em vista que não houve o alegado descumprimento à decisão desta Corte, que, ao conceder a ordem, para revogar a prisão preventiva do ora reclamante, fez a ressalva da possibilidade de aplicação de medidas cautelares diversas da prisão pelo magistrado de piso, ou da superveniência do esgotamento das instâncias ordinárias, o que, de fato, foi observado na decisão ora reclamada, como se verifica à fl. 12:
+ ..  Os recursos cabíveis contra a decisão condenatória proferida em segundo grau, como no caso, ou seja, o extraordinário e o especial, não possuem efeito suspensivo (art. 27, § 2º, da Lei nº 8.038/90), o que possibilita a execução imediata da pena. A propósito da questão, "a jurisprudência deste Supremo Tribunal Federal é firme no sentido de ser possível a execução provisória da pena privativa de liberdade quando os recursos pendentes de julgamento não têm efeito suspensivo" (HC 91.675/PR, 1ª Turma, Rel. Min. Carmen Lúcia, DJ 07.12.2007).
+Ademais, ao indeferir as liminares requeridas nas Ações Declaratórias de Constitucionalidade nº 43 e nº 44, o Colendo Supremo Tribunal reafirmou recentemente, por maioria de votos, em julgamento realizado pelo Plenário da Corte, o entendimento de que a execução da pena privativa de liberdade após a confirmação da condenação em segunda instância não ofende o princípio da não culpabilidade.
+ ..
+Ante o exposto, não conheço da reclamação.
+Publique-se.
