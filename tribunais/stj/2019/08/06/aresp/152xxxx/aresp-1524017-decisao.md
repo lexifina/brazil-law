@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por DIRECIONAL PORTO ACRE EMPREENDIMENTOS IMOBILIARIOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL AÇÃO DE RESCISÃO CONTRATUAL PROMESSA DE COMPRA E VENDA DE IMÓVEL APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 104, 389, 402 e 403 do CC e 14 do CDC, trazendo o(s) seguinte(s) argumento(s):
+Com efeito, a manutenção do v. Acórdão configura violação expressa às Cláusulas Quinta e Décima Primeira do Contrato, e consequentemente do Art. 104 do Código Civil, já que os contratos são plenamente válidos e devem ser cumpridos em observância ao Princípio do Pacta Sunt Servanda.
+Assim, não há dúvidas de que a manutenção do Acórdão ora vergastado representa violação ao Código Civil, mormente no que diz respeito ao artigo 104 do CC, razão pela qual o referido decisum não pode persistir.
+ ..
+Dessa forma, certo é que ninguém pode responder por um resultado ao qual não deu causa ou por prejuízos hipotéticos apenas pelo argumento de que o atraso na entrega do imóvel gerou uma presunção de dano. Nesse contexto, em nenhum momento, qualquer conduta das Recorrentes ultrapassou os limites da Lei ou do contrato, tampouco o exercício das atividades destas foi exercido de forma abusiva, até porque não extrapolaram a boa-fé, os bons costumes, nem o contexto social da relação jurídica entre as partes (fls. 559 e 561).
+É o relatório. Decido.
+Aplicável, na espécie, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão totalmente dissociadas dos fundamentos utilizados no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Verifica-se que o recurso encontra-se deficientemente fundamentado, uma vez que as razões insertas no recurso não permitem a exata compreensão da controvérsia, na medida em que se encontram dissociadas dos fundamentos da decisão agravada, aplicando-se, ao caso, por analogia, o enunciado da Súmula 284/STF" (AgRg no AREsp n. 1.394.624/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/3/2019).
+Confiram-se ainda os seguintes precedentes: EDcl nos EDcl nos EAREsp n. 740.722/SE, relator Ministro Francisco Falcão, Corte Especial, DJe de 14/12/2017; e REsp n. 1.722.691/SP, relator Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe 15/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
