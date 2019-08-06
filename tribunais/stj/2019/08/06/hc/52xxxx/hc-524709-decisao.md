@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JONATHAN [NOME] contra decisão liminar o Tribunal de Justiça do Estado de São Paulo (2152206.04.2019.8.26.0000).
+Segundo consta dos autos, a prisão preventiva do paciente foi decretada no dia 18/4/2018 em razão da suposta prática do crime de roubo majorado.
+Na presente impetração, a defesa alega, em síntese, que prisão foi decretada com base na gravidade abstrata do suposto crime, sem a indicação de elementos concretos, como determina a Constituição Federal (art. 93, IX), razão pela qual pede, em liminar e no mérito, a revogação da medida, tudo com superação do enunciado 691 do STF.
+É o relatório, decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Segundo consta do decreto prisional, além dos indícios de autoria e materialidade, destaca que o crime teria sido cometido mediante grave ameaça com arma de fogo e, diante do contexto do autos, o Relator da ação originária entendeu não haver ilegalidade manifesta a justificar o deferimento de urgência.
+Com efeito, A jurisprudência do Supremo Tribunal Federal considera que a gravidade concreta dos fatos constitui fundamento idôneo da custódia cautelar para a garantia da ordem pública. Precedentes" (RHC n. 120051, Relator Ministro ROBERTO BARROSO, Primeira Turma, julgado em 27/05/2014, publicado em 16/6/2014).
+Assim, não se verifica manifesta ilegalidade na decisão que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte. Entendo que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
