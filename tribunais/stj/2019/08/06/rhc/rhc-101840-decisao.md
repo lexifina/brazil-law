@@ -1,0 +1,95 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por [NOME] contra acórdão proferido pela 12ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo, no julgamento do HC n. 2250073-65.2017.8.26.0000.
+Noticiam os autos que foi oferecida queixa-crime contra o recorrente, imputando-lhe a prática do crime previsto no artigo 138, combinado com o artigo 141, inciso III, na forma do artigo 69, todos do Código Penal.
+Buscando o trancamento do processo, a defesa impetrou prévio writ na origem, cuja ordem foi denegada.
+Sustenta o advogado subscritor das razões recursais que a peça vestibular seria inepta, pois os fatos imputados ao acusado não teriam ocorrido conforme narrado pelo querelante.
+Afirma que as custas judiciais não teriam sido recolhidas no prazo legal, o que ensejaria a extinção do feito.
+Alega que a Justiça Comum seria incompetente para processar e julgar a ação penal, que deveria ser remetida ao Juizado Especial.
+Entende que não se estaria diante de fato típico, razão pela qual a queixa-crime deveria ser rejeitada.
+Requer o provimento da insurgência para que o recorrente seja sumariamente absolvido, condenando-se o querelante ao pagamento de custas processuais e demais cominações referentes a litigância de má-fé, arbritrando-se os honorários advocatícios pertinentes.
+É o relatório.
+Segundo consta da denúncia, em 16.8.2016 o recorrente compareceu à Promotoria de Justiça da comarca de Batatais a fim de requerer a instauração de inquérito policial mediante a informação de falta notitia criminis referente à suposta conduta típica praticada pelo querelante.
+Segundo o recorrente, o querelante seria o proprietário de fato da empresa PLACE SOLUÇÕES PARA NEGÓCIOS, que, embora esteja registrada na Junta Comercial como sociedade prestadora de serviços de propriedade de [NOME], sua esposa, não possuiria nem mesmo sede perante este Município, atuando na capital do Estado de São Paulo e possuindo faturamento milionário, supostamente ocultado do Fisco Estadual (e-STJ fls. 22/23).
+Assim, o recorrente pugnou pela instauração de procedimento investigatório contra o querelante para apurar a suposta prática dos crimes de falsidade ideológica e/ou sonegação fiscal (e-STJ fl. 23).
+De acordo com o querelante, o recorrente, mediante ânimo específico de caluniar, atribuiu-lhe falsamente fato definido como crime, posto que é sócio administrador da empresa denominada TEC2DOC SERVIÇOS DE TECNOLOGIA E DOCUMENTOS LTDA., cuja atividade em nada se relaciona à da empresa PLACE SOLUÇÕES PARA NEGÓCIOS (e-STJ fl. 23).
+O querelante afirmou que não há qualquer fundamento fático ou jurídico no conteúdo das alegações prestadas pelo recorrente ao Ministério Público, as quais refletem diretamente nas atividades desenvolvidas pela empresa por ele administrada, e em sua imagem perante a clientela (e-STJ fl. 23).
+Em 18.8.2016 o órgão ministerial requisitou a instauração de inquérito policial para averiguar os fatos narrados pelo recorrente, tendo a autoridade policial recebido as respectivas peças de informação em 31.8.2016, ao passo que em 26.10.2016 o querelante tomou conhecimento do procedimento investigatório e das acusações que lhe foram assestadas (e-STJ fl. 24).
+Em 25.11.2016 o querelante encaminhou ao recorrente uma notificação extrajudicial, e, em resposta, este não demonstrou nenhum intento de fazer cessar a conduta delituosa, tornando a práticá-la ao lhe imputar os crimes previstos na Lei 8.137/1990, 288, 299, 302, 304 e 342, todos do Código Penal, e 1º da Lei 9.613/1998 (e-STJ fl. 25/27).
+O querelante concluiu que, ao assim agir, o recorrente ofendeu a sua honra objetiva, incidindo no artigo 138, caput, do Código Penal, com a causa de aumento prevista no inciso III do artigo 141 do aludido diploma legal.
+Feitos tais esclarecimentos acerca dos fatos assestados ao recorrente, é imperioso destacar que o devido processo legal constitucionalmente garantido deve ser iniciado com a formulação de uma acusação que permita ao indivíduo o exercício do seu direito de defesa, para que eventual cerceamento não macule a prestação jurisdicional reclamada.
+É dever do querelante, portanto, narrar de forma satisfatória a conduta delituosa atribuída ao agente, descrevendo todas as suas circunstâncias, conforme a norma disposta no artigo 41 do Código de Processo Penal, para que seja viável o contraditório a ser instituído em juízo.
+A doutrina e jurisprudência se alinham ao apontar os requisitos mínimos de uma peça acusatória, podendo-se citar, por todos, as lições de [NOME], [NOME] e [NOME]:
+ "A instauração válida do processo pressupõe o oferecimento de denúncia ou queixa com exposição clara e precisa de um fato criminoso, com todas as suas circunstâncias (art. 41 do CPP), isto é, "não só a ação transitiva, como a pessoa que a praticou (quis), os meios que empregou (quibus auxiliis), o malefício que produziu (quid), os motivos que a determinaram a isso (cur), a maneira por que a praticou (quomodo), o lugar onde a praticou (ubi), o tempo (quando)" (João Mendes Jr.). (As nulidades no processo penal. 11ª ed. São Paulo: Revista dos Tribunais, 2009. p. 90-91.)
+No caso dos autos, verifica-se que a querelante narrou suficientemente os fatos tidos por criminosos, consignando que o recorrente imputou-lhe falsamente, por duas vezes, fatos definidos como crimes, valendo-se de meio que facilitou a divulgação das calúnias lançadas.
+Vê-se, assim, que narrativa exposta é apta ao exercício do direito de defesa constitucionalmente garantido ao recorrente, razão pela qual não há falar em inépcia da exordial acusatória, já que atendidos todos os requisitos elencados no artigo 41 do Código de Processo Penal.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PENAL E PROCESSO PENAL. QUEIXA-CRIME. CRIMES CONTRA A HONRA. CALÚNIA. PEREMPÇÃO. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 41 DO CPP. INÉPCIA DA INICIAL. INEXISTÊNCIA. DESCRIÇÃO SUFICIENTE DOS FATOS. PRECEDENTES.
+(..)
+2. Não há falar em inépcia da queixa-crime que narra devidamente as condutas criminosas imputadas ao recorrente, com todas as circunstâncias relevantes, indicando no que teria consistido o crime de calúnia por ele praticado, consistente na imputação aos querelantes de fato criminoso consubstanciado no desvio e apropriação de recursos recebidos pelos institutos por eles presididos.
+3. Agravo regimental improvido.
+(AgRg no REsp 1670607/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/04/2018, DJe 16/04/2018)
+No mesmo diapasão:
+RECURSO ORDINÁRIO. HABEAS CORPUS. CRIMES CONTRA A HONRA. AÇÃO PENAL PRIVADA. TRANCAMENTO. DESCABIMENTO. INÉPCIA DA QUEIXA-CRIME. (..).
+1. O trancamento da ação penal em sede de habeas corpus é medida excepcional, somente se justificando quando demonstrada, inequivocamente, a absoluta ausência de provas da materialidade do crime e de indícios de autoria, a atipicidade da conduta ou a existência de causa extintiva da punibilidade.
+2. A exordial acusatória, embora sucinta, descreve conduta que permite a adequação típica, apresentando os dados do tipo, quer no plano objetivo, quer no plano subjetivo, não havendo falar, portanto, em inépcia. Também não se verifica nenhuma ofensa ao princípio da indivisibilidade da ação penal (art. 49 do CP), tendo em vista que em nenhum momento da queixa-crime a querelante imputa ao seu ex-esposo a prática dos crimes previstos nos arts. 139 e 140 do Código Penal.
+(..)
+5. Recurso em habeas corpus improvido.
+(RHC 67.253/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/04/2016, DJe 18/04/2016)
+No que se refere à alegação de que a narrativa contida na queixa-crime não corresponderia à realidade dos fatos, que seriam atípicos, sedimentou-se na doutrina e jurisprudência pátria o entendimento de que, para se acolher o pleito de trancamento da ação penal na via do habeas corpus e do recurso ordinário em habeas corpus, é necessário que exsurja, à primeira vista, sem exigência de dilação de provas, a ausência de justa causa para a sua deflagração e/ou continuidade, consoante, aliás, assevera [NOME]:
+ "No habeas corpus, não se deve fazer o exame da prova de processo em tela, o que é cabível através dos meios de defesa de que dispõe o réu no curso da ação. Todavia, aliando-se o inc. VI do art. 648 com o inc. I, que considera ilegal a coação sem justa causa, a jurisprudência e a doutrina têm trancado a ação penal quando não houver base para a acusação, fazendo, assim, análise das provas. O exame, contudo, não é o mesmo que seria feito pelo juiz ao proferir sentença condenatória ou absolutória. Trata-se de um exame de que deve resultar, inequivocadamente, a ausência, em tese, de possibilidade da acusação, de forma que a absoluta inviabilidade de processo signifique constrangimento indevido. Seria o caso, por exemplo, de ação penal por fato atípico ou em que alguém é acusado sem nenhuma prova que sustente a imputação que lhe é feita" (Manual de processo penal. 3ª ed. São Paulo: Saraiva, p. 394).
+Por oportuno, conveniente registrar que toda queixa é uma proposta de demonstração da ocorrência de fatos típicos e antijurídicos atribuídos a determinado acusado, sujeita, evidentemente, à comprovação e contrariedade, a qual somente deve ser repelida quando não houver prova da existência de crime ou de indícios de sua participação no evento criminoso noticiado, ou, ainda, quando se estiver diante de flagrante causa de exclusão da ilicitude ou da tipicidade, ou se encontrar extinta a punibilidade.
+E como o remédio constitucional não é o instrumento adequado à discussão aprofundada a respeito de provas e fatos, não há como se valorar os elementos probatórios até então colacionados, como pretende o recorrente, para perquirir se a narrativa contida na vestibular seria verdadeira, ou se os fatos que lhe forma imputados seriam ou não típicos.
+Com efeito, para debate dessa natureza reserva-se ao acusado o processo criminal, ocasião em que as partes podem produzir aquelas provas que melhor entenderem alicerçar seus respectivos interesses, além daquela que pode ser feita pelo Juiz da causa, e não nesta oportunidade e instância, no âmbito estreito do writ.
+Portanto, qualquer conclusão diversa, na via eleita, consoante vem decidindo esta colenda Turma, inevitavelmente levaria à vedada análise de provas em sede de habeas corpus.
+A propósito:
+RECURSO EM HABEAS CORPUS. INJURIA CONTRA FUNCIONÁRIO PÚBLICO EM RAZÃO DE SUAS FUNÇÕES. DENUNCIAÇÃO CALUNIOSA. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. INVIABILIDADE. ART. 41 DO CPP ATENDIDO. AUSÊNCIA DE JUSTA CAUSA. NÃO CONFIGURAÇÃO. INDÍCIOS MÍNIMOS DE MATERIALIDADE E AUTORIA PRESENTES. (..) RECURSO DESPROVIDO.
+I - O trancamento da ação penal constitui medida de exceção, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, inépcia da inicial acusatória, atipicidade da conduta, presença de causa de extinção de punibilidade ou ausência de prova da materialidade ou de indícios mínimos de autoria.
+(..)
+V - No que concerne à justa causa para a persecução penal, ressalte-se que a liquidez dos fatos constitui requisito inafastável na apreciação da justa causa, pois o exame aprofundado de provas é inadmissível no espectro processual do habeas corpus ou de seu recurso ordinário, cujo manejo pressupõe ilegalidade ou abuso de poder flagrante a ponto de ser demonstrada de plano.
+VI - Segundo pacífica jurisprudência desta Corte Superior, a propositura da ação penal exige tão somente a presença de indícios mínimos de autoria. A certeza, a toda evidência, somente será comprovada ou afastada após a instrução probatória, prevalecendo, na fase de oferecimento da denúncia o princípio do in dubio pro societate.
+VII - No presente caso, é possível verificar a presença dos indícios mínimos necessários para a persecução penal, sendo certo que o acolhimento da tese defensiva - de ausência de dolo, uma vez que estaria configurado mero animus narrandi, o que configuraria excludente de ilicitude - demandaria, necessariamente, amplo reexame da matéria fático-probatória, procedimento a toda evidência incompatível com a via do habeas corpus e do seu recurso ordinário.
+Recurso em habeas corpus desprovido.
+(RHC 93.363/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/05/2018, DJe 04/06/2018)
+Assim, estando a decisão impugnada em consonância com o entendimento jurisprudencial firmado por este Sodalício no tocante à aventada falta de justa causa para a persecução criminal, não há que se falar em trancamento da ação penal, pois, de uma superficial análise dos elementos probatórios contidos no presente reclamo, não se vislumbra estarem presentes quaisquer das hipóteses que autorizam o trancamento excepcional por esta via, já que tal conclusão dependeria, repita-se, de profundo estudo das provas, as quais deverão ser oportunamente valoradas pelo juízo competente.
+Melhor sorte não socorre a defesa no que se refere à aventada incompetência da Justiça Comum para processar e julgar o feito.
+Isso porque, consoante destacado pelo Juízo de origem, o recorrente foi acusado de praticar o crime de calúnia por mais de uma vez, com a incidência da causa de aumento prevista no inciso III do artigo 141 do Código Penal, o que revela que a pena máxima em abstrato cominada para os ilícitos que lhe foram imputados ultrapassa 2 (dois) anos, não havendo que se falar, assim, em competência do Juizado Especial.
+Nesse norte:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CALÚNIA E DIFAMAÇÃO. CONCURSO MATERIAL. PENA MÁXIMA SUPERIOR A 2 ANOS. INCOMPETÊNCIA DO JUIZADO ESPECIAL. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência pacífica do STJ.
+2. O Superior Tribunal de Justiça tem entendimento pacificado no sentido de que, Para fins de fixação de competência do Juizado Especial, será considerada a soma das penas máximas cominadas ao delito com a causa de aumento que lhe seja imputada igualmente em patamar máximo, resultado que, ultrapassado o patamar de 2 (dois) anos, afasta a competência do Juizado Especial Criminal (RHC 46.646/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/04/2016, DJe 15/04/2016)
+3. Agravo regimental improvido.
+(AgRg no REsp 1563647/PI, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018)
+Finalmente, da leitura do acórdão impugnado constata-se que a alegada impossibilidade de regularização do pagamento das custas processuais após o ajuizamento da queixa-crime não foi alvo de deliberação pela Corte Estadual no aresto impugnado, o que impede a manifestação deste Superior Tribunal de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Nesse vértice:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.
+TRÁFICO DE DROGAS. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE.
+REITERAÇÃO DE PEDIDO. FIXAÇÃO DE REGIME FECHADO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não comporta conhecimento habeas corpus cujo pedido é mera reiteração de writ impetrado anteriormente. Na hipótese, o pedido de apelo em liberdade constitui mera repetição do RHC n. 106.490/SP.
+2. O Tribunal de origem não apreciou eventual ilegalidade na fixação do regime fechado em razão da existência de recurso de apelação já interposto pela defesa. Fica obstado, portanto, o exame da questão diretamente pelo Superior Tribunal de Justiça, sobrepujando a competência da Corte estadual, sob pena de se incorrer em indevida supressão de instância e em violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+3. Não se vislumbra flagrante ilegalidade na fixação do regime fechado, ainda que para fins de concessão da ordem de ofício, quando desfavoráveis as circunstâncias judiciais e estabelecida a pena em 6 anos de reclusão.
+4. Agravo regimental desprovido.
+(AgRg no HC 508.457/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 30/05/2019, DJe 10/06/2019)
+No mesmo sentido:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. MÉRITO NÃO ANALISADO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. FLAGRANTE ILEGALIDADE.
+RECURSO NÃO CONHECIDO. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
+1. As questões relacionadas à possibilidade de apelar em liberdade e ao regime prisional não foram analisadas pelo acórdão impugnado, o que impede o seu conhecimento por esta Corte, sob pena de indevida supressão de instância.
+2. A jurisprudência desta Corte tem admitido a impetração de habeas corpus para se questionar a possibilidade de aguardar o julgamento do recurso de apelação em liberdade.
+3. Recurso não conhecido. Habeas corpus concedido, de ofício, para determinar que o Tribunal de origem analise o mérito da impetração originária.
+(RHC 111.538/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/05/2019, DJe 27/05/2019)
+Quanto ao ponto, é necessário esclarecer que o simples fato de a questão haver sido suscitada na inicial do mandamus não é suficiente para que possa ser debatida nesta instância, pois, diante da omissão da autoridade impetrada em examiná-la, cumpria à defesa opôs os competentes embargos de declaração.
+Nessa direção:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO MEDIANTE SEQUESTRO. VIOLAÇÃO AO ART. 155 DO CÓDIGO DE PROCESSO PENAL - CPP. INEXISTÊNCIA. CONJUNTO HARMÔNICO DE PROVAS JUDICIAIS E EXTRAJUDICIAIS. COLIDÊNCIA DE DEFESAS. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. A alegada nulidade por colidência de defesas não foi apreciada na instância ordinária, sendo que este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância. Caberia a defesa opor embargos de declaração a fim de suprir tal omissão. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC 463.606/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/03/2019, DJe 01/04/2019)
+Com a mesma orientação:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. (..) AUDIÊNCIA DE CUSTÓDIA. AUDIÊNCIA DE JUSTIFICAÇÃO. SUPRESSÃO DE INSTÂNCIA. ORDEM NÃO CONHECIDA.
+(..)
+5. No que tange à ausência de prévia oportunidade para a defesa se manifestar antes da revogação do benefício, verifica-se que o acórdão atacado não examinou a matéria, e tampouco foram opostos embargos declaratórios, de modo que a questão, também nesse ponto, encontra óbice na supressão de instância.
+6. Ordem não conhecida.
+(HC 473.431/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/02/2019, DJe 19/02/2019)
+Ante o exposto, com fundamento no artigo 34, inciso XVIII, alínea "b", do Regimento Interno deste Superior Tribunal de Justiça, conhece-se parcialmente do presente recurso ordinário em habeas corpus, e, nessa extensão, nega-se-lhe provimento.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
