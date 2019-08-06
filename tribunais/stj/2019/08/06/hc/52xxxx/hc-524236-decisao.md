@@ -1,0 +1,36 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO PELO AFASTAMENTO DA REINCIDÊNCIA. JUIZ SINGULAR QUE CONSIDEROU A REINCIDÊNCIA NA SENTENÇA CONDENATÓRIA. TESE SUBSIDIÁRIA. POSSIBILIDADE DE RECONHECIMENTO PELO JUÍZO DA EXECUÇÃO. NÃO OCORRÊNCIA DE AFRONTA À COISA JULGADA. INEXISTÊNCIA DE REFORMATIO IN PEJUS. PRECEDENTES.
+Habeas corpus indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça de Minas Gerais.
+Consta dos autos que o paciente foi condenado pelos delitos do art. 157, caput, e art. 329, ambos do Código Penal, praticados em 23/9/2014, com trânsito em julgado em 28/9/2016 - autos n. 2781228-22.2014.8.13.0024.
+Também integra os autos a notícia de que, em 15/10/2016, o paciente praticou os delitos previstos no art. 157, caput, e art. 330, ambos do Código Penal, autos n. 1288899-05.2016.8.13.0024, restando condenado pelas novas infrações penais em 10/2/2017.
+Em sede de execução penal, a defesa requereu a exclusão do status de reincidente do relatório da situação processual executória do paciente e o juiz singular deferiu o pedido, por entender que a reincidência não restou conhecida nem na sentença condenatória, nem no acórdão confirmatório da condenação (Autos n. 0061438-67.2017.8.13.0301 - fl. 18).
+Inconformada, a acusação interpôs agravo em execução pleiteando pela inclusão da reincidência no atestado de pena do ora paciente. O Tribunal de Justiça deu provimento ao recurso acusatório, nos termos da seguinte ementa (fl. 59):
+EMENTA OFICIAL: AGRAVO EM EXECUÇÃO - RETIFICAÇÃO DO LEVANTAMENTO DE PENA - IRRESIGNAÇÃO MINISTERIAL - AFASTAMENTO DA REINCIDÊNCIA PELO JUÍZO A QUO - IMPOSSIBILIDADE - OFENSA À COISA JULGADA - RECURSO PROVIDO. 1. O artigo 66 da Lei de Execuções Penais não atribui ao Juiz da Execução a competência para modificar a decisão já transitada em julgado. 2. Dar provimento ao recurso ministerial.
+Daí o presente writ, defendendo que não é possível, ao juízo da execução, o reconhecimento da circunstância agravante da reincidência, quando aludida circunstância pessoal não tenha sido declarada por ocasião da sentença condenatória.
+Aduz que, transitada em julgado a sentença condenatória que reconheceu a primariedade do acusado, não cabe ao juiz da execução inovar e modificar o conteúdo da referida sentença, sob pena de ofensa ao trânsito em julgado (art. 5º, XXXVI, da CR), ao princípio do contraditório e da proibição do reformatio in pejus e excesso da execução (fl. 6).
+Por fim, requer (fls. 9/10):
+ ..
+a) Liminarmente, a concessão da ordem, para suspender a decisão, fazendo cessar o constrangimento ilegal, ora suportado pelo paciente, até o julgamento de mérito desta impetração;
+b) Meritoriamente, seja concedido o habeas corpus, a fim de reformar o r. acórdão objurgado, reconhecendo a inexistência de reincidência quanto à condenação veiculada pela GE de seq. 1.7.
+ ..
+É o relatório.
+Em suma, a defesa busca que seja afastado o status de reincidente do atestado de pena do paciente, uma vez que a sentença condenatória não reconheceu sua reincidência.
+Sobre o tema, assim se manifestou a Corte de origem (fl. 61):
+ ..
+O MM Juiz da Vara de Execuções Criminais da Comarca de Igarapé não agiu corretamente ao afastar a reincidência na fase executória, eis que restou reconhecida a reincidência na sentença condenatória consoante se verifica à f.13.
+ ..
+Ora, do trecho acima colacionado, verifica-se que, diversamente, do que alega a defesa, o Tribunal afirma que o juiz singular reconheceu sim a reincidência na segunda sentença condenatória, o que também pode ser constatado na sentença colacionada aos autos às fls. 106/107.
+Sendo assim, uma vez que reconhecida a reincidência pelo juiz singular na sentença condenatória, não há falar em inovação da situação do paciente em sede de execução.
+Ainda que assim não fosse, é certo que a Sexta Turma do Superior Tribunal de Justiça entende que as condições pessoais do paciente, da qual é exemplo a reincidência, devem ser observadas pelo juízo da execução para concessão de benefícios (progressão de regime, livramento condicional, etc). Com efeito, "A individualização da pena no processo de conhecimento visa aferir e quantificar a culpa exteriorizada no fato passado. A individualização no processo de execução visa propiciar oportunidade para o livre desenvolvimento presente e efetivar a mínima dessocialização possível. Daí caber à autoridade judicial adequar a pena às condições pessoais do sentenciado"  .. . Não prospera, nessa perspectiva, o argumento de que a consideração da reincidência, apenas na fase de execução penal, revelaria o inaceitável reformatio in pejus, tendo em vista que não há falar em agravamento da reprimenda, mas apenas em individualização da pena, que na esfera de competência do juízo da execução se relaciona com institutos próprios (progressão de regime, livramento condicional etc). (AgRg no REsp n. 1.642.746/ES, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 14/8/2017).
+Em outras palavras, as condições pessoais do paciente, da qual é exemplo a reincidência, devem ser observadas na execução da pena, independente de tal condição ter sido considerada na sentença condenatória, eis que também é atribuição do juízo da execução individualizar a pena (AgRg no HC n. 385.043/ES, de minha relatoria, Sexta Turma, DJe 21/11/2017).
+Afinal, a reincidência é circunstância pessoal que interfere na execução como um todo.
+Sendo assim, a condição de reincidente, uma vez adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas (precedentes) (HC n. 307.180/RS, Ministro Felix Fisher, Quinta Turma, DJe 13/5/2015).
+A propósito, o recente julgado.
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REINCIDÊNCIA NÃO RECONHECIDA NA SENTENÇA. RECONHECIMENTO PARA OS FINS ESPECÍFICOS DA EXECUÇÃO PENAL. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.
+1. O Superior Tribunal de Justiça possui o entendimento de que o Juízo da execução penal não está vinculado ao emprego dado pelo Juízo de conhecimento aos registros criminais do apenado, estando adstrito tão somente ao quantum de pena estabelecido, ao regime inicial fixado ou à eventual substituição da pena privativa de liberdade por restritivas de direitos, ressalvadas as hipóteses, neste último caso, de conversão por descumprimento injustificado ou de incompatibilidade em virtude de nova condenação. Assim, as condições pessoais do apenado, tal como a reincidência, ainda que não sejam reconhecidas na condenação, devem ser observadas pelo Juízo das execuções para concessão de benefícios, já que tal proceder encontra-se na sua esfera de competências, definida no art. 66 da LEP, descabendo falar-se em reformatio in pejus ou em violação à coisa julgada material, mas em individualização da pena relativa à apreciação de institutos próprios da execução penal.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 511.766/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/6/2019)
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
