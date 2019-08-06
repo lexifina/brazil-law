@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] DANTAS e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas a e c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim resumido:
+ADMINISTRATIVO. SERVIDOR CIVIL DA MARINHA.CARGO AUXILIAR DA CARREIRA DE TECNOLOGIA MILITAR. GRATIFICAÇÃO DE QUALIFICAÇÃO - GQ. CONCESSÃO INDEVIDA.
+1. Desejam os autores a concessão de Gratificação de Qualificação da Tecnologia Militar - GQ.
+2. O art. 21-B, da Lei n.º 9.657/98 prevê a concessão de Gratificação de Qualificação da Tecnologia Militar - GQ aos titulares de cargos de provimento efetivo de nível intermediário integrantes do Plano de Carreira dos Cargos de Tecnologia Militar.3. Por sua vez, o artigo 56, da Lei n.º 11.907/09 confere o direito à Gratificação de Qualificação - GQ aos titulares de cargos de provimento efetivo de níveis intermediário e auxiliar integrantes das Carreiras de Desenvolvimento Tecnológico e de Gestão, Planejamento e Infraestrutura em Ciência e Tecnologia.
+4. Não é devida, pois, a concessão da GQ aos auxiliares da Carreira de Tecnologia Militar, à qual pertencem os autores, por não se enquadrarem na previsão legal.
+5. Apelação não provida.
+Quanto à primeira controvérsia, pela alínea a do permissivo constitucional, afirma que:
+Dessa forma, Excelência, respeitados os critérios da Lei nº. 11.907/09, como no caso dos autos, é forçoso convir que os recorrentes fazem jus à percepção da citada gratificação desde 01/01/2013, nos termos do Decreto nº 7.922/13, mormente diante da participação em cursos profissionais, do efetivo exercício por mais de 10 (dez) no cargo e da participação no Plano Carreira dos Cargos de Tecnologia Militar (PCCTM) (fl. 396).
+Em relação à segunda controvérsia, alega divergência, com fundamento na alínea c do permissivo constitucional.
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp n. 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/6/2018).
+Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, pois, a despeito de ter sido apontada a alínea c do permissivo constitucional, a parte recorrente não indicou expressamente qual o acórdão tido por paradigma, o que impede eventual análise da divergência de interpretações.
+Confiram-se nesse sentido os seguintes precedentes: AgRg no AgRg no AREsp n. 1.019.207/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 1º/8/2017; AgRg no AREsp n. 545.856/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 19/2/2015; e AgRg no AREsp n. 431.782/MA, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2014.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
