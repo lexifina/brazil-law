@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim resumido:
+APELAÇÃO CÍVEL DO AUTOR - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - AUSÊNCIA DE NEXO CAUSAL - DEVER DE INDENIZAR NÃO VERIFICADO - RESSARCIMENTO PELA AQUISIÇÃO DE MEDICAMENTO - DESCABIMENTO - SENTENÇA DE IMPROCEDÊNCIA MANTIDA - RECURSO CONHECIDO E IMPROVIDO.
+I. Para se impor o dever de reparar o dano, necessária a comprovação dos requisitos da responsabilidade civil (conduta, nexo causal e dano), ônus que incumbia ao autor (CPC, art. 373, I), que não cumpriu com seu mister.
+II - O Poder Público não tem o dever de ressarcir as despesas realizadas voluntariamente pela parte para a realização de tratamento de saúde. Em caso de recusa injustificada na prestação do serviço de saúde, cumpre ao interessado pedir em juízo o bem da vida pretendido e até mesmo o bloqueio dos valores necessários ao cumprimento da ordem judicial. Sentença mantida por seus fundamentos.
+Quanto à controvérsia, pela alínea a do permissivo constitucional, alega violação dos arts. 186 e 927 do CC, no que concerne à ocorrência de ato ilícito causador de danos morais e danos materiais no caso dos autos, trazendo o(s) seguinte(s) argumento(s):
+Assim, nasce o dever de indenizar por parte do Estado, na medida em que se mostra inequívoca a sua negativa em fornecer o medicamento constante da ordem judicial.
+ ..
+No caso, a omissão do Estado violou o direito da esposa do autor (determinação judicial para fornecimento de medicamento), causando imensa aflição e angústia à toda a sua família, em especial ao recorrente, configurando assim o ilícito passível de indenização a teor do que preconizam os dispositivos legais supra citados, bem como pelos recentes julgados colacionados.
+Portanto, se o próprio acórdão recorrido reconhece o reiterado descumprimento da ordem judicial, configurado se mostra o ilícito a ser indenizado, sob pena de negativa de vigência aos arts. 186 e 927 do CC.
+ ..
+Como já demonstrado, os requisitos para o surgimento do dever de indenizar são: fato lesivo causado pelo agente, por ação ou omissão voluntária, negligência ou imprudência, ocorrência de um dano patrimonial ou moral e nexo de causalidade entre o dano e o comportamento do agente.
+A conclusão de que é necessária a concorrência desses três elementos decorre da regra legal a qual prevê a responsabilidade civil, consubstanciada no dever de indenizar danos causados a terceiro, em virtude de conduta ilícita, nos termos dos artigos 186 e 927 do Código Civil.
+ ..
+Portanto, além do prejuízo moral acima demonstrado, há também o dano material, consubstanciando nos medicamentos adquiridos pelo recorrente, ante a inércia dos recorridos, nos valores de R 6.952,20 (seis mil, novecentos e cinquenta e dois reais e vinte centavos) e R 6.020,00 (seis mil e vinte reais), comprovados pelas Notas Fiscais acostadas à inicial (fls. 655/660).
+É o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem valeu-se dos seguintes fundamentos para manter a sentença de improcedência do pedido inicial:
+Portanto, de acordo com as regras sobre distribuição do ônus probatório, cabe ao autor o ônus de provar fato constitutivo do seu direito, ao passo que ao réu compete o ônus da prova de fatos impeditivos, modificativos ou extintivos do direito da parte autora (CPC, art. 373).
+No particular, o autor não se desincumbiu de seu mister.
+Com efeito, está inequívoco nos autos que seu cônjuge, acometido de neoplasia de fígado, estágio IV, ingressou com demanda judicial (feito n.º 0016523-60.2012.8.12.0001), por meio da qual buscou compelir os ora réus no fornecimento de medicamento Nexavar, que à época não apresentava similar no mercado, tampouco fazia parte do protocolo ONCO-SUS.
+O referido medicamento foi disponibilizado em 31/05/2012 (f. 213), em cumprimento a antecipação da tutela deferida na aludida ação judicial, proferia em 18/04/2012 (f. 130-131).
+Nota-se que a decisão que determinou a dispensação do medicamento, fixou o prazo de 10 (dez) dias para seu cumprimento.
+O Estado réu, por sua vez, foi intimado acerca da referida decisão em 23/04/2012 e tempestivamente pugnou pela dilação do prazo assinalado, o que foi deferido (f. 149).
+Em 18/05/2012 (f. 166) o Estado foi intimado pessoalmente para cumprimento da aludida decisão de f. 130-131 e, como dito, o referido medicamento foi disponibilizado em 31/05/2012.
+Lamentavelmente, a autora veio a óbito em 25/05/2012 (f. 173).
+Antes, porém, ela havia adquirido o referido medicamento em caráter particular, consoante notas fiscais de f. 387-388, do qual vinha fazendo uso ao tempo do falecimento.
+Como ponderado pelo julgador de instância singela, verifica-se que a autora estava fazendo uso do medicamento pleiteado naquela ação e objeto da obrigação concedida em sede de tutela antecipada ao tempo do óbito, de modo que não foi eventual omissão dos réus com relação ao cumprimento da ordem judicial que acarretou a sua morte.
+Importante registrar que a pretensão inicial é fundada justamente na suposta omissão do Estado, eis que da peça vestibular se extrai a argumentação de que não só no sofrimento, dor e trauma provocados pela morte de um ente querido ocasionou os danos perseguidos, mas, sobretudo quando decorre da inércia, omissão e descaso do Estado, consoante o caso narrado" (f. 10 - sem destaque no original).
+E como dito, não há elementos nos autos que indiquem que a omissão do Estado deu causa ao óbito.
+Aliás, vale salientar que o medicamento utilizado pelo cônjuge do autor foi adquirido em 10/04/2012 e 17/05/2012. Contudo, somente em 14/05/2012 é que decorreu o prazo para que o Estado cumprisse a ordem judicial (f. 161), de modo que a segunda aquisição é que teria ocorrido em razão do descumprimento daquela decisão, uma vez que a primeira se deu no prazo legal para o cumprimento do comando.
+Não se discute o lamentável desfecho do tratamento, que como já mencionado, sequer é objeto desta demanda. Porém, nenhum elemento de prova há nos autos capaz de confirmar a relação de causa e efeito entre o prejuízo moral alegado na inicial e a conduta dos réus.
+De igual forma, não há como reparar o dano material suportado.
+Isto porque, o custeio pelo apelante do serviço de saúde para o tratamento de seu cônjuge, sem prévia ordem judicial, não gera o dever de ressarcimento pelo Poder Público.
+Em caso de recusa ou de demora injustificada da prestação do serviço de saúde, cumpre à parte adotar, na defesa do seu direito, as medidas judiciais cabíveis para obter o bem da vida pretendido, até, porque, não é demais repisar que ao adquirir o medicamento comprovado à f. 387, o fez quando ainda sequer expirado o prazo para cumprimento da ordem judicial pelo Estado.
+ ..
+Por tudo isso, ainda que se compreenda todo o sofrimento e angústia suportados pelo autor, tenho como impositivo o juízo de improcedência do pedido inicial, pois ausentes os pressupostos da responsabilidade civil (fls. 635/638).
+Assim sendo, o propósito de infirmar as conclusões do acórdão recorrido é inviável ante o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
