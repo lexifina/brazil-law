@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO. NULIDADE DA PENHORA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. RECURSO IMPROVIDO.
+DECISÃO
+Os autos noticiam que KIUTI ALIMENTOS LTDA (KIUTI) interpôs agravo de instrumento contra decisão proferida na execução por título extrajudicial proposta pela SICOOB COCRED COOPERATIVA DE CREDITO (SICOOB), que indeferiu o pedido de anulação da penhora do imóvel dado em garantia por não terem todos os executados sido intimados da constrição.
+Ao recurso foi negado provimento, cujo acórdão encontra-se assim ementado:
+Agravo de instrumento. Cédula de crédito bancário. Ação de execução por título extrajudicial. Penhora de imóvel. Pretendido reconhecimento de nulidade de atos praticados no processo de execução, por falta de intimação dos coexecutados quanto à penhora. Inadmissibilidade. Art. 841, § 2º , do CPC não conduzindo à conclusão de que os coexecutados sem propriedade ou qualquer outro direito real sobre o bem penhorado devam também ser intimados da constrição, menos ainda pessoalmente, tanto porque o atual sistema processual, diferentemente do que ocorria no passado, não mais exige prévia penhora como condição para a apresentação de defesa pelo executado, em forma de embargos ou impugnação à execução, nem mais elege tal intimação como termo inicial do prazo para defesa. Consideração, ainda a respeito, de que o coexecutado sem vínculo para com o bem penhorado não tem legitimidade para se voltar contra o ato de constrição. Situação dos autos em que, ademais, não se verifica prejuízo para o coexecutado suscitante da nulidade, o que representaria pressuposto indispensável para o reconhecimento da suposta eiva.
+Dispositivo: Negaram provimento ao agravo (e-STJ, fl. 401).
+Contra esse julgado KIUTI manejou recurso especial, fundamentado na alínea a do permissivo constitucional, alegando violação dos arts. 280, 282 e 841, § 2º, do NCPC, diante da falta de intimação de todos os executados sobre a penhora e atos expropriatórios do imóvel dado em garantia do contrato. Postulou, ao final, a concessão de efeito suspensivo ao apelo nobre.
+Foram apresentadas contrarrazões.
+O juízo prévio de admissibilidade negou seguimento ao apelo nobre por não se ter demonstrada a ofensa aos dispositivos legais e ante a incidência da Súmula nº 7 do STJ.
+Irresignada, KIUTI apresentou o correspondente agravo, pelo qua refutou os fundamentos da decisão agravada.
+Contraminutado, os autos subiram para esta Corte Superior.
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A pretensão recursal está no reconhecimento da nulidade da penhora e de atos expropriatórios ante a falta de intimação de todos os executados.
+Todavia, ao apreciar a tese, o Tribunal de origem concluiu pela higidez dos atos processuais praticados, seja porque a oposição dos embargos do devedor prescinde da garantia do juízo, assim como pela ilegitimidade daqueles que não são proprietários do bem para impugnar a constrição, além de não se ter demonstrado o prejuízo sofrido.
+Veja-se:
+Bem é de ver que, no atual sistema processual, diferentemente do que ocorria à época dos precedentes invocados pela agravante, o prazo para embargos ou impugnação à execução não pressupõe penhora, nem reclama intimação do executado sobre a penhora.
+Assim, no plano técnico, nada existe a justificar a intimação do coexecutado sem direitos sobre o bem penhorado, tanto mais porque não tem ele legitimidade para se voltar contra o ato de constrição, com o que estaria defendendo em nome próprio direito alheio, algo sabidamente vedado.
+Como quer que seja, a se admitir, para argumentar, a necessidade de intimação dos coexecutados quanto à penhora, fato é que, em relação a tais personagens, ter-se-ia nulidade relativa, cujo reconhecimento reclamaria alegação e demonstração de prejuízo por parte deles próprios do que, aliás, não cogita a agravante (e-STJ, fl. 404).
+Observa-se, portanto, que a KIUTI deixou de impugnar todos os fundamentos adotados pelo acórdão recorrido para negar provimento ao seu agravo de instrumento, atraindo a incidência da Sumula nº 283 do STF, verbis: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
