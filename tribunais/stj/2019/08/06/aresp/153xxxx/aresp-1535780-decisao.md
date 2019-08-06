@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por ESTADO DE MINAS GERAIS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÕES CÍVEIS - REEXAME NECESSÁRIO - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - PRESCRIÇÃO QÜINQÜENAL - INOCORRÊNCIA - RESPONSABILIDADE DO ESTADO - POLICIAL MILITAR DE FOLGA - ARMA DA CORPORAÇÃO - HOMICÍDIO - TERMO INICIAL - TRÂNSITO EM JULGADO DA CONDENAÇÃO CRIMINAL DO AGENTE ESTATAL - POSIÇÃO DO SUPREMO TRIBUNAL FEDERAL DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE TRIBUNAL
+Alega violação dos arts. 884 e 944 do CC, no que concerne à revisão de valor do dano moral, trazendo o(s) seguinte(s) argumento(s):
+Logo, diante das peculiaridades dos autos, o montante fixado a título de danos morais - R 100.000,00 - afigura-se excessivo, em desacordo com a norma contida nos artigos 884 e 944, ambos do Código Civil, configurando verdadeiro enriquecimento sem causa da parte autora (fl. 392).
+É importante destacar que situações como a dos presentes autos tem sido comuns, pois, geralmente, fixam-se indenizações em valores elevados, que não podem ser custeados por qualquer pessoa, sob pena de enriquecimento sem causa. Isso decorre da influência dos meios jurídicos, de que o Estado possui uma fonte inesgotável de recursos (fl. 392).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
