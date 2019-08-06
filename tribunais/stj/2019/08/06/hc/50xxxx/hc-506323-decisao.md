@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de Santa Catarina.
+Consta dos autos que o Juízo da Vara de Execuções Criminais da Comarca de Criciúma/SC reconheceu a prática de falta grave pelo apenado, consistente em agressão a outro detento, determinou a interrupção do prazo para contagem de novos benefícios e a perda dos dias remidos na proporção de 1/5 (um quinto) (e-STJ, fl. 90).
+Inconformada, a Defensoria Pública estadual interpôs agravo em execução perante o Tribunal a quo, que lhe negou provimento, nos termos da seguinte ementa (e-STJ, fl. 62):
+"AGRAVO EM EXECUÇÃO PENAL. FALTA GRAVE. HOMOLOGAÇÃO DO PAD. PERDA DE 1/5 (UM QUINTO) DOS DIAS REMIDOS E FIXAÇÃO DE NOVA DATA-BASE. PLEITO DEFENSIVO. IMPOSSIBILIDADE DE DISCUSSÃO SOBRE O MÉRITO DA CONDUTA. PRECEDENTES JURISPRUDENCIAIS. PROCESSO DISCIPLINAR QUE RESPEITOU OS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. DECISÃO QUE APENAS ANALISA A LEGALIDADE DO PROCEDIMENTO ADMINISTRATIVO. PROVIDÊNCIA CORRETA E EM CONSONÂNCIA COM A JURISPRUDÊNCIA. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO."
+Neste writ, a impetrante sustenta que o apenado está sendo submetido a constrangimento ilegal, uma vez que a jurisprudência desta Corte admite o controle jurisdicional sobre o Procedimento Administrativo Disciplinar, não se restringindo apenas ao exame de sua legalidade.
+Explicita que "o juízo de primeiro grau, em contato com as provas colacionadas aos autos, sobretudo com o PACIENTE, se negou a apreciar o mérito da apuração da falta grave imputada à esta, nem ao menos analisando os argumentos trazidos pela defesa às fls. 289-298, que, por sua vez, requereu a absolvição diante da inexigibilidade de conduta diversa" (e-STJ, fl. 9).
+Alega que o acórdão impugnado incorreu em julgamento citra petita, porquanto não examinou a tese defensiva relativa à "ausência de substrato probatório mínimo dos fatos" (e-STJ, fl. 10), configurando flagrante ilegalidade.
+Requer, no mérito, que seja concedida a ordem para anular o acórdão e determinar novo julgamento do feito, analisadas as teses defensivas quanto à impugnação da falta grave.
+A liminar foi indeferida (e-STJ, fl. 77).
+Informações prestadas às fls. 80-93 (e-STJ).
+O Ministério Público Federal opina pela concessão da ordem, de ofício (e-STJ, fls. 97-101).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+Na hipótese dos autos, discute-se a respeito da possibilidade ou não de o órgão judicial examinar a ocorrência de falta disciplinar, no âmbito da execução penal, após posterior análise e decisão do órgão administrativo, no sentido de reconhecer a falta grave cometida pelo reeducando, em regular Procedimento Administrativo Disciplinar.
+No acórdão impugnado, o Tribunal de Justiça assim se manifestou (e-STJ, fls. 65-67):
+"Pois bem, o Superior Tribunal de Justiça, por intermédio do Recurso Especial Repetitivo n. 1.378.557/RS, assentou o entendimento de que compete ao diretor do estabelecimento prisional apurar e reconhecer se houve ou não o cometimento da falta disciplinar pelo reeducando, mediante a instauração do procedimento administrativo adequado, limitando-se o Poder Judiciário a realizar o controle da legalidade e aplicar as sanções com cláusula de reserva de jurisdição, previstas na Lei de Execução Penal.
+ ..
+Tal entendimento é o adotado por este Tribunal de Justiça, de modo que é incabível o órgão julgador adentrar no mérito da decisão administrativa proferida no procedimento disciplinar instaurado.
+ ..
+No caso em apreço, o PAD foi instaurado e devidamente processado, sem qualquer violação aos princípios do contraditório e ampla defesa, eis que observou todos os procedimentos legais.
+Também, não há qualquer elemento a indicar interesse dos agentes penitenciários na causa, no intuito de prejudicar o apenado ao lançar fatos que seriam falsos."
+Cumpre destacar que o entendimento desta Corte é no sentido de possibilitar ao Juízo da execução a revisão judicial e o exame de valoração judicial para fins de reconhecimento de falta disciplinar.
+Nesse sentido:
+"PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. ABSOLVIÇÃO DE REEDUCANDO PELO CONSELHO DISCIPLINAR. CONTROLE JUDICIAL. POSSIBILIDADE. WRIT NÃO CONHECIDO.
+1. É possível o controle judicial - pelo juízo da execução penal - sobre decisão de Conselho Disciplinar que, no uso de suas atribuições, concluiu pela absolvição da acusação de eventual falta disciplinar de natureza grave imputada a reeducando do sistema prisional.
+2. In casu, extrai-se que, embora tenha sido narrado no Boletim de Ocorrência Interno que "foi encontrado (..) uma faca artesanal de aproximadamente uns 10 cm feita com uma chapa de Tesoura", o que subsumiria à figura descrita no art. 50, III, da LEP ("Comete falta grave o condenado à pena privativa de liberdade que: (..) III - possuir, indevidamente, instrumento capaz de ofender a integridade física de outrem"), o Conselho Disciplinar "por unanimidade dos votos, o absolveu, considerando que faltaram provas que comprovassem a autenticidade das acusações".
+3. Assim, ainda que se reconheça certa discricionariedade da autoridade administrativa prisional no exercício de dosimetria da penalidade administrativa - conforme previsto no art. 59 da LEP -, não se pode admitir a convolação dessa atividade em arbitrariedade, e, ainda, retirar do Poder Judiciário a devida intervenção.
+4. Writ não conhecido."
+(HC 365.431/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 18/10/2016, DJe 08/11/2016).
+O condicionamento da atuação do Juízo da Execução à decisão da Comissão Disciplinar implica inaceitável subordinação do Judiciário à Autoridade Administrativa. É certo que a Lei de Execução Penal atribui ao diretor do estabelecimento prisional o poder de apurar e aplicar sanções disciplinares. Contudo, há faltas que, quando praticadas no curso da execução da pena, geram consequências que extravasam a esfera administrativa da disciplina prisional. É o caso, por exemplo, da determinação da regressão do regime (art. 118, I, da LEP), da perda dos dias remidos (art. 127, da LEP), e da suspensão do benefício de livramento condicional (art. 145, da LEP), que são medidas concernentes ao controle jurisdicional do cumprimento da pena e que não podem ficar jungidas à discricionária atuação da autoridade administrativa.
+Não se pode aceitar a submissão do Judiciário à esfera administrativa, sendo, em todo caso, inafastável o direito constitucional de acesso à jurisdição.
+A propósito:
+" ..
+1. É possível o controle judicial sobre decisão de Conselho Disciplinar que, no uso de suas atribuições, tipificou o fato atribuído ao sentenciado como falta média, podendo o Juízo da execução penal desconstituir o procedimento administrativo no todo ou em parte.
+2. Inafastável, pois, a possibilidade de o Magistrado da execução, após requerimento do órgão ministerial, "zelar pelo correto cumprimento da pena" (art. 66, VI, da LEP), o que inclui a apreciação das penalidades administrativas aplicadas pelo diretor do presídio, dentro do controle de legalidade da referida decisão administrativa.
+3. In casu, extrai-se que, embora o Conselho Disciplinar tenha entendido que a conduta praticada pelo ora recorrente de, no dia 23/2/2016, no interior da Penitenciária de Teófilo Otoni, deixar o pavilhão 3 sem autorização e arremessar um objeto ao pátio do pavilhão 1, juntamente com uma peteca, caracterizou falta disciplinar de natureza média, o Juízo da execução penal, ponderou que tal fato subsume-se à figura descrita no art. 50, VI, do mesmo diploma legal ("Art. 50. Comete falta grave o condenado à pena privativa de liberdade que: VI - inobservar os deveres previstos nos incisos II e V, do artigo 39, desta Lei").
+4. "Assim, ainda que se reconheça certa discricionariedade da autoridade administrativa prisional no exercício de dosimetria da penalidade administrativa - conforme previsto no art. 59 da LEP -, não se pode admitir a convolação dessa atividade em arbitrariedade, e, ainda, retirar do Poder Judiciário a devida intervenção" (HC 365.431/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 18/10/2016, DJe 8/11/2016).
+5. Agravo regimental não provido."
+(AgRg no RHC n. 80.729/MG, de minha Relatoria, QUINTA TURMA, julgado em 19/9/2017, DJe 26/9/2017 - grifou-se).
+" ..
+1. É possível o controle judicial - pelo juízo da execução penal - sobre decisão de Conselho Disciplinar que, no uso de suas atribuições, concluiu pela absolvição da acusação de eventual falta disciplinar de natureza grave imputada a reeducando do sistema prisional. (HC n. 365.431/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 8/11/2016).
+2. Havendo elementos para autorizar o controle judicial sobre decisão administrativa, cabe ao Juízo da execução fiscalizar/rever as decisões aplicadas em sede administrativa pelo Conselho Disciplinar.
+3. Agravo regimental improvido."
+(AgRg no RHC n. 74.016/MG, Rel. Ministro SEBASTIÃO REIS JUNIOR, SEXTA TURMA, DJe 13/6/2017 - grifou-se).
+In casu, como se percebe, não há como desautorizar o controle judicial sobre a referida decisão administrativa, sendo apropriada, para tanto, a designação de audiência de justificação pelo juízo da execução.
+Nesse contexto, é possível a revisão, pelo Juízo das Execuções, das decisões aplicadas em sede administrativa pelo Conselho Disciplinar. Por conseguinte, assiste razão à impetrante, merecendo reparo as decisões das instâncias ordinárias.
+Ante o exposto, não conheço do habeas corpus. De ofício, concedo a ordem, para cassar as decisões das instâncias ordinárias e determinar que o Juízo singular reaprecie o pleito quanto ao mérito da decisão administrativa, acerca do reconhecimento da falta disciplinar.
+Oficie-se, com urgência, ao Tribunal de origem e ao Juízo de primeiro grau, encaminhando-se-lhes cópias desta decisão.
+Publique-se. Intimem-se.
