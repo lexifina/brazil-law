@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial por incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 166/168).
+O acórdão recorrido está assim ementado (e-STJ fl. 123):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO C/C PEDIDO DE RESSARSCIMENTO DE PERDAS E DANOS - ARRENDAMENTO MERCANTIL - BEM MÓVEL - TRANSFERENCIA DA PROPRIEDADE - TRADIÇÃO - REGISTRO DETRAN - RESPONSABILIDADE DA ARRENDATÁRIA - IRRELEVÃNCIA - INVERSÃO DO ÔNUS PROBATÓRIO - IMPOSSIBILIDADE - SENTENÇA MANTIDA. - Para a anulação de um ato jurídico por erro, ou outro vício é necessário haver demonstração inequívoca de vício de consentimento da parte que se diz prejudicada pelo negócio, sob pena de improcedência do pedido. - Nos termos do artigo 1.267, do Código Civil, a propriedade de bens móveis transfere-se pela tradição. Como houve a tradição do bem do Espólio para o Banco Itaucard, que pagou por ele, não há dúvida que a propriedade do veículo é do agente financeiro que aportou valores para a sua aquisição, aguardando a contraprestação da apelante, o que não ocorreu, pois ficou ela inadimplente com as suas obrigações contratuais. Quanto ao ônus probatório ele não se mostra possível q uando não há desigualdade para a produção de provas, entre as partes. Cabe ao autor comprovar o fato constitutivo do seu direito, a teor do art. 373, I do Novo CPC, sob pena de improcedência do seu pleito.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 138/142).
+No especial (e-STJ fls. 145/154), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 104 e 166 do CC/2002 e 1º da Lei n. 6.099/1974, sustentando, em síntese, nulidade do contrato de arrendamento mercantil, tendo em vista a existência de inventário posterior à assinatura do contrato e a ausência de autorização judicial para a transferência do bem.
+Apontou violação do art. 14, § 3º, do CDC, afirmando que "quando citado para se defender de uma alegação de falha na prestação de serviço o Réu já sabia que o ônus de comprovar que havia adquirido o bem era seu, visto que a inversão do ônus probatório neste caso é automática e abstrata" (e-STJ fl. 153).
+No agravo (e-STJ fls. 171/180), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pelo recorrido (e-STJ fls. 183/191).
+É o relatório.
+Decido.
+Quanto aos arts. 104 e 166 do CC/2002 e 1º da Lei n. 6.099/1974, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls.126/127):
+Do exame dos autos, não vejo razões suficientes para declarar a nulidade do negócio jurídico celebrado entre os litigantes pois, como asseverado pelo MM. Juiz, não foi juntado a estes autos qualquer documento que comprovasse a existência de ação de inventário no qual o espólio do antigo proprietário do bem tenha pleiteado a propriedade do veículo arrendado.
+(..)
+Assim, o Banco adquiriu a propriedade do veículo quando houve a sua tradição para o arrendador , sendo irrelevante aqui , para efeito da relação jurídica estabelecida entre a autora e o Banco a irregularidade administrativa constante do documento de fl. 19, que aliás deveria ser sanada pela autora, nos termos do contrato.
+(..)
+Desta forma, como houve a tradição do bem do Espólio para o Banco Itaucard, que pagou por ele, não há dúvida que a propriedade do veículo é do agente financeiro que aportou valores para a sua aquisição, aguardando a contraprestação da apelante, o que não ocorreu, pois ficou ela inadimplente com as suas obrigações contratuais.
+Dissentir das conclusões do acórdão impugnado e reconhecer a nulidade do negócio jurídico implicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+Por fim, a insurgência quanto à inversão do ônus da prova não pode ser sustentada apenas com base no art. 14, § 3º, do CDC, o qual não regula a matéria. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Ainda que assim não fosse, para alterar os fundamentos do acórdão recorrido que concluiu não ter ficado evidenciada a desigualdade para a produção de provas, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
