@@ -1,0 +1,64 @@
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. POSSE DE ARMA DE FOGO DE USO PERMITIDO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. PRESCRIÇÃO. EXTINÇÃO DA PUNIBILIDADE. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não existe ofensa ao princípio da colegialidade nas hipóteses em que a decisão monocrática foi proferida com fundamento no art. 932 do Código de Processo Civil - CPC e art. 3º do Código de Processo Penal - CPP, os quais autorizam o relator negar provimento a recurso manifestamente inadmissível, prejudicado, deficientemente fundamentado, em confronto com súmula ou jurisprudência dominante, como é o caso dos autos. Ainda que assim não fosse, a interposição do agravo regimental leva ao órgão colegiado o julgamento do recurso especial, afastando qualquer nulidade eventualmente existente.
+2. Segundo o art. 117, IV, do Código Penal - CP, o marco interruptivo da prescrição é a publicação da sentença ou acórdão condenatórios recorríveis. Assim, entre o recebimento da denúncia em 27/2/2013 e a data da publicação da sentença em 23/2/2017, não transcorreu o prazo prescricional de 4 anos.
+3. Firme o entendimento desta Corte no sentido de que a simples conduta de possuir ou portar ilegalmente arma, acessório ou munição configura os delitos previstos nos arts. 12, 14 e 16 da Lei n. 10.826/2003.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Cuida-se de agravo regimental interposto contra decisão de fls. 441/444 que negou provimento ao agravo em recurso especial. Os embargos de declaração opostos à decisão foram rejeitados (fls. 458/460).
+O agravante argumenta, inicialmente, a necessidade do mérito do recurso especial ser apreciado pela turma julgadora, sob pena de violação ao princípio da colegialidade.
+Aduz que não pretende a reapreciação das provas, mas a discussão acerca da questão jurídica.
+Requer o recebimento do recurso nos efeitos devolutivo e suspensivo, sob o argumento de ser idoso, trabalhador autônomo, e que sua inscrição no rol de culpados impossibilitará a obtenção de certidão negativa de ações para participar de concorrências.
+No mérito, reitera a ocorrência da prescrição alegando que "na análise mais detida da questão posta à apreciação, no sentido de que considerados admissíveis os Embargos de Declaração, sua decisão integra o julgamento de mérito da ação penal, e a data a ser considerada não é 23/02/2017, e sim 02/05/2017 (prolação da douta decisão dos ED), 04 (anos) anos, 02 (meses) meses e 03 (três) dias do recebimento da denúncia" (fl. 472).
+Insiste na alegação de que houve a entrega espontânea das armas o que enseja e extinção da punibilidade.
+Sustenta, ainda, a necessidade da absolvição, pois não foi comprovada a eficiência e potencialidade da arma e da munição. Requer a aplicação do princípio da insignificância.
+Por fim, pugna pela reconsideração ou conhecimento e provimento do agravo regimental com provimento do recurso especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+Em que pesem os argumentos veiculados no presente agravo regimental, não há como modificar a decisão ora agravada.
+Sobre a análise do recurso especial por decisão monocrática, consoante o entendimento desta Corte, não existe ofensa ao princípio da colegialidade nas hipóteses em que a decisão monocrática foi proferida com fundamento no art. 932 do Código de Processo Civil - CPC e art. 3º do Código de Processo Penal - CPP, os quais autorizam o relator negar provimento a recurso manifestamente inadmissível, prejudicado, deficientemente fundamentado, em confronto com súmula ou jurisprudência dominante, como é o caso dos autos. A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. CONTRARIEDADE AO ART. 16 DO CP. ARREPENDIMENTO POSTERIOR. REPARAÇÃO NÃO INTEGRAL DO DANO. AUSÊNCIA DE VOLUNTARIEDADE. INAPLICABILIDADE DA MINORANTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Não há ofensa ao princípio da colegialidade quando a decisão monocrática é proferida em obediência ao artigo 253, parágrafo único, inciso II, alínea "b", do Regimento Interno do Superior Tribunal de Justiça, que permite ao relator negar provimento ao recurso quando a pretensão recursal esbarrar em súmula do STJ ou do STF, ou ainda, em jurisprudência dominante acerca do tema.
+ ..
+3. Agravo regimental a que se nega provimento (AgRg no AREsp 979.835/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 21/10/2016).
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. SÚMULA 568/STJ. ALEGAÇÃO DE INCIDÊNCIA DO VERBETE SUMULAR 7/STJ. TEMA NÃO SUSCITADO NAS CONTRARRAZÕES AO RECURSO ESPECIAL. PRECLUSÃO CONFIGURADA. AGENTE COM MAUS ANTECEDENTES. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO CABIMENTO. AGRAVO DESPROVIDO.
+1. Não há ofensa ao princípio da colegialidade quando o relator dar ou negar provimento ao recurso em virtude da decisão impugnada estar em consonância com jurisprudência dominante da Corte Suprema ou de Tribunal Superior, nos termos da Súmula 568/STJ.
+ ..
+4. Agravo regimental desprovido (AgRg no REsp 1593353/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 28/9/2016).
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. ALEGADA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+I - O art. 253, parágrafo único, inciso II, alínea b, do Regimento Interno deste Superior Tribunal de Justiça, com amparo no art. 932, inciso IV, alínea a, do Código de Processo Civil/2015, autoriza o relator a negar provimento a recurso nas hipóteses ali previstas (precedentes).
+ ..
+Agravo regimental desprovido (AgRg no AREsp 651.408/ES, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 19/9/2016).
+Ainda que assim não fosse, a interposição do agravo regimental leva ao órgão colegiado o julgamento do recurso especial, afastando qualquer nulidade eventualmente existente. Cito precedente:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PRINCÍPIO DA COLEGIALIDADE. CRIME CONTINUADO. AUSÊNCIA DOS REQUISITOS LEGAIS. ESPAÇO TEMPORAL ENTRE OS DELITOS SUPERIOR A TRINTA DIAS. CONCURSO MATERIAL CONFIGURADO. REVOLVIMENTO DE PROVAS DESNECESSÁRIO. SÚMULA 7/STJ. NÃO INCIDÊNCIA. REVALORAÇÃO DOS FATOS EXPRESSAMENTE DELINEADOS NO ACÓRDÃO RECORRIDO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Inexiste maltrato ao princípio da colegialidade, pois, consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica, uma vez que a parte possui mecanismos processuais de submeter a controvérsia ao colegiado por meio do competente agravo regimental. Ademais, o julgamento colegiado do recurso pelo órgão competente supera eventual mácula da decisão monocrática do relator.
+ ..
+8. Agravo regimental improvido (AgRg no REsp 1419834/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 13/12/2017).
+No mais, o recurso não prospera.
+Com efeito, segundo o art. 117, IV, do Código Penal - CP, o marco interruptivo da prescrição é a publicação da sentença ou acórdão condenatórios recorríveis. Assim, entre o recebimento da denúncia em 27/2/2013 e a data da publicação da sentença em 23/2/2017, não transcorreu o prazo prescricional de 4 anos.
+Ao contrário do que alega o agravante, os embargos de declaração foram opostos pela defesa à sentença e não pela acusação, sendo que os aclaratórios foram acolhidos, contudo, sem modificação.
+No que tange à pretendida extinção da punibilidade, reitero que não houve a entrega espontânea, pois segundo se verifica dos autos, todo o armamento foi apreendido em razão de comparecimento da Polícia Militar em sua residência, restando configurada, desse modo, a tipicidade da conduta que lhe fora imputada.
+Por fim, cumpre registrar que, como consta da decisão agravada, nos crimes de perigo abstrato, dentre eles o previsto no art. 16 da Lei n. 10.826/03, presume-se que o agente, ao realizar a conduta descrita na norma incriminadora, expõe o bem jurídico tutelado a risco, prescindindo de demonstração de efetiva situação de perigo.
+Com efeito, firme o entendimento desta Corte no sentido de que a simples conduta de possuir ou portar ilegalmente arma, acessório ou munição configura os delitos previstos nos arts. 12, 14 e 16 da Lei n. 10.826/2003.
+Confiram-se, a propósito, os seguintes julgados:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ARMA DESMUNICIADA. CRIME DE PERIGO ABSTRATO. SÚMULA N. 83/STJ. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE OU DE CONSTRANGIMENTO ILEGAL. AGRAVO NÃO PROVIDO.
+1. O entendimento pacífico deste Superior Tribunal de Justiça é no sentido de que não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte e do Supremo Tribunal Federal.
+2. O posicionamento perfilhado pelo Tribunal de origem coaduna-se com a jurisprudência deste Superior Tribunal de Justiça, que é no sentido de que o crime previsto no art. 16 da Lei n. 10.826/2003 é de perigo abstrato, sendo desnecessário perquirir sobre a lesividade concreta da conduta, porquanto o objeto jurídico tutelado não é a incolumidade física, e sim a segurança pública e a paz social, colocadas em risco com a posse da arma de fogo, ainda que desprovida de munição, revelando-se despicienda a comprovação do potencial ofensivo do artefato através de laudo pericial.
+3. Não sendo possível se vislumbrar a ocorrência de ilegalidade flagrante ou de constrangimento ilegal, resta descabida a concessão de habeas corpus, de ofício.
+4. Agravo regimental não provido (AgRg no AREsp 1.219.142/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 25/4/2018).
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. VIOLAÇÃO DO ART. 14 DA LEI N. 10.826/2003. PORTE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. DELITO DE PERIGO ABSTRATO. CRIME DE MERA CONDUTA. COMPROVAÇÃO DA LESIVIDADE. PRESCINDIBILIDADE. TIPICIDADE CONFIGURADA.
+1. Segundo a jurisprudência deste Superior Tribunal, os crimes previstos entre os arts. 12 a 18 do Estatuto do Desarmamento são considerados de perigo abstrato, notadamente em função da proteção do bem jurídico atinente à incolumidade pública.
+2. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que os crimes previstos nos arts. 12, 14 e 16 da Lei n. 10.826/2003 são de perigo abstrato, razão pela qual é desnecessária a realização de exame pericial para aferir a potencialidade lesiva do artefacto. (HC n. 356.349/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/8/2016).
+3. É irrelevante aferir a eficácia da arma de fogo para a configuração do tipo penal, que é misto-alternativo, em que se consubstanciam, justamente, as condutas que o legislador entendeu por bem prevenir, podendo até mesmo ser o simples porte de munição ou o porte de arma desmuniciada.
+4. Agravo regimental improvido. (AgRg no REsp 1.616.779/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 18/11/2016).
+HABEAS CORPUS. PORTE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. LEI Nº 10.826/2003. PRINCÍPIO DA AUSÊNCIA DE LESIVIDADE. INAPLICABILIDADE. POTENCIALIDADE LESIVA. CRIME DE PERIGO ABSTRATO. PRECEDENTES.
+1. Pacificou-se neste Superior Tribunal de Justiça o entendimento de que não se aplica o princípio da insignificância, não havendo falar em ausência de lesividade, aos crimes previstos na Lei n.º 10.826/2003, nos quais o objeto jurídico tutelado é a segurança pública e a paz social.
+2. Writ não conhecido. (HC 310.778/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 27/4/2015).
+Ainda, quanto ao pedido de recebimento do recurso nos efeitos devolutivo e suspensivo, apesar de ser inovação recursal, sendo vedado seu exame no momento, como bem asseverou a decisão de inadmissibilidade do recurso especial, prejudicado o pedido, pois o recurso foi inadmitido.
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
