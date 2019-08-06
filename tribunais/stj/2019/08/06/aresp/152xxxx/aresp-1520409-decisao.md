@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por SOCIEDADE CIVIL CASAS DE EDUCAÇÃO contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim ementado:
+APELAÇÃO CÍVEL - REPROVAÇÃO NO TERCEIRO ANO DO ENSINO FUNDAMENTAL - TEORIA DO FATO CONSUMADO - AUSÊNCIA DE RAZOABILIDADE - PREJUÍZO À FORMAÇÃO E DESENVOLVIMENTO DO ALUNO - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1 - Sobre a Teoria do Fato Consumado, o C. STJ já se posicionou no sentido de que a tese deve apenas ser aplicada em casos excepcionais, "nos quais a inércia da Administração ou a morosidade do Judiciário deram ensejo a que situações precárias se consolidassem pelo decurso do tempo". (STJ AgRg no RMS 34.189/GO).
+2 - No caso dos autos, o estudante avançou três anos escolares desde a concessão da medida liminar, não sendo razoável que, ante os visíveis efeitos já consolidados no tempo, retorne ao terceiro ano do ensino fundamental, quando já se encontra finalizando o sexto ano.
+3 - Não comprovados os danos morais alegados pela parte e ausente qualquer conduta ilícita por parte do Apelado, incabível a indenização pleiteada.
+4 - Não obstante o reconhecimento da retificação do boletim escolar por força da aplicação da Teoria do Fato Consumado, deve o Apelante arcar com os ônus processuais, haja vista ter dado causa à lide sem possuir razão para a sua instauração, em observância ao princípio da causalidade.
+5 - Recurso conhecido e parcialmente provido. (fl. 305).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, o Superior Tribunal de Justiça já se manifestou na linha de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF" (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
