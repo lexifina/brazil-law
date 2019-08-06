@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso próprio, impetrado em benefício de EMERSON BARBOSA DO PRADO contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 0000499-41.2013.8.26.0159).
+Consta dos autos que o paciente foi condenado, em primeiro grau, à pena de 7 anos e 6 meses de reclusão, pela prática do delito de tráfico de drogas (art. 33, caput, c.c art. 40, VI, ambos da Lei n. 11.343/06); e 3 anos, 7 meses e 3 dias de reclusão, pela prática do crime de porte ilegal de arma de fogo de uso restrito (art. 16, IV, da Lei n. 10.826/03).
+Interposta apelação, pela defesa, o Tribunal deu parcial provimento ao recurso para reduzir a pena, nos termos do acórdão de fls. 97/105.
+Neste writ, a impetrante sustenta, em síntese, que as instâncias ordinárias aumentaram a pena acima do mínimo legal, na terceira fase, com base no número de majorantes. Invoca a aplicação, por analogia, do Enunciado n. 443 da Súmula desta Corte.
+Requer, assim, a redução da pena.
+Sem pedido de liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem, nos termos da seguinte ementa:
+HABEAS CORPUS. TRÁFICO. DOSIMETRIA. TERCEIRA FASE. PARTICIPAÇÃO DE TRÊS ADOLESCENTES. FUNDAMENTAÇÃO CONCRETA PARA A FIXAÇÃO DE FRAÇÃO SUPERIOR AO MÍNIMO LEGAL, DIANTE DA GRAVIDADE DOS FATOS. PARECER PELA DENEGAÇÃO DA ORDEM. (fl. 118)
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do ora paciente, capaz de justificar a concessão da ordem de ofício.
+Conforme relatado, a controvérsia refere-se ao quantum de aumento da pena em razão da incidência da majorante prevista no incisos VI do art. 40 da Lei de Drogas, que assim dispõe:
+Art. 40. As penas previstas nos arts. 33 a 37 desta Lei são aumentadas de um sexto a dois terços, se:
+ ..
+VI - sua prática envolver ou visar a atingir criança ou adolescente ou a quem tenha, por qualquer motivo, diminuída ou suprimida a capacidade de entendimento e determinação;
+ ..
+Em primeiro grau, o magistrado aplicou a fração de 1/4, sob a seguinte fundamentação:
+ ..
+Na terceira fase, há causa de aumento de pena, prevista no artigo 40, inciso VI, da Lei nº 11.343/2006, pois o delito cometido pelo réu "envolveu" os adolescentes M.D.P.O., nascido aos 10.09.1995 (fl. 13), T.H.A., nascido aos 22.12.1995 (fl. 45) e J.L.O., nascido aos 02.06.1995 (fl. 253), haja vista que todos juntos, mancomunados, praticavam o vil comércio.
+Aqui vale dizer que o referido dispositivo legal não exige que a criança ou adolescente tenha sido inserida no meio criminoso pelo agente. Contenta-se, apenas, que a prática do delito envolva ou vise a atingir criança ou adolescente.
+Segundo Renato Marcão "Envolver criança ou adolescente tem o sentido de atuar conjuntamente, utilizar ou contar com a participação. É hipótese em que o agente atua em concurso eventual com criança ou adolescente, aliás, prática recorrente no ambiente do tráfico, notadamente em razão da menor capacidade de discernimento e resistência moral daqueles, a propiciar maiores facilidades na cooptação, e da condição de inimputabilidade a que os mesmos personagens-alvo estão submetidos." in Tóxicos Lei n. 11.343, de 23 de agosto de 2006 Nova Lei de Drogas Anotada e Interpretada, Editora Saraiva, 5ª ed., 2008, pág. 346.
+Em razão disso, aumento a pena do réu, considerando- se o número de adolescentes envolvidos por sua conduta, em 1/4, fixando-a em 7 (sete) anos e 6 (seis) meses de reclusão e pagamento de 750 (setecentos e cinquenta) dias-multa. (fl. 94)
+Em apelação da defesa, o Tribunal a quo manteve a referida fração, asseverando:
+ ..
+Bem comprovada a causa de aumento de pena para o crime de tráfico de drogas, relativa ao envolvimento dos adolescentes. E, como bem assinalado na sentença condenatória, envolvidos três adolescentes, justificado o aumento de um quarto. (fl. 104)
+A fundamentação apresentada no acórdão mostra-se idônea, pois, contrariando a alegação defensiva, não está baseada no número de majorantes - em verdade, apenas uma majorante incidiu na hipótese - mas sim em elementos concretos indicadores da maior gravidade dos fatos, evidenciada pela participação de três adolescentes no crime, não havendo ofensa ao Enunciado n. 443 da Súmula desta Corte, o qual assim dispõe:
+O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+Por oportuno, confiram-se os seguintes precedentes:
+HABEAS CORPUS. ARTS. 33, CAPUT, 35, CAPUT, E 40, VI, DA LEI Nº 11.343/2006, E NO ART. 12 DA LEI Nº 10.826/2003. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. ABSOLVIÇÃO (TRÁFICO DE DROGAS E RESPECTIVA ASSOCIAÇÃO) E AFASTAMENTO DA CAUSA DE AUMENTO (ART. 40, VI, DA LEI Nº 11.343/06). IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. TRÁFICO ILÍCITO DE DROGAS: DOSIMETRIA. CAUSA DE AUMENTO (ART.40, VI, DA LEI Nº 11.343/06). QUANTUM DE AUMENTO. LIVRE CONVENCIMENTO MOTIVADO. FUNDAMENTAÇÃO SUFICIENTE. PACIENTE SAMUEL. CRIME DE POSSE DE MUNIÇÃO: ATIPICIDADE. RECONHECIMENTO. IMPOSSIBILIDADE. CONDUTA TÍPICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. DOSIMETRIA. PENA-BASE. ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE NÃO EVIDENCIADA. AGRAVANTE DA REINCIDÊNCIA. EXASPERAÇÃO DA PENA EM 1/4 SEM JUSTIFICATIVA. REDUÇÃO DA FRAÇÃO PARA 1/6. ADEQUAÇÃO. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+1. Tratando-se de habeas corpus substitutivo de recurso especial, inviável o seu conhecimento.
+2. O mandamus se presta a sanar ilegalidade ou abuso de poder que resulte em coação ou ameaça à liberdade de locomoção. Não cabe nesta via estreita o revolvimento fático-probatório a ensejar a absolvição dos pacientes, quanto aos crimes de tráfico ilícito de drogas e respectiva associação, ou o afastamento da causa de aumento (art. 40, VI, da Lei nº 11.343/06).
+3. É permitido ao julgador mensurar com discricionariedade o quantum de aumento da pena a ser aplicado, desde que seja observado o princípio do livre convencimento motivado. Na espécie, as instâncias de origem fundamentaram idoneamente a exasperação da pena na fração de 1/5 (um quinto), diante da causa de aumento de pena prevista no art. 40, VI, da Lei nº 11.343/06, ao ressaltar que dois adolescentes participaram da empreitada, fato que justifica o referido incremento sancionatório.
+ ..
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir a pena do paciente Samuel, apenas, no tocante ao crime tipificado no art. 12 da Lei n 10.826/03, para 1 (um) ano, 6 (seis) meses e 20 (vinte) dias de reclusão, mais 14 (quatorze) dias-multa, mantidos os demais termos da condenação. (HC 359.055/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 09/08/2016, DJe 24/08/2016)
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. ABSOLVIÇÃO. IMPOSSIBILIDADE. INDICAÇÃO DE ELEMENTOS CONCRETOS PARA A MANUTENÇÃO DA SENTENÇA CONDENATÓRIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE NA VIA ELEITA. CAUSA ESPECIAL DE AUMENTO. FRAÇÃO. FUNDAMENTAÇÃO CONCRETA. TRÁFICO ENVOLVENDO DUAS ADOLESCENTES. ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE DE APLICAÇÃO. PACIENTE QUE INTEGRA ASSOCIAÇÃO CRIMINOSA VOLTADA PARA O TRÁFICO. PENA-BASE. NATUREZA E QUANTIDADE DE DROGAS APREENDIDAS. ART. 42 DA LEI N. 11.343/2006. EXASPERAÇÃO DA REPRIMENDA. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Verificando-se que as instâncias ordinárias, após o exame do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do paciente pelos delitos de tráfico de drogas envolvendo adolescentes e de associação para o narcotráfico, mostra-se inviável absolvê-lo por insuficiência de provas, como pretendido.
+2. Para entender de modo diverso, proclamando-se a absolvição do paciente em relação a ambos os delitos que lhe foram imputados, seria necessário o reexame aprofundado do conjunto fático-probatório, providência incabível na via estreita do habeas corpus, diante da celeridade do seu rito procedimental, notoriamente marcado pela ausência de dilação probatória.
+3. Não há constrangimento ilegal quando verificado que, tendo o tráfico de drogas envolvido duas adolescentes, houve a incidência da fração de 1/2 em relação à causa especial de aumento prevista no art. 40, VI, da Lei n. 11.343/2006.
+ ..
+6. Ordem denegada. (HC 167.971/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/02/2012, DJe 29/02/2012)
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+ ..
+ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES (ART. 35, CAPUT, C.C ART. 40, INCISOS III E IV, AMBOS DA LEI DE DROGAS). CAUSAS DE AUMENTO DE PENA COM RELAÇÃO AO SEGUNDO PACIENTE. DUAS MAJORANTES. ACRÉSCIMO DA REPRIMENDA EM 1/4 (UM QUARTO). PRESENÇA DE FATORES QUE INDICAM A NECESSIDADE DE EXASPERAÇÃO ACIMA DA FRAÇÃO MÍNIMA. COAÇÃO INEXISTENTE.
+1. É possível o incremento da pena em patamar superior ao mínimo de 1/6 (um sexto) quando há a presença de duas causas de aumento previstas no art. 40 da Lei n. 11.343/06, desde que as circunstâncias do caso assim autorizem.
+2. Verificando-se que o aumento em 1/4 (um quarto), na terceira etapa da dosimetria, encontra-se devidamente fundamentado nas particularidades do caso concreto, indicadoras da necessidade de maior reprovabilidade da conduta perpetrada, não há constrangimento ilegal a ser sanado.
+3. Habeas Corpus não conhecido. (HC 388.804/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/09/2017, DJe 27/09/2017)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
