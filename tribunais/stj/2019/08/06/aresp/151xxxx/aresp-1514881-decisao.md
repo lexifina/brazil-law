@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo apresentado por DANIEL FERREIRA BEZERRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Prestação de serviços de telefonia - Ação declaratória de inexigibilidade de débito cumulada com pretensão indenizatória - Relação jurídica entre as partes evidenciada por prova documental - Existência de débito não quitado - Envio do nome do autor a cadastro de proteção ao crédito justificado - Danos morais indevidos - Apelo improvido.
+Quanto à controvérsia apresentada, pela alínea a do permissivo constitucional, alega violação do art. 373, II, do CPC, no que concerne à falta de comprovação de fato impeditivo, modificativo ou extintivo do direito do autor, trazendo o(s) seguinte(s) argumento(s):
+Portanto, tendo em vista que a parte recorrida não se desincumbiu de comprovar a existência de fato impeditivo, modificativo ou extintivo do direito da agravante, nos moldes do artigo 373, inciso II, do Código de Processo Civil, uma vez que não juntou aos autos nenhum contrato, a procedência dos pedidos formulados na inicial era a medida de rigor (fl. 152).
+É o relatório. Decido.
+Quanto à primeira controvérsia, o acórdão recorrido assim decidiu:
+Da análise do teor da contestação e da vasta prova documental que a instruiu, depreende-se que os dados pessoais do cliente, o número do contrato e de identificação, constantes na tela de contratação de fls. 17/18 e nas faturas de fls. 47/88, coincidem com as informações contidas no documento que comprova a negativação do nome do autor a fls. 11/12.
+Nesse contexto, é certo que a ré demonstrou a existência da contratação dos seus serviços de telefonia móvel pelo autor.
+ ..
+Não bastasse isso, a documentação apresentada permite concluir que as faturas vencidas desde a celebração da avença até maio de 2012 foram pagas, sobrevindo inadimplemento somente a partir de junho de 2012, de modo que o débito em aberto perfaz R$ 147,26 (fls. 83), sendo este o valor que ensejou a negativação levada a efeito em agosto de 2012.
+Sendo assim, tendo em vista a existência de prestações em aberto, sem a necessária comprovação de quitação, a inscrição do nome do autor em órgão de proteção ao crédito mostrou-se justificada.
+E considerando que a negativação do nome do autor decorreu do inadimplemento no tocante ao cumprimento de obrigação contratual, não há elementos concretos de convencimento que autorizem afirmar ter ele padecido das lesões subjetivas de humilhação, vergonha ou constrangimento, exteriorizadas por distúrbios visíveis, no âmbito familiar ou profissional, a motivar o arbitramento de indenização por danos morais (fls. 145/146).
+Tal o contexto, a toda evidência, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
