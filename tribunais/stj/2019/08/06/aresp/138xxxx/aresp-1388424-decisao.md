@@ -1,0 +1,41 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. INCLUSÃO DO NOME DO DEVEDOR EM CADASTRO DE INADIMPLENTES. POSSIBILIDADE. PROVIDÊNCIA A CARGO DO JUÍZO. TEOR DO ART. 782, § 2o. DO CÓDIGO FUX. APLICAÇÃO SUBSIDIÁRIA DO REFERIDO DIPLOMA ÀS EXECUÇÕES FISCAIS. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL DO IBAMA.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo IBAMA, com fundamento no art. 105, III, alínea a da Constituição da República, contra acórdão proferido pelo egrégio Tribunal Regional da 2a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. INCLUSÃO DO NOME DO DEVEDOR. SERASAJUD. IMPOSSIBILIDADE. ADESÃO. BUSCA POR INFORMAÇÕES PATRIMONIAIS. ÔNUS DO CREDOR. CPC. USO SUBSIDIÁRIO À LEF. RESTRIÇÕES. RECURSO IMPROVIDO
+1 - Trata-se de agravo de instrumento interposto objetivando a reforma da decisão que indeferiu requerimento de inclusão do nome do executado no cadastro de inadimplentes do SERASA.
+2 - Em que pese a previsão da possibilidade de envio de ordens judiciais e acesso ao cadastro do SERASA por meio eletrônico, através da adesão dos Tribunais ao sistema SERASAJUD, consoante Termo de Cooperação Técnica n.º 020/2014 do Conselho Nacional de Justiça, a ausência momentânea da implementação da medida por este Tribunal impede, por ora, a interação com o sistema.
+3 - As diligências na localização de bens, para a garantia do processo, são atribuições do credor. A exceção seria apenas no caso de ser comprovadamente impossível para o credor obter as informações patrimoniais.
+4 - O procedimento almejado encontra óbice, sim, no artigo 782 do CPC que dispõe que a inclusão do nome do executado nos cadastros de inadimplentes somente pode ocorrer em sede de execução definitiva de título judicial.
+5 - Por tratar-se de execução fiscal a ação originária, ainda que o CPC possa ser usado subsidiariamente à Lei n.º 6.830/80, não é em tudo que se aplica às demandas judiciais normatizadas pela LEF, mas apenas em casos bem específicos e em situações bem restritas, o que não é o caso.
+6 - Agravo de instrumento conhecido e improvido (fls. 34).
+2. Nas razões do seu Apelo Nobre inadmitido, a parte recorrente aponta violação dos arts. 139, 782, § 3o. e 797 Código Fux e 1o. da Lei 6.830/1980, sustentando, em síntese, que a medida coercitiva pretendida, qual seja, inscrição do devedor no SERASA, é aplicável às Execuções Fiscais.
+3. Sem contrarrazões (fls. 49), o Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 55/57).
+4. É o relatório.
+5. Assiste razão ao recorrente.
+6. No caso, o Tribunal local se manifestou nos seguintes termos:
+3. Em que pese a previsão da possibilidade de envio de ordens judiciais e acesso ao cadastro do SERASA por meio eletrônico, através da adesão dos Tribunais ao sistema SERASAJUD, consoante Termo de Cooperação Técnica n.º 020/2014 do Conselho Nacional de Justiça, a ausência momentânea da implementação da medida por este Tribunal impede, por ora, a interação com o sistema.
+4. Além do mais, as diligências na localização de bens, para a garantia do processo, são atribuiçoes do credor. A exceção seria apenas no caso de ser comprovadamente impossível para o credor obter as informações patrimoniais. Confira-se:
+(..)
+5. Por fim, ao contrário do mencionado pelo recorrente, o procedimento almejado encontra óbice, sim, no artigo 782, §§ 3º e 5º do CPC, que dispõe que a inclusão do nome do executado nos cadastros de inadimplentes somente pode ocorrer em sede de execução definitiva de título judicial. A interpretação da parte agravante vai além do disciplinado no ordenamento jurídico. E por tratar-se de execução fiscal a ação originária, ainda que o CPC possa ser usado subsidiariamente à Lei n.º 6.830/80, não é em tudo que se aplica às demandas judiciais normatizadas pela LEF, mas apenas em casos bem específicos c em situações bem restritas, o que não é o caso (fls. 32/33).
+7. Ocorre que referido entendimento não se coaduna com prescrições legais, tampouco com o entendimento consolidado desta Corte Superior.
+8. O art. 782, § 3o. do Código Fux dispõe o seguinte:
+Art. 782. § 3o A requerimento da parte, o juiz pode determinar a inclusão do nome do executado em cadastros de inadimplentes.
+9. Sobre o tema, a jurisprudência deste Sodalício entende que é possível a inclusão de débitos de natureza tributária inscritos em dívida ativa nos cadastros de proteção ao crédito, independentemente de sua cobrança mediante Execução Fiscal (RMS 31.859/GO, Rel. Min. HERMAN BENJAMIN, DJe 1o.7.2010). No mesmo sentido: AREsp. 1.339.480/RJ, Rel. Min. FRANCISCO FALCÃO, DJe 14.2.2019; AgRg no AREsp. 800.895/RS, Rel. Min. HUMBERTO MARTINS, DJe 5.2.2016.
+10. Do mesmo modo, o art. 771 do Código Fux é claro ao estabelecer a incidência do art. 782 aos processos executivos em geral e não só àqueles decorrentes de título judicial, in verbis:
+Art. 771. Este Livro regula o procedimento da execução fundada em título extrajudicial, e suas disposições aplicam-se, também, no que couber, aos procedimentos especiais de execução, aos atos executivos realizados no procedimento de cumprimento de sentença, bem como aos efeitos de atos ou fatos processuais a que a lei atribuir força executiva.
+11. Ademais, o art. 1o. da LEF determina a aplicação subsidiária do Código Fux às Execuções Fiscais, não havendo qualquer disposição naquela Lei conflitante com o art. 782 de modo a autorizar o Juiz a afastá-lo do caso concreto.
+12. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. DECLARAÇÃO DO VALOR ENTENDIDO COMO CORRETO E AUSÊNCIA DE APRESENTAÇÃO DA MEMÓRIA DE CÁLCULO. APLICAÇÃO SUBSIDIÁRIA DO ART. 739-A, § 5º, DO CPC. POSSIBILIDADE. REJEIÇÃO LIMINAR DA AÇÃO DESCONSTITUTIVA. EMENDA DA INICIAL. INVIABILIDADE.
+I - Diante da reforma no processo de execução civil, veiculada pela Lei n. 11.382/06, necessária sua compatibilização com o regime jurídico da cobrança da Dívida Ativa da União, dos Estados, do Distrito Federal, dos Municípios, e de suas respectivas autarquias (art. 1º da Lei n. 6.830/80).
+II - Constatada uma relação de complementaridade entre ambos, e não de especialidade excludente, autorizada está a aplicação das normas do Código de Processo Civil naquilo que não conflitem com a Lei n. 6.830/80, em caráter subsidiário.
+(..)
+VI - Agravo Regimental provido (AgRg no REsp. 1.453.745/MG, Rel. p/ Acórdão Min. REGINA HELENA COSTA, DJe 17.4.2015).
+
+PROCESSO CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. EFEITO SUSPENSIVO. ART. 739-A, § 1º, DO CPC. APLICABILIDADE.
+1. Nos termos do disposto no art. 1º da Lei 6.830/80, o preceito do Estatuto Processual Civil é aplicável em execução fiscal de forma subsidiária. No caso, inexistente norma específica na legislação especial sobre os efeitos suspensivos aos embargos, cabível a aplicação do disposto no art. 739-A do CPC, incluído pela Lei 11.382/2006. Precedentes.
+2. Esse entendimento foi referendado no REsp n. 1.272.827/PE, da relatoria do Ministro Mauro Campbell Marques, DJe 31.5.2013, julgado em 22.5.2013, sob o rito do art. 543-C do CPC e da Resolução 8/2008 do STJ.
+3. Agravo regimental não provido (AgRg no REsp. 1.306.422/RS, Rel. Min. CASTRO MEIRA, DJe 1o.7.2013).
+13. Assim, ao entender que a inclusão do nome do executado em cadastro de inadimplente seria medida a ser adotada diretamente pela exequente, o Tribunal de origem negou vigência ao art. 782, § 3o. do Código Fux, adotando premissa jurídica equivocada.
+14. Por fim, é de bom alvitre que seja determinado o retorno dos autos para que, a partir dos elementos jurídicos delineados nessa decisão, se proceda a novo julgamento acerca da pertinência e/ou necessidade da inclusão do nome do executado em cadastro de inadimplentes no caso concreto, a fim de evitar indevida supressão de instância.
+15. Diante do exposto, conhece-se do Agravo do IBAMA, para dar provimento ao seu Recurso Especial, determinando-se o retorno dos autos ao Tribunal de origem para que, a partir dos elementos jurídicos delineados nessa decisão, se proceda a novo julgamento acerca da pertinência e/ou necessidade da inclusão do nome do executado em cadastro de inadimplentes no caso concreto, a fim de evitar indevida supressão de instância.
+16. Publique-se. Intimações necessárias.
