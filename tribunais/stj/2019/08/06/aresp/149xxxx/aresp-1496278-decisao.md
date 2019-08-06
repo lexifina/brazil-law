@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial por aplicação da Súmula n. 83 do STJ (e-STJ fls. 459/460).
+O Tribunal de origem deu parcial provimento ao recurso da agravada e negou provimento ao recurso adesivo nos termos da seguinte ementa (e-STJ fl. 354):
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. INSTRUMENTO PARTICULAR DE PROMESSA DE COMPRA E VENDA. RESCISÃO UNILATERAL. RESPONSABILIDADE DO COMPRADOR. MULTA CONTRATUAL ESTIPULADA EM 20 (VINTE POR CENTO) SOBRE O VALOR ADIMPLIDO. LEGALIDADE. DEVOLUÇÃO EM PARCELA ÚNICA. JUROS DE MORA. TRÂNSITO EM JULGADO DO DECISUM. COMISSÃO DE CORRETAGEM. PREVISÃO CONTRATUAL. INFORMAÇÃO CLARA E PRECISA. RETENÇÃO DEVIDA. SUCUMBÊNCIA RECÍPROCA CONFIGURADA. HONORÁRIOS RECURSAIS. ARBITRAMENTO NO TETO LEGAL.
+1. Na resolução do compromisso de compra e venda por culpa do promitente comprador, o percentual de retenção em 20% dos valores pagos não é exasperado, já que conforme o posicionamento do Superior Tribunal de Justiça, é lícito ao vendedor reter entre 10% e 25% dos valores pagos.
+2. Nos contratos de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, é abusiva a cláusula contratual que determine, no caso de resolução, a restituição dos valores devidos de forma parcelada, independentemente de que tenha dado causa ao fim do negócio.
+3. A restituição deve ser feita de uma só vez, pois a pretensão de que se faça de forma parcelada induz enriquecimento ilícito.
+4. Na hipótese em que a rescisão contratual deu-se por iniciativa do comprador, por não mais suportar o pagamento das parcelas, e em que se busca a restituição de valores pagos, o termo inicial dos juros moratórios deve ser o trânsito em julgado, pois inexiste mora anterior da ré.
+5. É válida a cláusula contratual que transfere ao promitente comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição, com destaque do valor pago a título de comissão de corretagem, cuja matéria foi objeto de julgamento em sede de recurso repetitivo (REsp nº1.551.956).
+6. Se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles os ônus sucumbenciais, nos termos do artigo 86 do Código de Processo Civil.
+7. Incabível a majoração do valor dos honorários advocatícios fixados anteriormente, considerando que já foram arbitrados no patamar máximo previsto em lei.
+8. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA. RECURSO ADESIVO CONHECIDO, MAS DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 363/381).
+No recurso especial (e-STJ fls. 385/397), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente apontou, além de dissídio jurisprudencial, ofensa ao art. 405 do CC2/002, alegando que se contam os juros de mora desde a citação inicial. Aduziu, nesse contexto, que, em se tratando de responsabilidade contratual, os juros moratórios devem ser fixados a partir da citação, e não do trânsito em julgado.
+Sustentou a culpa exclusiva da recorrida pela rescisão do contrato e defendeu o direito de retenção de valores nos termos consignados na sentença. Ressaltou ser razoável reter o percentual de 10% (dez por cento) do valor pago.
+Foram apresentadas contrarrazões (e-STJ fls. 443/457).
+No agravo (e-STJ fls. 463/473), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 478/492).
+É o relatório.
+Decido.
+Não há como conhecer do recurso quanto às teses de que a rescisão do contrato se deu por culpa exclusiva da recorrida e de ser razoável reter o percentual 10% (dez por cento) do valor pago. Isso porque faltou a indicação dos dispositivos legais aos quais foi atribuída interpretação divergente. Aplica-se a Súmula n. 284/STF.
+Ademais, reexaminar o decidido no acórdão impugnado a fim de alterar o percentual de retenção dos valores pagos e verificar a culpa pela rescisão do contrato esbarraria no óbice contido nas Súmulas n. 5 e 7 do STJ.
+Em relação ao termo inicial dos juros moratórios, o posicionamento adotado pelo Tribunal de origem se encontra em consonância com a jurisprudência desta Corte. O STJ tem entendimento pacífico de que a mora constitui-se a contar do trânsito em julgado da condenação. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES. COMPRA E VENDA DE IMÓVEL. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO DA DECISÃO. INOVAÇÃO RECURSAL. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O acórdão recorrido decidiu em sintonia com a jurisprudência do Superior Tribunal de Justiça no sentido de que, em caso de rescisão do contrato de compromisso de compra e venda de imóvel por desistência dos adquirentes, na qual os autores pretendem a restituição das parcelas pagas de maneira diversa da cláusula penal pactuada, o termo inicial dos juros moratórios é o trânsito em julgado da decisão condenatória. Precedentes.
+3. É inviável a análise de tese não suscitada nas razões do recurso especial por se tratar de evidente inovação recursal.
+4. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+5. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento. Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.296.227/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/12/2018, DJe 14/12/2018.)
+DIREITO CIVIL. RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO. DENÚNCIA PELO COMPROMISSÁRIO COMPRADOR EM FACE DA INSUPORTABILIDADE NO PAGAMENTO DAS PRESTAÇÕES. POSSIBILIDADE. DEVOLUÇÃO PARCIAL DO VALORES PAGOS. TAXA DE OCUPAÇÃO DEVIDA POR TODO O PERÍODO DE POSSE SOBRE O IMÓVEL. ENTENDIMENTO ADOTADO PARA EVITAR O ENRIQUECIMENTO SEM CAUSA DO COMPRADOR. JUROS MORATÓRIOS. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO. RECURSO ESPECIAL PROVIDO.
+1. O entendimento firmado no âmbito da Segunda Seção é no sentido de ser possível a resolução do compromisso de compra e venda, por parte do promissário comprador, quando se lhe afigurar economicamente insuportável o adimplemento contratual.
+2. Ocorrendo a resolução do compromisso por culpa do promissário comprador, este deverá ser ressarcido parcialmente sobre o valor pago.
+3. No caso em julgamento, considerando suas peculiaridades, a taxa de ocupação deve incidir desde o início da permanência no imóvel até sua efetiva devolução, tendo em vista a necessidade de não gerar enriquecimento sem causa por parte do promissário comprador.
+4. Na hipótese de resolução contratual do compromisso de compra e vend por desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios serão computados a partir do trânsito em julgado da decisão.
+5. Recurso especial provido.
+(REsp 1.211.323/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 1º/10/2015, DJe 20/10/2015.)
+Dessa maneira, o posicionamento adotado pelo Tribunal de origem está de acordo com a jurisprudência deste Superior Tribunal de Justiça, incidindo in casu a Súmula n. 83 do STJ.
+Por fim, o conhecimento de recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973 (CPC/2015, art. 1.029, § 1º).
+O recorrente não se desincumbiu de tais ônus, porque se limitou a transcrever ementas de julgados. Assim, é inviável conhecer da divergência jurisprudencial apontada. A propósito: AgInt no REsp n. 1.602.814/SC (Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/5/2017, DJe 31/5/2017).
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, §§ 1º e 11, do CPC/2015, seria caso de majorar os honorários advocatícios. No entanto, deixo de fazê-lo, tendo em vista que foram arbitrados em percentual máximo.
+Publique-se e intimem-se.
