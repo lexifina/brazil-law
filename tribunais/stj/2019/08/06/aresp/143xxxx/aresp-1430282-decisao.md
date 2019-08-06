@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob aplicação das Súmulas n. 7 do STJ e 284 do STF.
+O TJRJ negou provimento ao recurso em acórdão assim ementado (e-STJ fl. 563):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CONTRATO DE COMPRA E VENDA E PRESTAÇÃO DE SERVIÇOS. PASSIVO QUE FOI RENEGOCIADO COM A RÉ COM A EMISSÃO DE QUATRO CHEQUES PARA PAGAMENTO, DOS QUAIS DOIS RETORNARAM SEM FUNDOS. REPACTUADA A DÍVIDA COM A EMISSÃO DE NOVO CHEQUE NO VALOR DE R$ 198.146,28, QUE NÃO FOI HONRADO PELA RÉ. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO DA RÉ, ALEGANDO QUE HAVIA QUITADO O VALOR DE R$ 50.000,00 E QUE O MONTANTE RELATIVO AOS JUROS É INDEVIDO. LAUDO PERICIAL ESCLARECE QUE O VALOR QUITADO FOI AMORTIZADO DO SALDO DEVEDOR E QUE O PERCENTUAL DE JUROS APLICADO FOI DE 0,82%. DÍVIDA COBRADA PELA AUTORA QUE DECORRE DE TRANSAÇÃO COMERCIAL ENTRE AS PARTES, QUE FOI OBJETO DE RENEGOCIAÇÃO ENTRE OS LITIGANTES, PORTANTO, TRATA-SE DE UMA COBRANÇA LEGÍTIMA. TAXA DE JUROS QUE NÃO SE MOSTRA ABUSIVA. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. RECURSO A QUE SE NEGA PROVIMENTO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 580/584).
+Nas razões do recurso especial (e-STJ fls. 586/596), interposto com base no art. 105, III, "a", da CF, a recorrente apontou violação do art. 1.022, II, do CPC/2015, afirmando que o acórdão seria omisso por não ter apreciado "os fundamentos de que (a) o pagamento de R$ 50.000,00, feito pela recorrente à recorrida, destinou-se ao abatimento da dívida estampada no cheque (e não ao pagamento da continuidade da prestação de serviços e emissão de novas notas fiscais), e que (b) os R$ 70.956,68 cuidam de juros abusivos incidentes sobre o capital (e não passivo da recorrente embutido no valor do cheque), jamais encontrará motivos suficientes para enxergar a contrariedade aos arts. 352 e 397, do CC, e 371 e 479, do CPC e, assim, excluir da dívida tais valores absolutamente indevidos" (e-STJ fl. 595).
+Foram oferecidas contrarrazões (e-STJ fls. 606/609).
+No agravo (e-STJ fls. 639/650), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 654/658).
+É o relatório.
+Decido.
+Não é possível o conhecimento do recurso especial na parte em que apontada violação do art. 1.022, II, do CPC/2015, quando a petição recursal não indicar os motivos pelos quais se considera ofendido este dispositivo legal, limitando-se a sustentar que o Tribunal foi omisso quanto as questões expostas no recurso, sem contudo debatê-las o que se pode aferir da comparação entre os aclaratórios opostos e o acórdão embargado. Isso porque, conforme entendimento pacífico do STJ, aplicável a Súmula n. 284 do STF nos casos em que a alegação de afronta ao art. 1.022 do CPC/2015 é feita de forma genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios ou obscuros, como ocorreu na hipótese.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. INCIDÊNCIA. DANO MORAL.
+HONORÁRIOS. VALOR ARBITRADO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. O recurso especial que indica violação do art. 535 do Código de Processo Civil de 1973, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal.
+2. Rever questão decidida com base no exame das circunstâncias fáticas da causa esbarra no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+3. O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa. Assim, afastando-se a incidência da Súmula nº 7/STJ, somente comporta revisão por este Tribunal quando irrisório ou exorbitante, o que não ocorreu na hipótese dos autos, em que arbitrado em R$ 8.000,00 (oito mil reais).
+4. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de não permitir a modificação dos valores fixados por equidade a título de honorários advocatícios, por meio de recurso especial, se estes não se mostrarem irrisórios ou exorbitantes, haja vista a incidência da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.008.579/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/3/2017, DJe 24/3/2017)
+Além do que, as razões do recurso especial limitam-se a alegar, de forma genérica, a suposta violação dos arts. 352 e 397 do CC/2002 e 371 e 479 do CPC/2015, sem, contudo, expor por que esses dispositivos teriam sido contrariados, o que caracteriza também deficiência na fundamentação recursal, a teor da Súmula n. 284 do STF. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NOMEAÇÃO PARA CARGO EM COMISSÃO A TÍTULO PRECÁRIO. REGIME JURÍDICO ADMINISTRATIVO. FGTS. ART. 19-A DA LEI N. 8.036/90. INAPLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. (..)
+4. Considera-se deficiente a fundamentação do recurso especial, quando não demonstrada, clara e objetivamente, a violação de dispositivos de lei federal, a teor da Súmula 284 do STF.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 348.966/MS, Relator Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 11/2/2014, DJe 25/2/2014.)
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do  CPC/2015,  MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
