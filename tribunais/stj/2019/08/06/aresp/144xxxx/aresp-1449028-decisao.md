@@ -1,0 +1,25 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TUTELA ANTECIPADA. AÇÃO ANULATÓRIA DE PROCEDIMENTO ADMINISTRATIVO. ACÓRDÃO RECORRIDO QUE, EM SEDE DE AGRAVO DE INSTRUMENTO, REFORMOU O INDEFERIMENTO DO PEDIDO DE ANTECIPAÇÃO DA TUTELA JURISDICIONAL, CONCEDENDO-A. IMPOSSIBILIDADE DE REVISÃO NESTA SEARA RECURSAL. ENTENDIMENTO DO STJ: AGRG NO ARESP 361.284/PI, REL. MIN. BENEDITO GONÇALVES, DJE 22.10.2014 E DA SUPREMA CORTE: SÚMULA 735/STF. AGRAVO EM RECURSO ESPECIAL DO MUNICÍPIO DE CASCAVEL/PR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial fundado na alínea a do art. 105, III da Constituição Federal, no qual MUNICÍPIO DE CASCAVEL/PR se insurge contra Acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO ANULATÓRIA DE PROCEDIMENTO ADMINISTRATIVO CUMULADA COM DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. MULTA. PROCON/PR. CONTRATO DE FINANCIAMENTO. ENCARGOS E TARIFAS PREVISTOS NO CONTRATO E AUTORIZADOS PELA CONTRATANTE. FUNDAMENTAÇÃO GENÉRICA. AUSÊNCIA DE SUBSUNÇÃO DOS FATOS À NORMA. SUSPENSÃO DA EXIGIBILIDADE DA MULTA.
+A fundamentação que julgou subsistente a multa administrativa não observou a subsunção dos fatos à norma para motivar a aplicação da penalidade e o seu valor. Tais fatos, nessa fase de cognição sumária, compromete a sua exigibilidade.
+RECURSO PROVIDO (fls. 583).
+2. Em seu Apelo Especial, a parte recorrente aponta violação dos arts. 55, 56, I e 57 da Lei 8.078/1990.
+3. Sobreveio juízo negativo de admissibilidade (fls. 648), fundado na aplicação da Súmula 7/STJ, o que ensejou a interposição do presente Agravo (fls. 248/258).
+4. É o relatório.
+5. A irresignação não merece prosperar.
+6. De início, não se pode olvidar que o presente Agravo pretende conferir tramitação ao Recurso Especial interposto contra o acórdão da Corte Paranaense que, em sede de Agravo de Instrumento reformou a decisão interlocutória de primeiro grau que havia indeferido o pedido de antecipação da tutela jurisdicional, concedendo-o por entender presentes os requisitos legais.
+7. Desta maneira, verifica-se que o Apelo Raro somente poderia buscar a reanálise destes requisitos legais para a concessão da tutela antecipada, hipótese que não pode ser revista em sede de Recurso Especial, conforme vem se posicionando a jurisprudência desta Corte. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 557 DO CPC. INEXISTÊNCIA. MATÉRIA ANALISADA PELO COLEGIADO. CONCURSO PÚBLICO. ANTECIPAÇÃO DE TUTELA. REQUISITOS. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. Sem êxito a alegação de violação do disposto no art. 557 do CPC, pois, inicialmente, a inovação por ele trazida instituiu a possibilidade de, por decisão monocrática, o relator deixar de admitir recurso, entre outras hipóteses, quando manifestamente improcedente ou contrário a súmula ou a entendimento dominante pela jurisprudência daquele Tribunal, ou de Cortes Superiores, rendendo homenagem à economia e celeridade processuais.
+2. Ademais, a eventual nulidade da decisão monocrática fica superada com a reapreciação do recurso pelo órgão colegiado, na via de agravo regimental, conforme precedentes desta Corte.
+3. A iterativa jurisprudência desta Corte é no sentido de que, para analisar os critérios adotados pela instância ordinária que ensejaram a concessão ou não da liminar ou da antecipação dos efeitos da tutela, é necessário o reexame dos elementos probatórios a fim de aferir a prova inequívoca que convença da verossimilhança da alegação, nos termos do art. 273 do CPC, o que não é possível em recurso especial, dado o óbice da Súmula 7 desta Corte.
+Agravo regimental improvido (AgRg no AREsp. 618.137/MS, Rel. Min. HUMBERTO MARTINS, DJe 3.2.2015).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FAZENDA PÚBLICA. DIREITO À SAÚDE. ANTECIPAÇÃO DE TUTELA. EXAME DOS REQUISITOS DO ART. 273 DO CPC. SÚMULA 7/STJ. ACÓRDÃO IMPUGNADO ARRIMADO EM DUPLO FUNDAMENTO. QUESTÃO CONSTITUCIONAL NÃO IMPUGNADA. INCIDÊNCIA DA SÚMULA 126 DO STJ.
+1. Rever as conclusões do acórdão recorrido acerca da presença dos requisitos autorizadores da antecipação de tutela demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça.
+2. O Tribunal a quo fundamentou também sua decisão com base em preceitos constitucionais, e não foi manejado o imprescindível recurso extraordinário, de modo que aplica-se, à espécie, o enunciado 126 da Súmulas do STJ.
+3. Agravo regimental não provido (AgRg no AREsp. 361.284/PI, Rel. Min. BENEDITO GONÇALVES, DJe 22.10.2014).
+8. Na mesma linha de entendimento, o STF editou a Súmula 735 segundo a qual não cabe Recurso Extraordinário contra acórdão que defere medida liminar.
+9. Diante do exposto, com esteio no art. 544, § 4o., II, a do CPC, nega-se provimento ao Agravo em Recurso Especial do MUNICÍPIO DE CASCAVEL/PR.
+10. Publique-se. Intimações necessárias.
