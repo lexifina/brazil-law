@@ -1,0 +1,52 @@
+DECISÃO
+
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO Responsabilidade Civil Ação declaratória de inexigibilidade de débito c.c. indenização por danos morais Operações de empréstimo, saques e compras não reconhecidas pelo autor Compras impugnadas que fogem ao perfil do autor - Falha na prestação dos serviços reconhecida - Responsabilidade objetiva configurada - Declaração de inexigibilidade dos débitos confirmada Estorno dos valores descontados indevidamente efetuado Dano moral não configurado Fatos que não passaram de mero aborrecimento, comumente enfrentado no cotidiano da vida moderna - Indenização afastada - Sentença reformada em parte - Recurso do banco réu parcialmente provido - Recurso do autor prejudicado." (e-STJ, fl. 229)
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 340/344).
+Em suas razões recursais, a agravante aponta violação à Súmula 479/STJ, aos arts. 14 do Código de Defesa do Consumidor, 186 e 927 do Código Civil de 2002 e divergência jurisprudencial, sustentando, em síntese (a) que houve falha na prestação de serviços decorrente do uso da conta corrente por terceiros estranhos a lide e tomadas de crédito indevido, o que implica em responsabilidade objetiva da agravada, razão pela qual o dano moral experimentado deveria ter sido ressarcido, (b) que os valores indevidos do salário não foram ressarcidos até o momento, (c) que não há que se falar em mero aborrecimento, pois o uso indevido de sua conta corrente resultou em prejuízos patrimoniais e extrapatrimoniais e (d) que sua conta não estava negativa à época da fraude.
+É o relatório. Passo a decidir.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Inicialmente, quanto à alegada aplicação errônea da Súmula 479 do STJ, registre-se que "a análise de ofensa à Súmula é inviável porque está à margem das hipóteses de cabimento do Recurso Especial, previstas no art. 105, III, da Constituição Federal" (AgRg no Ag 1.236.658/MG, Ministro HERMAN BENJAMIN, DJe de 2/3/2010). Esta Corte, sobre o tema, editou a Súmula 518, que preleciona: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula."
+No tocante a suposta violação aos arts. 14 do CDC e 186 e 927 do CC/02, tem-se que o Tribunal de origem concluiu, diante do contexto fático-probatório dos autos, que não há que se falar em dano moral indenizável na presente hipótese em que, apesar de reconhecida falha na prestação de serviço correspondente a transações bancárias irregulares, foi efetuado estorno dos referidos valores e de seus encargos, restando configurada situação de mero aborrecimento, in verbis:
+"Nesse cenário, observa-se dos autos que o banco-réu apesar de afirmar que as operações foram realizadas mediante o uso do cartão e da senha pessoal do autor, reconheceu a irregularidade das transações, efetuando o estorno dos valores descontados indevidamente e seus respectivos encargos.
+(..)
+Assim, por tudo quanto apurado nos autos, não há como deixar de concluir que as operações impugnadas na conta bancária do autor se deram em função de falha ou mesmo defeito na prestação dos serviços pelo réu.
+Diante da notícia trazida aos autos resta reconhecido o estorno feito pelo banco dos valores descontados indevidamente.
+Também não colhe a alegação do autor que o salário recebido no dia 20/07/2016 não foi ressarcido.
+Como se sabe, quando o saldo da conta estiver negativo, todo crédito é incorporado. Assim, não foi o salário que foi descontado, mas sim absorvido pelo saldo negativo.
+Todavia, apesar de reconhecida a ilicitude das transações, tributado o devido respeito ao juízo de piso, não restou configurada a ocorrência de dano de natureza extrapatrimonial.
+Sob o prisma da relevância necessária à análise da dor moral, observa-se que, no caso, os fatos, quando muito, causaram irritação e aborrecimento, ocorrências desagradáveis comumente enfrentadas no cotidiano da vida moderna. Não indenizáveis, portanto." (e-STJ, fls. 231/233)
+Incialmente, tem-se que a decisão acima está em consonância com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que o mero aborrecimento não implica em danos morais indenizáveis.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONFIGURAÇÃO DO DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. VALOR DA INDENIZAÇÃO. REDUÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. DESCABIMENTO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. O Tribunal de origem, com fundamento no contexto probatório existente nos autos, concluiu que o inadimplemento ultrapassou o mero aborrecimento e evidenciou a existência de danos morais.
+Alterar esse entendimento demandaria reexame do conjunto fático-probatório dos autos, vedado em recurso especial.
+3. Só em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pela Corte a quo não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 777.391/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 30/04/2018)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VACINA VENCIDA. DEFICIÊNCIA NA PRESTAÇÃO DO SERVIÇO. AUSÊNCIA DE DEMONSTRAÇÃO, NO CASO, DO DANO MORAL INDENIZÁVEL. RECURSO NÃO PROVIDO.
+1. Ainda que a responsabilidade seja objetiva, é imprescindível a comprovação do dano e do nexo de causalidade pelo consumidor para que haja a condenação a danos morais.
+2. Na espécie, conforme consta do acórdão recorrido, apesar de terem sido aplicadas vacinas vencidas e ineficientes aos autores, o que configura defeito na prestação do serviço, os danos foram apenas presumidos. De outro lado, eles foram novamente vacinados, assim que constatada a irregularidade, inclusive, sem nenhum custo adicional.
+Além disso, não foi retratado nenhum efeito colateral proveniente daquelas vacinas.
+3. "In casu, a aplicação de vacina vencida, por si só, não é capaz de ensejar a reparação por danos morais, uma vez que não foi constatada nenhuma intercorrência que pudesse abalar a honra dos autores ou causar-lhes situação de dor, sofrimento ou humilhação.
+Embora seja inquestionável o aborrecimento e dissabor por que passaram os ora recorrentes, estes não foram suficientes para atingir os direitos de personalidade, enquanto consumidores, a ponto de justificar o dever indenizatório". (AgInt no AgInt no AREsp 869.188/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/03/2017, DJe 21/03/2017)
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 1091417/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/10/2017, DJe 05/10/2017)
+Ademais, a modificação de tais entendimentos lançados no v. acórdão recorrido no sentido de que o experimentado pelo agravante implicaria em danos morais indenizáveis, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+"AGRAVO INTERNO. RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO BANCÁRIO. DESCONTO EM CONTA CORRENTE ONDE É DEPOSITADO SALÁRIO. LIMITAÇÃO. 30% DOS VENCIMENTOS. AUSÊNCIA DE ATO ILÍCITO E DE PROVA DE DANO. REEXAME DE PROVAS.
+1. É legítimo o desconto, em conta corrente, de parcelas de empréstimo, limitando-se tal desconto a 30% da remuneração, tendo em vista o caráter alimentar dos vencimentos (súmula 83 do STJ).
+Precedentes.
+2. Caso em que o Tribunal de origem entendeu não configurado ato ilícito passível de reparação. A reforma do acórdão recorrido, no ponto, requer incursão nos elementos fático-probatórios do processo, o que é inviável em recurso especial (súmula 7 do Superior Tribunal de Justiça - STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1565533/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/08/2016, DJe 31/08/2016)
+Por fim, a incidência da Súmula 7/STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio - por ser inviável a aferição de similitude fática entre os julgados -, e impede o seguimento do presente recurso pela alínea "c" do permissivo constitucional.
+Nessa linha, observam-se os seguintes precedentes:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - ALEGADA NÃO COMPROVAÇÃO DA CAUSA PARA EMISSÃO DE DUPLICATAS - SENTENÇA E ACÓRDÃO QUE RECONHECERAM A VALIDADE DOS TÍTULOS - DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DO DEMANDANTE.
+1. Demonstrado que o acolhimento das razões do recurso especial torna imprescindível o reexame do conjunto fático-probatório dos autos, incide o enunciado nº 7 da Súmula do STJ.
+2. A incidência do enunciado nº 7 da Súmula do STJ impede o conhecimento do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. O dissídio jurisprudencial deve ser minuciosamente demonstrado por meio do cotejo analítico entre o acórdão recorrido e os acórdãos apontados como paradigmas, procedimento não observado pela parte insurgente.
+4. Agravo regimental desprovido." (AgRg no REsp 1137530/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/06/2014, DJe 24/06/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11% sobre o valor atualizado da causa, ressalvado eventual concessão de gratuidade de justiça.
+Publique-se.
