@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo apresentado por BELAGRÍCOLA COMÉRCIO E REPRESENTAÇÕES DE PRODUTOS AGRÍCOLAS S.A, contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. INSTRUMENTO PARTICULAR DE CONFISSÃO DE DÍVIDA COM [NOME] AQUISIÇÃO DE INSUMOS AGRÍCOLAS.
+1 SENTENÇA QUE JULGA IMPUGNAÇÃO À GRATUIDADE DA JUSTIÇA APRESENTADA EM CONTESTAÇÃO. PEDIDO DE REFORMA FORMULADO EM CONTRARRAZÕES. VIA INADEQUADA (CPC, ART 101, CAPUT, PARTE FINAL). NÃO CONHECIMENTO.
+É o relatório. Decido.
+Não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico a fim de demonstrar a existência de identidade jurídica e similitude fática entre o acórdão recorrido e o(s) paradigma(s) indicado(s).
+Nesse sentido, o STJ fixou que: "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório" (AgInt no AREsp n. 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/4/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 535.444/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 1/4/2019; REsp n. 1.773.244/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 5/4/2019; e AgInt no AREsp n. 1.358.026/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1º/4/2019.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
