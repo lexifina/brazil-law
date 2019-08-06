@@ -1,0 +1,31 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSO CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. INDISPONIBILIDADE DE BENS. COMUNICAÇÃO AOS ÓRGÃOS COMPETENTES. INCUMBÊNCIA DO MAGISTRADO QUE DETERMINOU A INDISPONIBILIDADE DE BENS COM FUNDAMENTO NO ART. 185-A DO CTN. RECURSO ESPECIAL DA FAZENDA NACIONAL A QUE SE DÁ PROVIMENTO.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fulcro na alínea a do art. 105, inciso III, alínea a da CF, contra acórdão proferido pelo TRF da 2a. Região, assim ementado:
+PROCESSO CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. REALIZAÇÃO DE PENHORA ON LINE. PEDIDO DE INDISPONIBILIDADE DE BENS. ART. 185-A DO CTN. INDEFERIMENTO. NECESSIDADE E VIABILIDADE NÃO DEMONSTRADA PELO EXEQUENTE. DECISÃO MANTIDA.
+1. O bloqueio de valores em nome do executado, efetuado pelo Juízo a quo via BACENJUD, restou infrutífero e não há informação de que o executado possua bens imóveis ou móveis passíveis de penhora, não se mostrando razoável a expedição de oficios a diversos órgãos e registros de bens, dada a sua inutilidade e por demandar a movimentação da máquina judiciária na busca de improváveis bens.
+2. O requerimento de indisponibilidade de bens de que trata o art. 185-A do CTN não pode ser genérico, incumbindo à exequente diligenciar e apontar a existência de bens do devedor, sendo incabível transferir ao Judiciário o ônus que lhe é próprio.
+3. A T Turma do Superior Tribunal de Justiça, no julgamento do Resp n.º 1.028.166, de relatoria da Min. Eliana Calmon, decidiu que o "art. 185-A do CTN não obriga o magistrado a oficiar a todos os órgãos de registros existentes, mas tão-somente àqueles cuja necessidade e viabilidade seja demonstrada pelo credor (..) ".
+4. Precedentes dos Tribunais Regionais Federais e do Superior Tribunal de Justiça.
+5. As razões expostas no presente agravo interno não são suficientes ao juízo positivo de retratação, pois não trouxeram qualquer alegação capaz de alterar a conclusão exposta na decisão agravada.
+6. Agravo interno conhecido e desprovido.
+2. Em seu Apelo Nobre, a parte recorrente alega, em suma, ser incumbência do Juízo a determinação da indisponibilidade dos bens do executado e oficiar aos órgãos e entidades que promovem registros de transferências de bens, nos termos do art. 185-A do CTN.
+3. É o breve relatório.
+4. O recurso merece prosperar.
+5. O art. 185-A o CTN dispõe que o Juiz determinará a indisponibilidade de bens e comunicará a decisão, preferencialmente por meio eletrônico, aos órgãos e entidades que detenham as informações de possíveis bens dos contribuintes devedores. A propósito:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. DEVER DO JUÍZO DE COMUNICAR A DECISÃO QUE DEFERIU A INDISPONIBILIDADE DE BENS DO DEVEDOR. INTERPRETAÇÃO DA NORMA CONTIDA NO ART. 185-A DO CTN. RESOLUÇÃO 39/2014 DO CNJ.
+1. É pacífico o entendimento de que a prerrogativa da Fazenda Pública para requerer a indisponibilidade de bens, conforme dispõe o art. 185-A do CTN, pressupõe a comprovação do esgotamento das diligências para localização de bens do devedor.
+2. A questão apreciada nos autos é diferente, pois a Fazenda Nacional teve o seu pedido de indisponibilidade dos bens da devedora deferido pelo juízo, contudo este se nega a comunicar a sua decisão aos órgãos e entidades de registro, conforme determina o art. 185-A do CTN.
+3. Da interpretação do art. 185-A do CTN se depreende, com clareza solar, que a comunicação da decisão que determinou a indisponibilidade dos bens da executada deverá ser realizada pelo juízo competente. Trata-se de obrigação processual imposta ao Estado/Juiz, à qual este não pode se furtar.
+4. Nem mesmo a interpretação da norma do art. 615-A do CPC de 1973 pode modificar o entendimento esposado alhures, porquanto a regra inserta no Código Tributário Nacional está contida no capítulo das Garantias e Privilégios do Crédito Tributário, enquanto a norma processual contém opção ao exequente comum, que poderá ou não segui-la.
+5. Acrescento, para que todos os argumentos do acórdão guerreado sejam apreciados pelo STJ, que os Princípios da Celeridade e da Economia Processual somente serão alcançados, segundos os preceitos do texto da lei, com a comunicação eletrônica da decisão pelo juízo aos órgãos e entidades de registro, como determina a Resolução 39/2014 do Conselho Nacional de Justiça, que criou a Central Nacional de Indisponibilidade de Bens - CNIB.
+6. Recurso Especial provido (REsp. 1.611.966/RJ, Rel. Min. HERMAN BENJAMIN, DJe 13.9.2016).
+
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. ART. 185-A DO CTN. DECRETAÇÃO DE INDISPONIBILIDADE DE BENS DO EXECUTADO. REALIZAÇÃO DAS DEVIDAS COMUNICAÇÕES. RESPONSABILIDADE DO JUÍZO.
+1. Na origem, cuida-se de agravo de instrumento interposto pela Fazenda Nacional contra decisão de magistrado de primeiro grau que, apesar de haver deferido o pedido de indisponibilidade de bens do executado, transferiu para a parte credora a responsabilidade de providenciar as respectivas comunicações aos órgãos e entidades competentes.
+2. A decretação da indisponibilidade de bens decorre do insucesso na localização de bens pela credora - regularmente citada - de modo que cabe ao órgão judicial a expedição de ofícios aos órgãos e entidades mencionadas no art. 185-A do CTN, com vistas a gravar bens porventura não identificados nas diligências da credora ou bens futuros.
+Recurso especial provido (REsp. 1.436.591/AL, Rel. Min. HUMBERTO MARTINS, DJe 2.4.2014).
+6. Dessa forma, entende-se que, para assegurar o sigilo das informações, a autenticidade e a segurança dos próprios contribuintes, e, principalmente, para seguir a disposição prevista em lei, as comunicações aos órgãos competentes pela indisponibilidade de bens devem ser feitas pelo Juízo que as determinou, sendo injustificável o argumento de operacionalizar a medida constritiva para eximir o Juízo de tal providência.
+7. Além disso, com a comunicação feita pelo Juízo, a resposta virá dirigida ao Magistrado que a determinou, devendo este (o Magistrado) avaliar se são bens passíveis de penhora para a satisfação do crédito devido, ou não.
+8. Diante do exposto, dá-se provimento ao Recurso Especial da FAZENDA NACIONAL, a fim de determinar que a expedição de ofícios aos órgãos e entidades mencionados no art. 185-A do CTN compete ao Juízo que ordenou a indisponibilidade de bens.
+9. Publique-se.
+10. Intimações necessárias.
