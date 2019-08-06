@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por AUSTRIN LOBATO PEREIRA contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado do Amapá.
+Sustenta a defesa, nas razões do recurso especial, negativa de vigência ao artigo 415, IV, do Código de Processo Penal.
+Aduz que o recorrente agiu acobertado pela excludente de ilicitude da legítima defesa, "posto que na própria denúncia consta narrado tanto a tentativa de fuga da vítima que portava arma de fogo no momento da tentativa de abordagem policial, colocando assim a vida do acusado em risco, dos policiais que estavam presentes naquela ocorrência como também colocando em risco a vida das testemunhas, [NOME] f1.24, [NOME] fl. 27, pois no momento do acidente, a suposta vítima apontou a referida arma na direção das testemunhas, conforme depoimento prestado por [NOME] fl. 23" (e-STJ, fl. 529).
+Requer seja reconhecida a excludente da legítima defesa, com a consequente absolvição sumária do agravante.
+Apresentadas as contrarrazões (e-STJ, fls. 545-556).
+O recurso foi inadmitido com fundamento na incidência das Súmulas 7 do STJ e 284 do STF (e-STJ, fls. 565-567). Daí este agravo (e-STJ, fls. 574-584).
+O Ministério Público Federal opinou pelo não conhecimento do agravo (e-STJ, fls. 628-630).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal a quo manteve a sentença de pronúncia, com a seguinte fundamentação:
+"Na hipótese em apreço, a materialidade do crime encontra-se demonstrada por meio da certidão de óbito de f. 43 e do Laudo de Exame do Corpo de Delito de f. 49-54.
+Os indícios de autoria, por sua vez, foram bem explicitados na sentença impugnada, da qual destaco o seguinte trecho:
+"A testemunha [NOME], ouvida por carta precatória (#150), presenciou os disparos que vitimaram GEFFERSON. Acrescentou que os disparos foram dados pela Polícia, indicando a autoria delitiva narrada na inicial, já que o réu participava da abordagem policial que redundou na morte da vítima.
+As demais testemunhas ouvidas nos autos, tanto na fase policial quanto na fase judicial - notadamente os relatos de ALEKSANDRO DA [NOME] OLIVEIRA, [NOME] e HELTON DOS SANTOS DA SILVA - sustentam a plausibilidade dos fatos tais como narrados na inicial, indicando a probabilidade de que estejam presentes materialidade e indícios de autoria por parte do réu.
+Aliás, o próprio demandado não nega a dinâmica dos fatos, muito embora tenha suscitado, em suas alegações finais, legítima defesa e estrito cumprimento do dever legal." (p. 1, ordem nº 158).
+O caso não demonstra a existência manifesta de causa de exclusão de ilicitude, razão por que, diante desse cenário de incerteza, não cabe a absolvição sumária do apelante, cuja tese defensiva, de que teria agido em legítima defesa própria e de terceiros, deve ser submetida à análise do Juízo natural, isto é, do Tribunal do Júri.
+Esse, aliás, é o entendimento perfilhado pela Câmara Única deste Tribunal. Veja-se:
+"PROCESSO PENAL - RECURSO EM SENTIDO ESTRITO - HOMICÍDIO - TRIBUNAL DO JÚRI - PRONÚNCIA - MATERIALIDADE DOS FATOS COMPROVADA - INDÍCIOS DE AUTORIA - LEGÍTIMA DEFESA QUE NÃO SE CONFIGURA DE PLANO - INCIDÊNCIA DE QUALIFICADORA - PREVALÊNCIA DO PRINCÍPIO IN DUBIO PRO SOCIETATE - COMPETÊNCIA CONSTITUCIONAL DO TRIBUNAL DO JÚRI - SENTENÇA DE PRONÚNCIA MANTIDA. (..) 2) Na fase de pronúncia, a existência de dúvida quanto à configuração da excludente de ilicitude da legítima defesa ou mesmo da circunstância qualificadora incluída pelo órgão acusador remete o feito ao Conselho de Sentença, a quem competirá a análise aprofundada do acervo probatório e a prolação de juízo terminativo e soberano acerca dos fatos; 3) Recurso conhecido e desprovido." (TJAP, RESE nº 0000795- 49.2017.8.03.0002, Rel. Des. MANOEL BRITO, CÂMARA ÚNICA, j. em 18/09/2018).
+Portanto, o Juízo agiu com acerto ao pronunciar o recorrente, cabendo, pois, ao Tribunal do Júri analisar amplamente os fatos pelos quais o acusado foi denunciado e, desse modo, deliberar sobre as teses defensivas que lhe forem levadas" (e-STJ, fls. 514-515).
+Quanto à fundamentação da pronúncia, importante frisar que ""a tarefa do julgador, ao motivar as decisões relacionadas ao Tribunal do Júri, revela-se trabalhosa, uma vez que deve buscar o equilíbrio, a fim de evitar o excesso de linguagem sem se descurar da necessidade de fundamentação adequada, conforme preceitua o art. 93, IX, da Constituição Federal"" (AgRg no Aresp 1058167/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 27/4/2017, DJe 5/5/2017; HC 410148/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, 3/10/2017, DJe 1/10/2017).
+Em casos como este, a instância ordinária deve se limitar a apontar dados dos autos aptos a demonstrar a existência de prova da materialidade e de indícios suficientes de autoria, em estrita observância ao disposto no art. 413, § 1º, do Código de Processo Penal, sem emitir qualquer juízo de valor.
+A Corte de origem confirmou a sentença de pronúncia por entender haver indícios de materialidade e autoria do delito de homicídio, pontuou que "o caso não demonstra a existência manifesta de causa de exclusão de ilicitude, razão por que, diante desse cenário de incerteza, não cabe a absolvição sumária do apelante, cuja tese defensiva, de que teria agido em legítima defesa própria e de terceiros, deve ser submetida à análise do Juízo natural, isto é, do Tribunal do Júri" (e-STJ, fl. 515). Assim, para desconstituir o entendimento firmado pelo Tribunal de origem, reconhecer a tese de legítima defesa e decidir pela absolvição sumária do recorrente seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+A propósito:
+" ..
+1. O Tribunal a quo consignou que há provas suficientes para a pronúncia do acusado. Assim, alterar as conclusões do acórdão recorrido, a fim de concluir pela absolvição do acusado ou desclassificação da conduta, como requer a parte recorrente, demandaria o reexame do conjunto fático-probatório colhido nos autos, o que encontra óbice na Súmula n. 7 desta Corte.
+2. Ademais, a jurisprudência desta Corte Superior de Justiça é no sentido de que a absolvição ou a desclassificação da conduta delituosa de competência do Tribunal do Júri somente pode ocorrer na fase de pronúncia quando não estiverem presentes indícios da intenção de matar, sob pena de usurpação de sua competência, juiz natural para julgar os crimes dolosos contra a vida. Dessa forma, havendo na r. decisão de pronúncia elemento indiciário da existência de intenção de matar, não se revela despropositada a submissão ao Conselho de Sentença, da imputação da conduta prevista nos artigo 121, § 2º, incisos II e IV, do CP.
+3. Agravo regimental não provido."
+(AgRg no AREsp 1165445/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/02/2018, DJe 19/02/2018).
+" ..
+1. Para alterar a conclusão a que chegaram as instâncias ordinárias e decidir pelo reconhecimento das causas excludentes de ilicitude da legítima defesa, demandaria, necessariamente, revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ, que dispõe: "a pretensão de simples reexame de prova não enseja recurso especial." 2. Agravo regimental não provido."
+(AgRg no AREsp 1129061/MA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/11/2017, DJe 01/12/2017).
+" ..
+1. As pretensões recursais, de que não haveria indícios mínimos da autoria delitiva e da qualificadora do motivo torpe, para embasar a pronúncia, demandariam imprescindível reexame dos elementos fático-probatórios dos autos, o que é defeso no âmbito do recurso especial, em virtude do disposto na Súmula n. 7 desta Corte.
+ ..
+3. Agravo regimental a que se nega provimento."
+(AgInt no AREsp 830.362/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 25/04/2017, DJe 08/05/2017).
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
