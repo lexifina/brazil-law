@@ -1,0 +1,16 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM VALOR RAZOÁVEL EM FACE DAS CARACTERÍSTICAS DA DEMANDA (R$ 5.000,00 - VALOR DA CAUSA DE R$ 103.460,02). RECURSO ESPECIAL DO PARTICULAR A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto por ELZA DA ROCHA CABRAL, com fundamento no art. 105, III, a da Constituição Federal, em adversidade ao acórdão proferido pelo egrégio Tribunal Regional Federal da 4a. Região assim ementado:
+EMBARGOS À EXECUÇÃO FISCAL. NULIDADE DA CDA. REQUISITOS. NOTIFICAÇÃO NO PROCESSO ADMINISTRATIVO FISCAL. AUSÊNCIA. IMPENHORABILIDADE. CONTRA POUPANÇA. HONORÁRIOS.
+1. A mera existência de informação acerca da expedição de Carta AR, sem demonstração do seu recebimento, não comprova a realização da notificação do contribuinte.
+2. Nos termos do art. 649, X do Código de Processo Civil (Lei nº 5.869, de 1973), é impenhorável, até o limite de 40 (quarenta) salários mínimos, a quantia depositada em caderneta de poupança.
+3. Os honorários advocatícios devem ser arbitrados equitativamente, nos termos do § 4º do artigo 20 do Código de Processo Civil, consideradas as peculiaridades de cada caso (fls. 316).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 332/340 e fls. 358/361).
+3. Em suas razões, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 1.022 e 85, § 3o. I e 1.046 do Código Fux, pois os honorários advocatícios fixados em R$ 5.000,00, numa execução em que o Fisco Federal pretendeu cobrar a quantia de R$ 103.460,02, são irrisórios, em desacordo com os critérios ali previstos, devendo ser fixados em percentual entre 10% e 20% sobre o valor do proveito econômico.
+4. Com as contrarrazões (fls. 381/382), o recurso foi admitido na origem (fls. 385).
+5. É o que havia de relevante para relatar.
+6. Firmou-se a orientação, nesta Corte Superior, de que a revisão do valor arbitrado pelas instâncias ordinárias a título de honorários de sucumbência só é admissível em situações excepcionais, quando revelar-se manifestamente irrisório ou excessivo. Constatada a irrisoriedade ou a excessividade, é possível a sua modificação no julgamento do Recurso Especial pelo Relator, nos termos do art. 557, § 1o.-A do CPC/1973. Precedentes: REsp. 1.071.436/PR, Rel. Min. SÉRGIO KUKINA, DJe 8.4.2014, e REsp. 1.409.606/RJ, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe 27.3.2014.
+7. O critério para a fixação da verba honorária deve levar em conta, sobretudo, a razoabilidade do seu valor, em face do trabalho profissional advocatício efetivamente prestado, não devendo altear-se a culminâncias desproporcionais e nem ser rebaixado a níveis claramente demeritórios, não sendo determinante para tanto apenas e somente o valor da causa; a remuneração do Advogado há de refletir, também, o nível de sua responsabilidade, não devendo se orientar, somente, pelo número ou pela extensão das peças processuais que elaborar ou apresentar.
+8. A hipótese não comporta a exceção que admite a revisão da verba sucumbencial, uma vez que foram sopesadas as circunstâncias necessárias e arbitrado montante que se mostra razoável à remuneração adequada da atividade advocatícia desenvolvida (R$ 5.000,00, numa causa cujo valor é de R$ 103.460,02).
+9. Ante o exposto, nega-se seguimento ao Recurso Especial do Particular.
+10. Publique-se. Intimações necessárias.
