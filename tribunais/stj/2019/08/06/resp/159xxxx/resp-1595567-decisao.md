@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ fl. 595):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. EX-PREFEITO MUNICIPAL DE LAVRAS. PRELIMINAR DE OFÍCIO. NÃO CONHECIMENTO DO AGRAVO RETIDO. PRELIMINARES. FALTA DE INTERESSE DE AGIR. INAPLICABILIDADE DA LEI Nº 8.429, DE 1992. REJEIÇÃO. TRIBUTOS MUNICIPAIS. EXERCÍCIOS DE 2002 E 2003. PAGAMENTO A MENOR. AUSÊNCIA DE RECOLHIMENTO. SOCIEDADES EMPRESÁRIAS. GRUPO EMPRESARIAL PERTENCENTE AO EX-PREFEITO MUNICIPAL. ARTIGOS 10, VII, E 11, CAPUT E II, DA LEI Nº 8.429, DE 1992. AFRONTA. ATO DE IMPROBIDADE. CONFIGURAÇÃO. CONDENAÇÃO. CABIMENTO. SANÇÕES. ARTIGO 12 DA LEI Nº 8.429, DE 1992. PROPORCIONALIDADE. MANUTENÇÃO.
+I. Não se conhece de agravo retido quando o agravante deixa de formular requerimento expresso nos moldes do artigo 523, caput, do CPC.
+II. Há interesse de agir consubstanciado na imprescindibilidade de apuração dos fatos, ainda que arquivado inquérito civil a respeito.
+III. Segundo entendimento unânime do STJ, a Lei nº 8.429, de 1994, aplica-se aos agentes políticos, sem o foro por prerrogativa de função.
+IV. Configura ato de improbidade a ensejar as punições regulares, nos moldes dos artigo 10, VII, e 11, caput e II, ambos da Lei nº 8.429, de 1992, o pagamento a menor ou não recolhimento de tributos municipais dos exercícios de 2002 e 2003 de sociedades empresárias do grupo empresarial pertencente ao Prefeito Municipal de Lavras à época, pautada em isenção, de forma dolosa e ilícita da TIP/CONSIP, e da admissão do pagamento após o vencimento sem os acréscimos legais do IPTU e da Taxa de Conservação e Limpeza.
+V. Evidenciada a observância das particularidades do caso, notadamente, do princípio da proporcionalidade, mantêm-se as sanções aplicadas ao Ex-Prefeito Municipal de Lavras, com base no artigo 12 da Lei nº 8.429, de 1992.
+Embargos de declaração rejeitados (e-STJ fl. 641).
+O recorrente aponta violação do arts. 535 e 267, VI, do CPC/1973; dos arts. 10, 11 e 12, parágrafo único, da Lei n. 8.429/1992. Sustentam, em síntese, que: o acórdão não examinou questões relevantes ao deslinde da demanda; inexiste justa causa para a propositura da presente actio; a LIA é inaplicável aos agentes políticos; não ficou evidenciada a má-fé; inexistem elementos hábeis ao reconhecimento da conduta como ímproba; a sanção fixada na origem foi demasiada.
+Contrarrazões.
+Decisão de admissibilidade consta à e-STJ fls. 764/766.
+Manifestação ministerial pelo desprovimento do apelo nobre foi apresentado às e-STJ fls. 790/793.
+Tutela provisória requerida pelo recorrente indeferida (e-STJ fls. 1662/1665), com o manejo do respectivo agravo interno (e-STJ fls. 1685/1696).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Nos termos do art. 535 do CPC/1973, são admitidos embargos de declaração quando houver, no acórdão ou sentença, omissão, contradição ou obscuridade no julgado.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, o Tribunal de origem, mesmo provocado, deixou de se manifestar a respeito do suposto prejuízo decorrente da conduta perpetrada pelo ora recorrente.
+Tal esclarecimento afigura-se de extrema relevância presente caso, eis que, nos termos da jurisprudência desta Corte, o efetivo prejuízo ao erário é requisito indispensável para a configuração do ato de improbidade administrativa tipificado no art. 10 da Lei n. 8.429/1992. Nesse sentido: AgInt no REsp 1580128/SE, rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 23/11/2016.
+Assim, configurada a violação do art. 535 do Código de Processo Civil/1973, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que os vícios sejam sanados pelo Tribunal de origem.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AUSÊNCIA DE INTIMAÇÃO PARA APRESENTAR CONTRARRAZÕES AO AGRAVO REGIMENTAL. PRINCÍPIO DA AMPLA DEFESA E DO CONTRADITÓRIO. EMBARGOS DECLARATÓRIOS. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. É imprescindível a intimação do agravo para apresentar contrarrazões, em atenção aos princípios da ampla defesa e do contraditório.
+2. Não tendo o Tribunal a quo se manifestado sobre questão fundamental para o julgamento da controvérsia, justifica-se a anulação do julgado por esta Corte, por afronta do artigo 535 do Código de Processo Civil.
+3. Agravo regimental desprovido. (AgRg no REsp 1.236.975/GO, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 15/02/2012).
+PROCESSUAL CIVIL. QUESTÃO RELEVANTE PARA A SOLUÇÃO DA LIDE. AUSÊNCIA DE VALORAÇÃO. OMISSÃO CONFIGURADA.
+1. A ausência de valoração de tema relevante para a solução da lide configura omissão, nos termos do art. 535 do CPC.
+2. Na leitura do acórdão recorrido conclui-se que houve omissão quanto à análise de pontos relevantes para o deslinde da controvérsia, em especial no que tange aos juros e correção monetária e à aplicação, na espécie, do art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, que modificou os índices e forma de contagem dos juros e correção monetária nas condenações impostas à Fazenda Pública, sobre os quais, mesmo instado a se manifestar por meio dos Embargos de Declaração opostos, o Tribunal local permaneceu silente.
+3. Caracterizada, assim, a violação do art. 535 do CPC, fica prejudicado o Recurso Especial interposto pela segurada.
+4. Dou provimento ao Recurso Especial do INSS, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração, e julgo prejudicado o Recurso Especial de [NOME]. (REsp 1.337.055/PE, Relator Ministro HERMAN BENJAMIN, Segunda Turma, DJe 11/09/2012).
+Registre-se que a presente decisão em nada altera o decisum de e-STJ fls. 1662/1665, tendo em vista que o ora recorrente foi condenado também pela prática prevista no art. 11 da LIA.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para anular o acórdão prolatado em sede de embargos declaratórios e para determinar o retorno dos autos ao Tribunal a quo, a fim de que seja analisada a questão mencionada acima em relação à qual foi omisso o julgado atacado. Agravo interno prejudicado (e-STJ fls. 1685/1696).
+Publique-se. Intimem-se.
