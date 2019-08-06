@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. PENSÃO POR MORTE. TRABALHADOR RURAL. INEXISTÊNCIA DA QUALIDADE DE SEGURADO ESPECIAL. AUSÊNCIA DE INICIO DE PROVA MATERIAL. PROVA INIDÔNEA. IMPOSSIBILIDADE DE DEFERIMENTO DO BENEFICIO COM BASE UNICAMENTE NA PROVA TESTEMUNHAL. IMPROCEDÊNCIA DO PEDIDO.
+1. Para obtenção do benefício de pensão por morte é necessária a comprovação do óbito; a qualidade de segurado do instituidor e a condição de dependente do beneficiário.
+2. Não se prestam como necessário início razoável de prova material da qualidade de segurado do instituidor da pensão documentos confeccionados em data muito posterior ao óbito e, ainda, que não indiquem o desempenho da atividade campesina.
+3. No caso, verifico que a documentação acostada aos autos não ostenta suficiente densidade probatória para servir de início de prova material da qualidade de segurado do instituidor da pensão, o que torna inviável a concessão do benefício pretendido.
+4. Não é admissível o reconhecimento de tempo de exercício de atividade rural em prova exclusivamente testemunhal.
+5. Apelação desprovida.
+Além de divergência jurisprudencial, o recorrente alega violação do art. 74 da Lei 8.213/91, trazendo o seguinte argumento:
+No caso em questão, além da certidão de casamento e de óbito da esposa constando a profissão de rurícola, o autor juntou aos autos Contrato de meação agrícola datado e com firma reconhecida em abril de 2009, sendo que a presente ação somente foi ajuizada em março de 2015. O autor anexou aos autos também as certidões de nascimento de seus filhos, onde também constou a profissão de lavrador dos pais. Existe também nos autos uma NOTIFICAÇÃO DO FUNRURAL, um requerimento de auxílio-natalidade, assinada e carimbada pelo médico atestando que a segurada (esposa do autor) estava no 8º mês de gestação (fl. 99).
+É o relatório. Decido.
+No que concerne ao recurso apresentado, o Tribunal a quo apresentou o seguinte fundamento:
+No caso dos autos a documentação acostada não ostenta suficiente densidade probatória para servir de início de prova material da qualidade de segurado do instituidor da pensão e a conseqüente concessão do benefício previdenciário.
+Além dos documentos pessoais apresentados com a inicial, não existem outros elementos nos autos que sirvam como início de prova material da atividade rural alegada, vez que não comprovam o desempenho do trabalho campesino, conforme entendimento jurisprudencial pacificado nesta e. Corte (fl. 90).
+No caso dos autos, as provas testemunhais isoladas não bastam como elemento probatório o suficiente a demonstrar que o de cujus realmente era segurado.
+Assim, ante a fragilidade das provas produzidas nos autos, não há como reconhecer a qualidade de segurado do falecido, muito menos conceder o benefício pretendido pela parte autora (fl. 91).
+Verifica-se, na espécie, que o acórdão não analisou individualmente os documentos indicados pelo recorrente, incidindo no óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Quanto à admissibilidade do recurso pela alínea "c" do permissivo constitucional, na espécie, não foi comprovada a divergência jurisprudencial, uma vez que não cumpridos os requisitos legais dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nesse sentido, os seguintes julgados: AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018; AgInt no REsp 1.696.707/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 12/3/2018; e AgRg no REsp 1.683.470/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 31/10/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
