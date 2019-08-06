@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MICHEL [NOME] contra decisão em que dei provimento ao recurso especial da FAZENDA NACIONAL para restabelecer a sentença de improcedência de embargos à execução fiscal.
+A parte embargante alega, em síntese (e-STJ fls. 289/294):
+Enfim: aqui reside a CONTRADIÇÃO, ou a OBSCURIDADE, que deve(m) ser sanada(s) por esse douto julgador. De fato, não há dúvida alguma de que o Eg. Tribunal Regional Federal da 1ª Região reconheceu a prescrição do crédito tributário. E também não há dúvida alguma de que esse aspecto do acórdão (prescrição) não foi objeto do recurso especial, interposto pela FAZENDA NACIONAL. Aliás, o recurso especial nem deveria ter sido conhecido, já que, a teor da súmula 283/STF, o recurso extraordinário (e também o especial) deve impugnar todos os fundamentos da decisão recorrida, quando a mesma se assentar em mais de um.
+Se a prescrição é matéria que pode ser arguida a qualquer tempo e grau de jurisdição, que poderia ser conhecida até mesmo de oficio pelo julgador, e que, havendo sido reconhecida pelo Eg. TRF1, em aspecto não recorrido, trata-se de tema (autônomo) que transitou livremente em julgado, então FAZ-SE NECESSÁRIO ESCLARECER SE, AO RESTABELECER A SENTENÇA DE PRIMEIRA INSTÂNCIA, ESSE DOUTO JUÍZO AFASTOU OU NÃO A PRESCRIÇÃO DECLARADA PELO EG. TRF1.
+Na linha de tudo o que foi exposto acima, parece claro que o restabelecimento da sentença de piso apenas alcançou o aspecto relativo à tempestividade e, por conseqüência, a responsabilidade pelas verbas sucumbenciais.
+Se porventura esse douto julgador entendeu de forma diversa, ou seja, se ao restabelecer a sentença primeva também afastou a prescrição já reconhecida, então neste caso seria necessário esclarecer o porquê de ter decidido dessa forma, já que esse aspecto do acórdão não foi objeto do recurso especial fazendário.
+Sem impugnação pela FAZENDA NACIONAL.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+No caso, não verifico a ocorrência dos vícios apontados pela parte embargante, porquanto, expressamente, consta da decisão embargada os fundamentos específicos pelos quais o recurso fazendário foi provido.
+Com efeito, na decisão ora embargada consta o objeto do recurso especial fazendário: a intempestividade dos embargos opostos à execução fiscal; a premissa fática considerada: a data de ciência do ato de penhora; e o entendimento jurisprudencial deste Tribunal Superior em sentido contrário ao acórdão recorrido.
+No contexto, forçosa a cassação do acórdão recorrido e o restabelecendo da sentença em que se reconheceu a intempestividade dos embargos opostos à execução fiscal.
+A tempestividade é questão autônoma e prejudicial à discussão a respeito da prescrição e, embora este tema seja matéria de ordem pública, não subsiste se reconhecida aquela, razão pela qual não há hipótese para observância do enunciado da Súmula 283 do STF. De toda sorte, não tendo sido definitivamente decidida a controvérsia sobre a prescrição, nada impede que a parte provoque, novamente, o juízo da execução a respeito da matéria, ao invés de exaurir a instância recursal extraordinária.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
