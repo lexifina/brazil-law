@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 493/494).
+O acórdão recorrido está assim ementado (e-STJ fl. 429):
+*Ação de rescisão de contrato de consórcio c.c. indenizatória por danos morais Parcial procedência Recurso exclusivo da administradora corré. Justiça gratuita Indeferimento na sentença Empresa em regime de liquidação extrajudicial Prova da incapacidade financeira da ré comprovada Recurso provido. Rescisão contratual Consórcio de motocicleta Decretação de liquidação extrajudicial da administradora Pretensão à devolução imediata dos valores pagos pelo autor Interesse processual incontroverso Mérito Resolução do contrato por culpa exclusiva da ré, diante da sua liquidação extrajudicial Restituição integral das parcelas quitadas, sem dedução de quaisquer valores a título de taxa de administração, fundo comum, multa e seguro de vida Sentença mantida. Recurso negado. Recurso provido em parte.*
+No especial (e-STJ fls. 437/442), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 5º, e 27 da Lei n. 11.795/2008 e 18, "d", da Lei n. 6.024/1974, sustentando, em síntese, o direito de retenção da taxa de administração.
+No agravo (e-STJ fls. 497/506), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 508/516).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 432):
+Incontroverso o autor apelado celebrou com a corré apelante AGRABEN contrato de consórcio nº 72858 para aquisição de motocicleta CB859-CB600 F HORNET-PPS, no valor de R$33.260,00 (fls. 32/43).
+A espécie não retrata hipótese de desistência ou exclusão do consorciado por inadimplemento, a aplicar-se entendimento de que a restituição não poderia ser imediata, devendo-se aguardar-se o encerramento do grupo ou a contemplação do autor.
+No caso concreto, clara a hipótese de resolução do contrato consortil por culpa exclusiva da administradora apelante, que entrou em liquidação extrajudicial, acarretando o encerramento dos grupos de consórcio que administrava.
+Não concorrendo o autor apelado para a resolução do contrato que, como referido, deu-se em decorrência da liquidação extrajudicial da administradora apelante, de fato, a devolução dos valores pagos pelo autor deve efetivar-se de modo imediato e integral, sem dedução da taxa de administração, fundo comum do grupo, multa, juros e seguro de vida, como pretendido pela recorrente.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. O acórdão impugnado concluiu que, não tendo concorrido o recorrido para a resolução do contrato que deu-se em decorrência da liquidação extrajudicial da administradora recorrente, a devolução dos valores pagos pelo autor deve efetivar-se de modo imediato e integral. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Além disso, para alterar os fundamentos supratranscritos e reconhecer devida a taxa de administração seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
