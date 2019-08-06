@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso especial cuja controvérsia, entre outros temas, aborda a titularidade da União, após a Emenda Constitucional n. 46/2005, sobre terrenos localizados em ilhas costeiras que sejam sede de município.
+Passo a decidir.
+A questão, objeto do apelo extremo interposto na origem (Tema 676 - situação dos terrenos de marinha localizados em ilhas costeiras com sede de município, após o advento da Emenda Constitucional 46/2005), teve a repercussão geral reconhecida pelo Supremo Tribunal Federal, no RE 636.199, de Relatoria da Em. Ministra Rosa Weber.
+O Pleno do Supremo Tribunal Federal, ao julgar o tema na assentada de 27/04/2017, decidiu que "a Emenda Constitucional n. 46/2005 não interferiu na propriedade da União, nos moldes do art. 20, VII, da Constituição da República, sobre os terrenos de marinha e seus acrescidos situados em ilhas costeiras sede de municípios".
+Nesse contexto, reconheço que a existência de recurso extraordinário que trata do mérito da matéria acima identificada é prejudicial à discussão a se desenvolver no âmbito desta Corte no recurso especial, razão pela qual os autos deverão retornar ao Tribunal de origem para que lá seja realizado o juízo de conformação com o precedente obrigatório da Suprema Corte.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que seja realizado o juízo de conformação com o precedente do STF, nos termos dos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se. Intimem-se.
