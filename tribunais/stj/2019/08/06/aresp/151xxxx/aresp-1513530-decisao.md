@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo apresentado pelo CONDOMINIO DO EDIFICIO LUMAR contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL CONSUMO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITOS C/C INDENIZATÓRIA POR DANOS MORAIS COBRANÇA INDEVIDA DE FATURAS DE ÁGUA JÁ PAGAS FALHA NA PRESTAÇÃO DO SERVIÇO AUSÊNCIA DE DEMONSTRAÇÃO DE LESÃO À HONRA OBJETIVA DANO MORAL NÃO CARACTERIZADO MERO ABORRECIMENTO APLICAÇÃO DA SÚMULA N 75 TJRJ MANUTENÇÃO DA SENTENÇA.
+Entendimento pacificado pelo STJ, há luz do teor da Súmula nº 227, de que as pessoas jurídicas podem sofrer dano moral. No mesmo sentido o disposto no art. 52 do Código Civil, que também reconhece a proteção aos direitos da personalidade. Todavia, para caracterização do dano moral é necessário que se configure ofensa à honra objetiva, o que não restou demonstrado, visto que sequer houve suspensão do fornecimento de água ou inscrição em cadastros restritivos de crédito, não havendo danos à imagem ou ao bom nome do apelante. Evento descrito que não ultrapassa o limite do mero aborrecimento, o que não enseja reparação.
+Recurso desprovido
+
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp n. 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/6/2018).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
