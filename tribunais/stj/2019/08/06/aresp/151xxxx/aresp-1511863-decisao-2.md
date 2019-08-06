@@ -1,0 +1,51 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. CONTRATO RESCINDIDO. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+LÁZARO LOPES (LÁZARO) ajuizou ação de cobrança e arbitramento de honorários advocatícios contra BANCO BAMERINDUS S.A., sucedido por HSBC BANK BRASIL S.A., posteriormente sucedido por KIRTON BANK S.A. - BANCO MÚLTIPLO (BANCO), pleiteando o recebimento de honorários devidos em virtude de contrato de prestação de serviços advocatícios, anteriormente rescindido.
+A sentença julgou procedente o pedido, arbitrando os honorários advocatícios em R$ 147.387,50 (cento e quarenta e sete mil, trezentos e oitenta e sete reais e cinquenta centavos) (e-STJ, fls. 692/709).
+Interposta apelação por BANCO, o Tribunal de origem deu-lhe parcial provimento, em acórdão assim ementado (e-STJ, fls. 888/889):
+CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. ADVOGADO CONSTITUÍDO POR INSTITUIÇÃO FINANCEIRA PARA A PROPOSITURA DE DUAS EXECUÇÕES, MUNIDO DE CONTRATO ESCRITO DE HONORÁRIOS E PROCURAÇÃO. PRELIMINAR DE ILEGITIMIDADE PASSIVA "AD CAUSAM". REJEIÇÃO EM DESPACHO SANEADOR, POSTERIORMENTE CONFIRMADO EM AGRAVO DE INSTRUMENTO COM DECISÃO TRANSITADA EM JULGADO. PRECLUSÃO. IMPOSSIBILIDADE DE REDISCUSSÃO. 471 E 473 DO CPC DE 1973 E 505 E 507 DO NCPC. MÉRITO. EXISTÊNCIA DE CONTRATO DE HONORÁRIOS, OUTORGA DE PROCURAÇÕES E PRESTAÇÃO DOS SERVIÇOS. HONORÁRIA DEVIDA AO PROCURADOR CONSTITUÍDO. VALOR DOS SERVIÇOS, NO ENTANTO, OBJETO DE LIMITAÇÃO EXPLÍCITA NO CONTRATO. IMPOSSIBILIDADE DE ARBITRAMENTO PARA VALOR MAIOR, EM PROL DA FORÇA OBRIGATÓRIA DOS CONTRATOS E BOA -FÉ OBJETIVA. MANUTENÇÃO DA SUCUMBÊNCIA PROCESSUAL. RECURSO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDO, PARA REDUZIR OS HONORÁRIOS DEVIDOS AOS LIMITES DA CONTRATAÇÃO.
+Os embargos de declaração opostos por LÁZARO foram rejeitados (e-STJ, fls. 926/936).
+Inconformado, LÁZARO interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, sustentando a ocorrência de violação dos arts. 141 e 492 do NCPC, aduzindo, em síntese, que o acórdão recorrido decidiu a lide fora dos limites do pedido, tendo em vista que reformou a sentença para limitar os honorários advocatícios ao patamar de 5% sem que BANCO tenha realizado pedido nesse sentido nas razões de apelação, na qual se limitava a defender a inexistência de qualquer crédito em favor de LÁZARO.
+BANCO ofereceu contrarrazões (e-STJ, fls. 1.076/1.085).
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre ante a incidência das Súmulas nºs 283 do STF e 7 do STJ. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.152/1.161).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Dos limites do julgamento
+Ao julgar a apelação, o Tribunal de origem reformou a sentença para, em obediência aos termos do contrato de prestação de serviços advocatícios rescindido, limitar os honorários ao patamar de 5% sobre o montante de R$ 907.000,00 (novecentos e sete mil reais), valor previsto no acordo celebrado pelo BANCO nas demandas judiciais em que fora patrocinado LÁZARO.
+Diante disso, LÁZARO sustentou que houve julgamento fora dos limites do pedido, haja vista que o BANCO limitara-se, no apelo, a defender a inexistência de crédito em favor do causídico.
+No julgamento dos embargos de declaração, entendeu-se que não houve decisão extra petita, porquanto a apelação deixara clara a intenção do BANCO de levar a efeito as disposições do contrato celebrado entre as partes, o qual limitava a verba honorária ao equivalente a 5% sobre os valores recuperados pelo causídico, nos seguintes termos:
+Quanto à alegação de ter havido julgamento "extra petita", também não procede.
+Observa-se dos parágrafos 106 e seguintes do apelo do mov.
+8.1 do PROJUDI, que a instituição financeira pediu expressamente no recurso que o contrato entre o banco e o procurador, objeto da demanda, fosse respeitado em seus estritos termos, com limitação à cláusula do teto de 5% do valor exigido em Execução.
+(..)
+Outrossim, no próprio desfecho do apelo, item 6 do pedido final, transcrito também nos embargos em comento (fls. 51) lê-se:
+"6 - Dos Pedidos
+Diante do exposto, requer-se seja dado total provimento ao presente Recurso de Apelação, para que seja reconhecida a ilegitimidade passiva do Apelante, reformando-se a r. sentença e, consequentemente, extinguindo-se o feito, nos termos do artigo 267, VI do Código de Processo Civil ou de maneira subsidiária, ainda que se entenda que o Apelante é parte legítima para responder aos termos da demanda, seja reformada a r. sentença guerreada para que sejam observadas as regras estritamente estabelecidas por meio do contrato firmado entre o Apelado e o Banco Bamerindus, devendo somente ser considerados os valores efetivamente recuperados pelo Banco Bamerindus do Brasil."
+(..)
+No caso, o pleito do HSBC foi até repetitivo sobre o devido respeito ao que o advogado e seu cliente contrataram, limitando-se, a decisão embargada, a assegurar esse respeito (5% do valor resgatado pelo advogado), com observação explícita que, justa ou injusta, essa foi a remuneração livremente contratada pelas partes, não havendo razão para revisão do contrato e outorga de valor maior ao causídico.
+Não houve, de modo algum, decisão "extra petita" (e-STJ, fls. 931/935).
+Com efeito, do cotejo entre as razões da apelação e o acórdão recorrido, não se verifica a ocorrência do julgamento extra petita defendido por LÁZARO.
+Ao contrário, vê-se que, não somente o BANCO defendeu sua ilegitimidade passiva e a ausência de crédito em favor do causídico, por considerar que este não teria recuperado valores em prol do BANCO, como também pretendeu que fossem obedecidos os termos do contrato, que limitava os honorários em 5%, senão vejamos:
+139. Em nenhum momento em sua resposta o laudo informa que há previsão no contrato em questão, dos honorários advocatícios, conforme cláusula primeira do Anexo do referido instrumento, veja-se:
+ANEXO CRÉDITO 2.1 - Nas execuções em geral, inclusive hipotecárias, em caso do bem penhorado ser arrematado ou adjudicado pelo(s) LOCATÁRIOS, os honorários serão devidos na base de 5% (cinco por cento) calculados sobre o valor efetivamente recuperado na data da arrematação e adjudicação, pagáveis pelos LOCATÁRIOS, após cumpridas pelo(s) LOCADORES as seguintes condições:
+a) registro da respectiva carta de arrematação ou adjudicação;
+b) pagamento de todos os impostos relativos ao bem arrematado ou adjudicado;
+c) imissão dos LOCATÁRIOS na posse direta do bem.
+140. Veja Excelência que para as execuções em que o Bamerindus figura como exequente, os honorários devem corresponder a 5% (cinco por cento) do êxito em relação à recuperação do crédito.
+141. Portanto, tendo em vista a existência de disposição contratual expressa em relação à forma de cálculo dos honorários advocatícios, não há razão alguma para fixação de honorários através de arbitramento, eis que o Apelado pactuou livremente os valores, aceitando prestar os serviços nas condições avençadas contratualmente (e-STJ, fls. 754/755 - sem destaques no original).
+Outrossim, o BANCO ainda formulou expresso pedido subsidiário para que fosse desconsiderado o laudo elaborado e determinada nova liquidação, como se observa do derradeiro parágrafo da peça recursal:
+Ainda de forma subsidiaria, requer que o laudo utilizado para liquidar o valor da condenação seja descartado diante dos inúmeros equívocos cometidos, sendo determinado, assim, a liquidação de valores (e-STJ, fl. 757).
+Ora, o pedido para que fosse desconsiderado o montante apurado no laudo e determinada nova liquidação revela que, caso não fossem acolhidas as teses principais do BANCO, este pretendia que o valor fosse reduzido, a partir da correção dos alegados equívocos, relativos à existência de percentual já definido em contrato para apuração do quantum.
+Nesse contexto, o acórdão recorrido alinhou-se ao entendimento do STJ no sentido de que o julgamento dentro dos limites estabelecidos pelos pedidos formulados no apelo não configura acórdão extra petita. Confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. DECISÃO QUE INADMITE O RECURSO ESPECIAL COM BASE NO ART. 543-C, § 7º, I, DO CPC/1973. INTERPOSIÇÃO DE AGRAVO DO ART. 1.042, CAPUT, DO CPC/2015. ERRO GROSSEIRO. 2. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. 3. AGRAVO INTERNO DESPROVIDO.
+1. A interposição do agravo previsto pelo art. 1.042, caput, do CPC/2015 contra decisão proferida pelo Tribunal de origem que, após a vigência do CPC/2015 (18/3/2016), nega seguimento ao recurso especial com base na conformidade da decisão recorrida com precedente do STJ estabelecido por ocasião do julgamento de recurso repetitivo, constitui erro grosseiro, que inviabiliza, até mesmo, a aplicação do art. 932, parágrafo único, do CPC/2015.
+2. A apreciação do pedido dentro dos limites postos pelas partes na petição inicial ou na apelação não revela hipótese de julgamento ultra ou extra petita.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.052.388/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 20/06/2017, DJe 26/06/2017)
+Dessarte, não merece reforma o acórdão impugnado.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial interposto por LÁZARO.
+Publique-se. Intimem-se.
