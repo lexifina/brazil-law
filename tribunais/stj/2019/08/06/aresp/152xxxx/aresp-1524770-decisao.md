@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado pelo MUNICÍPIO DE SÃO PAULO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXECUÇÃO FISCAL DE DÍVIDA ATIVA NÃO TRIBUTÁRIA REFERENTE À RESTITUIÇÃO DE VALORES RECEBIDOS INDEVIDAMENTE POR SERVIDORA PÚBLICA - DECORRENTE DE ACÚMULO ILEGAL DE CARGOS.
+Alega violação do art. 39, § 2º, da Lei n. 4.320/1964, trazendo o seguinte argumento:
+Ou seja, por expressa dicção legal, a dívida ativa não tributária é aquela que decorre de quaisquer débitos de terceiros perante a Fazenda Pública, de natureza diversa de tributo, havendo menção expressa quanto à possibilidade de se cobrar reposições e restituições ao Erário, tal como a hipótese de pagamento indevido a ex-servidor público.
+Lembre-se, inclusive, que segundo o conceito legal, o rol apresentado é exemplificativo, comportando outros tipos não expressos no parágrafo. De qualquer maneira, fato é que as reposições e restituições, por disposição expressa de dispositivo de lei federal, são passíveis de inscrição em dívida ativa, não havendo fundamento para extinguir de ofício o feito sob o fundamento da necessidade de discussão da matéria em ação de conhecimento prévia, ainda mais porque no caso em tela houve prévia abertura de processo administrativo, mencionado na CDA (PA nº 2016-0.071.114-2), que apurou o valor do débito, sendo oportunizado ao ex-servidor a possibilidade de discuti-lo.
+O presente débito foi devidamente inscrito na Dívida Ativa, como demonstra a CDA, com discussão acerca do assunto em procedimento administrativo prévio; logo, perfeitamente exigível o título executivo nela consubstanciado (fls. 236).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
