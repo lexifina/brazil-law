@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por impossibilidade de apreciar alegação de ofensa a dispositivo constitucional no âmbito do recurso especial e incidência da Súmula n. 7 do STJ (e-STJ fls. 155/156).
+O acórdão recorrido está assim ementado (e-STJ fls. 71/72):
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - CÉDULA DE CRÉDITO BANCÁRIO - PEDIDO DE EXIBIÇÃO INCIDENTAL DE OUTROS DOCUMENTOS E DE REVISÃO DE CONTRATOS ANTERIORES - IMPOSSIBILIDADE - AUSÊNCIA DE DEMONSTRAÇÃO DA LIGAÇÃO ENTRE A CÉDULA EXECUTADA COM OUTROS CONTRATOS FIRMADOS ANTERIORMENTE - ALEGAÇÕES GENÉRICAS - PLEITO DE PRODUÇÃO DE PROVA PERICIAL - DESNECESSIDADE - ART. 464, §1º, DO CPC - PROVAS DOCUMENTAIS SUFICIENTE PARA A ELUCIDAÇÃO DA LIDE - MAGISTRADO DESTINATÁRIO FINAL DA PROVA - ART. 370 DO CPC - DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração opostos foram acolhidos (e-STJ fls. 115/121).
+No especial (e-STJ fls. 131/139), fundado no art. 105, III, "a", da CF, as recorrentes alegaram ofensa aos arts. 5º, LV, da CF e 369 do CPC/2015, sustentando cerceamento de defesa em decorrência da negativa de exibição de documentos e da impossibilidade de produção de prova pericial contábil com a análise dos contratos de originaram a dívida.
+No agravo (e-STJ fls. 166/177), afirmam a presença de todos os requisitos de admissibilidade do especial.
+A parte recorrida não apresentou contraminuta (e-STJ fl. 188).
+É o relatório.
+Decido.
+Quanto ao art. 5º, LV, da CF, compete ao STJ velar pela aplicação uniforme da legislação infraconstitucional, não se conhecendo, portanto, do recurso especial que sustente ofensa à Constituição, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+Com relação ao cerceamento de defesa, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 76/82)
+Ora, em que pese os Agravantes aleguem a necessidade de exibição incidental de outros documentos (contratos de abertura de conta corrente e respectivos aditivos e renovações, tabelas de tarifas e juros praticados pela Cooperativa durante todo o período de movimentação das contas correntes nºs. 36283-2 e 46791-X) e a possibilidade de revisão de contratos anteriores, entendo que não há nos autos provas robustas capazes de demonstrar a relação entre tratos anteriores e a Cédula de Crédito Bancário em questão.
+Destaque-se que os executados alegam que o crédito foi disponibilizado com a finalidade de renegociar o Contrato de Abertura de Capital de Giro Rotativo B21630170, no valor de R$85.700,67 (oitenta e cinco mil, setecentos reais e sessenta e sete centavos), tendo o restante do saldo sido utilizado para amortizar o saldo devedor da conta corrente, que à época perfazia a soma de R$17.208,78 (dezessete mil, duzentos e oito reais e setenta e oito centavos), restando configurada a renegociação de dívida.
+Entretanto, da análise do título exequendo extrai-se que inexiste qualquer menção acerca de eventual utilização do crédito para renegociação de dívida anterior, sendo que no "print" do extrato bancário, apresentado no parecer revisional apresentado pelos Embargantes, verifica- se apenas que ocorreu a liquidação do contrato de nº. B21630170, e, ainda, o valor restante diminui o saldo devedor da conta corrente.
+Destaque-se que não há como concluir de forma inequívoca que ocorreu uma repactuação de dívidas existentes junto à Cooperativa, anteriores ao contrato objeto da execução em tela, assim o débito existente entre as partes decorrentes de outros contratos, por si só, não enseja a revisão de eventuais abusividades praticadas na relação firmada, seja na Cédula de Crédito Bancário nº. B21630170 ou nas contas correntes de nºs. 36283-2 e 46791-X, neste feito, devendo a parte buscar a sua pretensão em ação revisional.
+(..)
+Assim sendo, não há que se falar em exibição incidental de outros documentos e de aplicação da Súmula 286 do STJ, na medida em que não há comprovação da relação de dependência da cédula executada com outros contratos firmados anteriormente, mostrando-se acertada a decisão agravada neste ponto.
+(..)
+Quanto à alegada necessidade de produção de prova pericial, tenho que também não merece prosperar.
+(..)
+Ademais, de acordo com o art. 464, §1º, inc. I e II, do CPC, a prova pericial poderá ser indeferida quando o fato que se pretende provar não demande de conhecimento especial técnico ou, ainda, puder ser comprovado por outras provas produzidas nos autos. E, conforme se denota do caso em exame, os documentos acostados à exordial da execução pela parte agravada - tais como a Cédula de Crédito Bancário e o demonstrativo de débito - são suficientes para o julgamento da lide, na medida em que contém todos os encargos contratuais, não demandando cálculos de maior complexidade.
+O Tribunal a quo, com base no conjunto fático-probatório, concluiu pela inexistência de cerceamento de defesa e pela desnecessidade de produção de outras provas. Não há como modificar tal entendimento no âmbito do recurso especial, incidindo, nesse caso, a Súmula n. 7 do STJ. A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. VIGÊNCIA DO CPC/1973. ENUNCIADO ADMINISTRATIVO 2/2016. EMBARGOS À EXECUÇÃO. ESCRITURA PÚBLICA DE CONFISSÃO DE DÍVIDA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. FUNDAMENTO NÃO ATACADO. SÚMULA 283 DO STF. DISSÍDIO JURISPRUDENCIAL. JULGAMENTO ANTECIPADO. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA E CONTRATUAL. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ.
+(..)
+5. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento.
+Questão que no caso concreto, ademais, demanda indevido reexame do conteúdo fático e contratual dos autos, conforme o óbice processual dos enunciados 5 e 7 da Súmula do STJ.
+6. Agravo interno a que se nega provimento.
+(AgRg no REsp n. 1267772/SC, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 3/5/2016, DJe 12/5/2016.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
