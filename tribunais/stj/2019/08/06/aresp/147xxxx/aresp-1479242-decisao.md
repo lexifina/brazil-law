@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal, incidência da Súmula n. 7 do STJ e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 609/611).
+O acórdão recorrido está assim ementado (e-STJ fl. 331):
+DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C.C.
+OBRIGAÇÃO DE NÃO FAZER, REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANO MORAL. Cartão de crédito consignado. Autorização para constituição de reserva de margem consignável em benefício previdenciário, para pagamento do valor mínimo da fatura mensal do cartão.
+Comprovada a utilização do cartão para realização de saque e para pagamento de compras realizadas em estabelecimentos comerciais. Regularidade dos descontos efetuados na folha de pagamento da autora, diante da existência de saldo devedor.
+Quitação do valor integral do débito não demonstrada.
+Exigibilidade reconhecida. Ausência de ilegalidade na conduta da instituição financeira. Indenização por dano moral indevida.
+Sentença reformada. RECURSO DO RÉU PROVIDO E RECURSO DA AUTORA NÃO CONHECIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 592/597).
+No especial (e-STJ fls. 339/378), fundamentado no art. 105, III, "a", da CF, o recorrente alegou ofensa ao art. 489, § 1º, IV, do CPC/2015 por negativa de prestação jurisdicional.
+Apontou afronta aos arts. 6º, II, III, 14, 39, 42, parágrafo único, 51 e 52 do CDC, 145, 147, 167, 168, 169, 171, 182, 186 e 927 do CC/2002, Súmula n. 532 do STJ e art. 16, § 3º, da Instrução Normativa INSS/PRES n. 28, de 2008, sustentando, em síntese, a abusividade do contrato de empréstimo consignada na modalidade cartão.
+No agravo (e-STJ fls. 614/638), afirma a presença de todos os requisitos de admissibilidade do especial.
+O recorrida apresentou contraminuta (e-STJ fls. 641/644).
+É o relatório.
+Decido.
+Não há falar em contrariedade ao art. 489, § 1º, IV, do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 333/334):
+O réu apresentou "Termo de Adesão Cartão de Crédito Consignado BMG S/A e Autorização para Desconto em Folha de Pagamento" (fls. 126/129), devidamente assinado pela autora, em 14/12/2015, onde consta expressamente tratar-se de cartão de crédito, havendo autorização para o desconto do valor mínimo de pagamento das faturas em seu benefício previdenciário, e descreve os encargos decorrentes da contratação. Ainda, acostou os documentos pessoais apresentados pela aderente no momento da contratação (fls. 130/133), além das faturas do cartão de crédito de titularidade da requerente, que indicam a realização de saque autorizado (R$-986,50 fls. 134), além de lançamentos referentes a compras realizadas em estabelecimentos comerciais (fls. 150).
+A demandante não impugnou a assinatura aposta nos documentos apresentados pelo réu, tampouco a utilização dos recursos financeiros que foram a ela disponibilizados, indicados nas faturas do cartão de crédito de sua titularidade, que trazem o total dos valores pagos e os encargos, decorrentes do inadimplemento do valor integral do débito (fls. 134/156).
+Assim sendo, conclui-se que o cartão de crédito foi celebrado de forma isolada e autônoma, sem vinculação ou imposição para a celebração de empréstimo consignado, o que afasta a alegação de venda casada. Ainda, o termo de adesão firmado cumpre o disposto no art. 6º, III do CDC, eis que especifica, de forma clara e adequada, todos os termos da negociação entabulada.
+Anoto que a contratação de cartão de crédito com reserva de margem consignável em benefício previdenciário é autorizada pela lei 10.820/2003, com observância do limite de 5% dos rendimentos do benefíciário para os descontos, de acordo com a previsão do artigo art. 6º §, 5º desta Lei 1 , conforme se verifica às fls. 32/35.
+Diante de tais circunstâncias, não é possível concluir-se que a autora foi induzida a erro ao adquirir o cartão de crédito. Assim, permanece válida a contratação discutida, de modo que, tendo recebido o valor correspondente ao saque, realizado mediante utilização do cartão de crédito, bem como, utilizado o cartão para pagamento de compras em estabelecimentos comerciais, deve a autora adimplir a contraprestação a que se obrigou. A presunção de que tenha contratado serviço diverso do entabulado não tem o condão de excluir sua obrigação, consistente em saldar o débito que contraiu.
+Ora, em razão do pagamento mínimo do valor da fatura mensal do cartão, através dos descontos consignados no benefício previdenciário percebido pela autora (fls.
+32/35), ela deveria efetuar o pagamento do saldo remanescente. Ocorre que a requerente não traz aos autos prova alguma de que tenha quitado o valor integral das faturas, razão pela qual, diante do pagamento efetuado apenas pelo valor mínimo de cada uma delas, houve a evolução do saldo devedor.
+Assim sendo, não está caracterizada qualquer ilegalidade na contratação questionada pela autora, sendo regulares os descontos realizados diretamente de seu benefício previdenciário, que foram por ela devidamente autorizados.
+Para alterar os fundamentos supratranscritos e reconhecer a abusividade do contrato celebrado entra as partes, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
