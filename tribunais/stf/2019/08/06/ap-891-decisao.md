@@ -1,0 +1,16 @@
+DECISÃO
+COMPETÊNCIA – DECLINAÇÃO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Procurador-Geral da República ajuizou ação penal contra Ivo Narciso Cassol, então senador da República, ante a suposta prática, por duas vezes, do delito previsto no artigo 138, combinado com o 71 e o 141, incisos II e III (calúnia cometida de modo continuado, contra servidor público, em razão das funções e por meio que facilitou a divulgação da mensagem), do Código Penal.
+    Na denúncia, assevera que os ataques contra a honra da vítima – o procurador da República Reginaldo Trindade – ocorreram entre 13 de agosto de 2007 e 25 de março de 2010, época durante a qual o acusado ocupava o cargo de Governador do Estado de Rondônia, tendo sido implementados em entrevistas coletivas e participações em programas de rádio e televisão. Afirma que os fatos atribuídos à vítima podem ser assim resumidos: a) envolvimento em extração ilegal de madeira e diamantes na Reserva Indígena Roosevelt, crimes definidos nos artigos 38 e 44 da Lei nº 9.605/1998, e b) prática de fraude processual e corrupção de testemunhas cometida no curso de processo eleitoral movido em face do réu, delitos tipificados nos artigos 343 e 347 do Código Penal.
+    O Pleno, em 21 de novembro de 2013, recebeu a denúncia (folha 316 a 349).
+    Consulta ao sítio do Senado Federal revelou que o acusado, desde 31 de janeiro de 2019, não mais exerce mandato de senador da República.
+    O processo encontra-se aparelhado para julgamento do mérito.
+    2. O Pleno do Supremo, na sessão do dia 3 de maio de 2018, ao apreciar a questão de ordem na ação penal nº 937, relator o ministro Luís Roberto Barroso, procedeu à reinterpretação da Constituição Federal, considerada a prerrogativa de foro, assentando que o instituto pressupõe crime praticado no exercício do mandato e a este, de alguma forma, ligado. Excepcionou a óptica conforme o estágio em que o processo se encontre, consignando ter a fase de alegações finais o efeito de prorrogar a competência. Acompanhei o Relator em parte, ou seja, quanto a interpretar-se de forma estrita o preceito constitucional que sinaliza a competência do Supremo para julgar Deputados Federais e Senadores. Divergi de Sua Excelência relativamente à prorrogação da competência, ante a fase processual, tendo em conta a premissa segundo a qual competência de natureza absoluta não se prorroga, sendo a em debate funcional e, portanto, dessa espécie, ao contrário da territorial ou em razão do valor.
+    Reitero o que sempre sustentei: a competência do Tribunal é de Direito estrito, está delimitada, de forma exaustiva, na Constituição Federal. As regras respectivas não podem merecer interpretação ampliativa. A Lei Maior, ao prever cumprir ao Supremo julgar Deputados e Senadores, há de ter abrangência definida pela conduta criminosa: no exercício do mandato e ligada, de algum modo, a este último.
+    Constata-se que o delito imputado remonta à época em que o acusado, ex-senador da República, exercia o cargo de Governador do Estado de Rondônia. A situação jurídica não se enquadra na Constituição Federal em termos de competência do Supremo.
+    3. Declino da competência para a primeira instância da Justiça Federal do Estado de Rondônia.
+    4. Publiquem.
+Brasília, 6 de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
