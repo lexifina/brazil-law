@@ -1,0 +1,36 @@
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE LAUDO E DE JUSTIFICATIVA PARA A NÃO REALIZAÇÃO DA PERÍCIA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. Em se tratando da configuração de furto qualificado pelo rompimento de obstáculo, este Superior Tribunal tem admitido, em hipóteses peculiares, laudo de avaliação indireta, devendo as instâncias ordinárias, contudo, justificarem a excepcionalidade com o necessário sopesamento de elementos concretos emanados dos autos, o que não se deu no presente caso. Precedentes.
+3. Habeas Corpus não conhecido. Ordem concedida, de ofício, para excluir a qualificadora do rompimento de obstáculo.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido e conceder, de ofício, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Cuida-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de SILVIO [NOME] contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, proferido na Apelação n. 0001596-92.2013.8.12.0021, assim ementado:
+"APELAÇÃO CRIMINAL - FURTO QUALIFICADO E FALSA IDENTIDADE - ABSOLVIÇÃO - MATERIALIDADE E AUTORIA DEMONSTRADAS - ATIPICIDADE DO DELITO DO ARTIGO 307, DO CP - REJEITADA - CONSERVADA QUALIFICADORA DO ARTIGO 155, § 4º, I, DO CP - PREPONDERÂNCIA DA ATENUANTE DA CONFISSÃO COM A AGRAVANTE DA REINCIDÊNCIA - COMPENSAÇÃO MANTIDA - RECURSO IMPROVIDO Considerando os depoimentos, a confissão e o fato de os bens furtados terem sido encontrados na posse do agente, não há falar em absolvição dos delitos de furto e falsa identidade, já que as provas são uníssonas a apontar a autoria e a materialidade.
+O agente identificou-se perante a autoridade policial como terceira pessoa, ainda que com a finalidade de evitar o cumprimento de mandado de prisão existente contra si, subsumindo sua conduta ao delito do artigo 307 do Código Penal, não havendo falar em atipicidade.
+O exame pericial não é o único meio de prova capaz de demonstrar a qualificadora do rompimento de obstáculo, podendo ser comprovada através de outras provas judiciais, como a testemunhal.
+A confissão e a reincidência são circunstâncias de natureza subjetiva concernentes a personalidade do agente, restando cabível a compensação na segunda fase da dosimetria da pena." (fl. 210)
+Os embargos infringentes a seguir opostos foram rejeitados, por acórdão que recebeu o seguinte sumário:
+"EMBARGOS INFRINGENTES EM APELAÇÃO CRIMINAL - FALSA IDENTIDADE E FURTO MEDIANTE ROMPIMENTO DE OBSTÁCULO - AUSÊNCIA DE PERÍCIA - OUTROS ELEMENTOS DE PROVA QUE SUPREM A INEXISTÊNCIA DO LAUDO - QUALIFICADORA MANTIDA - RECURSO DESPROVIDO.
+A par do artigo 158 do Código de Processo Penal, o artigo 182 do mesmo Codex, prevê que o juiz não está adstrito ao laudo. Assim, na interpretação sistêmica das normas, à prova pessoal e material deve-se dar idêntico valor dentro das circunstâncias do caso concreto em análise. Tanto é assim que o artigo 155 da Lei Adjetiva, assegura a adoção da livre convicção ou da persuasão racional, que não estabelece valor entre as provas, de forma que nenhuma prova se sobressai a outra. Ainda que inexista laudo pericial, a situação inexige preparo técnico específico, uma vez que a verificação da ocorrência de rompimento de obstáculo, consubstanciada no arrombamento do portão e quebra do vidro da porta dos fundos, é visível, circunstância de fácil constatação, não exigindo conhecimentos específicos.
+Com o parecer, embargos não acolhidos." (fl. 243)
+Na presente impetração, busca a defesa o afastamento da qualificadora prevista no inciso I do § 4º do art. 155 do Código Penal - rompimento de obstáculo -, em virtude da ausência de laudo pericial.
+A liminar foi indeferida por decisão de fls. 253/255.
+O Ministério Público Federal opinou pelo não conhecimento do writ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Na hipótese, verifica-se a ocorrência de flagrante ilegalidade.
+Com efeito, "em se tratando da configuração de furto qualificado pelo rompimento de obstáculo, este Superior Tribunal tem admitido, em hipóteses peculiares, laudo de avaliação indireta, devendo as instâncias ordinárias, contudo, justificarem a excepcionalidade com o necessário sopesamento de elementos concretos emanados dos autos. Precedentes." (AgRg no AREsp 948.624/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/2/2019, DJe 1/3/2019)
+No entanto, no caso concreto, não foi apresentada nenhuma justificativa para que não fosse realizada a perícia direta, razão pela qual deve ser retirada a qualificadora do rompimento de obstáculo. Neste diapasão:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. DELITO QUE DEIXA VESTÍGIOS. EXAME PERICIAL NÃO REALIZADO. IMPRESCINDIBILIDADE. EXAME INDIRETO. FORMALIDADE LEGAL ELABORAÇÃO POR DUAS PESSOAS IDÔNEAS COM DIPLOMA DE NÍVEL SUPERIOR. ART. 159, § 1º, DO CPP. NÃO OBSERVÂNCIA.
+I - Este Tribunal consolidou o entendimento no sentido de que o exame de corpo de delito direto, por expressa determinação legal, é indispensável para configuração da materialidade delitiva nas infrações que deixam vestígios, podendo apenas supletivamente ser suprido por outro meio de prova, quando os vestígios tenham desaparecido ou quando justificada a impossibilidade de realização da perícia. Precedentes.
+II - No caso sob exame, não foi realizada perícia para constatar a materialidade da qualificadora de rompimento de obstáculo, não existindo nos autos justificação para a ausência da perícia. Assim, se era possível a realização da perícia por profissionais capacitados, mas esta não ocorreu, a prova testemunhal e o exame indireto não suprem a sua ausência.
+Agravo regimental desprovido." (AgRg no AREsp 1.339.073/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 24/10/2018)
+Assim, a pena-base deve ser fixada em 1 ano de reclusão, a qual resta definitiva, ante a inexistência de qualquer circunstância capaz de alterá-la.
+Ante o exposto, voto no sentido de não conhecer do habeas corpus, todavia, concedo a ordem, de ofício, para reduzir a pena pelo delito de furto para 1 ano de reclusão.
