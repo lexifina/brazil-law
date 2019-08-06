@@ -1,0 +1,25 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO EM RECURSO ESPECIAL DO ESTADO DE PERNAMBUCO NÃO CONHECIDO.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto pelo ESTADO DE PERNAMBUCO em razão da ausência de ofensa ao art. 1.022 do Código Fux e da incidência da Súmula 7/STJ no mais.
+2. É o relatório.
+3. Como cediço, a parte, para ver seu Recurso Especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir todos os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+4. Em análise do Agravo interposto, tem-se que a parte agravante não rebateu todos os fundamentos da decisão que inadmitiu o Recurso Especial, pois deixou de se manifestar quanto a ausência de vício integrativo (ofensa ao art. 1.022 do Código Fux). Em razão disso, incide o teor da Súmula 182/STJ.
+5. Registre-se que o Recurso de Agravo, tanto aquele previsto no art. 544 do CPC/73 (atual art. 1.042 do Código Fux), como o dito Regimental ou Interno previsto no art. 545 do CPC/73 (atual art. 1.021, § 1o. do Código Fux), objetiva desconstituir os fundamentos que impediram o processamento do Recurso Especial; sem essa providência, não comporta seguimento.
+6. Ainda, é mister repetir que as razões demonstrativas do desacerto da decisão de admissibilidade do Recurso Especial devem ser veiculadas imediatamente naquela oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do Recurso Excepcional, diante da preclusão consumativa.
+7. Na espécie, a simples alegação de suposta usurpação de competência desta Corte Superior quanto à análise do mérito recursal pelo Tribunal de origem, sem que sejam refutados os argumentos que levaram ao juízo negativo de admissibilidade, não é capaz de infirmar os fundamentos utilizados pela decisão recorrida. Por isso, inafastável a incidência da Súmula 182/STJ. No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA DO PRESIDENTE DO STJ. PRECEDENTES. EXAME DE MÉRITO DO RECURSO ESPECIAL PELA CORTE DE ORIGEM. POSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. Compete ao Presidente do STJ, entre outras atribuições, negar provimento a recursos intempestivos, prejudicados, defeituosos em sua formação, manifestamente inadmissíveis ou contrários a matéria sumulada, julgada em recurso representativo de controvérsia ou consolidada por jurisprudência pacificada pelo Tribunal.
+2. A emissão de juízo sobre o mérito do recurso especial pelo Tribunal de origem, por ocasião do exame provisório de admissibilidade, não implica usurpação da competência do Superior Tribunal de Justiça.
+3. Ao deixar a parte recorrente de impugnar a inadequação dos fundamentos deduzidos na decisão agravada, impõe-se a aplicação da Súmula 182 do STJ.
+4. Agravo interno a que se nega provimento (AgInt no AREsp. 1.238.938/SP, Rel. Min. MARIA ISABEL GALLOTTI, DJe 6.12.2018).
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE OBJETIVA. RELAÇÃO DE CONSUMO. PRESTAÇÃO DE SERVIÇO POSTAL. NÃO COMPROVAÇÃO DO CONTEÚDO EXTRAVIADO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DO PARTICULAR DESPROVIDO.
+1. O Tribunal de origem inadmitiu o Recurso Especial alegando a incidência da Súmula 7/STJ, diante da necessidade de revolvimento de matéria fático-probatória.
+2. Consoante se depreende da petição de fls. 305/312, o agravante apenas afirmou o descabimento de análise de mérito pela Corte a quo no juízo de admissibilidade. Deixou, portanto, de se manifestar acerca dos motivos que levaram ao juízo negativo de admissibilidade do Apelo Nobre.
+3. Verifica-se, assim, que a parte recorrente não desconstituiu os fundamentos que impediram o processamento do Recurso Especial.
+4. Desse modo, perfeitamente aplicável ao caso a Súmula 182 do STJ, segundo a qual é inviável o Agravo do art. 545 do CPC/1973 que deixa de atacar especificamente os fundamentos da decisão agravada.
+5. Ademais, é assente a jurisprudência do STJ de que não há usurpação de competência do Superior Tribunal de Justiça quando a Corte de origem, por ocasião do juízo de admissibilidade, analisa o mérito do Recurso Especial, porquanto constitui atribuição do Tribunal a quo, nessa fase processual, examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia, a teor da Súmula 123 do STJ.
+6. Agravo Regimental do particular desprovido (AgRg no AREsp. 570.216/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 5.4.2017).
+8. Ante o exposto, não se conhece do Agravo em Recurso Especial do ESTADO DE PERNAMBUCO.
+9. Por fim, nos termos do que dispõe o art. 85, § 11 do Código Fux, fixam-se os honorários recursais em 1% sobre o valor da causa, que deverá ser acrescido ao montante total.
+10. Publique-se. Intimações necessárias.
