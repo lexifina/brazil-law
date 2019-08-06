@@ -1,0 +1,59 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REQUISITOS DA RESPONSABILIDADE CIVIL. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVISÃO DA MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JUSTINA DOS SANTOS, em face de decisão proferida pelo Tribunal de Justiça do Estado do Rio de Janeiro que negou admissibilidade a recurso especial manejado contra acórdão sintetizado nos seguintes termos:
+APELAÇÃO CÍVEL. DIREITO À SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. TRANSFERÊNCIA E INTERNAÇÃO EM CENTRO DE TERAPIA INTENSIVA. DEFERIMENTO DE TUTELA ANTECIPADA. INTIMAÇÃO DOS ENTES PÚBLICOS PARA CUMPRIMENTO DA DECISÃO QUE DETERMINOU A TRANSFERÊNCIA EM 20/07/2014, TENDO OCORRIDO A REMOÇÃO NA MESMA DATA.
+SENTENÇA DE PROCEDÊNCIA PARCIAL. DANOS MORAIS NÃO CONFIGURADOS. RECURSO AO QUAL SE NEGA PROVIMENTO.
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, preliminarmente, o recorrente sustenta violação aos art.s 489, §1º, I a IV e 1.022, II, do CPC/2015, aduzindo que o acórdão de origem deixou de se manifestar sob pontos relevantes para o deslinde da questão, quais sejam, a ofensa aos artigos 5º, X, 37 caput e § 62, e 196 e 197, da CF/1988; e 186, 187 e 927, caput e parágrafo único e 944 do CC/2002.
+No mérito, argumenta ofensa aos artigos 186, 187, 927 e 944 do CC/2002 e 6º, I, "d" e 7º, II, da Lei 8.080/1990, sob o fundamento de que estão presentes os requisitos ensejadores do dever de indenizar.
+Apresentada contrarrazões.
+Sobreveio juízo negativo de admissibilidade do agravo pelo Tribunal a quo.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Apresentada contraminuta.
+É o relatório. Passo a decidir.
+Faz-se necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Presentes os pressupostos de admissibilidade do agravo, passo a análise do recurso especial.
+A pretensão não merece acolhimento.
+Cinge-se a controvérsia, segundo se extrai do acórdão recorrido, de ação ordinária de obrigação de fazer c/c pedido indenizatório visando compelir o demandado a oferecer tratamento médico-hospitalar ao paciente, bem como condenar o ente federativo ao pagamento de reparação de danos morais.
+O Tribunal de origem ao apreciar a pretensão, manteve a conclusão do juízo sentenciante julgando improcedente o pleito indenizatório, senão vejamos:
+Apela a autora da ação, pugnando pela reforma da sentença, para que sejam os réus condenados ao pagamento de danos morais.
+ ..
+Com efeito, os Entes Públicos estão obrigados a estabelecer suas políticas de saúde, atendendo à realidade social, não comportando limitação ao fornecimento de situações individuais.
+In casu, tanto o Estado do Rio de Janeiro e o Município do Rio de Janeiro possuem o dever de promover a internação da Autora em algum hospital da rede pública em que lhe seja prestado o atendimento médico adequado ao quadro clínico, o que efetivamente ocorreu em razão da tutela antecipada concedida.
+A decisão de concessão da tutela antecipada foi deferida em 19/07/2014, a intimação ocorreu em 20/07/2014 (fls. 28, doc. 000025), e no próprio dia 20/07/2014 a Autora foi transferida para o CTI do Hospital Federal da Lagoa (fls. 36, doc. 000037).
+Inquestionável o reconhecimento da angústia e aflição de quem, acometido de doença grave, necessita de adequado tratamento para manter a própria vida.
+Também não se desconhece as dificuldades enfrentadas pelos entes públicos em manter rede hospitalar capaz de atender prontamente à demanda de toda a população.
+Ressalte-se que tanto o Estado do Rio de Janeiro quanto o Município do Rio de Janeiro receberam o Mandado de Intimação no dia 20/07/2014 e a transferência realizada no mesmo dia.
+Não houve, assim, demora dos entes públicos em providenciar a realização da transferência, não configurando ilícito capaz de gerar o sofrimento ou humilhação que justifique o deferimento do ressarcimento pleiteado.
+Assim, como se pode perceber, a tutela antecipada foi atendida prontamente pelos Réus, inexistindo qualquer conduta, comissiva ou omissiva, a ensejar a condenação por danos morais.
+Não se observa a prática de ato ilícito pelos Réus capaz de gerar direito de reparação, porquanto se portaram de forma diligente e adimpliram o comando judicial tão logo intimados.
+Logo, não havendo comprovação da alegada lesão ao direito personalíssimo ou de que o quadro clinico da Autora tivesse sido agravado, em decorrência da demora de sua internação, não há como acolher-se o pleito de ressarcimento por danos morais."
+ ..
+Em que pese as preocupações e os transtornos vivenciados pela autora, fato é que a paciente obteve a internação pleiteada, ainda que por força de decisão antecipatória dos efeitos da tutela.
+Como é cediço, é precária a prestação dos serviços públicos de saúde, que padece do insuficiente número de profissionais, leitos e medicamentos para atender toda a população. Logo, entendo que, in casu, a falta de atendimento médico imediato não configura ato ilícito apto a ensejar indenização por danos morais.
+Inicialmente, quanto à alegação de violação dos artigos 489 e 1.022 do CPC/2015, destaca-se que o acórdão foi preciso e suficientemente claro no desenvolvimento de seus fundamentos. Em verdade, o Tribunal decidiu de maneira fundamentada que o contexto dos fatos não foi capaz de produzir ato ilícito passível de indenização.
+Destaca-se que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa aos artigos 489 e 1.022 do CPC/2015, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AÇÃO MONITÓRIA. CHEQUE PRESCRITO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU FALTA DE MOTIVAÇÃO NO ACÓRDÃO A QUO. DECISUM ESTADUAL TODO FUNDADO EM FATOS E PROVAS. SÚMULA N. 7/STJ.AGRAVO NÃO PROVIDO. 1. Acórdão estadual claro e nítido, sem omissões, obscuridades, contradições ou ausência de motivação. Não obstante a oposição de embargos declaratórios, não são eles mero expediente para forçar o ingresso na instância especial, se não há vício a suprir; inexistente, portanto, ofensa ao art. 535 do CPC, pois a matéria foi devidamente abordada no aresto a quo.  ..  3. Agravo regimental não provido. (AgRg no AREsp 638.454/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/03/2015, DJe 10/03/2015)
+No que tange a análise do requisitos da responsabilidade civil, conclui-se que os fatos alegados foram analisados pelo Tribunal a quo, sendo que a análise das razões da recorrente, no sentido de se apurar a própria ocorrência dos supostos atos ilícitos e do dano moral, bem como a existência de nexo causal, demandaria necessariamente o reexame do conjunto fático-probatório dos autos, procedimento inviável em sede de recurso especial ante o óbice previsto na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido os seguintes precedentes deste Tribunal Superior:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. INSURGÊNCIA CONTRA OS DANOS MATERIAIS E MORAIS. SÚMULA 7 DO STJ. REVISÃO DO QUANTUM INDENIZATÓRIO. SÚMULA 7 DO STJ. DECISÃO MANTIDA.
+1. O acolhimento da pretensão recursal sobre os danos materiais, a alegada existência de vícios ocultos, a responsabilidade pelos danos morais e a comprovação do dano moral demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que atrai o óbice da Súmula 7 do STJ.
+2. A conclusão a que chegou o Tribunal de origem acerca do valor fixado a título de dano moral decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Entender de forma diversa implicaria na necessária incursão na seara fática para reexame de provas, conduta vedada em sede de recurso especial, ante o óbice da Súmulas 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no AREsp 802.221/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/12/2015, DJe 01/02/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. NEXO CAUSAL. QUANTUM INDENIZATÓRIO. HONORÁRIOS ADVOCATÍCIOS. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos. Ressalte-se que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Em relação à comprovação do nexo causal entre a conduta omissiva estatal e os danos suportados pela esposa da vítima fatal, bem como à revisão do quantum indenizatório e dos honorários advocatícios, no caso, as insurgências esbarram na Súmula 7/STJ, por demandarem novo exame do acervo fático-probatório dos autos.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 81.721/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 12/02/2015, DJe 23/02/2015)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. SÚMULAS 282/STF E 356/STF. PRINCÍPIO CONTIDO NA LICC. CARGA CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE. SUSPENSÃO DO SERVIÇO DE ENERGIA ELÉTRICA. NOTIFICAÇÃO DO CORTE. DANO MORAL. AGRAVO NÃO CONHECIDO. ANÁLISE DE PROVA. MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. Descumprido o necessário e indispensável exame dos dispositivos de lei invocados pelo acórdão recorrido apto a viabilizar a pretensão recursal da recorrente, de maneira a atrair a incidência das Súmulas 282 e 356/STF, sobretudo ante a ausência de oposição dos cabíveis embargos declaratórios a fim de suprir a omissão do julgado. Ad argumentandum, ainda que se admitisse o prequestionamento implícito das teses advindas da aplicação dos arts. 1º, 6º, VIII, 14, 22, 42, 51, IV, do CDC, 319 do CPC, 2º, 10, §§ 2º e 3º, da n. Lei 10.741/03, 7º, I, IV e V, da Lei n. 8.987/95, o mérito foi explicitamente abarcado na decisão agravada.
+2. A jurisprudência desta Corte Superior entende que não cabe analisar princípios contidos na Lei de Introdução às Normas do Direito Brasileiro, por estarem revestidos de carga eminentemente constitucional.
+3. Se a conclusão da Corte de origem foi no sentido de que restou comprovada a notificação prévia ou concomitante do corte do serviço, modificar esse entendimento demandaria a análise do acervo fático-probatório dos autos, o que é inviável em sede de recurso especial, sob pena de violação da Súmula 7 do STJ.
+4. A Corte a quo fundou suas razões de decidir na inexistência de provas do abalo moral e dos alegados excessos cometidos por parte da empresa ré. Nesse contexto, inviável a pretensão à percepção de dano moral, diante do óbice da Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no AREsp 246.238/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 18/12/2012, DJe 08/02/2013)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
