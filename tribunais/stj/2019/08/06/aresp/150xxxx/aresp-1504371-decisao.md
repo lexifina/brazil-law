@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo apresentado por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. INAPLICABILIDADE DAS DISPOSIÇÕES DO CÓDIGO DE DEFESA DO CONSUMIDOR ÀS CAUSAS ENVOLVENDO ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR E SEUS PARTICIPANTES/ASSISTIDOS. SÚMULA 563 DO STJ. ABUSO DO DIREITO DA RÉ QUE, SEM REALIZAR A PRÉVIA NOTIFICAÇÃO DO AUTOR, SUSPENDEU O BENEFÍCIO PREVIDENCIÁRIO DE FORMA UNILATERAL. ILÍCITO CARACTERIZADO. INTELIGÊNCIA DOS ARTIGOS 187 E 927, AMBOS DO CÓDIGO CIVIL. DANO MATERIAL E MORAL CONFIGURADOS. RECURSO AO QUAL SE NEGA PROVIMENTO.
+Quanto à controvérsia, alega violação dos arts. 186, 393, 421, 422 e 937 do Código Civil, 389 do Código de Processo Civil e art. 17 da Lei Complementar 109/2001, no que concerne à ausência de ilegalidade cometida pela recorrente ao suspender o pagamento do benefício, trazendo o(s) seguinte(s) argumento(s):
+Como alhures mencionado, o Recorrente se aposentou em 2007, momento em que passou a receber proventos de complementação de aposentadoria pela ora Recorrente. Nesse sentido, o autor se aposentou nos moldes do Regulamento Plano 1 da PREVI, cabendo a aplicação dos mencionados dispositivos regulamentares para a concessão do benefício (fl. 239).
+ ..
+Dessa forma, como houve a informação de que o benefício do Recorrido estava suspenso por força do óbito do participante, por certo que não poderia a Recorrente permanecer com o pagamento do benefício nos moldes apresentados (fl. 239).
+Ademais, o convênio assinado com a INSS/BB/PREVI obriga a Recorrida a aplicar as previsões regulamentares de acordo com o cadastro do participante pelo INSS (fl. 239).
+ ..
+Nesse cenário, deve-se destacar que a Recorrida simplesmente cumpriu os contratos realizados entre as partes, sendo certo que o cumprimento da prova de vida é obrigação do participante conforme previsão da Previdência Social, a qual é seguida pela Recorrida (fl. 240).
+Ademais, deve-se destacar que qualquer conduta contrária à aquela apresentada pela Recorrida, poderia ensejar do desequilíbrio financeiro e atuarial do plano de benefícios (fl. 240).
+ ..
+Não bastasse a argumentação apresentada, a não entrega do pecúlio por ausência de documentação prevista regulamentarmente garante o devido cumprimento do contrato acordado entre as partes, nos termos dos arts. 421 e 422 do Código Civil, in verbis:
+Art. 421. A liberdade de contratar será exercida em razão e nos limites da função social do contrato.
+Art. 422. Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé (fl. 241).
+Dessa forma, considerando que a Recorrente deu estrito cumprimento às obrigações firmadas em contrato e no regulamento, não se mostra possível a condenação imposta na origem (fl. 241).
+É o relatório. Decido.
+Quanto à controvérsia, na espécie, incide o óbice das Súmulas 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ademais, incide o óbice da Súmula n. 5 do STJ ("A simples interpretação de cláusula contratual não enseja recurso especial"), uma vez que a pretensão recursal demanda reexame de cláusulas contratuais.
+Nesse sentido: "E mesmo se superado tal obstáculo, constata-se que a controvérsia foi dirimida pelo Tribunal a quo com base na análise e interpretação de cláusulas contratuais, fato esse que impede o exame da questão por esta Corte, em face da vedação prevista na Súmula n. 5/STJ" (AgInt no AREsp n. 1.298.442/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no REsp n. 1.476.562/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 22/3/2019; AgInt nos EDcl no AREsp n. 1.278.998/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/3/2019; AgInt no AREsp n. 1.297.507/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/2/2019; e AgInt no REsp n. 1.768.401/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
