@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. ART. 535 DO CPC/73. OMISSÃO QUANTO A ANÁLISE DE TEMA RELEVANTE PARA O JULGAMENTO DA LIDE. RETORNO DOS AUTOS PARA JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+DECISÃO
+COMPANHIA DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO RENAULT (RENAULT) ajuizou ação de busca e apreensão contra [NOME] ([NOME]), com fundamento em inadimplemento de contrato de financiamento com pacto de alienação fiduciária.
+O Juízo de piso determinou que RENAULT devolvesse o veículo apreendido e se manifestasse acerca do pedido de purgação da mora formulado por [NOME] (e-STJ, fl. 69).
+Interposto agravo de instrumento por RENAULT, o Relator deu-lhe provimento, em face da impossibilidade de purgação da mora pelo pagamento parcial da dívida (e-STJ, fls. 71/73).
+O Tribunal de origem negou provimento a agravo regimental interposto por [NOME], nos termos da seguinte ementa (e-STJ, fl. 191):
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. BUSCA E APREENSÃO. DECRETO LEI Nº 911/69, ART. 3º, §§ 1º E 2º. PURGAÇÃO DA MORA PARA DEVOLUÇÃO DO VEÍCULO. VALOR INTEGRAL. IMPOSSIBILIDADE DE QUITAÇÃO PARCIAL DA DÍVIDA. ENTENDIMENTO DO STJ.
+1. "Consoante jurisprudência desta Corte, após a edição da Lei 10.931/2004, que deu nova redação ao art. 3º do Decreto-Lei 911/1969, não há falar mais em purgação da mora: Sob a nova sistemática, após decorrido o prazo de cinco dias contados da execução da liminar, a propriedade do bem fica consolidada com o credor fiduciário, devendo o devedor efetuar o pagamento da integralidade do débito remanescente a fim de obter a restituição do bem livre de ônus (AgRg no Resp 1300480/PR).
+2.Agravo regimental improvido.
+Os embargos de declaração opostos por [NOME] foram rejeitados (e-STJ, fls. 213/216).
+Inconformado, [NOME] interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação do art. 535 do CPC/73 e divergência jurisprudencial, aduzindo, em síntese, que o acórdão recorrido foi omisso quanto (1) à intempestividade do agravo de instrumento, tendo em vista que impugnava determinação já preclusa; (2) à irregularidade da formação do agravo de instrumento, desacompanhado da cópia da decisão agravada e da respectiva certidão de intimação; e, (3) ao descumprimento do art. 526 do CPC/73, em vista da ausência de juntada da cópia do agravo de instrumento no processo original, bem como da relação de documentos que o acompanharam.
+Não foram oferecidas contrarrazões.
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre ante a ausência de ofensa ao art. 535 do CPC/73 e a incidência da Súmula nº 211 do STJ. Dessa decisão, foi interposto o presente agravo em recurso especial, no qual foi refutada a aplicação dos referidos óbices.
+Foram apresentadas contrarrazões por BANCO RCI BRASIL S.A. (e-STJ, fls. 403/405).
+É o relatório.
+DECIDO.
+O recurso comporta acolhimento.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Assim, ultrapassados os requisitos de admissibilidade, CONHEÇO do agravo e passo à análise do recurso especial, o qual, por ter sido interposto sob a égide do CPC/73, aplica-se os termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Da ofensa ao art. 535 do CPC/73
+Da acurada análise dos autos, verifica-se que o Relator deu provimento ao agravo de instrumento interposto por RENAULT, revertendo decisão que determinara a devolução do veículo apreendido, bem como a intimara para se manifestar acerca da pleiteada purgação da mora.
+Todavia, o Tribunal de origem negou provimento ao agravo regimental e rejeitou os embargos de declaração, sem se pronunciar quanto às alegações de que (1) o agravo de instrumento era intempestivo, porquanto impugnaria decisão anterior, já preclusa; (2) a instrução do agravo fora deficiente, por não ter sido juntada a cópia da certidão de publicação da decisão agravada; e, (3) a previsão do art. 526 do CPC/73 foi descumprida, visto que RENAULT não apresentou a cópia do agravo de instrumento no processo principal, bem como a relação de documentos que instruíram o recurso.
+Assim, forçoso reconhecer que a análise das teses de [NOME] é relevante para o julgamento da lide.
+De outro turno, no que tange à ausência de juntada da cópia da decisão agravada, observa-se que os embargos de declaração não suscitaram referida irregularidade do agravo de instrumento, motivo pelo qual não se configura a omissão no ponto.
+Merece parcial acolhimento o recurso especial quanto a violação do art. 535 do CPC/73, ficando prejudicadas as demais violações aduzidas no apelo nobre.
+Nessas condições, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, DAR-LHE PARCIAL PROVIMENTO para, reconhecendo a violação do art. 535 do CPC/73, determinar o retorno dos autos ao Tribunal de origem para que analise a tese aduzida nos embargos de declaração como entender de direito.
+Publique-se. Intimem-se.
