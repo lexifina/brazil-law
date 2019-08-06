@@ -1,0 +1,18 @@
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE NULIDADE DE MULTA POR RESCISÃO CONTRATUAL. PLANO DE SAÚDE. CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL.
+DECISÃO
+SIKA S.A. (SIKA) ajuizou ação declaratória de nulidade de multa por rescisão contratual contra ALLIANZ SAÚDE S.A. (ALLIANZ), alegando ter firmado com a requerida contrato de seguro-saúde em benefício de seus funcionários e que, ao comunicar sua intenção de não renovar a avença, teria sofrido a aplicação de multa rescisória. Requereu, portanto, a declaração de nulidade da cláusula penal e a inexigibilidade da cobrança efetuada.
+O Juízo de piso julgou procedentes os pedidos da exordial para declarar a nulidade das cláusulas contratuais em debate, bem como a inexigibilidade do débito referente à multa rescisória estipulada. Ademais, julgou improcedente a reconvenção apresentada (e-STJ, fls. 211/217).
+Inconformada, ALLIANZ interpôs recurso de apelação, provido pelo Tribunal de origem, em acórdão assim ementado:
+Plano de saúde. Ação declaratória de nulidade de multa por resilição contratual. Reconvenção. Contrato com prazo determinado. Ausência de violação do disposto no art. 13, caput, da Lei n. 9.656/98. Validade da fixação de multa contratual pela resilição unilateral antes do termo final, livremente pactuado entre as partes, ambas pessoas jurídicas. Aplicabilidade do CDC que não torna a autora, sociedade anônima, hipossuficiente quanto à negociação dos termos do contrato. Necessidade de reconhecimento da autonomia da vontade das partes. Recurso provido para julgar improcedente a ação principal e procedente a reconvenção, condenando a autora reconvinda ao pagamento da multa contratual. (e-STJ, fl. 273)
+Os embargos de declaração opostos por SIKA foram rejeitados pelo Tribunal de origem (e-STJ, fls. 294/296).
+Após, SIKA interpôs recurso especial, com base no art. 105, III, a, da CF, sustentando, em síntese, violação dos arts. 2º, 3º, 39, 47 e 51 do CDC, 13 da Lei nº 9.656/98 e 413, 421, 422 e 884 do CC porque (1) o acórdão recorrido teria sido omisso ao concluir pela não aplicação do CDC ao caso dos autos e contraditório ao ter destacado o conteúdo do art. 13 da Lei nº 9.656/98 e ter deixado de aplicá-lo; (2) o CDC seria regramento aplicável à espécie; e, (3) as cláusulas contratuais em debate, relativas à renovação do contrato de plano de saúde com prazo determinado e à previsão de multa rescisória, seriam nulas porque abusivas (e-STJ, fls. 299/319).
+Houve contrarrazões (e-STJ, fls. 326/343).
+O apelo nobre não foi admitido porque (1) as razões recursais demandariam o revolvimento das provas dos autos; e, (2) incidiria à espécie o teor da Súmula nº 518 do STJ (e-STJ, fls. 344/345).
+Irresignada, SIKA interpôs agravo em recurso especial (e-STJ, fls. 348/366), sustentando o afastamento dos mencionados óbices.
+Foi apresentada contraminuta (e-STJ, fls. 369/384).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Considerando que o agravo merece conhecimento e tendo em vista as razões contidas no recurso especial subjacente, CONVERTO o agravo em em recurso especial para melhor análise da controvérsia.
+Publique-se. Intime-se.
