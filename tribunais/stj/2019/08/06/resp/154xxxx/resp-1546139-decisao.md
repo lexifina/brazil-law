@@ -1,0 +1,21 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela União, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (e-STJ, fl. 1.035):
+ADMINISTRATIVO. APELAÇÃO. PRELIMINAR DE ILEGITIMIDADE PASSIVA DA UNIÃO REJEITADA. REINTEGRAÇÃO DE POSSE. ÁREA DE REFLORESTAMENTO. OCUPAÇÃO INDÍGENA. INEXISTÊNCIA DE PROVA DA TRADICIONALIEDADE. MARCO TEMPORAL. NÃO DEMONSTRAÇÃO. SENTENÇA MANTIDA. INDENIZAÇÃO. DESCABIMENTO.
+1. Não há que se falar em ilegitimidade passiva ad causam da União na situação processual telada, uma vez que a própria Carta da República arrola dentre os bens do ente político federal "as terras tradicionalmente ocupadas pelos índios" (artigo 20, XI, CRFB) e fixa a obrigação da União de demarcar, proteger e fazer respeitar as terras indígenas e todos os direitos dos silvícolas (artigo 231 da CRFB).
+2. Agravo retido conhecido porquanto requerida expressamente a sua apreciação nas razões de apelação, em conformidade com o disposto no artigo 523, § 1º, do Código de Processo Civil. No mérito, vai desprovido o agravo, uma vez que, nos termos do art. 130 do CPC, "Caberá ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias à instrução do processo, indeferindo as diligências inúteis ou meramente protelatórias".
+3. Segundo o entendimento do STF: "A proteção constitucional estende-se às terras ocupadas pelos índios considerando-se, para efeitos dessa ocupação, a data em que foi promulgada a vigente Constituição. Vale dizer, terras por eles já ocupadas há algum tempo, desde que existente a posse indígena".
+4. Caso concreto em que procede o pedido de reintegração de posse.
+5. Pretensão indenizatória improcedente, pois a Perita foi taxativa ao afirmar que a área onde estão localizados os silvícolas não é utilizada para reflorestamento (Evento 2 - LAUDO/66, fls. 262), ou seja, o esbulho havido em nada influiu na não realização do projeto de reflorestamento por parte da autora, razão pela qual merece ser mantida a sentença no ponto em que afastou a pretensão indenizatória.
+Os embargos de declaração opostos foram acolhidos somente para prequestionamento (e-STJ, fl. 1073).
+Defende a insurgente, em síntese: i) nulidade por omissão quanto à ilegitimidade passiva da União (art. 535 do CPC/1973); e ii) ilegitimidade passiva da União em ação possessória contra alegado esbulho por grupos indígenas (arts. 128, 267, VI, § 3º, e 460 do CPC/1973; 5º, IV, do Decreto-Lei n. 200/1967; 1º, I a VII, da Lei n. 5.317/1967; e 34 e 35 da Lei n. 6.001/1973).
+Apresentadas contrarrazões (e-STJ, fls. 1.248-1.251), o recurso especial foi admitido na origem (e-STJ, fl. 1.262).
+Parecer do Ministério Publico Federal pelo não provimento do recurso especial (e-STJ, fls. 1.285-1.294).
+Processo com prioridade legal (art. 12, § 2º, VII, do CPC/2015, c/c a Meta 2/CNJ/2019 - "Identificar e julgar, até 31/12/2019, pelo menos, 99% dos processos distribuídos até 31/12/2014 e 95% dos distribuídos em 2015").
+É o relatório.
+Registro, de início, não acolher a tese de violação do art. 535 do CPC/1973, porquanto o acórdão recorrido fundamentou claramente seu posicionamento, de modo a prestar a jurisdição que lhe foi postulada. Confira-se a fundamentação (e-STJ, fl. 1.031):
+Não há que se falar em ilegitimidade passiva ad causam da União na situação processual telada, uma vez que a própria Carta da República arrola dentre os bens do ente político federal "as terras tradicionalmente ocupadas pelos índios" (artigo 20, XI, CRFB) e fixa a obrigação da União de demarcar, proteger e fazer respeitar as terras indígenas e todos os direitos dos silvícolas (artigo 231 da CRFB).
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de a Corte de origem haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura vício algum passível de exame em embargos de declaração.
+Ademais, tal argumento, como se nota pela transcrição, é eminentemente constitucional, faltando a esta Corte competência para apreciar a correção do acórdão que o aplicou.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
