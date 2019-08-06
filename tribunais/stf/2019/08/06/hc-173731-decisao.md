@@ -1,0 +1,27 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Tráfico de drogas. Regime inicial. Substituição da pena privativa de liberdade. Superação da Súmula 691/STF.
+1. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF).
+2. No julgamento do HC 111.840, de Relatoria do Ministro Dias Toffoli, ficou superada a obrigatoriedade de início do cumprimento da pena no regime fechado aos condenados por crimes hediondos ou a eles equiparados.
+3.  Da mesma forma, o Plenário do STF, no julgamento do HC 97.256, de Relatoria do Ministro Ayres Britto, declarou, incidentalmente, a inconstitucionalidade do art. 44 da Lei nº 11.343/06, na parte em que vedava a substituição da pena privativa de liberdade por medida restritiva de direitos, em favor dos condenados pela prática do crime de tráfico de entorpecentes
+4. Em se tratando de réu primário e de bons antecedentes, surpreendido com pequena quantidade de droga e condenado a uma pena inferior a 4 anos, a ordem deve ser concedida de ofício para fixar o regime prisional aberto.
+4. Habeas corpus não conhecido. Ordem concedida de ofício.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que deferiu a cautelar requerida nos autos do HC 520.885, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial fechado, pelo crime previsto no artigo 33, § 4º, da Lei 11.343/06.
+    3. O Tribunal de Justiça do Estado de São Paulo negou provimento à apelação da defesa. Ato contínuo, foram opostos embargos declaratórios, rejeitados.
+    4. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. A Presidência do STJ deferiu a medida cautelar para fixar o regime inicial semiaberto.
+    5. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a imposição de regime inicial mais gravoso. Alega, ainda, a possibilidade da substituição da pena privativa de liberdade por outra pena restritiva de direitos.
+    6. Com essa argumentação, requer a concessão da ordem a fim de que seja fixado o regime inicial aberto. Cumulativamente, pleiteia a conversão da pena privativa de liberdade.
+    Decido.
+    7. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF).
+    8. As peculiaridades do processo, contudo, autorizam a superação da Súmula 691/STF.
+    9. Verifico que o paciente foi condenado a 1 (um) ano e 8 (oito) meses de reclusão, no regime inicial fechado, pelo tráfico de 31,48 g de cocaína e 15,72 g de maconha. Na primeira fase da dosimetria, a pena-base foi fixada no mínimo legal (5 anos). O que significa dizer que todas as circunstâncias judiciais foram favoráveis ao sentenciado, nos termos do art. 59 do Código Penal. Ausentes circunstâncias agravantes ou atenuantes, a pena foi reduzida em 2/3, com a aplicação da minorante prevista no artigo 33, § 4º, da Lei de Drogas.
+    10. Em sede de habeas corpus, o Superior Tribunal de Justiça abrandou o regime imposto na sentença, fixando, contudo, o regime intermediário, notadamente em razão da quantidade pouco expressiva da droga apreendida (31,48 g de cocaína e 15,72 g de maconha).
+    10. Ocorre que esta Corte tem uma jurisprudência consolidada, no sentido de que “A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719 do STF). Além disso, o Plenário do Supremo Tribunal Federal, ao analisar o HC 111.840, de Relatoria do Ministro Dias Toffoli, por maioria, declarou, incidenter tantum, a inconstitucionalidade do art. 2º, § 1º, da Lei nº 8.072/1990, com a redação dada pela Lei nº 11.464/2007. Sendo assim, ficou superada a obrigatoriedade de início do cumprimento da pena no regime fechado aos condenados por crimes hediondos ou a eles equiparados.
+    11. Da mesma forma, o Plenário do Supremo Tribunal Federal, no julgamento do HC 97.256, Rel. Min. Ayres Britto, declarou, incidentalmente, a inconstitucionalidade do art. 44 da Lei nº 11.343/06, na parte em que vedava a substituição da pena privativa de liberdade por medida restritiva de direitos, em favor dos condenados pela prática do crime de tráfico de entorpecentes.
+    12. Nesse contexto, em se tratando de réu primário e de bons antecedentes, surpreendido com pequena quantidade de droga, não há como deixar de reconhecer a ilegalidade no estabelecimento de regime prisional (intermediário) mais severo que o legalmente permitido, nos termos do art. 33, § 3º, do Código Penal. Da mesma forma, condenado o paciente a 1 ano e 8 meses de reclusão, por crime que não envolveu violência ou grave ameaça à pessoa, faz jus, em princípio, à substituição da reprimenda, nos termos do art. 44 do Código Penal.
+    13. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, não conheço do habeas corpus. Contudo, concedo a ordem de ofício para fixar, desde logo, o regime inicial aberto e determinar ao Juízo da execução que examine a possibilidade de substituição da reprimenda, nos termos do art. 44 do Código Penal.
+    Comunique-se, com urgência.
+    Publique-se.
+    Brasília, 06 de agosto de 2019.
+Ministro Luís Roberto Barroso
+                            Relator
