@@ -1,0 +1,22 @@
+RECLAMAÇÃO. PENAL E PROCESSO PENAL. ALEGADA VULNERAÇÃO AO ENUNCIADO Nº 14 DA SÚMULA VINCULANTE. FUMUS BONI JURIS NÃO VERIFICADO PRIMO ICTU OCULI. LIMINAR INDEFERIDA.
+    Decisão: Trata-se de reclamação, com pedido de liminar, ajuizada contra ato do juízo da 2ª Vara Criminal da Comarca de São João Batista/SC, sob o fundamento de afronta à Súmula Vinculante nº 14 do STF.
+    Consta da petição inicial que os reclamantes “estão sendo investigados pela possível prática de crime de homicídio, realizado no dia 28/07/2019”, e, por tal razão, “o Sr. Delegado de Polícia fez um requerimento ao Juízo acima, para a efetivação da Prisão Temporária”, sendo que “os defensores dos suspeitos prontamente realizaram uma impugnação quanto a este pedido, já que a Delegacia sequer tentou ouvir os suspeitos e sequer há nos autos a causa da morte, já que ainda não retornou o Laudo do IGP”.
+    Os reclamantes alegam que “os advogados se dirigiram ao Fórum da Comarca para realizar a protocolização, mas foram surpreendidos pelo Juízo que tratava-se de autos sigilosos e que não era cabível o protocolo da petição nos autos, muito menos acesso ao processo”.
+    Aduzem que “na data de ontem (1º de agosto de 2019), estes defensores acompanharam a prisão do suspeito Cristian Lediones Backes, participando do seu depoimento, conforme prova-se do seu termo de interrogatório”, ressaltando que apenas solicitam “acesso aos autos para realizar o devido recurso contra a decisão que decretou a prisão preventiva”.
+    Requerem, em sede liminar, concessão de acesso “à integralidade dos autos nº 0001271-48.2019.8.24.0062 e a todos os feitos correlatados, até o julgamento final desta”, e, no mérito, “o integral provimento desta Reclamação, para o fim de confirmar a liminar acima requerida, permitindo que a defesa do Reclamante tenha acesso integral a todos os atos – passados, presentes e futuros – que estejam documentados nos autos nº 0001271-48.2019.8.24.0062”.
+    É o relatório.
+    DECIDO.
+    Não vislumbro, da análise perfunctória dos autos, os requisitos ensejadores para o deferimento da liminar.
+    Com efeito, a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, I, l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal.
+    A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a evitar o uso promíscuo do referido instrumento processual. Disso resulta: i) a impossibilidade de utilização per saltum da reclamação, suprimindo graus de jurisdição; ii) a impossibilidade de se proceder a um elastério hermenêutico da competência desta Corte, por estar definida em rol numerus clausus; e iii) a observância da estrita aderência da controvérsia contida no ato reclamado e o conteúdo dos acórdãos desta Suprema Corte apontados como paradigma.
+    In casu, da leitura do ato reclamado, exsurge que o pedido da defesa não foi atendido em razão de existir diligências sigilosas em andamento, estando em consonância, aparentemente, com a jurisprudência desta Corte. Nesse sentido, in verbis:
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. ALEGADA OFENSA À SÚMULA VINCULANTE 14. DILIGÊNCIA AINDA EM ANDAMENTO. CONTRADIÇÃO ENTRE ATO RECLAMADO E AS INFORMAÇÕES PRESTADAS. IRRELEVÂNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. Diligências ainda em andamento não estão contempladas pelo teor da súmula vinculante 14. 2. A contradição suscitada pelo agravante entre o ato reclamado e as informações prestadas não é relevante, pois ainda subsiste o argumento de que as diligências encontram-se em andamento. 3. Agravo regimental a que se nega provimento.” (Rcl 22.062-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 20/05/2016)
+    Desta sorte, não se vislumbra, primo oculi, o fumus boni iuris necessário ao deferimento da medida cautelar.
+    Ex positis, INDEFIRO o pedido de liminar.
+    Requisitem-se informações pormenorizadas à autoridade reclamada, nos termos do artigo 989, I, do Código de Processo Civil.
+    Em seguida, dê-se vista dos autos ao Ministério Público Federal, para manifestação.
+    Publique-se.
+    Brasília, 6 de agosto de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
