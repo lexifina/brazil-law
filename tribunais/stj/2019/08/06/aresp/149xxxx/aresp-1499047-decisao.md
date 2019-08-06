@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo apresentado por BANCO DO BRASIL SA, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO POR DANO MORAL. PRETENSÃO DO AUTOR JULGADA PROCEDENTE. CUMPRIMENTO DE SENTENÇA. DEPÓSITO DE QUANTIA PARA GARANTIR O JUÍZO. ALVARÁ EXPEDIDO EM FAVOR DO EXEQUENTE ANTERIORMENTE À ANÁLISE DA IMPUGNAÇÃO OFERTADA PELO DEMANDADO. LIBERAÇÃO DE "PARCELA INCONTROVERSA". RECURSO DESPROVIDO.
+01. Dispõe o Código de Processo Civil que "é lícito ao réu, antes de ser intimado para o cumprimento da sentença, comparecer em juízo e oferecer em pagamento o valor que entender devido, apresentando memória discriminada do cálculo" (art. 526) e que "o autor será ouvido no prazo de 5 (cinco) dias, podendo impugnar o valor depositado, sem prejuízo do levantamento do depósito a título de parcela incontroversa" (§ 1º).
+02. Tangencia a má-fé (CPC, art. 80) a "impugnação" do executado ao pedido de levantamento de "parcela incontroversa".
+Quanto à controvérsia, alega violação dos arts. 186, 188, 884, 927 e 944 do Código Civil e dissídio jurisprudencial, no que concerne ao enriquecimento sem causa em razão de arbitramento de multa diária sem limitação por descumprimento, trazendo o(s) seguinte(s) argumento(s):
+Primeiramente, diante de todo o esposado, e efetuados todos os esclarecimentos necessários sobre a realidade dos fatos, se mostra imprecisa o arbitramento, ao Banco do Brasil, de multa diária sem limitação por descumprimento. Assim, o levantamento de qualquer valor até definição do quanto realmente devido é medida que se impõe vez que a reversão sem garantia ficará prejudicada, enquanto a manutenção do depósito em nada afeta o direito da parte recorrida.
+Além disso, ainda que fosse cabível na espécie a concessão de tutela de urgência, importante salientar que, o valor fixado pelo MM. Juízo a quo e mantido pelo Tribunal a quo em caso de incidência de multa por descumprimento deverá ser sabiamente mensurada (fl. 102).
+A preocupação da Recorrente no tocante ao valor da multa fixada pela r. decisão, reside no fato de que, no futuro, possa ser surpreendido pela cobrança de valor exorbitante, sendo que o descumprido a ordem judicial o que não houve em nenhum momento, ocorrendo um verdadeiro cenário de violação do art. 884 do CCB. (fls. 102/103).
+É o relatório. Decido.
+Quanto à controvérsia, na espécie, o acórdão recorrido assim decidiu:
+02. Destaco: o quantum liberado aos credores corresponde ao valor da condenação relativo à compensação do dano moral (R$ 15.000,00) e mais os honorários advocatícios (15%). Em 21.07.2017, data da liberação do "alvará judicial", o valor da condenação equivalia a R$ 46.138,02 (quarenta e seis mil cento e trinta e oito reais e dois centavos).
+Não há controvérsia em relação ao direito dos credores ao quantum.
+Impunha-se, destarte, a liberação da "parcela incontroversa" (CPC, art.
+526, § 1º).
+03. O recurso do devedor tangencia a má-fé (CPC, art. 80).
+Há questões nele suscitadas que não guardam qualquer relação com o decisum agravado. A impugnação do "cumprimento da sentença" quanto à parte controversa será resolvida posteriormente, quando do julgamento do mérito da pretensão dos credores (fl. 94).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão totalmente dissociadas dos fundamentos utilizados no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Verifica-se que o recurso encontra-se deficientemente fundamentado, uma vez que as razões insertas no recurso não permitem a exata compreensão da controvérsia, na medida em que se encontram dissociadas dos fundamentos da decisão agravada, aplicando-se, ao caso, por analogia, o enunciado da Súmula 284/STF" (AgRg no AREsp n. 1.394.624/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/3/2019).
+Confiram-se ainda os seguintes precedentes: EDcl nos EDcl nos EAREsp n. 740.722/SE, relator Ministro Francisco Falcão, Corte Especial, DJe de 14/12/2017; e REsp n. 1.722.691/SP, relator Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe 15/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
