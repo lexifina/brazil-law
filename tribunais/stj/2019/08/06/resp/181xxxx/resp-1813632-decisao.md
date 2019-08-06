@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF interposto contra acórdão proferido pelo TJRJ assim ementado (e-STJ fls. 843/845):
+EMENTA APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER JULGADA PROCEDENTE. SEGURO DE VIDA EM GRUPO. RELAÇÃO DE CONSUMO - INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. INTERESSES DE PESSOAS MAIORES DE 60 (SESSENTA) ANOS. NECESSIDADE DE OBSERVAR AS REGRAS DO ESTATUTO DO IDOSO PARA PRESERVAR A SAÚDE FÍSICA E MENTAL E A DIGNIDADE DA PESSOA QUE SE ACHA NAQUELAS CONDIÇÕES.
+ASSINATURA DO CONTRATO DE SEGURO HÁ MAIS DE 20 (VINTE) ANOS, COM PREVISÃO DE QUE A APÓLICE PODERIA SER RENOVADA EM SEU ANIVERSÁRIO, DE MODO AUTOMÁTICO. HIPÓTESE DE CONTRATOS CATIVOS DE LONGA DURAÇÃO. INEXISTÊNCIA DE CLÁUSULA NO CONTRATO PREVENDO O REAJUSTE POR FAIXA ETÁRIA. APELADOS QUE CONTRIBUIRAM POR LONGOS ANOS, NÃO SENDO RAZOÁVEL AGORA, NO MOMENTO EM QUE MAIS PRECISAM DA COBERTURA CONTRATUAL DE SEGURO, A APELANTE EXIGIR VANTAGENS MANIFESTAMENTE EXCESSIVAS PARA AQUELES FINS. CLÁUSULA ABUSIVA RECONHECIDA. APLICAÇÃO DO ART. 39, V, DO CÓDIGO DE DEFESA DO CONSUMIDOR. IMPOSSIBILIDADE DE RESILIÇÃO DO CONTRATO, QUE DEVE SER MANTIDO, NOS TERMOS EXISTENTES. REAJUSTAMENTO SEGUNDO AS CONDIÇÕES ANTERIORES OU DA LEGISLAÇÃO PERTINENTE. ORIENTAÇÃO DA JURISPRUDÊNCIA CITADA NO PARECER DA ILUSTRE PROCURADORA DE JUSTIÇA E NOS PRECEDENTES DESTE. EG. TRIBUNAL DE JUSTIÇA. AC Nº 2008.001.23800 E AC Nº. 2007.001.41039. SENTENÇA CORRETA. DESPROVIMENTO DO RECURSO. DECISÃO UNÂNIME.
+Os embargos de declaração foram rejeitados (e-STJ fls. 793/794).
+Em suas razões (e-STJ fls. 796/812), a recorrente alega, além de dissídio jurisprudencial, ofensa aos arts. 796 do CC/2002 e 39, V, do CDC, sustentando a possibilidade de não renovação do contrato de seguro de vida coletivo.
+Foram apresentadas contrarrazões (e-STJ fls. 837/841).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Extraem-se as seguintes razões de decidir das instâncias de origem (e-STJ fls. 713/714):
+O artigo 774 do Código Civil proíbe expressamente a recondução tácita do contrato pelo mesmo prazo por mais de uma vez. Por outro lado, o artigo 796 dispõe que o prêmio, no seguro de vida, será conveniado por prazo limitado ou por toda vida do segurado.
+Desta forma, houve flagrante violação por parte da seguradora do artigo 774 do Código Civil, vez que os contratos dos autores vêm se renovando automaticamente por mais de vinte anos. Assim, a violação da referida norma do artigo 774 do diploma legal citado, impõe no reconhecimento de que os contratos de vida dos autores foram conveniados por toda a vida dos segurados.
+(..)
+Desta forma, e como as várias renovações já se perpetuam por mais de vinte anos, devem os contratos dos autores ser considerados, respectivamente, como contratos únicos e vitalícios, não sendo legítima a pretensão da empresa ré em alterar unilateralmente as respectivas cláusulas.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de que teria havido afronta ao art. 774 do CC/2002, tendo em vista a impossibilidade de renovações sucessivas, por mais de uma vez, razão pela qual se trataria de contrato conveniado por toda a vida dos segurados. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Além disso, a insurgência recursal não pode ser sustentada apenas com base no art. 776 do CC/2002, o qual se limita a regular a possibilidade de renovação, e não a hipótese de rescisão, conforme reconhecido no caso concreto. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Além disso, dissentir das conclusões do acórdão impugnado implicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
