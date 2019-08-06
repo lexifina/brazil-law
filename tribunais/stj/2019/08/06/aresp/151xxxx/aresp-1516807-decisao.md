@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] E DIAGNOSTICO CAMPINAS S/S contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL E TRIBUTÁRIO AÇÃO DECLARATÓRIA IRPJ E CSLL REDUÇÃO NA BASE DE CÁLCULO SERVIÇOS HOSPITALARES PERÍODO ENTRE 08/06/2005 A 31/12/2008 RESTITUIÇÃO/COMPENSAÇÃO POSSIBILIDADE PRESCRIÇÃO QÜINQÜENAL OCORRÊNCIA A PARTIR DE 01/01/2009 SOMENTE SOCIEDADE EMPRESÁRIA REQUISITO OBJETIVO SOCIEDADE SIMPLES LIMITADA IMPOSSIBILIDADE O BENEFÍCIO VISA A FORMA E NÃO SEU CONTEÚDO RECURSO DE APELAÇÃO E REMESSA OFICIAL DESPROVIDOS SENTENÇA MANTIDA
+O recorrente alega violação dos arts. 926 do CPC e 5º da Lei de Introdução às normas do Direito Brasileiro, trazendo os seguintes argumentos:
+Verifica-se que não há uma uniformização em relação a mesma matéria, qual seja: "interpretação de serviços hospitalares para fins de definição da base de cálculo do IRPJ e CSLL". Pois, uma hora a jurisprudência diz que não se deve levar em conta o contribuinte em si (critério subjetivo), mas sim a natureza do serviço de assistência à saúde prestada. Noutra hora sem qualquer consideração com a natureza do serviço de atenção a saúde prestada, leva em consideração o contribuinte (critério subjetivo), no sentido de saber se estaria ou não organizado sob a forma de sociedade empresária para pronunciar se teria ou não o direito.
+Nesse sentido, a fundamentação do v.acórdão contraria o artigo Art. 926 do NCPC, no qual dispõe que: "Os tribunais devem uniformizar sua jurisprudência e mantê-la estável, integra e coerente".
+ ..
+A Lei de Introdução ao Direito Brasileiro é clara aos dispor em seu Art. 52 que: "na aplicação da lei o juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum".
+Verifica-se que a aplicação da malfada lei no qual exige que a sociedade esteja organizada sob forma de sociedade empresária, não atende os fins sociais e os bens comuns de referido dispositivo legal, mesmo sabendo o E. Tribunal que a exemplo do recorrente, muitos outros estabelecimentos de atenção à saúde estão organizados sob a forma de sociedade simples. (fls. 314/317)
+É o relatório. Decido.
+Incide, na espécie, o óbice da Súmula n. 211/STJ, uma vez que as questões trazidas pelo recorrente não foram examinadas pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
