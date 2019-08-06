@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo apresentado por FLORESTA CENTER COMERCIO DE ROUPAS E CALCADOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO  MANDADO DE SEGURANÇA  OPERAÇÃO CARTÃO VERMELHO  PRETENSÃO À ANULAÇÃO DO ATO DE EXCLUSÃO DO REGIME SIMPLES NACIONAL - DENEGAÇÃO DA SEGURANÇA  MANUTENÇÃO QUE SE IMPÕE  INOCORRÊNCIA DE VIOLAÇÃO AO SIGILO BANCÁRIO  VERIFICAÇÃO FISCAL LIMITADA AO SIMPLES SOMATÓRIO DOS PAGAMENTOS EFETUADOS PELOS TITULARES DOS CARTÕES BEM COMO DOS REPASSES FEITOS AOS ESTABELECIMENTOS CREDENCIADOS QUE NÃO SE TRATA DE EFETIVA QUEBRA DE SIGILO BANCÁRIO (ART 6 LC 105/01)  PRECEDENTES  SENTENÇA MANTIDA - APELO NÃO PROVIDO
+O recorrente alega violação do art. 6º da Lei Complementar n. 105/2001, trazendo, em síntese, o seguinte argumento:
+Afrontam a Lei Complementar nº 105/2001 o Termo de Exclusão do Simples Nacional e a legislação paulista que fundamentou a conduta adotada pelo Estado de São Paulo, razão pela qual o Poder Judiciário deve restabelecer a eficácia da legislação federal, cuja vigência foi negada pelo E. Tribunal bandeirante. (fls. 318).
+É o relatório. Decido.
+Incabível o recurso especial uma vez que a tese recursal apresenta conflito entre lei federal e lei local, o que evidencia o caráter eminentemente constitucional da demanda.
+Nesse sentido, já se decidiu que, "nos termos do art. 102, II, d, da Constituição Federal, cabe ao Supremo Tribunal Federal julgar, mediante recurso extraordinário, a decisão que assentar válida lei local contestada em face de lei federal" (REsp n. 1.790.976/RJ, relator Ministro Og Fernandes, Segunda Turma, DJe de 8/4/2019).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.767.744/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 3/4/2019; AgInt no AREsp n. 758.191/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 4/10/2017; AgRg no REsp n. 1.418.878/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/8/2016; e AgRg no REsp n. 1.594.909/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 5/12/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
