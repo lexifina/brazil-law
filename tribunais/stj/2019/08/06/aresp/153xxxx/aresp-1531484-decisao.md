@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. O ÓBICE DA SÚMULA 7 DO STJ IMPOSSIBILITA A ANÁLISE DO DISSÍDIO JURISPRUDENCIAL A RESPEITO DO QUANTUM INDENIZATÓRIO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DA DIVERGÊNCIA JURISPRUDENCIAL A RESPEITO DO TERMO INICIAL DOS JUROS DE MORA. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
+DECISÃO
+LAURO PORTO (LAURO) ajuizou ação indenizatória por danos morais contra BANCO SANTANDER S/A (BANCO SANTANDER), que foi julgada procedente.
+As apelações interpostas por LAURO e por BANCO SANTANDER foram parcialmente providas pelo Tribunal de origem, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. DESCUMPRIMENTO DE ACORDO. MANUTENÇÃO DE INSCRIÇÃO EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO. DANOS MORAIS. CONFIGURAÇÃO. Comprovado o ato ilícito praticado pelo réu, que manteve o nome da autora nos órgãos de restrição ao crédito após a homologação judicial do acordo entabulado pelos litigantes e o pagamento do débito, caracterizado está o dano in re ipsa. Sentença mantida.
+QUANTUM INDENIZATÓRIO. REDUÇÃO. Em atenção aos parâmetros estabelecidos pela doutrina e jurisprudência pátrias para a fixação do montante indenizatório, atento às particularidades do caso concreto, o quantum de R$ 3.000,00 (três mil reais), acrescido de correção monetária e juros moratórios legais, se mostra razoável e proporcional. Sentença reformada no ponto.
+JUROS DE MORA. TERMO INICIAL. Em se tratando de responsabilidade civil contratual, os juros de mora são devidos a contar da citação, nos termos do art. 405 do Código Civil. Precedentes. Sentença mantida.
+HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. É cediço que, no arbitramento da verba honorária, deve o juiz considerar o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e a importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, nos termos do art. 85, § 2º do CPC. Verba honorária majorada para 20% sobre o valor da condenação, considerando as peculiaridades do caso concreto.
+APELAÇÕES PARCIALMENTE PROVIDAS. (e-STJ fls. 174)
+Os embargos de declaração interpostos foram rejeitados. (e-STJ fls. 197)
+Inconformado, LAURO interpôs recurso especial, com fundamento no art. 105, III, a e c, da CF, alegando violação dos arts. 369, incs. I e II, 371, 373, incs. I e II, e 1.022, incs. I e II, do NCPC e 186, 927 e 422 do CC, ao sustentar que (1) houve omissão do tribunal a respeito do prequestionamento dos dispositivos legais apontados nos embargos de declaração; e (2) há divergência jurisprudencial a respeito do quantum indenizatório, requerendo sua majoração, e a respeito do termo inicial dos juros de mora.
+O apelo nobre não foi admitido em virtude (i) da ausência de negativa de prestação jurisdicional; (ii) do valor da indenização por dano moral ser razoável e sua alteração atrair a incidência da Súmula 7 do STJ; (iii) da divergência jurisprudencial a respeito do valor da indenização não ter sido demonstrada com o cotejo analítico; (iv) da incidência da Súmula 284 do STJ, tendo em vista a ausência de indicação de dispositivo legal objeto da interpretação divergente; (v) da divergência jurisprudencial a respeito dos juros de mora estar amparada em súmula, não tendo sido apontado o artigo de lei que instaurou a divergência, atraindo a incidência da Súmula 284 do STF; e (vi) o termo inicial dos juros de mora está de acordo com a jurisprudência do STJ, atraindo a incidência da Súmula 83 do STJ.
+Nas razões do presente agravo em recurso especial, LAURO sustentou que (a) houve omissão do Tribunal de origem; (b) não incide a Súmula 83/STJ na questão do valor da indenização; (c) o valor da indenização é irrisório; (d) a revisão do valor da indenização não atrai a súmula 7 do STJ; (e) realizou o cotejo analítico a respeito do quantum indenizatório; (f) os juros de mora devem incidir a partir do evento danoso; (g) não é caso de incidência da Súmula 83 do STJ, no que se refere ao termo inicial dos juros de mora; (h) não é caso de incidência da Súmula 284 do STF, pois "a fundamentação contida na súplica especial é perfeitamente compreensível"; e (i) houve indicação dos dispositivos legais.
+Sem impugnação.
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+(1) Alegação de ocorrência de negativa de prestação jurisdicional
+O recorrente alega que o Tribunal de origem se omitiu em prequestionar os dispositivos legais apontados nos embargos de declaração. Entretanto é pacífico nesta Corte que o julgador não está obrigado a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+No caso, o tribunal de origem analisou as questões que lhe pareceram necessárias à solução da causa, encontrando-se o acórdão fundamentado de forma a não ensejar dúvidas acerca das razões de ordem jurídica que lhe deram sustentação.
+Assim, não estão presentes os vícios do art. 1.022 do NCPC.
+(2) Da divergência jurisprudencial a respeito do quantum indenizatório
+É impossível o conhecimento do recurso lastreado pela alínea c do permissivo constitucional, uma vez que para verificar a identidade entre o paradigma apresentado e os fundamentos do acórdão recorrido, necessário seria o reexame da situação fática de cada caso. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. IDEC. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ILEGITIMIDADE DA PARTE RECONHECIDA. INEXISTÊNCIA DE MENÇÃO EXPRESSA NO TÍTULO JUDICIAL ACERCA DO SEU ALCANCE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE APRECIAÇÃO DADA A INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  ..
+2.  ..
+3. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no AREsp 965.951/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/12/2016, DJe 1/2/2017 - sem destaque no original)
+(3) Da divergência jurisprudencial a respeito do termo inicial dos juros de mora
+O conhecimento do recurso especial, pelas alíneas a e c do permissivo constitucional, exige a indicação de qual dispositivo legal teria sido violado ou objeto de interpretação divergente, entre o acórdão impugnado e os paradigmas, sob pena de incidência, por analogia, da Súmula nº 284 do STF.
+No caso, o recorrente não indicou de forma clara e precisa qual o dispositivo legal teria sido violado a respeito do termo inicial dos juros de mora, ressaltando que o recurso especial é de fundamentação vinculada. Assim, incidente à hipótese, o teor da Súmula nº 284, do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. TRANSPORTE COLETIVO. DANO MORAL. 1. MAJORAÇÃO DA INDENIZAÇÃO. QUESTÃO DEVIDAMENTE FUNDAMENTADA NO ACÓRDÃO RECORRIDO. 2. REDUÇÃO DO VALOR DA CONDENAÇÃO. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA 7/STJ. 3. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284 DO STF. 4. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. A Corte Especial do STJ decidiu, no julgamento do AgRg no REsp 1.346.588/DF, Relator o Ministro Arnaldo Esteves Lima, que no recurso especial interposto com base na divergência jurisprudencial (art. 105, III, c, da CF), é imprescindível a indicação dos dispositivos legais sobre os quais se baseia o dissenso interpretativo, sob pena de não conhecimento do recurso.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1.579.618/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 1º/7/2016 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DAS DESPESAS MÉDICAS E HOSPITALARES. AFRONTA AO ART. 535 DO CPC. NÃO OCORRÊNCIA. DANOS MORAIS. QUANTUM. SÚMULA Nº 284 DO STF. ESPÓLIO. HERDEIROS. LEGITIMIDADE ATIVA DA HERDEIRA PARA PLEITEAR DIREITO DA FALECIDA EM NOME PRÓPRIO. SÚMULA Nº 211 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. REFORMA DO JULGADO. MATÉRIA FÁTICO-PROBATÓRIA. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA.
+ ..
+3. Inviável análise de recurso especial interposto pela alínea c do permissivo constitucional que não indica, com clareza e precisão, os dispositivos de lei federal em relação aos quais haveria dissídio jurisprudencial. Incidência, por analogia, da Súmula nº 284 do STF.
+4. A divergência jurisprudencial não foi comprovada nos moldes estabelecidos nos arts. 1.029, parágrafo único, do NCPC, e 255, § 2º, do RISTJ.
+ ..
+7. Agravo interno não provido.
+(AgInt no AREsp 893.976/SP, minha relatoria, Terceira Turma, DJe 29/6/2016 - sem destaque no original)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. DANOS MORAIS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284/STF. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. DIVERGÊNCIA NÃO DEMONSTRADA. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A falta de indicação do dispositivo legal supostamente violado obsta o conhecimento do recurso especial, ainda que interposto com fundamento na alínea "c" do permissivo constitucional (Súmula n. 284/STF).
+ ..
+5. Agravo interno a que nega provimento.
+(AgInt no AREsp 895.279/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 19/9/2016 - sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para CONHECER EM PARTE o recurso especial e, nessa extensão, NEGAR PROVIMENTO.
+Publique-se. Intimem-se.
