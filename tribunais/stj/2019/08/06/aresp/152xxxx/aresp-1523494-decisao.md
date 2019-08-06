@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO APOSENTADORIA RURAL POR IDADE ATIVIDADE RURAL REGIME DE ECONOMIA FAMILIAR REQUISITOS LEGAIS INÍCIO DE PROVA MATERIAL COMPLEMENTAÇÃO POR PROVA TESTEMUNHAL.
+Quanto à primeira controvérsia, alega violação do art. 143 da Lei n. 8.213/1991, no que concerne à impossibilidade de aproveitamento do período rural remoto para fins de aposentadoria rural por idade em razão da descontinuidade por mais de 24 meses da qualidade de segurada especial, trazendo o(s) seguinte(s) argumento(s):
+Revela-se inviável o aproveitamento do período remoto para fins de carência, uma vez que passados mais de 24 meses da perda da qualidade de segurada especial. O largo período de tempo foge ao conceito de descontinuidade previsto no art. 143. O posicionamento do STJ acerca da matéria foi firmado no julgamento do AgRg no REsp 1354939/CE (fl. 299).
+Para o Tribunal Superior, deve-se aplicar de forma analógica as regras do período de graça previstas no art. 15 da Lei 8.213/91, que não ultrapassam os 24 meses. Portanto, passados mais de 24 meses da perda da qualidade de segurado especial, resta impossibilitado o aproveitamento do período rural remoto para fins de aposentadoria por idade (fl. 300).
+É o relatório. Decido.
+Não houve, na espécie, o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
