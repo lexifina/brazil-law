@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo apresentado pela OI S.A. - EM RECUPERACAO JUDICIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO DIREITO PRIVADO NÃO ESPECIFICADO SUBSCRIÇÃO DE AÇÕES FASE DE CUMPRIMENTO DE SENTENÇA AGRAVO DE INSTRUMENTO DESPROVIDO UNÂNIME.
+No que tange à cotação das ações da telefonia fixa, deve ser respeitado o disposto em decisão anterior, a qual determinou a utilização do valor de R$ 29,50.
+Os dividendos devem incidir durante todo o período em que os agravados deveriam ter integrado os quadros societários até o trânsito em julgado da ação de conhecimento, conforme entendimento consolidado pelo Superior Tribunal de Justiça no REsp. n. 1.301.989-RS, o qual também pacificou que os juros de mora devem incidir desde a citação.
+AGRAVO DE INSTRUMENTO DESPROVIDO. UNÂNIME.
+Alega violação do art. 502 do CPC, no que concerne à necessidade de reconhecimento da coisa julgada para que seja determinada a utilização do valor das ações da Celular CRT na data da cisão, trazendo o(s) seguinte(s) argumento(s):
+O v. acórdão recorrido foi desprovido sob o equivocado entendimento que inviável acolher a pretensão da embargante para que as ações da telefonia móvel correspondam à cotação na data da cisão, na medida em que a decisão da fl. 1298 (fl. 1037 dos autos eletrônicos) determinou que o valor a ser calculado da dobra acionária corresponda a R$ 29,50.
+ Ocorre que, ao assim decidir o Tribunal a quo acabou por violar o disposto no artigo 502 do CPC/2015, que expressamente prevê que denomina-se coisa julgada material a autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso.
+ Dessa forma, como se sabe, a fase de liquidação e de impugnação ao cumprimento de sentença devem, obrigatoriamente, se atentar ao disposto no título executivo transitado em julgado, que se busca liquidar. Portanto, todos os critérios predefinidos no título executivo devem ser observados, sob pena de violação a coisa julgada (fls. 1427).
+É o relatório. Decido.
+O Tribunal de origem assim se manifestou:
+"No que tange à cotação das ações da telefonia móvel, deve ser respeitado o disposto na decisão da fl. 1298 (fl. 1037 dos autos eletrônicos), que determinou a utilização do valor de R$ 29,50."
+Inviável acolher a pretensão da embargante para que as ações da telefonia móvel correspondam à cotação na data da cisão, na medida em que a decisão da fl. 1298 (fl. 1037 dos autos eletrônicos) determinou que o valor a ser calculado da dobra acionária corresponda a R$ 29,50 (fl. 1.378).
+Incide, portanto, o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste no reconhecimento da violação à coisa julgada através da revisão da interpretação do teor do título executivo judicial realizada pela Corte de origem, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido, a jurisprudência do STJ firmou que: "Esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp n. 770.444/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019).
+Confiram-se ainda os seguintes precedentes: REsp n. 1.431.610/GO, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/2/2019; AgRg no AREsp n. 755.581/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/2/2016; e AgInt no AREsp n. 1.161.225/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 24/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
