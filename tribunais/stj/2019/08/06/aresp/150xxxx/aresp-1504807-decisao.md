@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado por ASSOCIACAO JABOTICABALENSE DE EDUCACAO E CULTURA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS - Cumprimento de sentença - Bloqueio mensal e sucessivo de valores em contas bancárias - Possibilidade - Comprometimento das atividades empresariais - Comprovação - Inexistência - Medida necessária para dar efetividade à execução - Decisão mantida - Recurso desprovido.
+Quanto à primeira controvérsia, pela alínea a do permissivo constitucional, alega violação do art. 866 do CPC, aduzindo que houve, no caso, penhora sobre o faturamento da recorrente sem a necessária observância ao art. 866 do CPC, trazendo os seguintes argumentos:
+Referido artigo disciplina de modo expresso que a penhora sobre percentual de faturamento da empresa deve observar, necessariamente a nomeação de uma administrador-depositário a fim de não tornar inviável o exercício da atividade do Executado (fls. 287).
+A bem da verdade, no caso sub judice ocorre a excepcional aplicação da penhora de faturamento sem a observância dos requisitos que disciplinam a matéria considerando que o bloqueio mensal atinge o pagamento das despesas correntes da Recorrente, entre elas aquelas relativas ao corpo docente, funcionários e despesas básicas de funcionamento (fls. 287).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
