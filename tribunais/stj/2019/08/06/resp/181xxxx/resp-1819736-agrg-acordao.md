@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. REINCIDÊNCIA. RECONHECIMENTO PELO JUÍZO DA EXECUÇÃO. UNIFICAÇÃO DE PENAS. POSSIBILIDADE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. "A jurisprudência dessa Corte Superior é firme no sentido de que, se houver novas condenações no curso da execução penal, a reincidência do Apenado deve ser reconhecida no momento da unificação das penas, se estendendo sobre a totalidade das reprimendas somadas e repercutindo na concessão dos benefícios executórios.  ..  Não importa, portanto, que o Apenado tenha sido considerado primário na condenação anterior, tendo em vista que a análise das circunstâncias pessoais (reincidência ou primariedade) é de competência do juízo da execução no momento do deferimento, ou não, dos benefícios". (AgRg no HC 498.546/MS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 30/05/2019, DJe 11/06/2019).
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+EXMO. SR. MINISTRO JORGE MUSSI(Relator): Cuida-se de agravo regimental interposto por WELBERT RAMOS DE OLIVEIRA contra decisão unipessoal deste relator que deu provimento ao recurso especial manejado pelo Ministério Público do Estado de Minas Gerais (e-STJ fls. 256-259).
+Sustenta, em síntese, que há entendimento nesta Corte no sentido de que a reincidência não expressamente reconhecida no édito condenatório não pode ser proclamada pelo juiz da execução.
+Aponta que o egrégio STF entendeu pela constitucionalidade da aplicação da reincidência como agravante de pena nos processos criminais, ao julgar o RE 453.000/RS, e pela inexistência de possibilidade de alteração do tempo de pena a cumprir do livramento condicional em processo anterior ao novo fato ensejador da reincidência.
+Alega, ainda, que naquela assentada os ministros concluíram expressamente expressamente que não se aumenta a pena constante do título pretérito.
+Destaca, assim, que a decisão destoaria de questão decidida em recurso extraordinário com repercussão geral, além de violar a lei de execução penal, o código penal e a constituição federal.
+Requer, ao fim, a reconsideração da decisão impugnada ou a apresentação do feito em mesa para submissão ao Colegiado para que seja negado provimento ao recurso especial do Parquet.
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO JORGE MUSSI(Relator): A irresignação não merece acolhida.
+Com efeito, os argumentos recursais não são suficientes para infirmar os fundamentos da decisão agravada, notadamente porque acórdão impugnado está em dissonância com a orientação jurisprudencial desta Corte, no sentido de que, se houver novas condenações no curso da execução penal, a reincidência do apenado deve ser reconhecida no momento da unificação das penas, se estendendo sobre a totalidade das reprimendas somadas e repercutindo na concessão dos benefícios executórios.
+Sob esse prisma, não importa que o apenado tenha sido considerado primário na condenação anterior, pois a análise das circunstâncias pessoais (reincidência ou primariedade) é de competência do juízo da execução no momento do deferimento, ou não, dos benefícios.
+Nesse sentido, transcrevo excerto do voto proferido pelo Ministro ROGERIO SCHIETTI CRUZ, Relator do AgRg no AREsp n.º 1.237.581/MS (grifos acrescidos):
+" ..  No processo de execução, como nosso país adota o sistema progressivo de cumprimento da pena, a reincidência será analisada de forma global, de acordo com as condenações unificadas do reeducando, para fins de concessão de benesses legais, visto que o legislador diferenciou o tratamento entre reeducandos primários e reincidentes.
+O apenado que registra mais de uma condenação transitada em julgado terá que cumprir frações mais elevadas para alcançar a progressão de regime e o livramento condicional, pois exige-se daquele que viola reiteradamente o ordenamento jurídico maiores responsabilidades antes de fazer jus às benesses que hoje integram o sistema progressivo de pena. Reafirmo que não cabe ao Juiz da Execução rever a pena e o regime aplicados no título judicial a cumprir. Contudo, é de sua competência realizar o somatório das condenações (unificação das penas), analisar a natureza dos crimes (hediondo ou a ele equiparados) e a circustância pessoal do reeducando (primariedade ou reincidência) para fins de fruição de benefícios da LEP." (AgRg no AREsp 1.237.581/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/06/2018, DJe 01/08/2018, sem grifos no original.)
+A propósito (grifos acrescidos):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. REINCIDÊNCIA.RECONHECIMENTO PELO JUÍZO DA EXECUÇÃO. UNIFICAÇÃO DE PENAS. POSSIBILIDADE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A "prolação de decisão monocrática por relator não viola o princípio da colegialidade, tendo em vista a existência de possibilidade de submissão do julgado ao órgão colegiado, mediante a interposição de agravo regimental" (AgRg no HC 335.457/SP, Rel.
+Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/10/2018, DJe 09/11/2018).
+2. A jurisprudência dessa Corte Superior é firme no sentido de que, se houver novas condenações no curso da execução penal, a reincidência do Apenado deve ser reconhecida no momento da unificação das penas, se estendendo sobre a totalidade das reprimendas somadas e repercutindo na concessão dos benefícios executórios.
+3. Não importa, portanto, que o Apenado tenha sido considerado primário na condenação anterior, tendo em vista que a análise das circunstâncias pessoais (reincidência ou primariedade) é de competência do juízo da execução no momento do deferimento, ou não, dos benefícios.
+4. Agravo regimental desprovido.
+(AgRg no HC 498.546/MS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 30/05/2019, DJe 11/06/2019)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. RECONHECIMENTO DA REINCIDÊNCIA PELO JUÍZO DA EXECUÇÃO CRIMINAL. POSSIBILIDADE. AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA. CIRCUNSTÂNCIA PESSOAL QUE INTERFERE NA EXECUÇÃO COMO UM TODO. CASO CONCRETO. REINCIDÊNCIA CONSIDERADA NA PRIMEIRA FASE DA DOSIMETRIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO PROVIDO.
+I - A reincidência do acusado constitui circunstância pessoal que acompanha o condenado durante toda a execução, podendo ser reconhecida pelo Juízo que supervisiona o cumprimento da pena, ainda que não declarada pelo Juízo que prolatou a sentença condenatória. Precedentes.
+II - A jurisprudência desta Corte Superior de Justiça assentou o entendimento de que "não cabe ao Juiz da Execução rever a pena e o regime aplicados no título judicial a cumprir. Contudo, é de sua competência realizar o somatório das condenações (unificação das penas), analisar a natureza dos crimes (hediondo ou a ele equiparados) e a circustância pessoal do reeducando (primariedade ou reincidência) para fins de fruição de benefícios da LEP" (AgRg no AREsp 1.237.581/MS, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe 1º/8/2018).
+III - In casu, afasta-se a configuração de constrangimento ilegal, ademais, porque a reincidência foi apontada no título executivo, porém aplicada na primeira fase da dosimetria, como maus antecedentes, de modo que, ainda com mais razão, deve refletir na execução penal. Precedentes.
+Agravo regimental provido.
+(AgRg no HC 422.606/ES, Rel. Ministro RIBEIRO DANTAS, Rel. p/ Acórdão Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/12/2018, DJe 01/02/2019)
+Nesse contexto, a decisão agravada não merce reforma e mantém-se por seus próprios fundamentos.
+ Ante o exposto, nega-se provimento ao agravo regimental.
+É o voto.
