@@ -1,0 +1,15 @@
+DESPACHO: O presente recurso extraordinário foi interposto pelo Banco Abn Amro Real S.A. contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está, no ponto objeto de impugnação no apelo extremo, assim ementado:
+    “CAPITALIZAÇÃO DE JUROS. IMPOSSIBILIDADE DE APLICAÇÃO DA MP 2.170. No caso concreto trata-se de contrato de financiamento firmado já na vigência do Novo Código Civil. Assim, havendo autorização expressa em lei, a incidência da capitalização dos juros remuneratórios contratados não vai ser afastada, sendo, entretanto, permitida apenas em periodicidade anual.”
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 62 da Constituição da República.
+    Cumpre ressaltar, desde logo, que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 592.377/RS, Red. p/ o acórdão Min. TEORI ZAVASCKI, Tema nº 33/RG, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “CONSTITUCIONAL. ART. 5º DA MP 2.170/01. CAPITALIZAÇÃO DE JUROS COM PERIODICIDADE INFERIOR A UM ANO. REQUISITOS NECESSÁRIOS PARA EDIÇÃO DE MEDIDA PROVISÓRIA. SINDICABILIDADE PELO PODER JUDICIÁRIO. ESCRUTÍNIO ESTRITO. AUSÊNCIA, NO CASO, DE ELEMENTOS SUFICIENTES PARA NEGÁ-LOS. RECURSO PROVIDO.
+    1. A jurisprudência da Suprema Corte está consolidada no sentido de que, conquanto os pressupostos para a edição de medidas provisórias se exponham ao controle judicial, o escrutínio a ser feito neste particular tem domínio estrito, justificando-se a invalidação da iniciativa presidencial apenas quando atestada a inexistência cabal de relevância e de urgência.
+    2. Não se pode negar que o tema tratado pelo art. 5º da MP 2.170/01 é relevante, porquanto o tratamento normativo dos juros é matéria extremamente sensível para a estruturação do sistema bancário, e, consequentemente, para assegurar estabilidade à dinâmica da vida econômica do país.
+    3. Por outro lado, a urgência para a edição do ato também não pode ser rechaçada, ainda mais em se considerando que, para tal, seria indispensável fazer juízo sobre a realidade econômica existente à época, ou seja, há quinze anos passados.
+    4. Recurso extraordinário provido.”
+    Cabe salientar, finalmente, que os eminentes Ministros desta Suprema Corte têm determinado a incidência da sistemática da repercussão geral, inclusive quando houver julgamento sobre o mérito da matéria cuja transcendência foi reconhecida (ARE 855.723-AgR-segundo-ED/RJ, Rel. Min. GILMAR MENDES – RE 606.915/SP, Rel. Min. DIAS TOFFOLI – RE 607.501/SE, Rel. Min. LUIZ FUX – RE 907.942/RS, Rel. Min. EDSON FACHIN – RE 1.029.168/PR, Rel. Min. GILMAR MENDES, v.g.).
+    Isso significa que se impõe, quanto ao Tema nº 33/RG, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 06 de agosto de 2019.
+Ministro CELSO DE MELLO
+Relator
