@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por [NOME] contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 7 do STJ e 284 do STF (e-STJ fls. 1.164/1.167).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.038):
+APELAÇÃO CÍVEL E AGRAVO RETIDO. AUSÊNCIA DE INTIMAÇÃO DA AGRAVANTE E SEU ASSISTENTE TÉCNICO PARA O INÍCIO E DESENVOLVIMENTO DOS TRABALHOS PERICIAIS. LITÍGIO ENVOLVENDO SERVIDÃO DE PASSAGEM FORÇADA. PERÍCIA COMPLEXA. TRANSGRESSÃO À NORMA INSCULPIDA NO ART. 431-A DO CPC. ANULAÇÃO DO FEITO A PARTIR DO LAUDO PERICIAL. SENTENÇA CASSADA. PRECEDENTES. RECURSO DE AGRAVO RETIDO PROVIDO. APELO PREJUDICADO.
+"O desrespeito ao regramento contido no art. 431-A do Código de Processo Civil, com a ausência de intimação das partes acerca da data e do local em que terá início a produção da prova, configura nulidade, mormente se havia a parte indicado assistente técnico para o seu acompanhamento." (Apelação Cível n. 2013.082249-9, de Blumenau, rel.: Des. Henry Petry Junior, j. 24-4-2014)
+"O ônus de provar que o vício formal do processo não trouxe prejuízos não é da parte a quem aproveita a declaração de nulidade, mas de seu adversário." (STJ, AgRg no REsp 1.070.733/RJ, rel. Min. Humberto Martins, Segunda Turma, j. 18-12-2008).
+Os embargos de declaração foram acolhidos em parte, tendo o acórdão a seguinte ementa (e-STJ fl. 1.109):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. PROCESSO ANULADO A PARTIR DO LAUDO PERICIAL. VIOLAÇÃO AO ART. 431-A DO CPC/1973. AÇÃO QUE OBJETIVA A INSTITUIÇÃO DE PASSAGEM FORÇADA. INEXISTÊNCIA DE CONTRADIÇÃO E OBSCURIDADE NO ACÓRDÃO EMBARGADO. PREQUESTIONAMENTO QUE NÃO SE SUSTENTA. DESÍGNIO DE REDISCUTIR A MATÉRIA JÁ ANALISADA. IMPOSSIBILIDADE. OMISSÃO, CONTUDO, EXISTENTE. ACÓRDÃO QUE SILENCIOU ACERCA DOS EFEITOS DA TUTELA ANTECIPADA CONCEDIDA NA SENTENÇA. PASSAGEM FORÇADA EM PLENO USO. SITUAÇÃO CONSOLIDADA. PODER GERAL DE CAUTELA PARA MANTER INTACTOS OS EFEITOS DA MEDIDA DE URGÊNCIA. INTELIGÊNCIA DOS ARTS. 297 E 301 DO CPC/2015. TÓPICO OMISSO SANADO. EMBARGOS DECLARATÓRIOS ACOLHIDOS PARCIALMENTE.
+Nas razões do recurso especial (e-STJ fls. 1.123/1.135), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alegou ofensa aos arts. 11, 489 e 1.022 do CPC/2015 por ausência de prequestionamento explícito dos arts. 125, II, 131, 244, 249, § 1º, e 250 do CPC/1973 e 40 do CPP.
+Considerou violados os arts. 276, 282 e 283 do CPC/2015, pois a nulidade dos atos processuais só pode ser alegada se houver prejuízo, que inexiste pelo simples cumprimento da regra prevista no art. 431-A do CPC/1973. Indicou precedentes.
+No agravo (e-STJ fls. 1.170/1.187), afirma a presença de todos os requisitos de admissibilidade do especial.
+Houve contraminuta (e-STJ fls. 1.196/1.203).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 1.022 do CPC/2015.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Desse modo, não assiste razão à parte recorrente, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Além do mais, não há nulidade no acórdão recorrido, o qual possui fundamentação suficiente à exata compreensão das questões apreciadas.
+A respeito da nulidade, os julgadores esclareceram nos embargos de declaração (e-STJ fls. 1.113/1.114):
+In casu, não há qualquer contradição a ser eliminada com relação à anulação do feito a partir do laudo pericial, a fim de regularizar a intimação da parte insurgente quanto ao início dos trabalhos periciais, a teor do art. 431-A, do CPC/1973, pois às partes deve ser dada a oportunidade de participar de todas as fases do processo, especialmente da instrução probatória, uma vez que se busca com ela a verdade real para o deslinde da questão jurídica de forma adequada, justa e segura.
+Resultou devidamente fundamentada a decisão do Colegiado para acolher o Agravo Retido e anular o processo de primeiro grau desde o laudo o pericial, justamente porque faltou a intimação da Agravante quanto ao início dos trabalhos periciais e, pode sim, ter ocorrido prejuízo, pois foi ela compelida a dar passagem pelo terreno de sua propriedade a ora Embargante. Por isso, não só a participação da Embargada na produção da prova técnica é essencial, mas também a da Recorrente.
+O entendimento desta Corte sobre o tema é no seguinte sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE LOCAÇÃO. AVALIAÇÃO DO IMÓVEL PENHORADO. EXECUTADOS QUE NÃO TIVERAM CIÊNCIA DA DATA DA VISTORIA. ART. 431-A DO CPC/1973. LAUDO PERICIAL IMPUGNADO PELA PARTE E RETIFICADO APÓS A IMPUGNAÇÃO. ALEGAÇÃO DE PREJUÍZO AFASTADA PELO TRIBUNAL DE ORIGEM. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, a simples ausência de ciência das partes sobre a data da realização da perícia (art. 431-A do CPC/73) é insuficiente, por si só, para a declaração de nulidade do ato, sendo indispensável, para tanto, a demonstração de efetivo prejuízo à parte. Precedentes.
+2. Na hipótese, o prejuízo alegado pelos executados foi expressamente afastado pelo Tribunal de origem, e os fundamentos adotados, embora suficientes à manutenção do acórdão, não foram impugnados nas razões do recurso especial. Incidência da Súmula 283/STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.631.737/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 7/2/2019, DJe 19/2/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DO RESULTADO DA PERÍCIA JUDICIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE INTIMAÇÃO PARA ACOMPANHAMENTO DAS DILIGÊNCIAS. PREJUÍZO NÃO DEMONSTRADO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. O Tribunal de origem observou que, embora intimadas, as partes não indicaram assistentes técnicos ou mesmo formularam quesitos e, quanto à ausência de comunicação às partes da data e local para produção da prova, não se demonstrou prejuízo concreto ocasionado pela falta de acompanhamento das diligências.
+2. Segundo a jurisprudência do Superior Tribunal de Justiça, a inobservância da intimação referida no art. 431-A do CPC/73 (atual art. 474 do NCPC) não ocasiona nulidade absoluta, devendo a parte demonstrar a existência de prejuízo (..).
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.274.421/SC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 5/6/2018, DJe 12/6/2018.)
+No caso, tendo os julgadores considerado expressamente a existência de prejuízo, com base na análise dos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
