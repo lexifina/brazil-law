@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 7/STJ e 283/STF (e-STJ fls. 210/212).
+O acórdão recorrido está assim ementado (e-STJ fl. 159):
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA. VEDAÇÃO À INSCRIÇÃO DO NOME DA PARTE AUTORA, AQUI AGRAVADA, EM LISTA DE RESTRIÇÃO AO CRÉDITO. ALEGAÇÃO DE QUE SOMENTE O CARTÓRIO DE PROTESTO PODERIA DAR CUMPRIMENTO À INSCRIÇÃO POR ELE REQUERIDA. ORDEM EXPRESSA EM INTERLOCUTÓRIO ANTERIOR, O QUAL JÁ FOI OBJETO DE AGRAVO. PRECLUSÃO. RECURSO NÃO CONHECIDO NESSE PONTO. COMINAÇÃO DE MULTA PARA O CASO DE DESCUMPRIMENTO DO, COMANDO JUDICIAL. POSSIBILIDADE LEGAL PACÍFICA. PUNIÇÃO EM VALOR ADEQUADO.
+"Não incide em qualquer heresia jurídica e nem em qualquer antagonização a texto expresso de lei, a decisão que, para fazer concretizada a tutela antecipatória concedida, comina pena de multa diária para a hipótese de descumprimento da determinação judicial, como forma de desestimular o não atendimento, pela instituição financeira demandada, do comando jurisdicional provisório emitido" (AI n. 2003.014390-4, de Lages, rel. Des. Trindade dos Santos, j. 18-9-2003).
+AGRAVO CONHECIDO EM PARTE E, NESTA, NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 170/173).
+Nas razões do recurso especial (e-STJ fls. 176/200), interposto com fundamento no art. 105, III, "a", da CF, o recorrente alegou ofensa aos arts. 273, I, 461, caput e §§ 4º, 5º e 6º, e 644 do CPC/1973. A insurgência cuida dos seguintes pontos: (a) concessão da liminar, (b) cominação de astreintes e (c) valor da multa diária.
+A recorrida não apresentou contrarrazões (e-STJ fl. 209).
+No agravo (e-STJ fls. 215/228), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O agravo e o recurso especial foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Correta a decisão de inadmissibilidade do especial.
+O acórdão recorrido não conheceu do recurso quanto ao pedido de sustação da ordem de exclusão do nome da recorrida dos cadastros de inadimplentes, pelos seguintes fundamentos (e-STJ fls. 161/162):
+Conforme o próprio agravante expõe em sua petição e se pode constatar mediante os documentos juntados ao recurso, a ordem de "exclusão do nome da autora dos órgãos de proteção ao crédito" e de intimação da "parte ré para em 05 dias, comprovar o cumprimento da decisão" (fl. 66) foi proferida em interlocutório anterior àquele tratado no presente agravo. Acerca daquele comando, a agravante primeiro interpôs agravo retido (fls. 85-98, especialmente fls. 89-97), depois alegou, mediante mera petição, que não tinha meios de obedecer à ordem (fls. 139-140), e só depois de reafirmada a decisão no interlocutório em que foi cominada multa (fl. 143) é que o recorrente interpôs o presente agravo de instrumento.
+Assim, quer quer pelo decurso do prazo de dez dias (CPC, art. 522), quer pela anterior interposição de outro agravo está preclusa a questão (CPC, art. 473) e não se conhece do recurso nesse ponto.
+Nas razões do recurso especial, verifica-se que o agravante não impugnou o fundamento do acórdão relativo à preclusão da matéria, tendo-se limitado a alegar o inexistência dos requisitos necessários à concessão da liminar, de modo que a insurgência encontra óbice na Súmula n. 283/STF, in verbis:
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+É pacífico no STJ o entendimento de que "é devida a aplicação de multa diária como meio coercitivo para o cumprimento de decisão judicial que determina a exclusão ou impede a inscrição do nome do devedor em cadastro de restrição de crédito (AgRg no AREsp 524.360/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/5/2015, DJe 22/6/2015).
+Ademais, esta Corte firmou o entendimento de que somente em casos excepcionais, quando manifestamente irrisório ou exorbitante o valor fixado a título de astreintes pela instância a quo, é possível o afastamento do óbice da Súmula n. 7/STJ, para possibilitar sua revisão.
+No presente caso, a quantia arbitrada - R$ 200,00 (duzentos reais) por dia de descumprimento do comando - não se mostra excessiva, a justificar sua reavaliação em recurso especial. A esse respeito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 14 DO CPC. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. EXCLUSÃO DA INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS. ASTREINTES. POSSIBILIDADE. VALOR DA MULTA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Inviável o recurso especial quando ausente o prequestionamento, sequer implícito, do dispositivo da legislação federal apontado como violado.
+2. O exame da irresignação demanda a apreciação dos pressupostos previstos nos arts. 273 e 461, § 6º, do CPC, cuja constatação, na hipótese, importa necessariamente o revolvimento de matéria fático-probatória, o que obsta a análise do recurso, tendo em vista o disposto na Súmula 7/STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. À luz da jurisprudência firmada nesta Corte, é cabível a aplicação de astreintes como instrumento de coerção ao cumprimento de decisões judiciais que imponham obrigação de fazer ou não fazer, sendo que o quantum arbitrado só será passível de revisão, nesta instância excepcional, quando se mostrar irrisório ou exorbitante, o que não se verifica na hipótese. Dessa forma, a pretendida revisão da importância fixada a título de multa diária esbarraria no enunciado da Súmula 7 desta Corte, por demandar o vedado revolvimento de matéria fática.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 169.626/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/6/2012, DJe 1/8/2012.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DESCUMPRIMENTO DE ORDEM JUDICIAL. DESNECESSIDADE DE APLICAÇÃO DE MULTA COMINATÓRIA. VALOR DA MULTA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1.- A convicção a que chegou o Acórdão recorrido, tendo entendido pela necessidade de aplicação da multa, decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do Especial à luz da Súmula 7 desta Corte.
+2.- O artigo 461 do Código de Processo Civil permite que o magistrado altere, de ofício ou a requerimento da parte, o valor da multa quando este se tornar insuficiente ou excessivo, mesmo depois de transitada em julgado a sentença, não se observando a preclusão.
+3.- Esta Corte já se manifestou no sentido de que incide o óbice da Súmula 7 desta Corte, sendo lícita a revisão das astreintes, nesta instância, apenas nos casos em que o valor fosse irrisório ou exagerado, o que não ocorre no presente caso.
+4.- Agravo Interno improvido.
+(AgRg no AREsp n. 93.060/SC, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 19/6/2012, DJe 25/6/2012.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
