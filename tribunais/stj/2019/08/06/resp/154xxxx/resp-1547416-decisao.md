@@ -1,0 +1,41 @@
+DECISÃO
+ADMINISTRATIVO. RECURSOS ESPECIAIS. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. DIFERENÇA DE 3,17%. BASE DE CÁLCULO. ANUÊNIOS. 28,86%. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL DO PARTICULAR E DO INSS A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recursos Especiais interpostos por MARIA EUNICE CAMPOS LARANJA e outros e pelo INSS, no qual se insurgem contra acórdão proferido pelo egrégio TRF da 4a. Região, assim ementado:
+EMBARGOS À EXECUÇÃO. DIFERENÇA DE 3,17%. BASE DE CÁLCULO. ANUÊNIOS. 28,86%.
+É devida a inclusão, na base de cálculo dos 3,17%, das diferenças apuradas como devidas em razão do aumento de 28,86%.
+A incidência do reajuste de 3,17% sobre as diferenças de anuênios reconhecidas judicialmente deve ser postulada naquele processo, não devendo ser incluídas na base de cálculo (fls. 161).
+2. Os Embargos Declaratórios opostos foram acolhidos apenas para fins de prequestionamento.
+3. Nas razões de seu Apelo Nobre, o INSS defende o seguinte: (a) o acórdão recorrido padece de omissão e (b) impossibilidade de incluir o reajuste de 28,86% na base de cálculo de execução de sentença que reconhecera devido o reajuste de 3,17%, a despeito de nada constar em título executivo sobre o reajuste de 28,86%.
+4. MARIA EUNICE CAMPOS LARANJA e outros, por sua vez, asseveram que: (a) o acórdão recorrido padece de omissão; (b) o reajuste de 3,17% deve incidir sobre os anuênios; (c) é inviável a compensação de honorários advocatícios.
+5. É o relatório.
+6. Analiso, primeiramente, o Recurso Especial do INSS.
+7. No tocante ao art. 535, II do CPC, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+8. Acerca da suposta violação à coisa julgada, consta do acórdão recorrido o seguinte:
+Assiste razão à parte embargada no tocante à inclusão, na base de cálculo dos 3,17%, das diferenças apuradas como devidas em razão do aumento de 28,86%. E isso porque o percentual de 3,17% remonta a janeiro de 1995, enquanto o reajuste de 28,86% foi estendido aos servidores civis em janeiro de 1993 (Medida Provisória 1.704/98). Nessa linha, o cálculo da parcela do percentual de 3,17% deve considerar o correto valor dos vencimentos em janeiro de 1995, o qual já havia sofrido a aplicação do índice de 28,86%.
+(..)
+Todavia, o cálculo exequendo deve se basear na remuneração constante das fichas financeiras do servidor, não havendo qualquer determinação no título executivo para que seja considerado o acréscimo dos anuênios no cálculo das diferenças do resíduo de 3,17%. A incidência do reajuste de 3,17% sobre as diferenças de anuênios reconhecidas judicialmente deve ser postulada naquele processo, não devendo ser incluídas na base de cálculo (fls. 195/196).
+9. Assim, a alteração das conclusões a que chegou a Corte de origem, na forma pretendida, demandaria, necessariamente, a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial. Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO E CONTRADIÇÃO INEXISTENTES. GED. REESTRUTURAÇÃO DA CARREIRA. RESÍDUO DE 3,17%. LIMITAÇÃO TEMPORAL. POSSIBILIDADE. NÃO OFENSA À COISA JULGADA. EMBARGOS À EXECUÇÃO. SÚMULA 83/STJ. LEI N. 10.405/02. SÚMULA 7/STJ.
+1. O julgamento do REsp 1.235.513/AL, representativo de controvérsia, traz peculiaridade que não guarda similitude com a questão discutida nos presentes autos, ao menos da leitura do acórdão regional, uma vez que este não traz em seu bojo informações no que se refere ao fato de que a limitação do reajuste, advinda da MP 2.225-45/2001, já podia ser passível de ser invocada no processo cognitivo por ocasião da interposição da apelação.
+2. Não há violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida.
+3. Não ofende a coisa julgada a determinação da limitação temporal do reajuste de 3,17% em embargos à execução.
+4. Tendo o Tribunal a quo considerado que a referida reestruturação da carreira dos docentes se deu com o implemento da Lei 10.405/2002, infirmar tal entendimento demandaria a incursão no contexto fático dos autos, o que é defeso em recurso especial nos termos da Súmula 7 desta Corte de Justiça.
+Agravo regimental improvido (AgRg no AREsp. 310.435/PE, Rel. Min. HUMBERTO MARTINS, DJe 24.5.2013).
+10. Não merece prosperar, portanto, a irresignação do INSS.
+11. Passo à análise do Recurso Especial de MARIA EUNICE CAMPOS LARANJA e outros.
+12. No tocante ao art. 535, I do CPC, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+13. No mérito, da leitura do aresto hostilizado verifica-se que o Tribunal de origem, para solucionar a controvérsia, decidiu que a incidência do reajuste de 3,17% sobre as diferenças de anuênios reconhecidas judicialmente deve ser postulada naquele processo, não devendo ser incluídas na base de cálculo.
+14. Assim, a alteração das conclusões a que chegou a Corte de origem, na forma pretendida, demandaria, necessariamente, a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+15. Por fim, conforme reiteradamente tem advertido a jurisprudência desta Corte, a análise da existência ou não da sucumbência mínima ou recíproca implicaria a incursão no campo fático-probatório, o que é vedado pela Súmula 7 do STJ. Ilustrando esse entendimento:
+PROCESSUAL CIVIL. SUCUMBÊNCIA RECÍPROCA. NECESSIDADE DE REEXAME PROBATÓRIO. SÚMULA 7/STJ.
+1. Não cabe, na via especial, a revisão das premissas fáticas. Na espécie, a Corte de origem concluiu que houve sucumbência recíproca, porque a recorrente foi vencedora nos embargos à execução e vencida na ação ordinária conjuntamente julgada.
+2. Agravo regimental não provido (AgRg no REsp. 1.275.203/SC, Rel. Min. CASTRO MEIRA, DJe 20.6.2012).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMULAÇÃO DE PROVENTOS DE APOSENTADORIA. PEDIDO DE INDENIZAÇÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. SUCUMBÊNCIA RECÍPROCA. REVISÃO. ÓBICE DA SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. MERA TRANSCRIÇÃO DE EMENTAS. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. O Tribunal a quo, soberano na análise do acervo fático-probatório dos autos, entendeu não estar configurado ato manifestamente ilegal que ensejasse prejuízos e, consequentemente, direito à reparação. A revisão de tal entendimento demandaria a reapreciação do conjunto fático-probatório dos autos, o que não é cabível no âmbito do recurso especial, conforme estabelece a Súmula 7 do STJ.
+2. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de não ser possível a revisão do quantitativo em que autor e ré decaíram do pedido para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fática-probatória, vedado pela Súmula 7/STJ. Nesse sentido: AgRg no Ag 936.269/SP, Rel.Ministra Denise Arruda, Primeira Turma, DJe 24/9/2008, AgRg no REsp 1.080.982/SC, Rel. Ministro Humberto Martins, DJe 25/5/2010.
+3. A divergência jurisprudencial deve ser comprovada nos moldes exigidos pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ, sendo certo que, para a configuração do dissenso, é indispensável a realização do cotejo analítico entre a decisão atacada e os paradigmas invocados, de forma a demonstrar a existência de similitude fática entre os casos confrontados, o que inexiste na hipótese em comento.
+4. Agravo regimental não provido (AgRg no REsp. 1.089.377/RS, Rel. Min. BENEDITO GONÇALVES, DJe 23.3.2012).
+16. Diante disso, nega-se seguimento ao Recurso Especial interposto por MARIA OTILIA PRETO DE OLIVEIRA e outros e ao Recurso Especial do INSS.
+17. Publique-se.
+18. Intimações necessárias.
