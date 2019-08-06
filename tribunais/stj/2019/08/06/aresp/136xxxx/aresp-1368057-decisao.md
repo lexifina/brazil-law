@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CORREÇÃO MONETÁRIA. IPCA-E. INTERPRETAÇÃO DO ART. 100, § 12, DA CF, INCLUÍDO PELA EC 62/09. ACÓRDÃO RECORRIDO AMPARADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela UNIÃO contra decisão de fls. 288-289 que negou seguimento ao recurso especial ao fundamento de que não compete ao STJ, em sede de recurso especial, analisar eventual contrariedade a preceito contido na CF/88, nem tampouco uniformizar a interpretação de matéria constitucional.
+O apelo nobre enfrenta acórdão da Terceira Turma do Tribunal Regional Federal da 5ª Região, assim ementado (fls. 194-197):
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CORREÇÃO MONETÁRIA. IPCA-E. ÍNDICE PREVISTO NO MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. SENTENÇA PUBLICADA SOB A ÉGIDE DO CPC/2015. CABIMENTO.
+1. Apelação interposta pela União em face da sentença que julgou improcedentes os Embargos à Execução opostos, e considerou pertinente o IPCA-E como índice de correção monetária.
+2. Esta Colenda Terceira Turma firmou o entendimento de que, enquanto pendente de julgamento o RE 870.947/SE, que reconheceu a existência de repercussão geral a respeito da validade jurídico-constitucional da correção monetária e dos juros moratórios na forma estabelecida pelo art. 5º, da Lei nº 11.960/09 (no que toca à condenação imposta à Fazenda Pública até a expedição do requisitório), é de se aplicar o Manual de Cálculos da Justiça Federal vigente quando da execução do julgado - ([OAB]/SE, Relator: Desembargador Federal Paulo [NOME], Julgamento: 11/06/2015).
+3. Considerando-se, pois, que o IPCA-E é o índice previsto no referido Manual, inexiste razão para acolhimento da irresignação da Apelante.
+4. A decisão proferida pela Suprema Corte analisou a questão sob a ótica dos débitos inscritos em precatório. Todavia, o fundamento basilar constitui uma tendência jurisprudencial em se aplicar também em relação à correção do período anterior à inscrição do requisitório, uma vez que dispôs que a TR não reflete a perda de poder aquisitivo da moeda.
+5. A Reclamação nº 21.147/SE, mencionada na fundamentação do presente apelo, foi julgada improcedente em decisão monocrática da lavra da Ministra Cármen Lúcia, publicada no DJE em 16/02/2016.
+6. Apelação improvida. Honorários recursais, previstos no art. 85, § 11, do CPC/2015, a cargo da Apelante, devendo a verba honorária sucumbencial ser majorada de R$ 2.000,00 (dois mil reais) para R$ 2.200,00 (dois mil e duzentos reais).
+Os embargos de declaração foram rejeitados (fls. 227-229).
+O recurso especial foi interposto com base no art. 105, III, a, da CF, onde a recorrente alega violação dos arts. 1º-F da Lei n. 9.494/1997, com redação dada pela Lei n. 11.960/2009, e 27 e 28 da Lei n. 9.868/1999. Para tanto, sustenta, em síntese, que "deve ser aplicada a TR para atualização da dívida" (fl. 240). Requer, ao final, o provimento do recurso para que seja "aplicada a TR como índice de correção monetária, nos termos da Lei n. 11.960/2009" (fl. 242).
+Contrarrazões oferecidas às fls. 257-265.
+A agravante sustenta que no recurso especial não foi apontado ofensa à Constitutição Federal, mas, sim, a dispositivos legais, quais sejam: art. 1º-F da Lei n. 9.494/1997, com a redação da Lei n. 11.960/2009 e art. 1.022 do CPC/2015.
+Contraminuta às fls. 314-322.
+É o relatório. Passo a decidir.
+No caso, a recorrente (UNIÃO) desde a origem se insurge contra sentença que julgou improcedentes os embargos à execução opostos, e considerou pertinente o IPCA-E como índice de correção monetária.
+O TRF da 5ª Região negou provimento ao recurso de apelação, entendendo que "enquanto pendente de julgamento o RE 870.947/SE, incluído em sede de repercussão geral, sobre os atrasados devem incidir correção monetária e juros de mora nos termos do Manual de Cálculos da Justiça Federal, vigente quando da execução do julgado.  ..  Considerando-se, pois, que o IPCA-E é o índice previsto no referido Manual, percebe-se que inexiste razão para acolhimento da irresignação da Apelante" (fl. 195).
+Por sua vez, a recorrente, em síntese, defende que "deve ser aplicada a TR para atualização da dívida" (fl. 240). Requer, ao final, o provimento do recurso para que seja "aplicada a TR como índice de correção monetária, nos termos da Lei n. 11.960/2009" (fl. 242).
+Cabe anotar que o agravo interno interposto contra decisão que negou seguimento ao recurso extraordinário foi improvido, nos seguintes termos:
+Impõe-se registrar que o agravo não se insurge contra o juízo de adequação em si, apenas defendendo a necessidade de se aguardar a eventual e futura modulação dos efeitos da decisão definitiva do paradigma.
+Quanto ao objeto do presente agravo interno, observa-se que esta e. Corte, ao concluir o julgamento do AGIVP 355/CE, em 16/08/2017, adotou, por maioria, a compreensão de que o juízo de conformidade entre o acórdão desafiado por recursos extremos e o paradigma da Corte Superior, após a entrada em vigor do novo CPC, deve ser posterior à publicação deste último.
+No caso específico, constata-se que o referido acórdão paradigma foi publicado (DJe-262 divulgação 17/11/2017 publicação 20/11/2017).
+Não procede, contudo, o argumento de que se deveria aguardar o trânsito em julgado ou eventual modulação dos efeitos da decisão já publicada, que venha a ocorrer por ocasião do julgamento de embargos declaratórios contra ela opostos, já que o art. 1.040 do CPC em vigor apenas alude ao marco da publicação.
+Com essas considerações, nego provimento ao Agravo Interno. (fls. 344-346)
+Contra referido acórdão não houve interposição de recurso (certidão de fl. 354).
+Acerca da atualização dos valores devidos pela Fazenda Pública, destaco parte da fundamentação do condutor:
+ .. , impende realçar que o Plenário do STF declarou a inconstitucionalidade, por arrastamento, do art. 5º, da Lei nº 11.960/091 (que conferiu nova redação ao art. 1º-F, da Lei nº 9.494/97), quando do julgamento da ADI 4.357 e da ADI 4.425, ocorrido em 14/03/13, pois ele reproduzia, em parte, a redação do § 12, do art. 100, da CF, tendo a Suprema Corte, na sessão de julgamento do dia 25/03/15, modulado os efeitos da decisão, conferindo eficácia prospectiva à declaração de inconstitucionalidade.
+Ao julgar as referidas ADIs, o STF declarou a inconstitucionalidade da correção monetária pela TR (Lei nº 11.960/09) apenas quanto ao intervalo compreendido entre a inscrição do crédito em precatório e o efetivo pagamento, uma vez que a norma constitucional impugnada (art. 100, § 12, da CF, incluído pela EC 62/09) referia-se, apenas, à atualização de requisitórios, não abarcando a fase de conhecimento.
+Assim, a declaração de inconstitucionalidade teve alcance limitado à parte em que o texto estava vinculado ao art. 100, § 12, da CF (atualização de valores de requisitórios).
+Esse entendimento foi externado nos autos do RE 870.947/SE, julgado em 16/04/15, em que o STF reconheceu a existência de repercussão geral a respeito da validade jurídico-constitucional da correção monetária e dos juros moratórios na forma estabelecida pelo art. 5º, da Lei nº 11.960/09, uma vez que o art. 1º-F, da Lei nº 9.494/97, na parte em que rege a atualização monetária das condenações impostas à Fazenda Pública até a expedição do requisitório, não foi objeto de pronunciamento expresso da Suprema Corte quanto à sua constitucionalidade.
+Destarte, esta Colenda Terceira Turma firmou o entendimento de que, enquanto pendente de julgamento o RE 870.947/SE, incluído em sede de repercussão geral, sobre os atrasados devem incidir correção monetária e juros de mora nos termos do Manual de Cálculos da Justiça Federal, vigente quando da execução do julgado. Confira-se:
+ ..
+Nada a modificar na sentença, portanto.
+Como se denota, o acórdão recorrido está firmado em fundamento eminentemente constitucional.
+À vista disso, como bem consignado na decisão agravada, não compete ao STJ, em sede de recurso especial, uniformizar a interpretação de matéria constitucional. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO N. 3/STJ. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS.
+ACRÉSCIMO NO REPASSE. CONTABILIZAÇÃO DE JUROS E REMUNERAÇÃO DO CAPITAL. ACÓRDÃO RECORRIDO AMPARADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A questão foi enfrentada à luz de fundamentos eminentemente constitucionais. Nesse contexto, não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na Constituição Federal, nem tampouco uniformizar a interpretação de matéria constitucional, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+2. Agravo interno não provido.
+(AgInt no REsp 1.765.436/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 21/5/2019)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
