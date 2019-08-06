@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL COM BASE EM ENTENDIMENTO FIXADO POR ESTA CORTE SOB O RITO DOS RECURSOS REPETITIVOS. INTERPOSIÇÃO DE AGRAVO. NÃO CABIMENTO (CPC/2015, ART. 1.042).
+AGRAVO NÃO CONHECIDO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que negou seguimento ao recurso especial, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, tendo em vista o REsp 956.943/PR (Tema 243/STJ).
+É o breve relatório.
+Passo a decidir.
+Inicialmente, cumpre ressaltar que o presente agravo foi interposto em face de decisão publicada na vigência do Código de Processo Civil de 2015 (e-STJ fl. 327), de maneira que é aplicável ao caso o Enunciado Administrativo nº 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nesse contexto, verifica-se que o agravo não pode ser conhecido quanto à negativa de seguimento do recurso especial na origem em razão da adequação do acórdão recorrido com o entendimento fixado por esta Corte Superior no REsp 956.943/PR (Tema 243/STJ).
+Ocorre que há previsão expressa no art. 1.042 Código de Processo Civil de 2015 acerca do não cabimento de agravo em face de decisão que inadmite recurso especial nas hipóteses em que a controvérsia já houver sido solucionada pelo Tribunal de origem em consonância com orientação proferida em julgamento de recurso repetitivo.
+Portanto, caberia à parte interessada interpor agravo interno ou regimental na origem a fim de demonstrar a inaplicabilidade do leading case, considerando-se erro grosseiro a formulação do agravo na forma do art. 1.042 do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DECISÃO DO TRIBUNAL DE ORIGEM QUE NÃO ADMITE O APELO NOBRE COM FULCRO NO ART. 1.040, I, DO NCPC (ANTIGO ART. 543-C, § 7º, I, DO CPC/73). INTERPOSIÇÃO DE AGRAVO DO ART. 1.042, CAPUT, DO NCPC. ERRO GROSSEIRO. INOVAÇÃO RECURSAL. VEDAÇÃO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A interposição do agravo previsto pelo art. 1.042, caput, do NCPC, contra decisão proferida pelo Tribunal de origem que nega seguimento ao recurso especial com base no julgamento de recurso repetitivo, constitui erro grosseiro.
+3. À exceção do agravo interno, dirigido ao próprio Tribunal de origem, contra a decisão que não admite recurso especial com base no art. 1.040, I, do NCPC (antigo art. 543-C do CPC/73), não há previsão legal para interposição de outro recurso a fim de dirimir possível recurso, sobe pena de se tornar ineficaz os ditames da Lei nº 11.672/2008.
+4. É vedado o exame de inovação recursal no recurso especial.
+(AgInt no AREsp 1227908/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/09/2018, DJe 27/09/2018)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III). NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS. CAPITALIZAÇÃO MENSAL DE JUROS.  NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO. 4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.  ..
+4. Agravo parcialmente conhecido para, nessa extensão, negar provimento ao recurso especial, com majoração dos honorários advocatícios, na forma do art. 85, §§ 8º e 11, do CPC/2015.
+(AREsp 959.991/RS, TERCEIRA TURMA, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 26/08/2016, g.n.)
+Ademais, tendo em vista que a Súmula 7/STJ constitui apenas argumento de reforço, estando a decisão efetivamente calcada na conformidade da decisão recorrida com o entendimento deste Tribunal firmado em julgamento de recurso repetitivo, resta claro o descabimento do presente recurso, pois deveria ter sido interposto agravo interno.
+Outrossim, ainda que fosse possível a análise da divergência jurisprudencial, cumpre registrar que a decisão monocrática proferida no REsp 1.240.948/RJ indicada pelo agravante (e-STJ fls. 338/341) não comprova existência de dissídio jurisprudencial. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PLANO DE SAÚDE. DISSÍDIO JURISPRUDENCIAL. DECISÃO MONOCRÁTICA UTILIZADA COMO PARADIGMA PARA FINS DE COMPROVAÇÃO DE DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO E ACÓRDÃO PARADIGMA ORIUNDOS DO MESMO TRIBUNAL. INCIDÊNCIA DA SÚMULA 13/STJ. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "a decisão monocrática não serve como paradigma para a demonstração do dissídio jurisprudencial".
+2. Não se admite recurso especial por dissídio entre julgados do mesmo Tribunal, nos termos da Súmula 13 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1383885/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/03/2019, DJe 29/03/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE. FALHA NA PRESTAÇÃO DE SERVIÇO DE TRANSPORTE. CASO FORTUITO OU FORÇA MAIOR. NECESSIDADE DE PRODUÇÃO DE PROVAS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL COM DECISÃO MONOCRÁTICA. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O acolhimento da tese (existência de caso fortuito ou força maior) exigiria rever as conclusões alcançadas pelo Tribunal de origem, o que é inviável em recurso especial, por implicar reexame das provas contidas nos autos. Incidência da Súmula n. 7 do STJ.
+2. Segundo entendimento do STJ, "decisões monocráticas não servem como paradigmas para o fim de demonstração de dissídio jurisprudencial, conforme o disposto no art. 266 do Regimento Interno deste Superior Tribunal" (AgInt no REsp n. 1.650.529/RS, Relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/11/2017, DJe 27/11/2017).
+3. Agravo interno desprovido.
+(AgInt no AREsp 1211358/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/04/2018, DJe 20/04/2018)
+Nesse contexto, o não conhecimento do presente recurso é medida que se impõe.
+Ante o exposto, não conheço do agravo em recurso especial.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de MULTA por conduta processual indevida (art. 1.021, § 4º e art. 1.026, § 2º, do CPC/2015).
+Intimem-se.
