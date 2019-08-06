@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo apresentado por DURVAL DE MAGALHAES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no art. 105, inciso III, alíneas a e c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO PROCESSUAL CIVIL APOSENTADORIA POR IDADE RURAL INÍCIO DE PROVA MATERIAL COMPLEMENTAÇÃO POR PROVA TESTEMUNHAL TRABALHO URBANO DENTRO DO PERÍODO DE CARÊNCIA APOSENTADORIA HÍBRIDA REQUISITO ETÁRIO DO TRABALHADOR URBANO NÃO CUMPRIDO SENTENÇA DE IMPROCEDÊNCIA MANTIDA
+1. A concessão do benefício pleiteado pela parte autora exige a demonstração do trabalho rural, cumprindo- se o prazo de carência, mediante inicio razoável de prova material, corroborada com prova testemunhal, ou prova documental plena.
+2. Não obstante a parte autora tenha colacionado inicio de prova material da atividade campesina, corroborada pela prova testemunhal, também há comprovação nos autos do exercício de atividade urbana, por longo período.
+3. O caso seria de aposentadoria híbrida (art. 48, § 3º, da Lei 8.213/91, com redação dada pela Lei 11.718/08): soma do tempo de trabalho rural e urbano, com o requisito etário do trabalhador urbano (65 anos).
+4. A ausência do preenchimento do requisito etário inviabiliza a soma do tempo de trabalho rural e urbano para a concessão da aposentadoria híbrida.
+5. A coisa julgada opera secundum eventum litis ou secundum eventum probationis, permitindo a renovação do pedido ante novas circunstâncias ou novas provas.
+6. Apelação improvida.
+Quanto à controvérsia, pelas alíneas a e c do permissivo constitucional, alega violação dos arts. 62 do Decreto n. 3.048/99 e 143 da Lei n. 8.213/91, no que concerne à possibilidade de exercício de atividade urbana sem a descaracterização da qualidade de segurado especial do recorrente, e traz o(s) seguinte(s) argumento(s):
+É importante ressaltar que a agricultura apresenta uma série de especificidades, na maneira de produzir e na organização da produção, que afetam as relações de trabalho e não podem ser ignoradas pelo processo de regulação destas relações.
+Sabe-se que a agricultura familiar é muito heterogênea. Os mais pobres já não conseguem viver apenas da atividade rural e são obrigados a complementar a sobrevivência com renda gerada em atividades de natureza não -agrícola, seja no meio rural ou no meio urbano. Os trabalhadores rurais com melhores condições têm que se dividir em várias atividades e cada vez mais se afastam do trabalho rural tradicional. (fls. 150).
+EM CONTEXTO COM A CONSTITUIÇÃO FEDERAL A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA E DOS TRIBUNAIS REGIONAIS FEDERAIS, EM REGRA, TEM RECONHECIDO A NÃO DESCARACTERIZAÇÃO DA CONDIÇÃO DE SEGURADO ESPECIAL, BEM COMO DO REGIME DE ECONOMIA FAMILIAR, SE O TRABALJADOR RURAL APRESENTA ALGUM PERÍODO DE VÍNCULO URBANO.
+ ..
+É importante ressaltar que a existência de vínculo urbano não é suficiente para descaracterizar o trabalho do recorrente como trabalhador rural, uma vez que indiscutível o período de labora rural do embargante em período correspondente à carência exigida por lei para a concessão da aposentadoria rural especial.
+Assim, restando demonstrado o exercício da atividade rural, com evidência material e testemunhal. Há documentos demonstradores da qualificação de trabalhador rural do recorrente.
+Quanto à idade mínima exigida, vê-se que o recorrente já a alcançou, assim como já cumprida a exigência decorrente da tabela correspondente à data de implementação das condições. (fls. 152).
+É o relatório. Decido.
+Na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ademais, não é cabível o recurso especial no tocante à violação de dispositivos contidos em decreto, uma vez que esse ato normativo não está compreendido no conceito de lei federal.
+Nesse sentido: "É assente nesta Corte que o comando legal inserido em decreto não se enquadra no conceito de lei federal, o que inviabiliza a discussão quanto à sua inteligência em recurso especial" (AgInt no AREsp 994.840/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 06/04/2017, DJe 19/04/2017).
+Confiram-se ainda os seguintes precedentes: REsp 1155590/DF, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2018, DJe 07/12/2018; e AgRg no REsp 1384034/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 17/03/2016, DJe 29/03/2016.
+Além disso, incide novamente o óbice da Súmula n. 284/STF, pois, a despeito de ter sido apontada a alínea c do permissivo constitucional e ter havido transcrição de ementa(s), a parte recorrente não indicou expressamente qual o acórdão tido por paradigma, o que impede eventual análise da divergência de interpretações.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
