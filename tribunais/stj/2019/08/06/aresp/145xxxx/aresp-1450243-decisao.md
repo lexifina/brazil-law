@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado na alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fls. 146/147):
+Agravo de Instrumento Execução individual de sentença proferida em mandado de segurança coletivo Prescrição da pretensão executória configurada Súmula 150 do Supremo Tribunal Federal Pendência da juntada de fichas financeiras ou de elementos de cálculo em poder do devedor que não obsta o fluxo do prazo prescricional Ausência de publicação do edital previsto no artigo 94 do Código de Defesa do Consumidor Irrelevância Precedentes do C. Superior Tribunal de Justiça Recurso provido.
+Rejeitados os aclaratórios (e-STJ fls. 171/175).
+No especial obstaculizado, a parte recorrente apontou, além de divergência jurisprudencial, violação dos arts. 489, § 1º, IV, 1.022, II, e 802 do CPC/2015, sustentando negativa de prestação jurisdicional, bem como a não prescrição da pretensão executória.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de suficiente prestação jurisdicional, incidência da Súmula 7 do STJ e descumprimento das formalidades para apresentação da divergência; no tocante à matéria repetitiva, o recurso teve seguimento negado com fundamento no art. 1.030, I, "b", do CPC/2015 (e-STJ fls. 188/190).
+Na presente irresignação, a parte agravante alega, em resumo, a inaplicabilidade de referidos fundamentos.
+Contraminuta às e-STJ fls. 188/190.
+Passo a decidir.
+A irresignação recursal não comporta acolhida.
+Quanto à alegada ofensa aos arts. 489, § 1º, IV, 1.022, II , do CPC/2015, matéria não abarcada pela inadmissão com fundamento em recurso repetitivo, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 29/09/2014.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial. Nos termos do art. 85, § 11, do CPC/2015, MAJORO os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
