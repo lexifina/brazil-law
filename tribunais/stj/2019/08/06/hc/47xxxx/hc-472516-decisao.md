@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de AMILCAR DA CONCEIÇÃO BRANCO no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o ora paciente foi condenado, como incurso no art. 54, § 2º, V, da Lei n. 9.605/1998, à pena de 1 ano de reclusão, em regime aberto, sendo a sanção substituída por pena pecuniária de 6 salários mínimos. Referida condenação transitou em julgado.
+Nesse contexto, pleiteou a defesa o reconhecimento da prescrição da pretensão executória, tendo o Juízo das execuções indeferido o pedido, "pois não decorrido o prazo a contar do trânsito em julgado da sentença condenatória para as partes" (e-STJ fl. 11).
+Interposto agravo em execução, o Tribunal de origem negou provimento ao recurso, nos termos da seguinte ementa (e-STJ fl. 70):
+AGRAVO EM EXECUÇÃO PENAL - ALTERAÇÃO DO TERMO INICIAL DA PRESCRIÇÃO INADIMISSIBILIDADE - EXECUÇÃO DEFINITIVA INICIADA COM A PUBLICAÇÃO DO TRÂNSITO EM JULGADO DA DECISÃO CONDENATÓRIA PARA AMBAS AS PARTES - DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+No presente writ, esclarece a Defensoria Pública que, nos termos do art. 112 do Código Penal, "o termo inicial da prescrição da pretensão executória deve ser o trânsito em julgado da sentença condenatória para a Acusação" (e-STJ fl. 5).
+Acrescenta que, "iniciando-se a prescrição em 24/01/2012 e, levando-se em consideração que o prazo prescricional é de 04 anos, de rigor o reconhecimento da prescrição da pretensão executória, que ocorreu em 2016" (e-STJ fl. 8).
+Assim, requer "seja deferida a liminar para suspender o processo de execução até o julgamento do presente writ e, no mérito, seja concedida a ordem do presente habeas corpus em favor do paciente para o fim de reconhecer a extinção da punibilidade, com base no artigo 107, inciso IV, do Código Penal" (e-STJ fl. 9).
+A liminar foi indeferida às e-STJ fls. 80/81.
+As informações foram prestadas às e-STJ fls. 87/98 e 101/127.
+O Ministério Público Federal, às e-STJ fls. 129/131, manifestou-se pela denegação da ordem.
+É o relatório.
+Acerca do tema, assim consignou o Tribunal de origem (e-STJ fls. 71/73):
+Não merece reparos a decisão de 1º grau.
+O agravante foi condenado por infringir o artigo 54, §2º, inciso V, da Lei nº 9.605/98 à pena de 01 (um) ano de reclusão, em regime aberto, sendo substituída por pena restritiva de direito, por decisão datada em 19.01.2012 (fls. 25/28).
+A MM. Juíza a quo afastou o pedido de prescrição da pretensão executória, "pois não ocorrido o prazo a contar do trânsito em julgado da sentença condenatória para as partes" (fls. 02/03).
+Diante disso, busca o sentenciado a reforma dessa decisão sustentando ser a data do trânsito em julgado para o Ministério Público o termo a quo para contagem do prazo da prescrição (fls. 07/13).
+Destaco que, nos termos do artigo 110 do Código Penal, o prazo de prescrição da pretensão executória deve ser iniciado após o trânsito em julgado de sentença penal condenatória.
+Ora, certo é que, por respeito ao Princípio da Igualdade das Partes, o trânsito em julgado dá-se quando não é mais cabível qualquer recurso de ambas as partes, e não somente da acusação, como faz crer a defesa.
+Ademais, não seria razoável considerar o trânsito em julgado para acusação como termo inicial para prescrição da pretensão executória, porquanto se exigiria que o prazo entrasse em vigência antes mesmo da possibilidade jurídica de início da execução.
+Nesse sentido já se manifestou o Supremo Tribunal Federal:
+"A pretensão executória surge somente com trânsito em julgado da condenação criminal, conforme precedente do Plenário desta Suprema Corte no HC 84.078 (Rei. Min. Eros Grau, Pleno do Supremo Tribunal Federal, por maioria, j. 05.02.2009), não se iniciando o prazo prescricional respectivo antes deste termo, consoante princípio da actio nata. 5. Agravo regimental conhecido e não provido. "(STF - ARE nº 682013 AgR/SP-Rel. Min. Rosa Weber-Julg.: 06.02.2013).
+Inviável, portanto, admitir-se o trânsito em julgado para a acusação como termo a quo da prescrição da pretensão executória, vez que a decisão apenas faz coisa julgada diante da não interposição de recurso de ambas as partes, a possibilitar a formação de título executivo para início de cumprimento de pena.
+Por fim, diante da aplicação do disposto nos artigos 109, inciso V e seu parágrafo único, do Código Penal, não há que se falar em prescrição da pretensão executória.
+Observo que o réu foi condenado à pena de 01 (um) ano de reclusão, perfazendo-se o trânsito em julgado para as partes em 07.01.2015, conforme folha de antecedentes (fls. 35/38).
+Dessa forma, considerando a pena aplicada ao sentenciado, o lapso prescricional incidente é de 04 (quatro) anos, consoante a redação do artigo 109, inciso V, do Código Penal.
+Portanto, inimaginável a ocorrência da prescrição da pretensão executória, porquanto entre a data do trânsito em julgado da sentença e a data da decisão de 1º grau não se ultrapassou o referido prazo prescricional, sendo consequentemente, impossível acolher o pleito defensivo. (Grifei.)
+Pois bem. Destaco, inicialmente, o disposto no art. 112, inciso I, do Código Penal, in verbis:
+Art. 112 - No caso do art. 110 deste Código, a prescrição começa a correr:
+I - do dia em que transita em julgado a sentença condenatória, para a acusação, ou a que revoga a suspensão condicional da pena ou o livramento condicional;
+Não se desconhece o posicionamento da Primeira Turma do Supremo Tribunal Federal de que "a prescrição da pretensão executória pressupõe a inércia do titular do direito de punir. Se o seu titular se encontrava impossibilitado de exercê-lo em razão do entendimento anterior do Supremo Tribunal Federal que vedava a execução provisória da pena, não há falar-se em inércia do titular da pretensão executória", razão pela qual "se não houve ainda o trânsito em julgado para ambas as partes, não há falar-se em prescrição da pretensão executória" (RE n. 696.533, relator Ministro LUIZ FUX, relator p/ acórdão Ministro ROBERTO BARROSO, PRIMEIRA TURMA, julgado em 6/2/2018, DJe de 5/3/2018).
+No entanto, a orientação jurisprudencial desta Corte, deve-se frisar, é a de que o termo a quo, para contagem do prazo, para fins de prescrição da pretensão executória, é a data do trânsito em julgado para a acusação e não para ambas as partes, prevalecendo a interpretação literal do art. 112, inciso I, do Código Penal.
+Ilustrativamente:
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. ARESP IMPROVIDO. TRÂNSITO EM JULGADO QUE RETROAGE AO FIM DO PRAZO PARA A INTERPOSIÇÃO DO RECURSO ESPECIAL CABÍVEL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. OCORRÊNCIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. INTERPRETAÇÃO DO ART. 112, I, DO CÓDIGO PENAL. LAPSO PRESCRICIONAL SUPERIOR A 8 ANOS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE.
+1. Negado provimento ao agravo em recurso especial, a data do trânsito em julgado para a defesa retroagirá ao último dia do prazo para a interposição do recurso especial na origem, conforme entendimento consolidado no EAREsp 386.266/SP.
+2. Não decorrido o lapso prescricional entre os marcos interruptivos, não se opera a prescrição da pretensão punitiva.
+3. Nos termos do art. 112, I, do Código Penal, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado.
+4. Transcorrido lapso temporal superior a 8 anos, desde o trânsito em julgado da condenação para o Ministério Público, sem que tenha sido iniciada a execução da pena, operou-se a prescrição da pretensão executória.
+5. Embargos de declaração parcialmente acolhidos e deferido, em parte, pedido incidental para reconhecer a prescrição da pretensão executória. (EDcl no AgRg no AREsp 699.495/RO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/08/2018, DJe 04/09/2018, grifei.)
+Na hipótese, verifica-se que a pena fixada ao paciente, pela prática do delito previsto no art. 54, § 2º, V, da Lei n. 9.605/1998, foi de 1 ano de reclusão, que possui, como lapso prescricional, o prazo de 4 anos, a teor do disposto no art. 109, inciso V, do Código Penal.
+Nesse sentido, tendo o trânsito em julgado para acusação ocorrido em 24/1/2012 (e-STJ fl. 54), sem que tenha sido efetuado o pagamento ou que tenha havido a ocorrência de qualquer outra circunstância interruptiva ou suspensiva do prazo prescricional, é forçoso reconhecer a ocorrência da prescrição da pretensão executória, haja vista o transcurso de lapso temporal superior à 4 anos.
+Ante o exposto, concedo a ordem para declarar extinta a punibilidade do ora paciente, nos termos acima expostos.
+Publique-se. Intimem-se.
