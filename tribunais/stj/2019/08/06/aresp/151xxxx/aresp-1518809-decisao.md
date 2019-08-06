@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+APELAÇÃO ATO DE IMPROBIDADE ADMINISTRATIVA INCLUSÃO DO MUNICÍPIO NO CADASTRO DE INADIMPLENTES NÃO PRESTAÇÃO DE CONTAS DE RECURSOS PÚBLICOS OBJETO DE CONVÊNIO PARA AQUISIÇÃO DE AMBULÂNCIA LEI Nº 8429/1992 VIOLAÇÃO AO ART 11 DA LEI DE IMPROBIDADE ADMINISTRATIVA ART 37 DA CR/88 ATO DE IMPROBIDADE ADMINISTRATIVA CONFIGURADO SENTENÇA MANTIDA APELAÇÃO CONHECIDA E DESPROVIDA UNANIMIDADE.
+Quanto à primeira controvérsia, alega violação do art. 11 da Lei n. 8.249/1992, no que concerne à não configuração de improbidade administrativa em razão da ausência de dolo, trazendo o(s) seguinte(s) argumento(s):
+De acordo com o voto do desembargador relator do acórdão nº 236208/2018 a condenação do recorrente se pautava na violação do caput do artigo 11 da lei de improbidade administrativa. Nessa perspectiva, importante trazer a baila o teor do referido comando legal (fl. 163).
+Na verdade, o espírito da lei, bem como a jurisprudência dominante, é no sentido de que a configuração dos atos de improbidade por violação aos princípios administrativos exige a demonstração do elemento subjetivo do dolo, pois em nenhum momento o artigo supracitado admite o seu incremento na modalidade culposa (fl. 164).
+Quanto à segunda controvérsia, alega violação dos arts. 9º e 10 da Lei n. 8.429/1992.
+É o relatório. Decido.
+Quanto à primeira controvérsia, o acórdão recorrido assim decidiu:
+Em relação ao elemento anímico, a doutrina e jurisprudência são unânimes em estabelecer que basta o dolo genérico, não havendo necessidade de verificação no caso concreto de dolo específico no sentido de violar os princípios que regem a Administração Pública.
+Assim, presente o dolo genérico em incorrer na conduta típica, uma vez que o ex-gestor tem a obrigação legal de prestar contas dos recursos obtidos para realização de compras, obras ou serviços públicos (fl. 157).
+ Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Quanto à segunda controvérsia, na espécie, o acórdão recorrido assim decidiu:
+Na verdade, a prestação de contas dos recursos públicos é uma obrigação a que submete todo e qualquer gestor, não havendo de se falar em inversão do ônus, até mesmo porque se tivesse sido realizada a prestação de contas, não teria havida a inclusão do município no cadastro de inadimplentes.
+ ..
+Assim, havendo a subsunção da conduta perpetrada pelo recorrente ao disposto no art. 11, caput da Lei nº 8.429/1992, mister se faz a manutenção da sentença, e, por consequência a confirmação das sanções a ele impostas (fls. 156 e 159).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial (quanto à violação dos arts. 9º e 10 da Lei n. 8.429/1992) estão totalmente dissociadas dos fundamentos utilizados no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Verifica-se que o recurso encontra-se deficientemente fundamentado, uma vez que as razões insertas no recurso não permitem a exata compreensão da controvérsia, na medida em que se encontram dissociadas dos fundamentos da decisão agravada, aplicando-se, ao caso, por analogia, o enunciado da Súmula 284/STF" (AgRg no AREsp n. 1.394.624/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/3/2019).
+Confiram-se ainda os seguintes precedentes: EDcl nos EDcl nos EAREsp n. 740.722/SE, relator Ministro Francisco Falcão, Corte Especial, DJe de 14/12/2017; e REsp n. 1.722.691/SP, relator Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe 15/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
