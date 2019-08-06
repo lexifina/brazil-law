@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados, (b) aplicação da Súmula n. 7 do STJ e (c) falta de comprovação do dissídio jurisprudencial alegado.
+O TJSP deu provimento ao recurso em acórdão assim ementado (e-STJ fl. 234):
+Ação de obrigação de fazer c.c. indenização por danos morais. Contrato ficto de compra e venda de Fiat Palio, ano 97. R. sentença de improcedência. Apelo só dos autores. Conjunto probatório desfavorável ao réu, restando evidenciado que as multas de trânsito que recaem sobre o veículo em tela foram aplicadas no interregno havido entre a venda do Palio ao réu e o distrato havido entre este e o primeiro autor. Obrigação de fazer que se impõe. Pagamento dos débitos que são de obrigação do requerido, sob pena de astreintes. Dano moral já discutido em processo distinto. Dá-se parcial provimento ao recurso dos requerentes, e isso a fim de julgar parcialmente procedente a ação por ele ajuizada, invertida a sucumbência.
+No recurso especial (e-STJ fls. 239/252), interposto com base no art. 105, III, "a" e "c", da CF, o recorrente apontou violação do art. 257, § 3º, do CTB, afirmando que "quem deve figurar no pólo passivo da presente ação necessariamente deverá ser o condutor do veículo, que na ocasião da negociação era o senhor [NOME], fato esse de pleno conhecimento dos recorridos, tanto que o reconheceu e o indicou no pedido inicial como o responsável pelas multas questionadas" (e-STJ fl. 246).
+Sustentou violação também do art. 134 do CTB, "cuja aplicação fora reconhecida pela r. sentença de primeiro grau (..) considerando que os recorridos venderam o veículo, e mesmo que o retomaram tempo depois, não comunicaram ao DETRAN-SP na devida, muito menos indicaram o condutor quando do recebimento das notificações" (e-STJ fl. 247), e que "enquanto não houver a comunicação (..) a titularidade da propriedade será de quem consta no registro antigo" (e-STJ fl. 249).
+Acostou julgados que confirmariam o dissídio quanto às teses apresentadas.
+Foram oferecidas contrarrazões (e-STJ fls. 256/266).
+No agravo (e-STJ fls. 271/287), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 290/299).
+É o relatório.
+Decido.
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do especial, por falta de prequestionamento.
+Assim, a Justiça local não se manifestou quanto ao art. 257, § 3º, do CTB. Dessa forma, sem ter sido objeto de debate na decisão recorrida, a matéria carece de prequestionamento e sofre, por conseguinte, o empecilho da Súmula n. 211/STJ.
+Quanto à aplicação do art. 134 do CTB, a Corte estadual entendeu que "na hipótese, não se poderia cobrar do requerente o cumprimento do art. 134 do CTB, eis que constou que o requerido sequer pagou o montante pactuado. E a devolução amigável do automotor havida posteriormente só pode ser interpretada em favor dos apelantes" (e-STJ fl. 236), assentando ainda que:
+Assim, não se olvidando do que dispõe o art. 186 do Cód. Civil, deverá o requerido arcar com os prejuízos causados ao acionante, sendo de rigor a procedência da ação no que toca à obrigação de fazer consistente no pagamento das multas de trânsito acostadas com a exordial, cometidas entre março/abril (data da venda do Fiat, conforme assertivas inseridas na contestação) e 29.08.16 (quando da retomada do Palio pelo autor), no prazo de trinta dias, sob pena de multa diária de R$ 300,00, limitadas a R$ 5.000,00.
+Assim, rever a conclusão do Tribunal de origem, na forma pretendida pelo recorrente, demandaria o reexame do acervo fático dos autos, procedimento vedado em sede especial, a teor do enunciado da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando o recorrente amparado pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
