@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo apresentado por VALERIA FERNANDES CANDIDO e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas a e c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA EXEQUENTES QUE PLEITEIAM O ARBITRAMENTO DOS HONORÁRIOS ADVOCATÍCIOS ANTES DO CUMPRIMENTO DA OBRIGAÇÃO DE FAZER FIXAÇÃO DA VERBA HONORÁRIA QUE DEVERÁ OCORRER NO MOMENTO OPORTUNO CONFORME O ART 85 DO CPC/2015 RECURSO DESPROVIDO.
+Quanto à primeira controvérsia, pela alínea a do permissivo constitucional, alega violação do art. 85, § 1º, do CPC e da Súmula n. 517 do STJ, no que concerne à necessidade de fixação de honorários advocatícios na fase de cumprimento de sentença em razão da ausência de espontaneidade no cumprimento da obrigação, trazendo o(s) seguinte(s) argumento(s):
+13. A verba honorária devida pelo cumprimento da obrigação de fazer não se confunde com a da obrigação de pagar, a teor do art. 85, § 1º, do CPC.
+14. Com efeito, o art. 85, § 1º, do CPC não discrimina entre cumprimento de sentença de obrigação de fazer e cumprimento de sentença de obrigação de pagar, de modo que, não cumprida espontaneamente, salvo na exceção da expedição de precatório, devida a verba honorária.
+15. A ausência de fixação de honorários pelo trabalho desenvolvido no cumprimento da obrigação de fazer ofende o art. 85, § 1 do CPC, a Súm. 517 do STJ, além de inúmeros precedentes do próprio TJSP (fl. 121).
+Quanto à segunda controvérsia, pela alínea c do permissivo constitucional, aponta divergência jurisprudencial quanto à interpretação do art. 85, § 1º, do CPC, no que concerne à mesma tese, e traz os seguintes acórdãos paradigmas: AI n. 2207461 -15.2017.8.26.000 e AI n. 2137060 -88.2017.8.26.000, ambos do TJSP (fl. 121).
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ademais, não é cabível o recurso especial por ofensa a enunciado de súmula dos tribunais.
+Assim, incide o óbice da Súmula n. 518 do STJ: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Nesse sentido: AgInt no REsp 1.532.990/MT, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/02/2019; AgInt no REsp 1724930/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22/08/2018; AgRg no AREsp 741.903/DF, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 04/12/2015; e AgRg no AREsp 10.529/DF, Rel. Ministro Newton Trisotto (Desembargador Convocado do TJ/SC), Quinta Turma, DJe 18/05/2015.
+Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 13/STJ uma vez que "a divergência entre julgados do mesmo tribunal não enseja recurso especial".
+Nesse sentido: "O dissídio jurisprudencial não foi comprovado, pois não serve para a sua demonstração a colação de julgados proferidos pelo próprio Tribunal recorrido, conforme estabelece a Súmula 13 desta Corte" (AgInt no AREsp 1384502/MT, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 21/03/2019, DJe 02/04/2019).
+Confiram-se ainda os seguintes julgados: EREsp 147.339/SP, Rel. Ministro Fernando Gonçalves, Corte Especial, julgado em 29/06/2005, DJ 29/08/2005, p. 135; AgRg no REsp 1779992/MG, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/02/2019, DJe 19/02/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
