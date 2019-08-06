@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO AGRAVADA QUE REJEITOU A IMPUGNAÇÃO À PENHORA OFERTADA PELOS RECORRENTES. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO QUE DECIDIU A CONTROVÉRSIA POSTA DE MANEIRA INTEGRAL E COM FUNDAMENTAÇÃO SUFICIENTE.
+AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME], e, [NOME], em face da decisão que negou seguimento a recurso especial, aviado pela alínea "a", do art. 105, III, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Em suas razões, a parte recorrente infirmou especificamente as razões da decisão agravada (e-STJ fls. 818-836).
+Nas razões do recurso especial, os recorrentes alegam violação aos artigos 489, § 1º, inciso II, e, 1.022, inciso II, do Código de Processo Civil/2015.
+Defendem, em síntese, negativa de prestação jurisdicional, tendo em vista que, o acórdão recorrido "não se manifestou quanto ao requerimento formulado pelos Executados, ora Recorrentes, muito embora tenham se comprometido em produzir toda e qualquer prova que o juízo entendesse como necessária à efetiva comprovação de tratarem-se os retrocitados bens de bens de família" (e-STJ Fl. 772).
+Pede o provimento do recurso.
+É o relatório.
+Passo a decidir.
+Inicialmente, registre-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Os embargos declaratórios não merecem acolhida. No caso não se configura a existência de quaisquer das deficiências apontadas, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso, senão vejamos:
+"À luz do disposto no artigo 1.022 do Código de Processo Civil, o acórdão de págs. 712/717 não exibe o vício enunciado pelos Embargantes.
+O que claramente aqui se pretende é o efeito modificativo do julgado, para nova análise de questões já expressamente decididas, a tornar claro o caráter infringente dos embargos. A questão relativa à impenhorabilidade do bem de família restou apreciada e a decisão foi fundamentada pelo acórdão (págs. 716/717):
+"Também descabido o pleito para reconhecimento da impenhorabilidade dos bens indicados pelos ora Agravantes, por se tratarem de bens de família. Ressalte-se que a r. decisão agravada foi clara ao asseverar ser inegável a existência de proteção legal ao bem de família, porém, no caso em questão, os ora Agravantes possuem inúmeros imóveis e não consta dos autos prova inequívoca de que possuem residência somente nos imóveis indicados, justamente em razão da existência de vários imóveis, tampouco existe qualquer averbação a esse respeito nas matrículas imobiliárias, de modo que, nesse caso, a proteção legal se dá apenas ao imóvel de menor valor, análise que se encontra por ora prejudicada, uma vez que não houve ainda avaliação dos bens.
+Cumpre ressaltar que a mera juntada de cópia de recolhimento de IPTU e de algumas contas de consumo, referentes aos imóveis em que se pleiteia a proteção legal (págs. 612/618 destes) é insuficiente para corroborar a alegação de que tais bens são os únicos utilizados como residência dos Agravantes, pois tal alegação importaria na realização de ampla prova documental, notadamente com a finalidade de também demonstrar a destinação de todos os outros imóveis dos quais foi autorizada a penhora e dos autos não consta qualquer prova a esse respeito. Cabe frisar também que para a comprovação dos fatos importaria tão somente na apresentação de documentos, pois a mera oitiva de testemunhas não constitui prova suficiente para tanto."
+Como se verifica, a pretensão é de cunho meramente infringente. Outro deveria ser o recurso formulado, diante da discordância quanto ao resultado do julgamento e das razões que o fundamentam" (e-STJ Fls. 731/732, gn).
+Percebe-se que, à conta de suposta irregularidade no decisum pretende a parte recorrente, na realidade, o rejulgamento da causa.
+Neste contexto, o desprovimento do recurso é medida que se impõe.
+Advirta-se que "não cabe a majoração dos honorários advocatícios nos termos do § 11 do art. 85 do CPC de 2015 quando o recurso é oriundo de decisão interlocutória sem a prévia fixação de honorários" (AgInt no REsp 1.507.973/RS, Relator o Ministro João Otávio de Noronha, julgado em 19/5/2016 e publicado no DJe de 24/5/2016).
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Advirta-se que a interposição de incidentes processuais infundados poderá dar ensejo à aplicação de multa por conduta processual indevida.
+Intimem-se.
