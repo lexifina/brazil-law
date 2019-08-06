@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo apresentado pelo BANCO DO ESTADO DE SERGIPE S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim resumido:
+Agravo de Instrumento - Liquidação por arbitramento - Impugnação aos cálculos periciais - Não acolhimento - Manutenção do decisium - Laudo pericial e complementares apresentados de maneira detalhada e conforme parâmetros fixados na sentença - Recurso conhecido e improvido - Decisão unânime. (fl. 839).
+Quanto à controvérsia dos autos, alega violação dos arts. 371 e 479 do Código de Processo Civil, no que concerne ao reconhecimento da ocorrência de falhas apontadas no laudo pericial com a consequente anulação do trabalho do expert, bem como a necessidade de análise do laudo apresentado pelo assistente, trazendo os seguintes argumentos:
+O recorrente vem se insurgir contra a decisão que julgou PROCEDENTE a Liquidação de Sentença tombada sob o nº 201211201733, sob fundamento de que os cálculos constantes do laudo pericial estariam corretos em razão da utilização dos percentuais e índices fixados em decisões.
+Verbera-se, Egrégio Tribunal, que existem 02 (cálculos) a serem analisados no caso em apreço: o do agravante e do perito, sendo que o M.M. Julgador a quo simplesmente posicionou-se por um deles sem nenhuma justificativa de rejeição aos cálculos apresentados pelos competentes Contadores/ALESSANDRA ROCHA BRITTO [NOME] - CRC/SE 4757 e [NOME].
+Assim, irresigna-se contra o comando de 1º. Grau, bem como decisão colegiada que manteve a decisão, que não indicou um único erro ou equívoco no laudo do banco que justificasse sua rejeição.
+ ..
+Conforme demonstrado em impugnação especifica apresentada pelo ora recorrente, os cálculos apresentados e homologados apresentam dois pontos cruciais que exorbitam o valor apurado.
+O acórdão embargado, por sua vez, limitou-se a analisar que o expert apresentou esclarecimentos quanto aos pontos abordados, sem contudo, apreciar o Nobre Relator, as razões da discordância apontada, sendo portanto OMISSA a decisão proferida.
+Consoante o art. 479 c/371 do CPC, o julgador não está adstrito ao laudo pericial, podendo formar o seu convencimento com base nos demais elementos de prova carreado aos autos. No caso em apreço, existem DOIS LAUDOS, e o posicionamento por um deles não é motivo justificável para agasalhamento unilateral do apresentado pelo perito.
+ ..
+Assim, existe uma controvérsia: a premissa utilizada pelo Julgador foi também utilizada pelo perito do Agravante, não havendo porque o mesmo ser desconsiderado sem motivos plausíveis que justifiquem o seu não acatamento.
+Ademais, de forma clara o laudo do agravante demonstrou divergências no laudo pericial que não foram consideradas pelo Juízo de 1º. Grau e apontados pelo agravante/recorrente.
+A perícia apresenta duas falhas graves da composição e tais irregularidades acrescem de maneira indevida o saldo a ser apurado.
+Tais falhas foram de logo denunciadas através da manifestação do requerido, devidamente acompanhada de parecer técnico.
+Registre-se que a pretensão do recorrente, não é uma simples discordância com o resultado da pericial oficial que foi homologada pelo Nobre Magistrado, mas sim, porque o citado Laudo impugnado, contrariou a coisa julgada, favorecendo os autores.
+Ora, restou demonstrado que o Nobre Perito agiu com incorreção na atualização do saldo e quando intimado a esclarecer limitou-se a afirmar que assim o fez de acordo com as decisões proferidas.
+ ..
+Assim, não pode o Julgador, em uma suposta homenagem ao seu livre convencimento motivado, simplesmente preferir adotar a perícia oficial, ignorando o conteúdo do laudo do assistente sem qualquer justificativa idônea, caso contrário seria melhor nem mesmo autorizar que a apresentasse!
+Desta feita, outra não pode ser a conclusão senão a necessidade de reforma da decisão guerreada, a fim que seja ordenada a remessa dos autos ao Juízo singular, para que sejam sanadas as irregularidades apontadas, ou não entendendo assim Vossas Excelências, que seja determinada a remessa dos autos ao setor de perícia desta Corte para elaboração de um laudo suplementar, levando-se em consideração o que fora determinado na sentença de mérito do processo nº 201111200814. (fls. 856/861).
+É o relatório. Decido.
+O Tribunal de origem, ao analisar as circunstâncias fáticas da causa, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, manifestou-se nos seguintes termos:
+O BANCO DO ESTADO DE SERGIPE S.A - BANESE interpôs com pedido de efeito ativo em face de Agravo de Instrumento , irresignado com a decisão do Juízo de Direito da 12ª Vara Cível da Comarca de Aracaju, que no [NOME] FERRIREA [NOME] FILHO bojo da em tramitação julgou improcedente a impugnação Ação de Liquidação por arbitramento (Processo nº 201711201733), apresentada e homologou o laudo pericial apresentado, fazendo-o nos seguintes termos:
+"(..) Abroquelado em todos os fundamentos acima e anteriormente expendidos, julgo procedente a presente Liquidação de Sentença tombada sob o nº 201211201733, proposta por [NOME] em face do Banco do Estado de Sergipe, alhures qualificados, conforme o exposto neste Decisum, homologando por sentença os cálculos apresentados pelo expert, para que produzam os seus jurídicos e legais efeitos. Sem custas e honorários advocatícios. Intimações necessárias. P.R.I."
+Analisando as razões recursais, extrai-se que a irresignação do agravante cinge-se em torno do improvimento da impugnação do laudo pericial e da homologação deste.
+Compulsando os autos de origem, constato que a medida adotada pelo Juízo fora correta, tendo em vista que os cálculos efetuados a quo pelo perito estão de acordo com o julgamento, estando a discussão da matéria coberta pelo manto da coisa julgada. Além do que, observo que o perito esclareceu todas as alegações suscitadas pelo agravante.
+Desta forma, resta improcedente os argumentos recursais.
+ ..
+Sendo assim, forte no exposto, reputo irretocável a decisão de primeiro grau que acolheu inacolheu a impugnação apresentada.
+Ante o exposto, conheço do presente recurso, para lhe negar provimento, a fim de manter a decisão proferida pelo magistrado de primeiro grau. (fl. 840/841).
+Nesse contexto, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+No mesmo sentido: "O encerramento da fase instrutória, decidido em agravo de instrumento outro, assim como a suficiência dos laudos periciais para instruir o convencimento manifestado pelas instâncias ordinárias, é matéria de prova cuja análise não é própria na instância especial, nos termos do Verbete 7 da súmula desta Corte" (AgInt no AREsp 271.693/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe 17.11.2016).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
