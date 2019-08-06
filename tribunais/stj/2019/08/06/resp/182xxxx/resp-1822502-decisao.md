@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. EXECUÇÃO FISCAL. PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. DISCUSSÃO SOBRE A APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. INOCORRÊNCIA.
+Para que se reconheça a prescrição intercorrente é necessário, além da inércia da exequente, o decurso do lapso temporal de cinco anos, sem que o credor proporcione qualquer diligência útil para satisfação do seu crédito.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta violação aos arts. 85, §§2º, 3º e 10, do CPC/2015, alegando em síntese que a Fazenda Pública deve arcar com os honorários advocatícios, uma vez que deu causa ao reconhecimento da prescrição intercorrente por não ter dado o devido impulsionamento ao feito.
+O recurso foi admitido pela decisão de fls. 316.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Compulsando os autos, observa-se que o Tribunal de origem, soberano na análise do conjunto probatório dos autos entendeu que a Fazenda Nacional não deu causa ao ajuizamento da ação.
+A esse respeito, constou o acórdão recorrido o seguinte (fl. 223):
+Por fim, não é cabível a fixação de honorários advocatícios. No caso dos autos, a parte executada deu causa à execução fiscal, com sua inadimplência e não apontou qualquer irregularidade relativa à cobrança presente à época do ajuizamento; além disso, ao aguardar o decurso do prazo prescricional intercorrente e contratar advogado para postular a extinção do feito, a parte executada beneficia-se de sua própria inércia, o que não se coaduna com os princípios constitucionais. Portanto, não cabe condenar a exequente ao pagamento de honorários sucumbenciais. Esse é, inclusive, o entendimento desta Turma:
+Nessas circunstâncias, acolher a pretensão recursal - e se reconhecer que a recorrida deve arcar com o pagamento dos honorários advocatícios, por aplicação do princípio da causalidade - implica o revolvimento do acervo fático-probatório, providência obstada na via do recurso especial, em razão do impeditivo de que trata a Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. OCORRÊNCIA DE TRANSAÇÃO, EM MOMENTO POSTERIOR AO AJUIZAMENTO DA EXECUÇÃO FISCAL. ALEGADA VIOLAÇÃO AO ART. 467 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. DESPESAS PROCESSUAIS. ACÓRDÃO QUE CONCLUIU PELA RESPONSABILIDADE DA EXECUTADA, PELAS DESPESAS PROCESSUAIS, EM FACE DO PRINCÍPIO DA CAUSALIDADE. IMPOSSIBILIDADE DE REVISÃO, EM SEDE DE RECURSO ESPECIAL. SÚMULAS 5 E 7 DO STJ. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+III. Quanto à responsabilidade pelo pagamento das custas e da taxa judiciária, não há como analisar a tese defendida pela parte recorrente - no sentido de que o Município agravado deu causa à instauração do processo, razão pela qual deve suportar as despesas processuais, nos termos do art. 26 do CPC -, pois tal implicaria no reexame dos aspectos fático-probatórios do caso em análise, além de ser necessária interpretação de cláusula do instrumento de transação, celebrado entre as partes, o que é inviável, em sede de Recurso Especial, ante os óbices das Súmulas 5 e 7 do STJ. No mesmo sentido: STJ, AgRg no AREsp 709.936/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 26/08/2015; STJ, AgRg no AREsp 719.741/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 27/08/2015; STJ, AgRg no AREsp 716.423/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 18/08/2015; STJ, AgRg no AREsp 662.724/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 30/06/2015.
+IV. Agravo Regimental improvido.
+(AgRg no AREsp 848.409/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/03/2016, DJe 29/03/2016)
+Diante do exposto, com base no art. 932, III, do CPC/2015, c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
