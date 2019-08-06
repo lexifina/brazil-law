@@ -1,0 +1,113 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que inadmitiu o recurso especial fundamentado nas alíneas a e c do permissivo constitucional.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 495/497, in verbis:
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão prolatada pelo Desembargador Segundo Vice-Presidente do Tribunal de Justiça do Estado do Rio Grande do Sul, que inadmitiu o recurso especial ofertado pela defesa.
+Consoante se extrai dos autos, o recorrente ajuizou revisão criminal, com fundamento no artigo 621, inciso I, do Código de Processo Penal, contra acórdão que o condenou definitivamente à pena de 4 (quatro) anos de reclusão, no regime inicial aberto, como incurso no artigo 157 do Código Penal.
+O Quarto Grupo Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, por unanimidade, julgou improcedente a revisão criminal, nos termos do acórdão assim ementado (fl. 322):
+REVISÃO CRIMINAL. CÓDIGO PENAL. CRIMES CONTRA O PATRIMÔNIO. ART. 157, CAPUT. ROUBO. NULIDADE. DEFESA INEFICIENTE.
+Revisão criminal que aponta nulidade do processo, por negligência da Defensoria Pública. A absolvição na instância originária mereceu apelo do Ministério Público, o qual foi provido. Presente voto vencido, houve a interposição de embargos infringentes, improvidos. REsp que foi interposto não teve seguimento, por intempestividade. Agravo interposto não foi conhecido, no STJ. O que gera a nulidade é a ausência, e não a defesa que ineficiente. Nulidade rejeitada.
+MÉRITO.
+Crime de roubo, com absolvição a origem e condenação no grau recursal, com voto vencido reconhecendo a tentativa. Embargos infringentes rejeitados. A pretendida reapreciação da prova, em busca de absolvição, não autoriza revisão criminal.
+REVISÃO CRIMINAL IMPROCEDENTE. UNÂNIME.
+Sobreveio recurso especial, interposto com base no artigo 105, III, alíneas "a" e "c" da Constituição Federal, no qual o recorrente alega violação aos artigos 621, inciso I, e 489, §1º, incisos II, III, IV e V, ambos do CPP, bem como contrariedade ao artigo 44 do Código Penal.
+Aduz que a decisão que negou o pedido de revisão criminal é nula por não estar fundamentada corretamente, porquanto não se manifestou acerca dos argumentos defensivos capazes de infirmar a conclusão adotada pelo julgador.
+Sustenta, ainda, contrariedade ao artigo 621, inciso I, do CPP, sob o argumento de que não pretende o reexame de provas, mas sim, demonstrar "que a decisão judicial objeto do pedido de revisão criminal, fundamentou a condenação do recorrente no reconhecimento pessoal da vítima, e na palavra da vítima, contudo não houve reconhecimento pessoal na fase policial e tampouco houve na fase judicial, a vítima afirmou em audiência que, sequer olhou para o rosto do homem que, lhe assaltou e que, não poderia reconhecê-lo" (fls. 365/366)
+Pugna pela desclassificação do crime de roubo para o de furto, sob a alegação de que o assaltante nem mesmo chegou a forçar o braço da vítima, pois a mesma entregou o celular espontaneamente, circunstância que exclui a grave ameaça e possibilita a substituição da pena privativa de liberdade por restritivas de direitos. Aduz, para tanto, a ocorrência de dissídio jurisprudencial.
+O recurso especial foi inadmitido na origem, por incidência das Súmulas 83/STJ e 282 e 356, ambas do STF, bem como por não ser cabível o exame de admissibilidade pelo dissídio jurisprudencial apresentado em relação a dispositivo legal não prequestionado, consoante decisão de fls. 427/435.
+Daí o presente agravo em recurso especial, sustentando o agravante que "o artigo 105, III, "a" da Constituição Federal, não exige a interposição de embargos de declaração como requisito de admissão de Recurso Especial, e ressaltar ainda que, nulidades absolutas são questões de ordem pública que, podem ser suscitadas em qualquer grau de jurisdição, razão pela qual, o recurso especial merece prosseguimento, outrossim as demais matérias foram ventilados na revisão criminal, inexistindo motivos para a inadmissão do recurso" (fl. 455).
+Aduz que não deve ser aplicada a Súmula 83/STJ, tendo em vista que "a condenação do agravante não tem base em elementos probatórios! Não existe reconhecimento no processo criminal, o caso em tela dispensa reanálise de provas, uma vez que, não há reconhecimento, logo não há provas, e a condenação não condiz com o conjunto probatório" (fl. 460).
+O Parquet opinou pelo não conhecimento do recurso (e-STJ fls. 495/501).
+É o relatório.
+Decido.
+De início, verifico que a aventada divergência jurisprudencial não foi demonstrada nos termos exigidos pela legislação processual de regência. A mera transcrição de ementas não serve à comprovação do dissídio, sendo necessário o cotejo analítico entre os acórdãos recorrido e paradigma, com a efetiva confirmação da similitude dos casos confrontados.
+A propósito:
+REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E NULIDADE DO ATO DE RECONHECIMENTO DE PESSOA. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF.
+ ..
+DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO DO DISSÍDIO NOS TERMOS ART. 541, PARÁGRAFO ÚNICO, DO CPC/73 E DO ART. 255 DO RISTJ. RECURSO IMPROVIDO.
+1. O conhecimento do recurso especial interposto pela alínea "c" do permissivo constitucional exige a demonstração do dissídio jurisprudencial, de acordo com os requisitos do art. 541, parágrafo único, do CPC/73 e do art. 255 do RISTJ.
+2. Na espécie, deixou o recorrente de realizar o cotejo analítico entre os acórdãos confrontados, evidenciando que foram adotadas soluções diversas em litígios semelhantes, sendo insuficiente a mera transcrição das ementas dos julgados apontados como paradigma.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 729.869/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/10/2016, DJe 07/11/2016)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PROCESSO PENAL. LESÃO CORPORAL GRAVE. PLEITO ABSOLUTÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NECESSIDADE DE TRANSCRIÇÃO DE TRECHOS DOS ACÓRDÃOS RECORRIDOS E PARADIGMA. REINCIDÊNCIA. AGRAVAMENTO DA PENA-BASE EM 1/6. RAZOABILIDADE E PROPORCIONALIDADE. CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO INTEGRAL. INVIABILIDADE. AGENTE MULTIRREINCIDENTE. AGRAVO REGIMENTAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+ ..
+2. O conhecimento do recurso especial pela divergência exige a transcrição dos trechos dos acórdãos impugnado e paradigma, evidenciando-se, de forma clara e objetiva, o suposto dissídio jurisprudencial. Diante disso, não é bastante, à realização do cotejo analítico, a simples transcrição de ementas ou votos - como ocorreu na espécie -, pois insuficiente para demonstrar a similitude fática entre o acórdão recorrido e o considerado mais adequado ou "padrão" (arts. 541, parágrafo único, do CPC e 1.029, § 1º, do NCPC).
+ ..
+6. Agravo regimental conhecido em parte e, nessa extensão, não provido. (AgInt no REsp 1.475.151/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/10/2016, DJe 27/10/2016)
+No mais, anota-se que a tese de que teria havido violação aos arts. 489, § 1º, do Código de Processo Penal e 44 do Código Penal não foi debatida de forma específica na origem e não houve a oportuna provocação do exame da quaestio por meio de embargos de declaração, sendo patente a falta de prequestionamento. Destarte, no ponto, tem incidência a vedação prescrita nas Súmulas n. 282 e 356/STF.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. FIXAÇÃO DA PENA. ERRO MATERIAL NO ACÓRDÃO RECORRIDO. SÚMULAS 282 E 356 DO STF. ART. 33, § 4º, DA LEI 11.343/2006. INAPLICABILIDADE. SÚMULA 7/STJ. REGIME SEMIABERTO. ART. 33, § 2º, "b", e § 3º, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A suposta existência de erro material na fixação da reprimenda não foi tratada pelo acórdão recorrido e tampouco foram opostos embargos de declaração para sanar o suposto defeito. Aplica-se, por analogia, as Súmulas 282 e 356 do STF.
+ ..
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 980.386/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/03/2017, DJe 17/03/2017)
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. 256 KG DE MACONHA E 145 G DE HAXIXE. DOSIMETRIA. ILEGALIDADE NA PENA-BASE. PRECLUSÃO. MATÉRIA QUE NÃO FOI OBJETO DA APELAÇÃO. INADMISSIBILIDADE. QUESTÃO QUE NÃO FOI DEBATIDA SOB O ENFOQUE PRETENDIDO PELA DEFESA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. QUANTIDADE QUE JUSTIFICA O AUMENTO FIXADO. (Agravo regimental improvido. (AgRg no AREsp 769.272/MS, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/12/2015, DJe 17/12/2015)
+Por fim, o Tribunal a quo julgou improcedente a revisão criminal sob os seguintes fundamentos para o caso concreto (e-STJ fl. 325/348):
+Este o fato descrito na denúncia, recebida em 18 de fevereiro de 2013 (fl. 83):
+"No dia 11 de dezembro de 2012, por volta das 20h25min, na Rua Um, Canoas/RS, o denunciado subtraiu, para si, mediante grave ameaça, um celular marca Huawei, com chip da Claro (auto de apreensão da fl. 25), avaliado em R$ 150,00 (cento e cinquenta reais), conforme auto de avaliação indireta à fl. 54, telefone celular restituído à vítima, [NOME], consoante auto de restituição à fl. 27.
+Na ocasião, o denunciado abordou a vítima em via pública, e, colocando a mão na altura da cintura sob a roupa, fazendo menção de estar armado, determinou a entrega do bem, no que foi de pronto atendido pela vítima.
+Depois de a vítima ter sido roubada pelo denunciado, contatou seu esposo e ambos procederam buscas nas adjacências, logrando encontrar o ora denunciado. Ato contínuo, informaram suas características à Brigada Militar, que acionou policiais militares que lograram prender o denunciado em flagrante delito, ainda em posse da res.
+A sentença foi absolutória, com a seguinte argumentação:
+A materialidade do delito resta consubstanciada pelo auto de prisão e flagrante (fls. 04/30), registro de ocorrência (fls. 19/21), autos de apreensão (fl. 27/28), auto de restituição (fl. 29) e auto de avaliação indireta (fl. 56).
+A autoria exsurge inequívoca nos autos, mormente pela prova oral.
+A vítima [NOME] (fl. 101) relatou que por ocasião dos fatos, estava caminhando quando foi abordada por um indivíduo que lhe exigiu que entregasse o celular. Em seguida, passou a seguir o assaltante e acionou a polícia, que em abordagem ao acusado localizou o celular subtraído. Indagada se o réu estava armado, afirmou não ter visualizado qualquer arma e, como o acusado colocou a mão na cintura, presumiu que estaria.
+A testemunha [NOME] (fl. 101), esposo da vítima, afirmou que sua esposa chegou em casa e informou que havia sido roubada, razão pela qual ambos saíram com o carro a fim de localizar o autor do delito. Disse que a vítima identificou o réu e, em seguida, acionaram a polícia, que encontrou com o mesmo o celular subtraído.
+Indagado, afirmou que o réu trata-se do mesmo indivíduo que foi abordado pelos policiais e estava na posse do celular de sua esposa.
+A testemunha [NOME] (fl. 101), policial militar, informou ter sido avisado pela sala de operações acerca de um assalto a pedestre e que a vítima estava acompanhando o assaltante. Disse que abordaram o acusado e com ele localizaram o celular subtraído.
+A testemunha [NOME] (fl. 101), policial militar, não se recordou do fato descrito na denúncia.
+Essa é toda a prova produzida no feito.
+A palavra da vítima é segura ao confirmar que foi o acusado quem lhe subtraiu o telefone celular. Para que pudesse consumar o delito, o acusado apenas pediu à vítima que entregasse o telefone celular, sem qualquer ameaça ou emprego de violência. Muito embora a vítima tenha relatado que o réu levou a mão à altura da cintura, foi taxativa no sentido de que não havia qualquer arma.
+Definidas, pois, a materialidade e a autoria da subtração, impõe-se, todavia, o exame do correto enquadramento da ação em referência ao tipo penal denunciado.
+Veja-se que, muito embora a denúncia tipifique a conduta relacionada ao fato como roubo, não houve, a meu ver, a presença de todas as elementares a caracterizar tal delito. A vítima, quando inquirida em juízo, mencionou que apenas entregou o telefone celular ao acusado, sem mencionar tivesse experimentado ameaça ou violência. Aliás, tanto que não houve ameaça, que a própria vítima não se sentiu intimidada e passou a seguir o acusado logo após a subtração.
+A jurisprudência do Tribunal de Justiça do Rio Grande do Sul vem sendo neste sentido:
+ ..
+Logo, entendo que devem ser afastadas as elementares violência ou grave ameaça que tipifica o roubo, remanescendo, apenas, a subtração.
+ ..
+Houve apelo do MINISTÉRIO PÚBLICO, e como resultado do julgamento (AC 70 063 220 305) a seguinte ementa:
+APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. ROUBO SIMPLES.
+MÉRITO. Inequívocas a materialidade e a autoria do delito, diante da prova oral colhida e da prisão em flagrante do réu na posse da res furtiva.
+DESCLASSIFICAÇÃO PARA FURTO. AFASTADA. Configurada a grave ameaça contra a vítima, que acreditou estar o autor do ilícito portando uma arma de fogo, verifica-se a tipicidade do crime de roubo.
+PRINCÍPIO DA INSIGNIFICÂNCIA. ROUBO. NÃO INCIDÊNCIA. O princípio da insignificância é incompatível com o delito de roubo, face ao emprego de violência ou grave ameaça.
+APENAMENTO. Pena-base fixada no mínimo legal.
+REGIME. Fixado o regime inicial aberto, nos termos do art. 33, § 2º, "c", do CP.
+SUBSTITUIÇÃO. Não faz jus o réu à substituição da pena privativa de liberdade por restritiva de direitos, em face da grave ameaça configurada, nos termos do art. 44, I, do CP.
+PENA DE MULTA. Réu pobre. Fixação no mínimo legal. Suspensão da exigibilidade das custas processuais em razão da assistência da Defensoria Pública.
+APELO PARCIALMENTE PROVIDO.
+E estes os votos proferidos, que resultaram na condenação:
+DES. [NOME] (RELATOR)
+A sentença está assim fundamentada:
+../..
+O feito, todavia, merece solução diversa, pois o conjunto probatório contido nos autos não deixa margem para dúvidas acerca da materialidade e da autoria do crime de roubo.
+Narrou a vítima (mídia da fl. 101) que estava caminhando na via pública quando foi abordada por um indivíduo, o qual, simulando o uso de arma, exigiu a entrega de celular e dinheiro. Após a subtração, a ofendida dirigiu-se até sua residência e, ato contínuo, com a ajuda do marido, passou a fazer buscas na região. Localizou o acusado, acionando a polícia. O réu foi preso em flagrante delito, na posse do bem subtraído.
+Ressalto que a palavra da vítima em delitos como o da espécie, não raras vezes cometidos sem a presença de testemunhas, merece ser recepcionada com especial valor para a elucidação do fato, sob pena de não ser possível a responsabilização penal do autor desse tipo de ilícito patrimonial.
+Obviamente, na análise e valoração do depoimento da ofendida, o julgador deve se cercar de vários cuidados, como o de atentar para a existência de motivos para a falsa imputação por parte da vítima ou, ainda, para a presença de outros elementos capazes de demonstrar a participação do acusado no ilícito, que, isolados, não seriam capazes de ensejar um juízo condenatório, mas, tidos em conjunto, constituem acervo probatório seguro para tanto.
+No caso, inexistem razões para que sejam lançadas dúvidas sobre as declarações da vítima, derruindo a presunção de verdade que emana de seus depoimentos, tanto mais se tratando de pessoa sobre a qual não recai qualquer suspeita de falsa imputação.
+Consigno que embora a vítima não tenha ratificado reconhecimento anterior, trata-se de circunstância irrelevante diante do fato de que, logo após o fato, foi o agente preso na posse da res .
+Ademais, o marido da vítima, [NOME], embora não tenha presenciado a subtração, confirmou que o homem preso na data do fato era o mesmo presente em audiência (mídia da fl. 101).
+Desta forma, devidamente demonstrada a materialidade e a autoria delitiva, diante da palavra da vítima e testemunhas, bem como da prisão em flagrante do réu na posse da res furtiva .
+Superada a análise do conjunto probatório, entendo cabível solução diversa à adotada pelo juízo a quo , que desclassificou o delito para o crime de furto.
+Observa-se que a vítima, quando questionada pela magistrada sobre o emprego de grave ameaça durante a conduta delituosa, afirmou que o réu simulou o uso de arma de fogo, em razão dos gestos. Em que pese a ofendida não tenha visualizado o artefato, a simples simulação é suficiente para configurar a grave ameaça, visto que acreditou que ela existisse.
+Deste modo, comprovadas as elementares do crime de roubo, impõe-se a reforma da sentença para que seja afastada a desclassificação operada.
+Outrossim, em decorrência da reclassificação do delito, incabível a aplicação do princípio da insignificância, pois incompatível com o crime de roubo.
+ ..
+Conforme pode ser percebido, dos documentos que acompanham a inicial, a pretensão busca o reconhecimento de ineficiência da defesa, e revisão do exame da prova.
+Mas não ocorreu julgamento contrário à prova dos autos, nem descumprimento às formalidades legais.
+O que pode gerar a nulidade do processo é a ausência de defesa, e tal não ocorreu.
+A defesa, salvo a perda o prazo, no REsp, foi feita da maneira processualmente adequada, ainda que não tenha alcançado sucesso.
+E até mesmo com relação à intempestividade do REsp, houve sustentação e insistência, mas o entendimento expressado nas razões recursais não foi acolhido.
+E, superada tal questão, no mérito a pretensão é de reapreciação da prova, o que não tem sido admitido, pois tal motivação não autoriza a revisão criminal.
+Dos trechos acima extraídos do julgamento do pedido de revisão criminal, verifica-se que o acórdão condenatório afastou a desclassificação do delito para furto, concluindo que o conjunto probatório contido nos autos não deixa margem para dúvidas acerca da materialidade e da autoria do crime de roubo, diante da palavra da vítima e testemunhas, bem como da prisão em flagrante do réu na posse da res furtiva, afirmando, ainda, que ficou configurada a grave ameaça contra a vítima, que acreditou estar o autor do ilícito portando uma arma de fogo.
+Nas razões do presente recurso especial, a defesa sustenta que a vítima não poderia ter reconhecido o acusado, pois não teria olhado para o seu rosto. Afirma, ainda, que "não existem elementos nos autos que apontem para o emprego de grave ameaça contra a vítima" (e-STJ fl. 367), aduzindo que a vítima entregou espontaneamente o aparelho celular e que, dessa forma, a decisão condenatória impugnada pelo pedido de revisão criminal decidiu de forma contrária a evidência dos autos.
+Ora, o que se verifica é que, de fato, as teses suscitadas na revisão criminal foram suficientemente apreciadas e decididas na sentença e no acórdão da apelação, e que a defesa pretende, assim, o mero reexame de fatos e provas, o que não é admissível em revisão criminal.
+Desse modo, tem-se que o acórdão recorrido encontra-se em harmonia com a jurisprudência desta Corte Superior firmada no sentido "do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC n. 206.847/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/2/2016, DJe 25/2/2016).
+No mesmo sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. PEDIDO DE ABSOLVIÇÃO NA REVISÃO CRIMINAL, AO ARGUMENTO DE QUE O DECRETO CONDENATÓRIO TERIA SIDO CONTRÁRIO À PROVA DOS AUTOS. IMPOSSIBILIDADE. WRIT NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do Superior Tribunal de Justiça - STJ. Contudo, ante as alegações expostas na inicial, afigura-se razoável a análise do feito para verificar a existência de eventual constrangimento ilegal. Não é cabível a utilização do habeas corpus como substitutivo do meio processual adequado.
+2. "Esta Corte Superior já decidiu que "a revisão criminal, à luz do disposto no art. 621, III, do Código de Processo Penal, não se presta à mera reapreciação de prova já examinada" (HC 42.063/GO, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJ de 20/6/2005)." (AgRg no HC 458.151/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 3/12/2018) 3. Habeas corpus não conhecido.
+(HC 486.381/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 07/05/2019, DJe 20/05/2019)
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. REVISÃO CRIMINAL. PRETENSÃO DE DESCONSTITUIR O ACERVO PROBATÓRIO. AGRAVO NÃO PROVIDO.
+1. Esta Corte Superior já decidiu que "a revisão criminal, à luz do disposto no art. 621, III, do Código de Processo Penal, não se presta à mera reapreciação de prova já examinada" (HC 42.063/GO, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJ de 20/6/2005).
+2. No caso, o direito invocado pela defesa não é de reconhecimento que se mostra prontamente inequívoco, notadamente diante dos fundamentos explicitados no acórdão impugnado, os quais não se mostram, em princípio, desarrazoados ou ilegais. Isso porque o Tribunal de origem, ao julgar a ação revisional, concluiu que a tese suscitada pela defesa foi suficientemente apreciada e decidida na sentença e no acórdão da apelação, de modo que a questão não seria hipótese de cabimento de revisão criminal, ante a ausência de decisões contrárias ao texto expresso da lei penal ou à evidência dos autos.
+3. A pretensão de absolvição por insuficiência de provas não pode ser apreciada por esta Corte Superior de Justiça por demandar o exame aprofundado do conjunto fático-probatório dos autos, pois inviável nessa via estreita.
+4. Agravo regimental não provido.
+(AgRg no HC 458.151/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/11/2018, DJe 03/12/2018)
+Outrossim, para alterar a conclusão a que chegou a Corte a quo, seria necessário, no caso, o revolvimento fático-probatório dos autos, o que não se admite na via do recurso especial tendo em vista o óbice da Súmula n. 7/STJ.
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
