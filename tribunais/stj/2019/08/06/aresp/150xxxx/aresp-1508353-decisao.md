@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado, fundamentado no art. 105, inciso III, alínea c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, cuja ementa apresenta-se resumida, nos termos abaixo:
+AÇÃO REVISIONAL PLANO DE SAÚDE INDIVIDUAL REAJUSTE DAS MENSALIDADES DO CONTRATO POR MUDANÇA DE FAIXA ETÁRIA ABUSIVIDADE NÃO VERIFICADA.
+ ..
+APELAÇAO PROVIDA (fl. 343).
+Quanto à controvérsia dos autos, pela alínea c do permissivo constitucional, acusa a parte recorrente a ocorrência de abusividade no reajuste do contrato do plano de saúde em razão da mudança da faixa etária, quando completou 60 anos de idade.
+É o relatório. Decido.
+Quanto à controvérsia em apreço, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF" (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+Ademais, não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico a fim de demonstrar a existência de identidade jurídica e similitude fática entre o acórdão recorrido e o(s) paradigma(s) indicado(s).
+Nesse sentido: "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório" (AgInt no AREsp n. 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/4/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 535.444/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 1/4/2019; REsp n. 1.773.244/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 5/4/2019; e AgInt no AREsp n. 1.358.026/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1º/4/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
