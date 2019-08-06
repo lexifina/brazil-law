@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] GALINDO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre está fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL - PIANO DE SAÚDE - AÇÃO JULGADA IMPROCEDENTE  RECURSO DE APELAÇÃO PROTOCOLIZADO APÓS O DECURSO DO PRAZO DE QUINZE DIAS ÚTEIS  INTEMPESTIVIDADE  RECURSO NÃO CONHECIDO (fl. 278).
+Quanto à primeira controvérsia, pela alínea a do permissivo constitucional, alega violação do art. 77 do Estatuto do Idoso c/c os arts. 176 e 181 do CPC, no que concerne à nulidade do feito por falta de intervenção do Ministério Público, trazendo o(s) seguinte(s) argumento(s):
+Contudo, como se vê do processo, a causa, que não é de simples direito patrimonial disponível, pois leva em conta interesses público e social como os valores da previdência, a proteção jurídica e da saúde do idoso frente a plano de saúde, DEVERIA TER A INTERVENÇÃO DO MINISTÉRIO PÚBLICO, com base no art. 77 do Estatuto do Idoso e dos arts. 176 a 181 do Código de Processo Civil.
+Cumpre destacar que na petição inicial A AUTORA PROPUGNOU PELA INCIDÊNCIA DO ESTATUTO DO IDOSO, o que não a torna culpada pela nulidade ora aventada. (fl. 288).
+Quanto à segunda controvérsia, pela alínea a do permissivo constitucional, alega violação do art. 219 c/c 224 do CPC, no que concerne ao reconhecimento da tempestividade do recurso de apelação, trazendo o(s) seguinte(s) argumento(s):
+Contudo, conforme será demonstrado, o tribunal deu interpretação divergente aos artigos supracitados no momento em que considerou que a contagem do prazo para o protocolo da apelação terminava na data de 27/06/2018, e não da data de 30/06/2017.
+ ..
+Com efeito a r. sentença foi disponibilizada no DJE aos 03.10.2017, contudo, no ínterim de 15 dias, deixou o v. acórdão de considerar que o dia 13 de outubro não foi dia útil, conforme o Provimento CSM nº 2394, de 1º de dezembro de 2016 que dispõe sobre a suspensão do expediente forense no exercício de 2017, disponível no sítio eletrônico:  ..
+Assim, o dia de vencimento tem que recair necessariamente no dia 30.10.2017, que é o dia do protocolo tempestivo do recurso de apelação. Vejamos a tabela a seguir:
+ ..
+Estando comprovado que o protocolo do recurso de apelação foi tempestivo, a decisão recorrida deverá ser reformada, a fim de se reconhecer a tempestividade do referido recurso. (fl. 289/291).
+É o relatório. Decido.
+Em relação à primeira e à segunda controvérsias, incide, na espécie, o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Além do que, em relação à análise da tempestividade do recurso de apelação, verifica-se que também incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula n. 7/STJ)" (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
