@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no julgamento do Agravo em Execução n. 9000027-92.2019.8.26.0637.
+Extrai-se dos autos que o Juízo das Execuções indeferiu pedido de progressão de regime prisional pretendido pela defesa.
+Diante disso, a defesa interpôs agravo em execução, sendo o recurso desprovido (fls. 30/34).
+No presente mandamus, a defesa alega que estão presentes todos os requisitos necessários para a progressão do regime, sejam de ordem temporal, sejam de ordem subjetiva. Afirma que a Lei de Execuções Penais não faz qualquer restrição à progressão nos casos em que a pena a cumprir é longa ou o crime é supostamente grave.
+Requer, assim, em liminar e no mérito, a concessão da progressão de regime ao paciente.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Conforme relatado, busca-se, na presente impetração, a progressão do paciente ao regime aberto.
+Na hipótese em análise, de fato, na esteira do delineado no parecer ministerial da lavra da douta Subprocuradora-Geral da República ELA WIECKO V. DE CASTILHO, o qual adoto como razões de decidir, não há, na hipótese em debate, manifesto constrangimento ilegal que merece reparos de ofício, posto sequer é possível aferir dos elementos dos autos o cumprimento de 1/6 da pena no regime semiaberto, conforme dispõe o art. 112 da LEP, circunstância que, por si só, inviabiliza o conhecimento do writ.
+De mais a mais, esta Corte pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto, e levando em consideração fatos ocorridos durante a execução penal, justificaria o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+Nessas circunstâncias, verifica-se que as instâncias ordinárias lograram fundamentar o indeferimento da progressão de regime, considerando, sobretudo, que o paciente "consoante se depreende da conclusão exarada pelo psicólogo que o avaliou, ao reverso do que quer levar a crer a defesa, é evidente que ainda não preencheu o requisito subjetivo necessário para a obtenção da progressão de regime prisional, pois atestou que ele apresenta (..) nível cognitivo dentro da média da massa carcerária, memória de evocação e fixação preservadas, boa estruturação egoíca, caráter primitivo, agressividade e impulsividade sob controle, está aprendendo lidar com suas limitações e frustações, em sua autocrítica assume seus delitos parcialmente (sic, fl. 16, sem o destaque no original)."
+Frise-se, ademais, que o Superior Tribunal de Justiça possui entendimento de que "o Magistrado não está adstrito ao laudo favorável do exame criminológico, o qual poderá formar sua própria convicção acerca do pedido de progressão, com base nos dados concretos da execução da pena" (AgRg no HC n. 419.539/SP, rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 8/2/2018, DJe 16/2/2018), o que ocorreu na espécie.
+Como quer que seja, é firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica o reexame do conjunto fático-probatório, procedimento incompatível com os estreitos limites da via eleita.
+À propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. SÚMULA 439/STJ E SÚMULA VINCULANTE 26/STF. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS. HISTÓRICO PRISIONAL. HISTÓRICO CONTURBADO. FALTAS DISCIPLINARES. FUGA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+VI - A modificação das decisões proferidas pelas instâncias ordinárias, para concluir pela configuração do requisito subjetivo para a progressão de regime, demandaria o revolvimento do conjunto fático-probatório dos autos da execução penal, o que é incompatível com os estreitos limites da via do writ.
+Habeas corpus não conhecido.
+(HC 436.977/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/05/2018, DJe 01/06/2018)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. EXECUÇÃO PENAL. INDEFERIMENTO DE PROGRESSÃO DE REGIME PRISIONAL PELO JUIZ DAS EXECUÇÕES. AUSÊNCIA REQUISITO SUBJETIVO. DECISÃO FUNDAMENTADA. ACÓRDÃO DA CORTE ESTADUAL QUE DETERMINA A REALIZAÇÃO DE EXAME CRIMINOLÓGICO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. HABEAS CORPUS NÃO CONHECIDO. ..
+ ..
+- É firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica no reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita.
+Habeas corpus não conhecido. (HC 300.090/SP, relator o Ministro Ericson Maranho - Desembargador Convocado do TJSP, Sexta Turma, DJe de 28/8/2015)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
