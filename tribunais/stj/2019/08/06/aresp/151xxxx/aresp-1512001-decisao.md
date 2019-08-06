@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Apelação. Ação de prestar contas. Parceria entre advogados para encaminhamento de clientes com o patrocínio de demandas previdenciárias. Ação julgada improcedente por ausência de interesse processual. Ausência de especificação sobre quais processos o Autor pretende obter a prestação de contas. Impossibilidade. Agravo retido que se confunde com o mérito da ação. Demonstração de delimitação temporal e territorial dos processos. Controle total do levantamento de valores realizado exclusivamente pelos Réus. Obrigação de prestar contas comprovada. Sentença alterada. Inversão de honorários. RECURSO PROVIDO. (fl. 543).
+Quanto à controvérsia, aponta divergência de interpretação do art. 485, inciso VI, do Código de Processo Civil, trazendo como paradigma o AgInt no REsp n. 1.552.048/PR.
+É o relatório. Decido.
+Na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que inexistente a necessária identidade jurídica e/ou similitude fática entre o acórdão recorrido e os paradigmas indicados.
+Nesse sentido, o STJ fixou que "o conhecimento da divergência jurisprudencial reclama a existência de similitude fático-jurídica entre o acórdão recorrido e os paradigmas submetidos a confronto" (EDcl no Resp n. 1.254.636/ES, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 23/4/2015).
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp n. 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; e AgRg no REsp n. 1.500.980/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/3/2015).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
