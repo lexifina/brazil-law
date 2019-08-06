@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] BRAGA contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+AGRAVO DE INSTRUMENTO. SUBCLASSE RESPONSABILIDADE CIVIL. AÇÃO DE REPARAÇÃO DE DANOS CUMULADA COM OBRIGAÇÃO DE NÃO FAZER. TUTELA PROVISÓRIA DE URGÊNCIA.
+DETERMINAÇÃO DE REMOÇÃO DE NOTÍCIA VEICULADA EM BLOG E NA REDE SOCIAL FACEBOOK. MANUTENÇÃO, NO CASO.
+1. Em se tratando de colisão de direitos fundamentais, é cediço que não há respostas definitivas e invariáveis, pois não se trata da dimensão da chamada lógica do "tudo ou nada", que preside o mundo das regras. Neste, a existência de regras opostas, com pretensão de incidência sobre o fato, implica a necessidade de identificar qual a regra válida, afastando-se a outra. O embate entre princípios opostos, como é o caso - direito de informar e o correlato direito à informação x alegados direito à imagem - não encontra solução definitiva e absoluta, devendo ser resolvida pela ponderação, à luz do caso concreto. Por vezes preponderará a liberdade de imprensa; outras vezes preponderará o direito à imagem, ou à privacidade, ou à honra.
+2. Com base nessa premissa, deve ser mantida a decisão que determinou a remoção da notícia publicada pelo réu em seu blog e rede social Facebook, na qual é afirmado que o autor, por obstruir a justiça, foi preso em flagrante.
+3. Primeiro porque a notícia se refere a fato ocorrido há mais de um ano - tendo a mesma ficado disponível por quase todo esse tempo -, não sendo mais, portanto, atual, a ponto de se entender que a reativação garantiria direito à informação.
+4. Segundo porque a notícia, prima facie , contém incorreção técnica, à qual foi conferido destaque e atribuída importância, a ponto de torná-la o cerne do noticiado, incorreção esta apta a configurar excesso do réu e a causar dano à imagem do autor.
+5. Nesse contexto, em juízo de cognição sumária, deve prevalecer e ser preservado o direito à imagem-atributo do autor.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+É o relatório. Decido.
+Na espécie, incide, por analogia, o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, tendo em vista sua natureza precária e provisória, cuja reversão é possível a qualquer momento pela instância a quo.
+Nesse sentido: "A jurisprudência desta Corte é firme no sentido de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita a modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito"" (AgInt no AREsp n. 1.351.487/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 17/12/2018).
+Confira-se ainda o seguinte precedente: AgInt no AREsp n. 1.321.705/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
