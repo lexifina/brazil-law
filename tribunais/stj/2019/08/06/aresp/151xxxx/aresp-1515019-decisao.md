@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME], contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. DANO MATERIAL. PROVA PRÉ-CONSTITUÍDA. INCONCLUSIVA. REDE DE ESGOTO. OBRA REALIZADA PELA SANEPAR NO EXTERIOR DO TERRENO. VAZAMENTO DE AGUÁ. TRINCAS E RECALQUES NA FUNDAÇÃO DO IMÓVEL. OBRA INTERNA. ABERTURA DE VALETAS. PRECIPATAÇÃO DE CHUVA INTENSA. ACÚMULO DE ÁGUA. LAUDO PERICIAL. HÁBIL E CONCLUSIVO. AUSÊNCIA DE NEXO CAUSAL ENTRE DANO E ATO DA REQUERIDA. CULPA EXCLUSIVA DA REQUERENTE. SENTENÇA MANTIDA. RECURSO DESPROVIDO (fls. 660).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 4º, I, do CDC, trazendo os seguintes argumentos:
+Em síntese, foi pleiteada indenização por danos materiais e morais em face da Recorrida SANEPAR, já que a companhia, ao promover obras de implantação da rede coletora de esgotamento sanitário na rua da Recorrente, causou diversas avarias em seu imóvel (rachaduras em vários pontos, além de infiltrações de águas pluviais, que resultaram em recalques na estrutura da casa, pisos externos, muro frontal, rompimento das tubulações, caixa de passagem, tubulação de gás e água fria).
+ ..
+Concluiu-se, na oportunidade, não haver dúvidas de que as avarias ocorridas no imóvel da Recorrente tiveram origem em vazamento na rede de abastecimento de água potável da SANEPAR.
+ ..
+Em que pese todos os argumentos colacionados na fase de conhecimento, o Juízo Singular da 12 Vara da Fazenda Pública da Comarca de Londrina, Paraná, julgou improcedentes os pedidos formulados pela ora Recorrente, condenando-a ao pagamento das custas, honorários periciais e despesas processuais, bem como os honorários advocatícios do patrono da Recorrida.
+ ..
+Data venia, a Oitava Câmara Cível do Estado do Paraná infringiu essa norma, proferindo uma decisão absolutamente contrária ao contexto da lei, que é cristalina ao dispor a necessidade de se reconhecer a vulnerabilidade do consumidor (fls. 712/718).
+Quanto à segunda controvérsia, o recurso especial foi interposto pela alínea "c".
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice das Súmulas 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ademais, aplica-se o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto, a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Destarte: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Em consonância: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Doutra banda, quanto à segunda controvérsia, não foi comprovada a divergência jurisprudencial, pois não cumpridos os requisitos legais do art. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nesse sentido, os seguintes julgados: AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018; AgInt no REsp 1.696.707/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 12/3/2018; e AgRg no REsp 1.683.470/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 31/10/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
