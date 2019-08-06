@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por JATOBA S.A. EM RECUPERACAO JUDICIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL VALOR DA CAUSA SUPERIOR AO VALOR DO TÍTULO EXECUTIVO HIPÓTESE DE EXCESSO DE EXECUÇÃO ALEGAÇÃO DE INÉPCIA DA PETIÇÃO INICIAL REJEITADA RECURSO IMPROVIDO.
+Alega violação dos arts. 2º, § 5º, II e III, e 6º, § 4º, ambos da Lei n. 6.830/80, 319, V, e 330, I, do CPC, no que concerne ao reconhecimento da nulidade da petição inicial por desatender o requisito formal (valor da causa), trazendo o(s) seguinte(s) argumento(s):
+Constata-se a insensatez do argumento fazendário a partir do momento que a própria execução fiscal só pode ser ajuizada após a inscrição do débito em dívida ativa - momento em que se reputa incidentes os encargos legais - e, por isso, deveriam tais acréscimos julgados exigíveis pela Agravada serem indicados tanto na petição inicial quanto nos títulos executivos.
+Quanto ao fato de tratar-se o valor da causa de requisito formal da petição inicial, verifica-se que sua atribuição de forma correta, de molde que seja possível determinar exatamente o quantum objeto da execução, advém de previsão E expressa da Lei de Execução Fiscal e do Código de Processo Civil (fl. 191).
+Portanto, resta ultrapassada a fundamentação do v. acórdão recorrido, na medida em que a atribuição correta ao valor da causa é um dos requisitos formais da petição inicial, por delinear justamente extensão da obrigação cuja satisfação se requer, não se tratando de dado acidental cujo equívoco é superável, revelando-se imperiosa a extinção da execução fiscal que não atender à referida determinação legal (fl. 192).
+Diante destas circunstâncias, conclui-se que a petição inicial está em manifesto desacordo com a legislação, em especial o artigo 6º, § 4º, da Lei nº 6.830/80, vez que indicou com equívoco o valor pretendido, o que motiva o indeferimento da petição inicial e a extinção da execução fiscal, na forma do artigo LLJ 330, I, do CPC. (fl. 192).
+É o relatório. Decido.
+Na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
