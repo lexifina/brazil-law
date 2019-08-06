@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo apresentado pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. CONCESSÃO DE SERVIÇO PÚBLICO. USINA HIDRELÉTRICA. PREJUÍZOS DECORRENTES DO OBJETO DO CONTRATO. RESPONSABILIDADE SUBSIDIÁRIA DO PODER CONCEDENTE.
+Alega violação do art. 25 da Lei n. 8.987/1995, no que concerne à ilegitimidade passiva ad causam do IBAMA, trazendo o seguinte argumento:
+Entendeu o colegiado que, a despeito do teor do art. 25 da Lei nº 8.987/95, remanesceria ao IBAMA a responsabilidade solidária e de execução subsidiária pelos supostos prejuízos ocasionados por empreendimento hidrelétrico levado a cabo por empresa privada concessionária de serviço público (fl. 1.495).
+É o relatório. Decido.
+Quanto à controvérsia suscitada, na espécie, incide o óbice da Súmula n. 126/STJ, uma vez que é imprescindível a interposição de recurso extraordinário quando o acórdão recorrido possui fundamento de natureza constitucional suficiente por si só para a manutenção da decisão.
+Nesse sentido: "Existindo fundamento de índole constitucional, suficiente para a manutenção do acórdão recorrido, cabia à parte recorrente a interposição do imprescindível Recurso Extraordinário, de modo a desconstituí-lo. Ausente essa providência, o conhecimento do Especial esbarra no óbice da Súmula 126/STJ, segundo a qual "É inadmissível recurso especial, quando o acórdão recorrido assenta-se em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário". Precedentes do STJ" (AgInt no AREsp 1.288.579/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 25/09/2018).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 821.329/PB, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 13/02/2019; AgInt nos EDcl no REsp 1.445.887/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 19/12/2018; AgInt no AREsp 1316610/SC, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 06/12/2018; e AgRg no AREsp 800.057/RN, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 14/11/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
