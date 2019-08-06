@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados e (b) aplicação da Súmula n. 7 do STJ.
+O TJSP deu provimento ao recurso em acórdão assim ementado (e-STJ fl. 226):
+Compra e venda de imóvel Aplicação do código de defesa do consumidor Rescisão a pedido dos adquirentes, que não têm condições financeiras de arcar com o pagamento do restante do preço - Possibilidade - Restituição das quantias pagas, com retenção de até 20% a favor da requerida Razoabilidade Pretendido desconto do montante relativo à comissão de corretagem Descabimento, no caso Infração ao dever de informação Correção monetária e juros de mora nos termos da sentença sucumbência mínima da requerida, que deverá arcar com o pagamento das despesas processuais e honorários advocatícios Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 262/266).
+Nas razões do recurso especial (e-STJ fls. 242/251), interposto com base no art. 105, III, "a", da CF, a recorrente apontou violação do art. 389, 402 e 403 do CC/2002, afirmando que "de fato, uma vez estabelecida a culpa exclusiva dos recorridos, como consta do venerando acórdão impugnado, era de se aplicar o raciocínio nele contido no sentido de que as partes deveriam retornar aos status quo ante, como mencionado" (e-STJ fl. 247) e que assim importaria em "permitir que a recorrente deduza dos valores pagos todas as despesas que teve com a transação e que foram devidamente comprovada e reconhecidas nos autos, ou seja, a comissão de corretagem e os tributos decorrentes desse negócio" (e-STJ fl. 248).
+Foram oferecidas contrarrazões (e-STJ fls. 269/279).
+No agravo (e-STJ fls. 284/294), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 296).
+É o relatório.
+Decido.
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do especial, por falta de prequestionamento.
+Assim, a Justiça local não se manifestou quanto ao art. 402 e 403 do CC/2002. Dessa forma, sem ter sido objeto de debate na decisão recorrida, a matéria carece de prequestionamento e sofre, por conseguinte, o empecilho da Súmula n. 211/STJ.
+Verifica-se que o Tribunal de origem concluiu, baseado nos elementos fático-probatório dos autos, que "a resolução do contrato foi bem decidida, cingindo-se o reclamo ao percentual de retenção e o desconto efetuado a título de comissão de corretagem", assentado que (e-STJ fls. 227/234):
+Segundo consta, os autores teriam pago R$ 17.411,47, ao passo que a requerida alega que parte do montante se destinou ao pagamento de comissão de corretagem (R$ 7.986,40), além de tributos (R$ 1.785,65), totalizando R$ 9.772,05.
+De acordo com o bem afirmado na sentença, ainda que inadimplente, é possível ao adquirente postular a resolução do contrato, com a devolução de parte dos valores pagos (cf. Súmula 01 desta E .
+Corte).
+(..)
+Desse entendimento não discrepa a jurisprudência desta E .
+Corte como já assinalado, nem a do Colendo Superior Tribunal de Justiça, que em vários julgados, assentou que se "admite a possibilidade de resilição do compromisso de compra e venda por iniciativa do devedor, se este não mais reúne condições econômicas para suportar o pagamento das prestações avençadas com a empresa vendedora do imóvel" (v.g. RE sp n.59.870/ SP, Rel. Min. Barros Monteiro, DJU de 09.12.2002; Rec.E sp. 78.221/ SP, Rel Min. Aldir Passarinho Júnior, em 26.08.2003, in DJ 29.09.2003 p.253).
+Desse modo e tendo em vista a impossibilidade de os compradores arcarem com o restante das parcelas do preço, é mesmo de rigor a resolução da avença, tornando as partes ao status quo ante.
+Resolvido o contrato, cabe analisar as cláusulas de decaimento previstas.
+(..)
+O Poder Judiciário, em tais casos, atua justamente para afastar os abusos negociais que tenha como caracterizados e próprios dos contratos de adesão, no qual sequer o consumidor tem condição de discutir as cláusulas neles inseridas.
+Com a rescisão do contrato, tem-se que a devolução das quantias pagas emerge como direito do comprador, ainda que a resolução decorra de seu inadimplemento, sendo possível à vendedora reter percentual a ser analisado em cada caso, considerando o julgador as circunstâncias envolvidas, entendimento sedimentado tanto no Colendo Superior Tribunal de Justiça, quanto neste Tribunal, a título de indenização pelas despesas administrativas.
+(..)
+No caso, diversamente do afirmado pela ré, a limitação dos descontos a 20% do total das quantias pagas, arbitrado em primeiro grau, se mostra suficiente para ressarcir a vendedora das despesas administrativas e fiscais realizadas com a celebração do contrato, que acabou por ser desfeito.
+Impende ressaltar que a vendedora receberá de volta o imóvel, com as obras já concluídas, o que importa em inegável valorização, no momento da nova comercialização.
+Porém, razão assiste aos compradores, quanto à base de cálculo para a respectiva devolução.
+No caso, considerou o juízo que deveria ser descontado dos pagamentos o montante referente a comissão de corretagem e tributos e pese o recibo trazido pela requerida, não há como imputar aos adquirentes tais encargos, pois tais valores não foram efetivamente destacados do preço, tanto do recibo acostado às págs. 40, apenas é mencionado o pagamento de R$ 13.273,81m relativo ao sinal do Instrumento Particular de Promessa de Venda e Compra.
+Assim, não socorre à recorrida a alegação de legalidade da cobrança de comissão de corretagem.
+Curial assinalar que o tema está definitivamente resolvido pelo C. Superior Tribunal de Justiça, nos autos do mencionado RE sp 1.599.511/ SP, no qual se estabeleceu a legalidade da cobrança da referida comissão, na venda de unidades autônomas em incorporação imobiliária, seja por cláusula expressa transferindo tal obrigação ao consumidor, seja por acordo verbal ou mediante contrato autônomo entre o adquirente e o corretor.
+Importa destacar que a validade da cláusula que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem, em hipóteses que tais, depende da prévia e clara informação ao consumidor acerca do preço total do imóvel, com destaque do valor da corretagem.
+Como dantes assinalado, não se verifica do contrato de firmado destaque do respectivo valor. Há apenas menção ao preço do imóvel, com o valor da entrada e do saldo residual parcelado.
+Desse modo, não estão atendidos os requisitos delineados no recurso especial supramencionado, já que não se pode falar que, na hipótese em tela, as adquirentes, antes de firmarem o compromisso de venda e compra, tiveram conhecimento da corretagem e do valor da respectiva comissão, donde se conclui que houve violação dos deveres de informação e esclarecimento.
+A propósito e versando sobre caso análogo, confira-se o decidido pela E . 1ª Câmara de Direito Privado, nos autos da apelação nº 1054696-72.2014.8.26.0100, em que foi Relator o eminente Des. Francisco Loureiro.
+Por conseguinte, todos os valores pagos pelos compradores devem integrar a base de cálculo da restituição das parcelas, mantida a retenção de 20% do total pago à vendedora, o que já se mostra suficiente a cobrir despesas administrativas.
+(..)
+O termo inicial da correção monetária é mesmo a data dos efetivos desembolsos pelos adquirentes, tendo em vista que a resolução do contrato opera efeitos ex tunc, como já explicitado e juros de mora do trânsito em julgado.
+Por conseguinte, os juros moratórios fluirão a partir da data do trânsito em julgado, consoante o já decidido pelo Colendo Superior Tribunal de Justiça, em 25.05.2010, nos autos do AgRg no RE sp 1013249/ PE , bem como em 26.03.2008, nos autos do RE sp 1008610/ RJ, uma vez que a rescisão se deu por inadimplência das compradoras, inexistindo mora anterior da vendedora.
+Por fim e ante o acima, há que ser reconhecida a sucumbência mínima dos autores, razão pela qual deverá a requerida suportar as despesas processuais e honorários advocatícios, arbitrados em 10% do montante da condenação.
+Essas as razões pelas quais se entende ser possível acolher parcialmente o recurso interposto pela requerida, manifestando-se aqui o quanto se tem como necessário e suficiente à solução da causa, dentro da moldura em que apresentada e segundo o espectro da lide e legislação incidente na espécie, sem ensejo a disposição diversa e conducente à outra conclusão, inclusive no tocante a eventual prequestionamento de questão federal, anotando-se, por fim, haver-se decidido a matéria consoante o que a turma julgadora teve como preciso a tanto, na formação de sua convicção, sem ensejo a que se afirme sobre eventual desconsideração ao que quer que seja no âmbito do debate travado entre os litigantes.
+Dessa forma, o reexame da matéria exigiria nova incursão nos fatos da causa, medida vedada pela Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
