@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO DE PREVIDÊNCIA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+ALIRE MARIA LEAL MANGABEIRA BROCHADO (ALIRE) ajuizou ação de complementação de benefício de previdência privada contra FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL PETROS (PETROS) e PETRÓLEO BRASILEIRO S.A. PETROBRÁS (PETROBRÁS), pleiteando diferenças decorrentes de indevido desconto de valores pagos pelo INSS a título de pensão por morte, bem como acréscimo nos proventos em decorrência da implementação de RMNR para os embargados ativos.
+O Juízo de piso rejeitou preliminar de ilegitimidade passiva da PETROS e extinguiu o processo em face da PETROBRÁS, sem resolução de mérito, com fundamento no art. 485, VI, do NCPC (e-STJ, fls. 96/101).
+Interposto agravo de instrumento por ALIRE, o Tribunal de origem deu-lhe parcial provimento, em acórdão assim ementado (e-STJ, fl. 171):
+AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. PREVIDÊNCIA PRIVADA. REVISÃO DE APOSENTADORIA SUPLEMENTAR. ILEGITIMIDADE PASSIVA DA PATROCINADORA. EXTINÇÃO DO FEITO. MANUTENÇÃO DA DECISÃO. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO.
+I. Quando o empregado se aposenta, cessa qualquer vínculo com a empresa empregadora, também chamada de patrocinadora, passando o aposentado a ter relação unicamente com a fundação responsável pelo pagamento dos valores referentes à previdência privada.
+II. Não havendo qualquer responsabilidade por parte da antiga empregadora da parte agravante, quanto ao pagamento da obrigação objeto do litígio originário (revisão de aposentadoria suplementar), é imperativa a manutenção da decisão que reconheceu a sua ilegitimidade passiva, extinguindo o feito originário com relação a ela, nos termos do art. 485, VI, do CPC.
+III. Redução dos honorários advocatícios do procurador da agravada Petrobrás, observados os limites do art. 85, §§ 2º e 8º, do CPC.
+AGRAVO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos por ALIRE foram rejeitados (e-STJ, fls. 201/207).
+Inconformada, ALIRE interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação dos arts. 114, 489, §1º, 942 e 1.022 do NCPC, 265, 275 do CC/02, 7º, parágrafo único, do CDC, 2º, §2º, da CLT, 6º da LC nº 108/01, 34, §2º, da Lei nº 6.435/77 e divergência jurisprudencial, aduzindo, em síntese, que (1) o acórdão recorrido foi omisso; e (2) a patrocinadora PETROBRÁS e a PETROS são solidariamente responsáveis pelas obrigações assumidas em face do participante.
+PETROBRÁS e PETROS ofereceram contrarrazões (e-STJ, fls. 278/299 e 311/332).
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem negou seguimento ao recurso especial com fundamento em precedente firmado em recurso repetitivo a respeito da ilegitimidade passiva da patrocinadora e, quanto às demais questões, inadmitiu o apelo nobre ante a ausência de violação dos arts. 489, §1º e 1.022 do NCPC. Dessa decisão, foi interposto o presente agravo em recurso especial, no qual foi refutada a inadmissão do recurso.
+Foram apresentadas contrarrazões por PETROBRÁS e PETROS (e-STJ, fls. 478/497 e 500/512).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da negativa de prestação jurisdicional
+Tendo em vista a negativa de seguimento ao recurso especial quanto à ilegitimidade passiva da PETROS, compete a esta Corte apreciar apenas a remanescente alegação de omissão e fundamentação deficiente do acórdão recorrido.
+Os embargos de declaração se destinam a suprir omissão, esclarecer obscuridade, eliminar contradição ou corrigir erro material existente no julgado, podendo ser-lhes atribuídos, excepcionalmente, efeitos infringentes quando algum desses vícios for reconhecido.
+Da atenta análise do acórdão impugnado, observa-se que o acórdão apreciou expressamente a alegação de ilegitimidade passiva da patrocinadora, concluindo que esta não responderia pela complementação de benefício previdenciário pretendida por ALIRE, inclusive invocando precedentes do STJ - estes no mesmo sentido firmado no recurso repetitivo invocado na decisão de admissibilidade - e da Corte de origem. Confira-se o excerto do acórdão recorrido:
+Pois bem. Tenho que não prospera o recurso, uma vez que, quando o empregado se aposenta, cessa qualquer vínculo com a empresa empregadora, também chamada de patrocinadora, passando o aposentado a ter relação unicamente com a fundação responsável pelo pagamento dos valores referentes à previdência privada (no presente caso, a Fundação Petrobrás de Seguridade Social - PETROS).
+Dessa forma, entendo não haver qualquer responsabilidade por parte da empresa Petróleo Brasileiro S.A. - PETROBRÁS, antiga empregadora do agravante, quanto ao pagamento da obrigação objeto do litígio (revisão de pensão por morte suplementar).
+Nesse sentido é o posicionamento do egrégio STJ (..) (e-STJ, fl. 176).
+No caso, não existe nenhum dos vícios do referido dispositivo legal, tendo ALIRE apenas manifestado o inconformismo quanto ao entendimento delineado no acórdão embargado, revestindo-se a pretensão de caráter manifestamente infringente, o que não se coaduna com a medida integrativa dos embargos de declaração.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
