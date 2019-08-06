@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. HIPÓTESES LEGAIS. NÃO ENQUADRAMENTO. ACÓRDÃO RECLAMADO PROFERIDO POR TURMA RECURSAL DO JUIZADO ESPECIAL FEDERAL. SUCEDÂNEO RECURSAL. INADEQUAÇÃO DA VIA ELEITA. PEDIDO LIMINAR. ANÁLISE PREJUDICADA. RECLAMAÇÃO NÃO CONHECIDA.
+DECISÃO
+Trata-se de reclamação, com pedido liminar, ajuizada por [NOME], com fundamento nos artigos 988, IV, da Lei n. 13.105/2015 e artigo 187 do Regimento Interno do Superior Tribunal de Justiça contra acórdão proferido pela 2ª Turma Recursal do Juizado Especial Federal da Seção Judiciária do Distrito Federal nos autos do recurso inominado n. 0069205-48.2014.4.01.3400.
+O reclamante narra ter ajuizado ação previdenciária objetivando o restabelecimento do auxílio-doença com posterior conversão em aposentadoria por invalidez. A pretensão foi julgada parcialmente procedente em primeira instância. Em recurso Inominado, a 2ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Distrito Federal e, desconstituindo em parte a sentença, para "fixar a data da cessação do benefício em 28/9/2015 e revogou a tutela antecipada, sem, no entanto, a necessidade de devolução dos valores já recebidos.."(fl.150).
+A presente reclamação é ajuizada "tão somente para que se determine a implantação do benefício previdenciário em medida de urgência, e no mérito que seja reformada a sentença e determinando a condenação do INSS ao pagamento desde a data da incapacidade, ou seja 01/12/2015." (fl.6).
+O reclamante entende que o caso se insere no âmbito da reclamação, pois o acórdão prolatado está equivocada e afrontando direito garantido na constituição.
+É o relatório. Decido.
+Nos termos do art. 105, inciso I, alínea "f", da Constituição Federal, compete a este Superior Tribunal processar e julgar, originariamente, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões.
+Nos termos do CPC/2015, cabe reclamação nas seguintes hipóteses:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016)
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência; (Redação dada pela Lei nº 13.256, de 2016)
+Todavia, no caso dos autos, a reclamação foi ajuizada contra acórdão proferido pela Segunda Turma Recursal do Juizado Especial Federal da Seção Judiciária do Distrito Federal, que deu parcial provimento ao recurso inominado do INSS.
+Com efeito, tratando-se de Turma Recursal Federal, há caminho adequado para o pronunciamento do STJ, ante a previsão de recurso para a Turma Nacional de Uniformização (TNU) no art. 14, caput, da Lei 10.259/01, e pelo incidente de uniformização dirigido ao STJ, previsto no art. 14, § 4º, da mesma lei, a ser interposto contra o julgado da TNU.
+Sendo assim, tem-se que a presente reclamação é manifestamente incabível, pois está sendo utilizada como sucedâneo recursal, providência essa não admitida pelo nosso ordenamento. Nesse sentido, in verbis:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. ACÓRDÃO RECORRIDO PROFERIDO POR TURMA RECURSAL DO JUIZADO ESPECIAL FEDERAL. NÃO CABIMENTO DA RECLAMAÇÃO. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. Nos termos dos arts. 105, I, f, da CF e 187 do RISTJ, a reclamação destina-se a preservar a competência deste Tribunal ou garantir a autoridade das suas decisões. É um meio de impugnação de manejo limitado, que não pode ter seu espectro cognitivo ampliado, sob pena de se tornar um sucedâneo recursal.
+2. No âmbito dos Juizados Especiais Federais, não é cabível reclamação diretamente contra decisão de turma recursal com a finalidade de discutir contrariedade à jurisprudência do STJ.
+3. Há previsão legal de recurso específico contra acórdão da Turma Recursal do Juizado Especial Federal, qual seja, o incidente de uniformização dirigido à Turma Nacional.
+4. Ao STJ somente competirá, em momento posterior, a análise de eventual divergência entre o acórdão da Turma Nacional de Uniformização com a sua jurisprudência dominante ou sumulada, acerca de questões de direito material.
+5. Agravo interno a que se nega provimento. (AgInt na Rcl 32.968/SP, Rel. Min. Sérgio Kukina, Primeira Seção, DJe 3/3/2017)
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NA RECLAMAÇÃO. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. RECLAMAÇÃO CONTRA DECISÃO DOS JUIZADOS ESPECIAIS FEDERAIS. ART. 105, I, F, DA CF/88. NÃO CABIMENTO. PROCEDIMENTO ESPECÍFICO PREVISTO NA LEI N. 10.259/01.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - A reclamação prevista no art. 105, I, f, da Constituição da República não serve para impugnar julgado de Turma Recursal Federal que alegadamente diverge da orientação adotada por esta Corte, porquanto há procedimento específico para esse finalidade (Art. 14 da Lei n. 10.259/01).
+III - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Regimental improvido. (AgRg na Rcl 14.115/RN, Rel. Min. Regina Helena Costa, Primeira Seção, DJe 2/5/2016)
+PROCESSUAL CIVIL. RECLAMAÇÃO. INADEQUAÇÃO DA VIA ELEITA. DECISÃO RECORRIDA PROFERIDA POR TURMA RECURSAL DE JUIZADO ESPECIAL (LEI 12.153/2009). EXISTÊNCIA DE MECANISMO PRÓPRIO PARA A SOLUÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. POSSIBILIDADE DE DESISTÊNCIA DA AÇÃO APÓS A CITAÇÃO. MATÉRIA PROCESSUAL. NÃO CABIMENTO DE RECLAMAÇÃO.
+1. A reclamação teve o seu seguimento obstado pela decisão agravada com suporte na aplicação da iterativa jurisprudência da Primeira Seção desta Corte, que se tem posicionado no sentido do não cabimento da reclamação contra decisões proferidas pelas Turmas Recursais em demandas que tramitam no Juizado Especial da Fazenda Pública (Lei 10.253/2009) ou nos Juizados Especiais Federais (Lei 10.259/2001), tendo em vista a existência de mecanismos próprios para a solução das alegadas divergências jurisprudenciais.
+2. Por outro lado, não socorre ao agravante o argumento de que não é cabível incidente de uniformização de jurisprudência, em razão de a decisão reclamada versar sobre questões de direito processual, porquanto a jurisprudência desta Corte uniformizou-se no sentido de que também descabe reclamação para discussão acerca de questões de direito processual, como no presente caso, em que o agravante pretende rediscutir a possibilidade ou não de desistência da ação após a citação.
+Agravo regimental improvido. (AgRg na Rcl 30.485/SP, Rel. Min. Humberto Martins, Primeira Seção, DJe 14/6/2016)
+Pelo exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço da reclamação.
+Publique-se. Intimem-se.
