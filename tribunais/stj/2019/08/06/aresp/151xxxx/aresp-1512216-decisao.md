@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo apresentado por MUNICÍPIO DE AMERICANA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO SERVIDOR MUNICIPAL DE AMERICANA AUXILIAR DE ENFERMAGEM PEDIDO DE PAGAMENTO DE ADICIONAL DE INSALUBRIDADE LAUDO PERICIAL INDICOU QUE ATIVIDADE EXERCIDA PELA AUTORA POSSUI GRAU DE INSALUBRIDADE MÉDIO (20%) ADICIONAL PREVISTO NA LEI MUNICIPAL 5110/2010 PAGAMENTO DEVIDO SENTENÇA DE PROCEDÊNCIA MANTIDA RECURSO NÃO PROVIDO.
+Alega violação da Norma Regulamentadora n. 15 - anexo 14 da Portaria n. 3.214/78 do Ministério do Trabalho.
+É o relatório. Decido.
+Na espécie, é incabível o recurso especial porque interposto com fundamento na violação de ato normativo não compreendido no conceito de lei federal.
+Nesse sentido: "Não cabe ao Superior Tribunal de Justiça, em recurso especial, examinar tal violação, na medida em que o ato normativo não é enquadrado no conceito de lei federal. Conforme o art. 105, III, alínea "a", da Constituição Federal, não se permite ampliar a competência desta Corte Superior para, em recurso especial, examinar eventual ofensa a súmulas, resoluções, regulamentos, portarias, circulares ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal"" (AgInt no REsp 1645453/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/02/2019, DJe 28/02/2019).
+Confiram-se ainda os seguintes precedentes: REsp 1732018/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/05/2018, DJe 21/11/2018; AgInt no AREsp 1154000/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/04/2018, DJe 17/04/2018; e AgInt no REsp 1394867/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 14/03/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
