@@ -1,0 +1,38 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. ITBI. SÚMULA 280/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO EM RECURSO ESPECIAL DO MUNICÍPIO DE SÃO PAULO NÃO CONHECIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo MUNICÍPIO DE SÃO PAULO, com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de São Paulo.
+2. Não foram opostos Embargos de Declaração.
+3. Nas razões recursais, o agravante alega violação dos arts. 38, 97, II e IV e 148 do Código Tributário Nacional.
+4. É o relatório.
+5. A indicada afronta aos arts. 38, 97, II e IV e 148 do Código Tributário Nacional não podem ser analisadas, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial. Quando os artigos tidos por violados, estes não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ. A propósito cita-se:
+PROCESSO CIVIL. ENERGIA ELÉTRICA. FRAUDE NO MEDIDOR. OFENSA AO ART. 535 DO CPC. AUSÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ANÁLISE DE CONTRARIEDADE À RESOLUÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO DE MATÉRIA FÁTICA. DESCABIMENTO.
+1. O fundamento utilizado pelo aresto recorrido para afastar a cobrança da energia elétrica indevidamente consumida foi o de que, mesmo não tendo sido elidida a presunção de irregularidade do medidor, a revisão do faturamento está prejudicada, porquanto, após a substituição daquele, o consumo manteve-se praticamente inalterado.
+2. A falta de prequestionamento dos artigos 3º da LICC; 20 e 21, da Lei nº 9.427/96 e 31 da Lei nº 8.987/95 justifica a incidência da Súmula 211/STJ.
+3. Ainda que assim não fosse, não há como se examinar se houve contrariedade aos dispositivos legais indicados, pois, para tanto, faz-se necessário emitir juízo de valor sobre o conteúdo da própria resolução, isto é, acerca dos procedimentos utilizados para a cobrança da tarifa referente à energia indevidamente consumida, o que não é permitido no apelo nobre, uma vez que se trata de ato normativo não enquadrado no conceito de lei federal, constante da alínea a do inciso III do artigo 105 da Constituição Federal. Precedentes.
+4. Por fim, tem-se que o aresto combatido está assentado nos elementos fático-probatórios da demanda e o seu reexame é vedado na presente instância recursal, consoante disposto no enunciado da Súmula 7/STJ.
+5. Agravo regimental não provido (AgRg no AREsp. 68.440/MG, Rel. Min. CASTRO MEIRA, DJe 19.12.2011).
+
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. OFENSA A RESOLUÇÃO. IMPOSSIBILIDADE DE EXAME NA VIA ELEITA. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REPETIÇÃO DE INDÉBITO DE TARIFAS. APLICAÇÃO DO PRAZO PRESCRICIONAL DO CÓDIGO CIVIL. RECURSO ESPECIAL. ALÍNEA "C". NÃO-DEMONSTRAÇÃO DA DIVERGÊNCIA.
+(..)
+3. É inadmissível Recurso Especial quanto a questão não apreciada pelo Tribunal a quo, a despeito da oposição de Embargos Declaratórios (arts. 3º, 6º, § 3º, II, e 29, I, da Lei 8.987/1995; e arts. 2º, 3º, XIX, e 17, da Lei 9.247/1996). Incidência da Súmula 211/STJ.
+4. A Ação de Repetição de Indébito de tarifa de água e esgoto se sujeita ao prazo prescricional estabelecido no Código Civil, podendo ser vintenário, na forma estabelecida no art. 177 do Código Civil de 1916, ou decenal, de acordo com o previsto no art. 205 do Código Civil de 2002.
+5. Orientação reafirmada pela Primeira Seção, no julgamento do REsp 1.113.403/RJ, submetido ao rito do art. 543-C do CPC.
+6. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial, com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+7. Agravo Regimental não provido (AgRg no AREsp, 37.894/RS, Rel. Min. HERMAN BENJAMIN, DJe 6.3.2012).
+6. O Tribunal bandeirante consignou que:
+A ação versa sobre cobrança de valores referentes ao ITBI, com cálculo nos termos da Lei Municipal 11.154/91, julgada inconstitucional pelo C. Órgão Especial desta Corte.
+Considerando a Emenda Constitucional nº 45/2004, que determinou a extinção dos Tribunais de Alçada, foi editada a Resolução nº 194/2004 do Egrégio Tribunal de Justiça, que na letra "b" do inciso II do artigo 2º, dispôs ser da 14ª e 15ª Câmara da Seção de Direito Público a competência preferencial para julgamento das ações e execuções relativas à dívida ativa das Fazendas Municipais.
+Pelo Assento Regimental n. 382/08, foi criada a "18ª Câmara, que com as 14ª e 15ª Câmaras, integrará o 7º Grupo de Câmaras de Direito Público, com competência preferencial para as ações relativas a tributos municipais e execuções fiscais municipais, tributárias ou não, da competência municipal" (nova redação dada pela Resolução n. 471/2008).
+7. Verifica-se que a questão em debate envolve, na realidade, análise de legislação local, o que encontra óbice na Súmula 280 do Supremo Tribunal Federal (Por ofensa a direito local não cabe recurso extraordinário). A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPTU. TERMO INICIAL DO PRAZO PRESCRICIONAL. NOTIFICAÇÃO DO CONTRIBUINTE. ALTERAÇÃO DO MARCO PRESCRICIONAL, POR MEIO DE LEI MUNICIPAL. EXAME DE LEGISLAÇÃO LOCAL, EM SEDE DE RECURSO ESPECIAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+III. Assim, é de se reconhecer que o exame da insurgência recursal demanda, necessariamente, a prévia análise da legislação local, no caso, o Código Tributário Municipal (Lei Complementar Municipal 7/97) e o Decreto Municipal 6.392/2001. Correta, portanto, a aplicação da Súmula 280 do STF, como óbice ao processamento do Recurso Especial.
+(..)
+V. Agravo Regimental improvido (AgRg no AREsp 745.219/RJ, Rel. Min. ASSUSETE MAGALHÃES, DJe 17.11.2015).
+
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. INEXISTÊNCIA DE RELAÇÃO JURÍDICA. IPVA. ALIENAÇÃO DE VEÍCULO. RESPONSABILIDADE PELO PAGAMENTO DO IMPOSTO. INCIDÊNCIA DO ART. 4º DA LEI ESTADUAL 6.606/89. APLICAÇÃO DA SÚMULA 280/STJ.
+1. A Corte local, ao julgar a demanda, utilizou como fundamento o art. 4º da Lei Estadual 6.606/89, o qual impõe responsabilidade solidária pelo pagamento do IPVA ao "proprietário de veículo de qualquer espécie, que o alienar e não comunicar a ocorrência ao órgão público encarregado do registro e licenciamento, inscrição ou matrícula". Portanto, torna-se impossível a reforma do acórdão proferido, em sede de recurso especial, ante o óbice da Súmula 280/STF. Dentre os precedentes: AgRg no AREsp 106.355/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 22/03/2012.
+2. Agravo regimental não provido (AgRg no AREsp. 111.274/SP, Rel. Min. BENEDITO GONÇALVES, DJe 25.9.2012).
+8. Ante o exposto, não se conhece do Agravo em Recurso Especial do MUNICÍPIO DE SÃO PAULO.
+9. Publique-se.
+10. Intimações necessárias.
