@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo apresentado pelo MUNICÍPIO DE CURITIBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+TRIBUTÁRIO APELAÇÃO CÍVEL ISSQN EXECUÇÃO FISCAL EXERCÍCIO DE 2000 PRESCRIÇÃO CONFIGURADA INTERRUPÇÃO DA PRESCRIÇÃO DO CRÉDITO TRIBUTÁRIO SOMENTE COM A CITAÇÃO DO DEVEDOR EXECUÇÃO AJUIZADA ANTES DA LC 118/2005 QUE ALTEROU O ART 174 DO CTN TRANSCURSO DE MAIS DE 10 (DEZ) ANOS SEM A OCORRÊNCIA DE CITAÇÃO DA PARTE DESÍDIA QUE NÃO PODE SER IMPUTADA EXCLUSIVAMENTE AO PODER JUDICIÁRIO INAPLICÁVEL A SÚMULA 106 DO STJ CUSTAS PROCESSUAIS PROCESSAMENTO E JULGAMENTO EM VARA ESTATIZADA QUE NÃO PRESSUPÕE IMPOSSIBILIDADE DE CONDENAÇÃO DA FAZENDA PÚBLICA AO PAGAMENTO DAS MESMAS INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA N 1329914-8/01.
+Alega violação do art. 174 do CTN, no que concerne à necessidade de se afastar a prescrição da pretensão executória tendo em vista a culpa do Judiciário pela paralisação do feito, trazendo o(s) seguinte(s) argumento(s):
+Durante o transcurso do processo, esta Municipalidade se manifestou ativamente, pretendendo fechar o ciclo processual, como se vê do histórico acima. No entanto, para que possa haver tomada de diligencias, é necessário que se faça a carga dos autos à Municipalidade.
+Desta forma, se o feito se estende por um lapso temporal indesejado, não só não é culpa dessa Municipalidade que diligenciou prontamente nos autos, como tal demora também não é desejada pelo ora recorrente (fls. 97).
+É o relatório. Decido.
+O Tribunal de origem assim se manifestou:
+Em 2010, o exequente requereu nova tentativa de citação da parte, via mandado (fl. 25). Sem êxito, os autos permaneceram paralisados até 2016.
+Conforme se pode constatar, a culpa pela demora de mais de 5 (cinco) anos do ajuizamento da ação para a citação da parte, que não ocorreu, não pode ser imputada exclusivamente ao Poder Judiciário, para justificar a aplicação da Súmula 106 do STJ.
+As determinações legais foram cumpridas pelo juízo de origem, não podendo responder sozinho pela demora no andamento do processo.
+ ..
+Em que pese tenha havido demora do Poder Judiciário, deveria o exequente ter tomado providências para que a citação ocorresse dentro do prazo. Veja que o processo permaneceu paralisado por anos, evidenciando o total desinteresse do mesmo no feito (fls. 81)
+Na espécie, verifica-se que a pretensão da parte agravante, de ver reconhecida a violação de dispositivo de lei federal, exige o revolvimento do contexto fático-probatório dos autos, o que inviabiliza o conhecimento do presente apelo ante o óbice da Súmula 7/STJ.
+Consigne-se, ainda, que, quanto à alegação de existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a" e obstaculizada pelo enunciado da Súmula n. 7/STJ, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "Ademais, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso." AgInt no AREsp n. 1.312.148/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/9/2018.
+Confiram-se ainda os seguintes precedentes: AgInt no AgInt no REsp n. 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; AgInt no AREsp n. 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018; AgRg no AREsp n. 695.443/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 25/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
