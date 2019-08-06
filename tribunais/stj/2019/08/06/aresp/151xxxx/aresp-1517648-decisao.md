@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo apresentado pelo ESTADO DE ALAGOAS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim resumido:
+REEXAME NECESSÁRIO. AÇÃO ORDINÁRIA. SERVIDOR PÚBLICO ESTADUAL. ADICIONAL DE INSALUBRIDADE. BASE DE CÁLCULO DO ADICIONAL. SUBSÍDIO DA CATEGORIA. LEGALIDADE. UNIFORMIZAÇÃO DA JURISPRUDÊNCIA DESTE TRIBUNAL DE JUSTIÇA PELO PLENO. INCIDÊNCIA SOBRE O VENCIMENTO E AS VERBAS REFLEXAS. JUROS E CORREÇÃO MONETÁRIA. OBSERVÂNCIA DOS PARÂMETROS ESTABELECIDOS PELA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL, SUPERIOR TRIBUNAL DE JUSTIÇA E DA SEÇÃO ESPECIALIZADA CÍVEL DESTA CORTE.
+Alega violação dos arts. 240 do Código de Processo Civil e 405 do Código Civil, no que concerne ao termo inicial de incidência dos juros de mora, trazendo o seguinte argumento:
+Ora, vê-se dos autos que o objeto da demanda diz respeito à correta base de cálculo do adicional de insalubridade recebido pela parte recorrida. O Estado de Alagoas sempre considerou que a base legal do referido adicional era o menor subsídio pago pelo Estado de Alagoas dentre os servidores do Poder Executivo. Já o acórdão recorrido considerou que a referida base de cálculo é o subsídio mínimo da categoria da parte recorrida.
+Dessa feita, a simples controvérsia que existia a respeito da base de cálculo do adicional já demonstra, de forma inequívoca, a iliquidez da obrigação estatal em tela. Não há dúvidas, pois, que a obrigação reconhecida pelo Tribunal local não gozava de liquidez, impondo-se a aplicação, portanto, do art. 240 do NCPC (fls. 173).
+É o relatório. Decido.
+Na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão, sob o viés dos artigos tidos por violados, não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
