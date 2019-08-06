@@ -1,0 +1,62 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO CPC/73. INSCRIÇÃO NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. VIOLAÇÃO DO ART. 535 DO CPC/73 QUE NÃO SE VERIFICA. PRÉVIA COMUNICAÇÃO COMPROVADA. DANO MORAL. INVERSÃO DO ÔNUS DA PROVA. NECESSIDADE DE REEXAME DOS FATOS DA CAUSA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. ARTS. 7º, 25, § 1º, DA LEI Nº 8.078/90. IMPOSSIBILIDADE. PREQUESTIONAMENTO DA MATÉRIA PELO TRIBUNAL A QUO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DESTA CORTE. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+OSCAR ALVIM DOS SANTOS (OSCAR) promoveu ação condenatória com pedido de tutela liminar contra ASSOCIAÇÃO COMERCIAL DE SÃO PAULO - ACSP (ACSP), que foi julgada improcedente.
+OSCAR apelou. O Tribunal de origem negou provimento ao recurso, em acórdão assim ementado:
+APELAÇÃO. INSCRIÇÃO NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. REJEITADA A PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO. PRÉVIA COMUNICAÇÃO COMPROVADA. VIOLAÇÃO DO ARTIGO 43, § 2º, DO CÓDIGO DE DEFESA DO CONSUMIDOR. INOCORRÊNCIA. DANO MORAL. IMPOSSIBILIDADE.
+Preliminar rejeitada. O recurso de apelação observou os comandos do art. 514, inciso II, do CPC.
+Tendo havido prévia comunicação ao cliente, a respeito de iminente inclusão de seu nome em cadastro de inadimplentes, enviada para endereço previamente indicado pela empresa credora, tem-se que a instituição mantenedora dos cadastros de proteção ao crédito acabou por se eximir de qualquer responsabilidade advinda de uma suposta remessa indevida do nome daquele aos cadastros restritivos de crédito, pelo que não cabe a sua condenação para excluir o nome do autor dos seus cadastros.
+Segundo dispõe a Súmula 385 do STJ, não cabe indenização por dano moral por anotação irregular sem cadastro de proteção ao crédito, quando preexistente legítima inscrição (e-STJ, fl. 128).
+Os embargos de declaração opostos por OSCAR foram acolhidos em parte para sanar a omissão apontada quanto ao pedido de inversão do ônus da prova, sem alterar o mérito do decisum proferido (e-STJ, fls. 141/144).
+Irresignado, OSCAR interpôs recurso especial, com fundamento no art. 105, III, alínea a, da CF, alegando violação dos arts. 535 do CPC, 6º, VI e VIII, 7º, § único, 12, § 3º, 14, § 3º, 17, 25, § 1º, 43, § 2º, da Lei nº 8.078/90, 186 e 927 do CC/2002 e a Súmula nº 359/STJ. Sustentou que (1) o acórdão recorrido foi omisso quanto aos arts. 6º, inciso VI, art. 14, caput e art. 17, do CDC e 186 e 927 do CC/02; (2) que desconhece o débito e que não foi feita a notificação prévia da negativação do seu nome; (3) que o dano moral é presumido; (4) que o fornecedor responde independentemente da existência de culpa; (5) requer a inversão do ônus da prova; e (6) que se houver mais de um autor a ofensa, todos responderão solidariamente pela reparação dos danos previstos nas normas de consumo.
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta não foi apresentada (e-STJ, fl. 173).
+É o relatório.
+DECIDO.
+De plano vale pontuar que a disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+A irresignação não merece prosperar.
+(1) Da alegada violação do art. 535 do CPC/73.
+OSCAR sustentou que o acórdão recorrido foi omisso quanto aos arts. 6º, inciso VI, art. 14, caput e art. 17, do CDC e 186 e 927 do CC/02.
+Não se verifica, no caso, a alegada vulneração do referido dispositivo legal, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+(2), (3) e (4) Da alegada violação dos arts. 6º, VI, 12, § 3º, 14, § 3º, 17, 25, § 1º, 43, § 2º, da Lei nº 8.078/90, 186 e 927 do CC/2002.
+A Corte de origem, ao apreciar a matéria, destacou o seguinte:
+No que diz respeito à notificação, dispõe a mencionada norma consumerista que a "abertura de cadastro, ficha, registro e dados pessoais e de consumo deverá ser comunicada por escrito ao consumidor, quando não solicitado por ele".
+Tal disposição visa dar conhecimento ao consumidor sobre as informações e dados que alguém dispõe sobre sua pessoa e, com isto, possibilitar que o mesmo, inclusive, impeça a inclusão de informações incorretas.
+Neste ponto, pertinente a lição jurisprudencial, quando afirma que "não basta que a anotação seja verdadeira. É preciso comunicá-la ao consumidor, para que ele, ciente da mesma, não passe pela situação vexatória de tomar conhecimento através de terceiro, recusando conceder-lhe, em razão dela, o pretendido crédito" (TJRS. AC 597.118.926, Relator: Desembargador ARAKEN DE ASSIS).
+É exatamente o caso dos autos, pois o apelante aduz que teve seu nome inscrito nos cadastros de inadimplentes sem que houvesse a prévia comunicação exigida, nos termos do parágrafo 2º, do Artigo 43, do CDC.
+Afirma que a omissão da apelada em notificá-lo enseja a sua condenação para proceder à exclusão do seu nome dos cadastros de inadimplentes bem como por danos morais.
+Cumpre-nos verificar, na hipótese dos autos, se houve ou não a notificação pela apelada.
+Infere-se dos documentos de 42/49 que a apelada, enviou notificações à parte apelante, através dos Correios, informando sobre o requerimento de inclusão de seu nome nos órgão de proteção ao crédito.
+No caso em questão, entendo que a apelada cumpriu o determinado pelo parágrafo 2º, do artigo 43, do Código de Defesa do Consumidor, fazendo prova, pelos documentos de fls.42/49, que enviou ao apelante a prévia comunicação da "negativação" de seu nome, razão pela qual não há que se falar em reparação de ordem moral.
+Sustenta ainda o recorrente que "não há inclusão anterior as discutidas nos autos, conforme fl. 14, sendo que todas as demais inclusões são objeto desta lide." (sic), não podendo, portanto, ser aplicado o enunciado da súmula 385 do STJ.
+Todavia, entendo que acertadamente agiu o Magistrado de primeira instância ao ter aplicado a Súmula 385 do STJ, em que dispõe que, não cabe indenização por dano moral por anotação irregular em cadastro de proteção ao crédito, quando preexistente legítima inscrição.
+Isto porque como se infere de fl. 14 o autor possui aproximadamente 05 (cinco) inscrições nos órgãos de proteção ao crédito por dívidas decorrentes de credores diferentes, se mostrando devedor contumaz, até mesmo por sequer ter demonstrado nos autos serem indevidos tais débitos.
+Desse modo, tendo sido providenciada a efetiva comunicação ao apelante, em endereço fornecido pela empresa credora, tem-se que a apelada acabou por se eximir de qualquer responsabilidade pelo descumprimento do § 2º, do Artigo 43, do CDC, pelo que não cabe sua condenação para excluir o nome do autor/apelante dos cadastros de inadimplentes bem como por danos morais (e-STJ, fls. 130/132).
+Dessa forma, para adotar conclusão diversa da que chegou o eg. Tribunal a quo, seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, a teor do que dispõe a Súmula nº 7 desta Corte.
+A propósito, veja-se precedente:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC. ENVIO DA NOTIFICAÇÃO PRÉVIA. REVISÃO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPEDIMENTO DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. O Tribunal de origem, com base nos elementos probatórios dos autos, concluiu que a comunicação a respeito da negativação do nome do recorrente foi enviada previamente e para o endereço fornecido pelo credor. Alterar esse entendimento é inviável em recurso especial, de acordo com a referida súmula.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 787.563/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/11/2015, DJe 26/11/2015)
+(5) Da alegada violação do art. 6º, VIII, do CDC.
+OSCAR sustentou que deve ser invertido o ônus da prova.
+O Tribunal assim se manifestou sobre a questão nos embargos de declaração:
+Assim, entendo deva ser aclarado o acórdão, sem alteração de seu conteúdo decisório, tão somente pra que se faça entender que, no caso em tela, não se vislumbra quaisquer das hipóteses previstas no art. 6º, VIII, do CDC, especificamente, a hipossuficiência técnica da parte Autora, sendo perfeitamente possível resolvê-la sem a necessidade de inversão do ônus da prova (e-STJ, fl. 143)
+Assim, se o Tribunal de origem, soberano na análise das provas, concluiu que na hipótese não se vislumbra a inversão do ônus da prova, não é possível afirmar o contrário, como pretende OSCAR, sem revolver o caderno fático probatório. Incide, portanto, com reação a esse ponto, a Súmula nº 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONSUMIDOR. INVERSÃO DO ÔNUS DA PROVA. SÚMULA 7 DO STJ. HONORÁRIOS PERICIAIS. RESPONSABILIDADE PELO PAGAMENTO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO E DE SIMILITUDE.
+1. No presente caso, o acolhimento da pretensão recursal, no sentido de sustentar a possibilidade de inversão do ônus da prova, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula nº 7/STJ.
+2. Esta Corte Superior tem precedentes no sentido de que, a despeito de cristalizar-se a inversão do ônus da prova, é responsável pelo pagamento dos honorários periciais a parte que os requer. Em síntese, ainda que deferida, a inversão do ônus da prova não tem o condão de obrigar o fornecedor a custear prova requerida pelo consumidor.
+3. Na hipótese em exame, o dissídio jurisprudencial não foi demonstrado, uma vez que a parte recorrente se limitou a citar acórdãos trazidos como paradigmas, sem realizar o necessário cotejo analítico e sem demonstrar a similitude, em desatenção, portanto, ao disposto na legislação processual pátria e no Regimento Interno do Superior Tribunal de Justiça.
+4. Agravo interno não provido.
+(AgInt no REsp 1.473.670/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 11/6/2019, DJe 18/6/2019)
+(6) Da alegada violação dos arts. 7º e 25, § 1º, da Lei nº 8.078/90.
+OSCAR sustentou que se houver mais de um autor a ofensa, todos responderão solidariamente pela reparação dos danos previstos nas normas de consumo.
+Observa-se que a questão tal como posta não foi enfrentada pelo Tribunal de origem, nem mesmo depois da oposição dos embargos de declaração.
+Assim, com base no que dispõe a Súmula nº 211 desta Corte, o recurso especial não poderia ter sido aqui analisado: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+A jurisprudência do STJ firmou o entendimento de que, para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (AgRg no AREsp 621.867/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/3/2015, DJe 27/3/2015).
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
