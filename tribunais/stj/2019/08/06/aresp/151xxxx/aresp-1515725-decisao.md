@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por COOPERATIVA DE CREDITO RURAL GRAPIUNA LIMITADA, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim ementado:
+APELAÇÃO CÍVEL. INDENIZAÇÃO POR DANO MATERIAL. BOA-FÉ. COMPRA E VENDA. AQUISIÇÃO E PERDA DE BEM IMÓVEL POR EVICÇÃO. CONFIGURAÇÃO. BENFEITORIAS. PERDAS E DANOS. LUCROS CESSANTES. RESPONSABILIDADE ESTATAL. NÃO CONFIGURAÇÃO. OBRIGAÇÃO DE INDENIZAR. DANO CONFIGURADO. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+O objeto na presente lide versa sobre a obrigação de indenizar face a perda de imóvel em decorrência de decisão judicial. Imóvel adquirido pelo Autor/Apelado objeto de penhora anterior a venda, em confronto com declaração da Ré/Apelante de que o bem estava livre de qualquer ônus. Evicção configurada.
+É cediço que a evicção é instituto jurídico que consiste na perda sofrida pelo adquirente de coisa que detinha como proprietário ou possuidor, em virtude de sentença judicial que reconhece como de outrem um direito anterior sobre a coisa, de acordo com o que preceitua o art. 447 do Código Civil.
+Neste sentido, a Ré/Apelante responde pela evicção, restando o dever de indenizar a parte autora/apelada, conforme inteligência do art. 449 do CC, visto que confiou e firmou contrato de compra e venda do imóvel amparado na boa -fé e na lealdade, princípios que regem as relações contratuais.
+Descabida, inclusive, a alegação de responsabilidade do Estado, pois não houve contribuição do Oficial do Cartório na perda do imóvel, além de ter recebido a quantia equivalente. Quantum indenizatório em consonância ao ensinamento do art. 450 do CC e aos documentos juntados.
+RECURSO IMPROVIDO.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais teriam sido violados, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "O acórdão recorrido firmou-se tão somente na ausência de preenchimento dos requisitos de admissibilidade necessários à análise do mérito recursal, em virtude  ..  do enunciado n.º 284 do Supremo Tribunal Federal, diante da ausência de indicação dos dispositivos legais sobre o qual recairia a controvérsia" (AgInt no RE nos EDcl no AgRg no AREsp n. 821.471/SP, relatora Ministra Laurita Vaz, Corte Especial, DJe de 15/12/2016).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
