@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo apresentado por ALVINA MOTA CARNEIRO, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE ANULAÇÃO DE CONTRATO. GOLPE DA TROCA DE CARTÕES APÓS A UTILIZAÇÃO DE CAIXA DE AUTOATENDIMENTO. RELAÇÃO DE CONSUMO. RESPONSABILIDADE SOLIDÁRIA. DANO MORAL CONFIGURADO. RECURSO PARCIALMENTE PROVIDO.
+Quanto à controvérsia trazida aos autos, alega violação dos arts. 6º, VI, e 7º do CDC, no que concerne à irrisoriedade do valor arbitrado a título de danos morais, trazendo o(s) seguinte(s) argumento(s):
+O tribunal a quo, julgando parcialmente procedente o recurso de Apelação interposto pela Recorrente, reformou a sentença de folhas 451/457, para condenar os Recorridos ao pagamento de indenização por danos morais no valor irrisório de apenas R$ 5.000,00 (cinco mil reais), a ser rateado igualmente entre as partes (fl. 506).
+A decisão do Tribunal a quo viola manifestamente os artigos 6º, VI, e 7º, parágrafo único, do CDC. Esses dispositivos determinam, respectivamente, que é direito BÁSICO do consumidor "a efetiva prevenção e reparação de danos patrimoniais e morais, individuais, coletivos e difusos" e que "tendo mais de um autor a ofensa, todos responderão solidariamente pela reparação dos danos previstos nas normas de consumo" (fl. 507).
+Ocorre que o valor da indenização a que foram condenados os Recorridos não é suficiente para reparar o patrimônio moral da Recorrente e é irrisório pelas razões seguintes:
+PRIMEIRO. A Recorrente foi vítima dos comportamentos de todos os Réus originais desta ação - BANCO DO BRASIL S/A; G BARBOSA (CENCOSUD BRASIL COMERCIAL LTDA.); e TECNOLOGIA BANCÁRIA S/A (fl. 507).
+O BANCO DO BRASIL S/A, consciente de que seu comportamento e o de seus parceiros, G BARBOSA (CENCOSUD BRASIL COMERCIAL LTDA.) e TECNOLOGIA BANCÁRIA S/A, causou danos à Recorrente, no termo de acordo de fls. 438/439:
+1 - Indenizou a Recorrente, em relação unicamente à parcela dele de responsabilidade, com o valor de R$ 15.000,00 (quinze mil reais), além de ter providenciado a anulação dos contratos também objetos deste feito; e
+2 - Aquiesceu com o prosseguimento deste feito em relação ao G BARBOSA (CENCOSUD BRASIL COMERCIAL LTDA.) e à TECNOLOGIA BANCÁRIA S/A (fl. 507).
+O BANCO DO BRASIL S/A, nos termos da sentença homologatória de acordo (fl. 440) foi excluído do polo passivo desta demanda, a qual prosseguiu em face dos Recorridos (fl. 507).
+ ..
+Enquanto isso, os Recorridos, avessos às tentativas de conciliação, sendo tão responsáveis quanto o BANCO DO BRASIL S/A pelos danos provocados à Recorrente, foram condenados ao pagamento rateado de indenização no valor irrisório de R$ 5.000,00 (cinco mil reais) (fl. 508).
+É o relatório. Decido.
+Quanto à presente controvérsia, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte" (AgInt no AREsp 1.214.839/SC, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 08/03/2019).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.269.094/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 01/03/2019; AgInt no AREsp 1.386.578/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 13/03/2019; e AgInt no REsp 1.761.700/RO, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 26/02/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
