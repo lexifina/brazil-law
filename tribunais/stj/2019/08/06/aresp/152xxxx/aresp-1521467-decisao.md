@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] REIS TOSSANI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+ACIDENTE DO TRABALHO - CUMPRIMENTO PROVISÓRIO DE SENTENÇA - EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO NOS TERMOS DO ART 485 VI DO NCPC - INTERESSE PROCESSUAL DEMONSTRADO - ANULAÇÃO DA SENTENÇA - NECESSIDADE - APRECIAÇÃO DA DEMANDA PELO TRIBUNAL - POSSIBILIDADE - CAUSA MADURA PARA JULGAMENTO - EXECUÇÃO DOS VALORES EM ATRASO - EXISTÊNCIA DE RECURSO ESPECIAL INTERPOSTO PELO DEVEDOR PENDENTE DE JULGAMENTO - INADMISSIBILIDADE - AUSÊNCIA DE TÍTULO JUDICIAL TRANSITADO EM JULGADO - INTELIGÊNCIA DO ART 100 §§ Iº E 5º DA CONSTITUIÇÃO FEDERAL NA REDAÇÃO DADA PELA EC Nº 62/09 - IMPLANTAÇÃO ADMINISTRATIVA DO BENEFICIO - POSSIBILIDADE - MATÉRIA INCONTROVERSA - RECURSO PROVIDO EM PARTE
+Quanto à primeira controvérsia, alega violação do art. 1.022 do CPC, no que concerne às obscuridades e contradições apontadas no venerando acórdão recorrido.
+Quanto à segunda controvérsia, alega violação dos arts. 520, 535, § 4º, e 995, do CPC, no que concerne à execução provisória dos valores atrasados.
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais os incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Quanto à segunda controvérsia, na espécie, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Nesse sentido: "É inviável, em recurso especial, a revisão de julgado que possui fundamentação exclusivamente constitucional para declarar devida a paridade de remuneração entre trabalhadores ativos e inativos, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgInt no REsp n. 1.744.165/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019).
+Confiram-se ainda os seguintes precedentes: REsp n. 1.757.744/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/2/2019; e AgInt no REsp n. 1.503.220/SC, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 5/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
