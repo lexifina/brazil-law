@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas a e c, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. INOCORRÊNCIA. PRESUNÇÃO DE BOA-FÉ AFASTADA.
+1. Na alienação de veículos, a propriedade se transfere pela simples tradição, e a formalização do negócio de compra e venda requer a apresentação de documento fornecido pelo DETRAN, que indica a eventual existência de ônus ou restrições pendentes sobre o bem.
+2. Se não constar qualquer restrição no registro do veículo no DETRAN, presume-se a boa-fé do terceiro adquirente.
+3. No caso dos autos, há elementos a afastar a presunção de boa-fé do terceiro adquirente, de modo que dever ser mantida a sentença que julgou improcedentes os embargos de terceiro e reconheceu a ocorrência de fraude.
+4. Apelação desprovida.
+Quanto à primeira controvérsia, pela alínea a do permissivo constitucional, alega violação dos arts. 674 e 676 do CPC, no que concerne à comprovação de boa-fé do recorrente na aquisição do veículo e na inocorrência de fraude à execução, trazendo o(s) seguinte(s) argumento(s):
+Note-se que a posse e o domínio do bem restaram definitivamente comprovadas, inclusive pela Certidão do Sr. Oficial de Justiça, restando pois perfectibilizado o negócio jurídico entre as partes e a tradição do bem em favor do embargante.
+ ..
+Dessa forma, importante salientar que a motocicleta em questão foi adquirida pelo embargante em 04/10/2016, conforme consta do Documento Único de Transferência (DUT); sendo que o mandado da penhora restou cumprido somente em 24/08/2017, ou seja, cerca de 01 (um) ano após a aquisição pelo embargante.
+Assim, tem-se que, inobstante a ausência de transferência do veículo, resta evidente a boa- fé do terceiro adquirente. (fls. 101).
+Quanto à segunda controvérsia, o recurso especial foi interposto pela alínea c do permissivo constitucional.
+É o relatório. Decido.
+Quanto à primeira controvérsia, o acórdão recorrido assim decidiu:
+No caso dos autos, contudo, verifico a existência de elementos a afastar a presunção de boa-fé do terceiro adquirente.
+A um, aponto que, conforme registrado na sentença atacada, causa, de fato, estranheza o recebimento, pelo ora embargante, do AR de notificação administrativa dirigido ao executado, cerca de um ano antes da aquisição do veículo. Ainda que levantado pela apelante que tal circunstância se deve ao fato de o embargante ser porteiro/zelador do prédio para onde foi endereçada a notificação, impende reconhecer a existência de indícios de que o embargante tinha conhecimento da existência da dívida fiscal em face do embargante, seja porque recebeu, ele próprio, a notificação, seja porque, diante do cargo que exercia, é de se presumir que tinha relação prévia com o executado.
+No ponto, registro ainda que o fato de executado e embargante serem representados pelo mesmo patrono denota, também, a existência de interesses comuns e a existência de relação entre eles que desborda do negócio alegadamente realizado.
+A dois, registro que, na inicial dos embargos à execução, verifico que, em relação à motocicleta em questão, o executado se limita a alegar o excesso de penhora, eis que a motocicleta foi avaliada em valor superior ao débito, colacionando, inclusive, documento que indica sua propriedade (evento 1 - OUT5 da EF). Não há sequer menção à alienação do bem, o que, ainda que não consisistisse em objeto específico dos embargos à execução, seria esperado diante da alienação alegadamente ocorrida mais de um ano antes da oposição dos referidos embargos.
+Assim, asfatada a presunção de boa-fé do terceiro adquirente, é de ser mantida a sentença de improcedência dos embargos (fls. 84/85).
+Tal o contexto, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Quanto à segunda controvérsia, na espécie, não foi comprovada a divergência jurisprudencial, uma vez que não cumpridos os requisitos legais dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nesse sentido, os seguintes julgados: AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018; AgInt no REsp 1.696.707/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 12/3/2018; e AgRg no REsp 1.683.470/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 31/10/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
