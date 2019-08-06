@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interno interposto pela Fazenda Nacional contra decisão em que, com base em entendimento jurisprudencial, deu provimento ao recurso especial de AMAURI CESAR FERREIRA DA SILVA, a fim de reconhecer sua legitimidade ativa para promover a execução do título judicial coletivo.
+A parte agravante alega, em síntese, não ser cabível o julgamento monocrático do recurso especial, pois há julgado da Segunda Turma do Superior Tribunal de Justiça em sentido contrário à decisão ora agravada, não se enquadrando, assim, nas hipóteses previstas no art. 932, inciso IV, do CPC/2015.
+Alega que entidade associativa de que trata o art. 2º-A da Lei n. 9.494/1997 constitui gênero da qual o sindicato é espécie e, por essa razão, entende que a limitação territorial, temporal e subjetiva aos efeitos da sentença coletiva prevista nesse dispositivo legal é aplicável ao caso dos autos.
+Além disso, alega que o acórdão regional recorrido ajusta-se perfeitamente ao entendimento da Segunda Turma do STJ proferido no julgamento do REsp n. 1.737.200/PR.
+Não foram apresentadas contrarrazões ao agravo interno.
+Passo a decidir.
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser reconsiderada, pois o recurso especial não deveria ter sido conhecido.
+O Tribunal de origem entendeu que os efeitos da sentença coletiva devem ser restringidos à base territorial do sindicato em razão do princípio constitucional da unicidade sindical, conforme é possível observar do trecho extraído do acórdão regional recorrido (e-STJ fls. 164/165):
+Como visto, cabe aos sindicatos a representação da categoria dentro da sua base territorial. Essa limitação decorre do princípio constitucional da unicidade sindical (artigo 8º, inciso II, da CF/88), e tem por finalidade impedir que mais de um sindicato represente o mesmo grupo profissional.
+Diante deste contexto, a sentença proferida em ação coletiva interposta por sindicato somente surte efeito nos limites da competência territorial do órgão que a proferiu e exclusivamente em relação aos substituídos processuais que ali eram domiciliados à época da propositura da demanda.
+A propósito, julgados do Superior Tribunal de Justiça e deste Tribunal:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TERMO DE AJUSTAMENTO DE CONDUTA FIRMADO ENTRE O MPF E A FUNAI. DEMARCAÇÃO DE TERRAS OCUPADAS PELOS ÍNDIOS NA REGIÃO CENTRO-SUL DO ESTADO DE MATO GROSSO DO SUL. FEDERAÇÃO SINDICAL DE PRODUTORES RURAIS. ILEGITIMIDADE ATIVA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. É assente o entendimento no STJ de que cabe aos sindicatos a representação da categoria dentro da sua base territorial e às federações legitimidade apenas subsidiária, na ausência do sindicato representativo da categoria, caso em que se lhes garantirá alguma forma de proteção associativa.(..) 4. Agravo Interno não provido. (Aglnt no REsp 1587351/MS, Rei. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/02/2017, DJe 03/03/2017)
+ ..
+No presente caso, não há prova nos autos de que o apelante se encontra entre os beneficiados da sentença proferida na ação coletiva, porquanto não demonstrada a condição de bancário do estado da Bahia à época.
+Ocorre que, como é de conhecimento geral, o recurso especial não se presta para revisão de julgado respaldado em fundamentação de índole constitucional.
+Por força do art. 85, § 11, do CPC/2015, a verba honorária de sucumbência arbitrada no acórdão em R$ 800,00 (oitocentos reais) (e-STJ fl. 165) há de ser majorada em 10% (dez por cento), respeitados os limites e os critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ante o exposto, RECONSIDERO a decisão agravada e, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Majoro a verba honorária de sucumbência em 10% (dez por cento) sobre o valor arbitrado no acórdão, respeitados os limites e os critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Publique-se. Intimem-se.
