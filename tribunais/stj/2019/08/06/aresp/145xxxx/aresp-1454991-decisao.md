@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de Sergipe.
+Sustenta a defesa, nas razões do recurso especial, violação dos artigos 59 e 68 do Código Penal.
+Alega fundamentação inidônea na majoração da pena-base.
+Nos quesitos conduta social e consequências do crime, aduz que as instâncias ordinárias utilizaram argumentos com fundamento em elementos ínsitos ao tipo penal e nas consequências naturais do crime.
+Por tais razões, requer sejam decotadas da reprimenda básica as circunstâncias judiciais conduta social e consequências do delito.
+Apresentadas as contrarrazões (e-STJ, fls. 1088-1098), o recurso foi inadmitido com fundamento na Súmula 83 do STJ (e-STJ, fls. 1115-1118). Daí este agravo (e-STJ, fls. 1123-1140).
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ, fls. 1167-1172).
+É o relatório.
+Decido.
+O Tribunal a quo manteve a majoração da pena-base com a seguinte fundamentação:
+"Isto posto, passemos à análise individual das irresignações do recorrente acerca da aplicação da pena estabelecida pelo magistrado sentenciante.
+No tocante à análise da primeira fase dosimétrica, entendo assistir razão em parte ao recorrente. Vejamos.
+Analisando as circunstâncias judiciais consideradas desfavoráveis ao réu na sentença combatida, o juízo de 1º grau ao analisá-las, valorou negativamente os antecedentes criminais, a conduta social e as consequências do delito, fixando a , como se vê do dispositivo acima pena-base em 18 (dezoito) anos de reclusão colacionado.
+Vê-se que em relação aos antecedentes criminais, o juízo sentenciante, registra a existência de três ações penais com trânsito em julgado em desfavor do réu, valorando negativamente e de forma correta, tal circunstância ao acusado, deixando uma das ações penais para o reconhecimento da agravante da reincidência.
+Assim, mantenho negativado os antecedentes criminais do réu. Com relação à conduta social, o magistrado sentenciante considerou como negativa, sob o fundamento de que existem inúmeros testemunhos de que o acusado sempre agredia a sua companheira, vítima no presente caso.
+É sabido que a conduta social se refere ao comportamento do réu no seio social, familiar e profissional, integração comunitária, dentre outras.
+No presente caso, como bem pontuou o magistrado sentenciante, existem inúmeros testemunhos nos autos de que o réu possui temperamento agressivo, e constantemente agredia a sua companheira, não só física como psicologicamente.
+Tal circunstância, ao contrário do que afirma a Defesa, não revela a existência de inquérito policial ou mesmo de ação penal de que deveria o réu se defender, estando a ferir o princípio do contraditório.
+O comportamento do réu em relação a sua companheira, a quem veio posteriormente a ceifar a vida, revela a sua má conduta no seio familiar. Aliás, tratava-se de uma entidade familiar formada pelo Apelante e a sua companheira, e as informações trazidas nos autos de que o réu se tratava de pessoa agressiva e constantemente a agredia, inclusive psicologicamente, autoriza o reconhecimento desfavorável da conduta social.
+Assim, mantenho como negativa a conduta social.
+No que tange às consequências do crime, o réu teve aplicada em seu desfavor, pois, "a vítima ajudava no sustento e tratamento da sua genitora, que era portadora de epilepsia".
+Conforme ensinamentos de Guilherme de Souza Nucci (Individualização da pena. 7. ed. Rio de Janeiro: Forense, 2015. p. 189):
+O mal causado pelo crime, que transcende o resultado típico, é a consequência a ser considerada para a fixação da pena. É lógico que num homicídio, por exemplo, a consequência natural é a morte de alguém e, em decorrência disso, uma pessoa pode ficar viúva ou órfã.
+No caso dos autos, o magistrado não fundamentou as consequências extrapenais no fato de a genitora ter perdido a sua filha, mas as consequências que, além da dor da perda, veio a decorrer da morte.
+Nessa esfera, a genitora da vítima é portadora de epilepsia e a vítima auxiliava em seu sustento e em seu tratamento. É evidente, pois, que as consequências para aquela vão além da já dolorosa perda da filha pelo evento morte, esta sim, que por si só, integra o próprio tipo penal.
+Assim, mantenho as consequências do crime como negativas. No tocante às demais circunstâncias judiciais, manifesto-me, também, em consonância com análise feita pelo magistrado de 1º grau, não vendo necessidade para alteração das mesmas, uma vez que estas se encontram devidamente fundamentadas, como se vê na dosimetria acima colacionada.
+Assim, mantenho a pena base arbitrada para o réu em 18 (dezoito) anos" (e-STJ, fls. 1062-1064).
+Como é cediço, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Quanto à conduta social, para fins do art. 59 do CP, esta corresponde ao comportamento do réu no seu ambiente familiar e em sociedade, de modo que a sua valoração negativa exige concreta demonstração de desvio de natureza comportamental. No caso, conforme registrado pelo Tribunal a quo, "o réu possui temperamento agressivo, e constantemente agredia a sua companheira, não só física como psicologicamente" (e-STJ, fl. 1063). Dessa forma, devidamente fundamentada o incremento da pena neste quesito.
+Em relação às consequências do crime, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal. As instâncias ordinárias apresentaram argumentos concretos capazes de serem computados em desfavor do agravante, porquanto a genitora da vítima é portadora de epilepsia, doença grave, e dependia economicamente da filha, que auxiliava em seu tratamento. Portanto, as consequências extrapolaram os elementos ínsitos ao tipo penal.
+Ademais, considerando os limites máximo e mínimo previstos no preceito secundário do tipo do artigo 121, § 2º, VI, (feminicídio, mínimo de 12 anos e máximo de 30 anos), o aumento da pena-base em 6 (seis) anos em razão de 3 (três) circunstâncias judiciais devidamente fundamentadas não se revela desproporcional ou excessivo, pelo contrário, o juiz foi benevolente, porquanto é inferior ao critério de 1/8, que, no caso, seria de 6 (seis) anos e 9 (nove) meses.
+Assim, por estar devidamente fundamentada, mantém-se a majoração da pena-base.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
