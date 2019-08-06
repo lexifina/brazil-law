@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea a, da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO DE PRESTAÇÃO DE CONTAS. Sentença extinguiu o processo, sem resolução de mérito, ante a falta de interesse processual.
+Apela a autora, alegando que objetiva tomar conhecimento da administração do patrimônio imobiliário, bem como das contas da empresa que o de cujus era sócio majoritário; há indícios de movimentação financeira irregular; é legitimada à propositura da ação na condição de herdeira
+Cabimento. Para conhecer a forma de administração do patrimônio que já é seu em parte, na condição de herdeira, é legitimada a propositura de prestação de contas, sendo meio necessário, útil e adequado para deduzir sua pretensão, não se verificando prejuízo algum à inventariante.
+Recurso provido.
+Alega a recorrente, pela alínea a do permissivo constitucional, violação dos arts. 6º, 8º, 188 e 330, III, do CPC, aduzindo a falta de interesse processual da recorrida para a ação de prestação de contas, trazendo os seguintes argumentos:
+Em que pese as alegações da parte Recorrida em relação ao interesse na prestação de contas, alegações de dilapidação, má - administração e dentre outras, denota-se que ao ajuizamento desta e das demais apensas aos autos de Inventário foram formuladas com vistas à irresignação da Recorrida pelo fato de não ter sido nomeada a inventariante.
+Traz-se aos autos a presente informação, pois conforme amplamente enfrentado pelo juízo de primeiro grau, não há interesse processual à parte autora que possui em mãos todas as informações sobre os bens, sua administração, balaços contábeis e etc, bem como a possibilidade de perquirir o pedido de prestação de contas diretamente de forma administrativa ou mesmo diretamente junto aos autos de Inventário. O que não se observou até o momento (fl. 146).
+Já aos herdeiros, ainda que estejam investidos em direitos e interesses patrimoniais sobre o acervo em sucessão, não se pode atribuir legitimidade e interesse para, durante a tramitação do inventário e enquanto este não for encerrado, agir isoladamente no sentido de exigir contas do inventariante.
+Ora veja, caso haja o interesse na prestação, deveria a Recorrida dirigir-se ao juiz presidente do inventário, para que este determine ao inventariante a prestação dos esclarecimentos pleiteados. Todavia não se observa qualquer diligência neste sentido.
+A inventariante, ora Recorrente, pretende a prestação de contas das empresas, dos bens e toda a administração do Espólio perante os autos de Inventário, em momento oportuno e em observância à legislação vigente.
+O acolhimento dos pedidos da Recorrida faz com que o Acórdão prolatado viole ainda os PRINCÍPIOS da CELERIDADE, INSTRUMENTALIDADE DO PROCESSO e COOPERAÇÃO tão bem consagrados nos artigos. 6º, 8º, 188 do Código de Processo Civil (fl. 148).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
