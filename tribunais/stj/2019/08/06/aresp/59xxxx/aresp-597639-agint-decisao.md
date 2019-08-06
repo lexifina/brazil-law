@@ -1,0 +1,5 @@
+DECISÃO
+À e-STJ fl. 261, os advogados dos agravantes pleiteiam a reconsideração "do indeferimento do informe de renúncia, pois os avisos de recebimento foram endereçados ao local de residência dos constituintes e devidamente recebidos por residentes, não sendo possível alegarem ignorância e caso tenham mudado descumpriram o dever de informe de dados atuais". Ainda, "subsidiariamente, não restando outra forma de comunicação, requer-se a continuidade do processo em seus termos regulares".
+Conforme explicitado no despacho de e-STJ fl. 256, não há comprovação de que os agravantes tenham sido notificados da renúncia, constando apenas um AR enviado a EDUARDO CREPALDI, sem qualquer notícia de renúncia. Ainda, não consta qualquer documento relacionado ao agravante OALACE BUSCARIOLO DA SILVA, sendo certo que não remanesce nos autos outro advogado regularmente constituído.
+Assim, INDEFIRO o pedido de reconsideração, destacando que os advogados continuam representando os agravantes nos presentes autos.
+Intimem-se. Publique-se.
