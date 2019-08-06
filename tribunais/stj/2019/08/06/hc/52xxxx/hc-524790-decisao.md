@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARCIO DE MORAES contra decisão de Desembargador integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO que indeferiu a liminar no HC n. 1011049-77.2019.8.11.0000.
+Nesta via, o impetrante alega a ocorrência de constrangimento ilegal capaz de superar o óbice do enunciado da Súmula 691/STF, diante da ausência de fundamentação da decisão que indeferiu a medida liminar.
+Assevera a desproporcionalidade da custódia preventiva, visto que em caso de eventual condenação, será fixado o regime inicial semiaberto.
+Sustenta que há excesso de prazo na manutenção da prisão cautelar, aduzindo que o feito não apresenta complexidade, sendo cabível a cassação do decreto prisional.
+Requer a concessão sumária e definitiva da ordem constitucional pra que seja revogada a prisão preventiva, expedindo-se alvará de soltura em favor do paciente ou, subsidiariamente, que seja determinado ao Tribunal de origem o julgamento do writ lá impetrado.
+É o relatório.
+Esta Corte Superior, nos termos da Súmula 691 do Supremo Tribunal Federal, pacificou orientação no sentido de que "não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância" (AgRg no HC 252.412/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 9-10-2012, DJe 17-10-2012), destacando que "O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha que não escapa à pronta percepção do julgador" (AgRg no HC 300.610/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4-9-2014, DJe 15-9-2014).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (fls. 18/19):
+O constrangimento ilegal decorrente de excesso de prazo caracteriza-se na hipótese de dilação não justificável, cuja análise deve ser reservada ao colegiado após a audição do juiz da causa e intervenção do órgão do Ministério Público, na função de (TJMT, HC nº 95334/2014 custos legis - Terceira Câmara Criminal - 4.8.2014).
+Em seu turno, o princípio da homogeneidade não se mostra aplicável, liminarmente, quando satisfatoriamente atendidos os requisitos autorizadores do decreto preventivo, se (HC nº 87895/2015 - Relator: Des. Rondon Bassil mostrando indispensável a constrição cautelar  .. " Dower Filho - Primeira Câmara Criminal - 28.7.2015).
+Ademais, somente com a valoração das circunstâncias judiciais e aferição da gravidade concreta do crime, se houver condenação, o juiz poderá, com racionalidade, estabelecer o regime inicial, segundo jurisprudência interativa do c. STJ: AgRg no REsp 1551168/AL - Relator: Min. Rogerio Schietti Cruz - 23.2.2016; HC 319962/SP - Relatora: Min. Maria Thereza de Assis; RHC 67470/TO - Relator - Min. Ribeiro Dantas - 17.3.2016.
+Com essas considerações, indefere-se o pedido liminar.
+Outrossim, requisitem-se informações ao Juízo singular sobre esta impetração, no prazo de até 5 (cinco) dias.
+Após, vista à i. PGJ.
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária, para manter, ao menos por ora, a segregação cautelar do paciente.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
