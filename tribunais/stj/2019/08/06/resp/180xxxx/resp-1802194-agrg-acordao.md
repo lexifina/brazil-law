@@ -1,0 +1,50 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE ENTORPECENTES. PLEITO DE REDUÇÃO DA PENA PECUNIÁRIA. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Para desconstituir os fundamentos utilizados no acórdão recorrido para a fixação da prestação pecuniária e concluir pela sua desproporcionalidade em relação à situação econômico-financeira do recorrente, seria necessária a incursão no conjunto fático-probatório dos autos, inviável nesta instância extraordinária de acordo com o disposto na Súmula n. 7/STJ.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SENHOR MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Cuida-se de agravo regimental interposto por [NOME] contra a decisão de e-STJ fls. 429/437, que deu parcial provimento ao recurso especial proposto por ele para condicionar a execução das penas restritivas de direitos ao trânsito em julgado da condenação.
+Está contido nos autos que o ora agravante foi condenado a 1 ano, 11 meses e 10 dias de reclusão, em regime aberto, e 194 dias-multa - substituída a pena corporal por prestação pecuniária de R$ 7.000,00 (sete mil reais) e por serviços à comunidade - em decorrência da prática de tráfico interestadual de drogas, caracterizado pela apreensão de 9,510kg (nove quilos e quinhentos e dez gramas) de maconha.
+Irresignada, a defesa interpôs recurso de apelação, ao qual o Tribunal de origem deu parcial provimento apenas para fixar a sanção-base no mínimo legal, como se vê dos termos desta ementa (e-STJ fls. 303/304):
+PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. ART. 33, CAPUT, DA LEI 11.343/06. DOSIMETRIA DA PENA. NATUREZA E QUANTIDADE DA DROGA. CIRCUNSTÂNCIAS DO CRIME. VETORIAL TORNADA NEUTRA. MAJORANTE PREVISTA NO ART. 40, I, LEI 11.343/06. BIS IN IDEM. INEXISTÊNCIA. DIAS-MULTA. VALOR UNITÁRIO. PRESTAÇÃO PECUNIÁRIA. ALEGAÇÃO DE INSUFICIÊNCIA FINANCEIRA. MANUTENÇÃO DO VALOR ARBITRADO EM SENTENÇA. POSTERIOR PARCELAMENTO JUNTO AO JUÍZO DA EXECUÇÃO PENAL. POSSIBILIDADE. CONCESSÃO DE AJG. EXECUÇÃO PROVISÓRIA DA PENA.
+1. Hipótese em que a quantidade e a natureza da droga apreendida (9,5 quilos de maconha) não constituem um maior risco de lesão à saúde pública, se comparadas às frequentes apreensões na região de grandes quantidades de entorpecentes com maior potencial deletério, afastando-se, de ofício, a negativação do vetor circunstâncias do crime, de modo a reduzir a pena-base para o mínimo legal.
+2. Consoante o caput do art. 40, a causa de aumento questionada deve incidir nos crimes inscritos nos arts. 33 a 37 da Lei 11.343/06, sem qualquer exceção, inclusive, por óbvio, no tráfico de drogas na modalidade de importar, já tendo este Tribunal uniformizado entendimento de que não há dupla punição.
+3. Não trazendo a defesa nenhuma prova que desconstitua a situação econômica do réu tal como avaliada na sentença, deve ser mantido o valor unitário da multa em 1/20 (um vinte avos) do salário mínimo vigente ao tempo do fato.
+4. Cumpre ressalvar apenas a possibilidade de parcelamento, em sede de execução, na forma do art. 50, segunda parte, do Código Penal e art. 687, II e § 2º, do Código de Processo Penal, uma vez demonstrada a impossibilidade do cumprimento integral.
+5. A pena substitutiva de prestação pecuniária, resguardado o seu caráter reparatório, não se desvincula dos princípios gerais da individualização das penas. Dessa forma, a fixação desta restritiva deve levar em conta as vetoriais do artigo 59 do Código Penal, a extensão do dano ocasionado pelo delito, a situação financeira do agente e a necessária correspondência com a pena substituída.
+6. Hipótese em que, ausente qualquer destaque acerca das circunstâncias judiciais do art. 59, bem como quanto à extensão do dano à saúde pública, e considerando, por outro lado, a ausência de informações quanto à hipossuficiência econômica do acusado, deve ser mantido o arbitramento da prestação pecuniária em R$7.000,00 (sete mil reais), por não se revelar excessivamente gravoso.
+7. Ademais, também a natureza da infração e a fixação da pena substituída em 1 (um) ano e 11 (onze) meses permitem concluir pela razoabilidade da prestação pecuniária arbitrada, revelando-se necessária e adequada à reprovação e prevenção do crime em análise. 8. Possibilidade de posterior parcelamento junto ao Juízo da Execução Penal, caso comprovada a insuficiência financeira para adimplemento do montante fixado.
+9. Eventual exame acerca da miserabilidade para fins de isenção das custas processuais, bem como para concessão da assistência judiciária gratuita, deverá ser feito em sede de execução, fase adequada para aferir a real situação financeira do condenado (precedentes desta Corte).
+10. Execução provisória da pena autorizada, conforme entendimento firmado pelo STF (HC 126.292). Súmula 122 TRF4.
+Daí o recurso especial, no qual a defesa alegou, além da existência de dissídio jurisprudencial, contrariedade ao disposto no art. 45, § 1º, do Código Penal e também no art. 147 da Lei n. 7.210/1984.
+Aduziu, em síntese, que "a pena de prestação pecuniária  deve  ser reduzida a patamar que possibilite o adimplemento pelo apenado, com fundamento no requisito da proporcionalidade da pena, além de respeitar as regras estabelecidas no art. 45, § 1º, do CP e a sua natureza indenizatória" (e-STJ fl. 317).
+Afirmou, ademais, que "o entendimento da Corte Regional, quanto ao imediato início de cumprimento das restritivas de direito, vai de encontro ao entendimento da douta Quinta Turma do STJ, segundo o qual a execução das penas restritivas de direitos antes do trânsito em julgado da condenação não é possível, por força do art. 147 da LEP" (e-STJ fl. 325).
+Esta relatoria superou o pleito de redução da pena de prestação pecuniária porque, para desconstituir os fundamentos utilizados no acórdão recorrido para fixá-la e concluir pela sua desproporcionalidade em relação à situação econômico-financeira do recorrente, seria necessária a incursão no conjunto fático-probatório dos autos, inviável nesta instância extraordinária de acordo com o disposto na Súmula n. 7/STJ.
+No mais, o recurso especial foi provido para adequar o acórdão estadual à orientação firmada pela Terceira Seção do Superior Tribunal de Justiça, no julgamento do EREsp n. 1.619.087/SC, de que a execução das reprimendas restritivas de direitos somente poderia ocorrer quando transitada em julgado a condenação.
+Nas razões do presente agravo regimental, a defesa aduz ser "insustentável o entendimento do eminente Ministro relator de que haveria necessidade de revolvimento dos elementos fáticos-probatórios dos autos para reconhecer a evidente desproporcionalidade do valor da pena pecuniária com a situação socioeconômica de Guilherme constada no acórdão impugnado " (e-STJ fl. 447).
+Ressalta, ainda, que "o arbitramento da pena pecuniária não guardou correspondência com a capacidade socioeconômica do apenado, que sequer teve condições econômicas de contratar um advogado" (e-STJ fl. 448).
+Insiste, assim, pela readequação do valor da pena pecuniária.
+Ao final, requer a reconsideração do decisum agravado ou a apreciação e provimento do agravo regimental pelo colegiado da Sexta Turma.
+É o relatório.
+VOTO
+O EXMO. SENHOR MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não logra.
+Tal como referido, o acolhimento da alegada desproporcionalidade do montante da pena pecuniária com as condições financeiras do agravante demandaria, sem sombra de dúvida, novo esmerilamento fático, não sendo suficiente à solução da demanda a mera leitura do acórdão recorrido, o que esbarra no óbice previsto no enunciado 7 da Súmula desta Corte.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO (ART. 14 DA LEI N. 10.826/2003). PENA SUBSTITUTIVA. ADEQUAÇÃO E SUFICIÊNCIA À FINALIDADE REPARADORA DA SANÇÃO PENAL. PRESTAÇÃO DE SERVIÇO À COMUNIDADE. DESPROPORCIONALIDADE. VERIFICAÇÃO INVIÁVEL POR AUSÊNCIA DE CRITÉRIOS OBJETIVOS. PRESTAÇÃO PECUNIÁRIA. CAPACIDADE ECONÔMICA DO APENADO. VERIFICAÇÃO. NÃO POSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. O exame sobre a capacidade econômica do réu, para fins de diminuição do valor estipulado da prestação pecuniária (dois salários mínimo divididos em até seis vezes) seria inviável, no âmbito do recurso especial, pelo disposto na Súmula n. 7 do STJ.
+4. Agravo regimental não provido. (AgRg no AREsp 1237666/GO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/05/2019, DJe 06/06/2019, grifei)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME AMBIENTAL. ART. 40 DA LEI 9.605/98. VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO CONCRETA. QUANTUM DE AUMENTO DA PENA-BASE PROPORCIONAL. CONFISSÃO ESPONTÂNEA. QUANTUM DE REDUÇÃO DA PENA DEVIDAMENTE FUNDAMENTADO. DESPROPORCIONALIDADE DA PRESTAÇÃO PECUNIÁRIA. VALOR FIXADO COM BASE NA CAPACIDADE ECONÔMICA DOS RÉUS. PLEITO DE REDUÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+ ..
+6. Fixado o valor da prestação pecuniária com base na condição econômica dos réus, rever as conclusões das instâncias ordinárias sobre a matéria demandaria necessariamente nova análise do material fático-probatório dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 desta Corte.
+ ..
+8. Agravo regimental desprovido. (AgRg no AREsp 760.286/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 06/06/2019, DJe 11/06/2019, grifei)
+Portanto, à míngua de argumentos robustos o bastante para o fim de desconstituir a decisão agravada, deve ser mantida pelos seus próprios termos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
