@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de agravo interposto por CENTRALMAX VIGILÂNCIA E SEGURANÇA PRIVADA LTDA, contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial interposto pela recorrente, com base nos seguintes fundamentos: i) ausência de violação do art. 1022, II, do CPC; ii) não demostração da violação dos arts. 389, 390, 391, 392, 393, 395 e 429 do CPC/73 pelo Tribunal de origem; iii) aplicação da Súmula 7/STJ, quanto à matéria apreciada pelo Tribunal de origem; e iv) não demonstração do dissídio nos termos do art. 1029, §1º, do CPC.
+Da leitura do agravo em recurso especial, observa-se que, acerca dos fundamentos relativos à ausência de violação do art. 1022 do CPC; à ausência de demonstração da violação dos arts. 389, 390, 391, 392, 393, 395 e 429 do CPC/73 pelo Tribunal de origem; e à aplicação da Súmula 7/STJ, a recorrente limita-se a reprisar as razões deduzidas no recurso especial, as quais não se prestam para impugnar os referidos óbices.
+Quanto ao óbice relativo à ausência de demonstração do dissídio nos termos do art. 1029, §1º, do CPC, não houve qualquer manifestação da recorrente a respeito do referido empeço.
+Desse modo, não havendo a impugnação consistente de todos os fundamentos da decisão recorrida, aplicável se torna a Súmula 182 desta Corte.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ .
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados em R$ 500,00 (quinhentos reais) devidos pelo agravante.
+Previno a parte recorrente que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
