@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo regimental interposto por [NOME] contra decisão que negou seguimento ao recurso por ele aviado.
+A decisão proferida pela Presidência desta Corte tem o seguinte teor (e-STJ fl. 1.059):
+Mediante análise dos autos, verifica-se que o v. acórdão recorrido foi publicado em 9/12/2013 (fl. 897), sendo o recurso especial somente interposto em 7/1/2014 (fl. 903).
+Dessa forma, inadmissível, porquanto intempestivo, eis que interposto fora do prazo de 15 (quinze) dias, nos termos do art. 508 do CPC.
+A propósito, conforme jurisprudência dominante nesta Corte, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que pretende seja conhecido. Nesse sentido: AgRg no AREsp 527.290/MG, 2ª Turma, Rel. Min. Assusete Magalhães, DJe de 22/8/2014.
+Ante o exposto, com fulcro no art. 1º da Resolução STJ n.º 17/2013, nego seguimento ao recurso.
+Em seu agravo regimental, o ora recorrente afirma, em síntese, que, em decorrência da suspensão dos prazos recursais no âmbito do Tribunal de Justiça do Estado de São Paulo no período compreendido entre 20/12/2012 e 6/1/2013, a sua irresignação mostra-se tempestiva. Assim, a seu modo de ver, este Tribunal deve dela conhecer e, no mérito, provê-la (e-STJ fls. 1.063/1.066).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 1.075/1.076).
+É o relatório.
+Parcial razão assiste ao ora agravante, pelo que a decisão proferida pela Presidência desta Corte deve ser objeto de reconsideração.
+De fato, esta Corte de Justiça, em atenção ao constante do art. 1.003, § 6º, do Código de Processo Civil de 2015, em precedente julgado por sua Corte Especial em 20/11/2017, definiu que a existência de feriado local ou recesso deve ser comprovada no ato de interposição no recurso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+(AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe 19/12/2017)
+A propósito, precedente da Sexta Turma deste Tribunal Superior:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO APELO NOBRE. SUSPENSÃO DO PRAZO RECURSAL. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. PLEITO DE CONCESSÃO DE HABEAS CORPUS EX OFFICIO. DESCABIMENTO AGRAVO DESPROVIDO.
+1. O ora agravante foi intimado do acórdão recorrido em 11/10/2017, sendo seu recurso especial interposto tão somente em 30/10/2017, fora, portanto, do prazo legal.
+2. "A ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que se pretende seja conhecido" (AgRg no AREsp n. 864.072/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/5/2017, DJe 30/5/2017).
+3. O juízo de admissibilidade realizado pelo Tribunal a quo não vincula este Tribunal Superior, a quem compete o juízo definitivo acerca dos requisitos extrínsecos e intrínsecos do recurso.
+4. "É munus da defesa técnica zelar para que o recurso especial atenda aos pressupostos constitucionais e legais, inclusive suscitando as matérias no tempo oportuno. É descabido postular a concessão de habeas corpus de ofício como escape para suprir as deficiências processuais por ela mesma causadas, uma vez que tal medida é concedida por iniciativa do próprio órgão julgador e tão-somente quando constatada a presença de ilegalidade flagrante" (AgRg no REsp 1.373.420/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 8/3/2016, DJe 22/3/2016.) 5. Agravo regimental desprovido.
+(AgRg no AREsp 1301312/SP, MINHA RELATORIA, SEXTA TURMA, julgado em 14/05/2019, DJe 24/05/2019)
+Ocorre que o recurso especial ora analisado foi interposto em 7/1/2014, data em que vigorava, também nesta Corte de Justiça, o entendimento de ser possível ao recorrente a comprovação, no âmbito do agravo regimental, da ocorrência de feriado ou recesso a protrair o termo ad quem de interposição do recurso.
+Nesse sentido, verifique-se o teor da decisão proferida também pela Corte Especial do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. MUDANÇA DE ENTENDIMENTO.
+1. A comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental. Precedentes do STF e do STJ.
+2. Agravo regimental provido, para afastar a intempestividade do recurso especial.
+(AgRg no AREsp 137.141/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, julgado em 19/09/2012, DJe 15/10/2012)
+Assim, com o fim de privilegiar o princípio da boa-fé e não tornar retroativo entendimento prejudicial ao ora recorrente, tenho que, comprovada a suspensão dos prazos recursais no âmbito do Tribunal de Justiça do Estado de São Paulo, deve ser afastada a alegação de intempestividade recursal.
+Superada esta questão e, após analisar os argumentos constantes do recurso especial aviado, contrapondo-os com os fundamentos presentes no acórdão combatido, tenho que a irresignação não ultrapassa sequer seu juízo de admissibilidade, agora, no entanto, por circunstâncias diversas da intempestividade.
+De início, no que se refere à interposição pela alínea "c" do art. 105, III, da Constituição da República, tenho que, "conforme a jurisprudência deste Tribunal Superior, julgados tidos em habeas corpus, mandado de segurança e recurso ordinário não se prestam à comprovação de divergência jurisprudencial, já que tais ações mandamentais têm um espectro cognitivo diverso daquele do recurso especial, cujo objetivo é a uniformização da interpretação da legislação federal." (AgRg nos EDcl nos EDcl no AREsp n. 239.230/DF, de Minha Relatoria, SEXTA TURMA, julgado em 15/5/2018, DJe 29/5/2018).
+Nesse sentido, precedente deste Tribunal Superior:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL TIDO POR VIOLADO. SÚMULA 284 DO STF. HABEAS CORPUS COMO ACÓRDÃO PARADIGMA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O conhecimento do recurso especial, seja ele interposto pela alínea "a" ou pela alínea "c" do permissivo constitucional, exige, necessariamente, a indicação do dispositivo de lei federal que se entende por contrariado, sob pena de incidência, por analogia, da Súmula n. 284 do STF.
+2. "A jurisprudência deste Superior Tribunal de Justiça é pacífica quanto à impossibilidade de acórdão proferido em sede de habeas corpus, mandado de segurança e recurso ordinário servir de paradigma para fins de alegado dissídio jurisprudencial, ainda que se trate de dissídio notório, eis que os remédios constitucionais não guardam o mesmo objeto/natureza e a mesma extensão material almejados no recurso especial". (AgRg no EREsp n. 998.249/RS, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 21/9/2012). Ressalva deste relator.
+3. Agravo regimental não provido.
+(AgRg no AREsp 1366658/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/05/2019, DJe 27/05/2019)
+Lado outro, no que se refere à alegação de violação ao disposto nos arts. 18 do Código Penal e 413 e 419, ambos do Código de Processo Penal, esbarra a irresignação no óbice constante do enunciado 7 da Súmula de Jurisprudência deste Tribunal Superior. De fato, constando do acórdão proferido pelo Tribunal a quo que não se mostra desqualificada a possibilidade de configuração do "dolo eventual" (e-STJ fl. 884), tem-se que a reversão de tal conclusão demandaria efetivo revolvimento no acervo fático probatório, o que não é possível em sede de recurso especial.
+Nesse sentido, precedentes de ambas as Turmas componentes da Terceira Seção deste Tribunal Superior:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DOLOSO. PLEITO DE DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. COMPETÊNCIA DO CONSELHO DE SENTENÇA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É de competência da Corte Popular a conclusão de que o agente agiu com dolo eventual ou culpa consciente ao cometer homicídio dirigindo embriagado.
+2. Necessário incursão na seara fático-probatória para desclassificação do delito de homicídio doloso para culposo, providência obstada pela Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 785.661/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/12/2015, DJe 02/02/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. ARTS. 304 E 305, DA LEI N. 9.507/1997. OMISSÃO. ALEGADA OFENSA AO ART. 381, III, DO CÓDIGO DE PROCESSO PENAL. DESCLASSIFICAÇÃO PARA HOMICÍDIO CULPOSO NA CONDUÇÃO DE VEÍCULO AUTOMOTOR. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Na hipótese, não se verifica ofensa ao art. 381, III, do Código de Processo penal. Ressalte-se que cabe ao julgador fundamentar todas as suas decisões, de modo a robustecê-las, bem como afastar qualquer dúvida quanto a motivação utilizada, nos termos do art. 93, IX da Constituição Federal de 1988, devendo ser considerada a conclusão lógico-sistemática adotada pelo decisum, como ocorre in casu.
+2. Demais disso, "o julgador não é obrigado a rebater todos os argumentos aventados pelas partes quando o acórdão recorrido analisar, com clareza, as questões essenciais ao deslinde da controvérsia, havendo, ainda, razões suficientes para sua manutenção" (EDcl no AgRg nos EDcl no AREsp 534.318/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/6/2015, DJe 17/6/2015).
+3. Dos autos, observa-se, ainda, que o acórdão impugnado decidiu com base no conjunto probatório trazido aos autos. Reexaminá-lo para desclassificar para homicídio culposo na condução de veículo automotor implicaria no reexame fático-probatório da matéria, o que é inviável nos termos da Súmula n. 7 do STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 1335829/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 07/02/2019, DJe 15/02/2019)
+Deste modo, também nesse ponto, o recurso especial não ultrapassa seu juízo de admissibilidade.
+Ante o exposto, reconsidero a decisão de e-STJ fl. 1.059 para afastar o reconhecimento da intempestividade do recurso especial, dele não conhecendo, no entanto, com base em fundamentos diversos.
+Publique-se. Intimem-se.
