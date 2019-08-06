@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo apresentado por TERESINHA RODRIGUES DE VASCONCELLOS, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim resumido:
+INCIDENTE DE REMOÇÃO DE INVENTARIANTE INVENTARIANTE REMOVIDA COM FUNDAMENTO NO ART 622 III DO CPC POIS TERIA INADIMPLIDO DÉBITOS DO ESPÓLIO INOBSTANTE A EXISTÊNCIA DE ATIVOS FINANCEIROS CRÉDITO DO ESPÓLIO QUE SOMENTE VEIO AOS AUTOS APÓS O VENCIMENTO DAS DÍVIDAS INADIMPLIDAS SENDO INSUFICIENTE AO SEU ADIMPLEMENTO INTEGRAL HIPÓTESE EM QUE OUTROSSIM A INVENTARIANTE DEMONSTRA TER EFETUADO O PAGAMENTO DE GRANDE PARTE DOS DÉBITOS DO ESPÓLIO INCLUSIVE COM RECURSOS PRÓPRIOS INVENTARIANTE QUE VINHA ATENDENDO OPORTUNAMENTE ÀS DETERMINAÇÕES JUDICIAIS DANDO REGULAR ANDAMENTO AO FEITO E PRESTANDO CONTAS TEMPESTIVAMENTE NÃO CARACTERIZADA A DETERIORAÇÃO DILAPIDAÇÃO OU DANO AOS BENS DO ESPÓLIO POR CULPA DA INVENTARIANTE REMOÇÃO INCABÍVEL AGRAVO PROVIDO.
+Alega a recorrente violação dos artigos 371, 489 e 622, II, III e IV, do CPC, no que concerne ao descumprimento das atribuições do cargo de inventariante pela ora agravada, trazendo o(s) seguinte(s) argumento(s):
+O v. acordão ora recorrido VIOLOU os incisos II, III e IV do art. 622 do Código Civil, eis que está devidamente demonstrado que a ora recorrida não cumpriu com sua obrigação atinente ao cargo de inventariante. (fl. 1.263)
+1. Produziu a recorrente prova documental, comprovando suas alegações no sentido de que a ora recorrida não cumpriu a contento com o cargo de inventariante.
+2. A MÁ-VALORAÇÃO DA PROVA faz-se presente na decisão guerreada, vez que o v. acórdão desprezou provas documentais da mais alta relevância e julgou subjetivamente.
+Vale repisar: partiu de premissas falsas e, assim agindo, as conclusões a que chega são igualmente falsas. Todos esses fatores, consoante mencionado nas primeiras linhas do presente recurso, implicam em má-valoração da prova e consequentemente, em infringência aos artigos 371 e 489, inciso II, ambos do CPC. (fls 1.271/1.272)
+É o relatório. Decido.
+Quanto à alegada afronta ao artigo 489 do CPC, incide o óbice das Súmulas 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ultrapassado este ponto, tem aplicação a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), pois a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos para se alterar a conclusão do Tribunal a quo sobre a desnecessidade do afastamento da inventariante, conforme se pode verificar nos seguintes trechos do acórdão recorrido:
+Por conseguinte, a existência de débitos de IPTU e taxa condominial em aberto (R$ 9.266,25 e R$ 14.000,00 fls. 108/110 e 06 dos autos principais), inadimplidos antes da localização dos ativos financeiros no valor de R$ 12.753,04 (insuficientes para o pagamento total das dívidas do espólio), não caracteriza desídia.
+Outrossim, compulsando-se os autos principais observa-se que a agravante vinha dando impulso ao inventário, atendendo às determinações judiciais e prestando contas do numerário levantado para pagamentos de débitos do espólio.
+Nesse percurso, o inadimplemento de parte dos débitos que oneram os bens do espólio não é suficiente para a incidência do art. 622, III, do CPC, verbis :
+"Art. 622. O inventariante será removido de ofício ou a requerimento:
+III - se, por culpa sua, bens do espólio se deteriorarem, forem dilapidados ou sofrerem dano".
+Com efeito, não houve, por culpa da inventariante, deterioração, dilapidação ou dano aos bens do espólio.
+Incabível, pois, a remoção da inventariante.
+Por esses fundamentos, meu voto da provimento ao recurso, para afastar a remoção da inventariante. (fl. 1.254)
+Sobre o tema: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Nessa linha de compreensão, os seguintes julgados: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
