@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de Habeas Corpus, com pedido de medida liminar, impetrado contra decisão proferida pela Ministra MARIA THEREZA DE ASSIS MOURA, do Superior Tribunal de Justiça, que indeferiu provimento cautelar nos autos do HC 519.190/SP.
+    Consta dos autos, em síntese, que a paciente foi condenada à pena de 5 anos, 10 meses e 12 dias de reclusão, em regime inicial fechado, pela prática do crime de roubo majorado (art. 157, § 2º, II, do Código Penal). Foi-lhe concedido o direito de recorrer em liberdade (Doc. 3).
+    A defesa apelou para o Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso para reduzir a pena ao patamar de 5 anos e 4 meses de reclusão, a ser cumprida em regime inicial semiaberto.
+    Buscando obstar o início da execução da pena, a defesa impetrou Habeas Corpus no Superior Tribunal de Justiça, que indeferiu o pedido de liminar.
+    Nesta ação, os impetrantes sustentam, em suma, que a paciente sofre constrangimento ilegal em razão da execução provisória da pena. Requer, assim, a concessão da ordem, para que a paciente permaneça em liberdade até a prolação de decisão final irrecorrível com trânsito em julgado.
+    É o relatório. Decido.
+    Nos termos da Súmula 691/STF, não cabe ao SUPREMO TRIBUNAL FEDERAL conhecer de Habeas Corpus voltado contra decisão proferida por relator que indefere o pedido de liminar em impetração requerida a tribunal superior, sob pena de indevida supressão de instância. O rigor na aplicação desse enunciado tem sido abrandado por julgados desta CORTE somente em caso de manifesto constrangimento ilegal, prontamente identificável (HC 138.946, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 25/4/2018; HC 128.740, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ROSA WEBER, Primeira Turma, DJe de 24/10/2016; HC 138.945-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 7/3/2017).
+    Na espécie, entretanto, não se constata a presença de flagrante ilegalidade apta a justificar a intervenção antecipada da SUPREMA CORTE, uma vez que, conforme salientei no julgamento do RE 696.533, 1ª Turma, "As exigências decorrentes da previsão constitucional do princípio da presunção de inocência não são desrespeitadas mediante a possibilidade de execução provisória da pena privativa de liberdade, quando a decisão condenatória observar todos os demais princípios constitucionais interligados; ou seja, quando o juízo de culpabilidade do acusado tiver sido firmado com absoluta in dependência pelo juízo natural, a partir da valoração de provas obtidas mediante o devido processo legal, contraditório e ampla defesa em dupla instância, e a condenação criminal tiver sido imposta, em decisão colegiada, devidamente motivada, de Tribunal de 2º grau ".
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, INDEFIRO A ORDEM DE HABEAS CORPUS.
+    Publique-se.
+    Brasília, 7 de agosto de 2019.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
