@@ -1,0 +1,34 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Ricardo Pieri Nunes em favor de Alex Cozzolino, contra decisão monocrática da lavra do Ministro Rogerio Schietti Cruz, do Superior Tribunal de Justiça, que indeferiu a liminar no RHC 75.641/RJ.
+    Narra-se que o paciente foi denunciado pela suposta prática do delito de associação criminosa, tipificado no art. 288 do CP. (eDOC 2, p. 31).
+    O Juízo da Vara Criminal da Comarca de Magé/RJ recebeu a denúncia e, posteriormente, indeferiu pedido formulado pela Defesa de rejeição da denúncia, designando audiência de instrução (eDOC 5).
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado do Rio de Janeiro/RJ, que denegou a ordem. (eDOC 9).
+    A questão, então, foi levada à apreciação do Superior Tribunal de Justiça que, via decisão monocrática da lavra do Ministro Rogerio Schietti Cruz, indeferiu a liminar no RHC 75.641/RJ. (eDOC 11)
+    Nesta Corte, a Defesa sustenta a inépcia da denúncia, em virtude de atribuir responsabilidade criminal ao paciente apenas em razão de ter se tornado sócio da empresa que estaria ligada aos supostos atos ilícitos descritos na denúncia. Alega não ter a exordial acusatória descrito de forma individualizada a conduta praticada pelo paciente. Requer, em medida liminar, a suspensão do processo nº 0013583-38.2015.8.19.0029. No mérito, pugna pelo trancamento do processo penal.
+    Este mandamus veio a mim distribuído por prevenção em razão do Rcl 28.547/RJ.
+    É o relatório.
+    Passo a decidir.
+    Preliminarmente, a jurisprudência desta Corte é no sentido da inadmissibilidade da impetração de habeas corpus, nas causas de sua competência originária, contra decisão denegatória de liminar em ação de mesma natureza articulada perante tribunal superior, antes do julgamento definitivo do writ.
+    Essa conclusão está representada na Súmula 691 do STF: Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    É bem verdade que o rigor na aplicação de tal entendimento tem sido abrandado por julgados desta Corte em hipóteses excepcionais, em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC 84.014/MG, Primeira Turma, unânime, Rel. Min. Marco Aurélio, DJ 25.6.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ 1º.9.2006; e HC 88.229/SE, Rel. Min. Marco Aurélio, Redator para acórdão Min. Ricardo Lewandowski, Primeira Turma, maioria, DJ 23.2.2007; HC 129.554/SP, Primeira Turma, unânime, Rel. Min. Rosa Weber, DJe 14.10.2015; e HC 129.872/SP, Segunda Turma, unânime, de minha relatoria, DJe 29.9.2015; e a seguinte decisão monocrática: HC 85.826/SP (MC).
+    Na hipótese dos autos, entendo caracterizada situação apta a ensejar o afastamento da Súmula 691/STF.
+    Com efeito, as razões expostas justificam a concessão da liminar para suspender o processo penal até o julgamento final do mérito deste habeas corpus. Trata-se de questão complexa, que demanda maior aprofundamento na análise do mérito. Além disso, verifica-se plausibilidade na alegação apresentada pelo impetrante.
+    Para tanto, cito, porquanto relevantes, todos os trechos da denúncia no que toca à participação do paciente (eDOC 2, p. 9):
+    “(...) Em dezembro de 2009, no período em que transcorreu o certame licitatório de valor mínimo de R$3.424.439,04, a denunciada JANAÍNA, com salário de R$1.400,00, era gerente financeiro do Posto de Gasolina Renaza de Magé Ltda., que tinha como sócios os denunciados RENATO ALEM COZZOLINO e JANE COZZOLINO, que foi sucedida, em janeiro de 2010, pelo denunciado ALEX COZZOLINO.
+    (…).
+    Após o crime em tela, em 09 de junho de 2011, o denunciado RENATO ALEM COZZOLINO e o denunciado ALEX COZZOLINO, que também foi sócio do Posto Renaza de Magé Ltda., passaram oficialmente a figurar como sócios da empresa Ambiental do Futuro Soluções e Serviços de Limpeza e Locações Ltda., assumindo os lugares de seus funcionários no contrato social da empresa.
+    (...)
+    Os denunciados RENATO ALEN COZZOLINO, JANE COZZOLINO E ALEX COZZOLINO, irmãos do denunciado ANDERSON COZZOLINO, estão vinculados ao "braço" Legislativo da quadrilha. Estes denunciados aderiram à fraude espúria praticada pela quadrilha, colocando os "laranjas" JANAÍNA FARIAS MARTINS VIANA e RONALDO LUIZ DE FRANÇA, seus funcionários em postos de combustíveis, para figurarem como sócios na empresa de "fachada" Ambiental do Futuro Soluções e Serviços de Limpeza e Locações Ltda. Os denunciados JANAÍNA FARIAS MARTINS VIANA e RONALDO LUIZ DE FRANÇA aderiram às ações criminosas da quadrilha efetivamente, assinando documentos e participando pessoalmente da licitação fraudada”.
+    Conforme apontado pela defesa, o paciente “’foi admitido no quadro societário da empresa Ambiental do Futuro apenas em 2011 (fls. 2.456/2.460), cerca de 2 anos após a realização do certame licitatório’ tido como irregular pelo Parquet (cf. doc. 3, págs. 5 e 14), fato que, inclusive, é admitido de forma expressa na própria denúncia (cf. doc. 1, pág. 9)”. Nos termos da denúncia (eDoc 2), os fatos narrados teriam ocorrido em 11 e 14 de dezembro de 2009.
+    Entre todos os fatos que permeiam a narrativa acusatória, a Alex Cozzolino imputou-se exclusivamente o delito de associação criminosa (art. 288, CP).
+    Contudo, em um juízo preliminar, percebe-se que o paciente foi denunciado apenas pela sua condição de sócio da pessoa jurídica que teria participado de suposto procedimento licitatório fraudulento, de modo que, nos termos da denúncia, não há como admitir o prosseguimento do processo penal em seu desfavor.
+    Ademais, não parece haver qualquer elemento que vincule o paciente subjetivamente ao fato narrado pela acusação como crime. Em Direito Penal, não se pode aceitar a responsabilização objetiva, sem comprovação de dolo ou culpa.
+    Ademais, deferi liminar para suspender o processo em relação à corré Janaína Faria Martins Viana no âmbito do HC 159.697, que descreve panorama semelhante.
+    Ante o exposto, defiro a liminar, a fim de determinar a suspensão do processo penal n º 0013583-38.2015.8.19.0029, em trâmite na Vara Criminal de Magé/RJ, com relação ao paciente, até o julgamento do mérito deste habeas corpus.
+    Solicitem-se informações ao STJ, ao TJRJ e ao Juízo de primeiro grau, em especial sobre o andamento do processo.
+    Em seguida, abra-se vista dos autos à Procuradoria-Geral da República.
+    Comunique-se com urgência.
+    Publique-se.
+    Brasília, 7 de agosto de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
