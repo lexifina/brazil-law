@@ -1,0 +1,7 @@
+Solução de Divergência Cosit nº 98018, de 26 de julho de 2019
+Assunto: Classificação de Mercadorias
+Reforma de ofício a Solução de Consulta SRRF09/Diana nº 36, de 2 de maio de 2012.
+Código NCM 9031.80.99
+Mercadoria: Aparelho para medir a impedância bioelétrica (bioimpedância) - através do método tetrapolar com 8 eletrodos de toque - e, em conjunto com as informações de idade, peso, sexo e altura fornecidas pelo usuário, avaliar a composição corporal, apresentando como resultados: massa de proteína, massa mineral, massa de gordura corporal, água corporal total, massa magra, índice de massa corporal, percentual de gordura corporal, idade compatível do corpo, taxa metabólica basal, gasto energético total, tipo corpóreo, massa magra segmentar, alvo (objetivo) para controle de massa de gordura corporal e massa magra. O equipamento possui uma base e uma coluna com tela LCD colorida de 6,4 polegadas em seu topo, tem dimensões de 400 mm x 673 mm x 872 mm e peso aproximado de 24 kg.
+Dispositivos Legais: RGI 1 (texto da posição 90.31), RGI 6 (texto da subposição 9031.80) e RGC 1 (textos do item 9031.80.9 e do subitem 9031.80.99) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018, e alterações posteriores.
+[arquivo anexo: SD Cosit nº 98.018-2019.pdf]
