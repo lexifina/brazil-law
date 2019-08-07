@@ -1,0 +1,19 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Sat-Engenharia e Comércio Ltda. contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Declaratória e Condenatória. Sentença de improcedência. Pedido formulado por construtora contra Empresa de Eletricidade. Obrigação da loteadora de implantar abastecimento de energia elétrica. Custo embutido no valor dos lotes. Recurso desprovido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 6.766/79), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Impende assinalar, finalmente, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 911.364/SP, Rel. Min. CÁRMEN LÚCIA – ARE 958.869/SP, Rel. Min. ROBERTO BARROSO – ARE 1.096.109/SP, Rel. Min. CELSO DE MELLO – ARE 1.101.719/SP, Rel. Min. EDSON FACHIN, v.g.):
+    “Agravo regimental em recurso extraordinário com agravo.  2. Direito do Consumidor. 3. Implementação de rede elétrica como obra de infraestrutura em loteamento. Pretensão do implantador em se ver ressarcido das despesas despendidas com a instalação da rede de distribuição interna de energia junto à concessionária do serviço público. Matéria infraconstitucional. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.”
+    (ARE 823.942-AgR/SP, Rel. Min. GILMAR MENDES – grifei)
+    “DIREITO CIVIL E ADMINISTRATIVO. LOTEAMENTO. RESSARCIMENTO DE DESPESAS COM OBRAS DE INFRAESTRUTURA. INADMISSIBILIDADE. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 04.9.2012.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência desta Corte.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido.”
+    (ARE 869.109-AgR/SP, Rel. Min. ROSA WEBER – grifei)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 07 de agosto de 2019.
+Ministro CELSO DE MELLO
+Relator
