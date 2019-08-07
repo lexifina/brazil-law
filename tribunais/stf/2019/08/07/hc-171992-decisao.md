@@ -1,0 +1,33 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Crimes contra a administração publica. Mandado de busca e apreensão. Alegação de nulidade. Ausência de ameaça ou lesão à liberdade de locomoção.
+1. O habeas corpus somente deverá ser concedido em caso de réu preso ou na iminência de sê-lo, presentes as seguintes condições: (i) violação à jurisprudência consolidada do STF; (ii) violação clara à Constituição; ou (iii) teratologia na decisão impugnada, caracterizadora de absurdo jurídico. Hipótese em que nenhuma dessas condições está demonstrada.
+2. Ausência de teratologia, ilegalidade flagrante ou abuso de poder que justifique a concessão da ordem.
+3. Habeas Corpus a que se nega seguimento.
+    1. Trata-se de habeas corpus impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Reynaldo Soares Da Fonseca, assim ementado:
+    “PENAL E PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DO RECURSO PRÓPRIO. CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA. MANDADO DE BUSCA E APREENSÃO. AUSÊNCIA DE DESCRIÇÃO DO OBJETO E FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. DEVOLUÇÃO DE DINHEIRO APREENDIDO. INVIABILIDADE DO WRIT. AUSÊNCIA DE AMEAÇA OU DE LESÃO À LIBERDADE DE LOCOMOÇÃO. HABEAS CORPUS NÃO CONHECIDO.
+    1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+    2. No caso, a decisão que autorizou a busca e apreensão foi devidamente fundamentada, mostrando que havia uma investigação prévia que justificasse a medida, bem como o mandado continha claramente o objeto da diligência (objetos relacionados com o crime), o que afasta o constrangimento ilegal. Veja-se, ainda, como bem salientou o aresto impugnado, apenas após o cumprimento de busca e apreensão pode o Julgador elencar detalhadamente os bens apreendidos no domicílio.
+    3. Por outro lado, a defesa busca obter provimento judicial que reverta a apreensão de valores em espécie, determinada no curso de investigação criminal. Não se vislumbra, portanto, qualquer ameaça à liberdade ambulatorial do paciente que justifique a concessão da ordem, considerando, ainda, que existem outros meios judiciais adequados à impugnação da medida constritiva.
+    4. Por fim, a restituição de valores, tanto por excesso de prazo quanto por equívoco no objeto da apreensão, não é aqui cabível, uma vez que não constitui coação à liberdade de locomoção do paciente, fugindo das vias estreitas a que se presta o remédio constitucional do habeas corpus.
+    5. Habeas corpus não conhecido.”
+    2. Extrai-se dos autos que o Juízo da 2ª Vara Criminal de Jaboatão dos Guararapes deferiu o pedido de busca e apreensão domiciliar em desfavor do paciente, e outros investigados, realizado pela Polícia Civil de Pernambuco com o objetivo de investigar a suposta prática de crimes contra a Administração Pública.
+    3. A defesa apresentou petição pleiteando a restituição de quantias em dinheiro apreendidas durante a realização da busca e apreensão (R$ 177.000,00). O Juízo de origem indeferiu o pedido.
+    4. Em seguida, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de Pernambuco, denegado. Na sequência, sobreveio impetração de HC no Superior Tribunal de Justiça, não conhecido.
+    5. Neste habeas corpus, a parte impetrante afirma que “a autoridade policial se excedeu no cumprimento de ordem judicial ao apreender bem (dinheiro) que não figurava entre aqueles abrangidos pela decisão de busca e apreensão exarada”; sustentando que, “por extrapolar os limites do mandado judicial, violando o direito de propriedade (CF/88, art. 5.º XXII) e a inviolabilidade do domicílio do paciente, o ato de busca e apreensão de bem (valor) que não era objeto de prévia ordem judicial se acha inquinado de nulidade absoluta e, como tal, inadmissível prova ilícita, na forma do art. 5.º, LVI da Carta Federal e art. 157 do Código de Processo Penal”.
+    6. Com esses argumentos, requer a concessão da ordem, a fim de “(1) invalidar o ato de busca no domicílio do Paciente e, por consequência, reconhecer a ilicitude das provas ali obtidas, bem como de eventuais elementos probatórios outros delas derivados; (2) determinar o desentranhamento do respectivo auto de apreensão e a restituição de todos os bens apreendidos no citado local; e (3) alternativamente, inutilizar todas as provas derivadas daquelas obtidas na busca, que deverão ser desentranhadas dos autos”.
+    Decido.
+    7. O habeas corpus não deve ser concedido.
+    8. Tenho afirmado em sucessivos julgamentos (como, por exemplo, no HC 132.990, Redator para o acórdão o Ministro Luiz Fux) que, uma vez conhecido o habeas corpus, somente deverá ser concedida a ordem em caso de réu preso ou na iminência de sê-lo, presentes as seguintes condições:
+    1)  Violação à jurisprudência consolidada do STF;
+    2) Violação clara à Constituição; ou
+    3) Teratologia na decisão impugnada, caracterizadora de absurdo jurídico.
+    9. No caso de que se trata, nenhuma dessas condições está demonstrada. Para além de observar que o paciente não está preso (ou na iminência de sê-lo), o fato é que, tal como deixou consignado o Superior Tribunal de Justiça, “a defesa busca obter provimento judicial que reverta a apreensão de valores em espécie, determinada no curso de investigação criminal”; assentando, assim, que “Não se vislumbra (…) qualquer ameaça à liberdade ambulatorial do paciente que justifique a concessão da ordem, considerando, ainda, que existem outros meios judiciais adequados à impugnação da medida constritiva”.
+    10. Além disso, as decisões das instâncias de origem não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem. Transcrevo, nesse sentido, as seguintes passagens do voto condutor do julgamento no TJ/PE:
+    “(…) não se vislumbra qualquer irregularidade no mandado de busca e apreensão, já que este foi expedido com objetivo certo, contra pessoa determinada e mediante a apresentação de fundadas razões, tendo sido observados os ditames do art. 243 do CPP.
+    Ademais, apenas após o cumprimento do mandado de busca e apreensão pode o Julgador elencar detalhadamente os bens apreendidos no domicilio Demais disso, o rol pormenorizado dos bens apreendidos somente deve constar do auto de apresentação e apreensão, o que restou observado na espécie dos autos”.
+    11. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 07 de agosto de 2019.
+Ministro Luís Roberto Barroso
+          Relator
+Documento assinado digitalmente
