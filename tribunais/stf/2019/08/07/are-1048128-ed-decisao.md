@@ -1,0 +1,15 @@
+Decisão:
+    Trata-se de embargos de declaração opostos contra decisão monocrática de minha relatoria, na qual dei parcial provimento ao recurso extraordinário com agravo.
+    A parte embargante sustenta que: (i) a decisão monocrática embargada restou omissa, porquanto não foi aplicada a Súmula 279/STF; (ii) o deslinde da controvérsia demanda necessariamente o reexame da legislação infraconstitucional e do acervo probatório dos autos, atraindo a incidência da Súmula 279/STF; (iii) os advogados que patrocinaram ações individuais e transitadas em julgado devem receber seus honorários destacados.
+    O recurso não pode ser acolhido, tendo em vista a inexistência de obscuridade, contradição, omissão ou erro material no acórdão questionado, o que afasta a presença dos pressupostos de embargabilidade, conforme o art. 1.022, do CPC/2015.
+    Estes embargos veiculam pretensão meramente infringente. Objetivam tão somente o reexame de pedido já repelido. E os embargos não podem conduzir à renovação de um julgamento que não se ressente de nenhum vício e, muto menos, à modificação do julgado.
+    A parte embargante limita-se a postular uma nova apreciação do mérito de um julgamento que transcorreu de forma regular. Incide, no caso, a jurisprudência do Supremo Tribunal Federal que afasta o cabimento dos declaratórios com essa finalidade.
+    Este Tribunal fixou o entendimento de que não se revelam cabíveis embargos de declaração quando, a pretexto de esclarecer uma inexistente situação de obscuridade, omissão ou contradição, vêm a ser opostos com o inadmissível objetivo de infringir o julgado, em ordem a viabilizar um indevido reexame da causa (AI 177.313-AgR-ED, Rel. Min. Celso de Mello).
+    Restou claro na decisão embargada que esta Corte já fixou entendimento no sentido de que os valores repassados a título de complementação do FUNDEF devem ser destinados exclusivamente a ações de desenvolvimento e manutenção do ensino, vedada a retenção de valores para pagamento de honorários advocatícios contratuais. Veja-se:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM ENTENDIMENTO FIXADO PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO RE 636.978-RG (TEMA 422). VINCULAÇÃO DE VERBAS DA UNIÃO PARA A MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA. INVIABILIDADE DO USO DOS RECURSOS PARA DESPESAS DIVERSAS. PROVIMENTO PARCIAL. 1. O acórdão não divergiu do entendimento firmado pelo Plenário desta CORTE, no julgamento do mérito da repercussão geral reconhecida no RE 841.526-RG (Rel. Min. LUIZ FUX, Tema 592). 2. As verbas do FUNDEF não podem ser utilizadas para pagamento de despesas do Município com honorários advocatícios contratuais. 3 . Agravo interno a que se dá parcial provimento.” (ARE 1.066.281-AgR, Rel. Min. Alexandre de Moraes, sem grifos no original)
+    Na mesma linha, as ACOs 648, 660, 669 e 700, Redator p/o acórdão o Ministro Edson Fachin.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, rejeito os embargos de declaração opostos.
+    Publique-se.
+          Brasília, 07 de agosto de 2019.
+Ministro Luís Roberto Barroso
+Relator
