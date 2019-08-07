@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional da 5ª Região. Veja-se o seguinte trecho de ementa:
+    “CONSTITUCIONAL E ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA. VEDAÇÃO DO ART. 9º, III, DA LEI Nº 8.745/93. INSTITUIÇÕES DIFERENTES. RE 635.648. INAPLICABILIDADE.”
+    O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação ao art. 37, IX, da CF.
+    O recurso extraordinário não deve ser provido. É certo que o Plenário do Supremo Tribunal Federal, ao julgar o RE 635.648/RG, Rel. Min. Edson Fachin, reconheceu a repercussão geral da presente controvérsia e assentou a seguinte tese:
+    “É compatível com a Constituição Federal a previsão legal que exija o transcurso de 24 (vinte e quatro) meses, contados do término do contrato, antes de nova admissão de professor temporário anteriormente contratado”.
+    Tendo por base o mencionado paradigma, o Tribunal de origem deu provimento à apelação e estabeleceu um distinguishing sobre a matéria. Para tanto, decidiu que “a vedação legal não incide na hipótese em que a nova contratação se dá em cargo distinto, correspondente a entidade diversa da anterior, por não se constatar a renovação da contratação”.
+    Correta a solução dada pelo Tribunal de origem. O Ministro Edson Fachin, ao julgar processo análogo ao ora analisado (RE 1.120.059), assentou que da “análise do RE 635.648 verifica-se que as razões ali expendidas trataram especificadamente da hipótese de nova contratação de professor substituto pela mesma instituição de ensino, o que não é o caso dos autos. Conforme assentado na origem, o primeiro contrato temporário foi estabelecido com a Universidade Federal do Rio Grande do Norte e o subsequente com a Universidade Federal Rural do Semiárido”.
+    A mesma solução deve ser dada ao presente processo, uma vez que não se trata de nova contratação pela mesma instituição de ensino. No caso dos autos, a primeira contratação temporária foi efetuada junto à UFCA (Universidade Federal de Cariri), e a segunda contratação foi com IFCE (Instituto Federal de Educação, Ciência e Tecnologia do Ceará)
+    Ademais, o Supremo Tribunal Federal já firmou orientação no sentido de que, para o cabimento do recurso interposto com base na alínea b do inciso III do art. 102 da Constituição Federal, seria imprescindível a existência de declaração formal de inconstitucionalidade de tratado ou lei federal pelo plenário ou órgão especial do Tribunal, o que não ocorreu no presente caso. Nessa linha, vejam-se o ARE 701.883 AgR, Rel. Min. Celso de Mello; e o AI 821.963, Relª. Minª. Cármen Lúcia.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 07 de agosto de 2019.
+Ministro Luís Roberto Barroso
+Relator
