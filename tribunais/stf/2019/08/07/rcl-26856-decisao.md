@@ -1,0 +1,34 @@
+Trata-se de reclamação constitucional com pedido de liminar ajuizada por Leila Socorro de Meneses contra decisão do Tribunal Superior do Trabalho, na qual alega descumprimento do Tema 190 da repercussão geral (RE 586.453/SE), por afrontar a competência prevista no art. 114, I e IX, da Constituição da República.
+    A reclamante alega que:
+    “Leila Socorro de Menezes ingressou com Reclamatória Trabalhista contra sua empregadora - Caixa Econômica Federal - CEF. Trata-se de reclamação trabalhista típica com pleito relativo a auxílio-alimentação.
+    A Reclamante ajuizou Reclamação Trabalhista, contra sua empregadora, sob o fundamento de que quando da sua admissão, vigorava na empresa norma que assegurava aos trabalhadores o pagamento do auxílio refeição quando da aposentadoria. Tal verba é de obrigação da EMPREGADORA, Caixa Econômica Federal e, por essa razão, a demanda foi ajuizada na Justiça o Trabalho.
+    […]
+    .O auxílio alimentação era pago pela EMPREGADORA, CEF, através de cartão de débito em obrigação firmada por si através de ACORDO COLETIVO DE TRABALHO.
+    Nenhuma entidade de previdência complementar foi demandada, não consta no polo passivo, pois não tem qualquer interferência na relação ou na obrigação.
+    Apesar disso, a Justiça do Trabalho endente de algum modo, que se trata de questão de competência da Justiça Comum, interpretando de maneira equivocada o decidido por este egrégio Supremo Tribunal Federal no julgamento do RE 586.453/SE e, consequentemente, eximindo-se da obrigação imposta pelo art. 114, da Constituição Federal para o julgamento das “ações oriundas da relação de trabalho” (págs. 3-4 da inicial).
+    Argumenta, mais, que:
+    “Conforme os fundamentos da decisão transcrita supra, a 8ª Turma do C. TST aponta que a competência da Justiça Comum para julgamento da ação proposta seria definida pela natureza da verba; no entanto, assim decidindo, afronta a decisão do STF decidiu, no tema 190 de Repercussão Geral (RE 586.453/SE), ocasião em que foi estabelecida a competência da Justiça Comum era para julgamento de ações contra entidade de previdência complementar; ações em que a entidade estava no polo passivo; ações em que a entidade de previdência tem legitimidade passiva.
+    Neste sentido, a parte insistiu, por diversas vezes, pela competência da Justiça do Trabalho para o julgamento do feito posto que “ainda que o julgador considere que a verba possui caráter de complementação de aposentadoria, a entidade que figura no pólo passivo não é entidade de previdência privada, mas sim, a própria ex-empregadora. Além da verba pleiteada (Auxílio Alimentação) ser fruto de acordo coletivo firmado entre empregadores e empregados, sem qualquer interferência da previdência privada ligada à Caixa Econômica Federal” (pág. 6 da inicial – grifos no original).
+    Ao final, pede:
+    “1 - Liminarmente, seja determinada a suspensão da Reclamatória Trabalhista nº. 224-74.2013.5.20.0009, até decisão final da presente Reclamação;
+    2 - A intimação da autoridade para prestar informações;
+    3 - A intimação do Ministério Público Federal;
+    4 - No mérito, evidenciado o desrespeito ao que ficou decidido por este Supremo Tribunal na pacificação da Repercussão Geral nº 190 (RE 586.453/SE), requer a Reclamante seja julgada procedente a presente Reclamação para cassar decisão exorbitante de seu julgado e declarar a competência da Justiça do Trabalho para processar e julgar a ação 224-74.2013.5.20.0009” (pág. 15 da inicial).
+    Foram prestadas informações pela autoridade reclamada (doc. eletrônico 15).
+    A Procuradora-Geral da República, Raquel Elias Ferreira Dodge, opinou pela improcedência do pedido, em parecer que portou a seguinte ementa:
+    “RECLAMAÇÃO CONSTITUCIONAL. DIREITO PREVIDENCIÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM PARA APRECIAR E JULGAR AÇÕES EM QUE SE PLEITEIA COMPLEMENTAÇÃO DE APOSENTADORIA PRIVADA, AINDA QUE PROPOSTA EM FACE DE EX-EMPREGADOR. AUXÍLIO ALIMENTAÇÃO. NATUREZA DE COMPLEMENTAÇÃO DE APOSENTADORIA PARA A EMPREGADA APOSENTADA. AUSÊNCIA DE VIOLAÇÃO À DECISÃO DO RE 586.453/SE. RAZOÁVEL INTERPRETAÇÃO DA LEGISLAÇÃO ORDINÁRIA. AUSÊNCIA DE CONTROVÉRSIA CONSTITUCIONAL.
+    1. No julgamento conjunto dos Recursos Extraordinários RE 586.453/SE (tema 190 da Repercussão Geral) e 583.050/RS, com fundamento na autonomia do Direito Previdenciário, o STF firmou o entendimento de que as ações propostas com o fito de obter complementação de aposentadoria são de competência da Justiça Comum, ainda que a relação jurídica tenha se originado de contrato de trabalho.
+    2. Ainda, prevalece na Corte Constitucional o entendimento de que a Justiça Comum é competente para julgar as aludidas ações mesmo quando tenham sido propostas em face do ex-empregador. Precedentes.
+    3. O auxílio-alimentação pretendido pela reclamante aposentada possui natureza de complementação de aposentadoria, razão pela qual é competente a Justiça Comum para processar e julgar a ação, nos termos do RE 586.453/SE.
+    - Parecer pela improcedência do pedido” (doc. eletrônico 17).
+    É o relatório suficiente. Decido.
+    Inicialmente, destaco que a reclamação perante o Supremo Tribunal Federal será sempre cabível para: (i) preservar a competência do Tribunal; (ii) garantir a autoridade de suas decisões; e (iii) garantir a observância de enunciado de Súmula Vinculante e de decisão desta Corte em controle concentrado de constitucionalidade, nos termos do art. 988 do Código de Processo Civil de 2015.
+    Na espécie, observo que o Plenário deste Tribunal, por ocasião do julgamento do RE 586.453-RG/SE (Tema 190 da Repercussão Geral), relator para o acórdão Ministro Dias Toffoli, firmou entendimento no sentido de que compete à Justiça comum o processamento de demandas ajuizadas contra entidades privadas de previdência complementar, com o propósito de obter complementação de aposentadoria.
+    Entretanto, esta Corte estabeleceu uma modulação de efeitos para se manterem na Justiça do Trabalho, até o trânsito em julgado e correspondente execução, todas as causas dessa espécie em que houver sido proferida sentença de mérito até 20/2/2013.
+    Como bem apontado no parecer ministerial, a sentença de mérito nos autos originários foi proferida em 25/6/2014, ou seja, após o marco previsto na modulação estabelecida por esta Corte.
+    Por outro lado, há precedentes no sentido de que tal competência deve ser firmada, ainda que a demanda originária tenha sido promovida exclusivamente contra o ex-empregador. Nesse sentido cito, entre outros: RE 589.551-AgR/DF, Rel. Min. Gilmar Mendes; RE 630.957-AgR/DF, Rel. Min. Luiz Fux; RCL 21.888-AgR/SP, Rel. Min. Rosa Weber.
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1°, do RISTF). Prejudicado o exame da liminar.
+    Publique-se.
+    Brasília, 7 de agosto de 2019.
+Ministro Ricardo Lewandowski
+Relator
