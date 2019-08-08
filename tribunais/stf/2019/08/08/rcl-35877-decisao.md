@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de reclamação, com pedido liminar, ajuizada em face de acórdão do Tribunal Regional Federak da 2ª Região, nos autos do Processo n.º 0126824-73.2016.4.02.5101.
+    Narra-se que o ato reclamado teria desrespeitado as decisões proferidas por esta Corte nos autos do RE 927.491, ARE 664.387 e MS 30.921, as quais trataram da possibilidade de pagamento, em pecúnia, de Licença Especial não gozada por militar.
+    Informa-se, ainda, a interposição de agravo em recurso extraordinário dirigida a esta Corte, autuado sob o número 1.177.851, cuja conclusão da Presidência, em 6 de dezembro de 2018, foi pela negativa de seguimento com fundamento na Súmula 287 do STF (eDOC 26).
+    Dispenso o pedido de informações, bem como a remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RISTF), por entender que o processo está suficientemente instruído e em condições de julgamento.
+    É o relatório. Decido.
+    Defiro o pedido de justiça gratuita (eDOC 1, p. 6).
+    Mediante análise dos autos e em consulta ao sítio eletrônio do TRF da 2ª Região, bem como ao andamento processual do ARE 1.177.851, verifica-se que o julgamento dos embargos de declaração do referido agravo ocorreu em 12.04.2019 e o trânsito em julgado ocorreu em 15.05.2019. A presente reclamação somente foi protocolada em 12.07.2019 (eDOC 8).
+    Assim, apresenta-se incabível, porque incide, na hipótese, a Súmula 734 do STF. Nessa esteira:
+    “RECLAMAÇÃO COISA JULGADA. A reclamação não faz as vezes de rescisória. Verbete nº 734 da súmula do Supremo: Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal.” (Rcl 19.567 AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe 28.5.2015).
+    “RECLAMAÇÃO ALEGADO DESRESPEITO À AUTORIDADE DAS DECISÕES PROFERIDAS, PELO SUPREMO TRIBUNAL FEDERAL, EM SEDE DE FISCALIZAÇÃO ABSTRATA ATO JUDICIAL, OBJETO DA RECLAMAÇÃO, CUJO FUNDAMENTO DE VALIDADE RESIDE EM JULGAMENTO COLEGIADO JÁ TRANSITADO EM JULGADO AJUIZAMENTO DA RECLAMAÇÃO EM MOMENTO POSTERIOR AO TRÂNSITO EM JULGADO DA DECISÃO EMANADA DO TRIBUNAL DE JUSTIÇA LOCAL INCIDÊNCIA, NA ESPÉCIE, DE OBSTÁCULO FUNDADO NA SÚMULA 734/STF INADMISSIBILIDADE DA RECLAMAÇÃO COMO SUCEDÂNEO DA AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL EXTINÇÃO DO PROCESSO DE RECLAMAÇÃO PRECEDENTES RECURSO DE AGRAVO IMPROVIDO.” (Rcl 16.313 AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 19.12.2014).
+    Referida vedação foi positivada no art. 988, §5º, I, do CPC.
+    Ainda que assim não fosse, com a interposição de agravo em recurso extraordinário, o ato reclamado passou a ser a decisão da Presidência desta Corte e não o acórdão da apelação como faz parecer a inicial desta ação.
+    Dessa forma, há manifesta inadequação da reclamação para a hipótese dos autos. A decisão reclamada não é sindicável na via eleita, porquanto consolidada a jurisprudência deste Supremo Tribunal Federal no sentido de que “Não cabe reclamação contra atos decisórios dos ministros ou das Turmas que integram esta Corte Suprema, dado que tais decisões são juridicamente imputados à autoria do próprio Tribunal em sua inteireza” (Rcl 3.916 - AgR, relator o Ministro Ayres Britto, Tribunal Pleno, DJ de 25.8.06).
+    Por todos, em mesmo sentido, vejam-se ainda outros julgados a demonstrar ser pacífico esse entendimento: Rcl. 15.790 - AgR, relator o Ministro Luiz Fux, 1ª Turma, Dje. 3.3.2015; Rcl 13.996- AgR, relator o Ministro Teori Zavascki, Pleno, unânime, DJe de 10.6.2013; Rcl. 2.969- AgR, relator o Ministro Cezar Peluso, Pleno, unânime, DJe. De 25.3.2010.
+    Por oportuno, registre-se que a reclamante não cumpriu integralmente os requisitos da petição inicial, deixando de postular expressamente a citação do beneficiário da decisão impugnada para apresentar contestação (artigos 290 do CPC).
+    Nada obstante, ante o indeferimento da inicial, deixa-se de determinar sua emenda, nos termos do art. 321 do CPC. Caso haja interposição de recurso desta decisão, seu conhecimento fica condicionado ao saneamento do defeito juntamente com a peça recursal (art. 292, §3º do CPC).
+    Ante o exposto, com base nos arts. 21, § 1º, e 161, parágrafo único, do RISTF, julgo improcedente a reclamação, por ser manifestamente incabível, prejudicado o pedido de liminar.
+    Publique-se. Intime-se.
+    Brasília, 8 de agosto de 2019.
+Ministro Edson Fachin
+Relator
+  Documento assinado digitalmente
