@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 38):
+    APELAÇÃO CRIME - DUPLA TENTATIVA DE HOMICÍDIO SIMPLES (CP, ART. 121, CAPUT, ART. 14, II) - SENTENÇA ABSOLUTÓRIA - RECURSO DA ACUSAÇÃO - ALEGAÇÃO DE JULGAMENTO CONTRÁRIO ÀS PROVAS DOS AUTOS - QUESITAÇÃO - CONSELHO DE SENTENÇA QUE RECONHECEU A MATERIALIDADE, A AUTORIA E O "ANIMUS NECANDI" - ABSOLVIÇÃO DECLARADA NA RESPOSTA AO QUESITO GENÉRICO (CPP, 483, § 2.º) - TESE DE LEGÍTIMA DEFESA QUE NÃO POSSUI RESPALDO PROBATÓRIO NOS AUTOS - APLICAÇÃO DO ART. 490 E 564, P.U, DO CPP - NULIDADE RECONHECIDA - SENTENÇA CASSADA PARA QUE O RÉU SEJA SUBMETIDO A NOVO JULGAMENTO PERANTE O E. TRIBUNAL DO JÚRI - RECURSO PROVIDO -
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XXXVIII, “c”, da Constituição Federal. Sustenta-se, em suma, que a absolvição se deu com base na resposta positiva ao quesito genérico e que os jurados não estão vinculados a decidir pela análise probatória, bastando que decidam segundo suas próprias convicções, em observância à soberania dos vereditos.
+    A Primeira Vice-Presidência do Tribunal de Justiça do Estado do Paraná inadmitiu o recurso sob os fundamentos de ofensa meramente reflexa ao Texto Constitucional e incidência da Súmula 279 do STF.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Observo que o Tribunal de origem deu provimento ao apelo do Ministério Público para determinar que o recorrente seja submetido a novo julgamento, ao verificar a ocorrência de decisão contrária às provas dos autos (fls. 40-44):
+    “Em exame aos quesitos apreciados pelo Conselho de Sentença (mov. 79.4), verifica-se que os Jurados reconheceram a materialidade e a autoria delitiva por maioria de votos, bem como o animus necandi na conduta do agente, como se observa das respostas do primeiro e segundo quesitos. Contudo, ao analisarem o referido quesito genérico (CPP, art. 483, inc. III), entenderam pela absolvição de cada um dos acusados, também pela maioria de votos (terceiro quesito).
+    Ocorre que, presente o necessário suporte probatório a respaldar o entendimento pela comprovação da materialidade e da autoria delitiva (quesitos 1 e 2) e, ainda, que o Réu dolosamente pretendeu ceifar a vida dos ofendidos (quesito 3), com efeito, padece a decisão de vício insanável ao declarar a absolvição dos acusados. Isso, porque a resposta positiva ao "terceiro quesito", além de contrariar a declaração soberana que reconheceu o dolo na conduta (quesito 1), não encontra amparo nos elementos probatórios colecionados.
+    De fato, restou patente nos autos a configuração da materialidade delitiva (Prontuários Médicos (mov. 1.11) e Laudos de Exame de Lesões Corporais (mov. 1.29) e a autoria imputada ao Réu pelos crimes de tentativa de homicídio contra as vítimas, inclusive porque o próprio Acusado confessou em Plenário a prática do delito (mídia em anexo), ainda que sob o manto da legítima defesa.
+    Verifica-se que, da análise das provas reunidas nos autos, a versão de que o Réu agiu em legítima defesa não merece prosperar, especialmente diante dos depoimentos trazidos pelas próprias vítimas e testemunhas dos fatos.
+    […]
+    Destarte, resta configurada a hipótese de julgamento contrário às provas dos autos ante a evidente contradição do quesito genérico (CPP, art. 483, inc. III) em relação às demais valorações atribuídas pelo Conselho de Sentença (quesitos 1 a 3), resultando o equívoco em indiscutível nulidade.
+    […]
+    Por óbvio, não se descuida da observância do princípio da soberania do veredito oriundo do e. Tribunal do Júri, mitigado, na espécie, tão somente em vista da flagrante nulidade do quesito genérico, pois demonstrado que se encontra dissociado das provas dos autos.” (grifei)
+    Nessa linha, as alegadas violações constitucionais só poderiam ser analisadas, in casu, por meio da interpretação da legislação processual penal aplicada à espécie, bem como do reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF e por se tratar de ofensa meramente reflexa à CF.
+    Ante o exposto, nego seguimento ao agravo, nos termos do art. 21, § 1º, do RISTF. Publique-se.
+    Brasília, 08 de agosto de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
