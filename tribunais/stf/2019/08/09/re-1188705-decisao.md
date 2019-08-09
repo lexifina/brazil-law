@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. INCIDENTE DECLARAÇÃO DE INCONSTITUCIONALIDADE. INTERPOSIÇÃO EXTEMPORÂNEA DE RECURSO EXTRAORDINÁRIO: SÚMULA N. 513 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base nas als. a e c do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Paraná:
+    “INCIDENTES DE DECLARAÇÃO DE INCONSTITUCIONALIDADE. LEI ESTADUAL Nº 17.435/2012 (PARÁGRAFO ÚNICO DO ART. 26 c.c. § 1º DO ART. 8º). PARANAPREVIDÊNClA: PESSOA JURÍDICA DE DIREITO PRIVADO, SERVIÇO SOCIAL AUTÔNOMO, SEM FINS LUCRATIVOS, ENTE DE COOPERAÇÃO COM O ESTADO DO PARANÁ, OBRIGAÇÕES DEFINIDAS EM CONTRATO DE GESTÃO. GERÊNCIA FUNDOS PÚBLICOS PREVIDENCIÁRIOS. DA INOCORRÊNCIA DE OFENSA A COISA JULGADA E AO DIREITO ADQUIRIDO: FUNDO FINANCEIRO SUPORTADO PELO ESTADO DO PARANÁ DESDE A CONSTITUIÇÃO DA PARANAPREVIDÊNCIA. FUNDO DE PREVIDÊNCIA FORMADO POR RECEITAS DE CONTRIBUIÇÕES DOS SERVIDORES E IGUAL CONTRAPARTIDA DO ENTE PUBLICO PARA FORMAR CAPITAL A CONCESSÃO DE FUTUROS BENEFICIOS. AUSÊNCIA DE INCONSTITUCIONALIDADE FORMAL E MATERIAL POR OFENSA AO ARTIGO 22, I, DA CONSTITUIÇÃO DA REPÚBLICA: LEI PR 17.435/2012 EXERCÍCIO DA COMPETÊNCIA CONCORRENTE - DIREITO PREVIDENCIÁRIO – ART. 13, XII, DA CONSTITUIÇÃO ESTADUAL” (fl. 26, e-doc. 6).
+    Os embargos de declaração opostos foram rejeitados.
+    2. No recurso extraordinário, os recorrentes alegam ter o Tribunal de origem contrariado o inc. XXXVI do art. 5º e o inc. I do art. 22 da Constituição da República e pedem seja reformado o julgamento dos incidentes de declaração de inconstitucionalidade.
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste aos recorrentes.
+    4. Este Supremo Tribunal assentou ser cabível recurso extraordinário contra a decisão pela qual adotado o julgado do incidente de inconstitucionalidade, mas que julga a causa. Os recorrentes deveriam, portanto, aguardar o julgamento do agravo de instrumento pelo órgão competente do Tribunal Regional (Câmara, Grupos ou Turmas), para, então, sendo o caso e havendo interesse jurídico-processual, virem a interpor, se fosse o caso, o recurso extraordinário. Incide na espécie a Súmula n. 513 do Supremo Tribunal Federal:
+    “A decisão que enseja a interposição de recurso ordinário ou extraordinário não é a do plenário, que resolve o incidente de inconstitucionalidade, mas a do órgão (Câmaras, grupos ou turmas) que completa o julgamento do feito”.
+    Confiram-se, por exemplo, os julgados a seguir, nos quais aplicada a Súmula n. 513:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ARGUIÇÃO DE INCONSTITUCIONALIDADE. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO PREMATURAMENTE. IMPOSSIBILIDADE. SÚMULA 513/STF. O acórdão proferido pelo colegiado maior dos tribunais em sede de arguição de inconstitucionalidade é irrecorrível. O recurso extraordinário deve ser interposto contra o acórdão proferido pelo órgão fracionário, o qual completa o julgamento do feito, nos termos da Súmula 513/STF. Agravo regimental a que se nega provimento” (RE n. 528.869-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 24.2.2015).
+    “RECURSO EXTRAORDINÁRIO. PREMATURO. JULGAMENTO. ÓRGÃO ESPECIAL. ARGUIÇÃO DE INCONSTITUCIONALIDADE. DECISÃO PROFERIDA PELO ÓRGÃO COMPETENTE QUE COMPLETA O JULGAMENTO DO FEITO. NÃO OCORRÊNCIA. SÚMULA 513 DO STF. AGRAVO IMPROVIDO. I – O recurso extraordinário foi interposto prematuramente, uma vez que a decisão que enseja a interposição do extraordinário não é a do Órgão Especial que julgou o incidente de inconstitucionalidade, mas aquela proferida, posteriormente, pelo órgão competente, que completa o julgamento do feito. Incidência da Súmula 513 do STF. Precedentes. II - Agravo regimental improvido” (RE n. 535.523-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 29.3.2011).
+    Confira-se trecho do voto do Ministro Ricardo Lewandowski:
+    “Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que as recorrentes não aduzem novos argumentos capazes de afastar as razões nela expendidas, que devem ser mantidas por seus próprios fundamentos.
+    Como consignado na decisão agravada, incide a Súmula 513 do STF, que possui o seguinte teor:
+    ‘A decisão que enseja a interposição de recurso ordinário ou extraordinário não é a do Plenário, que resolve o incidente de inconstitucionalidade, mas a do Órgão (Câmara, Grupos ou Turmas) que completa o julgamento do feito’.
+    No mesmo sentido, menciono as seguintes decisões, entre outras: AI 138.000-AgR/AM, Rel. Min. Sepúlveda Pertence; RE 581.172/PR e AI 512.534/SC, Rel. Min. Joaquim Barbosa; RE 541.798/RS, Rel. Min. Ayres Britto; RE 357.852/RJ, Rel. Min. Ellen Gracie.
+    Assim, verifico que o recurso extraordinário foi interposto prematuramente, uma vez que a decisão que enseja a interposição do extraordinário não é a do Órgão Especial que julgou o incidente de inconstitucionalidade, mas aquela proferida, posteriormente, pelo órgão competente, que completa o julgamento do feito, o que não ocorreu no caso em questão.
+    Isso posto, nego provimento ao agravo regimental”.
+    Nada há a prover quanto às alegações dos recorrentes.
+    5. Pelo exposto, nego provimento ao recurso extraordinário (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 9 de agosto de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
