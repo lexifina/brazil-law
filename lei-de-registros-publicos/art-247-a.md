@@ -1,0 +1,1 @@
+Art. 247-A. É dispensado o habite-se expedido pela prefeitura municipal para a averbação de construção residencial urbana unifamiliar de um só pavimento finalizada há mais de 5 (cinco) anos em área ocupada predominantemente por população de baixa renda, inclusive para o fim de registro ou averbação decorrente de financiamento à moradia.
