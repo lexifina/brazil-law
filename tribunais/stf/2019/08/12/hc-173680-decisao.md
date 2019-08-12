@@ -1,0 +1,40 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Conrado Almeida Correa Gontijo e outro, em favor de Douglas Anselmo Ribeiro (eDOC 1, p. 1-16), contra decisão proferida pelo Ministro Reynaldo Soares da Fonseca, do STJ, que indeferiu a liminar requerida nos autos do HC 519.126/SP (eDOC 15, p. 1-4), na qual foi esclarecido o seguinte:
+    “Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DOUGLAS ANSELMO RIBEIRO - preso cautelarmente e pronunciado por suposta infração ao art. 121, § 2º, II e IV, do Código Penal - apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+    Na presente impetração, a defesa alega, em síntese, ausência de contemporaneidade entre os fatos apurados e a prisão do paciente.
+    Sustenta, ainda, a existência de excesso de prazo para a formação da culpa, ressaltando que o paciente está preso há 2 anos e 8 meses e não há previsão para a realização do Júri.
+    Assevera que embora o julgamento do recurso em sentido estrito interposto para impugnar a sentença de pronúncia tenha sido julgado 30/1/2019, por erro do Tribunal a quo, ainda não foi certificado o seu trânsito em julgado, o que impede a continuidade de tramitação do feito.
+    Sublinha ser o réu primário, detentor de bons antecedentes, além de possuir residência fixa.
+    Defende ser suficiente, no caso, a aplicação de medidas cautelares alternativas.
+    Diante disso, requer a revogação da prisão preventiva do paciente ou, subsidiariamente, a sua substituição por medidas cautelares alternativas.”
+    No presente HC, reitera-se, em síntese, a argumentação deduzida nas instâncias inferiores, inclusive para superar o óbice processual contido na Súmula 691/STF, no sentido da demora injustificada da prestação jurisdicional, bem como faz alusão a “– FATO NOVO –, o trânsito em julgado do acórdão somente foi certificado aos 1º de julho de 2019 (Doc. 03), situação que impediu o prosseguimento do feito e a submissão de DOUGLAS ao julgamento perante o Conselho de Sentença” (eDOC 1, p. 3; grifos originais).
+    A parte impetrante pede, ao final, o seguinte:
+    “(...) a concessão da ordem de habeas corpus, confirmando-se a medida liminar, para tornar definitiva a revogação da prisão preventiva de DOUGLAS ANSELMO RIBEIRO, que já PERDURA POR MAIS DE EXCESSIVOS 02 (DOIS) ANOS E 09 (NOVE) MESES, devendo referida medida cautelar ser substituída por providências alternativas, à luz dos artigos 282, §6º e 319 do Código de Processo Penal.” (eDOC 1, p. 20; grifos originais)
+    O Presidente do STF, em 22.7.2019, entendeu que o “caso não se enquadra na previsão do art. 13, inciso VIII, do RISTF” (eDOC 18, p. 1).
+    É o relatório.
+    Passo a decidir.
+    A jurisprudência do Supremo é no sentido da inadmissibilidade da impetração de habeas corpus, nas causas de sua competência originária, contra decisão denegatória de liminar em ação de mesma natureza articulada perante tribunal superior, antes do julgamento definitivo do writ.
+    Essa conclusão está representada na Súmula 691 do STF: “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    É bem verdade que o rigor na aplicação de tal entendimento tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC 85.185/SP, Plenário, por maioria, Rel. Min. Cezar Peluso, DJ 1º.9.2006; HC 129.554/SP, 1ª Turma, unânime, Rel. Min. Rosa Weber, DJe 14.10.2015; e HC 135.520/MT, 2ª Turma, por maioria, Rel. Min. Dias Toffoli, DJe 31.5.2016; bem como as seguintes decisões monocráticas: HC 85.826 MC/SP, de minha relatoria, DJ 3.5.2005; HC 86.213 MC/ES, Rel. Min. Marco Aurélio, DJ 1º.8.2005; e HC 128.479/AC, Rel. Min. Celso de Mello, DJe 16.10.2015.
+    Assim, considerando os autos, sobretudo em face dos legítimos fundamentos contidos na decisão do juízo a quo, que indeferiu pedido de relaxamento da prisão preventiva em apreço (eDOC 2, p. 45-46), bem como no decisum do STJ (eDOC 15, p. 1-4), não vislumbro nenhuma dessas situações ensejadoras do afastamento da incidência da Súmula 691 do STF.
+    Para tanto, porque pertinente sobre a questão ora impugnada, destaco da mencionada decisão do juízo a quo e do decisum do STJ, respectivamente:
+    Decisão proferida nos autos da Ação Penal de Competência do Júri - Homicídio Simples 0012992-14.2013.8.26.0268:
+    “(...) Quanto ao alegado excesso de prazo, não assiste razão à Defesa.
+    Não é possível estabelecer, de forma objetiva, um prazo como limite para o encerramento da instrução processual. Existe, porém, construção jurisprudencial firmada com o intuito de evitar prejuízo aos réus em face de eventual prolongamento injustificado da instrução em caso de acusados presos pelo processo.
+    Tal prazo, portanto, não é peremptório, funcionando somente como um parâmetro a nortear o andamento dos feitos. Outrossim, devem ser consideradas, sempre, as características peculiares de cada caso concreto, notadamente com relação à gravidade do delito, número de réus e a colheita da prova necessária.
+    No caso em tela, observo que os prazos processuais vêm sendo regularmente cumpridos e observados e o Recurso em Sentido Estrito já foi julgado, faltando tão somente o transito em julgado. Demais disso, persistem os pressupostos e fundamentos da prisão preventiva, assim como as razões da decisão que a decretou, portanto fica mantida.
+    Assim, INDEFIRO o pedido de relaxamento da prisão.
+    2. Considerando que não há advogado dativo nos autos, prejudicado o cumprimento da determinação de fls. 553. Remetam-se os autos ao Egrégio Tribunal de Justiça, com urgência, para regularização do trânsito em julgado.” (eDOC 2, p. 45-46; grifos originais).
+    Decisão do Relator, no STJ, do HC 519.126/SP:
+    “A liminar em recurso ordinário em habeas corpus, bem como em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+    No caso dos autos, ao menos em juízo de cognição sumária, não verifico manifesta ilegalidade apta a justificar o deferimento da medida de urgência.
+    Não obstante os argumentos apresentados, mostra-se imprescindível um exame mais aprofundado dos elementos de convicção carreados aos autos, para se aferir a sustentada ilegalidade.
+    Cumpre salientar que o alegado excesso de prazo não pode ser apreciado apenas pela soma aritmética dos prazos, pois o processo penal é dinâmico, com vários incidentes, podendo sofrer empeços diversos, provocados inclusive pela defesa. Por isso, nesses casos, é imprescindível aguardar a vinda das informações.
+    Ademais, o pedido liminar confunde-se com o próprio mérito da impetração, o qual deverá ser analisado em momento oportuno, por ocasião do julgamento definitivo deste writ.
+    Ante o exposto, indefiro a liminar.” (eDOC 15, p. 4; grifos originais)
+    Assim, não se tratando de decisões manifestamente contrárias à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, e salvo melhor juízo na apreciação de eventual impetração de novo pedido de habeas corpus a ser distribuído nos termos da competência constitucional desta Corte (CF, artigo 102), descabe afastar a aplicação da Súmula 691 do STF.
+    Ante o exposto, nego seguimento ao pedido formulado neste habeas corpus, por ser manifestamente incabível, nos termos da Súmula 691 do STF. Recomendo, todavia, celeridade no julgamento do Processo Penal 0012992-14.2013.8.26.0268, em trâmite na 2ª Vara – Foro de Itapecerica da Serra da Comarca de Itapecerica da Serra/SP.
+    Comunique-se. Publique-se.
+    Brasília, 12 de agosto de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
