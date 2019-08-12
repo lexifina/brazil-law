@@ -1,0 +1,64 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. JULGAMENTO EXTRA PETITA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 3. DANO MORAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados faz incidir à hipótese o teor da Súmula 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+3. Modificar o entendimento do Tribunal local quanto a eventual direito da ora agravante à indenização por danos morais incorrerá em reexame da matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+4. Agravo interno improvido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por TEREZINHA DE JESUS MARTINS contra decisão desta relatoria assim ementada (e-STJ, fl. 247):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. 1. VIOLAÇÃO AOS ARTS. 489, § 1º, IV, E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. 2. ÔNUS DA PROVA. JULGAMENTO EXTRA PETITA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. INCIDÊNCIA DA SÚMULA 284/STF. 3. VIOLAÇÃO AOS ARTS. 4º E 5º DO ESTATUTO DO IDOSO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. 4. DANO MORAL. REEXAME DE PROVA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do agravo interno (e-STJ, fls. 257-263), a agravante afirma a existência de omissão no julgado do TJSP e a negativa de prestação jurisdicional; não ser o caso de aplicar a Súmula 284/STF, uma vez que indicou os artigos violados; e inaplicabilidade da Súmula 7/STJ, pois o caso requer a revaloração de provas, razão pela qual pleiteia a reconsideração da decisão ou que o julgamento do agravo seja submetido ao Colegiado.
+Impugnação às fls. 267-271 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. JULGAMENTO EXTRA PETITA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 3. DANO MORAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados faz incidir à hipótese o teor da Súmula 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+3. Modificar o entendimento do Tribunal local quanto a eventual direito da ora agravante à indenização por danos morais incorrerá em reexame da matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+4. Agravo interno improvido.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE(RELATOR):
+Os argumentos trazidos pela agravante não são capazes de modificar as conclusões da deliberação unipessoal.
+De início, conforme destacado na decisão que julgou o recurso especial interposto pela ora agravante, não há se falar em omissão ou em negativa de prestação jurisdicional na decisão do Tribunal a quo, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+Destaca-se que a Corte de origem, quando do julgamento dos embargos de declaração, manifestou-se sobre os pontos ora questionados pela recorrente, esclarecendo que (e-STJ, fls. 182-185):
+Outrossim, a embargante supõe a existência de novação de dívida, contudo, tal questão não merece maiores considerações, uma vez que não foi objeto de enfrentamento específico pela r. sentença que considerou a clareza e a ausência de abusividade da cláusula contratual 1, parágrafo quarto, ajustando que o cartão de titularidade da embargante e seus adicionais seriam cancelados, o que foi ratificado pelo v. acórdão.
+Quanto à cognoscibilidade da autora a respeito da cláusula de supressão de crédito do cartão, constou no acórdão: "A autora, plenamente capaz e gozando de suas faculdades mentais, apesar de idosa, espontaneamente dirigiu-se até a instituição financeira para resolver suas dívidas inculadas ao cartão, inexistindo razão para a nulidade da cláusula 1, parágrafo quarto, do instrumento de confissão de dívida, a qual foi redigida de maneira inteligível".
+Logo, desnecessário qualquer outro juízo de valor a esse respeito, porquanto a própria embargante afirma na inicial que recebeu cópia do contrato de confissão de dívida que informava sobre a impossibilidade de utilização do cartão -fl. 04.
+..
+Por fim, inviável o enfrentamento das questões suscitadas na petição de fls. 163/167, ofertada pela embargante logo após os declaratórios, para que seja admitida a quitação do débito e reconhecida a litigância de má-fé do embargado por ter afirmado que ela estava inadimplente com as obrigações, uma vez que extrapolam os limites da lide e do julgado, revelando a nítida pretensão de novo julgamento da causa. Aliás, a embargante exibe extratos bancários que já poderiam ter sido apresentados nos autos se realmente desejasse que fossem apreciados.
+Insurge-se a ora agravante, também, contra o não conhecimento do recurso especial no que diz respeito à aplicação da Súmula 284/STF, em virtude de não terem sido indicados, no recurso especial por ela interposto, quais os artigos teriam sido efetivamente violados relativamente à tese do julgamento extra petita.
+Ocorre que, muito embora a agravante mencione a violação a outros artigos, estes não se referem à tese acima mencionada. Assim, considerando que o recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão somente nos termos do que foi impugnado, é de rigor a incidência do enunciado sumular n. 284 do Supremo Tribunal Federal.
+Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. AUSÊNCIA INDICAÇÃO DISPOSITIVO. SÚMULA Nº 284/STF. TESE DO RECURSO ESPECIAL QUE DEMANDA REEXAME DE CLÁUSULAS CONTRATUAIS E DE CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULAS Nº 5 E 7/STJ.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada. 2. Aplica-se a orientação contida no enunciado n. 284 da Súmula do STF quando a tese defendida no recurso especial interposto com base nas alíneas "a" e "c" do art. 105, III, da Constituição Federal não vem embasada em alegação de violação a dispositivo de lei federal dito violado ou em divergência jurisprudencial.
+3. A tese defendida no recurso especial demanda reexame de cláusulas contratuais e do contexto fático e probatório dos autos, vedados pelas Súmulas nº 5 e 7/STJ.
+4. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp 1205305/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/09/2018, DJe 25/09/2018)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. HIGIDEZ DOS TÍTULOS. OFENSA AOS ARTS. 535, 165 E 458, II, DO CPC. INOCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO A ARTIGOS DA CONSTITUIÇÃO. DESCABIMENTO. AUSÊNCIA DE INDICAÇÃO PRECISA DOS DISPOSITIVOS VIOLADOS. INCIDÊNCIA DA SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DECISÕES FUNDAMENTADAS NA ANÁLISE DAS PROVAS. SÚMULAS 5 E 7.
+ ..
+2. O uso da fórmula aberta "e seguintes" para a indicação dos artigos tidos por violados revela fundamentação deficiente, o que faz incidir a Súmula n. 284/STF. Isso porque o especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente.
+ ..
+5. Agravo regimental não provido.
+AgRg no REsp 1124819/AM, Rel. Ministro Luis Felipe Salomão, Quarta
+Turma, julgado em 03/06/2014, DJe 12/06/2014)
+Por fim, quanto ao dano moral, mostra-se insuperável a aplicação da Súmula 7/STJ, não sendo o caso de revaloração das provas.
+Isso porque o Tribunal estadual concluiu pela inexistência de dano moral com base nas provas dos autos.
+Veja-se (e-STJ, fls. 156-158):
+A insurgência da recorrente diz respeito à ilegalidade de cláusula inserida em instrumento de confissão de dívida de cartão de crédito, referente ao cancelamento de tarjeta de sua titularidade (fls. 22/29).
+Ressalta-se que a autora, ora apelante, não impugna a existência das dívidas com o cartão de crédito, tampouco nega ter firmado o instrumento de confissão de dívida no valor de R$ 449,29, a ser pago em 03 parcelas de R$ 158,67, mas se volta contra eventual falta de informação, aduzindo, em síntese, que por ser pessoa idosa e hipossuficiente, não foi esclarecida pelo banco sobre referida cláusula contratual de supressão do crédito.
+Ora, a instituição financeira não está obrigada a conceder crédito irrestritamente e, no caso dos autos, verifica-se motivo justificável que autorizou o cancelamento do cartão de crédito da autora, consistente na existência confessa de débitos.
+Nesse aspecto, verifica-se que o parágrafo quarto da cláusula 1 do contrato não é hábil a gerar entendimento dúbio, ainda que se trate a sua subscritora de senhora com 67 anos de idade à época dos fatos, porquanto dispõe com clareza que: "Ajustam as partes que o cartão de titularidade do devedor, mencionado no item 1 do Quadro II- Resumo, bem como seus eventuais adicionais,sejam cancelados, não admitindo, portanto, novos utilizações".
+Com efeito, referida cláusula insere-se na esfera da atividade do apelado e não se afigura abusiva. Ao contrário, visa salvaguardar a situação financeira do cliente que já se encontra com dívidas, a fim de evitar novos inadimplementos.
+Ademais, mencionada cláusula não implica em limitação de direito do consumidor, nos termos do art. 54, §4º, do código consumerista, uma vez que a concessão de crédito pela instituição financeira não é obrigatória, tanto que cabe a ela analisar o perfil do cliente no momento da contratação.
+Portanto, o apelado não só informou a apelante sobre o cancelamento do cartão de crédito, como também, de forma clara e precisa, fezconstar que não seriam admitidas novas utilizações da tarjeta.
+Assim, se a apelante, não obstante informada, tentou se utilizar do cartão em algum estabelecimento comercial, conforme narra, constatando a inexistência de crédito, não pode pretender atribuir conduta ilícita ao apelado, de modo a ensejar sua responsabilidade civil.
+A autora, plenamente capaz e gozando de suas faculdades mentais, apesar de idosa, espontaneamente dirigiu-se até a instituição financeira
+para resolver suas dívidas vinculadas ao cartão, inexistindo razão para a nulidade da cláusula 1, parágrafo quarto, do instrumento de confissão de dívida, a qual foi redigida de maneira inteligível.
+Portanto, conforme asseverado na decisão agravada, inafastável o óbice da Súmula 7/STJ, uma vez que, para decidir de modo contrário, seria necessário o revolvimento do contexto fático-probatório, o que é incabível no âmbito do recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
