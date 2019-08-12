@@ -1,0 +1,18 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Homicídio. Trancamento de inquérito policial. Prisão preventiva. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão do Superior Tribunal de Justiça que indeferiu a cautelar requerida nos autos do HC 523.155, em tramitação no Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que foi instaurado inquérito policial contra o paciente para apurar a suposta prática do crime previsto no art. 121 do Código Penal. Em 1º.02.2019, o Juízo de origem decretou a prisão preventiva do investigado.
+    3. Na sequência, foi impetrado habeas corpus no Tribunal de Justiça do Estado do Paraná. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça. A Presidência do STJ indeferiu a medida cautelar.
+    4. Neste habeas corpus, a parte impetrante sustenta o excesso de prazo para a conclusão do inquérito policial e requer a concessão da ordem a fim de revogar a prisão cautelar do acionante. Cumulativamente, pleiteia o trancamento do inquérito policial.
+    Decido.
+    5. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    6. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF.
+    7. Inicialmente, registro que a petição inicial do habeas corpus não foi instruída com cópia da denúncia, do decreto prisional e do acórdão do Tribunal estadual, o que impede a exata compreensão da controvérsia, assim como atrai a orientação jurisprudencial do Supremo Tribunal Federal no sentido de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Relator o Ministro Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Relª. Minª. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski).
+    8. As peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar o imediato acolhimento da pretensão defensiva, notadamente se se considerar que a orientação jurisprudencial do STF é no sentido de que o trancamento de inquérito penal, por meio do habeas corpus, só é possível quando estiverem comprovadas, de plano, a atipicidade da conduta, a extinção da punibilidade ou a evidente ausência de justa causa (HC 103.891, Redator para o acórdão o Ministro Ricardo Lewandowski; HC 86.656, Rel. Min. Ayres Britto; HC 81.648, Rel. Min. Ilmar Galvão; HC 118.066-AgR, Relª. Minª. Rosa Weber; e HC 104.267, Rel. Min. Luiz Fux).
+    9. Na concreta situação dos autos, não é possível infirmar de plano os fundamentos adotados pelas instâncias de origem para acolher a pretensão defensiva.
+    10. Quanto ao mais, o STF já decidiu que eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo). No caso, para além de observar que o paciente está foragido, o fato é que, não restou evidenciada demora em razão de desídia do Poder Judiciário.
+    11. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+                Brasília, 12 de agosto de 2019.
+Ministro Luís Roberto Barroso
+                            Relator
