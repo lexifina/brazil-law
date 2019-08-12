@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TUTELA ANTECIPADA. REQUISITOS. EXAME. IMPOSSIBILIDADE. SÚMULA 735 DO STF. INCIDÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Não há violação do art. 1.022 do CPC/2015 quando o acórdão impugnado aprecia fundamentadamente a controvérsia, apontando as razões do seu convencimento, ainda que em sentido contrário à pretensão recursal.
+3. Em conformidade com o disposto na Súmula 735 do Supremo Tribunal Federal, o Superior Tribunal de Justiça firmou o entendimento de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (STJ, AgRg no AREsp n. 438.485/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 17/02/2014).
+4. A natureza precária e provisória do juízo de mérito desenvolvido em sede liminar, fundado na mera verificação da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada, não enseja o requisito constitucional do esgotamento das instâncias ordinárias, indispensável ao cabimento dos recursos extraordinário e especial, conforme exigido expressamente na Constituição Federal - "causas decididas em única ou última instância".
+5. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA:
+Cuida-se de agravo interno interposto pelo CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA - CADE contra decisão que, com fulcro no art. 253, II, parágrafo único, "a" e "b", do RISTJ, conheceu do agravo para não conhecer do recurso especial, ao fundamento de que não houve negativa de prestação jurisdicional e à vista da incidência da Súmula 735 do STF.
+Em suas razões, o agravante reitera os argumentos já delineados no apelo especial no sentido da existência de omissão no acórdão quanto à insuficiência da garantia oferecida. No mais, ratifica o acolhimento de prefaciais deduzidas no feito principal, bem assim da não incidência da Súmula 735 do STF.
+Requer a reforma da decisão agravada ou, caso contrário, seja submetido o feito a julgamento do Colegiado.
+Impugnação apresentada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TUTELA ANTECIPADA. REQUISITOS. EXAME. IMPOSSIBILIDADE. SÚMULA 735 DO STF. INCIDÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Não há violação do art. 1.022 do CPC/2015 quando o acórdão impugnado aprecia fundamentadamente a controvérsia, apontando as razões do seu convencimento, ainda que em sentido contrário à pretensão recursal.
+3. Em conformidade com o disposto na Súmula 735 do Supremo Tribunal Federal, o Superior Tribunal de Justiça firmou o entendimento de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (STJ, AgRg no AREsp n. 438.485/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 17/02/2014).
+4. A natureza precária e provisória do juízo de mérito desenvolvido em sede liminar, fundado na mera verificação da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada, não enseja o requisito constitucional do esgotamento das instâncias ordinárias, indispensável ao cabimento dos recursos extraordinário e especial, conforme exigido expressamente na Constituição Federal - "causas decididas em única ou última instância".
+5. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Considerado isso, observo que, não obstante os argumentos expendidos, a decisão agravada não merece retoque.
+Inicialmente, consigne-se que este Tribunal tem entendido que não há vulneração do art. 1.022, I e II, do CPC/2015, quando a controvérsia deduzida na origem é dirimida de modo claro e fundamentado, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional (AgInt no AREsp 990.169/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 06/04/2017, DJe 19/04/2017, e AgInt no REsp 1637988/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/03/2017, DJe 27/03/2017).
+No caso, o julgado recorrido decidiu de forma suficientemente fundamentada sobre o tema apontado como olvidado (e-STJ fls. 23.425/23.426).
+Por outro lado, o Tribunal de origem manteve a decisão indeferitória do pedido de antecipação de tutela, mantendo o seguro garantia judicial oferecido pela empresa ora agravada como meio legítimo de garantia prestada em juízo.
+Ocorre que, em conformidade com o disposto na Súmula 735 do Supremo Tribunal Federal, o Superior Tribunal de Justiça firmou o entendimento de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (STJ, AgRg no AREsp n. 438.485/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 17/02/2014).
+Isso porque a natureza precária e provisória do juízo de mérito desenvolvido em sede liminar, fundado na mera verificação da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada, não enseja o requisito constitucional do esgotamento das instâncias ordinárias, indispensável ao cabimento dos recursos extraordinário e especial, conforme exigido expressamente na Constituição Federal - "causas decididas em única ou última instância".
+No mesmo sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REQUISITOS PARA ANTECIPAÇÃO DE TUTELA. ENUNCIADOS N. 7 DO STJ E 735 DO STF. EXECUÇÃO EXTRAJUDICIAL. DECRETO-LEI 70/66. CONSTITUCIONALIDADE RECONHECIDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Esta Corte, em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+2. A verificação do preenchimento ou não dos requisitos necessários para a antecipação de tutela, no caso em apreço, demandaria o reexame de todo o contexto fático-probatório, inviável em sede de recurso especial, a teor do enunciado n. 7 da Súmula do STJ.
+3. O Superior Tribunal de Justiça e o Supremo Tribunal Federal reconhecem a constitucionalidade do Decreto-Lei 70/66. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 494.283/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/05/2016, DJe 03/06/2016)
+Acerca do tema, conferir ainda: AgInt no REsp 1554028/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 14/06/2016, DJe 24/06/2016; AgRg no AREsp 609.001/RN, Rel. Ministro OLINDO MENEZES, DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO, PRIMEIRA TURMA, julgado em 23/06/2015, DJe 04/08/2015, e AgRg no AREsp 714.049/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/04/2016, DJe 13/04/2016.
+Destarte, inexiste qualquer reparo a fazer na decisão recorrida.
+Por fim, advirto a parte embargante de que a oposição de embargos de declaração manifestamente protelatórios pode ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+É como voto.
