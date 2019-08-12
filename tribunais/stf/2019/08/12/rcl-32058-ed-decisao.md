@@ -1,0 +1,17 @@
+Trata-se de embargos de declaração opostos contra decisão por meio da qual neguei seguimento a esta reclamação (documento eletrônico 24).
+    A embargante alega, em suma, que:
+    “[c]onsta na decisão monocrática proferida em 01/02/2019, do processo de origem (0001064-12.2014.503.0013) da Reclamação Constitucional, que o início do julgamento da ADPF 324/DF, foi antes do acórdão proferido pelo Tribunal Superior do Trabalho do presente caso.
+    Ocorre que no dia 06/09/2019, foi protocolado Embargos de Declaração, questionando sobre a matéria de terceirização.
+    Sendo negado provimento ao Embargos de Declaração em 10/09/2018.
+    Desta forma, o acórdão ao qual se motivou a distribuição da Reclamação Constitucional, foi publicado após o julgamento da ADPF 324/DF” (pág. 2 do documento eletrônico 25).
+    É o relatório. Decido.
+    Bem examinados os autos, verifico que a embargante, a pretexto de sanar suposta contradição, busca apenas a rediscussão da matéria.
+    Com efeito, o entendimento desta Corte é no sentido de que os embargos de declaração não constituem meio processual adequado para a reforma do decisum, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão. Nesse sentido, destaco os seguintes precedentes desta Corte:
+    “EMBARGOS DE DECLARAÇÃO. DIREITO PENAL E PROCESSUAL PENAL.ESTELIONATO. ARTS. 171, § 3º, DO CÓDIGO PENAL E 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. NÃO OCORRÊNCIA. APRECIAÇÃO DAS TESES DEFENSIVAS. AUTORIA E MATERIALIDADE DELITIVA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. MANUTENÇÃO DO DECISUM. OMISSÃO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Os embargos de declaração visam ao aperfeiçoamento da prestação jurisdicional, com a sua entrega de forma completa, e ao aclaramento dos julgados, quando presentes omissão, contradição, obscuridade e/ou ambiguidade ao feitio do art. 619 do Código de Processo Penal, admitida, ainda, a correção de eventuais erros materiais. 2. Ausência de omissão justificadora da oposição de embargos declaratórios, ao feitio do art. 619 do CPP, a evidenciar o caráter meramente infringente da insurgência. 3. Embargos de declaração rejeitados” (ARE 1.140.216-AgR-ED/PA, Rel. Min. Rosa Weber).
+    “EMBARGOS DE DECLARAÇÃO – MATÉRIA PENAL – INOCORRÊNCIA DE CONTRADIÇÃO, OBSCURIDADE, OMISSÃO OU AMBIGUIDADE – PRETENDIDO REEXAME DA CAUSA – CARÁTER INFRINGENTE – INADMISSIBILIDADE NO CASO – EMBARGOS DE DECLARAÇÃO REJEITADOS. OS EMBARGOS DE DECLARAÇÃO NÃO SE REVESTEM, ORDINARIAMENTE, DE CARÁTER INFRINGENTE – Não se revelam cabíveis os embargos de declaração quando a parte recorrente – a pretexto de esclarecer uma inexistente situação de obscuridade, omissão, contradição ou ambiguidade (CPP, art. 619, e RISTF, art. 337) – vem a utilizá-los com o objetivo de infringir o julgado e de, assim, viabilizar um indevido reexame da causa. Precedentes” (ARE 1.101.140-ED-AgR-ED/SP, Rel. Min. Celso de Mello).
+    Na espécie, o que se tem é mero inconformismo da embargante com o resultado que não lhe foi favorável. Ao contrário do que sustenta, não há obscuridade a ser sanada, uma vez que a decisão deixa claro que “o julgamento dos referidos processos - e a consequente definição da tese - realizou-se em data posterior à edição do ato reclamado”.
+    Isso posto, rejeito os embargos de declaração (art. 1.024, § 2°, do CPC).
+    Publique-se.
+    Brasília, 12 de agosto de 2019.
+Ministro Ricardo Lewandowski
+Relator
