@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS CUMULADA COM OBRIGAÇÃO DE FAZER. INTERNET. CONTEÚDO OFENSIVO. REMOÇÃO. RESPONSABILIDADE CIVIL DO PROVEDOR. CARACTERIZAÇÃO. CULPA. REDUÇÃO DO VALOR. REVISÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SUMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça define que (a) para fatos anteriores à publicação do Marco Civil da Internet, basta a ciência inequívoca do conteúdo ofensivo pelo provedor, sem sua retirada em prazo razoável, para que este se torne responsável e, (b) após a entrada em vigor da Lei nº 12.965/2014, o termo inicial da responsabilidade solidária do provedor é o momento da notificação judicial que ordena a retirada do conteúdo da internet.
+3. Na hipótese, rever as conclusões firmadas pelas instâncias ordinárias, para excluir a culpa do provedor de internet pelos danos ocasionados à parte recorrida, demandaria a análise de fatos e provas dos autos, providência vedada no recurso especial em virtude do óbice da Súmula nº 7/STJ.
+4. Somente comporta a excepcional revisão por esta Corte a indenização irrisória ou exorbitante, características não verificadas na hipótese dos autos, em que o valor foi arbitrado em R$ 40.000,00 (quarenta mil reais).
+5. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de agravo interno interposto por GOOGLE BRASIL INTERNET LTDA. contra a decisão desta relatoria que negou provimento ao recurso especial em virtude do óbice da Súmula nº 7/STJ e da inaplicabilidade do Marco Civil da Internet ao caso.
+No presente recurso, a agravante afirma a não incidência da Súmula nº 7/STJ e insiste na tese de inexistência de dano moral, afirmando que a mera notificação extrajudicial não é suficiente para a retirada do conteúdo.
+Alternativamente, requer a redução do valor indenizatório.
+Intimada, a parte contrária apresentou impugnação às fls. 778/816 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS CUMULADA COM OBRIGAÇÃO DE FAZER. INTERNET. CONTEÚDO OFENSIVO. REMOÇÃO. RESPONSABILIDADE CIVIL DO PROVEDOR. CARACTERIZAÇÃO. CULPA. REDUÇÃO DO VALOR. REVISÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SUMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça define que (a) para fatos anteriores à publicação do Marco Civil da Internet, basta a ciência inequívoca do conteúdo ofensivo pelo provedor, sem sua retirada em prazo razoável, para que este se torne responsável e, (b) após a entrada em vigor da Lei nº 12.965/2014, o termo inicial da responsabilidade solidária do provedor é o momento da notificação judicial que ordena a retirada do conteúdo da internet.
+3. Na hipótese, rever as conclusões firmadas pelas instâncias ordinárias, para excluir a culpa do provedor de internet pelos danos ocasionados à parte recorrida, demandaria a análise de fatos e provas dos autos, providência vedada no recurso especial em virtude do óbice da Súmula nº 7/STJ.
+4. Somente comporta a excepcional revisão por esta Corte a indenização irrisória ou exorbitante, características não verificadas na hipótese dos autos, em que o valor foi arbitrado em R$ 40.000,00 (quarenta mil reais).
+5. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No caso, o tribunal de origem deu parcial provimento à apelação interposta pela ora agravante para condená-la ao pagamento de perdas e danos, no valor de R$ 40.000,00 (quarenta mil reais), para cada autor, pelos prejuízos decorrentes da veiculação na internet de conteúdo ofensivo à honra da parte recorrida em virtude da manutenção de vídeo no YouTube após ter sido notificada para retirá-lo.
+De fato, a orientação atual do Superior Tribunal de Justiça define que (a) para fatos anteriores à publicação do Marco Civil da Internet, basta a ciência inequívoca do conteúdo ofensivo pelo provedor, sem sua retirada em prazo razoável, para que este se torne responsável e, (b) após a entrada em vigor da Lei nº 12.965/2014, o termo inicial da responsabilidade solidária do provedor é o momento da notificação judicial que ordena a retirada do conteúdo da internet.
+É o que se colhe das seguintes ementas:
+"CIVIL E PROCESSUAL CIVIL. RECURSOS ESPECIAIS. AÇÃO DE OBRIGAÇÃO DE FAZER. RETIRADA DE CONTEÚDO INFRINGENTE. PROVEDOR DE PESQUISA. FILTRAGEM PRÉVIA DAS BUSCAS. EXCLUSÃO DE LINKS. IMPOSSIBILIDADE. DANO MORAL CARACTERIZADO. VALOR DE REPARAÇÃO. NÃO ALTERADO.
+1. Ação ajuizada em 23/03/2012. Recursos especiais interpostos em 16/05/2016 e 20/05/2016. Atribuídos a este Gabinete em 01/03/2017.
+2. A jurisprudência deste Superior Tribunal de Justiça afirma que, anteriormente à publicação do Marco Civil da Internet, basta a ciência inequívoca do conteúdo ofensivo, sem sua retirada em prazo razoável, para que o provedor se tornasse responsável. Precedentes.
+3. A regra a ser utilizada para a resolução de controvérsias deve levar em consideração o momento de ocorrência do ato lesivo ou, em outras palavras, quando foram publicados os conteúdos infringentes: (i) para fatos ocorridos antes da entrada em vigor do Marco Civil da Internet, deve ser obedecida a jurisprudência desta corte; (ii) após a entrada em vigor da Lei 12.965/2014, o termo inicial da responsabilidade solidária do provedor de aplicação, por força do art. 19 do Marco Civil da Internet, é o momento da notificação judicial que ordena a retirada de determinado conteúdo da internet.
+4. A ordem que determina a retirada de um conteúdo da internet deve ser proveniente do Poder Judiciário e, como requisito de validade, deve ser identificada claramente.
+5. O Marco Civil da Internet elenca, entre os requisitos de validade da ordem judicial para a retirada de conteúdo infringente, a "identificação clara e específica do conteúdo", sob pena de nulidade, sendo necessário, portanto, a indicação do localizador URL.
+6. Na hipótese, conclui-se pela impossibilidade de cumprir ordens que não contenham o conteúdo exato, indicado por localizador URL, a ser removido, mesmo que o acórdão recorrido atribua ao particular interessado a prerrogativa de informar os localizadores únicos dos conteúdos supostamente infringentes.
+7. A alteração do valor fixado a título de compensação por danos morais somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada.
+8. Recursos especiais não providos, com ressalva" (REsp 1.694.405/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/6/2018, DJe 29/6/2018).
+"AGRAVOS REGIMENTAIS NOS AGRAVOS EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO DO AGRAVO EM RECURSO ESPECIAL. POSSIBILIDADE. PREVISÃO NO REGIMENTO INTERNO DO STJ. VIOLAÇÃO DO ART. 535 DO CPC. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. OMISSÃO NÃO VERIFICADA. FUNGIBILIDADE ENTRE AGRAVO REGIMENTAL E EMBARGOS DE DECLARAÇÃO. NÃO CABIMENTO. AUSÊNCIA DE PREJUÍZO. RESPONSABILIDADE DO PROVEDOR DE PÁGINA WEB. NECESSIDADE DE NOTIFICAÇÃO JUDICIAL. MARCO CIVIL DA INTERNET (LEI N. 12.965/2014). APLICAÇÃO.
+1. Nos termos do art. 253 do RISTJ, permite-se ao relator conhecer do agravo para negar-lhe provimento se correta a decisão que inadmitiu o recurso especial, podendo manter a decisão agravada por seus próprios fundamentos.
+2. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula n. 182 do STJ).
+3. Inexiste omissão quando a decisão agravada dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+4. Não há falar em eventual fungibilidade entre o agravo regimental e os embargos de declaração quando, no caso concreto, a alegação de omissão pode ser analisada em agravo regimental, sem prejuízo para a parte agravante.
+5. A nova disciplina da Lei n. 12.965/2014 estatuiu que a responsabilidade civil dos provedores de aplicações de internet pela postagem por terceiros de conteúdos violadores de direitos reclama prévia ordem judicial específica.
+6. Com relação a fatos pretéritos à edição da Lei n. 12.965/2014, comprovado nos autos que houve prévia comunicação aos provedores de internet, ainda que não por meio de ordem judicial especifica, acerca de conteúdo violador de direito postado por terceiro e, desidiosamente, nada foi feito, são eles responsáveis civilmente pelos danos daí advindos.
+7. Agravos regimentais parcialmente conhecidos e desprovidos"
+(AgRg no AREsp 712.456/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 17/03/2016, DJe 28/03/2016- grifou-se)
+No caso concreto, o tribunal de origem reconheceu que houve a notificação extrajudicial, conforme comprova trecho do acórdão, transcrito no que interessa à espécie:
+"(..) restou incontroverso nos autos que os autores comunicaram à YOUTUBE, sobre o conteúdo impróprio inserido por terceiro de ma-fé. A página, com conteúdo difamatório ficou disponível na rede. Logo, a requerida se omitiu no seu dever de retirar a página contaminada do seu sítio, permitindo que o conteúdo ofensivo permanecesse acessível por vários dias" (e-STJ fl. 507).
+Portanto, não merece reforma o acórdão recorrido porque está em consonância com a jurisprudência pacífica desta Corte.
+Por fim, conforme destacado na decisão atacada, o Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrada indenização no valor de R$ 40.000,00 (quarenta mil reais).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
