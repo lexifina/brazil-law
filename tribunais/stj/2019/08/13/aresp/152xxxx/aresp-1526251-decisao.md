@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por MICHEL DOS SANTOS EVANGELISTA contra decisão do Tribunal de Justiça do Estado da Bahia que inadmitiu o recurso especial defensivo.
+Consta dos autos que o agravante foi condenado à pena de 3 anos de reclusão e de 10 dias-multa, como incurso no art. 16 da Lei n. 10.826/2003.
+Inconformada, a defesa interpôs recurso de apelação perante a Corte de origem, a qual negou provimento à insurgência, mantidos os termos da sentença condenatória.
+Apresentado recurso especial com fulcro no permissivo constitucional, esse não foi admitido, dando ensejo ao presente agravo, no qual a defesa ressalta que o óbice indicado não incidiria.
+Requer o provimento da insurgência para que o recurso especial tenha seguimento.
+Instado a opinar, o Ministério Público Federal manifestou-se pelo conhecimento do agravo e pelo provimento do recurso especial.
+É o relatório.
+Na presente insatisfação a parte pretende a aplicação do princípio da insignificância à hipótese dos autos, em razão da posse de apenas 1 munição de uso restrito, sem autorização e em desacordo com determinação legal, diante da atipicidade material da conduta.
+Apreciadas as razões delineadas no agravo em recurso especial e apesar dos fundamentos declinados pelo Tribunal de origem quando do juízo prévio de admissibilidade ali realizado, verifica-se que a insurgência comporta provimento.
+Quanto ao ponto, a jurisprudência firmada por esta Corte Superior quanto ao crime previsto no art. 16 da Lei n. 10.826/2003 é de que trata-se de delito de perigo abstrato, sendo desnecessário perquirir sobre a lesividade concreta da conduta, consumando-se o crime com a mera posse da munição, ainda que desacompanhada de arma de fogo.
+Por esses motivos, em regra, inaplicável, nos termos da jurisprudência desta Corte, o princípio da insignificância aos crimes de posse e de porte de arma de fogo ou munição.
+No entanto, recentemente, o Supremo Tribunal Federal reconheceu ser possível a incidência do princípio da bagatela na hipótese de apreensão de apenas uma munição desacompanhada de arma de fogo, tendo concluído pela total inexistência de perigo à incolumidade pública.
+Nesse sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL. ART. 12 DO ESTATUTO DO DESARMAMENTO (LEI 10.826/2003). POSSE IRREGULAR DE MUNIÇÃO DE USO PERMITIDO. AUSÊNCIA DE OFENSIVIDADE DA CONDUTA AO BEM JURÍDICO TUTELADO. ATIPICIDADE DOS FATOS. RECURSO PROVIDO.
+I - Recorrente que guardava no interior de sua residência uma munição de uso permitido, calibre 22.
+II - Conduta formalmente típica, nos termos do art. 12 da Lei 10.826/2003.
+III - Inexistência de potencialidade lesiva da munição apreendida, desacompanhada de arma de fogo. Atipicidade material dos fatos.
+IV - Recurso provido para determinar o trancamento da ação penal em relação ao delito descrito no art. 12 da Lei 10.826/2003 (Estatuto do Desarmamento).
+(RHC 143449, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 26/09/2017, PROCESSO ELETRÃ"NICO DJe-231 DIVULG 06-10-2017 PUBLIC 09-10-2017)
+Seguindo essa orientação, ambas as Turmas desta Corte Superior, em casos semelhantes, nos quais é encontrada pequena quantidade de munição desacompanhada de artefato capaz de deflagrá-las, têm reconhecido a atipicidade da conduta, pela incidência do princípio da insignificância, diante da ausência de afetação do bem jurídico tutelado pela norma penal.
+Na hipótese em exame, embora a conduta do agravante - posse de 1 munição de uso restrito - se amolde à tipicidade formal, que é a perfeita subsunção da conduta à norma incriminadora, e à tipicidade subjetiva, pois comprovado o dolo do agente, não há como reconhecer presente a tipicidade material, que consiste na relevância penal da conduta e do resultado típicos em face da significância da lesão produzida no bem jurídico tutelado pelo Estado.
+Isso porque, embora o Tribunal de origem tenha decidido pela tipicidade da conduta praticada pelo réu, haja vista que foi preso na posse de 1 munição, de arma de fogo, calibre .40 de uso restrito desacompanhada do armamento, tal quantidade deve ser considerada insignificante, fazendo jus o sentenciado à aplicação do princípio da insignificância, com vistas a absolvição pelo crime que lhe foi imputado pela denúncia.
+Nesses termos, vejam-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. POSSE ILEGAL DE MUNIÇÃO DE USO RESTRITO. CRIME DE PERIGO ABSTRATO. PEQUENA QUANTIDADE DE PROJÉTEIS DESACOMPANHADA DE ARMA DE FOGO. ATIPICIDADE MATERIAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal estadual confirmou a sentença que afastara a condenação dos Agravados quanto ao delito previsto no art. 16 da Lei n.º 10.826/2003 por constatar a atipicidade material da conduta, decorrente da pequena quantidade de munição encontrada em poder deles - 1 (uma) munição calibre 9mm (nove milímetros) -, aliada à inexistência de apreensão de qualquer arma capaz de deflagrar os referidos projéteis.
+2. Segundo a jurisprudência do Superior Tribunal de Justiça, embora o crime de porte de armamentos e munições se trate de delito de mera conduta e de perigo abstrato, nos casos de apreensão de pequena quantidade de munição desacompanhada do armamento capaz de deflagrá-la, é devido o reconhecimento da atipicidade material da conduta, tendo em vista a ausência de lesão ou probabilidade de dano ao bem jurídico tutelado pela norma penal.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 1427708 / MS, relatora Ministra LAURITA VAZ, SEXTA TURMA, Julgado em 14/05/2019, DJe 24/05/2019)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. POSSE DE MUNIÇÃO DE USO PERMITIDO E RESTRITO. PLEITO DE ABSOLVIÇÃO. INVIABILIDADE. CRIME DE PERIGO ABSTRATO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. GRANDE QUANTIDADE DE MUNIÇÃO APREENDIDA. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, o crime previsto no artigo 16 da Lei n. 10.826/2003 é de perigo abstrato, sendo desnecessário perquirir sobre a lesividade concreta da conduta. Tal crime se consuma com a mera posse da munição, ainda que desacompanhada de arma de fogo.
+2. Em recente julgado, analisando as circunstâncias do caso concreto, o STF reconheceu ser possível aplicar a bagatela na hipótese de apreensão de apenas uma munição de uso permitido desacompanhada de arma de fogo, tendo concluído pela total inexistência de perigo à incolumidade pública (RHC 143.449/MS, Rel. Ministro Ricardo Lewandowski, Segunda Turma, Dje 9/10/2017). Em casos semelhantes, nos quais foi encontrada pequena quantidade de munição, desacompanhada de artefato que pudesse deflagrá-la, ambas as Turmas desta Corte Superior reconheceram a atipicidade da conduta perpetrada por agente, pela incidência do princípio da insignificância, diante da ausência de afetação do bem jurídico tutelado pela norma penal incriminadora.
+3. No caso, a Corte de origem destacou "o número exagerado de munições apreendidas, ou seja, trinta e sete dentre as de uso permitido e restrito, sendo que vinte e uma das de uso permitido deflagradas, o que gera a presunção de que teriam sido usadas pouco tempo antes da apreensão". Desse modo, inaplicável ao caso o princípio da insignificância.
+4. Agravo regimental não provido.
+(AgInt no REsp 1618144 / PB, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, Julgado em 26/03/2019, DJe 01/04/2019)
+Dessa forma, dissonante a jurisprudência da Corte recorrida com relação ao entendimento firmado neste Sodalício, deve ser provida a pretensão defensiva e reconhecida a insignificância da conduta atribuída ao sentenciado na incoativa, devendo ser absolvido pela atipicidade material do fato.
+Ante o exposto, nos termos do art. 253, parágrafo único, inciso II, c, do RISTJ, conheço do agravo e dou provimento ao recurso especial a fim de absolver o agravante.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
