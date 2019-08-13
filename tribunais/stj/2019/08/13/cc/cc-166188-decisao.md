@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência instaurado entre o JUÍZO DE DIREITO DA VARA DE ÓRFÃOS E SUCESSÕES DE MANAUS - AM, suscitante, e o JUÍZO FEDERAL DA 8ª VARA DO JUIZADO ESPECIAL DA SEÇÃO JUDICIÁRIA DO ESTADO DE AMAZONAS, suscitado.
+Na origem, trata-se de ação em que beneficiária de pensão por morte de segurado, esta decorrente de acidente do trabalho, pede a exclusão de segunda beneficiária (fls. 8/13e).
+A demanda foi proposta perante o Juízo Federal, o qual declinou de sua competência para o Juízo Estadual, ora suscitante (fls. 139/152e).
+O Juízo de Direito estadual, por sua vez, suscita o presente Conflito Negativo de Competência perante este Superior Tribunal de Justiça, ao fundamento de que:
+"Trata-se de Ação de Exclusão de Depene entes Previdenciário proposta por [NOME] (menor) cm face de MARIA JUCILANDIA COSTA [NOME] e INSS - Instituto Nacional do Seguro Soe al, todos qualificados na exordial, visando, em síntese, excluir a Requerida MARIA JUCILANDIA do recebimento da pensão por morte deixada [NOME], genitor da Requerente e cônjuge da Requerida.
+Inicialmente distribuída por sorteio à 8a Vara do Juizado Especial Federal, Seção Judiciária do Amazonas, o referido Juízo declinou de sua competência por entender que a matéria versada competi i à Justiça Estadual, conforme decisão lançada às fls. 137/141.
+Distribuídos os autos à Justiça Estadual, o Juízo da 20a Vara Civel e de Acidentes do Trabalho de Manaus declinou de sua competência em favor de um dos Juízos de Família e Sucessões, com fulcro no que previa o art. 154, II da Lei de Organização Judiciária.
+Em virtude das alterações advindas com a entrada em vigor da LC nº 190/2018, o Juízo da 7a Vara de Família desta Capital declinou de sua competência em favor do presente Juízo de Órfãos e Sucessões, ante o que passou a prever o art. 154-A da Lei de Organização Judiciária do Estado do Amazonas.
+Ocorre que, em consonância com o entendimento ministerial de fls. 170/172, entendo que a matéria versada é de caráter nitidamente previdenciário e não de caráter sucessório e, como tal, não encontra previsão no rol de competências expressamente estabelecidas pelo art. 154-A da LC nº 17/1997 (alterada pela LC nº 178/2017 e 190/2018), senão vejamos:
+Art. 154-A. Ao Juiz da Vara de Órfãos e Sucessões compete:
+(..)
+Pelo exposto, por entender ser a presente demanda da competência da Justiça Federal, SUSCITO conflito negativo de competência, a ser dirimido pelo Superior Tribunal de Justiça, conforme art. 105, I, d da CF c/c art. 953 do NCPC" (fls. 175/176e).
+Ao que se vê da leitura dos autos, não se está a discutir a competência entre Juízo Federal e Estadual para o processamento do feito, mas trata-se de definir qual o juízo estadual competente para apreciar ação, de acordo com a legislação estadual incidente, em causa que se pleiteia a exclusão de beneficiária de pensão por morte de segurado, esta decorrente de acidente do trabalho (fls. 4/15e)
+Com efeito, nos termos do art. 105, I, d, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, "os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, o, bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+Interpretando o referido dispositivo constitucional, o Supremo Tribunal Federal decidiu, no julgamento do RE 590.409/RJ, submetido ao regime de repercussão geral, que "a competência STJ para julgar conflitos dessa natureza circunscreve-se àqueles em que estão envolvidos tribunais distintos ou juízes vinculados a tribunais diversos (art. 105, I, "d", da CF)" (STF, RE 590.409/RJ, Rel. Ministro RICARDO LEWANDOWSKI, PLENO, DJe de 28/10/2009).
+Ante o exposto, não conheço do Conflito de Competência.
+Dê-se ciência aos Juízos envolvidos e ao Ministério Público Federal.
+I.
