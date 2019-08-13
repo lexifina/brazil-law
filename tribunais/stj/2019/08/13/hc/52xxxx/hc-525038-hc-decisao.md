@@ -1,0 +1,14 @@
+DECISÃO
+Por meio da petição protocolizada sob o n. 00472661/2019, é requerida a extensão, em favor de [NOME], dos efeitos da decisão que concedeu liminarmente a ordem em favor de [NOME].
+Alega-se, em suma, que o requerente está em situação idêntica à do paciente.
+É o relatório.
+O art. 580 do Código de Processo Penal estabelece que, no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+Na hipótese, conforme asseverado pelo requerente, as situações fático-jurídicas dos réus são idênticas, tanto que o Juiz de piso aplicou a mesma dosimetria, com os mesmos fundamentos, para ambos (fls. 35/37). Sendo assim, ausente circunstância pessoal que autorize tratamento diferenciado do paciente, impõe-se a extensão dos efeitos da decisão, segundo orienta a jurisprudência desta Corte.
+Agora, passo, então, a redimensionar a pena do requerente.
+Mantida a pena-base em 4 anos de reclusão e 10 dias-multa, a qual, diante da ausência de circunstâncias agravantes e atenuantes, fica sendo a pena intermediária. Na terceira fase, a incidência das majorantes previstas no art. 157, § 2º, I e II, do Código Penal implica acréscimo de 1/3 da pena, ficando a reprimenda estabelecida em 5 anos e 4 meses de reclusão, e 13 dias-multa. Incide, no caso, o aumento de 1/5, em razão do concurso formal, elevando a pena para 6 anos, 4 meses e 24 dias de reclusão, e 15 dias-multa. Em razão da tentativa, a pena foi reduzida em metade, ficando em 3 anos, 2 meses e 12 dias de reclusão, e 7 dias-multa, a qual torno definitiva.
+Sobre o regime prisional, a fundamentação usada pelo Magistrado também foi a mesma para ambos os réus, a saber, nos termos do art. 33, § 2º, alínea "a", c/c art. 33, § 3º, c/c art. 59, todos do Código Penal  .. , o regime inicial de cumprimento das penas privativas de liberdade deve mesmo ser o fechado. Aliás, a despeito da primariedade dos dois réus, farta a jurisprudência neste sentido, quando o caso condiz com o concurso de assaltantes que empregam arma na intenção e vontade de rendição de vítimas distintas. Com isso, sem dúvida, os dois aqui condenados deram mostra de suas capacidades e arrojamento, em evidência de que acarretaram perigo à sociedade local (fl. 37 - grifo nosso).
+Ocorre que, não obstante os argumentos apresentados, a imposição de regime prisional mais severo do que o quantum da pena permite requer motivação idônea, o que, na espécie, não ocorreu. Houve, sim, violação das Súmulas 718 e 719 do Supremo Tribunal Federal e 440 deste Superior Tribunal.
+Ante o exposto, defiro o pedido de extensão para conceder ao corréu [NOME] o redimensionamento da sua pena para 3 anos, 2 meses e 12 dias de reclusão, e 7 dias-multa, e fixar o regime inicial aberto, mantendo-se, no mais, a sentença condenatória.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
