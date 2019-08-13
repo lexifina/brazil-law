@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PERDAS E DANOS. SOLIDARIEDADE DA SICOOB CENTRAL COM SUA FILIADA E RESPONSABILIDADE SOLIDÁRIA DOS CONSELHEIROS FISCAIS. INTEMPESTIVIDADE PREMATURA. RECEBIMENTO DE APELAÇÃO INTERPOSTA ANTES DO JULGAMENTO DOS EMBARGOS DECLARATÓRIOS. RATIFICAÇÃO OU ADITAMENTO. DESNECESSIDADE. AUSÊNCIA DE MODIFICAÇÃO DO JULGADO. NÃO INCIDÊNCIA DA SÚMULA 418/STJ. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL DE ANTÔNIO SEBASTIÃO DA COSTA MARQUES E OUTROS PROVIDO.
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME] e agravos em recurso especial interpostos por Central das Cooperativas de Crédito dos Estados do Mato Grosso e Mato Grosso do Sul (Sicoob Central MT/MS) e [NOME] e outros.
+Depreende-se dos autos que [NOME] propôs a presente ação de reparação de perdas e danos contra a Sicoob Central MT/MS e seus dirigentes, em virtude do prejuízo suportado em razão do fechamento abrupto de cooperativa filiada.
+Em sentença, o pedido foi julgado procedente, condenando-se a Sicoob Central MT/MS e seus dirigentes solidariamente. Contra a sentença, foram opostos embargos de declaração e sucessivos recursos de apelação pelos litisconsortes, os quais foram julgados conjuntamente em acórdão assim ementado (e-STJ, fl. 1.232):
+APELAÇÕES CÍVEIS - AÇÃO ORDINÁRIA DE PERDAS E DANOS - ILEGITIMIDADE DA SICOOB CENTRAL MT/MS REJEITADA - SOLIDARIEDADE DA SICOOB CENTRAL COM SUA FILIADA e RESPONSABILIDADE SOLIDÁRIA DO CONSELHEIRO FISCAL VISUALIZADAS - RECURSOS DESPROVIDOS.
+Se a Cooperativa Central tinha poderes de controle em relação a suas filiadas, não há como afastar a sua responsabilidade pelo prejuízo provocado pela filiada associada que encerrou suas atividades e deixou os correntistas com graves prejuízos.
+O abrupto fechamento da filiada implica em graves transtornos inclusive, psicológico ao correntista que se viu sem o valor depositado em conta -corrente e que havia sido confiado a cooperativa.
+Os administradores e membros do Conselho Fiscal de instituições financeiras respondem pelos atos que tiverem praticado ou omissões em que houverem incorrido, máxime se não demonstrada atuação com zelo..
+O acórdão recorrido decidiu o mérito das apelações da Sicoob Central MT/MS e de [NOME], entretanto não conheceu do recurso interposto por [NOME] e outros, sob o fundamento da intempestividade prematura.
+Os embargos de declaração opostos por [NOME] e outros foram rejeitados.
+Em seu recurso especial, [NOME] e outros sustentou a tempestividade do recurso de apelação que foi interposto dentro prazo legal, contado desde sua intimação. Asseveraram que, embora os litisconsortes tenham opostos posteriores aclaratórios e tenham sido intimidados posteriormente dando início ao prazo recursal, essa intimação nem sequer mencionava os nomes dos agravantes [NOME] e outros, de modo que não seria possível se interpretar a segunda intimação como reinício de seu prazo recursal. Apontou, assim, a violação dos arts. 183, 234, 473 e 535 do CPC/1973.
+Contrarrazões apresentadas (e-STJ, fls. 1.392-1.407).
+O recurso especial de [NOME] e outros não foi admitido em juízo prévio de admissibilidade, o que deu ensejo à interposição do presente agravo.
+Brevemente relatado, decido.
+De fato, o acórdão recorrido se encontra em dissonância à jurisprudência pacífica desta Corte Superior. Isso porque, não tendo havido modificação substancial no julgamento de embargos de declaração, não é exigível a reiteração do recurso de apelação já apresentado tampouco seu aditamento.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL (CPC/1973). AGRAVO DE INSTRUMENTO. RECURSO DE APELAÇÃO. TEMPESTIVIDADE. RECEBIMENTO DE APELAÇÃO INTERPOSTA ANTES DO JULGAMENTO DOS EMBARGOS DECLARATÓRIOS. RATIFICAÇÃO OU ADITAMENTO.
+DESNECESSIDADE. AUSÊNCIA DE MODIFICAÇÃO DO JULGADO. NÃO INCIDÊNCIA DA SÚMULA 418/STJ. PRECEDENTES DA CORTE ESPECIAL. AGRAVO DESPROVIDO.
+(AgInt no AREsp n. 1.268.080/RJ, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe 17/10/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. APELAÇÃO INTERPOSTA ANTES DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. RATIFICAÇÃO. DESNECESSIDADE. AUSÊNCIA DE ALTERAÇÃO DO JULGAMENTO ANTERIOR. SÚMULA 418/STJ. CLÁUSULAS LIMITATIVAS DE REEMBOLSO PACTUADAS. REEXAME. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.129.215/DF, em sessão realizada no dia 16/9/2015, conferiu nova interpretação à Súmula 418/STJ, no sentido de que somente haverá necessidade de ratificação do recurso interposto na pendência dos embargos de declaração quando houver alteração na conclusão do julgamento anterior.
+2. O Tribunal de origem, à luz da interpretação de cláusulas contratuais e de circunstâncias fático-probatórias, concluiu que deve prevalecer a limitação contratual ao valor do reembolso, no que tange às despesas médico/hospitalares em hospital não conveniado. No caso, para desconstituir o entendimento exposto pelo Tribunal local e acolher a pretensão recursal, seria imprescindível o reexame de prova e a interpretação de cláusulas contratuais, inviável em sede de recurso especial, ante o disposto nas Súmulas 5 e 7 desta Corte.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.199.800/SP, Rel. Min. Raul Araújo, Quarta Turma, DJe 16/10/2018)
+Com esses fundamentos, conheço do agravo interposto por [NOME] e outros para dar provimento ao recurso especial, cassando o acórdão recorrido quanto à tempestividade do recurso de apelação e determinando a devolução dos autos para novo julgamento.
+Por ora, fica prejudicado o julgamento do recurso especial de [NOME] e do agravo em recurso especial de Sicoob Central MT/MS, diante da possibilidade de modificação do acórdão impugnado, o que poderá ensejar eventual aditamento das razões recursais.
+Publique-se.
