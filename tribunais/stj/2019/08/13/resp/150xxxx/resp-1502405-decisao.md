@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por CENTRAL AÇUCAREIRA SANTO ANTÔNIO S/A, mediante o qual se impugna acórdão, promanado do Tribunal Regional Federal da 5ª Região, assim ementado:
+"TRIBUTÁRIO. ADESÃO A PARCELAMENTO. SUSPENSÃO DO PRAZO PRESCRICIONAL. INÍCIO DA CONTAGEM DO PRAZO COM O TRÂNSITO EM JULGADO DO RECURSO EXTRAORDINÁRIO. EXTINÇÃO DO CRÉDITO TRIBUTÁRIO. NÃO OCORRÊNCIA.
+1. Apelação contra sentença que julgou improcedente pedido para declarar a inexistência de relação jurídica referente ao crédito tributário objeto do processo indicado, decorrente de autuação fiscal tendo como objeto a exigência da COFINS.
+2. Os débitos do processo administrativo não foram efetivamente incluídos no parcelamento, já que foi feita a opção pela "não inclusão da totalidade dos débitos". Adesão ao parcelamento em, 02/09/2009, nos termos da Lei nº 11.941/2009, pela não totalidade dos débitos, mas só em 16/08/2010, a autora especificou quais seriam os débitos parcelados, deixando de fora os do aludido processo administrativo.
+3. A autora obteve em 08/10/2004, decisão liminar cautelar que concedeu efeito suspensivo ao recurso extraordinário por ela apresentado no STF. Em decorrência, o termo de contagem da prescrição só se iniciou com o trânsito em julgado do acórdão que julgou o RE, em 03/04/2006.
+4. O art. 127 da Lei nº 12.249/2010 deve ser aplicado, de forma retroativa, desde a data da adesão ao parcelamento, por se tratar de norma interpretativa, com fulcro no art. 106, I, do CTN.
+5. O prazo prescricional ficou suspenso de 02/09/2009 a 16/08/2010. Como teve início o referido prazo em 03/04/2006, não há que falar em extinção do crédito tributário por prescrição.
+6. Apelação não-provida" (fl. 565e).
+No Recurso Especial, manejado com base na alínea a do permissivo constitucional, alega-se violação aos arts. 106, I, e 111, I, do CTN e 127 da Lei 12.249/2010.
+Sustenta-se, em síntese, o seguinte:
+"Como se observa, a decisão recorrida partiu da (falsa) premissa segundo a qual desde a adesão ao parcelamento (02.09.2009), o crédito questionado nestes autos já estaria com exigibilidade suspensa.
+Essa premissa não é verdadeira, porquanto o art. 127 da Lei n. 12.249/2010, que promoveu a suspensão de exigibilidade do crédito tributário (e, por consequência, a suspensão da fluência do prazo prescricional) somente entrou em vigor em 14.06.2010, na data de sua publicação. Até lá não havia suspensão de exigibilidade do crédito tributário.
+Essa suspensão, porém, somente perdurou até 16.08.2010, data em que a Recorrente indicou os débitos a serem parcelados, conforme consignado no próprio acórdão recorrido.
+Assim dispôs o art. 127 da Lei n. 12.249/2010:
+(..)
+Portanto, a simples adesão ao parcelamento não significara a suspensão da exigibilidade automática de todos créditos tributários da Recorrente. Do contrário, estar-se-ia admitindo uma suspensão de exigibilidade do crédito tributário retroativa, o que seria um absurdo, "permissa venia", pois o art. 127 da Lei n. 12.249/2010 sequer existia no momento da adesão!
+A União induziu o tribunal "a quo" a erro, fazendo-o crer que desde a adesão ao parcelamento todos os débitos já estariam com exigibilidade suspensa (inclusive os não parcelados).
+Como se nota, ainda considerando o período de suspensão de exigibilidade da Lei n. 12.249/2010 (aproximadamente 60 dias e não um ano, como supôs o tribunal "a quo"!), tem-se que o prazo de prescrição, mesmo se iniciado com o trânsito em julgado do recurso extraordinário (03.04.2006), e suspenso no período de 14.06.2010 e 16.08.2010, findaria em junho/2011. A execução fiscal correspondente, porém, somente foi ajuizada em 03.08.2011 e o despacho ordenando a citação (marco interruptivo da prescrição), proferido em 30.08.2011.
+A manobra interpretativa feita na respeitável decisão recorrida - ao admitir a suspensão de exigibilidade do crédito tributário com efeitos retroativos - violou frontalmente o disposto no art. 111, I do Código Tributário Nacional:
+(..)
+De fato, caso o legislador pretendesse conferir eficácia retroativa ao art. 127 da Lei n. 12.249/2010 deveria dizê-lo expressamente (o que já seria um absurdo e inadmissível).
+As hipóteses de suspensão de exigibilidade do crédito tributário são somente aquelas estabelecidas pela lei, que, no particular, deve ser interpretada literalmente, nos termos do art. 111, I do CTN.
+No caso dos autos, a lei não dispôs sobre a retroatividade da suspensão de exigibilidade e o legislador não poderia fazê-lo, pois a volta ao tempo, em tal hipótese, levaria a uma situação absurda, beneficiando a Fazenda Nacional como o alargamento de seu prazo prescricional e prejudicando o contribuinte que somente seria sabedor de que o seu débito estaria com exigibilidade suspensa posteriormente ao fato ensejador da suspensão.
+Silenciando a lei, não é lícito ao magistrado simplesmente criar um efeito retroativo para beneficiar a União com suspensão da fluência do seu prazo prescricional, "permissa venia".
+O acórdão recorrido, portanto, violou expressamente o disposto no art. 127 da Lei n. 12.249/2010 e o art. 111, I do Código Tributário Nacional" (fls. 572/573).
+Requer-se, por fim, "seja conhecido o presente recurso especial, interposto com base no art. 105, III, "a" da Constituição Federal, porque presentes os seus pressupostos de admissibilidade, e lhe seja DADO PROVIMENTO para reconhecer-se a violação aos arts. 106, I, 111, I do CTN e ao art. 127 da lei n. 12.249/2010, e reformar-se o acórdão recorrido, reconhecendo a prescrição do crédito tributário discutido nestes autos, julgando-se totalmente procedente a ação proposta, nos termos requeridos na exordial" (fl. 576e).
+Contrarrazões às fls. 582/587e.
+Recurso Especial admitido (fl. 589e).
+O presente recurso não merece prosperar.
+Impossível conhecer da pretensão recursal.
+Dessarte, ao afirmar a ocorrência da suspensão do prazo prescricional, entre o pedido de adesão ao parcelamento e a indicação dos débitos a serem incluídos naquele, assim se manifestou, o Tribunal de origem:
+"15. Ademais, não haveria outra interpretação a ser dada senão aquela realizada pelo próprio legislador, pois, do contrário, teríamos a seguinte situação: a Fazenda Nacional, enquanto não houvesse indicação de quais débitos seriam incluídos no parcelamento, poderia executar todo e qualquer débito (mesmo aquele que o contribuinte teve a pretensão de incluir no parcelamento). Isso seria um verdadeiro absurdo. Enfim, o dispositivo fora feito até mesmo em proteção aos contribuintes que fizeram a opção pelo parcelamento em parte dos seus débitos, havendo, portanto, a suspensão desde a adesão" (fl. 560e).
+Como não houve, no Recurso Especial, impugnação específica a esse fundamento do acórdão recorrido - no sentido de que, caso sufragada a interpretação defendida pelo ora recorrente, não haveria como afastar a exigibilidade imediata inclusive dos débitos que o contribuinte pretende incluir no parcelamento -, tem-se a deficiência formal do recurso, sendo de aplicar, no caso, por analogia, a Súmula 182/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC").
+I.
