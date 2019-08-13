@@ -1,0 +1,33 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSO CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. INCLUSÃO DO NOME DO DEVEDOR EM CADASTRO DE INADIMPLENTES. POSSIBILIDADE. PROVIDÊNCIA A CARGO DO JUÍZO. TEOR DO ART. 782, § 2o. DO CÓDIGO FUX. APLICAÇÃO SUBSIDIÁRIA DO REFERIDO DIPLOMA ÀS EXECUÇÕES FISCAIS. RECURSO ESPECIAL DA ANTT PROVIDO.
+1. Trata-se de Recurso Especial interposto pela ANTT, com fulcro na alínea a do art. 105, III da Constituição Federal, contra acórdão de lavra do TRF da 4a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. INCLUSÃO DO EXECUTADO EM CADASTRO DE INADIMPLENTES. SERASAJUD. ARTIGO 782, § 3º, DO CÓDIGO DE PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL.
+1. A insurgência recursal diz respeito à possibilidade de inclusão do nome da parte executada em cadastro de inadimplentes, por determinação do Juízo, nas execuções fiscais.
+2. Ainda que se trate de medida prevista na legislação processual (artigo 782, § 3º, do CPC) e, inclusive, objeto de convênio celebrado entre o Conselho Nacional de Justiça e a SERASA, a inclusão do nome do executado em cadastros de inadimplentes, por determinação do juiz, há de ser implementada, em princípio, apenas em sede de execução definitiva de título judicial, como indica o artigo 782, § 5º, do CPC.
+3. No caso, em se tratando de título executivo extrajudicial, não há qualquer óbice a que o próprio credor providencie a efetivação da medida, que, aliás, é realizada corriqueiramente por empresas de todo o País. A intervenção judicial só caberá se eventualmente for comprovada dificuldade significativa ou impossibilidade de fazê-lo por seus próprios meios.
+4. Agravo de instrumento desprovido (fls. 57).
+2. Sustenta a parte recorrente que o acórdão recorrido viola os arts. 782, § 3o. e 5o. do Código Fux. Afirma que a medida coercitiva pretendida é aplicável às Execuções Fiscais e, ainda, que o diploma processual é expresso em conferir a perfectibilização do ato de inscrição do devedor em cadastro de inadimplentes ao magistrado.
+3. É o relatório.
+4. O art. 782, § 3o. do Código Fux dispõe o seguinte:
+Art. 782. § 3o A requerimento da parte, o juiz pode determinar a inclusão do nome do executado em cadastros de inadimplentes.
+5. Sobre o tema, a jurisprudência deste Sodalício entende que é possível a inclusão de débitos de natureza tributária inscritos em dívida ativa nos cadastros de proteção ao crédito, independentemente de sua cobrança mediante Execução Fiscal (RMS 31.859/GO, Rel. Min. HERMAN BENJAMIN, DJe 1o.7.2010). No mesmo sentido: AREsp. 1.339.480/RJ, Rel. Min. FRANCISCO FALCÃO, DJe 14.2.2019; AgRg no AREsp. 800.895/RS, Rel. Min. HUMBERTO MARTINS, DJe 5.2.2016.
+6. Na espécie, o Tribunal de origem assinalou que o Código de Processo Civil, em seu artigo 782, § 5º, é claro ao dispor que a possibilidade de inclusão do nome da parte executada em cadastro de inadimplentes, por determinação do juízo, aplica-se apenas à execução definitiva de título judicial (fls. 61).
+7. No entanto, o referido entendimento não se coaduna com prescrições legais e o com entendimento consolidado desta Corte Superior.
+8. Primeiro porque o art. 771 do Código Fux é claro ao estabelecer a incidência do art. 782 aos processos executivos em geral e não só àqueles decorrentes de título judicial, in verbis:
+Art. 771. Este Livro regula o procedimento da execução fundada em título extrajudicial, e suas disposições aplicam-se, também, no que couber, aos procedimentos especiais de execução, aos atos executivos realizados no procedimento de cumprimento de sentença, bem como aos efeitos de atos ou fatos processuais a que a lei atribuir força executiva.
+9. Segundo, o art. 1o. da LEF determina a aplicação subsidiária do Código Fux às Execuções Fiscais, não havendo qualquer disposição naquela Lei conflitante com o art. 782 de modo a autorizar o juiz de afastá-lo do caso concreto.
+10. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. DECLARAÇÃO DO VALOR ENTENDIDO COMO CORRETO E AUSÊNCIA DE APRESENTAÇÃO DA MEMÓRIA DE CÁLCULO. APLICAÇÃO SUBSIDIÁRIA DO ART. 739-A, § 5º, DO CPC. POSSIBILIDADE. REJEIÇÃO LIMINAR DA AÇÃO DESCONSTITUTIVA. EMENDA DA INICIAL. INVIABILIDADE.
+I- Diante da reforma no processo de execução civil, veiculada pela Lei n. 11.382/06, necessária sua compatibilização com o regime jurídico da cobrança da Dívida Ativa da União, dos Estados, do Distrito Federal, dos Municípios, e de suas respectivas autarquias (art. 1º da Lei n. 6.830/80).
+II- Constatada uma relação de complementaridade entre ambos, e não de especialidade excludente, autorizada está a aplicação das normas do Código de Processo Civil naquilo que não conflitem com a Lei n. 6.830/80, em caráter subsidiário.
+(..)
+VI- Agravo Regimental provido (AgRg no REsp. 1.453.745/MG, Rel. p/ Acórdão Min. REGINA HELENA COSTA, DJe 17.4.2015).
+
+PROCESSO CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. EFEITO SUSPENSIVO. ART. 739-A, § 1º, DO CPC. APLICABILIDADE.
+1. Nos termos do disposto no art. 1º da Lei 6.830/80, o preceito do Estatuto Processual Civil é aplicável em execução fiscal de forma subsidiária. No caso, inexistente norma específica na legislação especial sobre os efeitos suspensivos aos embargos, cabível a aplicação do disposto no art. 739-A do CPC, incluído pela Lei 11.382/2006. Precedentes.
+2. Esse entendimento foi referendado no REsp n. 1.272.827/PE, da relatoria do Ministro Mauro Campbell Marques, DJe 31.5.2013, julgado em 22.5.2013, sob o rito do art. 543-C do CPC e da Resolução 8/2008 do STJ.
+3. Agravo regimental não provido (AgRg no REsp. 1.306.422/RS, Rel. Min. CASTRO MEIRA, DJe 1o.7.2013).
+11. Assim, ao entender que a inclusão do nome do executado em cadastro de inadimplente seria medida a ser adotada diretamente pela exequente, o Tribunal de origem negou vigência ao art. 782, § 3o. do Código Fux, adotando premissa jurídica equivocada.
+12. Por fim, é de bom alvitre que seja determinado o retorno dos autos para que, a partir dos elementos jurídicos delineados nessa decisão, se proceda a novo julgamento acerca da pertinência e/ou necessidade da inclusão do nome do executado em cadastro de inadimplentes no caso concreto, a fim de evitar indevida supressão de instância.
+13. Ante o exposto, dá-se provimento ao Recurso Especial da ANTT, determinando-se o retorno dos autos ao Tribunal de origem para que, a partir dos elementos jurídicos delineados nessa decisão, se proceda a novo julgamento acerca da pertinência e/ou necessidade da inclusão do nome do executado em cadastro de inadimplentes no caso concreto, a fim de evitar indevida supressão de instância.
+14. Publique-se. Intimações necessárias.
