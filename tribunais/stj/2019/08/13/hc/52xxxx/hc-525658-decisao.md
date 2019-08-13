@@ -1,0 +1,18 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO DIRIGIDA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM PRÉVIO WRIT AINDA NÃO JULGADO PELA CORTE A QUO. PLEITO DE CONCESSÃO DE PRISÃO DOMICILIAR. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BRUNA OLIVEIRA DA SILVA, apontando como autoridade coatora Desembargador integrante da 2.ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, relator do HC.º 0206903- 96.2019.8.21.7000.
+Consta nos autos que a Paciente foi presa preventivamente, nos autos da Ação Penal n.º 139/2.19.0000619-7, pela suposta prática do delito descrito no art. 121, § 2.º, inciso IV, c.c. o art. 74, inciso I, ambos do Código Penal.
+Pretendendo a concessão da prisão domiciliar, a Defesa impetrou prévio writ, cujo pleito liminar foi indeferido.
+No presente habeas corpus, o Impetrante reitera o pedido originário de substituição da custódia preventiva pela domiciliar, alegando que a Acusada tem dois filhos menores de 12 (doze) anos, um deles ainda necessitando do leite materno.
+É o relatório inicial.
+Passo à análise do pedido urgente.
+O entendimento firmado pelo Supremo Tribunal Federal e por este Superior Tribunal de Justiça é no sentido de não se admitir habeas corpus contra decisão denegatória de liminar proferida em outro writ na Instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n.º 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, a este Superior Tribunal de Justiça (AgRg no HC 447.280/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe de 01/06/2018; AgRg no HC 446.100/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe de 21/05/2018; AgRg no HC 444.105/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe de 21/05/2018; AgRg no HC 376.599/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe de 12/06/2018).
+A mitigação deste entendimento para forçar o pronunciamento adiantado da Instância Superior só pode ocorrer em situações em que se evidenciar decisão absolutamente teratológica e desprovida de qualquer razoabilidade.
+Na espécie, no entanto, verifico não ser possível analisar a viabilidade do pleito deduzido, em face da instrução deficitária do writ, visto que a Parte Impetrante não acostou aos autos a cópia da decisão proferida pela Corte a quo que indeferiu o pedido liminar, o que inviabiliza a análise do constrangimento ilegal alegado.
+Como se sabe, compete à Defesa narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso) - v.g. STJ, HC 245.430/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 21/02/2013, DJe 28/02/2013.
+Dessa forma, como a Defesa não se desincumbiu do ônus de formar adequadamente os autos, olvidando-se de que o habeas corpus "pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe de 28/06/2018), não há como apreciar o mérito do writ.
+No mesmo sentido: HC n.º 508.081/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe de 08/05/2019; HC n.º 507.614/ES, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJe de 08/05/2019; HC n.º 507.591/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe de 08/05/2019; HC n.º 507.828/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe de 08/05/2019.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
