@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. TESES NÃO ANALISADAS NA ORIGEM. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. RECURSO DESPROVIDO.
+1. As teses deduzidas perante o Tribunal de origem que não foram analisadas no acórdão impugnado não comportam conhecimento na instância superior sob pena de incorrer em indevida supressão de instância. Caberia a defesa opor embargos de declaração a fim de suprir tal omissão no julgado do Tribunal a quo. Precedentes.
+2. Agravo Regimental no Habeas Corpus desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+ Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Cuida-se de Agravo Regimental interposto contra decisão de minha lavra, na qual não conheci do habeas corpus em razão da matéria atinente à revelia do acusado não ter sido debatida no acórdão impugnado.
+No presente Recurso, a Defesa aduz que "tanto na petição inicial do pedido de habeas corpus (sic), quanto no corpo do acórdão impugnado, as questões de fato e de direito foram suficientemente enfrentadas, porém rechaçadas por aquela corte" (fl. 262).
+Requer, assim, a concessão da ordem nos termos da inicial.
+É o breve relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+A decisão impugnada deve ser mantida por seus próprios fundamentos.
+Da atenta leitura do acórdão impugnado, verifica-se que que o Tribunal de Justiça do Distrito Federal e Territórios reconheceu a nulidade na intimação por edital do teor da sentença condenatória.
+Os fundamentos utilizados em primeiro grau para a decretação da revelia não foram abordados no acórdão impugnado, tendo tal ato apenas sido citado quando da justificativa da manutenção da custódia cautelar determinada na sentença.
+Ainda que se alegue que o pedido de decretação de nulidade da revelia constavam da apelação interposta perante o Tribunal de Justiça do Distrito Federal e Territórios, caberia a defesa, nos termos da jurisprudência desta Corte Superior, interpor Embargos de Declaração a fim de sanar as referidas omissões.
+Nesse sentido, trago os seguintes julgados de ambas as turmas com competência criminal do Superior Tribunal de Justiça:
+PENAL. HABEAS CORPUS. CONCUSSÃO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. LAPSO PRESCRICIONAL DE 8 ANOS ENTRE A DATA DO FATO E O RECEBIMENTO DA DENÚNCIA NÃO DECORRIDO. REGIME PRISIONAL DE CUMPRIMENTO DE PENA. OMISSÃO DO JULGADO NÃO IMPUGNADA PELA DEFESA. SUPRESSÃO DE INSTÂNCIA. SUBSTITUIÇÃO DA PENA CORPORAL EM RESTRITIVA DE DIREITOS. PENA SUPERIOR A 4 ANOS DE RECLUSÃO. REQUISITO OBJETIVO NÃO PREENCHIDO. WRIT DENEGADO.
+1. O acórdão ora impugnado reconheceu como data da consumação do crime o dia 1º de julho de 2000, pois a peça acusatória afirmou que a prática delitiva foi cometida no segundo semestre de 2000. Ora, ao contrário do sustentado pela impetrante, o fato de não ter sido precisada a data da consumação do delito não permite conclusão no sentido de que o crime deve ser tido como cometido no dia 1º de janeiro de 2000, pois a denúncia delimitou, dentro do possível, o contexto temporal em que a conduta foi praticada, não sendo razoável reconhecer como termo inicial da contagem do prazo prescricional data anterior ao semestre no qual a conduta foi praticada.
+ 2. Considerando a pena de 2 anos e 2 meses de reclusão estabelecida para o crime de concussão, não se cogita a prescrição da pretensão punitiva do crime praticado contra a empresa "Carlindo Soares Produções Artísticas Ltda.", pois não restou superado o lapso temporal de 8 anos entre a data do fato delitivo e o recebimento da denúncia (CP, art. 109, IV).
+3. No caso, os autos revelam ter sido, inicialmente, imposta ao réu a pena de 11 anos e 11 meses de reclusão, em regime prisional fechado, pela prática do delito de formação de quadrilha e de 5 crimes de concussão, praticados em concurso material. Assim sendo, a fixação do regime prisional mais severo era decorrência lógica da quantidade de sanção corporal estabelecida, nos moldes do art. 33, § 2º, "a", do CP, sendo então desnecessário tecer maiores considerações sobre o tema. De igual modo, estabelecida pena superior a 4 anos de reclusão, era despiciendo perquirir a conveniência da substituição da pena privativa de liberdade por restritivas de direitos, porquanto restou definida reprimenda muito superior ao limite objetivo estabelecido no art. 44, I, do CP.
+4. No julgamento dos dois aclaratórios opostos pela defesa, o Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro reconheceu o advento da prescrição da pretensão punitiva de três dos cinco delitos de concussão praticados pelo réu, assim como do crime de formação de quadrilha, o que implicou redução da reprimenda a 4 anos e 4 meses de reclusão pelos dois crimes do art. 316 do CP remanescentes. Todavia, conquanto tenha reduzido a pena final do ora paciente, verifica-se que o referido colegiado olvidou-se de proceder ao exame da conveniência da manutenção do regime prisional mais severo para o desconto da reprimenda.
+5. Caberia à defesa opor embargos de declaração contra o acórdão, a fim de suprir tal omissão, como, de fato, o fez em duas oportunidades anteriores.
+Entrementes, percebe-se que o acórdão condenatório transitou em julgado, sem que a omissão do órgão julgador houvesse sido impugnada através de novos aclaratórios.
+6. O silêncio do Colegiado de origem obsta a apreciação de tal matéria por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+7. Ainda que o acórdão não tenha se manifestado sobre a possibilidade de conversão da pena corporal em restritivas de direitos, considerando o quantum de pena definida ao réu, descabe falar em concessão do benefício ora vindicado, pois mesmo após ter sido decretada a extinção da punibilidade de 4 dos 6 crimes descritos na peça acusatória, a reprimenda foi definida em patamar superior a 4 anos de reclusão, não restando atendido, portanto, o requisito de natureza objetiva estabelecido pelo art. 44 do Código Penal.
+8. Writ denegado (HC 375.788/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 28/6/2018).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AMEAÇA E PORTE ILEGAL DE ARMA DE FOGO. TRANCAMENTO DA AÇÃO PENAL COM RELAÇÃO AO PORTE DE ARMA. MERA IRREGULARIDADE ADMINISTRATIVA. TEMA NÃO ANALISADO PELAS INSTÂNCIA A QUO. SUPRESSÃO DE INSTÂNCIAS. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência desta Corte superior.
+2. Constatado que a instância de origem não analisou a possibilidade de trancamento da ação penal em razão da ocorrência de mera irregularidade administrativa, inviável o debate diretamente por este Tribunal superior sob pena de incorrer em indevida supressão de instância.
+3. Caberia à defesa a oposição de embargos de declaração perante a Corte estadual a fim de provocar o exame pormenorizado da matéria, ônus do qual não se desincumbiu.
+4. Agravo regimental improvido (AgRg no RHC 96.217/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 4/9/2018).
+Ante o exposto, voto no sentido de negar provimento ao presente Agravo Regimental no Habeas Corpus.
