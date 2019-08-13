@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO REGIMENTAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. EXAME CRIMINOLÓGICO DESFAVORÁVEL. DILAÇÃO PROBATÓRIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para que se perquira o preenchimento do requisito de ordem subjetiva, de forma a permitir a concessão da progressão de regime, alcançando conclusão diversa da exarada pela Corte de origem, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+2. Agravo regimental não provido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O agravante, ALAN DA SILVA VICENTE, requer a reconsideração da decisão de fls. 159-161, em que indeferi liminarmente o habeas corpus, dada a patente necessidade de dilação probatória para se infirmar a conclusão a que chegaram as instâncias ordinárias.
+Para tanto, assere que "não é necessário, de forma alguma, interferir no exame do acervo probatório para a concessão da progressão, pois já resta mais do que evidente que o agravante possui o requisito subjetivo para a progressão" (fl. 167).
+EMENTA
+AGRAVO REGIMENTAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. EXAME CRIMINOLÓGICO DESFAVORÁVEL. DILAÇÃO PROBATÓRIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para que se perquira o preenchimento do requisito de ordem subjetiva, de forma a permitir a concessão da progressão de regime, alcançando conclusão diversa da exarada pela Corte de origem, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+2. Agravo regimental não provido.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme já apontado na decisão vergastada, o Tribunal a quo, ao negar provimento ao agravo em execução interposto pela defesa, asseverou que:
+ ..  3. submetido a exame criminológico, consta: a. no Relatório Psicológico (fls.112/113), que o Agravante "assume suas ilicitudes, e as justifica com superficialidade" (fls.113, segundo parágrafo do item 4), bem como que "seus planos futuros são incertos, o sentenciado precisa entender o seu papel no mundo e deve ter consciência de sua singularidade, assim como, sua incapacidade em lidar com as frustrações e seu imediatismo poderão determinar seu futuro em sociedade" (fls.113, último parágrafo do item 4); b. no Relatório Conjunto (fls.106), manifestação contrária à concessão do benefício; 4. a Diretoria do Centro de Segurança e Disciplina (fls.107), destacando que o Agravante "já esteve recolhido em várias unidades prisionais do Estado de São Paulo destinadas a sentenciados que possuem envolvimento com facção criminosa e possui um bom relacionamento com os demais sentenciados recolhidos nesta Unidade que se destina à líderes e integrantes ativos de facção criminosa" (fls.107, quinto parágrafo), bem como "que segundo informações é preso de altíssima periculosidade e altamente resgatável" (fls.107, parte final do quinto parágra fo); 5. constou no "Atestado de Trabalho e Educação" (fls.108) que as atividades laborterápicas e de ensino não são realizadas na Unidade Prisional onde o Agravante se encontra recolhido, "em virtude desta unidade ser de Segurança Máxima, constituída por líderes e integrantes de facção criminosa, particularidade esta, que a faz diferente de outras unidades prisionais do Estado, uma vez os sentenciados aqui recolhidos exercem influência negativa em relação aos demais sentenciados do estado" (fls.108, primeiro parágrafo).
+Ora, tudo revela que não possui o Agravante condições subjetivas de vivenciar o regime intermediário  ..  (fls. 24-26, grifei).
+Com efeito, segundo entendimento consolidado neste Superior Tribunal, não há óbice à utilização de habeas corpus quando, havendo lesão ou ameaça de lesão à liberdade de locomoção do paciente, tratar-se de matéria exclusivamente de direito e quando não houver a necessidade de dilação probatória.
+No entanto, para que se perquira o preenchimento do requisito de ordem subjetiva, de forma a permitir a concessão da progressão de regime, alcançando conclusão diversa da exarada pela Corte de origem, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ. Confira-se:
+ ..
+I - A concessão do benefício da progressão de regime pressupõe tenha o reeducando preenchido os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112 da Lei de Execuções Penais.
+II - Tendo sido o apenado punido pela prática de faltas disciplinares no curso da execução, legítima a conclusão das instâncias ordinárias de que ele não perfaz o requisito subjetivo necessário à obtenção da progressão de regime (Precedentes).
+III - Ademais, esta Corte possui entendimento consolidado no sentido de ser inviável, na via estreita do habeas corpus, a dilação probatória necessária para o exame amplo e profundado da conduta carcerária do apenado, a fim de se vislumbrar possível inversão do que restou decidido pelo eg. Tribunal a quo (Precedentes).
+Agravo regimental desprovido (AgInt no HC n. 339.977/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 10/5/2016, destaquei).
+No caso concreto, o Tribunal a quo registrou que a conclusão do exame criminológico desfavorece o sentenciado, porquanto revelou que justifica suas ilicitudes com superficialidade, assim como apresenta dificuldades em lidar com suas frustrações e possui planos futuros incertos, de modo a indicar que o apenado não preenche o requisito de ordem subjetiva.
+Assim, para se infirmar a interpretação apresentada pela instância ordinária, de forma a possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+À vista do exposto, nego provimento ao recurso.
