@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado, com fundamento no art. 105, I, "d", da Constituição Federal, entre o JUÍZO DE DIREITO DA VARA CRIMINAL DE CASTRO - PR, o suscitante, e o JUÍZO FEDERAL DA 1ª VARA DE PONTA GROSSA - SJ/PR, o suscitado.
+Extrai-se dos autos a prática de perturbação decorrente de uso de explosivos realizado pela empresa AGROMERCANTIL KRAEMER LTDA, decorrente, em tese, da atividade de extração de minério, com a possível ocorrência de delitos advindos desta atividade.
+O Juízo Federal entendeu que os fatos relatados não são suficientes para concluir pela ocorrência do crime do art. 2º da Lei n. 8.176/1991.
+O Juízo Estadual, discordando, suscitou o presente conflito.
+Nessa instância, o Ministério Público Federal manifestou-se pelo conhecimento do conflito e pela declaração de competência do Juízo suscitante.
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, I, "d", da Constituição Federal, razão pela qual passo ao seu exame.
+Pelos percucientes fundamentos, adoto como razões de decidir o parecer exarado pelo Ministério Público Federal:
+"Embora no parecer ofertado pelo Ministério Público do Estado do Paraná haja a conclusão de absoluta incompetência da Justiça Estadual para o processamento e julgamento do feito, por entender pela existência de conexão entre delitos afetos à competência das Justiças Federal e Estadual, prevalecendo a última, manifestação esta à qual anuiu a Justiça Estadual, inexistem informações concretas acerca da não autorização para a extração dos minerais por parte da empresa investigada, havendo somente o registro de perturbação da tranquilidade pública ocasionada pela explosão da dinamite, o que descaracteriza o crime ambiental previsto no artigo 2º da Lei 8.176/91, por ausência de indícios suficientes a comprovarem a materialidade do delito.
+6. Considerando-se que a preservação do meio ambiente é matéria de competência comum dos entes federativos, conforme preceitua o artigo 23, IV e VII da Carta Magna, e constatando-se a ausência de ofensa a interesses diretos da União, de suas entidades autárquicas ou de empresas públicas federais, ou a inexistência de qualquer lesão a bens, serviços ou interesses da União ou de seus entes, e ainda considerando-se o momento processual atual, no qual é necessária a existência de indícios suficientes à caracterização do delito para a persecução penal, conclui-se afinal pelo afastamento de competência da Justiça Federal.
+Segue julgado nessa linha de intelecção:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. EXTRAÇÃO IRREGULAR DE AREIA. ÁREA PARTICULAR. AUSÊNCIA DE LESÃO A BENS, SERVIÇOS OU INTERESSES DA UNIÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO NÃO PROVIDO. 1. O bem a reclamar a tutela jurisdicional, porquanto privada a área ambiental afetada, situada às margens de rio estadual, não é de domínio federal, de modo que não se visualiza, neste momento processual, lesão a bens, serviços ou interesses da União ou de suas entidades autárquicas ou empresas públicas a atrair a competência da Justiça Federal. 2. Agravo regimental não provido.
+(AgRg no CC 153.183/RJ, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 25/10/2017, DJe 31/10/2017).
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da Vara Criminal de Castro - PR, o suscitante.
+Comunique-se. Publique-se.
+Cientifique-se ao Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
