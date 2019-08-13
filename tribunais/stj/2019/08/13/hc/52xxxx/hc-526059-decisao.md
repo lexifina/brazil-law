@@ -1,0 +1,18 @@
+DECISÃO
+O paciente acoima de ilegal acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 7000513-91.2019.8.26.0482, em que foi mantido o indeferimento da progressão ao regime semiaberto.
+Alega a impetrante que "a motivação denegatória contida no bojo do r. decisório atacado se limita à gravidade abstrata do delito praticado e à longevidade da pena, mostrando-se, permissa máxima venia, de toda inidônea" (fl. 6), razão pela qual requer a concessão da benesse.
+Decido.
+No caso, o Juízo singular ao indeferir o pleito defensivo, limitou-se a salientar que:
+Em que pese a atual boa conduta carcerária e o preenchimento do quesito objetivo, o sentenciado possui longa pena por cumprir, 20/07/2044, não reunindo méritos para progressão de regime.
+E mais. Tratando-se de crimes gravíssimos e de natureza (crimes cometidos com grave ameaça e violência contra pessoa) - homicídio, vários roubos - demonstrando a necessidade de permanência maior no cárcere, visando absorver a terapia penal e revelar seu merecimento à progressão para regime mais brando  ..  (fl. 21, grifei).
+A esse respeito, esta Corte Superior possui o entendimento de que " a  gravidade dos delitos pelos quais restou condenado o paciente, bem como a sua longa pena ainda por cumprir não são fundamentos idôneos para recusar os benefícios da execução penal" (HC n. 429.176/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 14/3/2018, grifei).
+Com efeito, na hipótese, a instância ordinária entendeu devido o indeferimento do benefício sob o fundamento de que o atestado de bom comportamento carcerário não é suficiente para aferir o preenchimento do requisito de ordem subjetiva, porquanto o sentenciado foi condenado por crime graves e possui longa pena a cumprir, o que, sem maiores detalhamentos, não justifica a negativa da benesse ou a determinação da produção da prova pericial, uma vez que não reflete a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+II - O entendimento desta Corte é no sentido de que a gravidade abstrata dos crimes objeto da execução penal, a longa pena a cumprir e a existência de faltas graves cometidas há muito tempo, a princípio, não constituem fundamentos idôneos para obstar a progressão de regime.
+III - In casu, ao cassar o benefício concedido pelo Juízo da Execução Penal, o eg. Tribunal de Justiça se valeu do argumento de que o paciente teria cometido faltas graves, porém não as individualizou, o que impede a sua utilização como argumento para afastar o merecimento do apenado.
+IV - O v. acórdão valeu-se, ainda, da gravidade dos crimes pelos quais o paciente foi condenado e de afirmações genéricas no sentido de que o paciente "tem evidente tendência à prática de crimes graves" porém, realizado exame criminológico, não foi indicado qualquer elemento que possa indicar que o paciente apresenta traço de personalidade que o impeça de receber o benefício da progressão de regime.
+Habeas corpus não conhecido. Ordem concedida de ofício para cassar a decisão do eg. Tribunal a quo, fazendo prevalecer a progressão de regime concedida pelo d. Juízo da Execução Penal, confirmando a liminar (HC n. 443.838/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 4/6/2018, grifei).
+Dessa forma, o que se percebe é que foi indeferida a benesse sem a devida fundamentação, uma vez que o Juízo singular negou a progressão com fulcro em considerações abstratas acerca dos delitos cometidos pelo reeducando, a impor-lhe patente constrangimento ilegal, porquanto foi apontada a emissão de atestado de bom comportamento carcerário.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem postulada, a fim de determinar a imediata inserção do apenado no regime semiaberto.
+Publique-se e intimem-se.
