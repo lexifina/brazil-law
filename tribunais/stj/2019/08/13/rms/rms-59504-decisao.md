@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Recurso em Mandado de Segurança, interposto por ERIBALDO SOARES CARVALHO JUNIOR, com fundamento no art. 105, II, b, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia, que denegou a segurança postulada pela parte ora recorrente, nos termos da seguinte ementa:
+"AGRAVO INTERNO. DECISÃO AGRAVADA QUE RECONHECEU A DECADÊNCIA DO MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. ANULAÇÃO DE QUESTÕES. PRETERIÇÃO NA ORDEM CLASSIFICATÓRIA. IMPETRAÇÃO APÓS O TRANSCURSO DO PRAZO DE 120 DIAS PREVISTO NO ART. 23, DA LEI N. 12.016/09, A CONTAR DO TÉRMINO DA VALIDADE DO CERTAME. PRECEDENTES. AGRAVO INTERNO IMPROVIDO
+1. Na hipótese, constata-se que em 20.06.2013 foi homologado o Resultado Final do certame, iniciando-se o prazo de validade de 01 (um) ano, prorrogado por igual período, com data de expiração em 20.06.2015. Assim, quando da impetração da presente Ação Mandamental em 18.07.2017, já havia transcorrido o prazo decadencial de 120 dias do término da validade do concurso. Precedentes.
+2. De ressaltar que é impossível a reabertura do prazo decadencial em razão da Ação Judicial n. 0569986-78.2014.8.05.0001, uma vez que a reclassificação dos candidatos que ajuizaram a referida demanda decorreu de comando judicial - o que não configura preterição por parte da Administração Pública, inexistindo qualquer ato coator do
+Secretário Estadual de Administração ou do Comandante Geral da Polícia Militar.
+3. Além disso, é de se destacar que a reabertura de prazo representaria uma eternização dos atos administrativos, em violação à segurança jurídica que garante a estabilização das relações.
+AGRAVO INTERNO IMPROVIDO" (fls. 317/318e).
+Nas razões do Recurso Ordinário, a parte ora recorrente sustenta, em síntese, a ilegalidade do ato apontado como coator, na medida em que o presente writ "tem por objeto coibir a omissão das Autoridades Coatoras em não efetuar a RECLASIFICAÇÃO DO IMPETRANTE, cuja ilegalidade restou calcificada ao tomar conhecimento de exigência de conteúdo diverso do publicado no edital na prova de RACIOCÍNIO LÓGICO, culminando NA ANULAÇÃO DE SEIS QUESTÕES, o que deveria estender a todos os certamistas dentro do seu poder de autotutela" (fl. 331e).
+Por fim, requer "seja o presente recurso conhecido e provido, concedendo-se a segurança pleiteada e determinando-se a reclassificação em virtude da nulidade das questões de raciocínio lógico, redistribuindo os pontos das questões anuladas, recalculando as notas em iguais condições com todos os candidatos; e, caso consiga o Recorrente se colocar dentro do número de vagas na sua região (considerando também as reposições e novas vagas criadas), seja convocado para as realização dos exames pré-admissionais e, se aprovado, seja matriculado no próximo Curso de Formação de Soldados da PMBA e, concluindo-o com êxito, a devida nomeação e posse, sendo notificados os Impetrados para o devido cumprimento sob pena de multa diária" (fl. 371e).
+Com contrarrazões (fls. 391/420e).
+Manifestação do Ministério Público Federal, a fls. 431/434e, pelo não provimento do recurso.
+A irresignação não merece conhecimento.
+No caso concreto, o Tribunal de origem denegou a segurança, sob os seguintes fundamentos:
+"Cinge-se a controvérsia no prazo decadencial para impetração de Mandado de Segurança contra suposto ato coator que determinou a reclassificação de alguns candidatos, em cumprimento à decisão judicial proferida no processo nº 0569986-78.2014.8.05.0001, a qual anulou seis questões da prova de raciocínio no Concurso Público para Seleção de Candidatos ao Curso de Formação de Soldado da Policia Militar.
+Consoante o art. 23, da Lei nº 12.016/09, o Mandado de Segurança deve ser impetrado em 120 dias a contar da ciência do ato coator.
+(..)
+Dito isto, importa ressaltar que o Superior Tribunal de Justiça já sedimentou entendimento de que o prazo de decadência do Mandado de Segurança que discuta preterição da ordem classificatória e omissão da Administração Pública em proceder com a nomeação do candidato, inicia-se da data da expiração da validade do certame.
+(..)
+Na hipótese, constata-se que em 20.06.2013 foi homologado o Resultado Final do certame, iniciando-se o prazo de validade de 01 (um) ano, prorrogado por igual período, com data de expiração em 20.06.2015.
+Assim, quando da impetraçâo da presente Ação Mandamental em 18.07.2017, já havia transcorrido o prazo decadencial de 120 dias do término da validade do concurso.
+Outrossim, como bem foi pontuado na decisão agravada, "é impossível a reabertura do prazo decadencial em razão da Ação Judicial n.0569986-78.2014.8.05.0001, uma vez que a reclassificação dos candidatos que ajuizaram a referida demanda decorreu de comando judicial - o que não configura preterição por parte da Administração Pública, inexistindo qualquer ato coator do Secretário Estadual de Administração ou do Comandante Geral da Polícia Militar".
+Além disso, é de se destacar que a reabertura de prazo representaria uma eternização dos atos administrativos, em violação à segurança jurídica que garante a estabilização das relações.
+Por estas razões, entendo que não merece provimento o Agravo Interno em análise" (fls. 319/322e).
+No caso, todavia, a viabilidade do Recurso Ordinário pressupõe, desde logo, a demonstração de vício na fundamentação (exposição dos fundamentos) do acórdão recorrido, não se mostrando suficiente a mera insurgência contra o comando contido no dispositivo, como no caso, a denegação da ordem.
+Essa é a razão pela qual a jurisprudência desta Corte há muito firmou o entendimento de que não se deve conhecer, por irregularidade formal violadora do princípio da dialeticidade, ao Recurso Ordinário cujas razões não combatem especificamente dos fundamentos do acórdão recorrido.
+Nesse sentido, dentre inúmeros:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 932, III, DO CPC.
+1. O recurso ordinário em mandado de segurança, como espécie recursal que é, reclama, para sua admissibilidade, a fiel observância do princípio da dialeticidade, impondo-se à parte recorrente o ônus de expor, com precisão e clareza, os erros - de procedimento ou de aplicação do direito - que justificam a reforma do acórdão recorrido, não bastando, para isso, a simples insatisfação com a denegação da ordem.
+2. Nas hipóteses em que as razões do recurso não infirmam especificamente os fundamentos do acórdão recorrido, nos capítulos em que é impugnado, é dever, e não faculdade do Relator, não conhecer do recurso. Inteligência dos art. 932, III, do CPC e 34, XVIII, "a", do RISTJ.
+3. Agravo interno não provido" (STJ, AgInt no RMS 41.710/BA, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 26/03/2018).
+"PROCESSUAL CIVIL. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. NÃO OBSERVAÇÃO DO PRINCÍPIO DA DIALETICIDADE. IRREGULARIDADE FORMAL QUE IMPEDE O SEGUIMENTO DO RECURSO.
+1. O argumento do aresto recorrido, no sentido de que houve decadência do direito de impugnar a regra do edital, não foi impugnado.
+2. A jurisprudência do Superior Tribunal de Justiça entende que padece de irregularidade formal o Recurso Ordinário em Mandado de Segurança em que o recorrente descumpre seu ônus de impugnar especificamente os fundamentos do acórdão recorrido, deixando de atender ao princípio da dialeticidade.
+3. Agravo Regimental não provido" (STJ, AgRg no RMS 44.887/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 11/11/2015).
+Tanto que o Código de Processo Civil vigente expressamente impede o conhecimento do recurso cujas razões não cuidam de impugnar, especificamente, os fundamentos do acórdão recorrido. Confira-se:
+"Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;"
+Em igual sentido, as seguintes decisões monocráticas proferidas em casos idênticos ao presente: STJ, RMS 55623/BA, Rel. Ministro OG FRNANDES, DJe de 21/06/2018; RMS 57.436/BA, Rel. Ministro SÉRGIO KUKINA, DJe de 21/06/2018; RMS 56.907/BA, Rel. Ministra REGINA HELENA COSTA, DJe de 09/04/2018; RMS 56.552/BA, Rel. Ministro SÉRGIO KUKINA, DJe de 21/03/2018.
+Ante o exposto, nos termos do art. 932, III, do CPC/2015 e do art. 34, XVIII, do RISTJ, não conheço do presente Recurso Ordinário.
+É de se registrar, outrossim, que, como descabe condenação em honorários advocatícios no Mandado de Segurança, nos termos do art. 25 da Lei n. 12.016/2009, por conseguinte, não há previsão para arbitramento dos honorários recursais do art. 85, § 11, do CPC/2015.
+I.
