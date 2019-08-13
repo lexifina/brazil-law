@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por BRUNO DA ROSA LOPES, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"ADMINISTRATIVO. ENSINO SUPERIOR. FIES. ADITAMENTO. REMATRÍCULA. INCONSISTÊNCIAS NO SISTEMA. DANO MORAL NÃO DEMONSTRADO.
+O aluno não pode ser prejudicado no direito à educação por conta de inconsistências no sistema SisFIES que impediram a regularização e aditamento do contrato de financiamento estudantil, consoante reconhecido pela própria IES.
+Mero dissabor não gera indenização por dano moral" (fl. 403e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 411/417e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"PROCESSO CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO.
+ART. 1.022 CPC/2015. PREQUESTIONAMENTO.
+1. Conforme o disposto no art. 1.022 do CPC/2015, os embargos de declaração têm cabimento contra qualquer decisão e objetivam esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material. Outrossim, o Código de Processo Civil de 2015 também autoriza a interposição de embargos declaração contra a decisão que deixa de se manifestar sobre tese firmada em julgamento de casos repetitivos, em incidentes de assunção de competência, ou, ainda, em qualquer das hipóteses descritas no art. 489, § 1º.
+2. Os embargos de declaração não visam à cassação ou substituição da decisão impugnada.
+3. Nova apreciação de fatos e argumentos deduzidos, já analisados ou incapazes de infirmar as conclusões adotadas pelo julgador, consiste em objetivo que destoa da finalidade a que se destinam os embargos declaratórios.
+4. À luz do disposto no art. 1.025 do NCPC, a interposição dos embargos de declaração, ainda que inadmitidos/rejeitados, autorizam o manejo de recurso às Instâncias Superiores, vez que os elementos suscitados integram o acórdão" (fl. 424e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 85, §§ 2º, 8º, 489, § 1º, 1.022, II, do CPC/2015, 186 do Código Civil, sustentando que: a) o acórdão é omisso acerca dos dispositivos de lei e teses suscitados nos Embargos de Declaração, no que diz com a comprovação dos danos morais e o valor da condenação em honorários advocatícios, b) possui o direito à reparação por danos morais, pelos transtornos ocasionados pela parte recorrida, c) os honorários advocatícios foram fixados em quantia irrisória.
+Contrarrazões a fls. 477/484e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 487e).
+A irresignação não merece prosperar.
+Em relação aos artigos 489, § 1º e 1.022, II, do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+Ademais, a Corte de origem, ao decidir a controvérsia, concluiu o seguinte:
+"Modo igual, quanto ao pedido de dano moral, merece confirmação a sentença.
+De fato, o estudante perdeu apenas uma semana de aula. Não há notícia de inscrição em cadastro de inadimplentes e não demonstrou a ocorrência de abalo psicológico apto a ensejar indenização por dano moral" (fl. 400e).
+Nesse contexto, a revisão do entendimento do Tribunal de origem, no sentido de que não restaram caracterizados os danos morais, ensejaria, inevitavelmente, o reexame das provas carreadas nos autos, procedimento vedado, pela Súmula 7 desta Corte.
+Cabe registrar, ainda, que esta Corte já consolidou entendimento no sentido de que "a impossibilidade de analisar recurso que trata de danos morais com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos." (STJ, AgRg no REsp 1.442.539, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 19/05/2014).
+Por fim, consabido é que, em princípio, descabe ao Superior Tribunal de Justiça revisar valores de sucumbência, fixados nas instâncias ordinárias, tendo em conta que eles são arbitrados em consideração àquilo que se desenvolveu no processo e mediante juízo de equidade, circunstâncias que não podem ser reavaliadas nesta Corte, nos termos da Súmula 7/STJ.
+Todavia, consoante a jurisprudência desta Corte, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos, em que os honorários de advogado foram fixados em 10% sobre o valor da causa e posteriormente elevados para 12%, em razão do disposto no art. 85, § 11, do CPC/2015.
+Dessarte, não configurada a excepcionalidade exigida pela jurisprudência desta Corte, não se mostra possível a redução dos honorários advocatícios pleiteada pelo recorrente.
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial e, nessa parte, nego-lhe provimento.
+I.
