@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CONTRATO DE DOAÇÃO. ARTS. 128 E 460 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. TEMA NÃO OBJETO DE EMBARGOS DE DECLARAÇÃO. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL DE INTERPRETAÇÃO CONTROVERTIDA NOS TRIBUNAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. RECURSO ESPECIAL DA MUNICIPALIDADE A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pelo MUNICÍPIO DE UMUARAMA/PR, com fundamento nas alíneas a e c do art. 105, III da CF/1988, contra acórdão proferido pelo egrégio TJ/PR, assim ementado:
+Apelação cível. Doação de imóvel peto município na década de oitenta direcionada à construção da sede social e de lazer da associação recreativa dos funcionários da Telepar. Ação de anulação ou de revogação com pedido de reintegração de posse maneada peto ente público. Prescrição reconhecida. Apelo não provido.
+1. A ação para tomar sem efeito a doação por motivo de inexecução do encargo prescreve em vinte anos (Sem destaque no original, AgRg nos EDd no AREsp 46.650/PR. Rei. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 5.8.2014, DJe 13.8.2014).
+2. Recurso não provido (fls. 346/350).
+2. Opostos Embargos de Declaração, estes foram rejeitados (fls. 376/381).
+3. Nas razões de seu Recurso Especial, a parte recorrente aponta, além do dissídio jurisprudencial, ofensa aos arts. 128 e 460 do CPC/1973. Aduz para tanto, em suma, que: (a) o acórdão recorrido seria citra petita, por deixar de apreciar todos os pedidos iniciais; e (b) seria imprescritível a ação para anulação de doação.
+4. Sem contrarrazões (fls. 427), o Apelo Nobre foi admitido na origem (fls. 429/430).
+5. É o breve relatório.
+6. Inicialmente, nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+7. No mais, constata-se que não houve prequestionamento dos arts. 128 e 460 do CPC/1973, pois o Tribunal de origem não se manifestou sobre eles; tais dispositivos legais sequer foram objeto dos Embargos de Declaração, que não os mencionaram em momento algum (fls. 361/372). O tema carece, portanto, de prequestionamento, requisito indispensável ao acesso às instâncias excepcionais. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+8. Por fim, não é possível conhecer do Recurso Especial fundado na alínea c do art. 105, III da CF/1988, uma vez que a parte recorrente não indicou qual seria o dispositivo de Lei Federal de interpretação controvertida nos Tribunais, o que atrai a incidência do enunciado 284 da Súmula de jurisprudência do Supremo Tribunal Federal, por analogia.
+9. Ante o exposto, nega-se seguimento ao Recurso Especial da Municipalidade.
+10. Publique-se. Intimações necessárias.
