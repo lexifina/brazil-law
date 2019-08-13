@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n. 00005824420178260603).
+Verifica-se dos autos que o paciente foi condenado, como incurso no art. 33, caput, § 4º, da Lei n. 11.343/2006 (14,67 g de cocaína), à pena de 3 anos e 4 meses de reclusão, no regime inicial fechado, mais o pagamento de 334 dias-multa; e ao pagamento de 30 dias-multa, no valor unitário mínimo, pela prática dos crimes previstos nos arts. 147, caput, do Código Penal, e 21 da Lei das Contravenções Penais, por duas vezes, em concurso material.
+O recurso de apelação foi provido para fixar a pena pelo tráfico de drogas em 2 anos e 6 meses de reclusão, além do pagamento de 250 dias-multa, fixado o regime inicial semiaberto.
+O impetrante objetiva seja aplicado o regime aberto, mesmo porque já teria permanecido em prisão cautelar por 2 anos e 2 meses, quase a integralidade da pena privativa de liberdade para a qual foi condenado, devendo ser observado o disposto no art. 387, § 2º, do Código de Processo Penal. Aduz, ainda, que a pena-base foi fixada no mínimo legal, não se justificando a imposição de regime prisional mais gravoso do que o previsto em lei.
+É o relatório.
+Do exame dos autos, verifico a existência da ilegalidade apontada.
+Estabelecida a pena-base no mínimo legal e tratando-se de paciente primário, mostra-se possível, nos termos do art. 33, § 2º, c, do Código Penal, a fixação do regime aberto.
+De acordo com a Súmula 719/STF, a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea. A Suprema Corte, quando do julgamento do HC n. 111.840/ES, declarou incidenter tantum a inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/1990, com a redação dada pela Lei n. 11.464/2007. Também o Supremo Tribunal Federal já declarou a inconstitucionalidade no que se refere à proibição da substituição da reprimenda privativa de liberdade:
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ENTENDIMENTO CONSOLIDADO NO HABEAS CORPUS 97.256. INCONSTITUCIONALIDADE DA VEDAÇÃO. CONTROVÉRSIA CONSTITUCIONAL COM REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL (ARE n. 663.261, Ministro Luiz Fux, DJe 6/2/2013).
+Observo que vedar a substituição da pena, bem como aplicar o regime semiaberto apenas com base na gravidade abstrata do crime, não constitui fundamentação idônea. Destaco que a quantidade de droga, por si só, no caso, não justifica a imposição de regime mais gravoso do que o previsto em lei.
+Com essas considerações, concedo a ordem para estabelecer o regime aberto, cabendo ao Juízo da execução verificar a pertinência e a possibilidade de substituição da pena privativa de liberdade por restritiva de direitos (Ação Penal n. 00005824420178260603, da 2ª Vara Criminal da comarca de Araçatuba/SP).
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
