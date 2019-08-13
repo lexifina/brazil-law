@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C DANOS MORAIS. PLANO DE SAÚDE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de cobrança c/c danos morais, fundada na indevida negativa de custeio de medicamentos prescritos para tratamento quimioterápico.
+2. É abusiva a recusa da operadora do plano de saúde de arcar com a cobertura do medicamento prescrito pelo médico para o tratamento do beneficiário, sendo ele off label, de uso domiciliar, ou ainda, não previsto em rol da ANS, e, portanto, experimental, mesmo se tratando de instituições sem fins lucrativos e que operam por autogestão. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+3. Agravo em recurso especial conhecido. Recurso especial conhecido e não provido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/11/2018 .
+Concluso ao gabinete em: 26/03/2019.
+Ação: de cobrança c/c danos morais, ajuizada por ESPÓLIO DE ZILDA SUELOTTO MURÁNYI, em face da agravante, fundada na indevida negativa de custeio de medicamentos prescritos para tratamento quimioterápico.
+Sentença: julgou parcialmente procedente o pedido para condenar a agravante a ressarcir as despesas médicas advindas dos medicamentos não custeados, (MabThera e Adcetris), no importe de R$142.939,05.
+Em razão da sucumbência recíproca, condenou cada parte a arcar com 50% das custas e despesas processuais, bem como, com o pagamento de honorários advocatícios fixados em R$ 3.000,00, da parte contrária.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. Plano de saúde. Necessidade de tratamento de câncer. Negativa de cobertura, sob alegação de que o contrato firmado entre as partes não cobre o medicamentos off label (uso experimental), insistindo que o reembolso deve se dar nos limites do contrato, bem como alegando preliminar de ilegitimidade dos herdeiros na interposição da ação, diante da morte da paciente. Inadmissibilidade. Herdeiros que são parte legítima para figurar no polo ativo. Mérito que também não se sustenta. Contrato que prevê o tratamento da doença. Providência, ademais, que se mostrou necessária, diante da gravidade do quadro de saúde apresentado pela autora. Exclusão invocada pela operadora do plano de saúde que contraria a finalidade do contrato. Critério que é exclusivamente médico. Cobertura devida. Incidência das Súmulas 95 e 102, desta Corte. Sentença de procedência parcial mantida.
+Preliminar rejeitada. Recurso não provido.
+Embargos de declaração: opostos pelo agravado, foram acolhidos, apenas para majorar os honorários recursais para R$ 3.500,00.
+Recurso especial: alega violação do art. 10, I, da Lei 9.656/98.
+Sustenta que os medicamentos em questão não trariam, em sua bula, previsão de utilização para patologia da agravada. Assim, não seria obrigada a fornecer medicamentos experimentais.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da Súmula 568/STJ
+As duas Turmas de Direito Privado do STJ entendem que é abusiva a recusa da operadora do plano de saúde de arcar com a cobertura do medicamento prescrito pelo médico para o tratamento do beneficiário, sendo ele off label, de uso domiciliar, ou ainda, não previsto em rol da ANS, e, portanto, experimental, mesmo se tratando de instituições sem fins lucrativos e que operam por autogestão. (AgInt no REsp 1712056/SP, 4ª Turma, DJe de 18/12/2018; REsp 1769557/CE, 3ª Turma, DJe de 21/11/2018; REsp 1.721.705/SP, 3ª Turma, DJe de 06/09/2018; e REsp 1729566/SP, 4ª Turma, DJe de 30/10/2018).
+Na hipótese, o Tribunal de origem concluiu que seria abusiva a negativa de cobertura de tratamento sob a alegação de que seria experimental, nos seguintes termos (e-STJ, fls. 284/285):
+Assim é que, diante da necessidade e o quadro de saúde da paciente, além do avanço da medicina e ainda, por se cuidar de procedimento amplamente difundido pela classe médica, faz-se necessário acolher-se o que constantemente tem sido decidido pelos tribunais: "O plano de saúde pode estabelecer quais doenças estão sendo cobertas, mas não que tipo de tratamento será alcançado para a respectiva cura. Se a patologia está coberta, no caso, o câncer, é inviável vedar a quimioterapia pelo simples fato de ser esta uma das alternativas possíveis para a cura da doença. A abusividade da cláusula reside exatamente nesse preciso aspecto, qual seja, não pode o paciente, em razão da cláusula limitativa, ser impedido de receber tratamento com o método mais moderno disponível no momento em que instalada a doença coberta" (Resp. 668.216 SP, Ministro CARLOS ALBERTO MENEZES DIREITO).
+Não se perca de vista que a ré não pode querer determinar qual o melhor tratamento para o caso dos associados. Tal critério é médico, não ficando na disponibilidade seja do associado, seja da empresa de saúde.
+Portanto, sendo indicada a realização do procedimento médico mais moderno, não há como negar o acesso dele ao paciente.
+Anote-se que qualquer restrição a procedimento considerado inafastável para o tratamento de moléstia coberta pelo plano de saúde é de ser considerada nula de pleno direito, porquanto coloca o consumidor em situação de iniqüidade, sem embargo de que, por via transversa, suprime um direito que lhe assiste.
+Ademais, irrelevante a alegação de tratamento experimental ou não registro na ANVISA, sendo abusiva a não cobertura.
+Nesse sentido a Súmula 102 aprovada pelo Colendo Órgão Especial do Tribunal de Justiça de São Paulo: "Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS."
+Diante da consonância com o entendimento dominante sobre o tema nesta Corte, aplica-se a Súmula 568/STJ no particular.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro, por equidade, os honorários fixados anteriormente em R$ 3.500,00 (e-STJ, fls. 309/310) para 4.000,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
