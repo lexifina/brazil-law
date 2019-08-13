@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por DORILDE PALLUDO com base no art. 105, III, do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. REGIME DE ECONOMIA FAMILIAR. REQUISITOS LEGAIS NÃO COMPROVADOS.
+1. Improcede o pedido de aposentadoria rural por idade quando não atendidos os requisitos previstos nos artigos 11, VII, 48, § 1º, e 142, da Lei nº 8.213/1991.
+2. Considera-se comprovado o exercício de atividade rural havendo início de prova material complementada por prova testemunhal idônea.
+3. Hipótese em que a prova material é contraditória e os depoimentos colhidos possuem divergências entre si, não obtendo êxito em aclarar as circunstâncias em que desenvolvida a alegada atividade rural" (fl. 407e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. INOCORRÊNCIA DAS HIPÓTESES AUTORIZADORAS DO ARTIGO 1.022 DO CPC. VIA INADEQUADA PARA A REDISCUSSÃO DA MATÉRIA. PREQUESTIONAMENTO. ARTIGO 1.025 DO CPC.
+1. Em razão de seu caráter integrativo ou interpretativo, os embargos de declaração não se prestam como via para a reapreciação dos fundamentos da decisão atacada.
+2. Se a parte entende que a decisão não apreciou a matéria de forma correta, poderá utilizar as medidas legais que julgar adequadas para reformá-la.
+3. Nos termos do artigo 1.025 do CPC, Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de prequestionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere inexistentes erro, omissão, contradição ou obscuridade" (fl. 428e).
+Alega-se, nas razões do Recurso Especial, violação aos arts. 58, 63, 64 e 71, todos, do Decreto 3.000/99.
+Sem contrarrazões, o Recurso Especial foi admitido na origem (fl. 455e).
+A irresignação não ultrapassa a admissibilidade.
+Com efeito, constata-se a ausência da técnica própria indispensável à apreciação da insurgência, uma vez que a parte recorrente deixou de indicar o permissivo constitucional no qual embasa o seu Recurso Especial, o que implica deficiência na fundamentação.
+Diante desse quadro, tem incidência, por analogia, a Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido: STJ, AgRg no AREsp 551.606/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/02/2016; AgRg no AREsp 647.464/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 23/03/2015.
+A propósito, o recente julgado da Corte Especial:
+"PROCESSO CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. DISSÍDIO NÃO DEMONSTRADO. AUSÊNCIA DE INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL. SÚMULA 284/STF. JURISPRUDÊNCIA PACÍFICA. SÚMULA 168/STJ. REGRA TÉCNICA DE CONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 315 DO STJ.
+1. Não prospera a pretensão recursal, na medida em que a jurisprudência se firmou no mesmo sentido do acórdão embargado, qual seja, que a ausência de indicação da alínea do permissivo constitucional em que se fundamenta o recurso especial, impede a apreciação do recurso especial. Precedentes: AgRg no AREsp 551.606/PB, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 06/10/2015, DJe 03/02/2016; AgRg no Ag 760.867/PE, Rel. Min. José Delgado, Primeira Turma, julgado em 07/11/2006, DJ 23/11/2006, p. 221; AgRg no REsp 1244392/AL, Rel. Min. Massami Uyeda, Terceira Turma, julgado em 20/10/2011, DJe 08/11/2011.
+2. In casu, incide a Súmula 168 do STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+3. Os agravantes pleiteiam rever acórdão que aplicou o entendimento de que "a falta de indicação do dispositivo constitucional em que se funda o recurso especial implica deficiência de fundamentação recursal, o que atrai (por analogia) o óbice contido no enunciado da Súmula 284 do STF". Porém, revela-se inviável rever - em embargos de divergência - o conhecimento do recurso especial. Precedentes: AgRg nos EAREsp 681.574/SP, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 25/02/2016, DJe 02/03/2016; AgRg nos EAg 1.421.413/MG, Rel. Min. Og Fernandes, Corte Especial, julgado em 02/12/2015, DJe 18/12/2015; AgRg nos EDcl nos EAREsp 204.278/MG, Rel. Min. Luis Felipe Salomão, Corte Especial, julgado em 04/11/2015, DJe 18/11/2015.
+4. Aplica-se ao caso dos autos a Súmula 315/STJ, que assim dispõe: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Agravo regimental improvido" (STJ, AgRg nos EAREsp 278.959/MG, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 06/05/2016).
+No mesmo sentido, a Primeira e a Segunda Turmas do STJ:
+"ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL QUE EMBASA O APELO NOBRE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. PRECEDENTE DA CORTE ESPECIAL.
+1. A ausência de indicação da alínea do permissivo constitucional em que se embasa o recurso especial caracteriza deficiência de fundamentação, impedindo sua apreciação. Incidência da Súmula 284/STF. Precedentes: AgRg nos EAREsp 278.959/MG, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe 06/05/2016; AREsp 1.181.851/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017.
+2. Agravo interno improvido" (STJ, AgInt no AgInt no AREsp 813.272/PB, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 08/06/2018).
+"PREVIDENCIÁRIO E PROCESSUAL CIVIL. (..). AUSÊNCIA DE INDICAÇÃO DA ALÍNEA DO PERMISSIVO CONSTITUCIONAL QUE FUNDAMENTA A INTERPOSIÇÃO DO RECURSO ESPECIAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+II. Na forma da jurisprudência, "a não indicação da alínea do permissivo constitucional embasador da irresignação do recurso especial revela a deficiência das razões do mesmo, atraindo, por analogia, a incidência da Súmula 284/STF (STJ, AgInt no AREsp 920.625/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 26/04/2017), tal como ocorre, in casu. No mesmo sentido: STJ, AgRg nos EAREsp 278.959/MG, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 06/05/2016; AgInt no REsp 1.631.109/RR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 31/03/2017.
+III. Agravo interno improvido" (STJ, AgInt no REsp 1.528.100/SP, de minha Relatoria, SEGUNDA TURMA, DJe de 27/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
