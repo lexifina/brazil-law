@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por ERCILIO [NOME], com apoio no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+"EXCEÇÃO DE SUSPEIÇÃO - ALEGADA PARCIALIDADE DO MAGISTRADO SINGULAR AO PRESIDIR A SESSÃO DE JULGAMENTO DO TRIBUNAL DO JÚRI - PRELIMINAR DE NÃO CONHECIMENTO - ACOLHIDA - EXCEÇÃO INTEMPESTIVA - COM O PARECER - EXCEÇÃO NÃO CONHECIDA.
+Não se conhece de exceção de suspeição interposta intempestivamente, precedentes do STJ." (e-STJ, fl. 133).
+O recorrente aponta, em síntese, negativa de vigência aos arts. 96 e 396-A, §2º, ambos do Código de Processo Penal, sustentando, em síntese, que "ao contrário do que decidido pelo E. Tribunal de Justiça do Mato Grosso do Sul, o fundamento da exceção de suspeição emergiu somente quando o Magistrado designou nova data para a realização do júri, já que a Defesa não teria como pensar que a autoridade Excepta presidiria um júri anulado por Argumento de Autoridade por ele próprio perpetrado" (e-STJ fl. 154).
+Requer "a reforma do acórdão, com o reconhecimento da tempestividade da exceção de suspeição e julgamento do mérito do pedido" (e-STJ, fl. 156).
+Foram apresentadas as contrarrazões (e-STJ, fl. 179-181).
+Admitido o recurso (e-STJ, fls. 194-196), subiram os autos a este Superior Tribunal de Justiça.
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ. fls. 213-220).
+É o relatório.
+Decido.
+A pretensão recursal merece acolhimento.
+Sobre o tema, a jurisprudência desta Corte Superior é pacifica no sentido de que "a imparcialidade do magistrado deve ser arguida por meio da exceção prevista nos artigos 98 e seguintes do Código de Processo Penal, a ser oposta no momento adequado, qual seja, no prazo para a defesa prévia, quando o motivo da recusa é conhecido pela parte antes mesmo da ação penal; ou na primeira oportunidade para se manifestar nos autos, quando é descoberto posteriormente" (HC 266.046/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 16/09/2014, DJe 25/09/2014)
+No caso em apreço, a 2ª Câmara Criminal do Tribunal de Justiça do Estado do Mato Grosso do Sul não conheceu da exceção de suspeição, com base nos seguintes fundamentos:
+"No caso dos autos, o excipiente argumenta que "..Quando o magistrado menciona que no processo há "manobras" e "chicanas" e que tais atos seriam o motivo do "atraso" do processo, mostra-se evidente a predisposição da r.
+Autoridade em não agir de forma isenta na presidência do feito em plenário.." e que tal influência do magistrado nos ânimos dos jurados foi reconhecida nos embargos infringentes às p. 83/91 e que, por isso, é suspeito.
+A decisão utilizada pelo excepto de que "..há "manobras" e "chicanas" e que tais atos seriam o motivo do "atraso" do processo..", para embasar a presente exceção foi prolatada em 13/04/2016 (p. 30/35), em plena sessão do tribunal do júri, ou seja, o excipiente teve nesta data ciência inequívoca do ato utilizado na presente exceção para demonstrar a parcialidade do magistrado.
+Portanto, desde a data em que o excipiente tomou conhecimento do fato que ensejou a suspeição, decorreram mais de 02 anos até a interposição da presente exceção (p. 12), restando intempestiva e preclusa referida insurgência não permitindo o conhecimento do feito." (e-STJ, fl. 136).
+Todavia, consoante se dessume dos autos, o réu foi condenado pela prática do crime de homicídio qualificado, à pena de 14 (catorze) anos de reclusão, em regime fechado, em sessão de julgamento realizada em 28.04.2016, posteriormente anulada, em razão do acolhimento dos Embargos Infringentes e de Nulidade.
+Por pertinente, confira-se a ementa do julgado:
+"EMBARGOS INFRINGENTES EM APELAÇÃO CRIMINAL - HOMICÍDIO QUALIFICADO - TESE DE NULIDADE DE JULGAMENTO PELO JÚRI POR INFLUÊNCIA DOS JURADOS DECORRENTE DE ARGUMENTO DE AUTORIDADE - PRISÃO PREVENTIVA DECRETADA EM PLENÁRIO - NULIDADE DECRETADA - ART. 478, CPP - RECURSO PROVIDO.
+Ao decretar a prisão preventiva do réu em Plenário, mencionando que, por intermédio de seus advogados, aquele estaria tentado frustrar a aplicação da lei penal via "chicanas" e "manobras" processuais, determinando, subsequentemente,a imediata condução do acusado ao cárcere, o Juiz Presidente praticou ato apto a influir, de maneira indevida, sobre o ânimo dos jurados, ferindo o disposto no art. 478 do CPP, de forma que o julgamento levado a efeito pelo Conselho de Sentença encontra-se maculado de nulidade, da qual resultou prejuízo ao réu, pois condenado."
+(e-STJ. fl. 83).
+Com o retorno dos autos ao Juízo da Primeira Vara Criminal da Comarca de Três Lagoas/MS, o magistrado designou nova data para a realização da sessão de julgamento pelo Tribunal do Júri, qual seja 24.10.2018.
+A propósito:
+"Face o provimento dos Embargos Infringentes pela instância superior (fls. 2159/2167), que ensejou a anulação do julgamento realizado pelo Tribunal do Júri, designo o dia 24/ 10/20 18. às 08:00 horas, para a realização de novo Júri Popular." (e-STJ, fl. 92).
+De acordo com a Certidão de Publicação de fl. 94 (e-STJ), a defesa foi intimada da referida decisão em 06.09.2018, tendo a Exceção de Suspeição sido protocolada em 19.09.2018 (e-STJ fl. 01).
+Nesse contexto, verifica-se que a exceção de suspeição foi efetivamente apresentada pela defesa na primeira oportunidade que teve para se manifestar nos autos, ou seja, após a intimação da nova data para o julgamento pelo Tribunal do Júri.
+Esse também é o entendimento do Desembargador - Primeiro Vogal - que apresentou o voto divergente:
+"Porém, ao meu ver, na presente hipótese não há falar em preclusão por parte da defesa.
+Isso porque, conforme narrado, somente na data de 21/03/2018, na ocasião do julgamento dos Embargos Infringentes n. 0006687- 76.2007.8.12.0021/50001 é que restou reconhecido que o juiz excepto teria praticado ato apto a influir sobre o ânimo dos jurados, reconhecendo portanto a nulidade da decisão do Conselho de Sentença e determinado novo julgamento, conforme pode se verificar no acórdão assim ementado:
+
+Destarte, verifico que o fato que ocasionou a suposta suspeição somente se deu em 13/08/2018, data em que o mesmo magistrado excepto deu cumprimento ao referido Embargos Infringentes, designando a data de 24/10/2018 para realização de novo júri popular. (p. 2246- 2247 dos autos principais n. 0006687-76.2007.8.12.0021) Assim, considerando que em 06/09/2018 a defesa foi intimada deste novo julgamento (p. 2253 dos autos principais), tendo arguindo a presente Exceção de Suspeição em 19/09/2018, não há falar em intempestividade, de modo que o conhecimento do presente incidente é medida que se impõe." (e-STJ, fls. 138/139)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, para reconhecer a tempestividade do exceção de suspeição oposta por [NOME] e determino o retorno dos autos ao Tribunal de Justiça do Estado de Mato Grosso do Sul, a fim de que aprecie o seu mérito.
+Publique-se. Intimem-se.
