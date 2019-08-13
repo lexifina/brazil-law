@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (HC n. 4019306-77.2019.8.24.0000).
+Depreende-se dos autos que a recorrente foi presa preventivamente pelo crime de tráfico de drogas, pela posse de aproximadamente 20kg (vinte quilos) de cocaína. O Juízo de primeiro grau indeferiu pedido de revogação da segregação cautelar.
+O Tribunal de origem denegou a ordem de habeas corpus que visava à revogação da prisão preventiva. Eis a respectiva ementa (e-STJ fl. 43):
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO (ART. 33, CAPUT, E ART. 35, AMBOS DA LEI N. 11.343/2006). INSURGÊNCIA QUANTO AO INDEFERIMENTO DO PEDIDO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. INEXISTÊNCIA DE ILEGALIDADE. DECISÃO BEM FUNDAMENTADA. FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS CARACTERIZADOS. GRAVIDADE CONCRETA DO DELITO INVESTIGADO. PACIENTE DENUNCIADA POR GUARDAR QUANTIDADE EXPRESSIVA DE SUBSTÂNCIA ENTORPECENTE ILÍCITA. APREENSÃO DE 20 QUILOS DE COCAÍNA. PRIMARIEDADE, BONS ANTECEDENTES E TRABALHO LÍCITO QUE NÃO IMPEDEM A MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. PRISÃO NECESSÁRIA PARA GARANTIA DA ORDEM PÚBLICA, APLICAÇÃO DA LEI PENAL E RESGUARDO DA SAÚDE PÚBLICA. PRESENÇA DOS REQUISITOS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO QUE NÃO SE MOSTRAM ADEQUADAS AO CASO. PARECER DA PROCURADORIA-GERAL DE JUSTIÇA PELO CONHECIMENTO E DENEGAÇÃO DA ORDEM. WRIT CONHECIDO. ORDEM DENEGADA.
+No presente recurso, a recorrente defende que não estão presentes os requisitos da prisão preventiva. Ao final, requer a revogação dessa prisão.
+É, em síntese, o relatório.
+O presente recurso ordinário em habeas corpus não merece ser conhecido, pois se trata de mera reiteração de impetração anteriormente dirigida a esta Corte (HC n. 522.184/SC), cujo pedido liminar foi indeferido pelo Presidente desta Corte.
+Ante o exposto, indefiro liminarmente o recurso ordinário habeas corpus.
+Publique-se. Intimem-se.
