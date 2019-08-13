@@ -1,0 +1,23 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NÃO VIOLA A COISA JULGADA A INCLUSÃO DO ÍNDICE DO IRSM DE FEV/1994 EM SEDE DE EXECUÇÃO. JURISPRUDÊNCIA CONSOLIDADA DESTA CORTE. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL DO SEGURADO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por [NOME], com base na alínea a do art. 105, III da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+REVISÃO DE BENEFÍCIO - Aplicação do IRSM integral de fevereiro de 1994 - Inadmissibilidade - Renda mensal inicial apurada pelo segurado - Cálculo de liquidação homologado que deve ser prestigiado - Providos os recursos oficial, considerado interposto, e voluntário do INSS para julgar improcedente a ação.
+PORTE DE REMESSA E RETORNO - Recolhimento a final - Artigo 27 do Código de Processo Civil (fls. 268).
+2. Os Embargos de Declaração opostos pelo ora recorrente foram rejeitados (fls. 296/299).
+3. O Segurado nas razões do Apelo Especial inadmitido, sustenta violação dos arts. 535, II, 165 e 458, II, 471, I, 469, III e 473 do CPC, aos seguintes fundamentos: (a) o acórdão recorrido, a despeito da oposição de Embargos de Declaração, permaneceu omisso; (b) houve modificação do estado de direito, com a edição da Medida Provisória 201, de 23 de julho de 2004, convertida na Lei 10.999, de 15 de dezembro de 2004, que prevê expressamente a aplicação da variação do IRSM de fevereiro de 1994 na correção dos salários-de-contribuição. Portanto, deve ser aplicado tal índice aos cálculos dos autos, tendo em vista que não viola a coisa julgada.
+3. É o relatório.
+4. A insurgência prospera.
+5. De fato, esta Corte consolidou a orientação de que não viola a coisa julgada a inclusão o IRSM de fevereiro de 1994 no cálculo do montante devido em sede de execução, a despeito de inexistência de previsão expressa no título judicial que reconheceu o direito ao benefício.
+6. Confirmando tal assertiva, os seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. BENEFÍCIO PREVIDENCIÁRIO. DIREITO RECONHECIDO POR SENTENÇA. ÍNDICE DE ATUALIZAÇÃO APLICÁVEL. SILÊNCIO DO TÍTULO JUDICIAL. ADOÇÃO DO IRSM DE FEVEREIRO DE 1994. PERCENTUAL RECONHECIDO PELA JURISPRUDÊNCIA DOMINANTE. INOCORRÊNCIA DE OFENSA À COISA JULGADA.
+1. Não há ofensa à coisa julgada nas execuções que incluem o IRSM de fevereiro de 1994 no cálculo do montante devido, a despeito de inexistência de previsão expressa no título judicial que reconheceu o direito ao benefício.
+2. Agravo Regimental não provido (AgRg no REsp. 1.174.219/PR, Rel. Min. LEOPOLDO DE ARRUDA RAPOSO, DJe 8.5.2015).
+
+PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO DE SENTENÇA. AGRAVO REGIMENTAL EM AGRAVO NO RECURSO ESPECIAL. RENDA MENSAL INICIAL. CORREÇÃO MONETÁRIA DOS SALÁRIOS-DE-CONTRIBUIÇÃO QUE INTEGRAM O PERÍODO BÁSICO DE CÁLCULO. INCLUSÃO DO IRSM DE FEVEREIRO DE 1994. POSSIBILIDADE, EM SEDE DE EXECUÇÃO, AINDA QUE NÃO DETERMINADO NA DECISÃO EXEQUENDA. RECURSO DESPROVIDO.
+I - "1. Os benefícios previdenciários devem ser implantados com a observância da legislação pertinente, à semelhança daqueles concedidos diretamente pela autarquia, corrigindo-se as parcelas atrasadas.
+2. A observância da legislação de regência não afasta a adoção da correção monetária integral nos salários-de-contribuição relativos a janeiro e fevereiro de 1994 nos benefícios concedidos judicialmente, cujo termo inicial for posterior a 1º/3/1994. Inteligência do disposto no § 5º do art. 20 da Lei n. 8.880/1994.
+3. A teor da Lei n. 8.213/1991, em seus arts. 28 e 29, II, o valor do benefício será apurado a partir do salário-de-benefício, o qual, para aqueles de caráter continuado, inclusive o decorrente de acidente de trabalho, resulta da média aritmética simples dos maiores salários-de-contribuição devidamente corrigidos, ex vi do art. 201, § 3º, da CF/1988.
+4. Não há como afastar a correção monetária integral dos salários-de-contribuição que compõem os salários-de-benefícios do auxílio em vias de ser implantado, sob pena de ofender o comando constitucional (201, § 3º) e o art. 29-B da Lei n. 8.213/91, com a redação dada pela Lei n. 10.877/2004" (AgRg no Ag 1216157/SP, Rel. Ministro Jorge Mussi; REsp 596.455/SP, Rel. Ministro Arnaldo Esteves Lima; AgRg no Ag 509.266/SP, Rel. Ministro Hélio Quaglia Barbosa).
+II - Agravo regimental desprovido (AgRg no Ag 1.397.608/SC, Rel. Min. NEWTON TRISOTTO, DJe 5.12.2014).
+7. Ante o exposto, conheço do Agravo para dar provimento ao Recurso Especial do Segurado, determinando o retorno dos autos à origem para que prossiga no julgamento do feito, a partir da orientação aqui fixada.
+8. Publique-se. Intimações necessárias.
