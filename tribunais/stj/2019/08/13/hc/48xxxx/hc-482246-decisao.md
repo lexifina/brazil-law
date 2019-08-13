@@ -1,0 +1,20 @@
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. REGIME INICIAL FECHADO. ESPECIAL GRAVIDADE DA CONDUTA. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RENAN DE [NOME], [NOME], THAIRON MATHIAS COELHO BRANDÃO e GABRIEL MOURA DE ASSIS contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro no julgamento da APC n.º 0054331-68.2017.8.19.0021.
+Consta nos autos que os Pacientes foram condenados à pena privativa de liberdade de 9 (nove) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, e ao pagamento de 1.399 (mil, trezentos e noventa e nove) dias-multa, pela prática dos ilícitos tipificados nos arts. 33 e 35, ambos c.c. o art. 40, inciso IV, todos da Lei n.º 11.343/2006, pois, além de portarem "44g (quarenta e quatro gramas) de Cannabis sativa L., acondicionados em 35 (trinta e cinco) "sacolés" e 59g (cinquenta e nove gramas) de [NOME] em sua forma pulverulenta, acondicionados em 56 sacolés", integravam associação criminosa, que empregava "métodos de intimidação coletiva" por intermédio do emprego de armas de fogo e artefatos explosivos (fls. 91-92).
+O Tribunal estadual deu parcial provimento ao apelo defensivo para absolver os Pacientes do delito previsto no art. 35 da Lei n.º 11.343/2006, redimensionando as suas penas para 5 (cinco) anos e 10 (dez) dez meses de reclusão, e 583 (quinhentos e oitenta e três) dias-multa.
+Neste writ, a Parte Impetrante sustenta, em suma, que os Pacientes são primários e que fazem jus ao cumprimento da reprimenda em regime inicial semiaberto.
+Requer, em liminar e no mérito, a alteração do regime prisional.
+O pedido liminar foi indeferido nos termos da decisão de fls. 116-120.
+As informações da Autoridade Impetrada foram prestadas às fls. 125-136.
+O Ministério Público Federal manifestou-se às fls. 139-140, opinando pelo não conhecimento da impetração.
+É o relatório. Decido.
+Da acurada leitura do acórdão impugnado, observa-se que o Tribunal de origem apontou elementos concretos suficientes para estabelecer o regime fechado para o inicial cumprimento da reprimenda imposta aos Pacientes, notadamente em razão da gravidade concreta da conduta, evidenciada pela alta potencialidade lesiva do material bélico apreendido, in verbis (fl. 111; sem grifos no original):
+"Por derradeiro, atento à premissa de que, mesmo diante dos crimes de tráfico de entorpecentes (STF, Rel. Min. Dias Toffoli, HC 111.840/12, julg. em 27.06.2012), o regime prisional é fixado segundo as regras do art. 33 do Código Penal, sob o influxo do princípio da proporcionalidade (STJ, Rel. Min. Jorge Mussi, 5.ª T., HC 243239/MS, julg. em 20.11.2012), tem-se a manutenção excepcional da modalidade fechada, considerando as circunstâncias concretas do evento, sobretudo a alta potencialidade lesiva do material bélico apreendido, ciente de que, na linha da orientação do STJ em situação análoga, "mesmo que a pena-base seja estabelecida no mínimo legal, não haverá contrariedade à Súmula 440 desta Corte, por força da gravidade concreta do delito, decorrente da utilização de instrumento dotado de maior poder letal" (STJ, Rel. Min. Regina Costa, 5.ª T., HC 294429/SP, julg. Em 26.08.2014)."
+Exemplificativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. ABRANDAMENTO DO REGIME PRISIONAL. INVIABILIDADE. GRAVIDADE CONCRETA DO DELITO. NATUREZA E EXPRESSIVA QUANTIDADE DE ENTORPECENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+- O regime mais gravoso foi justificado na gravidade concreta do delito, consubstanciada na natureza e quantidade dos entorpecentes apreendidos - 57 gramas de maconha e 69 gramas de crack -, o que está em harmonia com a jurisprudência pacificada desta Corte Superior.
+- Agravo regimental a que se nega provimento." (AgRg no HC 508.866/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/06/2019, DJe 05/08/2019.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
