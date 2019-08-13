@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AÇÃO DE REVISÃO CONTRATUAL C/C REPETIÇÃO DE INDÉBITO. CONTRATO DE EMPRÉSTIMO PESSOAL E RENEGOCIAÇÕES. SUFICIÊNCIA DOS CONTRATOS CARREADOS AOS AUTOS. ABUSIVIDADE E/OU ILEGALIDADE NAS COBRANÇAS. AUSÊNCIA. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS 05 E 07/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. HONORÁRIOS RECURSAIS (ART. 85, § 11, DO CPC/2015). EXIGIBILIDADE SUSPENSA.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME], em face da decisão que negou seguimento a recurso especial, aviado pela alínea "a" do art. 105, III, da Constituição Federal, ao fundamento de ausência de demonstração da ofensa ao art. 400 do CPC/2015, bem como de incidência da Súmula 05/STJ (e-STJ fls. 391-392).
+Em suas razões, infirmou especificamente as razões da decisão agravada (e-STJ fls. 395-400).
+No recurso especial, a parte recorrente alega ofensa ao art. 400 do Código de Processo Civil de 2015, sustentando, em síntese, que devem ser admitidos como verdadeiros os fatos alegados pelo ora agravante, sobretudo em razão de que a ausência de dois dos contratos renegociados inviabiliza o exame do pedido de nulidade formulado pelo autor, porquanto se torna impossível a análise das cláusulas questionadas.
+Não foram apresentadas contrarrazões (e-STJ fl. 390).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015, conforme Enunciado Administrativo Nº 3/STJ.
+Ato contínuo, percebe-se que a irresignação não merece acolhida.
+A parte recorrente, em sede de recurso especial, alega ofensa ao art. 400 do Código de Processo Civil de 2015, sustentando, em síntese, que devem ser admitidos como verdadeiros os fatos alegados pelo ora agravante, sobretudo em razão de que a ausência de dois dos contratos renegociados inviabiliza o exame do pedido de nulidade formulado pelo autor, porquanto se torna impossível a análise das cláusulas questionadas.
+O acórdão recorrido, por sua vez, assim assentou (e-STJ fls. 371-373):
+Cuida-se de ação revisional de contrato de empréstimo pessoal vinculado à [CONTA], [CONTA] (..)
+Não há que se falar de preclusão da prova documental a justificar a incidência do art. 359 do CPC/73, vigente à época da prolação da sentença.
+O Banco-apelado, ainda que instado mais de uma vez pelo juízo a quo, juntou os documentos de fls. 213/232 e 256/261, que se mostram suficientes ao julgamento da causa. (..)
+Apesar de o Banco-apelado ter juntado apenas o contrato do empréstimo originário e somente uma das três renegociações, não devem ser admitidos como verdadeiros os fatos alegados pelo Apelante, com o acolhimento integral da sua pretensão.
+Isso porque, da análise dos documentos de fls. 213/232 e 256/261, não se vislumbra nenhum indício das abusividades e/ou ilegalidade arguidas pelo Apelante, que não teve sequer o trabalho de impugnar especificadamente os encargos dos contratos juntados aos autos.
+De qualquer sorte, é possível extrair-se, prima facie, a regularidade dos encargos pactuados nos contratos juntados aos autos, dentre os quais a taxa de juros remuneratórios, capitalização de juros, IOF, juros de mora e as tarifas incidentes, o que, repita-se, afasta a pretensão de incidência do art. 359 do CPC/73.
+Não há também indícios de vício de consentimento ou falta de informação, pois o Apelante, conscientemente, contratou o empréstimo e renegociou a dívida, por mais de uma vez, por mera liberalidade, não se vislumbrando violação à boa-fé objetiva ou à função social do contrato.
+Anota-se, ademais, conforme bem ponderado pelo juízo a quo, que o Apelante é advogado militante na comarca de origem, razão pela qual não pode alegar desconhecimento da extensão das obrigações que voluntariamente contratou.
+Com efeito, vislumbra-se que a irresignação da parte recorrente não merece guarida, uma vez que, elidir as conclusões do aresto impugnado, mormente quanto ao fato de que (a) "o Banco-apelado, ainda que instado mais de uma vez pelo juízo a quo, juntou os documentos de fls. 213/232 e 256/261, que se mostram suficientes ao julgamento da causa"; de que (b) da análise dos documentos de fls. 213/232 e 256/261, não se vislumbra nenhum indício das abusividades e/ou ilegalidade arguidas pelo Apelante, que não teve sequer o trabalho de impugnar especificadamente os encargos dos contratos juntados aos autos"; bem como da (c) "regularidade dos encargos pactuados nos contratos juntados aos autos, dentre os quais a taxa de juros remuneratórios, capitalização de juros, IOF, juros de mora e as tarifas incidentes, o que, repita-se, afasta a pretensão de incidência do art. 359 do CPC/73", demandaria a reinterpretação de cláusulas contratuais, e o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta sede especial a teor das Súmulas 05 e 07/STJ.
+Destarte, melhor sorte não socorre à parte agravante.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015.
+O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que a sentença fixou a verba honorária em R$ 788,00 (setecentos e oitenta e oito reais), em benefício do patrono da parte recorrida (e-STJ fl. 335), a majoração dos honorários devidos pela parte ora recorrente em R$ 150,00 (cento e cinquenta reais) é medida adequada ao caso.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial, e, com base no art. 85, §11, do CPC/2015, majoro os honorários de sucumbência devidos pela parte ora recorrente em R$ 150,00 (cento e cinquenta reais), observado o benefício da gratuidade de justiça concedido na origem.
+Intimem-se.
