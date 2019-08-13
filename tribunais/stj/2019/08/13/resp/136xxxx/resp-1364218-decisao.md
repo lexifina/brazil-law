@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com amparo no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+"PENAL. PROCESSUAL PENAL. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. ARTIGO 12 DA LEI 10.826/2003. REGISTRO VENCIDO NO SINARM. FORMAÇÃO DE QUADRILHA OU BANDO. ARTIGO 288 DO CP. INEXISTÊNCIA DE VÍNCULO ASSOCIATIVO. INÉPCIA DA DENÚNCIA. ORDEM CONCEDIDA.
+1. A denúncia deve preencher os requisitos elencados no artigo 41 do Código de Processo Penal, parâmetros de objetividade para o seu recebimento.
+2. No caso, as provas coligidas a instruir a impetração demonstram, sem necessidade de aprofundar o exame do acervo fático-probatório, a atipicidade penal da conduta do paciente.
+3. A denúncia não descreve fato que possa conferir ao paciente uma conduta como sendo característica da perfeição de formação de quadrilha ou bando, ilícito tipificado no artigo 288 do Código Penal, para cuja configuração, além do mínimo de participantes de quatro pessoas, faz-se necessária a existência de vínculo associativo permanente e também estável com a finalidade de praticar crimes.
+4. Quanto ao crime do artigo 12 da Lei 10.826/2003, o laudo pericial constata que as armas apreendidas (desmuniciadas e sem carregador) são de uso permitido, havendo sido licitamente adquiridas pelo paciente e em nome dele registradas, encontrando-se, todavia, com registros vencidos no Sistema Nacional de Armas - SINARM. Atipicidade da conduta.
+5. Ordem de habeas corpus concedida." (e-STJ, fls. 834.)
+Os embargos de declaração opostos foram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. PRETENSÃO DE EFEITOS INFRINGENTES. ALEGAÇÃO DE CONTRADIÇÕES, OBSCURIDADE E OMISSÃO. PREQUESTIONAMENTO. AUSÊNCIA DE QUALQUER VÍCIO PROCESSUAL. REDISCUSSÃO DA MATÉRIA. EMBARGOS NÃO PROVIDOS.
+1. Trata-se de embargos de declaração interpostos pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão em habeas corpus, em que concedida a ordem em favor do paciente, para trancar a Ação Penal quanto aos crimes tipificados nos artigos 288 do Código Penal e 12 da Lei 10.826/2003, excluindo-os da capitulação na Denúncia.
+2. Na via estreita dos declaratórios é inadmissível a rediscussão de matéria já julgada, em que não existe qualquer dos vícios processuais apontados - contradição, obscuridade ou omissão.
+3. O caso revela ser a intenção do embargante rediscutir matéria antes apreciada e decidida. Não se coaduna a este desiderato a natureza dos embargos de declaração, ainda que para fins de prequestionamento.
+4. Embargos de efeitos manifestamente infringentes.
+5. Embargos de declaração conhecidos e não providos." (e-STJ, fl. 892).
+O recorrente aponta, além da existência de dissídio jurisprudencial, negativa de vigência, "primeiramente ao artigo 619 do CPP, vez que não abordou as questões que lhes foram postas, apesar da oposição de embargos de declaração, bem como ao artigo 288 do Código Penal e também ao artigo 12 da Lei no 10.826/03" (e-STJ, fl. 900).
+Requer, em síntese, seja anulado "o acórdão recorrido, em virtude de não haver ele apreciado adequadamente a matéria posta nos embargos de declaração opostos pelo Parquet, inclusive para fins de prequestionamento, com a devolução do processo ao Tribunal a quo para que se manifeste expressamente sobre a matéria suscitada nos embargos de declaração. Na hipótese de esse STJ entender diversamente, no sentido de que a matéria já está devidamente prequestionada, que seja, então, provido o presente recurso especial e proferida nova decisão por esse Tribunal, no sentido de ser cassada a ordem de habeas corpus concedida em prejuízo ao ius persequendi in iudicio de que é titular o MINISTÉRIO PÚBLICO FEDERAL" (e-STJ, fl. 918).
+É o relatório.
+Consta dos autos, que o acusado foi denunciado pela "pela suposta prática dos crimes de violência ou fraude em arrematação judicial, de formação de quadrilha ou bando, de posse irregular de arma de fogo de uso permitido, e, também, de posse ou, porte ilegal de arma de fogo de uso, restrito cumulados materialmente entre si" (e-STJ, fl. 824).
+Irresignada, a defesa impetrou habeas corpus com o fim de excluir das imputações o tipo penal do artigo 12 da Lei 10.826/2003, por carência de justa causa, e o do tipificado no artigo 288 do Código Penal, dada a manifesta atipicidade das condutas.
+A Segunda Turma do Tribunal Regional Federal da 5ª Região concedeu ordem de habeas corpus ao paciente, para trancar a Ação Penal quanto aos crimes tipificados nos referidos dispositivos legais, excluindo-os da capitulação na Denúncia.
+Desta decisão, recorreu o Ministério Público, dando origem ao presente recurso especial.
+Nesse contexto, verifica-se que não houve marco interruptivo prescricional após o recebimento da denúncia. Assim, deve-se reconhecer a superveniência de questão de ordem pública que demanda a concessão de habeas corpus de ofício.
+Como determina o art. 109, caput, do Código Penal, "a prescrição, antes de transitar em julgado a sentença final (..), regula-se pelo máximo da pena privativa de liberdade cominada ao crime".
+Os crimes tipificados no art. 12 da Lei 10.826/2003 e no art. 288 do Código Penal possuem pena máxima de 3 anos de reclusão, cada um deles. Assim, a prescrição da pretensão punitiva ocorre em 8 anos (art. 109, IV, do CP).
+Portanto, uma vez que transcorridos mais de 8 anos desde a data do recebimento da denúncia, em 27/05/2011 (e-STJ, fl. 807) até hoje, e não havendo outra causa interruptiva da prescrição, deve ser declarada extinta a punibilidade do acusado quanto a estes dois delitos.
+À vista do exposto, com fundamento no art. 109, IV, do Código Penal, concedo habeas corpus, de ofício, para declarar extinta a punibilidade de [NOME], quanto aos mencionados delitos.
+Consequentemente, julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
