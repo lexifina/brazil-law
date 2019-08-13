@@ -1,0 +1,5 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo LIDIA APARECIDA DOS REIS CASTILHO, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu Recurso Especial, que contém controvérsia acerca da devolução de valores de beneficios previdenciários recebidos pela parte, em razão da reforma da decisão que antecipa a tutela pretendida.
+Ressalte-se que, acerca do tema, foram suscitadas questões de ordem nos REsps n. 1.734.627/SP, 1.734.647/SP, 1.724.656/SP, REsp 1.734.685/SP e 1.734.698/SP, reautuada como PET n. 12482/DF, acolhidas na Primeira Seção em 14/11/2018 (acórdão publicado no DJe de 03/12/2018), para propor a revisão do entendimento firmado no tema repetitivo 692/STJ (Controvérsia 51).
+Ante o exposto, nos termos do art. 1.030, III, do CPC/2015, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que o Recurso Especial fique sobrestado até o julgamento definitivo da Controvérsia 51 pelo Superior Tribunal de Justiça e, após, seja submetido a julgamento na forma do art. 1.040 do CPC/2015.
+I.
