@@ -1,0 +1,118 @@
+DECISÃO
+ Trata-se de Agravo, interposto por [NOME] contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"PREVIDENCIÁRIO. APELAÇÃO CÍVEL. APOSENTADORIA POR IDADE. TRABALHADOR RURAL. CONJUNTO PROBATÓRIO INSUFICIENTE. HONORÁRIOS DE ADVOGADO MANTIDOS.
+1. Insuficiente o conjunto probatório a demonstrar o exercício da atividade rural.
+2. Honorários de advogado mantidos. Sentença proferida na vigência do Código de Processo Civil/73. Inaplicabilidade da sucumbência recursal prevista no artigo 85, § 11º do CPC/2015.
+3. Apelação não provida" (fl.216e).
+Opostos Embargos de Declaração, foram rejeitados, nestes termos:
+"EMBARGOS DE DECLARAÇÃO. NÃO VERIFICAÇÃO DAS HIPÓTESES PREVISTAS NO ARTIGO 1.022 DO CPC/15. PROPÓSITO MERAMENTE MODIFICATIVO. PREQUESTIONAMENTO. RECURSO REJEITADO.
+1. De acordo com o art. 1.022 do Código de Processo Civil, os embargos de declaração possuem função processual especifica, que consiste em integrar, retificar ou complementar a decisão embargada.
+2. A embargante não logrou demonstrar a existência de omissão ou de qualquer das hipóteses elencadas naquele dispositivo legal.
+3. A insatisfação da parte com o resultado da decisão embargada não enseja a oposição de embargos de declaração.
+4. Os embargos para fim de prequestionamento têm como pressuposto de admissibilidade a demonstração da ocorrência de qualquer das hipóteses previstas nos incisos do art. 1.022 do CPC/15, não se fazendo necessária, para interposição de recursos aos Tribunais Superiores, alusão expressa a todos os dispositivos legais mencionados pelas partes.
+5. Embargos de declaração rejeitados" (fl.259e).
+Sustenta o recorrente, nas razões do Recurso Especial, fundamentado na alínea a do permissivo constitucional, afronta aos arts. 11, 25, 48, §2º e 143, todos, da da Lei 8.213/91. Afirma in verbis:
+"Inconformado com a r. decisão a quo, o Recorrente apresentou recurso de apelação requerendo a reforma da r. sentença, a fim de que a pretensão deduzida na petição inicial seja julgada procedente. O Egrégio Tribunal Regional Federal da 3ª Região, por sua Sétima Turma, negou provimento ao recurso interposto, julgando improcedente o pedido.
+Entretanto, com o devido respeito, as provas trazidas nos autos são capazes reconhecer o pedido da parte recorrente, assim o v. acórdão não merece prosperar.
+DO CABIMENTO DO RECURSO
+Quanto ao seu cabimento, o presente recurso é regulamentado no art. 105, inc. III, letra "a" da Constituição Federal, onde menciona que é competência exclusiva do Superior Tribunal de Justiça, apreciar Recurso Especial fundado em decisão proferida em última ou única instância, quando a mesma contrariar lei federal ou negar-lhe vigência, mais precisamente os artigos 11, 25, 48 e 143 da Lei 8.213/1991.
+Assim, a decisão recorrida foi proferida em "segunda instância", não cabendo mais nenhum outro recurso na instância originária.
+No mais, a questão federal fel devida pré - Questionada nas razões de recurso de Apelação e pie embargos de declaração, quando a mesma foi expressamente ventilada, enfrentada e dirimida pelo Tribunal de origem.
+DO MÉRITO DO RECURSO
+Nos termos já mencionado, o Recorrente propôs ação reivindicatória de beneficio previdenciário buscando a concessão de aposentadoria por idade.
+Para fazer prova de sua condição de trabalhador rural valeu-se dos meios legalmente admissíveis e lícitos, como documentos que foram juntados, as quais comprovaram que a recorrente trabalha na lida rural.
+O Recorrente teve seu pedido julgado improcedente em primeira instância, sendo mantido pelo E. Tribunal Regional Federal da 3ª Região, sob o fundamento de que não foi comprovado o efetivo exercício da atividade rural, uma vez que a prova testemunhal não foi hábil a corroborar os documentos acostados no pleito, tendo em vista a amizade Intima das testemunhas com o Recorrente.
+Contudo, data venta, assim agindo, a decisão recorrida violentou os artigos 11, 25, 48 e 143 da Lei 8.213/1991 da Lei no 8.213/1991, senão vejamos:
+(..)
+Com efeito, o artigo 11 da Lei acima mencionada garante à qualidade de segurado especial ao trabalhador rural que explore individualmente ou em regime de economia familiar atividade agropecuária como produtor na condição de proprietário ou não de imóvel rural, mesmo que de forma descontínua.
+Ainda, o artigo 25 da lei de benefícios nos leva que o período de carência para a aposentadoria por idade corresponde a 180 meses de contribuição e o art. 48, §2º, informa que para a concessão da aposentadoria por idade rural é necessária à comprovação, ainda que de forma descontínua, o efetivo trabalho rural por tal período imediatamente anterior ao requerimento.
+Pela análise dos autos, o Recorrente comprovou tais requisitos. Foram juntados documentos que demonstram que o Recorrente sempre trabalhou na lavoura, portanto desnecessário o recolhimento de contribuições.
+Entretanto, consta dos autos que o Recorrente sobreviveu por toda sua vida como trabalhador rural, todavia, o v. acórdão desconsiderou a prova oral, tendo em vista a amizade íntima com a parte recorrente. Pois bem. O simples fato das testemunhas frequentarem uma ou outra vez a casa do Recorrente não desqualifica suas declarações, uma vez Que são pessoas Monges e prestaram depoimentos com a finalidade de demonstrar a verdade dos fatos.
+De mais a mais, o Município onde as testemunhas e o Recorrente residem possui um pouco mais de 3.000 (três mil) habitantes, onde todos se conhecem e consideram amigos, portanto rechaça a alegação de amizade íntima.
+Assim, ficou demonstrado que a parte recorrente comprovou a sua condição de trabalhador rural entre 1978 a 2011, e a prova testemunhal é apenas um complemento da prova material, tendo em vista a robustez dos documentos apresentados.
+É certo que os documentos que acompanharam a petição inicial comprovam o exercício de atividade rural no período exigido pela Lei de Benefícios.
+Neste sentido, consta dos autos documentos qualificando o Recorrente como lavrador, vejamos:
+a) Certidão de Casamento Celebrado em 04/03/1978, qualificando o Recorrente como lavrador;
+b) Certidão de nascimento do filho.
+nascido em 12/04/1988, também qualificando como lavrador;
+C) Cópia da CTPS do Recorrente, onde consta a
+que desde 2002 até desenvolve atividade rural.
+d) Matriculas de Imóveis e notas fiscais qualificando seus pais como lavradores;
+Os documentos juntados com a inicial e no curso do pleito, são capazes de demonstrar que o recorrente preenche os requisitos para a obtenção da aposentadoria por idade. Contudo, consta do v. acórdão que as testemunhas não corroboraram com a prova material, o que não se pode levar em consideração, tendo em vista que a documentação apresentada já é capaz de demonstrar a atividade rural pelo tempo necessário exigido na lei de benefícios.
+Nesse sentido, inegavelmente não há como afirmar que o ora Recorrente não produziu prova hábil para demonstrar o exercício de atividade no campo, pelo período de carência legalmente exigido, segundo a Lei dos Benefícios, de 180 meses de efetivo trabalho rural.
+Assim, foi comprovada que o Recorrente sempre trabalhou no campo.
+Destarte, o julgamento proferido nos presentes autos, da forma como foi realizado, feriu violentamente os artigos suso mencionados da Lei 8.213/1991 e, por conseqüência, o direito da parte Recorrente.
+Ademais, o debate trazido à baila não importa reexame de provas, mas sim, ao revés, matéria dg direito, não incorrendo, portanto, com a regra ajustada na Súmula 07 desta Egrégia Corte.
+Dessa forma, compete ao Superior Tribunal de Justiça, julgar, mediante Recurso Especial, as causas decididas em última instância, quando a decisão recorrida, contrariar dispositivo de Lei Federal" (fls. 271/277e).
+Por fim, requer "demonstrado, como se acha, pelos elementos de fato e de direito, o cabimento do recurso, pede a V. Exa que seja intimado o recorrido, abrindo-lhe vista pelo prazo de 15 dias para apresentar contrarrazões e, findo o prazo, com ou sem contrarrazões, determine a remessa dos autos ao Egrégio Superior Tribunal de Justiça, para que processo o recurso e reforme o v. acórdão julgando totalmente procedente o pedido inicial" (fl.277e).
+Sem contrarrazões, o Recurso Especial foi inadmitido na origem (fls.282/283e), advindo o presente Agravo (fls. 284/288e).
+Não foi apresentada contraminuta.
+A irresignação não merece acolhimento.
+O Tribunal de origem, para decidir a controvérsia dos autos e manter a sentença de improcedência do pedido, deixou consignado, no que interessa:
+"Trata-se de ação objetivando a concessão de aposentadoria por idade a trabalhador rural, no valor de 01 (um) salário mínimo mensal, a partir da data do protocolo da ação ou do indeferimento administrativo, acrescido de custas e despesas do processo, corrigidas monetariamente, e honorários advocatícios de 20% sobre o valor da causa.
+A r. sentença julgou improcedente o pedido. Os honorários advocatícios foram fixados em 10% sobre o valor da causa.
+A parte autora apelou, requerendo a procedência da ação, nos termos da inicial.
+Sem contrarrazões, subiram os autos a este Tribunal.
+É o relatório.
+(..)
+Conclui-se, portanto, que para a concessão da aposentadoria por idade rural são necessários os requisitos: idade mínima e prova do exercício da atividade laborativa pelo período previsto em lei, no período imediatamente anterior ao que o segurado completa a idade mínima para se aposentar.
+Nos termos da Súmula de nº 149 do STJ, é necessário que a prova testemunhal venha acompanhada de início razoável de prova documental: "A prova exclusivamente testemunhal não basta à comprovação da atividade rurícola, para efeito de obtenção do beneficio previdenciário".
+Não se exige que a prova material se estenda por todo o período de carência, mas é imprescindível que a prova testemunhal faça referência à época em que foi constituído o documento (AR 4.094/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 26/09/2012, DJe 08/10/2012).
+A idade mínima exigida para a obtenção do benefício restou comprovada pela documentação pessoal do autor, acostada à fl. 12. (nascido em 11/11/50).
+Para comprovar as suas alegações, o autor apresentou: I) certidão de casamento, realizado em 04/03/78, na qual foi qualificado como lavrador; II) certidão de nascimento de filho, nascido em 12/04/88, na qual também foi qualificado como lavrador; III) cópia da sua CTPS, na qual constam vínculos rurais descontínuos de 2002 a 2011.
+A certidão de casamento apresentada constitui início de prova material do exercício da atividade rural.
+A anotação em CTPS constitui prova do período nela anotado, merecendo presunção relativa de veracidade. Pode, assim, ser afastada com apresentação de prova em contrário, ou demandar complementação em caso de suspeita de adulteração, a critério do Juízo.
+A simples alegação de irregularidade nas anotações constantes da CPTS não é suficiente para desconsiderá-las. Caberia à autarquia comprovar a existência de fraude ou falsidade, o que não ocorreu.
+No entanto, a prova oral não é hábil a corroborar os documentos acostados aos autos, tendo em vista que as testemunhas se declararam amigas íntimas do autor e, por essa razão, foram ouvidas como informantes, restando inviável a concessão do benefício pleiteado.
+Com relação aos honorários de advogado, estes devem ser mantidos na forma como fixados na sentença, considerando que o recurso foi interposto na vigência do Código de Processo Civil/1973, não se aplicando a sucumbência recursal prevista no artigo 85, §11º do Código de Processo Civil/2015, que determina a majoração dos honorários de advogado em instância recursal (Enunciado Administrativo nº 7/STJ).
+Diante do exposto, NEGO PROVIMENTO À APELAÇÃO DA PARTE AUTORA" (fls. 211/217e).
+No âmbito do julgamento dos Embargos de Declaração, asseverou, ainda:
+"Trata-se de embargos de declaração opostos pela parte autora contra o acórdão de fls. 188/190, que negou provimento à sua apelação.
+Alega a embargante que "há ponto controverso no v. acórdão proferido, uma vez que deixou de apreciar como um todo a prova documental apresentada..", e juntou documentos.
+Devidamente intimado, o INSS não se manifestou a respeito da juntada de tais documentos.
+Requer o acolhimento dos presentes embargos, sustentando que o início de prova material apresentado, corroborado pela prova oral, comprovou a sua condição de rurícola.
+É o relatório.
+De acordo com o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração possuem função processual específica, que consiste em integrar, esclarecer, complementar ou retificar a decisão embargada.
+No caso em apreço, todavia, não ocorreu omissão nem contradição, considerando que constam expressamente da decisão ora impugnada as razões pelas quais o beneficio em questão foi indeferido, sendo irreparável o acórdão recorrido.
+A embargante requer, em verdade, o reexame de questões já apreciadas e devidamente fundamentadas no acórdão embargado, objetivando a sua reforma, o que só pode ser pleiteado por meio da via recursal adequada.
+A insatisfação da parte com o resultado da decisão embargada não enseja a oposição de embargos de declaração.
+Nesse sentido, aliás, a jurisprudência pacifica do Superior Tribunal de Justiça (AgRg no REsp 1.443.216/RS, AgRg no AREsp 62.064/SP, EDcI no REsp 988.915/SP).
+Por fim, mesmo os embargos para fim de prequestionamento têm como pressuposto de admissibilidade a demonstração da ocorrência de qualquer das hipóteses previstas nos incisos do art. 1.022 do CPC/15, não se fazendo necessária, para interposição de recursos aos Tribunais Superiores, alusão expressa a todos os dispositivos legais mencionados pelas partes, bastando tão somente que a matéria debatida seja totalmente ventilada no v. acórdão. Nesse sentido foi o que decidiu o STJ no AgRg no REsp 1.485.281/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/11/2014, DJe 24/11/2014.
+Ante o exposto, rejeito os embargos de declaração" (fls. 256/260e).
+Não obstante, as razões do recorrente, verifica-se, do exame do acórdão recorrido, que o Tribunal de origem não emitiu pronunciamento acerca da tese de que "o simples fato das testemunhas frequentarem uma ou outra vez a casa do Recorrente não desqualifica suas declarações, uma vez que são pessoas simples e prestaram depoimentos com a finalidade de demonstrar a verdade dos fatos. De mais a mais, o Município onde as testemunhas e o Recorrente residem possui um pouco mais de 3.000 (três mil) habitantes, onde todos se conhecem e consideram amigos, portanto rechaça a alegação de amizade intima" (fl.275e), e apesar da oposição dos Embargos de Declaração a questão não foi analisada pelo Tribunal a quo. Incide, assim, o óbice da Súmula 211 do STJ.
+Isso porque, para que se configure o prequestionamento, nos termos do regramento vigente à data da interposição do Recurso Especial, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+A propósito:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. NOVO CPC. NÃO APLICAÇÃO AO CASO DOS AUTOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211. MULTA APLICADA POR TRIBUNAL DE CONTAS ESTADUAL A GESTOR MUNICIPAL. RECEITA DO ENTE FEDERATIVO A QUE SE VINCULA O ÓRGÃO SANCIONADOR. LEGITIMIDADE DO ESTADO PARA AJUIZAR A COBRANÇA. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVADA.
+(..)
+3. O insurgente alegou violação do art. 38 da Lei 8.666/93. No entanto, percebe-se que o Tribunal de origem não emitiu juízo de valor acerca do referido dispositivo legal.
+4. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+(..)
+8. Agravo Interno não provido" (STJ, AgInt no AREsp 926.189/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 11/10/2016).
+Desse modo, em não havendo sido apreciada as alegações suscitadas, mesmo após a parte ter oposto Embargos Declaratórios, no Tribunal de origem, a parte recorrente deveria vincular a interposição do Recurso Especial à violação ao art. 1.022 do CPC/2015, e, não, insistir na tese recursal, tal como ocorreu na hipótese.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 66, 67 E 71 DA CLT. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211 DO STJ. APLICAÇÃO DA REGRA PREVISTA NO ART. 1.025 DO CPC/2015. PREQUESTIONAMENTO FICTO. INVIABILIDADE. REQUISITOS LEGAIS NÃO PREENCHIDOS. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS PÚBLICOS. FUNDAMENTAÇÃO CONSTITUCIONAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Extrai-se do acórdão recorrido que os dispositivos legais apontados como violados e as matérias a eles correlatas não foram objeto de apreciação pelo Tribunal de origem, nem sequer implicitamente. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado. Aplicação do óbice fundado na Súmula 211 do STJ.
+2. O Superior Tribunal de Justiça possui precedente no sentido de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+3. Ainda que superada essa premissa, verifica-se que o acórdão recorrido está assentado em fundamento constitucional, circunstância que inviabiliza a análise da controvérsia na via especial, sob pena de usurpar-se a competência do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento" (STJ, AgInt no REsp 1631358/RN, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017).
+Mesmo se inexistisse o referido óbice, melhor sorte não socorreria ao recorrente.
+Com efeito, considerando a fundamentação adotada, o acórdão recorrido, que afirmou que "a prova oral não é hábil a corroborar os documentos acostados aos autos, tendo em vista que as testemunhas se declararam amigas íntimas do autor e, por essa razão, foram ouvidas como informantes, restando inviável a concessão do benefício pleiteado" (fl.215e), concluindo, portanto, pela inexistência dos requisitos para concessão do benefício previdenciário, somente poderia ser modificado mediante o necessário revolvimento dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte. Destaco, por ilustrativos:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA POR TEMPO DE SERVIÇO. ATIVIDADE RURAL EM REGIME DE ECONOMIA FAMILIAR. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal a quo concluiu que a parte agravante não comprovou o exercício da atividade rural, porquanto, ausente inicio de prova material, devidamente corroborado por prova testemunhal. A revisão de tal entendimento encontra óbice na Súmula 7/STJ.
+2. O tempo de serviço do segurado trabalhador rural, prestado anteriormente à data de início de vigência da Lei n.º 8.213/91, será computado independentemente do recolhimento das contribuições a ele correspondentes, exceto para efeito de carência.
+3. Agravo interno não provido" (STJ, AgInt no REsp 1.793.400/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 17/06/2019).
+"PREVIDENCIÁRIO. PROCESSUAL CIVIL. ATIVIDADE RURAL. EFICÁCIA AMPLIATIVA DA PROVA TESTEMUNHAL. TEMPO DE SERVIÇO ANTERIOR À DATA DO DOCUMENTO MAIS ANTIGO TIDO POR DEMONSTRADO PELO TRIBUNAL A QUO. COMPROVAÇÃO DE TODO O PERÍODO CONTROVERTIDO. NÃO RECONHECIMENTO. REVISÃO DA CONCLUSÃO A QUE CHEGOU A CORTE DE ORIGEM. ÓBICE DA SÚMULA 7/STJ.
+1. O labor campesino, para fins de percepção de aposentadoria rural, deve ser demonstrado por início de prova material e ampliado por prova testemunhal, ainda que de maneira descontínua, no período imediatamente anterior ao requerimento, pelo número de meses idêntico à carência.
+2. No caso, a Corte de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou que, conquanto a prova testemunhal tenha sido suficiente para fins de reconhecimento do exercício de labor rural em período anterior à data do documento mais antigo, não teve o condão de ampliar a eficácia do início de prova material para todo o período controvertido.
+3. A alteração dessas conclusões, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 859.244/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 29/04/2019).
+"PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA RURAL. AUSÊNCIA DE COMPROVAÇÃO DO EXERCÍCIO DA ATIVIDADE RURAL. REAVALIAÇÃO PROBATÓRIA QUE CONFIRMA ESSA CONCLUSÃO. PROVA MATERIAL INCONSISTENTE E CONTRADITÓRIA. TESTEMUNHAS QUE NÃO CONFEREM AMPLITUDE AO INÍCIO DA PROVA MATERIAL. PREDOMINÂNCIA DE ATIVIDADE URBANA NOS REGISTROS DO CNIS. CONJUNTO FÁTICO-PROBATÓRIO DESARMÔNICO. RECURSO ESPECIAL DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido não destoa da jurisprudência do STJ ao afirmar que o exercício de atividade urbana, por si só, não descaracteriza a condição de Segurado especial.
+2. No caso dos autos, contudo, as provas materiais apresentadas estão em confronto com os registros do CNIS da autora, que apontam predominância do exercício de atividade urbana, suficiente a descaracterizar a sua condição de Trabalhadora Rural.
+3. Neste caso, verifica-se que o acervo testemunhal produzido apresenta-se inadequado, por ser contraditório, para evidenciar a pretendida situação de Trabalhador Rural da parte autora.
+4. Igualmente não destoa da orientação desta Corte o fundamento de que não são considerados início razoável de prova material os documentos que não sejam contemporâneos da época do suposto exercício de atividade profissional.
+5. Recurso Especial do Particular a que se nega provimento"(STJ, REsp 1799799/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 04/04/2019).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Por fim, em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
