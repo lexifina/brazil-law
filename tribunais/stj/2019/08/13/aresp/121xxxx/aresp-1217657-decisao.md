@@ -1,0 +1,39 @@
+DECISÃO
+1. Trata-se de agravo interposto por D. OFICIAL CENTRAL DE PUBLICAÇÕES LEGAIS LTDA - ME contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de Santa Catarina, integrado pelo proferido em sede de embargos de declaração, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE C/C INDENIZATÓRIA. NOME EMPRESARIAL. SEMELHANÇA INEQUÍVOCA COM A DENOMINAÇÃO DO ÓRGÃO PÚBLICO. ALCUNHA QUE CONFUNDE TERCEIROS QUE PROCURAM O DIÁRIO OFICIAL DO ESTADO DE SANTA CATARINA. DETERMINADA A EXCLUSÃO DA INTITULAÇÃO COMERCIAL. PRELIMINAR DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO AFASTADA. FALTA DE INTERESSE DE AGIR. INACOLHIMENTO. ILEGITIMIDADE ATIVA E CERCEAMENTO DE DEFESA REFUTADOS. COMPENSAÇÃO DOS HONORÁRIOS ADVOCATICIOS. POSSIBILIDADE. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+"- Há interesse de agir quando é possível constatar, ainda que num exame superficial, ser necessária a demanda, por aparentar a pretensão não ter encontrado solução na esfera extrajudicial; adequada - ainda que dispensável tal requisito -, eis que adotados procedimento e via próprias; e, por fim, útil, vez que a pretensão formulada, se acolhida, gerará aos autores o benefício pretendido." (TJSC, Apelação Cível n. 2015.020200-2, da Capital, rel. Des. Francisco Oliveira Neto, j. 26-05-2015)
+Nas razões do especial, alega-se violação dos arts. 267, VI, 273, 330, I e II, 535, II, do Código de Processo Civil/73 e arts. 355, I e II, e 1.022, II, do Código de Processo Civil/15.
+Decido.
+2. A irresignação não merece prosperar.
+Observa-se que não se viabiliza o recurso especial pela indicada violação do art. 535 do CPC/73 (atual art. 1.022 do CPC/15). Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3. Outrossim, o Tribunal de origem registra a inexistência de cerceamento do direito de defesa do recorrente com o julgamento antecipado da lide, uma vez que os elementos colacionados aos autos estavam aptos a formar o convencimento do magistrado. Portanto, a reforma do aresto neste aspecto demanda inegável necessidade de reexame do acervo fático-probatório do caso, intento inviável de ser adotado em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+3.1 Registre-se, por oportuno, que o Superior Tribunal de Justiça já assentou ser o magistrado o destinatário das provas, cabendo a ele a decisão sobre o julgamento antecipado da lide, se entender que o feito já se encontra suficientemente instruído com os elementos indispensáveis à formação de seu convencimento.
+A propósito:
+RECURSO ESPECIAL. PEDIDO DE FALÊNCIA. COMPETÊNCIA. ABSOLUTA. MANEJO DE EXCEÇÃO DE INCOMPETÊNCIA. IMPOSSIBILIDADE. SUSPENSÃO DO PROCESSO PRINCIPAL. DESNECESSIDADE. EMPRESA EM LIQUIDAÇÃO EXTRAJUDICIAL.
+PROCESSAMENTO DA FALÊNCIA. COMPETÊNCIA. JUSTIÇA ESTADUAL. JULGAMENTO ANTECIPADO DA LIDE. cerceamento de defesa. APURAÇÃO. REEXAME FÁTICO-PROBATÓRIO.
+1. Omissis.
+2. Omissis.
+3. Omissis.
+4. A avaliação da suficiência dos elementos probatórios que justificaram o julgamento antecipado da lide demanda o reexame fático-probatório dos autos, soberanamente delineado pelas instâncias ordinárias.
+5. O magistrado é o destinatário da prova, cabendo a ele decidir acerca dos elementos necessários à formação do próprio convencimento.
+6.RECURSO ESPECIAL DESPROVIDO.
+(REsp 1162469/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 12/04/2012, DJe 09/05/2012)
+4. Ademais, no tocante aos arts. 267, VI e 273 do CPC/73, a Corte Estadual sublinha que a determinação de desligamento dos telefones, não se trata de pedido juridicamente impossível, e que o recorrente já tinha conhecimento de decisão que negou seguimento a agravo de instrumento (fls. 149/151 da numeração original), no qual se abordou a impossibilidade de antecipação de tutela de pedido não formulado na inicial (pedido impossível), estando a matéria preclusa.
+Todavia, em seu recurso especial, o recorrente não combate este fundamento do decisum, isto é, a existência de preclusão, mas limita-se a insistir na tese de impossibilidade jurídica do pedido.
+Sendo assim, o especial se mostra inviável, pela existência de fundamento não atacado, capaz de manter por si só o aresto impugnado (Súmula 283/STF).
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO NÃO INTERPOSTO. SÚMULA 126/STJ. IMPUGNAÇÃO. FUNDAMENTO. AUSÊNCIA. SÚMULA 283/STF.
+I - (..)
+II - Ausência de impugnação a fundamento por si só suficiente para manter o acórdão recorrido. Incidência da Súmula 283 do Supremo Tribunal Federal. Agravo regimental improvido. (AgRg no Ag 565.369/SP, Rel. Ministro PAULO FURTADO (DESEMBARGADOR CONVOCADO DO TJ/BA), TERCEIRA TURMA, DJe 22/04/2009) - g.n.
+6. Por fim, o recorrente alega que não há interesse de agir por parte da recorrida, na medida em que, desde a publicação da Portaria n. 014/00, publicada no Diário Ovidial de n. 16.416, de 19/05/2000, é impossível que a recorrente preste serviços (publicações no Diário Oficial do Estado de Santa Catarina) que possam causar prejuízos à IOESC - IMPRENSA OFICIAL DO ESTADO DE SANTA CATARINA e ao próprio Estado.
+Além disso, o próprio recorrente enfatiza que a matéria não foi abordada pelo Tribunal a quo.
+A propósito, colho o seguinte excerto do acórdão recorrido:
+"(..) Nesse item, o acórdão decidiu manter a decisão recorrida, porém, logo no princípio percebe-se que o TJSC não compreendeu as razões recursais da empresa ré. No Recurso de Apelação foi alegado que é impossível que a empresa ré pratique qualquer tipo de dano contra os autores, uma vez que os serviços de publicação e todos os demais foram suspensos por decisão da própria IOESC, por meio da portaria nº 014/00 publicada no Diário Oficial de nº 16.416, datado de 19/05/2000. Logo, ao contrário do que menciona o recurso. não há proibição entre a IOESC e o ESTADO, a proibição foi realização por iniciativa da IOESC contra a empresa ré.
+A proibição foi demonstrada nos autos por meio da portaria nº014/00 publicada no Diário Oficial de nº 16.416, datado de 19/05/2000. Logo, diante desse fato não contestado pelas autoras, é evidente que falta interesse processual, uma vez que é impossível que a ré preste,serviços que poderiam causar prejuízo à IOESC e ao ESTADO.
+A empresa IOESC autora, desde a publicação da portaria mencionada, não mais possui interesse de agir, pois a partir de 19/05/2000 eliminou qualquer possibilidade de que a recorrente/empresa ré efetue publicações junto ao Diário Oficial do Estado. Esse fato inviabiliza a propaganda e a realização de quaisquer serviços, o que também elimina qualquer interesse de agir.
+Logo, o acórdão negou a correta vigência ao artigo 267, VI do CPC/1973, pois deixou de analisar a questão sob o ponto de vista alegado no Recurso de Apelação da empresa ré, razão pela qual deve ser reformado." (fls. 421/422) - g.n.
+Sendo assim, observa-se que a matéria relativa ao art. 267, VI, do CPC/73, não foi objeto de análise pelo acórdão recorrido, sob o enfoque dado pelo recorrente.
+Não foram opostos embargos declaratórios com o fito de suprir a existência de eventual omissão perpetrada pelo Tribunal de origem, com relação ao artigo em testilha.
+De modo que, a ausência de manifestação judicial a respeito da matéria trazida à apreciação desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+7. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
