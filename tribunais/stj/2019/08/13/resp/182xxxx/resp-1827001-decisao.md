@@ -1,0 +1,29 @@
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA. RECURSO NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRF da 1ª Região, assim ementado (fl. 202):
+PROCESSUAL CIVIL. PERDA SUPERVENIENTE DO OBJETO. ALTERAÇÃO LEGISLATIVA. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+1. A presente ação foi ajuizada em 18/11/2016, dias antes da edição da Medida Provisória nº 753, de 19/12/2016, que satisfez integralmente a pretensão do autor.
+2. Somente com a alteração legislativa, após o ajuizamento da ação, é que houve a perda superveniente do objeto, fato que não pode ser imputado à Fazenda Nacional como reconhecimento do pedido.
+3. O egrégio Tribunal Regional Federal da 5a Região, ao apreciar caso idêntico, afastou a condenação ao pagamento dos honorários de sucumbéncia, ao fundamento de que: "Considerando a superveniência de norma que veio ao encontro da pretensão e tendo a ação sido extinta sem resolução do mérito, não representando, pois, qualquer ônus para as partes, não há ensejo à condenação do autor ao pagamento da verba honorária. A melhor solução para o caso é a trazida pela própria União para embasar o pedido subsidiário de exclusão da condenação em honorários, afirmando ter ocorrido de "perda de objeto do processo, sem vencidos e sem vencedores" (AC 08055830620164058500/SE, Desembargador Federal Edilson Nobre, 4º Turma, julgamento: 25/05/2017).
+4. Apelação provida. Recurso adesivo não provido.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente sustenta, em síntese, violação do artigo 85, do CPC/2015, ao fundamento de que o Poder Executivo deu causa à perda superveniente do objeto da ação.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 271.
+É o relatório. Passo a decidir.
+No que diz respeito ao pedido de condenação da União ao pagamento de honorários advocatícios, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que (fl. 199):
+Observo que com a alteração legislativa implementada pela Medida Provisória nº 753/2016, após o ajuizamento da ação, houve a perda superveniente do objeto, fato que não pode ser imputado à União como reconhecimento do pedido.
+Sobre o tema, o egrégio Tribunal Regional Federal da 5º Região decidiu que:
+PROCESSUAL CIVIL. HONORÁRIOS SUCUMBENCIAIS. PROCESSO EXTINTO SEM RESOLUÇÃO DO MÉRITO. PERDA DO OBJETO. PRINCÍPIO DA CAUSALIDADE ART. 85, PARÁGRAFO 10, DO CPC. AUSÊNCIA, AO TEMPO DA PROPOSITURA DA UNIÃO, DE PREVISÃO LEGAL QUE AUTORIZASSE A UNIÃO A ACATAR A TESE DO DEMANDANTE. AFASTADA A CONDENAÇÃO DA DEMANDADA EM HONORÁRIOS ADVOCATICIOS. PROVIMENTO PARCIAL.
+1. O Código de Processo Civil consagra, em art. 85, o princípio da sucumbência ao impor ao vencido o pagamento da verba honorária do advogado do vencedor. Nada obstante, prevê, no parágrafo 10 do mesmo dispositivo legal, a adoção do princípio da causalidade nos casos de extinção do processo por perda de objeto.
+2. O presente feito, ajuizado por município visando à inclusão da multa instituída no art. 8º da Lei 13.254/2016, na base de cálculo do Fundo de Participação dos Municípios, foi extinto sem resolução do mérito, em face da edição da MP 753/2016, que inseriu o parágrafo 3º ao referido dispositivo legal, o qual determina que a arrecadação a que se refere o caput deve compor os recursos do FPM.
+3. Ao tempo do ajuizamento da ação, não existia previsão legal para que a União procedesse à transferência da forma pretendida, haja vista o veto presidencial ao parágrafo 1º do art. 8º da Lei de Repatriação, que dispunha sobre o tema. Apenas com a edição da MP 753, de 19 de dezembro de 2016, surgiu o direito à inclusão na base de cálculo do FPM da multa prevista no citado art. 8º.
+4. Estando a Administração subordinada ao principio da legalidade, não se pode dela exigir conduta não prevista em lei. Portanto, sendo legitima a atuação da Uni não se pode dizer que tenha dado causa ao ajuizamento da ação, do, pois, indevida sua condenação ao pagamento de verba honorária
+5. Considerando a superveniência de norma que veio ao encontro da pretensão e tendo a ação sido extinta sem resolução do mérito, não representando, pois, qualquer ônus para as partes, não há ensejo à condenação do autor ao pagamento da verba honorária. A melhor solução para o caso é a trazida pela própria União para embasar o pedido subsidiário de exclusão da condenação em honorários, afirmando ter ocorrido de "perda de objeto do processo, sem vencidos e sem vencedores".
+6. Apelação da União parcialmente provida para afastar a condenação em honorários sucumbenciais. Apelação do Município, que visava à majoração da verba honorária, prejudicada. (AC 08055830620164058500/SE, Desembargador Federal Edilson Nobre, 4º Turma, Julgamento: 25/05/2017)
+Ante o exposto, dou provimento à apelação para afastar a condenação da União ao pagamento de honorários advocaticios e nego provimento ao recurso adesivo.
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+O dissídio jurisprudencial não foi demonstrado nos moldes estabelecidos nos artigos 541, parágrafo único, do CPC/1973 e 255, §§ 1º e 2º do RISTJ, pois não realizado o devido cotejo analítico. Imprescindível a apresentação objetiva do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como suficiente, a simples transcrição de ementa ou voto.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
