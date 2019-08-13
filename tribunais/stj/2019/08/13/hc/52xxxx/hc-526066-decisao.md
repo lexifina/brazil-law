@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de [NOME] contra decisão de Desembargador integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu a liminar no HC n. 2170885-52.2019.8.26.0000.
+Nesta via, os impetrantes alegam a ocorrência de constrangimento ilegal capaz de superar o óbice do enunciado da Súmula 691/STF, diante da ausência de fundamentação da decisão que indeferiu a medida liminar.
+Sustentam a falta de motivação suficiente para justificar o indeferimento do pleito de saída temporária do Dia dos Pais/2019 ao paciente, visto que foram preenchidos os requisitos legais para a obtenção da benesse.
+Asseveram a ilegalidade da exigência do cumprimento do lapso temporal de 1/6 da pena pelo reeducando para permissão da saída temporária, uma vez que o paciente iniciou o resgate da reprimenda no regime semiaberto.
+Requerem a concessão sumária e definitiva da ordem constitucional para que seja garantido ao paciente o direito às saídas temporárias previstas para o ano de 2019.
+É o relatório.
+Esta Corte Superior, nos termos da Súmula 691 do Supremo Tribunal Federal, pacificou orientação no sentido de que "não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância" (AgRg no HC 252.412/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 9-10-2012, DJe 17-10-2012), destacando que "O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha que não escapa à pronta percepção do julgador" (AgRg no HC 300.610/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4-9-2014, DJe 15-9-2014).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (fl. 25):
+Como nos autos só existem as alegações dos impetrantes, não há como se avaliar a existência do "fumus boni juris" e do "periculum in mora". Portanto, como não se encontram presentes os requisitos necessários à concessão da medida postulada, que é exceção em caso de "habeas corpus", INDEFIRO a liminar, cabendo a d. Turma Julgadora decidir sobre a matéria em sua extensão.
+Requisitem-se as informações com URGÊNCIA, ouvindo em seguida a Douta Procuradoria Geral de Justiça.
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
