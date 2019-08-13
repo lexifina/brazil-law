@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão de fls. 347/348, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A contradição que se funda o presente se dá em vista da vigência do saudado recesso de férias aos advogados, o que evidentemente exclui os casos de urgência, e plantões, com prisão em flagrante e demais da espécie, o que não foi o caso do presente.
+Com efeito, contando-se o prazo das férias forenses do advogado, o prazo para a interposição do recurso foi tempestivo.
+Assim, o que se espera pelo presente, é a declaração e que no caso de recursos simples, sem que haja urgência; prisão em flagrante e outros da espécie, o período das férias forenses do advogado, não se aplica, conforme norma prevista no Novo Código de Processo Civil, que s.m.j., se aplica por exegese ao processo penal; uma vez que meia medida, não dever ser aceita no ordenamento jurídico, ou há férias ou não. (fl. 353).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, deve-se esclarecer que "a suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade" (AgRg no AREsp n. 1.070.415/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 22/5/2017).
+Além disso, de acordo com a regra do art. 798, caput e § 3º, do Código de Processo Penal, de que os prazos processuais penais são contínuos e peremptórios, não se interrompendo em virtude de férias, domingo ou dia feriado, "o recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão" (AgRg no Inq n. 1.105/DF, relator Ministro Herman Benjamin, Corte Especial, DJe de 19/4/2017).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
