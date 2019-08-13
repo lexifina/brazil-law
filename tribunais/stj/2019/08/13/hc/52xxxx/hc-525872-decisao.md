@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC 21327033120188260000).
+Verifica-se dos autos que a paciente foi presa em flagrante e denunciada pela suposta prática dos crimes previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006 (1.500 gramas de maconha, 500 gramas de cocaína e 101 frascos de lança-perfume, além de uma balança de precisão e 101 eppendorfes vazios).
+Alega-se na impetração que não foram apontados fundamentos idôneos a justificar a segregação cautelar da paciente, que é mãe de duas filhas menores.
+Requer-se a revogação da prisão preventiva, decretada nos autos da Ação Penal n. 00008193820188260120.
+É o relatório.
+A ilegalidade apontada nos autos de habeas corpus, de cognição sumária, deve estar demonstrada, de plano, independentemente da ampla incursão na análise de fatos e provas.
+No caso dos autos, a cópia do acórdão juntada aos autos refere-se ao HC 20889880220198260000, impetrado na origem pela corré [NOME]. Assim, é inviável aferir a existência de aludida ilegalidade, mesmo porque o acórdão juntado não tratou especificamente da situação da ora paciente.
+Como é cediço, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente, e por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado (STF - AgRg no HC 103.240/RS, Ministro Ayres Britto, Segunda Turma, DJe 29/3/2011; STF - HC n. 107.350/RS, Ministra Cármen Lúcia, Primeira Turma, DJe 19/5/2011; STJ - HC n. 197.183/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 30/6/2011; STJ - HC n. 119.702/PE, Ministra Jane Silva (Desembargadora Convocada do TJ/MG), Sexta Turma, DJe 2/3/2009).
+Por outro lado, mesmo que se queira considerar que os fundamentos utilizados seriam os mesmos para as duas corrés, como pretende o impetrante, não visualizo manifesta ilegalidade, estando fundamentada a prisão preventiva na gravidade concreta, demonstrada pela elevada quantidade de droga apreendida, o que, na espécie, constitui fundamento idôneo (1.500 gramas de maconha, 500 gramas de cocaína e 101 frascos de lança-perfume, além de uma balança de precisão e 101 eppendorfes vazios).
+Ante o exposto, nos termos do artigo 210 do RISTJ, indefiro liminarmente a petição inicial do habeas corpus.
+Publique-se.
