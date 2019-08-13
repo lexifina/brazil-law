@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por [NOME], mediante o qual se impugna acórdão, promanado do Tribunal Regional Federal da 3ª Região, assim ementado:
+"TRIBUTÁRIO. MEDIDA CAUTELAR FISCAL. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO: DESNECESSIDADE. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO: IRRELEVÂNCIA. INDISPONIBILIDADE DO IMÓVEL ALIENADO A TERCEIROS APÓS O CONTRIBUINTE TER SIDO NOTIFICADO DO LANÇAMENTO FISCAL.
+1. A Lei nº 8.397/92 não exige a constituição definitiva do crédito tributário como condição necessária para o ajuizamento da medida cautelar fiscal. O parágrafo único de seu art. 1º, aliás, expressamente prevê hipóteses em que se dispensa até mesmo a própria constituição do crédito tributário.
+2. A suspensão da exigibilidade do crédito tributário, por qualquer das causas previstas no art. 151 do CTN, não impede a propositura da cautelar fiscal, mesmo que a causa de suspensão seja preexistente à ação.
+3. A impossibilidade de propositura da cautelar fiscal em face de crédito tributário cuja exigibilidade esteja suspensa aplica-se apenas e tão somente à hipótese art. 2º, inciso V, "a", da Lei nº 8.397/92, isto é, se o contribuinte, notificado pela Fazenda Pública para o recolhimento de crédito fiscal, deixar de pagá-lo no prazo legal.
+4. Apelo da União provido para restabelecer a ordem de indisponibilidade da fração ideal de 2/3 da nua propriedade do imóvel alienada a terceiros após o contribuinte ter sido notificado do lançamento fiscal" (fl. 579e).
+Embargos de Declaração rejeitados (fls. 598/606e), com imposição de multa.
+No Recurso Especial, manejado com apoio na alínea a do permissivo constitucional, alega-se violação ao art. 2º, V, a, da Lei 8.397/92 e 1.026, § 2º, do CPC/2015.
+Sustenta-se, no que ora importa, o seguinte:
+"(..) consoante expressa disposição legal (artigo 2º, V, "a", da Lei n. 8.397/92), regra geral é vedado conceder medida cautelar fiscal para acautelar crédito tributário com a exigibilidade anteriormente suspensa, vejamos:
+(..)
+Excepcionalmente, a medida cautelar fiscal pode ser deferida nessas condições desde que presentes as hipóteses do artigo 2º, V e VII, "b", da Lei n. 8.397/92, "ipsis verbis":
+(..)
+Sendo assim, somente é possível o deferimento de medida cautelar fiscal para acautelar crédito tributário que anteriormente já esteja com sua exigibilidade suspensa quando o devedor busca indevidamente a alienação de seus bens como forma de esvaziar seu patrimônio que poderia responder pela dívida. Seguem precedentes do STJ que caminham no mesmo sentido:
+(..)
+Assim, tem-se que a medida cautelar fiscal foi proposta com fulcro no artigo 2º, VI, da Lei n. 8.397/92 (VI - possui débitos, inscritos ou não em Dívida Ativa, que somados ultrapassem trinta por cento do seu patrimônio conhecido), sendo que o dispositivo legal invocado não se encontra dentre as exceções que autorizam a concessão da medida quando os débitos estão com a exigibilidade suspensa, razão pela qual requer-se o provimento do presente recurso especial reformando-se a sentença de primeiro grau e respectivo acórdão" (fls. 613/618e).
+Aduz-se, ainda, que a imposição de multa processual seria descabida, uma vez que os Embargos de Declaração não teriam natureza protelatória.
+Argumenta-se, outrossim, no sentido do descabimento do arrolamento administrativos dos bens em comento, vez que seriam de terceiros.
+Requer-se, por fim, "seja conhecido e PROVIDO integralmente o presente Recurso Especial, vez que o acórdão recorrido infringiu o artigo 2º, V, "a", da Lei n. 8.397/92, para reformar o respeitável acórdão recorrido, revogando e anulando a determinação de indisponibilidade dos bens do recorrente, bem como cancelando a declaração de ineficácia das alienações do veículo e de imóvel do recorrente" (fl. 638e).
+Contrarrazões às fls. 656/667e.
+Recurso Especial admitido (fls. 669/671e).
+O presente recurso não merece prosperar.
+Impossível conhecer da questão concernente à suposta ilegalidade do arrolamento administrativo dos bens em comento - de vez que, conforme se alega, pertenceriam a terceiros. A uma, porque não houve indicação clara dos dispositivos legais que, em tese, teriam sido violados, nesse aspecto, pelo acórdão recorrido. A duas, porque a revisão das datas, fixadas pelo Tribunal de origem, da alienação e da notificação do lançamento fiscal demandaria incursão no conjunto probatório dos autos, medida sabidamente vedada pela Súmula 7/STJ.
+Quanto ao ajuizamento de ação cautelar fiscal, em hipótese de crédito tributário com exigibilidade suspensa, importa observar que o fundamento do acórdão recorrido, para admiti-lo, foi de que:
+"(..) o requerido teve contra si constituído crédito tributário em valor superior a R$ 3.000.000,00 e que ultrapassa 30% de seu patrimônio conhecido, razão pela qual foi proposto arrolamento de bens e direitos, nos termos do art. 64 da Lei nº 9.532/97 (fls. 27). O recorrente, todavia, já sabedor da existência dos citados créditos tributários, promoveu a alienação de alguns dos bens arrolados, no claro intuito de frustrar a cobrança da dívida fiscal.
+Diante desses fatos, plenamente justificada a manutenção do decreto de indisponibilidade de bens com fundamento no art. 2º, VI, da Lei nº 8.397/92, (..)" (fl. 569e).
+Entretanto, não houve, no Recurso Especial, impugnação específica a esse fundamento do decisum guerreado - de que o recorrente estaria a promover a dilapidação de seu patrimônio -, de modo que a discussão encetada no recurso não pode ser, no ponto, apreciada, devendo ser aplicada, por analogia, a Súmula 182/STJ.
+Por derradeiro, salvo hipótese de flagrante finalidade prequestionadora, ausente na espécie, não é possível, em sede de Especial, avaliar a legitimidade da afirmação, feita nas instâncias ordinárias, acerca do caráter protelatório dos Embargos de Declaração, por demandar revolvimento dos fatos e das circunstâncias da causa, medida sabidamente vedada pela Súmula 7/STJ.
+Senão, vejamos:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. MULTA DEVIDA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não há falar em violação ao art. 535 do CPC se o acórdão recorrido, julgando integralmente a causa, deu aos dispositivos de regência a interpretação que, sob sua ótica, se coaduna com a espécie.
+2. Hipótese em que o aresto recorrido concluiu "que a interposição dos embargos é manifestamente protelatória" e aplicou multa de 1% sobre o valor da causa, com base no art. 538, parágrafo único, do CPC.
+3. A revisão do entendimento do Tribunal de origem quanto ao intuito protelatório dos Embargos de Declaração implica reexame de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+4. Agravo Regimental não provido" (STJ, AgRg no REsp 1.446.290/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 24/06/2014).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. INDENIZAÇÃO. DEMORA NA CONCESSÃO DA APOSENTADORIA. MULTA POR EMBARGOS PROTELATÓRIOS. APLICADA PELO JUÍZO DE 1º GRAU. REVISÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. Afastar as conclusões a que chegou o juízo de primeiro grau de que os embargos de declaração contra a sentença de piso foram protelatórios demandaria o reexame do conjunto fático-probatório dos autos, inviável em sede de recurso especial, nos termos do enunciado nº 7 da Súmula deste Pretório.
+2. É inadmissível o recurso especial se o dispositivo legal apontado como violado não fez parte do juízo firmado no acórdão recorrido e se o Tribunal "a quo" não emitiu qualquer juízo de valor sobre a tese defendida no especial (Súmulas nºs 282 e 356/STF).
+3. Recurso especial não conhecido" (STJ, REsp 1.370.852/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 28/08/2013).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
