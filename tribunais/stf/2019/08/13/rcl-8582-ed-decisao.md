@@ -1,0 +1,20 @@
+DECISÃO
+EMBARGOS DECLARATÓRIOS – PREJUÍZO.
+    1. O assessor Dr. Vinicius de Andrade Prado assim retratou o caso concreto:
+    Chong Jin Jeon afirma haver o Governo da República da Coreia inobservado o decidido na extradição nº 906. Conforme assevera, a entrega de si ao Estado requerente ficou condicionada ao compromisso de ver respeitada a pena máxima de oito anos, dos quais seriam subtraídos os períodos em que esteve preso preventivamente nos dois países.
+    Na peça, requereu: a) a notificação da Embaixada da Coreia no Brasil, para prestar esclarecimentos sobre as alegações lançadas na inicial; b) a expedição de ofício ao Ministério das Relações Exteriores e ao da Justiça, com a finalidade de obter explicações quanto ao alegado descumprimento da obrigação assumida; e c) a denúncia da inobservância ao tratado firmado, promulgado por intermédio do Decreto nº 4.152/2002, objetivando a revisão da cooperação existente entre os dois países. No mérito, buscou ver declarada a ilegalidade do ato praticado e determinada a ciência dos órgãos internacionais e do Ministério da Justiça a respeito dos fatos, objetivando a tomada de providências.
+    Em 27 de dezembro de 2012, Vossa Excelência negou seguimento à reclamação adotando os seguintes fundamentos:
+    A situação jurídica revela o acompanhamento da espécie pelo Ministério da Justiça, verificando-se, passo a passo, a observância das cláusulas do Tratado Bilateral de Extradição firmado entre o Brasil e a República da Coreia. Mediante nota verbal, a missão diplomática coreana reafirmou o propósito de cumprir as condições determinadas no pronunciamento alusivo à Extradição nº 906.
+    O reclamante, em embargos de declaração, explicita que, levando em conta o assentado na extradição, embora tenha cumprido toda a pena e sido colocado em liberdade, foram impostas condições. Segundo destaca, o documento fornecido pela Justiça coreana aponta, como término da sanção, a data de 19 de março de 2017, a revelar desrespeito ao paradigma. Discorre sobre os períodos nos quais esteve preso. Insistindo não haver o Poder Judiciário da Coreia descontado os dias de custódia no Brasil nem extraído da condenação a pena atinente ao crime sem equivalência na legislação brasileira. Busca, por meio da atribuição de efeitos infringentes aos declaratórios, a procedência dos pedidos veiculados.
+    Juntou novos documentos mediante as petições/STF nº 16.652/2013, 43.064/2013 e 44.033/2013. Relata, considerado o restante da pena a ser cumprido, a negativa de emissão de passaporte junto ao Governo da República da Coreia. Frisa contrariado o paradigma.
+    Por meio da petição/STF nº 48.636/2013, anexou cópia de tradução juramentada de documentos apresentados.
+    Facultado o contraditório, a Embaixada da República da Coreia encaminhou (folha 426 a 429), em 25 de novembro de 2013, por intermédio do Departamento de Recuperação de Ativos e Cooperação Jurídica Internacional, a nota verbal nº 172. A peça está versada em inglês.
+    Vossa Excelência, em 15 de abril de 2015, determinou à parte embargada a tradução da manifestação apresentada, oficiando ao Ministro da Justiça para adoção das providências cabíveis. Após sucessivas reiterações, a providência foi adimplida em 2 de outubro seguinte (folha 490 a 494).
+    Indagado, em 10 de abril de 2017, sobre o interesse na sequência do processo, o reclamante quedou silente.
+    2. Atendeu-se aos pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente constituído (folha 10), foi protocolada no prazo legal, ante a regência do Código de Processo Civil de 1973. Publicado o ato embargado em 1º de fevereiro de 2013, a irresignação veio à balha no dia 5 subsequente.
+    Mostra-se, a esta altura, esvaziado o interesse na apreciação dos embargos formalizados. É que, levando em conta o veiculado pelo embargante, se o Governo da República da Coreia tem como extinta a pena a partir de 19 de março de 2017, carece de utilidade o debate sobre o descumprimento do paradigma.
+    3. Declaro o prejuízo dos declaratórios.
+    4. Publiquem.
+Brasília, 13 de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
