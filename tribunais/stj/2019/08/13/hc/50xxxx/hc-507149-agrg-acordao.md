@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DELITO DE  EXTORSÃO MEDIANTE SEQUESTRO. ART. 159. CÓDIGO PENAL - CP. PEDIDO DE DESCLASSIFICAÇÃO DO CRIME. EXTORSÃO. ART. 158. IMPOSSIBILIDADE DE CONHECIMENTO DO PEDIDO DENTRO DOS ESTREITOS LIMITES DA VIA ELEITA. DESCONSTITUIÇÃO DA CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS. NECESSIDADE DE REEXAME APROFUNDADO DO CONJUNTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. O acolhimento do pedido de desclassificação do delito demanda o reexame aprofundado de todo o acervo fático-probatório, providencia incompatível com os estreitos limites do remédio heróico, que, em função do seu rito célere e cognição sumária, não admite dilação probatória. Precedentes.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+ Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de agravo regimental interposto por [NOME], contra decisão singular de minha relatoria proferida às fls. 425/428, que não conheceu do habeas corpus, mas concedeu a ordem, de ofício, tão somente para fixar o regime semiaberto para o início do cumprimento da pena.
+O agravante sustenta que, diferente do que entendeu a decisão ora agravada, para afastar a fundamentação apresentada pelas instâncias ordinárias em relação à condenação pelo crime de extorsão mediante sequestro e, assim, desclassificar o crime, não se faz necessário o reexame de todo o conjunto fático probatório, mas sim sua revaloração, o que seria admitido por esta Corte.
+Diante disso, busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+O presente agravo regimental não merece provimento, em que pese aos argumentos apresentados pelo agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+Conforme afirmado no decisum agravado, o Tribunal a quo entendeu ser correta a condenação do ora agravante pela prática do crime de extorsão mediante seqüestro, demonstrando de forma extensa e devida os fundamentos que o levaram a decidir dessa forma, fls. 399/408.
+Para afastar a fundamentação que se mostra idônea e em conformidade com a jurisprudência desta Corte, é necessário o reexame de todo o conjunto probatório, o que é vedado em habeas corpus.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIME DE EXTORSÃO MEDIANTE SEQUESTRO. PEDIDO DE DESCLASSIFICAÇÃO DO DELITO. NECESSIDADE DE REEXAME DA PROVA DOS AUTOS. IMPOSSIBILIDADE. DOSIMETRIA. VALORAÇÃO NEGATIVA DA CULPABILIDADE E DA PERSONALIDADE. FUNDAMENTAÇÃO INVÁLIDA. CIRCUNSTÂNCIAS DO DELITO CONSIDERADAS DESFAVORÁVEIS. MODUS OPERANDI. ESPECIAL REPROVABILIDADE DEMONSTRADA. MOTIVAÇÃO IDÔNEA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Descabida a pretensão de desclassificação do delito de extorsão mediante sequestro para o de sequestro e cárcere privado, pois, ainda que possível essa discussão em habeas corpus - desde que suficiente da leitura do acórdão impugnado a extração dos elementos necessários para a sua alteração - in casu, a desconstituição do acórdão não prescindiria do revolvimento dos fatos e provas dos autos para se infirmar o entendimento firmado pelas instâncias ordinárias no sentido da presença do elemento subjetivo do tipo, consistente na obtenção de vantagem econômica.
+3. É inválida a exasperação da pena-base pela culpabilidade e personalidade do réu, quando não apontado nenhum fundamento concreto para tanto, por ofensa ao art. 93, IX, da Constituição Federal.
+4. Mostra-se legítima a valoração negativa das circunstâncias do delito, pelo modus operandi empregado, consubstanciado na utilização de violência contra a vítima - que foi levada à um canavial e agredida fisicamente, por três pessoas, antes de ser levada para o cativeiro - fato que desborda o caminho razoavelmente utilizado para o crime de extorsão mediante sequestro, configurando justificativa válida para o seu desvalor.
+5. Habeas corpus não conhecido, mas concedida a ordem de ofício para reduzir a pena a 12 anos e 8 meses de reclusão. (HC 351.003/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 1/9/2016, DJe 13/9/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA NÃO CONHECIDA. 1. A decisão que conheceu do agravo para negar-lhe provimento assentou que a pretensão recursal esbarraria no óbice do Enunciado 7/STJ, ante a necessidade de revolvimento fático-probatório. No entanto, no agravo regimental, a defesa limitou-se a aduzir que a insurgência teria pontos a serem apreciados de ofício e a reiterar o mérito da controvérsia.
+2. Deixando a parte agravante de impugnar especificamente os fundamentos da decisão que conheceu do agravo para negar-lhe provimento, é de se aplicar o Enunciado n. 182 da Súmula deste Superior Tribunal.
+EXTORSÃO MEDIANTE SEQUESTRO. FORMA QUALIFICADA. INSUFICIÊNCIA PROBATÓRIA. DESCLASSIFICAÇÃO. PRETENSÃO QUE DEMANDA REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7 DA SÚMULA DO STJ. PREQUESTIONAMENTO. INDISPENSABILIDADE.
+1. O Tribunal local, após detida análise dos elementos colhidos no curso da instrução criminal, entendeu que o acervo probatório coligido nos autos é apto para fundamentar a condenação, nos termos da exordial acusatória.
+2. Segundo entendimento assente neste Sodalício, para se chegar a conclusão em sentido diverso, ou seja, de que a restrição da liberdade da vítima não teria ultrapassado o lapso temporal de 24 horas, configurador da qualificadora do crime de extorsão mediante sequestro, como pretendido na insurgência, seria necessária uma nova incursão sobre as provas produzidas no decorrer da ação penal, o que é vedado na via eleita pelo Enunciado n. 7 da Súmula desta Corte.
+3. Agravo não conhecido. (AgRg no AREsp 577.562/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/2/2018, DJe 2/3/2018)
+AGRAVO REGIMENTAL. HABEAS CORPUS. DESCLASSIFICAÇÃO DO CRIME (EXTORSÃO MEDIANTE SEQUESTRO) PARA O DELITO DE CONCUSSÃO (ART. 305 DO MESMO DIPLOMA LEGAL). AFASTAMENTO DA QUALIFICADORA (CONCURSO DE AGENTES). REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE DA COGNIÇÃO. RECURSO NÃO PROVIDO.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada a simples pretensão de reforma.
+2. As teses de alteração do enquadramento típico (desclassificação do crime em apreço para concussão), bem como de afastamento da qualificadora do concurso de agentes, esbarram na necessidade de revolvimento fático-probatório, o que se afigura inviável na estreita via do mandamus.
+3. Agravo regimental a que se nega provimento. (AgRg no HC 400.891/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 8/8/2017, DJe 15/8/2017)
+Ante o exposto, voto pelo não provimento do recurso.
