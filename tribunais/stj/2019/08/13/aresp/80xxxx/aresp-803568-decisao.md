@@ -1,0 +1,17 @@
+DECISÃO
+DIVINO MARQUES DA COSTA interpõe agravo em recurso especial contra decisão do Tribunal de Justiça de Goiás que negou seguimento ao recurso especial com espeque nos enunciado da Súmula 7 do STJ na ausência de fundamentação no que tange à violação do art. 620 do CPP, à luz da Súmula 284 do STF.
+Depreende-se dos autos que o réu foi condenado a 15 anos de reclusão, pela prática de homicídio qualificado, com base no art. 121, 2º, II e IV, do Código Penal (fl. 1.314). O Tribunal estadual deu parcial provimento à apelação defensiva e reduziu a reprimenda total para 12 anos de reclusão (fl. 1.430). O condenado opôs embargos de declaração que não foram acolhidos e, inconformado, interpôs recurso especial.
+Nas razões do apelo raro, aduz a violação notória do art. 93, IX, da Carta Maior, o que, por consequência, causa nulidade processual insanável, em afronta ao art. 564 do CPP, bem como ao art. 620 da mesma legislação, pois não foram supridas as omissões e as contradições apontadas no âmbito dos embargos de declaração.
+Alega, em síntese, ser nulo o julgamento, pois o magistrado, sem fundamentação, determinou a retirada dos militares presentes na sessão do Tribunal do Júri, o que haveria influenciado os jurados. Ainda, não fez constar da ata de julgamento, a impugnação promovida pela defesa. Por isso, alega violação do art. 495 do Código de Processo Penal.
+O especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal estadual (fls. 1.511-1.513), o que ensejou a interposição deste agravo (fls. 1.519-1.528).
+O Ministério Público Federal manifestou-se, às fls. 1.557-1.561, pelo não provimento do agravo.
+Decido.
+O recurso não comporta conhecimento, em razão da sua intempestividade.
+ De início, registro que o marco temporal de aplicação do Novo Código de Processo Civil é a intimação do decisum que, neste contexto, foi processada sob a égide do antigo Codex Processual.
+Cumpre, ainda, asseverar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto, ante os termos do Enunciado n. 2, aprovado pelo Plenário do STJ, na sessão de 9/3/2016, in verbis: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça. "
+Assim, verifica-se que a decisão de admissibilidade do especial foi publicada em 3/9/2015, quinta-feira, conforme certidão à fl. 1515.
+Nesse contexto, a contagem do prazo se iniciou no dia útil subsequente, 4/9/2015, sexta-feira, e findou-se no dia 8/9/2015, terça-feira. Todavia, o recurso de agravo somente foi interposto em 14/9/2015, fora, portanto, do prazo legal de 5 dias.
+Nesse ponto, destaco o que dispõe a Súmula n. 216 do STJ, in verbis: "A tempestividade do recurso interposto no Superior Tribunal de Justiça é aferida pelo registro no protocolo da secretaria e não pela data da entrega na agência do correio".
+Dessa forma, é inadmissível o agravo, porquanto intempestivo, pois foi interposto após o quinquídio legal previsto no art. 28 da Lei n. 8.038/1990, vigente à época de interposição do recurso.
+Em tempo, determino o envio de cópia dos autos ao Juízo da condenação para a imediata execução da pena caso a agente não a esteja cumprido atualmente.
+Publique-se e intimem-se.
