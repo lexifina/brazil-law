@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+RECURSO - APELAÇÃO - PRESTAÇÃO DE SERVIÇOS - TELEFONIA FIXA - ILÍCITO PERPETRADO PELA PRESTADORA DE SERVIÇOS DE TELEFONIA - DECLARATÓRIA.
+1. Pertinência subjetiva da demanda. Legitimidade passiva evidenciada.
+2. Ato ilícito perpetrado pela apelante, eis que reconhecida a falsidade da assinatura lançada pelos autores no contrato de prestação de serviços que deu origem ao débito. Indenização por danos morais devida. Transtornos que ultrapassam os limites de meros aborrecimentos. Quantia que, todavia, deve ser reduzida, em conformidade com os critérios de proporcionalidade e razoabilidade. Preliminar rechaçada. Procedência. Recurso parcialmente provido.
+Nas razões de recurso especial, alega a parte recorrente violação dos artigos 186, 398 e 944 do Código Civil e 1º, § 2º, da Lei 6.899/81, além de divergência jurisprudencial. Sustenta ser irrisório o valor fixado a título de indenização por danos morais e postula a alteração da data inicial dos juros moratórios e da correção monetária.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Este Tribunal Superior tem reafirmado em seus precedentes que a revisão do valor fixado para a indenização por danos morais não pode ser revista em recurso especial, a não ser em casos excepcionais que, por sua peculiaridade, não demandem reexame de prova para apurar o desacerto da quantia fixada pelas instâncias ordinárias.
+É bem verdade, também, que o caso concreto apresenta certa gravidade, isso porque se trata de contrato com assinatura falsa para ensejar a cobrança indevida. A indenização deferida pelo acórdão recorrido a cada um dos recorrentes, porém, é de montante razoável, R$ 20.000,00 (vinte mil reais), o que não justifica a superação da Súmula 7 e consequente intervenção desta Corte para promover ajustes no valor.
+Quanto à correção monetária, não há o que reparar no acórdão recorrido, pois está de acordo com a Súmula 362 do STJ, segundo a qual "a correção monetária do valor da indenização por dano moral incide desde a data do arbitramento". No caso, foi feito novo arbitramento no acórdão recorrido, o que justifica o termo inicial da atualização monetária desde a publicação.
+No que se refere aos juros moratórios é que o acórdão merece reparo, para que se aplique ao caso o entendimento consolidado na Súmula 54 desta Corte. Desse modo, os juros moratórios devem incidir a partir da data do ilícito, nos termos da sentença (fl. 164).
+Em face do exposto, dou provimento ao recurso especial, para fixar como termo inicial dos juros moratórios a data do ilícito.
+Intimem-se.
