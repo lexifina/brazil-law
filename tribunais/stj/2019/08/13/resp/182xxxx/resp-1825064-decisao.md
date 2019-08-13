@@ -1,0 +1,52 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, contra acórdão prolatado pela 1ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 183e):
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DO EMPREGADOR.
+Vale transporte pago em pecúnia, abono assiduidade, SAT-RAT, terceiros.
+Opostos embargos de declaração, foram rejeitados (fls. 211/213e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+(i) Art. 1.022, II, do CPC/15 - " ..  o julgado recorrido omitiu-se na análise da legislação aplicável ao caso concreto, vulnerando abertamente o art. 1.022, II, do CPC/2015, ao ser instado para tanto na via apropriada. Ou seja, no momento processual adequado para alertar a Corte local sobre a legislação de regência, a União ofertou os seus embargos. É como se fosse nada: o órgão jurisdicional da 4.ª Região persistiu na omissão e manteve a decisão atacada." (fl. 226e);
+(ii) Arts. 22, I e II, da Lei n. 8.212/91 - " ..  em se tratando de pagamentos efetuados pela empresa em virtude da relação de trabalho, deve incidir contribuição ao SAT/RAT sobre os valores pagos nos quinze primeiros dias de afastamento dos empregados, anteriormente ao gozo de auxílio-doença, e sobre o aviso prévio indenizado" (fl. 228e). " ..  pouco importa o caráter remuneratório ou indenizatório da verba. Se não há a previsão expressa do valor relativo aos valores pagos no rol do art. 28, §9º da Lei 8.212/91, deve incidir a contribuição destinada a terceiros." (fl. 229e).
+Sem contrarrazões, o recurso foi admitido (fl. 241e).
+O Ministério Público Federal manifestou-se às fls. 260/261e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não se pode conhecer a apontada violação ao art. 1.022 do Código de Processo Civil de 2015, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AFASTAMENTO. AUSÊNCIA DE INÉRCIA DO CREDOR. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO NÃO COMPROVADO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+(AgRg no REsp 1450797/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/06/2014, DJe 11/06/2014)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA DE INDICAÇÃO CLARA E OBJETIVA DOS PONTOS SUPOSTAMENTE OMITIDOS. INCIDÊNCIA DA SÚMULA 284/STF. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO TERCEIRO. NÃO INDICAÇÃO CLARA E OBJETIVA DOS DISPOSITIVOS LEGAIS SUPOSTAMENTE VIOLADOS.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão incorreu em omissão, contradição ou obscuridade. Aplica-se à hipótese o óbice da Súmula 284 do STF. Precedentes: REsp 1.595.019/SE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 9/5/2017; AgInt no REsp 1.604.259/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/9/2016.
+2. A mera divagação sobre a tese recursal, com simples citação de alguns dispositivos legais, não supre a necessidade da indicação clara e objetiva dos normativos supostamente violados. Incidência da Súmula 284/STF. Precedentes: AgInt no AREsp 922.685/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/9/2016; EDcl no AREsp 127.113/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 21/3/2012; REsp 712.800/CE, Rel. Ministro Castro Meira, Segunda Turma, DJ 5/9/2005).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1631747/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/08/2017, DJe 09/08/2017).
+RECURSO ESPECIAL. RETENÇÃO DE MERCADORIAS. DIREITOS ANTIDUMPING. MULTA. LEI 9.019/95. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REVISÃO. ART. 7º, § 4º, DA LEI 9.019/1995. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 1.022 do CPC/2015 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..)
+3. Recurso Especial não conhecido.
+(REsp 1668052/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/06/2017, DJe 20/06/2017).
+Em relação à pretensão de reconhecer a inaplicabilidade do entendimento desta Corte à contribuição ao SAT e que as verbas elencadas no acórdão recorrido não podem ser excluídas do alcance das contribuições de terceiros, observo que a Recorrente não demonstra efetivamente a existência de violação a dispositivo de lei federal, limitando-se a citar os arts. 22, I e II, da Lei 8.212/91, INCRA (§ 4º do art. 6º, da Lei 2.613/55 e arts. 3º e 5º do Decreto-Lei n. 1.146/70); FNDE (artigo 15 da Lei 9.424/96); SEBRAE (artigo 8º, §3º da Lei 8.029/1990); SESI/SENAI (art. 3º, §1º do DL 9.403/46); SENAC (artigo 4º do DL 8.621/46); SESC (art. 3º do DL 9.853/46), o que impede o conhecimento do recurso especial, incidindo, nesse ponto, o óbice da Súmula n. 284/STF.
+Outrossim, observo que os argumentos da Recorrente são inidôneos a infirmar o fundamento adotado pela Corte de origem, porquanto ausente comando suficiente em tais dispositivos para alterar a mencionada conclusão, haja vista que disciplinam relação jurídica diversa, o que confirma a aplicação do óbice sumular.
+Com efeito, considerando que a pretensão da Recorrente não é extraída dos artigos de lei federal apontados, revela-se incabível conhecer-se do recurso especial, incidindo, por analogia, a orientação contida na Súmula n. 284, do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUTORIZAÇÃO DE PESQUISA E LAVRA DE MINÉRIOS. PEDIDO PROTOCOLADO NO ÚLTIMO DIA DA LICENÇA ANTERIOR. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS CONSTANTES DOS AUTOS, SER DESARRAZOADO O INDEFERIMENTO DO REQUERIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ARTIGO 18, INCISO I, DO CÓDIGO DE MINERAÇÃO. DISPOSITIVO LEGAL QUE NÃO CONTEM COMANDO CAPAZ DE SUSTENTAR A TESE RECURSAL E INFIRMAR O JUÍZO FORMULADO PELO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+ ..
+2. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contem comando capaz de sustentar a tese recursal e infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, da orientação posta na Súmula 284/STF.
+3. Agravo regimental não provido.
+(AgRg no AREsp 385.170/GO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE. NÃO CONHECIMENTO DO ESPECIAL. SÚMULAS 282, 284, 356/STF E 7/STJ.
+ ..
+3. O fato de constar na Lei de Licitações a previsão de empreitada integral não infirma, de plano, os dizeres do acórdão no sentido de que não há empecilho à inclusão do fornecimento de imóvel. O conteúdo dos dispositivos mencionados no Especial não têm comando suficiente para alterar o acórdão. Incidência da Súmula 284/STF.
+4. Em relação ao índice de reajuste utilizado e à caracterização do ato ímprobo, o acórdão se amparou nas conclusões de laudo pericial e afastou o prejuízo ao Erário. Aplica-se a Súmula 7/STJ à espécie.
+Ressalto que o art. 11 da LIA nem sequer foi prequestionado, o que também sugere o óbice das Súmulas 282 e 356/STF.
+5. Agravo Regimental não provido.
+(AgRg no AREsp 229.402/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/03/2013, DJe 08/05/2013).
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
