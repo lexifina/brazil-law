@@ -1,0 +1,10 @@
+DECISÃO
+O embargante alega a ocorrência de contradição na decisão de fls. 172-173, dado que teriam sido utilizados processo em que foi absolvido para subsidiar a imposição de sua prisão preventiva.
+Todavia, a alegação não encontra amparo nos fundamentos da decisão por mim exarada. Conforme lá destacado, o Juízo de primeiro grau, ao converter o flagrante em prisão preventiva, salientou que "houve a apreensão de um tijolo de maconha, pesando 477 g, sendo que o autuado já ostenta passagem anterior pelo mesmo delito. Assim, da expressiva quantidade da droga apreendida em poder do autuado aflora a gravidade in concreto do delito, revelando a aparente periculosidade do agente, de modo a denotar que se faz necessária a manutenção da custódia como forma de se garantir a ordem pública" (fl. 15, grifei).
+Destaco o seguinte precedente:
+ ..
+4. No caso, quando da prisão em flagrante, houve a apreensão de quase um quilo de maconha, distribuído em 329 buchas, o que, na medida em que indica a gravidade em concreto da conduta delituosa, justifica a segregação cautelar para garantia da ordem pública, consoante pacífico entendimento desta Corte no sentido de que a quantidade, a natureza e a diversidade dos entorpecentes encontrados podem servir de fundamento ao decreto de prisão preventiva.  ..  (RHC n. 94.158/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 23/5/2018, destaquei).
+Dessa forma, como bem salientado acima, a gravidade em concreto do delito, consubstanciada na relevante quantidade de droga apreendida, constitui, per si, razão suficiente para a manutenção da medida cautelar máxima.
+Aliás, tal circunstância já havia sido ressaltada quando do julgamento do pleito liminar, oportunidade em que esclareci que, "conforme consignei no HC n. 503.339/SP, impetrado em favor do próprio paciente, ainda que o acusado não possua registros criminais anteriores, como afirma na peça recursal, a prisão provisória também foi decretada para o resguardo da ordem pública, notadamente pela quantidade de droga encontrada em poder do autuado" (fl. 135).
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
