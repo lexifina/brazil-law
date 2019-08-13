@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"EXECUÇÃO FISCAL. INMETRO. MULTA. DÍVIDA DE NATUREZA NÃO TRIBUTÁRIA. DEPÓSITO DO VALOR INTEGRAL DA DÍVIDA. QUITAÇÃO DO DÉBITO. EXTINÇÃO DO FEITO EXECUTIVO. ALEGAÇÃO DE SALDO REMANESCENTE. DESCABIMENTO. SENTENÇA MANTIDA.
+1. Hipótese na qual, fora proposta a execução fiscal para cobrança de dívida não tributária, decorrente de aplicação de multa em razão do exercício do poder de polícia do INMETRO, no valor total de R$73.818,65. Realizado depósito integral da dívida fora a parte exequente instada a se manifestar, tendo esta expressamente declarado estar de acordo com a extinção do feito em face da quitação total do débito. Contudo, agora maneja apelação desafiando a sentença extintiva do executivo, ao argumento de que restariam supostos créditos não adimplidos no valor de R$80.628,66.
+2. Data vênia, a toda evidência, resta totalmente descabida a pretensão do INMETRO. É que, consoante bem resolveu o juízo sumariante, em conformidade com o art. 924, II, do CPC, a execução se extingue quando a obrigação for satisfeita. Justamente o caso dos autos. No mais, desborda do razoável a postulação de suposta diferença sem sequer levar em consideração o valor reconhecidamente adimplido.
+3. Apelação a que se nega provimento" (fls. 128/129e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 139/146e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO. PRETENSÃO A REJULGAMENTO. REJEITADOS.
+1. Os embargos de declaração têm sua abrangência limitada aos casos de omissão, obscuridade, contradição e erro material.
+2. Desacolhimento dos declaratórios, vez a matéria apontada como ensejo do vício foi expressamente apreciada pelo acórdão.
+3. Embargos de declaração rejeitados" (fl. 162e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos artigos: a) 1.022, parágrafo único, II, do CPC/2015, pois, não obstante a oposição dos Embargos Declaratórios, o Tribunal de origem deixou de se manifestar acerca da insuficiência do valor pago para extinção do feito, haja vista a existência de outros créditos exequendos; b) 924, II, do CPC/2015 e 2º, §2º, da Lei 6.830/80, sob a tese de que "a execução fiscal foi extinta antes do pagamento integral do débito exequendo, certo que o setor de arrecadação da autarquia apresentou memória de cálculo, demonstrando a existência de saldo remanescente, pelo que a execução fiscal deverá prosseguir pelo saldo residual" (fl. 176e).
+Por fim, requer o provimento do Recurso Especial.
+Não foram apresentadas contrarrazões.
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 188e).
+A irresignação não merece prosperar.
+Em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+Acerca da controvérsia, manifestou-se o Tribunal de origem:
+"Consoante se viu no relatório, cuida-se de hipótese na qual fora proposta a execução fiscal para cobrança de dívida não tributária, decorrente de aplicação de multa em razão do exercício do poder de polícia do INMETRO, no valor total de R$73.818,65.
+Ocorre que realizado depósito integral da dívida e instada a parte exequente a se manifestar, esta expressamente declarou estar de acordo com a extinção do feito em face da quitação total do débito.
+Agora maneja apelação desafiando a sentença extintiva do executivo, ao argumento de que restariam supostos créditos não adimplidos no valor de R$80.628,66.
+Ora, repetidas as vênias, a toda evidência, resta totalmente descabida a pretensão do INMETRO.
+É que, consoante bem resolveu o juízo sumariante, em conformidade com o art. 924, II, do CPC, a execução se extingue quando a obrigação for satisfeita. Justamente o caso dos autos.
+No mais, desborda do razoável a postulação de suposta diferença sem sequer levar em consideração o valor reconhecidamente adimplido, conforme se depreende da pretensão do exequente" (fl. 128e).
+Do exposto, constata-se que o recorrente não infirmou, de forma específica, o fundamento suficiente destacado, utilizado pelo Tribunal de origem, de que o recorrente "expressamente declarou estar de acordo com a extinção do feito em face da quitação total do débito". Destarte, incide, na espécie, a Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"), por analogia.
+Além disso, a reversão do entendimento adotado pelo Tribunal a quo, no sentido de que houve a quitação total do valor devido, demandaria a incursão no conteúdo fático-probatório dos autos, o que é vedado pela Súmula 7 desta Corte.
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial e, nessa parte, nego-lhe provimento.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
