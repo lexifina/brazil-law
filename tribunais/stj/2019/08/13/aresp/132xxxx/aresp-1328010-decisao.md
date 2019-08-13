@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE EXTINGUE. RECURSO CABÍVEL. APELAÇÃO. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. PRECEDENTES.
+AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por [NOME] e OUTROS contra decisão do Tribunal de Justiça do Estado de Minas Gerais que inadmitiu o seu recurso especial manejado em face do acórdão, assim ementado:
+EMENTA: AGRAVO INTERNO - AGRAVO DE INSTRUMENTO - PRELIMINAR DE NULIDADE - DECISÃO FUNDAMENTADA, EMBORA SUCINTA - CUMPRIMENTO DE SENTENÇA - DECISÃO QUE EXTINGUE O CUMPRIMENTO DE SENTENÇA - RECURSO CABÍVEL - APELAÇÃO - DECISÃO NÃO AGRAVÁVEL - ART. 1.015 DO CPC/2015 - ROL TAXATIVO - NÃO CONHECIMENTO - FUNGIBILIDADE - IMPOSSIBILIDADE - ERRO GROSSEIRO - AGRAVO INTERNO DESPROVIDO. Não padece de nulidade o pronunciamento judicial que, embora sucinto, exponha suficientemente as razões de decidir. Não se conhece do agravo de instrumento interposto contra decisão não inserta no rol taxativo disposto no art. 1.015, do Código de Processo Civil de 2015. Cabe agravo de instrumento contra decisões interlocutórias proferidas no curso do cumprimento de sentença, sendo oponível apelação quanto se a decisão for extintiva. Impossibilidade de aplicação do princípio da fungibilidade recursal. Erro grosseiro.(e-STJ fl. 248)
+Em suas razões, a recorrente aponta violação ao artigo 1.015, parágrafo único, do Código de Processo Civil, sustentando o cabimento do agravo de instrumento interposto, tendo em vista que a decisão em discussão não tem aptidão para por fim ao processo com a solução definitiva da execução, pois em decorrência dela, este ainda esta se desenvolvendo. (e-STJ fl. 280) Refere a possibilidade de aplicação do poder geral de cautela.
+Contrarrazões ao recurso especial apresentadas, às fls. 299/303 e-STJ, sobreveio juízo negativo de admissibilidade do Tribunal de origem, às fls. 305/306 e-STJ, o que ensejou a interposição do presente agravo.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, registre-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ.
+A pretensão recursal não merece prosperar.
+Extrai-se do acórdão recorrido:
+Consultada a petição inicial do recurso inadmitido, verifico que os agravantes se insurgiram contra decisão, na origem, na qual o Magistrado a quo, tendo em vista a satisfação da obrigação, julgou extinto o cumprimento de sentença, com fulcro no art. 924, II c/c art. 513, ambos do CPC/15. Destarte, determinou a expedição de alvarás em favor da parte exequente para levantamento da importância de R$ 204.785,79 (duzentos e quatro mil, setecentos e oitenta e cinco reais e setenta e nove centavos), mais acréscimos proporcionais desde Março/2015, a ser deduzida do depósito de fl. 672; e em favor da parte executada para levantamento dos depósitos de fl. 685, acrescidos do saldo remanescente do depósito de fl.672.
+Friso, portanto, que o juízo a quo julgou extinto o cumprimento de sentença, nos termos do artigo 924, inciso II do CPC/2015, remetendo-se à satisfação da obrigação, haja vista a existência de depósito nos autos.
+O título do pronunciamento atacado, visto às fls. 876 dos autos originários, é de SENTENÇA. Não bastasse, remeteu-se ele a honorários já arbitrados, julgou insubsistente a penhora, determinou o levantamento de valores e determinou que a parte executada pagasse custas finais.
+Por isso é que não me convence a alegação de que, contendo homologação de cálculos, seria cabível agravo de instrumento.
+E o que interessa, para definição do recurso a ser interposto, é a natureza da decisão atacada.
+Primeiramente, segundo estabelece o parágrafo único do artigo 1.015 do CPC, caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença.
+Não se tratando de decisão interlocutória, mas decisão terminativa - a decisão extinguiu a fase cumprimento de sentença, incumbia à parte interessada ter apresentado apelação, porque a seu respeito não comportava agravo de instrumento, nos termos do art. 1.009 do mesmo instrumento legal.
+(..)
+Sobre o cabimento do recurso de agravo de instrumento, o novel regramento processual, em seu art. 1.015, enumera taxativamente as suas hipóteses, entre as quais não se encontra a decisão que extingue o cumprimento de sentença nos termos do artigo 924, inciso II do CPC/2015.
+A jurisprudência deste Tribunal Estadual já há muito vinha se alinhando no sentido de que, rejeitada a impugnação e extinta a execução, o recurso cabível é a apelação, especialmente na vigência do novo Código de Processo Civil.
+(..)
+Por fim, na esteira da jurisprudência citada, anoto não ser hipótese de fungibilidade recursal. Isso porque tal instituto se caracteriza pela possibilidade de se conhecer um recurso por outro, ou seja, aquele que seria cabível no caso concreto, nas situações em que a opção recursal se encontra baseada em dúvida razoável e não há configuração de erro grosseiro.
+(..)
+No caso vertente, o recorrente pleiteou a possibilidade do agravo de instrumento interposto ser recebido por outro recurso, sendo complementado eventual preparo.
+Ora, a decisão agravada extinguiu o cumprimento de sentença nos termos do inciso II do artigo 924 do CPC/2015, ou seja, porque a obrigação foi satisfeita.
+Nota-se, portanto, a ocorrência de erro grosseiro ao se interpor agravo instrumento no lugar de apelação, recurso cabível no presente caso.(e-STJ fls. 253/253)
+Verifica-se que a conclusão adotada no acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que a decisão que extingue a fase de cumprimento de sentença desafia o recurso de apelação, consistindo em erro grosseiro a interposição de agravo de instrumento.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CARACTERIZADA. SERVIDOR PÚBLICO. EVOLUÇÃO FUNCIONAL. EXECUÇÃO INDIVIDUAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PROSSEGUIMENTO DA EXECUÇÃO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. IMPOSSIBILIDADE.
+1. Não se configura a aduzida ofensa aos artigos 489 e 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide, fundamentando seu proceder de acordo com os fatos apresentados e com a interpretação dos regramentos legais que entendeu aplicáveis, demonstrando as razões de seu convencimento.
+2. No que tange à alegação da ocorrência de erro grosseiro por parte do Município ao interpor o recurso de Apelação, o Tribunal de origem consignou: "Ainda que a decisão recorrida não tenha sido extintiva do processo, pois, em principio, a execução prosseguirá, ela tem natureza jurídica de sentença e a fungibilidade recursal permite conhecer o recurso de apelação, assegurando-se o acesso à jurisdição" (fl. 225, e-STJ).
+2. A jurisprudência do STJ é uníssona ao afirmar que a decisão que resolve Impugnação ao Cumprimento de Sentença e extingue a execução deve ser atacada através de Apelação, enquanto aquela que julga o mesmo incidente, mas sem extinguir a fase executiva, por meio de Agravo de Instrumento. É firme, também, o entendimento de que, em ambas as hipóteses, não se emprega o princípio da fungibilidade recursal.
+3. Recurso Especial parcialmente provido.
+(REsp 1804906/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/05/2019, DJe 30/05/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CUMPRIMENTO DE SENTENÇA. ACOLHIMENTO DE IMPUGNAÇÃO. EXTINÇÃO DO PROCESSO. RECURSO CABÍVEL. APELAÇÃO. AGRAVO DE INSTRUMENTO MANIFESTAMENTE INCABÍVEL. DÚVIDA OBJETIVA. INEXISTÊNCIA. ERRO GROSSEIRO. AGRAVO NÃO PROVIDO.
+1. Cabe apelação contra a decisão que acolhe impugnação do cumprimento de sentença, extinguindo a fase expropriatória, sendo inviável o conhecimento de agravo de instrumento interposto erroneamente. 2. Diante da pacífica jurisprudência desta Corte quanto ao recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução, não há que se falar em dúvida objetiva quanto ao instrumento recursal a ser utilizado, afastando-se a tese recursal de inexistência de erro grosseiro.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1137181/SC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 02/08/2018, DJe 08/08/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO. PRESCRIÇÃO RECONHECIDA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DECISÃO EXTINTIVA DO FEITO. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. ART. 522 DO CPC/1973. INADEQUAÇÃO. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. PRECEDENTES.
+1. Consoante a jurisprudência desta Corte Superior, a decisão que extingue a execução é impugnável pela via da apelação, configurando erro grosseiro, em casos tais, a interposição de agravo de instrumento, situação que afasta inclusive a possibilidade de aplicação do princípio da fungibilidade recursal.
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 147.396/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/10/2016, DJe 24/10/2016)
+Ante o exposto, com amparo no artigo 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao recurso especial.
+Intimem-se.
