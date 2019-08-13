@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela UNIÃO, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+"ADMINISTRATIVO. SERVIDOR PÚBLICO. DESCONTOS SOBRE VENCIMENTOS. FALTAS INJUSTIFICADAS. NECESSIDADE DE PROCESSO ADMINISTRATIVO
+1. Não há dúvida de que a constatação da falta ao serviço é um dado objetivo, que não comporta juízo de valor a respeito. Entretanto, para sc apurar se ocorreu ou não tal fato objetivo é necessária apuração.
+2. Em vista das garantias de devido processo legal, ampla defesa e contraditório, tal apuração deve ser realizada em sede de processo administrativo. Isto é, não pode ser realizada simplesmente com base em relatórios de frequência ou planilhas, sem que seja dada ao servidor oportunidade de se manifestar.
+3. No processo administrativo, além de poder negar o próprio fato da ausência, produzindo as provas necessárias para tal, ainda será possível ao servidor apresentar eventuais justificativas para a ausência.
+4. Agravo legal a que se nega provimento" (fl. 249e).
+Ainda inconformada, sustenta a parte recorrente o seguinte:
+"IV - DA OFENSA À LEGISLAÇÃO FEDERAL - DA OFENSA AOS ARTIGOS 44, INCISO I, 46; 116, INCISO X E 117, INCISO I, TODOS DA LEI N 8.112/90
+Insurge-se o autor contra o ato administrativo que procedeu ao desconto de valores correspondentes a dias em que não trabalhou e cujas faltas não justificou.
+Em suma, o que ocorreu foi, simplesmente, que o servidor faltou ao serviço e não justificou, como devia, se quisesse não ser descontado. |
+A sua omissão em justificar as faltas provocou de modo automático, em cumprimento de determinação legal, sem necessidade de se instaurar processo administrativo, o desconto dos dias não trabalhados.
+A atuação administrativa no caso, consistiu, dentro da mais estrita legalidade, em descontar do autor parte dos vencimentos, ante a não contraprestação do serviço e não ocorrência de justificativa para as faltas ocorridas, sob pena de se chancelar o seu enriquecimento sem causa em detrimento da Administração Pública.
+Note-se que o desconto das faltas do servidor decorre da própria lei 8112/90:
+(..)
+Conforme se depreende do art. 44 da Lei 8112/90 o servidor deverá perder a remuneração do dia em que faltar ao serviço, sem motivo justificado.
+Tal situação atende aos PRINCÍPIOS DA MORALIDADE e da EFICIÊNCIA ADMINISTRATIVA, uma vez que os cofres públicos só arcarão com o pagamento das horas efetivamente prestadas.
+Mostra-se importante ressaltar que o recebimento de salário só se justifica pela devida contraprestação de trabalho, portanto, não se apresenta legal nem moral exigir tal recebimento sem ter havido o trabalho correspondente.
+Assim, cabe concordar com o Parecer do Ilustre Procurador Regional da República, Dr. [NOME] (fls. 191/194) no sentido de que nas hipóteses que não exigem apuração de fatos, desnecessário o prévio processo administrativo para se proceder ao desconto nos vencimentos.
+O colendo Superior de Justiça já esposou igual compreensão do tema, em caso análogo ao presente, no RECURSO EM MANDADO DE SEGURANÇA Nº 28.031 - MT - RELATOR: MINISTRO NEFI CORDEIRO, em que foi negado provimento ao Recurso Ordinário e confirmado o v. Acórdão, assim ementado:
+(..)
+Finalmente, esclarece a União que a manutenção do v. acórdão ora recorrido acarretará ainda grave lesão à ordem pública, pelo inequívoco prejuízo ao bom funcionamento da máquina administrativa e ao interesse público.
+Merecem apreciação, assim, as considerações acima feitas, e espera a União resultem razões de reforma da r. decisão.
+Portanto, requer-se o julgamento do presente Recurso Especial por violação à legislação supra referida, contrariada pelo v. acórdão" (fls. 254/257e).
+Requer, ao final, "o acolhimento na íntegra do presente Recurso Especial, com a reforma do v. acórdão para que seja denegada a segurança" (fl. 257e).
+Não foram apresentadas contrarrazões.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 263/264e).
+A irresignação não merece prosperar.
+O Tribunal de origem, quanto ao cerne da controvérsia, assim decidiu:
+"Desse modo, como não foram apresentados quaisquer argumentos que modificassem o entendimento deste relator, peço vênia para transcrever os fundamentos da decisão agravada, adotando-os como razão de decidir o mérito deste agravo legal:
+Trata-se de reexame necessário e de recurso de apelação interposto pela União diante de sentença de fls. 150/160 deu provimento parcial ao pedido do autor para determinar a nulidade de descontos efetuados sobre seus vencimentos. Tais descontos haviam sido realizados por supostas faltas injustificadas do autor; a declaração de nulidade foi baseada na ausência de processo administrativo para apurá-las.
+Em suas razões, (fls. 169/175) a União afirma a impossibilidade de se conceder tutela antecipada contra a União existindo perigo de irreversibilidade do provimento e que os descontos foram realizados com base em seus relatórios de frequência e em planilha elaborada pelo Chefe do Núcleo de Pagamento.
+Contrarrazões às fls. 181/188.
+O Ministério Público Federal opinou pelo provimento da apelação sob o argumento de que a sindicância ou o processo administrativo disciplinar não são cabíveis para apuração de faltas, mas apenas de fatos controversos que demandam dilação probatória, (fls. 191/194)
+Decido.
+Não há dúvida de que, como afirmado pelo Ministério Público Federal, "a constatação da falta ao serviço é um dado objetivo, que não comporta juízo de valor a respeito", (fl. 193)
+Entretanto, para se apurar se ocorreu ou não tal fato objetivo é necessária apuração. E, em vista das garantias de devido processo legal, ampla defesa e contraditório, tal apuração deve ser realizada em sede de processo administrativo. Isto é, não pode ser realizada simplesmente com base em relatórios de frequência ou planilhas, sem que seja dada ao servidor oportunidade de se manifestar.
+No processo administrativo, além de poder negar o próprio fato da ausência, produzindo as provas necessárias para tal, ainda será possível ao servidor apresentar eventuais justificativas para a ausência.
+O que não se pode admitir é que, sem que se assegure ao servidor o direito ao contraditório, sejam feitos descontos em sua remuneração.
+Nesse sentido:
+(..)
+Diante do exposto, com amparo no artigo 557, caput NEGO SEGUIMENTO à apelação.
+(..)
+Diante do exposto, NEGO PROVIMENTO ao agravo legal. É o voto" (fls. 245/248e).
+Ao que se tem, a Corte de origem, ao analisar a controvérsia, asseverou, em suma, que "não há dúvida de que, como afirmado pelo Ministério Público Federal, "a constatação da falta ao serviço é um dado objetivo, que não comporta juízo de valor a respeito", (fl. 193) Entretanto, para se apurar se ocorreu ou não tal fato objetivo é necessária apuração. E, em vista das garantias de devido processo legal, ampla defesa e contraditório, tal apuração deve ser realizada em sede de processo administrativo. Isto é, não pode ser realizada simplesmente com base em relatórios de frequência ou planilhas, sem que seja dada ao servidor oportunidade de se manifestar" (fl. 245e)
+Entretanto, tais fundamentos não foram impugnados pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. QUINQUÊNIOS. PRESCRIÇÃO. INTERRUPÇÃO DA PRESCRIÇÃO. INOCORRÊNCIA. FUNDAMENTO DO ACÓRDÃO INATACADO. SÚMULA 283/STF.
+(..)
+4. Em observância ao princípio da dialeticidade recursal, é dever da parte recorrente impugnar todos os fundamentos do acórdão recorrido, suficientes para mantê-lo, sob pena de incidir o óbice da Súmula 283/STF.
+5. Nas razões do Recurso Especial, observo que a recorrente não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, de que os processos referem-se a pretensões diversas, de modo que não há como considerar tenha havido interrupção da prescrição. A ausência de impugnação ao fundamento adotado para a solução da lide atrai a incidência da Súmula 283/STF.
+6. Recurso Especial não conhecido" (STJ, REsp 1.645.836/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 20/04/2017).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. SERVIDOR PÚBLICO FEDERAL. GRATIFICAÇÃO DE DESEMPENHO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO E RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULAS 283 E 284/STF. ACÓRDÃO RECORRIDO QUE ASSENTA A EXISTÊNCIA DE COISA JULGADA. PRETENSÃO DE REEXAME. NECESSÁRIO REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se conhece do recurso especial, quando a parte deixa de impugnar de forma suficiente fundamento autônomo, suficiente por si só à manutenção do julgado (Súmula 283/STF), bem como quando as razões recursais encontram-se dissociadas da fundamentação adotada pelo acórdão recorrido (Súmula 284/STF).
+2. Infirmar a conclusão do acórdão recorrido que assentou ser inviável a pretensão da ora agravante porquanto implicaria violação à coisa julgada formada em outro processo, pressupõe o reexame fático-probatório o que é obstado na via do recurso especial por força da Súmula 7/STJ.
+3. Agravo interno não provido" (STJ, AgInt no REsp 1.626.816/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 23/11/2016).
+Ademais, para se chegar a conclusão diversa do Tribunal de origem, acolhendo os argumentos da parte recorrente, seria imprescindível reexaminar os fatos da presente causa, o que é insuscetível de ser realizado, na via estreita do Recurso Especial, ante o óbice da Súmula 7 ("A pretensão de simples reexame de prova não enseja recurso especial") do STJ.
+Nessa linha:
+"PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL. IMPOSSIBILIDADE DE ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. FALTAS INJUSTIFICADAS. VERIFICAÇÃO. SÚMULA 7/STJ. VIOLAÇÃO DO PRINCÍPIO DO CONTRADITÓRIO E AMPLA DEFESA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RESOLUÇÃO 312/2003 DO CJF. ATO NORMATIVO QUE NÃO SE INSERE NO CONCEITO DE LEI FEDERAL. INVIABILIDADE DE ANÁLISE EM RECURSO ESPECIAL. ERRO OPERACIONAL DA ADMINISTRAÇÃO. DEVOLUÇÃO DOS VALORES INDEVIDAMENTE RECEBIDOS. POSSIBILIDADE. BOA-FÉ AFASTADA PELAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE DE REVISÃO. SÚMULA. 7/STJ.
+1. Não cabe ao STJ examinar, no âmbito do recurso especial, nem sequer a título de prequestionamento, eventual violação de dispositivos constitucionais, competência reservada ao STF nos termos dos arts. 102, III, e 105, III, da Constituição Federal.
+2. Não há a alegada violação do art. 535 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, como se depreende da leitura do acórdão recorrido, que enfrentou e decidiu, motivadamente, a controvérsia posta em debate.
+3. O recorrente pretende que suas faltas tidas como injustificadas sejam reconhecidas como justificadas e, assim, pleiteia os reflexos financeiros desse reconhecimento. A Corte de origem, ao analisar o contexto fático-probatório dos autos, consignou que as faltas dos dias "13 a 24.10.2003 e de 29 a 30.10.2003" devem ser consideradas injustificadas e, em relação à falta do dia "10.10.2003, também registrada em seus assentamentos individuais, porém, nos autos não consta qualquer justificativa referente a este dia de ausência" (fl. 612, e-STJ). Para alterar tal posição da Corte de origem nos termos pleiteado pelo recorrente, seria necessário adentrar o contexto fático da causa, a fim de reexaminar as provas dos autos, o que é vedado ante o óbice da Súmula 7/STJ.
+4. No caso dos autos, o Tribunal de origem concluiu que não houve violação dos princípios da ampla defesa e do contraditório. Diante desse contexto, a inversão do entendimento exarado pelo Tribunal de origem demandaria a incursão no conjunto fático-probatório dos autos, o que é incabível na via especial, diante do óbice da Súmula 7 desta Corte.
+5. Em relação ao pleito da ilegalidade da revogação da promoção que havia sido concedida ao recorrente o Tribunal de origem, fundamentou sua decisão no art. 16 da Resolução 312/2003 do CJF. No entanto, nos termos da jurisprudência pacífica do STJ, é inviável, em sede recurso especial, a revisão de acórdão fundamentado em resolução, portaria ou instrução normativa. Isso porque, nos termos do art.
+105, inciso III, alínea "a", da Constituição Federal, essas normas não se enquadram no conceito de lei federal, não podendo, portanto, ser objeto do recurso autorizado por esse permissivo constitucional.
+6. Quanto à possibilidade de devolução das parcelas salariais recebidas a maior, cumpre ressaltar que o pagamento indevido não foi consequência de erro de interpretação legal, mas sim de erro operacional da Administração Pública, que calculou equivocadamente a jornada de trabalho. Ou seja, o presente caso não se coaduna com a hipótese decidida no regime dos recursos especiais repetitivos e, ante a impossibilidade de se considerar presente boa-fé do servidor (que foi expressamente afastada pelas instâncias ordinárias) no recebimento de vantagem em valor superior ao verdadeiramente devido, adequada a restituição dos valores recebidos.
+Agravo regimental improvido" (STJ, AgRg no AREsp 823.226/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 24/02/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, já que, conforme orientação fixada pela Súmula 105/STJ, não é admitida a condenação ao pagamento de honorários advocatícios em Mandado de Segurança.
+I.
