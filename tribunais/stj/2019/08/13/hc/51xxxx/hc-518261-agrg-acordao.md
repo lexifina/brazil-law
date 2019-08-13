@@ -1,0 +1,132 @@
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. WRIT IMPETRADO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. CAUTELAR DE INTERCEPTAÇÃO TELEFÔNICA NÃO APENSADA À AÇÃO PENAL. ACESSO E CIÊNCIA DA DEFESA À PROVA. AUSÊNCIA DE REQUERIMENTO DE JUNTADA AO PROCESSO DE CÓPIA DO FEITO EM QUE DEFERIDA A QUEBRA DO SIGILO TELEFÔNICO. INVIABILIDADE DE RECONHECIMENTO DE NULIDADE COM A QUAL CONCORREU A PARTE. ARTIGO 565 DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE COMPROVAÇÃO DOS PREJUÍZOS SUPORTADOS PELO RÉU. COAÇÃO ILEGAL INEXISTENTE. DESPROVIMENTO DO RECLAMO.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedentes.
+2. De acordo com o artigo 565 do Código de Processo Penal, "nenhuma das partes poderá argüir nulidade a que haja dado causa, ou para que tenha concorrido, ou referente a formalidade cuja observância só à parte contrária interesse".
+3. No caso dos autos, os advogados então responsáveis pelo patrocínio do agravante tiveram ciência e acessaram a íntegra da cautelar em que autorizadas as interceptações telefônicas, não requerendo o seu apensamento ao processo principal em momento algum no curso do feito, o que impede o reconhecimento da mácula suscitada na impetração.
+4. Ao proferir sentença condenatória, o magistrado singular não se valeu apenas da prova obtida com a quebra do sigilo telefônico, utilizando-se de outros elementos de convicção para formar o seu convencimento, circunstância que reforça a inexistência de prejuízos à defesa do réu e a impossibilidade de anulação do feito, como pretendido. Inteligência do artigo 563 do Código de Processo Penal. Precedentes.
+NECESSIDADE DE TRANSCRIÇÃO INTEGRAL DOS DIÁLOGOS MONITORADOS. MATÉRIA NÃO APRECIADA NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA.
+1. A alegada necessidade de transcrição integral dos diálogos monitorados não foi alvo de deliberação pela autoridade impetrada no aresto impugnado, até mesmo porque não foi suscitada nas razões recursais, circunstância que impede qualquer manifestação deste Sodalício sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+2. Ainda que assim não fosse, é pacífico neste Superior Tribunal de Justiça o entendimento de que é desnecessária a transcrição integral do conteúdo das interceptações telefônicas para a validade da prova, bastando que as partes tenham acesso aos diálogos monitorados, o que, conforme expressamente registrado pelas instâncias de origem, ocorreu na espécie.
+OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURAÇÃO. POSSIBILIDADE DE O RELATOR INDEFERIR LIMINARMENTE HABEAS CORPUS MANIFESTAMENTE IMPROCEDENTE. INTELIGÊNCIA DO ARTIGO 210 DO REGIMENTO INTERNO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. DESPROVIMENTO DO RECLAMO.
+1. O Regimento Interno deste Superior Tribunal de Justiça autoriza o relator a decidir o habeas corpus quando o pedido for manifestamente incabível ou improcedente, como ocorre na hipótese dos autos, inexistindo prejuízo à parte, que dispõe do respectivo regimental, razão pela qual não há que se falar em ofensa ao princípio da colegialidade. Precedentes.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de agravo regimental interposto contra decisão que indeferiu liminarmente o mandamus ante a sua manifesta inadmissibilidade.
+Sustenta o agravante que os seus antigos patronos seguiram rigorosamente a ordem prevista no regime recursal para que fossem alcançados os objetivos pretendidos com este remédio constitucional, não restando alternativa aos seus atuais advogados que não o manejo do writ.
+Aduz que seria possível a impetração de habeas corpus substitutivo de revisão criminal.
+Reitera que o édito repressivo estaria lastreado em interceptações telefônicas não juntadas ao processo, tratando-se de nulidade absoluta, cujo reconhecimento prescindiria da comprovação de prejuízos.
+Considera que a necessidade de revolvimento de matéria fático-probatória não impediria o exame das questões ora suscitadas.
+Entende que o indeferimento liminar desta ação ofenderia o princípio da colegialidade, cerceando o direito da defesa de apresentar memoriais e sustentar oralmente.
+Requer o provimento da insurgência para que a ordem pleiteada seja concedida, redimensionando-se as penas-base que lhe foram impostas.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Inicialmente, tendo em vista que a decisão impugnada foi publicada em 1º.7.2019 (e-STJ fl. 2184), cumpre atestar a tempestividade da insurgência, pois interposta no dia 3.7.2019 (e-STJ fl. 2186), ou seja, antes do decurso do prazo previsto no artigo 258, caput, do Regimento Interno do Superior Tribunal de Justiça.
+No mérito, não obstante as razões declinadas pelo agravante, a decisão monocrática deve ser mantida.
+Isso porque, consoante consignado no provimento judicial questionado, a via eleita é inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+Superado esse óbice, não há como se acolher o pedido de anulação da ação penal ante a ausência de juntada da cautelar de interceptação telefônica ao processo principal, uma vez que, consoante consignado pelas instâncias de origem, a defesa do réu teve acesso à aludida prova.
+Com efeito, ao proferir sentença condenatória no feito, o magistrado singular consignou que "a interceptação foi autorizada nos autos 2002.31.00.001628-8, que acabou por abarcar uma série de pessoas, tendo em vista o teor das conversas interceptadas naquela oportunidade" (e-STJ fl. 1546).
+Afirmou que "a defesa dos réus [NOME] e [NOME] teve acesso à degravação das conversas naqueles autos e jamais revelou a intenção de que a ordem judicial que permitiu as interceptações fossem juntadas a estes autos" (e-STJ fl. 1546).
+Advertiu que "não se mostra razoável o requerimento de nulidade da prova apenas se baseando na falta de juntada aos autos da ordem que deferiu a interceptação, pois em nenhum momento a defesa alega que esta não tivera sido deferida, mas simplesmente que esta ordem não foi juntada aos autos" (e-STJ fl. 1546).
+Destacou que "às fls. 1.127/.1128 dos autos da medida cautelar de interceptação telefônica (2003.31.00.001626-8) consta que a defesa do réu [NOME], que agora se insurge, teve vista dos autos" (e-STJ fl. 1546).
+Por sua vez, a autoridade impetrada salientou que "o réu, ora Apelante, não demonstrou a existência de qualquer prejuízo sofrido com a ausência de juntada na presente ação penal de cópia da decisão que autorizou a interceptação telefônica na medida cautelar n. 2002.31.00.001626-8, além de não ter infirmado o contido na sentença, acerca do acesso ao conteúdo das degravações por sua defesa, por meio de vista dos referidos autos", advertindo que, "oportunizada às partes o requerimento de diligências, na forma do art. 402 do Código de Processo Penal (fl. 965), o Apelante permaneceu inerte" (e-STJ fls. 1547/1548).
+Feitos tais esclarecimentos, é cediço que o artigo 565 do Código de Processo Penal preceitua que "nenhuma das partes poderá argüir nulidade a que haja dado causa, ou para que tenha concorrido, ou referente a formalidade cuja observância só à parte contrária interesse".
+Ao comentar o referido dispositivo legal, Guilherme de Souza Nucci assevera que "do mesmo modo que é exigido interesse para a prática de vários atos processuais, inclusive para o início da ação penal, exige-se tenha a parte prejudicada pela nulidade interesse no seu reconhecimento", motivo pelo qual "não pode ser ela geradora do defeito, plantado unicamente para servir objetivos escusos" (Código de Processo Penal Comentado. 9ª ed. São Paulo: Revista dos Tribunais, 2009, p. 922/923).
+O mencionado autor prossegue, consignando a correção da previsão legal, "uma vez que dar causa à nulidade, pretendendo seu reconhecimento, ou pedir que o juiz considere nulo determinado ato, quando não há interesse algum, seria a utilização de mecanismos legais para conturbar o processo e não para garantir o devido processo legal" (Op. cit., p. 923).
+No caso dos autos, como visto, a cautelar de interceptação telefônica não foi anexada ao processo do paciente porque a providência não foi requerida em momento algum por sua defesa, circunstância que impede a anulação da ação penal, como pretendido, uma vez que o ordenamento jurídico repudia a adoção de comportamentos contraditórios em sede processual.
+A propósito:
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. (..) INVERSÃO DA OUVIDA DE TESTEMUNHAS. ANUÊNCIA DA DEFESA. ART. 565 DO CPP. NULIDADES NÃO CONFIGURADAS. (..) ORDEM NÃO CONHECIDA.
+(..)
+7. "Nenhuma das partes poderá arguir nulidade a que haja dado causa, ou para que tenha concorrido, ou referente a formalidade cuja observância só à parte contrária interesse" (art. 565 do CPP).
+8. Na hipótese, a defesa técnica anuiu com a inversão da ordem de ouvida das testemunhas, de modo que a aventada nulidade esbarra, por um lado, no brocardo nemo auditur propriam turpitudinem allegans (ninguém pode se beneficiar da própria torpeza), materializado no art. 565 do CPP, e, por outro, na ausência de demonstração do aventado prejuízo por cerceamento de defesa, ensejando a incidência do princípio "pas de nullité sans grief".
+(..)
+11. Ordem não conhecida.
+(HC 298.663/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/05/2018, DJe 22/05/2018)
+Ademais, conquanto o princípio do devido processo legal compreenda a garantia ao procedimento tipificado em lei, não se pode olvidar que as regras procedimentais não possuem vida própria, servindo ao regular desenvolvimento do processo, possibilitando a aplicação do direito ao caso concreto.
+Assim, a eventual inversão ou supressão de algum ato processual, ou mesmo o desrespeito a alguma regra processual penal, só podem conduzir à nulidade do feito se houver prejuízo às partes.
+Com efeito, para a declaração da nulidade não basta a mera alegação da ausência de alguma formalidade na sua execução, sendo imperiosa, repita-se, a demonstração do eventual prejuízo concreto suportado pela parte na sua omissão, mormente quando se alcança a finalidade que lhe é intrínseca, conforme dispõe o artigo 563 do Código de Processo Penal.
+Nesse sentido, confira-se lição de Ada Pellegrini Grinover, [NOME] e [NOME]:
+"Sem ofensa ao sentido teleológico da norma não haverá prejuízo e, por isso, o reconhecimento da nulidade nessa hipótese constituiria consagração de um formalismo exagerado e inútil, que sacrificaria o objetivo maior da atividade jurisdicional; assim, somente a atipicidade relevante dá lugar à nulidade; daí a conhecida expressão utilizada pela doutrina francesa: pas de nullité sans grief." (As nulidades no processo penal. 11ª ed. São Paulo: Revista dos Tribunais, 2009. p. 25).
+Na mesma ordem de ideias são os ensinamentos de [NOME]:
+"O princípio básico do Código é enunciado logo de início no título referente às nulidades: "Nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa" (art. 563). É o pas de nullité sans grief. Não existe nulidade desde que da preterição legal não haja resultado prejuízo para uma das partes. Este inexiste quando foi alcançado o fim que a lei tem em vista. Tanto ele pode ocorrer em relação ao acusador, como ao acusado ou à Justiça.
+Não é ele, em regra, presumível, demonstra-se.
+A razão ou fundamento desse princípio é natural e fácil de encontrar-se: é que a decretação da nulidade - lembrando-nos agora da aplicação da pena - é um mal, devendo, então, reservar-se para aqueles casos em que realmente legítimos interesses das partes ou da Justiça foram lesados.
+A demonstração do prejuízo faz-se pelo raciocínio ou pelos meios ordinários de prova. A demonstração por aquele dispensa estes, pois trata-se, então, de fato notório e evidente. Na maior parte das vezes é ele demonstrado por essa forma, isto é, pelo raciocínio. Quando assim não aconteça, incumbe ao prejudicado a demonstração do prejuízo, pelos meios usuais de prova: testemunhas, documentos, exames etc." (Curso de direito processual penal. 26ª ed. São Paulo: Saraiva, p. 440).
+No caso dos autos, como visto, os advogados então responsáveis pelo patrocínio do paciente tiveram ciência e acessaram a íntegra da cautelar em que autorizadas as interceptações telefônicas, não requerendo o seu apensamento ao processo principal em momento algum no curso do feito (e-STJ fls. 1546/1548), sendo certo, outrossim, que, ao proferir sentença condenatória no feito, o magistrado singular não se valeu apenas da prova obtida com a quebra do sigilo telefônico, utilizando-se de outros elementos de convicção para formar o seu convencimento.
+Com efeito, o togado sentenciante assentou que "além das conversas interceptadas, é necessário esclarecer que outras provas indiciárias existentes nos autos confirmam a participação dos réus Iraneide, [NOME] e Carlos Alberto na empreitada criminosa", concluindo que de acordo com os depoimentos prestados no curso da instrução "fica claro que o propósito dos réus, desde o prefeito (aqui não denunciado), era o atraso das obras, de forma propositar, para se criasse um motivo artificial, no intuito de subsidiar uma rescisão contratual com a consequente convocação da empresa segunda colocada para assunção do contrato" (e-STJ fls. 1551/1552).
+Tais circunstâncias afastam a ocorrência de quaisquer prejuízos à defesa do réu, o que reforça a impossibilidade de anulação do feito, como pretendido.
+Nesse norte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. QUADRILHA E CORRUPÇÃO PASSIVA. SENTENÇA CONDENATÓRIA CONFIRMADA EM SEGUNDO GRAU. TESE DE CERCEAMENTO DE DEFESA POR JUNTADA DE PROVAS - INTERCEPTAÇÃO TELEFÔNICA E PERÍCIA - APÓS A PROLAÇÃO DE SENTENÇA. NULIDADE REPUTADA INEXISTENTE. ACÓRDÃO QUE AFIRMA A DISPONIBILIDADE DOS AUTOS DAS MEDIDAS CAUTELARES QUE SERVIRAM PARA A COLHEITA DOS ELEMENTOS INDICIÁRIOS DURANTE TODA A INSTRUÇÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS PARA O RECONHECIMENTO DA NULIDADE. PROVIDÊNCIA DESCABIDA NA VIA ELEITA. ALEGADA INIDONEIDADE DOS FUNDAMENTOS DA CONDENAÇÃO. INOVAÇÃO RECURSAL. PLEITO DE COMUNICAÇÃO DA DATA DE JULGAMENTO DO AGRAVO REGIMENTAL. DESCABIMENTO. RECURSO QUE INDEPENDE DE PAUTA. AGRAVO DESPROVIDO.
+1. As instâncias ordinárias afirmam expressamente que foi garantido às partes o acesso a todo conteúdo das medidas cautelares que serviram para a colheita de provas, tanto na primeira ação penal quanto na ora tratada, decorrente da primeira. Logo, o pleito de anulação da ação penal por cerceamento de defesa é descabido no âmbito do habeas corpus, pois demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é inviável na via eleita.
+2. Ademais, a juntada não foi solicitado ao Juízo Federal processante pela Defesa do Paciente, a qual nem sequer menciona como a ausência de juntada da referida prova alteraria o resultado do julgamento. E o reconhecimento de vício que possibilite a anulação de ato processual exige a efetiva demonstração de prejuízo ao acusado, o que não ocorreu na espécie. É o que se prevê no art. 563 do Código de Processo Penal, o qual positivou o dogma fundamental da disciplina das nulidades (pas de nullité sans grief).
+3. No âmbito do agravo regimental, não se admite que a Parte, pretendendo a análise de teses anteriormente omitidas, amplie objetivamente as causas de pedir formuladas na petição inicial ou no recurso.
+4. É descabido o pleito de prévia comunicação da data de julgamento de agravo regimental, pois tal recurso independe de inclusão em pauta, sendo apresentado em mesa para julgamento. Precedentes.
+5. Agravo regimental desprovido.
+(AgRg no HC 476.110/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 26/03/2019, DJe 11/04/2019)
+No mesmo diapasão:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE INOCÊNCIA. INCOMPATIBILIDADE. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO. SUPERVENIÊNCIA DE SENTENÇA. PERDA DO OBJETO. NULIDADES. PAS DE NULLITÉ SANS GRIEF. ORDEM NÃO CONHECIDA.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+(..)
+5. Em relação à alegada impossibilidade de acesso ao conteúdo das interceptações telefônicas por ocasião da elaboração de defesa preliminar, esta Corte entende que, devido à possibilidade de renovação das refutações anteriormente à sentença, em sede de alegações finais, não há nulidade caso o acesso ao conteúdo seja posteriormente garantido, assegurando o exercício do contraditório.
+6. Já em relação à tese de nulidade pela ausência de juntada da mídia original contendo a integralidade das interceptações telefônicas, mas apenas as degravações transcritas nos autos, é forçoso destacar que, nos termos do art. 563 do Código de Processo Penal, "nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa".
+7. Na ocasião em que a defesa apresentou tal irresignação, na primeira audiência, o magistrado questionou por que razão somente naquele momento a questão era levantada, e ressaltou que, caso realmente a ausência de acesso ao conteúdo integral estivesse gerando prejuízo à defesa, poderia ser requerida cópia da mídia à Delegacia de Polícia. Por ocasião da sentença, porém, nota-se que a defesa não peticionou buscando tal requerimento, mas simplesmente insistiu na tese da nulidade. Evidente, desse modo, que, no caso, a anulação do processo é um fim por si só, colocado pela defesa acima do saneamento do alegado prejuízo.
+8. Ordem não conhecida.
+(HC 448.086/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/02/2019, DJe 14/02/2019)
+Em arremate, para afastar a conclusão de que a defesa teve acesso à cautelar de interceptação telefônica seria necessário o revolvimento de matéria fático-probatória, providência vedada na via eleita.
+Nessa esteira:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRÁFICO ILÍCITO DE ENTORPECENTES. ORGANIZAÇÃO CRIMINOSA. INTERCEPTAÇÃO TELEFÔNICA. ALEGAÇÕES DE NULIDADE. TEMAS NÃO ENFRENTADOS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. FALTA DE ACESSO AOS CONTEÚDOS DAS INTERCEPTAÇÕES TELEFÔNICAS. PRETENSÃO CONFLITANTE COM A PREMISSA ASSENTADA PELA CORTE ORIGINÁRIA. REEXAME DE PROVAS. ACESSO ÀS GRAVAÇÕES. SISTEMA OPERACIONAL. AUSÊNCIA DE OBRIGAÇÃO DE CONVERSÃO DOS ARQUIVOS EM FORMATO ESCOLHIDO PELA DEFESA. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA. MAGISTRADO DESTINATÁRIO DA PROVA. POSSIBILIDADE DE INDEFERIMENTO DE DILIGÊNCIA.
+REALIZAÇÃO DE PERÍCIA. IDENTIFICAÇÃO DAS VOZES CAPTADAS. DISPENSABILIDADE DA MEDIDA. HABEAS CORPUS NÃO CONHECIDO.
+(..)
+III - Pleito de nulidade fundado na falta de acesso aos conteúdos das interceptações telefônicas. A Corte de origem asseverou, categoricamente, que "todas as mídias relativas às interceptações telefônicas foram juntadas aos autos". O acolhimento da pretensão defensiva, da maneira exposta nas razões da impetração, demanda revolvimento do acervo fático-probatório dos autos, situação vedada na via estreita do habeas corpus. Precedentes.
+(..)
+- Habeas corpus não conhecido.
+(HC 500.614/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 30/05/2019, DJe 04/06/2019)
+Finalmente, verifica-se que a alegada necessidade de transcrição integral dos diálogos monitorados não foi alvo de deliberação pela autoridade impetrada no aresto impugnado, até mesmo porque não foi suscitada nas razões recursais (e-STJ fls. 1431/1476) circunstância que impede qualquer manifestação deste Sodalício sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. (..) NULIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS. IMPOSSIBILIDADE DE ARROLAR OS CORRÉUS COMO TESTEMUNHAS. SUPRESSÃO DE INSTÂNCIA. (..) AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. As questões de que as interceptações telefônicas somente poderiam ser deferidas se não existissem outros meios de prova e de que os corréus não poderão ser ouvidos na qualidade de testemunha, não foram submetidas a debate na instância ordinária, sendo que este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+(..)
+Agravo regimental improvido.
+(AgRg no RHC 86.791/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018)
+No mesmo norte:
+PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO E TRÁFICO ILÍCITO DE ENTORPECENTES. (..) PERÍCIA NAS GRAVAÇÕES. SUPRESSÃO DE INSTÂNCIAS. (..) RECURSO EM HABEAS CORPUS IMPROVIDO.
+(..)
+4. A ausência de perícia nas interceptações não foi objeto de debate pela instância de origem, sendo indevida, assim, a análise diretamente por esta Corte superior, sob pena de incorrer em indevida supressão de instâncias.
+(..)
+6. Recurso em habeas corpus improvido.
+(RHC 95.971/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/06/2018, DJe 11/06/2018)
+Ainda que assim não fosse, é pacífico neste Superior Tribunal de Justiça o entendimento de que é desnecessária a transcrição integral do conteúdo das interceptações telefônicas para a validade da prova, bastando que as partes tenham acesso aos diálogos monitorados, o que, conforme expressamente registrado pelas instâncias de origem, ocorreu na espécie.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGADOS PROFERIDOS EM HABEAS CORPUS NÃO SERVEM PARA A DEMONSTRAÇÃO DE DISSÍDIO JURISPRUDENCIAL. INTERCEPTAÇÕES TELEFÔNICAS. LEGALIDADE. DECRETO CONDENATÓRIO AMPARADO NO MATERIAL FÁTICO-PROBATÓRIO DOS AUTOS. ALTERAÇÃO. SÚMULA N. 7/STJ. ALEGAÇÃO DE INÉPCIA DA DENÚNCIA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PERDA DO OBJETO. AGRAVO DESPROVIDO.
+(..)
+2. "É desnecessária a transcrição integral do conteúdo da quebra do sigilo das comunicações telefônicas, bastando que seja franqueado às partes o acesso aos diálogos interceptados" (AgRg no REsp n.
+1690840/ES, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/6/2018, DJe 29/6/2018).
+(..)
+7. Agravo regimental desprovido.
+(AgRg no AREsp 625.279/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 14/05/2019, DJe 24/05/2019)
+No mesmo vértice:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO, ORGANIZAÇÃO CRIMINOSA E CORRUPÇÃO DE MENORES. PRELIMINAR DE NULIDADE. PROVA EMPRESTADA OU ENCONTRO FORTUITO DE PROVAS (SERENDIPIDADE). ALEGAÇÃO DE NEGATIVA DE ACESSO AOS ÁUDIOS DA INTERCEPTAÇÃO TELEFÔNICA CAPTADA EM OUTRO PROCESSO PARA O CONTRADITÓRIO. INOCORRÊNCIA. JUNTADA PARCIAL DAS TRANSCRIÇÕES FONOGRÁFICAS. POSSIBILIDADE. ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE. (..) RECURSO DESPROVIDO.
+1. Ao contrário da tese defensiva, verifica-se que a conclusão do Tribunal de origem foi no sentido de que a prova obtida em outro processo (prova emprestada), consistente nas transcrições fonográficas dos áudios de interceptação telefônica foram disponibilizados para a defesa, para a promoção do contraditório e da ampla defesa, além de as referidas transcrições terem sido colacionadas aos autos ora em estudo.
+2. Conforme orientação jurisprudencial desta Corte, desnecessária a transcrição integral dos áudios capturados, pois para a comprovação dos delitos a transcrição fonográfica dos trechos que importam é suficiente, uma vez que, como visto, a defesa teve acesso aos relatórios com os conteúdos transcritos para a realização da ampla defesa e do contraditório.
+(..)
+7. Agravo regimental desprovido.
+(AgRg no AREsp 1289554/TO, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/03/2019, DJe 26/03/2019)
+Finalmente, inexiste qualquer óbice ao julgamento monocrático do mandamus, pois, nos termos do artigo 210 do Regimento Interno deste Sodalício, é atribuição do Relator indeferir liminarmente o habeas corpus quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, exatamente como na espécie.
+Nesse norte:
+PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE INDEFERIU LIMINARMENTE O HABEAS CORPUS. OFENSA. PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURADA. (..) RECURSO DESPROVIDO.
+(..)
+II - O julgamento monocrático do writ não representa ofensa ao princípio da colegialidade, quando a hipótese se coaduna com o previsto no art. 210 do RISTJ, notadamente porque qualquer decisão monocrática está sujeita à apreciação do órgão colegiado, em virtude de possibilidade de interposição do agravo regimental, como na espécie.
+(..)
+Agravo Regimental desprovido.
+(AgRg no HC 459.728/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 11/09/2018, DJe 18/09/2018)
+No mesmo diapasão:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. (..).
+1. Não ofende o princípio da colegialidade a análise monocrática do habeas corpus pelo relator "quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos", em conformidade com o art. 210 do RISTJ (AgRg no HC n. 258.964/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 3/8/2015).
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no HC 372.317/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+Ante o exposto, nega-se provimento ao agravo regimental.
+É o voto.
