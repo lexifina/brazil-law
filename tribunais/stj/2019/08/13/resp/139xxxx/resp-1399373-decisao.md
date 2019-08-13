@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado por RBS - Zero Hora Editora Jornalística S.A., com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 107):
+EMBARGOS À EXECUÇÃO FISCAL. SEGURO DE VIDA EM GRUPO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. MULTA MORATÓRIA. CONFISCO. INOCORRÊNCIA. ARTIGO 35 DA LEI 8.212, COM A REDAÇÃO DADA PELA LEI 9528/97. LIMITE TEMPORAL JULGADO INCONSTITUCIONAL PELA CORTE ESPECIAL DO TRF 4a REGIÃO. POSSIBILIDADE DE APLICAÇÃO DE PENALIDADE MAIS BENIGNA. ARTIGO 106, II, "C", DO CTN. HONORÁRIOS ADVOCATÍCIOS. ADESÃO AO REFIS. ENCARGO DE 20% PREVISTO NO DECRETO-LEI 1025/69.
+1. Há incidência da contribuição previdenciária sobre valores pagos a título de seguro de vida em grupo, porquanto se caracterizam como salário-utilidade.
+2. O princípio do não confisco é dirigido a tributos e não à multa moratória.
+3. O limite temporal previsto no artigo 35 da Lei 8212/95, com redação dada pela Lei 9528/97, foi julgado inconstitucional pela Corte Especial deste Tribunal (Argüição de Inconstitucionalidade na AC nº 1998.04.01.020236-8/RS), pelo que aplicável o percentual de 40% nele previsto aos fatos geradores ocorridos antes de 1o de abril de 1997, com base no artigo 106, III, "c", do CTN.
+4. O encargo legal de 20% previsto no Decreto-Lei 1025/69 é devido somente nas execuções fiscais promovidas pela União (Fazenda Nacional) e não nas ajuizadas pelo INSS.
+5. Apelação parcialmente provida.
+Opostos embargos declaratórios, foram acolhidos apenas para fins de prequestionamento (fls. 495/500).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 22, I, e 28, § 9º, "p", da Lei 8.212/91. Sustenta, em resumo, que: (I) o seguro de vida em grupo não poderia compor a base de cálculo da contribuição previdenciária patronal, uma vez que não teria o escopo de retribuição pelo trabalho, como exigiria o art. 22, I, da Lei 8.212/91; (II) o art. 28, § 9º, "p", da Lei 8.212/91, teria previsão no sentido de que não integram o salário de contribuição os valores pagos por pessoa jurídica relativos a programa de previdência complementar disponível a todos os empregados, aplicável, portanto, ao caso em exame.
+Contrarrazões às fls. 535/539.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A Corte regional, ao examinar a questão referente à incidência de contribuição previdenciária sobre seguro de vida em grupo, adotou os seguintes fundamentos (fl. 95):
+O seguro de vida oferecido aos empregados da embargante deve ser considerado como remuneração, porquanto se a empresa não oferecê-lo em pecúnia, há necessidade de desembolso do numerário correspondente se contratado o seguro de forma particular, ou seja, considera-se salário-utilidade.
+E não se alegue que o artigo 457 da CLT engloba todas as possibilidades de parcelas integrantes do salário, isso porque deve-se atentar não para a nomenclatura da verba e sim para a sua destinação, a qual, no caso, é considerada salário-utilidade, consoante acima explicitado.
+De outro lado, a Constituição Federal de 1988 dispõe, no seu artigo 202, parágrafo 11, que "os ganhos habituais do empregado, a qualquer título, serão incorporados ao salário para efeito de contribuição previdenciária.."
+Colho, a propósito, aresto desta Corte:
+"CONTRIBUIÇÃO PREVIDENCIÁRIA. SEGURO DE VIDA EM GRUPO. NATUREZA JURÍDICA DA PARCELA.
+Incidem contribuições previdenciárias sobre as parcelas pagas a título de
+seguro de vida em grupo, uma vez que possuem natureza salarial."
+(2000.71.11.000056-4/RS, Relator Des. Federal Vilson Darós, DJ de
+06/06/2001, p. 1417).
+Extrai-se do trecho acima transcrito que o Tribunal de origem analisou a celeuma com amparo nos arts. 202, § 11, da Constituição Federal e 457 da CLT. Além disso, no exame dos embargos de declaração, não obstante a provocação para que houvesse o exame dos arts. 22, I, e 28, § 9º, "p", da Lei 8.212/91, limitou-se a afirmar que tais dispositivos estariam prequestionados, sem enfrentar a matéria à luz desses dispositivos, o que, entretanto, não possibilita que o Superior Tribunal de Justiça conclua se houve ou não violação, já que não houve adoção de tese jurídica sob o enfoque desses artigos. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
