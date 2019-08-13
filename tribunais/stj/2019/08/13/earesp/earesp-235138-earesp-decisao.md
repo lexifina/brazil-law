@@ -1,0 +1,35 @@
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. RAZÕES RECURSAIS QUE VEICULAM MERO INCONFORMISMO COM A DECISÃO PROFERIDA PELA TURMA. AUSÊNCIA DE DISSÍDIO JURISPRUDENCIAL. PRESSUPOSTO DE ADMISSIBILIDADE DOS EMBARGOS NÃO ATENDIDO.
+Embargos de divergência indeferidos liminarmente.
+DECISÃO
+Em breve síntese, os fatos que antecederam a oposição destes embargos de divergência: Fundação Ceee de Seguridade Social - Eletroceee interpôs recurso especial contra o acórdão proferido pela Quinta Câmara Cível do Tribunal de Justiça do Rio Grande do Sul no julgamento da Apelação Cível n. [CPF] e dos subsequentes embargos de declaração.
+Inadmitido na origem, houve a interposição de agravo, o qual veio ao Superior Tribunal de Justiça e aqui foi distribuído à relatoria do Ministro Raul Araújo, que conheceu do agravo para dar parcial provimento ao recurso especial, por decisão monocrática, a fim de julgar improcedente a pretensão formulada na inicial (e-STJ, fls. 592-597).
+Opostos embargos de declaração (e-STJ, fls. 601-603), foram rejeitados (e-STJ, fls. 612-614).
+Irresignada, a demandante interpôs agravo interno (e-STJ, fls. 618-628), recurso ao qual a Quarta Turma negou provimento.
+A motivação do acórdão foi resumida nesta ementa (e-STJ, fls. 653-657):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REVISÃO DE BENEFÍCIO. IRSM. FEVEREIRO DE 1994. INCLUSÃO DE VERBA CONCEDIDA PELA JUSTIÇA FEDERAL, RELATIVA A RELAÇÃO DIVERSA - ESTATUTÁRIA - DA PREVIDÊNCIA OFICIAL. OS CÁLCULOS ATUARIAIS FEITOS, POR OCASIÃO DA FORMAÇÃO DE RESERVAS DE BENEFÍCIOS A CONCEDER, NÃO CONTEMPLARAM A VERBA VINDICADA. INCLUSÃO, APÓS A APOSENTAÇÃO E SEM A PRÉVIA E NECESSÁRIA FORMAÇÃO DO SUPORTE DO CUSTEIO. AUSÊNCIA DE PRÉVIA FORMAÇÃO DA RESERVA MATEMÁTICA. INVIABILIDADE. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. Os cálculos atuariais feitos, por ocasião da formação de reservas de benefícios a conceder, não contemplaram a verba vindicada, Índice de Reajuste do Salário Mínimo - IRSM de fevereiro de 1994. Inviabilidade de inclusão, após a aposentação e sem a prévia e necessária formação do suporte do custeio.
+2. A Segunda Seção desta Corte também sedimentou no julgamento de Recurso Representativo da Controvérsia (REsp 1.425.326/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 28/05/2014, DJe de 1º/08/2014) o entendimento de que "Não é possível a concessão de verba não prevista no regulamento do plano de benefícios de previdência privada, pois a previdência complementar tem por pilar o sistema de capitalização, que pressupõe a acumulação de reservas para assegurar o custeio dos benefícios contratados, em um período de longo prazo".
+3. Agravo interno ao qual se nega provimento.
+Nas razões dos embargos de divergência (e-STJ, fls. 664-677), a embargante alega que o acórdão proferido pela Quarta Turma estaria em descompasso com o entendimento adotado pela Terceira Turma no julgamento do REsp n. 1.429.426/RS e do REsp n. 1.193.040/RS. No primeiro paradigma, o recurso não foi conhecido em razão da incidência dos óbices das Súmulas n. 5 e 7 do STJ, enquanto no segundo a Terceira Turma do STJ entendeu ser imprescindível a realização de perícia para se verificar a correção do cálculo do benefício previdenciário.
+Brevemente relatado, decido.
+Não é possível admitir os embargos de divergência.
+Com efeito, a divergência de entendimento entre as turmas do Superior Tribunal de Justiça só se configura quando devidamente demonstrada a identidade de situações fáticas com soluções jurídicas diversas.
+Desse modo, o cotejo analítico de acórdãos para o fim de demonstrar a divergência jurisprudencial pressupõe similitude fática entre os casos confrontados e a adoção de teses jurídicas distintas, o que não se verifica na espécie.
+Depreende-se dos autos que o acórdão embargado, ao reformar o aresto estadual, fundamentou-se no entendimento desta Corte Superior de que o regime de previdência privada se baseia no equilíbrio atuarial, sendo permitida a concessão de benefício somente mediante prévia formação de reserva.
+Por sua vez, o REsp n. 1.429.426/RS aplicou os óbices das Súmulas n. 5 e 7 do STJ quanto à norma aplicável para concessão da aposentadoria, pois seria inviável a revisão das conclusões do acórdão estadual.
+De outro lado, no que tange à necessidade de realização de perícia para se verificar a correção dos cálculos do benefício, constata-se que a matéria nem sequer foi tratada pelo acórdão embargado, de modo que se torna inviável analisar a existência, ou não, de divergência entre as Turmas que compõem a Segunda Seção do STJ, configurando-se, na verdade, uma inovação recursal.
+Portanto, importante destacar que a finalidade dos embargos de divergência é a uniformização da jurisprudência do Superior Tribunal de Justiça, razão pela qual não podem ser utilizados como nova via recursal, visando corrigir eventual equívoco ou controvérsia advinda da admissibilidade do próprio recurso especial.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA. DIVERGÊNCIA NÃO COMPROVADA. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NÃO PROVIDO.
+1. Os acórdãos proferidos em sede de recurso especial ou de agravo em recurso especial podem ser impugnados por embargos de divergência quando esse julgado diverge do posicionamento jurisprudencial de outros órgãos fracionários do Superior Tribunal de Justiça.
+2. Contudo, o regular processamento e julgamento desse recurso depende da devida exposição da divergência, que, por força do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça.
+3. Em face da ausência de similitude fática entre os acórdãos recorrido e paradigma, nota-se a impossibilidade de admissão dos presentes embargos de divergência.
+4. Agravo interno não provido. (AgInt nos EREsp 1414394/DF, Rel. Min. Mauro Campbell, Corte Especial, julgado em 29/06/2018, DJe 07/08/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. COTEJO ENTRE ACÓRDÃOS PARADIGMA E EMBARGADO. AUSÊNCIA. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Os embargos não podem ser conhecidos pela divergência se o embargante não providencia o devido cotejo analítico, nos termos do disposto nos artigos 266, § 1º, c/c 255, § 2º, do RISTJ.
+2. A comparação de acórdãos para o fim de demonstrar a divergência jurisprudencial pressupõe similitude fática entre os casos confrontados e a adoção de teses jurídicas distintas.
+3. Agravo interno nos embargos de declaração nos embargos de divergência em recurso especial não provido. (AgInt nos EDcl nos EREsp 1639726/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 27/06/2018, DJe 29/06/2018)
+Ante o exposto, nos termos do art. 266, § 3º, do RISTJ, indefiro liminarmente os embargos de divergência.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte embargada em R$ 500,00 (quinhentos reais), observados os efeitos da gratuidade de justiça.
+Publique-se.
