@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ART. 489, DO CPC/2015. NULIDADE. NÃO OCORRÊNCIA. EXECUÇÃO INDIVIDUAL DE TÍTULO JUDICIAL. MANDADO DE SEGURANÇA COLETIVO. PRESCRIÇÃO. NECESSIDADE DE LIQUIDAÇÃO DA SENTENÇA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. AFERIÇÃO DAS DILIGÊNCIAS LEVADAS A EFEITO PELOS CREDORES. SÚMULA Nº 7 DO STJ. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA PÚBLICA DO ESTADO DE SÃO PAULO E OUTRO, com fundamento no artigo 105, III, "a", da CF de 1988, contra acórdão proferido pela 13ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado (fls. 14-20, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO COLETIVA EM FASE DE EXECUÇÃO. Decisão vergastada que rechaçou a alegação de prescrição da pretensão executiva.
+Manutenção. Título judicial de mandado de segurança coletivo impetrado pelo Sindicato dos Trabalhadores Públicos da Saúde. Prescrição. Inocorrência. Não corre a prescrição enquanto não iniciadas diligências necessárias à liquidação do crédito resultante de sentença proferida em ação coletiva. Inaplicabilidade do julgamento proferido no REsp 1.388.000/PR (tema 877) por se tratar o "leading case" diverso. Decisão mantida. Recurso não provido.
+Nas razões do recurso especial, as partes recorrentes apontam ofensa aos arts. 489, II, e § 1º, VI, e 927, III, ambos do CPC/2015; 1º do Decreto n. 20.910/1932; 202, I, do CC/2002; e 94 do CDC.
+Para tanto, alega preliminarmente nulidade no acórdão recorrido por ausência de adoção da orientação do STJ consolidada no tema 877 sobre a desnecessidade de ciência do titulo executivo coletivo por meio de publicação de edital.
+No mérito alega que a prescrição da pretensão executória se extingue no mesmo prazo da pretensão do conhecimento, uma vez que a parte exequente teve ciência da decisão proferida no Mandado de Segurança Coletivo. Dessa forma, o prazo prescricional é de cinco anos, devendo ser contado a partir do trânsito em julgado da sentença genérica, devendo o beneficiário do título promover a execução individual nesse período sem o que não há suspensão/interrupção da fluência do lustro prescricional.
+Contrarrazões às fls. 38-62 e-STJ.
+Exame positivo de admissibilidade às fls. 89-90, e-STJ.
+É o relatório. Passo a decidir.
+De início, afasto a alegada ofensa ao art. 489, II, e § 1º, VI do CPC/2015, pois o entendimento pacífico desta Corte é de que o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+Nesse sentido, confira:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TARIFA DE SERVIÇO DE ÁGUA E ESGOTO. ALEGADA OFENSA AO ART. 489, §1º, IV, DO CPC/2015. INEXISTÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. ALEGADO CERCEAMENTO DE DEFESA. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA DESNECESSIDADE DE PRODUÇÃO DE NOVAS PROVAS. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. IMPOSIÇÃO DE MULTAS. DESCABIMENTO. AGRAVO INTERNO IMPROVIDO.
+(..)
+III. Na forma da jurisprudência desta Corte, "o enfrentamento dos argumentos capazes de infirmar o julgado, mas de uma forma contrária ao buscado pela parte, não caracteriza o defeito previsto no art. 489, § 1.º, inciso IV, do CPC/2015" (STJ, AREsp 1.229.162/GO, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 07/03/2018). No mesmo sentido: STJ, AgInt no REsp 1.683.366/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 30/04/2018.
+(..)
+VII. Agravo interno improvido.
+(AgInt no AREsp 1255946/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 19/06/2018)
+Quanto ao mérito, melhor sorte não assiste aos recorrentes. Isso porque o acórdão recorrido também fundamentou a negativa de ocorrência de prescrição na hipótese em razão de que "o título executivo judicial transitado em julgado somente poderia ser executado se tornado líquido, não correndo o prazo prescricional enquanto o credor promove as diligências para viabilizar a execução" (fl. 16, e-STJ).
+Ocorre que o referido fundamento do acórdão recorrido não foi impugnado nas razões recursais, o que impossibilita o conhecimento da irresignação no mérito, haja vista a incidência da Súmula n. 283 do STF. Nesse sentido: AgInt no REsp 1.690.030/PR, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 16/11/2018; e AgInt no AREsp 1343289/AP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/12/2018.
+De outra forma, também não seria possível a esta Corte aferir a ocorrência ou não de diligências por parte dos credores para fins de reconhecimento da inércia necessária à prescrição, eis que tal providência demandaria reexame de matéria fático probatória, inviável em sede de recurso especial em razão do óbice da Súmula nº 7 desta Corte.
+Ante o exposto, não conheço do recurso especial, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ.
+Publique-se. Intimem-se.
