@@ -1,0 +1,26 @@
+EMENTA
+RECLAMAÇÃO. ARTS. 105, I, F, DA CONSTITUIÇÃO DA REPÚBLICA, 187 DO RISTJ E 988 DO CPC/15. USURPAÇÃO DE COMPETÊNCIA OU DESCUMPRIMENTO DE DECISÃO DESTA CORTE SUPERIOR. NÃO OCORRÊNCIA. RECLAMAÇÃO NÃO CONHECIDA.
+DECISÃO
+
+Cuida-se de reclamação apresentada por [NOME] contra acórdão proferido pela Décima Quarta Câmara Cível do Tribunal de Justiça de Minas Gerais, nos termos dos arts. 105, I, f, da CRFB; 187 do RISTJ; e 988, II e IV, do CPC/2015.
+O referido acórdão determinou a suspensão do processo diante da determinação da decisão de afetação proferida no REsp n. 1.438.263/SP, conforme se verifica da seguinte ementa:
+AGRAVO - EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA - SUSPENSÃO DO RECURSO DE AGRAVO DE INSTRUMENTO - LEGITIMIDADE DE NÃO ASSOCIADO - DECISÃO MANTIDA.
+- Em obediência à decisão proferida pelo Ministro do STJ Raul Araújo, no Resp 1.438.263/SP, deve ser mantida a decisão que suspendeu o processo em que haja controvérsia sobre a legitimidade ativa de não associado para liquidação/execução da sentença coletiva proferida em ação civil pública.
+Em suas razões, o reclamante alega que, mesmo diante de uma coisa soberanamente julgada -, processo - 1998.01.1.016798-9, de uma coisa julgada formal não rescindida no STJ  REsp 1.391.198/RS  e dos temas 723 e 724 transitados em julgado, as decisões soberanas do STJ estão correndo iminente risco de serem violadas, ferindo todos os incisos do art. 988 do Novo CPC, eis que em decisão monocrática de Agravo interno, o Nobre Julgador Valdez Leite Machado, componente da 14ª Câmara Cívil do Tribunal de Justiça de Minas Gerais, suspendeu o processo com fulcro no RESP nº1 .438.263, ignorando coisa soberanamente julgada existente na ACP 1998.01.1.016798-9 e decisões já definidas em temas de recursos repetitivos transitados em julgados do STJ 723 e 724" (e-STJ, fls. 9-10).
+Diante disso, pugna pela "concessão de medida liminar suspendendo os efeitos da decisão proferida pelo(a) Desembargador Valdez Leite Machado componente da 14ª Câmara Cívil do Tribunal de Justiça de Minas Gerais, que nos autos do Agravo Interno Nº 1.0024.13.339872-7/003 violou decisão posterior do STJ bem como que seja determinado ao Ministro Presidente do Superior Tribunal de Justiça que suspenda o julgamento do RESP 1.438.263 SP ou que o mesmo exclua do regime de repercussão geral os processos que envolvem poupadores direitos do Banco do Brasil, por força de coisa soberanamente julgada" (e-STJ, fl. 18).
+Brevemente relatado, decido.
+Nos termos do artigo 105, I, f, da Constituição da República, compete ao Superior Tribunal de Justiça processar e julgar originariamente a reclamação para a "preservação de sua competência e a garantia da autoridade de suas decisões", competência esta que acabou alargada pelo artigo 988 do Código de Processo Civil de 2015:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III  garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV  garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+(..) § 5º É inadmissível a reclamação:
+(..) II  proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+Contudo, a despeito do alargamento da competência preconizado pelo Código de Processo Civil de 2015, não se verifica, na hipótese, o descumprimento de tese firmada por esta Corte Superior, porquanto a ordem de suspensão dos processos pendentes de julgamento nas instâncias ordinárias decorreu de decisão do próprio STJ, que acabou por suspender os efeitos do REsp n. 1.391.198/RS.
+Isso porque, após recente acórdão do Supremo Tribunal Federal, foi novamente acesa a celeuma jurídica acerca da legitimidade de consumidores não associados para promoverem a execução individual de sentença coletiva. Partindo-se dessa premissa, verifica-se que não foi demonstrado, nem mesmo em tese, o descumprimento de decisão deste Tribunal Superior pelo Tribunal local.
+Ao contrário, a afetação de novo recurso indicado como repetitivo de controvérsia - no qual será novamente enfrentada a questão jurídica - com a expressa determinação de suspensão dos recursos pendentes nas instâncias ordinárias, deve esta ser observada até o final julgamento do Recurso Especial n. 1.438.263-SP.
+Ademais, a decisão de afetação do Tema 948/STJ expressamente consignou que a suspensão abrange todos os processos que se encontrem em fase de liquidação ou de cumprimento de sentença, nos quais a questão acima destacada tenha surgido e ainda não tenha recebido solução definitiva.
+Desse modo, ao contrário do que alega o reclamante, a matéria não foi decidida no título judicial executivo, havendo trânsito apenas em relação ao reconhecimento do direito aos expurgos inflacionários, sem ter sido analisada a questão referente à legitimidade daquele que não é associado ao IDEC.
+Com esses fundamentos, não conheço da presente reclamação, nos termos do art. 34, XVIII, do RISTJ.
+Publique-se.
