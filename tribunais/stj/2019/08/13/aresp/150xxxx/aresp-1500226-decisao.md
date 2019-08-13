@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial contra decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Ceará, que, à unanimidade de votos, não conheceu da revisão criminal ajuizada por [NOME], condenado à pena de 3 (três) meses de detenção pela prática de crime tipificado no art. 302, parágrafo único, II e III, da Lei n. 9.503/1997. É esta a ementa do r. julgado (e-STJ fl. 412):
+EMENTA: PENAL. PROCESSUAL PENAL. REVISÃO CRIMINAL. ART. 302, PARÁGRAFO ÚNICO, DO CTB. HOMICÍDIO CULPOSO QUALIFICADO. PEDIDO DE ABSOLVIÇÃO. INVIABILIDADE. PRETENSÃO DE REEXAME DE QUESTÕES JÁ APRECIADAS NOS DOIS GRAUS DE JURISDIÇÃO. MERA REDISCUSSÃO DA MATÉRIA. INVIABILIDADE. PRECEDENTES DO STJ E DESTA CORTE. AÇÃO REVISIONAL JULGADA IMPROCEDENTE.
+1. A revisão criminal, com fulcro no art. 621, do Código de Processo Penal, só é possível quando considerada contrária a texto expresso da lei penal ou à evidência dos autos; fundada em depoimentos, exames ou documentos comprovadamente falsos; ou apresentadas novas provas, que indiquem a inocência do réu ou circunstância que determinem ou autorizem a diminuição da pena.
+2. Na revisão criminal é vedada a análise de questões já discutidas no juízo da ação penal. Os novos elementos trazidos devem ter o poder conclusivo e demonstrar cabalmente a inocência do requerente ou circunstância que autorize a diminuição da pena.
+3. Portanto, tal pedido revisional não merece prosperar, tendo em vista ampla discussão no julgado que visa rescindir, posto que não sendo apresentadas novas provas aptas a ensejar mudança do resultado da decisão, nem cabe revisão criminal.
+4. Revisão criminal não conhecida.
+Embargos de declaração assim decididos (e-STJ fl. 436):
+EMENTA: PENAL. PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM REVISÃO CRIMINAL. ART. 302, § 1o, II E III, DO CTB. ALEGATIVA DE OMISSÃO/ERRO MATERIAL. DOS1METRIA. EMBARGOS CONHECIDOS E IMPROVIDOS.
+1. Os embargos de declaração são cabíveis quando há obscuridade, contradição ou omissão, nos termos do art. 619, do Código de Processo Penal, ou em casos excepcionais, onde são constatados erro material ou nulidade de decisão.
+2. Inexistindo vícios a serem sanados, os aclaratórios não podem servir como recurso para o reexame de matéria já discutida, com a finalidade de obter decisão diversa daquela já proferida. Via recursal imprópria. Súmula nº 18 do TJCE.
+3. No caso, o embargante pretende o revolvimento de fatos e provas, rediscutindo o conteúdo analisado na apelação, o que não é permitido em sede de embargos declaratórios.
+4. Embargos de Declaração conhecidos e improvidos.
+Nas razões do especial, fulcrado na alínea "a" do permissivo constitucional, alega a defesa afronta aos arts. 621, I, e 619 do Código de Processo Penal.
+Afirma que "a decisão embargada NÃO ANALISOU QUALQUER DAS EVIDÊNCIAS, cingindo-se a asseverar que a prova dos autos já haveria sido analisada pelo Acórdão impugnado na revisional (Acórdão da Apelação Criminal). A ausência de mínima análise ESPECÍFICA das alegações exordiais constitui inegável omissão." (e-STJ fl. 457)
+Prossegue dizendo que o acórdão que apreciou os aclaratórios tratou de apenas uma das teses aventadas na revisional.
+Aduz, ainda, que o acórdão rescindendo é contrário à evidência dos autos, pois inexiste comprovação que houve omissão de socorro por parte do recorrente.
+Pugna, ao final, pelo provimento do recurso anulando os acórdãos regionais. Subsidiariamente, requer a procedência do pleito revisional.
+Contra-arrazoado (e-STJ fls. 470/478), o recurso foi inadmitido (e-STJ fls. 480/483), motivando o presente agravo.
+Contraminuta às e-STJ fls. 504/509 e manifestação ministerial, nesta instância, pelo desprovimento do agravo, em parecer assim ementado (e-STJ fl. 525):
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO QUALIFICADO. REVISÃO CRIMINAL. ABSOLVIÇÃO. AFASTAMENTO CAUSAS DE AUMENTO.
+1. A alegação de insuficiência de provas da autoria para a condenação não autoriza o ajuizamento de revisão criminal, sob pena de transformar-se o pedido revisional em um novo recurso de apelação. Precedentes do STJ.
+2. Parecer pelo não provimento do agravo.
+É o relatório. Decido.
+O agravo é tempestivo e foram impugnados os fundamentos do despacho de inadmissibilidade.
+Passo, então, ao exame do recurso especial.
+Não vislumbro, inicialmente, ofensa ao 619 do Código de Processo Penal.
+Veja o que consta do acórdão que apreciou os aclaratórios defensivos (e-STJ fls. 438/439):
+Para o crime ora estudado, na terceira fase da fixação da pena, foram aplicadas as causas de aumento previstas nos incisos II e III, do parágrafo único, art. 302, do CTB (praticar o delito em faixa de pedestre e deixar de prestar socorro), no percentual de 1/2 (um meio), ficando o apenamento em 3 (três) anos de detenção.
+No presente caso, o embargante pugna pelo decote da majorante de omissão de socorro, porém os depoimentos testemunhais não justificam a pretensão.
+A testemunha [NOME] (fl. 188) diz "que não sabe dizer quem chamou o socorro para a vítima"; a outra testemunha [NOME] (fls. 186/187) afirma que "não sabe informar quem chamou o socorro para a vítima"; já as testemunhas [NOME] (fl. 78) e [NOME] (fl. 79) não informaram se houve omissão de socorro; já o garupeiro do réu [NOME] (fls. 244/245) informou que "se feriu com raladuras; que [NOME], réu também caiu da moto, mas se feriu com raladuras  ..  que o réu ficou normal depois da morte da vítima, não mostrando nenhum abalo  .. ".
+Não houve relato, com base no acervo testemunhai, que o réu ora embargante tivesse prestado socorro à vítima, de outra banda não restou demonstrado que o mesmo tivesse se evadido do local do delito.
+De outra sorte, o condutor que se envolve em evento de trânsito fica diretamente vinculado ao seu dever primário de socorrer a vítima, de forma imediata à ocorrência do fato e caso não consiga fazê-lo, por situação extrema, fica vinculado ao dever secundário de acionar a autoridade pública para que o faça.
+O que se denota do caderno processual é que várias pessoas chegaram ao local do acidente e estas providenciaram o socorro à vítima, o que não exime o causador do fato de demonstrar consciência de solidariedade humana, mesmo porque, tendo condições de prestar socorro, em regra, é quem pode fazê-lo.
+Da leitura dos trechos acima transcritos, verifico que a questão foi resolvida com fundamentação satisfatória, não havendo que se falar em violação do art. 619 do CPP.
+Ademais, os embargos de declaração são inadmissíveis, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso. (EDcl no AgRg no RHC n. 109.952/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 30/5/2019, DJe 4/6/2019)
+Melhor sorte não assiste à defesa quando sustenta violação do art. 621, I, do CPP.
+A revisão criminal só é cabível nas hipóteses expressamente listadas no art. 621 do Código de Processo Penal, ou seja, "I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos; II - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos; III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena".
+Na hipótese, à oportunidade do julgamento da apelação, consignou a Corte a quo que a materialidade e a autoria do crime restaram devidamente comprovadas pela produção probante levada a efeito durante a instrução processual. A prova pericial, consistente do Exame de Corpo de Delito (cadavérico) de fls. 11, o Boletim de Acidente de Trânsito de fls. 28/31 e os depoimentos testemunhais colhidos mostram-se hábeis para atestar a tese da acusação. (e-STJ fl. 364)
+E ao apreciar o pleito revisional, disse o Tribunal que o acervo probatório foi devidamente analisado, não encontrando erro na apreciação da prova, tampouco existindo qualquer elemento novo ou fato novo que possa afastar a condenação do recorrente. (e-STJ fl. 414)
+Como se pode observar, inexistem nos autos elementos aptos a indicarem erro no julgamento do requerente, e a defesa não apresentou argumentos novos a subsidiarem as alegações, que, inclusive, já haviam sido apresentadas em grau recursal e afastadas circunstancialmente pelo acórdão submetido à revisão.
+"Esta Corte Superior já decidiu que "a revisão criminal, à luz do disposto no art. 621, III, do Código de Processo Penal, não se presta à mera reapreciação de prova já examinada" (HC n. 42.063/GO, Rel. Ministra LAURITA VAZ, Quinta Turma, DJ de 20/6/2005)." (AgRg no HC n. 458.151/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 3/12/2018)
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORMAÇÃO DE QUADRILHA. ROUBO. ADVOCACIA ADMINISTRATIVA. MANTER EM DEPÓSITO MUNIÇÃO PRIVATIVA DO EXÉRCITO. TRÁFICO DE INFLUÊNCIA. COMPETÊNCIA JURISDICIONAL. ABSOLVIÇÃO E EXTINÇÃO DA PUNIBILIDADE QUANTO AOS CRIMES QUE ATRAÍRAM A COMPETÊNCIA DA JUSTIÇA FEDERAL. SENTENÇA CONDENATÓRIA. PERPETUAÇÃO DA JURISDIÇÃO. INCOMPETÊNCIA DO JUÍZO. NULIDADE NÃO VERIFICADA.
+ ..
+REVISÃO CRIMINAL. ART. 621, INCISO I, DO CPP. PLEITO ABSOLUTÓRIO. FRAGILIDADE PROBATÓRIA. PRETENSÃO INVIÁVEL NO JUÍZO RESCISÓRIO. NECESSIDADE DE PATENTE CONTRARIEDADE ENTRE A CONDENAÇÃO E AS PROVAS DOS AUTOS. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. AGRAVO IMPROVIDO.
+1. Nos termos do inciso I do artigo 621 do Código de Processo Penal, para que o pleito revisional seja admitido, é preciso que a defesa demonstre que a condenação foi contrária ao texto expresso da lei penal ou aos elementos de convicção constantes dos autos, circunstâncias que não se mostraram presentes na espécie.
+2. A jurisprudência desta Corte é firme no sentido de que a revisão criminal não deve ser adotada como um segundo recurso de apelação, porquanto não se presta a propiciar a reapreciação das provas constantes dos autos.
+3. Agravo improvido. (AgInt no AREsp 1328678/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/02/2019, DJe 26/02/2019)
+Diante do exposto, com fulcro no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
