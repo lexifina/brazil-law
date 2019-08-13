@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ILIDIA DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, no julgamento da Apelação n. 0019003-39.2017.8.19.0066.
+Consta dos autos que a paciente foi condenada, pelo Juízo de 1º grau, pela prática do delito previsto no art. 33, § 4º, da Lei n. 11.343/2006, às penas de 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa (fls. 12/30).
+Inconformada, a defesa apelou e o Tribunal a quo negou provimento ao recurso (fls. 31/39), por acórdão assim ementado:
+APELAÇÃO - Art. 33, caput , da Lei 11.343/06. Pena: 05 anos de reclusão, em regime fechado, e 500 dias-multa. Apelante trazia consigo 13,4g de [NOME], os quais estavam acondicionados e distribuídos no interior de 34 sacos plásticos incolores fechados em nó do próprio saco. SEM RAZÃO A DEFESA. 1) Absolvição: Impossível.
+Conjunto probatório robusto e convincente. Depoimento dos policiais comprovam a materialidade e autoria do delito tipificado, revestindo-se assim da necessária eficácia probatória. Sumula 70 do ETJRJ. Apelante permaneceu em silêncio. A quantidade, a natureza da substância entorpecente e a forma de acondicionamento (34 sacolés), aliadas às demais circunstâncias em que se deu a apreensão (após denúncia de que estaria ocorrendo tráfico de drogas no local; evasão da apelante ao avistar os policiais; local conhecido como ponto de venda de drogas) trazem a certeza de que a droga efetivamente se destinava ao comércio.
+2) Impossível a aplicação da causa especial de diminuição de pena, prevista no art. 33, parágrafo 4º, da Lei 11.343/06: A FAC da apelante traz outra anotação, também por tráfico de drogas. Além disso, restou demonstrado pela razoável quantidade de entorpecente e pelo local da prisão, conhecido como ponto de vendas de drogas, dominada por facção criminosa, que não se trata a apelante de mera traficante ocasional, sendo evidente que se dedica à atividade de tráfico.
+3) Descabida a substituição da pena privativa de liberdade por restritiva de direitos. Tal substituição não se mostra razoável, dado o quantum da reprimenda imposta e a gravidade concreta do delito.
+DESPROVIMENTO DO RECURSO DEFENSIVO.
+Na presente impetração (fls. 3/8), a defesa sustenta haver constrangimento ilegal na aplicação do regime inicial fechado à pena inferior a 8 anos de reclusão, pela apontada hediondez do delito, fundamento reputado inconstitucional pelo Supremo Tribunal Federal. Tendo em vista a ausência de fundamentação idônea para a aplicação de regime inicial mais gravoso, deve-se seguir os parâmetros previstos no art. 33, § 2º, do Código Penal, os quais indicam a possibilidade de aplicação, ao caso, do regime inicial semiaberto.
+Diante disso, pede, liminarmente e no mérito, a aplicação do regime inicial semiaberto.
+É o relatório. Decido.
+Não obstante as razões deduzidas na petição inicial, não vejo como dar seguimento ao presente writ.
+As razões da presente impetração e o respectivo pedido não foram objeto de debate pela Corte local, a qual não foi provocada a manifestar-se acerca da apontada ilegalidade no regime inicial de pena aplicado pelo Juízo de 1º grau.
+Portanto, inexistente pronunciamento do Tribunal de origem sobre a questão ora aventada e não sendo detectado, de plano, flagrante constrangimento ilegal, resulta inviável a apreciação do tema por esta Corte, sob pena de supressão de instância.
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intime-se.
