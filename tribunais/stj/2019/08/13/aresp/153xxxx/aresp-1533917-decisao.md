@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo apresentado por BANCO DO BRASIL SA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CUMPRIMENTO DE SENTENÇA IMPUGNAÇÃO - AÇÃO DE REPETIÇÃO DE INDÉBITO HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA IMPUGNAÇÃO DO DEVEDOR CALCADA NO CITO MATERIAL OU ERRO DE CÁLCULO ERRO PASSÍVEL DE CORREÇÃO A FIM DE EVITAR O ENRIQUECIMENTO SEM CAUSA - ERRO NO ENTANTO NÃO CARACTERIZADO - SENTENÇA E ACÓRDÃO LÍQUIDOS NO QUANTUM DA CONDENAÇÃO APENAS A SER ATUALIZADO E ACRESCIDO DE JUROS DE MORA - CÁLCULOS ARITMÉTICOS SEM COMPLEXIDADE - INTENTO DO RÉU DC MODIFICAR O TÍTULO JUDICIAL SOB O FUNDAMENTO DE QUE ESTORNOS NÃO FORAM CONSIDERADOS E UM DOS ÍNDICES É INCORRETO - SENTENÇA E ACÓRDÃO COM LASTRO EM LAUDO CONTÁBIL - REDISCUSSÃO VEDADA PELO AI T 509 § 4º DO NOVO CPC - RECURSO DESPROVIDO
+Pela alínea "a" do permissivo constitucional, alega violação do art. 884 do CC e do art. 525, V, do CPC, no que concerne ao enriquecimento ilícito da parte recorrida em razão de erro material nos cálculos do título executivo judicial, trazendo o(s) seguinte(s) argumento(s):
+20. Pois bem, o erro material nos cálculos do Sr. [NOME] no processo de conhecimento consistiu na indevida inclusão de valores que foram estornados do recorrido, além da inclusão de índice incorreto.
+21. Com efeito, vê-se nos cálculos do Sr. [NOME] fls. 186 que foram somados os valores de estornos, os quais não foram cobrados do cliente ao tempo da liquidação da operação, e sim, abatidos do saldo devedor da operação, e, portanto, jamais poderiam ser somados ao indébito devido ao recorrido.
+ ..
+26. Ainda que admitido que o título judicial formado no processo de conhecimento é líquido, sendo necessários simples cálculos aritméticos para a apuração do "quantum debeatur", o que se faz por hipótese, de rigor se reconhecer que ele decorre de anterior cálculo elaborado pelo Sr. [NOME]m verdadeiro erro material, como se viu.
+27. Em síntese, considerando-se que houve a indevida inclusão nos cálculos, na fase de conhecimento, de valores que foram estornados do recorrido e de índice incorreto, além do que não há preclusão e nem coisa julgada a este respeito, de rigor se reconhecer o enriquecimento ilícito provocado, com o consequente afastamento do excesso de execução.
+28. Ora, na essência, o erro material de cálculo não pode dar azo ao enriquecimento ilícito pois que afrontam os princípios da lealdade processual e boa-fé, instrumentalidade das formas e seus corolários, além da expressa disposição legal do art. 884, do Código Civil, além do quanto previsto no art. 525, V, do CPC. (fls. 289/291).
+É o relatório. Decido.
+Na espécie, ficou assim decidido pelo Tribunal de origem:
+O erro material ou o erro de cálculo é aquele evidente, de fácil verificação, não aquele que está na percepção de um dos demandantes.
+Nesse sentido: "O erro material é aquele perceptível "primu ictu oculi " e sem maior exame, a traduzir desacordo entre a vontade do juiz e a expressa na sentença" (RSTJ 102/278).
+Por isso, falta razão ao recorrente, pois o fim é o de rediscutir a coisa julgada e não o de reparar um erro.
+ ..
+Está claro que o recorrente quer rediscutir o título judicial imutável e líquido da sentença formadora da coisa julgada, o que é defeso na fase de liquidação e cumprimento.
+O meio de modificar o título judicial não é a impugnação, como se a hipótese fosse de erro material ou erro de cálculo (fls. 243/244).
+Fazendo incidir, portanto, o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste no reconhecimento da violação à coisa julgada através da revisão da interpretação do teor do título executivo judicial realizada pela Corte de origem, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido, a jurisprudência do STJ firmou que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp n. 770.444/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019).
+Confiram-se ainda os seguintes precedentes: REsp n. 1.431.610/GO, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/2/2019; AgRg no AREsp n. 755.581/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/2/2016; e AgInt no AREsp n. 1.161.225/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 24/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
