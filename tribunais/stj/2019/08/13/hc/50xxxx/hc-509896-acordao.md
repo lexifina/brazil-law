@@ -1,0 +1,48 @@
+EMENTA
+HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS. PRISÃO CAUTELAR. EXCESSO DE PRAZO PARA O JULGAMENTO DO RECURSO DE APELAÇÃO. DESÍDIA DO JUDICIÁRIO. LAPSO SUPERIOR A UM ANO PARA JULGAMENTO DA APELAÇÃO. EXCESSO DE PRAZO. OCORRÊNCIA. CONSTRANGIMENTO ILEGAL. VERIFICAÇÃO.
+1. É cediço, neste Superior Tribunal, o entendimento segundo o qual, inexistindo desídia do Judiciário, por lapso que não extrapola os limites da razoabilidade, não há falar em constrangimento ilegal por excesso de prazo.
+2. Conforme informações prestadas pelo Tribunal de Justiça de Santa Catarina, bem como em consulta à sua página eletrônica, verifica-se o alegado constrangimento, pois, diante da condenação à pena de 5 anos e 10 meses de reclusão, a defesa técnica interpôs apelação, recebida pelo Tribunal de origem em 12/7/2018 - recurso que, até a presente data, não foi apreciado pela instância a quo -, configurando desídia do Judiciário no impulsionamento do feito (excesso de prazo).
+3. Ordem concedida a fim de revogar a prisão preventiva imposta ao paciente, ressalvada a possibilidade de nova decretação da custódia cautelar caso demonstrada a superveniência de fatos novos que indiquem sua necessidade, impondo-lhe, porém, as medidas alternativas previstas no art. 319, I, II, III e V, do Código de Processo Penal, devendo o Juízo de primeiro grau competente estabelecer as condições.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por maioria, conceder a ordem nos termos do voto do Sr. Ministro Relator. Vencidos os Srs. Ministros Nefi Cordeiro e Laurita Vaz. Os Srs. Ministros Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] - preso, desde 1º/3/2018, e condenado à pena de 5 anos e 10 meses de reclusão, em razão de tráfico de entorpecentes (art. 33 da Lei n. 11.343/2006), ao portar, com a corré, cerca de 47 g de crack e 13 g de cocaína (fl. 42) -, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina, que supostamente não julgou ainda a apelação interposta a favor do ora paciente.
+Alega a parte impetrante, em síntese, que, do recebimento do recurso no TJSC até o presente momento  .. , já se passaram 306 dias, sem decisão designando a data de julgamento do recurso de apelação interposto pelo paciente (fl. 4).
+Postula, liminarmente e no mérito, a expedição do competente alvará de soltura, a fim de que seja o paciente posto em liberdade, em razão do excesso de prazo do Tribunal de origem para julgar a apelação interposta (fls. 3/12).
+Liminar indeferida (fls. 92/94).
+Prestadas as informações pela autoridade apontada como coatora (fls. 162/166), o Ministério Público Federal opinou pela denegação da ordem, porém com a recomendação de celeridade no julgamento da Apelação Criminal n. 0000527-90.2018.8.24.0061/SC (fls. 168/171).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Busca a impetração a revogação da prisão cautelar imposta ao paciente ao argumento de excesso de prazo para o julgamento do recurso de apelação.
+Conforme informações prestadas pelo Tribunal de Justiça de Santa Catarina, bem como em consulta à sua página eletrônica, verifiquei o alegado constrangimento, pois, diante da condenação à pena de 5 anos e 10 meses de reclusão, a defesa técnica interpôs apelação, recebida pelo Tribunal de origem em 12/7/2018 - apelação que, até a presente data, não foi julgada -, denotando-se desídia do Judiciário no impulsionamento do feito, consoante a informação prestada pela origem (fls. 165/166):
+ ..  2. O paciente foi preso em flagrante em 1º/3/2018 (pp. 6/8).
+3. A prisão em flagrante foi convertida em preventiva em 2/3/2018 (pp. 33/36).
+4. Foi feito pedido de revogação da preventiva em 2/3/2018 (pp. 38/45), o qual foi analisado e indeferido em 8/3/2018 (pp. 65/66).
+5. A denúncia foi oferecida em 9/3/2018 (pp. 80/83) e recebida em 12/3/2018 (p.120).
+6. O paciente apresentou defesa prévia em 20/3/2018 (pp. 126/134).
+7. Foi designada audiência de instrução e julgamento para o dia 19/4/2018 (pp.143/144).
+8. O advogado do paciente impetrou habeas corpus, o qual foi julgado e denegado ordem em 5/4/2018 (pp. 168/175).
+9. Na audiência de instrução e julgamento realizada no dia 19/4/2018 foram inquiridas duas testemunhas de acusação e realizado os interrogatórios dos réus. Além disso, foi formulado pela defesa novo pedido de revogação da prisão preventiva do paciente, o que foi indeferido (pp. 200/202).
+10. O Ministério Público apresentou alegações finais por memoriais em 27/4/2018 (pp. 208/213) e a defesa apresentou em 10/5/2018 (pp. 220/228).
+11. Em 24/5/2018 foi preferida sentença condenando o paciente ao cumprimento de pena privativa de liberdade de 5 anos e 10 meses de reclusão e condenando A C ao cumprimento de pena privativa de liberdade de 1 ano, 11 meses e 10 dias de reclusão. Ao paciente foi fixado o regime semiaberto para cumprimento da reprimenda e determinado que o tempo que permaneceu preso preventivamente (2 meses e 24 dias) fosse detraído de sua pena (pp. 231/245).
+12. Em 5/6/2018 a defesa interpôs recurso de apelação (p.261), apresentando as razões recursais em 15/6/2018 (pp. 267/275).
+13.O Ministério Público apresentou contrarrazões de apelação em 10/7/2018 (pp. 286/293).
+14. Os autos foram remetidos ao 2º Grau de Jurisdição em 12/7/2018 (p.296), permanecendo lá até apresente data.
+ ..
+Por conseguinte, há, repita-se, flagrante excesso de prazo, porquanto o paciente se encontra preso preventivamente desde 1º/3/2018, aproximadamente, 1 ano, 5 meses e 14 dias.
+Ressalte-se que, em consequência da sentença condenatória (24/5/2018), foi interposto recurso de apelação pela defesa técnica, em 5/6/2018, o qual, até a presente data, não foi apreciado pelo Tribunal de origem.
+Com efeito, diante da pena imposta, isto é, 5 anos e 10 meses, inegável a possibilidade de concessão de progressão de regime, caso a execução da sanção definitiva estivesse em curso regular.
+Em acréscimo, nos termos da jurisprudência dominante deste Tribunal, a reduzida quantidade de entorpecentes - condenação em razão de tráfico de entorpecentes (art. 33 da Lei n. 11.343/2006), ao portar, com a corré, cerca de 47 g de crack e 13 g de cocaína (fl. 42) - autoriza a substituição da prisão preventiva por medidas cautelares diversas da prisão, nos termos do art. 319 da Lei n. 12.403/2011.
+Nesse sentido, destaco o seguinte precedente:
+PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTOS. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. OCORRÊNCIA. GRAVIDADE DO DELITO. NECESSIDADE DE IMPOSIÇÃO DE CAUTELARES DIVERSAS DA PRISÃO.
+1. A alegação de fundamentação inidônea para a negativa do direito de recorrer em liberdade não foi objeto de análise pelo Tribunal de origem, o que impede o enfrentamento do tema por esta Corte sob pena de indevida supressão de instância.
+2. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+3. Ademais, esta Corte tem reiterada jurisprudência no sentido de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória (precedentes).
+4. Na presente hipótese, o paciente está custodiado desde 11/1/2012. Em 29/11/2013 foi condenado a 25 anos de reclusão, no regime inicialmente fechado, mantida a segregação cautelar. O recurso de apelação foi distribuído no Tribunal de origem em 25/4/2014 e retornou ao relator com parecer em 17/6/2014, tendo sido redistribuído em 15/9/2016.
+5. Portanto, a despeito da alta reprovabilidade do delito sentenciado - a saber, homicídio qualificado em concurso de agente mediante paga com o fito de locupletar ilicitamente o mandante -, não se mostra razoável manter custodiado o réu por 7 anos e 4 meses e aguardando o julgamento de seu recurso de apelação há 5 anos, que nem sequer recebeu relatório e não há nenhum previsão para o julgamento, mormente se considerada a alegação do Desembargador relator de que, "tirando a condição de custodiado, não se trata de processo com prioridade na tramitação".
+6. A gravidade concreta do delito recomenda a imposição de medidas cautelares diversas da prisão, ainda que configurado o excesso de prazo (Precedentes).
+7. Conheço parcialmente do writ e, nessa extensão, concedo a ordem.
+(HC n. 480.967/PA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 17/6/2019 - grifo nosso)
+Em face do exposto, concedo a ordem a fim de revogar a prisão preventiva imposta ao paciente, ressalvada a possibilidade de nova decretação da custódia cautelar caso demonstrada a superveniência de fatos novos que indiquem sua necessidade, impondo-lhe, porém, as medidas alternativas previstas no art. 319, I, II, III e V, do Código de Processo Penal, devendo o Juízo de primeiro grau competente estabelecer as condições.
+VOTO-VENCIDO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (PRESIDENTE): Ministro Sebastião, também vou denegar, mas fique à vontade para que encaminhe como quiser.
