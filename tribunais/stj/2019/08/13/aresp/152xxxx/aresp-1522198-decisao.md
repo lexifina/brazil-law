@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] E CONSTRUÇOES LTDA, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO ANULATÓRIA - Sentença de parcial procedência.
+APELO DO AUTOR - Inadmissibilidade - Pretensão redibitória que se encontra fulminada pela prescrição, a teor do art. 445, § 1º, do CC - Danos morais que não comportam majoração. APELO DA RÉ - Inadmissibilidade - Responsabilidade civil bem reconhecida, a teor do art. 14, do CDC - Quantum indenizatório fixado em atendimento aos princípios da proporcionalidade e da razoabilidade. Sentença mantida - RECURSOS DESPROVIDOS.
+Quanto à controvérsia trazida aos autos, a parte recorrente alega violação do art. 944 do Código Civil, trazendo o(s) seguinte(s) argumento(s):
+O egrégio Tribunal de Justiça do Estado de São Paulo manteve a condenação da Recorrente ao pagamento de indenização por danos morais no elevado valor de R$ 20.000,00, não se atentando, data venia, para a disposição de Lei Federal acima citada. Com o devido respeito, o egrégio Tribunal a quo não agiu com o costumeiro acerto. Com efeito, o valor fixado a título de danos morais pelo r. Juízo a quo se mostra desproporcional, em desacordo com os princípios da proporcionalidade e razoabilidade, bem como em ofensa ao artigo abaixo citado.
+ ..
+O Recorrido não mensurou especificamente o valor do abalo que diz ter sofrido, não citou nenhum fundamento ou método utilizado para se chegar a tal quantia, limitando-se simplesmente a pedir. (fls. 439/440).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte" (AgInt no AREsp 1.214.839/SC, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 08/03/2019).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.269.094/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 01/03/2019; AgInt no AREsp 1.386.578/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 13/03/2019; e AgInt no REsp 1.761.700/RO, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 26/02/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
