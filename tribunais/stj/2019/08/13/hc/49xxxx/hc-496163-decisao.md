@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ARISON DO CARMO PINTO BORGES JUNIOR, apontando-se como autoridade coatora o Tribunal Regional Federal da 4ª Região que, em sede de apelação, proferiu acórdão com a seguinte ementa (fls. 54/55):
+PENAL. PROCESSUAL PENAL. OPERAÇÃO PLANO ALTO. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ARTS. 33 E 35 DA LEI 11.343/06. POSSE DE ARMA DE USO RESTRITO. ART. 16 DA LEI 10.826/03. COMPETÊNCIA FEDERAL. TRANSNACIONALIDADE COMPROVADA. INÉPCIA DA DENÚNCIA. INEXISTÊNCIA. INOBSERVÂNCIA DO RITO ORDINÁRIO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PRECLUSÃO. NULIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS. INOCORRÊNCIA. AUTORIA. PROVAS SUFICIENTES EM RELAÇÃO AO PRIMEIRO CRIME. INTERESTADUALIDADE NÃO DEMONSTRADA. MAJORANTE INSCRITA NO ART. 40, V, DA LEI 11.343/06 AFASTADA. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA DO TERCEIRO RÉU. ESTABILIDADE E PERMANÊNCIA DEMONSTRADA NO SEGUNDO CRIME. INSUFICIÊNCIA DA PROVA QUANTO AO PRIMEIRO, TERCEIRO E SEXTO RÉUS. ABSOLVIÇÃO. PENAS. QUALIDADE E NATUREZA DA DROGA. VETORES AUTÔNOMOS E PREPONDERANTES.
+CULPABILIDADE E CIRCUNSTÂNCIAS DO CRIME. VETORIAIS NEGATIVAS PARA OS DOIS PRIMEIROS DELITOS. INCREMENTO DAS PENAS-BASES. PERSONALIDADE E CONSEQUÊNCIAS. VETORES NEUTROS EM TODOS OS CRIMES. MOTIVOS. VETORIAL NEGATIVA NO TERCEIRO DELITO. REDUÇÃO DE PENA NA SEGUNDA FASE. SÚMULA 231 DO STJ. PERCENTUAL DE AUMENTO NA TERCEIRA FASE. MINORANTE INSCRITA NO ART. 33, § 4º, DA LEI 11.343/06. INAPLICABILIDADE. MULTA. SIMETRIA COM PENA PRIVATIVA DE LIBERDADE. REGIME PRISIONAL. EXECUÇÃO PROVISÓRIA. REPARAÇÃO DO DANO. INAPLICABILIDADE. ISENÇÃO DE CUSTAS. IMPOSSIBILIDADE.
+O paciente foi condenado pela prática dos crimes previstos nos arts. 33 e 35 c/c art. 40, I e V, todos da Lei 11.343/06, às penas de 15 anos de reclusão e de 1.818 dias-multa.
+Neste writ, busca-se a anulação do processo, com a alegação de nulidade do interrogatório do réu, ato inaugural da instrução, porquanto realizado em momento diverso do preconizado pelo entendimento do Supremo Tribunal Federal.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+DECIDO.
+Quanto à nulidade processual por ter sido realizado o interrogatório do paciente como primeiro ato da audiência de instrução e julgamento, o acórdão foi assim fundamentado (fls. 268/270):
+As defesas dos acusados arguem a nulidade do feito pela adoção do rito da Lei de Drogas em detrimento do rito comum ordinário, que aduzem deveria ter sido seguido diante da imputação conjunta de delito sujeito ao rito comum (art. 16 da Lei 10.826/03). Nessa linha, sustentam, em essência, que a não inobservância do rito comum implicou em cerceamento de defesa evidenciado pela realização dos interrogatórios como primeiro ato de instrução, quando o exercício de defesa somente seria efetivo com a sua realização ao final, como dispõe o art. 400 do Código de Processual Penal.
+A questão foi objeto do HC 5013368-80.2016.4.04.0000 impetrado cm favor de CÉSAR, que teve a ordem denegada por esta Turma cm 19/04/16, conforme se observa do voto-condutor:
+ ..
+Não verifico o alegado constrangimento ilegal, tendo em vista a jurisprudência do STF e STJ já se consolidou no sentido de que o interrogatório do réu deve ser realizado antes da oitiva das testemunhas quando se tratar de ação penal relativa ao crime de tráfico de drogas, por aplicação do procedimento específico da Lei de Tráfico - art. 57 da Lei n. 11.343/2006,  .. .
+ ..
+Assim, ainda que relevante a tese de impetração, não há constrangimento ilegal a ser sanado pela realização do interrogatório no início da instrução. A alteração do momento do interrogatório no procedimento comum, previsto no art. 400 do CPP não altera o rito previsto nos procedimentos especiais.
+Conquanto o entendimento jurisprudêncial atual seja em sentido diverso, é fato que, ao tempo da impetração e da sentença, a despeito da existência de controvérsia, havia respaldo para a adoção do rito especial da Lei 11.343/06.
+De consequência e por ter sido a preliminar objeto de análise em momento anterior por esta Turma, mostra-se preclusa a questão, não cabendo reexame nesta via.
+Concluiu o Tribunal de origem que a preliminar de nulidade restou preclusa por ter sido objeto de análise por aquela Corte em momento anterior à sedimentação do novo entendimento jurisprudencial trazido à baila pela defesa.
+Conforme consta às fls. 399/406, na audiência realizada no dia 29/3/2016, ato inaugural da instrução, houve o interrogatório dos réus, sendo possível verificar que, somente após, por memoriais, a defesa (fl. 99), alegou a existência da nulidade em questão, a qual foi rechaçada, às fls. 101/102, pelo Juízo de primeiro grau.
+Assim, embora a defesa tenha ressaltado a ocorrência de ofensa às garantias do contraditório e da ampla defesa, deixou de alegar o vício na primeira oportunidade, qual seja, a audiência realizada no dia 29/3/2016, limitando-se a trazer a matéria em alegações finais, operando-se, portanto, o instituto da preclusão.
+Ademais, não havendo demonstração de efetivo prejuízo, incabível o reconhecimento de nulidade, consoante o princípio pas de nullité sans grief, adotado pelo Código de Processo Penal, em seu artigo 563. Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. ASSOCIAÇÃO AO TRÁFICO DE DROGAS. INTERROGATÓRIO REALIZADO COMO ATO INAUGURAL DA INSTRUÇÃO. ATO REALIZADO APÓS O JULGAMENTO DO HC-127.900/STF. VÍCIO NÃO ALEGADO PELA DEFESA NA PRIMEIRA OPORTUNIDADE. PRECLUSÃO. AUSÊNCIA DE COMPROVAÇÃO DE PREJUÍZO SUPORTADO PELO RÉU. EXCESSO DE PRAZO NA INSTRUÇÃO. MATÉRIA NÃO EXAMINADA NO ACÓRDÃO IMPUGNADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. No caso, embora a defesa tenha apontado a ocorrência de afronta as garantias do contraditório e da ampla defesa, deixou de alegar o vício na primeira oportunidade, bem como não apontou concretamente o dano causado em razão da manutenção do interrogatório como primeiro ato da instrução, o que impede o reconhecimento da nulidade, a teor do princípio pas de nullité sans grief (art. 563 do CPP). Precedentes.
+ ..
+5. Habeas corpus não conhecido.
+(HC 445.312/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/06/2018, DJe 20/06/2018).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
