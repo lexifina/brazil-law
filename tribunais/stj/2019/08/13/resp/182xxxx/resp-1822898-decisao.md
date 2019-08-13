@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por CORREA MATERIAIS ELETRICOS LTDA - EM RECUPERACAO JUDICIAL, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO AO PIS E COFINS. BASE DE CÁLCULO. EXCLUSÃO. IMPOSSIBILIDADE.
+1. A base de cálculo do PIS e da COFINS é o valor total do faturamento ou da receita da pessoa jurídica, na qual incluem-se os tributos sobre ela incidentes, nos termos do artigo 12, § 5º, do Decreto-Lei nº 1.598/77.
+2. A conclusão do Supremo Tribunal Federal no tema nº 69 não pode ser aplicada por analogia a fim de afastar da base de cálculo da contribuição ao PIS e COFINS os valores referentes às próprias contribuição ao PIS e COFINS" (fl. 193e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 207/210e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO. PREQUESTIONAMENTO.
+1. É vedada a rediscussão dos fundamentos da decisão prolatada pela Turma na via estreita dos embargos de declaração.
+2. Desnecessária a oposição de embargos de declaração com a finalidade específica de prequestionamento, porquanto implícito no julgamento efetuado, nos termos do que dispõe o artigo 1.025 do novo Código de Processo Civil" (fl. 217e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte recorrente aponta violação ao art. 1.022, II, do CPC/2015, sustentando, em síntese, a existência de omissão, não suprida em sede de Embargos de Declaração, quanto aos "fundamentos de direito contidos no recurso de Apelação" (fl. 234e). Para tanto, aduz o seguinte:
+"12. O fato da referida decisão apenas transcrever acórdão de outro julgado é um erro grave, pois deixa de analisar os argumentos expostos, imprescindíveis para a solução da lide em questão.
+13. A Recorrente arguiu em seu recurso de apelação a inconstitucionalidade da inclusão do PIS e da COFINS sobre duas próprias bases de cálculo.
+14. Para tanto tratou do conceito de receita, bem como do princípio da capacidade contributiva.
+15. Ocorre que, em momento algum estes argumentos foram tratados no acórdão recorrido que se limitou a transcrever decisão a respeito da não aplicação da decisão do STF no julgamento da inconstitucionalidade da inclusão do ICMS na base de calculo do PIS e da COFINS no caso em análise.
+16. Os argumentos/fundamentos para exclusão do PIS e da COFINS das suas próprias bases de cálculo sequer foram apreciados pelo acórdão recorrido.
+17. Portanto, ao apenas transcrever acórdão que trata da não aplicação da decisão do STF para o caso presente, o acórdão em questão foi omisso a respeito dos argumentos, deixando de fundamentar sua decisão.
+18. Por isso infere-se a afronta ao artigo 1.022, II, do CPC, pois existente omissão não sanada pelo TRF da 4ª Região.
+19. Assim, como há efetiva omissão no acórdão faz-se imprescindível a anulação do acórdão, a fim de que o Tribunal a quo reaprecie a matéria" (fls. 234/235e).
+Por fim, requer "seja dado provimento ao mesmo, tendo em vista a clara afronta ao disposto no artigo 1.022, II do CPC determinando-se a anulação do acórdão recorrido" (fl. 235e).
+Contrarrazões a fls. 260/266e.
+O Recurso Especial foi admitido na origem (fls. 276/277e).
+A irresignação não merece prosperar.
+Na origem, "trata-se de mandado de segurança impetrado por CORREA MATERIAIS ELETRICOS LTDA., em face de ato do Delegado da Receita Federal do Brasil - UNIÃO - FAZENDA NACIONAL - Blumenau, buscando o reconhecimento do direito à exclusão da base de cálculo da contribuição para o PIS e da COFINS, dos valores referentes a essas próprias contribuições, bem como à compensação dos valores indevidamente recolhidos" (fl. 195e).
+Denegada a segurança, recorreu a impetrante, restando mantida a sentença, pelo Tribunal regional. Opostos Embargos Declaratórios, restaram rejeitados.
+Daí a interposição do presente Recurso Especial.
+Ao solucionar a controvérsia, o Tribunal de origem decidiu consoante os seguintes fundamentos:
+"Em que pese a conclusão jurídica obtida com relação ao ICMS na base de cálculo do PIS e COFINS (STF, RE nº 240.785, Tribunal Pleno, julgado em 08-10-2014), esta não se aplica ao caso, porquanto se trata aqui de situação diversa, descabendo aplicar-se a analogia em matéria tributária.
+Portanto, não é possível estender a orientação do Supremo Tribunal Federal referente à questão relativa à inclusão do ICMS na base de cálculo do PIS e da COFINS para excluir da base de cálculo da contribuição ao PIS e da COFINS os valores referentes às próprias contribuições sociais.
+Nesse sentido o entendimento desta Corte:
+EMENTA: TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. PIS E COFINS. INCIDÊNCIA SOBRE A PRÓPRIA BASE DE CÁLCULO. POSSIBILIDADE. 1. A base de cálculo do PIS e da COFINS é o valor total do faturamento ou da receita da pessoa jurídica, na qual incluem-se os tributos sobre ela incidentes, nos termos do art. 12, § 5º, do Decreto-Lei nº 1.598/77. 2. Descabida a simples aplicação do posicionamento firmado no julgamento do Recurso Extraordinário nº 574.706/PR, sob o regime de repercussão geral, uma vez que se trata de discussão envolvendo tributo diverso, qual seja a inclusão do ICMS na base de cálculo do PIS e da COFINS. Em processos subjetivos, o que se julga é a exigência tributária concreta, não uma tese abstrata. 3. É permitida a incidência de tributo sobre tributo nos casos diversos daquele estabelecido na exceção legal. Inteligência do Resp 1144469/PR, Ministro Napoleão Nunes Maia Filho, Rel. p/ acórdão ministro Mauro Campbell Marques, Primeira Seção, julgado em 10/08/2016. (TRF4, AG 5023871- 92.2018.4.04.0000, PRIMEIRA TURMA, Relator ROGER RAUPP RIOS, juntado aos autos em 12/09/2018)
+EMENTA: AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO AO PIS E COFINS. BASE DE CÁLCULO. EXCLUSÃO. LIMINAR. IMPOSSIBILIDADE. A conclusão do Supremo Tribunal Federal no tema nº 69 não pode ser aplicada por analogia a fim de afastar da base de cálculo da contribuição ao PIS e COFINS os valores referentes às próprias contribuição ao PIS e COFINS. (TRF4, AG 5025453-30.2018.4.04.0000, SEGUNDA TURMA, Relator RÔMULO PIZZOLATTI, juntado aos autos em 04/09/2018)
+Nesse contexto, impõe-se a confirmação da sentença" (fl. 196e).
+E, ainda, ao julgar os Aclaratórios, o Tribunal asseverou que "entendeu pela impossibilidade de estender ao caso em tela o entendimento aplicado ao STF, quanto à exclusão do ICMS da base de cálculo do PIS e da COFINS, de forma a conceituar quais verbas integram a receita e o faturamento de forma diversa daquela pretendida pela embargante" (fl. 220e).
+Da leitura dos excertos transcritos, verifica-se que o acórdão recorrido não incorreu em qualquer omissão, como ora alega a parte recorrente, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da lide, dando-lhes, contudo, solução jurídica diversa da pretendida pelo agravante.
+Assim, o acórdão de 2º Grau conta com motivação suficiente e não deixou de se manifestar sobre a matéria cujo conhecimento lhe competia, permitindo, por conseguinte, a exata compreensão e resolução da controvérsia, não havendo falar em descumprimento ao art. 1.022 do CPC/2015.
+Nesse contexto, "a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015" (STJ, REsp 1.669.441/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017).
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+A propósito, ainda:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. (..). RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+1. O acórdão recorrido apreciou fundamentadamente a controvérsia dos autos, decidindo, apenas, de forma contrária à pretensão do recorrente, não havendo, portanto, omissão ensejadora de oposição de embargos de declaração, pelo que, deve ser rejeitada a alegação de violação ao artigo 1.022 do CPC/2015.
+(..)
+6. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido" (STJ, REsp 1.672.822/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 30/06/2017).
+"PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REAJUSTE DE BENEFÍCIO PREVIDENCIÁRIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. ACÓRDÃO RECORRIDO QUE DECIDE COM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. EMBARGOS PROTELATÓRIOS. VIOLAÇÃO AO ART. 1.026, § 2º, DO CPC/2015. MULTA AFASTADA.
+1. Inicialmente, quanto à alegação de violação ao artigo 1.022 do CPC/2015, cumpre asseverar que o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em Embargos de Declaração apenas pelo fato de a Corte ter decidido de forma contrária à pretensão do recorrente.
+(..)
+4. Recurso Especial parcialmente provido" (STJ, REsp 1.669.867/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017).
+"RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015.
+(..)
+2. De acordo com a norma prevista no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+3. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+(..)
+5. Embargos de declaração rejeitados" (STJ, EDcl nos EDcl no AgRg no AgRg no REsp 1.087.921/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 12/08/2016).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. Argumenta-se que as questões levantadas no agravo denegado, capazes, em tese, de infirmar a conclusão adotada monocraticamente, não foram analisadas pelo acórdão embargado (art. 489 do CPC/2015). Entende-se, ainda, que o art. 1.021, § 3º, do CPC/2015 veda ao relator limitar-se à reprodução dos fundamentos da decisão agravada para julgar improcedente o agravo interno.
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4.Embargos de declaração rejeitados" (STJ, EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe de 03/08/2016).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. TRIBUTÁRIO. TAXA DE FISCALIZAÇÃO DE ANÚNCIOS.
+1. "Se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, 1ª Turma, Rel. Min. Cesar Asfor Rocha, DJ de 12.12.1994).
+(..)
+5. Recurso especial parcialmente conhecido e, nessa parte, desprovido" (STJ, REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008).
+Portanto, ao contrário do pretende fazer crer a parte recorrente, não há que se falar em negativa de prestação jurisdicional.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, já que, conforme orientação fixada pela Súmula 105/STJ, não é admitida a condenação ao pagamento de honorários advocatícios em Mandado de Segurança.
+I.
