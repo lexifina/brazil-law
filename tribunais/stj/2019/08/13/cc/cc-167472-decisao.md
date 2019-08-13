@@ -1,0 +1,16 @@
+DECISÃO
+1. Trata-se de conflito de competência, com pedido de liminar, com vistas à suspensão das execuções que tramitam no Juízo da 5ª Vara Cível de Porto velho/RO, em nome da suscitante e da empresa Total S.A. e a fixação da competência do Juízo da 2ª Vara Cível de Rio Verde/GO para decidir as questões urgentes.
+Informa o suscitante que o Juízo da 2ª Vara Cível de Rio Verde/GO deferiu a recuperação judicial das sociedades do grupo econômico do qual faz parte (Grupo Margen) em 15/1/2009, tendo sido a recuperação convolada em falência em 13/5/2014.
+Assere que a empresa Total S.A. foi criada no plano de recuperação através de cisão parcial, tendo sido deferida a indisponibilidade de seus bens pelo Juízo universal em ação de desconsideração da personalidade jurídica (processo n. 5562170.84.2018.8.09.0137).
+Não obstante, estão na iminência de ocorrer atos processuais constritivos por ordem do Juízo da 5ª Vara Cível em sede de cumprimento de sentença contra a emrpesa Total S.A., tendo em vista a petição protocolada pela exequente naquele processo (n. 0145770-23.2009.8.22.0001).
+Assim, requer a concessão de liminar para (fls. 7-8):
+a). A concessão de medida liminar, nos termos do art. 196 do RISTJ, a fim de que seja fixada provisoriamente e até final decisão do presente Conflito, a competência do Juízo da Falência, qual seja o juízo da 2ª Vara Cível da Comarca de Rio Verde- GO, e, ainda, liminarmente, determinar o sobrestamento/suspensão das execuções que tramitam perante a 5ª VARA CIVEL DA COMARCA DE PORTO VELHO-RO, em nome da Empresa suscitante e em nome da empresa TOTAL S/A, uma vez que o juiz de Falências declarou a indisponibilidade de bens desta em Incidente de desconsideração de Pessoa Jurídica, sob pena de violação dos princípios da indivisibilidade e da universalidade, além de desobediência ao comando prescrito no art. 47 da Lei nº 11.101/05;
+É o relatório.
+2. Com efeito, não se verifica, por ora, a existência de conflito de competência, tendo em vista a completa ausência de decisão do Juízo da 5ª Vara Cível que tenha o condão de contrapor-se ao Juízo universal.
+Em verdade, o incidente foi suscitado com base não em decisão do referido Juízo cível, mas em petição da exequente requerendo o cumprimento de sentença no processo supracitado (fls. 175-185), o que evidencia que a pretensão veiculada é a de prevenir a ocorrência de eventual conflito, extrapolando as hipóteses de cabimento previstas no art. 66 do CPC:
+Art. 66. Há conflito de competência quando:
+I - 2 (dois) ou mais juízes se declaram competentes;
+II - 2 (dois) ou mais juízes se consideram incompetentes, atribuindo um ao outro a competência;
+III - entre 2 (dois) ou mais juízes surge controvérsia acerca da reunião ou separação de processos.
+Assim, ainda que, segundo a jurisprudência desta Corte de Justiça, os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devam ser realizados apenas pelo juízo universal (art. 76 da Lei de Falência), é certo o descabimento do presente incidente ante a ausência de pressuposto imprescindível ao seu oferecimento, qual seja a decisão do Juízo cível invadindo a competência do Juízo falimentar.
+3. Ante o exposto, não conheço do conflito de competência. Prejudicada a análise do pedido de liminar.
