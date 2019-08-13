@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo apresentado por MV INFORMATICA NORDESTE LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL DIREITO TRIBUTÁRIO AÇÃO ANULATÓRIA CERCEAMENTO DE DEFESA NÃO CONFIGURADO CONTRIBUIÇÃO AO SISTEMA S DECRETO - LEI Nº 4048/42 CONTRIBUIÇÃO ADICIONAL CARÁTER INDUSTRIAL NO QUE DIZ RESPEITO À ATIVIDADE DESENVOLVIDA PELA EMPRESA BEM COMO PELO FATO DE QUE CONTA COM MAIS DE 500 EMPREGADOS APELAÇÃO DESPROVIDA UNÂNIME
+Alega violação dos arts. 7º e 370 do CPC, no que concerne ao cerceamento de defesa e determinação de provas pelo magistrado, trazendo o(s) seguinte(s) argumento(s):
+Ora, entendendo não haver provas suficientes, o magistrado deveria, inclusive de ofício determinar a produção de provas suficientes para a apuração dos fatos e correto julgamento da lide.
+Nesse sentido, além de não cumprir seu dever legal e determinar a realização de perícia, o douto magistrado a quo ainda indeferiu o pedido de perícia realizado pela Recorrida.
+ ..
+Ora, é evidente que a prova constante nos autos não é suficiente para comprovar o pleito da Recorrente, por isso mesmo restou caracterizado o cerceamento de defesa: a produção de prova foi negada, mas a ausência de prova fundamentou o indeferimento! (fls. 307/310).
+É o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Na hipótese sob análise, verifica-se que as partes foram intimadas a se manifestar acerca de eventual interesse em produzir outras provas, consoante decisão exarada à fl. 132, sendo que a autora, ora recorrente, expressamente informou inexistir interesse na produção de outras provas, referindo que a matéria em apreço é exclusivamente de direito (fl. 135).
+Além disso, diversamente do que alega a recorrente, quem solicitou fosse possibilitada a produção de prova pericial técnica contábil foi o SENAI, ou seja, a parte demandada, conforme se infere da petição da fl. 136. De fato, causa estranheza a tese vertida em suas razões recursais, notadamente diante da petição da fl. 143-145, no qual novamente se insurge contrariamente à pretensão de prova pericial,
+ ..
+Nessa perspectiva, não se cogita de cerceamento de defesa, porque a própria autora requereu o indeferimento da prova pericial, não podendo agora, em inequívoco venire contra factum proprium, sustentar a necessidade de realização de perícia técnica (fl. 262/263).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
