@@ -1,0 +1,99 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. CITAÇÃO POR EDITAL. VALIDADE. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O recorrente não impugnou a única tese adotada pelo Tribunal a quo ao apreciar a matéria, colacionando, em verdade, argumentos dissociados da ratio decidendi, o que atrai a incidência, por analogia, da Súmula 284 do STF.
+2. No que diz respeito à violação ao art. 257, I, do CPC/2015, tem-se, no ponto, inviável o debate, porquanto não se vislumbra o efetivo prequestionamento, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias.
+3. Rever as conclusões a que chegou o Tribunal a quo acerca da validade da citação por edital demanda revolvimento do arcabouço fático-probatório colacionado aos autos, o que é vedado pelo enunciado da Súmula 7 do STJ.
+4. Recurso especial não conhecido.
+DECISÃO
+1. Cuida-se de recurso especial fundado no art. 105, III, alínea "a", da Constituição Federal, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado de Rondônia, assim ementado:
+Apelação cível.Ação monitória. Citação por edital. Nulidade. Não ocorrência.Documento assinado pelo devedor. Requisitos da ação monitória preenchidos. Recurso desprovido.
+A citação por edital pressupõe o prévio esgotamento dos meios de localização do executado, não havendo que se falar em nulidade do ato quando frustradas as tentativas de citação por oficial de justiça, encontrando-se a parte ré em lugar incerto.
+A declaração da nulidade dos atos processuais depende da demonstração da existência de prejuízo à defesa da parte interessada.
+O contrato particular de confissão de dívida é prova escrita capaz de embasar ação monitória.
+(fl. 102)
+O recorrente, nas razões do recurso, sustenta, em síntese, que: a) "o Tribunal a quo ignorou a necessidade do esgotamento dos meios disponíveis para tentar localizar o réu antes de se iniciar o procedimento de citação por edital" (fl. 124); e b) "é necessário que a certidão do oficial de justiça ateste a necessidade da citação por edital, fato que não se observa na certidão juntada aos autos, onde apenas se certifica a ignorância do paradeiro da recorrente" (fl. 124)
+Certidão de transcurso in albis do prazo para o oferecimento de contrarrazões (fl. 129).
+O recurso recebeu crivo positivo de admissibilidade na origem (fl. 131-132).
+É o relatório.
+DECIDO.
+2. Inicialmente, impende consignar que a Corte de origem negou provimento ao recurso de apelação interposto pela ora recorrente, ao fundamento de que não haveria que se falar de violação ao art. 256 do Código de Processo Civil de 2015, pois o ato citatório apontado como ilegal foi praticado sob a égide do Código de Processo Civil anterior, estando de acordo com os requisitos nele previstos.
+Com efeito, divisam-se os seguintes fundamentos extraídos do acórdão recorrido:
+Alega nulidade de citação por não esgotamento de todos os meios possíveis de localização dos requeridos, descumprindo o art. 256, II, do CPC.
+Esclareço que o ato apontado como ilegal foi praticado em 2015, ou seja, no império do CPC/73, de modo que não há que se falar em violação ao art. 256 do CPC em vigor.
+A citação por edital se deu ante a certidão do oficial de justiça (fl. 23) de que o apelante encontra-se em lugar incerto e não sabido. De modo que não houve violação aos artigos 231 do CPC/73.
+A propósito:
+ ..
+Por fim, não há obrigação legal para a expedição de ofícios a órgãos públicos com vistas a localizar o devedor.
+(fls. 99-100)  g.n.
+Impende consignar que o recorrente não impugnou a tese adotada pelo Tribunal a quo ao apreciar a matéria, colacionando, em verdade, argumentos dissociados da ratio decidendi.
+Isso porque, consoante se depreende do acórdão proferido pela Corte de origem, ao contrário do sustentado pela recorrente, o ato citatório em testilha estava subordinado aos requisitos do CPC/1973, que, ademais, haveriam sido observados.
+A parte recorrente, não obstante, limita-se a apontar a violação de dispositivo do novo Código de Processo Civil, sem desenvolver argumentação suficiente a impugnar o acórdão objurgado quanto à incidência do CPC/1973.
+O caso sub examine trata, pois, de deficiência na fundamentação, atraindo, no ponto, por analogia, o óbice da Súmula nº 284/STF, que assim dispõe, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia ".
+A propósito, citam-se precedentes das Turmas Julgadoras do STJ, na parte que interessa:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. NEXO CAUSAL NÃO COMPROVADO. ARGUMENTOS INSUFICIENTES PARA DEMONSTRAR O DESACERTO DO JULGADO E FUNDAMENTO DO JULGADO NÃO INFIRMADO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- A recorrente não trouxe, nas razões de Recurso Especial, argumentos suficientes para demonstrar o desacerto das conclusões alcançadas pelo Acórdão recorrido e a ofensa ao dispositivo legal elencado, deixando, inclusive, de infirmar de forma fundamentada o referido fundamento do Acórdão. Em âmbito de especial, não basta à parte alegar a ocorrência das hipóteses do permissivo constitucional, sendo indispensável seja deduzida a necessária fundamentação, com a finalidade de demonstrar o cabimento do recurso e o desacerto do Acórdão impugnado. Incidente, por analogia, os enunciados 283 e 284 da Súmula do excelso Supremo Tribunal Federal.
+2.- O Agravo não trouxe nenhum argumento novo capaz de modificar o decidido, que se mantém por seus próprios fundamentos.
+3.- Agravo Regimental improvido.
+(AgRg no AREsp 519.240/PE, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 05/08/2014, DJe 26/08/2014)
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. CONTRATO DE DISTRIBUIÇÃO DE BEBIDAS. RESCISÃO UNILATERAL INDIRETA. AUSÊNCIA DE JUSTA CAUSA. RESPONSABILIDADE INDENIZATÓRIA POR PERDAS E DANOS. OFENSA AO ART. 535 DO CPC. NÃO CARACTERIZAÇÃO. FUNDAMENTOS DO ACÓRDÃO INATACADOS. ALTERAÇÃO DE PREMISSAS FÁTICAS. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não se constata a alegada violação ao art. 535 do Código de Processo Civil, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela parte recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+2. A ausência de impugnação dos fundamentos do aresto recorrido enseja o não conhecimento do recurso, incidindo, por analogia, as Súmulas 283 e 284 do Supremo Tribunal Federal.
+3. A alteração das premissas fáticas utilizadas pelo acórdão recorrido, que concluiu pela inexistência de provas quanto à responsabilidade da recorrida pelo fechamento de filial da recorrente, implica revolvimento dos fatos e circunstâncias da causa, o que encontra óbice na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no Ag 1346495/PE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/06/2016, DJe 03/08/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. DOBRA ACIONÁRIA. FUNDAMENTO INATACADO. SÚMULAS 283 E 284 DO STF. VALOR PATRIMONIAL DA AÇÃO. CRITÉRIO DEFINIDO NO TÍTULO EXECUTIVO. SENTENÇA TRANSITADA EM JULGADO. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA 83/STJ. COTAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Com relação à impossibilidade de alterar o critério de apuração em decorrência do trânsito em julgado, observa-se do acórdão recorrido fundamentos que não foram objeto de impugnação específica nas razões do recurso especial, incidindo, à hipótese, o óbice das Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+2. É pacífico o entendimento desta Corte no sentido de que havendo, no título judicial exequendo, definição do critério para apuração do VPA, ainda que contrário ao disposto na Súmula n. 371 do STJ, ou para conversão das ações a serem indenizadas, não é possível alterá-lo na fase executiva, em respeito à eficácia da coisa julgada. Aplicação da Súmula n. 83/STJ.
+3. O recurso especial é inviável, por aplicação do enunciado n. 7 da Súmula do STJ, quando as alegações em que se funda a pretensão recursal colidem com os pressupostos fáticos assentados no acórdão recorrido. Precedente.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 879.444/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/06/2016, DJe 21/06/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES RECURSAIS SEM CORRELAÇÃO COM A FUNDAMENTAÇÃO DO ACÓRDÃO A QUO. SÚMULAS 283 E 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+1. Por força das Súmulas 283 e 284 do STF, não se conhece de recurso especial quando as razões recursais revelam argumentos que não têm correlação com o fundamento em que se apoia o acórdão recorrido.
+2. Hipótese em que não se pode admitir o especial, pois, embora o Tribunal de origem tenha decidido não ser adequado o redirecionamento de execução fiscal a sócios-administradores, após regular processo de falência da sociedade empresária executada, em razão da não comprovação de ato ou fato eivado de excesso de poder ou de infração à lei, contrato social ou estatutos, o recorrente considera violado o art. 135, III, do CTN somente em razão da inadimplência do tributo.
+3. Divergência jurisprudencial não demonstrada, por ausência de similitude fático-jurídica entre os acórdãos confrontados, cujo cotejo, de outro lado, não foi realizado.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 34.783/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 02/06/2016, DJe 20/06/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, DANOS MATERIAIS E LUCROS CESSANTES. DENUNCIAÇÃO DA LIDE AFASTADA. FUNDAMENTO NÃO ATACADO NO RECURSO ESPECIAL. PRETENSÃO DE REEXAME DOS ELEMENTOS FÁTICOS JÁ APRECIADOS NA DECISÃO COBERTA PELO MANTO DA COISA JULGADA. APLICAÇÃO DAS SÚMULAS 284 DO STF E 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Inaplicabilidade do NCPC a este julgamento ante os termos do Enunciado nº 1 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. É de rigor a aplicação das Súmulas 283 e 284 do STF se a linha argumentativa deduzida no recurso especial é deficiente e deixa de impugnar devidamente o fundamento no qual se apoiou o acórdão impugnado para decidir.
+3. Apelo nobre que, ao mesmo tempo em que apresenta fundamentação dissociada e deficiente, busca desconstituir os elementos fáticos nos quais a decisão já coberta pela coisa julgada se apoiou para afastar a denunciação à lide da empresa ENGINEERING S.A. SERVIÇOS TÉCNICOS.
+4. Agravo regimental improvido.
+(AgInt no AREsp 847.519/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/05/2016, DJe 06/06/2016)
+Nessa esteira, observa-se, portanto, que, no ponto em mote, o recurso se encontra deficientemente fundamentado, uma vez que a recorrente não infirmou o único fundamento expendido pela Corte de origem no acórdão recorrido, aplicando-se, pois, por analogia, conforme salientado alhures, o óbice da Súmula 284/STF.
+3. Ademais, aponta a parte recorrente violação ao art. 257, I, do CPC/2015, sob o fundamento de que "é necessário que a certidão do oficial de justiça ateste a necessidade da citação por edital, fato que não se observa na certidão juntada aos autos, onde apenas se certifica a ignorância do paradeiro da recorrente" (fl. 124).
+No que diz respeito à violação ao referido dispositivo legal, tem-se, no ponto, inviável o debate. Isso porque não se vislumbra o efetivo prequestionamento, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias.
+De fato, não se extrai do acórdão recorrido pronunciamento a respeito da controvérsia apoiada na normatividade do dispositivo mencionado e supostamente violado, nem houve a oposição, pelo recorrente, dos necessários embargos de declaração, buscando o prequestionamento deste ponto, o que impede o conhecimento do apelo especial.
+Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+Assim, quanto ao ponto em mote, ausente um dos requisitos de admissibilidade do apelo especial, qual seja o prequestionamento (Enunciados Sumulares n. 282 e n. 356 do C. STF).
+Por oportuno, leiam-se estes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. SUSPENSÃO DO JULGAMENTO DO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. 2. ILEGITIMIDADE DA CVM E INÉPCIA DA INICIAL. QUADRO FÁTICO DELINEADO PELO ACÓRDÃO RECORRIDO. MODIFICAÇÃO. INVIABILIDADE. SÚMULA 7/STJ. 3. AGRAVO DESPROVIDO.
+1. A ausência de prequestionamento se evidencia quando o conteúdo normativo contido nos dispositivos supostamente violados não foi objeto de debate pelo tribunal de origem. Hipótese em que incidem os rigores das Súmulas n. 282 e 356/STF.
+2. As instâncias ordinárias consignaram a ausência de algum indício de que a autarquia federal teria alguma responsabilidade no dano, inexistindo atuação da CVM capaz de ensejar o dever de reparar.
+Infirmar as conclusões do acórdão recorrido demandaria o reexame de provas, o que atrai a incidência da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1400466/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017)  g.n.
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/73. AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 e 356/STF. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULA 5/STJ. REEXAME DE MATÉRIA PROBATÓRIA. SÚMULA 7/STJ. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação do art. 535 do Código de Processo Civil/73 pois o Tribunal de origem dirimiu as questões pertinentes ao litígio - tal como lhe foram postas e submetidas -, apresentando todos os fundamentos jurídicos pertinentes, à formação do juízo cognitivo proferido na espécie. 2. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. Incidência das Súmulas 282/STF e 356/STF.
+3. O Tribunal de origem consigna que foi fornecido aos recorrentes todas as informações necessárias para a celebração e execução do contrato, informando-lhes de todas as circunstâncias relevantes para o negócio efetivado, além de ter-lhes sido indenizado os prejuízos ocorridos até o montante de três milhões de reais, tal qual previsto em cláusula contratual. De tal modo, aponta que não se verifica violação do princípio da boa-fé objetiva e reconhece a isenção de responsabilidade da recorrida pelos prejuízos supervenientes. A reforma do aresto, nestes aspectos, demanda inegável necessidade de interpretação de cláusula contratual e reexame de matéria probatória, providências inviáveis de serem adotadas em sede de recurso especial, ante o óbice das Súmulas 5 e 7 desta Corte.
+4. Agravo interno não provido.
+(AgInt no AREsp 992.489/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/05/2017, DJe 23/05/2017)  g.n.
+Dessa forma, caberia ao recorrente, entendendo ter havido omissão por parte do órgão julgador, opor embargos de declaração, apontando o referido dispositivo legal violado, providência, todavia, da qual não se desincumbiu, o que impede o conhecimento do apelo especial, máxime porque o acórdão vergastado teorizou acerca da matéria sub examine, sem emitir posicionamento específico quanto às ofensas assestadas.
+4. Ademais, ainda que fosse possível superar os referidos óbices, importa consignar que esta Corte Superior perfilha o entendimento de que rever as conclusões a que chegou o Tribunal a quo acerca da validade da citação por edital demanda revolvimento do arcabouço fático-probatório colacionado aos autos, o que é vedado pelo enunciado da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. CITAÇÃO POR EDITAL. VALIDADE. REEXAME DE PROVA. INVIABILIDADE. INCIDÊNCIA DA SÚMULA N.º 7/STJ. DECLARAÇÃO DE NULIDADE. NECESSIDADE DE DEMONSTRAÇÃO DO PREJUÍZO. NÃO OCORRÊNCIA. ARREMATAÇÃO. PREÇO VIL. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULAS N.º 7.
+1. Inexistência de maltrato ao art. 535 do CPC quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide.
+2. Rever as conclusões do acórdão recorrido acerca da validade da citação por edital e da existência de prejuízo à defesa demandaria o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula n.º 7 do Superior Tribunal de Justiça.
+3. A declaração da nulidade dos atos processuais depende da demonstração da existência de prejuízo à parte interessada (pas de nullité sans grief).
+4. "Inexiste preço vil quando a alienação atinge 60% do valor atualizado da avaliação". (AgRg no AgRg no AREsp 609.253/SP, Rel.
+Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/05/2015, DJe 21/05/2015) 5. Inviabilidade de se verificar se a arrematação do bem na execução se deu por preço vil por demandar revisão do conjunto fático-probatório dos autos. Incidência da Súmula n. 7/STJ.
+6. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp 1525471/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 01/10/2015, DJe 07/10/2015)  g.n.
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. CITAÇÃO POR EDITAL. VALIDADE. PREJUÍZO PARA A DEFESA. CONSTATAÇÃO. EXIGÊNCIA DE REEXAME DE PROVA. INVIABILIDADE.
+ ..
+2. O acórdão recorrido foi prolatado em perfeita sintonia com a orientação desta Corte Superior, firmada no sentido de que "o princípio processual da instrumentalidade das formas, outrossim, sintetizado pelo brocardo pas de nullité sans grief, determina que não sejam declarados nulos os atos inquinados de invalidade quando deles não tenha decorrido nenhum prejuízo concreto" (AgRg no AREsp 247.090/SP, Rel. Ministro Sidnei Beneti, Terceira Turma, DJe 25/3/2013).
+3. Rever as conclusões do acórdão recorrido acerca da validade da citação por edital e da existência de prejuízo à defesa demandaria o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+4. A necessidade do reexame da matéria fática, assim como a consonância do acórdão recorrido com a jurisprudência desta Corte Superior, são óbices que impedem a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+5. Agravo regimental não provido.
+(AgRg no AREsp 522.193/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/06/2015, DJe 15/06/2015)  g.n.
+4. Ante o exposto, com fulcro nos fundamentos acima aduzidos, não conheço do recurso especial.
+Publique-se. Intimem-se.
