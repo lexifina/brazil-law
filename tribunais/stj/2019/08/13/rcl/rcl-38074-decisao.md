@@ -1,0 +1,17 @@
+DECISÃO
+DANIELE DE MACEDO GUILHERME ajuíza reclamação contra a decisão proferida pelo Juízo da 1ª Vara da Comarca de Garça - SP, que, em sua ótica, haveria descumprido a determinação desta Corte, por ocasião do julgamento do HC n. 495.779/SP.
+Alega a reclamante que este Superior Tribunal, no referido habeas corpus, concedeu em parte a ordem, a fim de determinar que o Juízo de primeira instância providenciasse a audiência de suspensão do processo, somente após exarar decisão sobre o recebimento ou não da denúncia.
+Entretanto, afirma: " n ão consta na decisão  .. , o recebimento da denúncia em desfavor da Reclamante, desrespeitando assim, a decisão proferida nos autos do Habeas Corpus acima citado e, consequentemente, desrespeitando a decisão proferida por esse Colendo Superior Tribunal de Justiça" (fl. 4).
+Requer seja julgada procedente a reclamação, com a cassação da decisão que designou a audiência para o oferecimento da proposta de suspensão condicional do processo.
+Indeferida a liminar (fls. 14-16), prestadas as informações (fls. 20-33) e contestado o feito (fls. 40-42), foram os autos ao Ministério Público Federal, que se manifestou pela improcedência da reclamação (fls. 44-45).
+Decido
+O acórdão proferido no HC n. 495.779/SP, como ressaltou a insurgente, concedeu em parte a ordem, somente para determinar que o Juízo de primeira instância providenciasse a audiência de suspensão do processo, apenas após exarar a decisão sobre o recebimento ou não da denúncia.
+Compulsando os autos, observo que o Juízo reclamado - Juízo da 1ª Vara da Comarca de Garça -, ao dar cumprimento ao que ficou decidido por esta Corte, assinalou (fl. 6, destaquei):
+A denuncia oferecida pelo Ministério Público em relação a autora dos fatos D.M.G, obedece aos requisitos estabelecidos pelo artigo 41 do Código de Processo Penal.
+Assim, não sendo o caso de rejeição (artigo 395 do CPP) e diante do julgamento do HC 495779/SP (fls. 212/218), designo audiência para o dia 7 de agosto de 2019, às 14:30 horas, a fim de ser formalizada a proposta de suspensão processual, devendo ser advertida de que o não comparecimento implicará em prosseguimento do feito. Se o quiser, poderá comparecer a audiência acompanhado de advogado, sendo que na falta, ser-lhe-á nomeado advogado dativo para o ato.
+Como se percebe do conteúdo da referida decisão, não houve descumprimento ou inobservância da autoridade do acórdão proferido pelo Superior Tribunal, sobretudo porque ficou consignado, de modo explícito, que a denúncia preencheria os requisitos do art. 41 do CPP, e que não seria o caso de rejeição.
+Embora o decisum não haja dito, de forma explícita, que receberia a denúncia, é possível inferir que isso ocorreu de modo implícito, haja vista a expressa menção ao habeas corpus examinado e o afastamento das hipóteses de rejeição da peça inicial.
+Segundo a sólida orientação jurisprudencial desta Corte, "admite-se, inclusive, o recebimento tácito ou implícito da denúncia, justamente diante da ausência de formalidade que o ordenamento jurídico empresta ao ato judicial em questão" (AgRg no REsp n. 1.450.363/MG, Rel. Ministro Joel Ilan Paciornik, DJe 30/6/2017).
+Nesse sentido, ainda, os seguintes arestos: HC n. 350.911/SC, Rel. Ministra Maria Thereza de Assis Moura, DJe 29/4/2016; REsp n. 1.398.551/AL, Rel. Ministro Reynaldo Soares da Fonseca, DJe 19/10/2015; entre outros.
+À vista do exposto, com fundamento no art. 34, XVIII, "b" do RISTJ, julgo improcedente a reclamação.
+Publique-se e intimem-se.
