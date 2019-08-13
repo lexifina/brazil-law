@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DO DEVEDOR. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO DO JUIZ. SÚMULA 07/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por TEX BARREDS MODA LTDA e OUTRO em face da decisão que negou seguimento a recurso especial, fundamentado no art. 105, III, da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 250) :
+EMBARGOS DO DEVEDOR - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - CÉDULA DE CRÉDITO BANCÁRIO - CAPITAL DE GIRO - CAPITALIZAÇÃO MENSAL - MATÉRIA ANALISADA PELO STJ EM PROCEDIMENTO DE RECURSO REPETITIVO - POSSIBILIDADE DE CAPITALIZAÇÃO MENSAL DE JUROS, DESDE QUE EXPRESSAMENTE PACTUADA, NOS CONTRATOS DE MÚTUO BANCÁRIO CELEBRADOS APÓS A EDIÇÃO DA MP 1.963-17/00 (REEDITADA SOB O Nº 2.170-36/01) - COMISSÃO DE PERMANÊNCIA - ADMISSIBILIDADE DE SUA EXIGÊNCIA, DESDE QUE NÃO CUMULADA COM OUTROS ENCARGOS - SÚMULA Nº 472, DO STJ - NÃO INCIDÊNCIA, TODAVIA, DO ALUDIDO ENCARGO NA HIPÓTESE DO CASO CONCRETO - INEXISTÊNCIA DOS ABUSOS APONTADOS DE FORMA GENÉRICA - SENTENÇA REFORMADA - EMBARGOS JULGADOS IMPROCEDENTES - RECURSO PROVIDO.
+Opostos embargos de declaração, restaram rejeitados nos termos da seguinte ementa (e-STJ, fl. 282):
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - NÃO ACOLHIMENTO - INOCORRENCIA DE QUALQUER DAS HIPÓTESES PREVISTAS EM LEI (ART 1.022, CPC) A JUSTIFICAR A INTERPOSIÇÃO DO RECURSO - CARÁTER INFRINGENTE NÃO ADMITIDO - EMBARGOS REJEITADOS.
+Nas razões do recurso especial, a recorrente alega violação dos arts. 370 e 371 do Código de Processo Civil. Sustenta o cerceamento de defesa pois, "no caso dos autos, plenamente configurado o cerceamento de defesa posto que, tendo a parte alegado a cobrança de valores não justificada, imprescindível a realização de prova pericial, com a determinação ao banco Recorrido de juntada de todos os documentos essenciais a tal prova designando-se, eventualmente perito de confiança do juízo para análise." (e-STJ, fl. 269).
+Contrarrazões apresentadas. (e-STJ, fls. 287/291)
+É o relatório. Passo a decidir.
+Primeiramente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que diz respeito à alegação de necessidade de produção de provas, o Tribunal de origem assim se manifestou (e-STJ, fl. 151):
+Ausente a omissão apontada, qual seja, cerceamento de defesa, tanto é assim que está o Acórdão fundamentado em orientação do Superior Tribunal de Justiça firmada em procedimento de recurso repetitivo, tendo ressaltado ao final que competia ao embargante demonstrar eventual irregularidade nos cálculos apresentados o que não ocorreu, descumprindo inclusive o disposto no §§ 3º e 4º do artigo 917, CPC.
+Logo, desnecessária realização da prova pericial na forma pretendida pelo embargante.
+Nítida a pretensão de reexame das questões já analisadas por este Tribunal e que lhes foram desfavoráveis.
+Assim, elidir as conclusões do acórdão recorrido para concluir de forma diversa pela necessidade de produção de prova pericial, como requer a recorrente nas razões do recurso especial, demandaria o o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Ademais, o Superior Tribunal de Justiça firmou entendimento no sentido de que submete-se ao princípio do livre convencimento do juiz. Os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas, dentro dos limites da legislação processual regente, que entender necessárias à solução da controvérsia, bem como o indeferimento daquelas que considerar prescindíveis ou meramente protelatórias.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. CERCEAMENTO DE DEFESA. SUFICIÊNCIA [NOME] PELAS INSTÂNCIAS ORDINÁRIAS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS RECURSAIS. AGRAVO INTERNO. NÃO CABIMENTO. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. INAPLICABILIDADE. AGRAVO IMPROVIDO.
+1. Segundo o princípio da livre persuasão racional, a dilação probatória destina-se ao convencimento do julgador. Assim, pode o juiz rejeitar a produção de determinadas provas por entendê-las irrelevantes para a formação de sua convicção ou meramente protelatórias ao andamento do processo, em desrespeito ao princípio da celeridade processual. Com isso, pode o magistrado julgar antecipadamente a lide quando concluir que a questão controvertida é unicamente de direito ou que as provas já apresentadas com a exordial e com a peça de defesa são suficientes para o deslinde da controvérsia.
+2. Aferir eventual necessidade de produção de determinada prova demanda o revolvimento do conjunto fático-probatório dos autos, o que é vedado em recurso especial, tendo em vista o óbice do enunciado 7 da Súmula do STJ.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp 1205281/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/03/2018, DJe 26/03/2018; grifou-se)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS EXECUTADOS/EMBARGANTES.
+1. Admissível o agravo, apesar de não infirmar a totalidade da decisão embargada, pois a jurisprudência do STJ é assente no sentido de que a impugnação de capítulos autônomos da decisão recorrida apenas induz à preclusão das matérias não impugnadas.
+2. Consoante o princípio do livre convencimento motivado do juiz, este é o destinatário final das provas, de modo que cabe a ele decidir quanto à necessidade ou não dessas, não configurando cerceamento de defesa a decisão pelo julgamento antecipado do feito ou o indeferimento do pedido de produção probatória, especialmente quanto o magistrado entender que os elementos contidos nos autos são suficientes para formar seu convencimento. Precedentes. Incidência das Súmulas 7/STJ e 83/STJ.
+3. A reforma do acórdão estadual, no sentido pretendido pela parte recorrente, exigiria ilidir a convicção formada nas instâncias ordinárias sobre as cláusulas da avença firmada entre as partes e sobre a existência de determinação, por parte do BNDES, para que a casa bancária não realizasse o repasse das verbas. Incidência das Súmulas 5/STJ e 7/STJ.
+4. A revisão dos valores arbitrados a título de honorários advocatícios, bem como da distribuição dos ônus sucumbenciais envolve ampla análise de questões de fato e de prova, consoante as peculiaridades de cada caso concreto, providência incabível em sede de recurso especial, nos termos da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 374.153/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/04/2018, DJe 25/04/2018, grifou-se)
+Destarte, inviável a pretensão do recorrente.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por conseguinte, considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, majoro os honorários de sucumbência para 14% do valor da condenação.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+ Intimem-se.
