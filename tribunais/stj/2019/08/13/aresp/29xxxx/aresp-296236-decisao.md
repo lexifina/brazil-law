@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+PREVIDÊNCIA PRIVADA. Pleito voltado ao recebimento de renda mensal vitalícia ou resgate da reserva de poupança, mais indenização por danos morais. 1) Prescrição quinquenal do pedido de resgate da reserva de poupança. Ocorrência. 2) Pedido de recebimento de renda mensal vitalícia e de indenização por danos morais que se, sujeitam à prescrição vi ntenária. Retomada da instrução processual quanto a estes dois pedidos.
+Necessidade. R. sentença reformada em parte, Recurso parcialmente provido.
+Nas razões de recurso especial, alega a parte agravante violação dos artigos 535, II, do Código de Processo Civil de 1973 e 178, § 10, inciso II, do Código Civil de 1916. Aduz a existência de negativa de prestação jurisdicional, consubstanciada em omissão praticada pela decisão colegiada. Sustenta ser quinquenal a prescrição para as prestações de rendas temporárias ou vitalícias, de modo que até mesmo o fundo de direito encontra-se coberto pela prescrição.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+O acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do art. 535 do CPC.
+Quanto ao tema da prescrição, o acórdão recorrido está em consonância com a orientação firmada na jurisprudência desta Corte, para a qual a prescrição não atinge o fundo de direito. Confiram-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA.
+SUPLEMENTAÇÃO DE APOSENTADORIA. PRESCRIÇÃO. NÃO OCORRÊNCIA. SÚMULA 83/STJ. REEXAME DE FATOS E PROVAS. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ.
+1. "Nos casos de obrigação de trato sucessivo, é predominante na jurisprudência desta Corte Superior que a prescrição atinge apenas as parcelas vencidas no quinquênio que precede o ajuizamento da ação, não atingindo o próprio fundo de direito, nos termos das Súmulas 291 e 427, ambas do STJ. Incidência da Súmula 83/STJ" (AgInt no AREsp 1.234.653/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/6/2018, DJe 15/6/2018.) 2. Não cabe, em recurso especial, reinterpretar cláusulas contratuais ou reexaminar matéria fático-probatória (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1352208/BA, desta Relatoria, QUARTA TURMA, julgado em 21/05/2019, DJe 28/05/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE PREVIDÊNCIA COMPLEMENTAR. COMPLEMENTAÇÃO DE APOSENTADORIA. ALEGAÇÃO DE DECADÊNCIA. INOVAÇÃO RECURSAL. PRESCRIÇÃO QUINQUENAL NÃO ALCANÇA O FUNDO DO DIREITO. ABRANGE SOMENTE AS PARCELAS ANTECEDENTES AOS CINCO ANOS ANTERIORES AO AJUIZAMENTO DA DEMANDA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+2. Nos casos de obrigação de trato sucessivo, é predominante na jurisprudência desta Corte Superior que a prescrição atinge apenas as parcelas vencidas no quinquênio que precede o ajuizamento da ação, não atingindo o próprio fundo de direito, nos termos das Súmulas 291 e 427, ambas do STJ. Incidência da Súmula 83/STJ.
+3. Agravo interno improvido. (AgInt no AREsp 1.234.653/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 5/6/2018, DJe 15/6/2018.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - PREVIDÊNCIA PRIVADA - REVISIONAL DE BENEFÍCIO - DECISÃO SINGULAR QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL, AFASTANDO A PRESCRIÇÃO APLICADA. INSURGÊNCIA DA RÉ.
+1. "Os precedentes mais recentes desta Corte Superior perfilham o entendimento de que "tratando-se de pedido de revisão do benefício de complementação de aposentadoria, mediante a correção dos salários de contribuição utilizados para o cálculo do salário real de benefício, a prescrição não atinge o fundo de direito, mas apenas as prestações vencidas há mais de cinco anos do ajuizamento da ação" (REsp 1.073.263/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23.06.2015, DJe 17.12.2015). (AgInt no REsp 1392754/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/02/2018, DJe 15/02/2018).
+2. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp 238.430/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/4/2018, DJe 18/5/2018.)
+Desse modo, prescreve apenas a pretensão ao recebimento das parcelas vencidas antes do quinquênio anterior ao ajuizamento da ação. Aplica-se ao caso a Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
