@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 566):
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. LIQUIDAÇÃO DO JULGADO. CUMPRIMENTO DO TÍTULO EXECUTIVO JUDICIAL. ANÁLISE DOS ARTS. 435 E 460 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A embargante sustenta que o acórdão contém os seguintes vícios: (a) erro de fato, diante da aplicação da Súmula 211/STJ, pois incidem ao caso as regras do Novo CPC, o qual admite o prequestionamento ficto, nos termos do art. 1.025; (b) omissão, porque os acórdãos proferidos em sede de embargos de declaração foram publicados sob a vigência do CPC/2015, o que afasta o enunciado administrativo n. 2/STJ.
+Sem impugnação.
+É o relatório.
+Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de obscuridade, contradição ou omissão, nos ditames do artigo 1.022 do CPC/2015, bem como para sanar a ocorrência de erro material.
+Sob esse enfoque, não se evidencia a ocorrência de nenhum dos vícios previstos no dispositivo em questão, sobretudo porque a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Em homenagem ao princípio tempus regit actum, o STJ consolidou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência da exata compreensão dos fundamentos do provimento jurisdicional que pretende combater.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE CÓPIA DO PAGAMENTO DAS CUSTAS E DO PORTE DE REMESSA E RETORNO. RECURSO INTERPOSTO ANTES DA VIGÊNCIA DA LEI 12.322/10. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O presente Agravo de Instrumento foi interposto em 25.11.2010, portanto, sob a vigência da Lei 10.352/2001, deixando de ser conhecido por ausência de peça essencial. Ou seja, quando publicada a decisão que negou seguimento ao Recurso Especial não vigorava ainda a Lei 12.322/2010, não havendo de se cogitar da sua aplicação à espécie, posto que sua vigência deu-se a partir de 09.12.2010.
+2. A teor da jurisprudência do Superior Tribunal de Justiça, a lei que rege a interposição do recurso é a vigente à época da publicação da decisão que se quer combater e, quando da publicação da decisão agravada, em 12.11.2010, a Lei 12.322/2010 ainda não estava em vigor, uma vez que foi publicada em 10.09.2010, com vacatio legis de 90 dias (AgRg no AResp 677/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 15.04.2011). Confira-se, ainda: AgRg no Ag 1.377.327/SP, Rel. Min. ARI PARGENDLER, DJe 10.12.2012.
+3. Agravo Regimental desprovido. (AgRg nos EDcl no Ag 1383221/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/03/2013, DJe 19/08/2013.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. APLICAÇÃO DAS REGRAS DO NOVO CPC. TEMPUS REGIT ACTUM. ACÓRDÃO PUBLICADO SOB O ANTIGO CPC. FUNDAMENTOS DO ACÓRDÃO EM LEIS ESTADUAIS. SÚMULA 280/STJ.
+1. Consoante a jurisprudência do STJ, a aplicação das regras do Novo Código Civil é feita de acordo com o princípio tempus regit actum, ou seja, deve ser observada a legislação vigente ao tempo da prática do ato processual.
+2. O julgamento do recurso de Apelação foi realizado sob a vigência do CPC de 1973, não permitindo análise de violação ao art. 942 do CPC de 2015.
+3. Consoante a jurisprudência do STJ, o Recurso Especial não constitui via adequada para a análise de ofensa, de forma isolada, a leis locais, resoluções, portarias ou instruções normativas, por não estarem tais espécies normativas inseridas no conceito de lei federal, nos termos do art. 105, III, alínea "a", da Constituição Federal. Nesse sentido: AgRg no REsp 1.440.961/PR, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 2/6/2014; REsp 1.614.624/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 6/10/2016.
+4. Recurso Especial não conhecido. (REsp 1784228/SP, Rel Ministro Herman Benjamin, Segunda Turma, DJe 1/7/2019.)
+Destarte, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Na espécie, o recurso especial impugna acórdão publicado na vigência do CPC/1973 (fl. 393), sendo exigidos, pois, os requisitos de admissibilidade na forma prevista naquele código de ritos, com as interpretações dadas, até então, pela jurisprudência desta Corte.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
