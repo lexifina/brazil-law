@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Vectra Revestimentos Cerâmicos Ltda. - Massa Falida, desafiando decisão em que foi homologado pedido de desistência apresentado pela Fazenda Nacional.
+A embargante, em suas razões, sustenta que teria havido erro material, pois "o único agravo interno existente nos autos, ao qual faz referência a decisão embargada (e-STJ 2521), foi interposto pela contraparte (VECTRA REVESTIMENTOS CERÂMICOS LTDA), e não pela UNIÃO (FAZENDA NACIONAL) como consta" (fl. 2.524).
+Aberto prazo para impugnação, essa não foi apresentada (fl. 2.546).
+É O RELATÓRIO.
+De acordo com o estatuído no art. 535 do CPC/73, são cabíveis embargos de declaração nas situações de obscuridade, contradição, omissão do acórdão atacado ou, ainda, erro material.
+No caso dos autos, verifica-se a existência de erro material, pois o pedido de desistência, efetivamente, foi formulado pela Fazenda Nacional e o agravo interno de fls. 2.503/2.510, indicado na decisão embargada, foi manejado pela ora embargante.
+Assim, onde se lê: "Homologo, para que produza seus efeitos jurídicos e legais, o pedido de desistência do agravo interno no recurso especial formulado às fls. 2.514/2.519, nos termos dos arts. 998 do Novo CPC/2015 e 34, IX, do RISTJ" (fl. 2.521) , leia-se: homologo, para que produza seus efeitos jurídicos e legais, o pedido de desistência formulado pela Fazenda Nacional às fls. 2.514/2.519, nos termos dos arts. 998 do Novo CPC/2015 e 34, IX, do RISTJ.
+ANTE O EXPOSTO, acolho os embargos declaratórios, sem efeitos infringentes, tão somente para corrigir o erro material apontado, para que, onde se lê: "Homologo, para que produza seus efeitos jurídicos e legais, o pedido de desistência do agravo interno no recurso especial formulado às fls. 2.514/2.519, nos termos dos arts. 998 do Novo CPC/2015 e 34, IX, do RISTJ" (fl. 2.521), leia-se: homologo, para que produza seus efeitos jurídicos e legais, o pedido de desistência formulado pela Fazenda Nacional às fls. 2.514/2.519, nos termos dos arts. 998 do Novo CPC/2015 e 34, IX, do RISTJ.
+Publique-se.
