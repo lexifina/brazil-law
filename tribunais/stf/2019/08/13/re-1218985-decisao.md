@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. INCIDÊNCIA DE JUROS DE MORA ENTRE A DATA DA ELABORAÇÃO DA CONTA E A DATA DA EXPEDIÇÃO DO PRECATÓRIO. POSSIBILIDADE. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Primeira Câmara Cível do Tribunal de Justiça do Rio de Janeiro:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA ESTADUAL. DECISÃO AGRAVADA QUE AFASTOU O CÔMPUTO DE JUROS DE MORA NO PERÍODO COMPREENDIDO ENTRE A DATA DO CÁLCULO E A DATA DA EXPEDIÇÃO DO OFÍCIO REQUISITÓRIO E DETERMINOU A REMESSA DOS AUTOS AO CONTADOR JUDICIAL. RECURSO MANEJADO PELA PARTE EXEQUENTE OBJETIVANDO O CÔMPUTO DE JUROS COMPENSATÓRIOS E MORATÓRIOS POR TODO O PERÍODO, ATÉ A DATA DO EFETIVO PAGAMENTO. OS JUROS COMPENSATÓRIOS SOMENTE PODEM SER COMPUTADOS ATÉ A DATA DA EXPEDIÇÃO DO PRECATÓRIO ORIGINAL, NÃO DEVENDO INCIDIR, DE MODO CONTINUADO, SOBRE OS CÁLCULOS RELATIVOS A PRECATÓRIO COMPLEMENTAR. PRECEDENTES DO STJ E DO TJERJ. INCIDEM JUROS MORATÓRIOS EM RAZÃO DO ATRASO NO PAGAMENTO. OBSERVÂNCIA DA SÚMULA VINCULANTE N. 17 DO STF. CABIMENTO TAMBÉM DE JUROS MORATÓRIOS NO PERÍODO COMPREENDIDO ENTRE A DATA DOS CÁLCULOS DE LIQUIDAÇÃO E A EXPEDIÇÃO DO PRECATÓRIO. PRECEDENTE DO STF. PROVIMENTO PARCIAL DO RECURSO” (fl. 26, e-doc. 1).
+    Os embargos declaratórios opostos foram rejeitados (fl. 92, e-doc. 1).
+    2. O Superior Tribunal de Justiça remeteu os autos a este Supremo Tribunal sob o seguinte fundamento:
+    “Na origem, trata-se de Agravo de Instrumento contra decisão proferida em primeiro grau que determinou a remessa dos autos à Contadoria e determinou a aplicação da Súmula Vinculante 17: ‘Durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos’.
+    O Recurso Especial foi levado à apreciação da Segunda Turma, na sessão de 26 de fevereiro de 2019, ocasião em que, após sustentação oral, o Ministro Mauro Campbell Marques externou questionamento quanto à fundamentação constitucional do acórdão recorrido e a novel sistemática do CPC/2015. Com efeito, no que toca aos juros de mora, a fundamentação do acórdão é eminentemente constitucional, com amparo na jurisprudência do Supremo Tribunal Federal, no art. 100 da Carta Magna e na Súmula Vinculante 17. Entretanto, não é caso de se aplicar a Súmula 126 do STJ, mas sim de atender à providência do art. 1.032, caput, do CPC/2015: Art. 1.032. Se o relator, no Superior Tribunal de Justiça, entender que o recurso especial versa sobre questão constitucional, deverá conceder prazo de 15 (quinze) dias para que o recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional’.
+    Intime-se, pois o recorrente, na forma do artigo transcrito. Decorrido o prazo com manifestação, encaminhe-se o feito ao Supremo Tribunal Federal. Na ausência, voltem-me conclusos para decisão” (fl. 32, e-doc. 6)
+    3. O recorrente alega ter o Tribunal de origem contrariado os §§ 5º e 12 do art. 100 da Constituição da República e aponta “discussão atinente à incidência ou não de juros moratórios entre a data da elaboração dos cálculos de liquidação e a data de expedição do respectivo precatório, em ação de desapropriação” (fl. 37, e-doc. 6).
+    Requer seja “admitido, conhecido e provido [o recurso], a fim de que seja reformado o v. acórdão de fls. 26/36 e-STJ, para que se reconheça que também não fluem juros moratórios antes da data de expedição do precatório, em processo de expropriação” (fl. 43, e-doc. 6).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste ao recorrente.
+     O Tribunal de origem decidiu a controvérsia nos seguintes termos:
+    “No que concerne aos juros de mora, relevante destacar que, se o pagamento for efetuado dentro do prazo constitucional, não há justificativa para a incidência de juros moratórios, mas tão somente de atualização monetária. (…)
+    Contudo, havendo atraso no pagamento do precatório, a incidência de juros moratórios não pode ser afastada, sob pena de se contemplar o enriquecimento sem causa do devedor em detrimento do credor.
+    Cabe perquirir, porém, a pertinência da incidência de juros de mora no lapso temporal entre a elaboração dos cálculos de liquidação e a apresentação do pedido requisitório.
+    A matéria em questão foi apreciada pelo Supremo Tribunal Federal, em recente julgamento, através do RE 579.431/RS, cuja repercussão geral foi reconhecida.
+    De acordo com o relevante precedente, é cabível a efetiva incidência de juros no lapso temporal entre a data de realização dos cálculos e a da apresentação do precatório, em decorrência da mora.
+    Por conta de tais considerações, dá-se parcial provimento ao agravo de instrumento interposto pela parte exequente tão somente para elucidar que os juros de mora devem incidir durante o período entre a elaboração dos cálculos até a expedição do precatório” (fls. 33-36, e-doc. 1).
+    No julgamento do Recurso Extraordinário n. 579.431-RG, Tema 96, Relator o Ministro Marco Aurélio, o Plenário deste Supremo Tribunal reconheceu a incidência de juros de mora no período compreendido entre a data da conta de liquidação e a expedição do requisitório. Confira-se a ementa do julgado:
+    “JUROS DA MORA FAZENDA PÚBLICA DÍVIDA REQUISIÇÃO OU PRECATÓRIO. Incidem juros da mora entre a data da realização dos cálculos e a da requisição ou do precatório” (DJe 30.6.2017).
+    O entendimento contido no acórdão recorrido harmoniza-se com essa orientação jurisprudencial.
+    Nada há a prover quanto às alegações do recorrente.
+    5. Pelo exposto, nego provimento ao recurso extraordinário (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de agosto de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
