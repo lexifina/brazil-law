@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, que contém controvérsia acerca dos reflexos do ajuizamento da Ação Civil Pública 0004911-28.2011.4.03.6183/SP na fluência do prazo prescricional de valores de trato sucessivo, reconhecidos judicialmente, em ação individual, bem como revisão de renda mensal de benefício previdenciário, em razão dos tetos instituídos pela Emendas Constitucionais 20/1998 e 41/2003.
+Inicialmente, em razão Controvérsia 64/STJ, determinei a devolução do feito à origem, conforme o art. 1.041, § 2º, do CPC/2015.
+O recorrido, por meio da petição de fls. 259/262e, alegou que a matéria foi objeto de acordo na origem, antes da remessa do Recurso Especial a esta Corte.
+O INSS manifestou-se a fls. 266/267e, ratificando a existência do noticiado acordo, aduzindo que:
+"vem, respeitosamente, perante V. Exa, em atenção à petição da parte recorrida acostada às folhas 369 do presente autos, dizer que concorda com o término do litígio por meio de transação, uma vez que o INSS desistiu do recurso em relação aos tetos da ECs 20 e 41, e o recorrido concorda com a contagem da prescrição quinquenal a partir do ajuizamento da ação individual. Assim, pode-se homologar nos termos acima propostos, ou seja, consignando na decisão homologatória que a prescrição quinquenal será aferida a partir do ajuizamento da ação individual"
+Dessa forma, ratificada pela parte recorrente a existência de transação entre as partes sobre a questão da prescrição e a desistência anterior do presente recurso pelo INSS, no tocante ao mérito da revisão da renda mensal do benefício, não remanesce o interesse recursal originário.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
