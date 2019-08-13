@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO REGIMENTAL. EXECUÇÃO PENAL. REMIÇÃO POR TRABALHO. SUPERVISÃO NÃO COMPROVADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte de origem salientou a impossibilidade de se aferir em que condições foi prestado o trabalho, dado que o atestado de efetivo trabalho não traz sequer informações acerca da carga horária laborada. Portanto, para se infirmar a interpretação apresentada pelo Tribunal a quo acerca dos requisitos para caracterização da continuidade delitiva, de forma a possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+2. Agravo regimental não provido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O agravante, MAICON LIMA FREITAS, requer a reconsideração da decisão de fls. 85-87, em que indeferi liminarmente o habeas corpus, dada a patente necessidade de dilação probatória de modo a infirmar a conclusão a que chegaram as instâncias ordinárias.
+Para tanto, assere que "o atestado efetivo de trabalho encontra-se nos autos, e-STJ, fl. 23, cumprindo os requisitos da LEP, já que devidamente especificado que o paciente trabalhou no Presídio Estadual de Dom Pedrito, na função de faxina do pátio de recreação, nas QUARTAS e DOMINGOS, no período de 18/04/2018 a 15/05/2018, e de auxiliar de plantão de galeria, atividade desenvolvida DIARIAMENTE, no período de 16/05/2018 a 25/06/2018" (fl. 93).
+EMENTA
+AGRAVO REGIMENTAL. EXECUÇÃO PENAL. REMIÇÃO POR TRABALHO. SUPERVISÃO NÃO COMPROVADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte de origem salientou a impossibilidade de se aferir em que condições foi prestado o trabalho, dado que o atestado de efetivo trabalho não traz sequer informações acerca da carga horária laborada. Portanto, para se infirmar a interpretação apresentada pelo Tribunal a quo acerca dos requisitos para caracterização da continuidade delitiva, de forma a possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+2. Agravo regimental não provido.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Como já apontado na decisão vergastada, o Juízo singular "declarou a remição de 49 (quarenta e nove) dias da pena de MAICON LIMA FREITAS, referente ao período de trabalho no estabelecimento carcerário exercendo as funções de "faxina no pátio de recreação" e de "auxiliar de plantão de galeria"" (fl. 70).
+Todavia, o Tribunal local destacou que "a prestação de serviço pelos condenados em regime fechado e semiaberto depende, além de aptidão, disciplina e responsabilidade e cumprimento de fração mínima da pena, da viabilidade de controle estatal por meio de vigilância.  ..  A concessão do benefício, portanto, está condicionada à certeza quanto à consumação do trabalho e à sua comprovação, pois o nosso ordenamento não ampara a figura da remissão ficta" (fls. 71-72, grifei).
+A partir de tal premissa, concluiu que,
+ n a hipótese, o administrador do estabelecimento carcerário, por meio de atestado de efetivo trabalho (fl. 09), certificou que o reeducando exerceu atividade laboral na função de "faxina no pátio de recreação, no período compreendido entre 18.04.2018 e 15.04.2018, e de "auxiliar de plantão de galeria", entre 16.05.2018 e 25.06.2018, totalizando 49 dias. O referido documento, no entanto, não traz qualquer informação acerca da carga horária do trabalho desempenhado, tampouco especifica quais foram as atividades desenvolvidas pelo detento e se estas ocorreram de forma supervisionada, sob a fiscalização do órgão de execução.
+Sendo assim, tenho que não há nos autos elementos de prova hábeis a demonstrar, com segurança, que o apenado faz jus à remição ora debatida pois, para tanto, é imprescindível existir comprovação em relação às especificidades das atividades desempenhadas, a jornada de trabalho cumprida pelo detento e o atendimento às finalidades educativa e/ou produtiva do labor  ..  (fl. 72, destaquei).
+Dessa forma, percebe-se que a Corte de origem salientou a impossibilidade de se aferir em que condições foi prestado o trabalho, dado que o atestado de efetivo trabalho não traz sequer informações acerca da carga horária laborada. A esse respeito, ressalta a jurisprudência do Superior Tribunal de Justiça que " n ão basta a apresentação do atestado de efetivo trabalho para que o apenado obtenha o direito à remição, sendo fundamental que a atividade atenda as exigências de jornada mínima, bem como de finalidade educativa e produtiva" (AgRg no HC n. 485.537/RS, Rel. Ministro Felix Fischer, 5ª T., DJe 3/4/2019, sublinhei).
+No mesmo sentido:
+ ..
+4.O entendimento nesta Quinta Turma está a se delinear no sentido de que não havendo comprovação de que a atividade laboral do apenado foi desenvolvida de maneira supervisionada, sob fiscalização do estabelecimento prisional, não é possível aferir se foi atendido o caráter ressocializador da atividade.
+5. Não basta a apresentação do atestado de efetivo trabalho para que o apenado obtenha o direito à remição, sendo fundamental que a atividade atenda às exigências de jornada mínima, bem como atenda à finalidade educativa e produtiva.
+6. Habeas corpus não conhecido (HC n. 499.465/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 27/5/2019, grifei).
+Ademais, para se infirmar a interpretação apresentada pelo Tribunal a quo acerca dos requisitos para o reconhecimento do trabalho prestado, de forma a possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+À vista do exposto, nego provimento ao recurso.
