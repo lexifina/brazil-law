@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por WELLINGTON DOS SANTOS FERREIRA LEITE contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial defensivo.
+Consta dos autos que o agravante foi condenado às penas de 5 anos e 4 meses de reclusão, em regime inicial fechado, e de 13 dias-multa, como incurso no art. 157, § 2º, incisos I e II, do Código Penal.
+Irresignada, a defesa interpôs recurso de apelação perante o Tribunal estadual, que deu parcial provimento à insurgência, estabelecendo o regime semiaberto para o cumprimento da reprimenda, mantidos os demais termos da sentença condenatória.
+Interposto recurso especial, esse foi inadmitido pela instância de origem, ensejando a presente insurgência, na qual o agravante sustenta que os óbices indicados na decisão objurgada não incidiriam in casu.
+Requer o acolhimento do agravo a fim de que seja admitido e provido o recurso especial.
+O Ministério Público Federal manifestou-se pelo não conhecimento da insurgência.
+É o relatório.
+No recurso especial, a parte sustenta, em síntese, que deveria ser absolvido ante a ausência de provas para a condenação, pois o reconhecimento realizado pela vítima não teria observado os ditames do art. 226 do CPP.
+Apreciadas as razões do agravo em recurso especial e a par dos fundamentos declinados pelo Tribunal de origem por ocasião do juízo de admissibilidade ali realizado, constata-se que o recurso especial interposto, de fato, não merece seguimento.
+Quanto à suficiência de provas para a condenação do recorrente, a Corte estadual assim se manifestou:
+"O acervo probatório trazido aos autos não permite dúvidas acerca da materialidade e autoria do delito.
+A vítima, na delegacia, reconheceu o réu por meio de fotografia (fls. 7/8). Em Juízo, reconheceu o apelante pessoalmente, ressaltando que, no dia dos fatos, ele estava um pouco mais magro e com os cabelos mais longos. Em suas declarações corroborou os fatos descritos na exordial acusatória.
+Entretanto, acrescentou que, no momento da abordagem, quando observou seu ônibus aproximando-se, avisou os assaltantes. Assim, o apelante, novamente, mostrando-lhe a faca, mandou que não olhasse para trás. Entrou no coletivo e dirigiu-se para a delegacia mais próxima. Explicou que, na referida delegacia, foram-lhe apresentados alguns álbuns com diversas fotos e que reconheceu o condenado em duas fotos que estavam apostas em álbuns diferentes (mídia digital de fl. 65).
+A propósito, não prospera a alegação de que há fragilidade probatória diante do reconhecimento fotográfico realizado pela vítima.
+Com efeito, em Juízo, sob o crivo do contraditório, o ofendido reconheceu o apelante pessoalmente em audiência, confirmando o reconhecimento feito em sede policial.
+Assim, válido o reconhecimento realizado pela vítima na delegacia, mormente porque esse ato foi confirmado em juízo.
+(..)
+Ademais, a relevância absoluta das formas já não vige no direito como preceito geral, mas foi substituída pelo princípio da instrumentalidade.
+(..)
+Assim, se o ato é praticado sem que haja o fiel cumprimento à forma estabelecida em lei, mas alcança o fim colimado sem infringir as regras de garantia, pelo princípio da instrumentalidade das formas, ele é plenamente válido, não havendo que se cogitar em prejuízo, regra matriz para se decretar nulidade de ato ou de feito. É a chancela que se extrai do artigo 563 do Código de Processo Penal Brasileiro (pás de nullit  sans gríef).
+No mais, a vítima prestou depoimento firme e coerente em ambas as sedes, narrando os fatos com riqueza de detalhes desde o inquérito até sua oitiva em juízo, sob o crivo do contraditório, efetuando o reconhecimento pessoal do réu e confirmando o concurso de agentes e o emprego de arma branca.
+Vale destacar, no campo probatório dos crimes patrimoniais, normalmente praticados na clandestinidade, a palavra da vítima é de extrema valia, especialmente quando descreve com firmeza o modus operandi e reconhece, igualmente, a pessoa que praticou o delito, uma vez que seu único interesse é identificar os verdadeiros culpados." (e-STJ fls. 135/140)
+Da análise dos autos, infere-se que o Tribunal de origem, após o reexame dos elementos colhidos no curso da instrução criminal, motivadamente assentou a existência de elementos aptos e concludentes para fundamentar a condenação do agravante pela conduta dolosa descrita na incoativa, nos termos do art. 157, § 2º, incisos I e II, do CP.
+Esclareceu-se que os fatos foram relatados com fidelidade pela vítima não só perante a autoridade policial como também em juízo, e estando fundada em provas suficientes à sua condenação, o fato de seu reconhecimento extrajudicial não ter obedecido as disposições legais não teria o condão de macular o contexto probatório erigido.
+A jurisprudência deste Sodalício entende que "o reconhecimento pessoal do agravante pela vítima do roubo não constituiu fonte única para formar o juízo de convicção sobre a autoria delitiva", pois "a imputação do fato ao réu ampara-se também em outros elementos integrantes do conjunto probatório". (AgRg no AREsp 1067238/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/04/2017, DJe 03/05/2017)
+Importa salientar que, "nos crimes contra o patrimônio, a palavra do ofendido, quando apresentada de maneira firme e coerente, reveste-se de importante força probatória, restando apta a embasar decreto de condenação (STJ, HC 195.467/SP, Rei. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 14.06.2011, DJe de 22.06.2011)", exatamente como ficou demonstrado no caso dos autos.
+Desse modo, admitir o recurso a fim de modificar as conclusões das instâncias de origem, no intuito de abrigar o pleito defensivo de absolvição, não encontra espaço na via eleita, porquanto seria necessário a este Sodalício profundado revolvimento do contexto fático-probatório, providência incabível em sede de recurso especial, conforme já assentado pela Súmula n. 7/STJ.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL DO MINISTÉRIO PÚBLICO ESTADUAL. "OPERAÇÃO IMPACTO". CORRUPÇÃO ATIVA. ART. 333, CAPUT, E PARÁGRAFO ÚNICO, DO CP. CORRUPÇÃO PASSIVA. ART. 317, CAPUT, E § 1º DO CP. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CULPABILIDADE. FUNDAMENTAÇÃO IDÔNEA. PROPORCIONALIDADE. LAVAGEM DE DINHEIRO. CONDENAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. REGIME PRISIONAL. SUBSTITUIÇÃO DA PENA.
+(..)
+4. A Corte de origem manteve a absolvição dos réus [NOME] e [NOME] pela prática do crime de lavagem de dinheiro. Alterar as conclusões consignadas no acórdão recorrido para concluir pela condenação dos referidos envolvidos exigiria a incursão no conjunto fático-probatório e nos elementos de convicção dos autos, o que não é possível nesta Corte Superior, segundo dispõe a Súmula n.
+7/STJ.
+5. Estabelecida a pena definitiva menor que 4 anos, para alguns acusados, e maior que 4 e menor que 8 anos, para outros, a primariedade dos envolvidos; o enunciado da Súmula 440/STJ e a análise desfavorável de apenas uma circunstância judicial (culpabilidade), devem ser mantidos, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal, respectivamente, os regimes aberto e o semiaberto, respectivamente, para o cumprimento da pena, bem como a substituição anteriormente deferida.
+6. Agravo regimental não provido.
+(AgRg no REsp 1604434/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/06/2017, DJe 01/08/2017)
+Dessa forma, verifica-se que o acórdão recorrido alinhou-se à jurisprudência desta Corte Superior de Justiça sobre o tema, incidindo o óbice da Súmula n. 83/STJ, também aplicável ou recurso especial interposto pela alínea a do permissivo constitucional.
+Por tais razões, afigurando-se inadmissível o apelo nobre, conheço do agravo e não conheço do recurso especial, nos termos do art. 34, inciso VII, combinado com o art. 253, parágrafo único, inciso II, alínea a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Público Federal.
