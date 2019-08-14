@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+PROCESSUAL CIVIL AGRAVO DE INSTRUMENTO EXECUÇÃO DE TÍTULO EXTRAJUDICIAL EXECUÇÃO TÍTULO CÉDULA DE CRÉDITO COMERCIAL PARTE EXEQUENTE BRB - BANCO DE BRASÍLIA S/A PARTE EXECUTADA SOCIEDADE EMPRESÁRIA SÓCIOS EXCLUSÃO DA RELAÇÃO PROCESSUAL INCIDENTE PROCESSUAL ARGUIÇÃO DE NULIDADE DA PRETENSÃO EXECUTIVA OBJEÇÃO DE PRÉ-EXECUTIVIDADE ARGUENTE VIÚVA DE SÓCIO AVALISTA JÁ FALECIDO E EXCLUÍDO DA RELAÇÃO PROCESSUAL ILEGITIMIDADE AD CAUSAM NÃO CONHECIMENTO DO INCIDENTE DEFESA DE DIREITO E INTERESSES DE TERCEIRO EM NOME PRÓPRIO IMPOSSIBILIDADE AGRAVO DESPROVIDO
+Quanto à controvérsia posta nos autos, pela alínea "a" do permissivo constitucional, alega violação dos arts. 17 e 18 do CPC, no que concerne à legitimidade da parte recorrente na condição meeira do ex-sócio falecido, trazendo o(s) seguinte(s) argumento(s):
+O não conhecimento das insurgências da Recorrente foi fundamentado, primeiro, numa suposta preclusão da decisão que determinou a exclusão dos autos dos herdeiros dos devedores solidários.
+Ora, o próprio v. acórdão recorrido deixa claro que a Recorrente é viúva do senhor [NOME] e sendo viúva ela não é simplesmente herdeira das cotas sociais, mas sua meeira!
+Como a Recorrente foi aceita inicialmente como legítima para manifestar nos autos da execução e como a decisão citada no v. acórdão trata de herdeiros e não dela e da senhora BELKISS, que são meeiras das cotas, ela ainda está habilitada a falar nos autos e sua impugnação à arrematação deveria ter sido enfrentada no mérito, sobretudo porque carrega alegação de ato de nulo.
+Permissa venia, ela está defendendo interesse próprio e não de terceiro, exatamente como se extrai das normas dos artigos 17 e 18 do CPC, seja porque reside no imóvel, seja porquanto, na condição de meeira das cotas da sociedade, ela tem interesse no melhor destino do patrimônio desta
+Ora, se o TJDFT entende que a sociedade está extinta, é ainda mais evidente que os sócios - inclusive que ocupam a condição por herança, automaticamente - carregam legitimidade de defender os ativos que compõem o patrimônio da extinta sociedade. (fls. 2341/2342).
+É o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+O Tribunal de origem não se manifestou, nas razões de decidir do acórdão recorrido, sobre a legitimidade da parte recorrente na condição de meeira de ex-sócio falecido.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
