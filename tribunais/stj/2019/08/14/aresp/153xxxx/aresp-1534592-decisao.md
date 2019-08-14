@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL CUMPRIMENTO DE SENTENÇA INÉRCIA AUSÊNCIA DE INTIMAÇÃO PESSOAL SENTENÇA CASSADA 1 - Conforme precedente do Superior Tribunal de Justiça e desta Corte Estadual, a extinção do processo por abandono das partes (art. 485. III, §12, do CPC), só é possível se precedida de intimação pessoal do autor para que promova, em 48 horas, o andamento ao feito, o que enseja a cassação da sentença invectivada e o retorno dos autos à origem para regular prosseguimento. 2 - No caso dos autos, não restou demonstrado o desinteresse da parte para andamentar o feito, sendo que o Magistrado deveria ter-lhe oportunizado a manifestar-se nos autos, antes de extinguir o feito prematuramente. RECURSO. CONHECIDO E PROVIDO. SENTENÇA CASSADA.
+Quanto à primeira controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, alega violação dos arts. 1.045 e 924 do CPC, no que concerne ao não conhecimento do recurso de apelação interposto pelos ora recorridos, trazendo o(s) seguinte(s) argumento(s):
+Tratando-se de mero despacho de arquivamento, onde não foram afastados nenhum dos pedidos formulados no cumprimento de sentença, deveria o recorrido, querendo ter manejado recurso de agravo de instrumento, na forma do que prevê o parágrafo único do artigo 1.015 do CPC (fls. 1534).
+ ..
+Além disso, o conhecimento do recurso de apelação vai de encontro à jurisprudência desse Superior Tribunal de Justiça, notadamente daquilo que foi decidido no Recurso Especial 1.698.344, ou seja, de que o que irá definir a extinção da execução, para fins de definição acerca do recurso cabível na fase de cumprimento de sentença, é a supressão do crédito, o que, indubitavelmente, não ocorreu nesse caso (fls. 1538).
+É o relatório. Decido.
+Na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
