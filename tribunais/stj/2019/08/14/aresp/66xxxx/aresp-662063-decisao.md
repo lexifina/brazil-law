@@ -1,0 +1,20 @@
+DECISÃO
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE ILEGITIMIDADE DA EMPRESA AFASTADA PELO TRIBUNAL DE ORIGEM MEDIANTE O EXAME DAS PROVAS CARREADAS AOS AUTOS. A MODIFICAÇÃO DO ACÓRDÃO RECORRIDO REQUER, POIS, NOVA INCURSÃO EM SEARA DEFESA NESTA CORTE. AGRAVO DA EMPRESA DESPROVIDO.
+1. Agrava-se da decisão que inadmitiu o Recurso Especial interposto por CENTRAIS ELÉTRICAS BRASILEIRAS S.A., com fundamento no art. 105, III, a da Constituição Federal, contra acórdão do TRF da 4a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PESSOA JURÍDICA. CAPACIDADE.
+Em havendo ainda créditos a receber, a pessoa jurídica não poderá ser considerada extinta e impedida de cobrá-los em juízo, porquanto sua extinção somente ocorre quando totalmente liquidada, consoante disposto no art. 51, caput, do Código Civil (fls. 37).
+2. Nas razões do Apelo Nobre inadmitido, a ora agravante aponta violação dos arts. 45 e 51 do CC, sob a alegação de que a higidez da personalidade jurídica da Agravada é discutível, pois há fortes indícios de sua dissolução de fato, pois não se concebe imaginar que uma Empresa baixada há dezesseis anos na Receita Federal continue operando (fls. 47).
+3. Com contrarrazões (fls. 54/61), o recurso foi inadmitido na origem (fls. 64/65).
+4. É o breve relatório.
+5. O Tribunal de origem, manteve a legitimidade ativa da empresa-Recorrente, para o fim de implantação de ações em favor da exequente, aos seguintes fundamentos:
+Todavia, tendo ainda créditos a receber, a pessoa jurídica não pode ser considerada extinta e impedida de cobrá-los em juízo, porquanto sua extinção somente ocorre quando totalmente liquidada, conforme disposto no art. 51, caput, do Código Civil, in verbis:
+Nos casos de dissolução da pessoa jurídica ou cassada a autorização para seu funcionamento, ela subsistirá para os fins de liquidação, até que esta se conclua."
+(..).
+Assim, ainda que a sociedade empresária tenha situação cadastral no CNPJ como "baixada", não há carência de personalidade jurídica, falta de capacidade postulatória ou ilegitimidade de parte, não havendo falar em extinção do processo (fls. 35).
+6. Destarte, as Conclusões da Corte de origem, uma vez que alcançadas mediante análise do acervo probatório da causa, não podem ser alteradas, porquanto importaria em nova incursão em seara defesa nesta Corte. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. VIOLAÇÃO AO ART. 45 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. VIOLAÇÃO AO ART. 51 DO CC. ILEGITIMIDADE DA EMPRESA. AFERIÇÃO QUE DEMANDA REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+1. O art. 45 do Código Civil não foi objeto de análise na origem, o que impede o conhecimento do recurso especial em relação ele, haja vista a ausência de prequestionamento (Súmula nº 282 do STF). Soma-se a isso que o direito pleiteado não se extrai do referido dispositivo legal, o que igualmente impede o conhecimento do recurso no ponto em face da incidência da Súmula 284 do STF.
+2. A pretensão de reconhecimento da ilegitimidade ativa da empresa, à luz do art. 51 do Código Civil, foi veiculada nas razões recursais sob os seguintes argumentos: (i) extinção via liquidação voluntária; (ii) indícios de dissolução de fato; (iii) fraude fiscal contra a União; e (iv) encerramento de fato e de direito. Ao que se depreende do autos, bem como do acórdão recorrido, verifica-se que a análise de todas essas questões demanda revolvimento de material fático-probatória incompatível com a via do recurso especial, sobretudo no caso em que houve manifestação do acórdão recorrido no sentido de não ter havido total liquidação da empresa. Dessa forma, em que pesem os argumentos da recorrente, não é possível conhecer do recurso especial, haja vista demandar análise de questões fáticas para além do direito em tese, o que encontra óbice no teor da Súmula nº 7 do STJ, in verbis: "A pretensão de simples reexame de provas não enseja recurso especial".
+3. Agravo regimental não provido (AgRg/RESp 1.506.399/PR, Rel. Min. MAURO CAMPBELL MAQUER, DJe 30.6.2015)
+7. Ante o exposto, nega-se provimento ao Agravo da Empresa.
+8. Publique-se. Intimações necessárias.
