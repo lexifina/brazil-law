@@ -1,0 +1,22 @@
+EMENTA
+HABEAS CORPUS. USO DE DOCUMENTO FALSO. CONDENAÇÃO EM SEGUNDA INSTÂNCIA. DETERMINAÇÃO DE EXECUÇÃO PROVISÓRIA DA PENA APÓS ESGOTAMENTO DAS VIAS ORDINÁRIAS. POSSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de [NOME] contra o acórdão do Tribunal Regional Federal da 3ª Região.
+Os autos dão conta de que o paciente foi condenado, em primeiro grau, pelo delito do art. 304 c/c o art. 297, ambos do Código Penal, ao cumprimento da pena de 2 anos e 4 meses de reclusão.
+Tão somente a defesa apelou. O Tribunal de origem negou provimento ao recurso defensivo e determinou a expedição de guia de execução provisória (Apelação Criminal n. 0012135-39.2016.4.03.6119/SP).
+Daí o presente writ, em que se argui ilegalidade na execução provisória da pena, uma vez que entende não ser devida a execução provisória quando a decisão ainda não estiver transitado em julgado e, no caso, existe recurso especial pendente de julgamento.
+Aduz, ainda, que a pena privativa de liberdade foi substituída por restritiva de direitos que, a sua vez, somente autoriza o cumprimento após o trânsito em julgado da condenação (fl. 6).
+Postula-se, então, em liminar e no mérito, a suspensão da execução provisória da pena até que ocorra o trânsito em julgado do acórdão recorrido.
+É o relatório.
+Busca a impetração a revogação da decisão que determinou a execução provisória da pena imposta ao paciente, ao argumento de que não ocorreu o trânsito em julgado da condenação e de que a pena privativa de liberdade foi substituída por restritivas de direitos.
+Ora, a corte estadual determinou a execução provisória da pena com o esgotamento da instância ordinária, tendo em vista que foi interposto recurso especial pela defesa (fls. 24/30).
+Sendo assim, verifico que não há ilegalidade a ser sanada.
+Nesta Corte Superior de Justiça, prevalece o entendimento de que é possível a execução provisória de acórdão penal condenatório, ainda que sujeito a recurso especial ou extraordinário. Conforme jurisprudência dominante do Supremo Tribunal Federal, nessas hipóteses, não se compromete o princípio constitucional da presunção de inocência.
+Ademais, o Superior Tribunal de Justiça já firmou posicionamento de que a determinação de execução provisória da pena independe da presença dos requisitos previstos no art. 312 do Código de Processo Penal, somente podendo ser sustada se não esgotada a via ordinária.
+Como expôs o Ministro Rogerio Schietti Cruz: a prisão, após a condenação pela Corte de origem, não possui como fundamento a cautelaridade prevista no art. 312 do Código de Processo Penal, mas principalmente o esgotamento da apreciação do fato pelas instâncias ordinárias, o que viabiliza a execução da reprimenda, conforme recente jurisprudência das Cortes Superiores de Justiça. Portanto, a execução da pena, no caso, é efeito decorrente do acórdão condenatório e, por isso, não exige fundamentação específica no dispositivo do "decisum", uma vez que encontra alicerce nos próprios argumentos que fundamentaram a condenação em segunda instância, no exaurimento do princípio da não culpabilidade e, também, na ausência de atribuição de efeito suspensivo ao recurso extraordinário ("lato sensu") (AgRg no AREsp n. 377.808/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/9/2017).
+Sobre o tema, confiram-se os seguintes precedentes: EDcl no AgRg no AREsp n. 440.072/DF, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/6/2017; e HC n. 387.616/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/10/2017.
+Por fim, apesar de a impetrante defender que seria incabível a execução provisória da pena no caso em aposto, por se tratar de pena restritiva de direitos, consta do acórdão colacionado pela própria parte que a pena privativa de liberdade não foi substituída por penas restritivas de direitos (fl. 18), razão pela qual deve-se manter o acórdão recorrido.
+Cumpre ressaltar que o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em virtude de seu escopo, natureza urgente, e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante.
+Assim, diante da ausência de constrangimento ilegal, indefiro liminarmente a petição inicial.
+Publique-se.
