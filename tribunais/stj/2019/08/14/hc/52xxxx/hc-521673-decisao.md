@@ -1,0 +1,16 @@
+DECISÃO
+EDUARDO BONIFÁCIO MENDES alega sofrer coação ilegal ante acórdão proferido pelo Tribunal de Justiça do Paraná (Agravo em Execução n. 0008737-68.2019.8.16.0013).
+A impetrante se insurge contra a possibilidade de reconhecimento da falta grave em audiência de justificação, sem prévia instauração do processo administrativo disciplinar. Requer o afastamento da falta grave.
+O Ministério Público Federal opinou pela concessão da ordem.
+Decido.
+O apenado obteve a progressão ao regime aberto em 7/12/2017. Não se apresentou em juízo no mês de novembro de 2018. O Juiz da VEC reconheceu a prática de falta grave (art. 50, V, da LEP) e determinou, tão somente, a atualização do relatório da situação processual, com a desconsideração, como pena cumprida, do período de 20/11/2018 a 29/1/2019.
+Em segundo grau de jurisdição, "a Procuradoria de Justiça opinou para que se declare nula a decisão", por "ausência de PAD" (fl. 7). O Tribunal, a seu turno, assinalou que "a oitiva judicial do apenado, quando assegurado o exercício do contraditório e da ampla defesa - tal qual ocorrido no presente caso -, afasta a necessidade de procedimento administrativo disciplinar prévio" (fl. 8).
+A Terceira Seção deste Superior Tribunal fixou a tese jurídica (Tema 652), em recurso especial representativo de controvérsia, de que:
+Para o reconhecimento da prática de falta disciplinar, no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado.
+ ..
+(REsp n. 1.378.557/RS, Rel. Ministro Marco Aurélio Bellizze, DJe 21/3/2014)
+Prevaleceu a compreensão que a oitiva do preso em juízo não torna desnecessária a instauração de procedimento administrativo. A sindicância visa apurar a ocorrência da própria falta grave, com observância do contraditório e da ampla defesa, bem como a aplicação de determinadas sanções disciplinares pela autoridade administrativa. A oitiva do apenado em audiência, por sua vez, tem como objetivo a aplicação da sanção concernente à regressão de regime, exigindo-se que já tenha sido reconhecida a falta grave pelo diretor do presídio.
+Verifica-se que o paciente descumpriu condição do regime aberto. A teor da orientação desta Corte, era necessária a apuração administrativa do ato, o que não pode ser realizado diretamente pelo juiz, em audiência de justificação. O aresto do Tribunal está em dissonância com a jurisprudência desta Corte.
+Confira-se: "este Tribunal consolidou jurisprudência acerca da impossibilidade de dispensa do processo administrativo disciplinar para fins do reconhecimento da infração disciplinar, a teor da Súmula n. 533/STJ, ainda que o sentenciado esteja cumprindo pena em regime aberto ou em prisão domiciliar" (HC n. 513.398/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/6/2019).
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, concedo o habeas corpus para afastar o reconhecimento da falta grave, sem prejuízo de sua apuração por meio de processo administrativo, desde que respeitado o prazo prescricional de três anos a contar do fato e a impossibilidade de agravar a situação do apenado.
+Publique-se e intimem-se.
