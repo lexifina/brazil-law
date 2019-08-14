@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por AGRICOLA ALMEIDA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PARCERIA AGRÍCOLA - AÇÃO DE RESCISÃO CONTRATUAL C/C DESPEJO E PERDAS E DANOS - PLANTAÇÃO DE CANA-DE-AÇÚCAR - COISA JULGADA OU LITISPENDÊNCIA - INOCORRÊNCIA - CAUSA DE PEDIR E PEDIDOS DISTINTOS - SENTENÇA ANULADA - RECURSO PROVIDO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 319, III, e 55, § 1º, do CPC, no que concerne ao reconhecimento da litispendência em razão da existência de cumprimento de sentença, trazendo o(s) seguinte(s) argumento(s):
+Quando da propositura da presente demanda, já estava em trâmite uma ação de execução na qual foi pedido o arresto do plantio para o cumprimento da obrigação lá estabelecida e como provimento final, a rescisão em decorrência do inadimplemento. Nesta ação, os autores pleiteiam o ingresso na área em virtude do inadimplemento. Tudo em decorrência do mesmo contrato e dos mesmos fatos jurídicos!
+ ..
+Desnecessária, portanto, o ajuizamento da presente ação, que visa obter justamente o que já foi previsto no acordo firmado entre as partes e que pode ser obtido através do cumprimento de sentença já em tramite. (fls. 239/243).
+É o relatório. Decido.
+Na espécie, ficou assim decidido pelo Tribunal de origem:
+Posto isto, forçoso reconhecer que as duas demandas, além das partes, possuem em comum somente a mesma relação jurídica (contrato de parceria) e a causa de pedir fática (descumprimento do acordado na primeira ação); sendo, por outro lado, distintas as causas de pedir remotas (primeira ação: execução do acordo, com a preservação do contrato; segunda ação: inadimplemento da apelada configurando hipótese de resolução contratual) e, principalmente, os pedidos (primeira ação: cobrança do valor ajustado e arresto da plantação; segunda ação: rescisão do contrato, despejo da apelada da área rural, e indenização por perdas e danos) (fl. 222).
+Portanto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
