@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo apresentado por MERCEARIA TEOFILO ROCHA LTDA e [NOME], contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL EMBARGOS À EXECUÇÃO CÉDULA DE CRÉDITO BANCÁRIO ASSINATURA DE DUAS TESTEMUNHAS PRESCINDIBILIDADE AVAL ALEGAÇÃO DE IRREGULARIDADE NÃO COMPROVAÇÃO TÍTULO APTO A EMBASAR A EXECUÇÃO JUROS REMUNERATÓRIOS SUPERIORES A 1% AO MÊS POSSIBILIDADE CAPITALIZAÇÃO MENSAL DE JUROS ADMISSIBILIDADE SEGURO DE PROTEÇÃO FINANCEIRA LEGALIDADE LITIGÁNCIA DE MÁ-FÉ MANUTENÇÃO DA CONDENAÇÃO AO PAGAMENTO DE MULTA (fl. 275).
+Alega divergência jurisprudencial quanto à interpretação dos arts. 80 e 81 do CPC, no que concerne ao não cabimento da condenação das agravantes por litigância de má-fé. Aponta como paradigmas o acórdão do TJSP que julgou a apelação 1032012- 97.2017.8.26.0602 e o acórdão do TJES que julgou a apelação 023120007523.
+É o relatório. Decido.
+Não foi comprovado o dissídio jurisprudencial, uma vez que a parte agravante se limitou a transcrever trechos dos julgados apontados como paradigmas sem proceder o cotejo analítico indispensável à comprovação da identidade jurídica e da similitude fática no presente caso.
+Nesse sentido, o STJ fixou que: "O conhecimento da divergência jurisprudencial reclama a existência de similitude fático-jurídica entre o acórdão recorrido e os paradigmas submetidos a confronto" (EDcl no Resp n. 1.254.636/ES, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 23/4/2015).
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp n. 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; e AgRg no REsp n. 1.500.980/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/3/2015).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
