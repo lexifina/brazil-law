@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim resumido:
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTOS. REVLIMID (LENALIDOMIDA). IMPOSSIBILIDADE. FÁRMACO QUE NÃO POSSUI REGISTRO NA ANVISA. INEXISTÊNCIA DE COMPROVAÇÃO TÉCNICA QUANTO AOS RESULTADOS. NÃO VERIFICAÇÃO DE SITUAÇÃO EXCEPCIONAL APTA A ENSEJAR O SEU USO. AGRAVO IMPROVIDO.
+1. Sendo limitado o orçamento da saúde, o deslocamento de verba para aquisição de medicamento não inserido na listagem do Ministério da Saúde decerto acarretará deficiência na prestação de outro serviço vinculado ao SUS, por falta de verba.
+2. In casu, em relação ao fornecimento do medicamento REVLIMID (lenalidomida), não se pode olvidar que, embora o recorrente ateste a existência de estudos técnicos que comprovem a eficácia do medicamento pleiteado, o fármaco não possui registro na ANVISA. Nessa linha, tenho dúvida de que tal procedimento possa contribuir, por assim dizer, para a melhoria da saúde da agravante.
+3. A aprovação do produto no órgão do Ministério da Saúde é condição para industrialização, comercialização e importação com fins comerciais (Lei 6.360/1976, art. 12), sendo o registro condição para o monitoramento da segurança, eficácia e qualidade terapêutica do produto, sem o qual a inadequação é presumida.
+4. No mesmo sentido jurídico, salienta-se que inexiste razão capaz de implicar o reconhecimento de situação excepcional a ensejar, em prol de administrado determinado, o custeio pelo Estado de ação ou serviço de saúde distinto daqueles que constam das políticas do SUS.
+5. Agravo de instrumento improvido.
+É o relatório. Decido.
+Na espécie, incide, por analogia, o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, tendo em vista sua natureza precária e provisória, cuja reversão é possível a qualquer momento pela instância a quo.
+Nesse sentido: "A jurisprudência desta Corte é firme no sentido de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita a modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito"" (AgInt no AREsp n. 1.351.487/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 17/12/2018).
+Confira-se ainda o seguinte precedente: AgInt no AREsp n. 1.321.705/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
