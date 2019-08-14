@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de mandado de injunção impetrado por [NOME] contra o Comandante da Aeronáutica, em que pede, ao final:
+e) No mérito, que seja reconhecida a lacuna e o estado de mora legislativa e deferida a injunção, determinando-se ao Impetrado que, no prazo estabelecido, edite norma ou envie ao Congresso Nacional projeto de Lei que discipline o Direito Militar de ascensão funcional do Quadro Especial de Sargentos da Aeronáutica, numa carreira digna, tal como a Lei que disciplina a carreira e promoção dos Taifeiros, integrantes do Corpo de Graduados da Aeronáutica;
+f) Que se digne, ainda, este Colendo Superior Tribunal de Justiça a aplicar, por analogia, a Lei n. 12.158/09 e permitir ao Autor sua ascensão funcional em conformidade com os Taifeiros do Comando da Aeronáutica, até que seja publicada Lei específica que discipline a carreira dos Cabos e Sargentos QESA, determinado, ainda, sejam realizadas as promoções do Impetrante, por ressarcimento de preterição, às graduações de Segundo Sargento, Primeiro Sargento e Suboficial, determinado o pagamento de todos os direitos remuneratórios não prescritos, ou seja, dos últimos 05 (cinco) anos anteriores à Impetração deste Mandamus;
+g) A condenação do Impetrado nas custas e honorários advocatícios.
+Despacho do Presidente do STJ, à e-STJ, fl. 44, deferindo a gratuidade da justiça.
+É o relatório.
+Constato que o Supremo Tribunal Federal, no Mandado de Injunção n. 6.837 (decisão monocrática proferida pelo Min. Roberto Barroso em 25/4/2018, e já transitada em julgado), caso idêntico ao presente, entendeu que o impetrante buscava a regulamentação não de preceito da Constituição, mas do art. 50, IV, "m", da Lei n. 6.880/80, concluindo, assim, que, ausente dever constitucional de legislar, é imprópria a via do mandado de injunção, nos termos do art. 5º, LXXI, da Constituição e da jurisprudência do próprio STF.
+No caso sob exame, o insurgente postula exatamente o mesmo que se postulou no MI 6.837 no Supremo Tribunal Federal, com base na mesma causa de pedir (arts. 142, § 3º, X, da Constituição Federal; 50, IV, "m", da Lei n. 6.880/1980; e Lei n. 12.158/2009).
+Aplica-se aqui, portanto, o mesmo raciocínio elaborado pela Suprema Corte.
+De fato, embora o art. 142, § 3º, inc. X, da Constituição Federal preveja que a lei disporá sobre "direitos" e "prerrogativas" dos militares, não assegura especificamente o direito à promoção na carreira, ao contrário do que alega o requerente. A propósito, nenhum outro preceito constitucional dispõe nesse sentido, o que impossibilita o conhecimento do writ, conforme entendimento do Plenário do STF em casos análogos:
+MANDADO DE INJUNÇÃO. REGULAMENTAÇÃO DA ATIVIDADE DE BINGO. INEXISTÊNCIA DE COMANDO CONSTITUCIONAL. WRIT NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+Os agravantes objetivam a regulamentação da atividade de jogos de bingo, mas não indicam o dispositivo constitucional que expressamente enuncie esse suposto direito.
+Para o cabimento do mandado de injunção, é imprescindível a existência de um direito previsto na Constituição que não esteja sendo exercido por ausência de norma regulamentadora. O mandado de injunção não é remédio destinado a fazer suprir lacuna ou ausência de regulamentação de direito previsto em norma infraconstitucional, e muito menos de legislação que se refere a eventuais prerrogativas a serem estabelecidas discricionariamente pela União.
+No presente caso, não existe norma constitucional que confira o direito que, segundo os impetrantes, estaria à espera de regulamentação. Como ressaltou o Procurador-Geral da República, a União não está obrigada a legislar sobre a matéria, porque não existe, na Constituição Federal, qualquer preceito consubstanciador de determinação constitucional para se que legisle, especificamente, sobre exploração de jogos de bingo.
+Agravo regimental desprovido. (grifou-se)
+(MI 766 AgR, Plenário, Rel. Min. Joaquim Barbosa, j. em 21/10/2009)
+Embargos de declaração em mandado de injunção. Decisão monocrática. Conversão em agravo regimental. Regulamentação do art. 68 da Lei nº 11.101/05 (Lei de Falências). Falta de comando constitucional específico. Recurso não provido.
+1. Segundo a jurisprudência da Suprema Corte, é incabível a oposição de embargos declaratórios contra decisão monocrática. Embargos recebidos como agravo regimental.
+2. Os fundamentos da decisão agravada não foram infirmados pelo agravante, que se limitou a reiterar os argumentos apresentados na inicial. Não tem êxito o agravo interno que deixa de atacar especificamente os fundamentos da decisão singular (art. 317, § 1º, RISTF). Precedentes.
+3. O mandado de injunção possui natureza mandamental e se volta à colmatagem de lacuna legislativa capaz de inviabilizar o gozo de direitos e liberdades constitucionalmente assegurados, bem como de prerrogativas inerentes à nacionalidade, à soberania e à cidadania (art. 5º, inciso LXXI, da Constituição Federal).
+4. Omissão legislativa que tem por fundamento comando estabelecido em norma de hierarquia infraconstitucional, deixando de espelhar ordem ao legislador retirada diretamente da Constituição Federal, o que evidencia a impropriedade da via do mandado de injunção.
+5. Agravo regimental não provido. (grifou-se)
+(MI 5.392 ED, Plenário, Rel. Min. Dias Toffoli, j. em 19/09/2013)
+Ante o exposto, julgo extinto sem julgamento do mérito este mandado de injunção, com amparo nos arts. 6º da Lei n. 13.300/2016 e 34, XVIII, "a", do RISTJ.
+Custas pelo impetrante, observada a gratuidade processual deferida. Sem condenação ao pagamento de honorários advocatícios (art. 25 da Lei n. 12.016/2009, c/c o art. 14 da Lei n. 13.300/2016).
+Publique-se. Intimem-se.
