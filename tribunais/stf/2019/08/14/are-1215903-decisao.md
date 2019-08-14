@@ -1,0 +1,31 @@
+Decisão: Trata-se agravo cujo objeto é a decisão da Vice-Presidência do Tribunal Regional Federal da 2ª Região que inadmitiu recurso extraordinário interposto em face de acórdão da Sétima Turma Especializada daquele Tribunal. Transcrevo os seguintes trechos da decisão agravada (eDOC 7, p. 18-20):
+    “Trata-se de recurso extraordinário interposto pela UNIÃO FEDERAL, com fulcro no art. 102, inciso III, alínea "a", da Lei Maior, contra acórdão (fls. 239/251), assim ementado:
+    ADMINISTRATIVO. EXECUÇÃO INDIVIDUAL DE TÍTULO JUDICIAL FORMADO EM MANDADO DE SEGURANÇA COLETIVO. ERESP Nº 1.121.981/RJ. VANTAGEM PECUNIÁRIA ESPECIAL – VPE. EXTENSÃO A POLICIAIS E BOMBEIROS MILITARES INATIVOS DO ANTIGO DISTRITO FEDERAL E SEUS PENSIONISTAS. ASSOCIAÇÃO DE OFICIAIS MILITARES ESTADUAIS DO RIO DE JANEIRO. SUBSTITUIÇÃO PROCESSUAL. BENEFICIÁRIOS DO TÍTULO. MEMBROS DA CATEGORIA (ASSOCIADOS OU NÃO). PENSIONISTA DE OFICIAL INATIVO DA POLÍCIA MILITAR DO ANTIGO DF (PMRJ). LEGITIMIDADE ATIVA.
+    (…)
+    A parte recorrente sustenta, em síntese, que o v. acórdão recorrido teria contrariado o disposto no artigo 5º, incisos XX, XXI, XXXVI, LIV e 8º, incisos III e V, da CF/88 (fls. 271/282).
+    Foram apresentadas contrarrazões a fls. 301/313.
+    É o relatório. Decido.
+    A violação constitucional alegada é eminentemente reflexa, e não é apta a fundamentar a admissibilidade do recurso extraordinário. Nada há no acórdão impugnado que contrarie, in abstracto, os dispositivos constitucionais alegadamente violados. Eles apenas suportariam a admissibilidade do recurso se, dos próprios termos do julgado, e independentemente do revolvimento e completo reexame de fatos, houvesse ofensa ao seu teor. Não é o caso.
+    Ademais, diz o verbete nº 279 da súmula do STF: "Para simples reexame de prova não cabe recurso extraordinário". Ou seja, a premissa que o recurso diz equivocada deve ser demonstrada no corpo inequívoco do acórdão atacado, mesmo quando admitidas como verdadeiras as premissas de fato por ele vislumbradas.
+    In casu, verifica-se que o órgão julgador decidiu a controvérsia após análise dos fatos. Ou seja, para se chegar à conclusão diversa, tornar-se-ia imprescindível reexaminar o conjunto fático-probatório dos autos, o que, como visto, é vedado.
+    Assim, não há qualquer violação direta aos dispositivos constitucionais, à luz dos pressupostos de fato considerados pelo acórdão.
+    Do exposto, INADMITO o recurso extraordinário.”
+    Nas razões do agravo sustenta-se, mediante a transcrição de trecho de obra de Nelson Nery Junior, que (eDOC 7, p. 31):
+    “Ao Tribunal a quo compete tão-somente verificar se estão presentes os requisitos formais do R.Esp. e do R. Extr. A efetiva violação da CF ou a negativa de vigência de lei federal são o mérito do recurso, cuja competência para decidir é dos Tribunal federais. É vedado ao Tribunal de origem dizer que não houve violação da CF ou que não existiu negativa de vigência de lei federal”
+    Aduz-se, ao final, que (eDOC 7, p. 32):
+    “Entende a recorrente que é necessária a condição de filiado para se beneficiar de uma decisão em ação coletiva, com efeitos erga omnes no âmbito da instituição. A exequente não possui legitimidade ativa, já que não demonstrou a existência de relação jurídica de direito material capaz de apontar que se enquadrava na condição de substituído processual na ação coletiva.”
+    É o relatório. Decido.
+    Consabido, a admissibilidade dos recursos de natureza extraordinária é aferida tanto na origem quanto no destino e que sua realização pelo juízo a quo não importa em usurpação da competência desta Corte. O agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Nesse sentido:
+    “Embargos de declaração no agravo de instrumento. Recebimento como agravo regimental. Juízo de admissibilidade de recurso extraordinário efetuado pela Corte de origem e análise do seu mérito por esta Corte, em autos de agravo de instrumento. Possibilidade. Precedentes. 1. O juízo prévio de admissibilidade de recursos dirigidos a este Supremo Tribunal Federal deve ser feito pelos Tribunais de origem, sem que isso implique usurpação de competência desta Corte. 2. Discordando a parte da decisão assim proferida, incumbe-lhe interpor agravo de instrumento, que necessariamente será encaminhado a esta Suprema Corte, que poderá apreciar não apenas o aludido juízo de admissibilidade feito pela Corte de origem, mas o próprio mérito da insurgência recursal. 3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.” (AI 815975 ED, Primeira Turma, Rel. Min. Dias Toffoli, DJe 14.9.2012).
+    “RECURSO EXTRAORDINÁRIO - JUÍZO PRIMEIRO DE ADMISSIBILIDADE. Ao Juízo primeiro de admissibilidade cumpre verificar se o extraordinário atende, ou não, aos pressupostos gerais de recorribilidade e a pelo menos um dos específicos de que cuida o inciso III do artigo 102 da Carta Política da República. Assim agindo, longe fica de usurpar a competência do Supremo Tribunal Federal.” (AI 178743 AgR, Rel. Min. Marco Aurélio, Segunda Turma, DJ 16.5.1997).
+    Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que, in casu, o agravo sequer tem preenchidos os pressupostos processuais.
+    De plano, constata-se que a Vice-Presidência do TRF 2ª Região inadmitiu o recurso assentando a inexistência de afronta direta à Carta da República, bem como a incidência à espécie do óbice da Súmula 279 do STF (eDOC 7, p. 18-20). Entretanto, a parte agravante limitou-se a sustentar ser vedado ao Tribunal de origem dizer que não houve violação da Constituição Federal e a discorrer sobre o mérito do recurso extraordinário, nada dizendo acerca do apontado óbice sumular.
+    Constata-se, assim, que o agravo não impugnou, especificamente, os fundamentos da decisão agravada, o que torna o seu conhecimento inviável diante do óbice da Súmula 287 do STF.
+    Ante o exposto, não conheço agravo, nos termos do art. 932, III e IV, a, do CPC.
+    Deixo de aplicar art. 85, § 11, do CPC, tendo em vista que não houve prévia fixação de honorários na origem.
+    Publique-se.
+    Brasília, 14 de agosto de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
