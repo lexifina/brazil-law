@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por RICARDO JULIÃO ARQUITETURA E URBANISMO S/S LTDA e OUTROS, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO DE COBRANÇA - CONTRATO DE ABERTURA DE CRÉDITO (BB GIRO EMPRESA FLEX) - APELAÇÃO - GRATUIDADE PROCESSUAL - INDEFERIMENTO - PREPARO - CONCESSÃO DE PRAZO PARA O RECOLHIMENTO - INÉRCIA - DESERÇÃO - RECONHECIMENTO - INTELIGÊNCIA DO ART. 99, § 7", E DO ART. 1.007 DO CPC (fl. 266).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 99, § 2º, do CPC e dos arts. 4º e 7º da Lei 1.60/1950, no que concerne ao direito dos agravantes à concessão da gratuidade de justiça, trazendo o(s) seguinte(s) argumento(s):
+Os Recorrentes não possuem condições financeiras de arcar com as custas e despesas deste processo e assim sendo, apresentaram as justificativas para fundamentar o pleito de assistência judiciaria gratuita.
+Ao indeferir o benefício, sem analisar as justificativas fundamentadas, temos presentes os pressupostos determinados pela norma cogente. Notadamente há efetiva violação do direito ao acesso dos Apelantes à justiça, frustrando a discussão sub judice, mormente as nulidades que eivam o contrato pactuado entre as partes.
+Os Recorrentes destacam que as nulidades perpetradas no contrato em discussão são relevantes e, devem ser analisadas pelo Tribunal cessando prejuízos irreparáveis à estes, bem como a violação ao duplo grau de jurisdição.
+Certo é que, se não forem concedidos os benefícios aqui pleiteados, os Recorrentes, que não tem condições de recolher o preparo recursal ou outra despesa processual, sofrerão VIOLAÇÃO frontal ao direito de defesa, será submetida a injustificada NEGATIVA de prestação jurisdicional, um dever do Estado e direito dos Apelantes, ora Recorrentes, e fará parte de um processo judicial IRREGULAR (fl. 277).
+É o relatório. Decido.
+Incide o óbice das Súmulas 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
