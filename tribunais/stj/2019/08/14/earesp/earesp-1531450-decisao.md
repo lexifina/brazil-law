@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por ANA MARIA ZANONI DA SILVA, contra decisão do Tribunal de Justiça do Estado do Paraná, que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, em oposição a acórdão assim ementado (e-STJ, fl. 481):
+"APELAÇÃO CRIME - ART. 140, § 3º DO CÓDIGO PENAL - INJÚRIA RACIAL - SENTENÇA CONDENATÓRIA - PLEITO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA - NÃO CONHECIMENTO, MATÉRIA AFETA AO JUÍZO DA EXECUÇÃO - PLEITO DE ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA - DESPROVIMENTO - MATERIALIDADE E AUTORIA DEMONSTRADAS PELOS DEPOIMENTOS DE TESTEMUNHAS PRESENCIAIS, DESTACANDO-SE DEPOIMENTO DE TESTEMUNHA SEM RELAÇÃO COM A RÉ OU A VÍTIMA - RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO."
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 537-545).
+Nas razões do especial (e-STJ, fls. 563-568), a recorrente aponta violação do art. 619 do Código de Processo penal, alegando omissão no acórdão proferido em embargos declaratórios, pois os julgadores não se manifestaram a respeito do argumento relativo ao princípio do in dubio pro reo, bem como contradição, uma vez que " ..  em sessão anterior o órgão julgador havia remetido o feito para o projeto "JUSTIÇA RESTAURATIVA" do Tribunal de Justiça do Paraná, e, a despeito do acórdão anterior, o feito retornou para julgamento e foi proferido acórdão prejudicial à RÉ" (e-STJ, fl. 567).
+Acrescenta que a omissão e contradição do julgado ofendem a ampla defesa, em contrariedade, pois, ao art. 5º, LV, da Constituição Federal, bem como ao art. 386, VI, do CPP, porquanto, a seu ver, existe dúvida acerca da ocorrência do crime, consoante parecer do Ministério Público e razões da defesa, tendo sido omitida essa questão no acórdão estadual.
+Requer, ao final, a reforma do aresto ora impugnado, para a absolvição da ré.
+As contrarrazões foram apresentadas (e-STJ, fl. 586-590).
+O recurso foi inadmitido em razão da inexistência de ofensa ao art. 619 do CPP e da incidência da Súmula 7/STJ (e-STJ, fls. 592-596). Daí este agravo (e-STJ, fls. 600-617). A contraminuta foi ofertada (e-STJ, fls. 621-625).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ, fls. 641-646).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+A princípio, cumpre anotar que os embargos de declaração se destinam a suprir omissão, contradição ou obscuridade de provimentos jurisdicionais. Não se prestam, portanto, para a revisão dos julgados no caso de mero inconformismo da parte. No caso dos autos, observa-se que a matéria tida por omissa foi exaustivamente examinada pelo Tribunal de origem, não havendo falar em contrariedade ao art. 619 do Código de Processo Penal.
+Nesse sentido, confira-se:
+"AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. NÃO OCORRÊNCIA. VIOLAÇÃO AO ART. 59 DO CP. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O recurso especial sustentou, a incompetência de juízo - item em que não indicou o dispositivo de lei federal violado -, bem como a ilegalidade da condenação, momento em que o recorrente, não obstante haver citado o dispositivo da legislação infraconstitucional supostamente violado pelo Tribunal a quo (art. 59 do CP), não desenvolveu, de forma lógica e com um mínimo de profundidade, as razões jurídicas acerca dessa violação, o que descumpre requisito imprescindível para o conhecimento do recurso, nos termos da Súmula n. 284 do Supremo Tribunal Federal.
+2. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+3. No caso, não há nenhuma omissão no julgado proferido pela Corte de origem, de maneira a gerar o pretendido reconhecimento de infringência do art. 619 do Código de Processo Penal, visto que o acórdão proferido na apelação, expressamente, manifestou-se sobre todas as questões apresentadas pela defesa.
+ ..
+5. Agravo regimental não provido." (AgRg no Ag 1.203.770/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/2/2017, DJe 2/3/2017)
+Relativamente à ofensa ao inciso LV do art. 5º da Constituição Federal, ressalta-se a inviabilidade do debate acerca da contrariedade a princípios constitucionais nas razões do recurso especial, ainda que por via reflexa, uma vez que não compete a esta Corte Superior o seu enfrentamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DE PRINCÍPIOS E DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO DE ANÁLISE POR ESTA CORTE. COMPETÊNCIA DO STF. CONDENAÇÃO CRIMINAL COM TRÂNSITO EM JULGADO HÁ MAIS DE 5 ANOS. CONFIGURAÇÃO DE MAUS ANTECEDENTES. PRECEDENTES. ROUBO. CONSUMAÇÃO. DESNECESSIDADE DE POSSE MANSA E PACÍFICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Compete ao Supremo Tribunal Federal analisar eventual existência de ofensa a princípios ou dispositivos constitucionais, não cabendo a esta Corte se pronunciar acerca de eventual violação à Constituição Federal sob pena de usurpação da competência.
+ ..
+4. Agravo regimental desprovido." (AgRg no REsp 1.668.004/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, j. 26/9/2017, DJe 2/10/2017, grifou-se).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONDENAÇÃO POR PORTE ILEGAL DE ARMA DE FOGO. ASSERTIVA DE OMISSÃO DA SENTENÇA EM RELAÇÃO À PRELIMINAR. NULIDADE DO FEITO. FUNDAMENTO INATACADO. SÚMULA 283/STF. ANÁLISE DE MATÉRIA CONSTITUCIONAL. PREQUESTIONAMENTO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Não compete ao Superior Tribunal de Justiça se manifestar explicitamente acerca de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação de competência reservada ao Supremo Tribunal Federal.
+Agravo regimental desprovido." (AgRg nos EDcl no AREsp 905.964/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, j. 8/8/2017, DJe 18/8/2017, grifou-se).
+No tocante à questão controversa dos autos - a absolvição da ré, em razão à inexistência de circunstâncias que excluam o crime ou a isentem de pena, não lhe assiste melhor sorte.
+O Tribunal de origem, após análise acurada dos elementos probatórios, entendeu pela comprovação suficiente da materialidade e autoria, sendo pertinente a condenação. Nesse sentido, reexaminar o acórdão para desconstituir o entendimento firmado na ocasião do julgamento do recurso de apelação, como deseja a insurgente, implica o necessário revolvimento de matéria fático-probatória, inviável em sede de recurso especial, conforme orientação da Súmula 7 do STJ.
+Ante o exposto, com fundamento no art. 932, IV, do Código de Processo Civil, c/c o art. 253, parágrafo único, II, "a" e "b", do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
