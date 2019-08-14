@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por TOMITA ITIMURA COMÉRCIO DE PRODUTOS AGROPECUÁRIOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO DE INSTRUMENTO AÇÃO REVISIONAL DE CONTRATOS DE COMPRA E VENDA DE INSUMOS E CÉDULAS DE PRODUTO RURAL NOVOS DOCUMENTOS ACOSTADOS AOS AUTOS AUSÊNCIA DE INTIMAÇÃO DA PARTE CONTRÁRIA PARA MANIFESTAÇÃO VIOLAÇÃO AO PRINCÍPIO DO CONTRADITÓRIO CONFIGURADA PERÍCIA COMPLEMENTAR REALIZAÇÃO DE FORMA ESPONTÂNEA PELO PERITO AUSÊNCIA DE DETERMINAÇÃO JUDICIAL IRREGULARIDADE CONSTATADA VIOLAÇÃO AO ART 480 DO CÓDIGO DE PROCESSO CIVIL DE 2015 NULIDADE RECONHECIDA RECURSO PROVIDO
+Quanto à controvérsia, apresentada pela alínea "a" do permissivo constitucional, alega violação do art. 1.026 do CPC, no que concerne à tempestividade recursal, trazendo o(s) seguinte(s) argumento(s):
+Nesse contexto, verifica-se que a demanda em questão tem se afastado da legislação e jurisprudência uníssona haja vista que o r. Acórdão recorrido se limita em aplicar o disposto no art. 1.026 do CPC destacado do contexto fático. (fls. 233).
+Ora d. Ministros, o Agravo de Instrumento merece ser considerado intempestivo, uma vez caracterizada manifesta preclusão consumativa, conforme entendimento jurisprudencial consolidado. Com o reconhecimento da intempestividade recursal, por consequência, restará afastada a r. Decisão proferida pelo E. Tribunal, que determinou a nulidade da perícia complementar, realizada em 1º grau. (fls. 234).
+É o relatório. Decido.
+Na espécie, o Tribunal de origem assim se manifestou quanto à tempestividade do recurso combatido:
+Considerando a inteligência do art. 1.026 do CPC/15, segundo o qual "os embargos de declaração não possuem efeito suspensivo e interrompem o prazo para a interposição de recurso", tem que a interposição do recurso se deu de maneira tempestiva, restando afastada a preliminar de intempestividade.
+Por conseguinte, também deve ser afastada a questão da preclusão, haja vista que a matéria do recurso foi alegada em momento processual oportuno. (fl. 198).
+Portanto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
