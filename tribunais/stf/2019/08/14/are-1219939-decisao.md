@@ -1,0 +1,21 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Luiz Antônio Athayde Souto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 1ª Região, está assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM APELAÇÃO. MANDADO DE SEGURANÇA. DECADÊNCIA DO PRAZO DE 120 DIAS PARA IMPETRAÇÃO.
+    1. O impetrante teve conhecimento da última decisão confirmatória da penalidade que lhe foi imposta em 23.06.2006, mas somente impetrou este mandado de segurança em 03.07.2008 – muito além do prazo de 120 dias previsto no art. 23 da Lei 12.016/2009.
+    2. Não há que se falar em omissão do impetrado (ou relação jurídica de trato sucessivo), porque a pena suspensiva ainda persiste até o pagamento da dívida prevista no art. 37, § 2º da Lei 8.906/1994.
+    3. Agravo regimental do impetrante desprovido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento.
+    É que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no RE 598.365-RG/MG, Rel. Min. AYRES BRITTO, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso ‘elemento de configuração da própria repercussão geral’, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.” (grifei)
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora recorrente.
+    Com efeito, o Supremo Tribunal Federal recusará o apelo extremo sempre que se registrar hipótese, como sucede na espécie, na qual a controvérsia jurídica não se qualifique como tema revestido de repercussão geral.
+    A rejeição, em causa anterior (RE 598.365-RG/MG), do pretendido reconhecimento da existência de repercussão geral referente ao mesmo litígio ora renovado nesta sede recursal impede que se conheça do recurso extraordinário em questão, mesmo porque a repercussão geral supõe, necessariamente, apelo extremo cognoscível, situação de todo inocorrente no caso, eis que o julgamento da causa em análise depende de prévio exame concernente à aplicação de diplomas infraconstitucionais, a evidenciar, quando muito, a ocorrência de ofensa meramente reflexa ao texto da Constituição.
+    Cumpre destacar, ainda, o disposto no art. 326 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, que veicula regra no sentido de a decisão que proclama inexistente a repercussão geral, como aquela proferida no RE 598.365-RG/MG (em tudo aplicável ao presente caso), valer “para todos os recursos sobre questão idêntica”, tal como tem advertido o Plenário desta Corte Suprema (RE 659.109-RG-ED/BA, Rel. Min. LUIZ FUX), motivo pelo qual se mostra evidente a inadmissibilidade, na espécie, do recurso extraordinário em causa.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 14 de agosto de 2019.
+Ministro CELSO DE MELLO
+Relator
