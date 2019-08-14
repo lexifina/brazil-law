@@ -1,0 +1,19 @@
+EMENTA
+PROCESSUAL CIVIL E FINANCEIRO. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. FUNDEF. HONORÁRIOS ADVOCATÍCIOS. RETENÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos por Castro e Dantas Advogados, contra acórdão assim ementado:
+PROCESSO CIVIL E FINANCEIRO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. HONORÁRIOS ADVOCATÍCIOS. FUNDEF. VERBAS PARA EDUCAÇÃO. JUNTADA DO CONTRATO ESCRITO DA VERBA HONORÁRIA. ART. 22, § 4º, DA LEI 8.906/1994. RETENÇÃO. IMPOSSIBILIDADE. ENTENDIMENTO ALTERADO PELA PRIMEIRA SEÇÃO NO RESP 1.703.697/PE. RECURSO ESPECIAL PROVIDO.
+Nas razões dos aclaratórios, a embargante alega erro material na decisão, ao argumento de que o pleito do Parquet encontra óbice nas súmulas 7 e 211 do STJ. Para tanto afirma que "não é objeto da Ação Civil Pública ajuizada pelo MP a eventual verba relativa aos honorários contratuais postulados antes da expedição do requisitório, mediante a apresentação dos respectivos contratos, mas apenas a discussão relativa ao crédito devido ao Município", e que para a reforma da compreensão do Tribunal de origem seria necessário revolver o contexto fático-probatório. Aduz ainda que matéria não se encontra prequestionada, uma vez que o MPF inaugurou a discussão em recurso especial.
+Requer seja considerada a pendência do julgamento quanto à modulação dos efeitos temporais da mudança de entendimento jurisprudencial que fundamentou a decisão ora embargada (REsp 1.703.697/PE), determinando-se o sobrestamento do feito.
+Em impugnação, o MPF sustenta que "a argumentação tecida nos embargos deveria ter sido apresentada em sede de contrarrazões ao recurso especial do MPF, visto que se refere aos óbices de admissibilidade e ao mérito daquele recurso" e que eventual necessidade de sobrestamento do presente feito não configura pressuposto dos aclaratórios, recurso de fundamentação vinculada.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece acolhida.
+Os embargos declaratórios somente são cabíveis para modificar o julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar eventual erro material na decisão.
+In casu, não se verifica erro material na decisão embargada. Constata-se que o tema relativo à impossibilidade de retenção dos honorários contratuais nas verbas do FUNDEF foi discutido no acórdão regional à e-STJ fl. 311 e tal matéria não demanda reanálise de provas.
+Com efeito, o acórdão embargado contém fundamentação clara e suficiente para demonstrar que a Primeira Seção desta Corte, a qual alterou a compreensão anteriormente firmada, estabeleceu que os recursos do FUNDEF/FUNDEB encontram-se constitucional e legalmente vinculados a uma destinação específica, sendo vedada a sua utilização em despesa diversa da manutenção e desenvolvimento da educação básica, sendo inaplicável a regra do art. 22, § 4º, da Lei n. 8.906/1994 na hipótese.
+Desse modo, a questão foi apreciada de modo adequado no acórdão embargado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+Ante o exposto, rejeito os embargos de declaração.
+Determino o desentranhamento da peça às e-STJ fls. 532 a 541, protocolada por equívoco e estranha ao feito.
+Publique-se. Intimem-se.
