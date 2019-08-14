@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por TOMBERLIN INDUSTRIA E COMERCIO DE MOVEIS EIRELI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+TRIBUTÁRIO AGRAVO DE INSTRUMENTO EXCEÇÃO DE PRÉ-EXECUTIVIDADE EXCESSO DE EXECUÇÃO NÃO OCORRÊNCIA CUMULAÇÃO DE MULTA E JUROS LEGALIDADE CARÁTER CONFISCATÓRIO NÃO CARACTERIZADO TAXA SELIC PROCESSO ADMINISTRATIVO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 2º da Lei n. 6.830/80, no que concerne à nulidade das certidões da dívida ativa, trazendo o(s) seguinte(s) argumento(s):
+Da análise das Certidões executadas, constata-se que as Certidões de Dívida Ativa nº FGPR201702377, FGPR201702379 e CSPR201702378, estão constituídas de forma irregular, uma vez que em momento algum foi demonstrada a maneira de se calcular o suposto débito. (fls. 57).
+Simplesmente mencionou-se o total do valor inscrito, já corrigido, constando apenas a disposição legal que, em tese, embasa referida cobrança. (fls. 58).
+Quanto à segunda controvérsia, o recurso especial foi interposto pela alínea "c".
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que o(s) artigo(s) apontado(s) como violado(s) não tem/têm comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Não se conhece do recurso especial, quando o dispostivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula 284 do STF" (AgInt no REsp n. 1.788.417/SC, relator Ministro Gurgel de Faria, Primeira Turma, Dje de 6/6/2019).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.651.670/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18/6/2019; AgInt no REsp n 1.689.883/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 14/6/2019; AgRg no REsp n. 1351593/RS, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 12/3/2014; e AgRg no AREsp n. 197.224/SP, relatora Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), Quinta Turma, DJe de 20/11/2012.
+Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, pois, a despeito de ter sido apontada a alínea "c" do permissivo constitucional e ter havido transcrição de ementa(s), a parte recorrente não indicou expressamente qual o acórdão tido por paradigma, o que impede eventual análise da divergência de interpretações.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
