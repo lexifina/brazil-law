@@ -1,0 +1,34 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568 DO STJ. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Ação civil pública decorrente de expurgos inflacionários das cadernetas de poupança.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A coisa julgada proferida em ação coletiva não se limita aos limites territoriais da jurisdição do órgão sentenciante, e sim aos próprios limites objetivos e subjetivos da lide. Precedentes
+4. Os juros de mora incidem a partir da citação do devedor no processo de conhecimento da Ação Civil Pública quando esta se fundar em responsabilidade contratual, cujo inadimplemento já produza a mora, salvo a configuração da mora em momento anterior. Precedentes.
+5. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+DECISÃO
+Cuida-se de recurso especial interposto pelo BANCO DO BRASIL S/A, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16/04/2019.
+Concluso ao gabinete em: 12/07/2019.
+Ação: civil pública ajuizada pelo Instituto Brasileiro de Defesa do Consumidor - IDEC em face do BANCO DO BRASIL, julgada procedente para condenar a instituição financeira a pagar as diferenças de percentual dos rendimentos da caderneta de poupança, atualmente na fase de cumprimento individual da sentença coletiva.
+Decisão interlocutória: rejeitou a Exceção de Pré-Executividade interposta pelo agravante.
+Acórdão: deu parcial provimento ao recurso interposto pelo agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - EXCEÇÃO DE PRÉ- EXECUTIVIDADE - SOBRESTAMENTO - TEMA DESAFETADO - ILEGITIMIDADE ATIVA E COMPETÊNCIA TERRITORIAL - AFASTADAS - LIQUIDAÇÃO DA SENTENÇA - NECESSIDADE - JUROS DE MORA E CORREÇÃO MONETÁRIA - INCIDÊNCIA - INCLUSÃO DE ÍNDICES DE EXPURGOS INFLACIONARIOS POSTERIORES - POSSIBILIDADE. Na sessão ocorrida no STJ, em 27/0912017, houve desafetação dos recursos especiais 1.361,799/SP e 1.438.263/SP. Não havendo previsão de prazo prescricional para a propositura da Ação Civil Pública, o STJ decidiu pela utilização, por analogia, do prazo quinquenal previsto no art. 21 da Lei n. 4.717165. Tal prazo foi também recomendado para a execução individual da sentença prolatada em ação civil publica. Com o cancelamento dos temas repetitivos 947 e 948 do STJ, devem ser aplicados os entendimentos exarados nos temas repetitivos 723 e 724 do STJ em que se reconhece a legitimidade ativa de todos os poupadores que podem ajuizar ação na localidade de seu domicilio. Os poupadores e/ou seus sucessores têm legitimidade para ajuizarem liquidação de sentença individual de sentença coletiva proferida em ação civil pública, independentemente da comprovação da associação junto ao IDEC.
+Aquele que foi favorecido com uma sentença genérica deve cuidar de promover a liquidação, previamente à execução individual, comprovando a existência de seu crédito e do devido valor, sendo este o caminho escolhido pelo Recorrido. O STJ ao julgar a matéria no REsp 1.370.899/SP, declarou consolidada a tese de que os juros de mora a incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública. A correção monetária, conforme jurisprudência, já há muito pacificada pelo Superior Tribunal de Justiça, do débito exequendo deve ser corrigido desde o momento em que a remuneração da poupança deveria ser feita. Já resta pacifico no STJ que é possível a inclusão no cálculo da correção monetária do débito exequendo em liquidação individual de sentença coletiva de índices de expurgos inflacionários posteriores daquele decido no julgamento da sentença coletiva proferida em ação civil pública.
+E possível o aditamento da inicial para que o cumprimento da sentença seja convertido em liquidação por arbitramento em observância dos princípios da celeridade, economia processual, instrumentalidade e efetividade do processo.
+Recurso especial: alega violação dos arts. 16 da Lei nº 7.374/85; 467, 468 e 469, do CPC; artigo 6º, caput e §3º da LICC, bem como dissídio jurisprudencial. Defende a ausência de legitimidade do recorrido, na medida em que a decisão proferida em sede de ação civil pública está limitada à jurisdição do TJ/DF. Insurge-se contra o termo inicial dos juros de mora, bem como quanto aos juros remuneratórios.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/15.
+- Da ausência de prequestionamento.
+O acórdão recorrido não decidiu acerca dos arts. 467, 468 e 469, do CPC e artigo 6º, caput e §3º da LICC do CPC indicados como violados, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da Súmula 568 do STJ.
+O Superior Tribunal de Justiça detém o posicionamento no sentido de que:
+i) "A coisa julgada proferida em ação coletiva não se limita aos limites territoriais da jurisdição do órgão sentenciante, e sim aos próprios limites objetivos e subjetivos da lide". Precedentes: AgInt no AREsp 1110107/MS, 3ª Turma, DJe de 05/03/2018; AgInt no AREsp 1014142/PR, 4ª Turma, DJe de 04/04/2017 e EDcl no REsp 1243887/PR, CE - CORTE ESPECIAL, DJe 11/05/2016.
+ii) "Os juros de mora incidem a partir da citação do devedor no processo de conhecimento da Ação Civil Pública quando esta se fundar em responsabilidade contratual, cujo inadimplemento já produza a mora, salvo a configuração da mora em momento anterior" (REsp 1370899/SP, Corte especial, Dje de 16/10/2014).
+Dessa forma, incide à espécie o teor da Súmula nº 568 do STJ.
+- Da divergência jurisprudencial.
+A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1579618/PR, 3ª Turma, DJe de 01/07/2016; AgRg no RESP 1283930/SC, 4ª Turma, DJe de 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe de 17/03/2014.
+Forte nessas razões, RECONSIDERO a decisão agravada de fls. 485/486 (e-STJ) e, em novo julgamento, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
