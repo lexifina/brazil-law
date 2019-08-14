@@ -1,0 +1,25 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SEGURO. DPVAT. IMPUGNAÇÃO DO VALOR FIXADO A TÍTULO DE VERBA HONORÁRIA EM SEDE RECURSAL. REVISÃO. POSSIBILIDADE. NOVAS REGRAS: CPC/2015, ART. 85, §§ 2º E 8º. REGRA GERAL OBRIGATÓRIA (ART. 85, § 2º). NECESSIDADE DE OBSERVÂNCIA DA MESMA BASE DE CÁLCULO ADOTADA PELA SENTENÇA. PERCENTUAL DEVIDO. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA A AFERIÇÃO DO TRABALHO ADICIONAL DO ADVOGADO EM SEDE RECURSAL.
+RECURSO ESPECIAL PROVIDO, NOS TERMOS DA FUNDAMENTAÇÃO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto pela SEGURADORA LIDER DO CONSÓRCIO DO SEGURO DPVAT SA em face de acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+RECURSO DE APELAÇÃO - AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT - NULIDADE DA SENTENÇA PARA REALIZAÇÃO DE EXAME COMPLEMENTAR - INVIABILIDADE - PRELIMINAR REJEITADA - EXISTÊNCIA DE LAUDO PERICIAL QUE ATESTA E QUANTIFICA A DISFUNÇÃO DECORRENTE DE ACIDENTE AUTOMOBILÍSTICO - LESÃO DEVIDAMENTE COMPROVADA - RECURSO DESPROVIDO.
+"Não há cerceamento de defesa no julgamento antecipado da lide quando as provas produzidas nos autos, sobretudo a pericial, são suficientes para estabelecer um juízo de certeza a respeito do caso. " (SERLY MARCONDES ALVES, QUARTA CÂMARA DE DIREITO PRIVADO, Julgado em 14/11/2018, Publicado no DJE 22/11/2018).
+"Demonstrado nos autos ter sido a parte autora vitima de acidente automobilístico e que deste resultara lesões que culminaram em seqüela residual e disjunção leve de punho esquerdo de se concluir que faz jus ao recebimento de indenização securitária - DPVAT. " (Ap 48715/2016, DESA. [NOME], SEGUNDA CÂMARA DE DIREITO PRIVADO, Julgado em 03/08/2016, Publicado no DJE 12/08/2016).
+Os embargos de declaração foram rejeitados.
+No recurso especial, a recorrente aponta ofensa ao art. 85, § 2º, do CPC, alegando que (a) os honorários advocatícios foram fixados em quantia exorbitante, já que corresponde a 240% do valor da condenação e (b) a base de cálculo da verba honorária deve respeitar aquela elencada pela sentença, qual seja, a condenação.
+Contrarrazões às e-STJ Fls. 352-355.
+É o relatório.
+Passo a decidir.
+O recurso especial merece prosperar.
+Relativamente à preliminar apontada nas contrarrazões, verifico que o recurso especial cumpriu os requisitos legais e constitucionais exigidos para a sua admissão. Sobre o óbice alegado, a matéria recursal encontra-se devidamente prequestionada.
+Quanto ao mérito, colhe-se dos autos que a sentença condenou a recorrente ao "pagamento da importância de R$ 843,75 (oitocentos e quarenta e três reais, setenta e cinco centavos), devendo incidir juros 1% ao mês e correção monetária - INPC -, àqueles a partir da citação e correção a partir da data do sinistro bem como nas custas processuais e honorários advocatícios que arbitro em 10% (dez por cento), sobre o valor da condenação".
+O Tribunal de origem, ao negar provimento à apelação da recorrente, majorou "os honorários advocatícios de sucumbência para 15% sobre o valor atribuído à causa, nos termos do art. 85, § 11, do CPC".
+O acórdão recorrido não merece prosperar.
+Com efeito, a Segunda Seção, no julgamento do REsp 1.746.072/PR, decidiu que: (a) o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (a.1) da condenação; (a.2) do proveito econômico obtido; ou (a.3) do valor atualizado da causa; (b) o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (b.1) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b.2) o valor da causa for muito baixo (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, DJe de 29/03/2019).
+Ademais, a 3ª Turma do STJ já havia alertado para a necessidade de observância do "padrão de arbitramento utilizado na origem, ou seja, se os honorários foram fixados na instância a quo em valor monetário, por meio de apreciação equitativa (§ 8º), é interessante que sua majoração observe o mesmo método; se, por outro lado, a verba honorária foi arbitrada na origem com base em percentual sobre o valor da condenação, do proveito econômico ou do valor atualizado da causa, na forma do § 2º, é interessante que o tribunal mantenha a coerência na majoração utilizando o mesmo parâmetro" (EDcl no AgInt no REsp 1573573/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/04/2017, DJe 08/05/2017).
+Com relação ao percentual devido, por demandar o revolvimento de aspectos fáticos da causa, devem os autos retornarem ao Tribunal de origem para que, à luz da fundamentação, proceda à nova majoração dos honorários advocatícios.
+Diante do exposto, dou provimento ao recurso especial, nos termos da fundamentação.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (arts. 77, II c/c 1.021, § 4º, do CPC/15).
+Intime-se.
