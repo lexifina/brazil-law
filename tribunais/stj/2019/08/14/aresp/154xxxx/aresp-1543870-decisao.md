@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+ROUBO CIRCUNSTANCIADO EMPREGO DE ARMA DE FOGO CONCURSO DE AGENTES RECONHECIMENTO POR FOTOGRAFIA DEPOIMENTO DAS VÍTIMAS PROVAS - APELAÇÃO NÃO PROVIDA
+1 - O reconhecimento por fotografia, aliado a outros elementos, constitui prova apta a identificar a autoria do crime.
+2 - Nos crimes patrimoniais, a palavra da vítima tem especial relevância, sobretudo se corroborada pelas demais provas dos autos.
+3 - Se as provas não deixam dúvidas que o réu é autor do roubo circunstanciado pelo emprego de arma de fogo e concurso de agentes, descabida a absolvição.
+4 - Havendo mais de uma causa de aumento de pena no crime de roubo - concurso de pessoas e emprego de arma de fogo -, possível usar uma delas na primeira fase, como circunstância judicial desfavorável, e a outra, na terceira fase.
+5 - Apelação não provida.
+Quanto à controvérsia, alega violação do art. 155 do CP, no que concerne à insuficiência probatória para a condenação, trazendo o(s) seguinte(s) argumento(s):
+Ora, Eminentíssimos Desembargadores, as provas colhidas no curso da instrução criminal, apontam claramente que a vitima Elaine e a testemunha Telma divergiram sobre as características do criminoso na data do crime, vide depoimentos judiciais, e depois apontaram o Recorrente por intermédio de fotos extraídas do aplicativo Facebook como sendo seu agressor, e posteriormente, a também vítima [NOME], amigo pessoal do Recorrente, pessoa que teve maior contato com o criminoso que ficou do lado de fora da casa, pois estava interessado no veículo da vitima, NÃO RECONHECEU O RECORRENTE COMO SENDO O CRIMINOSO, o que demonstra claramente um equivoco por parte da vitima Elaine e da testemunha Telma sobre o errôneo reconhecimento realizado das fotos extraídas do aplicativo Facebook. 86. Logo, não há precisão nos depoimentos das vitimas e da testemunha, não devendo o Recorrente, inocente, permanecer preso e recolhido em cárcere, em decorrência de um reconhecimento equivocado por conta de uma suposta conta no aplicativo Facebook. (fl. 443).
+Logo, o acórdão recorrido violou o disposto o artigo 155 do Código Penal, haja vista que não considerou as provas elencadas nos autos, sendo que o Recorrente não praticou nenhum crime, motivo pelo qual deve ser dado provimento ao presente recurso especial, a fim de absolver totalmente o Recorrente. (fl. 444).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
