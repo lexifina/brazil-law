@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRS assim ementado (e-STJ fls. 627/628):
+APELAÇãO CÍVEL. CONTRATOS DO SISTEMA FINANCEIRO DE HABITAÇÃO. AÇÃO DE REVISÃO DE CLÁUSULAS CONTRATUAIS. embargos À execução. julgamento conjunto. aplicabilidade do cdc. rejeitada a alegação de nulidade da sentença. fundamentação suficiente da decisão ALEGAÇÃO DE NULIDADES CONTRATUAIS. CONTRATO DE MÚTUO. CAPITALIZAÇÃO. TABELA PRICE. FORMA DE AMORTIZAÇÃO DO SALDO DEVEDOR. VEDAÇÃO. juros remuneratórios. manutenção da taxa contratada. adequação à limitação legal prevista na lei n.º 8.692/93. momento da amortização do saldo devedor. súmula 450 do sUPERIOR tRIBUNAL DE jUSTIÇA. cobrança de valores relacionados com seguro. admissibilidade. ônus de sucumbência. compensação dos honorários.
+1. Rejeitada a preliminar de nulidade da sentença, uma vez que a decisão atacada apresenta devida fundamentação em relação à todos os pontos debatidos na lide, não se verificando a alegada nulidade.
+2. Aplicação da Súmula 297 do Superior Tribunal de Justiça, segundo a qual, "o Código de Defesa do Consumidor é aplicável às instituições financeiras".
+3. O sistema jurídico nacional veda a capitalização dos juros, exceção feita às hipóteses legalmente previstas (Súmula 93 do Superior Tribunal de Justiça). Sendo a Tabela Price, pela sua fórmula exponencial, geradora do anatocismo, deve ser banida do contrato, contando-se os juros de forma simples e linear.
+4. A amortização do saldo devedor opera-se após a sua atualização, em respeito ao princípio da comutatividade das prestações. Precedentes. Súmula 450 do STJ.
+5. Limitação legal a 12% ao ano, na forma do art. 25 da lei 8.692/93. Inexistência de abusividade, no caso, porquanto a fixação se deu em 12% ao ano (taxa efetiva). O simples fato de a taxa efetiva ser ligeiramente superior à taxa nominal não caracteriza, por si só, a ocorrência de capitalização dos juros. Manutenção da taxa fixada em contrato.
+6. Em relação ao prequestionamento, não há necessidade de o julgador analisar todas as normas constitucionais e infraconstitucionais ventiladas pela instituição financeira demandada.
+7. Redimensionamento da condenação ao pagamento dos ônus de sucumbência da ação revisional, ante a alteração operada. Admitida a compensação dos honorários advocatícios. Súmula 306 do STJ.
+APELO DOS MUTUÁRIOS DESPROVIDO. UNÂNIME. APELO DO BANCO PARCIALMENTE PROVIDO, POR MAIORIA.
+Os recorrentes opuseram embargos de declaração, os quais foram rejeitados (e-STJ fls. 657/662).
+Nas razões recursais (e-STJ fl. 689), fundamentadas no art. 105, III, alíneas "a" e "c", da CF, apontam ofensa aos arts. 2º e 3º, 6º, parágrafo único, do CDC, 4º, 6º, "c", e 25 da Lei n. 4.380/1964, ao Decreto-Lei n. 22.626/1933, à Lei n. 8.100/1990, 115 e 186 do CC/1916 e 778 do CC/2002. Defenderam a aplicação do Código de Defesa do Consumidor aos contratos do sistema financeiro de habitação. Sustentaram a ilegalidade da cobrança dos seguros obrigatórios por "Morte e Invalidez Permanente (MIP)" e "Danos Físicos no Imóvel (DFI). Insurgiram-se contra a forma de amortização do saldo devedor.
+Foram apresentadas contrarrazões (e-STJ fls. 714/719).
+É o relatório.
+Decido.
+CDC
+A Corte estadual considerou "plenamente invocáveis os princípios e regras da lei consumerista, ressaltando, de modo especial, o caráter eminentemente social do empréstimo (SFH) para aquisição da moradia própria e com recursos das cadernetas de poupança" (e-STJ fl. 634).
+Não há interesse em recorrer quanto ao ponto.
+Seguro
+O recorrente, [NOME], afirma que "no decorrer da contratualidade, mais especificadamente, em 1996, informou a Seguradora, ora ré, ser portador do vírus HIV conforme documentos anexos, a qual negou a cobertura sob o argumento de que o mal incapacitante era preexistente" (e-STJ fl. 701). Informa ter ajuizado "ação competente, que tramitou na 2ª Vara do Foro de Tramandai, sob o numero [CPF], a qual restou inexitosa, sobre o fundamento de prescrição, conforme acórdão" (e-STJ fl. 701). Requer a "devolução das parcela referente ao seguro, eis que já lhe foi negado o beneficiado pelo mesmo" (e-STJ fl. 702).
+A pretensão não tem cabimento neste feito, cujo polo passivo é ocupado apenas pela instituição financeira recorrida.
+O Tribunal de Justiça esclareceu a questão (e-STJ fl. 646):
+No que diz com a negativa na cobertura securitária alegadamente ocorrida, ressalto que não é objeto da presente demanda, uma vez que já houve manifestação do Poder Judiciário quanto ao tema, por meio do julgamento da Apelação Cível n.º [CPF]. Deve ser ressaltado que o fato de que em uma oportunidade específica a seguradora se negou a prestar a cobertura, em virtude de discussão de cláusula contratual, não conduz a conclusão de que devem ser devolvidos os valores pagos a título de tal rubrica, uma vez que o seguro esteve válido ao longo da contratualidade.
+A insurgência também se dá em virtude de suposta venda casada, prática proibida pela legislação consumerista, no que diz respeito à escolha das seguradoras. Os recorrentes entendem, em suma, que o valor do seguro deveria ser calculado a preço de mercado, aplicando-se o índice utilizado para a correção da prestação .
+Segundo o acórdão, os demandantes não lograram "êxito em demonstrar a ocorrência de cobranças indevidas ou excessivas a tal título, ônus que lhes incumbia (artigo 333, inciso I, do CPC)" (e-STJ fl. 646).
+Assentada a questão nesses temos, conclui-se que o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado a esta Corte em razão do óbice da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ordem de amortização
+Necessário observar, por fim, que o acórdão impugnado está em conformidade com a jurisprudência do STJ, expressa na Súmula n. 450/STJ, pois, a atualização do saldo devedor deve ser realizada antes, e não após a amortização das parcelas pagas pelo mutuário, em função de o pagamento da primeira parcela ocorrer apenas no mês seguinte ao do empréstimo, evitando, portanto, a discrepância entre o valor real da quantia mutuada e da parcela a ser paga.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
