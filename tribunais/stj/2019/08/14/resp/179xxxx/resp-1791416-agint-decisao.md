@@ -1,0 +1,45 @@
+EMENTA
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AÇÃO DE ADIMPLEMENTO CONTRATUAL. EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. CONTRATO DE PRESTAÇÃO DE SERVIÇO DE TELEFONIA. PRÉVIO REQUERIMENTO ADMINISTRATIVO E DE PAGAMENTO DE TAXA. DECISÃO RECONSIDERADA. AGRAVO INTERNO DE VILMAR E OUTROS PROVIDO. RECURSO ESPECIAL DA OI CONHECIDO E PROVIDO.
+DECISÃO
+Da leitura da petição de agravo de instrumento, pode-se aferir que VILMAR WALTER E OUTROS (VILMAR E OUTROS) propuseram ação de adimplemento contratual com exibição de documentos contra a OI S.A. (OI), objetivando o recebimento de diferencial acionário.
+O Juízo de piso determinou a exibição do contrato de participação financeira celebrado entre as partes.
+O Tribunal de origem negou provimento ao agravo de instrumento interposto pela OI, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - AÇÃO DE ADIMPLEMENTO CONTRATUAL C/C PEDIDO LIMINAR DE EXIBIÇÃO DE DOCUMENTOS - DETERMINAÇÃO JUDICIAL PARA EXIBIÇÃO DE DOCUMENTOS PELA AGRAVANTE - NECESSIDADE DE PRODUÇÃO DE PROVAS PARA O LIVRE CONVENCIMENTO DO JUIZ - PRINCÍPIO DA PERSUASÃO RACIONAL - PRESENTES OS REQUISITOS AUTORIZADORES DA INVERSÃO DO ÔNUS DA PROVA - AGRAVANTE É POSSUIDORA DOS DOCUMENTOS - FALTA DE INTERESSE DE AGIR AFASTADA - DIREITO DA PARTE DE LIVRE ACESSO AO PODER JUDICIÁRIO (ART. 5o, INCISO XXXV DA CF) - AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO (e-STJ, fls. 210/211).
+Os embargos de declaração opostos pela OI foram rejeitados (e-STJ, fls. 237/244).
+Irresignada, a OI interpôs recurso especial, com fundamento no art. 105, III, alíneas a e c, da CF, sustentando, além de dissídio jurisprudencial, violação do art. 100, § 1º, da Lei nº 6.404/76. Alegou, em síntese, que não há interesse processual no pedido incidental, porquanto os autores não requereram o fornecimento dos documentos e informações na via administrativa (e-STJ, fls. 247/270).
+As contrarrazões foram apresentadas (e-STJ, fls. 346/351).
+O recurso foi admitido na origem (e-STJ, fls. 407/408).
+Em decisão monocrática de minha relatoria, dei provimento ao apelo nobre, conforme ementa a seguir consignada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO CPC/73. AÇÃO DE ADIMPLEMENTO CONTRATUAL. EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. CONTRATO DE PRESTAÇÃO DE SERVIÇO DE TELEFONIA. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO E DE PAGAMENTO DE TAXA. RECURSO ESPECIAL PROVIDO (e-STJ, fl. 454).
+No presente agravo interno, VILMAR E OUTROS sustentaram a necessidade de reforma da decisão agravada, para:
+a) reconhecer, inclusive de ofício, a existência dos requerimentos administrativos prévios seqs. 25.21/25.28, que comprovam possuir a parte agravante interesse de agir, uma vez que respeitou os ditames da Súmula nº 389/STJ, não podendo, por conseguinte, ser provido o Recurso Especial interposto, nesse sentido REsp"s nº. 1.791.703/PR e 1.791.982/PR, ambos da 4ª. Turma STJ, anexos; ou
+b) determinar o retorno dos autos ao Tribunal de origem, para que a instância ordinária reexamine a aplicação do artigo 100, § 1º, da Lei nº 6.404/1976 ao pedido incidental de exibição de documentos, em face da existência dos requerimentos prévios seqs. 25.21/25.28, no bojo da ação principal em conformidade com a jurisprudência desta Corte Superior, seguindo o precedente firmado nos autos REsp 1.785.045/PR 3ª Turma STJ, e REsp nº. 1.787.444/PR 4a. Turma STJ, anexos; e
+c) suspender a condenação dos agravantes ao pagamento das custas processuais honorários, pelo prazo legal, em face da benesse da gratuidade de justiça, a qual requer seja mantida/deferida nesta instância (e-STJ, fls. 465/466).
+Foi apresentada impugnação (e-STJ, fls. 489/500).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da reconsideração da decisão agravada
+Tendo em vista as razões apresentadas no presente agravo interno, reconsidero a decisão agravada (e-STJ, fls. 454/458) e passo ao novo exame do recurso especial interposto pela OI.
+Com efeito, a Segunda Seção desta Corte, quando do julgamento do Recurso Especial nº 982.133/RS (Rel. Ministro ALDIR PASSARINHO JUNIOR, DJe 22.9.08), processado nos moldes do art. 543-C, do CPC, consolidou o entendimento de que nas ações em que se postula a obtenção de documentos com dados societários, para a caracterização do interesse de agir, é necessário o requerimento formal na via administrativa, além do comprovante de pagamento da taxa de serviço, quando a empresa o exigir (art. 100, § 1º, da Lei n. 6.404/1976).
+Ademais, o enunciado 389, da Súmula do STJ também é aplicável nas hipóteses de exibição incidental de documentos.
+Anote-se:
+AGRAVO REGIMENTAL NA PETIÇÃO. RECURSO ESPECIAL RETIDO. RECURSO ESPECIAL RETIDO. ART. 542, § 3º, DO CPC PRETENSÃO AO REGULAR PROCESSAMENTO. EXIBIÇÃO INCIDENTAL DE CONTRATO DE PRESTAÇÃO DE SERVIÇO DE TELEFONIA COM CLÁUSULA DE PARTICIPAÇÃO FINANCEIRA. NÃO PAGAMENTO DO CUSTO DO SERVIÇO. SÚMULA 389/STJ.
+ ..
+3. A plausibilidade do direito invocado encontra-se no fato de a questão tratada no recurso especial já ter sido objeto de julgamento pelo Superior Tribunal de Justiça, que tem se posicionado no sentido de ser aplicável o entendimento da Súmula 389/STJ aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira.
+4. Agravo regimental não provido, com aplicação de multa.
+(AgRg na Pet 10.183/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 10/12/13)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. SUBSCRIÇÃO DE AÇÕES. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE INTERESSE DE AGIR. TESE FIRMADA SOB O RITO DOS RECURSOS REPETITIVOS. PRETENSÃO INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. MANUTENÇÃO INTEGRAL DA DECISÃO AGRAVADA.
+ ..
+3. A Segunda Seção desta Corte, quando do julgamento do Recurso Especial nº 982.133/RS (Rel. Ministro ALDIR PASSARINHO JUNIOR, DJe 22.9.08), processado nos moldes do art. 543-C do CPC, consolidou o entendimento de que, nas ações em que se postula a obtenção de documentos com dados societários, para a caracterização do interesse de agir, é necessário o requerimento formal na via administrativa, além do comprovante de pagamento da taxa de serviço, quando a empresa o exigir (art. 100, § 1º, da Lei n. 6.404/1976) 4. Agravo regimental não provido.
+(EDcl no REsp 1.422.940/PR, de minha relatoria, Terceira Turma, DJe 18/6/2015)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DEMANDA ORDINÁRIA DE COMPLEMENTAÇÃO DE SUBSCRIÇÃO DE AÇÕES. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AQUISIÇÃO DE LINHA TELEFÔNICA. EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE PAGAMENTO DO CUSTO DO SERVIÇO. CARÊNCIA DE AÇÃO POR FALTA DE INTERESSE DE AGIR.
+1. De acordo com o entendimento firmado no julgamento do Recurso Especial 982133/RS, afetado à Segunda Seção, com base no procedimento da Lei de Recursos Repetitivos, "falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não lograr demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo 1º da Lei 6.404/1976". Súmula 389 do Superior Tribunal de Justiça (STJ).
+2. O entendimento da Súmula 389 do STJ aplica-se aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira. Precedentes.
+3. Caso em que a parte autora não fez a prévia solicitação administrativa.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 812.092/PR, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 27/5/2016)
+No caso dos autos, o Tribunal de origem concluiu pela inaplicabilidade da Súmula nº 389 desta Corte as demandas que contenham pedido incidental de documentos. Imperioso, assim, o retorno dos autos à origem, para que o Tribunal verifique se, de fato, houve o requerimento administrativo e a negativa, pela OI, do fornecimento dos documentos pleiteados, conforme alegado nas contrarrazões ao recurso especial.
+Nessas condições, DOU PROVIMENTO ao agravo interno de VILMAR E OUTROS para TORNAR SEM EFEITO a decisão de e-STJ, fls. 454/458. CONHEÇO do recurso especial da OI, e DOU-LHE PROVIMENTO a fim de determinar o envio dos autos à origem para que o Tribunal verifique se houve, no caso, pedido administrativo e a negativa de atendimento pela OI.
+Publique-se. Intimem-se.
