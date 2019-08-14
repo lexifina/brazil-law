@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial por incidência das Súmulas n. 7 do STJ e 284 do STF (e-STJ fls. 6.541/6.550).
+O acórdão recorrido está assim ementado (e-STJ fls. 6.290/6.291):
+APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE ENGENHARIA. PROJETO DE ADEQUAÇÃO. SERVIÇOS ADICIONAIS. ALTO GRAU DE COMPLEXIDADE. LAUDO PERICIAL. REQUERIMENTO DE ESCLARECIMENTOS. COMPLEMENTAÇÃO DA PERÍCIA TÉCNICA. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS. DESISTÊNCIA DA OITIVA DAS TESTEMUNHAS ARROLADAS NA INICIAL. DOCUMENTOS EM PODER DE TERCEIRO ESTRANHO À LIDE. FALTA DE PROVAS DO ALEGADO. SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO. ÔNUS DO ART. 373, I, DO CPC/2015. VERBA SUCUMBENCIAL EXCESSIVA. REDUÇÃO. REFORMA PARCIAL DA SENTENÇA.
+- Insurgência do autor contra a sentença de improcedência do pedido, sob o argumento de que a expert deveria buscar o banco de dados de empresa (que não integra esta lide), para analisar o histórico da obra, assim como ouvir os engenheiros que participaram das tratativas e implemento do projeto, na forma do art. 473, § 3º do CPC/2015.
+- Apelante que desistiu da oitiva das testemunhas arroladas na inicial (engenheiros que participaram das negociações e da realização do projeto), mas pretende que sejam aquelas inquiridas pela perita.
+- Em que pese o disposto no art. 473, §3º, do CPC/2015, que permite ao perito diligenciar em busca das informações necessárias à perícia, não se trata isto de um dever, mas uma faculdade do expert na execução de seu mister, uma vez vislumbrada a utilidade daquele atuar, e desde que autorizado pelo Juízo.
+- Prova oral somente pode ser confeccionada em audiência perante um magistrado, e atendendo a basilares princípios de direito processual, dentre eles, o do contraditório.
+- Documentos supostamente comprobatórios dos fatos que se encontram em poder de terceiro estranho à lide, não tendo sido ajuizada a necessária demanda em face do mesmo.
+- Ausência de prova dos fatos constitutivos do direito autoral, a teor do art. 373, I, do CPC/2015.
+- Verba honorária que se reputa elevada, haja vista o valor atribuído à causa, bem assim porque o resultado da segunda sentença não dependeu do atuar do réu, e sim da inércia do autor, razão pela qual impõe-se sua redução para 10% do valor atualizado da causa, na forma do art. 85, caput, §§ 12 e 22, do CPC/2015.
+PROVIMENTO PARCIAL DO RECURSO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 6.326/6.336 e 6.339/6.345).
+No especial (e-STJ fls. 6.349/6.383), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou, além de divergência jurisprudencial, ofensa ao art. 473, § 3º, do CPC/2015, sustentando, em síntese, que o laudo pericial não teria enfrentado de forma adequada os pedidos de esclarecimentos. Acrescentou que "os elementos apresentados pela expert não podem ser considerados, de forma alguma, como "concretos". São, com o devido respeito, dados incompletos, inverídicos, maculados pela utilização de documento forjado pelo ora Recorrido e com base na negativa de análise de diversos documentos juntados pelo Recorrente aos autos, simplesmente ignorados pela profissional, que se ateve a alegar sua inexistência. Isso mudou, completamente, o resultado final da demanda, culminando em grave injustiça" (e-STJ fl. 6.368).
+Requereu ainda a redução do valor fixado a título de honorários advocatícios.
+No agravo (e-STJ fls. 6.627/6.663), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 6.668/6.701).
+É o relatório.
+Decido.
+O TJRJ, ao decidir a demanda, afastou motivadamente a aplicação da tese indicada pelo recorrente. Confira-se (e-STJ fls. 6.299/6.302):
+Destaque-se que foi concedida a oportunidade ao recorrente de obter esclarecimentos sobre o laudo pericial, por meio do acórdão que anulou a primeira sentença (fls. 5.751), haja vista o dever de observância dos princípios do devido processo legal, do contraditório e da ampla defesa (art. 5º, LIV e LV).
+Nada obstante, o autor-apelante não logrou demonstrar os fatos constitutivos do direito pleiteado, ônus que lhe competia, na forma do art. 373, I do CPC/20151.
+(..)
+Em que pese o disposto no art. 473, §3º, do CPC/20152, que permite ao perito diligenciar em busca das informações necessárias à perícia, não se trata isto de um dever, mas uma faculdade do expert na execução de seu mister, uma vez vislumbrada a utilidade daquele atuar, e desde que autorizado pelo Juízo.
+Deveras, o Perito Judicial não está adstrito aos documentos coligidos pelas partes, podendo e devendo solicitar outros que sejam imprescindíveis para seu labor.
+Todavia, referido atuar não pode ser tido como absoluto e tampouco uma obrigatoriedade sem limites, ou melhor, não pode o expert substituir a atividade judicial, perfazendo verdadeira colheita de depoimentos.
+In casu, malgrado a relação jurídica de direito material indicada na exordial seja originária de serviços inicialmente pactuados entre a ré (Estaleiro Brasfels S/A) e a Petrobrás, não poderia o Perito Judicial solicitar - sem expressa determinação judicial - elementos ou documentos de terceiros estranhos aos autos nos quais se discute a celeuma.
+A pretensão de exibição de documento que se alega estar em posse de terceiro deve ser obrigatoriamente dirigida a este, com o qual será estabelecida uma relação processual própria.
+(..)
+E, ainda que tais documentos fossem corretamente requeridos pela parte autora e, finalmente, obtidos, decerto não se prestariam a comprovar quais os serviços repassados à empresa Suporte ou a outras empresas, posto que havia uma verdadeira terceirização de etapas da obra, dada a complexidade do serviço contratado.
+Em tese, tais documentos tampouco teriam o condão demonstrar quais valores seriam devidos ao autor -apelante ou qual a proporção de seus préstimos que teria sido concretizada, haja vista ser a paralisação da obra fato inconteste.
+Dissentir das conclusões do acórdão impugnado para reconhecer que o laudo pericial não teria enfrentado de forma adequada os pedidos de esclarecimentos implicaria reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto na Súmula n. 7 do STJ.
+Da mesma forma, para alterar os fundamentos acima transcritos e reconhecer que os documentos que deixaram de ser requeridos se prestariam a comprovar o fato constitutivo do direito alegado pela parte autora, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Quanto aos honorários advocatícios, a recorrente não apontou qual dispositivo de lei federal teria sido supostamente violado. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Com relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
