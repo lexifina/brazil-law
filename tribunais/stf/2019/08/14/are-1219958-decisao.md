@@ -1,0 +1,21 @@
+Decisão: O Primeiro Grupo Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul julgou improcedente revisão criminal ajuizada pelo ora recorrente, mediante acórdão (eDOC 5, p. 126-129; eDOC 6, p. 1-5) assim ementado:
+    “REVISÃO CRIMINAL. HOMICÍDIO QUALIFICADO (DUAS VEZES). JÚRI. VEREDICTO CONDENATÓRIO. APELAÇÃO MINISTERIAL. PARCIAL PROVIMENTO PELA SEGUNDA CÂMARA CRIMINAL. MAJORAÇÃO DA PENA. FIXAÇÃO DO REGIME INICIAL FECHADO. ARGUIÇÃO DE NULIDADE DO JULGAMENTO DE 2º GRAU. TESE REJEITADA. ADVOGADOS DEVIDAMENTE INTIMADOS DA SESSÃO NA QUAL O APELO FOI JULGADO. COMPETÊNCIA INTERNA. ART. 180, INCISO V DO RITJRS. RELATOR DE ANTERIORES RECURSOS, NO ÂMBITO DA 3ª CÂMARA CRIMINAL, QUE SE REMOVEU À 4ª CÂMARA CRIMINAL, CUJA COMPETÊNCIA É DIVERSA. ENCERRAMENTO DA VINCULAÇÃO, QUE SE RESTRINGE AO RELATOR. INEXISTÊNCIA DE PREVENÇÃO DA 3ª CÂMARA CRIMINAL. DISTRIBUIÇÃO DE ULTERIOR RECURSO, POR SORTEIO, PARA QUALQUER UM DOS DESEMBARGADORES INTEGRANTES DAS CÂMARAS CRIMINAIS QUE DETENHAM COMPETÊNCIA PARA A APRECIAÇÃO DA MATÉRIA. Revisão criminal improcedente. Unânime.”(eDOC 5, p. 126; grifos originais)
+    Daí o recurso extraordinário (eDOC 6, p. 57-73), fundado no art. 102, III, “a”, da Constituição Federal, no qual se alegou ofensa ao art. 5º, inciso LIII, da mesma Carta, e à Súmula 523/STF, além de ter sido ressaltada a repercussão geral das questões constitucionais discutidas no caso.
+    A ora recorrente também interpôs recurso especial (eDOC 6, p. 15-25)
+    O 2º Vice-Presidente do TJ/RS não admitiu os citados recursos (eDOC 6, p. 92-99).
+    Houve, então, a interposição do presente ARE (eDOC 7, p. 6-25) e do AREsp (eDOC 6, p. 108-121).
+    O Presidente do STJ não conheceu do AREsp 1.424.953/RS (eDOC 7, p. 54-55). Após, a Sexta Turma negou provimento ao agravo regimental interposto pela defesa, mediante acórdão (eDOC 7, p. 101-105) transitado em julgado aos 27.6.2019 (certidão; eDOC 7, p. 114).
+    É o relatório.
+    Decido.
+    A presente irresignação recursal não merece prosperar, porquanto a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso, sendo ainda certo que as questões constitucionais deduzidas no RE não foram objeto de decisão no acórdão recorrido.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Dessa forma, incide, no caso, a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido é a jurisprudência desta Suprema Corte:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal e Processo Penal. 3. Crime contra a liberdade sexual (art. 213 c/c art. 214 do Código Penal). 4. Ausência de prequestionamento, incidência das súmulas 282 e 356. 5. Suposta violação aos princípios do devido processo legal, do contraditório e da ampla defesa e da presunção de inocência. A ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. Precedentes. 6. Autoria e materialidade. Necessidade de revolvimento do acervo fático-probatório. Incidência da Súmula 279. 7. Agravo regimental a que se nega provimento. (ARE 948.438 AgR/PE, por mim relatado, Segunda Turma, DJe 23.9.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL E PENAL. AUSÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. ACÓRDÃO FUNDAMENTADO DE FORMA ADEQUADA E SUFICIENTE À DEMONSTRAÇÃO DA CONVICÇÃO DO JULGADOR. CRIME DE FURTO QUALIFICADO. AUTORIA E MATERIALIDADE. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 928.826 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 1º.2.2016)
+    No mesmo sentido: ARE 1.148.612/SE, Rel. Min. Luiz Fux, decisão monocrática, DJe 1º.8.2018; ARE 1.144.653/RJ, Rel. Min. Dias Toffoli, decisão monocrática, DJe 3.8.2018, dentre outros.
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 14º de agosto de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
