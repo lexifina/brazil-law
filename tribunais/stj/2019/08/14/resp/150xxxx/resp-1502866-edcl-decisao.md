@@ -1,0 +1,15 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÕES. VÍCIO DE INTEGRAÇÃO CONFIGURADO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. EFEITOS MODIFICATIVOS TÃO SOMENTE EM RELAÇÃO AO EXPURGO INFLACIONÁRIO.
+DECISÃO
+Trata-se de embargos de declaração opostos por SIDOR INDÚSTRIA E COMÉRCIO LTDA em face da decisão que deu parcial provimento ao seu recurso especial, assim ementada (fl. 876):
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. OMISSÃO QUANTO AOS JUROS DE MORA E CORREÇÃO MONETÁRIA. POSSIBILIDADE DE COMPLEMENTAÇÃO DA DECISÃO. MATÉRIA DE ORDEM PÚBLICA. AUSÊNCIA DE PRECLUSÃO OU COISA JULGADA. CRITÉRIOS DE CORREÇÃO MONETÁRIA E EXPURGOS INFLACIONÁRIOS A SEREM APLICADOS NA COMPENSAÇÃO DOS CRÉDITOS APURADOS DO IRPJ E CSLL. MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL. APLICABILIDADE NA ÍNTEGRA. JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
+A parte embargante aponta, em síntese, omissão no decisum argumentando que em relação à OTN aplicada entre o período de março de 1986 a dezembro de 1988, não foi determinada a substituição pelo expurgo inflacionário no mês de junho de 1987, nos termos da Tabela Única reconhecida pela jurisprudência do STJ, bem como deixou de se manifestar acerca do pedido de levantamento da diferença depositada.
+Sem impugnação.
+É o relatório. Decido.
+Inicialmente, registro que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Os presentes embargos declaratórios merecem acolhimento, haja vista ter sido omissa a decisão embargada relativamente ao levantamento dos valores depositados e ao fato de que não houve a determinação de substituição do percentual do expurgo inflacionário acima especificado.
+Conforme Tabela Única aprovada pela Primeira Seção desta Corte, que agrega o Manual de Cálculos da Justiça Federal e a jurisprudência do STJ e indica os indexadores e os expurgos inflacionários a serem aplicados em liquidação de sentenças proferidas em ações de compensação/repetição de indébito tributário, está especificada a substituição afirmada pela embargante, qual seja: OTN, de março de 1986 a dezembro de 1988, substituído por expurgo inflacionário no mês de junho de 1987.
+Por outro lado, quando ao levantamento dos valores depositados, observa-se nas razões do recurso especial que a recorrente não indicou o dispositivo de lei tido por violada, bem como teceu considerações genéricas sobre a questão, razão por que incide o óbice da Súmula 284/STF, não merecendo ser conhecido o recurso especial, no ponto.
+Ante o exposto, acolho os embargos de declaração para sanar as omissões apontadas, com efeitos infringentes tão somente no pertinente à correção do expurgo inflacionário acima citado.
+Publique-se. Intimem-se.
