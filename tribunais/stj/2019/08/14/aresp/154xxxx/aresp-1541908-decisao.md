@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. ADICIONAL DE INSALUBRIDADE. AUSÊNCIA DE PROVA. ÔNUS DO AUTOR. IMPROCEDÊNCIA DO PEDIDO. SENTENÇA MANTIDA.
+1 - O pagamento de adicional de insalubridade para servidor público está condicionado a atividades exercidas em condições insalubres, desde que devidamente comprovadas e previstas em lei.
+2 - As partes têm o ônus de alegar e ônus de provar conforme nosso CPC; ao autor incube o ônus da prova quanto ao fato constitutivo de seu direito.
+3 - Não tendo a parte autora se desincumbido do ônus de comprovar a pretensão relativa ao recebimento do adicional de insalubridade que teria direito, nos termos do artigo m 373, I, do CPC, a improcedência do pedido é medida que se impõe.
+RECURSO CONHECIDO E DESPROVIDO (fl. 226).
+É o relatório. Decido.
+No que concerne ao recurso apresentado pelo recorrente, sobretudo pela alínea "a", aplica-se, na espécie, o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp n. 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/6/2018).
+Ademais, quanto à alínea "c", incide também o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF" (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
