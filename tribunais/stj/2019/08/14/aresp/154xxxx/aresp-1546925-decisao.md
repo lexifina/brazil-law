@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo Instituto de Previdência dos Servidores do Estado de Minas Gerais contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 342):
+EMENTA: AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. CAUTELAR. APOSENTADORIA POR INVALIDEZ. DEFERIMENTO. DESCUMPRIMENTO INJUSTIFICADO ORDEM JUDICIAL. FIXAÇÃO ASTREINTES. POSSIBILIDADE. RAZÕES RECURSAIS. ATAQUE QUESTÕES [NOME]. DECISÃO DE ADMISSIBILIDADE. EFEITO SUSPENSIVO. INDEFERIMENTO. MANUTENÇÃO.
+I. O pedido de efeito suspensivo em sede de Agravo de Instrumento deve ser apreciado à luz dos requisitos que autorizam a sua concessão, quais sejam, o fundado risco de dano grave, de difícil ou impossível reparação, bem como a probabilidade de provimento do recurso. (art. 995, do CPC/2015)
+II. No caso em exame, os argumentos trazidos pelo Agravante em suas razões recursais, não são suficientes para comprovar situação de risco de dano grave e irreparável, de modo a ensejar a atribuição do efeito suspensivo postulado.
+III. A tese ventilada pelo Agravante revela, uma vez mais, a pretensão de se insurgir contra determinação judicial que a tempo e modo oportunos não foi devidamente questionada, bem como na tentativa de se eximir da responsabilidade do cumprimento da referida obrigação.
+Os embargos declaratórios opostos foram rejeitados, cuja ementa se colhe (fl. 354):
+EMENTA: EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. APOSENTADORIA POR INVALIDEZ. ADMISSIBILIDADE. EFEITO SUSPENSIVO. INDEFERIMENTO. AGRAVO INTERNO. OMISSÃO.
+INEXISTÊNCIA.
+- Nos termos do art 1.022, do CPC/2015, rejeitam-se os Embargos de Declaração quando revelado o propósito de rediscutir a matéria, sem a demonstração da existência de omissão, obscuridade ou contradição na decisão judicial.
+Nas razões do recurso especial, a partes agravante aponta ofensa ao art. 1.022, II, do CPC/15, sustentando, em síntese, que, "o recorrente requereu a manifestação do Tribunal a respeito da ilegitimidade passiva alegada, tendo em vista que não cabe à Autarquia o pagamento de aposentadoria por invalidez de servidor que não faz parte do seu quadro de funcionários. Ressalta-se que o IPSEMG não cumpriu a decisão porque a mesma é inexequível, já que a recorrida era servidora vinculada à Secretaria de Educação, não tendo nenhum vínculo com esta Autarquia. Não se trata de descumprimento e sim de impossibilidade, já que ó recorrente não poderá incluir em sua folha depagamento servidor vinculado à outra pessoa jurídica. Por tudo isso, necessário o deferimento do efeito suspensivo, uma vez que o recorrente está na iminência de sofrer danos irreversíveis, não podendo esperar até a. decisão final deste recurso. E. o dano não é só em relação ao bloqueio, mas também com relação à multa diária. Conforme já dito, como trata-se de decisão inexequível, caso se mantenha a decisão aqui impugnada, o IPSEMG sofrerá as consequências pelo descumprimento da ordem judicial. No entanto, não houve qualquer manifestação no acórdão acerca da ilegitimidade passiva alegada pelo IPSEMG,,ficandcrassim, configurada a omissão." (fl. 362).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Colhe-se da fundamentação do aresto hostilizado a seguinte passagem (fls. 356/357):
+Volvendo aos autos, em que pese à alegação trazida pelo Embargante, constata-se que o acórdão é claro ao consignar que o Agravo de Instrumento interposto pelo ora Embargante ainda está sendo processado sendo que a discussão definitiva será ultimada quando do julgamento do referido recurso pela Turma Julgadora.
+Nota-se, portanto, que o Embargante pretende resolver todas as suas insurgências com interposições de recursos que, em verdade, ocasionará no atraso do julgamento do próprio Agravo de Instrumento.
+Se não bastasse, o ponto levantado pelo Embargante foi até mesmo refutado quando da prolação da decisão que admitiu o Agravo de Instrumento.
+Vejamos:
+Lado outro, tenta eximir-se da responsabilidade a ele atribuida, transferindo-a, exclusivamente, ao Estado de Minas Gerais.
+Ademais, pelo menos neste juizo de cognição sumária, vislumbro que a autora. enquanto servidora pública estadual, junto à Secretaria de Estado da Educação de Minas Gerais, estava vinculada ao Regime Próprio de Previdência do Estado de Minas Gerais.
+Não se nega, está a cargo do IPSEMG a assistência previdência, inclusive a assistência médica, hospitalar, farmacêutica, odontológica e complementar aos servidores públicos estaduais vinculados, como estão, pelo regime de previdência, e aos dependentes destes.
+Logo, a autora estaria amparada pelos beneficios junto ao IPSEMG, por atração do vinculo firmado com o Estado de Minas Gerais.
+Assim, entendo que a simples leitura da decisão que admitiu o Agravo de Instrumento bem como do acórdão que negou provimento ao Agravo Interno evidenciam a fundamentação adotada, que culminou no indeferimento do pedido de efeito suspensivo postulado.
+Ausentes os pressupostos do art. 1.022, do CPC/2015, não ocorre autorização para a oposição do recurso de Embargos de Declaração.
+Assim, verifica-se não ter ocorrido ofensa ao art. 1.022 do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+Ressalte-se que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ANTE O EXPOSTO, nego provimento ao agravo em recurso especial.
+Publique-se.
