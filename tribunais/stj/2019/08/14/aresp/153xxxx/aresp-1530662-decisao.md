@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CRIMINAL CRIMES CONTRA A SAÚDE E INCOLUMIDADE PÚBLICAS TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO (ARTS 33 CAPUT E 35 CAPUT AMBOS DA LEI N 11343/2006) ESTE ÚLTIMO CRIME ATRIBUÍDO SOMENTE A PETERSON E DANDARA DENÚNCIA JULGADA PARCIALMENTE PROCEDENTE CONDENAÇÃO DOS ACUSADOS UNICAMENTE PELO DELITO PREVISTO NO ART 33 CAPUT C/C § 4º DA - REFERIDA LEI RECURSOS DAS PARTES
+Quanto à controvérsia, alega violação do art. 33, § 4º, da Lei n. 11.343/2006 , no que concerne à aplicação da causa de diminuição de pena, trazendo o(s) seguinte(s) argumento(s):
+A douta decisão entendeu que está demonstrada nos autos a habitualidade delitiva de [NOME] porém, concessa venia, não se vislumbra tal condição nos autos, pois não há nenhum fato concreto que tenha sido capaz de sustentar tal conclusão, que culminou no afastamento do privilégio legal reconhecido na sentença.
+ ..
+Conforme o documento de fl. 91, o agente de [NOME] foi quem assinou o relatório em que foram expostas as conversas da rede social do acusado [NOME]. Em juízo o mesmo afirma que desconhece como obteve acesso as conversas, porém, afirma a todo instante que o acusado revendia drogas em Jaraguá do Sul. Com base em que prova
+Como dito, tal postura foi relevante para afastar o reconhecimento de tráfico privilegiado, ou seja, acabou pesando em desfavor do ora recorrente, sem contudo ter sido cabalmente demonstrada, não sendo observado ainda que o ora recorrente tem atividade lícita, bem como, por ocasião dos fatos, era um usuário contumaz de drogas, conforme restou claro nos depoimentos das testemunhas, o que não foi observado no Acórdão recorrido.
+ ..
+Exas. já ficou evidenciado exaustivamente que o recorrente é primário, não se dedica à prática de atividades criminosas, como reconhecido pelo próprio magistrado sentenciante de 1º grau pelo contrário, tinha e tem atividade lícita à época dos fatos, registrando-se ainda, que tem não integra organização criminosa e tem bons antecedentes, sendo mencionado em raras situações pelos policiais (sem nada concreto), preenchendo, por isso, os requisitos da Lei de Drogas, devendo assim ser acolhida a capitulação contida no art. 33, § 4º, da Lei nº 11.343/06, a fim de que seja reconhecida a sua condição de traficante eventual, eis que configurado apenas o tráfico privilegiado.
+Exas. o recorrente cumpre os requisitos legais porque, em conformidade com a Lei, a sua boa conduta social e seus bons antecedentes somam circunstancias judiciais favoráveis para a aplicação da pena em seu mínimo legal, bem como a eventualidade da situação experimentada permite a esta Egrégia Corte o reconhecimento da conduta casual, devendo ser provido o recurso ora manejado, para que haja a redução de 2/3 da pena fixada em 1º grau (fls. 1433/1435).
+É o relatório. Decido.
+Quanto à controvérsia, consta do acórdão recorrido o seguinte:
+Em seu interrogatório, desmentindo a versão apresentada por Peterson, [NOME] admitiu que estava comprando aqueles 100 (cem) comprimidos de ecstasy do codenunciado.
+Por outro lado, se disse usuário de drogas e definiu como "absurda" a denúncia feita em seu desfavor, pois negou comercializar entorpecentes.
+Todavia, em que pese a versão dos denunciados, o conjunto de provas carreado aos autos demonstra, com certeza, a prática do crime de tráfico de drogas.
+Nesse sentido, os policiais civis responsáveis pela prisão dos acusados afirmaram em juízo:
+ ..
+Segundo consta, em razão da intensa comercialização de drogas sintéticas no Estado de Santa Catarina, o nome de Peterson veio à baila durante as investigações policiais.
+Após realizarem alguns monitoramentos, viram-no se encontrar com o codenunciado [NOME], o qual, também durante as investigações, foi apontado como um dos indivíduos que efetuava a venda de entorpecentes sintéticos na região norte do estado.
+Certos de que o único motivo para um encontro entre Peterson e [NOME] seria para negociar tóxicos, a equipe da DRE passou a monitorá-los e, no dia dos fatos, logrou êxito em presenciar uma dessas reuniões.
+Como visto, [NOME] e Peterson, este último na companhia de Dandara, se encontraram em determinado local no bairro Serraria e, após Peterson deixar seu veículo e entrar no carro de [NOME], os policiais efetuaram a abordagem.
+Após revistas, foram encontrados 100 (cem) comprimidos de ecstasy no assoalho do automóvel de [NOME], os quais tinham acabado de ser entregues por Peterson, além da quantia de R$ 1.200,00 (mil e duzentos) reais em posse..cleste_ último, dinheiro que acabara de receber pela venda do entorpecente.
+ ..
+Por último, apesar de classificar a denúncia como um "absurdo", a situação não é diferente em relação a [NOME].
+Ainda que afirme ser usuário, que negue veementemente conhecer Peterson, bem como que não iria comercializar aqueles 100 (cem) comprimidos que seriam para seu consumo, as mensagens encontradas em seu telefone demonstram o contrário.
+Primeiramente, e conforme dito pelo policial [NOME], não obstante [NOME] tenha apagado de seu telefone as mensagens que havia trocado com Peterson antes de ser abordado, o conteúdo permaneceu intacto no celular deste último.
+De lá extrai-se que [NOME] frequentemente fazia grandes encomendas de ecstasy com Peterson, o que demonstra que ambos já mantinham uma relação há algum tempo (p. 63-65).
+Além disso, mas dessa vez chega-se a esta conclusão através de mensagens colhidas do próprio facebook de [NOME], nota-se que ele, também em diversas oportunidades, comercializou entorpecentes (p. 70-77).
+Aliás, o comércio exercido por [NOME] não limitava-se à venda de ecstasy, mas também de lança-perfume e LSD.
+Assim, a manutenção da condenação de [NOME] pelo crime de tráfico de drogas também é medida impositiva, por força do acervo probatório. (fls. 1286/1290)
+Na espécie, verifica-se que a pretensão da parte agravante, de ver reconhecida a violação de dispositivo de lei federal, exige o revolvimento do contexto fático-probatório dos autos, o que inviabiliza o conhecimento do presente apelo ante o óbice da Súmula n. 7/STJ.
+Consigne-se, ainda, que, quanto à alegação de existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a" e obstaculizada pelo enunciado da Súmula n. 7/STJ, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "Ademais, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no AREsp n. 1.312.148/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/9/2018).
+Confiram-se ainda os seguintes precedentes: AgInt no AgInt no REsp n. 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; AgInt no AREsp n. 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018; AgRg no AREsp n. 695.443/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 25/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
