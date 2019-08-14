@@ -1,0 +1,17 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. LEGISLAÇÃO MUNICIPAL DECLARADA INCONSTITUCIONAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535, II DO CPC/1973. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211 DO STJ. AGRAVO DA MUNICIPALIDADE A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu o Recursos Especial interposto pelo MUNICÍPIO DE ANGRA DOS REIS/RJ, com fundamento na alínea a do art. 105, III da Constituição Federal, contra acórdão do egrégio TJ/RJ, assim ementado:
+REPRESENTAÇÃO POR INCONSTITUCIONALI- DADE. LEI 2.267 DE 18 DE DEZEMBRO DE 2009 DO MUNICÍPIO DE ANGRA DOS REIS. DISPÕE SOBRE OS HONORÁRIOS ADVOCATíCIOS CONCEDIDOS A FAVOR DO MUNICÍPIO DE ANGRA DOS REIS. DIVISÃO DO VALOR ENTRE OS PROCURADORES E ASSESSORES JURÍDICOS. LEI COMPLEMENTAR 009 DE 31 DE MAIO DE 2012 QUE REGULAMENTOU A LEI IMPUGNADA. VALOR DOS HONORÁRIOS PASSA A INTEGRAR A ARRECADAÇÃO DO MUNICÍPIO. INCONSTITUCIONALIDADE DA LEI 2.267 E POR ARRASTASMENTO DOS ARTIGOS 53 A 61 DA LEI 009.
+A Lei 2267/09 criou o direito à divisão sobre os honorários advocatícios devidos ao Município de Angra dos Reis, O valor correspondente a esses honorários passa a integrar a arrecadação do Muni- cípio, não pertence aos advogados do Município.
+A Lei nova 9/2012 ratifica, fortalece e revigora esse direito à divisão dos honorários. A Lei antiga integra a Lei nova, que a regulamenta.
+A Lei não foi revogada, não há a perda do obje- to.
+Inconstitucionalidade por arrastamento dos arti- gos 53 a 61 da Lei nova (fls. 208/220) .
+2. Opostos Embargos de Declaração, foram rejeitados (fls. 275/278).
+3. Em seu Apelo Especial inadmitido, o recorrente alega, em suma, violação dos arts. 20, 267, inciso VI, 295, inciso I, 535, inciso II todos do CPC/1973, do art. 2o., parágrafo 2o. da LINDB, dos arts. 23 e 24 da Lei 8.906/1994, do art. 27 da Lei 9.868/1999, requerendo ao final a anulação do acórdão objurgado e o retorno dos autos ao Tribunal de origem para novo julgamento ou, ainda, pugna pela reforma do acórdão impugnado.
+4. É o relatório.
+5. Primeiramente, nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+6. No mais, referente ao art. 535, II do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+7. Ainda, não obstante, a mera alegação de violação dos dispositivos legais não é suficiente para se ter a matéria como prequestionada, instituto que, para sua caracterização, mister se faz, além da alegação, a discussão e apreciação judicial. Com efeito, a jurisprudência desta Corte Superior considera que a ausência de enfrentamento da questão, objeto da controvérsia pelo Tribunal de origem, não obstante a interposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ.
+8. Diante o exposto, nega-se provimento ao Agravo em Recurso Especial da Municipalidade.
+9. Publique-se.
+10. Intimações necessárias.
