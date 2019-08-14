@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo apresentado por ESTADO DO RIO GRANDE DO NORTE contra a decisão que não admitiu seu recurso especial fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM MANDADO DE SEGURANÇA. EXECUÇÃO DE TÍTULO JUDICIAL CONTRA A FAZENDA PÚBLICA NÃO EMBARGADA. REQUISIÇÃO DE PEQUENO VALOR. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE DE JUSTIÇA. MANUTENÇÃO DA DECISÃO. CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 85, § 7º, do CPC, no que concerne ao arbitramento dos honorários advocatícios , trazendo os seguintes argumentos:
+Em primeiro lugar, como já adiantado acima, a orientação contida na Súmula 345-STJ é bastante anterior ao novo CPC e guardava, isto sim, relação com a redação do art. 1º-D da Lei nº 9.494, de 1997.
+Com o advento do novo Código de Ritos, que ganhou eficácia a partir de 18 de março do ano passado, inclusive, o entendimento sumular tende a sofrer modificação em virtude da exegese abrangente do seu art. 85, § 7º.
+Em segundo, corolário do primeiro, a disposição do art. 85, § 7º, do NCPC afasta dúvidas acerca da sua aplicação, também, para o caso da execução individual do título judicial em ação plúrima ou em coletiva, especialmente ao inserir a expressão "que enseje a expedição de precatório", bastante para englobar todo e qualquer procedimento de cumprimento de sentença, em face da Fazenda Pública, que deságue no regime de pagamento tratado no art. 100 da Constituição da República (fls. 379).
+É o relatório. Decido.
+Na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
