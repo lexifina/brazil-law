@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+PENAL E PROCESSO PENAL APELAÇÃO CRIMINAL EMBRIAGUEZ AO VOLANTE RECURSO DO MINISTÉRIO PÚBLICO MATERIALIDADE E AUTORIA COMPROVADAS RECURSO CONHECIDO E PROVIDO
+1. O conjunto probatório, a saber, as declarações das testemunhas policiais, da testemunha que teve seu veículo atingido pelo veiculo do réu e o extrato do exame de etilômetro, é firme e suficiente para comprovar a autoria do crime previsto no artigo 306, § 1º, inciso I, do Código de Trânsito Brasileiro pelo réu.
+2. Recurso conhecido e provido para condenar o réu.
+Quanto à controvérsia, alega violação dos arts. 155 e 386, inciso VII, do Código de Processo Penal, no que concerne à absolvição do acusado em razão da inexistência de provas produzidas em juízo, tendo em vista que o acórdão se baseou exclusivamente em elementos colhidos no inquérito policial para a condenação, trazendo o(s) seguinte(s) argumento(s):
+Analisando detidamente as razões de decidir expostas no Acórdão recorrido verificamos que a autoria delitiva foi comprovada, EXCLUSIVAMENTE, por provas produzidas em sede de Inquérito Policial, o que não merece prosperar, em razão de nítida violação ao disposto no artigo 155 do Código de Processo Penal. (fls. 176).
+ ..
+Contudo, o acórdão deixa de levar em consideração que a única prova judicializada, consistente no testemunho do policial, não se tratou de prova direta dos fatos, ou seja, trata-se de pessoa que não presenciou diretamente o cometimento do suposto crime. Afinal, quando a o policial militar (testemunha) encontrou o recorrente, ele encontrava-se ao lado do carro e não na direção deste, o que evidentemente não constitui crime algum. (fls. 177).
+ ..
+Dessa forma, resta evidente a violação ao referido artigo do CPP, posto que as provas em sede de inquérito utilizadas no Acórdão não possuem o fim de corroborar o testemunho prestado perante o Juiz, e sim formar um entendimento baseado numa linha de raciocínio criado através de provas da fase de investigação; e não há uma pluralidade de provas judiciais que formem uma estrutura que leve ao firme entendimento da autoria. Concomitantemente, ferindo o princípio processual penal da liberdade de convencimento do juiz, e os princípios fundamentais da ampla defesa e do contraditório.
+Consequentemente, há uma clara controvérsia nos fundamentos do Decisium ora recorrido sobre quem foi o autor do delito, posto que a narrativa dos fatos não demonstra que o Recorrente é de fato autor do delito. Devendo, portanto, ser aplicável o que está previsto no artigo 386, VII, do Códex de Processo Penal. In litteris: (fls. 180).
+ ..
+Dessa forma, Eméritos Julgadores, se faz necessária a reformulação da Decisão que deu provimento ito Recurso de Apelação interposto pelo Parque!, tendo em vista a clara violação do art. 155, do Código de Processo Penal, que consequentemente, levou a infração do disposto no art. 386, VII da mesma Legislação. (fls. 183).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
