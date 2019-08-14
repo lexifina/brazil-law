@@ -1,0 +1,24 @@
+Petição/STF nº 32.383/2019
+DECISÃO
+RECURSO EXTRAORDINÁRIO – OBJETO – ALCANCE – AMPLIAÇÃO – INVIABILIDADE – INDEFERIMENTO.
+    1. O Gabinete prestou as seguintes informações:
+    O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à procedência do pedido de ressarcimento de danos ao erário, ante o indevido pagamento de horas extras a servidora ocupante de cargo em comissão, aludindo à legislação de regência.
+    No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 5º, cabeça, 7º, incisos VIII e XVI, e 39, § 3º, da Constituição Federal. Sustenta cabível o pagamento para todos os servidores, independentemente da forma de contratação. Diz tratar-se de regime de dedicação exclusiva, e não integral, insistindo na contrapartida de serviço prestado além da jornada de trabalho. Discorre sobre a não recepção da Lei municipal nº 223/74 pela Carta da República.
+    Em 1º de fevereiro de 2019, o agravo voltado ao destrancamento do extraordinário foi desprovido, em razão do óbice constante do verbete nº 280 da Súmula do Supremo.
+    Em 21 de maio imediato, a Primeira Turma desproveu o agravo interno formalizado.
+    No dia 31 seguinte, a recorrente, mediante petição protocolada por advogado regularmente credenciado, requer seja declarada a prescrição da pretensão autoral, considerado o entendimento do Tribunal sobre a matéria.
+    O processo é eletrônico e encontra-se concluso.
+    2. Observem a dinâmica e a organicidade do Direito, em especial do instrumental. A questão trazida à apreciação do Supremo foi decidida pelo Colegiado, nos termos assim sintetizados:
+    RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL. A apreciação do recurso extraordinário faz-se considerada a Constituição Federal, descabendo interpretar normas locais visando concluir pelo enquadramento no inciso III do artigo 102 da Carta da República.
+    AGRAVO – MULTA – ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. Se o agravo é manifestamente inadmissível ou improcedente, impõe-se a aplicação da multa prevista no § 4º do artigo 1.021 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância protelatória.
+    Descabe, considerada a formalização de simples petição, pretender alargar o alcance da pretensão recursal. A matéria alusiva à prescrição não foi sequer objeto de debate no Tribunal de origem, tampouco veiculada nas razões do extraordinário.
+    Ressalto terem ambas as Turmas do Supremo se manifestado quanto à exigibilidade do prequestionamento, inclusive de matéria de ordem pública. Confiram com as seguintes ementas:
+    TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. IMPEDIMENTO. NULIDADE. PRECLUSÃO. MATÉRIA DE ORDEM PÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO. CONTRIBUIÇÃO PREVIDENCIÁRIA. PROVENTOS DE INATIVOS. PERÍODO ANTERIOR À EMENDA CONSTITUCIONAL Nº 20/1998. POSSIBILIDADE. 1. A jurisprudência do Supremo Tribunal é firme em exigir o regular prequestionamento das questões constitucionais suscitadas no recurso extraordinário, ainda que se trate de matéria de ordem pública. 2. O Supremo Tribunal Federal considera legítima a exigência de contribuição previdenciária sobre proventos de inativos e pensionistas, quando a respectiva cobrança se referir a período anterior ao advento da Emenda Constitucional nº 20/1998. 3. Agravo regimental a que se nega provimento.
+    (agravo regimental em recurso extraordinário nº 424.837, relatado pelo ministro Roberto Barroso na 1ª Turma, acórdão publicado no Diário da Justiça de 22 de maio de 2015).
+    CONSTITUCIONAL E PROCESSUAL TRABALHISTA. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. ART. 5º, II, DA CF. AUSÊNCIA DE PREQUESTIONAMENTO. QUESTÃO DE ORDEM PÚBLICA. NECESSIDADE. SÚMULAS STF 282 E 356. PRESSUPOSTOS DE ADMISSIBILIDADE. INEXISTÊNCIA DE OFENSA À CONSTITUIÇÃO. PRECEDENTES. 1. A circunstância de a matéria poder ser suscitada de ofício pelo julgador por se tratar de questão de ordem pública não afasta o preenchimento do requisito do prequestionamento da matéria, inerente ao cabimento do recurso de natureza extraordinária. Precedentes. 2. Inviável o processamento de recurso extraordinário para debater matéria infraconstitucional, sob o argumento de violação ao artigo 5º, XXXV, LIV e LV, da Constituição Federal. Afronta, se existente, seria reflexa ou indireta. 3. O Tribunal de origem limitou-se a tratar de matéria processual relativa a pressuposto de admissibilidade do recurso de revista, cuja discussão não rende ensejo ao cabimento do recurso extraordinário. Precedentes. 4. Agravo regimental improvido.
+    (agravo regimental em agravo de instrumento nº 714.147, relatado pela ministra Ellen Gracie a 2ª Turma, acórdão publicado no Diário da Justiça de 16 abril de 2010).
+    3. Indefiro o pedido. Devolvam a peça à requerente.
+    4. Publiquem.
+Brasília, 14 de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
