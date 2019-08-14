@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo apresentado por JOSE ROBERTO DE OLIVEIRA BEZERRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - RUA DA GLÓRIA, assim resumido:
+APELAÇÃO DO MINISTÉRIO PÚBLICO RECEPTAÇÃO SIMPLES - ABSOLVIÇÃO NA ORIGEM - AUTORIA E MATERIALIDADE BEM COMPROVADAS ENTANTO PALAVRAS FIRMES E COERENTES DOS AGENTES POLICIAIS A CORROBORAREM A CONFISSÃO NA FASE INQUISITIVA DEFESA QUE NÃO SE DESINCUMBIU DE SEU ÔNUS PROBATÓRIO - DELITO CARACTERIZADO - CONDENAÇÃO DE RIGOR - BASES ACIMA DO MÍNIMO SOPESADAS AS CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS - RÉU REINCIDENTE REGIME FECHADO IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA FÍSICA POR RESTRITIVAS DE DIREITOS AUSENTE O REQUISITO SUBJETIVO - RECURSO PROVIDO
+Quanto à controvérsia, alega violação do art. 155 do Código de Processo Penal, no que concerne à absolvição do acusado em razão da inexistência de provas produzidas em juízo, tendo em vista que o acórdão se baseou exclusivamente em elementos colhidos no inquérito policial para a condenação, trazendo o(s) seguinte(s) argumento(s):
+Em fim, como consequência - haja vista que, das duas pessoas ouvidas neste processo-crime voltado à apuração do delito do art. 180 do CP, nenhuma delas se lembrou do recorrente ou mesmo se ele estaria dentro do carro objeto de ilícito, conduzindo-o -, verifica-se a necessidade de reforma do acórdão vergastado pela absolvição do recorrente (restaurando-se a sentença absolutória de piso). com fulcro no art. 155. caput. do Código de Processo Penal.
+Mercê do exposto, pede-se que seja o presente Recurso Especial conhecido e provido para que, reconhecida a contrariedade do v. acórdão à regra estabelecida no art. 155, caput, do Código de Processo Penal, seja ele reformado para que haja a absolvição do recorrente. (fls. 318/319).
+É o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem decidiu a questão nos seguintes termos:
+Como se vê, a prova é francamente desfavorável ao ora apelado, o qual, frise-se, confessou com detalhes a prática delitiva, por ocasião do flagrante.
+E, respeitado o entendimento da douta sentenciante, o fato de os policiais não se lembrarem do increpado absolutamente não compromete o teor probante.
+Primeiro, natural essa falha, dado o tempo transcorrido entre o fato e a oitiva judicial (18.10.17 fl. 161 e 29.05.18 - fl. 240), além da grande quantidade de ocorrências das quais certamente eles participaram nesse ínterim.
+Ao depois, os agentes públicos confirmaram a apreensão do veículo, que antes estava em movimento, sem falar na presunção relativa de veracidade do auto de apreensão, como todo ato administrativo.
+Aliás, nada crível que policiais forjem flagrante se utilizando de um veículo velho qualquer, apenas para incriminar inocentes. Isso nada tem de usual, sucedendo que cumpria ao recorrido demonstrar esse fato extraordinário, alegado em seu interrogatório judicial.
+ ..
+Por isso que a apreensão da coisa subtraída em poder do agente gera a presunção de sua responsabilidade, invertendo-se o ônus probatório, a impor à defesa prova da licitude ou, ao menos, que não tinha condições de inferir tal circunstância.
+Nada disso ocorreu, como visto. (fls. 291/292).
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
