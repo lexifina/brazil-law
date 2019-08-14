@@ -1,0 +1,16 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO EM RECURSO ESPECIAL DA MUNICIPALIDADE NÃO CONHECIDO.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto com fundamento na alíneas a do art. 105, III da Constituição Federal, no qual o MUNICÍPIO DE CAXIAS DO SUL/RS se insurge contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+CONSTITUCIONAL. MEDICAMENTOS. FORNECIMENTO GRATUITO. DEVER DO ESTADO. RESPONSABILIDADE SOLIDÁRIA. INCIDÊNCIA DOS ARTS. 69, 196 E 197 DA CONSTITUIÇÃO FEDERAL. EXISTÊNCIA DE PERÍCIA MÉDICA DEMONSTRANDO A NECESSIDADE DO TRATAMENTO REQUERIDO.
+Apelações desprovidas (fls. 328/336).
+2. Em seu Apelo Nobre (fls. 343/349), sustenta a parte Agravante ofensa aos arts. 6, 8 e 16, XV da Lei 8.080/1990, por entender que o Município, diante da repartição de competências estabelecida pelo SUS, não tem atribuição de fornecer o medicamento solicitado. Afirma que os documentos juntados aos autos demonstram a competência do Estado pelo fornecimento do fármaco requerido. Sustenta, ainda, existir limitação orçamentária apta a aplicar o princípio da reserva do possível.
+3. Sobreveio juízo negativo de admissibilidade (fls. 410/412), o que ensejou a interposição do presente Agravo (fls. 418/423).
+4. É o relato do essencial.
+5. Inicialmente, nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+6. No mais, verifica-se que a decisão de inadmissão prolatada no Tribunal de origem fundamentou-se na incidência das Súmula 83 do STJ e inviável Recurso Especial para apreciação de ofensa a dispositivos constitucionais. No entanto, da leitura do Agravo denota-se que a parte agravante não impugnou especificamente a aplicação da Súmula 83/STJ ao caso.
+7. Pois bem. Inadmitido o Recurso em razão da dissonância da pretensão com jurisprudência desta Corte, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles, o que não ocorreu na espécie (AgInt no AREsp. 937.859/MS, Rel. Min. OG FERNANDES, DJe 21.11.2018). No mesmo sentido: AgRg no AREsp. 610.496/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 9.3.2016.
+8. Como cediço, a parte, para ver seu Recurso Especial inadmitido ascender a esta Corte precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+9. Com efeito, o Agravo tem por escopo desconstituir a decisão de inadmissão de Recurso Especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados, com o fito de demonstrar o seu desacerto. Dessa forma, à míngua de impugnação pertinente, incide a Súmula 182/STJ.
+10. Ante o exposto, não se conhece do Agravo em Recurso Especial da Municipalidade.
+11. Publique-se.
+12. Intimações necessárias.
