@@ -1,0 +1,14 @@
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DECISÃO RECONSIDERADA. RPV. PRECATÓRIOS. JUROS DE MORA. VALORES ENTRE A DATA DO CÁLCULO E O EFETIVO PAGAMENTO. REPERCUSSÃO GERAL RECONHECIDA PELO STF. TEMA 1037. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+DECISÃO
+Trata-se de Embargos de declaração opostos em face da decisão de minha lavra que sobrestou o processo, haja vista o Tema 810/STF (fl. 2202, e-STJ).
+Em suas razões, o embargante alega que a pretensão recursal coincide, para que determinar que os juros de mora incidam no período compreendido entre a data da realização dos cálculos e da requisição ou do precatório, por aplicação da orientação fixada pelo STF em sede de repercussão geral, no RE 579.431 (Tema 96, STF) e entre a expedição do requisitório e seu efetivo pagamento (tema 1.037)
+Sem impúgnação.
+Com efeito, reconsidero a decisão de fls. 2.202-2.203, tornando-a sem efeito, e passo a nova analise do processo.
+A questão tratada nos autos - Incidência dos juros de mora entre a expedição do Precatório ou da Requisição de Pequeno Valor (RPV) até o efetivo pagamento - teve sua repercussão geral admitida pelo Supremo Tribunal Federal nos autos do RE 1.169.289/SC, Rel. Min. Marco Aurélio, em 15/3/2019 - Tema 1037.
+Consoante a jurisprudência desta Corte, o reconhecimento da repercussão geral da matéria constitucional, nos termos do art. 1.036 do CPC/2015, justifica o sobrestamento, pela instância ordinária, dos recursos especiais, que tragam em seu bojo a mesma questão jurídica a ser definida pelo STF.
+Assim, cuidando-se de recurso especial que versa sobre tema que teve repercussão geral reconhecida, posterior decisão da Suprema Corte poderá afetar o seu julgamento, sendo conveniente o sobrestamento deste recurso, em homenagem aos princípios processuais da economia e da afetividade, com a devolução dos autos ao Tribunal de origem para que seja oportunamente realizado o juízo de conformação ou seja mantido o acórdão recorrido ao que vier a ser decidido pelo Supremo Tribunal Federal, situação que representa o exaurimento da instância ordinária.
+Nesse sentido: REsp 1.486.671/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2014; AgRg no REsp 1.467.551/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 9/9/2014.
+No caso em apreço, observa-se que houve também a interposição de recurso extraordinário na origem (fls. 1.052-1.088, e-STJ).
+Ante o exposto, conheço e dou provimento aos embargos de declaração para determinar a devolução dos autos ao Tribunal a quo para que o exame do recurso especial ocorra somente após o pronunciamento definitivo do STF em sede de repercussão geral, quando então será exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário, nos termos do art. 1.040 do CPC/2015.
+Publique-se. Intimem-se.
