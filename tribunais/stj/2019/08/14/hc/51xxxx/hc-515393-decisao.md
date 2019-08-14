@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado de próprio punho e em favor de WILSON ROBERTO XAVIER, em face de acórdão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO assim ementado (fl. 25):
+AGRAVO EM EXECUÇÃO. Continuidade delitiva. Parcial deferimento pelo magistrado de piso para reconhecer a continuidade em apenas dois delitos. A defesa sustenta, em síntese, que os demais crimes destes PECs também foram praticados pelo agente aproveitando-se das mesmas circunstâncias de tempo, local e modo de execução, apto a reconhecer a continuidade delitiva, nos termos do art. 71, caput, do Código Penal. Impossibilidade. Delitos praticados na mesma comarca, com modus operandi semelhantes, mas diferenças pontuais que impedem o reconhecimento pretendido. Desígnios autônomos do sentenciado. Trata-se de reiteração criminosa e não de continuidade de delitos. Ausentes os requisitos do artigo 71 do Código Penal. Decisão mantida.
+Agravo improvido.
+Consta dos autos que o Juízo das Execuções indeferiu o pleito defensivo de unificação das penas, para fins de reconhecimento da continuidade delitiva.
+Irresignada, a defesa interpôs agravo em execução penal, que foi improvido pelo Tribunal local.
+Daí o presente writ, em que o impetrante-paciente sustenta, em síntese, que estão presentes, na espécie, os requisitos do art. 71, do Código Penal, porque em todos os delitos de roubo objeto das execuções penais em curso, o paciente se utilizou do mesmo modus operandi.
+Requer, liminarmente e no mérito, a concessão da ordem para que se reconheça a incidência do crime continuado na espécie e, com isso, seja aplicada a redução de pena correspondente.
+As informações foram prestadas (fls. 18-52).
+O Ministério Público Federal ofertou parecer, manifestando-se pelo não conhecimento do mandamus (fls. 54-58).
+É o relatório.
+DECIDO.
+Alega a defesa que estão presentes os requisitos da continuidade delitiva no caso vertente, em relação aos delitos de roubo objeto dos processos de execução penal em curso, pugnando pelo seu reconhecimento e, consequentemente, pela concessão da redução de pena daí decorrente.
+O Tribunal de origem negou provimento ao agravo em execução penal defensivo, com base nos seguintes fundamentos (fls. 26-28):
+Devidamente processado, o agravo não comporta provimento.
+Depreende-se dos autos que o sentenciado cumpre pena total de 25 (vinte e cinco) anos e 04 (quatro) meses, por cometimento de diversos crimes de roubo majorados, dispostos no art. 157, § 2º, inciso I, do CP.
+Conquanto tenha solicitado o reconhecimento da continuidade delitiva entre os crimes, a fim de ver reduzida a sanção imposta, tal pedido não merece prosperar, ante a evidente reiteração criminosa.
+O artigo 71, caput, do Código Penal, dispõe:
+"Quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes da mesma espécie e, pelas condições de tempo, lugar, maneira de execução e outras semelhantes, devem os subseqüentes ser havidos como continuação do primeiro, aplica-se-lhe a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, aumentada, em qualquer caso, de um sexto a dois terços".
+Assim, por simples análise dos crimes praticados pelo sentenciado, observa-se que não estão presentes os requisitos necessários para a configuração do crime continuado.
+As cópias dos documentos acostados e manifestação ministerial demonstram que, apesar de todos os roubos terem sido praticados mediante emprego de arma de fogo, seu modus operandi varia.
+No crime do PEC 0001814- 47.2015.8.26.0026, o sentenciado vestiu-se com o uniforme de funcionário da empresa e chamou o gerente pelo nome, o qual prontamente foi rendido e obrigado a entregar o dinheiro do estabelecimento. No crime do PEC 0006288-27.2016.8.26.0026, rendeu primeiramente uma funcionária e ostentou um fone de ouvido, alegando que estava se comunicando com outros agentes que lhe prestariam suporte caso algo saísse de seu controle. No PEC 0006992-40.2016.8.26.0026, manteve a gerente sob seu poder, restringindo sua liberdade até sua saída do supermercado. Por fim, no crime do PEC 0001563-29.2015.8.26.0026 o sentenciado dirigiu-se à sala da gerencia onde prontamente anunciou o assalto.
+Com efeito, para o reconhecimento da continuidade delitiva verifica-se a necessidade de se aferir a intenção do agente de agredir aos poucos o bem jurídico tutelado.
+E nos casos em análise, não existe qualquer comprovação de que havia um plano elaborado de praticar os roubos em sequência, atingindo sucessivamente diversos patrimônios, ainda que em dias distintos.
+Cuidam, sim, de desígnios autônomos do sentenciado. Reiterados exercícios de sua vontade de delinquir, jamais em continuação à conduta anterior.
+Ficou evidenciado que o sentenciado buscava os proveitos dos crimes de forma integral, fazendo da criminalidade meio de vida, evidenciando-se a habitualidade criminosa, e não podendo jamais ser beneficiada com o instituto do crime continuado.
+Desta forma, não preenchidos os requisitos elencados no artigo 71 do Código Penal, inviável o reconhecimento da continuidade delitiva para fins de unificação da pena.
+Ante o exposto, pelo meu voto, nego provimento ao agravo, mantendo-se, in totum, a r. decisão combatida, por seus próprios e jurídicos fundamentos.
+O entendimento do Superior Tribunal de Justiça é assente no sentido de que, além dos requisitos de ordem objetiva, para o reconhecimento da continuidade delitiva, é necessário que se observe a unidade de desígnios ou o vínculo subjetivo entre os crimes.
+Como se vê, o Tribunal de origem asseverou o não preenchimento dos requisitos para o crime continuado, ao considerar que se tratam de desígnios autônomos do sentenciado. Reiterados exercícios de sua vontade de delinquir, jamais em continuação à conduta anterior. Ficou evidenciado que o sentenciado buscava os proveitos dos crimes de forma integral, fazendo da criminalidade meio de vida, evidenciando-se a habitualidade criminosa.
+Deste modo, o reexame da matéria, com vista ao reconhecimento da continuidade delitiva, demandaria o revolvimento do conjunto fático-probatório carreado durante a instrução processual, providência, no entanto, inadmissível na estreita via do writ. Confiram-se precedentes neste sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBOS MAJORADOS TENTADO E CONSUMADO. DOSIMETRIA. APLICAÇÃO DA CONTINUIDADE DELITIVA. ART. 71 DO CP. MODUS OPERANDI DIVERSOS. REQUISITOS LEGAIS NÃO PREENCHIDOS. ALTERAÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Esta Corte, ao interpretrar o art. 71 do CP, adota a teoria mista, ou objetivo-subjetiva, segundo a qual caracteriza-se a ficção jurídica do crime continuado quando preenchidos tanto os requisitos de ordem objetiva - mesmas condições de tempo, lugar e modo de execução do delito -, quanto o de ordem subjetiva - a denominada unidade de desígnios ou vínculo subjetivo entre os eventos criminosos, a exigir a demonstração do entrelaçamento entre as condutas delituosas, ou seja, evidências no sentido de que a ação posterior é um desdobramento da anterior.
+2. Não há continuação delitiva entre roubos sucessivos e autônomos, com ausência de identidade no modus operandi dos crimes, uma vez que verificada a diversidade da maneira de execução dos diversos delitos, agindo o recorrido ora sozinho, ora em companhia de comparsas, não se configura a continuidade delitiva, mas sim a habitualidade criminosa (REsp 421.246/SP, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 15/12/2009, DJe 22/02/2010).
+3. O reexame da matéria, com o propósito de reconhecimento da continuidade delitiva, demanda o revolvimento do conjunto fático-probatório, providência inadmissível na estreita via do writ.
+4. Agravo regimental improvido.
+(AgRg no HC 426.556/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. UNIFICAÇÃO DE PENAS. CONTINUIDADE DELITIVA. REQUISITOS. INVIABILIDADE DE ANÁLISE NA VIA ESTREITA DO HABEAS CORPUS. WRIT NÃO CONHECIDO. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO DESPROVIDO.
+I - Segundo a jurisprudência do col. STF e desta Corte, para efeito de reconhecimento da continuidade delitiva, é indispensável que o agente tenha praticado as condutas delituosas em idênticas condições de tempo, lugar, maneira de execução e outras semelhanças e, ainda, que exista liame a indicar a unidade de desígnios.
+II - No caso, as instâncias ordinárias afastaram a continuidade delitiva por entenderem que não restou demonstrada a unidade de desígnios entre os crimes, que seriam autônomos, o que demonstraria a habitualidade criminosa.
+III - Modificar o entendimento das instâncias ordinárias para reconhecer a figura da continuidade delitiva demandaria necessariamente amplo reexame do acervo fático-probatório, procedimento incompatível com a estreita via do habeas corpus. IV - No presente agravo regimental não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão agravada, devendo ser mantida por seus próprios fundamentos.
+Agravo regimental desprovido.
+(AgRg no HC 423.057/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 06/03/2018, DJe 14/03/2018)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
