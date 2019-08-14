@@ -1,0 +1,37 @@
+Decisão:
+Ementa: Processual Penal. Recurso ordinário em habeas corpus. Prisão preventiva. Réu foragido. Excesso de prazo. Inexistência. Ausência de desídia do judiciário.
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido de concessão de liminar, interposto contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria da Minª. Laurita Vaz assim ementado:
+    “HABEAS CORPUS. PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. RÉU FORAGIDO POR DUAS DÉCADAS. MANDADO DE PRISÃO CUMPRIDO EM ESTADO DIVERSO DO DISTRITO DA CULPA. RECAMBIAMENTO. ALEGAÇÃO DE EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. AUSÊNCIA DE DE DESÍDIA DO JUDICIÁRIO. ORDEM DE HABEAS CORPUS DENEGADA.
+    1. A análise do excesso de prazo na instrução criminal deve ser realizada segundo as peculiaridades do caso concreto e à luz dos princípios da razoabilidade e da proporcionalidade, e não pela simples soma aritmética.
+    2. Na espécie, considerando que a prisão preventiva decretada em 13/09/1999 foi cumprida apenas em 14/06/2018 em Estado da Federação diverso do distrito da culpa, o que motivou a expedição de carta precatória, além da constante movimentação processual, não reputo presentes indícios de desídia ou andamento letárgico do processo que possa ser imputado ao Juízo processante.
+    3. Ordem de habeas corpus denegada, com a recomendação, todavia, à Autoridade Coatora e à Corregedoria dos Presídios do Estado de Goiás de urgente conclusão do recambiamento do Paciente.”
+    2. Extrai-se dos autos que o recorrente foi denunciado pela prática do crime de homicídio qualificado por motivo fútil, mediante disparos de arma de fogo (art. 121, § 2º, II, do Código Penal), supostamente cometido no dia 21.07.1999, na cidade de Ibiúna/SP.
+    3.  Decretada a prisão preventiva pelo juízo de origem, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo, o qual teve a liminar indeferida. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça. A Relatora do HC 495.298, Minª. Laurita Vaz, indeferiu a liminar.
+    4. Na sequência, a Sexta Turma do STJ, por unanimidade denegou a ordem.
+    5.  Neste recurso ordinário, a defesa sustenta a ausência de fundamentação idônea para a decretação da prisão preventiva e alega o excesso de prazo da custódia. Aduz que “o Superior Tribunal de Justiça entendeu que o processo principal está em constante movimentação não havendo indícios de desídia ou andamento lento do processo, o que não coaduna com os princípios basilares da razoabilidade do tramite processo, assim como não condiz com a realidade fática no presente caso”. Afirma que “o Paciente durante o tempo em que esteve em LIBERDADE NÃO ESTAVA COLOCANDO EM RISCO A SOCIEDADE, NÃO TENDO RESPONDIDO OUTRO FEITO DURANTE QUASE 20 ANOS”.
+    6. Com essa argumentação requer “LIMINARMENTE a ORDEM, reformando o r. Acordão proferida pelo Egrégio Tribunal de Justiça, com o consequente JULGAMENTO FAVORÁVEL DO PRESENTE PEDIDO, com a DEFINITIVA CONCESSÃO DA ORDEM DE HABEAS CORPUS, para fazer cessar o constrangimento ilegal que sofre, por ofensa aos prazos processuais, expedindo-se, imediatamente, Alvará de Soltura, a fim de que seja o paciente imediatamente posto em liberdade”.
+    Decido.
+    7. O recurso ordinário não deve ser provido.
+    8. Incide, no caso, a jurisprudência do Supremo Tribunal Federal no sentido de que a “condição de foragido do distrito da culpa reforça a necessidade da custódia para se garantir a aplicação da lei penal” (RHC 118.011, Rel. Min. Dias Toffoli). E o fato é que, tal como assentou o Tribunal de Justiça do Estado de São Paulo:
+    “[…]
+    O Paciente é acusado da prática de homicídio qualificado (motivo fútil), porque teria matado José Marques de Oliveira, mediante disparos de arma de fogo, após desentendimento em jogo de futebol. O fato foi praticado em 21/7/1999 e o Paciente estava foragido. A prisão preventiva foi decretada no dia 13/9/1999, o feito foi suspenso nos termos do artigo 366, do CPP, ocorrendo o cumprimento da ordem no dia 14/6/2018, no Estado de Goiás.
+    […]
+    (…) há prova de materialidade e indícios promissores de autoria (o Paciente é apontado como a pessoa que atirou contra a vítima), e razões de ordem pública recomendam a manutenção dele no cárcere, pois a sociedade deve ser privada do convívio de pessoa que resolve tirar a vida de outra por motivo banal. De mais a mais, a custódia também se justifica para assegurar o andamento regular do feito e a aplicação da lei penal, pois não se pode afastar a possibilidade do Paciente, solto, abandonar novamente o distrito da culpa”.
+    [...]”
+    9. Ademais, dou especial relevância ao entendimento do STJ no sentido de que “considerando que a prisão preventiva decretada em 13/09/1999 foi cumprida apenas em 14/06/2018, ainda, em Estado da Federação diverso do distrito da culpa, bem como a expedição de carta precatória, além da constante movimentação processual, não reputo presentes indícios de desídia ou andamento letárgico do processo que possa ser imputado ao Juízo processante”. Vejam-se os seguintes trechos do voto condutor do acordão proferido pela autoridade impetrada:
+    “[...]
+    Em 14/06/2018 ocorreu o cumprimento da ordem de prisão provisória, no Estado de Goiás.
+    Da movimentação processual, constante no sítio eletrônico do Tribunal estadual, depreende-se que o Juiz sumariante, em 25/07/2018, determinou a citação do Acusado, mediante carta precatória, que apresentou resposta à acusação por seu Advogado constituído nos autos.
+    No dia 20/09/2018, foi determinado pelo Juízo de primeiro grau o recambiamento do réu para um dos estabelecimentos penais do Estado de São Paulo.
+    Em 26/03/2019, considerando a colheita dos depoimentos das testemunhas arroladas pelas Partes e a morosidade do recambiamento, o Juízo processante determinou o interrogatório do réu mediante carta precatória.
+    Nesse contexto, não há falar em desídia do Juiz sumariante quanto ao recambiamento do Paciente à Comarca de origem, visto que o Magistrado solicitou a providência, que não se realizou por circunstância alheia à sua atuação, a qual tem se mostrado diligente, com o prosseguimento da marcha processual que registra movimentação praticamente todos os meses desde a prisão do réu.
+    Aliás, após duas décadas para localizar o Paciente e, desse modo, dar continuidade à persecução penal, a par da prisão preventiva ter sido cumprida em outro Estado da Federação, mostra-se razoável a fluência do prazo na espécie.
+    Como se sabe, a análise do excesso de prazo na instrução criminal deve ser realizada segundo as peculiaridades do caso concreto e à luz dos princípios da razoabilidade e da proporcionalidade, e não pela simples soma aritmética.
+    […]”
+    10. Não bastasse isso, tenho assentado em sucessivos julgamentos perante a Primeira Turma do Supremo Tribunal Federal que, nas hipóteses envolvendo crimes praticados com especial violência ou grave ameaça à pessoa, o ônus argumentativo em relação à periculosidade concreta do agente é menor. Veja-se, nessa linha, o HC 121.208, a que fui designado redator para o acórdão (Sessão de 19.05.2015).
+    11. Diante do exposto, com apoio no art. 192 do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+          Brasília, 14 de agosto de 2019.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
