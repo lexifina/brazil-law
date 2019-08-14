@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ADAIR MARLON DUARTE apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0051325-63.2010.8.19.0000).
+Consta dos autos ter sido o paciente condenado à pena de 27 anos de reclusão, a ser cumprida integralmente no regime fechado, pela prática do crime previsto no art. 159, § 3º, do Código Penal.
+Irresignada, a defesa ingressou com recurso, tendo o Tribunal de origem negado provimento ao recurso.
+Ajuizada revisão criminal, foi essa julgada parcialmente procedente tão somente a fim de afastar a integralidade do regime fechado.
+Impetrado habeas corpus, o Tribunal de origem não conheceu da ordem.
+No presente writ, sustentam os impetrantes a existência de fato novo, de modo que a Corte a quo deveria ter conhecido do remédio constitucional originário.
+Afirmam que, "a uma, a via do habeas corpus, conforme segura jurisprudência dos Tribunais Superiores, é plenamente cabível em face de condenações já transitadas em julgado, e, a duas, que, em função da superveniência de fato novo (item 1 supra), compete ao Tribunal a quo examinar o pedido de error in procedendo junto ao julgado, uma vez que se constituiu em órgão revisor da condenação. Ademais, acaso se impetrasse o writ perante esse SUPERIOR TRIBUNAL DE JUSTIÇA inevitavelmente ocorreria a hipótese de supressão de instância" (e-STJ fl. 6).
+Alegam que, "ante o entendimento jurisprudencial seguro do SUPREMO TRIBUNAL FEDERAL, acerca da plena viabilidade a que se proceda ao depoimento do co-réu delator,  ..  afigura-se manifesto o cerceamento de defesa imposto à Defesa do paciente, ante a negativa de que se procedesse àquelas oitivas" (e-STJ fl. 9).
+Pontuam que a condenação do paciente não foi devidamente motivada.
+Buscam, assim, "seja concedida a presente ordem de habeas corpus, para que seja determinado que o Tribunal a quo aprecie, como entender de direito, o writ lá impetrado" (e-STJ fl. 18).
+Prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 224/226).
+É, em síntese, o relatório.
+Como visto, pugnam os impetrantes seja determinado que o Tribunal a quo examine o mérito do habeas corpus lá impetrado como entender de direito.
+Todavia, não há como acolher o pleito, tendo em vista que a via do writ não é a adequada para alcançar o que se pretendia na origem, cabendo destacar que a alegação de fato novo, posteriormente aviada no habeas corpus originário, não foi formulada na revisão criminal ajuizada.
+Aliás, é de se ver que não competia à Câmara Criminal responsável pelo julgamento do habeas corpus impetrado no Tribunal de Justiça do Estado de São Paulo desconstituir, na via do writ, a coisa julgada material, sobretudo porque se está diante de caso em que já havia sido ajuizada a competente ação revisional, a qual, como dito acima, não sustentou em seu bojo a existência do suposto fato novo, mas tão somente não haver provas para a condenação.
+Logo, inexistindo reparo a ser efetuado no acórdão impugnado, que não conheceu do remédio constitucional, não há como acolher o pleito aqui aduzido.
+Outro não foi o entendimento exarado pelo Ministério Público Federal. Eis a ementa do aludido parecer (e-STJ fl. 224):
+HABEAS CORPUS. EXTORSÃO MEDIANTE SEQÜESTRO COM RESULTADO MORTE. PACIENTE INICIALMENTE CONDENADO À PENA DE 27 ANOS DE RECLUSÃO, EM REGIME INTEGRALMENTE FECHADO, RECURSO DE APELAÇÃO DESPROVIDO. REVISÃO CRIMINAL JULGADA PARCIALMENTE PROCEDENTE, APENAS PARA ESTABELECER O REGIME INICIALMENTE FECHADO. PRÉVIO WRIT IMPETRADO PERANTE O TRIBUNAL A QUO, SOB A ALEGAÇÃO DE SURGIMENTO DE PROVA NOVA, DE QUE NÃO SE CONHECEU. PLEITO DE CONCESSÃO DA ORDEM PARA DETERMINAR AO TRIBUNAL DE ORIGEM QUE APRECIE O WRIT LÁ IMPETRADO. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. INCOMPETÊNCIA DE CÂMARA PARA CASSAR DECISÃO PROFERIDA POR SEÇÃO DO MESMO TRIBUNAL. ADEMAIS, AO CONTRARIO DO QUE ALEGA O IMPETRANTE, A TESE DO SURGIMENTO DE PROVA NOVA NÃO FOI VENTILADA QUANDO DA PROPOSITURA DA AÇÃO REVISIONAL. TAMBÉM NÃO FOI ESCLARECIDO, NA PRESENTE IMPETRAÇÃO, QUAL SERIA A SUPOSTA PROVA NOVA E QUANDO ELA TERIA SURGIDO. QUESTÕES CONTROVERTIDAS INAPRECIÁVEIS NA VIA ELEITA. PARECER PELA DENEGAÇÃO DA ORDEM.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
