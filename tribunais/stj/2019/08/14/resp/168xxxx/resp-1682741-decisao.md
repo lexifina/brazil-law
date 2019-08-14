@@ -1,0 +1,59 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/73. AFIRMADA VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA DE OFENSA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 284 DO STF. EXECUÇÃO. EXTINÇÃO DO PROCESSO POR ABANDONO. INTIMAÇÃO PESSOAL. ART. 267, II e III, § 1º DO CPC/73. EFETIVAÇÃO POR CARTA REGISTRADA. MUDANÇA DE ENDEREÇO. AUSENCIA DE INFORMAÇÃO AO JUÍZO. VALIDADE DA INTIMAÇÃO. REQUERIMENTO DA EXECUTADA. DESNECESSIDADE. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+BANCO NACIONAL DE INVESTIMENTOS S.A - EM LIQUIDAÇÃO JUDICIAL (BANCO NACIONAL) ajuizou ação de execução de título extrajudicial contra [NOME] ([NOME]), tendo o processo sido extinto, sem resolução do mérito (art. 267, II, do CPC/73), por abandono da causa que estava parada por mais de um ano.
+A apelação interposta pelo BANCO NACIONAL não foi provida pelo Tribunal de origem, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. ABANDONO DA CAUSA POR MAIS DE UM ANO. INTIMAÇÃO PESSOAL DO AUTOR PARA MANIFESTAÇÃO EM 48 HORAS. MUDANÇA DE ENDEREÇO NÃO COMUNICADA NOS AUTOS. INTIMAÇÃO CONSIDERADA VÁLIDA.
+I - Consta da regra inserta no art. 238, parágrafo único, CPC, que é ônus das partes atualizar o respectivo endereço sempre que houver modificação temporária ou definitiva, presumindo-se válidas as comunicações e intimações dirigidas ao endereço residencial ou profissional declinado na inicial.
+II - Decide acertadamente o magistrado sentenciante que, após determinar a intimação pessoal da parte autora, extingue o feito, sem resolução de mérito, por abandono da causa, eis que se presumem válidas as comunicações processuais dirigidas aos endereços declinados nas peças processuais, constituindo ônus das partes, de seus representantes legais e advogados respectivos, mantê-los atualizados.
+III Apelação desprovida (e-STJ, fl. 202).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 236/242).
+Inconformado, BANCO NACIONAL interpôs recurso especial, com fundamento no art. 105, III, a e c, da CF, alegando violação dos arts. 247, 267, § 1º e 535 do CPC/73, sustentando que (1) apesar dos embargos de declaratórios, o Tribunal a quo não sanou os vícios lá apresentados; (2) o processo não poderia ter sido extinto porque não foi intimada pessoalmente para movimentar o feito, haja vista que a carta enviada foi devolvida com o aviso de "mudou-se", devendo ter sido esgotado todos os meios necessários para a sua efetivação, inclusive com citação por edital; (3) não foi observada a Súmula nº 240 do STJ; e, (4) o acórdão recorrido divergiu de outros julgados dos Tribunais pátrios.
+Sem contrarrazões do recurso especial (e-STJ, fl. 285).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que as disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ na Sessão de 9.3.2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+ (1) Da violação do art. 535 do CPC/73.
+Verifica-se, no ponto, a deficiência na fundamentação do recurso especial com relação a alegada ofensa ao art. 535 do CPC/73, haja vista que o BANCO NACIONAL não demonstrou ou apontou qual o ponto omisso, obscuro ou contraditório do acórdão recorrido, tendo apenas alegado, de forma genérica, que o acórdão que julgou os embargos de declaração não sanou os vícios apontados nos aclaratórios.
+Com efeito, cabia a ele detalhar e/ou demonstrar, de forma clara, precisa e fundamentada, como e em que medida o acórdão recorrido teria afrontado o referido dispositivo legal, o que não ocorreu, revelando a deficiência na fundamentação. Portanto, incide no caso, por analogia, a Súmula nº 284 do STF, in verbis: é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+ A propósito, os seguintes julgados desta eg. Corte Superior:
+AGRAVO REGIMENTAL INTERPOSTO SOB A ÉGIDE DO CPC/1973. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SÚMULA N. 410 DO STJ. NÃO CONHECIMENTO. OFENSA AO ART. 535 DO CPC/1973. SÚMULA N. 284 DO STF. ART. 475-C, II, DO CPC/1973. FORMA DE LIQUIDAÇÃO. REVISÃO. SÚMULA N. 7 DO STJ. ART. 412 DO CPC/1973. NÃO IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. ARTS. 461, § 4º, 461-A E 632 DO CPC/1973. FIXAÇÃO DE PRAZO PARA CUMPRIMENTO DA DECISÃO. IMPOSSIBILIDADE DE VERIFICAÇÃO. ART. 645 DO CPC. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. BASES FÁTICAS DISTINTAS.
+1. É inviável o conhecimento do apelo especial em relação à alegação de ofensa a súmula, tendo em vista que tal enunciado não tem a natureza de lei federal, não podendo, portanto, ser objeto de discussão em recurso especial.
+2. Atrai a incidência do óbice previsto na Súmula n. 284 do STF a alegação de que o art. 535 do CPC foi violado desacompanhada de argumento que demonstre efetivamente em que ponto o acórdão embargado permaneceu omisso.
+3. Aplica-se a Súmula n. 7 do STJ quando o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+5. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+6. Não se conhece da divergência jurisprudencial quando os julgados dissidentes tratam de situações fáticas diversas.
+7. Agravo regimental desprovido.
+(AgRg no REsp nº 1.540.980/RR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado aos 2/6/2016, DJe de 9/6/2016, sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CADERNETA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. SUPOSTA OFENSA AO ART. 535 DO CPC/73. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. EXIBIÇÃO DOS EXTRATOS BANCÁRIOS. DEMONSTRAÇÃO DE INDÍCIOS MÍNIMOS DA EXISTÊNCIA DA CONTRATAÇÃO. AGRAVO NÃO PROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp nº 1.169.135/RJ, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado aos 12/4/2016, DJe de 22/2/2016, sem destaque no original).
+
+(2) Da violação dos arts. 247, 267, § 1º, do CPC/73.
+BANCO NACIONAL sustentou que não foi intimada pessoalmente para dar andamento ao processo e não houve esgotamento de todos os meios para promover o ato judicial.
+O Tribunal a quo, a respeito do tema, consignou que era ônus da parte atualizar endereço, e omitindo-se as partes ou advogado, reputar-se-ão válidas as intimações enviadas por carta registrada, no endereço constante dos autos, cabendo à parte noticiar a sua mudança de endereço, prescindindo de requerimento da executada a extinção do feito.
+Verifica-se que o acórdão recorrido decidiu em perfeita harmonia com a jurisprudência dominante desta eg. Corte Superior, que já proclamou (1) a validade da intimação da parte autora promovida no endereço declinado nos autos, a fim de extinguir de ofício o processo por abandono de causa, nos termos do artigo 267, II e III, do CPC/73, devendo a parte e seu patrono arcarem com os efeitos da desídia ao não atualizar o endereço para o qual sejam dirigidas as comunicações processuais; e (2) o requerimento do executado para extinção da execução somente é necessária nos casos em que ela é embargada.
+Nesse sentido, entre outros, os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXTINÇÃO DO PROCESSO. ABANDONO DE CAUSA. 1. VALIDADE DA INTIMAÇÃO PESSOAL. ENDEREÇO FORNECIDO PELA AUTORA NA INICIAL. AUSÊNCIA DE INFORMAÇÃO AO JUÍZO DE EVENTUAL MUDANÇA. 2. DESNECESSIDADE DE REQUERIMENTO DO EXECUTADO PARA EXTINÇÃO DA EXECUÇÃO. INCIDÊNCIA DA SÚMULA 83/STJ. 3. ASSERTIVA DE QUE NÃO HOUVE DE DE EFETIVA INTIMAÇÃO. REEXAME DE FATOS E PROVA. INCIDÊNCIA DA SÚMULA 7/STJ. 4. AGRAVO REGIMENTAL DESPROVIDO.
+1. É válida a intimação da autora promovida no endereço declinado por ela nos autos, a fim extinguir o processo por abandono de causa, porquanto a parte e seu patrono são responsáveis pela atualização do endereço para o qual sejam dirigidas as intimações necessárias, devendo suportar os efeitos decorrentes de sua desídia.
+2. É necessário o requerimento do executado para a extinção da execução somente nos casos em que a execução é embargada.
+3. A assertiva de que não foi efetivada intimação, reclama reexame de prova e fatos, o que é vedado na instância especial pela Súmula 7 desta Corte.
+4. Agravo regimental desprovido.
+(AgRg no REsp nº 1.495.046/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 1º/9/2016, DJe de 12/9/2016, sem destaque no original).
+RECURSO ESPECIAL. EXTINÇÃO DA AÇÃO POR ABANDONO DO AUTOR. REGULAR INTIMAÇÃO PARA QUE DÊ ANDAMENTO AO FEITO. NÃO ATENDIMENTO. NECESSIDADE DE REQUERIMENTO DO EXECUTADO QUANDO EMBARGADA A EXECUÇÃO. EMBARGOS DO DEVEDOR COM TRÂNSITO EM JULGADO. CRÉDITO EXEQUENDO CERTO. EXTINÇÃO SEM REQUERIMENTO, MAS COM CONCORDÂNCIA EXPRESSA DO RÉU EM CONTRARRAZÕES DE APELAÇÃO.
+1. Aplica-se a teoria da aparência para reconhecer a validade da citação via postal com aviso de recebimento (AR), efetivada no endereço da pessoa jurídica e recebida por pessoa que, ainda que sem poder expresso para tanto, a assina sem fazer nenhuma objeção imediata.
+2. Nos termos da Súmula 240 do Superior Tribunal de Justiça, a extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu, tendo em vista a necessidade de ser facultado ao demandado opor-se à extinção da demanda por não ser a ação um direito apenas do autor, mas também parte passiva, em determinadas circunstâncias.
+3. A jurisprudência deste Tribunal Superior, aperfeiçoando o entendimento sobre a matéria, entende que a extinção do processo, por abandono da causa pelo autor, necessita de requerimento do réu apenas nos casos em que for embargada a ação/execução, por não ter havido, nesses casos, a integração do requerido à lide, justificando, assim, sua manifestação acerca da extinção.
+4. Com o julgamento de embargos do devedor, o crédito exequendo apresenta-se estabilizado, sólido, tendo sido com isso satisfeito o direito do executado a ter um julgamento de mérito, ao mesmo tempo que se constata uma situação que apenas excepcionalmente será modificada.
+5. Não pendendo decisão nos embargos de devedor e seguindo a execução seu curso, é de concluir pelo desinteresse do executado nesse prosseguimento e, consequentemente, a desnecessidade de seu requerimento quanto a esse fim.
+6. No caso dos autos, a falta de impugnação da sentença de extinção por parte da executada, e as declarações das contrarrazões, hão de ser encaradas como a vontade de não dar seguimento ao feito, ou seja, como demonstração de desinteresse para continuidade da execução, capaz de suprir o requerimento para a extinção.
+7. Recurso especial a que se nega provimento.
+(REsp nº 1.355.277/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado aos 15/12/2015, DJe de 1º/2/2016, sem destaque no original).
+Incidência, portanto, das Súmulas nº 83 e 568 do STJ.
+Diante disso, NEGO PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
