@@ -1,0 +1,14 @@
+DECISÃO
+[NOME] ROSA alega sofrer coação ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul no Agravo n. 0048162-55.2019.8.21.7000).
+A Defensoria Pública busca a unificação das penas da paciente (originárias dos Processos n. 001/2.14.0036012-7 e 001/2.13.0064044-6) com o reconhecimento da continuidade delitiva entre dois crimes de tráfico, uma vez que estão satisfeitos os requisitos do art. 71 do CP.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+Decido.
+Este Superior Tribunal, ao interpretar o art. 71 do CP, adotou a teoria objetivo-subjetiva para a aplicação da ficção legal, segundo a qual é necessário que estejam preenchidos, cumulativamente, requisitos de ordem objetiva (pluralidade de ações, mesmas condições de tempo, lugar e modo de execução) e de ordem subjetiva, assim entendido como a unidade de desígnios havida entre os eventos delituosos.
+Exige-se um elemento subjetivo para o reconhecimento da continuidade delitiva; uma espécie de propósito inicial que culmina na realização encadeada de condutas criminosas homogêneas, de forma a beneficiar com o tratamento benevolente somente os não contumazes violadores da norma penal.
+In casu, o aresto recorrido está em conformidade com os precedentes desta Corte, pois o Tribunal salientou a impossibilidade de aplicação do art. 71 do CP, porquanto a "apenada que demonstra fazer do crime o seu meio de vida, evidenciando se tratar de criminosa habitual" (fl. 295).
+Consoante a moldura fática do decisum, a apenada ostenta quatro condenações por tráfico de drogas. Ela "é contumaz criminosa" (fl. 297). e os delitos não foram praticados em similares condições de tempo, pois ocorreram com intervalo de tempo superior a 30 dias, em 15/7/2013 e 4/9/2013. As ações perpetradas revelam que a paciente possui como seu modo de vida a prática de infrações penais, o que afasta o benefício legal.
+Nesse contexto, justificado de maneira idônea o não preenchimento dos requisitos objetivo e subjetivo, não é possível reconhecer a continuidade delitiva.
+Confira-se: "não é possível o reconhecimento da continuidade delitiva na hipótese em que o agente faz da prática criminosa uma habitualidade" (AgRg no HC n. 441.147/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 26/3/2019)
+Ademais: "Para fins da aplicação do  ..  crime continuado  .. . Em relação ao critério temporal, a jurisprudência  ..  utiliza como parâmetro o interregno de 30 dias. Importante salientar que esse intervalo de tempo serve tão somente como parâmetro, devendo ser tomado  ..  diante das peculiaridades do caso concreto" (REsp n. 1.767.902/RJ, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 4/2/2019).
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
