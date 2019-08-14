@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo apresentado por MAURICIO MARACCI contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO APOSENTADORIA ESPECIAL CERCEAMENTO DE DEFESA NÃO CONFIGURAÇÃO ATIVIDADE ESPECIAL RUÍDO RADIAÇÃO IONIZANTE TENSÃO ELÉTRICA ENQUADRAMENTO PARCIAL REQUISITOS NÃO PREENCHIDOS APELAÇÃO DA PARTE AUTORA CONHECIDA E PARCIALMENTE PROVIDA
+É o relatório. Decido.
+Verifica-se da petição de recurso especial que o recorrente indicou artigo de lei violado, deixando informar qual o diploma legal que o dispositivo pertence. Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que "as razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o julgado recorrido deve ser reformado. A narrativa acerca da legislação que rege o tema em debate, sem que se aponte a contrariedade ou a negativa de vigência pelo julgado recorrido, não preenchem os requisitos formais de admissibilidade recursal" (AgInt no REsp n. 1.532.990/MT, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/2/2019).
+Confiram-se ainda os seguintes precedentes: AgRg nos EDcl nos EDcl no AREsp n. 334.099/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 22/11/2018; AgInt no AREsp n. 1.261.044/AM, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 12/9/2018; e AgInt no AREsp n. 1.291.631/GO, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 30/8/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
