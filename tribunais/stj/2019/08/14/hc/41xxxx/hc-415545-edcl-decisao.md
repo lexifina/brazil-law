@@ -1,0 +1,31 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. DIREITO PENAL MILITAR. CRIMES DE CONSTRANGIMENTO ILEGAL E DE VIOLAÇÃO DE DOMICÍLIO. SUSPENSÃO CONDICIONAL DO PROCESSO. ART. 84, I, DO CPM. INDEFERIMENTO. OMISSÃO. EXCEÇÃO PREVISTA NO ART. 71, § 1º, [NOME]. EXISTÊNCIA DE AÇÃO PENAL. FATOR IMPEDITIVO DO BENEFÍCIO. PRECEDENTES.
+Embargos de declaração não acolhidos.
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão da minha lavra, em que deneguei a ordem impetrada (fls. 224/227), eis a ementa do julgado:
+HABEAS CORPUS. EXECUÇÃO PENAL. DIREITO PENAL MILITAR. CONSTRANGIMENTO ILEGAL E VIOLAÇÃO DE DOMICÍLIO. SUSPENSÃO CONDICIONAL DO PROCESSO. ART. 84, I, DO CPM. INDEFERIMENTO. TRÂNSITO EM JULGADO DE CONDENAÇÃO ANTERIOR À PROLAÇÃO DA SENTENÇA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+Em linhas gerais, sustenta o embargante a omissão quanto à análise do art. 71, § 1º, do CPM (fl. 235), aduzindo que,  ..  ao denegar a ordem, apenas foi mencionado o teor do art. 84, inciso I, do CPM, sem, portanto, analisar a exceção trazida por este dispositivo. Ressalta-se que a insurgência que justificou a impetração do presente remédio heroico foi justamente a exceção trazida no referido dispositivo legal quando, in fine, menciona: "salvo o disposto no 1º do art. 71". E por isso a presente oposição de Embargos Declaratórios, eis que não foi analisada a exceção do art. 71, § 1º, do CPM. Como referido na peça do Habeas Corpus, o embargante não era reincidente ao tempo da prolação do decreto condenatório, sendo indevido, assim, o indeferimento do sursis bienal, sendo plenamente viável a sua concessão no presente momento (fl. 235).
+Pugna, então, pelo recebimento e provimento dos presentes embargos para que seja sanada a omissão aqui lograda, eis que não fora analisada a exceção do art. 71, § 1º, do CPM, e, posteriormente, seja concedido ao embargante MAURO QUADROS DE OLIVEIRA o benefício do sursis bienal, nos termos do art. 608, do CPPM (fl. 239).
+Em sua impugnação (fls. 246/254), o Ministério Público Federal manifestou pelo conhecimento e desprovimento dos aclaratórios, apontando que  ..  a decisão impugnada enfrentou a questão de forma adequada (fl. 250) e aduzindo que  ..  não há omissão a ser sanada tampouco constrangimento ilegal, tendo em vista que o ora embargante sofreu condenação irrecorrível por outro crime, o que, apesar de não configurar a reincidência, impede a concessão da suspensão condicional da pena, consoante a norma do art. 84, I do Código Penal Militar (fl. 253).
+É o relatório.
+Os presentes embargos devem ser conhecidos, já que reúnem os requisitos de admissibilidade.
+Ao que se tem, a ordem foi denegada, ao fundamento de que,  ..  na prolação da sentença, o ora paciente já tinha sofrido condenação transitada em julgado, nos termos do art. 84, I, do CPM: Art. 84 - A execução da pena privativa da liberdade, não superior a 2 (dois) anos, pode ser suspensa, por 2 (dois) anos a 6 (seis) anos, desde que: I - o sentenciado não haja sofrido no País ou no estrangeiro, condenação irrecorrível por outro crime a pena privativa da liberdade, salvo o disposto no 1º do art. 71 (fl. 227).
+Então, tem-se que o embargante pretende que lhe seja concedido o benefício da suspensão do processo, na ação penal que o condenou a 8 meses de detenção, pela prática dos crimes militares de constrangimento ilegal e de violação de domicílio, dizendo que a decisão hostilizada se omitiu quanto à exceção do art. 71, § 1º, do CPM.
+Transcreve-se, assim, o teor do dispositivo legal citado:
+Reincidência
+Art. 71. Verifica-se a reincidência quando o agente comete novo crime, depois de transitar em julgado a sentença que, no país ou no estrangeiro, o tenha condenado por crime anterior.
+Temporariedade da reincidência
+§ 1º Não se toma em conta, para efeito da reincidência, a condenação anterior, se, entre a data do cumprimento ou extinção da pena e o crime posterior, decorreu período de tempo superior a cinco anos.
+Assim, tem-se que a primeira condenação transitou em julgado, em janeiro de 2014, Processo n. 2731 (fl. 129), e os fatos delituosos objeto da segunda ação penal, Processo n. 3404-73.2012.9.21.0003, aconteceram em 6/3/2012 (fl. 22).
+Ocorre  ..  que, conquanto os inquéritos em andamento não configurem obstáculo à proposta do sursis processual, a existência de ação penal, com ou sem condenação, é fator impeditivo do benefício, a teor da jurisprudência deste Superior Tribunal de Justiça, em consonância com a do Supremo Tribunal Federal (HC n. 36.132/BA, Ministra Laurita Vaz, Quinta Turma, DJ 29/8/2005).
+Nesse mesmo sentido:
+RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. SUSPENSÃO CONDICIONAL DO PROCESSO. ART. 89 DA LEI 9099/95.INICIATIVA DA PROPOSTA. DIVERGÊNCIA. REQUISITOS SUBJETIVOS. EXISTÊNCIA DE PROCESSOS EM CURSO. IMPOSSIBILIDADE.
+ ..
+Já é pacífico o entendimento de que para a concessão do sursis processual, nos termos do art. 89, da Lei 9.099/95, impõe-se a presença de pressupostos subjetivos, dentre os quais sobreleva a inexistência de processos em andamento ou ainda de sentenças pendentes de recursos. (Precedentes).
+"Só é possível a proposta da suspensão do processo, nos termos do art. 89 da Lei 9.099/95, se não há condenação contra o acusado e ainda se ele não responde a outro processo criminal. Requisito legal que não ofende o princípio constitucional da presunção de não culpabilidade." Recurso conhecido e provido.
+(REsp n. 627.608/SP, Ministro José Arnaldo da Fonseca, Quinta Turma, DJ 13/9/2004)
+Suspensão condicional do processo: revogação. 1. Nos termos do art. 89 da L. 9.099/95 - cuja constitucionalidade foi reconhecida pelo plenário, em 16.12.99, no RHC 79.460, Nelson Jobim, DJ 18.5.01 - não cabe a suspensão condicional do processo quando o acusado esteja sendo processado ou já tiver sido condenado por outro crime. 2. Não satisfeito o "pressuposto negativo" imposto pela própria lei, pode ser revogado o benefício por decisão proferida após o período de prova, embora haja de fundar-se em fatos ocorridos até o termo final dele: precedente (HC 80.747, Pertence, DJ 19.10.2001).
+(HC n. 85.106/SP, Ministro Sepúlveda Pertence, Primeira Turma, STF, DJ 4/3/2005)
+Em razão disso, rejeito os embargos de declaração.
+Publique-se.
