@@ -1,0 +1,25 @@
+DECISÃO
+RONALDO DOS SANTOS MARTINS e PAULO [NOME] alegam sofrer coação ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e Territórios na Apelação n. 0012733-09.2017.8.07.0009.
+A defesa sustenta que "houve constrangimento ilegal porquanto foi mantida a condenação sob o argumento de que teriam sido três roubos qualificados, e não dois" (fl. 5) e que "deve ser retirado da dosimetria da pena o concurso formal cuja valoração é de três crimes de roubo qualificados, uma vez que, data vênia, foi valorada de maneira equivocada, por não se tratarem de condutas múltiplas, nem haver nexo para colocar [NOME] na situação aqui debatida, uma vez que este nem estava presente" (fl. 6).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, se conhecido, pela sua denegação (fls. 148-153).
+Decido.
+O Juízo de primeiro grau condenou Ronaldo a 15 anos e 6 meses de reclusão pela prática dos crimes descritos nos arts. 157, § 2º, I e II (por três vezes), e 158, § 3º, do Código Penal e [NOME] a 16 anos e 7 meses de reclusão pelos delitos previstos nos arts. 157, § 2º, I e II (por três vezes), 158, § 3º, e 180, caput, do CP.
+O Tribunal de origem deu parcial provimento ao apelo defensivo para absolver os acusados da imputação do crime de extorsão e, em relação aos demais crimes, reduzir a sanção pecuniária aplicada aos apelantes, redimensionando a pena de Ronaldo para 8 anos de reclusão e a de [NOME] a 9 anos e 1 mês de reclusão.
+No tocante às condenações pelos crimes de roubo, a Corte estadual consignou (fls. 73-75, grifei)
+b) Dos Crimes de Roubo - vítimas Alair, [NOME] e [NOME]
+Sobre as figuras típicas descritas no art. 157, § 2º, incisos I e II do CP, a defesa requer a condenação dos réus pela prática de apenas dois crimes de roubo, os em detrimento de [NOME] e de [NOME].
+Questiona a imputação de um terceiro crime de roubo contra a vítima [NOME], proprietário do veículo Palio Weekend, cuja posse no momento dos fatos, era exercida por [NOME], cunhado de [NOME], razão pela qual deve ser parte integrante do patrimônio subtraído deste último e não um crime autônomo.
+Não assiste razão à percepção deduzida pela defesa.
+Na verdade, [NOME] não estava no local do crime e não foi apontado como ofendido dos crimes descritos na denúncia. Seu nome apenas foi mencionado como o proprietário do automóvel subtraído do então possuidor e vítima efetiva, [NOME], como parte da narrativa delitiva.
+Além das vítimas [NOME] e [NOME], conforme os fatos descritos na denúncia e fundamentado na sentença, foi indicado como ofendido o primeiro homem abordado pelos acusados, a vítima Alair, em relação ao qual, indubitável a prática da subtração das suas mercadorias.
+A despeito de não se tratar do objeto recursal, destaco que a subtração, mediante violência, de patrimônio alheio (vítima Alair) narrada na primeira sequência de fatos, está satisfatoriamente comprovada.
+ ..
+A respeito do requerimento recursal, transcrevo trecho da sentença no qual o magistrado, ao analisar o concurso de crimes, deixa expressamente consignado ser Alair a vítima do roubo narrado na primeira sequência de fatos e [NOME] e [NOME], os alvos das subtrações mediante grave ameaça, descritas na segunda sequência fática (fls. 416v):
+(..) Os fatos ocorreram em contextos fáticos distintos, a serem analisados individualmente. Nesse sentido, quando do 1º fato, houve a subtração de bens pertencentes a Alair na cidade de Samambaia/DF, de modo a caracterizar um delito de roubo majorado. Em Ceilândia/DF, no Setor "O", houve a prática, em um mesmo contexto fático do delito de roubo contra as vítimas [NOME] e [NOME], 2º fato, de forma a materializar o cometimento de dois delitos de roubo. Assim, reconheço o concurso formal próprio entre os roubos descritos no 2º fato, nos termos do art. 70, caput, 1ª parte, do CP. De outra sorte, entre o delito de roubo descrito no 1º fato e os do 2º fato, porquanto presentes os requisitos do art. 71 do Código Penal, reconheço a continuidade delitiva, de modo que o crime subsequente (2º fato) deve ser havido como continuação do primeiro (1º fato).
+Assim, mantenho as três condenações pelos crimes de roubo exatos termos consignados na sentença.
+Conforme ressaltado no acórdão, [NOME] não estava no local do crime e não foi apontado como ofendido dos crimes descritos na denúncia.
+Ademais, o Tribunal local assinalou que "o magistrado, ao analisar o concurso de crimes, deixa expressamente consignado ser Alair a vítima do roubo narrado na primeira sequência de fatos e [NOME] e [NOME], os alvos das subtrações mediante grave ameaça, descritas na segunda sequência fática" (fl. 75, destaquei).
+Desse modo, não prospera a alegação de que os pacientes deveriam haver sido condenados por dois crimes de roubo em concurso formal, visto a ocorrência dos delitos contra as vítimas Alair, [NOME] e Luiz.
+Para rever a conclusão do acórdão seria imprescindível o reexame do acervo probatório dos autos, o que é incabível na via estreita do habeas corpus.
+À vista do exposto, denego este habeas corpus.
+Publique-se e intimem-se.
