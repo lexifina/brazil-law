@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo apresentado por SONIA REGINA NEVES CALDERAN contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim resumido:
+APELAÇÃO CÍVEL - LIQUIDAÇÃO DE SENTENÇA - ILEGITIMIDADE ATIVA - AUTOR QUE NÃO INTEGRA O GRUPO MAGISTÉRIO - CARÊNCIA DE AÇÃO RECONHECIDA - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO - RECURSO NÃO PROVIDO.
+Conforme se verifica, para pleitear a execução da sentença coletiva genérica basta que a parte demonstre integrar o grupo magistério. Analisando detidamente os autos, verifica-se que o autor não exerce função do grupo magistério, logo, não se enquadra no rol previsto na ação coletiva, razão pela qual a carência de ação deve ser reconhecida. Recurso não provido.
+Pela alínea "a" do permissivo constitucional, alega violação do art. 502 do CPC, no que concerne à necessidade de reconhecimento da recorrente como parte legítima na ação, trazendo o(s) seguinte(s) argumento(s):
+A sentença meritória proferida nos autos da ação coletiva proposta pela FETEMS - Federação dos Trabalhadores em Educação do Estado de Mato Grosso do Sul, consiste em condenação genérica, de abrangência regional, alcançado todos os filiados ou não filiados aos sindicatos associados à respectiva entidade.
+ ..
+Ou seja, as atribuições da Educação Básica não são limitadas apenas ao professor, mas também a todos os outros profissionais que trabalham para a Educação Básica, dentro da unidade escolar.
+No caso da recorrente a mesma atualmente é agente administrativo, em pleno exercício de suas funções, ou seja, dentro da unidade escolar, pertencente ao grupo magistério, o qual a legitima para pleitear a presente liquidação de sentença.
+ ..
+Pelos esclarecimentos acima apresentados não restam dúvidas de ser procedente o pleito recursal, vez que a recorrente é sim parte legítima da ação de liquidação de sentença, pois inserida no grupo do magistério, nos termos da legislação acima especificada (fls. 316/318).
+Pela alínea "c" do permissivo constitucional, não traz argumentos pertinentes à tese.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que o(s) artigo(s) apontado(s) como violado(s) não tem/têm comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Não se conhece do recurso especial, quando o dispostivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula 284 do STF" (AgInt no REsp n. 1.788.417/SC, relator Ministro Gurgel de Faria, Primeira Turma, Dje de 6/6/2019).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.651.670/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18/6/2019; AgInt no REsp n 1.689.883/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 14/6/2019; AgRg no REsp n. 1351593/RS, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 12/3/2014; e AgRg no AREsp n. 197.224/SP, relatora Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), Quinta Turma, DJe de 20/11/2012.
+Ademais, quanto à alínea "c", na espécie, não foi comprovada a divergência jurisprudencial, uma vez que não cumpridos os requisitos legais dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nesse sentido, os seguintes julgados: AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018; AgInt no REsp 1.696.707/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 12/3/2018; e AgRg no REsp 1.683.470/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 31/10/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
