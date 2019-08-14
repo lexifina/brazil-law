@@ -1,0 +1,26 @@
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÕES INDIVIDUAIS. LEI N. 11.101/05. INTERPRETAÇÃO SISTEMÁTICO-TELEOLÓGICA DOS SEUS DISPOSITIVOS. DELIBERAÇÃO ACERCA DE VALORES RETIDOS A TÍTULO DE DEPÓSITO RECURSAL EM RECLAMAÇÃO TRABALHISTA, AINDA QUE REALIZADOS ANTERIORMENTE AO DEFERIMENTO DA RECUPERAÇÃO. COMPETÊNCIA DO JUÍZO RECUPERACIONAL. PRECEDENTES. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE GOIÂNIA - GO.
+DECISÃO
+Vistos etc.
+Trata-se de conflito de competência suscitado por RÁPIDO ARAGUAIA LTDA, VIAÇÃO ARAGUARINA LTDA, VIAÇÃO GOIÂNIA LTDA, ODILON SANTOS ADMINISTRAÇÃO COMPARTILHADA LTDA, CREMMY INDÚSTRIA E COMERCIO LTDA, ARAGUARINA AGRO PASTORIL LTDA e PONTAL ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA, todas em recuperação judicial, em face do JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE GOIÂNIA - GO, no qual tramita os autos da recuperação judicial das empresas, e do JUÍZO DA 9A VARA DO TRABALHO DE GOIÂNIA - GO, no qual tramita a reclamação trabalhista n.º 0010850-75.2014.5.18.0009 movida por [NOME].
+As suscitantes postularam, em razão da competência universal do juízo da recuperação para decidir as questões tendentes a afetar o patrimônio das empresas recuperandas, a suspensão dos atos de constrição patrimonial em trâmite na Justiça do Trabalho, com a liberação em seu favor dos valores depositados a título de depósito recursal, bem assim a declaração da competência do Juízo Estadual suscitado.
+Expedidos ofícios aos suscitados, foram prestadas as devidas informações.
+O administrador judicial prestou informações às fls. 1.523/1.525 (e-STJ).
+O MPF, em seu parecer, opinou pela competência do juízo recuperacional.
+É o relatório.
+Decido.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Colenda 2ª Seção.
+O juízo trabalhista, consoante se verifica dos autos, indeferiu o pedido de devolução do depósito recursal porque "(..) os créditos referem-se a um momento muito posterior ao do deferimento da recuperação judicial, não se sujeitando, portanto, ao juízo universal" (e-STJ, fl. 1449)
+Todavia, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei 7.661/45 ou da Lei 11.101/05, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devem ser realizados pelo juízo universal, incluindo a deliberação acerca da destinação dos valores atinentes aos depósitos recursais feitos em reclamações trabalhistas, ainda que efetivados anteriormente à decretação da falência ou ao deferimento da recuperação.
+Nesse sentido, confiram-se os seguintes precedentes da Segunda Seção do STJ:
+CONFLITO DE COMPETÊNCIA - JUSTIÇA TRABALHISTA E JUÍZO FALIMENTAR - EXECUÇÃO DE CRÉDITO TRABALHISTA - DEPÓSITO RECURSAL - LEVANTAMENTO - POSSÍVEL PREJUÍZO AOS DEMAIS CREDORES HABILITADOS - CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR A COMPETÊNCIA DO R. JUÍZO UNIVERSAL DA FALÊNCIA.
+1. A decretação da falência carreia ao juízo universal da falência a competência para distribuir o patrimônio da massa falida aos credores conforme as regras concursais da lei falimentar, inclusive, decidir acerca do destino dos depósitos recursais feitos no curso da reclamação trabalhista, ainda que anteriores à decretação da falência.
+2. Por essa razão, após a quebra, é inviável o prosseguimento de atos de expropriação patrimonial em reclamações trabalhistas movidas contra a falida perante a Justiça do Trabalho.
+3. Conflito conhecido para declarar a competência do r. juízo falimentar. (CC 101.477/SP, Rel. Ministro MASSAMI UYEDA, Segunda Seção, julgado em 09/12/2009, DJe 12/05/2010)
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA. DEPÓSITOS RECURSAIS ANTERIORES À QUEBRA.
+- É do juízo falimentar a competência para decidir sobre o destino dos depósitos recursais feitos no curso de reclamação trabalhista movida contra a falida, ainda que anteriores à decretação da falência. (AgRg no CC 87.194/SP, Rel. Ministro HUMBERTO GOMES DE BARROS, Segunda Seção, julgado em 26/09/2007, DJ de 04/10/2007)
+Ainda, quanto ao tema, cumpre destacar a existência de diversas decisões monocráticas na mesma linha de entendimento dos precedentes acima aludidos: CC 149.278/CE (Rel. Ministro LUIS FELIPE SALOMÃO, DJe de 02/06/2017), CC 150.867/SP (Rel. Ministro ANTONIO CARLOS FERREIRA, DJe de 31/05/2017), CC 152.179/PE (Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe de 24/05/2017) e CC 152.174/PE (Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe de 19/05/2017).
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE GOIÂNIA - GO para quaisquer exames relativos a pagamento de débitos abarcados pela recuperação das pessoas jurídicas suscitantes e constrição do seu patrimônio.
+Os valores eventualmente constritos pelo JUÍZO DA VARA DO TRABALHO relativos ao patrimônio das sociedades em recuperação deverão ser colocados à disposição do juízo universal, a quem competirá analisar eventual pedido de levantamento.
+Comuniquem-se as autoridades judiciárias em conflito.
+Intimem-se.
