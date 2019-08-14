@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER E DE INDENIZAÇÃO POR DANOS MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. ACÓRDÃO QUE ANALISA MEDIDA LIMINAR. RECURSO ESPECIAL. NÃO CABIMENTO.
+1. Ação de rescisão de contrato cumulada com pedidos de obrigação de fazer e de indenização por danos materiais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas e interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. O STJ detém o entendimento no sentido de que é incabível recurso especial contra acórdão que defere ou indefere medida liminar. Precedentes.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME], contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e/ou "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/05/2019.
+Concluso ao gabinete em: 25/07/2019.
+Ação: de rescisão de contrato cumulada com pedidos de obrigação de fazer e de indenização por danos materiais ajuizada por DIRCEU PINHATTI MENDES - ESPÓLIO em face do agravante, devido ao inadimplemento contratual.
+Nesse contexto, relata que firmou contrato de promessa de compra e venda de um imóvel rural com o ora agravante, convencionando-se que o pagamento seria realizado em treze prestações, sendo a entrada de R$ 3.000.000,00 (três milhões de reais) e 12 (doze) parcelas de R$ 1.861.000,00 (um milhão oitocentos e sessenta e um reais), assim, preço total de R$ 25.333.000,00 (vinte e cinco milhões trezentos e três mil reais). Todavia, com o inadimplemento da segunda parcela houve o vencimento antecipado da dívida, exigindo-se o acréscimo de multa e honorários advocatícios.
+Alega que, não bastasse o inadimplemento, o agravante se mantém na posse e exploração da área rural, havendo notícia de que destruiu pastagens, cercas e um curral, causando-lhe prejuízos.
+Decisão interlocutória: deferiu a tutela de urgência para determinar que proceda ao depósito judicial das parcelas vencidas e aquelas que se vencerem no curso do processo, limitado ao valor correspondente ao da área de posse atualmente ocupada; na Reconvenção, indeferiu pedido de suspensão do protesto e bloqueio da matrícula n. 17.885 do CRI de Sinop - MT.
+Acórdão: negou provimento ao recurso interposto pelo agravante, conforme a seguinte ementa:
+AGRAVO DE INSTRUMENTO - AÇÃO DE RESCISÃO CONTRATUAL C/C OBRIGAÇÃO DE FAZER, INDENIZAÇÃO POR PERDAS E DANOS E ANTECIPAÇÃO PARCIAL DE TUTELA - DETERMINADO O DEPÓSITO JUDICIAL DAS PARCELAS VENCIDAS E DAS QUE VENCEREM NO CURSO DA DEMANDA - LIMITAÇÃO AO VALOR DA ÁREA DE POSSE OCUPADA - PENA DE RESTITUIÇÃO DA POSSE AO REQUERENTE - POSSIBILIDADE - IMÓVEL URBANO NÃO CONSIDERADO COMO PARTE DA QUITAÇÃO - POSTERGAÇÃO DA ANÁLISE DE INÉPCIA DA INICIAL PARA A FASE DE SANEAMENTO - VIABILIDADE - RECONVENÇÃO - PROTESTO DEVIDO - NÃO PAGAMENTO DE TODAS AS PARCELAS PELO AGRAVANTE - PRODUÇÃO DE PROVAS - CONCESSÃO DE NOVO PRAZO À PARTE ADVERSA - INCLUSÃO DA ESPOSA DO AGRAVADO NA LIDE - REABERTURA DE PRAZO - PROCESSO AINDA NÃO SANEADO - RECURSO NÃO PROVIDO.
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, 505, 507, 926, 1.022, II, do CPC/15, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: a) a parte adversa "não se dignou em formular pedido de tutela de urgência com fundamento em fato novo, utilizou da artimanha de alterar o pedido, mascarando a tutela reintegratória em depósito judicial"; b) houve violação de coisa julgada, tendo em vista que o fundamento do novo pedido fora em fatos sobre os quais já havia decisão; c) na presente hipótese, é inviável concessão de tutela antecipatória, pois não se pode conceder tal tutela antes do pronunciamento judicial acerca da rescisão contratual; d) "enquanto subsistir o contrato firmado entre as partes é legítima a posse da parte requerida sobre o imóvel objeto da avença em discussão".
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca de, especialmente, da alegação de fatos novos, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ. .
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à análise dos documentos acostados aos autos, em especial, ao disposto no contrato, no que concerne ao cumprimento contratual, a respeito da apresentação de fato novo, quanto ao preenchimento dos requisitos para concessão da tutela antecipatória, a respeito das condutas das partes, em relação às supostas parcelas inadimplentes, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+- Não cabimento de recurso especial contra decisão que antecipa tutela (Súmula 735/STF)
+A jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido que, quando se trata de recurso especial interposto contra medida que concede ou indefere tutela antecipada, seu objeto deve focar nas condições legais de sua concessão. Nesse sentido: AgInt no Aresp 1.248.498/SP, 3ª Turma, DJe de 29/06/2018; e AgInt no Aresp 980.165/BA, 4ª Turma, DJe 09/02/2018.
+Considerando a precariedade da decisão que tratou sobre a tutela antecipada, que pode ser alterada no momento em que for prolatada a sentença, desaconselha-se o conhecimento e julgamento de recursos especiais que versem sobre o tema, exceto quando tratarem dos requisitos legais de concessão da tutela antecipada e não exigirem o reexame de matéria fática e probatória.
+Dessa forma, não é possível discutir, em recurso interposto contra decisão que concede a antecipação de tutela, a questão de fundo do direito sobre o qual versa a controvérsia.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
