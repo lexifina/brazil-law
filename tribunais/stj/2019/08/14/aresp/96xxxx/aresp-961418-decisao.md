@@ -1,0 +1,23 @@
+DECISÃO
+[NOME] agrava da decisão que não admitiu o seu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (Apelação Criminal n. 1.0194.13.009691-1/001).
+Consta dos autos que o ora agravante foi condenado à pena de 8 anos e 9 meses de reclusão, em regime inicial fechado, mais multa, pela prática dos crimes previstos nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa aponta violação dos arts. 157, 159, 400 e 402 do Código de Processo Penal. Para tanto, afirma que são ilícitas as provas juntadas aos autos às fls. 319-320 (laudo toxicológico definitivo), porque "tal prova foi produzida após o encerramento da instrução processual, com aquiescência do juízo e sem intimação da defesa, o que violou os princípios da paridade de armas, do devido processo legal, da ampla defesa e contraditório" (fl. 1.043).
+Aduz, ainda, que não foi realizada perícia oficial em mídia reprográfica juntada aos autos (fls. 34-44; 252-282 dos autos principais), de maneira que essas provas também estão maculadas pela ilicitude.
+Sustenta, também, ser ilegal a atuação da Polícia Militar no campo investigativo, uma vez que postergou, sem autorização judicial, a realização do flagrante. Alega, de igual modo, que "não cabe mais investigação de qualquer espécie presidida pela Polícia Militar no Estado de Minas Gerais" (fl. 1.072), porquanto tal procedimento compete à Polícia Civil do estado.
+Na sequência, aponta dissídio jurisprudencial em relação à expressão "reiteradamente ou não" contida no art. 35, caput, da Lei n. 11.343/2006 e afirma não haver provas seguras acerca da estabilidade e da permanência exigidas para fins de comprovação do crime previsto no referido dispositivo.
+Ao prosseguir em suas razões recursais, afirma negativa de vigência ao art. 387, § 2º, do Código de Processo Penal, porque, uma vez aplicada a detração, deve ser fixado ao réu o regime inicial semiaberto de cumprimento de pena, e não o fechado.
+Defende, de igual modo, que "as provas são contundentes e excluem qualquer participação do recorrente no delito de tráfico de drogas" (fl. 1.102).
+Requer o provimento do recurso, nos termos anteriormente delineados e conforme explicitado às fls. 1.125-1.127.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso.
+Decido.
+O Tribunal a quo obstou o prosseguimento do recurso especial pelos seguintes fundamentos: a) não cabimento de REsp para discutir violação de dispositivo constitucional; b) Súmula n. 7 do STJ (fl. 1.257).
+Todavia, o agravante, nas razões do agravo em recurso especial (fls. 1.264-1.307), deixou de impugnar a apontada impossibilidade de utilização do REsp para discutir suposta violação de tema e/ou de dispositivo da Constituição Federal.
+Na verdade, além de haver basicamente reiterado as razões do recurso especial, reafirmou a sua compreensão de que "o procedimento adotado pelo juízo violou os arts. 1º, inciso III (Princípio da Dignidade da Pessoa Humana); art. 5º, inciso LIV e LV (Devido Processo Legal, Ampla Defesa, Contraditório e Paridade de Armas), todos previstos na CF/88" (fl. 1.282).
+Assim, não há como ser conhecido o agravo em recurso especial, nos termos do enunciado na Súmula n. 182 do STJ, in verbis:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ainda, ante o esgotamento das instâncias ordinárias - como no caso -, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Determino, outrossim, o envio de cópia dos autos ao Juízo da Vara Criminal e da Infância e da Juventude da Comarca de Coronel Fabriciano - MG (juízo da condenação) para que encaminhe a guia de recolhimento ao juízo da VEC, a fim de dar início a execução da pena imposta ao acusado. A determinação deverá ser desconsiderada, caso o réu cumpra, atualmente, a reprimenda.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
