@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo apresentado por JOSE MARIA DA SILVA ABREU contra a decisão que não admitiu seu recurso especial fundamentado no art. 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. POLICIAL CIVIL. PROCESSO ADMINISTRATIVO DISCIPLINAR. PENALIDADE DE DEMISSÃO. IMPUTAÇÃO FUNCIONAL. REINTEGRAÇÃO NO CARGO. PRESCRIÇÃO DO FUNDO DE DIREITO CONSUMADA.
+1. O prazo para propositura de ação objetivando a reintegração de servidor no cargo é de 05 (cinco) anos, a contar do ato de demissão, nos termos do Decreto 20.910/32, ainda que se trate de ação ajuizada em face de ato nulo.
+Precedentes.
+2. Ação julgada extinta na origem.
+APELAÇÃO DESPROVIDA.
+Quanto à controvérsia, alega dissídio jurisprudencial quanto à aplicação do art. 1º do Decreto n. 20.910/32, no que concerne à nulidade de ato demissório, trazendo, em síntese, o argumento de que "é pacífico o entendimento, tanto na lei, na doutrina quanto na jurisprudência, de que o ato nulo não gera efeitos, tampouco se convalida com o decurso de tempo, podendo ser arguida a qualquer momento" (fl. 905).
+É o relatório. Decido.
+Na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico a fim de demonstrar a existência de identidade jurídica e similitude fática entre o acórdão recorrido e o(s) paradigma(s) indicado(s).
+Nesse sentido: "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório" (AgInt no AREsp n. 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/4/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 535.444/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 1º/4/2019; REsp n. 1.773.244/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 5/4/2019; e AgInt no AREsp n. 1.358.026/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1º/4/2019.
+Ademais, é incabível o recurso especial porque a tese recursal é eminentemente constitucional.
+Com efeito, "a verificação de eventual violação do acórdão da origem a preceito de índole constitucional não se conforma às hipóteses de cabimento do recurso especial" (REsp 1756473/RO, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/08/2018, DJe de 29/8/2018).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1614030/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/2/2019, DJe de 13/2/2019; AgInt no REsp 1581960/ES, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/5/2018, DJe de 28/5/2018; AgInt no REsp 1573157/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/3/2018, DJe de 20/3/2018; e AgRg no AREsp 375.887/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 1º/3/2018, DJe de 9/3/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
