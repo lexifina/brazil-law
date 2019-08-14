@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de [NOME] [NOME] no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (HC n. 4012250-43.2018.8.24.0900).
+Colhe-se dos autos que o paciente foi preso em flagrante pela suposta prática do delito previsto no art. 121, c/c o art. 14, inciso II, ambos do Código Penal, sendo essa custódia posteriormente convertida em prisão preventiva (e-STJ fls. 40/41).
+Foi o paciente, posteriormente, denunciado pela prática dos delitos previstos nos arts. 306, § 1º, incisos I e II, c/c o 298, inciso I, ambos do Código de Trânsito Brasileiro, 129, § 1º, incisos I e II (duas vezes), e 129, caput, c/c a agravante prevista no 61, inciso II, alínea "h", todos do Código Penal (e-STJ fls. 42/45).
+O Juízo da 2ª Vara Criminal de Chapecó/SC acolheu a declinação de competência pelo Juízo da 1ª Vara Criminal de Chapecó/SC, recebeu a denúncia e indeferiu o pedido de revogação da custódia cautelar do paciente.
+Irresignada, a defesa impetrou prévio habeas corpus perante o Tribunal a quo, sendo denegada a ordem em acórdão cuja ementa foi definida mediante os seguintes termos (e-STJ fls. 59):
+HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE E LESÕES CORPORAIS POR TRÊS VEZES (SIMPLES E GRAVES). PLEITO DE REVOGAÇÃO. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. DECISÃO ADEQUADAMENTE MOTIVADA. PROGNÓSTICO DE PENA E BONS PREDICADOS QUE NÃO VIABILIZAM A SOLTURA. SEGREGAÇÃO POR MEDIDAS CAUTELARES DIVERSAS INVIÁVEL.
+PEDIDO DE ORDEM DENEGADO.
+Neste habeas corpus, aduz o impetrante, em síntese, que o paciente estaria sofrendo constrangimento ilegal em razão da ausência de fundamentação idônea na decisão que decretou sua prisão preventiva.
+Sustenta a desnecessidade de manutenção da prisão cautelar, ao argumento de que, "mesmo que se admita a condenação do Paciente no delito de lesão corporal grave e conduzir o veículo automotor com capacidade alterada, o que se faz apenas para efeitos de argumentação, temos que lhe será imposta a pena mínima de 02 (dois) anos pela lesão corporal acrescida de 1/6 pelo número de condutas(2), mais 01(um) mês pela lesão corporal de natureza leve e 06 (seis) meses por conduzir veículo embriagado, totalizando pena inferior à 03 (três) anos, iniciando no regime aberto por conta de que se trata de Réu primário" (e-STJ fls. 7/8).
+Afirma que o paciente possui circunstâncias pessoais favoráveis, e que se mostra possível a aplicação de medidas cautelares diversas da prisão.
+Requer, inclusive liminarmente, a concessão da ordem para revogar a prisão preventiva do paciente.
+O pleito liminar foi indeferido (e-STJ fls. 70/74).
+Prestadas as informações, opinou o Ministério Público Federal pelo não conhecimento do writ e pela concessão da ordem de ofício (e-STJ fls. 123/128).
+É, em síntese, o relatório.
+Informações obtidas no sítio eletrônico do Tribunal de origem dão conta de que, no dia 11/1/2019, o Juízo de piso proferiu a seguinte decisão:
+Ante o exposto, JULGO PROCEDENTE a Denúncia para CONDENAR o acusado [NOME], qualificado nos autos, ao cumprimento da pena de 1 (um) ano e 2 (dois) meses de reclusão, e 10 (dez) meses de detenção, mais o pagamento de 11 (onze) dias-multa, no valor mínimo legal. Ainda, 7 (sete) meses de suspensão da habilitação para dirigir veículo automotor, por infração ao artigo 306, § 1º, incisos I e II, c/c artigo 298, inciso I, ambos do Código de Trânsito, em concurso material (CP, artigo 69) com as infrações penais descritas no artigo 129, § 1º, incisos I e II (duas vezes), e no artigo 129, caput, do Código Penal, com a circunstância agravante prevista no artigo 61, inciso II, alínea "h" c/c a atenuante do art. 65, inciso III, "d", ambas do Código Penal.Condeno às custas processuais (CPP, art. 804). Concedo ao réu o direito de apelar em liberdade, pois que ora condenado à pena da qual livrar-se-á solto (fl 1008).
+Diante disso, nada mais há que ser apreciado nesta oportunidade, tendo em vista que fica sem objeto o pedido contido no writ.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
