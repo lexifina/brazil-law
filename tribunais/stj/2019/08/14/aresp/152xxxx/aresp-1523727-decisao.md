@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo apresentado por THOMAS GREG & SONS GRÁFICA E SERVIÇOS, INDÚSTRIA E COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO DE EQUIPAMENTOS LTDA, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. Incidente de desconsideração da personalidade jurídica. Interesse recursal e legitimidade para recorrer configurados. Ausência de indícios plausíveis de abuso da personalidade. Encerramento irregular das atividades que, por si só, não autoriza a desconsideração. Ausentes os pressupostos legais para o processamento do incidente (art. 134, § 4o, c.c. o art. 50 do Código Civil). Decisão agravada reformada para indeferir o incidente de desconsideração.
+Recurso provido.
+Quanto à controvérsia trazida aos autos, a parte recorrente alega violação do art. 135 do Código de Processo Civil, no que concerne à ausência de interesse recursal e ilegitimidade ativa, trazendo o(s) seguinte(s) argumento(s):
+29. Verifica-se que o Agravo de Instrumento foi interposto da decisão de instauração, a qual apenas efetiva os mandamentos processuais, nos termos do art. 135 do CPC. Trata-se de despacho de mero expediente, não se trata de decisão interlocutória passível de interposição de recurso.
+30. Da determinação de instauração não cabe Agravo de Instrumento, como pretendeu a Recorrente, mas sim de sua resolução, momento processual não atingido, conforme disposto no art. 136 do diploma processual.
+ ..
+32. Nessa toada, não caberia à pessoa jurídica, devedora principal, interpor Recurso de Agravo de Instrumento, quer seja por não ser o momento processual adequado, quer seja porque não é a titular do direito a ser protegido pela tutela jurisdicional, já que eventual desconsideração, se deferida, implicariam aos sócios a responsabilização patrimonial, conforme dispõe o art. 18 do Código de Processo Civil.
+ ..
+36. O artigo 133 do CPC indica quando o incidente será instaurado. Feito o pedido de desconsideração da personalidade jurídica, deve-se instaurar o incidente. O artigo 134, por sua vez, disciplina os aspectos procedimentais, isto é, feito o pedido, instaura-se o incidente, com a comunicação do distribuidor e suspensão do processo (atos de expropriação em face dos Sócios).
+37. Instaurado o incidente, os Sócios são citados para contestar o pleito, conforme prevê o artigo 135 do Código de Processo Civil. Contestado o feito, o Julgador decide a desconsideração da personalidade jurídica, conforme dispõe o artigo 136, momento pelo qual caberá o Agravo de Instrumento contra a decisão interlocutória.
+38. Veja Excelências que o momento pelo qual fora interposto o Agravo de Instrumento, assim como a legitimidade para tanto não foram respeitados. (fls. 412/413).
+É o relatório. Decido.
+Inicialmente, no que se refere a alegação de que a decisão não poderia ter sido combatida por Agravo de Instrumento, por tratar-se de despacho de mero expediente, verifica-se, na espécie, que não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Ademais, o acórdão recorrido decidiu que (fl. 387):
+Afastam-se, de plano, as preliminares de falta de interesse recursal e ilegitimidade de parte, sustentadas na contraminuta.
+É inequívoco o interesse recursal da Apelante, na medida em que a instauração do incidente de desconsideração da personalidade jurídica lhe diz respeito diretamente, isto porque, admitido o processamento e, por eventualidade, deferida a desconsideração, restará superada a sua personalidade jurídica.
+Ademais, a pessoa jurídica não fica alheia ao eventual incidente de desconsideração instaurado, mas, ao contrário, participa dele ativamente, inclusive, se for o caso, produzindo provas a respeito.
+Como se vê, determinada a instauração do incidente, remanesce para a Agravante tanto o interesse recursal, quanto a legitimidade para impugnar, de per si, a decisão judicial, bem porque, até este momento processual, os sócios sequer foram cientificados formalmente da instauração do incidente.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
