@@ -1,0 +1,36 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Pedro Augusto de Oliveira Costa, em favor de Iuri Ricardo Ramos Marques, contra decisão monocrática proferida por Ministro Relator do STJ, nos autos do HC 515.379/SP.
+    Colho o relatório da decisão impugnada:
+    “Trata-se de habeas corpus impetrado em favor de IURI RICARDO RAMOS MARQUES, em face de acórdão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO, assim ementado (fl. 12):
+    Habeas corpus Tráfico Ilícito de Entorpecentes Revogação da prisão preventiva por ausência de fundamentação Impossibilidade Presentes os requisitos do art. 312, do CPP Prisão preventiva mantida Ordem denegada.
+    O paciente foi preso em flagrante pela prática delitiva tipificada no art. 33, caput, da Lei 11.343/06.
+    Alega o impetrante, em suma, que a fundamentação para decretação da prisão preventiva é genérica, que se trata de uma porção pequena de maconha por se tratar de dependente químico.
+    Requer, por isso, a revogação da prisão preventiva com aplicação de medidas cautelares diversas da prisão.
+    A liminar foi indeferida.
+    As informações foram prestadas.
+    A manifestação ministerial foi pela denegação da ordem.
+    Na origem, consta dos autos da ação penal n. 1500582-34.2019.8.26.0559, a designação de audiência de instrução para 11/09/2019, conforme informações processuais eletrônicas do site do Tribunal a quo consultadas em 23/07/2019.
+    É o relatório. DECIDO.” (eDOC 11)
+    No STJ, a ordem foi denegada.
+    Nesta Corte, o impetrante sustenta que não há motivos justos para a prisão preventiva do paciente.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo colegiado do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, inciso XXXV, CF), a aplicação desse entendimento jurisprudencial pode ser afastada na ocorrência de patente constrangimento ilegal ou abuso de poder, o que não verifico no presente caso.
+    Aduz o impetrante que o paciente, “primário, 21 anos de idade, foi preso em flagrante no dia 22/04/2019 e denunciado por tráfico de drogas (maconha).”
+    Na audiência de custódia, a prisão em flagrante foi convertida em preventiva nos seguintes termos:
+    “O caso é de conversão da prisão em flagrante em prisão preventiva. O laudo de constatação indica que a(s) substância(s) apreendida(s), descrita(s) no auto de exibição e apreensão, é(são) entorpecente(s) (Portaria nº 344/1998, SVS/MS), do que decorre a materialidade do delito de tráfico de drogas (art. 33, Lei nº 11.343/06), para o qual se prevê pena privativa de liberdade máxima superior a 4 (quatro) anos. Os indícios de autoria decorrem das circunstâncias descritas no auto de prisão em flagrante, que apontam para o envolvimento do(a)(s) custodiado(a)(s) na atividade de comercialização dessas substâncias entorpecentes. De se anotar que no ano passado ao autuado foi preso também pelo crime de tráfico, e, posto em liberdade, e já condenado em primeiro grau, à pena de cinco anos de prisão, veio a ser proso novamente, com considerável quantidade de drogas. Assim, não bastasse tudo o que de ordinário se considera para fins de se decretar a prisão preventiva na hipótese de crimes de tráfico de drogas, quando a regra é, mesmo, a permanência do agente na prisão, o fato é que agora está demonstrado também que a permanência do agente em liberdade põe em risco a ordem pública, uma vez que está reiterando na prática criminosa. A prisão cautelar ainda se revela necessária à garantia da ordem pública, tratando-se, ao menos por ora, do meio adequado a impedir a reiteração criminosa (art. 282, § 6º do CPP). As medidas cautelares diversas da prisão (art. 319, CPP) revelam-se insuficientes. Os elementos de convicção contidos nos autos não revelam a incidência das excludentes de ilicitude previstas no art. 23, incisos I, II e III, do Código Penal (art. 310, parágrafo único, e 314, do Código de Processo Penal). Posto isto, com fundamento nos arts. 310, II, 312, 313, I, e 315, do Código de Processo Penal, CONVERTO A PRISÃO EM FLAGRANTE de IURI RICARDO RAMOS MARQUES em PRISÃO PREVENTIVA. Expeça-se mandado de prisão preventiva (art. 406 das NSCGJ).” (eDOC 9)
+    Ao apreciar o recurso em habeas corpus, registrou o STJ:
+    “Como se vê, o decreto prisional tem fundamento evidenciado na vivência delitiva tendo sido registrado que no ano passado ao autuado foi preso também pelo crime de tráfico, e, posto em liberdade, e já condenado em primeiro grau, à pena de cinco anos de prisão.
+    Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS – 5ª T. – unânime – Rel. Min. Felix Fischer – DJe. 1º-10-2014; RHC n. 48002/MG – 6ª T. – unânime – Rel. Min. Maria Thereza de Assis Moura – DJe 4/8/2014; RHC n. 44677/MG – 5ª T. – unânime – Rel. Min. Laurita Vaz – DJe 24/6/2014.
+    Cumpre salientar, no aspecto mencionado pelo impetrante a respeito da quantidade não relevante de droga, que com os documentos juntados aos autos não é possível a constatação da especificação da quantidade/peso de entorpecente apreendido, já que constou no decreto prisional a considerável quantidade de drogas - fl. 25 e, no auto de prisão em flagrante a quantidade de 106 porções da droga - fl. 23. . (eDOC 11, p. 2)
+    Da leitura dos autos, observo que o paciente foi condenado anteriormente, em 17.10.2018, por ter sido encontrada com ele a quantidade de “50 pedras de crack, pesando 6,200 gramas, 22 porções de maconha, pesando 28,200 gramas, e 20 pinos de cocaína, pesando 7,360 gramas.” (eDOC 6, p. 5)
+    Tal condenação, se não confirmada com o trânsito em julgado, por óbvio, não serve como maus antecedentes, tampouco como reincidência. Todavia, indica forte de indício de reiteração delitiva, a inviabilizar, neste momento, o restabelecimento, de sua liberdade.
+    A esse respeito, esta Corte tem considerado legítimos os decretos prisionais consubstanciados no modus operandi do delito e na possibilidade concreta de reiteração delitiva, de modo que não há constrangimento ilegal a autorizar a concessão da ordem. Precedente: HC 141.170-AgR/SP, Rel. Min. Dias Toffoli.
+    Nesse contexto, entendo, também, que as medidas cautelares alternativas diversas da prisão, previstas na Lei 12.403/2011, não se mostram suficientes a acautelar o meio social.
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, §1º, RISTF)
+    Publique-se.
+    Brasília, 14 de agosto de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
