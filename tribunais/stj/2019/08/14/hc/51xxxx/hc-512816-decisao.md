@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de SILVIO LIMA DE OLIVEIRA e REGINALDO LIMA DE OLIVEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta nos autos que os pacientes foram pronunciados como incursos nos arts. 121, § 2º, I e IV, e 121, § 2º, I e IV, c.c. o art. 14, II, todos do Código Penal.
+Submetidos a julgamento, foram absolvidos pelo Conselho de Sentença, que acolheu a tese de negativa de autoria.
+Inconformado, o Ministério Público estadual interpôs recurso de apelação, que foi provido pelo Tribunal de origem, para determinar que os pacientes sejam submetidos a novo julgamento.
+A defesa esclarece que impetrou o HC 319.862/SP perante esta Corte, que concedeu a ordem para anular o julgamento da apelação n. 0474346.08.2010.8.26.0000, a fim de que se procedesse novo julgamento do recurso com a devida intimação pessoal do defensor dos pacientes. Entretanto, o Tribunal de origem novamente realizou o julgamento do recurso sem intimar a Defensoria Pública.
+Neste writ, aduz a impetrante a existência de constrangimento ilegal por cerceamento de defesa, pois os pacientes estavam sendo patrocinados por defensor dativo, o qual, no entanto, não teria sido pessoalmente intimado da data de julgamento do recurso de apelação do Ministério Público.
+Requer novo julgamento da apelação ministerial com a prévia intimação de seus defensores.
+Foram prestadas informações pelo Tribunal de origem (e-STJ, fls. 56-92).
+O Ministério Público Federal opina pelo não conhecimento do writ, mas pela concessão da ordem, de ofício (e-STJ, fls. 94-102).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Na espécie, observa-se flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Extrai-se das informações prestadas pelo Tribunal de origem:
+"Esclareço ademais que, em cumprimento à r. decisão proferida nessa Colenda Corte, nos autos do Habeas Corpus nº 319.862/SP, foi o feito devolvido a esta Casa, contudo, de acordo com informações prestadas pela Senhora Supervisora do Segundo Grupo de Câmaras de Direito Criminal, a Serventia, por um lapso, incluiu o recurso em pauta de julgamento sem proceder à atualização no cadastro de segundo grau para que, neste, constasse a Defensoria Pública em nome de Silvio e Reginaldo. Consequentemente, por equívoco, o Dr. [NOME] foi intimado, através de publicação disponibilizada no Diário da Justiça Eletrônico aos 20 de fevereiro de 2018, acerca da data da nova sessão de julgamento da apelação, realizada aos 28 de fevereiro de 2018, ocasião em que a Turma Julgadora deu provimento ao reclamo a fim de anular a r. sentença e determinar que os réus fossem julgados novamente" (e-STJ, fl. 58, grifou-se).
+Com efeito, consoante determinam os arts. 370, § 4º, do Código de Processo Penal e 5º, § 5º, da Lei n. 1.060/1950, deve ser pessoal a intimação da Defensoria Pública e do defensor dativo de todos os atos do processo, sob pena de nulidade.
+A propósito, a jurisprudência desta Corte Superior é firme no sentido de que se aplica ao advogado dativo o mesmo regramento que rege a Defensoria Pública, quanto à necessidade de intimação pessoal:
+"PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. INJÚRIA. AUSÊNCIA DE INTIMAÇÃO PESSOAL DO DEFENSOR PÚBLICO. JUIZADO ESPECIAL CRIMINAL. AUSÊNCIA DE NULIDADE. RECURSO DESPROVIDO.
+I - A jurisprudência deste Superior Tribunal de Justiça consolidou-se no sentido de que "a ausência de intimação pessoal da Defensoria Pública ou do defensor dativo sobre os atos do processo, a teor do disposto no artigo 370 do Código de Processo Penal e do artigo 5º, § 5º, da Lei 1.060/1950, gera, via de regra, a sua nulidade", uma vez que cerceado o direito de defesa da parte (HC n. 288.517/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 14/5/2014).
+II - Por outro lado, no âmbito dos Juizados Especiais criminais, não se exige a intimação pessoal do defensor público, admitindo-se a intimação na sessão de julgamento ou pela imprensa oficial (precedentes do STF e do STJ).
+Recurso ordinário em habeas corpus desprovido." (RHC 79.148/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 3/5/2017);
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. APELAÇÃO. DEFENSOR DATIVO. AUSÊNCIA DE INTIMAÇÃO PESSOAL DO ACÓRDÃO. NULIDADE EVIDENCIADA. ORDEM CONCEDIDA.
+1. Nos termos do art. 5º, parágrafo 5º, da Lei nº 1.060/50, com a redação dada pela Lei nº 7.871/89, e artigo 370, § 4º, do Código de Processo Penal, acrescentado pela Lei nº 9.271/96, é prerrogativa do defensor dativo e do defensor público, ou de quem exerça cargo equivalente, a intimação pessoal de todos os atos e termos do processo, sob pena de nulidade.
+2. Se a mácula é anunciada em tempo razoável, como sói ser a hipótese dos autos, caracteriza nulidade absoluta, por infringência ao princípio da ampla defesa, a ausência de intimação pessoal do defensor dativo em relação ao acórdão exarado no julgamento de recurso de apelação.
+3. Ordem concedida a fim de anular a certidão de trânsito em julgado e, uma vez anulados todos os atos subsequentes, determinar a intimação pessoal da defesa para cientificação dos termos do acórdão." (HC 358.434/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 1º/9/2016).
+Ante o exposto, nos termos do art. 34, XX, do RISTJ, concedo a ordem para anular o julgamento da Apelação n. 0474346-08.2010.8.26.0000, a fim de que se proceda a novo exame do recurso com a devida intimação pessoal do defensor dos pacientes.
+Publique-se. Intimem-se.
