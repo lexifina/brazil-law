@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO AUXÍLIO-DOENÇA INCAPACIDADE COMPROVADA DATA FINAL DO BENEFÍCIO CONCESSÃO DO BENEFÍCIO ANTERIOR À LEI N 13457/2017 DESCABIMENTO HIPÓTESES DE CESSAÇÃO DO AUXÍLIO-DOENÇA CONSECTÁRIOS LEGAIS TUTELA ESPECÍFICA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 60, § 9º, da Lei n. 8.213/91, no que concerne à data final do benefício do auxílio-doença, trazendo o(s) seguinte(s) argumento(s):
+O acórdão recorrido reconhece a disciplina legal introduzida pela MP 739/2016, repetida pela MP 767/2017, convertida na Lei 13.457/2017, sobre a possibilidade de cessação do auxílio-doença no prazo de 120 dias após a sua concessão, quando não fixada outra data para duração do benefício e desde que o segurado não interponha pedido de prorrogação.
+Não obstante, determinou a manutenção do benefício enquanto não for constatada a capacidade laborativa por meio de perícia administrativa ou judicial.
+Em síntese, o acórdão negou vigência ao §9º art. 60 da Lei 8.213/91 (fls. 277).
+É o relatório. Decido.
+Quanto à controvérsia, na espécie, o acórdão recorrido assim decidiu:
+Considerando que na sentença ficou estabelecida a DIB em 12/12/2012, descabe falar em alta-programada, visto ser anterior à vigência da Lei nº 13.457/2017, que alterou o art. 60, da Lei nº 8.213. Nesse caso, não havendo previsão legal autorizadora, a cessação do benefício depende de nova perícia administrativa (fls. 237).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
