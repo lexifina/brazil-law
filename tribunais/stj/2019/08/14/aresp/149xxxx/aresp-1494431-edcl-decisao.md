@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 1.199/1.202) opostos à decisão desta relatoria que determinou a devolução "dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, depois de publicado o acórdão paradigma, seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015" (e-STJ fl. 1.196).
+O embargante alega que "ainda que o objeto da ação verse sobre tema afetado à Segunda Seção desta Corte, nos autos dos Recursos Especiais representativos da controvérsia n. 1.438.263/SP, n. 1.361.872/SP, n. 1.362.022/SP, cumpre destacar que a decisão monocrática se refere ao presente recurso como se este fosse o especial, quando na verdade o recurso pendente de julgamento no STJ é de Agravo em Recurso Especial, de sorte que a simples remessa dos autos à origem não solucionará a lide, uma vez que o Presidente do Tribunal de Justiça de origem já negou seguimento ao recurso especial" (e-STJ fl. 1.201).
+Ao final, requer o acolhimento dos embargos declaratórios para suprir a contradição apontada.
+Impugnação apresentada, com pedido de aplicação da multa do art. 1.026, § 2º, do CPC/2015 (e-STJ fls. 1.237/1.247).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+Sob esse enfoque, os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. ALEGADA OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NÃO OCORRÊNCIA. PRETENSÃO DA PARTE EM OBTER EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. É inadmissível a interposição de embargos declaratórios para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide. Precedentes.
+2. O simples descontentamento com o decisum, a despeito de legítimo, não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AgRg no AREsp 738.681/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/11/2018, DJe 12/11/2018.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. SÚMULA 568 DO STJ. ARGUMENTO DE NÃO INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. REDISCUSSÃO DE TEMA JÁ APRECIADO. IMPOSSIBILIDADE. MULTA PREVISTA NO ART. 557, § 2º DO CPC/1973 (ART. 1.021, § 4º, DO CPC/2015). NÃO INCIDÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022). A ausência do enquadramento fático às hipóteses mencionadas não permite o acolhimento do presente recurso.
+2. Não há qualquer omissão concernente à possibilidade de julgamento monocrático, visto que esta Corte Superior possui firme jurisprudência no sentido de que a legislação processual (art. 557 do CPC/1973, equivalente ao art. 932 do CPC/2015, combinados com a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal, sendo certo, ademais, que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+3. No que tange ao argumento de não incidência da Súmula nº 7 do STJ, verifica-se que está nítido o propósito da parte embargante de rediscutir temas que foram devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração.
+4. Em consonância com a jurisprudência pacífica desta Corte Superior, a simples interposição de agravo contra decisão do relator não implica a imposição de multa.
+5. Embargos de declaração parcialmente acolhidos, apenas para excluir a multa do art. 557, § 2º, do CPC/1973.
+(EDcl no REsp 1.269.844/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/10/2018, DJe 23/10/2018.)
+Segundo a jurisprudência desta Corte Superior, o juízo de retratação pelo Tribunal de origem não é condicionado à análise da admissibilidade do recurso especial, tendo em vista a primazia da uniformização jurisprudencial do direito material, conforme a sistemática do julgamento dos recursos repetitivos trazida no art. 1.030, inciso V, do CPC/2015. Confiram-se:
+PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. JUÍZO DE RETRATAÇÃO PELO ÓRGÃO JULGADOR. ART. 543-B DO CPC. ANÁLISE DOS REQUISITOS DE ADMISSIBILIDADE RECURSAL. IMPOSSIBILIDADE.
+1. Controverte-se acerca da necessidade de prévio juízo de admissibilidade do Recurso Extraordinário pela Vice-Presidência do STJ, para fins de exercício da faculdade de retratação prevista no art. 543-B, § 3º, do CPC.
+2. O juízo de retratação não está condicionado à análise da admissibilidade do Recurso Extraordinário pela Vice-Presidência do STJ. Sem embargo, por ocasião do novo julgamento, o órgão julgador do STJ pode conhecer de questão de ordem pública que impeça a retratação, a exemplo da intempestividade do Recurso Extraordinário, com o consequente trânsito em julgado do acórdão recorrido.
+3. Embargos de Divergência não providos.
+(EREsp 878.579/RS, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 16/10/2013, DJe 21/11/2013.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. PROCESSO CIVIL. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. JUÍZO DE RETRATAÇÃO PELO ÓRGÃO JULGADOR. ART. 543-B DO CPC. DESNECESSIDADE DE JUÍZO PRÉVIO DE ADMISSIBILIDADE DO RECURSO PELA VICE-PRESIDÊNCIA DO STJ. ACÓRDÃO EMBARGADO EM CONSONÂNCIA COM O ENTENDIMENTO DA CORTE ESPECIAL. INCIDÊNCIA DA SÚMULA N.º 168 DO STJ. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. DECISÃO MANTIDA EM SEUS PRÓPRIOS TERMOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O juízo de retratação não está condicionado à análise da admissibilidade do Recurso Extraordinário pela Vice-Presidência do STJ. Sem embargo, por ocasião do novo julgamento, o órgão julgador do STJ pode conhecer de questão de ordem pública que impeça a retratação, a exemplo da intempestividade do Recurso Extraordinário, com o consequente trânsito em julgado do acórdão recorrido" (EREsp 878.579/RS, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 16/10/2013, DJe 21/11/2013).
+2. Em consonância com a orientação firmada neste Superior Tribunal de Justiça, a arguida preclusão da matéria constitucional não é motivo apto a impedir o juízo de retratação, previsto no art. 543- B, § 3.º, do Código de Processo Civil, na medida em que essa questão não se insere dentre os requisitos extrínsecos-objetivos de admissibilidade do recurso extraordinário.
+3. Agravo regimental desprovido.
+(AgRg nos EAg 1.223.541/RS, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 3/9/2014, DJe 23/9/2014.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. JUÍZO DE RETRATAÇÃO PELO ÓRGÃO JULGADOR. ART. 543-B, § 3º, C/C O ART. 542, § 1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 168/STJ. INCIDÊNCIA.
+1. "O juízo de retratação não está condicionado à análise da admissibilidade do Recurso Extraordinário pela Vice-Presidência do STJ. Sem embargo, por ocasião do novo julgamento, o órgão julgador do STJ pode conhecer de questão de ordem pública que impeça a retratação, a exemplo da intempestividade do Recurso Extraordinário, com o consequente trânsito em julgado do acórdão recorrido." (EREsp 878579/RS, Rel. Ministro Herman Benjamin, Corte Especial, julgado em 16.10.2013, DJe 21.11.2013).
+2. Incidência da Súmula 168/STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Agravo regimental improvido.
+(AgRg nos EAg 1.146.255/RS, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 19/3/2014, DJe 27/3/2014.)
+Assim, não se constata nenhum dos casos de cabimento dos embargos declaratórios.
+Indefiro o pedido da parte embargada de aplicação da multa, porque não evidenciada, até o momento, conduta maliciosa ou temerária a justificar tal sanção.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
