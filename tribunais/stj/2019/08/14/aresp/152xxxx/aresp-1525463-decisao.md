@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Distrito Federal e Territórios, que não admitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, em oposição a acórdão assim ementado (e-STJ, fls. 286-287):
+"APELAÇÃO CRIMINAL. INJÚRIA RACIAL. ARTIGO 140, §3º, DO CÓDIGO PENAL. AUTORIA E MATERIALIDADE COMPROVADAS. MANUTENÇÃO DA CONDENAÇÃO. CONTINUIDADE DELITIVA COMPROVADA. MAJORAÇÃO NO MÍNIMO LEGAL. INEXISTÊNCIA DE PROVA ACERCA DO NÚMERO DE INFRAÇÕES. PENA DE MULTA. EXCESSO NA FIXAÇÃO DO VALOR DO DIA-MULTA. MINORAÇÃO. REPARAÇÃO DE DANO MORAL NA SEARA CRIMINAL. POSSIBILIDADE DE ACORDO COM JULGADO DO STJ, TEMA 983. REDUÇÃO DO VALOR FIXADO.
+1. Comprovadas e autoria e a materialidade delitivas, deve ser mantida a condenação.
+2. Tendo o réu cometido mais de uma infração, em continuidade delitiva, deve ser mantida a utilização do artigo 71, do Código Penal, na fração mínima, em razão da não demonstração acerca do número de infrações praticadas.
+3. Tendo o valor do dia-multa sido fixado de forma desproporcional, deve ele ser minorado para se adequar à situação financeira do réu.
+4. Deve ser reduzido o valor do dano moral quando ele se mostra desproporcional à realidade dos autos.
+5. Recurso de apelação conhecido e parcialmente provido."
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 317-328).
+Nas razões do especial (e-STJ, fls. 331-347), a defesa alega violação do art. 386, III, do Código de Processo penal, uma vez que não foi comprovado o animus injuriandi, pois houve discussão recíproca. Acrescenta que também não se fez presente o elemento subjetivo especial. Sustenta, ainda, que " ..  a injúria proferida no calor das discussões, como ocorreu na espécie, não caracteriza o crime tipificado no § 3º do art. 140 do Código Penal, em face da ausência do elemento subjetivo específico do tipo (animus injuriandi)." (e-STJ, fl. 339). Elenca precedentes do TJDFT e um do Supremo Tribunal Federal.
+Foram apresentadas as contrarrazões (e-STJ, fls. 369-371).
+O recurso foi inadmitido em razão da Súmula 7 desta Corte Superior (e-STJ, fls. 373-374). Daí este agravo (e-STJ, fls. 376-397), em que o insurgente busca demonstrar de forma genérica não incidir o óbice à espécie, reiterando, no mais, as razões do recurso especial. A contraminuta foi ofertada (e-STJ, fl. 400).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo. Requereu, ao final, a execução provisória da pena (e-STJ, fls. 415-419).
+É o relatório.
+Decido.
+O recurso não há de ser conhecido.
+Cumpre ao agravante impugnar especificamente todos os fundamentos estabelecidos na decisão que não admitiu o recurso especial (Súmula 182/STJ), dever do qual não se desincumbiu, porquanto se limitou a refutar de forma genérica a incidência da Súmula 7/STJ.
+Com efeito, alegação genérica da desnecessidade de reexame do contexto fático-probatório dos autos não supre, evidentemente, a exigência de impugnação da decisão denegatória, na medida em que é imprescindível demonstrar, de forma clara e objetiva, com o devido desenvolvimento argumentativo, o desacerto da decisão agravada, em relação a cada um de seus fundamentos.
+Dessa forma, essa situação atrai o impeditivo da Súmula 182 deste Superior Tribunal, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido, os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 27/8/2014.
+Ademais, deve-se observar que o art. 932 do Código de Processo Civil de 2015 reafirmou a orientação do STJ ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Outrossim, impende registrar que " ..  a impugnação a que se refere o enunciado da Súmula 182 é a que enfrenta, especificamente, o conteúdo do fundamento, e não a que o faz de maneira genérica" (EDcl no AgRg no AREsp 778.294/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, j.22/11/2016, DJe 5/12/2016, grifo nosso).
+Por fim, em referência ao pedido de execução provisória formulado pelo Ministério Público Federal, após o julgamento do HC 126.292/SP (STF, Relator Ministro TEORI ZAVASCKI, TRIBUNAL PLENO, julgado em 17.2.2016), esta Corte passou a adotar o entendimento do Supremo Tribunal Federal de que " ..  a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal".
+Ante o exposto, não conheço do agravo em recurso especial, nos termos do art. 932, III, do Código de Processo Civil; c/c art. 253, parágrafo único, I, do RISTJ. Determino, outrossim, que se oficie ao Juízo de primeiro grau, para que dê início imediato à execução provisória da pena.
+Publique-se. Intimem-se.
