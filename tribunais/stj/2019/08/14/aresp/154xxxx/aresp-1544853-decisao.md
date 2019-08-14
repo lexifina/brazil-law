@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo apresentado por FLEIZER GOMES BENEDITO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CRIMINAL - PORTE ILEGAL DE MUNIÇÕES DE USO PERMITIDO - ABSOLVIÇÃO POR ATIPICIDADE DA CONDUTA OU POR FALTA DE PROVA - IMPOSSIBILIDADE - REDUÇÃO DA PENA - BASE AO MÍNIMO LEGAL - NECESSIDADE - ISENÇÃO DAS CUSTAS PROCESSUAIS - MATÉRIA AFETA AO JUÍZO DA EXECUÇÃO. O delito do artigo 14 da Lei 10.826/03 é de mera conduta; por isso, não há necessidade de verificação de resultado para que a conduta seja típica.
+O simples fato de portar munições de uso permitido, ainda que acompanhadas de arma de fogo ineficiente, sem a devida autorização, configura o crime em questão, que, em razão de ser crime de perigo abstrato, prescinde de demonstração de lesividade concreta a bem jurídico. Comprovadas a materialidade e a autoria do crime do artigo 14 da Lei 10.826/03, é inviável acolher o pleito absolutório. Ausente fundamentação idônea, impõe-se a redução da pena basilar para o mínimo legal. A condenação do réu no pagamento das custas processuais é efeito da condenação, nos termos do artigo 804 do Código de Processo Penal, e elas somente podem ser isentadas ou terem suspensa a exigibilidade no juízo da execução.
+Quanto à controvérsia, alega violação dos arts. 14 da Lei n. 10.826/2003 e 386, inciso III, do Código de Processo Penal, no que concerne à absolvição do recorrente em razão da atipicidade da conduta, trazendo o(s) seguinte(s) argumento(s):
+O egrégio Tribunal de Justiça de Minas Gerais, por sua 12 Câmara Criminal, contrariou o artigo 14, da Lei 10.826/2003 e artigo 386, III, do Código de Processo Penal, ao reputar existentes tipicidades formal e material à vista do porte de duas munições calibre 38. (fls. 479).
+ ..
+Pois bem. Concernente à contrariedade ao artigo 14, da Lei 10.826/2003 e artigo 386, III, do Código de Processo Penal notadamente por ausência de reconhecimento da atipicidade material do crime de porte ilegal de munição, o Tribunal Mineiro se calcou em premissas inválidas e destoantes do entendimento dos Tribunais Superiores sobre o tema, senão veja-se (fls. 481).
+ ..
+Resta caracterizada a ofensa à lei federal, pois, como demonstrado os fundamentos apresentados pelo Tribunal Mineiro para afastar o reconhecimento da atipicidade do comportamento do Recorrente não são válidos, diante da ausência de potencialidade lesiva relevante para a sociedade em razão do porte de duas munições calibre 38 (fls. 482).
+ ..
+Com essas considerações, impõe-se a absolvição do Recorrente da imputação referente à prática do crime previsto no artigo 14, da Lei 10.826/03, com fincas no artigo 386, III, do Código de Processo Penal (fls. 483).
+É o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem decidiu a questão nos seguintes termos:
+Busca a defesa a absolvição do acusado, seja por atipicidade da conduta, seja por falta de prova.
+Data vênia, não há como acolher o pleito absolutório.
+A materialidade do crime do artigo 14 do Estatuto do Desarmamento está comprovada pelo auto de prisão em flagrante delito (fls. 02/08-v), pelo boletim de ocorrência (fls. 10/21-v), pelo auto de apreensão (fl. 26) e pelo laudo pericial de eficiência e prestabilidade das munições (fl. 85).
+O acusado admitiu perante a autoridade policial ter sido preso "portando uma arma de fogo calibre .38 municiada com dois cartuchos" (fl. 06). Em juízo, ele exerceu seu sagrado direito constitucional de permanecer em silêncio (audiência audiovisual - CD de fl. 208).
+A confissão extrajudicial do réu foi confirmada em juízo pelo policial militar [NOME], que relatou que apreendeu com o apelante um revólver calibre 38 com duas munições (midia de fl. 208).
+Para a tipificação do delito do artigo 14 da Lei 10.826/03, crime de perigo abstrato ou de mera conduta, basta a probabilidade de dano; não é necessária sua efetiva ocorrência. Entretanto, o simples fato de o crime de porte de munições de uso permitido ser de mera conduta ou de perigo abstrato não significa que é prescindível a realização de laudo pericial para aferir a eficiência e prestabilidade delas. Ou seja, é necessário atestar que as munições são aptas a ofender a incolumidade pública, independentemente de tal resultado ocorrer.
+No caso em tela, a despeito de o laudo de fls. 81/82 não ter constatado a eficiência e a prestabilidade da arma de fogo, o laudo de fl. 85 constatou a eficiência e a prestabilidade das duas munições calibre 38 que foram apreendidas com o acusado. Ou seja, elas eram capazes de ofender a integridade física de alguém.
+O bem jurídico tutelado pelo Estatuto do Desarmamento é a incolumidade pública, o que transcende a mera proteção à incolumidade pessoal, abrangendo a garantia e preservação do estado de segurança.
+ ..
+Logo, não há falar em falta de prova ou em atipicidade da conduta imputada ao réu (porte de munições). (fls. 469/472).
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
