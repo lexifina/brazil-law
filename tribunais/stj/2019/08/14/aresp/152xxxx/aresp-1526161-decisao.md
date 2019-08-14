@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo apresentado por ROSANA NOCHELE PONTES PEREIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+DIREITO AUTORAL INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - Pedido de indenização por danos materiais e morais em virtude da utilização de material fotográfico de titularidade do requerente, em campanha eleitoral da ré Parcial procedência Recurso interposto pelo autor, visando a fixação de indenização pelos danos materiais e a majoração do valor arbitrado a título de dano moral Cabimento, em parte - Violação ao disposto no art. 108 da Lei nº 9.610/98 - Dano moral que é presumido e decorre da indevida utilização de obra do autor Quantum indenizatório Montante de R$ 5.000,00 que comporta majoração para o triplo de tal valor, para melhor atender à finalidade da condenação Danos materiais que são igualmente presumidos - Precedentes Valor que, no entanto, deve ser apurado mediante liquidação por arbitramento, tendo como base a tiragem de 20 mil exemplares, pela ré - Sentença reformada Recurso do autor parcialmente provido, improvido o da ré
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 485, IV, do CPC, no que concerne a sua ilegitimidade passiva, trazendo o(s) seguinte(s) argumento(s):
+Portanto, a recorrente é pontualmente parte ilegítima para o compor o polo passivo da presente ação, tendo em vista que acreditou que a imagem objeto da lide era de propriedade da denunciada que lhe prestou o serviço.
+ ..
+Destarte, requer se dignem Vossas Excelências, o reconhecimento da ilegitimidade passiva da recorrente, devendo os autos continuar em face exclusivamente da denunciada CONN COMUNICAÇÕES LTDA - ME (fls. 258/259).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 186 do CC, no que concerne à inexistência de ato ilícito causador de danos morais, trazendo o(s) seguinte(s) argumento(s):
+Assim, não há que se falar em conduta do artigo 186 do Código Civil pela recorrente, sendo certo que o fato foi realizado pelo terceiro CONN COMUNICAÇÕES LTDA - ME quebrando pontualmente o nexo causal no dever de indenizar eventualmente imputado à recorrente (fl. 261).
+Quanto à terceira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 373, I, do CPC, no que concerne à falta de comprovação de fato constitutivo do direito da parte autora (danos materiais), trazendo o(s) seguinte(s) argumento(s):
+Conforme demostrado, o recorrido deixou de comprovar o dano material sofrido, haja vista, que tal dano deve ser comprovado por quem alega, ou seja, no processo de conhecimento porquanto não se desincumbiu esta última do ônus imposto pelo inciso I do artigo 373 do Código de Processo Civil, quanto aos fatos constitutivos do seu direito (fl. 262).
+É o relatório. Decido.
+Quanto às controvérsias dos autos, o Tribunal de origem valeu-se dos seguintes fundamentos para decidir:
+A arguição de ilegitimidade ativa foi corretamente afastada pela r. sentença guerreada. Conforme se verá no transcorrer da fundamentação, sendo a fotografia de autoria do requerente (fls. 03), a evidência que a este confere o direito de proteção à respectiva obra.
+No mais, incontroversa utilização, de fotografia de titularidade do autor, em material utilizado na campanha eleitoral da ré e também apelante fato incontroverso.
+Em vista disso, a violação ao direito autoral em questão é incontroversa. Vale dizer, a ré, citada para os termos da presente ação, admitiu a utilização da sobredita fotografia sem a necessária autorização (limitando-se a atribuir a responsabilidade à litisdenunciada).
+ ..
+Sem autorização do autor da obra, tampouco remuneração e, menos ainda, o imprescindível crédito autoral, a demandada utilizou em seu material de campanha, a fotografia referida, obtendo induvidosamente vantagem.
+ ..
+O dano moral, por seu turno, decorre do ato ilícito, consubstanciado na indevida utilização e é presumido, independe da comprovação de sua ocorrência.
+ ..
+Ainda que não tenha a ré agido com dolo, o artigo 186 do Código Civil é expresso no sentido de que aquele que, também por culpa, causar dano a alguém está obrigado a repará-lo.
+ ..
+Já com relação aos danos materiais e novamente respeitado o posicionamento do d. Magistrado a quo são presumidos e decorrem da utilização indevida da obra do autor, até mesmo porque incontroversa a impressão de vinte mil exemplares na campanha eleitoral da demandada. A apuração do respectivo montante, no entanto, fica relegada à liquidação de sentença, diante da ausência de prova do preço cobrado pela fotografia ou pela sua divulgação (fls. 248/251).
+Tal o contexto, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
