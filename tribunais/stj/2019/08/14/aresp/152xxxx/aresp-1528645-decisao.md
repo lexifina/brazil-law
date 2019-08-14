@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por NOBRE SEGURADORA DO BRASIL S.A - EM LIQUIDAÇÃO EXTRAJUDICIAL contra decisão que inadmitiu o recurso especial, em virtude de ausência de negativa de prestação jurisdicional e incidência da Súmula n. 7/STJ (e-STJ fls. 195/199).
+O acórdão recorrido está assim ementado (e-STJ fl. 73):
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. DECISÃO AGRAVADA QUE MANTEVE A DECISÃO DO JUÍZO A QUO DE INDEFERIMENTO DA GRATUIDADE DE JUSTIÇA, NEGANDO PROVIMENTO AO RECURSO INTERPOSTO PELA SEGURADORA DO RÉU, ORA AGRAVANTE. DECISÃO MANTIDA. APESAR DE AFIRMAR ESTAR PASSANDO POR DIFICULDADES FINANCEIRAS, É FATO QUE A EMPRESA AGRAVANTE POSSUI PATRIMÔNIO, O QUE AFASTA A ALEGADA HIPOSSUFICIÊNCIA, SENDO QUE A DECISÃO ESTÁ EM CONSONÂNCIA COM O ENTENDIMENTO DESTE E. TRIBUNAL, INCLUSIVE TENDO SIDO COLACIONADAS, NA DECISÃO AGRAVADA, DUAS JURISPRUDÊNCIAS RECENTES EM QUE A GRATUIDADE DE JUSTIÇA FOI INDEFERIDA À AGRAVANTE. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 115/122).
+Nas razões do recurso especial (e-STJ fls. 124/174), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente apontou, além de divergência jurisprudencial, ofensa aos artigos:
+(i) 489, § 1º, IV, e 1.022 do CPC/2015, sob o argumento de que "o v. acórdão negou provimento ao Agravo Interno e Instrumento interposto pela Recorrente sem se pronunciar quanto a integralidade e conclusões da documentação juntada aos autos, inclusive quanto ao relatório de direção fiscal, que instruiu o recurso a fim de comprovar a hipossuficiência da entidade liquidanda pois demonstra de forma inequívoca a insuficiência de ativos em relação ao vultuoso passivo" (e-STJ fl. 133),
+(ii) 98 e 99, § 2º, do CPC/2015, pois "a Recorrente demonstrou que efetivamente preenche os pressupostos legais para a concessão da gratuidade de justiça, mediante a juntada de robusta prova documental, razão pela qual seu pleito não poderia ser indeferido, não sem antes ser concedida a oportunidade de juntar novos documentos, (..)" (e-STJ fl. 142).
+No agravo (e-STJ fls. 217/253), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 260).
+É o relatório.
+Decido.
+Da ausência de prestação jurisdicional
+Inicialmente, não há falar em negativa de prestação jurisdicional, pois o Tribunal de origem pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação dos referidos dispositivos. Acerca da omissão apontada pela agravante, manifestou-se o Colegiado de origem (e-STJ fl. 78):
+A decisão ora agravada é clara ao fundamentar que "apesar de afirmar estar passando por dificuldades financeiras, é fato que a empresa agravante possui patrimônio, o que afasta a alegada hipossuficiência", sendo que a decisão está em consonância com o entendimento deste E. Tribunal, inclusive tendo sido colacionadas, na decisão agravada, duas jurisprudências recentes em que a gratuidade de justiça foi indeferida à agravante.
+Dessa forma, tendo em vista não ter a agravante trazido qualquer elemento efetivo justificador da revisão da decisão monocrática, cujos fundamentos estão em conformidade com a jurisprudência desta Corte, e passam a integrar a presente decisão, voto no sentido de que seja NEGADO PROVIMENTO ao recurso, mantendo-se a decisão.
+Dessa forma, verifica-se que a matéria controvertida foi devidamente enfrentada e fundamentada, ainda que contrariamente aos interesses da parte. Assim, o Tribunal de origem não incorreu em omissão, contradição ou obscuridade. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EMBARGOS À EXECUÇÃO - INDEFERIMENTO DO PEDIDO DE JUSTIÇA GRATUITA - DECISÃO MONOCRÁTICA QUE CONHECEU EM PARTE DO RECLAMO E, NESSA EXTENSÃO, DEU-LHE PARCIAL PROVIMENTO APENAS PARA AFASTAR A CONDENAÇÃO/MAJORAÇÃO DE HONORÁRIOS RECURSAIS. INSURGÊNCIA DA EMBARGANTE.
+1. As questões trazidas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões ou contradições, portanto, inexiste a alegada violação ao artigo 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota para a resolução da causa fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta, como ocorre na hipótese.
+Precedentes.
+2.  ..
+2.1.  ..
+3. Agravo interno desprovido.
+(AgInt no REsp 1.671.536/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2018, DJe 17/10/2018.)
+Da gratuidade de justiça
+A Corte Especial do Superior Tribunal de Justiça, quando do julgamento dos EREsp n. 603.137/MG, passou a adotar o entendimento jurisprudencial consagrado pelo STF, no sentido de que a pessoa jurídica, com ou sem fins lucrativos, somente faz jus ao benefício da assistência judiciária gratuita se demonstrar a impossibilidade de dispor de recursos para custeio das despesas processuais. Confira-se a ementa do julgado:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA. HIPÓTESES DO ART. 535 DO CPC. AUSÊNCIA. REAPRECIAÇÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos declaratórios são cabíveis nas hipóteses do art. 535 do CPC, isto é, quando há omissão, obscuridade ou contradição no decisum recorrido. Também admite-se o manejo dos aclaratórios com o objetivo de corrigir erros materiais do julgado, passíveis de serem conhecidos de ofício pelo magistrado. Não é possível utilizar-se dessa espécie recursal com o intuito de rediscutir as questões já resolvidas no julgado recorrido.
+2. Na espécie, o decisório recorrido não contém nenhum dos vícios de fundamentação descritos no art. 535 do CPC, tendo sido examinados todos os pontos necessários ao deslinde da controvérsia. No tocante à comprovação do dissídio jurisprudencial, o inteiro teor do aresto paradigma e o correto cotejo analítico realizado pela embargante demonstram que os acórdãos confrontados partiram de similar suporte fático para conferir tratamento jurídico distinto à matéria apreciada.
+3. Embargos de declaração rejeitados.
+(EDcl nos EREsp 603.137/MG, Rel. Ministro CASTRO MEIRA, CORTE ESPECIAL, julgado em 1º/12/2010, DJe 14/12/2010.)
+Na mesma linha de entendimento, anote-se:
+RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO CIVIL. CONTRATO DE TRANSPORTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. GRATUIDADE DA JUSTIÇA. REQUISITOS. SÚMULA 7/STJ. LIQUIDAÇÃO - EXTRAJUDICIAL. COMPROVAÇÃO DA NECESSIDADE DO BENEFÍCIO. AUSÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. RELAÇÃO CREDITÍCIA EXTINTA. ADIMPLEMENTO DA OBRIGAÇÃO. INAUGURAÇÃO DE REGIME EXECUTIVO CONCURSAL. EFEITOS EX NUNC.
+1. Ação distribuída em 11/5/2011. Recurso especial interposto em 31/1/2018. Autos conclusos à Relatora em 14/8/2018.
+2. O propósito recursal, além de verificar se houve negativa de prestação jurisdicional, é definir (i) se a recorrente faz jus ao benefício da gratuidade da justiça e (ii) se é possível o levantamento, em razão da superveniência de sua liquidação extrajudicial, de valores depositados em juízo a título de cumprimento de obrigação declarada em sentença.
+3. Devidamente analisadas e discutidas as questões deduzidas pelas partes, não há que se cogitar de negativa de prestação jurisdicional, ainda que o resultado do julgamento contrarie os interesses da recorrente.
+4. Para fazer jus ao benefício da gratuidade da justiça, a pessoa jurídica, com ou sem fins lucrativos, deve demonstrar sua impossibilidade de arcar com os encargos processuais (Súmula 481/STJ). A presença ou não dessa circunstância não é passível de reexame em recurso especial (Súmula 7/ST)).
+5. A decretação da liquidação extrajudicial, por si só, não conduz ao reconhecimento da necessidade para fins de concessão da justiça gratuita à pessoa jurídica. Precedentes.
+6. O conteúdo normativo dos arts. 74, § 3º, do Decreto 60.459/67 e 98, § 3º, do Decreto-lei 73/66, apontados como violados nas razões do recurso especial, não dá suporte à tese jurídica exposta, o que atrai a incidência do óbice previsto na Súmula 284/STF.
+7. Hipótese concreta em que a relação creditícia existente entre as partes em litígio foi extinta a partir do momento em que a obrigação pecuniária constituída pelo comando sentencial foi adimplida pela recorrente, que efetuou voluntariamente o depósito da quantia devida.
+8. Não há, no ordenamento jurídico pátrio, dispositivo legal a autorizar que a superveniência da decretação da liquidação extrajudicial, da recuperação judicial ou da falência possa irradiar efeito desconstitutivo sobre pagamentos pretéritos licitamente efetuados.
+9. A deflagração de regimes executivos concursais possui efeitos ex nunc, não retroagindo para regular atos que lhe sejam anteriores.
+RECURSO ESPECIAL NÃO PROVIDO.
+(REsp 1.756.557/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/3/2019, DJe 22/3/2019.)
+A Corte local assentou que estavam ausentes os requisitos necessários ao deferimento da gratuidade da justiça requerida pela recorrente.
+Dissentir das conclusões do acórdão impugnado para conceder o benefício da assistência judiciária gratuita à recorrente, conforme requerido no especial, exigiria o reexame do acervo fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7/STJ. A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. ENTIDADE FILANTRÓPICA. SÚMULA N. 481/STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais" (Súmula 481/STJ).
+2. No caso, o Tribunal de origem, analisando os fatos e as provas dos autos, entendeu que a recorrente não comprovou sua incapacidade de custear as despesas processuais. Rever essa conclusão demandaria o reexame do conjunto fático-probatório dos autos, o que não se admite no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.385.668/SP, de minha relatoria, QUARTA TURMA, julgado em 18/4/2017, DJe 25/4/2017.)
+AGRAVO INTERNO. JUSTIÇA GRATUITA. PESSOA JURÍDICA. LIQUIDAÇÃO EXTRAJUDICIAL. FALTA DE COMPROVAÇÃO DA NECESSIDADE DO BENEFÍCIO. REVISÃO DA CONCLUSÃO ALCANÇADA NA ORIGEM. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. No tocante à pessoa jurídica, cabe consignar que, de acordo com o entendimento cristalizado na Súmula 481/STF: "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+2. A conclusão a que chegou o Tribunal a quo, no sentido de indeferir a benesse pretendida, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Revê-la importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal pelo teor da Súmula 7 do STJ.
+3. Ademais, conforme jurisprudência do STJ, ainda que em regime de liquidação extrajudicial, a concessão do benefício da justiça gratuita à pessoa jurídica depende da demonstração da impossibilidade de arcar com os encargos processuais. Precedentes.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.356.000/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/2/2019, DJe 6/3/2019.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. PESSOA JURÍDICA. ACÓRDÃO RECORRIDO QUE CONCLUIU PELA NÃO DEMONSTRAÇÃO. MODIFICAÇÃO DESSA CONCLUSÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. EMPRESA SUBMETIDA AO PROCEDIMENTO DE RECUPERAÇÃO JUDICIAL. CIRCUNSTÂNCIA, POR SI SÓ, QUE NÃO ENSEJA A PRESUNÇÃO DE HIPOSSUFICIÊNCIA NECESSÁRIA À CONCESSÃO DA GRATUIDADE DE JUSTIÇA. AGRAVO INTERNO DESPROVIDO.
+1. A modificação da conclusão delineada no acórdão recorrido - acerca da não comprovação, pela recorrente, da hipossuficiência imprescindível à concessão da gratuidade da justiça - demandaria necessariamente o revolvimento dos fatos e das provas dos autos, atraindo, assim, o óbice disposto na Súmula 7/STJ.
+2. A circunstância de a pessoa jurídica encontrar-se submetida a processo de recuperação judicial, por si só, é insuficiente para evidenciar a hipossuficiência necessária ao deferimento da gratuidade de justiça. Precedente.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.388.726/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/2/2019, DJe 21/2/2019.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
