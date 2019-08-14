@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO E CONSTITUCIONAL APOSENTADORIA POR IDADE RURÍCOLA INEXISTÊNCIA DE PROVA DA QUALIDADE DE SEGURADO AUSÊNCIA DE INÍCIO DE PROVA MATERIAL PROVA INIDÔNEA IMPROCEDÊNCIA DO PEDIDO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 48, §§ 1º e 2º, da Lei n. 8.213/91, no que concerne à validade dos documentos comprovantes do início de prova material para concessão de benefício previdenciário, trazendo o(s) seguinte(s) argumento(s):
+Os documentos apresentados são indício razoável para comprovação do labor rural, constituída por órgãos públicos, e por isso gozam da presunção de veracidade. O documento onde consta como labor urbano não pertence a recorrente, mas sim a outra pessoa.
+ ..
+Deste modo, pode-se se observar que, temos documentos válidos a comprovar documentalmente, a condição de lavrador do Recorrente, assim como, os documentos juntados nos autos, não existindo dentro do processo qualquer documento que os contrariam (fls. 188/190).
+Quanto à segunda controvérsia, o recurso especial foi interposto pela alínea "c".
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que o(s) artigo(s) apontado(s) como violado(s) não tem/têm comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Não se conhece do recurso especial, quando o dispostivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula n. 284 do STF" (AgInt no REsp n. 1.788.417/SC, relator Ministro Gurgel de Faria, Primeira Turma, Dje de 6/6/2019).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.651.670/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18/6/2019; AgInt no REsp n 1.689.883/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 14/6/2019; AgRg no REsp n. 1351593/RS, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 12/3/2014; e AgRg no AREsp n. 197.224/SP, relatora Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), Quinta Turma, DJe de 20/11/2012.
+Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, pois, a despeito de ter sido apontada a alínea "c" do permissivo constitucional e ter havido transcrição de ementa(s), a parte recorrente não indicou expressamente qual o acórdão tido por paradigma, o que impede eventual análise da divergência de interpretações.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
