@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo apresentado por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO DE INSTRUMENTO LIQUIDAÇÃO DE SENTENÇA EM AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO HABITACIONAL DECISÃO QUE HOMOLOGA VALOR APÓS EXPRESSA ANUÊNCIA DA AGRAVANTE EM RELAÇÃO AO CÁLCULO APRESENTADO POR PERITO PRECLUSÃO CONSUMATIVA HOMOLOGAÇÃO MANTIDA RECURSO CONHECIDO E NÃO PROVIDO (fl. 146).
+Quanto à primeira controvérsia, pela alínea "c" do permissivo constitucional, aponta divergência jurisprudencial no que concerne à não ocorrência da preclusão reconhecida pelo Tribunal a quo , trazendo o(s) seguinte(s) argumento(s):
+ ..  a jurisprudência da colenda Corte do Superior Tribunal de Justiça é pacífica no sentido de que a atualização monetária e os juros moratórios são acessórios da condenação principal, motivo pelo qual, ainda que homologado cálculo anterior, devem ser incluídos na conta da liquidação, inexistindo preclusão ou ofensa à coisa julgada por causa dessa inclusão (fl. 147).
+É o relatório. Decido.
+Incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, o Superior Tribunal de Justiça já se manifestou que: "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF" (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
