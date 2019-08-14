@@ -1,0 +1,17 @@
+DECISÃO
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IPVA. RESPONSABILIDADE SOLIDÁRIA DO CREDOR FIDUCIÁRIO. REPERCUSSÃO GERAL RECONHECIDA PELO STF (TEMA 685 - RE 727.851/MG). RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM PARA OBSERVÂNCIA DO DISPOSTO NO ART. 1.040 DO CÓDIGO FUX.
+1. Trata-se de Agravo Regimental interposto por ALFA ARRENDAMENTO MERCANTIL S.A contra decisão da Presidência do STJ que não conheceu do Agravo por ausência de impugnação específica dos fundamentos de inadmissão do Recurso Especial.
+2. É o relatório.
+3. Verifica-se que a conclusão do julgamento, pelo STF, do RE 727.851/MG (Tema - 685 - Extensão da imunidade tributária recíproca ao IPVA de veículos adquiridos por município no regime da alienação fiduciária), poderá influir na resolução do presente caso. A propósito, confira-se:
+DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IPVA. RESPONSABILIDADE EM ALIENAÇÃO FIDUCIÁRIA. IDENTIDADE DE PARTE DA QUESTÃO CONTROVERTIDA COM AQUELA A SER JULGADA NO RECURSO PARADIGMA. DECISÃO DE SOBRESTAMENTO MANTIDA.
+1. Parte da questão controvertida neste recurso guarda identidade temática com a pretensão que será apreciada no julgamento do RE 727.851-RG, o que autoriza o sobrestamento dos autos.
+2. Agravo interno a que se nega provimento (STF, ARE 991.370 AgR/MG, Rel. Min. ROBERTO BARROSO, DJe de 19.6.2017).
+4. Com efeito, embora a existência de repercussão geral pela Corte Suprema não imponha o sobrestamento do Recurso Especial em matéria idêntica, inexiste óbice a que esta Corte determine a devolução dos autos à origem para a observância do art. 1.040 do Código Fux.
+5. Assim, encontrando-se a matéria com repercussão geral reconhecida, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e esta Corte Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado (AgInt no REsp. 1.366.363/ES, Rel. Min. OG FERNANDES, DJe 23.8.2017). Confira-se, ainda:
+AGRAVO INTERNO EM RECURSO ESPECIAL. TRIBUTÁRIO. PROCESSUAL CIVIL. RECONHECIMENTO DE REPERCUSSÃO GERAL QUANTO AO TEMA VERSADO NO APELO ESPECIAL. SOBRESTAMENTO DESTE ÚLTIMO COM DEVOLUÇÃO À CORTE DE ORIGEM PARA EVENTUAL E OPORTUNO JUÍZO DE CONFORMAÇÃO. POSSIBILIDADE.
+1. Podendo a ulterior decisão do STF, em repercussão geral já reconhecida, afetar o julgamento da matéria veiculada no recurso especial, faz-se conveniente que o STJ, em homenagem aos princípios processuais da economia e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem para que ali, em se fazendo necessário, seja oportunamente realizado o ajuste do acórdão local ao que vier a ser decidido na Excelsa Corte.
+2. A parte agravante não logrou demonstrar, no caso concreto, a ausência de similitude entre o tema trazido em seu especial e o tema pendente de julgamento no STF com repercussão geral, pelo que se impõe a manutenção do sobrestamento ora combatido.
+3. Agravo interno a que se nega provimento (AgInt nos EDcl no REsp. 1.589.873/CE, Rel. Min. SÉRGIO KUKINA, DJe 22.8.2017).
+6. Em face do exposto, torna-se sem efeito a decisão de fls. 210/211 e determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão do Recurso Extraordinário citado, a Corte de origem proceda a novo juízo de admissibilidade, nos termos do art. 1.040 do Código Fux.
+7. Publique-se.
+8. Intimações necessárias.
