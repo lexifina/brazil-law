@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente "foi denunciado pelo ente Ministerial por suposto homicídio em meados de 2004 e, posteriormente condenado a pena de 14 (quatorze) anos e 3 (três) meses, privativa de liberdade, reclusão, cujo trânsito em julgado operou-se em 05/10/2016. Diante do inconformismo da r. decisão, o Paciente [NOME] interpôs a competente revisão criminal nº 0023377-73.2018.8.26.0000, julgada provida, com a desclassificação do crime para lesão corporal seguida de morte (com fulcro art. 129, §3 do CPP), onde foi redimensionada a pena em 05 (cinco) anos e 10 (dez) meses de reclusão, mantendo, todavia, o regime inicial fechado" (e-STJ fls. 2/3).
+Na presente impetração a defesa assere que "diante do inconformismo com a denegação do writ impetrado perante Tribunal de Justiça de São Paulo, o Paciente, revestido de todo o DIREITO adquirido, impetra o HC perante o Excelso Superior Tribunal de Justiça, para que assim, ocorra a concessão do writ, de ofício, e promova o direito do Paciente ao benefício do livramento condicional, em atenção ao Princípio Constitucional da legalidade e, por ser essa a única medida que homenageia a verdadeira e necessária JUSTIÇA" (e-STJ fl. 4).
+Diante disso, requer, liminarmente e no mérito, "a concessão da medida LIMINAR do presente writ, para determinar o imediato ingresso do Paciente no regime semiaberto, ou na ausência de vaga o cumprimento no REGIME DOMICILIAR, ante a existência do fumus boni iuris e periculum in mora, e assim, extirpar o constrangimento ilegal que está sendo mantido o paciente, qual seja, mesmo com decisorium, segue cumprindo a reprimenda indevidamente no regime fechado, suprimindo de forma grosseira a Lei Maior" (e-STJ fl. 9).
+É, em síntese, o relatório.
+Não obstante as razões constantes da petição inicial, o impetrante não juntou aos autos cópia do acórdão impugnado, ou qualquer outro documento apto a comprovar a existência de qualquer ilegalidade ou teratologia.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+ ..
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC 48.939/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 23/4/2015, grifei.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC 54.626/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/3/2015, grifei.)
+Assim, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
