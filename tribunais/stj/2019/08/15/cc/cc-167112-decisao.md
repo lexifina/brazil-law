@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que é suscitante o Juízo de Direito da 3ª Vara Criminal de Blumenau - SC e suscitado o Juízo de Direito da 4ª Vara Criminal de Santo André - SP.
+Extrai-se dos autos que JEFFERSON DE OLIVEIRA SOUZA foi condenado, pelo Juízo de Direito da 4ª Vara Criminal de Santo André - SP, a 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, no regime fechado, e a 14 (quatorze) dias-multa, pela prática do delito do art. 157, § 2º, inciso II, do Código Penal (e-STJ fls. 28-34). A sentença foi confirmada pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à apelação defensiva.
+Expedido o mandado de prisão pelo Juízo de Direito da 4ª Vara Criminal de Santo André - SP, o sentenciado foi preso na Comarca de Blumenau - SC.
+O Juízo suscitado, declinou da competência por entender que, como o sentenciado fixou residência na cidade de Blumenau/SC com sua família, a pena deve ser executada pelo Juízo do local da prisão (e-STJ fls. 81-84).
+O Juízo de Direito da 3ª Vara Criminal de Blumenau - SC suscitou o presente conflito ao entendimento de que o critério para fixação da competência para execução da pena é o local da condenação (e-STJ fls. 101-104).
+Instado a se manifestar, o Ministério Público Federal opinou pela fixação da competência do Juízo de Direito da 4ª Vara Criminal de Santo André - SP (e-STJ fls. 312-315).
+É o relatório.
+Do presente conflito de competência se deve conhecer por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição da República.
+Nos termos da jurisprudência desta Corte, a competência para a execução penal cabe ao Juízo da condenação, visto que o cumprimento de mandado de prisão por comarca diversa não altera a competência legalmente prevista no art. 65 da Lei de Execuções Penais.
+Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PRISÃO PREVENTIVA DE POLICIAL MILITAR. MANDADO DE PRISÃO CUMPRIDO EM OUTRA COMARCA. RECAMBIAMENTO DEFINITIVO. APLICAÇÃO DO ART. 86, § 3.º, DA LEI DE EXECUÇÕES PENAIS. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. O Interessado, policial militar reformado do Distrito Federal, foi denunciado pelo Ministério Público do Estado de Goiás pelo suposto cometimento dos delitos tipificados nos arts. 121, § 2.º, incisos II, III, IV e VI; 121, § 2.º, incisos II, III e IV; 211, por duas vezes; e 347, parágrafo único, todos do Código Penal. Em razão do cumprimento de mandado de prisão expedido nos autos da Ação Penal n.º 201603050820, está preso preventivamente nas dependências do 19.º Batalhão de Polícia Militar do Distrito Federal - PMDF desde 31/08/2016. Sobreveio decisão de pronúncia do Acusado, oportunidade em que foi mantida a sua prisão preventiva.
+2. A permanência do Acusado no Juízo Suscitante, VARA DE EXECUÇÕES PENAIS DE BRASÍLIA/DF, decorre do cumprimento de mandado de prisão expedido pelo Juízo Suscitado, 1.ª VARA CRIMINAL DE ÁGUAS LINDAS DE GOIÁS/GO.
+3. Conflito negativo de competência entre juízes vinculados a tribunais diversos para o cumprimento da segregação cautelar do Interessado.
+4. Está evidenciado, no caso, que o Suscitado extrapolou dos limites da sua competência ao determinar a permanência do Pronunciado em unidade prisional de outra unidade da Federação, porque inexistente cela especial na comarca de onde emanou o decreto de prisão preventiva.
+5. Mutatis mutandis, a Terceira Seção desta Corte Superior orienta-se no sentido de que o cumprimento do mandado de prisão do Apenado em Estado da Federação diverso daquele onde foi processado não implica deslocamento da competência, sendo aplicável o disposto no art. 65 da Lei de Execuções Penais, que consagra ser competente o Juiz indicado na lei local de organização judiciária ou, na sua ausência, o que proferiu a sentença condenatória.
+6. A inexistência absoluta de condições para abrigar o preso na Unidade da Federação a que está vinculado o Juízo que determinou a prisão preventiva autoriza a adoção de providências alternativas, v.g., cela diferenciada de outras onde há presos comuns, prisão domiciliar cumulada com outras medidas previstas no art. 319 do Código de Processo Penal.
+7. Conflito conhecido para declarar competente o JUÍZO DE DIREITO DA 1.ª VARA CRIMINAL DE ÁGUAS LINDAS DE GOIÁS/GO, ora Suscitado, para promover o recambiamento definitivo do Interessado para estabelecimento prisional do Estado de Goiás.
+(CC 161.783/DF, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, julgado em 28/11/2018, DJe de 14/12/2018; sem grifos no original.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO DE PENA. PRISÃO EM CUMPRIMENTO DE MANDADO EM COMARCA DIVERSA. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO DO LOCAL EM QUE FOI PROFERIDA A SENTENÇA CONDENATÓRIA DEFINITIVA. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. O simples fato de o condenado ter sido preso em Comarca diversa em cumprimento de mandado de prisão expedido pelo Juiz prolator da sentença penal condenatória não constitui causa legal de deslocamento da competência originária para a execução da pena.
+Ressalte-se que o enunciado n. 192 da Súmula do STJ se restringe aos casos nos quais o sentenciado já estava cumprindo pena em estabelecimento prisional estadual.
+Conflito conhecido para declarar competente o Juízo de Direito da Vara de Execuções Criminais de Juiz de Fora - MG, o suscitado.
+(CC 156.747/BA, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 25/04/2018, DJe de 11/05/2018; sem grifos no original.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS CRIMINAIS ESTADUAIS: EXECUÇÃO DE PENA. PRISÃO PREVENTIVA EM OUTRA COMARCA. AUSÊNCIA DE TRANSFERÊNCIA LEGAL - ART. 86 DA LEP. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO DO LOCAL EM QUE FOI PROFERIDA A SENTENÇA CONDENATÓRIA DEFINITIVA.
+1. O simples fato de o condenado estar preso em Comarca diversa daquela competente para a execução da sentença, em cumprimento de mandado de prisão preventiva expedido por um terceiro Juízo, não constitui causa legal de deslocamento da competência originária para a execução da pena. Precedentes.
+2. Conflito conhecido, para declarar a competência do Juízo de Direito da Comarca de Rio Meleiro/SC, o suscitado, para a execução da pena do condenado.
+(CC 148.926/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 28/09/2016, DJe de 27/10/2016, sem grifos no original.)
+Ante o exposto, conheço do conflito e declaro competente o Juízo de Direito da 4ª Vara Criminal de Santo André - SP, ora suscitado.
+Publique-se.
+Dê-se ciência aos juízes em conflito.
+Cientifique-se o Ministério Público Federal.
