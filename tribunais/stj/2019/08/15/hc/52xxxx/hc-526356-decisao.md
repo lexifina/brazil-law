@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra decisão proferida por Desembargador do Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 0198705-70.2019.8.21.7000).
+Segundo consta dos autos, o paciente teve sua prisão preventiva decretada e foi denunciado pela suposta prática do crime previsto no art. 157, § 3º, inciso II, do Código Penal Brasileiro.
+A defesa formulou pedido de liberdade provisória do paciente. O Juízo singular, contudo, indeferiu o pleito (e-STJ fl. 68).
+Inconformada, a defesa impetrou habeas corpus com pedido liminar na Corte estadual alegando, em síntese, que os pressupostos legais para decretação da prisão preventiva não estão presentes no caso e que o decreto de prisão preventiva do paciente não foi devidamente fundamentado.
+O Desembargador do Tribunal de origem, contudo, indeferiu a liminar pleiteada (e-STJ fls. 21/31).
+Na presente oportunidade, a defesa reitera que a decisão de prisão preventiva do paciente se alicerça em fundamentos inidôneos e que os requisitos legais para a manutenção da constrição cautelar (art. 312 do CPP), não estão presentes no caso. Sublinha que houve excesso de prazo para oferecimento da denúncia. Ressalta que não há indícios suficientes de autoria ou materialidade. Expõe que a instrução processual já se findou, de modo que não há a possibilidade que ameaças ocorram. Explana que o acusado é detentor de circunstâncias favoráveis, podendo responder ao julgamento do processo em liberdade.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva do paciente ou, subsidiariamente, a substituição por medidas cautelares diversas, com a superação da Súmula n. 691/STF.
+É o relatório. Decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Não é o que se verifica no caso.
+Consoante se observa dos autos, a decisão que indeferiu o pedido liminar na origem não ostenta ilegalidade evidente e apta a desafiar o controle antecipado por este Superior Tribunal.
+Ainda, seguem os motivos expostos no decreto prisional (e-STJ fls. 34/35):
+A Autoridade Policial representou pela decretação da prisão temporária de [NOME], bem como pela expedição de mandado de busca e apreensão (fl. 122).
+Testemunhas relataram que viram [NOME] ir em direção à casa da vítima no dia em que, supostamente, o homicídio ocorreu. Ainda, aquelas relatam que vêm sofrendo ameaças por terem afirmado tal circunstância perante a Autoridade Policial.
+Diante dos fatos apurados, bem como das contradições apresentadas nos interrogatórios colhidos na fase policial, faz-se necessária a decretação da prisão preventiva dos acusados.
+O princípio da presunção de inocência é preceituado no artigo 5º, inciso LVII da Constituição Federal, se fundamentando na premissa de que ninguém será considerado culpado até o trânsito em julgado da sentença penal condenatória.
+Nessa esteira, a prisão cautelar, antes do trânsito em julgado da sentença irrecorrível, pelo que dispõe a atual ordem constitucional, somente será permitida nos casos excepcionais em que tal medida apareça como necessária, e que não se possa aplicar outra medida de ordem cautelar.
+Há prova da materialidade e indícios suficientes da autoria, o que se extrai dos depoimentos colhidos pela Autoridade Policial, tratando-se de fato grave, praticado com uso de arma de fogo, gerando insegurança na comunidade local.
+Os casos excepcionais se fundamentam na existência, no caso concreto, do fumus comissi delicti e do periculum iibertatis, pressupostos da tutela cautelar, na esfera penal, os quais vêm apontados no artigo 312 do Código de Processo Penal, bem com da adequação do caso ao preceituado no artigo 313, do mesmo diplome legal.
+No que tange ao fumus comissi delicti, verifica-se que existem suficientes indícios de autoria do delito, em especial em razão dos depoimentos de testemunhas, aliado ao relatório de quebra de sigilo telefônico.
+Com referência ao periculum in libertatis, o delito pelo qual o segregado está sendo acusado é grave, sendo, inclusive, equiparado a hediondo, conforme artigo 1a, inciso I, da Lei 8.072 de 25 de julho de 1990.
+A PRISÃO PREVENTIVA se faz necessária no presente caso para garantia da ordem pública, da instrução criminal da aplicação da lei penal.
+Com efeito, Se as circunstâncias concretas da prática do crime indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria (HC n. 126.756, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 23/6/2015, publicado em 16/9/2015).
+Nesse mesmo sentido:
+(..) "A jurisprudência desta Corte consolidou o entendimento de ser idônea a prisão decretada com base em fatos concretos observados pelo juiz na instrução processual, notadamente a periculosidade, não só em razão da gravidade do crime, mas também do modus operandi da conduta delituosa." (STF, HC n. 124.562, Relator Ministro GILMAR MENDES, Segunda Turma, julgado em 24/3/2015, publicado em 24/4/2015)
+Entendo, assim, que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar, no momento adequado, a argumentação da impetração e as provas juntadas ao mandamus originário.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
