@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+PROCESSO CIVIL. AGRAVO EM APELAÇÃO CÍVEL. VÍCIOS DE CONSTRUÇÃO. IMÓVEIS FINANCIADOS COM RECURSOS DO SISTEMA FINANCEIRO DA HABITAÇÃO. LEI Nº 12.409/2011. CONTRATO ATIVO. PRESCRIÇÃO. INOCORRÊNCIA. OBRIGAÇÃO DE TRATO SUCESSIVO.
+1. O objeto principal do seguro é a cobertura do risco contratado: o evento futuro e incerto que poderá gerar o dever de indenizar por parte do segurador.
+2. A obrigatoriedade do seguro nos contratos de financiamento habitacionais, como dispõe o art. 2º do DL nº 73/66, objetiva a proteção do bem dado em garantia de financiamento, de maneira que é perfeitamente admissível que somente os riscos efetivamente prejudiciais ao bem sejam objeto da proteção securitária.
+3. O contrato de seguro obrigatório firmado no âmbito do SFH é peculiar; o mutuário não se encontra propriamente na posição de segurado; o próprio agente financeiro verá seu direito creditício satisfeito na hipótese de ocorrência de algum dos sinistros declinados na Apólice habitacional - o que, por consectário lógico, afasta a incidência do prazo de um ano para apontamento da prescrição de seus pleitos em face da companhia seguradora.
+4. Trata-se de ação pessoal, cujo prazo prescricional é de 20 anos na vigência do Código Civil de 1916 (art. 177) e de 10 anos a partir da entrada em vigor do Código Civil de 2002 (art. 205), nos termos do artigo 2.028 do novo Código Civil.
+5. Cuidando-se de contrato ativo, o provimento do agravo é para anular a sentença, afastando-se a prescrição declarada.
+6. Agravo provido.
+Nas razões de recurso especial, alega a recorrente violação dos artigos 20, 131, 269, I, 330, I, 333, I, 420, 475, 515, 535 do Código de Processo Civil de 1973; 177 e 178, § 6º, II, do Código Civil de 1916; 189, 193, 206, §1º, II, e 2028 do Código Civil; e 5º, XXXIV, XXXV, LIV e LV, e 93, IX, da Constituição Federal.
+Embora a análise de suposta violação a artigos da Constituição seja inviável em sede de recurso especial, sendo reservada ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Constituição Federal, nos termos da iterativa jurisprudência desta Corte (cf. EDcl no MS 11.484/DF, Relator Ministro Paulo Gallotti, Terceira Seção, DJ 2.10.2006), merece reforma o acórdão recorrido, o qual foi publicado antes da entrada em vigor da Lei 13.105/2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Isso porque entendimento do Tribunal de origem não está de acordo com a jurisprudência desta Corte, segundo a qual é anual o prazo de prescrição para as ações propostas pelo segurado contra a seguradora. Confira-se:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO SECURITÁRIA POR VÍCIOS CONSTRUTIVOS - SEGURO HABITACIONAL - PRAZO PRESCRICIONAL ÂNUO - PRECEDENTES DO STJ. INCONFORMISMO DA SEGURADA.
+1. Acórdãos oriundos da mesma turma que apreciou o julgado embargado não são aptos a demonstrarem o dissídio jurisprudencial que enseja a admissão dos embargos de divergência.
+2. Aplica-se às ações ajuizadas por segurado/beneficiário em desfavor de seguradora, visando à cobertura de sinistro referente a contrato de mútuo celebrado no âmbito do Sistema Financeiro da Habitação - SFH, o prazo prescricional anual, nos termos do art. 178, § 6º, II, do Código Civil de 1916.
+3. Embargos de divergência parcialmente conhecidos e, nessa parte, desprovidos.
+(EREsp 1272518/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 24/06/2015, DJe 30/06/2015)
+Em face do exposto, dou provimento ao recurso especial, a fim de considerar prescrita a pretensão. Prejudicadas as demais questões. Custas e honorários pela parte autora em R$ 1.000,00 (mil reais), considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
