@@ -1,0 +1,30 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. REGIME SEMIABERTO. FUNDAMENTOS CONCRETOS A JUSTIFICAR A MEDIDA (1303 CÁPSULAS DE COCAÍNA COM PESO TOTAL DE 527,7G). PRECEDENTES.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça de São Paulo que, ao dar parcial provimento ao recurso defensivo, fixou o regime semiaberto para o início de cumprimento da pena.
+Tem-se dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime fechado, e 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006 (fls. 24/32 - Processo n. 1501137-08.2018.8.26.0617).
+Irresignada, a defesa apresentou apelação perante o Tribunal de Justiça que, por sua vez, deu parcial provimento ao recurso para redimensionar a pena do ora paciente para 2 anos e 6 meses de reclusão, em regime semiaberto, e 250 dias-multa (fls. 40/50 - Apelação criminal n. 1501137-08.2018.8.26.0617).
+Daí o presente writ, em que se alega constrangimento ilegal na fixação do regime semiaberto para o início de cumprimento da pena, eis que no caso em tela, o regime adequado para início do cumprimento da pena é o aberto, já que a pena final foi fixada em 02 anos e 06 meses de reclusão. Observa-se ainda que o paciente é primário, confesso e, conforme reconhecido em ambas instâncias, as circunstâncias judiciais são favoráveis, tanto que a pena base foi fixada no patamar mínimo legal (fl. 6).
+Requer-se a concessão liminar da ordem para que seja cassada a r. decisão impugnada, fixando o regime aberto para início de cumprimento da pena (fl. 7).
+É o relatório.
+Extrai-se do acórdão ora impugnado (fl. 49):
+ ..  No caso dos autos, pela circunstância concreta apurada no feito (o apelante guardava e mantinha em depósito, para fins de tráfico, 1303 cápsulas contendo o total de 527,7g de cocaína, narcótico com alto poder vulnerante à vida e à saúde humana, além de ser espécie de droga com alta capacidade de causar o vício), não se mostra suficiente a substituição da pena privativa de liberdade por restritivas de direitos (art. 44, inciso III, do Código Penal).
+Do mesmo modo, mesmo que pela pena aplicada preveja o art. 33, §2º, alínea "c", do Código Penal, o regime inicial aberto, com fundamento no art. 33, §3º, do Código Penal, pela culpabilidade da conduta verificada, diante dos fundamentos expostos para a não substituição da pena corporal por restritivas de direitos, impõe-se a estipulação do regime inicial semiaberto para que se efetive a pena como suficiente à prevenção e repressão do crime, em obediência à constitucional individualização da pena.
+Da análise dos autos, é perceptível a presença de fundamentação idônea a ensejar a aplicação do regime semiaberto, mormente no que se refere à quantidade e natureza da droga apreendida - 1303 cápsulas contendo o total de 527,7g de cocaína.
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO PRIVILEGIADO. DOSIMETRIA. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS. QUANTIDADE DE DROGAS APREENDIDAS. POSSIBILIDADE DE FIXAÇÃO DO REGIME INICIAL SEMIABERTO. PRECEDENTES. NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITOS. REQUISITOS LEGAIS NÃO PREENCHIDOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+IV - No caso, aplicada a pena de 1 ano e 8 meses de reclusão, entendo que deve ser estabelecido o regime inicial intermediário, nos termos do art.33, § 3º, do Código Penal, e do art.42 da Lei de Drogas. A quantidade e variedade dos entorpecentes podem ser utilizadas como fundamento a ensejar a aplicação do regime mais danoso, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, b, e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/06. . Precedentes.
+V - O Supremo Tribunal Federal, ao analisar o HC n. 97.256/RS, reconhecendo a inconstitucionalidade da parte final do art. 33, § 4º, da Lei de Drogas, passou a admitir a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44 do Código Penal.
+VI - Na espécie, a quantidade de entorpecentes apreendidos não recomenda a substituição da pena, nos termos do inciso III do art. 44 do Código Penal, não havendo, portanto, qualquer ilegalidade na negativa da benesse em tela . Precedentes.
+Habeas corpus não conhecido. Ordem de ofício para, confirmando a liminar anteriormente concedida (fls. 65-68), fixar o regime semiaberto para resgate da reprimenda, mantido os demais termos da condenação.
+(HC 507.551/SP, Ministro Felix Fischer, Quinta Turma, DJe 20/5/2019)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO. GRANDE QUANTIDADE DE DROGAS. RÉU REINCIDENTE. REGIME SEMIABERTO CONCEDIDO NESTA SUPERIOR INSTÂNCIA. PRETENSÃO DE FIXAÇÃO DO REGIME ABERTO. IMPOSSIBILIDADE. QUANTIDADE DE ENTORPECENTES QUE AUTORIZA O AFASTAMENTO DA REDUTORA DO ART. 33, § 4º, DA LEI 11.343/2006 E, CONSEQUENTEMENTE, O ESTABELECIMENTO DO REGIME MAIS BRANDO. AGRAVO IMPROVIDO.
+1. Embargos de declaração recebidos como agravo regimental, em homenagem ao princípio da celeridade e economia processual.
+2. De acordo com o entendimento desta Corte Superior, a quantidade e/ou a natureza da droga podem justificar a não aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006 quando evidenciarem, como na espécie, a dedicação à atividade criminosa.
+3. Logo, afastada, motivadamente, a incidência da causa de redução de pena do art. 33, § 4º, da Lei Tóxicos, e mantida a pena de 5 anos de reclusão estabelecida pelas instâncias ordinárias, restam prejudicados os pleitos de imposição do regime inicial aberto e de substituição da pena privativa de liberdade por restritiva de direitos, nos termos dos arts. 33, § 2º, b, e 44, I, ambos do Código Penal.
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no HC 499.587/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 28/6/2019)
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
