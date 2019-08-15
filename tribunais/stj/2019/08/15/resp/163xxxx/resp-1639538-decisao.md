@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, a União Federal opôs embargos à execução, com valor da causa de R$ 100,00, em julho de 2003, resistindo à pretensão deduzida por [NOME] e outros relativa à retenção de imposto de renda.
+O Juízo de primeira instância rejeitou os embargos fazendários, bem como julgou parcialmente procedente a pretensão dos contribuintes, para reconhecer o direito à compensação dos valores indevidamente retidos a título de imposto de renda incidente sobre verbas recebidas a título de férias vencidas e não gozadas, licença-prêmio e APIP.
+Interposta apelação fazendária, o Tribunal Regional Federal da 1ª Região negou provimento ao recurso, considerando que não restou comprovada a dedução das verbas indenizatórias da base de cálculo do imposto. O referido acórdão foi assim ementado, in verbis:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO DE TÍTULO JUDICIAL. COMPENSAÇÃO DOS VALORES RESTITUÍDOS NA DECLARAÇÃO ANUAL DO IMPOSTO DE RENDA PESSOA FÍSICA: MATÉRIA A SER ARGÜIDA NO PROCESSO DE CONHECIMENTO. INCLUSÃO DA SELIC. OFENSA À COISA JULGADA.
+1. Por força dos artigos 467 e 468 do CPC, não há como substituir pelos juros de mora e correção monetária a taxa Selic, que não é cumulada com juros moratórios ou correção monetária, sob pena de ofensa à coisa julgada.
+2. Além de não restar comprovada a dedução das verbas indenizatórias (isentas e não-tributáveis) da base de cálculo do imposto, a matéria relativa à compensação dos valores retidos com os valores restituídos a título de imposto de renda deveria ter sido argüida em sede de cognição, posto que cabe ao réu a prova dos fatos impeditivos, modificativos ou extintivos do direito do autor (art. 333, II, CPC), não podendo ser apreciada na fase de execução.
+3. Apelação improvida.
+Os embargos de declaração interpostos foram improvidos.
+Contra a decisão cuja ementa se encontra acima transcrita, a Fazenda Nacional interpôs o presente recurso especial.
+Apontou a violação ao art. 535 do CPC/1973, sustentando, em resumo, que, não obstante a oposição dos declaratórios, o Tribunal de origem não apreciou o fato de que a dedução nos cálculos de liquidação dos valores do imposto de renda já restituídos por ocasião da declaração de ajuste anual diz respeito ao procedimento de apuração do quantum debeatur, o que não foi objeto de apreciação na fase de conhecimento.
+Indicou a ofensa aos arts. 333, 334 e 741, todos do CPC/1973, bem como 142 do CTN, aduzindo que o Tribunal de origem deveria ter considerado que a prova da alegação do pagamento de parte do crédito foi juntada aos autos, o que demonstra o excesso na execução.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Assiste razão à recorrente, no que toca à alegada violação ao art. 535 do CPC/1973.
+De fato, a recorrente apresentou questão jurídica relevante, qual seja, o fato de que a dedução nos cálculos de liquidação dos valores do imposto de renda já restituídos por ocasião da declaração de ajuste anual diz respeito ao procedimento de apuração do quantum debeatur, o que não foi objeto de apreciação na fase de conhecimento. É dizer, a Fazenda Nacional apontou que já restituiu parte do imposto de renda relativo às verbas em questão, considerando que elas estavam incluídas na base de cálculo do imposto, acresceram o tributo retido e geraram restituição maior. Por fim, indicou que comprovou esses fatos mediante planilhas com dados oficiais, os quais não foram contestados mediante prova idônea pelos contribuintes.
+Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou essas questões essenciais para que seja dirimida a controvérsia.
+Ante a negativa de prestação jurisdicional, apresenta-se violado o art. 535 do CPC/1973, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo, a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
