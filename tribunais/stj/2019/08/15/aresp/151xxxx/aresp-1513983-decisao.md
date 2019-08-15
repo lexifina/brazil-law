@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] ROBERTO contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 242/246, in verbis:
+[NOME] - ora agravante - foi condenado, em primeira instância, como incurso no art. 304, "caput", do Código Penal, à pena de 2 anos de reclusão, em regime inicial aberto, e pagamento de 10 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos, pois, no dia 28/1/2015, "foi abordado por policiais militares, durante fiscalização de rotina, e, apresentou-lhes a CNH falsa, posto que a numeração do documento referia-se ao registro do condutor [NOME]".
+A Defesa interpôs recurso de apelação, requerendo a absolvição do réu, ao argumento de que "a falsidade grosseira, inapta a causar qualquer prejuízo, configura crime impossível por absoluta ineficácia do meio" e que "a apresentação do documento não foi espontâneo  sic  como requer o tipo penal em apreço, mas sim, provocado". O Tribunal de Justiça do Estado de São Paulo, por maioria, negou provimento ao apelo, em acórdão assim ementado:
+APELAÇÃO CRIMINAL - Uso de documento público falso - Autoria e materialidade delitiva perfeitamente demonstradas - Prova robusta a admitir a condenação do réu - penas e regime prisional fixados com critério - Recurso desprovido.
+Em seguida, foram opostos embargos infringentes, que restaram desprovidos pelo órgão colegiado.
+Foi, então, interposto recurso especial, com fundamento no art. 105, III, alínea "a", da Constituição Federal, em que sustenta negativa de vigência ao art. 304 do Código Penal, e art. 386, inciso III, do Código de Processo Penal, sob a alegação de que a conduta seria atípica,"já que não houve a manifestação espontânea do Recorrente ao apresentar a documentação, tendo somente respeitado e cumprido ordem proferida pelos policiais militares".
+A Presidência do TJSP inadmitiu o apelo nobre, por incidência da Súmula nº 7 do Superior Tribunal de Justiça.
+Contra essa decisão foi interposto o presente agravo.
+Ao final, o Parquet opinou pelo desprovimento do agravo.
+É o relatório.
+Decido.
+O recurso não merecer prosperar.
+É que, na linha da jurisprudência deste Tribunal Superior, "o delito previsto no art. 304 do Código Penal consuma-se mesmo quando a carteira de habilitação falsificada é exibida ao policial por exigência deste, e não por iniciativa do agente" (AgRg no REsp n. 1758686/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/9/2018, DJe 3/10/2018).
+Nesse mesmo sentido:
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. ABSOLVIÇÃO. ALEGAÇÃO DE QUE O RÉU NÃO UTILIZOU DO DOCUMENTO. INVIABILIDADE. TEMA QUE DEMANDA REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. ATIPICIDADE DA CONDUTA (AUTODEFESA). IMPROCEDÊNCIA. ACÓRDÃO A QUO EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE. SÚMULA 83/STJ. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. INEXISTÊNCIA DE ILEGALIDADE. CIRCUNSTÂNCIA JUDICIAL VALORADA NEGATIVAMENTE COM BASE EM FUNDAMENTO IDÔNEO E CONCRETO.
+1. Se o Tribunal a quo firmou a existência de prova condenatória, inviável alterar tal entendimento sem o reexame do acervo fático-probatório, providência inviável na via especial (Súmula 7/STJ).
+2. O Superior Tribunal de Justiça, alinhando-se à posição adotada pelo Supremo Tribunal Federal, firmou a compreensão de que tanto a conduta de utilizar documento falso como a de atribuir-se falsa identidade para ocultar a condição de foragido caracterizam, respectivamente, o crime do art. 304 e do art. 307 do Código Penal, sendo inaplicável a tese de autodefesa; situação que atrai o disposto na Súmula 83/STJ, aplicável ao recurso especial interposto com fundamento, também, na alínea a do permissivo constitucional. Precedentes.
+3. A fixação da pena-base - com base nas circunstâncias judiciais do art. 59 do Código Penal - não se dá por critério puramente objetivo ou matemático, uma vez que é admissível certa discricionariedade do órgão julgador, desde que vinculada aos elementos concretos dos autos. No caso, o Juízo processante fixou a pena acima do mínimo legal valorando negativamente a culpabilidade do acusado com base em elemento concreto e idôneo. Logo, não há falar em ilegalidade.
+4. Agravo regimental improvido.
+(AgRg no AREsp 138.807/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/03/2015, DJe 11/03/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. ABSOLVIÇÃO. SÚMULA N. 7 DO STJ. AUTODEFESA. INVIABILIDADE.
+REGIME INICIAL MENOS GRAVOSO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. MAUS ANTECEDENTES CARACTERIZADOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A pretensão absolutória implica juízo de suficiência da prova da autoria e da materialidade delitiva, o que não é viável em recurso especial por demandar reexame fático-probatório, consoante o entendimento da Súmula n. 7 do STJ.
+2. A justificativa da utilização de documento falsificado, a fim de ocultar a condição de foragido da justiça, como exercício de autodefesa, não é admitida por esta Corte Superior, independentemente de haver solicitação da autoridade policial para apresentar o documento. Precedente.
+3. As condenações atingidas pelo período depurador previsto no art. 64, I, do Código Penal, embora não caracterizem mais reincidência, podem ser sopesadas a título de maus antecedentes. Precedentes.
+4. Os antecedentes do réu - apesar de não considerados na fixação da pena-base - são desfavoráveis e justificam o regime semiaberto e a não substituição da privativa de liberdade por restritiva de direitos.
+5. Agravo regimental não provido.
+(AgRg no AREsp 1398376/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/06/2019, DJe 01/07/2019)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE, NA ESPÉCIE. TENTATIVA. FRAÇÃO DE REDUÇÃO. SÚMULA N.7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. CRIME DE USO DE DOCUMENTO FALSO. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+- O princípio da insignificância é aplicado quando satisfeitos os seguintes requisitos: a) conduta minimamente ofensiva; b) ausência de periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento e, d) lesão jurídica inexpressiva.
+In casu, a conduta consistente na tentativa de furto de malotes da Caixa Econômica Federal, em plena 10:30hs da manhã, revela acentuada ousadia apta a afastar a pequena ofensividade do modo de agir do agravante.
+- A avaliação do iter criminis percorrido pelo agravante, para que seja aplicado o grau máximo da fração pela tentativa, enseja o revolvimento de fatos e provas, vedado no recurso especial, conforme Súmula n. 7 do STJ.
+- "O entendimento que se firmou na jurisprudência deste Superior Tribunal de Justiça é de que não fica afastada a tipicidade do delito previsto no art. 304 do Código Penal em razão de a atribuição de falsa identidade originar-se da apresentação de documento à autoridade policial, quando por ela exigida, não se confundindo o ato com o mero exercício do direito de defesa" (ut, HC 228.631/SP, Rel. Ministro Leopoldo de Arruda Raposo - Desembargador convocado do TJ/PE -, Quinta Turma, DJe 11/03/2015) Agravo regimental desprovido.
+(AgRg no REsp 1160472/TO, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 17/09/2015, DJe 13/10/2015)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
