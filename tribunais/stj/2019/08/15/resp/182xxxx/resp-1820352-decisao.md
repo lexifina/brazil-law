@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] DO ESPIRITO SANTO, fundamentado na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que negou provimento à apelação defensiva.
+Depreende-se da análise dos autos que, após regular instrução processual, o ora recorrente foi condenado às penas de 5 (cinco) anos e 4 (quatro) meses de reclusão e de 13 (treze) dias-multa, cada qual no mínimo legal, fixado o regime inicial fechado, pela prática do crime previsto no art. 157, § 2º, II, do CP.
+O Tribunal de origem negou provimento ao apelo da defesa (e-STJ fls. 189-196).
+Daí o presente recurso especial, em que o réu aponta violação dos arts. 33, § 3º, e 59, caput, ambos do Código Penal.
+Sustenta, em síntese, que não poderia ter sido fixado o regime inicial fechado para o cumprimento da reprimenda desfundamentadamente.
+Requer, ao final, o provimento do especial para que seja estabelecido o regime inicial semiaberto (e-STJ fls. 200-208).
+Apresentadas as contrarrazões (e-STJ fls. 214-219), após o juízo prévio de admissibilidade (e-STJ fl. 222), os autos ascenderam ao Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do inconformismo (e-STJ fls. 233-237).
+É o relatório.
+Decido.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+No que concerne ao regime inicial para o cumprimento da pena, constata-se que o sentenciante aplicou o inicialmente fechado, sob os seguintes fundamentos (e-STJ fl. 145):
+ ..  O regime inicial de cumprimento de pena é o fechado, único compatível com a personalidade agressiva e audaciosa do réu, bem como adequado à repressão e contenção de conduta de roubo em concurso de agentes, eis que se trata de crime que espalha o medo e a insegurança entre a população honesta e ordeira, que mais tempo vive engaiolada em casa e nos veículos, com pânico da abordagem criminosa Além de empregar o simulacro, o réu também agrediu a vítima durante luta corporal, causando vias de fato.
+A Corte a quo, por sua vez, confirmou a sentença, consoante se verifica do seguinte trecho (e-STJ fl. 193):
+ ..  Não merece guarida o pleito de fixação de regime mais brando, sendo o regime fechado o único adequado face ao Princípio da Suficiência, por se tratar de crime cometido em concurso de agentes, com emprego de simulacro de arma, o que faz merecer maior reprovabilidade de sua conduta e uma terapêutica penal mais rigorosa. Trata-se de delito que tanto intranquiliza a população ordeira, sendo verdadeira praga atual que faz com todo cidadão tenha receio de sair às ruas em face da crescente violência e ataque ao patrimônio. Só para mencionar, os roubos no Estado de São Paulo atingiram no mês de outubro de 2017 o número absurdo de 527.000 no Estado, sendo que estava em 2003 na casa de 160.000. Isso exige medidas drásticas para conter essa criminalidade ousada e violenta, que tira a tranquilidade de todo cidadão e que não se atemoriza com regime prisional mais brando que o fechado.
+Pela leitura dos excertos acima transcritos, verifica-se que o acórdão recorrido está em consonância com a orientação jurisprudencial desta Corte, pois as circunstâncias do delito ponderadas pelas instâncias ordinárias indicam maior periculosidade e gravidade concreta da conduta, autorizando a fixação do modo prisional fechado, em conformidade com o art. 33, e parágrafos, do Código Penal.
+A propósito (grifos acrescidos):
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. POSSIBILIDADE. PRECEDENTES. EXECUÇÃO PROVISÓRIA DA PENA. SENTENCIADO NO REGIME ABERTO. AGRAVO PROVIDO.
+1. Não obstante seja o réu primário, cuja pena-base foi fixada no mínimo legal, houve fundamentação concreta para a fixação do regime mais gravoso, na medida em a prática do delito de roubo majorado pelo emprego de arma deu-se na companhia de dois adolescentes, sendo legítima para justificar a fixação do regime fechado. Precedentes do STJ.
+2. Considerando que o Juízo das Execuções reconheceu o preenchimento dos requisitos contidos no art. 112 da LEP e progrediu o agravante ao regime aberto, impõe-se o deferimento do regime intermediário.
+3. Agravo regimental provido, por fundamento diverso, para fixar o regime inicial semiaberto.
+(AgInt nos EDcl no REsp 1766043/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/04/2019, DJe 03/05/2019)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO. SEQUESTRO E CÁRCERE PRIVADO. REGIME INICIAL FECHADO. POSSIBILIDADE. GRAVIDADE CONCRETA DO DELITO. CONCURSO DE AGENTES. INVASÃO DE RESIDÊNCIA. EMPREGO DE ARMA DE FOGO E BARRA DE FERRO. WRIT NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Sendo o paciente primário, fixada a pena-base no mínimo legal e considerada como favoráveis todas as circunstâncias judiciais do art. 59 do Código Penal, o regime inicial semiaberto mostrar-se-ia mais adequado para o resgate da reprimenda, nos termos do art. 33, § 2º, b, do Código Penal.
+III - Por outro lado, a jurisprudência desta Corte Superior se firmou no sentido de que, havendo fundamentação concreta, e diante das circunstâncias do caso, é possível a fixação de regime inicial mais gravoso para o cumprimento da pena.
+IV - Na presente hipótese, o regime mais gravoso fundamentou-se nas circunstâncias do caso concreto, ou seja, os autores do fato, em concurso de agentes (dois indivíduos), invadiram a residência das vítimas para praticar contra elas o crime de sequestro e cárcere privado, ocasião em que resolveram roubá-las mediante o emprego de violência por meio de arma de fogo e uma barra de ferro. Assim, ausente o alegado constrangimento ilegal.
+Habeas corpus não conhecido.
+(HC 504.430/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/05/2019, DJe 21/05/2019)
+Ante o exposto, com fundamento no art. 255, § 4º, inciso II, do Regimento Interno do Superior Tribunal de Justiça, nega-se provimento ao recurso especial.
+Publique-se. Intimem-se.
