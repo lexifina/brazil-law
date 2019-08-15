@@ -1,0 +1,57 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. NÃO ESGOTAMENTO DA JURISDIÇÃO ORDINÁRIA. COMPETÊNCIA DO STJ NÃO INAUGURADA. EXTINÇÃO DA PUNIBILIDADE PELO IMPLEMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. RECURSO DE APELAÇÃO. AUSÊNCIA DE INTERESSE RECURSAL. AGRAVO NÃO PROVIDO.
+1. O não esgotamento da instância ordinária impede a inauguração da competência desta Corte Superior. No caso, a decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, pois, deliberação colegiada do Tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por este Superior Tribunal.
+2. Não cabe o habeas corpus quando a situação em foco não revela a possibilidade de afetação do jus deambulandi. Na espécie, nem ao menos de maneira remota é possível que a providência pleiteada vá repercutir no direito de locomoção do paciente.
+3. "A Corte Especial deste Sodalício, por ocasião do julgamento da APn 688/RO, relatora para o acórdão a Ministra Maria Thereza de Assis Moura, DJe 4/4/2013, entendeu que a extinção da punibilidade do agente, pelo reconhecimento da prescrição da pretensão punitiva, anula os efeitos penais e extrapenais da condenação, seja na modalidade intercorrente seja na modalidade retroativa, afastando o interesse recursal que objetive a absolvição. Precedentes STJ e STF" (AgRg no AREsp 1.073.627/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017).
+4. O entendimento consolidado, à luz da essência do instituto do writ, apregoa que não cabe o habeas corpus quando a situação em foco não revela a possibilidade de afetação do jus deambulandi. Na espécie, nem ao menos de maneira remota é possível que a providência pleiteada vá repercutir no direito de locomoção do paciente.
+5. Agravo não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por VAGNER JACOMO DOS SANTOS ELIAS contra decisão que indeferiu liminarmente o habeas corpus.
+Sustenta o agravante ofensa ao devido processo legal, porquanto não reaberto o prazo recursal, ainda que tenha manifestado inequívoco interesse em recorrer da sentença.
+Pugna pela reconsideração do decisum ou a submissão do recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. NÃO ESGOTAMENTO DA JURISDIÇÃO ORDINÁRIA. COMPETÊNCIA DO STJ NÃO INAUGURADA. EXTINÇÃO DA PUNIBILIDADE PELO IMPLEMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. RECURSO DE APELAÇÃO. AUSÊNCIA DE INTERESSE RECURSAL. AGRAVO NÃO PROVIDO.
+1. O não esgotamento da instância ordinária impede a inauguração da competência desta Corte Superior. No caso, a decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, pois, deliberação colegiada do Tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por este Superior Tribunal.
+2. Não cabe o habeas corpus quando a situação em foco não revela a possibilidade de afetação do jus deambulandi. Na espécie, nem ao menos de maneira remota é possível que a providência pleiteada vá repercutir no direito de locomoção do paciente.
+3. "A Corte Especial deste Sodalício, por ocasião do julgamento da APn 688/RO, relatora para o acórdão a Ministra Maria Thereza de Assis Moura, DJe 4/4/2013, entendeu que a extinção da punibilidade do agente, pelo reconhecimento da prescrição da pretensão punitiva, anula os efeitos penais e extrapenais da condenação, seja na modalidade intercorrente seja na modalidade retroativa, afastando o interesse recursal que objetive a absolvição. Precedentes STJ e STF" (AgRg no AREsp 1.073.627/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017).
+4. O entendimento consolidado, à luz da essência do instituto do writ, apregoa que não cabe o habeas corpus quando a situação em foco não revela a possibilidade de afetação do jus deambulandi. Na espécie, nem ao menos de maneira remota é possível que a providência pleiteada vá repercutir no direito de locomoção do paciente.
+5. Agravo não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+O agravante não apresentou argumentação apta à alteração do posicionamento anteriormente firmado, de modo que a decisão deve ser mantida integralmente.
+Inicialmente, destaca-se que a decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, pois, deliberação colegiada do Tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior.
+Com efeito, "a provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente"; "se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior (precedentes)" (AgRg no HC 423.705/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/3/2018, DJe 5/4/2018).
+Não bastasse, vê-se que foi declarada a extinção da punibilidade do fato pelo reconhecimento da prescrição (e-STJ, fls. 78-80), não havendo, portanto, qualquer perigo ao jus libertatis do paciente, impedindo, assim, o processamento do mandamus.
+Ademais, "A Corte Especial deste Sodalício, por ocasião do julgamento da APn 688/RO, relatora para o acórdão a Ministra Maria Thereza de Assis Moura, DJe 4/4/2013, entendeu que a extinção da punibilidade do agente, pelo reconhecimento da prescrição da pretensão punitiva, anula os efeitos penais e extrapenais da condenação, seja na modalidade intercorrente seja na modalidade retroativa, afastando o interesse recursal que objetive a absolvição. Precedentes STJ e STF" (AgRg no AREsp 1.073.627/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/6/2017, DJe 1/8/2017).
+De fato, evidencia-se que o entendimento consolidado, à luz da essência do instituto do writ, apregoa que não cabe o habeas corpus quando a situação em foco não revela a possibilidade de afetação do jus deambulandi. Na espécie, nem ao menos de maneira remota é possível que a providência pleiteada vá repercutir no direito de locomoção do paciente.
+Desse modo, mutatis mutandis, confira-se a jurisprudência desta Corte:
+"HABEAS CORPUS. PROCESSUAL PENAL. TORTURA. PACIENTES CONDENADOS A 3 ANOS E 5 DIAS DE RECLUSÃO, EM REGIME ABERTO, E À PERDA DO CARGO PÚBLICO. INSURGÊNCIA CONTRA A IMEDIATA PERDA DO CARGO PÚBLICO. AUSÊNCIA DE LESÃO AO DIREITO DE IR E VIR DOS PACIENTES. INEXISTE CONSTRANGIMENTO ILEGAL CAPAZ DE JUSTIFICAR O MANEJO DE HC. IMPROPRIEDADE DO MANDAMUS. PARECER PELO NÃO CONHECIMENTO DO WRIT. HABEAS CORPUS NÃO CONHECIDO.
+1. A perda do cargo público é efeito automático e obrigatório da condenação pela prática do crime de tortura (art. 1.º, § 5.º da Lei 9.455/97), prescindindo inclusive de fundamentação.
+2. A jurisprudência deste Tribunal se mostra firme quanto ao cabimento do Habeas Corpus somente quando haja real e concreta possibilidade de privação da liberdade.
+3. Habeas Corpus não conhecido, em conformidade com o parecer ministerial."
+(HC 134.218/GO, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, julgado em 06/08/2009, DJe 08/09/2009)
+"PENAL E PROCESSUAL. FURTO SIMPLES. SANÇÃO DE PENA DE MULTA. AUSÊNCIA DE AMEAÇA AO DIREITO DE LOCOMOÇÃO DO PACIENTE. IMPROPRIEDADE DA VIA ELEITA. SÚMULA 693/STF. NÃO CONHECIMENTO.
+1. O habeas corpus é o remédio constitucional destinado a evitar ou a fazer cessar a violência ou a coação à liberdade de locomoção decorrente de ilegalidade ou abuso de poder.
+2. Tendo sido aplicada ao paciente apenas pena de multa, não se conhece da impetração que tem por objeto a anulação do julgamento da apelação, já transitada em julgado. Incide, à espécie, o verbete sumular 693/STF, verbis: "Não cabe habeas corpus contra decisão condenatória a pena de multa, ou relativo a processo em curso por infração penal a que a pena pecuniária seja a única cominada".
+3. Ordem não conhecida."
+(HC 133594/SP, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 13/04/2010, DJe 03/05/2010).
+"HABEAS CORPUS. EX-PREFEITO MUNICIPAL CONDENADO POR CRIME DE RESPONSABILIDADE (ART. 1o., I DO DL 201/67) PELO TRIBUNAL ESTADUAL. PRETENSÃO DE DESCONSTITUIÇÃO DO TRÂNSITO EM JULGADO EM RAZÃO DE NULIDADE POR AUSÊNCIA DE INTIMAÇÃO PESSOAL DO RÉU DO ACÓRDÃO CONDENATÓRIO E, EM CONSEQÜÊNCIA, DE DECLARAÇÃO DA EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. MATÉRIA NÃO APRECIADA NO TRIBUNAL A QUO. NÃO CONHECIMENTO, PARA SE EVITAR SUPRESSÃO DE INSTÂNCIA. PRETENSÃO DA PRESCRIÇÃO EXECUTÓRIA JÁ RECONHECIDA PELO TRIBUNAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL À LIBERDADE DE IR E VIR. SÚMULA 695/STF. PARECER DO MPF PELA DENEGAÇÃO DA ORDEM. HC NÃO CONHECIDO, CASSADA A LIMINAR.
+1. Depreende-se dos autos que o paciente, ex-Prefeito do Município de Braço do Norte/SC, foi condenado pelo Tribunal de Justiça daquele Estado, em 17.06.03, por crime de responsabilidade (art. 1.º, I do Decreto-Lei 201/67), à pena de 1 ano e 4 meses de reclusão e 7 dias-multa, em regime inicial aberto, substituída por penas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária.
+2. Preliminarmente, o presente HC não pode ser conhecido, porque se trata de impetração em contexto no qual não ocorre, sequer remotamente, a possibilidade de constrangimento à liberdade de ir e vir do paciente, porquanto a pretensão estatal executória já se encontra prescrita, conforme muito bem o proclamou o egrégio Tribunal a quo.
+3. Esse entendimento, independentemente da possibilidade de tutela do direito invocado em outra via processual, encontra respaldo no enunciado 695 do colendo STF, segundo o qual, não cabe Habeas Corpus quando já extinta a pena privativa de liberdade.
+4. HC não conhecido, cassada a liminar, em que pese o parecer ministerial pela denegação da ordem."
+(HC 116811/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, julgado em 18/12/2008, DJe 16/02/2009).
+"HABEAS CORPUS. PENAL. PERDA DE CARGO PÚBLICO. MATÉRIA CUJA ANÁLISE NÃO COMPORTA A VIA ELEITA. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO-LEGAL. QUESTÃO NÃO SUBMETIDA À APRECIAÇÃO DA INSTÂNCIA ANTERIOR. SUPRESSÃO DE INSTÂNCIA.
+1. Quanto à perda do cargo público por efeito da condenação imposta, trata-se de questão que em muito se afasta do direito ambulatório do paciente, descabendo sua discussão na via eleita;
+2. Quanto à fixação da pena-base acima do mínimo legal e ao regime inicial de cumprimento da pena, em nenhum momento foi o tema ventilado na instância anterior, impedindo, pois, seu exame nesta Corte Superior, sob pena de supressão de instância;
+3. Writ não conhecido."
+(HC 45.445/MG, Rel. Ministro HÉLIO QUAGLIA BARBOSA, SEXTA TURMA, julgado em 17/11/2005, DJ 05/12/2005).
+Incide, por fim, mutatis mutandis, o verbete sumular 695/STF: "Não cabe "habeas corpus" quando já extinta a pena privativa de liberdade".
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
