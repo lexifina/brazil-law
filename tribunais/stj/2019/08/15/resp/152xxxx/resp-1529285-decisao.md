@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO CPC/73. BANCO. AÇÃO REVISIONAL DE CRÉDITO RURAL. CAPITALIZAÇÃO MENSAL DOS JUROS. CAPITALIZAÇÃO DE JUROS. PACTUAÇÃO. AUSÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA Nº 5 DO STJ. APLICAÇÃO DO CDC. CONSUMIDOR FINAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+DECISÃO
+Consta dos autos que ELISETE MACHADO MONTRUCCHIO (ELISETE) propôs ação revisional de contrato com pedido de tutela antecipada contra BANCO RABOBANK INTERNATIONAL BRASIL S.A. (BANCO), objetivando a revisão de cláusulas da Cédula de Crédito Rural Hipotecária firmada entre as partes, as quais alega serem abusivas.
+O juízo de primeira instância julgou os pedidos parcialmente procedentes, nos termos do art. 269, I, do CPC/73 (e-STJ, fls. 400/408).
+O Tribunal de origem negou provimento aos recursos de apelação interpostos pelo BANCO e por ELISETE em acórdão assim ementado:
+APELAÇÃO. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO RURAL. PARCIALMENTE PROCEDENTE. APELAÇÃO - BANCO - RÉU: CAPITALIZAÇÃO. AUSÊNCIA DE CONTRATAÇÃO. AFASTAMENTO CONFIRMADO. CDC. INCIDÊNCIA. MULTA MORATÓRIA. REDUÇÃO 2%. VERBA HONORÁRIA. MAJORAÇÃO. NÃO ACOLHIMENTO. APELAÇÃO - AUTORA; 1) AGRAVO RETIDO: OBSERVADO O DISPOSTO NO ARTIGO 523 CPC. CERCEAMENTO DE DEFESA NÃO EVIDENCIADO. CÉDULA DE CRÉDITO RURAL CARREADA AOS AUTOS. POSSIBILIDADE DE JULGAMENTO ANTECIPADO DA LIDE. MATÉRIA DE DIREITO. 2) APELAÇÃO: FALTA DE INTERESSE DE AGIR QUANTO À COMISSÃO DE PERMANÊNCIA. ENCARGO NÃO CONTRATADO. INADMISSIBILIDADE PARA CONTRATOS DE CÉDULA DE CRÉDITO RURAL. PRECEDENTES. AFASTADA A PRELIMINAR DE LEGITIMIDADE DE PARTE DO BANCO EXCLUÍDO DA LIDE. SPREAD BANCÁRIO. CONTRATAÇÃO EXPRESSA. ABUSIVIDADE NÃO EVIDENCIADA. COMISSÃO PARA LIBERAÇÃO DE CRÉDITO. PACTUAÇÃO EM 0,1% AO MÊS. JUROS REMUNERATÓRIOS CONTRATADOS. PERMANÊNCIA. HONORÁRIOS ADVOCATÍCIOS MANTIDOS.
+RECURSO DE APELAÇÃO BANCO: CONHECIDO E DESPROVIDO.
+RECURSO DE APELAÇÃO AUTORA: PARCIALMENTE CONHECIDO E DESPROVIDO.
+RECURSO DE AGRAVO RETIDO AUTORA: CONHECIDO E DESPROVIDO (e-STJ, fls. 627/628).
+Irresignado, o BANCO interpôs recurso especial, com fundamento nas alíneas a e c do permissivo constitucional, alegando violação dos arts. 5º do Decreto-Lei nº 167/67; e, 2º e 29 da Lei nº 8.078/90, além de dissídio jurisprudencial, aduzindo: (1) possibilidade de capitalização semestral, na cédula de crédito rural, mesmo que não pactuada; e, (2) inaplicabilidade do Código de Defesa do Consumidor em contrato de abertura de crédito fixo para compra de insumos para implementação da atividade agrícola (e-STJ, fls. 640/687).
+ELISETE também interpôs recurso especial, com fundamento nas alíneas a e c do permissivo constitucional, sustentando, além de dissídio jurisprudencial, ofensa aos arts. 20, § 4º, 130, 331, § 2º, e 333, II, do CPC/73, sob os fundamentos de: (1) cerceamento de defesa, pois a produção da prova pericial era indispensável para demonstrar o excesso da cobrança; (2) ilegitimidade do BANCO para pleitear, em nome próprio, direito alheio; (3) a prova da prática de "spread" bancário foi prejudicada pelo indeferimento da perícia; (4) indevida a taxa de juros remuneratórios; e, (5) necessidade de revisão da sucumbência (e-STJ, fls. 880/904).
+As contrarrazões foram apresentadas (e-STJ, fls. 926/943 e 945/989).
+O apelo do BANCO foi admitido, enquanto o de ELISETE não o foi por incidência das Súmulas nº 284 do STF e 7 do STJ (e-STJ, fls. 995/1.000).
+Nas razões do agravo em recurso especial, ELISETE afirmou ser devido o conhecimento de seu apelo nobre, em virtude do não cabimento dos óbices sumulares apontados (e-STJ, fls. 1.003/1.016).
+A contraminuta foi apresentada pelo BANCO (e-STJ, fls. 1.041/1.060).
+É o relatório.
+DECIDO.
+O inconformismo do BANCO não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+(1) Da capitalização de juros
+A Corte de origem reconheceu que não houve a expressa pactuação de juros capitalizados, nos seguintes termos:
+Todavia, em que pese a Súmula 93, do Superior Tribunal de Justiça estabeleça que: "A legislação sobre Cédulas de Crédito Rural, Comercial e Industrial admite o pacto de capitalização de Juros." No caso concreto não se vislumbra referido pacto.
+Aliás, a cláusula 2ª em tela está redigida sem demonstração expressa de juros capitalizados, diz a cláusula: "Os juros são devidos à taxa efetiva mensal de 0,701% (setecentos e um milésimos por cento) e anual de 8,75% (oito inteiros, setenta e cinco centésimos por cento), e incidirão sobre o saldo devedor, sendo calculados e cobrados semestralmente, nos dias 15 dos semestres contados retroativamente a partir da data de vencimento da 1  parcela de amortização do principal, vencendo-se a primeira parcela de encargos em 15/05/2002 e a última em 15/05/2007. Quando o mês da primeira liberação de recursos coincidir com o mês de vencimento de encargos, estes poderão ser cobrados somente no vencimento seguinte, a critério da FINAME."
+Note-se que não está expressa a pactuação do anatocismo, portanto, mister o afastamento de juros capitalizados, como bem pontuou a sentença (e-STJ, fls. 630/631).
+Nesse contexto, acolher a alegação do BANCO de que o contrato previa expressamente a capitalização implicaria reexame de fatos e provas e interpretação de cláusulas contratuais, vedados em recurso especial, nos termos das Súmulas nºs 5 e 7 do STJ.
+(2) Do CDC
+Nos termos da jurisprudência do STJ, o Código de Defesa do Consumidor incide nas operações de financiamento agrícola e de que a cédula ou nota de crédito rural rege-se pelo Decreto-Lei 167/1967.
+Nesse sentido:
+DIREITO COLETIVO E DIREITO DO CONSUMIDOR. ASSOCIAÇÃO. AÇÃO CIVIL PÚBLICA. RENEGOCIAÇÃO DE DÉBITOS ORIUNDOS DE CONTRATO DE CÉDULA DE CRÉDITO RURAL. DIREITOS INDIVIDUAIS HOMOGÊNEOS. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR.
+1.  ..
+6. É torrencial a jurisprudência do STJ reconhecendo a incidência do Código do Consumidor nos contratos de cédula de crédito rural.
+7. O próprio CDC estabelece (art. 52) que a outorga de crédito ou concessão de financiamento caracteriza típica relação de consumo entre quem concede e quem o recebe, pois o produto fornecido é o dinheiro ou crédito, bem juridicamente consumível.
+7. A norma que institucionaliza o crédito rural (Lei n. 4.829/1965) estabelece como um dos objetivos específicos do crédito rural (art. 3º) é o de "possibilitar o fortalecimento econômico dos produtores rurais, notadamente pequenos e médios" (inciso III) e o de "incentivar a introdução de métodos racionais de produção, visando ao aumento da produtividade e à melhoria do padrão de vida das populações rurais, e à adequada defesa do solo" (inciso IV).
+8. Dessarte, mesmo que o financiamento por meio de cédula de crédito rural se destine ao desenvolvimento da atividade rural, há, em regra, presunção de vulnerabilidade do contratante produtor, equiparando-o ao consumidor stricto sensu, dando-se prevalência à destinação fática para fins de qualificação do consumidor. Precedentes.
+9. Conforme jurisprudência consolidada no STJ, "nas cédulas de crédito rural, comercial e industrial, não se admite a cobrança de comissão de permanência. Precedentes" (AgRg no AREsp 129.689/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/04/2014, DJe 11/04/2014).
+10. Recurso especial não provido.
+(REsp 1166054/RN, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/04/2015, DJe 18/06/2015 - sem destaque no original)
+Assim, tendo as instâncias ordinárias concluído em conformidade com a jurisprudência desta Corte pela caracterização da relação consumerista mediante o reconhecimento da vulnerabilidade do recorrido enquanto consumidor não há que falar em ofensa ao art. 2º da Lei nº 8.078/90.
+Assim, o acórdão recorrido está em consonância com a jurisprudência desta Corte e merece ser mantido, atraindo a Súmula nº 568 do STJ.
+Nessas condições, CONHEÇO PARCIALMENTE do recurso especial do BANCO e, nessa parte, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
