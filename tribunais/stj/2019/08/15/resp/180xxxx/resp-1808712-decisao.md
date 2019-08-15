@@ -1,0 +1,36 @@
+EMENTA
+RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. DISSÍDIO JURISPRUDENCIAL E VIOLAÇÃO DO ART. 14, CAPUT, DA LEI N. 10.826/2003. POSSE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. POUCA MUNIÇÃO APREENDIDA (QUATRO CARTUCHOS CALIBRE .22). AUSÊNCIA DE ARTEFATO BÉLICO. PRIMARIEDADE E CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. MANUTENÇÃO DA ABSOLVIÇÃO QUE SE IMPÕE.
+Recurso especial desprovido.
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de São Paulo, com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça local na Apelação Criminal n. 0008451-60.2014.8.26.0604 (fls. 492/525).
+APELAÇÃO CRIMINAL - RECURSOS DEFENSIVO - TRÁFICO DE DROGAS E POSSE DE MUNIÇÃO DE USO PERMITIDO - PRETENSA ABSOLVIÇÃO - IMPOSSIBILIDADE - Demonstradas satisfatoriamente a autoria e a materialidade do crime de tráfico de entorpecente, de se manter a condenação do agente, decretada em primeiro grau.
+DESCLASSIFICAÇÃO PARA O ART. 28, DA LEI N. 11.343/06 - Descabida a desclassificação para uso, quando a prova dos autos demonstram de forma induvidosa a autoria e a materialidade delitiva do tráfico de drogas.
+APLICAÇÃO DO ÍNDICE MÁXIMO DE REDUÇÃO PELO § 4º DO ARTIGO 33 DA LEI ESPECIAL - inviabilidade.
+FIXAÇÃO DE REGIME MAIS BRANDO - impossibilidade.
+SUBSTITUIÇÃO DA CARCERÁRIA POR RESTRITIVA DE DIREITOS - inviabilidade.
+Porte de munição - Absolvição - conduta atípica - possibilidade - ausência de potencialidade lesiva da conduta - absolvição de rigor.
+Recurso improvido para Rafael e parcialmente provido para Valmir e Henrique.
+Na presente insurgência, além de indicar a presença de dissídio jurisprudencial, alega o recorrente que o acórdão a quo violou o art. 14, caput, da Lei n. 10.826/2003, sob as teses de que o crime de porte ilegal de munição para arma de fogo é de perigo abstrato, afigurando-se, pois, irrelevante a não apreensão de arma de fogo para o reconhecimento da tipicidade da conduta; e a quantidade de munição apreendida em poder do acusado é irrelevante para a caracterização dos tipos penais dos artigos 14 e 16 da Lei n. 10.826/03, não sendo possível aplicar-se o princípio da insignificância.
+Assevera que não há como se absolver o agente sob alegação de que a mera posse de munição, sem a arma de fogo para que se possa fazer uso dela, é conduta penalmente irrelevante, quer porque a lei assim não entende, quer porque trata-se de crime de mera conduta.  ..  O recorrido, conforme já mencionando, possuía os cartuchos, em desacordo com determinação legal e regulamente.  ..  Essa circunstância, por si só, enseja a ocorrência do delito, dado tratar-se de crime de mera conduta, que independe de qualquer ato lesivo à incolumidade pública, bastando, para sua caracterização o possuir, manter sob sua guarda ou portar arma de fogo, acessório ou munição, em desacordo com determinação legal e regulamentar.  ..  Com o advento da Lei 10.826/03 deixou-se de exigir, para a caracterização do tipo penal, a efetiva ocorrência de perigo ou lesão a bem jurídico alheio, bastando o perigo abstrato.  ..  A intenção do legislador foi a de tornar mais rigorosa a repressão aos delitos relativos às armas de fogo, tipificando condutas que poderiam criar perigo de lesão a bens jurídicos relevantes para a sociedade, por entender que as sanções civis e administrativas a respeito seriam ineficazes para alcançar tal proteção, certo que a Lei nº 10.826/03 tem por objetivo a proteção da incolumidade pública, independentemente da efetiva ocorrência de qualquer ato atentatório a ela.  ..  Por consequência, o porte de munição de uso restrito, por si só, caracteriza o crime do artigo 14, caput, do Estatuto do Desarmamento, independentemente da apreensão de arma de fogo apta a efetuar disparos e compatível com a munição (fls. 561/562).
+Pede o conhecimento e provimento do recurso, visando a condenação do recorrido como incurso nas iras do art. 14, caput, da Lei n. 10.826/2003.
+Oferecidas contrarrazões (fls. 694/697), o recurso especial foi admitido na origem (fl. 704).
+O Ministério Público Federal opina pelo provimento da insurgência (fls. 715/718).
+É o relatório.
+Busca o recorrente o restabelecimento da condenação do réu, pelo crime de porte irregular de munições de uso permitido, ao argumento de que, a despeito da apreensão de 4 cartuchos calibre .22, sua conduta delituosa é materialmente típica, não sendo a hipótese de aplicação do princípio da insignificância.
+Extrai-se do combatido aresto o seguinte trecho (fls. 515/518 - grifo nosso):
+ ..
+Quanto ao delito previsto no artigo 14 da Lei nº 10.826/03, de rigor a absolvição do apelante Henrique diante da atipicidade da conduta praticada.
+Não se questiona o fato de haver nos autos provas induvidosas de que o réu portava quatro munições calibre 22, devidamente apreendidas.
+No entanto, há de se verificar no caso concreto, a potencialidade lesiva da conduta praticada pelo apelante e qual a resposta penal adequada ao caso concreto.
+Ora, é da prova vencedora que o apelante não possuía nenhuma arma. Os policiais apreenderam apenas quatro projéteis por ele dispensados, segundo disse, no quarto de Valmir.
+Observando-se o tipo penal do artigo 14 da Lei nº 10.826/06, constata-se que a objetividade jurídica pretendida pelo legislador é a proteção da incolumidade pública, representada pela segurança coletiva. Assim, não é despropositado dizer que há ausência de tipicidade na conduta de uma pessoa possuir munição, sem nenhuma arma, já que tal comportamento não coloca em risco a coletividade.
+Além disso, é evidente a desproporção entre a conduta praticada pelo apelante - posse de quatro cartuchos de munição e nenhuma arma - e a imposição de pena reclusiva mínima de dois anos.
+ ..
+Logo, sendo a conduta de porte ilegal de pequena quantidade de munição, considerada de potencialidade lesiva mínima e, portanto, atípica, não há outra solução senão absolver o apelante Henrique deste crime, com fundamento no artigo 386, III do Código de Processo Penal.
+ ..
+Razão não assiste ao recorrente, uma vez que a apreensão de ínfima quantidade de munição, aliada à ausência de artefato apto ao disparo, implica o reconhecimento, no caso concreto, da incapacidade de se gerar de perigo à incolumidade pública (AgInt no REsp n. 1.704.234/RS, de minha relatoria, Sexta Turma, DJe 19/2/2018).
+Ainda, registre-se que a Segunda Turma do Supremo Tribunal Federal posicionou-se no sentido de desconsiderar a potencialidade lesiva na hipótese em que pouca munição é apreendida desacompanhada de arma de fogo (RHC n. 143.449/MS, Ministro Ricardo Lewandowski, Segunda Turma, DJe 9/10/2017).
+No mesmo sentido: AgRg no HC n. 439.593/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 1º/2/2019.
+Destaque-se, por fim, que, quanto ao tipo penal previsto no art. 14 da Lei n. 10.826/2003, todas as circunstâncias judiciais foram consideradas favoráveis ao recorrido, ademais, levando-se em consideração a sua primariedade, possível a aplicação do princípio da insignificância no sentido de considerar materialmente atípica a conduta imputada.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
