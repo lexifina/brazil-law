@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] com fundamento na alínea "a"do inc. III do art. 105 da Constituição Federal - CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas.
+Consta dos autos que o recorrente foi denunciado pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006. O juiz a quo julgou improcedente a denúncia e desclassificou a imputação feita ao réu para o art. 28 da Lei n. 11.343/2006, determinando, ainda, a redistribuição dos autos ao Juízo Especial Criminal competente.
+Daí a defesa interpôs recurso de apelação, que não foi conhecido, nos termos da seguinte ementa (fl. 235):
+APELAÇÃO CRIMINAL - SENTENÇA QUE CONCLUIU PELA INCOMPETÊNCIA - INADEQUAÇÃO DA VIA ELEITA - HIPÓTESE DE CABIMENTO DE RECURSO EM SENTIDO ESTRITO - IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE - AUSÊNCIA DE INTERESSE - RECURSO NÃO CONHECIDO.
+1. O recorrente se insurge contra sentença proferida em primeira instância de jurisdição que desclassificou a conduta narrada na denúncia ministerial do crime de tráfico de entorpecentes para o delito de uso (artigo 28, Lei 11.343/06) e, em decorrência disso, concluiu pela incompetência daquele juízo.
+2. Nesse ínterim, é de se concluir que a decisão recorrida é, na verdade, impugnável por meio da interposição de Recurso em Sentido Estrito, nos termos do art. 581, II, do Código de Processo Penal.
+3. À despeito da clareza do texto legal, no entanto, o recorrente interpôs o presente recurso de apelação, por meio do qual postula sua absolvição, pedido este que não pode ser apreciado nesta instância de jurisdição, sob pena de se configurar a intolerável supressão de instância, ao passo em que o mérito da ação penal originária ainda está pendente de julgamento pelo magistrado competente para tanto. Evidente, portanto, a ausência de interesse.
+4. Outrossim, no caso vertente, não vislumbro a possibilidade de aplicação do princípio da fungibilidade, ao passo em que a redação legal do artigo 581, II, do CPP é clara e expressa quanto à hipótese de cabimento do recurso adequado, não sendo razoável a admissão de impropriedade como a ora em tela.
+5. Recurso não conhecido.
+Os embargos de declaração foram rejeitados (fls. 310/315).
+Na sequência, a defesa interpôs recurso especial, no qual apontou violação dos arts. 579, 581, II, e 593, I, do Código de Processo Penal - CPP.
+Aduz que não houve má-fé, sendo tempestivo o recurso interposto. Entende, ainda, que não houve erro grosseiro e que deveria ter sido aplicado o princípio da fungibilidade, conforme art. 579, parágrafo único, do CPP.
+As contrarrazões foram apresentadas às fls. 338/341.
+Admitido o recurso (fls. 342/344), os autos vieram a esta Corte.
+O Ministério Público Federal - MPF opinou pelo desprovimento do recurso (fls. 358/363).
+É o relatório. Decido.
+O Tribunal de origem não conheceu do recurso de apelação adotando os seguintes fundamentos (fls. 238/240):
+De plano, verifico a impossibilidade de admitir o presente recurso, considerando a ausência de interesse processual sob o viés adequação.
+Pela leitura da inicial, extrai-se que o recorrente se insurge contra sentença proferida em primeira instância de jurisdição que desclassificou a conduta narrada na denúncia ministerial do crime de tráfico de entorpecentes para o delito de uso (artigo 28, Lei 11.343/06) e, em decorrência disso, concluiu pela incompetência daquele juízo.
+Nesse ínterim, ao compulsar os autos, é de se concluir que a decisão recorrida é, na verdade, impugnável por meio da interposição de Recurso em Sentido Estrito, nos termos do art. 581, II, do Código de Processo Penal, in verbis:
+ ..
+À despeito da clareza do texto legal, no entanto, o recorrente interpôs o presente recurso de apelação, por meio do qual postula sua absolvição, pedido este que não pode ser apreciado nesta instância de jurisdição, sob pena de se configurar a intolerável supressão de instância, ao passo em que o mérito da ação penal originária ainda está pendente de julgamento pelo magistrado competente para tanto.
+Nessa esteira, ainda é importante gizar que a própria defesa do réu, em memoriais apresentados às fls. 151-163, trouxe pedido subsidiário de desclassificação para o crime previsto no artigo 28 da Lei nº 11.343/06, "tendo em vista a ausência de provas suficientes quanto à finalidade mercantil das substâncias entorpecentes". Portanto, no caso em tela, a decisão do Juiz primevo nada mais fez do que acolher uma das teses defensivas.
+Outrossim, no caso vertente, não vislumbro a possibilidade do recurso ser recebido como RESE, pela aplicação do princípio da fungibilidade, ao passo em que a redação legal do artigo 581, II, do CPP é clara e expressa quanto à hipótese de cabimento do recurso adequado, não sendo razoável a admissão de impropriedade como a ora em tela.
+Ad argumentandum, ainda que assim não fosse, sobreleva notar que não houve sucumbência para o réu na sentença recorrida, ao passo em que postulou o pedido de desclassificação acolhido e que o juízo a quo apenas declinou de sua competência para apreciar a matéria, de tal sorte que a análise de qualquer pretensão absolutória se mostra precoce, tendo em vista que inexiste, no caso, pronunciamento exauriente de mérito.
+ ..
+Dessarte, a inadequação da via eleita leva à carência da ação por falta de interesse processual, que, a seu turno, constitui causa de não conhecimento do recurso, a teor do que estabelece o art. 485, VI, do Código de Processo Civil, cuja aplicação analógica é possibilitada pelo CPP.
+Verifica-se que o Tribunal de origem não conheceu do apelo sob o fundamento de "ausência de interesse processual sob o viés adequação", bem como porque "a decisão do Juiz primevo nada mais fez do que acolher uma das teses defensivas", que era o pedido de desclassificação, não havendo sucumbência.
+Assim, mantêm-se incólumes tais fundamentos, porquanto as razões do recurso especial não trouxeram nenhum argumento apto a impugná-los, insistindo na aplicação do princípio da fungibilidade. Incide, pois, o verbete n. 283 da Súmula do STF, aplicado analogicamente ao caso sob comento. Sobre o tema, confira-se:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 183 DA LEI N. 9.472/1997. CRIME CONTRA AS TELECOMUNICAÇÕES. VIOLAÇÃO AO ART. 619 DO CÓDIGO DE PROCESSO PENAL. NÃO OCORRÊNCIA. ALEGADA VIOLAÇÃO AOS ARTS. 384 E 400, AMBOS DO CÓDIGO DE PROCESSO PENAL. FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA N. 283/STF. PLEITO DE RECONHECIMENTO DE OFENSA AO ART. 155 DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ.
+1. Não ocorre violação ao art. 619 do Código de Processo Penal, no caso, porquanto foi exaurido integralmente, pelo Tribunal a quo, o exame dos argumentos defensivos, dispensáveis quaisquer outros pronunciamentos supletivos, mormente quando postulados apenas para atender ao inconformismo do recorrente que, por via transversa, tenta modificar a conclusão alcançada pelo acórdão. Precedentes.
+2. Consoante reza o enunciado sumular 283/STF, aplicável aos recursos especiais por analogia, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+3. A questão trazida nas razões do recurso especial, relativa à violação ao art. 155 do Código de Processo Penal, não foi debatida no acórdão recorrido, apesar de terem sido opostos embargos de declaração, sob o argumento de que não foi objeto da apelação, inexistindo o requisito do prequestionamento, motivo pelo qual não pode ser analisada ante o que preceitua a Súmula n. 211/STJ.
+4. Agravo regimental desprovido (AgRg no REsp 1.615.395/MA, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 30/04/2018).
+
+Ante o exposto, com fundamento na Súmula n. 568/STJ, nego provimento ao recurso.
+Publique-se.
+Intimem-se.
