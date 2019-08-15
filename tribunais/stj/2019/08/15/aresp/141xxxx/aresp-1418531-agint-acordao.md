@@ -1,0 +1,88 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. AUSÊNCIA DE ILICITUDE. DANO INEXISTENTE. DECISÃO AGRAVADA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. RECURSO NÃO PROVIDO.
+1. "A contratação de advogados para defesa judicial de interesses da parte não enseja, por si só, dano material passível de indenização, porque inerente ao exercício regular dos direitos constitucionais de contraditório, ampla defesa e acesso à Justiça" (AgRg no AREsp 516277/SP, QUARTA TURMA, Relator Ministro MARCO BUZZI, DJe de 04/09/2014).
+2. "Cabe ao perdedor da ação arcar com os honorários de advogado fixados pelo Juízo em decorrência da sucumbência (Código de Processo Civil de 1973, art. 20, e Novo Código de Processo Civil, art. 85), e não os honorários decorrentes de contratos firmados pela parte contrária e seu procurador, em circunstâncias particulares totalmente alheias à vontade do condenado". (EREsp 1507864/RS, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 20/04/2016, DJe 11/05/2016).
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Maria Isabel Gallotti.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno, interposto por [NOME] e OUTRA, em face da decisão de fls. 917/918, que negou provimento ao agravo em recurso especial, ante os seguintes fundamentos: aplicação das Súmulas n. 283/STF e que, conforme orientação jurisprudencial do STJ, é descabida a condenação em honorários advocatícios contratuais.
+Nas razões recursais (fls. 924/939), a parte agravante alega, em síntese, que todos os fundamentos do acórdão recorrido foram rechaçados no recurso especial, não incidindo a Súmula n. 283/STF.
+Por outro lado, afirmam que o precedente do Ministro Marco Buzzi, citado na decisão agravada, não incidiria no presente caso, por não se referir a caso idêntico ao dos autos, tratando-se de reclamação trabalhista.
+Ressaltam que, havendo inadimplemento contratual, é devida a reparação dos honorários advocatícios contratuais.
+E continuam:
+ ..  se se tratar de pedido de indenização dos honorários advocatícios contratuais decorrentes de mera atuação em juízo, não há que se falar em reparação; entretanto, se a demanda decorrer de um inadimplemento de obrigação assumida em que a parte prejudicada busca a reparação das perdas e danos que sofreu, como no caso em tela, os honorários advocatícios contratuais devem ser ressarcidos pela parte que incorreu em mora nos termos prescritos na lei civil.
+Requerem a reconsideração da decisão ou o provimento do presente agravo.
+Impugnação não apresentada, conforme certificado à fl. 942.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. AUSÊNCIA DE ILICITUDE. DANO INEXISTENTE. DECISÃO AGRAVADA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. RECURSO NÃO PROVIDO.
+1. "A contratação de advogados para defesa judicial de interesses da parte não enseja, por si só, dano material passível de indenização, porque inerente ao exercício regular dos direitos constitucionais de contraditório, ampla defesa e acesso à Justiça" (AgRg no AREsp 516277/SP, QUARTA TURMA, Relator Ministro MARCO BUZZI, DJe de 04/09/2014).
+2. "Cabe ao perdedor da ação arcar com os honorários de advogado fixados pelo Juízo em decorrência da sucumbência (Código de Processo Civil de 1973, art. 20, e Novo Código de Processo Civil, art. 85), e não os honorários decorrentes de contratos firmados pela parte contrária e seu procurador, em circunstâncias particulares totalmente alheias à vontade do condenado". (EREsp 1507864/RS, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 20/04/2016, DJe 11/05/2016).
+3. Agravo interno a que se nega provimento.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. A irresignação não merece prosperar.
+Com efeito, quanto à reparação de danos requerida pela parte recorrente em decorrência de gastos com a contratação de advogado para ajuizamento de ação, é firme o entendimento do STJ segundo o qual tal fato, por si só, não constitui ilícito capaz de ensejar danos materiais indenizáveis.
+A Corte Especial do STJ, ao apreciar o EREsp n. 1507864/RS, expressamente consignou que "cabe ao perdedor da ação arcar com os honorários de advogado fixados pelo Juízo em decorrência da sucumbência (Código de Processo Civil de 1973, art. 20, e Novo Código de Processo Civil, art. 85), e não os honorários decorrentes de contratos firmados pela parte contrária e seu procurador, em circunstâncias particulares totalmente alheias à vontade do condenado". (EREsp 1507864/RS, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 20/04/2016, DJe 11/05/2016)
+Ademais, a Segunda Seção desta Corte adotou o entendimento de que os arts. 389, 395 e 404, todos do Código Civil, devem ser interpretados de forma a abranger apenas os honorários contratuais pagos ao advogado para a adoção de medidas extrajudiciais, tendo em vista que na esfera judicial há previsão do pagamento de honorários sucumbenciais.
+Eis a ementa do referido julgado:
+EMBARGOS DE DIVERGÊNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS DE ADVOGADO DO RECLAMANTE, COBRADOS AO RECLAMADO PARA RECLAMAÇÃO TRABALHISTA JULGADA PROCEDENTE. 1) COMPETÊNCIA DA JUSTIÇA DO TRABALHO, A DESPEITO DE ORIENTAÇÃO ANTERIOR À EMENDA CONSTITUCIONAL 45/2004, MAS EMBARGOS CONHECIDOS DADA A PECULIARIDADE DOS EMBARGOS DE DIVERGÊNCIA; 2) INEXISTÊNCIA DE DEVER DE INDENIZAR, NO ÂMBITO GERAL DO DIREITO COMUM, RESSALVADA INTERPRETAÇÃO NO ÂMBITO DA JUSTIÇA DO TRABALHO; 3) IMPOSSIBILIDADE DE ALTERAÇÃO DO JULGADO PARADIGMA; 4) EMBARGOS DE DIVERGÊNCIA IMPROVIDOS.
+1. Embora, após a Emenda Constitucional 45/2004, competente a Justiça do Trabalho para dirimir questões atinentes a cobrança ao Reclamado de honorários advocatícios contratuais despendidos pelo Reclamante para a reclamação trabalhista, conhece-se dos presentes Embargos de Divergência, porque somente ao próprio Superior Tribunal de Justiça compete dirimir divergência entre suas próprias Turmas.
+2. No âmbito da Justiça comum, impossível superar a orientação já antes firmada por este Tribunal, no sentido do descabimento da cobrança ao Reclamado de honorários advocatícios contratados pelo Reclamante para a Reclamação Trabalhista, porque o contrário significaria o reconhecimento da sucumbência por via oblíqua e poderia levar a julgamentos contraditórios a respeito do mesmo fato do patrocínio advocatício na Justiça do Trabalho.
+3. Manutenção do Acórdão Embargado, que julgou improcedente a ação de cobrança de honorários contratuais ao Reclamado, a despeito da subsistência do julgamento paradigma em sentido diverso, pois não sujeito à devolução recursal nestes Embargos de Divergência.
+4. Embargos de Divergência improvidos. (EREsp 1.155.527/MG, Rel. Ministro SIDNEI BENETI, SEGUNDA SEÇÃO, DJe 28/06/2012).
+No julgamento dos mencionados embargos de divergência, a eminente Ministra NANCY ANDRIGHI modificou seu posicionamento, inclusive mencionando o que decidira no REsp 1.027.797/MG (DJe 23/2/2011), conforme o seguinte excerto de seu voto-vista:
+"II. Do reembolso dos honorários advocatícios contratuais.
+O bem lançado voto do i. Min. Relator traça minuciosamente a evolução do entendimento do STJ em torno do tema, evidenciando a existência de divergência no âmbito desta Seção, a justificar a admissão dos embargos de divergência.
+Os julgados da 4ª Turma, na esteira do próprio acórdão embargado, sustentam que a simples contratação de advogado para ajuizamento de reclamatória trabalhista não induz, por si só, a existência de ilícito gerador de danos materiais.
+Outra vertente, porém, oriunda da 3ª Turma, derivada de julgado de minha relatoria, entende que o pagamento dos honorários extrajudiciais como parcela integrante das perdas e danos também é devido pelo inadimplemento de obrigações trabalhistas.
+A definição de qual tese deve prevalecer é de suma importância, pois não se restringe às reclamações trabalhistas, sendo aplicável a todas as ações judiciais.
+Tendo isso em vista e após melhor analisar a questão concluo, assim como o fez o i. Min. Relator, pela necessidade de rever meu posicionamento. Todavia, faço-o por fundamento diverso daquele trazido nos precedentes da 4ª Turma, ao qual se filiou o voto condutor.
+De acordo com esses julgados, ao apresentar sua defesa, o reclamado não pratica ato ilícito sujeito a responsabilização; ao contrário, exerce apenas o direito ao contraditório, assegurado constitucionalmente.
+A premissa é verdadeira, não havendo como dela discordar. Porém ela não serve de proposição para o silogismo construído, pois o dever de indenizar, na hipótese em questão, não deriva do exercício do direito à ampla defesa, mas do ato ilícito que dá causa à própria reclamação trabalhista, cuja prática é reconhecida na decisão que julga procedentes os respectivos pedidos.
+A despeito disso, vislumbro motivo diverso a justificar a revisão do meu posicionamento, qual seja, a contrapartida que será gerada pelo reconhecimento do direito ao reembolso dos honorários contratuais.
+Com efeito, ao admitir que o autor deve ser indenizado pelo réu do que aquele gastou com seu patrono, haveremos, por simetria, de reconhecer também o direito do réu - em caso de total improcedência dos pedidos - de ser indenizado pelo autor dos honorários contratuais que tiver pago.
+Nessa hipótese, a alegação feita no voto condutor - inexistência de ato ilícito gerador de dano indenizável - procede e ganha pertinência.
+Melhor explicando, muito embora tenhamos, por reciprocidade, de reconhecer o direito do réu de, resultando vencedor na ação (improcedência total dos pedidos), ser indenizado pelo autor dos honorários contratuais pagos ao seu advogado, não terá o autor praticado nenhum ato ilícito capaz de dar ensejo a esse dever de indenizar. Na realidade, terá apenas exercido o seu direito de ação, constitucionalmente garantido (sendo certo que, no particular, não se está a cogitar das situações em que há abuso desse direito, com o ajuizamento de ações temerárias).
+Diante disso, a rigor não há como justificar o dever de indenizar do autor.
+Note-se, por oportuno, que a indenizabilidade dos honorários advocatícios, da forma como prevista nos arts. 389, 395 e 404 do CC/02, vem inserida no contexto do inadimplemento de uma obrigação, ou seja, pressupõe a prática de um ato ilícito.
+Feita essa constatação, conclui-se que, à luz dos mencionados dispositivos legais, são inexigíveis os honorários contratuais pagos em virtude do exercício, pela parte contrária, de um direito legítimo (de ação).
+Dessarte, não obstante as considerações por mim tecidas no julgamento do REsp 1.027.797/MG, 3ª Turma, minha relatoria, DJe de 23.02.2011, penso que a expressão "honorários de advogado", utilizada nos arts. 389, 395 e 404 do CC/02, deve ser interpretada de forma a excluir os honorários contratuais relativos à atuação em juízo, já que a esfera judicial possui mecanismo próprio de responsabilização daquele que, não obstante esteja no exercício legal de um direito (de ação ou de defesa), resulta vencido, obrigando-o ao pagamento dos honorários sucumbenciais.
+Vale dizer, o termo "honorários de advogado" contido nos mencionados dispositivos legais compreende apenas os honorários contratuais eventualmente pagos a advogado para a adoção de providências extrajudiciais decorrentes do descumprimento da obrigação, objetivando o recebimento amigável da dívida.
+Sendo necessário o ingresso em juízo, fica o credor autorizado a pleitear do devedor, já na petição inicial, indenização por esses honorários contratuais - pagos ao advogado para negociação e cobrança extrajudicial do débito - mas, pelos motivos acima expostos, não terá direito ao reembolso da verba honorária paga para a adoção das medidas judiciais.
+Com isso, penso que ficam equacionados os direitos do credor e do devedor, do autor e do réu, compatibilizando-os não apenas às disposições do CC/02, mas também à coexistência, admitida por nosso ordenamento jurídico, de honorários advocatícios de naturezas distintas, contratuais e sucumbenciais." (grifo no original.)
+Desse modo, não se cogita de perdas e danos, nem de condenação da parte contrária ao ressarcimento dos honorários contratuais.
+Também nesse sentido, confiram-se os inúmeros precedentes do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. CONTRATOS ADMINISTRATIVOS. HONORÁRIOS CONTRATUAIS. INCLUSÃO NA INDENIZAÇÃO DE DANOS MATERIAIS. IMPOSSIBILIDADE.
+1. Os honorários advocatícios contratuais não integram os valores devidos a título de reparação por perdas e danos, conforme o disposto nos arts. 389, 395 e 404 do Código Civil de 2002.
+Precedentes: REsp 1.480.225/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 11/9/2015; AgRg no REsp 1.507.864/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 25/9/2015; AgRg no REsp 1.481.534/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 26/8/2015).
+2. Agravo Regimental não provido.
+(AgRg no AREsp 746.234/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/10/2015, DJe 19/11/2015)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. 1. AFRONTA AOS ARTS. 389, 395 E 404, TODOS DO CC. HONORÁRIOS CONTRATUAIS. RESSARCIMENTO PELA PARTE ADVERSA. IMPOSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ. 3. RECURSO IMPROVIDO.
+1. A contratação de advogado para defesa judicial de interesses da parte não enseja, por si só, dano material passível de indenização, porque inerente ao exercício regular dos direitos constitucionais de contraditório, ampla defesa e acesso à Justiça. Incidência do enunciado n. 83 da Súmula desta Corte.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1539014/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 03/09/2015, DJe 17/09/2015)
+PROCESSO CIVIL. ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO. HONORÁRIOS CONTRATUAIS. AÇÃO JUDICIAL. PRETENSÃO REGULARMENTE RESISTIDA. RESSARCIMENTO. IMPOSSIBILIDADE. EXERCÍCIO DO DIREITO DE DEFESA. LICITUDE.
+1. Debate-se na demanda a responsabilidade civil do INSS em ressarcir a parte que lhe moveu ação judicial para o pagamento de benefício previdenciário pelas despesas referentes aos honorários advocatícios contratuais, a título de perdas e danos.
+2. A mera resistência à pretensão deduzida em juízo não é suficiente para caracterizar a conduta do réu como ato ilícito, ressalvadas, obviamente, situações excepcionais em que efetivamente constatado o abuso no exercício do direito.
+3. Dessa feita, não se cogita de perdas e danos, nem de condenação da parte contrária ao ressarcimento dos honorários contratuais, pois a sucumbência sofrida no âmbito processual, via de regra, encontra-se regulada nos arts. 20 a 35 do CPC, não compreendendo, portanto, o ressarcimento das despesas com honorários contratuais.
+Precedentes: AgRg no AREsp 477.296/RS, Rel. Min. Antônio Carlos Ferreira, Quarta Turma, DJe 2/2/15. AgRg no AREsp 516.277/SP, Rel. Min. Marco Buzzi, Quarta Turma, DJe 4/9/14. AgRg no REsp 1.229.482/SP, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe 23/11/12.
+4. Recurso especial a que se nega provimento. (REsp 1480225/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 11/09/2015).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PEDIDO DA PARTE VITORIOSA À CONDENAÇÃO DA SUCUMBENTE AOS HONORÁRIOS CONTRATUAIS DESPENDIDOS. DESCABIMENTO. PRECEDENTES DA SEGUNDA SEÇÃO.
+1. A Segunda Seção do STJ já se pronunciou no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora. Precedentes.
+2. Agravo regimental a que se nega provimento. (AgRg no REsp 1481534/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 26/08/2015).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. HONORÁRIOS CONTRATUAIS.
+NÃO CABIMENTO. DECISÃO MANTIDA.
+1. Esta Corte possui entendimento firmado no sentido de que os custos decorrentes da contratação de advogado para ajuizamento de ação, por si só, não constituem ilícito capaz de ensejar danos materiais indenizáveis. Precedentes da Segunda Seção.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 477.296/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/12/2014, DJe 02/02/2015)
+CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. AUSÊNCIA DE ILICITUDE. DANO INEXISTENTE. DECISÃO AGRAVADA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O entendimento desta Corte é que a mera contratação de advogado para defesa judicial dos interesses da parte não enseja, por si só, dano material passível de indenização, porque inerente ao exercício regular dos direitos constitucionais do contraditório, da ampla defesa e do acesso à Justiça.
+2. Agravo regimental não provido. (AgRg no REsp 1507864/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/09/2015, DJe 25/09/2015).
+Assim, constatado, na espécie, que a conclusão alcançada pelo Tribunal a quo vai ao encontro da jurisprudência desta Casa, realmente é caso de incidência do enunciado n. 83 da Súmula do Superior Tribunal de Justiça.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto
