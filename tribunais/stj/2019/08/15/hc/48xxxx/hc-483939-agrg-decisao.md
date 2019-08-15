@@ -1,0 +1,61 @@
+DECISÃO
+[NOME] ingressa com agravo regimental inconformado com parte da decisão de fls. 209/212, que indeferiu o pedido de revogação da unificação das penas de detenção e reclusão, com a seguinte fundamentação:
+"No tocante à unificação das penas de detenção e reclusão, o acórdão impugnado não contém nenhuma ilegalidade, estando em perfeita harmonia com a jurisprudência desta Corte, consolidada no sentido de que as penas de reclusão e as de detenção constituem reprimendas de mesma espécie, e portanto, para efeito de fixação do regime prisional, devem ser consideradas cumulativamente. Confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DAS PENAS. ART. 111 DA LEP. RÉU CONDENADO ÀS PENAS DE RECLUSÃO E DE DETENÇÃO. SOMATÓRIO DE AMBAS AS REPRIMENDAS PARA FIXAÇÃO DO REGIME. POSSIBILIDADE. ILEGALIDADE NÃO VERIFICADA. AGRAVO NÃO PROVIDO.
+1. No caso, o Tribunal de origem manteve manteve a unificação das penas de reclusão e de detenção do paciente realizada pelo Juízo de Execução, fazendo com que sua pena de detenção seja cumprida já inicialmente em regime fechado, como se reclusão fosse.
+2. Ao interpretar o art. 111, da LEP, este Superior Tribunal de Justiça firmou entendimento no sentido de que as penas de reclusão e as de detenção constituem reprimendas de mesma espécie, e portanto, para efeito de fixação do regime prisional, devem ser consideradas cumulativamente. Precedentes do STF e desta Corte Superior de Justiça.
+3. Agravo regimental não provido.
+(AgRg no HC 418.296/ES, Ministro Ribeiro Dantas, Quinta Turma, DJe 23/10/2018)
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DAS PENAS DE DETENÇÃO E RECLUSÃO. SOMATÓRIO. POSSIBILIDADE. ART. 111 DA LEP. REGIME PRISIONAL. 1. No caso, o Tribunal local entendeu que, interpretando o art. 111 da Lei de Execução Penal em conjunto com o art. 76 do Estatuto Repressivo, as penas de detenção e reclusão não poderiam ser somadas indistintamente, executando-se, no concurso de infrações, primeiramente a pena mais grave.
+2. As reprimendas de reclusão e de detenção devem ser somadas para fins de unificação da pena, tendo em vista que ambas são modalidades de pena privativa de liberdade e, portanto, configuram sanções de mesma espécie. Precedentes do STF e desta Corte Superior de Justiça.
+3. Recurso provido.
+(REsp 1642346/MT, Ministro Jorge Mussi, Quinta Turma, DJe 25/05/2018).
+Já com relação ao termo inicial para contagem do prazo concernente aos benefícios no curso da execução, a Terceira Seção desta Corte, no julgamento do Resp 1.557.461/SC, ocorrido em 22/02/2018, alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+No caso de cometimento de falta grave, é importante ressaltar que devem ser observadas as diretrizes estabelecidas nas Súmulas 441, 534 e 535 desta Corte:
+A falta grave não interrompe o prazo para obtenção de livramento condicional.
+(Súmula 441/STJ)
+A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração.
+(Súmula 534/STJ)
+A prática de falta grave não interrompe o prazo para fim de comutação de pena ou indulto.
+(Súmula 535/STJ)
+Nesse contexto e diante do novo posicionamento adotado pela Egrégia Terceira Seção, concedo a ordem apenas para que seja observada a data da última prisão do paciente, ou a data do cometimento da última falta grave, como a data-base para a aquisição de benefícios na execução da pena, observado o disposto nas Súmulas 441, 534 e 535/STJ".
+Insiste o agravante na tese de ilegalidade na determinação de execução simultânea das penas de reclusão e de detenção, que estaria em manifesta contradição com a jurisprudência dominante deste Superior Tribunal de Justiça, com a doutrina e a lei penal (fl. 221).
+Aduz que a a jurisprudência é pacífica no sentido da necessidade de cumprimento, em primeiro lugar, da pena de reclusão, por ser mais grave do que a pena de detenção, e consequentemente, à impossibilidade de sua unificação (fl. 225).
+Junta, em defesa de sua tese, precedentes das Quinta e Sexta Turmas desta Corte
+Requer o provimento do agravo regimental para que seja revogada a unificação das penas de reclusão e de detenção, pois de diferentes espécies, com o restabelecimento do regime aberto para as sanções detentivas (Execução nº 2 e Execução nº 3), nos termos expostos na petição inicial do presente writ e da jurisprudência dominante do E. Superior Tribunal de Justiça (fl. 231).
+É o relatório.
+Diante das razões trazidas no agravo regimental e em pesquisa mais aprofundada acerca da matéria, identifiquei que há manifesta divergência entre o posicionamento adotado pelas Quinta e Sexta Turmas desta Corte.
+Com efeito, no tocante à unificação das penas de detenção e reclusão, a jurisprudência da 5ª Turma é firme no sentido de que as penas de reclusão e as de detenção constituem reprimendas de mesma espécie e, portanto, para efeito de fixação do regime prisional, devem ser consideradas cumulativamente. Confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DAS PENAS. ART. 111 DA LEP. RÉU CONDENADO ÀS PENAS DE RECLUSÃO E DE DETENÇÃO. SOMATÓRIO DE AMBAS AS REPRIMENDAS PARA FIXAÇÃO DO REGIME.
+POSSIBILIDADE. ILEGALIDADE NÃO VERIFICADA. AGRAVO NÃO PROVIDO.
+1. No caso, o Tribunal de origem manteve manteve a unificação das penas de reclusão e de detenção do paciente realizada pelo Juízo de Execução, fazendo com que sua pena de detenção seja cumprida já inicialmente em regime fechado, como se reclusão fosse.
+2. Ao interpretar o art. 111, da LEP, este Superior Tribunal de Justiça firmou entendimento no sentido de que as penas de reclusão e as de detenção constituem reprimendas de mesma espécie, e portanto, para efeito de fixação do regime prisional, devem ser consideradas cumulativamente. Precedentes do STF e desta Corte Superior de Justiça.
+3. Agravo regimental não provido.
+(AgRg no HC 418.296/ES, Ministro Ribeiro Dantas, Quinta Turma, DJe 23/10/2018)
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DAS PENAS DE DETENÇÃO E RECLUSÃO. SOMATÓRIO. POSSIBILIDADE. ART. 111 DA LEP. REGIME PRISIONAL. 1. No caso, o Tribunal local entendeu que, interpretando o art. 111 da Lei de Execução Penal em conjunto com o art. 76 do Estatuto Repressivo, as penas de detenção e reclusão não poderiam ser somadas indistintamente, executando-se, no concurso de infrações, primeiramente a pena mais grave.
+2. As reprimendas de reclusão e de detenção devem ser somadas para fins de unificação da pena, tendo em vista que ambas são modalidades de pena privativa de liberdade e, portanto, configuram sanções de mesma espécie. Precedentes do STF e desta Corte Superior de Justiça.
+3. Recurso provido.
+(REsp 1642346/MT, Ministro Jorge Mussi, Quinta Turma, DJe 25/05/2018).
+PROCESSUAL PENAL. EXECUÇÃO. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CABIMENTO. UNIFICAÇÃO DE PENAS. RECLUSÃO COM DETENÇÃO SUPERVENIENTE. WRIT NÃO CONHECIDO. I - A Terceira Seção desta Corte, seguindo entendimento da Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício, em homenagem ao princípio da ampla defesa. II - In casu, o paciente cumpria pena de 15 (quinze) anos e 6 (seis) meses de reclusão (regime fechado), sobrevindo as condenações de 6 (seis) anos e 1 (um) mês de reclusão (regime fechado) e de 1 (um) ano de detenção (regime semiaberto).
+III - "A teor do art. 111 da Lei n. 7.210/1984, na unificação das penas, devem ser consideradas cumulativamente tanto as reprimendas de reclusão quanto as de detenção para efeito de fixação do regime prisional, porquanto constituem penas de mesma espécie, ou seja, ambas são penas privativas de liberdade" (AgRg no HC 473.459/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 01/03/2019).
+Habeas corpus não conhecido.
+(HC 486.763/RS, Ministro Felix Fischer, Quinta Turma, DJe 28/03/2019).
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. UNIFICAÇÃO DAS PENAS DE DETENÇÃO E RECLUSÃO. REPRIMENDAS DA MESMA NATUREZA. SOMATÓRIO. POSSIBILIDADE. ART. 111 DA LEP. 1. A teor do art. 111 da Lei n. 7.210/1984, na unificação das penas, devem ser consideradas cumulativamente tanto as reprimendas de reclusão quanto as de detenção para efeito de fixação do regime prisional, porquanto constituem penas de mesma espécie, ou seja, ambas são penas privativas de liberdade.
+2. As reprimendas de reclusão e de detenção devem ser somadas para fins de unificação da pena, tendo em vista que ambas são modalidades de pena privativa de liberdade e, portanto, configuram sanções de mesma espécie. Precedentes do STF e desta Corte Superior de Justiça.
+(REsp 1642346/MT, Ministro Jorge Mussi, Quinta Turma, julgado em 17/5/2018, DJe 25/5/2018) 3. Agravo regimental improvido.
+(AgRg no HC 473.459/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 01/03/2019)
+Já a Sexta Turma, da qual sou integrante, tem mais recente posicionamento, firmado na linha de que não é possível a unificação das penas de reclusão e detenção para determinar o regime de cumprimento de pena, sendo imprescindível que seja observada a ordem de gravidade dos delitos. Anotem-se:
+HABEAS CORPUS. EXECUÇÃO PENAL. PENAS DE DETENÇÃO E RECLUSÃO. IMPOSSIBILIDADE DE SOMATÓRIO PARA DETERMINAR O REGIME INICIAL DE CUMPRIMENTO DE PENA. PROGRESSÃO DE REGIME. PRERROGATIVA DO JUÍZO DAS EXECUÇÕES. HABEAS CORPUS CONCEDIDO.
+1. A teor do art. 76 do Código Penal, em casos de concurso de infrações com tipos de gravidade diferentes, deve-se executar primeiro a pena mais grave.
+2. No cálculo da liquidação das penas impostas, é imprescindível que seja observada a ordem de gravidade dos delitos, ressaltando-se a impossibilidade de unificação das penas de reclusão e detenção para determinar o regime de cumprimento de pena.
+3. Habeas corpus concedido.
+(HC 505.768/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 12/08/2019)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAS RESTRITIVAS DE DIREITOS EM CUMPRIMENTO. NOVAS CONDENAÇÕES A PENA PRIVATIVA DE LIBERDADE QUE, SOMADAS, ULTRAPASSAM 8 ANOS DE RECLUSÃO. IMPOSSIBILIDADE DE EXECUÇÃO SIMULTÂNEA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. O relator poderá decidir monocraticamente habeas corpus substitutivo de recurso ordinário se a matéria for objeto de jurisprudência consolidada deste Superior Tribunal ou do Supremo Tribunal Federal (art. 202 e 246 do RISTJ).
+2. Esta Corte firmou o entendimento de que, na hipótese de unificação prevista no art. 111 da LEP, é permitida a reconversão de pena restritiva de direitos se o Juiz verificar a incompatibilidade do seu cumprimento simultâneo com pena privativa de liberdade posterior.
+3. Prevalece o entendimento de que o art. 76 do CP somente é aplicável ao concurso de infrações (art. 69 do CP) quando as penas privativas de liberdade são diferentes (detenção e reclusão).
+4. Agravo regimental não provido.
+(AgRg no HC 424.866/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 12/03/2018)
+Alinho-me, assim, ao entendimento mais recente da Sexta Turma, inclusive com respaldo no disposto no art. 76 do Código Penal, que prevê que executar-se-á primeiramente a pena mais grave, bem como o art. 681 do Código de Processo Penal, ao dispor que se impostas cumulativamente penas privativas da liberdade, será executada primeiro a de reclusão, depois a de detenção e, por último, a de prisão simples.
+Ante o exposto, reconsidero, em parte, a decisão agravada e concedo a ordem também a fim de determinar a revogação da unificação das penas de reclusão e de detenção, devendo ser executada, primeiramente, a pena de reclusão (Execução 1185973 - Vara do Júri e Execuções Criminais de Araraquara/SP).
+Comunique-se.
+Publique-se.
