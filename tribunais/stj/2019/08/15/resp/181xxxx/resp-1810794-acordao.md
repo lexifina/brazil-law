@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA. CÔMPUTO DE TEMPO ESPECIAL EM RAZÃO DE RECEBIMENTO DO ADICIONAL DE INSALUBRIDADE. INSUFICIÊNCIA. NECESSIDADE DE COMPROVAÇÃO DA EXPOSIÇÃO HABITUAL E PERMANENTE POR INTERMÉDIO DE FORMULÁRIOS E LAUDOS.
+1. Nos termos da jurisprudência do STJ, "a percepção de adicional de insalubridade pelo segurado, por si só, não lhe confere o direito de ter o respectivo período reconhecido como especial, porquanto os requisitos para a percepção do direito trabalhista são distintos dos requisitos para o reconhecimento da especialidade do trabalho no âmbito da Previdência Social" (EDcl no AgRg no REsp 1.005.028/RS, Rel. Ministro Celso Limongi, Sexta Turma, DJe 2/3/2009). Precedentes no mesmo sentido: REsp 1.476.932/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 16/03/2015; AgInt no AREsp 219.422/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 31/8/2016.
+2. No caso dos autos, Tribunal a quo reconheceu o período trabalhado como especial, tão somente em razão da percepção pelo trabalhador segurado do adicional de insalubridade, razão pela qual deve ser reformado.
+3. Dessume-se que o acórdão recorrido não está em sintonia com o atual entendimento do STJ, razão pela qual merece prosperar a irresignação.
+4. Recurso Especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+Aposentadoria especial Autor que comprovou que trabalha em ambiente insalubre - Pagamento de adicional de insalubridade que indica que o servidor exerce atividade de risco à saúde e à integridade física Desnecessidade de perícia para comprovar tal risco Concessão da aposentadoria pedida Fundamentação no art. 40, § 4º, III da CF e da Lei 8.213/91 Recurso do autor provido e da ré improvido.
+Os Embargos de Declaração foram rejeitados (fl. 421, e-STJ).
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 64 do Decreto 3.048/1999; 57 e 58 da Lei 8.213/1991; e da Lei 9.032/1995, sob o argumento de que "o adicional de insalubridade não pode ser utilizado como elemento comprobatório das circunstâncias que asseguram o direito àe aposentadoria especial" (fl. 366, e-STJ).
+Contrarrazões apresentadas às fls. 437-443, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 20.5.2017.
+O cerne da controvérsia reside na possibilidade de se reconhecer a especialidade do trabalho, tão somente em razão do percebimento de adicional de insalubridade.
+No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos (fls. 320-322, e-STJ):
+No mérito, a Constituição Federal, em seu art. 40, § 4º, II e III, disciplina a aposentadoria especial aos servidores públicos que exerçam atividades de risco ou sob condições especiais que prejudiquem à saúde e à integridade física, que deveria ser disciplinada por lei complementar ainda não editada.
+Havendo a previsão constitucional, não se pode admitir que o servidor público seja prejudicado em razão da mora legislativa.
+(..)
+Sustenta o autor que comprovou a exposição aos agentes de risco, pois trabalha como técnico de enfermagem, desde 1989, sempre exercendo os serviços em ambiente insalubre, conforme foi reconhecido pela própria Fazenda Municipal que passou a pagar-lhe adicionais de insalubridade.
+Ainda, as rés não conseguiram comprovar o contrário, ou seja, que o autor não exercia atividade de risco, não se expunha a qualquer perigo.
+Embora a sentença tenha entendido que o simples pagamento de adicional de insalubridade pela Fazenda não implica direito automático à aposentadoria especial, há precedentes do Tribunal de Justiça de São Paulo, reconhecendo que o pagamento do adicional implica, por si só, no reconhecimento por parte da Administração Pública, de que o servidor exerce suas atividades em condições insalubres, não sendo necessária a elaboração de laudo técnico de condições ambientais do trabalho.
+Nos termos da jurisprudência do STJ, "a percepção de adicional de insalubridade pelo segurado, por si só, não lhe confere o direito de ter o respectivo período reconhecido como especial, porquanto os requisitos para a percepção do direito trabalhista são distintos dos requisitos para o reconhecimento da especialidade do trabalho no âmbito da Previdência Social." (EDcl no AgRg no REsp 1.005.028/RS, Rel. Ministro Celso Limongi, Sexta Turma, DJe 02/03/2009).
+No caso dos autos, Tribunal a quo reconheceu o período trabalhado como especial, tão somente em razão da percepção pelo trabalhador segurado do adicional de insalubridade, razão pela qual deve ser reformado.
+Vejam-se os precedentes:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CÔMPUTO DE TEMPO ESPECIAL EM RAZÃO DE RECEBIMENTO DO ADICIONAL DE INSALUBRIDADE. INSUFICIÊNCIA. NECESSIDADE DE COMPROVAÇÃO DA EXPOSIÇÃO HABITUAL E PERMANENTE POR INTERMÉDIO DE FORMULÁRIOS E LAUDOS. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Após o advento da Lei 9.032/1995 vedou-se o reconhecimento da especialidade do trabalho por mero enquadramento profissional ou enquadramento do agente nocivo, passando a exigir a efetiva exposição do trabalhador ao agente nocivo.
+2. A percepção de adicional de insalubridade pelo segurado, por si só, não lhe confere o direito de ter o respectivo período reconhecido como especial, porquanto os requisitos para a percepção do direito trabalhista são distintos dos requisitos para o reconhecimento da especialidade do trabalho no âmbito da Previdência Social.
+3. In casu, o acórdão proferido Tribunal a quo reconheceu o período trabalhado como especial, tão somente em razão da percepção pelo trabalhador segurado do adicional de insalubridade, razão pela qual deve ser reformado.
+4. Recurso especial conhecido e provido.
+(REsp 1476932/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 16/03/2015).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPO ESPECIAL. RECONHECIMENTO AFASTADO PELAS INSTÂNCIAS ORDINÁRIAS ANTE A AUSÊNCIA DE PROVAS QUE COMPROVEM O EXERCÍCIO DA ATIVIDADE E MESMO QUE POSSIBILITEM O ENQUADRAMENTO LEGAL. NÃO PODE SER AVALIADA NESTA CORTE A ALEGAÇÃO DE SUFICIÊNCIA DE PROVAS OU A INCURSÃO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Da leitura dos autos, verifica-se que o pedido autoral foi negado ao argumento de que a parte autora não indicou que atividade desenvolvia e quais seriam os agentes nocivos a que estava submetido, de modo a obter o enquadramento em atividade especial insalubre, nem tampouco carreou provas para embasar as alegações trazidas na petição inicial.
+2. Assim, tendo as instâncias de origem, com base no acervo fático-probatório dos autos, afastado a possibilidade de reconhecimento da atividade especial, a inversão do julgamento, na forma pretendida, implicaria no revolvimento do acervo probatório, o que não é possível em sede de Apelo Especial, nos termos da Súmula 7/STJ.
+3. O acórdão recorrido encontra-se em consonância com a orientação desta Corte de que o recebimento de adicional de insalubridade, por si só, não é suficiente para comprovação do efetivo exercício de atividade especial. Precedentes: AgRg nos EDcl no REsp. 1.256.458/PR, Rel. Min. OG FERNANDES, DJe 12.11.2015; REsp. 1.476.932/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 16.3.2015 e EDcl no AgRg no REsp. 1.005.028/RS, Rel. Min. CELSO LIMONGI, DJe 2.3.2009.
+4. Agravo Interno desprovido.
+(AgInt no AREsp 219.422/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 31/08/2016).
+Dessume-se que o acórdão recorrido não está em sintonia com o atual entendimento do STJ, razão pela qual merece prosperar a irresignação.
+Diante do exposto, dou provimento ao Recurso Especial. Ficam invertidos os ônus sucumbenciais e majorados os honorários advocatícios anteriormente fixados em 10%, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+É como voto.
