@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos pela ITAU UNIBANCO S.A, em face de decisão monocrática proferida por este signatário, acostada às fls. 632-637, e-STJ, que deu provimento ao agravo interno para, reconsiderando a decisão de fls. 527-530, e-STJ, conhecer do agravo (art. 1.042 do CPC/2015) e, de pronto, não conhecer do recurso especial interposto pela parte adversa.
+Aponta a embargante a ocorrência de obscuridade no decisium impugnado, consistente na ausência de manifestação acerca da irrisoriedade da fixação dos honorários sucumbenciais, utilizando-se do parâmetro do valor da causa, adotado como único fundamento no Recurso Especial posto em mesa para julgamento.
+Sem impugnação.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Consoante se depreende do artigo 1.022 do CPC/2015, os aclaratórios apenas são cabíveis quando constar, na decisão embargada, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado, bem como na hipótese de erro material. Não se revelando, por conseguinte, meio processual adequado para análise da irresignação da parte que ficou insatisfeita com a decisão.
+De acordo com a jurisprudência desta Corte, a obscuridade é vício de fundamentação caracterizado pela falta de clareza, confusão e ambiguidade do conteúdo do ato jurisdicional.
+Na espécie, contudo, não se verifica a ocorrência do alegado vício, pois a decisão embargada demonstrou exaustivamente as razões que impossibilitaram o conhecimento do apelo nobre, a saber, a incidência da Súmula 7 do STJ, por não vislumbrar, na hipótese, situação excepcional a ensejar o afastamento do referido óbice, tendo em vista o Tribunal de origem não ter delineado concretamente, no acórdão recorrido, todas as circunstâncias referidas nas alíneas do § 3º do artigo 20 do CPC/1973, para que o STJ pudesse revalorá-las, consoante entendimento pacificado desta Corte Superior no sentido de que "O afastamento excepcional do óbice da Súmula 7/STJ, para permitir a revisão dos honorários advocatícios em sede de recurso especial quando o montante fixado se revelar irrisório ou excessivo, somente pode ser procedido quando o Tribunal a quo expressamente indicar e valorar os critérios delineados nas alíneas "a", "b" e "c" do art. 20, § 3o, do CPC/73, conforme entendimento sufragado no julgamento do AgRg no AREsp 532.550/RJ" (AgRg no REsp 1.535.484/AL, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 26/4/2016).
+Assim, inexistindo vícios passíveis de ser sanados pela via de embargos de declaração, impõe-se a sua rejeição neste ponto.
+O mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/2015, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+2. Do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
