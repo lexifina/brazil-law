@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de recurso em habeas corpus por meio do qual se pretende, em síntese, a revogação da segregação cautelar decretada em desfavor de [NOME].
+Entretanto, consoante verifica-se de consulta efetivada na página eletrônica da Corte estadual, no dia 11/7/2019 sobreveio a prolação de sentença nos autos da Ação Penal n. 0027.19.003.443-2, ocasião em que o recorrente foi condenado às penas de 5 (cinco) anos de reclusão, no regime inicial fechado, e 1 (um) ano de detenção, e de 510 (quinhentos e dez) dias-multa, por infração ao art. 33, caput, da Lei de Drogas, ao art. 12, da Lei n. 10.826/03, c/c art. 61, inciso I, e ao art. 65, inciso I, na forma do art. 69, todos do Código Penal, oportunidade em que lhe foi negado o direito de apelar em liberdade (fl. 11 da sentença).
+Na hipótese, está prejudicado o presente recurso voltado a abordar a legalidade da prisão provisória aplicada ao recorrente, visto que o Juízo sentenciante agregou novos fundamentos ao decreto constritivo originário para justificar o indeferimento do apelo em liberdade, isto é, o édito condenatório corresponde a decisão diferente da questionada na presente impetração, sendo, portanto, novo título a embasar a custódia cuja legalidade ainda não foi examinada pelo Tribunal originário.
+Ante o exposto, julga-se prejudicado o recurso em habeas corpus, com fulcro no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intimem-se.
+Após a ciência do Ministério Público Federal e o trânsito em julgado desta decisão, arquivem-se os autos.
