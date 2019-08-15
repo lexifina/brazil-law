@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Seguro habitacional - Ação procedente - Cumprimento de sentença - Decisão que rejeita a impugnação e condena a agravante nas penas por litigância de má-fé - Inconformismo - Acolhimento em parte - Não comprovada ser a apólice pública, do Ramo 66 - Argumentos que não elidem a força da coisa julgada - É defeso à agravante rediscutir a cobertura de vícios de construção e a destinação da multa decendial aos mutuários - Multa que deve incidir sobre o montante da indenização acrescido tão-só de correção monetária - Litigância de má-fé afastada - Decisão reformada em parte - Recurso provido em parte.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, alegam os ora agravantes violação dos artigos 395 e 412 do Código Civil de 219, 293, 471 a 474 e 535 do Código de Processo Civil de 1973.
+Não merece reforma a decisão agravada, a qual foi publicada antes da entrada em vigor da Lei 13.105/2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+De início, verifico que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema, não havendo que se falar, portanto, em ofensa ao artigo 535 do Código de Processo Civil de 1973. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Depois, verifico que o conteúdo normativo dos artigos 471, 472, 473 e 474 do Código de Processo Civil de 1973 não foi debatido, não servindo de fundamento à conclusão adotada pelo Tribunal de origem, tampouco foram opostos embargos de declaração para esse fim, atraindo a incidência da Súmula 282/STF. Esclareço que, como o recurso especial está sujeito aos requisitos de admissibilidade do Código de Processo Civil revogado, é necessário, para fins de prequestionamento, que haja juízo objetivo de valor emitido pelo Tribunal de origem acerca das questões devolvidas a esta Corte Superior. Confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DIREITO À SAÚDE. ASTREINTES. PRETENDIDA REDUÇÃO DO VALOR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+III. O Recurso Especial é manifestamente inadmissível, por falta de prequestionamento, no que tange à alegação de exorbitância do valor fixado a título de astreintes, pelo que incide, na espécie, o óbice da Súmula 282/STF.
+IV. A jurisprudência do Superior Tribunal de Justiça, firmada à luz do CPC/73, entende que, "para interposição de recurso especial, não se admite o chamado prequestionamento ficto, vale dizer, a mera oposição de embargos de declaração não é apta para caracterização do requisito do prequestionamento" (STJ, AgRg no REsp 1.563.809/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/12/2015). No caso, considerando que o Recurso Especial foi interposto na vigência do CPC/73, aplica-se, na espécie, o entendimento do Enunciado Administrativo 2/STJ, aprovado pelo Plenário do STJ, na sessão de 9 de março de 2016, segundo o qual "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+V. Agravo interno improvido.
+(AgInt no AREsp 885.574/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016)
+Por fim, anoto que o entendimento do Tribunal de origem não diverge do desta Corte, segundo o qual "a multa decendial está limitada ao valor da condenação principal, excluídos, portanto, a correção monetária e os juros moratórios" (AgInt no AREsp 1343101/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/12/2018, DJe 19/12/2018). No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. MULTA DECENDIAL LIMITADA AO VALOR DA OBRIGAÇÃO PRINCIPAL. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. O atraso no pagamento da indenização securitária, em contratos de seguro habitacional vinculados ao Sistema Financeiro de Habitação, enseja o pagamento de multa decendial, limitada ao valor da obrigação principal. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1552094/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/02/2019, DJe 14/02/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO HABITACIONAL. MULTA DECENDIAL. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MULTA DECENDIAL QUE SE LIMITA AO VALOR DA OBRIGAÇÃO PRINCIPAL, SEM O ACRÉSCIMO DE JUROS. ACÓRDÃO RECORRIDO PROFERIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL. SÚMULA 83/STJ.
+1. Ausência de violação do art. 535 do CPC/73 quando o acórdão recorrido aprecia com clareza as questões essenciais ao julgamento da lide, com abordagem integral do tema e fundamentação compatível.
+2. A ausência de manifestação do acórdão recorrido acerca de dispositivos legais indicados como violados impede o conhecimento do recurso especial. Súmula 211/STJ.
+3. Segundo a jurisprudência deste Superior Tribunal, a multa decendial no seguro habitacional é devida, limitada ao valor da obrigação principal, sem o acréscimo de juros, nos termos do art. 412 do CC.
+4. Acórdão recorrido proferido em consonância com a jurisprudência deste Superior Tribunal. Sumula 83/STJ.
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1393789/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 06/06/2017, DJe 19/06/2017)
+Incidência, pois, da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
