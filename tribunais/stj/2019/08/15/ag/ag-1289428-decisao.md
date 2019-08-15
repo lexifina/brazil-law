@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de agravo de instrumento em face da admissibilidade negativa de recurso especial sob o fundamento de incidência do enunciado 83 da Súmula do STJ, aplicável inclusive à legislação federal. Pretende-se a reforma de julgado cuja ementa possui a seguinte redação (fl. 192):
+CADERNETA DE POUPANÇA. DIFERENÇAS. EXECUÇÃO DE SENTENÇA. JUROS REMUNERATÓRIOS.
+1. Não há como incluir os juros remuneratórios no cálculo das diferenças relativas a caderneta de poupança no período de aplicação do critério de correção dos débitos judiciais (Lei 6.899/81).
+2. Agravo improvido.
+Opostos embargos de declaração, foram rejeitados às fls. 200/207.
+No especial, o Sindicato recorrente alega a violação dos arts. 20, § 2º, 22, 295 e 472 do Código de Processo Civil de 1973; e 16 da Lei 7.347/1985, além de divergência jurisprudencial acerca da existência de interesse jurídico em perseguir a incidência de juros remuneratórios de 0,5% sobre depósitos judiciais decorrentes das diferenças de correção monetária dos meses de junho de 1987 e janeiro de 1989, não contemplados na ação civil pública ajuizada pela APADECO, de sorte que não são alcançados pelo efeito preclusivo da coisa julgada.
+Argumenta que a condenação na verba honorária de R$ 7.200,00 (sete mil e duzentos reais) não considera que a Caixa Econômica Federal - CEF, não arguiu em contestação a existência de coisa julgada, conforme decidido no REsp 921.000/SC (Segunda Turma, Rel. Ministro Herman Benjamin, DJe de 9.3.2009).
+Por fim, alega que o montante é exagerado, devendo ser fixado com equidade em valor menos expressivo.
+Não foram apresentadas contrarrazões (cf. certidão de fl. 274).
+No agravo de instrumento, o recorrente assere que a Súmula 83/STJ não tem aplicação quando se trata da alínea "a" da norma constitucional; que os precedentes utilizados na admissibilidade são ultrapassados, ao passo que a jurisprudência atual do STJ reconhece que a ação civil pública movida pela APADECO restringe o pleito de haver juros remuneratórios apenas aos meses em que verificados os expurgos dos Planos Bresser e Verão.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105, de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Incide o enunciado 211 da Súmula do STJ quanto à alegada violação dos arts. 20 e 22 do CPC anterior, por ausência de prequestionamento, nada obstante a oposição dos embargos de declaração, não encontrando, assim, condições de análise na instância especial, mormente porque não levantada a negativa de vigência do art. 535 daquele Código. Veja-se que a matéria específica foi objeto de apreciação em decisão singular anterior ao julgamento do agravo regimental (fls. 160/164).
+De todo modo, as questões versadas foram decididas com base nos seguintes argumentos (fls. 161/162):
+No que respeita à verba honorária, tenho que não está a merecer reparos o montante arbitrado no decisum. Considerado o valor estipulado para a causa (fl. 16), tenho que a fixação obedece ao percentual pacificado por essa Eg. Turma Julgadora para a espécie - 10% sobre o valor da demanda.
+Ainda, dadas as peculiaridades do feito, não vislumbro a incidência do postulado art. 22, do CPC, no caso em tela, uma vez que "o juiz, de ofício, pode declarar a existência da coisa julgada, em razão, inclusive, de se tratar de matéria de ordem publica. A coisa julgada pode ser alegada a qualquer tempo e em qualquer grau de jurisdição." (TRF/4ªR, AC nº 2007.71,00.026022-0/RS, 4ª Turma, D.E. 13/12/2007, Des. Fed. [NOME])
+Ademais, pelo exame dos autos, resta evidenciado que a parte autora foi quem deu causa ao ajuizamento da demanda, devendo ela arcar com a verba honorária do presente feito, conforme leciona, ainda, o "Princípio da causalidade".
+Nesse sentido, orienta-se a jurisprudência do Col. Superior Tribunal de Justiça e desta Eg. Corte, verbis:
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. LITISCONSORTE PASSIVO. EXTINÇÃO DO PROCESSO EM RELAÇÃO À PARTE ILEGÍTIMA. HONORÁRIOS. CABIMENTO.
+1. A exclusão da lide de parte considerada ilegítima em litisconsórcio passivo inicial torna inequívoco o cabimento de verba honorária pelo sujeito passivo responsável pela inclusão indevida, por força da sucumbência informada pelo princípio da causalidade.
+(..)
+3. A regra encartada no artigo 20, do CPC, fundada no princípio da sucumbência, tem natureza meramente ressarcitória, cujo influxo advém do axioma latino victus victori expensas condemnatur, prevendo a condenação do vencido nas despesas judiciais e nos honorários de advogado.
+4. Deveras, a imposição dos ônus processuais, no Direito Brasileiro, pauta-se pelo princípio da sucumbência, norteado pelo princípio da causalidade, segundo o qual aquele que deu causa à instauração do processo deve arcar com as despesas dele decorrentes.
+5. É que a atuação da lei não deve representar uma diminuição patrimonial para a parte a cujo favor se efetiva; por ser interesse do Estado que o emprego do processo não se resolva em prejuízo de quem tem razão.
+6. Embargos de Declaração rejeitados."
+(STJ - EDRESP - 854756 Processo: 200601150026 UF: SP Órgão Julgador: PRIMEIRA TURMA Data da decisão: 02/08/2007 Documento: STJ000767243 Fonte DJ DATA: 10/09/2007 PÁGINA: 200 Relator Min. LUIZ FUX)
+"PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. VEÍCULO PENHORADO DE PROPRIEDADE DE TERCEIRO ESTRANHO À EXECUÇÃO FISCAL, DESPROVIDO DE REGISTRO JUNTO AO DETRAN HONORÁRIOS DE SUCUMBÊNCIA.
+1. Pessoa ilegítima a condenação do embargado, nos embargos de terceiro, nas verbas de sucumbência, porquanto, embora vencedor o embargante, ele foi o responsável pela demanda ante à sua negligência quanto ao dever de regularizar o registro de propriedade do veículo.
+2. A imposição dos ônus processuais, no Direito Brasileiro pauta-se pelo princípio da sucumbência, norteado pelo princípio da causalidade, segundo o qual aquele que deu causa à instauração do processo deve arcar com as despesas dele decorrentes.
+3. "O princípio da causalidade não se contrapõe ao princípio da sucumbência. Antes, é este um dos elementos norteadores daquele, pois, de ordinário, o sucumbente é considerado responsável pela instauração do processo e, assim, condenado nas despesas processuais. O princípio da sucumbência, contudo, cede lugar quando, embora vencedora, a parte deu causa à instauração da lide. Se o credor indicou à penhora imóvel objeto de contrato de compra e venda não registrado, é iniludível que a necessidade do ajuizamento dos embargos de terceiro pelo adquirente é resultado da desídia deste em não promover o registro, providência que a par da publicidade do ato poderia evitar a indesejada constrição patrimonial, haja vista a eficácia erga omnes dos atos submetidos a registro. Assim, face ao princípio da causalidade, cabe aos terceiro-embargante, adquirente do imóvel, arcar com os consectários da sucumbência." (RESP 303.597-SP, DJ de 11.06.2001, Relatora Ministra Nancy Andrighi).
+(..)
+5. Recurso Especial provido."
+(STJ-RESP - 604614 Processo nº 200301992160/RS Órgão Julgador: 1ª TURMA DJ DATA:29/11/2004 PÁGINA.244 Relator LUIZ FUX)
+(..)
+A matéria, posta nesses termos, não escapa do óbice processual dos Enunciado 7 da Súmula do STF, que veda o reexame de matéria fática, no que se inclui a pretensa fixação de honorários com base na equidade.
+Nos termos da pacífica jurisprudência desta Corte, ressalto que o óbice da Súmula 83/STJ também incide nos recursos interpostos pela alínea "a" do inciso III do artigo 105 da Constituição Federal. Confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.VIOLAÇÃO DO ART. 535 DO CPC NÃO DEMONSTRADA, O QUE FAZ INCIDIR O ÓBICE DA SÚMULA 284/STF. EMBARGOS À EXECUÇÃO PROPOSTOS PELA FAZENDA PÚBLICA.SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DE APELAÇÃO. RECEBIMENTO NO EFEITO DEVOLUTIVO NA PARTE INCONTROVERSA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. In casu, o acórdão recorrido está em sintonia com atual orientação do STJ, motivo pelo qual não merece prosperar a irresignação, nos termos da Súmula 83/STJ, cuja incidência também pode ocorrer nas hipóteses de interposição de Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Regimental desprovido.
+(Primeira Turma, AgRg no AREsp 64.641/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, DJe de 8.4.2016)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE COBRANÇA CUMULADA COM INDENIZATÓRIA - CONTRATO DE REPRESENTAÇÃO EMPRESARIAL FIRMADO ENTRE UMA EMPRESA BRASILEIRA (REPRESENTANTE) E UMA ITALIANA (REPRESENTADA). FORO DE ELEIÇÃO - INDICAÇÃO DA JUSTIÇA ITALIANA PARA DIRIMIR QUALQUER CONTROVÉRSIA INERENTE AO CONTRATO - COMPETÊNCIA INTERNACIONAL CONCORRENTE- SENTENÇA DE EXTINÇÃO DO PROCESSO SEM APRECIAÇÃO DO MÉRITO FUNDADA NA AUSÊNCIA DE JURISDIÇÃO BRASILEIRA - ANULAÇÃO - DELIBERAÇÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL. INSURGÊNCIA DO AGRAVANTE.
+(..)
+2. A incidência da Súmula 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a citada súmula, relaciona-se com a interpretação de norma infraconstitucional.
+3. Agravo regimental desprovido.
+(Quarta Turma, AgRg no AREsp 679.421/RJ, Rel. Ministro MARCO BUZZI, DJe de 31.3.2016)
+Por fim, quanto ao tema de fundo, da análise do recurso especial, observa-se que o recorrente não rebate eficazmente, como seria de rigor, o fundamento central do acórdão regional, que está motivado nas seguintes premissas (fls. 188/189):
+Tendo a APADECO requerido os juros remuneratórios somente dos meses de junho de 1987 e janeiro de 1989, a princípio, o pedido de pagamento dos juros remuneratórios dos demais meses não afrontaria a coisa julgada.
+É o que se depreende dos votos exarados pelos eminentes Ministros, por ocasião do julgamento do REsp 815.831/PR, verbis:
+"Ação civil pública. Caderneta de poupança. Diferenças. Execução de sentença, juros remuneratórios.
+1. Não há como incluir na execução juros remuneratórios em relação a todo o período objeto de cobrança, tendo em vista que a sentença executada, com trânsito em julgado, deferiu a incidência daqueles, apenas, nos dois meses em que houve remuneração menor que a devida nas cadernetas de poupança, isto é, em junho de 1987 e em janeiro de 1989.
+2. Recurso especial conhecido e provido."
+(STJ, REsp 815.831/PR, 2ª Seção, Rel. Min. Ari Pargendler, Rel. p/acórdão Min. Carlos Alberto Menezes Direito, DJ 12/02/2007)
+Porém, em tese, há dois caminhos para a correção das diferenças:
+1. aplicação dos critérios da caderneta de poupança, onde cabe a aplicação da correção monetária (TR) e dos juros remuneratórios de 0,5% ao mês, capitalizados mês a mês - desde que expressamente requeridos na inicial;
+2. aplicação dos Índices da tabela de correção dos débitos judiciais vigente na Justiça Federal (INPC), onde não há que se falar em juros remuneratórios.
+Na ação civil pública, a APADECO pleiteou as diferenças nos índices dos planos econômicos, devidamente corrigidos pelos índices do débitos judiciais, Lei 6.899/1981, e os juros remuneratórios nos meses em que houve a remuneração a menor. E a sentença na ação civil pública condenou a CEF "a pagar aos poupadores do Estado do Paraná, nas contas de caderneta de poupança mantidas junto a ré, iniciadas ou renovadas até 1 de junho/87 e 15 de janeiro/89, o valor da diferença apurada entre o que foi efetivamente creditado em suas contas nos meses referidos com o que deveria ter sido pago de acordo com o IPC apurado no período - em junho/87 e 42,72% em janeiro/89 - mais juros de 0,5% ao mês, devendo ser corrigido até o efetivo pagamento, na forma da Lei 6.899/81, a contar da data em que era devido, acrescido de juros de mora de 0,5% ao mês, contados da citação".
+No caso dos autos, tendo a parte autora direito a receber as diferenças corrigidas pelos índices dos débitos judiciais, é incabível a aplicação dos juros remuneratórios sobre essas diferenças. (sem negrito no original)
+Como se verifica, o fundamento do julgado é a impossibilidade de cumulação de juros remuneratórios com o critério da Lei 6.899/1981, tratando-se de débito judicial, não a inexistência de coisa julgada quanto aos meses não contemplados na ação civil pública proposta pela APADECO.
+Incólume motivação suficiente por si só para manter o acórdão, impossível a alteração do decisório recorrido por força do veto contido no Verbete sumular 283 do STF.
+Em face do exposto, nego provimento ao agravo de instrumento.
+Intimem-se.
