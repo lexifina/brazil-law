@@ -1,0 +1,13 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada (fls. 592-594):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. AUSÊNCIA. FAZENDA PÚBLICA. EXECUÇÃO DE SENTENÇA. PAGAMENTO POR PRECATÓRIO. ADIMPLEMENTO. PEDIDO DE RETIFICAÇÃO. ALEGAÇÃO DE INCORREÇÃO. IMPUGNAÇÃO EXTEMPORÂNEA. VIOLAÇÃO A DISPOSITIVO. AUSÊNCIA DE COMANDO NORMATIVO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Os embargantes argumentam que houve, sim, violação do art. 1.022 do CPC/2015, porquanto, mesmo após a oposição de embargos declaratórios, a Corte de origem "persistiu em não decidir questões que lhe foram submetidas a julgamentos" (fl. 611). Asseveram também que, ao contrário do consignado na decisão agravada, o dissídio jurisprudencial "restou devidamente comprovado" (fl. 614). Requerem, ao final, o acolhimento dos embargos de declaração para que seja "conhecido e provido o recurso especial interposto" (fl. 621).
+Impugnação às fls. 633-638.
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso concreto, o agravo foi conhecido para, desde logo, negar provimento ao recurso especial, ao fundamento de que "alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 541, parágrafo único, do CPC/1973 e 255, § 1º, do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, sendo insuficiente, para tanto, a simples transcrição de ementas ou votos".
+Ocorre que os embargantes limitam-se a sustentar que o dissídio jurisprudencial "restou devidamente comprovado" (fl. 614). Dessa forma, as matérias trazidas nos embargos de declaração estão relacionadas à qualidade do julgado e não à eventual omissão, obscuridade ou contradição a ser suprida. Procuram os embargantes, por via reflexa, discutir novamente as questões já decididas. Consoante jurisprudência do STJ, os aclaratórios "não podem conduzir a novo julgamento, com a reapreciação do que ficou decidido" (EDcl nos EREsp 1.106.999/SC, Rel. Ministro Moura Ribeiro, Segunda Seção, DJe 24/5/2019).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
