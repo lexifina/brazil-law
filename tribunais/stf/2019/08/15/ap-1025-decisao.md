@@ -1,0 +1,11 @@
+Decisão: 1. Por meio da petição 012.923/2019 (fl. 7.654), a União pleiteia o compartilhamento de provas e documentos colhidos nesta ação penal “bem como de todos os seus apensos, para análise acerca de eventuais providências para resguardar os interesses do ente central”.
+    Instada, a Procuradoria-Geral da República frisa que a pretensão converge com a jurisprudência desta Suprema Corte, aquiescendo, pois, com o pleito, à exceção dos anexos sigilosos, por depreender que estes últimos exigem “a demonstração da pertinência temática das informações ao processo (administrativo ou judicial) que se pretende instruir” (fl. 7.657).
+    2. Principio ressaltando que o Supremo Tribunal Federal, com pequena ressalva (INQ 3.014 AgR, Rel. Min. MARCO AURÉLIO, Tribunal Pleno, julgado em 13.12.2012, DJe de 23.9.2013), já se manifestou no sentido de não haver óbice ao compartilhamento de elementos informativos colhidos no âmbito de inquérito penal para fins de instruir outro procedimento criminal (HC 102.293, Rel. Min. AYRES BRITTO, Segunda Turma, julgado em 24.5.2011, DJe de 19.12.2011).
+    Nesse mesmo sentido, também é assente na jurisprudência desta Corte a admissibilidade, em procedimentos administrativos, de prova emprestada do processo penal (RE 810.906, Rel. Min. ROBERTO BARROSO, julgado em 25.5.2015, DJe de 28.5.2015), assim como para o fim de subsidiar apurações de outra natureza (INQ-QO 2.725, Rel. Min. CARLOS BRITTO, julgado em 25.6.2008, publicado em 26.9.2008, Tribunal Pleno).
+    Conforme adiantado, a União assevera ser impreterível a obtenção das peças almejadas “para análise acerca de eventuais providências para resguardar os interesses do ente central” (fl. 7.654). Logo, estando esclarecida a pertinência das informações que ora serão partilhadas, não depreendo qualquer óbice ao pedido de compartilhamento das peças indispensáveis à adoção de medidas de natureza administrativa, segundo a delimitação proposta pelo Ministério Público Federal às fls. 7.657-7.658.
+    3. À luz do exposto, defiro o pedido de compartilhamento deduzido pela União, para autorizar o tralado das peças contidas na AP 1.025, exceto quanto aos anexos sigilosos.
+    Publique-se. Intime-se.
+    Brasília, 15 de agosto de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
