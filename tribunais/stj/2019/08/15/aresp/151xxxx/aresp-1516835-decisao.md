@@ -1,0 +1,69 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 1.022, DO CPC/15. OMISSÃO. AUSENTE. LITIGÂNCIA DE MÁ-FÉ. DETURPAÇÃO DA VERDADE DOS FATOS. DEMONSTRADA PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER O RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por PETRÓLEO BRASILEIRO S A PETROBRAS em face da decisão que negou seguimento a recurso especial, fundamentado na alínea "a" do art. 105, III, da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÕES CÍVEIS. ROMPIMENTO ADUTORA DE ÁGUA. PETROBRÁS. DANOS MATERIAS. LUCROS CESSANTES. NEXO DE CAUSALIDADE. LITIGÂNCIA DE MÁ-FÉ. Versa a demanda sobre rompimento de adutora de água de propriedade da Petrobrás em área onde está localizada a empresa Autora, cingindo a controvérsia acerca dos danos daí decorrentes. Incontroverso o vazamento e os reparos na tubulação realizados pela Petrobrás por meio de empresa especializada. No que diz respeito à recomposição asfáltica do pátio da Demandante, bem como ao dano material equivalente ao valor da reconstrução do muro local, ao contrário do alegado pela Ré em apelação, encontra-se demonstrado nos autos o nexo de causalidade entre o rompimento da adutora e respectiva obra de reparo com as avarias reveladas, corroborado, inclusive, pela declaração da própria empresa de engenharia contratada pela Petrobrás para apoio à operação dos serviços de estanqueidade e solda da tubulação. Além disso, as fotos anexadas comprovam a extensão do vazamento, a abertura de buracos e a demolição de muro, devendo ser mantida, portanto, a condenação da Ré na obrigação de fazer e na indenização pelo dano material apurado, com base na responsabilidade objetiva atrelada à teoria do risco do empreendimento. De outro lado, com relação à perda de receita mensal no valor de R$ 17.500,00 referente ao cont rato de locação rescindido, não se depreende do conjunto probatório que os estragos provocados pelo rompimento da adutora tenham dado causa à extinção da locação. Improcedência do pedido que se mantém. Manutenção da condenação da Ré em litigância de má- fé, haja vista ter agido alterando a verdade dos fatos, aduzindo situação que sabia ou deveria saber que não correspondente à realidade, de que o pátio da Demandante se localiza na faixa de domínio da adutora, sendo objeto de ação de desapropriação. Diante de tais argumentos, a parte Ré retardou o deslinde do feito desde o ano de 2009, dando ensejo à realização desnecessária de perícia, em grave ofensa ao princípio da boa-fé processual e da colaboração entre as partes. Art. 77, I e II do CPC. RECURSOS DESPROVIDOS. (e-STJ, fl.303)
+No recurso especial, a parte agravante alega violação aos artigos 77, inciso II, 80, inciso II, 489 §1º, inciso IV e 1.022 II do CPC/15. Defende que não agiu de forma desleal no processo, não estando presentes os requisitos da litigância de má-fé.
+Contrarrazões apresentadas (e-STJ, fls. 357/358).
+É o relatório.
+Passo a decidir.
+O recurso especial não merece prosperar.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+De início, a agravante aponta a tese de omissão sustentando que o Tribunal de origem não se manifestou sobre todos argumentos trazidos para afastar a condenação em litigância de má-fé, alegando que estava convencida de que o terreno alagado pelo rompimento da adutora era de sua propriedade em razão da antiga ação de desapropriação, ressaltando a diferença de apenas 10 metros demonstrada no laudo pericial sobre a localização da adutora e do terreno objeto da desapropriação. Alega, pois, malferimento do artigo 1.022, do CPC/15.
+No tocante à alegada negativa de prestação jurisdicional, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. ACOLHIMENTO. CUSTAS PROCESSUAIS. SUCUMBÊNCIA MÍNIMA. RESPONSABILIDADE INTEGRAL DA PARTE VENCIDA.
+1. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como quando há erro material a ser sanado.
+2. Verificada a sucumbência mínima, caberá à outra parte, por inteiro, responder pelas custas e honorários advocatícios.
+3. Embargos de declaração parcialmente acolhidos.
+(EDcl no AgRg no REsp 1448042/PR, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 15/10/2015, DJe 21/10/2015 - grifou-se)
+RECURSO ESPECIAL - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - INOCORRÊNCIA (..)
+1. Os embargos de declaração consubstanciam-se no instrumento processual destinado à eliminação, do julgado embargado, de contradição, obscuridade ou omissão sobre tema cujo pronunciamento se impunha pelo Tribunal, não se prestando para promover a reapreciação do julgado. (..)".
+(REsp 1.134.690/PR, Rel. Ministro Massami Uyeda, Terceira Turma, julgado em 15/02/2011)
+No caso dos autos, o acórdão proferido pelo Tribunal de origem foi claro ao examinar toda a matéria de direito suscitada pela agravante, desse modo, embora rejeitados os embargos de declaração opostos, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente. Assim consignou:
+Versa a demanda sobre rompimento de adutora de água de propriedade da Petrobrás em área onde está localizada a empresa Autora, cingindo a controvérsia acerca dos danos daí decorrentes. Da análise das razões recursais, verifica-se a nítida pretensão de rediscussão da matéria suficientemente resolvida pelo colegiado. Com efeito, entendeu-se que a Petrobrás agiu nos autos alterando a verdade dos fatos, aduzindo situação que sabia ou deveria saber que não corresponde à realidade, de que o pátio da Embargada se localiza na faixa de domínio da adutora, sendo objeto de ação de desapropriação. Diante de tais argumentos, a Embargante retardou o deslinde do feito desde o ano de 2009, dando ensejo à realização desnecessária de perícia, em grave ofensa ao princípio da boa -fé processual e da colaboração entre as partes. Outrossim, restou evidenciada a conduta desleal da Embargante ao afirmar que o Registro Imobiliário trazido pela Embargada aos autos não comprovaria a sua propriedade sobre a área examinada. Por certo os embargos de declaração servem para suprir omissão ou aclarar obscuridade que interfira na solução da lide, assim como sanar qualquer contradição entre premissa e conclusão, acaso identificada, tendo sido acrescido no CPC/2015 a possibilidade de correção de erro material, não se prestando ao simples reexame de questões já analisadas. (e-STJ, fls. 319/320 - grifou-se)
+Assim, ausente omissão no julgado.
+Consoante a jurisprudência desta Corte, o órgão julgador não está obrigado a se manifestar sobre todas as teses apresentadas durante um processo judicial, bastando que as decisões estejam devida e coerentemente fundamentadas, em obediência ao que determina o art. 93, inciso IX, da Constituição Federal.
+Assim já se decidiu em diversos julgados, dentre os quais:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE. O ÓRGÃO JURISDICIONAL NÃO ESTÁ OBRIGADO A SE PRONUNCIAR SOBRE TODOS OS ARGUMENTOS SUSCITADOS PELAS PARTES SE IMPERTINENTES À SOLUÇÃO DA QUESTÃO. DECISÃO MONOCRÁTICA. MÉRITO DO ESPECIAL. POSSIBILIDADE. AUSÊNCIA DE PEÇA FACULTATIVA. IMPRESCINDIBILIDADE À SOLUÇÃO DA CONTROVÉRSIA. FORMAÇÃO DEFICIENTE. AGRAVO IMPROVIDO.
+(..)
+II. O órgão julgador, como acentuado pelo entendimento pretoriano, não é obrigado a se pronunciar sobre todos os temas, mas apenas acerca daqueles relevantes e aptos à formação de sua convicção.
+(..)
+V. Agravo improvido.
+(AgRg no Ag 1232500/SP, Rel. Ministro Aldir Passarinho Junior, Quarta Turma, DJe 06/09/2010 - grifou-se)
+Ademais, a litigância de má-fé se configura quando a parte deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso; alterar a verdade dos fatos; usar do processo para conseguir objetivo ilegal; opuser resistência injustificada ao andamento do processo; proceder de modo temerário em qualquer incidente ou ato do processo; provocar incidentes manifestamente infundados ou, ainda, interpuser recurso com intuito manifestamente protelatório.
+A eleição dessas circunstâncias decorre das obrigações anteriormente explicitadas pelas próprias normas de processo civil que exigem da parte o dever de expor os fatos conforme a verdade; proceder com lealdade e boa-fé; não formular pretensões, nem alegar defesa, cientes de que são destituídas de fundamento; não produzir provas, nem praticar atos inúteis ou desnecessários à declaração ou defesa do direito e cumprir com exatidão os provimentos mandamentais e não criar embaraços à efetivação de provimentos judiciais, de natureza antecipatória ou final.
+Dessa forma, qualquer conduta que ultrapasse esse limite será considerada temerária e implicará nas consequências previstas Lei Processual Civil.
+Assim, no que concerne à tese jurídica de que não houve litigância de má-fé, verifica-se que o Tribunal de origem, à luz dos elementos dos autos, concluiu pela sua configuração a justificar a incidência do artigo 77, incisos II e III, do Código de Processo Civil/15, conforme se extrai da leitura abaixo:
+Com relação à condenação da parte Ré em litigância de má-fé, entende-se por sua manutenção, haja vista ter agido alterando a verdade dos fatos, aduzindo situação que sabia ou deveria saber que não corresponde à realidade, de que o pátio da Demandante se localiza na faixa de domínio da adutora, sendo objeto de ação de desapropriação. Diante de tais argumentos, a Demandada retardou o deslinde do feito desde o ano de 2009, dando ensejo à realização desnecessária de perícia, em grave ofensa ao princípio da boa-fé processual e da colaboração entre as partes. Outrossim, evidenciada a conduta desleal da Ré, quando afirma que o Registro Imobiliário trazido pela Autora aos autos não comprovaria a sua propriedade sobre a área examinada, violando a conduta da Petrobrás os deveres das partes e seus procuradores previstos no art. 77, II e III do CPC, verbis: (e-STJ, fl. 464 - grifou-se)
+Rever tais conclusões demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça: a pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECONHECIMENTO DE LITIGÂNCIA DE MÁ-FÉ. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. O Tribunal a quo, soberano na análise do acervo fático-probatório dos autos, entendeu estar configurada a conduta temerária da recorrente. Revisar tal entendimento, com o objetivo de afastar a litigância de má fé, comporta reanálise do contexto fático-probatório dos autos, o que é vedado pela Súmula 7/STJ.
+2. Agravo regimental não provido. (AgRg no AREsp 254.594/SP, Rel.
+Ministro Benedito Gonçalves, Primeira Turma, julgado em 7/2/2013 DJe 14/2/2013 - grifou-se)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA. HONORÁRIOS DE SUCUMBÊNCIA. PERDA. LITIGÂNCIA DE MÁ-FÉ. OCORRÊNCIA. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADO 7 DA SÚMULA DO STJ. VIOLAÇÃO DO ART. 22 DO CPC. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. APLICÁVEL PARA AMBAS AS
+ALÍNEAS. NÃO PROVIMENTO.
+1. O Tribunal de origem, com base nos fatos e provas dos autos, entendeu pela perda dos honorários de sucumbência e aplicação de multa pela litigância de má-fé. O acolhimento das razões de recurso, na forma pretendida, demandaria o reexame de matéria fática. Incidência do verbete 7 da Súmula desta Corte.
+2. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp
+260.076/SC, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 5/2/2013, DJe 22/2/2013 - grifou-se)
+AGRAVO REGIMENTAL. SISTEMA FINANCEIRO DA HABITAÇÃO. AÇÃO AJUIZADA CONTRA SEGURADORA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. COBERTURA SECURITÁRIA. SÚMULAS 5 e 7/STJ. CDC. APLICABILIDADE. LITIGÂNCIA DE MÁ-FÉ. SÚMULA 7/STJ. DECISÃO AGRAVADA MANUTENÇÃO.
+(..)
+4.- Esta Corte tem entendido que aferir se houve ou não litigância
+de má-fé, é providência inviável em sede de Recurso Especial, a teor
+do óbice constante da Súmula 7 do Superior Tribunal de Justiça (AgRg no REsp 657.075/RS, Rel. Min. PAULO GALLOTTI, sexta Turma, DJ 25.06.2007).
+5.- Agravo Regimental improvido. (AgRg no AREsp 259.245/SC, Rel.
+Ministro Sidnei Beneti, Terceira Turma, julgado em 18/12/2012, DJe 4/2/2013 - grifou-se)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FRAUDE À EXECUÇÃO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DE PROVAS. ÓBICE DA SÚMULA 7 DO STJ.
+1. (..)
+2. O afastamento da multa aplicada por litigância de má-fé também
+demandaria reexame de matéria fática. Incidência, novamente, da
+Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp
+170.477/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 11/12/2012, DJe 17/12/2012)
+Advirta-se, por fim, que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, conforme Enunciado Administrativo n. 3/STJ.
+Ante o exposto, conheço o agravo para, desde logo, não conhecer o recurso especial.
+Intimem-se.
