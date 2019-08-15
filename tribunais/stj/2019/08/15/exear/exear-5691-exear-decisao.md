@@ -1,0 +1,18 @@
+DECISÃO
+Vistos etc.
+MELO E TOGNOLO ADVOGADOS ASSOCIADOS, em petição de fls. 1.353/1.355 (e-STJ), pleiteiam o cumprimento do acórdão transitado em julgado em que a [NOME] [NOME] S/A foi condenada ao pagamento das custas processuais e honorários advocatícios sucumbenciais, os quais foram fixados em 10% (dez por cento) sobre o valor dado a causa (e-STJ, fl. 1.344).
+Em despacho de fls. 1.359/1.360 (e-STJ), determinei a intimação da executada, nos termos do art. 523 do CPC, para que, no prazo de 15 (quinze) dias, efetuasse o pagamento do valor, com a advertência de que não ocorrendo pagamento voluntário no referido prazo, o débito será acrescido de multa de 10% (dez por cento) e, também, de honorários de advogado no mesmo percentual (CPC, art. 523, § 1º).
+Após o decurso do prazo, sem o mencionado pagamento voluntário, a executada, em petição de fls. 1.380/1.385 e 1.390/1.392 (e-STJ), pleiteou o parcelamento do débito, nos termos do art. 916 do CPC/15.
+Em decisão de fl. 1.395 (e-STJ), indeferi o pedido de parcelamento, a teor do que dispõe explicitamente o § 7º do artigo 916 do CPC/15.
+Em seguida, a executada depositou o montante referente ao débito principal, sem a incidência da multa e honorários advocatícios previstos no artigo 523, § 1º, do CPC/15.
+Intimado a se manifestar (e-STJ, fl. 1.405), o exequente, na petição 343.543/2019, ao mesmo tempo em que postula o levantamento da quantia já depositada, requer a intimação da devedora para pagar a importância de R$ 7.135,58, correspondente à multa e honorários advocatícios, ambos no índice de 10%, incidentes sobre o valor principal.
+É o relatório.
+Decido.
+Consoante expressa previsão do § 1º do artigo 523 do CPC/15, somente o pagamento voluntário e no prazo de 15 dias contados da intimação do executado inibe a aplicação da multa de 10% (dez por cento) sobre o valor exequendo e, também, de honorários de advogado no mesmo percentual.
+Aliás, nessa linha de consideração, o STJ já firmou orientação no sentido de que "a multa a que se refere o art. 523 do Código de Processo Civil de 2015 será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a qualquer discussão do débito" (AgInt no AREsp 1.271.636/SP, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 20/11/2018).
+Relativamente, ao honorários advocatícios, ainda na sistemática do CPC/1973, cuja orientação também se aplica ao caso vertente, a Corte Especial do Superior Tribunal de Justiça havia firmado o entendimento nos moldes dos recursos repetitivos no sentido de que "são cabíveis honorários advocatícios em fase de cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário a que alude o art. 475-J do CPC, que somente se inicia após a intimação do advogado, com a baixa dos autos e a aposição do "cumpra-se" (REsp. n.º 940.274/MS)" (REsp 1.134.186/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 01/08/2011, DJe 21/10/2011).
+No caso, conforme relatado acima, a executada, devidamente intimada para adimplir a obrigação, não realizou o pagamento do débito, preferindo postular descabido pedido de parcelamento.
+Com essas considerações, reconheço a legitimidade da incidência dos encargos previstos no art. 523, § 1º, do CPC/15 à hipótese e determino a intimação de [NOME] S/A para que, no prazo de 15 (quinze) dias, efetue o pagamento da multa de 10% (dez por cento) e, também, de honorários de advogado no mesmo percentual aplicados sobre o valor exequendo.
+Ordeno, ainda, a expedição de alvará de levantamento da quantia depositada à fls. 1.399/1401 (e-STJ), nos termos em que formulado na petição 343.543/2019.
+Intimem-se.
+À Coordenadoria de Execução Judicial para providências.
