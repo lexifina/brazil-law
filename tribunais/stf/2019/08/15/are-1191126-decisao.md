@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 81):
+     “APELAÇÃO – Ação condenatória – Município de Cardoso – Pensão por morte – Extensão até conclusão de curso superior ou até a idade de 24 anos – Improcedência – Pretensão de inversão do julgamento – Impossibilidade – Aplicação da lei previdenciária vigente à data do óbito do segurado – Súmula 340 do STJ – Lei Municipal nº 61/2006 que estabelece como limite etário 18 (dezoito) anos de idade – Inviabilidade da extensão do benefício ao filho maior válido, que ostenta a condição de universitário, por falta de amparo legal – Precedentes deste Egrégio Tribunal – Não provimento do recurso.”
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 6º; 23, V; 205; 206, I; e 227 da Constituição Federal.
+    Nas razões recursais, sustenta, em suma que (eDOC 2, p. 93):
+    “as disposições legais que fixam como termo final do benefício de pensão por morte o alcance da idade de 18 (dezoito) anos, independentemente das circunstâncias que legitimem a continuidade do pagamento do benefício, são inconstitucionais, uma vez que violam o disposto no art. 201, V da CF.”
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário em virtude de incidir na hipótese as Súmulas 280 e 282 do STF (eDOC 4, p. 2).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, quando do julgamento da apelação, assim asseverou (eDOC 2, p. 82-83):
+    “E a Lei Municipal nº 61/2006, em seu artigo 16, I, “d”, estabelece como beneficiário do IPREMCAR, na condição de dependente do segurado, o filho não emancipado de qualquer condição, menor de 18 (dezoito) anos ou inválido.
+    A mesma lei dispõe, em seu artigo 74, II, a cessão da quota parte individual da pensão por morte para o dependente menor ao completar 18 anos.
+    Como se vê, a lei municipal é taxativa ao definir como limite para o filho beneficiário, a idade de 18 (dezoito) anos.
+    Não há, pois, no âmbito do regime próprio de previdência do Município de Cardoso, previsão legal que autorize a manutenção do pagamento do beneficio ao filho capaz maior, por ostentar a condição de estudante universitário.
+    Inviável, portanto, a extensão do benefício até que a beneficiária conclua seu curso superior ou complete 24 anos de idade, diante da existência de norma expressa em sentido contrário.
+    Não se ignoram as normas constitucionais protetivas do direito à educação invocadas pela recorrente. Entretanto, por outro lado, não se pode ignorar a autonomia do município para regular seu sistema previdenciário próprio. Assim, diante da falta de amparo legal, não é possível ao Judiciário obrigar a Municipalidade ao pagamento de benefício previdenciário não previsto em lei específica e sem fonte de custeio.”
+     Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o exame da legislação local aplicável à espécie (Lei Municipal nº 61/2006), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF. Nesse sentido:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PENSÃO POR MORTE. LEI ESTADUAL Nº 3.309/1993. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULA 280/STF. PRECEDENTES. 1. Hipótese em que, para dissentir da conclusão do Tribunal de origem, seria necessária a análise da legislação infraconstitucional pertinente, o que não é cabível nesse momento processual. Súmula 280/STF. Precedentes. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF). 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (ARE 1.155.810-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 14.3.2019).
+    “Embargos declaratórios em recurso extraordinário. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Direito Administrativo e Previdenciário. Pensão de servidor público. 4. Dependente. Maioridade e estudante de ensino superior. Benefício previdenciário assegurado com base em legislação local. Súmula 280. 5. Erro material. Ocorrência no relatório e na parte dispositiva. 6. Agravo regimental a que se dá parcial provimento para fins de correção de erro material.” (ARE 647.727-ED, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 18.11.2014).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo e a suspensão da exigibilidade por ser a parte beneficiária da justiça gratuita.
+    Publique-se.
+    Brasília, 15 de agosto de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
