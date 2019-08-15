@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DEVOLUÇÃO DE VALORES E DECLARAÇÃO DE NULIDADE. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de obrigação de fazer c/c devolução de valores e declaração de nulidade, fundada no direito de manutenção do plano de saúde após o fim do contrato de trabalho.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo em recurso especial conhecido. Recurso especial não conhecido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME] e OUTROS (agravantes), contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/09/2018.
+Concluso ao gabinete em: 24/04/2019.
+Ação: de obrigação de fazer c/c devolução de valores e declaração de nulidade com pedido de tutela antecipada para manutenção do plano de saúde, ajuizada por [NOME] e OUTROS, em face de TELEFÔNICA BRASIL S/A, AMIL - ASSISTÊNCIA MÉDICA INTERNACIONAL LTDA. e PLAMTEL PLANO DE ASSISTÊNCIA MÉDICA DA TELESP, fundada no direito de manutenção do plano de saúde após o fim do contrato de trabalho.
+Sentença: julgou a ação improcedente em relação à ABET e julgou parcialmente procedente em relação à TELEFÔNICA e AMIL, nos seguintes termos (e-STJ, fls. 1843/1844):
+Diante do exposto, julgo IMPROCEDENTE a ação em relação à ré ABET, nos termos do artigo 487, I, do CPC, revogando a liminar contra ela concedida e julgo PARCIALMENTE PROCEDENTE a ação em relação às demais requeridas para condenar as rés TELEFÔNICA e AMIL a oferecerem plano de saúde aos autores, nas mesmas condições vigentes durante o vínculo empregatício e de acordo com o contrato celebrado com a anterior operadora de saúde. A mensalidade do plano que deve ser a somatória da cota parte suportada pelo empregado e pela ex empregadora, quando da extinção do vínculo empregatício, com os aumentos autorizados pela ANS. Eventual diferença de valores devidos em favor da AMIL deve ser suportada pela ex empregadora. Cada autor deve ser mantido jntamento com seus dependentes em um único plano, com cobrança de valor único. Condeno as AMIL e TELEFÔNICA a restituírem aos autores eventual valor pago a maior, tudo monetariamente corrigido de acordo com a Tabela Prática do tribunal de Justiça a partir de cada desembolso e acrescida de juros moratórios de 1% ao mês a partir da citação. Declaro nulas as disposições contratuais que aforntarem a presente decisão.
+Torno definitiva a liminar outrora concedida em relação à ré TELEFÔNICA e AMIL.
+Oportunamente, apresente a ré TELEFÔNICA documentos que comprovem o valor de sua cota parte, a fim de verificar o valor do prêmio.
+Considerando as rés TELEFÔNICA e AMIL e os autores, tendo as partes decaído reciprocamente de suas pretensões, cada qual arcará com as custas eventualmente desembolsadas e com os honorários de seu patrono.
+Condeno os autores ao pagamento de custas desembolsadas pela ré ABET além de honorários advocatícios em favor do patrono desta requerida, que arbitro em 10% do valor da causa.
+Acórdão: deu parcial provimento às apelações interpostas pela TELEFÔNICA e pela AMIL e negou provimento à apelação interposta por [NOME] e OUTROS, nos termos da seguinte ementa:
+AÇÃO DE OBRIGAÇÃO DE FAZER PROPOSTA CONTRA EX- EMPREGADORA E OPERADORA DE PLANO DE SAÚDE. PRETENSÃO DE MANUTENÇÃO EM APÓLICE COLETIVA, NAS MESMAS CONDIÇÕES VIGENTES POR OCASIÃO DO VÍNCULO EMPREGATÍCIO. AUTORES QUE DEMONSTRARAM OS REQUISITOS ESTABELECIDOS NO ART. 31 DA LEI Nº 9656/98. DIREITO DE SEREM MANTIDOS NO CONTRATO DESTINADO AOS FUNCIONÁRIOS DA ATIVA, DESDE QUE ASSUMAM O PAGAMENTO INTEGRAL DA CONTRAPRESTAÇÃO. VALOR DO PRÊMIO QUE DEVE CORRESPONDER AO QUE ERA DESCONTADO DOS AUTORES, COM ACRÉSCIMO DA PARTE QUE ERA SUBSIDIADA PELA TELEFÔNICA. INCIDÊNCIA DE REAJUSTES APLICÁVEIS AOS CONTRATOS COLETIVOS. SENTENÇA PARCIALMENTE REFORMADA. RECURSO DA RÉ PROVIDO EM PARTE, DESPROVIDO O DOS AUTORES.
+Embargos de declaração: opostos por [NOME] e OUTROS, foram acolhidos apenas para sanar erro material.
+Embargos de declaração: opostos pela TELEFÔNICA, pela AMIL e por [NOME] e OUTROS, foram rejeitados.
+Consignou que foi determinada a manutenção de ANTÔNIO [NOME] DE [NOME] e OUTROS no plano de saúde contratado com a AMIL, desde que efetuasse o pagamento integral do valor das mensalidades. Além disso, o acórdão teria sido claro quanto à possibilidade da incidência de reajustes e a improcedência do pleito em relação operadora de plano de saúde anteriormente contratada pela empregadora e sucedida pela Amil.
+Recurso especial de [NOME] e OUTROS: alega violação dos arts. 1º e 31, da Lei 9.656/98, bem como dissídio jurisprudencial.
+Sustenta que a ABET deveria ser responsabilizada pelos valores indevidamente cobrados a maior.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os arts. 1º e 31, da Lei 9.656/98. Ademais, os dispositivos apontados como violados não sustentam a tese defendida, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 1º da Lei 9.656/98, indicado como violado, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à responsabilidade pela restituição dos valores pagos a mais (e-STJ, fls. 2443 e 2508/2509), exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
