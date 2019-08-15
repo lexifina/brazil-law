@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PREPARO. AUSÊNCIA DE COMPROVANTE DE PAGAMENTO. INTIMAÇÃO PARA REGULARIZAÇÃO. COMPLEMENTAÇÃO NÃO EFETUADA. DESERÇÃO CARACTERIZADA. SÚMULA 187/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH , com fundamento no art. 105, inciso III, alínea "a", da Constituição da República, contra acórdão prolatado pelo Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ fl. 840):
+CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS PRIVATIVOS DE PROFISSIONAIS DE SAÚDE. POSSIBILIDADE. NULIDADE DA CLÁUSULA EDITALÍCIA FUNDAMENTADA NO PARECER AGU GQ-145/98. OCORRÊNCIA.
+1. Trata-se de apelação da sentença proferida pelo MM. Juiz Federal da 4a Vara da Seção Judiciária do Rio Grande do Norte que julgou improcedente o pedido inicial que pretendia a imediata contratação da autora no cargo de Técnico de Enfermagem para exercício de suas atividades na Maternidade Escola Januário Cicco - MEJC, sem prejuízo do atual vínculo empregatício de Técnica de Enfermagem do Hospital Universitário Onofre Lopes - HUOL.
+2. Alega a apelante, em síntese, que apesar de ter sido convocada pela EBSERH-MEJC, para assumir o cargo de técnica de enfermagem, apresentado toda a documentação exigida à MEJC, realizado os exames médicos admissionais, foi impedida de assinar o contrato de trabalho sob o fundamento de impossibilidade de acumulação com outro cargo público, tendo cm vista que as jornadas de trabalho somadas ultrapassariam sessenta horas semanais.
+3. O Supremo Tribunal Federal já se manifestou sobre o tema, no RE 351.905/RJ, da relatoria da Ministra Ellen Gracie, onde teve a oportunidade de deixar consignado que o Executivo não pode, sob o pretexto de regulamentar dispositivo constitucional, criar regra não prevista, fixando verdadeira norma autônoma.
+4. Esta egrégia Corte já se pronunciou no sentido de que o Parecer GQ n" 145 da AGU - que estabelece somente ser compatível a jornada de trabalho quando o exercício dos cargos ou empregos não ultrapassar a carga horária de sessenta horas semanais - não possui caráter normativo nem tampouco pode se sobrepor ao comando constitucional.
+4. No caso em foco, deve ser desconsiderado o referido Parecer AGU GQ 145, para que a Administração prossiga com o regular processo de contratação da apelante, sem prejuízo da verificação dos demais requisitos de admissão por parte da ré.
+5.Apelação provida.
+Nas razões do recurso especial, a parte recorrente sustenta, além do dissídio jurisprudencial, violação dos arts. 66, 67, 71 da Consolidação das Leis do Trabalho, alegando a impossibilidade de acumulação de dois cargos públicos no cargo de técnico de enfermagem, tendo em vista a limitação à jornada de 60 horas semanais, prevista nos editais dos certames públicos, com fulcro no Parecer n. GQ-145/98.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A insurgência não merece acolhida.
+Isso porque, mediante análise dos autos, verifica-se que foi exarada decisão da presidência desta Corte Superior intimando a recorrente a fim de regularizar a comprovação de pagamento das custas, conforme §4º, art. 1007, do CPC/2015, determinando o recolhimento em dobro do preparo, no prazo de cinco dias, sob pena de não conhecimento do recurso, conforme folha 1112 e-STJ.
+Foram opostos embargos de declaração (fls. 1115-1167 e-STJ), os quais foram rejeitados (fls. 1187-1188 e-STJ).
+Certidão de decurso do prazo em folha 1192 e-STJ.
+Verifica-se que, mesmo tendo sido regularmente intimada para efetuar a devida comprovação de forma válida, a parte não se manifestou, não regularizando o preparo de forma adequada, em descumprimento ao §4º do artigo 1.007 do CPC/2015.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, de modo que incide na espécie o disposto na Súmula n.º 187 deste Tribunal, o que leva à deserção do recurso.
+Com efeito, a jurisprudência do STJ é firme no sentido de que, se após a abertura de prazo para regularização do preparo não for realizada a complementação devida, considera-se deserto o recurso, nos termos da Súmula 187/STJ (AgRg no AREsp nº 207.837/SC, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 7/4/2015). Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO INSUFICIENTE. COMPLEMENTAÇÃO INTEMPESTIVA. DESERÇÃO. DECISÃO MANTIDA.
+1. No ato de interposição do recurso, deverá ser comprovado o preparo, sob pena de deserção. Na insuficiência do valor, o recorrente será intimado para supri-lo em cinco dias.
+2. Após a intimação para complementar o preparo, o decurso do prazo e a inércia do recorrente justificam a aplicação da penalidade (art. 1.007, § 2º, do CPC/2015).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1125510/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/12/2017, DJe 18/12/2017)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - PREPARO RECURSAL RECOLHIDO A MENOR - INTIMAÇÃO REALIZADA POR SERVIDOR - COMPLEMENTAÇÃO NÃO EFETUADA - DESERÇÃO CARACTERIZADA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DOS REQUERENTES.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, nos termos do art. 511 do Código de Processo Civil/1973, a comprovação do preparo deve ser feita antes da protocolização do recurso, ou concomitantemente a ela, sob pena de caracterizar-se a sua deserção, mesmo que ainda não escoado o prazo recursal, e ainda, que o pagamento parcial das custas processuais não enseja, de imediato, a pena de deserção, devendo ser oportunizada ao recorrente a possibilidade de complementar, conforme estabelece o art. 511, § 2º, do CPC/73.
+2. Desatendida a intimação para complementação do preparo recolhido insuficientemente, incide o óbice da Súmula 187 desta Corte. Precedentes.
+3. Não há falar em nulidade da delegação aos serventuários de justiça da prática de atos ordinatórios ou de mero expediente, no caso em tela, a intimação das partes para complementação do preparo recursal.
+4. Agravo regimental desprovido. (AgRg no AREsp 480.543/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/9/2016, DJe 14/9/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
