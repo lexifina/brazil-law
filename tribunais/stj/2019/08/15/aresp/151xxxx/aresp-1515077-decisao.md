@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo nos próprios autos de [NOME], objetivando a reforma da decisão de inadmissão do recurso interposto perante o Tribunal de Justiça do Estado do Paraná, em face de acórdão assim ementado (e-STJ fls. 311/312):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS CUMULADA COM PEDIDO DE OBRIGAÇÃO DE FAZER. INSERÇÃO INDEVIDA DE GRAVAME EM VEÍCULO DE PROPRIEDADE DO AUTOR. PARCIAL PROCEDÊNCIA DOS PEDIDOS INICIAIS. INDENIZAÇÃO POR DANOS MORAIS. NÃO CABIMENTO. AUSÊNCIA DE ABALO PSÍQUICO. MERO ABORRECIMENTO DECORRENTE DA VIDA COTIDIANA. INEXISTÊNCIA DO DEVER DE INDENIZAR. ADEMAIS, AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA ALEGAÇÃO DE TENTATIVA FRUSTRADA DE VENDA DO BEM QUE INDUZ SOMENTE À PRESUNÇÃO RELATIVA DOS FATOS NARRADOS NA INICIAL.
+- O fato de ter sido inserido equivocadamente gravame no veículo de propriedade do autor não configura abalo à honra e à moral, sobretudo porque a pretensa indenização recaiu na assertiva de que teve frustrada a venda do bem e não houve qualquer indício de prova nesse sentido.
+- Ademais, a ausência de impugnação específica, na contestação, quanto à alegação de tentativa frustrada de venda do bem, não induz à presunção absoluta de veracidade, mas sim relativa, de modo que agiu com acerto o magistrado ao julgar improcedente o pleito indenizatório, considerando que fatos narrados na inicial não encontraram amparo nas provas produzidas nos autos.
+Recurso não provido.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 344/348).
+Sustenta estarem presentes os pressupostos de admissibilidade do recurso especial (e-STJ fls. 399/406).
+Sem contraminuta (e-STJ fl. 416), os autos foram encaminhados a esta Corte.
+No recurso especial, fundado no artigo 105, III, "a", da Constituição Federal, a parte recorrente aponta violação aos artigos 341, 373 e 374, IV, do Código de Processo Civil de 2015; 186 e 927 do Código Civil de 2002; e 14 da Lei n. 8.078/1990 (Código de Defesa do Consumidor).
+Alega que não contestados pela parte adversa os fatos alegados pelo insurgente, a presunção de veracidade milita em seu favor, sendo, ademais, ratificada e provada a suscitada impossibilidade de fruição do bem.
+Afirma que " ..  demonstrou de forma evidente e comprovada o fato constitutivo de seu direito impossibilidade de fruição do veículo, em razão de ilícita restrição realizada pela ora Recorrida  .. " (e-STJ fl. 363).
+Argumenta que " ..  sofreu constrição patrimonial indevida, impossibilitando-lhe a plena fruição e disposição do bem móvel  .. ", sendo que o " ..  ato ilícito perpetrado impõe o dever de reparação, inclusive pelos danos morais experimentados pelo ora Recorrente  .. " (e-STJ fl. 365).
+Aduz, ainda, que, ante à má prestação do serviço, enseja o dever de reparar os danos ocasionados, não podendo ser interpretada como normal ou mero dissabor.
+Sem contrarrazões (e-STJ fl. 386).
+Assim delimitada a controvérsia, passo a decidir.
+Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016 - Enunciado Administrativo n. 3 -, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão ao agravante.
+De início, no que diz respeito à responsabilidade da parte ora agravada, o Código de Defesa do Consumidor, em seu artigo 14, referindo-se ao fornecedor de serviços em sentido amplo, estatui a responsabilidade objetiva deste na hipótese de defeito na prestação do serviço, atribuindo-lhe o dever reparatório desde que demonstrado o nexo causal entre o defeito do serviço e o acidente de consumo (fato do serviço), do qual somente é passível de isenção quando houver culpa exclusiva do consumidor ou uma das causas excludentes de responsabilidade genéricas - força maior ou caso fortuito externo.
+Ao dever de indenizar impõe-se a presença dos requisitos exigidos para a responsabilização civil, nos termos em que estatuídos nos artigos 186, 187 e 927 do Código Civil de 2002.
+Nesse contexto, quanto às questões aventadas pela parte ora recorrente, o Juízo de primeiro grau, assim decidiu (e-STJ fl. 261):
+ ..
+ da análise do feito, restou incontroverso que não haviam gravames no cadastro do veículo junto ao DETRAN/PR quando o autor ao adquiriu o veículo de WALDEMAR BERTOLIN, considerando que conseguiu efetivar a transferência da titularidade do bem para seu nome.
+Da análise do Certificado de Registro e Licenciamento do veículo (CRV) juntado na seq. 1.7 é possível observar que figura como proprietário do veículo o ora autor, [NOME], não indicando no aludido documento qualquer restrição referente a eventual alienação fiduciária.
+O que se denota é que no cadastro do veículo junto ao Detran/PR não há qualquer gravame ou bloqueio sobre o veículo, conforme se verifica no documento de seq. 1.5 e 78.1 - fls. 02/04, que pudesse gerar eventual recusa deste órgão a realizar para realizara eventual transferência de titularidade do veículo.
+Entretanto, em que pese inexistir anotações no documento do veículo, a consulta ao Sistema Nacional de Gravames (segs. 1.4 e 126.1) revela a existência de uma restrição por alienação fiduciária, referente ao contrato sob nº [CPF], de 01/04/1997, inserida em 29/11/2002 pela financeira ré, ou seja, em data posterior a aquisição do veículo pelo autor, que ocorreu em 22/05/1999.
+O panorama descrito nos autos e documentos apontam para a boa-fé do autor quanto à aquisição do automóvel e se regular registro, sendo nesse caso aplicável a Súmula n. 92 do C. STJ que dispõe: "A terceiro de boa-fé não é oponível a alienação fiduciária não anotada no Certificado de Registro do veículo automotor".
+Conclui-se, assim, que houve a transferência regular da propriedade do veículo do autor, com a anotação no Certificado de Registro de Veículo ("sem reservas"), presumindo-se que até o momento da transferência não existiam quaisquer encargos, sendo, portanto, indevida a restrição financeira anotada pelo banco sobre o veículo, posteriormente à aquisição e registro pelo autor.
+ ..
+No tocante ao pedido de danos morais, alega o autor que tentou realizar a venda do veículo a terceiro, ficando impossibilitado de fazer aludida transação em face da existência do gravame de alienação fiduciária no cadastro do automóvel.
+O autor não se desincumbiu que comprovar os fatos constitutivos de seu direito, na forma prevista no artigo 373, I, do CPC/2015, considerando que não trouxe ao feito qualquer declaração ou documento comprobatório demonstrando a tentativa de venda e a negativa de sua perfectibilização.
+Ademais, da análise dos documentos juntados na inicial, verifica-se que todas as buscas administrativas realizadas pelo autor quanto ao aludido gravame ocorreram nos anos de 2009, 2010, 2011, ou seja, há mais de dois anos e meio do ajuizamento da ação, não demonstrando que o autor durante esse período ou anteriormente tivesse qualquer pretensão de venda do bem ou tivesse sofrido prejuízo/dano nesse sentido.
+ ..
+Corroborando do mesmo entendimento, o Tribunal de origem, com base nos fatos e provas dos autos, apurou a inexistência de responsabilidade por parte do ora agravado e concluiu pelo não cabimento do dano moral, assim se pronunciando (e-STJ fls. 314/316):
+ ..
+É cediço que o dano moral é compreendido pela violação dos direitos da personalidade, como a honra, a dignidade, a intimidade, a imagem, o bom nome, sendo a dor, a angústia, o desgosto e a humilhação, consequências advindas do dano sofrido.
+Com efeito, a sua ocorrência será analisada de acordo com as circunstâncias de cada caso concreto, sendo imperioso ressaltar que, diferentemente do que defende o autor, o presente caso não diz respeito àquelas hipóteses em que o dano moral é presumido ("in re ipsa"), de modo que há efetiva necessidade de demonstração, do que não se desincumbiu o requerente, nos termos do artigo 373, inciso I do CPC/15.
+Veja-se que a alegação de existência de dano moral foi amparada na assertiva de que "inocentemente quis efetuar a venda de seu bem, que mais uma vez frisamos, comprou, pagou e que nada devia sobre o mesmo e, foi duramente atingido pela surpresa de não poder fazê-lo, pela malícia do Requerido que a seu bel prazer resolveu imperativamente fazer um gravame sobre o veículo do Requerente e sem que este tivesse qualquer conhecimento ou outorgado autorização".
+Contudo, o mero discurso, por si só, não se presta a demonstrar que o autor sofreu abalo psíquico, sem olvidar que não trouxe qualquer indício mínimo de prova acerca da tentativa de venda e da impossibilidade de sua concretização.
+De uma detida análise dos autos, cumpre observar que, como bem pontuado pelo magistrado, "todas as buscas administrativas realizadas pelo autor quanto ao aludido gravame ocorreram nos anos de 2009, 2010 e 2011, ou seja, há mais de dois anos e meio do ajuizamento da ação, não demonstrando que o autor durante esse período ou anteriormente tivesse qualquer pretensão de venda do bem ou tivesse sofrido prejuízo/dano nesse sentido".
+Ademais, não há qualquer prova de que a notificação costada junto ao mov. 1.11 tenha sido efetivamente enviada à instituição financeira, eis que desacompanhada de Aviso de Recebimento.
+Evidente que o fato de ter sido inserido equivocadamente gravame no veículo de sua propriedade lhe gerou incômodo e desconforto, mas não ultrapassou a normalidade, tratando-se de mero aborrecimento decorrente da vida cotidiana.
+Assim, tem-se que a situação ora vislumbrada não importou em prejuízo ao patrimônio subjetivo do autor, restando ausente lesão apta a causar danos de ordem moral.
+ ..
+Conclui-se, portanto, que, considerando as peculiaridades subjetivas do caso concreto, inexiste dano moral passível de indenização, sendo de rigor a manutenção da sentença nesse ponto.
+Por fim, imperioso ressaltar que embora a instituição financeira não tenha impugnado especificadamente a alegação de tentativa frustrada de venda do veículo, tal fato não conduz, automaticamente, ao acolhimento da pretensão deduzida pelo autor.
+Isso porque, a presunção de veracidade, prevista no artigo 302 do CPC/73 (correspondente ao artigo 341 do CPC/15), é relativa, de modo que, considerando que os fatos narrados não encontraram amparo nas provas produzidas no caderno processual, agiu com acerto o magistrado ao julgar improcedente o pleito indenizatório.
+ ..
+Portanto, rever tais fundamentos do acórdão recorrido demandaria a alteração das premissas fático-probatórias dos autos, mediante o reexame de provas, procedimento vedado em recurso especial ante o teor da Súmula n. 7 do Superior Tribunal de Justiça. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DESCUMPRIMENTO DE ACORDO ENTABULADO ENVOLVENDO OS LITIGANTES. DEMORA NA BAIXA DE GRAVAME SOBRE VEÍCULO. DANO MORAL. NÃO CONFIGURADO.
+ ..
+2. Julgados no âmbito do STJ no sentido de que o atraso da baixa de gravame de alienação fiduciária, por si só, não caracteriza dano moral, sendo necessária a demonstração de circunstâncias que agravem a situação da parte.
+3. A revisão da conclusão da Corte estadual demandaria o revolvimento do acervo fático-probatório dos autos, providência inviável, ante o óbice disposto no Enunciado n.º 7/STJ.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 1.682.650/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 13/5/2019, DJe 17/5/2019).
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ALIENAÇÃO FIDUCIÁRIA. BAIXA DE GRAVAME. VEÍCULO AUTOMOTOR. DEMORA. DANO MORAL. CERCEAMENTO DE DEFESA. NÃO CARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+ ..
+2. O simples atraso em baixar gravame de alienação fiduciária em registro de veículo automotor não é apto a gerar, in re ipsa, dano moral, sendo indispensável demonstrar a presença de efetivas consequências que ultrapassem os aborrecimentos normais vinculados a descumprimento obrigacional. Precedentes.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.320.858/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/5/2019, DJe 20/5/2019).
+Em face do exposto, nego provimento ao agravo e, ainda, deixo de majorar os honorários nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, em razão da ausência de condenação na origem, dado o reconhecimento da sucumbência recíproca.
+Intimem-se.
