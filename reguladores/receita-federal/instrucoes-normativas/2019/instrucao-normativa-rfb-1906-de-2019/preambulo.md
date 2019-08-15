@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1906, de 14 de agosto de 2019
+Altera a Instrução Normativa RFB nº 1.787, de 7 de fevereiro de 2018, que dispõe sobre a declaração de Débitos e Créditos Tributários Federais Previdenciários e de Outras entidades e Fundos (DCTFWeb).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no inciso IV e nos §§ 2º e 9º do art. 32 da Lei nº 8.212, de 24 de julho de 1991, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
