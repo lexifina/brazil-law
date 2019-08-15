@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por CÍCERO REZENDE NOGUEIRA E OUTROS, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 992 e-STJ):
+Previdência Privada. Pedido de restituição das perdas auferidas nos anos em que os funcionários da ativa não obtiveram aumento de seus salários, ou quando inferiores ao reajuste do INSS. Descabimento. Autores que não aderiram ao "Plano Pré-75" e exatamente por isso não tinham direito aos reajustes de acordo com os índices de inflação. Ação improcedente. Recurso desprovido.
+Em suas razões de recurso especial (fls. 1.017-1.056 e-STJ), os recorrentes apontam violação aos arts. 42, § 1º, da Lei nº 6.435/77; 21, § 1º, do Decreto nº 81.240/78; 21, § 2º, Lei Complementar nº 109/01; além de dissídio jurisprudencial, sob os seguintes argumentos, em síntese: a) das ilegais perdas suportadas pelos apelantes; e b) cabimento dos reajustes afim de garantir o aumento real dos benefícios.
+Não foram apresentadas contrarrazões, conforme certidão à fl. 1.122 e-STJ.
+É o relatório.
+Decide-se.
+A irresignação não merece prosperar.
+1. De início, no respeita à apontada violação aos arts. 42, § 1º, da Lei nº 6.435/77; 21, § 1º, do Decreto nº 81.240/78; e 21, § 2º, Lei Complementar nº 109/01, incide, na espécie, o Enunciado n. 282, da Súmula do STF, ante a ausência de prequestionamento, porquanto não tiveram o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal
+2. De outro modo, acerca da correção do valores do benefício da previdência privada, o tribunal de origem assim se manifestou (fls. 993-994 e-STJ):
+Os Autores ingressaram no quadro de funcionários do Banco Banespa S/A antes do ano de 1975, e por isso, tinham direito de receber a complementação de suas aposentadorias de acordo com o Regulamento.
+Mais tarde, veio a ser criado o "Plano Pré-75" que tinha por finalidade desvincular os benefícios da política salarial do Banco, por meio da renúncia aos benefícios e vantagens assegurados no Regulamento, fixando-se o IGP-DI como índice de reajuste da previdência complementar. O plano era facultativo.
+Tudo indica que os Autores não aderiram ao "Plano Pré-75", e continuaram a ter os mesmos direitos quanto aos reajustes na mesma proporção dos funcionários da ativa.
+É de se reconhecer, aqui, que os Autores continuaram atrelados aos reajustes da política salarial do Banco, equivalentes à diferença entre o valor pago pelo INSS e a remuneração inerente aos seus cargos.
+Note-se que o direito de receber forma diversa de reajuste só era possível àqueles que optaram pela migração ao "Plano Pré-75", o que não é o caso.
+Vê-se, portanto, que a controvérsia foi decidida à luz das peculiaridades da demanda. Eventual reforma do acórdão recorrido, sobretudo na parte aos reajustes dos beneficios, demandaria o reexame do contexto fático dos autos, juízo obstado pelas Súmulas 5 e 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REAJUSTE DE BENEFÍCIO. FALTA DE PREQUESTIONAMENTO E INVIABILIDADE DE ANÁLISE DE INSTRUMENTOS CONTRATUAIS E CONTEXTO FÁTICO-PROBATÓRIO. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO NÃO PROVIDO. 1. Os temas insertos nos arts. 42 da Lei 6.435/77 e 21 do Decreto 81.240/78, tidos por contrariados, não foram objeto de debate no acórdão recorrido, tampouco foram opostos embargos de declaração a fim de suprir eventual omissão. É entendimento assente neste Superior Tribunal de Justiça a exigência do prequestionamento dos dispositivos tidos por violados, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. Alterar a conclusão da Corte de origem, no presente caso, acerca dos reajustes a serem aplicados à complementação de aposentadoria dos agravantes demandaria nova análise de instrumento contratuais e de provas, o que encontra óbice nesta via especial, a teor das súmulas 5 e 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1693829/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/02/2018, DJe 16/02/2018)  grifou-se
+2.1. Por fim, destaca-se que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido, confiram-se os seguintes precedentes: AgRg no AREsp 786.906/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/04/2016, DJe 16/05/2016; AgRg no AREsp 662.068/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/05/2015, DJe 22/06/2015.
+3. Do exposto, com fulcro no artigo 932 do CPC/2015 e na Súmula 568/STJ, nega-se provimento ao recurso especial.
+Publique-se.
+Intimem-se.
