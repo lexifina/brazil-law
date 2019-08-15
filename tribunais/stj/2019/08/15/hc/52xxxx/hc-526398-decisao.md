@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos o paciente foi condenado, como incurso nas sanções dos arts. 129, § 9º, e 147, caput, por duas vezes, à pena de 4 meses e 15 dias de detenção, a ser cumprida no regime inicial aberto.
+Da sentença condenatória, a defesa apelou e requereu, nos termos do art. 600, § 4º, do Código de Processo Penal, que as razões de apelação fossem apresentadas em segunda instância, pedido que foi indeferido pelo Juízo de primeiro grau.
+Impetrado habeas corpus perante o Tribunal de origem visando à anulação dessa decisão, o colegiado não conheceu do writ sob o fundamento de que a impetração não aponta ofensa à liberdade de locomoção (e-STJ fls. 318, 330/332).
+No presente habeas corpus, o impetrante alega que "a ação de habeas corpus serve para tutelar o devido processo legal, como ocorre no presente caso. Afinal, o juízo sentenciante afastou a aplicação de norma legal plenamente vigente. Com isso, retirou do paciente a possibilidade de conhecer previamente o órgão julgador da sua apelação" (e-STJ fl. 5).
+Sustenta, outrossim, que "a decisão proferida pelo Juízo da 1ª Vara Criminal de Guarujá foi flagrantemente ilegal e teratológica, o que autoriza a impetração do presente remédio heroico. Consoante se extrai da decisão que recebeu o recurso de apelação interposto em face da sentença condenatória, são, de plano, perceptíveis flagrantes ilegalidades a ensejar a anulação do processo desde àquela fase processual em razão da nítida violação ao devido processo legal.  ..  o Juízo afastou a incidência de dispositivo legal vigente sem declarar a inconstitucionalidade incidental. Todavia, a norma processual, incluída pela Lei 4.336/1964 e recepcionada pela Constituição Federal de 1988, é válida e encontra-se em plena vigência" (e-STJ fls. 6/7).
+Assevera que "não há  ..  qualquer justificativa jurídica para que o texto do artigo 600 § 4º do Código de Processo Penal não seja aplicado à Defensoria Pública atuante na 1ª Vara Criminal do Guarujá, nos processos em que oficia" (e-STJ fl. 8).
+Requer "a concessão da medida limiar para suspender o andamento do processo até o julgamento do mérito do presente habeas corpus" (e-STJ fls. 15).
+No mérito, "requer a anulação da decisão do Juízo de 1ª instância que negou ao paciente o direito de apresentação de suas razões recursais em 2ª instância, uma vez que plenamente válido e vigente o art. 600, §4º, do Código de Processo Penal. Subsidiariamente, requer que seja anulada a decisão que indeferiu o habeas corpus, a fim de que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito da impetração" (e-STJ fl. 16).
+É, em síntese, o relatório.
+Decido.
+Constato a existência de flagrante ilegalidade, a ensejar a concessão da ordem liminarmente.
+Dispõe o § 4º do art. 600 do Código de Processo Penal que, "se o apelante declarar, na petição ou no termo, ao interpor a apelação, que deseja arrazoar na superior instância, serão os autos remetidos ao tribunal ad quem onde será aberta vista às partes, observados os prazos legais, notificadas as partes pela publicação oficial".
+Trata-se, como cediço, de faculdade conferida pelo dispositivo legal em questão, que autoriza a apresentação das razões diretamente na instância ad quem.
+Assegurada tal faculdade pela legislação processual penal, portanto, revela-se flagrantemente ilegal, a meu ver, a negativa de tal direito à defesa, por ofensa ao postulado do devido processo legal.
+Nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. APELAÇÃO. APRESENTAÇÃO DE RAZÕES EM SEGUNDO GRAU. PREVISÃO LEGAL. ART. 600, § 4º, DO CPP. INOBSERVÂNCIA. CERCEAMENTO DE DEFESA. OCORRÊNCIA. CONSTRANGIMENTO ILEGAL CONFIGURADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância. No caso, observa-se flagrante ilegalidade a permitir a superação do referido óbice sumular.
+2. O § 4º do art. 600 do Código de Processo Penal prevê, expressamente, o direito do apelante apresentar as razões de apelação perante o Tribunal ad quem, caso requerido pela parte.
+3. Havendo previsão legal assegurando à defesa a hipótese excepcional de apresentar as razões do apelo na instância superior, a sua inobservância implica cerceamento à ampla defesa e ao contraditório, não colidindo, a priori, com a duração razoável do processo (CF, art. 5º, LXXXVIII), o que deverá ser equacionado no caso concreto.
+4. Writ não conhecido. Ordem concedida de ofício.
+(HC 468.520/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/05/2019, DJe 27/05/2019)
+Desse modo, concedo liminarmente a ordem de habeas corpus a fim de assegurar à defesa do paciente o direito de apresentar as razões de apelação diretamente no Tribunal, a teor do art. 600, § 4º, do CPP.
+Publique-se. Intimem-se.
