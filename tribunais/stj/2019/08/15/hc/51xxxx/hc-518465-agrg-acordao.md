@@ -1,0 +1,46 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. JUSTIFICAÇÃO ADEQUADA. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. As instâncias ordinárias apenas determinaram a renovação do exame criminológico anteriormente determinado, haja vista o considerável lapso temporal em relação ao primeiro. Destaque-se que o paciente, além de ter cometido crimes gravíssimos com violência à pessoa, foi reprovado no primeiro exame criminológico, o que torna imperativa a nova avaliação para que seja aferido o requisito subjetivo e a capacidade do paciente de gozar do menor rigor do regime semiaberto.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por [NOME] de decisão que não conheceu do habeas corpus (e-STJ, fls. 119-121).
+Alega o agravante que "os julgadores fundamentaram sua decisão na gravidade dos crimes perpetrados, na longa pena a cumprir e na necessidade de realização de exame criminológico" (e-STJ, fl. 127).
+Requer, assim, a reconsideração da decisão para cassar o acórdão e progredir o paciente ao regime semiaberto.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. JUSTIFICAÇÃO ADEQUADA. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. As instâncias ordinárias apenas determinaram a renovação do exame criminológico anteriormente determinado, haja vista o considerável lapso temporal em relação ao primeiro. Destaque-se que o paciente, além de ter cometido crimes gravíssimos com violência à pessoa, foi reprovado no primeiro exame criminológico, o que torna imperativa a nova avaliação para que seja aferido o requisito subjetivo e a capacidade do paciente de gozar do menor rigor do regime semiaberto.
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+O agravo não merece prosperar.
+A decisão recorrida, transcrita a seguir, deve ser mantida pelos seus próprios fundamentos, porque ela está em consonância com a jurisprudência desta Corte.
+"Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo de primeiro grau indeferiu ao paciente pedido de progressão ao regime semiaberto.
+O impetrante interpôs agravo em execução perante o Tribunal de origem, que lhe negou provimento, nos termos da seguinte ementa:
+"Agravo em execução penal - Progressão ao regime semiaberto - Ausência de elementos suficientes para análise correta do pedido - Acusado condenado por latrocínio, furto, roubos qualificados, estelionato, com término de cumprimento de pena previsto para 2035 - Exame criminológico realizado há mais de 01 ano - Necessidade de submissão do sentenciado a novo exame criminológico - Recurso desprovido, com determinação" (e-STJ. fl. 112)
+Neste writ, a impetrante alega, em síntese, que "os julgadores fundamentaram sua decisão na gravidade dos crimes perpetrados, na longa pena a cumprir e na necessidade de realização de exame criminológico. Estes argumentos, por si sós, fogem ao campo da subjetividade. Não é necessário aprofundado exame das provas para se constatar o constrangimento" (e-STJ, fl. 5).
+Requer a concessão da ordem para determinar o regime semiaberto ao paciente.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Desse modo, passo ao exame das alegações trazidas pela defesa a fim de verificar eventual constrangimento ilegal que autorize a concessão da ordem, de ofício.
+Inicialmente, cumpre destacar que não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia constitucional de motivação das decisões judiciais, expressa no art. 93, IX, da CF, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal: "A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor."
+Referido entendimento é objeto da Súmula n. 439/STJ ("admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada").
+Confira-se, ainda, sobre o tema:
+" ..
+- A longevidade da pena bem como a gravidade do delito não podem, isoladamente, ser óbices para a concessão do benefício de progressão de regime ou fundamentos para a determinação de exame criminológico, devendo a decisão estar fundamentada com base em dados concretos dos autos da execução. Na hipótese dos autos, a determinação de realização do exame criminológico não apresenta fundamentação idônea. O Tribunal a quo fundamentou a necessidade do exame somente na gravidade abstrata dos crimes praticados pelo paciente, bem como na longevidade da pena a cumprir, não apresentando elementos concretos que evidenciem a real necessidade do exame. Precedentes.
+- Habeas corpus não conhecido. Ordem concedida de ofício para restabelecer a decisão do Juízo das Execuções, que concedeu ao paciente a progressão ao regime semiaberto".
+(HC 332.797/SP, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 03/11/2015, DJe 19/11/2015).
+O Tribunal a quo cassou a decisão impugnada com base nos seguintes fundamentos:
+"Consta dos autos que o reeducando cumpre pena de 22 anos, 03 meses e 17 dias de reclusão, pela prática dos crimes de latrocínio, furto qualificado, ocultação de cadáver, roubos majorados, falsa identidade e estelionato, com término da pena previsto para 19/08/2035 (fls. 36/40).
+O requisito objetivo exigido para a progressão de regime, de fato, está implementado. Todavia, vê-se pelas informações trazidas aos autos que o agravante cumpre pena pela prática de crimes graves, praticado com o emprego de violência ou grave ameaça contra a pessoa, circunstâncias que não podem ser ignoradas na análise do pedido de progressão, considerando que o regime semiaberto traz menor vigilância do Estado sobre o detento e, ainda, permite-lhe as saídas temporárias
+Outrossim, verifica-se que o sentenciado foi submetido a exame criminológico há mais de um ano, com parecer desfavorável á progressão (fls. 67/72). Dessa forma, antes de conceder o benefício pleiteado, torna-se imprescindível a realização de novo exame criminológico para que se proceda á necessária e minuciosa avaliação acerca da aptidão do reeducando para retornar ao convívio social, bem como a possibilidade de reincidência" (e-STJ, fls. 112-113)
+Com efeito, verifica-se que as instâncias ordinárias apenas determinaram a renovação do exame criminológico anteriormente determinado, haja vista o relevante lapso temporal em relação ao primeiro. Destaque-se que o paciente, além de ter cometido crimes gravíssimos com violência à pessoa, foi reprovado no primeiro exame criminológico, o que torna imperativa a nova avaliação para que seja aferido o requisito subjetivo e a capacidade do paciente de gozar do menor rigor do regime semiaberto" (e-STJ, fls. 119-121).
+Como se verifica, as instâncias ordinárias apenas determinaram a renovação do exame criminológico anteriormente determinado, haja vista o considerável lapso temporal em relação ao primeiro. Destaque-se que o paciente, além de ter cometido crimes gravíssimos com violência à pessoa, foi reprovado no primeiro exame criminológico, o que torna imperativa a nova avaliação para que seja aferido o requisito subjetivo e a capacidade do paciente de gozar do menor rigor do regime semiaberto.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
