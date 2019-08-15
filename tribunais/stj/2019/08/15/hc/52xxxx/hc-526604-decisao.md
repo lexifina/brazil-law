@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais no Habeas Corpus n. 1.0000.19.095607-8/000.
+Depreende-se dos autos que a paciente "foi presa preventivamente em virtude do cumprimento de Mandado de Prisão expedido no contexto de processo criminal", por suposta prática dos crimes de tráfico de entorpecentes e de associação criminosa (e-STJ fl. 16).
+Inconformada, a defesa impetrou writ com pedido liminar na Corte estadual postulando a revogação da segregação cautelar da paciente.
+O pleito liminar foi, contudo, indeferido pelo Tribunal a quo, in verbis (e-STJ fls. 16/18):
+Ao exame dos autos, mormente das informações constantes na petição inicial, depreende-se, apenas, que a Paciente foi presa preventivamente em virtude do cumprimento de Mandado de Prisão expedido nos autos da ação penal nº 0699.19.005104-4, aos quais sua Defesa alega não ter acesso.
+Constata-se, no entanto, que a Impetração não cuidou de instruir o presente writ com quaisquer documentos que tornassem possível verificar, ainda que indiciariamente, os motivos pelos quais foi decretada a custódia cautelar objurgada. Não foi apresentada, sequer, certidão expedida pelo Juízo de Origem, atestando a alegada negativa de acesso da Defesa aos autos da ação penal no contexto da qual foi decretada a prisão preventiva da Paciente.
+Nesse contexto, em que pesem os argumentos expendidos pelo Impetrante, verifica-se que não estão presentes os pressupostos autorizadores da medida liminar requerida, sendo certo que a concessão de tutela urgente, ainda em sede de cognição sumária e singular, exige a demonstração concomitante do fumus boni iuris e do periculum in mora e, no caso concreto, não se evidencia, estreme de dúvidas, a plausibilidade do direito vindicado.
+Desta forma, mais prudente é aguardar as informações da digna Autoridade apontada Coatora, a fim de que melhor se possa analisar o pleito defensivo.
+Diante do exposto, INDEFIRO a liminar pretendida.
+No Superior Tribunal de Justiça, a defesa aponta constrangimento ilegal decorrente da prisão da paciente, argumentando, inicialmente que, "requerida obtenção de cópias junto ao juízo criminal emanante da ordem (protocolo anexo) para instruir os autos, não nos foram disponibilizados" e que "justamente por isso que não existem demais documentos para instruir o writ" (e-STJ fl. 4). Ademais, afirma que "anexou documentos suficientes para comprovar que a paciente é genitora de um bebê de 1 ano e 10 meses, que ainda amamenta, e necessita de cuidados especiais da mãe devido sua pequena idade, e que, após a prisão de sua genitora, encontra-se aos cuidados de uma vizinha" (e-STJ fl. 4).
+E sustenta, ainda, que, "em que pese o conhecimento da Súmula 691/STF, no presente caso ela deve ser mitigada em vista da flagrante ilegalidade da manutenção da prisão da Paciente, principalmente em razão dos elementos fáticos que serão demonstrados" (e-STJ fl. 4).
+Dessa forma, requer, liminarmente e no mérito, "a imediata substituição da prisão preventiva por domiciliar, tendo em vista o habeas corpus coletivo (HC 14364l/SP) concedido pelo Supremo Tribunal Federal" (e-STJ fl. 8).
+É, em síntese, o relatório.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus impetrado ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do STF), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido. (AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido. (AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar a argumentação da impetração e as provas juntadas ao habeas corpus no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e de incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
