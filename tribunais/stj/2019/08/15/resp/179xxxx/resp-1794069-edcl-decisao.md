@@ -1,0 +1,51 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO NA ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO, NÃO CONFIGURADA. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. EMBARGOS DE DECLARAÇÃO REJEITADOS
+DECISÃO
+Da acurada análise do agravo de instrumento pode-se depreender que o Ministério Público ajuizou ação civil pública contra UNIMED DE PRES PRUDENTE COOPERATIVA DE TRABALHO MEDICO (UNIMED) visando à declaração de nulidade de cláusula contratual que permitia aumentos abusivos nas mensalidades.
+Na fase de cumprimento de sentença, ODETE ALVES DE OLIVEIRA requereu o pagamento do valor cobrado à maior.
+O Juiz de piso homologou o valor apresentado.
+Contra essa decisão, UNIMED interpôs agravo de instrumento sustentando, em apertada síntese, que o prazo prescricional a ser considerado para o ajuizamento da liquidação e/ ou cumprimento de sentença é o de 3 anos estabelecido pelo STJ, em sede de recurso repetitivo e, no caso, o trânsito em julgado ocorreu em 8/11/2011, sendo que o cumprimento de sentença somente foi requerido em 2016, quando já ultrapassado o prazo legal.
+O Tribunal de origem negou provimento ao recurso em acórdão, assim ementado:
+Agravo de Instrumento - Plano de Saúde - Cumprimento individual de sentença, proferida em ação civil pública, intentada pelo Ministério Público, que declarou a nulidade de cláusula que permitia à ré o aumento abusivo das mensalidades e a condenou à repetição do indébito - Prazo prescricional de 03 anos a ser aplicado à espécie - Tese firmada pelo Colendo Superior Tribunal de Justiça em sede de recurso repetitivo - Contagem do prazo que se dá a partir da data em que entrou em vigor o atual Código Civil - Ação civil pública que foi ajuizada no prazo legal - Execuções individuais que se submetem ao prazo qüinqüenal de prescrição - Entendimento consolidado pela Superior Instância nos autos do REsp 1.273.643/PR julgado sob o rito do artigo 543-C do CPC de 1973 - Prescrição afastada - Data do trânsito em julgado que é aquela devidamente certificada nos autos - Decisão mantida - Agravo desprovido (e-STJ, fl. 435).
+Irresignada, a UNIMED interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, sustentando a negativa de vigência dos arts. (1) 206, § 3º, IV, do CC/02 em virtude da incidência da prescrição trienal, para propositura da ação civil pública e da pretensão executória, nos termos do julgamento do recurso representativo da controvérsia, REsp nº 1.360.969, de relatoria do Ministro Marco Buzzi; (2) 1.040, II, do NCPC e da necessidade de incidência da tese firmada no julgamento do REsp nº 1.360.969; e, (3) a existência de dissídio jurisprudencial quanto a data do trânsito em julgado a ser considerada como a data da interposição do recurso especial.
+Foram apresentadas contrarrazões (e-STJ, fls. 630/651).
+O recurso especial não foi provido em decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. PRAZO PRESCRICIONAL PARA AJUIZAMENTO DA AÇÃO E DO CUMPRIMENTO DE SENTENÇA. PRAZO QUINQUENAL. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DESTA CORTE SUPERIOR. DATA DO TRÂNSITO EM JULGADO. DISSÍDIO JURISPRUDENCIAL SEM INDICAÇÃO DO ARTIGO TIDO POR VIOLADO. SÚMULA Nº 284 DO STF, POR ANALOGIA. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 788).
+Nas razões destes aclaratórios, a UNIMED afirmou (1) a omissão quanto à tese levantada por meio de dissídio jurisprudencial no sentido de que o trânsito em julgado deve retroagir à data da interposição do recurso especial. (2) Alegou que a Súmula nº 150 do STF prevê o prazo de interposição da execução no mesmo prazo da ação e que no caso se aplica o prazo trienal.
+Foi apresentada impugnação (e-STJ, fls. 804/807).
+Após despacho de advertência quanto à incidência das normas do NCPC, a UNIMED insistiu no julgamento do recurso.
+É o relatório.
+DECIDO.
+O atual inconformismo não merece prosperar.
+De plano vale pontuar que a disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nestes aclaratórios, a UNIMED afirmou (1) a omissão quanto à tese levantada por meio de dissídio jurisprudencial no sentido de que o trânsito em julgado deve retroagir à data da interposição do recurso especial. (2) Alegou que a Súmula nº 150 do STF prevê o prazo de interposição da execução no mesmo prazo da ação e que no caso se aplica o prazo trienal .
+(1) e (2) Da omissão quanto ao termo inicial do trânsito em julgado
+No que se refere à omissão quanto quanto à tese levantada por meio de dissídio jurisprudencial no sentido de que o trânsito em julgado deve retroagir à data da interposição do recurso especial, o recurso não merece prosperar.
+Na decisão embargada constou expressamente que não houve a indicação do artigo que foi objeto de interpretação divergente entre o acórdão recorrido e o paradigma indicado e, ainda, em obter dictum que a jurisprudência do STJ já reconheceu que o prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, confira-se:
+(3) Do trânsito em julgado
+UNIMED afirmou, ainda, a existência de dissídio jurisprudencial quanto a data do trânsito em julgado a ser considerada como a data da interposição do recurso especial.
+Contudo, verifica-se que nas razões do apelo nobre não houve indicação de qualquer dispositivo da legislação infraconstitucional que foi objeto de interpretação divergente entre o acórdão recorrido e o paradigma indicado.
+Nesse passo, ante a ausência da demonstração da ofensa à legislação federal pelo acórdão recorrido, incide à hipótese a Súmula n.º 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, verifica-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. SUSPENSÃO DO PROCESSO. DESNECESSIDADE. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEIS SUPOSTAMENTE VIOLADOS. SÚMULA 284/STJ. DISSÍDIO JURISPRUDENCIAL.
+ ..
+2. É inadmissível o recurso especial nas hipóteses em que há deficiência na fundamentação pela ausência de indicação de dispositivo de lei que foram supostamente violados. Aplicação analógica do enunciado n. 284 da Súmula do STF. Precedentes.
+3. A simples transcrição de ementas, trechos ou inteiro teor dos precedentes colacionados, sem o necessário cotejo analítico entre os casos confrontados, não viabiliza o conhecimento do recurso especial pelo dissídio, ante a inobservância dos requisitos dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.602.814/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 23/5/2017, DJe 31/5/2017)
+Obter dictum, a jurisprudência do STJ já reconheceu que o prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. EXECUÇÃO INDIVIDUAL DE PROVIMENTO JUDICIAL OBTIDO EM AÇÃO CIVIL PÚBLICA AJUIZADA PELO MINISTÉRIO PÚBLICO. PRESCRIÇÃO. TERMO INICIAL. TRÂNSITO EM JULGADO DA SENTENÇA COLETIVA. TESE FIRMADA EM RECURSO REPETITIVO. RESP Nº 1.388.000/PR (TEMA 877). AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo já consignado na decisão agravada, a Primeira Seção desta Corte Superior, ao julgar o REsp nº 1.388.000/PR (Tema 877), submetido à sistemática dos recursos repetitivos, firmou a tese de que "o prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, sendo desnecessária a providência de que trata o art. 94 da Lei n. 8.078/90." 2. Agravo interno não provido.
+(AgInt no REsp 1.779.065/SP, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, j. 9/4/2019, DJe 3/6/2019)
+Ademais, constou expressamente que nas demandas coletivas o prazo prescricional é o quinquenal porque, na falta de dispositivo legal específico deve-se aplicar, por analogia, o prazo definido em outra legislação integrante do microssistema de proteção dos interesses transindividuais, afastando-se os prazos do código civil.
+Assim, observa-se que não foi demonstrado nenhum vício na decisão embargada a ensejar a integração do julgado, porquanto a fundamentação adotada é clara e suficiente para respaldar a conclusão alcançada.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC, sendo forçoso reconhecer a mera pretensão de rejulgamento da causa.
+Considerando anterior advertência quanto à incidência das normas do NCPC, no que tange ao cabimento de multa, verifica-se o caráter protelatório dos presentes embargos de declaração a ensejar a aplicação da multa prevista no art. 1.026, § 2º, do NCPC.
+Nessas condições, REJEITO os embargos de declaração, aplicando à embargante a multa de 2% sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do NCPC.
+Por fim, advirto que eventual recurso interposto contra esta decisão estará sujeito ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 3º, do NCPC).
+Publique-se. Intime-se.
