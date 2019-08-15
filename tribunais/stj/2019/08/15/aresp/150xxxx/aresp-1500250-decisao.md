@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. JURISPRUDÊNCIA CONSOLIDADA. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO. NÃO CABIMENTO. SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER O RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo no recurso especial interposto por [NOME] OUTRA em face de decisão que negou seguimento a recurso especial, interposto com fundamento na alínea "a", inciso III, do art. 105, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+Agravo de instrumento. Embargos à execução. Indeferimento do pedido de gratuidade de justiça. Agravantes que não comprovam sua hipossuficiência financeira. Acerto da decisão. Recurso desprovido. (e-STJ, fl. 207)
+Nas razões do recurso especial, os recorrentes sustentam que o acórdão negou vigência ao artigo 98, do CPC/15, sustentando que comprovou que não possui condições de arcar com as despesas processuais, ou seja, que é hipossuficiente.
+As contrarrazões foram apresentadas (e-STJ, fls. 227/245).
+É o breve relatório.
+Passo a decidir.
+A pretensão recursal não merece ser provida.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+O benefício garantido pelo art. 2º da Lei 1.060/50 visa garantir o direito constitucional de ação e acesso ao Poder Judiciário para todos os cidadãos, isentando do pagamento das custas processuais aos que não podem arcar com essas despesas, sem prejuízo de seu próprio sustento ou de sua família. Contudo, tal benefício é voltado àqueles que materialmente não podem arcar com as despesas processuais.
+Sobre o tema, compartilho do entendimento de que a necessidade de prova da situação de hipossuficiência econômica emana da própria Constituição Federal, nos termos do art. 5º, inc. LXXIV, que assim dispõe: "o Estado prestará assistência judiciária integral e gratuita aos que comprovarem insuficiência de recursos".
+A assistência judiciária não se reveste do caráter de benevolência, mas se apresenta como meio necessário à viabilização do acesso igualitário a todos os que buscam a prestação jurisdicional. Por conseguinte, por não se tratar de um ato de caridade, deve restar criteriosamente concedido.
+Assim, o Tribunal de origem proferiu a sua decisão de acordo com o atual entendimento do Superior Tribunal de Justiça no sentido de que é possível, de ofício, o indeferimento dos benefícios da justiça gratuita pela ausência de prova do estado de hipossuficiência.
+Ademais, é consabido que, apesar do benefício da justiça gratuita poder ser pleiteado a qualquer tempo, bastando a simples afirmação de que não está em condições de arcar com as despesas processuais, cuida-se de afirmação com presunção relativa, podendo o magistrado indeferir a gratuidade se encontrar, na análise do suporte fático trazido aos autos, fundamentos que contrariem o estado de hipossuficiência da parte requerente.
+Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PESSOA JURÍDICA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO PELO JUIZ. REVISÃO NO STJ. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. A presunção de pobreza, para fins de concessão dos benefícios da assistência judiciária gratuita, ostenta presunção relativa, podendo o magistrado investigar a situação do requerente caso entenda que os elementos coligidos aos autos demonstram a capacidade de custeio das despesas processuais. Matéria de fato insusceptível de reexame em recurso especial (Súmula 7/STJ).
+2. De acordo com a jurisprudência desta Corte, a pessoa jurídica que pretende se valer das benesses da assistência judiciária gratuita precisa comprovar o efetivo estado de necessidade (Súmula 481/STJ). 3. Agravo regimental a que se nega provimento. (AgRg no AREsp 432961 / RJ. Quarta Turma, Rel. Ministra Maria Isabel Gallotti. DJe 15/04/2014 - grifou-se)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. REEXAME DE PROVAS. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- Por não se tratar de direito absoluto, porquanto a declaração de pobreza implica simples presunção juris tantum, pode o magistrado, se tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado, exigir-lhe que faça prova de sua situação.
+2.- A revisão do Acórdão recorrido, que indefere o pedido de concessão dos benefícios da justiça gratuita, demanda reexame do conjunto fático-probatório delineado nos autos, providência inviável em âmbito de Recurso Especial, incidindo o óbice da Súmula 7 deste Tribunal.
+3.- O recurso não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+4.- Agravo Regimental improvido. (AgRg no AREsp 422555 / MS. Terceira Turma, Rel. Ministro Sidnei Beneti. DJe 10/12/2013 - grifou-se)
+O Tribunal de origem consignou que:
+Em análise cognitiva sumária dos autos, observa-se que os agravantes não comprovaram sua hipossuficiência, pois não juntaram aos autos documentos hábeis que demonstram tal condição. Ressalte-se que o documento de fls. 74/76, do indexador 73, consubstanciado em cópia de extrato bancário, no qual consta ser o agravante [NOME] titular de uma conta corrente no qual recebe rendimentos mensais do INSS no valor de pouco mais de R$ 3.000,00 que não constam em sua declaração de Imposto de Renda, acostada a fls. 108/135, dos indexadores 99 e 121. Ademais, as afirmações constantes da declaração do Imposto de Renda não se demonstram confiáveis. Isso porque o agravante afirma ter saldo negativo em sua conta do Banco Bradesco em dezembro/2015 (fls. 113, indexador 99), no entanto, o extrato bancário de fls. 75, do indexador 73, comprova um saldo positivo no valor de R$ 1.628,00, na conta Bradesco. Cabe ressaltar que os agravantes são proprietários de alguns imóveis na Barra da Tijuca e no Recreio dos Bandeirantes, dois deles ainda pagando financiamento, não sendo crível que alguém que tenha condição financeira de pagar financiamentos de imóveis e mantenha outros, seja hipossuficiente e não possa pagar as custas processuais de uma demanda a qual foi arbitrado o valor da causa de R$ 1.000,00 (um mil reais). (e-STJ fls. 209 - grifou-se).
+Portanto, a pretensão dos agravantes esbarra no óbice da Súmula 7 do STJ, pois o Tribunal de origem firmou sua fundamentação na análise do conjunto fático probatório constante dos autos, de forma que, para reformar decisão objurgada seria necessário o revolvimento fático-probatório dos autos, o que é inviável na via recursal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. CARACTERIZAÇÃO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, apreciando as peculiaridades fáticas da causa, indeferiu o benefício da assistência judiciária gratuita. A modificação de tal entendimento lançado no v. acórdão recorrido, como ora perseguida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 486303 / SP. Quarta Turma, Rel. Ministro Raul Araújo. Quarta Turma. DJe 13/05/2014 - grifou-se)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. CONDIÇÃO DE HIPOSSUFICIÊNCIA. VERIFICAÇÃO. SÚMULA N. 7/STJ. INCIDÊNCIA.
+1. Incide a Súmula n. 7 do STJ na hipótese em que a tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+2. Agravo regimental desprovido. (AgRg no AREsp 319696 / PE. Terceira Turma, Rel. Ministro João Otávio de Noronha. DJe 28/06/2013)
+Advirta-se, por fim, que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, conforme Enunciado Administrativo n. 3/STJ.
+Ante o exposto, conheço o agravo para, desde logo, não conhecer o recurso especial.
+Intimem-se.
