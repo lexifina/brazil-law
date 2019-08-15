@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. ART. 28 DO CDC. OBSTÁCULOS VERIFICADOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO AO ARTIGO 1.022, DO CPC/15. OMISSÃO. AUSENTE.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER O RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por CAENGE S.A - CONSTRUÇÃO ADMINISTRAÇÃO E ENGENHARIA em face da decisão que negou seguimento a recurso especial, fundamentado nas alíneas "a" e "c" do art. 105, III, da Constituição Federal, em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. ART. 28 DO CDC. EMPRESAS DE MESMO GRUPO ECONÔMICO. DESVIO DE FINALIDADE E CONFUSÃO PATRIMONIAL DEMONSTRADOS. RECURSO CONHECIDO E DESPROVIDO. Conforme precedentes, 1. "Reconhecido o grupo econômico e verificada confusão patrimonial, é possível desconsiderar a personalidade jurídica de uma empresa para responder por dívidas de outra, (AgRg no AREsp 441.465/PR, Rel. inclusive em cumprimento de sentença, sem ofensa à coisa julgada" Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/06/2015, DJe 03/08/2015). 2. No presente caso, restou comprovada a existência de grupo econômico, uma vez que há coincidência entre o quadro societário das empresas, inclusive com identidade de diretores. Ademais, a própria agravante reconhece ser sócia da empresa executada e que pertencem ao mesmo grupo econômico, conforme reconhece a decisão ora guerreada. Caso em que há indícios de confusão patrimonial entre empresas integrantes de mesmo grupo 3. econômico, o que, aliado a defesa singela da agravada, autoriza o deferimento da medida excepcional da desconsideração da personalidade jurídica e inclusão, no pólo passivo, também da empresa integrante do grupo econômico referido.
+Recurso e . Decisão mantida por seus próprios fundamentos. 4. CONHECIDO DESPROVIDO. (e-STJ, fl. 99)
+No recurso especial, o agravante alega violação ao disposto nos artigos artigos 489 e 1.022, ambos do Código de Processo Civil de 2015, ao argumento de que a turma julgadora, mesmo instada a fazê-lo, por intermédio dos embargos de declaração, não sanou os vícios apontados, ficando caracterizada a deficiência na prestação jurisdicional.
+Alega violação ao artigos 28, §5º, do Código de Defesa do Consumidor, e 50 do Código Civil, sustentando a ausência dos requisitos autorizadores da desconsideração da personalidade jurídica.
+As contrarrazões foram apresentadas (e-STJ, fls. 155/158).
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece acolhida.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+De início, a agravante aponta a tese de omissão sustentando que o Tribunal de origem não se manifestou sobre o não exaurimento dos meios para promover a desconsideração da personalidade jurídica. Alega, pois, malferimento do artigo 1.022, do CPC/15.
+No tocante à alegada negativa de prestação jurisdicional, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. ACOLHIMENTO. CUSTAS PROCESSUAIS. SUCUMBÊNCIA MÍNIMA. RESPONSABILIDADE INTEGRAL DA PARTE VENCIDA.
+1. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como quando há erro material a ser sanado.
+2. Verificada a sucumbência mínima, caberá à outra parte, por inteiro, responder pelas custas e honorários advocatícios.
+3. Embargos de declaração parcialmente acolhidos.
+(EDcl no AgRg no REsp 1448042/PR, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 15/10/2015, DJe 21/10/2015 - grifou-se)
+RECURSO ESPECIAL - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - INOCORRÊNCIA (..)
+1. Os embargos de declaração consubstanciam-se no instrumento processual destinado à eliminação, do julgado embargado, de contradição, obscuridade ou omissão sobre tema cujo pronunciamento se impunha pelo Tribunal, não se prestando para promover a reapreciação do julgado. (..)".
+(REsp 1.134.690/PR, Rel. Ministro Massami Uyeda, Terceira Turma, julgado em 15/02/2011)
+No caso dos autos, embora o Tribunal de origem não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+Efetivamente, restou consignado que:
+A leitura dos autos evidencia que diversas diligências foram intentadas em busca de bens passíveis de penhora, por meio dos sistemas disponíveis - BACENJUD, RENAJUD e ERIDFT - ID"s (10393247/10393248/10393250/10393249), mas que mostraram infrutíferas para satisfação do débito. Diante disso, tenho que restou demonstrada a inexistência de bens em nome da devedora para satisfação do débito perseguido no cumprimento de sentença, que se amolda à previsão legal de obstáculo ao ressarcimento de prejuízos causados aos consumidores, o qual prescinde de demonstração de confusão patrimonial, fraude ou abuso de direito, uma vez que está consubstanciada na dificuldade de satisfação do "quantum debeatur", já reconhecido em favor do consumidor/exequente, sendo cabível a desconsideração da personalidade jurídica da parte executada. (e-STJ, fls. 102/103 - grifou-se)
+Na espécie, o Tribunal de origem foi expresso ao admitir e fundamentar que todos os meios possíveis foram utilizados, mas que não foram encontrados bens passíveis de execução. Assim, evidenciado o obstáculo no ressarcimento de valores, previsto na teoria menor, o que autoriza a desconsideração da personalidade jurídica. Logo, ausente omissão no julgado.
+Além disso, de acordo com a Teoria Menor, a incidência da desconsideração se justifica: a) pela comprovação da insolvência da pessoa jurídica para o pagamento de suas obrigações, somada à má administração da empresa (art. 28, caput, do CDC); ou b) pelo mero fato de a personalidade jurídica representar um obstáculo ao ressarcimento de prejuízos causados aos consumidores, nos termos do § 5º do art. 28 do CDC.
+Na hipótese em exame, segundo afirmado pelo acórdão recorrido, a existência da personalidade jurídica está impedindo o ressarcimento dos danos causados, o que é suficiente para a desconsideração da personalidade jurídica da recorrente, por aplicação da teoria menor, prevista no art. 28, § 5º, do CDC.
+Nesse sentido:
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FRUSTRADA. PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INDEFERIMENTO. FUNDAMENTAÇÃO APOIADA NA INEXISTÊNCIA DOS REQUISITOS PREVISTOS NO ART. 50 DO CÓDIGO CIVIL DE 2002 (TEORIA MAIOR). ALEGAÇÃO DE QUE SE TRATAVA DE RELAÇÃO DE CONSUMO. INCIDÊNCIA DO ART. 28, § 5º, DO CDC (TEORIA MENOR). OMISSÃO. OFENSA AO ART. 535 DO CPC RECONHECIDA.
+1. É possível, em linha de princípio, em se tratando de vínculo de índole consumerista, a utilização da chamada Teoria Menor da desconsideração da personalidade jurídica, a qual se contenta com o estado de insolvência do fornecedor, somado à má administração da empresa, ou, ainda, com o fato de a personalidade jurídica representar um "obstáculo ao ressarcimento de prejuízos causados aos consumidores" (art. 28 e seu § 5º, do Código de Defesa do Consumidor).
+2. Omitindo-se o Tribunal a quo quanto à tese de incidência do art. 28, § 5º, do CDC (Teoria Menor), acolhe-se a alegação de ofensa ao art. 535 do CPC.
+3. Recurso especial parcialmente conhecido e provido.
+(REsp 1.111.153/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 6/12/2012, DJe 4/2/2013 - grifou-se)
+Por fim, a desconstituição das premissas fáticas firmadas no acórdão recorrido, a fim de alterar a conclusão do julgado, como pretende a recorrente, demandaria o reexame de matéria fático-probatória, inviável no recurso especial, conforme preceitua o verbete da Súmula 7 do STJ.
+Advirta-se, por fim, que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, conforme Enunciado Administrativo n. 3/STJ.
+Ante o exposto, conheço o agravo para, desde logo, não conhecer o recurso especial.
+Intimem-se.
