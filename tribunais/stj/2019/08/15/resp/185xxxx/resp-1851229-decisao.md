@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. ACÓRDÃO RECORRIDO. INDEFERIMENTO DA MEDIDA EXPROPRIATÓRIA. REQUISITOS NÃO COMPROVADOS. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DO ÓBICE DA SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto pelo BANCO BRADESCO FINANCIAMENTOS S.A em face de decisão que negou seguimento a recurso especial com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 127, e-STJ):
+APELAÇÃO CÍVEL AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL INIDÔNEA. AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO (CÓDIGO DE PROCESSO CIVIL, ARTIGO 485, INCISO IV).
+No caso, a notificação extrajudicial enviada ao endereço declinado no contrato restou frustrada. Ausente qualquer complementação da diligência, não se consideram esgotadas as tentativas para a comprovação da mora. Não era caso de oportunizar ao credor a emenda à inicial, pois a válida comprovação da mora é condição de procedibilidade da ação de busca e apreensão, não se admitindo que ocorra após o ajuizamento da demanda.
+APELO DESPROVIDO.
+Nas razões do recurso especial (fls. 134-159, e-STJ), o recorrente apontou violação do art. 2º, § 2º, do Decreto-lei nº 911/69, postulando, com base no dissídio jurisprudencial, o reconhecimento da procedência da ação cautelar de busca e apreensão manejada, tendo em vista a comprovação da constituição em mora da parte devedora, haja vista a validade da notificação extrajudicial, realizada via carta com aviso de recebimento.
+Sem contrarrazões (fl. 480, e-STJ).
+Em decisão monocrática (fls. 482-490, e-STJ), a Corte de origem indeferiu o processamento do apelo nobre, motivo pelo qual foi interposto agravo em recurso especial às fls. 493-530, e-STJ.
+Sem contraminuta (fl. 531, e-STJ).
+É o relatório.
+Decido.
+A pretensão recursal não prospera.
+Registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No tocante ao mérito, o Tribunal de origem concluiu, no bojo da ação de busca e apreensão, que a comprovação da mora não foi demonstrada pelo recorrente, ao fundamento de que, ainda que tenha ocorrida tentativa de intimação da parte devedora, conforme consignada nas razões decisórias do acórdão em testilha, caberia a parte exequente fazer prova do exaurimento dos meios para a realização da notificação extrajudicial da fiduciante, inclusive, se fosse o caso, por meio do protesto, ônus processual do qual não se desincumbiu.
+Sobre o ponto, as seguintes razões do acórdão recorrido (fl. 129, e-STJ):
+No caso em tela, a comprovação da mora da devedora, pressuposto da ação de busca e apreensão, não foi comprovada nos autos, pois os documentos acostados à fls. 21 e verso, que constituem a notificação extrajudicial, não se prestam a demonstrar a intimação da parte. Ocorre que, na tentativa frustrada de intimação em 16 de março de 2017, constou como motivo da devolução "mudou-se".
+Deveria a parte autora, outrossim, ter exaurido os meios para a notificação da fiduciante, inclusive, se fosse o caso, através do protesto.
+Diante de tais considerações, não há modificações a ser implementada no acórdão recorrido, uma vez que o posicionamento adotado pelo Tribunal local está de acordo com o entendimento sedimentado no âmbito desta Corte no sentido de que "a comprovação e validade da mora do devedor é um dos pressupostos processuais da ação de busca e apreensão de bem alienado fiduciariamente. Art. 2º do Decreto-lei 911/64 e Súmula 72." (AgRg nos EDcl nos EDcl no REsp 803.265/RS, Rel. Ministro HUMBERTO GOMES DE BARROS, TERCEIRA TURMA, julgado em 19/12/2007, DJ 08/02/2008, p. 1).
+Na mesma toada, os julgados a seguir:
+AGRAVO REGIMENTAL NO AGRAVO (ARTIGO 544 DO CPC) - AÇÃO DE BUSCA E APREENSÃO DE VEÍCULO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO AGRAVO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. INSURGÊNCIA DO DEVEDOR.
+1. A prova da entrega da carta registrada (expedida por intermédio Cartório de Títulos e Documentos) no domicílio do devedor do contrato de alienação fiduciária é suficiente para sua constituição formal em mora (pressuposto processual da ação de busca e apreensão à luz do Decreto-Lei 911/69), sendo dispensada sua notificação pessoal. Precedentes.
+2. O afastamento da mora (viabilizadora do manejo da ação de busca e apreensão) reclama a presença concomitante dos seguintes requisitos:
+(i) ação proposta pelo devedor contestando a existência integral ou parcial do débito; (ii) efetiva demonstração da plausibilidade da pretensão (consonância com a jurisprudência do STF ou do STJ); e (iii) depósito ou prestação de caução idônea do valor referente à parcela incontroversa, para o caso de a contestação ser apenas de parte do débito (REsp 527.618/RS, Rel. Ministro Cesar Asfor Rocha, Segunda Seção, julgado em 22.10.2003, DJ 24.11.2003).
+3. A Segunda Seção, quando do julgamento de recurso especial representativo da controvérsia (artigo 543-C do CPC), assentou, outrossim, que: (i) "o reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios
+e capitalização) descarateriza a mora"; e (ii) "não descaracteriza a mora o ajuizamento isolado de ação revisional, nem mesmo quando o
+reconhecimento de abusividade incidir sobre os encargos inerentes ao
+período de inadimplência contratual" (REsp 1.061.530/RS, Rel. Ministra Nancy Andrighi, julgado em 22.10.2008, DJe 10.03.2009).
+4. Caso concreto. Consoante assente na origem: (i) a carta registrada foi entregue no domicílio do devedor; (ii) a procedência parcial da ação revisional cingiu-se à exclusão da taxa de abertura de crédito (TAC), remanescendo a exigibilidade dos demais encargos cobrados; e (iii) "o pedido consignatório feito na revisional foi julgado extinto, por ausência de depósito dos valores incontroversos". Consonância entre o acórdão recorrido e a jurisprudência desta Corte. Incidência da Súmula 83/STJ.
+5. Agravo regimental desprovido. (AgRg nos EDcl nos EDcl no REsp
+803.265/RS, Rel. Ministro HUMBERTO GOMES DE BARROS, Terceira Turma, j. em 19/12/2007, DJ 08/02/2008) (sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. CONTRATO DE ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO. CONSTITUIÇÃO DO DEVEDOR EM MORA. NOTIFICAÇÃO EXTRAJUDICIAL. PRESSUPOSTO NÃO DEMONSTRADO. EXTINÇÃO DA AÇÃO SEM ANÁLISE DO MÉRITO. ACÓRDÃO COMBATIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. 2. AGRAVO IMPROVIDO.
+1. Conforme entendimento do Superior Tribunal de Justiça, para a busca e apreensão nos contratos de alienação fiduciária, imperiosa a
+comprovação da mora por meio da notificação extrajudicial do devedor, realizada por intermédio de carta registrada enviada por Cartório de Títulos e Documentos, entregue no domicílio do devedor, dispensando-se a notificação pessoal. Precedentes.
+2. Na espécie, esclareceu o Tribunal de Justiça que a notificação extrajudicial encaminhada pelo credor não foi comprovadamente entregue ao devedor. Diante disso, assinalou que "a instituição financeira deveria ter comprovado o esgotamento das diligências para a localização e, após, não obtendo êxito, deveria ter realizado o
+protesto do título com a intimação por edital  .. . Isso não ocorrendo, o devedor não está regularmente constituído em mora, estando correta a extinção do processo, pois ausentes os pressupostos de constituição e desenvolvimento válido e regular, na forma do art. 267, IV, do CPC" (fl. 65). Assim, não era mesmo caso de dar curso ao inconformismo, uma vez que "a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" - enunciado n. 83 do Superior Tribunal de Justiça.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 520.179/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 23/09/2014, DJe 30/09/2014) (sem destaque no original)
+Além disso, eventual acolhimento da tese recursal encontra óbice na Súmula 7/STJ, porque sua análise depende da averiguação das provas constantes nos autos que permitam verificar a efetiva notificação da devedora, não sendo possível fazê-lo sem a reanálise de provas e fatos.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, majoro os honorários de sucumbência para R$ 1.500,00 (mil e quinhentos reais).
+Intimem-se.
