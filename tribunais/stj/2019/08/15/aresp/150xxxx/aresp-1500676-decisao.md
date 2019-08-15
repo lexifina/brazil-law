@@ -1,0 +1,51 @@
+DECISÃO
+ Cuida-se de agravo (art. 1042 do NCPC), interposto por BANCO DO BRASIL S/A contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, III, "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 99, e-STJ):
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. DECISÃO QUE RECONHECEU A APLICABILIDADE DO CÓDIGO CONSUMERISTA E INVERTEU O ÔNUS DA PROVA. INSURGÊNCIA DA INSTITUIÇÃO FINANCEIRA. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA DA SÚMULA 297 DO STJ. PESSOA JURÍDICA. APLICAÇÃO DA TEORIA FINALISTA MITIGADA. CONTRATO DE ADESÃO. EXISTÊNCIA DE HIPOSSUFICIÊNCIA TÉCNICA E ALEGAÇÕES VEROSSÍMEIS. INVERSÃO DO ÕNUS DA PROVA DEVIDA. DICÇÃO DO ART. 6º, VIII, DO CDC. EXIBIÇÃO DOS DOCUMENTOS SOLICITADOS NA ORIGEM QUE SE MOSTRA PERTINENTE AO CASO. SÚMULA 286 DO STJ.
+RECURSO DESPROVIDO.
+Não foram opostos embargos de declaração.
+Em suas razões de recurso especial (fls. 106/115, e-STJ), o recorrente apontou violação ao artigo 400 do Código de Processo Civil de 2015, sob o fundamento de que a ausência dos contratos anteriores não retira a exigibilidade do título. Destacou, também, que houve afronta aos artigos 798, 784, inciso III e 139 do mesmo Código, considerando ser dispensável a juntada dos extratos, contratos e borderôs. Suscitou dissídio jurisprudencial no que tange à liquidez do título.
+Em sede de juízo provisório de admissibilidade, o Tribunal de origem inadmitiu o recurso especial pela incidência das Súmulas 7 e 83/STJ.
+Daí o agravo (fls. 142/152, e-STJ), buscando destrancar o processamento daquela insurgência, no qual o insurgente refuta os óbices aplicados pela Corte Estadual.
+Sem contraminuta.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Primeiramente, não se conhece da alegada contrariedade aos artigos 400, 784, inciso III do Código de Processo Civil de 2015, por não terem sido objeto de debate pela Corte de origem. As teses de exigibilidade do título sem a apresentação dos documentos, bem como a sua liquidez, não foram objeto de debate pela Corte de origem. Assim, ausente o prequestionamento acerca da tese, aplica-se o óbice contido na Súmula 282/STF.
+Precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/73. AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 e 356/STF. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULA 5/STJ. REEXAME DE MATÉRIA PROBATÓRIA. SÚMULA 7/STJ. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação do art. 535 do Código de Processo Civil/73 pois o Tribunal de origem dirimiu as questões pertinentes ao litígio - tal como lhe foram postas e submetidas -, apresentando todos os fundamentos jurídicos pertinentes, à formação do juízo cognitivo proferido na espécie.
+2. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. Incidência das Súmulas 282/STF e 356/STF.
+3. O Tribunal de origem consigna que foi fornecido aos recorrentes todas as informações necessárias para a celebração e execução do contrato, informando-lhes de todas as circunstâncias relevantes para o negócio efetivado, além de ter-lhes sido indenizado os prejuízos ocorridos até o montante de três milhões de reais, tal qual previsto em cláusula contratual. De tal modo, aponta que não se verifica violação do princípio da boa-fé objetiva e reconhece a isenção de responsabilidade da recorrida pelos prejuízos supervenientes. A reforma do aresto, nestes aspectos, demanda inegável necessidade de interpretação de cláusula contratual e reexame de matéria probatória, providências inviáveis de serem adotadas em sede de recurso especial, ante o óbice das Súmulas 5 e 7 desta Corte.
+4. Agravo interno não provido.
+(AgInt no AREsp 992.489/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/05/2017, DJe 23/05/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO PAULIANA. NEGÓCIO JURÍDICO ANULADO. REQUISITOS COMPROVADOS. ESTADO DE INSOLVÊNCIA. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. ALEGAÇÃO DE NEGATIVA DE PRODUÇÃO DE PROVAS. VIOLAÇÃO AOS ARTS. 330 E 332 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. INOVAÇÃO RECURSAL. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, com fundamento no conjunto probatório dos autos, reconheceu a existência dos requisitos da ação pauliana, bem como o estado de insolvência dos agravantes. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+2. Fica inviabilizado o conhecimento de temas não debatidos e decididos nas instâncias ordinárias, nem mesmo suscitados em embargos de declaração, porquanto ausente o indispensável prequestionamento. Configuração de indevida inovação recursal.
+Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 888.674/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/04/2017, DJe 27/04/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOVAÇÃO RECURSAL. IMPENHORABILIDADE DOS VALORES. AUSÊNCIA DE PREQUESTIONAMENTO. VALIDADE DA CITAÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE APRESENTADA. COMPARECIMENTO ESPONTÂNEO. AGRAVO DESPROVIDO.
+1. É inadmissível a inclusão de teses não expostas no recurso especial nas razões do agravo interno, por importar em inadmissível inovação recursal.
+2. A ausência de prequestionamento se evidencia quando o conteúdo normativo contido nos dispositivos supostamente violados não foi objeto de debate pelo Tribunal de origem. Hipótese em que incidem os rigores das Súmulas n. 282 e 356/STF.
+3. A manifestação do procurador, mesmo sem poderes para receber a citação, é considerada como comparecimento espontâneo, quando há oferecimento de embargos à execução ou de exceção de pré-executividade. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 890.449/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/12/2016, DJe 01/02/2017)
+2. No tocante à apontada violação aos artigos 798 e 139 do Código de Processo Civil de 2015, alega o recorrente que é dispensável a juntada dos extratos, contratos e borderôs.
+Acerca do tema, o Tribunal local, soberano na análise do acervo fático-probatório dos autos, concluiu o seguinte (fl. 103, e-STJ):
+Ademais, os contratos requisitados pelo juízo a quo deram origem ao saldo devedor que foi renegociado na Cédula de Crédito Bancário objeto da execução e, inclusive, estão discriminados na cláusula relativa à "destinação do crédito" (fl. 28), motivo pelo qual a determinação de juntada das avenças mostra- se adequada ao caso, em observância ao enunciado da Súmula 286 da Corte Superior, in verbis: "A renegociação de contrato bancário ou a confissão da dívida não impede a possibilidade de discussão sobre eventuais ilegalidades dos contratos anteriores".
+Desse modo, reformar o entendimento do Tribunal estadual acerca da necessidade de apresentação dos documentos demandaria a alteração das premissas fático-probatórias estabelecidas e, consequentemente, o reexame das provas anexadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUBSCRIÇÃO DE AÇÕES. 1. DECISÃO ORA AGRAVADA FUNDADA EM AUSÊNCIA DE INTERESSE RECURSAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DESSE FUNDAMENTO. INCIDÊNCIA DO ART. 1.021, § 1º, DO CPC/2015. 2. ART. 475-B, § 2º, DO CPC/1973. NECESSIDADE DE JUNTADA DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA. ALTERAÇÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO INTERNO CONHECIDO EM PARTE E, NESTA EXTENSÃO, DESPROVIDO.
+1. Cabe à parte agravante, nas razões do agravo interno, trazer argumentos suficientes para contestar a decisão agravada. A ausência de fundamentos válidos para impugnar a decisão proferida no agravo em recurso especial, sobretudo em relação à ausência de interesse recursal na hipótese, atrai a aplicação do disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+2. A revisão da conclusão do aresto impugnado e o consequente acolhimento da tese recursal (no sentido de reputar desnecessária a juntada do contrato de participação financeira, a fim de afastar a penalidade do art. 475-B, § 2º, do CPC/1973) só seriam possíveis mediante o reexame dos fatos e das provas colacionados ao respectivo processo, o que é vedado no âmbito do recurso especial ante o disposto na Súmula 7/STJ.
+3. Agravo interno conhecido em parte e, nesta extensão, desprovido.
+(AgInt no AREsp 748.896/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/05/2017, DJe 30/05/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CUMPRIMENTO DE SENTENÇA. RADIOGRAFIA DO CONTRATO INSUFICIENTE. NECESSIDADE DE JUNTADA DO CONTRATO ORIGINAL. CLÁUSULAS CONTRATUAIS. REEXAME FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem concluiu ser necessária a apresentação do contrato de participação financeira, pois as informações trazidas no resumo do contrato ("radiografia") são insuficientes para cálculo do montante devido relativo à complementação acionária.
+2. A modificação do entendimento lançado no v. acórdão recorrido demandaria análise de cláusulas contratuais e revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 831.795/SC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/05/2018, DJe 22/05/2018)
+3. Do exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
