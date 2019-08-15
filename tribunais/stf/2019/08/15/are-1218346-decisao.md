@@ -1,0 +1,16 @@
+DESPACHO:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu no recurso extraordinário no qual se requer, em síntese, a alteração do índice de correção monetária dos valores depositados em conta do Fundo de Garantia do Tempo de Serviço (FGTS), da TR para o INPC ou outro índice correspondente.
+    O Plenário do Supremo Tribunal Federal já assentou a ausência de repercussão geral da matéria suscitada neste recurso ao examinar o ARE nº 848.240/RN, da relatoria do saudoso Ministro Teori Zavascki. Naquela oportunidade, ficou consolidado, nos termos da manifestação do Relator, que o tema “pertence ao domínio da legislação ordinária pertinente a cada caso, a significar que eventual ofensa à Carta Magna seria apenas reflexa”.
+    Importante anotar que esse entendimento vem sendo aplicado por ambas as Turmas do Tribunal: ARE nº 1.149.779/RN-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 29/3/2019; e RE 1.168.428/CE-AgR, Primeira Turma, Relator o Ministro Alexandre de Moraes, DJe de 6/2/2019.
+    Anote-se, outrossim, que, ao tempo em que firmada a inexistência de repercussão geral dessa matéria, já tramitava no STF a ADI nº 5.090/DF, da relatoria do Ministro Roberto Barroso, na qual se suscita a inconstitucionalidade do art. 13, caput, da Lei nº 8.036/1990 e do art. 17, caput, da Lei nº 8.177/1991 em relação ao uso da Taxa Referencial (TR) como índice de correção monetária dos depósitos nas contas vinculadas do Fundo de Garantia do Tempo de Serviço (FGTS).
+    É certo, ainda, que na referida ação de controle concentrado não houve determinação de suspensão de todos os processos em tramitação no território nacional.
+    Ademais, como bem pontuou o Ministro Roberto Barroso ao julgar a Rcl nº 23.746/SP, a tramitação da referida ação direta de inconstitucionalidade não altera a decisão do Plenário firmada no recurso extraordinário com agravo acerca da ausência de repercussão geral do tema, pois, “além da autonomia processual relativa entre os dois regimes processuais, não foi proferido qualquer provimento de mérito naquela ação direta [em] que se pudesse alegar existir força vinculante ou superação do precedente do Plenário Virtual” (DJe de 24/6/16).
+    Por fim, não se pode deixar de destacar que o Superior Tribunal de Justiça, em sua missão constitucional de uniformizar a interpretação da lei federal em todo o pais, após determinar a suspensão nacional dos processos que tratam do mesmo tema, firmou orientação sob o rito dos recursos especiais repetitivos, editando tese que deve ser observada pelos demais órgãos julgadores.
+    Assim, diante da situação já delineada e ante a inexistência de qualquer fato novo posterior à decisão do Plenário do STF sobre a ausência de repercussão da matéria, impõe-se a aplicação ao caso da orientação consolidada no Supremo Tribunal Federal na sistemática da repercussão geral.
+    Pelo exposto, determino a devolução destes autos ao Tribunal de origem para que observe os procedimentos previstos na alínea a do inciso I do art. 1.030 do Código de Processo Civil (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de agosto de 2019.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
