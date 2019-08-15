@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. MANDADO DE SEGURANÇA. DECADÊNCIA. IMPOSSIBILIDADE DE AFERIR A CONTAGEM DO PRAZO DECADENCIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Ceará contra acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado:
+AGRAVO INTERNO EM MANDADO DE SEGURANÇA. RESTABELECIMENTO DE VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA (VPNI), CORRESPONDENTE AO ADICIONAL DE QUALIFICAÇÃO. LEI Nº 13.838/2006. DECISÃO AFIANÇADA NO PREENCHIMENTO DOS REQUISITOS LEGAIS. OFENSA AO PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS E DO ATO JURÍDICO PERFEITO. DECADÊNCIA AFASTADA. JURISPRUDÊNCIA VÁRIAS E REITERADAMENTE ADOTADA POR TODOS OS INTEGRANTES DESTA CORTE. AGRAVO INTERNO CONHECIDO E PROVIDO. SEGURANÇA CONCEDIDA.
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do especial, o recorrente sustenta que o Tribunal a quo violou o artigo 23 da Lei 12.016/2009, ao deixar de reconhecer o transcurso do prazo decadencial para impetração do writ, tendo em vista que o ato atacado pelos impetrantes é a Portaria nº 2184/2014, emitida em 10/11/2014 pela Presidência do Tribunal de Justiça do Estado do Ceará, ato que se configurou único e de efeitos permanentes.
+Foram apresentadas contrarrazões.
+É o relatório.
+Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O recurso não comporta conhecimento.
+A questão controvertida cinge-se à ocorrência, ou não, do decurso do prazo decadencial antes da impetração do writ.
+Com efeito, o prazo decadencial de 120 dias previsto no artigo 23 da Lei 12.016/2009 tem início com a ciência, pelo interessado, do ato impugnado.
+No caso, o ato impugnado é a redução dos vencimentos dos servidores públicos estaduais, concernente a modificações no cálculo e pagamento da gratificação denominada Vantagem Pessoal Nominalmente Identificada (VPNI), no percentual de 60% de seu vencimento-base.
+Essa redução de vencimentos foi implantada pela Portaria nº 2184/2014, de lavra do Vice-Presidente do Tribunal de Justiça do Estado do Ceará, publicada em novembro de 2014.
+Contudo, analisando o conjunto fático-probatório dos autos, o Tribunal de origem concluiu que o termo inicial da contagem do prazo decadencial para impetração do writ só poderia ocorrer em 11/5/2015, data em que a Consultoria Jurídica da Presidência emitiu o parecer requisitado pela Presidência do Tribunal de Justiça, ratificando a Portaria nº 2184/2014 e dando certeza definitiva de que seria efetivamente implantada. In verbis:
+Ressalte-se que a Portaria nº. 2.184/2014, da lavra do Vice-Presidente deste Egrégio Tribunal de Justiça, Desembargador Francisco Lincoln Araújo e Silva, foi disponibilizada no DJe em 10 de novembro de 2014, entretanto, face à controvérsia lançada, a Presidência deste Tribunal, embora não houvesse recurso administrativo, encaminhou expediente administrativo à Consultoria Jurídica da Presidência, a qual emitiu parecer datado de 11 de maio de 2015, ratificando a portaria referida. Ou seja, apenas nesta data é que realmente tivemos a certeza definitiva de que a Portaria seria efetivamente implantada.
+Assim, me acosto ao entendimento de que deve ser considerado como termo inicial à contagem do prazo decadencial para impetração do mandamus a data de 11 de maio de 2015, quando da decisão da Presidência que acolheu o parecer que ratificou a portaria referida, até mesmo porque outra data não pode ser considerada já que foi a própria Presidência do TJCE quem deu início a um procedimento de consulta para ter a certeza da implantação da multicitada portaria.
+Desse modo, como o presente writ restou impetrado em 04 de o setembro de 2015, resta tão somente reconhecer a sua tempestividade.
+É de se destacar que o Tribunal de origem deixou claro que a solicitação de elaboração de parecer pela Consultoria Jurídica da Presidência não decorreu da interposição de recurso administrativo, mas de expediente administrativo encaminhado pela Presidência do Tribunal de Justiça do Estado do Ceará, de modo a não atrair a incidência da Súmula 430/STF ("Pedido de reconsideração na via administrativa não interrompe o prazo para o mandado de segurança").
+Nesse contexto, aferir se a data inicial para a contagem do prazo decadencial de 120 dias para impetração do writ é a data da publicação da portaria ou a data do parecer que a ratificou demandaria análise de matéria fático-probatória.
+Desse modo, reconhecer a decadência implicaria, necessariamente, em reexame do contexto probatório dos autos, providência vedada em sede de especial em virtude do óbice da Súmula 7/STJ.
+Ante o exposto, com fulcro no artigo 932, III, do CPC/2015 c/c o artigo 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
