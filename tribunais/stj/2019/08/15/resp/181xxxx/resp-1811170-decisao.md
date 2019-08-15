@@ -1,0 +1,52 @@
+EMENTA
+RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. 1. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. CORREÇÃO MONETÁRIA. PERIODICIDADE ANUAL. PRECEDENTES. INCIDÊNCIA DA SÚMULA 83/STJ 3. RECURSO DESPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por Campo Verde empreendimento imobiliário Ltda. e Outra, com fulcro no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 153):
+Apelação Cível e Recurso Adesivo. Compromisso de venda e compra - Impugnação à gratuidade da justiça - Sentença que rejeitou a impugnação, mantendo o benefício anteriormente concedido ao autor - Recurso de apelação interposto pela impugnante - Concedida a gratuidade da justiça, o ônus da prova da ausência dos requisitos para a concessão do benefício passa a ser da impugnante - Fato de o impugnado ser "cabeleireiro" e "empresário" e, ainda, ter celebrado compromisso de venda e compra de lote de terreno com prestações mensais de aproximadamente R$ 1.800,00 que, por si só, não afastariam a presunção de pobreza - Circunstâncias que não o tornam capaz de arcar com as despesas processuais - Ausência de prova inequívoca suficiente para revogar o benefício concedido - Manutenção da R. Sentença, neste tópico. Compromisso de venda e compra - Previsão de reajuste das parcelas mensalmente conforme a variação do IGP-M - Cobrança da correção monetária que deve observar periodicidade mínima de 12 meses, conforme preceito legal (artigo 28 da Lei 9.069/95) - Precedentes deste Sodalício e do Colendo Superior Tribunal de Justiça - Prestações que devem ser recalculadas, determinada a restituição de valores eventualmente pagos indevidamente. Dá-se provimento ao apelo do autor e nega-se provimento ao adesivo das rés.
+Opostos embargos declaratórios, foram rejeitados.
+Compulsando os autos, verifica-se que o recorrido ajuizou ação de revisão de cláusulas contratuais cumulada com pedido de restituição e tutela de urgência contra as recorrentes, diante da aquisição de imóvel através de compromisso de compra e venda. O Juízo de primeiro grau julgou improcedente o pedido.
+Em suas razões recursais, as insurgentes alegam, além de dissenso jurisprudencial, violação dos arts.: i) 489, § 1º, 994, IV e 1.022, I e II, do CPC/2015; ii) 46 da Lei 10.931/2004.
+Sustentam, em síntese: a) deficiência na prestação jurisdicional, por não haver, no aresto impugnado, fundamento idôneo e apto a lastrear a conclusão de que seria incabível a periodicidade mensal da correção; b) a possibilidade do reajuste mensal.
+Contrarrazões apresentadas às fls. 198-205 (e-STJ). O processamento do apelo especial foi admitido na origem (e-STJ, fls. 206-207).
+Brevemente relatado, decido.
+Acerca das questões submetidas ao crivo deste Tribunal Superior, assim consignou a Corte recorrida (e-STJ, fls. 157-162):
+No mais, pretende o autor a reforma da R. Sentença ao argumento de que as rés estão aplicando a correção monetária pelo IGPM em periodicidade inferior a um ano.
+Há expressa previsão no instrumento de compromisso de venda e compra acerca das forma como deve ser computada a correção monetária:
+"C. PREÇO E CONDIÇÕES DE PAGAMENTO: R$246.402,60, base 1703/2015, com entrada de R$24.640,20 representada por 5 notas promissórias no valor de R$4.928,04 cada a vencer em 20/4/15 a 20/8/15 e o saldo em 120 parcelas mensais de R$1.848,02. Para todos os fins de direito, os vencimentos serão no dia Iº (primeiro) de cada mês, podendo, no entanto, o pagamento ser feito até o dia 8 (oito), sem multa. As parcelas serão atualizadas pelo IGP-M (índice Geral de Preços do Mercado) da FGV (Fundação Getúlio Vargas), da data base (1703/2015) até seu efetivo pagamento, sendo a atualização feita dividindo-se o valor original da parcela pelo IGP-M do segundo mês anterior ao do contrato (562,482 de janeiro de 2015) e multiplicando-se pelo IGPM do segundo mês anterior ao do efetivo pagamento, gerando assim o valor contratual da parcela, observado ainda o disposto na cláusula 8. As parcelas vencerão a partir de setembro de 2015. " (fls. 14)
+No entanto, a o artigo 28 da Lei 9.069/95 exige que a periodicidade do reajuste decorrente da correção monetária seja anual, ressalvada a possibilidade de cobrança de resíduos inflacionários, se houver, para que haja a correta recomposição do capital. (..)
+Cabe destacar que o disposto no artigo 46 da Lei 10.931/2004, mencionado pelo Juízo como fundamento para que seja admitida a periodicidade mensal da correção, não incide à hipótese, pois a referida norma tem aplicação somente aos contratos celebrados com instituições financeiras. (..)
+Logo, verificada a indevida aplicação mensal da atualização monetária, deve o valor das prestações ser recalculado, cabendo às rés ressarcir ao autor os valores indevidamente desembolsados a este título, corrigidos monetariamente desde o desembolso e acrescido de juros moratórios de 1% ao mês, a partir da citação.
+Da leitura do excerto colacionado, constata-se que o Colegiado de origem, ao enfrentar a controvérsia, indicou expressamente por quais motivos concluiu pelo afastamento da periodicidade mensal da correção.
+É assente nesta Corte que "não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia". (AgInt no AgInt no AREsp 1194197/DF, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 10/06/2019, DJe 12/06/2019).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. REVISÃO DO JULGADO. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VALOR INDENIZATÓRIO. PROPORCIONALIDADE E RAZOABILIDADE. MANUTENÇÃO. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1405281/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/06/2019, DJe 01/07/2019)
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. BEM IMÓVEL DADO EM GARANTIA HIPOTECÁRIA. NULIDADE DA PENHORA RECONHECIDA EM EMBARGOS DE TERCEIRO, DOS QUAIS OS EXECUTADOS NÃO FIGURARAM COMO PARTE. PRECLUSÃO. FENÔMENO ENDOPROCESSUAL. INOCORRÊNCIA.
+(..)
+4. Não há que se falar em violação do art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+5. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+(..)
+(REsp 1797891/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/06/2019, DJe 13/06/2019)
+Assim, não se verifica o alegado vício na prestação jurisdicional, uma vez que o aresto impugnado dirimiu a causa com base em fundamentação concreta, sem incorrer em omissão ou contradição. Na verdade, apenas resolveu a celeuma em sentido contrário ao pretendido pela parte insurgente.
+Ademais, o órgão julgador não está obrigado a responder questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorre nos autos.
+No mais, relativamente à periodicidade anual da correção monetária, o Tribunal de origem constatou, conforme o fragmento transcrito, que "o artigo 28 da Lei 9.069/95 exige que a periodicidade do reajuste decorrente da correção monetária seja anual, ressalvada a possibilidade de cobrança de resíduos inflacionários, se houver, para que haja a correta recomposição do capital" (e-STJ, fl. 158).
+Constata-se, desse modo, que o acórdão recorrido guarda consonância com a orientação desta Corte, que só admite a cobrança do aludido reajuste na forma anual, e não mensalmente.
+Com efeito, a jurisprudência deste Tribunal Superior é iterativa no sentido de que "os contratos que tem por objeto obrigação pecuniária firmados após 1º de julho de 1994, ou seja, sob a regência do Plano Real, somente podem ser corrigidos com periodicidade anual" (AgRg no AgRg no AREsp 738.840/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/12/2015, DJe 01/02/2016).
+Na mesma linha, confiram-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECEBIMENTO COMO AGRAVO REGIMENTAL. EMBARGOS À EXECUÇÃO. CORREÇÃO MONETÁRIA. PERIODICIDADE INFERIOR A 1 (UM) ANO.
+NÃO CABIMENTO.
+1. Embargos de declaração recebidos como agravo regimental.
+2. O Superior Tribunal de Justiça entende que, embora a correção monetária não seja um plus, mas mero instrumento de recomposição da desvalorização da moeda, é incabível sua observância nos contratos com periodicidade inferior a 1 (um) ano, desde a implantação do Real, por força do art. 28 da Lei nº 9.069/1995.
+3. Agravo regimental não provido.
+(EDcl no AgRg no Ag 1347640/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/04/2016, DJe 10/05/2016 - sem grifo no original)
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. RESÍDUO INFLACIONÁRIO. PERIODICIDADE MENSAL. IMPOSSIBILIDADE. PRECEDENTES. RAZÕES DO AGRAVO REGIMENTAL DISSOCIADAS DA FUNDAMENTAÇÃO DA DECISÃO AGRAVADA. INÉPCIA.
+1. A decisão agravada afirmou claramente que a jurisprudência desta Corte admite a cobrança do resíduo inflacionário na forma anual, e não na forma mensal. Assim, como o Tribunal local decidiu que "não se pode admitir a cobrança de resíduo inflacionário mensalmente, como estabelece o artigo 28 da Lei 9.069/95, sob pena de ser considerada abusiva  a cláusula ", negou-se provimento ao recurso especial, visto que tal decisão está em conformidade com o entendimento do STJ.
+(..)
+(AgRg no REsp 1.186.761/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 4/6/2013, DJe 10/6/2013)
+Incide, no ponto, o óbice da Súmula 83/STJ, admitida na situação em que interposto o reclamo com amparo nas alíneas a e c do permissivo constitucional.
+Diante do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Publique-se.
