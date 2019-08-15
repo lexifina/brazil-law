@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de [NOME] apontando como autoridade coatora o Tribunal Regional Federal da 2ª Região (Processo n. 2009.02.01.015785-1).
+O relatório foi bem delineado na decisão de e-STJ fls. 436/438, por meio da qual o então relator, Min. Og Fernandes, indeferiu a medida de urgência:
+Em benefício do Procurador da República [NOME], impetrou-se este habeas corpus, com pedido de liminar, apontando-se como autoridade coatora o Pleno do Tribunal Federal da 2ª Região.
+Consta dos autos que, no exercício das atribuições do cargo, teria o paciente irrogado ofensas à honra de Juiz Federal, o que resultou no oferecimento de queixa-crime contra a sua pessoa, recebida, em decisão majoritária, pela Corte Regional.
+Neste writ, sustentam os impetrantes que "o Desembargador Relator do voto vencedor (..) fundamentou-se nas notas taquigráficas como razões de decidir, o que, por óbvio, viola os princípios constitucionais do devido processo legal, da ampla defesa e do contraditório e da fundamentação das decisões" (e-fls. 8).
+Alegam que "toda a premissa fática acolhida pelo Desembargador prolator do voto vencedor estava equivocada, porquanto o mesmo pautou-se, em sede de crime de calúnia, em tipo penal diverso do qual fora imputado ao Querelante pelo Querelado, o que, decerto, significa a alteração da dinâmica fática inclusive com a reverberação na defesa do paciente em âmbito de exceção da verdade" (e-fls. 10).
+Nessa toada, salientam que, embora o mandado de segurança impetrado pelo ora paciente veiculasse a imputação do crime previsto no art. 325 do Código Penal, o acórdão ora atacado teria se baseado no tipo penal descrito no art. 154 desse diploma legal.
+Prosseguem, asseverando a parcialidade, suspeição e impedimento do Desembargador que proferiu o voto-condutor, argumentando que Sua Excelência "participara do julgamento do Mandado de Segurança nº 2008.02.01.020701-1, impetrado pelo ora  paciente , julgado aos 27/05/2009, pela Primeira Turma Especializada do Tribunal Regional da Segunda Região" (e-fls. 12).
+Dizem, ainda quanto ao tema, "que o Desembargador (..) participara de julgamentos, em Órgãos Jurisdicionais que envolviam a questão tratada na presente Ação Penal Originária, significando, por isso, a ciência prévia dos fatos e a provável existência de vínculos psicológicos com os fatos da causa" (e-fls. 13).
+Pontuam, mais, ser nula a sessão de julgamento na qual se recebeu a ação penal originária, em razão de error in procedendo, consistente na omissão de apreciação da questão prejudicial da decadência.
+Em outra frente, defendem a existência de constrangimento ilegal, advindo da ausência de ponderação no exame do interesse processual de agir e o "impacto e gravosidade nas consequências do recebimento da queixa" (e-fls. 38).
+Acentuam que, de igual modo, não se atentou para a "teoria dos atos próprios, da segurança das relações jurídicas e do Estado Democrático de Direito" (e-fls. 46), pontuando, nesse particular, que o querelante, "após a adoção da via da Ação Penal Pública Condicionada - representando os fatos ao Ministério Público e com o arquivamento em decorrência da atipicidade, resolveu utilizar-se da via da Ação Penal Privada" (e-fls. 47).
+Apresentam mais uma tese, consistente na inépcia da queixa-crime recebida, pois a peça não teria feito "a adequada subsunção dos fatos, a partir da narrativa fática, aos tipos penais imputados (artigo 138, duas vezes, c/c o artigo 141, inciso II, todos do Código Penal)" (e-fls. 55).
+Sob o argumento de patente ausência de justa causa referente ao animus caluniandi, argúem faltar suporte probatório mínimo para a persecução penal, destacando que o recebimento da queixa-crime "significa a ruptura de toda a sistemática garantista pugnada pelo Estado Democrático de Direito" (e-fls. 74).
+Sustentam, outrossim, ser atípica a conduta atribuída ao ora paciente, além de inexistir ilicitude em seu proceder.
+Ao final de longo arrazoado, formulam pleito de concessão de liminar, "para que seja imediatamente suspenso o curso da Ação Penal Originária de nº 2009.02.01.015785-1" (e-fls. 91).
+Quanto ao mérito, pugnam pelo trancamento do referido processo-crime.
+O Ministério Público Federal, às e-STJ fls. 823/827, manifestou-se pela concessão da ordem, para determinar o trancamento da ação penal.
+Posteriormente, o então Ministro relator, acolhendo pedido de reconsideração formulado pelo impetrante, determinou a suspensão do andamento da Ação Penal originária até o julgamento definitivo do presente writ (e-STJ fls. 846/848).
+Às e-STJ fls. 857/860, foi formulada petição por [NOME] - querelante na ação originária -, na qual pugnou pela autorização de ingresso nos autos como assistente litisconsorcial.
+O Ministério Público Federal, em relação a tal pleito, manifestou-se pelo deferimento do pedido (e-STJ fl. 865).
+É o relatório.
+Da análise dos autos, verifica-se que a queixa-crime foi recebida pelo Pleno do Tribunal de origem em sessão realizada em 2/9/2010 (e-STJ fls. 101/158).
+Além disso, tendo em vista a decisão proferida pelo Ministro Og Fernandes às e-STJ fls. 846/848, pode-se perceber que a ação penal não teve o mérito julgado, encontrando-se atualmente suspensa.
+Nessa tessitura, considerando-se que o delito de calúnia possui pena máxima em abstrato cominada em 2 anos, cujo lapso pertinente ao reconhecimento da prescrição da pretensão punitiva é de 4 anos, deve-se reconhecer a superveniência da causa extintiva de punibilidade do paciente, ex vi dos arts. 138, 109, inciso V e 107, inciso IV, todos do Código Penal.
+Ante o exposto, concedo a ordem para declarar extinta a punibilidade do paciente pela prescrição da pretensão punitiva e determino o trancamento da Ação Penal originária n. 0015785-92.2009.4.02.0000.
+Prejudicado o pedido formulado às e-STJ fls. 857/860.
+Publique-se. Intimem-se.
