@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Fundação Nacional de Saúde - FUNASA, com fulcro na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TRF da 5ª Região assim ementado (e-STJ, fl. 449):
+AÇÃO ORDINÁRIA. ADMINISTRATIVO. SERVIDOR PÚBLICO. [NOME] FUNASA. DIFERENÇA DE VENCIMENTOS. TRANSFORMAÇÃO DA RUBRICA "DIF. DE VEN. ART.17/LEI 9624/98" EM "VPNI - PARÁGRAFO 1º ART. 147, LEI 11.355/06". IMPOSSIBILIDADE. NATUREZA SALARIAL PERMANENTE. MANUTENÇÃO DA VANTAGEM. DIREITO. IMPOSSIBILIDADE DE SUPRESSÃO E DESCONTOS. TÉCNICA DA MOTIVAÇÃO REFERENCIADA ("PER RELATIONEM"). APELAÇÃO E REMESSA OFICIAL IMPROVIDAS.
+Embargos de declaração rejeitados.
+Em suas razões, o recorrente sustenta ofensa aos arts. 144 e 147, § 1º, da Lei n. 11.355/2006, sob o argumento de que " ..  não se apresenta legítimo que o servidor continue a receber vantagem decorrente de uma situação funcional hoje superada - qual seja o cálculo da carga horária de maneira diferenciada - e, ao mesmo tempo, seja agraciado pelos benefícios decorrentes da reestruturação da carreira, cujo regramento inclui a carga de quarenta horas" (e-STJ, fl. 509).
+Sem contrarrazões.
+É o relatório.
+A irresignação não comporta conhecimento.
+Do exame dos autos constata-se que o insurgente, ao indicar ofensa aos arts. 144 e 147, § 1º, da Lei n. 11.355/2006 e sustentar genericamente a tese de impossibilidade de recebimento cumulativo das parcelas, deixou de impugnar os fundamentos do acórdão recorrido segundo os quais (e-STJ, fl. 445):
+Primeiro, que o disposto no art. 2º, § 2º, da Lei nº 11355/2006 não se aplica à situação dos demandantes, eis que eles tinham incorporado em sua remuneração a diferença de vencimento prevista no art. 17, da Lei nº 9624/98 e não o adiantamento pecuniário previsto no art. 8º, da Lei nº 7686/88. Sendo assim, o mencionado dispositivo legal não previu que a opção pela nova carreira importaria em renúncia da rubrica que vinha sendo paga a título da diferença prevista no art. 17, da Lei nº 9624/98, mas apenas a título do adiantamento pecuniário estatuído no art. 8º, da Lei nº 7686/88.
+Por tal motivo, não haveria impedimento à continuidade do pagamento da rubrica que se pretende ver restabelecida.
+Outra conclusão que podemos tirar é que o disposto no art. 144, também da Lei nº 11355/2006, não impôs qualquer restrição à cumulação da rubrica que já vinham percebendo com o novo plano de carreira instituído na FUNASA, uma vez que a vedação imposta por tal legislação foi à acumulação de vantagens pecuniárias previstas nessa lei com outras de qualquer natureza percebida pelo servidor em decorrência de outros planos de carreiras ou de classificação de cargos ou de lei específica, que não é o caso.
+Consoante entendimento sedimentado no Pleno deste e. Tribunal, a rubrica "00464 DIF. DE. VEN. ART. 17/LEI 9624/98" nada mais é do que a denominação dada pela Lei nº 9624/98 à segunda parte do próprio vencimento dos autores, não se caracterizando, assim, como vantagem pecuniária. Tanto é assim que a jurisprudência deste Sodalício defende a aplicação do percentual de 47,11%, previsto na Lei nº 11355/2006, alterada pela Lei nº 11490/2007, sobre essa rubrica, em face de sua natureza salarial permanente.
+Incidência, por analogia, do teor da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
