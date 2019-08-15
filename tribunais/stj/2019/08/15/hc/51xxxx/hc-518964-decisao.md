@@ -1,0 +1,19 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. INSTRUÇÃO CRIMINAL ENCERRADA. SÚMULA N.º 52/STJ. TESE DE EXCESSO DE PRAZO SUPERADA. WRIT PREJUDICADO.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo, que denegou a ordem nos autos do HC n.º 2108863-55.2019.8.26.0000.
+Consta nos autos que o Paciente foi preso em flagrante, em 08/01/2019, pois, juntamente com outra Corré, foram surpreendidos na posse de 1.955g (um quilograma e novecentos e cinquenta e cinco gramas) de crack, 352,02g (trezentos e cinquenta e dois gramas e vinte miligramas) de maconha, bem como guardavam e tinham em depósito, nos termos da denúncia, além de um revólver calibre .32 e 12 (doze) munições intactas,
+" ..  2.162 (duas mil cento e sessenta e duas) porções de cocaína, sob a forma de pó, acondicionadas em "eppendorfs" de plástico, com peso de 432,4g (quatrocentos e trinta e dois gramas e quatrocentos miligramas), 862 (oitocentas e sessenta e duas) porções de "maconha", acondicionadas em sacos plásticos, no formato de "kits", com peso de 2.492,6kg (dois quilogramas, quatrocentos e noventa e dois gramas e seiscentos miligramas), 01 (uma) porção de "cocaína", acondicionada em um invólucro de plástico com peso bruto de 813,94g (oitocentos e treze gramas e novecentas e quarenta miligramas), 02 (duas) porções de "maconha", acondicionadas na forma de "kits", com peso bruto de 4,11g (quatro gramas e cento e dez miligramas), 06 (seis) porções de cocaína, sob a forma de pedras de "crack", acondicionadas em invólucros de plástico da cor preta com peso de 56,51g (cinquenta e seis gramas e quinhentos e dez miligramas), 107 (cento e sete) porções de cocaína, acondicionadas em um invólucros de plástico com peso de 20,33g (vinte gramas e trezentos e trinta e três miligramas) e 01 (uma) porção de cocaína, sob a forma de pó esbranquiçado, acondicionada em um invólucro de plástico incolor com peso de 163,87g (cento e sessenta e três gramas e oitocentos e oitenta e sete miligramas)  .. " (fls. 18-19.)
+A Defesa impetrou habeas corpus perante o Tribunal a quo, que denegou a ordem (fls. 27-32).
+Neste writ, alega o Impetrante excesso de prazo na formação da culpa, pois, "no presente feito de fato não tem data prevista para iniciar a instrução processual, ao qual por si só, vislumbra o patente constrangimento ilegal ao qual a defesa não deu causa, encontrando-se o requerente encarcerado provisoriamente há mais de 173 (cento e setenta e três) dias" (fl. 5).
+Também argumenta que:
+"se o MM Juízo de primeiro grau, concedeu de ofício em processo da mesma natureza o excesso de prazo para réus presos por tráfico e associação ao tráfico por estarem encarcerados há pouco mais de 04 meses, portanto, a defesa esperava que o princípio da equidade prevalecesse e que também fosse relaxada a prisão do ora paciente, pois as situações eram idênticas" (fl. 9).
+Requer, inclusive liminarmente, a imediata soltura do Paciente, com imposição de medidas cautelares diversas da prisão.
+O pedido liminar foi indeferido às fls. 36-38.
+As informações foram prestadas às fls. 40-42.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 45-46).
+É o relatório. Decido.
+Em consulta ao site do Tribunal de Justiça do Estado de São Paulo, verifiquei que a audiência de instrução e julgamento designada nos autos do Processo n.º 1500015-86.2019.8.26.0111 foi realizada em 17/07/2019 e o feito está na fase de apresentação de alegações finais.
+Com o encerramento da instrução criminal, fica prejudicada a análise de eventual excesso de prazo para a formação da culpa, consoante a inteligência da Súmula n.º 52 do Superior Tribunal de Justiça ("Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo").
+Ante o exposto, JULGO PREJUDICADO o pedido.
+Publique-se. Intimem-se.
