@@ -1,0 +1,42 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL. OMISSÃO NÃO DEMONSTRADA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULAS NºS 7, 211 DO STJ E 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+[NOME] (FRANCISCO) ajuizou ação anulatória de cláusula contratual contra [NOME] EMPREENDIMENTOS IMOBILIÁRIOS LTDA. e OUTROS ([NOME] E OUTROS).
+O juízo de primeiro grau julgou parcialmente procedentes os pedidos, condenando [NOME] E OUTROS a debitarem do saldo devedor do autor a quantia de R$ 50.326, 28, devidamente corrigida.
+O Tribunal de origem, por sua vez, negou provimento ao apelo interposto por [NOME] E OUTROS em acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL C/C PEDIDO DE TUTELA ANTECIPADA. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ALEGAÇÃO DE ABUSIVIDADE DOS JUROS COBRADOS E PRÁTICA DE ANATOCISMO. APLICAÇÃO DA SÚMULA Nº 539 DO STJ: "É PERMITIDA A CAPITALIZAÇÃO DE JUROS COM PERIODICIDADE INFERIOR À ANUAL EM CONTRATOS CELEBRADOS COM INSTITUIÇÕES INTEGRANTES DO SISTEMA FINANCEIRO NACIONAL A PARTIR DE 31.03.2000 (MP Nº 1.963-17/2000, REEDITADA COMO MP Nº 2.170-36/2001), DESDE QUE EXPRESSAMENTE PACTUADA". PRECEDENTES DO STJ E DESTE TJRJ. O PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL NA ANÁLISE DO RECURSO EXTRAORDINÁRIO Nº 592.377, RELATOR O EMINENTE MINISTRO TEORI ZAVASCKI, EM 04.02.2015, DECLAROU QUE O TEXTO DA MEDIDA PROVISÓRIA Nº 2.170/2001 É CONSTITUCIONAL. LAUDO PERICIAL QUE, NO ENTANTO, VERIFICOU A INCIDÊNCIA DA PRÁTICA DE JUROS, PELA PARTE RÉ, DE MANEIRA SUPERIOR AO QUE FORA CONTRATUALMENTE ESTABELECIDO, POR OCASIÃO DA MIGRAÇÃO ENTRE A 1ª E A 2ª ESCRITURAS. VIOLAÇÃO AOS PRINCÍPIOS DA BOA- FÉ OBJETIVA E DO PACTA SUNT SERVANDA. MONTANTE APURADO NO VALOR DE R$50.326,28, QUE DEVERÁ SER ABATIDO DO SALDO DEVEDOR DO AUTOR. NEGADO PROVIMENTO AO RECURSO (e-STJ, fls. 408/409).
+Os embargos de declaração opostos por [NOME] foram rejeitados (e-STJ, fls. 441/447).
+Irresignados, [NOME] E OUTROS interpuseram recurso especial, com base no art. 105, III, a e c, da CF, apontando a violação dos arts. 406, 407, 884 do CC/02, 479, 480 e 1.022 do NCPC, sustentando, em síntese, 1) a omissão do acórdão recorrido sobre o conteúdo dos dispositivos legais invocados; 2) a má valoração das provas produzidas nos autos; 3) o equívoco do perito na confecção do laudo, que não atentou para as condições de reajuste dos valores devidos; e, 4) o termo inicial de incidência dos juros de mora seria a data do trânsito em julgado da sentença.
+O apelo nobre não foi admitido em virtude da incidência das Súmulas nºs 5, 7 e 83 do STJ (e-STJ, fls. 518/524).
+[NOME] E OUTROS, então, interpuseram agravo em recurso especial refutando a incidência dos aludidos óbices sumulares (e-STJ, fls. 546/561).
+Contraminuta não apresentada (e-STJ, fl. 565).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Nas razões do apelo especial, [NOME] E OUTROS arguíram a violação do art. 1.022 do NCPC sem, contudo, precisar quais os pontos que o Tribunal de origem teria deixado de enfrentar e/ou em que questão o acórdão hostilizado teria apresentado fundamentação deficiente para sustentar a conclusão jurídica alcançada.
+É de se ressaltar que tão somente a referência aos vícios previstos no art. 1.022 do NCPC, sem a particularização das teses e dos fundamentos sobre os quais o Tribunal de origem teria se omitido ou enfrentado de forma deficiente, constitui mera alegação genérica, incapaz de evidenciar o malferimento da lei federal invocada.
+Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial, porquanto não permite a exata compreensão da controvérsia, incidindo, pois, à espécie, o óbice da Sumula nº 284 do STF.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESPEJO POR FALTA DE PAGAMENTO. LOCAÇÃO DE IMÓVEL RESIDENCIAL. VIOLAÇÃO AO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 284 DO STF, POR ANALOGIA. MANIFESTAÇÃO SOBRE OFENSA A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. PREMISSA DE FATO FIXADA PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO SUMULAR 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não há como acolher a violação ao art. 535 do CPC/1973, pois as alegações que fundamentaram a pretensa ofensa são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros. Incide, no caso, o enunciado sumular n. 284 do STF, por analogia.
+ ..
+4. Agravo regimental improvido.
+(AgRg no AgRg no AREsp 771.095/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 16/8/2016, DJe 30/8/2016 - sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. SÚMULA Nº 284/STF. AÇÃO INDENIZATÓRIA. CHAMAMENTO AO PROCESSO. OPORTUNIDADE PRECLUSA. NÃO CABIMENTO EM 2º GRAU DE JURISDIÇÃO. FUNDAMENTOS NÃO ATACADOS. SÚMULA Nº 283/STF. LEGITIMIDADE PASSIVA E VALOR INDENIZATÓRIO. INVERSÃO DO JULGADO. REEXAME PROVAS. SÚMULA Nº 7/STJ.
+1. O recurso especial que indica violação do artigo 535 do Código de Processo Civil de 1973, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal.
+ ..
+4. Agravo regimental não provido.
+(AgRg no AREsp 721.195/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 13/9/2016, DJe 21/9/2016 - sem destaque no original)
+A par disso, a questão relacionada ao termo inicial de incidência de juros moratórios não foi objeto do acórdão proferido, atraindo a incidência, no particular, da Súmula nº 211 do STJ.
+Por fim, em relação à valoração do laudo pericial produzido, o Tribunal de origem consignou que
+ ..  constatou o expert no laudo realizado (índice eletrônico n. 276), que entre a 1a e a 2a escrituras assinadas, foram realizadas diferentes formas de reajustes (fls. 237, em resposta ao quesito de n. 7 formulado pelo Autor).
+Outrossim, em resposta ao quesito de n. 10 formulado pela Ré, o perito afirmou que as parcelas cobradas não estavam de acordo com o que fora contratualmente estabelecido (fls. 240).
+Por fim, ainda a este respeito, concluiu às fls. 242:
+"Concluindo este Laudo Pericial, o Louvado ressalta as observações contidas nos diversos Anexos de Sustentação e em particular aquelas que se encontram no Anexo VI, onde se verifica abusividade no emprego da Taxa de Capitalização do débito ajustado, por ocasião da migração do 1º para a 2º Escritura, qual seja, 19,16% a.a. conflitantes com a Taxa de 12% a.a. lavrada em ambas as Escrituras "
+Restou configurada, portanto, violação aos princípios da boa-fé objetiva e do pacta sunt servanda, em verdadeira conduta abusiva por parte da Ré ao praticar a incidência de juros de maneira superior ao que restou pactuado entre as partes, devendo ser recomposto o dano material daí advindo.
+Consoante bem destacado na sentença proferida pelo Juízo a quo: "Ora, se ambas as escrituras têm a previsão de aplicação de taxa de 12% a.a., não pode o réu aplicar taxa anual diversa e a maior, sob pena de ir de encontro ao principio da "pacta sunt servanda" e da própria segurança jurídica advinda do contrato."
+O laudo pericial, ao constatar a aplicação de juros superiores, no percentual de 19,16%, conflitantes com a taxa prevista no contrato de 12% ao ano fixada em ambas as escrituras, apurou valor pago a maior pelo Autor no montante de R$50.326,28 (fls. 243), e a sentença determinou, adequadamente, que tal valor seja abatido do saldo devedor (e-STJ, fls. 414/415).
+Nesse contexto, é evidente que a pretendida alteração das conclusões do Tribunal de origem em relação aos elementos de convicção produzidos nos autos encontra óbice nas Súmulas nº 5 e 7 do STJ.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
