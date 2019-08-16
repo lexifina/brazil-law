@@ -1,0 +1,25 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+LIMINAR – EXTENSÃO – CORRÉUS.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Vara Única da Comarca de Rosana/SP, no processo nº 1500015-38.2019.8.26.0515, converteu em preventiva a custódia temporária do paciente, ocorrida em 1º de fevereiro de 2019, e de outras 5 pessoas, ante o suposto cometimento dos delitos previstos nos artigos 33, cabeça (tráfico de drogas), e 35 (associação para o tráfico) da Lei nº 11.343/2006. Apontou indícios do envolvimento do paciente em grupo criminoso voltado à prática de tráfico de entorpecentes, reportando-se a provas obtidas por meio de interceptações telefônicas. Destacou a prisão em flagrante, efetuada na cidade de Maringá/PR, em virtude de o paciente haver sido encontrado com 1 tijolo de maconha, pesando aproximadamente 1 quilo, e 1 balança de precisão. Frisou indispensável a custódia para garantir a ordem pública, a instrução criminal e a aplicação da lei penal.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 511.204/SP. O Relator indeferiu a liminar.
+    O impetrante sustenta insubsistentes os fundamentos da decisão mediante a qual determinada a preventiva. Afirma a inobservância dos artigos 312 e 313 do Código de Processo Penal. Sublinha as condições pessoais favoráveis do paciente – primariedade, ocupação lícita e residência fixa. Assinala a excepcionalidade da medida imposta. Articula com o excesso de prazo da custódia. Diz estarem os corréus em situação jurídica idêntica à do paciente.
+    Requer, no campo precário e efêmero, a revogação da preventiva e a extensão dos efeitos da decisão aos corréus. No mérito, busca a confirmação da providência.
+    Não foi possível, em 14 de agosto de 2019, o acesso ao andamento processual no sítio do Tribunal de Justiça, uma vez sob por sigilo.
+    Consta, no processo, cópia da denúncia formalizada pelo Ministério Público de São Paulo, no âmbito da qual revelado terem sido os mandados de prisão expedidos em face do paciente e dos corréus Caroline Luiza Novela Silva de Oliveira, Pedro Luiz Rodrigues Filho, Lucas Silva Santos, Gustavo Henrique Batista de Andrade e Ewerton Felipe Oliveira dos Santos, cumpridos em 1º de fevereiro de 2019, quando da deflagração da denominada “Operação Sobeja”.
+    No Superior Tribunal de Justiça, o Relator deferiu a ordem no habeas corpus nº 507.577, em favor da corré Caroline Luíza, para substituir a custódia por cautelares diversas, em 6 de maio último.
+    A fase é de exame da medida de urgência.
+    2. O Juízo, ao converter a prisão temporária em preventiva, frisou o envolvimento do paciente em grupo criminoso voltado à prática de tráfico de entorpecentes, reportando-se a provas obtidas mediante interceptações telefônicas. Destacou informação alusiva à custódia em flagrante considerado o fato de ter sido encontrado com 1 tijolo de maconha, pesando aproximadamente 1 quilo. Sem prejuízo do princípio constitucional da não culpabilidade, a prisão mostrou-se viável, ante a periculosidade, ao menos sinalizada. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    O paciente está custodiado, sem culpa formada, desde 1º de fevereiro de 2019, ou seja, há 6 meses e 14 dias. Surge o excesso de prazo. A preventiva deve ser balizada no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do pronunciamento por meio do qual implementada, em execução antecipada da sanção, ignorando-se garantia constitucional.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja preso por motivo diverso da custódia preventiva retratada no processo nº 1500015-38.2019.8.26.0515, da Vara Única da Comarca de Rosana/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Sendo idêntica a situação dos corréus Pedro Luiz Rodrigues Filho, Lucas Silva Santos, Gustavo Henrique Batista de Andrade e Ewerton Felipe Oliveira dos Santos, levando em conta o excesso de prazo, estendo-lhes a medida acauteladora, com os mesmos cuidados, a teor do disposto no artigo 580 do Código de Processo Penal.
+    5. O curso deste habeas não prejudica o de nº 511.204/SP, em tramitação no Superior Tribunal de Justiça. Remetam cópia da decisão, com as homenagens merecidas, ao relator, ministro Rogerio Schietti Cruz.
+    6. Colham o parecer da Procuradoria-Geral da República.
+    7. Publiquem.
+Brasília, 16 de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
