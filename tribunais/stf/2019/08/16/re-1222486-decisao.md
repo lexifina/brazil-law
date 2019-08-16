@@ -1,0 +1,22 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Distrito Federal e dos Territórios, está assim ementado:
+    “APELAÇÃO CÍVEL. ADMINISTRATIVO E CONSTITUCIONAL. AÇÃO COMINATÓRIA. PACIENTE HEMOFÍLICO. COAGULOPATIA GRAVE. ACESSO A TRATAMENTO E MEDICAMENTOS. ACOMPANHAMENTO POR PROFISSIONAL ESPECÍFICO. IMPOSSIBILIDADE FÁTICA E JURÍDICA. PRINCÍPIO DA IMPESSOALIDADE. NÃO VULNERAÇÃO. CRIAÇÃO DE CENTRO DE REFERÊNCIA. AUSÊNCIA DE ILEGALIDADE.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, a decisão impugnada nesta sede recursal, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, o que torna incognoscível o apelo extremo.
+    Cabe registrar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal e em aspectos  fático-probatórios:
+    “A referida excepcionalidade de tratamento, pessoal e particularizado, por determinado profissional, somente seria justificável diante de uma peculiaridade extraordinária, na qual apenas um determinado profissional fosse capaz de prestar o atendimento solicitado, o que não é o caso dos autos.
+    …...................................................................................................
+    Do exame dos autos, observa-se que o apelante vem recebendo o tratamento adequado para a moléstia da qual é acometido – hemofilia, caracterizada por coagulopatia grave –, não se encontrando desamparado ou prejudicado pelo atendimento por profissional diverso, embora especializado, prestado nos moldes e protocolo estabelecidos pela Portaria nº 725/2018.
+    Também não se constata ilegalidade na Portaria nº 725/2018 (ID 8401133), que promoveu a criação de um Centro de Referência ao Tratamento de Coagulopatias Hereditárias no Distrito Federal e estabeleceu mecanismos e protocolos de combate repressivo à doença, assim como técnicas de natureza preventiva, nos seguintes termos:
+    …...................................................................................................
+    Não se constata, desse modo, ofensa à impessoalidade ou a direito à saúde do apelante. Não há alegação de recusa de tratamento para o autor, que continuará a ser atendido por médico hematologista em centro de referência para pacientes com problemas de saúde iguais ao seu, onde obterá toda a assistência para o tratamento da sua saúde. Sua pretensão é a de manter atendimento individualizado segundo o critério estabelecido pela médica que o trata, de forma dissociada da política pública implementada pela Secretaria de Saúde do Distrito Federal, mas com a utilização da estrutura, insumos, remédios e profissionais da rede pública distrital de saúde”
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 16 de agosto de 2019.
+Ministro CELSO DE MELLO
+Relator
