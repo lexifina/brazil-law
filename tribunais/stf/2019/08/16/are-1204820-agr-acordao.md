@@ -1,0 +1,782 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 18
+
+16/08/2019
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.204.820
+DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: CIA DE SANEAMENTO BASICO DO ESTADO DE
+SAO PAULO SABESP
+: OSMAR MENDES PAIXAO CORTES
+: AUTOPISTA FERNAO DIAS S.A.
+: ALEXANDRE FRAYZE DAVID
+
+Ementa : AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO
+COM AGRAVO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO
+GERAL. INSUFICIÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO.
+INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL
+FEDERAL. OFENSA CONSTITUCIONAL REFLEXA.
+1. Os Recursos Extraordinários somente serão conhecidos e julgados,
+quando essenciais e relevantes as questões constitucionais a serem
+analisadas, sendo imprescindível ao recorrente, em sua petição de
+interposição de recurso, a apresentação formal e motivada da repercussão
+geral, que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a
+existência de acentuado interesse geral na solução das questões
+constitucionais discutidas no processo, que transcenda a defesa
+puramente de interesses subjetivos e particulares.
+2. A obrigação do recorrente em apresentar formal e motivadamente
+a preliminar de repercussão geral, que demonstre sob o ponto de vista
+econômico, político, social ou jurídico, a relevância da questão
+constitucional debatida que ultrapasse os interesses subjetivos da causa,
+conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art.
+1.035, § 2º, do CPC/2015), não se confunde com meras invocações
+desacompanhadas de sólidos fundamentos no sentido de que o tema
+controvertido é portador de ampla repercussão e de suma importância
+para o cenário econômico, político, social ou jurídico, ou que não
+interessa única e simplesmente às partes envolvidas na lide, muito menos
+ainda divagações de que a jurisprudência do SUPREMO TRIBUNAL
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B061-6BC8-63FE-0ED5 e senha 92FE-6CE4-3100-7193
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 18
+
+ARE 1204820 AGR / DF
+FEDERAL é incontroversa no tocante à causa debatida, entre outras de
+igual patamar argumentativo.
+3. O Juízo de origem não analisou a questão constitucional
+veiculada, não tendo sido esgotados todos os mecanismos ordinários de
+discussão,
+INEXISTINDO,
+portanto,
+o
+NECESSÁRIO
+PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate e a
+decisão prévios sobre o tema jurígeno constitucional versado no recurso.
+Incidência das Súmulas 282 e 356 do SUPREMO TRIBUNAL FEDERAL.
+4. Tendo o acórdão recorrido solucionado as questões a si postas com
+base em preceitos de ordem infraconstitucional, não há espaço para a
+admissão de Recurso Extraordinário, que supõe matéria constitucional
+prequestionada explicitamente.
+5. Agravo interno a que se nega provimento.
+
+AC ÓRDÃ O
+Vistos, relatados e discutidos estes autos, os Ministros do Supremo
+Tribunal Federal, em Primeira Turma, sob a Presidência do Senhor
+Ministro LUIZ FUX, em conformidade com a ata de julgamento e as notas
+taquigráficas, por unanimidade, acordam em negar provimento ao
+agravo interno, nos termos do voto do Ministro Alexandre de Moraes,
+Relator.
+Brasília, 16 de agosto de 2019.
+Ministro ALEXANDRE DE MORAES
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B061-6BC8-63FE-0ED5 e senha 92FE-6CE4-3100-7193
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 18
+
+16/08/2019
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.204.820
+DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: CIA DE SANEAMENTO BASICO DO ESTADO DE
+SAO PAULO SABESP
+: OSMAR MENDES PAIXAO CORTES
+: AUTOPISTA FERNAO DIAS S.A.
+: ALEXANDRE FRAYZE DAVID
+RE LAT Ó RI O
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Interno contra decisão que negou seguimento ao
+Agravo em Recurso Extraordinário sob os argumentos de que (a) mostrase deficiente a fundamentação sobre a repercussão geral da questão
+constitucional; (b) não houve o necessário prequestionamento da matéria,
+incidindo, portanto, as Súmulas 282 e 356 do STF; e (c) trata-se de tema de
+índole infraconstitucional.
+Sustenta a parte agravante, em suma, que (a) é inequívoca a ofensa
+direta à Constituição Federal; (b) foi claro e expresso o
+prequestionamento da controvérsia constitucional; e (c) a matéria tem
+ampla repercussão geral.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4DB5-A818-2ABD-8190 e senha 9E1C-122E-C155-7C19
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 4 de 18
+
+16/08/2019
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.204.820
+DISTRITO FEDERAL
+VOTO
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Eis a decisão ora agravada:
+“Trata-se de Agravo contra decisão que inadmitiu Recurso
+Extraordinário interposto em face de acórdão proferido pelo
+Superior Tribunal de Justiça, assim ementado (fl. 165, Vol. 3):
+“ADMINISTRATIVO E PROCESSUAL CIVIL.
+AGRAVO INTERNO NO AGRAVO EM RECURSO
+ESPECIAL. COBRANÇA, POR CONCESSIONÁRIA DE
+SERVIÇO PÚBLICO, PELO USO DE FAIXA DE
+DOMÍNIO. POSSIBILIDADE, DESDE QUE HAJA
+PREVISÃO NO CONTRATO DE CONCESSÃO.
+ACÓRDÃO DE 2º GRAU EM DISSONÂNCIA COM A
+JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO
+IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara
+recurso interposto contra decisum publicado na vigência
+do CPC/2015.
+II. Na origem, trata-se de ação proposta pela Cia de
+Saneamento Básico do Estado de São Paulo - SABESP, ora
+agravante, em desfavor da Autopista Fernão Dias S/A,
+requerendo, em síntese, a declaração de inexigibilidade da
+cobrança dos valores relativos à utilização das faixas de
+domínio.
+III. A jurisprudência dominante nesta Corte orientase no sentido de que o poder concedente poderá, nos
+termos do art. 11 da Lei 8.987/95, autorizar concessionária
+a efetuar cobrança, pela utilização de faixas de domínio,
+desde que haja previsão no contrato de concessão da
+rodovia. Nesse sentido: STJ, EREsp 985.695/RJ, Rel.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5E5A-F070-DE6E-BDDB e senha C870-3B2E-8672-5E0E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 5 de 18
+
+ARE 1204820 AGR / DF
+Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, DJe
+de 12/12/2014; AgInt no REsp 1.677.414/SP, Rel. Ministra
+REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de
+20/02/2018; AgInt no REsp 1.099.282/RJ, Rel. Ministro
+SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de
+25/08/2017; AgInt no AREsp 793.457/PR, Rel. Ministro
+HUMBERTO MARTINS, SEGUNDA TURMA, DJe de
+30/08/2016; AgRg no AgRg no REsp 1.435.691/RS, Rel.
+Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe
+de 14/10/2016.
+IV. No caso, o Tribunal de origem, em dissonância
+com a jurisprudência desta Corte, julgou procedente o
+pedido, ao fundamento de que "a Lei n° 8.987/95
+estabelece disposições gerais sobre a possibilidade de
+instituição de outras fontes de receitas aos
+concessionários. Não obstante isso, o Decreto que trata
+especificamente do regime de concessões dos serviços
+públicos de fornecimento de água e energia elétrica,
+continua em vigor e deve ser aplicado pela aplicação do
+princípio da especialidade da norma". Estando o acórdão
+recorrido em dissonância com o entendimento atual e
+dominante desta Corte, deve ser mantida a decisão ora
+agravada, que deu provimento ao Recurso Especial da
+parte agravada, para fim de determinar o retorno dos
+autos à origem, para que se verifique a existência de
+previsão contratual, de modo a permitir que o poder
+concedente autorize a concessionária a efetuar a cobrança
+pela utilização das faixas de domínio, nos termos da
+fundamentação do presente acórdão.
+V. Agravo interno improvido.”
+No apelo extremo, alega-se, com fundamento no art. 102,
+III, “a”, da Constituição Federal, ter o acórdão recorrido violado
+o disposto nos artigos 5º, II, LIV e LV; 21, XII, “b”; 22, IV; 145, II;
+150, I; 173, § 2º; e 175, da Constituição da República, pois:
+a) a matéria recursal guarda identidade com o Tema
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5E5A-F070-DE6E-BDDB e senha C870-3B2E-8672-5E0E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 6 de 18
+
+ARE 1204820 AGR / DF
+261(RE 581.947) da repercussão geral (fl .188);
+b) determinou-se a possibilidade de cobrança pelo uso de
+áreas contíguas às estradas concedidas sem previsão legal para
+tanto e, ainda, sem observar que se trata de bem de uso público
+(fl. 188); e
+c) a Lei 8.987/95 não se aplica às concessionárias de serviço
+público criadas por lei e que se encontram dentro da
+Administração Pública, como é o caso da ora Recorrente (fl.
+199).
+É o relatório. Decido.
+Os recursos extraordinários somente serão conhecidos e
+julgados, quando essenciais e relevantes as questões
+constitucionais a serem analisadas, sendo imprescindível ao
+recorrente, em sua petição de interposição de recurso, a
+apresentação formal e motivada da repercussão geral que
+demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a
+existência de acentuado interesse geral na solução das questões
+constitucionais discutidas no processo, que transcenda a defesa
+puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar formal e
+motivadamente a preliminar de repercussão geral que
+demonstre, sob o ponto de vista econômico, político, social ou
+jurídico, a relevância da questão constitucional debatida que
+ultrapasse os interesses subjetivos da causa, conforme exigência
+constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art.
+1.035, § 2º, do Código de Processo Civil de 2015), não se
+confunde com meras invocações, desacompanhadas de sólidos
+fundamentos e de demonstração dos requisitos no caso
+concreto, de que (a) o tema controvertido é portador de ampla
+repercussão e de suma importância para o cenário econômico,
+político, social ou jurídico; (b) a matéria não interessa única e
+simplesmente às partes envolvidas na lide; ou, ainda, de que (c)
+a jurisprudência do SUPREMO TRIBUNAL FEDERAL é
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5E5A-F070-DE6E-BDDB e senha C870-3B2E-8672-5E0E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 18
+
+ARE 1204820 AGR / DF
+incontroversa no tocante à causa debatida, entre outras
+alegações de igual patamar argumentativo (ARE 691.595-AgR,
+Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de
+25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN
+LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR,
+Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI
+717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma,
+DJe de 13/8/2012).
+Não havendo demonstração fundamentada da presença
+de repercussão geral, incabível o seguimento do Recurso
+Extraordinário.
+Some a isso o fato de que o STJ decidiu a controvérsia com
+base na Lei 8.987/1995, e afastou a aplicação do Tema 261 da
+repercussão geral, por entender que o precedente não guarda
+relação com o caso (fls. 179-180, Vol. 3).
+Em demanda bem semelhante à presente, esta CORTE
+confirmou o entendimento do STJ a respeito da inaplicabilidade
+ao caso da tese firmada naquele recurso paradigma. Assentouse, ainda, que a matéria não prescinde da análise da legislação
+infraconstitucional, de modo que eventual violação à
+Constituição Federal seria apenas reflexa.
+A propósito, confiram-se os fundamentos adotados no RE
+1.181.353, Rel. Min. CÁRMEN LÚCIA, DJe de 3/4/2019:
+“DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL
+CIVIL. USO DE FAIXA DE DOMÍNIO. MARGENS DE
+RODOVIAS. COBRANÇA PELA CONCESSIONÁRIA DE
+SERVIÇO PÚBLICO: IMPOSSIBILIDADE DE ANÁLISE
+PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL.
+AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA.
+INAPLICABILIDADE DO RE N. 581.947-RG (TEMA 261).
+RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5E5A-F070-DE6E-BDDB e senha C870-3B2E-8672-5E0E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 18
+
+ARE 1204820 AGR / DF
+PROVIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base na al.
+a do inc. III do art. 102 da Constituição da República
+contra o seguinte julgado do Superior Tribunal de Justiça,
+que deu provimento ao recurso especial de Renovias
+Concessionária S/A:
+“PROCESSUAL
+CIVIL.
+ENUNCIADO
+ADMINISTRATIVO 3/STJ. AÇÃO DE COBRANÇA.
+USO DA FAIXA DE DOMÍNIO. CONCESSIONÁRIA
+DE SERVIÇO PÚBLICO. ART. 11 DA LEI DE
+CONCESSÕES.
+POSSIBILIDADE.
+FONTE
+ALTERNATIVA DE RECEITA. PREVISÃO EM
+CONTRATO.
+PRECEDENTE
+OBRIGATÓRIO.
+AGRAVO INTERNO NÃO PROVIDO. 1. O presente
+recurso atrai a incidência do Enunciado
+Administrativo n. 3/STJ: Aos recursos interpostos
+com fundamento no CPC/2015 (relativos a decisões
+publicadas a partir de 18 de março de 2016) serão
+exigidos os requisitos de admissibilidade recursal na
+forma do novo CPC. 2. No julgamento do EREsp
+985.695/RJ a Primeira Seção desta Corte de Justiça,
+firmou o entendimento de que, havendo previsão
+contratual, é possível a cobrança pelo uso da faixa de
+domínio da rodovia por outra concessionária para
+passagem de linha de energia, nos termos do art. 11
+da Lei n. 8.987/1995” (EREsp 985.695/RJ, Rel.
+Ministro HUMBERTO MARTINS, PRIMEIRA
+SEÇÃO, julgado em 26/11/2014, DJe 12/12/2014) 3.
+Agravo interno não provido (fl.16, doc. 21).
+Os embargos de declaração opostos por Companhia
+Jaguari de Energia foram rejeitados (fls. 59-63, vol. 21).
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5E5A-F070-DE6E-BDDB e senha C870-3B2E-8672-5E0E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 9 de 18
+
+ARE 1204820 AGR / DF
+
+2. A recorrente alega contrariados o inc. III do art. 102
+e o inc. III do art. 105 da Constituição da República.
+Sustenta que “a decisão recorrida viola os artigos
+102, inciso III, e 105, inciso III, da Constituição, usurpando
+a competência do Supremo Tribunal Federal, ao decidir
+sobre questão constitucional que já havia sido julgada pelo
+e. Tribunal de Justiça de São Paulo, favoravelmente à ora
+Recorrente, consubstanciada na aplicabilidade, ao caso
+dos autos, do entendimento vertido no acórdão proferido
+no RE 581.947/RO, que deu origem ao Tema 261 da
+Repercussão Geral” (fl. 71, vol. 21).
+Argumenta que “a clareza do entendimento deste c.
+Supremo Tribunal Federal esposado nos autos de RE
+581.947/RO é patente e, portanto, suficiente para
+reconhecer que o acórdão proferido pelo e. STJ, além de
+caracterizar nítida usurpação de competência, ao revisar
+questão constitucional já decidida pelo e. TJSP por ocasião
+do julgamento do Recurso de Apelação oportunamente
+interposto pela ora Recorrida, apresenta-se em
+dissonância com o Tema nº 261 da sistemática da
+repercussão geral, razão pela qual merece provimento o
+presente recurso” (fl. 78, doc. 21).
+Salienta que, “em recentíssima decisão (agosto de
+2018), nos autos do ARE 1.137.897/SP, sob a relatoria do
+Eminente Ministro Edson Fachin, esse c. STF não apenas
+reconheceu a repercussão geral da matéria tratada em
+recurso idêntico ao presente (em especial, a sua sujeição ao
+Tema nº 261), como ordenou a devolução dos autos ao c.
+STJ para o juízo de retratação, tendo em vista que o
+acórdão lá proferido (em detrimento da pretensão da
+Recorrente) contrariava o entendimento firmado por este
+tribunal no julgamento do RE 581.947/RO” (fls. 77-78, doc.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5E5A-F070-DE6E-BDDB e senha C870-3B2E-8672-5E0E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 10 de 18
+
+ARE 1204820 AGR / DF
+21).
+Requer “o conhecimento e o provimento do presente
+Recurso Extraordinário para que, reformando-se o
+acórdão proferido pelo c. STJ, se reconheça a incidência do
+Tema nº 261 da sistemática da repercussão geral sobre o
+caso em apreço, observada, como já dito, a decisão
+proferida por este c. Tribunal por ocasião do julgamento
+do RE 581.947/RO, fazendo-se prevalecer o acórdão
+proferido originariamente pelo TJSP” (fl. 79, doc. 21).
+Examinados os elementos havidos no processo,
+DECIDO.
+3. Razão jurídica não assiste à recorrente.
+4. No recurso extraordinário n. 581.947 (Tema 261 da
+repercussão geral), Relator o Ministro Eros Grau, este
+Supremo Tribunal concluiu haver repercussão geral
+quanto à cobrança de taxa de ocupação do solo e do
+espaço aéreo por poste de transmissão de energia elétrica
+e julgou o mérito no seguinte sentido:
+“RECURSO
+EXTRAORDINÁRIO.
+RETRIBUIÇÃO PECUNIÁRIA. COBRANÇA. TAXA
+DE USO E OCUPAÇÃO DE SOLO E ESPAÇO
+AÉREO. CONCESSIONÁRIAS DE SERVIÇO
+PÚBLICO. DEVER-PODER E PODER-DEVER.
+INSTALAÇÃO
+DE
+EQUIPAMENTOS
+NECESSÁRIOS À PRESTAÇÃO DE SERVIÇO
+PÚBLICO EM BEM PÚBLICO. LEI MUNICIPAL
+1.199/2002.
+INCONSTITUCIONALIDADE.
+VIOLAÇÃO. ARTIGOS 21 E 22 DA CONSTITUIÇÃO
+DO BRASIL. 1. Às empresas prestadoras de serviço
+público incumbe o dever-poder de prestar o serviço
+público. Para tanto a elas é atribuído, pelo poder
+concedente, o também dever-poder de usar o
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5E5A-F070-DE6E-BDDB e senha C870-3B2E-8672-5E0E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 11 de 18
+
+ARE 1204820 AGR / DF
+domínio público necessário à execução do serviço,
+bem como de promover desapropriações e constituir
+servidões de áreas por ele, poder concedente,
+declaradas de utilidade pública. 2. As faixas de
+domínio público de vias públicas constituem bem
+público, inserido na categoria dos bens de uso
+comum do povo. 3. Os bens de uso comum do povo
+são entendidos como propriedade pública. Tamanha
+é a intensidade da participação do bem de uso
+comum do povo na atividade administrativa que ele
+constitui, em si, o próprio serviço público [objeto de
+atividade
+administrativa]
+prestado
+pela
+Administração. 4. Ainda que os bens do domínio
+público e do patrimônio administrativo não tolerem
+o gravame das servidões, sujeitam-se, na situação a
+que respeitam os autos, aos efeitos da restrição
+decorrente da instalação, no solo, de equipamentos
+necessários à prestação de serviço público. A
+imposição dessa restrição não conduzindo à extinção
+de direitos, dela não decorre dever de indenizar. 5. A
+Constituição do Brasil define a competência
+exclusiva da União para explorar os serviços e
+instalações de energia elétrica [artigo 21, XII, b] e
+privativa para legislar sobre a matéria [artigo 22, IV].
+Recurso extraordinário a que se nega provimento,
+com
+a
+declaração,
+incidental,
+da
+inconstitucionalidade da Lei n. 1.199/2002, do
+Município de Ji-Paraná” (DJe 27.8.2010).
+Não é o caso, entretanto, de se determinar a
+devolução destes autos à origem para a aplicação da
+sistemática da repercussão geral, pois, na espécie, o
+Superior Tribunal de Justiça afastou a aplicação do
+paradigma (RE n. 581.947-RG) por haver fundamento
+infraconstitucional
+suficiente
+para
+resolução
+da
+controvérsia:
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5E5A-F070-DE6E-BDDB e senha C870-3B2E-8672-5E0E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 12 de 18
+
+ARE 1204820 AGR / DF
+
+“Preliminarmente afasto a tese de que a matéria
+discutida nos presentes autos deve ser conforme o
+julgamento do RE 581.947 - Tema nº 261, da
+sistemática de repercussão geral. Isso porque,
+inolvidável que a temática enfrentada pelo Supremo
+Tribunal Federal quando do julgamento do RE
+581.947/R não guarda identidade fática com a tratada
+no vertente caso. Naqueles autos, o STF foi instado a
+se manifestar quanto a peculiar situação de ser ou
+não facultado ao Município de Ji-Parará a cobrança
+de indenização de concessionária de serviço público
+em razão da instalação de equipamentos necessários
+à prestação do serviço em área de domínio público
+de vias públicas (bens públicos de uso comum do
+povo). Dito de outra forma, o que se discutia naquela
+hipótese se atrelava à temáticas de ordem
+constitucional, porquanto envolta de serviços
+públicos prestados pela União que demandava o uso
+de bens públicos de dominialidade do Município categoria essa que a faixa de domínio de rodovia não
+se enquadra - bem como questionamentos a respeito
+da natureza jurídica de referida cobrança,
+demandado para tanto, conceitos de tributário, o que
+em nada se assemelha com a hipótese julgada” (fls.
+19-20, vol. 21).
+O paradigma de repercussão geral apreciou questão
+referente à cobrança de taxa por uso de bem público
+pertence a município, pessoa jurídica de direito público, e
+sobre regras de direito urbanístico. Não há como aplicar
+esse entendimento na espécie vertente, pois estes autos
+versam sobre preço cobrado pelo uso de faixas de domínio
+de rodovias concedidas a empresas de direito privado, nos
+termos do art. 11 da Lei n. 8.897/1995.
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5E5A-F070-DE6E-BDDB e senha C870-3B2E-8672-5E0E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 13 de 18
+
+ARE 1204820 AGR / DF
+Essa controvérsia inclusive foi resolvida pelo
+Supremo Tribunal Federal, que, ao julgar os Embargos de
+Declaração no Recurso Extraordinário n. 581.947-RG,
+Relator o Ministro Luiz Fux, delimitou o alcance da tese
+fixada na repercussão geral:
+“1) Embargos de Declaração. Repercussão
+Geral. Cobrança de taxa pelo uso de bens municipais.
+Delimitação da controvérsia jurídica. 2) In casu , todo
+o litígio travado nos autos gravitou em torno da lei
+do município de Ji-Paraná que instituiu a cobrança
+de taxa pelo uso do solo e subsolo. 3) Embargos de
+Declaração conhecidos e providos, sem efeitos
+infringentes, para esclarecer que o decisum dispõe
+sobre a impossibilidade de cobrança de taxa, espécie
+de tributo, pelos municípios em razão do uso do
+espaço público municipal” (DJe 19.3.2014).
+No voto condutor desses embargos de declaração, o
+Ministro Relator esclareceu:
+“(...) leitura detida das manifestações de vários
+dos ilustres ministros que participaram da votação
+do acordão recorrido revela que o tema analisado
+ficara adstrito à análise da constitucionalidade da
+cobrança de taxa para a retribuição pelo uso do
+espaço público por concessionárias fornecedoras do
+serviço público de energia elétrica.”
+5. Quanto à cobrança realizada pela concessionária
+de rodovias em face da concessionária de energia elétrica
+pelo uso das faixas de domínio de rodovias, o Superior
+Tribunal de Justiça assentou:
+“Sem maiores considerações quanto à
+argumentação trazida no agravo, a tese quanto à
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5E5A-F070-DE6E-BDDB e senha C870-3B2E-8672-5E0E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 14 de 18
+
+ARE 1204820 AGR / DF
+possibilidade de uso compartilhado gratuito de bem
+público por concessionária de serviço público já foi
+examinada nos embargos de divergência nº
+985.695/RJ, tendo restado pacificado o entendimento
+no sentido da possibilidade da cobrança pelo uso da
+faixa de domínio da rodovia por outra
+concessionária para passagem de linha de energia,
+nos termos do art. 11 da Lei nº 8.987/1995” (fl. 20,
+doc. 21).
+A apreciação do pleito recursal exigiria a
+interpretação da legislação infraconstitucional aplicável à
+espécie (Lei n. 8.987/1995). A alegada contrariedade à
+Constituição da República, se tivesse ocorrido, seria
+indireta, a inviabilizar o processamento do recurso
+extraordinário. Assim, por exemplo:
+“PROCESSUAL
+CIVIL.
+AGRAVO
+REGIMENTAL NO AGRAVO DE INSTRUMENTO.
+RECURSO EXTRAORDINÁRIO. VIOLAÇÃO AO
+ART. 93, IX, DA CF/88. OMISSÃO NÃO
+CONFIGURADA. OFENSA AOS PRINCÍPIOS DO
+CONTRADITÓRIO E DA AMPLA DEFESA.
+OFENSA
+CONSTITUCIONAL
+REFLEXA.
+INTERPRETAÇÃO
+DE
+NORMAS
+INFRACONSTITUCIONAIS.
+LEIS
+8.078/80
+e
+8.987/95.
+REAPRECIAÇÃO
+DO
+CONJUNTO
+FÁTICO-PROBATÓRIO
+DOS
+AUTOS.
+INVIABILIDADE. SÚMULA 279/STF. AGRAVO
+REGIMENTAL A QUE SE NEGA PROVIMENTO”
+(AI n. 855.831-AgR, Relator o Ministro Teori
+Zavascki, Segunda Turma, DJe 19.5.2014).
+“Embargos
+de
+declaração
+no
+recurso
+extraordinário com agravo. Conversão dos embargos
+declaratórios em agravo regimental. Direito Civil.
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5E5A-F070-DE6E-BDDB e senha C870-3B2E-8672-5E0E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 15 de 18
+
+ARE 1204820 AGR / DF
+Contrato de permissão de uso entre concessionária e
+empresa de telefonia. Uso compartilhado de faixa de
+domínio adjacente às rodovias. Modificação dos
+valores devidos em razão da relação contratual.
+Fatos e provas. Cláusulas contratuais. Reexame.
+Impossibilidade.
+Legislação
+infraconstitucional.
+Ofensa reflexa. Precedentes. 1. Embargos de
+declaração recebidos como agravo regimental. 2.
+Inadmissível, em recurso extraordinário, a análise do
+conjunto fático-probatório dos autos, das cláusulas
+do contrato firmado entre as litigantes e da legislação
+infraconstitucional pertinente. Incidência das
+Súmulas nºs 279, 454 e 636/STF. 3. Agravo regimental
+não provido” (ARE n. 798.102-ED, Relator o Ministro
+Dias Toffoli, Segunda Turma, DJe 1º.7.2015).
+“DIREITO PREVIDENCIÁRIO. INCLUSÃO DA
+PARCELA
+CTVA
+NO
+SALÁRIO
+DE
+CONTRIBUIÇÃO. REGRAS DE SALDAMENTO DO
+PLANO REG/REPLAN. ADESÃO A NOVO PLANO.
+EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O
+MANEJO DO RECURSO EXTRAORDINÁRIO. ART.
+102 DA LEI MAIOR. ACÓRDÃO RECORRIDO
+PUBLICADO EM 19.12.2014. 1. A controvérsia, a teor
+do já asseverado na decisão guerreada, não alcança
+estatura constitucional. Não há falar em afronta aos
+preceitos constitucionais indicados nas razões
+recursais. Compreender de modo diverso exigiria a
+análise da legislação infraconstitucional encampada
+na decisão da Corte de origem, a tornar oblíqua e
+reflexa eventual ofensa, insuscetível, como tal, de
+viabilizar o conhecimento do recurso extraordinário.
+Desatendida a exigência do art. 102, III, a, da Lei
+Maior, nos termos da remansosa jurisprudência
+desta Suprema Corte. 2. As razões do agravo
+regimental não se mostram aptas a infirmar os
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5E5A-F070-DE6E-BDDB e senha C870-3B2E-8672-5E0E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 16 de 18
+
+ARE 1204820 AGR / DF
+fundamentos que lastrearam a decisão agravada. 3.
+Agravo regimental conhecido e não provido” (ARE
+n. 913.015-AgR, Relatora a Ministra Rosa Weber,
+Primeira Turma, DJe 17.12.2015).
+Nada há a prover quanto às alegações da recorrente.
+6. Pelo exposto, nego provimento ao presente recurso
+extraordinário (als. a e b do inc. IV do art. 932 do Código
+de Processo Civil e § 1º do art. 21 do Regimento Interno do
+Supremo Tribunal Federal). “
+De outro lado, a recorrente sustenta que “a Lei 8.987/95
+não se aplica às concessionárias de serviço público criadas por
+lei e que se encontram dentro da Administração Pública, como é
+o caso da ora Recorrente”.
+Essa questão, não foi analisada pelo Tribunal de origem,
+não tendo sido esgotados todos os mecanismos ordinários de
+discussão, INEXISTINDO, portanto, o NECESSÁRIO
+PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate
+e a decisão prévios sobre o tema jurígeno constitucional versado
+no recurso. Incidência das Súmulas 282 (É inadmissível o
+recurso extraordinário, quando não ventilada, na decisão
+recorrida, a questão federal suscitada) e 356 (O ponto omisso da
+decisão, sobre o qual não foram opostos embargos
+declaratórios, não pode ser objeto de recurso extraordinário,
+por faltar o requisito do prequestionamento), ambas desta
+CORTE SUPREMA.
+Diante do exposto, com base no art. 21, § 1º, do Regimento
+Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO
+AO AGRAVO”.
+
+Não há reparo a fazer no entendimento aplicado, pois o Agravo
+Interno não apresentou qualquer argumento apto a desconstituir os
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5E5A-F070-DE6E-BDDB e senha C870-3B2E-8672-5E0E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 17 de 18
+
+ARE 1204820 AGR / DF
+óbices apontados.
+Diante do exposto, nego provimento ao Agravo Interno.
+É o voto.
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5E5A-F070-DE6E-BDDB e senha C870-3B2E-8672-5E0E
+
+Supremo Tribunal Federal
+Extrato de Ata - 16/08/2019
+
+Inteiro Teor do Acórdão - Página 18 de 18
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.204.820
+PROCED. : DISTRITO FEDERAL
+RELATOR : MIN. ALEXANDRE DE MORAES
+AGTE.(S) : CIA DE SANEAMENTO BASICO DO ESTADO DE SAO PAULO SABESP
+ADV.(A/S) : OSMAR MENDES PAIXAO CORTES (15553/DF, 27284/GO,
+164494/MG, 21572-A/MS, 75879/PR, 184565/RJ, 310314/SP)
+AGDO.(A/S) : AUTOPISTA FERNAO DIAS S.A.
+ADV.(A/S) : ALEXANDRE FRAYZE DAVID (41981/PR, 160614/SP)
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+interno, nos termos do voto do Relator. Primeira Turma, Sessão
+Virtual de 9.8.2019 a 15.8.2019.
+Composição: Ministros Luiz Fux (Presidente), Marco Aurélio,
+Rosa Weber, Luís Roberto Barroso e Alexandre de Moraes.
+João Paulo Oliveira Barros
+Secretário da Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6E79-C103-4467-C04F e senha BD57-D921-DA0A-B838
