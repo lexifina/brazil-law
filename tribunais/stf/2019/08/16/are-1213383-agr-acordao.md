@@ -1,0 +1,323 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 8
+
+16/08/2019
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.213.383 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: DANIEL KOLANIAN
+: BENEDICTO CELSO BENICIO
+: CAMILA DE CAMARGO VIEIRA ALTERO
+: UNIÃO
+: PROCURADOR-GERAL DA FAZENDA NACIONAL
+
+EMENTA: AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO
+COM AGRAVO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO
+GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA.
+REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279
+DO STF.
+1. Os recursos extraordinários somente serão conhecidos e julgados,
+quando essenciais e relevantes as questões constitucionais a serem
+analisadas, sendo imprescindível ao recorrente, em sua petição de
+interposição de recurso, a apresentação formal e motivada da repercussão
+geral, que demonstre, perante o Supremo Tribunal Federal, a existência
+de acentuado interesse geral na solução das questões constitucionais
+discutidas no processo, que transcenda a defesa puramente de interesses
+subjetivos e particulares.
+2. A obrigação do recorrente em apresentar formal e motivadamente
+a preliminar de repercussão geral, que demonstre sob o ponto de vista
+econômico, político, social ou jurídico, a relevância da questão
+constitucional debatida que ultrapasse os interesses subjetivos da causa,
+conforme exigência constitucional, legal e regimental (art. 102, § 3º, da
+CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras
+invocações desacompanhadas de sólidos fundamentos no sentido de que
+o tema controvertido é portador de ampla repercussão e de suma
+importância para o cenário econômico, político, social ou jurídico, ou que
+não interessa única e simplesmente às partes envolvidas na lide, muito
+menos ainda divagações de que a jurisprudência do Supremo Tribunal
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 1494-2412-5A81-F9CA e senha 53A3-01C8-8043-4FD2
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 8
+
+ARE 1213383 AGR / SP
+Federal é incontroversa no tocante à causa debatida, entre outras de igual
+patamar argumentativo.
+3. Tendo o acórdão recorrido solucionado as questões a si postas com
+base em preceitos de ordem infraconstitucional, não há espaço para a
+admissão do recurso extraordinário, que supõe matéria constitucional
+prequestionada explicitamente.
+4. A argumentação do recurso extraordinário traz versão dos fatos
+diversa da exposta no acórdão, de modo que seu acolhimento passa
+necessariamente pela revisão das provas. Incide, portanto, o óbice da
+Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso
+extraordinário).
+5. Agravo Interno a que se nega provimento.
+
+AC ÓRDÃ O
+Vistos, relatados e discutidos estes autos, os Ministros do Supremo
+Tribunal Federal, em Primeira Turma, sob a Presidência do Senhor
+Ministro LUIZ FUX, em conformidade com a ata de julgamento e as notas
+taquigráficas, por unanimidade, acordam em negar provimento ao
+agravo interno, nos termos do voto do Relator.
+Brasília, 16 de agosto de 2019.
+Ministro ALEXANDRE DE MORAES
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 1494-2412-5A81-F9CA e senha 53A3-01C8-8043-4FD2
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 8
+
+16/08/2019
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.213.383 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: DANIEL KOLANIAN
+: BENEDICTO CELSO BENICIO
+: CAMILA DE CAMARGO VIEIRA ALTERO
+: UNIÃO
+: PROCURADOR-GERAL DA FAZENDA NACIONAL
+RE LAT Ó RI O
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Interno contra decisão que negou seguimento ao
+Recurso Extraordinário com Agravo, ante (a) a deficiente demonstração
+da repercussão geral da matéria constitucional; (b) a necessidade de
+análise da legislação infraconstitucional; e (c) a aplicação da Súmula
+279/STF.
+Sustenta a parte agravante, em suma, que (a) a repercussão geral foi
+adequadamente fundamentada; (b) a ofensa constitucional é direta; e (c)
+não se trata de reexame de provas.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E2BD-B0A7-FD8D-93CA e senha 38D4-AE8A-63F5-208C
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 4 de 8
+
+16/08/2019
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.213.383 SÃO
+PAULO
+VOTO
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Eis a decisão ora agravada:
+“Decisão
+Trata-se de Agravo contra decisão que inadmitiu Recurso
+Extraordinário interposto em face de acórdão proferido pelo
+Tribunal Regional Federal da 3ª Região, assim ementado (fl. 81,
+Vol. 1):
+“PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS
+À EXECUÇÃO FISCAL. MULTA DE OFÍCIO. AUSÊNCIA
+DE PAGAMENTO DO TRIBUTO. INCIDÊNCIA DO ART.
+44 DA LEI 9.430 /96. PRESCRIÇÃO. INOCORRÊNCIA.
+1. A multa detém natureza punitiva, e vem inserta na
+Lei n. 9.430, de 27.12.1996, a qual dispondo sobre a
+legislação tributária federal, as contribuições para a
+seguridade social e o processo administrativo de consulta,
+entre outras providências, assim delimitou, na Seção V Normas sobre Lançamento de Tributos e Contribuições, Autos de Infração sem Tributo - Multas de Lançamento de
+Ofício, em seu artigo 44, inciso I, com a redação que lhe
+fixou, no ponto, a Lei n°. 11.488, de 2007.
+2. Na forma da lei, o termo inicial da contagem do
+prazo prescricional é a data da constituição definitiva do
+crédito tributário.
+3. No lançamento de ofício por meio de Auto de
+Infração, se o contribuinte, após o lançamento, não
+impugnar o crédito tributário, a constituição definitiva
+ocorrerá ao término do prazo previsto na lei, de trinta dias
+na esfera administrativa federal, para que seja
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D906-CDE0-3EB1-06CD e senha B5B8-50BC-ACCA-FBEC
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 5 de 8
+
+ARE 1213383 AGR / SP
+protocolizada
+a
+impugnação,
+constituindo-se
+definitivamente após esse prazo.
+4. A teor da interpretação dada pelo E. STJ ao
+disposto no art. 174, parágrafo único, do CTN, c.c. o art.
+219, § 1°, do CPC, antes das alterações promovidas pela
+Lei Complementar 118/2005, o marco interruptivo atinente
+à citação do executado retroage à data do ajuizamento do
+feito executivo.
+5. Não ocorreu a prescrição, haja vista que da data da
+constituição dos créditos em 26.08.2001 (quando teve
+início a contagem do prazo prescricional, após o decurso
+de 30 dias da notificação do lançamento), até o
+ajuizamento da ação em 20.07.2004, não decorreu o prazo
+de 05 (cinco) anos.
+6. Apelação improvida.”
+No apelo extremo (fl. 96, Vol. 1), interposto com amparo
+no art. 102, III, “a”, da Constituição Federal, a parte recorrente
+sustenta que o referido acórdão violou o art. 150, IV, da
+CF/1988, alegando, em síntese, que a multa moratória aplicada
+no percentual de 75% é extremamente confiscatória.
+É o relatório. Decido.
+Os recursos extraordinários somente serão conhecidos e
+julgados, quando essenciais e relevantes as questões
+constitucionais a serem analisadas, sendo imprescindível ao
+recorrente, em sua petição de interposição de recurso, a
+apresentação formal e motivada da repercussão geral que
+demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a
+existência de acentuado interesse geral na solução das questões
+constitucionais discutidas no processo, que transcenda a defesa
+puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e
+motivadamente, a repercussão geral que demonstre, sob o
+ponto de vista econômico, político, social ou jurídico, a
+relevância da questão constitucional debatida que ultrapasse os
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D906-CDE0-3EB1-06CD e senha B5B8-50BC-ACCA-FBEC
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 6 de 8
+
+ARE 1213383 AGR / SP
+interesses subjetivos da causa, conforme exigência
+constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art.
+1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º,
+do Regimento Interno do Supremo Tribunal Federal), não se
+confunde com meras invocações, desacompanhadas de sólidos
+fundamentos e de demonstração dos requisitos no caso
+concreto, de que (a) o tema controvertido é portador de ampla
+repercussão e de suma importância para o cenário econômico,
+político, social ou jurídico; (b) a matéria não interessa única e
+simplesmente às partes envolvidas na lide; ou, ainda, de que (c)
+a jurisprudência do SUPREMO TRIBUNAL FEDERAL é
+incontroversa no tocante à causa debatida, entre outras
+alegações de igual patamar argumentativo (ARE 691.595-AgR,
+Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de
+25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN
+LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR,
+Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI
+717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma,
+DJe de 13/8/2012).
+Não havendo demonstração fundamentada da presença
+de repercussão geral, incabível o seguimento do Recurso
+Extraordinário.
+De outro lado, a análise da pretensão recursal foi decidida
+com fundamento na legislação infraconstitucional pertinente
+(Lei 9.430/1996 e 11.488/2007), entre outros fundamentos.
+Trata-se de matéria situada no contexto normativo
+infraconstitucional, de forma que as alegadas ofensas à
+Constituição seriam meramente indiretas (ou mediatas), o que
+inviabiliza o conhecimento do referido apelo.
+Mesmo que fosse possível superar todos esses graves
+óbices, a argumentação recursal traz versão dos fatos diversa da
+exposta no acórdão, de modo que o acolhimento do recurso
+passa necessariamente pela revisão das provas. Incide,
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D906-CDE0-3EB1-06CD e senha B5B8-50BC-ACCA-FBEC
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 8
+
+ARE 1213383 AGR / SP
+portanto, o óbice da Súmula 279 desta CORTE: Para simples
+reexame de prova não cabe recurso extraordinário. Nesse
+sentido:
+“AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO.
+CONSTITUCIONAL
+E
+TRIBUTÁRIO. MULTA FIXADA NO PERCENTUAL DE
+100% DO VALOR DO TRIBUTO. ANÁLISE DO
+CARÁTER CONFISCATÓRIO. REEXAME DE PROVAS.
+SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL.
+PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE
+NEGA PROVIMENTO.” (RE 799.547-AgR, Rel. Min.
+CÁRMEN LÚCIA, Segunda Turma, DJe de 6/5/2014)
+Diante do exposto, com base no art. 21, § 1º, do Regimento
+Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO
+AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+Não se aplica o art. 85, § 11, do Código de Processo Civil
+de 2015, tendo em vista que não houve fixação de honorários
+advocatícios nas instâncias de origem”.
+
+Não há reparo a fazer no entendimento aplicado, pois o Agravo
+Interno não apresentou qualquer argumento apto a desconstituir os
+óbices apontados.
+Diante do exposto, nego provimento ao Agravo Interno.
+É o voto.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D906-CDE0-3EB1-06CD e senha B5B8-50BC-ACCA-FBEC
+
+Supremo Tribunal Federal
+Extrato de Ata - 16/08/2019
+
+Inteiro Teor do Acórdão - Página 8 de 8
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.213.383
+PROCED. : SÃO PAULO
+RELATOR : MIN. ALEXANDRE DE MORAES
+AGTE.(S) : DANIEL KOLANIAN
+ADV.(A/S) : BENEDICTO CELSO BENICIO (133843/RJ, 20047/SP)
+ADV.(A/S) : CAMILA DE CAMARGO VIEIRA ALTERO (242542/SP)
+AGDO.(A/S) : UNIÃO
+PROC.(A/S)(ES) : PROCURADOR-GERAL DA FAZENDA NACIONAL (00000/DF)
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+interno, nos termos do voto do Relator. Primeira Turma, Sessão
+Virtual de 9.8.2019 a 15.8.2019.
+Composição: Ministros Luiz Fux (Presidente), Marco Aurélio,
+Rosa Weber, Luís Roberto Barroso e Alexandre de Moraes.
+João Paulo Oliveira Barros
+Secretário da Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E081-CDF9-DDCC-8510 e senha 3AAC-73B7-7CCB-3606
