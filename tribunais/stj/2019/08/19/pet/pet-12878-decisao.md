@@ -1,0 +1,24 @@
+DECISÃO
+Vistos.
+Trata-se de petição apresentada pelo INSTITUTO DE PREVIDÊNCIA DO MUNICÍPIO DE SÃO BERNARDO DO CAMPO, com fundamento no art. 1.029, § 5º, I, do Código de Processo Civil de 2015, na qual requer a atribuição de efeito suspensivo ao recurso especial, que não foi conhecido em razão da incidência do óbice da Súmula n. 7/STJ (fls. 3/17e).
+Narra que o Recurso Especial foi interposto em virtude do julgamento proferido em sede de Agravo de Instrumento, o qual teve o provimento negado, reconhecendo a preclusão da matéria com relação ao reexame necessário, bem como declarando a liquidez da sentença.
+Defende que a violação do art. 496 do Código de Processo Civil de 2015, isso porque o reexame necessário obsta o trânsito em julgado da decisão condenatória, sendo dispensado somente se a sentença for líquida, nos patamares estabelecidos pela própria Lei.
+Salienta que a sentença é destituída de liquidez, sendo apenas determinada a implantação da pensão por morte sem quantificação dos valores devidos, portanto a certidão de trânsito em julgado seria nula.
+Afirma, ainda, que a condenação em honorários de sucumbência no importe de 20% sobre o valor do proveito econômico acrescido de parcelas vincendas foi proferida em descompasso com os textos normativos vigentes.
+Quanto ao perigo de dano, assinala que a continuidade da execução sem a correção do procedimento processual poderá implicar a requisição de quantias indevidas e sendo pagas serão irreversíveis, argumentando que o passivo do Sistema de Previdência de São Bernardo do Campo é de R$ 11.148.691.264,32 (onze bilhões, cento e quarenta e oito milhões, seiscentos e noventa e um mil e duzentos e sessenta e quatro reais e trinta e dois centavos), embora tenham adotado medidas de contenção.
+Requer, assim, a atribuição de efeito suspensivo ao agravo e, por conseguinte, ao recurso especial.
+Feito o breve relato, decido.
+Inicialmente, considerando o teor da impugnação, bem assim o princípio da fungibilidade, recebo a petição como pedido de tutela provisória de urgência, requerida em caráter antecedente, para atribuição de efeito suspensivo ao agravo em recurso especial, nos termos do art. 300 e seguintes do Código de Processo Civil de 2015.
+Nos termos do art. 288, § 2º, do Regimento Interno desta Corte, o Relator está autorizado a apreciar, monocraticamente, a liminar e a própria tutela de urgência.
+A concessão de tutela provisória de urgência, na nova ordem processual, encontra-se regulada no art. 300 do Código de Processo Civil, in verbis:
+Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+§ 1o Para a concessão da tutela de urgência, o juiz pode, conforme o caso, exigir caução real ou fidejussória idônea para ressarcir os danos que a outra parte possa vir a sofrer, podendo a caução ser dispensada se a parte economicamente hipossuficiente não puder oferecê-la.
+§ 2o A tutela de urgência pode ser concedida liminarmente ou após justificação prévia.
+§ 3o A tutela de urgência de natureza antecipada não será concedida quando houver perigo de irreversibilidade dos efeitos da decisão.
+No caso em exame, verifico que o Requerente formula pedido de tutela provisória a fim de que seja atribuído efeito suspensivo agravo e, consequentemente, ao recurso especial para que não produza efeitos o acórdão proferido no Agravo de Instrumento n. 2044207-89.2019.8.26.0000, que negou provimento ao recurso, reconhecendo a preclusão da matéria com relação ao exame necessário, bem como declarando a liquidez da sentença.
+Conforme relatado pelo Requerente, o recurso especial por ele interposto foi inadmitido pelo Tribunal de Justiça do Estado de São Paulo e, portanto, seria incumbência sua, além da demonstração do perigo de dano ou do risco ao resultado útil do processo, a comprovação da probabilidade do direito.
+Em se tratando de recurso especial inadmitido, a plausibilidade do direito vindicado se traduz tanto na necessidade de demonstração da possibilidade de conhecimento e provimento do recurso especial, quanto na apresentação de argumentos relativos ao manejo e a possibilidade de êxito do agravo em recurso especial.
+In casu, embora tenha reiterado a tese vertida no recurso especial, o Requerente sequer apresentou argumentos atinentes à possibilidade de conhecimento do agravo em recurso especial e à plausibilidade tendente a permitir o seu provimento.
+Assim, sem que haja argumentação relativa à inaplicabilidade do óbice invocado, pelo Tribunal de Justiça do Estado de São Paulo, para inadmitir o recurso especial, resta impossibilitada a análise, de forma ampla, da probabilidade do direito.
+Posto isso, NÃO CONHEÇO DO PEDIDO DE TUTELA, nos termos dos arts. 34, XVIII, a, e 288, § 2º, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intime-se.
