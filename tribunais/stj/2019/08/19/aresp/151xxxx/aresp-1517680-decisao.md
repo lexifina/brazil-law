@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo manejado por Lupatech Equipamentos e Serviços Para Petróleo Ltda - Em Recuperação Judicial, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fl. 78):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO FISCAL. - EXCEÇÃO DE PRÉ-EXECUTIVIDADE. IMPOSSIBILIDADE. IN OCORRÊNCIA DOS REQUISITOS QUE ADMITEM A ANÁLISE DA REFERIDA EXCEÇÃO.
+A exceção de pré-executividade só é admissível quando estiverem presentes os seguintes requisitos: a) indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz: b) indispensável que a decisão possa ser tomada sem necessidade de dilação probatória.
+RECURSO CONHECIMENTO E IMPROVIDO. DECISÃO UNÂNIME.
+Opostos embargos declaratórios, foram rejeitados (fls. 176/180).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, § 1º, e 1.022, II, do CPC/2015. Sustenta, além da existência de divergência jurisprudencial, que: (I) a despeito da oposição de embargos declaratórios, o Tribunal de origem restou omisso quanto as questões aventadas; e (II) "a matéria abordada na Exceção de Pré-Executividade é de ordem pública, não demandando, portanto, dilação probatória, o que permite seu conhecimento de ofício pelo juízo de piso." (fl. 188).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos. É o que se extrai do seguinte excerto (fl. 179):
+Em verdade o verdadeiro intuito do interponente é exclusivamente o reexame da matéria já apreciada e decidida, o que não se permite na órbita de embargos declaratórios, vez que estes não têm o condão de substituir recurso a uma instância superior.
+É de se ressaltar que, inobstante tudo isso, reexaminando o acórdão, verifica-se que a decisão que redundou no acórdão fustigado foi categórica em afirmar, fundamentadamente. o não cabimento da Exceção de Pré-Executividade. como se vê no seguinte trecho:
+"(..)Ocorre que. ademais de não ser tal matéria questão de ordem pública, uma vez que não reconhecível de ofício, ante a inexistência de qualquer das hipóteses previstas em lei. bem como a ausência de qualquer ilegalidade, a ocorrência ou não da nulidade dos créditos exequendos demanda dilação probatória, a qual é absolutamente vedada nesse meio processual. Desse modo. entendo que ademais da matéria não ser considerada de ordem pública, para averiguação dos fundamentos apresentados pelo excipiente seria necessária dilação probatória, a qual é completamente vedada nesse meio de defesa processual. "
+Nesse diapasão, conclui-se que não houve contradição, omissão, erro material ou obscuridade a serrem sanados.
+No que diz respeito à tese de que "a matéria abordada na Exceção de Pré-Executividade é de ordem pública, não demandando, portanto, dilação probatória, o que permite seu conhecimento de ofício pelo juízo de piso." (fl. 188), cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010.
+Ademais, na interposição do recurso especial com base na alínea c do permissivo constitucional é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, não pode ser conhecido o presente recurso especial, nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Nesse mesmo sentido, destacam-se os seguintes precedentes: AgRg no AREsp 123.219/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2012; AgRg no AREsp 83.349/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 7/5/2012.
+Por fim, o acórdão recorrido entendeu não ser cabível a exceção de pré-executividade, ante a necessidade de dilação probatória, nos seguintes termos (fls. 80/81):
+Assim, são requisitos os pressupostos processuais, condições de ação. entre outras. Essas são as matérias sujeitas ã exceção de
+pré-executividade, tratando-se de questões que podem ser conhecidas de ofício, dispensando, portanto, os embargos.
+A exceção de pré-executividade está reservada, portanto, apenas para os casos onde haja flagrante causa de nulidade da execução, ou
+mesmo prova de efetivo c induvidoso pagamento do título ou na ausência de pressupostos ou de condições da ação.
+A exceção cabe. portanto, quando o vício é evidente, o que não ocorreu no presente caso sub judice: cujo título, aparentemente, se presume
+válido, não se podendo comprovar de plano sua alegada nulidade. Neste caso. caberia embargos à execução onde a parte executada poderia
+alegar toda matéria/alegações de defesa.
+Dessa forma, não há que se falar cm falta de exigibilidade do título cm questão.
+Desta forma, analisando sumariamente a presente controvérsia, constato que a medida adotada pelo Juízo a quo fora correta.
+Vislumbro, portanto, ausente a "probabilidade do direito", tendo em vista entender, neste momento, em cognição sumária, ser
+irrctorquívcl a decisão agravada.
+Desta forma, não merecem acolhimento as argumentações apresentadas pelo(s) Reeorrente(s).
+ Esse entendimento encontra-se em harmonia com a jurisprudência deste Superior Tribunal de Justiça, consignado na Súmula 393, no sentido de que a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória.
+Assim, fixada essa premissa, ressai que a alteração dessa conclusão adotada pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO FISCAL - REDIRECIONAMENTO - DISSOLUÇÃO IRREGULAR DE SOCIEDADE - SÚMULAS 7, 211/STJ E 283/STF.
+1. Tendo o Tribunal de origem firmado entendimento de que a exceção de pré-executividade não seria o meio adequado para questionar a legitimidade passiva do sócio-gerente, diante da necessidade de dilação probatória, não há como esta Corte rever tal premissa, sem revolver o acervo documental dos autos. Incidência da Súmula 7/STJ.
+2. Descabe análise de tese relativa à prescrição quando o recorrente não impugna os fundamentos de que se valeu a instância a quo para julgar a matéria. Aplicação da Súmula 283/STF.
+3. Inviável a esta Corte emitir juízo de valor sobre tese que, apesar da oposição de embargos declaratórios, não foi prequestionada na origem (Súmula 211/STJ).
+4. Agravo regimental não provido.
+(AgRg no AREsp 224.233/PA, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 15/10/13, DJe 24/10/13)
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE LEGITIMIDADE AD CAUSAM. NECESSIDADE DE DILAÇÃO PROBATÓRIA RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. Nos termos da Súmula 393/STJ, "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória." 2. Na hipótese dos autos, o Tribunal de origem reconheceu a necessidade de dilação probatória para a comprovação da tese de ilegitimidade passiva ad causam. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 429.534/RJ, da minha relatoria, PRIMEIRA TURMA, julgado em 10/12/2013, DJe 17/12/2013)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
