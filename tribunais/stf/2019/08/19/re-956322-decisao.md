@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “AGRAVO. APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. AÇÃO POPULAR. MUNICÍPIO DE BOA VISTA DO BURICÁ. LEIS MUNICIPAL Nº 2082004. CUMULAÇÃO DA REMUNERAÇÃO RECEBIDA COMO SERVIDOR PÚBLICO COM PARCELA DO SUBSÍDIO DE PREFEITO E VICE-PREFEITO. INADEQUAÇÃO DA AÇÃO POPULAR PARA DECLARAÇÃO DE ILEGLIDADE E INCONSTITUCIONALIDADE DE LEI. IMPROPRIEDADEDA VIA ELEITA. EXTINÇÃODA AÇÃO.IMPOSSIBILIDADE JURÍDICA DO PEDIDO.
+    Conquanto exista o apontamento de ilegalidade do ato por violação a Constituição Federal (especificamente, do art. 38,II), ao fim e ao cabo o pedido do recorrido (ainda que referente ao ressarcimento dos valores indevidamente recebidos pelos agentes políticos antes referidos) só poderá ser acolhido com a declaração incidental de inconstitucionalidade da Lei Municipal nº 20/2004, que não pode simplesmente ser desconsiderada para fins de análise da legalidade do ato.
+    E para tal fim não serve a ação popular, a qual se limita à análise específica da legalidade do ato, não servindo para a declaração de ilegalidade/inconstitucionalidade de qualquer tipo de legislação. Precedentes do STJ e do TJRS. AGRAVO DESPROVIDO, POR MAIORIA." (fls. 199).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação do art. 38, II, da mesma Carta. Afirma a possibilidade do controle difuso de constitucionalidade na ação popular.
+    A pretensão recursal merece acolhida.
+    Esta Corte firmou entendimento no sentido de admitir o controle difuso de constitucionalidade, implementado por qualquer Juízo nos processos em geral, inclusive coletivo, desde que a alegação de inconstitucionalidade não se confunda com o pedido principal da causa. Nesse sentido:
+    “CONTROLE DE CONSTITUCIONALIDADE – IMPLEMENTO E ESPÉCIES. Descabe confundir o controle concentrado de constitucionalidade com o difuso, podendo este último ser implementado por qualquer Juízo nos processos em geral, inclusive coletivo, como é a ação civil pública – precedentes: Recursos Extraordinários nº 424.993/DF, relator ministro Joaquim Barbosa, e 511.961/SP, relator ministro Gilmar Mendes, acórdãos publicados, respectivamente, no Diário da Justiça eletrônico de 19 de outubro de 2007 e 13 de novembro de 2009.” (Rcl 8.605-AgR, Rel. Min. Marco Aurélio).
+    “DIREITO CONSTITUCIONAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE DE LEI. CONFUSÃO COM O PEDIDO PRINCIPAL. IMPOSSIBILIDADE. DECISÃO ALINHADA À JURISPRUDÊNCIA DO STF.
+    1. O Supremo Tribunal Federal firmou o entendimento no sentido de se admitir o controle difuso de constitucionalidade em ação civil pública desde que a alegação de inconstitucionalidade não se confunda com o pedido principal da causa. Precedentes.
+    2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973.” ( RE 595.213-AgR/, Rel. Min. Roberto Barroso).
+    Isso posto, dou provimento ao recurso (art. 21, § 2°, do RISTF) para determinar que seja observada a jurisprudência desta Corte, conforme a fundamentação acima.
+    Publique-se.
+    Brasília, 19 de agosto de 2019.
+Ministro Ricardo Lewandowski
+Relator
