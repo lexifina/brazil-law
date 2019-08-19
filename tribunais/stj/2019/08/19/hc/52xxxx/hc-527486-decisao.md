@@ -1,0 +1,18 @@
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. FALTA DE CABIMENTO. FUGA DO ESTABELECIMENTO PRISIONAL. PRETENSÃO DE AFASTAMENTO DE INFRAÇÃO DISCIPLINAR DE NATUREZA GRAVE E DE SEUS CONSECTÁRIOS LEGAIS. PEDIDO QUE ESBARRA NA JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
+DECISÃO
+O presente habeas corpus, impetrado em benefício de [NOME], contra o acórdão que negou provimento ao agravo em execução interposto pela defesa perante o Tribunal a quo (Agravo de Execução Penal n. 0143908-47.2018.8.21.7000), sendo, portanto, substitutivo de recurso especial, não comporta processamento.
+Busca a impetrante, além do reconhecimento da atipicidade da falta disciplinar consistente em fuga do estabelecimento prisional, o afastamento dos consectários legais.
+Ocorre que, além de as questões apresentadas serem afetas ao recurso especial, as razões invocadas não merecem subsistir, uma vez que totalmente contrárias à jurisprudência deste Superior Tribunal, firme no sentido de que a prática de falta disciplinar de natureza grave enseja a regressão de regime prisional, a interrupção do prazo para a progressão de regime e a perda dos dias remidos.
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. PRÁTICA DE NOVO CRIME NO CURSO DA EXECUÇÃO. FALTA GRAVE. TIPICIDADE. INDEPENDENTE DE CONDENAÇÃO PENAL DEFINITIVA. REGRESSÃO DE REGIME, INTERRUPÇÃO DO PRAZO PARA CONCESSÃO DE NOVOS BENEFÍCIOS E PERDA DE DIAS REMIDOS NO PATAMAR MÁXIMO. CONSECTÁRIOS LEGAIS JÁ CONSOLIDADOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Esta Corte Superior de Justiça possui entendimento no sentido de que, a teor do art. 118, I, da LEP, o reeducando que comete fato definido como crime incorre em falta grave, mesmo sem o trânsito em julgado da sentença penal condenatória referente ao novo delito (AgRg no HC n. 478.724/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/04/2019, DJe 06/05/2019).
+3. São consectários do reconhecimento da prática de falta grave a regressão do regime prisional, o estabelecimento de novo marco para benefícios da execução - exceto livramento condicional, comutação e indulto -, bem como a perda dos dias remidos, independente do trânsito em julgado de eventual sentença penal condenatória referente ao delito cometido no curso da execução. (HC n. 399.472/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/10/2017, DJe 30/10/2017)
+4. Consolidou-se nesta Corte entendimento no sentido de que a falta grave consistente em novo crime justifica a adoção do percentual máximo de perda dos dias remidos (art. 127 da Lei de Execução Penal - LEE). (HC 466.243/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/11/2018, DJe 10/12/2018).
+5. No caso, o paciente cometeu novo delito (roubo majorado), no dia 17/7/2018, no decorrer da execução penal, e, mais ainda, quando estava em gozo de livramento condicional, tendo sido decretada a prisão preventiva e recebida a denúncia, havendo, assim, indícios suficientes de materialidade e autoria. Tal fato ensejou todos esses consectários legais acima mencionados, independentemente de sentença penal transitada em julgado.
+6. Habeas corpus não conhecido.
+(HC 515.284/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 5/8/2019 - grifo nosso)
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
