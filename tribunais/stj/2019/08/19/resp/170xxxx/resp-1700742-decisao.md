@@ -1,0 +1,32 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Fazenda Nacional, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 4ª Região assim ementado (e-STJ, fl. 377):
+AGRAVO LEGAL. DECISÃO DENEGATÓRIA DE SEGUIMENTO A RECURSO. ARTIGO 557, "CAPUT" DO CPC. Ausentes elementos a alterar a convicção firmada pela Relatora quando da análise do pedido inicial, deve ser mantida a decisão denegatória de seguimento a recurso. Agravo legal desprovido.
+Os embargos de declaração opostos contra aludida decisão foram parcialmente providos nos termos da seguinte ementa (e-STJ, fl. 485):
+EMBARGOS DECLARATÓRIOS. FUNDAMENTOS AGREGADOS AO JULGADO. MANUTENÇÃO DA DECISÃO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. SENTENÇA DE EXTINÇÃO. ERRO MATERIAL. ARTIGO 463 DO CPC/73.
+Constatado que havia valores remanescentes a serem executados é certo que a sentença de extinção da execução não pode transitar em julgado, sob pena de enriquecimento ilícito por parte da União.
+Ao proferir sentença extinguindo a execução quando apenas os valores incontroversos haviam sido pagos, é inequívoco que procedeu em erro material o julgador, já que haviam valores controvertidos que não foram pagos, embora reconhecidos no julgamento dos embargos à execução.
+Embargos parcialmente providos para agregar fundamentos.
+A recorrente alega a existência de contrariedade aos arts. 463, 467, 468, 469, 471 e 479, assim como ao art. 794, I, todos do CPC/1973, sob o argumento de que a sentença extintiva da execução, no caso concreto, fez coisa julgada.
+Sem contrarrazões.
+Admitido o recurso especial na origem, os autos vieram-me conclusos.
+É o relatório.
+No caso dos autos, o Tribunal de origem afirma que não houve coisa julgada, mas tão somente erro material corrigido a tempo pelo magistrado a quo.
+Confira-se a seguinte passagem do aresto (e-STJ, fl. 487):
+No caso dos autos, não restam dúvidas de que há valores remanescentes a serem executados por [NOME] e a sentença de extinção da execução não pode transitar em julgado, sob pena de enriquecimento ilícito por parte da União.
+Ao proferir sentença extinguindo a execução quando apenas os valores incontroversos haviam sido pagos, é inequívoco que procedeu em erro material o julgador, já que haviam valores controvertidos que não foram pagos, embora reconhecidos no julgamento dos embargos à execução.
+A primeira decisão do magistrado a quo, que restou agravada, inclusive especifica o valor fixado nos embargos como devidos (R$ 34.999,00 - posicionado em 04/2013), sendo que foram pagos os incontroversos de R$ 27.485,20 (evento32).
+Repita-se que, por engano, o magistrado após o levantamento dos R$ 27.485,20 (vinte e sete mil quatrocentos e oitenta e cinco reais e vinte centavos), equivocadamente extinguiu o feito executivo pelo pagamento. Posteriormente, em pedido de reconsideração, promoveu a correção do erro, fulcrado no artigo 463 do CPC/73.
+Para se afastar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso e verificar se houve coisa julgada, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, em virtude do óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+A propósito:
+PROCESSUAL CIVIL. AGRAVO CONTRA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. AUSÊNCIA PARCIAL DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA 211 DO STJ. ALEGAÇÃO DE COISA JULGADA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO PRODUZIDO NOS AUTOS. SÚMULA 7/STJ.
+1. Cuida-se de Agravo Interno interposto contra decisão monocrática, que negou seguimento ao recurso interposto, com base no art. 932 do CPC.
+2. Conforme acentuado na decisão recorrida, a indicada afronta ao art. 46 da Lei 8.541/1992; aos arts. 3º e 7º , § 1º , e 12-A da Lei 7.713/1988 e aos arts. 105, 106, 111, 144 e 176 do CTN não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando o artigo tido por violado não foi apreciado pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ. Ao contrário do entendimento da embargante, a questão em apreço não foi debatida nem ao menos implicitamente durante toda a fase processual, portanto não existiu prequestionamento da matéria controvertida.
+4. Ademais, para que o Recurso Especial possa ser analisado pelo STJ, a Corte Regional deverá ter apreciado a matéria controvertida ao menos implicitamente. A exigência de prequestionamento da questão continua incólume mesmo com a vigência do novo diploma processual. Além disso, o art. 1.025 do CPC exige que o acórdão reprochado contenha erro, omissão, contradição ou obscuridade, o que não é o caso dos autos.
+5. O Tribunal a quo assentou que a fórmula de cálculo do imposto de renda não foi "objeto de apreciação", "Portanto, não tendo sido objeto de apreciação a forma de cálculo do IRPF, não há que se falar em violação a coisa julgada". Para alterar a conclusão a que chegou a Corte estadual sobre a inexistência de coisa julgada na hipótese dos autos, necessário reexame de provas, o que é impossível ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+6. O Tribunal de origem, ao analisar a questão, fê-lo com base no princípio constitucional da Isonomia, o que afasta a análise pelo STJ, sob pena de invadir a competência do STF, e não emitiu juízo de valor a respeito da lei federal tida por violada. Assim, incide a Súmula 126 do STJ: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamento constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+7. Agravo Interno não provido.
+(AgInt no REsp 1.769.578/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 1º/7/2019)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
