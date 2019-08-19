@@ -1,0 +1,39 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
+1. Inexistente qualquer ambiguidade, obscuridade, omissão ou contradição a ser sanada, uma vez que o acórdão embargado explicitou as razões que levaram ao desprovimento do regimental.
+2. Não se prestam os embargos de declaração para rediscutir matéria já devidamente enfrentada e decidida pelo acórdão embargado, tampouco para acrescer nova tese à irresignação.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de embargos de declaração opostos por [NOME] contra acórdão proferido pela Quinta Turma desta Corte superior, que negou provimento ao agravo regimental, assim ementado (e-STJ fls. 1.198-1.199):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO. PLEITO ABSOLUTÓRIO. PROVAS DA MATERIALIDADE E AUTORIA PRODUZIDAS EM JUÍZO. REEXAME DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA N. 7/STJ. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADE CRIMINOSA. AFASTAMENTO DA MINORANTE JUSTIFICADO. REGIME PRISIONAL. FECHADO. GRAVIDADE CONCRETA DO DELITO. NATUREZA E VARIEDADE DO ENTORPECENTE APREENDIDO. INSURGÊNCIA DESPROVIDA.
+1. Devidamente fundamentada pelas instâncias de origem a prolação do édito condenatório em desfavor do agravante, com o reconhecimento da estabilidade e permanência necessários, além da autoria do delito de associação para o tráfico de entorpecentes, a pretensão de absolvição na via especial é providência vedada, ante o óbice da Súmula n. 7/STJ.
+2. Para a aplicação da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, o agente deve preencher, cumulativamente, os seguintes requisitos: ser primário, de bons antecedentes, não se dedicar às atividades criminosas nem integrar organização criminosa.
+3. "A condenação pelo crime de associação para o tráfico (art. 35 da Lei n. 11.343/2006) denota a dedicação do agente às atividades criminosas e, por conseguinte, por si só, impede a incidência da minorante do art. 33, § 4.º, da Lei n.º 11.343/2006" (HC 480.782/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 13/12/2018, DJe 04/02/2019).
+4. A gravidade concreta do delito representada pela natureza e variedade de entorpecentes apreendidos justifica o estabelecimento de regime prisional mais severo do que a quantidade de pena aplicada.
+5. Agravo regimental desprovido.
+Segundo o embargante (e-STJ fls. 1.215-1.241), o acórdão padeceria de contradição, pois manteve regime prisional mais severo do que a quantidade da pena privativa de liberdade aplicada com esteio na variedade e na natureza das drogas apreendidas. Apesar disso, "a diversidade de drogas apreendidas em poder do embargante (01 (uma) porção de "maconha" embalada em plástico verde, 01 (uma) porção de "maconha" embalada em plástico branco, 01 (uma) porção de "haxixe", 01 (uma) porção de "cocaína", 184g (cento e oitenta e quatro gramas) de um pó branco, mais 04 (quatro) tabletes de "maconha"), somando-se tudo não se chega a uma quantidade expressiva que justifique a imposição do regime mais gravoso, considerando-se ainda que o v. acórdão entendeu que o embargante é primário, de bons antecedentes e que à época do fato era menor de 21 (vinte e um) anos" (e-STJ fls. 1.217-1.218).
+Acrescenta que, na época dos crimes, era menor de 21 anos de idade, que é primário e não possui antecedentes, o que autorizaria a iniciar o cumprimento da pena privativa de liberdade de 8 anos de reclusão em regime semiaberto, ex vi do art. 33, § 2º, b, do Código Penal, Súmulas n. 718 e 719 do Supremo Tribunal Federal e 440 do Superior Tribunal de Justiça e, ainda, jurisprudência deste Tribunal superior.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): A irresignação não comporta acolhimento.
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão". Por construção jurisprudencial, os embargos declaratórios têm sido admitidos com o fito de sanar eventual erro material na decisão embargada.
+Diversamente do que afirma o embargante, o acórdão não é contraditório, porquanto justificou satisfatoriamente que a natureza e a quantidade de entorpecentes apreendidos autorizavam a fixação de regime prisional mais severo do que o equivalente ao quantum de pena privativa de liberdade. Essa faculdade encontra-se autorizada pelos arts. 42 da Lei n. 11.343/2006 e 33, § 3º, do CP.
+Pretende, em verdade, o embargante, a rediscussão da matéria, com o fito de obter efeitos infringentes, reformando-se o julgado. Entretanto tal hipótese somente é possível em casos excepcionais, quando reconhecida a existência de algum dos defeitos elencados no dispositivo legal mencionado, impondo-se a alteração do julgado como consequência da correção do vício ou do reconhecimento de erro material, inocorrentes na espécie.
+Ora, mostra-se de todo descabida a pretensão de rejulgamento da causa na via estreita dos embargos declaratórios, salientando-se que esta Quinta Turma prestou devidamente a tutela jurisdicional postulada, conhecendo e analisando as teses deduzidas na inicial do recurso especial, tendo decidido as questões à luz da orientação sedimentada neste STJ.
+Nesse sentido (destaques acrescidos):
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. CARÁTER PROTELATÓRIO. EMBARGOS NÃO ACOLHIDOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir ambiguidade, obscuridade, contradição ou omissão existente no julgado. Não se prestam, portanto, para sua revisão, no caso de mero inconformismo da parte.
+2. Conforme a consolidada jurisprudência desta Corte, o órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte, mas somente sobre os que entender necessários ao deslinde da questão, de acordo com o livre convencimento fundamentado.
+3. Tendo o acórdão embargado resolvido, de forma clara e com fundamentação adequada, a matéria discutida no feito, a insistência na sua rediscussão revela, na verdade, caráter procrastinatório.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 781.965/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/04/2018, DJe 25/04/2018).
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DO JULGADO. INVIABILIDADE.
+1. Não há se falar em contradição entre o o voto do relator e o voto vista, quando o julgamento se deu por unanimidade, demonstrando a integral adesão ao primeiro.
+2. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição ou omissão (art. 619 do Código de Processo Penal), não se prestando à manifestação de inconformismo ou à rediscussão do julgado.
+2. Embargos de declaração rejeitados.
+(EDcl nos EDcl no RHC 55.105/PE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 24/04/2018, DJe 02/05/2018).
+Ante o exposto, rejeitam-se os embargos declaratórios.
+É o voto.
