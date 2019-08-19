@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. LEI COMPLEMENTAR ESTADUAL Nº 836/1997 E RESOLUÇÃO SE Nº 08/2012 CONTESTADAS EM FACE DA LEI FEDERAL Nº 11.350/2006. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ART. 102, III, "D", DA CF. INTERPRETAÇÃO DE DIREITO LOCAL. IMPOSSIBILIDADE. SÚMULA Nº 280/STF.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza omissão, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional. Precedentes.
+2. A Constituição Federal, em seu artigo 102, III, "d", revela a competência do Supremo Tribunal Federal para julgar, em recurso extraordinário, as causas em última instância que julgar válida lei local contestada em face de lei federal.
+3. O acolhimento das proposições recursais é vedado a este Superior Tribunal de Justiça, em decorrência da aplicação do disposto na Súmula 280/STF: "por ofensa a direito local não cabe recurso extraordinário".
+4. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão, Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por [NOME] GOMES DA SILVA e OUTROS contra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 02/STJ. LEI COMPLEMENTAR ESTADUAL Nº 836/1997 E RESOLUÇÃO SE Nº 08/2012 CONTESTADAS EM FACE DA LEI FEDERAL Nº 11.350/2006. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ART. 102, III, "D", DA CF. INTERPRETAÇÃO DE DIREITO LOCAL. IMPOSSIBILIDADE. SÚMULA Nº 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+No presente recurso, sustenta-se que
+não há que se cogitar a incidência do óbice contido na Súmula nº 280 do STF, pois os autores não alegam, em nenhuma pass agem dos autos, afronta a lei estadual. Não há nada a se reexaminar no direito local. Muito pelo contrário. A mera leitura do recurso especial é suficiente para se verificar que os autores alegam violação a lei federal, o que sequer foi enfrentado pela r. decisão ora agravada.  ..  A composição da jornada de trabalho dos professores está prevista na Lei Federal do Piso Nacional. Portanto, a sua não observância ocasiona, logicamente, afronta direta à mencionada lei federal.  ..  o Tribunal local não externou seu posicionamento acerca da conformidade ou não da Lei Complementar Estadual nº 836/97 com o limite imposto no artigo 2º, § 4º, da LF nº 11.738/2008, não há como se alegar que o acórdão recorrido teria julgado válida lei local em face de lei federal. Sem prejuízo, é oportuno observar que, no caso em tela, o que existe é afronta direta à Leis Federal nº 11.738/2008 (artigo 2º, § 4º), sobretudo porque, a partir da edição da lei do piso salarial profissional nacional, editada pela União para legislar sobre normas gerais sobre educação, automaticamente já estava suspensa a eficácia da lei estadual (no caso, da LCE nº 836/97) no que lhe fosse contrário (isto é, sobre a distribuição da carga horária dos professores do Estado de São Paulo entre atividades com educandos e atividades extraclasse).
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. LEI COMPLEMENTAR ESTADUAL Nº 836/1997 E RESOLUÇÃO SE Nº 08/2012 CONTESTADAS EM FACE DA LEI FEDERAL Nº 11.350/2006. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ART. 102, III, "D", DA CF. INTERPRETAÇÃO DE DIREITO LOCAL. IMPOSSIBILIDADE. SÚMULA Nº 280/STF.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza omissão, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional. Precedentes.
+2. A Constituição Federal, em seu artigo 102, III, "d", revela a competência do Supremo Tribunal Federal para julgar, em recurso extraordinário, as causas em última instância que julgar válida lei local contestada em face de lei federal.
+3. O acolhimento das proposições recursais é vedado a este Superior Tribunal de Justiça, em decorrência da aplicação do disposto na Súmula 280/STF: "por ofensa a direito local não cabe recurso extraordinário".
+4. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Não há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi. Em verdade, constata-se que o Tribunal a quo enfrentou a matéria posta em debate na medida necessária para o deslinde da controvérsia ao afirmar que o Estado de São Paulo já respeita a disciplina interna das horas de trabalho dos docentes. A solução integral da controvérsia, com fundamento suficiente, não caracteriza omissão (cf. AgRg no AREsp 434.846/PB, Rel. Min. HERMAN BENJAMIN, DJe 19/03/2014), pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional (cf. AgRg no AREsp 315.629/RJ, Rel. Min. OG FERNANDES, DJe 21/03/2014; AgRg no AREsp 453.623/SP, Rel. Min. SÉRGIO KUKINA, DJe 21/03/2014).
+Quanto ao mérito, no especial, alegou-se
+a violação direta à Lei Federal nº 11.738108 (Lei do Piso Nacional) decorreu da não observância do limite imposto em seu artigo 2º, § 4º e, sendo norma hierarquicamente superior a norma estadual  ..  E mesmo após a edição da Resolução SE nº 08112, o Estado de São Paulo continuou a não observar a composição da jornada de trabalho estipulada pela Lei do Piso Nacional, na medida em que com ela apenas limitou a 213 (dois terços) o período de aula ministrada e não as atividades de interação com os educandos, como determina a Lei Federal nº 11.738/08. Quando é sabido que as atividades de interação com o educando não se limitam na tarefa de ministra aula.  .. .
+Consoante jungido à decisão agravada, a Constituição Federal, em seu artigo 102, III, "d", revela a competência do Supremo Tribunal Federal para julgar, em recurso extraordinário, as causas em última instância que julgar válida lei local contestada em face de lei federal.
+O acolhimento das proposições recursais é vedado a este Superior Tribunal de Justiça, em decorrência da aplicação do disposto na Súmula 280/STF: "por ofensa a direito local não cabe recurso extraordinário".
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
