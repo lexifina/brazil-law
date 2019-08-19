@@ -1,0 +1,27 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Luis Felipe Salomão votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Tratam os autos de embargos de declaração no agravo interno no agravo em recurso especial, opostos por SOCIEDADE IBGEANA DE ASSISTÊNCIA E SEGURIDADE - SIAS, contra o v. acórdão, proferido pela eg. Quarta Turma, assim ementado (fl. 245):
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+1. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a aplicação do art. 932, III, do Código de Processo Civil de 2015.
+2. Agravo interno desprovido."
+Nos embargos de declaração, SOCIEDADE IBGEANA DE ASSISTÊNCIA E SEGURIDADE - SIAS afirma que o v. acórdão padece de omissão, sob o argumento, entre outros, de que o "(..) entendimento de que a Embargante não impugnou especificamente todos os fundamentos da decisão que não admitiu o recurso especial, incidindo na Súmula 83 desse E. STJ, segundo a qual não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida . Todavia não demonstra quais os pontos que deixaram de ser impugnados pela Embargante, isto porque o agravo interno impugnou, especificamente, o entendimento adotado pelo Tribunal a quo que aplicou ao caso a jurisprudência desse E. Superior Tribunal de Justiça que trata da impossibilidade de restituição de valores, de caráter alimentar, recebidos de boa-fé " (fl. 259).
+Aduz, também, que, "(..) Além da impugnação acima às razões que ensejaram na negativa de processamento do seu recurso especial pelo Tribunal a quo, a Embargante também demonstrou que a decisão recorrida estava em dissonância com a jurisprudência aplicável ao caso (fl. 260).
+Por fim, alega que (..) a Embargante impugnou o entendimento adotado pelo Tribunal a quo que entendeu pela existência de boa-fé no recebimento da quantia, isto porque a Embargante comprovou em seu recurso a má-fé da Embargada no recebimento de uma grande quantia em dinheiro referente obrigação que já havia dado quitação. Nesse sentido, a Embargante colacionou a jurisprudência aplicável ao caso e apontou a dissonância entre a decisão recorrida proferida pelo Tribunal a quo e o entendimento desse E. Superior Tribunal de Justiça nos casos em que, assim como na presente demanda, há má-fé no recebimento de quantia indevida (..) (fl. 263).
+Sem impugnação (vide certidão à fl. 268).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+In casu, inexiste o vício apontado nos declaratórios, pois o v. acórdão embargado assentou que a agravante, em sede de agravo em recurso especial, não rebateu todos os fundamentos que ensejaram a negativa de seguimento ao recurso especial, deixando de impugnar, especificamente, que a decisão recorrida se encontra em consonância com a jurisprudência do STJ, incidindo, portanto, o óbice da Súmula 83/STJ. Assim, nos termos da Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (Súmula 182, CORTE ESPECIAL, julgado em 05/02/1997, DJ de 17/02/1997, p. 2.231).
+Com efeito, na detida leitura das razões do agravo em recurso especial (fls. 183-192), verifica-se que a ora agravante, de fato, não rebateu o referido óbice, ou seja, que a decisão proferida pelo eg. TJ-RJ estava de acordo com a jurisprudência do STJ e, por tal motivo, o apelo especial tinha óbice da Súmula 83/STJ.
+Evidencia-se, pois, que os embargos de declaração em apreço representam mera tentativa de rediscutir temas devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração.
+Como dito, os aclaratórios constituem recurso de estritos limites processuais cujo cabimento requer estejam presentes os pressupostos legais insertos no art. 1.022 do Código de Processo Civil de 2015. Tal recurso, portanto, é incompatível com a pretensão de se obter efeitos infringentes.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, rejeitam-se os embargos de declaração.
+É como voto.
