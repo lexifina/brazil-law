@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TRF da 4ª Região assim ementado (e-STJ, fl. 465):
+ADMINISTRATIVO. "AUXILIAR OPERACIONAL DE SERVIÇOS DIVERSOS". CONTAGEM DE TEMPO DE SERVIÇO COMO SEGURADO ESPECIAL. APOSENTADORIA. PERCEPÇÃO DE ADICIONAL DE INSALUBRIDADE. INEXISTÊNCIA DE PROVA SOBRE AS CONDIÇÕES DO LABOR DESEMPENHADO.
+1. Em não sendo possível o enquadramento por categoria profissional, tampouco sendo trazidas aos autos provas da exposição da parte autora a agentes nocivos, não há como acolher o pedido de contagem de tempo de serviço como segurado especial, para fins de aposentadoria.
+2. O recebimento do adicional de insalubridade não induz por si só ao reconhecimento da contagem de tempo de serviço como segurada especial para fins de concessão de aposentadoria.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 474-480).
+A recorrente aponta malferimento do art. 165 do CPC/1973, porquanto o Tribunal de origem não fundamentou corretamente o acórdão combatido, uma vez que não explicitou quais são os documentos cabíveis para comprovação do direito pleiteado.
+Aduz afronta ao art. 364 do CPC/1973, pois os documentos apresentados são dotados de fé pública, e sustenta que, apenas com a Lei n. 9.032/1995, tornou-se obrigatória a apresentação de laudo técnico para o fim de caracterizar a atividade como penosa, insalubre e perigosa.
+Afirma que, no período em que exerceu atividade insalubre, era suficiente que o segurado estivesse enquadrado no Decreto n. 53.831/1964 e no Decreto n. 83.080/1979.
+Sustenta que, em razão da limitação da insurgente em apresentar todas as provas, o Tribunal de origem deveria ter oficiado ao recorrido para que apresentasse os documentos necessários com fundamento nos arts. 130, 334, III, 355 do CPC/1973.
+É o relatório.
+Não assiste razão à recorrente.
+Inicialmente, verifico que a matéria referente aos arts. 130, 165, 334, III, 355, 364 do CPC/1973 não foi objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 211 desta Corte e 282 do Supremo Tribunal Federal.
+Confira-se, dentre inúmeros, o seguinte precedente:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE, COM FUNDAMENTO EM LAUDO PERICIAL, CONCLUIU PELA INEXISTÊNCIA DE INCAPACIDADE LABORATIVA. ALEGADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. NECESSIDADE DE ANALISAR AS CONDIÇÕES PESSOAIS DA SEGURADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial, interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de ação ajuizada pela ora agravante em face do INSS, objetivando a concessão de aposentadoria por invalidez ou auxílio-doença. O Juízo de 1º Grau julgou improcedente o pedido e o Tribunal a quo negou provimento à Apelação da parte autora, com fundamento no laudo pericial.
+III. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. Segundo entendimento desta Corte, "não há violação do art. 535, II, do CPC/73 quando a Corte de origem utiliza-se de fundamentação suficiente para dirimir o litígio, ainda que não tenha feito expressa menção a todos os dispositivos legais suscitados pelas partes" (STJ, REsp 1.512.361/BA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 22/09/2017).
+V. A necessidade de verificar as condições pessoais da segurada não foi objeto de analise, pela Corte de origem. Logo, não foi cumprido o necessário e indispensável prequestionamento da questão, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos Embargos Declaratórios.
+Assim, incide, no caso, a Súmula 211 do Superior Tribunal de Justiça, segundo a qual é "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+VI. Não configura impropriedade afirmar a falta de prequestionamento da matéria e afastar indicação de afronta ao art. 535 do CPC/73, uma vez que é perfeitamente possível o julgado encontrar-se devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está o magistrado obrigado. Precedentes do STJ.
+VII. Agravo interno improvido.
+(AgInt no AREsp 1.002.789/MG, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 17/6/2019)
+Relativamente, à violação dos Decretos n. 53.831/1964 e 83.080/1979, observo que a insurgente não pontua os dispositivos de lei violados. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+Ainda que assim não fosse, revisar o entendimento do Tribunal de origem, no tocante à exposição da recorrente a agentes insalubres durante o período em que trabalhava, implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7 do STJ.
+Por fim, instrução normativa não se equipara a conceito de lei federal para fins de interposição de recurso especial.
+Em idêntica direção:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO DEMONSTRADA. PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. INDEFERIMENTO. REEXAME DO PERICULUM IN MORA E DO FUMUS BONI IURIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. IN 17/2011. DISPOSIÇÃO NORMATIVA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto que a Corte de origem apreciou todas as questões relevantes ao deslinde da controvérsia de modo integral e adequado, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. Hipótese em que o Tribunal local consignou não estarem preenchidos os pressupostos legais para concessão do pedido de antecipação dos efeitos da tutela.
+3. A jurisprudência deste Tribunal Superior é pacífica no sentido de que é incabível, em Recurso Especial, o exame acerca da presença ou não dos pressupostos autorizadores da concessão da tutela liminar, referentes ao periculum in mora e ao fumus boni iuris. Incide, na espécie, a Súmula 7 do STJ.
+4. Consigne-se, por oportuno, que a jurisprudência do STJ possui o entendimento de que a Ação Rescisória não é o meio adequado para a correção de suposta injustiça da Sentença, apreciação de má interpretação dos fatos ou de reexame de provas produzidas, tampouco para complementá-la.
+5. Não é possível a interposição do Recurso Especial sob a alegação de contrariedade a ato normativo secundário, tais como Resoluções, Portarias, Regimentos, Instruções Normativas e Circulares, bem como a Súmulas dos Tribunais, por não se equipararem ao conceito de lei federal.
+6. Recurso Especial não conhecido.
+(REsp 1.722.614/PR, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 23/5/2018 - grifos acrescidos)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 255, § 4º, não conheço do recurso especial.
+Publique-se. Intimem-se.
