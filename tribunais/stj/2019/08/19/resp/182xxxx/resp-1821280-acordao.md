@@ -1,0 +1,57 @@
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. HONORÁRIOS INCOMPATÍVEIS COM A NORMA PROCESSUAL. PRETENSÃO DE REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. INCIDÊNCIA.
+1. Não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração
+2. O Tribunal de origem fixou honorários no montante de R$ 3.000,00 (três mil reais).
+3. O entendimento desta Corte firmou-se no sentido de somente ser possível a aferição de honorários, em caráter excepcional, quando o valor arbitrado for ínfimo ou exorbitante, o que não se verifica no presente caso, atraindo a incidência do óbice contido na Súmula 7 deste Superior Tribunal.
+4. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, conhecer em parte do recurso e, nessa parte, negar-lhe provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com base na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 1ª Região assim ementado (e-STJ, fl. 210):
+PREVIDENCIÁRIO. CONSTITUCIONAL. DESAPOSENTAÇÃO. REPERCUSSÃO GERAL RE N. 66.1256. IMPROCEDÊNCIA DO PEDIDO.
+1. O Supremo Tribunal Federal, em julgado submetido à repercussão geral, considerou ser inviável o recálculo do valor da aposentadoria, por desaposentação, como o cômputo das contribuições vertidas após sua concessão, fixando a tese no sentido de que no âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do artigo 18, parágrafo 2º, da Lei 8.213/91. (RE"s ns. 661.256, 827.833 e 381.367, Seção do dia 26/10/2016).
+2. A jurisprudência do Supremo Tribunal Federal já assentou que o benefício previdenciário recebido de boa-fé pelo segurado, em decorrência de decisão judicial, não está sujeito à repetição de indébito, em razão de seu caráter alimentar. Segundo o entendimento da Suprema Corte a decisão judicial que reconhece a impossibilidade de descontos dos valores indevidamente recebidos pelo segurado não implica declaração de inconstitucionalidade do art. 115, da Lei n. 8.213/1991. (ARE 734242 AgR, Relator Ministro ROBERTO BARROSO, 1ª T, DJe- 175, pub. 08/09/2015).
+3. É improcedente o pedido de desaposentação. Irrepetibilidade das parcelas recebidas por decisão que antecipou os efeitos da tutela.
+4. Apelação do INSS e remessa oficial, tida por interposta, providas. Apelação da parte autora prejudicada.
+Os embargos de declaração foram rejeitados nos termos da decisão às e-STJ, fls. 217-222.
+O recorrente alega violação do disposto nos arts. 1.022 e 85, caput, §§ 2º e 4º, III, do CPC/2015, sustenta que os honorários foram fixados de forma desproporcional ao valor da causa, deixando de observar a norma processual sobre o tema.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): O recurso não merece prosperar.
+Registro, desde logo, que não é cabível a tese de afronta ao art. 1.022, II, do CPC/2015, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada. É o que se depreende da leitura dos seguintes trechos do voto condutor do acórdão impugnado (e-STJ, fl. 208):
+Fixo os honorários advocatícios em R$ 1.000,00 (mil reais) nos termos do art. 85, § 8º, do CPC/2015.
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE CIVIL DO ESTADO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. EXCESSO NA CONDUTA DOS POLICIAIS, NO MOMENTO DA PRISÃO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. SÚMULA 7/STJ. PRETENDIDA REDUÇÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 1.022, II, do CPC vigente, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que o voto condutor do acórdão recorrido apreciou fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 1.001.197/AC, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 27/4/2017, DJe 4/5/2017)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. NOMEAÇÃO TARDIA. OMISSÃO DO ACÓRDÃO DISTRITAL AFASTADA. DECISÃO JUDICIAL. COISA JULGADA. INEXISTÊNCIA. SÚMULA 7/STJ. INDENIZAÇÃO. INVIABILIDADE. PRECEDENTES.
+1. Afasta-se a alegada violação do art. 1.022, I e II, do CPC/2015, porquanto a instância ordinária dirimiu, de forma clara e fundamentada, a questão que lhe foi submetida, e apreciou integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 990.169/DF, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 6/4/2017, DJe 19/4/2017)
+O entendimento desta Corte firmou-se no sentido de somente ser possível a aferição de honorários, em caráter excepcional, quando o valor arbitrado for ínfimo ou exorbitante, o que não se verifica no presente caso, em que foram fixados no montante de R$ 1.000,00 (mil reais), atraindo a incidência do óbice contido na Súmula 7 deste Superior Tribunal: "A pretensão de simples reexame de prova não enseja recurso especial."
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. QUANTUM INDENIZATÓRIO. NÃO DEMONSTRADA A IRRISORIEDADE DO VALOR FIXADO NAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7/STJ. 3. HONORÁRIOS ADVOCATÍCIOS. VERBA SUCUMBENCIAL. MAJORAÇÃO. INVIABILIDADE. SÚMULA 7/STJ. 4. AGRAVO DESPROVIDO.
+ ..
+3. A revisão do valor estabelecido para os honorários advocatícios é viável apenas quando este se mostrar ínfimo ou exorbitante, o que não se verifica no caso em exame, diante da sua fixação em 10% sobre o valor da condenação, com fundamento no art. 85, § 2º, do CPC/2015, incidindo, à hipótese, o enunciado 7 da Súmula deste Tribunal.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.408.349/SP, Rel. Min. MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/5/2019, DJe 31/5/2019)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. POLÍTICA SALARIAL. REAJUSTES. EXECUÇÃO DENOMINADA INVERTIDA. DISCORDÂNCIA DA PARTE CREDORA. PROSSEGUIMENTO QUANTO AOS VALORES INCONTROVERSOS. INSTAURAÇÃO DE CUMPRIMENTO DE SENTENÇA RELATIVO AOS VALORES REMANESCENTES. INCIDÊNCIA DE HONORÁRIOS ADVOCATÍCIOS SOBRE A DIFERENÇA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO  ..
+5. É firme a jurisprudência deste Superior Tribunal de Justiça no sentido de não ser possível, por meio de Recurso Especial, a revisão do critério de justiça e razoabilidade utilizado pelas instâncias ordinárias para fixação da verba advocatícia, por depender tal providência da reapreciação dos elementos fático-probatórios do caso concreto.
+6. Recurso Especial parcialmente conhecido, com relação à preliminar de violação do art. 1.022 do CPC/2015 e, nessa extensão, não provido.
+(REsp 1.793.488/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/5/2019, DJe 29/5/2019)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTO. HONORÁRIOS DE ADVOGADO. FIXAÇÃO, PELO TRIBUNAL A QUO, DE ACORDO COM A COMPLEXIDADE DA CAUSA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Na forma da jurisprudência do STJ, à luz do CPC/2015, "considerando a impossibilidade da análise dos critérios estabelecidos no § 2º do art. 85 do CPC/2015, ante o óbice da Súmula 7 do STJ, os honorários advocatícios deverão ser definidos pelo Tribunal de origem, de acordo com o novo regramento processual" (STJ, REsp 1.767.726/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 17/12/2018).
+IV. Nesse contexto, os honorários advocatícios sucumbenciais, fixados de acordo com o regramento previsto no novo diploma processual civil, obedecem aos critérios previstos no § 2º do art. 85 do CPC/2015 - que, via de regra, não podem ser revistos, em sede de recurso especial, sob pena de afronta ao óbice da Súmula 7/STJ -, respeitados os parâmetros legais estabelecidos no mesmo art. 85 do CPC/2015.
+V. O entendimento firmado pelo Tribunal a quo - no sentido de que "o valor de 10% de R$449.025,00 mostra-se desproporcional à complexidade da causa" - não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+VI. Consoante a jurisprudência do STJ, "a revisão percentual de honorários advocatícios não é possível em sede especial porquanto implica incursão ao suporte fático-probatório carreado aos autos, o que é vedado pela Súmula 7/STJ, salvo para rever a fixação de verba honorária em valor irrisório ou excessivo" (STJ, AgInt no AREsp 1.218.320/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 20/06/2018).
+VII. Ainda que assim não fosse, em caso análogo o STJ considerou que "nas ações em que se busca o fornecimento de medicação gratuita e de forma continua pelo Estado, para fins de tratamento de saúde, o Superior Tribunal de Justiça tem admitido o arbitramento dos honorários de sucumbência por apreciação equitativa, tendo em vista que o proveito econômico obtido, em regra, é inestimável. Na instância especial, a revisão do juízo de equidade para a fixação da verba honorária somente é admitida nos casos em que o valor arbitrado é irrisório ou exorbitante, circunstância que não se vislumbra nos autos" (STJ, AgInt no AREsp 1.234.388/SP, Rel. Ministro GURGEL DE FARIA. PRIMEIRA TURMA, DJe de 05/02/2019).
+VIII. Agravo interno improvido.
+(AgInt no AREsp 1.401.317/SP, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 14/5/2019, DJe 21/5/2019)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+É como voto.
