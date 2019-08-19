@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que negou seguimento a recurso especial, fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado em face de acórdão proferido pela Segunda Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 240):
+Agravo de instrumento. Impugnação ao cumprimento de sentença. Execução de multa cominatória. Prescrição da pretensão executiva. Inocorrência. Astreintes consistem em um meio para induzir o adimplemento de obrigação específica emergente de ordem judicial. Inexistência de previsão legal. Regra geral da prescrição (dez anos), a contar da entrada em vigor do Código Civil de 2002.
+Impenhorabilidade do bem. Questão não decidida em primeira instância, havendo apenas determinação para realização de diligência no local. Ausência de prejuízo. Falta de interesse recursal. Questão não conhecida.
+Recurso conhecido em parte e improvido na parte conhecida.
+O agravante sustenta, nas razões de recurso especial, ofensa aos artigos 206, § 3º, III, do Código Civil e 461, § 4º, do Código de Processo Civil de 1973, defendendo a aplicação da prescrição trienal à pretensão ao recebimento de multa cominada em processo de conhecimento, tendo em vista seu caráter acessório à obrigação principal. Aponta precedentes afirmando o caráter acessório da multa cominatória.
+Destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Assim delimitada a controvérsia, passo a decidir.
+O acórdão recorrido afastou aplicação da prescrição trienal prevista no inciso III do § 3º do art. 206 do Código Civil sob os seguintes fundamentos (fls. 243/244):
+Com efeito, não há como se acolher as alegações do agravante, eis que não se trata de simples prestação acessória, apta a ensejar a incidência do inciso III, do parágrafo 3º do artigo 206 do CC. Como cediço, tal inciso se refere a prestações decorrentes de convenção que se desdobram do capital, formando obrigações autônomas, como é o caso dos juros moratórios.
+As astreintes ora executadas constituem, em verdade, forma de pressão sobre a vontade do réu, destinadas a convencê-lo a cumprir ordem jurisdicional. Consistem em um dos meios criados pelo legislador para induzir o adimplemento de obrigação específica, impondo ao devedor uma pressão psicológico-financeira capaz de motivá-lo a cumprir o comando emergente de ordem judicial.
+Tal obrigação decorrente do descumprimento da ordem judicial, porquanto inexistente definição legal, encaixa-se na regra geral relativa aos direitos pessoais. E a estes direitos, como bem apontado pelo i. magistrado da origem, aplica-se a regra geral da prescrição (dez anos), constante do art. 205 do Código Civil.
+Correta a conclusão do acórdão recorrido.
+A leitura do artigo 206 do Código Civil permite extrair que a expressão "prestações acessórias" empregada pelo inciso III refere-se unicamente aos consectários de remuneração do capital, como os juros e dividendos ali exemplificados.
+Nos termos do art. 92 do CC, a obrigação acessória depende da existência da obrigação principal, pois a ela se encontra vinculada, já que possui, por finalidade, o cumprimento subsidiário da obrigação principal, que alegadamente não foi cumprida.
+No caso em exame, conforme demonstram os precedentes colacionados pelo recorrente, a multa cominatória é medida acessória que visa coagir o devedor no cumprimento da obrigação de fazer, não envolvendo, de forma alguma, a pretensão de cobrança de frutos do capital.
+Por isso, em vista da clara inadequação da pretensão deduzida, o prazo trienal previsto no inciso III do § 3º do art. 206 do Código Civil não se aplica à multa cominatória.
+Não diviso, portanto, ofensa aos textos da legislação federal apontados pelo recorrente.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
