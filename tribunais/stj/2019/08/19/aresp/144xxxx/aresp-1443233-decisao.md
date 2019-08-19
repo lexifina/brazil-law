@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial devido à incidência da Súmula n. 7/STJ (e-STJ fls. 227/229).
+O acórdão do TJMG traz a seguinte ementa (e-STJ fl. 209):
+EMENTA: APELAÇÃO CÍVEL - REINTEGRAÇÃO DE POSSE - EXERCÍCIO DA POSSE PELA PARTE AUTORA E ESBULHO PRATICADO PELA PARTE RÉ - AUSÊNCIA DE PROVAS - PROTEÇÃO POSSESSÓRIA INCABÍVEL. Não conseguindo a parte autora trazer ao processo provas suficientes do efetivo exercício da posse sobre o imóvel descrito nos autos, e nem mesmo do esbulho praticado pela parte ré, revela-se incabível a proteção possessória, concernente à reintegração de posse pretendida.
+Nas razões do recurso especial (e-STJ fls. 217/223), interposto com fundamento no art. 105, III, alínea "a", da CF, o recorrente alegou contrariedade aos arts. 1.210 e 1.224 do CC/2002 e 560 do CPC/2015, argumentando que estariam presentes os requisitos necessários para o deferimento da proteção possessória requerida, a fim de reintegrá-lo na posse do imóvel em litígio.
+No agravo (e-STJ fls. 232/238), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto ao art. 1.224 do CC/2002. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+ O Tribunal a quo reconheceu que o recorrente não comprovou a posse da área em disputa e o seu esbulho pela parte recorrida, motivo por que indeferiu a reintegração de posse do imóvel, conforme se depreende dos seguintes excertos (e-STJ fls. 211/212):
+No caso específico em análise, apesar de o autor, ora apelante, insistir em alegar que a posse e o esbulho teriam sido comprovados através dos depoimentos das testemunhas e dos demais documentos constantes dos autos, fato é que tais provas não foram capazes de demonstrar o efetivo exercício da posse pelo apelante e muito menos o esbulho praticado pelos apelados.
+Isso porque, como bem notou a Julgadora sentenciante, os documentos acostados aos autos não trazem qualquer elemento capaz de demonstrar o exercício da posse pelo apelante.
+Ademais, nenhuma das testemunhas arroladas pelo apelante prestaram informações que pudessem ensejar a segura conclusão de que este efetivamente exercia a posse direta ou indireta sobre o bem litigioso.
+Aliás, válido observar que as testemunhas ouvidas nos autos apenas puderam informar sobre a propriedade do imóvel, sendo certo que a informação trazida pelas testemunhas Sinvaldo e Valderi, de que o apelante teria livre acesso à área em litigio, por certo, não tem o condão de comprovar o efetivo exercício da posse.
+Não bastasse, o apelante não trouxe aos autos prova capaz de demonstrar o esbulho praticado pelos apelados, na medida em que se limitou a juntar no processo boletim de ocorrência, o qual somente traz informações do declarante, no caso, o ora apelante e que não foram corroboradas com qualquer outra prova.
+Fato é que, durante todo o curso do processo, o apelante se limitou a alegar que possuía a posse do imóvel de sua propriedade e que os apelados teriam praticado esbulho, mas não trouxe aos autos provas capazes de corroborar as suas alegações, ônus que lhes competia, face o disposto no art. 373, inciso I do CPC/2015.
+Destarte, considerando que a tutela possessória ora pretendida tem como pressupostos os requisitos elencados no art. 561 do CPC/2015, necessários para o deferimento da reintegração pretendida, requisitos estes que, no caso dos autos, não restaram demonstrados, revela-se no todo inadequada a demanda possessória e inevitável a improcedência dos pedidos iniciais, sendo imperiosa a manutenção da sentença de 1º Grau.
+Dissentir de tais conclusões, a fim de deferir a proteção possessória postulada pelo recorrente, nos moldes defendidos na insurgência recursal, exigiria o reexame do acervo fático-probatório dos autos, o que é vedado nesta sede especial, segundo a Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
