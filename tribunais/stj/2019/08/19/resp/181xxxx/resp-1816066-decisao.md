@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão proferido pelo TJRJ assim ementado (e-STJ fl. 34):
+Agravo de instrumento. Ação de obrigação de fazer. Inclusão de recém-nascido. Genitora que é beneficiária dependente em plano de saúde coletivo cujo titular é seu pai, avô do menor. Parto prematuro. Recém-nascido em estado crítico com características de "síndrome de apert". Necessidade de permanência em UTI neonatal com respiração mecânica. Negativa para inclusão no quadro de associados. Risco de morte. Presentes os requisitos autorizadores da concessão da tutela de forma a manter a cobertura da internação até que cesse o quadro agudo. Inconformismo do agravante apenas com relação ao valor da multa. Astreinte razoavelmente fixada tendo em vista a gravidade da situação. Aplicação do verbete nº 59 da súmula TJRJ. Desprovimento do recurso.
+Os embargos de declaração foram rejeitados (e-STJ fls. 57/59).
+Em suas razões (e-STJ fls. 66/73), a recorrente alega ofensa aos arts. 537, § 1º, e 1.022, II, do CPC/2015.
+Aponta negativa de prestação jurisdicional e requer a redução do valor das astreintes, aduzindo que "a multa deve ser "suficiente e compatível com a obrigação", sendo permitido ao magistrado, de ofício ou a requerimento da parte, alterar o valor e periodicidade da penalidade, caso verifique que se tornou insuficiente ou excessiva, conforme autorizam os artigos 461, §60, do Código de Processo Civil de 1973 e 537, §1º, inciso I, do Diploma Processual vigente" (e-STJ fls. 70/71).
+Não foram apresentadas contrarrazões (e-STJ fl. 81).
+É o relatório.
+Decido.
+Inicialmente, não há falar em negativa de prestação jurisdicional, pois o Tribunal de origem pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo. A propósito:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DANO MORAL. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. HONORÁRIOS RECURSAIS. CABIMENTO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.363.101/SP, de minha relatoria, QUARTA TURMA, julgado em 15/4/2019, DJe 23/4/2019.)
+Desse modo, não assiste razão à recorrente, pois o Tribunal a quo decidiu a matéria controvertida, ainda que contrariamente aos seus interesses, não incorrendo em omissão, contradição ou obscuridade.
+Ademais, concernente ao pedido de redução da multa cominatória, esta Corte firmou o entendimento de que é possível afastar o óbice da Súmula n. 7/STJ para possibilitar sua revisão, somente em hipóteses excepcionais, quando manifestamente irrisório ou exorbitante o valor fixado a título de astreintes pela instância a quo.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AFRONTA AO ART. 461, § 6º, DO CPC/1973. LIMITAÇÃO DO VALOR DAS ASTREINTES EFETUADA PELO TRIBUNAL DE ORIGEM. ALEGAÇÃO DE QUE HÁ EXORBITÂNCIA. ALTERAÇÃO DO QUANTUM. SÚMULA 7/STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. A alteração das astreintes, após o redimensionamento efetuado pela Corte a quo, com base nas peculiaridades do caso, encontra óbice no enunciado n. 7 da Súmula desta Casa.
+2. Agravo interno improvido.
+(AgInt no AREsp n. 887.146/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 6/4/2017, DJe 18/4/2017.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO INDENIZATÓRIA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PLEITO DE REDUÇÃO DA MULTA POR EVENTUAL DESCUMPRIMENTO DE DECISÃO JUDICIAL. VALOR FIXADO QUE ATENDE AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. NECESSIDADE DE REEXAME DOS FATOS DA CAUSA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A apuração da razoabilidade e da proporcionalidade do valor da multa diária deve ser verificada no momento da sua fixação, em relação ao da obrigação principal, uma vez que a redução do montante fixado a título de astreinte, quando superior ao valor da obrigação principal, acaba por prestigiar a conduta de recalcitrância do devedor em cumprir a decisão judicial e estimula a interposição de recursos a esta Corte para a redução da sanção, em total desprestígio da atividade jurisdicional das instância ordinárias.
+Precedente. Inafastável a incidência da Súmula nº 83 do STJ.
+3. Para modificar as conclusões do Tribunal de origem em relação ao valor da multa diária, é necessário o reenfrentamento do acervo fático-probatório dos autos, o que encontra óbice no enunciado da Súmula nº 7 desta Corte.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 828.198/RJ, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/8/2016, DJe 31/8/2016.)
+No presente caso, foi aplica pela Corte local a multa única no valor de 400.000,00 (quatrocentos mil reais), nos seguintes termos (e-STJ fls. 37/38):
+Consta que o agravado nasceu prematuro, no dia 01.02.2018, e necessitou de internação na UTI Neonatal por ter nascido com características compatíveis com "síndrome de apert", respirando com ajuda de aparelhos e já tendo sido submetido a traqueostomia e gastrostomia. (fls. 24 e 25, index 20).
+Dentro do prazo de trinta dias do nascimento, a genitora requereu a inclusão do recém-nascido no plano, mas o pedido foi rejeitado por não ser ela a titular.
+Proposta a ação para pedir a inclusão do menor no plano de saúde, foi deferida a tutela antecipada tão somente para que o agravante continuasse arcando com o custo da internação do recém-nascido incluindo todo e qualquer procedimento necessário à manutenção de sua saúde até a saída do mesmo do quadro agudo em que se encontrava, sob pena de multa única de R$ 400.000,00 (quatrocentos mil reais).
+Insurge-se o agravante contra o valor da multa reputando-a desproporcional.
+A fixação de multa é um dos meios aptos a estimular o cumprimento de decisão judicial que antecipa os efeitos da tutela pretendida e deve ser suficiente e compatível com a obrigação pretendida, conforme art. 537 do CPC.
+Compulsando os autos principais, percebe-se que o quadro de saúde do agravado era crítico, tendo sido internado na UTI neonatal logo após o nascimento e, no dia 21.02.2018, com vinte dias de nascido, foi informado que ele se encontrava, "desde a internação, em ventilação mecânica, recebendo dieta por sonda e gastrostomia, ainda sem condições e previsão de alta hospitalar", vide relatório médico de fls. 25 (index 20).
+De acordo com o último relatório médico acostado aos autos, datado de 11.07.2018, o agravado ainda se encontra internado, dependente de ventilação mecânica invasiva por traqueostomia e recebendo dieta por gastrostomia, com possibilidade de alta hospitalar para internação domiciliar em sistema de home care (fls. 263, index 263).
+Daí se percebe a gravidade da situação a justificar a concessão da liminar com fixação de multa significativa e suficiente para coibir o descumprimento por parte do agravante, pois, se este ocorresse, nem que fosse por apenas um dia, e houvesse interrupção da internação, o agravante simplesmente faleceria.
+Com efeito, o valor da multa é condizente com a natureza e urgência da obrigação, sendo que a diminuição do valor implicaria em consequências irreversíveis à parte agravada, na medida em que se reduziria a força coercitiva inerente à cominação.
+Há que ser registrado, outrossim, que a multa somente incidirá se houver descumprimento.
+Com efeito, não se verifica nenhuma situação excepcional apta a superar o referido óbice, uma vez que a definição do montante da multa cominatória em R$ 400.000,00 (quatrocentos mil reais), pelo descumprimento de decisão judicial, está pautada por critérios de moderação, proporcionalidade e razoabilidade.
+Acrescente-se que a referida multa apresenta caráter inibitório, visando impedir a violação de um direito, de modo que sua fixação deve ser de tal monta que não frustre os seus objetivos. Por outro lado, o seu valor não pode servir para o enriquecimento sem causa da parte recorrida.
+Sendo assim, verifica-se que a quantia arbitrada não se mostra excessiva, a justificar a reavaliação, em recurso especial.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
