@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — PENA — EXECUÇÃO PROVISÓRIA— PRINCÍPIO DA NÃO CULPABILIDADE — SEGUIMENTO – NEGATIVA.
+    1. O Superior Tribunal de Justiça, em sede de habeas corpus, assentou a impossibilidade de execução provisória da pena restritiva de direito imposta ao recorrido. No extraordinário, o recorrente aponta transgressão ao artigo 5º, cabeça e inciso LVII, da Constituição Federal. Pede a execução imediata da pena, mesmo antes do trânsito em julgado da sentença condenatória, aludindo à jurisprudência do Supremo.
+    2. Não se pode potencializar o decidido pelo Pleno, por maioria, no habeas corpus nº 126.292, em 17 de fevereiro de 2016. Precipitar a execução da pena – privativa de liberdade ou restritiva de direitos – importa antecipação de culpa, por serem indissociáveis. Segundo dispõe o inciso LVII do artigo 5º da Constituição Federal, “ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória”, ou seja, a culpa surge após alcançada a preclusão maior. Descabe inverter a ordem do processo-crime – apurar para, selada a culpa, fazer cumprir a pena imposta, em verdadeira execução da sanção.
+    O entendimento mencionado nas razões do extraordinário e até então esposado pelo Plenário do Supremo Tribunal Federal no tocante à pena privativa de liberdade deu-se na análise de medidas cautelares nas ações declaratórias de constitucionalidade nº 43 e 44, carecendo, ainda, de pronunciamento quanto ao mérito.
+    Nos citados processos de natureza objetiva, o Pleno não pôs em xeque a constitucionalidade da norma contida na cabeça do artigo 147 da Lei de Execução Penal – LEP, que assim prescreve:
+    Art. 147. Transitada em julgado a sentença que aplicou a pena restritiva de direitos, o Juiz da execução, de ofício ou a requerimento do Ministério Público, promoverá a execução, podendo, para tanto, requisitar, quando necessário, a colaboração de entidades públicas ou solicitá-la a particulares.
+    A decisão proferida no denominado Plenário Virtual, atropelando os processos objetivos acima referidos, sem declarar, porque não podia fazê-lo em tal campo, a inconstitucionalidade do artigo 283 do Código de Processo Penal, em agravo que não chegou a ser provido pelo relator, ministro Teori Zavascki – agravo em recurso extraordinário nº 964.246, formalizado pelo paciente do habeas corpus nº 126.292 –, não tratou especificamente de pena restritiva de direitos, vedada pelo artigo 147 da Lei nº 7.210/1984, mas apenas de sanção privativa de liberdade.
+    O cumprimento provisório da sentença pressupõe a garantia do Juízo ou a viabilidade de retorno, alterado o título executivo, ao estado de coisas anterior, o que não se afigura viável em relação às penas restritiva de direitos. É impossível devolver ao cidadão o direito atingido pela restrição.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 19 de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
