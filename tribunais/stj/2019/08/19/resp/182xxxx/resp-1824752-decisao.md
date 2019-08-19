@@ -1,0 +1,42 @@
+DECISÃO
+ Trata-se de recurso especial em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - CONTRATO DE SEGURO - FURTO SIMPLES - EXCLUSÃO EXPRESSA DA COBERTURA - LEGALIDADE DA CLÁUSULA - INTELIGÊNCIA DOS ARTIGOS 760 DO CC E 54, §4º DO CDC - INDENIZAÇÃO INDEVIDA. É válida e não se insere no conceito de cláusula abusiva traçada pelo art. 51, inciso IX a XV, do Código de Defesa do Consumidor, a restrição no contrato de seguro excluindo a cobertura resultante de furto simples de equipamento segurado. Havendo previsão contratual expressa de exclusão da cobertura securitária por furto simples, afastado está o dever de indenizar.
+Nas razões do especial, o ora recorrente alega violação dos arts. 757 do Código Civil e 51, IV, § 1º, II e III, do Código de Defesa do Consumidor, arguindo ser abusiva a cláusula contratual que afasta a cobertura da apólice na hipótese de furto simples em razão da falha no dever de informação.
+Aduz que, "nos casos como o dos autos, as cláusulas são redigidas de forma genérica, no intuito exclusivo de ensejar dúvidas sobre a cobertura ou não de um sinistro" (e-STJ, fl. 451).
+Não foram apresentadas contrarrazões (e-STJ, fl. 497).
+Assim delimitada a controvérsia, passo a decidir.
+Destaco que a decisão recorrida foi publicada depois da entrada em vigor da Lei nº 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme dispõe o Enunciado Administrativo nº 3/2016 do Superior Tribunal de Justiça.
+A Corte Estadual, com base nos fatos, provas e conteúdo contratual dos autos, afastou a abusividade de cláusula contratual, bem como a obrigatoriedade de cobertura securitária, assim se pronunciando (fls. 426/428):
+Pela análise de fls. 19 do Documento de fls. 4, acostado pela própria autora/1ª apelante, verifica-se que constou expressamente na apólice de seguro que a cobertura básica seria em relação a "Roubo e/ou Furto Qualificado".
+Observa-se, ainda, que constou claramente no Manual do Segurado - Condições Gerais, anexado no Documento 17, em especial às fls. 10, a definição de acordo com o Código Penal para roubo e furto qualificado.
+Constou também do item "8 - Riscos Cobertos" que, para fins do seguro, seriam considerados riscos cobertos aqueles definidos nas Condições Especiais e/ou nas Condições Particulares, que seriam parte inseparável da apólice e nela se encontram expressamente ratificadas.
+Se não bastasse, imperioso voltar os olhos para os termos expressos das cláusulas "2.3.1- Eventos Cobertos", e "2.3.2 - Eventos Não Cobertos" das Condições Especiais para as Garantias da Apólice, que preveem tanto a cobertura para o roubo e/ou furto qualificado, trazendo inclusive a definição para cada um deles, bem como a exclusão da cobertura no caso de furto simples, como se depreende das cláusulas abaixo transcritas:
+2.3.1. Eventos Cobertos Garante a indenização pelos prejuízos ou despesas decorrentes do roubo e/ou furto qualificado praticado por terceiro, tendo como objeto o equipamento segurado.
+O artigo 157 do Código Penal define roubo como:
+"Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência à pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência".
+O artigo 155, parágrafo 4º, do Código Penal define furto qualificado como: "Subtrair, para si ou para outrem, coisa móvel alheia, com:
+I) Destruição ou rompimento de obstáculo à subtração da coisa.
+II) Abuso de confiança, ou mediante fraude, escalada ou destreza.
+III) Emprego de chave falsa.
+IV) Mediante concurso de duas ou mais pessoas."
+Nota: Entende-se por obstáculo o meio material que visa impedir o acesso à coisa, não podendo esse meio ser inerente ou instalado na própria coisa.
+2.3.2. Eventos Não Cobertos:
+a) Furto simples, apropriação indébita, estelionato, extravio ou desaparecimento inexplicável.
+Do acima, fica claro que a requerente/1ª apelante tinha plena ciência das Condições Gerais do Seguro e de todas as cláusulas contratadas, inclusive aquela referente à ausência de cobertura securitária para furto simples, tanto é que alega que o contrato seria de adesão e tal cláusula abusiva.
+Ademais, tem-se que a mera aplicação do Código de Defesa do Consumidor ao caso em apreço não culmina diretamente no reconhecimento de abusividade da cláusula, visto que as previsões restritivas de direito, no caso dos autos a que limita os danos indenizáveis pelo contrato de seguro, atendem aos requisitos dispostos no Código de Defesa do Consumidor, art. 54, § 4º, bem como do art. 760, do Código Civil.
+Assim, tem-se que a previsão na apólice de que a responsabilidade pelo pagamento do capital segurado ficaria excluída em relação a furto simples é perfeitamente lícita, na medida em que não fere, de modo algum, o Código de Defesa do Consumidor, uma vez que prevê de forma clara a isenção expressa do dever de pagamento em casos que especifica, não havendo dúvida de que tal cláusula restritiva não pode ser considerada desconhecida e muito menos abusiva, pois poderia a parte contratante, caso quisesse, aderir a seguro mais completo, o qual previsse o pagamento da indenização ora requerida, com o pagamento da contraprestação correspondente ao aumento das vantagens.
+O acolhimento das razões do recurso, no sentido de modificar as conclusões da Corte de origem quanto à inexistência do dever de informação das condições restritivas à cobertura da apólice, demandaria inevitável apreciação das cláusulas contratuais, bem como o reexame de matéria fática, procedimentos que encontram óbice nos verbetes 5 e 7 da Súmula desta Corte.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA E ACIDENTES PESSOAIS. CLÁUSULAS LIMITATIVAS. AUSÊNCIA DE INFORMAÇÃO ADEQUADA. FALTA DE ASSINATURA DA CONTRATANTE. SÚMULAS 5 E 7 DO STJ. DEVER DE INFORMAÇÃO SOBRE CLÁUSULA RESTRITIVA. SÚMULA 83 DO STJ. RECURSO NÃO PROVIDO.
+1. Para infirmar a conclusão do aresto estadual, acerca da não comprovação de que o beneficiário tinha ciência de limitação contratual, seria imprescindível o reexame de provas e a análise das cláusulas contratuais, o que é inadmissível nesta instância extraordinária, sob pena de incidirem as Súmulas n. 5 e 7 do STJ.
+2. Ademais, o entendimento da Corte local sobre o dever da seguradora informar ao segurado consumidor sobre cláusula restritiva está em conformidade com a jurisprudência do STJ no sentido de que "a seguradora deve sempre esclarecer previamente o consumidor e o estipulante (seguro em grupo) sobre os produtos que oferece e existem no mercado, prestando informações claras a respeito do tipo de cobertura contratada e as suas consequências, de modo a não induzi-los em erro" (AgInt no REsp 1644779/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/08/2017, DJe 25/08/2017).
+3. Agravo interno não provido.
+(AgInt no AREsp 1428250/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24.6.2019, DJe 27.6.2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO DE VIDA. AÇÃO DE COBRANÇA. CONCLUSÃO DO ACÓRDÃO PELA INEXISTÊNCIA DE ABUSIVIDADE DE CLÁUSULA NO CONTRATO DO SEGURO DE VIDA. IMPOSSIBILIDADE DE REVISÃO DO JULGADO. NECESSIDADE DE ANÁLISE DE CLÁUSULA CONTRATUAL E REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. Há entendimento nesta Corte no sentido de que não há falar em abusividade, quando a seguradora esclarece previamente ao estipulante do seguro em grupo sobre os produtos que oferece, prestando informações claras a respeito do tipo de cobertura contratada e as suas consequências, de modo a não induzi-lo em erro.
+2. No caso, o Tribunal de Justiça concluiu pela inexistência de cláusula contratual abusiva, haja vista a previsão de riscos expressamente excluídos da cobertura securitária. A inversão desse entendimento demanda o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que se mostra inviável ante a natureza excepcional da via eleita, conforme enunciados das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+(AgInt no AREsp 1308674/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11.9.2018, DJe 21.9.2018)
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
