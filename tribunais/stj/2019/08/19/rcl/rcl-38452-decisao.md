@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de reclamação constitucional, com pedido liminar, ajuizada pelo BANCO DO BRASIL SA em face do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, com fundamento nos arts. 988 do CPC/15 e 187 do RISTJ.
+Em síntese, o reclamante sustenta que o Tribunal reclamado, ao autorizar o prosseguimento do cumprimento de sentença movida por [NOME], afronta a autoridade da decisão proferida nos autos do EREsp n. 1.319.232/DF, que determinou a suspensão de todas as "execuções individuais (liquidações e cumprimentos de sentença) com base na Ação Civil Pública proposta pelo Ministério Público Federal, que fora objeto de apreciação no referido Recurso Especial" (e-STJ fl. 5).
+É O RELATO DO NECESSÁRIO. DECIDO.
+À luz do disposto nos arts. 105, I, "f", da CF/88 e 187 do RISTJ, a reclamação constitucional, em razão de sua natureza excepcional, destina-se à preservação da competência deste Tribunal e à garantia da autoridade de seus julgados apenas quando objetivamente violados, não podendo servir como sucedâneo recursal para discutir o teor da decisão impugnada.
+Como ressaltou a Corte Especial por ocasião do julgamento do AgRg na Rcl 29.329/MS (Rel. Min. Laurita Vaz, DJe de 03/08/2016), a reclamação é cabível para assegurar-se que ordens diretas emanadas do STJ não sejam descumpridas nas instâncias ordinárias, de forma que não se admite o manejo desta ação com o simples intuito de reexame de questões já decididas no Tribunal local.
+Na hipótese dos autos, contudo, verifica-se, prima facie, que o TJ/RS não desrespeita a autoridade da decisão proferida no EREsp 1.319.232/DF, haja vista que, conforme esclarecido no acórdão reclamado, a demanda proposta por [NOME] trata de cumprimento de sentença oriundo de ação individual de cobrança (e-STJ fl. 48).
+Assim, não se tratando de pretensão de execução da sentença coletiva objeto do EREsp 1.319.232/DF, o pedido do reclamante para a suspensão do processo, de fato, não procede.
+Forte nessas razões, INDEFIRO liminarmente a petição inicial e, em consequência, JULGO EXTINTA a reclamação, sem exame de mérito, com fundamento no art. 34, XVIII, "a", do RISTJ.
+Publique-se. Intimem-se.
