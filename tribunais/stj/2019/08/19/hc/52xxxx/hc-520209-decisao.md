@@ -1,0 +1,33 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. INVIABILIDADE DE EXAME NA VIA ELEITA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS. NÃO INCIDÊNCIA. CONDENAÇÃO POR ASSOCIAÇÃO. PRECEDENTES.
+Ordem denegada.
+
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] e [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro (Apelação n. 0090011-43.2018.8.19.0001).
+Narram os autos que o Juízo da Vara Criminal da comarca de Itaguaí/RJ condenou os pacientes às penas de 9 anos e 4 meses de reclusão, em regime inicial fechado, e 1.416 dias-multa pela prática dos crimes previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+Interposta apelação pela defesa, a Terceira Câmara Criminal deu parcial provimento ao recurso, para retirar da condenação a causa de aumento de pena prevista no art. 40, IV, da Lei n. 11.343/2006, fixando a reprimenda em 8 anos de reclusão, em regime semiaberto, e pagamento de 1.200 dias-multa (fls. 65/79).
+Pleiteia a Defensoria Pública a concessão da ordem, cessando a coação ilegal imposta, para absolver os Pacientes da pratica do delito do artigo 35 da Lei 11.343/2006, com base no artigo 386, II, III ou VII do Código de Processo Penal; subsidiariamente desclassificar para o crime previsto no artigo 37 da Lei 11.343/06; e para reconhecer a causa especial de diminuição de pena, aplicando seu redutor máximo - 2/3 (dois) terços - e redimensionando-se, em igual medida, as penas pecuniárias, além de fixar o regime inicial aberto, substituindo a pena privativa de liberdade por restritivas de direito (fl. 14).
+Não houve pedido de liminar (fl. 105).
+Prestadas as informações (fls. 107/117), o Ministério Público Federal, em parecer exarado pelo Subprocurador-Geral da República [NOME], manifestou-se pelo não conhecimento do writ (fls. 122/126).
+É o relatório.
+De início, depreende-se dos autos que as instâncias ordinárias, após análise de todo o contexto probatório dos autos, concluíram pela caracterização da conduta típica de associação para o tráfico, prevista no art. 35 da Lei n. 11.343/2006. Confiram-se, a propósito, os seguintes trechos do acórdão impugnado (fls. 98/99 - grifo nosso):
+No que concerne ao pleito desclassificar o crime de associação para o tráfico, vê-se que a conduta narrada na denúncia, em relação ao uso e porte de rádio transmissor, não se amolda ao tipo do artigo 37 da Lei de Drogas.
+Os apelantes foram presos na posse de um rádio transmissor, objeto que, como sabido, é de uso típico daqueles que exercem as funções de "olheiro", "delta" ou "radinho", na divisão hierárquica das organizações criminosas responsáveis pela nefasta disseminação de entorpecentes em nossa sociedade.
+Frise-se que o crime de associação para o tráfico se caracteriza por diversas funções, como por exemplo, gerente, passador, olheiro, radinho, mula, fogueteiro e outras, sendo todos estes considerados coautores do crime previsto no artigo 33 da Lei de Drogas.
+Já o legislador ao adotar no artigo 37 da Lei 11.343/06, por exceção à teoria pluralista, não buscou alcançar as condutas do "olheiro" ou do "fogueteiro", mas, sim, a conduta daquele que não integra a organização criminosa em suas diversas divisões hierárquicas, mas que, de alguma outra forma colabora prestando informações que são consideradas estratégicas para o tráfico ilícito de drogas.
+Realmente, conforme se extrai das provas produzidas, a forma de atuar dos apelantes não se enquadra na figura do artigo 37 da Lei 11.343/06, haja vista que este artigo trata da figura do informante, função que nada tem em comum com aquela praticada pelos acusados na organização criminosa da localidade onde foram presos, que mais se adequa ao tipo do artigo 35 da referida Lei, não se olvidando que a área é dominada pela facção criminosa autointitulada de Terceiro Comando Puro.
+Nesse compasso, por conseguinte, não podemos tratá-los como informantes descritos no artigo 37 da mesma Lei, como pleiteia a defesa, pois este não pode ser alguém integrado ao esquema e sim um estranho que forneça, de forma episódica, alguma informação específica ou pontual.
+Presentes, portanto, as elementares exigidas ao crime previsto no artigo 35 da Lei 11.343/06, dentre elas o vínculo subjetivo entre os apelantes e os demais elementos que compõem a estrutura do tráfico na localidade na qual foram presos em flagrante, para formação de uma associação estável e permanente para o tráfico ilícito de entorpecentes, não havendo o que se falar em absolvição, tampouco na desclassificação para o delito do artigo 37 da Lei de Drogas.
+Ora, desfazer o entendimento a que chegaram as instâncias ordinárias - acerca da efetiva configuração do delito de associação para o tráfico - demandaria a análise de todo o conjunto probatório dos autos, e não a sua mera valoração, razão pela qual se mostra inadequada a via eleita, que não admite incursão na seara fático-probatória.
+Em razão do exposto, não prospera o pleito referente à incidência do § 4º do art. 33 da Lei n. 11.343/2006.
+Com efeito, a jurisprudência uníssona desta Corte consigna que não se aplica a causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006 aos condenados pelo crime de associação para o tráfico, visto que esse fato evidencia a dedicação a atividade criminosa (REsp n. 1.347.793/SC, da minha Relatoria, Relator para o acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 9/5/2016).
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO AO TRÁFICO. PENA-BASE. QUANTIDADE DE DROGA. FUNDAMENTO IDÔNEO. MINORANTE. INVIÁVEL. CONDENAÇÃO POR ASSOCIAÇÃO AO TRÁFICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A defesa não trouxe elementos novos para infirmar os fundamentos consignados no decisum agravado.
+2. Havendo a instância ordinária aumentado a pena-base dos delitos de tráfico e associação ao tráfico em razão da quantidade de droga apreendida (125 kg de maconha), agiu em observância ao art. 42 da Lei n. 11.343/2006.
+3. Comprovado nos autos que o réu se dedicava a atividades criminosas, tanto que foi condenado pelo delito previsto no art. 35 da Lei de Drogas, inviável a aplicação da minorante prevista no art. 33, § 4º, do mencionado diploma.
+4. Agravo regimental não provido.
+(AgRg no HC n. 388.641/AM, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/9/2018)
+Inalterada a reprimenda, restam prejudicados os pleitos de revisão do regime de cumprimento da pena e do direito à substituição da pena carcerária por restritivas de direitos, tendo em vista o quantum definitivo da pena, fixada em 8 anos de reclusão (arts. 33 e 35 da Lei n. 11.343/2006).
+Ante o exposto, denego a ordem.
+Publique-se.
