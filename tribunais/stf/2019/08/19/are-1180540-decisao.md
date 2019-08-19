@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. Leis 17.812, de 20 de abril de 2016 e 14.654, de 29 de outubro de 2008, ambas do Município de São Carlos, que dispõem sobre a concessão de subsídios ao Sistema Municipal de Transporte Público. Alegação de ofensa à disposição do artigo 119, parágrafo único, da Constituição Estadual. Rejeição. Municipalidade que agiu dentre de sua legítima competência (outorgada pela Constituição Federal) para legislar sobre os serviços de transportes e sua forma de remuneração no âmbito local (suplementando legislação federal). Inaplicabilidade de restrição contida no parágrafo único do artigo 119 da Constituição Paulista. Afinal, se os municípios compõem a estrutura federativa (com competências exclusivas que traçam o âmbito de sua autonomia política) é razoável concluir que a Constituição do Estado não lhes pode impor, no que diz respeito ao seu poder de auto-organização, outras restrições, além daquelas já previstas na Constituição Federal. Ação julgada improcedente.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 21, XX, e 22, XI, da CF.
+    A decisão agravada negou seguimento ao recurso por entender que incide, no caso, a Súmula 284/STF.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Paulo Gustavo Gonet Branco, opinou para que se negue seguimento ao agravo, ante a falta de perspectiva de êxito do recurso extraordinário. Veja-se a ementa do parecer ministerial:
+    “Recurso extraordinário com agravo. ADI estadual. Lei Municipal. Subsídios a empresas prestadoras de serviços de transporte público. Não demonstrada a correlação entre os dispositivos da Constituição Federal apontados como violados e o parâmetro de controle normativo local. Incidência das Súmulas 282, 283 e 356. Acórdão recorrido em consonância com a jurisprudência do STF. Parecer por que se negue seguimento ao agravo.”
+    Correto o parecer ministerial, que adoto como razões de decidir. O Supremo Tribunal Federal reconhece compatível com a Constituição a técnica da motivação por remissão (ARE 757.522-AgR, Rel. Min. Celso de Mello).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 19 de agosto de 2019.
+Ministro Luís Roberto Barroso
+Relator
