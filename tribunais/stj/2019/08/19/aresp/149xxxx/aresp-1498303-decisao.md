@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por OI S.A., em face de acórdão assim ementado (fl. 810):
+AGRAVO DE INSTRUMENTO. BRASIL TELECOM.
+CONTRATO DE PARTICIPAÇÃO FINANCEIRA.
+RECUPERAÇÃO JUDICIAL. LEVANTAMENTO DE VALORES. No julgamento do agravo de instrumento nº 0034576-58.2016.8.9.19.0000 interposto pela Brasil Telecom em face da decisão que determinou a expedição de alvará dos valores depositados antes de 21.06.2016, assim como, no julgamento dos posteriores embargos de declaração, a 8ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro decidiu que inexiste óbice para o levantamento dos valores quando o depósito judicial ou o bloqueio tenha sido realizado anteriormente ao recebimento da recuperação (21.06.2016) e o trânsito em julgado ou a preclusão da impugnação tenha ocorrido antes da referida data. Em relação à suspensão do feito, com a realização da Assembleia Geral de Credores, os processos os quais estavam suspensos poderão retornar sua regular tramitação. Da mesma forma, os créditos que não se enquadram na hipótese supracitada deverão se pagos na forma do plano de recuperação judicial lá aprovado. No caso em exame, a penhora dos valores foi realizada em 21.0 6.2013, e a impugnação ao cumprimento de sentença transitou em julgado em 01.03.2016. Destarte, inexiste óbice para o levantamento dos valores neste feito.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 897/904).
+Nas razões do especial, a ora agravante alega ofensa ao art. 1.022, II, do Código de Processo Civil/2015, por omissão do Tribunal de origem, ao não se pronunciar sobre as questões postas em debate nos embargos de declaração.
+No mérito, argui afronta aos arts. 6º, 49 e 59 da Lei n. 11.101/2005, afirmando que "os valores que se encontram depositados nos autos não foram realizados a título de pagamento, mas são provenientes de penhora e têm por finalidade garantir o juízo, portanto não abrangido pela decisão do agravo de instrumento" (fl. 916) não sendo possível sua liberação.
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+Inicialmente, verifico que não há omissão alguma ou ausência de fundamentação na apreciação das questões suscitadas.
+Ressalte-se que não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões proferidas pela origem.
+Esclareça-se, também, que não se traduz em omissão a motivação contrária ao interesse da parte ou que deixe de se pronunciar acerca de pontos considerados irrelevantes.
+Observe-se, ainda, que "A jurisprudência é firme no sentido de que os embargos de declaração, ainda que opostos com o objetivo de prequestionamento visando à interposição de recursos nos Tribunais Superiores, não podem ser acolhidos quando inexistentes omissão, contradição ou obscuridade na decisão recorrida (EDcl no AgInt no AREsp 156.220/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/2/2018, DJe 27/2/2018).
+No mais, o Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela possibilidade de liberação dos valores, assim se pronunciando (fls. 816/817):
+(..) inexiste óbice para o levantamento dos valores quando o depósito judicial ou o bloqueio tenha sido realizado anteriormente ao recebimento da recuperação (21.06.2016) e o trânsito em julgado ou a preclusão da impugnação tenha ocorrido antes da referida data.
+(..)
+No caso em exame, verifica-se que a penhora dos valores foi realizada em 21.06.2013 (fl. 468), e a impugnação ao cumprimento de sentença transitou em julgado em 01.03.2016 (fl. 196).
+Destarte, de acordo com as razões já delineadas, inexiste óbice para o levantamento dos valores neste feito.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte. No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ART. 489 DO CPC/2015. CARÊNCIA DE FUNDAMENTAÇÃO NÃO CONFIGURADA. LEVANTAMENTO DE VALORES. PREENCHIMENTO DE EXIGÊNCIAS LEGAIS. REEXAME. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO IMPROVIDO.
+(..)
+3. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+4. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.352.131/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 18/3/2019, DJe 22/3/2019)
+Ainda nessa direção: AREsp n. 1.467.824/RS, Relator Ministro MOURA RIBEIRO, DJe de 1/7/2019.
+Acrescente-se que a jurisprudência adotada neste Superior Tribunal de Justiça já se posicionou no sentido de que "o controle dos atos de constrição patrimonial, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, deve prosseguir sob a supervisão do Juízo universal, único competente para determinar a essencialidade dos bens constritos" (AgInt no CC 157.396/PR, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 12/9/2018, DJe 17/9/2018). Nessa direção:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL.
+COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO IMPROVIDO.
+1. São incompatíveis com a recuperação judicial os atos de execução proferidos por outros órgãos judiciais de forma simultânea com o curso da recuperação ou da falência das empresas devedoras, de modo a configurar conflito positivo de competência.
+2. Tratando-se de crédito constituído depois de ter o devedor ingressado com o pedido de recuperação judicial (crédito extraconcursal), está excluído do plano e de seus efeitos (art. 49, caput, da Lei n. 11.101/2005). Porém, a jurisprudência desta Corte tem entendido que, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, o controle dos atos de constrição patrimonial relativos aos créditos extraconcursais deve prosseguir no Juízo universal.
+3. Franquear o pagamento dos créditos posteriores ao pedido de recuperação por meio de atos de constrição de bens sem nenhum controle de essencialidade por parte do Juízo universal acabará por inviabilizar, a um só tempo, o pagamento dos credores preferenciais, o pagamento dos credores concursais e, mais ainda, a retomada do equilíbrio financeiro da sociedade, o que terminará por ocasionar na convolação da recuperação judicial em falência, em prejuízo de todos os credores, sejam eles anteriores ou posteriores à recuperação judicial.
+4. Agravo regimental improvido.
+(AgRg nos EDcl no CC 136.571/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/05/2017, DJe 31/05/2017)
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a orientação desta Corte, não há o que se reformar, esbarrando o presente recurso no óbice da Súmula 83/STJ.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo.
+Intimem-se.
