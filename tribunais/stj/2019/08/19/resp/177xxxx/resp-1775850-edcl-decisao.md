@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LPS BRASIL - CONSULTORIA DE IMÓVEIS S.A., contra a decisão de fls. 1110/1116, e-STJ, desta relatoria, que deu parcial provimento ao seu agravo em recurso especial para considerar válida a cobrança da comissão de corretagem, eis que observado o dever de informação ao consumidor.
+O embargante alega omissão no julgado ao não modificar os ônus de sucumbência "tendo em vista que a embargante foi vencida em parte ínfima do pedido, situação que atrai o disposto no artigo 86, parágrafo único do CPC" (e-STJ, fl. 1122).
+Não houve impugnação (certidão fl. 1126, e-STJ).
+Relatados, passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração são cabíveis quando há omissão, contradição, obscuridade ou erro material na decisão embargada.
+Verifico que merecem acolhimento os presentes embargos de declaração, a fim de sanar a omissão mencionada, visto que houve a modificação da sucumbência sem a ressalva quanto à distribuição da verba honorária.
+Na hipótese, a sentença (e-STJ, fls. 267/273) negou provimento aos pedidos iniciais de repetição do indébito em dobro, bem como de reembolso dos honorários contratuais e julgou parcialmente procedente a pretensão para "condenar os réus a reembolsar ao autor R$ 15.908,24 (quinze mil e novecentos e oito reais e vinte e quatro centavos)", sendo que o valor de R$ 13.703,66 (treze mil, setecentos e três reais e sessenta e seis centavos) ficou especificado ser a título de comissão de corretagem.
+Consignou, ainda, que, "ante a sucumbência recíproca, as despesas processuais deverão ser rateadas entre as partes, devendo cada parte arcar com os honorários de seu patrono" (e-STJ, fl. 273).
+Assim, tendo a decisão embargada considerado legítima a cobrança da comissão de corretagem, se faz necessária a integração do julgado para que passe a valer o seguinte dispositivo:
+Em face do exposto, dou parcial provimento ao recurso especial para considerar válida a cobrança da comissão de corretagem, eis que observado o dever de informação ao consumidor. Ante a sucumbência recíproca, determino que as custas processuais e honorários advocatícios, estes fixados em 10% do valor atualizado da causa, sejam pagos na proporção de 75% pela parte autora, ora embargada, e 25% pela parte ré, ora embargante, nos termos do art. 85, § 2º, I a IV, do atual Código de Processo Civil, vedada a compensação e considerando-se suspensas a exigibilidade em caso de assistência judiciária gratuita.
+Em face do exposto, acolho os embargos de declaração, com efeitos infringentes, para sanar a omissão apontada.
+Intimem-se.
