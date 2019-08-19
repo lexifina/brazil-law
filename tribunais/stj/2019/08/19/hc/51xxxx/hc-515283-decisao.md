@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em benefício de [NOME] ALEXANDRE FELER contra acórdão da 5ª Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina (HC n. 4014542-48.2019.8.24.0000).
+Extrai-se dos autos que o paciente foi denunciado pela suposta prática do delito tipificado no art. 121, § 2º, incisos I, IV e VI, § 2º-A, inciso I, c/c art. 14, inciso II do Código Penal, tendo sido decretada sua prisão preventiva.
+Contra a decisão, a defesa impetrou a ordem originária, que foi denegada pelo Tribunal a quo, em acórdão assim ementado (e-STJ fls. 20/29):
+HABEAS CORPUS. PRÁTICA, EM TESE, DO CRIME DE TENTATIVA DE FEMINICÍDIO. DECISÃO QUE DECRETOU A PRISÃO PREVENTIVA. TESE DE AUSÊNCIA DE INTENÇÃO DE MATAR. INSURGÊNCIA QUANTO AOS SUPOSTOS MOTIVOS QUE LEVARAM O PACIENTE PRATICAR A CONDUTA. ARGUMENTOS QUE DEMANDAM ANÁLISE PROFUNDA DAS PROVAS. INVIABILIDADE EM SEDE DE HABEAS CORPUS - NÃO CONHECIMENTO. ADEMAIS, REQUISITOS AUTORIZADORES DA PRISÃO PREVENTIVA COMPROVADOS. PROVA DA MATERIALIDADE E DOS INDÍCIOS SUFICIENTES DE AUTORIA. DADOS CONCRETOS EXTRAÍDOS DA INVESTIGAÇÃO. DECLARAÇÕES DA VÍTIMA, DEPOIMENTOS DE TESTEMUNHAS E GRAVAÇÃO DO LOCAL. LESÕES CAUSADAS À VÍTIMA. IMPRESCINDIBILIDADE DA MEDIDA PRISIONAL PARA GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. NECESSIDADE DE PROTEÇÃO DA INTEGRIDADE FÍSICA E PSÍQUICA DA OFENDIDA. POSSIBILIDADE DE QUE O PACIENTE PREJUDIQUE O REGULAR ANDAMENTO DO FEITO. GRAVIDADE CONCRETA DO DELITO. POR DECORRÊNCIA LÓGICA, INSUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DENEGADA A ORDEM.
+No presente writ, a defesa alega que o magistrado singular não examinou a possibilidade de aplicação de medidas cautelares alternativas, as quais, sustenta, seriam suficientes para promover a proteção da vítima.
+Aduz que o fundamento de que o paciente possuiria arma de fogo e que teria instalado rastreador no veículo da vítima não foi comprovado no cumprimento de mandado de busca e apreensão. Afirma que se o paciente tivesse realmente intenção de matar, poderia tê-lo feito na ocasião dos fatos.
+Requer a revogação da prisão preventiva.
+A liminar foi indeferida às e-STJ fls. 180/182.
+Informações às e-STJ fls. 188/195 e 196/223.
+O Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 226/229).
+É o relatório. Decido.
+O writ perdeu seu objeto.
+Em consulta ao site do Tribunal a quo, verifica-se que a prisão preventiva do paciente foi revogada em 15/7/2019, em decisão assim elaborada:
+Ante o exposto, revoga-se a prisão preventiva de [NOME], ficando sujeito às seguintes medidas cautelares: i) proibição de manter contato, por qualquer meio, com a vítima [NOME], devendo dela permanecer distante pelo menos 200 (duzentos) metros; ii) manutenção do endereço sempre atualizado; iii) proibição de se ausentar da comarca de Blumenau, por mais de 30 (trinta) dias, sem autorização judicial. Expeça-se alvará de soltura, salvo se por outro motivo estiver preso. No ato da soltura o acusado deverá ser intimado das medidas cautelares aplicadas. Cumpra-se de imediato. Dê-se ciência à vítima acerca da medida cautelar aplicada (item "i"). Intime-se a defesa para, no prazo de 5 (cinco) dias, apresentar alegações finais.
+Desse modo, com fundamento no art. 34, inciso XI do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
