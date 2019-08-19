@@ -1,0 +1,44 @@
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. NULIDADE. SUPOSTA ILEGALIDADE NA DECISÃO QUE DETERMINOU A PRODUÇÃO ANTECIPADA DE PROVA. ART. 366 DO CPP. SÚMULA 455/STJ. IMPROCEDÊNCIA, DECISÃO QUE OSTENTA FUNDAMENTAÇÃO CONCRETA E IDÔNEA. DECLARAÇÃO QUE DEPENDERIA, AINDA, DE DEMONSTRAÇÃO DE PREJUÍZO EFETIVO, CIRCUNSTÂNCIA NÃO VERIFICADA.
+Ordem denegada liminarmente (art. 34, XVIII, b, do RISTJ).
+DECISÃO
+Neste habeas corpus, impetrado em favor de Deidilene Viana dos Santos - denunciada pela suposta prática do crime de furto qualificado (Ação Penal n. 0047652-76.2015.8.24.0023 (1ª Vara Criminal de Florianópolis/SC) -, sob a alegação de que há ilegalidade na decisão do Juízo processante que determinou a produção antecipada de prova (ré citada por edital), por ausência de fundamentação idônea (Súmula 455/STJ), requer-se, em liminar e no mérito, seja declarada a nulidade da decisão, com a consequente inutilização de todas as provas já produzidas de forma antecipada, de modo que a realização da instrução probatória ficará condicionada à retomada do curso regular do processo ou, no caso de urgência, à decisão devida e concretamente fundamentada (CPP, art. 366) - fls. 12/13.
+É o relatório.
+A ordem não merece concessão.
+A Corte de origem rechaçou a nulidade suscitada reputando fundamentada a decisão do Juízo processante que determinou a produção antecipada de provas (fls. 264/265):
+ ..
+Assentadas referidas considerações a respeito do movimentação processual na origem, infere-se que a denegação da ordem é medida de rigor.
+Isso porque, em análise dos fundamentos que levaram o togado singular a determinar a produção antecipada de provas, há que se levar em conta a equivalência do conjunto de características referentes ao fato praticado (furto qualificado pelo concurso de pessoas), ou seja, a concomitante ação ilícita imputada aos acusados, de modo a revelar, até mesmo por economia processual, que a medida mais salutar é o aproveitamento das testemunhas indicadas pela acusação, as quais, em tese, têm maiores condições de elucidar o ocorrido.
+De igual forma, não se pode perder de perspectiva que o fato criminoso é datado do mês de dezembro do ano de 2015, aliado à situação de que os testigos são policiais militares, agentes públicos que, de forma habitual, presenciam variados delitos e realizam diversas prisões semanais, que por certo estão sujeitos a um maior esquecimento quando comparados a outras testemunhas não detentoras do trabalho policial ostensivo, o que torna imperioso a tomada de suas narrativas.
+Assim, reputa-se devidamente fundamentada a decisão combatida, não havendo razões para a sua revisão.
+ ..
+Tal conclusão não merece reparo, pois o Magistrado lançou fundamentação concreta e idônea na decisão (fls. 226/227):
+ ..
+Ainda, antecipo a produção da prova em relação à referida acusada.
+Isto porque é recomendável o aproveitamento da prova oral colhida para o réu Pablo como antecipação de prova a acusada Deidilene que ainda não foi localizada.
+Trata-se não somente de um meio para economia processual, tendo em vista a similaridade dos fatos a eles imputados e as mesmas testemunhas arroladas, mas também uma forma de melhor apurar o ocorrido e de alcançar a equidade entre as partes.
+Ademais, as testemunhas arroladas pela acusação consubstanciam-se em policiais, estes últimos os quais, consabido, lidam com situações semelhantes rotineiramente, de modo que a antecipação de provas se perfaz de medida adequada a fim de evitar esquecimentos, diante da falibilidade da memória humana, e até mesmo para evitar a retirada dos agentes de segurança de suas atividades diárias, expondo a sociedade a risco.
+Além disso, nada obsta que, posteriormente à localização da ré, possa ser novamente produzida aquela prova.
+Oportuno mencionar, ainda, que eventual prejuízo a ré deverá ser comprovado de forma concreta. Destaco julgado do Tribunal de Justiça, em que fora mantida a antecipação de provas deferida por este juízo:
+ ..
+Em caso análogo, esta Corte assim decidiu:
+ ..
+2. A decisão cautelar que determina a produção antecipada da prova testemunhal deve ser motivada, levando-se em consideração ainda os requisitos previstos no art. 225 do Código de Processo Penal.
+3. No caso dos autos, o recorrente não foi encontrado, de modo que, citado por edital, o Juízo de primeiro grau, demonstrando fundamentadamente a necessidade da produção antecipada de provas, apontou motivos concretos indicativos da medida de natureza cautelar, visando assegurar a descoberta da verdade real, ante a possibilidade de perecimento da prova testemunhal, tanto pelo decurso do tempo, quanto pela perda da qualidade da prova prestada pelos agentes policiais, dada a vivência de situações tão semelhantes no dia a dia.
+4. Sobre o tema, a Terceira Seção desta Corte uniformizou seu entendimento no sentido de que "a fundamentação da decisão que determina a produção antecipada de provas pode limitar-se a destacar a probabilidade de que, não havendo outros meios de prova disponíveis, as testemunhas, pela natureza de sua atuação profissional, marcada pelo contato diário com fatos criminosos que apresentam semelhanças em sua dinâmica, devem ser ouvidas com a possível urgência".
+5. Segundo entendimento pacífico desta Corte Superior, a vigência no campo das nulidades do princípio pas de nullité sans grief impõe a manutenção do ato impugnado que, embora praticado em desacordo com a formalidade legal, atinge a sua finalidade, restando à parte demonstrar a ocorrência de efetivo prejuízo, o que não ocorreu no presente caso.
+6. Recurso não provido.
+(RHC n. 99.183/GO, Ministro Ribeiro Dantas, Quinta Turma, DJe 1º/4/2019)
+No mesmo sentido, confira-se: HC n. 425.852/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 15/5/2018.
+Aliás, ainda que cogitasse de nulidade, eventual declaração nesse sentido dependeria de prova de prejuízo efetivo à defesa (art. 563 do CPP), circunstância não evidenciada no caso.
+Sobre o tema, confira-se:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. AGÊNCIA DA CAIXA ECONÔMICA FEDERAL. DENÚNCIA. CITAÇÃO POR EDITAL. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PRODUÇÃO ANTECIPADA DE PROVA. ART. 366 DO CPP. SÚMULA 455/STJ. AUSÊNCIA DE FUNDAMENTAÇÃO E OFENSAS AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. NÃO OCORRÊNCIA. PRODUÇÃO DE PROVAS RESPALDADA PELO ORDENAMENTO. PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. NULIDADE NÃO CONFIGURADA. RECURSO NÃO PROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. A segregação preventiva foi adequadamente motivada em elementos concretos extraídos dos autos, ressaltando o modus operandi do crime, habitualidade na pratica delitiva, conveniência da instrução criminal e a evasão do distrito da culpa, tendo havido a citação dos réus por edital, com a suspensão do processo e do prazo prescricional, nos termos do art. 366 do Código de Processo Penal.
+3. Conforme o disposto no art. 366 do CPP, "se o acusado, citado por edital, não comparecer, nem constituir advogado, ficarão suspensos o processo e o curso do prazo prescricional, podendo o juiz determinar a produção antecipada das provas consideradas urgentes e, se for o caso, decretar prisão preventiva, nos termos do disposto no art. 312 do Código de Processo Penal". Ainda, a Súmula 455 do STJ estabelece que "a decisão que determina a produção antecipada de provas com base no art. 366 do CPP deve ser concretamente fundamentada, não a justificando unicamente o mero decurso do tempo".
+4. No caso dos autos, os recorrentes não foram encontrados, de modo que, citados por edital, o Juízo de primeiro grau, demonstrando fundamentadamente a necessidade da produção antecipada de provas, apontou motivos concretos indicativos da medida de natureza cautelar, visando assegurar a descoberta da verdade real, ante a possibilidade de perecimento da prova testemunhal, tanto pelo decurso do tempo, quanto pela perda da qualidade da prova prestada pelos agentes policiais, dada a vivência de situações tão semelhantes no dia a dia.
+5. Segundo entendimento pacífico desta Corte Superior, a vigência no campo das nulidades do princípio pas de nullité sans grief impõe a manutenção do ato impugnado que, embora praticado em desacordo com a formalidade legal, atinge a sua finalidade, restando à parte demonstrar a ocorrência de efetivo prejuízo, o que não ocorreu no presente caso.
+6. Recurso não provido.
+(RHC n. 44.898/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 24/8/2018 - grifo nosso)
+Ante o exposto, denego liminarmente a ordem (art. 34, XVIII, b, do RISTJ).
+Publique-se.
