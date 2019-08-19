@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A. contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ e ausência de comprovação do dissídio (e-STJ fls. 2.858/2.860).
+O acórdão recorrido está assim ementado (e-STJ fls. 2.736/2.737):
+CERCEAMENTO DE DEFESA - Rejeição - Prova produzida no processo que é suficiente para possibilitar a entrega da prestação jurisdicional - Prova oral que não é apta a contrariar os elementos presentes nos autos - Prova pericial realizada por profissional habilitado, descabendo falar em nova perícia - Preliminar afastada.
+INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - Autora que sofreu danos em decorrência da má prestação de serviços médico-hospitalares oferecidos pelos réus - Procedência do pedido - Inconformismo dos corréus - Acolhimento parcial - Aplicação do disposto no art. 252 do RITJSP - Relação de consumo - Aplicação do art. 14 do Código de Defesa do Consumidor - Provas presentes nos autos que demonstram a existência das condutas imputadas aos réus - Hospitais-corréus que não ofereceram à paciente atendimento médico adequado, deixando de realizar o correto diagnóstico e tratamento dos sintomas apresentados pela autora - Operadora de plano de saúde-corré responde pela prestação dos serviços oferecidos aos beneficiários - Prova pericial que é veemente ao afirmar que ambos os hospitais-corréus deixaram de prestar os serviços adequadamente - Aplicação da "Teoria da Perda de uma Chance" - Perspectiva de inexistência ou, pelo menos, existência de danos em menor extensão, tolhida pelas condutas dos prepostos dos réus - Danos materiais e morais configurados - Condenação solidária bem aplicada - Pensão mensal vitalícia de um salário mínimo corretamente fixada - Possibilidade de cumulação com benefício previdenciário - Precedente do Colendo Superior Tribunal de Justiça - Indenização por danos morais reduzida para R$ 100.000,00, em observância aos princípios da proporcionalidade e da razoabilidade - Sentença reformada em parte - Recursos parcialmente providos.
+Preliminar afastada e recursos parcialmente providos.
+Nas razões do recurso especial (e-STJ fls. 2.759/2.769), fundamentado no art. 105, III, "c", da CF, a parte recorrente alegou violação dos arts. 927 e 944 do CC/2002 pela desproporção entre o dano e o valor da indenização. Indicou precedente.
+No agravo (e-STJ fls. 2.890/2.894), afirma a presença de todos os requisitos de admissibilidade do especial.
+Houve contraminuta (e-STJ fls. 2.936/2.982).
+É o relatório.
+Decido.
+Em relação ao valor do dano moral, conforme entendimento pacífico do STJ, a modificação da quantia arbitrada é admitida, em recurso especial, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+O valor estabelecido em R$ 100.000,00 (cem mil reais) não enseja a intervenção do STJ. No caso, pelo atendimento médico inadequado, "o quadro da autora evoluiu de um quadro inflamatório intestinal inicial até a sepse e perfuração intestinal, essas consequentes à trombose desencadeada pelos fatores iniciais" (e-STJ fl. 2.751), tendo a autora manchas permanentes por todo o corpo.
+O conhecimento do recurso com fundamento na alínea "c" do permissivo constitucional exige a demonstração do dissenso jurisprudencial, com a transcrição dos julgados que configurem o dissídio, não sendo suficiente a simples reprodução de ementas, sem o necessário cotejo analítico, a fim de evidenciar a similitude fática entre os casos confrontados e a divergência de interpretações.
+Nesse sentido, confiram-se recentes julgados desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. FALTA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO. AGRAVO NÃO PROVIDO.
+(..)
+2. Para a análise da admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, torna-se imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, a fim de demonstrar a divergência jurisprudencial existente, o que não ocorreu no caso em apreço.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.401.641/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/6/2019, DJe 28/6/2019.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/1973). NEGATIVA DE COBERTURA DE PROCEDIMENTO CIRÚRGICO. DANOS MORAIS. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA. REVISÃO DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM ACERCA DA INOCORRÊNCIA DE DANO MORAL INDENIZÁVEL. IMPOSSIBILIDADE. SÚMULA 07/STJ.
+(..)
+2. A interposição do recurso especial pela alínea "c", do permissivo constitucional, exige a demonstração das similitudes fático-jurídicas entre a hipótese em julgamento e os acórdãos indicados como paradigmas, desservindo a inerte transcrição de ementas e fundamentos.
+(..)
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.546.284/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 1º/4/2019, DJe 4/4/2019.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
