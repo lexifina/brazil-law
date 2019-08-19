@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Segundo consta dos autos, a paciente foi presa em flagrante no dia 21/4/2019 (prisão convertida em preventiva) pela suposta prática do crime descrito no art. 33 da Lei n. 11.343/2006 porque, juntamente com um corréu, foi surpreendida por policiais militares na posse de 13 papelotes de cocaína, 26 buchas e 2 barras de maconha (e-STJ fl. 37).
+Em suas razões, a defesa alega estarem ausentes os requisitos da prisão preventiva, pois a paciente possui residência fixa, é primária e não registra processos criminais anteriores. Ainda, aponta ausência de fundamentação idônea no decreto prisional, asseverando que o decreto está baseado apenas na gravidade do delito, sublinhando que não houve violência ou grave ameaça a pessoa.
+Diante disso, pede, liminarmente e no mérito, a liberdade provisória da paciente, sob a aplicação de medidas cautelares diversas da prisão, expedindo-se o alvará de soltura em seu favor.
+É o relatório, decido.
+Não há como prosseguir a irresignação. Isso porque não foram juntadas cópias de peças processuais indispensáveis à compreensão da controvérsia, notadamente porque o ato praticado pelo Tribunal estadual constante nos autos não faz qualquer referência à paciente, desautorizando a análise das alegações pelo Superior Tribunal de Justiça (art. 105, II, da CF).
+Com efeito, É pacífico nesta Corte Superior o entendimento de que o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (HC n. 317.882/RJ, Relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2015, DJe 31/08/2015).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Publique-se.
