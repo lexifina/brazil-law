@@ -1,0 +1,16 @@
+DESPACHO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL. AÇÃO DE COBRANÇA DO SEGURO DPVAT. PRÉVIO REQUERIMENTO ADMINISTRATIVO. ALEGADA CONTRARIEDADE AO INC. XXXV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA. VISTA À PROCURADORIA-GERAL DA REPÚBLICA.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Mato Grosso do Sul:
+    “APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO – DPVAT – PRÉVIO REQUERIMENTO ADMINISTRATIVO – DISPENSABILIDADE – ENTENDIMENTO PROFERIDO NO INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA – SENTENÇA ANULADA – RECURSO PROVIDO. O Tribunal de Justiça do Mato Grosso do Sul decidiu, no Incidente de Uniformização de Jurisprudência n. 0803120- 96.2015.8.12.0029/50000, julgado em 31.10.2016, não ser necessário o prévio requerimento administrativo para o ajuizamento da ação de cobrança do seguro DPVAT. Apelo provido” (fl. 119, vol. 2).
+    2. No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o inc. XXXV do art. 5º da Constituição da República.
+    Sustenta a recorrente que “o v. acórdão recorrido vai expressamente de encontro à orientação firmada pelo e. Pleno Supremo Tribunal Federal no julgamento do RE 631.240/MG, com repercussão geral reconhecida, segundo a qual ‘A concessão de benefícios previdenciários depende de requerimento do interessado, não se caracterizando ameaça ou lesão a direito antes de sua apreciação e indeferimento pelo INSS, ou se excedido o prazo legal para sua análise’” (fls. 6-7, vol. 3).
+    Assevera que “o referido precedente do e. Supremo Tribunal Federal é inteiramente aplicável ao caso do DPVAT. Tanto o é que esse e. Supremo Tribunal Federal tem aplicado às demandas do DPVAT a orientação firmada no referido julgamento, como se verifica das seguintes decisões monocráticas proferidas pelo Ministro LUIZ FUX” (fl. 44, vol. 2).
+    Assinala que, “em casos como o dos autos, em que o autor nunca pediu o pagamento da indenização à seguradora, como estabelece o art. 5º, §1º, da Lei nº 6.194/74, não há como se sustentar que houve resistência à sua pretensão, o que justificaria a busca da intervenção judicial na sua relação com a parte ré” (fl. 9, vol. 3).
+    3. O recurso extraordinário foi inadmitido pela incidência da Súmula n. 282 do Supremo Tribunal Federal (fls. 119-121, vol. 3).
+    A agravante argumenta que “a r. decisão agravada negou seguimento ao recurso extraordinário por entender, data vênia, equivocadamente, que ‘o dispositivo tido como ofendido não foi aventado no acórdão’, o que atrairia na espécie a incidência do verbete nº 282 do e. STF, por ausência de prequestionamento. Com o máximo respeito, V.Exa., tais fundamentos não merecem prosperar. Veja-se, que o v. acórdão recorrido debateu a tese jurídica acerca da norma do inciso XXXV do art. 5º da CRFB/88, adotando aquele que viola o dispositivo constitucional" (fls. 3-4, vol. 4).
+    4. Manifeste-se a Procuradoria-Geral da República (inc. XV do art. 52 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 31 de agosto de 2019.
+Ministra CÁRMEN LÚCIA
+Relatora
