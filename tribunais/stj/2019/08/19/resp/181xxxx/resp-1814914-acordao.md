@@ -1,0 +1,76 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA SALARIAL. INCIDÊNCIA.
+1. Inexiste contrariedade ao art. 1.022 do CPC/2015 quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que "incide contribuição previdenciária sobre os valores relativos ao décimo terceiro proporcional ao aviso prévio indenizado, ante o caráter remuneratório de tais verbas  .. " (AgRg no REsp 1.569.576/RN, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 1º/3/2016).
+3. Recurso especial parcialmente provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de recurso especial interposto pela Fazenda Nacional, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 1ª Região assim ementado (e-STJ, fls. 266-268):
+PREVIDENCIÁRIO - CONTRIBUIÇÃO PREVIDENCIÁRIA - NÃO-INCIDÊNCIA SOBRE VALORES PAGOS A TÍTULO DE AVISO PRÉVIO INDENIZADO E DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL - REPETIÇÃO E/OU COMPENSAÇÃO DOS VALORES RECOLHIDOS - LEGITIMIDADE - CONTRIBUIÇÕES DA MESMA NATUREZA - LIMITES PERCENTUAIS - LEI N. 11.941/2009 - CÓDIGO TRIBUTÁRIO NACIONAL, ART. 170-A - APLICABILIDADE - JUROS DE MORA - CORREÇÃO MONETÁRIA E TAXA SISTEMA ESPECIAL DE LIQUIDAÇÃO E DE CUSTÓDIA-[NOME] - INCOMPATIBILIDADE - DECADÊNCIA - PRAZO - LEI COMPLEMENTAR N. 118/2005 - APLICABILIDADE - RECOLHIMENTOS ANTERIORES A VIGÊNCIA DA ALUDIDA LEI - SISTEMÁTICA DO LANÇAMENTO POR HOMOLOGAÇÃO - ACRÉSCIMOS LEGAIS - [NOME]. (RECURSO ESPECIAL N. 1.111.175/SP, JULGADO NOS TERMOS DO ART. 543-C DO CÓDIGO DE PROCESSO CIVIL.)
+a) Recurso - Apelação em Mandado de Segurança.
+b) Decisão de origem - Denegada a Segurança.
+1 - A Primeira Seção do Superior Tribunal de Justiça e a Corte Especial deste Tribunal decidiram que o direito à repetição de indébito tributário extingue-se com o decurso do prazo de 05 (cinco) anos, contados da data de quitação em relação aos pagamentos efetuados a partir da vigência da Lei Complementar n. 118/2005, adotado, porém, para os recolhimentos anteriores à Lei, o regime precedente, sistemática dos tributos sujeitos a lançamento por homologação, mas limitado ao lapso máximo de cinco anos do advento do novo preceito. (STJ - EREsp n. 437.760/DF; TRF/1ª REGIÃO - Arguição de Inconstitucionalidade n. 2006.35.02.001515-0/GO.)
+2 - A Lei Complementar n. 118/2005 não se aplica aos créditos referentes a pagamentos feitos antes do prazo de cento e vinte dias da sua publicação, ainda que o ajuizamento da ação tenha ocorrido na sua vigência. (EREsp n. 437.760/DF - Rel. Min. Teori Albino Zavascki - STJ - Primeira Seção - Unânime - DJe 11/5/2009.)
+3 - Incabível a exigência de contribuição previdenciária sobre o aviso prévio indenizado em razão da sua natureza compensatória, mesmo após o advento do Decreto n. 6.727/2009, tendo em vista que não caberia ao Poder Executivo, mediante mero ato normativo secundário, incluir no salário de contribuição verba sem previsão legal.
+4 - Reconhecido o não-cabimento da contribuição previdenciária sobre o aviso prévio indenizado, inadmissível a incidência, também, sobre o décimo
+terceiro salário proporcional a essa verba.
+5 - A compensação é regida pela lei vigente à época do ajuizamento da vindicação, não a vigente no momento do procedimento administrativo para o encontro de débitos e créditos, cabendo ao Poder Judiciário, ao analisar o pleito, apenas declarar se os créditos são compensáveis. (REsp n. 1.137.738/SP - Relator Ministro Luiz Fux - 1ª Seção - UNÂNIME - DJe 1º/02/2010.)
+6 - A compensação sujeitar-se-á ao trânsito em julgado do acórdão, nos termos do art. 170-A, do Código Tributário Nacional, ressalvando-se à autoridade fazendária a aferição da regularidade do procedimento.
+7 - Legítima, nos termos do art. 26, parágrafo único, da Lei n, 11.457/2007, a compensação de valores pagos a título de contribuições previdenciárias sobre aviso prévio indenizado e d.cimo terceiro salário proporcional com outras contribuições da seguridade social.
+8 - A partir do advento da Lei n. 11.941/2009 de 27/5/2009, que revogou o art. 89, § 3º, da Lei n. 8.212/91, deferida a compensação, não há, em relação ao valor a ser pago, aplicação de limite máximo.
+9 - A aplicação ao débito da Taxa Sistema Especial de Liquidação e de Custódia-[NOME] exclui a incidência de juros de mora por ser formada destes e de correção monetária.
+10 - Apelação provida em parte.
+11 - Sentença reformada.
+12 - Segurança concedida parcialmente.
+Os embargos de declaração opostos não foram providos.
+A recorrente alega contrariedade aos arts. 535 do CPC/1973; 28, § 7º, da Lei n. 8.212/1991; 1º, § 3º, da Lei n. 4090/1962. Sustenta, em suma, a incidência da contribuição previdenciária sobre o décimo terceiro salário proporcional ao aviso prévio indenizado.
+Contrarrazões apresentadas às e-STJ, fls. 312-320.
+Admitido o recurso especial na origem (e-STJ, fls. 353-362), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): Registro, desde logo, que não merece prosperar a tese de violação do art. 1.022, II, do CPC/2015, porquanto o acórdão combatido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Não há falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE CIVIL DO ESTADO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. EXCESSO NA CONDUTA DOS POLICIAIS, NO MOMENTO DA PRISÃO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. SÚMULA 7/STJ. PRETENDIDA REDUÇÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 1.022, II, do CPC vigente, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que o voto condutor do acórdão recorrido apreciou fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 1.001.197/AC, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 27/4/2017, DJe 4/5/2017)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. NOMEAÇÃO TARDIA. OMISSÃO DO ACÓRDÃO DISTRITAL AFASTADA. DECISÃO JUDICIAL. COISA JULGADA. INEXISTÊNCIA. SÚMULA 7/STJ. INDENIZAÇÃO. INVIABILIDADE. PRECEDENTES.
+1. Afasta-se a alegada violação do art. 1.022, I e II, do CPC/2015, porquanto a instância ordinária dirimiu, de forma clara e fundamentada, a questão que lhe foi submetida, e apreciou integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 990.169/DF, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 6/4/2017, DJe 19/4/2017)
+Quanto ao mérito, a controvérsia gira em torno da incidência da contribuição previdenciária no décimo terceiro salário proporcional ao aviso prévio indenizado.
+Sobre o tema, "a jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que é devida a contribuição previdenciária sobre o décimo terceiro salário proporcional ao aviso prévio, em virtude da natureza remuneratória da parcela ora em apreço" (AgInt no REsp 1.603.338/SC, Rel. Min. Francisco Falcão, Segunda Turma, DJe 14/12/2017).
+Nessa linha:
+PROCESSO CIVIL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/15. OMISSÃO. NÃO OCORRÊNCIA. MERA TENTATIVA DE REITERAR FUNDAMENTO JURÍDICO JÁ EXPOSTO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBLIDADE. ENTENDIMENTO FIRMADO POR JURISPRUDÊNCIA DO STJ. CONTRIBUIÇÃO PREVIDENCIÁRIA. DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. COMPENSAÇÃO.
+I - Na origem trata-se ação ordinária em que se pretende a declaração de inexigibilidade contribuição previdenciária sobre os consectários legais do aviso prévio indenizado e a compensação tributária. Na sentença julgou-se procedente o pedido. No Tribunal a quo a sentença foi parcialmente reformada tão somente para estabelecer que a compensação dos valores indevidamente recolhidos se faça conforme a legislação vigente na data do encontro de débitos e créditos e após o trânsito em julgado nos termos do art. 170-A do CTN.
+II - Nesta Corte deu-se provimento ao recurso especial para reconhecer a exigibilidade da contribuição previdenciária sobre os consectários legais do aviso prévio indenizado.
+III - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual incide contribuição previdenciária sobre o décimo terceiro salário proporcional pago em decorrência da dispensa do cumprimento do aviso prévio indenizado, porquanto tal verba integra o salário de contribuição. Nesse sentido: AgInt nos EDcl no REsp n. 1.693.428/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/5/2018, DJe 11/5/2018; AgInt no REsp n. 1.661.525/CE, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 19/4/2018, DJe 26/4/2018; AgInt no REsp n. 1.665.817/MG, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 21/3/2018, DJe 26/3/2018.
+IV - Agravo interno improvido.
+(AgInt no REsp 1.769.564/DF, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/05/2019, DJe 21/05/2019)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÕES PREVIDENCIÁRIAS SOBRE VALORES PAGOS, AOS EMPREGADOS, A TÍTULO DE FÉRIAS GOZADAS E DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. INCIDÊNCIA. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA PACÍFICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO À LEI COMPLEMENTAR 118/2005. INADMISSIBILIDADE DO RECURSO ESPECIAL, NO PARTICULAR, POR INCIDÊNCIA ANALÓGICA DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Nos termos da jurisprudência do STJ, "incide contribuição previdenciária sobre os valores relativos ao décimo terceiro proporcional ao aviso prévio indenizado, ante o caráter remuneratório de tais verbas, na esteira do entendimento firmado no REsp 1.066.682/SP, julgado pelo rito dos Recursos Repetitivos" (STJ, AgRg no REsp 1.569.576/RN, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 01/03/2016). Em tal sentido: STJ, REsp 1.531.412/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 17/12/2015; EDcl no AgRg no REsp 1.512.946/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 26/10/2015; AgRg no AREsp 744.933/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/10/2015.
+ ..
+(AgInt no AREsp 1.072.320/PE, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 9/4/2019, DJe 15/4/2019)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA SALARIAL. INCIDÊNCIA.
+1. Inexiste contrariedade ao art. 1.022 do CPC/2015 quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que "incide contribuição previdenciária sobre os valores relativos ao décimo terceiro proporcional ao aviso prévio indenizado, ante o caráter remuneratório de tais verbas  .. " (AgRg no REsp 1.569.576/RN, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 1º/3/2016). Precedentes.
+3. Recurso especial parcialmente provido.
+(REsp 1.719.970/AM, de minha relatoria, SEGUNDA TURMA, julgado em 15/3/2018, DJe 21/3/2018)
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. INCIDÊNCIA. SÚMULA 83 DO STJ.
+1. As Turmas que integram a Primeira Seção do STJ sedimentaram a orientação de que, "embora o Superior Tribunal de Justiça tenha consolidado jurisprudência no sentido de que não incide contribuição previdenciária sobre os valores pagos a título de aviso prévio indenizado, por não se tratar de verba salarial, relativamente à incidência da exação sobre o décimo terceiro salário proporcional no aviso prévio indenizado, prevalece o entendimento firmado em sede de recurso repetitivo, de que o décimo terceiro salário (gratificação natalina) integra o salário de contribuição para fins de incidência de contribuição previdenciária" (AgRg nos EDcl nos EDcl no REsp 1.379.550/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 13/04/2015). Aplicação da Súmula 83 do STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp 1.676.425/AP, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/12/2017, DJe 23/2/2018)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRIBUIÇÃO PREVIDENCIÁRIA. 13º SALÁRIO INDENIZADO. INCIDÊNCIA. ESCLARECIMENTOS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. Os embargos declaratórios são cabíveis quando houver, na sentença ou no acórdão, obscuridade ou contradição, ou quando for omitido ponto sobre o qual devia o juiz ou tribunal se pronunciar. Também as inexatidões materiais e os "erros evidentes" são sanáveis pela via dos embargos de declaração, consoante a jurisprudência e a doutrina (EDcl no REsp 1.359.259/SE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2.5.2013, DJe 7.5.2013.).
+2. " ..  Os valores relativos ao 13º proporcional ao aviso prévio indenizado por possuírem natureza remuneratória (salarial), sem o cunho de indenização, sujeitam-se à incidência da contribuição previdenciária" (AgRg no REsp 1.535.343/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/08/2015, DJe 11/09/2015.).
+Embargos de declaração acolhidos, sem efeitos modificativos, tão somente para fins de esclarecimentos.
+(EDcl no AgRg no REsp 1.512.946/RS, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/10/2015, DJe 26/10/2015)
+Portanto, a decisão recorrida encontra-se em dissonância com a jurisprudência desta Corte Superior.
+Ante o exposto, dou parcial provimento ao recurso especial, para afirmar que incide contribuição previdenciária sobre os valores relativos ao décimo terceiro salário proporcional ao aviso prévio indenizado, por possuírem natureza remuneratória.
+É como voto.
