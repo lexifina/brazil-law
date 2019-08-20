@@ -1,0 +1,58 @@
+EMENTA
+PROCESSUAL CIVIL. DESCONTO EM FOLHA DE PAGAMENTO. LIMITE EM 30% DOS RENDIMENTOS LÍQUIDOS. PRECEDENTES. SÚMULA 83/STJ.
+1. Cuida-se de inconformismo com acórdão do Tribunal de origem que confirmou sentença que julgou procedente pedido de limitação dos descontos de prestação de empréstimo em 30% do valor dos rendimentos líquidos
+2. No que tange ao percentual dos descontos das parcelas de empréstimos, em 30 % do valor dos rendimentos líquidos, o entendimento adotado pela Câmara está em perfeita harmonia com a jurisprudência pacífica do Superior Tribunal de Justiça, que sumulou novo posicionamento com o seguinte enunciado: "É vedado ao banco mutuante reter, em qualquer extensão, os salários, vencimentos e/ou proventos de correntista para adimplir o mútuo (comum) contraído, ainda que haja cláusula contratual autorizativa, excluído o empréstimo garantido por margem salarial consignável, com desconto em folha de pagamento, que possui regramento legal específico e admite a retenção de percentual" (Súmula 603, DJe 26/2/2018).
+3. Verifica-se que o Tribunal a quo decidiu de acordo com a jurisprudência do STJ, de modo que se aplica à espécie o enunciado da Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+4. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo lavrado sob o pálio da seguinte ementa:
+Apelação - DESCONTOS EM FOLHA DE PAGAMENTO E EM CONTA CORRENTE - Pretensão de reforma do capítulo da r. sentença que julgou procedente pedido de limitação dos descontos em 30% do valor dos rendimentos líquidos Descabimento Hipótese em que os descontos em folha de pagamento e em conta corrente devem ser limitados no percentual indicado pelo autor RECURSOS DESPROVIDOS.
+Apelação - ÔNUS DA SUCUMBÊNCIA Alegação de impossibilidade de condenação nos ônus da sucumbência Descabimento Hipótese em que o agente financeiro sucumbiu parcialmente na presente demanda; tendo, inclusive, apresentado resistência à pretensão do autor Circunstâncias que autorizam a sua condenação ao pagamento dos ônus sucumbenciais, inclusive sob a ótica da causalidade RECURSO DO RÉU BANCO DO BRASIL S/A DESPROVIDO.
+APELAÇÃO - MULTA COERCITIVA - CESSAÇÃO DE DESCONTOS Alegação de impossibilidade de dar cumprimento à determinação de abstenção na continuidade dos descontos indevidos e de inadequação da fixação de "astreintes" Descabimento Hipótese em que cabe ao agente financeiro a adoção de providências junto à fonte pagadora para o efetivo cumprimento daquilo que lhe foi ordenado - Multa coercitiva que deve ser mantida, como meio de dar efetividade à determinação judicial - RECURSO DO RÉU BANCO SANTANDER BRASIL S/A (BANCO SANTANDER BANESPA S/A) DESPROVIDO.
+A parte recorrente, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação legal, pleiteando, em síntese:
+A parte recorrida utilizou-se de diversos tipos de contratos de empréstimos, sendo que os contratos números 884731029, 880403799, 865518562, não se tratam de crédito consignados, pois as parcelas são descontadas diretamente na conta corrente da parte recorrida, não devendo, portanto, recair sobre tais a limitação fixada no v. acórdão.
+Logo, o único contrato passível de limitação é o 831514327, razão pela qual deve ser reformado o v. acórdão prolatado, haja vista não ter observado esta distinção.
+Desta feita, requer seja o feito julgado consoante o precedente supra, assegurando as partes o princípio da segurança jurídica, por meio de correta aplicação da lei ao caso concreto, a fim de que nenhuma das partes sejam prejudicadas.
+Isto posto, requer-se que este Colendo Tribunal, por seus Eminentes Ministros, reconheça a contrariedade ao dispositivo da Legislação Federal supramencionada, com o conhecimento e provimento do presente recurso para reformar o V. Acórdão como medida de Justiça.
+Contrarrazões apresentadas às fls. 261-264.
+Aymoré, Financiamento e Investimento S.A., nas razões do Recurso Especial Adesivo, sustenta que ocorreu, além de divergência jurisprudencial, violação legal, pleiteando, em síntese:
+Pugna, o recorrente, seja o presente Recurso Especial, conhecido e, posteriormente, provido, reformando-se o V. Acórdão guerreado, para fins de que seja reconhecido o abusivo valor do arbitramento de indenização moral e das astreintes, o que gerarão o enriquecimento sem causa da Recorrida, tudo como medida da mais cristalina e rotunda JUSTIÇA!
+Ademais, informamos que o porte de remessa e retorno não foi recolhido, em virtude do que dispõe o art. 6º, da RESOLUÇÃO N. 8 DE 23 DE ABRIL DE 2012, do STJ e art. 4º, inciso III, da Resolucao nº 554/2015 do STF de 11/06/2015.
+Decisão de inadmissibilidade do Recurso Especial do Banco do Brasil às fls. 291-293.
+Decisão de inadmissibilidade do Recurso Especial Adesivo às fls. 294.
+Agravo em Recurso Especial do Banco Santander às fls. 297-302.
+Agravo em Recurso Especial do Banco do Brasil às fls. 304-318.
+Contraminuta não apresentada.
+Despacho de conversão do Agravo em Recurso Especial, "sem prejuízo de exame posterior mais profundo da admissibilidade", à fl. 340.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 22.7.2019.
+Cuida-se de inconformismo com acórdão do Tribunal de origem que confirmou sentença que julgou procedente pedido de limitação dos descontos de prestação de empréstimo em 30% do valor dos rendimentos líquidos.
+A irresignação não merece prosperar.
+No que concerne à suposta ofensa ao art. 6ª da LICC, não merece ser admitido o presente reclamo, uma vez que este dispositivo é mera repetição do preceito inscrito no artigo 5º, XXXVI, da Constituição Federal, o que torna a matéria discutida de natureza constitucional.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. COMPLEMENTAÇÃO DE APOSENTADORIA. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. ART. 6º DA LICC. ÍNDOLE CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. HARMONIA ENTRE O DECISUM RECORRIDO E A JURISPRUDÊNCIA DO STJ.  ..
+-Tendo o acórdão recorrido adotado fundamento de índole exclusivamente constitucional quanto à necessidade de se alterar o patamar inicial da complementação de benefício previdenciário a fim de adequá-lo ao mesmo valor percebido pelos segurados do sexo masculino, é vedado ao STJ apreciar a matéria, por se tratar de competência do Supremo Tribunal Federal.
+-O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+-Agravo no agravo de instrumento não provido.
+(AgRg no Ag 1.322.649/RS, Terceira Turma, Relatora Ministra Nancy Andrighi, DJe 11/4/2011).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 6" DA LINDB. CARÁTER CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. HONORÁRIOS ADVOCATICIOS. SUCUMBÊNCIA RECÍPROCA. REVISÃO. SÚMULA 7/STJ.
+1. Os princípios contidos na Lei de Introdução às Normas do Direto Brasileiro (LINDB), apesar de previstos em norma infraconstitucional, não podem ser analisados em recurso especial, pois são institutos de natureza constitucional.
+2. O Superior Tribunal de Justiça tem jurisprudência firme no sentido de não ser possível a revisão do quantitativo em que autor e ré decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático- probatória, procedimento vedado pela Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(Agravo Interno no Agravo em Recurso Especial 781.737/DF, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 3.2.2017).
+Já no que tange ao percentual dos descontos das parcelas de empréstimos, em 30% do valor dos rendimentos líquidos, o entendimento adotado pela Câmara está em perfeita harmonia com a jurisprudência pacífica do Superior Tribunal de Justiça.
+Assim, o STJ, por meio da sua Quarta Turma, adotava posicionamento que diferenciava os casos em que se verificam descontos diretamente na folha de pagamento daqueles em que há mero desconto de valores em conta-corrente (REsp 1586910/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 3/10/2017).
+Não obstante, o STJ sumulou novo posicionamento com o seguinte enunciado: "É vedado ao banco mutuante reter, em qualquer extensão, os salários, vencimentos e/ou proventos de correntista para adimplir o mútuo (comum) contraído, ainda que haja cláusula contratual autorizativa, excluído o empréstimo garantido por margem salarial consignável, com desconto em folha de pagamento, que possui regramento legal específico e admite a retenção de percentual" (Súmula 603, DJe 26/2/2018).
+Nesse diapasão, mister destacar excerto do aresto vergastado:
+No caso em exame, trata-se de diversos débitos contratados, nos seguintes termos: em relação ao réu Banco do Brasil S/A, foram realizadas três operações de crédito em conta corrente, conforme descrição às fls.29-30 e documentos de fls.19 (contrato nº 884731029), fls.20 (contrato nº884731412) e fls.21-22 (contrato nº865518562), e um contrato de empréstimo consignado em folha de pagamento, apresentado às fls.23 (contrato nº831514327); já em relação ao réu Banco Santander Brasil S/A (Banco Santander Banespa S/A), foram contratadas uma renegociação de débitos, conforme extrato de fls.17, e um empréstimo, conforme extrato de fls.18.
+Assim, devem os descontos referentes aos contratos em questão ser limitados a 30% dos rendimentos líquidos da mutuária, devendo ser aplicado, para cada banco corréu, o limite de 10% sobre a remuneração líquida da autora, tal como decidido pela r.sentença de primeiro grau.
+Portanto, diante das razões acima expendidas, verifica-se que o Tribunal a quo decidiu de acordo com a jurisprudência do STJ, de modo que se aplica à espécie o enunciado da Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Ressalte-se que o entendimento pacificado no âmbito do egrégio Superior Tribunal de Justiça é de admitir a aplicação da Súmula 83/STJ aos Recursos Especiais interpostos com fundamento na alínea "a" do aludido permissivo constitucional (cf. AgRg no AREsp 354.886/PI, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 26/4/2016, DJe 11/5/2016).
+Ademais, a incidência do enunciado da Súmula 83/STJ obsta a análise recursal pela alínea "c", ficando prejudicado o exame do dissídio jurisprudencial, conforme sinaliza a jurisprudência do STJ (AgInt no AREsp 828.816/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 13/9/2016, DJe 21/9/2016).
+Consubstanciado o que previsto na Súmula Administrativa 7/STJ, condena-se a parte recorrente ao pagamento de honorários advocatícios de 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Pelo exposto, não se conhece do Recurso Especial.
+É o voto.
