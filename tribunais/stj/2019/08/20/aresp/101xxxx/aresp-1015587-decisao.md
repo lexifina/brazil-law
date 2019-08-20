@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por WILSON ALBINO MACHADO VEÍCULOS contra decisão que inadmitiu recurso especial, fundado na alínea "c" do permissivo constitucional, que desafia acórdão do Tribunal de Justiça de São Paulo assim ementado:
+AÇÃO ANULATÓRIA DE DÉBITO FISCAL - QUESTÃO DECIDIDA DEFINITIVAMENTE NOS AUTOS DOS EMBARGOS À EXECUÇÃO FISCAL - COISA JULGADA RECONHECIDA - SENTENÇA CONFIRMADA.
+Nas razões do especial, alega dissídio jurisprudencial, insurgindo-se contra a extinção da presente demanda anulatória pelo Juízo de Botucatu, ante o reconhecimento de suposta coisa julgada material, oriunda de sentença proferida em embargos à execução.
+Com contrarrazões ao recurso especial, este foi inadmitido, ante a falta de comprovação do dissenso na jurisprudência; fundamento com o qual não concorda o agravante.
+Contraminuta apresentada às e-STJ fls. 1.643/1.648.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Feita essa consideração, cabe ressaltar que o recurso especial se origina de ação anulatória de débito fiscal ajuizada pelo agravante, em desfavor da Fazenda do Estado de São Paulo.
+Em primeiro grau de jurisdição, o Juízo da 1ª Vara Cível da Comarca de Batucatu/SP extinguiu o processo, sem resolução de mérito, ante o reconhecimento da coisa julgada.
+Irresignado, o particular interpôs recurso de apelação, que foi desprovido pelo TJ/SP. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 1.547/1.548):
+A rigor, o inconformismo sequer apresenta condições de ser conhecido, uma vez que suas razões atacam o fundamento da sentença, descumprida assim a exigência do art. 514, inciso II, do Código de Processo Civil.
+De toda a forma, a decisão monocrática não merece reparo.
+Consoante firmado pelo Superior Tribunal de Justiça no Recurso Especial nº 1.039.079  MG, relator o Ministro Luiz Fux, "não obstante a amplitude da matéria de defesa a ser arguida pelo executado no âmbito dos embargos à execução fiscal, a eficácia preclusiva da "res judicata" ("tantum judicatum quantum disputatum vel quantum disputari debebat") impede o reexame de questão decidida, definitivamente, nos autos da ação anulatória".
+Da mesma maneira, nos autos da demanda anulatória é vedada nova apreciação de questão decidida nos embargos à execução fiscal por sentença contra a qual já não cabe recurso, exatamente a hipótese dos autos, como é fácil verificar dos documentos de fis. 1.373/1.377 e 1.392/1.430.
+Os embargos de declaração opostos pelo agravante foram rejeitados.
+Pois bem.
+De plano, ressalvado meu entendimento pessoal, consigno que a jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp n. 1.346.588/DF, relator Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+Na espécie, a parte agravante não se desincumbiu de indicar o dispositivo de lei federal supostamente violado em razão do dissídio. De acordo com a orientação firmada pela Corte Especial deste Tribunal, ajusta-se à hipótese a aplicação do contido na Súmula 284 do STF. A propósito, confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. PROVA DISCURSIVA. ALEGAÇÃO DE INADEQUAÇÃO AO CONTEÚDO DO EDITAL. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO SUPOSTAMENTE APLICADO DE MODO DIVERGENTE. SÚMULA 284/STF. INTERPRETAÇÃO DE CLÁSULA DO EDITAL. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 5 E 7/STJ.
+1. O Tribunal de origem não apreciou a controvérsia sob o enfoque do dispositivo legal apontado como violado (artigo 19, XIII, do Decreto 6.944/99), tampouco foram opostos embargos declaratórios para suprir eventual omissão neste aspecto. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Também no recurso especial lastreado na alegada existência de divergência pretoriana se exige do recorrente a precisa indicação do dispositivo de lei federal que se afirma violado, sob pena de incidência da Súmula 284/STF. Precedentes: AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe 17/3/2014; AgRg no REsp 1.527.274/MG, Rel.ª Ministra Regina Helena Costa, Primeira Turma, DJe 23/9/2015; AgRg no AREsp 736.813/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 22/9/2015; AgRg no Ag 1.088.576/RS, Rel.ª Ministra Maria Isabel Gallotti, DJe 26/8/2015.
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 770.014/SC, relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 03/02/2016).
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. APOSENTADORIA. RURAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+Observa-se grave defeito de fundamentação no apelo especial, uma vez que o agravante não particulariza quais os preceitos legais infraconstitucionais estariam supostamente afrontados. Assim, seu recurso não pode ser conhecido nem pela alínea "a" e tampouco pela alínea "c" do permissivo constitucional, porquanto, ao indicar a divergência jurisprudencial sem a demonstração do dispositivo de lei violado, caracterizadas estão a alegação genérica e a deficiência de fundamentação recursal. Agravo regimental improvido.
+(AgRg no AREsp 821.869/SP, relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 24/02/2016).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" , do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
