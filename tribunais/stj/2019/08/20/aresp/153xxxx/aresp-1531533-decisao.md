@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por KATIA LOPES MARGHOTI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+MANDADO DE SEGURANÇA ESTUDANTE DE MEDICINA RESIDÊNCIA EM ESPECIALIDADE PRIORITÁRIA CARÊNCIA ESTENDIDA ABSTENÇÃO DE COBRANÇA REFERENTE AO CONTRATO DE FINANCIAMENTO ESTUDANTIL FNDE LEGITIMIDADE PROVIMENTO DO APELO.
+Quanto à controvérsia, alega violação do art. 6-B, § 3º, da Lei n. 10.260/2001, no que concerne à necessidade de deferimento o pedido de extensão da carência do contrato financiamento estudantil até o término da residência médica, trazendo o(s) seguinte(s) argumento(s):
+Assim, o respeitoso julgado ao desconsiderar Portaria anterior, a qual Portaria Conjunta nº 2/SAS/SGTES, de 25 de agosto de 2011 para realizar a análise do caso e do artigo pertinente (6- B, §3º da Lei nº. 10.260/01) violou preceitos e fundamentos básicos para análise do artigo supracitado.
+ ..
+Nesse contexto, não se mostra razoável justificar o indeferimento do pedido de carência estendida com base no fato da especialidade (no caso, Neurologia) simplesmente não constar do rol do Anexo II da Portaria Conjunta nº 03, de 19/02/2013, do Ministério da Saúde (Relação das Especialidades Médicas Prioritárias), já que tal ato estaria a afrontar os artigos supracitados, bem como os Princípios Constitucionais da Igualdade e Isonomia, dispensando tratamento diferenciado para estudantes na mesma condição perante o FIES, pois, enquanto alguns poderão continuar no exercício da residência médica por todo o seu tempo de duração, outros serão obrigados a desistir (fls. 211/212).
+Quanto à mesma controvérsia, também, alega violação do art. 5º da LINDB, trazendo o(s) seguinte(s) argumento(s):
+Ainda, deixou o respeitoso julgado de obedecer ao preceito do artigo 5º. Da Lei nº. 12.236/10, o qual dispõe que  na aplicação da Lei, o juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum  (fls. 211).
+É o relatório. Decido.
+Na espécie, é incabível o recurso especial porquanto eventual violação de lei federal seria meramente indireta e reflexa, pois exigiria um juízo anterior de norma infralegal, o que refoge à competência deste Superior Tribunal de Justiça.
+Nesse sentido, confiram-se os seguintes julgados: AgInt no Resp n. 1.652.475/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 1º/3/2019; AgInt no REsp n. 1.724.930/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 22/8/2018; AgInt no AREsp n. 1.133.843/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 27/3/2018; REsp n. 1.673.298/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 9/10/2017; AgRg no REsp n. 1.388.646/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 28/8/2015.
+Ademais, quanto ao art. 5º da LINDB, carece do indispensável prequestionamento pois não foi apreciado pelo acórdão recorrido.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
