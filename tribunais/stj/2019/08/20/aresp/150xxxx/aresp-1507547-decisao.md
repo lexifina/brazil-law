@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Riacho das Almas contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 315):
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. EDIÇÃO DA MP 753/2016. ALTERAÇÃO NO ART. 8º DA LEI 13.254/2016. INCLUSÃO DA MULTA NO REPASSE DO FPM. AUSÊNCIA DE INTERESSE DE AGIR. PERDA SUPERVENIENTE DO OBJETO DA AÇÃO. OBSERVÂNCIA DO PRINCÍPIO DA LEGALIDADE.
+1. Apelação interposta contra sentença que, em sede de ação em que se objetivou o repasse do valor correspondente ao Fundo de Participação dos Municípios - FPM incidente sobre a multa prevista no art. 8º, da Lei nº 13.254/2016, extinguiu o processo sem resolução do mérito, condenando a União no pagamento dos honorários advocatícios. O Município defende que ainda há interesse de agir.
+2. "O exercício da jurisdição deve considerar a utilidade do provimento judicial, sopesando o custo social de sua efetivação" (STJ - REsp 796.533 - 3ª T - Rel. Min. Paulo Furtado - DJe 24.02.2010).
+3. Não havendo pretensão resistida, não há interesse legítimo para o exercício do direito de ação. Revela-se desnecessária a utilização do Poder Judiciário para o exercício de direito não obstado pela Administração.
+4. A repartição de verba pública requerida pelo Município acabou sendo concretizada com a publicação da Medida Provisória nº 753/16, que estabeleceu o repasses de parte dos valores arrecadados para o Fundo de Participação dos Municípios (FPM). Essa modificação legislativa conduziu o juiz de primeira instância a reconhecer a perda superveniente do objeto da ação. Precedentes da Terceira Turma.
+5. Reconhecimento da perda de objeto devido à mudança na legislação, impondo-se a extinção da ação sem resolução do mérito.
+6. Apelação improvida.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1022 do CPC/2015.
+Nas razões do recurso especial, a parte agravante aponta divergência jurisprudencial em face do art. 85, § 10, do CPC/2015. Sustenta que: (I) a superveniente edição da Medida Provisória n. 753/2016, em que se acolheu o pleito formulado na presente demanda, equivale ao reconhecimento do pedido, razão pela qual a ação proposta deve ser julgada procedente; (II) tendo a União dado causa à propositura da demanda, devem ser fixados os honorários advocatícios em favor da municipalidade.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional. Isso porque o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 1029, § 1º, do CPC/2015, e 255, §§ 1º e 2º, do RISTJ. Com efeito, a parte recorrente não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
