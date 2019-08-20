@@ -1,0 +1,22 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra r. decisão que não admitiu o seu recurso especial, por sua vez manejado em face de v. acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL, assim ementado (fl. 794):
+"AÇÃO DE REVISÃO DE BENEFÍCIO. PREVIDÊNCIA PRIVADA. FUNCEF. COMPLEMENTAÇÃO DE APOSENTADORIA. MIGRAÇÃO DE PLANOS. REVISÃO DE BENEFICIO SALDADO. IMPOSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. I. Considerando a atual orientação do egrégio STJ, a migração de planos de benefícios é feita por meio de transação extrajudicial, que constitui ato jurídico perfeito, no qual as partes fazem concessões de vantagens recíprocas, não havendo falar em aplicação do regulamento do plano de benefícios primitivo, que não rege, na atualidade, a relação contratual previdenciária mantida entre as partes. II. Dessa forma, como a migração é o resultado do concurso de vontades das partes e constitui ato jurídico perfeito, não pode ser anulada ou revogada parcialmente, o que inviabiliza o pleito da parte autora de revisão do seu benefício saldado sem que haja a declaração da anulação ou revogação da totalidade do ato jurídico. III. Deixam de ser majorados os honorários advocatícios nesta Instância, conforme previsto no art. 85, § 11, do CPC, uma vez que fixados em 20% sobre o valor da causa, ou seja, no valor máximo previsto no parágrafo 2º, da mesma norma processual. APELAÇÃO DESPROVIDA."
+Opostos os embargos de declaração, foram rejeitados (fls. 827-833).
+Nas razões do recurso especial (art. 105, III, alínea "a", da CF), apontou a parte recorrente violação aos arts. 489 e 1022 do CPC/15, por negativa de prestação jurisdicional, maculando o v. acórdão recorrido de nulidade e arts. 502, 503 do CPC/15, anotando ter havido violação à coisa julgada.
+Contrarrazões ao recurso especial apresentadas às fls. 860-881.
+O Tribunal de origem negou seguimento ao recurso especial (fls. 884-905).
+Contra aludida decisão, a recorrente interpõe o agravo (fls. 907-945).
+Contraminuta de agravo foi apresentada às fls. 946-969.
+É o relatório.
+DECIDO.
+2. Não se viabiliza o recurso especial pela alegada violação aos arts. 489 e 1.022, II, do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LIBERDADE DE EXPRESSÃO. ANÚNCIOS PUBLICADOS EM JORNAIS. DEVER DE VERACIDADE. CONDENAÇÃO. DANOS MATERIAIS E MORAIS. ART. 1.022 DO NCPC. OMISSÃO. INEXISTÊNCIA. EFEITO INFRINGENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (art. 1.022 do NCPC).
+2. Os embargos de declaração não podem conduzir a novo julgamento, com a reapreciação do que ficou decidido.
+3. Os argumentos suscitados pela embargante (condenação por danos morais fixada em valor exorbitante se considerados os acréscimos dos juros de mora e da correção monetária e injustiça da quantia arbitrada, em comparação com outro processo julgado na origem entre as partes litigantes) não constituem pontos omissos, mas visam a rediscussão do julgado para obter efeito infringente, o que esbarra na finalidade integrativa dos aclaratórios.
+4. Não há omissão no acórdão que deixa de se pronunciar sobre matéria não versada no recurso especial. A embargante, sob o pretexto de que há ponto omisso no julgado, inova ao trazer a tese de que é o caso de afastar ou reduzir a base de cálculo dos juros de mora e da correção monetária.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1552550/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 09/08/2016, DJe 19/08/2016).
+3. De outro lado, o ora agravante defende ter havido violação à coisa julgada, que reconheceu o direito à integralização do CTVA ao cálculo do saldamento. Não obstante, matéria referente à suposta violação aos arts. 502 e 503 do CPC/15 não foi objeto de discussão no acórdão recorrido, nem mesmo foi formulada perante o Tribunal de origem em sede de razões de apelação por parte do ora agravante (fls. 769-788), não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+4. Ante o exposto, nego provimento ao agravo.
