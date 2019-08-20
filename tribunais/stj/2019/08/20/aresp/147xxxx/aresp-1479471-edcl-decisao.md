@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] COSTA e OUTROS em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal (Súmula n. 7/STJ), nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que decisão foi omissa "vez se não manifestou sobre o artigo 921, I c/c 313, V, "a" do Código de Processo Civil , que prevê a possibilidade de suspensão da execução dos valores a serem pagos (quantia certa) na hipótese em que os valores dependem da solução de outro processo pendente, que, no caso, é o cumprimento da sentença (impugnação da sentença), em execução de fazer." (fl. 135).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Eis o fundamento da decisão embargada:
+Na espécie, observa-se que o acórdão recorrido decidiu que o ajuizamento da ação de cumprimento da obrigação de pagar não dependia da efetivação da obrigação de fazer.
+Confira-se:
+Não se olvida das hipóteses em que a obrigação de pagar somente se torna executável após o final do cumprimento da obrigação de fazer, todavia, não é esta a circunstância dos autos porquanto deste a data em que foi requerida a execução da obrigação de fazer as apeladas possuíam condições de apresentar os cálculos para o pedido de execução da obrigação de pagar. Nesse cenário, não sendo apresentada a pretensão executiva da obrigação de pagar no prazo de cinco anos após o trânsito em julgado, não há dúvida sobre a ocorrência da prescrição (fls. 77).
+Diante disso, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos (fls. 131/132).
+Como o Tribunal "a quo" - soberano na apreciação do contexto fático-probatório dos autos - entendeu que, na hipótese em questão, a obrigação de pagar independe da obrigação de fazer, a pretensão de "suspensão da execução dos valores a serem pagos (quantia certa) na hipótese em que os valores dependem da solução de outro processo pendente" (fl. 135), respaldada nos arts. 921, I c/c 313, V, "a" do CPC, de fato, encontra óbice na Súmula 7/STJ.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
