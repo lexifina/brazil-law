@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de agravo apresentado por VISION MED ASSISTENCIA MEDICA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+DIREITO DO CONSUMIDOR CIVIL E PROCESSUAL CIVIL AÇÃO DE OBRIGAÇÃO DE FAZER LEGITIMIDADE PASSIVA ADMINISTRADORA DE BENEFÍCIOS PLANO COLETIVO DE ASSISTÊNCIA A SAÚDE RESILIÇÃO UNILATERAL CONTRATAÇÃO IRREGULAR CONSUMDOR NÃO FILIADO À ENTIDADE SINDICAL OFENSA AO PRINCÍPIO DA CONFIANÇA DIREITO DO CONSUMIDOR A CONTINUIDADE DO PLANO DE ASSISTÊNCIA A SAÚDE
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 13, parágrafo único, II e III, e do art. 17-A, § 6º, da Lei n. 9.656/98. Sustenta que a vedação da resilição unilateral do contrato não deve ser aplicada ao caso dos autos, uma vez que não se trata de contrato individual de plano de saúde, trazendo, em resumo, os seguintes argumentos:
+Como exposto, o acórdão recorrido reconheceu a existência os requisitos legais que permitem a resilição do contrato, quais sejam:
+adesão ao contrato de plano de saúde coletivo;
+resilição foi precedida da notificação;
+relação contratual de mais de 20 (vinte) anos
+Com isso, ao estabelecer que "não pode prevalecer a denúncia unilateral do contrato", o acórdão recorrido violou o art. 13, parágrafo único, inciso II e III, da Lei n. 9.656/98 ao aplica-lo à espécie.
+A referida norma é clara ao impedir a resilição apenas para os contratos de natureza individual, enquanto que o próprio acórdão reconhece que o recorrido assinou proposta de contrato coletivo.
+Assim, a vedação instituída no art. 13, parágrafo único, inciso II e III, da Lei 9.656/98 não deve ser aplicada ao caso dos autos, uma vez que não se trata de contrato individual de plano de saúde.
+Portanto, não restam dúvidas acerca da violação do acórdão recorrido em relação à legalidade da conduta da recorrente em cancelar o plano de saúde do recorrido, uma vez que todos os requisitos legais para tanto foram cumpridos, quais sejam, a previsão no contrato coletivo, sua vigência por pelo menos 12 (doze) meses e prévia notificação da outra parte.
+Portanto, ao contrário do registrado pelo Tribunal de origem, não se identifica qualquer abusividade na conduta da recorrente ao rescindir o contrato coletivo, nem violação às normas consumeristas ou da Lei dos Planos de Saúde, sendo de rigor a reforma do acórdão recorrido para julgar improcedentes os pedidos formulados na petição inicial (fls. 514/518).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos art. 408 do CPC, 4º, III, e 6º, VI, do CDC e do art. 422 do CC, trazendo os seguintes argumentos:
+Ao negar provimento ao recurso interposto, o acórdão recorrido reconhece a existência de prova nos autos de declaração do recorrido de filiação ao Sindicato dos Empregados no Comércio do DF - SINDICOM/DF.
+Entretanto, o acórdão recorrido conclui que tal prova serve apenas como declaração, mas não fato declarado e utiliza-se de tal argumento para argumentar que o recorrido teria contratado plano individual de assistência à saúde.
+Contudo, a interpretação do art. 408 do CPC realizada deve ser revista.
+Isso porque, inexiste nos autos motivos para duvidar da veracidade do documento apresentado.
+ ..
+No caso, o recorrido nunca se opôs à sua filiação com o sindicato, SINDICOM/DF, para aderir ao contrato de plano de saúde coletivo, o que lhe beneficiou com valores menores das mensalidades, redução ou eliminação dá carência e grande abrangência de cobertura de procedimentos.
+Os preços oferecidos por planos de saúde na modalidade coletiva por adesão são mais baratos do que os planos individuais ou coletivos feitos por pessoas físicas. Isso só é possível devido à grande quantidade de pessoas incluídas no plano. A quantidade de pessoas barateia o custo, o que torna o plano uma realidade e consequentemente traz segurança e conforto.
+ ..
+Dessa forma, agora, não pode o recorrido questionar a veracidade de sua filiação apenas por ser posição que lhe seria mais favorável diante desta lide. A situação de ser aderente a um plano de saúde coletivo lhe beneficiou por anos, e agora, o recorrido surge com a impugnação quanto à forma de contratação apenas por lhe ser mais favorável para continuidade da relação jurídica e imposição de fornecimento de um plano de saúde com contrato individual.
+Não pode o recorrido se comportar de forma contraditória durante a execução de seu contrato, ora aceitando ser incluído em plano coletivo quando a posição lhe traz benefícios, e, em seguida, impugnando seu contrato coletivo apenas porque lhe coloca em situação que não é favorável.
+Portanto, se faz necessário o reconhecimento de violação ao arte 422, do CC e 4, III, do CDC diante da postura contrária à boa -fé tomada pelo recorrido de que só agora, com a rescisão do contrato, argumenta que sua filiação ao sindicato não é verídica.
+A violação do art. 6, IV do CDC está na interpretação que acórdão deu à conduta da recorrente ao considerar que a contratação do plano de saúde coletiva se deu de forma contrária aos anseios do recorrido, razão pela qual concluiu ser devida a continuidade da relação jurídica nos moldes contratados, pelo menos até que se viabilize migração compatível.
+Como exposto e reconhecido pelo acórdão, o recorrido "subscreveu a proposta de adesão ao contrato de plano de saúde coletivo", o que demonstra sua inequívoca ciência das cláusulas contratuais.
+O próprio acórdão recorrido dispõe que a conduta da recorrente atendeu ao direito elementar de informação, conforme trecho do voto -relator, a seguir:
+ ..
+Assim, não deve ser atribuído ao recorrente qualquer conduta contrária à lei, razão pela qual restaram violados os arts. 408 do CPC, 42 III E 62 VI, ambos CDC E 422 do CC.
+ ..
+Conclui-se que as violações apontadas devem ser reconhecidas e o presente recurso especial provido (fls. 518/523).
+Quanto à terceira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 1.026, § 2º, do CPC, no que concerne à inviabilidade de aplicação de multa tendo em vista a ausência de pretensão protelatória nos embargos de declaração opostos, trazendo os seguintes argumentos:
+Por fim, importante ressaltar que o v. acórdão também violou o § 2º do art. 1.026 do CPC, ao aplicar equivocadamente multa por embargos protelatórios a recorrente.
+Isso porque, nos declaratórios opostos em face do v. acórdão inexistia interesse de reexame de questão de mérito ou qualquer pretensão protelatória. A recorrente buscou apenas a complementação da entrega da devida prestação jurisdicional, sendo ela a maior interessada na pronta e célere solução do litígio.
+Foram interpostos embargos de declaração com nítido propósito de que o Tribunal a quo analisasse a contradição do acórdão recorrido que mostrou-se excessivamente desproporcional a condenação da recorrente à manutenção do contrato do recorrido.
+É que ele não enfrentou - apesar de instada a tanto - argumentos deduzidos oportunamente no processo, aptos a infirmar as conclusões do julgado.
+ ..
+Todavia, o v. acórdão entendeu de maneira adversa e condenou a recorrente equivocadamente ao pagamento da multa do §2º do art. 1.026 do CPC.
+Exas., a penalidade foi aplicada no primeiro aclaratório oposto, o que demonstra ser desproporcional a multa imposta, pois a matéria ventilada era de extrema relevância e era a última oportunidade da recorrente de trazer a matéria para análise desta corte.
+Dessa forma, na certeza de haver demonstrado a ausência de razoabilidade ou proporcionalidade na penalidade imposta, requer seja retirada a multa aplicada, ante a patente inexistência procrastinatória, ante a violação ao §2 do art. 1.026 do CPC (fls. 523/525).
+É o relatório. Decido.
+Quanto à primeira e à segunda controvérsias, o Tribunal de origem assim decidiu a questão:
+No caso sub judice, o Apelado subscreveu a proposta de adesão ao contrato de plano de saúde coletivo e a resilição foi precedida da notificação que identifica claramente o móvel ou o fundamento da denúncia do contrato, de molde a cumprir a exigência do artigo 17 da Resolução Normativa 195/2009, da Agência Nacional de Saúde - ANS, e a atender ao direito elementar de informação consagrado nos artigos 4º, inciso IV, 6º, inciso III, e 46 do Código de Defesa do Consumidor.
+Ocorre, todavia, que o Apelado não é filiado ao Sindicato dos Empregados no Comércio do Distrito Federal (SINDICOM/DF), entidade que consta do contrato de adesão, e nenhuma das Apelantes refutou a sua assertiva de que a avença constitui falso contrato coletivo por adesão.
+ ..
+Note-se que a declaração de filiação ao Sindicato dos Empregados no Comércio do DF - SINDICOM/DF (fl. 131) prova apenas a declaração, mas nãr.) o fato declarado, consoante o disposto no artigo 408 do Código de Processo Civil.  ..
+ ..
+Significa dizer que na realidade o Apelado contratou plano individual de assistência à saúde, porém as Apelantes promoveram sua filiação artificial à entidade de classe para inseri-lo em plano coletivo de assistência à saúde.
+Importa destacar que, à época da contratação, o Apelado vinha de uma relação contratual individual de 20 anos com a Unimed Brasília, e realizou a migração naturalmente com o propósito de dar continuidade ao mesmo tipo de plano de saúde, conforme comprovam os documentos de fls. 119/124.
+Vê-se, assim, que a conduta das Apelantes apartou-se da boa-fé objetiva consagrada nos artigos 4º, inciso III, do Código de Defesa do Consumidor, e 422 do Códigó Civil, violando o princípio da confiança, na medida em que gerou uma contratação artificial que não corresponde às legitimas expectativas do Apelado.
+ ..
+Assim sendo, não, pode prevalecer o artificialismo produzido pelas Apelantes com o propósito de fabricar uma contratação alheia à condição jurídica do Apelado e contrária aos seus legítimos anseios, daí por que deve ser imposta a continuidade da relação jurídica nos moldes contratados, pelo menos até que se viabilize migração compatível.
+Com efeito, não pode prevalecer a denúncia unilateral do contrato que, em verdade e em essência, é de natureza individual.
+ANTE O EXPOSTO, conheço e nego provimento às apelações interpostas pelas Rés. (fls. 457/463).
+Desse modo, no caso, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 07/03/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp 1.374.756/BA, Rel.ª Ministra Laurita Vaz, Sexta Turma, DJe 01/03/2019; AgInt nos EDcl no AREsp 1.356.000/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 06/03/2019; e REsp 1.764.793/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 08/03/2019.
+Do mesmo modo, incide o óbice da Súmula n. 5 do STJ ("A simples interpretação de cláusula contratual não enseja recurso especial"), uma vez que a pretensão recursal demanda reexame de cláusulas contratuais.
+Nesse sentido: "E mesmo se superado tal obstáculo, constata-se que a controvérsia foi dirimida pelo Tribunal a quo com base na análise e interpretação de cláusulas contratuais, fato esse que impede o exame da questão por esta Corte, em face da vedação prevista na Súmula n. 5/STJ" (AgInt no AREsp n. 1.298.442/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no REsp n. 1.476.562/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 22/3/2019; AgInt nos EDcl no AREsp n. 1.278.998/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/3/2019; AgInt no AREsp n. 1.297.507/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/2/2019; e AgInt no REsp n. 1.768.401/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 4/2/2019.
+Quanto à terceira controvérsia, na espécie, o acórdão assim decidiu:
+Como instrumento da jurisdição, o processo exige desempenho colaborativo das partes e é incompatível com atitudes que, desgarradas da probidade, irrompem para o terreno da má-fé.
+Quando interpostos com o claro propósito de provocar o reexame de questões explicitamente solucionadas no acórdão recorrido, como na espécie, não há como deixar de reconhecer o intuito protelatório dos embargos declaratórios que atrai a aplicação da multa assim disposta no artigo 1.026, § 2º, do Código de Processo Civil:
+ ..
+Conduta processual dessa natureza avilta a dignidade processual dos embargos de declaração e não pode escapar à sanção expressamente consignada na legislação em vigor. Nesse sentido, decidiu o Supremo Tribunal Federal:
+ ..
+Ante o exposto, voto pelo desprovimento do recurso e pela condenação de cada Embargante ao pagamento de multa equivalente a 2% sobre o valor atualizado da causa (fls. 506/507).
+Diante de tal contexto, incide novamente o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto ao caráter protelatório dos embargos de declaração exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que, "in casu, rever o entendimento do Tribunal de origem, que aplicou a pena de multa prevista no art. 538, parágrafo único, do Código de Processo Civil, por considerar os embargos protelatórios, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ" (AgRg no AREsp n. 368.054/ES, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/3/2015).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.381.439/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 9/4/2019; REsp n. 1.718.897/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019; AgInt nos EDcl no AREsp n. 1.138.645/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 23/3/2018; AgRg no REsp n. 1.192.745/PE, relator Ministro Og Fernandes, Sexta Turma, DJe de 21/3/2011.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
