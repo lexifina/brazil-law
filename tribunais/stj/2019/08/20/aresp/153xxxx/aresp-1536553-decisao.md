@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo apresentado por SINDICATO DO COM ATAC DE DROGAS E MED DO EST DA PARAIBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim resumido:
+TRIBUTÁRIO CONSELHO REGIONAL DE FARMÁCIA ANUIDADE DISTRIBUIDORA DE MEDICAMENTOS MANUTENÇÃO DE PROFISSIONAL FARMACÊUTICO INSCRIÇÃO REALIZAÇÃO DO FATO GERADOR RECURSO PROVIDO
+Quanto à primeira controvérsia, alega violação dos arts. 219, 223, 1.003, § 5º, e 1.009 do CPC, no que concerne à intempestividade da apelação, trazendo o(s) seguinte(s) argumento(s):
+Inclusive, no dia 11/09/2017, eis o que foi certificado pela Diretora de Secretaria DANIELLE LUCIA CRUZ DA NOBREGA (Id. 4058200.1772622): Certifico que, apesar de constar, na aba expedientes, o prazo de 15 dias para intimação do réu acerca da sentença, ESTA SECRETARIA OBSERVOU O PRAZO LEGAL, CERTIFICANDO O TRÂNSITO EM JULGADO APENAS APÓS 30 DIAS ÚTEIS DA INTIMAÇÃO DO MESMO. Dou fé.
+ ..
+Assim, o Tribunal Regional Federal da 5ª Região não observou esta certidão da Diretora da Secretaria, razão pela qual verifica-se omissão quanto ao pleito de intempestividade recursal apontado em sede de contrarrazões à apelação bem como ratificado em Embargos de Declaração após a decisão do E. Tribunal a quo.
+Portanto, o recurso de apelação é intempestivo e a ré se valeu de um sistema interno de contagem de prazos para levar a Magistrada de Primeira Instância ao erro bem como o Tribunal Regional Federal da 5ª Região violando dispositivo federal.
+ ..
+A Magistrada e o Tribunal Regional Federal da 5ª Região foram levados à erro e não observaram a certidão de Id. 4058200.1772622.
+ ..
+Conforme pode se verificar pelas razões da petição da ré, o mesmo não apresenta motivo justo para reabertura de prazo. Não apresentou nenhuma justa causa que impediu de praticar o ato, muito pelo contrário, o processo é eletrônico, não houve indisponibilidade do sistema, portanto não houve nenhum evento alheio que impedisse de interpor a peça de recurso (fls. 504/505).
+Quanto à segunda controvérsia, pela alínea "c" do permissivo constitucional, alega divergência jurisprudencial.
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o acórdão recorrido assim decidiu:
+Em verdade, o recurso interposto representa discordância com a interpretação dada por esta Terceira Turma, segundo a qual a ausência da necessária ressalva do cômputo do prazo em dobro por ocasião da intimação da sentença prolatada impunha o restabelecimento do prazo remanescente em favor da entidade autárquica (fl. 487).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Quanto à segunda controvérsia, na espécie, não foi comprovada a divergência jurisprudencial, uma vez que não cumpridos os requisitos legais dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nesse sentido, os seguintes julgados: AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018; AgInt no REsp 1.696.707/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 12/3/2018; e AgRg no REsp 1.683.470/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 31/10/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
