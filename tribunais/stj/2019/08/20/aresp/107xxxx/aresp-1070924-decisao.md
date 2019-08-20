@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do NCPC), interposto por [NOME], contra decisão que não admitiu recurso especial, ante a aplicação das Súmulas 07 e 417 do STJ.
+Nas razões de agravo, a insurgente busca o destrancamento do reclamo.
+Contraminuta apresentada pela parte agravada.
+É o relatório.
+Decido.
+1. O recurso não é admissível, por violação ao princípio da dialeticidade.
+Com efeito, no caso dos autos, observa-se que a agravante não combateu, especificamente, todos os fundamentos utilizados pela Corte Estadual para inadmitir o processamento do apelo extremo. Isso porque, quanto à aplicação da Súmula 417 do STJ, a insurgente se ateve apenas a defender a "reforma da decisão no ponto, vez que poderia ter negado seguimento apenas do tocante à arguição de ofensa à referida Súmula, permitindo o trânsito quanto às demais questões" (fl. 450, e-STJ).
+Ora, como restou asseverado, por esta relatoria, no julgamento do AgInt no AREsp n.º 1.519.438/SP, quanto à técnica de conhecimento recursal da decisão de inadmissão do apelo nobre pela instância a quo, que a Corte Especial do STJ fixou orientação de que a decisão de inadmissão do recurso especial é incindível em capítulos autônomos, tornando imprescindível a impugnação específica de todos os seus fundamentos. Precedentes: EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018.
+Transcreve-se, para melhor compreensão, o seguinte trecho registrado na ementa de todos os julgados acima citados:
+A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+Assim, a falta de ataque específico aos fundamentos da decisão agravada atrai, por analogia, o óbice contido no Enunciado n. 182, da Súmula do STJ, verbis:
+"É inviável o agravo do art. 545 do CPC  73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+Com efeito, nos moldes do entendimento firmado por este Tribunal Superior, à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos da decisão de admissibilidade recursal, de maneira a demonstrar que o apelo extremo merece ser apreciado por esta Corte, o que não se vislumbra no recurso em questão.
+Este, a propósito, foi o entendimento adotado pela Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n.º 746.775/PR, no qual restou afirmado que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo por aplicação da Súmula 182 do STJ.
+2. Do exposto, com fulcro no art. 932 do NCPC c/c Súmula 568/STJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
