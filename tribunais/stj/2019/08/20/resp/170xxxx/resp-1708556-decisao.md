@@ -1,0 +1,24 @@
+DECISÃO
+PROCESSUAL CIVIL, TRIBUTÁRIO E ADMINISTRATIVO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCLUSÃO DO CADIN. EXISTÊNCIA DE SENTENÇA DECLARATÓRIA DE PARCIAL NULIDADE DA CDA. VALOR ÍNFIMO. COMPROVANTES DE PAGAMENTOS QUE DEMONSTRAM A BOA-FÉ DO CONTRIBUINTE. CONJUNTO PROBATÓRIO. O REEXAME PRETENDIDO IMPLICA A NECESSIDADE DE REVOLVIMENTO DOS AUTOS. IMPOSSIBILIDADE, EM PRINCÍPIO, NESTA SEARA RECURSAL ESPECIAL. RECURSO ESPECIAL DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial fundado na alínea a do art. 105, III da Carta Magna, interposto pela FAZENDA NACIONAL, contra acórdão do egrégio TRF da 5a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCLUSÃO DO CADIN. EXISTÊNCIA DE SENTENÇA DECLARATÓRIA DE PARCIAL NULIDADE DA CDA. VALOR ÍNFIMO. COMPROVANTES DE PAGAMENTO QUE DEMONSTRAM A BOA-FÉ DO CONTRIBUINTE. AGRAVO NÃO PROVIDO (fls.314).
+2. Em seu Apelo Especial (fls. 338/342), a parte recorrente aponta violação dos arts. 1022 do Código Fux; 2o. e 7o. da Lei 10.522/2002. Alega que tendo, o ora agravado, sido excluído do parcelamento, os seus débitos voltaram a ser exigíveis e intimado a normalizar os pagamentos, não tendo procedido à quitação dos valores pagos a menor, não restava outra atitude a ser tomada pelo agente público que não fosse a inclusão no CADIN (fls. 341).
+3. Sem contrarrazões (fls. 348), sobreveio juízo positivo de admissibilidade (fls. 349).
+4. É o relatório.
+5. A irresignação não merece prosperar.
+6. Conforme se verifica dos autos, os fundamentos utilizados como razões de decidir do Acórdão proferido pela Corte de origem foram:
+Em uma análise preliminar e precária, própria das tutelas de urgência, entendo que não merece reforma o entendimento exarado pelo magistrado de origem. Ora, restara demonstrada na decisão de primeira instância a existência de sentença transitada em julgado que determinou uma redução substancial do montante devido na CDA em questão. Ademais, ao compulsar os autos originários, observa-se que o recorrido colacionou aos autos os comprovantes de pagamento de várias parcelas vencidas (id 4058311.2669856, 4058311.2636950), de modo que, conforme aduzido pelo juízo de primeiro piso, há grande probabilidade de que o débito já esteja integralmente pago.
+Conquanto a Fazenda Nacional aduza que os valores parcialmente pagos pela devedora não levem a quitação total da dívida, o que obstaria exclusão da agravada do CADIN, não traz aos autos qualquer documento que comprove suas alegações e assinale a existência de saldo devedor residual. Assim sendo, neste primeiro momento é de ser mantida a presunção juris tantum fixada pela decisão agravada no sentido de que há grande probabilidade de que já exista a quitação integral do débito (fls. 313).
+7. A alteração de tais conclusões tiradas, tendo em vista as provas constantes nos autos, implicaria o revolvimento do conteúdo fático-probatório da demanda, situação esta que se afigura vedada, em princípio, nesta seara recursal especial.
+8. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTO. NOTIFICAÇÃO DE LANÇAMENTO. PUBLICAÇÃO NO DIÁRIO OFICIAL. QUEBRA DE SIGILO FISCAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DESTA CORTE. EXAME DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. INCIDÊNCIA. DANOS MORAIS. NECESSIDADE DO REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1. O Tribunal de origem não se pronunciou sobre a matéria versada nos arts. 198 do CTN, apesar da oposição de embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ (Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.).
+(..).
+3. A alteração das conclusões adotadas pela Corte de origem, quanto à ausência de comprovação do dano moral, exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto no enunciado 7 da Súmula do Superior Tribunal de Justiça.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 721.518/DF, Rel. Min. SÉRGIO KUKINA, DJe 19.8.2015).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. A tese defendida no recurso especial demanda o reexame do conjunto fático e probatório dos autos, vedado pelo enunciado 7 da Súmula do STJ.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp. 745.648/RS, Rel. Min. MARIA ISABEL GALLOTTI, DJe 29.9.2015).
+9. Diante do exposto, nega-se provimento ao Recurso Especial da FAZENDA NACIONAL.
+10. Publique-se. Intimações necessárias.
