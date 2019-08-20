@@ -1,0 +1,67 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PRAZO PARA CUMPRIMENTO DAS OBRIGAÇÕES. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. NOTIFICAÇÃO DO INADIMPLEMENTO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS E DO INSTRUMENTO CONTRATUAL. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A exceção do contrato não cumprido, derivada do disposto no artigo 476 do CC/2002, incide no caso dos autos, não sendo possível ao agravante exigir o cumprimento das obrigações impostas aos agravados, sem que ela própria tenha cumprido as suas.
+2. O acórdão estadual examinou a matéria fática para concluir pela incidência da exceção de contrato não cumprido. Dessa forma, inviável alterar tal conclusão em recurso especial, ante o óbice das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO(Relator):
+1. Trata-se de agravo interno interposto por TOTALGEST PARTICIPACOES S.A., em face da decisão deste relator (fls. 662-666), que negou provimento ao agravo em recurso especial, pelos seguinte fundamentos: (i) incidência das Súmulas 5 e 7 desta Corte, uma vez que a reforma do acórdão recorrido, tal como pretendido pela agravante, para afastar a teoria da exceção do contrato não cumprido, demandaria reexame do instrumento contratual, bem como das provas dos autos.
+Nas razões do presente recurso (fls. 669-687), a agravante reitera a insurgência veiculada nas razões do recurso especial, no tocante à ofensa aos arts. 463, 464 e 467, do Código Civil. Refuta o óbice das Súmulas 5 e 7 do STJ.
+Postula, a reforma da decisão agravada para dar provimento ao agravo, bem como ao recurso especial interposto.
+A parte agravada impugnou o recurso às fls. 669-687.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PRAZO PARA CUMPRIMENTO DAS OBRIGAÇÕES. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. NOTIFICAÇÃO DO INADIMPLEMENTO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS E DO INSTRUMENTO CONTRATUAL. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A exceção do contrato não cumprido, derivada do disposto no artigo 476 do CC/2002, incide no caso dos autos, não sendo possível ao agravante exigir o cumprimento das obrigações impostas aos agravados, sem que ela própria tenha cumprido as suas.
+2. O acórdão estadual examinou a matéria fática para concluir pela incidência da exceção de contrato não cumprido. Dessa forma, inviável alterar tal conclusão em recurso especial, ante o óbice das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO(Relator):
+2. A parte agravante não se conforma com a decisão de fls. 662-666, que negou provimento ao agravo, manejado contra a inadmissão de seu recurso especial, interposto em face de acórdão proferido pelo Tribunal de Justiça local.
+Nas razões do recurso especial, a parte apontou ofensa ao disposto nos arts. 463, 463 476 do Código Civil, insurgindo-se contra decisão da Corte local que aplicou a exceção do contrato não cumprido.
+Neste agravo, repisa a insurgência veiculada nas razões do recurso especial, de que o descumprimento do contrato ocorreu por parte dos recorridos o que ensejou a rescisão do pacto, sem que a agravante tenha dado causa.
+3. Não obstante a insurgência da agravante, o recurso não merece acolhida. Isso porque, conforme destacado na decisão ora agravada, o acórdão estadual ao analisar controvérsia, reconheceu a exceção do contrato não cumprido, amparado na seguinte fundamentação:
+ ..  a apelante pretende compelir os requeridos a cumprirem com os termos de contrato preliminar indicado na petição inicial ou serem condenados ao pagamento de indenização.
+A cláusula 1ª do enfocado contrato preliminar tem a seguinte redação:
+ ..
+Por meio da cláusula 2ª, ficou estabelecido, ainda:
+ ..
+Em contrapartida, a autora pagou R$ 1,00 (um real) no ato da assinatura do contrato e comprometeu-se a quitar o passivo do Grupo Europetro (Cláusula 3ª - fls. 42).
+A autora insiste ter constato, implicitamente, do contrato preliminar firmado, que só infetaria recursos no enfocado grupo empresarial quando as alterações dos estatutos ou contratos sociais fossem aquivados perante a Junta Comercial do Estado de São Paulo (JUCESP).
+Mesmo considerando o que consta do preâmbulo do enfocado contrato preliminar, não se extrai que os réus, antes da quitação do passivo, estavam obrigados a promoverem as pretendidas alterações.
+Ressalta-se constar de dito preâmbulo, tão somente, que a sociedade Europectro "é tradicional empresa de participações na aquisição e gestão de Postos de Combustíveis", a qual, diante de "fatores econômicos conjunturais (..), encontra-se em situação delicada por falta de capital de giro e consequente impossibilidade de obter crédito no mercado financeiro" e que a autora-apelante procedeu a um "exame da real situação econômico financeira da Europectro, concluindo pela viabilidade da reestruturação e recuperação da empresa, manifestando, assim interesse em adquiri-la (fls. 41).
+Extrai-se de referido contrato preliminar, em especial do texto de seu preâmbulo, que foi, simplesmente, diante das dificuldades financeiras da Europectro, manifestado, por parte da autora-apelante, "o interesse de adquiri-la" (fls. 41). Esse interesse, porém não se concretizou.
+Da análise de todo o contrato, incluindo esse preâmbulo, ao contrário do proposto pela apelante, inexiste qualquer indicativo, ainda que implícito, de que as alterações contratuais deveriam anteceder a solução do expresso passivo acumulado e declarado no instrumento firmado pelas partes.
+Destarte, mesmo diante do disposto nos arts. 462 a 466 do Código Civil de 2002 e, ainda, que não se confundam cláusulas de irrevogabilidade e irretratabilidade com a possibilidade de rescisão da avença por inadimplemento, a parte autora, antes de cumprir com sua obrigação (solução do passivo da sociedade), não pode exigir que a outra parte ré cumpra com a obrigação assumida (alteração contratual).
+A exceção do contrato não cumprido, derivada do disposto no artigo 476 do Código Civil de 2002, tem aqui, aplicação, não sendo possível, à apelante, exigir o cumprimento das obrigações impostas aos apelados, sem que ela própria tenha cumprido as suas. (fls. 601-604)
+Nessa linha de entendimento, reitero que não há como afastar o óbice das Súmulas 5 e 7 desta Corte Superior, uma vez que não é possível o acolhimento da pretensão recursal, no sentido de determinar o cumprimento da obrigação por parte do recorrido, para fins de afastar a teoria da exceção do contrato não cumprido, sem proceder-se à análise do instrumento contratual firmado entre as partes, bem como ao reexame do acervo fático-probatório dos autos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - TUTELA ANTECIPADA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA RÉ.
+1. A jurisprudência pacífica do STJ é no sentido de ser incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação analógica da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar."). Ademais, a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional (artigo 273 do CPC/73) reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+2. Rever a conclusão do Tribunal a quo acerca da adimplência ou não do comprador/adquirente, para fins de aplicação da exceção do contrato não cumprido, demandaria o reexame de provas, providência que encontra óbice nas Súmulas 5 e 7 desta Corte Superior.
+3. Agravo regimental desprovido. (AgRg no AREsp 744.749/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)  g.n.
+__________
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FALTA DE PAGAMENTO DA ÚLTIMA PARCELA DA PRESTAÇÃO CONTRATADA. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVA.
+1.Os embargos de declaração só se prestam a sanar obscuridade, omissão, contradição, ou erro material, vícios inexistentes no acórdão embargado. No caso, os embargos opostos perante o Tribunal de origem buscavam apenas prolongar a discussão em torno de argumentos já analisados pelo acórdão embargado, motivo pelo qual sua rejeição era medida adequada.
+2. Não se admite o recurso especial quando sua análise depende de interpretação de cláusula contratual e reexame de matéria de prova (Súmulas 5 e 7 do STJ).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1048598/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/12/2017, DJe 14/12/2017)  g.n.
+__________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. VIOLAÇÃO DO ART. 476 DO CC/2002. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO NÃO APLICADA PELO TRIBUNAL DE ORIGEM. CONCLUSÃO FUNDADA EM FATOS, PROVAS E TERMOS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+1. O acolhimento da tese a respeito da exceção do contrato não cumprido exigiria rever as conclusões alcançadas pelo Tribunal de origem, o que é inviável em recurso especial, por implicar reexame das provas contidas nos autos e análise e interpretação de cláusulas contratuais. Incidência das Súmulas n. 5 e 7 do STJ.
+2. Agravo interno desprovido. (AgInt no AREsp 1120315/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/11/2017, DJe 17/11/2017)  g.n.
+__________
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF. 2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, o Tribunal de origem examinou a matéria fática para concluir pela não incidência da exceção de contrato não cumprido. Dessa forma, inviável alterar tal conclusão em recurso especial, ante o óbice das mencionadas súmulas.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 992.681/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/08/2017, DJe 05/09/2017)  g.n.
+__________
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. AUSÊNCIA DE COMPROVAÇÃO. CLÁUSULA CONTRATUAL DE EXCLUSIVIDADE DE REPRESENTAÇÃO. IMPOSSIBILIDADE DE REEXAME DE MATÉRIA PROBATÓRIA. SÚMULAS 5 E 7/STJ. RECURSO NÃO PROVIDO.
+1. O Tribunal de origem consigna que não há comprovação nos autos de que a recorrida tenha descumprido com o pagamento das faturas devidas à recorrente, bem como quanto à existência de previsão de exclusividade de representação dos produtos da marca da recorrente. A reforma do aresto, neste aspecto, demanda inegável necessidade de interpretação de cláusula contratual e reexame de matéria probatória, providências inviáveis de serem adotadas em sede de recurso especial, ante o óbice das Súmulas 5 e 7 desta Corte.
+2. Agravo interno não provido. (AgInt no REsp 1453898/DF, de minha relatoria, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)  g.n.
+__________
+4. Portanto, inexistem razões que justifiquem o acolhimento da pretensão recursal, razão pela qual subsiste incólume o entendimento firmado na decisão ora agravada.
+5. Ante o exposto, nego provimento ao agravo interno.
+É o voto.
