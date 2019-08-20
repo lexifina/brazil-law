@@ -1,0 +1,27 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). COISA JULGADA. INTERPRETAÇÃO AMPLIATIVA. PREQUESTIONAMENTO. SÚMULA Nº 211 DESTA CORTE. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER O RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por 3RA COMERCIO, CONSULTORIA E SERVICOS DE INFORMATICA LTDA em face da decisão que negou seguimento a recurso especial, fundamentado nas alíneas "a" e "c" do art. 105, III, da Constituição Federal, contra decisão do Tribunal de Justiça de São Paulo, assim ementada:
+Apelação. Ação de regresso. Prestação de Serviços - Sentença de improcedência - Apelo da autora - Contratação de empregado como pessoa jurídica em evidente burla à legislação - Ajuizamento de ação trabalhista para reconhecimento de vínculo - Celebração de acordo - Inaplicabilidade da cláusula de direito de regresso no contrato objeto desta demanda - Simulação - Inteligência do artigo 161, §1º, inciso II, CC - Desprovimento - Litigância de má-fé e ato atentatório à dignidade da Justiça configurados - Sentença mantida Apelo desprovido. (e-STJ, fl. 175)
+Nas razões do recurso especial, a agravante alega violação aos artigos 843, 848, 849, do CC/02; ao artigo 6º, da LINDB, e ao artigo 502, do CPC/15, sustentando que "era aceito pelas partes que sobre a transação firmada pelas partes pairava o selo da coisa julgada, vez que a transação fora homologada pela justiça do trabalho e, a decisão que homologou esta transação, transitou em julgado" (e-STJ, fl. 202).
+Defende a violação à coisa julgada, pois sobre a transação já pairava a coisa julgada.
+É o relatório.
+Passo a decidir.
+Primeiramente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+A pretensão recursal não merece ser acolhida.
+No que se refere aos temas dos artigos 843, 848, 849, do CC/02; do artigo 6º, da LINDB, e do artigo 502, do CPC/15, quanto à necessidade de reconhecimento da coisa julgada e da interpretação ampliativa da transação, verifica-se que estes não foram apreciados pelo acórdão recorrido, não tendo sido suscitados nem mesmo nas razões dos aclaratórios, estando ausente o indispensável debate prévio.
+Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional, incidindo. O óbice da Súmula nº 282 do STF: É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 282/STF.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido. (AgRg no AREsp 504.917/SC, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/4/2015, DJe 20/4/2015 - grifou-se)
+Ressalta-se, por oportuno, que "à configuração do prequestionamento viabilizador do acesso a esta Superior instância, é necessário que o Tribunal local se manifeste, emita juízo de valor, ainda que de forma implícita, sobre a matéria federal tratada no dispositivo infralegal dito violado, não bastando, apenas, a menção dos referidos preceitos legais na petição de recurso especial". (AgRg no Ag 1259583/ PA, QUARTA TURMA, Rel. Ministro RAUL ARAÚJO, DJe 25/04/2014)
+Cumpre asseverar que para que reste configurado o prequestionamento da matéria é imprescindível que o Tribunal de origem tenha sobre ela emitido juízo, aplicando-a ou afastando-a na análise do caso concreto, não sendo necessário que o acórdão indique expressamente os dispositivos legais pertinentes.
+Portanto, é pacífico o entendimento desta Corte quanto à desnecessidade de que o Tribunal, ao proferir sua decisão, aprecie expressamente todas as questões suscitadas pelas partes, bastando que no acórdão constem os fundamentos utilizados para se chegar à conclusão exteriorizada e esta apresente uma solução à questão jurídica que lhe foi submetida pelas partes.
+Em outras palavras, cabe ao magistrado resolver a lide que lhe é posta, não estando submetido aos argumentos indicados pelo réu ou pelo autor, valendo o brocardo "da mihi factum dabo tibi ius", como fora feito nos presentes autos.
+Ademais, da análise do recurso interposto, é possível verificar que foram indicados apenas as ementas dos acórdãos paradigmas, não se identificando a ocorrência dos elementos necessários à comprovação da divergência jurisprudencial deduzida, a saber, semelhança entre as bases fáticas dos acórdãos confrontados e divergência entre teses jurídicas conferidas a um mesmo contexto, não atendendo, portanto, os requisitos do art. 541, parágrafo único, do CPC e do art. 255 do RISTJ, o que inviabiliza o exame do apontado dissídio.
+Advirta-se, por fim, que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, conforme Enunciado Administrativo n. 3/STJ.
+Ante o exposto, conheço o agravo para, desde logo, não conhecer o recurso especial.
+Intimem-se.
