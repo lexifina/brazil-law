@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo apresentado por ESTADO DO TOCANTINS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim resumido:
+1 APELAÇÃO MANDADO DE SEGURANÇA PRELIMINAR NULIDADE DA SENTENÇA ERRO MATERIAL REJEIÇÃO LIBERDADE DE CONVENCIMENTO DO MAGISTRADO FUNDAMENTAÇÃO ADEQUADA 2 AUTO DE INFRAÇÃO CONCESSIONÁRIA DE ENERGIA ELÉTRICA ISENÇÃO DE ICMS UNIDADES CONSUMIDORAS PERTENCENTES À SUBCLASSE RESIDENCIAL DE BAIXA RENDA APLICAÇÃO DA ISENÇÃO FISCAL PREVISTA NO ARTIGO 22 INCISO XXI A DO RICMS/TO LEGALIDADE REFORMA DA SENTENÇA 3 CÁLCULO DO LIMITE DE 220 KWH LEGISLAÇÃO ESTADUAL OMISSÃO RESOLUÇÃO N 485/2002 ANEEL EFETIVAÇÃO COM BASE NA MÉDIA DE CONSUMO DOS ÚLTIMOS 12 (DOZE) MESES E NÃO NO CONSUMO MENSAL ATUAÇÃO CORRETA DA CONCESSIONÁRIA DE SERVIÇOS PÚBLICOS.
+Alega violação do art. 10 da Lei n. 12.016/09 e da Súmula n. 266 do STF, no que concerne à ausência de direito líquido e certo para impetração de mandando de segurança, trazendo o(s) seguinte(s) argumento(s):
+É realmente inadequada a via eleita pela empresa autora, por tratar-se de hipótese clara que demanda dilação probatória, porquanto, em Mandado de Segurança, à exigência do art. 6º da Lei 12.016 de 2009, a prova documental deve ser previamente constituída.
+De uma análise perfunctória dos documentos colacionados aos autos, é possível constatar-se que a impetração mandamental não se acha instruída com prova literal pré-constituída, imprescindível à comprovação das alegações de ilegalidade do ato imputado às autoridades impetradas, apontadas como coatoras, bem como, evidencia-se que a matéria demanda produção de provas, inadmissível na via mandamental.
+ ..
+Nos autos, inexiste qualquer documento capaz de configurar o alegado direito líquido e certo da Impetrante. Ocorre que o direito líquido e certo é um dos pressupostos constitucionais de admissibilidade do writ e, no caso, esse pressuposto está ausente, uma vez que o pleito depende dilação probatória (fls. 249).
+É o relatório. Decido.
+Incide, na espécie, o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ademais, não é cabível o recurso especial por ofensa a enunciado de súmula dos tribunais.
+Assim, incide o óbice da Súmula n. 518 do STJ: "Para fins do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Nesse sentido: AgInt no REsp 1.532.990/MT, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/02/2019; AgInt no REsp 1724930/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22/08/2018; AgRg no AREsp 741.903/DF, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 04/12/2015; e AgRg no AREsp 10.529/DF, Rel. Ministro Newton Trisotto (Desembargador Convocado do TJ/SC), Quinta Turma, DJe 18/05/2015.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
