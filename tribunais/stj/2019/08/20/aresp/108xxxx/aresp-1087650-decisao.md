@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Agravo, interposto por TOTAL FLEET S/A, por meio do qual se impugna decisão que inadmitiu seu Recurso Especial, esse tirado de acórdão, promanado do Tribunal de Justiça do Estado de Minas Gerais, que julgou legal a incidência de ICMS sobre alienação de veículos automotores realizada em período inferior a doze meses da incorporação contábil dos referidos bens ao ativo imobilizado de empresa de locação de automóveis.
+Embargos de Declaração rejeitados (fls. 1.155/1.175e).
+No Recurso Especial, interposto com base nas alíneas a e c do permissivo constitucional, alega-se a existência de dissenso pretoriano e violação ao disposto nos arts. 1.022, I, do CPC/2015, 20 e 21 da Lei Complementar 87/96, 179, IV, da Lei 6.404/76, 97 e 110 do CTN.
+Sustenta-se, em síntese, que:
+"Assim, evidente que o v. acórdão embargado acabou por tratar os veículos descartados pela Recorrente como se fossem mercadorias, quando, na verdade, referidos veículos são bens integrantes do ativo fixo, não tendo o intuito precípuo de comercialização, mas, sim, de serem utilizados no desenvolvimento das atividade comerciais, violando frontalmente o artigo 110 do CTN, artigo 179, IV, da Lei nº 6.404/76 e aos artigos 20 e 21 da Lei Complementar n. 87/96, motivo pelo qual merece ser reformado" (fls. 1.193e).
+Aduz-se, ainda, que o acórdão padeceria de omissão, porquanto teria deixado de examinar a questão concernente à impossibilidade de incidência de ICMS sobre bem que não seria definido como mercadoria.
+Requer-se, por fim, "seja dado provimento ao presente recurso, reformando-se os vv. acórdãos recorridos, a fim de que seja concedida a segurança, nos termos pleiteados na exordial" (fl. 1.200e).
+Contrarrrazoado (fls. 1.316/1.332e), foi o Recurso Especial inadmitido (fls. 1.346/1.349e), com base, por analogia, na Súmula 283/STF, o que ensejou a interposição de Agravo (fls. 1.356/1.375e).
+Contraminuta às fls. 1.379/1.386e.
+O presente recurso não merece prosperar.
+Não há de se cogitar de omissão, no acórdão recorrido.
+Dessarte, a questão concernente ao cabimento da cobrança de ICMS, em relação a veículo automotor alienado por empresa de locação antes de ultrapassado o prazo mínimo de doze meses de sua incorporação contábil ao ativo imobilizado, foi suficientemente abordada e decidida, pelo Tribunal de origem. Entendeu-se, então, que a incidência do tributo seria possível, uma vez que a revenda do automóvel, antes do prazo de doze meses de sua aquisição inicial pela locadora, teria por efeito desvirtuar sua caracterização como bem do ativo fixo, de modo a convertê-lo em mercadoria. Se a interpretação conferida pela Corte a quo, aos dispositivos de lei aplicáveis à espécie, foi ou não correta, é debate que escapa aos contornos específicos dos Embargos de Declaração.
+Quanto ao mérito propriamente dito, assim delineada a questão, resta claro que a pretensão recursal não pode ser conhecida, nesta via processual. É que o fundamento do acórdão recorrido foi de que, na hipótese dos autos, a revenda dos automóveis, pela ora recorrente, no prazo inferior ao estabelecido em lei, teria conferido a essa atividade caráter comercial, de modo que a suposta integração dos referidos veículos ao ativo fixo da empresa seria, na realidade, mera ficção contábil. Daí porque legal a incidência do ICMS na revenda.
+Rever esse juízo de fato, acerca da efetiva natureza comercial da revenda dos veículos, demandaria incursão nos fatos da causa, medida sabidamente incabível em Recurso Especial (Súmula 7/STJ).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo para conhecer em parte do Recurso Especial e, nessa parte, negar-lhe provimento.
+Sem honorários. Mandado de Segurança.
+I.
