@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por WESLEY EVANGELISTA ELIDIO, com amparo no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO CRIMINAL - ROUBO MAJORADO PELO CONCURSO DE AGENTES - Recurso defensivo - Pretendido afastamento do concurso formal - Impossibilidade - Acusado que, mediante uma só ação, atingiu patrimônios diversos, não havendo que se falar em crime único - Dicção do art. 70, do Estatuto Repressivo - Recurso desprovido.
+Recurso ministerial - Pretendida majoração da pena-base - Possibilidade Circunstâncias judiciais desfavoráveis ao agente Acusado que cometera o delito no interior de estabelecimento comercial (supermercado Extra), em plena luz do dia, fazendo uso de simulacro de arma de fogo, subtraindo, ainda, veículo de cliente do referido estabelecimento, que sofreu avarias durante a fuga do réu - Personalidade desvirtuada do recorrido e consequências do crime que autorizam a elevação da sanção inicial - Agravamento do regime prisional - Necessidade - Regime fechado que se revela o mais adequado à espécie, haja vista a gravidade concreta do delito, praticado mediante simulação de porte de arma de fogo, comparsaria e contra vítimas diversas. Recurso provido." (e-STJ, fl. 144).
+O recorrente alega negativa de vigência do art. 33, § 2º, "c" e § 3º, do Código Penal. Sustenta, em suma, ausência de fundamentação da decisão que estabeleceu o regime mais gravoso.
+Requer, assim, o provimento do recurso para que seja estabelecido o modo aberto para o cumprimento da pena reclusiva, bem como seja substituída a pena privativa de liberdade pela restritiva de direitos.
+Contrarrazões apresentadas (e-STJ, fls. 191-196) e admitido o recurso, os autos subiram a esta Corte.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ, fls. 210-212).
+É o relatório.
+Decido.
+Quanto ao regime inicial de cumprimento da pena, estabelecida a pena de 6 anos, 2 meses e 20 dias de reclusão e verificada a presença de circunstâncias judiciais desfavoráveis, revela-se escorreita a fixação do regime fechado para o cumprimento inicial da pena reclusiva, consoante as diretrizes do art. 33, § 2º, "b", do Código Penal.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PENA-BASE E AUMENTO PELA REITERAÇÃO DELITIVA. VALIDADE. REGIME FECHADO. PENA SUPERIOR A 4 QUE NÃO EXCEDA 8 ANOS. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. POSSIBILIDADE EXECUÇÃO PROVISÓRIA DA PENA.
+ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. VIABILIDADE. AGRAVO DESPROVIDO.
+1. A reprimenda para o delito em discussão é de no mínimo 2 e no máximo 5 anos. Mostra-se devidamente fundamentada o aumento da pena-base em 8 meses, a totalizar 2 anos e 8 meses, haja vista que "as consequências do crime são desfavoráveis, pois em razão da conduta do acusado, a Fazenda Estadual deixou de arrecadar R$ 154.664,32, quantia extremamente elevada" (fl. 42).
+2. "Na continuidade delitiva, "Aplica-se a fração de aumento de 1/6 pela prática de 2 infrações; 1/5, para 3 infrações; 1/4, para 4 infrações; 1/3, para 5 infrações; 1/2, para 6 infrações e 2/3, para 7 ou mais infrações" (ut, AgRg no REsp 1.169.484/RS, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe 16/11/2012)" (AgRg no REsp 1.690.293/BA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 13/5/2019).
+3. Pode ser fixado o regime fechado para o início de cumprimento da pena superior a 4 e que não exceda a 8 anos, desde que exista circunstância judicial negativa.
+4. "A execução provisória da pena, ainda que concedido, na sentença ou no acórdão de apelação, o direito de recorrer em liberdade até o trânsito em julgado da condenação, não caracteriza violação a coisa julgada ou reformatio in pejus" (AgRg no AREsp 1.186.188/TO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 18/12/2018).
+5. Agravo regimental improvido." (AgRg no HC 465.802/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 04/06/2019, DJe 17/06/2019)
+Por outro lado, verifica-se que a violência ou grave ameaça é inerente ao crime de roubo, o que já é suficiente para afastar a permuta da reprimenda, em razão da ausência de preenchimento do requisito objetivo previsto no inciso I do artigo 44 do Código Penal, consoante a fundamentação do aresto objurgado.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
