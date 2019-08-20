@@ -1,0 +1,38 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE AFASTADA. COMPROVAÇÃO DA OCORRÊNCIA DE FERIADO LOCAL, EM SEDE DE AGRAVO INTERNO, NA VIGÊNCIA DO CPC/1973. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. TARIFA DE ESGOTO. A CORTE DE ORIGEM CONSTATOU A AUSÊNCIA DE COMPROVAÇÃO DA PRESTAÇÃO DE QUALQUER DAS ETAPAS DO SERVIÇO. INVERSÃO DO JULGADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. EXAME DE DIREITO LOCAL. SÚMULA 280/STF. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL TIDO POR VIOLADO. SÚMULA 284/STF. AGRAVO INTERNO PROVIDO PARA, EM JUÍZO DE RECONSIDERAÇÃO, NEGAR SEGUIMENTO AO RECURSO ESPECIAL DA CONCESSIONÁRIA.
+1. Trata-se de Agravo Interno interposto por COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE contra decisão da Presidência desta Corte Superior que, em razão da intempestividade, não conheceu do Recurso Especial interposto (fls. 552/553).
+2. Na origem, a parte agravante insurge-se, com fundamento na alínea a do art. 105, III da CF/1988, contra acórdão proferido pelo egrégio TJ/RJ, assim ementado:
+Agravo Interno. Apelação Cível. Direito do Consumidor. CEDAE. Imóveis comerciais. Cobrança de tarifa mínima de água e esgoto multiplicada pelo número de unidades autônomas. Pretensão de ver as contas refaturadas e proibida a cobrança pelo serviço alegadamente não prestado de esgoto. Sentença que julgou procedente o pedido para proibir a ré de efetuar o corte de água nos imóveis, de cobrar tarifa de esgoto, assim como cobrar pela água através da tarifa mínima multiplicada pelo número de unidades imobiliárias, e determinou o refaturamento das contas. Apelo da concessionária.
+1. É vedada a cobrança de tarifa mínima de água e esgoto, multiplicada pelo número de unidades autônomas. Verbete 84 e 191 da Súmula deste Tribunal.
+2. Inexistência de comprovação de que o serviço de esgotamento sanitário seja efetivamente prestado.
+3. Somente na presença da rede de esgoto, e mesmo que não haja tratamento, é legítimo impor a cobrança pelo serviço.
+4. Dejetos que confessadamente são lançados na rede de águas pluviais sem qualquer tratamento. Descabimento da cobrança.
+5. Novo posicionamento adotado pelo STJ a partir do julgamento do Recurso Repetitivo 1.339.313.
+6. A solução dada pelo STJ, quando do REsp. 1.339.313, segundo o qual a cobrança da tarifa de esgoto não é afastada pelo fato de serem utilizadas as galerias de águas pluviais para a prestação do serviço, uma vez que a concessionária não só realiza a manutenção e desobstrução das ligações de esgoto que são conectadas no sistema público de esgotamento, estabeleceu a nova regra geral para o conflito.
+7. Necessidade, todavia, de que a exceção seja concretamente deduzida como também provada de forma concreta a alegada desobstrução.
+8. Regra geral que não pode prevalecer, outrossim, naqueles Municípios, como o Rio de Janeiro, que no exercício de sua competência concorrente para a tutela do meio ambiente e disciplinando o uso de seus próprios bens, dispuseram em sua Lei Orgânica, jamais declarada inconstitucional no ponto, a proibição dos sistemas conjuntos de coleta de águas pluviais e esgotos domésticos.
+9. Manutenção da decisão monocrática.
+10. Desprovimento do agravo interno (fls. 356/367).
+3. Nas razões de seu Recurso Especial, a parte recorrente aponta violação do art. 3o. da Lei 11.445/1997. Aduz para tanto, em síntese, que: (a) seria lícita a cobrança integral da tarifa de esgoto, ainda que não prestadas todas as etapas do serviço, conforme o entendimento firmado por este STJ no REsp. 1.339.313/RJ, Rel. Min. BENEDITO GONÇALVES, DJe 21.10.2013 (Tema 565); e (b) a multiplicação da tarifa mínima pelo número de economias encontraria espeque na Legislação Estadual, inclusive por razões de isonomia.
+4. Sem contrarrazões (fls. 396), os autos foram encaminhados à Câmara prolatora do acórdão recorrido, para exercício do juízo de retratação à luz do Tema 565 do STJ (fls. 418). O Colegiado, entretanto, manteve seu posicionamento anterior (fls. 479/487), ao que se seguiu a reiteração (fls. 490) e admissão (fls. 537/539) do Apelo Nobre.
+5. Recebidos os autos nesta Corte Superior, a Presidência não conheceu do Recurso (fls. 552/553), fundamentando-se na intempestividade.
+6. Em seu Agravo Interno, a parte agravante alega que o expediente forense teria sido suspenso, na Corte de origem, no dia 4.6.2015. Seria tempestivo, assim, o Recurso Especial interposto em 19.6.2015.
+7. Pugna, desse modo, pelo provimento do presente Agravo Interno, para que seja conhecido o Apelo Nobre.
+8. Não foi apresentada impugnação (fls. 576).
+9. É o relatório.
+10. À luz dos argumentos de fls. 557/573, reconsidera-se a decisão de fls. 552/553.
+11. Inicialmente, nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+12. No mais, a jurisprudência do STJ admite, para os Recursos submetidos ao regime do CPC/1973, a comprovação da tempestividade (pela existência de feriado local) em sede de Agravo Regimental ou Interno. Confira-se, a propósito, o paradigma a seguir, proferido pela Corte Especial:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. MUDANÇA DE ENTENDIMENTO.
+1. A comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental. Precedentes do STF e do STJ.
+2. Agravo regimental provido, para afastar a intempestividade do recurso especial (AgRg no AREsp. 137.141/SE, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 15.10.2012).
+13. Comprovada a suspensão do expediente forense no dia indicado (fls. 564), deve ser afastada a intempestividade do Recurso Especial, pelo que se passa à sua análise.
+14. No mérito, contudo, não tem razão a parte recorrente.
+15. Conquanto esta Corte Superior tenha firmado o entendimento, no REsp. 1.339.313/RJ, Rel. Min. BENEDITO GONÇALVES, DJe 21.10.2013 (Tema 565), de ser cabível a cobrança integral da tarifa de esgoto, ainda que prestado apenas parcialmente o serviço, tal orientação não se aplica ao presente caso.
+16. Isso porque a Corte de origem constatou que não foi comprovada pela Concessionária a prestação de qualquer etapa do serviço, não tendo as suas petições sequer se referido, concretamente, ao imóvel objeto de discussão na lide (fls. 365/366).
+17. Assim, entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório do autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do Recurso Especial.
+18. Sobre o cabimento da tarifa de água na forma cobrada, verifica-se que o Apelo Nobre fundamenta-se extensivamente na Legislação Estadual, de modo que o acolhimento de sua argumentação encontra óbice na Súmula 280/STF.
+19. De todo modo, a parte recorrente não indica, precisamente, qual dispositivo de Lei Federal teria sido violado pelo acórdão recorrido, o que atrai a incidência da Súmula 284/STF.
+20. Ante o exposto, dá-se provimento ao Agravo Interno para, em juízo de reconsideração, negar seguimento ao Recurso Especial da Concessionária.
+21. Publique-se.
+22. Intimações necessárias.
