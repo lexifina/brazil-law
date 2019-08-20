@@ -1,0 +1,13 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE DE ARMA DE FOGO DE USO RESTRITO COM NUMERAÇÃO RASPADA. CONDENAÇÃO TRANSITADA EM JULGADO. NULIDADE NA DECISÃO AUTORIZANDO A PERÍCIA NO TELEFONE APREENDIDO. DUPLA SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE. PRETENSÃO DE APLICAÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/2006. DEDICAÇÃO À ATIVIDADE CRIMINOSA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DA AÇÃO PENAL. IMPOSSIBILIDADE.
+Petição inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de [NOME], no qual se aponta constrangimento ilegal decorrente do julgamento, pelo Tribunal de Justiça do Paraná, da Apelação n. 0008773-69.2017.8.16.0017.
+Ali a Quinta Câmara Criminal conheceu em parte do recurso da defesa e negou-lhe provimento e conheceu e deu provimento ao apelo do Ministério Público para afastar a causa especial de diminuição da pena aplicada na sentença e readequar a pena pelo crime de tráfico de drogas para 6 anos de reclusão e 600 dias-multa. Com isso, diante do concurso material com o crime de posse de arma de fogo de uso restrito com numeração suprimida, sua reprimenda ficou estabelecida em 9 anos de reclusão e 610 dias-multa.
+Aqui, a defesa do paciente alega, em síntese, nulidade na condenação porque chancelada a realização de perícia técnica a partir de decisão judicial sem fundamentação (fl. 3) e afastamento do § 4º do art. 33 da Lei n. 11.343/2006 mesmo o paciente fazendo jus ao benefício (fl. 5), uma vez que faltam elementos bastantes para a caracterização da dedicação à traficância.
+Requer a imediata concessão da ordem para desentranhar as provas ilegais dos autos, bem como para aplicar a minorante em questão e fixar o regime inicial semiaberto de cumprimento de pena.
+É o relatório.
+A questão concernente à decisão judicial autorizando a perícia no aparelho de telefone apreendido no momento da prisão em flagrante do paciente não foi objeto de nenhum debate nas instâncias ordinárias. É nítida a pretensão dos impetrantes de suprimir instância, porquanto nem sequer na apelação do réu o tema foi suscitado, como se lê às fls. 21/22.
+Além disso, infirmar o entendimento do Tribunal estadual de não ser aplicável ao caso o benefício do art. 33, § 4º, da Lei de Drogas esbarra no reexame de fatos e de provas, pois a Corte a quo concluiu que não há dúvida de que o acusado se dedicava à atividade criminosa com habitualidade, ou seja, fazia do comércio de drogas seu meio de vida (fl. 32)  .. , restou demonstrada a habitualidade do acusado na prática da atividade criminosa (fl. 33).
+Pelo exposto, indefiro liminarmente a petição inicial.
+Publique-se.
