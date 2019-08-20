@@ -1,0 +1,52 @@
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO À TOTALIDADE DOS FUNDAMENTOS ADOTADOS NA DECISÃO AGRAVADA. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo interno que deixa de atacar, de modo específico, um dos fundamentos adotados por esta Corte Superior para negar provimento ao agravo em recurso especial. Incidência da Súmula 182 do STJ.
+2. Segundo entendimento consolidado na Primeira Turma desta Corte, admite-se o agravo interno parcial somente quando a parte recorrente informa que sua irresignação vai direcionada apenas contra específica parcela da decisão agravada, abrindo mão, expressamente, de impugnar o restante do julgado. Precedentes: EAREsp 701.404/SC, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe 30/11/2018; AgInt no REsp 1.695.426/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 21/09/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 25/09/2018.
+3. Agravo interno não conhecido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa, Gurgel de Faria (Presidente), Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): Trata-se de agravo interno manejado por JOSE PORTO DA SILVA, contra decisão que negou provimento ao agravo em recurso especial, com base nos seguintes fundamentos (fls. 275/279):
+(I) No que diz respeito à tese de exclusão da multa por litigância de má fé, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF.
+(..).
+(II) O Tribunal de origem, com base no conjunto fático-probatório dos autos, afirmou expressamente que o autor, durante sua jornada de trabalho, não estava exposto a fator de risco de forma habitual e permanente. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+A parte agravante, em suas razões, alega que a decisão agravada partiu de premissa equivocada, pois considerou trecho do voto vencido e analisou questão diversa da apresentada nas razões do recurso especial.
+Esclarece que o cerne da controvérsia é definir a quem incube a atualização do laudo técnico das condições de trabalho (se ao empregador ou ao empregado ), mas a decisão agravada cuidou da questão da exigência ou não de habitualidade e permanência, para fins de considerado do tempo de trabalho como especial.
+Aduz que "não há que se falar em incidência da súmula em foco, porquanto o deslinde do feito NÃO ESTÁ ATRELADO AO EXAME OU REEXAME DAS PROVAS produzidas nos autos" (fl. 292).
+O prazo para impugnação transcorreu in albis, conforme certidão de fl. 298.
+É O RELATÓRIO.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO À TOTALIDADE DOS FUNDAMENTOS ADOTADOS NA DECISÃO AGRAVADA. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo interno que deixa de atacar, de modo específico, um dos fundamentos adotados por esta Corte Superior para negar provimento ao agravo em recurso especial. Incidência da Súmula 182 do STJ.
+2. Segundo entendimento consolidado na Primeira Turma desta Corte, admite-se o agravo interno parcial somente quando a parte recorrente informa que sua irresignação vai direcionada apenas contra específica parcela da decisão agravada, abrindo mão, expressamente, de impugnar o restante do julgado. Precedentes: EAREsp 701.404/SC, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe 30/11/2018; AgInt no REsp 1.695.426/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 21/09/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 25/09/2018.
+3. Agravo interno não conhecido.
+
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): Em que pesem os argumentos aduzidos, o presente agravo interno não comporta conhecimento.
+Segundo o comando contido no art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Esse é o teor do art. 34, XVIII, a, do RISTJ, in verbis:
+Art. 34. São atribuições do relator:
+ ..
+XVIII - distribuídos os autos:
+a) não conhecer do recurso ou pedido inadmissível, prejudicado ou daquele que não tiver impugnado especificamente todos os fundamentos da decisão recorrida;
+Ao interpretar esta regra, a Primeira Turma desta Corte compreendeu que, mesmo no agravo interno, incumbe ao agravante se insurgir contra todos os capítulos específicos e autônomos da decisão agravada. De outro lado, passou a admitir a impugnação parcial apenas nas hipóteses em que a parte manifesta expressamente que sua irresignação se volta somente contra parcela do julgado, havendo concordância com o restante.
+Assim, "afasta-se a incidência da Súmula n. 182/STJ quando, embora o Agravo Interno não impugne todos os fundamentos da decisão recorrida, a parte recorrente manifesta, expressamente, a concordância com a solução alcançada pelo julgador, desde que o capítulo em relação ao qual a desistência foi manifestada seja independente e não interfira na análise do mérito da irresignação" (AgInt no REsp 1.695.426/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 21/09/2018).
+Em igual sentido:
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. OAB. AMICUS CURIAE. REQUISITOS. INOCORRÊNCIA.
+1. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso. 2. Hipótese em que o agravante não se desincumbiu do ônus de impugnar, de forma clara e objetiva, todos os fundamentos da decisão agravada. 3. Deve ser indeferido o pedido de admissão do Conselho Federal da OAB como amicus curiae, visto que prejudicadas a utilidade e a conveniência de sua intervenção, diante da ausência de exame da questão de fundo.
+4. Agravo interno não conhecido.
+(AgInt no AREsp 1.163.354/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 25/09/2018)
+Em reforço, convém ressaltar que a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 701.404/SC, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe 30/11/2018)
+No caso concreto, consoante relatado, a decisão ora atacada negou provimento ao agravo em recurso especial baseada em dois fundamentos, a saber: (I) a alteração das conclusões adotadas pela Corte de origem, no tocante à comprovação do exercício de atividade com exposição à eletricidade, demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada pela Súmula 7/STJ e (II) No que diz respeito à tese de exclusão da multa por litigância de má fé, a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF.
+No caso, a parte agravante, deixou de impugnar especificamente o fundamento da decisão agravada - aplicação da Súmula 284/STF, pois nada mencionou quanto à aplicação desse óbice. Tal situação atrai a incidência do óbice contido na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Ante o exposto, não conheço do agravo interno.
+É o voto.
