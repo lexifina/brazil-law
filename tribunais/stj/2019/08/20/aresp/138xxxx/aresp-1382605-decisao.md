@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interno pelo MUNICÍPIO DE SÃO PAULO, pretendendo a admissão de recurso especial que desafia acórdão assim ementado (e-STJ fl. 1.544):
+Apelação Cível - Embargos à Execução - ISS incidente sobre a prestação de serviços laboratoriais - Multa pelo descumprimento de obrigação acessória - Decadência dos créditos anteriores à 20/02/1998 - Nulidade das CDA"s e dos Autos de Infração - Não incidência do ISS sobre a coleta de material realizado pelo laboratório, caracterizada como atividade-meio, ocorrida em São Paulo - Jurisprudência desta E. Corte - Extinção da Execução Fiscal - Inversão da sucumbência - Recurso provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.566/1.571).
+No apelo nobre (e-STJ fls. 1.575/1.581), o recorrente apontou divergência jurisprudencial e violação do art. 173, I, do CTN. Sustentou, em resumo, que: a) a decadência para constituir multa por descumprimento de obrigação acessória, no caso, de apresentação de livro fiscal, deve ser contada do primeiro dia do exercício seguinte àquele em que o lançamento poderia ser tido efetuado; b) o acórdão recorrido, quanto o mérito, dissentiu de julgado desta Corte Superior (REsp 1.439.753/PE).
+Contrarrazões às e-STJ fls. 1.584/1.609.
+O Tribunal de origem obstou o recurso especial por entender incidente a Súmula 7 do STJ e não demonstrado o dissídio jurisprudencial aventado (e-STJ fls. 1.614/1.615), fundamentação essa com a qual não concorda o agravante (e-STJ fls. 1.619/1.622).
+Contraminuta às e-STJ fls. 1.630/1.638.
+Decido.
+Inicialmente, decidiu o Plenário do STJ que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feita essa consideração, observo que o recurso especial em comento não merece ser mesmo admitido, pois a tese relacionada com o pedido de afastamento da decadência, de que a sua contagem para a constituição de multa por descumprimento de obrigação acessória deve ser feita na forma prevista no art. 173, I, do CTN, não foi efetivamente analisada pela Corte estadual, nem suscitada nos embargos de declaração lá opostos, carecendo o recurso especial, no ponto, do requisito do prequestionamento, nos termos da Súmula 282 do STF.
+Quanto ao mais, conforme já assentado pelo TJ/SP (e-STJ fl. 1.570) no julgamento dos aclaratórios, a extinção da execução fiscal em face da decadência prejudica o exame das outras questões relacionadas com o mérito da controvérsia discutida no processo.
+Por força do art. 85, § 11, do CPC/2015, entendo adequado majorar os honorários advocatícios sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ) e majoro os honorários advocatícios sucumbenciais em 10% sobre o valor já fixado na origem.
+Publique-se. Intimem-se.
