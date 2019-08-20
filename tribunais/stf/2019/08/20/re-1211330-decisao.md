@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Distrito Federal e Territórios, reformando o pronunciamento do Juízo, assentou a inviabilidade de acumulação dos cargos de professor e bombeiro militar, considerada a dedicação exclusiva prevista no Estatuto dos Bombeiros Militares do Corpo de Bombeiros do Distrito Federal. No extraordinário, o recorrente alega violação do artigo 37, inciso XI, e 40, § 11, da Constituição Federal.
+    2. As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Colho do acórdão os seguintes trechos:
+    REMESSA NECESSÁRIA. CARGOS PÚBLICOS. PROVENTOS DE APOSENTADORIA. CORONEL REFORMADO DO CORPO DE BOMBEIROS DO DISTRITO FEDERAL E PROFESSOR APOSENTADO DA SECRETARIA DE EDUCAÇÃO DO DISTRITO FEDERAL. CUMULAÇÃO. ART. 97 DA CF DE 1967 E ART. 37, XVI DA CF/88. LEIS 6.022/74 E 7.479/86. CARGO MILITAR DE DEDICAÇÃO EXCLUSIVA. ILICITUDE. TETO REMUNERATÓRIO CONSTITUCIONAL. VINCULOS ISOLADOS. TEMA 377. INAPLICABILIDADE. 1. Conforme sedimentado pelo Supremo Tribunal Federal no Tema nº 377 de Repercussão Geral: “Nos casos autorizados constitucionalmente de acumulação de cargos, empregos e funções, a incidência do art. 37, inciso XI, da Constituição Federal pressupõe consideração de cada um dos vínculos formalizados, afastada a observância do teto remuneratório quanto ao somatório dos ganhos do agente público”. 2. O cargo de bombeiro militar é de dedicação exclusiva (Estatuto dos Bombeiros-Militares do Corpo de Bombeiros do Distrito Federal – Leis nº 6.022/74 e nº 7.479/86), não havendo autorização constitucional para a sua cumulação com o cargo de professor (art. 97 da Constituição Federal de 1967 e art. 37, inciso XVI da Constituição Federal de 1988). 3. Constatada a ilicitude da cumulação, inviável a aplicação do Tema 377 (STF). 4. Remessa necessária conhecida e provida.
+    A decisão impugnada mediante o extraordinário revela a análise do quadro fático e interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 20 de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
