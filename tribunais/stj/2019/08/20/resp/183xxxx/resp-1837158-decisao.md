@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão que inadmitiu o recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 352):
+AÇÃO - Condições - Inadimplência do adquirente - Carência de ação, diante do direito social à moradia - Não configuração - Finalidade que possui a CDHU de atender a população de baixa renda, existindo fila de inscritos para a aquisição de moradia, fundando-se, o pedido, no descumprimento contratual - Empreendimento/loteamento irregular - Impossibilidade jurídica do pedido - Não caracterização - Pendência a ser resolvida pela via administrativa - Preliminares rejeitadas - Recurso da autora/reconvinda provido, improvido o do réu/reconvinte.
+COMPROMISSO DE COMPRA E VENDA - Rescisão c. c. reintegração de posse - Inadimplência do comprador que deixa o imóvel ser ocupado por terceiro - Perdimento dos valores pagos a título de perdas e danos, ainda que aplicável o Código de Defesa do Consumidor - Admissibilidade - Pretensão a usucapião do bem - Afastamento -Ausência de "animus domini" e exercício de posse precária, derivando, esta, de instrumento inadimplido, não gerando qualquer direito à prescrição aquisitiva - Inaplicabilidade da Medida Provisória nº 2.220/2001, por ser, a empresa, sociedade de economia mista, cujos bens não são públicos - Recurso da autora/reconvinda provido, improvido o do réu/reconvinte.
+Nas razões do recurso especial, o recorrente alega violação ao art. 39 da Lei n. 6.766/79, pois o loteamento em questão não seria regularmente inscrito, portanto, "a rescisão contratual pleiteada e a consequente reintegração são fundadas em cláusula nula" (e-STJ, fl. 432).
+Sucessivamente, aduz ofensa ao art. 53 do Código de Defesa do Consumidor, porquanto, se "mantida a decisão que rescinde o contrato e determina a reintegração de posse, o recurso deve ser provido, a fim restabelecer a decisão de primeiro no ponto em que determinou a devolução parcial dos valores pagos" (e-STJ, fl. 433) e pugna pelo "direito de retenção do imóvel até efetiva devolução, sob a lógica da exceptio non adimplenti contractus" (e-STJ, fl. 436).
+Sem contrarrazões (e-STJ fl. 441), o Recurso Especial foi inadmitido pela Corte de origem, ensejando na interposição do presente agravo (e-STJ, fls. 459/464).
+É o relatório.
+Passo a decidir.
+Com efeito, diante da relevância da questão suscitada, merece provimento o agravo para melhor analisar o recurso especial interposto, procedendo-se à devida conversão.
+Ante o exposto, dou provimento ao agravo em recurso especial, procedendo-se à conversão.
+Intime-se.
