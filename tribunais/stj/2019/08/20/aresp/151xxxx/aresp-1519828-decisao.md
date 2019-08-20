@@ -1,0 +1,62 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MAXCASA I EMPREENDIMENTOS IMOBILIARIOS LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+COMPROMISSO DE VENDA E COMPRA DE IMÓVEL - Ação indenizatória - Atraso na entrega das chaves - Parcial procedência - Ausência de comprovação de culpa dos autores por retardo na obtenção do financiamento - Mora das vendedoras configurada - Impossibilidade de congelamento do saldo devedor - Correção monetária que implica em mera recomposição do valor da moeda e que deve ser aplicada - Cabimento de indenização, a título de lucros cessantes, face à impossibilidade de obtenção de renda com o imóvel, que não se confunde com o dano hipotético - Inteligência da Súmula 162, do TJSP - Indenização que deve corresponder a 0,5% do valor atualizado do contrato, por mês - Adquirente que deve arcar com as taxas condominiais apenas a partir da entrega das chaves, devendo ser ressarcida do montante despendido a esse título em momento anterior - Devolução dos valores despendidos com o pagamento da taxa SATI que deve ser feita de forma simples - Ausência de dolo por parte das rés (art. 42, § único, do CDC) - Dano moral configurado, em decorrência do atraso - Indenização arbitrada de acordo com os parâmetros da proporcionalidade e razoabilidade - Sentença reformada  Recurso da autora parcialmente provido e recurso da corre MAX CASA não provido.
+Opostos embargos de declaração, foram parcialmente acolhidos, sem modificação do julgado.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 55, § 1º, do CPC de 2015; 186, 187, 476, 927 e 944, do CC.
+Alega, em síntese, que a conexão não estaria prejudicada.
+Defende que o mero inadimplemento não gera dano moral. Diz que os dissabores fazem parte da vida moderna.
+Ressalta ter havido inadimplemento por parte da parte agravada, descumprindo, assim, a obrigação estabelecida em contrato. Aduz que não poderia realizar a entrega da unidade sem receber o pagamento.
+É o relatório. DECIDO.
+2. De início, para verificar a presença da alegada conexão seria indispensável o revolvimento do conteúdo fático-probatório dos autos, procedimento vedado em sede especial, conforme dispõe a Súmula 7/STJ.
+No mesmo sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CARACTERIZAÇÃO DE CONEXÃO ENTRE DEMANDAS. INVIABILIDADE DE REEXAME EM RECURSO ESPECIAL. PRECEDENTES. CONDIÇÕES DA AÇÃO. ILEGITIMIDADE ATIVA. TEORIA DA ASSERÇÃO. PRECEDENTES E DOUTRINA.
+CONDIÇÃO DE PESCADOR. QUESTÃO DE MÉRITO. ENUNCIADOS N. 7 E 83 DA SÚMULA DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Segundo a jurisprudência dominante do STJ, o juízo acerca da caracterização de conexão entre demandas é insuscetível de reapreciação em recurso especial, em razão do entendimento expresso no enunciado n. 7 da Súmula do STJ.
+ .. .
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 618.223/RO, TERCEIRA TURMA, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 09/10/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. CONEXÃO. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ .. .
+2. A reversão do entendimento consignado no acórdão recorrido no sentido de que não há conexão no caso ora em análise demanda o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 665.193/RO, SEGUNDA TURMA, Rel. Ministro MAURO CAMPBELL MARQUES, DJe 13/05/2015)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. RECONHECIMENTO DA CONEXÃO ENTRE PROCESSOS. SÚMULA Nº 7/STJ. JUROS REMUNERATÓRIOS. ABUSIVIDADE NÃO CONSTATADA.
+ .. .
+3. A pretensão relativa ao reconhecimento da conexão ou continência de processos, contrária à conclusão do julgado recorrido, demandaria a revisão probatória, incidindo o óbice da Súmula nº 7/STJ.
+ .. .
+5. Agravo regimental não provido.
+(AgRg no Ag 1.379.569/SP, TERCEIRA TURMA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe 26/05/2014) .
+3. Por outro lado, em relação ao alegado inadimplemento, o Tribunal local assim consignou:
+Em que pese à assertiva da corré MAXCASA no sentido de que as chaves do imóvel não foram entregues por culpa da compradora, que não providenciou a obtenção do financiamento na data aprazada, certo que não há nos autos qualquer elemento mínimo a corroborar a sua tese.
+Em primeiro lugar, é importante ressaltar que os documentos acostados aos autos (e-mails de fls. 87/117) demonstram que a autora empreendeu todos os esforços necessários à obtenção do aludido financiamento bancário, mantendo contato constante com a intermediadora (Isa Assessoria) e providenciando os documentos necessários à aprovação e liberação do crédito.
+À corre MAXCASA, por sua vez, incumbia demonstrar a ausência de veracidade da aludida documentação, bem como fazer prova de que a demora na obtenção do financiamento bancário teve origem em conduta atribuída à autora.
+Em outras palavras, não incumbia à corre MAXCASA demonstrar que não colaborou para a demora na obtenção do financiamento bancário pela autora. Incumbia-lhe, ao revés, demonstrar que a autora, por sua postura e exclusiva culpa, deu ensejo à demora na liberação do financiamento bancário, o que, por sua vez, teria repercutido negativamente na entrega das chaves do imóvel.
+A corré MAXCASA, contudo, não se desincumbiu do referido ônus (art. 373, II, NCPC), devendo ser ressaltado, ainda, a existência de elementos nos autos que evidenciam que o atraso na obtenção do aludido financiamento bancário teve origem, na verdade, em conduta atribuída à corré MAXCASA e à empresa Isa Assessoria (contratada pela MAXCASA).
+É o que se extrai do teor do e-mail acostado às fls. 114, segundo o qual: "(..) os processos que não foram fechados até 29/06 não iremos mais dar continuidade, pois o contrato de prestação de serviços com a MAXCASA foi encerrado e estávamos somente finalizando os processos que ficaram em aberto.
+Como se vê, tão somente em razão da postura renitente ostentada pela corre MAXCASA e pela empresa Isa Assessoria (por ela contratada), o financiamento bancário pleiteado pela parte autora não foi obtido na data aprazada, inviabilizando a entrega das chaves do imóvel.
+Assim, imperioso o reconhecimento da culpa da corré MAXCASA pela demora na obtenção do referido financiamento bancário.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de acolher as alegações da parte agravante relacionadas ao alegado inadimplemento da agravada, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Em relação aos danos morais, a jurisprudência desta Corte firmou-se no sentido de que o simples descumprimento contratual, por si só, não é capaz de gerar danos morais. É necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO DE COMPRA E VENDA - VÍCIOS NA AVENÇA. INADIMPLEMENTO CONTRATUAL - DANO MORAL - NÃO CABIMENTO - DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. A jurisprudência consolidada nesta Corte Superior permeia-se no sentido de que o mero inadimplemento contratual não se revela suficiente a ensejar dano de ordem moral hábil a perceber indenização, porquanto considerado como hipótese de dissabor do cotidiano, razão pela qual o entendimento perfilhado pela Corte de origem se coaduna com o posicionamento adotado por esta Casa. Incidência da Súmula 83/STJ. Precedentes. AgRg no REsp 1408540, REsp 1129881/RJ, REsp 876.527/RJ,.
+2. Ainda assim, a Corte Estadual com base na análise acurada dos autos concluiu que o caso vertente afasta-se de hipótese extraordinária autorizadora à indenização por danos extramateriais, derruir o entendimento exarado implicaria no revolvimento das matéria fática e probatória da demanda, o que incide no óbice da Súmula 7/STJ, em ambas alíneas.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 362.136/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 3/3/2016, DJe 14/3/2016.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. ENTREGA. ATRASO. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INEXISTÊNCIA. PRECEDENTES.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+2. Na hipótese dos autos, a construtora recorrida foi condenada ao pagamento de danos materiais e morais, sendo estes últimos fundamentados apenas na demora na entrega do imóvel, os quais não são, portanto, devidos.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 570.086/PE, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2015, DJe 27/10/2015.)
+Cabe ser analisado, portanto, se, no caso concreto, o descumprimento contratual ultrapassou o mero dissabor, devendo-se levar em conta, apenas, as premissas fáticas descritas no acórdão recorrido para que não incida a vedação contida no enunciado n. 7 da Súmula do STJ.
+No caso, o Tribunal local manteve o valor dos danos morais em R$ 10.000,00 (dez mil reais). Para tanto, adotou fundamentação nos seguintes termos:
+Em relação à ocorrência de danos morais, certo que o descumprimento do contrato ocasionou angústia e desgosto à autora.
+É preciso considerar que quem adquire o imóvel e efetua o pagamento regular das prestações sente-se frustrado por não poder dispor do bem, sofrendo aflição psicológica, em razão do prolongado martírio de espera.
+ .. .
+Da congruência entre as duas funções é que se extrai o valor da reparação, razão pela qual se conclui que a indenização foi bem fixada em R$ 10.000,00, quantia que se mostra suficiente para compensar a autora pelos sofrimentos decorrentes do atraso. A dor sofrida não pode, até mesmo em face do elevadíssimo significado do bem humano atingido, ser causa de enriquecimento, mas tampouco pode ser minorada a o ponto de se tornar irrisória e de nenhuma importância para as partes.
+Com efeito, o Tribunal de origem apontou, concretamente, situação específica, desvinculada dos normais aborrecimentos, discorrendo sobre episódio que extrapola o mero descumprimento do contrato, capaz de gerar dor e sofrimento indenizável.
+Para alterar tais fundamentos, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+5. Por fim, impõe-se anotar que a incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.086.048/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 21/06/2011, DJe de 13/09/2011; EDcl no Ag 984.901/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/03/2010, DJe de 05/04/2010; AgRg no REsp 1.030.586/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 30/05/2008, DJe de 23/06/2008.
+6. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
