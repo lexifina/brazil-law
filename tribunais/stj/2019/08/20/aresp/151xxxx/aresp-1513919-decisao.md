@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto por VESPER EMPREENDIMENTOS IMOBILIÁRIOS LTDA contra v. acórdão do eg. Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 272):
+"DIREITO CIVIL. DIREITO DO CONSUMIDOR.APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C DEVOLUÇÃO DOS VALORES PAGOS. PROMESSA DE COMPRA E VENDA DE LOTES. CONSIDERÁVEL ATRASO NA ENTREGA DAS OBRAS DE INFRAESTRUTURA DO LOTEAMENTO. CULPA DA CONSTRUTORA. RETENÇÃO DE PARTE DOS VALORES PAGOS. IMPOSSIBILIDADE. RESTITUIÇÃO INTEGRAL E IMEDIATA. JUROS DE MORA. INCIDÊNCIA A PARTIR DA CITAÇÃO. HONORÁRIOS ADVOCATÍCIOS CALCULADOS SOBRE O VALOR DA CONDENAÇÃO. SENTENÇA MANTIDA.
+1. O considerável atraso na entrega de infraestrutura em loteamento que ultrapassa os limites contratuais por culpa da promitente vendedora constitui causa de rescisão contratual.
+2. Por ter a promitente vendedora dado causa à rescisão contratual, a restituição do valor pago pelo promitente comprador deve ser imediata e integral, conforme orienta o Enunciado da Súmula nº 543 do Superior Tribunal de Justiça.
+3. Na rescisão contratual por culpa da construtora, os juros de mora são devidos a contar da citação, consoante o disposto no art. 405 do Código Civil.
+4. Havendo condenação, os honorários advocatícios serão fixados entre o mínimo de dez e o máximo de vinte por cento 5. Apelação conhecida, mas não provida. Unânime."
+Nas razões do recurso especial, VESPER EMPREENDIMENTOS IMOBILIÁRIOS LTDA alega violação ao art. 85, § 2º, III, e §11 do Código de Processo Civil de 2015, bem como ao art. 394 do Código Civil, ao argumento, entre outros, que "(..) o Tribunal a quo manteve a citação como termo inicial dos juros de mora, sendo que, neste caso, a mora somente incide após a constituição da obrigação, que se dá tão somente com o trânsito em julgado da decisão que decreta a rescisão contratual (..)" e que "(..) que seja reformada a decisão recorrida, reconhecendo-se a violação ao artigo 85, §§ 2" e 11, do Código de Processo Civil, tendo em vista que o Tribunal a quo negou a redução dos honorários e os majorou para 12% (doze por cento) sem observar os critérios definidos nos mencionados dispositivos (..)". (fl. 300)
+Contrarrazões às fls. 309-313.
+É o relatório. Decido.
+Cumpre observar que o recurso especial foi interposto contra acórdão publicado publicado já na vigência do CPC de 2015, aplicando-se ao caso o Enunciado Administrativo n.º 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O recurso em apreço não merece prosperar.
+Com efeito, ao apontar violação ao art. 394 do CC, a recorrente sustenta que a obrigação de restituir os valores pagados surgiu tão somente com a sentença que decretou a rescisão e determinou a devolução das quantias, o que faz o termo de incidência dos juros de mora ser a partir do trânsito em julgado da ação.
+Por sua vez, o TJ-DFT, com arrimo no acervo fático-probatório, consignou que a rescisão contratual se deu por culpa exclusiva da promitente vendedora, ora recorrente, nesse caso, os juros de mora incidem a partir da citação, por se tratar de relação contratual. Confira-se excerto do v. acórdão local (fl. 281):
+ "Dos Juros de Mora A Apelante sustenta que, por não estar em mora com suas obrigações contratuais, os juros moratórios deverão incidir desde o trânsito em julgado da sentença sobre o montante a ser restituído, conforme entendimento jurisprudencial do STJ.
+ Novamente sem razão, porquanto em caso de responsabilidade contratual por culpa do promitente vendedor, os juros de mora são devidos a contar da citação, consoante o disposto no art. 405 do Código Civil e no art. 240 do CPC.
+ Assim, por se tratar de responsabilidade contratual, os juros moratórios incidem desde a citação." (grifou-se)
+Sobre o tema, tem-se que a iterativa jurisprudência desta Corte firmou-se no sentido de que, nos casos de rescisão contratual por culpa do promitente vendedor, os juros de mora incidem desde a citação, por se tratar de responsabilidade contratual. Nessa linha de intelecção, confira-se o seguinte precedente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. FORTUITO INTERNO. FALHA GEOLÓGICA NO TERRENO. RISCO INERENTE À ATIVIDADE. DANO MORAL. ATRASO EXPRESSIVO SUPERIOR A DOIS ANOS. EXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. Os juros moratórios, nos casos de responsabilidade contratual, fluem a partir da data de citação. Precedentes.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 941.250/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/03/2019, DJe 29/03/2019 - grifou-se)
+Nessa esteira, estando a decisão recorrida de acordo com a jurisprudência desta Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ.
+Prosseguindo nas razões do recurso especial, a recorrente defende, ao alegar violação ao art. 85, § 2º, III, e § 11, do CPC/2015, que os honorários fixados em 12% sobre o valor da condenação estão desproporcionais à complexidade da causa, devendo haver redução do quantum arbitrado, inclusive a título de honorários recursais.
+Consoante a remansosa jurisprudência do STJ, somente em hipóteses excepcionais, quando o valor dos honorários advocatícios arbitrado na origem se distancia dos parâmetros da razoabilidade e da proporcionalidade, a jurisprudência desta Corte permite sua revisão em sede de recurso especial. Nesse sentido, confira-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. DANO EXTRAPATRIMONIAL E ENRIQUECIMENTO ILÍCITO NÃO VERIFICADOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. VERBA HONORÁRIA. VALOR CONDIZENTE. RAZOABILIDADE E PROPORCIONALIDADE. DECISÃO MANTIDA. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/2015. OMISSÃO DA DECISÃO AGRAVADA. FIXAÇÃO "EX OFFICIO". POSSIBILIDADE.
+(..)
+4. Somente em hipóteses excepcionais, quando o valor dos honorários advocatícios arbitrado na origem se distancia dos parâmetros da razoabilidade e da proporcionalidade, a jurisprudência desta Corte permite sua revisão em sede de recurso especial.
+5. No caso, deve ser mantido o valor dos honorários advocatícios, que não se mostram exorbitantes.
+(..)
+7. Agravo interno a que se nega provimento. Honorários recursais arbitrados "ex officio"."
+(AgInt no AREsp 976.183/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 04/06/2019, DJe 10/06/2019 - grifou-se)
+No caso, os honorários foram fixados em 10%, sendo acrescidos de 2%, nos termos do § 11 do art. 85 do CPC/2015, totalizando o patamar de 12% sobre o valor da condenação. Desse modo, não se verifica situação apta a ensejar a revisão do valor arbitrado, pois os honorários advocatícios não se mostram exorbitantes, o que faz incidir o óbice da Súmula n. 7/STJ.
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 12% para 13% sobre o valor da condenação.
+Publique-se.
