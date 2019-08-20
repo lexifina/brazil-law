@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo apresentado por ALLIANCE CONSULTORIA DE CREDITO E COBRANCA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO MONITÓRIA. DUPLICATAS MERCANTIS. CESSÃO DE CRÉDITO. AUSENTE A NOTIFICAÇÃO DO DEVEDOR. QUITAÇÃO DO DÉBITO JUNTO AO CREDOR ORIGINÁRIO.
+Preliminar de nulidade de sentença por cerceamento de defesa rejeitada, porquanto somente ao magistrado, destinatário das provas, é dado aquilatar a sua necessidade ou não da produção de alguma prova. Questão de direito e de fato, mas esse diz respeito à notificação da Cessão de Crédito que, induvidosamente, não foi realizada.
+O disposto no art. 290 do Código Civil, tem o objetivo de evitar que o devedor ao pagar ao primitivo credor permaneça obrigado a pagar também ao cessionário. Ausente notificação do devedor quanto à cessão de crédito, tanto pela cedente, quanto pela cessionária.
+Fica desobrigado o devedor que, antes de ter conhecimento da cessão, paga ao credor primitivo (art. 292 do CC).
+RECURSO IMPROVIDO.
+Quanto à primeira controvérsia, fundamenta o recurso na alínea "a" do permissivo constitucional, sem, no entanto, apontar o dispositivo legal violado ou contrariado.
+Quanto à segunda controvérsia, pela alínea "c" do permissivo constitucional, alega dissenso jurisprudencial sobre a aplicação do art. 290 do CC, trazendo como paradigma o acórdão proferido no REsp n. 1.604.899/SP (fl. 295).
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais teriam sido violados, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "O acórdão recorrido firmou-se tão somente na ausência de preenchimento dos requisitos de admissibilidade necessários à análise do mérito recursal, em virtude  ..  do enunciado n.º 284 do Supremo Tribunal Federal, diante da ausência de indicação dos dispositivos legais sobre o qual recairia a controvérsia" (AgInt no RE nos EDcl no AgRg no AREsp n. 821.471/SP, relatora Ministra Laurita Vaz, Corte Especial, DJe de 15/12/2016).
+Quanto à segunda controvérsia, na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que inexistente a necessária identidade jurídica e/ou similitude fática entre o acórdão recorrido e o paradigma indicado.
+Nesse sentido, o STJ fixou que "o conhecimento da divergência jurisprudencial reclama a existência de similitude fático-jurídica entre o acórdão recorrido e os paradigmas submetidos a confronto" (EDcl no Resp n. 1.254.636/ES, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 23/4/2015).
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp n. 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; e AgRg no REsp n. 1.500.980/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/3/2015).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
