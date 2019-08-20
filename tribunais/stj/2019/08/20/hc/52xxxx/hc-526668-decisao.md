@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GUDEMBERG GONCALVES DA [NOME] e [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco, no julgamento do Writ n. 0000425-18.2019.8.17.0000.
+Depreende-se dos autos que os pacientes encontram-se presos preventivamente desde 19/09/2014, pela prática, em tese do crime previsto no art. 121, § 2.º, incisos I e IV do Código Penal.
+Irresignada, a defesa impetrou prévio writ na origem, cuja ordem foi denegada.
+Aduz o impetrante, em breve síntese, que estaria caracterizado o excesso de prazo para a formação da culpa e o apontado atraso não decorre de qualquer ato da defesa, o que corrobora a necessidade da liberdade dos pacientes.
+Requer a concessão sumária e definitiva da ordem constitucional para que a prisão preventiva seja relaxada, expedindo-se o alvará de soltura.
+É o relatório.
+Este Superior Tribunal de Justiça firmou entendimento no sentido de não mais admitir o emprego do habeas corpus para contestar decisão contra a qual exista previsão de recurso específico no ordenamento jurídico, exatamente como ocorre no caso em exame.
+Dessa forma, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+Com efeito, colhe-se do acórdão recorrido (e-STJ fls. 112- grifo acrescido):
+ ..
+Cumpre observar que, segundo informações obtidas através do sistema JudWin (fls. 97/98), a instrução criminal já foi concluída.
+Nesse caso, a jurisprudência é pacífica no sentido de que, quando o processo já se encontra em fase de alegações finais, fica superada eventual ocorrência de excesso de prazo, haja vista que a instrução criminal já se encontra concluída, como demonstra o seguinte julgado do colendo STF:
+ ..
+Na presente hipótese, ressalta-se que, com o encerramento da instrução criminal, a aventada ilegalidade resta superada, o que evidencia a perda do objeto do presente writ, nos termos do entendimento consolidado no enunciado n. 52 da Súmula deste Superior Tribunal de Justiça:
+"Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo."
+Nesse sentindo:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DE DROGA. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SÚMULA N.52/STJ. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+III - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do paciente acarretaria risco à ordem pública, notadamente se considerada a quantidade e variedade de entorpecentes apreendidos em seu poder (31,218 quilos de maconha), circunstância indicativa de um maior desvalor da conduta em tese perpetrada, bem como da periculosidade concreta do agente, a revelar a indispensabilidade da imposição da medida extrema. Precedentes.
+IV - Conforme informações prestadas pelo Tribunal de origem, verifica-se que a instrução já foi encerrada e a ação penal encontra-se em fase de alegações finais, desde 11/02/2019, razão pela qual fica superada a alegação de excesso de prazo para a formação da culpa, nos termos do enunciado n. 52 da Súmula deste Tribunal.
+V - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.
+Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Habeas corpus não conhecido.
+(HC 491.363/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 26/02/2019, DJe 01/03/2019)"
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES, ASSOCIAÇÃO PARA O TRÁFICO E CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. RISCO CONCRETO DE REITERAÇÃO DELITIVA. PERICULOSIDADE SOCIAL DO RÉU. NECESSIDADE DA PRISÃO PARA A GARANTIA DA ORDEM PÚBLICA. EXCESSO DE PRAZO. INOCORRÊNCIA. ANDAMENTO REGULAR DO PROCESSO. CONSTANTE IMPULSO OFICIAL. INSTRUÇÃO CRIMINAL ENCERRADA. INCIDÊNCIA DA SÚMULA N. 52 DO STJ. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. RECURSO ORDINÁRIO IMPROVIDO.
+1. Para a decretação da prisão preventiva é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+2. Caso em que a segregação cautelar foi mantida pelo Tribunal impetrado em razão da periculosidade do recorrente, diante (i) do efetivo risco de reiteração criminosa, evidenciado pelo fato de o réu já responder a outras ações penais em curso, além de apresentar registros da prática de atos infracionais análogos ao tráfico de drogas, e (ii) das circunstâncias do flagrante, em que foi apreendida considerável quantidade de entorpecentes (299g de maconha e 46,27g de cocaína), uma arma de fogo, diversas munições, balança de precisão, aparelho celular e dinheiro em espécie. Prisão preventiva mantida, nos termos do art. 312 do Código de Processo Penal. Precedentes.
+3. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+4. O constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto.
+5. No caso, verifica-se que já foram apresentadas as alegações finais, encontrando-se o feito concluso para sentença. Assim, com o encerramento da instrução criminal, fica superada a alegação de excesso de prazo para a formação da culpa, nos termos do enunciado n. 52 da Súmula desta Corte, segundo o qual Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.
+6. Recurso ordinário em habeas corpus a que se nega provimento.
+(RHC 106.864/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/02/2019, DJe 20/02/2019)"
+Pelo exposto, indefere-se liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
