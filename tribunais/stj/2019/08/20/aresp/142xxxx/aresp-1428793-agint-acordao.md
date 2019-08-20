@@ -1,0 +1,51 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. MANUTENÇÃO DO EX-EMPREGADO APOSENTADO OU DEMITIDO SEM JUSTA CAUSA. ARTS. 30 E 31 DA LEI 9.656/1998. REQUISITOS NÃO PREENCHIDOS. CONTRIBUIÇÃO EXCLUSIVA DO EMPREGADOR. COPARTICIPAÇÃO DO USUÁRIO. IRRELEVÂNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte já firmou a tese, em demanda repetitiva, de que "nos planos de saúde coletivos custeados exclusivamente pelo empregador não há direito de permanência do ex-empregado aposentado ou demitido sem justa causa como beneficiário, salvo disposição contrária expressa prevista em contrato ou em acordo/convenção coletiva de trabalho, não caracterizando contribuição o pagamento apenas de coparticipação, tampouco se enquadrando como salário indireto." (REsp 1.680.318/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 22/08/2018, DJe 24/08/2018).
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por [NOME] contra as decisões de fls. 831-833 e 834-836 (e-STJ), da lavra deste signatário, que conheceu dos agravos para dar provimento aos recursos especiais interpostos pelas ora agravadas.
+Os aludidos apelos especiais foram deduzidos com o intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 624):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. APELANTE (1). DEMISSÃO DE EMPREGADO. MANUTENÇÃO DO CONTRATO DE PLANO DE SAÚDE. POSSIBILIDADE. ART. 30 DA LEI 9.656/98. EXEGESE. CONTRIBUIÇÃO INDIRETA DO BENEFICIÁRIO. PRECEDENTES. TJPR E STJ. APELO NÃO PROVIDO. APELANTE (2). LEGITIMIDADE PASSIVA. COOPERATIVAS UNIMED. GRUPO ECONÔMICO. SISTEMA ÚNICO DE ABRANGÊNCIA NACIONAL. SOLIDARIEDADE. RECONHECIDA. SENTENÇA MANTIDA. APELO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 647-650).
+Nas razões do recurso especial (e-STJ, fls. 653-665), Unimed Pato Branco Cooperativa de Trabalho Médico alegou violação dos arts 30 da Lei 9.656/1998 e 265 do Código Civil. Aduziu que o direito à manutenção nos planos de saúde coletivos dos empregados demitidos sem justa causa restringe-se aos casos em que os beneficiários contribuem para o pagamento do prêmio ou da contribuição mensal. Defendeu, assim, a reforma do acórdão recorrido, haja vista a ausência de contribuição direta do autor no pagamento das mensalidades do plano. Por fim, sustentou sua ilegitimidade para figurar no polo passivo da ação.
+Central Nacional Unimed - Cooperativa Central, por sua vez, asseverou violação dos arts. 30 da Lei 9.656/1998 e 458, § 2º, IV, da CLT, afirmando, em síntese, que o ex-empregado nunca contribuiu para o seguro e que, em face disso, não teria o direito de se manter no seguro coletivo após a sua aposentadoria (e-STJ, fls. 754-758).
+Em razão do juízo prévio negativo de admissibilidade, as ora agravadas interpuseram agravos do art. 1.042 do CPC/2015, dos quais se conheceu para dar provimento aos recursos especiais, sob o argumento da inexistência do direito de permanência do ex-empregado nos casos em que o plano de saúde coletivo era custeado exclusivamente pelo empregador.
+Opostos embargos de declaração pelo insurgente, estes foram rejeitados (e-STJ, fls. 855-857).
+No presente agravo interno (fls. 861-866 , e-STJ), o agravante assevera, em suma, ser "irrelevante o fato de o ex-funcionário nunca ter contribuído diretamente com o valor das mensalidades do plano, sob o argumento de que a coparticipação, como fator de moderação pelo uso dos serviços, não se confunde com a contribuição prevista no art. 30 da Lei dos Planos de Saúde, independente de quem tenha tomado a iniciativa de sua contribuição, se o empregador ou o empregado. Isto porque, a cota do empregado, que sempre foi paga pelo empregador, é considerada parcela salarial indireta" (e-STJ, fl. 865).
+Ao final, requer a reconsideração da decisão agravada para que seja mantido o acórdão proferido pelo Tribunal de origem.
+Impugnação às fls. 870-874 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. MANUTENÇÃO DO EX-EMPREGADO APOSENTADO OU DEMITIDO SEM JUSTA CAUSA. ARTS. 30 E 31 DA LEI 9.656/1998. REQUISITOS NÃO PREENCHIDOS. CONTRIBUIÇÃO EXCLUSIVA DO EMPREGADOR. COPARTICIPAÇÃO DO USUÁRIO. IRRELEVÂNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte já firmou a tese, em demanda repetitiva, de que "nos planos de saúde coletivos custeados exclusivamente pelo empregador não há direito de permanência do ex-empregado aposentado ou demitido sem justa causa como beneficiário, salvo disposição contrária expressa prevista em contrato ou em acordo/convenção coletiva de trabalho, não caracterizando contribuição o pagamento apenas de coparticipação, tampouco se enquadrando como salário indireto." (REsp 1.680.318/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 22/08/2018, DJe 24/08/2018).
+2. Agravo interno desprovido.
+
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Os argumentos trazidos pelo insurgente não são capazes de modificar as conclusões da decisão agravada.
+Com efeito, a Segunda Seção do STJ, por ocasião do julgamento dos REsps 1.680.318/SP e 1.708.104/SP, sob o rito de recursos repetitivos, firmou o entendimento de que "nos planos de saúde coletivos custeados exclusivamente pelo empregador não há direito de permanência do ex-empregado aposentado ou demitido sem justa causa como beneficiário, salvo disposição contrária expressa prevista em contrato ou em acordo/convenção coletiva de trabalho, não caracterizando contribuição o pagamento apenas de coparticipação, tampouco se enquadrando como salário indireto".
+Segundo essa orientação, na hipótese de ausência de previsão contratual ou em acordo/convenção coletiva de trabalho, é impositivo o afastamento do direito do ex-empregado em permanecer no plano de saúde.
+A propósito, confira-se a ementa do REsp 1.680.318/SP, acima mencionado:
+RECURSO ESPECIAL REPETITIVO. CIVIL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO OU DEMITIDO SEM JUSTA CAUSA. ASSISTÊNCIA MÉDICA. MANUTENÇÃO. ARTS. 30 E 31 DA LEI Nº 9.656/1998. REQUISITOS NÃO PREENCHIDOS. CONTRIBUIÇÃO EXCLUSIVA DO EMPREGADOR. VIGÊNCIA DO CONTRATO DE TRABALHO. COPARTICIPAÇÃO DO USUÁRIO. IRRELEVÂNCIA. FATOR DE MODERAÇÃO. SALÁRIO INDIRETO. DESCARACTERIZAÇÃO.
+1. Tese para os fins do art. 1.040 do CPC/2015: Nos planos de saúde coletivos custeados exclusivamente pelo empregador não há direito de permanência do ex-empregado aposentado ou demitido sem justa causa como beneficiário, salvo disposição contrária expressa prevista em contrato ou em acordo/convenção coletiva de trabalho, não caracterizando contribuição o pagamento apenas de coparticipação, tampouco se enquadrando como salário indireto.
+2. No caso concreto, recurso especial provido.
+(REsp 1680318/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 22/08/2018, DJe 24/08/2018)
+No caso dos autos, constou da sentença (e-STJ, fls. 464-465, sem grifo no original):
+ Não procede o argumento de que o somente o empregador contribuia para a manutenção do plano, posto que, mesmo nos casos em que resta comprovado que o empregado não contribuia diretamente, a jurisprudência entende que este (o empregado) contribuia indiretamente, de modo que o valor pago pela empresa repersenta parcela salarial indireta, o que torna de somenetos importância perquirir quem contribuiu ou não para fins do art. 30 da Lei 9.656/98.
+(..)
+ Ou seja, o pagamento do prêmio feito de forma integral pelo empregador tem natureza salarial indireta, de modo que a ausência de contribuição direta do empregado não é suficiente para afastar a aplicação do artigo 30 da referida lei.
+ Assim, o autor possui direito à manutenção de cobertura, assumindo a totalidade do pagamento do prêmio, nos termos do art. 30, da Lei dos Planos de Saúde.
+Nesse mesmo sentido, o Tribunal de origem concluiu (e-STJ, fls. 626-627):
+ Com base na exegese do enunciado normativo acima, a apelante afirma que é indevida a manutenção do contrato de trabalho, pois o beneficiário não contribuía para o plano de saúde, mas sim o seu empregador, motivo pelo qual é inaplicável o referido dispositivo legal.
+ O tema se encontra pacificado frente a esta Corte e aos Tribunais Superiores. Deve ser atribuída interpretação teleológica ao art. 30 da Lei 9.656/98, no sentido de que a contribuição do beneficiário poderá ser direta ou indireta. A primeira se refere a contraprestação do plano de saúde paga diretamente pelo beneficiário, enquanto a segunda trata da contraprestação paga pelo empregador, porém em decorrência do trabalho do empregado. Confira-se:
+(..)
+ Cumpre ressaltar que se aplica ao presente caso o Código de Defesa do Consumidor, nos termos da Súmula 469 do STJ, devendo garantir equilíbrio à relação jurídica existente entre o beneficiário e a operadora do plano de saúde.
+ Em relação ao pedido sucessivo da apelante, por certo que deve ser observado o art. 30, § 1º, da Lei 9.656/98 pelos contratantes, sendo desnecessária a dilação argumentativa quanto a sua aplicabilidade, principalmente em se tratando de ressalvas às hipóteses formuladas pela apelante. Ademais, se verifica que o tema já foi apreciado pela decisão interlocutória de tutela antecipada 163/166, a qual foi confirmada pela sentença.
+Desse modo, considerando que as instâncias ordinárias entenderam ser direito do ora agravante permanecer como beneficiário do plano de saúde nas mesmas condições da época da ativa, mesmo constatando que a ex-empregadora custeava integralmente o plano, é evidente a dissonância ao recente entendimento acima declinado, sendo imperiosa a reforma do acórdão recorrido.
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
