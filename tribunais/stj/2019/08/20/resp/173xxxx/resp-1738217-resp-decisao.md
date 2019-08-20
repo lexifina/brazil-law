@@ -1,0 +1,26 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO, ERRO MATERIAL, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. REEXAME DE PROVAS, EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+DECISÃO
+1. Cuida-se de recurso especial interposto, às fls. 2.101-2.105, pela OI S.A. com fundamento no art. 105, III, a, da Constituição Federal.
+Afirma a recorrente omissão, contradição e que, reconhecendo a sua ilegitimidade passiva, foi extinto o processo com relação à patrocinadora do plano de benefícios de previdência complementar, todavia a verba honorária foi fixada em R$ 1.500,00 (mil e quinhentos reais).
+Diz que os honorários sucumbenciais deveriam corresponder ao percentual mínimo de 10% sobre o proveito econômico obtido.
+Consigno que, por equívoco de autuação cometido no âmbito do STJ, foi julgado apenas o recurso especial da entidade previdenciária, acolhido para julgar integralmente improcedente o pedido formulado na inicial, conforme decisão de fls. 2.281-2.282 e acórdão de fls. 2.384-2.396, assim ementado:
+AGRAVO INTERNO. TRANSAÇÃO PARA MIGRAÇÃO PARA O PLANO DE BENEFÍCIOS BRTPREV. REGRA LEGAL DA INDIVISIBILIDADE DA TRANSAÇÃO. OBSERVÂNCIA. IMPRESCINDIBILIDADE. APLICAÇÃO DE CLÁSULA DO REGULAMENTO DO PLANO DE BENEFÍCIOS PRIMEVO. DESCABIMENTO.
+1. Consoante tese sufragada em sede de recurso repetitivo, em havendo transação para migração de plano de benefícios, em observância à elementar regra legal da indivisibilidade da pactuação e proteção ao equilíbrio contratual, a anulação de cláusula que preveja concessão de vantagem contamina todo o negócio jurídico, conduzindo ao retorno ao statu quo ante. (REsp 1551488/MS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/06/2017, DJe 01/08/2017)
+2. Como assentando nesse julgado, a transação para migração de plano de benefícios, facultada até mesmo aos assistidos, implica novação, ocorrendo em um contexto de amplo redesenho da relação contratual previdenciária, com o concurso de vontades do patrocinador, da entidade fechada de previdência complementar, por meio de seu conselho deliberativo (integrado por representantes dos participantes e assistidos, que são eleitos por seus pares), e autorização prévia do Órgão público fiscalizador.
+3. Com efeito, evidentemente, não há falar em aplicação/exame de cláusula do regulamento do plano de benefícios primevo, que não rege, na atualidade, a relação contratual previdenciária mantida entre as partes, se houver a migração de plano de benefícios da previdência privada. (AgInt no AREsp 548.514/PI, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/05/2018, DJe 30/05/2018)
+4. Agravo interno não provido.
+2. Observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3. O acórdão recorrido dispôs:
+Neste prisma, no caso concreto, não há omissão no julgado precedente. Em razão do reconhecimento da ilegitimidade da embargante, foi condenada a parte autora, ora embargada, ao pagamento de 20% das custas processuais e dos honorários advocatícios fixados na sentença (20% de R$ 1.500,00) em favor da embargante.
+A demanda foi ajuizada na vigência do CPC/1973, ficando expresso no acórdão recorrido que os honorários foram fixados em 20% do valor atribuído à causa (que não foi oportunamente impugnado pela ora recorrente, malgrado afirme - o que não tem supedâneo na decisão recorrida -, de modo extemporâneo, que o proveito econômico buscado é vultoso).
+Nas causas de pequeno valor, os honorários advocatícios devem ser arbitrados de forma equitativa pelo juiz. Dessarte, os honorários arbitrados para a presente demanda, ajuizada na vigência do CPC/1973, atende aos critérios de equidade, de modo que só se poderia cogitar em revisão do acórdão recorrido mediante reexame de provas, vedado pela Súmula 7/STJ.
+Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. HONORÁRIOS ADVOCATÍCIOS. VALOR IRRISÓRIO. REVISÃO. AGRAVO NÃO PROVIDO.
+1. Somente é admissível o exame do montante fixado a título de honorários advocatícios, em sede de recurso especial, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+2. Nas causas de pequeno valor, os honorários advocatícios devem ser arbitrados de forma equitativa pelo juiz, não ficando adstrito o juiz aos limites percentuais previstos em lei.
+3. Diante da condenação da recorrida à restituição de tarifa de registro de contrato e de avaliação do bem e da improcedência dos demais pedidos, inclusive de indenização por danos morais, a verba honorária fixada com base no valor da condenação acabou por se tornar irrisória, totalizando a ínfima quantia de R$ 130,20 (cento e trinta reais e vinte centavos), autorizando, pois, sua majoração para o montante de R$ 1.000,00 (mil reais).
+4. Agravo interno não provido.
+(AgInt no REsp 1648841/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/08/2017, DJe 08/09/2017)
+4. Diante do exposto, nego provimento ao recurso especial manejado pela OI S.A..
+Publique-se. Intimem-se.
