@@ -1,0 +1,16 @@
+RECURSO EXTRAORDINÁRIO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. CIVIL. COBRANÇA, POR PARTE DE ASSOCIAÇÃO, DE TAXAS DE MANUTENÇÃO E CONSERVAÇÃO DE LOTEAMENTO IMOBILIÁRIO URBANO DE PROPRIETÁRIO NÃO-ASSOCIADO. MATÉRIA SUBMETIDA AO REGIME DA REPERCUSSÃO GERAL. TEMA 492. RE 695.911. DEVOLUÇÃO DO FEITO À ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF). PREJUDICADO O AGRAVO INTERNO.
+    Decisão: Trata-se de agravo interno interposto por Malpaso - Incorporações e Participações Ltda – EPP, contra decisão de minha relatoria, assim ementada:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO DE COBRANÇA. TAXA CONDOMINIAL. OBRIGAÇÃO PROPTER REM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E DA LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA 279 DO STF. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO DESPROVIDO.”
+    À luz dos argumentos expostos, RECONSIDERO a decisão de devolução, tornando-a sem efeito, e passo ao reexame do recurso extraordinário interposto pela parte ora agravante.
+    Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. ASSOCIAÇÃO DE PROPRIETÁRIOS DE LOTES DE LOTEAMENTO FECHADO CARMEL CONDOMÍNIO. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA. HAVENDO O RECONHECIMENTO DE QUE OS VALORES EM COBRANÇA SÃO TIPICAMENTE EQUIVALENTES ÀS COTAS CONDOMINIAIS, CABE RECONHECER SEU CARÁTER DE OBRIGAÇÃO PROPTER REM, TENDO COMO DEVEDOR AQUELE QUE ESTABELECE A RELAÇÃO DE PROPRIEDADE (DIREITO REAL) COM O IMÓVEL EM QUESTÃO, ASSIM FIGURANDO NO REGISTRO IMOBILIÁRIO. MÉRITO DA AÇÃO. AQUELE QUE SE BENEFICIA DOS PROVEITOS DO CONDOMÍNIO, USUFRUI DE SUAS FUNCIONALIDADES E, INCLUSIVE, PRETENDE VENDER O IMÓVEL A TERCEIRO ANUNCIANDO QUE SUA INTEGRAÇÃO À ASSOCIAÇÃO DE PROPRIETÁRIOS É INERENTE À CONDIÇÃO TAL, NÃO PODE SE ESCUSAR DO PAGAMENTO DAS DESPESAS QUE A ASSOCIAÇÃO SOB O ARGUMENTO DE QUE EM NADA SE RELACIONA COM A ASSOCIAÇÃO. ADEMAIS, EM AÇÃO ANTERIOR O APELADO JÁ FIRMOU ACORDO COM A APELANTE RECONHECENDO A DÍVIDA RELATIVA A OUTRAS PARCELAS, ASSUMINDO, TAMBÉM, A RESPONSABILIDADE PELAS MENSALIDADES VINDOURAS. DERAM PROVIMENTO AO APELO. UNÂNIME.” (doc. 2, p. 72).
+    Nas razões do apelo extremo, a agravante sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, XX, da Constituição Federal.
+    Alega, em síntese, que nunca houve associação entre as partes, sendo a agravante mera proprietária de lotes no condomínio fechado no qual a associação agravada foi constituída.
+    É o relatório. DECIDO.
+    A matéria versada no recurso extraordinário foi submetida por esta Corte ao regime da repercussão geral (Tema 492, RE 695.911, Rel. Min. Dias Toffoli).
+    Ex positis, RECONSIDERO a decisão agravada e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a DEVOLUÇÃO do feito à origem, PREJUDICADO o agravo interno.
+    Publique-se.
+    Brasília, 20 de agosto de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
