@@ -1,0 +1,24 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. ACÓRDÃO IMPUGNADO QUE RESSALTA A EXISTÊNCIA DE VAGAS EM UNIDADES PRISIONAIS COMPATÍVEIS COM O REGIME ABERTO. ALTERAÇÃO DAS CONCLUSÕES DA CORTE DE ORIGEM SOBRE AS CONDIÇÕES DO RECOLHIMENTO. INCURSÃO NO ARCABOUÇO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ESTREITA DO WRIT. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, que deu provimento ao recurso interposto pelo Ministério Público estadual (Agravo em Execução Penal n.º 0114661-57.2018.8.19.0001).
+Consta nos autos que o Juízo das Execuções Penais deferiu a progressão para o regime aberto, na modalidade prisão albergue domiciliar, com monitoramento eletrônico, a ser cumprido na residência do Apenado.
+Irresignado, o Ministério Público estadual interpôs agravo em execução penal, que foi provido para, mantida a progressão de regime, cassar "apenas o trecho desta decisão que estabeleceu a prisão albergue domiciliar, com monitoramento eletrônico, para o cumprimento de tal benefício, devendo o agravado cumpri-lo em Casa de Albergado do Estado" (fl. 20).
+Neste writ, argumenta a Defesa que o acórdão impugnado não teria analisado as "condições sub-humanas das unidades prisionais do Estado, que há 1 ano atrás, quando foi concedido o benefício, já foram diagnosticadas como péssimas, sendo vetado o ingresso de novos internos" (fl. 9).
+Assevera que, " r etorná-lo ao cárcere, mesmo que em casa de albergado, além de não ser isonômico, quando se comparado com os demais apenado que vivem em situação idêntica, também retroage no que se refere a finalidade da pena, uma vez que, o paciente se encontra trabalhando e com família constituída. Portanto, o regresso, além dos danos e prejuízos causados, configura grave constrangimento" (fls. 9-10).
+Requer, inclusive liminarmente, "seja cassado o v. acórdão, recolhendo o mandado de prisão expedido em favor do paciente, mantendo-o no mesmo regime, na modalidade domiciliar com monitoramento, conforme determinada pela VEP" (fl. 10).
+O pedido liminar foi indeferido pela Ministra Vice-Presidente do Superior Tribunal de Justiça, MARIA THEREZA DE ASSIS MOURA, no recesso forense (fl. 33).
+As informações foram prestadas às fls. 35-40.
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 44-50).
+É o relatório. Decido.
+Inicialmente, ressalto que é "pacífico nesta Corte Superior de Justiça o entendimento de que se caracteriza constrangimento ilegal a submissão do apenado ao cumprimento da pena privativa de liberdade em regime mais gravoso do que o estabelecido pela sentença condenatória  .. " (AgRg no RHC 95.524/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/06/2019, DJe 05/08/2019).
+No entanto, o Tribunal local ressaltou que, no caso, "não se está diante de hipótese de omissão estatal e imposição de cumprimento de pena em regime mais gravoso, uma vez que existem no Estado vagas em unidades prisionais compatíveis com o regime aberto" (fl. 20; sem grifos no original).
+Dessa forma, alterar o entendimento adotado pelo Tribunal a quo, no tocante às conclusões firmadas acerca das condições atinentes ao recolhimento, conforme veiculado nas razões do writ, demandaria, necessariamente, a análise de matéria fático-probatória, o que não se revela compatível com a via estreita do habeas corpus.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. EXECUÇÃO PENAL. COMPATIBILIDADE DO ESTABELECIMENTO PRISIONAL COM O REGIME INTERMEDIÁRIO. INADMISSIBILIDADE DA COLOCAÇÃO NO REGIME ABERTO OU PRISÃO DOMICILIAR. INEXISTÊNCIA DE COLÔNIA AGRÍCOLA OU INDUSTRIAL. CUMPRIMENTO EM ALA ESPECIAL NO PRESÍDIO. POSSIBILIDADE. GOZO DOS BENEFÍCIOS DO REGIME SEMIABERTO. ANÁLISE DA ESTRUTURA DO ESTABELECIMENTO PRISIONAL. INADMISSIBILIDADE. ANÁLISE QUE DEMANDARIA A INCURSÃO FÁTICO-PROBATÓRIA. INVIABILIDADE NO MANDAMUS. FLAGRANTE ILEGALIDADE INEXISTENTE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. In casu, todavia, não se verifica a presença de referida hipótese excepcional, ou seja, ausência de vaga em estabelecimento prisional compatível com o regime intermediário, tendo em vista que o paciente foi efetivamente inserido no regime semiaberto, cumprindo pena em ala separada do presídio e usufruindo dos benefícios inerentes ao mencionado regime, como saídas temporárias e atividade laborativa.
+4. O debate sobre as condições de recolhimento em tela demandaria incursão fático-probatória, incompatível com a via estreita do writ, ação constitucional de rito célere e de cognição sumária.
+Habeas corpus não conhecido." (HC 374.082/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/12/2016, DJe 10/02/2017; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do habeas corpus.
+Publique-se. Intimem-se.
