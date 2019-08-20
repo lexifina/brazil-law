@@ -1,0 +1,14 @@
+DECISÃO
+1. Cuida-se de agravo interposto pelo PORTAL CONSTRUÇÕES SPE LTDA. em face de decisão que não admitiu o seu recurso especial.
+2. A irresignação não merece prosperar.
+A parte agravante não rebate, de forma específica, clara e fundamentada, os argumentos da decisão agravada, notadamente os seguintes:
+(i) incidência das Súmulas 5 e 7, do STJ no que se refere à incidência da capitalização de juros;
+(ii) ausência de interesse recursal da parte pela inexistência de sucumbência em relação ao capítulo referente à comissão de permanência, porquanto o acórdão, após análise do contrato, concluiu que não há previsão da comissão de permanência no período de inadimplência; e,
+(iii) é firme a orientação jurisprudencial do Superior Tribunal de Justiça no sentido de que a aplicação da Súmula 07 da Corte Superior impede a admissão do recurso especial tanto pela alínea "a", quanto pela alínea "c", do permissivo constitucional.
+Essa circunstância obsta, por si só, a pretensão recursal, pois à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Era esse o entendimento segundo a inteligência do disposto no inciso I, do § 4º, do art. 544 do Código de Processo Civil de 1.973, incluído pela Lei nº 12.322/2010, que tratava da sistemática dos agravos contra os despachos denegatórios dos recursos dirigidos a esta Corte e consigna ser dever do agravante atacar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento de sua irresignação. Nesse sentido: AgRg no Ag 1270282/RS, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe 17/02/2012 e AgRg no Ag 1327361/MG, Rel. Ministra Maria Isabel Gallotti, Quarta Turma.
+E continua a ser esse o entendimento na vigência do Novo Código de Processo Civil, ao estipular que o relator não deve conhecer de recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, Novo CPC).
+Ressalte-se que o art. 253, parágrafo único, I, do RISTJ também estabelece como ônus do agravante a impugnação a todos os fundamentos da decisão recorrida, sob pena de ver o seu agravo não conhecido.
+3. Ante o exposto, não conheço do agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
