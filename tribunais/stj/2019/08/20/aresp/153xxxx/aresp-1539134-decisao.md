@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo apresentado por ROSELI CAVINATI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Apelação Cível. Ação reivindicatória. Não comprovado o domínio da apelante sobre a fração ideal do imóvel por ela indicada. Impossibilidade de provimento do requerimento de natureza petitória, em razão da ausência de comprovação da propriedade.
+Impossibilidade de redução dos honorários de sucumbência, até porque fixados por equidade, quando deveria ter sido tomado por parâmetro o elevado valor da causa. Sentença mantida. Recurso a que se nega provimento (fl. 245).
+Quanto à controvérsia apresentada nos autos, pela alínea "a" do permissivo constitucional, alega violação do art. 1.228 do CC, trazendo o(s) seguinte(s) argumento(s):
+No entanto, as aludidas aquisições servem tão somente para conferir quinhão maior do imóvel à Recorrente, que já era proprietária, por meio do registro competente, de 1/12 do terreno, uma vez que 1/6 do mesmo foi adquirido na constância do casamento com seu ex cônjuge, sendo que tal aquisição está devidamente averbado na matrícula do imóvel.
+ ..
+Assim, ao contrário do entendimento adotado pelo v. acórdão, a propriedade de fração ideal do bem está estampada no registro do imóvel, de modo que a Recorrente não possui mera expectativa de direito, mas sim direito líquido e certo, decorrente da matrícula do imóvel cuja posse pretende reaver (fls. 257/258).
+É o relatório. Decido.
+No que concerne à controvérsia, o Tribunal de origem assentou:
+No próprio recurso a apelante destaca que, por problemas financeiros, não levou a registro "a propriedade de 1/6 da fração ideal do imóvel que pertencia ao irmão e a de 1/6 que pertencia ao ex-marido" (fl. 226). Assim, não poderia ser dado provimento ao pedido reivindicatório da fração ideal de 1/2 do imóvel, porquanto, como bem destacado na exordial, é fundado em direito real imobiliário, de natureza petitória.
+Frise-se, apesar das alegações de recebimento de doação e do direito ao recebimento da meação outrora pertencente ao ex-marido, tais fatos não constam no registro do bem, de forma que a recorrente pode ser detentora de direito pessoal sobre a metade do imóvel, mas ainda não é a proprietária de metade do bem para fazer jus aos direitos descritos no art. 1.228, do CC.
+Posto isso, sendo o pedido inicial fundamentado em direito de propriedade não consolidado na escritura pública do bem, inafastável a improcedência do pedido exordial (fls. 246/247).
+Dessa feita, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
