@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por [NOME] contra o v. acórdão proferido pela TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que deu parcial provimento a agravo de instrumento, nos seguintes moldes, no que interessa à presente:
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. IMPROCEDÊNCIA FASE DE CUMPRIMENTO DE SENTENÇA. PLEITO DE EXECUÇÃO DA MULTA PREVISTA NO ART. 3o, §6o, DO DECRETO-LEI Nº 911/69. IMPOSSIBILIDADE. SANÇÃO QUE NÃO CONSTA NO TÍTULO EXEQUENDO. PRETENSÃO QUE VIOLA A COISA JULGADA. DECISÃO REFORMADA. RECURSO PROVIDO NESTA PARTE. COM OBSERVAÇÃO. A execução deve obedecer os parâmetros constantes no título exequendo, sob pena de ofensa à coisa julgada. No caso, o acórdão em que julgada improcedente a demanda não aplicou a sanção de multa, limitando-se à ordem de devolução do veiculo ao financiado.
+Todavia, fato superveniente da alienação do veículo em leilão impossibilita a inclusão da multa no titulo executório, observada a possibilidade de ajuizamento de ação para esse fim" (grifou-se, na fl. 23).
+A inicial destaca que, como "deixou o Tribunal a quo de aplicar o entendimento jurisprudencial consolidado no REsp. n.º 1.715.749-SC, desta forma violando a autoridade da decisão deste Superior Tribunal de Justiça - STJ, se faz necessário a interposição da presente Reclamação, a fim de que possa ser aplicada o entendimento firmado no REsp. acima mencionado no caso in concreto ora posto a apreciação" (grifou-se, na fl. 7).
+Assim, pugna pela admissão e procedência desta reclamação para adequar o aresto vergastado à orientação firmada por esta Corte Superior nos precedentes que colaciona.
+É o relatório.
+Passo a decidir.
+De início, destaque-se que a reclamação, nas vertentes constitucional e processual, destina-se à: (i) preservação da competência do Tribunal e à garantia da autoridade de suas decisões (CF, art 105, I, f; CPC, art. 988, I e II; RISTJ, art. 187), para (ii) garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas (IRDR) ou de incidente de assunção de competência (IAC) e (iii) garantir a observância de acórdão proferido em julgamento de recurso especial repetitivo (RRC), quando esgotadas as instâncias ordinárias (CPC, art. 988, IV e § 5º, II).
+Dessarte, a presente reclamação é manifestamente inadmissível, porquanto o caso em análise não se amolda a nenhuma das hipóteses acima enunciadas, visto que o reclamante não pretende a preservar a competência do Tribunal ou garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas (IRDR), de incidente de assunção de competência (IAC) ou de recurso especial repetitivo (RRC), visando, na verdade, corrigir alegado equívoco do Tribunal estadual na aplicação da jurisprudência corriqueira desta Corte e exposta em precedente não não vinculante, expediente que deve ser exercitado através dos meios recursais ordinários, pois é vedado o uso da reclamação como sucedâneo recursal.
+Nesse sentido:
+AGRAVO INTERNO. RECLAMAÇÃO CONTRA ACÓRDÃO DA QUARTA TURMA EM RECURSO ESPECIAL. UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL.
+1. É defesa a utilização da reclamação como sucedâneo recursal. Precedentes.
+2. No caso, verifica-se que esta ação foi ajuizada contra acórdão proferido pela Quarta Turma no REsp 1.592.747/RJ, o que não se enquadra em nenhuma das hipóteses de cabimento previstas no art. 988 do CPC, ressoando inequívoco o intuito de reforma daquela decisão pela via inadequada.
+3. Agravo interno não provido.
+(AgInt na Rcl 37.086/DF, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/06/2019, DJe 28/06/2019)
+Tampouco pretende o reclamante garantir a autoridade de decisões do Superior Tribunal de Justiça, o que pressupõe a existência de um comando concreto, positivo ou negativo, desta Corte, cuja eficácia deva ser assegurada e que tenha sido proferida em processo que envolva as mesmas partes ou que possa produzir efeitos em relação jurídica diretamente dependente.
+Confira-se:
+AGRAVO INTERNO NA RECLAMAÇÃO - DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA - DESCUMPRIMENTO - INEXISTÊNCIA - DELIBERAÇÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO A RECLAMAÇÃO. INSURGÊNCIA DO AUTOR.
+1. De acordo com a jurisprudência da Segunda Seção do Superior Tribunal de Justiça, o ajuizamento da reclamação, que constitui medida correicional, pressupõe a existência de um comando positivo desta Corte Superior cuja eficácia deva ser assegurada, protegida e conservada. Precedentes.
+2. Na hipótese, não restou caracterizado o exercício por outro órgão julgador de competência privativa ou exclusiva deste Tribunal, nem o descumprimento de decisões dele emanadas, por quem de direito, nos exatos termos dos arts. 105, I, "f", da CF, 13 da Lei n.º 8.038/1990 e 187 do RISTJ.
+3. Agravo interno desprovido.
+(AgInt nos EDcl na Rcl 36.498/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 19/03/2019, DJe 29/03/2019)
+Ante o exposto, com fundamento no art. 34, XVIII, "a" do RISTJ, não conheço da reclamação.
+Publique-se.
