@@ -1,0 +1,13 @@
+DECISÃO
+JAIR FLORIANO alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 0000208-56.2015.8.24.0020.
+Requer o reconhecimento da atenuante da confissão, com a consequente redução da pena na segunda fase da dosimetria.
+Indeferida a liminar (fls. 302-303) e prestadas as informações (fls. 306-355), veio parecer do Ministério Público Federal, que opinou pela denegação da ordem (fls. 361-366).
+Decido.
+No caso, ficou registrado na sentença que "o réu admitiu que subtraiu a bicicleta do estabelecimento Du Bike Trilhas e depois se dirigiu até um galpão abandonado" (fl. 200, grifei). Todavia, não foi reconhecida a incidência da confissão espontânea, pois "esta se deu de forma qualificada" (fl. 216).
+O Tribunal a quo manteve os termos da sentença e asseverou que "em momento algum o apelante admitiu a prática do ilícito, mas tão somente a remoção de um dos bens furtados - uma bicicleta - do estabelecimento ofendido" (fl. 295).
+Esta Corte Superior possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação. Dessa forma, verifico o constrangimento ilegal de que estaria sendo vítima o paciente, haja vista que a confissão realizada na fase judicial foi utilizada para corroborar o acervo probatório e fundamentar a condenação, devendo incidir a atenuante prevista no art. 65, III, "d", do Código Penal.
+Nesse sentido foi editada a Súmula n. 545 do STJ, verbis: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+Caracterizada a coação ilegal, passo à readequação da pena.
+Partindo dos critérios adotados pelas instâncias ordinárias, verifico que a pena-base foi fixada em 3 anos de reclusão, mais 15 dias-multa. Na segunda fase, reconhecida a confissão espontânea, reduzo a pena em seis meses, o que perfaz 2 anos e 6 meses de reclusão, mais 13 dias-multa. A pena foi, ainda, aumentada em 1/3, pela multirreincidência do réu, o que a torna definitivamente estabelecida em 3 anos e 4 meses de reclusão, mais 14 dias-multa, ante a inexistência de causas de aumento e de diminuição.
+À vista do exposto, concedo a ordem, a fim de reconhecer a confissão espontânea, reduzindo a reprimenda para 3 anos e 4 meses de reclusão, mais 14 dias-multa.
+Publique-se e intimem-se.
