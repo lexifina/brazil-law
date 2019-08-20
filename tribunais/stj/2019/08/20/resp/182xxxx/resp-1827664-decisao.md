@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Alagoas, assim ementado (fl. 287):
+"CIVIL. RESPONSABILIDADE CIVIL. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE PRIMEIRO GRAU QUE JULGOU IMPROCEDENTE A PRETENSÃO AUTORAL. VINCULAÇÃO DA IMAGEM DO AUTOR À PRÁTICA DELITUOSA EM JORNAL DE CIRCULAÇÃO NACIONAL. O VERDADEIRO SUSPEITO É HOMÔNIMO DO DEMANDANTE, PESSOA TOTALMENTE ALHEIA AO CRIME. VIOLAÇÃO À HONRA SUBJETIVA E À IMAGEM DO AUTOR. DANO MORAL CONFIGURADO. REFORMA DA SENTENÇA. FIXAÇÃO DE INDENIZAÇÃO CONFORME OS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE, NO IMPORTE DE R$ 15.000,00 (QUINZE MIL REAIS). JUROS E CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS E CUSTAS PROCESSUAIS. RECURSO CONHECIDO E PROVIDO."
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 318-326.
+Em suas razões recursais, [NOME] [NOME] DA [NOME] aponta violação aos arts. 944 do Código Civil e 85, § 2º, do Código de Processo Civil de 2015, ao argumento, entre outros, que "(..) O v. acordão fixou, a título de danos morais, a quantia de R$ 15.000,00 (quinze mil reais) o que correspondem, aproximadamente, a 15(quinze) salários mínimos. Todavia, não observou, na esteira da melhor doutrina e jurisprudência, na fixação da indenização por danos morais, com equidade a extensão do dano; as condições socioeconômicas e culturais dos envolvidos e o grau de culpa da empresa ora recorrida (..)" (fl. 335).
+Contrarrazões apresentadas por GLOBO COMUNICAÇÕES E PARTICIPAÇÕES S/A às fls. 371-378.
+É o relatório. Passo a decidir.
+O recurso em apreço não merece prosperar.
+De início, considerando que o recurso especial foi interposto contra acórdão publicado publicado já na vigência do CPC de 2015, aplica-se ao caso o Enunciado Administrativo n.º 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, ao apontar ofensa ao art. 944 do CC, o recorrente sustenta que o valor de R$15.000,00 (quinze mil reais) fixado a título de danos morais se mostra ínfimo, motivo pelo qual merece ser majorado, sopesando a violação a sua honra e imagem em razão da matéria jornalística publicada pela recorrida.
+Por sua vez, o TJ-AL, com arrimo no acervo fático-probatório, assim arbitrou o valor dos danos morais (fls. 297-298):
+ "Assentadas estas questões, é certo que a reparação por danos morais tem caráter pedagógico, devendo-se observar a proporcionalidade e a razoabilidade na fixação dos valores, atendidas as condições do ofensor, ofendido e do bem jurídico lesado.
+ Cabe, pois, ao Julgador dosar a indenização de maneira que, suportada pelo patrimônio do devedor, consiga no propósito educativo da pena, inibi-lo de novos atos lesivos, por sentir a gravidade e o peso da condenação. De outro lado, pelo grau de participação no círculo social e pela extensão do dano suportado, a vítima deve se sentir razoável e proporcionalmente ressarcida.
+ Nesse diapasão, entendo que o pagamento de indenização no importe de R$ 15.000,00 (quinze mil reais) se mostra razoável, pois, muito embora o Direito não estabeleça um critério único e objetivo para fixação dos danos morais, tal quantia guarda estrita correspondência com a gravidade objetiva do fato e seu efeito lesivo, importando um impacto ao causador da publicação para dissuadi-lo de persistir no ato ilícito.
+ O meio em que a ofensa foi perpetrada, em programa televisivo de massivo alcance nacional, sendo por ele responsável a maior emissora de televisão do país, tais fatos agravam a situação dos autos, de sorte que perfeitamente cabível e razoável o montante acima delimitado." (grifou-se)
+Sobre o tema, tem-se que a iterativa jurisprudência desta eg. Corte Superior é no sentido de que a revisão do montante da indenização por danos morais esbarra no óbice da Súmula n. 7/STJ, o qual somente é relativizado se o quantum revelar-se exorbitante ou irrisório. Nessa linha de intelecção, confiram-se os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso.
+Incidência da Súmula 7 do STJ.
+2. Agravo interno desprovido."
+(AgInt no AREsp 1325793/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/11/2018, DJe 20/11/2018 - grifou-se)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ATROPELAMENTO POR CAMINHÃO A SERVIÇO DE EMPRESA PRESTADORA DE SERVIÇO PÚBLICO. RESPONSABILIDADE OBJETIVA. CULPA EXCLUSIVA DA VÍTIMA NÃO DEMONSTRADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. AMPUTAÇÃO DO MEMBRO INFERIOR ESQUERDO. DANOS ESTÉTICOS. MAJORAÇÃO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+ ..
+5. É pacífico o entendimento desta Corte de que o valor fixado a título de indenização por danos estéticos e danos morais estabelecido pelas instâncias ordinárias pode ser revisto nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade.
+ ..
+7. Agravo interno não provido."
+(AgInt no REsp 1406744/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 13/03/2018, DJe 16/03/2018 - grifou-se)
+No caso dos autos, o valor arbitrado em R$15.000,00 (quinze mil reais) a título de danos morais não se mostra irrisório, devendo ser confirmada a incidência do óbice da Súmula n. 7/STJ.
+No tocante à alegada ofensa ao art. 85, § 2º, o recorrente defende que os honorários advocatícios arbitrados em 10% sobre o valor da condenação se mostram irrisórios. Consoante a remansosa jurisprudência do STJ, a revisão do valor fixado em honorários advocatícios exige novo exame dos fatos e provas dos autos, o que é vedado pela Súmula 7/STJ. Esse obstáculo apenas pode ser afastado quando a fixação for excessiva ou irrisória, caracterizando ofensa aos princípios da razoabilidade e da proporcionalidade.
+No contexto dos autos, verifica-se que os honorários foram fixados em 10% do valor da condenação, R$15.000,00 (quinze mil reais), o que não se mostra irrisório, incidindo, portanto, o óbice da Súmula 7/STJ.
+Nesse sentido, confiram-se os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. FUNDAMENTO INATACADO. SÚMULA 283/STF. SUMULA 7 DO STJ. ART. 6º DO CPC DE 1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+6. O STJ possui firme o entendimento no sentido de que, quando o acórdão proferido é de cunho condenatório, devem os honorários advocatícios ser fixados entre o mínimo de 10% e o máximo de 20% sobre o valor da condenação, nos termos do art. 20, § 3º, do CPC de 1973, e em sede de recurso especial, não é possível rever os critérios adotados pelo julgador na fixação dos honorários advocatícios, por importar o reexame de matéria fático-probatória. A incidência da Súmula 7/STJ somente pode ser afastada quando o valor fixado for exorbitante ou irrisório, o que não ocorre no caso dos autos. Incidência da Súmula 83 do STJ.
+ ..
+8. Agravo interno não provido."
+(AgInt no AgInt nos EDcl no AREsp 1112079/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/08/2018, DJe 24/08/2018 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS EMBARGANTES.
+(..)
+5. De acordo com a pacífica jurisprudência desta Corte Superior, somente se permite modificar valores fixados a título de honorários advocatícios se esses se mostrarem irrisórios ou exorbitantes, exigindo-se, ainda, que as instâncias ordinárias não tenham emitido concreto juízo de valor sobre os critérios estabelecidos nos §§ 3º e 4º do artigo 20 do CPC/73 (grau de zelo profissional, lugar de prestação do serviço, natureza e importância da causa, trabalho realizado pelo advogado e tempo exigido para o desempenho do seu serviço). Incidência da Súmula 7/STJ.
+6. Agravo interno desprovido."
+(AgInt no AREsp 374.143/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/08/2018, DJe 17/08/2018 - grifou-se)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
