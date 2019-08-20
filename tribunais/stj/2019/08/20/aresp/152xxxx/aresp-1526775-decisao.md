@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo apresentado por MUNICÍPIO DO RIO DE JANEIRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO.
+MANDADO DE SEGURANÇA. PROFESSOR DE EDUCAÇÃO INFANTIL. IMPETRANTE ELIMINADA DO CERTAME POR NÃO TER COMPARECIDO EM ETAPA PARA CURSO DE FORMAÇÃO. CONVOCAÇÃO EFETUADA EXCLUSIVAMENTE POR MEIO DE PUBLICAÇÃO NO DIÁRIO OFICIAL. OFENSA AO PRINCÍPIO DA RAZOABILIDADE.
+PRELIMINAR DE ILEGITIMIDADE PASSIVA DO PREFEITO DO MUNICÍPIO DO RIO DE JANEIRO. REJEIÇÃO DA PRELIMINAR SUSCITADA.
+1. Embargos declaratórios acolhidos para suprir a omissão, enfrentando-se a preliminar suscitada em relação à ilegitimidade passiva do Prefeito do Rio de Janeiro, arguida pelas partes.
+2. Rejeição da preliminar de ilegitimidade passiva suscitada, uma vez que é atribuição da autoridade apontada como coatora, o Sr.
+Prefeito do Município do Rio de Janeiro, o provimento no cargo objeto do certame.
+PROVIMENTO DOS EMBARGOS DECLARATÓRIOS, PARA SUPRIR A OMISSÃO APONTADA E REJEIÇÃO DA PRELIMINAR SUSCITADA, SEM ALTERAÇÃO DO JULGADO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 485, VI, do CPC.
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação do Lei n. 12016/09.
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, não é cabível o recurso especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação de dispositivos de lei federal. Aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário" (AgRg no AREsp 575.206/PE, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 15/12/2015).
+Nesse sentido: " ..  o Tribunal de origem, ao rejeitar os segundos Embargos de Declaração, opostos pelo agravante, afastou tal nulidade, também com base na Lei estadual 2.752/05 e no Decreto municipal 4.512/05. Nesse contexto, rever o entendimento adotado na origem demandaria a análise de legislação local, o que é vedado em Recurso Especial, nos termos da Súmula 280/STF" (AgInt no AREsp 1.220.503/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 6/3/2019).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1678327/MG, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 1º/3/2019; AgInt no AREsp 1182429/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/5/2018; AgInt no AREsp 1127582/SE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 5/12/2017; e AgInt no AREsp 816.883/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/10/2016.
+Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF uma vez que há indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido violados, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Nos termos da jurisprudência desta Corte, a alegação genérica de violação da lei federal, sem indicar, de forma precisa, o artigo, parágrafo ou alínea da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei, demonstra a deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional, conforme os termos da Súmula n. 284 do STF" (AgInt no REsp n. 1.475.626/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 4/12/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 546.951/MT, relator Ministro Felix Fischer, Quinta Turma, DJe de 22/9/2015; AgRg no AREsp n. 605.423/SC, relator Ministro Raul Araújo, Quarta Turma, DJe de 1/10/2015; e REsp n. 1.304.871/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 1/7/2015.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Publique-se. Intimem-se.
