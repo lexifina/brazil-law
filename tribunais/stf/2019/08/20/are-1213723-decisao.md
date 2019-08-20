@@ -1,0 +1,29 @@
+Trata-se de agravo contra decisão em que se negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO DE TÍTULO JUDICIAL. SERVIDOR PÚBLICO. URP DE MAIO E ABRIL DE 1988. INCORPORAÇÃO. ABSORÇÃO DO REAJUSTE E MODIFICAÇÃO DA ESTRUTURA REMUNERATÓRIA. INEXISTÊNCIA DE DIFERENÇAS A SEREM PAGAS. APELAÇÃO NÃO PROVIDA.
+    1. Insurgência contra sentença que acolheu embargos à execução de título judicial que determinou o pagamento de 7/30 do índice de 16,19% relativo às URP's de abril e maio/1988.
+    2. O magistrado sentenciante considerou que não haveria mais diferenças a serem recebidas pelo exequente diante das recomposições ocorridas em agosto e novembro de 1988.
+    3. A jurisprudência desta Corte possui entendimento pacificado no sentido de que a execução individual de sentença pode ser distribuída a juízo diverso daquele em que tramitou a ação coletiva. Preliminar de incompetência absoluta rejeitada. Precedente desta Corte Regional: CC2886/PE, Relator: Desembargador Federal José Maria Lucena, Pleno, J. 25/02/2015.
+    4. A Turma Nacional de Uniformização possui entendimento no sentido de que os valores eventualmente devidos a título de URP dos meses de abril e maio de 1988 já foram absorvidos e incorporados aos vencimentos dos servidores pela reestruturação e reajuste ocorridos na remuneração dos servidores, não havendo, assim, quaisquer diferenças a serem recebidas.
+    5. A sentença recorrida não afrontou a coisa julgada mas apenas reconheceu que, no caso concreto, não há valores a receber, pois todas as diferenças já foram recompostas.
+    6. A questão ora debatida é apenas de direito, sendo desnecessária a remessa dos autos à Contadoria ante a prescindibilidade de prova técnica.
+    7. Apelação não provida” (págs. 265-266 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 5°, XXXVI, da mesma Carta, sob o argumento de que o Tribunal de origem afastou direito a reajuste assegurado em sentença transitada em julgado.
+    A pretensão recursal não merece acolhida.
+    Isso porque esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada aos limites da coisa julgada, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG/MT (Tema 660), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguintes fundamentos:
+    “Ementa: Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Outrossim, o Tribunal de origem rejeitou a alegação de afronta à coisa julgada sob o seguinte fundamento:
+    “[...]
+    Observa-se, assim, que os valores eventualmente devidos a título de URP dos meses de abril e maio de 1988 já foram absorvidos e incorporados aos vencimentos dos servidores, pela reestruturação e reajuste ocorridos na remuneração destes, não havendo, assim, quaisquer diferenças a serem recebidas.
+    Cumpre frisar que a sentença recorrida não afrontou a coisa julgada mas apenas reconheceu que, no caso concreto, não há valores a receber, pois todas as diferenças já foram recompostas” (pág. 264 do documento eletrônico 1).
+    Nesse contexto, para dissentir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 desta Corte. Nesse sentido, destaco precedentes de ambas as Turmas desta Corte:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. MANDADO DE SEGURANÇA. EXCESSO DE EXECUÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. LIMITES DA COISA JULGADA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO STF NO ARE 748.371. TEMA 660. AGRAVO REGIMENTAL DESPROVIDO” (ARE 918.665-AgR/DF, Rel. Min. Luiz Fux, Primeira Turma).
+    “Ementa: Agravo regimental no recurso extraordinário. Alegada ofensa aos limites da coisa julgada. Infraconstitucional. Ofensa reflexa. Necessidade de reexame dos fatos e das provas dos autos. Súmula nº 279/STF.
+    1. A jurisprudência do STF está consolidada no sentido de que a afronta aos limites da coisa julgada, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República, o que não enseja reexame da questão em recurso extraordinário.
+    2. Para acolher a pretensão recursal e ultrapassar o entendimento do Tribunal de origem acerca da identidade do presente feito com ação transitada em julgado, da existência da coisa julgada e de seus limites objetivos, seria necessário reexaminar o conjunto fático-probatório da causa, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 do STF.
+    3. Agravo regimental não provido” (RE 776.886-AgR/MA, Rel. Min. Dias Toffoli, Segunda Turma).
+    Com o mesmo entendimento, cito as seguintes decisões, entre outras: ARE 1.183.936/PE, Rel. Min. Celso de Mello; ARE 1.183.935/RN, de minha relatoria; ARE 1.185.520/RN, Rel. Min. Roberto Barroso; ARE 1.184.755/RN, Rel. Min. Cármen Lúcia; ARE 1.183.934/RN, Rel. Min. Alexandre de Moraes, e ARE 1.180.760/RN, Rel. Min. Gilmar Mendes.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 20 de agosto de 2019.
+Ministro Ricardo Lewandowski
+Relator
