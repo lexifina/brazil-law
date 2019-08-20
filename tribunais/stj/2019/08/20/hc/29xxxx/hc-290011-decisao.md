@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado de próprio punho por [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 9000003-40.2009.8.26.0047).
+Consta dos autos ter sido o paciente condenado à pena de 9 anos e 4 meses de reclusão, a ser cumprida inicialmente no regime fechado, e ao pagamento de 594 dias-multa, pela prática dos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/2006, ante a apreensão de mais de 2kg (dois quilos) de cocaína.
+Irresignada, a defesa ingressou com recurso, tendo o Tribunal de origem negado provimento ao apelo nos termos da seguinte ementa (e-STJ fl. 63):
+APELAÇÃO. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO. AUTORIA E MATERIALIDADE COMPROVADAS. PENAS E REGIME PRISIONAL MANTIDOS. IMPROVIMENTO DOS APELOS.
+No presente writ, sustenta o paciente/impetrante ilegalidade na fixação de sua reprimenda, motivo pelo qual pleiteia seja ela reduzida.
+Prestadas as informações, a Defensoria Pública do Estado de São Paulo manifestou-se às e-STJ fls. 83/84.
+É, em síntese, o relatório.
+Pois bem. Inexiste reparo a ser efetuado na pena do paciente.
+É que, do acórdão juntado às e-STJ fls. 62/68, depreende-se que as penas-base, tanto do delito de tráfico quanto do crime de associação para o tráfico, foram estabelecidas no mínimo legal de 5 anos de reclusão e 500 dias-multa e 3 anos de reclusão e 10 dias-multa, respectivamente, sendo que referidas sanções apenas foram exasperadas, na fração de 1/6, na segunda fase da dosimetria, em razão da reincidência do paciente, o que fez com que elas fossem elevadas para 5 anos e 10 meses de reclusão e 583 dias-multa (tráfico) e 3 anos e 6 meses de reclusão e 11 dias-multa (associação para o tráfico), as quais, somadas, totalizam, de fato, 9 anos e 4 meses de reclusão e 594 dias-multa.
+Portanto, considerando que penas-base foram fixadas no patamar mínimo e tratando-se de paciente reincidente, correta a dosimetria da pena efetuada pelas instâncias ordinárias.
+Importante ressaltar, ainda, a impossibilidade de aplicação do redutor contido no art. 33, § 4º, da Lei n. 11.343/2006 em virtude de o paciente ter sido condenado, também, como visto, pelo delito do art. 35 da Lei n. 11.343/2006, o que impede o reconhecimento do tráfico privilegiado, nos termos da jurisprudência desta Corte.
+A propósito:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL. TRÁFICO. ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. INCIDÊNCIA DO ART. 40, INCISOS V E VII, DO CP E DA AGRAVANTE DO ART. 62, INCISO I, DO CP NO CRIME DO ART. 35 DA LEI Nº 11.343/06. POSSIBILIDADE. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º DA LEI N. 11.343/2006. INCOMPATIBILIDADE COM A ASSOCIAÇÃO PARA O TRÁFICO. CONCURSO MATERIAL ENTRE OS DELITOS DE TRÁFICO PRATICADOS. AFASTAMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. A jurisprudência desta Corte Superior de Justiça é no sentido de que a configuração do crime de associação para o tráfico (art. 35 da Lei 11.343/06) é suficiente para afastar a aplicação da causa especial de diminuição de pena contida no § 4º do art. 33, na medida em que evidencia a dedicação do agente à atividade criminosa (AgRg no AREsp n. 1035945/RJ, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 15/3/2018, DJe 27/3/2018). Assim, mantido o decreto condenatório pela prática do crime tipificado no art. 35 da Lei n. 11.343/2006, não há possibilidade de aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei de Drogas.
+ ..
+6. Agravo regimental não provido.
+(AgRg no AREsp 1293358/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/04/2019, DJe 10/05/2019, grifei)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. CONDENAÇÃO. PEDIDO DE ABSOLVIÇÃO QUANTO AO DELITO DE ASSOCIAÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. COGNIÇÃO. IMPOSSIBILIDADE. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4º DO ART. 33 DA LEI N.º 11.343/06. CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. DOSIMETRIA. REGIME PRISIONAL. PREJUDICIALIDADE. PARCIAL COGNIÇÃO E, NESTA EXTENSÃO, DENEGAÇÃO DA ORDEM. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O habeas corpus não é a via adequada para apreciar o pedido de absolvição, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do remédio heroico" (HC 441.434/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/04/2018, DJe 07/05/2018).
+2. "A teor do entendimento desta Corte, a condenação pelo delito de associação para o tráfico ilícito de drogas evidencia a dedicação do acusado à atividade criminosa, inviabilizando, portanto, a aplicação da causa de diminuição de pena inserta no § 4.º do art. 33 da Lei n.º 11.343/2006" (HC 455.620/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 09/10/2018, DJe 07/11/2018).
+3. Ficam, portanto, prejudicados os pedidos subsequentes de alteração da dosimetria da pena e do regime prisional, bem como o de expedição de alvará de soltura, em razão da manutenção da sentença e do acórdão condenatórios e, ainda, em face do noticiado trânsito em julgado da condenação.
+4. Agravo regimental desprovido.
+(AgRg no HC 453.019/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 27/11/2018, DJe 12/12/2018, grifei)
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
