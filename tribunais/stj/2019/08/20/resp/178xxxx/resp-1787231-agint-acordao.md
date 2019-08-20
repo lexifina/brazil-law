@@ -1,0 +1,67 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. PLANTA COMUNITÁRIA DE TELEFONIA. DATA DA INTEGRALIZAÇÃO. INCORPORAÇÃO DA PLANTA TELEFÔNICA. ENTREGA DAS AÇÕES. ATRASO. SÚMULA 7 DO STJ.
+1. É assente nesta Corte Superior o entendimento de que, nos contratos firmados na modalidade de Planta Comunitária (PCT), a integralização do capital não se dá em dinheiro, no momento do pagamento do preço, mas se dá apenas com a incorporação da planta telefônica ao patrimônio da concessionária, após construída e avaliada, momento que deve ser considerado para a finalidade de emissão das ações.
+2. O acolhimento da pretensão da parte agravante demandaria o revolvimento do conjunto fático-probatório dos autos, o que é inviável nesta via especial ante o óbice da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto por [NOME] contra decisão desta relatoria de fls. 545-550, integrada pela proferida em sede de embargos de declaração (fls. 562-566), que deu provimento ao recurso especial da parte ora agravada, nos termos da seguinte ementa:
+RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. PLANTA COMUNITÁRIA DE TELEFONIA. DATA DA INTEGRALIZAÇÃO. INCORPORAÇÃO DA PLANTA TELEFÔNICA. CRITÉRIO DO BALANCETE MENSAL. INAPLICABILIDADE.
+1. Nos contratos firmados na modalidade de Planta Comunitária (PCT), a integralização do capital não se dá em dinheiro, no momento do pagamento do preço, mas se dá apenas com a incorporação da planta telefônica ao patrimônio da concessionária, após construída e avaliada, momento que deve ser considerado para a finalidade de emissão das ações, sendo inaplicável a Súmula 371 do STJ. Precedentes.
+2. Recurso especial provido.
+Nas razões recursais (fls. 569-578), a parte agravante alega que "mesmo se considerando a forma de emissão de ação na modalidade de contrato PCT distinta daquela prevista na Súmula 371/STJ, ainda assim, havia diferença de ações a ser entregue aos assinantes, uma vez que a entrega das ações dava-se de forma tardia, fato este reconhecido pela empresa de telefonia em outros processos".
+Impugnação ao presente agravo interno às fls. 581-600.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. PLANTA COMUNITÁRIA DE TELEFONIA. DATA DA INTEGRALIZAÇÃO. INCORPORAÇÃO DA PLANTA TELEFÔNICA. ENTREGA DAS AÇÕES. ATRASO. SÚMULA 7 DO STJ.
+1. É assente nesta Corte Superior o entendimento de que, nos contratos firmados na modalidade de Planta Comunitária (PCT), a integralização do capital não se dá em dinheiro, no momento do pagamento do preço, mas se dá apenas com a incorporação da planta telefônica ao patrimônio da concessionária, após construída e avaliada, momento que deve ser considerado para a finalidade de emissão das ações.
+2. O acolhimento da pretensão da parte agravante demandaria o revolvimento do conjunto fático-probatório dos autos, o que é inviável nesta via especial ante o óbice da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Conforme afirmado na decisão agravada, em dissonância com a jurisprudência do STJ, a Corte local julgou procedente a demanda em relação aos autores [NOME], [NOME], [NOME] e [NOME], com contratos firmados na modalidade PCT, tendo em vista a data da integralização nos termos da Súmula 371 do STJ (fls. 414-419).
+Ressalta-se que esta Corte Superior firmou entendimento de que, nos contratos firmados na modalidade de Planta Comunitária (PCT), a integralização do capital se dá apenas com a incorporação da planta telefônica ao patrimônio da concessionária, após construída e avaliada, momento que deve ser considerado para a finalidade de emissão das ações, de forma que o cálculo do número de ações a serem subscritas deve levar em consideração o valor da avaliação do bem incorporado e não o montante pago à construtora pelo adquirente da linha telefônica, sendo inviável a aplicação da Súmula 371/STJ.
+A propósito, ".. nos contratos firmados no sistema de Planta Comunitária de Telefonia (PCT), somente com a incorporação da rede telefônica ao patrimônio da companhia, ora recorrente, é que surge o dever de ressarcir o consumidor por meio de subscrição de ações.." (in Resp nº 1.610.514-SP, Rel. Min. Raul Araújo, in DJe 04.12.2018).
+Nesse sentido, seguem precedentes da Terceira e Quarta Turma do STJ:
+_____________
+RECURSO ESPECIAL. DIREITO CIVIL E EMPRESARIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA EM EMPRESA DE TELEFONIA. COMPLEMENTAÇÃO DE AÇÕES. PLANTA COMUNITÁRIA DE TELEFONIA - PCT. CRITÉRIO DO BALANCETE MENSAL. SÚMULA 371/STJ. INAPLICABILIDADE.
+1. Controvérsia acerca da aplicação do critério do balancete mensal a um contrato de planta comunitária de telefonia - PCT com previsão de retribuição de ações condicionada à integralização do capital mediante dação da planta comunitária à companhia telefônica, nos termos da Portaria 117/1991 do Ministério das Comunicações.
+2. Nos termos da Súmula 371/STJ: "nos contratos de participação financeira para a aquisição de linha telefônica, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização".
+3. Na linha da jurisprudência desta Corte Superior, a data da integralização, mencionada na Súmula 371/STJ, é a data do pagamento do preço estabelecido no contrato, ou a do pagamento da primeira parcela, no caso de parcelamento.
+4. Particularidade dos contratos da modalidade PCT, em que a integralização do capital não se dá em dinheiro, no momento do pagamento do preço, mas mediante a entrega de bens, em momento posterior ao pagamento do preço, com a incorporação da planta comunitária ao acervo patrimonial da companhia telefônica.
+5. Necessidade de prévia avaliação e de aprovação da assembleia geral da companhia, para a integralização do capital em bens ("ex vi" do art. 8º da Lei 6.404/1976).
+6. Inviabilidade de aplicação da Súmula 371/STJ aos contratos de participação financeira celebrados na modalidade PCT.
+7. Precedente específico da QUARTA TURMA desta Corte Superior no mesmo sentido.
+8. RECURSO ESPECIAL PROVIDO.
+(REsp 1742233/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 02/10/2018, DJe 08/10/2018)
+_____________
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COBRANÇA. PROGRAMA COMUNITÁRIO DE TELEFONIA (PCT). CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AQUISIÇÃO DE LINHA TELEFÔNICA. APORTE FINANCEIRO DE PROMITENTES ASSINANTES. SUBSCRIÇÃO ACIONÁRIA. INCORPORAÇÃO DA PLANTA TELEFÔNICA AO PATRIMÔNIO DA CONCESSIONÁRIA. CRITÉRIO DE RETRIBUIÇÃO EM AÇÕES.
+1. No Programa Comunitário de Telefonia (PCT), os adquirentes de linhas telefônicas celebraram contratos com as construtoras, pagando o preço com elas combinado. Não houve pagamentos por eles feitos à concessionária do serviço público de telefonia. Esta comprometeu-se a interligar as plantas telefônicas ao seu sistema, prestar o serviço telefônico e incorporar as plantas ao seu patrimônio (aumento de capital), retribuindo aos titulares das linhas telefônicas, mediante subscrição de ações, o valor de avaliação do bem incorporado. A subscrição tinha por base o valor de avaliação do bem indivisível incorporado (planta), dividido pelo número de adquirentes de linhas telefônicas.
+2. A incorporação da planta telefônica não se deu quando dos aportes financeiros à construtora realizados pelos aquirentes das linhas, do que decorre a impropriedade de se pretender utilizar os valores de tais aportes, e as datas em que realizados, como balizas para o cálculo do quantitativo de ações. Na época dos aportes, as plantas não existiam, a significar que, ausente patrimônio a incorporar, não houvera ainda integralização, da qual dependia a avaliação e a contraprestação em ações.
+3. O aumento de capital deu-se com a incorporação da planta telefônica ao patrimônio da ré. Nos termos do artigo 8º, §§ 2º e 3º, da Lei 6.404/1976, o cálculo do número de ações a serem subscritas em favor de cada titular de linha telefônica deve levar em conta o valor de avaliação do bem incorporado.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1166343/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/06/2018, DJe 14/06/2018)
+_____________
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PROGRAMA COMUNITÁRIO INTEGRADO DE TELEFONIA (PROCITE). CONTRATO DE PARTICIPAÇÃO FINANCEIRA. APORTE FINANCEIRO DE PROMITENTES ASSINANTES. CESSIONÁRIO. SUBSCRIÇÃO DE AÇÕES. INCORPORAÇÃO DA PLANTA TELEFÔNICA AO PATRIMÔNIO DA CONCESSIONÁRIA. CRITÉRIO DE RETRIBUIÇÃO EM AÇÕES.
+1. O Tribunal de origem se manifestou acerca de todas as questões relevantes para a solução da controvérsia, não se configurando violação do artigo 535 do Código de Processo Civil.
+2. Ultrapassar a conclusão alcançada pelo acórdão recorrido quanto à legitimidade ativa e passiva demandaria o reexame do contrato, dos fatos e das provas presentes no processo. Incidência das Súmulas 5 e 7/STJ. Precedentes.
+3. O cessionário de contrato de participação financeira tem legitimidade para postular em juízo a complementação de ações somente na hipótese em que o instrumento de cessão lhe conferir, expressa ou implicitamente, o direito à subscrição de ações, conforme apurado nas instâncias ordinárias. Súmula 83/STJ.
+4. Na impossibilidade de se efetuar a subscrição e entrega das ações a que teria direito o acionista, possível a sua conversão em perdas e danos, sem que isso implique julgamento extra petita. Precedentes.
+5. Não sendo o pedido de decretação de nulidade de assembléias da sociedade anônima ré um fim em si mesmo, mas apenas deduzido como fundamento para a pretensão de recebimento de complementação de ações decorrente de contrato de participação financeira, é inaplicável o prazo de decadência previsto no art. 286 da Lei 6.404/76. Prescrição que se dá nos prazos previstos no artigo 177 do Código Civil de 1916 e nos artigos 205 e 2.028 do Código Civil de 2002. Vencida, no ponto, a Relatora.
+6. No Programa Comunitário Integrado de Telefonia (PROCITE), os adquirentes de linhas telefônicas celebraram contratos com as construtoras, pagando o preço com elas combinado. Não houve pagamentos por eles feitos à concessionária. Esta comprometeu-se, em pactos celebrados com os municípios, a interligar as plantas telefônicas ao seu sistema; prestar o serviço telefônico e incorporar as plantas ao seu patrimônio (aumento de capital), retribuindo aos titulares das linhas telefônicas, mediante subscrição de ações, o valor de avaliação do bem incorporado. A subscrição tinha por base o valor de avaliação do bem indivisível incorporado (planta), dividido pelo número de adquirentes de linhas telefônicas.
+7. A incorporação da planta telefônica não se deu quando dos aportes financeiros à construtora realizados pelos aquirentes das linhas, do que decorre a impropriedade de se pretender utilizar os valores de tais aportes, e as datas em que realizados, como balizas para o cálculo do quantitativo de ações. Na época dos aportes, as plantas não existiam, a significar que, ausente patrimônio a incorporar, não houvera ainda integralização, da qual dependia a avaliação e a contraprestação em ações.
+8. O aumento de capital deu-se com a incorporação da planta telefônica ao patrimônio da ré. Nos termos do contrato e dos arts. 8º, §§ 2º e 3º, da Lei 6.404/76, o cálculo do número de ações a serem subscritas em favor de cada titular de linha telefônica deve levar em conta o valor de avaliação daquele bem.
+9. Agravo regimental provido para dar provimento ao recurso especial a fim de julgar improcedente o pedido formulado na inicial.
+(AgRg no AREsp 29.665/MG, Rel. Ministro MARCO BUZZI, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/08/2015, DJe 08/10/2015)
+_____________
+Observa-se ainda que o acolhimento da pretensão da parte agravante quanto ao alegado atraso na entrega das ações demandaria o revolvimento do conjunto fático-probatório dos autos, o que é inviável nesta via especial, ante o óbice da Súmula 7 do STJ. No mesmo sentido:
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. TELESP. RETRIBUIÇÃO DE AÇÕES. PLANTA COMUNITÁRIA. DATA DA INTEGRALIZAÇÃO. INCORPORAÇÃO DA REDE AO ACERVO DA EMPRESA. SÚMULA 371/STJ. NÃO APLICAÇÃO. ENTREGA DAS AÇÕES. ATRASO. VERIFICAÇÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Esta Corte tem jurisprudência firmada no sentido de que, nos contratos firmados sob a modalidade de PCT, a data de integralização corresponde à data de incorporação da rede ao acervo patrimonial da companhia telefônica, depois de construída e avaliada.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 911.032/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/06/2019, DJe 07/06/2019)(g.n.)
+Dessa forma, não merece prosperar a irresignação, razão pela qual deve se mantida a decisão ora agravada.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
