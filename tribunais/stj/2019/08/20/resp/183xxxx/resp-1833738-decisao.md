@@ -1,0 +1,11 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Fundação de Proteção e Defesa do Consumidor - Procon contra decisão que inadmitiu o recurso especial ante a razoabilidade da decisão tomada em segunda instância.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado, com base na alínea "a" do permissivo constitucional, em oposição a acórdão assim ementado:
+RECURSO DE APELAÇÃO EM AÇÃO DE PROCEDIMENTO COMUM. ADMINISTRATIVO. PROCON. AUTO DE INFRAÇÃO E MULTA. CANCELAMENTO DE RESULTADO DE PARTIDAS DURANTE O CAMPEONATO BRASILEIRO DE FUTEBOL DE 2005. VÍCIO NA PRESTAÇÃO DE SERVIÇOS NÃO CARACTERIZADO.
+Auto de Infração e Multa n. 0551 série D5 lavrado pelo PROCON diante da não devolução dos valores dos ingressos após o cancelamento do resultado da partida, pela constatação de irregularidade na arbitragem que teria intencionalmente buscado influenciar o resultado da partida. Hipótese em que a anulação posterior do resultado da partida e repetição dos jogos não se caracteriza como vício na prestação de serviços. Evento esportivo devidamente realizado nas condições previamente estabelecidas, horário, local e área reservada no estádio que foram observados. Efetiva validade do resultado e repetição de jogo que não se caracterizam como vício na prestação de serviços a determinar à Confederação Brasileira de Futebol - CBF equiparada a fornecedor, nos termos do art. 3º do Estatuto de Defesa do Torcedor, a devolução dos valores dos ingressos.
+Procedimento adotado pela CBF que visou assegurar a imparcialidade da arbitragem e idoneidade da competição de caráter nacional. Insubsistente a lavratura do auto de infração e imposição de multa diante da não caracterização de violação ao disposto no art. 20 do Código de Defesa do Consumidor e art. 30 do Estatuto de Defesa do Torcedor. Sentença de improcedência mantida. Recurso desprovido.
+A agravante alega, no recurso especial, violação dos arts. 20, § 2º, do Código de Defesa do Consumidor e 3º e 30 do Estatuto do Torcedor.
+Com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial, para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do apelo nobre, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
