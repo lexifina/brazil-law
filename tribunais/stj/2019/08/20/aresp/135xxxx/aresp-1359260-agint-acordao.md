@@ -1,0 +1,82 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DOIS RECURSOS INTERPOSTOS CONTRA A MESMA DECISÃO. PRECLUSÃO. UNIRRECORRIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA.
+1. Revela-se defeso a interposição simultânea de dois recursos pela mesma parte contra o mesmo ato judicial, ante o princípio da unirrecorribilidade recursal.
+2. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+3. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+4. Esta Corte, ao interpretar o previsto no art. 932, parágrafo único, do CPC/2015 (o qual traz disposição similar ao § 3º do art. 1.029 do do mesmo Código de Ritos), firmou o entendimento de que este dispositivo só se aplica para os casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação de recurso já interposto.
+5. Conforme entendimento exarado por este Sodalício, "(..) O recurso interposto pelo vencedor para ampliar a condenação - que não seja conhecido, rejeitado ou desprovido - não implica honorários de sucumbência recursal para a parte contrária."- EDcl no AgInt no AREsp 1040024/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/08/2017, DJe 31/08/2017.
+6. Agravo interno de fls. 390-399 não conhecido. Agravo interno de fls. 380-389 parcialmente provido, apenas para afastar a condenação em honorários sucumbenciais recursais à parte ora agravante.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, por unanimidade, não conhecer do agravo interno de fls. 390-399 e dar parcial provimento ao agravo interno de fls. 380-389 apenas para afastar a condenação em honorários sucumbenciais recursais à parte ora agravante, nos termos do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto por [NOME] DA MATA [NOME] contra decisão da Presidência desta Corte, proferida às fls. 368-369, que não conheceu do agravo em virtude da ausência de impugnação específica aos fundamentos da decisão do Tribunal de origem, que não admitiu o recurso especial.
+A parte ora agravada opôs embargos de declaração, os quais, por meio da decisão de fls. 412-414, foram acolhidos "(..) para determinar a retificação da autuação destes autos, a fim de que conste como agravante apenas o advogado [NOME], atuando em causa própria, devendo [NOME] ser autuada como interessada, e esclarecer que a majoração dos honorários recursais se deu exclusivamente em face de [NOME]."
+Nas razões do presente agravo interno, a parte ora agravante sustenta que atacou todos os pontos da decisão de inadmissibilidade do recurso especial.
+Ademais, insurge-se contra a majoração dos honorários advocatícios, segundo a fundamentação abaixo:
+(..)
+No presente caso, houve recurso apenas de uma das partes envolvidas no processo. Ou seja, apenas recurso dos advogados, para majorar os honorários arbitrados em valor ínfimo na primeira e segunda instâncias. Não houve recurso da parte contrária para diminuir os honorários arbitrados em segunda instância.
+(..)
+Assim, não pode o recorrente recorrer sozinho para aumentar a verba honorária arbitrada nas instâncias inferiores e sair devendo honorários de sucumbência para a parte adversa, como ocorreu in casu. Não existe pretensão recursal para a requerida, que, por sua vez, não pode ser recompensada, por ausência completa de previsão legal nesse sentido.
+(..)
+Pede a reforma da decisão.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DOIS RECURSOS INTERPOSTOS CONTRA A MESMA DECISÃO. PRECLUSÃO. UNIRRECORRIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA.
+1. Revela-se defeso a interposição simultânea de dois recursos pela mesma parte contra o mesmo ato judicial, ante o princípio da unirrecorribilidade recursal.
+2. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+3. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+4. Esta Corte, ao interpretar o previsto no art. 932, parágrafo único, do CPC/2015 (o qual traz disposição similar ao § 3º do art. 1.029 do do mesmo Código de Ritos), firmou o entendimento de que este dispositivo só se aplica para os casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação de recurso já interposto.
+5. Conforme entendimento exarado por este Sodalício, "(..) O recurso interposto pelo vencedor para ampliar a condenação - que não seja conhecido, rejeitado ou desprovido - não implica honorários de sucumbência recursal para a parte contrária."- EDcl no AgInt no AREsp 1040024/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/08/2017, DJe 31/08/2017.
+6. Agravo interno de fls. 390-399 não conhecido. Agravo interno de fls. 380-389 parcialmente provido, apenas para afastar a condenação em honorários sucumbenciais recursais à parte ora agravante.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Inicialmente, não conheço do segundo agravo interno (fls. 390-399) em respeito ao princípio da unirrecorribilidade recursal, uma vez que, no presente caso, a parte agravante interpôs dois recursos contra uma mesma decisão judicial.
+Com efeito, no sistema recursal brasileiro vigora o cânone da unicidade ou unirrecorribilidade recursal. Dessa forma, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último.
+Nesse sentido:
+PROCESSUAL CIVIL. DOIS EMBARGOS DE DECLARAÇÃO AVIADOS CONTRA A MESMA DECISÃO. INTERPOSIÇÃO SIMULTÂNEA. PRECLUSÃO. UNIRRECORRIBILIDADE. PRELIMINAR DE SOBRESTAMENTO DO FEITO. IMPOSSIBILIDADE.
+1. Em homenagem ao princípio da unirrecorribilidade recursal, é defesa a interposição simultânea de dois embargos de declaração contra o mesmo ato judicial.
+2. Suspende-se o processo, com base no art. 265, IV, "a", do CPC, nas situações de prejudicialidade externa. Medida não aplicada à hipótese pelo fato de que os recursos apontados já foram julgados.
+3. Embargos declaratórios acolhidos sem efeitos infringentes.
+(EDcl no AgRg nos EDcl nos EDcl no Ag 1156920/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 23/11/2010, DJe 02/12/2010)
+3. Passo à análise do primeiro agravo interno interposto, qual seja, o de fls. 380-389.
+4. Cumpre esclarecer que à luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+Isso porque, esta Corte já firmou entendimento no sentido de que a decisão de admissibilidade deve ser vista em sua totalidade, de forma que o não perfazimento da regularidade formal implica o não conhecimento do agravo em recurso especial. Nesse sentido, confira-se:
+De fato a matéria é interessante. Efetivamente, entendo que a decisão de admissibilidade do recurso tem que ser entendida como um todo. Ficaria difícil, em se tratando de recursos complexos, porque muitas vezes são capitulados em termos distintos, se entender que, em um ou outro caso, determinada matéria poderia não ser atacada e, ainda assim, sobreviver o recurso, porque o agravo de instrumento, em determinado ponto, seria suficiente para fazer subir o recurso especial naquela parte.
+Parece-me que a questão, muito embora - diga eu - seja interessante, tem que ser interpretada de forma sistemática.
+É que o recurso especial ataca vários pontos. Conseqüentemente, o despacho é de admissibilidade do recurso especial por inteiro. De modo que ficaria difícil considerarmos como suficiente o agravo de instrumento do despacho de inadmissibilidade do recurso especial, que é por inteiro, apenas no ponto em que é suficiente para impugnar um ou outro aspecto daquela decisão de inadmissibilidade. Vejo com muita dificuldade como poder-se-ia dissociar ou se fracionar o despacho de admissibilidade em vários pedaços, uma vez que ele é do próprio recurso especial por inteiro.
+(Voto do Ministro ALDIR PASSARINHO JUNIOR, AgRg no Ag 682.965/DF, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, julgado em 18/12/2008, DJe 23/03/2009)
+Ressalte-se que o conhecimento, ainda que parcial do agravo, obriga o Superior Tribunal de Justiça a conhecer de todos os fundamentos do especial, ante a aplicação, por analogia, do entendimento cristalizado na Súmula 528/STF: "Se a decisão contiver partes autônomas, a admissão parcial, pelo Presidente do Tribunal a quo, de recurso extraordinário que, sôbre qualquer delas se manifestar, não limitará a apreciação de todas pelo Supremo Tribunal Federal, independentemente de interposição de agravo de instrumento".
+Por conseguinte, a ausência de impugnação a algum dos fundamentos da decisão que negou trânsito ao recurso especial imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio do agravo previsto no art. 1.042 do CPC de 2015 (art. 544 do CPC de 1973), quanto ao óbice levantado pela decisão que não admitiu o recurso especial.
+Nessa ordem de ideias, observa-se que o disposto no art. 932, III, do CPC/2015, ao mesmo tempo que exige dos advogados um maior compromisso com a fundamentação dos recursos, traz como pressuposto objetivo de admissibilidade recursal o já referido princípio da dialeticidade.
+Ressalte-se que esse ônus do agravante foi mantido no inciso I do parágrafo único do art. 253 do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22 de 16 de março de 2016, de seguinte teor:
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente.
+Parágrafo único: Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá:
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;
+ ..
+Em arremate, consigne-se que esta Corte, ao interpretar o previsto no art. 932, parágrafo único, do CPC/2015 (o qual traz disposição similar ao § 3º do art. 1.029 do CPC/2015), firmou o entendimento de que este dispositivo só se aplica para os casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação de recurso já interposto.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRAZO DO ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. INAPLICABILIDADE.
+ ..
+3. O prazo referido no art. 932, parágrafo único, do CPC/2015 há de ser oferecido para o recorrente sanar vício de natureza estritamente formal, sendo diversa a hipótese dos autos, em que pretendia a agravante a concessão de lapso para complementar a fundamentação do seu recurso, que não impugnou especificamente todos os fundamentos da decisão que inadmitiu o apelo nobre.
+4. Agravo interno desprovido.
+(AgInt no AREsp 692.495/ES, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/06/2016, DJe 18/08/2016)
+5. No caso, a decisão ora agravada, de forma escorreita, negou seguimento ao agravo em recurso especial pela verificação de que a parte agravante deixou de rebater o fundamento erigido no despacho de inadmissibilidade do apelo nobre, qual seja: a incidência da Súmula 7 do STJ.
+De fato, a parte agravante, na oportunidade da interposição do agravo em recurso especial, nada mencionou a respeito do óbice alinhavado na decisão de admissibilidade do apelo nobre.
+Impositiva, pois, a manutenção do não conhecimento do agravo em recurso especial tendo em vista o disposto no art. 932, III, do CPC/2015 (art. 544, § 4º, inc. I, do CPC/1973) e no art. 253, parágrafo único, I, do RISTJ.
+6. Acerca da insurgência contra o aumento dos honorários sucumbenciais, no caso em tela o acórdão recorrido deu provimento ao recurso do ora agravante, majorando os honorários advocatícios devidos pela parte ora agravada para R$ 3.100,00 ( três mil e cem reais)- e.STJ fl. 280.
+Posteriormente, a parte agravante interpôs recurso especial "(..) para majorar o valor da condenação em honorários de sucumbência para 20% sobre o valor da causa (..)". Por seu turno, o apelo extremo foi inadmitido pelo TJ-MG.
+Conforme entendimento exarado por este Sodalício, "(..) O recurso interposto pelo vencedor para ampliar a condenação - que não seja conhecido, rejeitado ou desprovido - não implica honorários de sucumbência recursal para a parte contrária."- EDcl no AgInt no AREsp 1040024/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/08/2017, DJe 31/08/2017.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA.
+IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS.
+ARBITRAMENTO NA ORIGEM EM FAVOR DA AGRAVANTE. MAJORAÇÃO.
+DESCABIMENTO. 1. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. A jurisprudência do STJ firmou-se no sentido de que os honorários advocatícios constituem matéria de ordem pública, cognoscível de ofício. Precedentes: AgInt no REsp 1722311/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/06/2018, DJe 28/06/2018, e AgInt nos EDcl no REsp 1584753/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017.
+4. Conforme já decidido por esta Corte, "o recurso interposto pelo vencedor para ampliar a condenação - que não seja conhecido, rejeitado ou desprovido - não implica honorários de sucumbência recursal para a parte contrária" (EDcl no AgInt no AREsp 1040024/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/08/2017, DJe 31/08/2017).
+5. Agravo interno não conhecido, com a exclusão, de ofício, da condenação em honorários recursais.
+(AgInt no AREsp 1244491/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 28/03/2019, DJe 09/04/2019 - g.n.)
+Verifica-se que o agravante foi vencedor na instância originária (e-STJ fls. 249-250 e 270-281), devendo ser excluída, portanto, sua condenação em honorários sucumbenciais recursais.
+7. Ante o exposto, não conheço do agravo interno de fls. 390-399, e dou parcial provimento ao agravo interno de fls. 380-389, apenas para afastar a condenação em honorários sucumbenciais recursais em desfavor da parte ora agravante, fixada pela decisão de fls. 368-369 (e-STJ).
+É como voto.
