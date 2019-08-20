@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO RECONSIDERADA. IMPROBIDADE ADMINISTRATIVA. DECISÃO INTERLOCUTÓRIA ATACADA VIA AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE DECISÃO DE MÉRITO NOS AUTOS PRINCIPAIS. PERDA DE OBJETO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interno interposto contra decisão, assim ementada (fl.199):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. SÚMULA 568/STJ.
+O agravante alega que "se afigura essencial analisar a inexistência de questão prejudicial no caso em comento. Eventual decisão que venha a ser proferida na seara criminal só teria o condão de repercutir na ação civil pública em comento caso atestasse a inexistência da materialidade ou da autoria do crime após o trânsito em julgado, o que não impõe uma suspensão prévia da ação de improbidade" (fls. 211-212).
+Com impugnação.
+É o relatório. Passo a decidir.
+Assiste razão ao agravante, de modo que, em face dos argumentos expostos no agravo interno, reconsidero a decisão de fls. 199-201 e passo a nova análise do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/Rio Grande do Norte.
+Com efeito, cumpre noticiar que, em consulta à página oficial no sítio eletrônico do TJ/RN, averiguou-se que sobreveio sentença de mérito na ação civil pública n. 0101525-87.2014.8.20.0103, proferida em 15/2/2018, tendo sido julgado improcedente o pedido formulado pelo Ministério Público.
+Assim, conforme entendimento deste colendo Superior Tribunal de Justiça, o exame do recurso interposto contra acórdão proferido em Agravo de Instrumento, tirado de decisão liminar ou de antecipação de tutela, fica prejudicado, ante a perda de objeto, na hipótese de já ter sido prolatada sentença de mérito na origem.
+Confiram-se os seguintes julgados:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO PROFERIDA EM LIMINAR EM MANDADO DE SEGURANÇA. SUPERVENIENTE PROLAÇÃO DE SENTENÇA DE MÉRITO. PERDA DE OBJETO.
+1. A Corte Especial, em decisão recente, ao julgar o EAREsp 488.188/SP, de relatoria do Ministro Luis Felipe Salomão, publicada no DJe de 19/11/2015, passou a adotar o entendimento de que a prolação de sentença de mérito tem como consequência lógico-jurídica a perda de objeto do recurso especial interposto contra decisão em antecipação de tutela, tenha sido ela deferida ou indeferida.
+2. No caso dos autos, houve prolação de sentença de mérito em mandado de segurança, o que, por si só, torna prejudicado o recurso especial interposto contra decisão que deferiu a liminar no mandamus.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp. 311.214/CE, Rel. Ministro Sérgio Kukina, DJe 24/2/2016.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DOS BENS. AGRAVO DE INSTRUMENTO RELATIVO À MEDIDA ANTECIPATÓRIA. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO, JULGANDO IMPROCEDENTE A AÇÃO. PERDA DE OBJETO DO RECURSO ESPECIAL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. De acordo com a jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença de mérito, seja de procedência ou improcedência, acarreta a perda de objeto do recurso especial, interposto contra decisão interlocutória que decide pedido de liminar ou antecipação dos efeitos da tutela, porquanto o provimento dotado de cognição exauriente absorve os efeitos da medida antecipatória, cumprindo às partes impugnar a sentença, e não mais o deferimento ou indeferimento da liminar ou antecipação dos efeitos da tutela.
+II. Em situações semelhantes à dos presentes autos, em que fora declarada a perda de objeto do Recurso Especial que se insurge contra decisão interlocutória que, em sede de ação de improbidade administrativa, decide acerca da indisponibilidade dos bens, destacam-se os seguintes precedentes desta Corte: STJ, REsp 1.351.883/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/05/2015; STJ, AgRg no REsp 1.244.149/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 23/10/2014; STJ, AgRg no Ag 1.146.044/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 04/08/2014.
+III. Agravo Regimental improvido (AgRg no AREsp. 728.557/SP, Rel. Ministra Assusete Magalhães, DJe 20/11/2015.)
+Ante o exposto, não conheço do recurso especial em face da perda superveniente de seu objeto.
+Publique-se. Intimem-se.
