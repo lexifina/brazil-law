@@ -1,0 +1,81 @@
+EMENTA
+RECURSO ESPECIAL. CIVIL. COMPROMISSO DE COMPRA E VENDA. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. LUCROS CESSANTES. PRESUNÇÃO. SÚMULA 83/STJ. CLÁUSULA PENAL. PREVISÃO CONTRATUAL. REEXAME. SÚMULAS 5 E 7 DO STJ. ATRASO NA ENTREGA DO IMÓVEL. CARACTERIZAÇÃO. REEXAME. SÚMULA 7/STJ.
+1. No que tange à alegação de que não incide, na hipótese, as disposições do Código de Defesa do Consumidor, tem-se, no ponto, inviável o debate, porquanto não se vislumbra o efetivo prequestionamento, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias.
+2. Descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente-comprador. Precedentes.
+3. derruir a conclusão a que chegou o Tribunal a quo, soberano na análise dos fatos e das provas, no sentido de que havia previsão contratual de cláusula penal, demandaria revolvimento do arcabouço fático-probatório acostado aos autos e reexame do instrumento contratual, o que encontra óbice nos enunciados das Súmulas 5 e 7 do STJ.
+4. Derruir a conclusão a que chegou o Tribunal estadual no sentido de que houve o efetivo atraso na entrega do imóvel exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+5. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial fundado no artigo 105, III, alínea "a", da Constituição Federal, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Compromisso de compra e venda - Obrigação de fazer e indenização de danos materiais e morais - Atraso na entrega da unidade além do prazo de 180 dias previsto em contrato - Incidência da multa moratória convencional - Danos materiais, consistentes no valor dos aluguéis pagos pelos adquirentes, devidos - Dano moral ausente - Litigância de má fé não configurada - Recursos das partes providos em parte.
+(fl. 345)
+A recorrente, nas razões do especial, sustenta, em síntese, que: a) não incide, na hipótese, as disposições do Código de Defesa do Consumidor; b) "não há que se falar em lucros cessantes, já que o imóvel seria utilizado para moradia e não para auferir renda" (fl. 366); c) "não foi fixado em contrato nenhuma cláusula penal/multa penal compensatória, sendo que assim, não há possibilidade de inversão da aplicação da multa" (fl. 367); e d) "não há o que se falar em condenação da parte Recorrente no pagamento de multa contratual de qualquer montante, sobre o valor atual do imóvel, tendo em vista que não houve atraso injustificado na entrega do imóvel" (fl. 371).
+Contrarrazões às fls. 380-390.
+O recurso recebeu crivo positivo de admissibilidade na origem (fls. 392-394), ascendendo à esta Corte Superior.
+É o relatório.
+DECIDO.
+2. No que tange à alegação de que não incide, na hipótese, as disposições do Código de Defesa do Consumidor, tem-se, no ponto, inviável o debate. Isso porque não se vislumbra o efetivo prequestionamento, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias.
+De fato, não se extrai do acórdão recorrido pronunciamento a respeito de controvérsia apoiada na normatividade do dispositivo legal supostamente violado.
+Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+Assim, quanto ao ponto em mote, ausente um dos requisitos de admissibilidade do apelo especial, qual seja o prequestionamento (Enunciados Sumulares n. 282 e n. 356 do C. STF).
+Por oportuno, leiam-se estes julgados:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. DANO MORAL. CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 504.841/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. IMPENHORABILIDADE DE IMÓVEL. BEM PROFISSIONAL. EXCEPCIONALIDADE DA CONSTRIÇÃO JUDICIAL. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO, COM APLICAÇÃO DE MULTA.
+1. Não há falar em violação dos arts. 458, II, e 535, II, do Código de Processo Civil pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes.
+2. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+3. De acordo com a jurisprudência desta Corte, é possível a penhora em caráter excepcional de imóvel comercial, no qual se localiza empresa do executado, desde que não seja utilizado para a residência de sua família e não haja outros bens livres e desembaraçados, passíveis de serem constritos. (REsp 1.114.767/RS, Rel. Ministro LUIZ FUX, CORTE ESPECIAL, DJe 04/02/2010).
+4. Agravo regimental não provido, com aplicação de multa.
+(AgRg no AREsp 490.801/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/09/2014, DJe 17/09/2014)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUPOSTA OFENSA AOS ARTS. 475 E 730 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. TRIBUTÁRIO. CONTRIBUIÇÃO DO PLANO DE SEGURIDADE DO SERVIDOR PÚBLICO (PSS). RETENÇÃO. VALORES PAGOS EM CUMPRIMENTO DE DECISÃO JUDICIAL. INEXIGIBILIDADE DA CONTRIBUIÇÃO SOBRE PROVENTOS E PENSÕES MILITARES.
+1. O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, sobre a qual nem sequer foram apresentados embargos de declaração, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF, por analogia).
+2. Após a vigência da EC 18/98, não há mais dúvida de que os militares não se caracterizam como servidores públicos, de modo que estão sujeitos a um regime jurídico próprio (dos militares). Como bem explica [NOME], "os militares são agentes públicos, mas não pertencem à categoria dos servidores públicos". Ressalte-se que "o regime a que se submetem os militares não se confunde com aquele aplicável aos servidores civis, visto que têm direitos, garantias, prerrogativas e impedimentos próprios" (RE 551.531/MG, Tribunal Pleno, Rel. Min. Ricardo Lewandowski, DJe de 27.6.2008).
+3. A análise da legislação de regência autoriza conclusão no sentido de que a distinção de regimes entre os servidores públicos civis e os militares alcança o plano previdenciário, bem como as respectivas contribuições. Em se tratando de sistemas com regras diferenciadas, não é possível impor a retenção de contribuição ao PSS, na forma do art. 16-A da Lei 10.887/2004, sobre proventos ou pensões militares, em razão da ausência de previsão legal específica.
+4. Recurso especial parcialmente conhecido e, nessa parte, não provido. (REsp 1369575/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/12/2014, DJe 19/12/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AQUISIÇÃO DE LINHA TELEFÔNICA. OFENSA AO ART. 535, II, DO CPC NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. REEXAME DE QUESTÃO FÁTICO-PROBATÓRIA. SÚMULAS N. 5 E 7 DO STJ. RECURSO MANIFESTAMENTE IMPROCEDENTE. IMPOSIÇÃO DE MULTA. ART. 557, § 2º, DO CPC.
+1. A violação do art. 535, II, do CPC não resulta configurada na hipótese em que o Tribunal de origem, ainda que sucintamente, pronuncia-se sobre a matéria controvertida nos autos, não incorrendo em omissão, contradição ou obscuridade. Ademais, não há nulidade no acórdão recorrido, o qual possui fundamentação suficiente à exata compreensão das questões apreciadas.
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento. Incidem, portanto, no caso, as Súmulas n. 282 e 356 do STF.
+3. O recurso especial não comporta o exame de questões que demandem o revolvimento de cláusulas contratuais e do contexto fático-probatório dos autos, em razão da incidência das Súmulas n. 5 e 7 do STJ.
+4. A interposição de recurso manifestamente inadmissível ou infundado autoriza a imposição de multa com fundamento no art. 557, § 2º, do CPC.
+5. Agravo regimental desprovido com a condenação da agravante ao pagamento de multa no percentual de 5% (cinco por cento) sobre o valor corrigido da causa, ficando condicionada a interposição de qualquer outro recurso ao depósito do respectivo valor (art. 557, § 2º, do CPC).
+(AgRg no AREsp 530.607/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/12/2014, DJe 16/12/2014)
+Dessa forma, caberia a parte recorrente, entendendo ter havido omissão por parte do órgão julgador, opor embargos de declaração, apontando os referidos dispositivos legais violados, e, caso entendesse não sanado o vício apontado, aduzir, em sede de recurso especial, violação ao art. 1.022 do CPC, providências, todavia, da qual não se desincumbiu, o que impede o conhecimento do apelo especial, máxime porque o acórdão vergastado teorizou acerca da matéria sub examine, sem emitir posicionamento específico quanto às ofensas assestadas.
+3. Ademais, obtempera a parte recorrente que "não há que se falar em lucros cessantes, já que o imóvel seria utilizado para moradia e não para auferir renda" (fl. 366).
+A Corte de origem, não obstante, consignou que seriam devidos alugueres a título de lucros cessantes à parte autora, verbis:
+Dai, portanto, ao lado da condenação ao pagamento da multa moratória prevista no contrato, a responsabilização da ré pelos alugueres e eventuais despesas condominiais dispendidas pelos autores no período da mora, ou seja, de outubro/2011 até a efetiva disponibilização das chaves da unidade adquirida.
+Anote-se que a efetiva locação de imóvel para residência dos autores veio comprovada às fls. 72/77 e permite a apuração, em sede de liquidação, dos valores devidos, sendo desnecessária a prova do efetivo pagamento.
+(fl. 350)  g.n.
+Nesse diapasão, importa destacar que esta Corte Superior perfilha o entendimento de que descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente-comprador.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Alterar as premissas adotadas pelo decisum atacado, no tocante à responsabilidade civil da recorrente pelo atraso na entrega do imóvel, demanda a interpretação das cláusulas contratuais e a rediscussão da matéria fático-probatória, providências inviáveis em sede de recurso especial, ante o disposto nas Súmulas 5 e 7 desta Corte.
+2. Na hipótese, o Tribunal local seguiu orientação desta Corte no sentido de que o atraso na entrega do imóvel enseja o pagamento de indenização por lucros cessantes durante o período de mora, sendo presumido o prejuízo do promitente comprador. Incidência da Súmula 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1754284/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/10/2018, DJe 25/10/2018)  g.n.
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Alterar as premissas adotadas pelo decisum atacado demanda a interpretação das cláusulas contratuais e a rediscussão da matéria fático-probatória, inviável em sede de recurso especial, ante o disposto nas Súmulas 5 e 7 desta Corte.
+2. Na hipótese, o Tribunal local seguiu orientação desta Corte no sentido de que o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Incidência da Súmula 83/STJ.
+ ..
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1696567/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/10/2018, DJe 23/10/2018)  g.n.
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA.ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES.PRESUNÇÃO DO PREJUÍZO. APLICAÇÃO DA SÚMULA N. 83/STJ.DANO MORAL, NO CASO CONCRETO, CONFIGURADO.APLICAÇÃO DA SÚMULA N. 7/STJ. AGRAVO NÃO PROVIDO.
+1. Esta Corte Superior já firmou entendimento de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente-comprador.
+ ..
+4. Agravo não provido.
+(AgInt no REsp 1743230/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/09/2018, DJe 28/09/2018)  g.n.
+Dessa forma, constata-se que o acórdão recorrido está em consonância com a jurisprudência dessa Casa, o que atrai a incidência da Súmula 83 do STJ.
+4. Argumenta, ainda, que "não foi fixado em contrato nenhuma cláusula penal/multa penal compensatória, sendo que assim, não há possibilidade de inversão da aplicação da multa" (fl. 367).
+A Corte de origem, no entanto, consignou que foi, de fato, estabelecido em contrato cláusula penal para o caso de atraso na entrega do imóvel, verbis:
+No caso, o contrato celebrado entre as partes contém cláusula penal expressa estabelecida para o caso de atraso na entrega do imóvel (0,5% ao mês sobre os valores até então pagos - cláusula segunda do instrumento de fls. 34/35).
+(fl. 348)
+Nesse contexto, derruir a conclusão a que chegou o Tribunal a quo, soberano na análise dos fatos e das provas, no sentido de que havia previsão contratual de cláusula penal, demandaria revolvimento do arcabouço fático-probatório acostado aos autos e reexame do instrumento contratual, o que encontra óbice nos enunciados das Súmulas 5 e 7 do STJ.
+5. Por fim, aduz que "não há o que se falar em condenação da parte Recorrente no pagamento de multa contratual de qualquer montante, sobre o valor atual do imóvel, tendo em vista que não houve atraso injustificado na entrega do imóvel" (fl. 371).
+A Corte de origem, no entanto, fixou o entendimento de que restou comprovado o atraso na entrega do imóvel, devendo a parte recorrente responder pelo ato ilícito praticado, verbis:
+Claro, portanto, que houve atraso na entrega, mesmo em se considerando a legalidade da cláusula de tolerância prevista no contrato, pois redigida de forma clara e de fácil compreensão pelo contratante, além de ser praxe no mercado. Não padece, portanto, de qualquer abusividade, como vem entendendo esta Câmara em diversos julgados (Apelação Cível no 0033317-69.2011.8.26.0562, relator Des. Claudio Godoy, j. 03/12/2013; Apelação Cível no 0189602-21.2011.8.26.0100, relator Des. Rui Cascaldi, j. 14/04/2015, etc.).
+(fl. 347)  g.n.
+Nesse contexto, derruir a conclusão a que chegou o Tribunal estadual no sentido de que houve o efetivo atraso na entrega do imóvel exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+6. Ante o exposto, com fulcro nos fundamentos acima aduzidos, nego provimento ao presente recurso especial.
+Publique-se. Intimem-se.
