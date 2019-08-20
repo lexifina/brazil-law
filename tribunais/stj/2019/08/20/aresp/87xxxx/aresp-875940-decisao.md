@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por [NOME] GRANDO contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 394):
+"APELAÇÃO CÍVEL. SEGUROS. SEGURO DE VIDA EM GRUPO. AÇÃO REVISIONAL. AUMENTO POR FAIXA ETÁRIA. NO CASO, A PARTE AUTORA RESOLVEU PERMANECER COM O CONTRATO JUNTO À RÉ E SÓ DEPOIS DE MAIS DE DEZ ANOS DA VIGÊNCIA DA NOVA APÓLICE É QUE RESOLVEU ALEGAR NULIDADE DOS PERCENTUAIS DE REAJUSTE APLICADOS. APELO DO RÉU PROVIDO."
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 410-414.
+Nas razões do recurso especial, [NOME] [NOME] GRANDO alega, além de dissídio jurisprudencial, violação ao art. 205 do Código Civil, arts. 47 e 51, IV, X, XI e XIII do Código de Defesa do Consumidor, bem como ao art. 15, § 3º, da Lei n. 10.741/2003, ao argumento, entre outros, que "(..) não há que se falar em prescrição ânua no caso concreto, como intenta a Ré Recorrente e sustenta erroneamente o Acórdão objurgado. À toda evidência, a prazo previsto no art. 206, II, b, do Código Civil, e mencionado na súmula 101 do STJ, se refere ao prazo prescricional para o segurado postular indenização securitária, e não para questionar a validade de cláusula contratual e requerer a devolução dos valores pagos a maior, como trata o caso em debate (..)". (fl. 434)
+Contrarrazões às fls. 442-487.
+É o relatório. Decido.
+De início, tendo em vista que o recurso especial foi interposto contra acórdão publicado anteriormente à entrada em vigor do Novo Código de Processo Civil, aplica-se ao caso o Enunciado Administrativo n.º 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+O recurso em apreço não merece prosperar.
+Com efeito, ao apontar violação ao art. 205 do CC, a recorrente sustenta que o prazo prescricional para questionar a validade de cláusula contratual e requerer a devolução dos valores pagos a maior, como no caso dos autos, é o decenal. Por sua vez, o TJ-RS, com arrimo no acervo fático-probatório, consignou que se aplica a prescrição ânua nos casos de pretensão do segurado contra o segurado, de modo que a pretensão do ora recorrente estaria prescrita. Confira-se excerto do v. acórdão estadual (fls. 398-399):
+ "Não desconheço da existência Ação Coletiva nº [CPF] que tramita perante a 15g Vara Cível, promovida pela AFABB- RS (Ação dos Funcionários Aposentados e Pensionistas do Banco do Brasil do Rio Grande do Sul) contra a Companhia de Seguros Aliança do Brasil, relativamente à apólice de seguro 90.0.0000.40, que prevaleceu até o ano de 2012, sendo considerada pela sentença e acórdão (nº [CPF]) como mera alteração à apólice 93.00.13018, não sendo válida a cláusula de aumento do prêmio diverso do antes pactuado, e também da modificação da cobertura relativa à invalidez.
+ No entanto, o acórdão ainda não transitou em julgado, pois, conforme informação do sistema, acham-se os autos em sede de Recurso Especial, aguardando julgamento pelo STJ. De outra parte, resta expresso na ementa que "o alcance da decisão proferida nos presente autos, restringe-se ao pedido inicial formulado, de modo que os efeitos da sentença de procedência operam-se somente aos segurados representados na lide".
+ De outra parte, já restou decidido pelo STJ quando do julgamento do REsp 794583/RJ da aplicação do prazo prescricional ânuo do Código Civil, por tratar-se a lide de pretensão do segurado contra o segurador, prevista no art. 206, §1º, inc. Il.
+ Mais recentemente, no julgamento da apelação n2 [CPF], a 5ê Câmara Cível, de forma unânime, julgando pedido de outro segurado relativamente às duas apólices também discutidas nesse feito, entendeu o seguinte:
+(..)
+ Assim, merece reforma a sentença de primeiro grau para julgar improcedente a ação. Se ao longo dos anos o valor da mensalidade que necessariamente sofre atualização monetária legal superar o orçamento do demandante poderá procurar outras opções.
+ Dou por prequestionados os dispositivos legais suscitados pelas partes, com a finalidade exclusiva de evitar eventual interposição de embargos de declaração."
+Sobre o tema, tem-se que a iterativa jurisprudência desta Corte firmou-se no sentido de que é ânuo o prazo prescricional para o exercício da pretensão de declaração de abusividade de cláusula do contrato de seguro de vida (que insere novos critérios para cálculo do prêmio em razão do avanço da faixa etária do segurado) cumulada com pedido de repetição de indébito, nos termos do artigo 206, § 1º, II, "b", do Código Civil. Nessa linha de intelecção, confiram-se os seguintes precedentes:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA DE SEGURO DE VIDA EM GRUPO C/C PEDIDO DE REPETIÇÃO DE INDÉBITO. PRAZO PRESCRICIONAL.
+1. É ânuo o prazo prescricional para o exercício da pretensão de declaração de abusividade de cláusula do contrato de seguro de vida (que insere novos critérios para cálculo do prêmio em razão do avanço da faixa etária do segurado) cumulada com pedido de repetição de indébito, nos termos do artigo 206, § 1º, II, "b", do Código Civil. Incidência da Súmula 101/STJ. Precedentes.
+(..)
+3. Agravo interno não provido."
+(AgInt no REsp 1668872/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/05/2019, DJe 15/05/2019 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO REVISIONAL DE NULIDADE DE CLÁUSULA DE SEGURO DE VIDA EM GRUPO C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+(..)
+2. Prescreve em 1 (um) ano a pretensão de nulidade de cláusula de seguro de vida em grupo que insere novos critérios para o cálculo do prêmio em razão do avanço da faixa etária do segurado. Relação de trato sucessivo que, no entanto, impede a prescrição do fundo do direito. Precedentes.
+3. Agravo interno desprovido."
+(AgInt no AREsp 872.518/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 05/06/2018, DJe 12/06/2018 - grifou-se)
+No caso, restou estabelecido que o segurado teve ciência dos aumentos há aproximadamente uma década e, por tal motivo, a pretensão estaria prescrita, eis que ultrapassado o prazo de 1 ano. Nessa esteira, estando a decisão recorrida de acordo com a jurisprudência desta Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ.
+No tocante à alegada violação aos arts. 47 e 51, IV, X, XI e XIII do CDC, bem como ao art. 15, § 3º, da Lei n. 10.741/03, melhor sorte não socorre ao recorrente. Com efeito, verifica-se que os referidos dispositivos não estão prequestionados, apesar da oposição de embargos de declaração no eg. TJ-RS.
+Com efeito, se mesmo após o julgamento dos embargos de declaração, o eg. Tribunal a quo continuar omisso quanto a matéria que se pretendia prequestionar, é dever do recorrente, no apelo nobre, apontar violação ao art. 535 do CPC/73 (CPC/2015, art. 1.022), o que não ocorreu no caso em liça. Nesse cenário, o apelo nobre esbarra no óbice da Súmula n. 211/STJ. Nesse sentido, destacam-se:
+"AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE, APÓS RECONSIDERAR DELIBERAÇÃO UNIPESSOAL ANTERIOR, NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+(..)
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ.
+2.1. Na hipótese, não foi apontada violação do artigo 535 do CPC/73, vigente à época, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+3. Agravo interno desprovido."
+(AgInt no AgRg no AREsp 221.387/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/10/2017, DJe 25/10/2017)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+(..)
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1098633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe 15/09/2017 - grifou-se)
+Por fim, pela alínea "c" do permissivo constitucional, melhor sorte não socorre ao apelo, na medida em que inexiste similitude fático-jurídica entre o v. Acórdão estadual e os paradigmas apresentados.
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
