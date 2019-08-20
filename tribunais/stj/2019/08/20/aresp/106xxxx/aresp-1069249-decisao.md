@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado pelo MUNICÍPIO DE ITAPEVI/SP contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III, da Constituição Federal e que desafia acórdão assim ementado (e-STJ fl. 2008):
+EMENTA: DIREITO PROCESSUAL CIVIL - Cumprimento de sentença - Pretendida execução pela municipalidade dos honorários advocatícios que teve fixado a seu favor em ação ordinária proposta pelo executado - Apuração do valor devido realizado pela Contadoria Judicial a pedido do Juízo, que encontrou excesso de penhora nos autos - Sentença que homologou o cálculo do contador e determinou o levantamento do valor correspondente para cada parte mantida
+- Recurso não provido
+Aponta o recorrente violação dos arts. 183, 293, 736 e seguintes do CPC/1973. Sustenta, em síntese, que o recorrido deixou transcorrer in albis o prazo que dispunha para impugnar a conta apresentada pela edilididade.
+Passo a decidir.
+De logo, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 17/03/2015, DJe 24/03/2015; AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 25/10/2016, DJe 27/10/2016.
+Mediante análise dos autos, verifico que a inadmissão do recurso se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha o agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, à vista da necessidade do exame das provas que repousam nos autos.
+É que, tendo o Tribunal de origem reconhecido que o conjunto probatório foi hábil a demonstrar o excesso de penhora, de modo a confirmar o levantamento do numerário em favor do executado (e-STJ fls. 2009/2011), a reforma desse julgado demandaria o reexame fático-probatório dos autos, inviável em sede de recurso especial.
+Registro, por oportuno, que o marco inicial de aplicação do Novo Código de Processo Civil é a intimação do decisum recorrido, a qual, no presente caso, foi realizada sob a égide do antigo Codex Processual. Assim, nos termos do Enunciado Administrativo n. 2 do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se.
+Intimem-se.
