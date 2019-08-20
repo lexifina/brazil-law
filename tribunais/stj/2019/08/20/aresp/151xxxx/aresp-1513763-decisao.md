@@ -1,0 +1,31 @@
+DECISÃO
+1. Cuida-se de agravo interposto por OI S.A. - EM RECUPERACAO JUDICIAL contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL DA EXECUTADA. LEVANTAMENTO DE VALORES DEPOSITADOS EM JUÍZO. RECUPERAÇÃO JUDICIAL DA EXECUTADA. Das decisões prolatadas nos autos do agravo de instrumento n. 0034576-58.2016.8.19.0000 - TJ/RJ, e seus respectivos embargos de declaração, retira-se que para o levantamento de valores depositados nos autos de qualquer execução ou cumprimento de sentença em face da companhia telefônica resulta necessário o preenchimento, cumulativamente, de dois requisitos, ou seja, (1) valores depositados antes de 21.06.2016 e (2) trânsito em julgado/preclusão da decisão prolatada em embargos à execução ou na decisão final da impugnação ao cumprimento de sentença que tenha definido o quantum debeatur anteriormente a 21.06.2016. No caso concreto, preenchidos os requisitos supramencionados, impõe-se o deferimento da liberação dos valores depositados, exatamente como determinado pela decisão agravada.
+Eventual valor excedente ou depositado/bloqueado em demandadas que não se insiram nas exceções do agravo de instrumento 003457658.2016.8.19.0000 , devem ser liberados diretamente à companhia telefônica demandada, independentemente de intimação, notificação ou cientificação do administrador judicial.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 1.022 do CPC, 6º, 49, 52 e 59 da Lei nº 11.101/2005.
+Alega a negativa de prestação jurisdicional por omissão sobre a tese da iliquidez quando do pedido de recuperação judicial.
+Sustenta a impossibilidade de liberação de valores, ao argumento de que estariam ausentes os requisitos autorizadores da expedição de alvará determinados pelo juízo da recuperação judicial, de forma que os créditos foram novados, devendo se sujeitar ao processo de recuperação judicial, com remessa do feito à Contadoria para readequação de cálculo sem amortização da garantia.
+Contrarrazões ao recurso especial às fls. 1.136-1.148.
+É o relatório. Decido.
+2. Não há falar em violação ao art. 1.022 do CPC/2015, pois o eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, com fundamentação clara e suficiente. Cabe destacar que não significa omissão, quando o julgador adota outro fundamento que não aquele perquirido pela parte.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO - REDISCUSSÃO DO JULGADO - DECLARAÇÃO DA COMPETÊNCIA DO JUÍZO FALIMENTAR - PRECEDENTES DO STJ.
+1. Os embargos de declaração, a teor das disposições do art. 1.022 do Código de Processo Civil de 2015, são inviáveis quando inexiste obscuridade, contradição ou omissão na decisão embargada.
+2. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. Recurso dotado de caráter manifestamente infringente. Inexistência de demonstração dos vícios apontados, objetivando à rediscussão da matéria, já repetidamente decida.
+3.(..)
+4. Embargos de declaração rejeitados.(EDcl no AgInt no CC 144.334/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016)
+3. Quanto aos demais dispositivos legais violados, também não merece prosperar o inconformismo.
+Na espécie, a Corte local, com base nos elementos fático-probatórios dos autos, concluiu pelo preenchimento dos requisitos para liberação dos valores em favor da parte agravada, conforme determinado pelo juízo da recuperação judicial, com a seguinte fundamentação (fls. 993-995):
+"Como se vê, o pagamento dos credores será realizado no juízo da recuperação judicial, seguindo-se dois trâmites distintos, quais sejam: (1) Se o crédito for concursal e líquido, o juiz da execução deve expedir certidão e extinguir o processo executivo; (2) Se o crédito for extraconcursal e líquido, o juiz da execução deve oficiar comunicando a necessidade do pagamento e suspender o processo executivo.
+Em resposta ao Ofício n. 05/2018, buscando esclarecer as determinações advindas do processo de recuperação judicial da companhia telefônica, a 7ª Vara Empresarial do Poder Judiciário do Estado do Rio de Janeiro informou o seguinte:
+ ..
+Assim, das decisões supramencionadas retira-se que para o levantamento de valores relativos a créditos concursais nos autos de qualquer execução ou cumprimento de sentença em face da companhia telefônica resulta necessário o preenchimento, cumulativamente, de dois requisitos, ou seja, (1) valores depositados antes de 21.06.2016; e (2) trânsito em julgado/preclusão da decisão prolatada em embargos à execução ou da decisão final de impugnação ao cumprimento de sentença que tenha definido o quantum debeatur anteriormente a 21.06.2016.
+Na hipótese dos autos, trata-se de cumprimento de sentença em face da companhia telefônica, ora em recuperação judicial.
+O bloqueio judicial do valor executado foi realizado em 03.04.2013 (fl. 408 do instrumento).
+Outrossim, consoante certidão de fl. 481 do instrumento, a decisão da impugnação ao cumprimento de sentença transitou em julgado em 09.07.2014.
+Nessas circunstâncias, preenchidos os dois requisitos - depósito e trânsito em julgado da decisão que definiu o quantum debeatur ocorridos antes de 21.06.2016 - impõe-se o desprovimento do agravo de instrumento para o fim de manter a liberação de valores em favor da parte-agravada."
+Desse modo, constata-se que o acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ, impedindo o conhecimento do recurso. No mesmo sentido: AREsp nº 1.446.413-RS, Rel. Ministra Maria Isabel Gallotti, in DJ 22.04.2019; e, AREsp nº 1.352.965-RS, Rel. Ministro Raul Araújo, in DJ 03.06.2019.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
