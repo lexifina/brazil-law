@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DE MINAS GERAIS contra decisão do Tribunal de Justiça do Estado de Minas Gerais, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 443):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - PREJUDICIAL DE MÉRITO APRECIADA E AFASTADA EM AGRAVO DE INSTRUMENTO - NOVA APRECIAÇÃO NA SENTENÇA - INVIABILIDADE - ERRO JUDICIÁRIO - ABSOLVIÇÃO EM SEGUNDA INSTÂNCIA - AUSÊNCIA DE DOLO E FRAUDE DO AGENTE ESTATAL - AGRESSÃO FÍSICA COMETIDA POR POLICIAIS MILITARES - DANO MORAL DEVIDAMENTE CONFIGURADO - SENTENÇA PARCIALMENTE REFORMADA.
+1. A apreciação e afastamento de prejudicial de mérito nesta instância revisora, nos autos de agravo de instrumento, inviabiliza nova apreciação pelo magistrado na sentença.
+2. O fato de autor ter sido absolvido em segunda instância não é suficiente, por si só, para o fim indenizatório pretendido fundado em alegado erro judiciário, pois para tanto se faz necessária a prova de conduta dolosa ou má-fé do agente do Estado na ação criminal, o que não restou comprovado nos autos.
+3. A comprovação nos autos dos excessos praticados por policiais militares, no ato da prisão em flagrante do autor, configura violação de sua integridade física que, por sua vez, repercute em sua esfera subjetiva, causando-lhe dor moral a ensejar a condenação do Estado indenização pleiteada pela vitima.
+Embargos de declaração rejeitados (e-STJ fls. 469/474).
+No especial obstaculizado, a parte ora agravante aponta violação dos arts. 884 e 944 do Código Civil, pois os danos morais foram fixados em patamar excessivo.
+Depois de contra-arrazoado (e-STJ fls. 485/488), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que incide a Súmula 7 do STJ (e-STJ fls. 492/494).
+Na presente irresignação, o agravante alega, em resumo, que o recurso obstado atende aos pressupostos de admissibilidade e, ao final, reitera os argumentos anteriormente expendidos.
+Contraminuta às e-STJ fls. 505/508.
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Considerado isso, verifico que a irresignação recursal não merece prosperar.
+No tocante à redução da indenização devida a título de danos morais, observo que incide o óbice sumular 7 do STJ, pois esta Corte entende que a revisão do quantum indenizatório somente é possível em hipóteses excepcionais, quando verificada a ofensa aos princípios da razoabilidade e proporcionalidade, situação não evidenciada nos autos (R$ 40.000,00 - quarenta mil reais, em razão de danos decorrentes de agressão policial).
+Ilustrativamente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DANOS MORAIS. QUANTUM ESTABELECIDO. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+1. Cuida-se, na origem, de Ação Civil Pública ajuizada pelo Ministério Público Federal em face do Conselho Regional de Medicina do Mato Grosso do Sul - CRM/MS e de [NOME], em razão da realização de reiteradas cirurgias plásticas das quais derivaram danos materiais, morais e estéticos em diversos pacientes, objetivando a condenação dos réus à indenização pelas seqüelas advindas dos procedimentos cirúrgicos indevidamente realizados pelo ex-médico (fl. 257, e-STJ).
+2. O Tribunal de origem, à luz das circunstâncias fáticas da causa, arbitrou os danos morais. Deste modo, a revisão do quantum estabelecido enseja o reexame fático-probatório dos autos, procedimento vedado pela Súmula 7/STJ.
+3. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais fixado na origem, a jurisprudência permite o afastamento do óbice da Súmula 7 do STJ. No caso dos autos, verifica-se que o quantum estabelecido pelo Tribunal de origem não se mostra desproporcional, a justificar sua reavaliação em Recurso Especial.
+4. Recurso Especial não conhecido. (REsp 1.675.082/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/08/2017, DJe 16/10/2017). (grifos acrescidos)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
