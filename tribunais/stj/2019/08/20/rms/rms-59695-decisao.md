@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por [NOME], com fundamento no art. 105, II, "b", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia assim ementado (e-STJ fl. 413):
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO QUE PERSISTE NO CERTAME EM RAZÃO DE PROVIMENTO LIMINAR/PRECÁRIO DEFERIDO EM AÇÃO ORDINÁRIA EM CURSO. PRETERIÇÃO AFASTADA. EXPIRADO O PRAZO DE VALIDADE DO CONCURSO. INEXISTÊNCIA DE DIREITO LIQUIDO E CERTO À NOMEAÇÃO. PRECEDENTES DO STJ. RESERVA DE VAGA. CABIMENTO. NOMEAÇÃO E POSSE CONDICIONADAS À COMPROVAÇÃO DA OBTENÇÃO, EM DEFINITIVO, DE PROVIMENTO JURISDICIONAL FAVORÁVEL NA AÇÃO ORDINÁRIA QUE LHE GARANTIU A PERMANÊNCIA E CLASSIFICAÇÃO NO CERTAME, DENTRO DO NÚMERO DE VAGAS PREVISTO EM EDITAL. SEGURANÇA PARCIALMENTE DEFERIDA.
+Alega o recorrente, em síntese, que "o fato de o candidato estar em situação sub judice, exclusivamente quanto à desnecessidade de realização do teste de aptidão física - TAF e demais etapas do concurso até julgamento final da ação ordinária nº 0559455-30.2014.8.05.0001, não afasta seu direito liquido e certo à nomeação e posse" (fl. 428).
+Ao final, pleiteia o provimento do recurso a fim de que a ordem seja integralmente concedida, com a determinação de que a Autoridade coatora promova a sua nomeação e posse.
+Contrarrazões à e-STJ fl. 443.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 453/456).
+Passo a decidir.
+Não obstante os argumentos expendidos pelo recorrente, suas razões não são suficientes para ensejar a reforma do aresto proferido pelo Tribunal de origem.
+Com efeito, consoante o entendimento desta Corte, o candidato sub judice aprovado e classificado em concurso público não tem direito líquido e certo à nomeação, devendo ser garantida apenas a reserva da sua vaga até o trânsito em julgado da decisão judicial que lhe garantiu a participação no certame. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO PARA O CARGO DE ESCRIVÃO DA POLÍCIA CIVIL DO ESTADO DO CEARÁ. CANDIDATO SUB JUDICE. INEXISTÊNCIA DE DIREITO À NOMEAÇÃO. RESERVA DE VAGA. PRECEDENTES.
+1. O STJ tem entendimento de que, em concurso público, o candidato sub judice, ou seja, que permaneceu no certame por força de decisão judicial ainda não transitada em julgado, não tem direito líquido e certo à nomeação, sendo assegurada apenas a reserva de vaga.
+2. Recurso Especial provido. (REsp 1528363/CE, Relator Ministro HERMAN BENJAMIN , SEGUNDA TURMA, DJe 05/08/2015)
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CARGO ESCRIVÃO DA POLÍCIA CIVIL. NOMEAÇÃO. APROVAÇÃO SUB JUDICE. RESERVA DE VAGA. TEORIA DO FATO CONSUMADO. RE 608.482/RN. REPERCUSSÃO GERAL.
+1. A jurisprudência desta Corte Superior é firme na compreensão de que o candidato sub judice aprovado e classificado em concurso público não tem direito líquido e certo à nomeação, sendo garantida somente a reserva da vaga até o trânsito em julgado da decisão judicial que lhe garantiu a participação no certame.
+2. Enquanto não comprovada a aprovação do candidato em todas as etapas do concurso, bem como todos os requisitos necessários para a investidura no cargo, não merece prosperar a pretensão de reconhecimento do direito à nomeação pelo fato de ter havido quebra na ordem classificatória.
+3. A Suprema Corte, em julgado sob o regime da repercussão geral, rejeitou a aplicação da teoria do fato consumado, porquanto "não é compatível com o regime constitucional de acesso aos cargos públicos a manutenção de candidato que tomou posse em decorrência de execução provisória de medida liminar ou outro provimento judicial de natureza precária, posteriormente revogado ou modificado" (RE n. 608.482, Tribunal Pleno, Rel. Ministro Teori Zavascki, DJe 30/10/2014).
+4. Agravo regimental desprovido. (AgRg no RMS 25598/PA, Relator Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 19/10/2016)
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGO PROVIMENTO ao recurso.
+Publique-se. Intimem-se.
