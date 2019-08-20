@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], ANTÔNIO GEA BERNAR FILHO, ANTÔNIO MOREIRA, ARI SILVA, DOMINGOS MARQUES DA SILVA, ENEAS NEPOMUCENO, HELIO PAIUCA, IVETTE PILLA, JOÃO ANTONIO CARLOS, [NOME], [NOME], [NOME], [NOME], [NOME], LAERTE TORRES SANTIAGO, MARIA DAS GRAÇAS MENDES DOS REIS, MAURO GIRETTI, [NOME] e [NOME], com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ fl. 236):
+SERVIDORES PÚBLICOS ESTADUAIS - INATIVOS - LC 1.080/03 - PLANO GERAL DE CARGOS, VENCIMENTOS E SALÁRIOS - PRETENSÃO DE IR RESTABELECIMENTO DAS REFERÊNCIAS E GRAUS EM QUE SE ENCONTRAVAM ANTES DA VIGÊNCIA DA NORMA, OU AO MENOS A PROGRESSÃO AUTOMÁTICA PREVISTA EM SEU ART. 10 - INADMISSIBILIDADE - AÇÃO IMPROCEDENTE - SENTENÇA CONFIRMADA.
+Rejeitados os aclaratórios (e-STJ fls. 264/267), mantido o entendimento local após a fase prevista no art. 1.030, II, do CPC/2015 (e-STJ fls. 370/376), bem como não acolhidos os posteriores embargos (e-STJ fls. 384/389 e 401/404).
+Nas suas razões, a parte recorrente aponta violação dos arts. 489, § 1º, I, e 1.022, II, do CPC/2015, sustentando negativa de prestação jurisdicional. Apontou, ainda, que não observada tese fixada em sede de repercussão geral pelo STF.
+Ausentes contrarrazões (e-STJ fl. 425).
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fls. 426/427.
+Passo a decidir.
+A pretensão recursal não comporta acolhida.
+Em relação aos arts. 489 e 1.022 do CPC/2015, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. A propósito, confiram-se, por análogos à hipótese dos autos: AgRg no AREsp 719.983/PE, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 19/04/2016, DJe 26/04/2016, e AgRg no AREsp 811.706/PR, Rel. Ministra DIVA MALERBI (desembargadora convocada TRF 3ª Região), Segunda Turma, julgado em 07/04/2016, DJe 15/04/2016.
+Quanto ao mais, não obstante o recurso especial tenha sido interposto com base na alínea "a", não houve a particularização de qualquer dispositivo de lei federal eventualmente violado, não podendo o apelo ser conhecido. Incide, nesse aspecto, a Súmula 284 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Nos termos do art. 85, § 11, do CPC/2015, MAJORO os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
