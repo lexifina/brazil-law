@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo apresentado por BETA S A PARTICIPACOES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL LEILÃO ARREMATAÇÃO INVALIDADE PARCELAMENTO QUESTÃO PRECLUSA CARTA DE ARREMATAÇÃO JÁ EXPEDIDA NECESSIDADE DE AÇÃO PRÓPRIA PARA ALEGAR NULIDADE ART 903 § 4º DO CPC FUNDAMENTO NÃO IMPUGNADO
+1- Trata-se de agravo de instrumento interposto em face de decisão que rejeitou a alegação de nulidade do leilão/arrematação em razão do parcelamento efetuado, reputando que a questão já estava preclusa e que a arrematação encontrava-se perfeita e acabada, de modo que eventual pretensão de anulá-la deveria ser efetuada em ação autônoma, nos termos do art. 903, § 4º, do CPC.
+2- A Agravante alega a inexistência de preclusão, afirmando que o deferimento do parcelamento constitui fato novo, do qual ainda não se tinha notícia quando do julgamento do agravo de instrumento, e que portanto deve agora ser observado pelo julgador, nos termos do art. 493.
+3- Ocorre, todavia, que a mera análise do voto condutor do julgamento do agravo de instrumento nº 0003594-34.2017.4.02.0000, que tinha por objeto a pretensão da executada de anular o leilão/arrematação em razão da adesão ao parcelamento, revela que o deferimento do parcelamento foi devidamente considerado naquela ocasião, tendo sido consignado que este seria irrelevante para fins de invalidar o leilão já realizado.
+4- Restado evidente, portanto, que a questão do parcelamento para fins de anular o leilão realizado já foi objeto de decisão anterior, inclusive em segunda instância, correta a decisão agravada que reconheceu a preclusão dessa questão, a qual não pode ser suscitada novamente, conforme pretende a Agravante.
+5- Além disso, observa-se que a Agravante não impugnou fundamento suficiente para, por si só, manter a conclusão da decisão agravada, qual seja, a impossibilidade, nos termos do art. 903, §4º, do CPC, da pretensão anulatória da arrematação ser efetuada nestes autos, tendo em vista que esta encontra-se perfeita e acabada, inclusive já tendo sido expedida a carta de arrematação.
+6- Agravo de instrumento não conhecido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 151, VI, do CTN, no que concerne à necessidade de anulação do leilão em razão da suspensão da exigibilidade do crédito ter se dado na data do pedido de parcelamento, e traz o(s) seguinte(s) argumento(s):
+Inicialmente cabe dizer que não há preclusão da matéria, haja vista que o objeto do presente é diferente do recurso mencionado no acórdão ora recorrido.
+Quando do julgamento do recurso não se tinha noticia do deferimento ou não do parcelamento. A concessão do beneficio foi noticiada nos autos em dezembro de 2017 (fl. 746), momento posterior ao julgamento do primeiro recurso.
+ ..
+O presente recurso sustenta que a decisão de concessão do parcelamento (15.03.2017) retroage a data do pedido de parcelamento (09.03.2017).
+Como a data do pedido de parcelamento é anterior ao leilão judicial (15.03.2017), entende-se que no momento do leilão a recorrente já estava com o parcelamento deferido. O que atrai a incidência legal da suspensão da exigibilidade do crédito (art. 151, VI do CTN).
+Nessa linha, o leilão judicial não poderia ter sido realizado. (fls. 79).
+ ..
+Ou seja, o débito é suspenso - para fins de aplicação do art. 151, VI, do CTN - com o deferimento do parcelamento, mas retroagindo a data do pedido (consolidação do débito). (fls. 78/83).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Resslte-se, ainda, que conforme constou do voto acima transcrito, bem como da decisão ora agravada, a pretensão da Agravante de anular o leilão/arrematação não pode ser mais deduzida nestes autos, tendo em vista que a arrematação já foi efetivada, tendo sido inclusive expedida a respectiva carta de arrematação, de modo que a pretensão da Agravante de invalidar tal arrematação somente poderá ser exercida em ação autônoma, conforme previsto no art. 903, § 4º, do CPC. (fl. 70)
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EREsp n. 1.698.730/SP, relator Ministro Raul Araújo, Segunda Seção, DJe de 18/12/2018; e AgRg nos EAREsp n. 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
