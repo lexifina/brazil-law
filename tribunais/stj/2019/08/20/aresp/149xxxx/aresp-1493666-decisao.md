@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por ADRIANA MARIA CRUZ BORIN contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 291):
+SERVIDORA PÚBLICA DO MUNICÍPIO DE AVARÉ VETERINÁRIA ADICIONAL DE INSALUBRIDADE ESTATUTO (LEI MUNICIPAL 315/1995) PRETENSÃO DE MUDANÇA DE GRAU, BEM COMO DA BASE DE CÁLCULO, PARA ABRANGER OS VENCIMENTOS, OU SEJA, A REMUNERAÇÃO Laudo pericial que concluiu pela insalubridade de grau máximo, em vez do médio, pago administrativamente. Conforme mandado de injunção anteriormente impetrado pelo sindicato da categoria, o percentual, para o funcionalismo daquele Município, é determinado pela legislação dos servidores federais, até a alteração do Estatuto trazida pela Lei Municipal 1.954/2015. Adequação do adicional nos períodos anterior e posterior à vigência da referida Lei. Inexistência de direito adquirido a regime jurídico e à forma de cálculo da remuneração. Ausência de violação à Súmula Vinculante nº 4. Sentença reformada para julgar-se procedente a ação em maior extensão. Ajustamento, de ofício, da correção monetária e dos juros. Apelo da autora provido, em parte, e desprovido o reexame necessário, considerado in terposto, com observação.
+Rejeitados os aclaratórios (e-STJ fls. 335/339).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 192 e 193 da CLT e do art. 146 da Lei n. 315/1995, do município recorrido, sustentando a necessidade de recálculo do adicional debatido nos autos.
+Transcorrido in albis o prazo para contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de incidência da Súmula 280 do STJ (e-STJ fls. 345).
+Na presente irresignação, a parte agravante alega, em resumo, a inadequação de aludido fundamento.
+Ausente contraminuta (e-STJ fl. 345).
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Quanto à suposta violação do art. 146 da Lei n. 315/1995, do município recorrido, é cediço que o recurso especial tem por escopo a uniformização da interpretação da lei federal e, por isso, não serve para a análise de eventual infringência de lei local, conforme a inteligência da Súmula 280 do STF.
+No mais, vê-se que as conclusões do aresto hostilizado respeitantes ao adicional discutido embasaram-se, exclusivamente, na interpretação da citada legislação municipal aplicável. Nesse passo, a revisão das razões de decidir do acórdão recorrido, nesse aspecto, encontra óbice na Súmula 280 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Nos termos do art. 85, § 11, do CPC/2015, MAJORO os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
