@@ -1,0 +1,47 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL. INSCRIÇÃO INDEVIDA DE GRAVAME EM REGISTRO DE VEÍCULO. RELAÇÃO JURÍDICA DE ALIENAÇÃO FIDUCIÁRIA INEXISTENTE. DANO MORAL. NÃO DEMONSTRADO. INVIABILIDADE DE REEXAME DE CONTEXTO FÁTICO-PROBATÓRIO.
+1. Falta de prequestionamento das matérias referentes aos arts. 14, caput e § 3º, II, e 17 da Lei 8.078/90; 11, 489, §1º, I, II e IV, e 1.025 do Código de Processo Civil, pois não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração (Súmulas 282/STF e 211/STJ).
+2. Inviabilidade de alterar a conclusão do tribunal de origem de ausência danos morais, diante da ausência de provas de que a parte recorrente tenha sofrido lesão extrapatrimonial em razão de inscrição indevida de gravame no registro de veículo, pois seria necessária incursão na seara fático-probatória, atividade não realizável nesta via especial. Incidência da súmula 7/STJ.
+3. Recurso especial conhecido em parte e não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+APELAÇÃO CÍVEL - DANO MORAL - AVERBAÇÃO DE ALIENAÇÃO FIDUCIÁRIA INDEVIDAMENTE EM VEÍCULOS DO AUTOR - PRETENSÃO DE TRANSFERIR OS VEÍCULOS DE SEU NOME PARA O DE SUA EMPRESA - SENTENÇA DE PROCEDÊNCIA - RECURSO - DANO MORAL INEXISTENTE - RECURSO PROVIDO.
+A indenização de danos morais deve representar uma compensação por uma efetiva lesão extrapatrimonial sofrida e não pode ser confundida com uma punição (punitive damages) ao agente. A presunção de dano moral sem comprovação de que um componente da personalidade do autor foi atingido de maneira relevante, no fundo, acaba por substituir, implicitamente, a compensação por punição, que só é admitida no direito anglo-saxão, em casos de dolo, fraude, malícia ou outra conduta especialmente grave.
+No caso, o autor pretendia apenas a transferência de dois veículos de sua propriedade para a de sua empresa. Embora tenha que ter demandado o réu para obter o que pretendia, usufruiu plenamente dos veículos no período e sofreu aborrecimentos e desgostos de ordem meramente burocrática.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 186, 187 e 927 do Código Civil; 14, caput e § 3º, II, e 17 da Lei 8.078/90; 11, 489, §1º, I, II e IV, e 1.025 do Código de Processo Civil.
+Sustenta existir responsabilidade objetiva da empresa em razão de indevido lançamento de gravame por alienação fiduciária, uma vez que o bem onerado não foi objeto de qualquer relação contratual com a recorrida. Argumenta que seus bens essenciais ao trabalho foram gravados por alienação fiduciária em virtude de um contrato que não participou o que lhe causou prejuízos.
+Alega que deve ser afastada a condenação em multa por embargos de declaração protelatórios, visto que não teria sido demonstrado os motivos pelos quais foram assim considerados.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 424.
+Crivo positivo de admissibilidade na origem (fls. 435-437).
+É o relatório.
+DECIDO.
+2. As matérias referentes aos arts. 14, caput e § 3º, II, e 17 da Lei 8.078/90; 11, 489, §1º, I, II e IV, e 1.025 do Código de Processo Civil não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+3. Ao decidir sobre configuração de danos morais, assim se manifestou o tribunal de origem:
+Dano moral sempre é um tema controvertido, não só quanto aos seus limites, como também quanto à quantificação da indenização.
+Uma coisa é certa, dano moral e punição são noções absolutamente distintas. A doutrina do caráter pedagógico punitivo é importada do direito anglo-saxão, onde é conhecida por punitiva damages. Naquele sistema da common law, a indenização punitiva cabe apenas em hipóteses muito específicas e restritas, e exige sempre a presença de dolo, malícia, fraude ou outra conduta especialmente grave. Não há nenhuma possibilidade de aplicar caráter pedagógico punitivo em condutas decorrentes de mera culpa.
+No caso dos autos, a conduta que causou embaraços ao autor foi pautada por um equívoco, causado, possivelmente, por descontrole administrativo, ou seja, por culpa, não se admitindo punitive damages na espécie.
+Faço essa observação preliminar porque não se pode condenar em danos morais sob esse pretexto, e usá-lo, inclusive como razão de decidir, ou seja, uma conduta que não gera dano moral não pode ser agravada com uma condenação punitiva que é transformada em reparação extrapatrimonial.
+Qual teria sido, na hipótese deste processo, o dano moral sofrido pelo autor
+Nenhum, penso eu. Não se nega que a situação lhe causou transtornos, aborrecimento e o forçou a corrigir o problema em juízo, mas isso, por si só, não configura dano moral. Se assim fosse, praticamente todo cidadão que fosse a juízo demandar contra alguém e vencesse a ação teria direito a uma compensação moral.
+Veja-se que o autor apenas pretendia transferir a propriedade de dois veículos seus para sua própria empresa (p. 16/19). Durante esse período, esteve na posse dos veículos e deles desfrutou como quis. Não há comprovação de que os veículos tenham ficado parados no período em que não houve renovação do licenciamento e em nenhum momento no processo se falou que o autor tenha sido humilhado pela anotação indevida da averbação equivocada da alienação fiduciária nos assentos do órgão de trânsito, ou que ele tenha sofrido moralmente por essa razão.
+Tudo não passou de um aborrecimento burocrático, sem efeito na sua rotina diária. O que ocorre é que, ao invés de demandar e requerer o ressarcimento dos honorários advocatícios que contratou e outras despesas eventuais, preferiu o caminho de pleitear reparação de danos morais.
+Não desconheço a existência de entendimento diverso, de nosso Tribunal, inclusive transcrito pelo magistrado na sua sentença, mas insisto neste ponto: o dano moral precisa ser demonstrado, ele não é evidente, dada vênia. A condenação não pode constituir um castigo (punitive damages) para o réu e sim C o reconhecimento de uma lesão extrapatrimonial que precisa ser compensada. A presunção de dano moral traz ínsita essa problemática e não é à toa que tanto se fala em indústria de dano moral no país. (fls. 286-288 e-STJ)
+Concluiu pela impossibilidade de condenar a parte recorrida ao pagamento de indenização por danos morais, visto que não foi comprovado que a parte recorrente tenha sofrido lesão extrapatrimonial indenizável.
+Alterar tal conclusão para passar a afirmar existir dano moral em razão de inscrição indevida de gravame no registro de veículo demanda incursão na seara fático-probatória, atividade não realizável nesta via especial. Incidência da súmula 7/STJ.
+Acrescente-se que o entendimento desta Corte em casos não identicos mas aproximados ao dos autos é no sentido de que somente se comprovada a existência da lesão extrapatrimonial em razão de baixa de gravame atrasada é que deverá ser reconhecido dano moral.
+ A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO REQUERENTE.
+1. O Tribunal de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15. 2. Esta Corte Superior firmou posicionamento no sentido de que a baixa de demora de gravame de veículo adquirido por alienação fiduciária não configura dano moral in re ipsa. Incidência da Súmula 83/STJ.
+2.1. No caso em tela, a revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a inexistência de circunstâncias outras a comprovar o dano sofrido. Incidência da Súmula 7/STJ.
+2.2. Esta Corte de Justiça tem entendimento no sentido de que a incidência do referido óbice impede o exame do dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no REsp 1666231/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/06/2019, DJe 06/06/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.
+RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. BAIXA DE GRAVAME.
+INEXISTÊNCIA DE DANO MORAL IN RE IPSA. SÚMULA N. 83/STJ. DECISÃO MONOCRÁTICA. NÃO COMPROVAÇÃO DE DISSÍDIO JURISPRUDENCIAL. DECISÃO MANTIDA.
+1. A simples demora na baixa do gravame de alienação fiduciária de automóvel não é suficiente para ensejar dano moral, devendo ser demonstrada a presença de circunstâncias que ultrapassem o mero aborrecimento. Precedentes.
+2. Decisão monocrática não serve como paradigma para dissídio jurisprudencial 3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1698496/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/05/2019, DJe 10/06/2019)
+4. Ante o exposto, conheço em parte do recurso especial e nego-lhe provimento.
+Intimem-se. Publique-se.
