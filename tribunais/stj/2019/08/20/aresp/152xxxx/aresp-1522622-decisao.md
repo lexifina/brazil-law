@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+MANDADO DE SEGURANÇA LICITAÇÃO TERRACAP REGULARIZAÇÃO FUNDIÁRIA VENDA DIRETA EDITAL IMÓVEL NÃO CONTEMPLADO LEGALIDADE ALTERAÇÃO NOVA PUBLICAÇÃO REABERTURA DO PRAZO PARA APRESENTAÇÃO DE PROPOSTAS DIREITO LÍQUIDO E CERTO AUSÊNCIA
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 21, § 4º, e 40, VI, da Lei n. 8.666/93, no que concerne à alegação de modificação do edital licitatório, trazendo o(s) seguinte(s) argumento(s):
+Insta salientar que com o deferimento da decisão que ampliou os requisitos já quase no final do prazo de apresentação de propostas, não houve tempo hábil para encaminhar a proposta juntamente com a documentação pertinente. Note-se que restaram apenas 06 (seis) dias úteis para a apresentação da proposta.
+E o que é mais grave, ainda que houvesse tempo hábil, o lote do Impetrante não está inserido no Edital, ou seja, não consta na lista dos imóveis a serem regularizados, pois se encontra sem edificação. Assim, ainda que o prazo para apresentar as propostas fosse viável, seria impossível a elaboração da proposta, por não constar na listagem daquele Edital o bem imóvel ocupado pelo o ora Autor (fl. 265). (grifo acrescido)
+É o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
