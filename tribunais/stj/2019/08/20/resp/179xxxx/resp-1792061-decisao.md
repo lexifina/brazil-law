@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer c/c indenização por danos morais, fundada na indevida negativa de fornecimento do medicamento prescrito para tratamento de Hepatite C.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. As operadoras de plano de saúde não estão obrigadas a fornecer medicamento não registrado na ANVISA. Tema repetitivo 990. Precedentes. Ante o entendimento dominante do tema, aplica-se, no particular, a Súmula 568/STJ.
+4. Recurso especial conhecido e parcialmente provido.
+DECISÃO
+Cuida-se de recurso especial interposto por UNIMED-RIO - COOPERATIVA DE TRABALHO MÉDICO DO RIO DE JANEIRO LTDA., fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 13/11/2017.
+Concluso ao gabinete em: 12/04/2019.
+Ação: de obrigação de fazer c/c indenização por danos morais com pedido de tutela antecipada para autorização de tratamento com o medicamento prescrito, ajuizada por [NOME], em face da recorrente, fundada na indevida negativa de fornecimento do medicamento prescrito para tratamento de Hepatite C.
+Sentença: julgou parcialmente procedente o pedido para tornar definitiva a antecipação concedida e condenar a recorrente ao fornecimento do medicamento prescrito pelo período de 12 semanas.
+Acórdão: deu provimento à apelação interposta pela recorrida para condenar o recorrente a pagar indenização por danos morais no valor de R$5.000,00, e negou provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. RELAÇÃO DE CONSUMO. PLANO DE SAÚDE. AUTORA ACOMETIDA DE HEPATITE C CRÔNICA. AUSÊNCIA DE RESPOSTA AOS MEDICAMENTOS CONVENCIONAIS UTILIZADOS. RECUSA DA PARTE RÉ EM ARCAR COM MEDICAMENTO IMPORTADO E NÃO REGISTRADO NA ANVISA. AUSÊNCIA DO REGISTRO NA ANVISA NÃO AFASTA O DEVER DE FORNECIMENTO DO MEDICAMENTO, ANTE A FALTA DE ALTERNATIVA PARA MELHOR TRATAR A DOENÇA E PRESERVAR A VIDA DA AUTORA. O FATO DE O MEDICAMENTO NÃO POSSUIR REGISTRO NA ANVISA NÃO PODE SERVIR COMO ESCUSA PARA O CUMPRIMENTO DE SUA OBRIGAÇÃO LEGAL DE PROMOVER O TRATAMENTO ADEQUADO AO SEGURADO. AS RESOLUÇÕES DA ANVISA E DA ANS NÃO PODEM SE SOBREPOR ÀS NORMAS CONTIDAS EM LEI ORDINÁRIA FEDERAL, A SABER, LEI Nº 9.656/98, BEM COMO AO CDC. FALHA NA PRESTAÇÃO DOS SERVIÇOS. MERO ABORRECIMENTO ULTRAPASSADO. DANOS MORAIS VERIFICADOS, CUJA INDENIZAÇÃO ORA SE FIXA EM R$5.000,00. SENTENÇA DE PROCEDÊNCIA PARCIAL QUE SE REFORMA NO QUE SE REFERE AOS DANOS MORAIS. RECURSOS CONHECIDOS. PROVIDO O DA AUTORA E DESPROVIDO O DO RÉU.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação do art. 1.022, II, do CPC/15, do art. 10, V e VI, da Lei 9.656/98, do art. 12 da Lei 12 da Lei 6.360/76 e dos arts. 186, 927 e 944, do CC/02.
+Além de negativa de prestação jurisdicional, sustenta que não poderia ser obrigada a fornecer medicamentos importados não registrados na ANVISA e ministrado fora do ambiente hospitalar. Aduz ainda que não teria praticado qualquer ilícito, tendo em vista a legitimidade de sua recusa.
+Admissibilidade: o recurso foi admitido na origem pelo TJ/RJ.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca do fornecimento de medicamento importado não registrado na ANVISA (e-STJ fls. 746/750), de maneira que os embargos de declaração opostos pelo agravante/recorrente de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da legitimidade da recusa da operadora de plano de saúde em custear medicamento importado (não nacionalizado) sem o devido registro na ANVISA - Tema 990 (Súmula 568/STJ)
+A Segunda Seção do STJ firmou entendimento, segundo a sistemática dos recursos repetitivos, no sentido de que as operadoras de plano de saúde não estão obrigadas a fornecer medicamento não registrado na ANVISA (Tema 990 - REsp 1712163/SP e REsp 1726563/SP, Segunda Seção, DJe de 26/11/2018).
+Na hipótese, o Tribunal de origem entendeu que "o fato de o medicamento não ter registro na ANVISA não poderia, em casos específicos como o destes autos, servir de escusa para o cumprimento da obrigação" e que "tampouco há que se falar em vedação legal em sede penal quanto à importação de medicamento sem registro na ANVISA" (e-STJ, fl. 746), mantendo a condenação da operadora de plano de saúde/recorrente em custear a importação de medicamento não nacionalizado, em dissonância com o entendimento dominante sobre o tema nesta Corte. Aplica-se, portanto, a Súmula 568/STJ no particular.
+Forte nessas razões, com fundamento no art. 932, V, "b", do CPC/2015, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, para determinar o retorno dos autos ao Tribunal de origem para que proceda novo julgamento da apelação interposta, na esteira do devido processo legal, à luz da jurisprudência do STJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
