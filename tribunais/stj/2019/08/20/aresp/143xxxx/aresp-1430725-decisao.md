@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 390/395).
+O acórdão recorrido está assim ementado (e-STJ fl. 260):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E ESTÉTICOS - PRELIMINAR DE ILEGITIMIDADE PASSIVA - ACIDENTE COM VEÍCULO DE FRANQUEADA - RESPONSABILIDADE SOLIDÁRIA DA FRANQUEADORA - REJEITADA.
+I) A solidariedade entre a franqueadora e a franqueada existe quando evidenciado o defeito decorrente da prestação dos serviços da franquia, sobre os quais aquela tem o dever de controle e fiscalização - o que efetivamente se aplica para a hipótese, na medida em que a empresa franqueada estava prestando serviço em nome da ora apelante quando ocorreu o sinistro, sendo a identificação para terceiros restrita ao logotipo e marca da franqueadora.
+II) Preliminar rejeitada.
+MÉRITO - ACIDENTE DE TRÂNSITO - FALTA DE PRUDÊNCIA EM ULTRAPASSAGEM DE BICICLETA - COLISÃO COM OFENSA À INTEGRIDADE FÍSICA DO CICLISTA - QUANTUM INDENIZATÓRIO MANTIDO - MONTANTE RAZOÁVEL - RECURSO IMPROVIDO.
+I) Deve ser atribuída a culpa ao condutor que ultrapassa ciclista sem a devida cautela, não observando distância de segurança e direção defensiva, provocando colisão e consequentes machucados pela queda. Ofensa especialmente ao artigo 29, XI, "b", e § 2º, do CTB. Embora o ciclista não seja eximido do dever de conduzir com prudência e atenção, conta com a presunção de que os demais se comportem de maneira correta, de maneira que a obrigação de diligência se transfere àqueles que transitam em veículos motorizados.
+II) Constatado que o valor fixado na sentença a título de indenização por danos morais (R$ 8.000,00) demonstra razoabilidade e proporcionalidade com a situação vivenciada pelo autor, além de ser compatível com os valores aceitos pela jurisprudência em casos similares, não se admite a sua modificação.
+III) Recurso conhecido, mas improvido. Sentença mantida.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 292/300).
+Nas razões do recurso especial (e-STJ fls. 306/346), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de dissídio jurisprudencial, ofensa aos arts. 265 do CC/2002 e 6º da Lei n. 8.955/1994. Argumentou que "o v. acórdão impõe a responsabilidade solidária à Recorrente, mesmo que não haja norma ou disposição contratual neste sentido, sendo flagrante a violação ao artigo mencionado 265 do Código Civil, bem como violação à liberdade de contratação na forma prevista na Lei 8.955/1994" (e-STJ fl. 317).
+Sustentou, ainda, contrariedade aos arts. 186, 187, 927 e 944, parágrafo único, do CC/2002. Defendeu que a indenização por danos morais teria sido fixada em valor excessivo.
+No agravo (e-STJ fls. 397/413), afirma a presença de todos os requisitos de admissibilidade do especial.
+O recorrido apresentou contraminuta (e-STJ fls. 416/425).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+O Tribunal de origem concluiu que "a solidariedade entre a franqueadora e a franqueada existe quando evidenciado o defeito decorrente da prestação dos serviços da franquia, sobre os quais aquela tem o dever de controle e fiscalização - o que efetivamente se aplica para a hipótese, na medida em que a empresa franqueada (Bertuzzo & Cia LTDA - ME) estava prestando serviço em nome da ora apelante quando ocorreu o sinistro, fato este incontroverso nos autos" (e-STJ fl. 263).
+Tal entendimento encontra-se em consonância com a jurisprudência do STJ, para a qual "cabe às franqueadoras a organização da cadeia de franqueados do serviço, atraindo para si a responsabilidade solidária pelos danos decorrentes da inadequação dos serviços prestados em razão da franquia" (REsp n. 1426578/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/6/2015, DJe 22/9/2015). Confira-se a ementa do referido julgado:
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. FRANQUIA. RESPONSABILIDADE CIVIL PERANTE TERCEIROS. APLICAÇÃO DO CDC. INCIDÊNCIA.
+1. Os contratos de franquia caracterizam-se por um vínculo associativo em que empresas distintas acordam quanto à exploração de bens intelectuais do franqueador e têm pertinência estritamente inter partes.
+2. Aos olhos do consumidor, trata-se de mera intermediação ou revenda de bens ou serviços do franqueador - fornecedor no mercado de consumo, ainda que de bens imateriais.
+3. Extrai-se dos arts. 14 e 18 do CDC a responsabilização solidária de todos que participem da introdução do produto ou serviço no mercado, inclusive daqueles que organizem a cadeia de fornecimento, pelos eventuais defeitos ou vícios apresentados. Precedentes.
+4. Cabe às franqueadoras a organização da cadeia de franqueados do serviço, atraindo para si a responsabilidade solidária pelos danos decorrentes da inadequação dos serviços prestados em razão da franquia.
+5. Recurso especial não provido.
+Também nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS DECORRENTES DE PROCEDIMENTO ESTÉTICO REALIZADO POR EMPRESA FRANQUEADA. RESPONSABILIDADE SOLIDÁRIA DA FRANQUEADORA. CDC, ARTS. 14 E 18. RECURSO NÃO PROVIDO.
+1. Cuida-se de ação de reparação por danos materiais e morais decorrentes de procedimento estético, inicialmente proposta apenas contra a empresa franqueada. A franqueadora, contudo, interveio espontaneamente nos autos, e foi admitida como assistente litisconsorcial.
+2. A Corte de origem julgou procedente a pretensão indenizatória em relação à franqueada, mas entendeu não ser possível reconhecer a responsabilidade solidária da franqueadora, sob o fundamento de que o contrato de franquia, por si só, não faz presumir relação de consumo entre a franqueadora e a autora da ação.
+3. O Superior Tribunal de Justiça, todavia, já decidiu pela responsabilidade solidária da franqueadora pelos danos decorrentes dos serviços prestados em razão da franquia. Com efeito, "Extrai-se dos arts. 14 e 18 do CDC a responsabilização solidária de todos que participem da introdução do produto ou serviço no mercado, inclusive daqueles que organizem a cadeia de fornecimento, pelos eventuais defeitos ou vícios apresentados" (REsp 1.426.578/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 22.9.2015).
+4. Nos termos do art. 54 do CPC/73, o assistente litisconsorcial é considerado litisconsorte, configurando hipótese de litisconsórcio unitário facultativo ulterior, conforme a lição de Fredie Didier Jr. Ademais, já é reconhecida, nesta Corte, a responsabilidade solidária nas hipóteses de assistência litisconsorcial. Precedentes.
+5. No caso dos autos, consta que a sociedade franqueadora, intervindo voluntariamente na demanda, foi admitida como assistente litisconsorcial e, nessa condição, contestou a ação e participou da instrução probatória, inclusive manifestando-se sobre o laudo pericial, não sendo a hipótese, portanto, de assistência simples.
+6. Agravo interno não provido.
+(AgInt no AREsp 278.198/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/6/2019, DJe 28/6/2019.)
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE RESCISÃO CONTRATUAL C/C PERDAS E DANOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS.
+1. Incidência dos óbices das súmulas 5 e 7/STJ no tocante à tese de ilegitimidade passiva. Tribunal local que, com amparo nos elementos de convicção dos autos, entendeu pela responsabilidade solidária da franqueadora, porquanto aos olhos dos clientes se confunde com a empresa franqueada (teoria da aparência). Impossibilidade de reexame de fatos e provas, além da interpretação de cláusula contratual.
+2. Não bastasse, esta Corte possui julgado no sentido de ser solidária a responsabilidade da franqueadora pelos danos decorrentes em razão da franquia. Ademais, essa interpretação vem sendo acolhida por este Tribunal Superior em situações que se correspondem por compreender relações empresariais associativas entre aqueles apontados no polo passivo das respectivas demandas.
+Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 398.786/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/2/2016, DJe 23/2/2016.)
+Incide, portanto, a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c", quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+De outro lado, em relação ao valor da indenização por danos, somente em hipóteses excepcionais, quando irrisória ou exorbitante a quantia arbitrada na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7/STJ para possibilitar a revisão. Sobre o tema:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO. DANO MORAL. PUBLICAÇÃO DE MATÉRIA DEPRECIATIVA EM REVISTA. OFENSA AO DIREITO DE IMAGEM E À DIGNIDADE PROFISSIONAL. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. RESPONSABILIDADE. CONFIGURAÇÃO. ABUSO DO DIREITO DE EXPRESSÃO. SÚMULA 7/STJ. VALOR INDENIZATÓRIO ARBITRADO DE FORMA RAZOÁVEL. AGRAVO IMPROVIDO.
+1. A decisão em desconformidade com os interesses da parte não autoriza, por si só, o acolhimento de embargos de declaração e tampouco sua rejeição importa em violação ao art. 535 do CPC/73.
+2. O Tribunal de origem concluiu pela responsabilidade da agravante por ofensa à imagem e à dignidade profissional do agravado em razão de publicação de matéria depreciativa. Infirmar tais conclusões do Tribunal de origem demandaria o revolvimento do suporte fático-probatório dos autos. Incidência da Súmula 7/STJ.
+3. Somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+4. No caso, o montante estabelecido pelo Tribunal de origem em R$ 30.000, 00 (trinta mil reais) não se mostra excessivo, a justificar sua reavaliação em recurso especial. 5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.480.340/SP, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/6/2018, DJe 29/6/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA INDEVIDA DE COBERTURA DE TRATAMENTO MÉDICO. DANO MORAL CONFIGURADO. ACÓRDÃO ATACADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. QUANTUM INDENIZATÓRIO. VALOR RAZOÁVEL. REVISÃO. IMPOSSIBILIDADE. DECISÃO AGRAVADA MANTIDA. AGRAVO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser passível de indenização a título de danos morais a recusa indevida/injustificada pela operadora do plano de saúde em autorizar a cobertura financeira de tratamento médico. Incidência da Súmula n. 83 do STJ.
+2. O valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais somente pode ser revisto em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a condenação, distanciando-se dos padrões de razoabilidade, o que não se evidencia no caso em tela. Decisão agravada mantida.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.195.093/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/6/2018, DJe 22/6/2018.)
+No caso, o valor estabelecido pelo colegiado estadual em R$ 8.000,00 (oito mil reais) não se mostra excessivo a justificar a reavaliação, em recurso especial, da verba reparatória fixada.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem, em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
