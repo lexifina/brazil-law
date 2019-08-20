@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FUNASA - FUNDAÇÃO NACIONAL DE SAÚDE, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 61):
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. ADICIONAL DE TEMPO DE SERVIÇO: FUNASA. LEGITIMIDADE PASSIVA.
+A 2ª Seção deste Tribunal já entendeu pela legitimidade passiva das autarquias e fundações federais, em litisconsórcio necessário com a União.
+Embargos de declaração rejeitados (e-STJ fls. 70/74).
+Em suas razões (e-STJ fls. 76/84), a parte recorrente aponta violação dos arts. 535, II, e 472 do CPC/1973 e do art. 11 da Lei n. 8.689/1993. Afirma não possuir legitimidade para figurar no polo passivo da execução, considerando que não participou da ação de conhecimento ajuizada pelo SINDISERF/RS contra o INAMPS, sendo que, após a extinção, o INAMPS foi sucedido pela União.
+Sem contrarrazões (e-STJ fl. 86)
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fl. 87/88.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+No caso, o recurso especial foi interposto contra decisão publicada anteriormente à vigência do Código de Processo Civil de 2015 (e-STJ fl. 75).
+Feitas essas considerações, passo à análise da pretensão recursal.
+No tocante ao art. 535 do CPC/1973, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 719.983/PE, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 19/04/2016, DJe 26/04/2016; e AgRg no AREsp 811.706/PR, Rel. Ministra DIVA MALERBI  Desembargadora Convocada TRF da 3ª Região  , Segunda Turma, julgado em 07/04/2016, DJe 15/04/2016).
+Quanto às demais alegações, assiste razão à parte insurgente.
+Com feito, o Superior Tribunal de Justiça já decidiu que, nas execuções oriundas de ação coletiva proposta contra o INAMPS, em que se objetiva a cobrança de anuênios decorrentes do cômputo do tempo de serviço prestado sob o regime celetista, a FUNASA não possui legitimidade passiva, devendo figurar no polo passivo apenas a União, por ter sucedido o INAMPS, nos termos do art. 11 da Lei n. 8.689/1993. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA AJUIZADA APENAS CONTRA A UNIÃO. REAJUSTE DE 28,86%. CONDENAÇÃO GENÉRICA. INCLUSÃO DA FUNASA NO POLO PASSIVO DA EXECUÇÃO. IMPOSSIBILIDADE. ILEGITIMIDADE PASSIVA AD CAUSAM. PRECEDENTES DO STJ.
+1. A autarquia federal não possui legitimidade para figurar no pólo passivo da liquidação e execução de sentença genérica proferida apenas contra a União, em ação civil pública, na qual se objetivou o pagamento do reajuste de 28,86%, porquanto, por ser pessoa jurídica distinta da União, possui autonomia administrativa e financeira. Precedente: AgRg no REsp 1.233.392/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 26/10/2011.
+2. Agravo interno não provido. (AgInt no REsp 1.535.308/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 10/09/2018).
+PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. COBRANÇA DE ANUÊNIOS DECORRENTES DO RECONHECIMENTO DO TEMPO DE SERVIÇO LABORADO SOB O REGIME CELETISTA. FUNASA. ILEGITIMIDADE. EFICÁCIA SUBJETIVA DA COISA JULGADA. ART. 472 DO CPC.
+1. A Funasa não possui legitimidade para figurar no polo passivo de execução de sentença proferida em ação coletiva proposta contra a União - sucessora do extinto Inamps -, por meio da qual se objetiva o cômputo do tempo de serviço laborado sob o regime celetista e o pagamento dos respectivos anuênios.
+2. Nos termos do art. 472 do CPC, a sentença somente faz coisa julgada entre as partes que tenham figurado na relação processual a ela subjacente, não beneficiando nem prejudicando terceiros. É o que se convencionou chamar de eficácia subjetiva da coisa julgada.
+3. Não cabe à Funasa responder por dívida constituída em nome da União e compreensiva dos cinco anos anteriores ao próprio ajuizamento da demanda, período em que o autor sequer estava vinculado a essa autarquia.
+4. Os anuênios cobrados referem-se a período em que o embargado ainda estava vinculado ao extinto Inamps. Assim, são devidos pela União, como sucessora legal daquela autarquia, e não podem ser cobrados da Funasa, ainda que o embargado hoje a ela esteja vinculado, sobretudo se o trânsito em julgado operou-se exclusivamente contra a União. Precedentes das Turmas que compõem a Terceira Seção.
+5. Agravo regimental provido, divergindo do eminente Relator. (AgRg no REsp 1.205.549/RS, Rel. p/ Acórdão Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe 06/09/2011).
+Ainda, no mesmo sentido: REsp 1.213.422/RS, Relator Ministro SÉRGIO KUKINA, DJe 20/10/2016; REsp 1.535.308/RS Relator Ministro BENEDITO GONÇALVES, DJe 10/04/2018; REsp 1.276.836/RS, Relator Ministra REGINA HELENA COSTA, 30/11/2017.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO para restabelecer a sentença de primeiro grau.
+Publique-se. Intimem-se.
