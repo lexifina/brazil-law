@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pela COMPANHIA PAULISTA DE FORÇA E LUZ contra decisão que inadmitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão do Tribunal de Justiça de São Paulo assim ementado:
+ANULATÓRIA DE DÉBITO FISCAL. Adesão ao Programa Especial de Parcelamento - PEP/ICMS, instituído pelo Decreto n. 58.811/12. Verba honorária incluída quando da quitação do parcelamento (5%). Situação não se confunde com honorários devidos em ação autônoma ajuizada pela devedora. R. decisão determinando o pagamento das verbas de sucumbência impostas na demanda, mantida. Precedentes. Recurso não provido, cassado o efeito inicialmente concedido.
+Nas razões do especial, alega violação do art. 171 do CTN, bem como dissídio jurisprudencial, insurgindo-se contra a condenação ao pagamento de honorários advocatícios na demanda anulatória, tendo em visto que a referida verba já foi incluída quando da quitação do parcelamento instituído pelo Decreto n. 58.811/12. Dessa forma, sustenta que a cobrança dos honorários pela Fazenda estadual represente verdadeiro bis in idem.
+Com contrarrazões ao recurso especial, este foi inadmitido, ante a aplicação da Súmula 280 do STF; fundamento com o qual não concorda a agravante.
+Contraminuta apresentada às e-STJ fls. 174/182.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Feita essa consideração, cabe ressaltar que o recurso especial se origina de agravo de instrumento interposto contra decisão interlocutória que determinou o pagamento dos honorários advocatícios fixados na ação anulatória ajuizada pela agravante, a despeito de a empresa ter aderido ao programa especial de parcelamento tributário instituído pelo Decreto n. 58.811/12, que também prevê o recolhimento da verba.
+O Tribunal de Justiça do Estado de São Paulo negou provimento ao referido agravo. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 108/110):
+Volta-se o inconformismo contra r. decisão, em anulatória de débito fiscal, determinando o pagamento das verbas de sucumbência impostas na demanda, em que pese o parcelamento instituído pela Fazenda (PEP/ICMS).
+Entende a agravante ser indevida essa exigência, uma vez que a verba honorária já fora incluída quando da quitação do parcelamento, conforme previsto no Decreto nº 58.811/12.
+Sem razão, contudo.
+Assim se tem decidido nesta Eg. 6ª Câmara de Direito Público quanto ao ponto:
+"É certo que o Decreto nº 58.811/2012 em seu artigo 8º, inciso I, prevê que:
+"Art. 8º - A concessão dos benefícios previstos neste decreto:
+I - não dispensa, na hipótese de débitos ajuizados, a efetivação de garantia integral da execução fiscal, bem como o pagamento das custas, das despesas judiciais e dos honorários advocatícios, ficando estes reduzidos para 5% (cinco por cento do valor do débito fiscal)."
+"Entretanto, subsiste a condenação da verba honorária imposta na ação anulatória de débito fiscal."
+"Como já dito, a agravante aderiu ao PEP, após o julgamento da ação de conhecimento, na qual a Fazenda do Estado teve que apresentar contestação e contrarrazões ao recurso de apelação."
+"Portanto, ainda que a parte tenha desistido da ação em razão da adesão ao PEP e promovido a quitação do débito, deve arcar com a sucumbência, pois deu causa à ação e fez que o Estado suportasse ônus indevidamente. Não se trata, pois, de "bis in idem"."
+"O art. 26 do Código de Processo Civil prevê que: "Se o processo terminar por desistência ou reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu ou reconheceu".
+"A questão referente à verba honorária está vinculada à idéia de causalidade e, se a pretensão da agravante não foi acolhida, deve ser imputada a ela os ônus da sucumbência."
+"Ou seja, aquele que deu causa à propositura da ação, ou à instauração de incidente processual deve responder pelas despesas daí decorrentes, bem como pela verba honorária, satisfeitos os requisitos do artigo 20, § 3o e alíneas "a", "b" e "c" e § 4o, do CPC." (AI nº 2.122.241-54.2014.8.26.0000 v.u. j. de 15.09.14 Rei. Des. REINALDO MILUZZI). No mesmo sentido: AI nº 990.10.178121-2 v.u. j. de 24.05.10 - Rel. Des. LEME DE CAMPOS.
+Mais não é preciso acrescentar.
+Pois bem.
+Em primeiro lugar, observa-se que a agravante ampara sua tese na redação estabelecida pelo art. 171 do CTN, segundo a qual: "a lei pode facultar, nas condições que estabeleça, aos sujeitos ativo e passivo da obrigação tributária celebrar transação que, mediante concessões mútuas, importe em determinação de litígio e conseqüente extinção de crédito tributário".
+Assim, defende que sua adesão ao programa especial de parcelamento (PEP/ICMS) configura espécie de transação realizada com o Fisco estadual e que foi regulamentada por meio do Decreto n. 58.811/12, cujo art. 8º, I, previu o pagamento, por parte do aderente, das custas e despesas processuais, bem como dos honorários advocatícios no patamar de 5% do valor do débito fiscal.
+Ocorre que, da leitura do acórdão supra, verifica-se claramente que a instância ordinária não analisou a incidência da verba honorária à luz do disposto no art. 171 do CTN, ao tempo em que não foram opostos embargos de declaração pela parte insurgente, para fins de prequestionamento da tese apresentada.
+Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação analógica da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Acresço, por oportuno, que a compreensão do julgado estadual acerca da inexistência de bis in idem na condenação da agravante ao pagamento dos honorários advocatícios na presente demanda anulatória também está calcada em interpretação da legislação local de regência (Decreto n. 58.811/12 ), cuja revisão é inviável no âmbito do recurso especial, consoante inteligência da Súmula 280 do STF.
+Finalmente, é inviável o conhecimento do dissídio jurisprudencial, na hipótese em que os acórdãos alçados como paradigmas tenham sido proferidos pelo mesmo Tribunal cujo julgamento se desafia. Logo, aplica-se o disposto na Súmula 13 do STJ, quanto ao ponto.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
