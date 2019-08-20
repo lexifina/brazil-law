@@ -1,0 +1,37 @@
+DECISÃO
+[NOME] agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação n. 0039325-68.2013.8.24.0038.
+Nas razões do especial, a defesa sustentou a violação do art. 44, § 2º, primeira parte, ao argumento de que, estabelecida sanção privativa de liberdade em patamar não superior a 1 ano, a reprimenda, pela prática do crime previsto no art. 306 do CTB, deveria ser substituída exclusivamente por multa, por ser tal opção mais favorável ao recorrente.
+Requereu, então, a substituição da pena de detenção exclusivamente por multa.
+O especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal local, por incidência da Súmula n. 211 do STJ, o que ensejou a interposição deste agravo.
+O agravante aduz que o art. 1.025 do Novo CPC, "que deu nova disciplina ao requisito do prequestionamento, admitiu como prequestionada a matéria suscitada nos embargos de declaração e não enfrentada pelo Tribunal" (fl. 231).
+O Ministério Público Federal opinou, às fls. 260-265, pelo não provimento do agravo.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão atacada, razões pelas quais comporta conhecimento.
+O especial, por sua vez, também é tempestivo e preenche os requisitos constitucionais, legais e regimentais para seu processamento.
+Depreende-se dos autos que o recorrente foi condenado a 6 meses de detenção, em regime aberto, além de 10 dias-multa e de suspensão da habilitação para dirigir veículo automotor pelo período de 2 meses, por incursão no art. 306 da Lei n. 9.503/1997. A pena privativa de liberdade foi substituída por prestação pecuniária no valor de dois salários mínimos.
+Inconformada, a defesa apelou à Corte local, que negou provimento ao recurso e, de ofício, adequou a prestação pecuniária.
+Quanto ao pedido de substituição da privativa de liberdade por multa, o acórdão assim assentou (fl. 170)
+Em pleito subsidiário requer a substituição da pena privativa de liberdade por multa.
+No entanto, o pleito de substituição da pena não possui fundamento.
+Isso porque, analisando a sentença de fls. 87-94 constata-se que o juízo a quo efetuou a conversão da pena privativa de liberdade em restritiva de direitos na modalidade de prestação pecuniária. Nesta conversão, arbitrou a prestação pecuniária no importe de 2 (dois) salários mínimos.
+Dessa forma, ausente o interesse recursal, não se conhece da insurgência neste ponto.
+Ao não conhecer dos embargos declaratórios opostos pelo insurgente, o Tribunal a quo consignou (fl. 193):
+Ademais, convém frisar, que o art. 44, § 2º, do Código Penal ao prever a possibilidade de substituição da reprimenda por uma pena restritivas de direitos ou multa substitutiva, não estabelece uma ordem de preferência entre as hipóteses, de forma que a eleição da pena substitutiva a ser aplicada é ato discricionário do juiz.
+O art. 44, § 2º, do CP estabelece: "na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a um ano, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos".
+Como se vê, constitui direito subjetivo do acusado a substituição da pena privativa de liberdade, se forem atendidos os requisitos previstos naquele dispositivo.
+Assim, o magistrado deve fundamentar a escolha que faz entre as alternativas legais: a) prestação pecuniária; b) perda de bens e valores; c) prestação de serviço à comunidade ou a entidades públicas; d) interdição temporária de direitos; e) limitação de finais de semana.
+Quanto ao tema, esta Corte Superior entende: "Preenchidos os requisitos para a substituição da pena corporal por restritiva de direitos, mas estabelecida a sanção corporal abaixo de 1 (um) ano, a substituição pode ser feita por multa ou por medida restritiva, cabendo a escolha ao magistrado sentenciante, no exercício da discricionariedade vinculada, desde que apresente fundamentação adequada"(AgRg no HC n. 415.618/SC, Rel. Ministro Jorge Mussi, 5ª T., DJe 4/6/2018, grifei)
+Ainda assim, "Se ao tipo penal é cominada pena de multa cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação da multa substitutiva prevista no art. 44, § 2º, 2ª parte do Código Penal.  ..  Hipótese em que a pena restritiva de direitos de prestação pecuniária, de índole reparadora, melhor atenderá ao caráter ressocializador da reprimenda, podendo inclusive ser convertida em pena corporal, se descumprida" (HC n. 416.530/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 19/12/2017, destaquei).
+Na espécie, o Juiz de Direito, no que foi chancelado pelo tribunal local, substituiu a pena de 6 meses de detenção por prestação pecuniária, mantida a multa cumulativa, prevista para os delitos previstos nos arts. 306 do CTB ("Conduzir veículo automotor com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência").
+Embora a instância antecedente não haja apresentado fundamentação específica para aplicar a prestação pecuniária, a jurisprudência do STJ considera não ser socialmente recomendável a aplicação da multa substitutiva em crimes cujo tipo penal prevê multa cumulativa com a pena privativa de liberdade.
+Com efeito, assim consta da Súmula n. 171 desta Corte Superior: "Cominadas cumulativamente, em lei especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa".
+Tais elementos afastam a plausibilidade jurídica do direito tido como violado, pois, afastada a possibilidade de imposição da multa substitutiva, deve ser mantida a prestação pecuniária em lugar da reprimenda corporal, de índole reparadora e passível de conversão. Nesse sentido:
+ ..
+2. Atendidos os requisitos para a substituição da pena corporal (art. 44, § 2º, do CP), o Magistrado deve escolher, mediante fundamentação idônea, a alternativa prevista em lei que mais bem atenda ao caráter ressocializador da reprimenda.
+3. Não é socialmente recomendável a aplicação de multa substitutiva em crimes cujo tipo penal já prevê multa cumulativa com a pena privativa de liberdade, hipótese em que a restritiva de direitos menos gravosa para o réu é a prestação pecuniária, de índole reparadora e passível de conversão. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no HC n. 398.255/SC, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 3/4/2019)
+ ..
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 306 DO CÓDIGO DE TRÂNSITO BRASILEIRO. PENA PRIVATIVA DE LIBERDADE. SUBSTITUIÇÃO POR MULTA. IMPOSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO PROVIDO. 1. Em se tratando de delito previsto em lei especial, constando do preceito secundário do tipo a cominação cumulativa de pena privativa de liberdade com pena pecuniária, inviável a substituição da pena corporal por multa. Inteligência da Súmula 171 do STJ (AgRg no REsp 1750730/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/08/2018, DJe 28/08/2018). 2. Agravo regimental provido para negar provimento ao agravo em recurso especial. (AgRg no AREsp n. 1.364.861/SC, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 25/4/2019)
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
