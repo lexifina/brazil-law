@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo manejado por MULLER E FONTENELE LTDA contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Eg. Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 416):
+"AGRAVO DE INSTRUMENTO. FASE DE CUMPRIMENTO DE SENTENÇA. INEXISTÊNCIA DE DÉBITO. INSCRIÇÃO INDEVIDA EM SERASA. DESCUMPRIMENTO PARCIAL. NOVA INCLUSÃO NO CADASTRO NEGATIVO DE DÉBITO. MULTA COMINATÓRIA DESARRAZOADA E DESPROPORCIONAL AO CASO CONCRETO. ADEQUAÇÃO DAS ASTREINTES NECESSÁRIA.
+1. Detectada omissão no julgado por erro material na decisão pretérita, cabem embargos de declaração com efeitos infringentes, observado o contraditório e o não rejulgamento de matéria já decidida. Precedentes;
+2. Diante das peculiaridades do caso, cumprindo-se inicialmente a retirada de inscrição em SERASA, mas ocorrendo nova inscrição no valor de R$ 69,00 (sessenta e nove reais), adequa-se a multa cominatória de R$ 354.000,00 (trezentos e cinquenta e quatro mil reais) para o valor de R$ 15.000,00 (quinze mil reais), observando-se a recalcitrância da nova inclusão, a fácil resolução por outro meio e o cumprimento somente após duas novas decisões para exclusão do débito.
+3. Precedente do STJ: AgInt nos EDcl no REsp 1406369/RS;
+4. Agravo provido em parte."
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 481-483.
+Nas razões do recurso especial, MULLER E FONTENELE LTDA aponta, além de dissídio jurisprudencial, violação aos arts. 8º e 537 do Código de Processo Civil de 2015, ao argumento, entre outros, que "(..) Reduzir uma multa no valor de R$ 354.000,00 para R$ 15.000,00 é um verdadeiro desrespeito a segurança jurídica que se espera das decisões judiciais. O valor arbitrado não representa sequer 5% (cinco por cento) do valor devido, evidenciando tamanha desproporcionalidade na aplicação dos critérios de minoração (..)". (fl. 499)
+É o relatório. Passo a decidir.
+De início, cumpre salientar que o acórdão recorrido foi publicado na vigência do novo CPC, motivo pelo qual o presente recurso será examinado à luz do Enunciado Administrativo nº 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O inconformismo não merece prosperar.
+Com efeito, ao apontar violação aos arts. 8º e 537 do CPC/2015, a recorrente sustenta que a multa foi minorada de maneira desproporcional ao valor originalmente constituído. A Corte de origem reduziu o valor das astreintes, de R$354.000,00 (trezentos e cinquenta e quatro mil reais) para R$ 15.000,00 (quinze mil reais), pelos seguintes fundamentos (fls. 419-420):
+ "Sob essas circunstâncias, em que pese o cumprimento inicial do mandado de retirada da inscrição indevida em cadastros de inadimplência em 4.12.2008 (ID 1161763), houve nova inscrição indevida de débito referente à dez/2008, posterior ao mandado de retirada e não inscrição nos cadastros de inadimplência (ID 1161758). Nesses termos, a nova inscrição indevida deflagra a incidência de multa cominatória já prolatada e mantida em segunda instância com trânsito em julgado.
+ Contudo, pelo que já se demonstrou, houve cumprimento parcial, retirando-se a inscrição indevida de início e posterior inclusão no cadastro de inadimplência. Sendo retirado posteriormente por ofício do juízo em outubro de 2009.
+ Dessa forma, incide a multa cominatória ao caso concreto, contudo seu valor de R$ 354.000,00 (trezentos e cinquenta e quatro mil reais) se mostra desarrazoada no caso concreto, de fácil determinação de cumprimento pelo próprio juízo, de ofício ou a requerimento, e com valores desproporcionais ao dano causado de inscrição indevida pelo valor de R$ 69,00 (sessenta e nova reais) (ID 1161770).
+ Com efeito, em que pese não estar a multa cominatória vinculada ao valor do dano material sofrido, este serve de parâmetro para medir a proporcionalidade da medida coercitiva. Assim, entendo ser mais proporcional ao caso concreto o limite indenizatório de R$ 15.000,00 (quinze mil reais) a título de astreintes, mais adequado à reprovação pela recalcitrância do executado em cumprir com a decisão judicial, mas sem acarretar enriquecimento indevido ao exequente." (grifou-se)
+Sobre o tema, cumpre ressaltar que o Superior Tribunal de Justiça firmou orientação no sentido de que, em regra, é inadmissível o exame do valor atribuído às astreintes, só podendo ser reavaliado em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+Todavia, essa excepcionalidade não ocorreu no caso em exame, na medida em que o valor fixado pelo Tribunal de origem corresponde a valor superior ao da obrigação principal no valor de R$ 10.000,00 (dez mil e trezentos reais). Assim, tem-se que a multa cominatória fixada em R$ 15.000,00 (quinze mil reais) não se mostra irrisória, nem desproporcional a obrigação imposta no presente caso.
+Confira-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE DESPEJO. ANTENA. RÁDIO BASE. ART. 535 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA. CUMPRIMENTO DE OBRIGAÇÃO. RETIRADA DE ANTENA. ASTREINTES. REVISÃO. SÚMULA Nº 7/STJ. EMBARGOS DE DECLARAÇÃO. MULTA. MANUTENÇÃO. DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Rever as conclusões da Corte local acerca da razoabilidade do tempo concedido para efetivar o comando judicial (obrigação de fazer) e do valor da multa cominatória demandaria o reexame do conjunto fático-probatório carreado aos autos, procedimento vedado pelo óbice da Súmula nº 7/STJ.
+3. A inadmissão do recurso especial interposto com base no art. 105, III, alínea "a", da Constituição Federal de 1988, em virtude da incidência de óbice sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica. Precedente.
+4. A oposição de embargos de declaração protelatórios autoriza a aplicação de multa.
+5. Agravo interno não provido."
+(AgInt no REsp 1698681/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/06/2019, DJe 14/06/2019 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. É lícito ao magistrado, conforme autorizado pelo § 6º do artigo 461 do CPC/73, a requerimento da parte ou de ofício, alterar o valor e a periodicidade da multa, quando entender ser esta insuficiente ou excessiva. Precedentes.
+1.1 No caso em tela, a Corte de origem reduziu o valor da multa sem, contudo, atingir patamar irrisório, porquanto observados o princípio da proporcionalidade e o da razoabilidade, sendo, portanto, inafastável a aplicação do óbice da Súmula 7 do STJ. Precedentes.
+2. Agravo interno desprovido."
+(AgInt no AREsp 1331405/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/12/2018, DJe 19/12/2018 - grifou-se)
+Por fim, tem-se que o entendimento atual desta Corte é no sentido de que a incidência da Súmula 7 do STJ é óbice também para análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+A propósito, vide o seguinte precedente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. DANOS MATERIAIS. RESPONSABILIDADE. ALTERAÇÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+(..)
+3. É impossível conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1237811/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 07/08/2018, DJe 14/08/2018 - grifou-se)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
