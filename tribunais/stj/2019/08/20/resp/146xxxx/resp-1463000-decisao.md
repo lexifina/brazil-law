@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+EMBARGOS DE DECLARAÇÃO - INOCORRÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE - INTELIGÊNCIA DO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL - IMPOSSIBILIDADE DE DESVIRTUAMENTO DOS DECLARATÓRIOS PARA OUTRAS FINALIDADES QUE NÃO A DE APERFEIÇOAMENTO DO JULGADO - RECURSO IMPROVIDO.
+1. São possíveis embargos de declaração somente se a decisão judicial ostentar pelo menos um dos vícios elencados no artigo 535 do Código de Processo Civil.
+2. O acórdão não se sujeita a embargos de declaração válidos se o objetivo do embargante é compelir o Tribunal a apreciar outros argumentos ou motivos deduzidos pela parte no recurso originário; realmente, é lição já antiga que do órgão julgador se exige apenas que apresente fundamentação suficiente para justificar a decisão apresentada, não estando obrigado a apreciar cada um dos múltiplos argumentos deduzidos pela parte. Decisão judicial não e resposta a "questionário" da parte recorrente.
+3. A inserção do nome do sócio na Certidão da Dívida Ativa não sustenta a execução contra ele, já que iniludivelmente ocorreu por conta do artigo 13 da Lei nº 8.620/93, declarado inconstitucional, razão pela qual não gera efeitos, valendo lembrar que o julgamento no âmbito do STF deu-se sob o regime do artigo 543-B do Código de Processo Civil, repercutindo, desta forma, nos casos análogos, como o presente. Restou infirmada, pois, a presunção de certeza do título executivo.
+4. Ausência de qualquer vício que contaminasse o julgado de nulidade a ponto de justificar o conhecimento dos declaratórios com efeitos infringentes.
+5. Os embargos de declaração são manifestamente improcedentes e protelatórios devendo ser aplicada a multa de 1% do valor dado à causa.
+6. Recurso improvido.
+No especial, a parte alega, em síntese, violação dos arts. 535, inciso II, e 538 do CPC/1973, sob a alegação de que, somente após a oposição dos embargos de declaração, é que sobreveio autorização do órgão competente da Procuradoria-Geral da Fazenda Nacional para a não interposição de recurso quanto à matéria tratada nos autos. Assim, entende que, demonstrada a boa-fé da União, não é cabível a imposição de multa.
+Contrarrazões apresentadas por Hidraulica Neri Ltda., nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (e-STJ fls. 838/846).
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, importa mencionar que o recurso especial se origina de agravo de instrumento interposto pela Fazenda Nacional contra decisão judicial que acolheu exceção de pré-executividade para reconhecer a ilegitimidade passiva do sócio da empresa executada.
+O Tribunal de origem negou provimento ao agravo de instrumento, mantendo a decisão que reconheceu a ilegitimidade passiva do sócio. No julgamento dos embargos de declaração, imputou à Fazenda Nacional a multa de 1% (um por cento) prevista no art. 538, parágrafo único, do CPC/1973. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 815/816):
+ ..
+Diante disso, constata-se a impertinência destes aclaratórios.
+Sim, pois o decisum não contém nenhum dos vícios que a lei prevê.
+Com efeito, o acórdão embargado tratou com clareza da matéria posta em sede recursal, com fundamentação suficiente para seu deslinde, nada importando - em face do artigo 535 do Código de Processo Civil - que a parte discorde da motivação ou da solução dada em 2a instância.
+O v. acórdão foi claro ao decidir que a inserção do nome do sócio na Certidão da Dívida Ativa não sustenta a execução contra ele, já que iniludivelmente ocorreu por conta do artigo 13 da Lei nº 8.620/93, declarado inconstitucional, razão pela qual não gera efeitos, valendo lembrar que o julgamento no âmbito do STF deu-se sob o regime do artigo 543-B do Código de Processo Civil, repercutindo, desta forma, nos casos análogos, como o presente. Restou infirmada, pois, a presunção de certeza do título executivo.
+Tenho os embargos de declaração como manifestamente improcedentes e protelatórios, pelo que aplico a multa de 1% do valor dado à causa originária (R$ 401.843,55 em 02/2003 - fls. 14).
+Pelo exposto, conheço e nego provimento aos embargos de declaração, com aplicação de multa.
+Pois bem.
+Assiste razão ao recorrente.
+Da análise dos embargos de declaração opostos na origem, verifica-se que a Fazenda Nacional buscou evidenciar a certeza e liquidez da Certidão de Dívida Ativa (CDA) e o ônus da prova do contribuinte de demonstrar a ausência de responsabilidade pelo crédito exequendo.
+Assim, não possuindo caráter protelatório, a oposição dos embargos de declaração com o notório propósito de prequestionamento não enseja a aplicação da multa prevista no art. 538, parágrafo único, do CPC/1973, nos termos da Súmula 98 do STJ.
+Nesse sentido são os julgados: REsp 1.771.006/SE, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 26/03/2019, DJe 23/04/2019; AgInt no REsp 1.754.133/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 06/11/2018, DJe 13/11/2018; EDcl no AgRg no AREsp 174.964/AP, Rel. Ministra REGINA Helena Costa, Primeira Turma, julgado em 07/03/2017, DJe 16/03/2017.
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, reformando, em parte, o acórdão recorrido e excluir a multa do art. 538 do CPC/1973.
+Publique-se. Intimem-se.
