@@ -1,0 +1,5 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra acórdão do TJSP assim ementado (e-STJ fl. 366):
+AGRAVO DE INSTRUMENTO. Abordagem de dono de veículo automotor, questionando negócio fiduciário entabulado pelo réu, com terceiro, expondo-lhe à busca e apreensão liminar. Arguição de fraude, com falsificação de assinatura. Perícia grafotécnica.Prova sob ônus de credor, fiduciário, corretamente convocado ao polo passivo da demanda. Inteligência dos artigos 333, I, e 389, II, do Código de Processo Civil. Recurso do réu. Desprovimento.
+O recorrente, BANCO MERCEDES-BENZ DO BRASIL S/A, intimado, por meio do despacho de fl. 495 (e-STJ), para que se manifestasse se persistia o interesse no julgamento do agravo em recurso especial, apresentou petição, protocolizada sob o n. 00479779/2019, por meio da qual afirma "que não persiste o seu interesse no julgamento do agravo em recurso especial, requerendo assim, a baixa dos autos ao juízo de origem" (e-STJ fl. 501).
+Ante o exposto, JULGO PREJUDICADO o recurso por perda de objeto.
