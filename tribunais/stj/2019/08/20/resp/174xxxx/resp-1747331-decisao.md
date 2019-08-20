@@ -1,0 +1,26 @@
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE DE MENSALIDADE. FAIXA ETÁRIA. CONTRATO ANTERIOR A LEI 9656/98 E NÃO ADAPTADO. CRITÉRIOS DE AUMENTO. CUMPRIMENTO DE SENTENÇA. ART. 757 DO CODIGO CIVIL INDICADO COMO VIOLADO. FATICIDADE DIVERSA DA DOS AUTOS. SÚMULA 284/STF. DISSÍDIO PRETORIANO. DISPOSITIVO LEGAL OBJETO DE DIVERGÊNCIA. AUSÊNCIA DE APONTAMENTO. SÚMULA 284/STF.
+RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+1. Cuida-se de recurso especial interposto por BRADESCO SAUDE S/A, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+Apelação cível. Seguros. Plano de saúde. Ação revisional. Prescrição. Tratando-se de prestações de trato sucessivo e de contrato em curso não há prescrição do fundo de direito. Relativamente ao pedido de restituição de valores eventualmente pagos a maior o prazo prescricional é trienal.
+Pretensão de ressarcimento. Inteligência do art. 206, § 3º, inc. IV do CC/2002. Tese firmada no julgamento do REsp 1360969/RS, Tema 610, aprovada pelo STJ, na forma dos Recursos Repetitivos. Reajuste por mudança de faixa etária. A estipulação de reajuste de mensalidade de plano de saúde em virtude de mudança de faixa etária, por si só, não é abusiva, sendo válida desde que expressamente prevista no contrato, observando as diretrizes expedidas pelos órgãos regulamentadores e não contemple percentuais desarrazoados ou aleatórios. Tese firmada no REsp 1568244/RJ, julgado na forma dos recursos repetitivos, Tema n. 952/STJ. Necessidade de aferição no caso concreto.
+Contrato de plano de saúde não regulamentado pela Lei 9.656/98. Percentual aplicado que carece de limitação, pois verificada demasiada majoração da mensalidade. Limitação ao percentual de 30%. Reajustes anuais aplicados em índices comprovadamente informados e autorizados pela ANS. Apelo do autor não provido. Apelo da ré parcialmente provido.
+Opostos embargos de declaração por cada uma das partes, restaram assim sintetizados:
+Embargos de declaração. Seguros. Plano de saúde. Ação revisional. Omissões sanadas.
+Necessidade de observar a diluição do reajuste arbitrado, na forma do pactuado pelas partes na esfera administrativa. Cobrança encaminhada pela ré no curso da demanda que refere a diferença de valores em razão de reajustes não aplicados. Eventuais valores pagos a maior ou a menor no curso da demanda devem ser compensados na fase de cumprimento de sentença. O prequestionamento postulado não se justifica. Embargos de declaração acolhidos em parte.
+Embargos de declaração. Seguros. Plano de saúde. Ação revisional. Omissão sanada quanto à readequação da antecipação de tutela. Valores pagos a menor no curso da demanda que devem ser compensados na fase de cumprimento de sentença. Embargos acolhidos.
+Em suas razões recursais, aponta a parte recorrente ofensa ao disposto no art. 757 do Código Civil e divergência com o Recurso Especial Repetitivo 1568244.
+Sustenta que deve ser apurada em cumprimento de sentença a abusividade ou não do valor da mensalidade de plano de saúde aumentado por razão de idade, a partir do pressuposto de que a apólice é anterior a Lei 9.656/98, sem adaptadação, sendo regida a alteração de valor pelas suas Condições Gerais com fórmulas de reajustes dos prêmios mensais.
+Contrarrazões ao recurso especial às fls. 424-425.
+Crivo positivo de admissibilidade na origem (fls. 481-511).
+É o relatório.
+DECIDO.
+2. A normatividade do dispositivo indicado como violado pela parte recorrente - art. 757 do Código Civil - encontra-se desassociada da faticidade verificada no processo em comento para sua aplicabilidade, e, por conseguinte, do conteúdo decisório do acórdão.
+Com efeito, tal dispositivo prevê que o objeto de contrato de seguro é a garantia pela seguradora de interesse legítimo do segurado, relativo a pessoa ou a coisa, contra riscos predeterminados, mediante o pagamento do prêmio pelo segurado. Nada trata sobre limites de alterações de valores contratuais, que é um dos objetos da ação revisional e de repetição de indébito.
+Assim, evidencia-se de forma indubitável que as razões declinadas no recurso especial encontram-se desassociadas dos fundamentos do acórdão recorrido, o que configura deficiência insanável em sua fundamentação e atrai a inteligência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. Por outro lado, também se aplica tal óbice sumular quanto ao dissídio pretoriano, uma vez que a recorrente limitou-se a indicar precedentes paradigmas sem, contudo, indicar qual dispositivo legal teria recebido interpretação divergente.
+Todavia, o recurso especial fundamentado no permissivo constitucional da alínea "c" requisita, em qualquer caso, tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Nesse passo, tem-se que a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial.
+4. Ante o exposto, não conheço do recurso especial.
+Intimem-se. Publique-se.
