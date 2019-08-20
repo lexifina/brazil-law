@@ -1,0 +1,12 @@
+DECISÃO
+1. Cuida-se de agravo interposto pelo BANCO DO BRASIL S/A em face de decisão que não admitiu o seu recurso especial.
+2. A irresignação não merece prosperar.
+A parte agravante não rebate, de forma específica, clara e fundamentada, os argumentos da decisão agravada, notadamente os seguintes:
+a) no que se refere aos artigos 54, 286, 487, inciso II, 783, 784 e 803, todos do Código de Processo Civil, verifico que os respectivos temas, não foram objeto de debate por esta Corte de Justiça, não tendo o recorrente sequer, oposto embargos de declaração para fins de prequestionamento, razão pela qual torna-se impossível a admissão do recuso neste ponto, nos termos da súmula nº. 282 do Supremo Tribunal Federal; e,
+b) incidência da Súmula 83 do STJ, uma vez que a jurisprudência consolidada pelo Superior Tribunal de Justiça é no sentido de que somente haverá ofensa ao art. 85 da Legislação Processual Civil e ocorrência de bis in idem, quando existir fixação de nova verba honorária sobre àquela já estabelecida na fase de execução/cumprimento de sentença, porquanto indevida quando referente à mesma fase processual, circunstância que não ocorreu in casu, uma vez que o arbitramento ocorreu em etapas distintas, quais sejam, de conhecimento e liquidação de sentença.
+Essa circunstância obsta, por si só, a pretensão recursal, pois à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Era esse o entendimento segundo a inteligência do disposto no inciso I, do § 4º, do art. 544 do Código de Processo Civil de 1.973, incluído pela Lei nº 12.322/2010, que tratava da sistemática dos agravos contra os despachos denegatórios dos recursos dirigidos a esta Corte e consigna ser dever do agravante atacar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento de sua irresignação. Nesse sentido: AgRg no Ag 1270282/RS, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe 17/02/2012 e AgRg no Ag 1327361/MG, Rel. Ministra Maria Isabel Gallotti, Quarta Turma.
+E continua a ser esse o entendimento na vigência do Novo Código de Processo Civil, ao estipular que o relator não deve conhecer de recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, Novo CPC).
+Ressalte-se que o art. 253, parágrafo único, I, do RISTJ também estabelece como ônus do agravante a impugnação a todos os fundamentos da decisão recorrida, sob pena de ver o seu agravo não conhecido.
+3. Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
