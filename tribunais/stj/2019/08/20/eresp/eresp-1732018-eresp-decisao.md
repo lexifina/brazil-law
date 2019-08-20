@@ -1,0 +1,47 @@
+DECISÃO
+1. Trata-se de embargos de divergência interpostos contra acórdão oriundo da Segunda Turma, assim ementado:
+PROCESSUAL CIVIL. ANÁLISE DE NORMA CONTIDA EM RESOLUÇÃO. DESCABIMENTO. HONORÁRIOS CONTRATUAIS. RESERVA. POSSIBILIDADE. PRÉVIA MANIFESTAÇÃO DO CONSTITUINTE. FACULDADE DO MAGISTRADO. OBSERVÂNCIA DA REGRA CONTIDA NO ART. 22, § 4º, DA LEI 8.906/1994.
+1. Não é possível a interposição do Recurso Especial sob a alegação de contrariedade a ato normativo secundário, tais como Resoluções, Portarias, Regimentos, Instruções Normativas e Circulares, bem como a Súmulas dos Tribunais, por não se equipararem ao conceito de lei federal.
+2. O STJ, interpretando o art. 22, § 4º, da Lei 8.906/1994, firmou o entendimento de que é facultado ao julgador fixar prazo para que a parte exequente/constituinte se manifeste acerca do requerimento de destaque das verbas honorárias formulado pelo causídico.
+3. Recurso Especial não provido.
+Embargos de declaração acolhidos apenas para esclarecimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. HONORÁRIOS CONTRATUAIS. RESERVA DE VALORES. POSSIBILIDADE. EXIGÊNCIA DE DECLARAÇÃO DO AUTOR. FACULDADE DO MAGISTRADO. OBSERVÂNCIA DA REGRA CONTIDA NO ART. 22, § 4º, DA LEI 8.906/1994. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS APENAS PARA ESCLARECIMENTOS, SEM EFEITOS MODIFICATIVOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existentes no julgado, o que não ocorre no presente caso.
+2. "A parte final do art. 22, § 4.º, da Lei n.º 8.906/94, permite que o juiz determine a apresentação pelo advogado de declaração firmada pelo cliente de que nenhum valor a título de honorários convencionados foi adiantado ou a abertura de prazo para o constituinte-cliente se manifestar sobre a existência de eventual pagamento; para que seja realizado o destaque da verba honorária, quando o advogado fizer juntar aos autos o seu contrato de honorários antes de expedir-se o mandado de levantamento ou o precatório" (REsp 1.106.306/RS, Rel. Min. Laurita Vaz, DJe de 11.5.2009). Precedentes.
+3. Embargos de Declaração acolhidos, apenas para esclarecimentos, sem efeitos infringentes.
+Sustenta o embargante dissídio com os seguintes arestos:
+Processual Civil e Civil. Recurso Especial. Contrato de honorários advocatícios. Levantamento da verba. Pedido nos autos.
+Possibilidade.
+- O advogado pode requerer ao juiz, nos autos da causa em que atue, o pagamento, diretamente a ele, dos honorários contratados, descontados da quantia a ser recebida pelo cliente, desde que apresente o respectivo contrato.
+- As questões que digam respeito à validade e eficácia do contrato devem ser dirimidas nos próprios autos em que requerido o pagamento.
+- Recurso especial provido.
+(REsp 403.723/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 03/09/2002, DJ 14/10/2002, p. 226)
+--
+PROCESSUAL CIVIL. INCLUSÃO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS NO PRECATÓRIO. QUESTÃO RELEVANTE. AUSÊNCIA DE VALORAÇÃO NAS INSTÂNCIAS DE ORIGEM. OMISSÃO CONFIGURADA.
+1. Hipótese em que o Tribunal de origem indeferiu o pedido de emissão de precatório judicial em nome da sociedade de advogados, para fins de pagamento de verba alimentar em parcela única, porque não foi providenciada a prévia juntada do respectivo contrato de prestação de serviços.
+2. A ora agravante opôs Embargos de Declaração para solicitar pronunciamento sobre a falta de oportunidade para a juntada do contrato estabelecido entre a agravante e seu cliente.
+3. Conforme narrado pela sociedade que patrocinou a causa, foi requerida a expedição de precatório da quantia incontroversa, em momento no qual havia divergência quanto à necessidade de aguardar o trânsito em julgado da parcela referente ao montante litigioso. O juízo de 1º grau enviou os autos para a Procuradoria da Fazenda Nacional (parte contrária) e, após a devolução destes pelo ente público, deferiu o requerimento, imediatamente ordenando a expedição do ofício requisitório.
+4. Esclarece a agravante, portanto, que a emissão de precatório, que poderia ter sido deferida ou indeferida, foi realizada sem a prévia comunicação à principal parte interessada, isto é, seu cliente, situação esta que inviabilizou, consequentemente, o atendimento do disposto na Resolução CJF 559/2007 (juntada do contrato em momento antecedente à expedição do precatório judicial). e, ao mesmo tempo, configurou nulidade processual.
+5. O Tribunal a quo, no entanto, não se pronunciou sobre o tema, limitando-se a consignar que o precatório foi expedido sem que tivesse sido previamente juntado o contrato de prestação de serviços entre a ora agravante e seu cliente.
+6. Dada a relevância do ponto suscitado nos aclaratórios, a ausência de valoração a esse respeito caracteriza violação do art. 535 do CPC.
+7. Agravo Regimental provido. Determinação de retorno dos autos ao Tribunal de origem, para novo julgamento dos Embargos de Declaração lá opostos.
+(AgRg no AREsp 174.290/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/08/2012, DJe 27/08/2012)
+Assevera que "o art. 22, § 4º da Lei nº 8.906/94, em hipótese alguma, impõe que a parte autora tenha que firmar declaração ratificando os termos do contrato de prestação de serviços e honorários advocatícios, sobretudo o firmado sob cláusula ad exito, conforme o caso dos autos".
+É o relatório.
+2. A admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial, na forma prevista pelo RISTJ, com a demonstração das circunstâncias que assemelham os casos confrontados, caracterizando-se a divergência jurisprudencial quando, na realização do cotejo analítico entre os acórdãos paradigma e recorrido, destaca-se a adoção de soluções diversas a litígios com molduras fáticas semelhantes.
+No presente feito, a insurgência do causídico se deu no tocante à desnecessidade de ele ser intimado a apresentar comprovação de que o constituinte não se opõe à percepção dos honorários advocatícios nos termos do art. 22, § 4º, do CPC, consoante bem delineado pela Segunda Turma em sede de embargos de declaração:
+Em suas razões, a parte embargante alega:
+O v. acórdão ora embargado negou provimento ao recurso ao entendimento de que o STJ firmou entendimento de que "é facultado ao julgador fixar prazo para que a parte exequente/constituinte se manifeste acerca do requerimento de destaque das verbas honorárias formulado pelo causídico." (grifos nossos)
+Ocorre, porém, que a r. decisão a quo de fls. 185 e-STJ determinou que: "Providencie o patrono, ainda, declaração da parte autora, no sentido de que não se opõe ao pedido de reserva formulado, bem como de que não efetuou qualquer pagamento a título de honorários contratuais, ficando o causídico ciente de que o decurso do prazo sem o cumprimento do ora disposto será interpretado como tácita renúncia ao direito disposto no art. 22, § 4º da Lei 8.906/94, operando-se a preclusão nos termos do art. 22 da Resolução 168/2011 do CJF." (grifos nossos).
+o entendimento do STJ é que a parte, os interessados ou os titulares possam se manifestar nos autos acerca do destaque previsto no art. 22, § 4º, da Lei 8.906/94 e não o advogado acostar declaração conforme ocorreu nos autos, sobretudo sob pena de perda do direito ou renúncia tácita" (fls. 458-459, e-STJ). (Negritamos)
+ ..
+Segundo entendimento do STJ, é cabível a exigência para que o patrono providencie a declaração do autor no sentido de que não se opõe ao pedido de reserva de valores para o pagamento de honorários advocatícios, conforme disposto no artigo 22, § 4º, da Lei 8.906/1994. (Negritamos)
+Veja-se que a discussão se dá, portanto, em relação à última parte do art. 22, § 4º, do CPC: "salvo se este  o constituinte  provar que já os pagou", o que rendeu ensejo à decisão da Segunda Turma, no sentido de corroborar, no caso concreto, o entendimento do magistrado de piso para que fosse trazida aos autos declaração do autor como forma de demonstrar que não houve o pagamento antecipado de nenhum montante relativo aos honorários.
+O aresto paradigmático  REsp 403.723  , por seu turno, não aborda tal ponto, limitando-se a controvérsia à necessidade de reconhecimento da firma do mandante no contrato juntado aos autos, conforme se extrai do voto condutor:
+Conforme lição de Nelson Nery Junior sobre o teor do referido dispositivo (in "Código de Processo Civil Comentado", 5ª ed, São Paulo, Revista dos Tribunais, 2001, p. 1.699), "Caso os honorários tenham sido contratados por escrito, o advogado pode juntar o contrato aos autos e requerer do juiz que ordene seja feito o pagamento diretamente a ele, quer de quantia depositada à ordem do juízo (pedido de levantamento), quer de quantia a receber pelo seu cliente (..)".
+ ..
+Tal orientação deve ser aqui seguida, pois foi devidamente juntado o contrato de honorários, ao ser requerido o levantamento da verba pelo advogado e a avença não se torna inválida pelo fato de não ter sido reconhecida a firma dos contratantes na época da assinatura, uma vez que o "reconhecimento de firma" sequer é exigível,
+Dessarte, verifica-se que não há soluções jurídicas conflitantes nos casos confrontados, mas mera dissonância na moldura fática dos julgados.
+Ressoa inequívoca, portanto, a ausência de divergência jurisprudencial no caso em análise, impedindo o conhecimento dos embargos de divergência.
+4. Ante o exposto, com fundamento no art. 266-C do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
