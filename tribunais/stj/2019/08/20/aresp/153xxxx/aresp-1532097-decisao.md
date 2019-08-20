@@ -1,0 +1,30 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BANCO SAFRA S A contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Ação revisional - Contratos bancários diversos - Alegações de expressões injuriosas lançadas em sede de contrarrazões - Não verificação de ofensa à honra ou dignidade do perito indicado pela autora, mas apenas questionamento à sua capacitação, sem ocorrência de irregularidade Cerceamento de defesa - Verificação de encaminhamento de contratos bancários diretamente ao perito, sem sua juntada aos autos - Ausência da juntada de todos os contratos descritos pela autora na exordial - Instrução processual insuficiente - Necessidade de correta instrução do processo com re/ratificação do laudo pericial - Sentença anulada - Recurso provido
+Opostos embargos de declaração por ambas as partes, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 1.022, I e II, do CPC/2015.
+Alega omissão, obscuridade e contradição no acórdão recorrido sobre a tese de que o recorrido relacionou dezoito contratos repetidos induzindo a Corte local em erro, arguindo que taxativamente foi demonstrado que está relacionado na inicial 57 e não 75 contratos. Afirma que não existem 75 contratos, sendo a peça inicial um remendo com vários números repetidos para induzir a erro o Poder Judiciário.
+Contrarrazões ao recurso especial às fls. 6.596-6.606.
+É o relatório. Decido.
+2. Verifica-se, na espécie, a inexistência da alegada negativa de prestação jurisdicional, pois o Tribunal a quo dirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+A finalidade dos embargos de declaração é complementar o acórdão quando nele identificar omissão, ou, ainda, aclará-lo, dissipando obscuridade, contradição ou erro material.
+Da doutrina processualista, extrai-se que a obscuridade consiste na falta de clareza da decisão impugnada, sendo que, diante da função precípua do pronunciamento judicial de emprestar certeza às relações litigiosas que calham às suas portas, não se admitem decisões judiciais não-unívocas.
+Também não é omisso o acórdão que, embora com fundamentação contrária ao interesse da parte, desata a questão jurídica posta em juízo.
+Ressalta-se, ainda, que a contradição que permite o manejo dos aclaratórios é aquela verificada no corpo da própria decisão, e não a existente entre a pretensão da parte e o resultado colhido no julgamento.
+Na espécie, a Corte local apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da parte recorrente.
+A propósito, acerca da alegada negativa de prestação jurisdicional, a Corte local expressamente consignou o seguinte em sede de embargos de declaração (fls. 6.575-6.576):
+"O que o embargante pretende em suas razões é a reapreciação da matéria pela Turma Julgadora. Portanto, caracterizado está o caráter infringente e protelatório deste recurso.
+Embora a decisão não tenha acolhido a tese do embargante ela não deixou de apreciar os fatos. Assim, cai por terra a alegação de que o acórdão foi omisso ou até mesmo obscuro. A matéria foi devidamente apreciada, ocorrendo, na realidade, mera discordância com o que foi decidido.
+Vale consignar que o acórdão estabeleceu de forma absolutamente cristalina que uma parcela menor dos contratos relacionados na exordial foram colacionados aos autos e que o laudo pericial asseverou ter analisado toda a relação bancária entabulada.
+E mais, há nos autos notícia de que o banco réu encaminhou diretamente ao perito todos esses contratos. Os contratos de fls. 4198/4267 não preenchem essa lacuna, daí porque se entendeu necessária a complementação da instrução processual, com a determinação ao banco réu de apresentação de todos os contratos referidos na exordial e a análise posterior pelo perito para eventual retificação - ou ainda confirmação (ratificação) - das conclusões a que chegou.
+Ora, basta que o banco réu apresente - ou aponte, como fez nos presentes embargos - todos os contratos que entabulou com a embargada, para posterior manifestação do perito a respeito da análise de toda a relação bancária operada entre as partes, para ter-se como complementada a instrução probatória, sem prejuízo, por óbvio, de outras diligências que o Juízo de primeiro grau entender necessárias uma vez que a r. sentença foi declarada nula.
+Ante o exposto, os embargos de declaração são conhecidos, posto que tempestivos, porém rejeitados, restando mantido na íntegra o acórdão embargado."
+Com efeito, observa-se que, mediante convicção formada do exame feito aos elementos fático-probatórios dos autos, o acórdão tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da parte recorrente, o que está longe de significar negativa de prestação jurisdicional.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. FILHA ESTUDANTE UNIVERSITÁRIA. PRORROGAÇÃO DO BENEFÍCIO ATÉ OS 24 ANOS. IMPOSSIBILIDADE. APLICAÇÃO DA LEI Nº 9.717/98. REVISÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. INCIDÊNCIA DA SÚMULA 7/STJ. OMISSÃO. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Afasta-se a ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1220599/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/06/2018, DJe 02/08/2018)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
