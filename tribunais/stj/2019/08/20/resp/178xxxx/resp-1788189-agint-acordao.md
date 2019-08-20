@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL COM PEDIDO DE EXIBIÇÃO DE DOCUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por Oi S.A. - em recuperação judicial contra decisão monocrática desta relatoria que conheceu em parte do recurso especial e, nessa extensão, deu-lhe parcial provimento, conforme se depreende da ementa a seguir transcrita (e-STJ, fl. 706):
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE ADIMPLEMENTO CONTRATUAL COM PEDIDO DE EXIBIÇÃO DE DOCUMENTO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. 2. INTERESSE DE AGIR. EXIBIÇÃO INCIDENTAL DE DOCUMENTO. SÚMULA 389/STJ. APLICABILIDADE. PRECEDENTES. 3. SUBSCRIÇÃO DE AÇÕES. GRUPAMENTO DE AÇÕES. NECESSIDADE DE OBSERVÂNCIA NO CÁLCULO DA INDENIZAÇÃO. RESP 1.387.249/SC. 4. TERMO INICIAL DOS JUROS DE MORA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 5. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+Em suas razões recursais (e-STJ, fls. 715-725), a agravante reitera ter havido negativa de prestação jurisdicional por parte do Tribunal de origem, tendo em vista a existência de omissão no acórdão recorrido acerca do critério utilizado para a conversão das ações em perdas e danos, requerendo a devolução dos autos à Corte de origem para que se manifeste sobre a questão, observando, ainda, o entendimento disposto no Recurso Especial repetitivo n. 1.301.989/RS.
+Impugnação não apresentada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL COM PEDIDO DE EXIBIÇÃO DE DOCUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+2. Agravo interno desprovido.
+
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+A irresignação não merece prosperar.
+Com efeito, não se vislumbra a suscitada negativa de prestação jurisdicional, tendo em vista que o aresto combatido enfrentou devidamente as questões suscitadas pelas partes, de modo a esclarecer a inexistência da omissão apontada no julgado impugnado, tratando-se, na verdade, de pretensão de novo julgamento da matéria.
+Isto porque, a Corte estadual manifestou-se no sentido de que o critério a ser utilizado para a conversão das ações em perdas e danos deve ser o valor patrimonial apurado na data da integralização do capital, observado o disposto na Súmula 371 do STJ.
+É o que se extrai dos seguintes excertos do aresto combatido (e-STJ, fls. 577-579):
+Embora a ré-apelante sustente que os critérios adotados para a capitalização da participação financeira atendem as disposições legais, bem como as normas estabelecidas pelo Ministério das Comunicações e, por consequência, não teria havido inexecução do contrato, é de se salientar que:
+"Tratando-se de típico contrato de adesão, ainda que a Portaria nº 1.361/76 contenha previsão para que os prazos para retribuição das ações sejam fixados pela TELEBRAS, não excedentes a doze meses da integralização do valor da participação financeira, não poderia a companhia demandada subscrever as ações no momento que mais lhe convinha, utilizando-se da prerrogativa outorgada pela Portaria referida, em benefício próprio, interpretando o regulamento do Poder Concedente em afronta à lei e a princípios informadores do ordenamento jurídico, como o princípio da boa-fé, em nítido prejuízo à parte promitente-assinante, razão pela qual deve ser corrigida a irregularidade, reconhecendo-se o direito da parte adquirente às ações que não lhes foram subscritas, bem como aos respectivos dividendos, tomando-se por base o valor patrimonial da ação na data da integralização." (REsp nº 826.100/RS, Rel.ª Min. Nancy Andrigui, j. 10/01/2006).
+No mesmo sentido, o voto do Min. Fernando Gonçalves, na decisão do Recurso Especial n.º 500.236/RS:
+".. a Segunda Seção desta Corte quando do julgamento dos REsp 470.443/RS, REsp 469.41 O/RS e REsp 468.278/RS todos da relatoria do Ministro Carlos Alberto Menezes Direito, firmou entendimento no sentido de que o contratante tem direito a receber a quantidade de ações correspondente ao seu valor patrimonial na data da integralização, sob pena de sofrer severo prejuízo, não podendo ficar ao alvedrio da empresa ou de ato normativo de natureza administrativa (Portaria 86/91), o critério para tal, em detrimento do valor efetivamente integralizado..".
+Diante disso, torna-se evidente o direito dos acionistas em receber a conversão de ações, juntamente com os bônus, dividendos e juros sobre o capital próprio, em valor correspondente ao valor patrimonial na data da integralização do capital, observado o disposto na Súmula nº 371, do Superior Tribunal de Justiça, in verbis: "Nos contratos de participação financeira para a aquisição de linha telefônica, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização".
+Prosseguindo, no que se refere à condenação ao pagamento de indenização sobre os dividendos, bonificações e juros sobre o capital próprio, quanto à eventual subscrição das ações, é evidente que a sentença ao condenar a ré, ora apelante, ao pagamento das vantagens decorrentes das ações, considerou que estas deveriam ter sido efetivamente subscritas e não o foram.
+Observa-se, ainda, que a questão deverá ser resolvida em oportuna liquidação da sentença. Nesse caso, o montante da indenização pecuniária, correspondente às ações que não foram emitidas, e que tinham direito os demandantes, será apurado tomando-se por base o valor patrimonial da ação não emitida na data da integralização do capital.
+Nesse contexto, verifica-se que, independentemente da conformidade da conclusão exarada na instância ordinária com o entendimento prevalente neste Tribunal Superior, inexiste a omissão alegada.
+Ademais, constata-se que, além de o TJPR não ter sido instigado a se pronunciar a respeito da orientação constante do REsp repetitivo n. 1.301.989/RS, tal ponto só foi alegado nas razões do presente agravo interno, não merecendo nem sequer conhecimento.
+Logo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual não há falar, na hipótese, em violação ao art. 535 do CPC/1973, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, uma vez que "o voto condutor do acórdão recorrido apreciou fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida" (AgInt no REsp 1.383.088/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 6/12/2016, DJe 15/12/2016).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
