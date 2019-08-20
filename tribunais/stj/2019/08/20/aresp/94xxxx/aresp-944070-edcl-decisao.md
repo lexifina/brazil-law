@@ -1,0 +1,21 @@
+DECISÃO
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA EMBARGANTE PARA APRESENTAR CONTRARRAZÕES AO RECURSO ESPECIAL. NULIDADE. EMBARGOS DE DECLARAÇÃO DA EMPRESA ACOLHIDOS PARA RECONHECER A NULIDADE APONTADA.
+1. Cuida-se de Embargos de Declaração opostos Por CRAIDE & MENDES COMERCIAL E SERVIÇOS LTDA. contra decisão monocrática, assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL AJUIZADA, APÓS À ENTRADA EM VIGOR DA LC 118/2005, DENTRO DO PRAZO LEGAL. DESPACHO CITATÓRIO PROFERIDO APÓS A CONSUMAÇÃO DO PRAZO PRESCRICIONAL. APLICAÇÃO DO ART. 219, § 1o. DO CPC. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL (fls. 270).
+2. Afirma a parte embargante, em suma, que apesar de regularmente constituídos nos autos do feito originário (cf. fl. E-STJ 94), a embargada, em frontal descumprimento ao art. 524, inciso III, do CPC/73, não cuidou de informar os nomes dos advogados para fins de recebimento de intimações em nome da ora embargante (fls. 283).
+3. A Embargada deixou transcorrer in albis o prazo para apresentar impugnação (fls. 290).
+4. É o relatório.
+5. Razão assiste à parte embargante.
+6. Verifica-se que o julgamento do Agravo de Instrumento foi procedido sem que houvesse intimação do Advogado devidamente constituído nos autos.
+7. Com efeito, o entendimento do STJ, firmado no julgamento do REsp. 1.148.296/SP, submetido ao rito dos recursos repetitivos (art. 543-C do CPC/1973 e Resolução STJ n. 8/2008), é o de ser prescindível a intimação do Agravado para apresentar contrarrazões no caso de desprovimento do recurso, nos termos do art. 527 do Código Buzaid.
+8. Todavia, no caso dos autos, a Fazenda Nacional, ora recorrida, apresentou Recurso Especial contra o acórdão do TRF da 3a. Região, que negou provimento ao seu Agravo de Instrumento, e a Embargante não foi intimada para oferecer contrarrazões (fls. 230).
+9. Nesses casos, deve ser reconhecida a nulidade de todos os atos subsequentes, por constituir vício insanável diante da ofensa aos princípios do contraditório e da ampla defesa.
+10. A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. EXECUÇÃO FISCAL. EMBARGOS À ARREMATAÇÃO. MASSA FALIDA. AUSÊNCIA DE INTIMAÇÃO DO EMBARGANTE PARA CONTRA-ARRAZOAR O RECURSO ESPECIAL DA PARTE ADVERSA, PARA IMPUGNAR OS EMBARGOS DE DECLARAÇÃO OPOSTOS NESTA CORTE E ACOLHIDOS EM SEU DESFAVOR, BEM COMO PARA RECORRER DESSA DECISÃO. NULIDADES DE NATUREZA ABSOLUTA. PRECEDENTES.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - A jurisprudência desta Corte firmou entendimento segundo o qual a ausência de intimação da parte para apresentar contrarrazões gera nulidade de natureza absoluta, em virtude do desrespeito aos princípios da ampla defesa e do contraditório.
+III - A ausência de intimação do Embargante trouxe-lhe prejuízos objetivos, quais sejam: i) na instância a quo, deixou de apresentar contrarrazões ao recurso especial mais tarde provido, em adversidade à sua pretensão; e ii) nesta Corte, não pôde impugnar os embargos de declaração aos quais emprestaram-se efeitos infringentes para dar provimento ao recurso da parte contrária, nem foi intimado para, eventualmente, apresentar recurso contra essa decisão.
+IV - Ausente a figura cunhada pela jurisprudência deste Superior Tribunal de "nulidade de algibeira ou de bolso", porquanto a conduta processual da parte não denota, a priori, omissão deliberada, tampouco nulidade suscitada por mera conveniência.
+V - Embargos de Declaração acolhidos, com atribuição de excepcionais efeitos infringentes, nos termos da fundamentação (EDcl nos EDcl no AgRg nos EDcl no REsp 1.118.770/SC, Rel. Min. REGINA HELENA COSTA, DJe 27.9.2017).
+11. Ante o exposto, acolho os Embargos de Declaração da Empresa para reconhecer a nulidade apontada. Decisão de fls. 270/279 tornada sem efeito. Determina-se a intimação da Embargante para apresentar contrarrazões ao Recurso Especial interposto às fls. 216/228.
+12. Publique-se. Intimações necessárias.
