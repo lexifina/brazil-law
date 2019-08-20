@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com amparo no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo respectivo Tribunal de Justiça assim ementado:
+"RECURSO EM SENTIDO ESTRITO. CRIMES CONTRA A VIDA. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO CONSUMADO. PROVA DA MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA. MANUTENÇÃO DA PRONÚNCIA.
+1. Há indícios suficientes para submeter os réus a julgamento pelo Tribunal do Júri. A análise da prova, nesta quadra, configura mero juízo de admissibilidade da acusação, a não exigir certeza das imputações, bastando verificar a existência de elementos capazes de sustentar a competência constitucional do Tribunal do Júri para julgar o feito. No caso, parte da prova oral colhida indica que, em tese, os réus J.L.F. e M.V.C. seriam os executores do homicídio, bem como que o acusado M.A.Q. seria o mandante do crime.
+2. Manutenção da qualificadora do motivo torpe. Há indicativos concretos de que a motivação do delito teria relação com disputas envolvendo o tráfico de entorpecentes na região dos fatos, cabendo ao Tribunal do Júri dirimir eventuais dúvidas.
+3. Qualificadora do recurso que dificultou a defesa da vítima preservada. Existem elementos nos autos a indicar que a vítima estaria sozinha e desarmada em sua residência no momento em que os executores teriam chegado repentinamente, efetuando disparo de arma de fogo em sua cabeça. Assim, razoável a manutenção da qualificadora para análise mais detalhada pelo Conselho de Sentença.
+4. Afastamento da qualificadora do delito cometido para assegurar a vantagem de outro. O fato do crime ter sido cometido em virtude de disputas relacionadas ao tráfico de drogas já foi examinado no que tange ao eventual motivo torpe, tornando correto o afastamento da qualificadora a fim de evitar bis in idem.
+RECURSOS PARCIALMENTE PROVIDOS.." (e-STJ, fl. 552).
+Nas razões recursais, a Acusação sustenta negativa de vigência ao art. 121, § 2º, V, do Código Penal, bem como aos arts. 74, § 1º, e 413, caput, ambos do Código de Processo Penal.
+Nesse sentido, defende que o Tribunal recorrido não pode afastar qualificadora que não seja manifestamente improcedente.
+Assim, busca o restabelecimento da qualificadora "para assegurar a vantagem de outro crime".
+Contrarrazões apresentadas (e-STJ fls. 589-595).
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ, fls. 629-633).
+É o relatório.
+Decido.
+No caso concreto, o Tribunal de origem afastou a qualificadora do inciso V, pois entendeu que "o fato do crime ter sido cometido em virtude de disputas relacionadas ao tráfico de drogas já" teria sido valorado "no que tange ao eventual motivo torpe, tornando correto o afastamento da qualificadora a fim de evitar bis in idem". (e-STJ, fl. 552).
+O Juízo de primeiro grau, entretanto, apresentara os seguintes fundamentos para manter as qualificadoras apontadas na peça vestibular:
+"A denúncia descreveu três circunstâncias qualificadoras do delito de homicídio, quais sejam: a) motivo torpe, uma vez que perpetrado em decorrência do tráfico e seus consectários comerciais, em extremo desvalor à vida humana; b) mediante recurso que dificultou a defesa da vítima, a qual foi surpreendida pelos executores no interior da residência; e c) para assegurar a vantagem na venda de entorpecentes naquele bairro, região onde a vítima realizava a traficância, sendo que a facção "Bala na Cara", integrada pelos denunciados, planejava dominar o local para obter o monopólio na venda de drogas.
+E tenho que a prova não desconecta dos fatos ditas qualificadoras, sobremaneira pela prova testemunhal. Assim, também, oportunizo ao Conselho de Sentença o exame das qualificadoras imputadas." (e-STJ, fl. 463)
+Com efeito, cumpre salientar que o acórdão destoou da jurisprudência desta Corte, segundo a qual "as qualificadoras somente podem ser excluídas na fase do iudicium accusationis se manifestamente improcedentes" (REsp 1.415.502/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/12/2016, DJe 17/02/2017). Ainda:
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ART. 121, § 2º, II, DO CÓDIGO PENAL. DECOTE DA QUALIFICADORA. PROVAS INDICIÁRIAS. PRONÚNCIA. JUÍZO DE ADMISSIBILIDADE. COMPETÊNCIA DO TRIBUNAL DO JÚRI. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Somente é cabível a exclusão das qualificadoras, na sentença de pronúncia, quando manifestamente improcedentes, uma vez que cabe ao Tribunal do Júri, diante dos fatos narrados na denúncia e colhidos durante a instrução probatória, a emissão de juízo de valor acerca da conduta praticada pelo réu.
+3. A existência de discussão anterior ao cometimento do delito, entre vítima e acusado, por si só, não é suficiente para, de imediato, retirar da competência do Conselho de Sentença, juiz natural da causa, a decisão acerca do conhecimento do motivo fútil ao caso concreto.
+4. Agravo regimental não provido." (AgRg no AREsp 470.902/AL, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/03/2016, DJe 11/03/2016)
+"PROCESSUAL PENAL. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO. PRONÚNCIA. EXCLUSÃO DE QUALIFICADORA. MOTIVO FÚTIL. VALORAÇÃO DAS PROVAS. IMPOSSIBILIDADE. COMPETÊNCIA DO CONSELHO DE SENTENÇA.
+1. No procedimento do Tribunal do Júri, as qualificadoras só podem ser excluídas da pronúncia quando manifestamente improcedentes, isto é, quando completamente destituídas de amparo nos autos, sendo vedado nessa fase valorar as provas para afastar a imputação concretamente apresentada pelo Ministério Público.
+2. Havendo dúvidas acerca da real motivação do crime de homicídio qualificado, não há como subtrair-se do Conselho de Sentença, juiz natural dos crimes dolosos contra a vida, o exame da qualificadora do motivo fútil, sob pena de usurpação de sua competência constitucional.
+3. Recurso especial provido." (REsp 966.034/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 27/09/2011, DJe 28/10/2011)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, para restabelecer a qualificadora do inciso V do § 2º do art. 121 do Código Penal.
+Publique-se. Intimem-se.
