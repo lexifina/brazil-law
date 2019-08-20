@@ -1,0 +1,34 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Cobra Rolamentos e Autopeças Ltda., com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fls. 1.209/1.210):
+APELAÇÃO CÍVEL. ICMS. OPERAÇÕES INTERESTADUAIS. BENEFÍCIOS FISCAIS. CREDITO PRESUMIDO. TRANSFERÊNCIA PARA FILIAL NO ESTADO DE DESTINO SEM PRÉVIO CONVÊNIO. APROVEITAMENTO. AUTO DE LANÇAMENTO. MULTA.
+1. Operações interestaduais. Benefícios fiscais. Crédito presumido. Transferência para filial no Estado de destino sem prévio convênio.
+1.1 - A fim de ser possível transferir para filial, no Estado de destino, crédito presumido (rectius, não efetivamente pago) de ICMS, concedido para filial, a título de benefícios fiscais, pelo Estado de origem, é imprescindível a celebração de Convênio entre as Unidades Federativas. Exegese do art. 155, § 22, VI, e XII, alínea "g", c/c o art. 12, parágrafo único, III, da LC 24/75.
+1.2 - Se a CF-88 remete a disciplina das isenções, incentivos e benefícios fiscais à lei complementar, há entender como recepcionada a LC 24/75, não apenas o art. 12 que (a) institui a celebração de Convênio entre as entidades federativas e (b) inclui como benefício a concessão de crédito presumido, mas também o art. 82 que estabelece as conseqüências aos casos de concessão de isenções, incentivos e benefícios fiscais sem observância do art. 12, dentre elas "a nulidade do ato e a ineficácia do crédito fiscal atribuído ao estabelecimento recebedor da mercadoria" (inc. I).
+1.3 - Assim, a legislação do Estado de destino que, em tais circunstâncias, recusa o aproveitamento do crédito, por estabelecimento em seu território, sem prévia celebração de Convênio com o Estado de origem, está conforme a Constituição e a Lei Complementar.
+1.4 - Consequentemente, o contribuinte de ICMS, com filiais noutras Unidades Federativas, onde as mercadorias são compradas, tendo com estas celebrado Acordos de Regime Tributário Especial, recebendo benefícios fiscais, dentre eles créditos presumidos (rectius, não efetivamente pagos), não pode transferi-los para filial no Estado de destino e fazer o aproveitamento mediante compensação de ICMS devido a este, salvo a celebração de Convênio entre os Entes Federados envolvidos.
+2. Apuração do valor.
+Correto o procedimento do Fisco do Estado de destino que, na apuração do valor do crédito presumido de ICMS, do qual o contribuinte se apropriou indevidamente, se
+baseia em cada operação, expurgando o percentual constante de Acordo de Regime Tributário Especial, para fins de benefícios fiscais, celebrado com o Estado de origem, isso porque, pelo Acordo, presume-se, por ser regra, o aproveitamento integral de tais benefícios.
+Se, eventualmente, o aproveitamento não foi integral (crédito presumido em percentual inferior àquele referido no Acordo), impunha-se, por ser exceção, prova pelo contribuinte, da qual, no caso, não se desincumbiu.
+3. Multa.
+A apropriação indevida de crédito de ICMS, reduzindo, por decorrência, via compensação, o imposto devido, caracteriza hipótese de multa qualificada de 120%. Lei-RS 6.537/73, art. 82º, I, alínea "j" .
+4. Dispositivo.
+Por maioria, apelação desprovida.
+A recorrente alega a existência de contrariedade aos arts. 535, II, do CPC/1973; 142 do CTN; 19 e 20, § 1º, da LC n. 87/1996. Aponta dissídio jurisprudencial entre tribunais.
+Foi interposto simultaneamente recurso extraordinário, o qual foi admitido na instância origem (e-STJ fls. 781-805).
+Parecer do Ministério Público Federal às e-STJ, fls. 1.548/1.557.
+É o relatório.
+A questão objeto do recurso extraordinário interposto no âmbito do Tribunal de origem teve a repercussão geral reconhecida pelo Supremo Tribunal Federal, RE 628.075/RS, Tema 490, resumidamente ementado nestes termos:
+Recurso Extraordinário em que se discute, à luz dos artigos 1º; 2º; 102; 155, § 2º, I; da Constituição Federal, a possibilidade, ou não, de ente federado negar a adquirente de mercadorias o direito ao crédito de ICMS destacado em notas fiscais, em operações interestaduais provenientes de outro ente federativo, que concede, por iniciativa unilateral, benefícios fiscais pretensamente inválidos.
+Nesse contexto, encontrando-se a matéria com repercussão geral reconhecida pelo STF, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e esta Corte Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015:
+Art. 1.039. Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada.
+Parágrafo único. Negada a existência de repercussão geral no recurso extraordinário afetado, serão considerados automaticamente inadmitidos os recursos extraordinários cujo processamento tenha sido sobrestado.
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+III - os processos suspensos em primeiro e segundo graus de jurisdição retomarão o curso para julgamento e aplicação da tese firmada pelo tribunal superior;
+IV - se os recursos versarem sobre questão relativa a prestação de serviço público objeto de concessão, permissão ou autorização, o resultado do julgamento será comunicado ao órgão, ao ente ou à agência reguladora competente para fiscalização da efetiva aplicação, por parte dos entes sujeitos a regulação, da tese adotada.
+Cumpre esclarecer que, somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, o apelo nobre deverá ser encaminhado, em sua totalidade, para este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento da Corte a quo.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso com repercussão geral reconhecida e em observância aos arts. 1.039 e 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior ou b) proceda ao juízo de retratação na hipótese de o acórdão impugnado divergir da decisão sobre o tema objeto da afetação.
+Publique-se. Intimem-se.
