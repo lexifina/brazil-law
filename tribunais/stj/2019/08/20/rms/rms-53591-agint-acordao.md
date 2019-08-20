@@ -1,0 +1,48 @@
+EMENTA
+ADMINISTRATIVO. SERVIDOR PÚBLICO. MANDADO DE SEGURANÇA. PAGAMENTO DE VERBAS VENCIDAS. UTILIZAÇÃO DO MANDAMUS COMO SUCEDÂNEO RECURSAL. INVIABILIDADE. FUNDAMENTOS SUFICIENTES PARA MANTER O ACÓRDÃO, NÃO IMPUGNADOS NO RECURSO ORDINÁRIO.
+I - Na origem, trata-se de mandado de segurança, com pedido de liminar, impetrado em desfavor de ato do Desembargador Relator da 12ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, com o objetivo de assegurar que o pagamento das verbas de pensão vencidas, durante o curso do processo judicial. Na Corte de origem, denegou-se a segurança.
+II - Primeiramente, cumpre destacar que o Tribunal de origem, no momento da apreciação do mandado de segurança ora impetrado, consignou que (i) "o mandamus foi impetrado como verdadeiro sucedâneo recursal, em patente malferição à sistemática processual, a qual contempla recursos apropriados para desafiar decisões colegiadas dos Tribunais de Justiça.", acrescentando, ainda, que admitir a impetração de mandado de segurança em face da impugnada decisão colegiada acarretaria em (ii) "situação verdadeiramente esdrúxula, em que acórdão de órgão fracionário desta E. Corte poderia ser revisto por órgão jurisdicional de mesma hierarquia (..)", concluindo com o argumento de que (iii) "tendo em vista que a impetrante não desafiou o acórdão por recurso próprio, este transitou em julgado, adquirindo imutabilidade, de tal sorte que passível de desfazimento exclusivamente por ação rescisória (..)".
+III - Nesse contexto, o reexame do acórdão recorrido, em confronto com as razões do recurso ordinário em apreço, revela que os fundamentos apresentados naquele julgado, os quais foram elencados acima, foram utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo e não foram rebatidos na presente insurgência recursal, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF
+IV - De fato, é pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que é possível a aplicação da Súmula n. 283 do Supremo Tribunal Federal no julgamento de recurso ordinário em mandado de segurança, quando o recorrente não for capaz de rebater os argumentos utilizados pelo Tribunal de origem.
+V - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, trata-se de mandado de segurança, com pedido de liminar, impetrado por [NOME], em desfavor de ato do Desembargador Relator da 12ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, com o objetivo de assegurar que o pagamento das verbas de pensão vencidas, durante o curso do processo judicial, não seja submetido ao rito dos precatórios.
+O Tribunal de Justiça de São Paulo, ao analisar o agravo de instrumento interposto pela impetrante, proferiu acórdão assim ementado:
+Mandado de segurança Impetração originária em face de acórdão de órgão fracionário deste Eg. Tribunal de Justiça Inviabilidade de manejo do mandamus como sucedâneo recursal - Existência de recursos previstos na lei processual para impugnação do ato tido por ilegal Inteligência do enunciado da Súmula nº 267 do E. STF e lineamento doutrinário Impossibilidade de rediscussão do mérito do decisório colegiado no hemisfério deste remédio constitucional, o qual, embora excepcionalmente admissível contra ato judicial, se presta apenas a suspender os efeitos lesivos ao impetrante até desfecho do recurso apropriado - Acórdão atacado que, ademais, transitou em julgado, em vista da ausência de impugnação pela impetrante - Ocorrência de pressuposto processual negativo: coisa julgada Incidência do enunciado da Súmula nº 268 do E. STF - Processo extinto, sem resolução do mérito, nos termos do art. 267, V e VI do CPC - Segurança denegada.
+A impetrante interpôs recurso ordinário em mandado de segurança, sustentando, em síntese, que o adimplemento das aludidas verbas de pensão deve ser realizado nos próprios autos da ação que reconheceu o direito ao seu recebimento, sendo indevida a submissão do pagamento à sistemática dos precatórios judiciais.
+Ainda em suas razões recursais, a recorrente pugnou pela concessão de liminar que determine o pagamento imediato das prestações vencidas, em virtude da natureza alimentar da mencionada verba.
+Ao emitir parecer, o Ministério público opinou pelo provimento do recurso ordinário em mandado de segurança.
+A decisão monocrática tem o seguinte dispositivo:" Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do recurso ordinário em mandado de segurança e julgo prejudicado o pedido de concessão de liminar. "
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Primeiramente, cumpre destacar que o Tribunal de origem, no momento da apreciação do mandado de segurança ora impetrado, consignou que (i) "o mandamus foi impetrado como verdadeiro sucedâneo recursal, em patente malferição à sistemática processual, a qual contempla recursos apropriados para desafiar decisões colegiadas dos Tribunais de Justiça.", acrescentando, ainda, que admitir a impetração de mandado de segurança em face da impugnada decisão colegiada acarretaria em (ii) "situação verdadeiramente esdrúxula, em que acórdão de órgão fracionário desta E. Corte poderia ser revisto por órgão jurisdicional de mesma hierarquia (..)", concluindo com o argumento de que (iii) "tendo em vista que a impetrante não desafiou o acórdão por recurso próprio, este transitou em julgado, adquirindo imutabilidade, de tal sorte que passível de desfazimento exclusivamente por ação rescisória (..)".
+Nesse contexto, o reexame do acórdão recorrido, em confronto com as razões do recurso ordinário em apreço, revela que os fundamentos apresentados naquele julgado, os quais foram elencados acima, foram utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo e não foram rebatidos na presente insurgência recursal, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+De fato, é pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que é possível a aplicação da Súmula n. 283 do Supremo Tribunal Federal no julgamento de recurso ordinário em mandado de segurança, quando o recorrente não for capaz de rebater os argumentos utilizados pelo Tribunal de origem. Nessa esteira, confiram-se:
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ACÓRDÃO RECORRIDO. FUNDAMENTO NÃO IMPUGNADO. APLICABILIDADE DA SÚMULA 283/STF.
+1. A jurisprudência do STJ é pacífica quanto à aplicabilidade da Súmula 283/STF nos julgamentos de Recursos Ordinários em Mandado de Segurança.
+2. Hipótese na qual o Tribunal a quo denegou a Segurança, por entender que a verba controvertida possui natureza de gratificação de caráter temporário e que a incorporação desse tipo de parcela remuneratória aos proventos de aposentadoria passou a ser vedada pelo art. 7º da LC Estadual 64/2002.
+3. Por seu turno, o recorrente não combateu especificamente o fundamento autônomo relativo ao art. 7º da LC 64/2002, o que atrai o incidência da Súmula 283/STF, aplicável por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. Agravo Regimental não provido.
+(AgRg no RMS n. 45.594/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 12/2/2015, DJe 20/3/2015.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO ATACADO. INCIDÊNCIA ANALÓGICA DO VERBETE SUMULAR 283/STF. RECURSO NÃO PROVIDO.
+1. Nos termos do enunciado sumular 283/STF, de aplicação analógica ao recurso ordinário, deve o recorrente impugnar especificamente todos os fundamentos do pronunciamento judicial que pretende reverter, sob pena de, não o fazendo, vê-lo mantido.
+2. Recurso ordinário não provido. (RMS n. 37.941/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, julgado em 18/12/2012, DJe 4/2/2013.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. APOSTILAMENTO. INTERPRETAÇÃO SISTÊMICA DA LEGISLAÇÃO DE REGÊNCIA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. INCIDÊNCIA.
+1. A Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido.
+2. Agravo regimental a que se nega provimento.
+(AgRg no RMS n. 30.555/MG, Rel. Ministro Og Fernandes, Sexta Turma, julgado em 26/6/2012, DJe 1º/8/2012.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
