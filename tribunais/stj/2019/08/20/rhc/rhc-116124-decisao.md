@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto pela Defensoria Pública estadual em benefício de MISAEL ROSA - preso em flagrante, sendo a custódia convertida em prisão preventiva, pela suposta prática dos delitos de tráfico de drogas e posse ilegal de arma de fogo - contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 0142304-51.2019.8.21.7000), que denegou a ordem impetrada naquela instância, por maioria, nos termos da seguinte ementa (e-STJ fl. 117):
+HABEAS CORPUS. TRÁFICO DE DROGAS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA.
+A prisão processual não produz afronta ao regramento constitucional - onde encontra recepção -, tampouco traz qualquer ofensa ao princípio da presunção da inocência, mormente ante o disposto no art. 312 do Código de Processo Penal cuja essência - proteção da sociedade - constitui objetivo preponderante no Estado Democrático.
+Cuida-se o tráfico de drogas de crime grave. E a repercussão social dele decorrente, quer no âmbito da saúde pública, quer na esfera da criminalidade - potencializada pelo uso e pelo comércio de substâncias entorpecentes - está a evidenciar concreto risco à ordem pública a tornar necessária a prisão preventiva e obstar a aplicação das medidas cautelares a que alude o art. 319 do Código de Processo Penal.
+Segregação cautelar devidamente fundamentada, fundada nas circunstâncias em que se deu a prisão - o paciente foi denunciado pela prática dos crimes de tráfico de drogas e posse ilegal de arma, em razão de denúncia anônima apontando para o tráfico em determinado local. Ao perceber os policiais o paciente tentou fugir, mas foi abordado, e submetido à revista, ocasião em que resultaram apreendidos com ele sete porções de cocaína, pesando treze gramas. E, no interior da residência, encontraram os agentes uma arma e três pedras de crack, pesando cinco gramas.
+Condições pessoais favoráveis não têm o condão de, isoladamente, afastarem a prisão cautelar, com o que o fato de ser o paciente primário em nada obsta sua segregação cautelar.
+ORDEM DENEGADA, POR MAIORIA.
+Nas razões recursais (e-STJ fls. 135/142), a defesa alega que o recorrente sofre constrangimento ilegal em virtude (i) da ausência dos requisitos legais autorizadores da medida extrema; (ii) da carência de fundamentação concreta e idônea do decreto prisional; e (iii) da suficiência e adequação de medidas cautelares diversas da prisão. Sublinha também que o recorrente ostenta condições favoráveis.
+Diante disso, requer, liminarmente e no mérito, a revogação da prisão preventiva do recorrente, com a aplicação de medidas cautelares alternativas, previstas no art. 319 do Código de Processo Penal.
+O pleito urgente foi indeferido (e-STJ fls. 166/169).
+Prestadas as informações (e-STJ fls. 173/174), o Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ fls. 192/196).
+É o relatório. Decido.
+Consoante informações colhidas do site do Tribunal de origem, registro datado de 6/6/2019 aponta que foi concedida a liberdade provisória ao acusado, ora recorrente, com estipulação de medida cautelar diversa da prisão.
+Assim, fica sem objeto o pedido contido na inicial, em que a defesa se insurgia contra a custódia cautelar do recorrente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Intimem-se.
