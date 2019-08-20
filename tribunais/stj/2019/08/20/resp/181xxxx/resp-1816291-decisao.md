@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que os réus foram condenados às penas de 16 anos e 6 meses de reclusão, em regime inicial fechado, e ao pagamento de 30 dias - multa, como incursos no artigo 157, § 2º, incisos I, II e V (roubo), e artigo 158, § 1º e 3º (extorsão), na forma do artigo 69 (concurso material), todos do Código Penal, possibilitando o recurso em liberdade.
+Irresignada a parte e interposto recurso, restou este parcialmente provido para alterar as reprimendas para 15 anos, 4 meses e 24 dias de reclusão, em regime fechado, por acórdão assim ementado (e-STJ, fl. 502):
+Apelação - Roubo triplamente majorado e extorsão qualificada Acusados que planejaram minuciosamente a empreitada criminosa, abordando a funcionária do estabelecimento comercial Extra na rua de sua residência, pois detinha as chaves do cofre - Extorsão caracterizada e consumada - No interior do estabelecimento, além de terem se apossado do dinheiro contido no cofre, subtraíram 582 pacotes de maços de cigarro - Roubo caracterizado e consumado - Súmula 582, do STJ - Sentença condenatória mantida - Pretensão ministerial de aumento das bases - possibilidade - Circunstâncias do crime - Reforma das penas - regime inicial fechado - Parcial provimento aos apelos.
+Opostos embargos de declaração, foram estes rejeitados (e-STJ, fls. 551/558).
+Na petição de recurso especial, a parte recorrente alega que a decisão atacada contrariou os artigos 157, parágrafo segundo e artigo 158, parágrafo primeiro, ambos do Código Penal e e os arts. 33, § 2º, alínea c, c.c. art. 44 do Código Penal.
+Afirma que o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para sua exasperação a mera indicação do número de majorantes e que, no caso em tela, o modus operandi encontra-se no estalão comum, não havendo nada que justifique um aumento superior a 1/3.
+Requer a revisão da fração de aumento aplicada.
+Contrarrazões às fls. 573/585.
+Admitido o recurso (fls. 606), os autos vieram a esta Corte.
+Parecer ministerial proferido nos termos da seguinte ementa (e-STJ, fl. 618):
+PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO POR CONCURSO DE AGENTES, EMPREGO DE ARMA E RESTRIÇÃO A LIBERDADE DAS VÍTIMAS. EXTORSÃO QUALIFICADA. CONCURSO DE MAJORANTES. EXASPERAÇÃO ACIMA DO MÍNIMO LEGAL (1/3) NA TERCEIRA FASE DA DOSIMETRIA PENAL. AUMENTO DE 2/5 FUNDADO EM PERICULOSIDADE E GRAVIDADE CONCRETAS DA CONDUTA. INAPLICABILIDADE DA SÚMULA 443/STJ. REQUERIMENTO DE EXECUÇÃO PENAL "PROVISÓRIA". PARECER PELO DESPROVIMENTO DO RECURSO ESPECIAL.
+
+É o relatório. Decido.
+Não merece provimento a pretensão recursal.
+Primeiramente, há que se infirmar que no que tange à violação aos arts. 33, § 2º, alínea c, c.c. art. 44 do Código Penal, a parte recorrente não apresentou razões para as quais entendeu contrariados os respectivos dispositivos, atraindo o óbice da Súmula n. 284/STF, ante a deficiência na fundamentação.
+A parte recorrente afirma que a fração de aumento aplicada na terceira fase da dosimetria foi exacerbada, postulando sua revisão.
+Quanto ao tema, o Tribunal de origem consignou (e-STJ, fl. 509):
+Na terceira fase, no tocante ao crime de extorsão, presentes as majorantes do concurso de agentes e do emprego de armas de fogo, as penas foram corretamente elevadas à fração de dois quintos, resultando em 9 anos, 9 meses e 18 dias de reclusão e 15 dias - multa.
+Ainda nesta fase, entendeu por bem a magistrada sentenciante majorar as reprimendas do crime de roubo à razão de dois quintos, tendo em vista a utilização de duas armas de fogo, a participação de três agentes na empreitada criminosa e a restrição à liberdade das vítimas, resultando em 5 anos, 7 meses e 6 dias de reclusão e 14 dias-multa.
+O Superior Tribunal de Justiça consagrou entendimento de que o recrudescimento da pena na terceira fase da dosimetria alusiva ao delito de roubo majorado, em fração mais elevada que 1/3, demanda fundamentação concreta, não se afigurando idônea a simples menção ao número de majorantes. Nesse diapasão, a Súmula n. 443 desta Corte.
+No caso dos autos, a instância primeva justificou concretamente as razões pela qual majorou a pena na terceira fase, não cabendo revisão por esta Corte Especial.
+Neste sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. DUAS MAJORANTES. AUMENTO DA PENA EM 1/2. EXASPERAÇÃO BASEADA EM ELEMENTOS CONCRETOS DA CONDUTA. FUNDAMENTAÇÃO IDÔNEA. SÚMULA N. 443 DO STJ. AUSÊNCIA DE VIOLAÇÃO. COAÇÃO ILEGAL NÃO EVIDENCIADA. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. É entendimento deste Tribunal Superior que a exasperação da reprimenda na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes, a teor do enunciado da Súmula n. 443/STJ.
+2. Na hipótese, o Tribunal de origem destacou elementos concretos da conduta imputada ao paciente, tais como o elevado número de agentes, o uso de arma de fogo e de artefato explosivo, bem como o emprego de violência real, circunstâncias que afastam a incidência do verbete sumular 443/STJ e bem justificam a elevação de 1/2 (um meio) procedida na terceira etapa da dosimetria.
+3. Agravo regimental desprovido.
+(AgRg no HC 490.310/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/06/2019, DJe 13/06/2019)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. ELEVAÇÃO DE PENA SEM FUNDAMENTAÇÃO IDÔNEA NA TERCEIRA FASE DA DOSIMETRIA. PATAMAR DE 1/2 (METADE) DEVIDAMENTE FUNDAMENTADO PELAS INSTÂNCIAS ORDINÁRIAS.
+I - É admissível, na terceira fase da dosimetria da pena, a exasperação da reprimenda acima do patamar mínimo desde que apresentada fundamentação concreta, baseada em dados extraídos dos autos, não se revelando legítimo invocar-se para tanto, tão somente, a quantidade de majorantes para o delito de roubo. Tal entendimento já foi, inclusive, sumulado no âmbito desta Corte, nos termos do enunciado n. 443 da Súmula/STJ: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+II - In casu, não assiste razão ao recorrente, porquanto houve, de fato, a devida fundamentação pelas instâncias ordinárias ao estabelecerem a fração de 1/2 (metade) na terceira fase da dosimetria, não se amparando, portanto, tão somente no número de majorantes para elevar a pena do réu e, sim, nas circunstâncias fáticas em que o crime foi praticado: em concurso de 4 (quatro) agentes que, com arma de fogo em punho, renderam a vítima e colocaram-na no porta-malas do carro, libertando-a apenas quase 1 (uma) hora depois, em um canavial.
+Agravo regimental desprovido.
+(AgRg no AREsp 1227129/AL, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018)
+Ante o exposto, com fundamento no art. 932, inc. IV, alínea "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
