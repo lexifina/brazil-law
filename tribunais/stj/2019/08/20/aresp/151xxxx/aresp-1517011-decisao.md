@@ -1,0 +1,32 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ASSOCIAÇÃO EDUCADORA SÃO CARLOS - AESC - HOSPITAL MÃE DE DEUS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL assim ementado:
+EMBARGOS DE DECLARAÇÃO RESPONSABILIDADE CIVIL. DEMORA NA REALIZAÇÃO DO DIAGNÓSTICO DE PACIENTE QUE SOFREU AVC QUANDO ESTAVA INTERNADO NA INSTITUIÇÃO HOSPITALAR. INOVAÇÃO RECURSAL. MATÉRIA DE ORDEM PÚBLICA.
+APRECIAÇÃO. LITISPENDÊNCIA. DEMANDA CONEXA. NÃO OCORRÊNCIA.
+1. Não verificada contradição, omissão ou obscuridade no julgado, mesmo que para efeito de prequestionamento.
+2. Embora a alegação de litispendência configure inovação recursal, deduzida tão somente neste recurso, aprecia-se, por se tratar de matéria de ordem pública. Situação dos autos, em que o exame da alegação não tem o condão de alterar o resultado do julgamento, de modo a conferir feito infringente, porque não configurada a alegada litispendência desta demanda com a ação conexa, em que a esposa e as filhas da vítima postulam indenização por direito próprio devido ao dano por ricochete sofrido.
+EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Nas razões do recurso especial (fls. 1314-1324), a parte recorrente aponta violação do art. 485, V, do CPC/2015, sob o argumento de que "..foi condenada em duas demandas judiciais a indenizar faticamente as mesmas pessoas, pelos mesmos fatos a título de danos morais".
+Afirma que, in casu, considerando que o recorrido faleceu no curso da demanda e que seus familiares já foram beneficiados por condenação judicial lastreada na mesma situação fática, não se pode admitir a existência de nova condenação, porquanto o quantum indenizatório será revertido a seus sucessores.
+Contrarrazões às fls. 1400-1410.
+É o relatório. DECIDO.
+2. A irresignação não merece prosperar.
+O Tribunal de origem, ao dirimir a controvérsia que lhe foi apresentada, manifestou-se nos seguintes termos (fls. 1117-1118):
+(..)
+Na verdade, a alegação de litispendência se trata de nítida inovação, não deduzida nem mesmo por ocasião da habilitação da sucessão, vez que o hospital, intimado, não se manifestou (certidão de fl. 1074). Todavia, tratando-se de questão de ordem pública, passo ao exame da alegação de litispendência e coisa julgada, a qual já antecipo, não se sustenta.
+Isso porque a presente ação diz respeito ao pedido de indenização postulado pela vítima, Sr. [NOME], devido à perda da chance de cura em virtude da falha no atendimento prestado, no hospital demandado, por ocasião de internação hospitalar ocorrida para a recuperação de pós-operatório de extração de projétil em seu abdômen, na qual sobreveio quando de AVC ignorado pelo corpo de enfermagem, que deixou de acionar o protocolo padrão que indicava o chamamento de neurologista de plantão. Na ação conexa (AC nº [CPF]), a causa de pedir e pedido diz respeito ao dano por ricochete sofrido pela esposa e filhas do paciente, o que, aliás, constou expressamente na fundamentação do acórdão embargado (fl. 1082v). Em razão disso, não há falar em litispendência no caso, na medida que a causa de pedir e pedidos são distintos.
+É certo que pouco antes do julgamento do recurso de apelação, o Sr. Marco Aurélio faleceu (09/06/2018 - fl. 1066), sendo, por consequência, habilitada a sucessão, na forma do disposto no artigo 313, inciso I e § 2º, do CPC.
+Essa habilitação decorreu do fato de que é assente o entendimento doutrinário e jurisprudencial de que embora o dano moral configure direito personalíssimo, a indenização - e até a mesmo a busca pela satisfação de tal direito, conforme expressa disposição do art. 943 do CC, não sendo o caso dos autos - integra o patrimônio do lesado e, portanto, transmite-se aos seus sucessores.
+Analisando o acórdão recorrido, verifico que o Sodalício estadual foi categórico ao afirmar que não há falar em litispendência no caso, uma vez que a causa de pedir e pedidos seriam distintos.
+Desse modo, afirmo que a revisão do que ficou decidido na origem, no tocante à existência ou não de litispendência, demandaria reincursão no contexto fático-probatório dos autos, o que não se admite nesta estreita via recursal, ante o óbice da Súmula 7/STJ.
+A propósito (grifamos):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE TAXA CONDOMINIAL. ARTS. 489 E 1.022, DO CPC/2015. AUSÊNCIA DE OMISSÕES. PRELIMINARES DE CONEXÃO. LITISPENDÊNCIA E COISA JULGADA. AUSÊNCIA DOS REQUISITOS. REVISÃO. SÚMULA 7 DO STJ. RESPONSABILIDADE DO PROPRIETÁRIO. QUITAÇÃO DO DÉBITO. NÃO COMPROVAÇÃO. MULTA DO ART. 1.026, §2º DO CPC/2015. MANUTENÇÃO. REVISÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. No presente caso, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Assim, não há falar, no caso, em negativa de prestação jurisdicional. 2. O Tribunal de origem, amparado nas premissas fáticas dos autos, entendeu que não estão presentes as hipóteses legais de conexão, litispendência, a coisa julgada. A revisão do julgado estadual demandaria reexame de provas. Incidência do óbice da Súmula 7 do STJ. (..)
+6. Agravo interno não provido.
+(AgInt no AREsp 1316325/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/11/2018, DJe 16/11/2018)
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 do CPC/15) - AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO DEMANDADO.
+1. A modificação do entendimento firmado pelo Tribunal de origem acerca da ocorrência ou não da litispendência, bem assim quanto à purgação da mora e o pagamento do débito, exigiria o reexame do contexto fático probatório dos autos, o que é vedado em sede de recurso especial, a teor do disposto na Súmula 7 do STJ.
+Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 980.282/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/08/2017, DJe 28/08/2017)
+3. Ante o exposto, nego provimento ao agravo.
+Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
