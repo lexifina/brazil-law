@@ -1,0 +1,19 @@
+DECISÃO
+1. Trata-se de pedido de tutela de urgência formulado por [NOME] [NOME] [NOME] e OREGON REPRESENTAÇÕES COMERCIAIS DE PRODUTOS ALIMENTÍCIOS E ANIMAIS VIVOS LTDA., visando a concessão de efeito suspensivo a recurso especial interposto contra acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PLEITO DE SUBSTITUIÇÃO DO BEM PENHORADO. INVIABILIDADE. NÃO CUMPRIMENTO DOS REQUISITOS PREVISTOS NOS ARTS. 847 E 848 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE PREJUÍZO AO EXEQUENTE NÃO DEMONSTRADA. DEVEDORES QUE SEQUER INDICARAM O VALOR DO BEM OFERTADO. DISCORDÂNCIA DO CREDOR. SUSPENSÃO DA EXECUÇÃO ATÉ A ALIENAÇÃO DE OUTRO IMÓVEL, A FIM DE PRESERVAR O BEM PENHORADO. INOVAÇÃO RECURSAL. PEDIDO NÃO VENTILADO EM PRIMEIRO GRAU. RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, NÃO PROVIDO." (e-STJ Fl. 103).
+As razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, apontam violação do art. 841, § 1º, V, e §§ 2º e 3º, do CPC/2015, alegando os recorrentes, em síntese, a possibilidade de substituição da penhora por outro bem de igual natureza, devendo a execução prosseguir com a avaliação do bem ofertado.
+Estando o recurso especial em trânsito perante o Tribunal de origem, apresentou o recorrente o presente pedido de tutela de urgência, requerendo a concessão de efeito suspensivo ao recurso especial, a fim de suspender "as medidas constritivas e expropriatórias do bem de família do Requerente [NOME]" (e-STJ Fl.81).
+Alega, para tanto, a existência de fumus boni iuris, em vista da plausibilidade do recurso especial, e também de periculum in mora, uma vez que determinada a avaliação do bem de família penhorado, no qual residem os filhos do executado.
+É o relatório. Decido.
+2. Acerca da competência para apreciar pedido de tutela provisória para conceder efeito suspensivo a recurso especial, convém destacar o art. 1.029 do CPC/2015, in verbis:
+"Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+(..)
+§ 5º. O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037." (grifos acrescidos)
+Da leitura do dispositivo legal ora transcrito, infere-se que a competência desta Corte para apreciar pedido de atribuição de efeito suspensivo em recurso especial se inicia apenas após a realização de juízo de admissibilidade pelo eg. Tribunal de Justiça.
+No caso dos autos, no entanto, verifica-se que o recurso especial ao qual se pretende atribuir efeito suspensivo encontra-se ainda pendente de manifestação no eg. Tribunal a quo, inexistindo, no momento, qualquer manifestação daquela Corte acerca da admissibilidade do recurso interposto. Nesse cenário, evidente a incompetência do Superior Tribunal de Justiça para examinar, neste momento processual, o pedido formulado.
+Efetivamente, enquanto não realizado o juízo de admissão do recurso especial, as medidas urgentes devem ser requeridas ao próprio Tribunal de origem, nos termos do art. 1.029, III, do CPC/2019.
+Ante o exposto, não conheço do pedido.
+Publique-se.
