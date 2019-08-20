@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interno interposto por [NOME], que desafia decisão de minha lavra, proferida às e-STJ fls. 736/738, em que não conheci do agravo em recurso especial, visto que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada.
+Parecer do Ministério Público Federal apontando a prejudicialidade do agravo (e-STJ fls. 736/738).
+Impugnação às e-STJ fls. 754/763 e 790/797.
+Passo a decidir.
+Observa-se que o recurso especial foi interposto contra acórdão que, em sede de agravo de instrumento, confirmou decisões interlocutórias de recebimento de petição inicial em ação de improbidade administrativa e de citação dos réus (e-STJ fls. 581/593).
+Conforme informa o parecer ministerial, por meio de consulta ao sítio eletrônico do TJSP, constata-se que foi proferida sentença nos autos da Ação Civil Pública n. 1009964-76.2016.8.26.0248, julgando procedente a demanda para condenar os réus às sanções previstas no art. 12, I, da Lei n. 8.429/1992 pela prática de atos de improbidade previstos no art. 9º, caput e I, da referida lei (fonte: https://esaj.tjsp.jus.br/cpopg/show.do processo.foro=248&processo.codigo=6W0001OKP0000).
+Nesse contexto, o entendimento pacificado nesta Corte Superior é no sentido de que "a superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento" (AgInt no REsp 1.574.170/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/02/2017).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RESP. APELO RARO INTERPOSTO CONTRA O ACÓRDÃO DO TRF DA 4a REGIÃO QUE CONFIRMOU DECISÃO DE RECEBIMENTO DE PETIÇÃO INICIAL EM ACP POR IMPROBIDADE ADMINISTRATIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PERDA DE OBJETO DO NOBRE APELO PROCLAMADA PELA DECISÃO AGRAVADA. PRETENSÃO A QUE SEJA APRECIADO O APELO RARO, AO ARGUMENTO DE QUE A SENTENÇA DE IMPROCEDÊNCIA GERA PERDA DE OBJETO DO APELO RARO, MAS NÃO A CONDENATÓRIA. CONTUDO, NÃO HÁ ESSA DISTINÇÃO, POIS, PROFERIDA A SENTENÇA, A MATÉRIA DA ADMISSIBILIDADE DA PETIÇÃO INICIAL DA ACP SE DESLOCA PARA A EVENTUAL APELAÇÃO. AGRAVO INTERNO DO IMPLICADO DESPROVIDO.
+1. Esta Corte Superior tem a diretriz de que a superveniência de sentença condenatória na ação de improbidade administrativa torna prejudicado, pela perda de objeto, o recurso especial interposto contra o acórdão do agravo de instrumento que confirmara o recebimento da petição inicial, deslocando a discussão de fundo para eventual apelação (REsp. 1.319.395/PE, Rel. Min. OLINDO MENEZES, DJe 27.10.2015).
+2. Efetivamente, ao proferir sentença condenatória, há, explicitamente, afirmação do juízo de Primeiro Grau de que a petição inicial reúne todas as condições de viabilidade, isto é, a pretensão veiculada na ação de improbidade estava apta ao processamento.
+3. Bem por isso, o pronunciamento exauriente contido em sentença está submetido à forja pelo Tribunal, devolvendo-se ao recurso de Apelação toda matéria discutida em Primeiro Grau, inclusive o tema da admissibilidade do feito.
+4. Se houvesse manifestação desta Corte Superior em Apelo Raro quanto a tópico meritório que constou da sentença - e que ainda se sujeita a análise recursal própria e cabível -, estar-se-ia a ofender o princípio do duplo grau de jurisdição.
+5. Na espécie, conforme assinalou a decisão agravada, o Recurso Especial foi interposto contra aresto do Tribunal de origem que, em sede de Agravo de Instrumento, negou provimento ao recurso, mantendo o recebimento da petição inicial na ACP. Constatou-se, além disso, que houve prolação de sentença de parcial procedência da pretensão em 16.12.16 (fls. 1.519/1.550). O Apelo Raro perdeu objeto.
+6. Agravo Interno do implicado desprovido.
+(AgInt no REsp 1.545.842/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 21/11/2017, DJe 04/12/2017).
+Assim, está evidenciada a perda de objeto do presente recurso.
+Diante do exposto, JULGO PREJUDICADO o agravo interno nos termos do art. 34, XI, do RISTJ.
+Publique-se. Intimem-se.
