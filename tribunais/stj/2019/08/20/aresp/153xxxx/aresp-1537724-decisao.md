@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. AÇÃO COMINATÓRIA C/C INDENIZATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO QUE CONVERTE A OBRIGAÇÃO DE REGULARIZAR O ABASTECIMENTO DE ÁGUA EM PERDAS E DANOS, FIXADOS EM R$ 20.000,00 (VINTE MIL REAIS). INCONFORMISMO DA EXECUTADA, PRETENDENDO A REVOGAÇÃO DA DECISÃO OU, EM ÚLTIMA ANÁLISE, A REDUÇÃO DO VALOR ARBITRADO.
+1. Não há se cogitar da revogação da decisão recorrida, na medida em que foi a Agravante quem requereu a conversão em perdas e danos. Pretensão que vai de encontro à doutrina dos atos próprios, representada pela expressão nemo potest venire contra factum proprium, a qual reprime a conduta contraditória.
+2. O arbitramento das perdas e danos está em harmonia com os preceitos da proporcionalidade, razoabilidade e que veda o enriquecimento sem causa. Precedentes deste Tribunal de Justiça.
+3. Litigância de má-fé não configurada.
+4. Desprovimento do recurso.
+Alega violação do art. 537, § 1º, do CPC, no que concerne à exorbitância do valor fixado a título de perdas e danos decorrentes da impossibilidade de cumprimento da obrigação de fazer, trazendo o(s) seguinte(s) argumento(s):
+Tem-se claro que o valor da multa, ou, no caso, da conversão, deve ser reduzido para um valor mais condizente não só com a realidade da Comarca de Duque de Caxias mas também em relação à condição econômica do recorrido, a fim de ajustá-la aos parâmetros de razoabilidade e proporcionalidade, tendo em vista que a mesma tem o escopo de garantir a efetividade da ordem judicial com o cumprimento da obrigação, não se podendo admitir a sua transformação em enriquecimento ilícito (fl. 47).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que o artigo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Não se conhece do recurso especial, quando o dispostivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula n. 284 do STF" (AgInt no REsp n. 1.788.417/SC, relator Ministro Gurgel de Faria, Primeira Turma, Dje de 6/6/2019).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.651.670/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18/6/2019; AgInt no REsp n 1.689.883/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 14/6/2019; AgRg no REsp n. 1351593/RS, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 12/3/2014; e AgRg no AREsp n. 197.224/SP, relatora Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), Quinta Turma, DJe de 20/11/2012.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
