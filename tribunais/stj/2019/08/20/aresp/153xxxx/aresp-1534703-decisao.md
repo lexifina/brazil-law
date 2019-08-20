@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+EMENTA: APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE ANTECIPAÇÃO DE TUTELA E INDENIZAÇÃO POR DANOS MORAIS. COBRANÇA DE TARIFAS EM DUPLICIDADE. DEVOLUÇÃO EM DOBRO. INEXISTÊNCIA DE CORTE DE FORNECIMENTO DE ÁGUA OU NEGATIVAÇÃO. AUSÊNCIA DE DANO MORAL. MANUTENÇÃO DO JULGADO.
+Consumidor que demonstrou a irregularidade da cobrança. Concessionária que emitiu fatura considerando duas economias, quando só há um domicílio. Falha na prestação do serviço caracterizada. Obrigação de restituir os valores efetivamente pagos em excesso. Inexistência de engano justificável na conduta da CEDAE.
+Repetição do indébito em dobro. Dano moral não configurado. Não houve suspensão do fornecimento de água nem negativação do nome do consumidor. Cobrança indevida que, por si só, não gera o dever de indenizar.
+Majoração dos honorários sucumbenciais para 15% (quinze por cento), para o primeiro apelante, e 10% (dez por cento), para segundo apelante, observada a gratuidade justiça. DESPROVIMENTO DOS RECURSOS.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, alega, além de dissídio jurisprudencial, violação dos arts. 186 e 944 do CC, no que concerne à configuração do dano moral.
+É o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+No que tange aos alegados danos morais, sabe-se que apenas a cobrança indevida, por si só, não configura grave constrangimento ou intenso sofrimento capaz de ultrapassar os limites do mero aborrecimento não indenizável.
+No caso de simples inadimplemento contratual, aplica-se o entendimento contido no enunciado 75 da Súmula deste Tribunal de Justiça, segundo o qual:
+ ..
+Na presente hipótese, não houve negativação do nome do consumidor, nem ocorreu a suspensão do serviço de fornecimento de água.
+Também não existem provas do abalo psicológico causado em razão da conduta perpetrada pela empresa, que se resumiu, tão somente, à cobrança indevida.
+Sendo assim, no que se refere ao dano moral, sem razão o consumidor, pois inexiste, no caso concreto, a comprovação do alegado constrangimento passível de indenização.
+Forçoso concluir que, não obstante a falha na prestação do serviço, por cobrança indevida, não se verifica dano moral a ser reparado, pois a cobrança da dívida questionada na presente ação não ofendeu os direitos inerentes à personalidade do autor (fls. 164/165)
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Sobre o tema, esta Corte Superior de Justiça já se manifestou no sentido de que "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
