@@ -1,0 +1,34 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BANCO DO BRASIL SA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. FASE DE LIQUIDAÇÃO. DECISÃO LIQUIDANDA. NULIDADE. INOCORRÊNCIA. CRIVO DA AMPLA DEFESA E DO CONTRADITÓRIO. RESPEITADO. CONTEÚDO PETITÓRIO. IDÊNTICO AO ANTERIOR. PERITO TÉCNICO. QUALIFICAÇÃO. PRECLUSÃO TEMPORAL. MOMENTO INOPORTUNO. VÍCIOS E NULIDADES NA PERÍCIA CONTÁBIL. EXISTÊNCIA. CRITÉRIOS ESTABELECIDOS PELO JUÍZO. NÃO ATENDIDOS. CRESCIMENTO DE MERCADO DE ATUAÇÃO. CONSIDERAÇÃO DOS ÍNDICES POSITIVOS E NEGATIVOS. INOCORRÊNCIA. DADOS DE EMPRESAS DO MESMO RAMO. NÃO UTILIZAÇÃO. VOLUMES DE OBRAS. DISPARIDADE NO ANO DE 1986. DISTORÇÕES. PERCENTUAIS UTILIZADOS. AUSÊNCIA DE ESCLARECIMENTO. LUCROS CESSANTES À PESSOA JURÍDICA. CRITÉRIOS DE APURAÇÃO. PERCENTUAIS. CONSTRUÇÃO CIVIL E NÃO CONSTRUÇÃO DE ARMAZÉNS. LUCROS CESSANTES À HENRIQUE. ENCARGOS CELETISTAS. IMPOSSIBILIDADE. RELAÇÃO EMPREGATÍCIA. INEXISTENTE. SÓCIO DA EMPRESA. DEMAIS VÍCIOS. PERÍCIA ANULADA. NOVOS QUESITOS. BAIXA DOS AUTOS. REALIZAÇÃO DE NOVA PERÍCIA. NECESSIDADE. DECISÃO REFORMADA. AGRAVO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 174 e 195 do Código Tributário Nacional, 402 do Código Civil.
+Sustenta a agravante, em síntese, que não deve ser reconhecida a prescrição sobre o pedido de expedição de ofício à Receita Federal a fim de fornecer as declarações de imposto de renda da agravada entre os anos de 1984 e 1994, uma vez que, conforme defende, o alcance do prazo prescricional não é aplicável ao FISCO.
+Contrarrazões ao recurso especial às fls. 4251-4257.
+É o relatório.
+DECIDO.
+2. No tocante à alegada violação dos artigos 174 e 195 do Código Tributário Nacional, e 402 do Código Civil, cumpre trazer trecho do acórdão recorrido que consignou:
+Na data de elaboração do Laudo Pericial (30.03.2012 - mov. 1.200), a empresa exequente, ora agravada, já não possuía mais o dever de manutenção da documentação contábil referente aos anos anteriores a 1989.
+Isso porque a obrigação de guarda dos livros de escrituração comercial e fiscal subsiste pelo prazo de cinco (5) anos, conforme infere-se da interpretação do artigo 195, parágrafo único c/c artigo 174, ambos do Código Tributário Nacional.
+Assim, diante de a impossibilidade fática de acesso aos livros contábeis, não haveria, em princípio, óbice à utilização dos contratos apresentados pela exequente, para fins de apuração de seu faturamento médio anual.
+(..)
+No caso, o acolhimento da pretensão recursal no sentido de que: "No caso em tela os contratos celebrados pela empresa, demonstrativos de realização de obras e demais documentos sobre os quais se baseou a perícia - declarada nula -, são absolutamente insuficientes para o apuração dos lucros cessantes, vez que a comprovação de realização de obras pela empresa, por si só, não é um indicativo absoluto de lucro. Isso porque é comum, no meio empresarial em que atuava a Engetel, que a sociedade trabalhe com margem de lucro bastante reduzida, haja vista que a concorrência do setor impede a prática de preços que garantam margem de lucro elevada."; e a revisão do entendimento do Tribunal de origem sobre a ocorrência da prescrição; demandaria, necessariamente, reexame do conjunto fático - probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+Ademais, esta Corte Superior possui firme o entendimento no sentido de que cabe ao magistrado verificar a necessidade de expedição de ofícios à Receita Federal para comprovar a situação financeira do autor, conforme o princípio do livre convencimento do julgador. Incidência da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL.IRRESIGNAÇÃO DO BANCO.
+1. Não se conhece da alegação de violação dos arts. 165, 458 e 535 do CPC, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula n. 284 do STF.
+2. A alegada afronta ao art. 25, § 1º, III, da Lei 9.250/95, veiculada nas razões do recurso especial, não pôde ser apreciada nesta instância extraordinária tendo em vista a incidência da súmula 282/STF, ante a ausência de prequestionamento, porquanto não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+3. O prazo prescricional para ações em que se pretende o pagamento de título de créditos é o trienal, e para os casos decorrentes de relação obrigacional, há de ser adotado o prazo decenal.
+Precedentes.
+Tribunal de origem que com base no acervo probatório consignou tratar-se de uma relação obrigacional. A inversão da premissa demandaria a reanálise de matéria fática, providência vedada nesta esfera recursal extraordinária, em virtude do óbice contido no enunciado da Súmula 07 do Superior Tribunal de Justiça.
+4. Cabe ao magistrado verificar a necessidade de expedição de ofícios à Receita Federal para comprovar a situação financeira do autor, conforme o princípio do livre convencimento do julgador.
+Produção de prova considerada desnecessária na origem. Infirmar tais fundamentos demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 214.840/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/10/2014, DJe 07/11/2014)
+PROCESSUAL CIVIL. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 458, II, E 535, II, DO CPC. EXECUÇÃO. EXPEDIÇÃO DE OFÍCIO À RECEITA FEDERAL.EXCEPCIONALIDADE NÃO CONFIGURADA. SÚMULA 7/STJ.
+1. Não há falar em violação dos arts. 458 e 535 do CPC, quando o Tribunal de origem se pronuncia, de forma fundamentada, sobre todas as questões necessárias ao desate da lide.
+2. Esta Corte possui entendimento pacífico no sentido de que a expedição de ofício à Receita Federal para requisitar informações a respeito da situação patrimonial do executado, é medida excepcional, somente sendo admitida quando se demonstre haver esgotado as diligências necessárias à localização de bens passíveis de penhora pelo credor. Assim, concluindo o Tribunal de origem pela ausência dessa excepcionalidade, descabe a esta Corte concluir em sentido contrário, ante a necessidade de se revolver matéria fático-probatória, o que é vedado pelo óbice da Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 448.939/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/03/2014, DJe 21/03/2014)
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
