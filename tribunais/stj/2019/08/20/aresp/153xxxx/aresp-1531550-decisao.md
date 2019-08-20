@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por JUNTO SEGUROS S.A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO DE INSTRUMENTO PENHORA DE PARTE DE REMUNERAÇÃO RECEBIDA PELA AGRAVADA IMPOSSIBILIDADE HIPÓTESE DO ARTIGO 833 IV DO CÓDIGO DE PROCESSO CIVIL IMPENHORABILIDADE RECONHECIDA RECURSO NÃO PROVIDO
+Quanto à controvérsia posta nos autos, pelas alíneas "a" e "c" do permissivo constitucional, alega violação dos arts. 139, IV, e 833, IV, do CPC, no que concerne à possibilidade de penhora parcial de salário, trazendo o(s) seguinte(s) argumento(s):
+A circunstância de haver exceção legal expressa à impenhorabilidade no §2º do art. 833 (crédito alimentar ou rendimentos acima de 50 salários mínimos) não exclui a possibilidade interpretativa de, à luz do caso, flexibilizar-se a garantia a fim de conferir efetividade à tutela jurisdicional e à dignidade do credor, atendidos os postulados da proporcionalidade e da razoabilidade (fls. 53).
+ ..
+Por isso, o Tribunal de Justiça do Paraná violou também o art. 139, inc. IV, do CPC, na medida em que não exerceu plenamente todas as medidas judiciais possíveis, conforme requeridas pela parte, a fim de assegurar o pagamento do débito exequendo ("cumprimento da ordem judicial") - o que acarreta verdadeira frustração da tutela jurisdicional (fls. 57).
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ademais, a despeito de ter sido apontada a alínea "c" do permissivo constitucional, incide o óbice da Súmula 284/STF, pois a parte recorrente não indicou expressamente qual o acórdão tido por paradigma, o que impede eventual análise da divergência de interpretações.
+Observem-se, nesse sentido, os seguintes precedentes: AgRg no AgRg no AREsp n. 1.019.207/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 1º/8/2017; AgRg no AREsp n. 545.856/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 19/2/2015; e AgRg no AREsp n. 431.782/MA, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2014.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
