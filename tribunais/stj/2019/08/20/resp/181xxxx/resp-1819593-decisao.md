@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE SANTA CATARINA, com base na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça daquela unidade da Federação assim ementado (e-STJ fl. 228):
+SERVIDORA PÚBLICA ESTADUAL. POLICIAL CIVIL. AÇÃO DE INDENIZAÇÃO. PEDIDO DE PAGAMENTO EM PECÚNIA DE LICENÇA -PRÊMIO NÃO USUFRUÍDA ANTES DA APOSENTADORIA (RESERVA). DIREITO À INDENIZAÇÃO, SOB PENA DE LOCUPLETAMENTO ILÍCITO. INAPLICABILIDADE DO ART. 190-A DA LEI COMPLEMENTAR N. 381/2007, ACRESCENTADO PELA LEI COMPLEMENTAR N. 534/2011. ENTENDIMENTO FIRMADO EM INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. TEMA 03. SENTENÇA MANTIDA, NO PONTO.
+"O servidor público estadual tem direito à indenização por licenças -prêmios e especiais quando encerrado seu vínculo com a Administração, afastado o art. 190-A da Lei Complementar 381/2007 (na redação da Lei Complementar 534/2011) como possível impedimento, apurado o valor da reparação de acordo com a remuneração integral". (IRDR n. 0022064-08.2013.8.24.0033, de Itajaí, rel. Des. Hélio do Valle Pereira, Grupo de Câmaras de Direito Público, j. 25-4-2018)
+JUROS DE MORA E CORREÇÃO MONETÁRIA. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL (RE N. 870.947/SE) E DO SUPERIOR TRIBUNAL DE JUSTIÇA (TEMA N. 905). ADEQUAÇÃO EM REEXAME NECESSÁRIO. HONORÁRIOS ADVOCATÍCIOS. MODIFICAÇÃO PARCIAL DA SENTENÇA, EM REMESSA NECESSÁRIA, PARA DETERMINAR QUE VERBA HONORÁRIA SEJA ENQUADRADA NA ETAPA DE LIQUIDAÇÃO. APELO DESPROVIDO E SENTENÇA PARCIALMENTE REFORMADA EM REEXAME NECESSÁRIO. HONORÁRIOS RECURSAIS A SEREM, TAMBÉM, APURADOS EM LIQUIDAÇÃO.
+Parcialmente acolhidos os aclaratórios no tocante à correção monetária e juros moratórios (e-STJ fls. 265/274).
+Nas suas razões, a parte recorrente aponta violação do art. 982, I, do CPC/2015, sustentando que o presente processo deveria permanecer suspenso até o trânsito em julgado de incidente de resolução de demandas repetitivas.
+Contrarrazões às e-STJ fls. 281/288.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 290/294.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+No que toca à alegação de contrariedade do art. 982, I, do CPC/2015, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Com efeito, tratou a Corte de origem tão somente acerca da possibilidade de aplicação de entendimento firmado em incidente de resolução de demandas repetitivas independentemente do trânsito em julgado do acórdão (e-STJ fl. 271), não havendo manifestação acerca da necessidade de suspensão de processos.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Nos termos do art. 85, § 11, do CPC/2015, MAJORO os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
