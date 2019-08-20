@@ -1,0 +1,37 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por [NOME], contra acórdão prolatado, por maioria, pela 4ª Turma do Tribunal Regional Federal da 3ª Região, no julgamento de agravo legal em reexame necessário, assim ementado (fls. 1.478/1.486e):
+AGRAVO LEGAL. AÇÃO POPULAR. RESSARCIMENTO AO ERÁRIO. NÃO CONFIGURAÇÃO. CRÉDITO TRIBUTÁRIO. PRESCRIÇÃO. IMPOSSIBILIDADE DE O AUTOR INTERPOR AGRAVO LEGAL. AUSÊNCIA DE APELAÇÃO. PRECLUSÃO.
+1. A parte inconformada com a decisão proferida com base no art. 557 do Código de Processo Civil pode interpor o agravo de que trata o §1º.
+2. O agravante deixou de recorrer da sentença de primeiro grau, impedindo a análise do seu agravo legal, interposto contra a decisão monocrática que declarou a prescrição e julgou prejudicada a análise do reexame necessário, ante o fenômeno da preclusão. Precedentes desta E. Corte e do C. STJ.
+3. Agravo legal não conhecido.
+Opostos embargos de declaração, foram rejeitados (fls. 1.513/1.520e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+ (i) Art. 535 do Código de Processo Civil de 1973 - o tribunal de origem foi contraditório e omisso ao, por decisão monocrática, reconhecer a prescrição e, diferentemente da sentença, extinguir a ação com exame de mérito, e não conhecer do agravo legal fundamentado na existência de preclusão;
+
+ (ii) Arts. 475, I, e 515, § 3º, do Código de Processo Civil de 1973 - em sede de reexame necessário não é possível a reforma da sentença em desfavor dos interesses da pessoa jurídica de direito público;
+ (iii) Art. 174 do Código Tributário Nacional - a norma contida nesse dispositivo não é aplicável à Ação Popular, que não é equivalente à execução fiscal; e
+ (iv) Arts. 37, § 5º, da Constituição da República, e 21, da Lei n. 4.717/1965 - parte da Lei de Ação Popular não foi recepcionada pela Constituição da República de 1988, que prevê a imprescritibilidade das ações de ressarcimento de lesão ao erário público.
+Com contrarrazões (fls. 1.602/1.623e, 1.652/1.668e, 1.684/1.702e e 1.723/1.726e), o recurso foi admitido (fls. 1.733/1.735e).
+O Ministério Público Federal manifestou-se às fls. 1.848/1.850e.
+Em 28.05.2018, proferi decisão mediante a qual, com fundamento no art. 557, § 1º-A, do Código de Processo Civil de 1973, dei provimento ao recurso especial para determinar o retorno dos autos ao tribunal a quo, a fim de que seja sanada a contradição indicada (fls. 1.852/1.856e).
+Às fls. 1.859/1.186e foi informado o falecimento da parte autora.
+Contra a mencionada decisão monocrática foram opostos embargos de declaração (fls. 1.867/1.874e), cuja representação processual foi regularizada às fls. 1.880/1.881e, bem como interposto agravo interno (fls. 1.884/1.892e).
+À vista da informação de fls. 1.859/1862e, determinei, nos termos do disposto no art. 9º da Lei n. 4.717/1965 a publicação de edital oportunizando a qualquer cidadão, que cumprisse os requisitos estabelecidos em lei, o prosseguimento da ação na posição de autor, bem como a intimação do Ministério Público Federal, com a mesma finalidade (fl.s 1.903/1.904e).
+As providências foram cumpridas, decorreu o prazo para manifestação e o paquet manifestou, expressamente, o desinteresse no prosseguimento do feito (fls. 1.906/1.912e).
+Registro, ainda, que, simultaneamente, os embargos de declaração de fls. 1.867/1.874e estão sendo acolhidos e a decisão de fls. 1.852/1.856e reconsiderada, com a consequente prejudicialidade do agravo interno de fls. 1.884/1.892e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Conforme informação apresentada (fls. 1.859/1.186e), bem como diante do transcurso, in albis, do prazo para manifestação acerca do edital e, ainda, da manifestação do Ministério Público Federal no sentido do desinteresse no prosseguimento do feito (fls. 1.906/1.912e) caracterizada a carência superveniente de interesse recursal.
+Nesse sentido, confira-se o seguinte acórdão da Corte Especial, em caso análogo:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO PROFERIDA EM ANTECIPAÇÃO DE TUTELA INCIDENTAL. SUPERVENIENTE PROLAÇÃO DE SENTENÇA DE MÉRITO. PERDA DE OBJETO.
+1. Há dois critérios para solucionar o impasse relativo à ocorrência de esvaziamento do conteúdo do recurso de agravo de instrumento, em virtude da superveniência da sentença de mérito, quais sejam: a) o da cognição, segundo o qual o conhecimento exauriente da sentença absorve a cognição sumária da interlocutória, havendo perda de objeto do agravo; e b) o da hierarquia, que pressupõe a prevalência da decisão de segundo grau sobre a singular, quando então o julgamento do agravo se impõe.
+2. Contudo, o juízo acerca do destino conferido ao agravo após a prolatação da sentença não pode ser engendrado a partir da escolha isolada e simplista de um dos referidos critérios, fazendo-se mister o cotejo com a situação fática e processual dos autos, haja vista que a pluralidade de conteúdos que pode assumir a decisão impugnada, além de ensejar consequências processuais e materiais diversas, pode apresentar prejudicialidade em relação ao exame do mérito.
+3. A pedra angular que põe termo à questão é a averiguação da realidade fática e o momento processual em que se encontra o feito, de modo a sempre perquirir acerca de eventual e remanescente interesse e utilidade no julgamento do recurso.
+4. Ademais, na específica hipótese de deferimento ou indeferimento da antecipação de tutela, a prolatação de sentença meritória implica a perda de objeto do agravo de instrumento por ausência superveniente de interesse recursal, uma vez que: a) a sentença de procedência do pedido - que substitui a decisão deferitória da tutela de urgência - torna-se plenamente eficaz ante o recebimento da apelação tão somente no efeito devolutivo, permitindo desde logo a execução provisória do julgado (art. 520, VII, do Código de Processo Civil); b) a sentença de improcedência do pedido tem o condão de revogar a decisão concessiva da antecipação, ante a existência de evidente antinomia entre elas.
+5. Embargos de divergência não providos.
+(EAREsp 488.188/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 07/10/2015, DJe 19/11/2015).
+Na mesma linha, ainda, os seguintes precedentes: AgRg nos EREsp 1.199.135/DF, Rel. Min. Humberto Martins, CE, DJe 06/05/2016; AgInt no REsp 1.359.130/SP, Rel. Min. Napoleão Nunes Maia Filho, 1ª T., DJe 07/08/2017; REsp 1.103.566/PR, Rel. Min. Luiz Fux, 1ª T., DJe 30/06/2010; AgRg no REsp 1.434.026/PB, Rel. Min. Assusete Magalhães, 2ª T., DJe 24/06/2016; e REsp 1.666.336/SP, Rel. Min. Herman Benjamin, 2ª T., DJe 19/06/2017.
+Posto isso, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial, porquanto prejudicado.
+Publique-se e intimem-se.
