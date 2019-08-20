@@ -1,0 +1,20 @@
+DECISÃO
+RENAN MUNHOZ PORTO alega sofrer coação ilegal diante decisão liminar proferida por Desembargado do Tribunal de Justiça do Estado de São Paulo, que indeferiu o pleito de urgência no HC n. 2174911-93.2019.8.26.0000. Busca a concessão alvará de soltura.
+Nos Autos n. 1500098-46.2019.8.26.0356, da Comarca de Mirandópolis, o paciente foi condenado por tráfico de drogas e obteve o direito de apelar em liberdade. No Processo n. 1500015-38.2018.8.26.0515, da Comarca de Rosana, ele foi denunciado por idêntico crime de tráfico de drogas e por associação para tal fim. O Tribunal reconheceu a litispendência em relação ao primeiro delito e trancou parcialmente a persecução penal.
+O Processo n. 1500015-38.2018.8.26.0515, da Comarca de Rosana, persiste em relação ao delito do art. 35 da Lei de Drogas. Em seu bojo, o Juiz determinou a prisão preventiva do acusado.
+O advogado sustenta que o Tribunal incorreu em omissão ao julgar o HC n. 212818-21.2019.8.26.0000, pois, apesar de reconhecer a litispendência em relação ao crime de tráfico, não se manifestou sobre o direito de o réu aguardar em liberdade a apuração do crime do art. 35 da Lei de Drogas. A pretensão foi reiterada no writ originário, mas o Desembargador indeferiu o pedido liminar de soltura do paciente.
+O impetrante pede, então, a intervenção per saltum desta Corte, pois "em desfavor de Renan pesa tão somente o crime de associação para o tráfico" e "a maioria dos acusados receberam o direito de responder em liberdade", a revelar "grande injustiça", principalmente porque não estão presentes os elementos do crime do 35 da Lei de Drogas e a custódia é desproporcional à futura pena que, em caso de condenação, seria imposta ao paciente.
+Requer "seja liminarmente garantido ao paciente a sua liberdade" (fl. 9).
+Decido.
+I. Súmula n. 691 do STF
+Não compete ao Superior Tribunal de Justiça, nos termos das suas atribuições, definidas na Constituição Federal, conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal de segundo grau, indefere a liminar.
+A orientação está consolidada na Súmula n. 691 do STF cuja superação é permitida somente em casos excepcionais, nos quais a teratologia do ato apontado como coator é tão evidente que desperta o tirocínio do aplicador do direito, sem nenhuma margem de dúvida ou divergência de opiniões, sob pena de prejuízo ao poder de julgar organizado, à hierarquia dos graus de jurisdição e à competência deles.
+II. Impossibilidade de mitigar a Súmula n. 691 do STJ.
+Não verifico teratologia passível de ensejar a excepcional tramitação do writ.
+O preso em favor do qual for expedido o alvará de soltura será colocado imediatamente em liberdade, salvo se houver outro mandado de prisão expedido em seu desfavor, com in casu.
+O paciente foi beneficiado com o direito de apelar em liberdade da condenação pelo crime de tráfico de drogas, proferida pelo Juízo de Mirandópolis, mas não pode ser solto porque em outro processo que responde por associação para o tráfico existe decreto de prisão preventiva em seu desfavor.
+Quanto à legalidade da decisão proferida pelo Juízo de Rosada, o habeas corpus, além de atacar decisão de Desembargador, não está suficientemente instruído. O édito prisional não foi juntado a este habeas corpus e a falta de prova pré-constituída da pretensa ilegalidade ao direito de locomoção impede o conhecimento da ação mandamental.
+Finalmente, conquanto o impetrante destaque vício de omissão no acórdão proferido pelo Tribunal, no HC n. 212818-21.2019.8.26.0000, nada há a ser feito, pois, por meio da impetração originária o órgão já foi instado a se manifestar sobre o pedido de liberdade do paciente.
+III. Dispositivo
+À vista do exposto, sem prejuízo futuro de exame mais acurado da insurgência, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada do Tribunal a quo, indefiro liminarmente este habeas corpus, com fulcro no art. 210 do RISTJ e na Súmula n. 691 do STF.
+Publique-se e intimem-se.
