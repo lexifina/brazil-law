@@ -1,0 +1,4 @@
+Instrução Normativa RFB nº 1908, de 19 de agosto de 2019
+Altera o Anexo Único da Instrução Normativa RFB nº 1.799, de 16 de março de 2018, que relaciona mercadorias não admitidas no regime aduaneiro especial de loja franca em fronteira terrestre.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III, XXI e XXII do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no parágrafo único do art. 6º da Lei nº 9.826, de 23 de agosto de 1999, nos arts. 4º e 5º, no inciso VII do § 2º do art. 6º, nos arts. 7º e 9º, no parágrafo único do art. 10, no § 3º do art. 13, no parágrafo único do art. 16 e no art. 23 da Portaria MF nº 307, de 17 de julho de 2014, resolve:
+[arquivo anexo: tab1.html]
