@@ -1,0 +1,28 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele estado (Apelação Criminal n. 110261/20).
+Consta dos autos que a ora agravada foi condenada à pena de 2 anos e 11 meses de reclusão, em regime aberto, mais multa, pela prática do crime previsto no art. 33, caput e § 4º, c/c o art. 40, III, ambos da Lei n. 11.343/2006, com a substituição da reprimenda por uma restritiva de direito e multa. Segundo foi apurado, a ré foi flagrada, nas dependências de estabelecimento prisional, trazendo consigo 253 g de maconha, escondidos no interior da vagina.
+Nas razões do recurso especial, o Ministério Público aponta violação do art. 44 do Código Penal, sob o argumento de que "o impedimento para a substituição se consubstancia no fato da grande quantidade de droga apreendida indicar que a substituição da pena privativa de liberdade, por restritiva de direitos, não seria socialmente recomendável ao caso concreto, bem como não seria suficiente para a prevenção e a repressão do delito" (fl. 345).
+Requer o provimento do recurso, para que seja afastada a substituição da reprimenda.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+O Juiz sentenciante negou a substituição da pena privativa de liberdade por restritivas de direitos, sob os seguintes fundamentos (fl. 157):
+No caso sub oculis, tenho que ambos condenados não preenchem todos os requisitos para a conversão da pena, já que por ocasião da dosimetria da pena base, referente a ré, foi reconhecida a culpabilidade desfavoravelmente, o que a teor do dispositivo supramencionado, afasta aplicação do instituto citado, já que para sua concessão essa circunstância judicial teria que ser favorável, qual não acontece no caso em questão, como da mesma forma pertinente ao condenado, que além das circunstâncias judiciais serem desfavoráveis, além de tudo é reincidente, portanto com maior razão a não aplicabilidade do instituto em epígrafe.
+Assim sendo, deixo de converter a pena privativa de liberdade em restritiva de direito.
+O Tribunal de origem, por sua vez, deu parcial provimento à apelação interposta pela defesa, para determinar a substituição da reprimenda por uma restritiva de direitos e multa, nos termos a seguir aduzidos (fls. 334-335):
+Diferentemente do assinalado pelo magistrado sentenciante, verifico que, em relação à coacusada [NOME] estão presentes os requisitos autorizadoras da substituição privativa de liberdade por restritiva de direitos.
+ ..
+A propósito, convém destacar que esta Câmara Criminal, em recente julgamento ocorrido em 15/8/2017, na Apelação n. 54983/2017, de Relatoria do Des. Marcos Machado, em situação idêntica, concedeu à condenada a possibilidade de substituição, verbis:
+Por fim, a substituição da pena privativa de liberdade por restritivas de direitos afigura-se possível, caso preenchidos os requisitos objetivas e subjetivos, não obstante a incidência da majorante prevista no art. 40, III, da Lei n. 11.343/06" (STJ, AgRg no REsp n. 1430827/DF :
+Relator Min. Reynaldo Soares da Fonseca  Quinta Turma  13.6.2017).
+Desse modo, preenchidos os requisitos no art. 44 do CP  pena não superior a 4 (quatro) anos, crime cometido sem violência ou grave ameaça, apelante não reincidente e maioria das circunstâncias judiciais favoráveis, impõe-se a substituição da sanção corporal por duas restritivas de direitos, a critério do Juízo da Execução Penal (LEP, art. 66, V).
+Para a substituição da sanção privativa de liberdade por restritiva de direitos, é necessário que estejam preenchidos, cumulativamente, os requisitos objetivos e subjetivos exigidos para a concessão dessa benesse, os quais se encontram previstos no art. 44 do Código Penal, in verbis:
+Art. 44. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando:
+I - aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo;
+II - o réu não for reincidente em crime doloso;
+III - a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente.
+Se a Corte de origem, portanto, a partir de uma análise pormenorizada das circunstâncias do caso concreto, considerou que a substituição da pena se mostra medida socialmente recomendável, não há como esta Corte Superior de Justiça simplesmente se imiscuir no juízo feito pelo referido Tribunal para, a pretexto de ofensa ao art. 44 do Código Penal, afastar a substituição da reprimenda privativa de liberdade por uma restritiva de direitos e multa, sob pena de ofensa ao princípio do livre convencimento motivado.
+Ademais, considero que a quantidade de drogas apreendidas com a ré - 253 g de maconha de maconha - não foi excessivamente elevada a ponto de levar a crer que a substituição da pena não seria, no caso, medida suficiente para a prevenção e a repressão do delito perpetrado.
+À vista do exposto, com fundamento no art. 932, VIII, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e no art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo e nego provimento ao recurso especial.
+Publique-se e intimem-se.
