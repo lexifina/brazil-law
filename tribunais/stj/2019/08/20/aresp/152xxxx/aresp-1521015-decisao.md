@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO INTERNO APELAÇÃO DECISÃO QUE ACOLHEU PARCIALMENTE A EXCEÇÃO DE PRÉ-EXECUTIVIDADE EXTINÇÃO PARCIAL DA EXECUÇÃO CONTINUIDADE INADEQUAÇÃO DA VIA ELEITA NEGAR PROVIMENTO.
+A decisão que, em objeção de pré-executividade, exclui um dos co- executados da fase do cumprimento de sentença, com o prosseguimento da execução relativamente aos demais devedores, possui natureza interlocutória devendo ser impugnável por meio de agravo de instrumento
+Pela alínea "a" do permissivo constitucional, alega violação dos arts. 489 e 1.009 do CPC, no que concerne ao cabimento do recurso de apelação, trazendo o(s) seguinte(s) argumento(s):
+Como se verifica neste autos, esta Execução Fiscal era movida não apenas em face da empresa contribuinte, mas também em face dos seus sócios.
+Sendo assim, no que pese a contribuinte permanecer responsável pelo crédito tributário exigido, o que se observa é que esta Execução Fiscal foi extinta em face dos Recorrente.
+ ..
+Isto porque, a decisão que acolhe a Exceção de Pré- Executividade e encerra o processo para a parte Excipiente constitui verdadeira sentença, nos termos do artigo 489 do CPC.
+ ..
+É de se ressaltar que não houve acolhimento parcial do incidente apresentado e sim integral, de modo que, esta Execução Fiscal foi extinta em face dos Recorrentes (fls. 374/375).
+Pela alínea "c" do permissivo constitucional, aponta divergência jurisprudencial no que concerne à mesma tese recursal.
+É o relatório. Decido.
+Quanto à alegada violação ao art. 489 do Código de Processo Civil, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que o dispositivo legal não foi examinado pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Quanto ao art. 1.099 do CPC, o Tribunal de origem assim se manifestou:
+Nesse passo, verifica-se que os executados, ora agravantes, interpuseram recurso de apelação contra a aludida decisão, embora não se tratasse de sentença, mas, sim, de decisão de natureza interlocutória, nos termos do art. 203, §2º, do Código de Processo Civil de 2015.
+Vale dizer que, para que a deliberação judicial guerreada assumisse natureza de sentença, imprescindível que as condições estabelecidas no artigo 203, §1º, do CPC estivessem presentes - pronunciamento judicial com fulcro nos artigos 485 ou 487 do CPC, com a consequente extinção da execução, o que não se observa na espécie (fls. 361/362).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Sobre o tema, esta Corte Superior de Justiça já se manifestou no sentido de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Quanto à divergência jurisprudencial, esta não foi comprovada, uma vez que inexistente a necessária similitude fática entre o acórdão recorrido e o paradigma indicado, que trata de caso em que a execução foi extinta em sua totalidade.
+Nesse sentido, o STJ fixou que "o conhecimento da divergência jurisprudencial reclama a existência de similitude fático-jurídica entre o acórdão recorrido e os paradigmas submetidos a confronto" (EDcl no Resp n. 1.254.636/ES, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 23/4/2015).
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp n. 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; e AgRg no REsp n. 1.500.980/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/3/2015).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
