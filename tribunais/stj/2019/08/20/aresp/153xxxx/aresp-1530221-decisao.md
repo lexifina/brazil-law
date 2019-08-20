@@ -1,0 +1,73 @@
+DECISÃO
+1. Cuida-se de agravo interposto por WOHLEMBERG CELULARES LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL assim ementado:
+AÇÃO CONDENATÓRIA. INSTRUMENTO PARTICULAR DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS EOUTRAS AVENÇAS. CREDENCIAMENTO PARA COMERCIALIZAÇÃO DE PRODUTOS E SERVIÇOS. AGENTE AUTORIZADO. CASO CONCRETO. MATÉRIA DE FATO. CONTRATAÇÃO DE NATUREZA ATÍPICA. INAPLICABILIDADE DAS DISPOSIÇÕES DA LEI 4.886/1965, NÃO SE TRATANDO DE RELAÇÃO COM CARACTERÍSTICAS DE REPRESENTAÇÃO COMERCIAL.
+IMPROCEDÊNCIA DA PRETENSÃO DE DEVOLUÇÃO DE COMISSÕES ESTORNADAS, TENDO EM VISTA A PREVISÃO CONTRATUAL NESSE SENTIDO E A CONCORDÂNCIA DA AUTORA COM A PRÁTICA NO CURSO DA RELAÇÃO.
+DESCABIMENTO DA INDENIZAÇÃO COM BASE NO ART. 27, "J", DA LEI N. 4.886/1965, POR INAPLICABILIDADE DA NORMA. APELO DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 407-411).
+Nas razões do recurso especial (fls. 415-425), a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 489, § 1º, IV, e 1.022 do CPC/2015, por entender que o Tribunal de origem deixou de analisar questões relevantes para o deslinde da causa.
+Alega contrariedade aos arts. 186, 187 e 927 do Código Civil, sob o argumento de que "..o recorrido praticou ato ilícito, na medida em que rompeu o contrato unilateralmente, sem justa causa, a despeito do contrato entabulado entre as partes prever indenização à parte contrária em casos de resilição contratual promovida exclusivamente por uma das partes".
+Contrarrazões às fls. 442-460.
+É o relatório. DECIDO.
+2. A irresignação não merece prosperar.
+Alega a parte recorrente violação dos arts. 489, § 1º, IV e 1.022, sob a assertiva de que o Tribunal de origem não se manifestou sobre "..a questão da ausência de justa causa para o término da relação contratual, o que ensejaria indenização nos termos do Código Civil, e para que fosse declarado o prequestionamento dos artigos 186, 187 e 927 do Código Civil".
+No entanto, ao analisar as decisões proferidas na origem, verifico que não mácula no acórdão recorrido, pois o Tribunal a quo dirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma clara e fundamentada.
+No caso, o julgamento do feito apenas se revelou contrário aos interesses da parte recorrente, circunstância que não configura omissão, nem contradição ou obscuridade, tampouco erro material.
+Na hipótese dos autos, a Corte de origem, ao analisar os aclaratórios, manifestou-se nos seguintes termos (fl. 409, grifamos):
+(..)
+No caso concreto, a embargante tem a pretensão de obter novo julgamento de mérito das questões.
+Acrescento que não há falar em omissão quanto aos arts. 186, 187 e 927 do CC, pois não há qualquer menção nas razões de apelo quanto a esses dispositivos. Todo o recurso e a pretensão indenizatória foram centrados na Lei 4.886/1965, inaplicável a espécie, conforme fundamentos do v. acórdão embargado.
+Os motivos do convencimento do Relator se encontram devidamente apresentados na v. decisão. O presente recurso indica a contrariedade do embargante ante o julgamento do recurso, além da intenção de ser reavaliada a controvérsia, o que não se revela possível no âmbito dos embargos.
+(..)
+Claramente se observa que inexiste omissão no aresto que, embora em desconformidade com os interesses da parte recorrente, desata a questão jurídica posta em juízo, circunstância que não revela nenhuma irregularidade no julgamento a quo.
+Ademais, impende destacar que os embargos de declaração não constituem meio idôneo a sanar eventual error in judicando, não lhes sendo atribuível efeitos infringentes caso não haja, de fato, omissão, obscuridade ou contradição, conforme pontua jurisprudência desta Corte:
+PROCESSUAL CIVIL. ADMINISTRATIVO E TRIBUTÁRIO. PRECATÓRIO.
+PRECLUSÃO. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. PRETENSÃO DE EFEITOS INFRINGENTES. VIA INADEQUADA.
+I - Os embargos de declaração somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+II - O recurso de embargos de declaração não é via adequada para corrigir suposto erro de julgamento, ainda que demonstrado, não lhes sendo atribuível eficácia infringente se ausentes omissão, obscuridade ou contradição (art. 535 do CPC). Nesse sentido: EDcl nos EDcl no REsp 1.109.298/RS, Rel. Ministro Castro Meira, Rel. p/ Acórdão Ministro Herman Benjamin, Segunda Turma, DJe 6/11/2013; EDcl no AgRg nos EAg 1.118.017/RJ, Rel. Ministro Castro Meira, Corte Especial, DJe 14/5/2012; EDcl no AgRg nos EAg 1.229.612/DF, Rel.
+Ministro Castro Meira, Corte Especial, DJe 13/6/2012 e EDcl nos EDcl no MS 14.117/DF, Rel. Ministro Napoleão Nunes Maia Filho, Terceira Seção, DJe 1º/8/2011.
+III - Considerando o desiderato revelado de conferir caráter infringente aos presentes aclaratórios em decorrência de alegado erro de julgamento, sem a comprovação de omissão ou contradição, merecem rejeição os embargos de declaração.
+IV - Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 963.313/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 13/06/2017, DJe 23/06/2017)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. PRETENSÃO DE EFEITOS INFRINGENTES. VIA INADEQUADA.
+1. No sistema do CPC/1973, os Embargos de Declaração eram cabíveis nas hipóteses legais de omissão, contradição ou obscuridade (art. 535), tendo a jurisprudência entendido possível serem oferecidos também para que fosse apontada a existência de erro material. No CPC/2015, estes continuam a ser os casos de interposição do recurso (art. 1.022).
+2. O recurso de Embargos de Declaração não é via adequada para corrigir suposto erro de julgamento, ainda que demonstrado, não lhes sendo atribuível eficácia infringente se ausentes omissão, obscuridade ou contradição (art. 535 do CPC). Nesse sentido: EDcl nos EDcl no REsp 1.109.298/RS, Rel. Ministro Castro Meira, Rel. p/ Acórdão Ministro Herman Benjamin, Segunda Turma, DJe 6/11/2013; EDcl no AgRg nos EAg 1.118.017/RJ, Rel. Ministro Castro Meira, Corte Especial, DJe 14/5/2012; EDcl no AgRg nos EAg 1.229.612/DF, Rel. Ministro Castro Meira, Corte Especial, DJe 13/6/2012 e EDcl nos EDcl no MS 14.117/DF, Rel. Ministro Napoleão Nunes Maia Filho, Terceira Seção, DJe 1º/8/2011.
+3. Considerando o desiderato revelado de conferir caráter infringente aos presentes aclaratórios em decorrência de alegado erro de julgamento, sem a comprovação de omissão ou contradição, merecem rejeição os Embargos de Declaração.
+4. Embargos de Declaração rejeitados.
+(EDcl no REsp 1641373/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/05/2017, DJe 17/05/2017)
+3. Adiante, sustenta a parte insurgente que houve violação dos arts. 186, 187 e 927 do Código Civil, pois, em síntese, "..o recorrido praticou ato ilícito, na medida em que rompeu o contrato unilateralmente, sem justa causa, a despeito do contrato entabulado entre as partes prever indenização à parte contrária em casos de resilição contratual promovida exclusivamente por uma das partes".
+Ciente disso, saliento que para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Na presente hipótese, verifica-se que os aludidos dispositivos do Código Civil, em que pese a oposição de embargos de declaração, não foram analisados e aplicados pela instância de origem, porquanto a controvérsia foi dirimida sob ótica diversa daquela proposta pela parte insurgente.
+Diante disso, conclui-se pela incidência da Súmula 211/STJ ao vertente caso, ante a falta do necessário prequestionamento da matéria.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SUPLEMENTAÇÃO DE APOSENTADORIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211.DEFICIÊNCIA DE FUNDAMENTAÇÃO. SUMULA 284. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Incidência na espécie da Súmula 211/STJ.
+(..)
+5. Agravo interno não provido.
+(AgInt no AREsp 213.811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/04/2017, DJe 03/05/2017)
+PREQUESTIONAMENTO. AUSÊNCIA. ALEGADA OFENSA AOS ARTS. 131 E 333, I, DO CPC/1973. VALORAÇÃO DAS PROVAS PELO MAGISTRADO. LIVRE CONVENCIMENTO MOTIVADO.
+1. O acórdão impugnado por meio do recurso especial foi proferido sob a égide do CPC/1973, motivo pelo qual o juízo que se realizará a respeito do acerto ou desacerto do decidido será, quanto ao aspecto processual, exclusivamente orientado por essa normatividade. É que a aplicabilidade imediata assegurada à norma processual não implica a possibilidade da revisão dos atos já praticados pelo juiz, tampouco a desconstituição de situações jurídicas consolidadas sob a vigência da lei processual revogada (art. 14 do CPC/2015). Aplica-se o Enunciado Administrativo 2 do STJ.
+2. Não há como apreciar o mérito da controvérsia, porquanto a simples oposição de embargos de declaração, sem que a matéria tenha sido efetivamente discutida e decidida pela Corte a quo, não é suficiente para caracterizar o requisito do prequestionamento.
+Aplica-se, no ponto, a Súmula 211 desta Corte Superior.
+3. Não há que se falar em contrariedade aos arts. 131 e 333, I, do CPC/1973 em razão da valoração promovida pelo magistrado das provas coligidas nos autos, porquanto no nosso sistema processual aquele é o destinatário destas; cabe-lhe, por força do art. 131 do CPC/1973, apreciar o acervo fático-probatório livremente indicando os motivos que lhe formaram o convencimento.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 125.932/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+Vale destacar que, compulsando o aresto hostilizado, constata-se que a controvérsia se limitou à analise de pretensão indenizatória lastreada na Lei 4.886/1965, não havendo aplicação das normas do Código Civil à espécie.
+4. Por fim, aponta a recorrente divergência jurisprudencial no tocante à tipificação do contrato de representação comercial nos casos de telefonia celular.
+O Tribunal de origem, ao analisar a questão controvertida, manifestou-se nos seguintes termos (fl.396):
+Analisando os termos do "Instrumento Particular de Contrato de Prestação de Serviços e Outras Avenças" (fls. 16-35) e "Termo Aditivo" (fls. 36-7), que fundamentam a pretensão, observo que é uma relação de contrato de prestação de serviços, em que a autora se obrigou, mediante remuneração, à comercialização dos produtos e serviços da ré diretamente aos clientes e usuários, na condição de "credenciado".
+É verdadeiro contrato de credenciamento para a prestação de serviços, de natureza atípica, sem definição específica, incidindo, pois, as normas gerais que regulamentam os contratos em geral.
+Assim, não há falar em aplicação das disposições da Lei n. 4.886/65, norma que regula apenas os contratos de representação comercial, hipótese esta diversa dos pactos examinados no caso vertente, como se pode aferir da própria denominação dos instrumentos coligidos com a inicial e suas disposições.
+Ciente de tais termos, afirmo que, para se aferir a verdadeira natureza do contrato, na forma propugnada pela parte recorrente, seria necessário exceder as razões colacionadas no aresto objurgado, com a consequente análise de provas e de cláusulas contratuais, o que esbarra no óbice das Súmulas 5 e 7/STJ, aplicáveis também aos recursos interpostos pela alínea "c" do permissivo constitucional.
+Isso porque, mutatis mutandis "A incidência da Súmula 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa (AgInt no AREsp 1.145.361/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/02/2019, DJe 19/02/2019).
+Ainda nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE AUTORA.
+1. Para se superar as conclusões do aresto impugnado, no sentido de que, por se tratar de um contrato de credenciamento, isto é, de prestação de serviços, são inaplicáveis as disposições da Lei nº 4.886/65, por não configurar a relação estabelecida pelas partes natureza jurídica de representação comercial, seria necessário, inevitavelmente, o revolvimento do conjunto fático-probatório e contratual dos autos, providência vedada nesta sede especial a teor das Súmulas 05 e 07 do STJ. Precedentes: AgInt no AREsp 1054632/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe 21/09/2017; e AgInt no AREsp 1056764/RJ, Rel.
+Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/08/2017, DJe 30/08/2017.
+2. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame do dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. Precedentes: AgRg no AREsp 786.906/SP, Rel.
+Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/04/2016, DJe 16/05/2016; e AgRg no AREsp 662.068/RJ, Rel.
+Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/05/2015, DJe 22/06/2015.
+3. Agravo interno desprovido.
+(AgInt no AREsp 848.731/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/02/2018, DJe 02/03/2018)
+5. Ante o exposto, nego provimento ao agravo.
+Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
