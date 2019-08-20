@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo apresentado por BANCO DO BRASIL SA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE COBRANÇA. EXTINÇÃO POR ABANDONO DA PARTE AUTORA. ART. 485, INCISO III, DO CPC/2015. INTIMAÇÃO DO PROCURADOR POR NOTA DE EXPEDIENTE PARA DAR PROSSEGUIMENTO AO FEITO. INÉRCIA.
+INTIMAÇÃO PESSOAL DA PARTE REALIZADA. EXTINÇAO DO PROCESSO MANTIDA. (ART. 485, § 1Q, DO CPC/2015). INAPLICABILIDADE DA SUMULA 240 DO STJ. AUSÊNCIA DE ANGULARIZAÇÃO.
+1. A extinção do feito por abandono da causa deverá ser precedida de intimação do procurador por nota de expediente e de intimação pessoal da parte, nos termos do §1º do art. 485, o que foi realizado na hipótese, razão pela qual não há como afastar a extinção.
+2. Inaplicável, pois, a Súmula 240 do STJ, pois sequer houve angularização processual.
+RECURSO DE APELAÇÃO DESPROVIDO.
+Quanto à controvérsia dos autos, pelas alíneas "a" e "c" do permissivo constitucional, alega violação do art. 485, III, § 1º, do CPC, no que concerne à impossibilidade de extinção do processo sem a intimação do advogado com advertência de penalidade, trazendo o(s) seguinte(s) argumento(s):
+O r. acórdão negou provimento a pretensão do Recorrente, sob o fundamento de que abandonou a ação, motivo pelo qual julgou extinto o feito pelo art. 485, III do CPC.
+Contudo, para considerar-se suprida a exigência do art. 485 do CPC, é indispensável que ocorra a intimarão do procurador do autor com advertência da penalidade.
+Conforme visto, a última publicação nos autos não determinou o cumprimento da intimação sob pena de extinção, de modo que se mostra incabível a extinção do feito sem a devida intimação da penalidade (fl. 196).
+É o relatório. Decido.
+Quanto à controvérsia, eis o que decidiu o acórdão recorrido:
+Observa-se dos autos que o apelante ingressou com ação de cobrança, na qual foram expedidos mandados para a citação da parte ré. Da última diligência referente à consulta aos endereços da parte demandada perante o Sistema Bacen Jud, foi intimado o autor, que restou silente (fl. 84). Foi, então, o procurador da parte autora intimado para dar prosseguimento à ação, por meio da NE 385/2017, com referência ao despacho da fl. 84, "sob pena de extinção" (fl. 86). Silente, foi determinado pelo juízo a intimação pessoal da parte para dar prosseguimento à ação, sob pena de extinção. Intimada à f1.89, nada requereu, conforme consta na certidão de f1.89, verso, sobrevindo, assim, a extinção da ação por abandono.
+Diante da narrativa, verifica-se que o procurador foi intimado previamente para dar prosseguimento à ação. Portanto, sem razão a alegação (fl. 159).
+Assim sendo, o propósito de infirmar as conclusões do Tribunal de origem é inviável ante o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ademais, com relação ao recurso pela alínea c, não foi comprovado o dissídio jurisprudencial, uma vez que inexistente a necessária identidade jurídica e/ou similitude fática entre o acórdão recorrido e o(s) paradigma(s) indicado(s).
+Nesse sentido, o STJ fixou que "o conhecimento da divergência jurisprudencial reclama a existência de similitude fático-jurídica entre o acórdão recorrido e os paradigmas submetidos a confronto" (EDcl no Resp n. 1.254.636/ES, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 23/4/2015).
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp n. 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; e AgRg no REsp n. 1.500.980/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/3/2015).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
