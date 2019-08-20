@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO, assim resumido:
+APELAÇÃO CÍVEL - ARROLAMENTO DE BENS - RAZÕES RECURSAIS VAGAS, QUE NÃO ENFRENTAM OS FUNDAMENTOS DA DECISÃO RECORRIDA - VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE - RECURSO NÃO CONHECIDO - SENTENÇA MANTIDA. 1. O princípio da dialeticidade impõe que o apelante apresente os fundamentos de fato e de direito pelos quais busca a reforma da decisão recorrida. O recurso, deve conter as razões que amparam o inconformismo da parte recorrente e possibilitam a necessidade de reforma da decisão. Esses fundamentos, por razões lógicas, se referem ao teor da decisão atacada. Necessariamente deve ser demonstrada a linha de confronto entre o posicionamento jurídico buscado e o adotado pela decisão recorrida. 2. Procede-se ao arrolamento sempre que há fundado receio de extravio ou de dissipação de bens. Inteligência do art. 855, do CPC/73.
+A parte alega violação do art. 1.046 do CPC, no que concerne à vigência do novo CPC, trazendo o(s) seguinte(s) argumento(s):
+Ora, o r. acórdão recorrido foi prolatado em novembro de 2018, quando notoriamente o CPC/15 já vigorava. E .o dispositivo legal transcrito acima é muito claro: as dispbsições do novo Codex aplicam-se neste caso concreto.
+Não obstante isso, o C. Tribunal de origem baseOu-se no CPC ANTIGO (nos arts. 514, II, e 557) para não conhecer -o recurso de apelação interposto pelos Recorrentes, situação que, data vênia; não merece persistir (fl. 432).
+É o relatório. Decido.
+Na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
