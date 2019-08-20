@@ -1,0 +1,17 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PROCESSUAL CIVIL E TRIBUTÁRIO. CERTIDÃO NEGATIVA DE DÉBITO. EMISSÃO. MATÉRIAS NÃO APRECIADAS PELA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 211/STJ E 282/STF. RECURSO ESPECIAL DA FAZENDA NACIONAL A QUE SE NEGA SEGUIMENTO, EM CONFORMIDADE COM O PARECER DO MPF.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo TRF da 1a. Região, fls. 116/120, assim ementado:
+PROCESSUAL CIVIL. REMESSA OFICIAL. MANDADO DE SEGURANÇA. SENTENÇA PROCEDENTE. CONFIRMAÇÃO. ORIENTAÇÃO DESTA CORTE E DO "SUPERIOR TRIBUNAL DE JUSTIÇA. REMESSA NÃO PROVIDA.
+ 1. Esta Corte firmou o entendimento quanto à confirmação da sentença que acolhe o pedido mandamental ou em ação de procedimento ordinário se não há na sentença quaisquer questões de fato ou de direito, referentes ao mérito ou ,ao processo, matéria constitucional ou infraconstitucional, direito federal, ou não; ou ainda, princípios que, em sede de exclusiva remessa oficial; a desabonem. Precedentes: REO 2000.01.99.124547-6/MG; REMESSA EX OFFÍCIO. Relator: DESEMBARGADOR FEDERAL REYNALDO FONSECA. Publicação: 14.11.2013 e-DJF1 P..1158.
+2. Remessa oficial a que se nega provimento (fls. 120).
+2. Nas razões do Recurso Especial (fls. 137/146), a parate ora recorrente sustenta violação dos arts. 535, II do CPC/1973; 20 da LEI 11.033/2004; 38 da LC 73/1993; 6o. da LEI 9.028/1995. Alega, para tanto, que, conforme se pode observar dos autos, não houve a intimação pessoal realizada através de vista dos autos ou Mandado (fls. 145).
+3. Sem contrarrazões (fls. 149), o recurso foi admitido na origem (fls. 150/151).
+4. Parecer do MPF às fls. 162/166 opinando pelo não conhecimento do Apelo Nobre.
+5. É o relatório.
+6. Cuida-se, na origem, de MANDADO DE SEGURANÇA que move a LOBATO, SALGADO & GRECO S/C - ADVOCACIA E CONSULTORIA, sociedade de advogados regularmente inscrita na OAB/PA, contra ato do SUPERINTENDENTE REGIONAL DA SECRETARIA DA RECEITA FEDERAL, objetivando provimento jurisdicional que determine à autoridade impetrada emitir certidão negativa de débito, necessária à participação da impetrante na licitação aberta pela Companhia de Habitação do Estado do Pará - COHAB/PA, para contratação de assessoria jurídica.
+7. O Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos. Ressalte-se que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+8. A alegação de violação à legislação infraconstitucional não está a comportar cognição, porquanto os mencionados dispositivos não foram objeto de debate pelo Tribunal de origem, impondo-se o não conhecimento do Recurso Especial, por ausência de prequestionamento; incidência das Súmulas 211/STJ e 282/STF.
+9. Ressalte-se que, para atender ao requisito do prequestionamento, não basta que o dispositivo legal, supostamente violado, seja suscitado pelas partes interessadas, mas também se requer que seja objeto de debate pelo Órgão Colegiado competente, elemento indispensável para seguimento do Apelo Especial. Precedente: AgRg no Ag 1.417.806/PR, Rel. Min. ARNALDO ESTEVES LIMA, DJU 25.10.2011; AgRg no AREsp. 619.323/ES, Rel. Min. REGINA HELENA COSTA, DJe 6.3.2015.
+10. Ante o exposto, nega-se seguimento ao Recurso Especial do FAZENDA NACIONAL.
+11. Publique-se.
+12. Intimações necessárias.
