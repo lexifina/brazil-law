@@ -1,0 +1,28 @@
+DECISÃO
+ADMINISTRATIVO. RECURSOS ESPECIAIS. PROCESSO ADMINISTRATIVO DISCIPLINAR. LEI 8.112/1990. APLICAÇÃO SUBSIDIÁRIA. POSSIBILIDADE. FORMAÇÃO DA COMISSÃO POR SERVIDORES NÃO ESTÁVEIS. IMPOSSIBILIDADE. RECURSOS ESPECIAIS DA CÂMARA E DO MUNICÍPIO A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recursos Especiais interpostos pela CÂMARA MUNICIPAL DE PARA DE MINAS e MUNICÍPIO DE PARÁ DE MINAS, no qual se insurgem contra acórdão proferido pelo egrégio TJMG, assim ementado:
+APELAÇÃO CÍVEL-DIREITO ADMINISTRATIVO - AÇÃO ANULATÓRIA DE PROCESSO ADMINISTRATIVO DISCIPLINAR - COMISSÃO PROCESSANTE - COMPOSIÇÃO - TOTALIDADE DOS MEMBROS COM ESTABILIDADE - DESCUMPRIMENTO - LEI Nº 8.112/90 ART. 149 - INOBSERVÂNCIA - HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - "QUANTUM" EXORBITANTEMENTE FIXADO - REFOMAR PARCIALMENTE A SENTENÇA - RECURSOS PARCIALMENTE PROVIDOS "IN SPECIE".
+- O direito processual administrativo impõe determinadas condições aos membros de comissão processante com o objetivo de garantir a absoluta isenção, imparcialidade e independência no julgamento das infrações administrativas.
+Entre tais condições impostas para a legitimidade da comissão administrativa processante é a de que todos os seus membros sejam servidores efetivos de categoria igual ou superior a do acusado para que não se quebre o princípio hierárquico que é o baluarte da disciplina na administração pública, haja vista que a estabilidade põe a cavaleiro o servidor de demissão "ad nutum" (fls. 826).
+2. Nas razões de seu Apelo Nobre, a CÂMARA MUNICIPAL DE PARA DE MINAS aponta violação dos arts. 535, II do CPC e 1o. e 149 da Lei 8.112/1990, ao argumento de que a Lei 8.112/1990 não se aplica aos Servidores do legislativo do Pará de Minas.
+3. O MUNICÍPIO DE PARÁ DE MINAS alega violado os arts. 535, II do CPC, sob o fundamento de que o acórdão quedou-se omisso acerca da existência de norma municipal que dispõe especificamente sobre a matéria, sendo inaplicável a Lei 8.112/1990.
+4. É o relatório.
+5. Decido.
+6. Ante a similaridade de temas, analiso conjuntamente ambos os recursos.
+7. Não obstante a Lei 8.112/1990 se dirija aos Servidores Públicos Federais, diante da inexistência de norma na legislação estadual ou municipal específica sobre o tema, como no caso em tela, a referida lei pode ser aplicada subsidiariamente ou analogicamente. Importa destacar que onde há hipótese de aplicação legal, não cabe cogitar a incidência de resolução
+8. Nesse sentido:
+PROCESSUAL CIVIL. DIREITO LÍQUIDO E CERTO. VERIFICAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal de origem concluiu, com base na prova dos autos, que os requisitos para o deferimento da remoção estão preenchidos, havendo direito líquido e certo do servidor. A revisão desse entendimento implica reexame de fatos e provas, obstado pelo teor do enunciado sumular 7 do STJ.
+2. Silente o Estatuto dos Servidores Estaduais quanto ao direito de remoção, aplica-se subsidiariamente o Regime Jurídico dos Servidores Públicos Civis da União, das Autarquias e das Fundações Públicas Federais, Lei 8.112/1990.
+3. Agravo Regimental não provido (AgRg no REsp. 1.233.201/MA, Rel. Min. HERMAN BENJAMIN, DJe 18.4.2011).
+9. Quanto ao mais, o acórdão recorrido entendeu que o processo disciplinar padece de vícios insanáveis, posto que foi constituída por menos de 03 servidores não estáveis, não havendo observância dos preceitos legais do art. 149 da Lei nº 8.112/90, afrontando aos princípios constitucionais (fls. 831). Ao assim decidir, não divergiu da jurisprudência desta Corte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PROCESSO ADMINISTRATIVO DISCIPLINAR. FORMAÇÃO DA COMISSÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Cinge-se a controvérsia em saber se os membros de Comissão de Processo Administrativo Disciplinar têm que ser servidores estáveis no serviço público.
+2. Não se pode conhecer de Recurso Especial quanto à apontada afronta aos arts. 2º, 37, 41, § 3º, e 169 da CF/1988, porquanto o exame da violação de dispositivos constitucionais é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+3. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo (arts. 16 e 21 da LRF e 437 do CPC/1973), a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+4. "Conforme o disposto no art. do art. 149 da Lei n. 8.112/90, o processo administrativo disciplinar será conduzido por comissão composta de três servidores estáveis designados pela autoridade competente, exigindo-se que o Presidente deverá ocupar cargo efetivo superior ou de mesmo nível, ou ter nível de escolaridade igual ou superior ao do indiciado" (AgRg no REsp 1.540.701/RO, Rel. Ministro Humberto Martins, Segunda Turma, DJe 23/9/2015).
+5. O Tribunal de origem, ao analisar a matéria, concluiu que servidores não estáveis teriam integrado a Comissão processante, não preenchendo os requisitos do art. 149 da Lei n. 8.112/1990, sendo, portanto, nulo o processo administrativo disciplinar. Rever tal posicionamento requer, necessariamente, reexame de fatos e provas, o que é vedado ao STJ, em Recurso Especial, por esbarrar no óbice da Súmula 7/STJ.
+6. Recurso Especial não conhecido (REsp 1729070/SP, Rel. Min. HERMAN BENJAMIN, DJe 13.11.2018).
+10. Ante o exposto, nega-se seguimento aos Recursos Especiais da CÂMARA MUNICIPAL DE PARA DE MINAS e do MUNICÍPIO DE PARÁ DE MINAS.
+11. Publique-se.
+12. Intime-se.
