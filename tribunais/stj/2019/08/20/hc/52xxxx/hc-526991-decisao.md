@@ -1,0 +1,10 @@
+DECISÃO
+CARLOS [NOME] alega sofrer coação ilegal em decorrência de decisão proferida por desembargador do Tribunal Regional Federal da 3ª Região, que indeferiu a liminar em habeas corpus - numeração não indicada.
+O paciente foi condenado como incurso nos arts. 33, caput, e 35, caput, ambos c/c o art. 40, I, todos da Lei n. 11.343/2006, em decorrência de investigação denominada "Operação Oversea". A defesa interpôs apelação, a qual está pendente de julgamento.
+Em confusa petição, os impetrantes asseveram que foi expedida carta rogatória - para oitiva de testemunha -, a qual não retornou devidamente cumprida. Buscam "a suspensão do processo até o retorna (sic) da carta rogatória, revogando prisão decretada ao arrepio dos pressupostos legais" (fl. 13).
+Da análise dos autos, não é possível identificar com clareza qual o ato coator contra o qual a defesa se insurge - se é o Juiz de primeira instância, que determinou a apresentação das razões de apelação, sem que se aguardasse o cumprimento do ato rogado cumprido, ou se é o Desembargador federal, que, determinou o julgamento do recurso, se passado o prazo de 120 dias, concedido para o retorno da carta rogatória.
+De qualquer maneira, observo que este mandamus foi deficientemente instruído, pois o impetrante não colacionou cópia dessas decisões, o que impossibilita a compreensão do caso e, por conseguinte, o exame da apontada coação ilegal.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir e, dada sua natureza urgente, exige prova pré-constituída das alegações. Não se admite, portanto, dilação probatória.
+É cogente ao impetrante - sobretudo quando se tratar de defesa técnica - apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração.
+ À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
