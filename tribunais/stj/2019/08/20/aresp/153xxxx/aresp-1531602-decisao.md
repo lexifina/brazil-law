@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo apresentado por ESTADO DA PARAÍBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+PREJUDICIAL DE MÉRITO PRESCRIÇÃO FAZENDA PÚBLICA PAGAMENTO DE VERBAS REMUNERATÓRIAS TRATO SUCESSIVO PRESCRIÇÃO QUINQUENAL INOCORRÊNCIA REJEIÇÃO REMESSA NECESSÁRIA E APELAÇÃO COBRANÇA DE VENCIMENTOS GRATIFICAÇÃO DE INSALUBRIDADE MILITAR ALEGADO CONGELAMENTO PROCEDÊNCIA DO PEDIDO SUBLEVAÇÃO ADUZIDA AUSÊNCIA DE PREVISÃO LEGAL FRAGILIDADE GRATIFICAÇÃO ESTABELECIDA NA LEI ESPECÍFICA Nº 6507/1997 CONJUGADA COM LEI COMPLEMENTAR Nº 58/2003 CASO CONCRETO SENTENÇA ESCORREITA DESPROVIMENTO DA REMESSA E DO APELO
+Quanto à controvérsia trazida aos autos, alega violação do art. 1º do Dec. 20.910/32, no que concerne à prescrição, trazendo o(s) seguinte(s) argumento(s):
+O comando em questão, sem embargo, na esteira do posicionamento desta Colenda Corte, não se aplica quando for negado o próprio direito reclamado. Neste caso, a prescrição atingirá o próprio fundo de direito e não apenas as prestações anteriores a cinco anos do ajuizamento da ação (fl. 120).
+Dentro desse quadro, no instante em que passara a viger a lei complementar nº 50/03, em 30 abril de 2003, norma esta que modificou a forma de pagamento do adicional de tempo de serviço, exsurge a suposta lesão e, de resto, a própria pretensão, iniciando-se, de tal arte, a contagem do lapso prescricional de 5 (cinco) anos (fl. 120).
+É o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
