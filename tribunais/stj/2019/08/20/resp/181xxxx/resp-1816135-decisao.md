@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense/RS, com fulcro na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TRF da 4ª Região assim ementado (e-STJ, fl. 209):
+ADMINISTRATIVO. SERVIDOR PÚBLICO APOSENTADO. LEI Nº 12.772/2012. RECONHECIMENTO DE SABERES E COMPETÊNCIAS. RETRIBUIÇÃO POR TITULAÇÃO. PARIDADE. POSSIBILIDADE.
+1. Tratando-se de servidora pública aposentada com direito à paridade, uma vez instituída parcela remuneratória de caráter permanente e que leva em consideração a experiência profissional e a titulação verificadas até a data da aposentadoria, a ela deve ser garantido o direito ao exame do pedido de avaliação administrativa para fins de obtenção da respectiva verba em paridade com os demais servidores.
+2. Parcialmente provida a apelação do Instituto Federal de Educação, Ciência e Tecnologia Sulriograndense e a remessa necessária tida por interposta.
+Embargos de declaração rejeitados.
+Em suas razões, o recorrente indica, inicialmente, violação do art. 1.022 do CPC/2015, ao argumento de que o acórdão combatido se omitiu sobre pontos essenciais ao deslinde da controvérsia, especialmente acerca do tema 439 discutido no STF e dos limites do que fora fixado pela Lei n. 12.722/2012.
+Quanto à questão de fundo, sustenta ofensa aos arts. 7º, 17 e 35 da Lei n. 12.722/2012, alegando que a lei veda percepção pretérita da Retribuição por Titulação, que não possui como destinatários os servidores aposentados e pensionistas, bem como que há previsão específica de aplicação aos aposentados e pensionistas.
+Com contrarrazões.
+É o relatório.
+Preliminarmente, saliente-se inexistir violação do comando normativo inserto no art. 1.022 do CPC/2015, na medida em que o acórdão proferido na origem se manifestou satisfatoriamente sobre todos os aspectos fáticos e jurídicos relevantes e inerentes à controvérsia instaurada, inclusive as teses argumentativas deduzidas pelas partes.
+Desnecessário, portanto, qualquer complemento à fundamentação assentada pela Corte regional, ante a ausência de máculas na prestação jurisdicional, razão pela qual não se cogita em violação do art. 1.022 do CPC/2015.
+No mérito, compulsando-se os autos, depreende-se que a controvérsia foi solucionada com base em fundamento constitucional, consoante se extrai essencialmente do seguinte excerto (e-STJ, fl. 215):
+Mostra-se importante ressaltar que a paridade é garantia constitucional do serviço público em que é assegurada a extensão dos reajustes e revisões futuras dos servidores ativos aos servidores inativos e pensionistas. Tal garantia decorrente diretamente da Constituição Federal, sendo desnecessária a previsão expressa na lei em discussão da extensão da nova vantagem remuneratória aos aposentados e pensionistas, não configurando ofensa ao princípio da legalidade, à separação de poderes ou à Súmula nº 339 do Supremo Tribunal Federal.
+Dessa forma, inviável o exame do pleito no âmbito desta Corte Superior de Justiça sob pena de usurpação da competência constitucional reservada ao Pretório Excelso.
+Ademais, o recorrente, ao indicar violação dos arts. 7º, 17 e 35 da Lei n. 12.722/2012 e suas respectivas teses, deixou de impugnar a questão do acórdão ora combatido segundo a qual a avaliação individualizada e escalonada de cada servidor não é suficiente para afastar a garantia constitucional da paridade  ex vi, razões sobre os fundamentos constitucionais aplicáveis ao caso  , fundamento que, por si só, é suficiente para desqualificar toda a argumentação assentada no recurso especial.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ e a Súmula 568/STJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
