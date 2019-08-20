@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por POLIPRINT LTDA contra v. acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 633):
+"APELAÇÃO - AÇÃO DE COBRANÇA - CHAMAMENTO AO PROCESSO - NÃO OCORRÊNCIA DE NENHUMA HIPÓTESE PREVISTA NO ART.77,CPC - RELAÇÃO CONTRATUAL DIVERSA - IMPOSSIBILIDADE - ALEGAÇÃO DE CONDUTA DE MÁ-FÉ - NÃO COMPROVAÇÃO - FALHA NA PRESTAÇÃO DE SERVIÇO - DANOS MATERIAIS - NÃO OCORRÊNCIA. O chamamento ao processo é uma das hipóteses de intervenção de terceiros, que amplia o pólo passivo da relação processual, por provocação do devedor demandado que chama terceiro, para integrar a lide como coobrigado pela divida, estabelecendo-se, assim, um vinculo de solidariedade entre eles. A alegação de má-fé, obrigatoriamente, deve estar arrimada em provas e não em mera presunção. Não comprovada a responsabilidade da apelada pela rescisão de contrato com os Correios, não há que se falar na sua condenação na reparação de supostos prejuizos."
+Nas razões do recurso especial, POLIPRINT LTDA alega, além de dissídio jurisprudencial, violação aos arts. 489, § 1º, IV, 373, I, e 1.013 do do Código de Processo Civil de 2015, ao argumento, entre outros, que "(..) o v. Acórdão simplesmente NEGOU-SE a apreciar os argumentos trazidos pela recorrente no seu recurso de apelação, com o que violou o princípio recursal do duplo grau de jurisdição, até porque a sentença de primeiro grau também deixou de analisar e valorizar a prova apresentada pela recorrente sem a adequada e necessária fundamentação (..)". (fl. 654)
+Contrarrazões às fls. 676-682.
+É o relatório. Decido.
+Cumpre observar que o recurso especial foi interposto contra acórdão publicado publicado já na vigência do CPC de 2015, aplicando-se ao caso o Enunciado Administrativo n.º 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O recurso em apreço não merece prosperar.
+Inicialmente, rejeita-se a alegada violação dos arts. 489, § 1º, IV, 373, I, e 1.013 do CPC/2015, uma vez que o eg. TJ-MG analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. OMISSÃO NO ACÓRDÃO DE ORIGEM. ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. RESPONSABILIDADE. VALOR DANO MORAL. REEXAME DE PROVAS. SÚMULA N. 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil.
+(..)
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1774091/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/06/2019, DJe 01/07/2019 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRODUÇÃO DE PROVAS. CERCEAMENTO DE DEFESA. SÚMULA 7 DO STJ. ART. 489 CPC/2015. AUSÊNCIA DE DEFICIÊNCIA DE FUNDAMENTAÇÃO DO ACÓRDÃO ESTADUAL. RESPONSABILIDADE E SOLIDARIEDADE DO DÉBITO. SÚMULAS 5 E 7 DO STJ. FUNDAMENTO INATACADO. SÚMULA 283 DO STF. PREQUESTIONAMENTO DE QUESTÕES. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa ao art. 489, do CPC/2015, uma vez que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..)
+6. Agravo interno não provido."
+(AgInt no AREsp 1445689/BA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/06/2019, DJe 28/06/2019 - grifou-se)
+Pela alínea "c" do permissivo constitucional, melhor sorte não socorre ao apelo especial. Com efeito, verifica-se que o dissídio jurisprudencial não restou comprovado ante a ausência de similitude fático-jurídica entre o v. acórdão estadual e o paradigma oriundo do eg. TJ-SP.
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 12% para 13% sobre o valor da condenação.
+Publique-se.
