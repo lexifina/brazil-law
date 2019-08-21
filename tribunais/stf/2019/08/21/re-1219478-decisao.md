@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. EXECUÇÃO DE SENTENÇA. SISTEMÁTICA DE TRIBUTAÇÃO PREVISTA NO ART. 12-A DA LEI Nº 7.713/1988, COM A REDAÇÃO DA LEI Nº 12.350/10. INAPLICABILIDADE. OBSERVÂNCIA DO TÍTULO EXECUTIVO.
+    Não é cabível a elaboração dos cálculos mediante a aplicação do art. 12-A da Lei nº 7.713/1988, com a redação da Lei nº 12.350/10, se não há determinação do título executivo nesse sentido. A questão deveria ter sido tratada no processo de conhecimento, não havendo espaço para sua apreciação em sede de execução de sentença.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 145, § 1º, e 150, II, da CF. Sustenta, em síntese, que o critério de cálculo incidente à espécie é o previsto no art. 12-A da Lei 7.713/1988.
+    A pretensão recursal não merece prosperar. No caso dos autos, o Tribunal de origem consignou o seguinte:
+    “O acórdão exarado em 24/05/2017, quando da anulação da primeira sentença, já havia se manifestado não ser cabível a elaboração dos cálculos mediante a aplicação do art. 12-A da Lei nº 7.713/1988, com a redação da Lei nº 12.350/10, por não ter havido determinação do título executivo nesse sentido. Para melhor elucidação, transcrevo excerto extraído de seu voto condutor (evento 5 da apelação cível):
+    Descabe adentrar-se na questão pertinente à aplicação da sistemática de tributação introduzida pelo art. 12-A da Lei 7.713/88 (com a redação dada pela Lei nº 12.350/2010), pois não há título garantindo tal pretensão.
+    Cumpre registrar que, de qualquer forma, as verbas acumuladas foram recebidas anteriormente à novel legislação, cuja aplicação retroativa não poderia ser determinada em sede de execução de sentença. Inclusive, esta Corte já pacificou o entendimento de que esse dispositivo legal não é aplicável aos rendimentos recebidos antes de 1º de janeiro de 2010, conforme decisão firmada no julgamento dos Embargos Infringentes nº 5019718-91.2011.404.7200, assim ementado:
+    Ressalte-se que o referido dispositivo legal trata da sistemática de tributação das verbas recebidas acumuladamente, e não de mero critério de cálculo. Destarte, a matéria deveria ter sido tratada no processo de conhecimento, não havendo espaço para sua apreciação em sede de execução de sentença, como já decidido por esta Turma na decisão exarada anteriormente, já transitada em julgado.”
+    Nessa contextura, para firmar entendimento diverso do acórdão recorrido quanto aos pontos aduzidos pela parte recorrente, seria indispensável o reexame do acervo probatório constante dos autos e da legislação infraconstitucional pertinente. Nessas condições, a hipótese atrai a incidência do enunciado da Súmula 279/STF.
+    No mesmo sentido, cito a seguinte decisão monocrática: RE 968.515/PR, Relª. Minª. Rosa Weber.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita ao agravante, nos termos do art. 98, § 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 21 de agosto de 2019.
+Ministro Luís Roberto Barroso
+Relator
