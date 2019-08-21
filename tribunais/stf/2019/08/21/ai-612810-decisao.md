@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “IMPOSTO SOBRE SERVIÇOS - ISS - CONSTRUÇÃO CIVIL SOBRE MATERIAIS E VALOR PAGO À SUBEMPREITEIRA - INTELIGÊNCIA DO ART. 9°, § 2°, DO DECRETO-LEI 406/68 - NÃO CONFIGURA CASO DE ISENÇÃO, MAS SIM DE NÃO INCIDÊNCIA - INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DE ISONOMIA CONSAGRADO NA CONSTITUIÇÃO FEDERAL - RECEPÇÃO DA NORMA - CONCESSÃO DA SEGURANÇA - RECURSO IMPROVIDO. LIMITAÇÃO CONSTITUCIONAL DE JUROS. INAPLICABILIDADE. CORREÇÃO MONETÁRIA - UFIR - TR ou TRD.
+    1. A base de cálculo de incidência do ISS no caso de execução de serviços de construção civil, deduzindo-se o preço dos materiais utilizados na obra e o valor pago à subempreiteira, com fundamento no Decreto-lei 406/68, não tipifica isenção parcial, modalidade de exclusão do crédito tributário. Configura caso de não incidência do ISS. Os casos de isenção encontram-se previstos no art. 11 do referido Decreto-lei.
+    2. A limitação constitucional de juros é norma de eficácia contida, dependendo de lei complementar para regulamentá-la.
+    3. Sobre o débito tributário incide correção monetária. A TR - Taxa Referencial, por refletir "as variações de custo primário de captação dos depósitos a prazo fixo, não constitui índice que reflita a variação do poder aquisitivo da moeda" (ADin n° 493-0-DF, Rei. Min. Moreira Alves, j. em 25.6.92, in DJU de 01.07.92). Assim, a partir de 1° de fevereiro de 1991 e até a instituição da UFIR pela Lei n° 8.383, de 10.12.91, deve ser aplicado o INPC, apurado pelo IBGE, para o cálculo da correção monetária do crédito tributário.
+    Apelação provida parcialmente.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, II, e 151, III, da CF. Sustenta, em síntese, que o art. 9°, § 2°, do Decreto-Lei 406/1968 é incompatível com a Constituição Federal.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “Por isso, não há como se vislumbrar ofensa aos artigos 150, inciso II, e 151, inciso III, quando o v. acórdão, em sua motivação, deixou assentado que:
+    ‘... inexiste ofensa ao princípio de isonomia consagrado nos arts. 150, II e 151, II, da Constituição Federal. A um, porque inexiste tratamento desigual entre contribuintes que se encontrem em situação equivalente. Toda a construção civil recebeu tratamento igual. Dar-se-ia tratamento desigual se parte dos contribuintes da construção civil, por exemplo, a construção hidráulica recebesse tratamento desigual. Não é o caso. A dois, porque a União não instituiu isenção de tributo de competência do Município. Mas tratou de casos de não incidência do tributo, o que é diverso.' (f.320/321).
+    Ante o exposto, nego seguimento ao recurso especial e ao recursos extraordinários.”
+    O Supremo Tribunal Federal reconheceu a repercussão geral da questão relativa à constitucionalidade, ou não, da incidência do Imposto sobre Serviços de Qualquer Natureza - ISS sobre materiais empregados na construção civil e, por conseguinte, a revogação, ou não, do art. 9º, § 2º, a, do Decreto-Lei nº 406/68, que autoriza a dedução da base de cálculo do ISS das parcelas correspondentes ao valor desses materiais, pela Constituição de 1988. (Tema 247 da RG).
+    Diante do exposto, com base no art. 1.036 do CPC/2015 e no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos à origem a fim de que seja aplicada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 21 de agosto de 2019.
+Ministro Luís Roberto Barroso
+Relator
