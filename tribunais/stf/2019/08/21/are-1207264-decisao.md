@@ -1,0 +1,29 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. POLÍCIA CIVIL DO DISTRITO FEDERAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. LEGITIMIDADE PASSIVA UNIÃO. COMPETÊNCIA JUSTIÇA FEDERAL.
+    1. A União é passivamente legitimada em ação proposta por servidor do Distrito Federal para discutir contribuição previdenciária, conforme jurisprudência das 7ª e 8ª Turmas deste Tribunal.
+    2. Agravo de instrumento dos autores provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 21, XIV; 40; 149, § 1°; todos da CF. Sustenta, em síntese, que não pode ser demandada acerca da incidência de contribuição previdenciária sobre o terço constitucional de férias pago aos policiais civis do Distrito Federal.
+    A decisão agravada negou seguimento ao recurso extraordinário sob os seguintes fundamentos:
+    “O recurso não merece trânsito.
+    Inicialmente, não se admite o recurso extraordinário, por falta do necessário prequestionamento (art. 40, caput, e 149, § 1º, da Constituição Federal), quando a matéria constitucional, submetida à apreciação judicial no momento processual oportuno, não foi decidida no julgado impugnado e não foram opostos embargos de declaração para sanar eventual omissão, ainda que a ofensa tenha surgido no acórdão recorrido. Incidência das Súmulas 282 e 356 do STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”(cf. STJ, AgR no AI 646.853 Ministra Cármen Lúcia, Primeira Turma, DJ de 13/02/2009; ARE 781.798 AgR, Ministro Ricardo Lewandowski, Segunda Turma, DJ de 14/04/2014).
+    Ademais, a controvérsia relativa à legitimidade passiva ad causam é de caráter infraconstitucional. Por isso eventual ofensa à Constituição operar-se-ia de forma indireta, circunstância que inviabiliza a admissão do extraordinário (AgR no AI n. 145.680/SP, Ministro Celso de Mello, DJ de 30.4.93; AgR no AI n. 157.906/SP, Ministro Sydney Sanches, DJ de 9.12.94; RE n. 148.512/SP, Ministro Ilmar Galvão, DJ de 2.8.96; AgR no RE n. 197.773/CE, Ministra Ellen Gracie, DJ de 19.10.01; AgR no AI n. 757.658/PB, Ministro Eros Grau, DJ de 24.11.09; AgR no ARE n. 718.275/RS, Ministro Luiz Fux, 1ª Turma, DJ de 22.10.2013).
+    (…)
+    Ante o exposto, não admito o recurso extraordinário.”
+    Quanto ao despacho de 16 de maio de 2019, em consulta ao sítio eletrônico do Superior Tribunal de Justiça, verifico que foi proferida decisão no AREsp 622.447 com o seguinte teor:
+    “Fl. 216 – Conforme consta da certidão, os autos foram encaminhados por equívoco para esta Corte, isso porque não houve interposição de Agravo em Recurso Especial, mas somente Agravo em Recurso Extraordinário.
+    Assim encaminhe-se os autos ao Supremo Tribunal Federal, procedendo a baixa na distribuição a esta Relatora.”
+    Portanto, afasto o sobrestamento e passo à análise do recurso.
+    Decido.
+    A pretensão recursal não merece prosperar. O Supremo Tribunal Federal firmou o entendimento de que a União tem legitimidade para integrar o polo passivo de demanda que discute a incidência de contribuição previdenciária sobre o terço constitucional de férias pago aos policiais civis do Distrito Federal. Confiram-se:
+    “RECURSO EXTRAORDINÁRIO. PRETENSÃO DE EQUIPARAÇÃO REMUNERATÓRIA DE POLICIAIS CIVIS EM RELAÇÃO AOS POLICIAIS FEDERAIS. INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+    1. Compete privativamente à União legislar sobre o regime jurídico dos Policiais Civis do distrito Federal, inclusive em matéria remuneratória (Súmula 647/STF), cabendo, ainda, aos cofres federais suportar os efeitos dessa política salarial (CF/88, art. 21, XIV). Nesses termos, a União Federal tem legitimidade passiva para figurar em demanda coletiva na qual os Policiais Civis do Distrito Federal pleiteiam equiparação de remuneração com os Policiais Federais.
+    2. Demonstrado o interesse da União no feito, na qualidade de ré, a competência para julgar o processo recai sobre a Justiça Federal (CF/88, art. 109, I).
+    3. Recurso extraordinário provido.” (RE 275.438, Redator p/o acórdão o Ministro Luís Roberto Barroso)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA. POLICIAIS CIVIS DO DF. COMPETÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO. I A União tem legitimidade para integrar o polo passivo de demanda a qual envolva o regime jurídico ou a remuneração dos policiais civis do Distrito Federal, o que acarreta a competência da Justiça Federal para o julgamento da causa. II Essa orientação vem sendo aplicada pelo STF aos casos que discutem a incidência de contribuição previdenciária sobre o terço constitucional de férias pago aos policiais civis do Distrito Federal. III O acolhimento do pleito recursal demandaria a interpretação de legislação infraconstitucional, análise inviável em recurso extraordinário, assim como incide o óbice previsto na Súmula 279/STF. IV Agravo regimental a que se nega provimento.” (ARE 997.622-AgR, Rel. Min. Ricardo Lewandowski)
+    No mesmo sentido, cito as seguintes decisões monocráticas: ARE 1.178.254/DF, Rel. Min. Luiz Fux; ARE 1.172.650/DF, Rel. Min. Edson Fachin; ARE 1.101.750/DF, sob a minha relatoria; ARE 878.151/DF, Rel. Min. Alexandre de Moraes; ARE 847.081/DF, Rel. Min. Gilmar Mendes.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 21 de agosto de 2019.
+Ministro Luís Roberto Barroso
+Relator
