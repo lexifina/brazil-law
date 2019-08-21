@@ -1,0 +1,46 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Ação Anulatória – ITCMD- Pretensão de ver declarada a nulidade do débito fiscal – Recebimento pelo autor de quantia doada por pessoa domiciliada no Estado do Rio de Janeiro – Cobrança do ITCMD compete ao Estado – membro onde tiver domicílio o doador – Inteligência do art. 155, I e §1º, da Constituição Federal e art. 7º, §2º, da Lei Estadual nº 10.705/00- Ausência de prova quanto ao local do domicílio do doador – Recurso desprovido.” (eDOC 16, p. 2)
+    Opostos embargos de declaração, estes foram rejeitados. (eDOC 19)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5°, LV; e 155, I, §1º, do texto constitucional.
+    Nas razões recursais, sustenta-se que não haveria previsão legal para que a Fazenda do Estado de São Paulo pudesse exigir o ITCMD, uma vez que essa competência teria sido conferida pelo texto constitucional ao ente federativo em que o doador tivesse domicílio, que no presente caso, se trataria do Estado do Rio de Janeiro. (eDOC 21, p. 7/12)
+    Alega-se, ainda, a violação aos princípios do contraditório e ampla defesa, uma vez que não teria sido intimada após a apresentação de contestação por parte do recorrido, bem como o domicílio da doadora (no Estado do Rio de Janeiro) não ter sido controvertido na instrução processual. (eDOC 21, p.9)
+    Nas contrarrazões, alega-se a falta de repercussão geral da controvérsia e a ausência de prequestionamento da questão constitucional. (eDOC 22)
+    A Procuradoria-Geral da República manifestou-se pelo não conhecimento do agravo, pelo óbice da Súmula 287.
+    É o relatório.
+    Decido.
+    Assiste razão ao recorrente.
+    O Tribunal de origem, ao examinar a espécie dos autos, consignou o seguinte:
+    “Trata-se de recurso inominado interposto contra sentença que julgou improcedente o pedido inicial para declaração de nulidade do débito fiscal, em razão do não pagamento do Imposto de Transmissão Causa Mortis e Doação de Quaisquer Bens e Direitos ITCMD, bem como cancelamento do protesto realizado em razão do mencionado débito.
+    Sustenta o recorrente que recebeu uma doação no valor de R$ 300.000,00 de sua avó e realizou o pagamento do ITCMD no Estado do Rio de Janeiro, local do domicílio da doadora. Contudo, alega que foi surpreendido com a intimação do 7º Tabelionato de Protestos de Títulos de São Paulo para pagamento da importância de R$ 36.910,80, referente à Certidão de Dívida Ativa nº 1.238.716.031, em razão do não pagamento de ITCMD sobre a doação recebida. Aduz que a cobrança é indevida, uma vez que já realizou o pagamento no domicílio da doadora.
+    Contrarrazões às fls. 153/173.
+    É o relatório.
+    O Imposto de Transmissão Causa Mortis e Doação de Quaisquer Bens e Direitos- ITCMD incide sobre os bens e direitos transferidos em virtude de falecimento de pessoa física ou por doação, nos termos do art. 155, Constituição Federal.
+    ‘Art. 155. Compete aos Estados e ao Distrito Federal instituir impostos sobre:
+    I - transmissão causa mortis e doação, de quaisquer bens ou direitos;
+    (...)
+    § 1º O imposto previsto no inciso I:
+    I – relativamente a bens imóveis e respectivos direitos, compete ao Estado da situação do bem, ou ao Distrito Federal;
+    II – relativamente a bens móveis, títulos e créditos, compete ao Estado onde processar o inventário ou arrolamento, ou tiver domicílio o doador, ou ao Distrito Federal;
+    (...)
+    Contudo, o recorrente deixou de demonstrar nos autos que o domicílio da autora está de fato no Estado do Rio de Janeiro. Em que pese ter acostado aos autos as guias comprovando o pagamento do ITCMD junto ao referido Estado, não há qualquer documento que demonstre o endereço no qual a doadora reside. Nos documentos juntados há apenas a indicação do endereço do donatário, localizado no Estado de São Paulo.
+    Portanto, em razão da não comprovação do local em que a doadora reside, não há como ser acolhido o pleito do recorrente.“ (eDOC 16, p. 2 – grifos originais)
+    Opostos embargos de declaração pelo recorrente, trazendo as alegações também deduzidas no extraordinário, foram rejeitados nos seguintes termos:
+    “Recebo os Embargos de Declaração e, no mérito, nego-lhes provimento.
+    Embora ponderáveis os argumentos trazidos nos embargos, tendo em vista o caráter infringente, não podem ser acolhidos. O remédio processual adequado é a via recursal e não os embargos, eis que não há omissão, obscuridade ou contradição no acórdão proferido.
+    O teor dos embargos de declaração demonstra, por si só, que a parte deseja alterar o julgado, em manifesto caráter infringente, do qual os presentes embargos estão excluídos, uma vez que seu âmbito é restrito: visam a suprir omissão, aclarar ponto obscuro ou, ainda, eliminar contradição eventualmente existente em decisão, sentença ou acórdão.
+    Assim, rejeito os embargos de declaração, permanecendo íntegro o julgado, por seus fundamentos”. (eDOC 19)
+    É patente a omissão do juízo a quo, que, instado a se pronunciar sobre premissa inarredável do raciocínio jurídico que formulou, calou-se para que tal análise não levasse à alteração do julgado. Logicamente, para que uma das partes seja derrotada por não haver comprovado fato constitutivo de seu direito, seria preciso que a prova de tal fato lhe competisse; não pode um julgador dispensar-se de demonstrar essa etapa de seu raciocínio, mormente quando a parte prejudicada apresenta razões ponderáveis em contrário. Há deficiência estrutural na fundamentação do acórdão recorrido.
+    Fosse o órgão julgador um tribunal, mereceria o recurso extraordinário a conversão em especial (art. 1.033 do CPC) para que o Superior Tribunal de Justiça apreciasse a validade do acórdão dos embargos de declaração perante o modelo legal. Trata-se, porém, de turma recursal da Fazenda Pública, cujos pronunciamentos não se sujeitam a recurso especial.
+    Logo, penso não vincular a presente decisão a tradicional jurisprudência da Corte, formada bem antes da Lei 12.153/2009 (Lei dos Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios), que nega a possibilidade de se apurar, em recurso extraordinário, a nulidade do acórdão dos embargos de declaração que deixa de corrigir os vícios do acórdão embargado, por entender subjacente às suas razões a consideração de que a parte disporia de um outro meio para evitar a negação de seu direito.
+    Crucial recordar que, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010, no tema 339 do Plenário Virtual, foram reconhecidos o caráter constitucional e a repercussão geral da controvérsia relativa à necessidade de fundamentação das decisões judiciais. Embora haja sido negado provimento ao recurso paradigma, e sua aplicação resulte principalmente na negativa de seguimento aos extraordinários que alegam violação ao art. 93, IX, da CF, a tese nele firmada permite a cassação de acórdãos que não são fundamentados, nem sucintamente, quanto a ponto essencial à resolução da lide. Transcrevo sua ementa:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+    Sobre o ponto, há, também, precedentes de ambas Turmas deste Tribunal:
+    “Decisão judicial: fundamentação: necessidade (CF, art. 93, IX). Dada a resistência oposta pelo então apelante à duração do pensionamento a que fora condenado em primeira instância, o tribunal local, ao confirmar a sentença, não podia ter deixado de fundamentar a solução desse aspecto da lide”. (RE 221.967, rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 5.2.1999)
+    “AÇÃO PENAL. Crimes de supressão de documento (art. 305, CP) e falsa perícia (art. 342, § 1°, CP). Trancamento da ação em habeas corpus. Ausência de fundamentação. Acórdão nulo. Ofensa ao art. 93, inc. IX, da Constituição Federal. Recurso provido. É nulo o acórdão que determina trancamento de ação penal sem a necessária fundamentação”. (RE 603.929, rel. Min. Cezar Peluso, Segunda Turma, DJe 16.4.2010)
+    Ante o exposto, conheço do agravo para dar provimento ao recurso extraordinário (art. 932, V, b, do CPC), cassar o acórdão dos embargos de declaração (eDOC 19) e determinar novo julgamento de tal recurso.
+    Custas pelo recorrido. Sem honorários, diante do prosseguimento do feito.
+    Publique-se.
+    Brasília, 21 de agosto de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
