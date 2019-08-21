@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão da 3ª Turma Recursal dos Juizados Especiais Federais de Pernambuco, assim ementado (eDOC 18, p.1):
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. PLANO DE CARREIRA. PROVENTOS DE APOSENTADORIA. RETRIBUIÇÃO POR TITULAÇÃO – RT. NOVO MÉTODO DE CÁLCULO INAUGURADO PELA LEI Nº 12.772/12. INDICADOR INTITULADO RECONHECIMENTO DE SABERES E COMPETÊNCIAS – RSC. COMPETÊNCIA DOS JEF’S PARA ANULAR ATO ADMINISTRATIVO DE NÍTIDO CARÁTER FINANCEIRO. LEGITIMIDADE DO IFPE PARA FIGURAR NO POLO PASSIVO. APOSENTADORIA DA PARTE AUTORA EM 23/08/1993, AINDA VIGENTE A REGRA DE PARIDADE ENTRE ATIVOS E INATIVOS. APROVEITAMENTO DE TÍTULOS E CERTIFICADOS OBTIDOS ANTES DA APOSENTAÇÃO. INTELIGÊNCIA DO ARTIGO 17, §1º, LEI 12.772/12. RECURSO INOMINADO DO IFPE IMPROVIDO.”
+    Os embargos de declaração foram providos, mas sem efeitos infringentes. (eDOC 24)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao artigo 5º, XXXVI; 37, captu; e 40, § 8º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que, “quando a parte autora tornou-se inativa, a regra aplicável a sua carreira pressupunha que as RT's fossem concedidas sem as equivalências com o RSC que foram inauguradas na ordem jurídica somente a partir da Lei nº 12.772/13, de modo que, à luz do princípio do tempus regit actum, não haverá que prosperar a pretensão que ignore tais nuances para estender aos proventos da autora critérios diversos daqueles existentes quando de sua aposentação.” (eDOC 19, p. 8).
+    O Tribunal de origem inadmitiu o recurso extraordinário com base no caráter infraconstitucional da matéria (eDOC 29).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalta-se que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que suposta ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não ostenta repercussão geral.
+    Confira-se, a propósito, a ementa do RE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.8.2013:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Verifica-se que o acórdão recorrido, ao julgar o recurso inominado, fundamentou as razões de decidir na Lei nº 12.772/2012. Assim, eventual divergência com o entendimento adotado pelo juízo a quo – sobre a possibilidade de se reconhecer o direito dos inativos a perceberem a mencionada vantagem RSC, nos moldes dos requisitos delineados pelo acórdão recorrido – demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie. Desse modo, resta inviabilizado o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    A hipótese tratada nos autos guarda pertinência com os seguintes precedentes, assim ementados:
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Servidor público. Gratificação de Estímulo à Docência (GED). Extensão aos inativos. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. Os dispositivos constitucionais tidos como violados não foram examinados pelo Tribunal de origem. Incidência das Súmulas nºs 282 e 356 da Corte.
+    2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF.
+    3. Agravo regimental não provido.” (ARE 729.128-AgR, rel. Min. Dias Toffoli, Primeira Turma, DJe 08.08.2013).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO DE ESTÍMULO À DOCÊNCIA - GED. EXTENSÃO A INATIVOS. LEI 9.678/1998. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. Precedentes. II – Agravo regimental improvido.” (RE 58.273-AgR, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 27.03.2012).
+    Em casos análogos ao dos autos, cito as decisões: ARE 1.047.268, rel. Min. Ricardo Lewandowski, DJe 29.05.2017; ARE 1.065.313, rel. Min. Luiz Fux, DJe 16.08.2017; ARE 1.040.709, rel. Min. Luiz Fux, DJe 29.06.2017.
+    Ante o exposto, nego provimento ao recurso extraordinário, nos termos dos artigo 932, IV, a, do Código de Processo Civil e 21, § 1º, do RISTF.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 21 de agosto de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
