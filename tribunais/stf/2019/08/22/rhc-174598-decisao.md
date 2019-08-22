@@ -1,0 +1,37 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus impetrado pela Defensoria Pública da União em favor de Matheus Lucio de Abreu, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental nos autos do HC 470.124/SC. (eDOC 1, p. 155-167)
+    Consta dos autos que o recorrente foi condenado pela prática do crime de roubo qualificado, por fatos ocorridos em 29.3.2017, 12.4.2017 e 27.4.2017, acarretando em três condenações penais distintas.
+    Formulado pela defesa pedido de reconhecimento da continuidade delitiva entre os delitos de roubo qualificado, o Juízo da Vara de Execuções Penais da Comarca da Capital/SC não acolheu o pedido, ocasião em que procedeu à soma das penas, perfazendo um total de 19 (dezenove) anos, 1 (um) mês e 18 (dezoito) dias de reclusão. (eDOC 1, p. 99-101)
+    Interposto recurso de agravo em execução penal, o Tribunal de Justiça do Estado de Santa Catarina/SC negou provimento ao recurso nos termos da ementa a seguir transcrita: (eDOC 1, p. 105)
+    RECURSO DE AGRAVO. EXECUÇÃO PENAL (LEI 7.210/1984, ART. 197). DECISÃO QUE INDEFERIU PEDIDO DE APLICAÇÃO DA CONTINUIDADE DELITIVA ENTRE CRIMES CONTRA O PATRIMÔNIO. ROUBOS CIRCUNSTANCIADOS PELO EMPREGO DE ARMA, CONCURSO DE PESSOAS E RESTRIÇÃO À LIBERDADE DAS VÍTIMAS (CÓDIGO PENAL, ART. 157, § 2 o , I, II E V). INSURGIMENTO DO REEDUCANDO. ADOÇÃO DA TEORIA OBJETIVO-SUBJETIVA. AUSÊNCIA DO REQUISITO OBJETIVO RELACIONADO A FORMA DE EXECUÇÃO, BEM ASSIM DO SUBJETIVO CONSISTENTE NA UNIDADE DE DESÍGNIOS. DELITOS PRATICADOS EM HABITUALIDADE CRIMINOSA. PRECEDENTES. PRONUNCIAMENTO CONSERVADO. RECURSO CONHECIDO E DESPROVIDO.
+    A questão, então, foi levada à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Joel Ilan Paciornik, não conheceu do HC 470.124/SC. Ato contínuo, interposto agravo regimental, a Corte Superior negou provimento ao recurso. Por oportuno, extraio a ementa: (eDOC 1, p. 142)
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO. CONTINUIDADE DELITIVA. ART. 71 DO CÓDIGO PENAL – CP. REITERAÇÃO CRIMINOSA. REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA ELEITA INADEQUADA. AGRAVO REGIMENTAL DESPROVIDO. 1. Para o reconhecimento do crime continuado (art. 71 do Código Penal), adota-se como premissa que determinado agente pratique duas ou mais condutas da mesma espécie em semelhantes condições de tempo, lugar e modus operandi – requisitos objetivos – unidade de desígnios entre os delitos cometidos – requisito subjetivo. 2. In casu, as instâncias ordinárias foram taxativas no afastamento do requisito subjetivo, afirmando que os delitos em discussão foram praticados com desígnios autônomos, a revelar traços que correspondem à reiteração criminosa. O habeas corpus revela-se inadequado para alterar esse entendimento, uma vez que tal providência demandaria a análise aprofundada do processo de execução, incompatível com a celeridade e sumariedade do rito. 3. Esta Corte tem posicionamento consolidado no sentido de não admitir a aplicação do art. 71 do Código Penal ao criminoso habitual. Precedentes. 4. Agravo regimental desprovido.
+    Nesta Corte, a defesa reitera os pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    As razões não comportam acolhimento.
+    Ao julgar o recurso de agravo em execução, asseverou o TJ/SC: (eDOC 1, p. 111-112)
+    “(...).
+    A controvérsia reside na existência ou não do vínculo intrínseco entre as ações para fins de caracterização da continuidade delitiva.
+    Na conjuntura em apreço, no tocante ao requisito objetivo, apenas as condições de tempo e lugar são semelhantes, considerando que as comarcas de Palhoça e São José são vizinhas e integradas. A maneira de execução, contudo, diverge, pois o delitos foram praticados na companhia de um ou mais indivíduos, dois deles no período matutino e outro à noite, ora em estabelecimento comercial ora contra particular.
+    Não há indícios, portanto, da existência de um elo subjetivo entre as condutas e os resultados, pois não se observou um único objetivo almejado pelo recorrente, mas vários e distintos, que se renovaram a cada término de ação, quais sejam: subtrair diferentes objetos, de vítimas diversas e fazer deste meio criminoso sua forma de vida.
+    [...]
+    Contudo, os elementos existentes nos autos evidenciam que o crime posterior ao primeiro foi individualmente planejado, sobretudo porque o agente não cessou seu intento ao conseguir seu objetivo inicial (apoderar-se de determinado bem alheio), mas, ao contrário, permaneceu cometendo crimes contra o patrimônio, restabelecendo sua intenção de subtrair, bem como todo o iter criminis para alcançar este desiderato, a cada momento, com novo e diferente objetivo.
+    Além disso, inviável dar procedência à argumentação do reeducando de que o pequeno intervalo de tempo entre as condutas é suficiente para enquadrar o ilícito como eventual.
+    Isso porque as condições de tempo em que os delitos são praticados constituem requisito de ordem objetiva que não é apto a afastar o pressuposto subjetivo da unidade de desígnios.
+    [...]
+    Dessarte, não havendo provas de que o insurgente praticou referidos crimes em situação de sucessão circunstancial, mas, ao contrário, elementos convincentes da sua habitualidade criminosa, deve permanecer incólume a decisão profligada”.
+    Por sua vez, consignou o Superior Tribunal de Justiça: (eDOC 1, p. 146)
+    “(...).
+    Segundo a teoria mista, acolhida no direito brasileiro, o reconhecimento da ficção jurídica do crime continuado, prevista no art. 71 do Código Penal, adota como premissa que determinado agente pratique duas ou mais condutas da mesma espécie em semelhantes condições de tempo, lugar e modus operandi – requisitos objetivos – unidade de desígnios entre os delitos cometidos – requisito subjetivo.
+    In casu, as instâncias ordinárias foram taxativas no afastamento do requisito subjetivo, afirmando que os delitos em discussão foram praticados com desígnios autônomos, a revelar traços que não correspondem à continuidade delitiva, mas sim à reiteração criminosa..
+    Trata-se de conclusão fundada em elementos fático-probatórios e, por essa razão, o habeas corpus revela-se via inadequada para sua alteração, uma vez que tal providência demandaria a análise aprofundada do processo de execução, incompatível com a celeridade e sumariedade do rito.
+    Ressalte-se, ainda, que esta Corte tem posicionamento consolidado no sentido de não admitir a aplicação do art. 71 do Código Penal ao criminoso habitual”.
+    Da leitura dos excertos acima, registro que é inviável acolher a tese defensiva.
+    No ponto, o Tribunal de Justiça e o STJ assentaram a impossibilidade do reconhecimento da continuidade delitiva, ressaltando a Corte Superior que in casu, as instâncias ordinárias foram taxativas no afastamento do requisito subjetivo, afirmando que os delitos em discussão foram praticados com desígnios autônomos, a revelar traços que não correspondem à continuidade delitiva, mas sim à reiteração criminosa.
+    Para discordar de tal entendimento, é indispensável que esta Corte revolva todo o conjunto fático-probatório dos autos, de um modo amplo a ponto de ensejar um novo juízo, providência inviável na presente via em razão de seus limites cognitivos.
+    Ante o exposto, nego seguimento ao pedido formulado neste recurso ordinário em habeas corpus
+    Publique-se.
+    Brasília, 22 de agosto de 2019.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
