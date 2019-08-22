@@ -1,0 +1,26 @@
+Vistos etc.
+    Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Willer Tomaz de Souza contra acórdão do Superior Tribunal de Justiça, que denegou a ordem no HC 477.243/DF.
+    O Recorrente foi denunciado pela suposta prática do crime de denunciação caluniosa, tipificado no art. 339, § 1º, do Código Penal.
+    A Defesa, ao argumento de trancamento da ação penal por falta de justa causa, impetrou habeas corpus perante o Tribunal Justiça do Distrito Federal e Territórios, que denegou a ordem.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que denegou a ordem no HC 477.243/DF.
+    No presente recurso ordinário, alega o Recorrente a ocorrência de ‘inovação indevida no acórdão recorrido quanto ao fundamento de que fora instaurado procedimento investigativo na OAB/DF contra DIAULAS COSTA RIBEIRO’. Sustenta atipicidade da conduta ante a ausência da elementar "investigação administrativa". Ressalta a “desnecessidade de dilação probatória para constatação da atipicidade por ausência da elementar ‘que o sabe inocente’”. Assevera inexistência da elementar “dar causa à instauração”, pois “Willer Tomaz não foi a única pessoa a apresentar ofício para apuração da conduta de Diaulas Ribeiro”. Defende a imprescindibilidade de “instauração de sindicância contra Diaulas Ribeiro, a fim de apurar as suspeitas à época vigentes, especialmente porque não é possível a suspensão condicional do processo em caso de homicídio culposo praticado sem a observância de regra técnica”. Requer, em medida liminar, o sobrestamento da ação penal de origem No mérito, pugna pelo trancamento da ação penal.
+    É o relatório.
+    Decido.
+    Extraio do acórdão recorrido:
+    “HABEAS CORPUS. DENUNCIAÇÃO CALUNIOSA. REPRESENTAÇÃO NA ORDEM DOS ADVOGADOS DO BRASIL – OAB/DF, IMPUTANDO A PRÁTICA DE CRIME À SUPOSTA VÍTIMA. OFÍCIO AO PROCURADOR-GERAL DE JUSTIÇA DO MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS. INSTAURADA SINDICÂNCIA NA CORREGEDORIA DO MPDFT. DIVERSAS DILIGÊNCIAS. TRANCAMENTO DA AÇÃO PENAL. INVIABILIDADE. DESCRIÇÃO SUFICIENTE DA CONDUTA INCRIMINADORA DO PACIENTE. TESE DE AUSÊNCIA DE DOLO. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. COGNIÇÃO SUMÁRIA.
+    1. O trancamento da ação penal por meio da via estreita do habeas corpus é medida excepcional e cabível somente se emergir de plano, sem a necessidade de exame aprofundado da prova, a atipicidade da conduta, a existência de causa de extinção da punibilidade ou a ausência de prova de materialidade e indícios da autoria dos fatos.
+    2. A instauração de sindicância administrativa, com a prática efetiva de atos, visando à apuração dos fatos, satisfaz o elemento objetivo do tipo previsto no art. 339 do Código Penal. No caso dos autos, o acórdão impugnado menciona expressamente que houve procedimento regularmente processado pela Corregedoria-Geral do Ministério Público, inclusive com reflexos na promoção a Procurador de Justiça do MPDFT.
+    3. A abertura de processo administrativo no âmbito da Ordem dos Advogados do Brasil pode configurar o delito de denunciação caluniosa, desde que preenchidos os demais elementos constitutivos do tipo penal.
+    4. A concretização do tipo descrito na denunciação caluniosa demanda a presença de três requisitos, a saber: a) que a imputação do ilícito seja dirigida à pessoa determinada; b) que a denúncia aponte a prática de crime, ou seja, de fato específico, classificado como delito pela legislação penal vigente; e c) que o agente ativo detenha ciência da inocência daquele a quem se atribui a infração penal (art. 339 do CP). O acórdão impugnado demonstrou, com ampla e suficiente fundamentação, o preenchimento dos requisitos, tendo a denúncia descrito a pessoa a quem foi falsamente imputada a prática delituosa, o tipo penal – concussão –, bem como os indícios de que teria ocorrido uma estratégia criminosa deliberada pelo ora paciente, com o intuito de imputar falsamente à vítima a prática de crime.
+    5. O acolhimento da tese de que o paciente não teria agido com dolo demandaria ampla incursão em matéria fático-probatória a ser devidamente esclarecida no curso da ação penal, não sendo possível a análise nestes autos de habeas corpus, de cognição sumária.
+    6. Ordem denegada. Liminar cassada às fls. 739/743.“
+    Ressalto que, para fins de apreciação do pedido de medida liminar, é necessário avaliar se o acórdão atacado teve o condão de caracterizar patente constrangimento ilegal.
+    Ao exame dos autos, verifico que o acórdão proferido pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento para rechaçar a tese defensiva.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com o imediato trancamento da ação penal de origem.
+    Ante o exposto, indefiro o pedido de liminar.
+    Solicitem-se informações, em caráter de urgência, perante o Juízo da 1ª Vara Criminal de Brasília-DF sobre o andamento da Ação Penal 2016.01.1.011700-3, devendo encaminhar cópia das peças que reputar relevantes.
+    Após, ao Ministério Público Federal para manifestação.
+    Publique-se.
+    Brasília, 22 de agosto de 2019.
+Ministra Rosa Weber
+Relatora
