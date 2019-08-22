@@ -1,0 +1,37 @@
+Decisão: Trata-se de recurso extraordinário cujo objeto é o acórdão do Tribunal de Justiça de Santa Catarina, assim ementado (eDOC 17, p. 35):
+    “CONCURSO PÚBLICO. MUNICÍPIO DE LAGES. EDITAL N. 1/2007. SERVIDOR NOMEADO FORA DO PRAZO DE VALIDADE DO CERTAME. SENTENÇA DE CONCESSÃO DA ORDEM PARA OBSTAR A EXONERAÇÃO. CONFIRMAÇÃO POR MONOCRÁTICA DESTE RELATOR, COM FUNDAMENTO NA DECISÃO PROFERIDA PELO GRUPO DE CÂMARAS DE DIREITO PÚBLICO NO IAC n. 0300155-08.2016.8.24.0039.
+    AGRAVO INTERNO.
+    RECORRENTE QUE SUSTENTA SER NECESSÁRIO AGUARDAR O TRÂNSITO EM JULGADO DAQUELA DECISÃO. DESNECESSIDADE. PRECEDENTES DOS STF EM SITUAÇÕES ANÁLOGAS.
+    PRETENSÃO DE DISCUTIR O ACERTO DA DELIBERAÇÃO DO GRUPO DE CÂMARAS. VIA PROCESSUAL INADEQUADA.
+    APLICAÇÃO DA MULTA DO ART. 1.021, § 4º, DO CPC/2015.
+    “Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor da causa devidamente atualizado (art. 1.021, § 4º). Note-se que nesse caso há dever de imposição da multa, na medida em que co isso o legislador busca resguardar a seriedade na interposição do recurso, evitando a proliferação de recursos meramente protelatórios ou temerários (trata-se, portanto, de técnica voltada não só à promoção da boa fé processual, art. 5º, mas também a concretização do direito ao processo com duração razoável, arts. 5º, LXXVIII, da CF, e 4º, CPC). Condenado o agravante, a interposição de qualquer outro recurso está condicionada ao depósito prévio do valor da multa prevista no § 4º [...] (Curso de Processo Civil. v. 2. São Paulo: Revista dos Tribunais, 2015. p. 538)”. (Agravo n. 4014585-87.2016.8.24.0000, de Fraiburgo, rel. Des. Pedro Manoel Abreu, Terceira Câmara de Direito Público, j. 6-6-2017)
+    Os embargos de declaração opostos foram rejeitados. (eDOC 18, p. 15).
+    O Tribunal de origem, quando do julgamento da apelação, entendeu que a sentença concessiva de segurança estava alinhada à tese firmada em Incidente de Assunção de Competência, no âmbito daquela Corte, cujo teor é o seguinte (eDOC 17, p. 22):
+    "Os servidores nomeados extemporaneamente em face do Concurso Público deflagrado no Município de Lages, por meio do Edital n. 001/2007, devem se manter investidos nos respectivos cargos, em atenção aos princípios da segurança jurídica, do qual decorre o princípio da confiança, e da boa-fé objetiva, que expressam a cláusula geral do “nemo potest venire contra factum proprium”, tornando defeso o comportamento contraditório da Administração Pública, na exata medida em que a ausência de prorrogação do prazo de validade do certame mostrou-se incompatível com o ato subsequente de nomear os candidatos, cujo ato, além de se basear no interesse público, não causou prejuízo ao erário, tampouco a terceiros."
+    APELAÇÃO CÍVEL. CASO CONCRETO. PREFACIAIS DE AUSÊNCIA DE INTERESSE DE AGIR E DE ILEGITIMIDADE ATIVA AD CAUSAM ARREDADAS. EXONERAÇÃO FUNDAMENTADA, TÃO SOMENTE, NA NOMEAÇÃO EXTEMPORÂNEA. INCIDÊNCIA DA TESE JURÍDICA. MANUTENÇÃO DA SENTENÇA CONCESSIVA DA SEGURANÇA. RECURSO DO ENTE MUNICIPAL DESPROVIDO.”
+    O acórdão recorrido manteve, incólume, a decisão proferida em duplo grau de jurisdição.
+    Com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se violação ao art. 37, II e III, e §2º, da Constituição Federal, sob o argumento de que “a não observância do concurso público e de seu respectivo prazo de validade quando da nomeação da recorrida, torna o ato nulo” (eDOC 19, p. 13).
+    A Segunda Vice-Presidência do TJ/SC admitiu o recurso (eDOC 21, pp. 14-18).
+    É o relatório. Decido.
+    Assiste razão ao Recorrente.
+    Inicialmente, cumpre destacar que considera-se presumida a repercussão geral sempre que o acórdão recorrido contrariar súmula ou jurisprudência dominante do Supremo Tribunal Federal, nos termos do art. 1.035, §3º, do Código de Processo Civil.
+    Verifica-se que o fundamento assentado pelo Tribunal de origem destoa da jurisprudência consolidada desta Corte, uma vez que no julgamento do ARE-AgR 899.816, Relator o Min. Dias Toffoli, Dje 24.3.2017, a Segunda Turma firmou o entendimento segundo o qual a nomeação de candidato, após expirado o prazo de validade do concurso público, ofende os princípios insculpidos nos dispositivos do art. 37, II e III e § 2º, da Constituição da República. A propósito, eis a ementa do julgado:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Concurso público. Nomeação após expirado o prazo de validade. Impossibilidade. Ofensa à Constituição Federal. Precedentes. 1. Ofende a Constituição Federal (art. 37, incisos II e III e § 2º) a nomeação de candidato após expirado o prazo de validade do concurso. 2. Agravo regimental não provido. 3. Inaplicável o art. 85, § 11, do CPC, haja vista tratar-se, na origem, de mandado de segurança (art. 25 da Lei 12.016/09).” (ARE 899.816-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 24/3/2017).
+    Confira-se, nesse mesmo sentido, a seguinte ementa, proferida pela Primeira Turma desta Suprema Corte, ao julgar caso análogo:
+    “Ementa: AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1. O acórdão recorrido exibe orientação dissonante da jurisprudência pacífica do SUPREMO TRIBUNAL FEDERAL. 2. Agravo Interno a que se nega provimento.” (RE-Agr 1.105.752, Rel. Min. Alexandre de Moraes, Primeira Turma, Dje 25/09/2018).
+    Portanto, conforme consta dos autos, foi em sentido contrário o entendimento adotado pelo Tribunal a quo. Confira-se, a propósito, os seguintes trechos da decisão proferida em reexame necessário (eDOC 15, pp. 16-19):
+    “(...)
+    O Tema foi objeto de deliberação pelo Grupo de Câmaras de Direito Público em Incidente de Assunção de Competência, em acórdão assim ementado:
+    INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. CONCURSO PÚBLICO. MUNICÍPIO DE LAGES. EDITAL N. 001/2007. EXONERAÇÃO DE SERVIDORES NOMEADOS EXTEMPORANEAMENTE AO PRAZO DE VALIDADE DO CERTAME. DEFESO COMPORTAMENTO CONTRADITÓRIO DA ADMINISTRAÇÃO PÚBLICA. EXEGESE DA CLÁUSULA VENIRE CONTRA FACTUM PROPRIM. OFENSA AOS PRINCÍPIOS DA BOA-FÉ OBJETIVA E DA SEGURANÇA JURÍDICA. SOPESAMENTO COM O PRINCÍPIO DA LEGALIDADE. PONDERAÇÃO FRENTE AO CONTEXTO FÁTICO-JURÍDICO. PRESENÇA DO INTERESSE PÚBLICO NAS NOMEAÇÕES. NÃO INFIRMADO PELA AUTORIDADE IMPETRADA. AUSÊNCIA, ADEMAIS, DE PREJUÍZO AO ERÁRIO E A TERCEIROS. PRECEDENTES DESTA CORTE DE JUSTIÇA (…).
+    (...)
+    2. Em atenção ao caso concreto, direto ao ponto, considerando que a exoneração da impetrante/apelada teve como fundamento, tão somente, a sua nomeação extemporânea, com base na tese jurídica firmada, deve ser mantida a sentença que concedeu a ordem, por seus próprios e jurídicos fundamentos.
+    (...).”
+    Nesse contexto, observa-se que o entendimento firmado no acórdão recorrido divergiu da jurisprudência pacífica do Supremo Tribunal Federal.
+    Ante o exposto, nos termos do art. 932, V, “a”, do Código de Processo Civil, forte na jurisprudência desta Suprema Corte, dou provimento ao recurso para denegar a segurança.
+    Incabível a aplicação do disposto no art. 85, §11, do CPC (Súmula 512 do STF).
+    Custas ex lege.
+    Publique-se.
+    Brasília, 22 de agosto de 2019.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
