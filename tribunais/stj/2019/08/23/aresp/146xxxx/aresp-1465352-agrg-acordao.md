@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISPENSA OU INEXIGIBILIDADE DE LICITAÇÃO FORA DAS HIPÓTESES PREVISTAS EM LEI. AUSÊNCIA DE DEMONSTRAÇÃO DO DOLO ESPECÍFICO E DO PREJUÍZO AO ERÁRIO. ATIPICIDADE DA CONDUTA. INSURGÊNCIA DESPROVIDA.
+1. Ao interpretar o art. 89 da Lei n. 8.666/1993, esta Corte Superior de Justiça consolidou o entendimento de que para a configuração do crime de dispensa ou inexigibilidade de licitação fora das hipóteses previstas em lei é indispensável a comprovação do dolo específico do agente em causar dano ao erário, bem como do prejuízo à Administração Pública.
+2. No caso, as instâncias ordinárias absolveram o agravado ante a constatação da ausência de demonstração de dolo específico e de inexistência de dano ao erário.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão unipessoal desta Relatoria (e-STJ fls. 654-657) que conheceu do agravo para negar provimento ao recurso especial.
+Alega o agravante que o crime previsto no art. 89 da Lei n. 8.666/1993 é de mera conduta e, assim, não se exigiria a demonstração do efetivo prejuízo para sua consumação, tampouco o dolo específico de lesar o erário.
+Aduz, ainda, que para a caracterização do tipo penal do art. 89 da Lei 8.666/1993, bastaria que a licitação tenha sido dispensada ou não exigida fora das hipóteses previstas na lei, o que já causaria prejuízo à Administração Pública, por inobservância de seus princípios basilares.
+Requer, ao final, a reconsideração do decisum ou a submissão do pleito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Ultrapassados os requisitos de admissibilidade do agravo regimental, verifica-se que, no mérito, a irresignação não merece prosperar.
+Noticiam os autos que o agravado foi absolvido dos crimes tipificados nos arts. 312, 299 e 304 c/c o art. 299 todos do Código Penal e no art. 89 da Lei n. 8.666/1993 (e-STJ fls. 488-499).
+Inconformado com a sentença absolutória, o Ministério Público interpôs apelação em que sustentou a existência de provas acerca da materialidade e da autoria do delito do art. 89 da Lei de Licitações, pugnando pela condenação do agravado. Ato contínuo, o Tribunal Regional Federal da 1ª Região negou provimento ao recurso para manter a sentença do magistrado (e-STJ fls. 547-555).
+No especial obstaculizado (e-STJ fls. 562-577), o Parquet apontou violação ao art. 89 da Lei n. 8.666/1993, sob o argumento da desnecessidade do dolo especifico, sendo suficiente o dolo genérico, para tipificar o delito descrito na denúncia.
+O recurso especial recebeu juízo negativo de admissibilidade pelo Tribunal de origem por meio da aplicação das Súmulas n. 7 e 83/STJ (e-STJ fls. 611-613).
+Nas razões do agravo (e-STJ fls. 616-625), sustenta-se, em resumo, que não é necessário o exame do contexto fático-probatório, bem como a inaplicabilidade do enunciado da Súmula n. 83/STJ.
+Em parecer (e-STJ fls. 639-652), o Ministério Público Federal opinou pelo provimento do agravo e pelo desprovimento do recurso especial.
+Por decisão monocrática, esta Relatoria conheceu do agravo para negar provimento ao recurso especial do Parquet.
+Daí a apresentação deste regimental.
+A irresignação, porém, não merece prosperar.
+Conforme ficou consignado na decisão agravada, acerca do delito de dispensar ou inexigir licitação, fora das hipóteses previstas em Lei, a Corte recorrida se manifestou nos seguintes termos, litteris (e-STJ fls. 551-553):
+ ..
+Para a configuração do crime previsto no art. 89 da Lei 8.666/93, de acordo com a mais recente jurisprudência do STJ, é necessária a existência do dolo específico de fraudar o erário ou do efetivo prejuízo à Administração Pública, não bastando o dolo genérico.
+ ..
+De fato, o processo licitatório ocorreu 04 (quatro) meses após a realização do serviço. Do exame dos documentos de fls. 44/47 e 53/57, bem como do depoimento de [NOME] (mídia de fl. 357) verifica-se que o objeto do Processo nº 2012031474 foi executado em 17 e 18/03/2012, mas o processo de contratação direta foi instaurado somente em 02/07/2012, sem observar as formalidades legais.
+Embora não observadas as formalidades, ressaltou o Juízo que "o serviço realizado pela acusada adequou-se ao permissivo legal da dispensa de licitação" (fl. 399) e ainda que "não há nos autos informações cabais a indicar que os réus desviaram ou se apropriaram de dinheiro - no caso verba pública federal do Convênio nº 752.801/2010 - ou qualquer bem móvel, ou mesmo desviaram em proveito próprio ou alheio"(fl. 399v).
+O tipo em questão, como fundamentado, exige o dolo específico e o dano ao erário, o que não está demonstrado nos autos. Ao contrário, considero que o caderno probatório afasta, a um só tempo, o dolo específico do réu e a existência de resultado jurídico desvalioso.
+Quanto ao prejuízo, registro que o MPF não o indicou, pelo contrário, nas alegações finais reconhece expressamente que os serviços foram prestados, que não houve a comprovação de dano.
+Com efeito, as provas nos autos não evidenciam que a dispensa de licitação foi um subterfúgio para auferir vantagem ilícita em proveito próprio ou alheio, mas que, ao contrário, as verbas foram aplicadas ao objetivo pretendido pela Administração Pública, qual seja a realização do curso.
+Ausente o dolo específico e inexistindo dano ao erário, a conduta é penalmente irrelevante e não constitui ilícito penal.
+ ..
+Da leitura do excerto, infere-se que as instâncias ordinárias absolveram o acusado sob o entendimento de ser necessária a existência de efetivo prejuízo para a administração pública, bem como a existência de dolo específico, entendimento que se coaduna com a jurisprudência firmada neste Sodalício.
+Com efeito, a jurisprudência deste Superior Tribunal de Justiça é de que para a caracterização do delito previsto no art. 89 da Lei n. 8.666/93, se faz necessária a presença de dolo específico na conduta do agente, qual seja, de lesar o erário, bem como a efetiva ocorrência de prejuízo ao ente público. Tais condições constituem elementares do tipo penal, devendo estar presentes para fins de tipicidade da conduta.
+Nesse sentido, vejam-se (destaques acrescidos):
+PENAL. PROCESSO PENAL. HABEAS CORPUS. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CABIMENTO. CRIME DO ART. 89, CAPUT, DA LEI N. 8.666/1993 (LEI DE LICITAÇÕES). ABSOLVIÇÃO. CONDENAÇÃO EM GRAU DE APELAÇÃO. NECESSIDADE DA DEMONSTRAÇÃO DE DOLO ESPECÍFICO DE CAUSAR DANO AO ERÁRIO E A COMPROVAÇÃO DE EFETIVO PREJUÍZO À ADMINISTRAÇÃO PÚBLICA. CONSTRANGIMENTO ILEGAL CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - Firmou-se nesta Corte, nos termos do entendimento do col. Supremo Tribunal Federal, orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A paciente foi absolvida em primeiro grau de jurisdição, com fulcro no art. 386, III, do Código de Processo Penal, da imputação de prática do delito previsto no art. 89, caput, com a majorante do art. 84, § 2º, ambos da Lei n. 8.666/1993, c.c. o art. 29 do Código Penal.
+III - Em segunda instância, o eg. Tribunal a quo, por maioria, deu parcial provimento ao apelo ministerial para condenar a paciente pelo delito de dispensa indevida de licitação ao argumento de ser desnecessário a demonstração de dolo específico de causar dano ao erário e a comprovação de efetivo prejuízo à Administração Pública.
+IV - Contudo, é cediço neste Superior Tribunal de Justiça o entendimento de que para a configuração do delito tipificado no art. 89 da Lei n. 8666/1993, "é indispensável a comprovação do dolo específico do agente em causar dano ao erário, bem como do prejuízo à Administração Pública" (RHC n. 90.930/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 1º/8/2018). Precedentes.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para restabelecer a sentença absolutória proferida em favor da ora paciente.
+(HC 498.748/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 30/05/2019, DJe 06/06/2019)
+RECURSOS ESPECIAIS. PENAL. ART. 89 DA LEI N.º 8.666/1993. ART. 1º, INCISO I, DO DECRETO-LEI N.º 201/1967. DOLO ESPECÍFICO E PREJUÍZO AO ERÁRIO. COMPROVAÇÃO. NECESSIDADE. DEMONSTRAÇÃO. AUSÊNCIA. ABSOLVIÇÃO. SENTENÇA CONDENATÓRIA. RECURSO ESPECIAL DE MARCOS ANDRÉ LIMA [NOME] E [NOME] TORALDO PROVIDO, COM EXTENSÃO DOS EFEITOS. RECURSO ESPECIAL DE [NOME], NESSA EXTENSÃO, PROVIDO. HABEAS CORPUS CONCEDIDO, DE OFÍCIO, A LUIZ FELIPE [NOME] LIMA.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a configuração dos delitos previstos no art. 89, caput e parágrafo único, da Lei n.º 8.666/1993 exige a demonstração da presença concomitante do dolo específico, consistente na deliberada intenção de lesar o erário, bem assim a efetiva ocorrência do dano ou prejuízo, não evidenciados, no caso concreto, pelas instâncias ordinárias.
+2. O art. 1.º, inciso I, do Decreto-Lei n.º 201/1967 tipifica como crime a conduta de "apropriar-se de bens ou rendas públicas, ou desviá-los em proveito próprio ou alheio", o qual exige, para a sua configuração, a presença do dolo específico de enriquecimento ilícito.
+3. Ainda que possa ter havido irregularidades no procedimento de contratação com dispensa de licitação, não se pode considerar como desvio de bens ou rendas públicas o pagamento da remuneração pactuada pelos serviços que foram efetivamente prestados, sem notícia de haver prejuízo ao erário público, mormente quanto tais máculas no procedimento não chegaram a configurar ilícito penal.
+4. Recurso especial de [NOME] E [NOME] TORALDO provido para absolvê-los da imputação de prática do crime do art. 89 da Lei n.º 8.666/1993, com extensão dos efeitos aos corréus JORGE PEREIRA NUNES, RENATA TOMAZ MAIA e ELDER DE MATTOS AZARA, na forma do art. 580 do Código de Processo Penal. Recurso especial de [NOME] parcialmente conhecido e, nessa extensão, provido, restabelecendo a sentença na parte em que o absolvera em relação ao crime do art. 1º, inciso I, do Decreto-Lei n.º 201/1967. Habeas corpus concedido, de ofício, a [NOME], a fim de absolvê-lo da acusação de ter cometido o delito do art. 89 da Lei n.º 8.666/1993.
+(REsp 1799355/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 28/05/2019, DJe 05/06/2019)
+Correta, portanto, a aplicação da Súmula n. 83/STJ.
+Ante o exposto, nega-se provimento ao agravo regimental.
+É o voto.
