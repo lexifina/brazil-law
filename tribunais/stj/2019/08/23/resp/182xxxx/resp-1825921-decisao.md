@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 150, e-STJ):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. CONDOMÍNIO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INCLUSÃO DE PARCELAS VENCIDAS E VINCENDAS APÓS O AJUIZAMENTO DA DEMANDA. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+Diversamente do que ocorre na ação de cobrança, em que admitida à inclusão na condenação das parcelas inadimplidas no curso da lide, o feito executivo deve observar os requisitos próprios, ou seja, a certeza, liquidez e exigibilidade da obrigação deve se fazer presente na data da propositura da execução. Disposição plena do art. 786 do CPC/15. Impossibilidade de acréscimo das parcelas vincendas que resulta incompatível com o rito eleito pelo credor
+NEGARAM PROVIMENTO AO AGRAVO INTERNO. UNÂNIME.
+Os embargos de declaração opostos foram rejeitados (fls. 179/185, e-STJ).
+Em suas razões, a recorrente alega, além de divergência jurisprudencial, violação aos arts. 323 e 771, parágrafo único, do Código de Processo Civil de 2015.
+Defende, em síntese, a possibilidade de inclusão de cotas condominiais vincendas no curso do processo de execução.
+Foram apresentadas contrarrazões às fls. 252/263 e 269/276, e-STJ.
+O recurso foi admitido na origem, nos termos da decisão de fls. 280/286, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O recurso merece prosperar, senão vejamos.
+O Tribunal de origem negou provimento ao agravo de instrumento interposto, nos seguintes termos (fls. 106/109, e-STJ):
+Muito embora o Novo Código de Processo Civil tenha incluído no rol de títulos executivos o crédito referente às contribuições ordinárias ou extraordinárias de condomínio edilício (art. 784, inciso X, do NCPC), inviável acolher a pretensão de acréscimo das parcelas vincendas após o ajuizamento da demanda executiva.
+Isso porque, diversamente do que ocorre na ação de cobrança, em que admitida à inclusão na condenação das parcelas inadimplidas no curso da lide, o feito executivo deve observar os requisitos próprios da demanda desta natureza, mormente no que se refere à certeza, liquidez e exigibilidade da obrigação.
+Esses requisitos devem se fazer presentes na data da propositura da execução, na forma do que estabelece o caput do art. 786 do NCPC, com o que a pretensão de simples acréscimo das parcelas vincendas resulta incompatível com o rito eleito pelo credor.
+(..)
+Destarte, considerando a natureza da demanda de Execução de Título Extrajudicial, não há falar em aplicação subsidiária do art. 323 do NCPC, impondo-se a manutenção da decisão vergastada que indeferiu a inclusão das quotas condominiais vincendas.
+Verifica-se, dessa forma, que a decisão proferida pela Corte estadual se encontra em descompasso com a jurisprudência do Superior Tribunal de Justiça, que autoriza, em execução de título extrajudicial, a inclusão, no débito exequendo, das parcelas vincendas, até o cumprimento integral da obrigação no curso do processo (REsp 1759364/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 5/2/2019, DJe 15/2/2019).
+Cito a ementa do referido julgado:
+RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE COTAS CONDOMINIAIS. INCLUSÃO DAS PARCELAS VINCENDAS NO DÉBITO EXEQUENDO. POSSIBILIDADE. PREVISÃO LEGAL CONTIDA NOS ARTS. 323 E 771, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DÉBITOS ORIGINADOS DA MESMA RELAÇÃO OBRIGACIONAL. AUSÊNCIA DE DESCARACTERIZAÇÃO DOS REQUISITOS DO TÍTULO EXECUTIVO (LIQUIDEZ, CERTEZA E EXIGIBILIDADE) NA HIPÓTESE. HOMENAGEM AOS PRINCÍPIOS DA EFETIVIDADE E ECONOMIA PROCESSUAL. RECURSO PROVIDO.
+1. O cerne da controvérsia consiste em saber se, à luz das disposições do Código de Processo Civil de 2015, é possível a inclusão, em ação de execução de título extrajudicial, das parcelas vincendas no débito exequendo, até o cumprimento integral da obrigação no curso do processo.
+2. O art. 323 do CPC/2015 estabelece que: "Na ação que tiver por objeto cumprimento de obrigação em prestações sucessivas, essas serão consideradas incluídas no pedido, independentemente de declaração expressa do autor, e serão incluídas na condenação, enquanto durar a obrigação, se o devedor, no curso do processo, deixar de pagá-las ou de consigná-las".
+2.1. Embora o referido dispositivo legal se refira à tutela de conhecimento, revela-se perfeitamente possível aplicá-lo ao processo de execução, a fim de permitir a inclusão das parcelas vincendas no débito exequendo, até o cumprimento integral da obrigação no curso do processo.
+2.2. Com efeito, o art. 771 do CPC/2015, que regula o procedimento da execução fundada em título extrajudicial, permite, em seu parágrafo único, a aplicação subsidiária das disposições concernentes ao processo de conhecimento à execução, dentre as quais se insere a regra do aludido art. 323.
+3. Esse entendimento, ademais, está em consonância com os princípios da efetividade e da economia processual, evitando o ajuizamento de novas execuções com base em uma mesma relação jurídica obrigacional, o que sobrecarregaria ainda mais o Poder Judiciário, ressaltando-se, na linha do que dispõe o art. 780 do CPC/2015, que "o exequente pode cumular várias execuções, ainda que fundadas em títulos diferentes, quando o executado for o mesmo e desde que para todas elas seja competente o mesmo juízo e idêntico o procedimento", tal como ocorrido na espécie.
+4. Considerando que as parcelas cobradas na ação de execução - vencidas e vincendas - são originárias do mesmo título, ou seja, da mesma relação obrigacional, não há que se falar em inviabilização da impugnação dos respectivos valores pelo devedor, tampouco em cerceamento de defesa ou violação ao princípio do contraditório, porquanto o título extrajudicial executado permanece líquido, certo e exigível, embora o débito exequendo possa sofrer alteração no decorrer do processo, caso o executado permaneça inadimplente em relação às sucessivas cotas condominiais.
+5. Recurso especial provido.
+(REsp 1759364/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 5/2/2019, DJe 15/2/2019)
+Em face do exposto, dou provimento ao recurso especial para determinar a inclusão das despesas condominiais vincendas na ação de execução ajuizada pelo recorrente.
+Intimem-se.
