@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 02/STJ. PRECATÓRIO. PEDIDO DE REVISÃO DE CÁLCULOS. OCORRÊNCIA DE LEVANTAMENTO.
+1. "De acordo com a firme jurisprudência do STJ, após o levantamento da quantia depositada em precatório, o mandado de segurança revela-se descabido, ante a impossibilidade de se utilizar do writ como substitutivo de ação de cobrança. Incidência das Súmulas 269/STF e 271/STF" (AgRg no RMS 41.569/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/11/2013, DJe 29/11/2013).
+2. Recurso ordinário não provido.
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto com fundamento no art. 105, II, b, da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Amazonas cuja ementa é a seguinte:
+MANDADO DE SEGURANÇA CONTRA ATO DO PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS. PRECATÓRIO JUDICIAL. LIMINAR NÃO CONCEDIDA. PRETENSÃO DE REVISÃO DOS CÁLCULOS HOMOLOGADOS NA EXECUÇÃO. IMPOSSIBILIDADE. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. ORDEM DENEGADA.
+Os embargos de declaração opostos foram rejeitados.
+A recorrente sustenta, em suma, que:
+Foi apresentado pedido de revisão de precatório pelo Estado do Amazonas, demonstrando-se que no cálculo tomado como base para o Precatório foi considerado como valor devido o total da pensão percebida pela exequente, e não apenas a diferença cobrada na demanda. Esse erro de cálculo acarretava, em setembro de 2009, uma diferença a maior de aproximadamente R$ 30.000,00 (trinta mil reais), conforme planilha então juntada ao processo pela Procuradoria do Estado do Amazonas. Esse pedido, em que pese tenha sido dirigido ao Desembargador Presidente do TJ/AM, foi encaminhado ao Juízo de primeiro grau por determinação daquela autoridade, tendo este rejeitado o pedido. Foi interposto agravo de instrumento, que foi convertido em agravo retido.
+(..) Foi determinado o arquivamento do Precatório, sob o fundamento de que o valor devido já teria sido integralmente adimplido.
+Ocorre que a Coordenadoria de Cálculos desta PGE verificou que ainda havia um saldo na conta do precatório, ainda não liberado pelo TJ/AM, no montante de RS 28.360,68, e por isso o Estado demonstrou a existência de erro de cálculo e requereu o levantamento do saldo.
+No entanto, foi proferida decisão pelo Presidente do TJ/AM, em 28/06/2012, indeferindo o pedido de revisão de cálculos. O Estado não foi intimado dessa decisão, e a parte contrária, bem como o seu Advogado, levantaram os respectivos valores remanescentes (R$ 5.877,85 pelo Advogado [NOME] - fl. 356 e R$ 24.522,00 pela Sra. [NOME]).
+Posteriormente, em 23/08/2012, o Estado foi intimado da decisão das fls. 352/355, que determinou a expedição dos alvarás e o arquivamento do precatório. Essa decisão havia sido proferida no dia 15/08/2012, e a parte contrária levantou os alvarás no dia 22/08/2012, tudo antes da intimação do Estado.
+(..) Data maxima venia, apesar de se afirmar, na decisão recorrida, que não competiria ao Presidente da Corte de Justiça local "(..) a análise e julgamento de questões incidentais ocorridas na execução, mas ao órgão que julgou a causa" e que não seria possível revisão posterior do valor, ao argumento de que o Estado do Amazonas supostamente não havia impugnado os cálculos em momento oportuno, o fato é que a revisão do precatório é possível à luz do art. 1º-E da Lei n. 9.494/97 e do art. 35 da Resolução n. 115 do e. CNJ, sendo, portanto, ilegal a decisão do d. Presidente da Corte atacada pela via do writ, dada a violação de tais dispositivos.
+De fato, é ilegal a decisão impugnada por meio deste Mandado de Segurança, por não ter observado o disposto no art. 1º-E da Lei n.º 9.494/97 e no art. 35 da Resolução n.º 115 do CNJ.
+É indiscutível o fato de que a ora litisconsorte passiva, depois de sair vitoriosa na ação de cobrança que moveu contra o Estado, promoveu a execução do julgado pleiteando apenas a diferença corrigida entre o que recebeu e o que deveria ter recebido.
+Ora, a Recorrida estava recebendo o valor da pensão em valores inferiores ao devido, obtendo decisão judicial reconhecendo o direito ao recebimento da pensão nos valores corretos. Tanto foi assim que na petição inicial pediu a condenação dos réus ao pagamento "das diferenças oriundas da pensão paga a menor à Peticionária".
+Em suas contrarrazões, o recorrido pugna pelo não provimento do recurso.
+O Ministério Público Federal, por meio do parecer de fls. 385/391, opina pelo provimento do recurso ordinário.
+É o relatório. Passo a decidir.
+Inicialmente, é necessário consignar que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 2, in verbis: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Não obstante a pretensão do impetrante (ora recorrente) seja a revisão dos cálculos referentes ao precatório, em razão da suposta existência de erro, verifica-se que já houve o respectivo levantamento pelos credores.
+Nesse contexto, eventual recuperação de tais valores deve ocorrer pela via própria, não sendo possível a utilização do mandamus.
+No mesmo sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. LEVANTAMENTO DO PRECATÓRIO. DESCABIMENTO. SÚMULAS 269/STF E 271/STF. AGRAVO NÃO PROVIDO.
+1. De acordo com a firme jurisprudência do STJ, após o levantamento da quantia depositada em precatório, o mandado de segurança revela-se descabido, ante a impossibilidade de se utilizar do writ como substitutivo de ação de cobrança. Incidência das Súmulas 269/STF e 271/STF.
+2. Na espécie, por mais que se argumente que a tutela buscada é o cumprimento de decisão proferida no processamento do precatório, após a incorporação dos valores ao patrimônio dos particulares, a devolução da verba não pode ser obtida no bojo mandamus, sendo necessário o ajuizamento da ação cabível em face dos legitimados.
+3. Agravo regimental a que se nega provimento.
+(AgRg no RMS 41.569/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/11/2013, DJe 29/11/2013)
+Diante do exposto, com base no art. 932, IV, do CPC/2015, c/c o art. 34, XVIII, do RISTJ e a Súmula 568/STJ, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
