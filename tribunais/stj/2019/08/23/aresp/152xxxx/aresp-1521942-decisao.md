@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+EXECUÇÃO. APELAÇÃO. OPÇÃO PELA APOSENTADORIA IMPLANTADA ADMINISTRATIVAMENTE EM DETRIMENTO DA [NOME]. AUSÊNCIA DE ATRASADOS. HONORÁRIOS ADVOCATÍCIOS PRESERVADOS. PRINCÍPIO DA FIDELIDADE AO TÍTULO. RE 661.256.
+1. Na execução, o magistrado deve observar os limites objetivos da coisa julgada. Constatada a violação do julgado, cabe ao Juízo até mesmo anular a execução, de oficio, restaurando a autoridade da coisa julgada.
+II. Basta uma análise atenta do que restou decidido para se concluir que a implantação do beneficio concedido judicialmente está condicionada à desistência/renúncia, do autor ao beneficio concedido administrativamente, hipótese segundo a qual, tendo o autor optado pela continuidade do recebimento da aposentadoria concedida administrativamente, não há se falar em atrasados do beneficio concedido judicialmente, o qual sequer foi implantado.
+III. O tema "desaposentação" não está mais pendente de apreciação no STF, em razão da decisão proferida pelo Plenário em 26/10/2006, no RE 661.256, Relator Ministro Roberto Barroso, Relator para Acórdão Ministro Dias Toffoli. Naquele julgamento, o STF fixou a tese de que "No âmbito do Regime Geral da Previdência Social - RGPS, somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do art. 18, §2º, da Lei 8.213/91".
+IV. Uma vez feita a opção pelo beneficio concedido administrativamente, com DIB posterior à DIB do beneficio concedido judicialmente, nada mais é devido ao autor a título deste último beneficio.
+V. Resta resguardado o direito do patrono do autor/exequente aos seus honorários, tendo em vista a autonomia da verba em relação ao crédito do autor.
+VI. Valor da execução fixado em R$ 8.344,21, de acordo com os cálculos da contadoria judicial.
+VII. Recurso provido.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF" (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
