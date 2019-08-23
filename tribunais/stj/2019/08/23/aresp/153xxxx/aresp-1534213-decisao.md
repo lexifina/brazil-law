@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo apresentado pelo ESTADO DA PARAÍBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+PREJUDICIAL. PRESCRIÇÃO DO FUNDO DE DIREITO. RELAÇÃO DE TRATO SUCESSIVO. REJEIÇÃO.
+Sendo a matéria aventada nos autos de trato sucessivo, segundo o qual, o dano se renova a cada mês, afasta-se a aplicação do instituto da prescrição sobre o fundo do direito do autor.
+MÉRITO. POLICIAL MILITAR. REGIME JURÍDICO DIFERENCIADO DO SERVIDOR PÚBLICO CIVIL. INSALUBRIDADE. PLEITO DE PAGAMENTO EM PERCENTUAL EQUIVALENTE A 20% DO SOLDO. APLICAÇÃO DO ART. 4o DA LEI Nº 6.507/97. CONGELAMENTO COM BASE NO ART. 2o, DA LEI COMPLEMENTAR Nº 50/2003. AUSÊNCIA DE PREVISÃO EXPRESSA. REGRA NÃO ESTENDIDA AOS MILITARES. EDIÇÃO DA MEDIDA PROVISÓRIA Nº 185/2012. CONVERSÃO NA LEI ESTADUAL Nº 9.703/2012. LACUNA SUPRIDA. POSSIBILIDADE DE CONGELAMENTO A PARTIR DA PUBLICAÇÃO DA MEDIDA PROVISÓRIA. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. ENTENDIMENTO SEDIMENTADO NO ÂMBITO DESTE SODALÍCIO. DESPROVIMENTO.
+Alega violação do art. 1º, caput, do Decreto n. 20.910/1932, no que concerne à ocorrência da prescrição do fundo de direito, trazendo o seguinte argumento:
+Dentro desse quadro, no instante em que passara a viger a lei complementar nº 50/03, em 30 abril de 2003, norma esta que modificou a forma de pagamento do adicional de tempo de serviço, exsurge a suposta lesão e, de resto, a própria pretensão, iniciando-se, de tal arte, a contagem do lapso prescricional de 05 (cinco) anos.
+É dizer, então: a norma em desfile se trata de típica lei de efeitos concretos, que modificou a forma de pagamento de parcela remuneratória referente a todos os servidores públicos de Administração direta e indireta do Poder Executivo. O postulante, ao altcrcar que a modificação cm foco não o açambarcaria - por ser justamente servidor público militar - possuía 05 (cinco) anos para a propositura da demanda respectiva, contados a partir da data da vigência da norma em comento, que trouxe uma lesão ao seu patrimônio jurídico.
+ ..
+Destarte, considerando a regra plasmada no art. 1º, do Decreto 20.910/1932, impõe-se o reconhecimento da prescrição da exigibilidade do direito em comento, afinal de contas, o termo final do lapso prescricional (30 de abril de 2008), de há muito, já se havia passado quando ajuizada a presente ação.
+Merece reforma, de conseguinte, a sentença vergastada, a fim de que se reconheça a prescrição da exigibilidade do direito do ora Recorrente (fls. 119/120).
+É o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão controvertida não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
