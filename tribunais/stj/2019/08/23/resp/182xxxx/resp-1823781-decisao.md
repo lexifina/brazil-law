@@ -1,0 +1,32 @@
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. 1. ILEGITIMIDADE PASSIVA E RESPONSABILIDADE SOLIDÁRIA DOS FORNECEDORES. CDC. REVISÃO. REEXAME DE CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. 2. MULTA POR LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA DE INTUITO PROTELATÓRIO PELA INTERPOSIÇÃO DE RECURSO CABÍVEL. 3. DISSÍDIO PREJUDICADO. 4. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por Roca Imóveis Ltda., com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 224):
+APELAÇÃO - Compra e venda de imóvel - Ação de Rescisão contratual c/c indenização por danos morais - Parcial Procedência - Demanda promovida contra a vendedora e a corretora Rescisão determinada - Culpa da vendedora reconhecida - Restituição integral dos valores pagos pela autora devida - Intermediadora que deve responder pelos prejuízos causados à autora pois integra a mesma cadeia de fornecimento (CDC, art. 18) - Responsabilidade solidária reconhecida - Valor pago à vendedora que deve ser restituído em dobro, diante da previsão expressa em contrato - Danos Morais - simples inadimplemento contratual que não configura abalo psicológico e emocional para a pretendida indenização - Sucumbência a cargos das requeridas. Recurso Parcialmente Provido.
+Nas razões do apelo especial, a recorrente suscita divergência jurisprudencial no tocante à ausência de responsabilidade solidária da corretora.
+Sustenta, em síntese, que "ficou comprovado que a intermediadora concluiu o negócio, ficando a cargo da vendedora a apresentação da documentação para a execução do mesmo, o que não ocorreu, devendo a rescisão se dar por culpa exclusiva da vendedora, não podendo a corretora ser responsabilizada solidariamente" (e-STJ, fl. 241).
+Contrarrazões às fls. 246-262 (e-STJ), com pedido de aplicação de multa por litigância de má-fé e majoração dos honorários advocatícios ao patamar de 20% (vinte por cento) sobre o valor atualizado da causa.
+O apelo extremo foi admitido na origem (fls. 267-268, e-STJ), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+De início, verifica-se que o Tribunal de origem afastou a ilegitimidade passiva da ora recorrente ao entender pela existência de solidariedade entre os fornecedores, nos seguintes termos (e-STJ, fls. 226-227):
+Antes de mais nada, necessário consignar que a pretensão da autora de restituição de todos os valores pagos, inclusive comissão de corretagem, vem amparada na alegação de que o negócio somente não se efetivou por culpa da vendedora (em conluio com a corretora), não se discutindo nestes autos a efetiva previsão contratual clara (ou não) para pagamento daquele valor de intermediação pela compradora.
+Dito isso, a corretora (intermediadora) Roca deve responder pelos danos causados à autora pois integra a mesma cadeia de fornecimento da construtora e, perante a consumidora, tem responsabilidade solidária (CDC, art. 18).
+Nesse sentido, confira-se:
+"Compromisso de venda e compra. Atraso na entrega da obra. Mora configurada, não disponibilizado o imóvel ao promissário após o prazo estendido, que não se considera abusivo.
+Súmula 164 deste Tribunal. Lucros cessantes. Legitimidade passiva das corretoras de imóveis para responder pelos danos causados pelo atraso, pois integram a mesma cadeia de fornecimento da construtora. Fixação de aluguel mensal, devido durante o período do atraso da obra. Impossibilidade, neste período, de cobrança de juros e multa. Corretagem e taxa SATI.
+Prescrição ocorrida. Danos morais não configurados. Litigância de má-fé também não configurada. Sentença parcialmente reformada.
+Recursos das rés providos em parte" grifei (Ap.
+nº. 1047981-77.2015.8.26.0100, Rel. Des. CLÁUDIO GODOY, j. em 21/11/2018).
+Aliás, não há sequer controvérsia nos autos a respeito do pagamento de R$ 9.000,00 para a corretora Roca Imóveis, conforme se depreende do cheque copiado a fls. 49.
+Desse modo, constata-se que o Tribunal de origem chegou à conclusão de que a recorrente possui legitimidade para figurar no polo passivo da demanda, uma vez que ficou demonstrada a solidariedade entre os fornecedores, e, para infirmá-las, seria imprescindível a interpretação das cláusulas contratuais e o reexame de provas, medidas inadmissíveis nesta Corte, consoante dispõem as Súmulas n. 5 e 7 do STJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. COMPRA E VENDA. INADIMPLEMENTO CONTRATUAL. DEVOLUÇÃO DOS VALORES PAGOS. RESPONSABILIDADE SOLIDÁRIA. REEXAME DE PROVAS. CLÁUSULA CONTRATUAL. SÚMULAS NºS 5 E 7/STJ. PROVA PERICIAL. SÚMULA Nº 283/STF. CORREÇÃO MONETÁRIA. TERMO INICIAL. SUCUMBÊNCIA. REVISÃO. REEXAME DE PROVAS.
+ ..
+3. Para rever as conclusões do tribunal de origem quanto à inexistência de solidariedade e aos limites de responsabilidade da recorrente, seria necessário o reexame de provas e do contrato firmado entre as partes, o que se mostra inviável em recurso especial, por incidirem os óbices das Súmulas nºs 5 e 7 desta Corte.
+ ..
+6. Agravo regimental não provido. (AgRg no AREsp n. 273.500/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 6/10/2015, DJe 15/10/2015)
+Convém registrar que, conforme iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Relativamente à pretensão da parte recorrida em ver aplicada a pena da litigância de má-fé, constata-se que não merece guarida, pois, conforme entendimento desta Corte, "a interposição de recursos cabíveis não implica em litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012).
+Diante do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do advogado da parte recorrida em 2% (dois por cento) do valor da condenação.
+Publique-se.
