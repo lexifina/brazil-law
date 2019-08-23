@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo apresentado por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim resumido:
+CERCEAMENTO DE DEFESA. Não ocorrência. Provas produzidas nos autos suficientes para o julgamento da demanda. Preliminar afastada.
+PLANO DE SAÚDE. Negativa de cobertura a tratamento domiciliar. Abusividade. Necessidade de home care, diante do quadro clínico do autor. Expressa indicação médica. Súmula nº 90, TJSP. Cobertura que deve incluir todas as despesas necessárias, por prazo indeterminado, de acordo com a prescrição médica. Honorários majorados. Recurso não provido, com observação (fl. 305).
+Quanto à controvérsia posta nos autos, alega violação do arts. 47, 51, IV, § 1º, II, e 54 do CDC, e dos arts. 10 e 35-F da Lei n. 9.656/98, no que concerne à cobertura de tratamento domiciliar, trazendo os seguintes argumentos:
+ ..  não há que se falar em abusividade de cláusula contratual quando é patente que a limitação sempre esteve bem exposta no contrato, sendo, inclusive, de fácil compreensão pelo consumidor, que o aderiu por livre e espontânea vontade.
+Deste modo, ao declarar a abusividade na negativa de fornecimento "home care", mesmo havendo cláusula de exclusão de cobertura expressa no contrato que beneficia a parte Recorrida, o Egrégio Tribunal de Justiça do Estado de São Paulo contrariou o quanto disposto no artigo 54, § 40, do CPC.
+Tal se deve ao fato de que a cláusula restritiva que exclui a cobertura de atendimento domiciliar foi redigida com destaque, permitindo a imediata e fácil compreensão do Recorrido (fl. 318).
+É o relatório. Decido.
+Na espécie, a Corte de origem assim tratou da demanda em apreço:
+Os documentos juntados aos autos comprovaram a necessidade de tratamento domiciliar, ressaltando-se que cabe unicamente ao médico responsável pelo paciente determinar qual o melhor tratamento para a sua cura, não sendo necessário realizar prova pericial para tanto.
+De acordo com o relatório de fls. 31, o autor apresenta sequelas neurológicas, em decorrência de AVC, sendo necessário atendimento com equipe multidisciplinar, para fisioterapia, fonoaudiologia e terapia ocupacional, por tempo indeterminado.
+Assim, a pretensão da requerida, de prestar atendimento menos abrangente, esvazia a finalidade do contrato de seguro saúde do qual o autor é beneficiário, reduzindo sua utilidade e colocando o consumidor em desvantagem exagerada (fl. 307).
+Portanto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ)" (AgRg no REsp 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 07/03/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp 1.374.756/BA, Rel.ª Ministra Laurita Vaz, Sexta Turma, DJe 01/03/2019; AgInt nos EDcl no AREsp 1.356.000/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 06/03/2019; e REsp 1.764.793/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 08/03/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
