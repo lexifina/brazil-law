@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de petição apresentada por [NOME] por meio da qual pretende a concessão de efeito suspensivo a recurso especial a ser interposto em face de acórdão proferido pela 23ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, assim ementado:
+EXECUÇÃO POR TÍTULO EXTRAJUDICIAL - Penhora - Determinação de liquidação de ativos financeiros para o cumprimento da obrigação - Medida adequada e que visa a satisfação do crédito - Agravante que é garantidora, sem benefício de ordem, e vem opondo resistência infundada - Ausência de prova de que os ativos destinam-se à sua sobrevivência - Inverossimilhança das afirmações - Proporcionalidade da medida - Recurso improvido.
+Afirma tratar-se, na origem, de execução de título executivo extrajudicial - instrumento particular de financiamento para a construção civil com garantias pessoais e hipotecárias -, que o banco ora requerido move em face de Tivoli Empreendimento Imobiliário SPE Ltda e de seus acionistas garantidores, dentre os quais figura a requerente.
+Aduz que, em "razão do suposto inadimplemento do devedor principal quanto ao descumprimento do contrato, em específico, segundo a Recorrida, do Cronograma de Liberação, não atingimento da meta mínima de vendas de unidades residenciais e formalização irregular de permuta com terceiros, procedeu assim a parte Autora, com o pedido de execução do título pelo vencimento antecipado da dívida", sendo, então, surpreendida com a determinação do Juízo de primeira instância para a "liquidação dos ativos de 7.240 ações ordinárias Alpargatas e 11.591 ações preferenciais Braskem" de sua titularidade, sem que, ao menos, fosse notificada sobre a "possível inadimplência" antes de sofrer constrição do seu patrimônio, já que figura como simples garantidora.
+Acrescenta que, então, em face dessa decisão interpôs agravo de instrumento ao qual foi negado provimento nos termos do acórdão proferido pelo Tribunal de origem, em face do qual pretende interpor recurso especial.
+Afirma que o perigo da demora, a justificar o pedido de concessão de efeito suspensivo ao recurso ainda não interposto, está configurado no fato de que sua aposentadoria é constituída pela renda das referidas ações, tratando-se, pois, de verba alimentar.
+Assim postos os fatos, nos termos do art. 1.029 do CPC/2015, a competência para apreciar o pedido de efeito suspensivo a recurso especial somente passa a ser do Superior Tribunal de Justiça a partir da publicação da decisão de admissibilidade, sendo que, no presente caso, o recurso não foi, ainda, conforme afirmado pela própria requerente (fl. 480) sequer interposto, impossibilitando, assim, a análise, por esta Corte, de qualquer pretensão cautelar.
+Mesmo que assim não fosse, da leitura do acórdão proferido pelo Tribunal de origem, entendo que a questão foi abordada de forma clara, a partir do exame de matéria de fato e cláusulas contratuais, insusceptível de revisão no âmbito do recurso especial (Súmulas 5 e 7), nada indicando a configuração de teratologia ou ilegalidade, in verbis:
+Primeiro ponto de destaque, é que não há qualquer impeditivo para que o banco promova atos de constrição sobre o patrimônio da recorrente.
+Ela é garantidora do empréstimo contraído, figurando como devedora solidária. Dispõe a cl. 7.6. do instrumento:
+
+"7.6. Os garantidores se constituem principais pagadores, responsabilizando-se solidariamente com a devedora pelo fiel e cabal cumprimento de todas as obrigações, principais e acessórias , assumidas pela DEVEDORA(..)" (fl. 112 dos autos principais)(g.n.)
+Diante disso, a defesa da agravante no sentido de que os atos de constrição devem recair, somente sobre os bens hipotecados, é falaciosa.
+Não existe benefício de ordem!
+No caso concreto, como em muitos outros já decididos por esta C. Câmara, o credor pode optar pelo meio mais eficiente na satisfação do seu crédito.
+Ainda, a pretensão executiva está amparada pelo art. 835 do CPC, que elenca o rol de bens que serão penhorados numa ordem de liquidez.
+Os títulos e valores mobiliários com cotação em mercado são bens que possuem maior liquidez em relação aos imóveis hipotecados, o que legitima a atitude do credor, que não está restrito à execução da garantia.
+Por outro lado, não há que se falar em onerosidade excessiva da execução em razão de a penhora estar recaindo sobre ativos que servem à sobrevivência da agravante, que seria "aposentada".
+Primeiro porque não existe prova contábil a amparar essa afirmação, trata-se de defesa genérica.
+Depois porque está demonstrado que a agravante é advogada, o que retira, inclusive, a verossimilhança da tese defensiva (fl. 141).
+Os ativos que foram penhorados, certamente, apenas complementam a renda da recorrente, que pode fazer frente às suas obrigações contraídas sem qualquer prejuízo ao patrimônio mínimo.
+Logo, por todos os aspectos que se analise, não se constata a ilegalidade, abuso ou excesso da constrição.
+Em face do exposto, indefiro a petição inicial e julgo extinto o processo, nos termos do art. 34, XVIII, do Regimento Interno do Superior Tribunal de Justiça.
+Intimem-se.
