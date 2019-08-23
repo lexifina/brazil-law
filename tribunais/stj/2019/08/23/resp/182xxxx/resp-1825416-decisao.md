@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fls. 639/641, e-STJ):
+AÇÃO DE RENTEGRAÇÃO DE POSSE. RECONVENÇÃO. OPOSIÇÃO. AÇÃO DE USUCAPIÃO. SENTENÇA ÚNICA. AÇÃO DE REINTEGRAÇÃO DE POSSE JULGADA PROCEDENTE. RECONVENÇÃO EXTINTA, SEM RESOLUÇÃO DE MÉRITO. OPOSIÇÃO E USUCAPIÃO JULGADAS IMPROCEDENTES. DA AÇÃO DE REINTEGRAÇÃO DE POSSE. 1. INCLUSÃO DA EMPRESA FD COMÉRCIO DE CALÇADOS EIRELI SOMENTE EM SENTENÇA. IMPOSSIBILIDADE. AUSÊNCIA DE IDENTIDADE DE SÓCIOS. DEFESA NÃO OPORTUNIZADA. VIOLAÇÃO AO PRINCÍPIO DO CONTRADITÓRIO. 2. AUTOR QUE ADQUIRIU O IMÓVEL EM 2001 E, LOGO APÓS A AQUISIÇÃO, REPASSOU O IMÓVEL À EMPRESA RÉ. RÉ QUE CONSTRUIU EDIFÍCIO COMERCIAL NO LOCAL, ALI ESTABELECENDO SEU PONTO EMPRESARIAL. POSSE ANTERIOR DEMONSTRADA, BEM COMO O ESBULHO E SUA DATA. REQUISITOS DO ARTIGO 927 DO CÓDIGO DE PROCESSO CIVIL DE 73 (ART. 561 CPC/15) PREENCHIDOS. 3. INDENIZAÇÃO. ARBITRAMENTO NA FORMA DE ALUGUERES QUE CONSIDEROU O VALOR DA TERRA NUA E DA EDIFICAÇÃO. IMPOSSIBILIDADE. EDIFICAÇÃO CONSTRUÍDA PELA RÉ. INDENIZAÇÃO QUE DEVE CONSIDERAR SOMENTE O VALOR DA TERRA NUA, CONFORME APURADO EM PERÍCIA REALIZADA NOS AUTOS DE OPOSIÇÃO EM APENSO. ALUGUERES FIXADOS EM 0,5% DO VALOR DO BEM (TERRA NUA). PRECEDENTES. 4. HONORÁRIOS. MINORAÇÃO. HONORÁRIOS ARBITRADOS NO LIMITE MÍNIMO PERMITIDO PELO ARTIGO 85, §2º DO CÓDIGO DE PROCESSO CIVIL. MANUTENÇÃO. DA RECONVENÇÃO. PEDIDO DE INDENIZAÇÃO PELAS BENFEITORIAS. POSSUIDOR DE BOA-FÉ. INDENIZAÇÃO DEVIDA, SOB PENA DE ENRIQUECIMENTO SEM CAUSA. ARTIGO 1.219 DO CÓDIGO CIVIL. VALOR DA INDENIZAÇÃO QUE DEVE CONSIDERAR O VALOR DA EDIFICAÇÃO, CONFORME APURADO EM PERÍCIA REALIZADA NOS AUTOS DE OPOSIÇÃO EM APENSO. DA OPOSIÇÃO. NATUREZA JURÍDICA DA OPOSIÇÃO. AÇÃO DE CONHECIMENTO AJUIZADA POR TERCEIRO EM FACE DE AUTOR E RÉU, EM LITISCONSÓRCIO PASSIVO NECESSÁRIO. OPOENTE QUE DEDUZ PRETENSÃO SOMENTE EM FACE DO AUTOR DA REINTEGRAÇÃO DE POSSE, DEFENDENDO OS INTERESSES DO RÉU NAQUELA DEMANDA. INADIMISSIBILIDADE DA OPOSIÇÃO PARA O FIM PRETENDIDO. TERCEIRO QUE ATUA COMO VERDADEIRO ASSISTENTE, PRODUZINDO PROVAS E FORMULANDO PEDIDOS EM FAVOR DA RÉ NA REINTEGRAÇÃO DE POSSE. DEMANDA SEM VALOR ECONÔMICO CERTO. FIXAÇÃO DOS HONORÁRIOS. ARTIGO 85, §8º DO CÓDIGO DE PROCESSO CIVIL. DA AÇÃO DE USUCAPIÃO. REQUISITOS PARA A AQUISIÇÃO POR USUCAPIÃO. POSSE MANSA, PACÍFICA E ININTERRUPTA. PROPRIETÁRIO QUE SE OPÕE À POSSE. OPOSIÇÃO MANIFESTADA PELA NOTIFICAÇÃO EXTRAJUDICIAL E PELO AJUIZAMENTO DA AÇÃO DE REINTEGRAÇÃO DE POSSE (AUTOS APENSO). REQUISITOS NÃO PREENCHIDOS. CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ. NÃO CONFIGURAÇÃO DAS HIPÓTESES ELENCADAS PELO ARTIGO 80 DO CPC. CONDENAÇÃO INDEVIDA. HONORÁRIOS FIXADOS COM BASE NO VALOR DA MULTA POR LITIGÃNCIA DE MÁ-FÉ. NECESSIDADE DE ADEQUAÇÃO. IMPOSSIBILIDADE DE APLICAR A REGRA DO ART. 85, §2º DO CPC. MAJORAÇÃO NÃO POSTULADA EM RECURSO DE APELAÇÃO. NON REFORMATIO IN PEJUS. RECURSO ADESIVO. HONORÁRIOS DA AÇÃO DE USUCAPIÃO. MAJORAÇÃO. AUSÊNCIA DE SUCUMBÊNCIA RECÍPROCA. ARTIGO 997, §1º DO CPC. RECURSO ADESIVO NÃO CONHECIDO. RECURSOS DE APELAÇÃO  S 1, 2 E 3 PARCIALMENTE PROVIDOS.
+1. O possuidor de boa-fé tem direito à indenização pelas benfeitorias necessárias, úteis e voluptuárias, nos termos do artigo 1.219 do Código Civil.
+2. "A oposição é instituto de intervenção de terceiros que tem natureza jurídica de ação judicial de conhecimento ajuizada por terceiro (opoente) contra autor e réu (opostos), em litisconsórcio passivo necessário, formando outra relação processual em processo alheio" (NERY JR., 2013).
+3. Posse mansa e pacifica é aquela "exercida sem qualquer manifestação em contrário de quem tenha legitimo interesse, ou seja, sem a oposição do proprietário do bem. Se em algum momento houver a contestação dessa posse pelo proprietário, desaparece o requisito da mansidão" (TARTUCE, 2014) .
+4. O recurso adesivo regulado pelo art. 997 do CPC exige sucumbência reciproca. O pleito de majoração dos honorários advocatícios não pode ser veiculado através de recurso adesivo.
+Os embargos de declaração opostos foram rejeitados (fls. 724/734, e-STJ).
+Em suas razões, a parte recorrente alega, além de divergência jurisprudencial, violação aos arts. 997, §§ 1º e 2º, do Código de Processo Civil de 2015.
+Sustenta, em síntese, o cabimento de recurso adesivo com o único propósito de majoração dos honorários de sucumbência.
+Foram apresentadas contrarrazões às fls. 804/812, e-STJ.
+O recurso foi admitido na origem, nos termos da decisão de fls. 815/817, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+A Corte estadual não conheceu do recurso adesivo, nos seguintes termos (fls. 644/645, e-STJ):
+Do recurso adesivo.
+O artigo 997 do Código de Processo Civil prescreve que:
+Art. 997. Cada parte interporá o recurso independentemente, no prazo e com observância das
+exigências legais.
+§ 1º Sendo vencidos autor e réu, ao recurso interposto por qualquer deles poderá aderir o outro.
+§ 2º O recurso adesivo fica subordinado ao recurso independente, sendo-lhe aplicáveis as mesmas regras deste quanto aos requisitos de admissibilidade e julgamento no tribunal, salvo disposição legal diversa, observado, ainda, o seguinte:
+I- será dirigido ao órgão perante o qual o recurso independente fora interposto, no prazo de que a parte dispõe para responder;
+II- será admissível na apelação, no recurso extraordinário e no recurso especial;
+III- não será conhecido, se houver desistência do recurso principal ou se for ele considerado inadmissível
+A ação de usucapião (autos nº 1013-23.2017.8.16.0194) foi julgada improcedente e o patrono da parte ré recorreu adesivamente pleiteando somente a majoração da verba honorária. Considerando que não houve sucumbência reciproca, o pedido de majoração da verba honorária deveria ter sido veiculado através de recurso autônomo.
+(..)
+Assim sendo, não conheço do recurso adesivo.
+O Tribunal de origem, dessa forma, decidiu de forma contrária à jurisprudência do Superior Tribunal de Justiça, segundo a qual é possível a interposição de recurso adesivo em apelação na hipótese em que se pretende apenas a majoração dos honorários de sucumbência fixados em sentença.
+Nesse sentido, cito os seguintes julgados:
+PROCESSUAL CIVIL. SÚMULA 326/STJ. RATIO DECIDENDI. RECURSO ADESIVO EM APELAÇÃO. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS ESTIPULADOS EM SENTENÇA. CABIMENTO. SÚMULA 83/STJ. AÇÃO INDENIZATÓRIA. CONDUTA PRATICADA POR AGENTE PÚBLICO, OFENSA À HONRA E DANOS MORAIS. QUANTUM INDENIZATÓRIO. POSSIBILIDADE DE REVISÃO PELO STJ. VALOR FIXADO CONSIDERADO EXCESSIVO.
+1. O STJ editou a Súmula 326/STJ com o seguinte teor: Na ação de indenização por dano moral, a condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca.
+2. A ratio decidendi dos precedentes da Súmula 326/STJ é clara no sentido de que, nos casos de indenização por danos morais, fixado o valor indenizatório menor do que o indicado na inicial, não se pode, para fins de arbitramento de sucumbência, incidir no paradoxo de impor à vítima o pagamento de honorários advocatícios superiores ao deferido a título indenizatório.
+3. A jurisprudência do STJ está consolidada no sentido da possibilidade de manejar Recurso Adesivo em Apelação na hipótese em que se pretende apenas a majoração da verba honorária estipulada em sentença.
+4. Trata-se de ação de compensação por danos morais em razão da existência de desvio de finalidade na atuação de procurador da Fazenda Nacional, o qual se valeu inapropriadamente do cargo para ofender a honra de Magistrado.
+5. Ao STJ é dado revisar o arbitramento da compensação por danos morais quando o valor fixado destoa daqueles estipulados em outros julgados deste Tribunal, observadas as peculiaridades de cada litígio.
+6. Assim, observados os precedentes do STJ e as peculiaridades da causa (ato praticado por agente púbico, lesão à imagem e intimidade, condição econômica das partes e reduzida repercussão social do fato), tem-se que a quantia fixada pelo acórdão recorrido se mostra exagerada, motivo pelo qual fixo a compensação por danos morais no valor de R$ 20.000,00 (vinte mil reais).
+7. Agravo Interno conhecido para dar parcial provimento ao Recurso Especial.
+(AgInt no REsp 1710637/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/5/2018, DJe 23/11/2018)
+PROCESSUAL CIVIL. RECURSO ADESIVO EM APELAÇÃO. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS ESTIPULADOS EM SENTENÇA. CABIMENTO.
+1. A jurisprudência desta Corte é firme no sentido da possibilidade de se manejar recurso adesivo em apelação na hipótese em que se pretende apenas a majoração da verba honorária estipulada em sentença. Precedentes: REsp 1030254/GO, Rel. Min. Arnaldo Esteves Lima, Quinta Turma, DJe de 29.9.2008; AgRg no REsp 1040312/RS, Rel. Min. Sidnei Beneti, Terceira Turma, DJe de 11.9.2008; REsp 936.690/RS. Rel. Min. José Delgado, Primeira Turma, DJ de 27.2.2008; REsp 489.186/RS, Rel. Min. João Otávio de Noronha, Segunda Turma, DJ 3.8.2006.
+2. Recurso especial provido.
+(REsp 1276739/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/11/2011, DJe 28/11/2011)
+AGRAVO REGIMENTAL. RECURSO ADESIVO. FINALIDADE ÚNICA DE MAJORAÇÃO DE HONORÁRIOS. POSSIBILIDADE. SÚMULA 83/STJ.
+O Superior Tribunal de Justiça tem, de forma reiterada, julgado pela possibilidade de interposição de recurso adesivo com a finalidade única de majoração do valor fixado a título de verba honorária.
+Incidência da Súmula 83/STJ.
+Agravo improvido.
+(AgRg no REsp 1040312/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 21/8/2008, DJe 11/9/2008)
+Em face do exposto, dou provimento ao recurso especial para determinar ao Tribunal de origem que conheça da apelação adesiva.
+Intimem-se.
