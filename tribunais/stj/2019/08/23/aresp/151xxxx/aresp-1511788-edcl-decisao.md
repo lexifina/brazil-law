@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CLARO S.A em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que "houve a impugnação a todos os fundamentos da decisão recorrida" (fl. 903).
+Ainda, a parte "requer seja sanada a omissão de ausência de intimação da ora embargada para que se manifeste comprovando o ataque específico a todos os fundamentos do acórdão recorrido" (fl. 905), "a fim de ser cumprido o princípio da não surpresa" (fl. 904).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ressalte-se que o Superior Tribunal de Justiça pacificou o entendimento, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, de que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada. Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada. Ilustrativamente: AgRg no AREsp 226.300/PR, relator Ministro Humberto Martins, Segunda Turma, DJe de 13/12/2012.
+Portanto, não há que se falar em omissão de intimação para comprovar a impugnação específica dos fundamentos, muito menos em violação ao princípio da não surpresa, haja vista que o momento adequado para tal comprovação é no recurso de agravo em recurso especial.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
