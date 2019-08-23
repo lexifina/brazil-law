@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo apresentado por ESTADO DE MINAS GERAIS, contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL. EMBARGOS DO DEVEDOR. EXECUÇÃO FISCAL. ADESÃO A PROGRAMA DE INCENTIVO FISCAL. LEI ESTADUAL Nº 22.549, DE 2017, REGULAMENTADA PELO DECRETO ESTADUAL Nº 47.210, DE 2017. HONORÁRIOS ADVOCATÍCIOS. BIS IN IDEM. ENTENDIMENTO DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA. VERBA INDEVIDA. RECURSO PROVIDO.
+1. Segundo entendimento do egrégio Superior Tribunal de Justiça, caracteriza bis in idem a condenação do contribuinte em honorários advocatícios quando ele desiste dos embargos do devedor para aderir a programa de incentivo fiscal no qual já está previsto o pagamento da verba honorária.
+2. Assim, uma vez que o Decreto estadual nº 47.210, de 2017, que regulamentou a Lei estadual 22.549, de 2017, condiciona a própria adesão ao programa instituído por este diploma normativo ao pagamento dos honorários advocatícios, estes são indevidos no caso de desistência dos embargos do devedor com a finalidade de aderir ao plano.
+3. Apelação cível conhecida e provida para excluir a condenação em honorários advocatícios.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp n. 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/6/2018).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
