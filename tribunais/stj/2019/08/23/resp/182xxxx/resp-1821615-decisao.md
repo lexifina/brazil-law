@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por POLI PMI INDÚSTRIA E COMÉRCIO LTDA, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO - AÇÃO ANULATÓRIA - Auto de infração de trânsito  Multas administrativas aplicadas por falta de indicação de condutor (NIC) - Ausência de comprovação de dupla notificação _ Desnecessidade - Inaplicabilidade dos arts. 281 e 282 do Código de Trânsito Brasileiro - Direito de defesa não violado - Tese fixada pelo TJSP, em sede de IRDR nº 2187472-23.2017.8.26.0000 - Multas mantidas - Sentença reformada - Recurso provido para o fim de se julgar improcedente a demanda" (fl. 182e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 281 e 282 do CTB, sustentando que:
+" (..) a validade do ato administrativo depende obrigatoriamente da remessa de duas notificações, quais sejam, uma para a lavratura do auto de infração e outra após o julgamento a fim de notificar sobre a nova penalidade.
+Vale salientar que, não há qualquer distinção no tratamento entre multa por não indicação do condutor na Lei de Trânsito, pois tem a natureza das demais infrações de trânsito" (fl. 195e).
+Por fim, requer o provimento do recurso, "a fim de anular todos os autos de infrações por não indicação do condutor, por não preenchido o pressuposto administrativo da dupla notificação" (fl. 200e).
+Contrarrazões a fls. 211/226e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 227/2
+A irresignação merece prosperar.
+Na origem, trata-se de Ação declaratória de nulidade dos autos de infração de trânsito, ajuizada pela parte ora recorrente, ao fundamento de inexigibilidade de multa, uma vez que não houve dupla notificação, conforme exigido pelo CTB.
+Julgada procedente a demanda, recorreu o réu, tendo sido reformada a sentença pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Acerca da controvérsia, manifestou-se o Tribunal de origem:
+"Portanto, não sendo identificado o infrator de imediato, o proprietário do veiculo, pessoa jurídica, no prazo de 15 (quinze) dias poderá indicá-lo, a partir da notificação da autuação pela infração de trânsito, e, se assim não o fizer, multa poderá ser lavrada, sem a necessidade de nova notificação do responsável.
+Logo, se inaplicáveis os dispositivos dos arts. 280, 281 e 282 do Código de Trânsito Brasileiro, não prospera a alegação da apelante de que as multas NIC são nulas pela falta de notificação, e, dessa forma, as penalidades acessórias aplicadas, nos termos do § 8o do art. 257 do Código de Trânsito Brasileiro, encontram-se corretas" (fl. 185e).
+Do exposto, constata-se que o Tribunal de origem adotou orientação dissonante do entendimento desta Corte, segundo o qual, as normas previstas nos arts. 280, 281 e 282, do CTB devem ser aplicadas à multa do art. 257, § 8º, do referido diploma legal. Isto é, dentro do processo administrativo, para que haja a imposição de multa de trânsito, será necessária a notificação da autuação e da aplicação de pena decorrente da infração. Incide no caso, a Súmula 312/STJ.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. CÓDIGO DE TRÂNSITO BRASILEIRO. MULTA POR AUSÊNCIA DE INDICAÇÃO DO RESPONSÁVEL PELA CONDUÇÃO DE VEÍCULO DE PROPRIEDADE DE PESSOA JURÍDICA. NECESSIDADE DE DUPLA NOTIFICAÇÃO (AUTUAÇÃO DA INFRAÇÃO E POSTERIOR IMPOSIÇÃO DE MULTA).
+1. Controverte-se sobre acórdão que reformou a sentença do juízo de primeiro grau para anular a imposição de penalidade por ausência de indicação do condutor do veículo.
+2. A Corte local consignou que, embora seja possível aplicar multa à pessoa jurídica proprietária de veículo, fundamentada na ausência de indicação do condutor responsável pela infração à legislação, é obrigatório observar a necessidade de dupla notificação: "a primeira que se refere à autuação da infração e a segunda sobre a aplicação da penalidade, conforme estabelecido pelos artigos 280, 281 e 282 do CTB" (fls. 249-250, e-STJ).
+3. Reconheceu que, não obstante essa multa não tenha por fato gerador uma infração de trânsito, "cuida-se de uma infração ao Código de Trânsito Brasileiro e não há nesta legislação qualquer exceção à aplicação" do procedimento estabelecido nos arts. 280 a 282 do CTB.
+4. Com base nesse entendimento, anulou a imposição da multa porque: a) não foi respeitado o prazo para notificação da autuação (30 dias da data em que verificado que a proprietária não identificou o condutor); e b) na realidade, somente houve uma notificação, isto é, a da imposição da pena (quando seria obrigatória, como acima dito, notificar a empresa da autuação por infração ao dever de identificar o condutor do veículo).
+5. O STJ já examinou o tema aqui discutido, concluindo que a norma dos arts. 280, 281 e 282 do CTB se aplica à imposição de multa por ausência de identificação do responsável pela condução do veículo por ocasião do cometimento de infração de trânsito. Precedente: AgInt no AREsp 906.113/SP, Rel. Ministro Francisco Falcão, DJe 8.3.2017.
+6. Recurso Especial não provido" (REsp 1.666.665/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, Dje de 19/06/2017).
+"ADMINISTRATIVO. PROCESSUAL CIVIL. INFRAÇÃO DE TRÂNSITO. APLICAÇÃO DE MULTA. AUTUAÇÃO E NOTIFICAÇÃO. REQUISITOS LEGAIS. NULIDADE RECONHECIDA PELA CORTE DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO DAS PREMISSAS DO ARESTO RECORRIDO. SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I - Ação originária ajuizada para anular multa imposta à pessoa jurídica decorrente de falta de indicação do condutor do veículo.
+II - A jurisprudência desta Corte tem entendimento no sentido de que, no "processo administrativo para imposição de multa de trânsito, são necessárias as notificações da autuação e da aplicação da pena decorrente da infração". Súmula n. 312/STJ.
+III - Acrescente-se que é pacífica a jurisprudência deste Tribunal no sentido de que a aferição da nulidade de auto de infração, bem como da presença dos requisitos essenciais à sua validade, conduz necessariamente ao reexame do conjunto fático-probatório do autos, medida inexequível na via da instância especial, haja vista o óbice da Súmula n. 7/STJ.
+IV - Agravo interno improvido" (STJ, AgInt no AREsp 906.113/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 08/03/2017).
+Destarte, aplica-se, ao caso, entendimento consolidado na Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, a fim de restabelecer a sentença de fls. 154/157e.
+I.
