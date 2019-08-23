@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo apresentado por MARCELLO DE OLIVEIRA LOPES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. ART. 85, § 8º DO CPC/15. MAJORAÇÃO. IMPOSSIBILIDADE. VALOR DA CAUSA ELEVADO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. APRECIAÇÃO EQUITATIVA.
+1. Nas hipóteses em que a verba honorária revelar-se irrisória ou exorbitante, é cabível o arbitramento dos honorários mediante apreciação equitativa, com fundamento no art. 85, §8º do CPC/2015, em atenção aos princípios da proporcionalidade e da razoabilidade. Precedentes deste Tribunal.
+2. Recurso conhecido e parcialmente provido (fl. 432).
+Alega violação do art. 85, §§ 2º, 6º e 8º, do CPC, bem como divergência jurisprudencial, trazendo o(s) seguinte(s) argumento(s):
+Ademais, a causa em voga teve valor certo fixado pelo Recorrido, qual seja, o de RS 500.016,00 (quinhentos mil e dezesseis reais). Como se vê, data máxima vênia, mas a demanda não tem valor inestimável e não é irrisório o proveito econômico, não há como se confundir equidade com modicidade, uma vez que tal fato geraria um barateamento dos serviços advocatícios prestados pelos profissionais da área (fls. 457).
+É o relatório. Decido.
+No que concerne à alegada controvérsia, o Tribunal de origem decidiu:
+No caso, a sentença fixou a verba de forma equitativa, no valor de R$ 2.000,00, com fundamento no art. 85, § 8º do CPC/2015.
+O valor atribuído à causa (R$ 500.016,00 - fl. 134) é extremamente elevado, de modo que a fixação dos honorários advocatícios em 10% sobre o referido valor atualizado representaria quantia superior a R$ 50.000,00.
+Essa situação não guarda consonância com as particularidades dc caso: tema sem maior complexidade; apresentação de três peças (contestação e petições simples de fls. 351 e 353-354) e trâmite de 7 meses entre a peça de defesa e a prolação da sentença.
+Contudo, o valor fixado pela sentença é ínfimo e merece ser corrigido.
+Posto isso, conheço o recurso e dou-lhe parcial provimento para fixar os honorários em R$15.000,00. No mais, mantenho a sentença nos exatos termos em que foi proferida (fl. 437).
+Dessa feita, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ademais, quanto à alegação de existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a" e obstaculizada pelo enunciado da Súmula n. 7/STJ, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "Ademais, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no AREsp n. 1.312.148/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/9/2018).
+Confiram-se ainda os seguintes precedentes: AgInt no AgInt no REsp n. 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; AgInt no AREsp n. 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018; AgRg no AREsp n. 695.443/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 25/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
