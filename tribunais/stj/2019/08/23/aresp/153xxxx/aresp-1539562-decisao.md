@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 155, § 4º, IV, do Código Penal (furto qualificado), à pena de 03 (três) anos de reclusão, em regime inicial fechado, e ao pagamento de 19 (dezenove) dias-multa.
+Irresignada, a defesa interpôs recurso de apelação. O Tribunal de origem, apesar de afastar duas circunstâncias judiciais desfavoráveis, manteve a pena-base imposta na sentença condenatória e negou provimento ao apelo.
+O acórdão restou assim ementado:
+APELAÇÃO CRIMINAL - FURTO - PENA-BASE - ADEQUAÇÃO COM AS CIRCUNSTÂNCIAS JUDICIAIS - MODIFICAÇÃO DO REGIME PRISIONAL E SUBSTITUIÇÃO DA REPRIMENDA CORPORAL POR RESTRITIVAS DE DIREITOS - DESCABIMENTO - RECURSO NÃO PROVIDO. 1. Inviável a redução da pena-base que se mostra proporcional às circunstâncias judiciais do artigo 59 do Código Penal. 2. Não preenchidos os requisitos legais, não há falar-se em modificação do regime prisional ou substituição da reprimenda corporal por restritivas de direitos.
+Opostos embargos de declaração, restaram rejeitados.
+Em sede de recurso especial, a defesa aponta violação ao disposto no art. 59 do Código Penal e art. 617 do Código de Processo Penal. Sustenta, em síntese, que a Corte Estadual, em recurso exclusivo da defesa, ao afastar duas circunstâncias judiciais, não operou a redução proporcional da pena-base, configurando o reformatio in pejus.
+A r. decisão agravada inadmitiu o recurso especial, haja vista a aplicação da Súmula n. 83/STJ.
+Em agravo em recurso especial, a defesa alega que há entendimento recente desta Corte que ampara a irresignação defensiva.
+Contraminuta às fls. 246/248.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 261/264).
+É o relatório. Decido.
+Atendidos os requisitos de admissibilidade e impugnado o fundamento da decisão agravada, conheço do agravo.
+Passo à análise do recurso especial.
+O recurso merece provimento.
+O Tribunal de origem, apesar de afastar duas circunstâncias judiciais desfavoráveis ao agravante, manteve a pena-base imposta na sentença condenatória, mediante seguinte fundamentação (fls. 188/189):
+Ao proceder à análise das circunstâncias judiciais do artigo 59 do Código Penal, embora o MM. Juiz "a quo" tenha considerando indevidamente como desfavoráveis os motivos do delito, que são normais ao tipo penal,  a personalidade, que não há nos autos dados para ser aferida, os péssimos antecedentes criminais do réu, ostentando inúmeras condenações criminais transitadas em julgado anteriormente ao presente fato, como pode ser verificado nas CACs de fls. 90/91, 92/94 e 95/97, justifica o estabelecimento da pena-base acima do mínimo legal.
+Em que pese a alegação da Defesa, a elevação da pena-base está fundamentada, não havendo reparo a ser feito em seu "quantum.
+Em casos semelhantes, esta Corte entende que, em recurso exclusivo da defesa, o afastamento de circunstância judicial desfavorável impõe a redução proporcional da pena-base.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO SIMPLES TENTADO PRATICADOS EM CONTINUIDADE DELITIVA. DOSIMETRIA DA PENA. REPRIMENDA BÁSICA ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL NEGATIVA AFASTADA PELO TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE DIMINUIÇÃO PROPORCIONAL DA REPRIMENDA BÁSICA. ILEGALIDADE. REFORMATIO IN PEJUS CONFIGURADA. 1. A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito. 2. No caso, ao julgar a apelação exclusivamente defensiva, o Tribunal de origem afastou as consequências do crime por considerar inidôneos os fundamentos da sentença, mantendo, contudo a pena-base no mesmo patamar. Ocorre que, afastada pelo colegiado local uma circunstância judicial negativa reconhecida no édito condenatório, imperiosa seria a redução proporcional da reprimenda básica, em atenção ao princípio da non reformatio in pejus. 3. Agravo regimental desprovido. (AgRg no AREsp 1155721/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018 - Grifo Nosso).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO MINISTERIAL. EXASPERAÇÃO DAS PENAS-BASE DOS RECORRENTES. DECOTADOS OS VETORES PERSONALIDADE, CULPABILIDADE, CONSEQUÊNCIAS E CONDUTA SOCIAL. MANTIDO O VETOR QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. REDUÇÃO DE CIRCUNSTÂNCIAS DESFAVORÁVEIS. NECESSIDADE DE READEQUAÇÃO DA PENA EM PATAMARES PROPORCIONAIS.
+(..)
+VI - Por fim, ao afastar circunstâncias judiciais tida por desfavoráveis necessário efetuar, também, a redução proporcional do montante da pena-base, porque, não o fazendo, restaria configurado o reformatio in pejus. Agravo regimental desprovido. (AgRg no AREsp 1185493/CE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 06/03/2018, DJe 14/03/2018 - Grifo Nosso).
+Portanto, é necessário proceder a redução da pena-base. Passo a refazer a dosimetria.
+Mantidos os mesmos critérios adotados pelas instâncias ordinárias, em razão dos maus antecedentes, fixo a pena-base em 02 (dois) anos e 04 (quatro) meses de reclusão e 14 (quatorze) dias-multa. Compenso a agravante da reincidência com a atenuante da confissão espontânea. Não havendo causas de aumento e diminuição da pena, torno-a definitiva em 02 (dois) anos e 04 (quatro) meses de reclusão e 14 (quatorze) dias-multa, à razão de 1/30 (um trigésimo) do salário mínimo vigente à época dos fatos.
+Em razão dos maus antecedentes e reincidência do agravante, mantenho o regime inicial fechado.
+Incabível a substituição da pena privativa de liberdade por restritivas de direitos (art. 44, II e III do CP).
+Diante do exposto, com fundamento na Súmula n. 568/STJ, dou provimento ao recurso especial para reduzir a pena para 02 (dois) anos e 04 (quatro) meses de reclusão e 14 (quatorze) dias-multa.
+Publique-se. Intimem-se.
