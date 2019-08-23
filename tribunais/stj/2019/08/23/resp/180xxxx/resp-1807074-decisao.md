@@ -1,0 +1,13 @@
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA - IRPJ E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL. APURAÇÃO PELO LUCRO PRESUMIDO. ICMS. INCLUSÃO NA BASE DE CÁLCULO. AFETAÇÃO PARA JULGAMENTO SOB O RITO DOS RECURSOS REPETITIVOS. RESPS NS. 1.767.631/SC; 1.772.634/RS; 1.772.470/RS. TEMA 1.008. SUSPENSÃO DO FEITO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+
+DECISÃO
+A questão tratada nos autos - possibilidade de inclusão de valores de ICMS nas bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, quando apurados pela sistemática do lucro presumido - foi afetada, pela Primeira Seção, para julgamento sob o rito dos recursos repetitivos, Tema 1.008:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PROPOSTA DE AFETAÇÃO COMO REPRESENTATIVO DA CONTROVÉRSIA. TRIBUTÁRIO. IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA - IRPJ E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL. APURAÇÃO PELO LUCRO PRESUMIDO. INCLUSÃO DO ICMS NA BASE DE CÁLCULO.
+1. Delimitação da questão de direito controvertida: possibilidade de inclusão de valores de ICMS nas bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, quando apurados pela sistemática do lucro presumido.
+2. Recurso especial submetido à sistemática dos recursos repetitivos, em afetação conjunta com os REsps ns. 1.772.634/RS e 1.772.470/RS.
+(ProAfR no REsp 1.767.631/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 12/3/2019, DJe 26/3/2019)
+Há determinação de suspensão da tramitação de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão delimitada e tramitem no território nacional.
+Nesse passo, a admissão de recurso especial como representativo da controvérsia impõe que os recursos interpostos na Corte de origem e que tratem da mesma questão central fiquem suspensos até o pronunciamento definitivo deste Tribunal. Posteriormente, tais recursos devem ser apreciados na forma prevista no artigo 1.040 do CPC/2015 (art. 5º, III, da Resolução 8/2008-STJ).
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que após a publicação do acórdão a ser proferido nos recursos representativos da controvérsia (REsp 1.699.851/TO, REsp 1.692.023/MT e EREsp 1.163.020/RS), o apelo especial: a) tenha seguimento denegado na hipótese do acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (artigo 1.040 do CPC/2015).
+Publique-se. Intimem-se.
