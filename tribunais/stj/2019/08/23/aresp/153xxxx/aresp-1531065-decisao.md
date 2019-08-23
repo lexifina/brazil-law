@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo apresentado por JONATAS MARINHO DE MELO SANTOS, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+APELAÇÃO CÍVEL. BUSCA E APREENSÃO EM ALIENAÇÃO FIDUCIÁRIA. QUITAÇÃO DO DÉBITO EM JUÍZO. RESTITUIÇÃO DO BEM. DEMORA. AVARIAS. REPARAÇÃO DO DANO MATERIAL PELO MENOR ORÇAMENTO. DANO MORAL NÃO CARACTERIZADO NO CASO CONCRETO.
+1. A instituição financeira é responsável pela reparação do dano material experimentado pelo devedor em relação às avarias no bem apreendido e restituído após quitação da dívida em juízo.
+2. Na indenização do dano material, correta a fixação com base no menor orçamento apresentado pela parte, o que observa o direito de recomposição do patrimônio avariado e apresenta conformidade com as provas produzidas e farta jurisprudência.
+3. Para configurar o dano moral, não basta o inadimplemento de contrato ou dissabor dele decorrente.
+Hipótese em que nada foi alegado para induzir o dano moral, limitando-se a causa de pedir no pagamento da dívida em juízo e, mesmo assim, a condução a leilão sem autorização judicial com a posterior devolução do bem avariado, o que foi reparado e por si só não representa dano à personalidade, ao passo que a demora na restituição do bem constituiu dissabor decorrente de um contrato entre as partes, aliás, causado pelo próprio devedor que, não houvesse atrasado sua obrigação, não teria sofrido a apreensão do bem.
+4. Apelação do réu conhecida e provida em parte. Apelação do autor conhecida em parte e, nesta parcela, não provida.
+O recorrente alega violação dos artigos 186 e 927 do Código Civil, ao afirmar que restou patente a caracterização do dano moral, haja vista que, conforme consta do acórdão recorrido, "após a apreensão, realizou o pagamento integral da dívida, mas o veículo só foi devolvido quase 02 (dois) meses depois e apresentando vários defeitos, tais como: vazamento no motor, lataria amassada, peças quebradas, pneus estourados e para-choque danificado" (fls. 158). Nos seus termos:
+Na hipótese dos autos, é fato incontroverso que o recorrido cometeu um ato ilícito ao demorar cerca de dois meses para restituir o bem com diversas avarias. Em decorrência do ato ilícito, o réu foi condenado a reparar o dano material causado, persistindo a discussão sobre a existência ou não do dano moral.
+Dessa forma, deve-se partir do pressuposto de que estamos de um ato ilícito, bastando tão somente saber se este gerou dano moral.
+ ..
+Desse modo, restringe-se o presente recurso especial a subsunção da norma com o fato descrito, debatendo-se a existência de dano moral ou de mero dissabor.
+Portanto, o recorrente postula para que o acórdão recorrido seja reformado, vez que a conduta descrita revela patente dano moral, o que demonstra a violação aos artigos 186 e 927 do Código Civil. (Grifamos) (fls.158/160)
+É o relatório. Decido.
+Na espécie, o acórdão vergastado entendeu que não houve fato excepcional a ensejar a compensação pecuniária por dano moral, sob os seguintes fundamentos:
+Por fim, deve ser aferida a existência do dano moral, ou seja, ofensa anormal ao direito da personalidade, que tem na essência a dignidade humana. Neste passo, não basta o inadimplemento de contrato ou dissabor dele decorrente.
+ ..
+No caso em exame, nenhum fato excepcional foi demonstrado para ensejar compensação pecuniária por dano moral, mormente a alegada demora na restituição do bem.
+Decerto que o apelado nada alegou para induzir o dano moral, limitando-se na assertiva de que efetuou o pagamento da dívida em juízo e que, mesmo assim, o apelante chegou a levar o bem a leilão sem autorização judicial e depois o devolveu com avarias. Essas foram ressarcidas e por si só não representam dano à personalidade, ao passo que a demora na restituição do bem constituiu dissabor decorrente de um contrato entre as partes, aliás, causado pelo próprio apelado que, não houvesse atrasado sua obrigação, não teria a apreensão. (Grifamos) (fls.151/152)
+Dessa forma, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
