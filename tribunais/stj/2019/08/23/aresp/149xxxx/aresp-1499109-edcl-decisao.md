@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante omissão alegando que "os embargantes CLARAMENTE INDICARAM OS DISPOSITIVOS VIOLADOS, QUAIS SEJAM: arts. 1.806 e, art. 166, IV, do Código Civil. Os referidos artigos foram citados várias vezes no recurso de agravo em recurso especial, sendo inclusive expressamente mencionado que seriam o objeto de análise do recurso, não servindo como mera argumentação" (fl. 163).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Alega o embargante que fez menção expressa quanto à violação dos arts. 1.806 e 166, IV do CC em sua peça de agravo em recurso especial. Ocorre que no recurso especial - cuja análise se pretende por meio do agravo em recurso especial - o embargante "deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional" (fls. 156/157).
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
