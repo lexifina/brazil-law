@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo apresentado por BERSA PRODUTOS GRAFICOS EIRELI e OUTRO, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim resumido:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. Instrumento de confissão de dívida, assinado por duas testemunhas. Título líquido, certo e exigível, dotado de eficácia executiva na forma do art. 784, inciso III, do CPC, revestido das características de abstração e autonomia, sendo despicienda a indicação do negócio subjacente que deu causa à emissão do título. Decisão mantida. RECURSO DESPROVIDO (fl. 161).
+Quanto à controvérsia, alega a violação dos arts. 783, e 803, I, do CPC, para que seja declarada a nulidade do título executivo, tendo em vista sua iliquidez, incerteza e inexigibilidade, trazendo os seguintes argumentos:
+O v. acórdão recorrido negou vigência ao Código de Processo Civil, especificamente os arts. 783 e 803, I, do CPC, que estabelecem que a execução deve sempre corresponder a uma obrigação certa, liquida e exigível
+ ..
+Contudo, na espécie, não foram acostados os contratos originários, dessa forma, não foi possível identificar a origem e a legalidade dos valores renegociados na confissão de dívida, tornando o título executivo extrajudicial incerto e ilíquido (fl. 173).
+ ..
+Além disso, a planilha de cálculo apresentada pelo Recorrido não permite a compreensão dos valores cobrados, bem como não permite identificar a evolução do débito.
+Destaca-se que não é mencionado na planilha os valores já pagos anteriormente, nem os valores que originaram a confissão de dívida.
+Assim, não há informações suficientes para evidenciar a origem, exatidão e legitimidade do débito, bem como dos encargos cobrados.
+Dessa forma, os Recorrente ficam impossibilitados de impugnar os valores e os encargos cobrados ou mesmo apontar divergências, o que prejudica sua defesa, em total afronta aos princípios constitucionais da ampla defesa e do contraditório (fl. 175).
+É o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim se manifestou:
+A exceção de pré-executividade está baseada na alegação de nulidade da execução, por ausência de título executivo extrajudicial, eis que não foi acostado aos autos os contratos originários atrelados ao instrumento de confissão de dívida que lastreia a exordial. Contudo, tal arguição deve ser afastada.
+O título que aparelha a execução "termo de recompra, confissão e assunção de dívida" (fls. 45/49), assinado em 25.09.2017 pelas partes e duas testemunhas, com firmas reconhecidas dos respectivos subscritores, é um título executivo extrajudicial, nos termos do art. 784, inciso III, do CPC 1 .
+O documento expressa claramente o valor do débito, R$ 12.276,84, indica especificamente os valores e as datas em que deveriam ser realizados os pagamentos - 12 parcelas de R$ 1.207,73, vencendo-se a primeira em 30/09/2017 e a última em 30/08/2018 de modo que não prospera a alegação de que o título não é dotado de liquidez, certeza e exigibilidade.
+Ressalte-se que, ao contrário do sustentado pelos recorrentes, o instrumento de confissão de dívida, firmado por duas testemunhas, reveste-se das características de abstração e autonomia, sendo despicienda, assim, a indicação do negócio subjacente que deu causa à emissão do título executivo, nos termos do recitado art. 784, II do Código de Processo Civil (fl. 162).
+ ..
+Como ressaltado pelo Juízo de base no decisum hostilizado (..) a execução está lastreada no "Termo de Recompra, Confissão e Assunção de Dívida" (fls. 31/35 dos autos ), por meio do qual os executados se comprometeram a pagar a quantia de R$ 12.276,84 em 12 parcelas iguais, mensais e sucessivas de R$ 1207,73, vencendo-se a primeira em 30/09/2017 e a última em 30/08/2018. O instrumento tem força de título executivo extrajudicial, pois, além de possuir valor líquido e certo, conta com a assinatura dos devedores e de duas testemunhas, conforme exigido pelo inciso II, do art. 784, do Código de Processo Civil. O título executivo, pois, não é nulo (..).
+Impossível, portanto, dar outro deslinde ao caso, sendo medida de rigor a manutenção da decisão hostilizada, por seus próprios fundamentos (fl. 163).
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
