@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 02/STJ. PRECATÓRIO. SEQUESTRO DE VERBAS PÚBLICAS. TRANSFERÊNCIA AO JUÍZO DA EXECUÇÃO. INEXISTÊNCIA DE ÓBICE. RECURSO NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto com fundamento no art. 105, II, b, da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+Mandado de segurança - Sequestro de verbas públicas, em função da quebra da ordem cronológica para pagamento de precatório - Ato do Presidente do Tribunal de Justiça de São Paulo que determinou a transferência do valor sequestrado ao Juízo da execução, e decretou a extinção do pedido de sequestro - Ausência de violação a direito líquido e certo do impetrante - Segurança denegada.
+O recorrente sustenta, em suma, que, pendente de julgamento o recurso extraordinário, não é possível a transferência do valor sequestrado.
+Em suas contrarrazões, o recorrido pugna pelo não provimento do recurso.
+É o relatório. Passo a decidir.
+Inicialmente, é necessário consignar que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 2, in verbis: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Constou do acórdão recorrido que:
+Tendo-se em conta essa premissa, uma vez realizado o sequestro do valor necessário para o pagamento do precatório, era mesmo de rigor que fosse determinada a transferência do montante sequestrado ao Juízo da execução, por ser deste a competência para solucionar as demais questões relativas ao cumprimento do precatório, inclusive, aquelas relacionadas à satisfação e extinção do débito.
+Nesse sentido, aliás, o parecer da douta Procuradoria Geral de Justiça, segundo o qual "(..) a competência do Juízo da Execução não é mitigada pelas providências administrativas adotadas no âmbito do DEPRE, cabendo àquele Juízo, as decisões de satisfação e extinção do débito. (..) A medida tomada foi regular, ficando sob a competência do Juízo da Execução o levantamento e a decisão de extinção da execução (..)" (fls. 880/883).
+De resto, já não está mais pendente de análise qualquer outra medida judicial capaz de reverter a determinação de constrição de verbas públicas ou alterar o valor sequestrado.
+Registre-se, nesse sentido, que o Mandado de Segurança nº 0548916-62.2010.8.26.0000, manejado pelo impetrante contra o sequestro ordenado pelo Presidente deste Tribunal, já foi julgado e denegado por este Colendo Órgão Especial. E embora o impetrante tenha recorrido ao Egrégio Superior Tribunal de Justiça, não obteve êxito naquela Corte (fls. 858/876).
+Por outro lado, em consulta ao sistema eletrônico de informações processuais do Supremo Tribunal Federal, verifica-se que ocorreu o trânsito em julgado em relação ao Recurso Extraordinário interposto nos autos do Mandado de Segurança no qual há discussão relativa ao sequestro (RE 900121 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 20/04/2018, PROCESSO ELETRÔNICO DJe-103 DIVULG 25-05-2018 PUBLIC 28-05-2018).
+Assim, como bem observado pelo Tribunal de origem, não é possível "vislumbrar violação a direito líquido e certo do impetrante".
+Diante do exposto, com base no art. 932, IV, do CPC/2015, c/c o art. 34, XVIII, do RISTJ e a Súmula 568/STJ, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
