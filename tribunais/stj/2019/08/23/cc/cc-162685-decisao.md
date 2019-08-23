@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, suscitado pela massa falida de TRAILCAR INDUSTRIA DE CARROCERIAS LTDA - MASSA FALIDA em face do JUÍZO DE DIREITO DA 3A VARA CÍVEL DE JOINVILLE - SC e do d. JUÍZO FEDERAL DA 2A VARA DE JOINVILLE - SJ/SC.
+A inicial destaca que "a suscitante é massa falida, conforme sentença de quebra proferida em 31/10/2008 pelo MM. Juízo da 3ª Vara Cível da Comarca de Joinville/SC, nos autos de n. 0049301-75.2008.8.24.0038, e, assim, consequentemente, a partir de tal momento, tornou-se o juízo universal da falência, sendo este o juízo competente para tratar de todos os ativos e passivos da empresa falida, eis que estes constituem a massa, não podendo, destarte, nenhuma disposição patrimonial ser processada fora do juízo falimentar" (na fl. 4).
+Sustenta desse modo, que o conflito de competência está caracterizado, porque o d. "JUIZ DA 2ª VARA FEDERAL DE JOINVILLE determinou nos autos da Ação Civil Pública de n. 5007975-42.2015.4.04.7201, o cumprimento de obrigação de fazer, fixando multa diária, onerando a massa falida e dispondo do patrimônio da massa falida, ultrapassando assim a esfera de sua competência, o que veremos em tópico próprio" (na fl. 4).
+Requer, liminarmente, a suspensão dos atos constritivos objeto do presente e, no mérito, a declaração da competência do Juízo Universal (na fl. 20).
+A liminar foi parcialmente deferida (nas fls. 54/55).
+As informações foram apresentadas (nas fls. 63/210 e 213/216).
+A Subprocuradoria-Geral da República opina pela competência do Juízo Universal da Falência.
+É o relatório.
+Passo a decidir.
+Na origem, discute-se a competência para o cumprimento da sentença proferida nos autos da Ação Civil Pública n.º 5007975-42.2015.4.04.7201, movida pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA e pelo Ministério Público Federal, que impôs à falida a obrigação de remoção de "resíduos sólidos ou produtos tóxicos estocados por força da antiga atividade desempenhada pela suscitante e depositá-los em local adequado e licenciado para tanto, além da multa arbitrada a título de descumprimento da referida obrigação, R$ 100,00 (cem reais) por dia de atraso" (na fl. 220).
+O Conflito de Competência está caracterizado, pois, no caso, dois juízes se declaram competentes para determinar o modo de cumprimento de obrigações da massa falida: o d. Juízo da Falência proibindo "a prática de qualquer ato de disposição ou de oneração de bens do falido" (nas fls. 27/29) e o d. Juízo Federal obrigando a massa falida ao cumprimento de obrigação de fazer, sob pena de multa diária (na fl. 31).
+Assim, com o caso trata de cumprimento de sentença, impondo obrigação de fazer, com imposição de multa, portanto, com cunho pecuniário direto, a execução dessa incumbência cogente certamente vai demandar o engajamento dos escassos recursos da massa falida, podendo prejudicar a satisfação do maior número possível de credores, segundo a isonomia e a ordem estabelecidas em lei.
+Logo, a efetivação da obrigação de fazer imposta deve ser conduzida pelo Juízo Universal da falência, o responsável pela fiscalização do patrimônio da massa falida até sua liquidação final.
+Ante o exposto, conheço do conflito e declaro competente o d. Juízo de Direito da 3ª Vara Cível de Joinvile/SC, Juízo da Falência.
+Publique-se.
