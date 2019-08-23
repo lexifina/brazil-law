@@ -1,0 +1,19 @@
+DECISÃO
+
+Trata-se de agravo apresentado por LPS BRASIL CONSULTORIA DE IMÓVEIS S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", do permissivo constitucional, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+EMBARGOS DE DECLARAÇÃO - Rescisão de contrato - Apelação - Recursos parcialmente providos - Contradição do v. acórdão embargado - Vício existente - Exclusão da restituição da comissão de corretagem - Descabimento - Requeridas que deram causa à rescisão contratual - Não devolução da comissão que beneficiaria indevidamente as rés - Partes que devem ser restituídas ao statuts quo ante - Devolução mantida - Embargos acolhidos com efeitos modificativos (fl. 526).
+Quanto à controvérsia, apresentada pela alínea "a" do permissivo constitucional, alega violação do art. 725 do CC, no que concerne ao reconhecimento da obtenção de resultado útil pela intermediadora na aquisição de imóvel, trazendo o(s) seguinte(s) argumento(s):
+Como se vê, apesar de os Recorridos e a Incorporadora Corré terem concretizado a venda e compra, o v. acórdão não considera tal acordo como negócio jurídico apto a permitir a exigibilidade da comissão de quem intermediou a compra e venda.
+Destarte, deve se aplicar ao caso o considerando como existente o contrato ocorrido o resultado útil que dela exposto no v. acórdão recorrido, 8 artigo 725 do de corretagem, se espera. O pelo qual se determina a devolução de valores, nega vigência a este dispositivo legal, o que enseja a interposição do presente recurso.
+ ..
+Deste modo, sendo inegável que uma parte - a Recorrente e os corretores autônomos, no caso - levou à aproximação das demais, que vieram a firmar o compromisso de venda e compra da unidade, é inquestionável que houve intermediação imobiliária nos moldes previstos em lei, inexistindo óbice à remuneração, porquanto o resultado útil foi obtido. (fls. 552/5553).
+É o relatório. Decido.
+O Tribunal de origem assim decidiu:
+Com efeito a parte ré foi a única responsável pela rescisão do contrato. Note-se que a ré não cumpriu a contento o dever de informação que permeia as relações de consumo, situação que inviabilizou a obtenção do financiamento imobiliário, dando causa, pois, à rescisão. Ora, excluir a devolução da comissão de corretagem é premiar a conduta, contratualmente ilícita da parte ré em prejuízo da parte autora, o que não se mostra possível, sobretudo diante da culpa exclusiva das rés no desfazimento do negócio.
+De fato, se os autores tiverem de amargar o prejuízo resultante da não devolução da comissão de corretagem paga, a parte adversa será beneficiada indevidamente. É caso, pois, de restituição das partes ao status quo ante, com a restituição da integralidade dos valores pagos pelos autores (fls. 527)
+Assim, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
