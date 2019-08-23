@@ -1,0 +1,29 @@
+EMBARGOS INFRINGENTES NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PENAL E PROCESSO PENAL. ARTIGO 333 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. EMBARGOS INFRINGENTES EM SEDE DE RECURSO EXTRAORDINÁRIO. RECURSO INCABÍVEL.  EMBARGOS INFRINGENTES NÃO CONHECIDOS.
+    Decisão: Trata-se de embargos infringentes opostos por Ana Elizabete Vieira Santos contra acórdão da Primeira Turma desta Suprema Corte assim ementado:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PENAL E PROCESSUAL PENAL. CRIMES DE FALSIFICAÇÃO E SUPRESSÃO DE DOCUMENTO PÚBLICO. ARTIGOS 297 E 305 DO CÓDIGO PENAL. ALEGAÇÃO DE OFENSA AO ARTIGO 5 º, XL E LV, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO STF. ALEGAÇÃO DE OFENSA AO ARTIGO 5º, XXXIX, LIV E LV, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DA LEGALIDADE PENAL, DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. MATERIALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. ALEGADA VIOLAÇÃO AO ARTIGO 5 º, XL E XLVI DA CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DA IRRETROATIVIDADE DA LEI PENAL E DA INDIVIDUALIZAÇÃO DA PENA. MATÉRIAS DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. CIRCUNSTÂNCIAS JUDICIAIS DO ARTIGO 59 DO CÓDIGO PENAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO AI 742.460. TEMA 182. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. AGRAVO INTERNO DESPROVIDO.” (Doc. 14)
+    A Turma, na Sessão Virtual de 7/6/2019 a 13/6/2019, por unanimidade, acolheu, em parte, os embargos de declaração, sem efeitos modificativos, apenas para prestar esclarecimentos, nos termos do voto do Relator, in verbis:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PENAL E PROCESSUAL PENAL. CRIMES DE FALSIFICAÇÃO E SUPRESSÃO DE DOCUMENTO PÚBLICO. ARTIGOS 297 E 305 DO CÓDIGO PENAL. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, EM PARTE, SEM EFEITOS MODIFICATIVOS, APENAS PARA PRESTAR ESCLARECIMENTOS.” (Doc. 21)
+    Inconformada com essa decisão, a parte embargante opõe embargos infringentes, alegando, em síntese que “os argumentos lançados no v. decisum não são suficientes para ensejar o desprovimento do Apelo Extremo, notadamente porque as alegações da Embargante apresentam peculiaridades não consideradas por esta Ínclita Suprema Corte.” (Doc. 24, p. 6)
+    Aduz que houve “absoluta insuficiência da defesa técnica durante toda a fase cognitiva do processo, de modo que diversas questões, algumas das quais poderiam até ser conhecidas de ofício, foram ignoradas pelos defensores então constituídos.” (Doc. 24, p. 6)
+    É o relatório. DECIDO.
+    O recurso é manifestamente incabível.
+    O artigo 333 do RISTF possui a seguinte redação:
+    “Art. 333. Cabem embargos infringentes à decisão não unânime do Plenário ou da Turma:
+    I – que julgar procedente a ação penal;
+    II – que julgar improcedente a revisão criminal;
+    III – que julgar a ação rescisória;
+    IV – que julgar a representação de inconstitucionalidade;
+    V- que, em recurso criminal ordinário, for desfavorável ao acusado.”
+    Esta Suprema Corte possui posicionamento unânime no sentido de que é inadmissível a oposição de embargos infringentes contra julgados de Turma, ou do Plenário, proferidos em sede de recurso extraordinário, ante a ausência de previsão expressa no Regimento Interno desta Corte. Nesse sentido, destaco o RE 1.145.965-AgR-EI-AgR, rel. min. Roberto Barroso, Primeira Turma, DJe de 12/4/2019, assim ementado:
+    “DIREITO PENAL. AGRAVO INTERNO. EMBARGOS INFRINGENTES. CABIMENTO. REITERAÇÃO DE ALEGAÇÕES EXPENDIDAS. PRETENSÃO DE CARÁTER PROTELATÓRIO. 1. Entre as hipóteses de cabimento dos embargos infringentes, previstas no mencionado art. 333 do RI/STF, não se inserem as decisões não unânimes proferidas pela Turma que negam provimento a agravos regimentais interpostos em recursos extraordinários com agravos criminais, sendo, por isso, incabíveis os embargos infringentes. 2. A interposição do agravo interno mal disfarça a natureza abusiva do recurso, o que autoriza a execução imediata da decisão, independentemente de seu trânsito em julgado. Precedentes. 3. Agravo interno a que se nega provimento. Determinada a imediata baixa dos autos à origem para a pronta execução do julgado, independentemente da publicação do acórdão.”
+    No mesmo sentido, o posicionamento proferido pelo Plenário da Corte nos autos do HC 113.365 ED-EI-AgR, de relatoria da min. Rosa Weber, DJe de 6/9/2016, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NOS EMBARGOS INFRINGENTES NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. ARTIGO 333 DO REGIMENTO INTERNO DESTE STF. NÃO CABIMENTO.
+    1. Na dicção do art. 333 do Regimento Interno desta Suprema Corte, ‘Cabem embargos infringentes à decisão não unânime do Plenário ou da Turma: I – que julgar procedente a ação penal; II – que julgar improcedente a revisão criminal; III – que julgar a ação rescisória; IV – que julgar a representação de inconstitucionalidade; e V – que, em recurso criminal ordinário, for desfavorável ao acusado’.
+    2. Na esteira da jurisprudência consolidada por esta Suprema Corte, ‘Revelam-se manifestamente incabíveis os embargos infringentes opostos contra julgado de Turma ou de Plenário em sede de habeas corpus, tendo em vista a falta de previsão regimental’ (HC 108.261-EI-AgR/RS, Rel. Min. Dias Toffoli, Plenário, DJe 13.4.2012).
+    3. Agravo regimental conhecido e não provido.”
+    Ex positis, com fundamento no artigo 21, §1º do RISTF, NÃO CONHEÇO dos embargos infringentes por serem manifestamente inadmissíveis.
+    Publique-se.
+    Brasília, 23 de agosto de 2019.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
