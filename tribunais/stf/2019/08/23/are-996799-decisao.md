@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado do Rio de Janeiro confirmou o entendimento do Juízo quanto à improcedência do pedido de diferenças salariais. No extraordinário, o recorrente alega a violação dos artigos 5º, inciso LV, 37, inciso X, e 39, § 1º, da Constituição Federal. Assevera contrariados os princípios do contraditório e da ampla defesa.
+    2. Eis o resumo do acórdão recorrido:
+    AGRAVO INTERNO EM APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR. REAJUSTE. SOLDO. DECRETO 28.585/01. GRATIFICAÇÃO ESPECIAL DE ATIVIDADE. GEAT. DECRETO 26.248/00. ABSORÇÃO. IMPROCEDÊNCIA. 1- A GEAT, gratificação criada pelo Decreto 26.248 e extinta pelo Decreto 28.585, teve inegável caráter genérico, constituindo aumento disfarçado de vencimentos instituído em frontal violação ao artigo 37, X, da Constituição. 2- O aumento de estipêndio promovido pelo Decreto 28.585 e pela Lei 3.691/01 viabilizou-se pela absorção da GEAT ao soldo, inexistindo a pretendida majoração linear de 5,65% incidente sobre os soldos de todos os postos da carreira. 3- Nesta toada, somente se reconheceria prejuízo se da absorção resultasse a redução de rendimentos do militar, o que não se cogitou no caso concreto. 4- Recurso desprovido.
+    A recorribilidade extraordinária mostra-se distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, consideradas as premissas constantes do ato impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, a reapreciação dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que, da leitura do pronunciamento impugnado mediante o extraordinário depreende-se que o Tribunal de origem julgou a apelação a partir de interpretação conferida à Lei estadual nº 3.691/2001 e ao Decreto estadual nº 28.585/2001. A controvérsia sobre o alcance de norma local não viabiliza, conforme sedimentado pela jurisprudência – verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário –, o acesso ao Supremo. Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de Justiça.
+    De resto, o Supremo, no recurso extraordinário com agravo nº 748.371/MT, relator ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 23 de agosto de 2019.
+Ministro MARCO AURÉLIO
+Relator
