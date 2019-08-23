@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pela UNIÃO, contra decisão do Tribunal Regional Federal da 1ª Região, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. LAUDO PERICIAL.
+IMPUGNAÇÃO INTEMPESTIVA DOS CRITÉRIOS DE CÁLCULOS. ERROS MATERIAIS. INEXISTÊNCIA. PRECLUSÃO.
+I - Na espécie dos autos, não prospera a alegação de cerceamento de defesa, na medida em que está demonstrado que a agravante foi intimada para pronunciar-se acerca do laudo pericial apresentado, sendo que não o fez oportunamente. Assim, não merece acolhida a alegada existência de "erros materiais" na prova técnica, uma vez que o inconformismo recursal, em verdade, está voltado para os critérios de cálculos adotados, cuja discussão está preclusa.
+II - Agravo regimental desprovido" (fl. 109e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 113/118e), os quais restaram rejeitados, nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO/ CONTRADIÇÃO E OBSCURIDADE INEXISTENTES. DESPROVIMENTO.
+I - Inexistindo, no acórdão embargado, qualquer omissão, contradição ou obscuridade, afiguram-se improcedentes os embargos declaratórios, mormente quando a pretensão recursal possui natureza eminentemente infringente do julgado, como no caso, a desafiar a interposição de recurso próprio.
+II - Embargos de declaração desprovidos" (fl. 127e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 463 e 535, II, do CPC/73, sustentando, além de omissão na análise da alegada a nulidade decorrente da ausência de intimação da União para manifestação sobre o laudo pericial e atos subsequentes, que é necessário o reconhecimento da não incidência da preclusão sobre erros materiais.
+Contrarrazões a fls. 140/149e.
+Inadmitido o Recurso Especial (fls. 154/155e), foi interposto o presente Agravo (fls. 158/163e).
+A irresignação não merece prosperar.
+Em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Registre-se que, quanto à alegada omissão, o Tribunal a quo manifesotu-se no sentido de que "não prosperara alegação de cerceamento de defesa, na medida em que consta dos autos que a agravante foi intimada para pronunciar-se acerca do laudo pericial apresentado, sendo que, todavia, não o fez oportunamente" (fl. 106e).
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1360762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+Com relação à alegada ofensa ao art. 463 do CPC/73, a Corte de origem asseverou que "não merece acolhida a alegada existência de "erros materiais" na prova técnica, uma vez que o inconformismo recursal, em verdade, está voltado para os critérios de cálculos adotados, cuja discussão está preclusa" (fl. 106e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA. VALOR CONTIDO EM PRECATÓRIO. DIFERENÇAS. ALEGAÇÃO DE ERRO MATERIAL. PRECLUSÃO. ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. OFENSA AO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF.
+(..)
+2. A alteração das conclusões adotadas pela Corte de origem acerca da não ocorrência de erro material, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento" (STJ, AgInt nos EDcl no AREsp 981.031/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 09/10/2017).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. VIOLAÇÃO AO ART. 535 DO CPC/73. INOCORRÊNCIA. ERRO MATERIAL. COISA JULGADA. NÃO VIOLAÇÃO. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+V - In casu, rever o entendimento do Tribunal de origem, que determinou a remessa dos autos à Contadoria Judicial, para que se excluam as diferenças decorrentes do recálculo da RMI das aposentadorias por invalidez, dada a utilização salários-de-contribuição errôneos, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+(..)
+IX - Agravo Interno improvido" (STJ, AgInt no REsp 1.678.631/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 20/11/2017).
+Registre-se, ainda, que "as questões de direito, como os critérios utilizados na liquidação de sentença para a formação do valor do débito, sofrem preclusão, devendo ser arguidas no momento processual oportuno. Desse modo, a decisão de homologação de cálculo da liquidação é capaz de transitar em julgado e de fazer coisa julgada em relação a erro de direito, hipótese dos autos" (STJ, AgRg no REsp 1.486.095/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/10/2015).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para negar provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
