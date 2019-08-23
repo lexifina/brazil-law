@@ -1,0 +1,56 @@
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. LESÃO CORPORAL GRAVE, DESOBEDIÊNCIA, CRIMES DE TRÂNSITO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GARANTIA DA ORDEM PÚBLICA E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. AUSÊNCIA DE FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL CARACTERIZADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo de revisão criminal e de recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. A prisão preventiva, nos termos do art. 312 do CPP, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+3. No caso dos autos, a custódia provisória foi decretada carente de quaisquer dos fundamentos legais que a respalda, declinada, tão somente, a necessidade de garantia da ordem pública e da instrução probatória, sem a observância do disposto no art. 312 do CPP, relacionando o caso concreto aos requisitos legais.
+4. Writ não conhecido. Ordem concedida de ofício para revogar a prisão preventiva imposta ao paciente, mediante a aplicação das medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido e conceder "Habeas Corpus" de ofício, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Na origem, constata-se prisão em flagrante, convertida em preventiva, pela suposta prática dos crimes descritos nos arts. 129, § 1º, I, e 330, ambos do Código Penal, além dos arts. 309 e 311, ambos do Código Brasileiro de Trânsito.
+Objetivando a revogação da prisão cautelar, a defesa impetrou habeas corpus, cuja ordem foi denegada pelo TJMG:
+"HABEAS CORPUS - HOMICÍDIO QUALIFICADO TENTADO - CONVERSÃO DA PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA - DECISÃO FUNDAMENTADA - GRAVIDADE DA CONDUTA - MODUS OPERANDI - GARANTIA DA ORDEM PÚBLICA - PRESENÇA DOS REQUISITOS AUTORIZADORES DA PRISÃO PREVENTIVA - ORDEM DENEGADA".
+Neste writ, a defesa reitera a ausência de fundamentação idônea do decreto prisional, uma vez que não se encontram presentes os requisitos do art. 312 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a concessão da ordem liberdade do paciente mediante a expedição do alvará de soltura, ainda que com a imposição de medidas cautelares diversas.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal opinou pela concessão da ordem.
+É o relatório.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. LESÃO CORPORAL GRAVE, DESOBEDIÊNCIA, CRIMES DE TRÂNSITO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GARANTIA DA ORDEM PÚBLICA E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. AUSÊNCIA DE FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL CARACTERIZADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo de revisão criminal e de recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. A prisão preventiva, nos termos do art. 312 do CPP, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+3. No caso dos autos, a custódia provisória foi decretada carente de quaisquer dos fundamentos legais que a respalda, declinada, tão somente, a necessidade de garantia da ordem pública e da instrução probatória, sem a observância do disposto no art. 312 do CPP, relacionando o caso concreto aos requisitos legais.
+4. Writ não conhecido. Ordem concedida de ofício para revogar a prisão preventiva imposta ao paciente, mediante a aplicação das medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo de revisão criminal e de recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso dos autos, a custódia cautelar foi decretada pelos seguintes fundamentos:
+"Já com relação aos fundamentos elencados no artigo 312 do Código de Processo Penal, entendo presentes na hipótese ora examinada a necessidade da prisão como garantia da ordem pública e conveniência da instrução criminal.
+Com efeito, a gravidade concreta do delito representa, de fato, ameaça à ordem pública.
+Assevero que o simples fato do investigado aparentar primariedade, bem como possuir bons antecedentes, como no presente caso (f. 12), por si só não lhe garante a concessão de liberdade provisória, sobretudo se existentes os requisitos à decretação da prisão preventiva, já comentados".
+Como se vê, a custódia provisória foi decretada carente de quaisquer dos fundamentos legais que a respalda, declinada, tão-somente, a necessidade de garantia da ordem pública e da instrução probatória, sem a observância do disposto no art. 312 do CPP, relacionando o caso concreto aos requisitos legais.
+Sobre o tema, os seguintes julgados desta Corte:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ROUBO MAJORADO. PRISÃO PREVENTIVA. GRAVIDADE ABSTRATA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PACIENTE PRIMÁRIO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Para a decretação da prisão preventiva é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+3. No caso, a prisão preventiva do paciente foi decretada sem a indicação de elementos concretos, com base apenas na gravidade abstrata do suposto delito (roubo majorado). O decreto prisional considerou apenas que o crime de roubo "vêm aumentando dia após dia, amedrontando a sociedade e os cidadãos" e o fato de que "foi praticado mediante destruição ou rompimento de obstáculo", sem apontar elementos concretos que evidenciem uma gravidade excepcional. Além disso, não houve emprego de arma e o paciente apresenta condições subjetivas favoráveis (primário).
+Constrangimento ilegal evidenciado. Precedentes.
+4. Habeas corpus não conhecido. Ordem concedida de ofício para revogar a prisão preventiva do paciente mediante a aplicação de medidas cautelares previstas no art. 319 do CPP" (HC 439.209/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 08/05/2018).
+"PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO. TENTATIVA. PRISÃO PREVENTIVA. ENUNCIADO N. 691 DA SÚMULA DO STF. SUPERAÇÃO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA DO DECRETO PRISIONAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+III - De acordo com entendimento firmado por esta eg. Corte, e ressalvadas hipóteses excepcionais, não se admite, em princípio, a impetração de habeas corpus contra decisão que denega pedido liminar em sede de writ impetrado na origem, sob pena de se configurar indevida supressão de instância, a teor do que dispõe a Súmula 691/STF, segundo a qual "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar." IV - No caso dos autos, no entanto, é de se afastar a incidência do enunciado sumular, ante a ocorrência de flagrante ilegalidade, pois o decreto que impôs a prisão preventiva ao paciente não apresenta devida fundamentação, uma vez que a simples invocação da gravidade genérica do delito não se revela suficiente para autorizar a segregação cautelar com fundamento na garantia da ordem pública (precedentes).
+Habeas corpus não conhecido.
+Ordem concedida de ofício para, confirmando a liminar anteriormente deferida, revogar a prisão preventiva, salvo se por outro motivo estiver preso, e sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada, ou da imposição de outras medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal" (HC 437.140/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 23/04/2018).
+Desse modo, verifica-se a ocorrência de flagrante ilegalidade apta a justificar a intervenção desta Corte.
+Ante o exposto, não conheço do writ, contudo, concedo a ordem de ofício para revogar a prisão preventiva imposta ao paciente, mediante a aplicação das medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado de Minas Gerais e ao Juízo da 2ª Vara da Comarca de Iturama/MG.
+É como voto.
