@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra decisão do Tribunal Regional Federal da 4ª Região, que inadmitiu seu Recurso Especial interposto contra acórdão assim ementado:
+"PREVIDENCIÁRIO. PROCESSUAL CIVIL. EXECUÇÃO. PAGAMENTO DE DIFERENÇAS. TETOS DA EMENDAS CONSTITUCIONAIS. VALORES JÁ RECEBIDOS DA PREVIDÊNCIA COMPLEMENTAR. FALTA DE INTERESSE DE AGIR NA EXECUÇÃO DE DIFERENTAS. INEXISTÊNCIA DE PREJUÍZO. MATÉRIA NOVAMENTE AFETADA À 3ª SEÇÃO. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA.
+1. Se o pagamento da aposentadoria, pela sua integralidade, foi garantido pela complementação da União, maior houvesse sido o valor do benefício, menor teria sido esta complementação.
+2. O grande prejudicado pelo fato de o INSS não ter revisado adequadamente benefício sujeito à complementação, foi a União que, para garantir a integralidade do valor a que o segurado teria direito na ativa, precisou pagar mais do que o devido.
+3. Em tais condições, não há interesse processual na execução de diferenças pretéritas, pois o segurado não foi prejudicado pela não aplicação dos novos tetos das emendas constitucionais pelo INSS ao benefício de aposentadoria de que é titular.
+4. Inadmissível, sob pena de enriquecimento sem causa, que o segurado execute valores que de fato já recebeu. Embora se lhe reconheça o direito de ter o valor da renda mensal revisado, o autor não tem interesse processual na execução de valores que já auferiu.
+5. Matéria novamente afetada à Seção, agora pela via do Incidente de Assunção de Competência, ainda sem julgamento.
+6. Hipótese em que o precatório, uma vez expedido, deve ser marcado com o status de bloqueado, até decisão do incidente" (fl. 72e).
+Opostos Embargos de Declaração pelas partes, foram providos os do segurado e rejeitados o do INSS, nestes termos:
+"EMBARGOS DE DECLARAÇÃO OPOSTOS PELO SEGURADO. CONTRADIÇÃO. OCORRÊNCIA. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. JULGAMENTO. ART. 947, § 3º, DO CÓDIGO DE PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO OPOSTOS PELO INSS. RECURSO PREJUDICADO.
+1. Os embargos de declaração pressupõem a presença de omissão, contradição, obscuridade ou erro material na decisão embargada.
+2. A Terceira Seção assentou que há interesse processual do segurado na revisão, com o pagamento das diferenças devidas, do benefício previdenciário que é complementado por entidade de previdência complementar.
+3. O acórdão proferido em assunção de competência vincula todos os juízes e órgãos fracionários, exceto se houver revisão de tese.
+4. Embargos de declaração acolhidos para manter a decisão agravada que, em sede de cumprimento de sentença, rejeitou a preliminar, suscitada pelo INSS, de falta de interesse processual do segurado em relação aos valores atrasados referentes à revisão do benefício.
+5. Embargos de declaração do INSS prejudicados" (fl. 106e).
+Sustenta a parte ora agravante, nas razões do Recurso Especial, fundamentado na alínea a do permissivo constitucional, além de negativa de prestação jurisdicional (art. 1.022, II, do CPC/2015), contrariedade aos arts. 917, III, do CPC/2015, 2º da Lei 8.186/91 e 884 do Código Civil.
+Apresentadas contrarrazões a fls. 127/131e, o Recurso Especial foi inadmitido, na origem, advindo o presente Agravo.
+Foi protocolada contraminuta (fls. 154/157e).
+A parte agravante, em suas razões, afirma:
+"Trata o presente Recurso Especial do INSS quanto ao acórdão prolatado por E. Turma do Tribunal Regional Federal da 4ª Região que não acolheu a tese do INSS de excesso de execução, tendo em vista que o exequente, ora recorrido, sempre percebeu o equivalente aos servidores da ativa, porquanto, com o complemento realizado pelo UNIÃO, não há diferenças advindas da aplicação dos novos tetos das Emendas Constitucionais 20/98 e 41/2003, sob pena de enriquecimento sem causa pelo pagamento em duplicidade O Tribunal recorrido incidiu em afronta ao disposto nos artigos 917, III, do CPC, 2º da Lei 8.186/91 e 884 do CC/2002.
+(..)
+A respeito da hipótese constitucional de cabimento, prevista na alínea "a" do art. 105 da CF/88, a contrariedade à lei federal está bem fundamentada e efetivamente demonstrada nas razões recursais (já que houve sim violação ao disposto nos artigos 917, III, do CPC, 2º da Lei 8.186/91 e 884 do CC/2002), devendo, pois, ser examinada pelo Tribunal que detém a competência para decidir sobre o mérito do recurso.
+Nesses termos, infere-se que a Vice-Presidência da Corte Regional, ao adentrar na análise da tese recursal, invadiu a competência do Superior Tribunal de Justiça em julgar o mérito da insurgência, razão pela qual o despacho denegatório deve ser reformado para fins de admissibilidade do recurso especial.
+Passamos à análise da súmula 07 do STJ, que dispõe:
+(..)
+Não se trata de reexame dos fatos, mas sim de simples aplicação de texto normativo federal, qual seja: nos artigos 917, III, do CPC, 2º da Lei 8.186/91 e 884 do CC/2002.
+Não se está discutindo fatos ou revolvendo provas, mas, tão-só, apreciando-se as normas legais pertinentes ao caso.
+Com a devida vênia, houve erro da realização do juízo de admissibilidade ora agravado, já que a questão em debate é puramente de aplicação de normas legais, não sendo necessário analisar o contexto fático para fins de apuração da legitimidade de sua incidência no caso em concreto. Sobre o tema ponderou o Min. Francisco Cláudio de Almeida:
+(..)
+O próprio STJ já admitiu que, nesses casos, a apreciação do recurso não encontra obstáculo na sua Súmula 07, conforme se verifica da leitura do relatório e voto do Ministro Fernando Gonçalves nos Embargos de Declaração em Recurso Especial nº 252.060/SP, publicado no DJU de 16/10/2000, que abaixo transcrevemos:
+(..)
+Com a devida vênia, houve erro da realização do juízo de admissibilidade ora agravado, já que a questão em debate diz com a aplicação do disposto nos artigos 917, III, do CPC, 2º da Lei 8.186/91 e 884 do CC/2002.
+Vê-se que o comportamento assumido pela Corte Regional é equivocado perante o direito processual brasileiro, já que inseriu na análise da admissibilidade da súplica especial aspectos referentes ao próprio mérito do recurso" (fls. 144/149e).
+Do exame dos autos, verifica-se que a decisão agravada, para inadmitir o Recurso Especial, afirmou que a pretensão esbarraria no reexame de prova e que o acórdão se harmonia com os precedentes que cita.
+A parte agravante, todavia, deixou de infirmar, especificamente e adequadamente, o fundamento de que o acórdão recorrido converge para o entendimento pacificado nesta Corte, limitando-se a ratificar as razões do Recurso Especial.
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Tal entendimento, inclusive, está consolidado na Súmula 182/STJ, segundo a qual o recorrente deve infirmar, especificamente, os fundamentos da decisão impugnada, mostrando-se inadmissível o Agravo que não se insurge contra todos eles.
+Ressalto que, "fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ" (STJ, AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, DJe de 26/06/2013), com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, o que não ocorreu, no caso.
+A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO GENÉRICA DO FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE. INSUFICIÊNCIA. INCIDÊNCIA DO ART. 544, § 4º, I, DO CPC. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE.
+(..)
+2. Não se conhece do agravo em recurso especial que deixa de atacar especificamente e suficientemente os fundamentos da decisão de inadmissibilidade. Incidência do art. 544, § 4º, I, do CPC.
+3. Tendo a decisão de inadmissibilidade decidido que o acórdão recorrido estaria em sintonia com a jurisprudência do STJ (Súmula 83/STJ), compete à agravante demonstrar que o entendimento adotado pelo acórdão encontra-se em descompasso com o atual entendimento do STJ, trazendo para tanto precedentes do STJ favoráveis à sua tese recursal, ou que os precedentes invocados na decisão de inadmissibilidade não se aplicariam ao casu, por versarem sobre situações diversas, sendo insuficiente a mera alegação de que os precedentes invocados pela decisão de inadmissibilidade não formariam a jurisprudência uníssona do STJ e que o óbice da Súmula 83/STJ não se aplica aos recursos especiais interposto com base na alínea "a" do permissivo constitucional. Nesse sentido: AgRg no AREsp 293.726/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 13/08/2013, DJe 26/08/2013.
+(..)
+6. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento" (STJ, EDcl no AREsp 527.100/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/08/2014).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação de todos os fundamentos da decisão denegatória da subida do recurso especial para que seja conhecido o respectivo agravo. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+2. Inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Precedentes.
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 630.126/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 24/09/2015).
+Em face do exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
