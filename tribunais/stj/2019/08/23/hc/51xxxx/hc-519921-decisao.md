@@ -1,0 +1,8 @@
+DECISÃO
+MAYCON CESAR BASSO, em impetração de próprio punho, alega sofrer coação ilegal ante decisão monocrática de Desembargador do Tribunal de Justiça do Estado de Santa Catarina, que não admitiu a Revisão Criminal n. 0001921-87.2019.8.24.0000.
+O paciente/impetrante afirma que, no rito da lei de tóxico, ocorreu a inversão da ordem de instrução, pois seu interrogatório não foi realizado como último ato do processo. Ademais, foi violado o princípio da identidade física do juiz, pois juízes substitutos presidiram as audiências, mas o feito foi sentenciado pelo magistrado titular.
+Decido.
+O habeas corpus foi interposto contra decisão monocrática de Desembargador, contra a qual seria cabível agravo regimental. Assim, não é possível processar a insurgência, uma vez que, a teor do art. 105, II, "a", da CF, não houve julgamento em última instância pelo Tribunal de Justiça a ensejar a inauguração da competência desta Corte.
+Ilustrativamente:  ..  não tem cabimento o habeas corpus para desafiar decisão singular de Desembargador relator que não conheceu do recurso interposto perante o Tribunal (precedentes). 3. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior (precedentes)" (AgRg no HC n. 423.705/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 5/4/2018).
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o processamento deste writ.
+Publique-se e intimem-se.
