@@ -1,0 +1,17 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. NEGATIVA DE AUTORIA. REVOLVIMENTO DE PROVAS. CONSECTÁRIOS LEGAIS. REGRESSÃO DE REGIME E INTERRUPÇÃO DO LAPSO TEMPORAL PARA PROGRESSÃO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. Writ denegado.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como órgão coator o Tribunal de Justiça do Rio Grande do Sul, que negou provimento ao agravo em execução interposto pela defesa para manter o reconhecimento da falta grave (posse de aparelho celular), com os seus consectários legais. Eis a ementa (Agravo em Execução n. 0369871-10.2018.8.21.7000 - fl. 116):
+AGRAVO EM EXECUÇÃO, FALTA GRAVE, POSSE DE APARELHO CELULAR, PRELIMINAR DE NULIDADE DO PAD. PROVA. DEPOIMENTOS DOS AGENTES PENITENCIÁRIOS. INEXISTÊNCIA. REGRESSÃO DE REGIME. ALTERAÇÃO DA DATA-BASE.
+Não se vislumbra invalidade nos depoimentos prestados pelos agentes penitenciários que testemunharam o fato, mormente porque o apenado teve ciência da imputação a ele atribuída e, quando ouvido no procedimento administrativo disciplinar, foi assistido por defensor público, e, posteriormente, apresentando defesa preliminar, sem fazer alusão à invalidade ora alegada.
+A posse de aparelho celular - conduta essa admitida pelo apenado - caracteriza falta grave, consoante previsão contida no art. 50, inc. VII, da Lei da Execução Penal, independentemente de estar ou não o chip acoplado, ficando o apenado sujeito às sanções disciplinares, como o regressão do regime prisional, prevista na regra posta no artigo 118, inc. I do mesmo diploma precitado, como a regressão do regime prisional, prevista na regra posta no artigo 118, inc. I do mesmo diploma precitado.
+A alteração da data-base para o dia do cometimento da falta grave decorre do sistema progressivo adotado na legislação (LEP, art. 112), com o que, efetivada a regressão, dessa resulta a renovação do termo inicial para a contagem de prazo na execução penal.
+AGRAVO DESPROVIDO.
+Alega-se, inicialmente, ausência de provas suficientes de autoria da conduta considerada como falta disciplinar de natureza grave.
+Assevera-se, também, a ilegalidade da regressão de regime, eis que desproporcional, bem como da alteração da data-base para a concessão de benefícios na execução, já que a falta grave não decorreu da prática de novo delito.
+Requer-se a imediata suspensão da decisão que reconheceu a falta grave e aplicou os consectários legais e, ao final, busca-se concessão da ordem para cassar o acórdão proferido pela Segunda Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul (fl. 10).
+É o relatório.
+De início, cumpre ressaltar que, tendo as instâncias ordinárias reconhecido que o paciente cometeu falta grave (posse de aparelho celular), a revisão dos julgados demandaria a revisão do conjunto fático-probatório dos autos, o que se afigura inviável na via eleita, de rito célere e cognição sumária.
+De outro lado, conforme entendimento desta Corte, o cometimento da referida falta no curso da execução penal autoriza a regressão de regime (art. 118, I, da LEP), a alteração da data-base do prazo para a concessão de benefícios executórios, salvo para livramento condicional (Súmula 441/STJ), comutação de pena ou indulto (Súmula 535/STJ), e a perda do dias remidos. No caso, houve o reconhecimento da falta grave e, via de consequência, a regressão de regime e a alteração da data-base, não existindo, portanto, constrangimento ilegal a ser sanado.
+Diante do exposto, denego a ordem.
+Publique-se.
