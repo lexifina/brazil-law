@@ -1,0 +1,14 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Estado do Rio de Janeiro contra decisão que inadmitiu recurso especial ante a razoabilidade da decisão tomada em segunda instância.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com base na alínea "a" do permissivo constitucional contra acórdão assim ementado:
+Agravo de Instrumento. Ação de Obrigação de Fazer cumulada com Cobrança.
+Servidora do Poder Judiciário. Pleito de implementação imediata do reajuste concedido pela Lei Estadual n.º 1.206/87, além do pagamento das respectivas diferenças (24%).
+Procedência. Execução contra a Fazenda Pública. R. Julgado a quo considerando a Devedora como citada, haja vista a concordância com os valores apresentados e, por conseguinte, determinando a expedição do respectivo precatório. Tese recursal pugnando pelo reconhecimento da nulidade na tramitação do feito na fase de execução em razão da ausência de citação válida, na forma do artigo 730 do Código de Processo Civil de 1973, vigente à época. Limitação ao exercício do direito de defesa pela Fazenda Pública. Preclusão. Exegese dos artigos 183 e 245 da Lei de Ritos de 1973, reproduzidos nos artigos 223 e 278, respectivamente, do Código de Processo Civil de 2015. Nulidade acerca da ausência de citação e/ou intimação que deveria ter sido arguida pela Parte na primeira oportunidade que teve para se manifestar nos autos.
+Ausência de prejuízo para o Agravante que impugnou os cálculos apresentados, seguindo-se a concordância da Credora. Procedimento Executivo que prevê mais oportunidades de defesa para a Devedora, bem como é muito mais oneroso para a Parte Credora. Prevalência do brocardo Pas De Nullité Sans Grief. Princípio da Instrumentalidade das Formas. Precedentes do Egrégio Superior Tribunal de Justiça bem como deste Colendo Sodalício, conforme transcritos na fundamentação. R. Julgado ora Vergastado merecendo prestígio. Negado Provimento."
+O agravante, com amparo no art. 105, III, "a", da Constituição da República, sustenta violação dos "artigos 475-H; 730; e 741, todos da lei de ritos de 1973, uma vez que: (1) a fase de liquidação de sentença deveria ter sido encerrada por decisão específica; (ii) ainda que assim não se considerasse, a anuência da exequente com os cálculos apresentados pelo réu não supre a necessidade de citação, porquanto, em sede de embargos de declaração, poderiam ter sido deduzidas outras matérias, além do excesso de execução".
+Decido.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial, para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do apelo nobre, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
+Após o trânsito, enviem-se os autos ao Ministério Público Federal para oferecimento de parecer.
