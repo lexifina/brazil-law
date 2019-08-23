@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por IRMANDADE NOSSA SENHORA DAS MERCÊS DE MONTES CLAROS, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+"AÇÃO DECLARATÓRIA. RESSARCIMENTO AO SUS. PARCELAMENTO DO DÉBITO. DESISTÊNCIA COM A RENÚNCIA DO DIREITO EM QUE SE FUNDA AÇÃO. CONVERSÃO DO DEPÓSITO EM RENDA DA ANS.
+1. A sentença homologou o pedido de desistência formulado pela Santa Casa de Montes Claros, condenando-a ao pagamento das custas e honorários advocatícios, todavia, deferiu o levantamento de R$ 27.255,88 depositados na Justiça Federal de Primeiro Grau do Rio de Janeiro.
+2. A desistência, com a renúncia do direito em que se funda ação, acarreta a conversão do valor depositado pelo devedor em renda do credor. Precedentes do STJ e da Corte.
+3. Apelação provida" (fl. 540e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 546/554e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. CPC/1973. RESSARCIMENTO AO SUS. PARCELAMENTO DO DÉBITO. DESISTÊNCIA COM A RENÚNCIA DO DIREITO EM QUE SE FUNDA AÇÃO. CONVERSÃO DO DEPÓSITO EM RENDA DA ANS. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE.
+1. Os embargos declaratórios só se justificam quando relacionados a aspectos que objetivamente comprometam a inteligibilidade e o alcance do pronunciamento judicial, estando o órgão julgador desvinculado da classificação normativa das partes. É desnecessária a análise explícita de cada um dos argumentos, teses e teorias das partes, bastando a resolução fundamentada da lide.
+2. O mero inconformismo, sob qualquer título ou pretexto, deve ser manifestado em recurso próprio e na instância adequada para considerar novamente a pretensão. Embargos declaratórios manifestados com explícito intuito de prequestionamento não dispensam os requisitos do artigo 535 do CPC/1973. Precedentes jurisprudenciais.
+3. O acórdão embargado consignou que a desistência, com a renúncia do direito em que se funda ação, acarreta a conversão do valor depositado pelo devedor em renda do credor. Precedentes do STJ e da Corte.
+4. O recurso declaratório, concebido ao aprimoramento da prestação jurisdicional, não pode contribuir, ao revés, para alongar o tempo do processo, onerando o sobrecarregado ofício judicante.
+5. Embargos de declaração desprovidos" (fl. 567e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação ao art. 535, II, do CPC/73, sustentando que o Tribunal de origem deixou de se manifestar acerca: a) do §1º, do art. 10 da Lei 11.941/2009 e do §26, do artigo 65 da Lei 12.249/2010, relativos à tese de que, "após a consolidação do débito e o decréscimo da primeira parcela relativa ao pedido de parcelamento, é lícito que o sujeito passivo levante o saldo restante" (fl. 583e); b) da alegação de que "o Erário será pago através do parcelamento noticiado, de modo que eventual conversão em renda do valor depositado em Juízo pela ora Embargante se configurará em verdadeiro enriquecimento indevido do Estado" (fl. 583e).
+Alega, ainda, ofensa aos artigos 128, 460 do CPC/73, 10, §1º, da Lei 11.941/2009 e 65, §26, da Lei 12.249/2010, sob a alegação de que, após a consolidação do débito e o decréscimo da primeira parcela relativa ao pedido de parcelamento, é lícito que o sujeito passivo levante o saldo restante. Do contrário, não haveria razão para que o pretenso devedor aderisse ao parcelamento extraordinário de débitos para pagamento em parcelas, uma vez que a quantia depositada judicialmente não lhe seria mais restituída" (fl. 586e).
+Por fim, requer o provimento do Recurso Especial.
+Contrarrazões a fls. 594/601e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 607e).
+A irresignação merece prosperar, em parte.
+Com efeito, o Tribunal de origem não sanou omissão, no exame da tese trazida nos Embargos Declaratórios (fls. 546/554e), no sentido de que, após a consolidação do débito e o decréscimo da primeira parcela relativa ao pedido de parcelamento, é lícito que o sujeito passivo levante o saldo restante, conforme disposto no §1º, do art. 10 da Lei 11.941/2009 e no §26, do artigo 65 da Lei 12.249/2010.
+Deste modo, a despeito das alegações dos Embargos Declaratórios, o Tribunal de origem sequer fez menção à referida tese. Assim, tem razão o recorrente quando alega a existência de omissão no acórdão impugnado, tendo em vista que o ponto sobre o qual a Corte de origem não se pronunciou têm o condão, caso seja procedente, de eventualmente alterar o julgamento e, por conseguinte, a solução inicialmente dada à controvérsia. Destarte, resta configurada a violação ao art. 535 do CPC/73 e, assim, a negativa de prestação jurisdicional. Nesse sentido:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO.
+1. Nos termos da jurisprudência pacífica do STJ, quando os temas suscitados nos embargos de declaração são indispensáveis ao deslinde da controvérsia e o Tribunal de origem não se pronuncia acerca de tais questões, mister a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 535 do Código de Processo Civil.
+2. (..)
+Agravo regimental provido" (STJ, AgRg no REsp 1355898/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 06/03/2014).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. IMPUGNAÇÃO AO VALOR DADO À CAUSA. ELEMENTOS FÁTICOS DA DEMANDA NÃO FORAM CONSIDERADOS. ART. 535 DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS PARA A ORIGEM.
+1. (..)
+2. Apesar da oposição dos embargos de declaração, o Tribunal a quo não observou as peculiaridades da presente demanda, e fixou o valor atribuído à causa com apoio em elementos fáticos de precedente que não discute o mesmo bem jurídico.
+3. A Corte de origem quedou silente sobre os argumentos apresentados por meio dos embargos de declaração, em franca violação ao art. 535 do CPC, porquanto não prestada a jurisdição de forma integral.
+4. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1.373.286/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 17/05/2013)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou parcial provimento ao Recurso Especial, a fim de anular o acórdão que julgou os Embargos Declaratórios, determinando o retorno dos autos à origem, para novo julgamento, sanando-se a omissão indicada.
+I.
