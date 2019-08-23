@@ -1,0 +1,16 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ORDINÁRIA. DECLARATÓRIA. IMPOSTO SOBRE A RENDA. SERVIDÃO ADMINISTRATIVA SOBRE A PROPRIEDADE. REPETIÇÃO DE IMPOSTO DE RENDA. SUPOSTA VIOLAÇÃO DOS ARTS. 3o. DA LEI 7.713/1988; 38 E 49 DO DECRETO 3.000/1999. MATÉRIAS NÃO APRECIADAS PELA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. RECURSO ESPECIAL DA FAZENDA NACIONAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo TRF da 4a. Região, fls. 172/177, assim ementado:
+TRIBUTÁRIO. IMPOSTO DE RENDA DE PESSOA FÍSICA. SERVIDÃO ADMINISTRATIVA. RESTITUIÇÃO.
+Não há incidência de imposto de renda sobre ganho de capital relativamente à indenização por servidão administrativa de propriedade, cujo valor simplesmente recompõe o patrimônio do expropriado (fls. 177).
+2. Nas razões do Recurso Especial (fls. 156/159), a ora recorrente sustenta violação dos arts. 3o. da Lei 7.713/1988; 38 e 49 do Decreto 3.000/1999. Alega, para tanto, que na verdade, a questão se assemelha ao aluguel e, não à desapropriação, pois o proprietário mantém o bem imóvel em seu patrimônio e recebe rendimentos por permitir o uso do imóvel por outrem. Descaracterizada, pois, a natureza indenizatória dos valores pagos ao proprietário em decorrência da constituição da servidão, não se justificando que tais valores sejam postos à margem da incidência do IR (fls. 159).
+3. Contrarrazões (fls. 168/169), o recurso foi admitido na origem (fls. 171).
+4. É o relatório.
+5. Cuida-se, na origem, de ação ordinária em que NELSON COSTA FONSECA move contra a FAZENDA NACIONAL, postulando a repetição do imposto de renda incidente sobre o valor retido na fonte quando do recebimento de indenização pela instituição de servidão administrativa sobre sua propriedade.
+6. O Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos. Ressalte-se que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+7. No tocante à suposta violação dos arts. 3o. da Lei 7.713/1988; 38 e 49 do Decreto 3.000/1999 não está a comportar cognição, porquanto os mencionados dispositivos não foram objeto de debate pelo Tribunal de origem, impondo-se o não conhecimento do Recurso Especial, por ausência de prequestionamento; incidência das Súmulas 211/STJ e 282/STF.
+8. Não obstante a parte tenha oposto os Embargos Declaratórios, a fim de obter o pronunciamento da Corte local sobre o tema inserido nas razões do recurso, este fato não ocorreu no caso concreto.
+9. Ressalte-se que para atender ao requisito do prequestionamento não basta que o dispositivo legal, supostamente violado, seja suscitado pelas partes interessadas, mas também se requer que seja objeto de debate pelo Órgão Colegiado competente, elemento indispensável para seguimento do Apelo Especial. Precedente: AgRg no Ag 1.417.806/PR, Rel. Min. ARNALDO ESTEVES LIMA, DJU 25.10.2011; AgRg no AREsp. 619.323/ES, Rel. Min. REGINA HELENA COSTA, DJe 6.3.2015.
+10. Incidem, portanto, as Súmulas 282 e 356 do STF.
+11. Ante o exposto, nega-se seguimento ao Recurso Especial da FAZENDA NACIONAL.
+12. Publique-se. Intimações necessárias.
