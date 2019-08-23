@@ -1,0 +1,34 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Sergipe assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - AÇÃO DE REVISÃO DE VENCIMENTOS - SERVIDORA PÚBLICA DO MUNICÍPIO DE POÇO REDONDO MUNICIPAL - DIFERENÇAS SALARIAIS DECORRENTES DA CONVERSÃO DA URV EM REAL - LIMITAÇÃO TEMPORAL DECORRENTE DO ADVENTO DA LEI COMPLEMENTAR MUNICIPAL Nº 162/2002 QUE REESTRUTUROU A CARREIRA E VENCIMENTOS NO ÂMBITO DO MAGISTÉRIO PÚBLICO DO MUNICÍPIO DE POÇO REDONDO - REPERCUSSÃO GERAL - [OAB] - DECURSO DE MAIS DE 05 (CINCO) ANOS ENTRE A LEI QUE IMPLEMENTOU NOVO REGIME JURÍDICO REMUNERATÓRIO E O AJUIZAMENTO DA AÇÃO - PRESCRIÇÃO QUINQUENAL CONSUMADA - PRECEDENTES - SENTENÇA MANTIDA - IMPROVIMENTO DO RECURSO - DECISÃO UNÂNIME.
+A recorrente aduz que, conforme o entendimento dos Tribunais, " ..  não é qualquer lei posterior que serve como termo ad quem para o reconhecimento da prescrição, ou seja, a lei tem que dizer/falar (trazer expresso) de que incorporou/recompôs esses prejuízos, e a lei criada pelo município nada fala e o réu/recorrido não se desincumbindo do ônus probatório, quando teve a chance de provar" (e-STJ, fl. 422).
+Afirma pretender o saneamento de violação do padrão remuneratório do cargo.
+Sustenta que o Juiz, ao exigir a apresentação de documentos, afastou-se do disposto no art. 373, § 1º, do CPC/2015 e acrescenta que o réu não acostou aos autos nenhum documento relativo ao período de 1993/1994 para comprovar a correta conversão da URV.
+Aponta infringência ao art. 489, § 1º, IV, do CPC/2015, porque não acolhida a inversão do ônus da prova.
+Indica inobservância do art. 373, II, do CPC/2015. Argumenta que não há manifestação no acórdão relativamente às suas razões recursais.
+Com respeito à divergência jurisprudencial, cita precedentes do TJSE (AC201700709455) e do STF (RE 561.836/RN), este último com repercussão geral, destacando que, " ..  somente nos casos onde a reestruturação da remuneração ou o regime de subsídio que agrupou em parcela única todas as verbas pagas aos servidores de forma destacada/separadas (EXPRESSA), inclusive aquela verba a título de URV, é que a reestruturação teria o condão de absorver/incorporar as perdas da URV" (e-STJ, fl. 427).
+Afirma ainda dissonância do julgado com a solução do REsp 1.101.726/SP.
+Contrarrazões às e-STJ, fls. 432/443.
+Em manifestação de e-STJ, fls. 472/476, o Ministério Público Federal opina pelo não conhecimento do recurso.
+É o relatório.
+O presente recurso não merece prosperar.
+Inviável o conhecimento da assertiva de divergência jurisprudencial. No ponto, a insurgente não indicou o dispositivo de lei federal objeto do suposto dissenso, falta que compromete a fundamentação do recurso, nos termos da Súmula 284/STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACOLHIMENTO. ÔNUS DE SUCUMBÊNCIA. CABIMENTO. EXTINÇÃO TOTAL OU PARCIAL. JURISPRUDÊNCIA DO STJ. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+ ..
+2. A jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação expressa e específica do dispositivo legal objeto de interpretação divergente configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com fundamento no artigo 105, III, "c", da Constituição Federal. Incidência da Súmula 284/STF. Nesse sentido: AgInt no REsp 1.624.206/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 15/12/2016; AgInt no REsp 1.622.220/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 15/12/2016; AgRg no AREsp 682.625/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2016; AgInt no AREsp 842.727/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 6/10/2016.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.387.799/SP, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 24/6/2019, DJe 26/6/2019)
+Conforme a Súmula 13/STJ, "a divergência entre julgados do mesmo tribunal não enseja recurso especial".
+Tem-se, na origem, ação revisional de vencimentos proposta pela ora recorrente pretendendo a recomposição remuneratória em razão da conversão dos valores para URVs. O Juiz julgou o pedido improcedente.
+Em apelação, o colegiado manteve essa solução, afirmando a ocorrência da prescrição. No ponto (e-STJ, fls. 415/416):
+Pertinente ressaltar, de plano, que é cediço o entendimento no sentido de que é devido o pagamento das perdas salariais oriundas da conversão da URV, entretanto, a cobrança encontra limite temporal na edição das leis que reestruturaram a carreira dos servidores públicos e instituíram novo sistema remuneratório.
+Com efeito, a reestruturação da carreira acarreta a implementação de um novo regime jurídico remuneratório, de modo que não há que falar em permanência do direito de percebimento de diferenças decorridas do regime anterior.
+No presente caso, trata-se a autora de professora, incidindo a Lei Complementar Municipal nº 162/2002 que modificou os padrões remuneratórios e instituiu o plano de carreira e remuneração do Magistério Público municipal e, portanto, alterou o sistema remuneratório e reestruturou a carreira e vencimentos no âmbito do Magistério Público do município de Poço Redondo.
+Nesse toar, destaco que o Supremo Tribunal Federal consolidou o entendimento no sentido de que as parcelas relativas às diferenças decorrentes da conversão dos vencimentos em URV têm seu termo final na data em que editada lei que reestruture a remuneração dos servidores, porquanto criado regime de remuneração sem qualquer relação com o anterior, findando então a repercussão nos vencimentos do errôneo cálculo. Vejamos:
+ ..
+Com efeito, consoante o precedente da Corte Suprema a incorporação dos 11,98% deveria ocorrer até o momento da reestruturação da carreira, um vez que não há direito à percepção de parcela de remuneração pelo servidor público. ad eternum Assim, no presente caso, eventuais parcelas devidas em decorrência da conversão estariam adstritas até o advento Lei Complementar Municipal nº 162/2002, parcelas que se encontram fulminadas pela prescrição quinquenal, considerando que a presente demanda fora ajuizada em 29.05.2018.
+As alegações em torno dos arts. 373, II e § 1º, e 489, § 1º, IV, do CPC/2015 não foram objeto de qualquer juízo de valor emitido pelo Tribunal a quo. Destaca-se que, na origem, sequer foram opostos embargos declaratórios para questionar a suposta omissão. Assim, incide o teor da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
