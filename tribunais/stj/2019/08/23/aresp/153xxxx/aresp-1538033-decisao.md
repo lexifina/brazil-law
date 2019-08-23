@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo apresentado por FAZENDA NACIONAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88 , visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+CONTRIBUIÇÃO PARA O PIS. CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS). INCLUSÃO DO ICMS NA BASE DE CÁLCULO. DESCABIMENTO. JUÍZO DE RETRATAÇÃO.
+1. Cabe retratar o acórdão deste tribunal que diverge da orientação firmada pelo Supremo Tribunal Federal em sede de repercussão geral.
+2. É indevida a inclusão dos valores referentes ao ICMS na base de cálculo da contribuição ao PIS e da COFINS.
+3. Em se tratando de ação para aproveitamento em compensação tributária de quantias pagas indevidamente, a título de tributo, ajuizada depois de 09-06-2005, ou seja, após a vacatio legis da Lei Complementar nº 118, de 09-02-2005, que alterou o art. 168 do Código Tributário Nacional (CTN), o prazo prescricional aplicável é de cinco (5) anos.
+Alega violação do art. 3º, § 2º, I, da Lei n. 9.718/98, no que concerne à necessidade de afastamento do critério relativo ao ICMS destacado nas notas fiscais de saída para efeito de exclusão da base de cálculo do PIS/COFINS, trazendo o(s) seguinte(s) argumento(s):
+Impõe-se, sem sombra de dúvida, a necessidade do afastamento do critério relativo ao ICMS destacado nas notas fiscais, porquanto a verificação de como será feito o cálculo da exclusão deverá se dar por ocasião da liquidação do julgado em sede de cumprimento de sentença.
+Com efeito, é de se substituir o critério do ICMS destacado nas notas fiscais pelo do ICMS a pagar (ou expressões equivalentes: ICMS a recolher, ICMS líquido, ICMS apurado, ICMS devido). Assim que, na hipótese mais favorável aos contribuintes, a aplicação da decisão no RE 574.706/PR somente pode resultar na exclusão do ICMS representado pelo saldo da conta ICMS a recolher (ou ICMS a pagar ou equivalente), apurado mensalmente conforme contabilização em Livros de Apuração do ICMS, combinada com as declarações apresentadas ao Estado da Federação correspondente (DECLARAÇÃO DE INFORMAÇÕES DO ICMS E MOVIMENTO ECONÔMICO  DIME). (fls. 269).
+É o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Ora, a alegação da União acerca do valor de ICMS a ser excluído da base de cálculo do PIS e da COFINS (se é o ICMS "pago" ou o destacado na nota fiscal) foi formulada apenas nas suas razões de embargos de declaração. Não havia razão, dessarte, para a Turma examinar essa questão, que não constitui objeto da controvérsia - pois não está na petição inicial, não foi discutida nas informações, nem, de resto, foi decidida pela sentença -, verificando-se no ponto indevida inovação recursal (fl. 574).
+Aplicável, portanto, o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
