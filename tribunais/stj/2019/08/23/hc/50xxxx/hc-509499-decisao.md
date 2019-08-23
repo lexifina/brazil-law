@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de [NOME] no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo de Execução Penal n. 7001487-91.2018.8.26.0344).
+Em writ redigido de próprio punho, o impetrante narra que o paciente, que cumpre pena de 20 anos de reclusão pelo crime de latrocínio, foi beneficiado com a progressão ao regime semiaberto pelo Juízo da execução penal. Contudo, afirma que o Tribunal de origem deu provimento ao agravo em execução interposto pelo Ministério Público estadual para revogar o benefício, por entender não estar preenchido o requisito subjetivo.
+Em suas razões, defende, em síntese, que o paciente faz jus à progressão de regime, porquanto estão preenchidos os requisitos do benefício. Aduz que o pedido formulado ao Juízo ordinário está instruído com o atestado de bom comportamento carcerário. Ao final, requer, liminarmente, que o paciente permaneça no regime semiaberto até o julgamento final deste writ. No mérito, requer o restabelecimento da decisão que deferiu a progressão de regime.
+A medida liminar foi indeferida (e-STJ fls. 24/25).
+Informações prestadas às e-STJ fls. 35/39 e 40/56.
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fls. 59/62).
+Instada a se manifestar, a Defensoria Pública do Estado de São Paulo defende que o paciente preenche os requisitos objetivo e subjetivo para a progressão de regime, com bom comportamento carcerário. Alega que "o exame criminológico foi solicitado tão somente em razão da gravidade dos crimes praticados e da quantidade de pena a cumprir" (e-STJ fl. 73). Ao final, requer o restabelecimento do benefício.
+É, em síntese, o relatório.
+A questão posta a deslinde refere-se à necessidade de realização de exame criminológico para aferir se o paciente está apto a ser beneficiado com a progressão ao regime semiaberto.
+Com a nova redação dada ao art. 112 da Lei n. 7.210/1984, pela Lei n. 10.792/2003, suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas como requisitos legais o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+Confira-se:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+Contudo, a despeito de o exame não ser requisito obrigatório para a progressão do regime prisional, em hipóteses excepcionais, os Tribunais Superiores vêm admitindo a sua realização para a aferição do mérito do apenado.
+Segundo esse entendimento, o magistrado de primeiro grau, ou mesmo o Tribunal, diante das circunstâncias do caso concreto, pode determinar a realização da referida prova técnica para a formação de seu convencimento. Aliás, tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+O tema também foi objeto da Súmula Vinculante n. 26 do Supremo Tribunal Federal:
+Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+No caso dos autos, o Tribunal de origem cassou a decisão do Juízo da execução penal, que havia deferido a progressão de regime, consignando (e-STJ fls. 46/49):
+A Lei n.º 10.792/03 não eliminou a exigência do referido exame para concessão da progressão prisional, tanto que nesse sentido foi editada a Súmula Vinculante nº 26, a seguir transcrita:
+ ..
+Dessa forma, embora a lei tenha abolido a obrigatoriedade do exame criminológico, verifica-se que o verdadeiro intuito da alteração legislativa não foi o de dispensar referida perícia; providência que era, e continua sendo, instrumento valioso para a avaliação da personalidade do apenado.
+Sendo assim, em determinados casos, a simples apresentação de um atestado de bom comportamento pelo Diretor do estabelecimento prisional não garante o direito de o sentenciado ser promovido a regime menos restritivo, pois o bom comportamento a que alude a nova redação do art. 112 da Lei de Execução Penal pressupõe avaliação mais individualizada das condições pessoais do condenado, abrangendo, além da constatação de sua adaptação às regras do regime carcerário em que se encontra, um juízo acerca da conveniência de transferi-lo a um regime menos gravoso, que poderá ser aferida através dos elementos fornecidos pela comissão técnica eleita para a elaboração do exame criminológico.
+In casu, o agravado cumpre pena de 20 anos pela prática de latrocínio, com término previsto para 08.02.2030 (fls. 04/05).
+Nesse contexto, importante lembrar que a gravidade do crime ou a grande quantidade de pena a cumprir não impedem a progressão de regime, mas servem de critério para um rigorismo maior na avaliação do requisito subjetivo.
+Isto, porquanto impossível promover um corte na ordem dos eventos. Cego seria o apartamento dos fatos que ensejaram a condenação e a respectiva pena. Temerário seria simplesmente fadar ao esquecimento os funestos eventos que resultaram na execução da reprimenda. São, pois, indissociáveis, ao menos para a profunda e necessária análise do mérito à progressão de regime.
+Acerca do tema, a melhor doutrina:
+ ..
+Assim, não deve o magistrado deixar de realizar o exame criminológico quando as peculiaridades do caso indicarem a necessidade, conforme lúcida lição de Guilherme de Souza Nucci:
+ ..
+O exame criminológico constitui, pois, um instrumento importante e necessário para a formação da convicção do Magistrado, que deve ser determinado, sempre fundamentadamente, quando necessária para se obter uma avaliação mais aprofundada acerca dos riscos do deferimento da progressão de regime, ocasião em que o apenado terá maior contato com a sociedade.
+Nesse sentido:
+ ..
+Prematura, portanto, a progressão de regime no presente caso, notadamente porque, ao revés do que pontuou a nobre magistrada de origem, o regime semiaberto é marcado pela drástica mitigação de vigilância, ante a não demonstração, à saciedade, do requisito subjetivo, de maneira que se afigura imprescindível retorne o agravado ao regime mais severo, deixando-se consignada a necessidade da realização de exame criminológico, após o qual deverá haver nova apreciação do pedido.
+Ante o exposto, pelo meu voto, dou provimento ao recurso, para cassar a r. decisão atacada, regredindo o sentenciado ao regime fechado, determinando-se a realização de exame criminológico e posterior análise do pedido de progressão ao regime semiaberto.
+Como se vê, o acórdão impugnado, ao determinar a realização do exame criminológico, não motivou adequadamente a necessidade do referido exame, deixando de apresentar elementos concretos que pudessem justificar a sua realização, levando em conta apenas a gravidade do crime e a longa pena a cumprir, desconsiderando, ainda, o bom comportamento carcerário atestado pelo diretor do estabelecimento prisional (e-STJ fl. 37).
+Dessa forma, não havendo respaldo que demonstre, efetivamente, a necessidade de realização de exame criminológico, deve ser reconhecida a ilegalidade da sua exigência.
+Ante o exposto, concedo a ordem de habeas corpus para restabelecer a decisão do Juízo da execução penal que deferiu a progressão do paciente ao regime semiaberto.
+Publique-se. Intimem-se.
