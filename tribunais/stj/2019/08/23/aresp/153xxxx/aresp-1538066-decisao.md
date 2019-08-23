@@ -1,0 +1,26 @@
+DECISÃO
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. AUSÊNCIA DE GARANTIA DO JUÍZO. EMBARGANTE HIPOSSUFICIENTE. POSSIBILIDADE DE RECEBIMENTO DA DEFESA. PRECEDENTES DA PRIMEIRA TURMA DESTE STJ. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pelo ESTADO DO PARANÁ em face de acórdão de lavra do TJ/PR, assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - DEMONSTRAÇÃO DA INSUFICIÊNCIA PATRIMONIAL A JUSTIFICAR O EXCEPCIONAL RECEBIMENTO DOS EMBARGOS SEM A DEVIDA GARANTIA DO JUÍZO - POSSIBILIDADE - PRECEDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CÂMARA - HONORÁRIOS ADVOCATÍCIOS - FIXAÇÃO - OBSERVÂNCIA DO DISPOSTO NO ARTIGO 90, § 4o, DO CÓDIGO DE PROCESSO CIVIL - RECURSO PARCIALMENTE PROVIDO (fls. 116).
+2. Aponta a parte agravante ofensa ao art. 16, § 1o. da LEF, que exige a garantia da execução fiscal para o ajuizamento de embargos do devedor.
+3. É o relatório.
+4. Verifica-se que o acórdão recorrido não se apartou da jurisprudência deste Sodalício. A Primeira Turma já firmou o entendimento segundo o qual deve ser afastada a exigência da garantia do juízo para a oposição de Embargos à Execução Fiscal, caso comprovado inequivocadamente que o devedor não possui patrimônio para garantia do crédito exequendo. A propósito:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMBARGOS DO DEVEDOR. EXECUTADO. BENEFÍCIO DA JUSTIÇA GRATUITA. PATRIMÔNIO. INEXISTÊNCIA. HIPOSSUFICIÊNCIA. EXAME. GARANTIA DO JUÍZO. AFASTAMENTO. POSSIBILIDADE.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+2. Os embargos são o meio de defesa do executado contra a cobrança da dívida tributária ou não tributária da Fazenda Pública, mas que "não serão admissíveis .. antes de garantida a execução" (art. 16, § 1º, da Lei n. 6.830/80).
+3. No julgamento do recurso especial n. 1.272.827/PE, Rel. Min. Mauro Campbell Marques, submetido ao rito dos recursos repetitivos, a Primeira Seção sedimentou orientação segunda a qual, "em atenção ao princípio da especialidade da LEF, mantido com a reforma do CPC/73, a nova redação do art. 736 do CPC dada pela Lei n. 11.382/2006 - artigo que dispensa a garantia como condicionante dos embargos - não se aplica às execuções fiscais diante da presença de dispositivo específico, qual seja o art. 16, § 1º, da Lei n. 6.830/80, que exige expressamente a garantia para a apresentação dos embargos à execução fiscal." 4. A Constituição Federal de 1988, por sua vez, resguarda a todos os cidadãos o direito de acesso ao Poder Judiciário, ao contraditório e à ampla defesa (art. 5º, CF/88), tendo esta Corte Superior, com base em tais princípios constitucionais, mitigado a obrigatoriedade de garantia integral do crédito executado para o recebimento dos embargos à execução fiscal, restando o tema, mutatis mutandis, também definido na Primeira Seção, no julgamento do REsp 1.127.815/SP, na sistemática dos recursos repetitivos.
+5. Nessa linha de interpretação, deve ser afastada a exigência da garantia do juízo para a oposição de embargos à execução fiscal, caso comprovado inequivocadamente que o devedor não possui patrimônio para garantia do crédito exequendo.
+6. Nada impede que, no curso do processo de embargos à execução, a Fazenda Nacional diligencie à procura de bens de propriedade do embargante aptos à penhora, garantindo-se posteriormente a execução.
+(..)
+11. Recurso especial provido, em parte, para cassar o acórdão recorrido (REsp. 1.487.772/SE, Rel. Min. GURGEL DE FARIA, DJe 12.6.2019).
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. HIPOSSUFICIÊNCIA. GARANTIA DO JUÍZO. INEXISTÊNCIA. EMBARGOS DO DEVEDOR. RECEBIMENTO. CONSTRIÇÃO DE BENS. DILIGÊNCIAS CONTÍNUAS. DETERMINAÇÃO.
+1. Por força do art. 16, § 1º, da Lei n. 6.830/80, é necessária a garantia da execução para a oposição de embargos à execução fiscal (v.g.: Primeira Seção, REsp 1.272.827/PE, repetitivo).
+2. Em observância à ampla defesa e à garantia de acesso ao Poder Judiciário, tem-se mitigado a obrigatoriedade de garantia integral do crédito executado quando a parte executada, comprovadamente, for hipossuficiente (v.g.: Primeira Seção, REsp 1.127.815/SP, repetitivo)
+3. Hipótese em que o Tribunal Regional Federal, após ponderar sobre o estado de hipossuficiência da parte executada, admitiu os embargos à execução fiscal sem qualquer garantia.
+4. Para essa decisão se revelar adequada, mostra-se necessária a contínua investigação pela parte exequente a respeito da existência de bens ou direitos penhoráveis, sem prejuízo do recebimento dos embargos à execução fiscal, mesmo que insuficientes à garantia integral do débito e com observância das limitações legais.
+5. Recurso especial parcialmente provido (REsp. 1.681.111/RS, Rel. Min. GURGEL DE FARIA, DJe 24.5.2019).
+5. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do ESTADO DO PARANÁ.
+6. Por fim, nos termos do que dispõe o art. 85, § 11 do Código Fux, fixam-se os honorários recursais em 1%, que deverá ser acrescido ao montante total.
+7. Publique-se.
+8. Intimações necessárias.
