@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo apresentado por INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO - OMISSÃO - EXCESSO DE EXECUÇÃO. INEXISTÊNCIA.
+APOSENTADORIA POR INVALIDEZ. COISA JULGADA - EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARCIALMENTE.
+1. Constatada omissão quanto à apreciação do pedido de exclusão de valores das competências indicadas pela autarquia.
+2. Deve ser acrescida na parte inicial da fundamentação do acordão: "O inconformismo do INSS não merece prosperar, pois o juízo de primeiro grau julgou parcialmente procedente e condenou a autarquia para condenar o INSS no pagamento, à parte autora, do beneficio de aposentadoria por invalidez a partir da data da cessação do beneficio de auxilio doença (01/09/1998 - extrato em anexo)(fls.217/223), apelou o INSS e a Decisão Monocrática proferida por esta E. Corte a fls. 31/32v deu parcial provimento ao recurso e a remessa oficial apenas para fixar os consectários, portanto não determinando qualquer compensação de período trabalhado pela parte autora. Não houve recurso das partes e a decisão transitou em julgado em 23/10/2014 (fl. 285).
+3. Na execução do julgado deverá ser observado o que foi fixado na r. sentença, no v. acordão da ação de conhecimento, que transitaram em julgado
+4. Embargos de declaração acolhidos, parcialmente apenas para sanar a omissão.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 59 da Lei n. 8.213/91, 368 e 369, ambos do Código Civil, no que concerne à necessidade de compensação dos valores recebidos à título de benefício previdenciário nos períodos em que o recorrido exerceu atividade laborativa em razão da configuração do enriquecimento sem causa, e traz o(s) seguinte(s) argumento(s):
+O acórdão recorrido determinou o pagamento de valores em atraso, a titulo de beneficio por incapacidade em relação a período em que o segurado comprovadamente (e incontroversamente) laborou e recebeu vencimentos.
+ ..
+Desta forma, da leitura do dispositivo legal transcrito, conclui-se que, para a concessão do beneficio de auxílio-doença, é necessária a verificação de incapacidade total e temporária para o exercício de atividade que garanta a subsistência do segurado.
+Como se verifica dos autos, após o início da incapacidade o autor voltou a trabalhar, concedendo-se, desta forma, o beneficio em período em que o autor estava em plena atividade. (fls. 152).
+ ..
+Ainda que se entenda pela existência de incapacidade, o que se admite a título de mera argumentação, necessária a suspensão do termo inicial do beneficio durante o vínculo trabalhista em questão.
+De fato, necessária a compensação dos valores recebidos nos períodos em que estava trabalhando, uma vez que indevido o pagamento de beneficio por incapacidade sem a incapacidade para o trabalho, o que configura enriquecimento sem causa. (fls. 153).
+É o relatório. Decido.
+Na espécie, em relação à violação do art. 59 da Lei n. 8.213/91, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Ademais, passo a adotar o entendimento pacificado por esta Sétima Turma e prevalente na Terceira Seção desta E. Corte, no sentido de que, diante do indeferimento do pedido de beneficio por incapacidade, o exercício de atividade laborativa pelo segurado não configura, por si só, a recuperação da capacidade laborativa, mas sim uma necessidade para garantir a própria sobrevivência no curso do processo.
+Diante disso, não seria correto punir a parte que teve que se sacrificar para continuar trabalhando, mesmo não tendo totais condições para tanto. Neste sentido, transcrevo os seguintes julgados: (fl. 145) (grifo nosso)
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"" (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/12/2018).
+Confiram-se ainda os seguintes precedentes: AgInt nos EREsp n. 1.698.730/SP, relator Ministro Raul Araújo, Segunda Seção, DJe de 18/12/2018; e AgRg nos EAREsp n. 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Já em relação aos demais artigos supostamente violados, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
