@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo apresentado por ESTADO DE MINAS GERAIS, contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA - EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO - LITISPENDÊNCIA - INOCORRÊNCIA - PEDIDO E PARTES DIVERSAS - RECURSO PROVIDO.
+- A litispendência é um instituto de direito processual que visa impedir a reprodução de ação idêntica, ensejando a extinção da segunda demanda proposta, com determinação de se anular todos os atos processuais e decisórios.
+- Na hipótese, trata-se de pedido e partes diversas. Identidade de ações afastada.
+- O interesse de agir repousa sob dois enfoques: a necessidade do provimento jurisdicional e a adequabilidade do procedimento escolhido para atingir tal fim.
+Alega violação dos arts. 337, §§ 1º e 3º, c. c. 485, V, do Código de Processo Civil, no que concerne à ocorrência de litispendência, trazendo o seguinte argumento:
+Conforme brilhantemente decidiu o julgador de primeiro grau, verificou-se a ocorrência de litispendência da presente ação em face de outra ação ajuizada pela parte autora (Autos nº. 0134.17.005782-9), contra o Estado de Minas Gerais. Tais processos judiciais encontram-se plenamente ativos, com o mesmo objeto.
+Destarte, atualmente existem duas ações ajuizadas pela mesma parte autora pleiteando o fornecimento do mesmo tratamento. (fls. 104).
+É o relatório. Decido.
+Quanto à questão objeto do recurso especial, o Tribunal de origem assim decidiu:
+No caso em tela, pretende o Ministério Público do Estado de Minas Gerais a condenação dos apelados no fornecimento de insulina ultra rápida (LISPRO, APIDRA ou ASPARTE), na quantidade de 15 UI por dia, 200 (duzentas) unidades de tiras reagentes para medição de glicose por mês, ao fundamento de que tal medicamento/insumo é imprescindível à própria sobrevivência da paciente, considerando-se ainda que o medicamento/insumo pleiteado na ação 0134.17.010966-1 trata-se, na verdade, de tratamento opcional, indicado apenas para melhorar o resultado do controle glicêmico.
+Verifica-se que de fato não agiu com acerto a digna sentenciante ao julgar extinto o processo, por litispendência. Isso porque conforme informou na decisão de embargos, fl. 33, trata-se de medicamentos/insumos diversos (fl. 33), portanto claramente distintos os pedidos e a causa de pedir (próxima) das duas ações propostas.
+Também não há falar em mesmas partes, já que no caso em questão o Ministério Público atua como substituto processual.
+Além disso, restou comprovado através do documento de fls. 27/28, fornecido pelo CRAS - Centro de Referência da Assistência Social que atualmente a menor faz uso de insulina rápida e fitas para medir glicose, o que vem sendo custeado por sua familia, diante do não fornecimento pela rede pública de saúde.
+Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
