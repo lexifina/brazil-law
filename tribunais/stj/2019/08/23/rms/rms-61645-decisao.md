@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por BRUSTEJUNIOR PETROLEO LTDA - ME em desafio à decisão monocrática de fls. 148-153 e-STJ, da lavra da exma. Desa. Regina Helena Ramos Reis, da Segunda Câmara Cível do Tribunal de Justiça do Estado da Bahia.
+A decisão singular indeferiu a petição inicial de mandado de segurança por meio do qual a ora recorrente atacava omissão supostamente ilegal e abusiva cometida pela 1º Turma Recursal Cível de Salvador, a qual não acolhera tese de incompetência absoluta do juizado especial para decidir ação de cobrança promovida por MAGALHÃES EMPREENDIMENTOS E SERVIÇOS LTDA.
+Em apertada síntese, constatou-se não haver demonstração de flagrante ilegalidade, abuso de poder ou teratologia na decisão impugnada, especialmente porque não foi trazida qualquer prova das alegações da impetrante quanto à necessidade de intervenção de terceiros no feito.
+Nas razões do recurso ordinário, aduziu a impetrante não ser parte legítima para figurar na ação de cobrança, sendo, ainda, necessária a intervenção de terceiro na demanda, de forma que o juizado especial seria absolutamente incompetente para o julgamento. Requereu a concessão de tutela provisória de urgência para suspender os efeitos da decisão proferida pela 2ª Vara Cível do Juizado Especial de Juazeiro - BA.
+A Procuradoria do Estado da Bahia teve ciência da interposição do recurso (fl. 180 e-STJ).
+É o relatório. Decide-se.
+O recurso não ultrapassa o conhecimento.
+1. Consoante o disposto no art. 105, inc. II, "b" da Constituição Federal, a competência deste Tribunal superior para análise de recurso ordinário em mandado de segurança pressupõe o exaurimento da instância originária, por meio de submissão da matéria a órgão colegiado da Corte a quo. É inadmissível, portanto, o manejo dessa via recursal em face de decisão monocrática, como é o caso dos autos.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DECISÃO MONOCRÁTICA. RECURSO INTEGRATIVO. ESGOTAMENTO DE INSTÂNCIA. AUSÊNCIA. 1. Conforme disposto no art. 105, inciso II, "b", da Constituição Federal, é necessário o exaurimento da instância originária para que seja cabível a interposição de recurso ordinário em mandado de segurança.  .. . 3. Agravo interno desprovido. (AgInt no RMS 48.738/CE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 25/04/2019, DJe 15/05/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. FALTA DE EXAURIMENTO DA INSTÂNCIA. DECISÃO MANTIDA.
+1. Incabível a interposição de recurso ordinário contra decisão unipessoal que indeferiu a inicial do mandado de segurança por inépcia, ante a ausência de esgotamento da instância regional. 2. Agravo interno a que se nega provimento. (AgInt nos EDcl no RMS 48.614/CE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/05/2017, DJe 30/05/2017)
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DECISÃO MONOCRÁTICA. NECESSIDADE DE ESGOTAMENTO DE INSTÂNCIA. 1. Conforme se verifica no art. 105, inciso II, alínea "b", da Constituição Federal e na jurisprudência do STJ, é necessário exaurir a instância originária para que caiba Recurso Ordinário em Mandado de Segurança, sendo este inviável para impugnar a decisão monocrática do relator na Corte local. 2. Recurso ordinário não conhecido.
+(RMS 53.319/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/03/2017, DJe 20/04/2017)
+AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNCIAS RECURSAIS ORDINÁRIAS. INVIABILIDADE. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mostra-se inviável o conhecimento de recurso em mandado de segurança interposto contra decisão monocrática, sem o ajuizamento de agravo regimental, porquanto não exauridas as instâncias recursais ordinárias. Precedentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no RMS 38.436/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 25/09/2012, DJe 02/10/2012).
+Conforme relatado, o presente recurso ordinário impugnou decisão unipessoal, de forma que, ausente o exaurimento de instância, é manifestamente inadmissível a insurgência.
+2. Do exposto, não se conhece do recurso ordinário e julga-se prejudicado o pedido de concessão de tutela provisória de urgência.
+Publique-se. Intimem-se.
