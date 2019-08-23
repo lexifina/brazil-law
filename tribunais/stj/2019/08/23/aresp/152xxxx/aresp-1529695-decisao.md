@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por FAZENDA NACIONAL contra a decisão que não admitiu seu recurso especial, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AÇÃO ANULATÓRIA DE CRÉDITO FISCAL. SENTENÇA. APELAÇÃO. PRESCRIÇÃO DO CRÉDITO TRIBUTÁRIO. PARCELAMENTO DO DÉBITO APÓS A CONSUMAÇÃO DA PRESCRIÇÃO. DIREITO À COMPENSAÇÃO. NÃO PROVIMENTO DO RECURSO E DA REMESSA OFICIAL. HONORÁRIOS RECURSAIS.
+1. Consoante o art. 174, do CTN, a pretensão de cobrança do crédito tributário prescreve em 05 (cinco) anos, contados da data da sua constituição definitiva. No caso em apreço, o dispositivo deve ser interpretado em conjunto com a previsão normativa do art. 151, III, do mesmo diploma normativo,segundo a qual, as reclamações e os recursos administrativos suspendem a exigibilidade do crédito tributário, de modo que a contagem do prazo prescricional, nesses casos, somente tem início com a intimação da decisão final do processo administrativo fiscal.
+2, Consta, nos sistemas fazendários, a seguinte informação relativa ao Processo Administrativo Fiscal nº 196470077592004-88: "em recurso voluntário (em julgamento) INIC: 29/12/2006".
+3. Alega o ente fazendário que a data mencionada é a do início do julgamento do recurso, que não foi concluído, em razão do extravio dos autos. Assim, argumenta que o crédito tributário não foi fulminado pela prescrição.
+4. Contudo, compulsando detidamente a cópia do Processo Administrativo Fiscal, verifica-se que, na intimação do contribuinte, para a apresentação de cópia do recurso extraviado (id. 4058300.2660230), consta, expressamente, o dia 29/12/2006 como a data de interposição do recurso voluntário.
+5. Nada a reparar na sentença que reconheceu a prescrição do crédito tributário, eis que o recurso intempestivo não tem o condão de obstar o decurso do prazo prescricional, o qual teve início há muito mais de 05 (cinco) anos, mais precisamente, em 01/11/2006.
+6. O parcelamento do débito, quando já consumada a prescrição, não restabelece o crédito tributário já prescrito. Assim, tem direito a empresa autora à devolução das parcelas adimplidas por meio do parcelamento posteriormente firmado, segundo os parâmetros determinados em sentença.
+7. Majora-se a verba honorária em 2% (dois por cento), nos termos do art. 85, § 11º, do CPC.
+8. Apelação e remessa oficial não providas.
+É o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
