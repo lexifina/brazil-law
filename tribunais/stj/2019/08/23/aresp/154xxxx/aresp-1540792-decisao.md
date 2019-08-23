@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. FORNECIMENTO DE ENERGIA ELÉTRICA. RECUPERAÇÃO DE CONSUMO. DESVIO DE ENERGIA ELÉTRICA. APURAÇÃO DO DÉBITO PELO CRITÉRIO DO ART. 130, III, DA RESOLUÇÃO 414/10. AVALIAÇÃO TÉCNICA QUE CONSTATOU A ADULTERAÇÃO DO MEDIDOR. OBSERVÂNCIA DO PROCEDIMENTO ESTABELECIDO PELA RESOLUÇÃO Nº 414/2010 DA ANEEL. DESNECESSÁRIA A REALIZAÇÃO DE PERÍCIA, BASTANDO A AVALIAÇÃO TÉCNICA.
+Quanto à primeira controvérsia, alega violação do art. 6º, inciso VIII, do Código de Defesa do Consumidor, no que concerne à produção de prova pelo consumidor, trazendo o seguinte argumento:
+25. O caso dos autos trata acerca da incumbência do consumidor em provar fato negativo, sendo, portanto, ônus diabólico.
+26. A hipossuficiência técnica do consumidor Recorrente redunda na impossibilidade de produzir a referida prova da inexistência da irregularidade, tornando, se levado a termo a decisão das instâncias ordinárias, indiscutível qualquer TOI apresentado por concessionária de energia elétrica.
+27. Cumpre salientar que a concessionária de energia alterou o estado da prova ao retirar o medidor supostamente irregular, substituindo por um novo, a fim de impossibilitar qualquer discussão ou prova da suposta regularidade da medição.
+28. Dessa forma, impõe-se o reconhecimento da violação ao artigo 6º, inciso VIII, do Código de Defesa do Consumidor ao atribuir ônus de prova negativa ao consumidor hipossuficiente (fls. 275).
+Quanto à segunda controvérsia, alega violação do art. 373, inciso I, do Código de Processo Civil, no que concerne à restrição na produção de prova, trazendo o seguinte argumento:
+29. O acórdão recorrido conferiu legitimidade ao TOI ao cotejá-lo com os históricos de consumo do Recorrente, referindo que o fato de existir irregularidade no medidor estava devidamente provado.
+30. Seguindo a lógica da decisão, incumbia ao Recorrente comprovar a inexistência de fraude no medidor -  fato negativo -; contudo, nunca foi oportunizado a realização das provas periciais e documentais postuladas.
+31. A concessionária alega a existência de irregularidade no medidor, logo, sobre si recai o ônus de comprovar a existência da referida fraude.
+32. Elaborar documento unilateralmente produzido, com claro interesse da empresa, e impossibilitar a realização de contraprova do consumidor hipossuficiente viola o artigo 373, inciso I, do CPC (fls. 275).
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Quanto à segunda controvérsia, o Tribunal de origem assim decidiu a questão:
+Analiso as preliminares conjuntamente com o mérito, pois com esta se confundem.
+Não há falar em cerceamento de defesa, uma vez que o desvio de energia elétrica deu-se da seguinte forma descrita no Termo de Ocorrência e Inspeção de fl. 24:
+"Conforme o relatório de campo descrito no TOI nº 356095, em inspeção ao ponto de medição, na presença do cliente titular, foi encontrado um desvio de energia. Havia uma ponte nos borges do medidor, interligando as duas fases. Desse modo havia somente o registro parcial dos KWh consumidos. Fornecimento foi suspenso cortado na rede e retirado o medidor."
+Ademais, conforme já consignado, o histórico de consumo corrobora o resultado da inspeção no local que constatou o desvio no ramal de entrada e saída na caixa de medição com lacres violados, uma vez que após a substituição do medidor de energia elétrica o consumo aumentou significativamente.
+Ainda que não haja prova de que as irregularidades constatadas no medidor de energia elétrica tenham sido praticadas pela parte autora, a responsabilidade pela instalação interna da unidade consumidora é do (a) usuário (a) do serviço (fl. 260).
+Na espécie, portanto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
