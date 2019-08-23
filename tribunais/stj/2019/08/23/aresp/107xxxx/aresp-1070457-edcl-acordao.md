@@ -1,0 +1,44 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. EXAURIMENTO DA INSTÂNCIA RECURSAL ORDINÁRIA. INEXISTÊNCIA. OMISSÃO. AUSÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. A instância recursal ordinária está exaurida ainda que inexista a interposição de agravo interno contra a decisão monocrática de rejeição dos embargos de declaração opostos ao julgado colegiado, salvo se o recurso especial impugnar matéria tratada apenas na decisão singular dos aclaratórios. Precedente: EREsp 884.009/RJ, Rel. Ministro HAMILTON CARVALHIDO, CORTE ESPECIAL, julgado em 15/09/2010, DJe 14/10/2010.
+3. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de embargos de declaração opostos por PREVIDÊNCIA USIMINAS contra acórdão que negou provimento a seu agravo interno sob os seguintes fundamentos: a) a competência dos órgãos fracionários do Superior Tribunal de Justiça é de natureza relativa, de modo que, eventual alegação a respeito da incompetência para o conhecimento da demanda deve ser objeto de irresignação antes do julgamento, inclusive quando proferido monocraticamente; e b) a instância recursal ordinária está exaurida ainda que inexista a interposição de agravo interno contra a decisão monocrática de rejeição dos embargos de declaração opostos ao julgado colegiado, salvo se o recurso especial impugnar matéria tratada apenas na decisão singular dos aclaratórios.
+Em sua razões, a parte ora embargante requer o conhecimento e o provimento deste recurso, apontando a existência de omissão no acórdão objurgado, ao argumento de que "o recurso especial da Previdência Usiminas deve ser conhecido por todos os outros fundamentos nele ventilados, cuja discussão foi devidamente exaurida nas instâncias ordinárias (o que não ocorreu, tendo, com isso, se verificado a OMISSÃO ora apontada), devendo apenas o fundamento da "inaplicabilidade da multa por embargos protelatórios (violação ao art. 538, parágrafo único do CPC/73)" não ser conhecido por incidência da Súmula STF nº 281" (fl. 1255).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. EXAURIMENTO DA INSTÂNCIA RECURSAL ORDINÁRIA. INEXISTÊNCIA. OMISSÃO. AUSÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. A instância recursal ordinária está exaurida ainda que inexista a interposição de agravo interno contra a decisão monocrática de rejeição dos embargos de declaração opostos ao julgado colegiado, salvo se o recurso especial impugnar matéria tratada apenas na decisão singular dos aclaratórios. Precedente: EREsp 884.009/RJ, Rel. Ministro HAMILTON CARVALHIDO, CORTE ESPECIAL, julgado em 15/09/2010, DJe 14/10/2010.
+3. Embargos de declaração rejeitados.
+
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+Aduz a parte embargante a existência de omissão no acórdão objurgado, ao argumento de que "o recurso especial da Previdência Usiminas deve ser conhecido por todos os outros fundamentos nele ventilados, cuja discussão foi devidamente exaurida nas instâncias ordinárias (o que não ocorreu, tendo, com isso, se verificado a OMISSÃO ora apontada), devendo apenas o fundamento da "inaplicabilidade da multa por embargos protelatórios (violação ao art. 538, parágrafo único do CPC/73)" não ser conhecido por incidência da Súmula STF nº 281" (fl. 1255).
+Não merece reforma o acórdão objurgado porquanto não há omissão a ser sanada por meio dos presentes aclaratórios.
+Com efeito, a decisão monocrática, da lavra da Presidência desta Corte Superior, não conheceu do agravo em recurso especial ao argumento de que o recurso especial haveria sido interposto contra decisão monocrática proferida pelo Tribunal a quo, verbis:
+Mediante análise dos autos, verifica-se que o recurso especial foi interposto contra decisão monocrática proferida pelo Tribunal a quo.
+Consoante entendimento da Súmula n.º 281 do Supremo Tribunal Federal, aplicável também aos recursos especiais, é necessário que a parte interponha todos os recursos ordinários perante o Tribunal de origem antes de buscar a instância especial.
+Dessa forma, é pacífico o entendimento desta Corte no sentido de que a interposição do recurso especial pressupõe o julgamento da questão controvertida pelo órgão colegiado do Tribunal de origem.
+(fl. 1062)
+Importa consignar, conforme consignado na decisão primeva, que a Corte Especial do STJ pacificou o entendimento de que a "não interposição de agravo regimental contra a decisão monocrática de rejeição dos declaratórios opostos ao julgado colegiado não afasta o exaurimento da instância recursal ordinária quando a matéria impugnada no especial é estranha à dos declaratórios opostos" (EREsp 884.009/RJ, Rel. Ministro HAMILTON CARVALHIDO, CORTE ESPECIAL, julgado em 15/09/2010, DJe 14/10/2010).
+O precedente qualificado ficou assim ementado:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. JULGAMENTO MONOCRÁTICO PELO TRIBUNAL A QUO DOS DECLARATÓRIOS OPOSTOS À DECISÃO COLEGIADA. QUESTÃO DIVERSA. EXAURIMENTO DE INSTÂNCIA. RECURSO ESPECIAL CABÍVEL.
+1. O recorrente deve esgotar todos os meios ordinários possíveis para que o Tribunal a quo decida a questão objeto dos recursos excepcionais, sem o que não se abre a instância extraordinária (artigos 102, inciso III, e 105, inciso III, da Constituição Federal, Enunciado nº 281/STF).
+2. A não interposição de agravo regimental contra a decisão monocrática de rejeição dos declaratórios opostos ao julgado colegiado não afasta o exaurimento da instância recursal ordinária quando a matéria impugnada no especial é estranha à dos declaratórios opostos.
+3. Embargos de divergência acolhidos.
+(EREsp 884.009/RJ, Rel. Ministro HAMILTON CARVALHIDO, CORTE ESPECIAL, julgado em 15/09/2010, DJe 14/10/2010)
+No caso em tela, como destacado no acórdão guerreado, observa-se que a decisão monocrática que julgou os embargos de declaração opostos pela ora recorrente contra o acórdão que julgou o agravo interno aplicou-lhe a multa prevista no parágrafo único do 538 do CPC/1973 pelo caráter protelatório do recurso.
+Constata-se, ademais, compulsando-se as razões recursais, que, por meio da interposição do recurso especial pretendia a agravante também a cassação da referida multa de 1% aplicada com fulcro no artigo acima mencionado, conforme admitido nos presentes embargos de declaração, verbis:
+Ocorre, Excelências, que o recurso especial da Previdência Usiminas não versa apenas sobre a inaplicabilidade da multa prevista no art. 538 do CPC/73, mas traz outros fundamentos autônomos, atinentes ao mérito propriamente dito da controvérsia, que não foram objeto da decisão singular dos embargos declaratórios.
+(fl. 1253)  g.n.
+Desse modo, tendo em vista a natureza integrativa da decisão que julga os embargos de declaração, infere-se que o apelo extremo, a rigor, insurgia-se contra matéria acerca da qual não houve, de fato, o exaurimento da instância recursal ordinária.
+Em outras palavras, não houve, na hipótese, o exaurimento da instância recursal ordinária, máxime porque, quanto a este ponto (multa por embargos protelatórios), a matéria impugnada no especial não é estranha àquela contida na decisão monocrática que apreciou declaratórios opostos. Ataca-se, pela via do recurso especial, questão que não foi apreciada pelo órgão colegiado da Corte estadual.
+3. Ante o exposto, com fulcro nos fundamentos acima aduzidos, rejeito os embargos de declaração.
+É como voto.
