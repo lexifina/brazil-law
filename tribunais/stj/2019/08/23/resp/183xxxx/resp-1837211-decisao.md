@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO DO EXECUTADO PARA PAGAMENTO, SOB PENA DE MULTA E FIXAÇÃO DE HONORÁRIOS. AGRAVO DE INSTRUMENTO. CABIMENTO. CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL.
+DECISÃO
+Os autos noticiam que CASA [NOME] LTDA ([NOME]) propôs ação de repetição de indébito contra o BANCO BRADESCO S.A. (BRADESCO).
+Em grau de apelação a pretensão foi julgada procedente para decotar a capitalização de juros do contrato firmado entre as partes, dada a ausência de provas de sua previsão expressa na avença celebrada, devendo ser recalculado o débito da parte autora, restituindo de forma simples os valores cobrados indevidamente, corrigido pelos índices da Tabela da Corregedoria Geral de Justiça desde o desembolso e com juros de mora a partir da citação (e-STJ, fl. 581).
+Com o trânsito em julgado do decisum, foi iniciada a fase de cumprimento de sentença, com a liquidação do julgado, tendo a CASA [NOME], credora, apresentado parecer com o valor do débito no montante de R$3.614.522,45 (três milhões, seiscentos e quatroze mil, quinhentos e vinte e dois reais e quarenta e cinco centavos) (e-STJ, fl. 706/711).
+Intimado o BRADESCO para apresentar os contratos e extratos da movimentação financeira da [CONTA], [CONTA], nos termos do art. 524, § 4º, do NCPC, a instituição financeira quedou-se inerte, razão pela qual foram reputados corretos os cálculos apresentados pela parte credora (e-STJ, fl. 715).
+Na e-STJ, fl. 752 o BRADESCO foi intimado para pagamento em 15 dias, sob pena de multa e fixação de honorários.
+Contra essa determinação o BRADESCO interpôs agravo de instrumento, sob o argumento de que foi equivocadamente certificado o decurso de prazo para apresentação dos documentos e impugnação dos cálculos apresentados pela CASA [NOME], pleiteando para que sejam anulados todos os atos praticados desde a indevida certificação de decurso do prazo, ou então, da decisão homologatória, permitindo-se a juntada dos documentos e a impugnação aos valores apresentados pela agravada (e-STJ, fl. 859).
+O recurso não foi conhecido, por inadequação da via eleita, cujo acórdão encontra-se assim ementado:
+AGRAVO DE INSTRUMENTO - PRELIMINAR - INADEQUAÇÃO RECURSAL - MERO DESPACHO ORDINATÓRIO - IRRECORRIBILIDADE - NÃO CONHECIMENTO. É patente a inadmissibilidade de agravo de instrumento interposto em razão de despacho citatório pois, despido de conteúdo decisório, esse é incapaz de gerar prejuízo às partes, tratando-se de ato judicial irrecorrível, nos termos do art. 1.001, do Código de Processo Civil de 2015. Recurso inadmitido (e-STJ, fl. 877).
+Contra esse julgado o BRADESCO manejou recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, alegando (1) a nulidade da intimação da decisão que homologou as contas apresentadas pela CASA [NOME], credora; e, (2) divergência jurisprudencial e violação dos arts. 203 e 1.105, ambos do NCPC, pois a intimação do executado para pagamento, sob pena de multa de fixação de honorários advocatícios tem conteúdo decisório, sendo cabível sua impugnação por agravo de instrumento.
+Foram apresentadas contrarrazões.
+O juízo prévio de admissibilidade negou seguimento ao apelo nobre por estar o entendimento proferido em harmonia com a jurisprudência do Superior Tribunal de Justiça e pela ausência de similitude fática entre os acórdãos confrontados.
+Irresignado, o BRADESCO apresentou o correspondente agravo, pelo qual rebateu os fundamentos da decisão agravada e reiterou os argumentos do recurso especial.
+Sem contraminuta, os autos subiram para esta Corte Superior.
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A pretensão recursal está em definir se, sob a égide do Novo Código de Processo Civil, é recorrível por agravo de instrumento o pronunciamento judicial que determina a intimação do executado para pagar o valor executado, sob pena de multa e fixação de honorários advocatícios.
+Considerando que o agravo merece conhecimento e tendo em vista as razões contidas no recurso especial subjacente, CONVERTO o agravo em recurso especial para melhor análise da controvérsia.
+Publique-se. Intimem-se.
