@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo apresentado por JOSE FIRMO MAIA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO CAUTELAR INOMINADA - OCUPAÇÃO INDEVIDA DE ÁREA PÚBLICA - PRETENSÃO DE MANUTENÇÃO DA POSSE DO APELANTE E DE SEUS FAMILIARES - INADEQUAÇÃO DA VIA ELEITA E AUSÊNCIA DE INTERESSE JURÍDICO EM DECORRÊNCIA DA ORDEM LEGÍTIMA DE DESOCUPAÇÃO DA ÁREA PÚBLICA - PROCESSO JULGADO EXTINTO SEM RESOLUÇÃO DE MÉRITO - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 1.219 e 1.255 do Código Civil, no que concerne à necessidade de indenização pelas benfeitorias ao ocupante de boa-fé de terras públicas, trazendo o(s) seguinte(s) argumento(s):
+Diante do ocorrido é legítimo o direito do ocupante irregular de boa -fé, do cidadão de boa -fé que investiu todas as suas economias na construção da sua moradia, da plantação, por ex., sem imaginar que aquele terreno se tratava de área pública, em receber indenização por tal valor despendido. O cidadão de boa -fé, ocupante de imóvel público, citado supra deve-se à atuação omissa do poder público que, na maioria dos casos, se queda inerte por décadas e mais décadas. (fls. 274).
+Quanto à segunda controvérsia, o recurso especial foi interposto pela alínea "c".
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, pois, a despeito de ter sido apontada a alínea "c" do permissivo constitucional e ter havido transcrição de ementa(s), a parte recorrente não indicou expressamente qual o acórdão tido por paradigma, o que impede eventual análise da divergência de interpretações.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
