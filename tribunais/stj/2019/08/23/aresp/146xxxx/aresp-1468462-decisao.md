@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 1.600, e-STJ):
+Sociedade limitada. Cessão de quotas. Débitos anteriores. Ação de cobrança. Ilegitimidade passiva. Instrumento negocial, no qual os autores apoiam sua pretensão, nunca firmado com os réus. Depois, mesmo do ponto de vista do enriquecimento sem causa, pagamento efetuado que não aproveita os réus se excluídos das demandas trabalhistas, por decisão transitada. Sentença mantida. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 1.609/1.611, e-STJ).
+Nas razões do recurso especial, as agravantes alegam violação aos arts. 5º, XXXVI, da Constituição Federal, 283, 396 e 397 do Código de Processo Civil de 1973.
+Argumentam, em síntese, terem direito à restituição dos pagamentos de dívidas trabalhistas anteriores.
+Foram apresentadas contrarrazões às fls. 1.626/1.634, e-STJ.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 1.636/1.638, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Destaca-se, inicialmente, que não compete a esta Corte Superior a análise de violação a dispositivo constitucional, sob pena de usurpação da competência atribuída exclusivamente ao Supremo Tribunal Federal.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. VIOLAÇÃO A DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. EXAME VIA APELO ESPECIAL. IMPOSSIBILIDADE. READEQUAÇÃO DE BENEFÍCIO. REVISÃO. TETOS DAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. QUESTÃO DIRIMIDA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL.ANÁLISE VEDADA. USURPAÇÃO DA COMPETÊNCIA DO STF. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1. O exame da violação de dispositivo constitucional (art. 5º, II, da Constituição Federal) é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+(..)
+5. Recurso Especial não conhecido"
+(STJ, REsp 1.672.259/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 30/6/2017)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AFRONTA A DISPOSITIVO CONSTITUCIONAL. ANÁLISE EM SEDE ESPECIAL. INVIÁVEL. OMISSÃO. NÃO OCORRÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. VERIFICAÇÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. PEDIDO. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. NULIDADE PROCESSUAL. AFRONTA À COISA JULGADA. NÃO CONFIGURADAS. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. AGRAVO NÃO PROVIDO.
+1. A via especial é inadequada para análise de arguição de contrariedade a texto constitucional, sob pena de usurpação da competência atribuída ao STF.
+2. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Pedido é o objetivo que se pretende alcançar com a demanda, o que se conclui a partir de uma interpretação lógico-sistemática da petição como um todo.
+5. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+6. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1360924/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 6/8/2019, DJe 12/8/2019)
+Anoto, em seguida, que as recorrentes se limitaram a indicar a violação aos arts. 283, 396 e 397 do Código de Processo Civil de 1973, sem demonstrar, de forma inequívoca, a forma que tais dispositivos legais foram ofendidos. Tal situação configura deficiência na fundamentação e atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. DESERÇÃO DO RECURSO. ERRO DA DIGITALIZAÇÃO DOS COMPROVANTES. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. DECISÃO AGRAVADA RECONSIDERADA. NOVO EXAME DO FEITO. AÇÃO RESCISÓRIA. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO ESTADUAL. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. DEPÓSITO PREVISTO NO INCISO II DO ART. 488 DO CPC/73. REVERSÃO EM MULTA A FAVOR DA PARTE CONTRÁRIA. CARÁTER PUNITIVO. NECESSIDADE DE RECOLHIMENTO. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO AGRAVADA E, EM NOVO EXAME, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Recurso especial interposto contra acórdão publicado anteriormente à entrada em vigor do Novo Código de Processo Civil, aplicando-se ao caso o Enunciado Administrativo nº 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça." 2. É possível afastar a deserção na hipótese de falha ou erro na digitalização realizada pelo Tribunal a quo, desde que o recorrente comprove oportunamente o recolhimento das custas.
+3. O recurso especial, sob pena de ser inadmitido, deve apresentar, de modo inequívoco, os dispositivos violados, bem como expor argumentos capazes de evidenciar a ofensa alegada, refutando a fundamentação do acórdão recorrido. A deficiência na fundamentação recursal atrai a incidência das Súmulas 283 e 284/STF.
+4. "O depósito previsto no inciso II do art. 488 do CPC de 1973 - vigente à época da propositura da ação - e mantido no novel Código de Processo Civil no art. 968, II -, por se reverter em multa a favor do réu nas hipóteses em que a ação rescisória é julgada inadmissível ou improcedente por unanimidade de votos, ostenta nítido caráter sancionatório e tem por escopo desestimular o ajuizamento temerário de ações rescisórias, constituindo instrumento repressivo ao abuso no exercício do direito de ação. Assim, a concessão da gratuidade de justiça não exonera o autor do pagamento dessa quantia ao réu, consoante expressa previsão no parágrafo 4º do art. 98 do CPC de 2015" (AR 4.522/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 24/05/2017, DJe de 02/08/2017).
+5. Agravo interno provido para reconsiderar a decisão ora agravada e, em novo exame, negar provimento ao recurso especial.
+(AgInt no REsp 1585432/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/5/2019, DJe 13/6/2019)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. VIOLAÇÃO DOS ARTS. 373, I, 489, § 1º, IV, 1.013, 1.022 do CPC/2015. INCIDÊNCIA DA SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO. PRIMAZIA DO MÉRITO.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia. Incidência, novamente, do óbice da Súmula 284/STF.
+2. O alegado dissídio pretoriano não foi comprovado nos moldes exigidos nos arts. 1.029, § 1º, do Código de Processo Civil, e 255, § 1º, do Regimento Interno do STJ, uma vez que a parte interessada apenas transcreveu as ementas dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e a constante do aresto impugnado.
+3. O art. 4º do CPC/2015 dispõe sobre o princípio da primazia do mérito, contudo, no caso em análise, não há como superar as deficiências de fundamentação verificadas nas razões do recurso especial, inclusive com indicação de dispositivos que não correspondem aos pedidos formulados e a ausência de configuração do dissídio jurisprudencial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1761261/RO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/2/2019, DJe 28/2/2019)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
