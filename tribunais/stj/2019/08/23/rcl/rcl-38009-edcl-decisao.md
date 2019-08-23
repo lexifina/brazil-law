@@ -1,0 +1,10 @@
+DECISÃO
+[NOME] opõe embargos de declaração nos embargos de declaração, afirmando ser necessário "esquartejar a guerreada decisão, a fim de que possa, ao final, demonstrar que há inobservância de relevantes razões jurídicas, que ensejam negativa na entrega de prestação jurisdicional justa e adequada".
+Insiste em discutir temas que não foram objeto de análise por esta Corte em razão de o agravo em recurso especial, no qual pretendia rever essas questões, não ter sido admitido.
+Na decisão embargada ficou expressamente consignado que, in verbis:
+Ao contrário do afirmado pelo embargante, não há omissão alguma a ser sanada.
+Com efeito, constou, claramente, da decisão embargada que, "no presente caso, a reclamação não foi manejada para preservar a competência desta Corte nem para garantir a autoridade de suas decisões, mas, simplesmente, com o propósito de reformar despacho, sem conteúdo decisório, no qual somente determinei a certificação do trânsito em julgado de acórdão contra o qual não foi interposto recurso legalmente cabível (acórdão de fl. 1.073 do AREsp 1238434/SP), não se verificando, pois, nenhuma das hipóteses previstas nos artigos 105, I, "f", da Constituição Federal, e 988 do Código de Processo Civil de 2015, mostrando-se totalmente incompatível com os objetivos tutelados pelo instituto processual-constitucional da Reclamação, tornando inviável o seu seguimento, não servindo a reclamação como via do recurso, tampouco para revisão de despacho proferida por esta Corte".
+Desse modo, o que se verifica é o inconformismo do embargante com o trânsito em julgado do AREsp n. 1.238.434/SP, unicamente em razão de não ter manejado os recursos cabíveis, incorrendo em uma série de erros processuais não atribuíveis, em momento algum, a esta Corte.
+Claro está, assim, o intuito protelatório do embargante com os presentes embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração e aplico multa ao embargante de 2% (dois por cento) sobre o valor atribuído à causa, nos termos do artigo 1.026, § 2º, do Código de Processo Civil.
+Intimem-se.
