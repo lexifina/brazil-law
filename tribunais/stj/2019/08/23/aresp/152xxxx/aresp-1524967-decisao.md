@@ -1,0 +1,24 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ISSQN. EXIGIBILIDADE ANTES DE AVERIGUADO O RESPECTIVO FATO GERADOR. ANALISE DE LEI LOCAL. SÚMULA 280/STF. AGRAVO CONHECIDO PARA NÃO SE CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto pelo Município de São Paulo, contra a decisão de inadmissibilidade de recurso especial em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, cuja ementa assim estabelece:
+ISSQN Exigência de chancela pela Municipalidade da totalidade de ingressos a serem vendidos Recolhimento do tributo anteriormente à ocorrência do fato gerador Inadmissibilidade Imposto devido somente a partir da efetiva prestação do serviço Precedentes do STJ e deste Colendo Tribunal de Justiça RECURSO NÃO PROVIDO
+Nas razões de recurso especial, fundamentado no artigo 105, III, alínea a, do permissivo constitucional, o recorrente alega a ofensa aos artigos 96 e 116 do CTN, ao sustentar em síntese: que é legítima a exigibilidade de ISSQN sobre a comercialização de ingressos a serem vendidos pela recorrida.
+Contrarrazões ao recurso especial às fls. 131/146 (e-STJ).
+Na decisão de admissibilidade o Tribunal de origem inadmitiu o processamento do recurso especial.
+Em agravo, o recorrente rechaçou os fundamentos de inadmissão do apelo especial, conforme petição de fls. 152/157 (e-STJ).
+Contraminuta ao agravo em recurso especial às fls. 160/173 (e-STJ).
+É a síntese do relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Deveras, em mérito, o recorrente aduz que o Código Tributário Nacional permite que que o sujeito ativo se antecipe ao fato gerador para a exigibilidade do tributo, quando configurados sua deflagração pelo sujeito passivo.
+O Tribunal de origem ao enfrentar a controvérsia sobre o regime de tributação incidente sobre os serviços cartorários consignou especificamente no que tange à base de cálculo, os seguintes termos, in verbis:
+De fato é inadmissível a exigência de ISS nos moldes do que dispõe o Decreto Municipal n. 22.470/86, uma vez que o tributo em exame somente é devido a partir da ocorrência do respectivo fato gerador, que na espécie se configura somente no momento da venda de ingressos ao consumidor.
+Ainda que Lei Municipal determine a chancela dos ingressos anteriormente à venda, não há razão para o recolhimento do tributo neste momento, sendo certo que a doutrina e a jurisprudência são unânimes em afirmar "que a incidência do ISS tem por pressuposto a consumação do critério material da sua hipótese de incidência, isto é, prestação de serviço. Logo, as atividades preparatórias necessárias à consumação do serviço são irrelevantes". 1 Com efeito, exigir pagamento antecipado do tributo, com base em número hipotético de ingressos vendidos que, frise-se, raramente são vendidos em sua totalidade, implica em obrigar o contribuinte a adiantar o pagamento de imposto em valor superior ao devido, vez que a lei prevê a devolução posterior da quantia recolhida sobre os ingressos não comercializados, sendo certo que o empreendedor ainda sequer recebeu o pagamento do consumidor pelo serviço a ser prestado.
+Pois bem, como depreende-se do trechos em destaque, o Tribunal de origem excluiu a exigibilidade do ISSQN, pois, conforme o regramento municipal (Decreto Municipal 22.470/86) da referida exação, sua exigência condiciona a ocorrência do respectivo fato gerador.
+Logo, a pretensão da ora recorrente visa analisar lei local, ou melhor, a legalidade da repartição dos emolumentos aos demais órgãos públicos. Neste sentido, não se prosperar em sede de recurso especial se imiscuir na legislação estadual, sob pena de se ofender os termos da Súmula 280/STF.
+A propósito:
+PROCESSUAL CIVIL. INEXISTÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. ICMS. PARCELAMENTO. ADESÃO AO PLANO DE PARCELAMENTO INCENTIVADO (PPI). NECESSIDADE DE GARANTIA. INTERPRETAÇÃO DE DIREITO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+(AgRg no AREsp 102.710/SP, Rel. MINISTRO TEORI ALBINO ZAVASCKI, julgado em 21/6/2012, DJe 2/8/2012) No tocante aos temas relacionados a Lei estadual n. 13.918/2009, o recurso não ultrapassa a barreira do conhecimento. Isso porq ue é inviável o exame de lei local em recurso especial, incidindo, por analogia, a Súmula 280/STF.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
