@@ -1,0 +1,61 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. OFENSA AO ART. 619 DO CPP. AUSÊNCIA DE OMISSÃO. REPRESENTANTE DO MINISTÉRIO PÚBLICO. IMPEDIMENTO PARA ATUAR NO FEITO. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. EXAME DAS TESES DEFENSIVAS (ATIPICIDADE E NULIDADE DE INTERROGATÓRIO E DEPOIMENTOS DE TESTEMUNHAS E CORRÉUS). REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Para admissão do recurso especial com base no art. 619 do CPP, a omissão, ambiguidade, obscuridade ou contradição devem ser notórias, ou seja, imprescindíveis para o enfrentamento da questão nas Cortes superiores. No presente caso, não é o que se verifica, tratando-se, pois, de mero inconformismo da parte. Outrossim, ressalte-se que cabe ao julgador fundamentar todas as suas decisões, de modo a robustecê-las, bem como afastar qualquer dúvida quanto a motivação utilizada, nos termos do art. 93, IX da Constituição Federal de 1988, devendo ser considerada a conclusão lógico-sistemática adotada pelo decisum, como ocorre in casu.
+2. A ausência de impugnação de fundamento, por si só, suficiente para manter o aresto recorrido, importa a incidência, por analogia, da Súmula n. 283 da Suprema Corte.
+3. O acórdão recorrido decidiu com base em elementos probatórios disponíveis nos autos. Reexaminá-lo para atender às demandas da defesa implicaria o revolvimento de matéria fática, inviável em sede de recurso especial, conforme orientação da Súmula 7/ STJ.
+4. Agravo regimental desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por [NOME] contra decisão desta Relatoria que conheceu de seu agravo, para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Neste recurso, o agravante tão somente reitera as razões do agravo em recurso especial (e-STJ, fls. 1.949-1.971). Requer, ao final, a reconsideração da decisão agravada ou a submissão do feito à apreciação do órgão julgador, a fim de obter a reforma do julgado, provendo-se o apelo excepcional.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. OFENSA AO ART. 619 DO CPP. AUSÊNCIA DE OMISSÃO. REPRESENTANTE DO MINISTÉRIO PÚBLICO. IMPEDIMENTO PARA ATUAR NO FEITO. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. EXAME DAS TESES DEFENSIVAS (ATIPICIDADE E NULIDADE DE INTERROGATÓRIO E DEPOIMENTOS DE TESTEMUNHAS E CORRÉUS). REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Para admissão do recurso especial com base no art. 619 do CPP, a omissão, ambiguidade, obscuridade ou contradição devem ser notórias, ou seja, imprescindíveis para o enfrentamento da questão nas Cortes superiores. No presente caso, não é o que se verifica, tratando-se, pois, de mero inconformismo da parte. Outrossim, ressalte-se que cabe ao julgador fundamentar todas as suas decisões, de modo a robustecê-las, bem como afastar qualquer dúvida quanto a motivação utilizada, nos termos do art. 93, IX da Constituição Federal de 1988, devendo ser considerada a conclusão lógico-sistemática adotada pelo decisum, como ocorre in casu.
+2. A ausência de impugnação de fundamento, por si só, suficiente para manter o aresto recorrido, importa a incidência, por analogia, da Súmula n. 283 da Suprema Corte.
+3. O acórdão recorrido decidiu com base em elementos probatórios disponíveis nos autos. Reexaminá-lo para atender às demandas da defesa implicaria o revolvimento de matéria fática, inviável em sede de recurso especial, conforme orientação da Súmula 7/ STJ.
+4. Agravo regimental desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A pretensão não merece êxito, na medida em que o agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+Consoante anteriormente explicitado, quanto ao art. 619 do Código de Processo Penal, para admissão do recurso especial com base em tal dispositivo, a omissão, ambiguidade, obscuridade ou contradição devem ser notórias, ou seja, imprescindíveis para o enfrentamento da questão nas Cortes superiores. No caso dos autos, não é o que se verifica, uma vez que a matéria tida por omissa foi exaustivamente examinada pelo Tribunal de origem. Trata-se, pois, de mero inconformismo da parte.
+Outrossim, ressalte-se que cabe ao julgador fundamentar todas as suas decisões, de modo a robustecê-las, bem como afastar qualquer dúvida quanto a motivação utilizada, nos termos do art. 93, IX da Constituição Federal de 1988, devendo ser considerada a conclusão lógico-sistemática adotada pelo decisum, como ocorre in casu.
+A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. NÃO OCORRÊNCIA. VIOLAÇÃO AO ART. 59 DO CP. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O recurso especial sustentou, a incompetência de juízo - item em que não indicou o dispositivo de lei federal violado -, bem como a ilegalidade da condenação, momento em que o recorrente, não obstante haver citado o dispositivo da legislação infraconstitucional supostamente violado pelo Tribunal a quo (art. 59 do CP), não desenvolveu, de forma lógica e com um mínimo de profundidade, as razões jurídicas acerca dessa violação, o que descumpre requisito imprescindível para o conhecimento do recurso, nos termos da Súmula n. 284 do Supremo Tribunal Federal.
+2. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+3. No caso, não há nenhuma omissão no julgado proferido pela Corte de origem, de maneira a gerar o pretendido reconhecimento de infringência do art. 619 do Código de Processo Penal, visto que o acórdão proferido na apelação, expressamente, manifestou-se sobre todas as questão apresentadas pela defesa.
+4. (..).
+5. Agravo regimental não provido."
+(AgRg no Ag 1.203.770/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/02/2017, DJe 02/03/2017, grifou-se)
+Relativamente à suposta alegação de que a representante do Ministério Público estaria impossibilitada de atuar no feito por ter ajuizado ação cível contra o recorrente, é inviável a sua apreciação pela incidência analógica do Enunciado n. 283 da Súmula do Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, destaca-se que o Tribunal de origem embasou entendimento contrário ao pleito da defesa no fundamento abaixo transcrito:
+"Como se vê, a existência de indenização, perante juízo diverso, cível, em nada prejudica a isenção do órgão ministerial e sequer encontra-se expressamente prevista entre as hipóteses de impedimento ou de suspeição, não se podendo confundir a situação do "credor" de alguma das partes com aquela do autor de ação de indenização, afigurando-se absurda a alegação defensiva que procura equipará-lo a um "credor em potencial"". (e-STJ, fl. 1.781)
+Assim, esse fundamento apresentado pelo acórdão recorrido, a toda evidência, é suficiente, por si só, para impedir a pretensão do agravante. No entanto, não se viu nenhum argumento capaz de ceifar essa fundamentação nas razões do recurso especial, de modo que se faz imperativa, também neste ponto, a manutenção da decisão agravada.
+Outrossim, o recurso não merece prosperar quanto às demais teses suscitadas (nulidade do feito pela ausência de interrogatório do acusado; condenação do recorrente com base em depoimentos dos corréus e de duas testemunhas - estas, extrajudicialmente); e atipicidade da conduta. No tocante a essas questões, verifica-se que a reexame das conclusões tiradas pela Corte Estadual importa necessariamente o revolvimento de matéria fática, o que é vedado neste Tribunal Superior em razão da Súmula 7/ STJ.
+Seguindo essa linha de raciocínio, confiram-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. VIOLAÇÃO AO ART. 6º, DA LEI 8.038/90, ART. 397, III, DO CPP, E AO ART. 25, II, DA LEI 8.666/93. NÃO OCORRÊNCIA. DISPENSA DE LICITAÇÃO. PRESENÇA DO DOLO ESPECÍFICO E DANO AO ERÁRIO. INDÍCIOS SUFICIENTES DE AUTORIA E MATERIALIDADE. ALTERAÇÃO DO JULGADO.
+INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A denúncia descreve de modo satisfatório a conduta praticada pelo acusado, em total desacordo com as normas do processo licitatório - Lei 8.666/93 -, reveladora do dolo e tendo como consequência o prejuízo ao erário.
+2. Não cabe, no juízo de admissibilidade da ação penal, a valoração dos elementos de prova acostados à inicial acusatória. Tal providência deve se dar no curso da instrução criminal - momento em que, efetivamente, outras provas serão colhidas sob o crivo do contraditório e da ampla defesa -, devendo, nesta oportunidade, o magistrado ater-se à verificação da presença dos elementos indicativos dos indícios de autoria e materialidade.
+3. O Tribunal de origem, soberano na análise do material fático e probatório dos autos, entendeu que os documentos acostados pelo Parquet à peça acusatória demonstram a ocorrência dos crimes imputados ao denunciado.
+4. Nesse contexto, a alteração do julgado, tal como pleiteado pela defesa, demandaria necessariamente o reexame dos elementos fáticos e probatórios dos autos, providência inviável nesta sede especial, a teor do que dispõe a Súmula 7/STJ.
+5. Nos termos da Súmula 83 desta Corte, "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+6. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 700.786/BA, de minha relatoria, QUINTA TURMA, julgado em 18/10/2018, DJe 24/10/2018)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. ABSOLVIÇÃO. ART. 155 DO CPP. OBSERVÂNCIA. REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.
+FIXAÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231 DO STJ. EXECUÇÃO IMEDIATA DA PENA. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se caracteriza a alegada ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue, monocraticamente, o agravo em recurso especial quando constatar as situações descritas nos arts. 932, VIII, do Código de Processo Civil, c/c o art. 253, parágrafo único, II, "a" e "b", parte final, do RISTJ, situação ocorrida nos autos.
+2. As instâncias ordinárias sopesaram as provas e os elementos informativos colhidos extrajudicialmente com as demais provas e depoimentos obtidos em juízo, submetidos, portanto, ao crivo do contraditório, a fim de concluir pela participação do réu na empreitada criminosa. Para decidir de modo diverso, é necessário reexaminar provas e dirimir controvérsia fática, providência não admitida no recurso especial, a teor da Súmula n. 7 do STJ.
+3. A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal. Súmula n. 231 do STJ.
+4. A matéria suscitada pelo agravante já foi objeto de debates tanto no Supremo Tribunal Federal quanto nesta Corte Superior, e o entendimento consolidado é pela possibilidade de se determinar a execução imediata da pena quando exauridas as instâncias ordinárias, como na hipótese.
+5. Agravo regimental não provido."
+(AgRg no AREsp 1.193.007/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/08/2018, DJe 22/08/2018)
+Dessa forma, não tendo o agravante trazido elementos aptos a infirmar o decisum ora objurgado, este merece subsistir por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
