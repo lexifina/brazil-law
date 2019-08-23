@@ -1,0 +1,17 @@
+DECISÃO
+
+Trata-se de agravo apresentado por [NOME] DE SENA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim resumido:
+AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO - ALEGAÇÃO DE INEXISTÊNCIA DE DÉBITO E NEGATIVAÇÃO INDEVIDA NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO - DÍVIDA QUE RESTOU COMPROVADA MEDIANTE OS DOCUMENTOS APRESENTADOS PELA RÉ - NEGATIVAÇÃO QUE SE MOSTROU REGULAR - EVENTUAL FALTA DE NOTIFICAÇÃO DA CESSÃO DE CRÉDITO NÃO EXONERA O DEVEDOR DO CUMPRIMENTO DA OBRIGAÇÃO - O CESSIONÁRIO PODE EXERCER OS ATOS CONSERVATÓRIOS DO DIREITO CEDIDO INDEPENDENTEMENTE DO CONHECIMENTO DA CESSÃO PELO DEVEDOR - INTELIGÊNCIA DOS ART 290 E 293 DO CÓDIGO CIVIL - SENTENÇA DE IMPROCEDÊNCIA MANTIDA - RECURSO DESPROVIDO
+Quanto à controvérsia, apresentada pela alínea "a" do permissivo constitucional, alega violação do art. 428, I, do CPC, no que concerne à veracidade da prova documental produzida, trazendo o(s) seguinte(s) argumento(s):
+ No presente caso, como se trata de uma assinatura que foi contestada, o ônus da prova de sua veracidade cabe à parte que produziu o documento, ou seja, a ré. A fé do documento particular cessa com a impugnação do autor, e a eficácia probatória do documento não se manifestará enquanto não comprovada a sua veracidade. (fls. 229).
+É o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Em réplica, contraditoriamente ao que alega o embargante nos presentes embargos, ele afirmou genericamente que o documento "não prova nada", que a ré "não juntou um documento sequer com a assinatura do autor, nem uma vírgula" e que "o débito cobrado não existe", o que não pode ser considerado como impugnação específica de autenticidade de documento (fls. 128/135).
+Seja como for, é desnecessária a manifestação expressa sobre todas as alegações da parte (fls. 220).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão totalmente dissociadas dos fundamentos utilizados no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Verifica-se que o recurso encontra-se deficientemente fundamentado, uma vez que as razões insertas no recurso não permitem a exata compreensão da controvérsia, na medida em que se encontram dissociadas dos fundamentos da decisão agravada, aplicando-se, ao caso, por analogia, o enunciado da Súmula 284/STF" (AgRg no AREsp n. 1.394.624/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/3/2019).
+Confiram-se ainda os seguintes precedentes: EDcl nos EDcl nos EAREsp n. 740.722/SE, relator Ministro Francisco Falcão, Corte Especial, DJe de 14/12/2017; e REsp n. 1.722.691/SP, relator Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe de 15/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
