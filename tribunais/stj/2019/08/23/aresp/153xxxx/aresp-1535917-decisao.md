@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo apresentado por [NOME] contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+DIREITO TRIBUTÁRIO EXECUÇÃO FISCAL IPTU E TAXAS CONSTITUIÇÃO DEFINITIVA DO DÉBITO TRIBUTÁRIO OCORRIDA EM 1999 2000 2001 2002 E 2003 AÇÃO PROPOSTA EM 2005 APLICAÇÃO DO VERBETE SUMULAR N 397 DO STJ PRESCRIÇÃO DOS EXERCÍCIOS DE 1999 E 2000 OCORRIDA ANTES DA PROPOSITURA DA AÇÃO VERBETE SUMULAR N 409 DO STJ PROSSEGUIMENTO DA EXECUÇÃO QUANTO AOS EXERCÍCIOS DE 2001 A 2003 AUSENCIA DE IMPULSO OFICIAL APLICAÇÃO DA SÚMULA 106 DO STJ PROVIMENTO PARCIAL DO RECURSO
+Quanto à controvérsia trazida aos autos, alega violação do art. 174, parágrafo único, do CTN , no que concerne à prescrição, trazendo o(s) seguinte(s) argumento(s):
+Como entendeu o douto juízo de primeira instância, o decurso do lapso prescricional de 5 anos, no curso do processo, fulmina a pretensão executória em virtude da ocorrência da prescrição intercorrente. Entender de outra forma é consagrar a insegurança jurídica nas relações tributárias (fl. 94).
+Neste cenário, ao contrário do asseverado pelo v. acórdão recorrido, não se pode atribuir responsabilidade exclusiva ao Poder Judiciário pela demora na tramitação do feito, eis que o Recorrido não foi diligente, de forma a velar pelo regular andamento do feito (fl. 96).
+Ainda que o art. 2º do CPC de 15 disponha que o processo se desenvolve por impulso oficial, esse impulso deve acontecer com o auxílio e colaboração das partes, pois a elas compete a fiscalização dos atos processuais, bem como sua facilitação (fl. 96).
+Por todos estes motivos, o caso em tela não se amolda ao teor da Súmula 106 do STJ, porquanto a sua incidência pressupõe um autor diligente e ativo, que peticiona e protesta contra a inércia do aparelho judicial, durante o período de paralisação dos autos (fl. 96).
+É o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+ Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
