@@ -1,0 +1,4 @@
+DECISÃO
+Estando pendente de apreciação o agravo em recurso especial interposto por [NOME], a parte agravada, Google Brasil Internet Ltda., vem aos autos (Petição n. 423.465/2019 - e-STJ fl. 802) para informar que foi proferida sentença no feito originário (Processo n. 5001871-41.2018.8.13.0024) pelo Juízo de Direito da 14ª Vara Cível de Belo Horizonte/MG, tendo sido julgado extinto o processo sem resolução de mérito, nos termos do inciso VIII do art. 485 do CPC/2015, ante a desistência da ação manifestada pela autora [NOME] (e-STJ, fls. 820-821).
+Dada a natureza desse superveniente evento processual informado pela parte agravada, é fora de dúvida que o presente agravo em recurso especial perdeu sua utilidade, razão pela qual julgo-o prejudicado, nos termos do art. 34, XI, do RISTJ.
+Publique-se.
