@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo apresentado por BANCO BRADESCO S/A, contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Apelação. Desapropriação. Preliminar de cerceamento de defesa. Inocorrência. A avaliação provisória não se confunde com a perícia definitiva. Desnecessidade de contraditório nessa fase. Apresentação de quesitos ao laudo definitivo devidamente respondidos. Ausência de nulidade. No mérito, a apelante deixa de atacar os fundamentos da sentença. Ausência de motivação recursal. Recurso parcialmente conhecido, e, na parte conhecida, desprovido.
+Alega violação do art. 465 do Código de Processo Civil, no que concerne à nulidade da perícia, trazendo o seguinte argumento:
+Ocorre que no despacho saneador de fls. 27/28, houve a nomeação do perito judicial, para apuração quanto ao local a ser desapropriado bem como para auferir o valor indenizatório de acordo com o valor de mercado da região e ao tamanho da área desaproprianda, sem que houvesse o ato citatório da empresa requerida para apresentar eventuais quesitos e indicar assistente técnico para acompanhamento da perícia judicial, ferindo frontalmente o principio do contraditório e ampla defesa, gerando desde logo a nulidade da perícia técnica judicial. (fls. 248).
+É o relatório. Decido.
+No que concerne a controvérsia objeto do recurso especial, o Tribunal de origem assim decidiu:
+Pois bem. Em primeiro momento, cumpre afastar a preliminar de cerceamento de defesa.
+A avaliação prévia, como se sabe, é uma construção jurisprudencial para assegurar, antes da imissão provisória na posse, com fundamento nos preceitos da prévia e justa indenização, estimativa imparcial do valor da área expropriada.
+Tal avaliação, entretanto, não se confunde com a perícia definitiva, prestando-se apenas a fornecer elementos para que o Juízo decida com segurança acerca do pedido de imissão, daí que nada justifica a antecipação do contraditório que somente tumultuaria o feito e atrasaria o desfecho do incidente.
+A propósito o seguinte precedente desta C. Câmara:
+ ..
+Diferente seria a ausência de participação do expropriado na produção do laudo definitivo, o que, contudo, não ocorreu.
+O apelante, na petição de fls. 141/142, apresentou quesitos, devidamente respondidos pelo perito judicial a fls. 148/161.
+Indicou assistente técnico e apresentou laudo discordante a fls. 166/176, manifestando-se o perito judicial sobre a divergência a fls. 184/185.
+Não há nulidade de citação quanto ao laudo prévio, pois conforme anteriormente exposto, a avaliação prévia pode ser realizada inaudita altera parte.
+Tampouco há nulidade de intimação do despacho saneador, pois o advogado do expropriado foi devidamente intimado, como se nota da certidão de fl. 137.
+Portanto, beira a má-fé a alegação de cerceamento de defesa por falta de intimação ou participação na perícia judicial, razão pela qual não se vislumbra nesse aspecto a nulidade do laudo pericial ou da r. sentença.
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
