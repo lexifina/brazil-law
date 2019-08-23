@@ -1,0 +1,30 @@
+DECISÃO
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE APLICOU A SÚMULA 7/STJ. INVIABILIDADE DOS EMBARGOS DE DIVERGÊNCIA PARA DISCUSSÃO DE JUÍZO DE CONHECIMENTO DO RECURSO ESPECIAL. SÚMULA 315/STJ. EMBARGOS DO PARTICULAR INDEFERIDOS LIMINARMENTE.
+1. Trata-se de Embargos de Divergência opostos por [NOME] contra acórdão de lavra da Segunda Turma desta Corte Superior, no AREsp. 845.223/SP, de relatoria do douto Ministro OG FERNANDES, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A reforma do julgado no tocante à alegada suficiência das provas para concessão do benefício postulado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, segundo a Súmula 7/STJ.
+2. Consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. Agravo interno a que se nega provimento (fls. 395).
+2. Sustenta a embargante que o acórdão dissente de orientação desta Corte afirmando a possibilidade de revaloração das provas, sem que tal iniciativa seja obstada pela Súmula 7/STJ.
+3. Defende que cotejando os argumentos lançados na sentença e no acórdão é possível a análise da demanda, sem examinar quaisquer outros documentos do processo.
+4. Em síntese, é o relatório.
+5. Em que pese a argumentação jurídica constante do Recurso Unificador, verifica-se, todavia, que o acórdão embargado manteve a decisão do Relator que não conheceu do recurso, aplicando ao Recurso Especial o óbice da Súmula 7/STJ, em face a impossibilidade de revisão das provas carreadas aos autos.
+6. Com efeito, este Tribunal Superior sedimentou a orientação jurisprudencial segundo a qual a aplicação de regra técnica de admissibilidade recursal não enseja a veiculação de Embargos de Divergência. Veja-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. PRETENSÃO DE CORRIGIR SUPOSTO EQUÍVOCO COMETIDO PELO ARESTO EMBARGADO PROFERIDO NO ÂMBITO DO ÓRGÃO FRACIONÁRIO DESTA CORTE SUPERIOR. DESCABIMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O aresto objeto dos embargos de divergência prolatado pelo órgão fracionário desta Corte Superior em nenhum momento debateu a tese de mérito quanto ao termo inicial da contagem do prazo prescricional, inclusive porque sustentou a ocorrência dos óbices das Súmulas 7 e 211 do STJ.
+2. Dessa forma, revela-se ausente a similitude jurídica, o que impede o comparativo entre acórdão embargado e os paradigmas invocados, de modo que os embargos de divergência não podem ser apreciados, consoante dispõe o art. 1.043, § 4º, do CPC e a farta jurisprudência desta Corte Superior. É que tal recurso objetiva evitar a adoção de teses diversas para casos semelhantes, uma vez que sua função precípua é a de uniformizar a jurisprudência interna do Tribunal, a fim de retirar antinomias entre julgamentos sobre questões ou teses submetidas à sua apreciação. Assim, se não houve tese jurídica diversa estabelecida no aresto embargado, ausente a divergência jurídica alegada.
+3. Ademais, se a parte recorrente não se resigna, porque, supostamente, teria havido equívoco do aresto prolatado no âmbito do órgão fracionário do STJ, tal argumento evidencia que pretende contrariar o cerne do julgado embargado, isto é, a sua correção, ou não, o que descabido nesta sede recursal.
+4. "Ressalta-se ainda que a finalidade dos Embargos de Divergência é a uniformização da jurisprudência do Tribunal, não se apresentando como um recurso a mais nem se prestando para a correção de eventual equívoco ou violação que possa ter ocorrido no julgamento do Agravo em Recurso Especial" (AgInt nos EAREsp 862.496/MG, Rel. Ministro Herman Benjamin, Corte Especial, julgado em 16/11/2016, DJe 30/11/2016).
+5. Agravo interno a que se nega provimento (AgInt nos EAREsp. 717.704/SC, Rel. Min. OG FERNANDES, DJe 1o.2.2018).
+
+PROCESSO CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL. SÚMULA 315 DO STJ.
+1. Os embargos de divergência não são cabíveis para análise de regras técnicas de admissibilidade do recurso especial, como sói ser a alegada violação à Súmula 7 do STJ, haja vista que o escopo deste recurso é a uniformização de teses jurídicas divergentes em relação à matéria de mérito, de modo que, ante a natureza vinculada de sua fundamentação, é vedado analisar qualquer outra questão que não tenha sido objeto de dissídio entre os acórdãos em cotejo, ainda que se trate de matéria de ordem pública.
+2. Súmula 315 do STJ: "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Entendimento positivado no art. 1.043, III, do CPC/2015.
+3. Agravo interno não provido (AgInt nos EAREsp. 54.532/GO, Rel. Min. LUIS FELIPE SALOMÃO, DJe 16.11.2018).
+
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. PROMESSA DE COMPRA E VENDA. EXAME DE ACERTO OU DESACERTO. DESCABIMENTO. ENTENDIMENTO DESTA CORTE. AUSÊNCIA DE ALEGAÇÃO DE DISSÍDIO JURISPRUDENCIAL.
+I- Esta Corte tem entendimento firmado no sentido de que, em embargos de divergência, é descabido o exame do acerto ou desacerto na aplicação de regra técnica de conhecimento de recurso especial, como é o caso da aplicação do entendimento sedimentado nas súmulas 282, 284 e 356 do Supremo Tribunal Federal e da súmula 7 desta Corte positivado no artigo 932, inciso III, do CPC/2015.
+II- Não há alegação de dissídio a respeito do tema efetivamente julgado pela Quarta Turma.
+III- Agravo interno improvido (AgInt nos EAREsp. 389.222/RJ, Rel. Min. FRANCISCO FALCÃO, DJe 18.6.2018).
+7. Ante o exposto, com base no art. 266, § 3o. do RISTJ, indeferem-se, liminarmente, os Embargos de Divergência do Sindicato.
+8. Publique-se. Intimações necessárias.
